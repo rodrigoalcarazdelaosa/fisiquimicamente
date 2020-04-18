@@ -23,7 +23,6 @@ bio: Profesor de Física y Química en el IES La Marina de Bezana (Cantabria, Es
 interests:
 
 education:
-  courses:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
