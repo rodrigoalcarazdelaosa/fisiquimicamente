@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Profesor de Física y Química en el IES La Marina de Bezana (Cantabria, España).
 
-interests: []
+interests:
 
 education:
   courses:
