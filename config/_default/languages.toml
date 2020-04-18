@@ -2,9 +2,9 @@
 #   Create a `[X]` block for each language you want, where X is the language ID.
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
-# Configure the English version of the site.
-[en]
-  languageCode = "en-us"
+# Configure the Spanish version of the site.
+[es]
+  languageCode = "es"
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
