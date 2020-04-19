@@ -42,10 +42,10 @@ subtitle = "2º ESO"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = flase
 
 [design.background]
   # Apply a background color, gradient, or image.
