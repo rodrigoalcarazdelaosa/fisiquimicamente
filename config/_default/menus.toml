@@ -10,16 +10,29 @@
   weight = 1
   
 [[main]]
-  name = "1º ESO"
-  url = "#apuntes"
+  name = "2º ESO"
+  url = "#2ESO"
   parent = "apuntes"
-  weight = 1
   
 [[main]]
-  name = "2º ESO"
-  url = "#apuntes"
+  name = "3º ESO"
+  url = "#3ESO"
   parent = "apuntes"
-  weight = 1    
+  
+[[main]]
+  name = "4º ESO"
+  url = "#4ESO"
+  parent = "apuntes"
+  
+[[main]]
+  name = "1º Bach"
+  url = "#1Bach"
+  parent = "apuntes"
+  
+[[main]]
+  name = "2º Bach"
+  url = "#2Bach"
+  parent = "apuntes"  
 
 [[main]]
   name = "Blog"
