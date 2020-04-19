@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Lato:400,700|EB+Garamond:400,400italic,700|Roboto+Mono"
 
 # Font families
 heading_font = "Lato"
-body_font = "Roboto"
-nav_font = "Roboto"
+body_font = "EB Garamond"
+nav_font = "EB Garamond"
 mono_font = "Roboto Mono"
