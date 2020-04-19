@@ -22,16 +22,16 @@ subtitle = "2º ESO"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Todos"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Química"
+    tag = "Química"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Física"
+    tag = "Física"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
