@@ -6,7 +6,20 @@
 [[main]]
   name = "Apuntes"
   url = "#apuntes"
+  identifier = "apuntes"
   weight = 1
+  
+[[main]]
+  name = "1º ESO"
+  url = "#apuntes"
+  parent = "apuntes"
+  weight = 1
+  
+[[main]]
+  name = "2º ESO"
+  url = "#apuntes"
+  parent = "apuntes"
+  weight = 1    
 
 [[main]]
   name = "Blog"
