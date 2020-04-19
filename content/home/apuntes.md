@@ -28,6 +28,22 @@ subtitle = ""
   [[content.filter_button]]
     name = "2º ESO"
     tag = "2ESO"
+	
+  [[content.filter_button]]
+    name = "3º ESO"
+    tag = "3ESO"
+	
+  [[content.filter_button]]
+    name = "4º ESO"
+    tag = "4ESO"
+	
+  [[content.filter_button]]
+    name = "1º Bach"
+    tag = "1Bach"
+	
+  [[content.filter_button]]
+    name = "2º Bach"
+    tag = "2Bach"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
