@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-url_pdf: "estequiometría.pdf"
+url_pdf: "estequiometria.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
