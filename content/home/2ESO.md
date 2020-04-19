@@ -26,12 +26,8 @@ subtitle = "2º ESO"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Química"
-    tag = "Química"
-  
-  [[content.filter_button]]
-    name = "Física"
-    tag = "Física"
+    name = "Estequiometría"
+    tag = "Estequiometría"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
