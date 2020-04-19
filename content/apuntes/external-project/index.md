@@ -1,12 +1,11 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Tabla Periódica Dinámica
+summary: La mejor Tabla Periódica Interactiva que puedes encontrar en Internet.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Química
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://www.ptable.com
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
