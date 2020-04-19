@@ -1,9 +1,9 @@
 ---
 title: Estequiometría
-summary: An example of using the in-built project page.
+summary: Apuntes de Estequiometría.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Química
+- Estequiometría
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,14 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_pdf: "estequiometría.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
