@@ -7,6 +7,6 @@ tags:
 external_link: https://www.ptable.com
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Captura de pantalla
   focal_point: Smart
 ---
