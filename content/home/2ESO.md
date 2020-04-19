@@ -45,7 +45,7 @@ subtitle = "2º ESO"
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = flase
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
