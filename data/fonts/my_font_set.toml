@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|EB+Garamond:400,400italic,700|Nova+Mono"
+google_fonts = "Lato:400,700|EB+Garamond:400,400italic,700|Inconsolata"
 
 # Font families
 heading_font = "Lato"
 body_font = "EB Garamond"
 nav_font = "EB Garamond"
-mono_font = "Nova Mono"
+mono_font = "Inconsolata"
