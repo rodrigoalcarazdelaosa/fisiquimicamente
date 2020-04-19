@@ -17,7 +17,7 @@
 #
 # [[main]]
 #   name = "3º ESO"
-#   url = "#3ESO
+#   url = "#3ESO"
 #   parent = "apuntes"
 #   weight = 2
 #
