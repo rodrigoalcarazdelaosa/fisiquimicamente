@@ -14,12 +14,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-[cta]
-  url = "https://sourcethemes.com/academic/docs/install"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
-
 links:
 - icon_pack: fas
   icon: download
