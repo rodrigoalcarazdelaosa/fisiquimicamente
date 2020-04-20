@@ -1,8 +1,7 @@
 ---
 title: Estequiometría
 summary: Apuntes de Estequiometría.
-tags:
-- Estequiometría
+tags: "4ESO"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
