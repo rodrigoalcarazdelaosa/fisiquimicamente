@@ -23,27 +23,27 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "*"
+    category = "*"
   
   [[content.filter_button]]
     name = "2º ESO"
-    tag = "2ESO"
+    category = "2ESO"
 	
   [[content.filter_button]]
     name = "3º ESO"
-    tag = "3ESO"
+    category = "3ESO"
 	
   [[content.filter_button]]
     name = "4º ESO"
-    tag = "4ESO"
+    category = "4ESO"
 	
   [[content.filter_button]]
     name = "1º Bach"
-    tag = "1Bach"
+    category = "1Bach"
 	
   [[content.filter_button]]
     name = "2º Bach"
-    tag = "2Bach"				
+    category = "2Bach"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
