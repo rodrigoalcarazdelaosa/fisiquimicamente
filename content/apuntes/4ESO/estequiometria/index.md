@@ -21,8 +21,10 @@ image:
   icon = "download"
 
 links:
-url_pdf: "estequiometria_texto.pdf"
-url_pdf: "estequiometria_poster.pdf"
+- icon_pack: fas
+  icon: download
+  name: PDF Texto
+  url: estequiometria_texto.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
