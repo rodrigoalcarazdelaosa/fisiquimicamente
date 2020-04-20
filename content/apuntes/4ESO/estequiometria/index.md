@@ -14,6 +14,12 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+[cta]
+  url = "https://sourcethemes.com/academic/docs/install"
+  label = "Get Started"
+  icon_pack = "fas"
+  icon = "download"
+
 links:
 url_pdf: "estequiometria_texto.pdf"
 url_pdf: "estequiometria_poster.pdf"
