@@ -6,8 +6,6 @@ light = true
 
 # Primary
 primary = "#228833"
-primary_light = "#CCDDAA"
-primary_dark = "#225522"
 
 # Menu
 menu_primary = "#CCDDAA"
@@ -17,6 +15,4 @@ menu_title = "#000000"
 
 # Home sections
 home_section_odd = "#FFFFFF"
-dark_home_section_odd = "#000000"
 home_section_even = "#555555"
-dark_home_section_even = "#DDDDDD"
