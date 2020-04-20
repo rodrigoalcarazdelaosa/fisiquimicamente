@@ -14,11 +14,9 @@ role: Profesor de Física y Química
 
 # Organizations/Affiliations
 organizations:
-- name: IES La Marina
-  url: "http://portaleducativo.educantabria.es/web/ies-la-marina"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor de Física y Química en el IES La Marina de Bezana (Cantabria, España).
+bio: Profesor de Física y Química en Cantabria (España).
 
 interests:
 
@@ -49,4 +47,4 @@ email: ""
 user_groups:
 ---
 
-Profesor de Física y Química en el IES La Marina de Bezana (Cantabria, España).
+Profesor de Física y Química en Cantabria (España).
