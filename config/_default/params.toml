@@ -133,7 +133,7 @@ date_format = "2/1/2006"
 time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "es"
+address_format = "en-us"
 
 ############################
 ## Advanced
