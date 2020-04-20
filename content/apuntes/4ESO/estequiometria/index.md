@@ -13,7 +13,7 @@ image:
 
 links:
 url_pdf: "estequiometria_texto.pdf"
-url_pdf: "estequiometria_posters.pdf"
+url_pdf: "estequiometria_poster.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
