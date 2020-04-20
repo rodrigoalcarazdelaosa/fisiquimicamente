@@ -1,7 +1,8 @@
 ---
 title: Estequiometría
 summary: Apuntes de Estequiometría.
-tags: "4ESO"
+tags: 
+- 4ESO
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -11,7 +12,8 @@ image:
   focal_point: Smart
 
 links:
-url_pdf: "estequiometria.pdf"
+url_pdf: "estequiometria_texto.pdf"
+url_pdf: "estequiometria_posters.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
