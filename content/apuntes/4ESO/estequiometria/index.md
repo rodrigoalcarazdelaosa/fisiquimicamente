@@ -2,9 +2,10 @@
 title: Estequiometría
 summary: Apuntes de Estequiometría.
 tags: 
-- 4ESO
-categories:
 - Química
+- Estequiometría
+categories:
+- 4ESO
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
