@@ -1,6 +1,6 @@
 ---
 title: Estequiometría
-summary: Apuntes de Estequiometría.
+summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
 tags: 
 - Química
 - Estequiometría
