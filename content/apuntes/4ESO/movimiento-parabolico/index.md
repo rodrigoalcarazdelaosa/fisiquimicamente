@@ -11,7 +11,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [Varun Kulkarni](https://pixabay.com/es/users/tortugadatacorp-5195555/) en [Pixabay](https://pixabay.com/es/)
+  caption: Foto de [**Varun Kulkarni**](https://pixabay.com/es/users/tortugadatacorp-5195555/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 links:
