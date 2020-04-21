@@ -1,5 +1,6 @@
 ---
 title: Estequiometría
+date:
 summary: Apuntes de Estequiometría.
 tags: 
 - Química
