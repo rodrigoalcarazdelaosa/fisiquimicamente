@@ -11,7 +11,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Estequiometría
+  caption: Foto de Alex Kondratiev en Unsplash
   focal_point: Smart
 
 links:
