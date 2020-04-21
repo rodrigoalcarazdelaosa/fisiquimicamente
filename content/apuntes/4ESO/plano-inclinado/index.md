@@ -33,4 +33,4 @@ links:
 slides: 
 ---
 
-Apuntes sobre la dinámica en un plano inclinado en formato texto y póster (tipo _chuleta_).
+Apuntes sobre la dinámica de un plano inclinado en formato texto y póster (tipo _chuleta_).
