@@ -6,4 +6,4 @@ image:
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) en [Unsplash](https://unsplash.com)
 ---
 
-Hola mundo
+Hola mundo, primera entrada de este blog.
