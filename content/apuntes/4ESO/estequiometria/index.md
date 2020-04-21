@@ -11,7 +11,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Estequiometría
   focal_point: Smart
 
 links:
