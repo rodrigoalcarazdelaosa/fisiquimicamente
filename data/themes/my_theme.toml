@@ -8,9 +8,9 @@ light = false
 primary = "#228833"
 
 # Menu
-menu_primary = "#228833"
+menu_primary = "#FFFFFF"
 menu_text = "#555555"
-menu_text_active = "#FFFFFF"
+menu_text_active = "#225522"
 menu_title = "#000000"
 
 # Home sections
