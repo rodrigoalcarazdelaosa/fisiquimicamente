@@ -5,7 +5,7 @@ name = "my_theme"
 light = false
 
 # Primary
-primary = "#228833"
+primary = "#CCDDAA"
 
 # Menu
 menu_primary = "#FFFFFF"
