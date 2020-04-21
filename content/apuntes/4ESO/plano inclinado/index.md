@@ -11,7 +11,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de Alex Kondratiev en Unsplash
+  caption: Foto de Zbysiu Rodak en Unsplash
   focal_point: Smart
 
 links:
