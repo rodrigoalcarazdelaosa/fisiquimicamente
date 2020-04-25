@@ -2,10 +2,10 @@
 title: Cálculos estequiométricos
 summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
 tags: 
-- Química
 - Estequiometría
 categories:
 - 4ESO
+- Química
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
