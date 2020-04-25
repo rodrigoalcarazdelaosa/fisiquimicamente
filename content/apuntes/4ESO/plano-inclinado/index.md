@@ -4,7 +4,7 @@ summary: Fuerzas en un plano inclinado.
 tags: 
 - Fuerzas
 categories:
-- 4ESO
+- 4º ESO
 - Física
 
 # Optional external URL for project (replaces project detail page).
