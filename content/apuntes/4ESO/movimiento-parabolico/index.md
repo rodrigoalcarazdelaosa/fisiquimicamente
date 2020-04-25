@@ -4,7 +4,7 @@ summary: Estudio del tiro parabólico u oblicuo.
 tags:
 - Movimiento
 categories:
-- 4ESO
+- 4º ESO
 - Física
 
 # Optional external URL for project (replaces project detail page).
