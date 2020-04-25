@@ -23,23 +23,23 @@ subtitle = "4º ESO"
   
   [[content.filter_button]]
     name = "Todos"
-    category = "*"
+    tag = "*"
   
   [[content.filter_button]]
-    name = "2º ESO"
-    category = "2ESO"
+    name = "Estequiometría"
+    tag = "Estequiometría"
 	
   [[content.filter_button]]
     name = "3º ESO"
-    category = "3ESO"
+    tag = "3ESO"
 	
   [[content.filter_button]]
     name = "4º ESO"
-    category = "4ESO"
+    tag = "4ESO"
 	
   [[content.filter_button]]
     name = "1º Bach"
-    category = "1Bach"
+    tag = "1Bach"
 	
   [[content.filter_button]]
     name = "2º Bach"
