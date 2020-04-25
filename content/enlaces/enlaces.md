@@ -21,21 +21,21 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
+  <!-- [[content.filter_button]]
     name = "Todos"
     tag = "*"
-  
+
   [[content.filter_button]]
     name = "Estequiometría"
-    tag = "Estequiometría"		
-	
+    tag = "Estequiometría"
+
   [[content.filter_button]]
     name = "Movimiento"
-    tag = "Movimiento"		
-	
+    tag = "Movimiento"
+
   [[content.filter_button]]
     name = "Fuerzas"
-    tag = "Fuerzas"				
+    tag = "Fuerzas"			 -->	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,7 +46,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
