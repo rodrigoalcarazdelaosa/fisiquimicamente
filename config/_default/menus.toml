@@ -23,7 +23,7 @@
 
 [[main]]
   name = "4º ESO"
-  url = "4ESO/"
+  url = "cuarto/"
   parent = "apuntes"
   weight = 3
 
