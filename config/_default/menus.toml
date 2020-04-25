@@ -47,7 +47,12 @@
 [[main]]
   name = "Contacto"
   url = "#contacto"
-  weight = 3  
+  weight = 3
+  
+[[main]]
+  name = "Landing"
+  url = "landing/"
+  weight = 4  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
