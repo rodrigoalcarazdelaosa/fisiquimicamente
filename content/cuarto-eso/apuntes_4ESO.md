@@ -28,6 +28,10 @@ subtitle = "4º ESO"
   [[content.filter_button]]
     name = "Estequiometría"
     tag = "Estequiometría"		
+	
+  [[content.filter_button]]
+    name = "Movimiento"
+    tag = "Movimiento"			
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
