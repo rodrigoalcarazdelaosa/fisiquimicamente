@@ -9,35 +9,35 @@
   identifier = "apuntes"
   weight = 1
   
-[[main]]
-  name = "2º ESO"
-  url = "apuntes/2ESO"
-  parent = "apuntes"
-  weight = 1
-
-[[main]]
-  name = "3º ESO"
-  url = "apuntes/3ESO"
-  parent = "apuntes"
-  weight = 2
-
-[[main]]
-  name = "4º ESO"
-  url = "apuntes/4ESO"
-  parent = "apuntes"
-  weight = 3
-
-[[main]]
-  name = "1º Bach"
-  url = "apuntes/1Bach"
-  parent = "apuntes"
-  weight = 4
-
-[[main]]
-  name = "2º Bach"
-  url = "apuntes/2Bach"
-  parent = "apuntes"
-  weight = 5
+# [[main]]
+#   name = "2º ESO"
+#   url = "apuntes/2ESO"
+#   parent = "apuntes"
+#   weight = 1
+#
+# [[main]]
+#   name = "3º ESO"
+#   url = "apuntes/3ESO"
+#   parent = "apuntes"
+#   weight = 2
+#
+# [[main]]
+#   name = "4º ESO"
+#   url = "apuntes/4ESO"
+#   parent = "apuntes"
+#   weight = 3
+#
+# [[main]]
+#   name = "1º Bach"
+#   url = "apuntes/1Bach"
+#   parent = "apuntes"
+#   weight = 4
+#
+# [[main]]
+#   name = "2º Bach"
+#   url = "apuntes/2Bach"
+#   parent = "apuntes"
+#   weight = 5
 
 [[main]]
   name = "Blog"
@@ -47,7 +47,12 @@
 [[main]]
   name = "Contacto"
   url = "#contacto"
-  weight = 3  
+  weight = 3
+  
+[[main]]
+  name = "Landing"
+  url = "landing/"
+  weight = 4    
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
