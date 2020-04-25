@@ -16,8 +16,8 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  latex:
-    name: LaTeX
+  presentacion-informacion:
+    name: Presentación de información
     weight: 1
 ---
 
