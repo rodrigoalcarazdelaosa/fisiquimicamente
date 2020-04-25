@@ -47,4 +47,4 @@ email: ""
 user_groups:
 ---
 
-Profesor de Física y Química en Cantabria (España).
+Breve biografía...
