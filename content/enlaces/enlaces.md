@@ -12,7 +12,7 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "enlaces-externos"
   
-  <!-- # Filter toolbar (optional).
+  # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
@@ -35,7 +35,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Fuerzas"
-    tag = "Fuerzas"		 -->		
+    tag = "Fuerzas"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
