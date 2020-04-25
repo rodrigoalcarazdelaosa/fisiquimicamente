@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Apuntes"
-  url = "/"
+  url = "/content/"
   identifier = "apuntes"
   weight = 1
   
