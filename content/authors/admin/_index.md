@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Profesor de Física y Química
+role: Doctor en Física y Profesor de Física y Química
 
 # Organizations/Affiliations
 organizations:
