@@ -10,31 +10,31 @@
   
 [[main]]
   name = "2º ESO"
-  url = "#2ESO"
+  url = "2ESO/"
   parent = "apuntes"
   weight = 1
 
 [[main]]
   name = "3º ESO"
-  url = "#3ESO"
+  url = "3ESO/"
   parent = "apuntes"
   weight = 2
 
 [[main]]
   name = "4º ESO"
-  url = "#4ESO"
+  url = "4ESO/"
   parent = "apuntes"
   weight = 3
 
 [[main]]
   name = "1º Bach"
-  url = "#1Bach"
+  url = "1Bach/"
   parent = "apuntes"
   weight = 4
 
 [[main]]
   name = "2º Bach"
-  url = "#2Bach"
+  url = "2Bach/"
   parent = "apuntes"
   weight = 5
 
