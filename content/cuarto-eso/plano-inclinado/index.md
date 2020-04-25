@@ -2,10 +2,10 @@
 title: Plano inclinado
 summary: Fuerzas en un plano inclinado.
 tags: 
-- Física
 - Fuerzas
 categories:
 - 4ESO
+- Física
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
