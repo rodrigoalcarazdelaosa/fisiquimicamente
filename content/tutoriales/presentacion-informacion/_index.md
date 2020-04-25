@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: Presentación de información
-summary: Curso básico de LaTeX.
+summary: Curso básico de presentación de información.
 weight: 1
 
 # Page metadata.
-title: LaTeX
+title: Presentación de información
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
