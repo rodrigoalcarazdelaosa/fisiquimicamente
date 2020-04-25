@@ -1,11 +1,11 @@
 ---
 title: Movimiento parabólico
 summary: Estudio del tiro parabólico u oblicuo.
-tags: 
-- Física
+tags:
 - Movimiento
 categories:
 - 4ESO
+- Física
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
