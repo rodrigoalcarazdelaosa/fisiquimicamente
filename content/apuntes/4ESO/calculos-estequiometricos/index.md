@@ -4,7 +4,7 @@ summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-vo
 tags: 
 - Estequiometría
 categories:
-- 4ESO
+- 4º ESO
 - Química
 
 # Optional external URL for project (replaces project detail page).
