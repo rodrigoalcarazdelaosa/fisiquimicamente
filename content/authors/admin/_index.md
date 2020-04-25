@@ -47,4 +47,4 @@ email: ""
 user_groups:
 ---
 
-Breve biografía...
+Soy un profesor de Física y Química en un instituto de Cantabria (España).
