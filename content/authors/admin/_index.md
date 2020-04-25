@@ -47,4 +47,8 @@ email: ""
 user_groups:
 ---
 
+¡Bienvenido a mi página web personal! Aquí puedes encontrar apuntes de Física y Química (nivel desde 2º ESO hasta 2º Bach), así como diversos tutoriales, enlaces de interés o entradas en mi Blog. Me llamo Rodrigo Alcaraz de la Osa y soy profesor de Física y Química en un instituto de Cantabria (España). Obtuve mi Doctorado en Física en 2013 por la Universidad de Cantabria, España. Estoy especializado en DDA (siglas en inglés de Aproximación de Dipolo Discreto) y el estudio de la difusión de luz por materiales con propiedades ópticas no convencionales.
+
+				Vivo en Mompía (Cantabria, España) con mi mujer Jésica y mi hija Sofía. Mis intereses fuera de la investigación científica incluyen viajar, practicar deporte, escuchar música y tocar la guitarra. También me encanta jugar a juegos de ordenador.
+
 Soy un profesor de Física y Química en un instituto de Cantabria (España).
