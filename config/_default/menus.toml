@@ -48,7 +48,13 @@
   name = "LaTeX"
   parent = "tutoriales"
   url = "tutoriales/latex"
-  weight = 1  
+  weight = 1
+  
+[[main]]
+  name = "Presentación de información"
+  parent = "tutoriales"
+  url = "tutoriales/presentacion-informacion"
+  weight = 2    
 
 [[main]]
   name = "Enlaces de interés"
