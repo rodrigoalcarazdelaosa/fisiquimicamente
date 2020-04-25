@@ -44,7 +44,7 @@
   weight = 2
 
 [[main]]
-  name = "Enlaces"
+  name = "Enlaces de interés"
   url = "enlaces/"
   weight = 3
 
