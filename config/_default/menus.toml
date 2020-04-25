@@ -44,11 +44,11 @@
   url = "tutoriales/"
   weight = 2
   
-[[main]]
-  name = "LaTeX"
-  parent = "tutoriales"
-  url = "tutoriales/LaTeX"
-  weight = 1  
+# [[main]]
+#   name = "LaTeX"
+#   parent = "tutoriales"
+#   url = "tutoriales/LaTeX"
+#   weight = 1  
 
 [[main]]
   name = "Enlaces de interés"
