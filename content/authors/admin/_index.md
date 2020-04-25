@@ -16,7 +16,7 @@ role: Doctor en Física y Profesor de Física y Química
 organizations:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor de Física y Química en Cantabria (España).
+bio: Doctor en Física y Profesor de Física y Química.
 
 interests:
 
