@@ -9,35 +9,35 @@
   identifier = "apuntes"
   weight = 1
   
-# [[main]]
-#   name = "2º ESO"
-#   url = "#2ESO"
-#   parent = "apuntes"
-#   weight = 1
-#
-# [[main]]
-#   name = "3º ESO"
-#   url = "#3ESO"
-#   parent = "apuntes"
-#   weight = 2
-#
-# [[main]]
-#   name = "4º ESO"
-#   url = "#4ESO"
-#   parent = "apuntes"
-#   weight = 3
-#
-# [[main]]
-#   name = "1º Bach"
-#   url = "#1Bach"
-#   parent = "apuntes"
-#   weight = 4
-#
-# [[main]]
-#   name = "2º Bach"
-#   url = "#2Bach"
-#   parent = "apuntes"
-#   weight = 5
+[[main]]
+  name = "2º ESO"
+  url = "apuntes/2ESO"
+  parent = "apuntes"
+  weight = 1
+
+[[main]]
+  name = "3º ESO"
+  url = "apuntes/3ESO"
+  parent = "apuntes"
+  weight = 2
+
+[[main]]
+  name = "4º ESO"
+  url = "apuntes/4ESO"
+  parent = "apuntes"
+  weight = 3
+
+[[main]]
+  name = "1º Bach"
+  url = "apuntes/1Bach"
+  parent = "apuntes"
+  weight = 4
+
+[[main]]
+  name = "2º Bach"
+  url = "apuntes/2Bach"
+  parent = "apuntes"
+  weight = 5
 
 [[main]]
   name = "Blog"
