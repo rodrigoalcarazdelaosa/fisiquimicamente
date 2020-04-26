@@ -9,6 +9,6 @@ categories:
 external_link: https://personal.sron.nl/~pault/
 
 image:
-  caption: https://www.ptable.com
+  caption: https://personal.sron.nl/~pault/
   focal_point: Smart
 ---
