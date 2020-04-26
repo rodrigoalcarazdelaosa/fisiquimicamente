@@ -1,6 +1,6 @@
 ---
 title: Paul Tol's Notes
-summary: Esquemas de color.
+summary: Esquemas de color para representar datos cualitativos, divergentes y secuenciales.
 tags:
 - color
 categories:
