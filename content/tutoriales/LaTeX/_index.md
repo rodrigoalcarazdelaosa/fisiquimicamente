@@ -38,7 +38,7 @@ Tras el preámbulo comienza el documento. Para ello escribimos `\begin{document}
 
 [^1]: Cuando escribimos textos en **español** este paquete es casi obligatorio, para no tener problemas con las tildes, las eñes, etc.
 
-```latex
+```te
 \documentclass{article}
 
 % PREÁMBULO
