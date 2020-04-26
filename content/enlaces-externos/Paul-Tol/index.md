@@ -1,5 +1,5 @@
 ---
-title: 'Paul Tol's Notes'
+title: 'Paul Tols Notes'
 summary: Esquemas de color
 tags:
 - color
