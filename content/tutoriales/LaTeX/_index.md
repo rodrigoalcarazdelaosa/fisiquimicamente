@@ -5,9 +5,7 @@ summary: Curso básico de LaTeX.
 weight: 1
 
 # Page metadata.
-title: LaTeX
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
+title: Curso básico de LaTeX
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -21,42 +19,21 @@ menu:
     weight: 1
 ---
 
-## Flexibility
+## Introducción
 
-This feature can be used for publishing content such as:
+Todo documento de LaTeX comienza con el comando `\documentclass`, que nos permite escoger la _clase_ de documento que vamos a generar. Las **3 clases básicas** son:
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+* `article`: para **documentos sencillos**, en los que necesitemos **secciones** (`\section`), **subsecciones** (`\subsection`), etc.
+* `report`: para **documentos más complejos**, donde además necesitemos **capítulos** (`\chapter`).
+* `book`: para **libros** y documentos de complejidad similar (tesis, etc.), donde además necesitemos **partes** (`\part`).
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+Tras el comando `\documentclass` viene lo que se denomina el **preámbulo** del documento, que es la parte del documento donce cargamos los distintos **paquetes** que vamos a necesitar para editar nuestro documento. Los paquetes son conjuntos de comandos que añaden funcionalidad a LaTeX. Dependiendo del tipo de documento que vayamos a editar cargaremos unos paquetes u otros. Cuantos más paquetes carguemos más tardará el documento en compilar, por eso siempre es recomendable cargar solo aquellos paquetes que de verdad necesitemos.
 
-## Delete tutorials
+Algunos paquetes _imprescindibles_:
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+- `inputenc`: con la opción `[utf8]`, que nos permite escribir caracteres especiales, como tildes, sin hacer nada especial[^1].
+- `babel`: con la opción `[spanish]`, que le dice a LaTeX que el texto de este documento va a estar escrito en **español**, y de esta forma LaTeX cargará reglas específicas para este idioma, especialmente a la hora de romper palabras.
 
-## Update site menu
+Tras el preámbulo comienza el documento. Para ello escribimos `\begin{document}`, y lo finalizamos con el comando `\end{document}`. Todo lo que escribamos entre esos 2 comandos es lo que LaTeX va a compilar e interpretar como parte de nuestro documento.
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+[^1]: Cuando escribimos textos en **español** este paquete es casi obligatorio, para no tener problemas con las tildes, las eñes, etc.
