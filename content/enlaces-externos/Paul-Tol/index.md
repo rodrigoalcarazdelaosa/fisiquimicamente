@@ -1,6 +1,6 @@
 ---
 title: Paul Tols Notes
-summary: Esquemas de color
+summary: Esquemas de color.
 tags:
 - color
 categories:
