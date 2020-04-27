@@ -20,3 +20,5 @@ menu:
     name: Presentación de información
     weight: 1
 ---
+
+En este tutorial aprenderás nociones básicas de $\LaTeX$.
