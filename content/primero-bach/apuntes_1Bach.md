@@ -26,8 +26,8 @@ subtitle = "1º Bach"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Método científico"
-    tag = "Método científico"				
+    name = "Movimiento"
+    tag = "Movimiento"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
