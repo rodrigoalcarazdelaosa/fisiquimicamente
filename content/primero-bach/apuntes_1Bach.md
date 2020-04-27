@@ -10,7 +10,7 @@ subtitle = "1º Bach"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-3ESO"
+  page_type = "apuntes-1Bach"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
