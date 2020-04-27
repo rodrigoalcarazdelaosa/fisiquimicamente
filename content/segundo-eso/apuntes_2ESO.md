@@ -27,7 +27,7 @@ subtitle = "2º ESO"
   
   [[content.filter_button]]
     name = "Método científico"
-    tag = "Estequiometría"				
+    tag = "Método científico"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
