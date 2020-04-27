@@ -21,4 +21,4 @@ menu:
     weight: 1
 ---
 
-En este tutorial aprenderás nociones básicas de $\LaTeX$.
+En este tutorial aprenderás cómo presentar información correctamente.
