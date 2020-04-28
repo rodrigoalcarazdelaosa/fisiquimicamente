@@ -13,8 +13,7 @@ superuser: true
 role: Doctor en Física y Profesor de Física y Química
 
 # Organizations/Affiliations
-organizations:
-- IES Ría san Martín
+organizations: ["IES Ría san Martín"]
 
 # Short bio (displayed in user profile at end of posts)
 bio: Soy profesor de Física y Química en un instituto público de Cantabria (España).
