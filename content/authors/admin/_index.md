@@ -25,6 +25,9 @@ interests:
 
 education:
   courses:
+  - course: Máster en Formación del Profesorado
+    institution: UNED
+    year: 2017
   - course: Doctor en Física
     institution: Universidad de Cantabria
     year: 2013
