@@ -25,9 +25,12 @@ interests:
 
 education:
   courses:
-  - course: Licenciado en Física
+  - course: Doctor en Física
     institution: Universidad de Cantabria
-    year: 2003-2008
+    year: 2009-2013
+  - course: Máster en Física
+    institution: Universidad de Cantabria
+    year: 2008-2009
   - course: Licenciado en Física
     institution: Universidad de Cantabria
     year: 2003-2008
