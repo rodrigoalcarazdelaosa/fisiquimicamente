@@ -1,7 +1,7 @@
 ---
 title: Blog
 
-aliases = ["/blog/"]
+aliases: ["/blog/"]
 
 # View.
 #   1 = List
