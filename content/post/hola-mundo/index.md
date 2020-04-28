@@ -31,3 +31,5 @@ En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **c
 Las entradas de este blog van dirigidas a mis alumn@s y a todo aquel que tenga curiosidad por la ciencia, le guste viajar, la música, los videojuegos, etc.
 
 ## ¿Cómo puedes involucrarte?
+
+En todas las entradas del [**blog**]({{< ref "/post" >}}) así como en los [**apuntes**]({{< ref "/apuntes" >}}) puedes dejarme coomentarios 
