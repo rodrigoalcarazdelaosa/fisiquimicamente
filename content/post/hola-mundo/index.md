@@ -8,4 +8,7 @@ image:
 
 ## Hola Mundo
 
-Primera entrada de este blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar. En este blog encontrarás artículos de opinión, curiosidades sobre ciencia
+Primera entrada de este blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
+
+## ¿Qué esperar de este blog?
+En este blog encontrarás artículos de opinión, curiosidades sobre ciencia
