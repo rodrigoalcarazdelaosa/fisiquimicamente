@@ -21,6 +21,7 @@ bio: Soy profesor de Física y Química en un instituto de Cantabria (España).
 interests:
 
 education:
+- Dr. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
