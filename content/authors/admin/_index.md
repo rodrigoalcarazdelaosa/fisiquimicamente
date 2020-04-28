@@ -27,13 +27,13 @@ education:
   courses:
   - course: Doctor en Física
     institution: Universidad de Cantabria
-    year: 2009-2013
+    year: 2013
   - course: Máster en Física
     institution: Universidad de Cantabria
-    year: 2008-2009
+    year: 2009
   - course: Licenciado en Física
     institution: Universidad de Cantabria
-    year: 2003-2008
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
