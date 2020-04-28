@@ -1,8 +1,10 @@
 ---
 title: FiQuiPedia
-summary: Comprueba el contraste de combinaciones de colores.
+summary: Recursos didácticos sobre Física y Química.
 tags:
-categories: 
+categories:
+- Física
+- Química
 
 # Optional external URL for project (replaces project detail page).
 external_link: http://www.fiquipedia.es
