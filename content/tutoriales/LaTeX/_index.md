@@ -6,8 +6,6 @@ weight: 1
 
 # Page metadata.
 title: Curso básico de $\LaTeX$
-date: "2018-09-09T00:00:00Z"
-lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -21,4 +19,4 @@ menu:
     weight: 1
 ---
 
-En este tutorial aprenderás nociones básicas de $\LaTeX$.
+En este tutorial, basado en la [excelente guía de Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes), aprenderás nociones básicas de $\LaTeX$.

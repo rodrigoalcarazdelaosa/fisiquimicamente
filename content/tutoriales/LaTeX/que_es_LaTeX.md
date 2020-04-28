@@ -13,10 +13,4 @@ menu:
 weight: 1
 ---
 
-Todo documento de $\LaTeX$ comienza con el comando `\documentclass`, que nos permite escoger la _clase_ de documento que vamos a generar.
-
-Las **3 clases básicas** son:
-
-* `article`: para **documentos sencillos**, en los que necesitemos **secciones** (`\section`), **subsecciones** (`\subsection`), etc.
-* `report`: para **documentos más complejos**, donde además necesitemos **capítulos** (`\chapter`).
-* `book`: para **libros** y documentos de complejidad similar (tesis, etc.), donde además necesitemos **partes** (`\part`).
+$\LaTeX$ (se pronuncia LAY-tek o LAH-tek) es una herramienta utilizada para crear documentos de aspecto profesional. Se basa en la idea WYSIWYM (lo que ves es lo que quieres decir), lo que significa que sólo tienes que centrarte en el contenido de tu documento y el ordenador se encargará del formato. En lugar de espaciar el texto en una página para controlar el formato, como con Microsoft Word o LibreOffice Writer, los usuarios pueden introducir texto sin formato y dejar que LATEX se encargue del resto.

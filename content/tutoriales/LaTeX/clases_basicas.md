@@ -3,7 +3,6 @@ title: Clases básicas
 linktitle: Clases básicas
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   latex:
@@ -11,7 +10,7 @@ menu:
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 Todo documento de $\LaTeX$ comienza con el comando `\documentclass`, que nos permite escoger la _clase_ de documento que vamos a generar.
