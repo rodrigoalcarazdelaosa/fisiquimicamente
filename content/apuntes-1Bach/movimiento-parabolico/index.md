@@ -4,7 +4,6 @@ summary: Estudio del tiro parabólico u oblicuo.
 tags:
 - Movimiento
 categories:
-- 4º ESO
 - 1º Bach
 - Física
 
