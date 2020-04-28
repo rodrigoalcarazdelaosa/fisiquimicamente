@@ -25,8 +25,8 @@ interests:
 
 education:
   courses:
-  - course: Física y Química ESO
-    institution: IES Ría San Martín
+  - course: Licenciado en Física
+    institution: Universidad de Cantabria
     year: 2018-2020
 
 # Social/Academic Networking
