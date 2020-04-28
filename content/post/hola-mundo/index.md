@@ -32,4 +32,4 @@ Las entradas de este blog van dirigidas a mis alumn@s y a todo aquel que tenga c
 
 ## ¿Cómo puedes involucrarte?
 
-En todas las entradas del [**blog**]({{< ref "/blog" >}}) así como en los [**apuntes**]({{< ref "/apuntes" >}}) puedes dejarme **comentarios**. Además, puedes contactar conmigo bien utilizando el formulario o bien escribiéndome directamente 
+En todas las entradas del [**blog**]({{< ref "/blog/" >}}) así como en los [**apuntes**]({{< ref "/apuntes" >}}) puedes dejarme **comentarios**. Además, puedes contactar conmigo bien utilizando el formulario o bien escribiéndome directamente 
