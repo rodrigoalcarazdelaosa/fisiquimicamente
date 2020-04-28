@@ -2,7 +2,7 @@
 title: Colorable
 summary: Comprueba el contraste de combinaciones de colores.
 tags:
-- color
+- Color
 categories: 
 
 # Optional external URL for project (replaces project detail page).
