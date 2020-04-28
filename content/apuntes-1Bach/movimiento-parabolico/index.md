@@ -34,3 +34,5 @@ slides:
 ---
 
 Apuntes sobre el movimiento parabólico en formato texto y póster (tipo _chuleta_).
+
+Puedes encontrar un resumen de los movimientos principales [aquí]({{< ref "/apuntes-4ESO/movimientos/index.md" >}}).
