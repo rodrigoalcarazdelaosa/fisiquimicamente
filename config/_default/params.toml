@@ -212,7 +212,7 @@ plugins_js  = []
   engine = 1
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, apuntes = true}
+  commentable = {page = true, post = true, apuntes-4ESO = true}
 
   # Configuration of Disqus.
   [comments.disqus]
