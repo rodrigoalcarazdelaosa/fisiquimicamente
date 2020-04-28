@@ -27,7 +27,7 @@ education:
   courses:
   - course: Física y Química
     institution: IES Ría San Martín
-    year: 2018
+    year: 2018-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
