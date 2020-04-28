@@ -8,4 +8,4 @@ image:
 
 Hola mundo, primera entrada de este blog.
 
-Comienza una aventura que llevaba mucho tiempo (años) con ganas de
+Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar. En este blog encontrarás
