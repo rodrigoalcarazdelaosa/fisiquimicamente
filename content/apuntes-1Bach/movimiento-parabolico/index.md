@@ -19,12 +19,12 @@ links:
 - icon_pack: fas
   icon: download
   name: PDF Texto
-  url: files/movimiento_parabolico_texto.pdf
+  url: movimiento_parabolico_texto.pdf
   
 - icon_pack: fas
   icon: download
   name: PDF Póster
-  url: files/movimiento_parabolico_poster.pdf  
+  url: movimiento_parabolico_poster.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
