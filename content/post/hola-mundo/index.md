@@ -26,7 +26,7 @@ En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **c
 - Música
 - Videojuegos
 
-### ¿A quién va dirigido este blog?
+#### ¿A quién va dirigido este blog?
 
 Las entradas de este blog van dirigidas a mis alumn@s y a todo aquel que busque saciar su curiosidad sobre distintos temas relacionados con ciencia
 
