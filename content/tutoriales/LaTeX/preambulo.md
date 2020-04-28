@@ -11,7 +11,7 @@ menu:
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 2
 ---
 
 Tras el comando `\documentclass` viene lo que se denomina el **preámbulo** del documento, que es la parte del documento donce cargamos los distintos **paquetes** que vamos a necesitar para editar nuestro documento. Los paquetes son conjuntos de comandos que añaden funcionalidad a $\LaTeX$. Dependiendo del tipo de documento que vayamos a editar cargaremos unos paquetes u otros. Cuantos más paquetes carguemos más tardará el documento en compilar, por eso siempre es recomendable cargar solo aquellos paquetes que de verdad necesitemos.

@@ -11,7 +11,7 @@ menu:
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 3
 ---
 
 Tras el preámbulo comienza el documento. Para ello escribimos `\begin{document}`, y lo finalizamos con el comando `\end{document}`. Todo lo que escribamos entre esos 2 comandos es lo que $\LaTeX$ va a compilar e interpretar como parte de nuestro documento.

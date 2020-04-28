@@ -23,4 +23,4 @@ En este tutorial, basado en la [excelente guía de Overleaf](https://www.overlea
 
 ## ¿Qué es $\LaTeX$?
 
-$\LaTeX$ es una herramienta utilizada para crear documentos de aspecto profesional. Se basa en la idea de centrarnos en el contenido de nuestro documento y que el ordenador se encargue del formato, es decir, introducimos texto sin formato y dejamos que $\LaTeX$ se encargue del resto.
+$\LaTeX$ es una herramienta utilizada para crear documentos de aspecto profesional. Se basa en la idea de centrarnos en el contenido de nuestro documento, introduciendo texto sin formato, y dejar que el ordenador ($\LaTeX$) se encargue del formato.
