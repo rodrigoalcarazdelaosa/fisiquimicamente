@@ -10,6 +10,8 @@ Primera entrada de este blog. Comienza una aventura que llevaba mucho tiempo (a�
 
 ## ¿Quién soy?
 
+Actualmente soy profesor de Física y Química en un instituto público de Cantabria (España). 
+
 
 ## ¿Qué esperar de este blog?
 En este blog encontrarás artículos de opinión, curiosidades sobre ciencia
