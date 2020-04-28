@@ -1,6 +1,5 @@
 ---
 title: Posts
-aliases = ["/blog/"]
 
 # View.
 #   1 = List
@@ -13,3 +12,4 @@ header:
   caption: ""
   image: ""
 ---
+aliases = ["/blog/"]
