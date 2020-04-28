@@ -19,6 +19,8 @@ organizations:
 bio: Soy profesor de Física y Química en un instituto público de Cantabria (España).
 
 interests:
+- Viajar
+- Música
 
 education:
 
