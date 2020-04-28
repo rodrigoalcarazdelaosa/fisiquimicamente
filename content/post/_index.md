@@ -1,6 +1,8 @@
 ---
 title: Blog
 
+aliases = ["/blog/"]
+
 # View.
 #   1 = List
 #   2 = Compact
@@ -10,5 +12,5 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: ""  
 ---
