@@ -31,7 +31,7 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Tabla periódica"
-    tag = "Tabla periódica"		
+    tag = "Tabla Periódica"		
 	
   [[content.filter_button]]
     name = "Fuerzas"
