@@ -28,4 +28,6 @@ En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **c
 
 ## ¿A quién va dirigido?
 
+Las entradas de este blog van dirigidas a mis alumn@s y a todo aquel que busque 
+
 ## ¿Cómo puedes involucrarte?
