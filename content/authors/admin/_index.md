@@ -27,7 +27,10 @@ education:
   courses:
   - course: Licenciado en Física
     institution: Universidad de Cantabria
-    year: 2003--2008
+    year: 2003-2008
+  - course: Licenciado en Física
+    institution: Universidad de Cantabria
+    year: 2003-2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
