@@ -60,8 +60,4 @@ email: ""
 user_groups:
 ---
 
-¡Bienvenido a mi página web personal! Aquí puedes encontrar [**apuntes**]({{< ref "/apuntes" >}}) de Física y Química (nivel desde 2º ESO hasta 2º Bach), así como diversos [**tutoriales**]({{< ref "/tutoriales" >}}), [**enlaces de interés**]({{< ref "/enlaces" >}}) o entradas en mi [**blog**]({{< ref "/post" >}}). 
-
-Me llamo Rodrigo Alcaraz de la Osa y soy profesor de Física y Química en un instituto público de Cantabria (España).
-
-Además soy Doctor en Física (especialidad Óptica Física) por la [Universidad de Cantabria](https://web.unican.es), España.
+¡Bienvenido a mi página web personal! Aquí puedes encontrar [**apuntes**]({{< ref "/apuntes" >}}) de Física y Química (nivel desde 2º ESO hasta 2º Bach), así como diversos [**tutoriales**]({{< ref "/tutoriales" >}}), [**enlaces de interés**]({{< ref "/enlaces" >}}) o entradas en mi [**blog**]({{< ref "/post" >}}).
