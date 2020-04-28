@@ -15,7 +15,7 @@ Desde 2018 soy profesor de Física y Química en un instituto público de Cantab
 
 ## ¿Por qué este blog?
 
-Creo que un blog
+Mi intención principal con este sitio web es la de proporcionar apuntes de Física y Química a mis alumn@s, además de compartir Creo que un blog
 
 ## ¿De qué voy a hablar en este blog?
 En este blog encontrarás artículos de opinión, curiosidades sobre ciencia
