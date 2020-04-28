@@ -28,7 +28,7 @@ education:
   - course: Doctor en Física
     institution: Universidad de Cantabria
     year: 2013
-  - course: Máster en Física
+  - course: Máster en Física y Tecnología Física
     institution: Universidad de Cantabria
     year: 2009
   - course: Licenciado en Física
