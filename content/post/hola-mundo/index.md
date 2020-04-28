@@ -6,6 +6,8 @@ image:
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) en [Unsplash](https://unsplash.com)
 ---
 
-## Hola Mundo, primera entrada de este blog.
+## Hola Mundo
+
+Primera entrada de este blog.
 
 Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar. En este blog encontrarás artículos de opinión, curiosidades sobre ciencia
