@@ -6,7 +6,7 @@ image:
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) en [Unsplash](https://unsplash.com)
 ---
 
-Primera entrada de este blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
+Primera entrada de mi primer blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
 
 ## ¿Quién soy?
 
