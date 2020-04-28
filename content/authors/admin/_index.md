@@ -21,6 +21,7 @@ bio: Soy profesor de Física y Química en un instituto público de Cantabria (E
 interests:
 - Viajar
 - Música
+- Videojuegos
 
 education:
 
