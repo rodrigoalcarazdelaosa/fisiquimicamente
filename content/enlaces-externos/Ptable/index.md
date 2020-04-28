@@ -2,6 +2,7 @@
 title: Ptable
 summary: 'Ptable: La Tabla Periódica Interactiva.'
 tags:
+- Tabla Periódica
 categories: 
 - "2º ESO"
 - "3º ESO"
