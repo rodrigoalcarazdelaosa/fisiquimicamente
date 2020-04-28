@@ -27,15 +27,15 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Color"
-    tag = "color"		
+    tag = "Color"		
 	
   [[content.filter_button]]
     name = "Tabla periódica"
-    tag = "tabla-periódica"		
+    tag = "Tabla periódica"		
 	
   [[content.filter_button]]
     name = "Fuerzas"
-    tag = "fuerzas"		
+    tag = "Fuerzas"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
