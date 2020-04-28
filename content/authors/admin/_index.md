@@ -14,6 +14,8 @@ role: Doctor en Física y Profesor de Física y Química
 
 # Organizations/Affiliations
 organizations:
+- name: IES La Marina
+  url: ""
 - name: IES Ría San Martín
   url: ""
 
