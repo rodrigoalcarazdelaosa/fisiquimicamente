@@ -6,7 +6,7 @@ weight: 2
 
 # Page metadata.
 title: Presentación de información
-draft: false  # Is this a draft? true/false
+draft: true  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
