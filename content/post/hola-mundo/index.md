@@ -10,8 +10,12 @@ Primera entrada de este blog. Comienza una aventura que llevaba mucho tiempo (a�
 
 ## ¿Quién soy?
 
-Actualmente soy profesor de Física y Química en un instituto público de Cantabria (España). 
+Actualmente soy profesor de Física y Química en un instituto público de Cantabria (España). Estudié Física en la [Universidad de Cantabria](https://web.unican.es) y me doctoré Antes de dedicarme a la docencia en Educación Secundaria
 
 
-## ¿Qué esperar de este blog?
+## ¿Por qué este blog?
+
+## ¿De qué voy a hablar en este blog?
 En este blog encontrarás artículos de opinión, curiosidades sobre ciencia
+
+### ¿A quién va dirigido?
