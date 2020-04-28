@@ -30,7 +30,7 @@ subtitle = ""
     tag = "Color"		
 	
   [[content.filter_button]]
-    name = "Tabla periódica"
+    name = "Tabla Periódica"
     tag = "Tabla Periódica"			
 
 [design]
