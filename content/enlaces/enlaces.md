@@ -31,11 +31,7 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Tabla periódica"
-    tag = "Tabla Periódica"		
-	
-  [[content.filter_button]]
-    name = "Fuerzas"
-    tag = "Fuerzas"		
+    tag = "Tabla Periódica"			
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
