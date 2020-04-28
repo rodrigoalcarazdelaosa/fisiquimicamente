@@ -18,6 +18,6 @@ Actualmente soy profesor de Física y Química en un instituto público de Canta
 ## ¿De qué voy a hablar en este blog?
 En este blog encontrarás artículos de opinión, curiosidades sobre ciencia
 
-### ¿A quién va dirigido?
+## ¿A quién va dirigido?
 
 ## ¿Cómo puedes involucrarte?
