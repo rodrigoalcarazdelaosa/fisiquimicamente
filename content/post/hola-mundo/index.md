@@ -24,7 +24,7 @@ En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **c
 
 - Viajar
 - Música
-
+- Videojuegos
 
 ## ¿A quién va dirigido?
 
