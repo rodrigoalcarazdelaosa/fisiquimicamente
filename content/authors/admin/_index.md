@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - course: Física y Química
+  - course: Física y Química ESO
     institution: IES Ría San Martín
     year: 2018-2020
 
