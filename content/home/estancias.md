@@ -28,26 +28,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Investigador de Proyectos"
-  company = "Universidad de Cantabria"
-  company_url = "https://web.unican.es"
-  location = "Santander, Cantabria (España)"
-  date_start = "2013-01-01"
-  date_end = "2018-12-31"
+  title = "Con el Prof. David R. Smith"
+  company = "Duke University"
+  company_url = "https://www.imperial.ac.uk"
+  location = "Londres, Inglaterra (Reino Unido)"
+  date_start = "2011-09-01"
+  date_end = "2011-12-01"
   description = """
-  Colaborando con:
-  
-  * [Textil Santanderina](https://textilsantanderina.com/es/)
-  * [Wood Manners](https://gratoparquet.com/?locale=es)
   """
-  
-[[experience]]
-  title = "Investigador Contratado"
-  company = "Universidad de Cantabria"
-  company_url = "https://web.unican.es"
-  location = "Santander, Cantabria (España)"
-  date_start = "2011-01-01"
-  date_end = "2013-12-31"
-  description = "Desarrollo de mi Tesis Doctoral."
 
 +++
