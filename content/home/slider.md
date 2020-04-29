@@ -53,7 +53,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Enlaces de interés"
-  content = "I am right aligned :smile:"
+  content = ""
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
