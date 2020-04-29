@@ -24,7 +24,12 @@ date_format = "2006"
   location = "Suances, Cantabria (España)"
   date_start = "2018-03-01"
   date_end = ""
-  description = ""
+  description = """
+  Cursos:
+  - 2º ESO
+  - 3º ESO
+  - 4º ESO
+  """
 
 [[experience]]
   title = "Investigador de Proyectos"
