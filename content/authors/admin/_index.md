@@ -18,7 +18,7 @@ organizations:
   url: "http://portaleducativo.educantabria.es/web/iesriasanmartin"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy profesor de Física y Química en un instituto público de Cantabria (España).
+bio: Soy profesor de Física y Química en el IES Ría San Martín de Cantabria (España).
 
 interests:
 - Viajar
