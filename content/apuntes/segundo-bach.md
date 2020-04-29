@@ -23,11 +23,7 @@ subtitle = "2º Bach"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "*"
-  
-  [[content.filter_button]]
-    name = "Movimiento"
-    tag = "Movimiento"				
+    tag = "*"  		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
