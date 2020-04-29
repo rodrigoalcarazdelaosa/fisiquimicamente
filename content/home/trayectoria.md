@@ -24,9 +24,7 @@ date_format = "Jan 2006"
   location = "Suances, Cantabria (España)"
   date_start = "2018-03-01"
   date_end = ""
-  description = """
-
-  """
+  description = ""
 
 [[experience]]
   title = "Professor"
