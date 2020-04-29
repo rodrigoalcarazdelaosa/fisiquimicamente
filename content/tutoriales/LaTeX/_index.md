@@ -6,7 +6,7 @@ weight: 1
 
 # Page metadata.
 title: Curso básico de $\LaTeX$
-draft: true  # Is this a draft? true/false
+draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -21,6 +21,6 @@ menu:
 
 En este tutorial, basado en la [excelente guía de Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes), aprenderás nociones básicas de $\LaTeX$.
 
-## ¿Qué es $\LaTeX$?
-
-$\LaTeX$ es una herramienta utilizada para crear documentos de aspecto profesional. Se basa en la idea de centrarnos en el contenido de nuestro documento, introduciendo texto sin formato, y dejar que el ordenador ($\LaTeX$) se encargue del formato.
+{{% alert warning %}}
+En construcción...
+{{% /alert %}}
