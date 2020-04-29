@@ -1,18 +1,18 @@
 # Theme metadata
-name = "my_theme"
+name = "Forest"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "#CCDDAA"
+primary = "#007cc1"
 
 # Menu
-menu_primary = "#FFFFFF"
-menu_text = "#555555"
-menu_text_active = "#225522"
-menu_title = "#000000"
+menu_primary = "#007cc1"
+menu_text = "#fff"
+menu_text_active = "#1b5e20"
+menu_title = "#fff"
 
 # Home sections
-home_section_odd = "#000000"
-home_section_even = "#555555"
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
