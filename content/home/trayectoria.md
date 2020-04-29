@@ -34,5 +34,14 @@ date_format = "2006"
   date_start = "2013-01-01"
   date_end = "2018-12-31"
   description = ""
+  
+[[experience]]
+  title = "Investigador Contratado"
+  company = "Universidad de Cantabria"
+  company_url = "https://web.unican.es"
+  location = "Santander, Cantabria (España)"
+  date_start = "2011-01-01"
+  date_end = "2013-12-31"
+  description = ""  
 
 +++
