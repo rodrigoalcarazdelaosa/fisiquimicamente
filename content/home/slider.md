@@ -49,7 +49,7 @@ height = "calc(100vh - 70px)"
   cta_label = "Ir a TUTORIALES"
   cta_url = "tutoriales/"
   cta_icon_pack = "fas"
-  cta_icon = "book-open"
+  cta_icon = "hands-helping"
 
 [[item]]
   title = "Enlaces de interés"
