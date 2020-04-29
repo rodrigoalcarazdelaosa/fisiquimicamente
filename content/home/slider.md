@@ -16,7 +16,7 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Apuntes de Física y Química"
+  title = "c de Física y Química"
   content = "Nivel desde 2º ESO hasta EBAU"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -30,7 +30,7 @@ height = "calc(100vh - 70px)"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = "apuntes/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
