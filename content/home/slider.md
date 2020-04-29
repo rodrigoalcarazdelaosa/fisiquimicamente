@@ -35,9 +35,9 @@ height = "calc(100vh - 70px)"
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Left"
+  title = "Tutoriales"
   content = "I am left aligned :smile:"
-  align = "left"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
