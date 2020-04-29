@@ -83,6 +83,6 @@ height = "calc(100vh - 70px)"
   cta_label = "Ir a BLOG"
   cta_url = "post/"
   cta_icon_pack = "fas"
-  cta_icon = "link"
+  cta_icon = "blog"
     
 +++
