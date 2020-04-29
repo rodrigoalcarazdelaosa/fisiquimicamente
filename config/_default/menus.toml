@@ -37,6 +37,12 @@
   url = "apuntes/#segundo-bach"
   parent = "apuntes"
   weight = 5
+  
+[[main]]
+  name = "EBAU"
+  url = "apuntes/#EBAU"
+  parent = "apuntes"
+  weight = 6  
 
 [[main]]
   name = "Tutoriales"
