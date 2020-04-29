@@ -81,7 +81,7 @@ height = "calc(100vh - 70px)"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Ir a BLOG"
-  cta_url = "post/"
+  cta_url = "blog/"
   cta_icon_pack = "fas"
   cta_icon = "blog"
     
