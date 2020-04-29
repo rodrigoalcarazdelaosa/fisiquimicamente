@@ -66,5 +66,5 @@ height = "calc(100vh - 70px)"
   cta_label = "Ir a ENLACES DE INTERÉS"
   cta_url = "enlaces/"
   cta_icon_pack = "fas"
-  cta_icon = "hands-helping"
+  cta_icon = "link"
 +++
