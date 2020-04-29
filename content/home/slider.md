@@ -16,7 +16,7 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "c de Física y Química"
+  title = "Apuntes de Física y Química"
   content = "Nivel desde 2º ESO hasta EBAU"
   align = "center"  # Choose `center`, `left`, or `right`.
 
