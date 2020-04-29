@@ -63,4 +63,4 @@ email: "rodri.alcaraz@gmail.com"
 user_groups:
 ---
 
-¡Bienvenido a mi página web personal! Aquí puedes encontrar [<span style="font-variant:small-caps;">Small Caps</span>]({{< ref "/apuntes" >}}) de Física y Química (nivel desde 2º ESO hasta 2º Bach), así como diversos [**tutoriales**]({{< ref "/tutoriales" >}}), [**enlaces de interés**]({{< ref "/enlaces" >}}) o entradas en mi [**blog**]({{< ref "/post" >}}).
+¡Bienvenido a mi página web personal! Aquí puedes encontrar [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química (nivel desde 2º ESO hasta 2º Bach), así como diversos [**tutoriales**]({{< ref "/tutoriales" >}}), [**enlaces de interés**]({{< ref "/enlaces" >}}) o entradas en mi [**blog**]({{< ref "/post" >}}).
