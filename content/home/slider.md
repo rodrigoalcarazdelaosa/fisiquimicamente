@@ -17,7 +17,7 @@ height = "calc(100vh - 70px)"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Apuntes"
-  content = "I am center aligned :smile:"
+  content = "Física y Química (nivel desde 2º ESO hasta EBAU)"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
