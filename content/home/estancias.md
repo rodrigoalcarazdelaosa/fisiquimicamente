@@ -18,17 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Profesor de Física y Química"
-  company = "IES Ría San Martín"
-  company_url = "http://portaleducativo.educantabria.es/web/iesriasanmartin"
-  location = "Suances, Cantabria (España)"
+  title = "Con el Prof. Stefan Maier"
+  company = "Imperial College London"
+  company_url = "https://www.imperial.ac.uk"
+  location = "Londres, Cantabria (España)"
   date_start = "2013-01-01"
   date_end = "2013-03-01"
   description = """
-  Cursos:
-  - 2º ESO
-  - 3º ESO
-  - 4º ESO
   """
 
 [[experience]]
