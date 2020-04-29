@@ -99,7 +99,7 @@ height = "calc(100vh - 70px)"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Ir a ACERCA DE"
   cta_url = "acerca/"
-  cta_icon_pack = "fas"
+  cta_icon_pack = "far"
   cta_icon = "address-card"  
     
 +++
