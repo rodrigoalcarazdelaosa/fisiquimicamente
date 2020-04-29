@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "IES Ría San Martín"
   company_url = "http://portaleducativo.educantabria.es/web/iesriasanmartin"
   location = "Suances, Cantabria (España)"
-  date_start = "2017-03-03"
+  date_start = "2017-01-03"
   date_end = ""
   description = """
 
