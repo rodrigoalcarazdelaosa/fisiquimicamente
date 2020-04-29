@@ -100,6 +100,6 @@ height = "calc(100vh - 70px)"
   cta_label = "Ir a ACERCA DE"
   cta_url = "acerca/"
   cta_icon_pack = "fas"
-  cta_icon = "blog"  
+  cta_icon = "address-card"  
     
 +++
