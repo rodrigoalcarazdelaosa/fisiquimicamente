@@ -33,7 +33,12 @@ date_format = "2006"
   location = "Santander, Cantabria (España)"
   date_start = "2013-01-01"
   date_end = "2018-12-31"
-  description = "hola"
+  description = """
+  Colaborando con:
+  
+  * Textil Santanderina S.A.
+  * Wood Manners S.L.
+  """
   
 [[experience]]
   title = "Investigador Contratado"
