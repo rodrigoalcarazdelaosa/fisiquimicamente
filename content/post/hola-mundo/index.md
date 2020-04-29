@@ -15,7 +15,7 @@ Desde 2018 soy profesor de Física y Química en un instituto público de Cantab
 
 ## ¿Por qué este blog?
 
-Mi intención principal con este sitio web es la de proporcionar [**apuntes**]({{< ref "/apuntes" >}}) de Física y Química a mis alumn@s y a quien pueda interesarle (nivel desde 2º ESO hasta 2º Bach), además de compartir [**tutoriales**]({{< ref "/tutoriales" >}}) y recopilar [**enlaces de interés**]({{< ref "/enlaces" >}}).
+Mi intención principal con este sitio web es la de proporcionar [**apuntes**]({{< ref "/apuntes" >}}) de Física y Química a mis alumn@s y a quien pueda interesarle (nivel desde 2º ESO hasta EBAU), además de compartir [**tutoriales**]({{< ref "/tutoriales" >}}) y recopilar [**enlaces de interés**]({{< ref "/enlaces" >}}).
 
 Creo que un [**blog**]({{< ref "/post" >}}) es el añadido perfecto para poder debatir sobre la **actualidad** con un contenido mucho más dinámico.
 
