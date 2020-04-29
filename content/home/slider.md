@@ -36,7 +36,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Tutoriales"
-  content = "I am left aligned :smile:"
+  content = "$\LaTeX$"
   align = "center"
 
   # overlay_color = "#555"  # An HTML color value.
