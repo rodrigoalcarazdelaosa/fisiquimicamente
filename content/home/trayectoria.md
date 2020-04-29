@@ -36,8 +36,8 @@ date_format = "2006"
   description = """
   Colaborando con:
   
-  * Textil Santanderina S.A.
-  * Wood Manners S.L.
+  * [Textil Santanderina](https://textilsantanderina.com/es/)
+  * [Wood Manners](https://gratoparquet.com/?locale=es)
   """
   
 [[experience]]
