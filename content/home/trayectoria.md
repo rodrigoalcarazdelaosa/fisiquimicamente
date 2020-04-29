@@ -33,6 +33,6 @@ date_format = "2006"
   location = "Santander, Cantabria (España)"
   date_start = "2016-01-01"
   date_end = "2018-12-31"
-  description = """"""
+  description = ""
 
 +++
