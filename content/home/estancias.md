@@ -45,6 +45,16 @@ date_format = "Jan 2006"
   date_start = "2010-09-01"
   date_end = "2010-11-01"
   description = """
+  """
+  
+[[experience]]
+  title = "Con el Prof. Juan José Sáenz"
+  company = "Universidad Autónoma de Madrid"
+  company_url = "https://www.nanogune.eu/es"
+  location = "Madrid, País Vasco (España)"
+  date_start = "2010-05-01"
+  date_end = "2010-05-01"
+  description = """
   """  
 
 +++
