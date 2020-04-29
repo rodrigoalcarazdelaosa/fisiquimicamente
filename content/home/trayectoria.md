@@ -25,10 +25,6 @@ date_format = "2006"
   date_start = "2018-03-01"
   date_end = ""
   description = """
-  Niveles:
-  - 2º ESO
-  - 3º ESO
-  - 4º ESO
   """
 
 [[experience]]
