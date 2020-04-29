@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Profesor de Física y Química"
   company = "IES Ría San Martín"
-  company_url = ""
+  company_url = "http://portaleducativo.educantabria.es/web/iesriasanmartin"
   location = "California"
   date_start = "2017-01-01"
   date_end = ""
