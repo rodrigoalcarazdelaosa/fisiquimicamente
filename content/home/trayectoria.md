@@ -21,15 +21,11 @@ date_format = "Jan 2006"
   title = "Profesor de Física y Química"
   company = "IES Ría San Martín"
   company_url = "http://portaleducativo.educantabria.es/web/iesriasanmartin"
-  location = "California"
+  location = "Cortiguera"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
   """
 
 [[experience]]
