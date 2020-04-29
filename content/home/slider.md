@@ -32,7 +32,7 @@ height = "calc(100vh - 70px)"
   cta_label = "Ir a APUNTES"
   cta_url = "apuntes/"
   cta_icon_pack = "fas"
-  cta_icon = "book"
+  cta_icon = "book-open"
 
 [[item]]
   title = "Tutoriales"
