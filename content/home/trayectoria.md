@@ -28,11 +28,11 @@ date_format = "2006"
 
 [[experience]]
   title = "Investigador de Proyectos"
-  company = "University X"
-  company_url = ""
-  location = "California"
+  company = "Universidad de Cantabria"
+  company_url = "https://web.unican.es"
+  location = "Santander, Cantabria (España)"
   date_start = "2016-01-01"
   date_end = "2018-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """"""
 
 +++
