@@ -57,4 +57,4 @@ Una buena forma de **involucrar a la comunidad**, algo que ya en [Origins](https
 
 > Surca el gélido mar del Norte para descubrir y conquistar los fracturados reinos de Inglaterra. Participa en actividades como cacerías y juegos de beber, o compite en los tradicionales duelos de escarnios nórdicos, batallas de rap vikingas en las que deberás destrozar verbalmente a tu contrincante.
 
-No me cabe la menor de que [Ubisoft](https://www.ubisoft.com/es-es/) habrá creado un mundo lleno de vida
+No me cabe la menor de que [Ubisoft](https://www.ubisoft.com/es-es/) habrá creado un mundo lleno de vida y cuidando hasta el máximo detalle, al estilo de lo que nos viene acostumbrando desde [Black Flag](https://www.ubisoft.com/es-es/game/assassins-creed-4-black-flag/).
