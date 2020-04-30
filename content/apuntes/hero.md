@@ -42,9 +42,9 @@ hero_media = "hero-apuntes.png"
   icon_pack = "fas"
   icon = "chevron-circle-down"
   
-# [cta_alt]
-  # url = "https://sourcethemes.com/academic/"
-  # label = "View Documentation"
+[cta_alt]
+  url = "https://sourcethemes.com/academic/"
+  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
