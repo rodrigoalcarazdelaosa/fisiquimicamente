@@ -50,7 +50,7 @@ Esto es algo que a los fans de Assassin's Creed siempre nos ha gustado y se echa
 
 > Recluta mercenarios vikingos diseñados por otros jugadores o crea y personaliza el tuyo propio para compartirlo en línea. Relájate y recibe recompensas mientras tu guerrero lucha junto a tus amigos en su juego.
 
-Una buena forma de **involucrar a la comunidad**, algo que ya en [Origins](https://www.ubisoft.com/es-es/game/assassins-creed-origins/) y [Odyssey](https://assassinscreed.ubisoft.com/game/es-es/odyssey) consiguieron hacer muy bien.
+Una buena forma de **involucrar a la comunidad**, algo que ya consiguieron hacer muy bien en [Origins](https://www.ubisoft.com/es-es/game/assassins-creed-origins/) y [Odyssey](https://assassinscreed.ubisoft.com/game/es-es/odyssey).
 
 ## Un mundo abierto ambientado en los años oscuros
 ![mundo abierto años oscuros](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4TnxuPtrnxnJOksDAzHwJE/3dda3f11d3bfab64758fa9bdc0f10390/ac-full-width_vista_mobile.png)
