@@ -53,4 +53,4 @@ hero_media = "hero-academic.png"
 
 **En formato texto y póster (tipo _chuleta_)**
 
-Nivel desde 2º ESO hasta EBAU
+Nivel desde [2º ESO](#segundo-eso) hasta EBAU
