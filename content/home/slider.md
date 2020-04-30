@@ -90,8 +90,8 @@ height = "calc(100vh - 70px)"
   content = ""
   align = "center"
 
-  overlay_color = "#000000"  # An HTML color value.
-  # overlay_img = "headers/acerca.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "headers/acerca.jpeg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
