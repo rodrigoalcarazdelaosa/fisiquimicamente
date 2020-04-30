@@ -6,6 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Apuntes de Física y Química"
+subtitle = "hola"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-apuntes.png"
