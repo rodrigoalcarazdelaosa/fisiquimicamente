@@ -40,3 +40,5 @@ Con suerte veremos elementos de combate tomados de [For Honor](https://forhonor.
 ![prosperar asentamiento](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5DFQRcPN7xqCs79hr24wCp/402d56691739c8d8237e4fc8d677cbd9/ac-full-width_england-evening_desktop.png)
 
 > Conforme crezca tu leyenda, el nuevo hogar de tu clan también prosperará. Personaliza tu asentamiento levantando estructuras que luego podrás mejorar. Desbloquea opciones y misiones construyendo barracones, una herrería, un salón de tatuajes y mucho más.
+
+Esto es algo que a los fans de Assassin's Creed siempre nos ha gustado y se echaba de menos en las últimas entregas. ¡Genial!
