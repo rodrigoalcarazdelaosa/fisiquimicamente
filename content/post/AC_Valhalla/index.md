@@ -24,4 +24,4 @@ Si no habéis visto la serie Vikingos (la podéis encontrar en [Netflix](https:/
 
 > Ábrete paso por Inglaterra gracias a las avanzadas mecánicas de RPG. Libra batallas brutales, dirige despiadados saqueos o planea estrategias y alianzas con otros líderes para lograr la victoria. Cada decisión que tomes en los combates y las conversaciones será un paso más en tu camino a la grandeza.
 
-Parece que siguen con el 
+Parece que continúan con el camino empezado por [Odyssey](https://assassinscreed.ubisoft.com/game/es-es/odyssey).
