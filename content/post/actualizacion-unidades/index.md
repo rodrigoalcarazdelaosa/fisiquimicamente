@@ -16,4 +16,4 @@ links:
   url: https://www.cem.es/sites/default/files/files/Poster%20Nuevo-SI.pdf
 ---
 
-Recientemente
+El **Sistema Internacional de Unidades (SI)**, utilizado en la práctica científica y el único legal en numerosos países, incluida España, sufrió una revisión a finales de 2018, con la redefinición de cuatro de sus siete unidades fundamentales, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
