@@ -1,5 +1,5 @@
 ---
-title: Actualización de unidades legales de medida
+title: Actualización de unidades
 date: "2020-04-30T00:00:00Z"
 image:
   placement: 3
