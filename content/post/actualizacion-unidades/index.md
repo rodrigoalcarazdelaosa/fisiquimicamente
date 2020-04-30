@@ -22,7 +22,7 @@ Si no estás familiarizado con el **Sistema Internacional de Unidades (SI)** te 
 
 El **Sistema Internacional de Unidades (SI)** sufrió una [revisión en 2018](https://www.cem.es/sites/default/files/files/cem_revisionsi_edem_18mayo2018.pdf), con la **redefinición** de cuatro de sus siete _unidades de base_, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
 
-Esta actualización se realizó para conseguir definir todas las unidades en base a constantes físicas universales, algo que ya se había conseguido para el segundo (1967) y el metro (1983)[^1].
+Esta actualización se realizó para conseguir definir todas las unidades en base a constantes físicas universales, algo que ya se había conseguido para el segundo (1967) y el metro (1983) [^1].
 
 [1^]: La candela (cd) 
 
