@@ -40,7 +40,7 @@ hero_media = "hero-apuntes.png"
   url = "apuntes/#segundo-eso"
   label = "Comienza a explorar"
   icon_pack = "fas"
-  icon = "download"
+  icon = "chevron-circle-down"
   
 # [cta_alt]
   # url = "https://sourcethemes.com/academic/"
