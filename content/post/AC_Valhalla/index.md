@@ -21,3 +21,5 @@ Si no habéis visto la serie Vikingos (la podéis encontrar en [Netflix](https:/
 ## Características
 ### Escribe tu saga vikinga
 ![saga vikinga](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/11fnAIXY73SvPgCwsFJTGf/8b6e9f81d7a4544339c9ec8a1d64f14c/ACK_WriteYourVikingSaga__1_.png)
+
+> Ábrete paso por Inglaterra gracias a las avanzadas mecánicas de RPG. Libra batallas brutales, dirige despiadados saqueos o planea estrategias y alianzas con otros líderes para lograr la victoria. Cada decisión que tomes en los combates y las conversaciones será un paso más en tu camino a la grandeza.
