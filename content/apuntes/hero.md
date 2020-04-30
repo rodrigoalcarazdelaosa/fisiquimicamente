@@ -47,13 +47,11 @@ hero_media = "hero-apuntes.png"
   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+<!-- [cta_note]
+  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>' -->
 +++
 
 **En formato texto y póster (tipo _chuleta_)**
-
-_chuleta_ **_chuleta_**
 
 Nivel desde 2º ESO hasta EBAU
 
