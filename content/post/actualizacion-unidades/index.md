@@ -30,4 +30,8 @@ El 29 de abril de 2020 se publicó en el BOE el _Real Decreto 493/2020, de 28 de
 
 ### Definiciones de las unidades de base del SI
 
-#### Kilogramo (kg)
+#### Segundo (s)
+
+\[
+f(x) = 3x
+\]
