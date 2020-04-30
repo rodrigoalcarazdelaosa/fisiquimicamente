@@ -36,19 +36,19 @@ hero_media = "hero-apuntes.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
+# [cta]
+  # url = "https://sourcethemes.com/academic/docs/install/"
+  # label = "Get Started"
+  # icon_pack = "fas"
+  # icon = "download"
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+# [cta_alt]
+  # url = "https://sourcethemes.com/academic/"
+  # label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-<!-- [cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>' -->
+# [cta_note]
+  # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
 **En formato texto y póster (tipo _chuleta_)**
