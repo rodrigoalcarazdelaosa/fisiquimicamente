@@ -17,3 +17,7 @@ date: "2020-04-30T00:00:00Z"
 La Inglaterra de la era vikinga es una nación fracturada, plagada de ruines señores feudales y reinos en guerra, pero bajo ese caos yace una tierra rica e indómita que aguarda a que alguien la conquiste. ¿Serás tú quien lo logre?
 
 Si no habéis visto la serie Vikingos (la podéis encontrar en [Netflix](https://www.netflix.com/title/70301870)) os 
+
+## Características
+### Escribe tu saga vikinga
+![saga vikinga](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/11fnAIXY73SvPgCwsFJTGf/8b6e9f81d7a4544339c9ec8a1d64f14c/ACK_WriteYourVikingSaga__1_.png)
