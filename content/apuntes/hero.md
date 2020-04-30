@@ -21,7 +21,7 @@ hero_media = "headers/apuntes.jpg"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_end = "#ffffff"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
