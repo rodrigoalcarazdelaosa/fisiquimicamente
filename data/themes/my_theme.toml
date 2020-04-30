@@ -2,7 +2,7 @@
 name = "my_theme"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#007cc1"
