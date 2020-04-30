@@ -5,9 +5,9 @@ image:
   placement: 3
 ---
 
-{{< youtube 4HoJzG16C2E >}}
+[Ubisoft](https://www.ubisoft.com/es-es/) ha publicado el primer tráiler del nuevo **Assassin's Creed Valhalla**, que saldrá a la venta a finales de 2020.
 
-[Ubisoft](https://www.ubisoft.com/es-es/) ha publicado el primer tráiler del nuevo Assassin's Creed Valhalla, que saldrá a la venta a finales de 2020.
+{{< youtube 4HoJzG16C2E >}}
 
 ## Vive tu propia leyenda vikinga
 > Ponte en la piel de Eivor y lidera a tu clan desde los gélidos páramos de Noruega hasta un nuevo hogar en los exuberantes campos de la Inglaterra del siglo IX. Funda tu asentamiento, conquista esa tierra hostil cueste lo que cueste y gánate un lugar en el Valhalla.
