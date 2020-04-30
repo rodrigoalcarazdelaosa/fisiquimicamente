@@ -37,7 +37,7 @@ hero_media = "hero-enlaces.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#enlaces"
+  url = "/enlaces"
   label = "Comienza a explorar"
   icon_pack = "fas"
   icon = "chevron-circle-down"
