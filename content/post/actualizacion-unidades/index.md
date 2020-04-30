@@ -33,5 +33,5 @@ El 29 de abril de 2020 se publicó en el BOE el _Real Decreto 493/2020, de 28 de
 #### Segundo (s)
 
 $$
-1\thinspace \mathrm s = 
+1\thinspace \mathrm s = \frac{9192631770}{\Delta \nu _\mathrm{Cs}}
 $$
