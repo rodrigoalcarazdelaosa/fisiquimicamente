@@ -26,3 +26,6 @@ Parece que continúan con el camino empezado por [Odyssey](https://assassinscree
 ### Lidera saqueos épicos
 
 ![saqueos épicos](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2n0tQAPCRAggRczGFSJ9IJ/e376be5d7f4fd84c250be1e48ce67a9f/ac-full-width_raid_desktop.png)
+
+> Dirige una horda de saqueadores y lanza ataques relámpago contra fortalezas y ejércitos sajones. Arrebátales sus riquezas a tus enemigos, compártelas con tu clan y extiende tu poder más allá de tu asentamiento.
+
