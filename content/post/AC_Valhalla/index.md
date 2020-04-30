@@ -10,4 +10,4 @@ date: "2020-04-30T00:00:00Z"
 
 [Ubisoft](https://www.ubisoft.com/es-es/) ha publicado el primer tráiler del nuevo Assassin's Creed Valhalla, que saldrá a la venta a finales de 2020.
 
-## Vive tu propia leyenda vikinga
+# Vive tu propia leyenda vikinga
