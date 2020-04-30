@@ -28,6 +28,10 @@ Esta actualización se realizó para conseguir definir todas las unidades en bas
 
 El 29 de abril de 2020 se publicó en el BOE el _Real Decreto 493/2020, de 28 de abril, por el que se modifica el Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida_.
 
+{{% alert note %}}
+Puedes encontrar un enlace al PDF de la publicación en la cabecera de esta entrada.
+{{% /alert %}}
+
 ### Definiciones actuales de las unidades de base del SI
 
 #### Segundo (s)
