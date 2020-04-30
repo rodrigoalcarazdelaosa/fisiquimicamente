@@ -30,3 +30,4 @@ Parece que continúan con el camino empezado por [Odyssey](https://assassinscree
 
 > Dirige una horda de saqueadores y lanza ataques relámpago contra fortalezas y ejércitos sajones. Arrebátales sus riquezas a tus enemigos, compártelas con tu clan y extiende tu poder más allá de tu asentamiento.
 
+### PARTICIPA EN BRUTALES COMBATES
