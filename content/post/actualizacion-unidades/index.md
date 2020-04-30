@@ -32,6 +32,6 @@ El 29 de abril de 2020 se publicó en el BOE el _Real Decreto 493/2020, de 28 de
 
 #### Segundo (s)
 
-\[
+$$
 f(x) = 3x
-\]
+$$
