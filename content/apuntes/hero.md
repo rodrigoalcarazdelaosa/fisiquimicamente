@@ -53,6 +53,8 @@ hero_media = "hero-apuntes.png"
 
 **En formato texto y póster (tipo _chuleta_)**
 
+_chuleta_
+
 Nivel desde 2º ESO hasta EBAU
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
