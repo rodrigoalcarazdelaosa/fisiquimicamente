@@ -20,7 +20,7 @@ hero_media = "hero-apuntes.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#007cc1"
+  gradient_start = "#ffffff"
   gradient_end = "#f7f7f7"
   
   # Background image.
