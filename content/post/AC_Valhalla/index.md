@@ -25,9 +25,13 @@ Este pequeño resumen recuerda $\infty$ a la serie Vikingos (la podéis encontra
 Parece que continúan con el camino empezado por [Odyssey](https://assassinscreed.ubisoft.com/game/es-es/odyssey) respecto al uso de **mecánicas RPG**.
 
 ### Lidera saqueos épicos
-
 ![saqueos épicos](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2n0tQAPCRAggRczGFSJ9IJ/e376be5d7f4fd84c250be1e48ce67a9f/ac-full-width_raid_desktop.png)
 
 > Dirige una horda de saqueadores y lanza ataques relámpago contra fortalezas y ejércitos sajones. Arrebátales sus riquezas a tus enemigos, compártelas con tu clan y extiende tu poder más allá de tu asentamiento.
 
-### PARTICIPA EN BRUTALES COMBATES
+### Participa en brutales combates
+![brutales combates](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5JE9v6dbyUyWc6cVkw8MXR/dc377befabf3505ee1caec6cb9f70f30/ac-full-width_combat_desktop.png)
+
+> Lucha sin piedad como un guerrero vikingo. Enfréntate a implacables enemigos blandiendo un arma en cada mano, desde hachas hasta espadas e incluso escudos. Decapita a tus adversarios en peleas cuerpo a cuerpo, acribíllalos a flechazos o asesínalos con tu hoja oculta.
+
+Con suerte veremos elementos de combate tomados de [For Honor](https://forhonor.ubisoft.com/game/es-es/home/).
