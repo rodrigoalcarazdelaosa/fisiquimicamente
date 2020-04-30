@@ -14,7 +14,7 @@ image:
 > Ponte en la piel de Eivor y lidera a tu clan desde los gélidos páramos de Noruega hasta un nuevo hogar en los exuberantes campos de la Inglaterra del siglo IX. Funda tu asentamiento, conquista esa tierra hostil cueste lo que cueste y gánate un lugar en el Valhalla.
 La Inglaterra de la era vikinga es una nación fracturada, plagada de ruines señores feudales y reinos en guerra, pero bajo ese caos yace una tierra rica e indómita que aguarda a que alguien la conquiste. ¿Serás tú quien lo logre?
 
-Este pequeño resumen recuerda $\infty$ a la serie Vikingos (la podéis encontrar en [Netflix](https://www.netflix.com/title/70301870)), la cual os recomiendo encarecidamente que veáis si no lo habéis hecho.
+Este pequeño resumen recuerda $\infty$ a la serie **Vikingos** (la podéis encontrar en [Netflix](https://www.netflix.com/title/70301870)), la cual os recomiendo encarecidamente que veáis si no lo habéis hecho.
 
 ## Características
 ### Escribe tu saga vikinga
@@ -22,7 +22,7 @@ Este pequeño resumen recuerda $\infty$ a la serie Vikingos (la podéis encontra
 
 > Ábrete paso por Inglaterra gracias a las avanzadas mecánicas de RPG. Libra batallas brutales, dirige despiadados saqueos o planea estrategias y alianzas con otros líderes para lograr la victoria. Cada decisión que tomes en los combates y las conversaciones será un paso más en tu camino a la grandeza.
 
-Parece que continúan con el camino empezado por [Odyssey](https://assassinscreed.ubisoft.com/game/es-es/odyssey) respecto al uso de **mecánicas RPG**.
+Parece que continúan con el camino empezado por [**Odyssey**](https://assassinscreed.ubisoft.com/game/es-es/odyssey) respecto al uso de **mecánicas RPG**.
 
 ### Lidera saqueos épicos
 ![saqueos épicos](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2n0tQAPCRAggRczGFSJ9IJ/e376be5d7f4fd84c250be1e48ce67a9f/ac-full-width_raid_desktop.png)
