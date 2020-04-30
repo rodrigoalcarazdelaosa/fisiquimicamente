@@ -37,7 +37,7 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#segundo-eso"
+  url = "apuntes/#segundo-eso"
   label = "Comienza a explorar"
   icon_pack = "fas"
   icon = "chevron-circle-down"
@@ -53,4 +53,4 @@ hero_media = "hero-academic.png"
 
 **En formato texto y póster (tipo _chuleta_)**
 
-Nivel desde [2º ESO](#segundo-eso) hasta EBAU
+Nivel desde [2º ESO](#segundo-eso) hasta [EBAU](#EBAU)
