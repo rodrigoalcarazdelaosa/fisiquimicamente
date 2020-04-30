@@ -53,7 +53,7 @@ hero_media = "hero-apuntes.png"
 
 **En formato texto y póster (tipo _chuleta_)**
 
-_chuleta_
+_chuleta_ **_chuleta_**
 
 Nivel desde 2º ESO hasta EBAU
 
