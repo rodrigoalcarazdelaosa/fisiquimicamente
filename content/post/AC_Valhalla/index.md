@@ -10,4 +10,8 @@ date: "2020-04-30T00:00:00Z"
 
 [Ubisoft](https://www.ubisoft.com/es-es/) ha publicado el primer tráiler del nuevo Assassin's Creed Valhalla, que saldrá a la venta a finales de 2020.
 
-# Vive tu propia leyenda vikinga
+## Vive tu propia leyenda vikinga
+> Ponte en la piel de Eivor y lidera a tu clan desde los gélidos páramos de Noruega hasta un nuevo hogar en los exuberantes campos de la Inglaterra del siglo IX. Funda tu asentamiento, conquista esa tierra hostil cueste lo que cueste y gánate un lugar en el Valhalla.
+La Inglaterra de la era vikinga es una nación fracturada, plagada de ruines señores feudales y reinos en guerra, pero bajo ese caos yace una tierra rica e indómita que aguarda a que alguien la conquiste. ¿Serás tú quien lo logre?
+
+Si no habéis visto la serie Vikingos (la podéis encontrar en [Netflix](https://www.netflix.com/title/70301870)) os 
