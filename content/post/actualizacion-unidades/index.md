@@ -40,5 +40,5 @@ donde $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ es la frecuencia
 
 #### Metro (m)
 $$
-1\thinspace\mathrm m = 
+1\thinspace\mathrm m = \frac{9192631770}{299792458}
 $$
