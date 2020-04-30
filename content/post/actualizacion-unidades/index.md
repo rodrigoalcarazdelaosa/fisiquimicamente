@@ -17,7 +17,7 @@ links:
 ---
 
 {{% alert note %}}
-Si no estás familiarizado con el Sistema Internacional de Unidades (SI) puedes consultar la página oficial del Centro Español de Metrología (CEM)
+Si no estás familiarizado con el Sistema Internacional de Unidades (SI) te recomiendo consultar la [página oficial](https://www.cem.es/content/el-sistema-internacional-de-unidades-si) del Centro Español de Metrología (CEM).
 {{% /alert %}}
 
 El **Sistema Internacional de Unidades (SI)**, utilizado en la práctica científica y el único legal en numerosos países, incluida España, sufrió una revisión a finales de 2018, con la redefinición de cuatro de sus siete unidades fundamentales, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
