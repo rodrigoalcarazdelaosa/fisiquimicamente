@@ -36,4 +36,4 @@ $$
 1\thinspace \mathrm s = \frac{9192631770}{\Delta\nu_\mathrm{Cs}},
 $$
 
-donde $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ es 
+donde $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ es la frecuencia de la transición hiperfina del estado fundamental no perturbado del átomo de cesio 133.
