@@ -60,5 +60,5 @@ Una buena forma de **involucrar a la comunidad**, algo que ya en [Origins](https
 No me cabe la menor duda de que [Ubisoft](https://www.ubisoft.com/es-es/) habrá creado un mundo lleno de vida, cuidando hasta el máximo detalle, al estilo de lo que nos viene acostumbrando desde [Black Flag](https://www.ubisoft.com/es-es/game/assassins-creed-4-black-flag/).
 
 {{% alert note %}}
-Puedes encontrar más información en la [página web oficial](https://www.ubisoft.com/es-es/game/assassins-creed/valhalla) del juego.
+Puedes encontrar **más información** en la [página web oficial](https://www.ubisoft.com/es-es/game/assassins-creed/valhalla) del juego.
 {{% /alert %}}
