@@ -51,7 +51,7 @@ hero_media = "hero-apuntes.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**En formato texto y póster (tipo *chuleta*)**
+**En formato texto y póster (tipo _chuleta_)**
 
 Nivel desde 2º ESO hasta EBAU
 
