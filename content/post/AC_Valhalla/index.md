@@ -35,3 +35,8 @@ Parece que continúan con el camino empezado por [Odyssey](https://assassinscree
 > Lucha sin piedad como un guerrero vikingo. Enfréntate a implacables enemigos blandiendo un arma en cada mano, desde hachas hasta espadas e incluso escudos. Decapita a tus adversarios en peleas cuerpo a cuerpo, acribíllalos a flechazos o asesínalos con tu hoja oculta.
 
 Con suerte veremos elementos de combate tomados de [For Honor](https://forhonor.ubisoft.com/game/es-es/home/).
+
+### Haz prosperar tu asentamiento
+![prosperar asentamiento](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5DFQRcPN7xqCs79hr24wCp/402d56691739c8d8237e4fc8d677cbd9/ac-full-width_england-evening_desktop.png)
+
+> Conforme crezca tu leyenda, el nuevo hogar de tu clan también prosperará. Personaliza tu asentamiento levantando estructuras que luego podrás mejorar. Desbloquea opciones y misiones construyendo barracones, una herrería, un salón de tatuajes y mucho más.
