@@ -23,3 +23,5 @@ Si no estás familiarizado con el **Sistema Internacional de Unidades (SI)** te 
 El **Sistema Internacional de Unidades (SI)**, utilizado en la práctica científica y el único legal en numerosos países, incluida España, sufrió una revisión a finales de 2018, con la redefinición de cuatro de sus siete unidades fundamentales, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
 
 Esta actualización se realizó para conseguir definir todas las unidades en base a constantes físicas universales, algo que ya se había conseguido para el metro, el segundo y la candela.
+
+## Kilogramo (kg)
