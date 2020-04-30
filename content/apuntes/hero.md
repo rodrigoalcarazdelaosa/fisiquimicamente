@@ -51,7 +51,7 @@ hero_media = "hero-apuntes.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**En formato texto y póster (tipo *chuleta*)**
 
 Nivel desde 2º ESO hasta EBAU
 
