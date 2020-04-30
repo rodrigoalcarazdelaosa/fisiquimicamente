@@ -1,5 +1,5 @@
 ---
-title: "Acerca de"  # Add a page title.
-summary: "Acerca de"  # Add a page description.
+title: "Sobre mí"  # Add a page title.
+summary: "Sobre mí"  # Add a page description.
 type: "widget_page"  # Page type is a Widget Page
 ---
