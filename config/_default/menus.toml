@@ -72,7 +72,7 @@
   weight = 4
 
 [[main]]
-  name = "Sobre mía"
+  name = "Sobre mí"
   url = "sobre-mi/"
   weight = 5
 
