@@ -29,7 +29,7 @@ Parece que continúan con el camino empezado por [**Odyssey**](https://assassins
 
 > Dirige una horda de saqueadores y lanza ataques relámpago contra fortalezas y ejércitos sajones. Arrebátales sus riquezas a tus enemigos, compártelas con tu clan y extiende tu poder más allá de tu asentamiento.
 
-No podían faltar los saqueos (__raids__ en inglés)
+No podían faltar los +*saqueos** (_raids_ en inglés) en una aventura de **vikingos**, ¿verdad?
 
 ### Participa en brutales combates
 ![brutales combates](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5JE9v6dbyUyWc6cVkw8MXR/dc377befabf3505ee1caec6cb9f70f30/ac-full-width_combat_desktop.png)
