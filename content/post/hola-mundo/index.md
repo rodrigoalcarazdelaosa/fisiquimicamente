@@ -10,7 +10,7 @@ Primera entrada de mi primer blog. Comienza una aventura que llevaba mucho tiemp
 
 ## ¿Quién soy?
 
-Desde 2018 soy profesor de Física y Química en un instituto público de Cantabria (España). Mi experiencia previa incluye principalmente la investigación y docencia en la [Universidad de Cantabria](https://web.unican.es), en particular en la rama de la Óptica Física.
+Desde 2018 soy profesor de Física y Química en el Instituto Ría San Martín de Cantabria (España). Mi experiencia previa incluye principalmente la investigación y docencia en la [Universidad de Cantabria](https://web.unican.es), en particular en la rama de la Óptica Física.
 
 
 ## ¿Por qué este blog?
