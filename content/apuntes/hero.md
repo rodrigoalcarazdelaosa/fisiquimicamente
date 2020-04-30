@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "Apuntes"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "hero-apuntes.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
