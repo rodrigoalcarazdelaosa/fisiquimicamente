@@ -72,8 +72,8 @@
   weight = 4
 
 [[main]]
-  name = "Acerca de"
-  url = "acerca/"
+  name = "Sobre mía"
+  url = "sobre-mi/"
   weight = 5
 
 [[main]]
