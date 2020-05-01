@@ -66,7 +66,7 @@ El **kilogramo** queda por tanto definido en función del valor de la constante 
 
 #### Amperio (A)
 $$
-1\thinspace\mathrm{A} = \frac{e}{1.602176634\times 10^{-19}}\thinspace\mathrm{s^{-1}},
+1\thinspace\mathrm{A} = \left(\frac{e}{1.602176634\times 10^{-19}}\right)\thinspace\mathrm{s^{-1}},
 $$
 
 donde $e = 1.602176634\times 10^{-19}\thinspace\mathrm{A\cdot s}$ es la carga elemental.
