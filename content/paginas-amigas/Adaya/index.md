@@ -1,5 +1,5 @@
 ---
-title: Adaya
+title: 'Adaya: Amigos de África y América'
 summary: Amigos de África y América.
 tags:
 - Color
