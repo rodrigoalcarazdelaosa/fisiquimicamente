@@ -52,3 +52,14 @@ donde $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ es la velocidad de la luz 
 {{% alert note %}}
 El **metro** es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de segundo.
 {{% /alert %}}
+
+#### Kilogramo (kg)
+$$
+1\thinspace\mathrm{kg} = \frac{(299792458)^2}{(6.62607015\times 10^{-34})(9192631770)}\frac{c}{\Delta\nu_\mathrm{Cs}},
+$$
+
+donde $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ es la velocidad de la luz en el vacío.
+
+{{% alert note %}}
+El **metro** es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de segundo.
+{{% /alert %}}
