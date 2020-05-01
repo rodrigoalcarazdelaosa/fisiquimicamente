@@ -118,13 +118,5 @@ height = "calc(100vh - 70px)"
   cta_url = "contacto/"
   cta_icon_pack = "fas"
   cta_icon = "envelope"
-
-[advanced]
-css_style = ".carousel-control-prev-icon,
-.carousel-control-next-icon {
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  background: no-repeat 50% / 100% 100%; }"
     
 +++
