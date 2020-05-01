@@ -29,7 +29,7 @@ En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **c
 
 ## ¿A quién va dirigido este blog?
 
-Las entradas de este blog van dirigidas a mis alumn@s y a todo aquel que tenga curiosidad por la ciencia, le guste viajar, la música, los videojuegos, etc.
+Las entradas de este blog van dirigidas a mis alumn@s y a todo aquel que tenga curiosidad por la ciencia, le guste viajar, la música, los videojuegos, los _fotones_, etc.
 
 ## ¿Cómo puedes participar?
 
