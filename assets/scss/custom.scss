@@ -14,13 +14,10 @@ background-color: #bbccee;
 border-color: #013399; }
 
 div.alert-warning > div:first-child::before {
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 900;
-  color: #DC050C;
-  content: '\f071';
+  color: #994001;
 }
 
 .alert-warning {
-color: #DC050C;
+color: #994001;
 background-color: #FFCCCC;
 border-color: #663333; }
