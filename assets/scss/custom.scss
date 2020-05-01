@@ -5,10 +5,10 @@
   height: 60px; }
   
 @use '/themes/academic/assets/scss/vendor/bootstrap/variables' with (
-$carousel-indicator-width: 30px,
-$carousel-indicator-height: 30px,
-$carousel-indicator-hit-area-height: 10px,
-$carousel-indicator-spacer: 3px,
-$carousel-indicator-active-bg: $white,
-$carousel-indicator-transition: opacity .6s ease
+	$carousel-indicator-width: 30px,
+	$carousel-indicator-height: 30px,
+	$carousel-indicator-hit-area-height: 10px,
+	$carousel-indicator-spacer: 3px,
+	$carousel-indicator-active-bg: $white,
+	$carousel-indicator-transition: opacity .6s ease
 );
