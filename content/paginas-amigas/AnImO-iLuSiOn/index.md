@@ -1,13 +1,13 @@
 ---
 title: ÁnImO e iLuSiÓn
-summary: Asociaciónn dedicada a proyectos de cooperación al desarrollo y sensibilización social. 
+summary: Un sitio para compartir optimismo, esperanza y una pizca de reflexión.
 tags:
 categories: 
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://www.ongadaya.org/
+external_link: https://animoeilusion.blogspot.com
 
 image:
-  caption: http://www.ongadaya.org/
+  caption: https://animoeilusion.blogspot.com
   focal_point: Smart
 ---
