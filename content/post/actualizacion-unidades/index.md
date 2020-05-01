@@ -61,5 +61,5 @@ $$
 donde $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ es la constante de Planck.
 
 {{% alert note %}}
-El **kilogramo** es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de segundo.
+El **kilogramo** queda por tanto definido en función del valor de la constante de Planck, $h$.
 {{% /alert %}}
