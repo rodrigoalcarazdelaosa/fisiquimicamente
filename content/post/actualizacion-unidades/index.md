@@ -1,5 +1,5 @@
 ---
-title: Actualización de unidades de medida
+title: Actualización de _unidades de base_ del SI
 date: "2020-04-30T00:00:00Z"
 image:
   placement: 3
