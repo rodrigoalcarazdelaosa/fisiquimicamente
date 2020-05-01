@@ -66,7 +66,7 @@ El **kilogramo** queda por tanto definido en función del valor de la constante 
 
 #### Amperio (A)
 $$
-1\thinspace\mathrm{A} = \frac{e}{1.602176634\times {-19}},
+1\thinspace\mathrm{A} = \frac{e}{1.602176634\times 10^{-19}},
 $$
 
 donde $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ es la constante de Planck.
