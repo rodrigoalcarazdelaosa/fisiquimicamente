@@ -15,7 +15,7 @@ Desde 2018 soy profesor de Física y Química en el [IES Ría San Martín de Can
 
 ## ¿Por qué este blog?
 
-Mi intención principal con este sitio web es la de proporcionar [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química a mis alumn@s y a quien pueda interesarle (nivel desde 2º ESO hasta EBAU), además de compartir [**tutoriales**]({{< ref "/tutoriales" >}}) y recopilar [**enlaces de interés**]({{< ref "/enlaces" >}}).
+Mi intención principal con este sitio web es la de proporcionar [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química (nivel desde [2º ESO](/apuntes/#segundo-eso) hasta [EBAU](/apuntes/#EBAU)) a mis alumn@s y a quien pueda interesarle, además de compartir [**tutoriales**]({{< ref "/tutoriales" >}}) y recopilar [**enlaces de interés**]({{< ref "/enlaces" >}}).
 
 Creo que un [**blog**]({{< ref "/post" >}}) es el añadido perfecto para poder debatir sobre la **actualidad** con un contenido mucho más dinámico.
 
