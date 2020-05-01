@@ -18,7 +18,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "Apuntes de Física y Química"
   content = "Nivel desde [2º ESO](apuntes/#segundo-eso) hasta [EBAU](apuntes/#EBAU)"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
