@@ -19,8 +19,6 @@ links:
   url: https://www.cem.es/sites/default/files/files/Poster%20Nuevo-SI.pdf
 ---
 
-{{< tweet 1255585199015985155 >}}
-
 {{% alert note %}}
 Si no estás familiarizado con el **Sistema Internacional de Unidades (SI)** te recomiendo consultar [esta página](https://www.cem.es/content/el-sistema-internacional-de-unidades-si) del [Centro Español de Metrología (CEM)](https://www.cem.es).
 {{% /alert %}}
