@@ -63,3 +63,14 @@ donde $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ 
 {{% alert note %}}
 El **kilogramo** queda por tanto definido en función del valor de la constante de Planck, $h$.
 {{% /alert %}}
+
+#### Amperio (A)
+$$
+1\thinspace\mathrm{A} = \frac{(299792458)^2}{(6.62607015\times 10^{-34})(9192631770)}\frac{h\Delta\nu_\mathrm{Cs}}{c^2},
+$$
+
+donde $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ es la constante de Planck.
+
+{{% alert note %}}
+El **kilogramo** queda por tanto definido en función del valor de la constante de Planck, $h$.
+{{% /alert %}}
