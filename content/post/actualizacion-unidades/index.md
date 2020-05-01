@@ -33,7 +33,7 @@ Esta actualización se realizó para conseguir definir todas las unidades **en f
 
 | Unidad            | Constante universal            |
 | ------------------| ------------------------------ |
-| segundo            | Build your website.            |
+| segundo           | Build your website.            |
 | metro   | View your website.             |
 
 ## R.D. 493/2020, de 28 de abril [{{< icon name="download" pack="fas" >}}PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
