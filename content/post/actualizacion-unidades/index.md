@@ -1,6 +1,9 @@
 ---
 title: Actualización de unidades de base del SI
 date: "2020-04-30T00:00:00Z"
+categories:
+- Física
+- Química
 image:
   placement: 3
   caption: "[https://www.cem.es/content/el-sistema-internacional-de-unidades-si](https://www.cem.es/content/el-sistema-internacional-de-unidades-si)"
