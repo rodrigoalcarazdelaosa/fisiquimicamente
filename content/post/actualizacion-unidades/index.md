@@ -66,11 +66,11 @@ El **kilogramo** queda por tanto definido en función del valor de la constante 
 
 #### Amperio (A)
 $$
-1\thinspace\mathrm{A} = \frac{e}{1.602176634\times 10^{-19}},
+1\thinspace\mathrm{A} = \frac{e}{1.602176634\times 10{-19}}\thinspace\mathrm{s^{-1}},
 $$
 
-donde $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ es la constante de Planck.
+donde $e = 1.602176634\times 10{-19}\thinspace\mathrm{A\cdot s}$ es la carga elemental.
 
 {{% alert note %}}
-El **kilogramo** queda por tanto definido en función del valor de la constante de Planck, $h$.
+El **amperio** es por tanto la corriente eléctrica correspondiente al flujo de $1/1.602176634\times 10{-19} = 6.241509074\times 10^{18}$ cargas elementales por segundo.
 {{% /alert %}}
