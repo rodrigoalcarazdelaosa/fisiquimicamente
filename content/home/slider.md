@@ -54,7 +54,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "Enlaces de interés"
   content = ""
-  align = "center"
+  align = "left"
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "enlaces.jpg"  # Image path relative to your `static/img/` folder.
