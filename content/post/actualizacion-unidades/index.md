@@ -94,5 +94,5 @@ $$
 donde $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es el número de Avogadro.
 
 {{% alert note %}}
-El **kelvin** es por tanto igual a la variación de temperatura termodinámica que da lugar a una variación de energía térmica $kT$ de $1.380649\times 10^{-23}\thinspace\mathrm J$.
+El **mol** es la cantidad de sustancia de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales especificadas.
 {{% /alert %}}
