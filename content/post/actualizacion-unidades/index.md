@@ -72,7 +72,7 @@ $$
 donde $e = 1.602176634\times 10^{-19}\thinspace\mathrm{A\cdot s}$ es la carga elemental.
 
 {{% alert note %}}
-El **amperio** es por tanto la corriente eléctrica correspondiente al flujo de $1/1.602176634\times 10^{-19} = 6.241509074\times 10^{18}$ cargas elementales por segundo.
+El **amperio** es por tanto la corriente eléctrica correspondiente al flujo de $1/(1.602176634\times 10^{-19}) = 6.241509074\times 10^{18}$ cargas elementales por segundo.
 {{% /alert %}}
 
 #### Kelvin (K)
