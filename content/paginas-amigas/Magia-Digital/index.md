@@ -1,6 +1,6 @@
 ---
 title: Magia Digital
-summary: Herramientas, sugerencias y ... soluciones
+summary: Herramientas, sugerencias y ... soluciones.
 tags:
 categories: 
 
