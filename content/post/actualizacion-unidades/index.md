@@ -96,3 +96,14 @@ donde $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es el 
 {{% alert note %}}
 El **mol** es la cantidad de sustancia de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales especificadas.
 {{% /alert %}}
+
+#### Candela (cd)
+$$
+1\thinspace\mathrm{cd} = \frac{6.02214076\times 10^{23}}{N_\mathrm A},
+$$
+
+donde $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es el número de Avogadro.
+
+{{% alert note %}}
+El **candela** es la cantidad de sustancia de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales especificadas.
+{{% /alert %}}
