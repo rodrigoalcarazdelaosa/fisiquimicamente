@@ -83,5 +83,5 @@ $$
 donde $k = 1.380649\times 10^{-23}\thinspace\mathrm{kg\cdot m^2\cdot s^{-2}\cdot K^{-1}}$ es la constante de Boltzmann.
 
 {{% alert note %}}
-El **kelvin** es por tanto igual a la variación de temperatura termodinámica que da lugar a una variación de energía térmica kT de 1,380 649 × 10−23 J.
+El **kelvin** es por tanto igual a la variación de temperatura termodinámica que da lugar a una variación de energía térmica kT de 1,380 649 × 10−23 J.
 {{% /alert %}}
