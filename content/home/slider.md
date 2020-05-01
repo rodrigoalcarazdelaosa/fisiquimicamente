@@ -52,8 +52,8 @@ height = "calc(100vh - 70px)"
   cta_icon = "hands-helping"
 
 [[item]]
-  title = "Enlaces de interés"
-  content = ""
+  title = "Enlaces"
+  content = "[Recursos online](enlaces/#recursos-online) y [páginas amigas](enlaces/#paginas-amigas)"
   align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
@@ -63,7 +63,7 @@ height = "calc(100vh - 70px)"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Ir a ENLACES DE INTERÉS"
+  cta_label = "Ir a ENLACES"
   cta_url = "enlaces/"
   cta_icon_pack = "fas"
   cta_icon = "link"
