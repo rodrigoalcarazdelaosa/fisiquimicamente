@@ -53,4 +53,4 @@ hero_media = "apuntes.jpg"
 
 **En formato texto y póster (tipo _chuleta_)**
 
-<span style="font-variant:small-caps;">niveles</span>: [**2º ESO**](#segundo-eso), [3º ESO](#tercero-eso), [4º ESO](#cuarto-eso), [1º Bach](#primero-bach), [2º Bach](#segundo-bach) o [EBAU](#EBAU)
+<span style="font-variant:small-caps;">niveles</span>: [2º ESO](#segundo-eso), [3º ESO](#tercero-eso), [4º ESO](#cuarto-eso), [1º Bach](#primero-bach), [2º Bach](#segundo-bach) o [EBAU](#EBAU)
