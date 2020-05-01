@@ -1,6 +1,6 @@
 ---
 title: 'Adaya: Amigos de África y América'
-summary: Amigos de África y América.
+summary: Asociaciónn dedicada a proyectos de cooperación al desarrollo y sensibilización social. 
 tags:
 - Color
 categories: 
