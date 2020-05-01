@@ -14,8 +14,8 @@ display: flex;
 justify-content: center;
 padding-left: 0; // override <ol> default
 // Use the .carousel-control's width as margin so we don't overlay those
-margin-right: 90px;
-margin-left: 90px;
+margin-right: $carousel-control-width;
+margin-left: $carousel-control-width;
 list-style: none;
 
 li {
