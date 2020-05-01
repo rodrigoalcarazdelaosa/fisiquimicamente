@@ -21,7 +21,7 @@ Si no estás familiarizado con el **Sistema Internacional de Unidades (SI)** te 
 {{% /alert %}}
 
 {{% alert note %}}
-Si buscas un resumen, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585199015985155?s=20) nos recomienda _imprimir y tener en nuestras aulas, laboratorios o seminarios_ este fantástico póster elaborado por el [Centro Español de Metrología (CEM)](https://www.cem.es).
+Si buscas un resumen, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585199015985155?s=20) nos recomienda _imprimir y tener en nuestras aulas, laboratorios o seminarios_ este fantástico póster elaborado por el [Centro Español de Metrología (CEM)](https://www.cem.es). [{{< icon name="download" pack="fas" >}}PDF](https://www.cem.es/sites/default/files/files/Poster%20Nuevo-SI.pdf)
 {{% /alert %}}
 
 El **Sistema Internacional de Unidades (SI)** sufrió una [revisión en 2018](https://www.cem.es/sites/default/files/files/cem_revisionsi_edem_18mayo2018.pdf), con la **redefinición** de cuatro de sus siete _unidades de base_, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
