@@ -39,7 +39,7 @@ Esta actualización se realizó para conseguir definir todas las unidades **en f
 | Amperio (A)      | Carga elemental ($e$)                                                     |
 | Kelvin (K)       | Constante de Boltzmann ($k$)                                              |
 | Mol (mol)        | Número de Avogadro ($N_\mathrm A$)                                        |
-| Candela (cd)     | Eficacia luminosa de la radiación monocromática de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ ($K_\mathrm{cd}$) |
+| Candela (cd)     | Eficacia luminosa de la radiación de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ ($K_\mathrm{cd}$) |
 
 ## R.D. 493/2020, de 28 de abril [{{< icon name="download" pack="fas" >}}PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
 
