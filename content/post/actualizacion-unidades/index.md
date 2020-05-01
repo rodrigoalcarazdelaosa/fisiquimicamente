@@ -99,7 +99,7 @@ El **mol** es la cantidad de sustancia de un sistema que contiene $6.02214076\ti
 
 #### Candela (cd)
 $$
-1\thinspace\mathrm{cd} = \frac{6.02214076\times 10^{23}}{N_\mathrm A},
+1\thinspace\mathrm{cd} = \frac{K_\mathrm{cd}}{683},
 $$
 
 donde $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es el número de Avogadro.
