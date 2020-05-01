@@ -7,10 +7,6 @@ light = true
 # Primary
 primary = "#013399"
 
-# Links
-link = "#013399"
-link_hover = "222255"
-
 # Menu
 menu_primary = "#013399"
 menu_text = "#fff"
