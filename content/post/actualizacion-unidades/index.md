@@ -55,7 +55,7 @@ El **metro** es por tanto la longitud del trayecto recorrido por la luz en el va
 
 #### Kilogramo (kg)
 $$
-1\thinspace\mathrm{kg} = \frac{(299792458)^2}{(6.62607015\times 10^{-34})(9192631770)}\frac{c}{\Delta\nu_\mathrm{Cs}},
+1\thinspace\mathrm{kg} = \frac{(299792458)^2}{(6.62607015\times 10^{-34})(9192631770)}\frac{h\Delta\nu_\mathrm{Cs}}{c^2},
 $$
 
 donde $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ es la velocidad de la luz en el vacío.
