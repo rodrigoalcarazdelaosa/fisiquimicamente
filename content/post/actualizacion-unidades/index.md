@@ -88,7 +88,7 @@ El **kelvin** es por tanto igual a la variación de temperatura termodinámica q
 
 #### Mol (mol)
 $$
-1\thinspace\mathrm{mol} = \frac{6.02214076\times 10^{23}}{N\mathrm A}
+1\thinspace\mathrm{mol} = \frac{6.02214076\times 10^{23}}{N_\mathrm A},
 $$
 
 donde $k = 1.380649\times 10^{-23}\thinspace\mathrm{kg\cdot m^2\cdot s^{-2}\cdot K^{-1}}$ es la constante de Boltzmann.
