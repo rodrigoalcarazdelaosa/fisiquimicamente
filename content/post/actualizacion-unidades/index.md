@@ -31,7 +31,7 @@ El **Sistema Internacional de Unidades (SI)** sufrió una [revisión en 2018](ht
 
 Esta actualización se realizó para conseguir definir todas las unidades en función de constantes físicas universales, algo que ya se había conseguido para el segundo (1967) y el metro (1983).
 
-| Command           | Description                    |
+| Unidad            | Constante universal            |
 | ------------------| ------------------------------ |
 | `hugo`            | Build your website.            |
 | `hugo serve -w`   | View your website.             |
