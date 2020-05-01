@@ -45,7 +45,7 @@ Con suerte veremos elementos de combate tomados de [**For Honor**](https://forho
 
 > Conforme crezca tu leyenda, el nuevo hogar de tu clan también prosperará. Personaliza tu asentamiento levantando estructuras que luego podrás mejorar. Desbloquea opciones y misiones construyendo barracones, una herrería, un salón de tatuajes y mucho más.
 
-Esto es algo que a los fans de Assassin's Creed siempre nos ha gustado y se echaba de menos en las últimas entregas. ¡Genial!
+Esto es algo que a l@s fans de Assassin's Creed siempre nos ha gustado y se echaba de menos en las últimas entregas. ¡Genial!
 
 ### Comparte tu saqueador personalizado
 ![saqueador personalizado](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4FzbQHeyJqEoKHsS8iG0LQ/f34f246b3e8b36f33c7ff4f0ac31b3ad/ac-full-width_jomsviking_desktop.png)
