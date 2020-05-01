@@ -4,7 +4,7 @@
   width: 60px;
   height: 60px; }
   
-  @use 'variables' with (
+  @use '/themes/academic/assets/scss/vendor/bootstrap/variables' with (
   $carousel-indicator-width: 30px,
   $carousel-indicator-height: 3px,
   $carousel-indicator-hit-area-height: 10px,
