@@ -31,6 +31,11 @@ El **Sistema Internacional de Unidades (SI)** sufrió una [revisión en 2018](ht
 
 Esta actualización se realizó para conseguir definir todas las unidades en función de constantes físicas universales, algo que ya se había conseguido para el segundo (1967) y el metro (1983).
 
+| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `hugo`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
+
 ## R.D. 493/2020, de 28 de abril [{{< icon name="download" pack="fas" >}}PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
 
 El 29 de abril de 2020 se publicó en el BOE el _Real Decreto 493/2020, de 28 de abril, por el que se modifica el Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida_.
