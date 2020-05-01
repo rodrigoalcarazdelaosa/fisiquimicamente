@@ -39,7 +39,7 @@ $$
 donde $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ es la frecuencia de la transición hiperfina del estado fundamental no perturbado del átomo de cesio 133.
 
 {{% alert note %}}
-El segundo es por tanto la duración de 9 192 631 770 periodos de la radiación correspondiente a la transición entre los dos niveles hiperfinos del estado fundamental no perturbado del átomo de cesio 133.
+El **segundo** es por tanto la duración de 9 192 631 770 periodos de la radiación correspondiente a la transición entre los dos niveles hiperfinos del estado fundamental no perturbado del átomo de cesio 133.
 {{% /alert %}}
 
 #### Metro (m)
@@ -50,5 +50,5 @@ $$
 donde $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ es la velocidad de la luz en el vacío.
 
 {{% alert note %}}
-El metro es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de segundo.
+El **metro** es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de segundo.
 {{% /alert %}}
