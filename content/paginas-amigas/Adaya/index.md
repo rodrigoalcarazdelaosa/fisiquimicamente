@@ -5,9 +5,9 @@ tags:
 categories: 
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://adayacantabria.blogspot.com
+external_link: http://www.ongadaya.org/
 
 image:
-  caption: https://adayacantabria.blogspot.com
+  caption: http://www.ongadaya.org/
   focal_point: Smart
 ---
