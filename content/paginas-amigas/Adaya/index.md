@@ -9,6 +9,6 @@ categories:
 external_link: https://adayacantabria.blogspot.com
 
 image:
-  caption: https://colorable.jxnblk.com
+  caption: https://adayacantabria.blogspot.com
   focal_point: Smart
 ---
