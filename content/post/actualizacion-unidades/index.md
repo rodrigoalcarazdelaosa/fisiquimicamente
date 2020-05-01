@@ -33,10 +33,12 @@ Esta actualización se realizó para conseguir definir todas las unidades **en f
 
 | Unidad (símbolo) | Constante universal (símbolo)                                             |
 | ---------------- | ------------------------------------------------------------------------- |
-| segundo (s)      | Frecuencia de transición del átomo de cesio 133 ($\Delta\nu_\mathrm{Cs}$) |
-| metro (m)        | Velocidad de la luz en el vacío ($c$)                                     |
-| kilogramo (kg)   | Constante de Planck ($h$)                                                 |
+| Segundo (s)      | Frecuencia de transición del átomo de cesio 133 ($\Delta\nu_\mathrm{Cs}$) |
+| Metro (m)        | Velocidad de la luz en el vacío ($c$)                                     |
+| Kilogramo (kg)   | Constante de Planck ($h$)                                                 |
 | Amperio (A)      | Carga elemental ($e$)                                                     |
+| Kelvin (K)       | Constante de Boltzmann ($k$)                                              |
+| Mol (mol)        | Número de Avogadro ($N_\mathrm A$)                                        |
 
 ## R.D. 493/2020, de 28 de abril [{{< icon name="download" pack="fas" >}}PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
 
