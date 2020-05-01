@@ -111,3 +111,7 @@ donde $K_\mathrm{cd} = 683\thinspace\mathrm{cd\cdot sr\cdot kg^{-1}\cdot m^{-2}\
 {{% alert note %}}
 La **candela** es por tanto la intensidad luminosa, en una dirección dada, de una fuente que emite radiación monocromática de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ y tiene una intensidad radiante en esa dirección de $(1/683)\thinspace\mathrm{W/sr}$.
 {{% /alert %}}
+
+{{% alert note %}}
+De nuevo por recomendación de [@fqsaja1](https://twitter.com/fqsaja1/status/1255585201482317830?s=20), si quieres ampliar información, te recomiendo echar un vistazo a este magnífico artículo de David Newell [publicado en la revista Physics Today]((https://physicstoday.scitation.org/doi/10.1063/PT.3.2448)).
+{{% /alert %}}
