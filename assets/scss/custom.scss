@@ -4,11 +4,12 @@
   width: 40px;
   height: 40px; }
   
-@use '~/Documents/GitHub/rodrigoalcarazdelaosa.me/themes/academic/assets/scss/vendor/bootstrap/variables' with (
-	$carousel-indicator-width: 30px,
-	$carousel-indicator-height: 30px,
-	$carousel-indicator-hit-area-height: 10px,
-	$carousel-indicator-spacer: 3px,
-	$carousel-indicator-active-bg: $white,
-	$carousel-indicator-transition: opacity .6s ease
-);
+.alert-note {
+color: #12537e;
+background-color: #f6fbfe;
+border-color: #209cee; }
+
+.alert-warning {
+color: #cd0930;
+background-color: #fff5f7;
+border-color: #ff3860; }
