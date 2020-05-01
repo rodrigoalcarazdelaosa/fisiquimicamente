@@ -94,7 +94,7 @@ $$
 donde $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es el número de Avogadro.
 
 {{% alert note %}}
-El **mol** es la cantidad de sustancia de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales especificadas.
+El **mol** es por tanto la cantidad de sustancia de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales especificadas.
 {{% /alert %}}
 
 #### Candela (cd)
@@ -102,8 +102,8 @@ $$
 1\thinspace\mathrm{cd} = \frac{1}{(6.62607015\times 10^{-34})(9192631770)^2 683}h(\Delta\nu_\mathrm{Cs})^2 K_\mathrm{cd},
 $$
 
-donde $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es el número de Avogadro.
+donde $K_\mathrm{cd} = 683\thinspace\mathrm{cd\cdot sr\cdot kg^{-1}\cdot m^{-2}\cdot s^3}$ es la eficacia luminosa de la radiación monocromática de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$.
 
 {{% alert note %}}
-El **candela** es la cantidad de sustancia de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales especificadas.
+El **candela** es por tanto la intensidad luminosa, en una dirección dada, de una fuente que emite radiación monocromática de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ y tiene una intensidad radiante en esa dirección de $(1/683)\thinspace\mathrm{W/sr}$.
 {{% /alert %}}
