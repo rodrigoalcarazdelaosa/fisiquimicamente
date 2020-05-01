@@ -36,6 +36,7 @@ Esta actualización se realizó para conseguir definir todas las unidades **en f
 | segundo (s)      | Frecuencia de transición del átomo de cesio 133 ($\Delta\nu_\mathrm{Cs}$) |
 | metro (m)        | Velocidad de la luz en el vacío ($c$)                                     |
 | kilogramo (kg)   | Constante de Planck ($h$)                                                 |
+| Amperio (A)      | Carga elemental ($e$)                                                     |
 
 ## R.D. 493/2020, de 28 de abril [{{< icon name="download" pack="fas" >}}PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
 
