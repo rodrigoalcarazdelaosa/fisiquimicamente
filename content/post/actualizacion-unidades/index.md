@@ -29,7 +29,7 @@ Si quieres ampliar la información mostrada aquí, [@fqsaja1](https://twitter.co
 
 El **Sistema Internacional de Unidades (SI)** sufrió una [revisión en 2018](https://www.cem.es/sites/default/files/files/cem_revisionsi_edem_18mayo2018.pdf), con la **redefinición** de cuatro de sus siete _unidades de base_, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
 
-Esta actualización se realizó para conseguir definir todas las unidades en función de constantes físicas universales, algo que ya se había conseguido para el segundo (1967) y el metro (1983).
+Esta actualización se realizó para conseguir definir todas las unidades **en función de constantes físicas universales**, algo que ya se había conseguido para el segundo (1967) y el metro (1983). la siguiente tabla resumen la relación entre cada unidad y la constante universal en la que se basa:
 
 | Unidad            | Constante universal            |
 | ------------------| ------------------------------ |
