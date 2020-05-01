@@ -14,7 +14,7 @@ link_hover = "222255"
 # Menu
 menu_primary = "#013399"
 menu_text = "#fff"
-menu_text_active = "#222255"
+menu_text_active = "#CCEEFF"
 menu_title = "#fff"
 
 # Home sections
