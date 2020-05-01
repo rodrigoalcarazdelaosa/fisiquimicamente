@@ -40,5 +40,7 @@ donde $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ es la frecuencia
 
 #### Metro (m)
 $$
-1\thinspace\mathrm m = \frac{9192631770}{299792458}\frac{c}{\Delta\nu_\mathrm{Cs}}
+1\thinspace\mathrm m = \frac{9192631770}{299792458}\frac{c}{\Delta\nu_\mathrm{Cs}},
 $$
+
+donde $c = 299792458\,\mathrm{m\cdot s^{-1}}$
