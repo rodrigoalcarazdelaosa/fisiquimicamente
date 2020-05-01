@@ -86,7 +86,11 @@ height = "calc(100vh - 70px)"
   cta_icon = "blog"
   
 [[item]]
-  title = "Sobre mí"
+  title = "<font size="6"
+          face="verdana"
+          color="green"> 
+            GeeksforGeeks! 
+        </font>Sobre mí"
   content = ""
   align = "left"
 
