@@ -62,9 +62,21 @@
   weight = 2    
 
 [[main]]
-  name = "Enlaces de interés"
-  url = "enlaces/"
+  name = "Enlaces"
+  identifier = "enlaces"
   weight = 3
+  
+[[main]]
+  name = "Recursos online"
+  url = "enlaces/#recursos-online"
+  parent = "enlaces"
+  weight = 1
+  
+[[main]]
+  name = "Páginas amigas"
+  url = "enlaces/#paginas-amigas"
+  parent = "enlaces"
+  weight = 2
 
 [[main]]
   name = "Blog"
