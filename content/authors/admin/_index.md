@@ -24,6 +24,7 @@ interests:
 - Viajar
 - Música
 - Videojuegos
+- _Fotones_
 
 education:
   courses:
