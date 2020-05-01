@@ -1,6 +1,8 @@
 ---
 title: Assassin's Creed Valhalla
 date: "2020-04-30T00:00:00Z"
+tags:
+- Videojuegos
 image:
   placement: 3
   caption: "[**Assassin's Creed Valhalla**](https://www.ubisoft.com/es-es/game/assassins-creed/valhalla)"
