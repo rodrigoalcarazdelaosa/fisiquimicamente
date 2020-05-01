@@ -1,7 +1,8 @@
 // Flechas del slider más grandes
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  width: 60px; }
+  width: 60px;
+  height: 60px; }
   
 @use '~/Documents/GitHub/rodrigoalcarazdelaosa.me/themes/academic/assets/scss/vendor/bootstrap/variables' with (
 	$carousel-indicator-width: 30px,
