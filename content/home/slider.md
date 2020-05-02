@@ -37,7 +37,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "Tutoriales"
   content = "[LaTeX](tutoriales/latex), [presentación de información](tutoriales/presentacion-informacion), etc."
-  align = "center"
+  align = "right"
 
   # overlay_color = "#FFFFFF"  # An HTML color value.
   overlay_img = "tutoriales.jpg"  # Image path relative to your `static/img/` folder.
