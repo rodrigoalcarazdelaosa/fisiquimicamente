@@ -8,7 +8,7 @@ weight = 4  # Order that this section will appear.
 title = "Contacto"
 subtitle = ""
 
-[design.background]
+[background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
