@@ -82,11 +82,11 @@ color: #013399; }
  **************************************************/
 .badge-light {
   color: rgba(0, 0, 0, 0.68);
-  background: $red; }
+  background: rgba(0, 0, 0, 0.05); }
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
-  background: rgba(0, 0, 0, 0.1); }
+  background: $red; }
 
 a.badge:focus,
 a.badge:hover {
