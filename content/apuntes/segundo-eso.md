@@ -68,7 +68,7 @@ subtitle = "2º ESO"
   
 [advanced]
  # Custom CSS. 
- css_style = ".page-subtitle {color: #000000;}"
+ css_style = ".dark .page-subtitle {color: #000000;}"
  
  # CSS class.
  css_class = ""
