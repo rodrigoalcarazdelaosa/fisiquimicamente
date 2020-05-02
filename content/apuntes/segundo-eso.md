@@ -71,6 +71,6 @@ subtitle = "2º ESO"
  css_style = ""
  
  # CSS class.
- css_class = "custom.scss"
+ css_class = ""
 +++
 
