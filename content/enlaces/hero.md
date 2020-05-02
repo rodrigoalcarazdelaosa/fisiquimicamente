@@ -51,6 +51,4 @@ hero_media = ""
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**En formato texto y póster (tipo _chuleta_)**
-
-[2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) | [1º Bach](#primero-bach) | [2º Bach](#segundo-bach) | [EBAU](#EBAU)
+[Recursos online](enlaces/#recursos-online) y [páginas amigas](enlaces/#paginas-amigas)
