@@ -94,8 +94,7 @@ color: #013399; }
     box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.5); }
   .btn-light.disabled, .btn-light:disabled {
     color: #013399;
-    background-color: transparent;
-    border-color: #FFFFFF; }
+    background-color: transparent; }
   .btn-light:not(:disabled):not(.disabled):active, .btn-light:not(:disabled):not(.disabled).active, .show > .btn-light.dropdown-toggle {
     color: #FFFFFF;
     background-color: #013399;
