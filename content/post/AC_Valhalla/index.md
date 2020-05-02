@@ -55,7 +55,7 @@ Esto es algo que a l@s fans de Assassin's Creed siempre nos ha gustado y se echa
 Una buena forma de **involucrar a la comunidad**, algo que ya consiguieron hacer muy bien en [Origins](https://www.ubisoft.com/es-es/game/assassins-creed-origins/) y [Odyssey](https://assassinscreed.ubisoft.com/game/es-es/odyssey).
 
 ## Un mundo abierto ambientado en los años oscuros
-![mundo abierto años oscuros](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4TnxuPtrnxnJOksDAzHwJE/3dda3f11d3bfab64758fa9bdc0f10390/ac-full-width_vista_mobile.png)
+![mundo abierto años oscuros](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7HMfAnuBJPtzcULd3sLi3i/1acf9296bcefd2fe8aa71756b9e8cd48/ac-full-width_vista_desktop.png)
 
 > Surca el gélido mar del Norte para descubrir y conquistar los fracturados reinos de Inglaterra. Participa en actividades como cacerías y juegos de beber, o compite en los tradicionales duelos de escarnios nórdicos, batallas de rap vikingas en las que deberás destrozar verbalmente a tu contrincante.
 
