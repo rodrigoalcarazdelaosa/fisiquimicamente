@@ -63,25 +63,6 @@ color: #555555; }
 .wg-hero.dark a:not(.wg-hero .btn) {
 color: #013399; }
 
-.btn-outline-primary {
-  color: #013399;
-  border-color: #013399; }
-  .btn-outline-primary:hover {
-    color: #fff;
-    background-color: #013399;
-    border-color: #013399; }
-  .btn-outline-primary:focus, .btn-outline-primary.focus {
-    box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.5); }
-  .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-    color: #013399;
-    background-color: transparent; }
-  .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle {
-    color: #fff;
-    background-color: #013399;
-    border-color: #013399; }
-    .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-primary.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.5); }
-
 // Botones
 .btn-light {
   color: #013399;
