@@ -1,6 +1,6 @@
 ---
-title: Color Wheel
-summary: Color Calculator.
+title: Color Calculator
+summary: Una práctica rueda de colores interactiva.
 tags:
 - Color
 categories: 
