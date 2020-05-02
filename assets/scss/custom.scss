@@ -86,7 +86,8 @@ color: #013399; }
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
-  background: $red; }
+  color: $white;
+  background: rgba(0, 0, 0, 0.1); }
 
 a.badge:focus,
 a.badge:hover {
