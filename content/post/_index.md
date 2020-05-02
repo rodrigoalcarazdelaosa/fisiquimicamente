@@ -11,6 +11,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header: 
-  image: "posts_header.jpg"
+  image: "entradas.jpg"
   caption: ""
 ---
