@@ -35,7 +35,7 @@ height = "calc(100vh - 70px)"
   cta_icon = "book"
 
 [[item]]
-  title = "Tutoriales"
+  title = "Tutorialesss"
   content = "[LaTeX](tutoriales/latex), [presentación de información](tutoriales/presentacion-informacion), etc."
   align = "right"
 
