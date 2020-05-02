@@ -123,8 +123,8 @@ color: $red; }
     color: $primary;
     background-color: transparent; }
   .btn-light:not(:disabled):not(.disabled):active, .btn-light:not(:disabled):not(.disabled).active, .show > .btn-light.dropdown-toggle {
-    color: $primary;
-    background-color: #bad0ff;
+    color: #FFFFFF;
+    background-color: $primary;
     border-color: $primary; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.5); }
