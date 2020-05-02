@@ -10,7 +10,7 @@ aliases: ["/blog/"]
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
+header: posts.jpg
   caption: ""
   image: ""  
 ---
