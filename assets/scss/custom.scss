@@ -63,13 +63,13 @@ color: #555555; }
 .wg-hero.dark a:not(.wg-hero .btn) {
 color: #013399; }
 
+// Color de los metada de artículo
+.article-metadata {
+  color: $red; }
+
 // Botones
 .wg-hero.dark .btn {
   color: #013399; }
-  
-.a:hover {
-	color: $red;
-}
 
 .btn-light {
   color: #013399;
