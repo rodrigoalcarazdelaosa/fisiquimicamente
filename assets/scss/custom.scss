@@ -13,13 +13,13 @@
   
 // Personalización de los colores de las notas y los warnings
 div.alert > div:first-child::before {
-color: #354D05;
+color: #006633;
 }  
   
 .alert-note {
-color: #354D05;
-background-color: #b1f22f;
-border-color: #354D05; }
+color: #006633;
+background-color: #99ffcc;
+border-color: #006633; }
 
 div.alert-warning > div:first-child::before {
   color: #992611;
