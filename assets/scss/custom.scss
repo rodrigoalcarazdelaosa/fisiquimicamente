@@ -104,6 +104,9 @@ color: $primary; }
 // Botones
 .wg-hero.dark .btn {
   color: $white; }
+  
+.wg-hero.dark .btn:hover {
+color: $white; }  
 
 .btn-light {
   color: $primary;
