@@ -67,7 +67,12 @@ color: #013399; }
 .article-metadata {
   color: #555555; }
 .article-metadata a {
-    color: #555555; }  
+    color: #555555; }
+	
+// Color de los headings
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $red; }	  
 
 // Botones
 .wg-hero.dark .btn {
