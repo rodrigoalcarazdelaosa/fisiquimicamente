@@ -66,6 +66,13 @@ color: #013399; }
 // Formulario de contacto
 .form-control {  
   color: #555555; }
+  
+.form-control:focus {
+  color: $red;
+  background-color: #fff;
+  border-color: #1c66fe;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.25); }
 
 // Botones
 .btn-light {
