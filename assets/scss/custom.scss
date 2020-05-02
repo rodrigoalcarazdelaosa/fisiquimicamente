@@ -29,3 +29,20 @@ div.alert-warning > div:first-child::before {
 color: #994001;
 background-color: #ffe8d8;
 border-color: #994001; }
+
+// Color del subtítulo
+.page-subtitle {
+  color: rgba(255,255,255,1.0);
+}
+
+.dark .page-subtitle {
+  color: rgba(255,255,255,1.0);
+}
+
+.author-card .card-subtitle {
+  color: rgba(255,255,255,1.0);
+}
+
+.dark .author-card .card-subtitle {
+  color: rgba(255,255,255,1.0);
+}
