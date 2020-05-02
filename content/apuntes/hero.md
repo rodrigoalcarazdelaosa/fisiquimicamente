@@ -54,3 +54,5 @@ hero_media = ""
 **En formato texto y póster (tipo _chuleta_)**
 
 [2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) | [1º Bach](#primero-bach) | [2º Bach](#segundo-bach) | [EBAU](#EBAU)
+
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
