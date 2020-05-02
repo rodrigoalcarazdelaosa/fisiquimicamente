@@ -14,13 +14,13 @@
   
 // Personalización de los colores de las notas y los warnings
 div.alert > div:first-child::before {
-color: #013399;
+color: $primary;
 }  
   
 .alert-note {
-color: #013399;
+color: $primary;
 background-color: #bad0ff;
-border-color: #013399; }
+border-color: $primary; }
 
 div.alert-warning > div:first-child::before {
   color: #994001;
@@ -57,12 +57,12 @@ color: #555555; }
 .wg-hero.dark .hero-lead,
 .wg-hero.dark .hero-cta-alt,
 .wg-hero.dark .hero-note > * {
-  color: #013399;
+  color: $primary;
   /* text-shadow: 1px 1px 4px rgba(255,255,255,1); */
   /* Uncomment to standout on complicated backgrounds. */ }
   
 .wg-hero.dark a:not(.wg-hero .btn) {
-color: #013399; }
+color: $primary; }
 
 // Color de los metada de artículo
 .article-metadata {
@@ -73,10 +73,10 @@ color: #013399; }
 // Color de los headings
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #013399; }
+  color: $primary; }
   
 .article-title a {
-color: #013399; }
+color: $primary; }
 
 /**************************************************
  *  Tags/Labels
@@ -93,29 +93,29 @@ color: #013399; }
 .tag-cloud a:active,
 .tag-cloud a:focus,
 .tag-cloud a:hover {
-  color: #013399; }
+  color: $primary; }
 
 // Botones
 .wg-hero.dark .btn {
-  color: #013399; }
+  color: $primary; }
 
 .btn-light {
-  color: #013399;
+  color: $primary;
   background-color: transparent;
-  border-color: #013399; }
+  border-color: $primary; }
   .btn-light:hover {
-    color: #013399;
+    color: $primary;
     background-color: #bad0ff;
-    border-color: #013399; }
+    border-color: $primary; }
   .btn-light:focus, .btn-light.focus {
     box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.5); }
   .btn-light.disabled, .btn-light:disabled {
-    color: #013399;
+    color: $primary;
     background-color: transparent; }
   .btn-light:not(:disabled):not(.disabled):active, .btn-light:not(:disabled):not(.disabled).active, .show > .btn-light.dropdown-toggle {
-    color: #013399;
+    color: $primary;
     background-color: #bad0ff;
-    border-color: #013399; }
+    border-color: $primary; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.5); }
 
