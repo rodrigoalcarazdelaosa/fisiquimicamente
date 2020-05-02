@@ -47,6 +47,7 @@
 
 [[main]]
   name = "Tutoriales"
+  url = "tutoriales/"  
   identifier = "tutoriales"
   weight = 2
   
