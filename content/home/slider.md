@@ -71,7 +71,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "Blog"
   content = ""
-  align = "left"
+  align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "blog.jpg"  # Image path relative to your `static/img/` folder.
