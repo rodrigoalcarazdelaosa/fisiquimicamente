@@ -81,7 +81,7 @@ color: #013399; }
  *  Tags/Labels
  **************************************************/
 .badge-light {
-  color: rgba(0, 0, 0, 0.68);
+  color: $red;
   background: rgba(0, 0, 0, 0.05); }
 
 .badge-light[href]:focus,
