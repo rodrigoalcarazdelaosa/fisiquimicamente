@@ -77,6 +77,38 @@ h1, h2, h3, h4, h5, h6 {
 .article-title a {
 color: #013399; }  	  
 
+/**************************************************
+ *  Tags/Labels
+ **************************************************/
+.badge-light {
+  border: none;
+  color: rgba(0, 0, 0, 0.68);
+  background: rgba(0, 0, 0, 0.05);
+  font-weight: normal;
+  border-radius: 3px;
+  padding: 5px 10px;
+  margin-right: 8px;
+  margin-bottom: 8px; }
+
+.badge-light[href]:focus,
+.badge-light[href]:hover {
+  background: rgba(0, 0, 0, 0.1); }
+
+a.badge:focus,
+a.badge:hover {
+  color: rgba(0, 0, 0, 0.68); }
+
+.tag-cloud a:active,
+.tag-cloud a:focus,
+.tag-cloud a:hover {
+  color: $red;
+  transform: scale(1.2); }
+
+.dark .tag-cloud a:active,
+.dark .tag-cloud a:focus,
+.dark .tag-cloud a:hover {
+  color: #0144cc; }
+
 // Botones
 .wg-hero.dark .btn {
   color: #013399; }
