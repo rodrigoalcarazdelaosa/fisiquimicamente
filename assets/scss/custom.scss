@@ -114,8 +114,8 @@ color: $red; }
   background-color: transparent;
   border-color: $primary; }
   .btn-light:hover {
-    color: $primary;
-    background-color: #bad0ff;
+    color: #FFFFFF;
+    background-color: $primary;
     border-color: $primary; }
   .btn-light:focus, .btn-light.focus {
     box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.5); }
