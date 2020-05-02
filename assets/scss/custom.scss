@@ -30,10 +30,14 @@ color: #994001;
 background-color: #ffe8d8;
 border-color: #994001; }
 
-// Color del subtítulo
+// Color del subtítulo de los proyectos
 .section-heading p {
   color: #555555;
 }
+
+// Color del subtítulo de mi rol
+.author-card .card-subtitle {
+  color: #000000; }
 
 // Color del texto del slider
 .wg-hero.dark .hero-title,
