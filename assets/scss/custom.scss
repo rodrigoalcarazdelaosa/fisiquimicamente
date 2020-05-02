@@ -41,7 +41,11 @@ border-color: #994001; }
   
 // Color del portrait h3
 .portrait-title h3 {
-  color: #555555; }  
+  color: #555555; }
+  
+// Color de la institución en Formación
+ul.ul-edu li .description p.institution {
+color: #000000; }  
 
 // Color del texto del slider
 .wg-hero.dark .hero-title,
