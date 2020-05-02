@@ -81,14 +81,8 @@ color: #013399; }
  *  Tags/Labels
  **************************************************/
 .badge-light {
-  border: none;
   color: rgba(0, 0, 0, 0.68);
-  background: rgba(0, 0, 0, 0.05);
-  font-weight: normal;
-  border-radius: 3px;
-  padding: 5px 10px;
-  margin-right: 8px;
-  margin-bottom: 8px; }
+  background: rgba(0, 0, 0, 0.05); }
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
