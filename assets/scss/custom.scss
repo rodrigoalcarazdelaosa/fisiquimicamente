@@ -66,6 +66,8 @@ color: #013399; }
 // Color de los metada de artículo
 .article-metadata {
   color: #555555; }
+.article-metadata a {
+    color: $red; }  
 
 // Botones
 .wg-hero.dark .btn {
