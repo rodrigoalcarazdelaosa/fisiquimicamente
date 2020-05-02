@@ -73,7 +73,8 @@ color: $primary; }
 // Color de los metada de artículo
 .article-metadata {
   color: #994001; }
-.article-metadata a {
+.article-metadata a,
+.article-metadata a:hover; {
     color: #994001; }
 	
 // Color de los headings
