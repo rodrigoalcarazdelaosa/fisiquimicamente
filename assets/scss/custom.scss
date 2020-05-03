@@ -98,10 +98,9 @@ color: $primary; }
   background-color: #fff;
   border: 1px solid $primary; }
   .page-link:hover {
-    z-index: 2;
-    color: #011a4d;
+    color: #ffffff;
     text-decoration: none;
-    background-color: #e9ecef;
+    background-color: $primary;
     border-color: #dee2e6; }
   .page-link:focus {
     z-index: 3;
