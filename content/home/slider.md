@@ -105,7 +105,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "Contacto"
   content = ""
-  align = "center"
+  align = "left"
 
   # overlay_color = "#333"  # An HTML color value.
   overlay_img = "contacto.png"  # Image path relative to your `static/img/` folder.
