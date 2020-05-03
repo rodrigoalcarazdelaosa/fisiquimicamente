@@ -154,3 +154,7 @@ border-color: #994001; }
 site-footer,
 footer a.back-to-top i {
   color: rgba(1, 51, 153, 0.54); }	  
+  
+// Card overlay
+.card .card-image.hover-overlay:after {
+color: #000; }
