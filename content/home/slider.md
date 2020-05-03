@@ -88,7 +88,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "Sobre mí"
   content = ""
-  align = "left"
+  align = "right"
 
   # overlay_color = "#000000"  # An HTML color value.
   overlay_img = "acerca.jpg"  # Image path relative to your `static/img/` folder.
