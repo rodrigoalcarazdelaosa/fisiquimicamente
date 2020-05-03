@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**timJ**](https://unsplash.com/@the_roaming_platypus) en [Unsplash](https://unsplash.com)
+  caption: Foto de [**Alex Kondratiev**](https://unsplash.com/@alexanderkondratiev) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 # links:
