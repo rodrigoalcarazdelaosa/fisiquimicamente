@@ -151,16 +151,13 @@ color: #555; }
 /*************************************************
  *  Search
  **************************************************/
-.search-hit em {
-  background-color: #ffe8d8;
-  color: #994001;
-  border-bottom: 1px solid #994001; }
-
-/*************************************************
- *  Search
- **************************************************/
 #search-box #search-query {
   border: 1px solid $primary; }
+  
+.search-hit em {
+background-color: #ffe8d8;
+color: #994001;
+border-bottom: 1px solid #994001; }  
   
 mark,
 .mark {
