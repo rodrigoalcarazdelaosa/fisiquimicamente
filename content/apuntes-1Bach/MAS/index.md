@@ -25,12 +25,6 @@ image:
 #   name: PDF Póster
 #   url: MAS_poster.pdf
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: 
 ---
 
 Apuntes sobre el movimiento armónico simple (MAS) en formato texto y póster (tipo _chuleta_).
