@@ -148,4 +148,9 @@ border-color: #994001; }
   background-color: #994001;
   border-color: #994001; }
   .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-primary.dropdown-toggle:focus {
-    box-shadow: 0 0 0 0.2rem rgba(153, 64, 1, 0.5); }	  
+    box-shadow: 0 0 0 0.2rem rgba(153, 64, 1, 0.5); }	
+	
+// Color de la flecha del footer
+site-footer,
+footer a.back-to-top i {
+  color: rgba(1, 51, 153, 0.54); }	  
