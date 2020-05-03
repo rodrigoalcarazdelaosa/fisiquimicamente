@@ -4,6 +4,7 @@ summary: Método científico, medidas de magnitudes, SI y notación científica.
 tags:
 - Método científico
 - Unidades SI
+- Factores de conversión
 - Notación científica
 categories:
 - 2º ESO
