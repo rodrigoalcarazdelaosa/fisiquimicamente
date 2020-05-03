@@ -13,7 +13,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**timJ**](https://unsplash.com/@the_roaming_platypus) en [Unsplash](https://unsplash.com)
+  caption: Imagen de [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
