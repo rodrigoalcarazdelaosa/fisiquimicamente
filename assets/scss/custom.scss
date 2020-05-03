@@ -162,18 +162,6 @@ color: #555; }
 /*************************************************
  *  Search
  **************************************************/
-#search-box::before {
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 900;
-  content: "\f002";
-  font-size: 1rem;
-  opacity: 0.25;
-  line-height: 1rem;
-  position: absolute;
-  left: 0.7rem;
-  top: 0.6rem;
-  overflow-x: hidden; }
-
 #search-box #search-query {
   border: 1px solid #dedede;
   border-radius: 1rem;
