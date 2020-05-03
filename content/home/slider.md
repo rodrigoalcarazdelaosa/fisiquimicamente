@@ -15,7 +15,7 @@ height = "calc(100vh - 70px)"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["80px", "0", "80px", "0"]
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
