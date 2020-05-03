@@ -93,6 +93,21 @@ h1, h2, h3, h4, h5, h6 {
 .article-title a {
 color: $primary; }
 
+.page-link {
+  color: $primary;
+  background-color: #fff;
+  border: 1px solid $primary; }
+  .page-link:hover {
+    z-index: 2;
+    color: #011a4d;
+    text-decoration: none;
+    background-color: #e9ecef;
+    border-color: #dee2e6; }
+  .page-link:focus {
+    z-index: 3;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.25); }
+
 /**************************************************
  *  Tags/Labels
  **************************************************/
