@@ -165,18 +165,15 @@ color: #994001; }
   
 // Formulario de contacto
 .form-control {
-  color: #555555;
+  color: $black;
   border: 1px solid $primary; }
   .form-control:-moz-focusring {
-    text-shadow: 0 0 0 #555555; }
+    text-shadow: 0 0 0 $black; }
   .form-control:focus {
     color: $primary;
-    background-color: #fff;
-    border-color: $primary;
-    outline: 0;
-    box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.25); }
+    border-color: $primary; }
   .form-control::placeholder {
-    color: #6c757d;
+    color: #555555;
     opacity: 1; }
   .form-control:disabled, .form-control[readonly] {
     background-color: #e9ecef;
