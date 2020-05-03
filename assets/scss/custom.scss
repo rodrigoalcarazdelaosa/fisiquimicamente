@@ -167,7 +167,7 @@ color: #994001; }
     text-shadow: 0 0 0 $black; }
   .form-control:focus {
     color: $black;
-    border-color: $black; }
+    border-color: $primary; }
   .form-control::placeholder {
     color: #555555; }
   .form-control:disabled, .form-control[readonly] {
