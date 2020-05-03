@@ -24,6 +24,10 @@ subtitle = "4º ESO"
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
+	
+  [[content.filter_button]]
+    name = "Energía"
+    tag = "Energía"	
   
   [[content.filter_button]]
     name = "Estequiometría"
