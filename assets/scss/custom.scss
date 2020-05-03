@@ -165,9 +165,11 @@ color: #555; }
 #search-box #search-query {
   border: 1px solid #555555; }
   
-//// Placeholder
-//&::placeholder {
-//color: $black; }
+.form-control {
+// Placeholder
+&::placeholder {
+  color: $input-placeholder-color; }
+}
   
 .search-hit em {
   font-style: normal;
