@@ -171,18 +171,6 @@ color: #555; }
   color: #E65100;
   border-bottom: 1px solid #E65100; }
 
-.search-hit-type {
-  margin-bottom: 0 !important;
-  /* Override .article-metadata margin. */
-  text-transform: capitalize; }
-
-.search-hit-description {
-  font-size: 0.7rem; }
-
-/* Load more results button - hide when there are no more results. */
-#search-hits button[disabled] {
-  display: none; }
-
 .form-control:focus {
   border-color: #013399;
   box-shadow: 0 0 0 0.2rem #0144cc; }
