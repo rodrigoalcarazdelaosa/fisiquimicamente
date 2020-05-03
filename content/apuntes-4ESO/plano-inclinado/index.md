@@ -2,6 +2,7 @@
 title: Plano inclinado
 summary: Fuerzas en un plano inclinado.
 tags: 
+- Movimiento
 - Fuerzas
 categories:
 - 4º ESO
