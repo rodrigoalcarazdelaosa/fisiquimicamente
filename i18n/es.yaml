@@ -53,7 +53,7 @@
 - id: more_pages
   translation: Ver todo
 - id: more_posts
-  translation: Más posts
+  translation: Más entradas
 - id: more_talks
   translation: Más charlas
 - id: more_publications
@@ -103,7 +103,7 @@
 - id: open_project_site
   translation: Ir al sitio del proyecto
 - id: posts
-  translation: Posts
+  translation: Entradas
 - id: publications
   translation: Publicaciones
 - id: talks
