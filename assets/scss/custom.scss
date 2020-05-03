@@ -101,7 +101,7 @@ color: $primary; }
     color: #ffffff;
     text-decoration: none;
     background-color: $primary;
-    border-color: #dee2e6; }
+    border-color: $primary; }
   .page-link:focus {
     z-index: 3;
     outline: 0;
