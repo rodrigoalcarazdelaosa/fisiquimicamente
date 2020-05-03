@@ -179,11 +179,3 @@ color: #994001; }
 .form-control:focus {
   border-color: $primary;
   box-shadow: 0 0 0 0.2rem $primary; }
-
-/* DARK themed components. */
-/* Algolia search input */
-.dark .ais-search-box--input {
-  background-color: #282a36; }
-
-.dark #search-query {
-  background-color: #282a36; }
