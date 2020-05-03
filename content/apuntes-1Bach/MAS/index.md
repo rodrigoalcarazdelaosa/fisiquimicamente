@@ -28,3 +28,7 @@ image:
 ---
 
 Apuntes sobre el movimiento armónico simple (MAS) en formato texto y póster (tipo _chuleta_).
+
+{{% alert note %}}
+Próximamente...
+{{% /alert %}}
