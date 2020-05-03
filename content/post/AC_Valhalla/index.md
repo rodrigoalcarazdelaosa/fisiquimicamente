@@ -1,6 +1,8 @@
 ---
 title: Assassin's Creed Valhalla
 date: "2020-04-30T00:00:00Z"
+tags:
+- Assassin's Creed
 categories:
 - Videojuegos
 image:
