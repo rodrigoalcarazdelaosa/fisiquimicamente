@@ -166,8 +166,8 @@ color: #994001; }
   .form-control:-moz-focusring {
     text-shadow: 0 0 0 $black; }
   .form-control:focus {
-    color: $primary;
-    border-color: $primary; }
+    color: $black;
+    border-color: $black; }
   .form-control::placeholder {
     color: #555555; }
   .form-control:disabled, .form-control[readonly] {
