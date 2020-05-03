@@ -13,6 +13,9 @@ external_link: ""
 image:
   caption: Imagen de [**neo tam**](https://pixabay.com/es/users/neotam-11291643/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
+  
+url_pdf: '#'
+url_poster: '#'  
 
 # links:
 # - icon_pack: fas
