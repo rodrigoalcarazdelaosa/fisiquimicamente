@@ -1,6 +1,6 @@
 ---
 title: El movimiento y las fuerzas
-summary: Interpretación de reacciones químicas. Iniciación a la estequiometría. Ley de conservación de la masa.
+summary: Las fuerzas y sus efectos. Conceptos de velocidad y aceleración. Principales fuerzas de la naturaleza.
 tags:
 - Movimiento
 - Fuerzas
