@@ -172,8 +172,8 @@ color: #555; }
   border-bottom: 1px solid #E65100; }
 
 .form-control:focus {
-  border-color: #013399;
-  box-shadow: 0 0 0 0.2rem #013399; }
+  border-color: $primary;
+  box-shadow: 0 0 0 0.2rem $primary; }
 
 /* DARK themed components. */
 /* Algolia search input */
