@@ -101,7 +101,7 @@
 - id: pub_patent
   translation: Patente
 - id: open_project_site
-  translation: Ir al sitio del proyecto
+  translation: Ir a la página del proyecto
 - id: posts
   translation: Entradas
 - id: publications
