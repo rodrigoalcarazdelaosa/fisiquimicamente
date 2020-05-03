@@ -102,6 +102,9 @@ color: $primary; }
     text-decoration: none;
     background-color: $primary;
     border-color: $primary; }
+	
+.card .card-text p {
+  color: $red; }	
 
 /**************************************************
  *  Tags/Labels
