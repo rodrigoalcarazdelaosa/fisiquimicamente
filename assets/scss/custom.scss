@@ -168,8 +168,7 @@ color: #994001; }
   color: #555555;
   border: 1px solid $primary; }
   .form-control:-moz-focusring {
-    color: transparent;
-    text-shadow: 0 0 0 #495057; }
+    text-shadow: 0 0 0 #555555; }
   .form-control:focus {
     color: $primary;
     background-color: #fff;
