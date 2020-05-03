@@ -29,7 +29,7 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-Resumen de las características y ecuaciones más importantes del MRU, MRUV, caída libre/lanzamiento vertical y MCU, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre el método científico, cambios de unidades mediante factores de conversión y notación científica, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
