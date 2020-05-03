@@ -163,14 +163,7 @@ color: #555; }
  *  Search
  **************************************************/
 #search-box #search-query {
-  border: 1px solid #555555;
-  border-radius: 1rem;
-  padding: 1rem 1rem 1rem 2rem;
-  /* Wider left padding for search icon to fit in. */
-  width: 250px;
-  line-height: 1rem;
-  height: 1rem;
-  font-size: 0.8rem; }
+  border: 1px solid #555555; }
 
 .search-hit em {
   font-style: normal;
