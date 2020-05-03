@@ -162,28 +162,6 @@ color: #555; }
 /*************************************************
  *  Search
  **************************************************/
-.search-header {
-  background-color: #000; }
-
-.dark .search-header {
-  background-color: #282a36; }
-
-.search-header h1 {
-  margin: 0;
-  line-height: 1; }
-
-.col-search-close {
-  text-align: right; }
-
-.search-header i {
-  font-size: 2rem;
-  line-height: 1; }
-
-#search-box {
-  position: relative;
-  /* Required for search icon positioning. */
-  margin-bottom: 0.5rem; }
-
 #search-box::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
