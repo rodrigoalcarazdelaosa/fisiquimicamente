@@ -163,13 +163,7 @@ color: #555; }
  *  Search
  **************************************************/
 #search-box #search-query {
-  border: 1px solid #555555; }
-  
-.form-control {
-// Placeholder
-&::placeholder {
-  color: $black; }
-}
+  border: 1px solid #555555; }  
   
 .search-hit em {
   font-style: normal;
