@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**Andrea Piacquadio**](https://www.pexels.com/es-es/@olly) en [Pexels](https://www.pexels.com/es-es/)
+  caption: Imagen de [**PublicDomainPictures**](https://pixabay.com/es/users/publicdomainpictures-14/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
