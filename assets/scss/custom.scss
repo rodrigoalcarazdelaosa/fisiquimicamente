@@ -172,7 +172,7 @@ color: #994001; }
   .form-control:focus {
     color: $primary;
     background-color: #fff;
-    border-color: #1c66fe;
+    border-color: $red;
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.25); }
   .form-control::placeholder {
