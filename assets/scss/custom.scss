@@ -158,10 +158,6 @@ mark,
 .mark {
 background-color: #ffe8d8; 
 color: #994001; }  
-
-.form-control:focus {
-  border-color: $primary;
-  box-shadow: 0 0 0 0.2rem $primary; }
   
 // Formulario de contacto
 .form-control {
@@ -173,8 +169,7 @@ color: #994001; }
     color: $primary;
     border-color: $primary; }
   .form-control::placeholder {
-    color: #555555;
-    opacity: 1; }
+    color: #555555; }
   .form-control:disabled, .form-control[readonly] {
     background-color: #e9ecef;
     opacity: 1; }
