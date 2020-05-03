@@ -164,6 +164,9 @@ color: #555; }
  **************************************************/
 #search-box #search-query {
   border: 1px solid #555555; }
+  
+#search-box::before {
+opacity: 0.25; }  
 
 .search-hit em {
   font-style: normal;
