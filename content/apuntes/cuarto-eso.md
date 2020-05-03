@@ -30,16 +30,16 @@ subtitle = "4º ESO"
     tag = "Estequiometría"		
 	
   [[content.filter_button]]
-    name = "Movimiento"
-    tag = "Movimiento"		
+    name = "Fluidos"
+    tag = "Fluidos"			
 	
   [[content.filter_button]]
     name = "Fuerzas"
-    tag = "Fuerzas"		
+    tag = "Fuerzas"				
 	
   [[content.filter_button]]
-    name = "Fluidos"
-    tag = "Fluidos"					
+    name = "Movimiento"
+    tag = "Movimiento"					
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
