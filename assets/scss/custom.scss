@@ -102,10 +102,6 @@ color: $primary; }
     text-decoration: none;
     background-color: $primary;
     border-color: $primary; }
-  .page-link:focus {
-    z-index: 3;
-    outline: 0;
-    box-shadow: 0 0 0 0.2rem rgba(1, 51, 153, 0.25); }
 
 /**************************************************
  *  Tags/Labels
