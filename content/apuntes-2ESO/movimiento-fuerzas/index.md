@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**Alex Kondratiev**](https://unsplash.com/@alexanderkondratiev) en [Unsplash](https://unsplash.com)
+  caption: Foto de [**Steve Sewell**](https://pixabay.com/es/users/sms467-1386127/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
