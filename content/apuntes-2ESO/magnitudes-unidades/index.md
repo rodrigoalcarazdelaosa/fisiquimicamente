@@ -3,7 +3,8 @@ title: Magnitudes y unidades.
 summary: Método científico, medidas de magnitudes, SI y notación científica.
 tags:
 - Método científico
-- SI
+- Unidades
+- Notación científica
 categories:
 - 2º ESO
 - 3º ESO
