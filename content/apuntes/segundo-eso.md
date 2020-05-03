@@ -36,6 +36,10 @@ subtitle = "2º ESO"
   [[content.filter_button]]
     name = "Factores de conversión"
     tag = "Factores de conversión"	
+	
+  [[content.filter_button]]
+    name = "Reacciones químicas"
+    tag = "Reacciones químicas"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
