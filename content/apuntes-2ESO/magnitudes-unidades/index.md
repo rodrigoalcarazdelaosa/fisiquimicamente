@@ -1,5 +1,5 @@
 ---
-title: La actividad científica.
+title: La actividad científica
 summary: Método científico. Medidas de magnitudes. SI. Notación científica.
 tags:
 - Método científico
