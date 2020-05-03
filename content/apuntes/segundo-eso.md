@@ -24,6 +24,10 @@ subtitle = "2º ESO"
   [[content.filter_button]]
     name = "Todos"
     tag = "*"	
+	
+  [[content.filter_button]]
+    name = "Densidad"
+    tag = "Densidad"		
   
   [[content.filter_button]]
     name = "Factores de conversión"
