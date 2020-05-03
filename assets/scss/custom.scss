@@ -175,13 +175,7 @@ color: #994001; }
     opacity: 1; }
 
 select.form-control:focus::-ms-value {
-  color: #495057;
-  background-color: #fff; }
-
-.form-control-file,
-.form-control-range {
-  display: block;
-  width: 100%; }
+  color: $primary; }
 
 .col-form-label {
   padding-top: calc(0.375rem + 1px);
