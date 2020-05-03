@@ -38,6 +38,14 @@ subtitle = "2º ESO"
     tag = "Factores de conversión"	
 	
   [[content.filter_button]]
+    name = "Fuerzas"
+    tag = "Fuerzas"	
+	
+  [[content.filter_button]]
+    name = "Movimiento"
+    tag = "Movimiento"			
+	
+  [[content.filter_button]]
     name = "Reacciones químicas"
     tag = "Reacciones químicas"		
 
