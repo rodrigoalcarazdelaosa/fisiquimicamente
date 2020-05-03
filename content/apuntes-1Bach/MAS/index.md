@@ -1,6 +1,8 @@
 ---
 title: MAS
-summary: Movimiento armónico simple.
+summary: Movimiento armónico simple. {{% alert note %}}
+Próximamente...
+{{% /alert %}}
 tags:
 - Movimiento
 categories:
