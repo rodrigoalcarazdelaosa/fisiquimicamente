@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "Apuntes"
-subtitle = "3º ESO (ver también 2º ESO)"
+subtitle = "3º ESO (ver también [2º ESO](#segundo-eso))"
 
 [content]
   # Page type to display. E.g. project.
