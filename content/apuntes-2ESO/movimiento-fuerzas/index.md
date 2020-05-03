@@ -27,7 +27,7 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-Apuntes sobre reacciones químicas, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre el movimiento y las fuerzas, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
