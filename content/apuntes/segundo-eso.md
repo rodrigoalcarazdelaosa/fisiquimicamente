@@ -24,10 +24,14 @@ subtitle = "2º ESO"
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
+	
+  [[content.filter_button]]
+    name = "Método científico"
+    tag = "Método científico"
   
   [[content.filter_button]]
     name = "Factores de conversión"
-    tag = "Factores de conversión"				
+    tag = "Factores de conversión"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
