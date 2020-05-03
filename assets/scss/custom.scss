@@ -181,4 +181,4 @@ select.form-control:focus::-ms-value {
   color: $primary; }
 
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
-color: rgba(0, 0, 0, 0.54); }
+color: $red; }
