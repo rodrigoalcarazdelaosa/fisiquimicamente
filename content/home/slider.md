@@ -36,7 +36,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Tutoriales"
-  content = "[LaTeX](tutoriales/latex), [presentación de información](tutoriales/presentacion-informacion), etc."
+  content = "[LaTeX](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
   align = "right"
 
   # overlay_color = "#FFFFFF"  # An HTML color value.
