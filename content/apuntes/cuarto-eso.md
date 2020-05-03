@@ -35,7 +35,11 @@ subtitle = "4º ESO"
 	
   [[content.filter_button]]
     name = "Fuerzas"
-    tag = "Fuerzas"				
+    tag = "Fuerzas"		
+	
+  [[content.filter_button]]
+    name = "Fluidos"
+    tag = "Fluidos"					
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
