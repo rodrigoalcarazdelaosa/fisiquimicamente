@@ -170,6 +170,10 @@ color: #555; }
   background-color: #ffe8d8;
   color: #E65100;
   border-bottom: 1px solid #E65100; }
+  
+mark,
+.mark {
+background-color: #ffe8d8; }  
 
 .form-control:focus {
   border-color: $primary;
