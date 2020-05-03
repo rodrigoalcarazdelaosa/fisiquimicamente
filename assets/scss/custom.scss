@@ -168,7 +168,7 @@ color: #555; }
 .form-control {
 // Placeholder
 &::placeholder {
-  color: $input-placeholder-color; }
+  color: $black; }
 }
   
 .search-hit em {
