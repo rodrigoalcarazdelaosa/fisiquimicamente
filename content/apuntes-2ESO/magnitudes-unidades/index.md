@@ -31,7 +31,7 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-Apuntes sobre el método científico, cambios de unidades mediante factores de conversión y notación científica, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre el método científico, medidas de magnitudes, Sistema Internacional de Unidades (incluidos cambios de unidades mediante factores de conversión) y notación científica, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
