@@ -53,7 +53,7 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Enlaces de interés"
-  content = "[Recursos online](enlaces/#recursos-online) y [páginas amigas](enlaces/#paginas-amigas)"
+  content = "[Recursos online](enlaces/#recursos-online) | [Páginas amigas](enlaces/#paginas-amigas)"
   align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
