@@ -13,10 +13,6 @@ interval = false
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
 height = "calc(100vh - 70px)"
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["80px", "0", "80px", "0"]
-
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
