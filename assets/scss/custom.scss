@@ -210,3 +210,10 @@ pre,
 code {
   color: #994001;
   background-color: #ffe8d8; }
+  
+/* Docs sidebar li>a. */
+.docs-sidebar .nav > li > a {
+color: $red; }
+
+.docs-sidebar .nav > li > a:hover {
+color: rgba(0, 0, 0, 0.85); }
