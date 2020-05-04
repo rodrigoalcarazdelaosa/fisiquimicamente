@@ -204,3 +204,9 @@ select.form-control:focus::-ms-value {
 
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
 color: $red; }
+
+// Color of code
+pre,
+code {
+  color: $blue;
+  background-color: #f9f2f4; }
