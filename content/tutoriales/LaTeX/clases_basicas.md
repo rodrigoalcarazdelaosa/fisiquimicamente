@@ -17,6 +17,11 @@ Todo documento de $\LaTeX$ comienza con el comando `\documentclass`, que nos per
 
 Las **3 clases básicas** son:
 
-* `article`: para **documentos sencillos**, en los que necesitemos **secciones** (`\section`), **subsecciones** (`\subsection`), etc.
-* `report`: para **documentos más complejos**, donde además necesitemos **capítulos** (`\chapter`).
-* `book`: para **libros** y documentos de complejidad similar (tesis, etc.), donde además necesitemos **partes** (`\part`).
+`article`
+: Para **documentos sencillos**, en los que necesitemos **secciones** (`\section`), **subsecciones** (`\subsection`), etc.
+
+`report`
+: Para **documentos más complejos**, donde además necesitemos **capítulos** (`\chapter`).
+
+`book`
+: Para **libros** y documentos de complejidad similar (tesis, etc.), donde además necesitemos **partes** (`\part`).
