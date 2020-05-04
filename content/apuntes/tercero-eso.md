@@ -35,15 +35,7 @@ subtitle = "3º ESO"
   
   [[content.filter_button]]
     name = "Factores de conversión"
-    tag = "Factores de conversión"	
-	
-  [[content.filter_button]]
-    name = "Fuerzas"
-    tag = "Fuerzas"	
-	
-  [[content.filter_button]]
-    name = "Movimiento"
-    tag = "Movimiento"			
+    tag = "Factores de conversión"			
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
