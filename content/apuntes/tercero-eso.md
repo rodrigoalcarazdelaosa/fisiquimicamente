@@ -35,7 +35,11 @@ subtitle = "3º ESO"
   
   [[content.filter_button]]
     name = "Factores de conversión"
-    tag = "Factores de conversión"			
+    tag = "Factores de conversión"	
+	
+  [[content.filter_button]]
+    name = "Gases"
+    tag = "Gases"				
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
