@@ -34,6 +34,10 @@ subtitle = "2º ESO"
     tag = "Energía"		
 	
   [[content.filter_button]]
+    name = "Electricidad/electrónica"
+    tag = "Electricidad/electrónica"			
+	
+  [[content.filter_button]]
     name = "Estructura atómica"
     tag = "Estructura atómica"			
   
