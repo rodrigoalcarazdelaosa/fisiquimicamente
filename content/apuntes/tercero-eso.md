@@ -10,7 +10,7 @@ subtitle = "3º ESO"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-3ESO"
+  page_type = "apuntes-2ESO-3ESO"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,7 +23,7 @@ subtitle = "3º ESO"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "*"  
+    tag = "3º ESO"  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
