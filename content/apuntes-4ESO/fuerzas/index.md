@@ -2,9 +2,9 @@
 title: Fuerzas
 summary: Leyes de Newton y fuerzas de especial interés. `PRÓXIMAMENTE`
 tags:
+- 4º ESO
 - Fuerzas
 categories:
-- 4º ESO
 - Física
 
 # Optional external URL for project (replaces project detail page).
