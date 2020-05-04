@@ -1,10 +1,10 @@
 ---
 title: Estequiometría
 summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
-tags: 
+tags:
+- 4º ESO
 - Estequiometría
 categories:
-- 4º ESO
 - Química
 
 # Optional external URL for project (replaces project detail page).
