@@ -240,7 +240,7 @@ table > thead > tr > th {
   border-bottom: 2px solid $black; }
 
 table > tbody + tbody {
-  border-top: 2px solid $red; }
+  border-top: 2px solid $black; }
 
 /* Table Striped */
 table > tbody > tr:nth-child(odd) > td,
