@@ -211,6 +211,10 @@ code {
   color: #994001;
   background-color: #ffe8d8; }
   
+code {
+  display: inline !important;
+}  
+  
 /* Docs sidebar li>a. */
 .docs-sidebar .nav > li > a {
 color: #555555; }
