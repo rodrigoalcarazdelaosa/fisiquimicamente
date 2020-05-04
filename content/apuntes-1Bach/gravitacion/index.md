@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**Conor Luddy**](https://unsplash.com/@opticonor) en [Unsplash](https://unsplash.com)
+  caption: Foto de [**NASA**](https://unsplash.com/@nasa) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 # links:
