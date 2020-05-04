@@ -28,6 +28,10 @@ subtitle = "1º Bach"
   [[content.filter_button]]
     name = "Movimiento"
     tag = "Movimiento"				
+	
+  [[content.filter_button]]
+    name = "Reacciones químicas"
+    tag = "Reacciones químicas"					
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
