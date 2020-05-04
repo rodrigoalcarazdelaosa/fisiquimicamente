@@ -10,7 +10,7 @@ subtitle = "4º ESO"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-4ESO-1Bach"
+  page_type = "apuntes-4ESO"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,7 +23,7 @@ subtitle = "4º ESO"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "4º ESO"
+    tag = "*"
 	
   [[content.filter_button]]
     name = "Energía"
