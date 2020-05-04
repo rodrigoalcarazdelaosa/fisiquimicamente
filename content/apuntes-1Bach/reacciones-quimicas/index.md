@@ -1,6 +1,6 @@
 ---
 title: Reacciones químicas
-summary: "`PRÓXIMAMENTE` <br> Interpretación de reacciones químicas. Iniciación a la estequiometría. Ley de conservación de la masa."
+summary: "`PRÓXIMAMENTE` <br> Estequiometría, transformaciones energéticas y espontaneidad."
 tags:
 - 1º Bach
 - Reacciones químicas
