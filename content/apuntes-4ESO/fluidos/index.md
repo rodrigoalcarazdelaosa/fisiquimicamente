@@ -1,6 +1,6 @@
 ---
 title: Fluidos
-summary: Concepto de presión y principios de la hidrostática.
+summary: Concepto de presión y principios de la hidrostática. `PRÓXIMAMENTE`
 tags:
 - Fuerzas
 - Fluidos
