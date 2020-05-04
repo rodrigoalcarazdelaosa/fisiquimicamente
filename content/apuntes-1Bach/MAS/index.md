@@ -2,9 +2,9 @@
 title: MAS
 summary: Movimiento armónico simple. `PRÓXIMAMENTE`
 tags:
+- 1º Bach
 - Movimiento
 categories:
-- 1º Bach
 - Física
 
 # Optional external URL for project (replaces project detail page).
