@@ -1,6 +1,6 @@
 ---
 title: La actividad científica
-summary: Método científico. Medidas de magnitudes. SI. Notación científica.
+summary: Método científico. Medidas de magnitudes. SI. Notación científica. `PRÓXIMAMENTE`
 tags:
 - Método científico
 - Unidades SI
