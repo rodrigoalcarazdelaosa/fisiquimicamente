@@ -1,6 +1,6 @@
 ---
 title: MAS
-summary: Movimiento armónico simple. `PRÓXIMAMENTE`
+summary: `PRÓXIMAMENTE` Movimiento armónico simple.
 tags:
 - 1º Bach
 - Movimiento
