@@ -1,6 +1,6 @@
 ---
 title: La materia
-summary: Propiedades y estados de agregación de la materia.
+summary: Propiedades y estados de agregación de la materia. `PRÓXIMAMENTE`
 tags:
 - Materia
 - Densidad
