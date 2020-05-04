@@ -4,7 +4,7 @@ summary: Electricidad y circuitos eléctricos. Ley de Ohm. Dispositivos electró
 tags:
 - 2º ESO
 - 3º ESO
-- "Electricidad/electrónica"
+- "Electricidad-electrónica"
 categories:
 - Física
 
