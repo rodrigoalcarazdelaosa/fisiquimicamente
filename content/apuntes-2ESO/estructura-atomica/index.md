@@ -1,6 +1,6 @@
 ---
 title: Estructura atómica
-summary: Modelos atómicos, átomos y moléculas.
+summary: Modelos atómicos, átomos y moléculas. `PRÓXIMAMENTE`
 tags:
 - Estructura atómica
 categories:
