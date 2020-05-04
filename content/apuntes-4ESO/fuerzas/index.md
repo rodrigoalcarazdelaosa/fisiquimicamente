@@ -1,6 +1,6 @@
 ---
 title: Fuerzas
-summary: Leyes de Newton y fuerzas de especial interés.
+summary: Leyes de Newton y fuerzas de especial interés. `PRÓXIMAMENTE`
 tags:
 - Fuerzas
 categories:
