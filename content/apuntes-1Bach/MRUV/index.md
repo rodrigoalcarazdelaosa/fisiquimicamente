@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Imagen de [**neo tam**](https://pixabay.com/es/users/neotam-11291643/) en [Pixabay](https://pixabay.com/es/)
+  caption: Foto de [**Conor Luddy**](https://unsplash.com/@opticonor) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 # links:
@@ -28,7 +28,7 @@ image:
 
 ---
 
-Apuntes sobre el movimiento armónico simple (MAS) y su dinámica, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre el movimiento circular uniformemente variado y su dinámicamovimiento armónico simple (MAS) y su dinámica, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
