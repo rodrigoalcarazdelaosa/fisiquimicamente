@@ -1,6 +1,6 @@
 ---
 title: Energía, trabajo y calor.
-summary: Energía y sus formas de intercambio (trabajo y calor). `PRÓXIMAMENTE`
+summary: "`PRÓXIMAMENTE` <br> Energía y sus formas de intercambio (trabajo y calor)."
 tags:
 - 4º ESO
 - Energía
