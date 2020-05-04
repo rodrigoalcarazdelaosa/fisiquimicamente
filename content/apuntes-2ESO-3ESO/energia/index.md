@@ -1,6 +1,6 @@
 ---
-title: Energía
-summary: Propiedades y estados de agregación de la materia. `PRÓXIMAMENTE`
+title: Energía y calor
+summary: Concepto de energía. Transformaciones energéticas. Calor y temperatura. `PRÓXIMAMENTE`
 tags:
 - 2º ESO
 - 3º ESO
@@ -28,7 +28,7 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-Apuntes sobre la materia, sus propiedades y sus estados de agregación, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre energía, calor y temperatura en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
