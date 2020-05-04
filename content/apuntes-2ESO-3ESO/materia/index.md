@@ -1,6 +1,6 @@
 ---
 title: La materia
-summary: Propiedades y estados de agregación de la materia. `PRÓXIMAMENTE`
+summary: "`PRÓXIMAMENTE` <br> Propiedades y estados de agregación de la materia."
 tags:
 - 2º ESO
 - 3º ESO
