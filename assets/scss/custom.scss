@@ -237,8 +237,7 @@ table > tfoot > tr > td {
   border-top: 1px solid $red; }
 
 table > thead > tr > th {
-  vertical-align: bottom;
-  border-bottom: 2px solid #ddd; }
+  border-bottom: 2px solid $red; }
 
 table > caption + thead > tr:first-child > th,
 table > colgroup + thead > tr:first-child > th,
