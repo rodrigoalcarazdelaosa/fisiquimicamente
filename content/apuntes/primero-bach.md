@@ -26,6 +26,10 @@ subtitle = "1º Bach"
     tag = "*"
   
   [[content.filter_button]]
+    name = "Energía"
+    tag = "Energía"			
+
+  [[content.filter_button]]
     name = "Fuerzas"
     tag = "Fuerzas"			
 
