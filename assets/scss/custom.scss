@@ -206,6 +206,10 @@ select.form-control:focus::-ms-value {
 color: $red; }
 
 // Color of code
+pre {
+	background-color: none;
+}
+
 code {
   color: #994001;
   background-color: #ffe8d8; }
