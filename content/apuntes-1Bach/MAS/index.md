@@ -1,6 +1,6 @@
 ---
 title: MAS
-summary: Movimiento armónico simple.
+summary: Movimiento armónico simple. `PRÓXIMAMENTE`
 tags:
 - Movimiento
 categories:
