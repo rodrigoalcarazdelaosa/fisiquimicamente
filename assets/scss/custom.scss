@@ -222,7 +222,19 @@ color: $black; }
   color: #555555; }
   
 .post-nav-item a {
-color: #555555; }  
+color: #555555; } 
+
+/* Docs TOC nav. */
+.docs-toc-title {
+  color: #b5b5b5; }
+
+#TableOfContents {
+  padding-left: 0;
+  border-left: 1px solid #eee; }
+
+#TableOfContents li a,
+.toc-top li a {
+  color: #99979c; } 
 
 /*************************************************
  *  Tables
