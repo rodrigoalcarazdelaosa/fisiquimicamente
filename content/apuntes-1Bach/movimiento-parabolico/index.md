@@ -2,10 +2,9 @@
 title: Movimiento parabólico
 summary: Estudio del tiro parabólico u oblicuo.
 tags:
+- 1º Bach
 - Movimiento
 categories:
-- 4º ESO
-- 1º Bach
 - Física
 
 # Optional external URL for project (replaces project detail page).
