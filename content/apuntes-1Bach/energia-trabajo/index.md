@@ -1,6 +1,6 @@
 ---
 title: Energía y trabajo
-summary: "`PRÓXIMAMENTE` <br> Fuerzas centrales. Ley de Gravitación Universal. Leyes de Kepler."
+summary: "`PRÓXIMAMENTE` <br> Trabajo. Potencia. Energía. Teorema de las fuerzas vivas."
 tags:
 - 1º Bach
 - Energía
@@ -28,7 +28,7 @@ image:
 
 ---
 
-Apuntes sobre gravitación, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre energía y trabajo, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
