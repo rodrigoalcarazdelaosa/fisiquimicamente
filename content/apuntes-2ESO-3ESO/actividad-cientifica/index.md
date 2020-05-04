@@ -1,6 +1,6 @@
 ---
 title: La actividad científica
-summary: Método científico. Medidas de magnitudes. SI. Notación científica. `PRÓXIMAMENTE`
+summary: "`PRÓXIMAMENTE` Método científico. Medidas de magnitudes. SI. Notación científica."
 tags:
 - 2º ESO
 - 3º ESO
