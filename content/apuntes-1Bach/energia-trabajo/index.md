@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**NASA**](https://unsplash.com/@nasa) en [Unsplash](https://unsplash.com)
+  caption: Foto de [**Gonz DDL**](https://unsplash.com/@gonz_ddl) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 # links:
