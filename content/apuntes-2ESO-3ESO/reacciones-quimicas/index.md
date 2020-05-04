@@ -1,6 +1,6 @@
 ---
 title: Reacciones químicas
-summary: Interpretación de reacciones químicas. Iniciación a la estequiometría. Ley de conservación de la masa. `PRÓXIMAMENTE`
+summary: "`PRÓXIMAMENTE` <br> Interpretación de reacciones químicas. Iniciación a la estequiometría. Ley de conservación de la masa."
 tags:
 - 2º ESO
 - 3º ESO
