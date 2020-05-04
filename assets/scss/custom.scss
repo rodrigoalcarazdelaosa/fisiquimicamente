@@ -226,7 +226,7 @@ color: #555555; }
 
 /* Docs TOC nav. */
 .docs-toc-title {
-  color: $red; }
+  color: #b5b5b5; }
 
 #TableOfContents {
   padding-left: 0;
@@ -234,7 +234,7 @@ color: #555555; }
 
 #TableOfContents li a,
 .toc-top li a {
-  color: #99979c; } 
+  color: $red; } 
 
 /*************************************************
  *  Tables
