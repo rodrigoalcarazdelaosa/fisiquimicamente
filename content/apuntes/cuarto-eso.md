@@ -27,11 +27,7 @@ subtitle = "4º ESO"
 	
   [[content.filter_button]]
     name = "Energía"
-    tag = "Energía"	
-  
-  [[content.filter_button]]
-    name = "Estequiometría"
-    tag = "Estequiometría"		
+    tag = "Energía"	 		
 	
   [[content.filter_button]]
     name = "Fluidos"
@@ -43,7 +39,11 @@ subtitle = "4º ESO"
 	
   [[content.filter_button]]
     name = "Movimiento"
-    tag = "Movimiento"					
+    tag = "Movimiento"		
+	
+  [[content.filter_button]]
+    name = "Reacciones químicas"
+    tag = "Reacciones químicas"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
