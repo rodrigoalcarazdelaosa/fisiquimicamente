@@ -234,16 +234,13 @@ table > tfoot > tr > th,
 table > thead > tr > td,
 table > tbody > tr > td,
 table > tfoot > tr > td {
-  border-top: 1px solid $red; }
+  border-top: 1px solid $black; }
 
 table > thead > tr > th {
   border-bottom: 2px solid $red; }
 
 table > tbody + tbody {
   border-top: 2px solid $red; }
-
-table table {
-  background-color: #fff; }
 
 /* Table Striped */
 table > tbody > tr:nth-child(odd) > td,
