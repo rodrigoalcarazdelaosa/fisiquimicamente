@@ -1,6 +1,6 @@
 ---
 title: El movimiento y las fuerzas
-summary: Las fuerzas y sus efectos. Conceptos de velocidad y aceleración. Principales fuerzas de la naturaleza. <span style="font-variant:small-caps;">**apuntes**</span>
+summary: Las fuerzas y sus efectos. Conceptos de velocidad y aceleración. Principales fuerzas de la naturaleza. <span style="font-variant:small-caps;">`próximamente`</span>
 tags:
 - Movimiento
 - Fuerzas
