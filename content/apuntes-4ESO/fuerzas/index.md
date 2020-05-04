@@ -1,6 +1,6 @@
 ---
 title: Fuerzas
-summary: Leyes de Newton y fuerzas de especial interés. `PRÓXIMAMENTE`
+summary: "`PRÓXIMAMENTE` <br> Leyes de Newton y fuerzas de especial interés."
 tags:
 - 4º ESO
 - Fuerzas
