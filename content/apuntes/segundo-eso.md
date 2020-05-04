@@ -30,6 +30,10 @@ subtitle = "2º ESO"
     tag = "Densidad"
 	
   [[content.filter_button]]
+    name = "Energía"
+    tag = "Energía"		
+	
+  [[content.filter_button]]
     name = "Estructura atómica"
     tag = "Estructura atómica"			
   
