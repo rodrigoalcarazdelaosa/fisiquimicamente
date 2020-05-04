@@ -4,6 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Movimiento armónico simple."
 tags:
 - 1º Bach
 - Movimiento
+- Fuerzas
 categories:
 - Física
 
@@ -27,7 +28,7 @@ image:
 
 ---
 
-Apuntes sobre el movimiento armónico simple (MAS) en formato texto y póster (tipo _chuleta_).
+Apuntes sobre el movimiento armónico simple (MAS) y su dinámica, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
