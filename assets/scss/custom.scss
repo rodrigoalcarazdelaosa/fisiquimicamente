@@ -223,3 +223,18 @@ color: $black; }
   
 .post-nav-item a {
 color: #555555; }  
+
+/*************************************************
+ *  Tables
+ **************************************************/
+/* Based on Bootstrap's `table-responsive` style. */
+/* Table Striped */
+table > tbody > tr:nth-child(odd) > td,
+table > tbody > tr:nth-child(odd) > th {
+  background-color: #f9f9f9; }
+
+/* Table Hover */
+table > tbody > tr:hover > td,
+table > tbody > tr:hover > th {
+  color: $white;
+  background-color: $red; }
