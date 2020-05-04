@@ -5,6 +5,7 @@ tags:
 - 1º Bach
 - Movimiento
 - Fuerzas
+- Energía
 categories:
 - Física
 
@@ -28,7 +29,7 @@ image:
 
 ---
 
-Apuntes sobre el movimiento armónico simple (MAS) y su dinámica, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre el movimiento armónico simple (MAS), su dinámica y su energía, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
