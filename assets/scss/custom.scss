@@ -1,5 +1,4 @@
-$primary_complementary: #990134;
-$primary_green: #349901;
+$primary_complementary: #994001;
 
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
@@ -211,8 +210,8 @@ color: $red; }
 // Color of code
 pre,
 code {
-  color: $primary_green;
-  background-color: #000000; }  
+  color: $primary_complementary;
+  background-color: #ffe8d8; }  
   
 /* Docs sidebar li>a. */
 .docs-sidebar .nav > li > a {
