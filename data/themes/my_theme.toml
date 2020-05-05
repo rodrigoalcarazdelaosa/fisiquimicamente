@@ -6,7 +6,7 @@ light = true
 
 # Primary
 primary = "#013399"
-primary_complementary = "#994001"
+$primary_complementary = "#994001"
 
 # Menu
 menu_primary = "#013399"
