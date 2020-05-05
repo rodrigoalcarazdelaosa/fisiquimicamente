@@ -1,3 +1,5 @@
+$primary_complementary: #994001;
+
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -205,7 +207,6 @@ select.form-control:focus::-ms-value {
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
 color: $red; }
 
-$primary_complementary: #994001;
 // Color of code
 pre,
 code {
