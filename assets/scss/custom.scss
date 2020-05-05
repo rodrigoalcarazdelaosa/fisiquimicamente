@@ -1,8 +1,6 @@
 $primary_bg: #bad0ff; // color complementario de primary
 $primary_complementary: #992611; // color complementario de primary
 $primary_complementary_bg: #fdeeeb; // color complementario de primary
-$primary_green: #354D05;
-$primary_green_bg: #b1f22f;
 
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
@@ -214,8 +212,8 @@ color: $red; }
 // Color of code
 pre,
 code {
-  color: $primary_green;
-  background-color: $primary_green_bg; }  
+  color: $primary_complementary;
+  background-color: $primary_complementary_bg; }  
   
 /* Docs sidebar li>a. */
 .docs-sidebar .nav > li > a {
