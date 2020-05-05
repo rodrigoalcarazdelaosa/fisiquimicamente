@@ -1,4 +1,6 @@
-$primary_complementary: #994001; // color complementario de primary
+$primary_bg: #994001; // color complementario de primary
+$primary_complementary: #992611; // color complementario de primary
+$primary_complementary_bg: #994001; // color complementario de primary
 
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
@@ -27,7 +29,7 @@ color: $primary;
   
 .alert-note {
 color: $primary;
-background-color: #bad0ff;
+background-color: $primary_bg;
 border-color: $primary; }
 
 div.alert-warning > div:first-child::before {
@@ -36,7 +38,7 @@ div.alert-warning > div:first-child::before {
 
 .alert-warning {
 color: $primary_complementary;
-background-color: #ffe8d8;
+background-color: $primary_complementary_bg;
 border-color: $primary_complementary; }
 
 // Color del subtítulo de los proyectos
@@ -113,11 +115,11 @@ color: $primary; }
  **************************************************/
 .badge-light {
   color: $primary_complementary;
-  background: #ffe8d8; }
+  background: $primary_complementary_bg; }
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
-  color: #ffe8d8;
+  color: $primary_complementary_bg;
   background: $primary_complementary; }  
 
 .tag-cloud a:active,
@@ -170,13 +172,13 @@ color: #555; }
   border: 1px solid $primary; }
   
 .search-hit em {
-background-color: #ffe8d8;
+background-color: $primary_complementary_bg;
 color: $primary_complementary;
 border-bottom: 1px solid $primary_complementary; }  
   
 mark,
 .mark {
-background-color: #ffe8d8;
+background-color: $primary_complementary_bg;
 color: $primary_complementary; }  
 
 .form-control:focus {
@@ -211,7 +213,7 @@ color: $red; }
 pre,
 code {
   color: $primary_complementary;
-  background-color: #ffe8d8; }  
+  background-color: $primary_complementary_bg; }  
   
 /* Docs sidebar li>a. */
 .docs-sidebar .nav > li > a {
