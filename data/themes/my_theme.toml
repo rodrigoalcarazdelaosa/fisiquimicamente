@@ -5,10 +5,10 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#225522"
+primary = "#013399"
 
 # Menu
-menu_primary = "#225522"
+menu_primary = "#013399"
 menu_text = "#fff"
 menu_text_active = "#00cc66"
 menu_title = "#fff"
