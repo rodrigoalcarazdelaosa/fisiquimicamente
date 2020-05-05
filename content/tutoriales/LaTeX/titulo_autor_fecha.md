@@ -6,7 +6,7 @@ type: docs
 draft: false
 menu:
   latex:
-    parent: $\LaTeX$
+    parent: Curso básico
     weight: 5
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

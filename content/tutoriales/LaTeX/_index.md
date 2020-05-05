@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: $\LaTeX$
-summary: Curso básico de $\LaTeX$.
+summary: Tutoriales de $\LaTeX$.
 weight: 1
 
 # Page metadata.
-title: Curso básico de $\LaTeX$
+title: Tutoriales de $\LaTeX$
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -18,8 +18,6 @@ menu:
     name: $\LaTeX$
     weight: 1
 ---
-
-En este tutorial, basado en la [excelente guía de Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes), aprenderás nociones básicas de $\LaTeX$.
 
 {{% alert warning %}}
 En construcción...

@@ -1,6 +1,6 @@
 ---
-title: Negrita, cursiva y subrayado
-linktitle: Negrita, cursiva y subrayado
+title: Añadiendo imágenes
+linktitle: Imágenes
 toc: true
 type: docs
 draft: false
@@ -12,3 +12,5 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 8
 ---
+
+## Pies, etiquetas y referencias

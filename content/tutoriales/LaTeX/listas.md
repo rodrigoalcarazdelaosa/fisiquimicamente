@@ -15,4 +15,4 @@ weight: 9
 
 ## Listas no ordenadas
 
-## Listas no ordenadas
+## Listas ordenadas

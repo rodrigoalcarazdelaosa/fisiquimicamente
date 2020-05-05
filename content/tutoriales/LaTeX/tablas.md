@@ -13,3 +13,4 @@ menu:
 weight: 12
 ---
 
+Paquete `booktabs`

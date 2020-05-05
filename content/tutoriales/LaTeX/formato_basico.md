@@ -12,3 +12,9 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 11
 ---
+
+## Resúmenes
+
+## Párrafos y saltos de línea
+
+## Capítulos y secciones
