@@ -31,17 +31,17 @@ background-color: #bad0ff;
 border-color: $primary; }
 
 div.alert-warning > div:first-child::before {
-  color: #994001;
+  color: $primary_complementary;
 }
 
 .alert-warning {
-color: #994001;
+color: $primary_complementary;
 background-color: #ffe8d8;
-border-color: #994001; }
+border-color: $primary_complementary; }
 
 // Color del subtítulo de los proyectos
 .section-heading p {
-  color: #994001;
+  color: $primary_complementary;
 }
 
 // Color del subtítulo de mi rol
@@ -82,10 +82,10 @@ color: $primary; }
 
 // Color de los metada de artículo
 .article-metadata {
-  color: #994001; }
+  color: $primary_complementary; }
 .article-metadata a,
 .article-metadata a:hover {
-    color: #994001; }
+    color: $primary_complementary; }
 	
 // Color de los headings
 /* Headings */
@@ -112,13 +112,13 @@ color: $primary; }
  *  Tags/Labels
  **************************************************/
 .badge-light {
-  color: #994001;
+  color: $primary_complementary;
   background: #ffe8d8; }
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
   color: #ffe8d8;
-  background: #994001; }  
+  background: $primary_complementary; }  
 
 .tag-cloud a:active,
 .tag-cloud a:focus,
@@ -171,13 +171,13 @@ color: #555; }
   
 .search-hit em {
 background-color: #ffe8d8;
-color: #994001;
-border-bottom: 1px solid #994001; }  
+color: $primary_complementary;
+border-bottom: 1px solid $primary_complementary; }  
   
 mark,
 .mark {
 background-color: #ffe8d8;
-color: #994001; }  
+color: $primary_complementary; }  
 
 .form-control:focus {
   border-color: $primary;
