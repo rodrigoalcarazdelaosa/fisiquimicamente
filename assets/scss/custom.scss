@@ -205,11 +205,11 @@ select.form-control:focus::-ms-value {
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
 color: $red; }
 
-$prueba: #555555;
+$primary_complementary: #555555;
 // Color of code
 pre,
 code {
-  color: $prueba;
+  color: $primary_complementary;
   background-color: #ffe8d8; }  
   
 /* Docs sidebar li>a. */
