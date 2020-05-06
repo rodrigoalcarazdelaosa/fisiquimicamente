@@ -22,7 +22,7 @@ Todo documento de $\LaTeX$ comienza con el comando `\documentclass`, que nos per
 : Para **documentos más complejos**, donde además necesitemos **capítulos** (`\chapter`).
 
 `book`
-: Para **libros** y documentos de complejidad similar (tesis, etc.), donde además necesitemos **partes** (`\part`).
+: Para **libros** y documentos de complejidad similar (tesis, etc.), donde por defecto se utiliza la opción `twoside`, que aplica márgenes y encabezados/pies de página distintos para páginas pares e impares.
 
 Tras el comando `\documentclass` viene lo que se denomina el **preámbulo** del documento, sobre el que hablaremos [más adelante]({{< ref "/tutoriales/latex/preambulo.md" >}}). Seguido del preámbulo viene el contenido o _cuerpo_ de nuestro documento, encerrado entre los comandos `\begin{document}` y `\end{document}`.
 
