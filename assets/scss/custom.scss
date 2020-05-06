@@ -220,6 +220,10 @@ code {
   
 pre {
 font-size: 0.875rem; }
+
+pre{
+    white-space:pre-wrap;
+}
   
 /* Docs sidebar li>a. */
 .docs-sidebar .nav > li > a {
