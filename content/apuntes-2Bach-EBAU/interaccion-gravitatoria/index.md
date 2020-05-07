@@ -1,6 +1,6 @@
 ---
 title: Interacción gravitatoria
-summary: "`PRÓXIMAMENTE` <br> Fuerzas centrales. Ley de Gravitación Universal. Leyes de Kepler."
+summary: "`PRÓXIMAMENTE` <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
 tags:
 - 2º Bach
 - EBAU
