@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Presentación de información
-summary: Curso básico de presentación de información.
+summary: Aprende a presentar información correctamente.
 weight: 2
 
 # Page metadata.
