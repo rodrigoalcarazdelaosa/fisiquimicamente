@@ -32,4 +32,6 @@ donde:
 : Esta es la codificación del documento. La opción `[utf8]` nos permite escribir **caracteres especiales**, como tildes, eñes, etc., sin hacer nada especial.
 
 `\usepackage[spanish]{babel}`
-: Con la opción `[spanish]` le decimos a $\LaTeX$ que el texto de este documento va a estar escrito en **español**, y de esta forma cargará reglas específicas para este idioma, especialmente a la hora de romper palabras.
+: Con la opción `[spanish]` le decimos a $\LaTeX$ que el texto de este documento va a estar escrito en **español**, y de esta forma cargará reglas específicas para este idioma, especialmente a la hora de romper palabras[^1].
+
+[^1]: Junto con la opción `spanish` querremos incluir en muchos casos las opciones `es-tabla` (traduce *table* como *tabla* en lugar de como *cuadro*) y `es-nolists` (no cambia las listas `enumerate` e `itemize`).

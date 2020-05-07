@@ -19,6 +19,28 @@ menu:
     weight: 1
 ---
 
+## [Curso básico]({{< ref "/tutoriales/latex/que_es_LaTeX.md" >}})
+
+## Presentaciones con beamer
+
+{{% alert warning %}}
+En construcción...
+{{% /alert %}}
+
+## Pósters con beamerposter
+
+{{% alert warning %}}
+En construcción...
+{{% /alert %}}
+
+## Gráficas con PGFPlots
+
+{{% alert warning %}}
+En construcción...
+{{% /alert %}}
+
+## Esquemas y diagramas con Ti*k*Z & PGF
+
 {{% alert warning %}}
 En construcción...
 {{% /alert %}}
