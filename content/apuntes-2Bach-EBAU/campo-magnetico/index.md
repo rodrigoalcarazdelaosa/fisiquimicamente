@@ -1,6 +1,6 @@
 ---
 title: Campo magnético
-summary: "`PRÓXIMAMENTE` <br> Ley de Coulomb. Energía potencial y potencial eléctrico. Flujo eléctrico."
+summary: "`PRÓXIMAMENTE` <br> Campo magnético. Flujo magnético. Inducción electromagnética."
 tags:
 - 2º Bach
 - EBAU
