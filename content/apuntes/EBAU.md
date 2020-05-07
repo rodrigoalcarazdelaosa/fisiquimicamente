@@ -34,6 +34,10 @@ subtitle = "EBAU"
     tag = "Fuerzas"		
 	
   [[content.filter_button]]
+    name = "Gravitación"
+    tag = "Gravitación"					
+	
+  [[content.filter_button]]
     name = "Movimiento"
     tag = "Movimiento"		
 
