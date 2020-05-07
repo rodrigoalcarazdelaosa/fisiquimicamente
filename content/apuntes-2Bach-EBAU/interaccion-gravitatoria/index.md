@@ -29,7 +29,7 @@ image:
 
 ---
 
-Apuntes sobre gravitación, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre interacción gravitatoria, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
