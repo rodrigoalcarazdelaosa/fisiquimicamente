@@ -44,7 +44,7 @@ Todo documento de $\LaTeX$ comienza con el comando `\documentclass`, que nos per
 `book`
 : Para **libros** y documentos de complejidad similar (tesis, etc.), donde por defecto se utiliza la opción `twoside`, que aplica márgenes y encabezados/pies de página distintos para páginas pares e impares.
 
-Tras el comando `\documentclass` viene lo que se denomina el **preámbulo** del documento, sobre el que hablaremos [más adelante](#preambulo). Seguido del preámbulo viene el contenido o _cuerpo_ de nuestro documento, encerrado entre los comandos `\begin{document}` y `\end{document}`.
+Tras el comando `\documentclass` viene lo que se denomina el **preámbulo** del documento, sobre el que hablaremos [más adelante](#el-preámbulo-de-un-documento). Seguido del preámbulo viene el contenido o _cuerpo_ de nuestro documento, encerrado entre los comandos `\begin{document}` y `\end{document}`.
 
 El **ejemplo más simple** que nos podemos imaginar sería algo así:
 
@@ -212,7 +212,7 @@ La figura \ref{fig:leon_CTAN} muestra el león que dibujó Duane Bibby para las 
 ## Creando listas en $\LaTeX$
 Es muy fácil crear listas con $\LaTeX$. Tenemos tres *entornos* principales para ello. Los entornos son secciones de nuestro documento que queremos presentar de una manera diferente al resto del documento. Siempre empiezan con el comando `\begin{...}` y terminan con un `\end{...}`[^7].
 
-[^7]: Para [añadir imágenes](#imagenes) hemos utilizado el entorno `figure`.
+[^7]: Para [añadir imágenes](#añadiendo-imágenes) hemos utilizado el entorno `figure`.
 
 Hay tres tipos principales de listas: listas no ordenadas, listas ordenadas y listas de descripción o definición. Cada uno utilizará un entorno diferente.
 
@@ -364,7 +364,7 @@ Esta línea comenzará un segundo párrafo.
 
 ### Capítulos y secciones
 
-Como ya se vio al crear nuestro [primer documento](#primer-documento), dependiendo de la clase que escojamos, tenemos acceso a unos comandos de sección u otros. Por ejemplo con la clase `report` podemos escribir:
+Como ya se vio al crear nuestro [primer documento](#tu-primer-documento-de-latex), dependiendo de la clase que escojamos, tenemos acceso a unos comandos de sección u otros. Por ejemplo con la clase `report` podemos escribir:
 
 ```tex
 \chapter{Primer Capítulo}
@@ -425,9 +425,9 @@ El entorno `tabular` es el método por defecto de $\LaTeX$ para crear tablas. En
 
 [^10]: Siempre debe haber un símbolo de alineación menos en cada línea que el número de columnas.
 
-Al igual que en el caso de las [imágenes](#imagenes), como norma general siempre vamos a poner nuestras tablas dentro de un entorno `table`[^11], y utilizaremos el paquete [booktabs](https://ctan.org/pkg/booktabs) (`\usepackage{booktabs}`), que nos permite mejorar enormemente la calidad de nuestras tablas.
+Al igual que en el caso de las [imágenes](#añadiendo-imágenes), como norma general siempre vamos a poner nuestras tablas dentro de un entorno `table`[^11], y utilizaremos el paquete [booktabs](https://ctan.org/pkg/booktabs) (`\usepackage{booktabs}`), que nos permite mejorar enormemente la calidad de nuestras tablas.
 
-[^11]: Este entorno admite las mismas opciones de posicionamiento que el entorno `figure` (ver la sección [imágenes](#imagenes)).
+[^11]: Este entorno admite las mismas opciones de posicionamiento que el entorno `figure` (ver la sección [imágenes](#añadiendo-imágenes)).
 
 El entorno `table` nos permite además añadir un pie de tabla (`\caption{...}`) y una etiqueta (`\label{...}`), para poder referenciar (`\ref{...}`) la tabla más adelante. El siguiente ejemplo muestra estos comandos en acción:
 
