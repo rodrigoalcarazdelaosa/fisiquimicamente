@@ -15,7 +15,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Imagen de [**Gerd Altmann**](https://pixabay.com/es/users/geralt-9301/) en [Pixabay](https://pixabay.com/es/)
+  caption: Foto de [**Jen Theodore**](https://unsplash.com/@jentheodore) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 # links:
