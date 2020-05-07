@@ -27,23 +27,11 @@ subtitle = "EBAU"
 	
   [[content.filter_button]]
     name = "Campo eléctrico"
-    tag = "Campo eléctrico"	
-	
-  [[content.filter_button]]
-    name = "Energía"
-    tag = "Energía"
-	
-  [[content.filter_button]]
-    name = "Fuerzas"
-    tag = "Fuerzas"		
+    tag = "Campo eléctrico"		
 	
   [[content.filter_button]]
     name = "Gravitación"
     tag = "Gravitación"					
-	
-  [[content.filter_button]]
-    name = "Movimiento"
-    tag = "Movimiento"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
