@@ -1,6 +1,6 @@
 ---
-title: Esquemas y diagramas con Tikz & PGF
-linktitle: Esquemas y diagramas con Tikz & PGF
+title: Esquemas y diagramas con TikZ & PGF
+linktitle: Esquemas y diagramas con TikZ & PGF
 toc: true
 type: docs
 draft: false

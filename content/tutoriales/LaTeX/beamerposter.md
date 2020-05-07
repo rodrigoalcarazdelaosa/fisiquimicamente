@@ -1,16 +1,16 @@
 ---
-title: ¿Qué es PGFPlots?
-linktitle: ¿Qué es PGFPlots?
+title: Pósters con beamerposter
+linktitle: Pósters con beamerposter
 toc: true
 type: docs
 draft: false
 menu:
   latex:
-    parent: Gráficas con PGFPlots
-    weight: 1
+    parent: $\LaTeX$
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 15
+weight: 3
 ---
 
 {{% alert warning %}}

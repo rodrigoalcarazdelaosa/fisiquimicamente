@@ -1,16 +1,16 @@
 ---
-title: ¿Qué es beamerposter?
-linktitle: ¿Qué es beamerposter?
+title: Presentaciones con beamer
+linktitle: Presentaciones con beamer
 toc: true
 type: docs
 draft: false
 menu:
   latex:
-    parent: Pósters con beamerposter
-    weight: 1
+    parent: $\LaTeX$
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 17
+weight: 2
 ---
 
 {{% alert warning %}}

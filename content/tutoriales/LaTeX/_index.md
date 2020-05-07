@@ -19,31 +19,27 @@ menu:
     weight: 1
 ---
 
-## [Curso básico]({{< ref "/tutoriales/latex/que_es_LaTeX.md" >}})
+## [Curso básico]({{< ref "/tutoriales/latex/curso-basico.md" >}})
 
-{{% alert note %}}
-Este tutorial es una traducción y adaptación de la [excelente guía de Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) para _aprender $\LaTeX$ en 30 minutos_.
-{{% /alert %}}
-
-## [Esquemas y diagramas con Ti*k*Z & PGF]({{< ref "/tutoriales/latex/que_es_Tikz_PGF.md" >}})
+## [Presentaciones con beamer]({{< ref "/tutoriales/latex/beamer.md" >}})
 
 {{% alert note %}}
 Próximamente...
 {{% /alert %}}
 
-## [Gráficas con PGFPlots]({{< ref "/tutoriales/latex/que_es_PGFPlots.md" >}})
+## [Pósters con beamerposter]({{< ref "/tutoriales/latex/beamerposter.md" >}})
 
 {{% alert note %}}
 Próximamente...
 {{% /alert %}}
 
-## [Presentaciones con beamer]({{< ref "/tutoriales/latex/que_es_beamer.md" >}})
+## [Gráficas con PGFPlots]({{< ref "/tutoriales/latex/PGFPlots.md" >}})
 
 {{% alert note %}}
 Próximamente...
 {{% /alert %}}
 
-## [Pósters con beamerposter]({{< ref "/tutoriales/latex/que_es_beamerposter.md" >}})
+## [Esquemas y diagramas con Ti*k*Z & PGF]({{< ref "/tutoriales/latex/Tikz-PGF.md" >}})
 
 {{% alert note %}}
 Próximamente...
