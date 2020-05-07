@@ -24,6 +24,18 @@ subtitle = "EBAU"
   [[content.filter_button]]
     name = "Todos"
     tag = "EBAU"		
+	
+  [[content.filter_button]]
+    name = "Energía"
+    tag = "Energía"
+	
+  [[content.filter_button]]
+    name = "Fuerzas"
+    tag = "Fuerzas"		
+	
+  [[content.filter_button]]
+    name = "Movimiento"
+    tag = "Movimiento"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
