@@ -23,7 +23,7 @@ subtitle = "EBAU"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "*"		
+    tag = "EBAU"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
