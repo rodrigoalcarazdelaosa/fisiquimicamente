@@ -3,7 +3,6 @@ title: Interacción gravitatoria
 summary: "`PRÓXIMAMENTE` <br> Fuerzas centrales. Ley de Gravitación Universal. Leyes de Kepler."
 tags:
 - 2º Bach
-- EBAU
 - Movimiento
 - Fuerzas
 categories:
