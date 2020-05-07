@@ -30,7 +30,7 @@ image:
 
 ---
 
-Apuntes sobre interacción gravitatoria, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre campo eléctrico, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
