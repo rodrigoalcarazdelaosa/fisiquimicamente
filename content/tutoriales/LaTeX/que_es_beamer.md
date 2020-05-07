@@ -10,6 +10,9 @@ menu:
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 16
 ---
 
+{{% alert warning %}}
+En construcción...
+{{% /alert %}}

@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Tutoriales de $\LaTeX$
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -21,26 +21,30 @@ menu:
 
 ## [Curso básico]({{< ref "/tutoriales/latex/que_es_LaTeX.md" >}})
 
-## Presentaciones con beamer
-
-{{% alert warning %}}
-En construcción...
+{{% alert note %}}
+Este tutorial es una traducción y adaptación de la [excelente guía de Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) para _aprender $\LaTeX$ en 30 minutos_.
 {{% /alert %}}
 
-## Pósters con beamerposter
+## [Esquemas y diagramas con Ti*k*Z & PGF]({{< ref "/tutoriales/latex/que_es_Tikz_PGF.md" >}})
 
-{{% alert warning %}}
-En construcción...
+{{% alert note %}}
+Próximamente...
 {{% /alert %}}
 
-## Gráficas con PGFPlots
+## [Gráficas con PGFPlots]({{< ref "/tutoriales/latex/que_es_PGFPlots.md" >}})
 
-{{% alert warning %}}
-En construcción...
+{{% alert note %}}
+Próximamente...
 {{% /alert %}}
 
-## Esquemas y diagramas con Ti*k*Z & PGF
+## [Presentaciones con beamer]({{< ref "/tutoriales/latex/que_es_beamer.md" >}})
 
-{{% alert warning %}}
-En construcción...
+{{% alert note %}}
+Próximamente...
+{{% /alert %}}
+
+## [Pósters con beamerposter]({{< ref "/tutoriales/latex/que_es_beamerposter.md" >}})
+
+{{% alert note %}}
+Próximamente...
 {{% /alert %}}
