@@ -32,6 +32,10 @@ subtitle = "1º Bach"
   [[content.filter_button]]
     name = "Fuerzas"
     tag = "Fuerzas"			
+	
+  [[content.filter_button]]
+    name = "Gravitación"
+    tag = "Gravitación"				
 
   [[content.filter_button]]
     name = "Movimiento"

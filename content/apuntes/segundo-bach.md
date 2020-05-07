@@ -30,6 +30,10 @@ subtitle = "2º Bach"
     tag = "Campo eléctrico"		
 	
   [[content.filter_button]]
+    name = "Campo magnético"
+    tag = "Campo magnético"			
+	
+  [[content.filter_button]]
     name = "Gravitación"
     tag = "Gravitación"						
 
