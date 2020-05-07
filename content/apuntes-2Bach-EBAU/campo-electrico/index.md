@@ -5,8 +5,6 @@ tags:
 - 2º Bach
 - EBAU
 - Campo eléctrico
-- Movimiento
-- Fuerzas
 - Energía
 categories:
 - Física
