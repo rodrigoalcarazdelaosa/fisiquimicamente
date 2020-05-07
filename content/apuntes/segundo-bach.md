@@ -23,7 +23,7 @@ subtitle = "2º Bach"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "*"  		
+    tag = "2º Bach"  		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
