@@ -1,6 +1,6 @@
 ---
 title: Campo eléctrico
-summary: "`PRÓXIMAMENTE` <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
+summary: "`PRÓXIMAMENTE` <br> Ley de Coulomb. Energía potencial y potencial eléctrico. Flujo eléctrico."
 tags:
 - 2º Bach
 - EBAU
