@@ -34,6 +34,10 @@ subtitle = "EBAU"
     tag = "Campo magnético"
 	
   [[content.filter_button]]
+    name = "Enlace químico"
+    tag = "enlace químico"	
+	
+  [[content.filter_button]]
     name = "Física del s. XX"
     tag = "Física del s XX"	
 	
