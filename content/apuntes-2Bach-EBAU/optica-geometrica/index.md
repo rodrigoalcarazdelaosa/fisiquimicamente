@@ -1,6 +1,6 @@
 ---
 title: Óptica geométrica
-summary: "`PRÓXIMAMENTE` <br> Propagación de ondas transversales y longitudinales. Ecuación de las ondas armónicas. Energía e intensidad. Sonido y luz."
+summary: "`PRÓXIMAMENTE` <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
 tags:
 - 2º Bach
 - EBAU
