@@ -5,6 +5,9 @@ tags:
 - 2º ESO
 - velocidad
 - aceleración
+- rozamiento
+- gravitación
+- electromagnetismo
 categories:
 - Física
 - Movimiento
