@@ -46,8 +46,8 @@ subtitle = "EBAU"
     tag = "Ondas"							
 	
   [[content.filter_button]]
-    name = "Óptica"
-    tag = "Óptica"									
+    name = "Óptica geométrica"
+    tag = "Óptica geométrica"									
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
