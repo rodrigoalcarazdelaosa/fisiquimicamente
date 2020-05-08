@@ -13,7 +13,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Imagen de [**Tomislav Jakupec**](https://pixabay.com/es/users/tommyvideo-3092371/) en [Pixabay](https://pixabay.com/es/)
+  caption: Foto de [**Polina Tankilevitch**](https://www.pexels.com/es-es/@polina-tankilevitch) en [Pexels](https://www.pexels.com/es-es/)
   focal_point: Smart
 
 # links:
