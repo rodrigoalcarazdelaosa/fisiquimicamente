@@ -4,7 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Método científico. Medidas de magnitudes. SI. N
 tags:
 - 2º ESO
 - 3º ESO
-- actividad científica
+- unidades SI
 categories:
 - Física
 - Química
