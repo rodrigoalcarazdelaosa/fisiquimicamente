@@ -1,6 +1,6 @@
 ---
 title: Enlace químico
-summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico."
+summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
 tags:
 - 2º Bach
 - EBAU
