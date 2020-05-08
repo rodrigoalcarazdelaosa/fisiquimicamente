@@ -8,6 +8,7 @@ tags:
 categories:
 - Física
 - Química
+- Actividad científica
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
