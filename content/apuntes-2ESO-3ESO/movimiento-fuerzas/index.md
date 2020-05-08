@@ -3,15 +3,11 @@ title: El movimiento y las fuerzas
 summary: "`PRÓXIMAMENTE` <br> Las fuerzas y sus efectos. Conceptos de velocidad y aceleración. Principales fuerzas de la naturaleza."
 tags:
 - 2º ESO
-- velocidad
-- aceleración
-- rozamiento
-- gravitación
-- electromagnetismo
+- movimiento
+- fuerzas
 categories:
 - Física
-- Movimiento
-- Fuerzas
+- Mecánica
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
