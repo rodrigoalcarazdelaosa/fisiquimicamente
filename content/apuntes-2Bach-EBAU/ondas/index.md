@@ -13,7 +13,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**NASA**](https://unsplash.com/@nasa) en [Unsplash](https://unsplash.com)
+  caption: Foto de [**Arek Socha**](https://pixabay.com/es/users/qimono-1962238/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
