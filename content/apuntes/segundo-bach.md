@@ -31,7 +31,11 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Campo magnético"
-    tag = "Campo magnético"			
+    tag = "Campo magnético"
+	
+  [[content.filter_button]]
+    name = "Física del s. XX"
+    tag = "Física del s. XX"	
 	
   [[content.filter_button]]
     name = "Gravitación"
@@ -43,7 +47,7 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Óptica"
-    tag = "Óptica"										
+    tag = "Óptica"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
