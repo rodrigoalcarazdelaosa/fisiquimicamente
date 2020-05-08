@@ -1,6 +1,6 @@
 ---
 title: Física del s. XX
-summary: "`PRÓXIMAMENTE` <br> Relatividad. Física Cuántica. ."
+summary: "`PRÓXIMAMENTE` <br> Relatividad. Física Cuántica. Física Nuclear. Radiactividad."
 tags:
 - 2º Bach
 - EBAU
