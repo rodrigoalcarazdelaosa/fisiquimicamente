@@ -1,6 +1,6 @@
 ---
 title: Química orgánica
-summary: "`PRÓXIMAMENTE` <br>."
+summary: "`PRÓXIMAMENTE` <br>"
 tags:
 - 2º Bach
 - EBAU
