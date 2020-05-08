@@ -4,10 +4,11 @@ summary: "`PRÓXIMAMENTE` <br> Propiedades y estados de agregación de la materi
 tags:
 - 2º ESO
 - 3º ESO
-- materia
+- densidad
 categories:
 - Física
 - Química
+- Materia
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
