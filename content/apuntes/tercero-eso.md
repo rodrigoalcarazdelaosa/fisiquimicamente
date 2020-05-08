@@ -30,28 +30,8 @@ subtitle = "3º ESO"
     tag = "actividad científica"	
 	
   [[content.filter_button]]
-    name = "Densidad"
-    tag = "Densidad"
-	
-  [[content.filter_button]]
-    name = "Energía"
-    tag = "Energía"		
-	
-  [[content.filter_button]]
-    name = "Electricidad-electrónica"
-    tag = "Electricidad-electrónica"	
-	
-  [[content.filter_button]]
-    name = "Estructura atómica"
-    tag = "Estructura atómica"			  
-	
-  [[content.filter_button]]
-    name = "Gases"
-    tag = "Gases"				
-	
-  [[content.filter_button]]
-    name = "Reacciones químicas"
-    tag = "Reacciones químicas"			  
+    name = "Bloque 2. La materia"
+    tag = "materia"		  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
