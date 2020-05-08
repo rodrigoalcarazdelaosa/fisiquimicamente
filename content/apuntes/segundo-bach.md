@@ -54,6 +54,10 @@ subtitle = "2º Bach"
     tag = "Óptica geométrica"
 	
   [[content.filter_button]]
+    name = "Química orgánica"
+    tag = "química orgánica"	
+	
+  [[content.filter_button]]
     name = "Reacciones químicas"
     tag = "Reacciones químicas"		
 
