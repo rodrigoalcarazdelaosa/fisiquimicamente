@@ -1,6 +1,6 @@
 ---
 title: Ácido-base
-summary: "`PRÓXIMAMENTE` <br> Velocidad de reacción. Ley de acción de masas. Principio de Le Chatelier. Equilibrios heterogéneos."
+summary: "`PRÓXIMAMENTE` <br> Equilibrio ácido-base. Teoría Arrhenius y de Brönsted-Lowry. Concepto de pH."
 tags:
 - 2º Bach
 - EBAU
