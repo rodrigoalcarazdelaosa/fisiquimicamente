@@ -35,7 +35,7 @@ subtitle = "3º ESO"
 	
   [[content.filter_button]]
     name = "Estructura atómica"
-    tag = "estructura-atomica"	
+    tag = "estructura-atómica"	
 	
   [[content.filter_button]]
     name = "Mezclas"
