@@ -5,7 +5,7 @@ tags:
 - 2º Bach
 - EBAU
 - reacciones químicas
-- equilibrio quimico
+- equilibrio químico
 categories:
 - Química
 
