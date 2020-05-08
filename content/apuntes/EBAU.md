@@ -51,7 +51,11 @@ subtitle = "EBAU"
 	
   [[content.filter_button]]
     name = "Óptica geométrica"
-    tag = "Óptica geométrica"									
+    tag = "Óptica geométrica"
+	
+  [[content.filter_button]]
+    name = "Reacciones químicas"
+    tag = "reacciones químicas"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
