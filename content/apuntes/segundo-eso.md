@@ -55,7 +55,11 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Temperatura"
-    tag = "temperatura"	
+    tag = "temperatura"
+	
+  [[content.filter_button]]
+    name = "Velocidad"
+    tag = "velocidad"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
