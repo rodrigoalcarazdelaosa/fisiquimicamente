@@ -4,7 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Leyes de la óptica geométrica. Sistemas óptico
 tags:
 - 2º Bach
 - EBAU
-- Física del s. XX
+- "Física del s. XX"
 categories:
 - Física
 
