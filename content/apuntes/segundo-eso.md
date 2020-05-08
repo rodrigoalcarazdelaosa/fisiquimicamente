@@ -26,6 +26,10 @@ subtitle = "2º ESO"
     tag = "2º ESO"
 	
   [[content.filter_button]]
+    name = "Cambios"
+    tag = "cambios"	
+	
+  [[content.filter_button]]
     name = "Densidad"
     tag = "densidad"
 	
@@ -39,11 +43,7 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Mezclas"
-    tag = "mezclas"
-	
-  [[content.filter_button]]
-    name = "Reacciones químicas"
-    tag = "reacciones-químicas"	
+    tag = "mezclas"		
 
   [[content.filter_button]]
     name = "SI"
