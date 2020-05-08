@@ -4,7 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y T
 tags:
 - 2º Bach
 - EBAU
-- enlace químico
+- Enlace químico
 categories:
 - Química
 
