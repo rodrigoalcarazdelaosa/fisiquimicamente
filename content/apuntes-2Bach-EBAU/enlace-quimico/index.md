@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Imagen de [**Arek Socha**](https://pixabay.com/es/users/qimono-1962238/) en [Pixabay](https://pixabay.com/es/)
+  caption: Imagen de [**Tomislav Jakupec**](https://pixabay.com/es/users/tommyvideo-3092371/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
