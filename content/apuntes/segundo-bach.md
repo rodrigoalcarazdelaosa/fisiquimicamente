@@ -35,7 +35,11 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Gravitación"
-    tag = "Gravitación"						
+    tag = "Gravitación"				
+	
+  [[content.filter_button]]
+    name = "Ondas"
+    tag = "Ondas"							
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
