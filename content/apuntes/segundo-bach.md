@@ -34,6 +34,10 @@ subtitle = "2º Bach"
     tag = "Campo magnético"
 	
   [[content.filter_button]]
+    name = "Enlace químico"
+    tag = "Enlace químico"	
+	
+  [[content.filter_button]]
     name = "Física del s. XX"
     tag = "Física del s XX"
 	
