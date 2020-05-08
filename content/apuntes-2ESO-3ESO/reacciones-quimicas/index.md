@@ -7,6 +7,7 @@ tags:
 - reacciones-químicas
 categories:
 - Química
+- Reacciones Químicas
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
