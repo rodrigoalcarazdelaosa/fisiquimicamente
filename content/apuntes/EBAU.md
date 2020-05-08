@@ -35,7 +35,7 @@ subtitle = "EBAU"
 	
   [[content.filter_button]]
     name = "Física del s. XX"
-    tag = "Física del s. XX"	
+    tag = "Física del s XX"	
 	
   [[content.filter_button]]
     name = "Gravitación"
