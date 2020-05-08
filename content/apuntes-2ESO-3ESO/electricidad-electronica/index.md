@@ -4,7 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Electricidad y circuitos eléctricos. Ley de Ohm.
 tags:
 - 2º ESO
 - 3º ESO
-- "Electricidad-electrónica"
+- electricidad-electrónica
 categories:
 - Física
 - Energía
