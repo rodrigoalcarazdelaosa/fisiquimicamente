@@ -50,6 +50,10 @@ subtitle = "2º ESO"
     tag = "estructura-atómica"	
 	
   [[content.filter_button]]
+    name = "Gravitación"
+    tag = "gravitación"	
+	
+  [[content.filter_button]]
     name = "Mezclas"
     tag = "mezclas"		
 	
