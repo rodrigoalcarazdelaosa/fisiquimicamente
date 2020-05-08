@@ -23,11 +23,7 @@ subtitle = "2º ESO"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "2º ESO"
-	
-  [[content.filter_button]]
-    name = "Aceleración"
-    tag = "aceleración"	
+    tag = "2º ESO"		
 	
   [[content.filter_button]]
     name = "Calor"
@@ -39,11 +35,7 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Electricidad-electrónica"
-    tag = "electricidad-electrónica"
-	
-  [[content.filter_button]]
-    name = "Electromagnetismo"
-    tag = "electromagnetismo"	
+    tag = "electricidad-electrónica"	
 	
   [[content.filter_button]]
     name = "Estados de agregación"
@@ -51,19 +43,19 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Estructura atómica"
-    tag = "estructura-atómica"	
+    tag = "estructura-atómica"
 	
   [[content.filter_button]]
-    name = "Gravitación"
-    tag = "gravitación"	
+    name = "Fuerzas"
+    tag = "fuerzas"
 	
   [[content.filter_button]]
     name = "Mezclas"
-    tag = "mezclas"		
+    tag = "mezclas"
 	
   [[content.filter_button]]
-    name = "Rozamiento"
-    tag = "rozamiento"	
+    name = "Movimiento"
+    tag = "movimiento"
 
   [[content.filter_button]]
     name = "SI"
@@ -71,11 +63,7 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Temperatura"
-    tag = "temperatura"
-	
-  [[content.filter_button]]
-    name = "Velocidad"
-    tag = "velocidad"	
+    tag = "temperatura"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
