@@ -4,7 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Modelos atómicos, átomos y moléculas."
 tags:
 - 2º ESO
 - 3º ESO
-- Estructura atómica
+- materia
 categories:
 - Física
 - Química
