@@ -26,12 +26,12 @@ subtitle = "3º ESO"
     tag = "3º ESO"
 	
   [[content.filter_button]]
-    name = "SI"
-    tag = "SI"
-	
-  [[content.filter_button]]
     name = "Densidad"
     tag = "densidad"
+
+  [[content.filter_button]]
+    name = "SI"
+    tag = "SI"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
