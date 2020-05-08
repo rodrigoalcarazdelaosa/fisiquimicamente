@@ -26,6 +26,10 @@ subtitle = "2º ESO"
     tag = "2º ESO"
 	
   [[content.filter_button]]
+    name = "Aceleración"
+    tag = "aceleración"	
+	
+  [[content.filter_button]]
     name = "Calor"
     tag = "calor"
 	
