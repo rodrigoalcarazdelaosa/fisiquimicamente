@@ -4,8 +4,8 @@ summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y T
 tags:
 - 2º Bach
 - EBAU
-- reacciones químicas
-- equilibrio químico
+- Reacciones químicas
+- Equilibrio químico
 categories:
 - Química
 
