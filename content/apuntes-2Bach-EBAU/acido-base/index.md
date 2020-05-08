@@ -1,6 +1,6 @@
 ---
 title: Ácido-base
-summary: "`PRÓXIMAMENTE` <br> Equilibrio ácido-base. Teoría Arrhenius y de Brönsted-Lowry. Concepto de pH."
+summary: "`PRÓXIMAMENTE` <br> Equilibrio ácido-base. Teorías de Arrhenius y de Brönsted-Lowry. Concepto de pH."
 tags:
 - 2º Bach
 - EBAU
