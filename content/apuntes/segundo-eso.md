@@ -40,6 +40,10 @@ subtitle = "2º ESO"
   [[content.filter_button]]
     name = "Mezclas"
     tag = "mezclas"
+	
+  [[content.filter_button]]
+    name = "Reacciones químicas"
+    tag = "reacciones-químicas"	
 
   [[content.filter_button]]
     name = "SI"
