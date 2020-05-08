@@ -1,5 +1,5 @@
 ---
-title: Enlace químico
+title: Equilibrio químico
 summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
 tags:
 - 2º Bach
