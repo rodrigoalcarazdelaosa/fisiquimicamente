@@ -1,6 +1,6 @@
 ---
 title: Física del s. XX
-summary: "`PRÓXIMAMENTE` <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
+summary: "`PRÓXIMAMENTE` <br> Relatividad. Física Cuántica. ."
 tags:
 - 2º Bach
 - EBAU
