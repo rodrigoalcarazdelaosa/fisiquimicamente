@@ -4,7 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico."
 tags:
 - 2º Bach
 - EBAU
-- Enlace químico
+- enlace químico
 categories:
 - Química
 
