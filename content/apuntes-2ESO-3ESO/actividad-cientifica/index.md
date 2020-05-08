@@ -6,9 +6,9 @@ tags:
 - 3º ESO
 - actividad científica
 categories:
+- Actividad Científica
 - Física
 - Química
-- Actividad científica
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
