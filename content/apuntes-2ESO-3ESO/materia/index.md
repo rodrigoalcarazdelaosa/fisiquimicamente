@@ -6,6 +6,7 @@ tags:
 - 3º ESO
 - densidad
 - estados
+- mezclas
 categories:
 - Física
 - Química
