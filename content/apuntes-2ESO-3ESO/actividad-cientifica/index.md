@@ -5,10 +5,6 @@ tags:
 - 2º ESO
 - 3º ESO
 - actividad científica
-- método científico
-- unidades SI
-- factores de conversión
-- notación científica
 categories:
 - Física
 - Química
