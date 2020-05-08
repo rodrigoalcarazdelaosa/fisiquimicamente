@@ -42,6 +42,10 @@ subtitle = "2º ESO"
     tag = "electricidad-electrónica"
 	
   [[content.filter_button]]
+    name = "Electromagnetismo"
+    tag = "electromagnetismo"	
+	
+  [[content.filter_button]]
     name = "Estados de agregación"
     tag = "estados-agregación"
 	
