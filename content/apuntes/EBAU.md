@@ -27,7 +27,7 @@ subtitle = "EBAU"
 	
   [[content.filter_button]]
     name = "Campo eléctrico"
-    tag = "Campo eléctrico"		
+    tag = "Campo eléctrico"
 	
   [[content.filter_button]]
     name = "Campo magnético"
