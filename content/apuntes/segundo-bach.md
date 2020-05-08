@@ -23,11 +23,7 @@ subtitle = "2º Bach"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "2º Bach"
-	
-  [[content.filter_button]]
-    name = "Ácido-base"
-    tag = "ácido-base"
+    tag = "2º Bach"	
 
   [[content.filter_button]]
     name = "Campo eléctrico"
@@ -59,11 +55,7 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
-    tag = "Reacciones químicas"
-	
-  [[content.filter_button]]
-    name = "Rédox"
-    tag = "rédox"	
+    tag = "Reacciones químicas"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
