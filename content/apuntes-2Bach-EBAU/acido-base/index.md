@@ -29,7 +29,7 @@ image:
 
 ---
 
-Apuntes sobre equilibrio químico, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre ácido-base, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
