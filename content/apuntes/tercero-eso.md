@@ -27,7 +27,7 @@ subtitle = "3º ESO"
 	
   [[content.filter_button]]
     name = "La actividad científica"
-    tag = "factores de conversión"	
+    tag = "actividad científica"	
 	
   [[content.filter_button]]
     name = "Densidad"
