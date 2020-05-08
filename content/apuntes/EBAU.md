@@ -35,7 +35,7 @@ subtitle = "EBAU"
 	
   [[content.filter_button]]
     name = "Enlace químico"
-    tag = "enlace químico"	
+    tag = "Enlace químico"	
 	
   [[content.filter_button]]
     name = "Física del s. XX"
@@ -55,7 +55,7 @@ subtitle = "EBAU"
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
-    tag = "reacciones químicas"	
+    tag = "Reacciones químicas"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
