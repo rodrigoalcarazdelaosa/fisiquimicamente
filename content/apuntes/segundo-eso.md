@@ -27,7 +27,7 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Bloque 1. La actividad científica"
-    tag = "actividad científica"
+    tag = "SI"
 	
   [[content.filter_button]]
     name = "Bloque 2. La materia"
