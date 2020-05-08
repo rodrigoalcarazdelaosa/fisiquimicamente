@@ -5,7 +5,7 @@ tags:
 - 2º ESO
 - 3º ESO
 - densidad
-- estados
+- estados-agregación
 - mezclas
 categories:
 - Física
