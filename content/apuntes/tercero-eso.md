@@ -34,6 +34,10 @@ subtitle = "3º ESO"
     tag = "densidad"
 	
   [[content.filter_button]]
+    name = "Electricidad-electrónica"
+    tag = "electricidad-electrónica"	
+	
+  [[content.filter_button]]
     name = "Estados de agregación"
     tag = "estados-agregación"
 	
