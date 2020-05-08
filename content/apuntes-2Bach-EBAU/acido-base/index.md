@@ -13,7 +13,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**Polina Tankilevitch**](https://www.pexels.com/es-es/@polina-tankilevitch) en [Pexels](https://www.pexels.com/es-es/)
+  caption: https://www.reach-compliance.ch/downloads/GHS05_acid_red.png
   focal_point: Smart
 
 # links:
