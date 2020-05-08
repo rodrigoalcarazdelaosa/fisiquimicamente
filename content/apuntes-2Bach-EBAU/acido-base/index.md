@@ -5,7 +5,7 @@ tags:
 - 2º Bach
 - EBAU
 - Reacciones químicas
-- acido-base
+- ácido-base
 categories:
 - Química
 
