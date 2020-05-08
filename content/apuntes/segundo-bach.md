@@ -26,8 +26,12 @@ subtitle = "2º Bach"
     tag = "2º Bach"
 	
   [[content.filter_button]]
+    name = "Ácido-base"
+    tag = "ácido-base"
+
+  [[content.filter_button]]
     name = "Campo eléctrico"
-    tag = "Campo eléctrico"		
+    tag = "Campo eléctrico"
 	
   [[content.filter_button]]
     name = "Campo magnético"
