@@ -1,6 +1,6 @@
 ---
 title: Equilibrio químico
-summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
+summary: "`PRÓXIMAMENTE` <br> Velocidad de reacción. Ley de acción de masas. Principio de Le Chatelier. Equilibrios heterogéneos."
 tags:
 - 2º Bach
 - EBAU
