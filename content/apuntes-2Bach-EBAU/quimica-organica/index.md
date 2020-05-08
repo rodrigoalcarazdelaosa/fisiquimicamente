@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Imagen de [**Tomislav Jakupec**](https://pixabay.com/es/users/tommyvideo-3092371/) en [Pixabay](https://pixabay.com/es/)
+  caption: Foto de [**Holger Link**](https://unsplash.com/@photoholgic) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 # links:
