@@ -4,7 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Relatividad. Física Cuántica. Física Nuclear. 
 tags:
 - 2º Bach
 - EBAU
-- "Física del s. XX"
+- "Física del s XX"
 categories:
 - Física
 
