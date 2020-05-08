@@ -4,10 +4,10 @@ summary: "`PRÓXIMAMENTE` <br> Método científico. Medidas de magnitudes. SI. N
 tags:
 - 2º ESO
 - 3º ESO
-- Método científico
-- Unidades SI
-- Factores de conversión
-- Notación científica
+- método científico
+- unidades SI
+- factores de conversión
+- notación científica
 categories:
 - Física
 - Química
