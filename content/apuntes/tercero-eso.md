@@ -27,11 +27,11 @@ subtitle = "3º ESO"
 	
   [[content.filter_button]]
     name = "SI"
-    tag = "SI"	
+    tag = "SI"
 	
   [[content.filter_button]]
-    name = "Bloque 2. La materia"
-    tag = "materia"		  
+    name = "Densidad"
+    tag = "densidad"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
