@@ -28,6 +28,14 @@ subtitle = "3º ESO"
   [[content.filter_button]]
     name = "Densidad"
     tag = "densidad"
+	
+  [[content.filter_button]]
+    name = "Estados de agregación"
+    tag = "estados-agregación"
+	
+  [[content.filter_button]]
+    name = "Mezclas"
+    tag = "mezclas"
 
   [[content.filter_button]]
     name = "SI"
