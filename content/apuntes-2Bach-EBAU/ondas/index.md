@@ -1,6 +1,6 @@
 ---
 title: Ondas
-summary: "`PRÓXIMAMENTE` <br> Propagación de ondas transversales y longitudinales. Ecuación de las ondas armónicas, energía e intensidad."
+summary: "`PRÓXIMAMENTE` <br> Propagación de ondas transversales y longitudinales. Ecuación de las ondas armónicas. Energía e intensidad."
 tags:
 - 2º Bach
 - EBAU
