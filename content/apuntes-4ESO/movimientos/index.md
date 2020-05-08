@@ -18,12 +18,12 @@ links:
 - icon_pack: fas
   icon: download
   name: PDF Texto
-  url: movimientos_texto.pdf
+  url: movimientos-texto.pdf
   
 - icon_pack: fas
   icon: download
   name: PDF Póster
-  url: movimientos_poster.pdf  
+  url: movimientos-poster.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
