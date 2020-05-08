@@ -1,6 +1,6 @@
 ---
 title: Enlace químico
-summary: "`PRÓXIMAMENTE` <br> Propagación de ondas transversales y longitudinales. Ecuación de las ondas armónicas. Energía e intensidad. Sonido y luz."
+summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico."
 tags:
 - 2º Bach
 - EBAU
