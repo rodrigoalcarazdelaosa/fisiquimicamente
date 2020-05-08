@@ -31,35 +31,7 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Bloque 2. La materia"
-    tag = "materia"
-	
-  [[content.filter_button]]
-    name = "Densidad"
-    tag = "Densidad"
-	
-  [[content.filter_button]]
-    name = "Energía"
-    tag = "Energía"		
-	
-  [[content.filter_button]]
-    name = "Electricidad-electrónica"
-    tag = "Electricidad-electrónica"
-	
-  [[content.filter_button]]
-    name = "Estructura atómica"
-    tag = "Estructura atómica"			  
-	
-  [[content.filter_button]]
-    name = "Fuerzas"
-    tag = "Fuerzas"	
-	
-  [[content.filter_button]]
-    name = "Movimiento"
-    tag = "Movimiento"			
-	
-  [[content.filter_button]]
-    name = "Reacciones químicas"
-    tag = "Reacciones químicas"		
+    tag = "materia"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
