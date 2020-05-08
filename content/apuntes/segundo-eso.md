@@ -34,6 +34,10 @@ subtitle = "2º ESO"
     tag = "estados-agregación"
 	
   [[content.filter_button]]
+    name = "Estructura atómica"
+    tag = "estructura-atomica"	
+	
+  [[content.filter_button]]
     name = "Mezclas"
     tag = "mezclas"
 
