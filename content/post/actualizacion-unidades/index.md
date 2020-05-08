@@ -6,6 +6,7 @@ tags:
 categories:
 - Física
 - Química
+- Actividad Científica
 image:
   placement: 3
   caption: "[https://www.cem.es/content/el-sistema-internacional-de-unidades-si](https://www.cem.es/content/el-sistema-internacional-de-unidades-si)"
