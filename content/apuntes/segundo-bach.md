@@ -59,7 +59,11 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
-    tag = "Reacciones químicas"	
+    tag = "Reacciones químicas"
+	
+  [[content.filter_button]]
+    name = "Rédox"
+    tag = "rédox"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
