@@ -1,6 +1,6 @@
 ---
 title: Rédox
-summary: "`PRÓXIMAMENTE` <br> Equilibrio rédox. Teorías de Arrhenius y de Brönsted-Lowry. Concepto de pH."
+summary: "`PRÓXIMAMENTE` <br> Equilibrio rédox. Ajuste rédox. Pilas galvánicas. Electrolisis."
 tags:
 - 2º Bach
 - EBAU
