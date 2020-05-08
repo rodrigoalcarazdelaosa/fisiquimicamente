@@ -1,11 +1,9 @@
 ---
 title: Ondas
-summary: "`PRÓXIMAMENTE` <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
+summary: "`PRÓXIMAMENTE` <br> Ondas transversales y longitudinales. Ecuación de las ondas armónicas, energía e intensidad."
 tags:
 - 2º Bach
 - EBAU
-- Movimiento
-- Fuerzas
 - Energía
 - Ondas
 categories:
