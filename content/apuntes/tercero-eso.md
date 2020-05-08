@@ -26,6 +26,10 @@ subtitle = "3º ESO"
     tag = "3º ESO"
 	
   [[content.filter_button]]
+    name = "La actividad científica"
+    tag = "factores de conversión"	
+	
+  [[content.filter_button]]
     name = "Densidad"
     tag = "Densidad"
 	
@@ -39,11 +43,7 @@ subtitle = "3º ESO"
 	
   [[content.filter_button]]
     name = "Estructura atómica"
-    tag = "Estructura atómica"			
-  
-  [[content.filter_button]]
-    name = "Factores de conversión"
-    tag = "Factores de conversión"	
+    tag = "Estructura atómica"			  
 	
   [[content.filter_button]]
     name = "Gases"
