@@ -26,6 +26,10 @@ subtitle = "EBAU"
     tag = "EBAU"		
 	
   [[content.filter_button]]
+    name = "Ácido-base"
+    tag = "ácido-base"	
+	
+  [[content.filter_button]]
     name = "Campo eléctrico"
     tag = "Campo eléctrico"
 	
