@@ -23,7 +23,11 @@ subtitle = "2º ESO"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "2º ESO"	
+    tag = "2º ESO"
+	
+  [[content.filter_button]]
+    name = "Bloque 1. La actividad científica"
+    tag = "Densidad"	
 	
   [[content.filter_button]]
     name = "Densidad"
