@@ -4,7 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Interpretación de reacciones químicas. Iniciaci
 tags:
 - 2º ESO
 - 3º ESO
-- Reacciones químicas
+- reacciones-químicas
 categories:
 - Química
 
