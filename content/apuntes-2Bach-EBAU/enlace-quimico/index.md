@@ -1,6 +1,6 @@
 ---
 title: Enlace químico
-summary: "`PRÓXIMAMENTE` <br> Velocidad de reacción. Ley de acción de masas. Principio de Le Chatelier. Equilibrios heterogéneos."
+summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
 tags:
 - 2º Bach
 - EBAU
