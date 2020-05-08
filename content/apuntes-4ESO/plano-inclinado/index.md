@@ -19,12 +19,12 @@ links:
 - icon_pack: fas
   icon: download
   name: PDF Texto
-  url: plano_inclinado_texto.pdf
+  url: plano-inclinado-texto.pdf
   
 - icon_pack: fas
   icon: download
   name: PDF Póster
-  url: plano_inclinado_poster.pdf  
+  url: plano-inclinado-poster.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
