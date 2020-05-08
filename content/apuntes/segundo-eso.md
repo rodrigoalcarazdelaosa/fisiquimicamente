@@ -23,11 +23,7 @@ subtitle = "2º ESO"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "2º ESO"
-	
-  [[content.filter_button]]
-    name = "Cambios"
-    tag = "cambios"	
+    tag = "2º ESO"		
 	
   [[content.filter_button]]
     name = "Densidad"
