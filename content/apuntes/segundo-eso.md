@@ -26,8 +26,8 @@ subtitle = "2º ESO"
     tag = "2º ESO"
 	
   [[content.filter_button]]
-    name = "Bloque 1. La actividad científica"
-    tag = "Densidad"	
+    name = "La actividad científica"
+    tag = "factores de conversión"
 	
   [[content.filter_button]]
     name = "Densidad"
@@ -43,11 +43,7 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Estructura atómica"
-    tag = "Estructura atómica"			
-  
-  [[content.filter_button]]
-    name = "Factores de conversión"
-    tag = "Factores de conversión"	
+    tag = "Estructura atómica"			  
 	
   [[content.filter_button]]
     name = "Fuerzas"
