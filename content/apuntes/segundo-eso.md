@@ -52,6 +52,10 @@ subtitle = "2º ESO"
   [[content.filter_button]]
     name = "Mezclas"
     tag = "mezclas"		
+	
+  [[content.filter_button]]
+    name = "Rozamiento"
+    tag = "rozamiento"	
 
   [[content.filter_button]]
     name = "SI"
