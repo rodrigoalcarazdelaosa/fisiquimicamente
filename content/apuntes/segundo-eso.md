@@ -23,15 +23,15 @@ subtitle = "2º ESO"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "2º ESO"
-	
-  [[content.filter_button]]
-    name = "Calor"
-    tag = "calor"
+    tag = "2º ESO"	
 	
   [[content.filter_button]]
     name = "Densidad"
     tag = "densidad"
+	
+  [[content.filter_button]]
+    name = "Energía"
+    tag = "energía"	
 	
   [[content.filter_button]]
     name = "Electricidad-electrónica"
@@ -60,10 +60,6 @@ subtitle = "2º ESO"
   [[content.filter_button]]
     name = "SI"
     tag = "SI"
-	
-  [[content.filter_button]]
-    name = "Temperatura"
-    tag = "temperatura"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
