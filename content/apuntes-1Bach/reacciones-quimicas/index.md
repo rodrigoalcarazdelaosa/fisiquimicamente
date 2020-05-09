@@ -3,7 +3,7 @@ title: Reacciones químicas
 summary: "`PRÓXIMAMENTE` <br> Estequiometría, transformaciones energéticas y espontaneidad."
 tags:
 - 1º Bach
-- Reacciones químicas
+- reacciones químicas
 categories:
 - Química
 
