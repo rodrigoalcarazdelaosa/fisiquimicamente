@@ -2,7 +2,7 @@
 title: Color Calculator
 summary: Una práctica rueda de colores interactiva.
 tags:
-- Color
+- color
 categories: 
 
 # Optional external URL for project (replaces project detail page).
