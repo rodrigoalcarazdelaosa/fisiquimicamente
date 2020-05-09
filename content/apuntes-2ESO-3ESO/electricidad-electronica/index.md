@@ -7,7 +7,6 @@ tags:
 - electricidad-electrónica
 categories:
 - Física
-- Energía
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
