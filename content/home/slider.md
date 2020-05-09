@@ -72,18 +72,18 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Enlaces de interés"
-  content = "[Recursos online](enlaces/#recursos-online) | [Páginas amigas](enlaces/#paginas-amigas)"
+  content = "[Recursos online](enlaces-interes/#recursos-online) | [Páginas amigas](enlaces-interes/#paginas-amigas)"
   align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "enlaces.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "enlaces-interes.jpg"  # Image path relative to your `static/img/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Ir a ENLACES DE INTERÉS"
-  cta_url = "enlaces/"
+  cta_url = "enlaces-interes/"
   cta_icon_pack = "fas"
   cta_icon = "link"
   
