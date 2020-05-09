@@ -3,9 +3,9 @@ title: Gravitación
 summary: "`PRÓXIMAMENTE` <br> Fuerzas centrales. Ley de Gravitación Universal. Leyes de Kepler."
 tags:
 - 1º Bach
-- Movimiento
-- Fuerzas
-- Gravitación
+- movimiento
+- fuerzas
+- gravitación
 categories:
 - Física
 
