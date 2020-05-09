@@ -35,7 +35,7 @@ height = "calc(100vh - 70px)"
   cta_icon = "book"
   
 [[item]]
-  title = "EBAU"
+  title = "Recursos EBAU"
   content = "[Exámenes](ebau/#examenes-fisica) | [Consejos](ebau/#consejos)"
   align = "left"  # Choose `center`, `left`, or `right`.
 
