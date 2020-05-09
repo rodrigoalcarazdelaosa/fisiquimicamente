@@ -4,7 +4,7 @@ title: Rodrigo Alcaraz de la Osa
 
 # Username (this should match the folder name)
 authors:
-- admin
+- rodrigoalcarazdelaosa
 
 # Is this the primary user of the site?
 superuser: true
