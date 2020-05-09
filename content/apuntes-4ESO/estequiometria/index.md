@@ -3,7 +3,7 @@ title: Estequiometría
 summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
 tags:
 - 4º ESO
-- Reacciones químicas
+- reacciones-químicas
 categories:
 - Química
 
