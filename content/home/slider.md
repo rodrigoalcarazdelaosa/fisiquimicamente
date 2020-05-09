@@ -37,7 +37,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "EBAU"
   content = "Recursos EBAU"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
