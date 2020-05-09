@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Con el Prof. Juan José Sáenz<sup>&dagger;</sup>"
+  title = "Con el Prof. Juan José Sáenz<sup>&dager;</sup>"
   company = "Universidad Autónoma de Madrid"
   company_url = "http://www.uam.es/UAM/Home.htm?language=es"
   location = "Cantoblanco, Madrid (España)"
