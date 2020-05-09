@@ -41,7 +41,7 @@
   
 [[main]]
   name = "EBAU"
-  url = "EBAU/"
+  url = "ebau/"
   weight = 2  
 
 [[main]]
