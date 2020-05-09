@@ -42,7 +42,7 @@ subtitle = "2º Bach"
     tag = "Física del s XX"
 	
   [[content.filter_button]]
-    name = "Gravitación"
+    name = "Interacción gravitatoria"
     tag = "gravitación"				
 	
   [[content.filter_button]]
