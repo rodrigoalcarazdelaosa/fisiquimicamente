@@ -51,7 +51,7 @@ height = "calc(100vh - 70px)"
   cta_label = "Ir a EBAU"
   cta_url = "ebau/"
   cta_icon_pack = "fas"
-  cta_icon = "book"  
+  cta_icon = "pencil-alt"
 
 [[item]]
   title = "Tutoriales"
