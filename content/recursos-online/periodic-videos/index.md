@@ -2,7 +2,7 @@
 title: The Periodic Table of Videos
 summary: Serie de vídeos acerca de elementos químicos y de la Tabla Periódica de los elementos.
 tags:
-- Tabla Periódica
+- tabla-periódica
 categories: 
 - "Química"
 
