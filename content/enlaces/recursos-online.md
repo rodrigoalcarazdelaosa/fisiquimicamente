@@ -31,7 +31,7 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Tabla Periódica"
-    tag = "Tabla Periódica"			
+    tag = "tabla-periódica"			
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
