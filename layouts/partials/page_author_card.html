@@ -8,7 +8,7 @@
     {{/* If it's a personal site and primary page author is superuser, link to the homepage rather than their profile page. */}}
     {{ $profile_url := .RelPermalink }}
     {{ if and (eq $site_type "Person") (eq .Params.superuser true) }}
-      {{ $profile_url = site.BaseURL/acerca }}
+      {{ $profile_url = site.BaseURL }}
     {{ end }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
     {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
