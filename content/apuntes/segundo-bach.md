@@ -43,7 +43,7 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Gravitación"
-    tag = "Gravitación"				
+    tag = "gravitación"				
 	
   [[content.filter_button]]
     name = "Ondas"
