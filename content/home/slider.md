@@ -33,6 +33,25 @@ height = "calc(100vh - 70px)"
   cta_url = "apuntes/"
   cta_icon_pack = "fas"
   cta_icon = "book"
+  
+[[item]]
+  title = "Recursos EBAU"
+  content = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) | [1º Bach](apuntes/#primero-bach) | [2º Bach](apuntes/#segundo-bach) | [EBAU](apuntes/#EBAU)"
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  # overlay_color = "#666"  # An HTML color value.
+  overlay_img = "apuntes1.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Ir a APUNTES"
+  cta_url = "apuntes/"
+  cta_icon_pack = "fas"
+  cta_icon = "book"  
 
 [[item]]
   title = "Tutoriales"
