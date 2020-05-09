@@ -35,8 +35,8 @@ height = "calc(100vh - 70px)"
   cta_icon = "book"
   
 [[item]]
-  title = "Recursos EBAU"
-  content = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) | [1º Bach](apuntes/#primero-bach) | [2º Bach](apuntes/#segundo-bach) | [EBAU](apuntes/#EBAU)"
+  title = "EBAU"
+  content = "Recursos EBAU"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -48,7 +48,7 @@ height = "calc(100vh - 70px)"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Ir a APUNTES"
+  cta_label = "Ir a EBAU"
   cta_url = "apuntes/"
   cta_icon_pack = "fas"
   cta_icon = "book"  
