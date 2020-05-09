@@ -47,15 +47,15 @@ subtitle = "3º ESO"
 	
   [[content.filter_button]]
     name = "Gases"
-    tag = "gases"	
-	
-  [[content.filter_button]]
-    name = "Mezclas"
-    tag = "mezclas"
+    tag = "gases"		
 	
   [[content.filter_button]]
     name = "Método científico"
     tag = "método-científico"	
+	
+  [[content.filter_button]]
+    name = "Mezclas"
+    tag = "mezclas"	
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
