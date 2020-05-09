@@ -56,6 +56,10 @@ subtitle = "2º ESO"
   [[content.filter_button]]
     name = "Movimiento"
     tag = "movimiento"
+	
+  [[content.filter_button]]
+    name = "Reacciones químicas"
+    tag = "reacciones-químicas"	
 
   [[content.filter_button]]
     name = "SI"
