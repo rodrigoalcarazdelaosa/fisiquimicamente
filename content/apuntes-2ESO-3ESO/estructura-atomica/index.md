@@ -8,7 +8,6 @@ tags:
 categories:
 - Física
 - Química
-- Materia
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
