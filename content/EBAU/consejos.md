@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "apuntes.jpg"  # Name of image in `static/img/`.
+  image = "ebau.jpg"  # Name of image in `static/img/`.
   image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,4 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<a class="twitter-timeline" data-lang="es" data-height="500" data-theme="light" href="https://twitter.com/alcarazr?ref_src=twsrc%5Etfw">Tweets by alcarazr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{% alert note %}}
+Próximamente...
+{{% /alert %}}

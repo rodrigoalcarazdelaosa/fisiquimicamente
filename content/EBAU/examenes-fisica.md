@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Exámenes"
+title = "Exámenes EBAU"
 subtitle = "Física"
 
 [content]
@@ -23,51 +23,27 @@ subtitle = "Física"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "2º ESO"	
+    tag = "*"	
 	
   [[content.filter_button]]
-    name = "Densidad"
-    tag = "densidad"
+    name = "Física del s. XX"
+    tag = "física-s-XX"
 	
   [[content.filter_button]]
-    name = "Energía"
-    tag = "energía"
+    name = "Interacción electromagnética"
+    tag = "electromagnetismo"
 	
   [[content.filter_button]]
-    name = "Electricidad-electrónica"
-    tag = "electricidad-electrónica"	
+    name = "Interacción gravitatoria"
+    tag = "gravitación"
 	
   [[content.filter_button]]
-    name = "Estados de agregación"
-    tag = "estados-agregación"
+    name = "Ondas"
+    tag = "ondas"							
 	
   [[content.filter_button]]
-    name = "Estructura atómica"
-    tag = "estructura-atómica"
-	
-  [[content.filter_button]]
-    name = "Fuerzas"
-    tag = "fuerzas"
-	
-  [[content.filter_button]]
-    name = "Método científico"
-    tag = "método-científico"	
-	
-  [[content.filter_button]]
-    name = "Mezclas"
-    tag = "mezclas"	
-	
-  [[content.filter_button]]
-    name = "Movimiento"
-    tag = "movimiento"
-	
-  [[content.filter_button]]
-    name = "Reacciones químicas"
-    tag = "reacciones-químicas"	
-
-  [[content.filter_button]]
-    name = "SI"
-    tag = "SI"
+    name = "Óptica geométrica"
+    tag = "óptica-geométrica"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -97,7 +73,7 @@ subtitle = "Física"
   # gradient_end = "#dddddd"
   
   # Background image.
-  image = "apuntes2.jpg"  # Name of image in `static/img/`.
+  image = "ebau.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.

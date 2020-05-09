@@ -32,6 +32,24 @@ Una de las principales razones por las que la gente usa $\LaTeX$ es que separa e
 
 [^1]: En [esta página](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends) tienes una muestra del tipo de documentos que se pueden crear con $\LaTeX$.
 
+## ¿Cómo usar $\LaTeX$?
+
+### [Overleaf](https://www.overleaf.com/)
+Sin duda la **opción recomendada** para poder empezar a escribir $\LaTeX$ sin necesidad de instalar nada localmente en nuestro ordenador. [Overleaf](https://www.overleaf.com/) es un editor de $\LaTeX$ online que nos permite además **colaborar** fácilmente con otras personas.
+
+### Windows
+Tenemos principalmente dos opciones:
+
+- [$\TeX$ Live](https://www.tug.org/texlive/): viene del mundo Unix y por defecto instala _todo_.
+
+- [MiK$\TeX$](https://miktex.org): herramienta más _Windows_. Por defecto instala unos pocos paquetes y el resto se van instalando según sea necesario.
+
+### macOS
+[Mac$\TeX$](https://tug.org/mactex/) es la versión de [$\TeX$ Live](https://www.tug.org/texlive/) para macOS. 
+
+### Unix
+[$\TeX$ Live](https://www.tug.org/texlive/).
+
 ## Tu primer documento de $\LaTeX$
 Todo documento de $\LaTeX$ comienza con el comando `\documentclass`, que nos permite escoger la _clase_ de documento que vamos a generar. La clase controla la apariencia general de nuestro documento. Las **3 clases básicas** son:
 

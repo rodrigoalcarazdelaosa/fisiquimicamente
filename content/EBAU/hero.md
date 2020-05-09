@@ -36,11 +36,11 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
-  # url = "apuntes/#segundo-eso"
-  # label = "Comienza a explorar"
-  # icon_pack = "fas"
-  # icon = "chevron-circle-down"
+ [cta]
+   url = "ebau/#examenes-fisica"
+   label = "Comienza a explorar"
+   icon_pack = "fas"
+   icon = "chevron-circle-down"
   
 # [cta_alt]
   # url = "https://sourcethemes.com/academic/"
@@ -51,6 +51,4 @@ hero_media = ""
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-{{% alert warning %}}
-En construcción...
-{{% /alert %}}
+[Exámenes](#examenes-fisica) | [Consejos](#consejos)
