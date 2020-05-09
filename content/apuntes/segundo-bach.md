@@ -47,15 +47,15 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Óptica geométrica"
-    tag = "Óptica geométrica"
+    tag = "óptica-geométrica"
 	
   [[content.filter_button]]
     name = "Química orgánica"
-    tag = "química orgánica"	
+    tag = "química-orgánica"	
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
-    tag = "Reacciones químicas"		
+    tag = "reacciones-químicas"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
