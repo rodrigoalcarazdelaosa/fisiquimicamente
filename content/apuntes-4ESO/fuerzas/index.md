@@ -3,7 +3,7 @@ title: Fuerzas
 summary: "`PRÓXIMAMENTE` <br> Leyes de Newton y fuerzas de especial interés."
 tags:
 - 4º ESO
-- Fuerzas
+- fuerzas
 categories:
 - Física
 
