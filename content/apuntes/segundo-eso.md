@@ -54,6 +54,10 @@ subtitle = "2º ESO"
     tag = "mezclas"
 	
   [[content.filter_button]]
+    name = "Método científico"
+    tag = "método-científico"	
+	
+  [[content.filter_button]]
     name = "Movimiento"
     tag = "movimiento"
 	
