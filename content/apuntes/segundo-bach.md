@@ -23,7 +23,7 @@ subtitle = "2º Bach"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "2º Bach"	
+    tag = "2º Bach"
 	
   [[content.filter_button]]
     name = "Enlace químico"
