@@ -7,7 +7,6 @@ tags:
 - fuerzas
 categories:
 - Física
-- Mecánica
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
