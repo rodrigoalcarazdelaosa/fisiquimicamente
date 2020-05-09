@@ -53,7 +53,7 @@ subtitle = "Desde el blog"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "apuntes.jpg"  # Name of image in `static/img/`.
+  image = "ebau.jpg"  # Name of image in `static/img/`.
   image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
