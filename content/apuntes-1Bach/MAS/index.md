@@ -3,9 +3,9 @@ title: MAS
 summary: "`PRÓXIMAMENTE` <br> Movimiento armónico simple."
 tags:
 - 1º Bach
-- Movimiento
-- Fuerzas
-- Energía
+- movimiento
+- fuerzas
+- energía
 categories:
 - Física
 
