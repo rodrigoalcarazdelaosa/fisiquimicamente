@@ -49,7 +49,7 @@ height = "calc(100vh - 70px)"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Ir a EBAU"
-  cta_url = "apuntes/"
+  cta_url = "ebau/"
   cta_icon_pack = "fas"
   cta_icon = "book"  
 
