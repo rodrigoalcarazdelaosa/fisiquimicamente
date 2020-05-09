@@ -24,14 +24,6 @@ subtitle = "2º Bach"
   [[content.filter_button]]
     name = "Todos"
     tag = "2º Bach"	
-
-  [[content.filter_button]]
-    name = "Campo eléctrico"
-    tag = "Campo eléctrico"
-	
-  [[content.filter_button]]
-    name = "Campo magnético"
-    tag = "Campo magnético"
 	
   [[content.filter_button]]
     name = "Enlace químico"
@@ -42,8 +34,12 @@ subtitle = "2º Bach"
     tag = "Física del s XX"
 	
   [[content.filter_button]]
+    name = "Interacción electromagnética"
+    tag = "electromagnetismo"	
+	
+  [[content.filter_button]]
     name = "Interacción gravitatoria"
-    tag = "gravitación"				
+    tag = "gravitación"
 	
   [[content.filter_button]]
     name = "Ondas"
