@@ -38,12 +38,17 @@
   url = "apuntes/#segundo-bach"
   parent = "apuntes"
   weight = 5  
+  
+[[main]]
+  name = "EBAU"
+  url = "EBAU/"
+  weight = 2  
 
 [[main]]
   name = "Tutoriales"
   url = "tutoriales/"  
   identifier = "tutoriales"
-  weight = 2
+  weight = 3
   
 [[main]]
   name = "LaTeX"
@@ -61,7 +66,7 @@
   name = "Enlaces de interés"
   url = "enlaces/"  
   identifier = "enlaces-interes"
-  weight = 3
+  weight = 4
   
 [[main]]
   name = "Recursos online"
@@ -78,17 +83,17 @@
 [[main]]
   name = "Blog"
   url = "post/"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "Sobre mí"
   url = "acerca/"
-  weight = 5
+  weight = 6
 
 [[main]]
   name = "Contacto"
   url = "contacto/"
-  weight = 6  
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
