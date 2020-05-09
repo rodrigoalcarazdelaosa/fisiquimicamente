@@ -4,11 +4,10 @@ summary: "`PRÓXIMAMENTE` <br> Concepto de energía. Transformaciones energétic
 tags:
 - 2º ESO
 - 3º ESO
-- calor
-- temperatura
+- energía
 categories:
 - Física
-- Energía
+- Termodinámica
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
