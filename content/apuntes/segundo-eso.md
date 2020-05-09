@@ -31,7 +31,7 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Energía"
-    tag = "energía"	
+    tag = "energía"
 	
   [[content.filter_button]]
     name = "Electricidad-electrónica"
