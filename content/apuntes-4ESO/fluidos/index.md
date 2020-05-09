@@ -3,8 +3,8 @@ title: Fluidos
 summary: "`PRÓXIMAMENTE` <br> Concepto de presión y principios de la hidrostática."
 tags:
 - 4º ESO
-- Fuerzas
-- Fluidos
+- fuerzas
+- fluidos
 categories:
 - Física
 
