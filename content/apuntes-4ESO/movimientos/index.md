@@ -3,7 +3,7 @@ title: Movimientos
 summary: MRU, MRUV y MCU.
 tags:
 - 4º ESO
-- Movimiento
+- movimiento
 categories:
 - Física
 
