@@ -5,6 +5,7 @@ tags:
 - 2º ESO
 - 3º ESO
 - SI
+- método-científico
 categories:
 - Física
 - Química
