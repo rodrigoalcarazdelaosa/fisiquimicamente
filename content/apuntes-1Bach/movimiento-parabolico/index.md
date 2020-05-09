@@ -3,7 +3,7 @@ title: Movimiento parabólico
 summary: Estudio del tiro parabólico u oblicuo.
 tags:
 - 1º Bach
-- Movimiento
+- movimiento
 categories:
 - Física
 
