@@ -27,7 +27,7 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Enlace químico"
-    tag = "Enlace químico"	
+    tag = "enlace-químico"	
 	
   [[content.filter_button]]
     name = "Física del s. XX"
