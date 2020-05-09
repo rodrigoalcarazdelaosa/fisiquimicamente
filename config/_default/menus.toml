@@ -64,19 +64,19 @@
 
 [[main]]
   name = "Enlaces de interés"
-  url = "enlaces/"  
+  url = "enlaces-interes/"  
   identifier = "enlaces-interes"
   weight = 4
   
 [[main]]
   name = "Recursos online"
-  url = "enlaces/#recursos-online"
+  url = "enlaces-interes/#recursos-online"
   parent = "enlaces-interes"
   weight = 1
   
 [[main]]
   name = "Páginas amigas"
-  url = "enlaces/#paginas-amigas"
+  url = "enlaces-interes/#paginas-amigas"
   parent = "enlaces-interes"
   weight = 2
 
