@@ -35,7 +35,7 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Interacción electromagnética"
-    tag = "electromagnetismo"	
+    tag = "electromagnetismo"
 	
   [[content.filter_button]]
     name = "Interacción gravitatoria"
