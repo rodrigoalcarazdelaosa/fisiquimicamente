@@ -2,7 +2,7 @@
 title: Ptable
 summary: 'Ptable: La Tabla Periódica Interactiva.'
 tags:
-- Tabla Periódica
+- tabla-periódica
 categories: 
 - "Química"
 
