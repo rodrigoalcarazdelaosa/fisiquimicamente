@@ -3,7 +3,7 @@ title: Física del s. XX
 summary: "`PRÓXIMAMENTE` <br> Relatividad. Física Cuántica. Física Nuclear. Radiactividad."
 tags:
 - 2º Bach
-- "física-s-XX"
+- física-s-XX
 categories:
 - Física
 
