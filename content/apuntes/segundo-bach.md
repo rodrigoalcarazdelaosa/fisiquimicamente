@@ -43,7 +43,7 @@ subtitle = "2º Bach"
 	
   [[content.filter_button]]
     name = "Ondas"
-    tag = "Ondas"							
+    tag = "ondas"							
 	
   [[content.filter_button]]
     name = "Óptica geométrica"
