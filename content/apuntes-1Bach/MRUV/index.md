@@ -3,8 +3,8 @@ title: MRUV
 summary: "`PRÓXIMAMENTE` <br> Movimiento circular uniformemente variado y dinámica del movimiento circular."
 tags:
 - 1º Bach
-- Movimiento
-- Fuerzas
+- movimiento
+- fuerzas
 categories:
 - Física
 
