@@ -56,3 +56,13 @@ Una **magnitud** es toda propiedad que se puede medir. **Medir** consiste en **c
 
 ### SI
 El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentales**:
+
+| Unidad (símbolo) | Constante universal (símbolo)                                             |
+| ---------------- | ------------------------------------------------------------------------- |
+| Segundo (s)      | Frecuencia de transición del átomo de cesio 133 ($\Delta\nu_\mathrm{Cs}$) |
+| Metro (m)        | Velocidad de la luz en el vacío ($c$)                                     |
+| Kilogramo (kg)   | Constante de Planck ($h$)                                                 |
+| Amperio (A)      | Carga elemental ($e$)                                                     |
+| Kelvin (K)       | Constante de Boltzmann ($k$)                                              |
+| Mol (mol)        | Número de Avogadro ($N_\mathrm A$)                                        |
+| Candela (cd)     | Eficacia luminosa de la radiación de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ ($K_\mathrm{cd}$) |
