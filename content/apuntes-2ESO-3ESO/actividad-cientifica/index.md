@@ -88,6 +88,6 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 
 #### Ejemplos
 \begin{align*}
-	500 &\rightarrow 5\times 10^2 \\
+	500 &\rightarrow 5\times 10^2 \\\\
 	500 &\rightarrow 5\times 10^2
 \end{align*}
