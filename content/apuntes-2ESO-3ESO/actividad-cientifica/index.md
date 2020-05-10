@@ -62,4 +62,4 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 | Tiempo   | segundo | s |
 | Longitud | metro | m |
 | Masa | kilogramo | kg |
-| Intensidad de corriente | amperio | A |
+| Corriente eléctrica | amperio | A |
