@@ -71,3 +71,4 @@ La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
 
 | Prefijo | Símbolo | Factor | Prefijo | Símbolo | Factor |
 | ------- | :-----: | :----: | ------- | :-----: | :----: |
+| Tera | T | $10^{12}$ | pico | p | $10^{-12}$ |
