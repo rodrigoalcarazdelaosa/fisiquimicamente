@@ -63,3 +63,4 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 | Longitud | metro | m |
 | Masa | kilogramo | kg |
 | Corriente eléctrica | amperio | A |
+| Temperatura | kelvin | K |
