@@ -33,8 +33,8 @@ links:
 slides: 
 ---
 
-{{% alert example %}}
+<!-- {{% alert example %}}
 <span style="font-variant:small-caps;">**ejemplo**</span>
-{{% /alert %}}
+{{% /alert %}} -->
 
 Apuntes sobre ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen en formato texto y póster (tipo _chuleta_).
