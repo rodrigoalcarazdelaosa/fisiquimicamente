@@ -39,7 +39,8 @@ Observación
 Hipótesis
 : Posible explicación del fenómeno. **Características** que debe cumplir:
 	- Referirse siempre a situaciones reales o realizables.
+	- Utilizar un lenguaje claro.
+	- Variables a tratar precisas y bien definidas, además de ser observables y medibles.
 
-{{% alert note %}}
-Próximamente...
-{{% /alert %}}
+Experimentación
+: Comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.	
