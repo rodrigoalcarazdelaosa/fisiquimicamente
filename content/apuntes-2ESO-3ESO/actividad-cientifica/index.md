@@ -61,3 +61,4 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 | -------- | ------ | ------- | 
 | Tiempo   | segundo | s |
 | Longitud | metro | m |
+| Masa | kilogramos | kg |
