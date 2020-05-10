@@ -31,7 +31,9 @@ image:
 
 ## Método científico
 
-las etapas del método científico son las siguientes:
+Las **etapas** del **método científico** son las siguientes:
+
+- Observación: 
 
 {{% alert note %}}
 Próximamente...
