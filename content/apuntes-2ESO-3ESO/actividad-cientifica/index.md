@@ -51,4 +51,5 @@ Análisis
 Conclusión
 : Razonamos si la hipótesis es o no válida.
 
-## Magnitudes	
+## Magnitudes
+Una **magnitud** es toda propiedad que se puede medir. **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**.	
