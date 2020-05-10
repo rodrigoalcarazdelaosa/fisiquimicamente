@@ -49,14 +49,14 @@ border-color: $primary_complementary; }
 div.alert-example > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  color: #ff3860;
+  color: $example_fg;
   content: '\f0eb';
 }
 
 .alert-example {
-  color: #cd0930;
-  background-color: #fff5f7;
-  border-color: #ff3860;
+  color: $example_fg;
+  background-color: $example_bg;
+  border-color: $example_fg;
 }
 
 // Color del subtítulo de los proyectos
