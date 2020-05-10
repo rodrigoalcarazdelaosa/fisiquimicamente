@@ -65,3 +65,4 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 | Corriente eléctrica | amperio | A |
 | Temperatura | kelvin | K |
 | Cantidad de sustancia | mol | mol |
+| intensidad luminosa | candela | cd |
