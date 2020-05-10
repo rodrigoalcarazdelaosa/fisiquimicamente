@@ -52,4 +52,7 @@ Conclusión
 : Razonamos si la hipótesis es o no válida.
 
 ## Magnitudes
-Una **magnitud** es toda propiedad que se puede medir. **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**.	
+Una **magnitud** es toda propiedad que se puede medir. **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**.
+
+### SI
+El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentales**:
