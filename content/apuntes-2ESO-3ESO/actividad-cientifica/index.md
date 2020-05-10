@@ -60,3 +60,4 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | ------- | 
 | Tiempo   | segundo | s |
+| Longitud | metro | m |
