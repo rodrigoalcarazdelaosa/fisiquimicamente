@@ -81,7 +81,7 @@ La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
 ### Notación científica
 
 Consiste en escribir un número de la forma:
-\[
+$$
 a\times 10^b,
-\]
+$$
 donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativo).
