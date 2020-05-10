@@ -85,3 +85,19 @@ $$
 a\times 10^b,
 $$
 donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativo).
+
+#### Ejemplos
+\begin{align*}
+	\num{500} &\rightarrow \num{5e2} \\
+	\num{520} &\rightarrow \num{5.2e2} \\	
+	\num{600000} &\rightarrow \num{6e5} \\
+	\num{30000000} &\rightarrow \num{3e7} \\
+	\num{500 000 000 000 000} &\rightarrow \num{5e14} \\
+	\num{7 000 000 000 000 000 000 000 000} &\rightarrow \num{7e24} \\
+	\num{0.05} &\rightarrow \num{5e-2} \\
+	\num{0.052} &\rightarrow \num{5.2e-2} \\
+	\num{0.0004} &\rightarrow \num{4e-4} \\
+	\num{0.000 000 01} &\rightarrow \num{1e-8} \\
+	\num{0.000 000 000 000 000 6} &\rightarrow \num{6e-16} \\
+	\num{0.000 000 000 000 000 000 000 000 8} &\rightarrow \num{8e-25} \\
+\end{align*}
