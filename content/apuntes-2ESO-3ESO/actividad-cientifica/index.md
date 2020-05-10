@@ -68,3 +68,5 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 | Intensidad luminosa | candela | cd |
 
 La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
+
+| Prefijo | Símbolo | Factor | Prefijo | Símbolo | Factor |
