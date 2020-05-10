@@ -69,7 +69,5 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 
 La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
 
-| Múltiplos | Submúltiplos |
-| --------- | ------------ |
 | Prefijo | Símbolo | Factor | Prefijo | Símbolo | Factor |
 | ------- | :-----: | :----: | ------- | :-----: | :----: |
