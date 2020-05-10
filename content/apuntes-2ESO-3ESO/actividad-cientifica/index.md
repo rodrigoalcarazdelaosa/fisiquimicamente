@@ -29,7 +29,9 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-# Método científico
+## Método científico
+
+las etapas del método científico son las siguientes:
 
 {{% alert note %}}
 Próximamente...
