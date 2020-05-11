@@ -17,7 +17,7 @@ image:
   caption: Foto de [**Hans Reniers**](https://unsplash.com/@hansreniers) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-# links:
+links:
 # - icon_pack: fas
 # icon: download
 #  name: PDF Texto
