@@ -1,6 +1,6 @@
 ---
 title: La actividad científica
-summary: "Método científico. Medidas de magnitudes. SI. Notación científica. Laboratorio escolar"
+summary: "Método científico. Medidas de magnitudes. SI. Notación científica. Laboratorio escolar."
 tags:
 - 2º ESO
 - 3º ESO
