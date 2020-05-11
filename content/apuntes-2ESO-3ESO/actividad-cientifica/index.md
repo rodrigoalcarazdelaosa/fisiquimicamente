@@ -90,7 +90,7 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 \begin{align*}
 	500 &\rightarrow 5\times 10^2 \\\\
 	520 &\rightarrow 5.2\times 10^2 \\\\
-	600000 &\rightarrow 5.2\times 10^2 \\\\
+	600000 &\rightarrow 6\times 10^5 \\\\
 	30000000 &\rightarrow 5.2\times 10^2 \\\\
 	500 000 000 000 000 &\rightarrow 5.2\times 10^2 \\\\
 	7 000 000 000 000 000 000 000 000 &\rightarrow 5.2\times 10^2 \\\\				
