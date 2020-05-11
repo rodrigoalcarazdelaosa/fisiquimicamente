@@ -10,6 +10,12 @@
     {{ end }}
   </p>
   {{ end }}
+  
+  {{ with site.GetPage "licencia.md" }}
+  <p class="powered-by">
+    {{ printf "<a href=\"%s\">%s <br> %s </a>" .RelPermalink .Title .LinkTitle  | safeHTML }}<br>
+  </p>
+  {{ end }}
 
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
