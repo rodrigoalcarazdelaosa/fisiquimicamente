@@ -125,3 +125,5 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 - Lavarse las manos antes de salir del laboratorio.
 
 ### Pictogramas de peligro
+
+{{< gallery album="<pictogramas-peligro>" >}}
