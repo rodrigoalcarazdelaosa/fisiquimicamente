@@ -146,8 +146,6 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 	3\thinspace\cancel{\mathrm{dam^2}} & \cdot \frac{10^2\thinspace\cancel{\mathrm{m^2}}}{1\thinspace\cancel{\mathrm{dam^2}}} \cdot \frac{10^6\thinspace\mathrm{mm^2}}{1\thinspace\cancel{\mathrm{m^2}}} = 3\times 10^{8}\thinspace\mathrm{mm^2}
 \end{align*}
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vT7kL5c1O_iTjDRteZRcp_ng-IBAniD1fZ1PljfP4cNv4661NXMV_SGW2FwRddSKSz-CQblhhCT2din/pub?start=false&loop=false&delayms=3000" >}}
-
 ## Laboratorio escolar
 
 ### Instrumental
