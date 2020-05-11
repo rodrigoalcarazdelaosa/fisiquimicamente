@@ -37,7 +37,25 @@ gallery_item:
   caption: <span style="font-variant:small-caps;">inflamable</span>  
 - album: pictogramas-peligro
   image: flame-O.png
-  caption: <span style="font-variant:small-caps;">comburente</span>    
+  caption: <span style="font-variant:small-caps;">comburente</span>
+- album: pictogramas-peligro
+  image: bottle.png
+  caption: <span style="font-variant:small-caps;">gas a presión</span>
+- album: pictogramas-peligro
+  image: acid.png
+  caption: <span style="font-variant:small-caps;">corrosivo</span>
+- album: pictogramas-peligro
+  image: skull.png
+  caption: <span style="font-variant:small-caps;">toxicidad aguda</span>
+- album: pictogramas-peligro
+  image: exclam.png
+  caption: <span style="font-variant:small-caps;">peligro para la salud</span>
+- album: pictogramas-peligro
+  image: health.png
+  caption: <span style="font-variant:small-caps;">peligro grave para la salud</span>
+- album: pictogramas-peligro
+  image: aqpol.png
+  caption: <span style="font-variant:small-caps;">peligro para el medio ambiente</span>            
 ---
 
 {{% toc %}}
