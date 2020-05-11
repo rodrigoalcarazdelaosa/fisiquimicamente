@@ -286,3 +286,11 @@ table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
   color: $white;
   background-color: #555555; }
+  
+/*************************************************
+*  Gallery.
+**************************************************/
+.gallery a[data-fancybox] img {
+height: 200px;
+width: auto;
+padding: 4px; }
