@@ -13,7 +13,7 @@
   
   {{ with site.GetPage "licencia.md" }}
   <p class="powered-by">
-    {{ printf "<a href=\"%s\">%s <br> %s </a>" .RelPermalink .Title .LinkTitle  | safeHTML }}<br>
+    {{ printf "<a href=\"%s\">%s <br> %s </a>" .RelPermalink .Title .LinkTitle  | safeHTML }}
   </p>
   {{ end }}
 
