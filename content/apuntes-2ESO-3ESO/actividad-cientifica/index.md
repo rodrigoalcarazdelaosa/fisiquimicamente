@@ -156,7 +156,7 @@ $$
 ##### $24\thinspace\mathrm{g/cm^3} \longrightarrow \mathrm{\mu g/\mu L}$
 
 $$
-24\thinspace\frac{\mathrm g}{\mathrm{cm^3}}
+24\thinspace\frac{\cancel{\mathrm g}}{\cancel{\mathrm{cm^3}}}
 $$
 
 ## Laboratorio escolar
