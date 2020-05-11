@@ -143,7 +143,9 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 	13\thinspace\mathrm{cg} & \longrightarrow \mathrm{hg} \\\\
 	13\thinspace\cancel{\mathrm{cg}} & \cdot \frac{1\thinspace\cancel{\mathrm g}}{10^2\thinspace\cancel{\mathrm{cg}}} \cdot \frac{1\thinspace\mathrm{hg}}{10^2\thinspace\cancel{\mathrm{g}}} = 1.3\times 10^{-3}\thinspace\mathrm{hg} \\\\ \\\\
 	3\thinspace\mathrm{dam^2} & \longrightarrow \mathrm{mm^2} \\\\
-	3\thinspace\cancel{\mathrm{dam^2}} & \cdot \frac{10^2\thinspace\cancel{\mathrm{m^2}}}{1\thinspace\cancel{\mathrm{dam^2}}} \cdot \frac{10^6\thinspace\mathrm{mm^2}}{1\thinspace\cancel{\mathrm{m^2}}} = 3\times 10^{8}\thinspace\mathrm{mm^2}
+	3\thinspace\cancel{\mathrm{dam^2}} & \cdot \frac{10^2\thinspace\cancel{\mathrm{m^2}}}{1\thinspace\cancel{\mathrm{dam^2}}} \cdot \frac{10^6\thinspace\mathrm{mm^2}}{1\thinspace\cancel{\mathrm{m^2}}} = 3\times 10^{8}\thinspace\mathrm{mm^2} \\\\ \\\\
+	\SI{72}{km/h} & \longrightarrow \si{m/s} \\
+	\SI[per-mode=fraction]{72}{\cancel\km\per\cancel\hour} & \cdot \frac{\SI{1000}{\m}}{\SI{1}{\cancel\km}} \cdot \frac{\SI{1}{\cancel\hour}}{\SI{3600}{\s}} = \SI{20}{\m/\s}
 \end{align*}
 
 ## Laboratorio escolar
