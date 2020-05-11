@@ -98,6 +98,7 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 | Cantidad de sustancia | mol | mol |
 | Intensidad luminosa | candela | cd |
 | -------- | ------ | -------- |
+| h | h | h |
 
 La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
 
