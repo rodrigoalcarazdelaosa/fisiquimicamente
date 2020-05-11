@@ -93,5 +93,5 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	600000 &\rightarrow 5.2\times 10^2 \\\\
 	30000000 &\rightarrow 5.2\times 10^2 \\\\
 	500 000 000 000 000 &\rightarrow 5.2\times 10^2 \\\\
-	520 &\rightarrow 5.2\times 10^2 \\\\				
+	7 000 000 000 000 000 000 000 000 &\rightarrow 5.2\times 10^2 \\\\				
 \end{align*}
