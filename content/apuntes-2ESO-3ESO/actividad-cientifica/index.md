@@ -141,7 +141,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 \begin{align*}
 	13\thinspace\mathrm{cg} & \longrightarrow \mathrm{hg} \\\\
-	13\thinspace\mathrm{cg} & \longrightarrow \mathrm{hg}
+	13\thinspace\mathrm{cg} & \cdot 
 \end{align*}
 
 ## Laboratorio escolar
