@@ -161,6 +161,10 @@ $$
 
 ##### $5\thinspace\mathrm{L/s} \longrightarrow \mathrm{m^3/h}$
 
+$$
+5\thinspace\frac{\cancel{L}}{\cancel{s}}
+$$
+
 ## Laboratorio escolar
 
 ### Instrumental
