@@ -126,4 +126,4 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Pictogramas de peligro
 
-{{< gallery album="<pictogramas-peligro>" >}}
+{{< gallery album="pictogramas-peligro" >}}
