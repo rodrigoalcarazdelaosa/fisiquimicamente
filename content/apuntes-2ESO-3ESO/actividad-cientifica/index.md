@@ -114,6 +114,8 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Instrumental
 
+{{< figure src="instrumental.png" title="A caption" lightbox="true" >}}
+
 ### Normas básicas de seguridad
 
 ### Pictogramas de peligro
