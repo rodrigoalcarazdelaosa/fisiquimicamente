@@ -139,7 +139,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 #### Ejemplos
 
-##### $13\thinspace\mathrm{cg} & \longrightarrow \mathrm{hg}$
+##### $13\thinspace\mathrm{cg} \longrightarrow \mathrm{hg}$
 
 \begin{align*}
 	13\thinspace\mathrm{cg} & \longrightarrow \mathrm{hg} \\\\
