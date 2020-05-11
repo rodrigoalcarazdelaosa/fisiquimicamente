@@ -274,6 +274,8 @@ table > tbody > tr > td,
 table > tfoot > tr > td {
   border-top: 0px solid $black; }
 
+table > thead {
+    border-top: 2px solid $black; }
 table > thead > tr > th {
   border-bottom: 1px solid $black; }
 
