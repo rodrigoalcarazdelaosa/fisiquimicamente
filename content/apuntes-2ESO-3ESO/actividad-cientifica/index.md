@@ -165,11 +165,11 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 {{< youtube BRDApYgvDqQ >}}
 
-- Llevar bata, guantes y gafas de seguridad.
+- Llevar ropa adecuada (idealmente bata, guantes y gafas de seguridad).
 - Llevar el pelo recogido.
 - Prohibido comer, beber y fumar dentro del laboratorio.
-- No dejar mochilas, chaquetas ni objetos similares en lugares que puedan molestar.
-- Lavarse las manos antes de salir del laboratorio.
+- No probar ni oler nada sin antes *airearlo*.
+- No mezclar productos sin comprobar previamente sus etiquetas.
 
 ### Pictogramas de peligro
 
