@@ -161,7 +161,7 @@ abstract_length = 135
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = []
+plugins_js  = ["siunitx"]
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
