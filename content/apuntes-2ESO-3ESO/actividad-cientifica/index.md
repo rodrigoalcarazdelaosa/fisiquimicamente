@@ -145,7 +145,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 	3\thinspace\mathrm{dam^2} & \longrightarrow \mathrm{mm^2} \\\\
 	3\thinspace\cancel{\mathrm{dam^2}} & \cdot \frac{10^2\thinspace\cancel{\mathrm{m^2}}}{1\thinspace\cancel{\mathrm{dam^2}}} \cdot \frac{10^6\thinspace\mathrm{mm^2}}{1\thinspace\cancel{\mathrm{m^2}}} = 3\times 10^{8}\thinspace\mathrm{mm^2} \\\\ \\\\
 	72\thinspace\mathrm{km/h} & \longrightarrow \mathrm{m/s} \\\\
-	72\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}} & \cdot \frac{10^3\thinspace\mathrm{m}}{1\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm{h}}}{3600\thinspace\mathrm{s}}
+	72\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}} & \cdot \frac{10^3\thinspace\mathrm{m}}{1\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm{h}}}{3600\thinspace\mathrm{s}} = 20\thinspace\mathrm{m/s}
 \end{align*}
 
 ## Laboratorio escolar
