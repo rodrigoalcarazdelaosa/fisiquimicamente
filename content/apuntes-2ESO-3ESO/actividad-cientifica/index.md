@@ -26,7 +26,12 @@ links:
 - icon_pack: fas
   icon: download
   name: PDF Póster
-  url: actividad-cientifica-poster.pdf  
+  url: actividad-cientifica-poster.pdf
+  
+gallery_item:
+- album: pictogramas-peligro
+  image: explos.png
+  caption: explosivo 
 ---
 
 {{% toc %}}
