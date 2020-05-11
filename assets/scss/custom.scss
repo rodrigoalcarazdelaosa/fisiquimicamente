@@ -278,8 +278,8 @@ table > thead {
     border-top: 2px solid $black; }
 table > thead > tr > th {
   border-bottom: 1px solid $black; }
-table > tfoot {
-      border-bottom: 2px solid $black; }  
+table > tfoot > tr {
+  border-bottom: 2px solid $black; }  
 
 table > tbody + tbody {
   border-top: 2px solid $black; }
