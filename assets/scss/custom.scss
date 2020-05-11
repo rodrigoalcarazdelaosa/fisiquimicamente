@@ -267,7 +267,7 @@ color: #555555; }
  **************************************************/
 /* Based on Bootstrap's `table-responsive` style. */
 .table {
-	border-top: 2px solid $black !important;
+	border: 2px solid $black !important;
 }
 
 table > thead > tr > th,
