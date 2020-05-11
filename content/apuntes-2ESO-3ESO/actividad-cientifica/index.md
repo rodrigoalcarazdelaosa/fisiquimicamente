@@ -163,6 +163,8 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Normas básicas de seguridad
 
+{{< youtube BRDApYgvDqQ >}}
+
 - Llevar bata, guantes y gafas de seguridad.
 - Llevar el pelo recogido.
 - Prohibido comer, beber y fumar dentro del laboratorio.
