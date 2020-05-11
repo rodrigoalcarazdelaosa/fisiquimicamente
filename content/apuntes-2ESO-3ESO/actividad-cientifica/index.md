@@ -118,7 +118,7 @@ $$
 donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativo).
 
 {{% alert example %}}
-#### Ejemplos
+<span style="font-variant:small-caps;">**ejemplos**</span>
 \begin{align*}
 	500 &\rightarrow 5\times 10^2 \\\\
 	520 &\rightarrow 5.2\times 10^2 \\\\
