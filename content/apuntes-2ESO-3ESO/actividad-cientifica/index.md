@@ -118,4 +118,10 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Normas básicas de seguridad
 
+- Llevar bata, guantes y gafas de seguridad.
+- Llevar el pelo recogido.
+- Prohibido comer, beber y fumar dentro del laboratorio.
+- No dejar mochilas, chaquetas ni objetos similares en lugares que puedan molestar.
+- Lavarse las manos antes de salir del laboratorio.
+
 ### Pictogramas de peligro
