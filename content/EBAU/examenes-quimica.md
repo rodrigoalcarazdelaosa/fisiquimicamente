@@ -26,16 +26,24 @@ subtitle = "Química"
     tag = "*"
 	
   [[content.filter_button]]
+    name = "Ácido-base"
+    tag = "ácido-base"
+	
+  [[content.filter_button]]
     name = "Enlace químico"
-    tag = "enlace-químico"		
+    tag = "enlace-químico"
+	
+  [[content.filter_button]]
+    name = "Equilibrio químico"
+    tag = "equilibrio-químico"	
 	
   [[content.filter_button]]
     name = "Química orgánica"
     tag = "química-orgánica"	
 	
   [[content.filter_button]]
-    name = "Reacciones químicas"
-    tag = "reacciones-químicas"		
+    name = "Rédox"
+    tag = "rédox"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
