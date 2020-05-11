@@ -101,3 +101,7 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	0.000 000 000 000 000 6 &\rightarrow 6\times 10^{-16} \\\\
 	0.000 000 000 000 000 000 000 000 8 &\rightarrow 8\times 10^{-25}
 \end{align*}
+
+### Factores de conversión
+
+Se trata de multiplicar por fracciones utilizando la conversión entre unidades. En el caso de unidades de superficie (volumen), los factores de conversión van elevados al cuadrado (cubo).
