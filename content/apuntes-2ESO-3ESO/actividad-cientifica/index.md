@@ -118,6 +118,7 @@ $$
 donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativo).
 
 #### Ejemplos
+{{% alert example %}}
 \begin{align*}
 	500 &\rightarrow 5\times 10^2 \\\\
 	520 &\rightarrow 5.2\times 10^2 \\\\
@@ -132,6 +133,7 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	0.000 000 000 000 000 6 &\rightarrow 6\times 10^{-16} \\\\
 	0.000 000 000 000 000 000 000 000 8 &\rightarrow 8\times 10^{-25}
 \end{align*}
+{{% /alert %}}
 
 ### Factores de conversión
 
