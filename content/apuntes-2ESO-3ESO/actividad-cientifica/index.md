@@ -92,4 +92,4 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	500 &\rightarrow 5\times 10^2
 \end{align*}
 
-$\ce{C6H5-CHO}$
+$\ce{C6H5-CHO -> H2O}$
