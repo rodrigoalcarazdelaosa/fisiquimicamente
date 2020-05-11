@@ -95,9 +95,9 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	500 000 000 000 000 &\rightarrow 5\times 10^{14} \\\\
 	7 000 000 000 000 000 000 000 000 &\rightarrow 7\times 10^{24} \\\\
 	0.05 &\rightarrow 5\times 10^{-2} \\\\
-	0.052 &\rightarrow 5\times 10^{-2} \\\\
-	0.0004 &\rightarrow 5\times 10^{-2} \\\\
-	0.000 000 01 &\rightarrow 5\times 10^{-2} \\\\
+	0.052 &\rightarrow 5.2\times 10^{-2} \\\\
+	0.0004 &\rightarrow 4\times 10^{-4} \\\\
+	0.000 000 01 &\rightarrow 1\times 10^{-8} \\\\
 	0.000 000 000 000 000 6 &\rightarrow 5\times 10^{-2} \\\\
 	0.000 000 000 000 000 000 000 000 8 &\rightarrow 5\times 10^{-2} \\\\					
 \end{align*}
