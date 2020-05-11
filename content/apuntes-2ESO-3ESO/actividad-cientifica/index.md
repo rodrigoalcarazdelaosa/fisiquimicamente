@@ -162,7 +162,7 @@ $$
 ##### $5\thinspace\mathrm{L/s} \longrightarrow \mathrm{m^3/h}$
 
 $$
-5\thinspace\frac{\cancel{L}}{\cancel{s}}
+5\thinspace\frac{\cancel{L}}{\cancel{s}} \cdot \frac{1}{10^3}
 $$
 
 ## Laboratorio escolar
