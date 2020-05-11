@@ -117,9 +117,8 @@ a\times 10^b,
 $$
 donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativo).
 
-#### Ejemplos
 {{% alert example %}}
-##### hola
+#### Ejemplos
 \begin{align*}
 	500 &\rightarrow 5\times 10^2 \\\\
 	520 &\rightarrow 5.2\times 10^2 \\\\
