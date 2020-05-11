@@ -140,7 +140,7 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 Se trata de multiplicar por fracciones utilizando la conversión entre unidades. En el caso de unidades de superficie (volumen), los factores de conversión van elevados al cuadrado (cubo).
 
 {{% alert example %}}
-#### Ejemplos
+<span style="font-variant:small-caps;">**ejemplos**</span>
 ##### $13\thinspace\mathrm{cg} \longrightarrow \mathrm{hg}$
 $$
 13\thinspace\cancel{\mathrm{cg}} \cdot \frac{1\thinspace\cancel{\mathrm g}}{10^2\thinspace\cancel{\mathrm{cg}}} \cdot \frac{1\thinspace\mathrm{hg}}{10^2\thinspace\cancel{\mathrm{g}}} = 1.3\times 10^{-3}\thinspace\mathrm{hg}
