@@ -31,7 +31,7 @@ links:
 gallery_item:
 - album: pictogramas-peligro
   image: explos.png
-  caption: <span style="font-variant:small-caps;">**apuntes**</span> 
+  caption: <span style="font-variant:small-caps;">explosivo</span>
 ---
 
 {{% toc %}}
