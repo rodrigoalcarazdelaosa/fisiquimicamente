@@ -105,3 +105,5 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 ### Factores de conversión
 
 Se trata de multiplicar por fracciones utilizando la conversión entre unidades. En el caso de unidades de superficie (volumen), los factores de conversión van elevados al cuadrado (cubo).
+
+#### Ejemplos
