@@ -29,6 +29,8 @@ links:
   url: actividad-cientifica-poster.pdf  
 ---
 
+{{% toc %}}
+
 ## Método científico
 
 Las **etapas** del **método científico** son las siguientes:
