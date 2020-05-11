@@ -153,6 +153,8 @@ $$
 72\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}} \cdot \frac{10^3\thinspace\mathrm{m}}{1\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm{h}}}{3600\thinspace\mathrm{s}} = 20\thinspace\mathrm{m/s}
 $$
 
+##### $24\thinspace\mathrm{g/cm^3} \longrightarrow \mathrm{\mu g/\mu L}$
+
 ## Laboratorio escolar
 
 ### Instrumental
