@@ -70,7 +70,7 @@ $$
 donde $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ es la velocidad de la luz en el vacío.
 
 {{% alert note %}}
-El **metro** es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299 792 458 de segundo.
+El **metro** es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299792458 de segundo.
 {{% /alert %}}
 
 #### Kilogramo (kg)
