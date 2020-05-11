@@ -272,10 +272,10 @@ table > tfoot > tr > th,
 table > thead > tr > td,
 table > tbody > tr > td,
 table > tfoot > tr > td {
-  border-top: 2px solid $black; }
+  border-top: 0px solid $black; }
 
 table > thead > tr > th {
-  border-bottom: 0px solid $black; }
+  border-bottom: 2px solid $black; }
 
 table > tbody + tbody {
   border-top: 2px solid $black; }
