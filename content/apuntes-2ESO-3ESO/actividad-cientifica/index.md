@@ -140,9 +140,9 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 #### Ejemplos
 
 \begin{align*}
-	13\,\mathrm{cg} & \longrightarrow \mathrm{hg} \\\\
-	13\,\mathrm{cg} & \cdot \frac{1\,\mathrm{g}}{10^2\,\mathrm{cg}}} \\\\
-	13\,\mathrm{cg} & \cdot \frac{1\,\mathrm{g}}{10^2\,\mathrm{cg}}}
+	13\thinspace\mathrm{cg} & \longrightarrow \mathrm{hg} \\\\
+	13\thinspace\mathrm{cg} & \cdot \frac{1\thinspace\mathrm{g}}{10^2\thinspace\mathrm{cg}}} \\\\
+	13\thinspace\mathrm{cg} & \cdot \frac{1\thinspace\mathrm{g}}{10^2\thinspace\mathrm{cg}}}
 \end{align*}
 
 ## Laboratorio escolar
