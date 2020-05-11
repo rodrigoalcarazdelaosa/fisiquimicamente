@@ -91,7 +91,7 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	500 &\rightarrow 5\times 10^2 \\\\
 	520 &\rightarrow 5.2\times 10^2 \\\\
 	600000 &\rightarrow 6\times 10^5 \\\\
-	30000000 &\rightarrow 5.2\times 10^2 \\\\
-	500 000 000 000 000 &\rightarrow 5.2\times 10^2 \\\\
-	7 000 000 000 000 000 000 000 000 &\rightarrow 5.2\times 10^2 \\\\				
+	30000000 &\rightarrow 3\times 10^7 \\\\
+	500 000 000 000 000 &\rightarrow 5\times 10^14 \\\\
+	7 000 000 000 000 000 000 000 000 &\rightarrow 7\times 10^24 \\\\
 \end{align*}
