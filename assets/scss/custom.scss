@@ -260,7 +260,38 @@ color: #555555; }
 /* Documentation: article footer. */
 .docs .body-footer {
 border-top: 1px solid #555555;
-color: #555555; }  
+color: #555555; }
+
+/*************************************************
+ *  Tables
+ **************************************************/
+table > thead > tr > th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #ddd; }
+
+table > caption + thead > tr:first-child > th,
+table > colgroup + thead > tr:first-child > th,
+table > thead:first-child > tr:first-child > th,
+table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > td,
+table > thead:first-child > tr:first-child > td {
+  border-top: 0; }
+
+table > tbody + tbody {
+  border-top: 2px solid #ddd; }
+
+table table {
+  background-color: #fff; }
+
+/* Table Striped */
+table > tbody > tr:nth-child(odd) > td,
+table > tbody > tr:nth-child(odd) > th {
+  background-color: #f9f9f9; }
+
+/* Table Hover */
+table > tbody > tr:hover > td,
+table > tbody > tr:hover > th {
+  background-color: #e5e5e5; }  
 
 /*************************************************
  *  Tables
@@ -275,6 +306,7 @@ table > tfoot > tr > td {
   border-top: 0px solid $black; }
 
 table > thead > tr > th {
+  border-top: 2px solid $black;
   border-bottom: 2px solid $black; }
 
 table > tbody + tbody {
