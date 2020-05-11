@@ -151,7 +151,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 24\thinspace\mathrm{g/cm^3} &\longrightarrow \mathrm{\mu g/\mu L} \\\\
 24\thinspace\frac{\cancel{\mathrm g}}{\cancel{\mathrm{cm^3}}} &\cdot \frac{10^6\thinspace\mathrm{\mu g}}{1\thinspace\cancel{\mathrm{g}}} \cdot \frac{10^3\thinspace\cancel{\mathrm{cm^3}}}{1\thinspace\cancel{\mathrm{dm^3}}} \cdot \frac{1\thinspace\cancel{\mathrm{dm^3}}}{1\thinspace\cancel{\mathrm{L}}} \cdot \frac{1\thinspace\cancel{\mathrm{L}}}{10^6\thinspace\mathrm{\mu L}} = 2.4 \times 10^4\thinspace\mathrm{\mu g/\mu L} \\\\ \\\\
 5\thinspace\mathrm{L/s} &\longrightarrow \mathrm{m^3/h} \\\\
-5\thinspace\frac{\cancel{L}}{\cancel{s}} &\cdot \frac{1\thinspace\mathrm m^3}{10^3\thinspace\cancel{\mathrm L}} \cdot \frac{3600\thinspace\cancel{\mathrm s}}{1\thinspace\mathrm h} = 18\thinspace\mathrm{m^3/h}
+5\thinspace\frac{\cancel{\mathrm L}}{\cancel{\mathrm s}} &\cdot \frac{1\thinspace\mathrm m^3}{10^3\thinspace\cancel{\mathrm L}} \cdot \frac{3600\thinspace\cancel{\mathrm s}}{1\thinspace\mathrm h} = 18\thinspace\mathrm{m^3/h}
 \end{align*}
 {{% /alert %}}
 
