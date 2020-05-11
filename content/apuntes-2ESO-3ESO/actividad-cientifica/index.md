@@ -98,6 +98,6 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	0.052 &\rightarrow 5.2\times 10^{-2} \\\\
 	0.0004 &\rightarrow 4\times 10^{-4} \\\\
 	0.000 000 01 &\rightarrow 1\times 10^{-8} \\\\
-	0.000 000 000 000 000 6 &\rightarrow 5\times 10^{-2} \\\\
-	0.000 000 000 000 000 000 000 000 8 &\rightarrow 5\times 10^{-2} \\\\					
+	0.000 000 000 000 000 6 &\rightarrow 6\times 10^{-16} \\\\
+	0.000 000 000 000 000 000 000 000 8 &\rightarrow 8\times 10^{-25}
 \end{align*}
