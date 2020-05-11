@@ -156,7 +156,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 ### Pictogramas de peligro
 
 {{% alert note %}}
-Te recomiendo echar un vistazo a la [estupenda infografía](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la ECHA.
+Te recomiendo echar un vistazo a esta [estupenda infografía](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [ECHA](https://echa.europa.eu/es/home), donde puedes aprender más sobre **qué significa** cada pictograma, **qué hacer** en caso de tener que manipular productos químicos con una determinada etiqueta, y **dónde se utiliza** cada pictograma.
 {{% /alert %}}
 
 {{< gallery album="pictogramas-peligro" >}}
