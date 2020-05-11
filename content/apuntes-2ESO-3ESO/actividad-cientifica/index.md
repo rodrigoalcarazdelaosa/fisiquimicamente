@@ -141,7 +141,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 \begin{align*}
 	13\,\mathrm{cg} & \longrightarrow \mathrm{hg} \\\\
-	13\,\mathrm{cg} & \cdot \frac{1\,\mathrm{g}}{10^2\,\mathrm{cg}}} \\\\ \\\\
+	13\,\mathrm{cg} & \cdot \frac{1\,\mathrm{g}}{10^2\,\mathrm{cg}}} \\\\
 	13\,\mathrm{cg} & \cdot \frac{1\,\mathrm{g}}{10^2\,\mathrm{cg}}}
 \end{align*}
 
