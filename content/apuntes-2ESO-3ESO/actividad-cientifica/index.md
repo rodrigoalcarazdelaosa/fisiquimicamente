@@ -23,10 +23,10 @@ image:
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
   
-# - icon_pack: fas
-#  icon: download
-#  name: PDF Póster
-#  url: movimientos_poster.pdf  
+- icon_pack: fas
+  icon: download
+  name: PDF Póster
+  url: actividad-cientifica-poster.pdf  
 ---
 
 ## Método científico
