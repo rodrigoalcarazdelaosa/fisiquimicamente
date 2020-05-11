@@ -8,9 +8,9 @@ window.MathJax = {
     inlineMath: [['$', '$'], ['\\(', '\\)']],
     displayMath: [['$$', '$$'], ['\\[', '\\]']],
     processEscapes: false,
-    packages: {'[+]': ['noerrors','siunitx']}
+    packages: {'[+]': ['noerrors']}
   },
   loader: {
-    load: ['[tex]/noerrors','[siunitx]/siunitx.js']
+    load: ['[tex]/noerrors']
   }
 };
