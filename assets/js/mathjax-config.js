@@ -11,6 +11,6 @@ window.MathJax = {
     packages: {'[+]': ['noerrors','siunitx']}
   },
   loader: {
-    load: ['[tex]/noerrors']
+    load: ['[tex]/noerrors','[siunitx]/siunitx']
   }
 };
