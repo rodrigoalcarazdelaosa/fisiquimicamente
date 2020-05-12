@@ -1,5 +1,6 @@
 ---
 title: La actividad científica
+subtitle: "Método científico. Medidas de magnitudes. Laboratorio escolar."
 summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
 tags:
 - 2º ESO
