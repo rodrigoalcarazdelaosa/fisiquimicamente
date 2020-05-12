@@ -4,9 +4,7 @@ summary: "`PRÓXIMAMENTE` <br> Propiedades y estados de agregación de la materi
 tags:
 - 2º ESO
 - 3º ESO
-- densidad
-- estados-agregación
-- mezclas
+- materia
 categories:
 - Física
 - Química
