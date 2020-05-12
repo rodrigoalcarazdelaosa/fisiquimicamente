@@ -1,6 +1,6 @@
 ---
 title: Gravitación
-subtitle: Fuerzas centrales. Ley de Gravitación Universal. Leyes de Kepler
+subtitle: Fuerzas centrales, ley de Gravitación Universal y leyes de Kepler
 summary: "`PRÓXIMAMENTE` <br> Fuerzas centrales. Ley de Gravitación Universal. Leyes de Kepler."
 tags:
 - 1º Bach
