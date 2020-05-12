@@ -1,6 +1,8 @@
 ---
 title: Energía y trabajo
 summary: "`PRÓXIMAMENTE` <br> Trabajo. Potencia. Energía. Teorema de las fuerzas vivas. Sistemas conservativos."
+author:
+- Rodrigo Alcaraz de la Osa
 tags:
 - 1º Bach
 - energía
