@@ -59,6 +59,10 @@ div.alert-example > div:first-child::before {
   border-color: $example_fg;
 }
 
+// Color del subtítulo de las páginas
+.page-subtitle {
+  color: $primary_complementary; }
+
 // Color del subtítulo de los proyectos
 .section-heading p {
   color: $primary_complementary;
