@@ -1,5 +1,6 @@
 ---
 title: Movimiento parabólico
+subtitle: Estudio del tiro parabólico u oblicuo
 summary: Estudio del tiro parabólico u oblicuo.
 tags:
 - 1º Bach
