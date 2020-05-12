@@ -27,11 +27,7 @@ subtitle = "3º ESO"
 	
   [[content.filter_button]]
     name = "Actividad científica"
-    tag = "actividad-científica"		
-	
-  [[content.filter_button]]
-    name = "Densidad"
-    tag = "densidad"
+    tag = "actividad-científica"			
 	
   [[content.filter_button]]
     name = "Energía"
@@ -39,11 +35,7 @@ subtitle = "3º ESO"
 	
   [[content.filter_button]]
     name = "Electricidad-electrónica"
-    tag = "electricidad-electrónica"	
-	
-  [[content.filter_button]]
-    name = "Estados de agregación"
-    tag = "estados-agregación"
+    tag = "electricidad-electrónica"		
 	
   [[content.filter_button]]
     name = "Estructura atómica"
@@ -54,8 +46,8 @@ subtitle = "3º ESO"
     tag = "gases"			
 	
   [[content.filter_button]]
-    name = "Mezclas"
-    tag = "mezclas"	
+    name = "Materia"
+    tag = "materia"		
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
