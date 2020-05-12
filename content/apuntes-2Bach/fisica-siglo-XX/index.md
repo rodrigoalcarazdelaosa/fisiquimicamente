@@ -1,5 +1,6 @@
 ---
 title: Física del s. XX
+subtitle: Relatividad. Física Cuántica. Física Nuclear. Radiactividad
 summary: "`PRÓXIMAMENTE` <br> Relatividad. Física Cuántica. Física Nuclear. Radiactividad."
 tags:
 - 2º Bach
