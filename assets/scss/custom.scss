@@ -215,7 +215,7 @@ color: $primary_complementary; }
   .form-control::placeholder {
     color: #555555; }
   .form-control:disabled, .form-control[readonly] {
-    background-color: #e9ecef;
+    background-color: $red;
     opacity: 1; }
 
 select.form-control:focus::-ms-value {
