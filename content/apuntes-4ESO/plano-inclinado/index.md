@@ -1,5 +1,6 @@
 ---
 title: Plano inclinado
+subtitle: Fuerzas en un plano inclinado
 summary: Fuerzas en un plano inclinado.
 tags: 
 - 4º ESO
