@@ -26,6 +26,10 @@ subtitle = "2º ESO"
     tag = "2º ESO"	
 	
   [[content.filter_button]]
+    name = "Actividad científica"
+    tag = "actividad-científica"
+	
+  [[content.filter_button]]
     name = "Densidad"
     tag = "densidad"
 	
@@ -47,11 +51,7 @@ subtitle = "2º ESO"
 	
   [[content.filter_button]]
     name = "Fuerzas"
-    tag = "fuerzas"
-	
-  [[content.filter_button]]
-    name = "Método científico"
-    tag = "método-científico"	
+    tag = "fuerzas"	
 	
   [[content.filter_button]]
     name = "Mezclas"
@@ -64,10 +64,6 @@ subtitle = "2º ESO"
   [[content.filter_button]]
     name = "Reacciones químicas"
     tag = "reacciones-químicas"	
-
-  [[content.filter_button]]
-    name = "SI"
-    tag = "SI"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
