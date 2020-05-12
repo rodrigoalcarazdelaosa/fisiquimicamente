@@ -1,6 +1,6 @@
 ---
 title: Reacciones químicas
-subtitle: Nivel básico
+subtitle: Interpretación de reacciones químicas e iniciación a la estequiometría
 summary: "`PRÓXIMAMENTE` <br> Interpretación de reacciones químicas. Iniciación a la estequiometría. Ley de conservación de la masa."
 tags:
 - 2º ESO
