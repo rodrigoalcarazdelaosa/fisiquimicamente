@@ -1,5 +1,6 @@
 ---
 title: Estructura atómica
+subtitle: Modelos atómicos, átomos y moléculas
 summary: "`PRÓXIMAMENTE` <br> Modelos atómicos, átomos y moléculas."
 tags:
 - 2º ESO
