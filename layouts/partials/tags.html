@@ -7,10 +7,12 @@
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
   {{ end }}
+  {{ if .Param "tags" }}
   <span style="color: #B0332A;">
 	  <i class="fas fa-tags mr-1"></i>
   </span>
   {{ range $index, $value := (.GetTerms "tags") }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  {{ end }}
   {{ end }}
 </div>
