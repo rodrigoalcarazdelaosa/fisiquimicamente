@@ -1,6 +1,5 @@
 {{ $taxonomy := "categories" }}
 {{ if .Param $taxonomy }}
-<span class="middot-divider"></span>
 <span class="article-categories">
 <i class="fas fa-folder mr-1"></i>
 {{ range $index, $value := (.GetTerms $taxonomy) }}
