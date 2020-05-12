@@ -1,5 +1,6 @@
 ---
 title: Campo magnético
+subtitle: Campo magnético, flujo magnético e inducción electromagnética
 summary: "`PRÓXIMAMENTE` <br> Campo magnético. Flujo magnético. Inducción electromagnética."
 tags:
 - 2º Bach
