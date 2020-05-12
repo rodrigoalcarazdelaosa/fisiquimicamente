@@ -23,7 +23,11 @@ subtitle = "3º ESO"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "3º ESO"		
+    tag = "3º ESO"	
+	
+  [[content.filter_button]]
+    name = "Actividad científica"
+    tag = "actividad-científica"		
 	
   [[content.filter_button]]
     name = "Densidad"
@@ -47,11 +51,7 @@ subtitle = "3º ESO"
 	
   [[content.filter_button]]
     name = "Gases"
-    tag = "gases"		
-	
-  [[content.filter_button]]
-    name = "Método científico"
-    tag = "método-científico"	
+    tag = "gases"			
 	
   [[content.filter_button]]
     name = "Mezclas"
@@ -60,10 +60,6 @@ subtitle = "3º ESO"
   [[content.filter_button]]
     name = "Reacciones químicas"
     tag = "reacciones-químicas"	
-
-  [[content.filter_button]]
-    name = "SI"
-    tag = "SI"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
