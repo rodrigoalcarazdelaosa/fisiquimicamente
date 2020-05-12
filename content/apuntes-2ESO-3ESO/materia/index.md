@@ -30,7 +30,7 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-Apuntes sobre propiedades y estados de agregación, y mezclas, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre propiedades y estados de agregación de la materia, y mezclas, en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Próximamente...
