@@ -1,5 +1,6 @@
 ---
 title: MAS
+subtitle: Movimiento armónico simple
 summary: "`PRÓXIMAMENTE` <br> Movimiento armónico simple."
 tags:
 - 1º Bach
