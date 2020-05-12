@@ -1,6 +1,6 @@
 ---
 title: Energía y trabajo
-subtitle: Trabajo. Potencia. Energía. Teorema de las fuerzas vivas. Sistemas conservativos
+subtitle: Trabajo, potencia y energía
 summary: "`PRÓXIMAMENTE` <br> Trabajo. Potencia. Energía. Teorema de las fuerzas vivas. Sistemas conservativos."
 tags:
 - 1º Bach
