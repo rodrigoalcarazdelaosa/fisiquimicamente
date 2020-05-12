@@ -1,6 +1,7 @@
 {{ $taxonomy := "tags" }}
 {{ if .Param $taxonomy }}
 <div class="article-tags">
+	<i class="fas fa-folder mr-1"></i>
   {{ range $index, $value := (.GetTerms "categories") }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
