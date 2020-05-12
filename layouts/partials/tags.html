@@ -1,13 +1,3 @@
-{{ $taxonomy := "categories" }}
-{{ if .Param $taxonomy }}
-<span class="article-categories">
-<i class="fas fa-folder mr-1"></i>
-{{ range $index, $value := (.GetTerms $taxonomy) }}
-  <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-{{ end }}
-</span>
-{{ end }}
-
 {{ $taxonomy := "tags" }}
 {{ if .Param $taxonomy }}
 <span class="middot-divider"></span>
