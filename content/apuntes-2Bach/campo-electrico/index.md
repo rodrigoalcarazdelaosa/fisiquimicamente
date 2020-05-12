@@ -1,6 +1,6 @@
 ---
 title: Campo eléctrico
-subtitle: Ley de Coulomb, energía potencial, potencial eléctrico y flujo eléctrico
+subtitle: Ley de Coulomb, energía potencial, potencial y flujo eléctrico
 summary: "`PRÓXIMAMENTE` <br> Ley de Coulomb. Energía potencial y potencial eléctrico. Flujo eléctrico."
 tags:
 - 2º Bach
