@@ -27,7 +27,9 @@
     {{ end }}
     <div class="card-text">
       <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
+      {{ if $item.Params.subtitle }}
       <h5>{{ $item.Params.subtitle | markdownify | emojify }}</h5>
+      {{ end }}	  
       {{ with $summary }}
       <div class="article-style">
         <p>{{ . }}</p>
