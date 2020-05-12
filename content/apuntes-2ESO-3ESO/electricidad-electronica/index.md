@@ -1,6 +1,6 @@
 ---
 title: Electricidad y electrónica
-subtitle: Electricidad y circuitos eléctricos. Ley de Ohm. Dispositivos electrónicos
+subtitle: Circuitos eléctricos, ley de Ohm y dispositivos electrónicos
 summary: "`PRÓXIMAMENTE` <br> Electricidad y circuitos eléctricos. Ley de Ohm. Dispositivos electrónicos."
 tags:
 - 2º ESO
