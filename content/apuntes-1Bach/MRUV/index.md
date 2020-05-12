@@ -1,6 +1,6 @@
 ---
 title: MRUV
-subtitle: Movimiento circular uniformemente variado y dinámica del movimiento circular
+subtitle: Movimiento circular uniformemente variado
 summary: "`PRÓXIMAMENTE` <br> Movimiento circular uniformemente variado y dinámica del movimiento circular."
 tags:
 - 1º Bach
