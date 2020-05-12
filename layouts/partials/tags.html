@@ -5,7 +5,7 @@
 <i class="fas fa-folder mr-1"></i>
 {{- range $index, $value := (.GetTerms $taxonomy) -}}
   {{- if gt $index 0 }}, {{ end -}}
-  <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
 {{- end -}}
 </span>
 {{ end }}
