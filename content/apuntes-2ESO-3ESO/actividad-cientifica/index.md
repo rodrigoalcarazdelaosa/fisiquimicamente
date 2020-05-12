@@ -4,8 +4,7 @@ summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
 tags:
 - 2º ESO
 - 3º ESO
-- SI
-- método-científico
+- actividad-científica
 categories:
 - Física
 - Química
