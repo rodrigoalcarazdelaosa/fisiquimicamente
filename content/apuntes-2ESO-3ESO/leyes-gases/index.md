@@ -1,5 +1,6 @@
 ---
 title: Leyes de los gases
+subtitle: Modelo cinético-molecular. Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac
 summary: "`PRÓXIMAMENTE` <br> Modelo cinético-molecular. Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac."
 tags:
 - 3º ESO
