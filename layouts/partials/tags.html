@@ -1,5 +1,7 @@
 <div class="article-tags">
-  <i class="fas fa-folder mr-1"></i>
+  <span style="color: #B0332A;">  
+	  <i class="fas fa-folder mr-1"></i>
+  </span>  
   {{ range $index, $value := (.GetTerms "categories") }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
