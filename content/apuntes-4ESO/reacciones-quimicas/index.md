@@ -19,12 +19,12 @@ links:
 - icon_pack: fas
   icon: download
   name: PDF Texto
-  url: estequiometria-texto.pdf
+  url: reacciones-quimicas-texto.pdf
   
 - icon_pack: fas
   icon: download
   name: PDF Póster
-  url: estequiometria-poster.pdf  
+  url: reacciones-quimicas-poster.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
