@@ -1,5 +1,6 @@
 ---
 title: Interacción gravitatoria
+subtitle: Leyes de Kepler, ley de Gravitación Universaly campo gravitatorio
 summary: "`PRÓXIMAMENTE` <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
 tags:
 - 2º Bach
