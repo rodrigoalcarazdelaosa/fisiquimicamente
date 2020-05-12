@@ -19,6 +19,7 @@
       <h2><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a></h2>
       {{ if .Params.subtitle }}
       <h3>{{ .Params.subtitle | markdownify | emojify }}</h3>
+      {{ end }}	  
       <div class="article-style">
         {{ if .Params.summary }}
           {{ .Params.summary | plainify | emojify }}
