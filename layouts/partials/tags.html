@@ -3,7 +3,9 @@
   {{ range $index, $value := (.GetTerms "categories") }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
-  <i class="fas fa-tags mr-1"></i>
+  <span style="color: Tomato;">
+	  <i class="fas fa-tags mr-1"></i>
+  </span>
   {{ range $index, $value := (.GetTerms "tags") }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
