@@ -1,5 +1,6 @@
 ---
 title: La materia
+subtitle: Propiedades y estados de agregación de la materia. Mezclas
 summary: "`PRÓXIMAMENTE` <br> Propiedades y estados de agregación de la materia. Mezclas."
 tags:
 - 2º ESO
