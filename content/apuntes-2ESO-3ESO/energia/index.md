@@ -1,6 +1,6 @@
 ---
 title: Energía
-subtitle: Transformaciones energéticas. Calor y temperatura
+subtitle: Transformaciones energéticas, calor y temperatura
 summary: "`PRÓXIMAMENTE` <br> Concepto de energía. Transformaciones energéticas. Calor y temperatura."
 tags:
 - 2º ESO
