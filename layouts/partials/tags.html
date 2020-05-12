@@ -1,9 +1,9 @@
 {{ $taxonomy := "categories" }}
-{{ if $page.Param $taxonomy }}
+{{ if .Param $taxonomy }}
 <span class="middot-divider"></span>
 <span class="article-categories">
 <i class="fas fa-folder mr-1"></i>
-{{- range $index, $value := ($page.GetTerms $taxonomy) -}}
+{{- range $index, $value := (.GetTerms $taxonomy) -}}
   {{- if gt $index 0 }}, {{ end -}}
   <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
 {{- end -}}
