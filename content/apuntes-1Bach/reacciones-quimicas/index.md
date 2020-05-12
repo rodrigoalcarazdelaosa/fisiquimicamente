@@ -1,5 +1,6 @@
 ---
 title: Reacciones químicas
+subtitle: Nivel avanzado
 summary: "`PRÓXIMAMENTE` <br> Estequiometría, transformaciones energéticas y espontaneidad."
 tags:
 - 1º Bach
