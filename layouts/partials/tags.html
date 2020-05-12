@@ -5,6 +5,7 @@
   {{ range $index, $value := (.GetTerms "categories") }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
+  <i class="fas fa-tags mr-1"></i>
   {{ range $index, $value := (.GetTerms $taxonomy) }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
