@@ -1,5 +1,6 @@
 ---
 title: Rédox
+subtitle: Equilibrio rédox. Ajuste rédox. Pilas galvánicas. Electrolisis
 summary: "`PRÓXIMAMENTE` <br> Equilibrio rédox. Ajuste rédox. Pilas galvánicas. Electrolisis."
 tags:
 - 2º Bach
