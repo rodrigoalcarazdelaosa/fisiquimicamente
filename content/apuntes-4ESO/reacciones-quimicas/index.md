@@ -198,10 +198,10 @@ $$
 pV = nRT
 $$
 
-Cuidado porque la temperatura $T$ la tenemos que pasar a \si{K}:
+Cuidado porque la temperatura $T$ la tenemos que pasar a K:
 \begin{align*}
-T(\si{\K}) &= T(\si{\degreeCelsius}) + \num{273} \\
-&= \SI{25}{\degreeCelsius} + 273 = \SI{298}{\K}
+T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\
+&= 25\thinspace ^\circ\mathrm C + 273 = \SI{298}{\K}
 \end{align*}
 
 Despejamos el volumen $V$:
