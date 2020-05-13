@@ -60,6 +60,28 @@ Los **coeficientes estequiométricos** indican el número de átomos/moléculas/
 $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + H2O}
 $$
+
+En el ejemplo se comienza por el \ce{Mn}: vemos que a la izquierda hay 1 átomo de \ce{Mn} y a la derecha hay también 1 átomo, está **ajustado**.
+
+Después miramos el \ce{O}: vemos que a la izquierda hay dos átomos de \ce{O} y a la derecha solo hay 1 por tanto debemos poner un 2 en la molécula de agua:
+
+$$
+\ce{MnO2 + HCl -> MnCl2 + Cl2 + 2H2O}
+$$
+
+Seguimos con el \ch{H}: a la izquierda hay 1 solo átomo mientras que a la derecha hay $2\times 2=4$ átomos; por lo tanto debemos colocar un 4 en el \ch{HCl}:
+
+\[
+\ch{MnO2 + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 4}}" "\endgroup" HCl -> MnCl2 + Cl2 + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 2}}" "\endgroup" H2O}
+\]
+
+Finalmente el \ch{Cl}: como hemos puesto 4 moléculas de \ch{HCl} hay 4 átomos de \ch{Cl} a la izquierda, a la derecha hay 2 átomos de la molécula de cloruro de manganeso (II) y 2 átomos más de la molécula de cloro, 4 en total, con lo que está \textsc{ajustado} y no tenemos que poner nada más.
+
+La \textsc{reacción ajustada} queda así:
+
+\[
+\ch{MnO2 + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 4}}" "\endgroup" HCl -> MnCl2 + Cl2 + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 2}}" "\endgroup" H2O}
+\]	
 {{% /alert %}}
 
 ## Cálculos masa-masa
