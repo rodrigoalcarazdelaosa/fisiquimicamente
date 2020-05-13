@@ -60,6 +60,7 @@ Los **coeficientes estequiométricos** indican el número de átomos/moléculas/
 $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + H2O}
 $$
+{{% /alert %}}
 
 En el ejemplo se comienza por el $\ce{Mn}$: vemos que a la izquierda hay 1 átomo de $\ce{Mn}$ y a la derecha hay también 1 átomo, está **ajustado**.
 
@@ -82,7 +83,6 @@ La **reacción ajustada** queda así:
 $$
 \ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
 $$
-{{% /alert %}}
 
 ## Cálculos masa-masa
 
