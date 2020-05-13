@@ -46,7 +46,7 @@ La **ley de conservación de la masa** implica dos **principios**:
 En una **ecuación química** general:		
 
 \[
-\ch{"\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $a$}}" "\endgroup" A + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $b$}}" "\endgroup" B -> "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $c$}}" "\endgroup" C + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $d$}}" "\endgroup" D}
+\ce{aA + bB -> cC + dD}
 \]
 
 \begin{itemize}
