@@ -38,6 +38,11 @@ slides:
 
 ## Ajuste de ecuaciones químicas
 
+La **ley de conservación de la masa** implica dos **principios**:
+
+1. El número total de átomos antes y después de una reacción no cambia.
+2. El número de átomos de cada tipo es igual antes y después.
+
 ## Cálculos masa-masa
 
 ## Cálculos masa-volumen
