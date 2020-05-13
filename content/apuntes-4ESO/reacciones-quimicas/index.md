@@ -148,6 +148,8 @@ $$
 $$
 $M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.
 
+---
+
 La ecuación nos la dan ya **escrita** y **ajustada**. Notar las letras entre paréntesis, que indican el **estado de agregación** de cada compuesto químico:
 
 - (s) $\rightarrow$ **sólido**
