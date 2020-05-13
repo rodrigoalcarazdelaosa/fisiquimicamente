@@ -125,3 +125,16 @@ $$
 
 ## Cálculos masa-volumen
 ### Ecuación de los gases ideales
+Cuando alguno de los compuestos que intervienen en la reacción es un **gas**, necesitamos hacer uso de la **ecuación de los gases ideales**:
+
+$$
+pV = nRT
+$$
+
+\begin{itemize}
+	\item $p$ es la \textsc{presión} a la que se encuentra el gas, medida en \si{\atm}.
+	\item $V$ es el \textsc{volumen} que ocupa el gas, medido en \si{\liter}.
+	\item $n$ es el \textsc{número de moles} que tenemos del gas, que lo podemos relacionar con los gramos a través de la \textsc{masa molar}.
+	\item $R=\SI[per-mode=fraction]{0.082}{\atm\liter\per\mol\per\K}$ es la \textsc{constante universal de los gases ideales}.
+	\item $T$ es la \textsc{temperatura} a la que se encuentra el gas, medida en \si{\K}: $T(\si{\K}) = T(\si{\degreeCelsius}) + \num{273}$.
+\end{itemize}
