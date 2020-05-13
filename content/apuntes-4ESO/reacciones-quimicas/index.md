@@ -69,7 +69,7 @@ $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + 2H2O}
 $$
 
-Seguimos con el \ch{H}: a la izquierda hay 1 solo átomo mientras que a la derecha hay $2\times 2=4$ átomos; por lo tanto debemos colocar un 4 en el \ch{HCl}:
+Seguimos con el $\ce{H}$: a la izquierda hay 1 solo átomo mientras que a la derecha hay $2\times 2=4$ átomos; por lo tanto debemos colocar un 4 en el $\ce{HCl}$:
 
 \[
 \ch{MnO2 + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 4}}" "\endgroup" HCl -> MnCl2 + Cl2 + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 2}}" "\endgroup" H2O}
