@@ -193,7 +193,7 @@ $$
 
 ---
 
-Para relacionar la cantidad de hidrógeno que se desprende (medida en \si{\mol}) con el volumen (medido en \si{\liter}), utilizamos la \textsc{ecuación de los gases ideales}:
+Para relacionar la cantidad de hidrógeno que se desprende (medida en mol) con el volumen (medido en L), utilizamos la **ecuación de los gases ideales**:
 $$
 pV = nRT
 $$
