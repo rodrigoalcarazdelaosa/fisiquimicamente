@@ -150,8 +150,8 @@ $M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol
 
 La ecuación nos la dan ya **escrita** y **ajustada**. Notar las letras entre paréntesis, que indican el **estado de agregación** de cada compuesto químico:
 
-- (s) $\rightarrow$ \textsc{sólido}
-- (l) $\rightarrow$ \textsc{líquido}
-- (g) $\rightarrow$ \textsc{gas}
-- (aq) $\rightarrow$ en \textsc{disolución acuosa} (\emph{aqueous} en inglés)
+- (s) $\rightarrow$ **sólido**
+- (l) $\rightarrow$ **líquido**
+- (g) $\rightarrow$ **gas**
+- (aq) $\rightarrow$ en **disolución acuosa** (*aqueous* en inglés)
 {{% /alert %}}		
