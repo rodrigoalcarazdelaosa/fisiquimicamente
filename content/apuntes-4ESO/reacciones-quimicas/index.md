@@ -1,6 +1,6 @@
 ---
 title: Reacciones químicas
-subtitle: Ajuste, cálculos masa-masa y cálculos masa-volumen
+subtitle: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen
 summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
 tags:
 - 4º ESO
@@ -34,8 +34,10 @@ links:
 slides: 
 ---
 
-<!-- {{% alert example %}}
-<span style="font-variant:small-caps;">**ejemplo**</span>
-{{% /alert %}} -->
+{{% toc %}}
 
-Apuntes sobre ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen en formato texto y póster (tipo _chuleta_).
+## Ajuste de ecuaciones químicas
+
+## Cálculos masa-masa
+
+## Cálculos masa-volumen
