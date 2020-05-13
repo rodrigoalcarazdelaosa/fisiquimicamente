@@ -1,6 +1,6 @@
 ---
 title: Reacciones químicas
-subtitle: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen
+subtitle: Ajuste de ecuaciones químicas y cálculos estequiométricos
 summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
 tags:
 - 4º ESO
