@@ -55,7 +55,7 @@ $$
 Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
 {{% alert example %}}
-<span style="font-variant:small-caps;">**ejemplos**</span>
+<span style="font-variant:small-caps;">**ejemplo**</span>
 \begin{align*}
 	500 &\rightarrow 5\times 10^2 \\\\
 	520 &\rightarrow 5.2\times 10^2 \\\\
