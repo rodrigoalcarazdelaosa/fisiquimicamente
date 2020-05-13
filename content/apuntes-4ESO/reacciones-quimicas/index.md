@@ -185,10 +185,10 @@ Calculamos lo primero las **masas molares** de los compuestos involucrados:
 
 ---
 
-A partir de los gramos de \ch{Na} calculamos los moles de \ch{H2} que se desprenderán, utilizando los dos primeros pasos del \textsc{cálculo masa-masa}:
+A partir de los gramos de \ce{Na} calculamos los moles de \ce{H2} que se desprenderán, utilizando los dos primeros pasos del \textsc{cálculo masa-masa}:
 
 \[
-\SI{41.4}{\cancel\g\of{\ch{Na}}}\cdot \textcolor{TOL_blue}{\frac{\SI{1}{\cancel\mol\of{\ch{Na}}}}{\SI{23}{\cancel\g\of{\ch{Na}}}}} \cdot \textcolor{TOL_red}{\frac{\SI{1}{\mol\of{\ch{H2}}}}{\SI{2}{\cancel\mol\of{\ch{Na}}}}} = \SI{0.9}{\mol\of{\ch{H2}}}
+\SI{41.4}{\cancel\g\of{\ce{Na}}}\cdot \textcolor{TOL_blue}{\frac{\SI{1}{\cancel\mol\of{\ce{Na}}}}{\SI{23}{\cancel\g\of{\ce{Na}}}}} \cdot \textcolor{TOL_red}{\frac{\SI{1}{\mol\of{\ce{H2}}}}{\SI{2}{\cancel\mol\of{\ce{Na}}}}} = \SI{0.9}{\mol\of{\ce{H2}}}
 \]
 
 ---
@@ -206,6 +206,6 @@ T(\si{\K}) &= T(\si{\degreeCelsius}) + \num{273} \\
 
 Despejamos el volumen $V$:
 \[
-V = \frac{nRT}{p} = \frac{\SI{0.9}{\mol} \cdot \SI[per-mode=fraction]{0.082}{\atm\liter\per\mol\per\K}\cdot \SI{298}{\K}}{\SI{0.98}{\atm}} = \SI{22.4}{\liter\of{\ch{H2}}}
+V = \frac{nRT}{p} = \frac{\SI{0.9}{\mol} \cdot \SI[per-mode=fraction]{0.082}{\atm\liter\per\mol\per\K}\cdot \SI{298}{\K}}{\SI{0.98}{\atm}} = \SI{22.4}{\liter\of{\ce{H2}}}
 \]	
 {{% /alert %}}		
