@@ -193,5 +193,23 @@ A partir de los gramos de \ch{Na} calculamos los moles de \ch{H2} que se despren
 
 ---
 
-	
+Para relacionar la cantidad de hidrógeno que se desprende (medida en \si{\mol}) con el volumen (medido en \si{\liter}), utilizamos la \textsc{ecuación de los gases ideales}:
+\[
+pV = nRT
+\]
+
+---
+
+Cuidado porque la temperatura $T$ la tenemos que pasar a \si{K}:
+\begin{align*}
+T(\si{\K}) &= T(\si{\degreeCelsius}) + \num{273} \\
+&= \SI{25}{\degreeCelsius} + 273 = \SI{298}{\K}
+\end{align*}
+
+---
+
+Despejamos el volumen $V$:
+\[
+V = \frac{nRT}{p} = \frac{\SI{0.9}{\mol} \cdot \SI[per-mode=fraction]{0.082}{\atm\liter\per\mol\per\K}\cdot \SI{298}{\K}}{\SI{0.98}{\atm}} = \SI{22.4}{\liter\of{\ch{H2}}}
+\]	
 {{% /alert %}}		
