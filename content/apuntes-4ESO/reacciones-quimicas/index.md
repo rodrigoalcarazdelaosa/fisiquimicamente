@@ -119,7 +119,7 @@ Calculamos las **masas molares** de todos los compuestos químicos involucrados,
 
 Para relacionar los gramos de clorato de potasio con los gramos de oxígeno utilizamos los tres pasos del **cálculo masa-masa**:
 $$
-86.8\thinspace\mathrm{\cancel{g}_{\ce{KClO3}}}\cdot 
+86.8\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}\cdot 
 $$
 {{% /alert %}}	
 
