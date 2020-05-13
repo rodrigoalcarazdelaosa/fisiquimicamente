@@ -97,9 +97,8 @@ Seguimos estos **tres pasos**:
 	
 {{% alert example %}}
 <span style="font-variant:small-caps;">**ejemplo**</span> <br>
-> El clorato de potasio, $\ce{KClO3}$, se descompone en cloruro de potasio, $\ce{KCl}$, y oxígeno. Calcula la masa de oxígeno que se obtiene al descomponerse 86.8 g de clorato de potasio por la acción del calor.
-		
-> $M(\ce{K}) = 39.1 g/mol$; $M(\ce{Cl}) = 35.5g/mol$; $M(\ce{O}) = 16g/mol$.
+> El clorato de potasio, $\ce{KClO3}$, se descompone en cloruro de potasio, $\ce{KCl}$, y oxígeno. Calcula la masa de oxígeno que se obtiene al descomponerse 86.8 g de clorato de potasio por la acción del calor. <br>
+$M(\ce{K}) = 39.1 g/mol$; $M(\ce{Cl}) = 35.5g/mol$; $M(\ce{O}) = 16g/mol$.
 {{% /alert %}}	
 
 ## Cálculos masa-volumen
