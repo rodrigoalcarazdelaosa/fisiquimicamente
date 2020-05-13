@@ -146,5 +146,5 @@ $$
 $$
 \ce{2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)}
 $$
-$M(\ch{Na}) = \SI{23}{\g/\mol}$; $M(\ch{H}) = \SI{1}{\g/\mol}$; $M(\ch{O}) = \SI{16}{\g/\mol}$.
+$M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.
 {{% /alert %}}		
