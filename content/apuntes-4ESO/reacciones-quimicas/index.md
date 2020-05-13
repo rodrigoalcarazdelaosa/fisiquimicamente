@@ -73,6 +73,8 @@ $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + 2H2O}
 $$
 
+---
+
 Seguimos con el $\ce{H}$: a la izquierda hay 1 solo átomo mientras que a la derecha hay $2\times 2=4$ átomos. Por lo tanto debemos colocar un 4 en el $\ce{HCl}$:
 
 $$
