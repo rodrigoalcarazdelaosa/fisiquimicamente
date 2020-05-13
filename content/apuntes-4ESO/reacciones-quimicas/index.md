@@ -181,5 +181,17 @@ Calculamos lo primero las **masas molares** de los compuestos involucrados:
 \begin{align*}
 	M(\ce{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (me lo daban como dato)} \\\\		
 	M(\ce{H2}) &= 2\cdot M(\ce{H}) = 2\cdot 1\thinspace\mathrm{g/mol} = 2\thinspace\mathrm{g/mol}
-\end{align*}	
+\end{align*}
+
+---
+
+A partir de los gramos de \ch{Na} calculamos los moles de \ch{H2} que se desprenderán, utilizando los dos primeros pasos del \textsc{cálculo masa-masa}:
+
+\[
+\SI{41.4}{\cancel\g\of{\ch{Na}}}\cdot \textcolor{TOL_blue}{\frac{\SI{1}{\cancel\mol\of{\ch{Na}}}}{\SI{23}{\cancel\g\of{\ch{Na}}}}} \cdot \textcolor{TOL_red}{\frac{\SI{1}{\mol\of{\ch{H2}}}}{\SI{2}{\cancel\mol\of{\ch{Na}}}}} = \SI{0.9}{\mol\of{\ch{H2}}}
+\]
+
+---
+
+	
 {{% /alert %}}		
