@@ -155,6 +155,8 @@ La ecuación nos la dan ya **escrita** y **ajustada**. Notar las letras entre pa
 - (g) $\rightarrow$ **gas**
 - (aq) $\rightarrow$ en **disolución acuosa** (*aqueous* en inglés)
 
+---
+
 Calculamos lo primero las **masas molares** de los compuestos involucrados:	
 \begin{align*}
 	M(\ce{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (me lo daban como dato)} \\\\		
