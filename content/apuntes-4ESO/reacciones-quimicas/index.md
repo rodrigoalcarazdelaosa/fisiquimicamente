@@ -95,4 +95,12 @@ Seguimos estos **tres pasos**:
 2. **Relacionar moles** de un compuesto con moles de otro, a partir de los **coeficientes estequiométricos**.
 3. **Pasar de mol a g** utilizando la **masa molar**.
 
+    El clorato de potasio, \ch{KClO3}, se descompone en cloruro de potasio, \ch{KCl}, y oxígeno. Calcula la masa de oxígeno que se obtiene al descomponerse \SI{86.8}{g} de clorato de potasio por la acción del calor.	
+	
+{{% alert example %}}
+<span style="font-variant:small-caps;">**ejemplo**</span> <br>		
+		
+$M(\ch{K}) = \SI{39.1}{\g/\mol}$; $M(\ch{Cl}) = \SI{35.5}{g/mol}$; $M(\ch{O}) = \SI{16}{g/mol}$.
+{{% /alert %}}	
+
 ## Cálculos masa-volumen
