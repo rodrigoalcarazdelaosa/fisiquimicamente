@@ -135,4 +135,7 @@ $$
 - $V$ es el volumen que ocupa el gas, medido en L.
 - $n$ es el **número de moles** que tenemos del gas, que lo podemos relacionar con los gramos a través de la **masa molar**.
 - $R=0.082\thinspace\frac{\mathrm{atm}\mathrm L}{\mathrm{mol K}}$ es la **constante universal de los gases ideales**.
-- $T$ es la **temperatura** a la que se encuentra el gas, medida en K: $T(\mathrm K) = T(^\circ\mathrm C) + 273$.
+- $T$ es la **temperatura** a la que se encuentra el gas, medida en K:
+	$$
+	T(\mathrm K) = T(^\circ\mathrm C) + 273
+	$$
