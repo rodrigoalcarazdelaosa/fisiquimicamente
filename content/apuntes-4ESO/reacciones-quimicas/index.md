@@ -16,10 +16,10 @@ image:
   focal_point: Smart
 
 links:
-- icon_pack: fas
-  icon: download
-  name: PDF Texto
-  url: reacciones-quimicas-texto.pdf
+# - icon_pack: fas
+ # icon: download
+ # name: PDF Texto
+ # url: reacciones-quimicas-texto.pdf
   
 - icon_pack: fas
   icon: download
