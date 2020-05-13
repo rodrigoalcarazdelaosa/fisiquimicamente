@@ -81,7 +81,11 @@ $$
 \ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
 $$
 
+---
+
 Finalmente el $\ce{Cl}$: como hemos puesto 4 moléculas de $\ce{HCl}$ hay 4 átomos de $\ce{Cl}$ a la izquierda, a la derecha hay 2 átomos de la molécula de cloruro de manganeso (II) y 2 átomos más de la molécula de cloro, 4 en total, con lo que está **ajustado** y no tenemos que poner nada más.
+
+---
 
 La **reacción ajustada** queda así:
 
