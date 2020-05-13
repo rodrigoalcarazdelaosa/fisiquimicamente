@@ -49,12 +49,10 @@ $$
 \ce{aA + bB -> cC + dD}
 $$
 
-\begin{itemize}
-	\item A, B, C y D representan los \textsc{símbolos químicos} de los átomos o la \textsc{fórmula molecular} de los compuestos que reaccionan (lado izquierdo) y los que se producen (lado derecho).
-	\item \colorbox{TOL_pale_red}{\makebox[1em]{\strut $a$}}, \colorbox{TOL_pale_red}{\makebox[1em]{\strut $b$}}, \colorbox{TOL_pale_red}{\makebox[1em]{\strut $c$}} y \colorbox{TOL_pale_red}{\makebox[1em]{\strut $d$}} representan los \textsc{coeficientes estequiométricos}, que deben ser ajustados según la \textsc{ley de conservación de la masa} (comparando de izquierda a derecha átomo por átomo el número que hay de estos a cada lado de la flecha).
-\end{itemize}
+- A, B, C y D representan los \textsc{símbolos químicos} de los átomos o la \textsc{fórmula molecular} de los compuestos que reaccionan (lado izquierdo) y los que se producen (lado derecho).
+- $a$, $b$, $c$ y $d$ representan los \textsc{coeficientes estequiométricos}, que deben ser ajustados según la \textsc{ley de conservación de la masa} (comparando de izquierda a derecha átomo por átomo el número que hay de estos a cada lado de la flecha).
 
-Los \textsc{coeficientes estequiométricos} indican el número de átomos/moléculas/\textsc{moles} que reaccionan/se producen de cada elemento/compuesto.
+Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
 ## Cálculos masa-masa
 
