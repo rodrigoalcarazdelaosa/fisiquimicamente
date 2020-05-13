@@ -110,7 +110,7 @@ $$
 \ce{2KClO3 -> 2KCl + 3O2}
 $$
 
-Calculamos las \textsc{masas molares} de todos los compuestos químicos involucrados, en este caso el \ch{KClO3} y el \ch{O2}:
+Calculamos las **masas molares** de todos los compuestos químicos involucrados, en este caso el $\ce{KClO3}$ y el $\ce{O2}$:
   	\begin{align*}
   		M(\ch{KClO3}) &= M(\ch{K}) + M(\ch{Cl}) + 3\cdot M(\ch{O}) \\
   		&= \SI{39.1}{\g/\mol} + \SI{35.5}{\g/\mol} + 3\cdot \SI{16}{\g/\mol} = \SI{122.6}{\g/\mol} \\
