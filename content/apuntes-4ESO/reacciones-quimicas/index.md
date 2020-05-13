@@ -87,4 +87,17 @@ $$
 
 ## Cálculos masa-masa
 
+Se trata de situaciones en las que nos dan la masa (típicamente en g) de un compuesto químico y nos piden la masa (también en g) de otro compuesto químico.
+
+Seguimos estos **tres pasos**:
+
+\begin{enumerate}
+	{
+	\setbeamercolor{enumerate item}{fg=TOL_blue}
+	\color{TOL_blue}\item \textbf{Pasar de \si{g} a \si{mol}} utilizando la \textsc{masa molar}.
+	}
+	{\setbeamercolor{enumerate item}{fg=TOL_red} \color{TOL_red}\item \textbf{Relacionar moles} de un compuesto con moles de otro, a partir de los \textsc{coeficientes estequiométricos}.}
+	{\setbeamercolor{enumerate item}{fg=TOL_green} \color{TOL_green}\item \textbf{Pasar de \si{mol} a \si{g}} utilizando la \textsc{masa molar}.}	
+\end{enumerate}
+
 ## Cálculos masa-volumen
