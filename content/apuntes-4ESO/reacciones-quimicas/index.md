@@ -198,15 +198,11 @@ Para relacionar la cantidad de hidrógeno que se desprende (medida en \si{\mol})
 pV = nRT
 \]
 
----
-
 Cuidado porque la temperatura $T$ la tenemos que pasar a \si{K}:
 \begin{align*}
 T(\si{\K}) &= T(\si{\degreeCelsius}) + \num{273} \\
 &= \SI{25}{\degreeCelsius} + 273 = \SI{298}{\K}
 \end{align*}
-
----
 
 Despejamos el volumen $V$:
 \[
