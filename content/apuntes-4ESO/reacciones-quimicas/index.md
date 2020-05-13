@@ -43,7 +43,7 @@ La **ley de conservación de la masa** implica dos **principios**:
 1. El número total de átomos antes y después de una reacción no cambia.
 2. El número de átomos de cada tipo es igual antes y después.
 
-En una \textsc{ecuación química} general:		
+En una **ecuación química** general:		
 
 \[
 \ch{"\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $a$}}" "\endgroup" A + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $b$}}" "\endgroup" B -> "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $c$}}" "\endgroup" C + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $d$}}" "\endgroup" D}
