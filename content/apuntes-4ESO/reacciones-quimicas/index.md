@@ -111,15 +111,15 @@ $$
 $$
 
 Calculamos las **masas molares** de todos los compuestos químicos involucrados, en este caso el $\ce{KClO3}$ y el $\ce{O2}$:
-  	\begin{align*}
-  		M(\ch{KClO3}) &= M(\ch{K}) + M(\ch{Cl}) + 3\cdot M(\ch{O}) \\
-  		&= \SI{39.1}{\g/\mol} + \SI{35.5}{\g/\mol} + 3\cdot \SI{16}{\g/\mol} = \SI{122.6}{\g/\mol} \\
-  		M(\ch{O2}) &= 2\cdot M(\ch{O}) = 2\cdot \SI{16}{g/mol} = \SI{32}{\g/\mol}
-  	\end{align*}			
+\begin{align*}
+	M(\ce{KClO3}) &= M(\ce{K}) + M(\ce{Cl}) + 3\cdot M(\ce{O}) \\\\
+	&= 39.1\thinspace\mathrm{g/mol} + 35.5\thinspace\mathrm{g/mol} + 3\cdot 16\thinspace\mathrm{g/mol} = 122.6\thinspace\mathrm{g/mol} \\\\
+	M(\ce{O2}) &= 2\cdot M(\ce{O}) = 2\cdot 16\thinspace\mathrm{g/mol} = 32\thinspace\mathrm{\g/\mol}
+\end{align*}			
 
 Para relacionar los gramos de clorato de potasio con los gramos de oxígeno utilizamos los 3 pasos del \textsc{cálculo masa-masa}:
   	\[
-  	\SI{86.8}{\cancel\g\of{\ch{KClO3}}}\cdot \textcolor{TOL_blue}{\frac{\SI{1}{\cancel\mol\of{\ch{KClO3}}}}{\SI{122.6}{\cancel\g\of{\ch{KClO3}}}}} \cdot \textcolor{TOL_red}{\frac{\SI{3}{\cancel\mol\of{\ch{O2}}}}{\SI{2}{\cancel\mol\of{\ch{KClO3}}}}} \cdot \textcolor{TOL_green}{\frac{\SI{32}{\g\of{\ch{O2}}}}{\SI{1}{\cancel\mol\of{\ch{O2}}}}} = \SI{34.0}{\g\of{\ch{O2}}}
+  	\SI{86.8}{\cancel\g\of{\ce{KClO3}}}\cdot \textcolor{TOL_blue}{\frac{\SI{1}{\cancel\mol\of{\ce{KClO3}}}}{\SI{122.6}{\cancel\g\of{\ce{KClO3}}}}} \cdot \textcolor{TOL_red}{\frac{\SI{3}{\cancel\mol\of{\ce{O2}}}}{\SI{2}{\cancel\mol\of{\ce{KClO3}}}}} \cdot \textcolor{TOL_green}{\frac{\SI{32}{\g\of{\ce{O2}}}}{\SI{1}{\cancel\mol\of{\ce{O2}}}}} = \SI{34.0}{\g\of{\ce{O2}}}
   	\]
 {{% /alert %}}	
 
