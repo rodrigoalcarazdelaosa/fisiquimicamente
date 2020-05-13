@@ -105,10 +105,10 @@ $$
 \ce{KClO3 -> KCl + O2}
 $$
 
-	La \textsc{ajustamos}:
-  	\[
-	\ch{"\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 2}}" "\endgroup" KClO3 -> "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 2}}" "\endgroup" KCl + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 3}}" "\endgroup" O2}
-	\]
+La **ajustamos**:
+$$
+\ce{2KClO3 -> 2KCl + 3O2}
+$$
 
 Calculamos las \textsc{masas molares} de todos los compuestos químicos involucrados, en este caso el \ch{KClO3} y el \ch{O2}:
   	\begin{align*}
