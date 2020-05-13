@@ -66,7 +66,7 @@ $$
 
 > Después miramos el $\ce{O}$: vemos que a la izquierda hay dos átomos de $\ce{O}$ y a la derecha solo hay 1. Por tanto debemos poner un 2 en la molécula de agua:
 
-$$
+> $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + 2H2O}
 $$
 
