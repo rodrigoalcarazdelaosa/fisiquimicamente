@@ -39,8 +39,22 @@ slides:
 ## Ajuste de ecuaciones químicas
 
 La **ley de conservación de la masa** implica dos **principios**:
+
 1. El número total de átomos antes y después de una reacción no cambia.
 2. El número de átomos de cada tipo es igual antes y después.
+
+En una \textsc{ecuación química} general:		
+
+\[
+\ch{"\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $a$}}" "\endgroup" A + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $b$}}" "\endgroup" B -> "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $c$}}" "\endgroup" C + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut $d$}}" "\endgroup" D}
+\]
+
+\begin{itemize}
+	\item A, B, C y D representan los \textsc{símbolos químicos} de los átomos o la \textsc{fórmula molecular} de los compuestos que reaccionan (lado izquierdo) y los que se producen (lado derecho).
+	\item \colorbox{TOL_pale_red}{\makebox[1em]{\strut $a$}}, \colorbox{TOL_pale_red}{\makebox[1em]{\strut $b$}}, \colorbox{TOL_pale_red}{\makebox[1em]{\strut $c$}} y \colorbox{TOL_pale_red}{\makebox[1em]{\strut $d$}} representan los \textsc{coeficientes estequiométricos}, que deben ser ajustados según la \textsc{ley de conservación de la masa} (comparando de izquierda a derecha átomo por átomo el número que hay de estos a cada lado de la flecha).
+\end{itemize}
+
+Los \textsc{coeficientes estequiométricos} indican el número de átomos/moléculas/\textsc{moles} que reaccionan/se producen de cada elemento/compuesto.
 
 ## Cálculos masa-masa
 
