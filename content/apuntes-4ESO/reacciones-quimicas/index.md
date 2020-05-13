@@ -147,4 +147,11 @@ $$
 \ce{2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)}
 $$
 $M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.
+
+La ecuación nos la dan ya **escrita** y **ajustada**. Notar las letras entre paréntesis, que indican el **estado de agregación** de cada compuesto químico:
+
+- (s) $\rightarrow$ \textsc{sólido}
+- (l) $\rightarrow$ \textsc{líquido}
+- (g) $\rightarrow$ \textsc{gas}
+- (aq) $\rightarrow$ en \textsc{disolución acuosa} (\emph{aqueous} en inglés)
 {{% /alert %}}		
