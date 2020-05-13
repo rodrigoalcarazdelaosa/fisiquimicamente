@@ -308,3 +308,7 @@ height: 200px; }
 blockquote {
   color: #555555;
   border-left: .25rem solid #555555; }
+  
+hr {
+background: #333;
+background-image: linear-gradient(to right, #ccc, #333, #ccc); }  
