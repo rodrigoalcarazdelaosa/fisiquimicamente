@@ -75,13 +75,13 @@ $$
 \ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
 $$
 
-Finalmente el \ch{Cl}: como hemos puesto 4 moléculas de \ch{HCl} hay 4 átomos de \ch{Cl} a la izquierda, a la derecha hay 2 átomos de la molécula de cloruro de manganeso (II) y 2 átomos más de la molécula de cloro, 4 en total, con lo que está \textsc{ajustado} y no tenemos que poner nada más.
+Finalmente el $\ce{Cl}$: como hemos puesto 4 moléculas de $\ce{HCl}$ hay 4 átomos de $\ce{Cl}$ a la izquierda, a la derecha hay 2 átomos de la molécula de cloruro de manganeso (II) y 2 átomos más de la molécula de cloro, 4 en total, con lo que está **ajustado** y no tenemos que poner nada más.
 
-La \textsc{reacción ajustada} queda así:
+La **reacción ajustada** queda así:
 
-\[
-\ch{MnO2 + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 4}}" "\endgroup" HCl -> MnCl2 + Cl2 + "\begingroup\colorbox{TOL_pale_red}{\makebox[1em]{\strut 2}}" "\endgroup" H2O}
-\]	
+$$
+\ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
+$$
 {{% /alert %}}
 
 ## Cálculos masa-masa
