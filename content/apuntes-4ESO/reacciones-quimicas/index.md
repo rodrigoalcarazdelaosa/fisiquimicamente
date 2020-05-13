@@ -206,6 +206,6 @@ T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\\\
 
 Despejamos el volumen $V$:
 $$
-V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{mol} \cdot 0.082\thinspace\frac{\mathrm{atm}\mathrm L}{\mathrm{mol K}}\cdot 298\thinspace\mathrm K}{0.98\thinspace\mathrm{atm}} = \SI{22.4}{\liter\of{\ce{H2}}}
+V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{mol} \cdot 0.082\thinspace\frac{\mathrm{atm}\mathrm L}{\mathrm{mol K}}\cdot 298\thinspace\mathrm K}{0.98\thinspace\mathrm{atm}} = 22.4\thinspace\mathrm{L_\ce{H2}}
 $$	
 {{% /alert %}}		
