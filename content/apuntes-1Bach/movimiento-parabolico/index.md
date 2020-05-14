@@ -60,3 +60,4 @@ $$
 $$
 
 ## Componentes de la velocidad
+{{< figure src="componentes-v.png" lightbox="true" >}}
