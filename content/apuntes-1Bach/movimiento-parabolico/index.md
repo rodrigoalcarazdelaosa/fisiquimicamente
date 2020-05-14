@@ -43,4 +43,3 @@ El **movimiento parabólico**[^1] surge de la **composición** de:
 - Un **MRU horizontal** con velocidad $\vec v_x = v_x \ihat$ constante.
 - Un **MRUV vertical** con velocidad inicial $\vec v_{0y} = v_{0y} \jhat$ hacia arriba. La aceleración $\vec g=-g\jhat$ apunta hacia abajo[^2].
 [^2]: Despreciamos aquí el rozamiento con el aire.
-\end{itemize}
