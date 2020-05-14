@@ -48,3 +48,13 @@ El **movimiento parabólico**[^1] surge de la **composición** de:
 - Un **MRU horizontal** con velocidad $\vec v_x = v_x \ihat$ constante.
 - Un **MRUV vertical** con velocidad inicial $\vec v_{0y} = v_{0y} \jhat$ hacia arriba. La aceleración $\vec g=-g\jhat$ apunta hacia abajo[^2].
 [^2]: Despreciamos aquí el rozamiento con el aire.
+
+La figura muestra el esquema de un **tiro parabólico**, con un proyectil lanzado desde una altura $h$ con una velocidad inicial $\vec v_0 = v_x \ihat + v_{0y}\jhat$ que forma un ángulo $\alpha_0$ con la horizontal\sidenote{Como el proyectil se lanza desde una altura $h$, su \textsc{posición inicial} viene dada por:
+\[
+\vec r_0 = x_0\ihat + y_0\jhat = 0+h\jhat = h\jhat
+\]
+
+Las \textsc{componentes} del vector \textsc{velocidad} inicial $\vec v_0$ están relacionadas con el ángulo $\alpha_0$, a través de su tangente:
+\[
+\tan \alpha_0 = \frac{v_{0y}}{v_x}
+\]}.
