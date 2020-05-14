@@ -61,3 +61,13 @@ $$
 
 ## Componentes de la velocidad
 {{< figure src="componentes-v.png" lightbox="true" >}}
+
+En cualquier momento, las **componentes** de la **velocidad** $\vec v$ son:
+	\begin{align*}
+		\vec v_x &= \mleft(v\cos\alpha\mright)\ihat \\\\
+		\vec v_y &= \mleft(v\sin\alpha\mright)\jhat		
+	\end{align*}
+	Según el \textsc{teorema de Pitágoras}:
+	$$
+	v = \lvert\vec v\rvert = \sqrt{v_x^2+v_y^2}
+	$$
