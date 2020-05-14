@@ -51,7 +51,7 @@ El **movimiento parabólico**[^1] surge de la **composición** de:
 
 La figura muestra el esquema de un **tiro parabólico**, con un proyectil lanzado desde una altura $h$ con una velocidad inicial $\vec v_0 = v_x \ihat + v_{0y}\jhat$ que forma un ángulo $\alpha_0$ con la horizontal.
 
-{{< figure src="/apuntes-1Bach/movimiento-parabolico/tiro-parabolico.png" lightbox="true" >}}
+{{< figure src="/apuntes-1Bach/movimiento-parabolico/tiro-parabolico" lightbox="true" >}}
 
 Como el proyectil se lanza desde una altura $h$, su __posición inicial__ viene dada por:
 
