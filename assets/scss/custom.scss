@@ -30,7 +30,7 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 // Personalización de los colores de las notas y los warnings
 div.alert > div:first-child::before {
 color: $primary;
-}  
+}
   
 .alert-note {
 color: #000000;
