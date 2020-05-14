@@ -50,6 +50,7 @@ El **movimiento parabólico**[^1] surge de la **composición** de:
 [^2]: Despreciamos aquí el rozamiento con el aire.
 
 La figura muestra el esquema de un **tiro parabólico**, con un proyectil lanzado desde una altura $h$ con una velocidad inicial $\vec v_0 = v_x \ihat + v_{0y}\jhat$ que forma un ángulo $\alpha_0$ con la horizontal. Como el proyectil se lanza desde una altura $h$, su __posición inicial__ viene dada por:
+
 $$
 \vec r_0 = x_0\ihat + y_0\jhat = 0+h\jhat = h\jhat
 $$
