@@ -35,7 +35,7 @@ slides:
 ---
 
 $$
-\newcommand{\unitvector}[1]{\mathop{}\!\hat{\text{#1}}}
+\newcommand{\unitvector}[1]{\hat{\text{#1}}}
 \newcommand{\ihat}{\unitvector{\i}}
 \newcommand{\jhat}{\unitvector{\j}}
 $$
