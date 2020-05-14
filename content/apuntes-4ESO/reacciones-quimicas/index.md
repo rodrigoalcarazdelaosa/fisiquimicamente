@@ -45,8 +45,6 @@ La **ley de conservación de la masa** implica dos **principios**:
 
 En una **ecuación química** general:
 
-{{< hl >}}highlighted quotec
-
 $$
 \ce{{{< hl >}}a{{< hl >}}A + bB -> cC + dD}
 $$
