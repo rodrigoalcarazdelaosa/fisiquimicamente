@@ -45,10 +45,10 @@ La **ley de conservación de la masa** implica dos **principios**:
 
 En una **ecuación química** general:
 
-{{< hl >}}highlighted quote{{< /hl >}}
+{{< hl >}}highlighted quotec
 
 $$
-\ce{aA + bB -> cC + dD}
+\ce{{{< hl >}}a{{< hl >}}A + bB -> cC + dD}
 $$
 
 - A, B, C y D representan los **símbolos químicos** de los átomos o la **fórmula molecular** de los compuestos que reaccionan (lado izquierdo) y los que se producen (lado derecho).
