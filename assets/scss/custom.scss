@@ -314,5 +314,6 @@ background: #555555;
 background-image: linear-gradient(to right, #dddddd, #555555, #dddddd); }  
 
 .markup-quote {
+  color: $red;
   background-color: transparent;
   background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary_complementary_bg); }
