@@ -101,7 +101,7 @@ Se trata de situaciones en las que nos dan la masa (típicamente en g) de un com
 
 Seguimos estos **tres pasos**:
 
-1. <span style="color:blue">**Pasar de g a mol** utilizando la **masa molar**.</span>
+1. <span style="color:$primary">**Pasar de g a mol** utilizando la **masa molar**.</span>
 2. **Relacionar moles** de un compuesto con moles de otro, a partir de los **coeficientes estequiométricos**.
 3. **Pasar de mol a g** utilizando la **masa molar**.
 	
