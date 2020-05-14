@@ -34,4 +34,11 @@ links:
 slides: 
 ---
 
-Apuntes sobre el movimiento parabólico en formato texto y póster (tipo _chuleta_).
+El **movimiento parabólico**[^1] surge de la \textsc{composición} de:
+
+[^1]: También conocido como \textsc{tiro oblicuo}, este movimiento está estudiado desde la antigüedad. Se recoge en los libros más antiguos de balística para aumentar la precisión en el tiro de un proyectil.
+
+\begin{itemize}
+	\item Un MRU \textsc{horizontal} con velocidad $\vec v_x = v_x \ihat$ constante.
+	\item Un MRUV \textsc{vertical} con velocidad inicial $\vec v_{0y} = v_{0y} \jhat$ hacia arriba. La aceleración $\vec g=-g\jhat$ apunta hacia abajo\sidenote{Despreciamos aquí el rozamiento con el aire.}.
+\end{itemize}
