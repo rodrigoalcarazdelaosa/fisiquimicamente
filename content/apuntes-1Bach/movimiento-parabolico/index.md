@@ -36,7 +36,7 @@ slides:
 
 $$
 \newcommand{\unitvector}[1]{\hat{#1}}
-\newcommand{\ihat}{\unitvector{\imath}}
+\newcommand{\ihat}{\unitvector{\mathrm{\imath}}}
 \newcommand{\jhat}{\unitvector{\jmath}}
 $$
 
