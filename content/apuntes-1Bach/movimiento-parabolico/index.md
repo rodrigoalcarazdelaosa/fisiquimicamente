@@ -59,7 +59,4 @@ $$
 \vec r_0 = x_0\ihat + y_0\jhat = 0+h\jhat = h\jhat
 $$
 
-Las **componentes** del vector **velocidad** inicial $\vec v_0$ están relacionadas con el ángulo $\alpha_0$, a través de su tangente:
-$$
-\tan \alpha_0 = \frac{v_{0y}}{v_x}
-$$
+## Componentes de la velocidad
