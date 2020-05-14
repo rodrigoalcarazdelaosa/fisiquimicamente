@@ -34,6 +34,8 @@ links:
 slides: 
 ---
 
+{{% toc %}}
+
 El **movimiento parabólico**[^1] surge de la **composición** de:
 
 [^1]: También conocido como \textsc{tiro oblicuo}, este movimiento está estudiado desde la antigüedad. Se recoge en los libros más antiguos de balística para aumentar la precisión en el tiro de un proyectil.
