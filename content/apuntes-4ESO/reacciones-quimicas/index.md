@@ -101,9 +101,9 @@ Se trata de situaciones en las que nos dan la masa (típicamente en g) de un com
 
 Seguimos estos **tres pasos**:
 
-1. <span style="color:#1965B0">**Pasar de g a mol** utilizando la **masa molar**.</span>
-2. <span style="color:#B0332A">**Relacionar moles** de un compuesto con moles de otro, a partir de los **coeficientes estequiométricos**.</span>
-3. <span style="color:#5A6309">**Pasar de mol a g** utilizando la **masa molar**.</span>
+1. <span style="color:#1965B0">1. **Pasar de g a mol** utilizando la **masa molar**.</span>
+2. <span style="color:#B0332A">2. **Relacionar moles** de un compuesto con moles de otro, a partir de los **coeficientes estequiométricos**.</span>
+3. <span style="color:#5A6309">3. **Pasar de mol a g** utilizando la **masa molar**.</span>
 	
 {{% alert example %}}
 <span style="font-variant:small-caps;">**ejemplo**</span> <br>
