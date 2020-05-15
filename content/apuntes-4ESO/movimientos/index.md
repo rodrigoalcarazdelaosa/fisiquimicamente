@@ -18,11 +18,6 @@ image:
 links:
 - icon_pack: fas
   icon: download
-  name: PDF Texto
-  url: movimientos-texto.pdf
-  
-- icon_pack: fas
-  icon: download
   name: PDF Póster
   url: movimientos-poster.pdf  
 
@@ -34,4 +29,4 @@ links:
 slides: 
 ---
 
-Resumen de las características y ecuaciones más importantes del MRU, MRUV, caída libre/lanzamiento vertical y MCU, en formato texto y póster (tipo _chuleta_).
+
