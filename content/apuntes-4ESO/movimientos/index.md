@@ -181,6 +181,6 @@ Utilizando la ecuación (3)
 : Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = -120\thinspace\mathrm{m}$ e imponiendo el signo $-$ al despejar $v$:
 	\begin{gather*}
 		v^2-v_0^2 = 2a\Delta x \tag{3} \\
-		v = - \sqrt{v_0^2 + 2a\Delta x} = - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-250)} = - \SI{48.8}{\m/\s}
+		v = - \sqrt{v_0^2 + 2a\Delta x} = - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-250)} = -48.8\thinspace\mathrm{m/s}
 	\end{gather*}
 {{% /alert %}}
