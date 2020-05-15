@@ -7,6 +7,10 @@ $primary_complementary_bg: #faedec; // color complementario de primary
 $example_fg: #5A6309;
 $example_bg: #fbfde9;
 
+body {
+  color: inherit;
+  background-color: #333; }
+
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
