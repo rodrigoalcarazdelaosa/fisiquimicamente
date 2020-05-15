@@ -193,9 +193,12 @@ $$
 \end{split}			
 $$
 Sustituyendo el **tiempo de vuelo** obtenemos la **velocidad** con la que llega al suelo, $\vec v(t_\text{vuelo})$:
-\[
-\vec v(t_\text{vuelo}) = \left(20\cos40^\circ\right)\ihat + \left(20\sin40^\circ-9.8\cdot t_\text{vuelo}\right)\jhat = 15.3\ihat + \left(20\sin40^\circ-9.8\cdot 3.5\right)\jhat = \left(15.3\ihat - 21.4\jhat\right)\,\si{\m/\s}
-\]
+$$
+\begin{split}				
+\vec v(t_\text{vuelo}) &= \left(20\cos 40^\circ\right)\ihat + \left(20\sin 40^\circ-9.8\cdot t_\text{vuelo}\right)\jhat \\\\
+&= 15.3\ihat + \left(20\sin 40^\circ-9.8\cdot 3.5\right)\jhat = \left(15.3\ihat - 21.4\jhat\right)\thinspace\mathrm{m/s}
+\end{split}
+$$
 
 , siendo el \textsc{módulo} $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = \SI{26.3}{\m/\s}$ (\textsc{teorema de Pitágoras}).
 {{% /alert %}}
