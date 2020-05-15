@@ -107,8 +107,10 @@ Seguimos estos **tres pasos**:
 2. **Relacionar moles** de un compuesto con moles de otro, a partir de los **coeficientes estequiométricos**.
 3. **Pasar de mol a g** utilizando la **masa molar**.
 	
+### Ejemplo
 {{% alert example %}}
-<span style="font-variant:small-caps;">**ejemplo**</span> <br>
+<br>
+
 > El clorato de potasio, $\ce{KClO3}$, se descompone en cloruro de potasio, $\ce{KCl}$, y oxígeno. Calcula la masa de oxígeno que se obtiene al descomponerse $86.8\thinspace\mathrm g$ de clorato de potasio por la acción del calor.
 $M(\ce{K}) = 39.1\thinspace\mathrm{g/mol}$; $M(\ce{Cl}) = 35.5\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.
 
