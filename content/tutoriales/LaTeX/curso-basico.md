@@ -34,20 +34,20 @@ Una de las principales razones por las que la gente usa $\LaTeX$ es que separa e
 
 ## ¿Cómo usar $\LaTeX$?
 
-### [Overleaf](https://www.overleaf.com/)
+### Overleaf {{< icon name="overleaf" pack="ai" >}}
 Sin duda la **opción recomendada** para poder empezar a escribir $\LaTeX$ sin necesidad de instalar nada localmente en nuestro ordenador. [Overleaf](https://www.overleaf.com/) es un editor de $\LaTeX$ online que nos permite además **colaborar** fácilmente con otras personas.
 
-### Windows
+### Windows {{< icon name="windows" pack="fab" >}}
 Tenemos principalmente dos opciones:
 
 - [$\TeX$ Live](https://www.tug.org/texlive/): viene del mundo Unix y por defecto instala _todo_.
 
 - [MiK$\TeX$](https://miktex.org): herramienta más _Windows_. Por defecto instala unos pocos paquetes y el resto se van instalando según sea necesario.
 
-### macOS
+### macOS {{< icon name="apple" pack="fab" >}}
 [Mac$\TeX$](https://tug.org/mactex/) es la versión de [$\TeX$ Live](https://www.tug.org/texlive/) para macOS. 
 
-### Unix
+### Unix {{< icon name="linux" pack="fab" >}}
 [$\TeX$ Live](https://www.tug.org/texlive/).
 
 ## Tu primer documento de $\LaTeX$
