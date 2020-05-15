@@ -94,3 +94,6 @@ y(t) = y_0 + v_{0y}t + \frac{1}{2}at^2 = h + v_0\sin\alpha_0\cdot t -\frac{1}{2}
 $$
 
 ### Ecuaciones vectoriales
+| Magnitud | Ecuación vectorial |
+| --- | --- |
+| hola | hola |
