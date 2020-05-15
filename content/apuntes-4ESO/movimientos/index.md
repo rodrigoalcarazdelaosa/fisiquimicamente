@@ -150,5 +150,37 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el
 
 ---
 
+Escribimos la **ecuación del movimiento** (1) de la piedra:
+$$
+y(t) = y_0 + v_0 t + \frac{1}{2}at^2, \tag{1}
+$$
+donde $y_0 = 120\thinspace\mathrm m$, $v_0 = \SI{-5}{\m/\s}$ (hacia abajo) y $a=-g=\SI{-9.8}{\m/\s\squared}$, de forma que la ecuación particularizada queda:
+\[
+y(t) = 120 - 5t + \frac{1}{2}\cdot (-9.8)\cdot t^2 = 120-5t-4.9t^2
+\]
 
+\begin{enumerate}[label=\alph*)]
+	\item De la ecuación \eqref{eq:1} podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
+	\begin{gather*}
+		0 = 120 - 5t -4.9t^2 \\
+		4.9t^2+5t-120=0 \\
+		t = \frac{-5\pm \sqrt{5^2-4\cdot 4.9\cdot (-120)}}{2\cdot 4.9} = \frac{-5\pm \sqrt{2377}}{9.8} =  \begin{cases}
+	\SI{4.5}{\s} \\
+	\xcancel{\SI{-5.5}{\s}}
+\end{cases}
+	\end{gather*}
+
+	\item Para calcular la velocidad con que choca contra el suelo podemos utilizar la ecuación \eqref{eq:2} o la \eqref{eq:v2}:
+	\begin{description}
+		\item[Utilizando la ecuación \eqref{eq:2}] Sustituyendo el tiempo por el tiempo de llegada al suelo:
+		\[
+		v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = \SI{-48.8}{\m/\s}
+		\]
+		\item[Utilizando la ecuación \eqref{eq:v2}] Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = \SI{-120}{\m}$ e imponiendo el signo $-$ al despejar $v$:
+		\begin{gather*}
+			v^2-v_0^2 = 2a\Delta x \tag{3} \\
+			v = - \sqrt{v_0^2 + 2a\Delta x} = - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-250)} = - \SI{48.8}{\m/\s}
+		\end{gather*}
+	\end{description}
+\end{enumerate}
 {{% /alert %}}
