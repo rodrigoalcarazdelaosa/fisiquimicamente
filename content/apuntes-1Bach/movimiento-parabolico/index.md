@@ -107,10 +107,9 @@ $$
 y = h + x\tan\alpha_0 - \frac{gx^2}{2v_0^2\cos^2\alpha_0}
 $$
 
-\section{Tiempo de vuelo} % (fold)
-\label{sec:tiempo_de_vuelo}
+## Tiempo de vuelo
 
-El \textsc{tiempo de vuelo} $t_\text{vuelo}$ es el tiempo total que el móvil permanece en el aire. Se obtiene imponiendo $y\mleft(t_\text{vuelo}\mright)=0$ y despejando el tiempo\sidenote{$y\mleft(t_\text{vuelo}\mright)=0$ cuando el móvil llega al suelo:
+El **tiempo de vuelo** $t_\text{vuelo}$ es el tiempo total que el móvil permanece en el aire. Se obtiene imponiendo $y(t_\text{vuelo})=0$ y despejando el tiempo\sidenote{$y\mleft(t_\text{vuelo}\mright)=0$ cuando el móvil llega al suelo:
 \[
 0 = h+v_0\sin\alpha_0\cdot t_\text{vuelo} - \frac{1}{2}gt_\text{vuelo}^2
 \]
