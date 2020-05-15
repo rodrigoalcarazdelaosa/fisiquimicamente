@@ -177,9 +177,9 @@ t_\text{vuelo} = \frac{20\sin40^\circ\pm\sqrt{20^2\sin^240^\circ+294}}{9.8} = \b
 \end{cases}
 $$
 
-Sustituyendo el \textsc{tiempo de vuelo} en la coordenada $x$ obtenemos el \textsc{alcance}:
+Sustituyendo el **tiempo de vuelo** en la coordenada $x$ obtenemos el **alcance**:
 
-\[
-\text{\textsc{alcance}} = x\mleft(t_\text{vuelo}\mright) = 20\cos\SI{40}{\degree}\cdot t_\text{vuelo} = 20\cos\SI{40}{\degree}\cdot 3.5 = \SI{53.6}{\m}
-\]
+$$
+\text{\textsc{alcance}} = x\left(t_\text{vuelo}\right) = 20\cos\SI{40}{\degree}\cdot t_\text{vuelo} = 20\cos\SI{40}{\degree}\cdot 3.5 = \SI{53.6}{\m}
+$$
 {{% /alert %}}
