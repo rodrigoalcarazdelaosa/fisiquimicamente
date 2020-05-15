@@ -150,5 +150,5 @@ $$
 
 ---
 
-
+Lo primero hacemos un dibujo representando la situación:
 {{% /alert %}}
