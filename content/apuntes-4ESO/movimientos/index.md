@@ -70,9 +70,9 @@ $$
 $$
 
 y así calcular la velocidad en m/min:
-\[
-\SI{10.8}{\m} = 0 + v\cdot \SI{90}{\minute} \rightarrow v = \SI{0.12}{\m/\minute}
-\]
+$$
+10.8\thinspace\mathrm m = 0 + v\cdot \SI{90}{\minute} \rightarrow v = \SI{0.12}{\m/\minute}
+$$
 
 La distancia recorrida en \SI{5}{\minute} será por tanto:
 \[
