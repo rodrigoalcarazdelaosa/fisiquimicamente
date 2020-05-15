@@ -132,7 +132,7 @@ $$
 
 Despejando el tiempo $t=v_0\sin\alpha_0/g$ y sustituyendo en $y(t)$:
 $$
-y_\text{máx} = h+v_0\sin\alpha_0\cdot \frac{v_0\sin\alpha_0}{g}-\frac{1}{2}g(\frac{v_0\sin\alpha_0}{g})^2 = h+\frac{v_0^2\sin^2\alpha_0}{2g},
+y_\text{máx} = h+v_0\sin\alpha_0\cdot \frac{v_0\sin\alpha_0}{g}-\frac{1}{2}g\left(\frac{v_0\sin\alpha_0}{g}\right)^2 = h+\frac{v_0^2\sin^2\alpha_0}{2g},
 $$		
 
 obteniéndose su valor máximo para $\alpha_0 = 90^\circ$ (lanzamiento vertical).
