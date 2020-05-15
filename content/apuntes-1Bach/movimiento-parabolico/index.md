@@ -18,11 +18,6 @@ image:
 links:
 - icon_pack: fas
   icon: download
-  name: PDF Texto
-  url: movimiento-parabolico-texto.pdf
-  
-- icon_pack: fas
-  icon: download
   name: PDF Póster
   url: movimiento-parabolico-poster.pdf  
 
