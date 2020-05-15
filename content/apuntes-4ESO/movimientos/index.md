@@ -76,6 +76,6 @@ $$
 
 La distancia recorrida en $5\thinspace\mathrm{min}$ será por tanto:
 $$
-\Delta x (5\thinspace\mathrm{min}) = x(5\thinspace\mathrm{min}) - x_0 =  0.12\thinspace\mathrm{m/\cancel{min}} \cdot \SI{5}{\cancel\minute} = \SI{0.6}{\m}
+\Delta x (5\thinspace\mathrm{min}) = x(5\thinspace\mathrm{min}) - x_0 =  0.12\thinspace\mathrm{m/\cancel{min}} \cdot 5\thinspace\cancel{\mathrm{min}} = 0.6\thinspace\mathrm m
 $$
 {{% /alert %}}
