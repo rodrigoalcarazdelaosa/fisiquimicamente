@@ -99,3 +99,72 @@ $$
 | Posición | $\vec r(t) = x(t)\ihat + y(t)\jhat =  (v_0\cos\alpha_0\cdot t) \ihat + (h+v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2)\jhat$ |
 | Velocidad | $\vec v(t) = v_x\ihat + v_y(t)\jhat =  (v_0\cos\alpha_0)\ihat + (v_0\sin\alpha_0-gt\jhat$ |
 | Aceleración | $\vec a(t) = a_x\ihat + a_y\jhat = 0 -g\jhat = -g\jhat$ |
+
+## Ecuación de la trayectoria
+Eliminando el tiempo $t$ se obtiene la ecuación de una **parábola**, tal y como se observa en la figura [1](#figure-esquema-de-un-tiro-parabólico-un-proyectil-es-lanzado-desde-una-altura-h-con-una-velocidad-inicial-vec-v_0-que-forma-un-ángulo-alpha_0-con-la-horizontal):
+
+$$
+y = h + x\tan\alpha_0 - \frac{gx^2}{2v_0^2\cos^2\alpha_0}
+$$
+
+\section{Tiempo de vuelo} % (fold)
+\label{sec:tiempo_de_vuelo}
+
+El \textsc{tiempo de vuelo} $t_\text{vuelo}$ es el tiempo total que el móvil permanece en el aire. Se obtiene imponiendo $y\mleft(t_\text{vuelo}\mright)=0$ y despejando el tiempo\sidenote{$y\mleft(t_\text{vuelo}\mright)=0$ cuando el móvil llega al suelo:
+\[
+0 = h+v_0\sin\alpha_0\cdot t_\text{vuelo} - \frac{1}{2}gt_\text{vuelo}^2
+\]
+Despejando $t_\text{vuelo}$:
+\[
+t_\text{vuelo} = \frac{v_0\sin\alpha_0\pm\sqrt{v_0^2\sin^2\alpha_0+2gh}}{g}
+\]
+, donde nos quedamos únicamente con la opción positiva ($+$).}:
+
+\[
+t_\text{vuelo} = \frac{v_0\sin\alpha_0+\sqrt{v_0^2\sin^2\alpha_0+2gh}}{g}
+\]
+
+% section tiempo_de_vuelo (end)
+
+\section{Alcance} % (fold)
+\label{sec:alcance}
+
+El \textsc{alcance} es la distancia horizontal que recorre el móvil\sidenote{El alcance máximo se obtiene para un ángulo $\alpha_0 = \SI{45}{\degree}$, teniendo el mismo valor para $\alpha_0 = \SI{45}{\degree}+a$ que para $\alpha_0 = \SI{45}{\degree}-a$.}. Se obtiene sustituyendo en la ecuación de la coordenada $x$ la expresión del tiempo de vuelo, es decir $\text{\textsc{alcance}} = x\mleft(t_\text{vuelo}\mright)$.
+
+% section alcance (end)
+
+\section{Altura máxima} % (fold)
+\label{sec:altura_maxima}
+
+La \textsc{altura máxima} $y_\text{máx}$ viene dada por la expresión\sidenote{Se alcanza cuando: \[
+v_y(t) = v_0\sin\alpha_0-gt = 0
+\]
+
+Despejando el tiempo:
+\[
+t = \frac{v_0\sin\alpha_0}{g}
+\]
+
+y sustituyendo en $y(t)$:
+\[
+\begin{split}
+y_\text{máx} &= h+v_0\sin\alpha_0\cdot \frac{v_0\sin\alpha_0}{g}-\frac{1}{2}g\mleft(\frac{v_0\sin\alpha_0}{g}\mright)^2 \\
+&= h+\frac{v_0^2\sin^2\alpha_0}{2g}
+\end{split}
+\]}:
+
+\[
+y_\text{máx} = h+ \frac{v_0^2\sin^2\alpha_0}{2g}
+\]
+
+, obteniéndose su valor máximo para $\alpha_0 = \SI{90}{\degree}$ (lanzamiento vertical).
+
+% section altura_maxima (end)
+
+\section{Ángulo de la trayectoria} % (fold)
+\label{sec:angulo_de_la_trayectoria}
+
+El \textsc{ángulo de la trayectoria} en un determinado punto coincide con el ángulo que el vector velocidad $\vec v$ forma con la horizontal en ese punto. Para su cálculo obtenemos las componentes $\vec v_x$ y $\vec v_y$ y gracias a la definición trigonométrica de tangente de un ángulo, calculamos $\alpha$:
+\[
+\tan \alpha = \frac{v_y}{v_x} \Rightarrow \alpha = \arctan\mleft(\frac{v_y}{v_x}\mright)
+\]
