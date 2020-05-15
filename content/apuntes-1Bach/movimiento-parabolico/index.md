@@ -157,7 +157,7 @@ Lo primero hacemos un dibujo representando la situación:
 
 Vamos a escribir las **ecuaciones del movimiento**, por **componentes**:
 \begin{align*}
-	\text{componente $x$}\rightarrow x(t) &= x_0 + v_x t = 0 + v_0\cos\alpha_0 \cdot t = \left(20\cos \SI{40}{\degree}\cdot t\right)\,\si{\m} \\\\
-	\text{componente $y$}\rightarrow y(t) &= y_0 + v_{0y}t + \frac{1}{2}at^2 = h + v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2 = \left(15 + 20\sin\SI{40}{\degree}\cdot t - 4.9t^2\right)\,\si{\m} 
+	\text{componente $x$}\rightarrow x(t) &= x_0 + v_x t = 0 + v_0\cos\alpha_0 \cdot t = \left(20\cos 40^\circ\cdot t\right)\thinspace\mathrm{m} \\\\
+	\text{componente $y$}\rightarrow y(t) &= y_0 + v_{0y}t + \frac{1}{2}at^2 = h + v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2 = \left(15 + 20\sin40^\circ\cdot t - 4.9t^2\right)\thinspace\mathrm{m} 
 \end{align*}
 {{% /alert %}}
