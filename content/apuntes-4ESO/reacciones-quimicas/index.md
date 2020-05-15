@@ -54,8 +54,10 @@ $$
 
 Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
+### Ejemplo
 {{% alert example %}}
-<span style="font-variant:small-caps;">**ejemplo**</span> <br>
+<br>
+
 > Se desea ajustar la siguiente ecuación química:
 $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + H2O}
