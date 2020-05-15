@@ -92,7 +92,7 @@ La **ecuaciones principales** del MRUV son:
 	\label{eq:1}
 	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \tag{1} \\\\
 	\label{eq:2}
-	\text{\textsc{ecuación de la velocidad: }} v(t) &= v_0 + a(t-t_0) \tag{2} \\\\
+	\text{Ecuación de la velocidad: } v(t) &= v_0 + a(t-t_0) \tag{2} \\\\
 	\label{eq:v2}
 	v^2-v_0^2 &= 2a\Delta x \tag{3}
 \end{align*}
