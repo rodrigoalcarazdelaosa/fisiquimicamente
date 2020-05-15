@@ -180,6 +180,6 @@ $$
 Sustituyendo el **tiempo de vuelo** en la coordenada $x$ obtenemos el **alcance**:
 
 $$
-\text{\textsc{alcance}} = x\left(t_\text{vuelo}\right) = 20\cos\SI{40}{\degree}\cdot t_\text{vuelo} = 20\cos\SI{40}{\degree}\cdot 3.5 = \SI{53.6}{\m}
+\text{alcance} = x\left(t_\text{vuelo}\right) = 20\cos40^\circ\cdot t_\text{vuelo} = 20\cos40^\circ\cdot 3.5 = 53.6\thinspace\mathrm m
 $$
 {{% /alert %}}
