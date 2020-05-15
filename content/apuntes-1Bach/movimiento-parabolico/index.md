@@ -182,4 +182,18 @@ Sustituyendo el **tiempo de vuelo** en la coordenada $x$ obtenemos el **alcance*
 $$
 \text{alcance} = x\left(t_\text{vuelo}\right) = 20\cos40^\circ\cdot t_\text{vuelo} = 20\cos40^\circ\cdot 3.5 = 53.6\thinspace\mathrm m
 $$
+
+---
+
+Para calcular la velocidad con la que llega al suelo, escribimos primero la **ecuación de la velocidad**:
+\[
+\vec v(t) = v_x\ihat + v_y(t)\jhat = \mleft(v_0\cos\alpha_0\mright)\ihat + \mleft(v_0\sin\alpha_0 - gt\mright)\jhat = \mleft[\mleft(20\cos\SI{40}{\degree}\mright)\ihat + \mleft(20\sin\SI{40}{\degree}-9.8t\mright)\jhat\mright]\,\si{\m/\s}
+\]
+
+Sustituyendo el \textsc{tiempo de vuelo} obtenemos la \textsc{velocidad} con la que llega al suelo, $\vec v(t_\text{vuelo})$:
+\[
+\vec v(t_\text{vuelo}) = \mleft(20\cos\SI{40}{\degree}\mright)\ihat + \mleft(20\sin\SI{40}{\degree}-9.8\cdot t_\text{vuelo}\mright)\jhat = 15.3\ihat + \mleft(20\sin\SI{40}{\degree}-9.8\cdot 3.5\mright)\jhat = \mleft(15.3\ihat - 21.4\jhat\mright)\,\si{\m/\s}
+\]
+
+, siendo el \textsc{módulo} $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = \SI{26.3}{\m/\s}$ (\textsc{teorema de Pitágoras}).
 {{% /alert %}}
