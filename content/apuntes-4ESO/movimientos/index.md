@@ -124,3 +124,25 @@ $$
 \Delta x = \frac{v^2-v_0^2}{2a} = \frac{0^2-19.5^2}{2\cdot (-3)} = 63.375\thinspace\mathrm m
 $$
 {{% /alert %}}
+
+## Caída libre/lanzamiento vertical
+La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el que la aceleración es igual a la aceleración de la **gravedad**[^2]. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
+[^2]: \sidenote{Valores de la aceleración de la \textsc{gravedad} en los astros del Sistema Solar:
+\begin{center}
+	\begin{tabular}{lSS}
+		\toprule
+		\textsc{astro} & $g$ & \si{\m/\s\squared} \\
+		\midrule
+		Sol \Sun & 28.02 & 274.8 \\
+		Júpiter \Jupiter & 2.53 & 24.8 \\
+		Neptuno \Neptune & 1.14 & 11.2 \\
+		Saturno \Saturn & 1.07 & 10.4 \\
+		Tierra \Earth & 1 & 9.8 \\
+		Venus \Venus & 0.90 & 8.9 \\
+		Urano \Uranus & 0.89 & 8.7 \\
+		Marte \Mars & 0.38 & 3.7 \\
+		Mercurio \Mercury & 0.38 & 3.7 \\
+		Luna \Moon & 0.17 & 1.6 \\
+		\bottomrule
+	\end{tabular}
+\end{center}}
