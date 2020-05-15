@@ -146,5 +146,6 @@ $$
 
 ## Ejemplo resuelto
 {{% alert example %}}
+<span style="font-variant:small-caps;">**ejemplo**</span> <br>
 > Desde una ventana de una casa que está a $15\thinspace\mathrm{m}$ de altura lanzamos un chorro de agua a $20\thinspace\mathrm{m/s}$ con un ángulo de $40^\circ$. Calcula la distancia a la que caerá el agua y la velocidad con la que llega.
 {{% /alert %}}
