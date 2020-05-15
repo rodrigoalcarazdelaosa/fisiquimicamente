@@ -173,7 +173,7 @@ Despejamos el **tiempo de vuelo** $t_\text{vuelo}$ (notar que únicamente nos qu
 $$
 t_\text{vuelo} = \frac{20\sin40^\circ\pm\sqrt{20^2\sin^240^\circ+294}}{9.8} = \begin{cases}
 	3.5\thinspace\mathrm s \\\\
-	\xcancel-0.9\thinspace\mathrm s}
+	\xcancel{-0.9\thinspace\mathrm s}
 \end{cases}
 $$
 
