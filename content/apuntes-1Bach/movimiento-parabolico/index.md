@@ -164,7 +164,7 @@ Vamos a escribir las **ecuaciones del movimiento**, por **componentes**:
 
 ---
 
-Lo primero que nos piden es la distancia a la que caerá el agua, o lo que es lo mismo, el \textsc{alcance}. Para ello necesitamos calcular primero el \textsc{tiempo de vuelo} $t_\text{vuelo}$, por lo que imponemos $y\mleft(t_\text{vuelo}\mright)=0$:
+Lo primero que nos piden es la distancia a la que caerá el agua, o lo que es lo mismo, el **alcance**. Para ello necesitamos calcular primero el \textsc{tiempo de vuelo} $t_\text{vuelo}$, por lo que imponemos $y\mleft(t_\text{vuelo}\mright)=0$:
 \[
 0 = 15 + 20\sin\SI{40}{\degree}\cdot t_\text{vuelo} - 4.9t_\text{vuelo}^2
 \]
