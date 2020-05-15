@@ -189,7 +189,7 @@ Para calcular la velocidad con la que llega al suelo, escribimos primero la **ec
 $$
 \begin{split}				
 \vec v(t) = v_x\ihat + v_y(t)\jhat &= \left(v_0\cos\alpha_0\right)\ihat + \left(v_0\sin\alpha_0 - gt\right)\jhat \\\\
-&= \left[\left(20\cos40^\circ\right)\ihat + \left(20\sin40^\circ-9.8t\right)\jhat\right]\,\si{\m/\s}
+&= \left[\left(20\cos 40^\circ\right)\ihat + \left(20\sin 40^\circ-9.8t\right)\jhat\right]\,\si{\m/\s}
 \end{split}			
 $$
 Sustituyendo el \textsc{tiempo de vuelo} obtenemos la \textsc{velocidad} con la que llega al suelo, $\vec v(t_\text{vuelo})$:
