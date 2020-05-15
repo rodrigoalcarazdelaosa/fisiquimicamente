@@ -159,22 +159,15 @@ $$
 y(t) = 120 - 5t + \frac{1}{2}\cdot (-9.8)\cdot t^2 = 120-5t-4.9t^2
 $$
 
-<ol type="a)">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
-
-\begin{enumerate}[label=\alph*)]
-	\item De la ecuación \eqref{eq:1} podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
-	\begin{gather*}
-		0 = 120 - 5t -4.9t^2 \\
-		4.9t^2+5t-120=0 \\
-		t = \frac{-5\pm \sqrt{5^2-4\cdot 4.9\cdot (-120)}}{2\cdot 4.9} = \frac{-5\pm \sqrt{2377}}{9.8} =  \begin{cases}
-	\SI{4.5}{\s} \\
-	\xcancel{\SI{-5.5}{\s}}
+a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
+\begin{gather*}
+	0 = 120 - 5t -4.9t^2 \\\\
+	4.9t^2+5t-120=0 \\\\
+	t = \frac{-5\pm \sqrt{5^2-4\cdot 4.9\cdot (-120)}}{2\cdot 4.9} = \frac{-5\pm \sqrt{2377}}{9.8} =  \begin{cases}
+\SI{4.5}{\s} \\\\
+\xcancel{\SI{-5.5}{\s}}
 \end{cases}
-	\end{gather*}
+\end{gather*}
 
 	\item Para calcular la velocidad con que choca contra el suelo podemos utilizar la ecuación \eqref{eq:2} o la \eqref{eq:v2}:
 	\begin{description}
