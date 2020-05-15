@@ -170,15 +170,16 @@ a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, 
 \end{gather*}
 
 b) Para calcular la velocidad con que choca contra el suelo podemos utilizar la ecuación (2) o la (3):
-\begin{description}
-	\item[Utilizando la ecuación \eqref{eq:2}] Sustituyendo el tiempo por el tiempo de llegada al suelo:
-	\[
+Utilizando la ecuación (2)
+: Sustituyendo el tiempo por el tiempo de llegada al suelo:
+	$$
 	v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = \SI{-48.8}{\m/\s}
-	\]
-	\item[Utilizando la ecuación \eqref{eq:v2}] Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = \SI{-120}{\m}$ e imponiendo el signo $-$ al despejar $v$:
+	$$
+
+Utilizando la ecuación (3)
+: Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = \SI{-120}{\m}$ e imponiendo el signo $-$ al despejar $v$:
 	\begin{gather*}
 		v^2-v_0^2 = 2a\Delta x \tag{3} \\
 		v = - \sqrt{v_0^2 + 2a\Delta x} = - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-250)} = - \SI{48.8}{\m/\s}
 	\end{gather*}
-\end{description}
 {{% /alert %}}
