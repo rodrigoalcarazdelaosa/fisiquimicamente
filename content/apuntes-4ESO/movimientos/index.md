@@ -128,6 +128,7 @@ $$
 ## Caída libre/lanzamiento vertical
 La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el que la aceleración es igual a la aceleración de la **gravedad**[^2]. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
 [^2]: Valores de la aceleración de la **gravedad** en los astros del Sistema Solar:
+
 	| Astro | $g$ | m/s^2 |
 	| --- | --- | --- |
 	| Sol | 28.02 | 274.8 |
