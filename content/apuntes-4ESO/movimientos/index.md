@@ -43,3 +43,5 @@ x(t) = x_0 + v(t-t_0),
 $$
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $t$ el tiempo final y $t_0$ el tiempo inicial.
+
+### Gráficas
