@@ -120,14 +120,8 @@ t_\text{vuelo} = \frac{v_0\sin\alpha_0\pm\sqrt{v_0^2\sin^2\alpha_0+2gh}}{g},
 $$
 donde nos quedamos únicamente con la opción positiva ($+$).
 
-% section tiempo_de_vuelo (end)
-
-\section{Alcance} % (fold)
-\label{sec:alcance}
-
-El \textsc{alcance} es la distancia horizontal que recorre el móvil\sidenote{El alcance máximo se obtiene para un ángulo $\alpha_0 = \SI{45}{\degree}$, teniendo el mismo valor para $\alpha_0 = \SI{45}{\degree}+a$ que para $\alpha_0 = \SI{45}{\degree}-a$.}. Se obtiene sustituyendo en la ecuación de la coordenada $x$ la expresión del tiempo de vuelo, es decir $\text{\textsc{alcance}} = x\mleft(t_\text{vuelo}\mright)$.
-
-% section alcance (end)
+## Alcance
+El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo para un ángulo $\alpha_0 = 45^\circ$, y teniendo el mismo valor para $\alpha_0 = \SI{45}{\degree}+a$ que para $\alpha_0 = \SI{45}{\degree}-a$. Se obtiene sustituyendo en la ecuación de la coordenada $x$ la expresión del tiempo de vuelo, es decir $\text{\textbf{alcance}} = x\mleft(t_\text{vuelo}\mright)$.
 
 \section{Altura máxima} % (fold)
 \label{sec:altura_maxima}
