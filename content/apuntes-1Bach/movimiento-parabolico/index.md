@@ -123,33 +123,19 @@ donde nos quedamos únicamente con la opción positiva ($+$).
 ## Alcance
 El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo para un ángulo $\alpha_0 = 45^\circ$, y teniendo el mismo valor para $\alpha_0 = 45^\circ+a$ que para $\alpha_0 = 45^\circ-a$. Se obtiene sustituyendo en la ecuación de la coordenada $x$ la expresión del tiempo de vuelo, es decir **alcance** $ = x(t_\text{vuelo})$.
 
-\section{Altura máxima} % (fold)
-\label{sec:altura_maxima}
+## Altura máxima
 
-La \textsc{altura máxima} $y_\text{máx}$ viene dada por la expresión\sidenote{Se alcanza cuando: \[
+La **altura máxima** $y_\text{máx}$ se alcanza cuando:
+$$
 v_y(t) = v_0\sin\alpha_0-gt = 0
-\]
+$$
 
-Despejando el tiempo:
-\[
-t = \frac{v_0\sin\alpha_0}{g}
-\]
+Despejando el tiempo $t=v_0\sin\alpha_0/g$ y sustituyendo en $y(t)$:
+$$
+y_\text{máx} = h+v_0\sin\alpha_0\cdot \frac{v_0\sin\alpha_0}{g}-\frac{1}{2}g\mleft(\frac{v_0\sin\alpha_0}{g}\mright)^2 = h+\frac{v_0^2\sin^2\alpha_0}{2g},
+$$		
 
-y sustituyendo en $y(t)$:
-\[
-\begin{split}
-y_\text{máx} &= h+v_0\sin\alpha_0\cdot \frac{v_0\sin\alpha_0}{g}-\frac{1}{2}g\mleft(\frac{v_0\sin\alpha_0}{g}\mright)^2 \\
-&= h+\frac{v_0^2\sin^2\alpha_0}{2g}
-\end{split}
-\]}:
-
-\[
-y_\text{máx} = h+ \frac{v_0^2\sin^2\alpha_0}{2g}
-\]
-
-, obteniéndose su valor máximo para $\alpha_0 = \SI{90}{\degree}$ (lanzamiento vertical).
-
-% section altura_maxima (end)
+obteniéndose su valor máximo para $\alpha_0 = \SI{90}{\degree}$ (lanzamiento vertical).
 
 \section{Ángulo de la trayectoria} % (fold)
 \label{sec:angulo_de_la_trayectoria}
