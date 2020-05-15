@@ -74,8 +74,8 @@ $$
 10.8\thinspace\mathrm m = 0 + v\cdot 90\thinspace\mathrm{min} \rightarrow v = 0.12\thinspace\mathrm{m/min}
 $$
 
-La distancia recorrida en \SI{5}{\minute} será por tanto:
-\[
-\Delta x (\SI{5}{\minute}) = x(\SI{5}{\minute}) - x_0 =  \SI[per-mode=symbol]{0.12}{\metre\per\cancel\minute} \cdot \SI{5}{\cancel\minute} = \SI{0.6}{\m}
-\]
+La distancia recorrida en $5\thinspace\mathrm{min}$ será por tanto:
+$$
+\Delta x (5\thinspace\mathrm{min}) = x(5\thinspace\mathrm{min}) - x_0 =  0.12\thinspace\mathrm{m/\cancel{min}} \cdot \SI{5}{\cancel\minute} = \SI{0.6}{\m}
+$$
 {{% /alert %}}
