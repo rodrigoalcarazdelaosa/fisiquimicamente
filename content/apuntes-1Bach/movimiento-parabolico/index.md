@@ -151,4 +151,5 @@ $$
 ---
 
 Lo primero hacemos un dibujo representando la situación:
+{{< figure src="tiro-parabolico-ejemplo.png" lightbox="true" >}}
 {{% /alert %}}
