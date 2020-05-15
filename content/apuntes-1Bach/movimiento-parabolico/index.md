@@ -79,3 +79,15 @@ v = \lvert\vec v\rvert = \sqrt{v_x^2+v_y^2}
 $$
 
 ## Ecuaciones del movimiento
+Para obtener las \textsc{ecuaciones del movimiento}, separamos el movimiento del proyectil en sus dos \textsc{componentes}, $x$ (horizontal) e $y$ (vertical):
+
+\begin{description}
+	\item[Componente $x$] En la dirección \textsc{horizontal} el proyectil describe un MRU, por lo que su \textsc{ecuación del movimiento} vendrá dada por:
+	\[
+	x(t) = x_0 + v_x t = 0 + v_0\cos\alpha_0\cdot t = v_0\cos\alpha_0\cdot t
+	\]
+	\item[Componente $y$] En la dirección \textsc{vertical} el proyectil describe un MRUV ($\vec g=-g\jhat$), por lo que su \textsc{ecuación del movimiento} vendrá dada por:
+	\[
+	y(t) = y_0 + v_{0y}t + \frac{1}{2}at^2 = h + v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2
+	\]
+\end{description}
