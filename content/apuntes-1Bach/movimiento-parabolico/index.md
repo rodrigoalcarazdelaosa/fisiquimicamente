@@ -187,9 +187,11 @@ $$
 
 Para calcular la velocidad con la que llega al suelo, escribimos primero la **ecuación de la velocidad**:
 $$
-\vec v(t) = v_x\ihat + v_y(t)\jhat = \left(v_0\cos\alpha_0\right)\ihat + \left(v_0\sin\alpha_0 - gt\right)\jhat = \left[\left(20\cos\SI{40}{\degree}\right)\ihat + \left(20\sin\SI{40}{\degree}-9.8t\right)\jhat\right]\,\si{\m/\s}
+\begin{split}				
+\vec v(t) = v_x\ihat + v_y(t)\jhat &= \left(v_0\cos\alpha_0\right)\ihat + \left(v_0\sin\alpha_0 - gt\right)\jhat \\
+&= \left[\left(20\cos\SI{40}{\degree}\right)\ihat + \left(20\sin\SI{40}{\degree}-9.8t\right)\jhat\right]\,\si{\m/\s}
+\end{split}			
 $$
-
 Sustituyendo el \textsc{tiempo de vuelo} obtenemos la \textsc{velocidad} con la que llega al suelo, $\vec v(t_\text{vuelo})$:
 \[
 \vec v(t_\text{vuelo}) = \left(20\cos\SI{40}{\degree}\right)\ihat + \left(20\sin\SI{40}{\degree}-9.8\cdot t_\text{vuelo}\right)\jhat = 15.3\ihat + \left(20\sin\SI{40}{\degree}-9.8\cdot 3.5\right)\jhat = \left(15.3\ihat - 21.4\jhat\right)\,\si{\m/\s}
