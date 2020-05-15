@@ -200,5 +200,5 @@ $$
 \end{split}
 $$
 
-, siendo el \textsc{módulo} $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = \SI{26.3}{\m/\s}$ (\textsc{teorema de Pitágoras}).
+siendo el **módulo** $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = 26.3\thinspace\mathrm{m/s}$ (**teorema de Pitágoras**).
 {{% /alert %}}
