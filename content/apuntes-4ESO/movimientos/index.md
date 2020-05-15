@@ -47,3 +47,4 @@ $$
 donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $t$ el tiempo final y $t_0$ el tiempo inicial.
 
 ### Gráficas
+{{< figure src="graficas-MRU.png" lightbox="true" >}}
