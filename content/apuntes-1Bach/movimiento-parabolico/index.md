@@ -137,10 +137,9 @@ $$
 
 obteniéndose su valor máximo para $\alpha_0 = 90^\circ$ (lanzamiento vertical).
 
-\section{Ángulo de la trayectoria} % (fold)
-\label{sec:angulo_de_la_trayectoria}
+## Ángulo de la trayectoria
 
-El \textsc{ángulo de la trayectoria} en un determinado punto coincide con el ángulo que el vector velocidad $\vec v$ forma con la horizontal en ese punto. Para su cálculo obtenemos las componentes $\vec v_x$ y $\vec v_y$ y gracias a la definición trigonométrica de tangente de un ángulo, calculamos $\alpha$:
-\[
-\tan \alpha = \frac{v_y}{v_x} \Rightarrow \alpha = \arctan\mleft(\frac{v_y}{v_x}\mright)
-\]
+El **ángulo de la trayectoria** en un determinado punto coincide con el ángulo que el vector velocidad $\vec v$ forma con la horizontal en ese punto. Para su cálculo obtenemos las componentes $\vec v_x$ y $\vec v_y$ y gracias a la definición trigonométrica de tangente de un ángulo, calculamos $\alpha$:
+$$
+\tan \alpha = \frac{v_y}{v_x} \Rightarrow \alpha = \arctan(\frac{v_y}{v_x})
+$$
