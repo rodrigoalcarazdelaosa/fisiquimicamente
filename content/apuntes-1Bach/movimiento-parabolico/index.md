@@ -146,5 +146,5 @@ $$
 
 ## Ejemplo resuelto
 {{% alert example %}}
-> Desde una ventana de una casa que está a \SI{15}{\m} de altura lanzamos un chorro de agua a \SI{20}{\m/\s} con un ángulo de \SI{40}{\degree}. Calcula la distancia a la que caerá el agua y la velocidad con la que llega.
+> Desde una ventana de una casa que está a $15\thinspace\mathrm{m}$ de altura lanzamos un chorro de agua a \SI{20}{\m/\s} con un ángulo de \SI{40}{\degree}. Calcula la distancia a la que caerá el agua y la velocidad con la que llega.
 {{% /alert %}}
