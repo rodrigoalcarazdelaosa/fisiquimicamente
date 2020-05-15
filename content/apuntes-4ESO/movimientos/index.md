@@ -159,6 +159,12 @@ $$
 y(t) = 120 - 5t + \frac{1}{2}\cdot (-9.8)\cdot t^2 = 120-5t-4.9t^2
 $$
 
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
 \begin{enumerate}[label=\alph*)]
 	\item De la ecuación \eqref{eq:1} podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
 	\begin{gather*}
