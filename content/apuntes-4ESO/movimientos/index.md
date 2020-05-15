@@ -132,3 +132,4 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el
 	| Astro | $g$ | $\mathrm{m/s^2}$ |
 	| --- | :---: | :---: |
 	| Sol | 28.02 | 274.8 |
+	| Júpiter | 2.53 | 24.8 |
