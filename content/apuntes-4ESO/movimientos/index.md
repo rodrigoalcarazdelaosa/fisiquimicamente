@@ -101,3 +101,34 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 
 ### Gráficas
 {{< figure src="graficas-MRUV.png" lightbox="true" >}}
+
+### Ejemplo
+{{% alert example %}}
+<br>
+
+> Un coche que circula a $70.2\thinspace\mathrm{km/h}$ disminuye su velocidad a razón de \SI{3}{\m/\s} cada segundo. ¿Qué distancia recorrerá hasta detenerse?
+
+---
+
+Escribimos la ecuación del movimiento del caracol:
+$$
+x(t) = x_0 + vt,
+$$
+donde $x = 10.8\thinspace\mathrm m$, $x_0 = 0$, $v$ es la velocidad del caracol (desconocida) y $t=1.5\thinspace\mathrm h$.
+
+Como nos preguntan la distancia que recorrerá, $\Delta x = x-x_0$, en $5\thinspace\mathrm{min}$, podemos pasar las $1.5\thinspace\mathrm h$ a minutos:
+
+$$
+1.5\thinspace\cancel{\mathrm h}\cdot \frac{60\thinspace\mathrm{min}}{1\thinspace\cancel{\mathrm h}} = 90\thinspace\mathrm{min}
+$$
+
+y así calcular la velocidad en m/min:
+$$
+10.8\thinspace\mathrm m = 0 + v\cdot 90\thinspace\mathrm{min} \rightarrow v = 0.12\thinspace\mathrm{m/min}
+$$
+
+La distancia recorrida en $5\thinspace\mathrm{min}$ será por tanto:
+$$
+\Delta x (5\thinspace\mathrm{min}) = x(5\thinspace\mathrm{min}) - x_0 =  0.12\thinspace\mathrm{m/\cancel{min}} \cdot 5\thinspace\cancel{\mathrm{min}} = 0.6\thinspace\mathrm m
+$$
+{{% /alert %}}
