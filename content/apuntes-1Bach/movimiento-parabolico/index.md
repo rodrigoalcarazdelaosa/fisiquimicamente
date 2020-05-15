@@ -161,4 +161,25 @@ Vamos a escribir las **ecuaciones del movimiento**, por **componentes**:
 	\text{Componente $y$}\rightarrow y(t) &= y_0 + v_{0y}t + \frac{1}{2}at^2 = h + v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2 \\\\
 	&= \left(15 + 20\sin40^\circ\cdot t - 4.9t^2\right)\thinspace\mathrm{m} 
 \end{align*}
+
+---
+
+	Lo primero que nos piden es la distancia a la que caerá el agua, o lo que es lo mismo, el \textsc{alcance}. Para ello necesitamos calcular primero el \textsc{tiempo de vuelo} $t_\text{vuelo}$, por lo que imponemos $y\mleft(t_\text{vuelo}\mright)=0$:
+	\[
+	0 = 15 + 20\sin\SI{40}{\degree}\cdot t_\text{vuelo} - 4.9t_\text{vuelo}^2
+	\]
+	
+	Despejamos el \textsc{tiempo de vuelo} $t_\text{vuelo}$ (notar que únicamente nos quedamos con la opción positiva):
+	\[
+	t_\text{vuelo} = \frac{20\sin\SI{40}{\degree}\pm\sqrt{20^2\sin^2\SI{40}{\degree}+294}}{9.8} = \begin{cases}
+		\SI{3.5}{\s} \\
+		\xcancel{\SI{-0.9}{\s}}
+	\end{cases}
+	\]
+	
+	Sustituyendo el \textsc{tiempo de vuelo} en la coordenada $x$ obtenemos el \textsc{alcance}:
+	
+	\[
+	\text{\textsc{alcance}} = x\mleft(t_\text{vuelo}\mright) = 20\cos\SI{40}{\degree}\cdot t_\text{vuelo} = 20\cos\SI{40}{\degree}\cdot 3.5 = \SI{53.6}{\m}
+	\]
 {{% /alert %}}
