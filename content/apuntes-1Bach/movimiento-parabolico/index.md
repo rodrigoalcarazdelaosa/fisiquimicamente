@@ -171,9 +171,9 @@ $$
 
 Despejamos el **tiempo de vuelo** $t_\text{vuelo}$ (notar que únicamente nos quedamos con la opción positiva):
 $$
-t_\text{vuelo} = \frac{20\sin\SI{40}{\degree}\pm\sqrt{20^2\sin^2\SI{40}{\degree}+294}}{9.8} = \begin{cases}
-	\SI{3.5}{\s} \\\\
-	\xcancel{\SI{-0.9}{\s}}
+t_\text{vuelo} = \frac{20\sin40^\circ\pm\sqrt{20^2\sin^240^\circ+294}}{9.8} = \begin{cases}
+	3.5\thinspace\mathrm s \\\\
+	\xcancel-0.9\thinspace\mathrm s}
 \end{cases}
 $$
 
