@@ -165,7 +165,7 @@ a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, 
 	4.9t^2+5t-120=0 \\\\
 	t = \frac{-5\pm \sqrt{5^2-4\cdot 4.9\cdot (-120)}}{2\cdot 4.9} = \frac{-5\pm \sqrt{2377}}{9.8} =  \begin{cases}
 4.5\thinspace\mathrm s \\\\
-\xcancel{\SI{-5.5}{\s}}
+\xcancel{-5.5\thinspace\mathrm s}
 \end{cases}
 \end{gather*}
 
