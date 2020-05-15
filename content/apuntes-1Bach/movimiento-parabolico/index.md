@@ -165,17 +165,17 @@ Vamos a escribir las **ecuaciones del movimiento**, por **componentes**:
 ---
 
 Lo primero que nos piden es la distancia a la que caerá el agua, o lo que es lo mismo, el **alcance**. Para ello necesitamos calcular primero el **tiempo de vuelo** $t_\text{vuelo}$, por lo que imponemos $y\left(t_\text{vuelo}\right)=0$:
-\[
-0 = 15 + 20\sin\SI{40}{\degree}\cdot t_\text{vuelo} - 4.9t_\text{vuelo}^2
-\]
+$$
+0 = 15 + 20\sin40^\circ\cdot t_\text{vuelo} - 4.9t_\text{vuelo}^2
+$$
 
-Despejamos el \textsc{tiempo de vuelo} $t_\text{vuelo}$ (notar que únicamente nos quedamos con la opción positiva):
-\[
+Despejamos el **tiempo de vuelo** $t_\text{vuelo}$ (notar que únicamente nos quedamos con la opción positiva):
+$$
 t_\text{vuelo} = \frac{20\sin\SI{40}{\degree}\pm\sqrt{20^2\sin^2\SI{40}{\degree}+294}}{9.8} = \begin{cases}
-	\SI{3.5}{\s} \\
+	\SI{3.5}{\s} \\\\
 	\xcancel{\SI{-0.9}{\s}}
 \end{cases}
-\]
+$$
 
 Sustituyendo el \textsc{tiempo de vuelo} en la coordenada $x$ obtenemos el \textsc{alcance}:
 
