@@ -154,10 +154,10 @@ Escribimos la **ecuación del movimiento** (1) de la piedra:
 $$
 y(t) = y_0 + v_0 t + \frac{1}{2}at^2, \tag{1}
 $$
-donde $y_0 = 120\thinspace\mathrm m$, $v_0 = \SI{-5}{\m/\s}$ (hacia abajo) y $a=-g=\SI{-9.8}{\m/\s\squared}$, de forma que la ecuación particularizada queda:
-\[
+donde $y_0 = 120\thinspace\mathrm m$, $v_0 = -5\thinspace\mathrm{m/s}$ (hacia abajo) y $a=-g=-9.8\thinspace\mathrm{m/s^2}$, de forma que la ecuación particularizada queda:
+$$
 y(t) = 120 - 5t + \frac{1}{2}\cdot (-9.8)\cdot t^2 = 120-5t-4.9t^2
-\]
+$$
 
 \begin{enumerate}[label=\alph*)]
 	\item De la ecuación \eqref{eq:1} podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
