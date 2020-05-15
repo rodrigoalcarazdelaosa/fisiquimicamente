@@ -29,6 +29,8 @@ links:
 slides: 
 ---
 
+{{% toc %}}
+
 ## Movimiento rectilíneo uniforme (MRU)
 Las **características** del **movimiento rectilíneo uniforme (MRU)** son:
 
