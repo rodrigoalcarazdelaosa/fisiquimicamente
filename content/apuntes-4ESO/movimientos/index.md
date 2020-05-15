@@ -178,7 +178,7 @@ Utilizando la ecuación (2)
 	$$
 
 Utilizando la ecuación (3)
-: Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = -120\thinspace\mathrm{m}$, e imponiendo el signo ($-$) al despejar $v$:
+: Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = -120\thinspace\mathrm{m}$, e imponiendo el signo $-$ al despejar $v$:
 	$$
 	v^2-v_0^2 = 2a\Delta x \tag{3}
 	$$
