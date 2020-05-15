@@ -69,7 +69,7 @@ $$
 1.5\thinspace\cancel{\mathrm h}\cdot \frac{60\thinspace\mathrm{min}}{1\thinspace\cancel{\mathrm h}} = 90\thinspace\mathrm{min}
 $$
 
-y así calcular la velocidad en \si{\m/\minute}:
+y así calcular la velocidad en m/min:
 \[
 \SI{10.8}{\m} = 0 + v\cdot \SI{90}{\minute} \rightarrow v = \SI{0.12}{\m/\minute}
 \]
