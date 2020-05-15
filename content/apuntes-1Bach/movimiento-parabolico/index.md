@@ -96,4 +96,4 @@ $$
 ### Ecuaciones vectoriales
 | Magnitud | Ecuación vectorial |
 | --- | --- |
-| Posición | $\displaystyle \vec r(t) = x(t)\ihat + y(t)\jhat =  \underbrace{\mleft(v_0\cos\alpha_0\cdot t\mright)}_{x(t)} \ihat + \underbrace{\mleft(h+v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2\mright)}_{y(t)}\jhat$ |
+| Posición | $$ \vec r(t) = x(t)\ihat + y(t)\jhat =  \underbrace{\mleft(v_0\cos\alpha_0\cdot t\mright)}_{x(t)} \ihat + \underbrace{\mleft(h+v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2\mright)}_{y(t)}\jhat$$ |
