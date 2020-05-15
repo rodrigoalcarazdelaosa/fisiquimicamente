@@ -174,7 +174,7 @@ b) Para calcular la velocidad con que choca contra el suelo podemos utilizar la 
 Utilizando la ecuación (2)
 : Sustituyendo el tiempo por el tiempo de llegada al suelo:
 	$$
-	v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = \SI{-48.8}{\m/\s}
+	v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = -48.8\thinspace\mathrm{m/s}
 	$$
 
 Utilizando la ecuación (3)
