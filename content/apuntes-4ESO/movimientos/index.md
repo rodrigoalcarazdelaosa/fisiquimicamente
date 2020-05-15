@@ -187,3 +187,5 @@ Utilizando la ecuación (3)
 	  &= -48.8\thinspace\mathrm{m/s}
 	\end{align*}
 {{% /alert %}}
+
+## Encuentros
