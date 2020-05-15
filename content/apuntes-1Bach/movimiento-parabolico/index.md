@@ -121,7 +121,7 @@ $$
 donde nos quedamos únicamente con la opción positiva ($+$).
 
 ## Alcance
-El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo para un ángulo $\alpha_0 = 45^\circ$, y teniendo el mismo valor para $\alpha_0 = 45^\circ+a$ que para $\alpha_0 = 45^\circ-a$. Se obtiene sustituyendo en la ecuación de la coordenada $x$ la expresión del tiempo de vuelo, es decir $\text{**alcance**} = x(t_\text{vuelo})$.
+El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo para un ángulo $\alpha_0 = 45^\circ$, y teniendo el mismo valor para $\alpha_0 = 45^\circ+a$ que para $\alpha_0 = 45^\circ-a$. Se obtiene sustituyendo en la ecuación de la coordenada $x$ la expresión del tiempo de vuelo, es decir $**alcance** = x(t_\text{vuelo})$.
 
 \section{Altura máxima} % (fold)
 \label{sec:altura_maxima}
