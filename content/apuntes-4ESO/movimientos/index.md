@@ -99,10 +99,5 @@ La **ecuaciones principales** del MRUV son:
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
 
-\subsection{Gráficas MRUV}
-
-\begin{figure*}[htbp]
-	\includegraphics[width=\textwidth]{graficas_MRUV.tikz}
-	%\caption{caption}
-	%\label{fig:label}
-\end{figure*}
+### Gráficas
+{{< figure src="graficas-MRUV.png" lightbox="true" >}}
