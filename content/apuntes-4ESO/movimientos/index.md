@@ -90,7 +90,7 @@ Las **características** del **movimiento rectilíneo uniformemente variado (MRU
 La **ecuaciones principales** del MRUV son:
 \begin{align*}
 	\label{eq:1}
-	\text{\textsc{ecuación de la posición: }} x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \tag{1} \\\\
+	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \tag{1} \\\\
 	\label{eq:2}
 	\text{\textsc{ecuación de la velocidad: }} v(t) &= v_0 + a(t-t_0) \tag{2} \\\\
 	\label{eq:v2}
