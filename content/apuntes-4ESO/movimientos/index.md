@@ -140,4 +140,15 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el
 	| Urano &#9797; | 0.89 | 8.7 |	
 	| Marte &#9794; | 0.38 | 3.7 |						
 	| Mercurio &#9791; | 0.38 | 3.7 |
-	| Luna :crescent_moon: | 0.17 | 1.6 |							
+	| Luna :crescent_moon: | 0.17 | 1.6 |
+
+### Ejemplo
+{{% alert example %}}
+<br>
+
+> Desde la azotea de un rascacielos de $120\thinspace\mathrm m$ de altura se lanza una piedra con velocidad de $5\thinspace\mathrm{m/s}$, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.
+
+---
+
+
+{{% /alert %}}
