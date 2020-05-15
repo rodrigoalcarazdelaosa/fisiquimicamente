@@ -54,4 +54,8 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $
 <br>
 
 > Un caracol recorre en línea recta una distancia de $10.8\thinspace\mathrm m$ en $1.5\thinspace\mathrm h$. ¿Qué distancia recorrerá en $5\thinspace\mathrm{min}$?
+
+---
+
+
 {{% /alert %}}
