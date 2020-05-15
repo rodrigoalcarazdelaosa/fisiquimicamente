@@ -170,6 +170,7 @@ a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, 
 \end{gather*}
 
 b) Para calcular la velocidad con que choca contra el suelo podemos utilizar la ecuación (2) o la (3):
+
 Utilizando la ecuación (2)
 : Sustituyendo el tiempo por el tiempo de llegada al suelo:
 	$$
