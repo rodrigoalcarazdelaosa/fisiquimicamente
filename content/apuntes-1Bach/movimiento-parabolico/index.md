@@ -77,3 +77,5 @@ Según el **teorema de Pitágoras**:
 $$
 v = \lvert\vec v\rvert = \sqrt{v_x^2+v_y^2}
 $$
+
+## Ecuaciones del movimiento
