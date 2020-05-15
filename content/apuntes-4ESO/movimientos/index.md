@@ -121,6 +121,6 @@ v^2-v_0^2 = 2a\Delta x, \tag{3}
 $$
 de donde despejo la distancia recorrida $\Delta x$:
 $$
-\Delta x = \frac{v^2-v_0^2}{2a} = \frac{0^2-19.5^2}{2\cdot (-3)} = \SI{63.375}{\m}
+\Delta x = \frac{v^2-v_0^2}{2a} = \frac{0^2-19.5^2}{2\cdot (-3)} = 63.375\thinspace\mathrm m
 $$
 {{% /alert %}}
