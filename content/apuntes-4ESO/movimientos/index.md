@@ -63,7 +63,7 @@ x(t) = x_0 + vt,
 $$
 donde $x = 10.8\thinspace\mathrm m$, $x_0 = 0$, $v$ es la velocidad del caracol (desconocida) y $t=1.5\thinspace\mathrm h$.
 
-Como nos preguntan la distancia que recorrerá, $\Delta x = x-x_0$, en \SI{5}{\minute}, podemos pasar las \SI{1.5}{\hour} a minutos:
+Como nos preguntan la distancia que recorrerá, $\Delta x = x-x_0$, en $5\thinspace\mathrm{min}$, podemos pasar las $1.5\thinspace\mathrm h$ a minutos:
 
 \[
 \SI{1.5}{\cancel\hour}\cdot \frac{\SI{60}{\minute}}{\SI{1}{\cancel\hour}} = \SI{90}{\minute}
