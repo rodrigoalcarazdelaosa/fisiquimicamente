@@ -112,7 +112,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 
 Lo primero pasamos la **velocidad inicial** $v_0$ a m/s:
 $$
-v_0 = 70.2\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}}\cdot \frac{1000\thinspace\mathrm m}{\thinspace\cancel{\mathrm{km}}} \cdot \frac{\SI{1}{\cancel\hour}}{\SI{3600}{\s}} = \SI{19.5}{\m/\s}
+v_0 = 70.2\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}}\cdot \frac{1000\thinspace\mathrm m}{\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm h}}{\SI{3600}{\s}} = \SI{19.5}{\m/\s}
 $$
 
 La frase ``\emph{disminuye su velocidad a razón de \SI{3}{\m/\s} cada segundo}'' la tenemos que interpretar como que su \textsc{aceleración} $a=\SI{-3}{\m/\s\squared}$ (el signo $-$ es porque su velocidad disminuye, y la velocidad la tomamos positiva). Como no me dan información sobre tiempo ni me piden ningún tiempo (sino distancia recorrida $\Delta x$), utilizo la ecuación \eqref{eq:v2}:
