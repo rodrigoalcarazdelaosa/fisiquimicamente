@@ -130,5 +130,5 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el
 [^2]: Valores de la aceleración de la **gravedad** en los astros del Sistema Solar:
 
 	| Astro | $g$ | m/s^2 |
-	| --- | --- | --- |
+	| --- | :---: | :---: |
 	| Sol | 28.02 | 274.8 |
