@@ -140,4 +140,4 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el
 	| Urano &#9797; | 2.53 | 24.8 |	
 	| Marte &#9794; | 2.53 | 24.8 |						
 	| Mercurio &#9791; | 2.53 | 24.8 |
-	| Luna :full_moon: | 2.53 | 24.8 |							
+	| Luna :crescent_moon: | 2.53 | 24.8 |							
