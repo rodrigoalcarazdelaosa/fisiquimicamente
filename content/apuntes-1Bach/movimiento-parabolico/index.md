@@ -143,3 +143,8 @@ El **ángulo de la trayectoria** en un determinado punto coincide con el ángulo
 $$
 \tan \alpha = \frac{v_y}{v_x} \Rightarrow \alpha = \arctan\left(\frac{v_y}{v_x}\right)
 $$
+
+## Ejemplo resuelto
+{{% alert example %}}
+Hola
+{{% /alert %}}
