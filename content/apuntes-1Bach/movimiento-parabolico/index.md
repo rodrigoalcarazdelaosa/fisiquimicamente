@@ -97,4 +97,4 @@ $$
 | Magnitud | Ecuación vectorial |
 | --- | --- |
 | Posición | $\vec r(t) = x(t)\ihat + y(t)\jhat =  (v_0\cos\alpha_0\cdot t) \ihat + (h+v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2)\jhat$ |
-| Velocidad | $\vec v(t) = v_x\ihat + v_y(t)\jhat =  \underbrace{\mleft(v_0\cos\alpha_0\mright)}_{v_x}\ihat + \underbrace{\mleft(v_0\sin\alpha_0-gt\mright)}_{v_y(t)}\jhat$ |
+| Velocidad | $\vec v(t) = v_x\ihat + v_y(t)\jhat =  (v_0\cos\alpha_0)\ihat + (v_0\sin\alpha_0-gt\jhat$ |
