@@ -48,3 +48,10 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $
 
 ### Gráficas
 {{< figure src="graficas-MRU.png" lightbox="true" >}}
+
+### Ejemplo
+{{% alert example %}}
+<br>
+
+> Un caracol recorre en línea recta una distancia de \SI{10.8}{\m} en \SI{1.5}{\hour}. ¿Qué distancia recorrerá en \SI{5}{\minute}?
+{{% /alert %}}
