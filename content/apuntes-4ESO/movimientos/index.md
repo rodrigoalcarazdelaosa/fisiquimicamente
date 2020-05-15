@@ -133,3 +133,9 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el
 	| --- | :---: | :---: |
 	| Sol | 28.02 | 274.8 |
 	| Júpiter &#9795; | 2.53 | 24.8 |
+	| Júpiter &#9795; | 2.53 | 24.8 |
+	| Júpiter &#9795; | 2.53 | 24.8 |
+	| Júpiter &#9795; | 2.53 | 24.8 |
+	| Júpiter &#9795; | 2.53 | 24.8 |
+	| Júpiter &#9795; | 2.53 | 24.8 |	
+	| Júpiter &#9795; | 2.53 | 24.8 |						
