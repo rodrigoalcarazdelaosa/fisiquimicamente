@@ -29,4 +29,4 @@ links:
 slides: 
 ---
 
-
+## Movimiento rectilíneo uniforme (MRU)
