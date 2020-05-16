@@ -8,14 +8,8 @@ $example_fg: #5A6309;
 $example_bg: #fbfde9;
 
 body {
-	width: 87.5%;
-	margin-left: auto;
-	margin-right: auto;
-	padding-left: 12.5%;
-	color: #111111;
-	background-color: #fffff8; 
-	max-width: 1400px;
-	counter-reset: sidenote-counter; }
+  color: #111111;
+  background-color: #fffff8; }
 
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
