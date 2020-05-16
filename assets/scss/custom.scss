@@ -13,7 +13,9 @@ body {
 	margin-right: auto;
 	padding-left: 12.5%;
   color: #111111;
-  background-color: #fffff8; }
+  background-color: #fffff8; 
+  max-width: 1400px;
+      counter-reset: sidenote-counter; }
 
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
