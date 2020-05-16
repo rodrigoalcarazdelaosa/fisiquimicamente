@@ -187,5 +187,5 @@ Utilizando la ecuación (3)
 	  &= -48.8\thinspace\mathrm{m/s}
 	\end{align*}
 	
-{{< figure src="caida-libre.jpg" lightbox="true" >}}	
+{{< figure src="caida-libre.png" lightbox="true" >}}	
 {{% /alert %}}
