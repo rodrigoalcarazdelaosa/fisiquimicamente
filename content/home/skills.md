@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "Apuntes de Física y Química"
+  name = "Apuntes"
   description = "90%"
   
 [[feature]]
@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "hands-helping"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Tutoriales"
   description = "10%"
 
 +++
