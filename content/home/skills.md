@@ -27,8 +27,8 @@ subtitle = ""
   description = "[Exámenes](recursos-ebau/#examenes-fisica) | [Consejos](recursos-ebau/#consejos)"
   
 [[feature]]
-  icon = "hands-helping"
-  icon_pack = "fas"
+  icon = "🤝"
+  icon_pack = "emoji"
   name = "[Tutoriales](tutoriales/)"
   description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
   
