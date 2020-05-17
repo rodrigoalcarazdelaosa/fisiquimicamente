@@ -87,7 +87,7 @@
 
 [[main]]
   name = "Sobre mí"
-  url = "acerca/"
+  url = "sobre-mi/"
   weight = 6
 
 [[main]]
