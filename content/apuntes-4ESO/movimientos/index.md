@@ -191,3 +191,12 @@ Utilizando la ecuación (3)
 {{% /alert %}}
 
 ## Encuentros
+Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un MRU o un MRUV, comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
+
+Seguimos estos \underline{3 \textsc{pasos}}:
+
+\begin{enumerate}
+	{\color{TOL_blue}\item \textbf{Escribir} las \textsc{ecuaciones de la posición} de cada cuerpo.}
+	{\color{TOL_red}\item \textbf{Imponer} la condición de \textsc{encuentro}, es decir, que ambas posiciones coinciden cuando se encuentran ($x_\mathrm A = x_\mathrm B$).}
+	{\color{TOL_green}\item \textsc{\textbf{Despejar}} la magnitud que me pidan.}
+\end{enumerate}
