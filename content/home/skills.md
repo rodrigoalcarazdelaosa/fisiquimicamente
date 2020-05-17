@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Físquicamente con Rodri"
-subtitle = "hola"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -17,7 +17,7 @@ subtitle = "hola"
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Apuntes](apuntes/)"
+  name = "[Apuntes de Física y Química](apuntes/)"
   description = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) | [1º Bach](apuntes/#primero-bach) | [2º Bach](apuntes/#segundo-bach)"
   
 [[feature]]
