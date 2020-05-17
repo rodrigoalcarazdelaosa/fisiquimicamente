@@ -85,10 +85,14 @@ $$
 
 ## Movimiento rectilíneo uniformemente variado (MRUV)
 
+### Características
+
 Las **características** del **movimiento rectilíneo uniformemente variado (MRUV)** son:
 
 - Trayectoria rectilínea.
 - Aceleración $a$ constante (velocidad $v$ variable).
+
+### Ecuaciones principales
 
 La **ecuaciones principales** del MRUV son:
 \begin{align*}
