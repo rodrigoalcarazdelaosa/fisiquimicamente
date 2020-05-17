@@ -21,9 +21,9 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "pencil-alt"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Recursos EBAU"
   description = "100%"  
   
 [[feature]]
