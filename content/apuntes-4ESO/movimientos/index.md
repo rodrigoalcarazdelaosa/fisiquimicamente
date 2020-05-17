@@ -258,6 +258,6 @@ donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mat
 
 b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^*=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
 	$$
-	x_\mathrm c (t^*) = t^{*2}-12t^*+36 = 22.4^2-12\cdot 22.4 + 36 = \SI{268.7}{\m} = x_\mathrm t (t^*) = 12\cdot 22.4
+	x_\mathrm c (t^*) = t^{*2}-12t^*+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
 	$$
 {{% /alert %}}
