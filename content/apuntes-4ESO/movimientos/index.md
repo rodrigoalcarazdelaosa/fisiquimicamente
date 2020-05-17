@@ -286,15 +286,14 @@ $$
 
 donde $\varphi$ es la posición angular final, $\varphi_0$ la posición angular inicial, $\omega$ la frecuencia o velocidad angular, $t$ el tiempo final y $t_0$ el tiempo inicial.
 
-\newpage
+Periodo $T$
+: El tiempo que tarda el móvil en completar una vuelta completa se llama \textsc{periodo}, $T$.
 
-\begin{description}
-	\item[Periodo $T$] El tiempo que tarda el móvil en completar una vuelta completa se llama \textsc{periodo}, $T$.
-	\item[Frecuencia $f$] El número de vueltas que da el móvil en \SI{1}{\s} es la \textsc{frecuencia}, $f$, y está relacionada con el periodo:
-	\[
-	f = \frac{1}{T}\, \mleft[\frac{1}{\si{\s}} = \si{\s^{-1}} = \si{Hz}\mright]
-	\]
-\end{description}
+Frecuencia $f$
+: El número de vueltas que da el móvil en \SI{1}{\s} es la \textsc{frecuencia}, $f$, y está relacionada con el periodo:
+	$$
+	f = \frac{1}{T}\, \left[\frac{1}{\si{\s}} = \si{\s^{-1}} = \si{Hz}\right]
+	$$
 
 La frecuencia o velocidad angular, $\omega$, está relacionada con el periodo y la frecuencia a través de las expresiones:
 \[
