@@ -33,6 +33,6 @@ Las entradas de este blog van dirigidas a mis alumn@s y a todo aquel que tenga c
 
 ## ¿Cómo puedes participar?
 
-En todas las entradas del [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) así como en los [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes dejarme __comentarios__. Además, desde la sección de [<span style="font-variant:small-caps;">**contacto**</span>]({{< ref "/contacto" >}}) puedes escribirme bien utilizando el [formulario]({{< ref "/contacto" >}}), bien escribiéndome directamente un [correo electrónico](mailto:rodri.alcaraz@gmail.com) o bien desde [Twitter](https://twitter.com/alcarazr).
+En todas las entradas del [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) así como en los [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes dejarme __comentarios__. Además, puedes escribirme bien utilizando el [formulario]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [correo electrónico](mailto:rodri.alcaraz@gmail.com) o bien desde [Twitter](https://twitter.com/alcarazr).
 
 Espero que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amig@.
