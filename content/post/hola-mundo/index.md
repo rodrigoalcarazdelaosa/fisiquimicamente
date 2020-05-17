@@ -15,7 +15,7 @@ Desde 2018 soy profesor de Física y Química en el [IES Ría San Martín de Can
 
 ## ¿Por qué este blog?
 
-Mi intención principal con este sitio web es la de proporcionar [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química (nivel desde [2º ESO](/apuntes/#segundo-eso) hasta [2º Bach](/apuntes/#segundo-bach)) y [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) a mis alumn@s y a quien pueda interesarle, además de compartir [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
+Mi intención principal con este sitio web es la de proporcionar [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química (nivel desde [2º ESO](/apuntes/#segundo-eso) hasta [2º Bach](/apuntes/#segundo-bach)) y [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}}) a mis alumn@s y a quien pueda interesarle, además de compartir [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
 
 Creo que un [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) es el añadido perfecto para poder debatir sobre la **actualidad** con un contenido mucho más dinámico.
 
