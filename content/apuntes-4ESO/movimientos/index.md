@@ -195,9 +195,9 @@ Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un 
 
 Seguimos estos **tres pasos**:
 
-1. <span style="color:#1965B0">**Escribir** las **ecuaciones de la posición** de cada cuerpo.</span>
-2. <span style="color:#B0332A">**Imponer** la condición de **encuentro**, es decir, que ambas posiciones coinciden cuando se encuentran ($x_\mathrm A = x_\mathrm B$).</span>
-3. <span style="color:#5A6309">**Despejar** la magnitud que me pidan.</span>
+1. **Escribir** las **ecuaciones de la posición** de cada cuerpo.
+2. **Imponer** la condición de **encuentro**, es decir, que ambas posiciones coinciden cuando se encuentran ($x_\mathrm A = x_\mathrm B$).
+3. **Despejar** la magnitud que me pidan.
 
 ### Ejemplo
 {{% alert example %}}
@@ -213,7 +213,7 @@ c) La rapidez del coche en el instante que alcanza al tren.
 a) Lo primero que hacemos es <span style="color:#1965B0">escribir las **ecuaciones del movimiento** de cada móvil</span>:
 
 \begin{align*}
-	{\color{blue}\text{Coche (MRUV): } x_\mathrm c &= x_{0\mathrm c} + v_{0\mathrm c}(t-t_{0\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0\mathrm c})^2} \\\\
+	\text{Coche (MRUV): } x_\mathrm c &= x_{0\mathrm c} + v_{0\mathrm c}(t-t_{0\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0\mathrm c})^2 \\\\
 	\text{Tren (MRU): } x_\mathrm t &= x_{0\mathrm t} + v_\mathrm t(t-t_{0\mathrm t})
 \end{align*}
 
