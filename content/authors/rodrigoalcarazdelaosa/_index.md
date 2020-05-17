@@ -24,7 +24,7 @@ interests:
 - Viajar ✈️
 - Música 🎸
 - Videojuegos 🎮
-- _Fotones_
+- _Fotones_ ⚛️
 
 education:
   courses:
