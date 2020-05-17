@@ -30,6 +30,6 @@ subtitle = ""
   icon = "hands-helping"
   icon_pack = "fas"
   name = "[Tutoriales](tutoriales/)"
-  description = "[$\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
+  description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
 
 +++
