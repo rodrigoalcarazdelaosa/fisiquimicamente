@@ -134,7 +134,7 @@ height = "calc(100vh - 70px)"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Ir a CONTACTO"
-  cta_url = "contacto/"
+  cta_url = "#contacto"
   cta_icon_pack = "fas"
   cta_icon = "envelope"
     
