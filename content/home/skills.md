@@ -41,7 +41,7 @@ subtitle = ""
 [[feature]]
   icon = "blog"
   icon_pack = "fas"
-  name = "[Blog](blog/)"
+  name = "[Blog](post/)"
   description = ""  
 
 +++
