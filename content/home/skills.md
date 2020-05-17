@@ -23,8 +23,8 @@ subtitle = ""
 [[feature]]
   icon = "pencil-alt"
   icon_pack = "fas"
-  name = "Recursos EBAU"
-  description = "100%"  
+  name = "[Recursos EBAU](ebau/)"
+  description = "[Exámenes](ebau/#examenes-fisica) | [Consejos](ebau/#consejos)"
   
 [[feature]]
   icon = "hands-helping"
