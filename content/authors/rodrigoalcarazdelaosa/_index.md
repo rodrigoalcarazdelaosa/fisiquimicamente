@@ -22,7 +22,7 @@ bio: Soy profesor de Física y Química en el [IES Ría San Martín](http://port
 
 interests:
 - Viajar
-- Música
+- Música 🎸
 - Videojuegos
 - _Fotones_
 
