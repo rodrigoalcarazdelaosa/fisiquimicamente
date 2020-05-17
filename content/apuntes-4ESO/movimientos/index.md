@@ -203,6 +203,6 @@ Seguimos estos **tres pasos**:
 {{% alert example %}}
 <br>
 
-> Desde la azotea de un rascacielos de $120\thinspace\mathrm m$ de altura se lanza una piedra con velocidad de $5\thinspace\mathrm{m/s}$, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.
+> Un coche se desplaza por una carretera que es paralela a la vía de un tren. El coche se detiene ante un semáforo que está con luz roja en el mismo instante que pasa un tren con una rapidez constante de $12\thinspace\mathrm{m/s}$. El coche permanece detenido durante \SI{6}{\s} y luego arranca con una aceleración constante de \SI{2}{\m/\s\squared}. Determinar:
 
 {{% /alert %}}
