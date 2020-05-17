@@ -37,5 +37,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "[Enlaces de interés](enlaces-interes/)"
   description = "[Recursos online](enlaces-interes/#recursos-online) | [Páginas amigas](enlaces-interes/#paginas-amigas)"
+  
+[[feature]]
+  icon = "blog"
+  icon_pack = "fas"
+  name = "[Blog](blog/)"
+  description = ""  
 
 +++
