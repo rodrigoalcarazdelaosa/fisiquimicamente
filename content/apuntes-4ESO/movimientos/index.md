@@ -203,6 +203,6 @@ Seguimos estos **tres pasos**:
 {{% alert example %}}
 <br>
 
-> Un coche se desplaza por una carretera que es paralela a la vía de un tren. El coche se detiene ante un semáforo que está con luz roja en el mismo instante que pasa un tren con una rapidez constante de $12\thinspace\mathrm{m/s}$. El coche permanece detenido durante \SI{6}{\s} y luego arranca con una aceleración constante de \SI{2}{\m/\s\squared}. Determinar:
+> Un coche se desplaza por una carretera que es paralela a la vía de un tren. El coche se detiene ante un semáforo que está con luz roja en el mismo instante que pasa un tren con una rapidez constante de $12\thinspace\mathrm{m/s}$. El coche permanece detenido durante $6\thinspace\mathrm s$ y luego arranca con una aceleración constante de $2\thinspace\mathrm{m/s^2}$. Determinar:
 
 {{% /alert %}}
