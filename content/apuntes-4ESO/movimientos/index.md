@@ -322,9 +322,9 @@ $$
 
 ---
 
-b) Utilizamos la relación entre las velocidades lineal y angular, con $R=\SI{30}{\centi\meter} = \SI{0.3}{\meter}$:
-		\[
-		v = \omega R = \SI{3\pi}{\radian/\s}\cdot \SI{0.3}{\meter} = \SI{0.9\pi}{\meter/\second} \approx \SI{2.8}{\meter/\second}
-		\]
+b) Utilizamos la relación entre las velocidades lineal y angular, con $R=30\thinspace\mathrm{cm} = 0.3\thinspace\mathrm{m}$:
+$$
+v = \omega R = 3\pi\thinspace\mathrm{rad/s}\cdot 0.3\thinspace\mathrm{m} = 0.9\pi\thinspace\mathrm{m/s} \approx 2.8\thinspace\mathrm{m/s}
+$$
 
 {{% /alert %}}
