@@ -243,8 +243,8 @@ Despejamos el **tiempo de encuentro** $t^*$:
 
 $$
 t^* = \frac{24\pm\sqrt{24^2-4\cdot 1\cdot 36}}{2} = \frac{24\pm \sqrt{432}}{2} =  \begin{cases}
-	\SI{22.4}{\s} \\\\
-	\xcancel{\SI{1.6}{\s}}
+	22.4\thinspace\mathrm s \\\\
+	\xcancel{1.6\thinspace\mathrm s}
 \end{cases}
 $$
 
