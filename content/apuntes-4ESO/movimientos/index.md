@@ -248,8 +248,6 @@ t^* = \frac{24\pm\sqrt{24^2-4\cdot 1\cdot 36}}{2} = \frac{24\pm \sqrt{432}}{2} =
 \end{cases}
 $$
 
-donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los $6\thinspace\mathrm s$ que está parado el coche en el semáforo.
-
-Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
+donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los $6\thinspace\mathrm s$ que está parado el coche en el semáforo. Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
 
 {{% /alert %}}
