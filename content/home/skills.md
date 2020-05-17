@@ -42,6 +42,12 @@ subtitle = ""
   icon = "blog"
   icon_pack = "fas"
   name = "[Blog](post/)"
-  description = ""  
+  description = ""
+  
+[[feature]]
+  icon = "address-card"
+  icon_pack = "fas"
+  name = "[Sobre mí](acerca/)"
+  description = ""    
 
 +++
