@@ -257,7 +257,16 @@ donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mat
 ---
 
 b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^*=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
-	$$
-	x_\mathrm c (t^*) = t^{*2}-12t^*+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
-	$$
+
+$$
+x_\mathrm c (t^*) = t^{*2}-12t^*+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
+$$
+	
+---
+
+c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^*$:
+
+$$
+v_\mathrm c(t^*) = v_{0\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = \SI{32.8}{\m/\s}
+$$	
 {{% /alert %}}
