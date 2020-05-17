@@ -36,7 +36,7 @@ height = "calc(100vh - 70px)"
   
 [[item]]
   title = "Recursos EBAU"
-  content = "[Exámenes](ebau/#examenes-fisica) | [Consejos](ebau/#consejos)"
+  content = "[Exámenes](recursos-ebau/#examenes-fisica) | [Consejos](recursos-ebau/#consejos)"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -49,7 +49,7 @@ height = "calc(100vh - 70px)"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Ir a EBAU"
-  cta_url = "ebau/"
+  cta_url = "recursos-ebau/"
   cta_icon_pack = "fas"
   cta_icon = "pencil-alt"
 
