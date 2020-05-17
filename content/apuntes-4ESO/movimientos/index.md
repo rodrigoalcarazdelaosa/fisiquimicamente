@@ -198,3 +198,11 @@ Seguimos estos **tres pasos**:
 1. <span style="color:#1965B0">**Escribir** las **ecuaciones de la posición** de cada cuerpo.</span>
 2. <span style="color:#B0332A">**Imponer** la condición de **encuentro**, es decir, que ambas posiciones coinciden cuando se encuentran ($x_\mathrm A = x_\mathrm B$).</span>
 3. <span style="color:#5A6309">**Despejar** la magnitud que me pidan.</span>
+
+### Ejemplo
+{{% alert example %}}
+<br>
+
+> Desde la azotea de un rascacielos de $120\thinspace\mathrm m$ de altura se lanza una piedra con velocidad de $5\thinspace\mathrm{m/s}$, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.
+
+{{% /alert %}}
