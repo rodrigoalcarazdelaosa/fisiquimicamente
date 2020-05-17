@@ -320,4 +320,11 @@ $$
 \omega = 90\thinspace\mathrm{rpm} = 90\thinspace\frac{\cancel{\mathrm{rev}}}{\cancel{\mathrm{min}}} \cdot \frac{2\pi\thinspace\mathrm{rad}}{1\thinspace\cancel{\mathrm{rev}}} \cdot \frac{1\thinspace\cancel{\mathrm{min}}}{60\thinspace\mathrm{s}} = 3\pi\thinspace\mathrm{rad/s} \approx 9.4\thinspace\mathrm{rad/s}
 $$
 
+---
+
+b) Utilizamos la relación entre las velocidades lineal y angular, con $R=\SI{30}{\centi\meter} = \SI{0.3}{\meter}$:
+		\[
+		v = \omega R = \SI{3\pi}{\radian/\s}\cdot \SI{0.3}{\meter} = \SI{0.9\pi}{\meter/\second} \approx \SI{2.8}{\meter/\second}
+		\]
+
 {{% /alert %}}
