@@ -292,7 +292,7 @@ Periodo $T$
 Frecuencia $f$
 : El número de vueltas que da el móvil en $1\thinspace\mathrm s$ es la **frecuencia**, $f$, y está relacionada con el periodo:
 	$$
-	f = \frac{1}{T}\, \left[\frac{1}{\mathrm{s}} = \mathrm{s^{-1}} = \mathrm{Hz}\right]
+	f = \frac{1}{T}\thinspace \left[\frac{1}{\mathrm{s}} = \mathrm{s^{-1}} = \mathrm{Hz}\right]
 	$$
 
 La frecuencia o velocidad angular, $\omega$, está relacionada con el periodo y la frecuencia a través de las expresiones:
