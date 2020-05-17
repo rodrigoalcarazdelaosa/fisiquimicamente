@@ -239,4 +239,12 @@ t^2-12t+36 &= 12t \\\\
 t^2-24t+36 &= 0
 \end{align*}
 
+Despejamos el **tiempo de encuentro** $t^*$:
+$$
+t^* = \frac{24\pm\sqrt{24^2-4\cdot 1\cdot 36}}{2} = \frac{24\pm \sqrt{432}}{2} =  \begin{cases}
+	\SI{22.4}{\s} \\
+	\xcancel{\SI{1.6}{\s}}
+\end{cases}
+$$
+
 {{% /alert %}}
