@@ -225,4 +225,9 @@ a_\mathrm c = 2\thinspace\mathrm{m/s^2} \\\\
 t_{0\mathrm c}=6\thinspace\mathrm s;\quad t_{0\mathrm t} = 0
 \end{gather*}
 
+\begin{align*}
+	\text{Coche (MRUV): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 = (t-6)^2 = t^2-12t+36 \\
+	\text{Tren (MRU): } x_\mathrm t &= 0 + 12\cdot(t-0) = 12t
+\end{align*}
+
 {{% /alert %}}
