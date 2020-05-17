@@ -193,7 +193,7 @@ Utilizando la ecuación (3)
 ## Encuentros
 Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un MRU o un MRUV, comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
 
-Seguimos estos \underline{3 \textsc{pasos}}:
+Seguimos estos **tres pasos**:
 
 \begin{enumerate}
 	{\color{TOL_blue}\item \textbf{Escribir} las \textsc{ecuaciones de la posición} de cada cuerpo.}
