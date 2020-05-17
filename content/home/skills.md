@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Físquicamente con Rodri"
-subtitle = "hola"
+subtitle = "hola 📚"
 
 # Showcase personal skills or business features.
 # 
