@@ -337,7 +337,7 @@ donde $\varphi_0 = 0$, $\omega = 90\thinspace\mathrm{rpm}$ y $t_0 = 0$, es decir
 $$
 \varphi(t) = 90t\thinspace[\mathrm{rev}]
 $$
-Sustituyendo el tiempo por $t=5\thinspace\mathrm{min}$, obtenemos el espacio angular en vueltas:
+Sustituyendo el tiempo por $t=5\thinspace\mathrm{min}$, obtenemos el espacio angular en vueltas (rev):
 $$
 \varphi(5\thinspace\mathrm{min}) = 90\thinspace\mathrm{rev/\cancel{min}}\cdot 5\thinspace\cancel{\mathrm{min}} = 450\thinspace\mathrm{rev}
 $$
