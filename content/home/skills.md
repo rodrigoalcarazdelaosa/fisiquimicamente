@@ -47,7 +47,7 @@ subtitle = ""
 [[feature]]
   icon = "address-card"
   icon_pack = "fas"
-  name = "[Sobre mí](acerca/)"
+  name = "[Sobre mí](sobre-mi/)"
   description = ""    
 
 +++
