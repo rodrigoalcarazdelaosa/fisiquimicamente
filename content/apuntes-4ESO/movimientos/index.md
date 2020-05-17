@@ -272,3 +272,42 @@ $$
 {{% /alert %}}
 
 ## Movimiento circular uniforme (MCU)
+Las **características** del **movimiento circular uniforme (MCU)** son:
+
+- Trayectoria circular.
+- Módulo de la velocidad constante (aceleración tangencial $a_\mathrm t=0$).
+
+\begin{marginfigure}
+	\centering
+		\includegraphics[width=\textwidth]{MCU}
+	% \caption{caption}
+	% \label{fig:MCU}
+\end{marginfigure}
+
+La \textsc{ecuación principal} del MCU es:
+\[
+\varphi(t) = \varphi_0 + \omega (t-t_0),
+\]
+
+donde $\varphi$ es la posición angular final, $\varphi_0$ la posición angular inicial, $\omega$ la frecuencia o velocidad angular, $t$ el tiempo final y $t_0$ el tiempo inicial.
+
+\newpage
+
+\begin{description}
+	\item[Periodo $T$] El tiempo que tarda el móvil en completar una vuelta completa se llama \textsc{periodo}, $T$.
+	\item[Frecuencia $f$] El número de vueltas que da el móvil en \SI{1}{\s} es la \textsc{frecuencia}, $f$, y está relacionada con el periodo:
+	\[
+	f = \frac{1}{T}\, \mleft[\frac{1}{\si{\s}} = \si{\s^{-1}} = \si{Hz}\mright]
+	\]
+\end{description}
+
+La frecuencia o velocidad angular, $\omega$, está relacionada con el periodo y la frecuencia a través de las expresiones:
+\[
+	\omega = \frac{\Delta \omega}{\Delta t} = \frac{2\pi}{T} = 2\pi f
+\]
+
+Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
+\begin{align*}
+	e &= \varphi R \\
+	v &= \omega R
+\end{align*}
