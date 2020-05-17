@@ -270,3 +270,5 @@ $$
 v_\mathrm c(t^*) = v_{0\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
 $$	
 {{% /alert %}}
+
+## MCU
