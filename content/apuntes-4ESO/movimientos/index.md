@@ -316,4 +316,8 @@ Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 
 a) Utilizamos factores de conversión:
 
+$$
+\omega = 90\thinspace\mathrm{rpm} =  \SI[per-mode=fraction]{90}{\cancel \rev\per\cancel\minute}\cdot \frac{\SI{2\pi}{\radian}}{\SI{1}{\cancel\rev}} \cdot \frac{\SI{1}{\cancel\minute}}{\SI{60}{\s}} = \SI{3\pi}{\radian/\s} \approx \SI{9.4}{\radian/\s}
+$$
+
 {{% /alert %}}
