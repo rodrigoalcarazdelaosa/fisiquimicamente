@@ -39,8 +39,8 @@ subtitle = ""
   description = "[Recursos online](enlaces-interes/#recursos-online) | [Páginas amigas](enlaces-interes/#paginas-amigas)"
   
 [[feature]]
-  icon = "🅱️"
-  icon_pack = "emoji"
+  icon = "blog"
+  icon_pack = "fas"
   name = "[Blog](post/)"
   description = ""
   
