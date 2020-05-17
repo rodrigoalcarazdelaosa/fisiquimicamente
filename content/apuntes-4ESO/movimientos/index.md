@@ -277,12 +277,7 @@ Las **características** del **movimiento circular uniforme (MCU)** son:
 - Trayectoria circular.
 - Módulo de la velocidad constante (aceleración tangencial $a_\mathrm t=0$).
 
-\begin{marginfigure}
-	\centering
-		\includegraphics[width=\textwidth]{MCU}
-	% \caption{caption}
-	% \label{fig:MCU}
-\end{marginfigure}
+{{< figure src="MCU.png" lightbox="true" >}}
 
 La \textsc{ecuación principal} del MCU es:
 \[
