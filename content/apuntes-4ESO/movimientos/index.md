@@ -296,12 +296,12 @@ Frecuencia $f$
 	$$
 
 La frecuencia o velocidad angular, $\omega$, está relacionada con el periodo y la frecuencia a través de las expresiones:
-\[
-	\omega = \frac{\Delta \omega}{\Delta t} = \frac{2\pi}{T} = 2\pi f
-\]
+$$
+\omega = \frac{\Delta \omega}{\Delta t} = \frac{2\pi}{T} = 2\pi f
+$$
 
 Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 \begin{align*}
-	e &= \varphi R \\
+	e &= \varphi R \\\\
 	v &= \omega R
 \end{align*}
