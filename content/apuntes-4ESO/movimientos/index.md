@@ -194,7 +194,7 @@ Utilizando la ecuación (3)
 	  &= -48.8\thinspace\mathrm{m/s}
 	\end{align*}
 	
-{{< figure src="lanzamiento-vertical.pdf" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="true" >}}
+{{< figure src="lanzamiento-vertical.png" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="true" >}}
 {{% /alert %}}
 
 ## Encuentros
