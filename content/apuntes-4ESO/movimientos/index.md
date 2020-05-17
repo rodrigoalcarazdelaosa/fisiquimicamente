@@ -252,4 +252,5 @@ donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los 
 
 {{< figure src="encuentro.png" lightbox="true" >}}
 
+donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los $22.4\thinspace\mathrm s$.
 {{% /alert %}}
