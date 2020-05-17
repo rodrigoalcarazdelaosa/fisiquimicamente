@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "hands-helping"
   icon_pack = "fas"
-  name = "Tutoriales"
-  description = "10%"
+  name = "[Tutoriales](tutoriales/)"
+  description = "[LaTeX](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
 
 +++
