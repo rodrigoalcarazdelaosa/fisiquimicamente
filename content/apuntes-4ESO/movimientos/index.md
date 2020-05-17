@@ -189,3 +189,5 @@ Utilizando la ecuación (3)
 	
 {{< figure src="caida-libre.png" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="true" >}}	
 {{% /alert %}}
+
+## Encuentros
