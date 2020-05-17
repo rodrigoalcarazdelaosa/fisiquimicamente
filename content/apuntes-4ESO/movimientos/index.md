@@ -339,7 +339,7 @@ $$
 $$
 Sustituyendo el tiempo por $t=5\thinspace\mathrm{min}$, obtenemos el espacio angular en vueltas:
 $$
-\varphi(5\thinspace\mathrm{min}) = 90\thinspace\mathrm{rev/\cancel{min}}\cdot \SI{5}{\cancel\minute} = \SI{450}{\rev}
+\varphi(5\thinspace\mathrm{min}) = 90\thinspace\mathrm{rev/\cancel{min}}\cdot 5\thinspace\cancel{\mathrm{min}} = 450\thinspace\mathrm{rev}
 $$
 
 {{% /alert %}}
