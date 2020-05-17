@@ -233,4 +233,10 @@ t_{0\mathrm c}=6\thinspace\mathrm s;\quad t_{0\mathrm t} = 0
 
 A continuación imponemos la **condición de encuentro**:
 
+\begin{align*}		
+x_\mathrm c &= x_\mathrm t \\\\
+t^2-12t+36 &= 12t \\\\
+t^2-24t+36 &= 0
+\end{align*}
+
 {{% /alert %}}
