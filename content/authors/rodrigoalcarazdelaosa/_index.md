@@ -21,7 +21,7 @@ organizations:
 bio: Soy profesor de Física y Química en el [IES Ría San Martín](http://portaleducativo.educantabria.es/web/iesriasanmartin) de Cantabria (España).
 
 interests:
-- Viajar
+- Viajar ✈️
 - Música 🎸
 - Videojuegos
 - _Fotones_
