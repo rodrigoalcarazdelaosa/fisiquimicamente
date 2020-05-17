@@ -279,12 +279,16 @@ $$
 {{% /alert %}}
 
 ## Movimiento circular uniforme (MCU)
+
+### Características
 Las **características** del **movimiento circular uniforme (MCU)** son:
 
 - Trayectoria circular.
 - Módulo de la velocidad constante (aceleración tangencial $a_\mathrm t=0$).
 
 {{< figure src="MCU.png" lightbox="true" >}}
+
+### Ecuación principal
 
 La **ecuación principal** del MCU es:
 $$
