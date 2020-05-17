@@ -45,8 +45,8 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "address-card"
-  icon_pack = "fas"
+  icon = "👨‍🏫"
+  icon_pack = "emoji"
   name = "[Sobre mí](sobre-mi/)"
   description = ""    
   
