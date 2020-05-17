@@ -327,4 +327,19 @@ $$
 v = \omega R = 3\pi\thinspace\mathrm{rad/s}\cdot 0.3\thinspace\mathrm{m} = 0.9\pi\thinspace\mathrm{m/s} \approx 2.8\thinspace\mathrm{m/s}
 $$
 
+---
+
+c) Escribimos la ecuación del movimiento de las aspas:
+$$
+\varphi(t) = \varphi_0 + \omega (t-t_0),
+$$
+donde $\varphi_0 = 0$, $\omega = 90\thinspace\mathrm{rpm}$ y $t_0 = 0$, es decir:
+$$
+\varphi(t) = 90t\thinspace[\mathrm{rev}]
+$$
+Sustituyendo el tiempo por $t=5\thinspace\mathrm{min}$, obtenemos el espacio angular en vueltas:
+$$
+\varphi(5\thinspace\mathrm{min}) = 90\thinspace\mathrm{rev/\cancel{min}}\cdot \SI{5}{\cancel\minute} = \SI{450}{\rev}
+$$
+
 {{% /alert %}}
