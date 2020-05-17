@@ -231,4 +231,6 @@ t_{0\mathrm c}=6\thinspace\mathrm s;\quad t_{0\mathrm t} = 0
 	\text{Tren (MRU): } x_\mathrm t &= 0 + 12\cdot(t-0) = 12t
 \end{align*}
 
+A continuación imponemos la **condición de encuentro**:
+
 {{% /alert %}}
