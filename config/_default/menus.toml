@@ -92,7 +92,7 @@
 
 [[main]]
   name = "Contacto"
-  url = "#contacto/"
+  url = "#contacto"
   weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
