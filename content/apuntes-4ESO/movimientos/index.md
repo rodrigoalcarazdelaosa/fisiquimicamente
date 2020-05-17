@@ -208,4 +208,8 @@ a) El tiempo que emplea el coche en alcanzar al tren, medido desde el instante e
 b) La distancia que recorrió el coche desde el semáforo hasta que alcanzó al tren. <br>
 c) La rapidez del coche en el instante que alcanza al tren.
 
+---
+
+a) Lo primero que hacemos es <span style="color:#1965B0">escribir las **ecuaciones del movimiento** de cada móvil</span>:
+
 {{% /alert %}}
