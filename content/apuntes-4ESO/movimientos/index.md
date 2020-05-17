@@ -279,10 +279,10 @@ Las **características** del **movimiento circular uniforme (MCU)** son:
 
 {{< figure src="MCU.png" lightbox="true" >}}
 
-La \textsc{ecuación principal} del MCU es:
-\[
+La **ecuación principal** del MCU es:
+$$
 \varphi(t) = \varphi_0 + \omega (t-t_0),
-\]
+$$
 
 donde $\varphi$ es la posición angular final, $\varphi_0$ la posición angular inicial, $\omega$ la frecuencia o velocidad angular, $t$ el tiempo final y $t_0$ el tiempo inicial.
 
