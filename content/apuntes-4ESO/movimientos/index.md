@@ -196,6 +196,6 @@ Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un 
 Seguimos estos **tres pasos**:
 
 1. **Escribir** las **ecuaciones de la posición** de cada cuerpo.
-2. **Imponer** la condición de **encuentro**, es decir, que ambas posiciones coinciden cuando se encuentran ($x_\mathrm A = x_\mathrm B$).}
+2. **Imponer** la condición de **encuentro**, es decir, que ambas posiciones coinciden cuando se encuentran ($x_\mathrm A = x_\mathrm B$).
 3. **Despejar** la magnitud que me pidan.
 \end{enumerate}
