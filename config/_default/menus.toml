@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "📚 Apuntes"
+  name = "Apuntes"
   url = "apuntes/"
   identifier = "apuntes"
   weight = 1
@@ -40,7 +40,7 @@
   weight = 5  
   
 [[main]]
-  name = "✍️ EBAU"
+  name = "EBAU"
   url = "recursos-ebau/"
   identifier = "recursos-ebau"
   weight = 2
@@ -58,7 +58,7 @@
   weight = 2      
 
 [[main]]
-  name = "👐 Tutoriales"
+  name = "Tutoriales"
   url = "tutoriales/"  
   identifier = "tutoriales"
   weight = 3
@@ -76,7 +76,7 @@
   weight = 2    
 
 [[main]]
-  name = "🔗 Enlaces"
+  name = "Enlaces"
   url = "enlaces-interes/"  
   identifier = "enlaces-interes"
   weight = 4
@@ -94,17 +94,17 @@
   weight = 2
 
 [[main]]
-  name = "💬 Blog"
+  name = "Blog"
   url = "post/"
   weight = 5
 
 [[main]]
-  name = "👨‍🏫 Sobre mí"
+  name = "Sobre mí"
   url = "sobre-mi/"
   weight = 6
 
 [[main]]
-  name = "✉️ Contacto"
+  name = "Contacto"
   url = "#contacto"
   weight = 7
 
