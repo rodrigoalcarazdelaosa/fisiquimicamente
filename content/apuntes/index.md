@@ -1,5 +1,5 @@
 ---
-title: "Apuntes"  # Add a page title.
-summary: "Apuntes"  # Add a page description.
+title: "Apuntes de Física y Química"  # Add a page title.
+summary: "Apuntes de Física y Química"  # Add a page description.
 type: "widget_page"  # Page type is a Widget Page
 ---
