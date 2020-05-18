@@ -94,7 +94,7 @@
   weight = 2
 
 [[main]]
-  name = "Blog"
+  name = "💬 Blog"
   url = "post/"
   weight = 5
 
