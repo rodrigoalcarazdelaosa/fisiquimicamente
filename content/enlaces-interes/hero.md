@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Enlaces de interés"
+title = "🔗 Enlaces de interés"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
