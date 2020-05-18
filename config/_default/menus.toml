@@ -76,7 +76,7 @@
   weight = 2    
 
 [[main]]
-  name = "Enlaces de interés"
+  name = "🔗 Enlaces de interés"
   url = "enlaces-interes/"  
   identifier = "enlaces-interes"
   weight = 4
