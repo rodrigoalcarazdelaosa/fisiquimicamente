@@ -90,10 +90,10 @@
       {{ with $person.education }}
       <div class="col-md-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
-        <ul class="ul-edu">
+        <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
-            <i>🎓</i>
+            <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
