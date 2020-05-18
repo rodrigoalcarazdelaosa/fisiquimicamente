@@ -18,13 +18,8 @@ image:
 # links:
 # - icon_pack: fas
 #  icon: download
-#  name: PDF Texto
-#  url: movimientos_texto.pdf
-  
-# - icon_pack: fas
-#  icon: download
 #  name: PDF Póster
-#  url: movimientos_poster.pdf
+#  url: fuerzas-poster.pdf
 ---
 
 Apuntes sobre fuerzas de especial interés, haciendo énfasis en su naturaleza vectorial y las leyes de Newton, en formato texto y póster (tipo _chuleta_).
