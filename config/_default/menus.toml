@@ -64,7 +64,7 @@
   weight = 3
   
 [[main]]
-  name = "LaTeX"
+  name = "$\\LaTeX$"
   parent = "tutoriales"
   url = "tutoriales/latex"
   weight = 1
