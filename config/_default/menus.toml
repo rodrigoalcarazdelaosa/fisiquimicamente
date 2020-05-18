@@ -42,7 +42,20 @@
 [[main]]
   name = "Recursos EBAU"
   url = "recursos-ebau/"
-  weight = 2  
+  identifier = "recursos-ebau"
+  weight = 2
+  
+[[main]]
+  name = "Exámenes"
+  url = "recursos-ebau/#examenes-fisica"
+  parent = "recursos-ebau"
+  weight = 1
+  
+[[main]]
+  name = "Consejos"
+  url = "recursos-ebau/#consejos"
+  parent = "recursos-ebau"
+  weight = 2      
 
 [[main]]
   name = "Tutoriales"
