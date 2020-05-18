@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**Holger Link**](https://unsplash.com/@photoholgic) en [Unsplash](https://unsplash.com)
+  caption: Imagen de [**Colin Behrens**](https://pixabay.com/es/users/colin00b-346653/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
