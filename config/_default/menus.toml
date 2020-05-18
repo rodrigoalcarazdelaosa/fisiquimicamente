@@ -58,7 +58,7 @@
   weight = 2      
 
 [[main]]
-  name = "Tutoriales"
+  name = "👐 Tutoriales"
   url = "tutoriales/"  
   identifier = "tutoriales"
   weight = 3
