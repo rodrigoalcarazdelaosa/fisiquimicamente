@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Apuntes"
+  name = "📚 Apuntes"
   url = "apuntes/"
   identifier = "apuntes"
   weight = 1
