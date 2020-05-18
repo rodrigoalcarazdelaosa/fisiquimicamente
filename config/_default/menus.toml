@@ -40,7 +40,7 @@
   weight = 5  
   
 [[main]]
-  name = "✍️ Recursos EBAU"
+  name = "✍️ EBAU"
   url = "recursos-ebau/"
   identifier = "recursos-ebau"
   weight = 2
@@ -76,7 +76,7 @@
   weight = 2    
 
 [[main]]
-  name = "🔗 Enlaces de interés"
+  name = "🔗 Enlaces"
   url = "enlaces-interes/"  
   identifier = "enlaces-interes"
   weight = 4
