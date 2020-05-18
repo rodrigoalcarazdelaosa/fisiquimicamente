@@ -22,10 +22,10 @@ Creo que un 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< re
 ## ¿De qué voy a hablar en este blog?
 En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **ciencia** en general y entradas relacionadas con mis **intereses**, que incluyen, entre otros:
 
-- Viajar
-- Música
-- Videojuegos
-- _Fotones_
+- ✈️ Viajar
+- 🎸 Música
+- 🎮 Videojuegos
+- ⚛️ _Fotones_
 
 ## ¿A quién va dirigido este blog?
 
