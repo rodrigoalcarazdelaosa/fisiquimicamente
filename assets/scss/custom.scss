@@ -183,6 +183,15 @@ color: $primary_complementary; }
 color: #555555; }
 
 /*************************************************
+ *  Page Builder: sections and widgets
+ **************************************************/
+
+.section-heading p {
+  font-family: "Cabin Sketch", sans-serif;
+  color: $primary_complementary;
+}
+
+/*************************************************
  *  Hero Widget
  **************************************************/
 
@@ -244,12 +253,6 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 	  background-color: $primary;
 	}
 }  
-
-// Color del subtítulo de los proyectos
-.section-heading p {
-  font-family: "Cabin Sketch", sans-serif;
-  color: $primary_complementary;
-}
   
 // Color de la institución en Formación
 ul.ul-edu li .description p.institution {
