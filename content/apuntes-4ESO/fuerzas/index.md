@@ -130,7 +130,7 @@ Escribimos la **2ª ley de Newton** para cada **componente**:
 Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
 \begin{gather*}		  	
 0.2\cdot 4.9\sqrt{3}\cancel{m} - 4.9\cancel{m} = \cancel{m}a \rightarrow a = -3.2\thinspace\mathrm{m/s^2}\\\\
-\vec a = -3.2\ihat\,\si{\m/\s\squared}
+\vec a = -3.2\ihat\thinspace\mathrm{m/s^2}
 \end{gather*}
 
 La \textbf{velocidad} que llevará a los \SI{5}{\s} la calculamos con la \textbf{ecuación de la velocidad}:
