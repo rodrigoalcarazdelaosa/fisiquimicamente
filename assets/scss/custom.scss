@@ -48,6 +48,16 @@ background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary
 height: 200px; }  
   
 /*************************************************
+*  Pager
+**************************************************/
+
+.post-nav-item a {
+color: #555555; }
+
+.post-nav-item .meta-nav {
+  color: #555555; } 
+
+/*************************************************
 *  Footer
 **************************************************/  
   
@@ -356,9 +366,3 @@ select.form-control:focus::-ms-value {
 
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
 color: $red; }  
-
-.post-nav-item .meta-nav {
-  color: #555555; }
-  
-.post-nav-item a {
-color: #555555; }   
