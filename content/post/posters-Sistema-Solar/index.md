@@ -25,7 +25,7 @@ gallery_item:
   caption: "El Sol [hizo explotar una eyección de masa coronal](https://solarsystem.nasa.gov/resources/1051/brief-outburst/) junto con parte de un filamento solar el 24 de febrero de 2015, como lo vio el Observatorio de Dinámica Solar de la NASA (SDO). Crédito: NASA/SDO"  
 - album: Mercurio
   image: "1048_poster_mercury_front_a.jpg"
-  caption: "Una [erupción solar](https://solarsystem.nasa.gov/resources/386/sun-emits-a-solstice-flare-and-cme/) como la que vio el Observatorio de Dinámica Solar de la NASA en 2013. Crédito: NASA/SDO"
+  caption: "Un [mapa global de la superficie de Mercurio](https://solarsystem.nasa.gov/resources/532/mercury-false-color-rotation-movie/) creado a partir de imágenes obtenidas por la nave espacial MESSENGER de la NASA. Los colores no son los que el ojo vería, sino que están relacionados con variaciones de composición de la superficie. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"
 - album: Mercurio
   image: "1049_poster_mercury_front_b.jpg"
   caption: "[Rayos X saliendo del Sol](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) en esta imagen que muestra las observaciones del Nuclear Spectroscopic Telescope Array de la NASA, o NuSTAR, superpuestas a una imagen tomada por el Observatorio de Dinámica Solar de la NASA. Crédito: NASA/JPL-Caltech/GSFC"
