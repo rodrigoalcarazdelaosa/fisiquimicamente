@@ -234,6 +234,9 @@ color: $primary; }
 .wg-hero.dark a:not(.wg-hero .btn) {
 color: $primary; }
 
+.wg-hero.dark .btn {
+  color: $primary; }
+
 /*************************************************
  *  About widget
  **************************************************/
@@ -314,8 +317,6 @@ border: 1px solid $primary; }
   border-color: $primary; }	  
 
 // Botones
-.wg-hero.dark .btn {
-  color: $primary; }
   
 .wg-hero.dark .btn:active,
 .wg-hero.dark .btn:focus,
