@@ -348,23 +348,23 @@ border: 1px solid $primary; }
 /*************************************************
 *  Forms
 **************************************************/  
-	  
+
 .form-control {
-  color: $primary;
-  border: 1px solid $primary; }
-  .form-control:-moz-focusring {
-    text-shadow: 0 0 0 $black; }
-  .form-control:focus {
-    color: $black;
-    border-color: $primary; }
-  .form-control::placeholder {
-    color: #555555; }
+	color: $primary;
+	border: 1px solid $primary; }
+.form-control:-moz-focusring {
+	text-shadow: 0 0 0 $black; }
+.form-control:focus {
+	color: $black;
+	border-color: $primary; }
+.form-control::placeholder {
+	color: #555555; }
 
 select.form-control:focus::-ms-value {
-  color: $primary; }
+	color: $primary; }
 
 .form-control-plaintext {
-  color: $primary; }
+	color: $primary; }
 
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
-color: $red; }  
+	color: $red; }  
