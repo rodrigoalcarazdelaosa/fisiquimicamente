@@ -46,6 +46,6 @@ Gráficamente, dibujando un vector a continuación del otro y uniendo el origen 
 {{< figure src="suma-vectores.png" lightbox="true" >}}
 
 O analíticamente, componente a componente:
-	\[
+	$$
 	\vec a + \vec b = (a_x+b_x)\ihat + (a_y+b_y)\jhat
-	\]	
+	$$	
