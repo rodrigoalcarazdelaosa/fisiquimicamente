@@ -182,6 +182,18 @@ color: $primary_complementary; }
 .author-card .card-subtitle {
 color: #555555; }
 
+/*************************************************
+ *  Hero Widget
+ **************************************************/
+
+.wg-hero.dark .hero-title,
+.wg-hero.dark .hero-lead,
+.wg-hero.dark .hero-cta-alt,
+.wg-hero.dark .hero-note > * {
+  color: $primary;
+  /* text-shadow: 1px 1px 4px rgba(255,255,255,1); */
+  /* Uncomment to standout on complicated backgrounds. */ }
+
 .card h5 {
 color: #555555; }
 
@@ -222,15 +234,6 @@ color: #555555; }
 // Color de text-muted
 .text-muted {
   color: #555555 !important; }  
-
-// Color del texto del slider
-.wg-hero.dark .hero-title,
-.wg-hero.dark .hero-lead,
-.wg-hero.dark .hero-cta-alt,
-.wg-hero.dark .hero-note > * {
-  color: $primary;
-  /* text-shadow: 1px 1px 4px rgba(255,255,255,1); */
-  /* Uncomment to standout on complicated backgrounds. */ }
   
 /* Override dark colors that may be inherited from body.dark */
 .home-section.dark,
