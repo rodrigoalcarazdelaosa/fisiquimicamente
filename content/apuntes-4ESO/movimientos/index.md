@@ -113,7 +113,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 {{% alert example %}}
 <br>
 
-> Un coche que circula a $70.2\thinspace\mathrm{km/h}$ disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo. ¿Qué distancia recorrerá hasta detenerse?
+> Un coche que circula a $70.2\thinspace\mathrm{km/h}$ disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo. ¿Qué distancia recorrerá hasta detenerse?
 
 ---
 
