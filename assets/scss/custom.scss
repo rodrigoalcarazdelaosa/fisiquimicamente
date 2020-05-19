@@ -195,7 +195,14 @@ color: #555555; }
   /* Uncomment to standout on complicated backgrounds. */ }
   
 .wg-hero.dark a:not(.wg-hero .btn) {
-color: $primary; }  
+color: $primary; }
+
+/*************************************************
+ *  About widget
+ **************************************************/
+
+.portrait-title h3 {
+  color: #555555; }
 
 .card h5 {
 color: #555555; }
@@ -225,10 +232,6 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
   font-family: "Cabin Sketch", sans-serif;
   color: $primary_complementary;
 }
-  
-// Color del portrait h3
-.portrait-title h3 {
-  color: #555555; }
   
 // Color de la institución en Formación
 ul.ul-edu li .description p.institution {
