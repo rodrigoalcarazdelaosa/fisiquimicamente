@@ -51,3 +51,5 @@ $$
 $$
 
 ## Leyes de Newton
+
+### 1ª ley (ley de la inercia)
