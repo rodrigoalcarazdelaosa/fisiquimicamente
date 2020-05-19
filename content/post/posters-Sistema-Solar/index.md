@@ -28,7 +28,7 @@ gallery_item:
   caption: "Un [mapa global de la superficie de Mercurio](https://solarsystem.nasa.gov/resources/532/mercury-false-color-rotation-movie/) creado a partir de imágenes obtenidas por la nave espacial MESSENGER de la NASA. Los colores no son los que el ojo vería, sino que están relacionados con variaciones de composición de la superficie. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"
 - album: Mercurio
   image: "1049_poster_mercury_front_b.jpg"
-  caption: "[Rayos X saliendo del Sol](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) en esta imagen que muestra las observaciones del Nuclear Spectroscopic Telescope Array de la NASA, o NuSTAR, superpuestas a una imagen tomada por el Observatorio de Dinámica Solar de la NASA. Crédito: NASA/JPL-Caltech/GSFC"
+  caption: "Este [mosaico de imágenes](https://solarsystem.nasa.gov/resources/1053/the-impressive-rays-of-hokusai/?category=planets_mercury) de la nave espacial MESSENGER de la NASA muestra el cráter de impacto Hokusai en Mercurio. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"
 - album: Mercurio
   image: "1050_poster_mercury_front_c.jpg"
   caption: "El Sol [emite una llamarada solar de nivel medio](https://solarsystem.nasa.gov/resources/768/nasas-sdo-sees-sun-emit-mid-level-flare-oct-1/), como la que vio el Observatorio de Dinámica Solar de la NASA en 2015. Crédito: NASA/SDO"  
