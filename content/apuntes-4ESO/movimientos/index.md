@@ -29,8 +29,6 @@ links:
 slides: 
 ---
 
-<style type="text/css"> .sidenote, .marginnote { float: right; clear: right; margin-right: -60%; margin-left: 0%; width: 50%; margin-top: 0; margin-bottom: 0; font-size: 1.0rem; line-height: 1.3; vertical-align: baseline; position: relative; } </style>
-
 {{% toc %}}
 
 ## Movimiento rectilíneo uniforme (MRU)
