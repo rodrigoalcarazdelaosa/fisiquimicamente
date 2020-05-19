@@ -63,4 +63,4 @@ $$
 \sum\vec F = m\vec a\quad \text{(la aceleración es proporcional a la fuerza neta)}
 $$
 
-En el SI la fuerza se mide en Newton (N): $1\thinspace\mathrm N = 1\thinspace \mathrm{kg\thinspace m s^{-2}}$.
+En el SI la fuerza se mide en Newton (N): $1\thinspace\mathrm N = 1\thinspace \mathrm{kg\thinspace m\thinspace s^{-2}}$.
