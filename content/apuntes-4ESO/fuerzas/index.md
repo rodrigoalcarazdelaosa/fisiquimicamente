@@ -97,3 +97,14 @@ Se llama **fuerza centrípeta** a la fuerza o a la componente de la fuerza que a
 $$
 f_\mathrm c = m a_\mathrm c = m\cdot \frac{v^2}{R} = \frac{mv^2}{R}
 $$
+
+## Ejemplo
+{{% alert example %}}
+<br>
+
+> Un cuerpo baja por un plano inclinado $30^\circ$ con un coeficiente de rozamiento $\mu=0.2$. Calcula la velocidad que llevará y el espacio recorrido al cabo de $5\thinspace\mathrm s$, si inicialmente estaba en reposo.
+
+---
+
+
+{{% /alert %}}
