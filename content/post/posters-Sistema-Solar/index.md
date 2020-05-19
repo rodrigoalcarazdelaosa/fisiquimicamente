@@ -28,7 +28,7 @@ gallery_item:
   caption: "Un [mapa global de la superficie de Mercurio](https://solarsystem.nasa.gov/resources/532/mercury-false-color-rotation-movie/) creado a partir de imágenes obtenidas por la nave espacial MESSENGER de la NASA. Los colores no son los que el ojo vería, sino que están relacionados con variaciones de composición de la superficie. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"
 - album: Mercurio
   image: "1049_poster_mercury_front_b.jpg"
-  caption: "Este [mosaico de imágenes](https://solarsystem.nasa.gov/resources/1053/the-impressive-rays-of-hokusai/?category=planets_mercury) de la nave espacial MESSENGER de la NASA muestra el cráter de impacto Hokusai en Mercurio. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"
+  caption: "Este [mosaico de imágenes](https://solarsystem.nasa.gov/resources/1053/the-impressive-rays-of-hokusai) de la nave espacial MESSENGER de la NASA muestra el cráter de impacto Hokusai en Mercurio. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"
 - album: Mercurio
   image: "1050_poster_mercury_front_c.jpg"
   caption: "Una [vista en perspectiva](https://solarsystem.nasa.gov/resources/773/lowlands-in-mercurys-north/) desde la nave espacial MESSENGER de la NASA, mirando hacia el norte de Mercurio y coloreada por la altura topográfica de la superficie. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"  
