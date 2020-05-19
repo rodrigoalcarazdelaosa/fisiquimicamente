@@ -13,4 +13,4 @@ image:
 
 {{< tweet 1262678794554486784 >}}
 
-[Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado este juego de pósters mostrando la belleza de nuestro Sistema Solar y Más Allá.
+[Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este juego de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) mostrando la belleza de nuestro Sistema Solar y Más Allá.
