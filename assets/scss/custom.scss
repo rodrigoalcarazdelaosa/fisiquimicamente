@@ -257,9 +257,12 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 	}
 }    
 
-// Color de text-muted
+/*************************************************
+*  Text
+**************************************************/
+
 .text-muted {
-  color: #555555 !important; }  
+  color: #555555 !important; }
   
 /* Override dark colors that may be inherited from body.dark */
 .home-section.dark,
