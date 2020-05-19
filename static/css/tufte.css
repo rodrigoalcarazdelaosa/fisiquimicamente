@@ -73,42 +73,7 @@ label.margin-toggle:not(.sidenote-number) {
     height: 100%; 
 }
 
-@media (max-width: 760px) {
-    body {
-        width: 84%;
-        padding-left: 8%;
-        padding-right: 8%; 
-    }
-    
-    hr,
-    section > p,
-    section > footer,
-    section > table {
-        width: 100%; 
-    }
-    
-    pre > code {
-        width: 97%; 
-    }
-
-    section > ol {
-        width: 90%; 
-    }
-
-    section > ul {
-        width: 90%; 
-    }
-
-    figure {
-        max-width: 90%; 
-    }
-    
-    figcaption,
-    figure.fullwidth figcaption {
-        margin-right: 0%;
-        max-width: none; 
-    }
-    
+@media (max-width: 760px) {        
     blockquote {
         margin-left: 1.5em;
         margin-right: 0em; 
@@ -143,13 +108,4 @@ label.margin-toggle:not(.sidenote-number) {
     label {
         cursor: pointer; 
     }
-
-    div.table-wrapper,
-    table {
-        width: 85%; 
-    }
-    
-    img {
-        width: 100%;
-    } 
 }
