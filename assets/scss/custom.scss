@@ -274,23 +274,28 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 .text-muted {
   color: #555555 !important; }
   
+/*************************************************
+*  Pagination
+**************************************************/  
+  
+.page-link {
+color: $primary;
+background-color: #fff;
+border: 1px solid $primary; }
+
+.page-link:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: $primary;
+  border-color: $primary; }	
+  
 /* Override dark colors that may be inherited from body.dark */
 .home-section.dark,
 .home-section.dark h1,
 .home-section.dark h2,
 .home-section.dark h3,
 .home-section.dark a:not(.btn) {
-color: $primary; }    
-
-.page-link {
-  color: $primary;
-  background-color: #fff;
-  border: 1px solid $primary; }
-  .page-link:hover {
-    color: #ffffff;
-    text-decoration: none;
-    background-color: $primary;
-    border-color: $primary; }		
+color: $primary; }    	
 
 // Botones
 .wg-hero.dark .btn {
