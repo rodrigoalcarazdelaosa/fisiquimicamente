@@ -37,3 +37,5 @@ Dirección
 
 Sentido
 : Dado por la punta de la flecha.
+
+{{< figure src="vector.jpg" title="A caption" lightbox="true" >}}
