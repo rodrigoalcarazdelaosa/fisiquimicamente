@@ -26,3 +26,5 @@ links:
 {{% toc %}}
 
 ## Naturaleza vectorial de las fuerzas
+
+Las **fuerzas** son **magnitudes vectoriales**, lo que significa que quedan definidas por un **vector**, del cual hay que definir su:
