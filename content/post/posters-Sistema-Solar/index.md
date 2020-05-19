@@ -12,14 +12,14 @@ image:
 
 gallery_item:
 - album: sol
-   image: "https://solarsystem.nasa.gov/system/resources/detail_files/980_poster_sun_front_a.jpg"
-   caption: "A solar flare erupts from the Sun as seen by NASA’s Solar Dynamics Observatory in 2013. Credit: NASA/SDO"
+  image: "https://solarsystem.nasa.gov/system/resources/detail_files/980_poster_sun_front_a.jpg"
+  caption: "A solar flare erupts from the Sun as seen by NASA’s Solar Dynamics Observatory in 2013. Credit: NASA/SDO"
 - album: sol
-   image: "https://solarsystem.nasa.gov/system/resources/detail_files/981_poster_sun_front_b.jpg"
-   caption: "[X-rays stream off the Sun](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) in this image showing observations by NASA's Nuclear Spectroscopic Telescope Array, or NuSTAR, overlaid on a picture taken by NASA's Solar Dynamics Observatory. Credit: NASA/JPL-Caltech/GSFC"
+  image: "https://solarsystem.nasa.gov/system/resources/detail_files/981_poster_sun_front_b.jpg"
+  caption: "[X-rays stream off the Sun](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) in this image showing observations by NASA's Nuclear Spectroscopic Telescope Array, or NuSTAR, overlaid on a picture taken by NASA's Solar Dynamics Observatory. Credit: NASA/JPL-Caltech/GSFC"
 - album: sol
-   image: "https://solarsystem.nasa.gov/system/resources/detail_files/982_poster_sun_front_c.jpg"
-   caption: otra
+  image: "https://solarsystem.nasa.gov/system/resources/detail_files/982_poster_sun_front_c.jpg"
+  caption: otra
 ---
 
 {{< tweet 1262678794554486784 >}}
