@@ -1,10 +1,6 @@
 @charset "UTF-8";
 
 /* Sidenotes, margin notes, figures, captions */
-img {
-    max-width: 100%; 
-}
-
 .sidenote,
 .marginnote {
     float: right;
@@ -48,65 +44,6 @@ blockquote .marginnote {
     margin-right: -82%;
     min-width: 59%;
     text-align: left; 
-}
-
-div.fullwidth,
-table.fullwidth {
-    width: 100%; 
-}
-
-div.table-wrapper {
-    overflow-x: auto;
-    font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif; 
-}
-
-.sans {
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-    letter-spacing: .03em; 
-}
-
-code, pre > code {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-    font-size: 1.0rem;
-    line-height: 1.42;
-    -webkit-text-size-adjust: 100%; /* Prevent adjustments of font size after orientation changes in iOS. See https://github.com/edwardtufte/tufte-css/issues/81#issuecomment-261953409 */
-}
-
-.sans > code {
-    font-size: 1.2rem; 
-}
-
-h1 > code,
-h2 > code,
-h3 > code {
-    font-size: 0.80em; 
-}
-
-.marginnote > code,
-.sidenote > code {
-    font-size: 1rem; 
-}
-
-pre > code {
-    font-size: 0.9rem;
-    width: 52.5%;
-    margin-left: 2.5%;
-    overflow-x: auto;
-    display: block;
-}
-
-pre.fullwidth > code {
-    width: 90%; 
-}
-
-.fullwidth {
-    max-width: 90%;
-    clear:both; 
-}
-
-span.newthought {
-    font-variant: small-caps;
-    font-size: 1.2em; 
 }
 
 input.margin-toggle {
