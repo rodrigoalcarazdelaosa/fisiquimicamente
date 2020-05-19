@@ -53,4 +53,4 @@ $$
 ## Leyes de Newton
 
 ### 1ª ley (ley de la inercia)
-> ``Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.''
+> Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
