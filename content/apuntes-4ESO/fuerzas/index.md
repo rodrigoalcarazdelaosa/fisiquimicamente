@@ -129,7 +129,7 @@ Escribimos la **2ª ley de Newton** para cada **componente**:
 
 Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
 \begin{gather*}		  	
-0.2\cdot 4.9\sqrt{3}\cancel{m} - 4.9\cancel{m} = \cancel{m}a \rightarrow a = -\SI{3.2}{\m/\s\squared}\\
+0.2\cdot 4.9\sqrt{3}\cancel{m} - 4.9\cancel{m} = \cancel{m}a \rightarrow a = -\SI{3.2}{\m/\s\squared}\\\\
 \vec a = -3.2\ihat\,\si{\m/\s\squared}
 \end{gather*}
 
