@@ -114,7 +114,7 @@ Las **fuerzas** que actúan son:
 - Peso $\vec P = -P_x\ihat - P_y\jhat$, donde:
 	\begin{align*}
 	P_x &= mg\sin\alpha = 9.8m\sin30^\circ = 4.9m\thinspace\mathrm{N} \\\\
-	P_y &= mg\cos\alpha = 9.8m\cos\SI{30}{\degree} = 4.9\sqrt{3}m\,\si{N}
+	P_y &= mg\cos\alpha = 9.8m\cos30^\circ = 4.9\sqrt{3}m\thinspace\mathrm{N}
 	\end{align*}
 - Normal $\vec N = N\jhat$
 - Fuerza de rozamiento $\vec f_\mathrm r=\mu N\ihat = 0.2N\ihat\,\si{N}$
