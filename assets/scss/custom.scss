@@ -141,6 +141,13 @@ div.alert-example > div:first-child::before {
   border-color: $example_fg;
 }
 
+/*************************************************
+ *  Card component
+ **************************************************/
+
+.card h5 {
+color: #555555; }  
+
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -164,10 +171,7 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 // Color del subtítulo de las páginas
 .page-subtitle {
   font-family: "Cabin Sketch", sans-serif;
-  color: #000000; }  
-  
-.card h5 {
-color: #555555; }  
+  color: #000000; }    
 
 // Color del subtítulo de los proyectos
 .section-heading p {
