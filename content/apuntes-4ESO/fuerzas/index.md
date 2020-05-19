@@ -138,7 +138,7 @@ Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además
 La **velocidad** que llevará a los $5\thinspace\mathrm s$ la calculamos con la **ecuación de la velocidad**:
 \begin{gather*}		  	
 v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\\\
-\vec v = -16.0\ihat\,\si{\m/\s}
+\vec v = -16.0\ihat\thinspace\mathrm{m/s}
 \end{gather*}
 
 ---
