@@ -78,29 +78,12 @@ background-color: #dddddd; }
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
 color: $white;
-background-color: #555555; }  
+background-color: #555555; }
 
-// Flechas del slider e indicadores más grandes (3x)
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  width: 60px;
-  height: 60px; }  
-  
-.carousel-control-prev-icon {
-background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%231965B0' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5L4.25 4l2.5-2.5L5.25 0z'/%3e%3c/svg%3e"); }
+/*************************************************
+ *  Article Alerts (Shortcode) and Asides (Mmark)
+ **************************************************/
 
-.carousel-control-next-icon {
-background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%231965B0' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/%3e%3c/svg%3e"); }  
-  
-.carousel-indicators {
-	li {
-	  width: 90px;
-	  height: 9px;
-	  background-color: $primary;
-	}
-}  
-  
-// Personalización de los colores de las notas y los warnings
 div.alert > div:first-child::before {
 color: $primary;
 }
@@ -131,6 +114,26 @@ div.alert-example > div:first-child::before {
   background-color: $example_bg;
   border-color: $example_fg;
 }
+
+// Flechas del slider e indicadores más grandes (3x)
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  width: 60px;
+  height: 60px; }  
+  
+.carousel-control-prev-icon {
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%231965B0' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5L4.25 4l2.5-2.5L5.25 0z'/%3e%3c/svg%3e"); }
+
+.carousel-control-next-icon {
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%231965B0' width='8' height='8' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/%3e%3c/svg%3e"); }  
+  
+.carousel-indicators {
+	li {
+	  width: 90px;
+	  height: 9px;
+	  background-color: $primary;
+	}
+}  
 
 // Color del subtítulo de las páginas
 .page-subtitle {
