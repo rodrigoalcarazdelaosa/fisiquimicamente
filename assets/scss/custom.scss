@@ -16,6 +16,12 @@ body {
   background-color: #fffff8; }
   
 /*************************************************
+*  Gallery.
+**************************************************/
+.gallery a[data-fancybox] img {
+height: 200px; }  
+  
+/*************************************************
 *  Footer
 **************************************************/  
   
@@ -307,13 +313,7 @@ color: #555555; }
 /* Documentation: article footer. */
 .docs .body-footer {
 border-top: 1px solid #555555;
-color: #555555; }
-  
-/*************************************************
-*  Gallery.
-**************************************************/
-.gallery a[data-fancybox] img {
-height: 200px; }
+color: #555555; }  
 
 /* Quotes */
 blockquote {
