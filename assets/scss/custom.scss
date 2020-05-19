@@ -14,6 +14,14 @@ $example_bg: #fbfde9;
 body {
   color: #111111;
   background-color: #fffff8; }
+  
+/*************************************************
+*  Footer
+**************************************************/  
+  
+site-footer,
+footer a.back-to-top i {
+color: rgba(25, 101, 176, 0.54); }	    
 
 // Flechas del slider e indicadores más grandes (3x)
 .carousel-control-prev-icon,
@@ -189,12 +197,7 @@ color: $white; }
     background-color: $primary;
     border-color: $primary; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(25, 101, 176, 0.5); }
-	
-// Color de la flecha del footer
-site-footer,
-footer a.back-to-top i {
-  color: rgba(25, 101, 176, 0.54); }	  
+      box-shadow: 0 0 0 0.2rem rgba(25, 101, 176, 0.5); }	
   
 // Card overlay
 .card .card-image.hover-overlay:after {
