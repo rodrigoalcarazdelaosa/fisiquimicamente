@@ -216,6 +216,12 @@ color: #555555; }
 .docs-sidebar .nav > li > a:hover {
 color: $black; }  
 
+/* Docs TOC nav. */
+
+#TableOfContents li a,
+.toc-top li a {
+  color: #555555; } 
+
 .card h5 {
 color: #555555; }
 
@@ -340,10 +346,6 @@ color: $red; }
   
 .post-nav-item a {
 color: #555555; } 
-
-#TableOfContents li a,
-.toc-top li a {
-  color: #555555; } 
   
 /* Documentation: article footer. */
 .docs .body-footer {
