@@ -1,6 +1,6 @@
 ---
 title: Pósters del Sistema Solar
-date: "2020-05-20T00:00:00Z"
+date: "2020-05-19T00:00:00Z"
 tags:
 - gravitación
 categories:
