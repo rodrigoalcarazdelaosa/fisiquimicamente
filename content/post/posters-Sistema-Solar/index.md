@@ -16,7 +16,7 @@ gallery_item:
   caption: "Una [erupción solar](https://solarsystem.nasa.gov/resources/386/sun-emits-a-solstice-flare-and-cme/) como la que vio el Observatorio de Dinámica Solar de la NASA en 2013. Crédito: NASA/SDO"
 - album: Sol
   image: "981_poster_sun_front_b.jpg"
-  caption: "[X-rays stream off the Sun](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) in this image showing observations by NASA's Nuclear Spectroscopic Telescope Array, or NuSTAR, overlaid on a picture taken by NASA's Solar Dynamics Observatory. Credit: NASA/JPL-Caltech/GSFC"
+  caption: "[Rayos X saliendo del Sol](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) en esta imagen que muestra las observaciones del Nuclear Spectroscopic Telescope Array de la NASA, o NuSTAR, superpuestas a una imagen tomada por el Observatorio de Dinámica Solar de la NASA. Crédito: NASA/JPL-Caltech/GSFC"
 - album: Sol
   image: "982_poster_sun_front_c.jpg"
   caption: otra
