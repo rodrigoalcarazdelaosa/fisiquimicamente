@@ -210,7 +210,7 @@ Seguimos estos **tres pasos**:
 {{% alert example %}}
 <br>
 
-> Un coche se desplaza por una carretera que es paralela a la vía de un tren. El coche se detiene ante un semáforo que está con luz roja en el mismo instante que pasa un tren con una rapidez constante de $12\thinspace\mathrm{m/s}$. El coche permanece detenido durante $6\thinspace\mathrm s$ y luego arranca con una aceleración constante de $2\thinspace\mathrm{m/s^2}$. Determinar: <br> <br>
+> Un coche se desplaza por una carretera que es paralela a la vía de un tren. El coche se detiene ante un semáforo que está con luz roja en el mismo instante que pasa un tren con una rapidez constante de $12\thinspace\mathrm{m/s}$. El coche permanece detenido durante $6\thinspace\mathrm s$ y luego arranca con una aceleración constante de $2\thinspace\mathrm{m/s^2}$. Determinar: <br> <br>
 a) El tiempo que emplea el coche en alcanzar al tren, medido desde el instante en que se detuvo ante el semáforo.<br>
 b) La distancia que recorrió el coche desde el semáforo hasta que alcanzó al tren. <br>
 c) La rapidez del coche en el instante que alcanza al tren.
