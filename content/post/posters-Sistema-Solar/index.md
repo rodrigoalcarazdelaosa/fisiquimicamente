@@ -32,6 +32,12 @@ gallery_item:
 - album: Mercurio
   image: "1050_poster_mercury_front_c.jpg"
   caption: "Una [vista en perspectiva](https://solarsystem.nasa.gov/resources/773/lowlands-in-mercurys-north/) desde la nave espacial MESSENGER de la NASA, mirando hacia el norte de Mercurio y coloreada por la altura topográfica de la superficie. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"  
+- album: Venus
+  image: "937_poster_venus_front_a.jpg"
+  caption: "Este [mosaico de imágenes](https://solarsystem.nasa.gov/resources/1053/the-impressive-rays-of-hokusai) de la nave espacial MESSENGER de la NASA muestra el cráter de impacto Hokusai en Mercurio. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"
+- album: Venus
+  image: "938_poster_venus_front_b.jpg"
+  caption: "Una [vista en perspectiva](https://solarsystem.nasa.gov/resources/773/lowlands-in-mercurys-north/) desde la nave espacial MESSENGER de la NASA, mirando hacia el norte de Mercurio y coloreada por la altura topográfica de la superficie. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington"    
 ---
 
 {{< tweet 1262678794554486784 >}}
@@ -45,3 +51,6 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, 
 
 ## Mercurio
 {{< gallery album="Mercurio" >}}
+
+## Venus
+{{< gallery album="Venus" >}}
