@@ -230,6 +230,12 @@ color: #555555; }
 *  Documentation layout
 **************************************************/  
 
+/* Documentation: article footer. */
+
+.docs .body-footer {
+border-top: 1px solid #555555;
+color: #555555; }  
+
 /* Docs sidebar li>a. */  
 
 .docs-sidebar .nav > li > a {
@@ -355,9 +361,4 @@ color: $red; }
   color: #555555; }
   
 .post-nav-item a {
-color: #555555; } 
-  
-/* Documentation: article footer. */
-.docs .body-footer {
-border-top: 1px solid #555555;
-color: #555555; }  
+color: #555555; }   
