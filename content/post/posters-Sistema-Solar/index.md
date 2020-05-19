@@ -20,6 +20,9 @@ gallery_item:
 - album: sol
   image: "https://solarsystem.nasa.gov/system/resources/detail_files/982_poster_sun_front_c.jpg"
   caption: otra
+- album: sol
+  image: "https://solarsystem.nasa.gov/system/resources/detail_files/983_poster_sun_front_d.jpg"
+  caption: otra  
 ---
 
 {{< tweet 1262678794554486784 >}}
