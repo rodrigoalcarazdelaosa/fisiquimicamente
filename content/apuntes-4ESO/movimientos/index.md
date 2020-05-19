@@ -329,7 +329,7 @@ y siempre se dirige hacia el centro de la circunferencia.
 {{% alert example %}}
 <br>
 
-> Las aspas de un ventilador giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a $30\thinspace\mathrm{cm}$ del centro; c) el número de vueltas que darán las aspas en $5\thinspace\mathrm{min}$.
+> Las aspas de un ventilador giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a $30\thinspace\mathrm{cm}$ del centro; c) el número de vueltas que darán las aspas en $5\thinspace\mathrm{min}$.
 
 ---
 
