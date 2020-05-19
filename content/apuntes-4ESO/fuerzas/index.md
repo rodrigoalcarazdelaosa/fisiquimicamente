@@ -117,7 +117,7 @@ Las **fuerzas** que actúan son:
 	P_y &= mg\cos\alpha = 9.8m\cos30^\circ = 4.9\sqrt{3}m\thinspace\mathrm{N}
 	\end{align*}
 - Normal $\vec N = N\jhat$
-- Fuerza de rozamiento $\vec f_\mathrm r=\mu N\ihat = 0.2N\ihat\,\si{N}$
+- Fuerza de rozamiento $\vec f_\mathrm r=\mu N\ihat = 0.2N\ihat\thinspace\mathrm{N}$
 
 Escribimos la \textbf{2ª ley de Newton} para cada \textbf{componente}:
 \begin{align}
