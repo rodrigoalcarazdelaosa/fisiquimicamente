@@ -72,14 +72,14 @@ Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A un
 
 ## Fuerzas de especial interés
 
-### Peso
+### Peso $\vec P$
 El **peso** es la fuerza con la que la Tierra atrae a un objeto. Se calcula como:
 $$
 \vec P = m\vec g,
 $$
 donde $m$ es la masa del objeto y $\vec g$ es la aceleración de la gravedad. Siempre se dirige hacia el centro de la Tierra (hacia abajo en la mayoría de los casos).
 
-### Normal
+### Normal $\vec N$
 También llamada fuerza de **reacción**, se define como la fuerza que ejerce una superficie sobre un cuerpo apoyado sobre ella. Esta es de igual magnitud y dirección, pero de sentido contrario a la fuerza ejercida por el cuerpo sobre la superficie.
 
 {{< figure src="normal.png" title="Fuerza normal en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="true" >}}
@@ -93,7 +93,7 @@ donde $\mu$ es el coeficiente de rozamiento.
 
 {{< figure src="rozamiento.png" title="Fuerza de rozamiento en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="true" >}}
 
-### Centrípeta
+### Centrípeta $\vec f_\mathrm c$
 Se llama **fuerza centrípeta** a la fuerza o a la componente de la fuerza que actúa sobre un objeto en movimiento sobre una trayectoria curvilínea y que está dirigida hacia el centro de curvatura de la trayectoria. Su módulo se calcula a partir de la **aceleración centrípeta**, haciendo uso de la **2ª ley de Newton**:
 $$
 f_\mathrm c = m a_\mathrm c = m\cdot \frac{v^2}{R} = \frac{mv^2}{R}
