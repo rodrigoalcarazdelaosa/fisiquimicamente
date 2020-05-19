@@ -40,7 +40,7 @@ Las **características** del **movimiento rectilíneo uniforme (MRU)** son:
 
 ### Ecuación principal
 
-La **ecuación principal**[^1] del MRU es:
+La **ecuación principal**[^1] del MRU es{{< sidenote "unique_id" >}} note text {{< /sidenote >}}:
 [^1]: Esta es la llamada **ecuación del movimiento** o **ecuación de la posición**, pues nos da la posición $x$ en función del tiempo $t$.
 
 $$
