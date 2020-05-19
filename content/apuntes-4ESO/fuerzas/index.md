@@ -87,8 +87,9 @@ También llamada fuerza de **reacción**, se define como la fuerza que ejerce un
 ### Rozamiento
 La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en contacto, oponiéndose siempre al movimiento relativo entre ambas superficies. La fuerza de rozamiento es proporcional a la normal:		
 $$
-f_\mathrm r = \mu N
+f_\mathrm r = \mu N,
 $$
+donde $\mu$ es el coeficiente de rozamiento.
 
 {{< figure src="rozamiento.png" title="Fuerza de rozamiento en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="true" >}}
 
