@@ -203,6 +203,18 @@ color: $primary; }
 
 .portrait-title h3 {
   color: #555555; }
+  
+/*************************************************
+*  Documentation layout
+**************************************************/  
+
+/* Docs sidebar li>a. */  
+
+.docs-sidebar .nav > li > a {
+color: #555555; }
+
+.docs-sidebar .nav > li > a:hover {
+color: $black; }  
 
 .card h5 {
 color: #555555; }
@@ -321,14 +333,7 @@ select.form-control:focus::-ms-value {
   color: $primary; }
 
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
-color: $red; }
-  
-/* Docs sidebar li>a. */
-.docs-sidebar .nav > li > a {
-color: #555555; }
-
-.docs-sidebar .nav > li > a:hover {
-color: $black; }
+color: $red; }  
 
 .post-nav-item .meta-nav {
   color: #555555; }
