@@ -64,3 +64,8 @@ $$
 $$
 
 En el SI la fuerza se mide en Newton (N): $1\thinspace\mathrm N = 1\thinspace \mathrm{kg\thinspace m\thinspace s^{-2}}$.
+
+### 3ª ley (ley de la acción-reacción)
+> Para toda acción siempre hay una reacción igual y opuesta.
+
+Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario ($\vec F_\text{AB} = -\vec F_\text{BA}$).
