@@ -17,6 +17,9 @@ gallery_item:
  - album: gallery
    image: https://solarsystem.nasa.gov/system/resources/detail_files/981_poster_sun_front_b.jpg
    caption: "[X-rays stream off the Sun](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) in this image showing observations by NASA's Nuclear Spectroscopic Telescope Array, or NuSTAR, overlaid on a picture taken by NASA's Solar Dynamics Observatory. Credit: NASA/JPL-Caltech/GSFC"
+ - album: gallery
+   image: https://solarsystem.nasa.gov/system/resources/detail_files/982_poster_sun_front_c.jpg
+   caption: otra
 ---
 
 {{< tweet 1262678794554486784 >}}
