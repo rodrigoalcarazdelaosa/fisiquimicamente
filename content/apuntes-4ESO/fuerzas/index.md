@@ -113,7 +113,7 @@ Las **fuerzas** que actúan son:
 
 - Peso $\vec P = -P_x\ihat - P_y\jhat$, donde:
 	\begin{align*}
-	P_x &= mg\sin\alpha = 9.8m\sin\SI{30}{\degree} = 4.9m\,\si{\N} \\
+	P_x &= mg\sin\alpha = 9.8m\sin\SI{30}{\degree} = 4.9m\,\si{\N} \\\\
 	P_y &= mg\cos\alpha = 9.8m\cos\SI{30}{\degree} = 4.9\sqrt{3}m\,\si{N}
 	\end{align*}
 - Normal $\vec N = N\jhat$
