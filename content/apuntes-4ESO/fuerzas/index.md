@@ -123,8 +123,7 @@ Las **fuerzas** que actúan son:
 
 Escribimos la **2ª ley de Newton** para cada **componente**:
 \begin{align}
-\label{eq:x_ejemplo}
-\text{Componente $x$}&\rightarrow f_\mathrm r - P_x = ma \\\\
+\text{Componente $x$}&\rightarrow f_\mathrm r - P_x = ma \tag{1} \\\\
 \label{eq:y_ejemplo}
 \text{Componente $y$}&\rightarrow N-P_y = 0
 \end{align}
