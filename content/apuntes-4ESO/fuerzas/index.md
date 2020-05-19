@@ -71,7 +71,15 @@ En el SI la fuerza se mide en Newton (N): $1\thinspace\mathrm N = 1\thinspace \m
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario ($\vec F_\text{AB} = -\vec F_\text{BA}$).
 
 ## Fuerzas de especial interés
+
 ### Peso
+El **peso** es la fuerza con la que la Tierra atrae a un objeto. Se calcula como:
+$$
+\vec P = m\vec g,
+$$
+donde $m$ es la masa del objeto y $\vec g$ es la aceleración de la gravedad. Siempre se dirige hacia el centro de la Tierra (hacia abajo en la mayoría de los casos).
+
 ### Normal
+
 ### Rozamiento
 ### Centrípeta
