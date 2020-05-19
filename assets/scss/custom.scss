@@ -372,3 +372,7 @@ select.form-control:focus::-ms-value {
 
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
 	color: $red; }  
+	
+.hljs {
+	background: #fffff8;
+}		
