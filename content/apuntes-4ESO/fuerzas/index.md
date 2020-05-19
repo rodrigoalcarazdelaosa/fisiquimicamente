@@ -107,5 +107,40 @@ $$
 
 ---
 
+Lo primero hacemos un dibujo representando la situación:
+				
+Las **fuerzas** que actúan son:
 
+- Peso $\vec P = -P_x\ihat - P_y\jhat$, donde:
+	\begin{align*}
+	P_x &= mg\sin\alpha = 9.8m\sin\SI{30}{\degree} = 4.9m\,\si{\N} \\
+	P_y &= mg\cos\alpha = 9.8m\cos\SI{30}{\degree} = 4.9\sqrt{3}m\,\si{N}
+	\end{align*}
+- Normal $\vec N = N\jhat$
+- Fuerza de rozamiento $\vec f_\mathrm r=\mu N\ihat = 0.2N\ihat\,\si{N}$
+
+Escribimos la \textbf{2ª ley de Newton} para cada \textbf{componente}:
+\begin{align}
+\label{eq:x_ejemplo}
+\text{\textbf{Componente} $x$}&\rightarrow f_\mathrm r - P_x = ma \\
+\label{eq:y_ejemplo}
+\text{\textbf{Componente} $y$}&\rightarrow N-P_y = 0
+\end{align}
+
+Despejando $N=P_y=4.9\sqrt{3}m$ de \eqref{eq:y_ejemplo} y sustituyendo en \eqref{eq:x_ejemplo}, utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
+\begin{gather*}		  	
+0.2\cdot 4.9\sqrt{3}\cancel{m} - 4.9\cancel{m} = \cancel{m}a \rightarrow a = -\SI{3.2}{\m/\s\squared}\\
+\vec a = -3.2\ihat\,\si{\m/\s\squared}
+\end{gather*}
+
+La \textbf{velocidad} que llevará a los \SI{5}{\s} la calculamos con la \textbf{ecuación de la velocidad}:
+\begin{gather*}		  	
+v = v_0 + at = 0 - 3.2\cdot 5 = \SI{-16.0}{\m/\s}\\
+\vec v = -16.0\ihat\,\si{\m/\s}
+\end{gather*}
+
+Para el \textbf{espacio recorrido} podemos utilizar la \textbf{ecuación del movimiento}:
+\begin{align*}
+\Delta x = \mleft\lvert x - x_0\mright\rvert &= \mleft\lvert v_0\cdot t + \frac{1}{2}at^2\mright\rvert \\ &= \mleft\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\mright\rvert = \SI{40.0}{\m}
+\end{align*}
 {{% /alert %}}
