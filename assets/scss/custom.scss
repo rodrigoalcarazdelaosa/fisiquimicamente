@@ -213,6 +213,9 @@ color: $primary; }
 .portrait-title h3 {
   color: #555555; }
   
+ul.ul-edu li .description p.institution {
+color: #555555; }  
+  
 /*************************************************
 *  Documentation layout
 **************************************************/  
@@ -252,11 +255,7 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
 	  height: 9px;
 	  background-color: $primary;
 	}
-}  
-  
-// Color de la institución en Formación
-ul.ul-edu li .description p.institution {
-color: #555555; }
+}    
 
 // Color de text-muted
 .text-muted {
