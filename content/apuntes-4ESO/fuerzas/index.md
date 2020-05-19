@@ -144,8 +144,7 @@ v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\\\
 ---
 
 Para el **espacio recorrido** podemos utilizar la **ecuación del movimiento**:
-\begin{align*}
-\Delta x = \left\lvert x - x_0\right\rvert &= \left\lvert v_0\cdot t + \frac{1}{2}at^2\right\rvert \\\\
- &= \left\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\right\rvert = 40.0\thinspace\mathrm m
-\end{align*}
+$$
+\Delta x = \left\lvert x - x_0\right\rvert = \left\lvert v_0\cdot t + \frac{1}{2}at^2\right\rvert = \left\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\right\rvert = 40.0\thinspace\mathrm m
+$$
 {{% /alert %}}
