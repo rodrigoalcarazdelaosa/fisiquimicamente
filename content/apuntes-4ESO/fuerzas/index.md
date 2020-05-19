@@ -119,10 +119,10 @@ Las **fuerzas** que actúan son:
 - Normal $\vec N = N\jhat$
 - Fuerza de rozamiento $\vec f_\mathrm r=\mu N\ihat = 0.2N\ihat\thinspace\mathrm{N}$
 
-Escribimos la \textbf{2ª ley de Newton} para cada \textbf{componente}:
+Escribimos la **2ª ley de Newton** para cada **componente**:
 \begin{align}
 \label{eq:x_ejemplo}
-\text{\textbf{Componente} $x$}&\rightarrow f_\mathrm r - P_x = ma \\
+\text{\textbf{Componente} $x$}&\rightarrow f_\mathrm r - P_x = ma \\\\
 \label{eq:y_ejemplo}
 \text{\textbf{Componente} $y$}&\rightarrow N-P_y = 0
 \end{align}
