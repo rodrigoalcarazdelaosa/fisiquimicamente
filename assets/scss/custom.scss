@@ -193,6 +193,9 @@ color: #555555; }
   color: $primary;
   /* text-shadow: 1px 1px 4px rgba(255,255,255,1); */
   /* Uncomment to standout on complicated backgrounds. */ }
+  
+.wg-hero.dark a:not(.wg-hero .btn) {
+color: $primary; }  
 
 .card h5 {
 color: #555555; }
@@ -241,10 +244,7 @@ color: #555555; }
 .home-section.dark h2,
 .home-section.dark h3,
 .home-section.dark a:not(.btn) {
-color: $primary; }  
-  
-.wg-hero.dark a:not(.wg-hero .btn) {
-color: $primary; }
+color: $primary; }    
 
 // Color de los metada de artículo
 .article-metadata {
