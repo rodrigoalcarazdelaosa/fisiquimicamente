@@ -80,6 +80,13 @@ $$
 donde $m$ es la masa del objeto y $\vec g$ es la aceleración de la gravedad. Siempre se dirige hacia el centro de la Tierra (hacia abajo en la mayoría de los casos).
 
 ### Normal
+También llamada fuerza de **reacción**, se define como la fuerza que ejerce una superficie sobre un cuerpo apoyado sobre ella. Esta es de igual magnitud y dirección, pero de sentido contrario a la fuerza ejercida por el cuerpo sobre la superficie.
+
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width=.8\textwidth]{normal}
+		\caption{Fuerza normal en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical.}
+\end{figure}
 
 ### Rozamiento
 ### Centrípeta
