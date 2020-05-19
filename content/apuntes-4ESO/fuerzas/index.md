@@ -41,3 +41,11 @@ Sentido
 {{< figure src="vector.png" title="En dos dimensiones, un vector se puede escribir como $\newcommand{\ihat}{\hat{\imath}}\newcommand{\jhat}{\hat{\jmath}}\vec a = a_x \ihat + a_y \jhat$, donde $\ihat$ y $\jhat$ son vectores unitarios ($\text{módulo} = 1$) a lo largo de los ejes $x$ e $y$. El módulo de $\vec a$, $|\vec a|$, se calcula como (teorema de Pitágoras) $|\vec a| = \sqrt{a_x^2+a_y^2}$." lightbox="true" >}}
 
 ### Suma o resta de vectores
+Gráficamente, dibujando un vector a continuación del otro y uniendo el origen con el punto final:
+
+{{< figure src="suma-vectores.png" lightbox="true" >}}
+
+O analíticamente, componente a componente:
+	\[
+	\vec a + \vec b = (a_x+b_x)\ihat + (a_y+b_y)\jhat
+	\]	
