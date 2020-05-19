@@ -145,6 +145,9 @@ div.alert-example > div:first-child::before {
  *  Card component
  **************************************************/
 
+.card .card-text p {
+  color: #555555; }
+
 .card h5 {
 color: #555555; }
 
@@ -233,10 +236,7 @@ color: $primary; }
     color: #ffffff;
     text-decoration: none;
     background-color: $primary;
-    border-color: $primary; }
-	
-.card .card-text p {
-  color: #555555; }	
+    border-color: $primary; }		
 
 // Botones
 .wg-hero.dark .btn {
