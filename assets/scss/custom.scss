@@ -206,6 +206,14 @@ color: #555555; }
  *  Page Builder: sections and widgets
  **************************************************/
 
+/* Override dark colors that may be inherited from body.dark */
+.home-section.dark,
+.home-section.dark h1,
+.home-section.dark h2,
+.home-section.dark h3,
+.home-section.dark a:not(.btn) {
+color: $primary; }    	
+
 .section-heading p {
   font-family: "Cabin Sketch", sans-serif;
   color: $primary_complementary;
@@ -303,15 +311,7 @@ border: 1px solid $primary; }
   color: #ffffff;
   text-decoration: none;
   background-color: $primary;
-  border-color: $primary; }	
-  
-/* Override dark colors that may be inherited from body.dark */
-.home-section.dark,
-.home-section.dark h1,
-.home-section.dark h2,
-.home-section.dark h3,
-.home-section.dark a:not(.btn) {
-color: $primary; }    	
+  border-color: $primary; }	  
 
 // Botones
 .wg-hero.dark .btn {
