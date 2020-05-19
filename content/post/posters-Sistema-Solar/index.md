@@ -44,3 +44,4 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, 
 {{< gallery album="Sol" >}}
 
 ## Mercurio
+{{< gallery album="Mercurio" >}}
