@@ -345,7 +345,10 @@ border: 1px solid $primary; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(25, 101, 176, 0.5); }	  
   
-// Formulario de contacto
+/*************************************************
+*  Forms
+**************************************************/  
+	  
 .form-control {
   color: $primary;
   border: 1px solid $primary; }
