@@ -50,5 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<!--Div that will hold the pie chart-->
-<div id="chart_div"></div>
+<div id="curve_chart" style="width: 900px; height: 500px"></div>
