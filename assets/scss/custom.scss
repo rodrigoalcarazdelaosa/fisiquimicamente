@@ -15,6 +15,10 @@ body {
   color: #111111;
   background-color: #fffff8; }
   
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+color: $primary; }  
+  
 /*************************************************
 *  Gallery.
 **************************************************/
@@ -190,12 +194,7 @@ color: $primary; }
   color: $primary_complementary; }
 .article-metadata a,
 .article-metadata a:hover {
-    color: $primary_complementary; }
-	
-// Color de los headings
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  color: $primary; }
+    color: $primary_complementary; }	
   
 .article-title a {
 color: $primary; }
