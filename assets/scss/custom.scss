@@ -177,6 +177,10 @@ mark,
 background-color: $primary_complementary_bg;
 color: $primary_complementary; }
 
+.form-control:focus {
+  border-color: $primary;
+  box-shadow: 0 0 0 0.2rem $primary; }
+
 /*************************************************
  *  Page content
  **************************************************/
@@ -340,10 +344,6 @@ border: 1px solid $primary; }
     border-color: $primary; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(25, 101, 176, 0.5); }	  
-
-.form-control:focus {
-  border-color: $primary;
-  box-shadow: 0 0 0 0.2rem $primary; }
   
 // Formulario de contacto
 .form-control {
