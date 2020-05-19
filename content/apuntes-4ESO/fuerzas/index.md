@@ -133,14 +133,19 @@ Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además
 \vec a = -3.2\ihat\thinspace\mathrm{m/s^2}
 \end{gather*}
 
-La \textbf{velocidad} que llevará a los \SI{5}{\s} la calculamos con la \textbf{ecuación de la velocidad}:
+---
+
+La **velocidad** que llevará a los $5\thinspace\mathrm s$ la calculamos con la **ecuación de la velocidad**:
 \begin{gather*}		  	
-v = v_0 + at = 0 - 3.2\cdot 5 = \SI{-16.0}{\m/\s}\\
+v = v_0 + at = 0 - 3.2\cdot 5 = \SI{-16.0}{\m/\s}\\\\
 \vec v = -16.0\ihat\,\si{\m/\s}
 \end{gather*}
 
-Para el \textbf{espacio recorrido} podemos utilizar la \textbf{ecuación del movimiento}:
+---
+
+Para el **espacio recorrido** podemos utilizar la **ecuación del movimiento**:
 \begin{align*}
-\Delta x = \mleft\lvert x - x_0\mright\rvert &= \mleft\lvert v_0\cdot t + \frac{1}{2}at^2\mright\rvert \\ &= \mleft\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\mright\rvert = \SI{40.0}{\m}
+\Delta x = \mleft\lvert x - x_0\mright\rvert &= \mleft\lvert v_0\cdot t + \frac{1}{2}at^2\mright\rvert \\\\
+ &= \mleft\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\mright\rvert = \SI{40.0}{\m}
 \end{align*}
 {{% /alert %}}
