@@ -25,10 +25,7 @@ links:
 
 {{% toc %}}
 
-$$
-\newcommand{\ihat}{\hat{\imath}}
-\newcommand{\jhat}{\hat{\jmath}}
-$$
+
 
 ## Naturaleza vectorial de las fuerzas
 
