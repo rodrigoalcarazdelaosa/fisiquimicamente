@@ -147,6 +147,9 @@ div.alert-example > div:first-child::before {
 
 .card .card-text p {
   color: #555555; }
+  
+.card .card-image.hover-overlay:after {
+color: #555; }  
 
 .card h5 {
 color: #555555; }
@@ -265,11 +268,7 @@ color: $white; }
     background-color: $primary;
     border-color: $primary; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(25, 101, 176, 0.5); }	
-  
-// Card overlay
-.card .card-image.hover-overlay:after {
-color: #555; }
+      box-shadow: 0 0 0 0.2rem rgba(25, 101, 176, 0.5); }	  
 
 /*************************************************
  *  Search
