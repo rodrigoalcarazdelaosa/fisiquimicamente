@@ -12,3 +12,5 @@ image:
 ---
 
 {{< tweet 1262678794554486784 >}}
+
+[Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado los *pósters del Sistema Solar*.
