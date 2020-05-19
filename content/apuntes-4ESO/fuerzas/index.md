@@ -108,6 +108,8 @@ $$
 ---
 
 Lo primero hacemos un dibujo representando la situación:
+
+{{< figure src="plano-inclinado.png" lightbox="true" >}}
 				
 Las **fuerzas** que actúan son:
 
