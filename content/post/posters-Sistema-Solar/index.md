@@ -26,4 +26,4 @@ gallery_item:
 En esta entrada solo quiero recorrer los distintos pósters, ya que todos ellos son **impresionantes**.
 
 ## Sol
-{{< Sol >}}
+{{< gallery >}}
