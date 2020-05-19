@@ -122,9 +122,9 @@ Las **fuerzas** que actúan son:
 Escribimos la **2ª ley de Newton** para cada **componente**:
 \begin{align}
 \label{eq:x_ejemplo}
-\text{\textbf{Componente} $x$}&\rightarrow f_\mathrm r - P_x = ma \\\\
+\text{Componente $x$}&\rightarrow f_\mathrm r - P_x = ma \\\\
 \label{eq:y_ejemplo}
-\text{\textbf{Componente} $y$}&\rightarrow N-P_y = 0
+\text{Componente $y$}&\rightarrow N-P_y = 0
 \end{align}
 
 Despejando $N=P_y=4.9\sqrt{3}m$ de \eqref{eq:y_ejemplo} y sustituyendo en \eqref{eq:x_ejemplo}, utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
