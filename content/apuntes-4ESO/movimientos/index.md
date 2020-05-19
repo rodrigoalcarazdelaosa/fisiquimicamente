@@ -317,6 +317,8 @@ Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 	v &= \omega R
 \end{align*}
 
+### Aceleración centrípeta $a_\mathrm c$
+
 ### Ejemplo
 {{% alert example %}}
 <br>
