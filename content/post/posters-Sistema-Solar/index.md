@@ -40,7 +40,7 @@ gallery_item:
   caption: "Una [vista tridimensional en perspectiva generada por ordenador de Sapas Mons](https://solarsystem.nasa.gov/resources/774/venus-3-d-perspective-view-of-sapas-mons/) en la superficie de Venus, basada en los datos del radar de la misión Magallanes de la NASA. Crédito: NASA/JPL <br> PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1319_Venus_B_PDF.zip)"
 - album: Tierra
   image: "991_poster_earth_front_a.jpg"
-  caption: "Una [vista tridimensional en perspectiva generada por ordenador de Sapas Mons](https://solarsystem.nasa.gov/resources/774/venus-3-d-perspective-view-of-sapas-mons/) en la superficie de Venus, basada en los datos del radar de la misión Magallanes de la NASA. Crédito: NASA/JPL <br> PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1319_Venus_B_PDF.zip)"  
+  caption: "En 2002, científicos de la NASA _cosieron_ tiras de [imágenes en color natural de la Tierra](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/), recogidas durante cuatro meses desde el instrumento MODIS a bordo del satélite Terra de la NASA. Crédito: El Observatorio de la Tierra de la NASA <br> PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1445_Earth_A_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
