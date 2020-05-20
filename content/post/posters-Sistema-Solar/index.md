@@ -134,7 +134,7 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 ## Asteroides
 {{< gallery album="Asteroides" >}}
 ### Ceres
-{{< gallery album="Asteroides" >}}
+{{< gallery album="Ceres" >}}
 
 ## Júpiter
 {{< gallery album="Jupiter" >}}
