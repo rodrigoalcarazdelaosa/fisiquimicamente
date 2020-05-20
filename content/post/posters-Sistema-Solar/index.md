@@ -165,6 +165,7 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 ### Europa
 {{< gallery album="Europa" >}}
 ### Ganímedes
+{{< figure src="947_poster_ganymede_front_a.jpg" title="Esta vista de la [región Nicholson Regio/Arbela Sulcus](https://solarsystem.nasa.gov/resources/813/regional-view-of-bright-and-dark-terrain/), tomada por la nave espacial Galileo de la NASA, muestra el marcado contraste entre el suave y brillante terreno y el terreno oscuro altamente fracturado que lo rodea. Crédito: NASA/JPL/Brown University/Doug Ellison <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1353_Ganymede_A_PDF.zip)" lightbox="true" >}}
 ### Calisto
 
 ## Saturno
