@@ -106,7 +106,7 @@ gallery_item:
   caption: "Esta vista de Ceres, tomada por la nave espacial Dawn de la NASA en diciembre de 2015, muestra un [área en el hemisferio sur del planeta enano](https://solarsystem.nasa.gov/resources/625/dawns-lowest-orbit-near-south-pole/?category=planets/dwarf-planets_ceres). Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1425_Ceres_B_PDF.zip)"
 - album: Ceres
   image: "986_poster_ceres_front_c.jpg"
-  caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"    
+  caption: "Esta [imagen de Ceres](https://solarsystem.nasa.gov/resources/792/dawn-rc3-image-3/) es parte de una secuencia tomada por la nave espacial Dawn de la NASA en 2015. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"    
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
