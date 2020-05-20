@@ -56,6 +56,9 @@ gallery_item:
 - album: Tierra
   image: "996_poster_earth_front_f.jpg"
   caption: "En esta imagen del satélite Landsat 8 de la NASA, [varios glaciares fluyen hacia el Valle Shimshal](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"
+- album: Luna
+  image: "1003_poster_moon_front_a"
+  caption: "En esta imagen del satélite Landsat 8 de la NASA, [varios glaciares fluyen hacia el Valle Shimshal](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"  
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
