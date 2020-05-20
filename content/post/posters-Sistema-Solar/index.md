@@ -98,6 +98,8 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 ## Nuestro Sistema Solar
 ![sistema solar](https://solarsystem.nasa.gov/system/resources/detail_files/2283_poster_ss_front_a_web.jpg)
 
+Esta representación artística muestra los ocho planetas principales de nuestro sistema solar alineados como si estuvieran transitando por el Sol. Aunque tal vista no sería posible en la realidad, el gráfico pretende mostrar la escala exacta de los planetas, en relación a cada uno de ellos y al Sol.
+
 ## El Sol
 {{< gallery album="Sol" >}}
 
