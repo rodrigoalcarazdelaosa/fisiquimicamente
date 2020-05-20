@@ -91,7 +91,7 @@ gallery_item:
   caption: "Un [mosaico del hemisferio del Valles Marineris de Marte](https://solarsystem.nasa.gov/resources/683/mars-valles-marineris-hemisphere-enhanced/), creado con imágenes de los orbitadores Viking de la NASA, proyectadas en perspectiva puntual &mdash;una vista similar a la que se vería desde una nave espacial. Crédito: NASA/JPL-Caltech <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1573_1573_Mars_B_PDF.zip)"
 - album: Marte
   image: "1036_poster_mars_front_a.jpg"
-  caption: "Un [mosaico del hemisferio del Valles Marineris de Marte](https://solarsystem.nasa.gov/resources/683/mars-valles-marineris-hemisphere-enhanced/), creado con imágenes de los orbitadores Viking de la NASA, proyectadas en perspectiva puntual &mdash;una vista similar a la que se vería desde una nave espacial. Crédito: NASA/JPL-Caltech <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1569_1569_Mars_C_PDF.zip)"    
+  caption: "Un [mosaico del hemisferio del Valles Marineris de Marte](https://solarsystem.nasa.gov/resources/683/mars-valles-marineris-hemisphere-enhanced/), creado con imágenes de los orbitadores Viking de la NASA, proyectadas en perspectiva puntual &mdash;una vista similar a la que se vería desde una nave espacial. Crédito: NASA/JPL-Caltech <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1577_1577_Mars_C_PDF.zip)"    
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
