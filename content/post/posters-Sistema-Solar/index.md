@@ -34,10 +34,10 @@ gallery_item:
   caption: "Una [vista en perspectiva](https://solarsystem.nasa.gov/resources/773/lowlands-in-mercurys-north/) desde la nave espacial MESSENGER de la NASA, mirando hacia el norte de Mercurio y coloreada por la altura topográfica de la superficie. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington <br> PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1619_Mercury_C_PDF.zip)"
 - album: Venus
   image: "937_poster_venus_front_a.jpg"
-  caption: "El terreno en el [hemisferio norte de Venus](https://solarsystem.nasa.gov/resources/775/venus-computer-simulated-global-view-of-the-northern-hemisphere/), basado en los datos del radar de la misión Magallanes de la NASA. Crédito: NASA/JPL"
+  caption: "El terreno en el [hemisferio norte de Venus](https://solarsystem.nasa.gov/resources/775/venus-computer-simulated-global-view-of-the-northern-hemisphere/), basado en los datos del radar de la misión Magallanes de la NASA. Crédito: NASA/JPL <br> PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1315_Venus_A_PDF.zip)"
 - album: Venus
   image: "938_poster_venus_front_b.jpg"
-  caption: "Una [vista tridimensional en perspectiva generada por ordenador de Sapas Mons](https://solarsystem.nasa.gov/resources/774/venus-3-d-perspective-view-of-sapas-mons/) en la superficie de Venus, basada en los datos del radar de la misión Magallanes de la NASA. Crédito: NASA/JPL"
+  caption: "Una [vista tridimensional en perspectiva generada por ordenador de Sapas Mons](https://solarsystem.nasa.gov/resources/774/venus-3-d-perspective-view-of-sapas-mons/) en la superficie de Venus, basada en los datos del radar de la misión Magallanes de la NASA. Crédito: NASA/JPL <br> PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1319_Venus_B_PDF.zip)"
 ---
 
 {{< tweet 1262678794554486784 >}}
