@@ -196,7 +196,7 @@ gallery_item:
   caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1294_Beyond_A_PDF.zip)"
 - album: Mas-alla
   image: "939_poster_beyond_front_b.jpg"
-  caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1323_Beyond_B_PDF.zip)"
+  caption: "La región alrededor del centro de nuestra galaxia de la Vía Láctea brilla con colores en [esta imagen tomada por el Telescopio Espacial Spitzer de la NASA](https://solarsystem.nasa.gov/resources/496/stars-gather-in-downtown-milky-way/). Crédito: NASA/JPL-Caltech <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1323_Beyond_B_PDF.zip)"
 - album: Mas-alla
   image: "940_poster_beyond_front_c.jpg"
   caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1327_Beyond_C_PDF.zip)"
