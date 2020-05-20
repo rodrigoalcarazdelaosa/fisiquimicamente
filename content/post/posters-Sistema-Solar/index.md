@@ -89,7 +89,9 @@ gallery_item:
 
 {{< tweet 1262678794554486784 >}}
 
+{{% alert note %}}
 En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, junto con su descripción traducida (pinchando en cada una de las imágenes).
+{{% /alert %}}
 
 {{% toc %}}
 
