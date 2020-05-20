@@ -214,9 +214,9 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 ### Encélado
 {{< gallery album="Encelado" >}}
 ## Urano
-
+{{< gallery album="Urano" >}}
 ## Neptuno
-
+{{< gallery album="Neptuno" >}}
 ## Plutón
 
 ## Cometas
