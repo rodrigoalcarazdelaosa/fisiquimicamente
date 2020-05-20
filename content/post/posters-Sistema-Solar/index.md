@@ -166,7 +166,7 @@ gallery_item:
   caption: "Una [vista del planeta Urano](https://solarsystem.nasa.gov/resources/797/uranus/) tomada por la nave espacial Voyager 2 de la NASA en 1986. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1384_Uranus_B_PDF.zip)"
 - album: Urano
   image: "976_poster_uranus_front_c.jpg"
-  caption: "Una [vista del planeta Urano](https://solarsystem.nasa.gov/resources/599/uranus-as-seen-by-nasas-voyager-2/) capturada por la nave espacial Voyager 2 de la NASA en 1986. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1389_Uranus_C_PDF.zip)"    
+  caption: "Esta [imagen compuesta en infrarrojo de Urano y sus anillos](https://solarsystem.nasa.gov/resources/605/keck-telescope-views-of-uranus/) proviene del Telescopio Keck. Crédito: Lawrence Sromovsky, Universidad de Wisconsin-Madison/Observatorio W.W. Keck <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1389_Uranus_C_PDF.zip)"    
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
