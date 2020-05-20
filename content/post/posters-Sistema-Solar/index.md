@@ -152,6 +152,7 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 {{< figure src="1032_poster_jupiter_front_a.jpg" title="Este [mosaico de color verdadero de Júpiter](https://solarsystem.nasa.gov/resources/629/cassini-jupiter-portrait/) fue construido a partir de imágenes tomadas por la cámara de ángulo estrecho a bordo de la nave espacial Cassini de la NASA en diciembre de 2000. Crédito: NASA/JPL/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1556_Jupiter_A_PDF.zip)" lightbox="true" >}}
 
 ### Ío
+{{< gallery album="Io" >}}
 ### Europa
 ### Ganímedes
 ### Calisto
