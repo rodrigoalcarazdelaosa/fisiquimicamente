@@ -95,6 +95,9 @@ gallery_item:
 - album: Asteroides
   image: "916_poster_asteroids_front_a.jpg"
   caption: "[Esta vista del asteroide 243 Ida](https://solarsystem.nasa.gov/resources/777/asteroid-ida-five-frame-mosaic/) fue adquirida por la nave espacial Galileo de la NASA el 28 de agosto de 1993, unos 3 minutos y medio antes de que la nave espacial pasara al lado de Ida. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1285_Asteroids_A_PDF.zip)"
+- album: Asteroides
+  image: "923_poster_asteroids_front_b.jpg"
+  caption: "[Esta vista del asteroide 243 Ida](https://solarsystem.nasa.gov/resources/777/asteroid-ida-five-frame-mosaic/) fue adquirida por la nave espacial Galileo de la NASA el 28 de agosto de 1993, unos 3 minutos y medio antes de que la nave espacial pasara al lado de Ida. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"  
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
