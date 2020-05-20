@@ -185,6 +185,12 @@ gallery_item:
 - album: Cometas
   image: "988_poster_comets_front_a.jpg"
   caption: "Un mosaico que comprende [cuatro imágenes individuales del cometa 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/788/rosetta-comet/) de la misión Rosetta de la Agencia Espacial Europea en noviembre de 2014. Crédito: ESA/Rosetta/NAVCAM <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1433_Comets_A_PDF.zip)"
+- album: Cometas
+  image: "988_poster_comets_front_a.jpg"
+  caption: "Un mosaico que comprende [cuatro imágenes individuales del cometa 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/788/rosetta-comet/) de la misión Rosetta de la Agencia Espacial Europea en noviembre de 2014. Crédito: ESA/Rosetta/NAVCAM <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1437_Comets_B_PDF.zip)"
+- album: Cometas
+  image: "988_poster_comets_front_a.jpg"
+  caption: "Un mosaico que comprende [cuatro imágenes individuales del cometa 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/788/rosetta-comet/) de la misión Rosetta de la Agencia Espacial Europea en noviembre de 2014. Crédito: ESA/Rosetta/NAVCAM <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1441_Comets_C_PDF.zip)"    
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
