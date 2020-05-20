@@ -57,31 +57,31 @@ gallery_item:
   image: "996_poster_earth_front_f.jpg"
   caption: "En esta imagen del satélite Landsat 8 de la NASA, [varios glaciares fluyen hacia el Valle Shimshal](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"
 - album: Luna
-  image: "1003_poster_moon_front_a"
+  image: "1003_poster_moon_front_a.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1493_Moon_A_PDF.zip)"
 - album: Luna
-  image: "1004_poster_moon_front_b_v2"
+  image: "1004_poster_moon_front_b_v2.jpg"
   caption: "Un astronauta del Apolo 17 [de pie en la superficie lunar](https://solarsystem.nasa.gov/resources/794/apollo-17-astronaut-and-united-states-flag-on-lunar-surface/). Crédito: NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1497_Moon_B_PDF.zip)"
 - album: Luna
-  image: "1005_poster_moon_front_c_v2"
+  image: "1005_poster_moon_front_c_v2.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1501_Moon_C_PDF.zip)"
 - album: Luna
-  image: "1006_poster_moon_front_d_v2"
+  image: "1006_poster_moon_front_d_v2.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1505_Moon_D_PDF.zip)"
 - album: Luna
-  image: "1007_poster_moon_front_e_v2"
+  image: "1007_poster_moon_front_e_v2.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1509_Moon_E_PDF.zip)"
 - album: Luna
-  image: "1008_poster_moon_front_f"
+  image: "1008_poster_moon_front_f.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1513_Moon_F_PDF.zip)"
 - album: Luna
-  image: "1009_poster_moon_front_g"
+  image: "1009_poster_moon_front_g.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1517_Moon_G_PDF.zip)"
 - album: Luna
-  image: "1010_poster_moon_front_h"
+  image: "1010_poster_moon_front_h.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1521_Moon_H_PDF.zip)"
 - album: Luna
-  image: "1011_poster_moon_front_i"
+  image: "1011_poster_moon_front_i.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1525_Moon_I_PDF.zip)"
 ---
 
