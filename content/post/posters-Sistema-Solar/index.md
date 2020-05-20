@@ -128,6 +128,15 @@ gallery_item:
 - album: Saturno
   image: "1041_poster_saturn_front_a.jpg"
   caption: "La nave espacial Cassini de la NASA se despidió del sistema de Saturno capturando este [último y completo mosaico](https://solarsystem.nasa.gov/resources/657/a-farewell-to-saturn/) de Saturno y sus anillos dos días antes de la dramática caída de la nave espacial en la atmósfera del planeta. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1583_Saturn_A_PDF.zip)"
+- album: Saturno
+  image: "1042_poster_saturn_front_b.jpg"
+  caption: "La nave espacial Cassini de la NASA se despidió del sistema de Saturno capturando este [último y completo mosaico](https://solarsystem.nasa.gov/resources/657/a-farewell-to-saturn/) de Saturno y sus anillos dos días antes de la dramática caída de la nave espacial en la atmósfera del planeta. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1587_Saturn_B_PDF.zip)"
+- album: Saturno
+  image: "1043_poster_saturn_front_c.jpg"
+  caption: "La nave espacial Cassini de la NASA se despidió del sistema de Saturno capturando este [último y completo mosaico](https://solarsystem.nasa.gov/resources/657/a-farewell-to-saturn/) de Saturno y sus anillos dos días antes de la dramática caída de la nave espacial en la atmósfera del planeta. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1591_Saturn_C_PDF.zip)"
+- album: Saturno
+  image: "1044_poster_saturn_front_d.jpg"
+  caption: "La nave espacial Cassini de la NASA se despidió del sistema de Saturno capturando este [último y completo mosaico](https://solarsystem.nasa.gov/resources/657/a-farewell-to-saturn/) de Saturno y sus anillos dos días antes de la dramática caída de la nave espacial en la atmósfera del planeta. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1595_Saturn_D_PDF.zip)"      
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
