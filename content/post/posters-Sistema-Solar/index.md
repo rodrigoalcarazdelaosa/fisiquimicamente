@@ -149,6 +149,15 @@ gallery_item:
 - album: Encelado
   image: "1012_poster_enceladus_front_a.jpg"
   caption: "Al descender en picado por el polo sur de la luna de Saturno Encélado en julio de 2005, Cassini adquirió [vistas de alta resolución](https://solarsystem.nasa.gov/resources/214/zooming-in-on-enceladus-mosaic/) de este desconcertante mundo de hielo y océanos. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1529_Enceladus_A_PDF.zip)"
+- album: Encelado
+  image: "1013_poster_enceladus_front_b.jpg"
+  caption: "Al descender en picado por el polo sur de la luna de Saturno Encélado en julio de 2005, Cassini adquirió [vistas de alta resolución](https://solarsystem.nasa.gov/resources/214/zooming-in-on-enceladus-mosaic/) de este desconcertante mundo de hielo y océanos. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1529_Enceladus_A_PDF.zip)"
+- album: Encelado
+  image: "1014_poster_enceladus_front_c.jpg"
+  caption: "Al descender en picado por el polo sur de la luna de Saturno Encélado en julio de 2005, Cassini adquirió [vistas de alta resolución](https://solarsystem.nasa.gov/resources/214/zooming-in-on-enceladus-mosaic/) de este desconcertante mundo de hielo y océanos. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1529_Enceladus_A_PDF.zip)"
+- album: Encelado
+  image: "1015_poster_enceladus_front_d.jpg"
+  caption: "Al descender en picado por el polo sur de la luna de Saturno Encélado en julio de 2005, Cassini adquirió [vistas de alta resolución](https://solarsystem.nasa.gov/resources/214/zooming-in-on-enceladus-mosaic/) de este desconcertante mundo de hielo y océanos. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1529_Enceladus_A_PDF.zip)"      
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
