@@ -54,3 +54,6 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, 
 
 ## Venus
 {{< gallery album="Venus" >}}
+
+## Tierra
+{{< gallery album="Tierra" >}}
