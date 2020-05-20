@@ -91,7 +91,7 @@ gallery_item:
   caption: "Un autorretrato del [rover Curiosity Mars de la NASA](https://solarsystem.nasa.gov/resources/801/curiosity-self-portrait-at-mojave-site-on-mount-sharp/) en el cráter Gale. Crédito: NASA/JPL-Caltech/MSSS <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1573_1573_Mars_B_PDF.zip)"
 - album: Marte
   image: "1038_poster_mars_front_c.jpg"
-  caption: "Un [mosaico del hemisferio del Valles Marineris de Marte](https://solarsystem.nasa.gov/resources/683/mars-valles-marineris-hemisphere-enhanced/), creado con imágenes de los orbitadores Viking de la NASA, proyectadas en perspectiva puntual &mdash;una vista similar a la que se vería desde una nave espacial. Crédito: NASA/JPL-Caltech <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1577_1577_Mars_C_PDF.zip)"    
+  caption: "Esta [mirada a una duna](https://solarsystem.nasa.gov/resources/464/curiositys-color-view-of-martian-dune-after-crossing-it/) que el rover Curiosidad Marte de la NASA atravesó fue tomada por la Cámara del Mástil del rover en Febrero de 2014. Crédito: NASA/JPL-Caltech/MSSS <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1577_1577_Mars_C_PDF.zip)"    
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
