@@ -79,7 +79,7 @@ gallery_item:
   caption: "Esta fotografía, tomada durante la segunda actividad extravehicular del Apolo 12, muestra [dos naves espaciales estadounidenses en la superficie de la Luna](https://solarsystem.nasa.gov/resources/821/apollo-12-and-surveyor-3/): el Módulo Lunar del Apolo 12 en el fondo, con la nave robótica Surveyor 3 en primer plano. Crédito: NASA/JSC <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1517_Moon_G_PDF.zip)"
 - album: Luna
   image: "1010_poster_moon_front_h.jpg"
-  caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1521_Moon_H_PDF.zip)"
+  caption: "El científico y astronauta Harrison Schmitt [junto a la bandera americana](https://solarsystem.nasa.gov/resources/760/a-scientist-on-the-moon/) durante un paseo lunar en la misión del Apolo 17. Crédito: NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1521_Moon_H_PDF.zip)"
 - album: Luna
   image: "1011_poster_moon_front_i.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1525_Moon_I_PDF.zip)"
