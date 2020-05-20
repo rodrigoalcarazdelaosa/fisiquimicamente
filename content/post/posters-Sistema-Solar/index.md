@@ -182,7 +182,7 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 ## Venus
 {{< gallery album="Venus" >}}
 
-## Tierra
+## La Tierra
 {{< gallery album="Tierra" >}}
 
 ### La Luna
