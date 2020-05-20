@@ -145,7 +145,7 @@ gallery_item:
   caption: "Ligeia Mare, mostrado aquí en una [imagen de color falso de la misión Cassini de la NASA](https://solarsystem.nasa.gov/resources/183/vast-ligeia-mare-in-false-color/), es el segundo mayor cuerpo de líquido conocido en la luna Titán de Saturno. Está lleno de hidrocarburos líquidos, como el etano y el metano. Crédito: NASA/JPL-Caltech/ASI/Cornell <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1397_Titan_B_PDF.zip)"
 - album: Titan
   image: "979_poster_titan_front_c.jpg"
-  caption: "La nave espacial Cassini de la NASA [mira hacia el lado nocturno de Titán](https://solarsystem.nasa.gov/resources/799/highlighting-titans-hazes/) en una vista que destaca la naturaleza extendida y nebulosa de la atmósfera de la luna. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1401_Titan_C_PDF.zip)"    
+  caption: "La nave espacial Cassini [mira hacia el polo norte de Titán](https://solarsystem.nasa.gov/resources/798/colorful-northern-crescent/), mostrando la noche y el día en el hemisferio norte de la luna más grande de Saturno. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1401_Titan_C_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
