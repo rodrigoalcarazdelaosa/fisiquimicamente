@@ -176,6 +176,12 @@ gallery_item:
 - album: Pluton
   image: "1045_poster_pluto_front_a.jpg"
   caption: "Una vista en color de Plutón, [como se vio en julio de 2015 por la misión New Horizons de la NASA](https://solarsystem.nasa.gov/resources/855/color-pluto/). Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Instituto de Investigación del Suroeste <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1599_Pluto_A_PDF.zip)"
+- album: Pluton
+  image: "1046_poster_pluto_front_b.jpg"
+  caption: "Una mirada a las montañas y llanuras de Plutón, [como se vio en julio de 2015 por la misión Nuevos Horizontes de la NASA](https://solarsystem.nasa.gov/resources/796/closer-look-majestic-mountains-and-frozen-plains/). Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Instituto de Investigación del Suroeste <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1603_Pluto_B_PDF.zip)"
+- album: Pluton
+  image: "1047_poster_pluto_front_c.jpg"
+  caption: "Una vista en color de Plutón, [como se vio en julio de 2015 por la misión New Horizons de la NASA](https://solarsystem.nasa.gov/resources/855/color-pluto/). Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Instituto de Investigación del Suroeste <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1607_Pluto_C_PDF.zip)"    
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
