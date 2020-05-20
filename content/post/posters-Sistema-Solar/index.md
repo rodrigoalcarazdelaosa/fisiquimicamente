@@ -82,7 +82,7 @@ gallery_item:
   caption: "El científico y astronauta Harrison Schmitt [junto a la bandera americana](https://solarsystem.nasa.gov/resources/760/a-scientist-on-the-moon/) durante un paseo lunar en la misión del Apolo 17. Crédito: NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1521_Moon_H_PDF.zip)"
 - album: Luna
   image: "1011_poster_moon_front_i.jpg"
-  caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1525_Moon_I_PDF.zip)"
+  caption: "Una vista cercana de la [huella de la bota de un astronauta](https://solarsystem.nasa.gov/resources/759/close-up-view-of-astronauts-footprint-in-lunar-soil/) en el suelo lunar, fotografiada durante la actividad extravehicular del Apolo 11 en la Luna. Crédito: NASA/JSC <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1525_Moon_I_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
