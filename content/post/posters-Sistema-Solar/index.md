@@ -103,10 +103,10 @@ gallery_item:
   caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
 - album: Ceres
   image: "985_poster_ceres_front_b.jpg"
-  caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
+  caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1425_Ceres_B_PDF.zip)"
 - album: Ceres
   image: "986_poster_ceres_front_c.jpg"
-  caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"    
+  caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"    
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
