@@ -48,7 +48,7 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, 
 
 {{% toc %}}
 
-## Sol
+## El Sol
 {{< gallery album="Sol" >}}
 
 ## Mercurio
