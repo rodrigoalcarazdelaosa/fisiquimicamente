@@ -30,6 +30,8 @@ Si no estás familiarizado con el **Sistema Internacional de Unidades (SI)** te 
 Si quieres ampliar la información mostrada aquí, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585199015985155?s=20) nos recomienda _imprimir y tener en nuestras aulas, laboratorios o seminarios_ [este fantástico póster](https://www.cem.es/sites/default/files/files/Poster%20Nuevo-SI.pdf) elaborado por el [Centro Español de Metrología (CEM)](https://www.cem.es) o echar un vistazo al magnífico artículo de David Newell [publicado en la revista Physics Today](https://physicstoday.scitation.org/doi/10.1063/PT.3.2448) (en inglés).
 {{% /alert %}}
 
+{{% toc %}}
+
 El **Sistema Internacional de Unidades (SI)** sufrió una [revisión en 2018](https://www.cem.es/sites/default/files/files/cem_revisionsi_edem_18mayo2018.pdf), con la **redefinición** de cuatro de sus siete _unidades de base_, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
 
 Esta actualización se realizó para conseguir definir todas las unidades **en función de constantes físicas universales**, algo que ya se había conseguido con anterioridad para el segundo (1967) y el metro (1983). La siguiente tabla resume la relación entre cada unidad y la constante universal en la que se basa:
