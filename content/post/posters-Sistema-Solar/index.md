@@ -205,7 +205,7 @@ gallery_item:
   caption: "Cassiopeia A, un remanente de supernova, [vista por el Observatorio de Rayos X Chandra de la NASA](https://www.nasa.gov/mission_pages/chandra/news/a-new-stellar-x-ray-reality-show). Crédito: NASA/CXC/SAO <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1331_Beyond_D_PDF.zip)"
 - album: Mas-alla
   image: "943_poster_beyond_front_e.jpg"
-  caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1337_Beyond_E_PDF.zip)"
+  caption: "RCW 108 es una región donde las estrellas se están formando activamente dentro de la Vía Láctea a unos 4.000 años luz de la Tierra. [Esta imagen](https://solarsystem.nasa.gov/resources/762/massive-young-stars-trigger-stellar-birth/) es una composición de datos de rayos X del Observatorio de Rayos X Chandra de la NASA (azul) y la emisión infrarroja detectada por el Telescopio Espacial Spitzer de la NASA (rojo y naranja). Crédito: NASA/JPL-Caltech/CXO/CfA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1337_Beyond_E_PDF.zip)"
 - album: Mas-alla
   image: "944_poster_beyond_front_f.jpg"
   caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1341_Beyond_F_PDF.zip)"          
