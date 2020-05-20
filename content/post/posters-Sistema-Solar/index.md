@@ -67,7 +67,7 @@ gallery_item:
   caption: "El astronauta James Irwin trabaja en el [Vehículo Itinerante Lunar](https://solarsystem.nasa.gov/resources/839/apollo-15-on-the-moon/) durante la primera actividad extravehicular de la superficie lunar del Apolo 15 en el sitio de aterrizaje de Hadley-Apeninos. Crédito: NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1501_Moon_C_PDF.zip)"
 - album: Luna
   image: "1006_poster_moon_front_d_v2.jpg"
-  caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1505_Moon_D_PDF.zip)"
+  caption: "El astronauta Buzz Aldrin Jr., piloto del módulo lunar, [camina por la superficie de la Luna](https://solarsystem.nasa.gov/resources/840/apollo-11-buzz-aldrin/) cerca de una pata del módulo lunar durante la actividad extravehicular del Apolo 11. Crédito: NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1505_Moon_D_PDF.zip)"
 - album: Luna
   image: "1007_poster_moon_front_e_v2.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1509_Moon_E_PDF.zip)"
