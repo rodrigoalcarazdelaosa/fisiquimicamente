@@ -76,7 +76,7 @@ gallery_item:
   caption: "En su camino para explorar el sistema de Júpiter en diciembre de 1992, la nave espacial Galileo de la NASA obtuvo [esta vista de la Luna](https://solarsystem.nasa.gov/resources/800/earths-moon/). Crédito: NASA/JPL/USGS <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1513_Moon_F_PDF.zip)"
 - album: Luna
   image: "1009_poster_moon_front_g.jpg"
-  caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1517_Moon_G_PDF.zip)"
+  caption: "Esta fotografía, tomada durante la segunda actividad extravehicular del Apolo 12, muestra [dos naves espaciales estadounidenses en la superficie de la Luna](https://solarsystem.nasa.gov/resources/821/apollo-12-and-surveyor-3/): el Módulo Lunar del Apolo 12 en el fondo, con la nave robótica Surveyor 3 en primer plano. Crédito: NASA/JSC <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1517_Moon_G_PDF.zip)"
 - album: Luna
   image: "1010_poster_moon_front_h.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1521_Moon_H_PDF.zip)"
