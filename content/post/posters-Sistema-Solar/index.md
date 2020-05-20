@@ -73,7 +73,7 @@ gallery_item:
   caption: "Un [vistazo de la Luna](https://solarsystem.nasa.gov/resources/841/moon-over-earth/) a través de la atmósfera de la Tierra, vista desde la Estación Espacial Internacional. Crédito: NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1509_Moon_E_PDF.zip)"
 - album: Luna
   image: "1008_poster_moon_front_f.jpg"
-  caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1513_Moon_F_PDF.zip)"
+  caption: "En su camino para explorar el sistema de Júpiter en diciembre de 1992, la nave espacial Galileo de la NASA obtuvo [esta vista de la Luna](https://solarsystem.nasa.gov/resources/800/earths-moon/). Crédito: NASA/JPL/USGS <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1513_Moon_F_PDF.zip)"
 - album: Luna
   image: "1009_poster_moon_front_g.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1517_Moon_G_PDF.zip)"
