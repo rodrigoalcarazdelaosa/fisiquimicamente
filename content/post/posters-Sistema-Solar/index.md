@@ -121,7 +121,10 @@ gallery_item:
   caption: "Esta imagen a color mejorada del [joven cráter de impacto Pwyll](https://solarsystem.nasa.gov/resources/108/pwyll-crater-on-europa/) en la luna Europa de Júpiter fue producida combinando datos de color de baja resolución con un mosaico de imágenes de mayor resolución obtenido en diciembre de 1996 por la nave espacial Galileo de la NASA. Crédito: NASA/JPL-Caltech/Universidad de Arizona <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1473_Europa_B_PDF.zip)"
 - album: Calisto
   image: "946_poster_callisto_front_a.jpg"
-  caption: "Las brillantes cicatrices en una superficie más oscura atestiguan una larga historia de impactos en la luna de Júpiter Calisto, en [esta imagen de la nave espacial Galileo de la NASA](https://solarsystem.nasa.gov/resources/811/global-callisto-in-color/). Crédito: NASA/JPL/DLR <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1349_Callisto_A_PDF.zip)"  
+  caption: "Las brillantes cicatrices en una superficie más oscura atestiguan una larga historia de impactos en la luna de Júpiter Calisto, en [esta imagen de la nave espacial Galileo de la NASA](https://solarsystem.nasa.gov/resources/811/global-callisto-in-color/). Crédito: NASA/JPL/DLR <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1349_Callisto_A_PDF.zip)"
+- album: Calisto
+  image: "945_poster_callisto_front_b.jpg"
+  caption: "Este [mosaico de imágenes](https://solarsystem.nasa.gov/resources/812/callisto-mosaic/) de la nave espacial Voyager 1 de la NASA en marzo de 1979 muestra detalles tan pequeños como 10 kilómetros de diámetro. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1345_Callisto_B_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
