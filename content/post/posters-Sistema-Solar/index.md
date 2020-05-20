@@ -58,7 +58,7 @@ gallery_item:
   caption: "En esta imagen del satélite Landsat 8 de la NASA, [varios glaciares fluyen hacia el Valle Shimshal](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"
 - album: Luna
   image: "1003_poster_moon_front_a"
-  caption: "En esta imagen del satélite Landsat 8 de la NASA, [varios glaciares fluyen hacia el Valle Shimshal](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"  
+  caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1493_Moon_A_PDF.zip)"  
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
