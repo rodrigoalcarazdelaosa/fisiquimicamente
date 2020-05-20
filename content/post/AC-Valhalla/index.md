@@ -14,8 +14,6 @@ image:
 
 {{< youtube 4HoJzG16C2E >}}
 
-{{% toc %}}
-
 ## Vive tu propia leyenda vikinga
 > Ponte en la piel de Eivor y lidera a tu clan desde los gélidos páramos de Noruega hasta un nuevo hogar en los exuberantes campos de la Inglaterra del siglo IX. Funda tu asentamiento, conquista esa tierra hostil cueste lo que cueste y gánate un lugar en el Valhalla.
 La Inglaterra de la era vikinga es una nación fracturada, plagada de ruines señores feudales y reinos en guerra, pero bajo ese caos yace una tierra rica e indómita que aguarda a que alguien la conquiste. ¿Serás tú quien lo logre?
