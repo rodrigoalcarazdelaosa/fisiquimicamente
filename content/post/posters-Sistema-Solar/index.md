@@ -158,6 +158,9 @@ gallery_item:
 - album: Encelado
   image: "1015_poster_enceladus_front_d.jpg"
   caption: "[Dramáticas plumas](https://solarsystem.nasa.gov/resources/806/bursting-at-the-seams-the-geyser-basin-of-enceladus/), tanto grandes como pequeñas, rocían agua, hielo y vapor desde muchos lugares a lo largo de las famosas *franjas de tigre* cerca del polo sur de la luna de Saturno, Encélado. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1541_Enceladus_D_PDF.zip)"
+- album: Urano
+  image: "974_poster_uranus_front_a.jpg"
+  caption: "Una [vista del planeta Urano](https://solarsystem.nasa.gov/resources/599/uranus-as-seen-by-nasas-voyager-2/) capturada por la nave espacial Voyager 2 de la NASA en 1986. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1380_Uranus_A_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
