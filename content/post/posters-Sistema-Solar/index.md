@@ -66,6 +66,9 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, 
 ## Marte
 {{< gallery album="Marte" >}}
 
+## Asteroides
+### Ceres
+
 ## Júpiter
 {{< gallery album="Jupiter" >}}
 
