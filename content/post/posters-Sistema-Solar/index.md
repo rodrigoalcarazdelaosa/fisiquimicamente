@@ -157,6 +157,7 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 ### Ío
 {{< gallery album="Io" >}}
 ### Europa
+{{< gallery album="Europa" >}}
 ### Ganímedes
 ### Calisto
 
