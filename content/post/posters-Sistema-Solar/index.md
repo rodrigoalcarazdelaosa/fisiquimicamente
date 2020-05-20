@@ -190,7 +190,10 @@ gallery_item:
   caption: "Una vista del [cometa 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/790/comet-jet-in-3d/) basada en dos imágenes adquiridas por la misión Rosetta de la Agencia Espacial Europea. Crédito: o ESA/Rosetta/MPS para el equipo OSIRIS MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1437_Comets_B_PDF.zip)"
 - album: Cometas
   image: "990_poster_comets_front_c.jpg"
-  caption: "Una sección del [más pequeño de los dos lóbulos del cometa 67P/Churyumov-Gerasimenko](https://rosetta.jpl.nasa.gov/gallery/images/comet-67p/churyumov-gerasimenko/comet-8-km), como se vio en la misión Rosetta de la Agencia Espacial Europea en octubre de 2014. Crédito: ESA/Rosetta/MPS para el equipo OSIRIS MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1441_Comets_C_PDF.zip)"    
+  caption: "Una sección del [más pequeño de los dos lóbulos del cometa 67P/Churyumov-Gerasimenko](https://rosetta.jpl.nasa.gov/gallery/images/comet-67p/churyumov-gerasimenko/comet-8-km), como se vio en la misión Rosetta de la Agencia Espacial Europea en octubre de 2014. Crédito: ESA/Rosetta/MPS para el equipo OSIRIS MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1441_Comets_C_PDF.zip)"
+- album: Mas-alla
+  image: "924_poster_beyond_front_a.jpg"
+  caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1294_Beyond_A_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
