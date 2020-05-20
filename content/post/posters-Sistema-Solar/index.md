@@ -62,3 +62,9 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, 
 
 ## Luna
 {{< gallery album="Luna" >}}
+
+## Marte
+{{< gallery album="Marte" >}}
+
+## Júpiter
+{{< gallery album="Jupiter" >}}
