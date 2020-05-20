@@ -110,6 +110,9 @@ gallery_item:
 - album: Io
   image: "999_poster_io_front_a_v2.jpg"
   caption: "La nave espacial Galileo de la NASA adquirió [esta vista de Io](https://solarsystem.nasa.gov/resources/808/global-image-of-io-true-color/) en julio de 1999, y se aproxima a lo que el ojo humano vería. Crédito: NASA/JPL-Caltech/Universidad de Arizona <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1477_Io_A_PDF.zip)"
+- album: Io
+  image: "1000_poster_io_front_b_v2.jpg"
+  caption: "La nave espacial Galileo de la NASA adquirió [esta vista de Io](https://solarsystem.nasa.gov/resources/808/global-image-of-io-true-color/) en julio de 1999, y se aproxima a lo que el ojo humano vería. Crédito: NASA/JPL-Caltech/Universidad de Arizona <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1481_Io_B_PDF.zip)"  
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
