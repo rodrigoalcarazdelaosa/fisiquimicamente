@@ -254,5 +254,5 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 {{< gallery album="Pluton" >}}
 ## Cometas
 {{< gallery album="Cometas" >}}
-## Más allá de nuestro Sistema Solar
+## Más allá del Sistema Solar
 {{< gallery album="Mas alla" >}}
