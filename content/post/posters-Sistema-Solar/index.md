@@ -119,6 +119,9 @@ gallery_item:
 - album: Europa
   image: "998_poster_europa_front_b_v2.jpg"
   caption: "Esta imagen a color mejorada del [joven cráter de impacto Pwyll](https://solarsystem.nasa.gov/resources/108/pwyll-crater-on-europa/) en la luna Europa de Júpiter fue producida combinando datos de color de baja resolución con un mosaico de imágenes de mayor resolución obtenido en diciembre de 1996 por la nave espacial Galileo de la NASA. Crédito: NASA/JPL-Caltech/Universidad de Arizona <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1473_Europa_B_PDF.zip)"
+- album: Calisto
+  image: "946_poster_callisto_front_a.jpg"
+  caption: "Esta imagen a color mejorada del [joven cráter de impacto Pwyll](https://solarsystem.nasa.gov/resources/108/pwyll-crater-on-europa/) en la luna Europa de Júpiter fue producida combinando datos de color de baja resolución con un mosaico de imágenes de mayor resolución obtenido en diciembre de 1996 por la nave espacial Galileo de la NASA. Crédito: NASA/JPL-Caltech/Universidad de Arizona <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1473_Europa_B_PDF.zip)"  
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
