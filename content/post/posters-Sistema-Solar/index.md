@@ -170,6 +170,9 @@ gallery_item:
 - album: Neptuno
   image: "1001_poster_neptune_front_a.jpg"
   caption: "Esta [foto de Neptuno](https://solarsystem.nasa.gov/resources/611/neptune-full-disk-view/) vino de la nave espacial Voyager 2 de la NASA en 1989. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1485_Neptune_A_PDF.zip)"
+- album: Neptuno
+  image: "1002_poster_neptune_front_b.jpg"
+  caption: "Esta [foto de Neptuno](https://solarsystem.nasa.gov/resources/611/neptune-full-disk-view/) vino de la nave espacial Voyager 2 de la NASA en 1989. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1489_Neptune_B_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
