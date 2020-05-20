@@ -39,7 +39,16 @@ blockquote {
 .markup-quote {
 color: #000000;
 background-color: transparent;
-background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary_complementary_bg); }    
+background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary_complementary_bg); }  
+
+/*************************************************
+*  Gallery
+**************************************************/
+
+.fancybox-caption a, .fancybox-caption a:link, .fancybox-caption a:visited {
+    color: #ccc;
+    text-decoration: none;
+}  
   
 /*************************************************
 *  Pager
