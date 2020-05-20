@@ -46,6 +46,8 @@ gallery_item:
 
 En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, junto con su descripción traducida (pinchando en cada una de las imágenes).
 
+{{% toc %}}
+
 ## Sol
 {{< gallery album="Sol" >}}
 
