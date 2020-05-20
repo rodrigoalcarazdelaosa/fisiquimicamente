@@ -212,7 +212,7 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 ### Titán
 {{< gallery album="Titan" >}}
 ### Encélado
-{{< gallery album="Encélado" >}}
+{{< gallery album="Encelado" >}}
 ## Urano
 
 ## Neptuno
