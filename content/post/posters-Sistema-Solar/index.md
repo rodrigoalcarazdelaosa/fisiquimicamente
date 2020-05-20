@@ -98,6 +98,9 @@ gallery_item:
 - album: Asteroides
   image: "923_poster_asteroids_front_b.jpg"
   caption: "La nave espacial Dawn de la NASA obtuvo [esta imagen del protoplaneta Vesta](https://solarsystem.nasa.gov/resources/1034/a-last-look-back-at-vesta/) en 2012, mirando hacia el polo norte de Vesta cuando la nave espacial estaba partiendo. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"  
+- album: Ceres
+  image: "984_poster_ceres_front_a.jpg"
+  caption: "La nave espacial Dawn de la NASA obtuvo [esta imagen del protoplaneta Vesta](https://solarsystem.nasa.gov/resources/1034/a-last-look-back-at-vesta/) en 2012, mirando hacia el polo norte de Vesta cuando la nave espacial estaba partiendo. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
