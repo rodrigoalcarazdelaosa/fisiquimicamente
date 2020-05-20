@@ -95,6 +95,9 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 
 {{% toc %}}
 
+## Nuestro Sistema Solar
+![sistema solar](https://solarsystem.nasa.gov/system/resources/detail_files/2283_poster_ss_front_a_web.jpg)
+
 ## El Sol
 {{< gallery album="Sol" >}}
 
