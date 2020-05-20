@@ -137,7 +137,7 @@ gallery_item:
 - album: Saturno
   image: "1044_poster_saturn_front_d.jpg"
   caption: "La nave espacial Cassini de la NASA entregó [esta gloriosa vista de Saturno](https://solarsystem.nasa.gov/resources/664/a-splendor-seldom-seen/), tomada mientras la nave espacial estaba a la sombra del planeta. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1595_Saturn_D_PDF.zip)"
-- album: Titán
+- album: Titan
   image: "977_poster_titan_front_a.jpg"
   caption: "La nave espacial Cassini de la NASA [mira hacia el lado nocturno de Titán](https://solarsystem.nasa.gov/resources/799/highlighting-titans-hazes/) en una vista que destaca la naturaleza extendida y nebulosa de la atmósfera de la luna. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1393_Titan_A_PDF.zip)"
 ---
