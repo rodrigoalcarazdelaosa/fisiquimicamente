@@ -141,10 +141,10 @@ gallery_item:
   image: "977_poster_titan_front_a.jpg"
   caption: "La nave espacial Cassini de la NASA [mira hacia el lado nocturno de Titán](https://solarsystem.nasa.gov/resources/799/highlighting-titans-hazes/) en una vista que destaca la naturaleza extendida y nebulosa de la atmósfera de la luna. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1393_Titan_A_PDF.zip)"
 - album: Titan
-  image: "977_poster_titan_front_a.jpg"
+  image: "978_poster_titan_front_b.jpg"
   caption: "La nave espacial Cassini de la NASA [mira hacia el lado nocturno de Titán](https://solarsystem.nasa.gov/resources/799/highlighting-titans-hazes/) en una vista que destaca la naturaleza extendida y nebulosa de la atmósfera de la luna. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1397_Titan_B_PDF.zip)"
 - album: Titan
-  image: "977_poster_titan_front_a.jpg"
+  image: "979_poster_titan_front_c.jpg"
   caption: "La nave espacial Cassini de la NASA [mira hacia el lado nocturno de Titán](https://solarsystem.nasa.gov/resources/799/highlighting-titans-hazes/) en una vista que destaca la naturaleza extendida y nebulosa de la atmósfera de la luna. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1401_Titan_C_PDF.zip)"    
 ---
 
