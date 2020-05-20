@@ -19,7 +19,7 @@ gallery_item:
   caption: "[Rayos X saliendo del Sol](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) en esta imagen que muestra las observaciones del Nuclear Spectroscopic Telescope Array de la NASA, o NuSTAR, superpuestas a una imagen tomada por el Observatorio de Dinámica Solar de la NASA. Crédito: NASA/JPL-Caltech/GSFC <br> PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1409_Sun_B_PDF.zip)"
 - album: Sol
   image: "982_poster_sun_front_c.jpg"
-  caption: "El Sol [emite una llamarada solar de nivel medio](https://solarsystem.nasa.gov/resources/768/nasas-sdo-sees-sun-emit-mid-level-flare-oct-1/), como la que vio el Observatorio de Dinámica Solar de la NASA en 2015. Crédito: NASA/SDO"
+  caption: "El Sol [emite una llamarada solar de nivel medio](https://solarsystem.nasa.gov/resources/768/nasas-sdo-sees-sun-emit-mid-level-flare-oct-1/), como la que vio el Observatorio de Dinámica Solar de la NASA en 2015. Crédito: NASA/SDO <br> PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1413_Sun_C_PDF.zip)"
 - album: Sol
   image: "983_poster_sun_front_d.jpg"
   caption: "El Sol [hizo explotar una eyección de masa coronal](https://solarsystem.nasa.gov/resources/1051/brief-outburst/) junto con parte de un filamento solar el 24 de febrero de 2015, como lo vio el Observatorio de Dinámica Solar de la NASA (SDO). Crédito: NASA/SDO"  
