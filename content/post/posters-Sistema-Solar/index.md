@@ -115,7 +115,7 @@ gallery_item:
   caption: "La nave espacial Galileo de la NASA captó a la luna de Júpiter, Io, la tercera luna más grande del planeta, sufriendo una erupción volcánica. Crédito: NASA/JPL/Universidad de Arizona <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1481_Io_B_PDF.zip)"
 - album: Europa
   image: "997_poster_europa_front_a.jpg"
-  caption: "La nave espacial Galileo de la NASA captó a la luna de Júpiter, Io, la tercera luna más grande del planeta, sufriendo una erupción volcánica. Crédito: NASA/JPL/Universidad de Arizona <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1469_Europa_A_PDF.zip)"
+  caption: "La luna helada de Júpiter, Europa, se alza en esta [vista en color](https://solarsystem.nasa.gov/resources/204/europas-stunning-surface/), hecha de imágenes tomadas por la nave espacial Galileo de la NASA a finales de los 90. Crédito: NASA/JPL-Caltech/SETI Institute <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1469_Europa_A_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
