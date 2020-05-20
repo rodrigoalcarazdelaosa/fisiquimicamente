@@ -148,16 +148,16 @@ gallery_item:
   caption: "La nave espacial Cassini [mira hacia el polo norte de Titán](https://solarsystem.nasa.gov/resources/798/colorful-northern-crescent/), mostrando la noche y el día en el hemisferio norte de la luna más grande de Saturno. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1401_Titan_C_PDF.zip)"
 - album: Encelado
   image: "1012_poster_enceladus_front_a.jpg"
-  caption: "Al descender en picado por el polo sur de la luna de Saturno Encelado en julio de 2005, Cassini adquirió [vistas de alta resolución](https://solarsystem.nasa.gov/resources/214/zooming-in-on-enceladus-mosaic/) de este desconcertante mundo de hielo y océanos. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1529_Enceladus_A_PDF.zip)"
+  caption: "Al descender en picado por el polo sur de la luna de Saturno Encélado en julio de 2005, Cassini adquirió [vistas de alta resolución](https://solarsystem.nasa.gov/resources/214/zooming-in-on-enceladus-mosaic/) de este desconcertante mundo de hielo y océanos. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1529_Enceladus_A_PDF.zip)"
 - album: Encelado
   image: "1013_poster_enceladus_front_b.jpg"
-  caption: "Las [imágenes de Cassini de Encelado](https://solarsystem.nasa.gov/resources/807/fountains-of-enceladus-image-2/) iluminadas por el Sol muestran las fuentes de la fina pulverización de material que se eleva sobre la región del polo sur. La imagen, enormemente mejorada y coloreada, muestra la enorme extensión del componente más débil y de mayor escala de la pluma. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1533_Enceladus_B_PDF.zip)"
+  caption: "Las [imágenes de Cassini de Encélado](https://solarsystem.nasa.gov/resources/807/fountains-of-enceladus-image-2/) iluminadas por el Sol muestran las fuentes de la fina pulverización de material que se eleva sobre la región del polo sur. La imagen, enormemente mejorada y coloreada, muestra la enorme extensión del componente más débil y de mayor escala de la pluma. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1533_Enceladus_B_PDF.zip)"
 - album: Encelado
   image: "1014_poster_enceladus_front_c.jpg"
-  caption: "En octubre de 2008, justo después de acercarse a unos 25 kilómetros de la superficie de Encelado, la Cassini de la NASA capturó [este impresionante mosaico](https://solarsystem.nasa.gov/resources/137/a-tectonic-feast/) mientras la nave espacial se alejaba de esta luna geológicamente activa de Saturno. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1537_Enceladus_C_PDF.zip)"
+  caption: "En octubre de 2008, justo después de acercarse a unos 25 kilómetros de la superficie de Encélado, la Cassini de la NASA capturó [este impresionante mosaico](https://solarsystem.nasa.gov/resources/137/a-tectonic-feast/) mientras la nave espacial se alejaba de esta luna geológicamente activa de Saturno. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1537_Enceladus_C_PDF.zip)"
 - album: Encelado
   image: "1015_poster_enceladus_front_d.jpg"
-#  caption: "[Dramáticas plumas](https://solarsystem.nasa.gov/resources/806/bursting-at-the-seams-the-geyser-basin-of-enceladus/), tanto grandes como pequeñas, rocían agua, hielo y vapor desde muchos lugares a lo largo de las famosas "franjas de tigre" cerca del polo sur de la luna de Saturno, Encelado. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1541_Enceladus_D_PDF.zip)"
+  caption: "[Dramáticas plumas](https://solarsystem.nasa.gov/resources/806/bursting-at-the-seams-the-geyser-basin-of-enceladus/), tanto grandes como pequeñas, rocían agua, hielo y vapor desde muchos lugares a lo largo de las famosas "franjas de tigre" cerca del polo sur de la luna de Saturno, Encélado. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1541_Enceladus_D_PDF.zip)"
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
@@ -211,8 +211,8 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 {{< gallery album="Saturno" >}}
 ### Titán
 {{< gallery album="Titan" >}}
-### Encelado
-{{< gallery album="Encelado" >}}
+### Encélado
+{{< gallery album="Encélado" >}}
 ## Urano
 
 ## Neptuno
