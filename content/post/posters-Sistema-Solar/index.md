@@ -85,7 +85,7 @@ gallery_item:
   caption: "Una vista cercana de la [huella de la bota de un astronauta](https://solarsystem.nasa.gov/resources/759/close-up-view-of-astronauts-footprint-in-lunar-soil/) en el suelo lunar, fotografiada durante la actividad extravehicular del Apolo 11 en la Luna. Crédito: NASA/JSC <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1525_Moon_I_PDF.zip)"
 - album: Marte
   image: "1036_poster_mars_front_a.jpg"
-  caption: "Una vista cercana de la [huella de la bota de un astronauta](https://solarsystem.nasa.gov/resources/759/close-up-view-of-astronauts-footprint-in-lunar-soil/) en el suelo lunar, fotografiada durante la actividad extravehicular del Apolo 11 en la Luna. Crédito: NASA/JSC <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1525_Moon_I_PDF.zip)"  
+  caption: "Un mosaico del hemisferio del Valles Marineris de Marte, creado con imágenes de los orbitadores Viking de la NASA, proyectadas en perspectiva puntual &mdash;una vista similar a la que se vería desde una nave espacial. Crédito: NASA/JPL-Caltech <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1569_1569_Mars_A_PDF.zip)"  
 ---
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
