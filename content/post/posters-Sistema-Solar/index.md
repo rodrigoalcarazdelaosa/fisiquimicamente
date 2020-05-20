@@ -60,7 +60,7 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**, 
 ## Tierra
 {{< gallery album="Tierra" >}}
 
-## Luna
+### Luna
 {{< gallery album="Luna" >}}
 
 ## Marte
