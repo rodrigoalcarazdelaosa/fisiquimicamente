@@ -217,6 +217,8 @@ gallery_item:
 
 {{% alert note %}}
 En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. Pinchando en cada una de las imágenes encontrarás su descripción traducida y un enlace para descargar el póster correspondiente en formato PDF de alta resolución.
+
+Cuando hayas visto todos los pósters, te invito a que votes cuál es tu favorito [aquí](https://t.co/gUgELhDtpo?amp=1) 😉.
 {{% /alert %}}
 
 {{% toc %}}
