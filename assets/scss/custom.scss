@@ -204,7 +204,11 @@ color: $primary_complementary; }
 
 .article-metadata a,
 .article-metadata a:hover {
-  color: $primary_complementary; }	  
+  color: $primary_complementary; }
+  
+article-style {
+	text-align: justify;
+}  
   
 /*************************************************
 *  Author profile card
