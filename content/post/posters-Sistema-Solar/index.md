@@ -202,7 +202,7 @@ gallery_item:
   caption: "Los *Pilares de la Creación* de la Nebulosa del Águila, vistos por el Telescopio Espacial Hubble de la NASA/ESA. Esta imagen [muestra los pilares como se ven en luz visible](https://www.spacetelescope.org/images/heic1501a/). Crédito: NASA, ESA/Hubble y el Equipo de Patrimonio del Hubble <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1327_Beyond_C_PDF.zip)"
 - album: Mas-alla
   image: "941_poster_beyond_front_d.jpg"
-  caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1331_Beyond_D_PDF.zip)"
+  caption: "Cassiopeia A, un remanente de supernova, [vista por el Observatorio de Rayos X Chandra de la NASA](https://www.nasa.gov/mission_pages/chandra/news/a-new-stellar-x-ray-reality-show). Crédito: NASA/CXC/SAO <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1331_Beyond_D_PDF.zip)"
 - album: Mas-alla
   image: "943_poster_beyond_front_e.jpg"
   caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1337_Beyond_E_PDF.zip)"
