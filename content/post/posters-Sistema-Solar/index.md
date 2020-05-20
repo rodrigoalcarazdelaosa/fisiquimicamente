@@ -218,7 +218,8 @@ En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. 
 ## Neptuno
 {{< gallery album="Neptuno" >}}
 ## Plutón
-
+{{< gallery album="Pluton" >}}
 ## Cometas
-
+{{< gallery album="Cometas" >}}
 ## Más allá de nuestro Sistema Solar
+{{< gallery album="Mas alla" >}}
