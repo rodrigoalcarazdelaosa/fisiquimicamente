@@ -34,6 +34,14 @@
   enable = true
   
 [[buttons]]
+  id = "telegram"
+  url = "https://web.whatsapp.com/send?text={title}%20{url}"
+  title = "Telegram"
+  icon_pack = "fab"
+  icon = "telegram"
+  enable = true  
+  
+[[buttons]]
   id = "email"
   url = "mailto:?subject={title}&body={url}"
   title = "Email"
