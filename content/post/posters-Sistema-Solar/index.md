@@ -278,5 +278,5 @@ Cuando hayas visto todos los pósters, te invito a que **votes** cuál es tu **f
 {{< gallery album="Mas-alla" >}}
 
 {{% alert note %}}
-Ahora que has visto todos los pósters, vota tu favorito [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
+Ahora que has visto todos los pósters, **vota** tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
 {{% /alert %}}
