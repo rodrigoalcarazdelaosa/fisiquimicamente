@@ -38,7 +38,7 @@ education:
     institution: Universidad de Cantabria
     year: 2009
   - course: Licenciado en Física
-    institution: Universidad de Cantabria
+    institution: Universidad de Cantabria | Erasmus en la Freie Universität Berlin
     year: 2008
 
 # Social/Academic Networking
