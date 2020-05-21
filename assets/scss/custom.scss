@@ -1,5 +1,3 @@
-@charset "UTF-8";
-
 /**************************************************
  *  Definiciones de colores basadas en $primary
  **************************************************/
@@ -14,14 +12,8 @@ $example_bg: #fbfde9;
  **************************************************/
 
 body {
-	width: 87.5%;
-	margin-left: auto;
-	margin-right: auto;
-	padding-left: 12.5%;
-	background-color: #fffff8;
-	color: #111;
-	max-width: 1400px;
-	counter-reset: sidenote-counter; }
+  color: #111111;
+  background-color: #fffff8; }
   
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
@@ -35,19 +27,9 @@ code {
 pre {
 font-size: 0.875rem; }
 
-//hr {
-//background: #555555;
-//background-image: linear-gradient(to right, #dddddd, #555555, #dddddd); }
-
 hr {
-    display: block;
-    height: 1px;
-    width: 55%;
-    border: 0;
-    border-top: 1px solid #555;
-    margin: 1em 0;
-    padding: 0; 
-}
+background: #555555;
+background-image: linear-gradient(to right, #dddddd, #555555, #dddddd); }  
 
 /* Quotes */
 blockquote {
@@ -64,6 +46,7 @@ background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary
 **************************************************/
 
 .fancybox-caption {
+    background: linear-gradient(0deg,rgba(0,0,0,.85) 0,rgba(0,0,0,.3) 50%,rgba(0,0,0,.15) 65%,rgba(0,0,0,.075) 75.5%,rgba(0,0,0,.037) 82.85%,rgba(0,0,0,.019) 88%,transparent);
     color: #ffffff;
 }
 
@@ -208,15 +191,6 @@ color: $primary_complementary; }
 /*************************************************
  *  Page content
  **************************************************/
-  
-article {
-  padding: 5rem 0rem; 
-}
-
-section {
-  padding-top: 1rem;
-  padding-bottom: 1rem; 
-}
 
 .page-subtitle {
   font-family: "Cabin Sketch", sans-serif;
