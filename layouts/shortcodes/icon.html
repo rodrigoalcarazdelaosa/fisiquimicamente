@@ -6,7 +6,7 @@
     {{- $pack_prefix = "fa" -}}
   {{- end -}}
   {{- $padding_right := (.Get "padding_right") | default 1 -}}{{/* Defaulting to 1 prevents no spacing when minimizing HTML. */}}
-  {{- else if eq $pack "custom" -}}
+  {{- if eq $pack "custom" -}}
     {{- $svg_icon := resources.Get (printf "images/icon-pack/%s.svg" .) -}}
     {{- if $svg_icon -}}<img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline">{{- end -}}
   {{- else -}}
