@@ -50,6 +50,10 @@ $$
 \vec a + \vec b = (a_x+b_x)\ihat + (a_y+b_y)\jhat
 $$
 
+Puedes prácticar a sumar vectores con la siguiente simulación:
+
+<iframe src="https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Leyes de Newton
 
 ### 1ª ley (ley de la inercia)
