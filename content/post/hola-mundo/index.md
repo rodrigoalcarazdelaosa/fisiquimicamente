@@ -10,7 +10,7 @@ Primera entrada de mi primer blog. Comienza una aventura que llevaba mucho tiemp
 
 ## ¿Quién soy?
 
-Desde 2018 soy profesor de Física y Química en el [IES Ría San Martín de Cantabria](http://portaleducativo.educantabria.es/web/iesriasanmartin) (España). Mi experiencia previa incluye principalmente la investigación y docencia en la {{< icon name="download" pack="fas" >}} [Universidad de Cantabria](https://web.unican.es), en particular en la rama de la _Óptica Física_.
+Desde 2018 soy profesor de Física y Química en el [IES Ría San Martín de Cantabria](http://portaleducativo.educantabria.es/web/iesriasanmartin) (España). Mi experiencia previa incluye principalmente la investigación y docencia en la {{< icon name="salchicha" pack="custom" >}} [Universidad de Cantabria](https://web.unican.es), en particular en la rama de la _Óptica Física_.
 
 
 ## ¿Por qué este blog?
