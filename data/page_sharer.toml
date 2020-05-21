@@ -35,7 +35,7 @@
   
 [[buttons]]
   id = "telegram"
-  url = "https://t.me/share/url?url={url}&text={text}"
+  url = "https://t.me/share/url?url={url}&text={title}"
   title = "Telegram"
   icon_pack = "fab"
   icon = "telegram"
