@@ -14,8 +14,14 @@ $example_bg: #fbfde9;
  **************************************************/
 
 body {
-  color: #111111;
-  background-color: #fffff8; }
+	width: 87.5%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 12.5%;
+	background-color: #fffff8;
+	color: #111;
+	max-width: 1400px;
+	counter-reset: sidenote-counter; }
   
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
