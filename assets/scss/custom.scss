@@ -208,6 +208,15 @@ color: $primary_complementary; }
 /*************************************************
  *  Page content
  **************************************************/
+  
+article {
+  padding: 5rem 0rem; 
+}
+
+section {
+  padding-top: 1rem;
+  padding-bottom: 1rem; 
+}
 
 .page-subtitle {
   font-family: "Cabin Sketch", sans-serif;
