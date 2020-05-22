@@ -72,6 +72,7 @@ La siguiente tabla muestra la densidad de diversos materiales:
 | Madera | 700 | Valor *típico* |
 | Potasio (K) | 860 |  |
 | Hielo | 916.7 | A temperatura bajo cero |
+| Aceite | 910-930 |  |
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
