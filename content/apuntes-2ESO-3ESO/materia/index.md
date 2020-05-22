@@ -59,7 +59,7 @@ d = \frac{m}{V}
 $$
 En el SI se mide en $\mathrm{kg/m^3}$.
 
-La siguiente tabla muestra la densidad de diversos materiales:
+La siguiente tabla muestra la densidad de diversos materiales (ordenados de menor a mayor densidad):
 
 | Material | Densidad (kg/m<sup>3</sup>) | Notas |
 | --- | :---: | --- |
