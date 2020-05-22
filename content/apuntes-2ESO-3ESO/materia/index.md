@@ -86,6 +86,7 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Hormigón | 2400 | [https://hypertextbook.com/facts/1999/KatrinaJones.shtml](https://hypertextbook.com/facts/1999/KatrinaJones.shtml) |
 | Aluminio (Al) | 2700 | |
 | Diamante | 3500 | |
+| Titanio (Ti) | 4540 | |
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
