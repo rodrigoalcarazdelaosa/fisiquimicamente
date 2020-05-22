@@ -97,6 +97,10 @@ $$
 
 {{% /alert %}}
 
+Puedes practicar más el ajuste de ecuaciones con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Cálculos masa-masa
 
 Se trata de situaciones en las que nos dan la masa (típicamente en g) de un compuesto químico y nos piden la masa (también en g) de otro compuesto químico.
