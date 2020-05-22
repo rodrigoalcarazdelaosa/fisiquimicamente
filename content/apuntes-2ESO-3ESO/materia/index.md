@@ -67,7 +67,7 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Helio | 0.179 | |
 | Aire | 1.2 | A nivel del mar |
 | Poliestireno | 75 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
-| Corcho | 240 | Aprox. |
+| Corcho | 240 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
 | Litio (Li) | 535 |  |
 | Madera | 700 | Valor *típico* |
 | Potasio (K) | 860 |  |
