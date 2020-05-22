@@ -72,7 +72,7 @@ $$
 $$
 A partir de la expresión de la densidad, podemos **despejar** la **masa**:
 $$
-d = \frac{m}{V}\rightarrow m = V\cdot d = 500\thinspace\cancel{\mathrm{cm^3}} \cdot 0.79\thinspace\mathrm{g/\cancel{cm^3}} = 395\thinspace\mathrm{cm^3} = 0.395\thinspace\mathrm{kg}
+d = \frac{m}{V}\rightarrow m = V\cdot d = 500\thinspace\cancel{\mathrm{cm^3}} \cdot 0.79\thinspace\mathrm{g/\cancel{cm^3}} = 395\thinspace\mathrm{g} = 0.395\thinspace\mathrm{kg}
 $$		
 
 {{% /alert %}}
