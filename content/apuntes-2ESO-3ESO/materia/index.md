@@ -67,4 +67,7 @@ En el SI se mide en $\mathrm{kg/m^3}$.
 ## Mezclas
 ### Tipos
 ### Disoluciones
+
+<iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
 ### Métodos de separación
