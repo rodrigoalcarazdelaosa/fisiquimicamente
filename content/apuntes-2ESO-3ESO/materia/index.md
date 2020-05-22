@@ -47,7 +47,7 @@ En el SI se mide en kg.
 ### Volumen
 Es el **espacio** que ocupa un objeto o sistema material.
 
-En el SI se mide en $\mathrm{m^3}$, aunque también se puede medir en \si{\liter} ($\SI{1}{\cubic\m} = \SI{e3}{\liter}$).
+En el SI se mide en $\mathrm{m^3}$, aunque también se puede medir en L ($1\thinspace\mathrm{m^3} = 10^3\thinspace\mathrm L$).
 
 ## Propiedades específicas
 ### Densidad
