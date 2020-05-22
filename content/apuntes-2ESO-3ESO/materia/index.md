@@ -69,7 +69,7 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Poliestireno | 75 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
 | Corcho | 240 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
 | Litio (Li) | 535 |  |
-| Madera | 700 | Valor *típico* |
+| Madera | 700 | Valor [*típico*](https://www.engineeringtoolbox.com/wood-density-d_40.html) |
 | Potasio (K) | 860 |  |
 | Hielo | 916.7 | A temperatura bajo cero |
 | Aceite de cocina | 910-930 |  |
