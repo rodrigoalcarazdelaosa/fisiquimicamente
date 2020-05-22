@@ -66,7 +66,7 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Hidrógeno | 0.0898 | |
 | Helio | 0.179 | |
 | Aire | 1.2 | A nivel del mar |
-| Poliestireno | 75 | Aprox. |
+| Poliestireno | 75 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
 | Corcho | 240 | Aprox. |
 | Litio (Li) | 535 |  |
 | Madera | 700 | Valor *típico* |
@@ -82,7 +82,7 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Magnesio (Mg) | 1740 | |
 | Berilio (Be) | 1850 | |
 | Glicerina | 1261 | [https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174](https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174) |
-| Glicerina | 1261 | |
+| Hormigón | 2400 | |
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
