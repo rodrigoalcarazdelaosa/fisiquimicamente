@@ -32,3 +32,13 @@ links:
 
 ## Propiedades específicas
 ### Densidad
+
+## Estados de agregación
+### Cambios de estado
+
+## Modelo cinético-molecular
+
+## Mezclas
+### Tipos de mezclas
+### Disoluciones
+### Métodos de separación
