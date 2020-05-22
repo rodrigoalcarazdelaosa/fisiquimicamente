@@ -52,7 +52,9 @@ En el SI se mide en $\mathrm{m^3}$, aunque también se puede medir en L ($1\thin
 ## Propiedades específicas
 Las **propiedades específicas** o **características** de la materia son aquellas que nos permiten distinguir una sustancia de otra.
 
-### Densidad
+### Densidad[^1]
+[^1]: hola
+
 La **densidad** $d$ de un objeto se define como la relación (cociente) entre su masa $m$ y su volumen $V$:		
 $$
 d = \frac{m}{V}
