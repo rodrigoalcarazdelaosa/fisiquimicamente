@@ -59,6 +59,8 @@ d = \frac{m}{V}
 $$
 En el SI se mide en $\mathrm{kg/m^3}$.
 
+<iframe src="https://phet.colorado.edu/sims/density-and-buoyancy/density_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Estados de agregación
 ### Cambios de estado
 
