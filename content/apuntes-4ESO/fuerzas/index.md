@@ -156,3 +156,7 @@ $$
 \Delta x = \left\lvert x - x_0\right\rvert = \left\lvert v_0\cdot t + \frac{1}{2}at^2\right\rvert = \left\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\right\rvert = 40.0\thinspace\mathrm m
 $$
 {{% /alert %}}
+
+Puedes seguir aprendiendo más cosas sobre la relación entre las fuerzas y el movimiento con esta simulación:
+
+<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
