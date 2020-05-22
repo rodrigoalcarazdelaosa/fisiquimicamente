@@ -39,6 +39,6 @@ links:
 ## Modelo cinético-molecular
 
 ## Mezclas
-### Tipos de mezclas
+### Tipos
 ### Disoluciones
 ### Métodos de separación
