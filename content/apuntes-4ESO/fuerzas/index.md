@@ -157,6 +157,6 @@ $$
 $$
 {{% /alert %}}
 
-Puedes seguir aprendiendo más cosas sobre la relación entre las fuerzas y el movimiento con esta simulación:
+Puedes seguir aprendiendo más cosas sobre la relación entre las fuerzas y el movimiento con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
