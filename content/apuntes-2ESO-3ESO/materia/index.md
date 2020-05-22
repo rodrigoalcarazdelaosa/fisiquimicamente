@@ -82,8 +82,8 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Magnesio (Mg) | 1740 | |
 | Berilio (Be) | 1850 | |
 | Glicerina | 1261 | [https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174](https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174) |
-| Hormigón | 2400 | [https://hypertextbook.com/facts/1999/KatrinaJones.shtml](https://hypertextbook.com/facts/1999/KatrinaJones.shtml) |
 | Silicio (Si) | 2330 | |
+| Hormigón | 2400 | [https://hypertextbook.com/facts/1999/KatrinaJones.shtml](https://hypertextbook.com/facts/1999/KatrinaJones.shtml) |
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
