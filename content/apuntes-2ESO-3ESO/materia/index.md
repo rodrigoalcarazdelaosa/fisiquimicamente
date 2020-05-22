@@ -27,3 +27,8 @@ links:
 {{% toc %}}
 
 ## Propiedades generales
+### Masa
+### Volumen
+
+## Propiedades específicas
+### Densidad
