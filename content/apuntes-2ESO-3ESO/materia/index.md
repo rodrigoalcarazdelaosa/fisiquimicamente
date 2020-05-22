@@ -61,9 +61,7 @@ d = \frac{m}{V}
 $$
 En el SI se mide en $\mathrm{kg/m^3}$.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos[^1] para ilustrar la densidad." lightbox="true" >}}
-
-[^1]: hola
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: ) para ilustrar la densidad." lightbox="true" >}}
 
 {{% alert example %}}
 <br>
