@@ -68,7 +68,7 @@ En el SI se mide en $\mathrm{kg/m^3}$.
 
 Lo primero que tenemos que hacer es _**homogeneizar**_ las unidades. Podemos convertir el volumen, $0.5\thinspace\mathrm L$, en $\mathrm{cm^3}$:
 $$
-\SI{0.5}{\cancel\liter}\cdot \frac{\SI{1}{\cancel\cubic\deci\m}}{\SI{1}{\cancel\liter}}\cdot \frac{\SI{e3}{\cubic\centi\m}}{\SI{1}{\cancel\cubic\deci\m}} = \SI{500}{cm^3}
+0.5\thinspace\cancel{\mathrm L}\cdot \frac{\SI{1}{\cancel\cubic\deci\m}}{\SI{1}{\cancel\liter}}\cdot \frac{\SI{e3}{\cubic\centi\m}}{\SI{1}{\cancel\cubic\deci\m}} = \SI{500}{cm^3}
 $$
 A partir de la expresión de la densidad, podemos \textbf{despejar} la \textbf{masa}:
 \[
