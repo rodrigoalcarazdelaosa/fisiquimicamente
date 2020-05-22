@@ -70,10 +70,10 @@ Lo primero que tenemos que hacer es _**homogeneizar**_ las unidades. Podemos con
 $$
 0.5\thinspace\cancel{\mathrm L}\cdot \frac{1\thinspace\cancel{\mathrm{dm^3}}}{1\thinspace\cancel{\mathrm L}}\cdot \frac{10^3\thinspace\mathrm{cm^3}}{1\thinspace\cancel{\mathrm{dm^3}}} = 500\thinspace\mathrm{cm^3}
 $$
-A partir de la expresión de la densidad, podemos \textbf{despejar} la \textbf{masa}:
-\[
-d = \frac{m}{V}\rightarrow m = V\cdot d = \SI{500}{\cancel\cubic\centi\m} \cdot \SI[per-mode=symbol]{0.79}{\g\per\cancel\cubic\centi\m} = \SI{395}{g} = \SI{0.395}{kg}
-\]		
+A partir de la expresión de la densidad, podemos **despejar** la **masa**:
+$$
+d = \frac{m}{V}\rightarrow m = V\cdot d = 500\thinspace\cancel{\mathrm{cm^3}} \cdot 0.79\thinspace\mathrm{g/\cancel{cm^3}} = \SI{395}{g} = \SI{0.395}{kg}
+$$		
 
 {{% /alert %}}
 
