@@ -98,6 +98,7 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Niobio (Nb) | 8570 |  |
 | Latón | 8600 | Hugh D. Young; Roger A. Freedman. University Physics with Modern Physics. Addison-Wesley; 2012. p. 374. |
 | Cadmio (Cd) | 8650 |  |
+| Cobalto (Co) | 8900 |  |
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
