@@ -90,6 +90,7 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Selenio (Se) | 4800 | |
 | Vanadio (V) | 6100 | |
 | Antimonio (Sb) | 6690 | |
+| Zinc (Zn) | 7000 | |
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
