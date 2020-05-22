@@ -62,7 +62,7 @@ En el SI se mide en $\mathrm{kg/m^3}$.
 La siguiente tabla muestra la densidad de diversos materiales:
 
 | Material | Densidad ($\mathrm{kg/m^3}$) | Notas |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Hidrógeno | 0.0898 | |
 | Helio | 0.179 | | 
 
