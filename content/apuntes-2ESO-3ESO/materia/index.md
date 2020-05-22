@@ -79,9 +79,9 @@ La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa 
 | Oxígeno líquido | 1141 | A $\approx -219\thinspace^\circ \mathrm C$ |
 | Nylon | 1150 | |
 | Plásticos | 1175 | Aprox.; para polipropileno y PET/PVC |
+| Glicerina | 1261 | [https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174](https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174) |
 | Magnesio (Mg) | 1740 | |
 | Berilio (Be) | 1850 | |
-| Glicerina | 1261 | [https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174](https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174) |
 | Silicio (Si) | 2330 | |
 | Hormigón | 2400 | [https://hypertextbook.com/facts/1999/KatrinaJones.shtml](https://hypertextbook.com/facts/1999/KatrinaJones.shtml) |
 
