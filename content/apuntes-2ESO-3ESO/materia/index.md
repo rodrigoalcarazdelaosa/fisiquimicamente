@@ -50,7 +50,14 @@ Es el **espacio** que ocupa un objeto o sistema material.
 En el SI se mide en $\mathrm{m^3}$, aunque también se puede medir en L ($1\thinspace\mathrm{m^3} = 10^3\thinspace\mathrm L$).
 
 ## Propiedades específicas
+Las **propiedades específicas** o **características** de la materia son aquellas que nos permiten distinguir una sustancia de otra.
+
 ### Densidad
+La **densidad** $d$ de un objeto se define como la relación (cociente) entre su masa $m$ y su volumen $V$:		
+$$
+d = \frac{m}{V}
+$$
+En el SI se mide en $\mathrm{kg/m^3}$.
 
 ## Estados de agregación
 ### Cambios de estado
