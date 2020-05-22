@@ -61,6 +61,8 @@ d = \frac{m}{V}
 $$
 En el SI se mide en $\mathrm{kg/m^3}$.
 
+![Hola](https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png)
+
 {{% alert example %}}
 <br>
 
