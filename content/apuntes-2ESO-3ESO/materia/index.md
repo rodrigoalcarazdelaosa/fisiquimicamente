@@ -27,6 +27,18 @@ links:
 {{% toc %}}
 
 ## Propiedades generales
+Materia
+: Todo lo que tiene **masa** y ocupa un **volumen**.
+
+Sistema material
+: Porción de materia confinada en una región del espacio.
+
+Sustancia
+: Forma de materia que tiene una composición química y unas propiedades características determinadas.
+
+La **masa** y el **volumen** son **propiedades generales** de la materia, lo que significa que no nos permiten distinguir una sustancia de otra.
+
+
 ### Masa
 ### Volumen
 
