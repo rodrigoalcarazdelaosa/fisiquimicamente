@@ -17,16 +17,11 @@ image:
   caption: Foto de [**timJ**](https://unsplash.com/@the_roaming_platypus) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-# icon: download
-#  name: PDF Texto
-#  url: movimientos_texto.pdf
-  
-# - icon_pack: fas
-#  icon: download
-#  name: PDF Póster
-#  url: movimientos_poster.pdf  
+links:
+- icon_pack: fas
+  icon: download
+  name: PDF Póster
+  url: materia-poster.pdf  
 ---
 
 Apuntes sobre propiedades y estados de agregación de la materia, y mezclas, en formato texto y póster (tipo _chuleta_).
