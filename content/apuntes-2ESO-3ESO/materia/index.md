@@ -25,7 +25,7 @@ links:
   
 gallery_item:
 - album: estados-materia
-  image: solido.png
+  image: a-solido.png
   caption: "En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**."
 ---
 
