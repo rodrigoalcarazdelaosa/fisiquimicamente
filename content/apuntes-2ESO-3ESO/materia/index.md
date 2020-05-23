@@ -179,7 +179,7 @@ La materia puede **cambiar** de **estado** al **variar** la **presión** o **tem
 
 Además, **durante** un **cambio** de **estado** la **temperatura** permance **constante**, como se muestra en la siguiente curva de calentamiento ($T-t$):
 
-{{< figure src="curva-calentamiento.png" lightbox="true" >}}
+{{< figure src="grafica-calentamiento.png" lightbox="true" >}}
 
 Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan con la presión) son, al igual que la densidad, **propiedades características** de la materia.
 
