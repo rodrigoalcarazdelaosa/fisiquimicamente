@@ -233,7 +233,7 @@ Podemos expresar la **concentración** de una disolución de varias formas disti
 g/L
 : Expresa el número de gramos de soluto por cada litro de disolución:
 	$$
-	c\,(\si{g/L}) = \frac{m_\text{soluto}\, (\si{g})}{V_\text{disolución}\, (\si{L})}
+	c\,(\mathrm{g/L}) = \frac{m_\text{soluto}\, (\si{g})}{V_\text{disolución}\, (\si{L})}
 	$$
 	
 % en masa
