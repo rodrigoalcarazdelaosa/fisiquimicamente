@@ -248,6 +248,8 @@ g/L
 	c\thinspace(\\%\thinspace V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolución}}\times 100
 	$$
 
+Puedes aprender más con esta **simulación**, donde se la concentración
+
 <iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
 ### Métodos de separación
