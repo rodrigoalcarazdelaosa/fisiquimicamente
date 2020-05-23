@@ -19,6 +19,11 @@ body {
   color: #111111;
   background-color: #fffff8; }
   
+/* Navigation bar text */
+.navbar-light {
+font-family: $sta-font-nav, serif;
+}  
+  
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
 color: $primary; }  
