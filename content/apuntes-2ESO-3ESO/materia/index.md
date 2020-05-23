@@ -149,7 +149,7 @@ $$
 
 Ya que la densidad nos la dan en unidades del SI, pasamos la masa, $m=390\thinspace\mathrm g$, a kg:
 $$
-390\thinspace\cancel{\mathrm g} \cdot \frac{1\thinspace\mathrm{kg}}{10^3\thinspace\cancel{\mathrm g}} = 0.390\thinspace\mathrm{kg}
+m = 390\thinspace\cancel{\mathrm g} \cdot \frac{1\thinspace\mathrm{kg}}{10^3\thinspace\cancel{\mathrm g}} = 0.390\thinspace\mathrm{kg}
 $$
 
 {{% /alert %}}
