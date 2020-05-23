@@ -154,6 +154,10 @@ $$
 
 A partir de la expresión de la densidad, despejamos el volumen $V$:
 
+$$
+d = \frac{m}{V}\rightarrow m = V\cdot d = 500\thinspace\cancel{\mathrm{cm^3}} \cdot 0.79\thinspace\mathrm{g/\cancel{cm^3}} = 395\thinspace\mathrm{g} = 0.395\thinspace\mathrm{kg}
+$$	
+
 {{% /alert %}}
 
 ## Estados de agregación
