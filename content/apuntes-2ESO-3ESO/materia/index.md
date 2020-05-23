@@ -61,7 +61,7 @@ En el SI se mide en $\mathrm{kg/m^3}$.
 
 La tabla[^1], tomada de la [entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials), muestra la densidad de diversos materiales (ordenados de menor a mayor densidad).
 
-[^1]:
+[^1]: Densidades de diversos materiales.
 	| Material | Densidad (kg/m<sup>3</sup>) | Notas |
 	| --- | :---: | --- |
 	| Hidrógeno | 0.0898 | |
