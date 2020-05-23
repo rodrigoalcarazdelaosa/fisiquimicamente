@@ -191,6 +191,8 @@ Sus **postulados** son:
 - Existen **fuerzas** de **atracción** que mantienen unidas a las partículas.
 - Las partículas están en **continuo movimiento**, siendo la **temperatura** una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).
 
+{{< gallery album="estados-materia" >}}
+
 Puedes conocer mejor las propiedades de los estados de agregación con la siguiente **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
