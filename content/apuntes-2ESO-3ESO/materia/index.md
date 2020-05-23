@@ -173,6 +173,7 @@ Gaseoso
 : Volumen y forma variables. Se comprimen y fluyen fácilmente.
 
 ### Cambios de estado
+La materia puede **cambiar** de **estado** al **variar** la **presión** o **temperatura**, permaneciendo su masa constante mientras que su volumen varía. Además, **durante** un **cambio** de **estado** la **temperatura** permance **constante**.
 
 ## Modelo cinético-molecular
 
