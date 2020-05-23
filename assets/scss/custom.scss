@@ -394,13 +394,16 @@ select.form-control:focus::-ms-value {
 	
 /*************************************************
 *  highlight.js
-**************************************************/  	
+**************************************************/
 	
 .hljs {
 	background: #fffff8;
 }
 
-    .lb-style-custom .lb-like-icon {
-    position: relative;
-    top: -5px;
-}
+/*************************************************
+*  LikeBtn
+**************************************************/
+
+.lb-style-custom .lb-like-icon {
+position: relative;
+top: -5px; }
