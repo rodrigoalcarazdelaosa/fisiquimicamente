@@ -212,11 +212,11 @@ Puedes conocer mejor las **propiedades** de los **estados de agregación** con l
 Al mezclarse dos o más sustancias distintas, no se obtiene una nueva sustancia, ya que las sustancias que forman la mezcla **conservan** sus **propiedades** y **pueden separarse** mediante procedimientos físico-químicos.
 
 ### Tipos
-Homogéneas
-: Aquellas en las que **no** es posible distinguir sus componentes a simple vista.
+#### Homogéneas
+Aquellas en las que **no** es posible distinguir sus componentes a simple vista.
 
-Heterogéneas
-: Aquellas en las que **sí** es posible distinguir sus componentes a simple vista.
+#### Heterogéneas
+Aquellas en las que **sí** es posible distinguir sus componentes a simple vista.
 
 ### Disoluciones
 Son un buen ejemplo de **mezclas homogéneas**, cuyos componentes pueden ser tanto sólidos, líquidos o gases. En una **disolución** distinguimos dos **componentes**:
