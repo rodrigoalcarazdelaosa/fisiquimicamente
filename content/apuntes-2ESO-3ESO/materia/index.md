@@ -268,3 +268,4 @@ Método físico para separar mezclas de líquidos con distinto punto de ebullici
 {{< figure src="destilacion.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 #### Cristalización
+Método químico para separar mezclas homogéneas, como sólidos disueltos en líquidos.
