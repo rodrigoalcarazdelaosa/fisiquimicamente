@@ -242,7 +242,7 @@ g/L
 	c\,(\%\, m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolución}}\times 100
 	$$
 	
-\% en volumen
+% en volumen
 : Expresa el número de litros de soluto por cada \SI{100}{L} de disolución:
 	$$
 	c\,(\%\, V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolución}}\times 100
