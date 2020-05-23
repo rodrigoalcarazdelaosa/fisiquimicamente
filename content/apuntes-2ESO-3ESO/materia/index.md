@@ -27,6 +27,12 @@ gallery_item:
 - album: estados-materia
   image: a-solido.png
   caption: "En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**."
+- album: estados-materia
+  image: b-liquido.png
+  caption: "En un **líquido** la **interacción** entre las partículas es **intermedia**, y éstas además de **vibrar** pueden **rotar** y **moverse** ligeramente."
+- album: estados-materia
+  image: c-gas.png
+  caption: "En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**."    
 ---
 
 {{% toc %}}
