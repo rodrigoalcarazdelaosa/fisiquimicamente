@@ -175,6 +175,8 @@ Gaseoso
 ### Cambios de estado
 La materia puede **cambiar** de **estado** al **variar** la **presión** o **temperatura**, permaneciendo su masa constante mientras que su volumen varía. Además, **durante** un **cambio** de **estado** la **temperatura** permance **constante**.
 
+{{< figure src="cambios-estado.png" lightbox="true" >}}
+
 ## Modelo cinético-molecular
 
 Puedes conocer mejor las propiedades de los estados de agregación con la siguiente **simulación**:
