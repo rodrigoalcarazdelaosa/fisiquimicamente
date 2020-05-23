@@ -237,7 +237,7 @@ g/L
 	$$
 	
 % en masa
-: Expresa el número de gramos de soluto por cada \SI{100}{g} de disolución:
+: Expresa el número de gramos de soluto por cada $100\thinspace\mathrm g$ de disolución:
 	$$
 	c\thinspace(\\%\thinspace m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolución}}\times 100
 	$$
