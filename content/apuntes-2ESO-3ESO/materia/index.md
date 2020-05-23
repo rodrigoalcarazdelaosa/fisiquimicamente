@@ -185,6 +185,12 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ## Modelo cinético-molecular
 
+Sus **postulados** son:
+
+- La **materia** está **formada** por **partículas** muy pequeñas, entre las que no existe nada (vacío).
+- Existen **fuerzas** de **atracción** que mantienen unidas a las partículas.
+- Las partículas están en **continuo movimiento**, siendo la **temperatura** una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).
+
 Puedes conocer mejor las propiedades de los estados de agregación con la siguiente **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
