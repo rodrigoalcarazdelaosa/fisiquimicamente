@@ -257,7 +257,7 @@ Puedes aprender más con esta **simulación**, donde se expresa la concentració
 ### Métodos de separación
 
 #### Decantación
-Método físico para separar mezclas heterogéneas de líquidos y sólidos no solubles (suspendidos) o de líquidos no miscibles de diferente densidad (con un embudo de decantación).
+Método **físico** para separar mezclas **heterogéneas** de líquidos y sólidos no solubles (suspendidos) o de líquidos no miscibles de **diferente densidad** (con un embudo de decantación).
 
 #### Filtración
 Método **físico** para separar mezclas **heterogéneas** de líquidos y sólidos no solubles a través de un medio poroso, llamado tamiz, criba, cedazo o **filtro**.
