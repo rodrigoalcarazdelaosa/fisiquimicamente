@@ -242,8 +242,8 @@ Expresa el número de gramos de soluto por cada $100\thinspace\mathrm g$ de diso
 	c\thinspace(\\%\thinspace m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolución}}\times 100
 	$$
 	
-% en volumen
-: Expresa el número de litros de soluto por cada $100\thinspace\mathrm L$ de disolución:
+##### % en volumen
+Expresa el número de litros de soluto por cada $100\thinspace\mathrm L$ de disolución:
 	$$
 	c\thinspace(\\%\thinspace V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolución}}\times 100
 	$$
