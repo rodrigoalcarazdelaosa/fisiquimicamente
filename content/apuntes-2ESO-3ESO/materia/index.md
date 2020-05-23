@@ -177,6 +177,8 @@ La materia puede **cambiar** de **estado** al **variar** la **presión** o **tem
 
 {{< figure src="cambios-estado.png" lightbox="true" >}}
 
+Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan con la presión) son, al igual que la densidad, **propiedades características** de la materia.
+
 ## Modelo cinético-molecular
 
 Puedes conocer mejor las propiedades de los estados de agregación con la siguiente **simulación**:
