@@ -15,7 +15,7 @@ Desde 2018 soy profesor de Física y Química en el [IES Ría San Martín de Can
 
 ## ¿Por qué este blog?
 
-Mi intención principal con este sitio web es la de proporcionar 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química y 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}}) a mis alumn@s y a quien pueda interesarle, además de compartir 👐 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
+Mi intención principal con este sitio web es la de proporcionar 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química y 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}}) a mis alumnos/as y a quien pueda interesarle, además de compartir 👐 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
 
 Creo que un blog es el añadido perfecto para poder debatir sobre la **actualidad** con un contenido mucho más dinámico.
 
@@ -29,7 +29,7 @@ En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **c
 
 ## ¿A quién va dirigido este blog?
 
-Las entradas de este blog van dirigidas a mis alumn@s y a todo aquel que tenga curiosidad por la ciencia y/o comparta alguno de mis intereses.
+Las entradas de este blog van dirigidas a mis alumnos/as y a todo aquel que tenga curiosidad por la ciencia y/o comparta alguno de mis intereses.
 
 ## ¿Cómo puedes participar?
 
@@ -37,4 +37,4 @@ En todas las entradas del blog así como en los 📚 [<span style="font-variant:
 
 [^1]: Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándome kudos estás reconociendo y alabando mi esfuerzo, y animándome a seguir preparando materiales de calidad.
 
-Espero que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amig@.
+Espero que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amigo/a.
