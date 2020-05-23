@@ -1,7 +1,7 @@
 {{ if and site.Params.sharing (ne .Params.share false) }}
 <div class="share-box" aria-hidden="true">	
   <ul class="share">	
-	  <span class="likebtn-wrapper" data-theme="custom" data-share_enabled="false" data-f_size="30" data-icon_size="30" data-icon_l="hrt1" data-icon_l_c="#111111" data-icon_l_c_v="#b0332a" data-label_c="#1965b0" data-label_c_v="#b0332a" data-counter_l_c="#111111" data-bg_c="#fffff8" data-bg_c_v="#fffff8" data-brdr_c="#fffff8" data-f_family="Courier New" data-lang="es" data-i18n_like="Kudos" data-ef_voting="heartbeat" data-rich_snippet="true" data-show_like_label="false" data-dislike_enabled="false" data-popup_style="dark" data-item_url="{url}" data-item_title="{title}" data-i18n_like_tooltip="Dar kudos" data-i18n_unlike_tooltip="Quitar kudos" data-i18n_popup_text="¡Gracias por tus kudos!"></span>
+	  <span class="likebtn-wrapper" data-theme="custom" data-share_enabled="false" data-f_size="30" data-icon_size="30" data-icon_l="hrt1" data-icon_l_c="#111111" data-icon_l_c_v="#b0332a" data-label_c="#1965b0" data-label_c_v="#b0332a" data-counter_l_c="#111111" data-bg_c="#fffff8" data-bg_c_v="#fffff8" data-brdr_c="#fffff8" data-f_family="Courier New" data-lang="es" data-i18n_like="Kudos" data-ef_voting="heartbeat" data-rich_snippet="true" data-show_like_label="false" data-dislike_enabled="false" data-popup_style="dark" data-item_url="{url}" data-item_title="{title}" data-i18n_like_tooltip="Dar kudos" data-i18n_unlike_tooltip="Quitar <em>kudos</em>" data-i18n_popup_text="¡Gracias por tus kudos!"></span>
     {{ range where site.Data.page_sharer.buttons "enable" true }}
       {{ $pack := or .icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
