@@ -263,7 +263,7 @@ Método físico para separar mezclas heterogéneas de líquidos y sólidos no so
 Método físico para separar mezclas heterogéneas de líquidos y sólidos no solubles a través de un medio poroso, llamado tamiz, criba, cedazo o filtro.
 
 #### Destilación
-Método físico para separar mezclas de líquidos con distinto punto de ebullición.
+Método **físico** para separar mezclas de líquidos con **distinto punto de ebullición**.
 
 {{< figure src="destilacion.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
