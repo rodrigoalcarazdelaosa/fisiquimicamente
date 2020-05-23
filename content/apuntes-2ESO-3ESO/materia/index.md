@@ -209,6 +209,8 @@ Puedes conocer mejor las **propiedades** de los **estados de agregación** con l
 <iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Mezclas
+Al mezclarse dos o más sustancias distintas, no se obtiene una nueva sustancia, ya que las sustancias que forman la mezcla **conservan** sus **propiedades** y **pueden separarse** mediante procedimientos físico-químicos.
+
 ### Tipos
 ### Disoluciones
 
