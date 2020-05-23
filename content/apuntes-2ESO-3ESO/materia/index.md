@@ -245,7 +245,7 @@ g/L
 % en volumen
 : Expresa el número de litros de soluto por cada \SI{100}{L} de disolución:
 	$$
-	c\thinspace(\%\thinspace V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolución}}\times 100
+	c\thinspace(\\%\thinspace V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolución}}\times 100
 	$$
 
 <iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
