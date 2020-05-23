@@ -1,7 +1,13 @@
 <style type="text/css">
-    #styling_example .lb-style-custom .lb-like {
-    padding-left: 20px;
-	}
+    #styling_example .lb-style-custom .lb-like-icon,
+.lb-style-custom .lb-dislike-icon {
+    height: auto;
+    width: auto;
+    vertical-align: middle;
+    font-size: 14px;
+    /*position: relative;
+    top: 1px;*/
+}
 </style>
 
 {{ if and site.Params.sharing (ne .Params.share false) }}
