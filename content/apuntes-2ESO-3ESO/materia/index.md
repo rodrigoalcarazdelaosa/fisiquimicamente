@@ -230,8 +230,8 @@ Disolvente
 #### Concentración
 Podemos expresar la **concentración** de una disolución de varias formas distintas, entre ellas:
 
-g/L
-: Expresa el número de gramos de soluto por cada litro de disolución:
+##### g/L
+Expresa el número de gramos de soluto por cada litro de disolución:
 	$$
 	c\thinspace(\mathrm{g/L}) = \frac{m_\text{soluto}\thinspace (\mathrm{g})}{V_\text{disolución}\thinspace (\mathrm{L})}
 	$$
