@@ -32,7 +32,7 @@ gallery_item:
   caption: "En un **líquido** la **interacción** entre las partículas es **intermedia**, y éstas además de **vibrar** pueden **rotar** y **moverse** ligeramente."
 - album: estados-materia
   image: c-gas.png
-  caption: "En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**."    
+  caption: "En un **gas** las partículas **apenas interactúan** entre sí y éstas se **mueven aleatoriamente** en todas las direcciones."
 ---
 
 {{% toc %}}
