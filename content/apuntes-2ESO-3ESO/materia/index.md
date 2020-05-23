@@ -219,6 +219,34 @@ Heterogéneas
 : Aquellas en las que **sí** es posible distinguir sus componentes a simple vista.
 
 ### Disoluciones
+Son un buen ejemplo de **mezclas homogéneas**, cuyos componentes pueden ser tanto sólidos, líquidos o gases. En una **disolución** distinguimos dos **componentes**:
+
+Soluto
+: El componente que está en menor proporción.
+
+Disolvente
+: El componente que está en mayor proporción.
+
+#### Concentración
+Podemos expresar la **concentración** de una disolución de varias formas distintas, entre ellas:
+
+g/L
+: Expresa el número de gramos de soluto por cada litro de disolución:
+	$$
+	c\,(\si{g/L}) = \frac{m_\text{soluto}\, (\si{g})}{V_\text{disolución}\, (\si{L})}
+	$$
+	
+\% en masa
+: Expresa el número de gramos de soluto por cada \SI{100}{g} de disolución:
+	$$
+	c\,(\%\, m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolución}}\times 100
+	$$
+	
+\% en volumen
+: Expresa el número de litros de soluto por cada \SI{100}{L} de disolución:
+	$$
+	c\,(\%\, V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolución}}\times 100
+	$$
 
 <iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
