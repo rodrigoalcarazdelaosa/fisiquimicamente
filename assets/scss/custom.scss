@@ -168,6 +168,10 @@ div.alert-example > div:first-child::before {
 .card .card-image.hover-overlay:after {
 color: #555; }  
 
+.card h4 {
+	text-transform: none;
+}
+
 /*************************************************
  *  Search
  **************************************************/
