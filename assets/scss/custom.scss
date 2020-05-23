@@ -7,9 +7,6 @@ $primary_complementary_bg: #faedec; // color complementario de primary
 $example_fg: #5A6309;
 $example_bg: #fbfde9;
 
-ul.share li a {
-  color: #111111; }
-
 /*************************************************
  *  Academic's Core
  **************************************************/
@@ -212,7 +209,14 @@ color: $primary_complementary; }
 .article-style {
 	text-align: justify;
 	text-justify: auto;
-}  
+}
+
+/*************************************************
+ *  Sharing
+ **************************************************/
+
+ul.share li a {
+  color: #111111; }  
   
 /*************************************************
 *  Author profile card
