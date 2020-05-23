@@ -236,8 +236,8 @@ Expresa el número de gramos de soluto por cada litro de disolución:
 	c\thinspace(\mathrm{g/L}) = \frac{m_\text{soluto}\thinspace (\mathrm{g})}{V_\text{disolución}\thinspace (\mathrm{L})}
 	$$
 	
-% en masa
-: Expresa el número de gramos de soluto por cada $100\thinspace\mathrm g$ de disolución:
+##### % en masa
+Expresa el número de gramos de soluto por cada $100\thinspace\mathrm g$ de disolución:
 	$$
 	c\thinspace(\\%\thinspace m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolución}}\times 100
 	$$
