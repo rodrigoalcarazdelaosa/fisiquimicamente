@@ -59,64 +59,65 @@ d = \frac{m}{V}
 $$
 En el SI se mide en $\mathrm{kg/m^3}$.
 
-La siguiente tabla, tomada de la [entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials), muestra la densidad de diversos materiales (ordenados de menor a mayor densidad):
+La tabla[^1], tomada de la [entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials), muestra la densidad de diversos materiales (ordenados de menor a mayor densidad).
 
-| Material | Densidad (kg/m<sup>3</sup>) | Notas |
-| --- | :---: | --- |
-| Hidrógeno | 0.0898 | |
-| Helio | 0.179 | |
-| Aire | 1.2 | A nivel del mar |
-| Poliestireno | 75 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
-| Corcho | 240 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
-| Litio (Li) | 535 |  |
-| Madera | 700 | Valor [*típico*](https://www.engineeringtoolbox.com/wood-density-d_40.html) |
-| Potasio (K) | 860 | CRC Press Handbook of Tables for Applied Engineering Science, 2nd Edition, 1976, Table 1-59 |
-| Hielo | 916.7 | A temperatura bajo cero |
-| Aceite de cocina | 910-930 |  |
-| Sodio (Na) | 970 |  |
-| Agua dulce | 1000 | A $4\thinspace^\circ \mathrm C$ (densidad máxima) |
-| Agua salada | 1030 | $3\thinspace\\%$ |
-| Oxígeno líquido | 1141 | A $\approx -219\thinspace^\circ \mathrm C$ |
-| Nylon | 1150 | |
-| Plásticos | 1175 | Aprox.; para polipropileno y PET/PVC |
-| Glicerina | 1261 | [https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174](https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174) |
-| Magnesio (Mg) | 1740 | |
-| Berilio (Be) | 1850 | |
-| Silicio (Si) | 2330 | |
-| Hormigón | 2400 | [https://hypertextbook.com/facts/1999/KatrinaJones.shtml](https://hypertextbook.com/facts/1999/KatrinaJones.shtml) |
-| Aluminio (Al) | 2700 | |
-| Diamante | 3500 | |
-| Titanio (Ti) | 4540 | |
-| Selenio (Se) | 4800 | |
-| Vanadio (V) | 6100 | |
-| Antimonio (Sb) | 6690 | |
-| Zinc (Zn) | 7000 | |
-| Cromo (Cr) | 7200 | |
-| Estaño (Sn) | 7310 | |
-| Manganeso (Mn) | 7325 | Approx. |
-| Hierro (Fe) | 7870 |  |
-| Niobio (Nb) | 8570 |  |
-| Latón | 8600 | Hugh D. Young; Roger A. Freedman. University Physics with Modern Physics. Addison-Wesley; 2012. p. 374. |
-| Cadmio (Cd) | 8650 |  |
-| Cobalto (Co) | 8900 |  |
-| Níquel (Ni) | 8900 |  |
-| Cobre (Cu) | 8940 |  |
-| Bismuto (Bi) | 9750 |  |
-| Molibdeno (Mo) | 10220 |  |
-| Plata (Ag) | 10500 |  |
-| Plomo (Pb) | 11340 |  |
-| Torio (Th) | 11700 |  |
-| Rodio (Rh) | 12410 |  |
-| Mercurio (Hg) | 13546 |  |
-| Tantalio (Ta) | 16600 |  |
-| Uranio (U) | 18800 |  |
-| Wolframio (W) | 19300 |  |
-| Oro (Au) | 19320 |  |
-| Plutonio (Pu) | 19840 |  |
-| Renio (Re) | 21020 |  |
-| Platino (Pt) | 21450 |  |
-| Iridio (Ir) | 22420 |  |
-| Osmio (Os) | 22570 |  |
+[^1]:
+	| Material | Densidad (kg/m<sup>3</sup>) | Notas |
+	| --- | :---: | --- |
+	| Hidrógeno | 0.0898 | |
+	| Helio | 0.179 | |
+	| Aire | 1.2 | A nivel del mar |
+	| Poliestireno | 75 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
+	| Corcho | 240 | [Aprox.](http://www.madsci.org/posts/archives/mar2000/954534602.Ph.r.html) |
+	| Litio (Li) | 535 |  |
+	| Madera | 700 | Valor [*típico*](https://www.engineeringtoolbox.com/wood-density-d_40.html) |
+	| Potasio (K) | 860 | CRC Press Handbook of Tables for Applied Engineering Science, 2nd Edition, 1976, Table 1-59 |
+	| Hielo | 916.7 | A temperatura bajo cero |
+	| Aceite de cocina | 910-930 |  |
+	| Sodio (Na) | 970 |  |
+	| Agua dulce | 1000 | A $4\thinspace^\circ \mathrm C$ (densidad máxima) |
+	| Agua salada | 1030 | $3\thinspace\\%$ |
+	| Oxígeno líquido | 1141 | A $\approx -219\thinspace^\circ \mathrm C$ |
+	| Nylon | 1150 | |
+	| Plásticos | 1175 | Aprox.; para polipropileno y PET/PVC |
+	| Glicerina | 1261 | [https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174](https://physics.nist.gov/cgi-bin/Star/compos.pl?matno=174) |
+	| Magnesio (Mg) | 1740 | |
+	| Berilio (Be) | 1850 | |
+	| Silicio (Si) | 2330 | |
+	| Hormigón | 2400 | [https://hypertextbook.com/facts/1999/KatrinaJones.shtml](https://hypertextbook.com/facts/1999/KatrinaJones.shtml) |
+	| Aluminio (Al) | 2700 | |
+	| Diamante | 3500 | |
+	| Titanio (Ti) | 4540 | |
+	| Selenio (Se) | 4800 | |
+	| Vanadio (V) | 6100 | |
+	| Antimonio (Sb) | 6690 | |
+	| Zinc (Zn) | 7000 | |
+	| Cromo (Cr) | 7200 | |
+	| Estaño (Sn) | 7310 | |
+	| Manganeso (Mn) | 7325 | Approx. |
+	| Hierro (Fe) | 7870 |  |
+	| Niobio (Nb) | 8570 |  |
+	| Latón | 8600 | Hugh D. Young; Roger A. Freedman. University Physics with Modern Physics. Addison-Wesley; 2012. p. 374. |
+	| Cadmio (Cd) | 8650 |  |
+	| Cobalto (Co) | 8900 |  |
+	| Níquel (Ni) | 8900 |  |
+	| Cobre (Cu) | 8940 |  |
+	| Bismuto (Bi) | 9750 |  |
+	| Molibdeno (Mo) | 10220 |  |
+	| Plata (Ag) | 10500 |  |
+	| Plomo (Pb) | 11340 |  |
+	| Torio (Th) | 11700 |  |
+	| Rodio (Rh) | 12410 |  |
+	| Mercurio (Hg) | 13546 |  |
+	| Tantalio (Ta) | 16600 |  |
+	| Uranio (U) | 18800 |  |
+	| Wolframio (W) | 19300 |  |
+	| Oro (Au) | 19320 |  |
+	| Plutonio (Pu) | 19840 |  |
+	| Renio (Re) | 21020 |  |
+	| Platino (Pt) | 21450 |  |
+	| Iridio (Ir) | 22420 |  |
+	| Osmio (Os) | 22570 |  |
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
