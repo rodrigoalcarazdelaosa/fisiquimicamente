@@ -179,7 +179,7 @@ La materia puede **cambiar** de **estado** al **variar** la **presión** o **tem
 
 Además, **durante** un **cambio** de **estado** la **temperatura** permance **constante**, como se muestra en la siguiente curva de calentamiento (temperatura$-$tiempo):
 
-{{< figure src="grafica-calentamiento.png" title="La sustancia comienza en estado sólido, calentándose hasta los $3\thinspace^\circ\mathrm C$, su temperatura de fusión. Una vez se ha fundido completamente, sigue calentándose, en estado líquido, hasta los $113\thinspace^\circ\mathrm C$", su temperatura de ebullición." lightbox="true" >}}
+{{< figure src="grafica-calentamiento.png" title="La sustancia comienza en estado sólido, calentándose hasta los $3\thinspace^\circ\mathrm C$, su temperatura de fusión. Una vez se ha fundido completamente, sigue calentándose, en estado líquido, hasta los $113\thinspace^\circ\mathrm C$, su temperatura de ebullición." lightbox="true" >}}
 
 Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan con la presión) son, al igual que la densidad, **propiedades características** de la materia.
 
