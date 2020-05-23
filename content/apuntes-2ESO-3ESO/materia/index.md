@@ -177,7 +177,7 @@ La materia puede **cambiar** de **estado** al **variar** la **presión** o **tem
 
 {{< figure src="cambios-estado.png" lightbox="true" >}}
 
-Además, **durante** un **cambio** de **estado** la **temperatura** permance **constante**, como se muestra en la siguiente curva de calentamiento (Temperatura$-$tiempo):
+Además, **durante** un **cambio** de **estado** la **temperatura** permance **constante**, como se muestra en la siguiente curva de calentamiento (Temperatura-tiempo):
 
 {{< figure src="grafica-calentamiento.png" lightbox="true" >}}
 
