@@ -11,6 +11,10 @@ $example_bg: #fbfde9;
  *  Academic's Core
  **************************************************/
 
+html {
+  font-family: $sta-font-body, serif;
+}
+
 body {
   color: #111111;
   background-color: #fffff8; }
