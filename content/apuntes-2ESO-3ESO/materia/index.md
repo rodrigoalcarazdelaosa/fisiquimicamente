@@ -250,7 +250,7 @@ g/L
 
 Puedes aprender más con esta **simulación**, donde se expresa la concentración en mol/L, es decir, cuántos moles[^2] de soluto hay por cada litro de disolución:
 
-[^2]: El mol es la unidad del SI de cantidad de sustancia. Se suele decir que el mol es *la docena del químico*, pues, al igual que una docena indica que tenemos 12 elementos, un mol indica que tenemos 
+[^2]: El mol es la unidad de cantidad de sustancia en el SI. Se suele decir que el mol es *la docena del químico*, pues, al igual que una docena indica que tenemos 12 elementos, un mol indica que tenemos el número de Avogadro ($6.02214076\times 10^{23}$) de elementos. 
 
 <iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
