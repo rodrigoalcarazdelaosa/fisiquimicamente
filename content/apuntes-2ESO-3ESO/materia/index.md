@@ -260,7 +260,7 @@ Puedes aprender más con esta **simulación**, donde se expresa la concentració
 Método físico para separar mezclas heterogéneas de líquidos y sólidos no solubles (suspendidos) o de líquidos no miscibles de diferente densidad (con un embudo de decantación).
 
 #### Filtración
-Método físico para separar mezclas heterogéneas de líquidos y sólidos no solubles a través de un medio poroso, llamado tamiz, criba, cedazo o filtro.
+Método **físico** para separar mezclas **heterogéneas** de líquidos y sólidos no solubles a través de un medio poroso, llamado tamiz, criba, cedazo o **filtro**.
 
 #### Destilación
 Método **físico** para separar mezclas de líquidos con **distinto punto de ebullición**.
