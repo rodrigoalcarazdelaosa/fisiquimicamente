@@ -21,7 +21,12 @@ links:
 - icon_pack: fas
   icon: download
   name: PDF Póster
-  url: materia-poster.pdf  
+  url: materia-poster.pdf
+  
+gallery_item:
+- album: estados-materia
+  image: solido.png
+  caption: "En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**."
 ---
 
 {{% toc %}}
