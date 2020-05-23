@@ -236,7 +236,7 @@ g/L
 	c\,(\si{g/L}) = \frac{m_\text{soluto}\, (\si{g})}{V_\text{disolución}\, (\si{L})}
 	$$
 	
-\% en masa
+% en masa
 : Expresa el número de gramos de soluto por cada \SI{100}{g} de disolución:
 	$$
 	c\,(\%\, m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolución}}\times 100
