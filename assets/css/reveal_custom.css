@@ -48,11 +48,11 @@ body {
 border-top: 0px solid #111111; }
 
 // Bordes estilo booktabs
-table > thead {
+.reveal table > thead {
 border-top: 2px solid #111111; }
-table > thead > tr > th {
+.reveal table > thead > tr > th {
 border-bottom: 1px solid #111111; }
-table > tbody {
+.reveal table > tbody {
 border-bottom: 2px solid #111111; }
 
 table > tbody + tbody {
