@@ -126,7 +126,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 #### Ejemplos
 \begin{align*}
 13\thinspace\mathrm{cg} & \longrightarrow \mathrm{hg} \\\\
-13\thinspace\cancel{\mathrm{cg}} & \cdot \frac{1\thinspace\cancel{\mathrm g}}{10^2\thinspace\cancel{\mathrm{cg}}} \cdot \frac{1\thinspace\mathrm{hg}}{10^2\thinspace\cancel{\mathrm{g}}} = 1.3\times 10^{-3}\thinspace\mathrm{hg} \\\\ \\\\
+13\thinspace\mathrm{cg} & \cdot \frac{1\thinspace\cancel{\mathrm g}}{10^2\thinspace\cancel{\mathrm{cg}}} \cdot \frac{1\thinspace\mathrm{hg}}{10^2\thinspace\cancel{\mathrm{g}}} = 1.3\times 10^{-3}\thinspace\mathrm{hg} \\\\ \\\\
 3\thinspace\mathrm{dam^2} &\longrightarrow \mathrm{mm^2} \\\\
 3\thinspace\cancel{\mathrm{dam^2}} &\cdot \frac{10^2\thinspace\cancel{\mathrm{m^2}}}{1\thinspace\cancel{\mathrm{dam^2}}} \cdot \frac{10^6\thinspace\mathrm{mm^2}}{1\thinspace\cancel{\mathrm{m^2}}} = 3\times 10^{8}\thinspace\mathrm{mm^2} \\\\ \\\\
 72\thinspace\mathrm{km/h} &\longrightarrow \mathrm{m/s} \\\\
