@@ -38,9 +38,14 @@ Hipótesis
 
 ---
 
-- Experimentación: comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.
-- Análisis: estudio de los resultados obtenidos.
-- Conclusión: razonamos si la hipótesis es o no válida.
+Experimentación
+: Comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.
+
+Análisis
+: Estudio de los resultados obtenidos.
+
+Conclusión
+: Razonamos si la hipótesis es o no válida.
 
 ---
 
