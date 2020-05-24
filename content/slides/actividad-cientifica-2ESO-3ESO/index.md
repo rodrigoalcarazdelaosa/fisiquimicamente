@@ -19,7 +19,7 @@ slides:
 
 # La actividad científica
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+Método científico, magnitudes y laboratorio escolar
 
 ---
 
