@@ -32,6 +32,9 @@ Las **etapas** del **método científico** son las siguientes:
 	- Referirse siempre a situaciones reales o realizables.
 	- Utilizar un lenguaje claro.
 	- Variables a tratar precisas y bien definidas, además de ser observables y medibles.
+
+---
+
 - Experimentación: comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.
 - Análisis: estudio de los resultados obtenidos.
 - Conclusión: razonamos si la hipótesis es o no válida.
