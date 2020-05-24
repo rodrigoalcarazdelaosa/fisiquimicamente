@@ -28,10 +28,6 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
-$$
-\newcommand{\ihat}{\hat{\imath}}
-\newcommand{\jhat}{\hat{\jmath}}
-$$
 
 {{% toc %}}
 
