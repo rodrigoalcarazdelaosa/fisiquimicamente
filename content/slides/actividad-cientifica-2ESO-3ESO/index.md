@@ -18,7 +18,7 @@ slides:
   highlight_style: tomorrow
 ---
 
-# Create slides in Markdown with Academic
+# La actividad científica
 
 [Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
 
