@@ -189,13 +189,13 @@ color: #555555; }
   
 .search-hit em {
 background-color: $primary_complementary_bg;
-color: $primary_complementary;
+color: #111111;
 border-bottom: 1px solid $primary_complementary; }  
   
 mark,
 .mark {
 background-color: $primary_complementary_bg;
-color: $primary_complementary; }
+color: #111111; }
 
 .form-control:focus {
   border-color: $primary;
