@@ -90,7 +90,7 @@ address = {region = "Cantabria", country = "España", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.183495", longitude = "-4.052514"}
+coordinates = {latitude = "43.416645", longitude = "-4.041206"}
 
 # Directions for visitors to locate you.
 directions = ""
