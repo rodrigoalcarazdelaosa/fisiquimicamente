@@ -41,6 +41,8 @@ Posible explicación del fenómeno. **Características** que debe cumplir:
 ### Experimentación
 Comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.
 
+---
+
 ### Análisis
 Estudio de los resultados obtenidos.
 
