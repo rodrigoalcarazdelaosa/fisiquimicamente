@@ -70,6 +70,19 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
+La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
+
+| Prefijo | Símbolo | Factor | Prefijo | Símbolo | Factor |
+| ------- | :-----: | :----: | ------- | :-----: | :----: |
+| Tera | T | $10^{12}$ | pico | p | $10^{-12}$ |
+| Giga | G | $10^{9}$ | nano | n | $10^{-9}$ |
+| Mega | M | $10^{6}$ | micro | $\mu$ | $10^{-6}$ |
+| kilo | k | $10^{3}$ | mili | m | $10^{-3}$ |
+| hecto | h | $10^{2}$ | centi | c | $10^{-2}$ |
+| deca | da | $10^{1}$ | deci | d | $10^{-1}$ |
+
+---
+
 ## Code Highlighting
 
 Inline code: `variable`
