@@ -398,9 +398,6 @@ select.form-control:focus::-ms-value {
 
 .form-control-plaintext {
 	color: $primary; }
-
-.form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
-	color: $red; }  
 	
 /*************************************************
 *  highlight.js
