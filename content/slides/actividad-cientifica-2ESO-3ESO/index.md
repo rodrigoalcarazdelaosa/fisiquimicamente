@@ -49,17 +49,22 @@ Conclusión
 
 ---
 
-## Controls
+## Medidas de magnitudes
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+Una **magnitud** es toda propiedad que se puede medir. **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**.
+
+### SI
+El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentales**:
+
+| Magnitud | Unidad | Símbolo |
+| -------- | ------ | :-------: | 
+| Tiempo   | segundo | s |
+| Longitud | metro | m |
+| Masa | kilogramo | kg |
+| Corriente eléctrica | amperio | A |
+| Temperatura | kelvin | K |
+| Cantidad de sustancia | mol | mol |
+| Intensidad luminosa | candela | cd |
 
 ---
 
