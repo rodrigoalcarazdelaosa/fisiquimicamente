@@ -93,6 +93,10 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 
 ---
 
+#### Ejemplos
+
+---
+
 ## Code Highlighting
 
 Inline code: `variable`
