@@ -1,6 +1,6 @@
 <div class="article-tags">
   {{ if .Param "categories" }}
-  <span style="color: #B0332A;">  
+  <span style="color: #DC050C;">  
 	  <i class="fas fa-folder mr-1"></i>
   </span>  
   {{ range $index, $value := (.GetTerms "categories") }}
@@ -8,7 +8,7 @@
   {{ end }}
   {{ end }}
   {{ if .Param "tags" }}
-  <span style="color: #B0332A;">
+  <span style="color: #DC050C;">
 	  <i class="fas fa-tags mr-1"></i>
   </span>
   {{ range $index, $value := (.GetTerms "tags") }}
