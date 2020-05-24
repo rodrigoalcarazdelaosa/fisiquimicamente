@@ -39,7 +39,7 @@ body {
   font-family: "Inconsolata", monospace; }
   
 /* Based on Bootstrap's `table-responsive` style. */
-table > thead > tr > th,
+.reveal table > thead > tr > th,
 table > tbody > tr > th,
 table > tfoot > tr > th,
 table > thead > tr > td,
