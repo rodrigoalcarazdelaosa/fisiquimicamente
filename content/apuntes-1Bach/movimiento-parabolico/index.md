@@ -36,7 +36,7 @@ El **movimiento parabólico**[^1] surge de la **composición** de:
 [^1]: También conocido como **tiro oblicuo**, este movimiento está estudiado desde la antigüedad. Se recoge en los libros más antiguos de balística para aumentar la precisión en el tiro de un proyectil.
 
 - Un **MRU horizontal** con velocidad $\vec v_x = v_x \hat{\imath}$ constante.
-- Un **MRUV vertical** con velocidad inicial $\vec v_{0y} = v_{0y} \jhat$ hacia arriba. La aceleración $\vec g=-g\jhat$ apunta hacia abajo[^2].
+- Un **MRUV vertical** con velocidad inicial $\vec v_{0y} = v_{0y} \hat{\jmath}$ hacia arriba. La aceleración $\vec g=-g\hat{\jmath}$ apunta hacia abajo[^2].
 [^2]: Despreciamos aquí el rozamiento con el aire.
 
 La figura [1](#figure-esquema-de-un-tiro-parabólico-un-proyectil-es-lanzado-desde-una-altura-h-con-una-velocidad-inicial-vec-v_0-que-forma-un-ángulo-alpha_0-con-la-horizontal) muestra el esquema de un **tiro parabólico**, con un proyectil lanzado desde una altura $h$ con una velocidad inicial $\vec v_0 = v_x \ihat + v_{0y}\jhat$ que forma un ángulo $\alpha_0$ con la horizontal.
