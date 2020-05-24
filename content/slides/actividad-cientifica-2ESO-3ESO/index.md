@@ -57,9 +57,7 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
-### SI
-El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentales**:
-
+### Magnitudes fundamentales del SI
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | :-------: | 
 | Tiempo   | segundo | s |
