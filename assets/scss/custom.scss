@@ -407,7 +407,8 @@ select.form-control:focus::-ms-value {
 *  highlight.js
 **************************************************/
 	
-.hljs {
+.hljs {	
+	color: $red;
 	background: #fffff8;
 }
 
