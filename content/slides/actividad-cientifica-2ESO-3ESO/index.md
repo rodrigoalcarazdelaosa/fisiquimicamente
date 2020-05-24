@@ -1,7 +1,6 @@
 ---
 title: Actividad científica
 summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
-authors: ["Rodrigo Alcaraz de la Osa"]
 tags:
 - 2º ESO
 - 3º ESO
