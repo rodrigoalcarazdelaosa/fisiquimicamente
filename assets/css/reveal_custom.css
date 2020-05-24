@@ -38,56 +38,6 @@ body {
 .reveal code {
   font-family: "Inconsolata", monospace; }
 
-.reveal pre code {
-  display: block;
-  padding: 5px;
-  overflow: auto;
-  max-height: 400px;
-  word-wrap: normal; }
-
-.reveal table {
-  margin: auto;
-  border-collapse: collapse;
-  border-spacing: 0; }
-
-.reveal table th {
-  font-weight: bold; }
-
-.reveal table th,
-.reveal table td {
-  text-align: left;
-  padding: 0.2em 0.5em 0.2em 0.5em;
-  border-bottom: 1px solid; }
-
-.reveal table th[align="center"],
-.reveal table td[align="center"] {
-  text-align: center; }
-
-.reveal table th[align="right"],
-.reveal table td[align="right"] {
-  text-align: right; }
-
-.reveal table tbody tr:last-child th,
-.reveal table tbody tr:last-child td {
-  border-bottom: none; }
-
-.reveal sup {
-  vertical-align: super;
-  font-size: smaller; }
-
-.reveal sub {
-  vertical-align: sub;
-  font-size: smaller; }
-
-.reveal small {
-  display: inline-block;
-  font-size: 0.6em;
-  line-height: 1.2em;
-  vertical-align: top; }
-
-.reveal small * {
-  vertical-align: top; }
-
 /*********************************************
  * LINKS
  *********************************************/
