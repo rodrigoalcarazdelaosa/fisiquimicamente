@@ -172,6 +172,9 @@ div.alert-example > div:first-child::before {
  *  Card component
  **************************************************/
 
+.card {
+  background: $red; }
+
 .card .card-text p {
   color: #555555; }
   
