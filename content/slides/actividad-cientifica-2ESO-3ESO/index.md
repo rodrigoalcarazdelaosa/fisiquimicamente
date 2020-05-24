@@ -27,25 +27,23 @@ Método científico, magnitudes y laboratorio escolar
 
 Las **etapas** del **método científico** son las siguientes:
 
-Observación
-: Examinar un fenómeno con el objetivo de sacar toda la información, pero sin modificar dicho fenómeno.
+### Observación
+Examinar un fenómeno con el objetivo de sacar toda la información, pero sin modificar dicho fenómeno.
 
-Hipótesis
-: Posible explicación del fenómeno. **Características**:
-	- Referirse siempre a situaciones reales o realizables.
-	- Utilizar un lenguaje claro.
-	- Variables a tratar precisas y bien definidas, además de ser observables y medibles.
+### Hipótesis
+Posible explicación del fenómeno. **Características** que debe cumplir:
+- Referirse siempre a situaciones reales o realizables.
+- Utilizar un lenguaje claro.
+- Variables a tratar precisas y bien definidas, además de ser observables y medibles.
 
----
+### Experimentación
+Comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.
 
-Experimentación
-: Comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.
+### Análisis
+Estudio de los resultados obtenidos.
 
-Análisis
-: Estudio de los resultados obtenidos.
-
-Conclusión
-: Razonamos si la hipótesis es o no válida.
+### Conclusión
+Razonamos si la hipótesis es o no válida.
 
 ---
 
