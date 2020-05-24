@@ -42,11 +42,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #2a54a9;
-  text-decoration: none;
-  -webkit-transition: color .15s ease;
-  -moz-transition: color .15s ease;
-  transition: color .15s ease; }
+  color: #2a54a9; }
 
 .reveal a:hover {
   color: #6ca0e8;
