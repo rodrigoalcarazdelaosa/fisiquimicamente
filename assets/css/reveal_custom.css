@@ -40,11 +40,11 @@ body {
   
 /* Based on Bootstrap's `table-responsive` style. */
 .reveal table > thead > tr > th,
-table > tbody > tr > th,
-table > tfoot > tr > th,
-table > thead > tr > td,
-table > tbody > tr > td,
-table > tfoot > tr > td {
+.reveal table > tbody > tr > th,
+.reveal table > tfoot > tr > th,
+.reveal table > thead > tr > td,
+.reveal table > tbody > tr > td,
+.reveal table > tfoot > tr > td {
 border-top: 0px solid #111111; }
 
 // Bordes estilo booktabs
