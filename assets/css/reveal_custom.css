@@ -42,17 +42,9 @@ body {
 .reveal table td {
 border-bottom: 0px solid; }
 
-.reveal table th[align="center"],
-.reveal table td[align="center"] {
-text-align: center; }
-
-.reveal table th[align="right"],
-.reveal table td[align="right"] {
-text-align: right; }
-
 .reveal table tbody tr:last-child th,
 .reveal table tbody tr:last-child td {
-border-bottom: none; }  
+border-bottom: 1px solid #111111; }  
 
 /*********************************************
  * LINKS
