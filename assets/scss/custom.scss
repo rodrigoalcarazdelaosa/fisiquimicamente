@@ -411,6 +411,10 @@ select.form-control:focus::-ms-value {
 	background: #fffff8;
 }
 
+.hljs-string, .hljs-symbol, .hljs-bullet, .hljs-addition {
+    color: $red;
+}
+
 /*************************************************
 *  LikeBtn
 **************************************************/
