@@ -83,6 +83,16 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
+### Notación científica
+
+Consiste en escribir un número de la forma:
+$$
+a\times 10^b,
+$$
+donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativo).
+
+---
+
 ## Code Highlighting
 
 Inline code: `variable`
