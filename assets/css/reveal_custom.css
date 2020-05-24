@@ -45,9 +45,7 @@ body {
   color: #2a54a9; }
 
 .reveal a:hover {
-  color: #6ca0e8;
-  text-shadow: none;
-  border: none; }
+  text-decoration: underline; }
 
 .reveal .roll span:after {
   color: #fffff8;
