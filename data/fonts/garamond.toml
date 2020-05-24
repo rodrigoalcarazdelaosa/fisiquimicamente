@@ -2,7 +2,7 @@
 name = "garamond"
 
 # Optional Google font URL
-google_fonts = "Cabin+Sketch:400,700|EB+Garamond:400,400italic,700,700italic|Inconsolata"
+google_fonts = "Cabin+Sketch:400,700|EB+Garamond:400,400italic,700,700italic|Inconsolata:400,700"
 
 # Font families
 heading_font = "Cabin Sketch"
