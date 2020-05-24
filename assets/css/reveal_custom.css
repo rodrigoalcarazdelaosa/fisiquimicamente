@@ -7,7 +7,7 @@
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  color: $red;
+  color: #fff;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
