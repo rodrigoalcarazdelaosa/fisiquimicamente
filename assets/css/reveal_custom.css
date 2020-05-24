@@ -44,6 +44,9 @@ border-bottom: 0px solid; }
 
 .reveal table > thead {
   border-top: 2px solid #111111; }
+  
+.reveal table > thead > tr > th {
+  border-bottom: 1px solid #111111; }  
 
 .reveal table tbody tr:last-child th,
 .reveal table tbody tr:last-child td {
