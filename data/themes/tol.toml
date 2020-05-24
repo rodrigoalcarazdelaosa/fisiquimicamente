@@ -5,10 +5,10 @@ name = "tol"
 light = true
 
 # Primary
-primary = "#1965B0"
+primary = "#2a54a9"
 
 # Menu
-menu_primary = "#1965B0"
+menu_primary = "#2a54a9"
 menu_text = "#fff"
 menu_text_active = "#FCD30A"
 menu_title = "#fff"
