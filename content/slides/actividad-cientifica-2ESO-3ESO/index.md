@@ -70,7 +70,7 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
-### Prefijos (múltiplos y submúltiplos) del SI
+#### Prefijos (múltiplos y submúltiplos) del SI
 
 | Prefijo | Símbolo | Factor | Prefijo | Símbolo | Factor |
 | ------- | :-----: | :----: | ------- | :-----: | :----: |
