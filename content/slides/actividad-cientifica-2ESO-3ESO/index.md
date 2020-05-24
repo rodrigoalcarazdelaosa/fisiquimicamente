@@ -27,7 +27,7 @@ Método científico, magnitudes y laboratorio escolar
 
 Las **etapas** del **método científico** son las siguientes:
 
-### Observación
+- Observación
 Examinar un fenómeno con el objetivo de sacar toda la información, pero sin modificar dicho fenómeno.
 
 ### Hipótesis
