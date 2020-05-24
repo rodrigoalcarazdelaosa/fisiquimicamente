@@ -30,6 +30,8 @@ Las **etapas** del **método científico** son las siguientes:
 ### Observación
 Examinar un fenómeno con el objetivo de sacar toda la información, pero sin modificar dicho fenómeno.
 
+---
+
 ### Hipótesis
 Posible explicación del fenómeno. **Características** que debe cumplir:
 - Referirse siempre a situaciones reales o realizables.
