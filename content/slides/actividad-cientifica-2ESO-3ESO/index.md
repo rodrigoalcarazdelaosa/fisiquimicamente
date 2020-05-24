@@ -125,9 +125,9 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 #### Ejemplos
 ##### $13\thinspace\mathrm{cg}  \longrightarrow \mathrm{hg}$
-{{% fragment %}} $$13\thinspace\mathrm{cg}$$ {{% /fragment %}}
-{{% fragment %}} $$\cdot \frac{1\thinspace\mathrm g}{10^2\thinspace\mathrm{cg}}$$ {{% /fragment %}}
-{{% fragment %}} $$\cdot \frac{1\thinspace\mathrm{hg}}{10^2\thinspace\mathrm{g}} = 1.3\times 10^{-3}\thinspace\mathrm{hg}$$ {{% /fragment %}}
+{{% fragment %}} $13\thinspace\mathrm{cg}$ {{% /fragment %}}
+{{% fragment %}} $\cdot \frac{1\thinspace\mathrm g}{10^2\thinspace\mathrm{cg}}$ {{% /fragment %}}
+{{% fragment %}} $\cdot \frac{1\thinspace\mathrm{hg}}{10^2\thinspace\mathrm{g}} = 1.3\times 10^{-3}\thinspace\mathrm{hg}$ {{% /fragment %}}
 
 ---
 
