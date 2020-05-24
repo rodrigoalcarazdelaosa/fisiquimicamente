@@ -80,7 +80,7 @@ color: #555555; }
   
 site-footer,
 footer a.back-to-top i {
-color: rgba(25, 101, 176, 0.54); }	    
+color: rgba(42, 84, 169, 0.54); }	    
 
 /**************************************************
  *  Tags/Labels
@@ -367,7 +367,7 @@ border: 1px solid $primary; }
     background-color: $primary;
     border-color: $primary; }
   .btn-light:focus, .btn-light.focus {
-    box-shadow: 0 0 0 0.2rem rgba(25, 101, 176, 0.5); }
+    box-shadow: 0 0 0 0.2rem rgba(42, 84, 169, 0.5); }
   .btn-light.disabled, .btn-light:disabled {
     color: $primary;
     background-color: transparent; }
@@ -376,7 +376,7 @@ border: 1px solid $primary; }
     background-color: $primary;
     border-color: $primary; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(25, 101, 176, 0.5); }	  
+      box-shadow: 0 0 0 0.2rem rgba(42, 84, 169, 0.5); }	  
   
 /*************************************************
 *  Forms
