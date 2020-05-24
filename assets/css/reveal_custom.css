@@ -63,10 +63,3 @@ body {
  *********************************************/
 .reveal .progress {
   color: #2a54a9; }
-
-/*********************************************
- * PRINT BACKGROUND
- *********************************************/
-@media print {
-  .backgrounds {
-    background-color: #fff; } }
