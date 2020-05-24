@@ -44,6 +44,9 @@
     {{ $page.ReadingTime }} {{ i18n "minute_read" }}
   </span>
   {{ end }}
+    
+  <span class="middot-divider"></span>
+  0 kudos
 
   {{/* Show Disqus comment count if enabled. */}}
   {{ $disqus_enabled := eq site.Params.comments.engine 1 | and (index site.Params.comments.commentable $page.Type) | and (ne $page.Params.commentable false) | or $page.Params.commentable }}
