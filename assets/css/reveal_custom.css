@@ -42,10 +42,12 @@ body {
 .reveal table td {
 border-bottom: 0px solid; }
 
+.reveal table > thead {
+  border-top: 2px solid #111111; }
+
 .reveal table tbody tr:last-child th,
 .reveal table tbody tr:last-child td {
-border-top: 2px solid #111111;
-border-bottom: 2px solid #111111; }  
+border-bottom: 2px solid #111111; }
 
 /*********************************************
  * LINKS
