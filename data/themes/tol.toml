@@ -5,7 +5,7 @@ name = "tol"
 light = true
 
 # Primary
-primary = "#2a54a9"
+primary = "#111111"
 
 # Menu
 menu_primary = "#2a54a9"
