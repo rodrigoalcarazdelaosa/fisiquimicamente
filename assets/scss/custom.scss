@@ -48,7 +48,7 @@ blockquote {
   border-left: .25rem solid #555555; }  
   
 .markup-quote {
-color: #000000;
+color: #111111;
 background-color: transparent;
 background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary_complementary_bg); }  
 
@@ -142,7 +142,7 @@ color: $primary;
 }
   
 .alert-note {
-color: #000000;
+color: #111111;
 background-color: $primary_bg;
 border-color: $primary; }
 
@@ -151,7 +151,7 @@ div.alert-warning > div:first-child::before {
 }
 
 .alert-warning {
-color: #000000;
+color: #111111;
 background-color: $primary_complementary_bg;
 border-color: $primary_complementary; }
 
@@ -163,7 +163,7 @@ div.alert-example > div:first-child::before {
 }
 
 .alert-example {
-  color: #000000;
+  color: #111111;
   background-color: $example_bg;
   border-color: $example_fg;
 }
