@@ -29,74 +29,9 @@ body {
   color: #111111;
   font-family: "Cabin Sketch", sans-serif; }
 
-.reveal h1 {
-  font-size: 2.5em; }
-
-.reveal h2 {
-  font-size: 1.6em; }
-
-.reveal h3 {
-  font-size: 1.3em; }
-
-.reveal h4 {
-  font-size: 1em; }
-
-.reveal h1 {
-  text-shadow: none; }
-
 /*********************************************
  * OTHER
  *********************************************/
-.reveal p {
-  margin: 20px 0;
-  line-height: 1.3; }
-
-/* Ensure certain elements are never larger than the slide itself */
-.reveal img,
-.reveal video,
-.reveal iframe {
-  max-width: 95%;
-  max-height: 95%; }
-
-.reveal strong,
-.reveal b {
-  font-weight: bold; }
-
-.reveal em {
-  font-style: italic; }
-
-.reveal ol,
-.reveal dl,
-.reveal ul {
-  display: inline-block;
-  text-align: left;
-  margin: 0 0 0 1em; }
-
-.reveal ol {
-  list-style-type: decimal; }
-
-.reveal ul {
-  list-style-type: disc; }
-
-.reveal ul ul {
-  list-style-type: square; }
-
-.reveal ul ul ul {
-  list-style-type: circle; }
-
-.reveal ul ul,
-.reveal ul ol,
-.reveal ol ol,
-.reveal ol ul {
-  display: block;
-  margin-left: 40px; }
-
-.reveal dt {
-  font-weight: bold; }
-
-.reveal dd {
-  margin-left: 40px; }
-
 .reveal blockquote {
   display: block;
   position: relative;
