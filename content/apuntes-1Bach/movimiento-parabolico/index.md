@@ -50,6 +50,8 @@ La figura [1](#figure-esquema-de-un-tiro-parabólico-un-proyectil-es-lanzado-des
 Como el proyectil se lanza desde una altura $h$, su __posición inicial__ viene dada por:
 
 $$
+\newcommand{\ihat}{\hat{\imath}}
+\newcommand{\jhat}{\hat{\jmath}}
 \vec r_0 = x_0\ihat + y_0\jhat = 0+h\jhat = h\jhat
 $$
 
