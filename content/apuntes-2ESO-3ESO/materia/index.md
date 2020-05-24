@@ -37,6 +37,8 @@ gallery_item:
 
 {{% toc %}}
 
+{{< hl >}}highlighted quote{{< /hl >}}
+
 ## Propiedades generales
 Materia
 : Todo lo que tiene **masa** y ocupa un **volumen**.
