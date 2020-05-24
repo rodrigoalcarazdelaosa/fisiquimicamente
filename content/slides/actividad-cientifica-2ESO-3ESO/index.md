@@ -1,10 +1,15 @@
 ---
-title: Slides
-summary: An introduction to using Academic's Slides feature.
+title: Actividad científica
+summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
 authors: []
-tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
+tags:
+- 2º ESO
+- 3º ESO
+- actividad-científica
+categories:
+- Física
+- Química
+
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: serif
