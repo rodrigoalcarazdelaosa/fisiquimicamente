@@ -58,8 +58,8 @@ border-bottom: 2px solid #111111; }
 background-color: #dddddd; }
 
 /* Table Hover */
-table > tbody > tr:hover > td,
-table > tbody > tr:hover > th {
+.reveal table > tbody > tr:hover > td,
+.reveal table > tbody > tr:hover > th {
 color: #fffff8;
 background-color: #555555; }
 
