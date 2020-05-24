@@ -6,15 +6,12 @@ body {
   background-color: #fffff8; }
 
 .reveal {
-  font-family: "eB Garamond", serif;
-  font-size: 42px;
-  font-weight: normal;
+  font-family: "EB Garamond", serif;
   color: #111111; }
 
 ::selection {
-  color: #fff;
-  background: #2a54a9;
-  text-shadow: none; }
+  color: #fffff8;
+  background: #2a54a9; }
 
 ::-moz-selection {
   color: #fff;
