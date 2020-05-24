@@ -33,14 +33,10 @@ body {
  * OTHER
  *********************************************/
 .reveal pre {
-  font-family: "Inconsolata", monospace;
-  line-height: 1.2em;
-  word-wrap: break-word;
-  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15); }
+  font-family: "Inconsolata", monospace; }
 
 .reveal code {
-  font-family: monospace;
-  text-transform: none; }
+  font-family: "Inconsolata", monospace; }
 
 .reveal pre code {
   display: block;
