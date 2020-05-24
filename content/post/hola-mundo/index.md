@@ -33,7 +33,7 @@ Las entradas de este blog van dirigidas a mis alumnos/as y a todo aquel que teng
 
 ## ¿Cómo puedes participar?
 
-En todas las entradas del blog así como en los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes *darme* ***kudos***[^1] y dejarme __comentarios__. Además, puedes escribirme bien utilizando el [formulario de contacto]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [correo electrónico](mailto:rodri.alcaraz@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/alcarazr).
+En todas las entradas del blog así como en los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes *darme* ***kudos***[^1] y dejarme __comentarios__. Además, puedes escribirme bien utilizando el [formulario de contacto]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [✉️](mailto:rodri.alcaraz@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}}](https://twitter.com/alcarazr).
 
 [^1]: Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándome kudos estás reconociendo y alabando mi esfuerzo, y animándome a seguir preparando materiales de calidad.
 
