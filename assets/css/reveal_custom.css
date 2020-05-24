@@ -52,6 +52,17 @@ border-bottom: 0px solid; }
 .reveal table tbody tr:last-child td {
 border-bottom: 2px solid #111111; }
 
+/* Table Striped */
+table > tbody > tr:nth-child(odd) > td,
+table > tbody > tr:nth-child(odd) > th {
+background-color: #dddddd; }
+
+/* Table Hover */
+table > tbody > tr:hover > td,
+table > tbody > tr:hover > th {
+color: #fffff8;
+background-color: #555555; }
+
 /*********************************************
  * LINKS
  *********************************************/
