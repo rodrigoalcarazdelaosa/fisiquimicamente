@@ -363,7 +363,7 @@ border: 1px solid $primary; }
   background-color: transparent;
   border-color: $primary; }
   .btn-light:hover {
-    color: #FFFFFF;
+    color: #FFFFF8;
     background-color: $primary;
     border-color: $primary; }
   .btn-light:focus, .btn-light.focus {
@@ -372,7 +372,7 @@ border: 1px solid $primary; }
     color: $primary;
     background-color: transparent; }
   .btn-light:not(:disabled):not(.disabled):active, .btn-light:not(:disabled):not(.disabled).active, .show > .btn-light.dropdown-toggle {
-    color: #FFFFFF;
+    color: #FFFFF8;
     background-color: $primary;
     border-color: $primary; }
     .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
