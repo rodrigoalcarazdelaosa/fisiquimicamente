@@ -7,4 +7,5 @@
 .reveal section h4,
 .reveal section h5,
 .reveal section h6 {
-  color: #fff; }
+  color: #111;
+  background-color: #ddd; }
