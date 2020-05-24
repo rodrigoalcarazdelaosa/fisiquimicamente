@@ -1,10 +1,10 @@
 /*********************************************
  * HEADERS
  *********************************************/
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal h4,
-.reveal h5,
-.reveal h6 {
+.reveal section h1,
+.reveal section h2,
+.reveal section h3,
+.reveal section h4,
+.reveal section h5,
+.reveal section h6 {
   color: #111;}
