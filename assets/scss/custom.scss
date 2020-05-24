@@ -109,18 +109,18 @@ table > tfoot > tr > th,
 table > thead > tr > td,
 table > tbody > tr > td,
 table > tfoot > tr > td {
-border-top: 0px solid $black; }
+border-top: 0px solid #111111; }
 
 // Bordes estilo booktabs
 table > thead {
-  border-top: 2px solid $black; }
+  border-top: 2px solid #111111; }
 table > thead > tr > th {
-border-bottom: 1px solid $black; }
+border-bottom: 1px solid #111111; }
 table > tbody {
-border-bottom: 2px solid $black; }
+border-bottom: 2px solid #111111; }
 
 table > tbody + tbody {
-border-top: 2px solid $black; }
+border-top: 2px solid #111111; }
 
 /* Table Striped */
 table > tbody > tr:nth-child(odd) > td,
@@ -301,7 +301,7 @@ color: #555555; }
 color: #555555; }
 
 .docs-sidebar .nav > li > a:hover {
-color: $black; }  
+color: #111111; }  
 
 /* Docs TOC nav. */
 
@@ -386,9 +386,9 @@ border: 1px solid $primary; }
 	color: $primary;
 	border: 1px solid $primary; }
 .form-control:-moz-focusring {
-	text-shadow: 0 0 0 $black; }
+	text-shadow: 0 0 0 #111111; }
 .form-control:focus {
-	color: $black;
+	color: #111111;
 	border-color: $primary; }
 .form-control::placeholder {
 	color: #555555; }
