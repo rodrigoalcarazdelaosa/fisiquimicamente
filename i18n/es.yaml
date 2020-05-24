@@ -103,7 +103,7 @@
 - id: open_project_site
   translation: Ir a la página del proyecto
 - id: posts
-  translation: Entradas
+  translation: Blog
 - id: publications
   translation: Publicaciones
 - id: talks
