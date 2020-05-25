@@ -23,7 +23,7 @@ image:
   
 # - icon_pack: fas
 #   icon: download
-#   name: PDF Póster
+#   name: Póster
 #   url: MAS_poster.pdf
 
 ---

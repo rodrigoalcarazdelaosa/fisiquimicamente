@@ -1,5 +1,0 @@
-{{/* Render .Inner before processing the shortcode. */}}
-<span class='fragment {{ .Get "class" }}'
-  {{ with .Get "index" }}data-fragment-index='{{ . }}'{{ end }}>
-  {{ .Inner }}
-</span>

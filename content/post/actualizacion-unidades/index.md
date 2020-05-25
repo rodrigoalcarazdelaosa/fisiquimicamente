@@ -18,7 +18,7 @@ links:
   
 - icon_pack: fas
   icon: download
-  name: PDF Póster Nuevo SI
+  name: Póster Nuevo SI
   url: https://www.cem.es/sites/default/files/files/Poster%20Nuevo-SI.pdf
 ---
 

@@ -23,7 +23,7 @@ links:
   
 - icon_pack: fas
   icon: download
-  name: PDF Póster
+  name: Póster
   url: reacciones-quimicas-poster.pdf  
 
 # Slides (optional).

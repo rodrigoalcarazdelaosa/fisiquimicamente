@@ -19,7 +19,7 @@ image:
 links:
 - icon_pack: fas
   icon: download
-  name: PDF Póster
+  name: Póster
   url: fuerzas-poster.pdf
 ---
 
