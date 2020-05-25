@@ -228,4 +228,8 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Normas básicas de seguridad
 
+---
+
+{{< youtube BRDApYgvDqQ >}}
+
 {{% /section %}}
