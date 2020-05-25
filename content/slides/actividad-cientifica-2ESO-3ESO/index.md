@@ -203,3 +203,7 @@ En el caso de unidades de superficie (volumen), los factores de conversión van 
 {{% fragment %}} $\displaystyle = 18\thinspace\mathrm{m^3/h}$ {{% /fragment %}}
 
 {{% /section %}}
+
+---
+
+## Laboratorio escolar
