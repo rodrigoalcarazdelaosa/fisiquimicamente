@@ -266,49 +266,49 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 
 ---
 
-#### Explosivo
+#### Inflamable
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
 ---
 
-#### Explosivo
+#### Comburente
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
 ---
 
-#### Explosivo
+#### Gas a presión
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
 ---
 
-#### Explosivo
+#### Corrosivo
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
 ---
 
-#### Explosivo
+#### Toxicidad aguda
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
 ---
 
-#### Explosivo
+#### Peligro para la salud
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
 ---
 
-#### Explosivo
+#### Peligro grave para la salud
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
 ---
 
-#### Explosivo
+#### Peligro para el medio ambiente
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
