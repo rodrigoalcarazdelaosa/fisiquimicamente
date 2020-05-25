@@ -196,8 +196,10 @@ En el caso de unidades de superficie (volumen), los factores de conversión van 
 
 ---
 
-5\thinspace\mathrm{L/s} &\longrightarrow \mathrm{m^3/h} \\\\
-5\thinspace\frac{\cancel{\mathrm L}}{\cancel{\mathrm s}} &\cdot \frac{1\thinspace\mathrm m^3}{10^3\thinspace\cancel{\mathrm L}} \cdot \frac{3600\thinspace\cancel{\mathrm s}}{1\thinspace\mathrm h} = 18\thinspace\mathrm{m^3/h}
-\end{align*}
+##### $5\thinspace\mathrm{L/s} \longrightarrow \mathrm{m^3/h}$
+{{% fragment %}} $\displaystyle 5\thinspace\frac{\mathrm L}{\mathrm s}$ {{% /fragment %}}
+{{% fragment %}} $\displaystyle \cdot \frac{1\thinspace\mathrm m^3}{10^3\thinspace\mathrm L}$ {{% /fragment %}}
+{{% fragment %}} $\displaystyle \cdot \frac{3600\thinspace\mathrm s}{1\thinspace\mathrm h}$ {{% /fragment %}}
+{{% fragment %}} $\displaystyle = 18\thinspace\mathrm{m^3/h}$ {{% /fragment %}}
 
 {{% /section %}}
