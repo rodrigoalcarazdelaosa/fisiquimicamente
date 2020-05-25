@@ -45,7 +45,7 @@ Examinar un fenómeno con el objetivo de sacar toda la información, pero sin mo
 ### Hipótesis
 Posible explicación del fenómeno.
 
-#### Características
+<h4>{{% fragment %}} Características {{% /fragment %}}</h4>
 
 <ul>
 {{% fragment %}}<li>Referirse siempre a situaciones reales o realizables.</li>{{% /fragment %}}
