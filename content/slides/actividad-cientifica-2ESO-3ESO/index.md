@@ -19,7 +19,7 @@ slides:
 
 # La actividad científica
 
-Método científico, magnitudes y laboratorio escolar
+## Método científico, magnitudes y laboratorio escolar
 
 ---
 
