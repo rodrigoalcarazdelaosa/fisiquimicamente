@@ -298,18 +298,18 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 
 #### Peligro para la salud
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS07_exclam.png" lightbox="false" width="60%" >}}
 
 ---
 
 #### Peligro grave para la salud
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS08_silhouete.png" lightbox="false" width="60%" >}}
 
 ---
 
 #### Peligro para el medio ambiente
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS09_aq-pollut.png" lightbox="false" width="60%" >}}
 
 {{% /section %}}
