@@ -222,7 +222,9 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Instrumental
 
-{{< figure library="true" src="actividad-cientifica-2ESO-3ESO/instrumental.png" title=[http://iesparquegoya.es/files/FQ/Tema%201_La%20actividad%20cient%C3%ADfica_2ºESO.pdf](http://iesparquegoya.es/files/FQ/Tema%201_La%20actividad%20cient%C3%ADfica_2ºESO.pdf) lightbox="false" width="80%" >}}
+{{< figure library="true" src="actividad-cientifica-2ESO-3ESO/instrumental.png" lightbox="false" width="80%" >}}
+
+[http://iesparquegoya.es/files/FQ/Tema%201_La%20actividad%20cient%C3%ADfica_2ºESO.pdf](http://iesparquegoya.es/files/FQ/Tema%201_La%20actividad%20cient%C3%ADfica_2ºESO.pdf)
 
 ---
 
