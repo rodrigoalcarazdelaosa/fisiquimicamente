@@ -179,7 +179,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 - Llevar ropa adecuada (idealmente bata, guantes y gafas de seguridad).
 - Llevar el pelo recogido.
 - Prohibido comer, beber y fumar dentro del laboratorio.
-- No probar ni oler nada sin antes *airearlo*.
+- No probar ni oler nada.
 - No mezclar productos sin comprobar previamente sus etiquetas.
 
 ### Pictogramas de peligro
