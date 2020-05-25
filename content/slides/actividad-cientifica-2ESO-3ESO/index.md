@@ -248,4 +248,11 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [ECHA](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre **qué significa** cada pictograma, **qué hacer** en caso de tener que manipular productos químicos con una determinada etiqueta, y **dónde se utiliza** cada pictograma.
 
+---
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+    For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, 
+    WWF works in 100 countries.
+  </blockquote>
+
 {{% /section %}}
