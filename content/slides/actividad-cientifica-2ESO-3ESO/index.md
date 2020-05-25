@@ -159,6 +159,9 @@ En el caso de unidades de superficie (volumen), los factores de conversión van 
 ---
 
 #### Ejemplos
+
+---
+
 ##### $13\thinspace\mathrm{cg}  \longrightarrow \mathrm{hg}$
 {{% fragment %}} $\displaystyle 13\thinspace\mathrm{cg}$ {{% /fragment %}}
 {{% fragment %}} $\displaystyle \cdot \frac{1\thinspace\mathrm g}{10^2\thinspace\mathrm{cg}}$ {{% /fragment %}}
