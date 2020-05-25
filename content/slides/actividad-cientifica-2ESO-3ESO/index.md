@@ -44,6 +44,7 @@ Examinar un fenómeno con el objetivo de sacar toda la información, pero sin mo
 Posible explicación del fenómeno.
 
 {{% fragment %}} #### Características {{% /fragment %}}
+
 - {{% fragment %}} Referirse siempre a situaciones reales o realizables. {{% /fragment %}}
 - {{% fragment %}} Utilizar un lenguaje claro. {{% /fragment %}}
 - {{% fragment %}} Variables a tratar precisas y bien definidas, además de ser observables y medibles. {{% /fragment %}}
