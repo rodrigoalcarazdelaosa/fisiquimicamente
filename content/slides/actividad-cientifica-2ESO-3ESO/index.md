@@ -47,7 +47,7 @@ Posible explicación del fenómeno.
 
 {{% fragment %}}<h4>Características</h4>{{% /fragment %}}
 
-#### Características
+
 
 <ul>
 {{% fragment %}}<li>Referirse siempre a situaciones reales o realizables.</li>{{% /fragment %}}
