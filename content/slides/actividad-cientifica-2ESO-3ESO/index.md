@@ -268,7 +268,7 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 
 #### Inflamable
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS02_flamme.png" lightbox="false" width="60%" >}}
 
 ---
 
