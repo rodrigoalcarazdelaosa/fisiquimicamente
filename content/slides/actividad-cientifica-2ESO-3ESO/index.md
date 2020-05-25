@@ -179,7 +179,10 @@ En el caso de unidades de superficie (volumen), los factores de conversión van 
 ---
 
 ##### $72\thinspace\mathrm{km/h} \longrightarrow \mathrm{m/s}$
-72\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}} &\cdot \frac{10^3\thinspace\mathrm{m}}{1\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm{h}}}{3600\thinspace\mathrm{s}} = 20\thinspace\mathrm{m/s}
+{{% fragment %}} $\displaystyle 72\thinspace\frac{\mathrm{km}}{\mathrm{h}}$ {{% /fragment %}}
+{{% fragment %}} $\displaystyle \cdot \frac{10^3\thinspace\mathrm{m}}{1\thinspace\mathrm{km}}$ {{% /fragment %}}
+{{% fragment %}} $\displaystyle \cdot \frac{1\thinspace\mathrm{h}}{3600\thinspace\mathrm{s}}$ {{% /fragment %}}
+{{% fragment %}} $\displaystyle  = 20\thinspace\mathrm{m/s}$ {{% /fragment %}}
 
 ---
 
