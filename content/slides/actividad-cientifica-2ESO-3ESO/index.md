@@ -280,7 +280,7 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 
 #### Gas a presión
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS04_bottle.png" lightbox="false" width="60%" >}}
 
 ---
 
