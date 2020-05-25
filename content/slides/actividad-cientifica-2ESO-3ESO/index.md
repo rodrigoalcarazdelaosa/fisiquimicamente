@@ -170,6 +170,10 @@ En el caso de unidades de superficie (volumen), los factores de conversión van 
 
 ---
 
+##### 3\thinspace\mathrm{dam^2} &\longrightarrow \mathrm{mm^2}
+{{% fragment %}} $\displaystyle 3\thinspace\mathrm{dam^2}$ {{% /fragment %}}
+\cdot \frac{10^2\thinspace\cancel{\mathrm{m^2}}}{1\thinspace\cancel{\mathrm{dam^2}}} \cdot \frac{10^6\thinspace\mathrm{mm^2}}{1\thinspace\cancel{\mathrm{m^2}}} = 3\times 10^{8}\thinspace\mathrm{mm^2} \\\\ \\\\
+
 \begin{align*}
 24\thinspace\mathrm{g/cm^3} &\longrightarrow \mathrm{\mu g/\mu L} \\\\
 24\thinspace\frac{\cancel{\mathrm g}}{\cancel{\mathrm{cm^3}}} &\cdot \frac{10^6\thinspace\mathrm{\mu g}}{1\thinspace\cancel{\mathrm{g}}} \cdot \frac{10^3\thinspace\cancel{\mathrm{cm^3}}}{1\thinspace\cancel{\mathrm{dm^3}}} \cdot \frac{1\thinspace\cancel{\mathrm{dm^3}}}{1\thinspace\cancel{\mathrm{L}}} \cdot \frac{1\thinspace\cancel{\mathrm{L}}}{10^6\thinspace\mathrm{\mu L}} = 2.4 \times 10^4\thinspace\mathrm{\mu g/\mu L} \\\\ \\\\
