@@ -43,11 +43,13 @@ Examinar un fenómeno con el objetivo de sacar toda la información, pero sin mo
 ### Hipótesis
 Posible explicación del fenómeno.
 
-{{% fragment %}} #### Características {{% /fragment %}}
+#### Características
 
-- {{% fragment %}} Referirse siempre a situaciones reales o realizables. {{% /fragment %}}
-- {{% fragment %}} Utilizar un lenguaje claro. {{% /fragment %}}
-- {{% fragment %}} Variables a tratar precisas y bien definidas, además de ser observables y medibles. {{% /fragment %}}
+<ul>
+{{% fragment %}}<li>Referirse siempre a situaciones reales o realizables.</li>{{% /fragment %}}
+{{% fragment %}}<li>Utilizar un lenguaje claro.</li>{{% /fragment %}}
+{{% fragment %}}<li>Variables a tratar precisas y bien definidas, además de ser observables y medibles.</li>{{% /fragment %}}
+</ul>
 
 ---
 
