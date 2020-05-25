@@ -6,7 +6,7 @@ body {
   background-color: #fffff8; }
 
 .reveal {
-  font-family: 'EB Garamond', serif;
+  font-family: "EB Garamond", serif;
   font-style: normal;
   font-weight: 400;
   color: #111111; }
@@ -29,7 +29,7 @@ body {
 .reveal h5,
 .reveal h6 {
   color: #2a54a9;
-  font-family: 'Cabin Sketch', sans-serif;
+  font-family: "Cabin Sketch", sans-serif;
   font-style: normal;
   font-weight: 700; }
 
