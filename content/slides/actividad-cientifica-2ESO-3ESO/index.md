@@ -51,9 +51,9 @@ Estudio de los resultados obtenidos.
 ### Conclusión
 Razonamos si la hipótesis es o no válida.
 
----
-
 {{% /section %}}
+
+---
 
 ## Medidas de magnitudes
 
