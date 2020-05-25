@@ -292,7 +292,7 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 
 #### Toxicidad aguda
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS06_skull.png" lightbox="false" width="60%" >}}
 
 ---
 
