@@ -260,4 +260,8 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 
 ---
 
+#### Explosivo
+
+![explosivo](https://www.reach-compliance.ch/downloads/GHS01_explos.png)
+
 {{% /section %}}
