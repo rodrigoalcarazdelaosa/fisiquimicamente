@@ -242,4 +242,8 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 {{% fragment %}}<li>No mezclar productos sin comprobar previamente sus etiquetas.</li>{{% /fragment %}}
 </ul>
 
+---
+
+### Pictogramas de peligro
+
 {{% /section %}}
