@@ -32,11 +32,9 @@
         <p>{{ . }}</p>
       </div>
       {{ end }}
-	  {{ if $show_buttons }}
 	  <div class="btn-links">
 	    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
 	  </div>
-	  {{ end }}
     </div>
   </div>
 </div>
