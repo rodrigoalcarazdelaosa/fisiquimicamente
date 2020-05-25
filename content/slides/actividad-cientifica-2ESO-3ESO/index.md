@@ -274,7 +274,7 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 
 #### Comburente
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS03_rondflam.png" lightbox="false" width="60%" >}}
 
 ---
 
