@@ -264,4 +264,52 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
 
+---
+
+#### Explosivo
+
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+
+---
+
+#### Explosivo
+
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+
+---
+
+#### Explosivo
+
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+
+---
+
+#### Explosivo
+
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+
+---
+
+#### Explosivo
+
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+
+---
+
+#### Explosivo
+
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+
+---
+
+#### Explosivo
+
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+
+---
+
+#### Explosivo
+
+{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+
 {{% /section %}}
