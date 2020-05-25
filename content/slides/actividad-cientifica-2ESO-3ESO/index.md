@@ -235,7 +235,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 ---
 
 <ul>
-{{% fragment %}}<li>Llevar ropa adecuada (idealmente bata, guantes y gafas de seguridad).</li>{{% /fragment %}}
+<li>Llevar ropa adecuada (idealmente bata, guantes y gafas de seguridad).</li>
 {{% fragment %}}<li>Llevar el pelo recogido.</li>{{% /fragment %}}
 {{% fragment %}}<li>Prohibido comer, beber y fumar dentro del laboratorio.</li>{{% /fragment %}}
 {{% fragment %}}<li>No probar ni oler nada sin antes *airearlo*.</li>{{% /fragment %}}
