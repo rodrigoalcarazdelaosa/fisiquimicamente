@@ -106,6 +106,8 @@
   translation: Blog
 - id: publications
   translation: Publicaciones
+- id: slides
+  translation: Diapositivas  
 - id: talks
   translation: Charlas
 - id: projects
