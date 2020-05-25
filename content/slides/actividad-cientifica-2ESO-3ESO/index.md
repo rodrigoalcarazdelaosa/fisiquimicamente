@@ -248,7 +248,15 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ---
 
-Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [ECHA](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre **qué significa** cada pictograma, **qué hacer** en caso de tener que manipular productos químicos con una determinada etiqueta, y **dónde se utiliza** cada pictograma.
+Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [ECHA](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre:
+
+<ul>
+<li><strong>qué significa</strong> cada pictograma.</li>
+{{% fragment %}}<li>Llevar el pelo recogido.</li>{{% /fragment %}}
+{{% fragment %}}<li>Prohibido comer, beber y fumar dentro del laboratorio.</li>{{% /fragment %}}
+</ul>
+
+**qué significa** cada pictograma, **qué hacer** en caso de tener que manipular productos químicos con una determinada etiqueta, y **dónde se utiliza** cada pictograma.
 
 ---
 
