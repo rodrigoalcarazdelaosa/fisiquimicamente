@@ -44,6 +44,8 @@ Posible explicación del fenómeno. **Características** que debe cumplir:
 - Utilizar un lenguaje claro.
 - Variables a tratar precisas y bien definidas, además de ser observables y medibles.
 
+---
+
 ### Experimentación
 Comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.
 
@@ -51,6 +53,8 @@ Comprobación de la hipótesis, tratando de controlar todos los parámetros ajen
 
 ### Análisis
 Estudio de los resultados obtenidos.
+
+---
 
 ### Conclusión
 Razonamos si la hipótesis es o no válida.
