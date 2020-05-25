@@ -29,7 +29,7 @@ Método científico, magnitudes y laboratorio escolar
 
 Las **etapas** del **método científico** son las siguientes:
 
-(sigue hacia abajo)
+(continúa hacia abajo)
 
 ---
 
