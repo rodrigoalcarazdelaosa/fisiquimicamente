@@ -23,6 +23,10 @@ Método científico, magnitudes y laboratorio escolar
 
 ---
 
+{{% toc %}}
+
+---
+
 {{% section %}}
 
 ## Método científico
