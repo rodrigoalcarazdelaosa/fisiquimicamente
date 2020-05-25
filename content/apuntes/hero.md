@@ -53,4 +53,6 @@ hero_media = ""
 
 **En formato texto y póster (tipo _chuleta_)**
 
+Echa un vistazo
+
 [2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) | [1º Bach](#primero-bach) | [2º Bach](#segundo-bach)
