@@ -39,7 +39,9 @@ Examinar un fenómeno con el objetivo de sacar toda la información, pero sin mo
 ---
 
 ### Hipótesis
-Posible explicación del fenómeno. **Características** que debe cumplir:
+Posible explicación del fenómeno.
+
+#### Características
 - Referirse siempre a situaciones reales o realizables.
 - Utilizar un lenguaje claro.
 - Variables a tratar precisas y bien definidas, además de ser observables y medibles.
