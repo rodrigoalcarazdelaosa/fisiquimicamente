@@ -23,6 +23,8 @@ Método científico, magnitudes y laboratorio escolar
 
 ---
 
+{{% section %}}
+
 ## Método científico
 
 Las **etapas** del **método científico** son las siguientes:
@@ -50,6 +52,8 @@ Estudio de los resultados obtenidos.
 Razonamos si la hipótesis es o no válida.
 
 ---
+
+{{% /section %}}
 
 ## Medidas de magnitudes
 
