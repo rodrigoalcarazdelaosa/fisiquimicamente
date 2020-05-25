@@ -253,7 +253,7 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 <ul>
 {{% fragment %}}<li><strong>qué significa</strong> cada pictograma,</li>{{% /fragment %}}
 {{% fragment %}}<li><strong>qué hacer</strong> en caso de tener que manipular productos químicos con una determinada etiqueta</li>{{% /fragment %}}
-{{% fragment %}}<li><strong>dónde se utiliza</strong>cada pictorgrama.</li>{{% /fragment %}}
+{{% fragment %}}<li>y <strong>dónde se utiliza</strong> cada pictorgrama.</li>{{% /fragment %}}
 </ul>
 
 ---
