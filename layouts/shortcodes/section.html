@@ -1,0 +1,5 @@
+{{/* Render .Inner before processing the shortcode. */}}
+{{ $_hugo_config := `{ "version": 1 }` }}
+<section data-shortcode-section>
+{{ .Inner }}
+</section>
