@@ -51,6 +51,12 @@ donde:
 - $p_2$ es la presión final.
 - $V_2$ es el volumen final.
 
+---
+
+### Ejemplo
+
+<q>El volumen del aire en los pulmones de una persona es de $615\thinspace\mathrm{mL}$ aproximadamente, a una presión de $1\thinspace\mathrm{atm}$. La inhalación ocurre cuando la presión de los pulmones desciende a $0.989\thinspace\mathrm{atm}$. ¿A qué volumen se expanden los pulmones?</q>
+
 {{% /section %}}
 
 ---
