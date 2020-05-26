@@ -113,3 +113,17 @@ $$
 ## Ley de Gay-Lussac
 
 > La presión que ejerce un **volumen fijo** de gas es directamente proporcional a su temperatura.
+
+Matemáticamente:
+\begin{align*}
+	\frac{p}{T} &= \text{constante} \\\\
+	& \text{o} \\\\
+	\frac{p_1}{T_1} &= \frac{p_2}{T_2},
+\end{align*}
+
+donde:		
+
+- $p_1$ es el volumen inicial.
+- $T_1$ es la temperatura inicial (¡en K!).
+- $p_2$ es el volumen final.
+- $T_2$ es la temperatura final (¡en K!).
