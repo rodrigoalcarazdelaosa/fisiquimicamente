@@ -87,3 +87,24 @@ donde:
 - $T_1$ es la temperatura inicial (¡en K!).
 - $V_2$ es el volumen final.
 - $T_2$ es la temperatura final (¡en K!).
+
+### Ejemplo
+{{% alert example %}}
+<br>
+
+> Si cierta masa de gas, a presión constante, llena un recipiente de 20\thinspace\mathrm{L} de capacidad a la temperatura de \SI{124}{\celsius}, ¿qué temperatura alcanzará la misma cantidad de gas a presión constante, si el volumen aumenta a \SI{30}{\liter}?
+
+---
+
+No nos lo dicen explícitamente pero tenemos que suponer que la **temperatura** permanece **constante**, por lo que debemos aplicar la ley de **Boyle-Mariotte**:		
+$$
+p_1 V_1 = p_2 V_2,
+$$
+donde $p_1=1\thinspace\mathrm{atm}$, $V_1=615\thinspace\mathrm{mL}$, $p_2=0.989\thinspace\mathrm{atm}$ y $V_2$ es lo que nos piden.
+
+Despejamos $V_2$:
+$$
+V_2 = \frac{p_1 V_1}{p_2} = \frac{1\thinspace\mathrm{\cancel{atm}}\cdot 615\thinspace\mathrm{mL}}{0.989\thinspace\mathrm{\cancel{atm}}} = 621.8\thinspace\mathrm{mL}
+$$
+
+{{% /alert %}}
