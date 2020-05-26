@@ -97,15 +97,15 @@ donde:
 ---
 
 Nos dicen explícitamente que la **presión** permanece **constante**, por lo que aplicamos la ley de **Charles**:		
-\[
+$$
 \frac{V_1}{T_1} = \frac{V_2}{T_2},
-\]
+$$
 
-donde $V_1 = \SI{20}{\liter}$, $T_1 = \SI{124}{\celsius} = \SI{397}{\K}$, $V_2 = \SI{30}{\liter}$ y $T_2$ es lo que nos piden.
+donde $V_1 = 20\thinspace\mathrm{L}$, $T_1 = 124\thinspace\mathrm{^\circ C} = 397\thinspace\mathrm{K}$, $V_2 = 30\thinspace\mathrm{L}$ y $T_2$ es lo que nos piden.
 
 Despejamos $T_2$:
-\[
+$$
 T_2 = T_1\cdot \frac{V_2}{V_1} = \SI{397}{\K}\cdot \frac{\SI{30}{\cancel\liter}}{\SI{20}{\cancel\liter}} = \SI{595.5}{\K} = \SI{322.5}{\celsius}
-\]
+$$
 
 {{% /alert %}}
