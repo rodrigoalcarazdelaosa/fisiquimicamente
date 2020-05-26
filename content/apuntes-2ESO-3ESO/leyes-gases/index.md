@@ -141,7 +141,7 @@ $$
 \frac{p_1}{T_1} = \frac{p_2}{T_2},
 $$
 
-donde $p_1 = 4\thinspace\mathrm{atm}$, $T_1 = 27\thinspace\mathrm{^\circ C} = 300\thinspace\mathrm{K}$, $T_2=402\thinspace\mathrm{^\circ C} = 675\thinspace\mathrm{K}$ y $p_2 es lo que nos piden.
+donde $p_1 = 4\thinspace\mathrm{atm}$, $T_1 = 27\thinspace\mathrm{^\circ C} = 300\thinspace\mathrm{K}$, $T_2=402\thinspace\mathrm{^\circ C} = 675\thinspace\mathrm{K}$ y $p_2$ es lo que nos piden.
 
 Despejamos $p_2$:
 $$
