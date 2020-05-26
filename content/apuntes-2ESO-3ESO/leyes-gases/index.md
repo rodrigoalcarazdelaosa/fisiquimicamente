@@ -151,4 +151,4 @@ $$
 
 Si quieres aprender más sobre las **propiedades** de los **gases** te recomiendo que *enredes* con esta excelente **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_es.html" width="800" height="600" scrolling="yes" allowfullscreen></iframe>
