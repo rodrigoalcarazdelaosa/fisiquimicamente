@@ -24,7 +24,7 @@ slides:
 
 {{% section %}}
 
-## Método científico
+## Ley de Boyle-Mariotte
 
 (continúa hacia abajo)
 
