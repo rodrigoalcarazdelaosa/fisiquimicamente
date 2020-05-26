@@ -31,3 +31,5 @@ image:
 {{% toc %}}
 
 ## Ley de Boyle-Mariotte
+
+> A **temperatura constante**, el volumen de una masa fija de gas es inversamente proporcional a la presión que éste ejerce.
