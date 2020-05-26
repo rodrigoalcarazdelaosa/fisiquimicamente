@@ -181,3 +181,9 @@ p_2 = T_2\cdot \frac{p_1}{T_1} = 675\thinspace\mathrm{K}\cdot \frac{4\thinspace\
 $$
 
 {{% /section %}}
+
+---
+
+Si quieres aprender más sobre las **propiedades** de los **gases** te recomiendo que *enredes* con esta excelente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
