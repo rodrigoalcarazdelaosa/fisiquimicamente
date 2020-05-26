@@ -18,7 +18,7 @@ slides:
 
 # Leyes de los gases
 
-[Método científico](#/1), [magnitudes](#/2) y [laboratorio escolar](#/3)
+[Ley de Boyle-Mariotte](#/1), [ley de Charles](#/2) y [ley de Gay-Lussac](#/3)
 
 ---
 
