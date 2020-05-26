@@ -16,7 +16,7 @@ slides:
   highlight_style: tomorrow
 ---
 
-# La actividad científica
+# Leyes de los gases
 
 [Método científico](#/1), [magnitudes](#/2) y [laboratorio escolar](#/3)
 
