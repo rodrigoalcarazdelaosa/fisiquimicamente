@@ -123,9 +123,9 @@ Matemáticamente:
 
 donde:		
 
-- $p_1$ es el volumen inicial.
+- $p_1$ es la presión inicial.
 - $T_1$ es la temperatura inicial (¡en K!).
-- $p_2$ es el volumen final.
+- $p_2$ es la presión final.
 - $T_2$ es la temperatura final (¡en K!).
 
 ### Ejemplo
