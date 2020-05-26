@@ -28,8 +28,6 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-Apuntes sobre las leyes de los gases, en formato texto y póster (tipo _chuleta_).
+{{% toc %}}
 
-{{% alert note %}}
-Próximamente...
-{{% /alert %}}
+## Ley de Boyle-Mariotte
