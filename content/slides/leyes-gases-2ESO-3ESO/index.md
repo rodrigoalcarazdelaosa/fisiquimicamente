@@ -36,6 +36,13 @@ slides:
 
 ---
 
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+    For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, 
+    WWF works in 100 countries.
+</blockquote>
+  
+---
+
 ### Observación
 Examinar un fenómeno con el objetivo de sacar toda la información, pero sin modificar dicho fenómeno.
 
