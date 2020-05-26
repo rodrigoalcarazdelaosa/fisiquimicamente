@@ -1,7 +1,7 @@
 ---
 title: Leyes de los gases
 subtitle: Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac
-summary: "`PRÓXIMAMENTE` <br> Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac."
+summary: "Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac."
 tags:
 - 3º ESO
 - gases
