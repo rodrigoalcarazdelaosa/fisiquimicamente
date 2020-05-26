@@ -31,7 +31,7 @@ slides: "leyes-gases-2ESO-3ESO"
 
 > A **temperatura constante**, el volumen de una masa fija de gas es inversamente proporcional a la presión que éste ejerce.
 
-### Matemáticamente
+Matemáticamente:
 
 \begin{align*}
 	pV &= \text{constante} \\\\
@@ -71,7 +71,7 @@ $$
 
 > Para una cierta cantidad de gas a **presión constante**, su volumen es directamente proporcional a su temperatura.
 
-### Matemáticamente
+Matemáticamente:
 \begin{align*}
 	\frac{V}{T} &= \text{constante} \\\\
 	& \text{o} \\\\
@@ -111,7 +111,7 @@ $$
 
 > La presión que ejerce un **volumen fijo** de gas es directamente proporcional a su temperatura.
 
-### Matemáticamente
+Matemáticamente:
 \begin{align*}
 	\frac{p}{T} &= \text{constante} \\\\
 	& \text{o} \\\\
