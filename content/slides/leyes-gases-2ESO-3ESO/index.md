@@ -162,7 +162,7 @@ donde:
 
 ### Ejemplo
 
-<q>Si cierta masa de gas, a presión constante, llena un recipiente de $20\thinspace\mathrm{L}$ de capacidad a la temperatura de $124\thinspace\mathrm{^\circ C}$, ¿qué temperatura alcanzará la misma cantidad de gas a presión constante, si el volumen aumenta a $30\thinspace\mathrm{L}$?</q>
+<q>Es peligroso que los envases de aerosoles se expongan al calor. Si una lata de fijador para el cabello a una presión de $4\thinspace\mathrm{atm}$ y a una temperatura ambiente de $27\thinspace\mathrm{^\circ C}$ se arroja al fuego y el envase alcanza los $402\thinspace\mathrm{^\circ C}$, ¿cuál será su nueva presión?</q>
 
 ---
 
