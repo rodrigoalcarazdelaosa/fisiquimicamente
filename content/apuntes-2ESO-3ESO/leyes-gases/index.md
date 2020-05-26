@@ -109,3 +109,7 @@ T_2 = T_1\cdot \frac{V_2}{V_1} = 397\thinspace\mathrm{K}\cdot \frac{30\thinspace
 $$
 
 {{% /alert %}}
+
+## Ley de Gay-Lussac
+
+> La presión que ejerce un **volumen fijo** de gas es directamente proporcional a su temperatura.
