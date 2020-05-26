@@ -69,3 +69,7 @@ V_2 = \frac{p_1 V_1}{p_2} = \frac{1\thinspace\mathrm{\cancel{atm}}\cdot 615\thin
 $$
 
 {{% /alert %}}
+
+## Ley de Charles
+
+> Para una cierta cantidad de gas a **presión constante**, su volumen es directamente proporcional a su temperatura.
