@@ -57,6 +57,14 @@ donde:
 
 <q>El volumen del aire en los pulmones de una persona es de $615\thinspace\mathrm{mL}$ aproximadamente, a una presión de $1\thinspace\mathrm{atm}$. La inhalación ocurre cuando la presión de los pulmones desciende a $0.989\thinspace\mathrm{atm}$. ¿A qué volumen se expanden los pulmones?</q>
 
+---
+
+No nos lo dicen explícitamente pero tenemos que suponer que la **temperatura** permanece **constante**, por lo que debemos aplicar la ley de **Boyle-Mariotte**:		
+$$
+p_1 V_1 = p_2 V_2,
+$$
+donde $p_1=1\thinspace\mathrm{atm}$, $V_1=615\thinspace\mathrm{mL}$, $p_2=0.989\thinspace\mathrm{atm}$ y $V_2$ es lo que nos piden.
+
 {{% /section %}}
 
 ---
