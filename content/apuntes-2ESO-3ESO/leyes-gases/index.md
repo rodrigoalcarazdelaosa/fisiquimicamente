@@ -21,6 +21,8 @@ links:
   icon: download
   name: Póster
   url: leyes-gases-poster.pdf  
+
+slides: "leyes-gases-2ESO-3ESO"  
 ---
 
 {{% toc %}}
