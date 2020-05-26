@@ -16,16 +16,11 @@ image:
   caption: Imagen de [**Chris Martin**](https://pixabay.com/es/users/cmart29-3708955/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-# icon: download
-#  name: PDF Texto
-#  url: movimientos_texto.pdf
-  
-# - icon_pack: fas
-#  icon: download
-#  name: Póster
-#  url: movimientos_poster.pdf  
+links:
+- icon_pack: fas
+  icon: download
+  name: Póster
+  url: leyes-gases-poster.pdf  
 ---
 
 {{% toc %}}
