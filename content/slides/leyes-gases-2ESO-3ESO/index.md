@@ -127,3 +127,58 @@ T_2 = T_1\cdot \frac{V_2}{V_1} = 397\thinspace\mathrm{K}\cdot \frac{30\thinspace
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Ley de Gay-Lussac
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+<q>La presión que ejerce un **volumen fijo** de gas es directamente proporcional a su temperatura.</q>
+  
+---
+
+### Matemáticamente
+### Matemáticamente
+\begin{align*}
+	\frac{p}{T} &= \text{constante} \\\\
+	& \text{o} \\\\
+	\frac{p_1}{T_1} &= \frac{p_2}{T_2},
+\end{align*}
+
+donde:		
+
+- $p_1$ es la presión inicial.
+- $T_1$ es la temperatura inicial (¡en K!).
+- $p_2$ es la presión final.
+- $T_2$ es la temperatura final (¡en K!).
+
+---
+
+### Ejemplo
+
+<q>Si cierta masa de gas, a presión constante, llena un recipiente de $20\thinspace\mathrm{L}$ de capacidad a la temperatura de $124\thinspace\mathrm{^\circ C}$, ¿qué temperatura alcanzará la misma cantidad de gas a presión constante, si el volumen aumenta a $30\thinspace\mathrm{L}$?</q>
+
+---
+
+Nos dicen explícitamente que la **presión** permanece **constante**, por lo que aplicamos la ley de **Charles**:		
+$$
+\frac{V_1}{T_1} = \frac{V_2}{T_2},
+$$
+
+donde $V_1 = 20\thinspace\mathrm{L}$, $T_1 = 124\thinspace\mathrm{^\circ C} = 397\thinspace\mathrm{K}$, $V_2 = 30\thinspace\mathrm{L}$ y $T_2$ es lo que nos piden.
+
+---
+
+Despejamos $T_2$:
+$$
+T_2 = T_1\cdot \frac{V_2}{V_1} = 397\thinspace\mathrm{K}\cdot \frac{30\thinspace\mathrm{L}}{20\thinspace\mathrm{L}} = 595.5\thinspace\mathrm{K} = 322.5\thinspace\mathrm{^\circ C}
+$$
+
+{{% /section %}}
