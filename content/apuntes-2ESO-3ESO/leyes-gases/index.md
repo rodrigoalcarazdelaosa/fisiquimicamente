@@ -105,7 +105,7 @@ donde $V_1 = 20\thinspace\mathrm{L}$, $T_1 = 124\thinspace\mathrm{^\circ C} = 39
 
 Despejamos $T_2$:
 $$
-T_2 = T_1\cdot \frac{V_2}{V_1} = \SI{397}{\K}\cdot \frac{\SI{30}{\cancel\liter}}{\SI{20}{\cancel\liter}} = \SI{595.5}{\K} = \SI{322.5}{\celsius}
+T_2 = T_1\cdot \frac{V_2}{V_1} = 397\thinspace\mathrm{K}\cdot \frac{30\thinspace\mathrm{\cancel{L}}}{20\thinspace\mathrm{\cancel{L}}} = 595.5\thinspace\mathrm{K} = 322.5\thinspace\mathrm{^\circ C}
 $$
 
 {{% /alert %}}
