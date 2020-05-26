@@ -123,7 +123,7 @@ donde $V_1 = 20\thinspace\mathrm{L}$, $T_1 = 124\thinspace\mathrm{^\circ C} = 39
 
 Despejamos $T_2$:
 $$
-T_2 = T_1\cdot \frac{V_2}{V_1} = 397\thinspace\mathrm{K}\cdot \frac{30\thinspace\mathrm{\cancel{L}}}{20\thinspace\mathrm{\cancel{L}}} = 595.5\thinspace\mathrm{K} = 322.5\thinspace\mathrm{^\circ C}
+T_2 = T_1\cdot \frac{V_2}{V_1} = 397\thinspace\mathrm{K}\cdot \frac{30\thinspace\mathrm{L}}{20\thinspace\mathrm{L}} = 595.5\thinspace\mathrm{K} = 322.5\thinspace\mathrm{^\circ C}
 $$
 
 {{% /section %}}
