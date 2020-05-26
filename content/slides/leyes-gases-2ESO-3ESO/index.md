@@ -16,11 +16,6 @@ slides:
   highlight_style: tomorrow
 ---
 
-<div class="line top"></div>
-<div class="line bottom"></div>
-<div class="line left"></div>
-<div class="line right"></div>
-
 # Leyes de los gases
 
 [Ley de Boyle-Mariotte](#/1), [ley de Charles](#/2) y [ley de Gay-Lussac](#/3)
