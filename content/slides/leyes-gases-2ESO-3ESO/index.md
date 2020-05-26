@@ -32,7 +32,7 @@ slides:
 
 ---
 
-Las **etapas** del **método científico** son las siguientes:
+<q cite="http://www.wwf.org">Build a future where people live in harmony with nature</q>
 
 ---
 
