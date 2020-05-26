@@ -175,9 +175,9 @@ donde $p_1 = 4\thinspace\mathrm{atm}$, $T_1 = 27\thinspace\mathrm{^\circ C} = 30
 
 ---
 
-Despejamos $T_2$:
+Despejamos $p_2$:
 $$
-T_2 = T_1\cdot \frac{V_2}{V_1} = 397\thinspace\mathrm{K}\cdot \frac{30\thinspace\mathrm{L}}{20\thinspace\mathrm{L}} = 595.5\thinspace\mathrm{K} = 322.5\thinspace\mathrm{^\circ C}
+p_2 = T_2\cdot \frac{p_1}{T_1} = 675\thinspace\mathrm{K}\cdot \frac{4\thinspace\mathrm{atm}}{300\thinspace\mathrm{K}} = 9\thinspace\mathrm{atm}
 $$
 
 {{% /section %}}
