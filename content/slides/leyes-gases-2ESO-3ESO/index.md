@@ -166,12 +166,12 @@ donde:
 
 ---
 
-Nos dicen explícitamente que la **presión** permanece **constante**, por lo que aplicamos la ley de **Charles**:		
+Suponemos que el envase mantiene su **volumen fijo**, por lo que aplicamos la ley de **Gay-Lussac**:
 $$
-\frac{V_1}{T_1} = \frac{V_2}{T_2},
+\frac{p_1}{T_1} = \frac{p_2}{T_2},
 $$
 
-donde $V_1 = 20\thinspace\mathrm{L}$, $T_1 = 124\thinspace\mathrm{^\circ C} = 397\thinspace\mathrm{K}$, $V_2 = 30\thinspace\mathrm{L}$ y $T_2$ es lo que nos piden.
+donde $p_1 = 4\thinspace\mathrm{atm}$, $T_1 = 27\thinspace\mathrm{^\circ C} = 300\thinspace\mathrm{K}$, $T_2=402\thinspace\mathrm{^\circ C} = 675\thinspace\mathrm{K}$ y $p_2$ es lo que nos piden.
 
 ---
 
