@@ -32,14 +32,7 @@ slides:
 
 ---
 
-<q cite="http://www.wwf.org">Build a future where people live in harmony with nature</q>
-
----
-
-<blockquote cite="http://www.worldwildlife.org/who/index.html">
-    For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, 
-    WWF works in 100 countries.
-</blockquote>
+<q>A **temperatura constante**, el volumen de una masa fija de gas es inversamente proporcional a la presión que éste ejerce.</q>
   
 ---
 
