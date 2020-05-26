@@ -145,7 +145,6 @@ $$
 ---
 
 ### Matemáticamente
-### Matemáticamente
 \begin{align*}
 	\frac{p}{T} &= \text{constante} \\\\
 	& \text{o} \\\\
