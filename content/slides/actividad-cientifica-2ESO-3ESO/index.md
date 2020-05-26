@@ -76,7 +76,7 @@ Razonamos si la hipótesis es o no válida.
 
 ## Medidas de magnitudes
 
-- [Sistema Internacional de Unidades](#/2/2)
+- [Sistema Internacional de Unidades (SI)](#/2/2)
 - [Notación científica](#/2/5)
 - [Factores de conversión](#/2/9)
 
