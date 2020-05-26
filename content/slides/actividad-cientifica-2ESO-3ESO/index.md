@@ -218,6 +218,10 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ## Laboratorio escolar
 
+- Instrumental
+- Normas básicas de seguridad
+- Pictogramas de peligro
+
 (continúa hacia abajo)
 
 👇
