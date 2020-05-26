@@ -88,7 +88,7 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
-### SI
+### Sistema Internacional de Unidades (SI)
 
 ---
 
