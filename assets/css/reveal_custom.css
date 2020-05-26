@@ -1,4 +1,45 @@
-/*@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Inconsolata:wght@400;700&display=swap');*/
+.line {
+  content: '';
+  position: fixed;
+  background: #FF4081;
+  z-index: 105; }
+  .line.top {
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 30px; }
+    @media (max-width: 840px) {
+      .line.top {
+        height: 15px; } }
+  .line.bottom {
+    left: 0;
+    top: auto;
+    bottom: 0;
+    width: 100%;
+    height: 30px; }
+    @media (max-width: 840px) {
+      .line.bottom {
+        height: 15px; } }
+  .line.left {
+    left: 0;
+    top: 0;
+    width: 30px;
+    height: 200%; }
+    @media (max-width: 840px) {
+      .line.left {
+        width: 15px; } }
+  .line.right {
+    left: auto;
+    right: 0;
+    top: 0;
+    width: 30px;
+    height: 200%; }
+    @media (max-width: 840px) {
+      .line.right {
+        width: 15px; } }
+
+.reveal.has-dark-background .line {
+  display: none; }
 
 /*********************************************
  * GLOBAL STYLES
