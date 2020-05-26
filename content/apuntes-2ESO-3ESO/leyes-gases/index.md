@@ -127,3 +127,25 @@ donde:
 - $T_1$ es la temperatura inicial (¡en K!).
 - $p_2$ es el volumen final.
 - $T_2$ es la temperatura final (¡en K!).
+
+### Ejemplo
+{{% alert example %}}
+<br>
+
+> Es peligroso que los envases de aerosoles se expongan al calor. Si una lata de fijador para el cabello a una presión de $4\thinspace\mathrm{atm}$ y a una temperatura ambiente de $27\thinspace\mathrm{^\circ C}$ se arroja al fuego y el envase alcanza los $402\thinspace\mathrm{^\circ C}, ¿cuál será su nueva presión?
+
+---
+
+Suponemos que el envase mantiene su **volumen fijo**, por lo que aplicamos la ley de **Gay-Lussac**:
+$$
+\frac{p_1}{T_1} = \frac{p_2}{T_2},
+$$
+
+donde $p_1 = 4\thinspace\mathrm{atm}$, $T_1 = 27\thinspace\mathrm{^\circ C} = 300\thinspace\mathrm{K}$, $T_2=402\thinspace\mathrm{^\circ C} = 675\thinspace\mathrm{K}$ y $p_2 es lo que nos piden.
+
+Despejamos $p_2$:
+$$
+p_2 = T_2\cdot \frac{p_1}{T_1} = 675\thinspace\mathrm{\cancel{K}}\cdot \frac{4\thinspace\mathrm{atm}}{300\thinspace\mathrm{\cancel{K}}} = 9\thinspace\mathrm{atm}
+$$
+
+{{% /alert %}}
