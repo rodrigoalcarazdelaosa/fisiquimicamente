@@ -33,3 +33,18 @@ image:
 ## Ley de Boyle-Mariotte
 
 > A **temperatura constante**, el volumen de una masa fija de gas es inversamente proporcional a la presión que éste ejerce.
+
+Matemáticamente:
+
+\begin{align*}
+	pV &= \text{constante} \\\\
+	& \text{o} \\\\
+	p_1 V_1 &= p_2 V_2,
+\end{align*}
+
+donde:
+
+- $p_1$ es la presión inicial.
+- $V_1$ es el volumen inicial.
+- $p_2$ es la presión final.
+- $V_2$ es el volumen final.
