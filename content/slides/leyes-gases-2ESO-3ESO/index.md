@@ -36,7 +36,7 @@ slides:
   
 ---
 
-Matemáticamente:
+### Matemáticamente
 
 \begin{align*}
 	pV &= \text{constante} \\\\
