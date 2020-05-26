@@ -96,15 +96,16 @@ donde:
 
 ---
 
-No nos lo dicen explícitamente pero tenemos que suponer que la **temperatura** permanece **constante**, por lo que debemos aplicar la ley de **Boyle-Mariotte**:		
-$$
-p_1 V_1 = p_2 V_2,
-$$
-donde $p_1=1\thinspace\mathrm{atm}$, $V_1=615\thinspace\mathrm{mL}$, $p_2=0.989\thinspace\mathrm{atm}$ y $V_2$ es lo que nos piden.
+Nos dicen explícitamente que la **presión** permanece **constante**, por lo que aplicamos la ley de **Charles**:		
+\[
+\frac{V_1}{T_1} = \frac{V_2}{T_2},
+\]
 
-Despejamos $V_2$:
-$$
-V_2 = \frac{p_1 V_1}{p_2} = \frac{1\thinspace\mathrm{\cancel{atm}}\cdot 615\thinspace\mathrm{mL}}{0.989\thinspace\mathrm{\cancel{atm}}} = 621.8\thinspace\mathrm{mL}
-$$
+donde $V_1 = \SI{20}{\liter}$, $T_1 = \SI{124}{\celsius} = \SI{397}{\K}$, $V_2 = \SI{30}{\liter}$ y $T_2$ es lo que nos piden.
+
+Despejamos $T_2$:
+\[
+T_2 = T_1\cdot \frac{V_2}{V_1} = \SI{397}{\K}\cdot \frac{\SI{30}{\cancel\liter}}{\SI{20}{\cancel\liter}} = \SI{595.5}{\K} = \SI{322.5}{\celsius}
+\]
 
 {{% /alert %}}
