@@ -218,9 +218,9 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ## Laboratorio escolar
 
-- Instrumental
-- Normas básicas de seguridad
-- Pictogramas de peligro
+- [Instrumental](#/3/1)
+- [Normas básicas de seguridad](#/3/2)
+- [Pictogramas de peligro](#/3/5)
 
 (continúa hacia abajo)
 
