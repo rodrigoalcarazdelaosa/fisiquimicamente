@@ -36,36 +36,20 @@ slides:
   
 ---
 
-### Observación
-Examinar un fenómeno con el objetivo de sacar toda la información, pero sin modificar dicho fenómeno.
+Matemáticamente:
 
----
+\begin{align*}
+	pV &= \text{constante} \\\\
+	& \text{o} \\\\
+	p_1 V_1 &= p_2 V_2,
+\end{align*}
 
-### Hipótesis
-Posible explicación del fenómeno.
+donde:
 
-<h4>{{% fragment %}} Características {{% /fragment %}}</h4>
-
-<ul>
-{{% fragment %}}<li>Referirse siempre a situaciones reales o realizables.</li>{{% /fragment %}}
-{{% fragment %}}<li>Utilizar un lenguaje claro.</li>{{% /fragment %}}
-{{% fragment %}}<li>Variables a tratar precisas y bien definidas, además de ser observables y medibles.</li>{{% /fragment %}}
-</ul>
-
----
-
-### Experimentación
-Comprobación de la hipótesis, tratando de controlar todos los parámetros ajenos al fenómeno que estamos estudiando.
-
----
-
-### Análisis
-Estudio de los resultados obtenidos.
-
----
-
-### Conclusión
-Razonamos si la hipótesis es o no válida.
+- $p_1$ es la presión inicial.
+- $V_1$ es el volumen inicial.
+- $p_2$ es la presión final.
+- $V_2$ es el volumen final.
 
 {{% /section %}}
 
