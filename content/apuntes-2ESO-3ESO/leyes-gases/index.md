@@ -73,3 +73,17 @@ $$
 ## Ley de Charles
 
 > Para una cierta cantidad de gas a **presión constante**, su volumen es directamente proporcional a su temperatura.
+
+Matemáticamente:
+\begin{align*}
+	\frac{V}{T} &= \text{constante} \\\\
+	& \text{o} \\\\
+	\frac{V_1}{T_1} &= \frac{V_2}{T_2},
+\end{align*}
+
+donde:		
+
+- $V_1$ es el volumen inicial.
+- $T_1$ es la temperatura inicial (¡en K!).
+- $V_2$ es el volumen final.
+- $T_2$ es la temperatura final (¡en K!).
