@@ -20,6 +20,8 @@ slides:
 
 [Ley de Boyle-Mariotte](#/1), [ley de Charles](#/2) y [ley de Gay-Lussac](#/3)
 
+[Simulación](#/4)
+
 ---
 
 {{% section %}}
