@@ -76,6 +76,10 @@ Razonamos si la hipótesis es o no válida.
 
 ## Medidas de magnitudes
 
+- Sistema Internacional de Unidades
+- Notación científica
+- Factores de conversión
+
 (continúa hacia abajo)
 
 👇
