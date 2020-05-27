@@ -92,4 +92,11 @@ $$
 
 <q>El etanol tiene una densidad de $0.79\thinspace\mathrm{g/cm^3}$. Calcula la masa contenida en una botella de medio litro.</q>
 
+---
+
+Lo primero que tenemos que hacer es _**homogeneizar**_ las unidades. Podemos convertir el volumen, $0.5\thinspace\mathrm L$, en $\mathrm{cm^3}$:
+$$
+0.5\thinspace\cancel{\mathrm L}\cdot \frac{1\thinspace\cancel{\mathrm{dm^3}}}{1\thinspace\cancel{\mathrm L}}\cdot \frac{10^3\thinspace\mathrm{cm^3}}{1\thinspace\cancel{\mathrm{dm^3}}} = 500\thinspace\mathrm{cm^3}
+$$
+
 {{% /section %}}
