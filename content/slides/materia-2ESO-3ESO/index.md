@@ -139,4 +139,9 @@ Los tres principales **estados de agregación** en los que podemos encontrar a l
 
 👇
 
+---
+
+#### Sólido
+Volumen y forma fijos. No se pueden comprimir ni fluir por sí mismos.
+
 {{% /section %}} 
