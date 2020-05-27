@@ -133,6 +133,8 @@ $$
 
 ## Estados de agregación
 
+Los tres principales **estados de agregación** en los que podemos encontrar a la materia son:
+
 (continúa hacia abajo)
 
 👇
