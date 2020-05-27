@@ -82,6 +82,6 @@ $$
 d = \frac{m}{V}
 $$
 
-En el SI se mide en $\mathrm{kg/m^3}$.
+{{% fragment %}} En el SI se mide en $\mathrm{kg/m^3}$. {{% /fragment %}} 
 
 {{% /section %}}
