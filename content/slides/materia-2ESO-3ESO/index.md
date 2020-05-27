@@ -36,15 +36,11 @@ slides:
 Materia
 : Todo lo que tiene **masa** y ocupa un **volumen**.
 
-{{% fragment %}}
 Sistema material
 : Porción de materia confinada en una región del espacio.
-{{% /fragment %}}
 
-{{% fragment %}}
 Sustancia
 : Forma de materia que tiene una composición química y unas propiedades características determinadas.
-{{% /fragment %}}
 
 ---
 
