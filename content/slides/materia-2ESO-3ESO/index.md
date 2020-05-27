@@ -31,6 +31,8 @@ slides:
 
 ## Propiedades generales
 
+[Masa](#/1/3) y [volumen](#/1/4)
+
 (continúa hacia abajo)
 
 👇
