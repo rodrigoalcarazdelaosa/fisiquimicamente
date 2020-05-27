@@ -20,10 +20,10 @@ slides:
 # La materia
 
 - [Propiedades generales](#/1)
-- Propiedades específicas
-- Estados de agregación
-- Modelo cinético-molecular
-- Mezclas
+- [Propiedades específicas](#/2)
+- [Estados de agregación](#/3)
+- [Modelo cinético-molecular](#/4)
+- [Mezclas](#/5)
 
 ---
 
