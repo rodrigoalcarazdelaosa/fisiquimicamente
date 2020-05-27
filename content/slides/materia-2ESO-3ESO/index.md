@@ -189,6 +189,12 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ## Modelo cinético-molecular
 
+(continúa hacia abajo)
+
+👇
+
+---
+
 Sus **postulados** son:
 
 - La **materia** está **formada** por **partículas** muy pequeñas, entre las que no existe nada (vacío).
