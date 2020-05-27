@@ -203,4 +203,12 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 	{{% fragment %}} <li>Las partículas están en <strong>continuo movimiento</strong>, siendo la <strong>temperatura</strong> una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).</li> {{% /fragment %}}
 </ul>
 
- {{% /section %}}
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+## Mezclas
+
+{{% /section %}}
