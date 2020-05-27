@@ -175,7 +175,7 @@ Además, **durante** un **cambio** de **estado** la **temperatura** permance **c
 
 ---
 
-{{< figure library="true" src="materia-2ESO-3ESO/grafica-calentamiento.png" title="La sustancia comienza en estado sólido, calentándose hasta los $3\thinspace^\circ\mathrm C$, su **temperatura de fusión**. Una vez se ha fundido completamente, sigue calentándose, en estado líquido, hasta los $113\thinspace^\circ\mathrm C$, su **temperatura de ebullición**. A partir de esa temperatura la sustancia se encuentra en estado gaseoso y puede seguir calentándose *indefinidamente* (a partir de una cierta temperatura, la materia pasa a otro estado conocido como *plasma* &mdash;gas ionizado)." lightbox="false" width="30%" >}}
+{{< figure library="true" src="materia-2ESO-3ESO/grafica-calentamiento.png" lightbox="false" >}}
 
 ---
 
