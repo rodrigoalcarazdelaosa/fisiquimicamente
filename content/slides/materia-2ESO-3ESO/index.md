@@ -228,7 +228,6 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 ---
 
 ### Simulación
-Puedes conocer mejor las **propiedades** de los **estados de agregación** con la siguiente **simulación**:
 
 ---
 
