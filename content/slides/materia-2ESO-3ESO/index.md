@@ -200,9 +200,7 @@ Sus **postulados** son:
 <ul>
 	{{% fragment %}} <li>La <strong>materia</strong> está <strong>formada</strong> por <strong>partículas</strong> muy pequeñas, entre las que no existe nada (vacío).</li> {{% /fragment %}}
 	{{% fragment %}} <li>Existen <strong>fuerzas</strong> de <strong>atracción</strong> que mantienen unidas a las partículas.</li> {{% /fragment %}}
-	{{% fragment %}} <li>La <strong>materia</strong> está <strong>formada</strong> por <strong>partículas</strong> muy pequeñas, entre las que no existe nada (vacío).</li> {{% /fragment %}}
+	{{% fragment %}} <li>Las partículas están en <strong>continuo movimiento</strong>, siendo la <strong>temperatura</strong> una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).</li> {{% /fragment %}}
 </ul>
-
-- Las partículas están en **continuo movimiento**, siendo la **temperatura** una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).
 
  {{% /section %}}
