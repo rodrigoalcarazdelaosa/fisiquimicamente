@@ -274,6 +274,8 @@ Son un buen ejemplo de **mezclas homogéneas**, cuyos componentes pueden ser tan
 #### Concentración
 Podemos expresar la **concentración** de una disolución de varias formas distintas, entre ellas:
 
+---
+
 ##### g/L
 Expresa el número de gramos de soluto por cada litro de disolución:
 $$
