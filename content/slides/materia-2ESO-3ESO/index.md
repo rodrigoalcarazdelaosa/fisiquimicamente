@@ -207,6 +207,12 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ### Explicación de los estados de agregación
 
+---
+
+#### Sólido
+
+{{< figure library="true" src="materia-2ESO-3ESO/solido.png" title="En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**." lightbox="true" >}}
+
 {{% /section %}}
 
 ---
