@@ -35,7 +35,7 @@ slides:
 
 <dl>
 {{% fragment %}}<dt>Materia</dt>{{% /fragment %}}
-{{% fragment %}}<dd>Todo lo que tiene <strong>masa</strong> y ocupa un **volumen**.</dd>{{% /fragment %}}
+{{% fragment %}}<dd>Todo lo que tiene <strong>masa</strong> y ocupa un <strong>volumen</strong>.</dd>{{% /fragment %}}
 </dl>
 
 Sistema material
