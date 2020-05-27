@@ -217,6 +217,10 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 {{< figure library="true" src="materia-2ESO-3ESO/solido.png" title="En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**." lightbox="true" >}}
 
+#### Líquido
+
+{{< figure library="true" src="materia-2ESO-3ESO/liquido.png" title="En un **líquido** la **interacción** entre las partículas es **intermedia**, y éstas además de **vibrar** pueden **rotar** y **moverse** ligeramente." lightbox="true" >}}
+
 {{< gallery album="estados-materia" >}}
 
 Puedes conocer mejor las **propiedades** de los **estados de agregación** con la siguiente **simulación**:
