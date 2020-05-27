@@ -13,7 +13,7 @@
       {{ $link := replace .url "{url}" ($.Permalink | htmlEscape) }}
       {{ $link = replace $link "{title}" ($.Title | htmlEscape) }}
       <li>
-        <a href="{{$link|safeURL}}" target="_blank" rel="me" class="share-btn-{{.id}}">
+        <a href="{{$link|safeURL}}" target="_blank" rel="noopener" class="share-btn-{{.id}}">
           <i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
         </a>
       </li>
