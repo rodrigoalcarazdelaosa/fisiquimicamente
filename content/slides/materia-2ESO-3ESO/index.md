@@ -165,4 +165,8 @@ Los tres principales **estados de agregación** en los que podemos encontrar a l
 ### Cambios de estado
 La materia puede **cambiar** de **estado** al **variar** la **presión** o **temperatura**, permaneciendo su masa constante mientras que su volumen varía.
 
+---
+
+{{< figure library="true" src="materia-2ESO-3ESO/cambios-estado.png" lightbox="true" >}}
+
 {{% /section %}} 
