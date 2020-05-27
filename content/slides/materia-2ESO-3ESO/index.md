@@ -144,4 +144,14 @@ Los tres principales **estados de agregación** en los que podemos encontrar a l
 #### Sólido
 Volumen y forma fijos. No se pueden comprimir ni fluir por sí mismos.
 
+---
+
+#### Líquido
+Volumen fijo, forma variable. Poco compresibles. Pueden fluir.
+
+---
+
+#### Gaseoso
+Volumen y forma variables. Se comprimen y fluyen fácilmente.
+
 {{% /section %}} 
