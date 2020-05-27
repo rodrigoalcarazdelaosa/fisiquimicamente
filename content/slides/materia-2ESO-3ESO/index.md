@@ -211,7 +211,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 #### Sólido
 
-{{< figure library="true" src="materia-2ESO-3ESO/solido.png" title="En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**." lightbox="false" width="60%" >}}
+{{< figure library="true" src="materia-2ESO-3ESO/solido.png" title="En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**." lightbox="false" width="70%" >}}
 
 ---
 
