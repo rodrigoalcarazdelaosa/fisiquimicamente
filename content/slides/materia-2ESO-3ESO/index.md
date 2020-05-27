@@ -260,6 +260,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 - [Tipos](#/5/1)
 - [Disoluciones](#/5/3)
+- [Métodos de separación](#/5/11)
 
 (continúa hacia abajo)
 
