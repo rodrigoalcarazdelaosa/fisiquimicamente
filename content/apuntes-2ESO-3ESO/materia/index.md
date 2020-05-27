@@ -23,17 +23,6 @@ links:
   name: Póster
   url: materia-poster.pdf
   
-gallery_item:
-- album: estados-materia
-  image: a-solido.png
-  caption: "En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**."
-- album: estados-materia
-  image: b-liquido.png
-  caption: "En un **líquido** la **interacción** entre las partículas es **intermedia**, y éstas además de **vibrar** pueden **rotar** y **moverse** ligeramente."
-- album: estados-materia
-  image: c-gas.png
-  caption: "En un **gas** las partículas **apenas interactúan** entre sí y éstas se **mueven aleatoriamente** en todas las direcciones."
-  
 slides: materia-2ESO-3ESO
 ---
 
@@ -220,6 +209,10 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 #### Líquido
 
 {{< figure library="true" src="materia-2ESO-3ESO/liquido.png" title="En un **líquido** la **interacción** entre las partículas es **intermedia**, y éstas además de **vibrar** pueden **rotar** y **moverse** ligeramente." lightbox="true" >}}
+
+#### Gas
+
+{{< figure library="true" src="materia-2ESO-3ESO/gas.png" title="En un **gas** las partículas **apenas interactúan** entre sí y éstas se **mueven aleatoriamente** en todas las direcciones." lightbox="true" >}}
 
 {{< gallery album="estados-materia" >}}
 
