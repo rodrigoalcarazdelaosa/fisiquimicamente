@@ -45,3 +45,10 @@ Sustancia
 ---
 
 La **masa** y el **volumen** son **propiedades generales** de la materia, lo que significa que no nos permiten distinguir una sustancia de otra.
+
+---
+
+### Masa
+Es la **cantidad** de materia que tiene un objeto o sistema material.
+
+En el SI se mide en kg.
