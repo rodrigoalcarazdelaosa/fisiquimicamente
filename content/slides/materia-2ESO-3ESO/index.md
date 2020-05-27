@@ -139,11 +139,18 @@ $$
 
 ## Estados de agregación
 
-Los tres principales **estados de agregación** en los que podemos encontrar a la materia son:
+- [Sólido](#/3/1)
+- [Líquido](#/3/2)
+- [Gaseoso](#/3/3)
+- [Cambios de estado](#/3/4)
 
 (continúa hacia abajo)
 
 👇
+
+---
+
+Los tres principales **estados de agregación** en los que podemos encontrar a la materia son:
 
 ---
 
