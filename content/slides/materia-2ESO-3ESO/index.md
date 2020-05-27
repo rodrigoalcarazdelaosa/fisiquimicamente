@@ -121,8 +121,8 @@ $$
 
 A partir de la expresión de la densidad, despejamos el volumen $V$:
 
-{{% fragment %}} $$
+$$
 d = \frac{m}{V}\rightarrow V = \frac{m}{d} = \frac{0.390\thinspace\mathrm{kg}}{2390\thinspace\mathrm{kg/m^3}} = 1.632\times 10^{-4}\thinspace\mathrm{m^3} = 163.2\thinspace\mathrm{cm^3}
-$$ {{% /fragment %}}
+$$
 
 {{% /section %}}
