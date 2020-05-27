@@ -204,6 +204,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 - [Postulados](#/4/1)
 - [Explicación de los estados de agregación](#/4/2)
+- [Simulación](#/4/6)
 
 (continúa hacia abajo)
 
