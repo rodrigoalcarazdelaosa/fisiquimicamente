@@ -216,6 +216,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 {{< gallery album="estados-materia" >}}
 
+### Simulación
 Puedes conocer mejor las **propiedades** de los **estados de agregación** con la siguiente **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
