@@ -212,6 +212,11 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 - Existen **fuerzas** de **atracción** que mantienen unidas a las partículas.
 - Las partículas están en **continuo movimiento**, siendo la **temperatura** una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).
 
+### Explicación de los estados de agregación
+#### Sólido
+
+{{< figure library="true" src="materia-2ESO-3ESO/solido.png" title="En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**." lightbox="true" >}}
+
 {{< gallery album="estados-materia" >}}
 
 Puedes conocer mejor las **propiedades** de los **estados de agregación** con la siguiente **simulación**:
