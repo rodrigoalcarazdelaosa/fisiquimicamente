@@ -110,4 +110,11 @@ $$
 
 <q>Calcula el volumen que ocupan $390\thinspace\mathrm g$ de una sustancia cuya densidad es de $2390\thinspace\mathrm{kg/m^3}$.</q>
 
+---
+
+Ya que la densidad nos la dan en unidades del SI, pasamos la masa, $m=390\thinspace\mathrm g$, a kg:
+$$
+m = 390\thinspace\mathrm g \cdot \frac{1\thinspace\mathrm{kg}}{10^3\thinspace\mathrm g} = 0.390\thinspace\mathrm{kg}
+$$
+
 {{% /section %}}
