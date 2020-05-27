@@ -36,13 +36,11 @@ slides:
 <dl>
 {{% fragment %}}<dt>Materia</dt>{{% /fragment %}}
 {{% fragment %}}<dd>Todo lo que tiene <strong>masa</strong> y ocupa un <strong>volumen</strong>.</dd>{{% /fragment %}}
+{{% fragment %}}<dt>Sistema material</dt>{{% /fragment %}}
+{{% fragment %}}<dd>Porción de materia confinada en una región del espacio.</dd>{{% /fragment %}}
+{{% fragment %}}<dt>Sustancia</dt>{{% /fragment %}}
+{{% fragment %}}<dd>Forma de materia que tiene una composición química y unas propiedades características determinadas.</dd>{{% /fragment %}}
 </dl>
-
-Sistema material
-: Porción de materia confinada en una región del espacio.
-
-Sustancia
-: Forma de materia que tiene una composición química y unas propiedades características determinadas.
 
 ---
 
