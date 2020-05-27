@@ -258,7 +258,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ## Mezclas
 
-- [Tipos](#/5/1)
+- [Tipos](#/5/2)
 - [Disoluciones](#/5/3)
 - [Métodos de separación](#/5/11)
 
