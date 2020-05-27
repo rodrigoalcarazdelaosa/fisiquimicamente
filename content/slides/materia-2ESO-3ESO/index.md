@@ -256,7 +256,7 @@ Al mezclarse dos o más sustancias distintas, no se obtiene una nueva sustancia,
 ---
 
 ### Tipos
-<h4>{{% fragment %}} Heterogéneas {{% /fragment %}}</h4>
+#### Heterogéneas
 {{% fragment %}} Aquellas en las que **sí** es posible distinguir sus componentes a simple vista. {{% /fragment %}}
 
 {{% /section %}}
