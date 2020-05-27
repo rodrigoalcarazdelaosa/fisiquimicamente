@@ -34,8 +34,8 @@ slides:
 ---
 
 <dl>
-{{% fragment %}}<dt>Materia</dt>{{% /fragment %}}
-{{% fragment %}}<dd>Todo lo que tiene <strong>masa</strong> y ocupa un <strong>volumen</strong>.</dd>{{% /fragment %}}
+<dt>Materia</dt>
+<dd>Todo lo que tiene <strong>masa</strong> y ocupa un <strong>volumen</strong>.</dd>
 {{% fragment %}}<dt>Sistema material</dt>{{% /fragment %}}
 {{% fragment %}}<dd>Porción de materia confinada en una región del espacio.</dd>{{% /fragment %}}
 {{% fragment %}}<dt>Sustancia</dt>{{% /fragment %}}
