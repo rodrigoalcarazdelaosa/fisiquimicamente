@@ -181,4 +181,18 @@ Además, **durante** un **cambio** de **estado** la **temperatura** permance **c
 
 Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan con la presión) son, al igual que la densidad, **propiedades características** de la materia.
 
-{{% /section %}} 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+## Modelo cinético-molecular
+
+Sus **postulados** son:
+
+- La **materia** está **formada** por **partículas** muy pequeñas, entre las que no existe nada (vacío).
+- Existen **fuerzas** de **atracción** que mantienen unidas a las partículas.
+- Las partículas están en **continuo movimiento**, siendo la **temperatura** una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).
+
+ {{% /section %}}
