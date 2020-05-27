@@ -241,4 +241,8 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ## Mezclas
 
+(continúa hacia abajo)
+
+👇
+
 {{% /section %}}
