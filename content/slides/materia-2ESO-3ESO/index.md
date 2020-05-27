@@ -202,6 +202,8 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ## Modelo cinético-molecular
 
+- [Postulados](#/4/1)
+
 (continúa hacia abajo)
 
 👇
