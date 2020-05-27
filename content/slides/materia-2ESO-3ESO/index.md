@@ -225,6 +225,15 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 {{< figure library="true" src="materia-2ESO-3ESO/gas.png" title="En un **gas** las partículas **apenas interactúan** entre sí y éstas se **mueven aleatoriamente** en todas las direcciones." lightbox="false" width="55%" >}}
 
+---
+
+### Simulación
+Puedes conocer mejor las **propiedades** de los **estados de agregación** con la siguiente **simulación**:
+
+---
+
+<iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
 {{% /section %}}
 
 ---
