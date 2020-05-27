@@ -139,10 +139,10 @@ $$
 
 ## Estados de agregación
 
-- [Sólido](#/3/1)
-- [Líquido](#/3/2)
-- [Gaseoso](#/3/3)
-- [Cambios de estado](#/3/4)
+- [Sólido](#/3/2)
+- [Líquido](#/3/3)
+- [Gaseoso](#/3/4)
+- [Cambios de estado](#/3/5)
 
 (continúa hacia abajo)
 
