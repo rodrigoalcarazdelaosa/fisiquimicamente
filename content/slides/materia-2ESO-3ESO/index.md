@@ -33,14 +33,14 @@ slides:
 
 ---
 
-### Materia
-Todo lo que tiene **masa** y ocupa un **volumen**.
+Materia
+: Todo lo que tiene **masa** y ocupa un **volumen**.
 
-### Sistema material
-Porción de materia confinada en una región del espacio.
+Sistema material
+: Porción de materia confinada en una región del espacio.
 
-### Sustancia
-Forma de materia que tiene una composición química y unas propiedades características determinadas.
+Sustancia
+: Forma de materia que tiene una composición química y unas propiedades características determinadas.
 
 ---
 
