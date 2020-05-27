@@ -184,10 +184,14 @@ Los tres principales **estados de agregación** en los que podemos encontrar a l
 - No fluyen por sí mismos.
 
 #### Líquido
-Volumen fijo, forma variable. Poco compresibles. Pueden fluir.
+- Volumen fijo, forma variable.
+- Poco compresibles.
+- Pueden fluir.
 
 #### Gaseoso
-Volumen y forma variables. Se comprimen y fluyen fácilmente.
+- Volumen y forma variables.
+- Se comprimen.
+- Fluyen fácilmente.
 
 ### Cambios de estado
 La materia puede **cambiar** de **estado** al **variar** la **presión** o **temperatura**, permaneciendo su masa constante mientras que su volumen varía.
