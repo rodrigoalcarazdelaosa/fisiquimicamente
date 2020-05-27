@@ -263,10 +263,10 @@ Son un buen ejemplo de **mezclas homogéneas**, cuyos componentes pueden ser tan
 
 ---
 
-#### Soluto
-El componente que está en menor proporción.
+<h4>{{% fragment %}} Soluto {{% /fragment %}}</h4>
+{{% fragment %}} El componente que está en menor proporción. {{% /fragment %}}
 
-#### Disolvente
-El componente que está en mayor proporción.
+<h4>{{% fragment %}} Disolvente {{% /fragment %}}</h4>
+{{% fragment %}} El componente que está en mayor proporción. {{% /fragment %}}
 
 {{% /section %}}
