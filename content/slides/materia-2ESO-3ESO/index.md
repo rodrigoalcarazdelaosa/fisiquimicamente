@@ -106,4 +106,8 @@ $$
 d = \frac{m}{V}\rightarrow m = V\cdot d = 500\thinspace\mathrm{cm^3} \cdot 0.79\thinspace\mathrm{g/cm^3} = 395\thinspace\mathrm{g} = 0.395\thinspace\mathrm{kg}
 $$
 
+---
+
+<q>Calcula el volumen que ocupan $390\thinspace\mathrm g$ de una sustancia cuya densidad es de $2390\thinspace\mathrm{kg/m^3}$.</q>
+
 {{% /section %}}
