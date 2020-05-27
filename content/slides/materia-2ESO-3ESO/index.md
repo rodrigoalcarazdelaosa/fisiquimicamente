@@ -88,4 +88,8 @@ $$
 
 #### Ejemplos
 
+---
+
+<q>El etanol tiene una densidad de $0.79\thinspace\mathrm{g/cm^3}$. Calcula la masa contenida en una botella de medio litro.</q>
+
 {{% /section %}}
