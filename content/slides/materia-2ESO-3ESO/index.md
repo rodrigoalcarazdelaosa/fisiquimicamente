@@ -213,6 +213,18 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 {{< figure library="true" src="materia-2ESO-3ESO/solido.png" title="En un **sólido** la **interacción** entre las partículas es muy **fuerte**, y éstas están **vibrando**." lightbox="false" width="50%" >}}
 
+---
+
+#### Líquido
+
+{{< figure library="true" src="materia-2ESO-3ESO/liquido.png" title="En un **líquido** la **interacción** entre las partículas es **intermedia**, y éstas además de **vibrar** pueden **rotar** y **moverse** ligeramente." lightbox="true" >}}
+
+---
+
+#### Gas
+
+{{< figure library="true" src="materia-2ESO-3ESO/gas.png" title="En un **gas** las partículas **apenas interactúan** entre sí y éstas se **mueven aleatoriamente** en todas las direcciones." lightbox="true" >}}
+
 {{% /section %}}
 
 ---
