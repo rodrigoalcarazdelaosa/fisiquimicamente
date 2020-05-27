@@ -76,6 +76,13 @@ background-color: #555555; }
 .reveal .roll span:after {
   color: #fffff8;
   background: #2a54a9; }
+  
+/*********************************************
+* IMAGES
+*********************************************/
+.reveal section img {
+border: 0;
+box-shadow: none; }
 
 /*********************************************
  * NAVIGATION CONTROLS
