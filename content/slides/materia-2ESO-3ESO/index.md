@@ -68,6 +68,8 @@ Es el **espacio** que ocupa un objeto o sistema material.
 
 ## Propiedades específicas
 
+Las **propiedades específicas** o **características** de la materia son aquellas que nos permiten distinguir una sustancia de otra.
+
 (continúa hacia abajo)
 
 👇
