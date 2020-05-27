@@ -33,6 +33,8 @@ gallery_item:
 - album: estados-materia
   image: c-gas.png
   caption: "En un **gas** las partículas **apenas interactúan** entre sí y éstas se **mueven aleatoriamente** en todas las direcciones."
+  
+slides: materia-2ESO-3ESO
 ---
 
 {{% toc %}}
