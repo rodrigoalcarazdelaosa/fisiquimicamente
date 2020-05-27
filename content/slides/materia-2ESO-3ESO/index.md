@@ -52,3 +52,5 @@ La **masa** y el **volumen** son **propiedades generales** de la materia, lo que
 Es la **cantidad** de materia que tiene un objeto o sistema material.
 
 En el SI se mide en kg.
+
+{{% /section %}}
