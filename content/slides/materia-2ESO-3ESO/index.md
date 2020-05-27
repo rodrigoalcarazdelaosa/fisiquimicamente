@@ -195,7 +195,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ---
 
-Sus **postulados** son:
+### Postulados
 
 <ul>
 	{{% fragment %}} <li>La <strong>materia</strong> está <strong>formada</strong> por <strong>partículas</strong> muy pequeñas, entre las que no existe nada (vacío).</li> {{% /fragment %}}
