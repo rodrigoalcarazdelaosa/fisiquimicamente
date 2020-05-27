@@ -74,4 +74,14 @@ Las **propiedades específicas** o **características** de la materia son aquell
 
 👇
 
+---
+
+### Densidad
+La **densidad** $d$ de un objeto se define como la relación (cociente) entre su masa $m$ y su volumen $V$:		
+$$
+d = \frac{m}{V}
+$$
+
+En el SI se mide en $\mathrm{kg/m^3}$.
+
 {{% /section %}}
