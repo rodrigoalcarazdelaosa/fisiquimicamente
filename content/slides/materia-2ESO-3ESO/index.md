@@ -53,4 +53,11 @@ Es la **cantidad** de materia que tiene un objeto o sistema material.
 
 {{% fragment %}} En el SI se mide en kg. {{% /fragment %}}
 
+---
+
+### Volumen
+Es el **espacio** que ocupa un objeto o sistema material.
+
+{{% fragment %}} En el SI se mide en $\mathrm{m^3}$, aunque también se puede medir en L ($1\thinspace\mathrm{m^3} = 10^3\thinspace\mathrm L$). {{% /fragment %}} 
+
 {{% /section %}}
