@@ -259,7 +259,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 ## Mezclas
 
 - [Tipos](#/5/1)
-- [Disoluciones](#/5/2)
+- [Disoluciones](#/5/3)
 
 (continúa hacia abajo)
 
