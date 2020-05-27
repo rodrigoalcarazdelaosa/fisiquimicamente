@@ -99,4 +99,11 @@ $$
 0.5\thinspace\mathrm L\cdot \frac{1\thinspace\mathrm{dm^3}}{1\thinspace\mathrm L}\cdot \frac{10^3\thinspace\mathrm{cm^3}}{1\thinspace\mathrm{dm^3}} = 500\thinspace\mathrm{cm^3}
 $$
 
+---
+
+A partir de la expresión de la densidad, podemos **despejar** la **masa** $m$:
+$$
+d = \frac{m}{V}\rightarrow m = V\cdot d = 500\thinspace\mathrm{cm^3} \cdot 0.79\thinspace\mathrm{g/cm^3} = 395\thinspace\mathrm{g} = 0.395\thinspace\mathrm{kg}
+$$
+
 {{% /section %}}
