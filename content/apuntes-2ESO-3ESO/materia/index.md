@@ -243,21 +243,21 @@ Podemos expresar la **concentración** de una disolución de varias formas disti
 
 ##### g/L
 Expresa el número de gramos de soluto por cada litro de disolución:
-	$$
-	c\thinspace(\mathrm{g/L}) = \frac{m_\text{soluto}\thinspace (\mathrm{g})}{V_\text{disolución}\thinspace (\mathrm{L})}
-	$$
+$$
+c\thinspace(\mathrm{g/L}) = \frac{m_\text{soluto}\thinspace (\mathrm{g})}{V_\text{disolución}\thinspace (\mathrm{L})}
+$$
 	
 ##### % en masa
 Expresa el número de gramos de soluto por cada $100\thinspace\mathrm g$ de disolución:
-	$$
-	c\thinspace(\\%\thinspace m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolución}}\times 100
-	$$
+$$
+c\thinspace(\\%\thinspace m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolución}}\times 100
+$$
 	
 ##### % en volumen
 Expresa el número de litros de soluto por cada $100\thinspace\mathrm L$ de disolución:
-	$$
-	c\thinspace(\\%\thinspace V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolución}}\times 100
-	$$
+$$
+c\thinspace(\\%\thinspace V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolución}}\times 100
+$$
 
 Puedes aprender más con esta **simulación**, donde se expresa la concentración en mol/L, es decir, cuántos moles[^2] de soluto hay por cada litro de disolución:
 
