@@ -133,4 +133,8 @@ $$
 
 ## Estados de agregación
 
+(continúa hacia abajo)
+
+👇
+
 {{% /section %}} 
