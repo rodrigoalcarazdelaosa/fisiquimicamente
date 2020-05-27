@@ -208,8 +208,6 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ### Postulados
 
-Sus **postulados** son:
-
 - La **materia** está **formada** por **partículas** muy pequeñas, entre las que no existe nada (vacío).
 - Existen **fuerzas** de **atracción** que mantienen unidas a las partículas.
 - Las partículas están en **continuo movimiento**, siendo la **temperatura** una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).
