@@ -269,4 +269,9 @@ Son un buen ejemplo de **mezclas homogéneas**, cuyos componentes pueden ser tan
 <h4>{{% fragment %}} Disolvente {{% /fragment %}}</h4>
 {{% fragment %}} El componente que está en mayor proporción. {{% /fragment %}}
 
+---
+
+#### Concentración
+Podemos expresar la **concentración** de una disolución de varias formas distintas, entre ellas:
+
 {{% /section %}}
