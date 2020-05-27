@@ -247,4 +247,13 @@ Al mezclarse dos o más sustancias distintas, no se obtiene una nueva sustancia,
 
 👇
 
+---
+
+### Tipos
+#### Homogéneas
+Aquellas en las que **no** es posible distinguir sus componentes a simple vista.
+
+#### Heterogéneas
+Aquellas en las que **sí** es posible distinguir sus componentes a simple vista.
+
 {{% /section %}}
