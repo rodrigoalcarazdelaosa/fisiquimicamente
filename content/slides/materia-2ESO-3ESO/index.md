@@ -256,4 +256,17 @@ Al mezclarse dos o más sustancias distintas, no se obtiene una nueva sustancia,
 <h4>{{% fragment %}} Heterogéneas {{% /fragment %}}</h4>
 {{% fragment %}} Aquellas en las que **sí** es posible distinguir sus componentes a simple vista. {{% /fragment %}}
 
+---
+
+### Disoluciones
+Son un buen ejemplo de **mezclas homogéneas**, cuyos componentes pueden ser tanto sólidos, líquidos o gases. En una **disolución** distinguimos dos **componentes**:
+
+---
+
+#### Soluto
+El componente que está en menor proporción.
+
+#### Disolvente
+El componente que está en mayor proporción.
+
 {{% /section %}}
