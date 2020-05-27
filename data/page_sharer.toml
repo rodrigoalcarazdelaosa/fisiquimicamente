@@ -7,7 +7,7 @@
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
-  enable = true
+  enable = true  
 
 [[buttons]]
   id = "facebook"
