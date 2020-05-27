@@ -25,7 +25,7 @@ slides:
 
 {{% section %}}
 
-## Método científico
+## Propiedades generales
 
 (continúa hacia abajo)
 
