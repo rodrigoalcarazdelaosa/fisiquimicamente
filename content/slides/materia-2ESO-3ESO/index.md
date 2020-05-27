@@ -19,7 +19,11 @@ slides:
 
 # La materia
 
-[Método científico](#/1), [magnitudes](#/2) y [laboratorio escolar](#/3)
+- [Propiedades generales](#/1)
+- Propiedades específicas
+- Estados de agregación
+- Modelo cinético-molecular
+- Mezclas
 
 ---
 
