@@ -126,3 +126,11 @@ d = \frac{m}{V}\rightarrow V = \frac{m}{d} = \frac{0.390\thinspace\mathrm{kg}}{2
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Estados de agregación
+
+{{% /section %}} 
