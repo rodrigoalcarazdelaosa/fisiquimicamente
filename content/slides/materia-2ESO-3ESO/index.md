@@ -307,4 +307,22 @@ Puedes aprender más con esta **simulación**, donde se expresa la concentració
 
 <iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
+---
+
+### Métodos de separación
+
+#### Decantación
+Método **físico** para separar mezclas **heterogéneas** de líquidos y sólidos no solubles (suspendidos) o de líquidos no miscibles de **diferente densidad** (con un embudo de decantación).
+
+#### Filtración
+Método **físico** para separar mezclas **heterogéneas** de líquidos y sólidos no solubles a través de un medio poroso, llamado tamiz, criba, cedazo o **filtro**.
+
+#### Destilación
+Método **físico** para separar mezclas de líquidos con **distinto punto de ebullición**.
+
+{{< figure library="true" src="materia-2ESO-3ESO/destilacion.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
+#### Cristalización
+Método **químico** para separar mezclas **homogéneas**, como sólidos disueltos en líquidos.
+
 {{% /section %}}
