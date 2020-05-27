@@ -203,6 +203,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 ## Modelo cinético-molecular
 
 - [Postulados](#/4/1)
+- [Explicación de los estados de agregación](#/4/2)
 
 (continúa hacia abajo)
 
