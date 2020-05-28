@@ -65,7 +65,8 @@
      $.ajax(settings).done(function (data) {
        console.log(data);
 	   
-	   if (data.response.items = null) {	   	
+	   if (data.response.items = null) {
+		   $("#kudos").append("0 kudos");
 	   } else {
 	       var content = data.response.items[0].likes;
 		   console.log(content);
