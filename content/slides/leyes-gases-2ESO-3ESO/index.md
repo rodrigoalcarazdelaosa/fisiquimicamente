@@ -16,6 +16,8 @@ slides:
 
 [Simulación](#/4)
 
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](leyes-gases-diapositivas.pdf)
+
 ---
 
 {{% section %}}
