@@ -48,31 +48,8 @@
   {{/* Show kudos count. */}}
   <span class="middot-divider"></span>
   <script>
-     var pathname = window.location.pathname;
-     var settings = {
-       "url": "https://api.likebtn.com/api/?action=stat&email=rodri.alcaraz@gmail.com&api_key=ec2425ad8152ffce766f209a861c136a&site_id=5ec928f16fd08b5b023a4f3e&output=json&identifier_filter="+pathname,
-	   "method": "GET",
-	   "timeout": 0,
-	   "xhrFields": {
-	       // The 'xhrFields' property sets additional fields on the XMLHttpRequest.
-	       // This can be used to set the 'withCredentials' property.
-	       // Set the value to 'true' if you'd like to pass cookies to the server.
-	       // If this is enabled, your server must respond with the header
-	       // 'Access-Control-Allow-Credentials: true'.
-	       "withCredentials": "true"
-	     },
-	   "headers": {
-		   "Cookie": "__cfduid=d8fc1b82878312f7b59b962bc028322221590490364",
-		   "Access-Control-Allow-Origin": "*",
-		   "Accept": "application/json"
-		   // "Vary": "Origin"
-	     },
-  	   "contentType":"application/json",
-	   "dataType" : "json",
-     }
-	 
-	 $.ajax({
-	             headers: { "Accept": "application/json", "Access-Control-Allow-Origin": "*",},
+     var pathname = window.location.pathname;	 
+	 $.ajax({	             
 	             type: 'GET',
 	             url: 'https://api.likebtn.com/api/?action=stat&email=rodri.alcaraz@gmail.com&api_key=ec2425ad8152ffce766f209a861c136a&site_id=5ec928f16fd08b5b023a4f3e&output=json&identifier_filter='+pathname,
 				 "contentType":"application/json",
@@ -87,14 +64,6 @@
 					 $("#kudos").append(content);
 	             }
 	  });
-
-     // $.ajax(settings).done(function (data) {
-//        console.log(data);
-//
-//        var content = data.response.items[0].likes;
-//        $("#kudos").append(content);
-//
-//      });
   </script>
   <span id="kudos"></span><span>&nbsp;kudos</span>
 
