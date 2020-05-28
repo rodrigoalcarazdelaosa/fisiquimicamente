@@ -1,13 +1,6 @@
 ---
 title: La actividad científica
 summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
-tags:
-- 2º ESO
-- 3º ESO
-- actividad-científica
-categories:
-- Física
-- Química
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
