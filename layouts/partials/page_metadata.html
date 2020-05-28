@@ -48,23 +48,27 @@
   {{/* Show kudos count. */}}
   <span class="middot-divider"></span>
   <script>
-     var pathname = window.location.pathname;	 
-	 $.ajax({	             
-		type: 'GET',
-		url: 'https://api.likebtn.com/api/?action=stat&email=rodri.alcaraz@gmail.com&api_key=ec2425ad8152ffce766f209a861c136a&site_id=5ec928f16fd08b5b023a4f3e&output=json&identifier_filter='+pathname,
-		"contentType":"application/json",
-		"dataType" : "json",
-		crossDomain: true,
-		beforeSend: function(xhr){
-			xhr.withCredentials = true;
-		},
-		success: function(data, textStatus, request){
-			console.log(data);
-			var content = data.response.items[0].likes;
-			console.log(content);
-			$("#kudos").append(content);
-		}
-	  });
+     var pathname = window.location.pathname;
+	 console.log(pathname);
+     var settings = {
+       "url": "https://api.likebtn.com/api/?action=stat&email=rodri.alcaraz@gmail.com&api_key=ec2425ad8152ffce766f209a861c136a&site_id=5ec928f16fd08b5b023a4f3e&output=json&identifier_filter="+pathname,
+	   "method": "GET",
+	   "timeout": 0,
+	   "headers": {
+		   "Cookie": "__cfduid=d8fc1b82878312f7b59b962bc028322221590490364",
+		   // "Access-Control-Allow-Origin": "https://rodrigoalcarazdelaosa.me",
+		   // "Vary": "Origin"
+	     },
+	   "dataType" : "json",
+     }
+
+     $.ajax(settings).done(function (data) {
+       console.log(data);
+
+       var content = data.response.items[0].likes;
+       $("#kudos").append(content);
+
+     });
   </script>
   <span id="kudos"></span><span>&nbsp;kudos</span>
 
