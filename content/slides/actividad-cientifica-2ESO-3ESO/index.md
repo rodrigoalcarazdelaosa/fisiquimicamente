@@ -21,6 +21,8 @@ slides:
 
 [Método científico](#/1), [magnitudes](#/2) y [laboratorio escolar](#/3)
 
+[{{< icon name="download" pack="fas" >}}Descarga estas diapositivas en formato PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
+
 ---
 
 {{% section %}}
