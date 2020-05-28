@@ -19,7 +19,7 @@ title: Prueba LikeBtn
          $.ajax(settings).done(function (data) {
            console.log(data);
 
-           var content = data.response.items[0].likes;
+           var content = data.response.total;
            $("#likes").append(content);
 
          });
