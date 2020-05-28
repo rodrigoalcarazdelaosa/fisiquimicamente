@@ -69,14 +69,13 @@
 		   $("#kudos").append("0 kudos");
 	   } else {
 	       var content = data.response.items[0].likes;
-		   console.log(content);
+		   console.log(content);	   
+		   if (content == "1") {
+		   		$("#kudos").append(content+" kudo");
+	   	   } else {
+	 		    $("#kudos").append(content+" kudos");
+		   }
 	   }
-	   if (content == "1") {
-	   		$("#kudos").append(content+" kudo");
-   	   } else {
- 		    $("#kudos").append(content+" kudos");
-	   }
-
      });
   </script>
   <span id="kudos"></span>
