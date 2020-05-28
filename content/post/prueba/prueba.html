@@ -1,0 +1,35 @@
+---
+title: Prueba
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<title>Sample Page</title>
+
+<script>
+	var settings = {
+		"async": true,
+		"crossDomain": true,
+		"url": "https://api.likebtn.com/api/?action=stat&email=rodri.alcaraz@gmail.com&api_key=ec2425ad8152ffce766f209a861c136a&site_id=5ec928f16fd08b5b023a4f3e&output=json&sort=likes&identifier_filter=/blog/2020/05/19/posters-del-sistema-solar/",
+		"method": "GET"
+	};
+
+	$.ajax(settings).done(function (response) {
+	  console.log(response);
+	  
+	  var content = response.response.total;
+      $("#likes").append(content);
+	});
+	
+</script>
+</head>
+<body>
+<h1>Sample Page</h1>
+
+<div id="likes">likes: </div>
+
+</body>
+</html>
