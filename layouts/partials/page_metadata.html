@@ -70,14 +70,29 @@
   	   "contentType":"application/json",
 	   "dataType" : "json",
      }
+	 
+	 $.ajax({
+	             headers: { "Accept": "application/json"},
+	             type: 'GET',
+	             url: 'https://api.likebtn.com/api/?action=stat&email=rodri.alcaraz@gmail.com&api_key=ec2425ad8152ffce766f209a861c136a&site_id=5ec928f16fd08b5b023a4f3e&output=json&identifier_filter='+pathname,
+	             crossDomain: true,
+	             beforeSend: function(xhr){
+	                 xhr.withCredentials = true;
+	           },
+	             success: function(data, textStatus, request){
+	                 console.log(data);
+					 var content = data.response.items[0].likes;
+					 $("#kudos").append(content);
+	             }
+	  });
 
-     $.ajax(settings).done(function (data) {
-       console.log(data);
-
-       var content = data.response.items[0].likes;
-       $("#kudos").append(content);
-
-     });
+     // $.ajax(settings).done(function (data) {
+//        console.log(data);
+//
+//        var content = data.response.items[0].likes;
+//        $("#kudos").append(content);
+//
+//      });
   </script>
   <span id="kudos"></span><span>&nbsp;kudos</span>
 
