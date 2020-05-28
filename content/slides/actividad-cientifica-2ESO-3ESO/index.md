@@ -21,7 +21,7 @@ slides:
 
 [Método científico](#/1), [magnitudes](#/2) y [laboratorio escolar](#/3)
 
-<a href="javascript: w=window.open('?print-pdf'); w.print(); w.close(); ">​​​​​​​​​​​​​​​​​print pdf</a>
+<a href="javascript: w=window.open('/?print-pdf'); w.print(); w.close(); ">​​​​​​​​​​​​​​​​​print pdf</a>
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf)
 
