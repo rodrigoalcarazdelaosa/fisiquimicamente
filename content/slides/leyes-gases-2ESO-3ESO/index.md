@@ -1,12 +1,6 @@
 ---
 title: Leyes de los gases
 summary: "Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac."
-tags:
-- 3º ESO
-- gases
-categories:
-- Física
-- Química
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
