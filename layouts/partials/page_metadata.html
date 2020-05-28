@@ -61,6 +61,7 @@
 		success: function(data, textStatus, request){
 			console.log(data);
 			var content = data.response.items[0].likes;
+			console.log(content);
 			$("#kudos").append(content);
 		}
 	  });
