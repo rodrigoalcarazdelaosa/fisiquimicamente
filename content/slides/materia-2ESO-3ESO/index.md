@@ -1,13 +1,6 @@
 ---
 title: La materia
 summary: "Propiedades, estados de agregación y mezclas."
-tags:
-- 2º ESO
-- 3º ESO
-- materia
-categories:
-- Física
-- Química
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
