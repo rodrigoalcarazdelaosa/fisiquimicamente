@@ -64,9 +64,12 @@
 
      $.ajax(settings).done(function (data) {
        console.log(data);
-
-       var content = data.response.items[0].likes;
-	   console.log(content);
+	   
+	   if (data.response.items = "null") {	   	
+	   } else {
+	       var content = data.response.items[0].likes;
+		   console.log(content);
+	   }
 	   if (content = "1") {
 	   		$("#kudos").append(content+" kudo");
    	   } else {
