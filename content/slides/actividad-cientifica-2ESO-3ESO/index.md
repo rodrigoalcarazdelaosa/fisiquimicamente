@@ -23,7 +23,7 @@ slides:
 
 <a href="javascript: w=window.open('/?print-pdf'); w.print(); w.close(); ">​​​​​​​​​​​​​​​​​print pdf</a>
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}]("javascript: w=window.open('?print-pdf'); w.print(); w.close(); ")
 
 ---
 
