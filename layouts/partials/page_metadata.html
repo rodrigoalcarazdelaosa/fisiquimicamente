@@ -62,7 +62,7 @@
      }
 
      $.ajax(settings).done(function (data) {
-       // console.log(data);
+       console.log(data);
 
        var content = data.response.items[0].likes;
        $("#kudos").append(content);
