@@ -66,11 +66,11 @@
        console.log(data);
 
        var content = data.response.items[0].likes;
-       $("#likes").append(content);
+       $("#kudos").append(content);
 
      });
   </script>
-  <span id="likes"></span><span> kudos</span>
+  <span id="kudos"></span><span> kudos</span>
 
   {{/* Show Disqus comment count if enabled. */}}
   {{ $disqus_enabled := eq site.Params.comments.engine 1 | and (index site.Params.comments.commentable $page.Type) | and (ne $page.Params.commentable false) | or $page.Params.commentable }}
