@@ -21,7 +21,7 @@ slides:
 
 [Método científico](#/1), [magnitudes](#/2) y [laboratorio escolar](#/3)
 
-<i class="fas fa-download"></i>[Descarga estas diapositivas en formato PDF](actividad-cientifica-diapositivas.pdf)
+[{{< icon name="download" pack="fas" >}}Descarga estas diapositivas en formato PDF](actividad-cientifica-diapositivas.pdf)
 
 ---
 
