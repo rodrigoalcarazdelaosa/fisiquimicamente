@@ -222,7 +222,8 @@ color: $primary; }
 color: $primary_complementary; }
 
 .article-metadata svg {
-  fill: $primary_complementary; }
+  fill: $primary_complementary; 
+  line-height: 14px;}
 
 .article-metadata a,
 .article-metadata a:hover {
