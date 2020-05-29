@@ -533,8 +533,8 @@ applause-button {
   }
 
   .count-container {
-//    position: absolute;
-//    top: -100%;
+    position: relative;
+    right: 30px;
     width: 100%;
     color: #111111;
     user-select: none;
