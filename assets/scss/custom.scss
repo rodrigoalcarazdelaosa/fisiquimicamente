@@ -440,10 +440,10 @@ margin-right: 8px; }
 *  Kudos
 **************************************************/
 
-p.kudos {
-	font-size: 0.8rem;
-	color: #555555; 
-	text-align: center; }
+//p.kudos {
+//	font-size: 0.8rem;
+//	color: #555555;
+//	text-align: center; }
 	
 @mixin animate-once($name) {
   animation-name: $name;
