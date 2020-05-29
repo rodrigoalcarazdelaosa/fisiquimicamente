@@ -70,10 +70,10 @@
      });
   </script> -->
 	  <script>
-		 var pathname = window.location.pathname;
-		 console.log(pathname);
+		 var url = window.location.href;
+		 console.log(url);
 	     var settings = {
-	       "url": "https://api.applause-button.com/get-claps?url="+pathname,
+	       "url": "https://api.applause-button.com/get-claps?url="+url,
 		   "method": "GET",
 		   "timeout": 0
 	     }
