@@ -74,7 +74,8 @@
 		 // console.log(pathname);
 	     var settings = {
 	       "url": "https://api.applause-button.com/get-claps?url="+pathname,
-		   "method": "GET"
+		   "method": "GET",
+		   "timeout": 0
 	     }
 
 	     $.ajax(settings).done(function (response) {
