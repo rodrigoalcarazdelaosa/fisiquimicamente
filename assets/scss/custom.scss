@@ -221,6 +221,10 @@ color: $primary; }
 .article-metadata {
 color: $primary_complementary; }
 
+.article-metadata .article-kudos {
+	display: inline-block;
+}
+
 .article-metadata svg {
   fill: $primary_complementary; }
 
@@ -446,11 +450,7 @@ margin-right: 8px; }
 p.kudos {
 	font-size: 0.8rem;
 	color: #555555; 
-	text-align: center; }
-	
-.article-kudos {
-	display: inline-block;
-}	
+	text-align: center; }	
 	
 @mixin animate-once($name) {
   animation-name: $name;
