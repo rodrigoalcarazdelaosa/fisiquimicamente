@@ -467,7 +467,10 @@ p.kudos {
   bottom: 0;
 }
 
-applause-button .style-root { color: $primary_complementary !important; }
+applause-button .style-root {
+	fill: $primary_complementary !important;
+	stroke: $primary_complementary !important;
+	color: $primary_complementary !important; }
 
 applause-button {
   position: relative;
