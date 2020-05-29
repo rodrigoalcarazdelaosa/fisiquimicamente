@@ -222,7 +222,9 @@ color: $primary; }
 color: $primary_complementary; }
 
 .article-metadata .article-kudos {
-	display: inline-block;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .article-metadata svg {
