@@ -47,7 +47,7 @@
     
   {{/* Show kudos count. */}}
   <span class="middot-divider"></span>
-  <script>
+  <!-- <script>
      var pathname = window.location.pathname;
 	 // console.log(pathname);
      var settings = {
@@ -59,16 +59,38 @@
 
      $.ajax(settings).done(function (data) {
        // console.log(data);
-	   
+
 	   if (data.response.items[0] == null) {
 		   $("#kudos").append("0");
 	   } else {
 	       var content = data.response.items[0].likes;
-		   // console.log(content);	   
+		   // console.log(content);
 		   $("#kudos").append(content);
 	   }
      });
-  </script>
+  </script> -->
+	  <script>
+	     var pathname = window.location.pathname;
+		 // console.log(pathname);
+	     var settings = {
+	       "url": "https://api.applause-button.com/get-claps?url="+pathname,
+		   "method": "GET",
+		   "timeout": 0,
+		   "dataType": "json"
+	     }
+
+	     $.ajax(settings).done(function (data) {
+	       // console.log(data);
+	   
+		   if (data.response.items[0] == null) {
+			   $("#kudos").append("0");
+		   } else {
+		       var content = data.response.items[0].likes;
+			   // console.log(content);	   
+			   $("#kudos").append(content);
+		   }
+	     });
+	  </script>
   <i class="fas fa-heart mr-1"></i><span id="kudos"></span>
 
   {{/* Show Disqus comment count if enabled. */}}
