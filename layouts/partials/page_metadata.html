@@ -79,14 +79,12 @@
 	     }
 
 	     $.ajax(settings).done(function (response) {
-	       // console.log(data);
+	       console.log(response);
 	   
-		   if (data.response.items[0] == null) {
+		   if (response == null) {
 			   $("#kudos").append("0");
 		   } else {
-		       var content = data.response.items[0].likes;
-			   // console.log(content);	   
-			   $("#kudos").append(content);
+			   $("#kudos").append(response);
 		   }
 	     });
 	  </script>
