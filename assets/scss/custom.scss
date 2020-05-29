@@ -448,6 +448,10 @@ p.kudos {
 	color: #555555; 
 	text-align: center; }
 	
+.article-kudos {
+	display: inline-block;
+}	
+	
 @mixin animate-once($name) {
   animation-name: $name;
   animation-duration: 0.5s;
