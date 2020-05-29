@@ -70,7 +70,7 @@
      });
   </script> -->
 	  <script>
-		 var url = "{{ .RelPermalink }}";
+		 var url = "{{ $page.RelPermalink }}";
 		 console.log(url);
 	     var settings = {
 	       "url": "https://api.applause-button.com/get-claps?url="+url,
