@@ -81,11 +81,7 @@
 	     $.ajax(settings).done(function (response) {
 	       // console.log(response);
 	   
-		   if (response == null) {
-			   $("#kudos").append("0");
-		   } else {
-			   $("#kudos").append(response);
-		   }
+		   $("#kudos").append(response);
 	     });
 	  </script>
   <i class="fas fa-heart mr-1"></i><span id="kudos"></span>
