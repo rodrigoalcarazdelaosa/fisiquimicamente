@@ -54,7 +54,9 @@
        "url": "https://api.likebtn.com/api/?action=stat&email=rodri.alcaraz@gmail.com&api_key=ec2425ad8152ffce766f209a861c136a&site_id=5ec928f16fd08b5b023a4f3e&output=json&identifier_filter="+pathname,
 	   "method": "GET",
 	   "timeout": 0,
-	   "dataType" : "json",
+	   "headers": {
+	       "Cookie": "__cfduid=dc01593140fb7fa1820d41055c5b31fc41590748525"
+	     },
      }
 
      $.ajax(settings).done(function (data) {
