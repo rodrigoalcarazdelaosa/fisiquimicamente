@@ -71,7 +71,7 @@
   </script> -->
 	  <script>
 	     var pathname = window.location.pathname;
-		 console.log(pathname);
+		 // console.log(pathname);
 	     var settings = {
 	       "url": "https://api.applause-button.com/get-claps?url="+pathname,
 		   "method": "GET",
@@ -79,7 +79,7 @@
 	     }
 
 	     $.ajax(settings).done(function (response) {
-	       console.log(response);
+	       // console.log(response);
 	   
 		   if (response == null) {
 			   $("#kudos").append("0");
