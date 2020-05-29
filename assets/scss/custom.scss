@@ -506,7 +506,7 @@ applause-button {
   svg {
     @include centered-square(60%);
     @include position-fill();
-    opacity: 1;
+    opacity: 0.8;
     stroke: none;
     // annoyingly bootstrap has a higher precedence rule that sets overflow to hidden
     // hence the bang-important
