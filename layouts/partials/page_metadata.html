@@ -112,7 +112,7 @@
 		         contentType: "text/plain"
 		     }).done(function(claps) {
 		        // when the response returns, locate each element and update the count
-		         jQuery(".clap").each(function() {
+		         jQuery(".kudos").each(function() {
 		             var elem = jQuery(this),
 		                 url = elem.attr("data-url").replace(/^https?:\/\//, "");
 		             var clapCount = claps.find(function(c) { return c.url === url; });
