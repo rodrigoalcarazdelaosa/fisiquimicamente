@@ -70,6 +70,11 @@
      });
   </script> -->
 	  <script>
+		  function jq( myid ) {
+ 
+		      return "#" + myid.replace( /(:|\.|\[|\]|,|=|@)/g, "\\$1" );
+ 
+		  }
 		 var url = "{{ $page.Permalink }}";
 		 // console.log(url);
 	     var settings = {
@@ -82,11 +87,8 @@
 
 	     $.ajax(settings).done(function (response) {
 			 // console.log(response);
-			 
-		 var contents = document.getElementById("kudos"+url);
-		 console.log(contents);
-	   
-		 contents.html(response);
+			 		
+		 $( jq( "kudos"+url ) ).html(response);
 	     });
 	  </script>		 
 		 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 60 60">
