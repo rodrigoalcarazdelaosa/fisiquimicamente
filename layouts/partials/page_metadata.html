@@ -81,11 +81,8 @@
 		 // console.log(settings.url);
 
 	     $.ajax(settings).done(function (response) {
-			 console.log(response);
-			 var kudos = "kudos-"+"{{ $page.LinkTitle }}";			 
-			 
-			 console.log(kudos);
-			 $("span[id=kudos]").html(response);
+			 // console.log(response);			 
+			 $("span[id='kudos-'+'{{ $page.LinkTitle }}']").html(response);
 	     });
 	  </script>		 
 		 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 60 60">
