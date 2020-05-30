@@ -83,7 +83,7 @@
 	     $.ajax(settings).done(function (response) {
 			 // console.log(response);
 			 
-		 var str = "kudos-"+url.replace(/^http?:\/\//, "");
+		 var str = "kudos-"+url.replace(/^localhost?:\/\//, "");
 			 console.log(str);
 		 $("#"+str).html(response);
 	     });
