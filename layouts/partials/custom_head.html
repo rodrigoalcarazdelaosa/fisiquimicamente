@@ -27,29 +27,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
   <script>
-	 // var url = "{{ $page.Permalink }}";
-	 // // console.log(url);
-	 // 	     var settings = {
-	 // 	       "url": "https://api.applause-button.com/get-claps?url="+url,
-	 //   "method": "GET",
-	 //   "timeout": 0
-	 // 	     }
-	 //
-	 // // console.log(settings.url);
-	 //
-	 // 	     $.ajax(settings).done(function (response) {
-	 // 			 jQuery(".kudos").each(function() {
-	 // 			             var elem = jQuery(this),
-	 // 			                 url = elem.attr("data-url").replace(/^https?:\/\//, "");
-	 // 			             var clapCount = response.find(function(c) { return c.url === url; });
-	 // 			             if (clapCount && clapCount.response > 0) {
-	 // 			                 elem.css("display", "initial")
-	 // 			                     .find(".count")
-	 // 			                     .html(clapCount.response);
-	 // 			             }
-	 // 			         });
-	 // 	     });
- // the clap counts for each article are displayed via span elements with the 'kudos' class, find all these
+// the clap counts for each article are displayed via span elements with the 'kudos' class, find all these
 	 function loadClapCount() {
 	     // the clap counts for each article are displayed via span elements with the 'clap' class, find all these
 	     var elements = jQuery(".kudos").toArray();
