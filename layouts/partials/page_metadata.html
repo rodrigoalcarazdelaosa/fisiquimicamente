@@ -82,7 +82,7 @@
 
 	     $.ajax(settings).done(function (response) {
 			 console.log(response);
-			 var kudos = "#kudos-"+url.replace(/[^a-z0-9-_]+/gi, "");
+			 var kudos = "kudos-"+url.replace(/[^a-z0-9-_]+/gi, "");
 			 
 			 //Find all IDs starting with kudos
 			 $("[id^='kudos']").filter(function() {
@@ -93,7 +93,7 @@
 			 });
 			 
 			 console.log(kudos);
-			 $(kudos).html(response);
+			 $("#"+kudos).html(response);
 	     });
 	  </script>		 
 		 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 60 60">
