@@ -81,8 +81,16 @@
 		 // console.log(settings.url);
 
 	     $.ajax(settings).done(function (response) {
-			 // console.log(response);
-			 $("span[id='kudos-'+'{{ $page.LinkTitle }}']").html(response);
+			 jQuery(".kudos").each(function() {
+			             var elem = jQuery(this),
+			                 url = elem.attr("data-url").replace(/^https?:\/\//, "");
+			             var clapCount = response.find(function(c) { return c.url === url; });
+			             if (clapCount && clapCount.response > 0) {
+			                 elem.css("display", "initial")
+			                     .find(".count")
+			                     .html(clapCount.claps);
+			             }
+			         });
 	     });
 	  </script>		 
 		 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 60 60">
