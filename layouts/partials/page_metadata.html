@@ -103,11 +103,11 @@
 				 function loadClapCount() {
 				     // the clap counts for each article are displayed via span elements with the 'clap' class, find all these
 				     var elements = jQuery(".kudos").toArray();
-					 console.log(elements);
 				    // the article that each clap represents is indicates by the data-url attribute
 				     var urls = elements.map(function(el) {
 				         return el.getAttribute("data-url");
 				     });
+ 					 console.log(urls);
 				     // send an API request that asks for the clap count of all of these articles
 				     jQuery.ajax({
 				         url: "https://api.applause-button.com/get-multiple",
