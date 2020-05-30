@@ -83,7 +83,8 @@
 	     $.ajax(settings).done(function (response) {
 			 // console.log(response);
 			 
-		 var str = "kudos-"+url;
+		 var str = "kudos-"+url.replace(/^https?:\/\//, "");
+			 console.log(str);
 			 
 		 var contents = document.getElementById(str);
 		 console.log(contents);
