@@ -83,7 +83,9 @@
 	     $.ajax(settings).done(function (response) {
 			 // console.log(response);
 			 
-		 var contents = document.getElementById("kudos"+url);
+		 var str = "kudos-"+url;
+			 
+		 var contents = document.getElementById(str);
 	   
  	     contents.html(response);
 	     });
