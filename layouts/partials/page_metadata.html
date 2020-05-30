@@ -82,8 +82,9 @@
 
 	     $.ajax(settings).done(function (response) {
 			 console.log(response);
+			 var tempID = url.replace(/[^a-z0-9-_]+/gi, "");
 			 var kudos = "#kudos-"+"{{ $page.Permalink }}";
-			 console.log(kudos);
+			 console.log(tempID);
 			 $("#kudos-"+"{{ $page.LinkTitle }}").html(response);
 	     });
 	  </script>		 
