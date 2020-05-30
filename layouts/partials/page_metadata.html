@@ -116,17 +116,16 @@
 				             "Content-Type": "text/plain"
 				         },
 				         contentType: "text/plain"
-				     }).done(function(claps) {
+				     }).done(function(kudos) {
 				        // when the response returns, locate each element and update the count
-						 console.log(claps);
 				         jQuery(".kudos").each(function() {
 				             var elem = jQuery(this),
 				                 url = elem.attr("data-url").replace(/^https?:\/\//, "");
-				             var clapCount = claps.find(function(c) { return c.url === url; });
-				             if (clapCount && clapCount.claps > 0) {
+				             var kudosCount = kudos.find(function(c) { return c.url === url; });
+				             if (kudosCount && kudosCount.kudos > 0) {
 				                 elem.css("display", "initial")
 				                     .find(".count")
-				                     .html(clapCount.claps);
+				                     .html(kudosCount.kudos);
 				             }
 				         });
 				     });
