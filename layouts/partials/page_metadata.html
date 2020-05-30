@@ -121,7 +121,7 @@
 				         jQuery(".kudos").each(function() {
 				             var elem = jQuery(this),
 				                 url = elem.attr("data-url").replace(/^https?:\/\//, "");
-									 console.log(elem);
+									 console.log(url);
 				             var kudosCount = kudos.find(function(c) { return c.url === url; });
 				             if (kudosCount && kudosCount.kudos > 0) {
 				                 elem.css("display", "initial")
