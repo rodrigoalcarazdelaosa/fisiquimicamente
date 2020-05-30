@@ -93,7 +93,7 @@
 		 // 			         });
 		 // 	     });
 	 // the clap counts for each article are displayed via span elements with the 'clap' class, find all these
-	     var elements = jQuery(".clap").toArray();
+	     var elements = jQuery(".kudos").toArray();
 	    // the article that each clap represents is indicates by the data-url attribute
 	     var urls = elements.map(function(el) {
 	         return el.getAttribute("data-url");
@@ -109,7 +109,7 @@
 	         contentType: "text/plain"
 	     }).done(function(claps) {
 	        // when the response returns, locate each element and update the count
-	         jQuery(".clap").each(function() {
+	         jQuery(".kudos").each(function() {
 	             var elem = jQuery(this),
 	                 url = elem.attr("data-url").replace(/^https?:\/\//, "");
 	             var clapCount = claps.find(function(c) { return c.url === url; });
