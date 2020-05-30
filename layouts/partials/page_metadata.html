@@ -82,7 +82,7 @@
 
 	     $.ajax(settings).done(function (response) {
 			 console.log(response);
-			 var kudos = "#kudos-"+"{{ $page.LinkTitle }}";
+			 var kudos = "#kudos-"+"{{ $page.Permalink }}";
 			 console.log(kudos);
 			 $("#kudos-"+"{{ $page.LinkTitle }}").html(response);
 	     });
