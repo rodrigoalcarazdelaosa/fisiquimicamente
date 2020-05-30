@@ -47,28 +47,6 @@
     
   {{/* Show kudos count. */}}
   <span class="middot-divider"></span>
-  <!-- <script>
-     var pathname = window.location.pathname;
-	 // console.log(pathname);
-     var settings = {
-       "url": "https://api.likebtn.com/api/?action=stat&email=rodri.alcaraz@gmail.com&api_key=ec2425ad8152ffce766f209a861c136a&site_id=5ec928f16fd08b5b023a4f3e&output=json&identifier_filter="+pathname,
-	   "method": "GET",
-	   "timeout": 0,
-	   "dataType": "json"
-     }
-
-     $.ajax(settings).done(function (data) {
-       // console.log(data);
-
-	   if (data.response.items[0] == null) {
-		   $("#kudos").append("0");
-	   } else {
-	       var content = data.response.items[0].likes;
-		   // console.log(content);
-		   $("#kudos").append(content);
-	   }
-     });
-  </script> -->
 	  <span class="clap" data-url="{{ $page.Permalink }}">	  
 		 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 60 60">
 		       <g class="flat">
@@ -79,28 +57,6 @@
 			 <span class="count"></span>
 		 </span>
 			  <script>
-				 // var url = "{{ $page.Permalink }}";
-				 // // console.log(url);
-				 // 	     var settings = {
-				 // 	       "url": "https://api.applause-button.com/get-claps?url="+url,
-				 //   "method": "GET",
-				 //   "timeout": 0
-				 // 	     }
-				 //
-				 // // console.log(settings.url);
-				 //
-				 // 	     $.ajax(settings).done(function (response) {
-				 // 			 jQuery(".kudos").each(function() {
-				 // 			             var elem = jQuery(this),
-				 // 			                 url = elem.attr("data-url").replace(/^https?:\/\//, "");
-				 // 			             var clapCount = response.find(function(c) { return c.url === url; });
-				 // 			             if (clapCount && clapCount.response > 0) {
-				 // 			                 elem.css("display", "initial")
-				 // 			                     .find(".count")
-				 // 			                     .html(clapCount.response);
-				 // 			             }
-				 // 			         });
-				 // 	     });
 			 // the clap counts for each article are displayed via span elements with the 'kudos' class, find all these
 				 function loadClapCount() {
 				     // the clap counts for each article are displayed via span elements with the 'clap' class, find all these
