@@ -32,3 +32,11 @@ image:
 {{% toc %}}
 
 ## Teoría atómica de Dalton
+
+## El átomo
+
+## Modelos atómicos
+
+## Iones e isótopos
+
+## Masa atómica
