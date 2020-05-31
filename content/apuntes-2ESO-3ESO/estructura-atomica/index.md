@@ -62,6 +62,10 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 {{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono-11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de [burlesonmatthew](https://pixabay.com/es/users/burlesonmatthew-3904514/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}									
 
 ### Número atómico $Z$
+El **número atómico**, $Z$, es el número de **protones** que tiene un átomo en su núcleo.
+
+Todos los **átomos** de un **mismo elemento químico** tienen el **mismo número** de **protones** en su núcleo y por tanto el **mismo número atómico** $Z$.
+
 ### Número másico $A$
 
 ## Modelos atómicos
