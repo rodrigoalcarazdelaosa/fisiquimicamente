@@ -124,6 +124,7 @@ donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el 
 
 ---
 
+### Modelo de Thomson
 En 1897, **Thomson descubre** la existencia del **electrón**, la partícula elemental con **carga** eléctrica **negativa**. Postula un modelo que se conoce como el modelo del *pastel de pasas*:
 
 - El átomo está formado por una *nube* esférica con **carga positiva**.
