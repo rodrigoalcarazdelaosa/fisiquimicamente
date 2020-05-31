@@ -247,6 +247,10 @@ Los llamados **isótopos radiactivos** son aquellos isótopos que son **inestabl
 
 La **masa** de los **átomos** es **extremadamente pequeña** comparada con las masas de los objetos cotidianos.
 
+(continúa hacia abajo)
+
+👇
+
 ---
 
 Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, $\mathrm u$, la cual se define como:
