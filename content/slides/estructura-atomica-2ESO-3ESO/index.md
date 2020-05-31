@@ -26,8 +26,6 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Teoría atómica de Dalton
 
-[Masa](#/1/3) y [volumen](#/1/4)
-
 (continúa hacia abajo)
 
 👇
