@@ -145,7 +145,7 @@ La **masa** de los **átomos** es **extremadamente pequeña** comparada con las 
 	1\thinspace\mathrm u = 1.661\times 10^{-27}\thinspace\mathrm{kg}
 	$$
 	
-De esta forma el isótopo \ce{^{12}C} tiene una masa de \SI{12}{u}.
+De esta forma el isótopo $\ce{^{12}C}$ tiene una masa de $12\thinspace\mathrm u$.
 
 La masa atómica que encontramos en las tablas periódicas es la media\textbf{ ponderada} de los isótopos naturales de cada elemento, teniendo en cuenta su \textbf{abundancia}.
 
