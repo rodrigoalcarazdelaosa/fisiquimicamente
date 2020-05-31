@@ -85,29 +85,22 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 
 ---
 
-A partir de la expresión de la densidad, podemos **despejar** la **masa** $m$:
+### Número atómico $Z$
+El **número atómico**, $Z$, es el número de **protones** que tiene un átomo en su núcleo.
+
+Todos los **átomos** de un **mismo elemento químico** tienen el **mismo número** de **protones** en su núcleo y por tanto el **mismo número atómico** $Z$.
+
+### Número másico $A$
+El **número másico**, $A$, es la **suma** de **protones** y **neutrones**, cumpliéndose por tanto:		
 $$
-d = \frac{m}{V}\rightarrow m = V\cdot d = 500\thinspace\mathrm{cm^3} \cdot 0.79\thinspace\mathrm{g/cm^3} = 395\thinspace\mathrm{g} = 0.395\thinspace\mathrm{kg}
+A = Z + N,
 $$
-
----
-
-<q>Calcula el volumen que ocupan $390\thinspace\mathrm g$ de una sustancia cuya densidad es de $2390\thinspace\mathrm{kg/m^3}$.</q>
-
----
-
-Ya que la densidad nos la dan en unidades del SI, pasamos la masa, $m=390\thinspace\mathrm g$, a kg:
+donde $N=A-Z$ es el número de neutrones.
+En general un átomo se representa con la siguiente **notación**:
 $$
-m = 390\thinspace\mathrm g \cdot \frac{1\thinspace\mathrm{kg}}{10^3\thinspace\mathrm g} = 0.390\thinspace\mathrm{kg}
+^{A}_{Z}\mathrm X^{\mathrm c \pm},
 $$
-
----
-
-A partir de la expresión de la densidad, despejamos el volumen $V$:
-
-$$
-d = \frac{m}{V}\rightarrow V = \frac{m}{d} = \frac{0.390\thinspace\mathrm{kg}}{2390\thinspace\mathrm{kg/m^3}} = 1.632\times 10^{-4}\thinspace\mathrm{m^3} = 163.2\thinspace\mathrm{cm^3}
-$$
+donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el símbolo del elemento químico y $\mathrm c$ es la carga eléctrica del átomo (se omite en caso de ser cero ---átomo neutro).
 
 {{% /section %}}
 
