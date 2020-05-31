@@ -40,24 +40,6 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 	{{% fragment %}} <li>Los <strong>compuestos químicos</strong> se forman por la <strong>unión</strong> de dos o más <strong>átomos</strong> según una relación numérica sencilla y constante.</li> {{% /fragment %}}
 </ul>
 
----
-
-La **masa** y el **volumen** son **propiedades generales** de la materia, lo que significa que no nos permiten distinguir una sustancia de otra.
-
----
-
-### Masa
-Es la **cantidad** de materia que tiene un objeto o sistema material.
-
-{{% fragment %}} En el SI se mide en kg. {{% /fragment %}}
-
----
-
-### Volumen
-Es el **espacio** que ocupa un objeto o sistema material.
-
-{{% fragment %}} En el SI se mide en $\mathrm{m^3}$, aunque también se puede medir en L ($1\thinspace\mathrm{m^3} = 10^3\thinspace\mathrm L$). {{% /fragment %}} 
-
 {{% /section %}}
 
 ---
