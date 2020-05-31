@@ -26,13 +26,15 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Teoría atómica de Dalton
 
-En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito. Su **teoría** se basa en:
+En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito.
 
 (continúa hacia abajo)
 
 👇
 
 ---
+
+Su **teoría** se basa en:
 
 <ul>
 	{{% fragment %}} <li>La <strong>materia</strong> está <strong>formada</strong> por partículas muy pequeñas e indivisibles, llamadas <strong>átomos</strong>.</li> {{% /fragment %}}
