@@ -21,7 +21,9 @@ links:
 - icon_pack: fas
   icon: download
   name: Póster
-  url: estructura-atomica-poster.pdf  
+  url: estructura-atomica-poster.pdf
+  
+slides: estructura-atomica-2ESO-3ESO  
 ---
 
 {{% toc %}}
