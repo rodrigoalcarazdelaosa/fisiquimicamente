@@ -161,8 +161,10 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 
 ##### Resultados del experimento
 
-- La mayoría de las partìculas atravesaban la lámina de oro sin sufrir ninguna desviación.
-- Muy pocas (una de cada 10000 aproximadamente) se desviaban un ángulo mayor de unos $10^\circ$.
-- Algunas partículas (poquísimas) incluso rebotaban.
+<ul>
+	{{% fragment %}} <li>La mayoría de las partìculas atravesaban la lámina de oro sin sufrir ninguna desviación.</li> {{% /fragment %}}
+	{{% fragment %}} <li>Muy pocas (una de cada 10000 aproximadamente) se desviaban un ángulo mayor de unos $10^\circ$.</li> {{% /fragment %}}
+	{{% fragment %}} <li>Algunas partículas (poquísimas) incluso rebotaban.</li> {{% /fragment %}}
+</ul>
 
 {{% /section %}}
