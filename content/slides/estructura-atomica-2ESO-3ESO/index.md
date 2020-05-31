@@ -12,19 +12,19 @@ slides:
 
 # Estructura atómica
 
-- [Propiedades generales](#/1)
-- [Propiedades específicas](#/2)
-- [Estados de agregación](#/3)
-- [Modelo cinético-molecular](#/4)
-- [Mezclas](#/5)
+- [Teoría atómica de Dalton](#/1)
+- [El átomo](#/2)
+- [Modelos atómicos](#/3)
+- [Iones e isótopos](#/4)
+- [Masa atómica](#/5)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](materia-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](estructura-materia-diapositivas.pdf)
 
 ---
 
 {{% section %}}
 
-## Propiedades generales
+## Teoría atómica de Dalton
 
 [Masa](#/1/3) y [volumen](#/1/4)
 
