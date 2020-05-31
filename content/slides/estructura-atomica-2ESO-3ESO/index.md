@@ -192,10 +192,8 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 <ul>
 	{{% fragment %}} <li>El átomo está formado por un <strong>núcleo</strong>, muy pequeño comparado con el tamaño del átomo, con <strong>carga positiva</strong> y donde se concentra casi toda su masa.</li> {{% /fragment %}}
-	{{% fragment %}} <li>Para que las partículas se desvíen deben encontrar en su trayectoria una zona muy pequeña (<strong>núcleo</strong>) cargada <strong>positivamente</strong> donde se concentra la mayor parte de la masa del átomo.</li> {{% /fragment %}}
+	{{% fragment %}} <li>Los <strong>electrones</strong>, con carga negativa, <strong>giran alrededor</strong> del <strong>núcleo</strong> como lo hacen los planetas alrededor del Sol.</li> {{% /fragment %}}
 </ul>
-
-- Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
 
 ---
 
