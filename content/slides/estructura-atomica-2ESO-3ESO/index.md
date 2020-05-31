@@ -56,13 +56,11 @@ En la actualidad sabemos que los átomos están compuestos por:
 
 ---
 
-### Densidad
-La **densidad** $d$ de un objeto se define como la relación (cociente) entre su masa $m$ y su volumen $V$:		
-$$
-d = \frac{m}{V}
-$$
+### Núcleo
+Donde se encuentran los: 
 
-{{% fragment %}} En el SI se mide en $\mathrm{kg/m^3}$. {{% /fragment %}}
+- **Protones**: partículas con **carga** eléctrica **positiva**.
+- **Neutrones**: partículas **neutras** (sin carga eléctrica).
 
 ---
 
