@@ -98,6 +98,9 @@ $$
 A = Z + N,
 $$
 donde $N=A-Z$ es el número de neutrones.
+
+---
+
 En general un átomo se representa con la siguiente **notación**:
 $$
 ^{A}_{Z}\mathrm X^{\mathrm c \pm},
