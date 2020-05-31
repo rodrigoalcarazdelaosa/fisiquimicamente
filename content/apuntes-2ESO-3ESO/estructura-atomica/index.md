@@ -49,7 +49,7 @@ Núcleo
 Corteza electrónica
 : Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
 
-Masa y carga de las partículas que componen los átomos.
+La siguiente tabla muestra la masa y carga de las partículas que componen los átomos:
 
 | Partícula | Masa/kg | Carga/C |
 | --- | :---: | :---: |
@@ -57,18 +57,10 @@ Masa y carga de las partículas que componen los átomos.
 | Neutrón | $1.675\times 10^{-27}$ | $0$ |
 | Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
 
-		\begin{table}[htb!]
-%			\caption{Masa y carga de las partículas que componen los átomos.}
-			\label{table:m_c}
-			\centering
-			\begin{tabular}{lcc}
-				\toprule
-				\textbf{Partícula} & \textbf{Masa/\si{kg}} & \textbf{Carga/\si{C}}\\
-				\midrule
-				Protón & $1.673\times 10^{-27}$ & $1.602\times 10^{-19}$ \\
-				Neutrón & $1.675\times 10^{-27}$ & 0 \\
-				Electrón & $9,109\times 10^{-31}$ & $-1.602\times 10^{-19}$ \\								
-				\bottomrule
+$$
+m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}
+$$
+
 				\multicolumn{3}{c}{$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$} \\
 				\multicolumn{3}{c}{$q_\text{protón}=-q_\text{electrón}$}
 			\end{tabular}
