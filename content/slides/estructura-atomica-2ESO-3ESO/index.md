@@ -90,6 +90,8 @@ El **número atómico**, $Z$, es el número de **protones** que tiene un átomo 
 
 Todos los **átomos** de un **mismo elemento químico** tienen el **mismo número** de **protones** en su núcleo y por tanto el **mismo número atómico** $Z$.
 
+---
+
 ### Número másico $A$
 El **número másico**, $A$, es la **suma** de **protones** y **neutrones**, cumpliéndose por tanto:		
 $$
