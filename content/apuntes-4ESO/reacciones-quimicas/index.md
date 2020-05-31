@@ -97,9 +97,11 @@ $$
 
 {{% /alert %}}
 
-Puedes practicar más el ajuste de ecuaciones con esta **simulación**:
+Puedes practicar más el **ajuste** de **ecuaciones** con estas **simulaciones**:
 
 <iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
+<iframe src="https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Cálculos masa-masa
 
