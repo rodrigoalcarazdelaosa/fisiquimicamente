@@ -32,6 +32,11 @@ image:
 {{% toc %}}
 
 ## Teoría atómica de Dalton
+En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito. Su **teoría** se basa en:
+
+- La **materia** está **formada** por partículas muy pequeñas e indivisibles, llamadas **átomos**.
+- Los **átomos** de un **mismo elemento químico** son todos **iguales** entre sí, y distintos de los de otro elemento químico.
+- Los **compuestos químicos** se forman por la **unión** de dos o más **átomos** según una relación numérica sencilla y constante.
 
 ## El átomo
 
