@@ -200,3 +200,47 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 {{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.png" title="Modelo de Rutherford, también conocido como modelo *planetario*." lightbox="false" >}}	
 
 {{% /section %}}
+
+---
+
+{{% section }}
+
+## Iones e isótopos
+### Iones
+Un **ión** es un **átomo cargado** eléctricamente. Según su carga eléctrica sea positiva o negativa, distinguimos:
+
+Catión
+: Átomo que ha perdido/cedido electrones, adquiriendo **carga** eléctrica **positiva** al tener menos electrones que protones.
+
+Anión
+: Átomo que ha ganado/captado electrones, adquiriendo **carga** eléctrica **negativa** al tener más electrones que protones.
+
+### Isótopos
+Los **isótopos** son **átomos** del **mismo elemento químico** con **distinto número** de **neutrones** en su núcleo, y por tanto **distinto número másico** $A$.
+
+#### Isótopos radiactivos
+Los llamados **isótopos radiactivos** son aquellos isótopos que son **inestables** y tienden a **desintegrarse** espontáneamente, **emitiendo radiación** y/o **materia**, transformándose en isótopos estables de otros elementos químicos.
+
+## Masa atómica
+
+La **masa** de los **átomos** es **extremadamente pequeña** comparada con las masas de los objetos cotidianos. Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, $\mathrm u$, la cual se define como:
+
+> La unidad de masa atómica, $\mathrm{u}$, se define como la doceava parte de la masa de un átomo de $\ce{^{12}C}$, y es igual a:
+	$$
+	1\thinspace\mathrm u = 1.661\times 10^{-27}\thinspace\mathrm{kg}
+	$$
+	
+De esta forma el isótopo $\ce{^{12}C}$ tiene una masa de $12\thinspace\mathrm u$.
+
+La masa atómica que encontramos en las tablas periódicas es la media **ponderada** de los isótopos naturales de cada elemento, teniendo en cuenta su **abundancia**.
+
+Para entender mejor los **conceptos** de **isótopo** y de **masa atómica** te invito a que eches un vistazo a esta excelente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
+## Simulación
+Puedes poner en práctica todo lo que has aprendido con este **constructor de átomos**:
+
+<iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
+{{% /section }}
