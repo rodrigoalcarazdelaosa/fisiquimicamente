@@ -43,8 +43,8 @@ En la actualidad sabemos que los átomos están compuestos por:
 
 Núcleo
 : Donde se encuentran los: 
-	- Protones: partículas con **carga** eléctrica **positiva**.
-	- Neutrones: partículas **neutras** (sin carga eléctrica).
+	- **Protones**: partículas con **carga** eléctrica **positiva**.
+	- **Neutrones**: partículas **neutras** (sin carga eléctrica).
 
 Corteza electrónica
 : Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
