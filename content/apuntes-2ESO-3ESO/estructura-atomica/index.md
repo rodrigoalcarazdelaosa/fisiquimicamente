@@ -92,7 +92,7 @@ En 1897, **Thomson descubre** la existencia del **electrón**, la partícula ele
 
 En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descubre** la existencia del **núcleo** atómico:
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford.png" title="Esquema del montaje del experimento de Rutherford con el que concluyó la existencia del núcleo atómico. Las partículas alfa ($\alpha$), procedentes de un material radiactivo y con carga positiva, se aceleran y se hacen incidir sobre una lámina de oro muy delgada. Tras atravesar la lámina, las partículas $\alpha$ chocan contra una pantalla recubierta interiormente de sulfuro de zinc (ZnS), produciéndose un destello. Fuente: [http://teoteojavapa.blogspot.com/2012/04/modelo-atomico-de-rutherford.html](http://teoteojavapa.blogspot.com/2012/04/modelo-atomico-de-rutherford.html)." lightbox="true" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford.jpg" title="Esquema del montaje del experimento de Rutherford con el que concluyó la existencia del núcleo atómico. Las partículas alfa ($\alpha$), procedentes de un material radiactivo y con carga positiva, se aceleran y se hacen incidir sobre una lámina de oro muy delgada. Tras atravesar la lámina, las partículas $\alpha$ chocan contra una pantalla recubierta interiormente de sulfuro de zinc (ZnS), produciéndose un destello. Fuente: [http://teoteojavapa.blogspot.com/2012/04/modelo-atomico-de-rutherford.html](http://teoteojavapa.blogspot.com/2012/04/modelo-atomico-de-rutherford.html)." lightbox="true" >}}
 
 Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
 
