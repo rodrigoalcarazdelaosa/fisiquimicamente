@@ -197,6 +197,6 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ---
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.png" title="Modelo de Rutherford, también conocido como modelo *planetario*." lightbox="true" >}}	
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.png" title="Modelo de Rutherford, también conocido como modelo *planetario*." lightbox="false" >}}	
 
 {{% /section %}}
