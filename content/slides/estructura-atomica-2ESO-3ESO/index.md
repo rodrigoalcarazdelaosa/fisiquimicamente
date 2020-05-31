@@ -81,7 +81,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 
 ---
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono-11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de [burlesonmatthew](https://pixabay.com/es/users/burlesonmatthew-3904514/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="60%">}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono-11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de [burlesonmatthew](https://pixabay.com/es/users/burlesonmatthew-3904514/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="50%">}}
 
 ---
 
