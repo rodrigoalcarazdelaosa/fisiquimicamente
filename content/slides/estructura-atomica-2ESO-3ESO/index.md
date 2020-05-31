@@ -46,7 +46,7 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 
 {{% section %}}
 
-## Propiedades específicas: [densidad](#/2/1)
+## El átomo
 
 Las **propiedades específicas** o **características** de la materia son aquellas que nos permiten distinguir una sustancia de otra.
 
