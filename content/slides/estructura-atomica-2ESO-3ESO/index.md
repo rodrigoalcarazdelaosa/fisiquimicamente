@@ -222,6 +222,8 @@ Catión
 Anión
 : Átomo que ha ganado/captado electrones, adquiriendo **carga** eléctrica **negativa** al tener más electrones que protones.
 
+---
+
 ### Isótopos
 Los **isótopos** son **átomos** del **mismo elemento químico** con **distinto número** de **neutrones** en su núcleo, y por tanto **distinto número másico** $A$.
 
