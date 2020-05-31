@@ -88,7 +88,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 ### Número atómico $Z$
 El **número atómico**, $Z$, es el número de **protones** que tiene un átomo en su núcleo.
 
-Todos los **átomos** de un **mismo elemento químico** tienen el **mismo número** de **protones** en su núcleo y por tanto el **mismo número atómico** $Z$.
+{{% fragment %}}Todos los **átomos** de un **mismo elemento químico** tienen el **mismo número** de **protones** en su núcleo y por tanto el **mismo número atómico** $Z$.{{% /fragment %}}
 
 ---
 
