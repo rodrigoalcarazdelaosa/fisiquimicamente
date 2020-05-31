@@ -113,6 +113,13 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 <iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
+#### Características del modelo de Rutherford
+
+- El átomo está formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su masa.
+- Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
+
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.png" title="Modelo de Rutherford, también conocido como modelo *planetario*." lightbox="true" >}}		
+
 ## Iones e isótopos
 ### Iones
 ### Isótopos
