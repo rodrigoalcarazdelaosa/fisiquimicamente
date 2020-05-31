@@ -26,6 +26,8 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Teoría atómica de Dalton
 
+En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito. Su **teoría** se basa en:
+
 (continúa hacia abajo)
 
 👇
