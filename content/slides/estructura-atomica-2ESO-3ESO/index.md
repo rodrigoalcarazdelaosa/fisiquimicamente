@@ -247,7 +247,7 @@ La **masa** de los **átomos** es **extremadamente pequeña** comparada con las 
 
 Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, $\mathrm u$, la cual se define como:
 
-> La unidad de masa atómica, $\mathrm{u}$, se define como la doceava parte de la masa de un átomo de $^{12}\mathrm C}$, y es igual a:
+> La unidad de masa atómica, $\mathrm{u}$, se define como la doceava parte de la masa de un átomo de <sup>12</sup>\mathrm C}$, y es igual a:
 	$$
 	1\thinspace\mathrm u = 1.661\times 10^{-27}\thinspace\mathrm{kg}
 	$$
