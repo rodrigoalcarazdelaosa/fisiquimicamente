@@ -178,7 +178,6 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 <ul>
 	{{% fragment %}} <li>Si el modelo propuesto por Thomson fuera cierto no deberían observarse desviaciones ni rebotes de las partículas incidentes.</li> {{% /fragment %}}
 	{{% fragment %}} <li>Para que las partículas se desvíen deben encontrar en su trayectoria una zona muy pequeña (<strong>núcleo</strong>) cargada <strong>positivamente</strong> donde se concentra la mayor parte de la masa del átomo.</li> {{% /fragment %}}
-	{{% fragment %}}
 </ul>
 
 {{% /section %}}
