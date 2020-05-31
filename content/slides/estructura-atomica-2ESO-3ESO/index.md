@@ -134,9 +134,7 @@ En 1897, **Thomson descubre** la existencia del **electrón**, la partícula ele
 Postula un modelo que se conoce como el modelo del *pastel de pasas*:
 
 <ul>
-	{{% fragment %}} <li>
-		
-		El átomo está formado por una *nube* esférica con **carga positiva**.
+	{{% fragment %}} <li>El átomo está formado por una <emph>nube</emph> esférica con **carga positiva**.
 	
 	</li> {{% /fragment %}}
 	{{% fragment %}} <li>Los <strong>átomos</strong> de un <strong>mismo elemento químico</strong> son todos <strong>iguales</strong> entre sí, y distintos de los de otro elemento químico.</li> {{% /fragment %}}
