@@ -79,7 +79,7 @@ $$
 donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el símbolo del elemento químico y $\mathrm c$ es la carga eléctrica del átomo (se omite en caso de ser cero ---átomo neutro).
 
 ## Modelos atómicos
-### Modelo de Dalton
+### Modelo de Thomson
 En 1897, **Thomson descubre** la existencia del **electrón**, la partícula elemental con **carga** eléctrica **negativa**. Postula un modelo que se conoce como el modelo del *pastel de pasas*:
 
 \begin{columns}[t]
