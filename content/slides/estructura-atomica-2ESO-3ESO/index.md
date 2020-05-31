@@ -203,7 +203,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ---
 
-{{% section }}
+{{% section %}}
 
 ## Iones e isótopos
 ### Iones
@@ -243,4 +243,4 @@ Puedes poner en práctica todo lo que has aprendido con este **constructor de á
 
 <iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
-{{% /section }}
+{{% /section %}}
