@@ -143,4 +143,8 @@ Postula un modelo que se conoce como el modelo del *pastel de pasas*:
 
 {{< figure library="true" src="estructura-atomica-2ESO-3ESO/Thomson.png" title="Modelo de Thomson, también conocido como modelo del *pastel de pasas*." lightbox="false" >}}
 
+---
+
+### Modelo de Rutherford
+
 {{% /section %}}
