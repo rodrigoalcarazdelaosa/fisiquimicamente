@@ -80,6 +80,28 @@ donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el 
 
 ## Modelos atómicos
 ### Modelo de Dalton
+En 1897, **Thomson descubre** la existencia del **electrón**, la partícula elemental con **carga** eléctrica **negativa**. Postula un modelo que se conoce como el modelo del *pastel de pasas*:
+
+\begin{columns}[t]
+	
+	\column{.45\textwidth}
+	\begin{itemize}
+		\item El átomo está formado por una \emph{nube} esférica con \textbf{carga positiva}.
+		\item Los \textbf{electrones}, con carga negativa, se encuentran \textbf{incrustados} por toda la esfera, como las \textbf{pasas} en un pastel.
+		\item El número total de electrones es tal que la carga neta del átomo es cero (\textbf{átomo neutro}).
+	\end{itemize}
+	
+	\column{.0333\textwidth}
+	\column{.45\textwidth}
+	\begin{figure}[htbp]
+		\centering
+			\includegraphics[width=.7\textwidth]{Thomson}
+		\caption{Modelo de Thomson, también conocido como modelo del \emph{pastel de pasas}.}
+		\label{fig:Thomson}
+	\end{figure}
+	
+\end{columns}		
+
 ### Modelo de Rutherford
 
 ## Iones e isótopos
