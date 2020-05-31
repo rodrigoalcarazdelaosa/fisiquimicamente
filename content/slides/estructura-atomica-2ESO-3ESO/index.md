@@ -81,10 +81,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 
 ---
 
-Lo primero que tenemos que hacer es _**homogeneizar**_ las unidades. Podemos convertir el volumen, $0.5\thinspace\mathrm L$, en $\mathrm{cm^3}$:
-$$
-0.5\thinspace\mathrm L\cdot \frac{1\thinspace\mathrm{dm^3}}{1\thinspace\mathrm L}\cdot \frac{10^3\thinspace\mathrm{cm^3}}{1\thinspace\mathrm{dm^3}} = 500\thinspace\mathrm{cm^3}
-$$
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono-11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de [burlesonmatthew](https://pixabay.com/es/users/burlesonmatthew-3904514/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" >}}
 
 ---
 
