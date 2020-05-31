@@ -34,14 +34,11 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 
 ---
 
-<dl>
-<dt>Materia</dt>
-<dd>Todo lo que tiene <strong>masa</strong> y ocupa un <strong>volumen</strong>.</dd>
-{{% fragment %}}<dt>Sistema material</dt>{{% /fragment %}}
-{{% fragment %}}<dd>Porción de materia confinada en una región del espacio.</dd>{{% /fragment %}}
-{{% fragment %}}<dt>Sustancia</dt>{{% /fragment %}}
-{{% fragment %}}<dd>Forma de materia que tiene una composición química y unas propiedades características determinadas.</dd>{{% /fragment %}}
-</dl>
+<ul>
+	{{% fragment %}} <li>La <strong>materia</strong> está <strong>formada</strong> por partículas muy pequeñas e indivisibles, llamadas <strong>átomos</strong>.</li> {{% /fragment %}}
+	{{% fragment %}} <li>Los <strong>átomos</strong> de un <strong>mismo elemento químico</strong> son todos <strong>iguales</strong> entre sí, y distintos de los de otro elemento químico.</li> {{% /fragment %}}
+	{{% fragment %}} <li>Los <strong>compuestos químicos</strong> se forman por la <strong>unión</strong> de dos o más <strong>átomos</strong> según una relación numérica sencilla y constante.</li> {{% /fragment %}}
+</ul>
 
 ---
 
