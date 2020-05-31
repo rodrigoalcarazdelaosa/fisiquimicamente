@@ -49,6 +49,41 @@ Núcleo
 Corteza electrónica
 : Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
 
+| Partícula | Masa/kg | Carga/C |
+| --- | --- | --- |
+| Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
+
+		\begin{table}[htb!]
+%			\caption{Masa y carga de las partículas que componen los átomos.}
+			\label{table:m_c}
+			\centering
+			\begin{tabular}{lcc}
+				\toprule
+				\textbf{Partícula} & \textbf{Masa/\si{kg}} & \textbf{Carga/\si{C}}\\
+				\midrule
+				Protón & $1.673\times 10^{-27}$ & $1.602\times 10^{-19}$ \\
+				Neutrón & $1.675\times 10^{-27}$ & 0 \\
+				Electrón & $9,109\times 10^{-31}$ & $-1.602\times 10^{-19}$ \\								
+				\bottomrule
+				\multicolumn{3}{c}{$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$} \\
+				\multicolumn{3}{c}{$q_\text{protón}=-q_\text{electrón}$}
+			\end{tabular}
+		\end{table}
+		
+		\column{.0333\textwidth}
+	
+			\column{.45\textwidth}
+			\begin{figure}[htbp]
+				\centering
+					\includegraphics[width=\textwidth]{atomo-C}
+				\caption{Representación de un átomo neutro de carbono-11 (\ce{^{11}_6 C}), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de \href{https://pixabay.com/es/users/burlesonmatthew-3904514/}{burlesonmatthew} en \href{https://pixabay.com/es/}{Pixabay}.}
+				\label{fig:atomo-C}
+			\end{figure}
+		\end{columns}	
+
+### Número atómico $Z$
+### Número másico $A$
+
 ## Modelos atómicos
 ### Modelo de Dalton
 ### Modelo de Rutherford
