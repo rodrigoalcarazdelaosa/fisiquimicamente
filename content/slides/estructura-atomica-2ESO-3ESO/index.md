@@ -233,7 +233,11 @@ Los **isótopos** son **átomos** del **mismo elemento químico** con **distinto
 #### Isótopos radiactivos
 Los llamados **isótopos radiactivos** son aquellos isótopos que son **inestables** y tienden a **desintegrarse** espontáneamente, **emitiendo radiación** y/o **materia**, transformándose en isótopos estables de otros elementos químicos.
 
+{{% /section %}}
+
 ---
+
+{{% section %}}
 
 ## Masa atómica
 
