@@ -76,7 +76,7 @@ En general un átomo se representa con la siguiente **notación**:
 $$
 ^{A}_{Z}\mathrm X^{\mathrm c \pm},
 $$
-donde $A$ es el número másico, $Z$ es el número atómico, $\ce{X}$ es el símbolo del elemento químico y $\mathrm c$ es la carga eléctrica del átomo (se omite en caso de ser cero ---átomo neutro).
+donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el símbolo del elemento químico y $\mathrm c$ es la carga eléctrica del átomo (se omite en caso de ser cero ---átomo neutro).
 
 ## Modelos atómicos
 ### Modelo de Dalton
