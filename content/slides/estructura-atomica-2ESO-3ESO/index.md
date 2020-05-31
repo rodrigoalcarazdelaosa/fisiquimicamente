@@ -217,8 +217,8 @@ Un **ión** es un **átomo cargado** eléctricamente.
 Según su carga eléctrica sea positiva o negativa, distinguimos:
 
 <dl>
-<dt>Catión</dt>
-<dd>Átomo que ha perdido/cedido electrones, adquiriendo <strong>carga</strong> eléctrica <strong>positiva</strong> al tener menos electrones que protones.</dd>
+{{% fragment %}}<dt>Catión</dt>{{% /fragment %}}
+{{% fragment %}}<dd>Átomo que ha perdido/cedido electrones, adquiriendo <strong>carga</strong> eléctrica <strong>positiva</strong> al tener menos electrones que protones.</dd>{{% /fragment %}}
 {{% fragment %}}<dt>Anión</dt>{{% /fragment %}}
 {{% fragment %}}<dd>Átomo que ha ganado/captado electrones, adquiriendo <strong>carga</strong> eléctrica <strong>negativa</strong> al tener más electrones que protones.</dd>{{% /fragment %}}
 </dl>
