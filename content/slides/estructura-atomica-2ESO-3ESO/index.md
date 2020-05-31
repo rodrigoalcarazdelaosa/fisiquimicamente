@@ -241,7 +241,11 @@ Los llamados **isótopos radiactivos** son aquellos isótopos que son **inestabl
 
 ## Masa atómica
 
-La **masa** de los **átomos** es **extremadamente pequeña** comparada con las masas de los objetos cotidianos. Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, $\mathrm u$, la cual se define como:
+La **masa** de los **átomos** es **extremadamente pequeña** comparada con las masas de los objetos cotidianos.
+
+---
+
+Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, $\mathrm u$, la cual se define como:
 
 > La unidad de masa atómica, $\mathrm{u}$, se define como la doceava parte de la masa de un átomo de $\ce{^{12}C}$, y es igual a:
 	$$
