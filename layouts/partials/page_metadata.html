@@ -43,9 +43,11 @@
   <span class="article-reading-time">
     {{ $page.ReadingTime }} {{ i18n "minute_read" }}
   </span>
-  {{ end }}
+  {{ end }}   
     
   {{/* Show kudos count. */}}
+  {{ $disqus_enabled := eq site.Params.comments.engine 1 | and (index site.Params.comments.commentable $page.Type) | and (ne $page.Params.commentable false) | or $page.Params.commentable }}
+  {{ if and $disqus_enabled (site.Params.comments.disqus.show_count | default true) }}
   <span class="middot-divider"></span>
 	  <span class="clap" data-url="{{ $page.Permalink }}">	  
 		 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 60 60">
@@ -95,13 +97,14 @@
 				 loadClapCount();
 			  </script>
   <!-- <i class="fas fa-heart mr-1"></i> -->
+    {{ end }}
 
   {{/* Show Disqus comment count if enabled. */}}
   {{ $disqus_enabled := eq site.Params.comments.engine 1 | and (index site.Params.comments.commentable $page.Type) | and (ne $page.Params.commentable false) | or $page.Params.commentable }}
   {{ if and $disqus_enabled (site.Params.comments.disqus.show_count | default true) }}
   <span class="middot-divider"></span>
   <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
-  {{ end}}
+  {{ end }}
 
   {{ $taxonomy := "categories" }}
   {{ if $page.Param $taxonomy }}
