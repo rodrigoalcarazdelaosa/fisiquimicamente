@@ -252,7 +252,7 @@ Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica
 	1\thinspace\mathrm u = 1.661\times 10^{-27}\thinspace\mathrm{kg}
 	$$
 	
-De esta forma el isótopo $\ce{^{12}C}$ tiene una masa de $12\thinspace\mathrm u$.
+De esta forma el isótopo $^{12}\mathrm C$ tiene una masa de $12\thinspace\mathrm u$.
 
 ---
 
