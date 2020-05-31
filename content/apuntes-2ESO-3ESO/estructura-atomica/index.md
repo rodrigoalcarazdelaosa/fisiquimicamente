@@ -100,6 +100,10 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ## Masa atómica
 
+Para ello te invito a que eches un vistazo a esta excelente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Simulación
 Puedes poner en práctica todo lo que has aprendido con este **constructor de átomos**:
 
