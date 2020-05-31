@@ -17,6 +17,7 @@ slides:
 - [Modelos atómicos](#/3)
 - [Iones e isótopos](#/4)
 - [Masa atómica](#/5)
+- [Constructor de átomos](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](estructura-materia-diapositivas.pdf)
 
