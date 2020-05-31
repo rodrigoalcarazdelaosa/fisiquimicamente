@@ -142,7 +142,7 @@ La **masa** de los **átomos** es **extremadamente pequeña** comparada con las 
 
 > La unidad de masa atómica, $\mathrm{u}$, se define como la doceava parte de la masa de un átomo de $\ce{^{12}C}$, y es igual a:
 	$$
-	1\thinspace\mathrm u = \SI{1.661e-27}{kg}
+	1\thinspace\mathrm u = 1.661e-27\thinspace\mathrm{kg}
 	$$
 	
 De esta forma el isótopo \ce{^{12}C} tiene una masa de \SI{12}{u}.
