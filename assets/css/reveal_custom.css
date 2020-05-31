@@ -33,6 +33,11 @@ body {
 /*********************************************
  * OTHER
  *********************************************/
+.reveal blockquote {
+background: rgba(255, 255, 255, 0.05);
+box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); 
+border: $black; }
+  
 .reveal pre {
   font-family: "Inconsolata", monospace; }
 
