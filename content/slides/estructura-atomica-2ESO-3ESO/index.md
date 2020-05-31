@@ -207,6 +207,11 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ## Iones e isótopos
 
+(continúa hacia abajo)
+
+👇
+
+
 ---
 
 ### Iones
