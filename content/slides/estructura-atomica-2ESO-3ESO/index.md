@@ -48,7 +48,7 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 
 ## El átomo
 
-Las **propiedades específicas** o **características** de la materia son aquellas que nos permiten distinguir una sustancia de otra.
+En la actualidad sabemos que los átomos están compuestos por:
 
 (continúa hacia abajo)
 
