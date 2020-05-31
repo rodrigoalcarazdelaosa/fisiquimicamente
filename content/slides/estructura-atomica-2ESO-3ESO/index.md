@@ -19,7 +19,7 @@ slides:
 - [Masa atómica](#/5)
 - [Constructor de átomos](#/6)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](estructura-materia-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](estructura-atomica-diapositivas.pdf)
 
 ---
 
