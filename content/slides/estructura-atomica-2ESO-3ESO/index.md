@@ -260,9 +260,7 @@ La masa atómica que encontramos en las tablas periódicas es la media **pondera
 
 ---
 
-Para entender mejor los **conceptos** de **isótopo** y de **masa atómica** te invito a que eches un vistazo a esta excelente **simulación**:
-
-<iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="666.666" height="500" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
 ---
 
