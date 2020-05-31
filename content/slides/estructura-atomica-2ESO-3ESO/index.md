@@ -113,12 +113,10 @@ donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el 
 
 {{% section %}}
 
-## Estados de agregación
+## Modelos atómicos
 
-- [Sólido](#/3/2)
-- [Líquido](#/3/3)
-- [Gaseoso](#/3/4)
-- [Cambios de estado](#/3/5)
+- [Thomson](#/3/2)
+- [Rutherford](#/3/3)
 
 (continúa hacia abajo)
 
