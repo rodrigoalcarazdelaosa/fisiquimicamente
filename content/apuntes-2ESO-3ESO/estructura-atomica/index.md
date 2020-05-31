@@ -50,6 +50,7 @@ Corteza electrónica
 : Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
 
 Masa y carga
+
 | Partícula | Masa/kg | Carga/C |
 | --- | :---: | :---: |
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
