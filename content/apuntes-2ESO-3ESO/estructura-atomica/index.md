@@ -39,6 +39,18 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 - Los **compuestos químicos** se forman por la **unión** de dos o más **átomos** según una relación numérica sencilla y constante.
 
 ## El átomo
+En la actualidad sabemos que los átomos están compuestos por:
+
+Núcleo
+: Donde se encuentran los: 
+	Protones
+	: Partículas con **carga** eléctrica **positiva**.
+	
+	Neutrones
+	: Partículas **neutras** (sin carga eléctrica).
+
+Corteza electrónica
+: Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
 
 ## Modelos atómicos
 ### Modelo de Dalton
