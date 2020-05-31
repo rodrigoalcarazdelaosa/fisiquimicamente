@@ -180,4 +180,10 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 	{{% fragment %}} <li>Para que las partículas se desvíen deben encontrar en su trayectoria una zona muy pequeña (<strong>núcleo</strong>) cargada <strong>positivamente</strong> donde se concentra la mayor parte de la masa del átomo.</li> {{% /fragment %}}
 </ul>
 
+---
+
+Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
 {{% /section %}}
