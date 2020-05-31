@@ -74,7 +74,7 @@ $$
 donde $N=A-Z$ es el número de neutrones.
 En general un átomo se representa con la siguiente **notación**:
 $$
-\ce{^{$A$}_{$Z$}X^{\mathrm c \pm}},
+^{A}_{Z}\mathrm X^{\mathrm c \pm},
 $$
 donde $A$ es el número másico, $Z$ es el número atómico, $\ce{X}$ es el símbolo del elemento químico y $\mathrm c$ es la carga eléctrica del átomo (se omite en caso de ser cero ---átomo neutro).
 
