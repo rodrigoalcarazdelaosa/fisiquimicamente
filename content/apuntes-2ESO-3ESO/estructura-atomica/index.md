@@ -131,6 +131,9 @@ Anión
 : Átomo que ha ganado/captado electrones, adquiriendo carga eléctrica **negativa** al tener más electrones que protones.
 
 ### Isótopos
+Los **isótopos** son **átomos** del **mismo elemento químico** con **distinto número** de **neutrones** en su núcleo, y por tanto **distinto número másico** $A$.
+
+Los llamados \textbf{isótopos radiactivos} son aquellos isótopos que son \textbf{inestables} y tienden a \textbf{desintegrarse} espontáneamente, \textbf{emitiendo radiación} y/o \textbf{materia}, transformándose en isótopos estables de otros elementos químicos.
 
 ## Masa atómica
 
