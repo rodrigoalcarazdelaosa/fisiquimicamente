@@ -49,7 +49,7 @@ Núcleo
 Corteza electrónica
 : Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
 
-Masa y carga
+Masa y carga de las partículas que componen los átomos.
 
 | Partícula | Masa/kg | Carga/C |
 | --- | :---: | :---: |
