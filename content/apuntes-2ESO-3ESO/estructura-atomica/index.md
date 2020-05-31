@@ -138,6 +138,16 @@ Los llamados **isótopos radiactivos** son aquellos isótopos que son **inestabl
 
 ## Masa atómica
 
+La **masa** de los **átomos** es **extremadamente pequeña** comparada con las masas de los objetos cotidianos. Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, $\mathrm u$, la cual se define como:
+
+> La unidad de masa atómica, $\mathrm{u}$, se define como la doceava parte de la masa de un átomo de $\ce{^{12}C}$, y es igual a:
+	$$
+	\SI{1}{u} = \SI{1.661e-27}{kg}
+	$$
+De esta forma el isótopo \ce{^{12}C} tiene una masa de \SI{12}{u}.
+
+La masa atómica que encontramos en las tablas periódicas es la media\textbf{ ponderada} de los isótopos naturales de cada elemento, teniendo en cuenta su \textbf{abundancia}.
+
 Para ello te invito a que eches un vistazo a esta excelente **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
