@@ -167,4 +167,15 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 	{{% fragment %}} <li>Algunas partículas (poquísimas) incluso rebotaban.</li> {{% /fragment %}}
 </ul>
 
+---
+
+##### Interpretación del experimento
+
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford-detalle.png" title="Conclusiones del experimento de Rutherford." lightbox="false" >}}
+
+---
+
+- Si el modelo propuesto por Thomson fuera cierto no deberían observarse desviaciones ni rebotes de las partículas incidentes.
+- Para que las partículas se desvíen deben encontrar en su trayectoria una zona muy pequeña (**núcleo**) cargada **positivamente** donde se concentra la mayor parte de la masa del átomo.
+
 {{% /section %}}
