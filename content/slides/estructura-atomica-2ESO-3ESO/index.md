@@ -211,7 +211,6 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 👇
 
-
 ---
 
 ### Iones
