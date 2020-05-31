@@ -122,6 +122,14 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ## Iones e isótopos
 ### Iones
+Un **ión** es un **átomo cargado** eléctricamente. Según su carga eléctrica sea positiva o negativa, distinguimos:
+
+Catión
+: Átomo que ha perdido/cedido electrones, adquiriendo carga eléctrica **positiva** al tener menos electrones que protones.
+
+Anión
+: Átomo que ha ganado/captado electrones, adquiriendo carga eléctrica **negativa** al tener más electrones que protones.
+
 ### Isótopos
 
 ## Masa atómica
