@@ -36,7 +36,11 @@ image:
 ## El átomo
 
 ## Modelos atómicos
+### Modelo de Dalton
+### Modelo de Rutherford
 
 ## Iones e isótopos
+### Iones
+### Isótopos
 
 ## Masa atómica
