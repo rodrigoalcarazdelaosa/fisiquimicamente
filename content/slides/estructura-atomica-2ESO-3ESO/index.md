@@ -147,4 +147,10 @@ Postula un modelo que se conoce como el modelo del *pastel de pasas*:
 
 ### Modelo de Rutherford
 
+---
+
+#### Experimento de la lámina de oro
+
+En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descubre** la existencia del **núcleo** atómico:
+
 {{% /section %}}
