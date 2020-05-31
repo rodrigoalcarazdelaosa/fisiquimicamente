@@ -264,6 +264,8 @@ Para entender mejor los **conceptos** de **isótopo** y de **masa atómica** te 
 
 <iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="666.666" height="500" scrolling="no" allowfullscreen></iframe>
 
+---
+
 ## Simulación
 Puedes poner en práctica todo lo que has aprendido con este **constructor de átomos**:
 
