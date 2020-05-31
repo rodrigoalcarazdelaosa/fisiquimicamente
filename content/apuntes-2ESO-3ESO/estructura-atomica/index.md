@@ -59,7 +59,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 <td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
 <td colspan=3>$q_\text{protón}=-q_\text{electrón}$
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono-11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de [burlesonmatthew](https://pixabay.com/es/users/burlesonmatthew-3904514/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}									
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono-11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de [burlesonmatthew](https://pixabay.com/es/users/burlesonmatthew-3904514/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 ### Número atómico $Z$
 El **número atómico**, $Z$, es el número de **protones** que tiene un átomo en su núcleo.
@@ -85,17 +85,8 @@ En 1897, **Thomson descubre** la existencia del **electrón**, la partícula ele
 - El átomo está formado por una *nube* esférica con **carga positiva**.
 - Los **electrones**, con carga negativa, se encuentran **incrustados** por toda la esfera, como las **pasas** en un pastel.
 - El número total de electrones es tal que la carga neta del átomo es cero (**átomo neutro**).
-	
-	\column{.0333\textwidth}
-	\column{.45\textwidth}
-	\begin{figure}[htbp]
-		\centering
-			\includegraphics[width=.7\textwidth]{Thomson}
-		\caption{Modelo de Thomson, también conocido como modelo del \emph{pastel de pasas}.}
-		\label{fig:Thomson}
-	\end{figure}
-	
-\end{columns}		
+
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Thomson.png" title="Modelo de Thomson, también conocido como modelo del *pastel de pasas*." lightbox="true" >}}
 
 ### Modelo de Rutherford
 
