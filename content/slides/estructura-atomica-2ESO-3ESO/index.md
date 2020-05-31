@@ -118,8 +118,8 @@ donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el 
 
 ## Modelos atómicos
 
-- [Thomson](#/3/2)
-- [Rutherford](#/3/3)
+- [Thomson](#/3/1)
+- [Rutherford](#/3/4)
 
 (continúa hacia abajo)
 
