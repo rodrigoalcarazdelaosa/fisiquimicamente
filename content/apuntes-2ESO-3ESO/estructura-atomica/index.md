@@ -52,7 +52,7 @@ Corteza electrónica
 | Partícula | Masa/kg | Carga/C |
 | --- | --- | --- |
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
-| Neutrón | $1.675\times 10^{-27}$ | $0$ |
+| Neutrón | $1.675\times 10^{-27}$ | 0 |
 
 		\begin{table}[htb!]
 %			\caption{Masa y carga de las partículas que componen los átomos.}
