@@ -98,6 +98,10 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 
 ##### Resultados del experimento
 
+- La mayoría de las partìculas atravesaban la lámina de oro sin sufrir ninguna desviación.
+- Muy pocas (una de cada 10000 aproximadamente) se desviaban un ángulo mayor de unos $10\thinspace^\circ$.
+- Algunas partículas (poquísimas) incluso rebotaban.
+
 Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
