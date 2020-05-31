@@ -78,11 +78,6 @@ $$
 $$
 donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el símbolo del elemento químico y $\mathrm c$ es la carga eléctrica del átomo (se omite en caso de ser cero ---átomo neutro).
 
-### Simulación
-Puedes jugar a **construir átomos** con la siguiente **simulación**:
-
-<iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
-
 ## Modelos atómicos
 ### Modelo de Thomson
 En 1897, **Thomson descubre** la existencia del **electrón**, la partícula elemental con **carga** eléctrica **negativa**. Postula un modelo que se conoce como el modelo del *pastel de pasas*:
@@ -104,3 +99,8 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 ### Isótopos
 
 ## Masa atómica
+
+## Simulación
+Puedes poner en práctica todo lo que has aprendido con este **constructor de átomos**:
+
+<iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
