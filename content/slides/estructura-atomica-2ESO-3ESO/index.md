@@ -64,7 +64,8 @@ Donde se encuentran los:
 
 ---
 
-#### Ejemplos
+### Corteza electrónica
+Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
 
 ---
 
