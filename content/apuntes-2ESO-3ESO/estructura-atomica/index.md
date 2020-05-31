@@ -1,7 +1,7 @@
 ---
 title: Estructura atómica
-subtitle: Modelos atómicos, átomos y moléculas
-summary: "`PRÓXIMAMENTE` <br> Modelos atómicos, átomos y moléculas."
+subtitle: Teoría atómica de Dalton, modelos atómicos, iones e isótopos
+summary: "Teoría atómica de Dalton, modelos atómicos, iones e isótopos."
 tags:
 - 2º ESO
 - 3º ESO
@@ -29,8 +29,6 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-Apuntes sobre estructura atómica y uniones entre átomos, en formato texto y póster (tipo _chuleta_).
+{{% toc %}}
 
-{{% alert note %}}
-Próximamente...
-{{% /alert %}}
+## 
