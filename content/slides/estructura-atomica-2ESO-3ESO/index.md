@@ -155,6 +155,6 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 
 ---
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford.jpg" title="Fuente: [http://teoteojavapa.blogspot.com/2012/04/modelo-atomico-de-rutherford.html](http://teoteojavapa.blogspot.com/2012/04/modelo-atomico-de-rutherford.html)." lightbox="false" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford.jpg" title="[http://teoteojavapa.blogspot.com/2012/04/modelo-atomico-de-rutherford.html](http://teoteojavapa.blogspot.com/2012/04/modelo-atomico-de-rutherford.html)." lightbox="false" >}}
 
 {{% /section %}}
