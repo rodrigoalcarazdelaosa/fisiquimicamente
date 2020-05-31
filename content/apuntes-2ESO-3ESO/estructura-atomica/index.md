@@ -53,6 +53,7 @@ Corteza electrónica
 | --- | :---: | :---: |
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutrón | $1.675\times 10^{-27}$ | $0$ |
+| Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
 
 		\begin{table}[htb!]
 %			\caption{Masa y carga de las partículas que componen los átomos.}
