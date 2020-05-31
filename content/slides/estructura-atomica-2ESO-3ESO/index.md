@@ -136,12 +136,8 @@ Postula un modelo que se conoce como el modelo del *pastel de pasas*:
 <ul>
 	{{% fragment %}} <li>El átomo está formado por una <em>nube</em> esférica con <strong>carga positiva</strong>.</li> {{% /fragment %}}
 	{{% fragment %}} <li>Los <strong>electrones</strong>, con carga negativa, se encuentran <strong>incrustados</strong> por toda la esfera, como las <strong>pasas</strong> en un pastel.</li> {{% /fragment %}}
-	{{% fragment %}} <li>Los <strong>compuestos químicos</strong> se forman por la <strong>unión</strong> de dos o más <strong>átomos</strong> según una relación numérica sencilla y constante.</li> {{% /fragment %}}
+	{{% fragment %}} <li>El número total de electrones es tal que la carga neta del átomo es cero (<strong>átomo neutro</strong>).</li> {{% /fragment %}}
 </ul>
-
-- 
-- 
-- El número total de electrones es tal que la carga neta del átomo es cero (**átomo neutro**).
 
 ---
 
