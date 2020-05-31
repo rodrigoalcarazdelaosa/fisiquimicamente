@@ -90,6 +90,10 @@ En 1897, **Thomson descubre** la existencia del **electrón**, la partícula ele
 
 ### Modelo de Rutherford
 
+Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Iones e isótopos
 ### Iones
 ### Isótopos
