@@ -262,7 +262,11 @@ La masa atómica que encontramos en las tablas periódicas es la media **pondera
 
 <iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
+{{% /section %}}
+
 ---
+
+{{% section %}}
 
 ## Constructor de átomos
 
