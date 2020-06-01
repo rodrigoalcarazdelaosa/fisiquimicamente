@@ -36,7 +36,7 @@ height = "calc(100vh - 70px)"
   
 [[item]]
   title = "Recursos EBAU"
-  content = "[Exámenes](recursos-ebau/#examenes-fisica) | [Consejos](recursos-ebau/#consejos)"
+  content = "[Exámenes resueltos](recursos-ebau/#examenes-fisica) | [Consejos](recursos-ebau/#consejos)"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
