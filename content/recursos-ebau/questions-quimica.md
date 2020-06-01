@@ -10,7 +10,7 @@ subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enr
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "examenes-EBAU-quimica"
+  page_type = "preguntas-EBAU-quimica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
