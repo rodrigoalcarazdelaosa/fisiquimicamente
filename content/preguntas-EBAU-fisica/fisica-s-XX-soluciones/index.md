@@ -1,6 +1,6 @@
 ---
 title: Física del s. XX
-summary: "`SOLUCIONES`"
+summary:
 tags:
 - 2º Bach
 - física-s-XX
