@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "📝 Exámenes"
-subtitle = "Química"
+subtitle = "Química [📁](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLZURrWUxoaDJucGM)"
 
 [content]
   # Page type to display. E.g. project.
