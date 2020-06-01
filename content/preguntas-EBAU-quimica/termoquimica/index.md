@@ -11,6 +11,6 @@ categories:
 external_link: "https://drive.google.com/file/d/0B6t6-aLmKtoLSkttaVE3UTEyM0k/view"
 
 image:
-  caption: Imagen de [**Tomislav Jakupec**](https://pixabay.com/es/users/tommyvideo-3092371/) en [Pixabay](https://pixabay.com/es/)
+  caption: Foto de [**Patrick Hendry**](https://unsplash.com/@worldsbetweenlines) en [Unsplash](https://pixabay.com/es/)
   focal_point: Smart
 ---
