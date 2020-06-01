@@ -50,4 +50,4 @@ subtitle = "Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-c
  css_class = ""
 +++
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=0B6t6-aLmKtoLfmxCQTgtcks3N0diU0ptbnBEMlUyeVoyV18yMlNGODF5dFNaY201UkdyVDA#grid" style="width:100%; height:600px; border:0;"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=0B6t6-aLmKtoLfmxCQTgtcks3N0diU0ptbnBEMlUyeVoyV18yMlNGODF5dFNaY201UkdyVDA#grid" style="width:100%; height:500px; border:0;"></iframe>
