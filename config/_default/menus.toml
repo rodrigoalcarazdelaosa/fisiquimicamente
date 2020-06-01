@@ -52,10 +52,16 @@
   weight = 1
   
 [[main]]
+  name = "Preguntas resueltas"
+  url = "recursos-ebau/#preguntas-fisica"
+  parent = "recursos-ebau"
+  weight = 2  
+  
+[[main]]
   name = "Consejos"
   url = "recursos-ebau/#consejos"
   parent = "recursos-ebau"
-  weight = 2      
+  weight = 3
 
 [[main]]
   name = "Tutoriales"
