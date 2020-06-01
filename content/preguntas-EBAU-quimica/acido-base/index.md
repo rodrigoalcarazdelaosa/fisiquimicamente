@@ -12,6 +12,6 @@ categories:
 external_link: "https://drive.google.com/file/d/1_I1AzcRtBctJ_BTd_J-hNWxpz2hGPRm9/view"
 
 image:
-  caption: https://www.reach-compliance.ch/downloads/GHS05_acid_red.png
+  caption: "Imagen de [**InspiredImages**](https://pixabay.com/es/users/InspiredImages-57296/) en [Pixabay](https://pixabay.com/es/)"
   focal_point: Smart
 ---
