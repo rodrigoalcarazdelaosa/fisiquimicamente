@@ -1,5 +1,5 @@
 ---
-title: Física del s. XX
+title: "Física del s. XX (`ENUNCIADOS`)"
 summary: "`ENUNCIADOS`"
 tags:
 - 2º Bach
