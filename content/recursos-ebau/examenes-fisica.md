@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "📝 Exámenes de Física resueltos"
-subtitle = "Cortesía de [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) y el Profesor Enrique Ortega González del IES José del Campo de Ampuero"
+subtitle = "Cortesía del Profesor Enrique Ortega González del IES José del Campo de Ampuero"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,6 +50,6 @@ subtitle = "Cortesía de [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pa
  css_class = ""
 +++
 
-Accede aquí 
+Accede aquí {{< icon name="google-drive" pack="fab" >}} [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html)
 
 <iframe src="https://drive.google.com/embeddedfolderview?id=0B6t6-aLmKtoLfmxCQTgtcks3N0diU0ptbnBEMlUyeVoyV18yMlNGODF5dFNaY201UkdyVDA#grid" style="width:100%; height:500px; border:0;"></iframe>
