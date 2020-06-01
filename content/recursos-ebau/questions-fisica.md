@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
 title = "❓ Preguntas de Física resueltas"
-subtitle = "Desde el 2009 hasta el 2019, cortesía del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
+subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
 
 [content]
   # Page type to display. E.g. project.
