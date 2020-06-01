@@ -13,8 +13,7 @@
   <div class="col-12 col-lg-4 section-heading">
 
     {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
-    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-	<i class="fab fa-google-drive"></i>
+    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }} <i class="fab fa-google-drive"></i></p>{{ end }}	
 
   </div>
   <div class="col-12 col-lg-8">
