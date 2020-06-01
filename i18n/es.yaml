@@ -110,6 +110,8 @@
   translation: Charlas
 - id: projects
   translation: Proyectos
+- id: slides
+  translation: Diapositivas  
 - id: search
   translation: Buscar
 - id: search_placeholder
