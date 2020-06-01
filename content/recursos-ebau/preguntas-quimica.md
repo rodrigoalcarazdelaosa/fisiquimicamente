@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "📝 Preguntas de Química resueltas"
-subtitle = "Cortesía del Profesor Enrique Ortega González del IES José del Campo de Ampuero"
+subtitle = "Desde el 2009 hasta el 2019, cortesía del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
