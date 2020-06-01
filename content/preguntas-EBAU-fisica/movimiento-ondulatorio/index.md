@@ -1,6 +1,6 @@
 ---
-title: Ondas
-summary: Movimiento ondulatorio.
+title: Movimiento ondulatorio
+summary:
 tags:
 - EBAU
 - ondas
