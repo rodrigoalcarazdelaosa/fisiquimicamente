@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "🌦️ El tiempo"
-subtitle = ""
+title = "Enunciados de exámenes"
+subtitle = "Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
