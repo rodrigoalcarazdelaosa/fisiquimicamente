@@ -50,4 +50,6 @@ subtitle = "Cortesía del Profesor Enrique Ortega González del IES José del Ca
  css_class = ""
 +++
 
+Accede [aquí {{< icon name="google-drive" pack="fab" >}}](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLZURrWUxoaDJucGM) a todos los enunciados, cortesía de [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
+
 <iframe src="https://drive.google.com/embeddedfolderview?id=0B6t6-aLmKtoLfjhxV1ctVks4eXRjWFhaM0RMTXpHWjF1RGRseU02cS1rOGc5YjRWVmlsMnc#grid" style="width:100%; height:500px; border:0;"></iframe>
