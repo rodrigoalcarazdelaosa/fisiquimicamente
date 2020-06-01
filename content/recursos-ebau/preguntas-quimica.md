@@ -50,4 +50,4 @@ subtitle = "Desde el 2009 hasta el 2019, cortesía del **Profesor Enrique Ortega
  css_class = ""
 +++
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=0B6t6-aLmKtoLWFZSSHdEQm5JZzA#grid" style="width:100%; height:500px; border:0;"></iframe>
+<iframe src="https://drive.google.com/embeddedfolderview?id=0B6t6-aLmKtoLWFZSSHdEQm5JZzA#list" style="width:100%; height:500px; border:0;"></iframe>
