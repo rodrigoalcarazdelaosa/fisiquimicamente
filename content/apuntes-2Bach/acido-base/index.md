@@ -13,7 +13,7 @@ categories:
 external_link: ""
 
 image:
-  caption: "Imagen de [InspiredImages](https://pixabay.com/es/users/InspiredImages-57296/) en [Pixabay](https://pixabay.com/es/)"
+  caption: "Imagen de [**InspiredImages**](https://pixabay.com/es/users/InspiredImages-57296/) en [Pixabay](https://pixabay.com/es/)"
   focal_point: Smart
 
 # links:
