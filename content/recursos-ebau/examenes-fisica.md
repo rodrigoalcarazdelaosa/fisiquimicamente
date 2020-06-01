@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "📝 Exámenes"
-subtitle = "Física <i class="fab fa-google-drive"></i>"
+subtitle = "Física"
 
 [content]
   # Page type to display. E.g. project.
