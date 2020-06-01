@@ -1,6 +1,6 @@
 ---
 title: Física del s. XX
-summary: Una práctica rueda de colores interactiva.
+summary: Enunciados.
 tags:
 - 2º Bach
 - física-s-XX
