@@ -1,6 +1,6 @@
 ---
 title: Física del s. XX
-summary: Enunciados.
+summary: `Enunciados`.
 tags:
 - 2º Bach
 - física-s-XX
