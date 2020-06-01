@@ -21,6 +21,10 @@ body {
   color: #111111;
   background-color: #fffff8; }
   
+p {
+	font-family: "Cabin Sketch", sans-serif;
+	color: $primary_complementary; }  
+  
 /* Navigation bar text */
 .navbar-light {
 font-family: $sta-font-nav, serif;
