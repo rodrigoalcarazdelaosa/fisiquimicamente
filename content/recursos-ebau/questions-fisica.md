@@ -10,7 +10,7 @@ subtitle = "Desde el 2009 hasta el 2019, cortesía del **Profesor Enrique Ortega
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "examenes-EBAU-fisica"
+  page_type = "preguntas-EBAU-fisica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
