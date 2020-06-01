@@ -22,7 +22,7 @@ subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enr
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todos"
+    name = "Todas"
     tag = "*"	
 	
   [[content.filter_button]]
