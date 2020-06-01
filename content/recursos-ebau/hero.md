@@ -51,4 +51,6 @@ hero_media = ""
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
+Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html)
+
 📝 [Exámenes resueltos](#examenes-fisica) | 💡[Consejos](#consejos)
