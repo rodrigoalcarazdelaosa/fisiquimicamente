@@ -53,4 +53,4 @@ hero_media = ""
 
 **Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html)**
 
-📝 [Exámenes resueltos](#examenes-fisica) | 💡[Consejos](#consejos)
+📝 [Exámenes resueltos](#examenes-fisica) | ❓ [Preguntas resueltas](#preguntas-fisica) | 💡[Consejos](#consejos)
