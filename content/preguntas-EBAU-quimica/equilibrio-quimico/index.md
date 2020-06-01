@@ -9,7 +9,7 @@ categories:
 - Química
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drive.google.com/file/d/0B6t6-aLmKtoLdzJkazRuNUVMNFU/view"
+external_link: "https://drive.google.com/file/d/1WvfHsF2jrXyeKUygZbMz0BKkNSvS699x/view"
 
 image:
   caption: Foto de [**Polina Tankilevitch**](https://www.pexels.com/es-es/@polina-tankilevitch) en [Pexels](https://www.pexels.com/es-es/)
