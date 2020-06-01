@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "📝 Preguntas de Química resueltas"
+title = "❓ Preguntas de Química resueltas"
 subtitle = "Desde el 2009 hasta el 2019, cortesía del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
 
 [design]
