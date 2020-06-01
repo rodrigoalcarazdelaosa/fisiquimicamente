@@ -46,7 +46,7 @@
   weight = 2
   
 [[main]]
-  name = "Exámenes"
+  name = "Exámenes resueltos"
   url = "recursos-ebau/#examenes-fisica"
   parent = "recursos-ebau"
   weight = 1
