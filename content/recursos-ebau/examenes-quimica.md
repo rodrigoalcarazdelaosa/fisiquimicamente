@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "📝 Exámenes de Química resueltos"
-subtitle = "Cortesía de [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) y el Profesor Enrique Ortega González del IES José del Campo de Ampuero"
+subtitle = "Cortesía del Profesor Enrique Ortega González del IES José del Campo de Ampuero"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
