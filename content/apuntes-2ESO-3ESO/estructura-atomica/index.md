@@ -28,6 +28,8 @@ slides: estructura-atomica-2ESO-3ESO
 
 {{% toc %}}
 
+{{< spoiler text="Click to view the spoiler" >}} You found me! {{< /spoiler >}}
+
 ## Teoría atómica de Dalton
 En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito. Su **teoría** se basa en:
 
