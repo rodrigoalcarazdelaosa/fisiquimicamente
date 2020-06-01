@@ -51,4 +51,6 @@ hero_media = ""
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
+**En formato texto, diapositivas y póster (tipo _chuleta_)**
+
 📝 [Exámenes](#examenes-fisica) | 💡[Consejos](#consejos)
