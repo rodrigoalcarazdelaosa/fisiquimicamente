@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "🎓 Recursos EBAU"
-subtitle = "hola"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -52,6 +51,6 @@ hero_media = ""
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html)**
+**Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com) por [su excelente recopilación](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html)**
 
 📝 [Exámenes resueltos](#examenes-fisica) | ❓ [Preguntas resueltas](#preguntas-fisica) | 💡[Consejos](#consejos)
