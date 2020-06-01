@@ -1,5 +1,5 @@
 ---
-title: Electromagnetismo
+title: Interacción electromagnética
 summary:
 tags:
 - 2º Bach
