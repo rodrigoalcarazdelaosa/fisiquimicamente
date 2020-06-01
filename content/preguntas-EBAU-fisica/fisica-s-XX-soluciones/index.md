@@ -11,6 +11,6 @@ categories:
 external_link: https://drive.google.com/file/d/0B6t6-aLmKtoLbVFsN2tIdURtRkk/view
 
 image:
-  caption: https://drive.google.com/file/d/0B6t6-aLmKtoLbVFsN2tIdURtRkk/view
+  caption: Imagen de [**Welcome to all and thank you for your visit ! ツ**](https://pixabay.com/es/users/janeb13-725943/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 ---
