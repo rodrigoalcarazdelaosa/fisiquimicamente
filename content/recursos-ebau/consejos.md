@@ -60,6 +60,7 @@ subtitle = ""
 
 - 🤲 Lee bien los enunciados.
 - 🙋 Aclara cualquier duda que te surja.
+- ✍️ Cuida la letra y la presentación general de tu examen.
 
 ## Después de
 
