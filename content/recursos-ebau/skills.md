@@ -26,6 +26,12 @@ subtitle = ""
   name = "[Recursos EBAU](recursos-ebau/)"
   description = "📝 [Exámenes resueltos](recursos-ebau/#examenes-fisica) | ❓[Preguntas resueltas](recursos-ebau/#preguntas-fisica) <br> 💡[Consejos](recursos-ebau/#consejos)"
   
+[[feature]]
+  icon = "🎓"
+  icon_pack = "emoji"
+  name = "[Recursos EBAU](recursos-ebau/)"
+  description = "📝 [Exámenes resueltos](recursos-ebau/#examenes-fisica) | ❓[Preguntas resueltas](recursos-ebau/#preguntas-fisica) <br> 💡[Consejos](recursos-ebau/#consejos)"  
+  
   
 [design.background]
   # Apply a background color, gradient, or image.
