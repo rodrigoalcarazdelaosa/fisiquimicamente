@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- Intenta relajarte el día antes del examen, evitando estudiar a ser posible.
+- 💆 Intenta relajarte el día antes del examen, evitando estudiar a ser posible.
 
 {{% alert note %}}
 Próximamente...
