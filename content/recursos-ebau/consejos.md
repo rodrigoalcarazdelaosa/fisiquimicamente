@@ -50,6 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- Hola
+
 {{% alert note %}}
 Próximamente...
 {{% /alert %}}
