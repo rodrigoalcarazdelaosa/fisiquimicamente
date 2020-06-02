@@ -15,7 +15,7 @@ subtitle = "**Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com) por 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "📚"
+  icon = ":atom:"
   icon_pack = "emoji"
   name = "[Física](#examenes-fisica)"
   description = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) | [1º Bach](apuntes/#primero-bach) | [2º Bach](apuntes/#segundo-bach)"
