@@ -26,29 +26,6 @@ subtitle = ""
   name = "[Recursos EBAU](recursos-ebau/)"
   description = "📝 [Exámenes resueltos](recursos-ebau/#examenes-fisica) | ❓[Preguntas resueltas](recursos-ebau/#preguntas-fisica) <br> 💡[Consejos](recursos-ebau/#consejos)"
   
-[[feature]]
-  icon = "👐"
-  icon_pack = "emoji"
-  name = "[Tutoriales](tutoriales/)"
-  description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
-  
-[[feature]]
-  icon = "🔗"
-  icon_pack = "emoji"
-  name = "[Enlaces de interés](enlaces-interes/)"
-  description = "[Recursos online](enlaces-interes/#recursos-online) | [Páginas amigas](enlaces-interes/#paginas-amigas)"
-  
-[[feature]]
-  icon = "💬"
-  icon_pack = "emoji"
-  name = "[Blog](post/)"
-  description = ""
-  
-[[feature]]
-  icon = "👨‍🏫"
-  icon_pack = "emoji"
-  name = "[Sobre mí](sobre-mi/)"
-  description = ""    
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -64,13 +41,13 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "home.jpg"  # Name of image in `static/img/`.
+  image = "ebau.png"  # Name of image in `static/img/`.
   image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  # text_color_light = true    
+  text_color_light = true    
 
 +++
