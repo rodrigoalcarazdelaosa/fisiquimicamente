@@ -18,19 +18,19 @@ subtitle = "**Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com) por 
   icon = "⚛️"
   icon_pack = "emoji"
   name = "[Física](#examenes-fisica)"
-  description = "📝 [Exámenes resueltos](#examenes-fisica) | ❓[Preguntas resueltas](#preguntas-fisica)"
-  
-[[feature]]
-  icon = "💡"
-  icon_pack = "emoji"
-  name = "[Consejos](#consejos)"
-  description = ""
+  description = "📝 [Exámenes resueltos](#examenes-fisica) | ❓[Preguntas resueltas](#preguntas-fisica)"  
   
 [[feature]]
   icon = "⚗️"
   icon_pack = "emoji"
   name = "[Química](#examenes-quimica)"
-  description = "📝 [Exámenes resueltos](#examenes-quimica) | ❓[Preguntas resueltas](#preguntas-quimica)"  
+  description = "📝 [Exámenes resueltos](#examenes-quimica) | ❓[Preguntas resueltas](#preguntas-quimica)"
+  
+[[feature]]
+  icon = "💡"
+  icon_pack = "emoji"
+  name = "[Consejos](#consejos)"
+  description = ""  
   
   
 [design.background]
