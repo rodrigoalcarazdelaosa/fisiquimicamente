@@ -60,11 +60,11 @@ subtitle = ""
 
 ## Durante
 
-- 🤲 Lee bien los enunciados.
-- 🙋 Aclara cualquier duda que te surja.
-- ✍️ Cuida la letra y la presentación general de tu examen.
-- 🤔 Revisa todos los resultados en el momento de obtenerlos y al final del examen si te sobra tiempo.
+- 🤲 **Lee** bien los **enunciados**.
+- 🙋 **Aclara** todas las **dudas** que te surjan.
+- ✍️ **Cuida** la **letra** y la **presentación** general de tu examen, incluyendo faltas de ortografía.
+- 🤔 **Revisa** todos los **resultados** en el momento de obtenerlos y al final del examen si te sobra tiempo.
 
 ## Después de
 
-- 🧐 No vuelvas sobre el examen que acabas de hacer, concéntrate en el siguiente.
+- 🧐 No vuelvas sobre el examen que acabas de hacer, **concéntrate** en el **siguiente**.
