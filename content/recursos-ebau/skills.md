@@ -27,7 +27,7 @@ subtitle = ""
   description = "📝 [Exámenes resueltos](recursos-ebau/#examenes-fisica) | ❓[Preguntas resueltas](recursos-ebau/#preguntas-fisica) <br> 💡[Consejos](recursos-ebau/#consejos)"
   
 [[feature]]
-  icon = "🎓"
+  icon = "⚗️"
   icon_pack = "emoji"
   name = "[Química](#examenes-quimica)"
   description = "📝 [Exámenes resueltos](recursos-ebau/#examenes-fisica) | ❓[Preguntas resueltas](recursos-ebau/#preguntas-fisica) <br> 💡[Consejos](recursos-ebau/#consejos)"  
