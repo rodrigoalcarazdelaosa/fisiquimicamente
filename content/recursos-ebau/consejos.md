@@ -60,7 +60,7 @@ subtitle = ""
 
 ## Durante
 
-- 🤲 **Lee** bien los **enunciados**.
+- 🤲 **Lee** bien los **enunciados** y tómate tu tiempo en **elegir** bien la **opción**.
 - 🙋 **Aclara** todas las **dudas** que te surjan.
 - ✍️ **Cuida** la **letra** y la **presentación** general de tu examen, incluyendo faltas de ortografía.
 - 🤔 **Revisa** todos los **resultados** en el momento de obtenerlos y al final del examen si te sobra tiempo.
