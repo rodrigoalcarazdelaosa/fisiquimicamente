@@ -58,7 +58,7 @@ subtitle = ""
 
 ## Durante
 
-- Lee bien los enunciados.
+- 🤲 Lee bien los enunciados.
 - 🙋 Aclara cualquier duda que te surja.
 
 ## Después de
