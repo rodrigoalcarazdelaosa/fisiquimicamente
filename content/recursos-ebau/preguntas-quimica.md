@@ -94,6 +94,6 @@ subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enr
  css_class = ""
 +++
 
-{{% alert note %}}
+{{% alert gdrive %}}
 {{< icon name="google-drive" pack="fab" >}} Accede [aquí](https://drive.google.com/drive/folders/0B6t6-aLmKtoLWFZSSHdEQm5JZzA) también a los enunciados, cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
 {{% /alert %}}
