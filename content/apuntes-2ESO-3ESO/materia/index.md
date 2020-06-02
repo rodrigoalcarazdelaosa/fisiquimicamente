@@ -133,7 +133,7 @@ La tabla[^1], tomada de la [entrada sobre densidad en la versión inglesa de la 
 
 ---
 
-{{< spoiler text="Click to see the answer" >}}
+{{< spoiler text="Pincha para ver la solución" >}}
 
 Lo primero que tenemos que hacer es _**homogeneizar**_ las unidades. Podemos convertir el volumen, $0.5\thinspace\mathrm L$, en $\mathrm{cm^3}$:
 $$
