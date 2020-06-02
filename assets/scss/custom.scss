@@ -168,6 +168,19 @@ div.alert-example > div:first-child::before {
   border-color: $example_fg;
 }
 
+div.alert-gdrive > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: $example_fg;
+  content: '\f0eb';
+}
+
+.alert-gdrive {
+  color: #111111;
+  background-color: $example_bg;
+  border-color: $example_fg;
+}
+
 /*************************************************
  *  Card component
  **************************************************/
