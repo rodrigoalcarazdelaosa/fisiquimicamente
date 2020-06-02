@@ -24,7 +24,7 @@ subtitle = ""
   icon = "🎓"
   icon_pack = "emoji"
   name = "[Recursos EBAU](recursos-ebau/)"
-  description = "⚛️ [Física](recursos-ebau/#examenes-fisica) | ⚗️[Química](recursos-ebau/#examenes-quimica) <br> 💡[Consejos](recursos-ebau/#consejos)"
+  description = "⚛️ [Física](recursos-ebau/#examenes-fisica) | ⚗️ [Química](recursos-ebau/#examenes-quimica) <br> 💡[Consejos](recursos-ebau/#consejos)"
   
 [[feature]]
   icon = "👐"
