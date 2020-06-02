@@ -393,6 +393,8 @@ border-color: $primary; }
   
 .btn-primary {
 	color: $example_fg;
+	background-color: transparent;
+	border-color: $example_fg;
 }
   
 /*************************************************
