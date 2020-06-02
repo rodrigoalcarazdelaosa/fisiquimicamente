@@ -60,6 +60,8 @@ subtitle = ""
 
 ## Después de
 
+- 🧐 Concéntrate en el siguiente examen.
+
 {{% alert note %}}
 Próximamente...
 {{% /alert %}}
