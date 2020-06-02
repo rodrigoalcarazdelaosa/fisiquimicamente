@@ -56,7 +56,8 @@ subtitle = ""
 - 📝 **Repasa** por **temas** primero y con **exámenes** completos después, **cronometrando** tu tiempo.
 - 🧘 Intenta **relajarte** el día antes del examen, evitando estudiar a ser posible.
 - 😴 Acuéstate pronto y **descansa** la noche antes del examen.
-- 🙃 **No olvides** tu  **carné** de identidad, dos **bolis** y tu **calculadora**.
+- Comienza el día con un desayuno saludable.
+- 🙃 **No olvides** tu **carné** de identidad, dos **bolis** y tu **calculadora**.
 
 ## Durante
 
@@ -65,9 +66,10 @@ subtitle = ""
 - ⚠️ **No pongas** tu **nombre** ni ninguna **marca personal** en el examen.
 - 💪 **Ataca todos** los **problemas**, siempre hay apartados asequibles en todos ellos.
 - ✍️ **Cuida** la **letra** y la **presentación** general de tu examen, incluyendo faltas de ortografía.
-- 🤔 **Revisa** todos los **resultados** en el momento de obtenerlos y al final del examen si te sobra tiempo.
+- 🤔 **Comprueba** que tus **resultados** son **coherentes** en el momento de obtenerlos y al final del examen si te sobra tiempo.
 - 🦸 **Recuerda** que **eres** un/a **máquina**.
 
 ## Después de
 
 - 🧐 No vuelvas sobre el examen que acabas de hacer, **concéntrate** en el **siguiente**.
+- 💆 Relájate y descansa.
