@@ -211,6 +211,10 @@ gallery_item:
   caption: "El cúmulo estelar NGC 281, conocido informalmente como la _Nebulosa de Pacman_, está situado a unos 6.500 años luz de la Tierra. [Esta imagen](https://solarsystem.nasa.gov/resources/763/the-pacman-nebula/) proviene de datos del telescopio espacial Chandra de la NASA, en morado, con observaciones en infrarrojo del telescopio espacial Spitzer de la NASA. Crédito: Rayos X: NASA/CXC/CfA/S.Wolk; IR: NASA/JPL/CfA/S.Wolk <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1341_Beyond_F_PDF.zip)"          
 ---
 
+{{% alert example %}}
+This is an example text.
+{{% /alert %}}
+
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
 
 {{< tweet 1262678794554486784 >}}
