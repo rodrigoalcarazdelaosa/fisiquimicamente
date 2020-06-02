@@ -46,14 +46,14 @@
   weight = 2
   
 [[main]]
-  name = "Exámenes resueltos"
+  name = "Física"
   url = "recursos-ebau/#examenes-fisica"
   parent = "recursos-ebau"
   weight = 1
   
 [[main]]
-  name = "Preguntas resueltas"
-  url = "recursos-ebau/#preguntas-fisica"
+  name = "Química"
+  url = "recursos-ebau/#examenes-quimica"
   parent = "recursos-ebau"
   weight = 2  
   
