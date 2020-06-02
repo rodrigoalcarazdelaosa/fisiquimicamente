@@ -71,5 +71,5 @@ subtitle = ""
 
 ## Después de
 
-- 💆 Relájate y descansa.
+- 💆 **Relájate** y descansa.
 - 🧐 No vuelvas sobre el examen que acabas de hacer, **concéntrate** en el **siguiente**.
