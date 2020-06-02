@@ -32,7 +32,7 @@ education:
     institution: UNED
     year: 2017
   - course: Doctor en Física
-    institution: Universidad de Cantabria
+    institution: <img src="images/icon-pack/cerveza.svg" alt="{{.}}" class="svg-icon svg-baseline"> Universidad de Cantabria
     year: 2013
   - course: Máster en Física y Tecnología Física
     institution: Universidad de Cantabria
