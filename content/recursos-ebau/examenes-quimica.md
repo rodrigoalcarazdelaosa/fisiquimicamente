@@ -50,7 +50,7 @@ subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enr
  css_class = ""
 +++
 
-{{% alert note %}}
+{{% alert gdrive %}}
 {{< icon name="google-drive" pack="fab" >}} Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLZURrWUxoaDJucGM) a todos los enunciados de Cantabria desde 1995 hasta 2019, cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
 {{% /alert %}}
 
