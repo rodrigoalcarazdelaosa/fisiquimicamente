@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- Hola
+- Intenta relajarte el día antes del examen, evitando estudiar a ser posible.
 
 {{% alert note %}}
 Próximamente...
