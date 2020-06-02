@@ -67,7 +67,7 @@ subtitle = ""
 
 ## Después de
 
-- 🧐 Concéntrate en el siguiente examen.
+- 🧐 No vuelvas sobre el examen que acabas de hacer, concéntrate en el siguiente.
 
 {{% alert note %}}
 Próximamente...
