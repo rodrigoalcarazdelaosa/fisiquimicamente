@@ -63,6 +63,7 @@ subtitle = ""
 - 🤲 Lee bien los enunciados.
 - 🙋 Aclara cualquier duda que te surja.
 - ✍️ Cuida la letra y la presentación general de tu examen.
+- 🧐 Revisa todos los resultados en el momento de obtenerlos y al final del examen si te sobra tiempo.
 
 ## Después de
 
