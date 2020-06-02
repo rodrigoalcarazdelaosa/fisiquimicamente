@@ -62,6 +62,7 @@ subtitle = ""
 
 - 🤲 **Lee** bien los **enunciados** y tómate tu tiempo en **elegir** la **opción** más adecuada.
 - 🙋 **Aclara** todas las **dudas** que te surjan.
+- No pongas tu nombre ni ninguna marca personal en el examen.
 - ✍️ **Cuida** la **letra** y la **presentación** general de tu examen, incluyendo faltas de ortografía.
 - 🤔 **Revisa** todos los **resultados** en el momento de obtenerlos y al final del examen si te sobra tiempo.
 
