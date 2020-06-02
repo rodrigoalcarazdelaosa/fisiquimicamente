@@ -15,7 +15,7 @@ subtitle = "**Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com) por 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "⚛️"
+  icon = ":electron:"
   icon_pack = "emoji"
   name = "[Física](#examenes-fisica)"
   description = "📝 [Exámenes resueltos](#examenes-fisica) | ❓[Preguntas resueltas](#preguntas-fisica)"  
