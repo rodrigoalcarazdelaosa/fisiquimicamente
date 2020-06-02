@@ -391,26 +391,6 @@ border-color: $primary; }
 .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(42, 84, 169, 0.5); }
   
-.btn-primary {
-color: $example_fg;
-background-color: transparent;
-border-color: $example_fg; }
-.btn-primary:hover {
-color: #FFFFF8;
-background-color: $example_fg;
-border-color: $example_fg; }
-.btn-primary:focus, .btn-primary.focus {
-box-shadow: 0 0 0 0.2rem rgba(76, 95, 38, 0.5); }
-.btn-primary.disabled, .btn-primary:disabled {
-color: $example_fg;
-background-color: transparent; }
-.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
-color: #FFFFF8;
-background-color: $example_fg;
-border-color: $example_fg; }
-.btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
-box-shadow: 0 0 0 0.2rem rgba(76, 95, 38, 0.5); }
-  
 /*************************************************
 *  Forms
 **************************************************/  
