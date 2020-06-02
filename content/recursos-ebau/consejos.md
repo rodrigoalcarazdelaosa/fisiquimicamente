@@ -54,6 +54,7 @@ subtitle = ""
 
 - 💆 Intenta relajarte el día antes del examen, evitando estudiar a ser posible.
 - 😴 Acuéstate pronto y descansa la noche antes del examen.
+- No olvides tu carné de identidad, dos bolis y tu calculadora.
 
 ## Durante
 
