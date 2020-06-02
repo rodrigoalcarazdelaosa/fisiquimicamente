@@ -18,19 +18,19 @@ subtitle = "**Gracias a [EL FÍSICO LOCO](http://elfisicoloco.blogspot.com) por 
   icon = "⚛️"
   icon_pack = "emoji"
   name = "[Física](#examenes-fisica)"
-  description = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) | [1º Bach](apuntes/#primero-bach) | [2º Bach](apuntes/#segundo-bach)"
+  description = "📝 [Exámenes resueltos](#examenes-fisica) | ❓[Preguntas resueltas](#preguntas-fisica)"
   
 [[feature]]
   icon = "💡"
   icon_pack = "emoji"
   name = "[Consejos](#consejos)"
-  description = "📝 [Exámenes resueltos](recursos-ebau/#examenes-fisica) | ❓[Preguntas resueltas](recursos-ebau/#preguntas-fisica) <br> 💡[Consejos](recursos-ebau/#consejos)"
+  description = ""
   
 [[feature]]
   icon = "⚗️"
   icon_pack = "emoji"
   name = "[Química](#examenes-quimica)"
-  description = "📝 [Exámenes resueltos](recursos-ebau/#examenes-fisica) | ❓[Preguntas resueltas](recursos-ebau/#preguntas-fisica) <br> 💡[Consejos](recursos-ebau/#consejos)"  
+  description = "📝 [Exámenes resueltos](#examenes-quimica) | ❓[Preguntas resueltas](#preguntas-quimica)"  
   
   
 [design.background]
