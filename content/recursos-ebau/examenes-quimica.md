@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "📝 Exámenes de Física resueltos"
+title = "📝 Exámenes de Química resueltos"
 subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
 
 [content]
@@ -111,5 +111,5 @@ subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enr
 +++
 
 {{% alert gdrive %}}
-Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLaEZ1Q2UzVXpxUlk) a todos los enunciados de Cantabria desde 1995 hasta 2019, cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
+Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLZURrWUxoaDJucGM) a todos los enunciados de Cantabria desde 1995 hasta 2019, cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
 {{% /alert %}}
