@@ -22,28 +22,52 @@ subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enr
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todas"
+    name = "Todos"
     tag = "*"	
 	
   [[content.filter_button]]
-    name = "Física del s. XX"
-    tag = "física-s-XX"
+    name = "2009"
+    tag = "2009"
 	
   [[content.filter_button]]
-    name = "Interacción electromagnética"
-    tag = "electromagnetismo"
+    name = "2010"
+    tag = "2010"
 	
   [[content.filter_button]]
-    name = "Interacción gravitatoria"
-    tag = "gravitación"
+    name = "2011"
+    tag = "2011"
 	
   [[content.filter_button]]
-    name = "Ondas"
-    tag = "ondas"							
+    name = "2012"
+    tag = "2012"
 	
   [[content.filter_button]]
-    name = "Óptica geométrica"
-    tag = "óptica-geométrica"	
+    name = "2013"
+    tag = "2013"
+	
+  [[content.filter_button]]
+    name = "2014"
+    tag = "2014"
+	
+  [[content.filter_button]]
+    name = "2015"
+    tag = "2015"
+	
+  [[content.filter_button]]
+    name = "2016"
+    tag = "2016"
+	
+  [[content.filter_button]]
+    name = "2017"
+    tag = "2017"
+	
+  [[content.filter_button]]
+    name = "2018"
+    tag = "2018"
+	
+  [[content.filter_button]]
+    name = "2019"
+    tag = "2019"									
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
