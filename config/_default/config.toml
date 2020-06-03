@@ -5,6 +5,8 @@
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
+timeout = 100000
+
 # Title of your site
 title = "Físquicamente con Rodri"
 
@@ -71,7 +73,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 75
+  quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
