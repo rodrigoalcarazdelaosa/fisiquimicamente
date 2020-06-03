@@ -1,6 +1,6 @@
 ---
 title: Junio 2010
-summary:
+summary: Opción 1.
 tags:
 - EBAU
 - 2010
