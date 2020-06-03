@@ -19,11 +19,7 @@ subtitle = "Cantabria, desde el 2009 hasta el 2019, cortesía del **Profesor Enr
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
-  [[content.filter_button]]
-    name = "Todos"
-    tag = "*"	
+  filter_default = 0  
 	
   [[content.filter_button]]
     name = "2009"
