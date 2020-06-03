@@ -3,7 +3,7 @@ title: Junio 2019
 summary: Opción 1
 tags:
 - EBAU
-- "2019"
+- 2019
 categories:
 - Física
 
