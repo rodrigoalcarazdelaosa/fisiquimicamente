@@ -1,6 +1,5 @@
 ---
-title: Junio 2019
-summary: Opción 1
+title: Junio 2019 - Opción 1
 tags:
 - EBAU
 - 2019
