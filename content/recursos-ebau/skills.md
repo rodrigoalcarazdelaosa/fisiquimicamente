@@ -24,7 +24,7 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) po
   icon = "⚗️"
   icon_pack = "emoji"
   name = "[Química](#examenes-quimica)"
-  description = "📝 [Exámenes resueltos](#examenes-quimica) | ❓[Preguntas resueltas](#preguntas-quimica)"
+  description = "📝 [Exámenes completos](#examenes-quimica) | 🗂️[Por temas](#preguntas-quimica)"
   
 [[feature]]
   icon = "💡"
