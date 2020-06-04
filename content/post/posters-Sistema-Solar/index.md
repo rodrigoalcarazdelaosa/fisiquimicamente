@@ -1,7 +1,7 @@
 ---
 title: Pósters del Sistema Solar
-subtitle: Primera entrada de mi primer blog
-summary: Primera entrada de mi primer blog.
+subtitle: Mostrando la belleza de nuestro sistema solar y más allá
+summary: Mostrando la belleza de nuestro sistema solar y más allá.
 date: "2020-05-19T00:00:00Z"
 tags:
 - gravitación
