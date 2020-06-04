@@ -45,7 +45,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "👨‍🏫"
+  icon = "👨‍🔬"
   icon_pack = "emoji"
   name = "[Sobre mí](sobre-mi/)"
   description = ""    
