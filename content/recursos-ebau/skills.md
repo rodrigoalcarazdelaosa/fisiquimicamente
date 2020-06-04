@@ -18,13 +18,13 @@ subtitle = "Cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com)
   icon = "☢️"
   icon_pack = "emoji"
   name = "[Física](#examenes-fisica)"
-  description = "📝 [Exámenes completos](#examenes-fisica) | 🗂️[Por temas](#preguntas-fisica)"  
+  description = "📝 [Exámenes completos](#examenes-fisica) | 🗂️ [Por temas](#preguntas-fisica)"  
   
 [[feature]]
   icon = "⚗️"
   icon_pack = "emoji"
   name = "[Química](#examenes-quimica)"
-  description = "📝 [Exámenes completos](#examenes-quimica) | 🗂️[Por temas](#preguntas-quimica)"
+  description = "📝 [Exámenes completos](#examenes-quimica) | 🗂️ [Por temas](#preguntas-quimica)"
   
 [[feature]]
   icon = "💡"
