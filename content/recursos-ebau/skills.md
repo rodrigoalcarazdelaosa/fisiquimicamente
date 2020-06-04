@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "🎓 Recursos EBAU"
-subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) por [su excelente recopilación](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html)"
+subtitle = "Cantabria, cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y el **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
 
 # Showcase personal skills or business features.
 # 
