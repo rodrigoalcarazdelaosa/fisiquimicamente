@@ -1,6 +1,6 @@
 ---
 title: Actualización de unidades de base del SI
-subtitle: Ahora todas en función de constantes físicas universales 
+subtitle: Ahora todas definidas en función de constantes físicas universales 
 summary: Ahora todas en función de constantes físicas universales.
 date: "2020-04-30T00:00:00Z"
 tags:
