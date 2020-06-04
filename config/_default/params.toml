@@ -78,7 +78,7 @@ privacy_pack = true
 edit_page = {repo_url = "https://github.com/rodrigoalcarazdelaosa/rodrigoalcarazdelaosa.me", content_dir = "", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true, apuntes-2ESO-3ESO = true, apuntes-4ESO = true, apuntes-1Bach = true, apuntes-2Bach = true}
 
 ############################
 ## Contact details
