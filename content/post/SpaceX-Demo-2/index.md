@@ -1,6 +1,6 @@
 ---
 title: SpaceX Demo-2
-subtitle: Ahora todas definidas en función de constantes físicas universales 
+subtitle: Lanzamiento y acoplamiento de la primera misión tripulada
 summary: Ahora todas definidas en función de constantes físicas universales.
 date: "2020-06-04T00:00:00Z"
 tags:
