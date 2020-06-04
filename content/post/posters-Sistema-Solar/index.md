@@ -1,5 +1,7 @@
 ---
 title: Pósters del Sistema Solar
+subtitle: Primera entrada de mi primer blog
+summary: Primera entrada de mi primer blog.
 date: "2020-05-19T00:00:00Z"
 tags:
 - gravitación
