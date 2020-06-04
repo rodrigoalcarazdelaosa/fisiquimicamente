@@ -1,5 +1,7 @@
 ---
 title: Hola Mundo
+subtitle: Primera entrada de mi primer blog
+summary: Primera entrada de mi primer blog.
 date: "2020-04-28T00:00:00Z"
 image:
   placement: 3
