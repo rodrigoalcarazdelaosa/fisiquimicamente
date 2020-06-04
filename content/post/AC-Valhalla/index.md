@@ -1,5 +1,7 @@
 ---
 title: Assassin's Creed Valhalla
+subtitle: Próxima entrega de esta aclamada saga de videojuegos
+summary: Próxima entrega de esta aclamada saga de videojuegos.
 date: "2020-04-30T00:00:00Z"
 tags:
 - assassin's creed
