@@ -48,7 +48,8 @@ image:
 						  display: true,
 						  labelString: 't/s',
 						  fontSize: 18,
-						  fontFamily: 'Cabin Sketch'
+						  fontFamily: 'Cabin Sketch',
+						  fontColor: '#111111'
 					  },
 					  ticks: {
 						  fontSize: 16,
