@@ -31,7 +31,7 @@ image:
 		        data: h
 		      }
 		    ]
-		  }
+		  },
 		  options: {
 		          legend: {
 		              labels: {
