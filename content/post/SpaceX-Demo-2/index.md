@@ -54,5 +54,3 @@ var myChart = new Chart(ctx, {
     }
 });
 </script>
-	
-Hola
