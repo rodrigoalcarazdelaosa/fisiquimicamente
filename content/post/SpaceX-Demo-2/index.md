@@ -464,6 +464,7 @@ Como se puede ver,
 			  },
 		      legend: {
 				  labels: {
+					  boxWidth: 0,
 					  usePointStyle: true,
 					  fontSize: 18,
   					  fontFamily: 'Cabin Sketch',
