@@ -792,6 +792,14 @@ En la siguiente gráfica se dibujan tanto la aceleración empírica como la calc
 La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 75$\thinspace$%). Además, a partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que la expresión del MRUV no es válida, ya que supone un aumento indefinido.
 
 #### Velocidad
+
+La velocidad teórica la calculamos a partir de la expresión:
+$$
+v(t) = v_0 + a t,
+$$
+donde $v_0 = 195\thinspace$km/h y $a = 10.375\thinspace$m/s<sup>2</sup>.
+
+En la siguiente gráfica se dibujan tanto la aceleración empírica como la calculada suponiendo un MRUV, durante los cuatro primeros minutos del ascenso del Falcon 9:
 	
 <canvas id="v-t-MRUV"></canvas>
 
