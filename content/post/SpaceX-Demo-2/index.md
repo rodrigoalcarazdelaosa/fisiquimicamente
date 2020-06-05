@@ -38,7 +38,7 @@ image:
 				  xAxes: [{
 					  scaleLabel: {
 						  display: true,
-						  labelString: 't/s'
+						  labelString: '*t*/s'
 					  }
 				  }],
 				  yAxes: [{
