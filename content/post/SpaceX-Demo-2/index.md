@@ -29,7 +29,12 @@ image:
 		    datasets: [
 		      {
 		        data: h,
- 			    showLine: false
+				backgroundColor: #2a54a9,
+				borderColor: #2a54a9,
+				fill: false,
+				pointRadius: 10,
+				pointHoverRadius: 15,
+				showLine: false // no line shown
 		      }
 		    ]
 		  },
