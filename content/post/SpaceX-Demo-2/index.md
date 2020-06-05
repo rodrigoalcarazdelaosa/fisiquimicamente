@@ -30,7 +30,7 @@ image:
 		      {
 				label: 'h',
 		        data: h,
- 			    showLine: false // disable for a single dataset
+ 			    showLine: false
 		      }
 		    ]
 		  },
