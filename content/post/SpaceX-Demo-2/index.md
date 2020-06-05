@@ -499,6 +499,17 @@ Como se puede ver,
 // 				pointRadius: 10,
 // 				pointHoverRadius: 15,
  				showLine: false // no line shown
+		      },
+		      {
+		        data: vMRUV,
+ 			    label: 'MRUV', 				  
+ 			    backgroundColor: '#b50000',
+ 				borderColor: '#b50000',
+ 				fill: false,
+				pointRadius: 0,
+ 			    pointStyle: 'line'
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
 		      }
 		    ]
 		  },
