@@ -337,6 +337,8 @@ La velocidad aumenta de forma no lineal, alcanzando los 6724$\thinspace$km/h, m�
 
 Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un movimiento circular uniforme &mdash;MCU).
 
+### ¿Sería correcto suponer que el Falcon 9 asciende con aceleración constante?
+
 ### Aceleración
 
 La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
