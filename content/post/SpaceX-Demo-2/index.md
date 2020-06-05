@@ -65,11 +65,13 @@ image:
 						  display: true,
 						  labelString: 'h/km',
 						  fontSize: 18,
-  						  fontFamily: 'Cabin Sketch'
+  						  fontFamily: 'Cabin Sketch',
+						  fontColor: '#111111'						  
 					  },
 					  ticks: {
 						  fontSize: 16,
-  						  fontFamily: 'EB Garamond'						  
+  						  fontFamily: 'EB Garamond',
+						  fontColor: '#111111'						  
 					  }
 				  }]
 			  	
