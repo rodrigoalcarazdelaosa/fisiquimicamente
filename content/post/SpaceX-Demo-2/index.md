@@ -337,9 +337,11 @@ La velocidad aumenta de forma no lineal, alcanzando los 6724$\thinspace$km/h, m�
 
 Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un movimiento circular uniforme &mdash;MCU).
 
-### ¿Sería correcto suponer que el Falcon 9 asciende con aceleración constante?
-
 ### Aceleración
+
+A partir de los valores del módulo de la velocidad es posible obtener la aceleración tangencial del cohete mediante una derivación numérica[^8]
+
+[^8]: En concreto, la aceleración se ha obtenido utilizando la función `gradient` de MATLAB&reg;
 
 La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
 
