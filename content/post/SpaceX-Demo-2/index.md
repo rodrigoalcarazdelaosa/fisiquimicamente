@@ -183,7 +183,20 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 			              value: "2.33333333333333",
 			              borderColor: "#b50000",
 			              label: {
-							fontFamily: 'Cabin Sketch',							  
+							// Background color of label, default below
+							backgroundColor: 'rgba(181,0,0,0.8)',
+
+							// Font family of text, inherits from global
+							fontFamily: "Cabin Sketch",
+
+							// Font size of text, inherits from global
+							fontSize: 18,
+
+							// Font style of text, default below
+							fontStyle: "bold",
+
+							// Font color of text, default below
+							fontColor: "#fffff8",						  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -196,7 +209,20 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 			              value: "8.66666666666667",
 			              borderColor: "#b50000",
 			              label: {
-							fontFamily: 'Cabin Sketch',
+							// Background color of label, default below
+							backgroundColor: 'rgba(181,0,0,0.8)',
+
+							// Font family of text, inherits from global
+							fontFamily: "Cabin Sketch",
+
+							// Font size of text, inherits from global
+							fontSize: 18,
+
+							// Font style of text, default below
+							fontStyle: "bold",
+
+							// Font color of text, default below
+							fontColor: "#fffff8",
 			                content: "SECO",
 			                enabled: true,
 			                position: "top"
@@ -297,7 +323,20 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 			              value: "2.33333333333333",
 			              borderColor: "#b50000",
 			              label: {
-							fontFamily: 'Cabin Sketch',							  
+							// Background color of label, default below
+							backgroundColor: 'rgba(181,0,0,0.8)',
+
+							// Font family of text, inherits from global
+							fontFamily: "Cabin Sketch",
+
+							// Font size of text, inherits from global
+							fontSize: 18,
+
+							// Font style of text, default below
+							fontStyle: "bold",
+
+							// Font color of text, default below
+							fontColor: "#fffff8",					  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
