@@ -267,6 +267,8 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 		});
 	}		
 </script>
+	
+MECO significa Main Engine Cut Off	
 
 ### Aceleración
 
