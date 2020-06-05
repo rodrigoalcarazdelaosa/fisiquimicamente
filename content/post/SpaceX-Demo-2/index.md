@@ -657,7 +657,7 @@ h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
 donde $h_0 = 0.4\thinspace$km, $v_0 = 195\thinspace$km/h y $a = 10.375\thinspace$m/s<sup>2</sup>.
 
-En la siguiente gráfica se dibujan tanto la aceleración empírica como la calculada suponiendo un MRUV, hasta un tiempo 
+En la siguiente gráfica se dibujan tanto la aceleración empírica como la calculada suponiendo un MRUV, durante los cuatro primeros minutos del ascenso del Falcon 9:
 
 <canvas id="h-t-MRUV"></canvas>
 
@@ -788,6 +788,8 @@ En la siguiente gráfica se dibujan tanto la aceleración empírica como la calc
 		});
 	}		
 </script>
+	
+A partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que la expresión del MRUV no es válida, ya que supone un aumento indefinido.	
 	
 <canvas id="v-t-MRUV"></canvas>
 
