@@ -184,7 +184,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 			              borderColor: "#b50000",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: 'rgba(181,0,0,0.8)',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -210,7 +210,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 			              borderColor: "#b50000",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: 'rgba(181,0,0,0.8)',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -324,7 +324,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 			              borderColor: "#b50000",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: 'rgba(181,0,0,0.8)',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -350,7 +350,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 			              borderColor: "#b50000",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: 'rgba(181,0,0,0.8)',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -599,7 +599,7 @@ Como se puede ver,
 			              borderColor: "#b50000",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: 'rgba(181,0,0,0.8)',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
