@@ -21,7 +21,7 @@ Después de haberse tenido que posponer por mal tiempo[^1], el pasado sábado 30
 
 Aproximadamente 19 horas después la nave Crew Dragon se acopló autónomamente a la Estación Espacial Internacional, con los astronautas Bob Behnken y Doug Hurley a bordo, lo que ha supuesto que Estados Unidos vuelva a poner seres humanos en el espacio por primera vez desde el año 2011[^2].
 
-En este vídeo de casi 5 horas de duración, publicado por SpaceX, podéis conocer muchos más detalles sobre la misión.
+En este vídeo de casi 5 horas de duración, publicado por SpaceX, podéis conocer muchos más detalles sobre la misión:
 
 {{< youtube xY96v0OIcK4 >}}
 
