@@ -28,6 +28,7 @@ image:
 		    labels: t,
 		    datasets: [
 		      {
+				label: 'h'
 		        data: h
 		      }
 		    ]
