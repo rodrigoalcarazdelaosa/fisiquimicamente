@@ -324,7 +324,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 
 							// Font color of text, default below
 							fontColor: "#fffff8",
-			                content: "seco",
+			                content: "SECO",
 			                enabled: true,
 			                position: "top"
 			              }
