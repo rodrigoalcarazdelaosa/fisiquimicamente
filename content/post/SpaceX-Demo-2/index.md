@@ -955,3 +955,5 @@ En la siguiente gráfica se dibujan tanto la velocidad empírica como la calcula
 		});
 	}		
 </script>
+	
+En este caso parece que la expresión teórica no se desvía tanto de los valores empíricos.
