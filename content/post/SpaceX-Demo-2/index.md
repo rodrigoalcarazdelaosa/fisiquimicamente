@@ -53,7 +53,8 @@ image:
 					  },
 					  ticks: {
 						  fontSize: 16,
-  						  fontFamily: 'EB Garamond'
+  						  fontFamily: 'EB Garamond',
+						  fontColor: '#111111'						  
 					  }
 				  }],
 				  yAxes: [{
