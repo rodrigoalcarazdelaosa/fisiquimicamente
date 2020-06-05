@@ -361,7 +361,7 @@ Como se puede ver,
 			            {
 			              type: "line",
 			              mode: "vertical",
-			              scaleID: "y-axis-0",
+			              scaleID: "x-axis-0",
 			              value: "MAR",
 			              borderColor: "red",
 			              label: {
