@@ -126,7 +126,7 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 
 Algunos apuntes sobre esta curva:
 
-- La altitud asciende rápidamente
+- La altitud asciende rápidamente durante los primeros 5 minutos aproximadamente, alcanzando los 200 km y manteniéndose constante a partir de ahí.
 
 ### Velocidad
 
