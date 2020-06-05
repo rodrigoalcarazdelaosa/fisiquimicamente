@@ -36,6 +36,8 @@ La entrada podría haber acabado con el párrafo anterior, pero entonces no sabr
 
 Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen la velocidad (en km/h) y la altitud (en km) del cohete en tiempo real a medida que asciende hasta los 200 km aproximadamente. ¿Qué es lo que se me ocurrió al ver esos datos? Pues anotarlos, representarlos y hacer un pequeño estudio empírico sobre la cinemática del Falcon 9.
 
+### Altitud
+
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
 
 <canvas id="h-t"></canvas>
