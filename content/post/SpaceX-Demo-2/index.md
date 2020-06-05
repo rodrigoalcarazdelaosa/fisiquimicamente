@@ -42,7 +42,8 @@ image:
 					  scaleLabel: {
 						  display: true,
 						  labelString: 't/s',
-						  fontSize: 18
+						  fontSize: 18,
+						  fontFamily: 'Cabin Sketch'
 					  },
 					  ticks: {
 						  fontSize: 16
