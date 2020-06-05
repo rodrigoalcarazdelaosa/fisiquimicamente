@@ -350,6 +350,7 @@ Como se puede ver,
 			  	
 			  },
 		      legend: {
+				  fontSize: 18,
 		      }
 		   }
 		});
