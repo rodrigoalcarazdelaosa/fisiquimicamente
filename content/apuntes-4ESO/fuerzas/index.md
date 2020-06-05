@@ -5,7 +5,6 @@ summary: "Leyes de Newton y fuerzas de especial interés."
 tags:
 - 4º ESO
 - fuerzas
-- movimiento
 categories:
 - Física
 
