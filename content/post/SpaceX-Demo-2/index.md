@@ -282,7 +282,7 @@ Como se puede ver,
 		    datasets: [
 		      {
 		        data: h,
- 			    label: 'hola', 
+ 			    label: '"Experimental"', 
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
