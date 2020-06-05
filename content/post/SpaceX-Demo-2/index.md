@@ -34,7 +34,7 @@ Si deseas leer más sobre esta histórica misión puedes hacerlo en la [página 
 ## Estudio cinemático del Falcon 9 🚀
 La entrada podría haber acabado con el párrafo anterior, pero entonces no sabrías distinguir si estabas en la revista [¡Hola!](https://www.hola.com) o en el [blog de Físquicamente con Rodri]({{< ref "/post/" >}}) 😏.
 
-Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen la velocidad (en km/h) y la altitud (en km) del cohete en tiempo real a medida que asciende hasta los 200 km aproximadamente. ¿Qué es lo que se me ocurrió al ver esos datos? Pues anotarlos[^3], representarlos y hacer un pequeño estudio empírico sobre la cinemática del Falcon 9.
+Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen la velocidad (en km/h) y la altitud (en km) del cohete en tiempo real a medida que asciende hasta los 200$\thinspace$km aproximadamente. ¿Qué es lo que se me ocurrió al ver esos datos? Pues anotarlos[^3], representarlos y hacer un pequeño estudio empírico sobre la cinemática del Falcon 9.
 
 [^3]: Me encantaría poderte decir que utilicé un algoritmo totalmente automatizado con reconocimiento óptico de caracteres (OCR) para leer los valores del vídeo, [como alguno más *friki* y capaz que yo se ha atrevido a hacer](https://forum.nasaspaceflight.com/index.php?topic=40983.0). Pero no, me temo que lo único que hice fue reproducir el vídeo en saltos de 10 segundos, anotando manualmente los valores de la velocidad y la altitud 🤷‍♂️.
 
@@ -124,13 +124,13 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 	}		
 </script>
 
-La altitud asciende rápidamente durante los primeros 5 minutos aproximadamente, alcanzando los 200 km y manteniéndose constante a partir de ese momento.
+La altitud asciende rápidamente durante los primeros 5 minutos aproximadamente, alcanzando los 200$\thinspace$km y manteniéndose constante a partir de ese momento.
 
 ### Velocidad
 
 La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función del tiempo transcurrido, en minutos[^5]:
 
-[^5]: De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900 km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
+[^5]: De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900$\thinspace$km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
 
 <canvas id="v-t"></canvas>
 
@@ -268,7 +268,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 	}		
 </script>
 	
-Hasta el minuto 2.333, la velocidad aumenta de forma no lineal, alcanzando los 6724 km/h, más de 5 veces la velocidad del sonido en el aire[^6], , MECO significa Main Engine Cut Off
+Hasta el minuto 2.333, la velocidad aumenta de forma no lineal, alcanzando los 6724$\thinspace$km/h, más de 5 veces la velocidad del sonido en el aire[^6], , MECO significa Main Engine Cut Off
 
 [^6]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar.
 
