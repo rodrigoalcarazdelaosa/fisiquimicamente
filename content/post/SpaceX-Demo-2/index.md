@@ -648,7 +648,13 @@ El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>
 
 [^9]: Para hacernos a la idea de lo que significa esto, un paracaidista suele alcanzar la [velocidad límite](https://es.wikipedia.org/wiki/Velocidad_l%C3%ADmite) (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
 
+Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV.
+
 #### Altitud
+La altitud teórica la calculamos a partir de la expresión:
+$$
+x(t) = x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2
+$$
 
 <canvas id="h-t-MRUV"></canvas>
 
