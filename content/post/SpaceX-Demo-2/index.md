@@ -487,7 +487,7 @@ Se observa claramente que la **aceleración no** es **constante**, aumentando ha
 ### ¿Y si suponemos que la aceleración es constante?
 Si la aceleración del cohete fuera constante, entonces su ascenso se podría modelar mediante un movimiento rectilíneo uniformemente variado (MRUV). Viendo la anterior gráfica parece un disparate pensar que pueda ser así, pero no está de más intentarlo como ejercicio mental.
 
-La siguiente gráfica muestra de nuevo la aceleración *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración promedio obtenida como la media artimética.
+La siguiente gráfica muestra de nuevo la aceleración *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración constante que tendría suponiendo un MRUV, obtenida como la media artimética:
 
 <canvas id="a-t-MRUV"></canvas>
 
