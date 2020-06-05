@@ -573,7 +573,7 @@ Como se puede ver,
 			              borderColor: "#b50000",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: 'rgba(181,0,0,0.8)',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
