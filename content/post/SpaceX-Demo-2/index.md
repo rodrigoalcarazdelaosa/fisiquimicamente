@@ -485,6 +485,8 @@ Se observa claramente que la **aceleración no** es **constante**, aumentando ha
 
 ### ¿Y si suponemos que la aceleración es constante?
 
+Viendo la anterior gráfica parece un disparate pensar que el movimiento del cohete se pueda modelar mediante un movimiento rectilíneo uniformemente variado (aceleración constante), pero no está de más intentarlo como ejercicio mental.
+
 <canvas id="h-t-MRUV"></canvas>
 
 <script>
