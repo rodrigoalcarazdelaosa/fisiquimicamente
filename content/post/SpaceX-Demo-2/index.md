@@ -20,7 +20,7 @@ var ctx = document.getElementById('h-t');
 var myChart = new Chart(ctx, {
     type: 'line',
     data: {
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        labels: ['0', '200', '400', '600', '800'],
         datasets: [{
             label: '# of Votes',
             data: [12, 19, 3, 5, 2, 3],
