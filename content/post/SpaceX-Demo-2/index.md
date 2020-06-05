@@ -48,7 +48,8 @@ image:
 				  yAxes: [{
 					  scaleLabel: {
 						  display: true,
-						  labelString: 'h/km'
+						  labelString: 'h/km',
+						  fontSize: 18						  
 					  },
 					  ticks: {
 						  fontSize: 16
