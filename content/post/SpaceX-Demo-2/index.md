@@ -42,7 +42,8 @@ image:
 			  scales: {
 				  xAxes: [{
 					  gridLines: {
-						  display: false
+						  display: false,
+						  color: "#111111" 
 		              },
 					  scaleLabel: {
 						  display: true,
