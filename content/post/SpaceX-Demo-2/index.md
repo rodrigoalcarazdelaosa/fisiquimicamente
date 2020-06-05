@@ -1,7 +1,7 @@
 ---
 title: SpaceX Demo-2
-subtitle: Lanzamiento y acoplamiento de la primera misión tripulada de SpaceX
-summary: Lanzamiento y acoplamiento de la primera misión tripulada de SpaceX.
+subtitle: Estudio cinemático del lanzamiento de la primera misión tripulada de SpaceX
+summary: Estudio cinemático del lanzamiento de la primera misión tripulada de SpaceX.
 date: "2020-06-04T00:00:00Z"
 tags:
 - gravitación
