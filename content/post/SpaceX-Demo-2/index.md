@@ -16,7 +16,7 @@ image:
 <canvas id="h-t"></canvas>
 
 <script>
-var ctx = document.getElementById('myChart');
+var ctx = document.getElementById('h-t');
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
