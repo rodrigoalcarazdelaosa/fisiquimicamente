@@ -29,6 +29,8 @@ En este vídeo de casi 5 horas de duración, publicado por SpaceX, puedes conoce
 
 {{< youtube xY96v0OIcK4 >}}
 
+Si deseas leer más sobre esta histórica misión puedes hacerlo en esta [página oficial en espñaol de la NASA](https://ciencia.nasa.gov/nasa-y-spacex-enviarán-astronautas-la-estación-espacial-los-primeros-lanzados-desde-suelo).
+
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
 
 <canvas id="h-t"></canvas>
