@@ -28,7 +28,7 @@ image:
 		    labels: t,
 		    datasets: [
 		      {
-				label: 'h'
+				label: 'h',
 		        data: h
 		      }
 		    ]
