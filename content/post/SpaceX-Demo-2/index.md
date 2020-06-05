@@ -718,8 +718,8 @@ $$
 						  stepSize: 0.5,
 						  maxTicksLimit: 9,
 						  padding: 10,
-						  maxRotation: 0,
-						  minRotation: 0
+						  // maxRotation: 0,
+						  // minRotation: 0
 					  }
 				  }],
 				  yAxes: [{
