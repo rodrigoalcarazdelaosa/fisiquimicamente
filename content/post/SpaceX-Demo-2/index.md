@@ -648,12 +648,24 @@ Como se puede ver,
 		    datasets: [
 		      {
 		        data: a,
+ 			    label: '"Experimental"',				  
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
 // 				pointRadius: 10,
 // 				pointHoverRadius: 15,
  				showLine: false // no line shown
+		      },
+		      {
+		        data: aMRUV,
+ 			    label: 'MRUV', 				  
+ 			    backgroundColor: '#b50000',
+ 				borderColor: '#b50000',
+ 				fill: false,
+				pointRadius: 0,
+ 			    pointStyle: 'line'
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
 		      }
 		    ]
 		  },
