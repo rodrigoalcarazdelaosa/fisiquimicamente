@@ -32,7 +32,7 @@ En este vídeo de casi 5 horas de duración, publicado por SpaceX, puedes conoce
 Si deseas leer más sobre esta histórica misión puedes hacerlo en la [página oficial en español de la NASA](https://ciencia.nasa.gov/nasa-y-spacex-enviarán-astronautas-la-estación-espacial-los-primeros-lanzados-desde-suelo).
 
 ## Estudio cinemático del lanzamiento
-La entrada podría haber acabado con el párrafo anterior, pero entonces no sabrías distinguir si estabas en la revista [Hola!](https://www.hola.com) o en el blog de Físquicamente con Rodri 😏. 
+La entrada podría haber acabado con el párrafo anterior, pero entonces no sabrías distinguir si estabas en la revista [Hola!](https://www.hola.com) o en el [blog de Físquicamente con Rodri](https://rodrigoalcarazdelaosa.me/post/) 😏. 
 
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
 
