@@ -34,7 +34,7 @@ image:
 // 				fill: false,
 // 				pointRadius: 10,
 // 				pointHoverRadius: 15,
-// 				showLine: false // no line shown
+ 				showLine: false // no line shown
 		      }
 		    ]
 		  },
