@@ -38,7 +38,8 @@ image:
 			  scales: {
 				  yAxis: [{
 					  scaleLabel: {
-						  display: true
+						  display: true,
+						  labelString: 'probability'
 					  }
 				  }]
 			  	
