@@ -61,7 +61,8 @@ image:
   						  fontFamily: 'Cabin Sketch'
 					  },
 					  ticks: {
-						  fontSize: 16
+						  fontSize: 16,
+  						  fontFamily: 'EB Garamond'						  
 					  }
 				  }]
 			  	
