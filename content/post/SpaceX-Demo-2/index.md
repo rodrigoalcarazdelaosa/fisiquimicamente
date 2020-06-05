@@ -25,7 +25,7 @@ image:
 		var chart = new Chart('h-t', {
 		  type: 'line',
 		  data: {
-		    labels: ['0', '200', '400', '600', '800'],
+		    labels: t,
 		    datasets: [
 		      {
 		        data: h
