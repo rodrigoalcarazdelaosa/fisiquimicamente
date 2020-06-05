@@ -296,7 +296,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 		              },
 					  scaleLabel: {
 						  display: true,
-						  labelString: 'Aceleración (m/s^2)',
+						  labelString: 'Aceleración (m/s²)',
 						  fontSize: 18,
   						  fontFamily: 'Cabin Sketch',
 						  fontColor: '#111111'						  
@@ -689,7 +689,7 @@ Como se puede ver,
 		              },
 					  scaleLabel: {
 						  display: true,
-						  labelString: 'Aceleración (m/s^2)',
+						  labelString: 'Aceleración (m/s²)',
 						  fontSize: 18,
   						  fontFamily: 'Cabin Sketch',
 						  fontColor: '#111111'						  
