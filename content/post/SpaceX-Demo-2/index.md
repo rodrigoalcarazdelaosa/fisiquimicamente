@@ -648,6 +648,8 @@ El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>
 
 [^9]: Para hacernos a la idea de lo que significa esto, un paracaidista suele alcanzar la [velocidad límite](https://es.wikipedia.org/wiki/Velocidad_l%C3%ADmite) (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
 
+#### Altitud
+
 <canvas id="h-t-MRUV"></canvas>
 
 <script>
