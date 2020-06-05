@@ -56,7 +56,8 @@ image:
 					  scaleLabel: {
 						  display: true,
 						  labelString: 'h/km',
-						  fontSize: 18						  
+						  fontSize: 18,
+  						  fontFamily: 'Cabin Sketch'
 					  },
 					  ticks: {
 						  fontSize: 16
