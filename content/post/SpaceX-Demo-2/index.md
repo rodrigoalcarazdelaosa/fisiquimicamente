@@ -15,6 +15,8 @@ image:
 
 El pasado sábado 30 de mayo, a las 21:22 hora peninsular, el cohete Falcon 9 de SpaceX lanzó la segunda misión de demostración (Demo-2) de Crew Dragon desde el Complejo de Lanzamiento 39A (LC-39A) en el Centro Espacial Kennedy de la NASA en Florida.
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/huaXHrRX3MfPzCxyBS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GreerTidbits-nasa-rocket-spacex-huaXHrRX3MfPzCxyBS">via GIPHY</a></p>
+
 El sábado 30 de mayo a las 3:22 p.m. EDT, el Falcon 9 de SpaceX lanzó la segunda misión de demostración (Demo-2) de Crew Dragon desde el Complejo de Lanzamiento 39A (LC-39A) en el Centro Espacial Kennedy de la NASA en Florida, y al día siguiente Crew Dragon se acopló autónomamente a la Estación Espacial Internacional. Este vuelo de prueba con los astronautas de la NASA Bob Behnken y Doug Hurley a bordo de la nave espacial Dragon devolvió los vuelos espaciales humanos a los Estados Unidos.
 
 La Demo-2 es la última prueba importante del sistema de vuelos espaciales tripulados de SpaceX que será certificada por la NASA para misiones de tripulación operacional hacia y desde la Estación Espacial Internacional. SpaceX está devolviendo los vuelos espaciales tripulados a los Estados Unidos con uno de los sistemas más seguros y avanzados jamás construidos, y el Programa de Tripulación Comercial de la NASA es un punto de inflexión para el futuro de Estados Unidos en la exploración espacial que sienta las bases para futuras misiones a la Luna, Marte y más allá.
