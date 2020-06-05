@@ -31,10 +31,10 @@ En este vídeo de casi 5 horas de duración, publicado por SpaceX, puedes conoce
 
 Si deseas leer más sobre esta histórica misión puedes hacerlo en la [página oficial en español de la NASA](https://ciencia.nasa.gov/nasa-y-spacex-enviarán-astronautas-la-estación-espacial-los-primeros-lanzados-desde-suelo).
 
-## Estudio cinemático del lanzamiento
+## Estudio cinemático del Falcon 9 🚀
 La entrada podría haber acabado con el párrafo anterior, pero entonces no sabrías distinguir si estabas en la revista [¡Hola!](https://www.hola.com) o en el [blog de Físquicamente con Rodri]({{< ref "/post/" >}}) 😏.
 
-Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen la velocidad (en km/h) y la altitud (en km) del cohete en tiempo real a medida que asciende hasta los 200 km aproximadamente. 
+Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen la velocidad (en km/h) y la altitud (en km) del cohete en tiempo real a medida que asciende hasta los 200 km aproximadamente. ¿Qué es lo que se me ocurrió al ver esos datos? Pues anotarlos, representarlos y hacer un pequeño estudio empírico sobre la cinemática del Falcon 9.
 
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
 
