@@ -469,7 +469,7 @@ Como se puede ver,
 						  fontSize: 16,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
-//						  maxTicksLimit: 13,
+						  maxTicksLimit: 5,
 						  padding: 10
 					  }
 				  }],
