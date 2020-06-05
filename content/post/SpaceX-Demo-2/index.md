@@ -180,17 +180,19 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 	}		
 </script>
 
-La altitud asciende rápidamente durante los dos primeros minutos aproximadamente (hasta el minuto 2.333), superando los 75$\thinspace$km de altura, cuando los nueve motores [Merlin](https://es.wikipedia.org/wiki/Merl%C3%ADn_(motor_cohete)) del Falcon 9 se apagan, instante que se conoce como MECO (Main Engine Cut Off).
+La altitud asciende rápidamente durante los dos primeros minutos aproximadamente (hasta el minuto 2.333), superando los 75$\thinspace$km de altura, cuando los nueve motores [Merlin](https://es.wikipedia.org/wiki/Merl%C3%ADn_(motor_cohete)) del Falcon 9 se apagan, instante que se conoce como MECO (Main Engine Cut Off)[^5].
+
+[^5]: Una de las características diferenciantes del Falcon 9 de SpaceX es que 
 
 A partir de ese momento la altitud sigue aumentando alcanzando los 200$\thinspace$km a los 5 minutos de vuelo aproximadamente y manteniéndose constante.
 
-SECO Merlin Vacuum
+SECO significa Second Stage Cut Off Merlin Vacuum
 
 ### Velocidad
 
-La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función del tiempo transcurrido, en minutos[^5]:
+La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función del tiempo transcurrido, en minutos[^6]:
 
-[^5]: De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900$\thinspace$km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
+[^6]: De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900$\thinspace$km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
 
 <canvas id="v-t"></canvas>
 
@@ -328,13 +330,13 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 	}		
 </script>
 	
-La velocidad aumenta de forma no lineal, alcanzando los 6724$\thinspace$km/h, más de 5 veces la velocidad del sonido en el aire[^6], en el minuto 2.333, cuando los nueve motores [Merlin](https://es.wikipedia.org/wiki/Merl%C3%ADn_(motor_cohete)) del Falcon 9 se apagan, instante que se conoce como MECO (Main Engine Cut Off).
+La velocidad aumenta de forma no lineal, alcanzando los 6724$\thinspace$km/h, más de 5 veces la velocidad del sonido en el aire[^7], en el minuto 2.333, cuando los nueve motores [Merlin](https://es.wikipedia.org/wiki/Merl%C3%ADn_(motor_cohete)) del Falcon 9 se apagan, instante que se conoce como MECO (Main Engine Cut Off).
 
 
 
 SECO Merlin Vacuum
 
-[^6]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar ([https://es.wikipedia.org/wiki/Velocidad_del_sonido](https://es.wikipedia.org/wiki/Velocidad_del_sonido)).
+[^7]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar ([https://es.wikipedia.org/wiki/Velocidad_del_sonido](https://es.wikipedia.org/wiki/Velocidad_del_sonido)).
 
 ### Aceleración
 
