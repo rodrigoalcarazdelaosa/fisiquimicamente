@@ -655,7 +655,7 @@ La altitud teórica la calculamos a partir de la expresión:
 $$
 h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
-donde $h_0 = 0.4\thinspace$km, $v_0 = 195\thinspace$km/h y $a = 10.375\thinspace$m/s<sup>2</sup>.
+donde $h_0 = 0.4\thinspace$km, $v_0 = 195\thinspace$km/h y $a = 10.375\thinspace$m/s<sup>2</sup>. En la siguiente gráfica se dibujan tanto la aceleración empírica como la calculada suponiendo un MRUV, 
 
 <canvas id="h-t-MRUV"></canvas>
 
