@@ -15,7 +15,7 @@ image:
 
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
 
-<canvas id="h-t" height=200px></canvas>
+<canvas id="h-t" height=300px></canvas>
 
 <script>
 	d3.csv('h.csv')
