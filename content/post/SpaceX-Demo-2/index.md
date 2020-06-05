@@ -40,7 +40,7 @@ image:
 						  display: true,
 						  labelString: 't/s'
 					  }
-				  }]
+				  }],
 				  yAxes: [{
 					  scaleLabel: {
 						  display: true,
