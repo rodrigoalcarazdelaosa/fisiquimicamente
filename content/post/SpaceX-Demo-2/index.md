@@ -42,7 +42,7 @@ Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda apare
 
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos[^4]:
 
-[^4]: Por poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su altitud de crucero, que son unos 10 km. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una altitud unas 20 veces superior a la de crucero de un avión comercial.
+[^4]: Por poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su altitud de crucero, que son unos 10 km. Es decir, en la mitad de tiempo, el Falcon 9 es capaz de alcanzar una altitud unas 20 veces superior a la de crucero de un avión comercial.
 
 <canvas id="h-t"></canvas>
 
@@ -126,7 +126,7 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 
 Algunos apuntes sobre esta curva:
 
-- Hola
+- La altitud asciende rápidamente
 
 ### Velocidad
 
@@ -429,7 +429,7 @@ Como se puede ver,
 		    datasets: [
 		      {
 		        data: h,
- 			    label: '"Experimental"', 
+ 			    label: '"Empírico"', 
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
@@ -528,7 +528,7 @@ Como se puede ver,
 		    datasets: [
 		      {
 		        data: v,
-				label: '"Experimental"', 
+				label: '"Empírico"', 
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
@@ -683,7 +683,7 @@ Como se puede ver,
 		    datasets: [
 		      {
 		        data: a,
- 			    label: '"Experimental"',				  
+ 			    label: '"Empírico"',				  
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
