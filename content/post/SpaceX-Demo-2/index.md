@@ -29,7 +29,7 @@ image:
 		    datasets: [
 		      {
 		        data: h,
-				// backgroundColor: #2a54a9,
+ 			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
 // 				pointRadius: 10,
