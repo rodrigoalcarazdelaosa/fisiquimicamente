@@ -37,7 +37,7 @@ image:
 			  scales: {
 				  display: true
 			  	
-			  }
+			  },
 		      legend: {
 		      	display: false		              
 		      }
