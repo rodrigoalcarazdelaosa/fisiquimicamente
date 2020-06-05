@@ -50,7 +50,8 @@ image:
 						  labelString: 't/s',
 						  fontSize: 18,
 						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'
+						  fontColor: '#111111',
+						  fontStyle: 'italic'
 					  },
 					  ticks: {
 						  fontSize: 16,
