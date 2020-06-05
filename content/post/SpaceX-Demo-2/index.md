@@ -36,7 +36,7 @@ image:
 		  },
 		  options: {
 			  scales: {
-				  yAxis: [{
+				  yAxes: [{
 					  scaleLabel: {
 						  display: true,
 						  labelString: 'probability'
