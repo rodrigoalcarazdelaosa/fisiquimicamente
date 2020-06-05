@@ -180,3 +180,87 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 </script>
 	
 Como se puede ver,
+
+La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
+
+<canvas id="a-t"></canvas>
+
+<script>
+	d3.csv('a.csv')
+	  .then(makeChart);
+
+	function makeChart(hdata) {
+		var t = hdata.map(function(d) {return d.t});
+		var a = hdata.map(function(d) {return d.a});
+		var chart = new Chart('a-t', {
+		  type: 'line',
+		  data: {
+		    labels: t,
+		    datasets: [
+		      {
+		        data: a,
+ 			    backgroundColor: '#2a54a9',
+ 				borderColor: '#2a54a9',
+ 				fill: false,
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
+ 				showLine: false // no line shown
+		      }
+		    ]
+		  },
+		  options: {
+			  scales: {
+				  xAxes: [{
+					  gridLines: {
+						  drawOnChartArea: false,
+						  color: "#111111" 
+		              },
+					  afterFit: function(scale) {
+						  scale.height = 80  //<-- set value as you wish 
+					  },
+					  scaleLabel: {
+						  display: true,
+						  labelString: 'Tiempo (min)',
+						  fontSize: 18,
+						  fontFamily: 'Cabin Sketch',
+						  fontColor: '#111111'
+					  },
+					  ticks: {
+						  fontSize: 16,
+  						  fontFamily: 'EB Garamond',
+						  fontColor: '#111111',
+						  maxTicksLimit: 9,
+						  padding: 10
+					  }
+				  }],
+				  yAxes: [{
+					  gridLines: {
+						  drawOnChartArea: false,
+						  color: "#111111"						  
+		              },
+					  scaleLabel: {
+						  display: true,
+						  labelString: 'Aceleración (m/s^2)',
+						  fontSize: 18,
+  						  fontFamily: 'Cabin Sketch',
+						  fontColor: '#111111'						  
+					  },
+					  ticks: {
+						  fontSize: 16,
+  						  fontFamily: 'EB Garamond',
+						  fontColor: '#111111',
+						  padding: 10,
+						  maxTicksLimit: 6						  
+					  }
+				  }]
+			  	
+			  },
+		      legend: {
+		      	display: false		              
+		      }
+		   }
+		});
+	}		
+</script>
+	
+Como se puede ver,
