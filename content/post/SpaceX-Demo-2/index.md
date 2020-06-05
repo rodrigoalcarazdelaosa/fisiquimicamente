@@ -21,13 +21,13 @@ Después de haberse tenido que posponer por mal tiempo[^1], el pasado sábado 30
 
 Aproximadamente 19 horas después la nave Crew Dragon se acopló autónomamente a la Estación Espacial Internacional, con los astronautas Bob Behnken y Doug Hurley a bordo, lo que ha supuesto que Estados Unidos vuelva a poner seres humanos en el espacio por primera vez desde el año 2011[^2].
 
-En este vídeo de casi 5 horas de duración, publicado por SpaceX, puedes conocer muchos más detalles sobre la misión (si solo quieres ver el lanzamiento salta hasta 4:22:46):
-
-{{< youtube xY96v0OIcK4 >}}
-
 [^2]: El 8 de julio de 2011 tuvo lugar la 135 y última misión del [Programa del Transbordador Espacial](https://es.wikipedia.org/wiki/Programa_del_transbordador_espacial) de la NASA.
 
 La Demo-2 es la última prueba importante del sistema de vuelos espaciales tripulados de SpaceX que será certificada por la NASA para misiones tripuladas hacia y desde la Estación Espacial Internacional.
+
+En este vídeo de casi 5 horas de duración, publicado por SpaceX, puedes conocer muchos más detalles sobre la misión (si solo quieres ver el lanzamiento salta hasta 4:22:46):
+
+{{< youtube xY96v0OIcK4 >}}
 
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
 
