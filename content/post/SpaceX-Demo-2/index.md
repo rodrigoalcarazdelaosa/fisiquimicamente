@@ -347,7 +347,6 @@ Como se puede ver,
 			  	
 			  },
 		      legend: {
-		      	display: false		              
 		      }
 		   }
 		});
