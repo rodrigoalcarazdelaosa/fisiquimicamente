@@ -789,9 +789,9 @@ En la siguiente gráfica se dibujan tanto la aceleración empírica como la calc
 	}		
 </script>
 	
-La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 75$\thinspace$%)
-	
-A partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que la expresión del MRUV no es válida, ya que supone un aumento indefinido.	
+La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 75$\thinspace$%). Además, a partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que la expresión del MRUV no es válida, ya que supone un aumento indefinido.
+
+#### Velocidad
 	
 <canvas id="v-t-MRUV"></canvas>
 
