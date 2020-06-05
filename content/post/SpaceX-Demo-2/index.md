@@ -470,7 +470,7 @@ Como se puede ver,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
 						  stepSize: 0.5,
-						  maxTicksLimit: 8,
+						  maxTicksLimit: 9
 						  padding: 10
 					  }
 				  }],
