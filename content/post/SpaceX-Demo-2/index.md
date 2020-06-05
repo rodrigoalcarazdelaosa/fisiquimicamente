@@ -29,7 +29,8 @@ image:
 		    datasets: [
 		      {
 				label: 'h',
-		        data: h
+		        data: h,
+ 			    showLine: false // disable for a single dataset
 		      }
 		    ]
 		  },
