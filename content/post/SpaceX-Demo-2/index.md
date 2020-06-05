@@ -463,6 +463,7 @@ Como se puede ver,
 			  },
 		      legend: {
 				  labels: {
+					  boxWidth: 20,
 					  fontSize: 18,
   					  fontFamily: 'Cabin Sketch',
 					  fontColor: '#111111'
