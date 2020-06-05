@@ -183,6 +183,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 			              value: "2.33333333333333",
 			              borderColor: "#b50000",
 			              label: {
+							fontFamily: 'Cabin Sketch',							  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -296,6 +297,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 			              value: "2.33333333333333",
 			              borderColor: "#b50000",
 			              label: {
+							fontFamily: 'Cabin Sketch',							  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -308,6 +310,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 			              value: "8.66666666666667",
 			              borderColor: "#b50000",
 			              label: {
+							fontFamily: 'Cabin Sketch',							  
 			                content: "SECO",
 			                enabled: true,
 			                position: "top"
