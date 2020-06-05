@@ -264,3 +264,84 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 </script>
 	
 Como se puede ver,
+
+<canvas id="h-t-MRUV"></canvas>
+
+<script>
+	d3.csv('h.csv')
+	  .then(makeChart);
+
+	function makeChart(hdata) {
+		var t = hdata.map(function(d) {return d.t});
+		var h = hdata.map(function(d) {return d.h});
+		var hMRUV = hdata.map(function(d) {return d.hMRUV});
+		var chart = new Chart('h-t-MRUV', {
+		  type: 'line',
+		  data: {
+		    labels: t,
+		    datasets: [
+		      {
+		        data: h,
+ 			    backgroundColor: '#2a54a9',
+ 				borderColor: '#2a54a9',
+ 				fill: false,
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
+ 				showLine: false // no line shown
+		      }
+		    ]
+		  },
+		  options: {
+			  scales: {
+				  xAxes: [{
+					  gridLines: {
+						  drawOnChartArea: false,
+						  color: "#111111" 
+		              },
+					  afterFit: function(scale) {
+						  scale.height = 80  //<-- set value as you wish 
+					  },
+					  scaleLabel: {
+						  display: true,
+						  labelString: 'Tiempo (min)',
+						  fontSize: 18,
+						  fontFamily: 'Cabin Sketch',
+						  fontColor: '#111111'
+					  },
+					  ticks: {
+						  fontSize: 16,
+  						  fontFamily: 'EB Garamond',
+						  fontColor: '#111111',
+						  maxTicksLimit: 9,
+						  padding: 10
+					  }
+				  }],
+				  yAxes: [{
+					  gridLines: {
+						  drawOnChartArea: false,
+						  color: "#111111"						  
+		              },
+					  scaleLabel: {
+						  display: true,
+						  labelString: 'Altitud (km)',
+						  fontSize: 18,
+  						  fontFamily: 'Cabin Sketch',
+						  fontColor: '#111111'						  
+					  },
+					  ticks: {
+						  fontSize: 16,
+  						  fontFamily: 'EB Garamond',
+						  fontColor: '#111111',
+						  padding: 10,
+						  maxTicksLimit: 6						  
+					  }
+				  }]
+			  	
+			  },
+		      legend: {
+		      	display: false		              
+		      }
+		   }
+		});
+	}		
+</script>
