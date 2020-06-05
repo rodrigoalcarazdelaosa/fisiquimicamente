@@ -36,7 +36,7 @@ image:
 		          legend: {
 		              labels: {
 		                  // This more specific font property overrides the global property
-		                  fontFamily: 'EB Garamond'
+		                  fontFamily: 'Cabin Sketch'
 		              }
 		          }
 		      }
