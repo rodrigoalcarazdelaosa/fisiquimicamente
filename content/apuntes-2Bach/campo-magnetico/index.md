@@ -5,7 +5,6 @@ summary: "`PRÓXIMAMENTE` <br> Campo magnético. Flujo magnético. Inducción el
 tags:
 - 2º Bach
 - electromagnetismo
-- movimiento
 - fuerzas
 - energía
 categories:
