@@ -195,6 +195,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 			              value: "8.66666666666667",
 			              borderColor: "#b50000",
 			              label: {
+							fontFamily: 'Cabin Sketch',
 			                content: "SECO",
 			                enabled: true,
 			                position: "top"
