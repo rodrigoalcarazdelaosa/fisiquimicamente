@@ -481,7 +481,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 	}		
 </script>
 	
-Como se puede ver,
+Se observa claramente que la **aceleración no** es **constante**, aumentando hasta el MECO, momento en el que toma incluso valores negativos (recordemos que la velocidad se ve reducida). Después vuelve a aumentar hasta valores por encima de los 30$\thinspace$m/s<sup>2</sup>
 
 <canvas id="h-t-MRUV"></canvas>
 
