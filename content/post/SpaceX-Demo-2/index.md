@@ -273,7 +273,23 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 			  },
 		      legend: {
 		      	display: false		              
-		      }
+		      },
+			  annotation: {
+				  annotations: [
+					  {
+			              type: "line",
+			              mode: "vertical",
+			              scaleID: "x-axis-0",
+			              value: "2.33333333333333",
+			              borderColor: "#b50000",
+			              label: {
+			                content: "MECO",
+			                enabled: true,
+			                position: "top"
+			              }
+			          }
+			      ]
+			  }			  
 		   }
 		});
 	}		
