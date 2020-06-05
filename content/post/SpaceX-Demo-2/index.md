@@ -40,6 +40,9 @@ image:
 						  display: true,
 						  labelString: 't/s',
 						  fontSize: 40
+					  },
+					  ticks: {
+						  fontSize: 16
 					  }
 				  }],
 				  yAxes: [{
