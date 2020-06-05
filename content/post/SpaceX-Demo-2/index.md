@@ -355,7 +355,23 @@ Como se puede ver,
   					  fontFamily: 'Cabin Sketch',
 					  fontColor: '#111111'
 				  }				  
-		      }
+		      },
+			  annotation: {
+			          annotations: [
+			            {
+			              type: "line",
+			              mode: "vertical",
+			              scaleID: "x-axis-0",
+			              value: "MAR",
+			              borderColor: "red",
+			              label: {
+			                content: "TODAY",
+			                enabled: true,
+			                position: "top"
+			              }
+			            }
+			          ]
+			        }			  
 		   }
 		});
 	}		
