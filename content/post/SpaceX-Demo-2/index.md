@@ -34,6 +34,8 @@ Si deseas leer más sobre esta histórica misión puedes hacerlo en la [página 
 ## Estudio cinemático del lanzamiento
 La entrada podría haber acabado con el párrafo anterior, pero entonces no sabrías distinguir si estabas en la revista [¡Hola!](https://www.hola.com) o en el [blog de Físquicamente con Rodri]({{< ref "/post/" >}}) 😏.
 
+Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen la velocidad (en km/h) y la altitud (en km) del cohete en tiempo real a medida que asciende hasta los 200 km aproximadamente. 
+
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
 
 <canvas id="h-t"></canvas>
