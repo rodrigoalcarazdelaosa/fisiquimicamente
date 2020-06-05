@@ -45,6 +45,9 @@ image:
 					  scaleLabel: {
 						  display: true,
 						  labelString: 'h/km'
+					  },
+					  ticks: {
+						  fontSize: 40
 					  }
 				  }]
 			  	
