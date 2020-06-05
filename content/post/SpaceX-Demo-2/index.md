@@ -646,7 +646,7 @@ La siguiente gráfica muestra de nuevo la aceleración *empírica* del cohete, o
 	
 El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>2</sup>, ligeramente superior (en módulo) a la aceleración de la gravedad en la superficie de la Tierra (9.8$\thinspace$m/s<sup>2</sup>). Esto se puede interpretar como que, en promedio, los astronautas se han pasado algo más de 10 minutos experimentando algo parecido a una caída libre, pero *hacia arriba* 🙃[^9].
 
-[^9]: Para hacernos a la idea de lo que significa esto, un paracaidista suele alcanzar la velocidad límite (en torno a 180$\thinspace$km/h) en tan solo 12 segundos.
+[^9]: Para hacernos a la idea de lo que significa esto, un paracaidista suele alcanzar la velocidad límite (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
 
 <canvas id="h-t-MRUV"></canvas>
 
