@@ -41,6 +41,11 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 		    ]
 		  },
 		  options: {
+			  layout: {
+				  padding: {
+					  bottom: -20,
+				  }
+			  },
 			  scales: {
 				  xAxes: [{
 					  gridLines: {
