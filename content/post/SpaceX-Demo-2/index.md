@@ -339,7 +339,7 @@ Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene 
 
 ### Aceleración
 
-A partir de los valores del módulo de la velocidad es posible obtener la aceleración tangencial del cohete mediante una derivación numérica[^8]
+A partir de los valores del módulo de la velocidad es posible obtener la aceleración tangencial del cohete mediante una derivación numérica[^8].
 
 [^8]: En concreto, la aceleración se ha obtenido utilizando la función [`gradient`](https://es.mathworks.com/help/matlab/ref/gradient.html) de [MATLAB<sup>&reg;</sup>](https://es.mathworks.com/products/matlab.html).
 
