@@ -17,13 +17,13 @@ El pasado sábado 30 de mayo, a las 21:22 hora peninsular, el cohete Falcon 9 de
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/huaXHrRX3MfPzCxyBS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GreerTidbits-nasa-rocket-spacex-huaXHrRX3MfPzCxyBS">via GIPHY</a></p>
 
-El sábado 30 de mayo a las 3:22 p.m. EDT, el Falcon 9 de SpaceX lanzó la segunda misión de demostración (Demo-2) de Crew Dragon desde el Complejo de Lanzamiento 39A (LC-39A) en el Centro Espacial Kennedy de la NASA en Florida, y al día siguiente Crew Dragon se acopló autónomamente a la Estación Espacial Internacional. Este vuelo de prueba con los astronautas de la NASA Bob Behnken y Doug Hurley a bordo de la nave espacial Dragon devolvió los vuelos espaciales humanos a los Estados Unidos.
+Aproximadamente 19 horas después la nave Crew Dragon se acopló autónomamente a la Estación Espacial Internacional, con los astronautas Bob Behnken y Doug Hurley a bordo, lo que ha supuesto que Estados Unidos vuelva a poner humanos en el espacio por primera vez desde el año 2011[^1].
 
-La Demo-2 es la última prueba importante del sistema de vuelos espaciales tripulados de SpaceX que será certificada por la NASA para misiones de tripulación operacional hacia y desde la Estación Espacial Internacional. SpaceX está devolviendo los vuelos espaciales tripulados a los Estados Unidos con uno de los sistemas más seguros y avanzados jamás construidos, y el Programa de Tripulación Comercial de la NASA es un punto de inflexión para el futuro de Estados Unidos en la exploración espacial que sienta las bases para futuras misiones a la Luna, Marte y más allá.
+[^1]: El 8 de julio de 2011 tuvo lugar la 135 y última misión del Programa del Transbordador Espacial de la NASA.
+
+La Demo-2 es la última prueba importante del sistema de vuelos espaciales tripulados de SpaceX que será certificada por la NASA para misiones tripuladas hacia y desde la Estación Espacial Internacional. SpaceX está devolviendo los vuelos espaciales tripulados a los Estados Unidos con uno de los sistemas más seguros y avanzados jamás construidos, y el Programa de Tripulación Comercial de la NASA es un punto de inflexión para el futuro de Estados Unidos en la exploración espacial que sienta las bases para futuras misiones a la Luna, Marte y más allá.
 
 Puede ver una repetición del lanzamiento arriba. 
-
-On Saturday, May 30 at 3:22 p.m. EDT, SpaceX’s Falcon 9 launched Crew Dragon’s second demonstration (Demo-2) mission from Launch Complex 39A (LC-39A) at NASA’s Kennedy Space Center in Florida, and the next day Crew Dragon autonomously docked to the International Space Station. This test flight with NASA astronauts Bob Behnken and Doug Hurley on board the Dragon spacecraft returned human spaceflight to the United States.
 
 Demo-2 is the final major test for SpaceX’s human spaceflight system to be certified by NASA for operational crew missions to and from the International Space Station. SpaceX is returning human spaceflight to the United States with one of the safest, most advanced systems ever built, and NASA’s Commercial Crew Program is a turning point for America’s future in space exploration that lays the groundwork for future missions to the Moon, Mars, and beyond.
 
