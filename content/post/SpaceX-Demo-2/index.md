@@ -23,7 +23,6 @@ image:
 		var chart = new Chart('h-t', {
 		  type: 'line',
 		  data: {
-		    labels: ['A', 'B', 'C'],
 		    datasets: [
 		      {
 		        data: [10, 20, 30]
