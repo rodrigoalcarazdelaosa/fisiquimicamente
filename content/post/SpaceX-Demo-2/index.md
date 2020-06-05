@@ -570,7 +570,7 @@ Como se puede ver,
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "2.33333333333333",
-			              borderColor: "#b50000",
+			              borderColor: "#111111",
 			              label: {
 							// Background color of label, default below
 							backgroundColor: 'rgba(17,17,17,0.8)',
