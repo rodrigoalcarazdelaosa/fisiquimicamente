@@ -361,8 +361,7 @@ Como se puede ver,
 			            {
 			              type: "line",
 			              mode: "vertical",
-			              scaleID: "x-axis-0",
-			              value: "MAR",
+			              value: "3",
 			              borderColor: "red",
 			              label: {
 			                content: "TODAY",
