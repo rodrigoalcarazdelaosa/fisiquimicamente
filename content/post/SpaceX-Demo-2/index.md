@@ -643,6 +643,8 @@ La siguiente gráfica muestra de nuevo la aceleración *empírica* del cohete, o
 		});
 	}		
 </script>
+	
+El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>2</sup>
 
 <canvas id="h-t-MRUV"></canvas>
 
