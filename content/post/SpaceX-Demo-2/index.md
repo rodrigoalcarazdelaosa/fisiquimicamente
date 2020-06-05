@@ -39,7 +39,7 @@ image:
 					  scaleLabel: {
 						  display: true,
 						  labelString: 't/s',
-						  fontSize: 40
+						  fontSize: 18
 					  },
 					  ticks: {
 						  fontSize: 16
