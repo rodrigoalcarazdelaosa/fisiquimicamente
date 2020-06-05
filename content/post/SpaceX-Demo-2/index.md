@@ -351,7 +351,9 @@ Como se puede ver,
 			  },
 		      legend: {
 				  labels: {
-					  fontSize: 18				  	
+					  fontSize: 18,
+  					  fontFamily: 'Cabin Sketch',
+					  fontColor: '#111111'
 				  }				  
 		      }
 		   }
