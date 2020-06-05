@@ -49,6 +49,9 @@ image:
 					  }
 				  }],
 				  yAxes: [{
+					  gridLines: {
+						  display: false
+		              },
 					  scaleLabel: {
 						  display: true,
 						  labelString: 'h/km',
