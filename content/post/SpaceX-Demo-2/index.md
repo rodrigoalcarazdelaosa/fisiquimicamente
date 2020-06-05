@@ -19,7 +19,7 @@ El pasado sábado 30 de mayo, a las 21:22 hora peninsular, el cohete Falcon 9 de
 
 Aproximadamente 19 horas después la nave Crew Dragon se acopló autónomamente a la Estación Espacial Internacional, con los astronautas Bob Behnken y Doug Hurley a bordo, lo que ha supuesto que Estados Unidos vuelva a poner humanos en el espacio por primera vez desde el año 2011[^1].
 
-[^1]: El 8 de julio de 2011 tuvo lugar la 135 y última misión del Programa del Transbordador Espacial de la NASA.
+[^1]: El 8 de julio de 2011 tuvo lugar la 135 y última misión del [Programa del Transbordador Espacial](https://es.wikipedia.org/wiki/Programa_del_transbordador_espacial) de la NASA.
 
 La Demo-2 es la última prueba importante del sistema de vuelos espaciales tripulados de SpaceX que será certificada por la NASA para misiones tripuladas hacia y desde la Estación Espacial Internacional. SpaceX está devolviendo los vuelos espaciales tripulados a los Estados Unidos con uno de los sistemas más seguros y avanzados jamás construidos, y el Programa de Tripulación Comercial de la NASA es un punto de inflexión para el futuro de Estados Unidos en la exploración espacial que sienta las bases para futuras misiones a la Luna, Marte y más allá.
 
