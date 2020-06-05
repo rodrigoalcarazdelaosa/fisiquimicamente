@@ -268,7 +268,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 	}		
 </script>
 	
-Hasta el minuto 2.333, la velocidad aumenta de forma no lineal, alcanzando los 6724$\thinspace$km/h, más de 5 veces la velocidad del sonido en el aire[^6], , MECO significa Main Engine Cut Off
+La velocidad aumenta de forma no lineal, alcanzando los 6724$\thinspace$km/h, más de 5 veces la velocidad del sonido en el aire[^6], en el minuto 2.333, cuando los nueve motores Merlin del Falcon 9 se apagan, instante que se conoce como MECO (Main Engine Cut Off).
 
 [^6]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar ([https://es.wikipedia.org/wiki/Velocidad_del_sonido](https://es.wikipedia.org/wiki/Velocidad_del_sonido)).
 
