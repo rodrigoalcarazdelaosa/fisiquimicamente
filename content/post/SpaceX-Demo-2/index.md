@@ -180,7 +180,9 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 	}		
 </script>
 
-La altitud asciende rápidamente durante los primeros 5 minutos aproximadamente, alcanzando los 200$\thinspace$km y manteniéndose constante a partir de ese momento.
+La altitud asciende rápidamente durante los dos primeros minutos aproximadamente, superando los 75$\thinspace$km de altura, cuando los nueve motores [Merlin](https://es.wikipedia.org/wiki/Merl%C3%ADn_(motor_cohete)) del Falcon 9 se apagan, instante que se conoce como MECO (Main Engine Cut Off). A partir de ese momento la altitud sigue aumentando alcanzando los 200$\thinspace$km y manteniéndose constante a partir de ese momento.
+
+SECO Merlin Vacuum
 
 ### Velocidad
 
