@@ -506,7 +506,7 @@ La siguiente gráfica muestra de nuevo la aceleración *empírica* del cohete, o
 		    datasets: [
 		      {
 		        data: a,
- 			    label: '"Empírico"',				  
+ 			    label: '"Empírica"',				  
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
@@ -661,7 +661,7 @@ La siguiente gráfica muestra de nuevo la aceleración *empírica* del cohete, o
 		    datasets: [
 		      {
 		        data: h,
- 			    label: '"Empírico"', 
+ 			    label: '"Empírica"', 
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
@@ -791,7 +791,7 @@ La siguiente gráfica muestra de nuevo la aceleración *empírica* del cohete, o
 		    datasets: [
 		      {
 		        data: v,
-				label: '"Empírico"', 
+				label: '"Empírica"', 
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
