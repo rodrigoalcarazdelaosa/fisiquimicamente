@@ -13,7 +13,7 @@ image:
   caption: "[https://www.cem.es/content/el-sistema-internacional-de-unidades-si](https://www.cem.es/content/el-sistema-internacional-de-unidades-si)"
 ---
 
-La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo, en s:
+La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo, en minutos:
 
 <canvas id="h-t"></canvas>
 
@@ -49,7 +49,7 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 		              },
 					  scaleLabel: {
 						  display: true,
-						  labelString: 'Tiempo (s)',
+						  labelString: 'Tiempo (min)',
 						  fontSize: 18,
 						  fontFamily: 'Cabin Sketch',
 						  fontColor: '#111111'
