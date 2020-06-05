@@ -34,10 +34,14 @@ image:
 		    ]
 		  },
 		  options: {
-		          legend: {
-					  display: false		              
-		          }
+			  scales: {
+				  display: true
+			  	
+			  }
+		      legend: {
+		      	display: false		              
 		      }
+		   }
 		});
 	}		
 </script>
