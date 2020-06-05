@@ -97,7 +97,7 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 	
 Como se puede ver,
 
-La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
+La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función del tiempo transcurrido, en minutos:
 
 <canvas id="v-t"></canvas>
 
