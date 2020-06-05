@@ -128,7 +128,9 @@ La altitud asciende rápidamente durante los primeros 5 minutos aproximadamente,
 
 ### Velocidad
 
-La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función del tiempo transcurrido, en minutos:
+La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función del tiempo transcurrido, en minutos[^5]:
+
+[^5]: De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900 km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
 
 <canvas id="v-t"></canvas>
 
@@ -265,8 +267,6 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 		});
 	}		
 </script>
-	
-De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900 km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
 
 ### Aceleración
 
