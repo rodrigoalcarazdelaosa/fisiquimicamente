@@ -464,6 +464,7 @@ Como se puede ver,
 		      legend: {
 				  labels: {
 					  usePointStyle: true,
+					  padding: 20,
 					  fontSize: 18,
   					  fontFamily: 'Cabin Sketch',
 					  fontColor: '#111111'
