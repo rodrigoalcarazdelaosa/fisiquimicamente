@@ -36,7 +36,11 @@ image:
 		  },
 		  options: {
 			  scales: {
-				  display: true
+				  yAxis: [{
+					  scaleLabel: {
+						  display: true
+					  }
+				  }]
 			  	
 			  },
 		      legend: {
