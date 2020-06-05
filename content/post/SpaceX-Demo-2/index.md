@@ -187,7 +187,7 @@ La altitud asciende rápidamente durante los dos primeros minutos aproximadament
 
 A partir de ese momento la altitud sigue aumentando alcanzando los 200$\thinspace$km a los 5 minutos de vuelo aproximadamente y manteniéndose constante.
 
-SECO significa Second Stage Cut Off Merlin Vacuum
+SECO significa Second Stage Cut Off y representa el momento en el que el motor Merlin Vacuum se para. 
 
 ### Velocidad
 
