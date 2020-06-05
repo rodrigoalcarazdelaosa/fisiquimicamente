@@ -653,7 +653,7 @@ Una vez tenemos nuestro valor de aceleración constante, podemos comparar la alt
 #### Altitud
 La altitud teórica la calculamos a partir de la expresión:
 $$
-x(t) = x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2
+h(t) = h_0 +v_0 t +\frac{1}{2}a t^2
 $$
 
 <canvas id="h-t-MRUV"></canvas>
