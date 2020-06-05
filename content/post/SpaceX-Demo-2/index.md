@@ -35,10 +35,10 @@ image:
 		  },
 		  options: {
 			  scales: {
-				  gridLines: [{
-					  display: true
-				  }],
 				  xAxes: [{
+					  gridLines: {
+						  display: false
+		              },
 					  scaleLabel: {
 						  display: true,
 						  labelString: 't/s',
