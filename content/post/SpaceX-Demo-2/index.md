@@ -35,6 +35,12 @@ image:
 		  },
 		  options: {
 			  scales: {
+				  xAxes: [{
+					  scaleLabel: {
+						  display: true,
+						  labelString: 't/s'
+					  }
+				  }]
 				  yAxes: [{
 					  scaleLabel: {
 						  display: true,
