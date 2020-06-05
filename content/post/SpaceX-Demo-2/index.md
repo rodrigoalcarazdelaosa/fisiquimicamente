@@ -122,7 +122,7 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 	}		
 </script>
 	
-Por poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su altitud de crucero, que son unos 10 km. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una altitud unas 20 veces superior a la de vuelo de un avión comercial.
+Por poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su altitud de crucero, que son unos 10 km. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una altitud unas 20 veces superior a la de crucero de un avión comercial.
 
 ### Velocidad
 
@@ -264,7 +264,9 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 	}		
 </script>
 	
-Como se puede ver,
+De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900 km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanazar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
+
+### Aceleración
 
 La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
 
