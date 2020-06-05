@@ -716,7 +716,7 @@ $$
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
 						  stepSize: 0.5,
-						  maxTicksLimit: 9,
+						  maxTicksLimit: 8,
 						  padding: 10,
 						  maxRotation: 0,
 						  minRotation: 0
