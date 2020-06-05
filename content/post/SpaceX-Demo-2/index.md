@@ -99,22 +99,22 @@ Como se puede ver,
 
 La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del tiempo transcurrido, en minutos:
 
-<canvas id="h-t"></canvas>
+<canvas id="v-t"></canvas>
 
 <script>
-	d3.csv('h.csv')
+	d3.csv('v.csv')
 	  .then(makeChart);
 
 	function makeChart(hdata) {
 		var t = hdata.map(function(d) {return d.t});
-		var h = hdata.map(function(d) {return d.h});		
-		var chart = new Chart('h-t', {
+		var v = hdata.map(function(d) {return d.v});		
+		var chart = new Chart('v-t', {
 		  type: 'line',
 		  data: {
 		    labels: t,
 		    datasets: [
 		      {
-		        data: h,
+		        data: v,
  			    backgroundColor: '#2a54a9',
  				borderColor: '#2a54a9',
  				fill: false,
@@ -156,7 +156,7 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 		              },
 					  scaleLabel: {
 						  display: true,
-						  labelString: 'Altitud (km)',
+						  labelString: 'Velocidad (km/h)',
 						  fontSize: 18,
   						  fontFamily: 'Cabin Sketch',
 						  fontColor: '#111111'						  
