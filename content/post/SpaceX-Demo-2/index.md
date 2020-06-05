@@ -48,7 +48,7 @@ image:
 						  labelString: 'h/km'
 					  },
 					  ticks: {
-						  fontSize: 40
+						  fontSize: 16
 					  }
 				  }]
 			  	
