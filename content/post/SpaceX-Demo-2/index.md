@@ -644,7 +644,7 @@ La siguiente gráfica muestra de nuevo la aceleración *empírica* del cohete, o
 	}		
 </script>
 	
-El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>2</sup>, ligeramente superior (en módulo) a la aceleración de la gravedad en la superficie de la Tierra (9.8$\thinspace$m/s<sup>2</sup>)
+El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>2</sup>, ligeramente superior (en módulo) a la aceleración de la gravedad en la superficie de la Tierra (9.8$\thinspace$m/s<sup>2</sup>). Esto se puede interpretar como que, en promedio, los astronautas se han pasado algo más de 10 minutos experimentando algo parecido a una caída libre, pero *hacia arriba* 🙃.
 
 <canvas id="h-t-MRUV"></canvas>
 
