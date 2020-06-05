@@ -34,7 +34,7 @@ Si deseas leer más sobre esta histórica misión puedes hacerlo en la [página 
 ## Estudio cinemático del Falcon 9 🚀
 La entrada podría haber acabado con el párrafo anterior, pero entonces no sabrías distinguir si estabas en la revista [¡Hola!](https://www.hola.com) o en el [blog de Físquicamente con Rodri]({{< ref "/post/" >}}) 😏.
 
-Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen la velocidad (en km/h) y la altitud (en km) del cohete en tiempo real a medida que asciende hasta los 200$\thinspace$km aproximadamente. ¿Qué es lo que se me ocurrió al ver esos datos? Pues anotarlos[^3], representarlos y hacer un pequeño estudio empírico sobre la cinemática del Falcon 9.
+Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen el módulo de la velocidad (velocidad a secas de aquí en adelante), en km/h, y la altitud, en km, del cohete en tiempo real a medida que asciende hasta los 200$\thinspace$km aproximadamente. ¿Qué es lo que se me ocurrió al ver esos datos? Pues anotarlos[^3], representarlos y hacer un pequeño estudio empírico sobre la cinemática del Falcon 9.
 
 [^3]: Me encantaría poderte decir que utilicé un algoritmo totalmente automatizado con reconocimiento óptico de caracteres (OCR) para leer los valores del vídeo, [como alguno más *friki* y capaz que yo se ha atrevido a hacer](https://forum.nasaspaceflight.com/index.php?topic=40983.0). Pero no, me temo que lo único que hice fue reproducir el vídeo en saltos de 10 segundos, anotando manualmente los valores de la velocidad y la altitud 🤷‍♂️.
 
