@@ -296,7 +296,6 @@ Como se puede ver,
  				fill: false,
 // 				pointRadius: 10,
 // 				pointHoverRadius: 15,
- 				showLine: false // no line shown
 		      }
 		    ]
 		  },
