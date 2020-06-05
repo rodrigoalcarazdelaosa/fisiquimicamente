@@ -22,7 +22,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ['0', '200', '400', '600', '800'],
         datasets: [{
-            label: '# of Votes',
+            label: 't/s',
             data: [12, 19, 3, 5, 2, 3],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
