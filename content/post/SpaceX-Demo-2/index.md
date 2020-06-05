@@ -568,7 +568,37 @@ Como se puede ver,
   					  fontFamily: 'Cabin Sketch',
 					  fontColor: '#111111'
 				  }				  
-		      }			  			  
+		      },
+			  annotation: {
+				  annotations: [
+					  {
+			              type: "line",
+			              mode: "vertical",
+			              scaleID: "x-axis-0",
+			              value: "2.33333333333333",
+			              borderColor: "#555555",
+			              label: {
+							// Background color of label, default below
+							backgroundColor: 'rgba(17,17,17,0.8)',
+
+							// Font family of text, inherits from global
+							fontFamily: "Cabin Sketch",
+
+							// Font size of text, inherits from global
+							fontSize: 18,
+
+							// Font style of text, default below
+							fontStyle: "bold",
+
+							// Font color of text, default below
+							fontColor: "#fffff8",						  
+			                content: "MECO",
+			                enabled: true,
+			                position: "top"
+			              }
+			          }					  				  
+			      ]
+			  }			  			  
 		   }
 		});
 	}		
