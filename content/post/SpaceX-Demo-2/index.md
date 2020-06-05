@@ -483,6 +483,8 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 	
 Se observa claramente que la **aceleración no** es **constante**, aumentando hasta el **MECO**, momento en el que toma incluso valores negativos (recordemos que [la velocidad se ve reducida](#velocidad)). Después vuelve a aumentar hasta valores por encima de los 30$\thinspace$m/s<sup>2</sup> (más de tres veces la aceleración de la gravedad en la superficie de la Tierra), hasta el **SECO**, instante en el que la aceleración tangencial desaparece al no haber ya ningún motor que impulse la nave.
 
+### ¿Y si suponemos que la aceleración es constante?
+
 <canvas id="h-t-MRUV"></canvas>
 
 <script>
