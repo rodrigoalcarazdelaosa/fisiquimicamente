@@ -561,8 +561,14 @@ Como se puede ver,
 			  	
 			  },
 		      legend: {
-		      	display: false		              
-		      },
+				  labels: {
+					  boxWidth: 10,
+					  usePointStyle: true,
+					  fontSize: 18,
+  					  fontFamily: 'Cabin Sketch',
+					  fontColor: '#111111'
+				  }				  
+		      },		
 			  annotation: {
 				  annotations: [
 					  {
