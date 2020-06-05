@@ -16,15 +16,20 @@ image:
 <canvas id="h-t"></canvas>
 
 <script>
-	var chart = new Chart('h-t', {
-	  type: 'line',
-	  data: {
-	    labels: ['A', 'B', 'C'],
-	    datasets: [
-	      {
-	        data: [10, 20, 30]
-	      }
-	    ]
-	  }
-	});
+	d3.csv('h.csv')
+	  .then(makeChart);
+
+	function makeChart(h) {
+		var chart = new Chart('h-t', {
+		  type: 'line',
+		  data: {
+		    labels: ['A', 'B', 'C'],
+		    datasets: [
+		      {
+		        data: [10, 20, 30]
+		      }
+		    ]
+		  }
+		});
+	}		
 </script>
