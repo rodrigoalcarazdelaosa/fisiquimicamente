@@ -47,7 +47,7 @@ image:
 		              },
 					  scaleLabel: {
 						  display: true,
-						  labelString: 't/s',
+						  labelString: 'Tiempo (s)',
 						  fontSize: 18,
 						  fontFamily: 'Cabin Sketch',
 						  fontColor: '#111111'
@@ -65,7 +65,7 @@ image:
 		              },
 					  scaleLabel: {
 						  display: true,
-						  labelString: 'h/km',
+						  labelString: 'Altitud (km)',
 						  fontSize: 18,
   						  fontFamily: 'Cabin Sketch',
 						  fontColor: '#111111'						  
