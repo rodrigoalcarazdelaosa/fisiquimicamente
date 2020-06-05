@@ -296,6 +296,7 @@ Como se puede ver,
  			    backgroundColor: '#b50000',
  				borderColor: '#b50000',
  				fill: false,
+				pointRadius: 0,
 // 				pointRadius: 10,
 // 				pointHoverRadius: 15,
 		      }
