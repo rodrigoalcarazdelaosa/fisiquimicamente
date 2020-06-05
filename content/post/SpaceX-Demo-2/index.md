@@ -28,7 +28,6 @@ image:
 		    labels: t,
 		    datasets: [
 		      {
-				label: 'h',
 		        data: h,
  			    showLine: false
 		      }
@@ -39,7 +38,7 @@ image:
 				  yAxes: [{
 					  scaleLabel: {
 						  display: true,
-						  labelString: 'probability'
+						  labelString: 'h/km'
 					  }
 				  }]
 			  	
