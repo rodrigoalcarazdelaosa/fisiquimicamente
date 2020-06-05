@@ -335,6 +335,8 @@ La velocidad aumenta de forma no lineal, alcanzando los 6724$\thinspace$km/h, m�
 
 [^7]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar ([https://es.wikipedia.org/wiki/Velocidad_del_sonido](https://es.wikipedia.org/wiki/Velocidad_del_sonido)).
 
+Es bonito ver cómo en el SECO la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces. A partir de ese instante la nave describe lo que perfectamente se puede considerar un movimiento circular uniforme (MCU)
+
 ### Aceleración
 
 La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
