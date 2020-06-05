@@ -409,6 +409,7 @@ Como se puede ver,
  				borderColor: '#b50000',
  				fill: false,
 				pointRadius: 0,
+ 			    pointStyle: 'line'
 // 				pointRadius: 10,
 // 				pointHoverRadius: 15,
 		      }
