@@ -181,7 +181,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "2.33333333333333",
-			              borderColor: "#b50000",
+			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
 							backgroundColor: 'rgba(17,17,17,0.8)',
@@ -207,7 +207,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "8.66666666666667",
-			              borderColor: "#b50000",
+			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
 							backgroundColor: 'rgba(17,17,17,0.8)',
@@ -321,7 +321,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "2.33333333333333",
-			              borderColor: "#b50000",
+			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
 							backgroundColor: 'rgba(17,17,17,0.8)',
@@ -347,7 +347,7 @@ La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, 
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "8.66666666666667",
-			              borderColor: "#b50000",
+			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
 							backgroundColor: 'rgba(17,17,17,0.8)',
@@ -596,7 +596,7 @@ Como se puede ver,
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "8.66666666666667",
-			              borderColor: "#b50000",
+			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
 							backgroundColor: 'rgba(17,17,17,0.8)',
