@@ -292,6 +292,7 @@ Como se puede ver,
 		      },
 		      {
 		        data: hMRUV,
+ 			    label: 'MRUV', 				  
  			    backgroundColor: '#b50000',
  				borderColor: '#b50000',
  				fill: false,
