@@ -485,7 +485,162 @@ Se observa claramente que la **aceleración no** es **constante**, aumentando ha
 
 ### ¿Y si suponemos que la aceleración es constante?
 
-Viendo la anterior gráfica parece un disparate pensar que el movimiento del cohete se pueda modelar mediante un movimiento rectilíneo uniformemente variado (aceleración constante), pero no está de más intentarlo como ejercicio mental.
+Viendo la anterior gráfica parece un disparate pensar que el movimiento del cohete se pueda modelar mediante un movimiento rectilíneo uniformemente variado (MRUV), pero no está de más intentarlo como ejercicio mental.
+
+<canvas id="a-t-MRUV"></canvas>
+
+<script>
+	d3.csv('a.csv')
+	  .then(makeChart);
+
+	function makeChart(hdata) {
+		var t = hdata.map(function(d) {return d.t});
+		var a = hdata.map(function(d) {return d.a});
+		var aMRUV = hdata.map(function(d) {return d.aMRUV});		
+		var chart = new Chart('a-t-MRUV', {
+		  type: 'line',
+		  data: {
+		    labels: t,
+		    datasets: [
+		      {
+		        data: a,
+ 			    label: '"Empírico"',				  
+ 			    backgroundColor: '#2a54a9',
+ 				borderColor: '#2a54a9',
+ 				fill: false,
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
+ 				showLine: false // no line shown
+		      },
+		      {
+		        data: aMRUV,
+ 			    label: 'MRUV', 				  
+ 			    backgroundColor: '#b50000',
+ 				borderColor: '#b50000',
+ 				fill: false,
+				pointRadius: 0,
+ 			    pointStyle: 'line'
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
+		      }
+		    ]
+		  },
+		  options: {
+			  scales: {
+				  xAxes: [{
+					  gridLines: {
+						  drawOnChartArea: false,
+						  color: "#111111" 
+		              },
+					  afterFit: function(scale) {
+						  scale.height = 80  //<-- set value as you wish 
+					  },
+					  scaleLabel: {
+						  display: true,
+						  labelString: 'Tiempo (min)',
+						  fontSize: 18,
+						  fontFamily: 'Cabin Sketch',
+						  fontColor: '#111111'
+					  },
+					  ticks: {
+						  fontSize: 16,
+  						  fontFamily: 'EB Garamond',
+						  fontColor: '#111111',
+						  maxTicksLimit: 13,
+						  padding: 10
+					  }
+				  }],
+				  yAxes: [{
+					  gridLines: {
+						  drawOnChartArea: false,
+						  color: "#111111"						  
+		              },
+					  scaleLabel: {
+						  display: true,
+						  labelString: 'Aceleración (m/s²)',
+						  fontSize: 18,
+  						  fontFamily: 'Cabin Sketch',
+						  fontColor: '#111111'						  
+					  },
+					  ticks: {
+						  fontSize: 16,
+  						  fontFamily: 'EB Garamond',
+						  fontColor: '#111111',
+						  padding: 10,
+						  maxTicksLimit: 6						  
+					  }
+				  }]
+			  	
+			  },
+		      legend: {
+				  labels: {
+					  boxWidth: 10,
+					  usePointStyle: true,
+					  fontSize: 18,
+  					  fontFamily: 'Cabin Sketch',
+					  fontColor: '#111111'
+				  }				  
+		      },	
+			  annotation: {
+				  annotations: [
+					  {
+			              type: "line",
+			              mode: "vertical",
+			              scaleID: "x-axis-0",
+			              value: "2.33333333333333",
+			              borderColor: "#555555",
+			              label: {
+							// Background color of label, default below
+							backgroundColor: 'rgba(17,17,17,0.8)',
+
+							// Font family of text, inherits from global
+							fontFamily: "Cabin Sketch",
+
+							// Font size of text, inherits from global
+							fontSize: 18,
+
+							// Font style of text, default below
+							fontStyle: "bold",
+
+							// Font color of text, default below
+							fontColor: "#fffff8",					  
+			                content: "MECO",
+			                enabled: true,
+			                position: "top"
+			              }
+			          },
+					  {
+			              type: "line",
+			              mode: "vertical",
+			              scaleID: "x-axis-0",
+			              value: "8.66666666666667",
+			              borderColor: "#555555",
+			              label: {
+							// Background color of label, default below
+							backgroundColor: 'rgba(17,17,17,0.8)',
+
+							// Font family of text, inherits from global
+							fontFamily: "Cabin Sketch",
+
+							// Font size of text, inherits from global
+							fontSize: 18,
+
+							// Font style of text, default below
+							fontStyle: "bold",
+
+							// Font color of text, default below
+							fontColor: "#fffff8",
+			                content: "SECO",
+			                enabled: true,
+			                position: "top"
+			              }
+			          }
+			      ]
+			  }			  
+		   }
+		});
+	}		
+</script>
 
 <canvas id="h-t-MRUV"></canvas>
 
@@ -771,158 +926,3 @@ Viendo la anterior gráfica parece un disparate pensar que el movimiento del coh
 		});
 	}		
 </script>
-	
-<canvas id="a-t-MRUV"></canvas>
-
-<script>
-	d3.csv('a.csv')
-	  .then(makeChart);
-
-	function makeChart(hdata) {
-		var t = hdata.map(function(d) {return d.t});
-		var a = hdata.map(function(d) {return d.a});
-		var aMRUV = hdata.map(function(d) {return d.aMRUV});		
-		var chart = new Chart('a-t-MRUV', {
-		  type: 'line',
-		  data: {
-		    labels: t,
-		    datasets: [
-		      {
-		        data: a,
- 			    label: '"Empírico"',				  
- 			    backgroundColor: '#2a54a9',
- 				borderColor: '#2a54a9',
- 				fill: false,
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
- 				showLine: false // no line shown
-		      },
-		      {
-		        data: aMRUV,
- 			    label: 'MRUV', 				  
- 			    backgroundColor: '#b50000',
- 				borderColor: '#b50000',
- 				fill: false,
-				pointRadius: 0,
- 			    pointStyle: 'line'
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
-		      }
-		    ]
-		  },
-		  options: {
-			  scales: {
-				  xAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111" 
-		              },
-					  afterFit: function(scale) {
-						  scale.height = 80  //<-- set value as you wish 
-					  },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Tiempo (min)',
-						  fontSize: 18,
-						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'
-					  },
-					  ticks: {
-						  fontSize: 16,
-  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  maxTicksLimit: 13,
-						  padding: 10
-					  }
-				  }],
-				  yAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111"						  
-		              },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Aceleración (m/s²)',
-						  fontSize: 18,
-  						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'						  
-					  },
-					  ticks: {
-						  fontSize: 16,
-  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  padding: 10,
-						  maxTicksLimit: 6						  
-					  }
-				  }]
-			  	
-			  },
-		      legend: {
-				  labels: {
-					  boxWidth: 10,
-					  usePointStyle: true,
-					  fontSize: 18,
-  					  fontFamily: 'Cabin Sketch',
-					  fontColor: '#111111'
-				  }				  
-		      },	
-			  annotation: {
-				  annotations: [
-					  {
-			              type: "line",
-			              mode: "vertical",
-			              scaleID: "x-axis-0",
-			              value: "2.33333333333333",
-			              borderColor: "#555555",
-			              label: {
-							// Background color of label, default below
-							backgroundColor: 'rgba(17,17,17,0.8)',
-
-							// Font family of text, inherits from global
-							fontFamily: "Cabin Sketch",
-
-							// Font size of text, inherits from global
-							fontSize: 18,
-
-							// Font style of text, default below
-							fontStyle: "bold",
-
-							// Font color of text, default below
-							fontColor: "#fffff8",					  
-			                content: "MECO",
-			                enabled: true,
-			                position: "top"
-			              }
-			          },
-					  {
-			              type: "line",
-			              mode: "vertical",
-			              scaleID: "x-axis-0",
-			              value: "8.66666666666667",
-			              borderColor: "#555555",
-			              label: {
-							// Background color of label, default below
-							backgroundColor: 'rgba(17,17,17,0.8)',
-
-							// Font family of text, inherits from global
-							fontFamily: "Cabin Sketch",
-
-							// Font size of text, inherits from global
-							fontSize: 18,
-
-							// Font style of text, default below
-							fontStyle: "bold",
-
-							// Font color of text, default below
-							fontColor: "#fffff8",
-			                content: "SECO",
-			                enabled: true,
-			                position: "top"
-			              }
-			          }
-			      ]
-			  }			  
-		   }
-		});
-	}		
-</script>	
