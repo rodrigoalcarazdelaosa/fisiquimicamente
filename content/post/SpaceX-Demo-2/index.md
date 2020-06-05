@@ -52,8 +52,7 @@ La siguiente gráfica muestra la altitud del Falcon 9, en km, en función del ti
 						  labelString: 'Tiempo (min)',
 						  fontSize: 18,
 						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111',
-						  lineHeight: 2
+						  fontColor: '#111111'
 					  },
 					  ticks: {
 						  fontSize: 16,
