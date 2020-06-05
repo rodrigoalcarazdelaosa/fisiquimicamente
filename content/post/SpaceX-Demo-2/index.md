@@ -270,7 +270,7 @@ La siguiente gráfica muestra la velocidad del Falcon 9, en km/h, en función de
 	
 Hasta el minuto 2.333, la velocidad aumenta de forma no lineal, alcanzando los 6724 km/h, más de 5 veces la velocidad del sonido en el aire[^6], , MECO significa Main Engine Cut Off
 
-[^6]: A 20 $^\circ$C de temperatura, 50 % de humedad y a nivel del mar.
+[^6]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar.
 
 ### Aceleración
 
