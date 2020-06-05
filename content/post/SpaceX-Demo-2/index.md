@@ -18,7 +18,7 @@ image:
 <script>
 var ctx = document.getElementById('h-t');
 var myChart = new Chart(ctx, {
-    type: 'bar',
+    type: 'line',
     data: {
         labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
         datasets: [{
