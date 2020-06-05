@@ -35,6 +35,9 @@ image:
 		  },
 		  options: {
 			  scales: {
+				  gridLines: [{
+					  display: true
+				  }],
 				  xAxes: [{
 					  scaleLabel: {
 						  display: true,
