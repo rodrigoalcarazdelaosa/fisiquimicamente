@@ -651,7 +651,7 @@ El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>
 Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV.
 
 #### Altitud
-La altitud teórica la calculamos a partir de la expresión:
+La **altitud teórica** la calculamos a partir de la expresión:
 $$
 h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
