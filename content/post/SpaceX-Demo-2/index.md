@@ -657,7 +657,7 @@ h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
 donde $h_0 = 0.4\thinspace$km, $v_0 = 195\thinspace$km/h y $a = 10.375\thinspace$m/s<sup>2</sup>.
 
-En la siguiente gráfica se dibujan tanto la altitud empírica como la calculada suponiendo un MRUV, durante los cuatro primeros minutos del ascenso del Falcon 9:
+En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calculada suponiendo un MRUV, durante los cuatro primeros minutos del ascenso del Falcon 9:
 
 <canvas id="h-t-MRUV"></canvas>
 
