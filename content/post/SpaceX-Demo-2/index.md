@@ -357,7 +357,7 @@ El valor máximo de la velocidad es aproximadamente 27000$\thinspace$km/h. ¿Pod
 $$
 v_\text{orbital} = \sqrt{\frac{GM}{r}},
 $$
-donde $G = 6.67\times 10^{-11}\thinspace\mathrm{Nm^2kg^{-2}}$, 
+donde $G = 6.67\times 10^{-11}\thinspace\mathrm{N\thinspace m^2\thinspace kg^{-2}}$, 
 
 ### Aceleración
 
