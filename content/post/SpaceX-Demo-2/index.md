@@ -109,6 +109,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 						  fontColor: '#111111'						  
 					  },
 					  ticks: {
+						  beginAtZero: true,
 						  fontSize: 16,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
@@ -261,6 +262,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 						  fontColor: '#111111'						  
 					  },
 					  ticks: {
+						  beginAtZero: true,						  
 						  fontSize: 16,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
