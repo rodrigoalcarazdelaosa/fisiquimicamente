@@ -1,6 +1,6 @@
 ---
 title: Termoquímica
-summary:
+subtitle: Preguntas de EBAU resueltas
 tags:
 - EBAU
 - termoquímica
