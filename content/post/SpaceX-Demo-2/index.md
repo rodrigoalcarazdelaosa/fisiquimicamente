@@ -350,6 +350,8 @@ La **velocidad aumenta** de forma **no lineal**, alcanzando los 6724$\thinspace$
 
 Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un movimiento circular uniforme &mdash;MCU).
 
+#### Velocidad orbital
+
 El valor máximo de la velocidad es aproximadamente 27000$\thinspace$km/h. ¿Podemos entender el por qué de este valor?
 
 ### Aceleración
