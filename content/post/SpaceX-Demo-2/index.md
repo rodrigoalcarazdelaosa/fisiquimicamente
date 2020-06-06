@@ -799,7 +799,7 @@ v(t) = v_0 + a t,
 $$
 donde $v_0 = 195\thinspace$km/h y $a = 10.375\thinspace$m/s<sup>2</sup>.
 
-En la siguiente gráfica se dibujan tanto la velocidad empírica como la calculada suponiendo un MRUV:
+En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUV:
 	
 <canvas id="v-t-MRUV"></canvas>
 
