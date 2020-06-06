@@ -1,6 +1,7 @@
 ---
 title: Física del s. XX
-summary:
+subtitle: Preguntas de EBAU resueltas
+summary: Preguntas de EBAU resueltas.
 tags:
 - EBAU
 - física-s-XX
