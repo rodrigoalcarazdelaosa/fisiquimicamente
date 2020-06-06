@@ -360,7 +360,7 @@ $$
 donde $G = 6.67\times 10^{-11}\thinspace\mathrm{m^3\thinspace kg^{-1}\thinspace s^{-2}}$, $M_\mathrm T = 5.97\times 10^{24}\thinspace\mathrm{kg}$ es la masa de la Tierra y $r = R_\mathrm T + h$ es la distancia a la que se encuentra la nave medida desde el centro de la Tierra, con $R_\mathrm T = 6371\thinspace\mathrm{km}$. Para una altura de 200$\thinspace$km, tenemos:
 
 $$
-v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}} = \sqrt{\frac{6.67\times 10^{-11}\cdot 5.97\times 10^{24}}{(6371+200)}}
+v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}} = \sqrt{\frac{6.67\times 10^{-11}\cdot 5.97\times 10^{24}}{(6371+200)\times 10^3\thinspace m}}
 $$
 
 ### Aceleración
