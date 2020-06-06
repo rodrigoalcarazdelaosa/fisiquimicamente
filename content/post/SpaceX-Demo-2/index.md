@@ -241,11 +241,13 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 						  fontColor: '#111111'
 					  },
 					  ticks: {
+						  beginAtZero: true,						  
 						  fontSize: 16,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
 						  stepSize: 1,						  
 						  maxTicksLimit: 13,
+						  suggestedMax: 12, 
 						  padding: 10
 					  }
 				  }],
@@ -262,7 +264,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 						  fontColor: '#111111'						  
 					  },
 					  ticks: {
-						  beginAtZero: true,						  
+						  beginAtZero: true,
 						  fontSize: 16,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
