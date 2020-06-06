@@ -344,7 +344,7 @@ A partir de los valores del módulo de la velocidad es posible obtener la **acel
 
 [^8]: En concreto, la aceleración se ha obtenido utilizando la función [`gradient`](https://es.mathworks.com/help/matlab/ref/gradient.html) de [MATLAB<sup>&reg;</sup>](https://es.mathworks.com/products/matlab.html).
 
-La siguiente gráfica muestra la aceleración del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
+La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
 
 <canvas id="a-t"></canvas>
 
