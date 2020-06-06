@@ -1,6 +1,6 @@
 ---
 title: Rédox
-summary:
+subtitle: Preguntas de EBAU resueltas
 tags:
 - EBAU
 - reacciones-químicas
