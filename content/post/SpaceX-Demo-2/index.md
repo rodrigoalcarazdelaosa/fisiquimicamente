@@ -251,7 +251,10 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 						  suggestedMax: 12,
 						  suggestedMin: 0,
 						  padding: 10
-					  }
+					  },
+					  afterTickToLabelConversion: (scale: any) => {
+						  scale.ticks = scale.ticks.map((tick: string) => parseFloat(tick) % 1 === 0 ? parseInt(tick) : "");
+					  }					  
 				  }],
 				  yAxes: [{
 					  gridLines: {
@@ -274,9 +277,6 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 						  stepSize: 10000,						  
 						  suggestedMax: 30000,
 						  suggestedMin: 0,
-					  },
-					  afterTickToLabelConversion: (scale: any) => {
-						  scale.ticks = scale.ticks.map((tick: string) => parseFloat(tick) % 1 === 0 ? parseInt(tick) : "");
 					  }
 				  }]
 			  	
