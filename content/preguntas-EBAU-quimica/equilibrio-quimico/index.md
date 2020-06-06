@@ -1,6 +1,6 @@
 ---
 title: Equilibrio químico
-summary:
+subtitle: Preguntas de EBAU resueltas
 tags:
 - EBAU
 - reacciones-químicas
