@@ -565,6 +565,9 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 						  fontSize: 16,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
+						  stepSize: 1.0,						  
+						  suggestedMax: 12,
+						  suggestedMin: 0,
 						  maxTicksLimit: 13,
 						  padding: 10
 					  }
