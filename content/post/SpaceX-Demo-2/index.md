@@ -364,6 +364,8 @@ v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}} &= \sqrt{\frac{6.67\times 10^{-
 &= 7784.6\thinspace\mathrm{m/s} \approx 28000\thinspace\mathrm{km/h}
 \end{align*}
 
+lo que supone un error relativo de un 3.7$\thinspace$% aproximadamente.
+
 ### Aceleración
 
 A partir de los valores del módulo de la velocidad es posible obtener la **aceleración tangencial** del cohete mediante una **derivación numérica**[^8].
