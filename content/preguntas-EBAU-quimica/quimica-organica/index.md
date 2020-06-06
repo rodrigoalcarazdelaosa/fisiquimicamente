@@ -1,6 +1,6 @@
 ---
 title: Química orgánica 
-summary:
+subtitle: Preguntas de EBAU resueltas
 tags:
 - EBAU
 - química-orgánica
