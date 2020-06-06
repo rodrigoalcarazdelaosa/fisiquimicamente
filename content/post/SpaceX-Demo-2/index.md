@@ -352,7 +352,7 @@ Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene 
 
 #### Velocidad orbital
 
-El valor máximo de la velocidad es aproximadamente 27000$\thinspace$km/h. ¿Podemos entender el por qué de este valor?
+El valor máximo de la velocidad es aproximadamente 27000$\thinspace$km/h. ¿Podemos entender el por qué de este valor? En efecto, a partir del minuto 9 aproximadamente, la nave Dragon se encuentra en una órbita a una altura de unos 200$\thinspace$km, moviéndose
 
 ### Aceleración
 
