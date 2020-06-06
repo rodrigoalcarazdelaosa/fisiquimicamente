@@ -956,4 +956,4 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	}		
 </script>
 	
-En este caso parece que la expresión teórica no se desvía tanto de los valores empíricos.
+En este caso parece que la expresión teórica no se desvía tanto de los valores empíricos, lo que indica que, al menos para estimar la velocidad, no parece tan descabellado modelar el ascenso del cohete mediante un MRUV.
