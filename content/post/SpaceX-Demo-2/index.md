@@ -793,7 +793,7 @@ La expresión teórica solo es capaz de modelar el movimiento del cohete durante
 
 #### Velocidad
 
-La velocidad teórica la calculamos a partir de la expresión:
+La **velocidad teórica** la calculamos a partir de la expresión:
 $$
 v(t) = v_0 + a t,
 $$
