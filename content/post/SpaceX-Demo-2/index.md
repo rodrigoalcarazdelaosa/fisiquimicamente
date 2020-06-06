@@ -764,7 +764,10 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
 						  padding: 10,
-						  maxTicksLimit: 6						  
+						  stepSize: 100,						  
+						  suggestedMax: 400,
+						  suggestedMin: 0,
+						  maxTicksLimit: 5,						  
 					  }
 				  }]
 			  	
