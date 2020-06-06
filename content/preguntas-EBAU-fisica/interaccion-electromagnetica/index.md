@@ -1,6 +1,7 @@
 ---
 title: Interacción electromagnética
-summary:
+subtitle: Preguntas de EBAU resueltas
+summary: Preguntas de EBAU resueltas.
 tags:
 - EBAU
 - electromagnetismo
