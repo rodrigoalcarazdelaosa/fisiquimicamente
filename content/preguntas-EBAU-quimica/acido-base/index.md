@@ -1,6 +1,6 @@
 ---
 title: Ácido-base
-summary: ""
+subtitle: Preguntas de EBAU resueltas
 tags:
 - EBAU
 - reacciones-químicas
