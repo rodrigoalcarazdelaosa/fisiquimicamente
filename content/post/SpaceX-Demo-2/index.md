@@ -842,8 +842,8 @@ La expresión teórica solo es capaz de modelar el movimiento del cohete durante
 
 La **velocidad teórica** la calculamos a partir de la expresión:
 $$
-\begin{cases}
-v(t) = v_0 + a t & \text{antes del SECO} \\\\
+v(t) = \begin{cases}
+v_0 + a t & \text{antes del SECO} \\\\
 26594.3 & \text{después del SECO}
 \end{cases}
 $$
