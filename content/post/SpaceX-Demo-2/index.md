@@ -847,7 +847,7 @@ v_0 + a t & \text{antes del SECO} \\\\
 26594.3 & \text{después del SECO}
 \end{cases}
 $$
-donde $v_0 = 195\thinspace$km/h y $a = 14.102\thinspace$m/s<sup>2</sup>, siendo constante e igual a 26594.3$\thinspace$km/h después del **SECO**.
+donde $v_0 = 195\thinspace$km/h y $a = 14.102\thinspace$m/s<sup>2</sup>.
 
 En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUV y posterior MRU:
 	
