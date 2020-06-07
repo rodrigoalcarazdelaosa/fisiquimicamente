@@ -840,11 +840,11 @@ La expresión teórica solo es capaz de modelar el movimiento del cohete durante
 
 #### Velocidad
 
-La **velocidad teórica** la calculamos a partir de la expresión:
+La **velocidad teórica** la calculamos antes del **SECO** a partir de la expresión:
 $$
 v(t) = v_0 + a t,
 $$
-donde $v_0 = 195\thinspace$km/h y $a = 10.375\thinspace$m/s<sup>2</sup>.
+donde $v_0 = 195\thinspace$km/h y $a = 14.102\thinspace$m/s<sup>2</sup>, siendo constante e igual a 26594.3$\thinspace$km/h después del **SECO**.
 
 En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUV:
 	
