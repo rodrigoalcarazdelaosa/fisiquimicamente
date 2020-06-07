@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Con el Prof. David R. Smith"
+  title = "Con el Prof. David R. [Smith](http://hdl.handle.net/10902/2782)"
   company = "Duke University"
   company_url = "https://duke.edu"
   location = "Durham, Carolina del Norte (Estados Unidos)"
