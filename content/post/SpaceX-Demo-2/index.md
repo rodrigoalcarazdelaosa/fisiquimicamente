@@ -836,7 +836,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 	}		
 </script>
 	
-La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 75$\thinspace$%).
+La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 130$\thinspace$%).
 
 #### Velocidad
 
