@@ -1012,4 +1012,6 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	}		
 </script>
 	
+Se observa que la expresión teórica sobreestima la velocidad de la nave antes del SECO (con un error relativo máximo del 150$\thinspace$% aproximadamente, para $t = 0.8\overline{3}$\thinspace$min), y la subestima ligeramente después.
+	
 En este caso parece que la expresión teórica no se desvía tanto de los valores empíricos, lo que indica que, al menos para estimar la velocidad, no parece tan descabellado modelar el ascenso del cohete mediante un MRUV.
