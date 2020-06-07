@@ -842,7 +842,7 @@ La expresión teórica solo es capaz de modelar el movimiento del cohete durante
 
 La **velocidad teórica** la calculamos a partir de la expresión[^11]:
 
-[^11]: El valor de 26594.3$\thinspace$km/h es 
+[^11]: El valor de 26594.3$\thinspace$km/h es la velocidad que tiene la nave, según la expresión teórica, justo en el **SECO**.
 
 $$
 v(t) = \begin{cases}
