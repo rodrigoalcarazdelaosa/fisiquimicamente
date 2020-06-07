@@ -48,7 +48,7 @@ date_format = "2006"
   location = "Santander, Cantabria (España)"
   date_start = "2011-01-01"
   date_end = "2013-12-31"
-  description = "Desarrollo de mi [Tesis Doctoral](https://repositorio.unican.es/xmlui/handle/10902/2782)."
+  description = "Desarrollo de mi [Tesis Doctoral](http://hdl.handle.net/10902/2782)."
   
 [design.background]
   # Apply a background color, gradient, or image.
