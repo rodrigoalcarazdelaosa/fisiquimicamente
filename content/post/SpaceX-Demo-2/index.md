@@ -842,7 +842,7 @@ La expresión teórica solo es capaz de modelar el movimiento del cohete durante
 
 La **velocidad teórica** la calculamos a partir de la expresión[^11]:
 
-[^11]: hola
+[^11]: El valor de 26594.3$\thinspace$km/h es 
 
 $$
 v(t) = \begin{cases}
