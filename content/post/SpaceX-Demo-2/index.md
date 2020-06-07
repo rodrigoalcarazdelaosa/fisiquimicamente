@@ -520,7 +520,9 @@ Se observa claramente que la **aceleración no** es **constante**, aumentando ha
 ### ¿Y si suponemos que la aceleración es constante?
 Si la aceleración del cohete fuera constante, entonces su ascenso se podría modelar mediante un [**movimiento rectilíneo uniformemente variado**](https://rodrigoalcarazdelaosa.me/apuntes-4eso/movimientos/#movimiento-rectil%C3%ADneo-uniformemente-variado-mruv) (MRUV). Viendo la anterior gráfica parece un disparate pensar que pueda ser así, pero no está de más intentarlo como ejercicio mental.
 
-La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración constante que tendría suponiendo un MRUV, obtenida como la **media artimética**:
+La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración constante que tendría suponiendo un MRUV, obtenida como la **media artimética**[^9]:
+
+[^9]: En realidad se han tomado dos medias distintas, antes y después del **SECO**, debido a la gran diferencia que entre esos movimientos.
 
 <canvas id="a-t-MRUV"></canvas>
 
@@ -682,9 +684,9 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 	}		
 </script>
 	
-El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>2</sup>, ligeramente superior (en módulo) a la aceleración de la gravedad en la superficie de la Tierra (9.8$\thinspace$m/s<sup>2</sup>). Esto se puede interpretar como que, en promedio, los astronautas se han pasado algo más de 10 minutos experimentando algo parecido a una caída libre, pero *hacia arriba* 🙃[^9].
+El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>2</sup>, ligeramente superior (en módulo) a la aceleración de la gravedad en la superficie de la Tierra (9.8$\thinspace$m/s<sup>2</sup>). Esto se puede interpretar como que, en promedio, los astronautas se han pasado algo más de 10 minutos experimentando algo parecido a una caída libre, pero *hacia arriba* 🙃[^10].
 
-[^9]: En realidad habrá sido mucho peor que esto 🤦‍♂️, pero como dato, decir que un paracaidista suele alcanzar la [velocidad límite](https://es.wikipedia.org/wiki/Velocidad_l%C3%ADmite) (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
+[^10]: En realidad habrá sido mucho peor que esto 🤦‍♂️, pero como dato, decir que un paracaidista suele alcanzar la [velocidad límite](https://es.wikipedia.org/wiki/Velocidad_l%C3%ADmite) (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
 
 Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV.
 
