@@ -522,7 +522,7 @@ Si la aceleración del cohete fuera constante, entonces su ascenso se podría mo
 
 La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración constante que tendría suponiendo un MRUV, obtenida como la **media artimética**[^9]:
 
-[^9]: En realidad se han tomado dos medias distintas, antes y después del **SECO**, debido a la gran diferencia que entre esos movimientos.
+[^9]: En realidad se han tomado dos medias distintas, antes y después del **SECO**, debido a la gran diferencia que hay entre esos movimientos.
 
 <canvas id="a-t-MRUV"></canvas>
 
