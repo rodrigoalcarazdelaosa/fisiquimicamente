@@ -684,7 +684,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 	}		
 </script>
 	
-El valor promedio resultante de la aceleración es de 10.375$\thinspace$m/s<sup>2</sup>, ligeramente superior (en módulo) a la aceleración de la gravedad en la superficie de la Tierra (9.8$\thinspace$m/s<sup>2</sup>). Esto se puede interpretar como que, en promedio, los astronautas se han pasado algo más de 10 minutos experimentando algo parecido a una caída libre, pero *hacia arriba* 🙃[^10].
+El valor promedio resultante de la aceleración antes del **SECO** es de 14.102$\thinspace$m/s<sup>2</sup>, $\approx$1.4 veces superior (en módulo) a la aceleración de la gravedad en la superficie de la Tierra (9.8$\thinspace$m/s<sup>2</sup>). Esto se puede interpretar como que, en promedio, los astronautas se han pasado algo más de 10 minutos experimentando algo parecido a una caída libre, pero *hacia arriba* 🙃[^10].
 
 [^10]: En realidad habrá sido mucho peor que esto 🤦‍♂️, pero como dato, decir que un paracaidista suele alcanzar la [velocidad límite](https://es.wikipedia.org/wiki/Velocidad_l%C3%ADmite) (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
 
