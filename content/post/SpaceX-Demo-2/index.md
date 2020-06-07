@@ -840,7 +840,10 @@ La expresión teórica solo es capaz de modelar el movimiento del cohete durante
 
 #### Velocidad
 
-La **velocidad teórica** la calculamos a partir de la expresión:
+La **velocidad teórica** la calculamos a partir de la expresión[^11]:
+
+[^11]: hola
+
 $$
 v(t) = \begin{cases}
 v_0 + a t & \text{antes del SECO (MRUV)} \\\\
