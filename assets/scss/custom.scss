@@ -280,7 +280,8 @@ color: $primary; }
 
 .section-heading a {
 	color: currentColor;
-}
+	text-decoration: none;
+	  border-bottom: solid 1px currentColor; }
 
 /*************************************************
  *  Hero Widget
