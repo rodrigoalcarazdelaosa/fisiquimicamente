@@ -278,6 +278,10 @@ color: $primary; }
   color: $primary_complementary;
 }
 
+.section-heading a {
+	color: currentColor;
+}
+
 /*************************************************
  *  Hero Widget
  **************************************************/
