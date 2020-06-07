@@ -691,11 +691,13 @@ El valor promedio resultante de la aceleración antes del **SECO** es de 14.102$
 Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV (teniendo en cuenta que después del **SECO** la aceleración es nula y por tanto la nave se moverá con un [movimiento rectilíneo uniforme](https://rodrigoalcarazdelaosa.me/apuntes-4eso/movimientos/#movimiento-rectil%C3%ADneo-uniforme-mru) o MRU).
 
 #### Altitud
-La **altitud teórica** la calculamos a partir de la expresión:
+A partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que las expresiones del MRUV o MRU no son válidas, ya que suponen un aumento indefinido.
+
+Hasta los 4 minutos aproximadamente, la **altitud teórica** la calculamos a partir de la expresión:
 $$
 h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
-donde $h_0 = 0.4\thinspace$km, $v_0 = 195\thinspace$km/h y $a = 10.375\thinspace$m/s<sup>2</sup>.
+donde $h_0 = 0.4\thinspace$km, $v_0 = 195\thinspace$km/h y $a = 14.102\thinspace$m/s<sup>2</sup>.
 
 En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calculada suponiendo un MRUV, durante los cuatro primeros minutos del ascenso del Falcon 9:
 
@@ -834,7 +836,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 	}		
 </script>
 	
-La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 75$\thinspace$%). Además, a partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que la expresión del MRUV no es válida, ya que supone un aumento indefinido.
+La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 75$\thinspace$%).
 
 #### Velocidad
 
