@@ -846,7 +846,7 @@ v(t) = v_0 + a t,
 $$
 donde $v_0 = 195\thinspace$km/h y $a = 14.102\thinspace$m/s<sup>2</sup>, siendo constante e igual a 26594.3$\thinspace$km/h después del **SECO**.
 
-En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUV:
+En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUV y posterior MRU:
 	
 <canvas id="v-t-MRUV"></canvas>
 
