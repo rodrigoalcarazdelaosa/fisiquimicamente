@@ -244,7 +244,11 @@ color: $primary_complementary; }
 
 .article-metadata svg {
   fill: $primary_complementary; 
-  vertical-align: baseline; }
+display: inline-flex;
+align-self: center;
+bottom: 0.1em;
+line-height: 1;
+position: relative; }
 
 .article-metadata a,
 .article-metadata a:hover {
