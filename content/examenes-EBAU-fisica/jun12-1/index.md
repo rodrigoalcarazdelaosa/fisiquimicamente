@@ -1,5 +1,6 @@
 ---
 title: Junio 2012
+subtitle: Opción 1
 summary: Opción 1.
 tags:
 - EBAU
