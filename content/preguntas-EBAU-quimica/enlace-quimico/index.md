@@ -1,6 +1,7 @@
 ---
 title: Enlace químico
 subtitle: Preguntas de EBAU resueltas
+summary: Preguntas de EBAU resueltas.
 tags:
 - EBAU
 - enlace-químico
