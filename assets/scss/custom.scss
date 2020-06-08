@@ -82,6 +82,14 @@ site-footer,
 footer a.back-to-top i {
 color: rgba(42, 84, 169, 0.54); }
 
+.powered-by svg {
+	display: inline-flex;
+	align-self: center;
+	bottom: 0.1em;
+	line-height: 1;
+	position: relative;
+  }	
+
 /**************************************************
  *  Tags/Labels
  **************************************************/
