@@ -100,8 +100,8 @@
   weight = 2
 
 [[main]]
-  name = "Blog"
-  url = "post/"
+  name = "Novedades"
+  url = "#novedades"
   weight = 5
 
 [[main]]
