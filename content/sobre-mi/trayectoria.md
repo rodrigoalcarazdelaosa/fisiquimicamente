@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Trayectoria profesional"
+title = "👣 Trayectoria profesional"
 subtitle = ""
 
 # Date format for experience
