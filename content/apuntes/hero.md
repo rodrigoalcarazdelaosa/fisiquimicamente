@@ -53,4 +53,4 @@ hero_media = ""
 
 **En formato texto, diapositivas y póster (tipo _chuleta_)**
 
-[2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) | [1º Bach](#primero-bach) | [2º Bach](#segundo-bach-fisica)
+[2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) <br> [1º Bach](#primero-bach) | [2º Bach Física](#segundo-bach-fisica) | [2º Bach Química](#segundo-bach-quimica)
