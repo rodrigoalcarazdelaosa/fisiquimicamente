@@ -6,11 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 6  # Order that this section will appear.
 
 title = "📚 Apuntes"
-subtitle = "2º Bach"
+subtitle = "2º Bach Física"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-2Bach"
+  page_type = "apuntes-2Bach-fisica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
