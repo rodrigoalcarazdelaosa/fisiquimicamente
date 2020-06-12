@@ -34,10 +34,16 @@
   weight = 4
 
 [[main]]
-  name = "2º Bach"
+  name = "2º Bach Física"
   url = "apuntes/#segundo-bach-fisica"
   parent = "apuntes"
   weight = 5
+  
+[[main]]
+  name = "2º Bach Química"
+  url = "apuntes/#segundo-bach-quimica"
+  parent = "apuntes"
+  weight = 6
   
 [[main]]
   name = "Recursos EBAU"
