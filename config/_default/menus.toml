@@ -108,7 +108,14 @@
 [[main]]
   name = "Novedades"
   url = "#novedades"
+  identifier = "novedades"
   weight = 5
+
+[[main]]
+  name = "Twitter"
+  url = "#novedades"
+  parent = "novedades"
+  weight = 1  
 
 [[main]]
   name = "Sobre mí"
