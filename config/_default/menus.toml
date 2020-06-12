@@ -35,15 +35,9 @@
 
 [[main]]
   name = "2º Bach"
-  parent = "apuntes"
-  identifier = "2º Bach"
-  weight = 5
-
-[[main]]
-  name = "Física"
   url = "apuntes/#segundo-bach-fisica"
-  parent = "2º Bach"
-  weight = 1  
+  parent = "apuntes"
+  weight = 5
   
 [[main]]
   name = "Recursos EBAU"
