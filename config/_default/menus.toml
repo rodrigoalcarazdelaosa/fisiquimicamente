@@ -37,7 +37,14 @@
   name = "2º Bach"
   url = "apuntes/#segundo-bach-fisica"
   parent = "apuntes"
+  indentifier = "hola"
   weight = 5
+  
+[[main]]
+  name = "Química"
+  url = "apuntes/#segundo-bach-quimica"
+  parent = "hola"
+  weight = 1  
   
 [[main]]
   name = "Recursos EBAU"
