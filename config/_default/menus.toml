@@ -130,10 +130,16 @@
   weight = 6
   
 [[main]]
+  name = "Intereses y formación"
+  url = "sobre-mi/"
+  parent = "sobre-mi"
+  weight = 1
+
+[[main]]
   name = "Trayectoria profesional"
   url = "sobre-mi/#trayectoria"
   parent = "sobre-mi"
-  weight = 1  
+  weight = 2  
 
 [[main]]
   name = "Contacto"
