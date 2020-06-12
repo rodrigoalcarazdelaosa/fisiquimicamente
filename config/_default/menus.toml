@@ -126,7 +126,14 @@
 [[main]]
   name = "Sobre mí"
   url = "sobre-mi/"
+  identifier = "sobre-mi"
   weight = 6
+  
+[[main]]
+  name = "Trayectoria profesional"
+  url = "sobre-mi/#trayectoria"
+  parent = "sobre-mi"
+  weight = 1  
 
 [[main]]
   name = "Contacto"
