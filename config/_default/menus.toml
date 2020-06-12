@@ -116,6 +116,12 @@
   url = "#novedades"
   parent = "novedades"
   weight = 1  
+  
+[[main]]
+  name = "Blog"
+  url = "/post"
+  parent = "novedades"
+  weight = 2    
 
 [[main]]
   name = "Sobre mí"
