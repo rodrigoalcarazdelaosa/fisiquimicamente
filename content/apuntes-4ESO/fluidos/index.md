@@ -1,6 +1,6 @@
 ---
 title: Fluidos
-subtitle: "`EN CONSTRUCCIÓN`"
+subtitle: Concepto de presión, principios de la hidrostática y física de la atmósfera
 summary: "`EN CONSTRUCCIÓN`"
 tags:
 - 4º ESO
