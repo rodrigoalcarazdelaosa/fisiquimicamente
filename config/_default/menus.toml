@@ -136,13 +136,13 @@
   weight = 1
 
 [[main]]
-  name = "Trayectoria profesional"
+  name = "👣 Trayectoria profesional"
   url = "sobre-mi/#trayectoria"
   parent = "sobre-mi"
   weight = 2  
   
 [[main]]
-  name = "Estancias de investigación"
+  name = "✈️ Estancias de investigación"
   url = "sobre-mi/#estancias"
   parent = "sobre-mi"
   weight = 3    
