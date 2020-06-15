@@ -1,7 +1,7 @@
 ---
 title: Fluidos
-subtitle: Concepto de presión y principios de la hidrostática
-summary: "`PRÓXIMAMENTE` <br> Concepto de presión y principios de la hidrostática."
+subtitle: "`EN CONSTRUCCIÓN`"
+summary: "`EN CONSTRUCCIÓN`"
 tags:
 - 4º ESO
 - fuerzas
