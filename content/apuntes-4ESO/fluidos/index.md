@@ -1,6 +1,6 @@
 ---
 title: Fluidos
-subtitle: "`EN CONSTRUCCIÓN`"
+subtitle: "`EN CONStRUCCIÓN`"
 summary: "`EN CONSTRUCCIÓN`"
 tags:
 - 4º ESO
