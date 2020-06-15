@@ -70,7 +70,7 @@
   weight = 3
 
 [[main]]
-  name = "Tutoriales"
+  name = "👐 Tutoriales"
   url = "tutoriales/"  
   identifier = "tutoriales"
   weight = 3
