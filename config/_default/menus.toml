@@ -124,7 +124,7 @@
   weight = 2    
 
 [[main]]
-  name = "🔬 Sobre mí"
+  name = "👨‍🔬 Sobre mí"
   url = "sobre-mi/"
   identifier = "sobre-mi"
   weight = 6
@@ -148,7 +148,7 @@
   weight = 3    
 
 [[main]]
-  name = "Contacto"
+  name = "✉️ Contacto"
   url = "#contacto"
   weight = 7
 
