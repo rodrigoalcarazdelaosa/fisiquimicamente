@@ -52,19 +52,19 @@
   weight = 2
   
 [[main]]
-  name = "Física"
+  name = "☢️ Física"
   url = "recursos-ebau/#examenes-fisica"
   parent = "recursos-ebau"
   weight = 1
   
 [[main]]
-  name = "Química"
+  name = "⚗️ Química"
   url = "recursos-ebau/#examenes-quimica"
   parent = "recursos-ebau"
   weight = 2  
   
 [[main]]
-  name = "Consejos"
+  name = "💡 Consejos"
   url = "recursos-ebau/#consejos"
   parent = "recursos-ebau"
   weight = 3
