@@ -106,7 +106,7 @@
   weight = 2
 
 [[main]]
-  name = "Novedades"
+  name = "🗞️ Novedades"
   url = "#novedades"
   identifier = "novedades"
   weight = 5
