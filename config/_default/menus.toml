@@ -112,13 +112,13 @@
   weight = 5
 
 [[main]]
-  name = "Twitter"
+  name = "🐦 Twitter"
   url = "#novedades"
   parent = "novedades"
   weight = 1  
   
 [[main]]
-  name = "Blog"
+  name = "💬 Blog"
   url = "/post"
   parent = "novedades"
   weight = 2    
