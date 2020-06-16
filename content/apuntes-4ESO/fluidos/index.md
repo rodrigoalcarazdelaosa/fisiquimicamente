@@ -52,7 +52,7 @@ $$
 {{% alert example %}}
 <br>
 
-> El volumen del aire en los pulmones de una persona es de $615\thinspace\mathrm{mL}$ aproximadamente, a una presión de $1\thinspace\mathrm{atm}$. La inhalación ocurre cuando la presión de los pulmones desciende a $0.989\thinspace\mathrm{atm}$. ¿A qué volumen se expanden los pulmones?
+> Se quiere levantar un coche cuya masa es $m = 1500\thinspace\mathrm{kg}$ y está apoyado *aparcado* sobre un disco de radio $
 
 ---
 
