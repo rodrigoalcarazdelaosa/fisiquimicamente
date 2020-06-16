@@ -52,20 +52,13 @@ $$
 {{% alert example %}}
 <br>
 
-> Queremos levantar un coche de masa $m = 1500\thinspace\mathrm{kg}$ apretando uno de los pistones de un elevador hidráulico con nuestra mano. Suponiendo que la fuerza máxima que podemos hacer es $F_1 = $ y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, ¿qué radio deberá tener el soporte sobre el que está aparcado el coche para poder levantarlo?
+> Queremos levantar un coche de masa $m = 1500\thinspace\mathrm{kg}$ apretando uno de los pistones de un elevador hidráulico con nuestra mano. Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$[^1] y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, ¿qué radio deberá tener el soporte sobre el que está aparcado el coche para poder levantarlo?
+
+[^1]: [Referencia](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6).
 
 ---
 
-No nos lo dicen explícitamente pero tenemos que suponer que la **temperatura** permanece **constante**, por lo que debemos aplicar la ley de **Boyle-Mariotte**:		
-$$
-p_1 V_1 = p_2 V_2,
-$$
-donde $p_1=1\thinspace\mathrm{atm}$, $V_1=615\thinspace\mathrm{mL}$, $p_2=0.989\thinspace\mathrm{atm}$ y $V_2$ es lo que nos piden.
 
-Despejamos $V_2$:
-$$
-V_2 = \frac{p_1 V_1}{p_2} = \frac{1\thinspace\mathrm{\cancel{atm}}\cdot 615\thinspace\mathrm{mL}}{0.989\thinspace\mathrm{\cancel{atm}}} = 621.8\thinspace\mathrm{mL}
-$$
 
 {{% /alert %}}
 
