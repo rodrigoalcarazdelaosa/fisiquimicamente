@@ -59,8 +59,9 @@ $$
 Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ [^1] y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, podemos aplicar el **principio de Pascal** para establecer:
 
 $$
-p_1 = p_2 \Rightarrow \frac{F_1}{A_1} = \frac{F_2}{A_2} \Rightarrow F_1A_2 = F_2A_1
+p_1 = p_2 \Rightarrow \frac{F_1}{A_1} = \frac{F_2}{A_2} \Rightarrow F_1A_2 = F_2A_1,
 $$
+donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$$
 
 [^1]: [https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6).
 
