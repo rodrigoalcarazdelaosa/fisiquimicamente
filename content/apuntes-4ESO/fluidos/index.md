@@ -58,7 +58,7 @@ $$
 
 Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ [^1] y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, ¿qué radio deberá tener el soporte sobre el que está aparcado el coche para poder levantarlo?
 
-[^1]: [Referencia](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6).
+[^1]: [https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6).
 
 {{% /alert %}}
 
