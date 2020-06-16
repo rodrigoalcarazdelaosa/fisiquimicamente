@@ -52,7 +52,7 @@ $$
 {{% alert example %}}
 <br>
 
-> ¿Qué radio deberá tener el soporte sobre el que está *aparcado* un coche de masa $m = 1500\thinspace\mathrm{kg}$ si queremos levantarlo apretando uno de los pistones de un elevador hidráulico con nuestra mano?
+> ¿Qué radio deberá tener el soporte circular sobre el que está *aparcado* un coche de masa $m = 1500\thinspace\mathrm{kg}$ si queremos levantarlo apretando uno de los pistones (también circular) de un elevador hidráulico con nuestra mano?
 
 ---
 
