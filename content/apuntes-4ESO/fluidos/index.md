@@ -61,7 +61,7 @@ Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathr
 $$
 p_1 = p_2 \Rightarrow \frac{F_1}{A_1} = \frac{F_2}{A_2} \Rightarrow F_1A_2 = F_2A_1,
 $$
-donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$, $F_2 = m\cdot g = 1500\thinspace\mathrm{\cancel{kg}}\cdot 9.8\thinspace\mathrm{N/kg} = 14700\thinspace\mathrm{N}$.
+donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$, $F_2 = m\cdot g = 1500\thinspace\mathrm{\cancel{kg}}\cdot 9.8\thinspace\mathrm{N/\cancel{kg}} = 14700\thinspace\mathrm{N}$.
 
 [^1]: [https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6).
 
