@@ -52,7 +52,7 @@ $$
 {{% alert example %}}
 <br>
 
-> Queremos levantar un coche de masa $m = 1500\thinspace\mathrm{kg}$ apretando uno de los pistones de un elevador hidráulico con nuestra mano. Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, ¿qué radio deberá tener el soporte sobre el que está aparcado el coche para poder levantarlo?
+> Queremos levantar un coche de masa $m = 1500\thinspace\mathrm{kg}$ apretando uno de los pistones de un elevador hidráulico con nuestra mano. Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ ([https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6)) y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, ¿qué radio deberá tener el soporte sobre el que está aparcado el coche para poder levantarlo?
 
 [^1]: [Referencia](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6).
 
