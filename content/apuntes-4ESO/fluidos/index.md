@@ -36,6 +36,8 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 ## Principios de la hidrostática
 ### Principio de Pascal
+
+> Todo cambio de presión en un punto de un fluido incompresible encerrado en un recipiente de paredes indeformables se transmite con igual intensidad en todas las direcciones y en todos los puntos del fluido.
 ### Principio fundamental de la hidrostática
 ### Principio de Arquímedes
 
