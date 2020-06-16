@@ -57,7 +57,7 @@ $$
 
 ---
 
-Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ ([https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6)) y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, podemos aplicar el **principio de Pascal** para establecer:
+Aplicando el **principio de Pascal**:
 
 \begin{align*}
 p_1 &= p_2 \\\\
