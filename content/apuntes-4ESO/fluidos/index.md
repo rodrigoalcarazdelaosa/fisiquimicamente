@@ -66,7 +66,7 @@ p_1 &= p_2 \\\\
 donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$, $F_2 = m\cdot g = 1500\thinspace\mathrm{\cancel{kg}}\cdot 9.8\thinspace\mathrm{N/\cancel{kg}} = 14700\thinspace\mathrm{N}$ y $r_2$ es lo que nos piden. Despejando:
 
 $$
-r_2 = r_1 \sqrt{\frac{F_2}{F_1}} = 0.08\sqrt{\frac{14700}{500}} = 
+r_2 = r_1 \sqrt{\frac{F_2}{F_1}} = 0.08\sqrt{\frac{14700}{500}} = 0.43\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
 $$
 
 [^1]: [https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6).
