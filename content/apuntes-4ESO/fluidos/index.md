@@ -73,7 +73,7 @@ p_1 &= p_2 \\\\
 donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$, $F_2 = 14700\thinspace\mathrm{N}$ y $r_2$ es lo que nos piden. Despejando:
 
 $$
-r_2 = r_1 \sqrt{\frac{F_2}{F_1}} = 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{\cancel{N}}}{500\thinspace\mathrm{\cancel{N}}}} = 0.43\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
+r_2 = r_1 \sqrt{\frac{F_2}{F_1}} = 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{\cancel{N}}}{500\thinspace\mathrm{\cancel{N}}}} = 0.434\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
 $$
 
 {{% /alert %}}
