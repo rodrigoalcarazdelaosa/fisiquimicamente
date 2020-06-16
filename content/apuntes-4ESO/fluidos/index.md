@@ -54,9 +54,11 @@ $$
 
 > ¿Qué radio deberá tener el soporte circular sobre el que está *aparcado* un coche de masa $m = 1500\thinspace\mathrm{kg}$ si queremos levantarlo apretando uno de los pistones (también circular) de un elevador hidráulico con nuestra mano?
 
+(Suponer que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ ([https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6)) y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$).
+
 ---
 
-Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ [^1] y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, podemos aplicar el **principio de Pascal** para establecer:
+Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ ([https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6)) y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$, podemos aplicar el **principio de Pascal** para establecer:
 
 \begin{align*}
 p_1 &= p_2 \\\\
@@ -68,8 +70,6 @@ donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thins
 $$
 r_2 = r_1 \sqrt{\frac{F_2}{F_1}} = 0.08\sqrt{\frac{14700}{500}} = 0.43\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
 $$
-
-[^1]: [https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6).
 
 {{% /alert %}}
 
