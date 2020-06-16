@@ -52,7 +52,7 @@ $$
 {{% alert example %}}
 <br>
 
-> Se quiere levantar un coche cuya masa es $m = 1500\thinspace\mathrm{kg}$ y está apoyado *aparcado* sobre un disco de radio $
+> Queremos levantar un coche de masa $m = 1500\thinspace\mathrm{kg}$ apretando un pistón con nuestra mano. Suponiendo que la fuerza máxima que podemos hacer es $F_1 = $ y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$
 
 ---
 
