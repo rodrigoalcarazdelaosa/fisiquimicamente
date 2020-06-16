@@ -61,7 +61,7 @@ Suponiendo que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathr
 \begin{align*}
 p_1 &= p_2 \\\\
 \frac{F_1}{A_1} &= \frac{F_2}{A_2} \\\\
-\frac{F_1}{\cancel{\pi} r_1^2} &= \frac{F_2}{\cancel{\pi} r_2^2} \rightarrow r_2 = 
+\frac{F_1}{\cancel{\pi} r_1^2} &= \frac{F_2}{\cancel{\pi} r_2^2} \rightarrow r_2 = r_1 \sqrt{\frac{F_2}{F_1}}
 \end{align*}
 donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$, $F_2 = m\cdot g = 1500\thinspace\mathrm{\cancel{kg}}\cdot 9.8\thinspace\mathrm{N/\cancel{kg}} = 14700\thinspace\mathrm{N}$.
 
