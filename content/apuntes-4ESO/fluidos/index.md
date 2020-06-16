@@ -38,6 +38,12 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 ### Principio de Pascal
 
 > Todo cambio de presión en un punto de un fluido incompresible encerrado en un recipiente de paredes indeformables se transmite con igual intensidad en todas las direcciones y en todos los puntos del fluido.
+
+Las **aplicaciones** del principio de Pascal incluyen las jeringuillas o las prensas y elevadores hidráulicos.
+
+#### Prensa hidráulica
+{{< figure library="true" src="fluidos-4/prensa-hidraulica.png" title="Una pequeña fuerza $F_1$ produce un aumento de presión $F_1/A_1$ que es transmitido por el líquido al pistón grande. Como los cambios de presión son iguales en todo el fluido (\textbf{principio de Pascal}), las fuerzas ejercidas en los pistones están relacionadas, siendo $F_2 > F_1$. Permite elevar grandes pesos con una fuerza pequeña (semejante a la palanca). Adaptada del Tipler, 6ª edición." lightbox="true" >}}
+
 ### Principio fundamental de la hidrostática
 ### Principio de Arquímedes
 
