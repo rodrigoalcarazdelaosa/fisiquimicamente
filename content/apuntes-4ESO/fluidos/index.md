@@ -23,6 +23,13 @@ links:
   url: fluidos-poster.pdf
 ---
 
-{{% alert warning %}}
-En construcción...
-{{% /alert %}}
+{{% toc %}}
+
+## Concepto de presión
+
+## Principios de la hidrostática
+### Principio de Pascal
+### Principio fundamental de la hidrostática
+### Principio de Arquímedes
+
+## Física de la atmósfera
