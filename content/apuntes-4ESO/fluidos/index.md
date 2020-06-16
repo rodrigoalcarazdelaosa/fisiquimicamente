@@ -1,7 +1,7 @@
 ---
 title: Fluidos
 subtitle: Concepto de presión, principios de la hidrostática y física de la atmósfera
-summary: "`EN CONSTRUCCIÓN`"
+summary: Concepto de presión, principios de la hidrostática y física de la atmósfera.
 tags:
 - 4º ESO
 - fuerzas
