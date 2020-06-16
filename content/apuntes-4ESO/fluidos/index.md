@@ -52,9 +52,8 @@ $$
 {{% alert example %}}
 <br>
 
-> ¿Qué radio deberá tener el soporte circular sobre el que está *aparcado* un coche de masa $m = 1500\thinspace\mathrm{kg}$ si queremos levantarlo apretando uno de los pistones (también circular) de un elevador hidráulico con nuestra mano?
-
-	(Suponer que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ ([https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6)) y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$).
+> ¿Qué radio deberá tener el soporte circular sobre el que está *aparcado* un coche de masa $m = 1500\thinspace\mathrm{kg}$ si queremos levantarlo apretando uno de los pistones (también circular) de un elevador hidráulico con nuestra mano? <br>
+(Suponer que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ ([https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6](https://msis.jsc.nasa.gov/sections/section04.htm#Figure%204.9.3-6)) y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$).
 
 ---
 
