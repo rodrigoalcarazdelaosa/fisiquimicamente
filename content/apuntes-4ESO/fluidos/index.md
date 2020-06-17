@@ -112,7 +112,7 @@ El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja
 ### Hemisferios de Magdeburgo
 En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke**, diseñó un par de grandes hemisferios de cobre, que se ajustaban con un anillo de acoplamiento formando una esfera. Tras sellar los bordes con grasa y extraer el aire con una bomba de vacío que él mismo había inventado, sendos tiros de 8 caballos intentaron separar ambos hemisferios, sin éxito, demostrando así el poder de la presión atmosférica.
 
-{{< figure library="true" src="fluidos-4ESO/hemisferios-Magdeburgo.jpg" title="Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a aproximadamente 76 cm, creándose un vacío en los 24 cm restantes. Crédito: [Science Source](https://www.sciencesource.com/archive/Magdeburg-Hemispheres--17th-Century-SS2636797.html)." lightbox="true" >}}
+{{< figure library="true" src="fluidos-4ESO/hemisferios-Magdeburgo.jpg" title="Versión coloreada del grabado de Gaspar Schott del experimento de Otto von Guericke de los hemisferios de Magdeburgo. Crédito: [Science Source](https://www.sciencesource.com/archive/Magdeburg-Hemispheres--17th-Century-SS2636797.html)." lightbox="true" >}}
 
 En este vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ser testigo de *la verdadera lucha de los caballos contra la presión atmosférica*:
 
