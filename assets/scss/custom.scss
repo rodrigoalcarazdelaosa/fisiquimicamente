@@ -307,6 +307,9 @@ color: $primary; }
  *  Featurette Widget
  **************************************************/
 
+.featurette-icon span {
+	  display: inline-block;  /* <- ADD THIS */
+	}
 .featurette-icon span:hover {
   transform: scale(1.2); }
 
