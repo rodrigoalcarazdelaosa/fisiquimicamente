@@ -148,7 +148,7 @@ Puedes explorar con más detalle la **relación** entre la **presión**, la **de
 
 <iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
-En este cortometraje-documental del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) "*se somete a diversas revisiones el controvertido experimento conocido como tonel de Pascal*":
+En este cortometraje-documental del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) "*se somete a diversas revisiones el controvertido experimento conocido como tonel de Pascal*", ideado por el propio Pascal para demostrar de forma definitiva el principio que lleva su nombre:
 
 {{< youtube GuCGcOkoK5E >}}
 
