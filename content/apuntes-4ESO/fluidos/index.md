@@ -93,7 +93,17 @@ $$
 
 ## Física de la atmósfera
 ### Presión atmosférica
+La **presión atmosférica** es el peso de la columna de aire que soporta un cuerpo por unidad de superficie.
+
 ### Experimento de Torricelli
+Gracias al **experimento de Torricelli** se midió por primera vez la presión atmosférica y se produjo el primer vacío de la historia.
+
+Al poner un tubo de \SI{100}{cm} de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a $\approx\SI{76}{cm}$, creándose un vacío en los $\approx\SI{24}{cm}$ restantes:
+\begin{align*}	  			
+p_\text{atm} &= d_\text{Hg}\cdot g\cdot h \\\\ 
+& = \SI{13534}{kg/m^3}\cdot \SI{9.8}{N/kg}\cdot \SI{0.76}{m} \\\\
+&=  \SI{101325}{Pa} = \SI{1}{atm}
+\end{align*}
 {{< vimeo 110619312 >}}
 
 ### Hemisferios de Magdeburgo
