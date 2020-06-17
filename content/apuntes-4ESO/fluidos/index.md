@@ -127,4 +127,13 @@ Finalmente el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA
 {{< youtube Q66DxZB6plE >}}
 
 ### Fenómenos meteorológicos
-Originados por **diferencias** de **presión** en distintos puntos de la atmósfera.
+Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos metereológicos**.
+
+#### Viento
+Los **vientos** soplan desde regiones con mayor presión hacia aquellas en las que la presión es menor (normalmente debido a diferencias de temperaturas).
+
+#### Borrascas
+Las **borrascas** o zonas de **baja presión** son regiones de la atmósfera en las que la presión atmosférica es más baja que la del aire circundante, lo que provoca que el aire húmedo ascienda, enfriándose, condensándose y originando **tiempo inestable**.
+
+#### Anticiclones
+Un **anticiclón** es una zona atmosférica de **alta presión**, en la cual la presión atmosférica es superior a la del aire circundante, provocando que el aire de las capas más altas descienda, originando **tiempo estable**.
