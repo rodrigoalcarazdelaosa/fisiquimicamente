@@ -102,7 +102,7 @@ que constituye la **ecuación fundamental de la hidrostática**.
 {{% alert example %}}
 <br>
 
-> Un reloj
+> Un reloj tiene una etiqueta que pone 10 atm.
 
 {{< figure library="true" src="fluidos-4ESO/reloj.jpg" title="Foto adaptada de [Fabian Heimann](https://unsplash.com/@fabianheimann) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
