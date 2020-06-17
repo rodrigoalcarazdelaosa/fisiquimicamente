@@ -147,6 +147,14 @@ Puedes explorar con más detalle la **relación** entre la **presión**, la **de
 
 ### Principio de Arquímedes
 
+> Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado.
+\begin{align*}					
+E &= P_\text{fluido desalojado} \\\\
+&= m_\text{fluido desalojado}\cdot g \\\\
+&= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\\\
+&= d_\text{fluido}\cdot V_\text{sumergido}\cdot g
+\end{align*}
+
 ## Física de la atmósfera
 ### Presión atmosférica
 La **presión atmosférica** es el peso de la columna de aire que soporta un cuerpo por unidad de superficie.
