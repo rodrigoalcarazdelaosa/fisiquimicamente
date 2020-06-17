@@ -102,7 +102,7 @@ que constituye la **ecuación fundamental de la hidrostática**.
 {{% alert example %}}
 <br>
 
-> Un reloj tiene una etiqueta que pone 10 ATM. ¿Hasta qué profundidad podremos sumergirlo?
+> Un reloj tiene una etiqueta que pone 10 ATM. ¿Hasta qué profundidad podremos sumergirlo en el mar?
 
 {{< figure library="true" src="fluidos-4ESO/reloj.jpg" title="Foto adaptada de [Fabian Heimann](https://unsplash.com/@fabianheimann) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
@@ -113,7 +113,7 @@ Lo primero que habría que decir es que ATM es el símbolo de la unidad de presi
 $$
 p = p_0 + dgh,
 $$
-donde $p = 10\thinspace\mathrm{atm}$
+donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la presión atmosférica a nivel del mar, $d = 1025\thinspace\mathrm{kg/m^3}$
 
 {{% /alert %}}
 
