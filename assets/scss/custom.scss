@@ -119,14 +119,16 @@ color: rgba(42, 84, 169, 0.54); }
 *  Tables
 **************************************************/
 /* Based on Bootstrap's `table-responsive` style. */
+table > thead > tr > th {
+color: $primary; }
+
 table > thead > tr > th,
 table > tbody > tr > th,
 table > tfoot > tr > th,
 table > thead > tr > td,
 table > tbody > tr > td,
 table > tfoot > tr > td {
-border-top: 0px solid $primary;
-color: $red; }
+border-top: 0px solid $primary; }
 
 // Bordes estilo booktabs
 table > thead {
