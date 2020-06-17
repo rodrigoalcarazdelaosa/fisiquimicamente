@@ -25,7 +25,7 @@
     {{ with .icon }}
     <div class="featurette-icon">
       {{- if eq $pack "emoji" -}}
-        {{- . | markdownify | emojify -}}
+        <span>{{- . | markdownify | emojify -}}</span>
       {{- else if eq $pack "custom" -}}
         {{- $svg_icon := resources.Get (printf "images/icon-pack/%s.svg" .) -}}
         {{- if $svg_icon -}}<img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline">{{- end -}}
