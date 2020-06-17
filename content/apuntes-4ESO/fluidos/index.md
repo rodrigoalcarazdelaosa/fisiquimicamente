@@ -180,7 +180,7 @@ $$
 {{% alert example %}}
 <br>
 
-> El Pont Aven es el ferry que navega desde Santander hasta Plymouth 4803 toneladas
+> El Pont Aven es el ferry que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. 
 
 {{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" title="[https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven](https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven)." lightbox="true" >}}
 
