@@ -21,7 +21,7 @@ subtitle = ""
   description = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) <br> [1º Bach](apuntes/#primero-bach) | [2º Bach Física](apuntes/#segundo-bach-fisica) | [2º Bach Química](apuntes/#segundo-bach-quimica)"
   
 [[feature]]
-  icon = "🎓"
+  icon = "[🎓](recursos-ebau/)"
   icon_pack = "emoji"
   name = "[Recursos EBAU](recursos-ebau/)"
   description = "☢️ [Física](recursos-ebau/#examenes-fisica) | ⚗️ [Química](recursos-ebau/#examenes-quimica) <br> 💡[Consejos](recursos-ebau/#consejos)"
