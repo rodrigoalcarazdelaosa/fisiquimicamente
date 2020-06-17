@@ -117,7 +117,7 @@ donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la pres
 
 Convertimos todo al SI:
 $$
-10\thinspace\mathrm{\cancel{atm}} \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}}
+10\thinspace\mathrm{\cancel{atm}} \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 1013250\thinspace\mathrm{Pa}
 $$
 
 Despejando $h$:
