@@ -98,6 +98,18 @@ p = p_0 + dgh,
 $$
 que constituye la **ecuación fundamental de la hidrostática**.
 
+##### Ejemplo
+{{% alert example %}}
+<br>
+
+> Un reloj
+
+---
+
+
+
+{{% /alert %}}
+
 <iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{< youtube GuCGcOkoK5E >}}
