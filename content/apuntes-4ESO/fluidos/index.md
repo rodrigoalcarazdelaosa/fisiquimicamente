@@ -47,8 +47,8 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 	 	\end{tabular}
 	 \end{center}
 
-| Pascal (Pa) | Atmósfera (atm) | Bar (bar) | Torr (Torr) |
-| :---: | :---: | :---: | :---: |
+| | Pascal (Pa) | Atmósfera (atm) | Bar (bar) | Torr (Torr) |
+| :---: | :---: | :---: | :---: | :---: |
 | 1 Pa | 1 | $9.8692\times 10^{-6}$ | $10^{-5}$ | $7.5006\times 10^{-3}$ |
 | 1 atm | 101325 | 1 | 1.01325 | 760 |
 | 1 bar | $10^5$ | 0.98692 | 1 | 750.06 |
