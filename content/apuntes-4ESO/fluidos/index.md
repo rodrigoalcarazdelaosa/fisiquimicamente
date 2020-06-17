@@ -124,7 +124,7 @@ Convertimos todo al SI:
 Despejando $h$:
 
 $$
-h = \frac{p-p_0}{dg} = \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} = 
+h = \frac{p-p_0}{dg} = \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} = 90.8\thinspace\mathrm{m}
 $$
 
 {{% /alert %}}
