@@ -15,19 +15,19 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "☢️"
+  icon = "[☢️](#examenes-fisica)"
   icon_pack = "emoji"
   name = "[Física](#examenes-fisica)"
   description = "📝 [Exámenes completos](#examenes-fisica) | 🗂️ [Por temas](#preguntas-fisica)"  
   
 [[feature]]
-  icon = "⚗️"
+  icon = "[⚗️](#examenes-quimica)"
   icon_pack = "emoji"
   name = "[Química](#examenes-quimica)"
   description = "📝 [Exámenes completos](#examenes-quimica) | 🗂️ [Por temas](#preguntas-quimica)"
   
 [[feature]]
-  icon = "💡"
+  icon = "[💡](#consejos)"
   icon_pack = "emoji"
   name = "[Consejos](#consejos)"
   description = ""  
