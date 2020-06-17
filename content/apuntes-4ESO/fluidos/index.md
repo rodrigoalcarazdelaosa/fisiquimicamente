@@ -97,7 +97,7 @@ $$
 {{< vimeo 110619312 >}}
 
 ### Hemisferios de Magdeburgo
-En 1654, el científico alemán y burgomaestre de Magdeburgo \textbf{Otto von Guericke}, diseñó un par de grandes hemisferios de cobre, que se ajustaban con un anillo de acoplamiento formando una esfera. Tras sellar los bordes con grasa y extraer el aire con una bomba de vacío que él mismo había inventado, sendos tiros de 8 caballos intentaron separar ambos hemisferios, sin éxito, demostrando así el poder de la presión atmosférica.
+En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke**, diseñó un par de grandes hemisferios de cobre, que se ajustaban con un anillo de acoplamiento formando una esfera. Tras sellar los bordes con grasa y extraer el aire con una bomba de vacío que él mismo había inventado, sendos tiros de 8 caballos intentaron separar ambos hemisferios, sin éxito, demostrando así el poder de la presión atmosférica.
 
 {{< vimeo 33482842 >}}
 {{< vimeo 67896094 >}}
