@@ -115,6 +115,11 @@ p = p_0 + dgh,
 $$
 donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la presión atmosférica a nivel del mar, $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar ([https://es.wikipedia.org/wiki/Agua_de_mar](https://es.wikipedia.org/wiki/Agua_de_mar)), $g = 9.8\thinspace\mathrm{N/kg}$ es la aceleración de la gravedad y $h$ es lo que nos piden.
 
+Convertimos todo al SI:
+$$
+10\thinspace\mathrm{\cancel{atm}} \cdot 
+$$
+
 Despejando $h$:
 
 $$
