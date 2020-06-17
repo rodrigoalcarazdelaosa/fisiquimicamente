@@ -102,7 +102,7 @@ Gracias al **experimento de Torricelli** se midió por primera vez la presión a
 
 
 $$
-p_\text{atm} = d_\text{Hg}\cdot g\cdot h = \SI{13534}{kg/m^3}\cdot \SI{9.8}{N/kg}\cdot \SI{0.76}{m} =  \SI{101325}{Pa} = \SI{1}{atm}
+p_\text{atm} = d_\text{Hg}\cdot g\cdot h = 13534\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} =  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
 $$
 
 {{< vimeo 110619312 >}}
