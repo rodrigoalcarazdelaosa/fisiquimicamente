@@ -190,9 +190,14 @@ Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene 
 
 \begin{align*}
 E &= P \\\\
-d_\text{fluido}\cdot V_\text{sumergido}\cdot g &= m\cdot g \\\\
-g
+d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m\cdot \cancel{g}
 \end{align*}
+
+Despejamos el $V_\text{sumergido}$:
+
+$$
+V_\text{sumergido} = 
+$$
 
 {{% /alert %}}
 
