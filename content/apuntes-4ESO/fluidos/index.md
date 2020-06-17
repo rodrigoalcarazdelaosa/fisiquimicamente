@@ -85,6 +85,8 @@ $$
 {{< vimeo 209053495 >}}
 
 ### Principio fundamental de la hidrostática
+{{< youtube GuCGcOkoK5E >}}
+
 ### Principio de Arquímedes
 
 ## Física de la atmósfera
