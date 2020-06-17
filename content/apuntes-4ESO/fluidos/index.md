@@ -32,7 +32,7 @@ p = \frac{F}{A}
 $$
 
 ### Unidades
-En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pascal** ($1\thinspace\mathrm{Pa} = 1\thinspace\mathrm{N/m^2}$). Otras unidades de presión muy utilizadas son la **atmósfera** ($1\thinspace\mathrm{atm} = 101325\thinspace\mathrm{Pa}$) o el **bar** ($1\thinspace\mathrm{bar} = 10^5\thinspace\mathrm{Pa}$).
+En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pascal** ($1\thinspace\mathrm{Pa} = 1\thinspace\mathrm{N/m^2}$). La siguiente tabla muestra otras unidades de presión y su equivalencia entre ellas:
 
 ## Principios de la hidrostática
 ### Principio de Pascal
