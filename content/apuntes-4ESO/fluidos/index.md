@@ -107,4 +107,8 @@ En este otro vídeo, también el [Departamento de Física y Química del IES Val
 
 {{< vimeo 67896094 >}}
 
+Finalmente Bruce Yeany nos muestra un método alternativo que no requiere una bomba de vacío para eliminar el aire del interior de la esfera: 
+
+{{< youtube Q66DxZB6plE >}}
+
 ### Fenómenos meteorológicos
