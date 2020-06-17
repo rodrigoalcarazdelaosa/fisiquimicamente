@@ -49,7 +49,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 | Pascal (Pa) | Atmósfera (atm) | Bar (bar) | Torr (Torr) |
 | :---: | :---: | :---: | :---: |
-| 1 Pa | 1 | $9.8692\times 10^{-6}$ | | |
+| 1 Pa | 1 | $9.8692\times 10^{-6}$ | $10^{-5}$ | $7.5006\times 10^{-3}$ |
 
 ## Principios de la hidrostática
 ### Principio de Pascal
