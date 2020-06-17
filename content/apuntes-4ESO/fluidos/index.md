@@ -147,7 +147,7 @@ Puedes explorar con más detalle la **relación** entre la **presión**, la **de
 
 ### Principio de Arquímedes
 
-> Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado.
+> Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado:
 \begin{align*}					
 E &= P_\text{fluido desalojado} \\\\
 &= m_\text{fluido desalojado}\cdot g \\\\
