@@ -302,6 +302,13 @@ color: $primary; }
 	color: currentColor;
 	text-decoration: none;
 	border-bottom: solid 1px currentColor; }
+	
+/*************************************************
+ *  Featurette Widget
+ **************************************************/
+
+.featurette-icon a:hover {
+  transform: scale(1.2); }	
 
 /*************************************************
  *  Hero Widget
