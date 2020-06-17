@@ -137,3 +137,5 @@ Las **borrascas** o zonas de **baja presión** son regiones de la atmósfera en 
 
 #### Anticiclones
 Un **anticiclón** es una zona atmosférica de **alta presión**, en la cual la presión atmosférica es superior a la del aire circundante, provocando que el aire de las capas más altas descienda, originando **tiempo estable**.
+
+{{< figure library="true" src="fluidos-4ESO/borrasca-anticiclon.jpg" title="[https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html](https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html)" lightbox="true" >}}
