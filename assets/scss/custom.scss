@@ -311,6 +311,8 @@ color: $primary; }
 	  display: inline-block; }
 .featurette-icon span:hover {
   transform: scale(1.2); }
+.featurette-icon span a:hover {
+	text-decoration: none; }  
 
 /*************************************************
  *  Hero Widget
