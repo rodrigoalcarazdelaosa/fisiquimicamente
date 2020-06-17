@@ -189,14 +189,14 @@ $$
 Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene que ser cero, o lo que es lo mismo, el empuje ha de igualar al peso. Aplicando el **principio de Arquímedes**:
 
 \begin{align*}
-E &= P \\\\
-d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m\cdot \cancel{g}
+E &= P_\text{barco} \\\\
+d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \cancel{g}
 \end{align*}
 
 Despejamos el $V_\text{sumergido}$:
 
 $$
-V_\text{sumergido} = 
+V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}}
 $$
 
 {{% /alert %}}
