@@ -104,6 +104,8 @@ que constituye la **ecuación fundamental de la hidrostática**.
 
 > Un reloj
 
+{{< figure library="true" src="fluidos-4ESO/reloj.jpg" title="Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a aproximadamente 76 cm, creándose un vacío en los 24 cm restantes. Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/53700/53703/53703_torricellian.htm)." lightbox="true" >}}
+
 ---
 
 
