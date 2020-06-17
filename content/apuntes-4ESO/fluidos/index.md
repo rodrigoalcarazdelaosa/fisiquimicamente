@@ -103,7 +103,7 @@ En este vídeo del [Departamento de Física y Química del IES Valle del Saja](h
 
 {{< vimeo 33482842 >}}
 
-En este otro vídeo el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) reproduce otras extraordinarias demostraciones que el propio Otto Von Guericke recoge en su libro:
+En este otro vídeo, también el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) reproduce otras extraordinarias demostraciones que el propio Otto Von Guericke recoge en su libro:
 
 {{< vimeo 67896094 >}}
 
