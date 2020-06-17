@@ -82,6 +82,8 @@ $$
 
 {{% /alert %}}
 
+En el siguiente vídeo el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) logra reproducir a pequeña escala el funcionamiento de un elevador hidráulico mediante un esquemático modelo con dos jeringuillas:
+
 {{< vimeo 209053495 >}}
 
 ### Principio fundamental de la hidrostática
