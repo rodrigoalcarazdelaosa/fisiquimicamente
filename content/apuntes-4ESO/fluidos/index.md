@@ -186,7 +186,11 @@ $$
 
 ---
 
+Aplicando el **principio de Arquímedes** tenemos que el empuje viene dado por:
 
+$$
+E = d_\text{fluido}\cdot V_\text{sumergido}\cdot g
+$$
 
 {{% /alert %}}
 
