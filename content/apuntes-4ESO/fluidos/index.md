@@ -193,6 +193,11 @@ E &= P_\text{barco} \\\\
 d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \cancel{g}
 \end{align*}
 
+Pasamos la masa del barco a kg:
+$$
+4803\thinspace\mathrm{\cancel{t}}
+$$
+
 Despejamos el $V_\text{sumergido}$:
 
 \begin{align*}
