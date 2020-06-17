@@ -308,8 +308,7 @@ color: $primary; }
  **************************************************/
 
 .featurette-icon span {
-	  display: inline-block;  /* <- ADD THIS */
-	}
+	  display: inline-block; 
 .featurette-icon span:hover {
   transform: scale(1.2); }
 
