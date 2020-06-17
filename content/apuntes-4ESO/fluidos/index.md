@@ -133,6 +133,8 @@ Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la p
 
 {{% /alert %}}
 
+Puedes explorar con más detalle la **relación** entre la **presión**, la **densidad** y la **profundidad** con la siguiente **simulación**:
+
 <iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{< youtube GuCGcOkoK5E >}}
