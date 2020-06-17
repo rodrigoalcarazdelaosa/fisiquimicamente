@@ -108,7 +108,9 @@ que constituye la **ecuación fundamental de la hidrostática**.
 
 ---
 
-Lo primero que habría que decir es que ATM es el símbolo de la unidad de presión **atmósfera**, por lo que habría que escribirlo como atm. Esa etiqueta significa que 10 atm es la presión máxima que aguanta el reloj. Haciendo uso de la ecuación fundamental de la hidrostática podemos relacionar la presión con la profundidad:
+Lo primero que habría que decir es que ATM es el símbolo de la unidad de presión **atmósfera**, por lo que habría que escribirlo como atm. Esa etiqueta significa que 10 atm es la presión máxima que aguanta el reloj.
+
+Haciendo uso de la ecuación fundamental de la hidrostática podemos relacionar la presión con la profundidad:
 
 $$
 p = p_0 + dgh,
