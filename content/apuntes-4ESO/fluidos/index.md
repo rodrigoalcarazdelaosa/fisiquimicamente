@@ -180,7 +180,7 @@ $$
 {{% alert example %}}
 <br>
 
-> Un reloj tiene una etiqueta que pone 10 ATM. ¿Hasta qué profundidad podremos sumergirlo en el mar?
+> El Pont Aven 4803 toneladas
 
 {{< figure library="true" src="fluidos-4ESO/reloj.jpg" title="Foto adaptada de [Fabian Heimann](https://unsplash.com/@fabianheimann) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
