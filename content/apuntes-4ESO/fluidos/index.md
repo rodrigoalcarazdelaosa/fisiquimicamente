@@ -92,6 +92,12 @@ $$
 p = \frac{F}{A} = \frac{m\cdot g}{A} = \frac{d\cdot V\cdot g}{A} = \frac{d\cdot \bcancel{A}\cdot h\cdot g}{\bcancel{A}} = d\cdot g \cdot h
 $$
 
+En el caso de que la superficie esté sometida a una presión $p_0$ (presión atmosférica por ejemplo), la presión total a una profundidad $h$ será:
+$$
+p = p_0 + dgh,
+$$
+que constituye la **ecuación fundamental de la hidrostática**.
+
 <iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{< youtube GuCGcOkoK5E >}}
