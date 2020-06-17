@@ -196,7 +196,7 @@ d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \
 Despejamos el $V_\text{sumergido}$:
 
 $$
-V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}}
+V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} = \frac{4803\times 10^6\thinspace\mathrm{kg}}{1025\thinspace\mathrm{kg/m^3}} = 
 $$
 
 {{% /alert %}}
