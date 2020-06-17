@@ -186,7 +186,7 @@ $$
 
 ---
 
-Aplicando el **principio de Arquímedes** tenemos que el empuje viene dado por:
+Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene que ser cero, o lo que es lo mismo, el empuje ha de igualar al peso: $E = P$. Aplicando el **principio de Arquímedes** tenemos que el empuje viene dado por:
 
 $$
 E = d_\text{fluido}\cdot V_\text{sumergido}\cdot g
