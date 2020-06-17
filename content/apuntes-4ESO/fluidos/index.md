@@ -102,13 +102,13 @@ que constituye la **ecuación fundamental de la hidrostática**.
 {{% alert example %}}
 <br>
 
-> Un reloj tiene una etiqueta que pone 10 atm. ¿Hasta qué profundidad podremos sumergirlo?
+> Un reloj tiene una etiqueta que pone 10 ATM. ¿Hasta qué profundidad podremos sumergirlo?
 
 {{< figure library="true" src="fluidos-4ESO/reloj.jpg" title="Foto adaptada de [Fabian Heimann](https://unsplash.com/@fabianheimann) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
 ---
 
-
+Lo primero que habría que decir es que ATM 
 
 {{% /alert %}}
 
