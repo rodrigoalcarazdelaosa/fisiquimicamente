@@ -125,7 +125,8 @@ table > tfoot > tr > th,
 table > thead > tr > td,
 table > tbody > tr > td,
 table > tfoot > tr > td {
-border-top: 0px solid $primary; }
+border-top: 0px solid $primary;
+color: $red; }
 
 // Bordes estilo booktabs
 table > thead {
