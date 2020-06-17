@@ -127,3 +127,4 @@ Finalmente el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA
 {{< youtube Q66DxZB6plE >}}
 
 ### Fenómenos meteorológicos
+Originados por **diferencias** de **presión** en distintos puntos de la atmósfera.
