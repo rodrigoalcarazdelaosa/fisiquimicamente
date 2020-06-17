@@ -129,7 +129,7 @@ $$
 h = \frac{p-p_0}{dg} = \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} = 90.8\thinspace\mathrm{m}
 $$
 
-
+Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente. 
 
 {{% /alert %}}
 
