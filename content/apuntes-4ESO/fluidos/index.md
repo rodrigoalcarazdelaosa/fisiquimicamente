@@ -39,7 +39,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 > Todo cambio de presión en un punto de un fluido incompresible encerrado en un recipiente de paredes indeformables se transmite con igual intensidad en todas las direcciones y en todos los puntos del fluido.
 
-El siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) demuestra el **principio de Pascal**: 
+En el siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ver una demostración muy extendida del **principio de Pascal**, que consiste en rellenar con agua un recipiente esférico hueco al que se le han practicado diversos orificios. Mediante una jeringuilla acoplada al dispositivo, se le aplica una sobrepresión al fluido que contiene. Dado que la presión se transmite por igual a todos los puntos, el agua saldrá con la misma velocidad por todos los agujeros de la esfera:
 
 {{< youtube iPQ3WORwUYQ >}}
 
