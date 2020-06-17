@@ -39,6 +39,10 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 > Todo cambio de presión en un punto de un fluido incompresible encerrado en un recipiente de paredes indeformables se transmite con igual intensidad en todas las direcciones y en todos los puntos del fluido.
 
+El siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) muestra 
+
+{{< youtube iPQ3WORwUYQ >}}
+
 Las **aplicaciones** del principio de Pascal incluyen las jeringuillas o las prensas y elevadores hidráulicos.
 
 #### Elevador hidráulico
