@@ -162,6 +162,15 @@ E &= P_\text{fluido desalojado} \\\\
 
 {{< figure library="true" src="fluidos-4ESO/flotacion.png" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="true" >}}
 
+#### Flotación
+$$
+\begin{cases}
+	E<P_\text{cuerpo} & \text{se hunde} \\\\
+	E=P_\text{cuerpo} & \text{flota} \Rightarrow \dfrac{V_\text{sumergido}}{V_\text{cuerpo}} = \dfrac{d_\text{cuerpo}}{d_\text{fluido}} \\\\
+	E>P_\text{cuerpo} & \text{fuerza ascensional}
+\end{cases}
+$$
+
 ## Física de la atmósfera
 ### Presión atmosférica
 La **presión atmosférica** es el peso de la columna de aire que soporta un cuerpo por unidad de superficie.
