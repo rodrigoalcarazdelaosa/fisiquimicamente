@@ -127,6 +127,8 @@ $$
 h = \frac{p-p_0}{dg} = \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} = 90.8\thinspace\mathrm{m}
 $$
 
+
+
 {{% /alert %}}
 
 <iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
