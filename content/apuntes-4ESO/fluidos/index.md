@@ -98,7 +98,9 @@ La **presión atmosférica** es el peso de la columna de aire que soporta un cue
 ### Experimento de Torricelli
 Gracias al **experimento de Torricelli** se midió por primera vez la presión atmosférica y se produjo el primer vacío de la historia.
 
-Al poner un tubo de \SI{100}{cm} de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a $\approx\SI{76}{cm}$, creándose un vacío en los $\approx\SI{24}{cm}$ restantes:
+{{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" title="Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a aproximadamente 76 cm, creándose un vacío en los 24 cm restantes. Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/53700/53703/53703_torricellian.htm)." lightbox="true" >}}
+
+
 \begin{align*}	  			
 p_\text{atm} &= d_\text{Hg}\cdot g\cdot h \\\\ 
 & = \SI{13534}{kg/m^3}\cdot \SI{9.8}{N/kg}\cdot \SI{0.76}{m} \\\\
