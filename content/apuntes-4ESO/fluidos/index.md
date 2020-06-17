@@ -171,6 +171,11 @@ $$
 \end{cases}
 $$
 
+El peso aparente de un objeto puede calcularse como:
+$$
+P_\text{aparente} = P_\text{real} - E
+$$
+
 #### Ejemplo
 {{% alert example %}}
 <br>
