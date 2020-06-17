@@ -147,7 +147,7 @@ background-color: $primary_bg; }
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
 color: #fffff8;
-background-color: #555555; }
+background-color: $primary; }
 
 /*************************************************
  *  Article Alerts (Shortcode) and Asides (Mmark)
