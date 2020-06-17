@@ -160,6 +160,8 @@ E &= P_\text{fluido desalojado} \\\\
 &= d_\text{fluido}\cdot V_\text{sumergido}\cdot g
 \end{align*}
 
+{{< figure library="true" src="fluidos-4ESO/flotacion.png" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="true" >}}
+
 ## Física de la atmósfera
 ### Presión atmosférica
 La **presión atmosférica** es el peso de la columna de aire que soporta un cuerpo por unidad de superficie.
