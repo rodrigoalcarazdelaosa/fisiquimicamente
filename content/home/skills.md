@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "📚"
+  icon = "[📚](apuntes/)"
   icon_pack = "emoji"
   name = "[Apuntes de Física y Química](apuntes/)"
   description = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) <br> [1º Bach](apuntes/#primero-bach) | [2º Bach Física](apuntes/#segundo-bach-fisica) | [2º Bach Química](apuntes/#segundo-bach-quimica)"
