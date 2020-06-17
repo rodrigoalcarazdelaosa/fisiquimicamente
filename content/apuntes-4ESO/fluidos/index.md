@@ -195,9 +195,10 @@ d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \
 
 Despejamos el $V_\text{sumergido}$:
 
-$$
-V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} = \frac{4803\times 10^6\thinspace\mathrm{kg}}{1025\thinspace\mathrm{kg/m^3}} = 
-$$
+\begin{align*}
+V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4803\times 10^6\thinspace\mathrm{\cancel{kg}}}{1025\thinspace\mathrm{\cancel{kg}/m^3}} \\\\
+ &= 4685.85\thinspace\mathrm{m^3}
+\end{align*}
 
 {{% /alert %}}
 
