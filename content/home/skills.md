@@ -27,19 +27,19 @@ subtitle = ""
   description = "☢️ [Física](recursos-ebau/#examenes-fisica) | ⚗️ [Química](recursos-ebau/#examenes-quimica) <br> 💡[Consejos](recursos-ebau/#consejos)"
   
 [[feature]]
-  icon = "👐"
+  icon = "[👐](tutoriales/)"
   icon_pack = "emoji"
   name = "[Tutoriales](tutoriales/)"
   description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
   
 [[feature]]
-  icon = "🔗"
+  icon = "[🔗](enlaces-interes/)"
   icon_pack = "emoji"
   name = "[Enlaces de interés](enlaces-interes/)"
   description = "[Recursos online](enlaces-interes/#recursos-online) | [Páginas amigas](enlaces-interes/#paginas-amigas)"
   
 [[feature]]
-  icon = "🗞️"
+  icon = "[🗞️](#novedades)"
   icon_pack = "emoji"
   name = "[Novedades](#novedades)"
   description = "🐦 [Twitter](#novedades) | 💬 [Blog](/post)"
