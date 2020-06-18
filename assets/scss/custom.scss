@@ -144,13 +144,12 @@ border-top: 2px solid $primary; }
 /* Table Striped */
 table > tbody > tr:nth-child(odd) > td,
 table > tbody > tr:nth-child(odd) > th {
-color: #000000;
 background-color: $primary_bg; }
 
 /* Table Hover */
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-color: #ffffff;
+color: #fffff8;
 background-color: $primary; }
 
 /*************************************************
