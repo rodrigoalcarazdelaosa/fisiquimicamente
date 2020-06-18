@@ -170,7 +170,7 @@ div.alert-warning > div:first-child::before {
 }
 
 .alert-warning {
-color: #111111;
+color: #000000;
 background-color: $primary_complementary_bg;
 border-color: $primary_complementary; }
 
@@ -182,7 +182,7 @@ div.alert-example > div:first-child::before {
 }
 
 .alert-example {
-  color: #111111;
+  color: #000000;
   background-color: $example_bg;
   border-color: $example_fg;
 }
