@@ -47,8 +47,8 @@ pre {
 font-size: 0.875rem; }
 
 hr {
-background: #555555;
-background-image: linear-gradient(to right, #dddddd, #555555, #dddddd); }  
+background: $primary;
+background-image: linear-gradient(to right, $primary_bg, $primary, $primary_bg); }  
 
 /* Quotes */
 blockquote {
