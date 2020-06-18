@@ -696,21 +696,21 @@ applause-button {
   }
 }
 
-/*************************************************
-*  littlefoot
-**************************************************/
-
-.littlefoot-footnote__host aside p,
-div.alert > div {
-  all: initial; }
-
-.littlefoot-footnote__host div > * {
-  all: initial;
-  /* Use smaller paragraph spacing than usual. */ }
-
-.littlefoot-footnote__host div > :last-child {
-  all: initial; }
-
-.littlefoot-footnote__host aside p::before,
-.littlefoot-footnote__host > div:first-child::before {
-  all: initial; }
+///*************************************************
+//*  littlefoot
+//**************************************************/
+//
+//.littlefoot-footnote__host aside p,
+//div.alert > div {
+//  all: initial; }
+//
+//.littlefoot-footnote__host div > * {
+//  all: initial;
+//  /* Use smaller paragraph spacing than usual. */ }
+//
+//.littlefoot-footnote__host div > :last-child {
+//  all: initial; }
+//
+//.littlefoot-footnote__host aside p::before,
+//.littlefoot-footnote__host > div:first-child::before {
+//  all: initial; }
