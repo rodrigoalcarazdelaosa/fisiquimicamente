@@ -700,7 +700,8 @@ applause-button {
 *  littlefoot
 **************************************************/
 
-.littlefoot-footnote__host aside {
+.littlefoot-footnote__host aside p,
+div.alert > div {
   all: initial; }
 
 div.alert div > * {
