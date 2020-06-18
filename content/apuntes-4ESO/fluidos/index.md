@@ -32,7 +32,7 @@ p = \frac{F}{A}
 $$
 
 ### Unidades
-En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pascal** ($1\thinspace\mathrm{Pa} = 1\thinspace\mathrm{N/m^2}$). La siguiente tabla[ muestra otras unidades de presión y su equivalencia entre ellas:
+En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pascal** ($1\thinspace\mathrm{Pa} = 1\thinspace\mathrm{N/m^2}$). La siguiente tabla muestra otras unidades de presión y su equivalencia entre ellas:
 
 [https://en.wikipedia.org/wiki/Template:Pressure_Units](https://en.wikipedia.org/wiki/Template:Pressure_Units)
 
