@@ -695,3 +695,479 @@ applause-button {
     transform: translateY(0);
   }
 }
+
+/*************************************************
+*  littlefoot
+**************************************************/
+
+/*************************************************
+*  Variables
+**************************************************/
+
+// These are the key variables for styling the popover.
+// Just set the variable to none if you don't want that styling.
+
+// KEY VARIABLES
+
+// STYLES
+$popover-width: 22em !default; // Ideal width of the popover
+$popover-max-width: 90% !default; // Best as a % to accommodate smaller viewports
+$popover-max-height: 15em !default; // Maximum size of the content area
+$popover-color-background: rgb(250, 250, 250) !default;
+$popover-border-radius: 0.5em !default; // Radius of the corners of the popover
+$popover-border: 1px solid rgb(195, 195, 195) !default; // Border of the popover/ tooltip
+$popover-inactive-opacity: 0 !default; // Opacity of the popover when instantiated/ deactivating
+$popover-active-opacity: 0.97 !default; // Opacity of the popover when active
+$popover-box-shadow: 0 0 8px rgba(0, 0, 0, 0.3) !default; // Sets the box shadow under the popover/ tooltip
+$popover-tooltip-size: 1.3em !default; // Sets the side lengths of the tooltip
+$popover-scroll-indicator-width: 0.625em !default; // The width of the scroll indicator
+$popover-scroll-indicator-aspect-ratio: (
+  15 / 12
+) !default; // The ratio of the height over the width of the scroll indicator
+$popover-scroll-indicator-opacity: 0.1 !default; // The active opacity of scroll indicators
+$popover-initial-transform-state: scale(0.1) translateZ(0) !default; // The inital transform state for the popover
+$popover-active-transform-state: scale(1) translateZ(0) !default; // The transform state for the popover once it is fully activated
+
+// OPTIONAL ELEMENTS
+$popover-scroll-indicator-icon: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTJweCIgaGVpZ2h0PSIxNXB4IiB2aWV3Qm94PSIwIDAgMTIgMTUiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pbllNaW4iPgogICAgPGcgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IkFycm93IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjAwMDAwMCwgMS4wMDAwMDApIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiPgogICAgICAgICAgICA8cGF0aCBkPSJNNSwwIEw1LDExLjUiIGlkPSJMaW5lIj48L3BhdGg+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLjUsNy41IEw1LjAyNzY5Mjc5LDEyLjAyNzY5MjgiIGlkPSJMaW5lIj48L3BhdGg+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik00LjUsNy41IEw5LjAyNzY5Mjc5LDEyLjAyNzY5MjgiIGlkPSJMaW5lLTIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDcuMDAwMDAwLCAxMC4wMDAwMDApIHNjYWxlKC0xLCAxKSB0cmFuc2xhdGUoLTcuMDAwMDAwLCAtMTAuMDAwMDAwKSAiPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPgo=') !default;
+
+// OTHER VARIABLES
+
+// POPOVER
+$popover-margin-top: 0.1em !default;
+$popover-padding-content-horizontal: 1.4em !default;
+$popover-padding-content-top: 0.6em !default;
+$popover-padding-content-bottom: 0.6em !default;
+$popover-z-index: 10 !default; // Set the base so that it's above the other body children
+$popover-initial-transform-origin: 50% 0 !default;
+
+// POPOVER CONTENT WRAPPER
+$popover-content-color-background: $popover-color-background !default;
+$popover-content-border-radius: $popover-border-radius !default;
+
+// OTHER POPOVER ELEMENTS
+$popover-tooltip-background: $popover-color-background !default;
+$popover-tooltip-radius: 0 !default;
+$popover-scroll-indicator-bottom-position: 0.45em !default;
+$popover-scrolly-fade-gradient-start-location: 50% !default;
+$popover-scroll-indicator-padding: (
+  ($popover-padding-content-horizontal / 2) -
+    ($popover-scroll-indicator-width / 2)
+) !default;
+
+// POPOVER-AT-BOTTOM STYLING
+$popover-bottom-breakpoint: 720px !default; // The window width below which popovers will start displaying at the bottom. Set to "false" to display normal popovers for all window sizes.
+
+// TRANSITIONS
+$popover-transition-default-duration: 0.25s !default;
+$popover-scroll-indicator-transition-properties: opacity !default;
+
+// Use none for areas you don't want to transition
+$popover-transition-properties: opacity, transform !default; // no mixin to do proper prefixing of the transform, so I have to do it manually; see mixin below
+$popover-scroll-indicator-transition-properties: opacity !default;
+$popover-scroll-up-transition-delay: 0.4s !default; // Sets the delay for the transition of the scroll indicator when scrolling upwards
+$popover-transition-default-timing-function: ease !default;
+
+// These are the key variables for styling the button.
+// Just set the variable to none if you don't want that styling.
+
+// KEY VARIABLES
+// =============================================================================
+
+$button-height: 1em !default; // The total height of the button
+$button-dot-size: 0.3em !default; // Total height/width of the ellipsis circles
+$button-border-radius: $button-height / 2 !default; // Border radius on the button itself
+$button-left-margin: 0.2em !default; // Margin between the button and the text to its left
+$button-right-margin: 0.1em !default; // Margin between the button and the text to its right
+$button-vertical-offset: -0.1em !default; // Pushes the buttons along the vertical axis to align it with text as desired
+
+$button-color: rgb(110, 110, 110) !default; // Background color of the button
+$button-hovered-color: $button-color !default; // Background color of the button when being hovered
+$button-activating-color: $button-color !default; // Background color of the button when being clicked
+$button-active-color: $button-color !default; // Background color of the button when active
+$button-standard-opacity: 0.2 !default; // Opacity for when the button is just sittin' there
+$button-hovered-opacity: 0.5 !default; // Opacity for when the button is being hovered over
+$button-activating-opacity: $button-hovered-opacity !default; // Opacity for when the button is being clicked
+$button-active-opacity: 1 !default; // Opacity for when the button is active
+$button-active-style-delay: 0.1s !default; // Delay before applying .active styles; this can be used to match to the popover activation transition
+
+// OTHER VARIABLES
+
+$button-horizontal-padding: 0.5em !default;
+$button-vertical-padding: 0.5 * ($button-height - $button-dot-size) !default;
+$button-transition-properties: background-color color !default;
+
+
+/*************************************************
+*  Button
+**************************************************/
+
+// The button that activates the footnote. By default, this will appear as a
+// flat button that has an ellipse contained inside of it.
+//
+// @state .is-active - The associated popover has been activated and is visible.
+
+.littlefoot-footnote__button {
+  -webkit-font-smoothing: antialiased;
+  backface-visibility: hidden;
+  background-color: rgba($button-color, $button-standard-opacity);
+  border-radius: $button-border-radius;
+  border: 0;
+  box-sizing: border-box;
+  color: rgba($button-color, 0.5);
+  cursor: pointer;
+  display: inline-block;
+  font-size: $button-height * 0.9;
+  font-weight: bold;
+  height: $button-height;
+  line-height: 1;
+  margin: 0 $button-right-margin 0 $button-left-margin;
+  min-width: 1.5em;
+  padding: 0 $button-horizontal-padding;
+  position: relative;
+  text-decoration: none;
+  top: $button-vertical-offset;
+  transition-duration: $popover-transition-default-duration;
+  transition-property: $button-transition-properties;
+  transition-timing-function: $popover-transition-default-timing-function;
+  vertical-align: middle;
+  z-index: 5;
+
+  &:hover,
+  &:focus {
+    background-color: rgba($button-hovered-color, $button-hovered-opacity);
+    color: white;
+  }
+
+  &:active {
+    background-color: rgba(
+      $button-activating-color,
+      $button-activating-opacity
+    );
+    color: white;
+  }
+
+  &.is-active {
+    background-color: rgba($button-active-color, $button-active-opacity);
+    color: white;
+    transition-delay: $button-active-style-delay;
+  }
+
+  // Clearfix
+  &::after {
+    clear: both;
+    content: '';
+    display: table;
+  }
+}
+
+.littlefoot-footnote__button__ellipsis {
+  padding: $button-vertical-padding $button-horizontal-padding;
+
+  svg {
+    float: left;
+    height: $button-dot-size;
+  }
+}
+
+.littlefoot-footnote__button__number {
+  &::after {
+    color: rgba($button-color, 0.5);
+    content: attr(data-footnote-number);
+    display: block;
+    font-size: $button-height * 0.9;
+    font-weight: bold;
+    left: 50%;
+    padding: $button-vertical-padding $button-horizontal-padding;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    transition-duration: $popover-transition-default-duration;
+    transition-property: $button-transition-properties;
+    transition-timing-function: $popover-transition-default-timing-function;
+  }
+
+  &:hover,
+  &.is-active {
+    &::after {
+      color: white;
+    }
+  }
+
+  svg {
+    display: none;
+  }
+}
+
+// The container for the button and popover. This is required so that the
+// popover is guaranteed to be relatively-positioned, and to help with the
+// positioning calculation.
+
+.littlefoot-footnote__host {
+  display: inline-block;
+  position: relative;
+  text-indent: 0;
+}
+
+@media not print {
+  .footnote-print-only {
+    display: none !important;
+  }
+}
+
+@media print {
+  .littlefoot-footnote,
+  .littlefoot-footnote__button {
+    display: none !important;
+  }
+}
+
+/*************************************************
+*  Content
+**************************************************/
+
+// The popover for the footnote. This popover will be, by default, be sized and positioned
+// by the script. However, many of the sizes can be established in this stylesheet and
+// will be respected by the script. `max-width` will limit the width of the popover
+// relative to the viewport. `width` (on `littlefoot-footnote__wrapper`) will set the
+// absolute max width. Max height can be set via a `max-height` property
+// on `littlefoot-footnote__content`.
+//
+// By default, the popover has a light gray background, a shadow for some depth,
+// rounded corners, and a tooltip pointing to the footnote button.
+//
+// @state .is-active            - The popover has been activated and is visible.
+// @state .is-scrollable        - The popover content is greater than the popover height.
+// @state .is-fully-scrolled    - The popover content is scrolled to the bottom.
+// @state .is-positioned-top    - The popover is above the button.
+// @state .is-positioned-bottom - The popover is below the button.
+
+.littlefoot-footnote {
+  background: $popover-color-background;
+  border-radius: $popover-border-radius;
+  border: $popover-border;
+  box-shadow: $popover-box-shadow;
+  box-sizing: border-box;
+  display: inline-block;
+  left: 0;
+  line-height: 0;
+  margin: (
+      (1.4142135624 * $popover-tooltip-size / 2) + $button-height +
+        $popover-margin-top
+    )
+    0;
+  max-width: $popover-max-width;
+  opacity: $popover-inactive-opacity;
+  position: absolute;
+  top: 0;
+  transform-origin: $popover-initial-transform-origin;
+  transform: $popover-initial-transform-state;
+  transition-duration: $popover-transition-default-duration;
+  transition-property: $popover-transition-properties;
+  transition-timing-function: $popover-transition-default-timing-function;
+  z-index: $popover-z-index;
+
+  &.is-positioned-top {
+    bottom: 0;
+    top: auto;
+  }
+
+  &.is-active {
+    opacity: $popover-active-opacity;
+    transform: $popover-active-transform-state;
+  }
+
+  &.is-scrollable {
+    // A scrollable indicator in the left margin of the popover.
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: $popover-scroll-indicator-padding;
+      left: $popover-scroll-indicator-padding;
+      z-index: ($popover-z-index + 4);
+      display: block;
+      height: (
+        $popover-scroll-indicator-width * $popover-scroll-indicator-aspect-ratio
+      );
+      width: $popover-scroll-indicator-width;
+      background-image: $popover-scroll-indicator-icon;
+      background-size: cover;
+      opacity: $popover-scroll-indicator-opacity;
+      transition-property: $popover-scroll-indicator-transition-properties;
+      transition-duration: $popover-transition-default-duration;
+      transition-timing-function: $popover-transition-default-timing-function;
+    }
+
+    .littlefoot-footnote__wrapper {
+      &::before,
+      &::after {
+        content: '';
+        left: 0;
+        position: absolute;
+        width: 100%;
+        z-index: ($popover-z-index + 2); // Above the content
+      }
+
+      &::before {
+        background-image: linear-gradient(
+          to bottom,
+          $popover-color-background
+            $popover-scrolly-fade-gradient-start-location,
+          transparentize($popover-color-background, 1) 100%
+        );
+        border-radius: $popover-border-radius $popover-border-radius 0 0;
+        height: $popover-padding-content-top;
+        top: -1px;
+      }
+
+      &::after {
+        background-image: linear-gradient(
+          to top,
+          $popover-color-background
+            $popover-scrolly-fade-gradient-start-location,
+          transparentize($popover-color-background, 1) 100%
+        );
+        border-radius: 0 0 $popover-border-radius $popover-border-radius;
+        bottom: -1px;
+        height: $popover-padding-content-bottom;
+      }
+    }
+
+    ::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  &.is-fully-scrolled {
+    &::after,
+    &::before {
+      opacity: 0;
+      transition-delay: 0;
+    }
+  }
+
+  @if $popover-bottom-breakpoint {
+    @media (max-width: $popover-bottom-breakpoint) {
+      border-radius: 0;
+      border-width: 1px 0 0;
+      bottom: 0;
+      left: 0 !important;
+      margin: 0;
+      opacity: 1;
+      position: fixed;
+      right: auto;
+      top: auto;
+      transform: translateY(100%);
+      transition: transform 0.3s ease;
+      width: 100%;
+
+      &.is-active {
+        transform: translateY(0);
+      }
+
+      .littlefoot-footnote__wrapper {
+        margin: 0;
+        max-width: 100% !important;
+        transform: none;
+        width: 100%;
+      }
+
+      .littlefoot-footnote__wrapper,
+      .littlefoot-footnote__content {
+        border-radius: 0;
+      }
+
+      .littlefoot-footnote__tooltip {
+        display: none;
+      }
+    }
+  }
+}
+
+// Wraps around the footnote content. This is necessary in order to have an element
+// above the tooltip and that can provide top and bottom indicators that there is
+// additional content on scrollable popovers.
+
+.littlefoot-footnote__wrapper {
+  background-color: $popover-color-background;
+  border-radius: $popover-border-radius;
+  box-sizing: inherit;
+  display: inline-block;
+  line-height: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  width: $popover-width;
+  z-index: (
+    $popover-z-index + 4
+  ); // Above the outer tooltip, below the inner tooltip
+}
+
+// Contains the actual footnote content. There is very little prescription here
+// on the footnote content itself, except for removing and top margin on the first
+// element and bottom margin on the last child.
+
+.littlefoot-footnote__content {
+  -webkit-font-smoothing: subpixel-antialiased;
+  -webkit-overflow-scrolling: touch;
+  background: $popover-content-color-background;
+  border-radius: $popover-content-border-radius;
+  box-sizing: inherit;
+  display: inline-block;
+  line-height: normal;
+  font-size: initial;
+  font-style: initial;
+  font-weight: initial;
+  max-height: $popover-max-height;
+  overflow: auto;
+  padding: $popover-padding-content-top $popover-padding-content-horizontal
+    $popover-padding-content-bottom;
+  position: relative;
+  z-index: ($popover-z-index - 2); // Below fading bars
+
+  img {
+    max-width: 100%;
+  }
+
+  *:first-child {
+    margin-top: 0;
+  }
+
+  *:last-child {
+    margin-bottom: 0;
+  }
+
+  .is-scrollable & {
+    padding-bottom: 0;
+
+    *:last-child {
+      margin-bottom: $popover-padding-content-bottom;
+    }
+  }
+}
+
+// A triangular shape pointing towards the footnote button.
+
+.littlefoot-footnote__tooltip {
+  background: $popover-tooltip-background;
+  border-top-left-radius: $popover-tooltip-radius;
+  border: $popover-border;
+  box-shadow: $popover-box-shadow;
+  box-sizing: border-box;
+  height: $popover-tooltip-size;
+  margin-left: (-0.5 * $popover-tooltip-size);
+  position: absolute;
+  transform: rotate(45deg);
+  width: $popover-tooltip-size; // Smaller by one border-width's worth
+  z-index: (
+    $popover-z-index + 2
+  ); // Above the footnote-main-wrapper and the outer tooltip
+
+  .is-positioned-bottom & {
+    top: (-0.5 * $popover-tooltip-size);
+  }
+
+  .is-positioned-top & {
+    bottom: (-0.5 * $popover-tooltip-size);
+  }
+}
