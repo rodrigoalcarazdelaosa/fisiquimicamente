@@ -53,7 +53,7 @@ background-image: linear-gradient(to right, $primary_bg, $primary, $primary_bg);
 /* Quotes */
 blockquote {
   color: #555555;
-  border-left: .25rem solid #555555; }  
+  border-left: .25rem solid $primary; }  
   
 .markup-quote {
 color: #000000;
