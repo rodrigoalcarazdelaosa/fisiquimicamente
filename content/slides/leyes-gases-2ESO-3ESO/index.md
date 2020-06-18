@@ -192,6 +192,6 @@ $$
 
 ---
 
-<iframe src="https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}

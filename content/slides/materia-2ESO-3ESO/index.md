@@ -243,7 +243,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ---
 
-<iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
 
@@ -323,7 +323,7 @@ Puedes aprender más con esta **simulación**, donde se expresa la concentració
 
 ---
 
-<iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 ---
 

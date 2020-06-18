@@ -200,4 +200,4 @@ siendo el **módulo** $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = 26.3
 
 Si te apetece, puedes *jugar* con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>

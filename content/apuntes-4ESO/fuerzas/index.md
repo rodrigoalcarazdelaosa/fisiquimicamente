@@ -51,7 +51,7 @@ $$
 
 Puedes prácticar a sumar vectores con la siguiente **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Leyes de Newton
 
@@ -98,7 +98,7 @@ donde $\mu$ es el coeficiente de rozamiento.
 
 Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/friction/latest/friction_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/friction/latest/friction_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 ### Centrípeta $\vec f_\mathrm c$
 Se llama **fuerza centrípeta** a la fuerza o a la componente de la fuerza que actúa sobre un objeto en movimiento sobre una trayectoria curvilínea y que está dirigida hacia el centro de curvatura de la trayectoria. Su módulo se calcula a partir de la **aceleración centrípeta**, haciendo uso de la **2ª ley de Newton**:
@@ -161,4 +161,4 @@ $$
 
 Puedes seguir aprendiendo más cosas sobre la **relación** entre las **fuerzas** y el **movimiento** con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>

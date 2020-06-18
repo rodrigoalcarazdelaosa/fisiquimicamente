@@ -185,7 +185,7 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 
 Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 ---
 
@@ -269,7 +269,7 @@ La masa atómica que encontramos en las tablas periódicas es la media **pondera
 
 ---
 
-<iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
 
@@ -279,6 +279,6 @@ La masa atómica que encontramos en las tablas periódicas es la media **pondera
 
 ## Constructor de átomos
 
-<iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
