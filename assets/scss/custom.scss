@@ -715,41 +715,41 @@ applause-button {
 //.littlefoot-footnote__host > div:first-child::before {
 //  all: initial; }
 
-/////*************************************************
-////*  Footnotes
-////**************************************************/
-//.bottom-panel {
-//  position: fixed;
-//  font-size: 0.9rem;
-//  bottom: 0;
-//  left: 0;
-//  right: 0;
-//}
-//
-//.popup-wrapper {
-//  display: none;
-//  max-width: 560px;
-//  margin: 0 auto;
-//  background-color: white;
-//  border-top: 3px solid black;
-//}
-//
-//#popup-index {
-//  padding: 1.25rem 0 0 1.25rem;
-//}
-//
-//#popup-close {
-//  padding: 1.25rem;
-//  margin-left: auto;
-//  cursor: pointer;
-//}
-//
-//#popup-close:hover {
-//  background-color: #fdfdfd;
-//}
-//
-//#popup-content {
-//  max-width: 500px;
-//  text-align: left;
-//  padding: 1.25rem 0 1.25rem 0.9rem;
-//}
+///*************************************************
+//*  Footnotes
+//**************************************************/
+.bottom-panel {
+  position: fixed;
+  font-size: 0.9rem;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.popup-wrapper {
+  display: none;
+  max-width: 560px;
+  margin: 0 auto;
+  background-color: white;
+  border-top: 3px solid black;
+}
+
+#popup-index {
+  padding: 1.25rem 0 0 1.25rem;
+}
+
+#popup-close {
+  padding: 1.25rem;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+#popup-close:hover {
+  background-color: #fdfdfd;
+}
+
+#popup-content {
+  max-width: 500px;
+  text-align: left;
+  padding: 1.25rem 0 1.25rem 0.9rem;
+}
