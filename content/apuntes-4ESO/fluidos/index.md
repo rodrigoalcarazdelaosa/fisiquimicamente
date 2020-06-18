@@ -155,7 +155,7 @@ Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la p
 #### Simulación
 Puedes explorar con más detalle la **relación** entre la **presión**, la **densidad** y la **profundidad** con la siguiente **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 En este cortometraje-documental del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) "*se somete a diversas revisiones el controvertido experimento conocido como tonel de Pascal*", ideado por el propio Pascal para demostrar de forma definitiva el principio que lleva su nombre:
 
