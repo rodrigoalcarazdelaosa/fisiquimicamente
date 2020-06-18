@@ -48,7 +48,11 @@ font-size: 0.875rem; }
 
 hr {
 background: $primary;
-background-image: linear-gradient(to right, $primary_bg, $primary, $primary_bg); }  
+background-image: linear-gradient(to right, $primary_bg, $primary, $primary_bg); }
+
+.alert-example hr {
+background: $example_fg;
+background-image: linear-gradient(to right, $example_bg, $example_fg, $example_bg); }
 
 /* Quotes */
 blockquote {
