@@ -63,8 +63,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
-	[markup.goldmark.parser]
-	  autoHeadingIDType = "blackfriday"
     [markup.goldmark.renderer]
       unsafe = true  # Enable user to embed HTML snippets in Markdown content.
   [markup.highlight]
