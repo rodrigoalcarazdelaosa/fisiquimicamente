@@ -21,6 +21,8 @@ links:
   icon: download
   name: Póster
   url: fluidos-poster.pdf
+  
+slides: fluidos-4ESO  
 ---
 
 {{% toc %}}
