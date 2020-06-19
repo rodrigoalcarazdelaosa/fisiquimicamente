@@ -46,9 +46,11 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 {{% section %}}
 
-## Propiedades específicas: [densidad](#/2/1)
+## Principios de la hidrostática
 
-Las **propiedades específicas** o **características** de la materia son aquellas que nos permiten distinguir una sustancia de otra.
+- Principio de Pascal
+- Principio fundamental de la hidrostática
+- Principio de Arquímedes
 
 (continúa hacia abajo)
 
