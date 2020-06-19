@@ -44,7 +44,7 @@ a.footnote-ref:hover {
     position: relative;
     top: -0.2em;
     font-weight: bold;
-    color: #000000;
+    color: #111111;
     background-color: $primary_bg;
     font-size: 0.8em;
     border-radius: 0.4em;
@@ -54,7 +54,7 @@ a.footnote-ref:hover {
 
 .footnotes a.footnote-backref:hover {
     border: none;
-    color: #ffffff;
+    color: #fffff8;
     background-color: $primary;
 	text-decoration: none;
     transition: none;	
