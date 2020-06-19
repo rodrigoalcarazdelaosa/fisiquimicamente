@@ -81,4 +81,13 @@ $$
 <q>¿Qué radio deberá tener el soporte circular sobre el que está *aparcado* un coche de masa $m = 1500\thinspace\mathrm{kg}$ si queremos levantarlo apretando uno de los pistones (también circular) de un elevador hidráulico con nuestra mano? <br>
 (Suponer que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$).</q>
 
+---
+
+La fuerza que debemos superar es el peso del coche:
+
+\begin{align*}
+F_2 = m\cdot g &= 1500\thinspace\mathrm{\cancel{kg}}\cdot 9.8\thinspace\mathrm{N/\cancel{kg}} \\\\
+&= 14700\thinspace\mathrm{N}
+\end{align*}
+
 {{% /section %}}
