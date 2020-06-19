@@ -311,7 +311,7 @@ En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke
 
 ---
 
-{{< figure library="true" src="fluidos-4ESO/hemisferios-Magdeburgo.jpg" lightbox="false" width="80%" >}}
+{{< figure library="true" src="fluidos-4ESO/hemisferios-Magdeburgo.jpg" lightbox="false" width="70%" >}}
 
 ---
 
