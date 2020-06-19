@@ -322,10 +322,10 @@ En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke
 {{< vimeo 67896094 >}}
 
 ---
-
-Finalmente, el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA0qIZsuzGl09cw) nos muestra un método alternativo que no requiere una bomba de vacío para eliminar el aire del interior de la esfera: 
-
+ 
 {{< youtube Q66DxZB6plE >}}
+
+---
 
 ### Fenómenos meteorológicos
 Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos metereológicos**.
