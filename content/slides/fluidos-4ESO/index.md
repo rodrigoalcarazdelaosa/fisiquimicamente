@@ -214,7 +214,7 @@ E &= P_\text{fluido desalojado} \\\\
 
 ---
 
-{{< figure library="true" src="fluidos-4ESO/flotacion.png" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="false" >}}
+{{< figure library="true" src="fluidos-4ESO/flotacion.png" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="false" width="50%" >}}
 
 ---
 
