@@ -79,9 +79,9 @@ color: $primary; }
 
 pre,
 code {
-  background: $primary_complementary_bg;
+  background: $primary_bg;
   border-radius: 0.5em;
-  border: 1px solid #bbb;
+  border: 1px solid $primary;
   overflow-x:auto;
   padding:0.2em 0.4em
 }   
