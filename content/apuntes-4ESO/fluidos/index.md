@@ -252,7 +252,7 @@ Finalmente, el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpC
 {{< youtube Q66DxZB6plE >}}
 
 ### Fenómenos meteorológicos
-Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos metereológicos**.
+Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos meteorológicos**.
 
 #### Viento
 Los **vientos** soplan desde regiones con mayor presión hacia aquellas en las que la presión es menor (normalmente debido a diferencias de temperaturas).
