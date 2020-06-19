@@ -110,4 +110,8 @@ r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\th
 &= 0.434\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
 \end{align*}
 
+---
+
+### Principio fundamental de la hidrostática
+
 {{% /section %}}
