@@ -144,7 +144,9 @@ que constituye la **ecuación fundamental de la hidrostática**.
 
 ---
 
-Lo primero que habría que decir es que ATM es el símbolo de la unidad de presión **atmósfera**, por lo que habría que escribirlo como atm. Esa etiqueta significa que 10 atm es la presión máxima que aguanta el reloj.
+Lo primero que habría que decir es que ATM es el símbolo de la unidad de presión **atmósfera**, por lo que habría que escribirlo como atm.
+
+Esa etiqueta significa que 10 atm es la presión máxima que aguanta el reloj.
 
 ---
 
