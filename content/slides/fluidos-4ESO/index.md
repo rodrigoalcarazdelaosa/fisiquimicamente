@@ -235,12 +235,9 @@ $$
 ---
 
 #### Ejemplo
-{{% alert example %}}
-<br>
+<q>El Pont Aven es el ferry que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar, ¿qué volumen del barco se encuentra sumergido?</q>
 
-> El Pont Aven es el ferry que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar ([https://es.wikipedia.org/wiki/Agua_de_mar](https://es.wikipedia.org/wiki/Agua_de_mar)), ¿qué volumen del barco se encuentra sumergido?
-
-{{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" title="[https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven](https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven)" lightbox="true" >}}
+{{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" lightbox="false" >}}
 
 ---
 
