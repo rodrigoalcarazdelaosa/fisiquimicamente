@@ -731,15 +731,15 @@ applause-button {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: $primary_bg;
+  background-color: $primary;
 }
 
 .popup-wrapper {
   display: none;
   max-width: 720px;
   margin: 0 auto;
-  background-color: $primary_bg;
-  color: #000000;
+  background-color: $primary;
+  color: #111111;
 //  border-top: 3px solid $primary;
 }
 
@@ -754,7 +754,7 @@ applause-button {
 }
 
 #popup-close:hover {
-  background-color: $primary_bg;
+  background-color: $primary;
 }
 
 #popup-content {
