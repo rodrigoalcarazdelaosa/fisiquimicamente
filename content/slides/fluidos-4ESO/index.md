@@ -293,13 +293,13 @@ Gracias al **experimento de Torricelli** se midió por primera vez la presión a
 
 ---
 
-{{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" width="70%" >}}
-
----
+{{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" width="60%" >}}
 
 $$
 p_\text{atm} = d_\text{Hg}\cdot g\cdot h = 13534\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} =  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
 $$
+
+---
 
 El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos muestra esta célebre experiencia en el siguiente vídeo:
 
