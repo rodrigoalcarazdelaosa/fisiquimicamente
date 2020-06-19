@@ -158,8 +158,8 @@ donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la pres
 
 Convertimos todo al SI:
 \begin{align*}
-10\thinspace\mathrm{\cancel{atm}}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 1013250\thinspace\mathrm{Pa} \\\\
-1\thinspace\mathrm{\cancel{atm}}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 101325\thinspace\mathrm{Pa}
+10\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 1013250\thinspace\mathrm{Pa} \\\\
+1\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 101325\thinspace\mathrm{Pa}
 \end{align*}
 
 ---
