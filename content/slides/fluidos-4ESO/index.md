@@ -126,6 +126,14 @@ $$
 p = \frac{F}{A} = \frac{m\cdot g}{A} = \frac{d\cdot V\cdot g}{A} = \frac{d\cdot A\cdot h\cdot g}{A} = d\cdot g \cdot h
 $$
 
+---
+
+En el caso de que la superficie esté sometida a una presión $p_0$ (presión atmosférica por ejemplo), la presión total a una profundidad $h$ será:
+$$
+p = p_0 + dgh,
+$$
+que constituye la **ecuación fundamental de la hidrostática**.
+
 {{% /section %}}
 
 ---
