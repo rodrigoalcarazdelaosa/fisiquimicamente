@@ -194,11 +194,6 @@ En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se dist
 
 ---
 
-#### Cortometraje-documental
-{{< youtube GuCGcOkoK5E >}}
-
----
-
 ### Principio de Arquímedes
 
 > Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado.
@@ -332,3 +327,8 @@ Un **anticiclón** es una zona atmosférica de **alta presión**, en la cual la 
 {{< figure library="true" src="fluidos-4ESO/borrasca-anticiclon.jpg" title="[https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html](https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html)" lightbox="true" >}}
 
 {{% /section %}}
+
+---
+
+## Cortometraje-documental
+{{< youtube GuCGcOkoK5E >}}
