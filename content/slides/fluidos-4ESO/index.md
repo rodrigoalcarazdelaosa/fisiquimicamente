@@ -272,9 +272,10 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
 
 ## Física de la atmósfera
 
-- [Principio de Pascal](#/2/1)
-- [Principio fundamental de la hidrostática](#/2/8)
-- [Principio de Arquímedes](#/2/1)
+- [Presión atmosférica](#/3/1)
+- [Experimento de Torricelli](#/3/8)
+- [Hemisferios de Magdeburgo](#/3/1)
+- [Fenómenos metereológicos](#/3/2)
 
 (continúa hacia abajo)
 
