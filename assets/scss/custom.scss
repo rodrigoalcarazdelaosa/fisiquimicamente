@@ -43,8 +43,8 @@ sup a:hover {
     position: relative;
     top: -0.2em;
     font-weight: bold;
-    color: #777;
-    background-color: #e3e3e3;
+    color: #000000;
+    background-color: $primary_bg;
     font-size: 0.8em;
     border-radius: 0.4em;
     padding: 0.2em 0.4em 0;
@@ -53,8 +53,9 @@ sup a:hover {
 
 .footnotes ol li p a:last-child:hover {
     border: none;
-    color: #fff;
-    background-color:#a41e22
+    color: #ffffff;
+    background-color: $primary;
+	text-decoration: none;
 }  
   
 p svg {
