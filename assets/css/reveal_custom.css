@@ -60,7 +60,7 @@ border-bottom: 2px solid #2a54a9; }
 /* Table Striped */
 .reveal table > tbody > tr:nth-child(odd) > td,
 .reveal table > tbody > tr:nth-child(odd) > th {
-background-color: #dddddd; }
+background-color: #BBCCEE; }
 
 /* Table Hover */
 .reveal table > tbody > tr:hover > td,
