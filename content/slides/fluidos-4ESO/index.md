@@ -36,18 +36,9 @@ $$
 ---
 
 ### Unidades
-En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pascal** ($1\thinspace\mathrm{Pa} = 1\thinspace\mathrm{N/m^2}$).
+En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pascal** ($1\thinspace\mathrm{Pa} = 1\thinspace\mathrm{N/m^2}$). La siguiente tabla[^1] muestra otras unidades de presión y su equivalencia entre ellas:
 
----
-
-[https://en.wikipedia.org/wiki/Template:Pressure_Units](https://en.wikipedia.org/wiki/Template:Pressure_Units).
-
-| | Pascal (Pa) | Atmósfera (atm) | Bar (bar) | Torr (Torr) |
-| :---: | :---: | :---: | :---: | :---: |
-| **1 Pa** | 1 | $9.8692\times 10^{-6}$ | $10^{-5}$ | $7.5006\times 10^{-3}$ |
-| **1 atm** | 101325 | 1 | 1.01325 | 760 |
-| **1 bar** | $10^5$ | 0.98692 | 1 | 750.06 |
-| **1 Torr** | 133.322368421 | 1/760 | 0.001333224 | 1 |
+[^1]: [https://en.wikipedia.org/wiki/Template:Pressure_Units](https://en.wikipedia.org/wiki/Template:Pressure_Units).
 
 ---
 
