@@ -51,7 +51,7 @@ a.footnote-backref {
     border:none
 }
 
-.footnotes ol li p a:last-child:hover {
+a.footnote-backref:hover {
     border: none;
     color: #ffffff;
     background-color: $primary;
