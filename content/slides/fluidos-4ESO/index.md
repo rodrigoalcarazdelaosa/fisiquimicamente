@@ -313,6 +313,8 @@ En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke
 
 {{< figure library="true" src="fluidos-4ESO/hemisferios-Magdeburgo.jpg" lightbox="false" >}}
 
+---
+
 En este vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ser testigo de *la verdadera lucha de los caballos contra la presión atmosférica*:
 
 {{< vimeo 33482842 >}}
