@@ -245,8 +245,10 @@ Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene 
 
 \begin{align*}
 E &= P_\text{barco} \\\\
-d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \cancel{g}
+d_\text{fluido}\cdot V_\text{sumergido}\cdot g &= m_\text{barco}\cdot g
 \end{align*}
+
+---
 
 Pasamos la masa del barco a kg:
 $$
