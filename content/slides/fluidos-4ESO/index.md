@@ -214,7 +214,7 @@ E &= P_\text{fluido desalojado} \\\\
 
 ---
 
-{{< figure library="true" src="fluidos-4ESO/flotacion.png" lightbox="false" width="60%" >}}
+{{< figure library="true" src="fluidos-4ESO/flotacion.png" lightbox="false" width="55%" >}}
 
 ---
 
