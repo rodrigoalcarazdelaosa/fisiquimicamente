@@ -26,7 +26,7 @@ a.footnote-ref {
   top: 0;
   left: 0;
   font-weight: bold;
-  color: #000000;
+  color: #111111;
   background-color: $primary_bg;
   border-radius: 50%;
   padding:0.2em 0.5em 0.2em
@@ -34,7 +34,7 @@ a.footnote-ref {
 
 a.footnote-ref:hover {
   border: none;
-  color: #ffffff;
+  color: #fffff8;
   background-color: $primary;
   text-decoration: none;
   transition: none;
