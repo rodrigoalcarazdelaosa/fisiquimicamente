@@ -293,7 +293,7 @@ Gracias al **experimento de Torricelli** se midió por primera vez la presión a
 
 ---
 
-{{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" width="60%" >}}
+{{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" width="70%" >}}
 
 ---
 
