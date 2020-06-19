@@ -282,6 +282,8 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
 ### Presión atmosférica
 La **presión atmosférica** es el peso de la columna de aire que soporta un cuerpo por unidad de superficie.
 
+---
+
 ### Experimento de Torricelli
 Gracias al **experimento de Torricelli** se midió por primera vez la presión atmosférica y se produjo el primer vacío de la historia.
 
