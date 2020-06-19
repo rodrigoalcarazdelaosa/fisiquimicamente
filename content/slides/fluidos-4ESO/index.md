@@ -49,7 +49,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 ## Principios de la hidrostática
 
 - [Principio de Pascal](#/2/1)
-- [Principio fundamental de la hidrostática](#/2/8)
+- [Principio fundamental de la hidrostática](#/2/9)
 - [Principio de Arquímedes](#/2/21)
 
 (continúa hacia abajo)
