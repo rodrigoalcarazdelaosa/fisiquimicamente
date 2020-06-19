@@ -315,13 +315,13 @@ En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke
 
 ---
 
-En este vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ser testigo de *la verdadera lucha de los caballos contra la presión atmosférica*:
-
 {{< vimeo 33482842 >}}
 
-En este otro vídeo, también el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) reproduce otras extraordinarias demostraciones que el propio Otto Von Guericke recoge en su libro:
+---
 
 {{< vimeo 67896094 >}}
+
+---
 
 Finalmente, el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA0qIZsuzGl09cw) nos muestra un método alternativo que no requiere una bomba de vacío para eliminar el aire del interior de la esfera: 
 
