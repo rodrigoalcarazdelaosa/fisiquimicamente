@@ -12,13 +12,11 @@ slides:
 
 # Fluidos
 
-- [Propiedades generales](#/1)
-- [Propiedades específicas](#/2)
-- [Estados de agregación](#/3)
-- [Modelo cinético-molecular](#/4)
-- [Mezclas](#/5)
+- [Concepto de presión](#/1)
+- [Principios de la hidrostática](#/2)
+- [Física de la atmósfera](#/3)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](materia-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](fluidos-diapositivas.pdf)
 
 ---
 
