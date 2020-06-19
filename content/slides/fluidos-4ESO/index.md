@@ -197,6 +197,69 @@ En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se dist
 #### Cortometraje-documental
 {{< youtube GuCGcOkoK5E >}}
 
+---
+
+### Principio de Arquímedes
+
+> Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado:
+\begin{align*}					
+E &= P_\text{fluido desalojado} \\\\
+&= m_\text{fluido desalojado}\cdot g \\\\
+&= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\\\
+&= d_\text{fluido}\cdot V_\text{sumergido}\cdot g
+\end{align*}
+
+---
+
+{{< figure library="true" src="fluidos-4ESO/flotacion.png" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="false" >}}
+
+---
+
+#### Flotación
+$$
+\begin{cases}
+	E<P_\text{cuerpo} & \text{se hunde} \\\\
+	E=P_\text{cuerpo} & \text{flota} \Rightarrow \dfrac{V_\text{sumergido}}{V_\text{cuerpo}} = \dfrac{d_\text{cuerpo}}{d_\text{fluido}} \\\\
+	E>P_\text{cuerpo} & \text{fuerza ascensional}
+\end{cases}
+$$
+
+El peso aparente de un objeto puede calcularse como:
+$$
+P_\text{aparente} = P_\text{real} - E
+$$
+
+#### Ejemplo
+{{% alert example %}}
+<br>
+
+> El Pont Aven es el ferry que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar ([https://es.wikipedia.org/wiki/Agua_de_mar](https://es.wikipedia.org/wiki/Agua_de_mar)), ¿qué volumen del barco se encuentra sumergido?
+
+{{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" title="[https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven](https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven)" lightbox="true" >}}
+
+---
+
+Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene que ser cero, o lo que es lo mismo, el empuje ha de igualar al peso. Aplicando el **principio de Arquímedes**:
+
+\begin{align*}
+E &= P_\text{barco} \\\\
+d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \cancel{g}
+\end{align*}
+
+Pasamos la masa del barco a kg:
+$$
+4803\thinspace\mathrm{\cancel{t}}\cdot \frac{10^3\thinspace\mathrm{kg}}{1\thinspace\mathrm{\cancel{t}}} = 4.803\times 10^6\thinspace\mathrm{kg}
+$$
+
+Despejamos el $V_\text{sumergido}$:
+
+\begin{align*}
+V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{\cancel{kg}}}{1025\thinspace\mathrm{\cancel{kg}/m^3}} \\\\
+ &= 4685.85\thinspace\mathrm{m^3}
+\end{align*}
+
+{{% /alert %}}
+
 {{% /section %}}
 
 ---
