@@ -86,7 +86,7 @@ $$
 La fuerza que debemos superar es el peso del coche:
 
 \begin{align*}
-F_2 = m\cdot g &= 1500\thinspace\mathrm{\cancel{kg}}\cdot 9.8\thinspace\mathrm{N/\cancel{kg}} \\\\
+F_2 = m\cdot g &= 1500\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} \\\\
 &= 14700\thinspace\mathrm{N}
 \end{align*}
 
