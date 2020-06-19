@@ -40,24 +40,6 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 [https://en.wikipedia.org/wiki/Template:Pressure_Units](https://en.wikipedia.org/wiki/Template:Pressure_Units)
 
----
-
-La **masa** y el **volumen** son **propiedades generales** de la materia, lo que significa que no nos permiten distinguir una sustancia de otra.
-
----
-
-### Masa
-Es la **cantidad** de materia que tiene un objeto o sistema material.
-
-{{% fragment %}} En el SI se mide en kg. {{% /fragment %}}
-
----
-
-### Volumen
-Es el **espacio** que ocupa un objeto o sistema material.
-
-{{% fragment %}} En el SI se mide en $\mathrm{m^3}$, aunque también se puede medir en L ($1\thinspace\mathrm{m^3} = 10^3\thinspace\mathrm L$). {{% /fragment %}} 
-
 {{% /section %}}
 
 ---
