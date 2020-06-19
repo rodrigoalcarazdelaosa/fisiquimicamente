@@ -302,9 +302,9 @@ p_\text{atm} = d_\text{Hg}\cdot g\cdot h &= 13534\thinspace\mathrm{kg/m^3}\cdot 
 
 ---
 
-El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos muestra esta célebre experiencia en el siguiente vídeo:
-
 {{< vimeo 110619312 >}}
+
+---
 
 ### Hemisferios de Magdeburgo
 En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke**, diseñó un par de grandes hemisferios de cobre, que se ajustaban con un anillo de acoplamiento formando una esfera. Tras sellar los bordes con grasa y extraer el aire con una bomba de vacío que él mismo había inventado, sendos tiros de 8 caballos intentaron separar ambos hemisferios, sin éxito, demostrando así el poder de la presión atmosférica.
