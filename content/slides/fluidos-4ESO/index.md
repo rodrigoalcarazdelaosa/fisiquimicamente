@@ -139,7 +139,7 @@ que constituye la **ecuación fundamental de la hidrostática**.
 #### Ejemplo
 <q>Un reloj tiene una etiqueta que pone 10 ATM. ¿Hasta qué profundidad podremos sumergirlo en el mar?</q>
 
-{{< figure library="true" src="fluidos-4ESO/reloj.jpg" lightbox="false" width="50%" >}}
+{{< figure library="true" src="fluidos-4ESO/reloj.jpg" lightbox="false" width="40%" >}}
 
 {{% /section %}}
 
