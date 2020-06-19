@@ -181,7 +181,7 @@ La **paradoja hidrostática** consiste en que la presión que ejerce un fluido s
 
 ---
 
-#### Vasos comunicantes
+##### Vasos comunicantes
 
 En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se distribuye hasta alcanzar el mismo nivel. 
 
