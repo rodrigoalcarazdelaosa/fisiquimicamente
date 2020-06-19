@@ -260,7 +260,7 @@ $$
 Despejamos el $V_\text{sumergido}$:
 
 \begin{align*}
-V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{\cancel{kg}}}{1025\thinspace\mathrm{\cancel{kg}/m^3}} \\\\
+V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{kg}}{1025\thinspace\mathrm{kg/m^3}} \\\\
  &= 4685.85\thinspace\mathrm{m^3}
 \end{align*}
 
