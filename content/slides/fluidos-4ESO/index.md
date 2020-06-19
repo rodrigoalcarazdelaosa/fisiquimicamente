@@ -58,7 +58,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 ---
 
-### Densidad
+### Principio de Pascal
 La **densidad** $d$ de un objeto se define como la relación (cociente) entre su masa $m$ y su volumen $V$:		
 $$
 d = \frac{m}{V}
