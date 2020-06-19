@@ -252,8 +252,10 @@ d_\text{fluido}\cdot V_\text{sumergido}\cdot g &= m_\text{barco}\cdot g
 
 Pasamos la masa del barco a kg:
 $$
-4803\thinspace\mathrm{\cancel{t}}\cdot \frac{10^3\thinspace\mathrm{kg}}{1\thinspace\mathrm{\cancel{t}}} = 4.803\times 10^6\thinspace\mathrm{kg}
+4803\thinspace\mathrm{t}\cdot \frac{10^3\thinspace\mathrm{kg}}{1\thinspace\mathrm{t}} = 4.803\times 10^6\thinspace\mathrm{kg}
 $$
+
+---
 
 Despejamos el $V_\text{sumergido}$:
 
