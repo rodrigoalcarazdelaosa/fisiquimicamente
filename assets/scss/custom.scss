@@ -39,7 +39,7 @@ sup a:hover {
   text-decoration: none;
 }
 
-.footnotes ol li p a:last-child {
+a.footnote-backref {
     position: relative;
     top: -0.2em;
     font-weight: bold;
