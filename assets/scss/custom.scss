@@ -738,9 +738,9 @@ applause-button {
   display: none;
   max-width: 720px;
   margin: 0 auto;
-  background-color: #fffff8;
+  background-color: $primary_bg;
   color: #111111;
-  border-top: 3px solid $primary;
+//  border-top: 3px solid $primary;
 }
 
 #popup-index {
