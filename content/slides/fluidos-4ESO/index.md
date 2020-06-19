@@ -330,6 +330,8 @@ En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke
 ### Fenómenos meteorológicos
 Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos metereológicos**.
 
+---
+
 #### Viento
 Los **vientos** soplan desde regiones con mayor presión hacia aquellas en las que la presión es menor (normalmente debido a diferencias de temperaturas).
 
