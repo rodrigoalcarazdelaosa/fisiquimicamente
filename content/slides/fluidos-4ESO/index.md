@@ -134,6 +134,11 @@ p = p_0 + dgh,
 $$
 que constituye la **ecuación fundamental de la hidrostática**.
 
+---
+
+#### Ejemplo
+> Un reloj tiene una etiqueta que pone 10 ATM. ¿Hasta qué profundidad podremos sumergirlo en el mar?
+
 {{% /section %}}
 
 ---
