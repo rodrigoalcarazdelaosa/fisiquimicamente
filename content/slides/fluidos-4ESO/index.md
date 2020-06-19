@@ -293,6 +293,7 @@ Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cu
 
 {{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" >}}
 
+---
 
 $$
 p_\text{atm} = d_\text{Hg}\cdot g\cdot h = 13534\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} =  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
