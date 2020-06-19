@@ -232,6 +232,8 @@ $$
 P_\text{aparente} = P_\text{real} - E
 $$
 
+---
+
 #### Ejemplo
 {{% alert example %}}
 <br>
