@@ -177,7 +177,13 @@ Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la p
 
 #### Paradoja hidrostática. Vasos comunicantes
 
-{{< figure library="true" src="fluidos-4ESO/vasos-comunicantes.png" title="La **paradoja hidrostática** consiste en que la presión que ejerce un fluido sobre el fondo no depende de la forma (ni de la cantidad de fluido por tanto), sino del nivel (altura). En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se distribuye hasta alcanzar el mismo nivel. Adaptada de [https://commons.wikimedia.org/wiki/File:Communicating_vessels.svg](https://commons.wikimedia.org/wiki/File:Communicating_vessels.svg)." lightbox="false" >}}
+La **paradoja hidrostática** consiste en que la presión que ejerce un fluido sobre el fondo no depende de la forma (ni de la cantidad de fluido por tanto), sino del nivel (altura).
+
+---
+
+En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se distribuye hasta alcanzar el mismo nivel. 
+
+{{< figure library="true" src="fluidos-4ESO/vasos-comunicantes.png" title="Adaptada de [https://commons.wikimedia.org/wiki/File:Communicating_vessels.svg](https://commons.wikimedia.org/wiki/File:Communicating_vessels.svg)." lightbox="false" >}}
 
 ---
 
