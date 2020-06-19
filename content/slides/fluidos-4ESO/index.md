@@ -295,9 +295,10 @@ Gracias al **experimento de Torricelli** se midió por primera vez la presión a
 
 {{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" width="50%" >}}
 
-$$
-p_\text{atm} = d_\text{Hg}\cdot g\cdot h = 13534\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} =  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
-$$
+\begin{align*}
+p_\text{atm} = d_\text{Hg}\cdot g\cdot h &= 13534\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\\\
+&=  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
+\end{align*}
 
 ---
 
