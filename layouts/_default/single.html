@@ -7,7 +7,7 @@
   <div class="article-container">
 
     <div class="article-style">
-		{{ $reg := "([^ ]*<sup class=\"footnote-ref\".*</sup>)" }}
+		{{ $reg := "([^ ]*<a class=\"footnote-ref\".*</a>)" }}
 		{{ $replacement := "<span class=\"footnote\">$1</span>" }}
 
 		{{ .Content | replaceRE $reg $replacement | safeHTML  }}
