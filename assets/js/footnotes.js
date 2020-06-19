@@ -73,4 +73,4 @@ function footnotePopup(showIndex, showCloseBtn) {
     };
 };
 
-footnotePopup(true, true);
+footnotePopup(false, false);
