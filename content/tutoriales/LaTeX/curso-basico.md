@@ -75,7 +75,7 @@ Primer documento. Este es un ejemplo simple, sin incluir ningún parámetro (opc
 ```
 lo que $\LaTeX$ transforma en:
 
-{{< figure src="/tutoriales/latex/img/primer_documento.jpg" lightbox="true" >}}
+{{< figure src="primer_documento.jpg" lightbox="true" >}}
 
 ## El preámbulo de un documento
 En el anterior ejemplo hemos introducido texto directamente después del comando `\begin{document}`. El **preámbulo** es todo aquello que aparece _antes_ de ese comando. En el preámbulo se define el tipo de documento que estamos escribiendo, el idioma en el que lo escribimos, los paquetes que queremos usar y muchos otros elementos.
@@ -139,7 +139,7 @@ Para que esa información aparezca en el documento, tenemos que incluir el coman
 \end{document}
 ```
 
-{{< figure src="/tutoriales/latex/img/primer_documento_maketitle.jpg" lightbox="true" >}}
+{{< figure src="primer_documento_maketitle.jpg" lightbox="true" >}}
 
 ## Añadiendo comentarios
 Como siempre que se escribe código, es muy útil y recomendable incluir **comentarios**. Los comentarios son trozos de texto que se pueden incluir en el propio código pero que no se imprimen ni afectan al documento de ninguna forma. Son útiles para organizar el trabajo, tomar notas, explicar el código o depurarlo comentando ciertas líneas/secciones. Para hacer un comentario en $\LaTeX$, simplemente escribe el símbolo `%` al principio de la línea:
@@ -156,7 +156,7 @@ Como siempre que se escribe código, es muy útil y recomendable incluir **comen
 \end{document}
 ```
 
-{{< figure src="/tutoriales/latex/img/primer_documento_maketitle.jpg" lightbox="true" >}}
+{{< figure src="primer_documento_maketitle.jpg" lightbox="true" >}}
 
 ## Negrita, cursiva y subrayado
 Echemos un vistazo a algunos comandos simples para dar formato a nuestro texto:
@@ -171,7 +171,7 @@ A continuación se muestra un ejemplo de cada uno de estos comandos en acción:
 Algunos de los \textbf{mayores} descubrimientos de la \underline{ciencia} se hicieron por \textbf{\textit{accidente}}.
 ```
 
-{{< figure src="/tutoriales/latex/img/negrita_cursiva_subrayado.jpg" lightbox="true" >}}
+{{< figure src="negrita_cursiva_subrayado.jpg" lightbox="true" >}}
 
 Otro comando muy útil es `\emph{...}`. Lo que el comando `\emph` hace realmente con su argumento depende del contexto[^4] &mdash;dentro del texto normal el texto enfatizado está en cursiva, pero este comportamiento se invierte si se usa dentro de un texto en cursiva&mdash;, como se muestra en el siguiente ejemplo:
 
@@ -185,7 +185,7 @@ Algunos de los mayores \emph{descubrimientos} de la ciencia se hicieron por acci
 \textbf{Algunos de los mayores \emph{descubrimientos} de la ciencia se hicieron por accidente.}
 ```
 
-{{< figure src="/tutoriales/latex/img/negrita_cursiva_subrayado_emph.jpg" lightbox="true" >}}
+{{< figure src="negrita_cursiva_subrayado_emph.jpg" lightbox="true" >}}
 
 ## Añadiendo imágenes
 $\LaTeX$ no puede manejar imágenes por sí solo, por lo que necesitamos un _paquete_. Los paquetes se pueden utilizar para cambiar la apariencia por defecto de nuestro documento, o para añadir funcionalidades. En este caso, para añadir imágenes utilizamos el paquete [graphicx](https://ctan.org/pkg/graphicx), que nos proporciona, entre otros, el comando `\includegraphics{...}`[^5].
@@ -225,7 +225,7 @@ La figura \ref{fig:leon_CTAN} muestra el león que dibujó Duane Bibby para las 
 \end{document}
 ```
 
-{{< figure src="/tutoriales/latex/img/ejemplo_imagen.jpg" lightbox="true" >}}
+{{< figure src="ejemplo_imagen.jpg" lightbox="true" >}}
 
 ## Creando listas en $\LaTeX$
 Es muy fácil crear listas con $\LaTeX$. Tenemos tres *entornos* principales para ello. Los entornos son secciones de nuestro documento que queremos presentar de una manera diferente al resto del documento. Siempre empiezan con el comando `\begin{...}` y terminan con un `\end{...}`[^7].
@@ -245,7 +245,7 @@ Las listas no ordenadas, también conocidas como *viñetas*, se crean con el ent
 \end{itemize}
 ```
 
-{{< figure src="/tutoriales/latex/img/itemize.jpg" lightbox="true" >}}
+{{< figure src="itemize.jpg" lightbox="true" >}}
 
 ### Listas ordenadas
 
@@ -258,7 +258,7 @@ Las listas ordenadas o numeradas tienen la misma sintaxis pero con otro entorno,
 \end{enumerate}
 ```
 
-{{< figure src="/tutoriales/latex/img/enumerate.jpg" lightbox="true" >}}
+{{< figure src="enumerate.jpg" lightbox="true" >}}
 
 ### Listas de descripción
 
@@ -271,7 +271,7 @@ Las listas de descripción o definición utilizan el entorno `description`. Su s
 \end{description}
 ```
 
-{{< figure src="/tutoriales/latex/img/description.jpg" lightbox="true" >}}
+{{< figure src="description.jpg" lightbox="true" >}}
 
 ## Añadiendo matemáticas a $\LaTeX$
 Una de las principales ventajas de $\LaTeX$ es la facilidad con la que podemos incluir expresiones matemáticas en nuestros documentos. Existen dos *modos* principales: ***inline*** y ___display___.
@@ -284,7 +284,7 @@ Se utiliza para escribir expresiones que son parte del texto, encerrando la expr
 En física, la equivalencia entre masa y energía se establece por la ecuación $E=mc^2$, descubierta por Albert Einstein en 1905.
 ```
 
-{{< figure src="/tutoriales/latex/img/inline_math.jpg" lightbox="true" >}}
+{{< figure src="inline_math.jpg" lightbox="true" >}}
 
 ### Modo _display_
 Se utiliza para escribir expresiones en líneas separadas. Tenemos dos versiones: expresiones numeradas (con el entorno `equation`) o sin numerar (encerrando la expresión entre `\[...\]`), como se muestra a continuación:
@@ -300,7 +300,7 @@ E=m
 \end{equation}
 ```
 
-{{< figure src="/tutoriales/latex/img/display_math.jpg" lightbox="true" >}}
+{{< figure src="display_math.jpg" lightbox="true" >}}
 
 ### Paquete [amsmath](https://www.ctan.org/pkg/amsmath)[^8]
 [^8]: Desarrollado por la [Sociedad Americana de Matemáticas](https://www.ams.org/home/page), o AMS por sus siglas en inglés.
@@ -325,7 +325,7 @@ Podemos escribir letras griegas tanto en minúsuclas ($\omega$, $\delta$, etc.) 
 Los operadores matemáticos se prefijan con una barra invertida, como $\sin(\beta)$, $\cos(\alpha)$, $\log(x)$, etc.
 ```
 
-{{< figure src="/tutoriales/latex/img/amsmath.jpg" lightbox="true" >}}
+{{< figure src="amsmath.jpg" lightbox="true" >}}
 
 ## Formato básico
 Veamos cómo añadir resúmenes (*abstracts* en inglés) y formatear un documento $\LaTeX$ en capítulos, secciones y párrafos.
@@ -349,7 +349,7 @@ documento. Una breve introducción sobre el tema principal.
 \end{document}
 ```
 
-{{< figure src="/tutoriales/latex/img/abstract.jpg" lightbox="true" >}}
+{{< figure src="abstract.jpg" lightbox="true" >}}
 
 ### Párrafos y saltos de línea
 
@@ -378,7 +378,7 @@ Esta línea comenzará un segundo párrafo.
 \end{document}
 ```
 
-{{< figure src="/tutoriales/latex/img/parrafos.jpg" lightbox="true" >}}
+{{< figure src="parrafos.jpg" lightbox="true" >}}
 
 ### Capítulos y secciones
 
@@ -410,7 +410,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Etiam lobortis facilisissem
 ```
 
-{{< figure src="/tutoriales/latex/img/secciones.jpg" lightbox="true" >}}
+{{< figure src="secciones.jpg" lightbox="true" >}}
 
 El comando `\section{...}` marca el comienzo de una nueva sección, cuyo título se pone dentro de las llaves. Las secciones se numeran automáticamente aunque esto se puede desactivar incluyendo un asterisco (*) en el comando de la sección, como en `\section*{...}`. También podemos tener `\subsection{...}` o `\subsubsection{...}`. La siguiente tabla muestra los distintos **niveles de profundidad**:
 
@@ -437,7 +437,7 @@ A continuación puedes ver el ejemplo más sencillo de una tabla en $\LaTeX$:
 \end{tabular}
 ```
 
-{{< figure src="/tutoriales/latex/img/tabular.jpg" lightbox="true" >}}
+{{< figure src="tabular.jpg" lightbox="true" >}}
 
 El entorno `tabular` es el método por defecto de $\LaTeX$ para crear tablas. Entre llaves le indicamos cuántas columnas tendrá la tabla y cómo estará justificado el texto. En este caso `{ccc}` indica que habrá tres columnas y que el texto estará centrado (`c`). También se puede utilizar `r` para alinear el texto a la derecha o `l` para alinearlo a la izquierda. El símbolo de alineación `&` se utiliza para especificar los saltos entre columnas[^10] y el símbolo `\\` para especificar los saltos entre filas.
 
@@ -481,7 +481,7 @@ La tabla \ref{tab:ejemplo_booktabs} muestra un ejemplo de uso de los comandos de
 \end{document}
 ```
 
-{{< figure src="/tutoriales/latex/img/ejemplo_tabla.jpg" lightbox="true" >}}
+{{< figure src="ejemplo_tabla.jpg" lightbox="true" >}}
 
 ## Añadiendo un índice
 Crear el índice de un documento es tan fácil como escribir el comando `\tableofcontents` donde queramos incluirlo, y $\LaTeX$ hará todo el trabajo por nosotros, como en el siguiente ejemplo:
@@ -525,6 +525,6 @@ Etiam lobortis facilisissem
 \end{document}
 ```
 
-{{< figure src="/tutoriales/latex/img/indice.jpg" lightbox="true" >}}
+{{< figure src="indice.jpg" lightbox="true" >}}
 
 Los capítulos (`\chapter{...}`), secciones (`\section{...}`) y subsecciones (`\subsection{...}`) se incluyen automática en el índice. Para incluir manualmente otras entradas, como secciones no numeradas (`\section*{...}`), podemos utilizar el comando `\addcontentsline`, como se ve en el ejemplo.
