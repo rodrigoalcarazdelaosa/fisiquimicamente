@@ -273,7 +273,7 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
 - [Presión atmosférica](#/3/1)
 - [Experimento de Torricelli](#/3/2)
 - [Hemisferios de Magdeburgo](#/3/6)
-- [Fenómenos metereológicos](#/3/11)
+- [Fenómenos meteorológicos](#/3/11)
 
 (continúa hacia abajo)
 
@@ -330,7 +330,7 @@ En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke
 ---
 
 ### Fenómenos meteorológicos
-Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos metereológicos**.
+Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos meteorológicos**.
 
 ---
 
