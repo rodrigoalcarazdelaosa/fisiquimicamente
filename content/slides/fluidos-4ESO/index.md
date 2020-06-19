@@ -271,7 +271,7 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
 ## Física de la atmósfera
 
 - [Presión atmosférica](#/3/1)
-- [Experimento de Torricelli](#/3/8)
+- [Experimento de Torricelli](#/3/2)
 - [Hemisferios de Magdeburgo](#/3/1)
 - [Fenómenos metereológicos](#/3/2)
 
