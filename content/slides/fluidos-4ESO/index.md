@@ -115,3 +115,11 @@ r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\th
 ### Principio fundamental de la hidrostática
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Física de la atmósfera
+
+{{% /section %}}
