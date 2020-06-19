@@ -50,7 +50,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 - [Principio de Pascal](#/2/1)
 - [Principio fundamental de la hidrostática](#/2/8)
-- [Principio de Arquímedes](#/2/1)
+- [Principio de Arquímedes](#/2/21)
 
 (continúa hacia abajo)
 
@@ -271,5 +271,63 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
 {{% section %}}
 
 ## Física de la atmósfera
+
+- [Principio de Pascal](#/2/1)
+- [Principio fundamental de la hidrostática](#/2/8)
+- [Principio de Arquímedes](#/2/1)
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Presión atmosférica
+La **presión atmosférica** es el peso de la columna de aire que soporta un cuerpo por unidad de superficie.
+
+### Experimento de Torricelli
+Gracias al **experimento de Torricelli** se midió por primera vez la presión atmosférica y se produjo el primer vacío de la historia.
+
+{{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" title="Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a aproximadamente 76 cm, creándose un vacío en los 24 cm restantes. Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/53700/53703/53703_torricellian.htm)." lightbox="true" >}}
+
+
+$$
+p_\text{atm} = d_\text{Hg}\cdot g\cdot h = 13534\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} =  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
+$$
+
+El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos muestra esta célebre experiencia en el siguiente vídeo:
+
+{{< vimeo 110619312 >}}
+
+### Hemisferios de Magdeburgo
+En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke**, diseñó un par de grandes hemisferios de cobre, que se ajustaban con un anillo de acoplamiento formando una esfera. Tras sellar los bordes con grasa y extraer el aire con una bomba de vacío que él mismo había inventado, sendos tiros de 8 caballos intentaron separar ambos hemisferios, sin éxito, demostrando así el poder de la presión atmosférica.
+
+{{< figure library="true" src="fluidos-4ESO/hemisferios-Magdeburgo.jpg" title="Versión coloreada del grabado de [Gaspar Schott](https://www.gabinetedelgrabado.com/galer%C3%ADa/la-revolución-de-las-ciencias-s-xvii/schott-1608-1666/) del experimento de Otto von Guericke de los hemisferios de Magdeburgo. Crédito: [Science Source](https://www.sciencesource.com/archive/Magdeburg-Hemispheres--17th-Century-SS2636797.html)." lightbox="true" >}}
+
+En este vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ser testigo de *la verdadera lucha de los caballos contra la presión atmosférica*:
+
+{{< vimeo 33482842 >}}
+
+En este otro vídeo, también el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) reproduce otras extraordinarias demostraciones que el propio Otto Von Guericke recoge en su libro:
+
+{{< vimeo 67896094 >}}
+
+Finalmente, el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA0qIZsuzGl09cw) nos muestra un método alternativo que no requiere una bomba de vacío para eliminar el aire del interior de la esfera: 
+
+{{< youtube Q66DxZB6plE >}}
+
+### Fenómenos meteorológicos
+Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos metereológicos**.
+
+#### Viento
+Los **vientos** soplan desde regiones con mayor presión hacia aquellas en las que la presión es menor (normalmente debido a diferencias de temperaturas).
+
+#### Borrascas
+Las **borrascas** o zonas de **baja presión** son regiones de la atmósfera en las que la presión atmosférica es más baja que la del aire circundante, lo que provoca que el aire húmedo ascienda, enfriándose, condensándose y originando **tiempo inestable**.
+
+#### Anticiclones
+Un **anticiclón** es una zona atmosférica de **alta presión**, en la cual la presión atmosférica es superior a la del aire circundante, provocando que el aire de las capas más altas descienda, originando **tiempo estable**.
+
+{{< figure library="true" src="fluidos-4ESO/borrasca-anticiclon.jpg" title="[https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html](https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html)" lightbox="true" >}}
 
 {{% /section %}}
