@@ -22,9 +22,12 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 {{% section %}}
 
-## Propiedades generales
+## Concepto de presión
 
-[Masa](#/1/3) y [volumen](#/1/4)
+La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
+$$
+p = \frac{F}{A}
+$$
 
 (continúa hacia abajo)
 
