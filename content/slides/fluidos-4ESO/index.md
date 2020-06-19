@@ -67,7 +67,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 ---
 
-<q>El etanol tiene una densidad de $0.79\thinspace\mathrm{g/cm^3}$. Calcula la masa contenida en una botella de medio litro.</q>
+#### Elevador hidráulico
 
 ---
 
