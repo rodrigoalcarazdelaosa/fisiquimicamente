@@ -173,6 +173,23 @@ h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\math
 
 Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente. 
 
+---
+
+#### Paradoja hidrostática. Vasos comunicantes
+
+{{< figure library="true" src="fluidos-4ESO/vasos-comunicantes.png" title="La **paradoja hidrostática** consiste en que la presión que ejerce un fluido sobre el fondo no depende de la forma (ni de la cantidad de fluido por tanto), sino del nivel (altura). En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se distribuye hasta alcanzar el mismo nivel. Adaptada de [https://commons.wikimedia.org/wiki/File:Communicating_vessels.svg](https://commons.wikimedia.org/wiki/File:Communicating_vessels.svg)." lightbox="false" >}}
+
+---
+
+#### Simulación
+Puedes explorar con más detalle la **relación** entre la **presión**, la **densidad** y la **profundidad** con la siguiente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
+
+---
+
+{{< youtube GuCGcOkoK5E >}}
+
 {{% /section %}}
 
 ---
