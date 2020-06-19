@@ -60,6 +60,10 @@ a.footnote-backref:hover {
     transition: none;	
 }
 
+#popup-content a.footnote-backref {
+	color: #111111;
+}
+
 #popup-content a.footnote-backref:hover {
 	color: $primary;
 	background-color: #fffff8;	
