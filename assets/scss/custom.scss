@@ -94,7 +94,10 @@ code {
 //  border: 1px solid $primary;
   overflow-x:auto;
   padding:0.2em 0.4em
-}   
+}
+
+#popup-content code {
+  background: #f7f056; }   
   
 pre {
 font-size: 0.875rem; }
