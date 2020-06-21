@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "📚 Apuntes"
-subtitle = "1º Bach"
+title = "1º Bach"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -47,7 +47,7 @@ subtitle = "1º Bach"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
