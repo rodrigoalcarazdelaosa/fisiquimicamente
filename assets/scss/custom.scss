@@ -374,7 +374,11 @@ color: $primary; }
 font-weight: 400;
 font-size: 1.1rem;	
 font-family: "Cabin Sketch", sans-serif;
-color: $primary_complementary; }  
+color: $primary_complementary; }
+
+.btn-toolbar {
+    justify-content:center
+}  
 
 .section-heading a {
 	color: currentColor;
