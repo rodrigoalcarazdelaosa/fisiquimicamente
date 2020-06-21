@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "2º ESO"
-subtitle = "2º ESO"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
