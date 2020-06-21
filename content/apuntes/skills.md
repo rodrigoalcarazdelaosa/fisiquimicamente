@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "📚 Apuntes de Física y Química"
-subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y al **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
+subtitle = "En formato texto, diapositivas y póster (tipo _chuleta_)"
 
 # Showcase personal skills or business features.
 # 
