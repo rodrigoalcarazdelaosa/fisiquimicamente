@@ -179,6 +179,14 @@ color: rgba(42, 84, 169, 0.54); }
   color: $primary; }
   
 /*************************************************
+*  Toolbar Buttons
+**************************************************/  
+  
+.btn-toolbar {
+  justify-content: center
+}  
+  
+/*************************************************
 *  Tables
 **************************************************/
 /* Based on Bootstrap's `table-responsive` style. */
@@ -374,11 +382,7 @@ color: $primary; }
 font-weight: 400;
 font-size: 1.1rem;	
 font-family: "Cabin Sketch", sans-serif;
-color: $primary_complementary; }
-
-.btn-toolbar {
-    justify-content: center
-}  
+color: $primary_complementary; }  
 
 .section-heading a {
 	color: currentColor;
