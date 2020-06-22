@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Rodrigo Alcaraz <br> de la Osa"
+title: "Rodrigo Alcaraz de la Osa"
 
 # Username (this should match the folder name)
 authors:
