@@ -844,7 +844,7 @@ applause-button {
     color: #f7f056;
 }
 
-#popup-content code a {
+#popup-content a > code {
   color: currentColor;
   text-decoration: none;
   border-bottom: solid 1px currentColor; }
