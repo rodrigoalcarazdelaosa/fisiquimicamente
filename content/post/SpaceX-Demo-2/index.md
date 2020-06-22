@@ -95,8 +95,8 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 						  fontSize: 16,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
-						  stepSize: 0.5,						  
-						  suggestedMax: 12.5,
+						  stepSize: 1.0,						  
+						  suggestedMax: 12.0,
 						  suggestedMin: 0.0,
 						  maxTicksLimit: 13,
 						  padding: 10
