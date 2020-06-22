@@ -851,7 +851,7 @@ La **velocidad teórica** la calculamos a partir de la expresión[^11]:
 $$
 v(t) = \begin{cases}
 v_0 + a t & \text{antes del SECO (MRUV)} \\\\
-26594.3 & \text{después del SECO (MRU)}
+26734.6 & \text{después del SECO (MRU)}
 \end{cases}
 $$
 donde $v_0 = 0$ y $a = 14.1\thinspace$m/s<sup>2</sup>.
