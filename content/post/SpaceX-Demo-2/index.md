@@ -137,10 +137,10 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "2.6",
-			              borderColor: "#2a54a9",
+			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: 'rgba(42,84,169,0.8)',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -152,7 +152,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#fffff8",
+							fontColor: "#fffff8",						  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -163,7 +163,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "8.93333333333333",
-			              borderColor: "#2a54a9",
+			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
 							backgroundColor: 'rgba(17,17,17,0.8)',
@@ -427,7 +427,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 						  stepSize: 1.0,
 						  suggestedMax: 12,
 						  suggestedMin: 0,
-						  maxTicksLimit: 12,
+						  maxTicksLimit: 13,
 						  padding: 10
 					  }
 				  }],
@@ -764,7 +764,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 						  fontSize: 16,
   						  fontFamily: 'EB Garamond',
 						  fontColor: '#111111',
-						  stepSize: 0.5,
+						  stepSize: 0.5,						  
 						  suggestedMax: 4,
 						  suggestedMin: 0,
 						  maxTicksLimit: 9,
@@ -846,7 +846,7 @@ La expresión teórica solo es capaz de modelar el movimiento del cohete durante
 
 La **velocidad teórica** la calculamos a partir de la expresión[^11]:
 
-[^11]: El valor de 26734.6$\thinspace$km/h es la velocidad que tiene la nave, según la expresión teórica del MRUV, justo en el **SECO**.
+[^11]: El valor de 26594.3$\thinspace$km/h es la velocidad que tiene la nave, según la expresión teórica del MRUV, justo en el **SECO**.
 
 $$
 v(t) = \begin{cases}
