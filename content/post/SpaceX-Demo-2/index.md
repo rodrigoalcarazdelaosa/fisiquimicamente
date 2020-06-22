@@ -767,7 +767,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 						  stepSize: 0.5,
 						  suggestedMax: 4,
 						  suggestedMin: 0,
-						  // maxTicksLimit: 9,
+						  maxTicksLimit: 9,
 						  padding: 10
 					  }
 				  }],
