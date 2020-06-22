@@ -48,94 +48,6 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 <canvas id="h-t"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-<script src="https://d3js.org/d3.v5.min.js"></script>
-
-<script>
-	d3.csv('h.csv')
-	  .then(makeChart);
-
-	function makeChart(hdata) {
-		var t = hdata.map(function(d) {return d.t});
-		var h = hdata.map(function(d) {return d.h});		
-		var chart = new Chart('h-t', {
-		  type: 'line',
-		  data: {
-		    labels: t,
-		    datasets: [
-		      {
-		        data: h,
- 			    backgroundColor: '#2a54a9',
- 				borderColor: '#2a54a9',
- 				fill: false,
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
- 				showLine: false // no line shown
-		      }
-		    ]
-		  },
-		  options: {
-			  scales: {
-				  xAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111" 
-		              },
-					  afterFit: function(scale) {
-						  scale.height = 80  //<-- set value as you wish 
-					  },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Tiempo (min)',
-						  fontSize: 18,
-//						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'
-					  },
-					  ticks: {
-						  fontSize: 16,
-//  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  max: 12,
-						  min: 0,
-						  stepSize: 1.0,
-						  padding: 10
-					  }
-				  }],
-				  yAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111"						  
-		              },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Altitud (km)',
-						  fontSize: 18,
-//  						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'						  
-					  },
-					  ticks: {
-						  beginAtZero: true,
-						  fontSize: 16,
-//  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  padding: 10,
-						  stepSize: 50,						  
-						  suggestedMax: 250,
-						  suggestedMin: 0
-					  }
-				  }]
-			  	
-			  },
-		      legend: {
-		      	display: false		              
-		      },			  
-		   }
-		});
-	}		
-</script>
-
-<!-- <canvas id="h-t"></canvas>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 
@@ -276,7 +188,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 		   }
 		});
 	}
-</script> -->
+</script>
 
 La altitud asciende rápidamente durante los dos primeros minutos aproximadamente (hasta el minuto 2.6), superando los 75$\thinspace$km de altura, cuando los nueve motores [Merlin](https://es.wikipedia.org/wiki/Merl%C3%ADn_(motor_cohete)) del Falcon 9 se apagan, instante que se conoce como **MECO** (Main Engine Cutoff)[^5].
 
