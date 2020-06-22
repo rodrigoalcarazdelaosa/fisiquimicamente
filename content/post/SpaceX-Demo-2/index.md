@@ -811,7 +811,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 			              type: "line",
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
-			              value: "2.33333333333333",
+			              value: "2.6",
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
