@@ -352,7 +352,7 @@ La **velocidad aumenta** de forma **no lineal**, alcanzando los 6724$\thinspace$
 
 [^7]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar ([https://es.wikipedia.org/wiki/Velocidad_del_sonido](https://es.wikipedia.org/wiki/Velocidad_del_sonido)).
 
-Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un [movimiento circular uniforme]({{< ref "/apuntes-4eso/movimientos/#movimiento-circular-uniforme-mcu" >}}) &mdash;MCU).
+Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un [movimiento circular uniforme]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}}) &mdash;MCU).
 
 #### Velocidad orbital
 
