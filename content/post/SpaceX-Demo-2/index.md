@@ -692,7 +692,7 @@ El valor promedio resultante de la aceleración antes del **SECO** es de 14.102$
 
 [^10]: En realidad habrá sido mucho peor que esto 🤦‍♂️, pero como dato, decir que un paracaidista suele alcanzar la [velocidad límite](https://es.wikipedia.org/wiki/Velocidad_l%C3%ADmite) (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
 
-Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV (teniendo en cuenta que después del **SECO** la aceleración es nula y por tanto la nave se moverá con un [movimiento rectilíneo uniforme](https://rodrigoalcarazdelaosa.me/apuntes-4eso/movimientos/#movimiento-rectil%C3%ADneo-uniforme-mru) o MRU).
+Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV (teniendo en cuenta que después del **SECO** la aceleración es nula y por tanto la nave se moverá con un [movimiento rectilíneo uniforme]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) o MRU).
 
 #### Altitud
 A partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que las expresiones del MRUV o MRU no son válidas, ya que suponen un aumento indefinido.
