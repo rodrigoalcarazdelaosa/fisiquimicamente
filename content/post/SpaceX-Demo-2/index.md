@@ -47,7 +47,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 
 <canvas id="h-t"></canvas>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
 <script src="https://d3js.org/d3.v5.min.js"></script>
 
