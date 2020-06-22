@@ -843,3 +843,8 @@ applause-button {
 #popup-content a, #popup-content a:link, #popup-content a:visited {
     color: #f7f056;
 }
+
+#popup-content code a {
+  color: currentColor;
+  text-decoration: none;
+  border-bottom: solid 1px currentColor; }
