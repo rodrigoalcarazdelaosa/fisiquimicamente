@@ -374,7 +374,7 @@ lo que supone un error relativo de un 3.7$\thinspace$% aproximadamente.
 
 A partir de los valores del módulo de la velocidad es posible obtener la **aceleración tangencial** del cohete mediante una **derivación numérica**[^8].
 
-[^8]: En concreto, la aceleración se ha obtenido utilizando la función [`diff](https://es.mathworks.com/help/matlab/ref/diff.html) de [MATLAB<sup>&reg;</sup>](https://es.mathworks.com/products/matlab.html).
+[^8]: En concreto, la aceleración se ha obtenido utilizando la función [`diff`](https://es.mathworks.com/help/matlab/ref/diff.html) de [MATLAB<sup>&reg;</sup>](https://es.mathworks.com/products/matlab.html).
 
 La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
 
