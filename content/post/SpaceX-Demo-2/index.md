@@ -140,7 +140,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 			              borderColor: "#2a54a9",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(42,84,169,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -152,7 +152,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",						  
+							fontColor: "#fffff8",						  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -166,7 +166,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 			              borderColor: "#2a54a9",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -297,7 +297,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -323,7 +323,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -468,7 +468,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -494,7 +494,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -637,7 +637,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -663,7 +663,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -815,7 +815,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -968,7 +968,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
@@ -994,7 +994,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(17,17,17,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
