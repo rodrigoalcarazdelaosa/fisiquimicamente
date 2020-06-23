@@ -51,7 +51,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
 
 <script>
-	const ctx = document.getElementById('h-t').getContext('2d');
+	const h = document.getElementById('h-t').getContext('2d');
 
 	const series = [
 [  0.00000000,   0.00000000],
@@ -128,7 +128,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 [ 11.93333333, 201.00000000],
 [ 12.10000000, 201.00000000],
 	];
-	new Chart(ctx, {
+	new Chart(h, {
 	  type: 'line',
 	  data: {
 	    datasets: [{
