@@ -463,7 +463,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 			              type: "line",
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
-			              value: "2.68333333333333",
+			              value: "2.6",
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
