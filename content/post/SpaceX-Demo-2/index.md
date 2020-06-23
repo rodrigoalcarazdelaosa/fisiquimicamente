@@ -1134,7 +1134,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 	        },
 	        scaleLabel: {
 	          display: true,
-			  labelString: 'Aceleración (m/s²)',
+	          labelString: 'Altitud (km)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
