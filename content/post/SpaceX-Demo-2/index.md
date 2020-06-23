@@ -632,7 +632,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 			              type: "line",
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
-			              value: "2.68333333333333",
+			              value: "2.51666666666667",
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
@@ -658,7 +658,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 			              type: "line",
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
-			              value: "9.01666666666667",
+			              value: "8.85",
 			              borderColor: "#555555",
 			              label: {
 							// Background color of label, default below
