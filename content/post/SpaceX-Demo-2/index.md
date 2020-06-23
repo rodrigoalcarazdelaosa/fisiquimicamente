@@ -160,12 +160,12 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 	          display: true,
 	          labelString: 'Tiempo (min)',
 	          fontSize: 18,
-	          //                        fontFamily: 'Cabin Sketch',
+	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
 	        },
 	        ticks: {
 	          fontSize: 16,
-	          //                            fontFamily: 'EB Garamond',
+	          fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
 	          max: 12,
 	          min: 0,
@@ -182,13 +182,13 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 	          display: true,
 	          labelString: 'Altitud (km)',
 	          fontSize: 18,
-	          //                            fontFamily: 'Cabin Sketch',
+	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
 	        },
 	        ticks: {
 	          beginAtZero: true,
 	          fontSize: 16,
-	          //                            fontFamily: 'EB Garamond',
+			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
 	          padding: 10,
 	          stepSize: 50,
