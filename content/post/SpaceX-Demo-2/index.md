@@ -278,9 +278,9 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 <canvas id="v-t"></canvas>
 
 <script>
-	const ctx = document.getElementById('v-t').getContext('2d');
+	const v = document.getElementById('v-t').getContext('2d');
 
-	const series = [
+	const vSeries = [
 [  0.00000000,   0.00000000],
 [  0.26666667, 195.00000000],
 [  0.43333333, 376.00000000],
@@ -355,11 +355,11 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 [ 11.93333333, 26998.00000000],
 [ 12.10000000, 26997.00000000],
 	];
-	new Chart(ctx, {
+	new Chart(v, {
 	  type: 'line',
 	  data: {
 	    datasets: [{
-	      data: series.map(datum => ({
+	      data: vSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
