@@ -136,7 +136,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 			              mode: "vertical",
 			              scaleID: "x-axis-0",
 			              value: "2.6",
-			              borderColor: "#000000",
+			              borderColor: "#2a54a9",
 			              label: {
 							// Background color of label, default below
 							backgroundColor: '#BBCCEE',
