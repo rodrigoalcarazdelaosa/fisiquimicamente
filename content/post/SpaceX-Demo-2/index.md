@@ -901,9 +901,15 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 	      }]
 
 	    },
-	    legend: {
-	      display: false
-	    },
+      legend: {
+		  labels: {
+			  boxWidth: 10,
+			  usePointStyle: true,
+			  fontSize: 18,
+			  fontFamily: 'Cabin Sketch',
+			  fontColor: '#111111'
+		  }				  
+      },	
 	  annotation: {
 		  annotations: [
 			  {
