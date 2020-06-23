@@ -165,7 +165,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 			              borderColor: "#2a54a9",
 			              label: {
 							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
+							backgroundColor: 'rgba(187,204,238,0.8)',
 
 							// Font family of text, inherits from global
 							fontFamily: "Cabin Sketch",
