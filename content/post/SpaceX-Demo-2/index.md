@@ -53,7 +53,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 <script>
 	const h = document.getElementById('h-t').getContext('2d');
 
-	const series = [
+	const hSeries = [
 [  0.00000000,   0.00000000],
 [  0.26666667,   0.40000000],
 [  0.43333333,   1.20000000],
@@ -132,7 +132,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 	  type: 'line',
 	  data: {
 	    datasets: [{
-	      data: series.map(datum => ({
+	      data: hSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
