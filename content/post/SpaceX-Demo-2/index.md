@@ -990,88 +990,89 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 <canvas id="h-t-MRUV"></canvas>
 
 <script>
-	const aMRUV = document.getElementById('a-t-MRUV').getContext('2d');
+	const hMRUV = document.getElementById('h-t-MRUV').getContext('2d');
 
-	const aMRUVSeries = [
-[  0.13333333,  14.11838312],
-[  0.35000000,  14.11838312],
-[  0.51666667,  14.11838312],
-[  0.68333333,  14.11838312],
-[  0.85000000,  14.11838312],
-[  1.01666667,  14.11838312],
-[  1.18333333,  14.11838312],
-[  1.35000000,  14.11838312],
-[  1.51666667,  14.11838312],
-[  1.68333333,  14.11838312],
-[  1.85000000,  14.11838312],
-[  2.01666667,  14.11838312],
-[  2.18333333,  14.11838312],
-[  2.35000000,  14.11838312],
-[  2.51666667,  14.11838312],
-[  2.68333333,  14.11838312],
-[  2.85000000,  14.11838312],
-[  3.01666667,  14.11838312],
-[  3.18333333,  14.11838312],
-[  3.35000000,  14.11838312],
-[  3.51666667,  14.11838312],
-[  3.68333333,  14.11838312],
-[  3.85000000,  14.11838312],
-[  4.01666667,  14.11838312],
-[  4.18333333,  14.11838312],
-[  4.35000000,  14.11838312],
-[  4.51666667,  14.11838312],
-[  4.68333333,  14.11838312],
-[  4.85000000,  14.11838312],
-[  5.01666667,  14.11838312],
-[  5.18333333,  14.11838312],
-[  5.35000000,  14.11838312],
-[  5.51666667,  14.11838312],
-[  5.68333333,  14.11838312],
-[  5.85000000,  14.11838312],
-[  6.01666667,  14.11838312],
-[  6.18333333,  14.11838312],
-[  6.35000000,  14.11838312],
-[  6.51666667,  14.11838312],
-[  6.68333333,  14.11838312],
-[  6.85000000,  14.11838312],
-[  7.01666667,  14.11838312],
-[  7.18333333,  14.11838312],
-[  7.35000000,  14.11838312],
-[  7.51666667,  14.11838312],
-[  7.68333333,  14.11838312],
-[  7.85000000,  14.11838312],
-[  8.01666667,  14.11838312],
-[  8.18333333,  14.11838312],
-[  8.35000000,  14.11838312],
-[  8.51666667,  14.11838312],
-[  8.68333333,  14.11838312],
-[  8.85000000,  14.11838312],
-[  9.01666667,   0.00000000],
-[  9.18333333,   0.00000000],
-[  9.35000000,   0.00000000],
-[  9.51666667,   0.00000000],
-[  9.68333333,   0.00000000],
-[  9.85000000,   0.00000000],
-[ 10.01666667,   0.00000000],
-[ 10.18333333,   0.00000000],
-[ 10.35000000,   0.00000000],
-[ 10.51666667,   0.00000000],
-[ 10.68333333,   0.00000000],
-[ 10.85000000,   0.00000000],
-[ 11.01666667,   0.00000000],
-[ 11.18333333,   0.00000000],
-[ 11.35000000,   0.00000000],
-[ 11.51666667,   0.00000000],
-[ 11.68333333,   0.00000000],
-[ 11.85000000,   0.00000000],
-[ 12.01666667,   0.00000000],
+	const hMRUVSeries = [
+[  0.00000000,   0.00000000],
+[  0.26666667,   1.80715304],
+[  0.43333333,   4.77201350],
+[  0.60000000,   9.14871226],
+[  0.76666667,  14.93724934],
+[  0.93333333,  22.13762474],
+[  1.10000000,  30.74983844],
+[  1.26666667,  40.77389046],
+[  1.43333333,  52.20978079],
+[  1.60000000,  65.05750943],
+[  1.76666667,  79.31707639],
+[  1.93333333,  94.98848166],
+[  2.10000000, 112.07172524],
+[  2.26666667, 130.56680713],
+[  2.43333333, 150.47372733],
+[  2.60000000, 171.79248585],
+[  2.76666667, 194.52308268],
+[  2.93333333, 218.66551782],
+[  3.10000000, 244.21979127],
+[  3.26666667, 271.18590304],
+[  3.43333333, 299.56385312],
+[  3.60000000, 329.35364151],
+[  3.76666667, 360.55526821],
+[  3.93333333, 393.16873323],
+[  4.10000000, 427.19403656],
+[  4.26666667, 462.63117820],
+[  4.43333333, 499.48015815],
+[  4.60000000, 537.74097642],
+[  4.76666667, 577.41363299],
+[  4.93333333, 618.49812788],
+[  5.10000000, 660.99446108],
+[  5.26666667, 704.90263260],
+[  5.43333333, 750.22264243],
+[  5.60000000, 796.95449057],
+[  5.76666667, 845.09817702],
+[  5.93333333, 894.65370178],
+[  6.10000000, 945.62106486],
+[  6.26666667, 998.00026625],
+[  6.43333333, 1051.79130595],
+[  6.60000000, 1106.99418396],
+[  6.76666667, 1163.60890029],
+[  6.93333333, 1221.63545493],
+[  7.10000000, 1281.07384788],
+[  7.26666667, 1341.92407914],
+[  7.43333333, 1404.18614872],
+[  7.60000000, 1467.86005660],
+[  7.76666667, 1532.94580280],
+[  7.93333333, 1599.44338732],
+[  8.10000000, 1667.35281014],
+[  8.26666667, 1736.67407128],
+[  8.43333333, 1807.40717073],
+[  8.60000000, 1879.55210849],
+[  8.76666667, 1953.10888456],
+[  8.93333333, 5933.58934893],
+[  9.10000000, 6007.85204416],
+[  9.26666667, 6082.11473939],
+[  9.43333333, 6156.37743462],
+[  9.60000000, 6230.64012985],
+[  9.76666667, 6304.90282508],
+[  9.93333333, 6379.16552031],
+[ 10.10000000, 6453.42821554],
+[ 10.26666667, 6527.69091077],
+[ 10.43333333, 6601.95360600],
+[ 10.60000000, 6676.21630123],
+[ 10.76666667, 6750.47899646],
+[ 10.93333333, 6824.74169169],
+[ 11.10000000, 6899.00438692],
+[ 11.26666667, 6973.26708215],
+[ 11.43333333, 7047.52977738],
+[ 11.60000000, 7121.79247262],
+[ 11.76666667, 7196.05516785],
+[ 11.93333333, 7270.31786308],
+[ 12.10000000, 7344.58055831],
 	];
-	new Chart(aMRUV, {
+	new Chart(hMRUV, {
 	  type: 'line',
 	  data: {
 	    datasets: [
 			{
-	      data: aSeries.map(datum => ({
+	      data: hSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -1084,7 +1085,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 			showLine: false // no line shown
 	    },
 			{
-	      data: aMRUVSeries.map(datum => ({
+	      data: hMRUVSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -1144,9 +1145,9 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
 	          padding: 10,
-			  stepSize: 5.0,						  
-			  suggestedMax: 40,
-			  suggestedMin: -10
+			  stepSize: 200,						  
+			  suggestedMax: 600,
+ 			  suggestedMin: 0
 	        }
 	      }]
 
@@ -1218,139 +1219,6 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 	  }
 	  }
 	});
-</script>
-
-<script>
-	d3.csv('hMRUV.csv')
-	  .then(makeChart);
-
-	function makeChart(hdata) {
-		var t = hdata.map(function(d) {return d.t});
-		var h = hdata.map(function(d) {return d.h});
-		var hMRUV = hdata.map(function(d) {return d.hMRUV});
-		var chart = new Chart('h-t-MRUV', {
-		  type: 'line',
-		  data: {
-		    labels: t,
-		    datasets: [
-		      {
-		        data: h,
- 			    label: '"Empírica"', 
- 			    backgroundColor: '#2a54a9',
- 				borderColor: '#2a54a9',
- 				fill: false,
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
- 				showLine: false // no line shown
-		      },
-		      {
-		        data: hMRUV,
- 			    label: 'MRUV', 				  
- 			    backgroundColor: '#b50000',
- 				borderColor: '#b50000',
- 				fill: false,
-				pointRadius: 0,
- 			    pointStyle: 'line'
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
-		      }
-		    ]
-		  },
-		  options: {
-			  scales: {
-				  xAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111" 
-		              },
-					  afterFit: function(scale) {
-						  scale.height = 80  //<-- set value as you wish 
-					  },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Tiempo (min)',
-						  fontSize: 18,
-						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'
-					  },
-					  ticks: {
-						  fontSize: 16,
-  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  stepSize: 0.5,						  
-						  suggestedMax: 4,
-						  suggestedMin: 0,
-						  maxTicksLimit: 9,
-						  padding: 10
-					  }
-				  }],
-				  yAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111"						  
-		              },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Altitud (km)',
-						  fontSize: 18,
-  						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'						  
-					  },
-					  ticks: {
-						  fontSize: 16,
-  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  padding: 10,
-						  stepSize: 100,						  
-						  suggestedMax: 400,
-						  suggestedMin: 0,
-						  maxTicksLimit: 5,						  
-					  }
-				  }]
-			  	
-			  },
-		      legend: {
-				  labels: {
-					  boxWidth: 10,
-					  usePointStyle: true,
-					  fontSize: 18,
-  					  fontFamily: 'Cabin Sketch',
-					  fontColor: '#111111'
-				  }				  
-		      },
-			  annotation: {
-				  annotations: [
-					  {
-			              type: "line",
-			              mode: "vertical",
-			              scaleID: "x-axis-0",
-			              value: "2.6",
-			              borderColor: "#2a54a9",
-			              label: {
-							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
-
-							// Font family of text, inherits from global
-							fontFamily: "Cabin Sketch",
-
-							// Font size of text, inherits from global
-							fontSize: 18,
-
-							// Font style of text, default below
-							fontStyle: "bold",
-
-							// Font color of text, default below
-							fontColor: "#111111",						  
-			                content: "MECO",
-			                enabled: true,
-			                position: "top"
-			              }
-			          }					  				  
-			      ]
-			  }			  			  
-		   }
-		});
-	}		
 </script>
 	
 La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 130$\thinspace$%).
