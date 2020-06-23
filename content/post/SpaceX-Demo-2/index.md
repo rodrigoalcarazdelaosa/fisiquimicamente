@@ -151,7 +151,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#fffff8",
+							fontColor: "#000000",
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
