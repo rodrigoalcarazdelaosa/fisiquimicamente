@@ -1397,7 +1397,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
 	          padding: 10,
-			  stepSize: 1000,						  
+			  stepSize: 5000,						  
 			  suggestedMax: 30000,
 			  suggestedMin: 0,
 	        }
