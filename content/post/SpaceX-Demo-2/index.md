@@ -145,121 +145,64 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 	      showLine: false // no line shown
 	    }]
 	  },
-		  options: {
-			  scales: {
-				  xAxes: [{
-					  type: "linear",
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111"
-		              },
-					  afterFit: function(scale) {
-						  scale.height = 80  //<-- set value as you wish
-					  },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Tiempo (min)',
-						  fontSize: 18,
-						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'
-					  },
-					  ticks: {
-						  fontSize: 16,
-  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  max: 12,
-						  min: 0,
-						  stepSize: 1.0,
-						  padding: 10
-					  }
-				  }],
-				  yAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111"
-		              },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Altitud (km)',
-						  fontSize: 18,
-  						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'
-					  },
-					  ticks: {
-						  beginAtZero: true,
-						  fontSize: 16,
-  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  padding: 10,
-						  stepSize: 50,
-						  suggestedMax: 250,
-						  suggestedMin: 0
-					  }
-				  }]
+	  options: {
+	    scales: {
+	      xAxes: [{
+	        type: "linear",
+	        gridLines: {
+	          drawOnChartArea: false,
+	          color: "#111111"
+	        },
+	        afterFit: function(scale) {
+	          scale.height = 80 //<-- set value as you wish 
+	        },
+	        scaleLabel: {
+	          display: true,
+	          labelString: 'Tiempo (min)',
+	          fontSize: 18,
+	          //                        fontFamily: 'Cabin Sketch',
+	          fontColor: '#111111'
+	        },
+	        ticks: {
+	          fontSize: 16,
+	          //                            fontFamily: 'EB Garamond',
+	          fontColor: '#111111',
+	          max: 12,
+	          min: 0,
+	          stepSize: 1.0,
+	          padding: 10
+	        }
+	      }],
+	      yAxes: [{
+	        gridLines: {
+	          drawOnChartArea: false,
+	          color: "#111111"
+	        },
+	        scaleLabel: {
+	          display: true,
+	          labelString: 'Altitud (km)',
+	          fontSize: 18,
+	          //                            fontFamily: 'Cabin Sketch',
+	          fontColor: '#111111'
+	        },
+	        ticks: {
+	          beginAtZero: true,
+	          fontSize: 16,
+	          //                            fontFamily: 'EB Garamond',
+	          fontColor: '#111111',
+	          padding: 10,
+	          stepSize: 50,
+	          suggestedMax: 250,
+	          suggestedMin: 0
+	        }
+	      }]
 
-			  },
-		      legend: {
-		      	display: false
-		      },
-			  annotation: {
-				  annotations: [
-					  {
-			              type: "line",
-			              mode: "vertical",
-			              scaleID: "x-axis-0",
-			              value: "2.6",
-			              borderColor: "#2a54a9",
-			              label: {
-							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
-
-							// Font family of text, inherits from global
-							fontFamily: "Cabin Sketch",
-
-							// Font size of text, inherits from global
-							fontSize: 18,
-
-							// Font style of text, default below
-							fontStyle: "bold",
-
-							// Font color of text, default below
-							fontColor: "#111111",
-			                content: "MECO",
-			                enabled: true,
-			                position: "top"
-			              }
-			          },
-					  {
-			              type: "line",
-			              mode: "vertical",
-			              scaleID: "x-axis-0",
-			              value: "8.93333333333333",
-			              borderColor: "#2a54a9",
-			              label: {
-							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
-
-							// Font family of text, inherits from global
-							fontFamily: "Cabin Sketch",
-
-							// Font size of text, inherits from global
-							fontSize: 18,
-
-							// Font style of text, default below
-							fontStyle: "bold",
-
-							// Font color of text, default below
-							fontColor: "#111111",
-			                content: "SECO",
-			                enabled: true,
-			                position: "top"
-			              }
-			          }
-			      ]
-			  }
-		   }
-		});
-	}
+	    },
+	    legend: {
+	      display: false
+	    },
+	  }
+	});
 </script>
 
 La altitud asciende rápidamente durante los dos primeros minutos aproximadamente (hasta el minuto 2.6), superando los 75$\thinspace$km de altura, cuando los nueve motores [Merlin](https://es.wikipedia.org/wiki/Merl%C3%ADn_(motor_cohete)) del Falcon 9 se apagan, instante que se conoce como **MECO** (Main Engine Cutoff)[^5].
