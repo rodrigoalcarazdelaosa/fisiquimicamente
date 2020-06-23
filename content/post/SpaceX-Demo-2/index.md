@@ -596,7 +596,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 [ 11.85000000,  -0.02777778],
 [ 12.01666667,  -0.02777778],
 	];
-	new Chart(v, {
+	new Chart(a, {
 	  type: 'line',
 	  data: {
 	    datasets: [{
