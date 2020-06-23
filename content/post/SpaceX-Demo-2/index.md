@@ -58,7 +58,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 	function makeChart(hdata) {
 		var t = hdata.map(function(d) {return d.t});
 		var h = hdata.map(function(d) {return d.h});
-		console.log(h);
+		console.log(t);
 		var chart = new Chart('h-t', {
 		  type: 'line',
 		  data: {
