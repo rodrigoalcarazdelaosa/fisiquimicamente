@@ -990,6 +990,237 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 <canvas id="h-t-MRUV"></canvas>
 
 <script>
+	const aMRUV = document.getElementById('a-t-MRUV').getContext('2d');
+
+	const aMRUVSeries = [
+[  0.13333333,  14.11838312],
+[  0.35000000,  14.11838312],
+[  0.51666667,  14.11838312],
+[  0.68333333,  14.11838312],
+[  0.85000000,  14.11838312],
+[  1.01666667,  14.11838312],
+[  1.18333333,  14.11838312],
+[  1.35000000,  14.11838312],
+[  1.51666667,  14.11838312],
+[  1.68333333,  14.11838312],
+[  1.85000000,  14.11838312],
+[  2.01666667,  14.11838312],
+[  2.18333333,  14.11838312],
+[  2.35000000,  14.11838312],
+[  2.51666667,  14.11838312],
+[  2.68333333,  14.11838312],
+[  2.85000000,  14.11838312],
+[  3.01666667,  14.11838312],
+[  3.18333333,  14.11838312],
+[  3.35000000,  14.11838312],
+[  3.51666667,  14.11838312],
+[  3.68333333,  14.11838312],
+[  3.85000000,  14.11838312],
+[  4.01666667,  14.11838312],
+[  4.18333333,  14.11838312],
+[  4.35000000,  14.11838312],
+[  4.51666667,  14.11838312],
+[  4.68333333,  14.11838312],
+[  4.85000000,  14.11838312],
+[  5.01666667,  14.11838312],
+[  5.18333333,  14.11838312],
+[  5.35000000,  14.11838312],
+[  5.51666667,  14.11838312],
+[  5.68333333,  14.11838312],
+[  5.85000000,  14.11838312],
+[  6.01666667,  14.11838312],
+[  6.18333333,  14.11838312],
+[  6.35000000,  14.11838312],
+[  6.51666667,  14.11838312],
+[  6.68333333,  14.11838312],
+[  6.85000000,  14.11838312],
+[  7.01666667,  14.11838312],
+[  7.18333333,  14.11838312],
+[  7.35000000,  14.11838312],
+[  7.51666667,  14.11838312],
+[  7.68333333,  14.11838312],
+[  7.85000000,  14.11838312],
+[  8.01666667,  14.11838312],
+[  8.18333333,  14.11838312],
+[  8.35000000,  14.11838312],
+[  8.51666667,  14.11838312],
+[  8.68333333,  14.11838312],
+[  8.85000000,  14.11838312],
+[  9.01666667,   0.00000000],
+[  9.18333333,   0.00000000],
+[  9.35000000,   0.00000000],
+[  9.51666667,   0.00000000],
+[  9.68333333,   0.00000000],
+[  9.85000000,   0.00000000],
+[ 10.01666667,   0.00000000],
+[ 10.18333333,   0.00000000],
+[ 10.35000000,   0.00000000],
+[ 10.51666667,   0.00000000],
+[ 10.68333333,   0.00000000],
+[ 10.85000000,   0.00000000],
+[ 11.01666667,   0.00000000],
+[ 11.18333333,   0.00000000],
+[ 11.35000000,   0.00000000],
+[ 11.51666667,   0.00000000],
+[ 11.68333333,   0.00000000],
+[ 11.85000000,   0.00000000],
+[ 12.01666667,   0.00000000],
+	];
+	new Chart(aMRUV, {
+	  type: 'line',
+	  data: {
+	    datasets: [
+			{
+	      data: aSeries.map(datum => ({
+	        x: datum[0],
+	        y: datum[1]
+	      })),
+		    label: '"Empírica"',				  
+		    backgroundColor: '#2a54a9',
+			borderColor: '#2a54a9',
+			fill: false,
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
+			showLine: false // no line shown
+	    },
+			{
+	      data: aMRUVSeries.map(datum => ({
+	        x: datum[0],
+	        y: datum[1]
+	      })),
+		    label: 'MRUV', 				  
+		    backgroundColor: '#b50000',
+			borderColor: '#b50000',
+			fill: false,
+			pointRadius: 0,
+		    pointStyle: 'line'
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
+	    }]
+	  },
+	  options: {
+	    scales: {
+	      xAxes: [{
+	        type: "linear",
+	        gridLines: {
+	          drawOnChartArea: false,
+	          color: "#111111"
+	        },
+	        afterFit: function(scale) {
+	          scale.height = 80 //<-- set value as you wish 
+	        },
+	        scaleLabel: {
+	          display: true,
+	          labelString: 'Tiempo (min)',
+	          fontSize: 18,
+	          fontFamily: 'Cabin Sketch',
+	          fontColor: '#111111'
+	        },
+	        ticks: {
+	          fontSize: 16,
+	          fontFamily: 'EB Garamond',
+	          fontColor: '#111111',
+	          max: 4,
+	          min: 0,
+	          stepSize: 0.5,
+	          padding: 10
+	        }
+	      }],
+	      yAxes: [{
+	        gridLines: {
+	          drawOnChartArea: false,
+	          color: "#111111"
+	        },
+	        scaleLabel: {
+	          display: true,
+			  labelString: 'Aceleración (m/s²)',
+	          fontSize: 18,
+	          fontFamily: 'Cabin Sketch',
+	          fontColor: '#111111'
+	        },
+	        ticks: {
+	          beginAtZero: true,
+	          fontSize: 16,
+			  fontFamily: 'EB Garamond',
+	          fontColor: '#111111',
+	          padding: 10,
+			  stepSize: 5.0,						  
+			  suggestedMax: 40,
+			  suggestedMin: -10
+	        }
+	      }]
+
+	    },
+      legend: {
+		  labels: {
+			  boxWidth: 10,
+			  usePointStyle: true,
+			  fontSize: 18,
+			  fontFamily: 'Cabin Sketch',
+			  fontColor: '#111111'
+		  }				  
+      },	
+	  annotation: {
+		  annotations: [
+			  {
+	              type: "line",
+	              mode: "vertical",
+	              scaleID: "x-axis-0",
+	              value: "2.6",
+	              borderColor: "#2a54a9",
+	              label: {
+					// Background color of label, default below
+					backgroundColor: '#BBCCEE',
+
+					// Font family of text, inherits from global
+					fontFamily: "Cabin Sketch",
+
+					// Font size of text, inherits from global
+					fontSize: 18,
+
+					// Font style of text, default below
+					fontStyle: "bold",
+
+					// Font color of text, default below
+					fontColor: "#111111",						  
+	                content: "MECO",
+	                enabled: true,
+	                position: "top"
+	              }
+	          },
+			  {
+	              type: "line",
+	              mode: "vertical",
+	              scaleID: "x-axis-0",
+	              value: "8.93333333333333",
+	              borderColor: "#2a54a9",
+	              label: {
+					// Background color of label, default below
+					backgroundColor: '#BBCCEE',
+
+					// Font family of text, inherits from global
+					fontFamily: "Cabin Sketch",
+
+					// Font size of text, inherits from global
+					fontSize: 18,
+
+					// Font style of text, default below
+					fontStyle: "bold",
+
+					// Font color of text, default below
+					fontColor: "#111111",
+	                content: "SECO",
+	                enabled: true,
+	                position: "top"
+	              }
+	          }					  
+	      ]
+	  }
+	  }
+	});
+</script>
+
+<script>
 	d3.csv('hMRUV.csv')
 	  .then(makeChart);
 
