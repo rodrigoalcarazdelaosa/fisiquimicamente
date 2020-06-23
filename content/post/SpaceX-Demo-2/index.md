@@ -740,6 +740,215 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 <canvas id="a-t-MRUV"></canvas>
 
 <script>
+	const aMRUV = document.getElementById('a-t-MRUV').getContext('2d');
+
+	const aSeries = [
+[  0.13333333,   3.38541667],
+[  0.35000000,   5.02777778],
+[  0.51666667,   5.86111111],
+[  0.68333333,   6.02777778],
+[  0.85000000,   3.55555556],
+[  1.01666667,   4.47222222],
+[  1.18333333,   7.22222222],
+[  1.35000000,  11.05555556],
+[  1.51666667,  12.91666667],
+[  1.68333333,  14.97222222],
+[  1.85000000,  17.38888889],
+[  2.01666667,  20.33333333],
+[  2.18333333,  23.58333333],
+[  2.35000000,  23.36111111],
+[  2.51666667,  25.58333333],
+[  2.68333333,  -2.50000000],
+[  2.85000000,   0.58333333],
+[  3.01666667,   2.69444444],
+[  3.18333333,   3.22222222],
+[  3.35000000,   3.75000000],
+[  3.51666667,   4.33333333],
+[  3.68333333,   4.88888889],
+[  3.85000000,   5.63888889],
+[  4.01666667,   6.38888889],
+[  4.18333333,   7.11111111],
+[  4.35000000,   7.75000000],
+[  4.51666667,   8.50000000],
+[  4.68333333,   9.08333333],
+[  4.85000000,   9.69444444],
+[  5.01666667,  10.33333333],
+[  5.18333333,  10.88888889],
+[  5.35000000,  11.52777778],
+[  5.51666667,  12.00000000],
+[  5.68333333,  12.63888889],
+[  5.85000000,  13.13888889],
+[  6.01666667,  13.86111111],
+[  6.18333333,  14.33333333],
+[  6.35000000,  15.27777778],
+[  6.51666667,  15.86111111],
+[  6.68333333,  16.80555556],
+[  6.85000000,  17.61111111],
+[  7.01666667,  18.69444444],
+[  7.18333333,  19.88888889],
+[  7.35000000,  21.13888889],
+[  7.51666667,  22.69444444],
+[  7.68333333,  24.63888889],
+[  7.85000000,  26.16666667],
+[  8.01666667,  28.61111111],
+[  8.18333333,  30.27777778],
+[  8.35000000,  32.80555556],
+[  8.51666667,  35.97222222],
+[  8.68333333,  38.80555556],
+[  8.85000000,  28.41666667],
+[  9.01666667,   0.02777778],
+[  9.18333333,  -0.02777778],
+[  9.35000000,  -0.02777778],
+[  9.51666667,   0.00000000],
+[  9.68333333,  -0.02777778],
+[  9.85000000,  -0.02777778],
+[ 10.01666667,  -0.02777778],
+[ 10.18333333,   0.00000000],
+[ 10.35000000,  -0.02777778],
+[ 10.51666667,  -0.02777778],
+[ 10.68333333,  -0.02777778],
+[ 10.85000000,  -0.02777778],
+[ 11.01666667,  -0.02777778],
+[ 11.18333333,   0.00000000],
+[ 11.35000000,  -0.02777778],
+[ 11.51666667,  -0.02777778],
+[ 11.68333333,  -0.02777778],
+[ 11.85000000,  -0.02777778],
+[ 12.01666667,  -0.02777778],
+	];
+	new Chart(aMRUV, {
+	  type: 'line',
+	  data: {
+	    datasets: [{
+	      data: aSeries.map(datum => ({
+	        x: datum[0],
+	        y: datum[1]
+	      })),
+	      backgroundColor: '#2a54a9',
+	      borderColor: '#2a54a9',
+	      fill: false,
+	      //              pointRadius: 10,
+	      //              pointHoverRadius: 15,
+	      showLine: false // no line shown
+	    }]
+	  },
+	  options: {
+	    scales: {
+	      xAxes: [{
+	        type: "linear",
+	        gridLines: {
+	          drawOnChartArea: false,
+	          color: "#111111"
+	        },
+	        afterFit: function(scale) {
+	          scale.height = 80 //<-- set value as you wish 
+	        },
+	        scaleLabel: {
+	          display: true,
+	          labelString: 'Tiempo (min)',
+	          fontSize: 18,
+	          fontFamily: 'Cabin Sketch',
+	          fontColor: '#111111'
+	        },
+	        ticks: {
+	          fontSize: 16,
+	          fontFamily: 'EB Garamond',
+	          fontColor: '#111111',
+	          max: 12,
+	          min: 0,
+	          stepSize: 1.0,
+	          padding: 10
+	        }
+	      }],
+	      yAxes: [{
+	        gridLines: {
+	          drawOnChartArea: false,
+	          color: "#111111"
+	        },
+	        scaleLabel: {
+	          display: true,
+			  labelString: 'Aceleración (m/s²)',
+	          fontSize: 18,
+	          fontFamily: 'Cabin Sketch',
+	          fontColor: '#111111'
+	        },
+	        ticks: {
+	          beginAtZero: true,
+	          fontSize: 16,
+			  fontFamily: 'EB Garamond',
+	          fontColor: '#111111',
+	          padding: 10,
+			  stepSize: 5.0,						  
+			  suggestedMax: 40,
+			  suggestedMin: -10
+	        }
+	      }]
+
+	    },
+	    legend: {
+	      display: false
+	    },
+	  annotation: {
+		  annotations: [
+			  {
+	              type: "line",
+	              mode: "vertical",
+	              scaleID: "x-axis-0",
+	              value: "2.6",
+	              borderColor: "#2a54a9",
+	              label: {
+					// Background color of label, default below
+					backgroundColor: '#BBCCEE',
+
+					// Font family of text, inherits from global
+					fontFamily: "Cabin Sketch",
+
+					// Font size of text, inherits from global
+					fontSize: 18,
+
+					// Font style of text, default below
+					fontStyle: "bold",
+
+					// Font color of text, default below
+					fontColor: "#111111",						  
+	                content: "MECO",
+	                enabled: true,
+	                position: "top"
+	              }
+	          },
+			  {
+	              type: "line",
+	              mode: "vertical",
+	              scaleID: "x-axis-0",
+	              value: "8.93333333333333",
+	              borderColor: "#2a54a9",
+	              label: {
+					// Background color of label, default below
+					backgroundColor: '#BBCCEE',
+
+					// Font family of text, inherits from global
+					fontFamily: "Cabin Sketch",
+
+					// Font size of text, inherits from global
+					fontSize: 18,
+
+					// Font style of text, default below
+					fontStyle: "bold",
+
+					// Font color of text, default below
+					fontColor: "#111111",
+	                content: "SECO",
+	                enabled: true,
+	                position: "top"
+	              }
+	          }					  
+	      ]
+	  }
+	  }
+	});
+</script>
+
+<script>
 	d3.csv('a.csv')
 	  .then(makeChart);
 
