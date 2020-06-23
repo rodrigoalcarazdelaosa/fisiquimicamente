@@ -819,17 +819,33 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 	new Chart(aMRUV, {
 	  type: 'line',
 	  data: {
-	    datasets: [{
+	    datasets: [
+			{
+	      data: aSeries.map(datum => ({
+	        x: datum[0],
+	        y: datum[1]
+	      })),
+		    label: '"Empírica"',				  
+		    backgroundColor: '#2a54a9',
+			borderColor: '#2a54a9',
+			fill: false,
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
+			showLine: false // no line shown
+	    },
+			{
 	      data: aMRUVSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-	      backgroundColor: '#2a54a9',
-	      borderColor: '#2a54a9',
-	      fill: false,
-	      //              pointRadius: 10,
-	      //              pointHoverRadius: 15,
-	      showLine: false // no line shown
+		    label: 'MRUV', 				  
+		    backgroundColor: '#b50000',
+			borderColor: '#b50000',
+			fill: false,
+			pointRadius: 0,
+		    pointStyle: 'line'
+// 				pointRadius: 10,
+// 				pointHoverRadius: 15,
 	    }]
 	  },
 	  options: {
