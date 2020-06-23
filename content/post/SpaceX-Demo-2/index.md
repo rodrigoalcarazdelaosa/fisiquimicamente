@@ -1146,7 +1146,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 	          fontColor: '#111111',
 	          padding: 10,
 			  stepSize: 200,						  
-			  max: 600,
+			  max: 400,
  			  suggestedMin: 0
 	        }
 	      }]
