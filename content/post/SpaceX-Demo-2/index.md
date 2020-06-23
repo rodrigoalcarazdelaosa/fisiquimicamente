@@ -406,7 +406,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Altitud (km)',
+			  labelString: 'Velocidad (km/h)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -417,9 +417,9 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
 	          padding: 10,
-	          stepSize: 50,
-	          suggestedMax: 250,
-	          suggestedMin: 0
+			  stepSize: 10000,
+			  suggestedMax: 30000,
+			  suggestedMin: 0,
 	        }
 	      }]
 
@@ -485,146 +485,6 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 	  }
 	  }
 	});
-</script>
-
-<script>
-	d3.csv('v.csv')
-	  .then(makeChart);
-
-	function makeChart(hdata) {
-		var t = hdata.map(function(d) {return d.t});
-		var v = hdata.map(function(d) {return d.v});		
-		var chart = new Chart('v-t', {
-		  type: 'line',
-		  data: {
-		    labels: t,
-		    datasets: [
-		      {
-		        data: v,
- 			    backgroundColor: '#2a54a9',
- 				borderColor: '#2a54a9',
- 				fill: false,
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
- 				showLine: false // no line shown
-		      }
-		    ]
-		  },
-		  options: {
-			  scales: {
-				  xAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111" 
-		              },
-					  afterFit: function(scale) {
-						  scale.height = 80  //<-- set value as you wish 
-					  },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Tiempo (min)',
-						  fontSize: 18,
-						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'
-					  },
-					  ticks: {				  
-						  fontSize: 16,
-  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  stepSize: 1.0,						  
-						  suggestedMax: 12,
-						  suggestedMin: 0,
-						  maxTicksLimit: 13,
-						  padding: 10,
-					  }					  
-				  }],
-				  yAxes: [{
-					  gridLines: {
-						  drawOnChartArea: false,
-						  color: "#111111"						  
-		              },
-					  scaleLabel: {
-						  display: true,
-						  labelString: 'Velocidad (km/h)',
-						  fontSize: 18,
-  						  fontFamily: 'Cabin Sketch',
-						  fontColor: '#111111'						  
-					  },
-					  ticks: {
-						  beginAtZero: true,
-						  fontSize: 16,
-  						  fontFamily: 'EB Garamond',
-						  fontColor: '#111111',
-						  padding: 10,
-						  stepSize: 10000,
-						  suggestedMax: 30000,
-						  suggestedMin: 0,
-					  }
-				  }]
-			  	
-			  },
-		      legend: {
-		      	display: false		              
-		      },
-			  annotation: {
-				  annotations: [
-					  {
-			              type: "line",
-			              mode: "vertical",
-			              scaleID: "x-axis-0",
-			              value: "2.6",
-			              borderColor: "#2a54a9",
-			              label: {
-							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
-
-							// Font family of text, inherits from global
-							fontFamily: "Cabin Sketch",
-
-							// Font size of text, inherits from global
-							fontSize: 18,
-
-							// Font style of text, default below
-							fontStyle: "bold",
-
-							// Font color of text, default below
-							fontColor: "#111111",						  
-			                content: "MECO",
-			                enabled: true,
-			                position: "top"
-			              }
-			          },
-					  {
-			              type: "line",
-			              mode: "vertical",
-			              scaleID: "x-axis-0",
-			              value: "8.93333333333333",
-			              borderColor: "#2a54a9",
-			              label: {
-							// Background color of label, default below
-							backgroundColor: '#BBCCEE',
-
-							// Font family of text, inherits from global
-							fontFamily: "Cabin Sketch",
-
-							// Font size of text, inherits from global
-							fontSize: 18,
-
-							// Font style of text, default below
-							fontStyle: "bold",
-
-							// Font color of text, default below
-							fontColor: "#111111",
-			                content: "SECO",
-			                enabled: true,
-			                position: "top"
-			              }
-			          }					  
-			      ]
-			  }
-		   }
-		});
-	}		
 </script>
 	
 La **velocidad aumenta** de forma **no lineal**, alcanzando los 6724$\thinspace$km/h, más de 5 veces la velocidad del sonido en el aire[^7], en el **MECO**. Se observa que en ese momento la velocidad se ve incluso reducida, hasta que el motor Merlin Vacuum de la segunda etapa se enciende y acelera a la Dragon con una tendencia similar a como lo había hecho durante la primera etapa.
