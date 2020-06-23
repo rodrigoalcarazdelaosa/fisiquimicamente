@@ -278,6 +278,216 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 <canvas id="v-t"></canvas>
 
 <script>
+	const ctx = document.getElementById('v-t').getContext('2d');
+
+	const series = [
+[  0.00000000,   0.00000000],
+[  0.26666667, 195.00000000],
+[  0.43333333, 376.00000000],
+[  0.60000000, 587.00000000],
+[  0.76666667, 804.00000000],
+[  0.93333333, 932.00000000],
+[  1.10000000, 1093.00000000],
+[  1.26666667, 1353.00000000],
+[  1.43333333, 1751.00000000],
+[  1.60000000, 2216.00000000],
+[  1.76666667, 2755.00000000],
+[  1.93333333, 3381.00000000],
+[  2.10000000, 4113.00000000],
+[  2.26666667, 4962.00000000],
+[  2.43333333, 5803.00000000],
+[  2.60000000, 6724.00000000],
+[  2.76666667, 6634.00000000],
+[  2.93333333, 6655.00000000],
+[  3.10000000, 6752.00000000],
+[  3.26666667, 6868.00000000],
+[  3.43333333, 7003.00000000],
+[  3.60000000, 7159.00000000],
+[  3.76666667, 7335.00000000],
+[  3.93333333, 7538.00000000],
+[  4.10000000, 7768.00000000],
+[  4.26666667, 8024.00000000],
+[  4.43333333, 8303.00000000],
+[  4.60000000, 8609.00000000],
+[  4.76666667, 8936.00000000],
+[  4.93333333, 9285.00000000],
+[  5.10000000, 9657.00000000],
+[  5.26666667, 10049.00000000],
+[  5.43333333, 10464.00000000],
+[  5.60000000, 10896.00000000],
+[  5.76666667, 11351.00000000],
+[  5.93333333, 11824.00000000],
+[  6.10000000, 12323.00000000],
+[  6.26666667, 12839.00000000],
+[  6.43333333, 13389.00000000],
+[  6.60000000, 13960.00000000],
+[  6.76666667, 14565.00000000],
+[  6.93333333, 15199.00000000],
+[  7.10000000, 15872.00000000],
+[  7.26666667, 16588.00000000],
+[  7.43333333, 17349.00000000],
+[  7.60000000, 18166.00000000],
+[  7.76666667, 19053.00000000],
+[  7.93333333, 19995.00000000],
+[  8.10000000, 21025.00000000],
+[  8.26666667, 22115.00000000],
+[  8.43333333, 23296.00000000],
+[  8.60000000, 24591.00000000],
+[  8.76666667, 25988.00000000],
+[  8.93333333, 27011.00000000],
+[  9.10000000, 27012.00000000],
+[  9.26666667, 27011.00000000],
+[  9.43333333, 27010.00000000],
+[  9.60000000, 27010.00000000],
+[  9.76666667, 27009.00000000],
+[  9.93333333, 27008.00000000],
+[ 10.10000000, 27007.00000000],
+[ 10.26666667, 27007.00000000],
+[ 10.43333333, 27006.00000000],
+[ 10.60000000, 27005.00000000],
+[ 10.76666667, 27004.00000000],
+[ 10.93333333, 27003.00000000],
+[ 11.10000000, 27002.00000000],
+[ 11.26666667, 27002.00000000],
+[ 11.43333333, 27001.00000000],
+[ 11.60000000, 27000.00000000],
+[ 11.76666667, 26999.00000000],
+[ 11.93333333, 26998.00000000],
+[ 12.10000000, 26997.00000000],
+	];
+	new Chart(ctx, {
+	  type: 'line',
+	  data: {
+	    datasets: [{
+	      data: series.map(datum => ({
+	        x: datum[0],
+	        y: datum[1]
+	      })),
+	      backgroundColor: '#2a54a9',
+	      borderColor: '#2a54a9',
+	      fill: false,
+	      //              pointRadius: 10,
+	      //              pointHoverRadius: 15,
+	      showLine: false // no line shown
+	    }]
+	  },
+	  options: {
+	    scales: {
+	      xAxes: [{
+	        type: "linear",
+	        gridLines: {
+	          drawOnChartArea: false,
+	          color: "#111111"
+	        },
+	        afterFit: function(scale) {
+	          scale.height = 80 //<-- set value as you wish 
+	        },
+	        scaleLabel: {
+	          display: true,
+	          labelString: 'Tiempo (min)',
+	          fontSize: 18,
+	          fontFamily: 'Cabin Sketch',
+	          fontColor: '#111111'
+	        },
+	        ticks: {
+	          fontSize: 16,
+	          fontFamily: 'EB Garamond',
+	          fontColor: '#111111',
+	          max: 12,
+	          min: 0,
+	          stepSize: 1.0,
+	          padding: 10
+	        }
+	      }],
+	      yAxes: [{
+	        gridLines: {
+	          drawOnChartArea: false,
+	          color: "#111111"
+	        },
+	        scaleLabel: {
+	          display: true,
+	          labelString: 'Altitud (km)',
+	          fontSize: 18,
+	          fontFamily: 'Cabin Sketch',
+	          fontColor: '#111111'
+	        },
+	        ticks: {
+	          beginAtZero: true,
+	          fontSize: 16,
+			  fontFamily: 'EB Garamond',
+	          fontColor: '#111111',
+	          padding: 10,
+	          stepSize: 50,
+	          suggestedMax: 250,
+	          suggestedMin: 0
+	        }
+	      }]
+
+	    },
+	    legend: {
+	      display: false
+	    },
+	  annotation: {
+		  annotations: [
+			  {
+	              type: "line",
+	              mode: "vertical",
+	              scaleID: "x-axis-0",
+	              value: "2.6",
+	              borderColor: "#2a54a9",
+	              label: {
+					// Background color of label, default below
+					backgroundColor: '#BBCCEE',
+
+					// Font family of text, inherits from global
+					fontFamily: "Cabin Sketch",
+
+					// Font size of text, inherits from global
+					fontSize: 18,
+
+					// Font style of text, default below
+					fontStyle: "bold",
+
+					// Font color of text, default below
+					fontColor: "#111111",						  
+	                content: "MECO",
+	                enabled: true,
+	                position: "top"
+	              }
+	          },
+			  {
+	              type: "line",
+	              mode: "vertical",
+	              scaleID: "x-axis-0",
+	              value: "8.93333333333333",
+	              borderColor: "#2a54a9",
+	              label: {
+					// Background color of label, default below
+					backgroundColor: '#BBCCEE',
+
+					// Font family of text, inherits from global
+					fontFamily: "Cabin Sketch",
+
+					// Font size of text, inherits from global
+					fontSize: 18,
+
+					// Font style of text, default below
+					fontStyle: "bold",
+
+					// Font color of text, default below
+					fontColor: "#111111",
+	                content: "SECO",
+	                enabled: true,
+	                position: "top"
+	              }
+	          }					  
+	      ]
+	  }
+	  }
+	});
+</script>
+
+<script>
 	d3.csv('v.csv')
 	  .then(makeChart);
 
