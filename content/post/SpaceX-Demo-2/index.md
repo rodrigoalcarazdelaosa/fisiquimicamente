@@ -201,6 +201,62 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 	    legend: {
 	      display: false
 	    },
+	  annotation: {
+		  annotations: [
+			  {
+	              type: "line",
+	              mode: "vertical",
+	              scaleID: "x-axis-0",
+	              value: "2.6",
+	              borderColor: "#2a54a9",
+	              label: {
+					// Background color of label, default below
+					backgroundColor: '#BBCCEE',
+
+					// Font family of text, inherits from global
+					fontFamily: "Cabin Sketch",
+
+					// Font size of text, inherits from global
+					fontSize: 18,
+
+					// Font style of text, default below
+					fontStyle: "bold",
+
+					// Font color of text, default below
+					fontColor: "#111111",						  
+	                content: "MECO",
+	                enabled: true,
+	                position: "top"
+	              }
+	          },
+			  {
+	              type: "line",
+	              mode: "vertical",
+	              scaleID: "x-axis-0",
+	              value: "8.93333333333333",
+	              borderColor: "#2a54a9",
+	              label: {
+					// Background color of label, default below
+					backgroundColor: '#BBCCEE',
+
+					// Font family of text, inherits from global
+					fontFamily: "Cabin Sketch",
+
+					// Font size of text, inherits from global
+					fontSize: 18,
+
+					// Font style of text, default below
+					fontStyle: "bold",
+
+					// Font color of text, default below
+					fontColor: "#111111",
+	                content: "SECO",
+	                enabled: true,
+	                position: "top"
+	              }
+	          }					  
+	      ]
+	  }
 	  }
 	});
 </script>
