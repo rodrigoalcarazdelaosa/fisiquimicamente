@@ -151,7 +151,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",
+							fontColor: "#111111",
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -177,7 +177,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",
+							fontColor: "#111111",
 			                content: "SECO",
 			                enabled: true,
 			                position: "top"
@@ -308,7 +308,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",						  
+							fontColor: "#111111",						  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -334,7 +334,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",
+							fontColor: "#111111",
 			                content: "SECO",
 			                enabled: true,
 			                position: "top"
@@ -479,7 +479,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",					  
+							fontColor: "#111111",					  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -505,7 +505,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",
+							fontColor: "#111111",
 			                content: "SECO",
 			                enabled: true,
 			                position: "top"
@@ -648,7 +648,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",					  
+							fontColor: "#111111",					  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -674,7 +674,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",
+							fontColor: "#111111",
 			                content: "SECO",
 			                enabled: true,
 			                position: "top"
@@ -826,7 +826,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",						  
+							fontColor: "#111111",						  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -979,7 +979,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",						  
+							fontColor: "#111111",						  
 			                content: "MECO",
 			                enabled: true,
 			                position: "top"
@@ -1005,7 +1005,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 							fontStyle: "bold",
 
 							// Font color of text, default below
-							fontColor: "#000000",
+							fontColor: "#111111",
 			                content: "SECO",
 			                enabled: true,
 			                position: "top"
