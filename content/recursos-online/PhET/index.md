@@ -2,6 +2,7 @@
 title: PhET
 summary: Simulaciones interactivas de ciencias y matemáticas.
 tags:
+- simulaciones
 categories:
 - Física
 - Química
