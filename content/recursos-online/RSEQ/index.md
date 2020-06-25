@@ -2,6 +2,7 @@
 title: RSEQ
 summary: Real Sociedad Española de Química.
 tags:
+- sociedades
 categories:
 - Química
 
