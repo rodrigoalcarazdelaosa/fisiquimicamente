@@ -2,6 +2,7 @@
 title: Curso Interactivo de Física en Internet
 summary: Tercera versión con programas interactivos en HTML5.
 tags:
+- simulaciones
 categories:
 - Física
 
