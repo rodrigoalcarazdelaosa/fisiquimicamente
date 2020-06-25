@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Color"
     tag = "color"		
+
+  [[content.filter_button]]
+    name = "Simulaciones"
+    tag = "simulaciones"	
 	
   [[content.filter_button]]
     name = "Tabla Periódica"
