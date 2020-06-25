@@ -34,6 +34,10 @@ subtitle = ""
     tag = "simulaciones"	
 	
   [[content.filter_button]]
+    name = "Sociedades"
+    tag = "sociedades"
+	
+  [[content.filter_button]]
     name = "Tabla Periódica"
     tag = "tabla-periódica"
 	
