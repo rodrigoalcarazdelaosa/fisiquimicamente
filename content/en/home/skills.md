@@ -27,28 +27,28 @@ subtitle = ""
   description = "☢️ [Physics](ebau-resources/#physics-exams) | ⚗️ [Chemistry](ebau-resources/#chemistry-exams) <br> 💡[Tips](ebau-resources/#tips)"
   
 [[feature]]
-  icon = "[👐](tutoriales/)"
+  icon = "[👐](tutorials/)"
   icon_pack = "emoji"
-  name = "[Tutoriales](tutoriales/)"
-  description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
+  name = "[Tutorials](tutorials/)"
+  description = "[$\\LaTeX$](tutorials/latex) | [Presentation of information](tutorials/presentation-information)"
   
 [[feature]]
-  icon = "[🔗](enlaces-interes/)"
+  icon = "[🔗](links-interest/)"
   icon_pack = "emoji"
-  name = "[Enlaces de interés](enlaces-interes/)"
-  description = "[Recursos online](enlaces-interes/#recursos-online) | [Páginas amigas](enlaces-interes/#paginas-amigas)"
+  name = "[Links of interest](links-interest/)"
+  description = "[Online resources](links-interest/#online-resources) | [Friend pages](links-interest/#friend-pages)"
   
 [[feature]]
-  icon = "[🗞️](#novedades)"
+  icon = "[🗞️](#news)"
   icon_pack = "emoji"
-  name = "[Novedades](#novedades)"
-  description = "🐦 [Twitter](#novedades) | 💬 [Blog](/post)"
+  name = "[News](#news)"
+  description = "🐦 [Twitter](#news) | 💬 [Blog](/post)"
   
 [[feature]]
-  icon = "[:man_scientist:](sobre-mi/)‍"
+  icon = "[:man_scientist:](about-me/)‍"
   icon_pack = "emoji"
-  name = "[Sobre mí](sobre-mi/)"
-  description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias)"
+  name = "[About me](about-me/)"
+  description = "👣 [Career path](about-me/#career) <br> ✈️ [Research stays](about-me/#stays)"
   
 [design.background]
   # Apply a background color, gradient, or image.
