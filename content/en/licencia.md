@@ -8,10 +8,10 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 ---
 
-My 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/notes" >}}), 👐 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y entradas del 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) están bajo una [Licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
+My 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/notes" >}}), 👐 [<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutorials" >}}) and 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) posts are under a [Attribution-ShareAlike 4.0 International Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 
 <center>
 <i class="fab fa-creative-commons fa-2x mr-1"></i><i class="fab fa-creative-commons-by fa-2x mr-1"></i><i class="fab fa-creative-commons-sa fa-2x"></i>
 </center>
 
-Los 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}}) son cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
+The 🎓 [<span style="font-variant:small-caps;">**EBAU resources**</span>]({{< ref "/ebau-resources" >}}) are courtesy of [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) and **Professor Enrique Ortega González** from IES José del Campo of Ampuero.
