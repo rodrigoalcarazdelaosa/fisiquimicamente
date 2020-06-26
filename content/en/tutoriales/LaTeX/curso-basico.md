@@ -14,5 +14,5 @@ weight: 1
 ---
 
 {{% alert note %}}
-Este tutorial es una traducción y adaptación de la **excelente guía** de {{< icon name="overleaf" pack="ai" >}} Overleaf para [_aprender $\LaTeX$ en 30 minutos_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+Please refer to {{< icon name="overleaf" pack="ai" >}} Overleaf's **excellent guide** to [_learn $\LaTeX$ in 30 minutes_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 {{% /alert %}}
