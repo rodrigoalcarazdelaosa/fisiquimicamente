@@ -2,6 +2,7 @@
 title: RSEF
 summary: Real Sociedad Española de Física.
 tags:
+- sociedades
 categories:
 - Física
 
