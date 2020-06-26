@@ -28,19 +28,19 @@
   weight = 3
 
 [[main]]
-  name = "1º Bacc"
+  name = "1st Bacc"
   url = "notes/#first-bacc"
   parent = "notes"
   weight = 4
 
 [[main]]
-  name = "2º Bach Physics"
+  name = "2nd Bach Physics"
   url = "notes/#second-bach-physics"
   parent = "notes"
   weight = 5
   
 [[main]]
-  name = "2º Bach Chemistry"
+  name = "2nd Bach Chemistry"
   url = "notes/#second-bach-chemistry"
   parent = "notes"
   weight = 6  
