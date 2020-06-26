@@ -1,6 +1,6 @@
 ---
-title: Presentations with beamer
-linktitle: Presentations with beamer
+title: Presentaciones con beamer
+linktitle: Presentaciones con beamer
 toc: true
 type: docs
 draft: false
@@ -14,5 +14,5 @@ weight: 2
 ---
 
 {{% alert warning %}}
-Under construction...
+En construcción...
 {{% /alert %}}
