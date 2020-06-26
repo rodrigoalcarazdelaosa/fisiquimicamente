@@ -2,7 +2,7 @@
 title: Curro Físico
 summary: Yo lo vi, yo estuve allí, y los quarks volvieron a renormalizarse evitando el abismo infinito...
 tags:
-- recursos
+- fyq
 categories:
 - Física
 - Química
