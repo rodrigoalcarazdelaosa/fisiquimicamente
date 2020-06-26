@@ -1,6 +1,6 @@
 ---
 title: Posters with beamerposter
-linktitle: Posters with `beamerposter`
+linktitle: Posters with beamerposter
 toc: true
 type: docs
 draft: false
@@ -14,5 +14,5 @@ weight: 3
 ---
 
 {{% alert warning %}}
-En construcción...
+Under construction...
 {{% /alert %}}
