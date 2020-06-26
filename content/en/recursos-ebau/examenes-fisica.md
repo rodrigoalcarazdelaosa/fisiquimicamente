@@ -111,5 +111,5 @@ subtitle = "📝 Full exams"
 +++
 
 {{% alert gdrive %}}
-Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLaEZ1Q2UzVXpxUlk) a todos los enunciados de Cantabria desde 1995 hasta 2019, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
+Access [here](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLaEZ1Q2UzVXpxUlk) to all the statements of Cantabria from 1995 to 2019, thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
 {{% /alert %}}
