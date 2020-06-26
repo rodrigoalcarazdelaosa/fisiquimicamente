@@ -51,4 +51,4 @@ hero_media = ""
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-[Recursos online](#recursos-online) | [Páginas amigas](#paginas-amigas)
+[Online resources](#recursos-online) | [Friend pages](#paginas-amigas)
