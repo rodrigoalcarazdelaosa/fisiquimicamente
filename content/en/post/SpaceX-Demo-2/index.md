@@ -4,10 +4,10 @@ subtitle: Kinematic study of the Falcon 9 🚀
 summary: Kinematic study of the Falcon 9 🚀.
 date: "2020-06-04T00:00:00Z"
 tags:
-- movimiento
-- gravitación
+- motion
+- gravitation
 categories:
-- Física
+- Physics
 
 image:
   placement: 3
