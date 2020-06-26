@@ -30,20 +30,20 @@ subtitle = "Physics"
     tag = "física-s-XX"
 	
   [[content.filter_button]]
-    name = "Interacción electromagnética"
-    tag = "electromagnetismo"
+    name = "Electromagnetic interaction"
+    tag = "electromagnetics"
 	
   [[content.filter_button]]
-    name = "Interacción gravitatoria"
-    tag = "gravitación"
+    name = "Gravitational interaction"
+    tag = "gravitation"
 	
   [[content.filter_button]]
-    name = "Ondas"
-    tag = "ondas"							
+    name = "Waves"
+    tag = "waves"							
 	
   [[content.filter_button]]
-    name = "Óptica geométrica"
-    tag = "óptica-geométrica"		
+    name = "Geometric optics"
+    tag = "geometric-optics"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
