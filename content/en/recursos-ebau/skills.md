@@ -18,7 +18,7 @@ subtitle = "Thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) an
   icon = "[☢️](#examenes-fisica)"
   icon_pack = "emoji"
   name = "[Physics](#examenes-fisica)"
-  description = "📝 [Exámenes completos](#examenes-fisica) | 🗂️ [Por temas](#preguntas-fisica)"  
+  description = "📝 [Full exams](#examenes-fisica) | 🗂️ [By topic](#preguntas-fisica)"  
   
 [[feature]]
   icon = "[⚗️](#examenes-quimica)"
