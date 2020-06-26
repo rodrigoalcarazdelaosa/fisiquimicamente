@@ -2,6 +2,7 @@
 title: FiQuiPedia
 summary: Recursos didácticos sobre Física y Química.
 tags:
+- fyq
 categories:
 - Física
 - Química
