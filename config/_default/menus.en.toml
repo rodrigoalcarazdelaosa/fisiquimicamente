@@ -5,44 +5,44 @@
 
 [[main]]
   name = "📚 Notes"
-  url = "apuntes/"
-  identifier = "apuntes"
+  url = "notes/"
+  identifier = "notes"
   weight = 1
   
 [[main]]
   name = "2º ESO"
-  url = "apuntes/#segundo-eso"
-  parent = "apuntes"
+  url = "notes/#second-grade"
+  parent = "notes"
   weight = 1
 
 [[main]]
   name = "3º ESO"
-  url = "apuntes/#tercero-eso"
-  parent = "apuntes"
+  url = "notes/#third-grade"
+  parent = "notes"
   weight = 2
 
 [[main]]
   name = "4º ESO"
-  url = "apuntes/#cuarto-eso"
-  parent = "apuntes"
+  url = "notes/#fourth-grade"
+  parent = "notes"
   weight = 3
 
 [[main]]
-  name = "1º Bach"
-  url = "apuntes/#primero-bach"
-  parent = "apuntes"
+  name = "1º Bacc"
+  url = "notes/#first-bacc"
+  parent = "notes"
   weight = 4
 
 [[main]]
-  name = "2º Bach Physics"
-  url = "apuntes/#segundo-bach-fisica"
-  parent = "apuntes"
+  name = "2º Bacc Physics"
+  url = "notes/#second-bacc-physics"
+  parent = "notes"
   weight = 5
   
 [[main]]
-  name = "2º Bach Chemistry"
-  url = "apuntes/#segundo-bach-quimica"
-  parent = "apuntes"
+  name = "2º Bacc Chemistry"
+  url = "notes/#second-bacc-chemistry"
+  parent = "notes"
   weight = 6  
   
 [[main]]
