@@ -35,7 +35,7 @@ date_format = "2006"
   date_start = "2013-01-01"
   date_end = "2018-12-31"
   description = """
-  Colaborando con:
+  Collaborating with:
   
   * [Textil Santanderina](https://textilsantanderina.com/es/)
   * [Wood Manners](https://gratoparquet.com/?locale=es)
