@@ -1,5 +1,5 @@
 ---
-title: Learn $\LaTeX$ in 30 minutes
+title: {{< icon name="overleaf" pack="ai" >}} Learn $\LaTeX$ in 30 minutes
 linktitle: Learn $\LaTeX$ in 30 minutes
 toc: true
 type: docs
