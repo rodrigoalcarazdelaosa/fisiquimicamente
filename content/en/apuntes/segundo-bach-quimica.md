@@ -38,7 +38,7 @@ subtitle = "Chemistry"
     tag = "chemical-equilibrium"			
 	
   [[content.filter_button]]
-    name = "Organic Chemistry"
+    name = "Organic chemistry"
     tag = "organic-chemistry"	
 	
   [[content.filter_button]]
