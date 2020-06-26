@@ -17,19 +17,19 @@ subtitle = "Thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) an
 [[feature]]
   icon = "[☢️](#examenes-fisica)"
   icon_pack = "emoji"
-  name = "[Física](#examenes-fisica)"
+  name = "[Physics](#examenes-fisica)"
   description = "📝 [Exámenes completos](#examenes-fisica) | 🗂️ [Por temas](#preguntas-fisica)"  
   
 [[feature]]
   icon = "[⚗️](#examenes-quimica)"
   icon_pack = "emoji"
-  name = "[Química](#examenes-quimica)"
+  name = "[Chemistry](#examenes-quimica)"
   description = "📝 [Exámenes completos](#examenes-quimica) | 🗂️ [Por temas](#preguntas-quimica)"
   
 [[feature]]
   icon = "[💡](#consejos)"
   icon_pack = "emoji"
-  name = "[Consejos](#consejos)"
+  name = "[Tips](#consejos)"
   description = ""  
   
   
