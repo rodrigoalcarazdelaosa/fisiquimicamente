@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 6  # Order that this section will appear.
 
-title = "2nd Bach"
+title = "Year 13"
 subtitle = "Chemistry"
 
 [content]
@@ -23,7 +23,7 @@ subtitle = "Chemistry"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "2º Bach"
+    tag = "*"
 	
   [[content.filter_button]]
     name = "Ácido-base"
