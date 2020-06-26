@@ -2,6 +2,7 @@
 title: EL FÍSICO LOCO
 summary: Cosas de Física y Química.
 tags:
+- fyq
 categories:
 - Física
 - Química
