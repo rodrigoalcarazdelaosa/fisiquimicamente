@@ -6,7 +6,7 @@ date: "2020-04-30T00:00:00Z"
 tags:
 - assassin's creed
 categories:
-- Videogames
+- Video games
 image:
   placement: 3
   caption: "[**Assassin's Creed Valhalla**](https://www.ubisoft.com/es-es/game/assassins-creed/valhalla)"
