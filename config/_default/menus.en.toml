@@ -34,14 +34,14 @@
   weight = 4
 
 [[main]]
-  name = "2º Bacc Physics"
-  url = "notes/#second-bacc-physics"
+  name = "2º Bach Physics"
+  url = "notes/#second-bach-physics"
   parent = "notes"
   weight = 5
   
 [[main]]
-  name = "2º Bacc Chemistry"
-  url = "notes/#second-bacc-chemistry"
+  name = "2º Bach Chemistry"
+  url = "notes/#second-bach-chemistry"
   parent = "notes"
   weight = 6  
   
