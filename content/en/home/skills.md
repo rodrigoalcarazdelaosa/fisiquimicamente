@@ -23,32 +23,32 @@ subtitle = ""
 [[feature]]
   icon = "[🎓](recursos-ebau/)"
   icon_pack = "emoji"
-  name = "[Recursos EBAU](recursos-ebau/)"
-  description = "☢️ [Física](recursos-ebau/#examenes-fisica) | ⚗️ [Química](recursos-ebau/#examenes-quimica) <br> 💡[Consejos](recursos-ebau/#consejos)"
+  name = "[EBAU resources](recursos-ebau/)"
+  description = "☢️ [Physics](recursos-ebau/#examenes-fisica) | ⚗️ [Chemistry](recursos-ebau/#examenes-quimica) <br> 💡[Tips](recursos-ebau/#consejos)"
   
 [[feature]]
   icon = "[👐](tutoriales/)"
   icon_pack = "emoji"
-  name = "[Tutoriales](tutoriales/)"
-  description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
+  name = "[Tutorials](tutoriales/)"
+  description = "[$\\LaTeX$](tutoriales/latex) | [Presentation of information](tutoriales/presentacion-informacion)"
   
 [[feature]]
   icon = "[🔗](enlaces-interes/)"
   icon_pack = "emoji"
-  name = "[Enlaces de interés](enlaces-interes/)"
-  description = "[Recursos online](enlaces-interes/#recursos-online) | [Páginas amigas](enlaces-interes/#paginas-amigas)"
+  name = "[Links of interest](enlaces-interes/)"
+  description = "[Online resources](enlaces-interes/#recursos-online) | [Friend pages](enlaces-interes/#paginas-amigas)"
   
 [[feature]]
   icon = "[🗞️](#novedades)"
   icon_pack = "emoji"
-  name = "[Novedades](#novedades)"
+  name = "[News](#novedades)"
   description = "🐦 [Twitter](#novedades) | 💬 [Blog](/post)"
   
 [[feature]]
   icon = "[:man_scientist:](sobre-mi/)‍"
   icon_pack = "emoji"
-  name = "[Sobre mí](sobre-mi/)"
-  description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias-investigacion)"
+  name = "[About me](sobre-mi/)"
+  description = "👣 [Career path](sobre-mi/#trayectoria-profesional) <br> ✈️ [Research stays](sobre-mi/#estancias-investigacion)"
   
 [design.background]
   # Apply a background color, gradient, or image.
