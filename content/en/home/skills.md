@@ -15,40 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📚](notes/)"
+  icon = "[📚](apuntes/)"
   icon_pack = "emoji"
-  name = "[Physics and Chemistry notes](notes/)"
-  description = "[2nd grade](notes/#second-grade) | [3rd grade](notes/#third-grade) | [4th grade](notes/#fourth-grade) <br> [1st Bach](notes/#first-bach) | [2nd Bach Physics](notes/#second-bach-physics) | [2nd Bach Chemistry](notes/#second-bach-chemistry)"
+  name = "[Apuntes de Física y Química](apuntes/)"
+  description = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) <br> [1º Bach](apuntes/#primero-bach) | [2º Bach Física](apuntes/#segundo-bach-fisica) | [2º Bach Química](apuntes/#segundo-bach-quimica)"
   
 [[feature]]
-  icon = "[🎓](ebau-resources/)"
+  icon = "[🎓](recursos-ebau/)"
   icon_pack = "emoji"
-  name = "[EBAU resources](ebau-resources/)"
-  description = "☢️ [Physics](ebau-resources/#physics-exams) | ⚗️ [Chemistry](ebau-resources/#chemistry-exams) <br> 💡[Tips](ebau-resources/#tips)"
+  name = "[Recursos EBAU](recursos-ebau/)"
+  description = "☢️ [Física](recursos-ebau/#examenes-fisica) | ⚗️ [Química](recursos-ebau/#examenes-quimica) <br> 💡[Consejos](recursos-ebau/#consejos)"
   
 [[feature]]
-  icon = "[👐](tutorials/)"
+  icon = "[👐](tutoriales/)"
   icon_pack = "emoji"
-  name = "[Tutorials](tutorials/)"
-  description = "[$\\LaTeX$](tutorials/latex) | [Presentation of information](tutorials/presentation-information)"
+  name = "[Tutoriales](tutoriales/)"
+  description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
   
 [[feature]]
-  icon = "[🔗](links-interest/)"
+  icon = "[🔗](enlaces-interes/)"
   icon_pack = "emoji"
-  name = "[Links of interest](links-interest/)"
-  description = "[Online resources](links-interest/#online-resources) | [Friend pages](links-interest/#friend-pages)"
+  name = "[Enlaces de interés](enlaces-interes/)"
+  description = "[Recursos online](enlaces-interes/#recursos-online) | [Páginas amigas](enlaces-interes/#paginas-amigas)"
   
 [[feature]]
-  icon = "[🗞️](#news)"
+  icon = "[🗞️](#novedades)"
   icon_pack = "emoji"
-  name = "[News](#news)"
-  description = "🐦 [Twitter](#news) | 💬 [Blog](/post)"
+  name = "[Novedades](#novedades)"
+  description = "🐦 [Twitter](#novedades) | 💬 [Blog](/post)"
   
 [[feature]]
-  icon = "[:man_scientist:](about-me/)‍"
+  icon = "[:man_scientist:](sobre-mi/)‍"
   icon_pack = "emoji"
-  name = "[About me](about-me/)"
-  description = "👣 [Career path](about-me/#career) <br> ✈️ [Research stays](about-me/#stays)"
+  name = "[Sobre mí](sobre-mi/)"
+  description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias-investigacion)"
   
 [design.background]
   # Apply a background color, gradient, or image.
