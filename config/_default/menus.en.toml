@@ -10,7 +10,7 @@
   weight = 1
   
 [[main]]
-  name = "2º ESO"
+  name = "2nd grade"
   url = "notes/#second-grade"
   parent = "notes"
   weight = 1
