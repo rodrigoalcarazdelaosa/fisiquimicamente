@@ -16,13 +16,13 @@
   weight = 1
 
 [[main]]
-  name = "3º ESO"
+  name = "3rd grade"
   url = "notes/#third-grade"
   parent = "notes"
   weight = 2
 
 [[main]]
-  name = "4º ESO"
+  name = "4th grade"
   url = "notes/#fourth-grade"
   parent = "notes"
   weight = 3
