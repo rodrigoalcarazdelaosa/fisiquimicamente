@@ -30,8 +30,8 @@ subtitle = "Chemistry"
     tag = "acid-base"	
 	
   [[content.filter_button]]
-    name = "Chemical bonding"
-    tag = "chemical-bonding"
+    name = "Chemical bond"
+    tag = "chemical-bond"
 	
   [[content.filter_button]]
     name = "Chemical equilibrium"
