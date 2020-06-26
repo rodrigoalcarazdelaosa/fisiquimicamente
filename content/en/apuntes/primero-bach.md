@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "1st Bach"
+title = "Year 12"
 subtitle = ""
 
 [content]
@@ -22,28 +22,28 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todos"
+    name = "All"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Energía"
-    tag = "energía"			
+    name = "Energy"
+    tag = "energy"			
 
   [[content.filter_button]]
-    name = "Fuerzas"
-    tag = "fuerzas"			
+    name = "Forces"
+    tag = "forces"			
 	
   [[content.filter_button]]
-    name = "Gravitación"
-    tag = "gravitación"				
+    name = "Gravitation"
+    tag = "gravitation"				
 
   [[content.filter_button]]
-    name = "Movimiento"
-    tag = "movimiento"				
+    name = "Motion"
+    tag = "motion"				
 	
   [[content.filter_button]]
-    name = "Reacciones químicas"
-    tag = "reacciones-químicas"					
+    name = "Chemical reactions"
+    tag = "chemical-reactions"					
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
