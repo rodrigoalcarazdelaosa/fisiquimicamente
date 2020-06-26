@@ -13,6 +13,7 @@
   title = "Physchemically with Rodri"
   [en.params]
   	description = "Physics and Chemistry resources, tutorials and current science"
+	address = {region = "Cantabria", country = "Spain", country_code = "ES"}
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
