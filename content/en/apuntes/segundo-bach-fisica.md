@@ -26,7 +26,7 @@ subtitle = "Physics"
     tag = "*"
 	
   [[content.filter_button]]
-    name = "20th century Physics"
+    name = "20th century physics"
     tag = "20th-century-physics"
 	
   [[content.filter_button]]
