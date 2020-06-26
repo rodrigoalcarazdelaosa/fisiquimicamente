@@ -1,0 +1,136 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "📚 Notes"
+  url = "apuntes/"
+  identifier = "apuntes"
+  weight = 1
+  
+[[main]]
+  name = "2º ESO"
+  url = "apuntes/#segundo-eso"
+  parent = "apuntes"
+  weight = 1
+
+[[main]]
+  name = "3º ESO"
+  url = "apuntes/#tercero-eso"
+  parent = "apuntes"
+  weight = 2
+
+[[main]]
+  name = "4º ESO"
+  url = "apuntes/#cuarto-eso"
+  parent = "apuntes"
+  weight = 3
+
+[[main]]
+  name = "1º Bach"
+  url = "apuntes/#primero-bach"
+  parent = "apuntes"
+  weight = 4
+
+[[main]]
+  name = "2º Bach Physics"
+  url = "apuntes/#segundo-bach-fisica"
+  parent = "apuntes"
+  weight = 5
+  
+[[main]]
+  name = "2º Bach Chemistry"
+  url = "apuntes/#segundo-bach-quimica"
+  parent = "apuntes"
+  weight = 6  
+
+[[main]]
+  name = "👐 Tutorials"
+  url = "tutoriales/"  
+  identifier = "tutoriales"
+  weight = 2
+  
+[[main]]
+  name = "$\\LaTeX$"
+  parent = "tutoriales"
+  url = "tutoriales/latex"
+  weight = 1
+  
+[[main]]
+  name = "Presentation of information"
+  parent = "tutoriales"
+  url = "tutoriales/presentacion-informacion"
+  weight = 2    
+
+[[main]]
+  name = "🔗 Links of interest"
+  url = "enlaces-interes/"  
+  identifier = "enlaces-interes"
+  weight = 3
+  
+[[main]]
+  name = "Online resources"
+  url = "enlaces-interes/#recursos-online"
+  parent = "enlaces-interes"
+  weight = 1
+  
+[[main]]
+  name = "Friend pages"
+  url = "enlaces-interes/#paginas-amigas"
+  parent = "enlaces-interes"
+  weight = 2
+
+[[main]]
+  name = "🗞️ News"
+  url = "#novedades"
+  identifier = "novedades"
+  weight = 4
+
+[[main]]
+  name = "🐦 Twitter"
+  url = "#novedades"
+  parent = "novedades"
+  weight = 1  
+  
+[[main]]
+  name = "💬 Blog"
+  url = "/post"
+  parent = "novedades"
+  weight = 2    
+
+[[main]]
+  name = "👨‍🔬 About me"
+  url = "sobre-mi/"
+  identifier = "sobre-mi"
+  weight = 5
+  
+[[main]]
+  name = "👨‍🔬 Interests and education"
+  url = "sobre-mi/"
+  parent = "sobre-mi"
+  weight = 1
+
+[[main]]
+  name = "👣 Career path"
+  url = "sobre-mi/#trayectoria"
+  parent = "sobre-mi"
+  weight = 2  
+  
+[[main]]
+  name = "✈️ Research stays"
+  url = "sobre-mi/#estancias"
+  parent = "sobre-mi"
+  weight = 3    
+
+[[main]]
+  name = "✉️ Contact"
+  url = "#contacto"
+  weight = 6
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
