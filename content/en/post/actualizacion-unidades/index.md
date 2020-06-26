@@ -15,7 +15,7 @@ image:
 links:
 - icon_pack: fas
   icon: download
-  name: PDF BOE
+  name: BOE PDF
   url: https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf
   
 - icon_pack: fas
