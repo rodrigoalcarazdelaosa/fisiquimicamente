@@ -53,4 +53,4 @@ hero_media = ""
 
 **In text, slides and poster format**
 
-[2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) <br> [1º Bach](#primero-bach) | [2º Bach Física](#segundo-bach-fisica) | [2º Bach Química](#segundo-bach-quimica)
+[2nd Grade](#segundo-eso) | [3rd Grade](#tercero-eso) | [4th Grade](#cuarto-eso) <br> [1st Bach](#primero-bach) | [2nd Bach Physics](#segundo-bach-fisica) | [2nd Bach Chemistry](#segundo-bach-quimica)
