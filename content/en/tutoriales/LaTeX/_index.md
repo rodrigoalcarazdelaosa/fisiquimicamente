@@ -19,7 +19,7 @@ menu:
     weight: 1
 ---
 
-## [Curso básico]({{< ref "/tutoriales/latex/curso-basico.md" >}})
+## [Learn LaTeX in 30 minutes]({{< ref "/tutoriales/latex/curso-basico.md" >}})
 
 ## [Presentaciones con beamer]({{< ref "/tutoriales/latex/beamer.md" >}})
 
