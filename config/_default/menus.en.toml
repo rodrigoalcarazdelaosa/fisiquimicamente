@@ -5,151 +5,151 @@
 
 [[main]]
   name = "📚 Notes"
-  url = "notes/"
-  identifier = "notes"
+  url = "apuntes/"
+  identifier = "apuntes"
   weight = 1
   
 [[main]]
   name = "2nd grade"
-  url = "notes/#second-grade"
-  parent = "notes"
+  url = "apuntes/#segundo-eso"
+  parent = "apuntes"
   weight = 1
 
 [[main]]
   name = "3rd grade"
-  url = "notes/#third-grade"
-  parent = "notes"
+  url = "apuntes/#tercero-eso"
+  parent = "apuntes"
   weight = 2
 
 [[main]]
   name = "4th grade"
-  url = "notes/#fourth-grade"
-  parent = "notes"
+  url = "apuntes/#cuarto-eso"
+  parent = "apuntes"
   weight = 3
 
 [[main]]
   name = "1st Bach"
-  url = "notes/#first-bach"
-  parent = "notes"
+  url = "apuntes/#primero-bach"
+  parent = "apuntes"
   weight = 4
 
 [[main]]
   name = "2nd Bach Physics"
-  url = "notes/#second-bach-physics"
-  parent = "notes"
+  url = "apuntes/#segundo-bach-fisica"
+  parent = "apuntes"
   weight = 5
   
 [[main]]
   name = "2nd Bach Chemistry"
-  url = "notes/#second-bach-chemistry"
-  parent = "notes"
+  url = "apuntes/#segundo-bach-quimica"
+  parent = "apuntes"
   weight = 6  
   
 [[main]]
   name = "🎓 EBAU resources"
-  url = "ebau-resources/"
-  identifier = "ebau-resources"
+  url = "recursos-ebau/"
+  identifier = "recursos-ebau"
   weight = 2
   
 [[main]]
   name = "☢️ Physics"
-  url = "ebau-resources/#physics-exams"
-  parent = "ebau-resources"
+  url = "recursos-ebau/#examenes-fisica"
+  parent = "recursos-ebau"
   weight = 1
   
 [[main]]
   name = "⚗️ Chemistry"
-  url = "ebau-resources/#chemistry-exams"
-  parent = "ebau-resources"
+  url = "recursos-ebau/#examenes-quimica"
+  parent = "recursos-ebau"
   weight = 2  
   
 [[main]]
   name = "💡 Tips"
-  url = "ebau-resources/#tips"
-  parent = "ebau-resources"
+  url = "recursos-ebau/#consejos"
+  parent = "recursos-ebau"
   weight = 3  
 
 [[main]]
   name = "👐 Tutorials"
-  url = "tutorials/"  
-  identifier = "tutorials"
+  url = "tutoriales/"
+  identifier = "tutoriales"
   weight = 3
   
 [[main]]
   name = "$\\LaTeX$"
-  parent = "tutorials"
-  url = "tutorials/latex"
+  parent = "tutoriales"
+  url = "tutoriales/latex"
   weight = 1
   
 [[main]]
   name = "Presentation of information"
-  parent = "tutorials"
-  url = "tutorials/presentation-information"
+  parent = "tutoriales"
+  url = "tutoriales/presentacion-informacion"
   weight = 2    
 
 [[main]]
   name = "🔗 Links of interest"
-  url = "links-interest/"  
-  identifier = "links-interest"
+  url = "enlaces-interes/"  
+  identifier = "enlaces-interes"
   weight = 4
   
 [[main]]
   name = "Online resources"
-  url = "links-interest/#online-resources"
-  parent = "links-interest"
+  url = "enlaces-interes/#recursos-online"
+  parent = "enlaces-interes"
   weight = 1
   
 [[main]]
   name = "Friend pages"
-  url = "links-interest/#friend-pages"
-  parent = "links-interest"
+  url = "enlaces-interes/#paginas-amigas"
+  parent = "enlaces-interes"
   weight = 2
 
 [[main]]
   name = "🗞️ News"
-  url = "#news"
-  identifier = "news"
+  url = "#novedades"
+  identifier = "novedades"
   weight = 5
 
 [[main]]
   name = "🐦 Twitter"
-  url = "#news"
-  parent = "news"
+  url = "#novedades"
+  parent = "novedades"
   weight = 1  
   
 [[main]]
   name = "💬 Blog"
   url = "/post"
-  parent = "news"
+  parent = "novedades"
   weight = 2    
 
 [[main]]
   name = "👨‍🔬 About me"
-  url = "about-me/"
-  identifier = "about-me"
+  url = "sobre-mi/"
+  identifier = "sobre-mi"
   weight = 6
   
 [[main]]
   name = "👨‍🔬 Interests and education"
-  url = "about-me/"
-  parent = "about-me"
+  url = "sobre-mi/"
+  parent = "sobre-mi"
   weight = 1
 
 [[main]]
   name = "👣 Career path"
-  url = "about-me/#career-path"
-  parent = "about-me"
+  url = "sobre-mi/#trayectoria-profesional"
+  parent = "sobre-mi"
   weight = 2  
   
 [[main]]
   name = "✈️ Research stays"
-  url = "about-me/#research-stays"
-  parent = "about-me"
+  url = "sobre-mi/#estancias-investigacion"
+  parent = "sobre-mi"
   weight = 3    
 
 [[main]]
   name = "✉️ Contact"
-  url = "#contact"
+  url = "#contacto"
   weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
