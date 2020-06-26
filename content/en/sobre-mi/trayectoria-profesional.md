@@ -28,10 +28,10 @@ date_format = "2006"
   """
 
 [[experience]]
-  title = "Investigador de Proyectos"
-  company = "Universidad de Cantabria"
+  title = "Project Researcher"
+  company = "University of Cantabria"
   company_url = "https://web.unican.es"
-  location = "Santander, Cantabria (España)"
+  location = "Santander, Cantabria (Spain)"
   date_start = "2013-01-01"
   date_end = "2018-12-31"
   description = """
