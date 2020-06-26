@@ -18,7 +18,7 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Profesor de Física y Química"
+  title = "Physics and Chemistry Teacher"
   company = "IES Ría San Martín"
   company_url = "http://portaleducativo.educantabria.es/web/iesriasanmartin"
   location = "Suances, Cantabria (España)"
