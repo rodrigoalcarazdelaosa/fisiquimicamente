@@ -59,5 +59,5 @@ subtitle = "Thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) an
 +++
 
 {{% alert note %}}
-Accede [aquí](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) a la última información.
+Access [here](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) to the latest information.
 {{% /alert %}}
