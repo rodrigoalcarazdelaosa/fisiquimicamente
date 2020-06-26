@@ -26,8 +26,8 @@ subtitle = "Physics"
     tag = "*"
 	
   [[content.filter_button]]
-    name = "Física del s. XX"
-    tag = "física-s-XX"
+    name = "20th century Physics"
+    tag = "20th-century-physics"
 	
   [[content.filter_button]]
     name = "Electromagnetic interaction"
