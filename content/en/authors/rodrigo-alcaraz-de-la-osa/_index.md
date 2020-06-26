@@ -23,7 +23,7 @@ bio: I teach Physics and Chemistry at [IES Ría San Martín](http://portaleducat
 interests:
 - ✈️ Travel
 - 🎸 Music
-- 🎮 Videogames
+- 🎮 Video games
 - ⚛️ _Photons_
 
 education:
@@ -66,4 +66,4 @@ email: "rodri.alcaraz@gmail.com"
 user_groups:
 ---
 
-Welcome to [Physchemically with Rodri]({{< ref "/" >}})! Here you can find 📚 Physics and Chemistry [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/notes" >}}) and 🎓 [<span style="font-variant:small-caps;">**EBAU resources**</span>]({{< ref "/ebau-resources" >}}), as well as 👐 [<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutorials" >}}), 🔗 [<span style="font-variant:small-caps;">**links of interest**</span>]({{< ref "/links-interest" >}}) or posts in my 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
+¡Bienvenido/a a [Físquicamente con Rodri]({{< ref "/" >}})! Aquí puedes encontrar 📚 [<span style="font-variant:small-caps;">**apuntes de Física y Química**</span>]({{< ref "/apuntes" >}}) y 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}}), así como diversos 👐 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) o entradas en mi 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
