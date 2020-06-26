@@ -27,7 +27,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Color"
-    tag = "color"		
+    tag = "color"
+	
+  [[content.filter_button]]
+    name = "Recursos"
+    tag = "recursos"
 
   [[content.filter_button]]
     name = "Simulaciones"
