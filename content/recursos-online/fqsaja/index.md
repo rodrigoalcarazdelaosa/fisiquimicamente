@@ -2,6 +2,7 @@
 title: fqsaja
 summary: Departamento de Física y Química IES Valle del Saja.
 tags:
+- fyq
 categories:
 - Física
 - química
