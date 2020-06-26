@@ -18,13 +18,13 @@ subtitle = ""
   icon = "[📚](notes/)"
   icon_pack = "emoji"
   name = "[Physics and Chemistry notes](notes/)"
-  description = "[2º ESO](notes/#segundo-eso) | [3º ESO](notes/#tercero-eso) | [4º ESO](notes/#cuarto-eso) <br> [1º Bach](notes/#primero-bach) | [2º Bach Física](notes/#segundo-bach-fisica) | [2º Bach Química](notes/#segundo-bach-quimica)"
+  description = "[2nd grade](notes/#second-grade) | [3rd grade](notes/#third-grade) | [4th grade](notes/#fourth-grade) <br> [1st Bach](notes/#first-bach) | [2nd Bach Physics](notes/#second-bach-physics) | [2nd Bach Chemistry](notes/#second-bach-chemistry)"
   
 [[feature]]
-  icon = "[🎓](recursos-ebau/)"
+  icon = "[🎓](ebau-resources/)"
   icon_pack = "emoji"
-  name = "[Recursos EBAU](recursos-ebau/)"
-  description = "☢️ [Física](recursos-ebau/#examenes-fisica) | ⚗️ [Química](recursos-ebau/#examenes-quimica) <br> 💡[Consejos](recursos-ebau/#consejos)"
+  name = "[EBAU resources](ebau-resources/)"
+  description = "☢️ [Physics](ebau-resources/#physics-exams) | ⚗️ [Chemistry](ebau-resources/#chemistry-exams) <br> 💡[Tips](ebau-resources/#tips)"
   
 [[feature]]
   icon = "[👐](tutoriales/)"
