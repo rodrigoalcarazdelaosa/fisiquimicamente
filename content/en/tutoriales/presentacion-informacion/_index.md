@@ -19,7 +19,7 @@ menu:
     weight: 1
 ---
 
-En este tutorial aprenderás cómo presentar información correctamente.
+In this tutorial you will learn how to correctly present information.
 
 {{% alert note %}}
 Coming soon...
