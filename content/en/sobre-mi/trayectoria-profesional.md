@@ -42,13 +42,13 @@ date_format = "2006"
   """
   
 [[experience]]
-  title = "Investigador Contratado"
-  company = "Universidad de Cantabria"
+  title = "Researcher"
+  company = "University of Cantabria"
   company_url = "https://web.unican.es"
-  location = "Santander, Cantabria (España)"
+  location = "Santander, Cantabria (Spain)"
   date_start = "2011-01-01"
   date_end = "2013-12-31"
-  description = "Desarrollo de mi [Tesis Doctoral](http://hdl.handle.net/10902/2782)."
+  description = "Development of my [Doctoral Thesis](http://hdl.handle.net/10902/2782)."
   
 [design.background]
   # Apply a background color, gradient, or image.
