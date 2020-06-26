@@ -38,7 +38,7 @@ hero_media = ""
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "enlaces-interes/#recursos-online"
-  label = "Comienza a explorar"
+  label = "Start exploring"
   icon_pack = "fas"
   icon = "chevron-circle-down"
   
