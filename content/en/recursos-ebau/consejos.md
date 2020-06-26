@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## Antes de
+## Before
 
 - 📖 **Elabora** un **plan** de **estudio** que te permita revisar todos los contenidos.
 - 📝 **Repasa** por **temas** primero y con **exámenes** completos después, **cronometrando** tu tiempo.
@@ -59,7 +59,7 @@ subtitle = ""
 - 🍊 **Comienza** el **día** con un **desayuno saludable**.
 - 🙃 **No olvides** tu **carné** de identidad, dos **bolis** y *dos* **calculadoras**.
 
-## Durante
+## During
 
 - 🤲 **Lee** bien los **enunciados** y tómate tu tiempo en **elegir** la **opción** más adecuada.
 - 🙋 **Aclara** todas las **dudas** que te surjan.
@@ -69,7 +69,7 @@ subtitle = ""
 - 🤔 **Comprueba** que tus **resultados** son **coherentes** en el momento de obtenerlos y al final del examen si te sobra tiempo.
 - 🦸 **Recuerda** que **eres** un/a **máquina**.
 
-## Después de
+## After
 
 - 💆 **Relájate** y descansa.
 - 🧐 No vuelvas sobre el examen que acabas de hacer, **concéntrate** en el **siguiente**.
