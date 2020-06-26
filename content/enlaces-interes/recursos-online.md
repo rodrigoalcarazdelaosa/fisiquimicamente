@@ -30,7 +30,7 @@ subtitle = ""
     tag = "color"
 	
   [[content.filter_button]]
-    name = "Recursos"
+    name = "FyQ"
     tag = "recursos"
 
   [[content.filter_button]]
