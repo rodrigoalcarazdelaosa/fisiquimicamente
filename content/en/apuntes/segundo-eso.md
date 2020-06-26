@@ -26,36 +26,36 @@ subtitle = ""
     tag = "Year 9"	
 	
   [[content.filter_button]]
-    name = "Actividad científica"
-    tag = "actividad-científica"	
+    name = "Scientific activity"
+    tag = "scientific-activity"	
 	
   [[content.filter_button]]
-    name = "Energía"
-    tag = "energía"
+    name = "Energy"
+    tag = "energy"
 	
   [[content.filter_button]]
-    name = "Electricidad-electrónica"
-    tag = "electricidad-electrónica"		
+    name = "Electricity-electronics"
+    tag = "electricity-electronics"		
 	
   [[content.filter_button]]
-    name = "Estructura atómica"
-    tag = "estructura-atómica"
+    name = "Atomic structure"
+    tag = "atomic-structure"
 	
   [[content.filter_button]]
-    name = "Fuerzas"
-    tag = "fuerzas"	
+    name = "Forces"
+    tag = "forces"	
 	
   [[content.filter_button]]
-    name = "Materia"
-    tag = "materia"
+    name = "Matter"
+    tag = "matter"
 	
   [[content.filter_button]]
-    name = "Movimiento"
-    tag = "movimiento"
+    name = "Motion"
+    tag = "motion"
 	
   [[content.filter_button]]
-    name = "Reacciones químicas"
-    tag = "reacciones-químicas"	
+    name = "Chemical reactions"
+    tag = "chemical-reactions"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
