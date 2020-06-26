@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📚](apuntes/)"
+  icon = "[📚](notes/)"
   icon_pack = "emoji"
-  name = "[Apuntes de Física y Química](apuntes/)"
-  description = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) <br> [1º Bach](apuntes/#primero-bach) | [2º Bach Física](apuntes/#segundo-bach-fisica) | [2º Bach Química](apuntes/#segundo-bach-quimica)"
+  name = "[Physics and Chemistry notes](notes/)"
+  description = "[2º ESO](notes/#segundo-eso) | [3º ESO](notes/#tercero-eso) | [4º ESO](notes/#cuarto-eso) <br> [1º Bach](notes/#primero-bach) | [2º Bach Física](notes/#segundo-bach-fisica) | [2º Bach Química](notes/#segundo-bach-quimica)"
   
 [[feature]]
   icon = "[🎓](recursos-ebau/)"
