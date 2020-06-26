@@ -1,7 +1,7 @@
 ---
-title: Actualización de unidades de base del SI
-subtitle: Ahora todas definidas en función de constantes físicas universales 
-summary: Ahora todas definidas en función de constantes físicas universales.
+title: Updating SI base units
+subtitle: Now all defined as a function of universal physical constants
+summary: Now all defined as a function of universal physical constants.
 date: "2020-04-30T00:00:00Z"
 tags:
 - scientific-activity
