@@ -31,7 +31,7 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "FyQ"
-    tag = "recursos"
+    tag = "fyq"
 
   [[content.filter_button]]
     name = "Simulaciones"
