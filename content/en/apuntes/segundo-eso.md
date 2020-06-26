@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "2nd Grade"
+title = "Year 9"
 subtitle = ""
 
 [content]
@@ -22,8 +22,8 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todos"
-    tag = "2º ESO"	
+    name = "All"
+    tag = "Year 9"	
 	
   [[content.filter_button]]
     name = "Actividad científica"
