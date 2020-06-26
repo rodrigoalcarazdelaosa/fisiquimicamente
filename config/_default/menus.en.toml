@@ -44,12 +44,36 @@
   url = "apuntes/#segundo-bach-quimica"
   parent = "apuntes"
   weight = 6  
+  
+[[main]]
+  name = "🎓 Recursos EBAU"
+  url = "recursos-ebau/"
+  identifier = "recursos-ebau"
+  weight = 2
+  
+[[main]]
+  name = "☢️ Física"
+  url = "recursos-ebau/#examenes-fisica"
+  parent = "recursos-ebau"
+  weight = 1
+  
+[[main]]
+  name = "⚗️ Química"
+  url = "recursos-ebau/#examenes-quimica"
+  parent = "recursos-ebau"
+  weight = 2  
+  
+[[main]]
+  name = "💡 Consejos"
+  url = "recursos-ebau/#consejos"
+  parent = "recursos-ebau"
+  weight = 3  
 
 [[main]]
   name = "👐 Tutorials"
   url = "tutoriales/"  
   identifier = "tutoriales"
-  weight = 2
+  weight = 3
   
 [[main]]
   name = "$\\LaTeX$"
@@ -67,7 +91,7 @@
   name = "🔗 Links of interest"
   url = "enlaces-interes/"  
   identifier = "enlaces-interes"
-  weight = 3
+  weight = 4
   
 [[main]]
   name = "Online resources"
@@ -85,7 +109,7 @@
   name = "🗞️ News"
   url = "#novedades"
   identifier = "novedades"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "🐦 Twitter"
@@ -103,7 +127,7 @@
   name = "👨‍🔬 About me"
   url = "sobre-mi/"
   identifier = "sobre-mi"
-  weight = 5
+  weight = 6
   
 [[main]]
   name = "👨‍🔬 Interests and education"
@@ -126,7 +150,7 @@
 [[main]]
   name = "✉️ Contact"
   url = "#contacto"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
