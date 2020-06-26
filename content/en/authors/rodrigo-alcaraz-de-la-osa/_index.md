@@ -28,17 +28,17 @@ interests:
 
 education:
   courses:
-  - course: Máster en Formación del Profesorado
+  - course: Master's Degree in Teacher Training
     institution: UNED
     year: 2017
-  - course: Doctor en Física
-    institution: Universidad de Cantabria
+  - course: PhD in Physics
+    institution: University of Cantabria
     year: 2013
-  - course: Máster en Física y Tecnología Física
-    institution: Universidad de Cantabria
+  - course: Master in Physics and Physical Technology
+    institution: University of Cantabria
     year: 2009
-  - course: Licenciado en Física
-    institution: Universidad de Cantabria | Erasmus en la Freie Universität Berlin
+  - course: Degree in Physics
+    institution: University of Cantabria | Erasmus at the Freie Universität Berlin
     year: 2008
 
 # Social/Academic Networking
