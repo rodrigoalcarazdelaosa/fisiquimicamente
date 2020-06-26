@@ -2,6 +2,7 @@
 title: FisQuiWeb
 summary: Espacio web dedicado a la enseñanza de la Física y la Química.
 tags:
+- fyq
 categories:
 - Física
 - Química
