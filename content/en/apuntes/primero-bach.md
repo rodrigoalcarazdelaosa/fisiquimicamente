@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
-title = "Year 12"
+title = "16-17 years"
 subtitle = ""
 
 [content]
@@ -24,10 +24,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
+	
   [[content.filter_button]]
-    name = "Energy"
-    tag = "energy"			
+    name = "Chemical reactions"
+    tag = "chemical-reactions"		  	
+	
+  [[content.filter_button]]
+    name = "Motion"
+    tag = "motion"			
 
   [[content.filter_button]]
     name = "Forces"
@@ -35,15 +39,11 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Gravitation"
-    tag = "gravitation"				
-
-  [[content.filter_button]]
-    name = "Motion"
-    tag = "motion"				
+    tag = "gravitation"		
 	
   [[content.filter_button]]
-    name = "Chemical reactions"
-    tag = "chemical-reactions"					
+    name = "Energy"
+    tag = "energy"												
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
