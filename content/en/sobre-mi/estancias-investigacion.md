@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "With Dr. Andreas Berger"
   company = "CIC nanoGUNE"
-  company_url = "https://www.nanogune.eu/es"
+  company_url = "https://www.nanogune.eu"
   location = "San Sebastián, Basque Country (Spain)"
   date_start = "2010-09-01"
   date_end = "2010-11-01"
