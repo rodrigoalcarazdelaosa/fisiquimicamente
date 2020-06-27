@@ -91,19 +91,7 @@
   name = "🔗 Links of interest"
   url = "enlaces-interes/"  
   identifier = "enlaces-interes"
-  weight = 4
-  
-[[main]]
-  name = "Online resources"
-  url = "enlaces-interes/#recursos-online"
-  parent = "enlaces-interes"
-  weight = 1
-  
-[[main]]
-  name = "Friend pages"
-  url = "enlaces-interes/#paginas-amigas"
-  parent = "enlaces-interes"
-  weight = 2
+  weight = 4  
 
 [[main]]
   name = "🗞️ News"
