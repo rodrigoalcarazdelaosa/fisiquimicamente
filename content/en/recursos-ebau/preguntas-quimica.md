@@ -23,11 +23,7 @@ subtitle = "🗂️ By topic"
   
   [[content.filter_button]]
     name = "All"
-    tag = "*"
-	
-  [[content.filter_button]]
-    name = "Acid-base"
-    tag = "acid-base"
+    tag = "*"	
 	
   [[content.filter_button]]
     name = "Chemical bond"
@@ -35,15 +31,19 @@ subtitle = "🗂️ By topic"
 	
   [[content.filter_button]]
     name = "Chemical equilibrium"
-    tag = "chemical-equilibrium"			
+    tag = "chemical-equilibrium"
 	
   [[content.filter_button]]
-    name = "Organic chemistry"
-    tag = "organic-chemistry"	
+    name = "Acid-base"
+    tag = "acid-base"					
 	
   [[content.filter_button]]
     name = "Redox"
     tag = "redox"	
+	
+  [[content.filter_button]]
+    name = "Organic chemistry"
+    tag = "organic-chemistry"		
 	
   [[content.filter_button]]
     name = "Thermochemistry"
