@@ -27,11 +27,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Color"
-    tag = "color"
-	
-  [[content.filter_button]]
-    name = "PaC"
-    tag = "pac"
+    tag = "color"	
 
   [[content.filter_button]]
     name = "Simulations"
