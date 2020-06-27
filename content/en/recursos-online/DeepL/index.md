@@ -2,7 +2,7 @@
 title: DeepL
 summary: Traductor basado en inteligencia artificial.
 tags:
-- TRANSLATOR
+- translator
 categories: 
 
 # Optional external URL for project (replaces project detail page).
