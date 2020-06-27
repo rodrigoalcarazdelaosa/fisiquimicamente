@@ -30,12 +30,12 @@ subtitle = ""
     tag = "color"
 	
   [[content.filter_button]]
-    name = "FyQ"
-    tag = "fyq"
+    name = "PaC"
+    tag = "pac"
 
   [[content.filter_button]]
-    name = "Simulaciones"
-    tag = "simulaciones"	
+    name = "Simulations"
+    tag = "simulations"	
 	
   [[content.filter_button]]
     name = "Sociedades"
