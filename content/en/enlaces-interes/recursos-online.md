@@ -35,11 +35,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Simulations"
-    tag = "simulations"	
-	
-  [[content.filter_button]]
-    name = "Societies"
-    tag = "societies"	
+    tag = "simulations"		
 	
   [[content.filter_button]]
     name = "Translator"
