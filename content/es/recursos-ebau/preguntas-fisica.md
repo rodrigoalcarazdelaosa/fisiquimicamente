@@ -23,19 +23,15 @@ subtitle = "🗂️ Por temas"
   
   [[content.filter_button]]
     name = "Todas"
-    tag = "*"	
-	
-  [[content.filter_button]]
-    name = "Física del s. XX"
-    tag = "física-s-XX"
-	
-  [[content.filter_button]]
-    name = "Interacción electromagnética"
-    tag = "electromagnetismo"
+    tag = "*"		
 	
   [[content.filter_button]]
     name = "Interacción gravitatoria"
-    tag = "gravitación"
+    tag = "gravitación"	
+	
+  [[content.filter_button]]
+    name = "Interacción electromagnética"
+    tag = "electromagnetismo"	
 	
   [[content.filter_button]]
     name = "Ondas"
@@ -44,6 +40,10 @@ subtitle = "🗂️ Por temas"
   [[content.filter_button]]
     name = "Óptica geométrica"
     tag = "óptica-geométrica"	
+	
+  [[content.filter_button]]
+    name = "Física del s. XX"
+    tag = "física-s-XX"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
