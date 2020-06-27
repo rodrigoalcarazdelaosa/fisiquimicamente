@@ -1,6 +1,6 @@
 ---
 title: The Periodic Table of Videos
-summary: Serie de vídeos acerca de elementos químicos y de la Tabla Periódica de los elementos.
+summary: Short videos about every element on the periodic table, plus other cool experiments and chemistry stuff.
 tags:
 - periodic-table
 categories: 
