@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Color"
     tag = "color"	
+	
+  [[content.filter_button]]
+    name = "Periodic Table"
+    tag = "periodic-table"	
 
   [[content.filter_button]]
     name = "Simulations"
@@ -35,11 +39,7 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Societies"
-    tag = "societies"
-	
-  [[content.filter_button]]
-    name = "Periodic Table"
-    tag = "periodic-table"
+    tag = "societies"	
 	
   [[content.filter_button]]
     name = "Translator"
