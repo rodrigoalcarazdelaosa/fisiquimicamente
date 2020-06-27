@@ -22,32 +22,32 @@ subtitle = "🗂️ By topic"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todas"
+    name = "All"
     tag = "*"
 	
   [[content.filter_button]]
-    name = "Ácido-base"
-    tag = "ácido-base"
+    name = "Acid-base"
+    tag = "acid-base"
 	
   [[content.filter_button]]
-    name = "Enlace químico"
-    tag = "enlace-químico"
+    name = "Chemical bond"
+    tag = "chemical-bond"
 	
   [[content.filter_button]]
-    name = "Equilibrio químico"
-    tag = "equilibrio-químico"	
+    name = "Chemical equilibrium"
+    tag = "chemical-equilibrium"			
 	
   [[content.filter_button]]
-    name = "Química orgánica"
-    tag = "química-orgánica"	
+    name = "Organic chemistry"
+    tag = "organic-chemistry"	
 	
   [[content.filter_button]]
-    name = "Rédox"
-    tag = "rédox"
+    name = "Redox"
+    tag = "redox"	
 	
   [[content.filter_button]]
-    name = "Termoquímica"
-    tag = "termoquímica"	
+    name = "Thermochemistry"
+    tag = "thermochemistry"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
