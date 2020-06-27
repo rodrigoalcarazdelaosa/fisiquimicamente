@@ -26,24 +26,24 @@ subtitle = "Física"
     tag = "*"
 	
   [[content.filter_button]]
-    name = "Física del s. XX"
-    tag = "física-s-XX"
+    name = "Interacción gravitatoria"
+    tag = "gravitación"	
 	
   [[content.filter_button]]
     name = "Interacción electromagnética"
-    tag = "electromagnetismo"
-	
-  [[content.filter_button]]
-    name = "Interacción gravitatoria"
-    tag = "gravitación"
+    tag = "electromagnetismo"		
 	
   [[content.filter_button]]
     name = "Ondas"
-    tag = "ondas"							
+    tag = "ondas"								
 	
   [[content.filter_button]]
     name = "Óptica geométrica"
     tag = "óptica-geométrica"		
+	
+  [[content.filter_button]]
+    name = "Física del s. XX"
+    tag = "física-s-XX"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

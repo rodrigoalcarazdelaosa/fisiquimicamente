@@ -10,37 +10,37 @@
   weight = 1
   
 [[main]]
-  name = "2nd grade"
+  name = "13-14 years"
   url = "apuntes/#segundo-eso"
   parent = "apuntes"
   weight = 1
 
 [[main]]
-  name = "3rd grade"
+  name = "14-15 years"
   url = "apuntes/#tercero-eso"
   parent = "apuntes"
   weight = 2
 
 [[main]]
-  name = "4th grade"
+  name = "15-16 years"
   url = "apuntes/#cuarto-eso"
   parent = "apuntes"
   weight = 3
 
 [[main]]
-  name = "1st Bach"
+  name = "16-17 years"
   url = "apuntes/#primero-bach"
   parent = "apuntes"
   weight = 4
 
 [[main]]
-  name = "2nd Bach Physics"
+  name = "17-18 years Physics"
   url = "apuntes/#segundo-bach-fisica"
   parent = "apuntes"
   weight = 5
   
 [[main]]
-  name = "2nd Bach Chemistry"
+  name = "17-18 years Chemistry"
   url = "apuntes/#segundo-bach-quimica"
   parent = "apuntes"
   weight = 6  

@@ -18,7 +18,7 @@ subtitle = ""
   icon = "[📚](apuntes/)"
   icon_pack = "emoji"
   name = "[Physics and Chemistry notes](apuntes/)"
-  description = "[2nd Grade](apuntes/#segundo-eso) | [3rd Grade](apuntes/#tercero-eso) | [4th Grade](apuntes/#cuarto-eso) <br> [1st Bach](apuntes/#primero-bach) | [2nd Bach Physics](apuntes/#segundo-bach-fisica) | [2nd Bach Chemistry](apuntes/#segundo-bach-quimica)"
+  description = "[13-14 years](apuntes/#segundo-eso) | [14-15 years](apuntes/#tercero-eso) | [15-16 years](apuntes/#cuarto-eso) <br> [16-17 years](apuntes/#primero-bach) | [17-18 years Physics](apuntes/#segundo-bach-fisica) | [17-18 years Chemistry](apuntes/#segundo-bach-quimica)"
   
 [[feature]]
   icon = "[🎓](recursos-ebau/)"

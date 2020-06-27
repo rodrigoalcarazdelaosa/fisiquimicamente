@@ -53,4 +53,4 @@ hero_media = ""
 
 **In text, slides and poster format**
 
-[Year 9](#segundo-eso) | [Year 10](#tercero-eso) | [Year 11](#cuarto-eso) <br> [Year 12](#primero-bach) | [Year 13 Physics](#segundo-bach-fisica) | [Year 13 Chemistry](#segundo-bach-quimica)
+[13-14 years](#segundo-eso) | [14-15 years](#tercero-eso) | [15-16 years](#cuarto-eso) <br> [16-17 years](#primero-bach) | [17-18 years Physics](#segundo-bach-fisica) | [17-18 years Chemistry](#segundo-bach-quimica)
