@@ -38,7 +38,7 @@ date_format = "2006"
   Collaborating with:
   
   * [Textil Santanderina](https://textilsantanderina.com)
-  * [Wood Manners](http://gratoparquet.com/?locale=en)
+  * [Wood Manners](https://gratoparquet.com/?locale=en)
   """
   
 [[experience]]
