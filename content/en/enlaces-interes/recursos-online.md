@@ -38,16 +38,16 @@ subtitle = ""
     tag = "simulations"	
 	
   [[content.filter_button]]
-    name = "Sociedades"
-    tag = "sociedades"
+    name = "Societies"
+    tag = "societies"
 	
   [[content.filter_button]]
-    name = "Tabla Periódica"
-    tag = "tabla-periódica"
+    name = "Periodic Table"
+    tag = "periodic-table"
 	
   [[content.filter_button]]
-    name = "Traductor"
-    tag = "traductor"	
+    name = "Translator"
+    tag = "translator"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
