@@ -1,6 +1,6 @@
 ---
 title: Ptable
-summary: 'Ptable: La Tabla Periódica Interactiva.'
+summary: 'Ptable: The Interactive Periodic Table.'
 tags:
 - periodic-table
 categories: 
