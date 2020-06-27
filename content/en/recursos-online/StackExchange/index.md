@@ -1,6 +1,6 @@
 ---
 title: StackExchange
-summary: *Self-moderated* network of question-and-answer (Q&A) websites on topics in diverse fields.
+summary: _Self-moderated_ network of question-and-answer (Q&A) websites on topics in diverse fields.
 tags:
 categories: 
 
