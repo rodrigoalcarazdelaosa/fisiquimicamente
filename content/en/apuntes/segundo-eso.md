@@ -30,32 +30,32 @@ subtitle = ""
     tag = "scientific-activity"	
 	
   [[content.filter_button]]
+    name = "Matter"
+    tag = "matter"	
+	
+  [[content.filter_button]]
+    name = "Atomic structure"
+    tag = "atomic-structure"	
+	
+  [[content.filter_button]]
+    name = "Chemical reactions"
+    tag = "chemical-reactions"	
+	
+  [[content.filter_button]]
+    name = "Motion"
+    tag = "motion"			
+	
+  [[content.filter_button]]
+    name = "Forces"
+    tag = "forces"			
+	
+  [[content.filter_button]]
     name = "Energy"
     tag = "energy"
 	
   [[content.filter_button]]
     name = "Electricity-electronics"
-    tag = "electricity-electronics"		
-	
-  [[content.filter_button]]
-    name = "Atomic structure"
-    tag = "atomic-structure"
-	
-  [[content.filter_button]]
-    name = "Forces"
-    tag = "forces"	
-	
-  [[content.filter_button]]
-    name = "Matter"
-    tag = "matter"
-	
-  [[content.filter_button]]
-    name = "Motion"
-    tag = "motion"
-	
-  [[content.filter_button]]
-    name = "Chemical reactions"
-    tag = "chemical-reactions"	
+    tag = "electricity-electronics"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
