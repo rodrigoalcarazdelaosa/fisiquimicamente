@@ -1,6 +1,6 @@
 ---
 title: DeepL
-summary: Traductor basado en inteligencia artificial.
+summary: AI-based translator.
 tags:
 - translator
 categories: 
