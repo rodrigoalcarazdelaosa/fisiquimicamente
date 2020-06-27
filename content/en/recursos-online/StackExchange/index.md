@@ -1,6 +1,6 @@
 ---
 title: StackExchange
-summary: Red _automoderada_ de webs de preguntas y respuestas sobre distintos temas.
+summary: *Self-moderated* network of question-and-answer (Q&A) websites on topics in diverse fields.
 tags:
 categories: 
 
