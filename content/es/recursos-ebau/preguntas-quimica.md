@@ -23,11 +23,7 @@ subtitle = "🗂️ Por temas"
   
   [[content.filter_button]]
     name = "Todas"
-    tag = "*"
-	
-  [[content.filter_button]]
-    name = "Ácido-base"
-    tag = "ácido-base"
+    tag = "*"	
 	
   [[content.filter_button]]
     name = "Enlace químico"
@@ -38,12 +34,16 @@ subtitle = "🗂️ Por temas"
     tag = "equilibrio-químico"	
 	
   [[content.filter_button]]
-    name = "Química orgánica"
-    tag = "química-orgánica"	
+    name = "Ácido-base"
+    tag = "ácido-base"		
 	
   [[content.filter_button]]
     name = "Rédox"
     tag = "rédox"
+	
+  [[content.filter_button]]
+    name = "Química orgánica"
+    tag = "química-orgánica"		
 	
   [[content.filter_button]]
     name = "Termoquímica"
