@@ -17,7 +17,7 @@ Desde 2018 soy profesor de Física y Química en el [IES Ría San Martín de Can
 
 ## ¿Por qué este blog?
 
-Mi intención principal con este sitio web es la de proporcionar 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química y 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}})[^1] a mis alumnos/as y a quien pueda interesarle, además de compartir 👐 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
+Mi intención principal con este sitio web es la de proporcionar 📚 [<span style="font-variant:small-caps;">**apuntes de Física y Química**</span>]({{< ref "/apuntes" >}}) y 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}})[^1] a mis alumnos/as y a quien pueda interesarle, además de compartir 👐 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
 
 [^1]: Gracias a la [excelente recopilación](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y el magnífico trabajo del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
 
