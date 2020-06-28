@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "15-16 years"
+title = "15-16 year-olds"
 subtitle = ""
 
 [content]
@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
 	
   [[content.filter_button]]
-    name = "Chemical reactions"
+    name = "Chemical Reactions"
     tag = "chemical-reactions"		
 	
   [[content.filter_button]]

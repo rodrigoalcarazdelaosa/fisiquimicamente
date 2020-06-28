@@ -1,5 +1,5 @@
 ---
-title: Electromagnetic interaction
+title: Electromagnetic Interaction
 subtitle: EBAU questions solved
 summary: EBAU questions solved.
 tags:

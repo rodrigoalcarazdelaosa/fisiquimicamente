@@ -1,5 +1,5 @@
 ---
-title: Chemical equilibrium
+title: Chemical Equilibrium
 subtitle: EBAU questions solved
 summary: EBAU questions solved.
 tags:

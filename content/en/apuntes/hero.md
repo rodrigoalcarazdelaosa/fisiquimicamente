@@ -53,4 +53,4 @@ hero_media = ""
 
 **In text, slides and poster format**
 
-[13-14 years](#segundo-eso) | [14-15 years](#tercero-eso) | [15-16 years](#cuarto-eso) <br> [16-17 years](#primero-bach) | [17-18 years Physics](#segundo-bach-fisica) | [17-18 years Chemistry](#segundo-bach-quimica)
+[13-14 year-olds](#segundo-eso) | [14-15 year-olds](#tercero-eso) | [15-16 year-olds](#cuarto-eso) <br> [16-17 year-olds](#primero-bach) | [17-18 year-olds Physics](#segundo-bach-fisica) | [17-18 year-olds Chemistry](#segundo-bach-quimica)

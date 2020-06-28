@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 6  # Order that this section will appear.
 
-title = "17-18 years"
+title = "17-18 year-olds"
 subtitle = "Chemistry"
 
 [content]
@@ -26,15 +26,15 @@ subtitle = "Chemistry"
     tag = "*"
 	
   [[content.filter_button]]
-    name = "Chemical bond"
+    name = "Chemical Bond"
     tag = "chemical-bond"	
 	
   [[content.filter_button]]
-    name = "Chemical equilibrium"
+    name = "Chemical Equilibrium"
     tag = "chemical-equilibrium"		
 	
   [[content.filter_button]]
-    name = "Acid-base"
+    name = "Acid-Base"
     tag = "acid-base"			
 	
   [[content.filter_button]]
@@ -42,7 +42,7 @@ subtitle = "Chemistry"
     tag = "redox"					
 	
   [[content.filter_button]]
-    name = "Organic chemistry"
+    name = "Organic Chemistry"
     tag = "organic-chemistry"		
 
 [design]

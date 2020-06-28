@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "13-14 years"
+title = "13-14 year-olds"
 subtitle = ""
 
 [content]
@@ -23,10 +23,10 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "13-14 years"	
+    tag = "13-14 year-olds"	
 	
   [[content.filter_button]]
-    name = "Scientific activity"
+    name = "Scientific Activity"
     tag = "scientific-activity"	
 	
   [[content.filter_button]]
@@ -34,11 +34,11 @@ subtitle = ""
     tag = "matter"	
 	
   [[content.filter_button]]
-    name = "Atomic structure"
+    name = "Atomic Structure"
     tag = "atomic-structure"	
 	
   [[content.filter_button]]
-    name = "Chemical reactions"
+    name = "Chemical Reactions"
     tag = "chemical-reactions"	
 	
   [[content.filter_button]]
@@ -54,7 +54,7 @@ subtitle = ""
     tag = "energy"
 	
   [[content.filter_button]]
-    name = "Electricity-electronics"
+    name = "Electricity-Electronics"
     tag = "electricity-electronics"				
 
 [design]

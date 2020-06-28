@@ -1,5 +1,5 @@
 ---
-title: 20th century physics
+title: 20th Century Physics
 subtitle: EBAU questions solved
 summary: EBAU questions solved.
 tags:

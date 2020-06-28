@@ -26,11 +26,11 @@ subtitle = "🗂️ By topic"
     tag = "*"	
 	
   [[content.filter_button]]
-    name = "Gravitational interaction"
+    name = "Gravitational Interaction"
     tag = "gravitation"	
 	
   [[content.filter_button]]
-    name = "Electromagnetic interaction"
+    name = "Electromagnetic Interaction"
     tag = "electromagnetics"	
 	
   [[content.filter_button]]
@@ -38,11 +38,11 @@ subtitle = "🗂️ By topic"
     tag = "waves"							
 	
   [[content.filter_button]]
-    name = "Geometric optics"
+    name = "Geometric Optics"
     tag = "geometric-optics"	
 	
   [[content.filter_button]]
-    name = "20th century physics"
+    name = "20th Century Physics"
     tag = "20th-century-physics"	
 
 [design]

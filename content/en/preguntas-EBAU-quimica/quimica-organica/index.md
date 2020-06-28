@@ -1,5 +1,5 @@
 ---
-title: Organic chemistry 
+title: Organic Chemistry 
 subtitle: EBAU questions solved
 summary: EBAU questions solved.
 tags:

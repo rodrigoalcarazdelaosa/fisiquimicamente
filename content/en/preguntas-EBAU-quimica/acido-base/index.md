@@ -1,5 +1,5 @@
 ---
-title: Acid-base
+title: Acid-Base
 subtitle: EBAU questions solved
 summary: EBAU questions solved.
 tags:

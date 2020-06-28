@@ -1,5 +1,5 @@
 ---
-title: Geometric optics
+title: Geometric Optics
 subtitle: EBAU questions solved
 summary: EBAU questions solved.
 tags:

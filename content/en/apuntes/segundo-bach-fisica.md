@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 6  # Order that this section will appear.
 
-title = "17-18 years"
+title = "17-18 year-olds"
 subtitle = "Physics"
 
 [content]
@@ -26,11 +26,11 @@ subtitle = "Physics"
     tag = "*"	
 	
   [[content.filter_button]]
-    name = "Gravitational interaction"
+    name = "Gravitational Interaction"
     tag = "gravitation"	
 	
   [[content.filter_button]]
-    name = "Electromagnetic interaction"
+    name = "Electromagnetic Interaction"
     tag = "electromagnetics"	
 	
   [[content.filter_button]]
@@ -38,11 +38,11 @@ subtitle = "Physics"
     tag = "waves"							
 	
   [[content.filter_button]]
-    name = "Geometric optics"
+    name = "Geometric Optics"
     tag = "geometric-optics"	
 	
   [[content.filter_button]]
-    name = "20th century physics"
+    name = "20th Century Physics"
     tag = "20th-century-physics"		
 
 [design]

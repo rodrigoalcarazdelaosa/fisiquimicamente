@@ -1,5 +1,5 @@
 ---
-title: Gravitational interaction
+title: Gravitational Interaction
 subtitle: EBAU questions solved
 summary: EBAU questions solved.
 tags:
