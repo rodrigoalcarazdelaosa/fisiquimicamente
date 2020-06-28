@@ -15,9 +15,9 @@ First post from my first blog. Here begins an adventure that took a long time (y
 Since 2018 I have been teaching Physics and Chemistry at [IES Ría San Martín de Cantabria](http://portaleducativo.educantabria.es/web/iesriasanmartin) (España). My previous experience includes mainly research and teaching at [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx), in particular in the branch of _Physical Optics_.
 
 
-## ¿Por qué este blog?
+## Why this blog?
 
-Mi intención principal con este sitio web es la de proporcionar 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) de Física y Química y 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}})[^1] a mis alumnos/as y a quien pueda interesarle, además de compartir 👐 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
+My main intention with this website is to provide 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and 🎓 [<span style="font-variant: small-caps;">**EBAU resources**</en>]({{< ref "/resources-ebau" >}})[^1] to my students and to anyone else who might be interested, as well as sharing 👐 [<en style="font-variant: small-caps;">**tutorials**</english>]({{< ref "/tutorials" >}}) and collect 🔗 [<english style="font-variant:small-caps;">**interesting links**</english>]({{< ref "/enlaces-interes" >}}).
 
 [^1]: Gracias a la [excelente recopilación](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y el magnífico trabajo del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
 
