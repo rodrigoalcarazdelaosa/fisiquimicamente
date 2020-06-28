@@ -16,6 +16,8 @@ image:
 
 [^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado lo que ellos llaman [el primer vistazo al gameplay](https://youtu.be/D6qYF3CkjEQ) (en realidad no se muestra ningún gameplay, pero aún así a los verdaderos fans todo esto nos encanta).
 
+	{{< youtube D6qYF3CkjEQ >}}
+
 {{< youtube 4HoJzG16C2E >}}
 
 ## Vive tu propia leyenda vikinga
