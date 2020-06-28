@@ -17,6 +17,12 @@
       </li>
     {{ end }}
   </ul>
-  	  <p class="kudos">Hay <em>likes</em> y luego hay <em>kudos</em>. Esta palabra, proveniente del griego κῦδος, significa <em>fama</em>, <em>gloria</em> o <em>prestigio</em>. Dándome kudos estás reconociendo y alabando mi esfuerzo, animándome a seguir trabajando.</p>
+  	  <p class="kudos">
+		  {{ if eq .Site.Language.Lang "es" }}
+			  Hay <em>likes</em> y luego hay <em>kudos</em>. Esta palabra, proveniente del griego κῦδος, significa <em>fama</em>, <em>gloria</em> o <em>prestigio</em>. Dándome kudos estás reconociendo y alabando mi esfuerzo, animándome a seguir trabajando.
+		  {{ else if eq .Site.Language.Lang "en" }}
+  			  There are <em>likes</em> y luego hay <em>kudos</em>. Esta palabra, proveniente del griego κῦδος, significa <em>fama</em>, <em>gloria</em> o <em>prestigio</em>. Dándome kudos estás reconociendo y alabando mi esfuerzo, animándome a seguir trabajando.
+		{{ end }}				  
+		  </p>
 </div>
 {{ end }}
