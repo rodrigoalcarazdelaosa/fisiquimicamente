@@ -1,14 +1,14 @@
 ---
 title: Hola Mundo
-subtitle: Primera entrada de mi primer blog
-summary: Primera entrada de mi primer blog.
+subtitle: Primera entrada en mi primer blog
+summary: Primera entrada en mi primer blog.
 date: "2020-04-28T00:00:00Z"
 image:
   placement: 3
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) en [Unsplash](https://unsplash.com)
 ---
 
-Primera entrada de mi primer blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
+Primera entrada en mi primer blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
 
 ## ¿Quién soy?
 
