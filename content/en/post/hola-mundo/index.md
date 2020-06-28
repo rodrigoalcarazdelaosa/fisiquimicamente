@@ -35,7 +35,7 @@ In this blog you will find **opinion** articles, **curiosities** about **science
 
 The posts in this blog are aimed at my students and anyone else who is curious about science and/or shares any of my interests.
 
-## How can you participate?
+## How can you get involved?
 
 In all the blog posts as well as in the 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* me <svg xmlns="http://www.w3.org/2000/svg" width="1rem" height="1rem" viewBox="0 0 60 60">
 		       <g class="flat">
