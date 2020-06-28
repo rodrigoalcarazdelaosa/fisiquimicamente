@@ -17,7 +17,7 @@ Since 2018 I have been teaching Physics and Chemistry at [IES Ría San Martín d
 
 ## Why this blog?
 
-My main intention with this website is to provide 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and 🎓 [<span style="font-variant: small-caps;">**EBAU resources**</en>]({{< ref "/resources-ebau" >}})[^1] to my students and to anyone else who might be interested, as well as sharing 👐 [<en style="font-variant: small-caps;">**tutorials**</english>]({{< ref "/tutorials" >}}) and collect 🔗 [<english style="font-variant:small-caps;">**interesting links**</english>]({{< ref "/enlaces-interes" >}}).
+My main intention with this website is to provide 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and 🎓 [<span style="font-variant: small-caps;">**EBAU resources**</en>]({{< ref "/recursos-ebau" >}})[^1] to my students and to anyone else who might be interested, as well as sharing 👐 [<en style="font-variant: small-caps;">**tutorials**</english>]({{< ref "/tutorials" >}}) and collect 🔗 [<english style="font-variant:small-caps;">**interesting links**</english>]({{< ref "/enlaces-interes" >}}).
 
 [^1]: Gracias a la [excelente recopilación](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y el magnífico trabajo del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
 
