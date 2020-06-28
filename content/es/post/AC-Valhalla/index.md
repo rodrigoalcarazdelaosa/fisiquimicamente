@@ -12,7 +12,9 @@ image:
   caption: "[**Assassin's Creed Valhalla**](https://www.ubisoft.com/es-es/game/assassins-creed/valhalla)"
 ---
 
-[Ubisoft](https://www.ubisoft.com/es-es/) ha publicado el primer tráiler del nuevo **Assassin's Creed Valhalla**, que saldrá a la venta a finales de 2020.
+[Ubisoft](https://www.ubisoft.com/es-es/) ha publicado el primer tráiler del nuevo **Assassin's Creed Valhalla**, que saldrá a la venta a finales de 2020[^1].
+
+[^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado lo que ellos llaman [el primer vistazo al gameplay](https://youtu.be/D6qYF3CkjEQ) (en realidad no se muestra ningún gameplay, pero aún así a los verdaderos fans todo esto nos encanta).
 
 {{< youtube 4HoJzG16C2E >}}
 
