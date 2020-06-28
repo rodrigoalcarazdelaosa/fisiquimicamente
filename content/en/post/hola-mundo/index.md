@@ -23,13 +23,13 @@ My main intention with this website is to provide 📚 [<span style="font-varian
 
 I think that a blog is the perfect addition to be able to debate about **news** with a much more dynamic content.
 
-## ¿De qué voy a hablar en este blog?
-En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **ciencia** en general y entradas relacionadas con mis **intereses**, que incluyen, entre otros:
+## What am I going to talk about on this blog?
+In this blog you will find articles of **opinion**, **curiosities** about **science** in general and posts related to my **interests**, which include, among others:
 
-- ✈️ Viajar
-- 🎸 Música
-- 🎮 Videojuegos
-- ⚛️ _Fotones_
+- ✈️ Travel
+- 🎸 Music
+- 🎮 Video games
+- ⚛️ _Photons_
 
 ## ¿A quién va dirigido este blog?
 
