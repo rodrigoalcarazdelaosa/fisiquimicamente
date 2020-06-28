@@ -5,7 +5,7 @@ summary: First post on my first blog.
 date: "2020-04-28T00:00:00Z"
 image:
   placement: 3
-  caption: Photo by [**Jon Tyson**](https://unsplash.com/@jontyson) on [Unsplash](https://unsplash.com)
+  caption: Photo by [**Octavian Dan**](https://unsplash.com/@octadan) on [Unsplash](https://unsplash.com)
 ---
 
 First post on my first blog. Here begins an adventure that took a long time (years) to start.
