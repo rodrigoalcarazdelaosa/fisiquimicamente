@@ -48,6 +48,7 @@ In all the blog posts as well as in the 📚 [<span style="font-variant:small-ca
 
 I hope you enjoy this space and that it's useful to you. Feel free to join in whenever you like. We are in touch, my friend.
 
+<style>body{background-color:white;}</style>
 <script>(function() {
   // If window.HTMLWidgets is already defined, then use it; otherwise create a
   // new object. This allows preceding code to set options that affect the
