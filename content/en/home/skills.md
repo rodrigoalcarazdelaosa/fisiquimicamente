@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "[🔗](enlaces-interes/)"
   icon_pack = "emoji"
-  name = "[Links of interest](enlaces-interes/)"
+  name = "[Interesting links](enlaces-interes/)"
   description = ""
   
 [[feature]]
