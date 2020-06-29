@@ -22,7 +22,7 @@ Mi intención principal con este sitio web es la de proporcionar 📚 [<span sty
 
 [^1]: Gracias a la [excelente recopilación](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y el magnífico trabajo del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
 
-Creo que un blog es el añadido perfecto para poder debatir sobre la **actualidad** con un contenido mucho más dinámico.
+Creo que un **blog** es el añadido perfecto para poder debatir sobre la **actualidad** con un contenido mucho más **dinámico**.
 
 ## ¿De qué voy a hablar en este blog?
 En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **ciencia** en general y entradas relacionadas con mis **intereses**, que incluyen, entre otros:
