@@ -32,6 +32,8 @@ subtitle = ""
     author = ""
   
 [design]
+  columns = 1
+  
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
