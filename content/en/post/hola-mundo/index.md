@@ -13,7 +13,7 @@ First post on my first blog. Here begins an adventure that I had been wanting to
 
 ## Who am I?
 
-Since 2018 I have been teaching Physics and Chemistry at [IES Ría San Martín de Cantabria](http://portaleducativo.educantabria.es/web/iesriasanmartin) (Spain). My previous experience includes mainly research and teaching at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx), in particular in the branch of _Physical Optics_.
+Since 2018 I have been **teaching Physics and Chemistry** at [IES Ría San Martín de Cantabria](http://portaleducativo.educantabria.es/web/iesriasanmartin) (Spain). My previous experience includes mainly **research** and **teaching** at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx), in particular in the branch of ***Physical Optics***.
 
 
 ## Why this blog?
