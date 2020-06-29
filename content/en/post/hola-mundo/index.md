@@ -22,7 +22,7 @@ My main intention with this website is to provide 📚 [<span style="font-varian
 	
 [^1]: Thanks to the [excellent compilation](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) of [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) and the magnificent work of **Professor Enrique Ortega González** of IES José del Campo of Ampuero.
 
-I think that a blog is the perfect addition to be able to debate about **news** with a much more dynamic content.
+I think that a **blog** is the perfect addition to be able to debate about **news** with a much more **dynamic** content.
 
 ## What am I going to talk about on this blog?
 In this blog you will find **opinion** articles, **curiosities** about **science** in general and posts related to my **interests**, which include, among others:
