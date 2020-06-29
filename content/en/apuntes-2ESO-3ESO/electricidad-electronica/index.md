@@ -5,7 +5,7 @@ summary: "`PRÓXIMAMENTE` <br> Electricidad y circuitos eléctricos. Ley de Ohm.
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
-- electricty-electronics
+- electricity-electronics
 categories:
 - Physics
 
