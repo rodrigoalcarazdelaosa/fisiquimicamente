@@ -12,7 +12,7 @@ categories:
 image:
   placement: 3
   caption: "[https://www.cem.es/content/el-sistema-internacional-de-unidades-si](https://www.cem.es/content/el-sistema-internacional-de-unidades-si)"
-links:
+# links:
 - icon_pack: fas
   icon: download
   name: BOE PDF
