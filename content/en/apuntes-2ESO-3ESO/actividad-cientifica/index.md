@@ -5,10 +5,10 @@ summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
-- actividad-científica
+- scientific-activity
 categories:
-- Física
-- Química
+- Physics
+- Chemistry
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
