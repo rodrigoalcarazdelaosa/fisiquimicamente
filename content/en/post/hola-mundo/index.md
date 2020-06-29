@@ -9,7 +9,7 @@ image:
 featured: true  
 ---
 
-First post on my first blog. Here begins an adventure that took a long time (years) to start.
+First post on my first blog. Here begins an adventure that I had been wanting to start for a long time (years).
 
 ## Who am I?
 
