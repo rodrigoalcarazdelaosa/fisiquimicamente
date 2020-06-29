@@ -1,7 +1,7 @@
 ---
-title: Reacciones químicas
-subtitle: Interpretación de reacciones químicas
-summary: "`COMING SOON` <br> Interpretación de reacciones químicas. Iniciación a la estequiometría. Ley de conservación de la masa."
+title: Chemical Reactions
+subtitle: Interpretation of chemical reactions
+summary: "`COMING SOON` <br> Interpretation of chemical reactions. Introduction to stoichiometry. Law of conservation of mass."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
