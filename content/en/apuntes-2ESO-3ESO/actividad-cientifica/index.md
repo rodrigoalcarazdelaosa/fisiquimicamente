@@ -14,7 +14,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**Hans Reniers**](https://unsplash.com/@hansreniers) en [Unsplash](https://unsplash.com)
+  caption: Photo by [**Hans Reniers**](https://unsplash.com/@hansreniers) on [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 links:
