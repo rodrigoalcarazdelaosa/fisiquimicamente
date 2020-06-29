@@ -22,7 +22,7 @@ subtitle = ""
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = true
+  link_to_archive = false
 
   # Filter posts by a taxonomy term.
   [content.filters]
