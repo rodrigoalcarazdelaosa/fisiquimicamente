@@ -1,5 +1,5 @@
 ---
-title: Leyes de los gases
+title: Laws of Gases
 subtitle: Boyle-Mariotte Law, Charles's Law and Gay-Lussac's Law
 summary: "`COMING SOON` <br> Boyle-Mariotte Law, Charles's Law and Gay-Lussac's Law."
 tags:
