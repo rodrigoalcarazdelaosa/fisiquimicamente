@@ -1,7 +1,7 @@
 ---
-title: La actividad científica
-subtitle: "Método científico, magnitudes y laboratorio escolar"
-summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
+title: Scientific Activity
+subtitle: "Scientific method, magnitudes and school laboratory"
+summary: "Scientific method. Measurements of magnitudes. School laboratory."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
