@@ -1,7 +1,7 @@
 ---
 title: Electricity and Electronics
-subtitle: Circuitos eléctricos, ley de Ohm y dispositivos electrónicos
-summary: "`COMING SOON` <br> Electricidad y circuitos eléctricos. Ley de Ohm. Dispositivos electrónicos."
+subtitle: Electrical circuits, Ohm's law and electronic devices
+summary: "`COMING SOON` <br> Electricity and electrical circuits. Ohm's Law. Electronic devices."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
@@ -27,8 +27,6 @@ image:
 #  name: Póster
 #  url: movimientos_poster.pdf  
 ---
-
-Apuntes sobre electricidad y electrónica en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
 Coming soon...
