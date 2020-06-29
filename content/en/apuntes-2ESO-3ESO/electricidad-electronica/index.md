@@ -13,7 +13,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Imagen de [**Hans Braxmeier**](https://pixabay.com/es/users/hans-2/) en [Pixabay](https://pixabay.com/es/)
+  caption: Image by [**Hans Braxmeier**](https://pixabay.com/es/users/hans-2/) on [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
