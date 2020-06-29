@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "13-14 year-olds"	
+    tag = "13-14-year-olds"
 	
   [[content.filter_button]]
     name = "Scientific Activity"
