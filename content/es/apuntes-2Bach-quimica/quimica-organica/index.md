@@ -1,7 +1,7 @@
 ---
 title: Química orgánica
 subtitle: 
-summary: "`PRÓXIMAMENTE` <br>"
+summary: "`PRÓXIMAMENTE`"
 tags:
 - 2º Bach
 - química-orgánica
