@@ -1,7 +1,7 @@
 ---
 title: Motions
-subtitle: ULM, MRUV and UCM
-summary: "`COMING SOON` <br> MRU, MRUV y MCU."
+subtitle: Linear and circular motions
+summary: "`COMING SOON` <br> Linear and circular motions."
 tags:
 - 15-16-year-olds
 - motion
