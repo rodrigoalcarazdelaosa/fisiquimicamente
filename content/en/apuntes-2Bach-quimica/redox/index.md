@@ -1,7 +1,7 @@
 ---
 title: Redox
-subtitle: Redox balancing and adjustment, galvanic cells and electrolysis
-summary: "`COMING SOON` <br> Redox equilibrium. Redox adjustment. Galvanic cells. Electrolysis."
+subtitle: Redox equilibrium and balancing, galvanic cells and electrolysis
+summary: "`COMING SOON` <br> Redox equilibrium. Redox balancing. Galvanic cells. Electrolysis."
 tags:
 - 17-18-year-olds
 - chemical-reactions
