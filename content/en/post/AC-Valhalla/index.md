@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Valhalla
 subtitle: Next title of this acclaimed video game franchise
-summary: "`COMING SOON` <br> Next title of this acclaimed video game franchise."
+summary: "`COMING SOON` Next title of this acclaimed video game franchise."
 date: "2020-04-30T00:00:00Z"
 tags:
 - assassin's creed
