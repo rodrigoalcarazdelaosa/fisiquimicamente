@@ -1,7 +1,7 @@
 ---
 title: Movements
 subtitle: MRU, MRUV Y MCU
-summary: MRU, MRUV y MCU.
+summary: "`COMING SOON` <br> MRU, MRUV y MCU."
 tags:
 - 15-16-year-olds
 - motion
