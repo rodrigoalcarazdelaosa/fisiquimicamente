@@ -1,7 +1,7 @@
 ---
 title: Electric Field
-subtitle: Ley de Coulomb, energía potencial, potencial y flujo eléctrico
-summary: "`COMING SOON` <br> Ley de Coulomb. Energía potencial y potencial eléctrico. Flujo eléctrico."
+subtitle: Coulomb's law, electric potential energy, potential and flux
+summary: "`COMING SOON` <br> Coulomb's law. Electric potential energy and potential. Electric flux."
 tags:
 - 17-18-year-olds
 - electromagnetics
