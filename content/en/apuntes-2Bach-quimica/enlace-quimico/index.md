@@ -1,6 +1,6 @@
 ---
 title: Chemical Bond
-subtitle: Ionic, covalent and metal bond
+subtitle: Ionic, covalent and metallic bond
 summary: "`COMING SOON` <br> Ionic, covalent and metallic bonding. TRPECV and TEV."
 tags:
 - 17-18-year-olds
