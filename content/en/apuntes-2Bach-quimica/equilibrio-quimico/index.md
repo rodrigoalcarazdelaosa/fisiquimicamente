@@ -1,7 +1,7 @@
 ---
 title: Chemical Equilibrium
-subtitle: Le Chatelier principle and heterogeneous balances
-summary: "`COMING SOON` <br> Reaction speed. Law of mass action. Le Chatelier's principle. Heterogeneous equilibriums."
+subtitle: Le Chatelier's principle and heterogeneous equilibrium
+summary: "`COMING SOON` <br> Reaction rate. Law of mass action. Le Chatelier's principle. Heterogeneous equilibrium."
 tags:
 - 17-18-year-olds
 - chemical-reactions
