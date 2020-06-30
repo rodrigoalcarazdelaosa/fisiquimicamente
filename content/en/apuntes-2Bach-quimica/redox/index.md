@@ -1,7 +1,7 @@
 ---
 title: Redox
-subtitle: Equilibrio y ajuste rédox, pilas galvánicas y electrolisis
-summary: "`PRÓXIMAMENTE` <br> Equilibrio rédox. Ajuste rédox. Pilas galvánicas. Electrolisis."
+subtitle: Redox balancing and adjustment, galvanic batteries and electrolysis
+summary: "`COMING SOON` <br> Redox equilibrium. Redox adjustment. Galvanic batteries. Electrolysis."
 tags:
 - 17-18-year-olds
 - chemical-reactions
