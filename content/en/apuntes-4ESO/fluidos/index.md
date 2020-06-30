@@ -1,7 +1,7 @@
 ---
 title: Fluids
-subtitle: Concepto de presión, principios de la hidrostática y física de la atmósfera
-summary: "`COMING SOON` <br> Concepto de presión, principios de la hidrostática y física de la atmósfera."
+subtitle: Concept of pressure, principles of hydrostatics and atmospheric physics
+summary: "`COMING SOON` <br> Concept of pressure, principles of hydrostatics and atmospheric physics."
 tags:
 - 15-16-year-olds
 - forces
