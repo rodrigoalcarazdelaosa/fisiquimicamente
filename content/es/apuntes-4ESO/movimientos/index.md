@@ -1,6 +1,6 @@
 ---
 title: Movimientos
-subtitle: MRU, MRUV Y MCU
+subtitle: MRU, MRUV y MCU
 summary: MRU, MRUV y MCU.
 tags:
 - 4º ESO
