@@ -1,7 +1,7 @@
 ---
 title: Chemical Reactions
-subtitle: Adjusting chemical equations and stoichiometric calculations
-summary: "`COMING SOON` <br> Adjusting chemical equations, mass-mass calculations and mass-volume calculations."
+subtitle: Balancing chemical equations and stoichiometric calculations
+summary: "`COMING SOON` <br> Balancing chemical equations, mass-mass calculations and mass-volume calculations."
 tags:
 - 15-16-year-olds
 - chemical-reactions
