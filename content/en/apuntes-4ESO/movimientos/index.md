@@ -1,6 +1,6 @@
 ---
-title: Movements
-subtitle: MRU, MRUV Y MCU
+title: Motions
+subtitle: ULM, MRUV and UCM
 summary: "`COMING SOON` <br> MRU, MRUV y MCU."
 tags:
 - 15-16-year-olds
