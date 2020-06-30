@@ -4,10 +4,10 @@ subtitle: Kepler's laws, law of universal gravitation and gravitational field
 summary: "`COMING SOON` <br> Kepler's laws. Law of universal gravitation. Gravitational field."
 tags:
 - 17-18-year-olds
+- gravitation
 - motion
 - forces
 - energy
-- gravitation
 categories:
 - Physics
 
