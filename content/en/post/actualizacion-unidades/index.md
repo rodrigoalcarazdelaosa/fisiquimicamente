@@ -1,7 +1,7 @@
 ---
 title: Updating SI base units
 subtitle: Now all defined as a function of universal physical constants
-summary: Now all defined as a function of universal physical constants.
+summary: "`COMING SOON` Now all defined as a function of universal physical constants."
 date: "2020-04-30T00:00:00Z"
 tags:
 - scientific-activity
