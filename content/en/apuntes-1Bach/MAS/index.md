@@ -1,5 +1,5 @@
 ---
-title: Simple harmonic motion
+title: Simple Harmonic Motion
 subtitle: Description and equations
 summary: "`COMING SOON` <br> Description and equations."
 tags:
