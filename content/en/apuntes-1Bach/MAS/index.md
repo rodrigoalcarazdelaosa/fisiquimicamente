@@ -1,7 +1,7 @@
 ---
 title: Simple Harmonic Motion
-subtitle: Description and equations
-summary: "`COMING SOON` <br> Description and equations."
+subtitle: Description and Equations
+summary: "`COMING SOON` <br> Description and Equations."
 tags:
 - 16-17-year-olds
 - motion
