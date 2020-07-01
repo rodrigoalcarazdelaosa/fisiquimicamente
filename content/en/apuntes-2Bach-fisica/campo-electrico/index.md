@@ -1,7 +1,7 @@
 ---
 title: Electric Field
-subtitle: Coulomb's law, electric potential energy, potential and flux
-summary: "`COMING SOON` <br> Coulomb's law. Electric potential energy and potential. Electric flux."
+subtitle: Coulomb's Law, Electric Potential Energy, Potential and Flux
+summary: "`COMING SOON` <br> Coulomb's Law. Electric Potential Energy and Potential. Electric Flux."
 tags:
 - 17-18-year-olds
 - electromagnetics
