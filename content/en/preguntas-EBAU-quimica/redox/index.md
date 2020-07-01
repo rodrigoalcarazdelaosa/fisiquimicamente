@@ -1,7 +1,7 @@
 ---
 title: Redox
-subtitle: EBAU questions solved
-summary: EBAU questions solved.
+subtitle: EBAU Questions Solved
+summary: EBAU Questions Solved.
 tags:
 - EBAU
 - chemical-reactions
