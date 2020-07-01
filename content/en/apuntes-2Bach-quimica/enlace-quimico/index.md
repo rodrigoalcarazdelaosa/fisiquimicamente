@@ -1,7 +1,7 @@
 ---
 title: Chemical Bond
-subtitle: Ionic, covalent and metallic bond
-summary: "`COMING SOON` <br> Ionic, covalent and metallic bonding. VSEPR and VB theories."
+subtitle: Ionic, Covalent and Metallic Bond
+summary: "`COMING SOON` <br> Ionic, Covalent and Metallic Bond. VSEPR and VB Theories."
 tags:
 - 17-18-year-olds
 - chemical-bond
