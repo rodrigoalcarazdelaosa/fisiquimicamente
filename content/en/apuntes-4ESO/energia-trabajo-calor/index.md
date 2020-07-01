@@ -1,7 +1,7 @@
 ---
-title: Energy, work and heat
-subtitle: Energy and its forms of exchange (work and heat)
-summary: "`COMING SOON` <br> Energy and its forms of exchange (work and heat)."
+title: Energy, Work and Heat
+subtitle: Energy and its Forms of Exchange (Work and Heat)
+summary: "`COMING SOON` <br> Energy and its Forms of Exchange (Work and Heat)."
 tags:
 - 15-16-year-olds
 - energy
