@@ -1,7 +1,7 @@
 ---
 title: Chemical Reactions
-subtitle: Interpretation of chemical reactions
-summary: "`COMING SOON` <br> Interpretation of chemical reactions. Introduction to stoichiometry. Law of conservation of mass."
+subtitle: Interpretation of Chemical Reactions
+summary: "`COMING SOON` <br> Interpretation of Chemical Reactions. Introduction to Stoichiometry. Law of Conservation of Mass."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
