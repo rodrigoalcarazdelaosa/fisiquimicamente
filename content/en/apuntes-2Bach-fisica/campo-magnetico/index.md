@@ -1,7 +1,7 @@
 ---
 title: Magnetic Field
-subtitle: Magnetic flux and electromagnetic induction
-summary: "`COMING SOON` <br> Magnetic field. Magnetic flux. Electromagnetic induction."
+subtitle: Magnetic Flux and Electromagnetic Induction
+summary: "`COMING SOON` <br> Magnetic Field. Magnetic Flux. Electromagnetic Induction."
 tags:
 - 17-18-year-olds
 - electromagnetics
