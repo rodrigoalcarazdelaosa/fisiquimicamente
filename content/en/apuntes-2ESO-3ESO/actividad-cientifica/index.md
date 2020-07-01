@@ -1,7 +1,7 @@
 ---
 title: Scientific Activity
-subtitle: "Scientific method, magnitudes and school laboratory"
-summary: "`COMING SOON` <br> Scientific method. Measurements of magnitudes. School laboratory."
+subtitle: "Scientific Method, Magnitudes and School Laboratory"
+summary: "`COMING SOON` <br> Scientific Method. Magnitude Measurement. School Laboratory."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
