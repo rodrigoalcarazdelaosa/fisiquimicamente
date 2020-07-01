@@ -1,7 +1,7 @@
 ---
 title: Electricity and Electronics
-subtitle: Electrical circuits, Ohm's law and electronic devices
-summary: "`COMING SOON` <br> Electricity and electrical circuits. Ohm's Law. Electronic devices."
+subtitle: Electrical Circuits, Ohm's Law and Electronic Devices
+summary: "`COMING SOON` <br> Electricity and Electrical Circuits. Ohm's Law. Electronic Devices."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
