@@ -1,7 +1,7 @@
 ---
 title: Projectile Motion
-subtitle: Study of the parabolic or oblique movement
-summary: Study of the parabolic or oblique movement.
+subtitle: Study of the Parabolic or Oblique Movement
+summary: Study of the Parabolic or Oblique Movement.
 tags:
 - 16-17-year-olds
 - motion
