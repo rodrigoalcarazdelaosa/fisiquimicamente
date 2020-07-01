@@ -1,7 +1,7 @@
 ---
-title: Energy and work
-subtitle: Work, power and energy
-summary: "`COMING SOON` <br> Work. Power. Energy. Work-energy theorem. Conservative systems."
+title: Energy and Work
+subtitle: Work, Power and Energy
+summary: "`COMING SOON` <br> Work. Power. Energy. Work-Energy Theorem. Conservative Systems."
 tags:
 - 16-17-year-olds
 - energy
