@@ -1,7 +1,7 @@
 ---
 title: Waves
-subtitle: Transverse and longitudinal wave propagation
-summary: "`COMING SOON` <br> Transverse and longitudinal wave propagation. Harmonic wave equation. Energy and intensity. Sound and light."
+subtitle: Transverse and Longitudinal Wave Propagation
+summary: "`COMING SOON` <br> Transverse and Longitudinal Wave Propagation. Harmonic Wave Equation. Energy and Intensity. Sound and Light."
 tags:
 - 17-18-year-olds
 - waves
