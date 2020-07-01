@@ -1,7 +1,7 @@
 ---
 title: Gravitation
-subtitle: Newton's law of universal gravitation and Kepler's law
-summary: "`COMING SOON` <br> Central forces. Newton's law of universal gravitation. Kepler's Laws."
+subtitle: Newton's Law of Universal Gravitation and Kepler's Law
+summary: "`COMING SOON` <br> Central Forces. Newton's Law of Universal Gravitation. Kepler's Laws."
 tags:
 - 16-17-year-olds
 - motion
