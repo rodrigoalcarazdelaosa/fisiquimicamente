@@ -1,7 +1,7 @@
 ---
-title: Motions
-subtitle: Linear and circular motions
-summary: "`COMING SOON` <br> Linear and circular motions."
+title: Motion
+subtitle: Linear and Circular Motion
+summary: "`COMING SOON` <br> Linear and Circular Motion."
 tags:
 - 15-16-year-olds
 - motion
