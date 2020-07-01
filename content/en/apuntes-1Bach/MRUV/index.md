@@ -1,7 +1,7 @@
 ---
 title: Non-Uniform Circular Motion
-subtitle: Kinematics and dynamics
-summary: "`COMING SOON` <br> Kinematics and dynamics."
+subtitle: Kinematics and Dynamics
+summary: "`COMING SOON` <br> Kinematics and Dynamics."
 tags:
 - 16-17-year-olds
 - motion
