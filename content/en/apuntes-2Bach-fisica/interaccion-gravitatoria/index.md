@@ -1,7 +1,7 @@
 ---
 title: Gravitational Interaction
-subtitle: Kepler's laws, law of universal gravitation and gravitational field
-summary: "`COMING SOON` <br> Kepler's laws. Law of universal gravitation. Gravitational field."
+subtitle: Kepler's Laws, Newton's Law of Universal Gravitation and Gravitational Field
+summary: "`COMING SOON` <br> Kepler's Laws. Newton's Law of Universal Gravitation. Gravitational Field."
 tags:
 - 17-18-year-olds
 - gravitation
