@@ -1,7 +1,7 @@
 ---
 title: Matter
-subtitle: Properties, states of aggregation and mixtures
-summary: "`COMING SOON` <br> Properties, states of aggregation and mixtures."
+subtitle: Properties, States of Aggregation and Mixtures
+summary: "`COMING SOON` <br> Properties, States of Aggregation and Mixtures."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
