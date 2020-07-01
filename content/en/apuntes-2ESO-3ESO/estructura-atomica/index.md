@@ -1,7 +1,7 @@
 ---
 title: Atomic Structure
-subtitle: Dalton's atomic theory, atomic models, ions and isotopes
-summary: "`COMING SOON` <br> Dalton's atomic theory, atomic models, ions and isotopes."
+subtitle: Dalton's Atomic Theory, Atomic Models, Ions and Isotopes
+summary: "`COMING SOON` <br> Dalton's Atomic Theory, Atomic Models, Ions and Isotopes."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
