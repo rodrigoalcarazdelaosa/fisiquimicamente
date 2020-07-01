@@ -1,7 +1,7 @@
 ---
 title: Geometric Optics
-subtitle: Laws of geometric optics and optical systems
-summary: "`COMING SOON` <br> Laws of geometric optics. Optical systems. The human eye. Optical instruments."
+subtitle: Laws of Geometric Optics and Optical Systems
+summary: "`COMING SOON` <br> Laws of Geometric Optics. Optical Systems. The Human Eye. Optical Instruments."
 tags:
 - 17-18-year-olds
 - geometric-optics
