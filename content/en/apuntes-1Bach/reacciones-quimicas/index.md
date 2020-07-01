@@ -1,7 +1,7 @@
 ---
 title: Chemical Reactions
-subtitle: Stoichiometry, energetic transformations and spontaneity
-summary: "`COMING SOON` <br> Stoichiometry, energetic transformations and spontaneity."
+subtitle: Stoichiometry, Energetic Transformations and Spontaneity
+summary: "`COMING SOON` <br> Stoichiometry, Energetic Transformations and Spontaneity."
 tags:
 - 16-17-year-olds
 - chemical-reactions
