@@ -1,7 +1,7 @@
 ---
 title: Forces
-subtitle: Newton's laws and forces of special interest
-summary: "`COMING SOON` <br> Newton's laws and forces of special interest."
+subtitle: Newton's Laws and Forces of Special Interest
+summary: "`COMING SOON` <br> Newton's Laws and Forces of Special Interest."
 tags:
 - 15-16-year-olds
 - forces
