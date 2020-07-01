@@ -1,7 +1,7 @@
 ---
-title: Motion and forces
-subtitle: Main forces of nature and their effects
-summary: "`COMING SOON` <br> Forces and their effects. Concepts of speed and acceleration. Main forces of nature."
+title: Motion and Forces
+subtitle: Main Forces of Nature and Their Effects
+summary: "`COMING SOON` <br> Forces and Their Effects. Concepts of Speed and Acceleration. Main Forces of Nature."
 tags:
 - 13-14-year-olds
 - motion
