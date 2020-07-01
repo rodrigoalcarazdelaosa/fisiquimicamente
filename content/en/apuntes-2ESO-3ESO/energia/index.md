@@ -1,7 +1,7 @@
 ---
 title: Energy
-subtitle: Energy transformations, heat and temperature
-summary: "`COMING SOON` <br> Concept of energy. Energy transformations. Heat and temperature."
+subtitle: Energy Transformations, Heat and Temperature
+summary: "`COMING SOON` <br> Concept of Energy. Energy Transformations. Heat and Temperature."
 tags:
 - 13-14-year-olds
 - 14-15-year-olds
