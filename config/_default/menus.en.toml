@@ -46,7 +46,7 @@
   weight = 6  
   
 [[main]]
-  name = "🎓 EBAU Resources"
+  name = "🎓 EBAU resources"
   url = "recursos-ebau/"
   identifier = "recursos-ebau"
   weight = 2
