@@ -82,15 +82,15 @@ where $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ 
 The **kilogram** is therefore defined as a function of Planck's constant value, $h$.
 {{% /alert %}}
 
-### Amperio (A)
+### Ampere (A)
 $$
 1\thinspace\mathrm{A} = \left(\frac{e}{1.602176634\times 10^{-19}}\right)\thinspace\mathrm{s^{-1}},
 $$
 
-donde $e = 1.602176634\times 10^{-19}\thinspace\mathrm{A\cdot s}$ es la carga elemental.
+where $e = 1.602176634\times 10^{-19}\thinspace\mathrm{A\cdot s}$ is the elementary charge.
 
 {{% alert note %}}
-El **amperio** es por tanto la corriente eléctrica correspondiente al flujo de $1/(1.602176634\times 10^{-19}) = 6.241509074\times 10^{18}$ cargas elementales por segundo.
+The **ampere** is therefore the electrical current corresponding to the flux of $1/(1.602176634\times 10^{-19}) = 6.241509074\times 10^{18}$ elementary charges per second.
 {{% /alert %}}
 
 ### Kelvin (K)
