@@ -1,5 +1,5 @@
 ---
-title: Updating SI base units
+title: Updating SI Base Units
 subtitle: Now all defined as a function of universal physical constants
 summary: "`COMING SOON` Now all defined as a function of universal physical constants."
 date: "2020-04-30T00:00:00Z"
