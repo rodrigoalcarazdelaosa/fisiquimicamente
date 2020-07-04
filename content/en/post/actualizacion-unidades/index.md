@@ -25,7 +25,7 @@ image:
 ---
 
 {{% alert note %}}
-Si no estás familiarizado con el **Sistema Internacional de Unidades (SI)** te recomiendo consultar [esta página](https://www.cem.es/content/el-sistema-internacional-de-unidades-si) del [Centro Español de Metrología (CEM)](https://www.cem.es).
+If you are not familiar with the **International System of Units (SI)** I recommend you to consult [this page](https://www.bipm.org/en/measurement-units/) of the [*Bureau International des Poids et Mesures* (BIPM)](https://www.bipm.org/en/about-us/).
 {{% /alert %}}
 
 {{% alert note %}}
