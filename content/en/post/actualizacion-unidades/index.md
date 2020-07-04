@@ -10,7 +10,7 @@ categories:
 - Chemistry
 
 image:
-  placement: 3
+  placement: 1
   caption: "[https://www.bipm.org/en/si-download-area/graphics-files.html#](https://www.bipm.org/en/si-download-area/graphics-files.html#)"
 # links:
 # - icon_pack: fas
