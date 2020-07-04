@@ -46,7 +46,7 @@ This update was made to define all the units **as a function of universal physic
 | Mole (mol)        | Avogadro constant ($N_\mathrm A$)                                        |
 | Candela (cd)     | Luminous efficacy of radiation of frequency $540\times 10^{12}\thinspace\mathrm{Hz}$ ($K_\mathrm{cd}$) |
 
-## Current definitions of SI base units
+## Current Definitions of SI Base Units
 
 ### Segundo (s)
 
