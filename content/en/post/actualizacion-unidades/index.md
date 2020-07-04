@@ -98,10 +98,10 @@ $$
 1\thinspace\mathrm{K} = \frac{1.380649\times 10^{-23}}{(6.62607015\times 10^{-34})(9192631770)}\frac{h\Delta\nu_\mathrm{Cs}}{k},
 $$
 
-donde $k = 1.380649\times 10^{-23}\thinspace\mathrm{kg\cdot m^2\cdot s^{-2}\cdot K^{-1}}$ es la constante de Boltzmann.
+where $k = 1.380649\times 10^{-23}\thinspace\mathrm{kg\cdot m^2\cdot s^{-2}\cdot K^{-1}}$ is the Boltzmann constant.
 
 {{% alert note %}}
-El **kelvin** es por tanto igual a la variación de temperatura termodinámica que da lugar a una variación de energía térmica $kT$ de $1.380649\times 10^{-23}\thinspace\mathrm J$.
+The **kelvin** is therefore equal to the thermodynamic temperature variation that results in a thermal energy variation $kT$ of $1,380649\times 10^{-23}\thinspace\mathrm J$.
 {{% /alert %}}
 
 ### Mol (mol)
