@@ -34,12 +34,12 @@ If you want more information, [@fqsaja1](https://twitter.com/fqsaja1/status/1255
 
 The **International System of Units (SI)** underwent a [revision in 2018](https://www.bipm.org/en/measurement-units/#cgpm-2018), with the **redefinition** of four of its seven _base units_, namely the kilogram (kg), the ampere (A), the kelvin (K) and the mole.
 
-This update was made to define all the units **as a function of universal physical constants**, something that had already been achieved previously for the second (1967) and the meter (1983). The following table summarises the relationship between each unit and the universal constant on which it is based:
+This update was made to define all the units **as a function of universal physical constants**, something that had already been achieved previously for the second (1967) and the metre (1983). The following table summarises the relationship between each unit and the universal constant on which it is based:
 
 | Unit (symbol) | Universal constant (symbol)                                             |
 | ---------------- | ------------------------------------------------------------------------- |
 | Second (s)      | Transition frequency of the caesium 133 atom ($\Delta\nu_\mathrm{Cs}$) |
-| Meter (m)        | Speed of light in vacuum ($c$)                                     |
+| Metre (m)        | Speed of light in vacuum ($c$)                                     |
 | Kilogram (kg)   | Planck constant ($h$)                                                 |
 | Ampere (A)      | Elementary charge ($e$)                                                     |
 | Kelvin (K)       | Boltzmann constant ($k$)                                              |
@@ -60,12 +60,12 @@ where $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ is the unperturb
 The **second** is therefore the duration of 9192631770 periods of radiation corresponding to the transition between the two hyperfine levels of the unperturbed ground state of the caesium 133 atom.
 {{% /alert %}}
 
-### Metro (m)
+### Metre (m)
 $$
 1\thinspace\mathrm m = \frac{9192631770}{299792458}\frac{c}{\Delta\nu_\mathrm{Cs}},
 $$
 
-donde $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ es la velocidad de la luz en el vacío.
+where $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ is the speed of light in vacuum.
 
 {{% alert note %}}
 El **metro** es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299792458 de segundo.
