@@ -40,11 +40,11 @@ This update was made to define all the units **as a function of universal physic
 | ---------------- | ------------------------------------------------------------------------- |
 | Second (s)      | Transition frequency of the caesium 133 atom ($\Delta\nu_\mathrm{Cs}$) |
 | Meter (m)        | Speed of light in vacuum ($c$)                                     |
-| Kilogram (kg)   | Constante de Planck ($h$)                                                 |
-| Ampere (A)      | Carga elemental ($e$)                                                     |
-| Kelvin (K)       | Constante de Boltzmann ($k$)                                              |
-| Mole (mol)        | Número de Avogadro ($N_\mathrm A$)                                        |
-| Candela (cd)     | Eficacia luminosa de la radiación de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ ($K_\mathrm{cd}$) |
+| Kilogram (kg)   | Planck constant ($h$)                                                 |
+| Ampere (A)      | Elementary charge ($e$)                                                     |
+| Kelvin (K)       | Boltzmann constant ($k$)                                              |
+| Mole (mol)        | Avogadro constant ($N_\mathrm A$)                                        |
+| Candela (cd)     | Luminous efficacy of radiation of frequency $540\times 10^{12}\thinspace\mathrm{Hz}$ ($K_\mathrm{cd}$) |
 
 ## R.D. 493/2020, de 28 de abril [{{< icon name="download" pack="fas" >}}PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
 
