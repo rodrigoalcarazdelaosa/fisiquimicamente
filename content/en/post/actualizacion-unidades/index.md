@@ -71,15 +71,15 @@ where $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ is the speed of light in v
 The **metre** is therefore the length of the path travelled by light in vacuum during a time interval of 1/299792458 of a second.
 {{% /alert %}}
 
-### Kilogramo (kg)
+### Kilogram (kg)
 $$
 1\thinspace\mathrm{kg} = \frac{(299792458)^2}{(6.62607015\times 10^{-34})(9192631770)}\frac{h\Delta\nu_\mathrm{Cs}}{c^2},
 $$
 
-donde $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ es la constante de Planck.
+where $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ is the Planck constant.
 
 {{% alert note %}}
-El **kilogramo** queda por tanto definido en función del valor de la constante de Planck, $h$.
+The **kilogram** is therefore defined as a function of Planck's constant value, $h$.
 {{% /alert %}}
 
 ### Amperio (A)
