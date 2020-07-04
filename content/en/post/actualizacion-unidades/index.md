@@ -34,7 +34,7 @@ If you want more information, [@fqsaja1](https://twitter.com/fqsaja1/status/1255
 
 The **International System of Units (SI)** underwent a [revision in 2018](https://www.bipm.org/en/measurement-units/#cgpm-2018), with the **redefinition** of four of its seven _base units_, namely the kilogram (kg), the ampere (A), the kelvin (K) and the mole.
 
-Esta actualización se realizó para conseguir definir todas las unidades **en función de constantes físicas universales**, algo que ya se había conseguido con anterioridad para el segundo (1967) y el metro (1983). La siguiente tabla resume la relación entre cada unidad y la constante universal en la que se basa:
+This update was made to define all the units **as a function of universal physical constants**, something that had already been achieved previously for the second (1967) and the meter (1983). The following table summarises the relationship between each unit and the universal constant on which it is based:
 
 | Unidad (símbolo) | Constante universal (símbolo)                                             |
 | ---------------- | ------------------------------------------------------------------------- |
