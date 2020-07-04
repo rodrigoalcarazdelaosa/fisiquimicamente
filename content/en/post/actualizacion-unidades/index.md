@@ -32,7 +32,7 @@ If you are not familiar with the **International System of Units (SI)** I recomm
 If you want more information, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585201482317830?s=20) recommends that we take a look at David Newell's magnificent article [published in Physics Today magazine](https://physicstoday.scitation.org/doi/10.1063/PT.3.2448).
 {{% /alert %}}
 
-El **Sistema Internacional de Unidades (SI)** sufrió una [revisión en 2018](https://www.cem.es/sites/default/files/files/cem_revisionsi_edem_18mayo2018.pdf), con la **redefinición** de cuatro de sus siete _unidades de base_, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
+The **International System of Units (SI)** underwent a [revision in 2018](https://www.bipm.org/en/measurement-units/#cgpm-2018), with the **redefinition** of four of its seven _base units_, namely the kilogram (kg), the ampere (A), the kelvin (K) and the mole.
 
 Esta actualización se realizó para conseguir definir todas las unidades **en función de constantes físicas universales**, algo que ya se había conseguido con anterioridad para el segundo (1967) y el metro (1983). La siguiente tabla resume la relación entre cada unidad y la constante universal en la que se basa:
 
