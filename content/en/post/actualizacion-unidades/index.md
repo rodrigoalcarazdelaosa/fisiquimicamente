@@ -123,5 +123,5 @@ $$
 where $K_\mathrm{cd} = 683\thinspace\mathrm{cd\cdot sr\cdot kg^{-1}\cdot m^{-2}\cdot s^3}$ is the luminous efficacy of monochromatic radiation of frequency $540\times 10^{12}\thinspace\mathrm{Hz}$.
 
 {{% alert note %}}
-La **candela** es por tanto la intensidad luminosa, en una dirección dada, de una fuente que emite radiación monocromática de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ y tiene una intensidad radiante en esa dirección de $(1/683)\thinspace\mathrm{W/sr}$.
+The **candela** is therefore the luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency $540\times 10^{12}\thinspace\mathrm{Hz}$ and has a radiant intensity in that direction of $(1/683)\thinspace\mathrm{W/sr}$.
 {{% /alert %}}
