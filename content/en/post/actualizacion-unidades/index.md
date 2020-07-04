@@ -29,7 +29,7 @@ If you are not familiar with the **International System of Units (SI)** I recomm
 {{% /alert %}}
 
 {{% alert note %}}
-If you want more information, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585201482317830?s=20) recommends that we take a look at David Newell's magnificent article [published in Physics Today magazine](https://physicstoday.scitation.org/doi/10.1063/PT.3.2448).
+If you want more information, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585201482317830?s=20) recommends that we take a look at David Newell's excellent article [published in Physics Today magazine](https://physicstoday.scitation.org/doi/10.1063/PT.3.2448).
 {{% /alert %}}
 
 The **International System of Units (SI)** underwent a [revision in 2018](https://www.bipm.org/en/measurement-units/#cgpm-2018), with the **redefinition** of four of its seven _base units_, namely the kilogram (kg), the ampere (A), the kelvin (K) and the mole (mol).
