@@ -104,15 +104,15 @@ where $k = 1.380649\times 10^{-23}\thinspace\mathrm{kg\cdot m^2\cdot s^{-2}\cdot
 The **kelvin** is therefore equal to the thermodynamic temperature variation that results in a thermal energy variation $kT$ of $1.380649\times 10^{-23}\thinspace\mathrm J$.
 {{% /alert %}}
 
-### Mol (mol)
+### Mole (mol)
 $$
 1\thinspace\mathrm{mol} = \frac{6.02214076\times 10^{23}}{N_\mathrm A},
 $$
 
-donde $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es el número de Avogadro.
+where $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ is the Avogadro constant.
 
 {{% alert note %}}
-El **mol** es por tanto la cantidad de sustancia de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales especificadas.
+The **mole** is therefore the amount of substance in a system that contains $6.02214076\times 10^{23}$ specified elementary entities.
 {{% /alert %}}
 
 ### Candela (cd)
