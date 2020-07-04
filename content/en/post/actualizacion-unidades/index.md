@@ -57,7 +57,7 @@ $$
 where $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ is the unperturbed ground state hyperfine transition frequency of the caesium 133 atom.
 
 {{% alert note %}}
-El **segundo** es por tanto la duración de 9192631770 periodos de la radiación correspondiente a la transición entre los dos niveles hiperfinos del estado fundamental no perturbado del átomo de cesio 133.
+The **second** is therefore the duration of 9192631770 periods of radiation corresponding to the transition between the two hyperfine levels of the unperturbed ground state of the caesium 133 atom.
 {{% /alert %}}
 
 ### Metro (m)
