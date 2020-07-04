@@ -54,7 +54,7 @@ $$
 1\thinspace \mathrm s = \frac{9192631770}{\Delta\nu_\mathrm{Cs}},
 $$
 
-donde $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ es la frecuencia de la transición hiperfina del estado fundamental no perturbado del átomo de cesio 133.
+where $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ is the unperturbed ground state hyperfine transition frequency of the caesium 133 atom.
 
 {{% alert note %}}
 El **segundo** es por tanto la duración de 9192631770 periodos de la radiación correspondiente a la transición entre los dos niveles hiperfinos del estado fundamental no perturbado del átomo de cesio 133.
