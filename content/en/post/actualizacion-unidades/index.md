@@ -36,14 +36,14 @@ The **International System of Units (SI)** underwent a [revision in 2018](https:
 
 This update was made to define all the units **as a function of universal physical constants**, something that had already been achieved previously for the second (1967) and the meter (1983). The following table summarises the relationship between each unit and the universal constant on which it is based:
 
-| Unidad (símbolo) | Constante universal (símbolo)                                             |
+| Unit (symbol) | Universal constant (symbol)                                             |
 | ---------------- | ------------------------------------------------------------------------- |
-| Segundo (s)      | Frecuencia de transición del átomo de cesio 133 ($\Delta\nu_\mathrm{Cs}$) |
-| Metro (m)        | Velocidad de la luz en el vacío ($c$)                                     |
-| Kilogramo (kg)   | Constante de Planck ($h$)                                                 |
-| Amperio (A)      | Carga elemental ($e$)                                                     |
+| Second (s)      | Frecuencia de transición del átomo de cesio 133 ($\Delta\nu_\mathrm{Cs}$) |
+| Meter (m)        | Speed of light in vacuum ($c$)                                     |
+| Kilogram (kg)   | Constante de Planck ($h$)                                                 |
+| Ampere (A)      | Carga elemental ($e$)                                                     |
 | Kelvin (K)       | Constante de Boltzmann ($k$)                                              |
-| Mol (mol)        | Número de Avogadro ($N_\mathrm A$)                                        |
+| Mole (mol)        | Número de Avogadro ($N_\mathrm A$)                                        |
 | Candela (cd)     | Eficacia luminosa de la radiación de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ ($K_\mathrm{cd}$) |
 
 ## R.D. 493/2020, de 28 de abril [{{< icon name="download" pack="fas" >}}PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
