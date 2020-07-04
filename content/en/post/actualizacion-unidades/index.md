@@ -68,7 +68,7 @@ $$
 where $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ is the speed of light in vacuum.
 
 {{% alert note %}}
-El **metro** es por tanto la longitud del trayecto recorrido por la luz en el vacío durante un intervalo de tiempo de 1/299792458 de segundo.
+The **metre** is therefore the length of the path travelled by light in vacuum during a time interval of 1/299792458 of a second.
 {{% /alert %}}
 
 ### Kilogramo (kg)
