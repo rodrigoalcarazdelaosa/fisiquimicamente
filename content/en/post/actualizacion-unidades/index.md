@@ -25,7 +25,7 @@ image:
 ---
 
 {{% alert note %}}
-If you are not familiar with the **International System of Units (SI)** I recommend you to consult [this page](https://www.bipm.org/en/measurement-units/) of the [_Bureau International des Poids et Mesures_ (BIPM)](https://www.bipm.org/en/about-us/).
+If you are not familiar with the **International System of Units (SI)** I recommend you to check out [this page](https://www.bipm.org/en/measurement-units/) of the [_Bureau International des Poids et Mesures_ (BIPM)](https://www.bipm.org/en/about-us/).
 {{% /alert %}}
 
 {{% alert note %}}
