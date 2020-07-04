@@ -29,7 +29,7 @@ If you are not familiar with the **International System of Units (SI)** I recomm
 {{% /alert %}}
 
 {{% alert note %}}
-Si quieres ampliar la información mostrada aquí, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585199015985155?s=20) nos recomienda _imprimir y tener en nuestras aulas, laboratorios o seminarios_ [este fantástico póster](https://www.cem.es/sites/default/files/files/Poster%20Nuevo-SI.pdf) elaborado por el [Centro Español de Metrología (CEM)](https://www.cem.es) o echar un vistazo al magnífico artículo de David Newell [publicado en la revista Physics Today](https://physicstoday.scitation.org/doi/10.1063/PT.3.2448) (en inglés).
+If you want more information, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585201482317830?s=20) recommends that we take a look at David Newell's magnificent article [published in Physics Today magazine](https://physicstoday.scitation.org/doi/10.1063/PT.3.2448).
 {{% /alert %}}
 
 El **Sistema Internacional de Unidades (SI)** sufrió una [revisión en 2018](https://www.cem.es/sites/default/files/files/cem_revisionsi_edem_18mayo2018.pdf), con la **redefinición** de cuatro de sus siete _unidades de base_, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
