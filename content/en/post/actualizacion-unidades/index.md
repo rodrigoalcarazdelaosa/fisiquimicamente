@@ -38,7 +38,7 @@ This update was made to define all the units **as a function of universal physic
 
 | Unit (symbol) | Universal constant (symbol)                                             |
 | ---------------- | ------------------------------------------------------------------------- |
-| Second (s)      | Frecuencia de transición del átomo de cesio 133 ($\Delta\nu_\mathrm{Cs}$) |
+| Second (s)      | Transition frequency of the caesium 133 atom ($\Delta\nu_\mathrm{Cs}$) |
 | Meter (m)        | Speed of light in vacuum ($c$)                                     |
 | Kilogram (kg)   | Constante de Planck ($h$)                                                 |
 | Ampere (A)      | Carga elemental ($e$)                                                     |
