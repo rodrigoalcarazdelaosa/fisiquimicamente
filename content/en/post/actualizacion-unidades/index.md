@@ -48,7 +48,7 @@ This update was made to define all the units **as a function of universal physic
 
 ## Current Definitions of SI Base Units
 
-### Segundo (s)
+### Second (s)
 
 $$
 1\thinspace \mathrm s = \frac{9192631770}{\Delta\nu_\mathrm{Cs}},
