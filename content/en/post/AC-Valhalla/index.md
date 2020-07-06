@@ -26,7 +26,7 @@ England in the age of the Vikings is a fractured nation of petty lords and warri
 
 This little summary reminds $\infty$ to the series **Vikings** (you can find it in [Netflix](https://www.netflix.com/title/70301870)), which I strongly recommend you to see if you haven't done it.
 
-## Características
+## Features
 ### Escribe tu saga vikinga
 ![saga vikinga](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/11fnAIXY73SvPgCwsFJTGf/8b6e9f81d7a4544339c9ec8a1d64f14c/ACK_WriteYourVikingSaga__1_.png)
 
