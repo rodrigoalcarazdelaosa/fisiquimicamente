@@ -32,7 +32,7 @@ This little summary reminds $\infty$ to the series **Vikings** (you can find it 
 
 > Blaze your own path across England with advanced RPG mechanics. Fight brutal battles, lead fiery raids or use strategy and alliances with other leaders to bring victory. Every choice you make in combat and conversation is another step on the path to greatness.
 
-Parece que continúan con el camino empezado por [**Odyssey**](https://assassinscreed.ubisoft.com/game/es-es/odyssey) respecto al uso de **mecánicas RPG**.
+It seems that they continue with the path started by [**Odyssey**](https://assassinscreed.ubisoft.com/game/en-gb/odyssey) regarding the use of **RPG mechanics**.
 
 ### Lidera saqueos épicos
 ![saqueos épicos](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2n0tQAPCRAggRczGFSJ9IJ/e376be5d7f4fd84c250be1e48ce67a9f/ac-full-width_raid_desktop.png)
