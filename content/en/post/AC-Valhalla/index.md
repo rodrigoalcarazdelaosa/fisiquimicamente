@@ -48,12 +48,12 @@ You couldn't miss the **raids** on a **Viking** adventure, could you?
 
 Hopefully we will see combat elements taken from [**For Honor**](https://forhonor.ubisoft.com/game/en-gb/home/).
 
-### Haz prosperar tu asentamiento
-![prosperar asentamiento](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5DFQRcPN7xqCs79hr24wCp/402d56691739c8d8237e4fc8d677cbd9/ac-full-width_england-evening_desktop.png)
+### Grow Your Settlement
+![grow settlement](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5DFQRcPN7xqCs79hr24wCp/402d56691739c8d8237e4fc8d677cbd9/ac-full-width_england-evening_desktop.png)
 
-> Conforme crezca tu leyenda, el nuevo hogar de tu clan también prosperará. Personaliza tu asentamiento levantando estructuras que luego podrás mejorar. Desbloquea opciones y misiones construyendo barracones, una herrería, un salón de tatuajes y mucho más.
+> Your clan's new home grows with your legend. Customise your settlement by building upgradable structures. Unlock new features and quests by constructing a barracks, a blacksmith, a tattoo parlour, and much more.
 
-Esto es algo que a los/las fans de Assassin's Creed siempre nos ha gustado y se echaba de menos en las últimas entregas. ¡Genial!
+This is something we Assassin's Creed fans have always liked and missed in the last few releases. Great!
 
 ### Comparte tu saqueador personalizado
 ![saqueador personalizado](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4FzbQHeyJqEoKHsS8iG0LQ/f34f246b3e8b36f33c7ff4f0ac31b3ad/ac-full-width_jomsviking_desktop.png)
