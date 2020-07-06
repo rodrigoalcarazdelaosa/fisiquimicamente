@@ -55,12 +55,12 @@ Hopefully we will see combat elements taken from [**For Honor**](https://forhono
 
 This is something we Assassin's Creed fans have always liked and missed in the last few releases. Great!
 
-### Comparte tu saqueador personalizado
-![saqueador personalizado](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4FzbQHeyJqEoKHsS8iG0LQ/f34f246b3e8b36f33c7ff4f0ac31b3ad/ac-full-width_jomsviking_desktop.png)
+### Share Your Custom Raider
+![custom raider](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4FzbQHeyJqEoKHsS8iG0LQ/f34f246b3e8b36f33c7ff4f0ac31b3ad/ac-full-width_jomsviking_desktop.png)
 
-> Recluta mercenarios vikingos diseñados por otros jugadores o crea y personaliza el tuyo propio para compartirlo en línea. Relájate y recibe recompensas mientras tu guerrero lucha junto a tus amigos en su juego.
+> Recruit mercenary Vikings designed by other players or create and customise your own to share online. Sit back and reap the rewards when they fight alongside your friends in their game worlds.
 
-Una buena forma de **involucrar a la comunidad**, algo que ya consiguieron hacer muy bien en [Origins](https://www.ubisoft.com/es-es/game/assassins-creed-origins/) y [Odyssey](https://assassinscreed.ubisoft.com/game/es-es/odyssey).
+A good way to **involve the community**, something they've already done very well in [Origins](https://www.ubisoft.com/en-gb/game/assassins-creed-origins/) and [Odyssey](https://assassinscreed.ubisoft.com/game/en-gb/odyssey).
 
 ## Un mundo abierto ambientado en los años oscuros
 ![mundo abierto años oscuros](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7HMfAnuBJPtzcULd3sLi3i/1acf9296bcefd2fe8aa71756b9e8cd48/ac-full-width_vista_desktop.png)
