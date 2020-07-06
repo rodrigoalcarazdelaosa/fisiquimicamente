@@ -16,9 +16,9 @@ image:
 
 [^1]: [Ubisoft](https://www.ubisoft.com/en-gb/) has also released what they call the first glimpse of gameplay (actually no gameplay is shown, but even then we true fans love all this):
 
-	{{< youtube qloV1QSgi7g >}}
+	{{< youtube qloV1QSgi7g >}}	
 
-{{< youtube 4HoJzG16C2E >}}
+{{< youtube KjsxI01XWsA >}}
 
 ## Vive tu propia leyenda vikinga
 > Ponte en la piel de Eivor y lidera a tu clan desde los gélidos páramos de Noruega hasta un nuevo hogar en los exuberantes campos de la Inglaterra del siglo IX. Funda tu asentamiento, conquista esa tierra hostil cueste lo que cueste y gánate un lugar en el Valhalla.
