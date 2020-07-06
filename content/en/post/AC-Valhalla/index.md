@@ -14,7 +14,7 @@ image:
 
 [Ubisoft](https://www.ubisoft.com/en-gb/) has revealed the first trailer for the new **Assassin's Creed Valhalla**, to be released in late 2020[^1].
 
-[^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado lo que ellos llaman el primer vistazo al gameplay (en realidad no se muestra ningún gameplay, pero aún así a los verdaderos fans todo esto nos encanta):
+[^1]: [Ubisoft](https://www.ubisoft.com/en-gb/) has also released what they call the first glimpse of gameplay (actually no gameplay is shown, but even then we true fans love all this):
 
 	{{< youtube qloV1QSgi7g >}}
 
