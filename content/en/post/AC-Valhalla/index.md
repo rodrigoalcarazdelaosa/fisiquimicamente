@@ -9,7 +9,7 @@ categories:
 - Videogames
 image:
   placement: 3
-  caption: "[**Assassin's Creed Valhalla**](https://www.ubisoft.com/es-es/game/assassins-creed/valhalla)"
+  caption: "[**Assassin's Creed Valhalla**](https://www.ubisoft.com/en-gb/game/assassins-creed/valhalla)"
 ---
 
 [Ubisoft](https://www.ubisoft.com/en-gb/) has revealed the first trailer for the new **Assassin's Creed Valhalla**, to be released in late 2020[^1].
