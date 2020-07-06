@@ -27,10 +27,10 @@ England in the age of the Vikings is a fractured nation of petty lords and warri
 This little summary reminds $\infty$ to the series **Vikings** (you can find it in [Netflix](https://www.netflix.com/title/70301870)), which I strongly recommend you to see if you haven't done it.
 
 ## Features
-### Escribe tu saga vikinga
-![saga vikinga](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/11fnAIXY73SvPgCwsFJTGf/8b6e9f81d7a4544339c9ec8a1d64f14c/ACK_WriteYourVikingSaga__1_.png)
+### Write Your Viking Saga
+![viking saga](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/11fnAIXY73SvPgCwsFJTGf/8b6e9f81d7a4544339c9ec8a1d64f14c/ACK_WriteYourVikingSaga__1_.png)
 
-> Ábrete paso por Inglaterra gracias a las avanzadas mecánicas de RPG. Libra batallas brutales, dirige despiadados saqueos o planea estrategias y alianzas con otros líderes para lograr la victoria. Cada decisión que tomes en los combates y las conversaciones será un paso más en tu camino a la grandeza.
+> Blaze your own path across England with advanced RPG mechanics. Fight brutal battles, lead fiery raids or use strategy and alliances with other leaders to bring victory. Every choice you make in combat and conversation is another step on the path to greatness.
 
 Parece que continúan con el camino empezado por [**Odyssey**](https://assassinscreed.ubisoft.com/game/es-es/odyssey) respecto al uso de **mecánicas RPG**.
 
