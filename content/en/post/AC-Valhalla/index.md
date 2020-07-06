@@ -34,7 +34,7 @@ This little summary reminds $\infty$ to the series **Vikings** (you can find it 
 
 It seems that they continue with the path started by [**Odyssey**](https://assassinscreed.ubisoft.com/game/en-gb/odyssey) regarding the use of **RPG mechanics**.
 
-### Lead epic raids
+### Lead Epic Raids
 ![epic raids](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2n0tQAPCRAggRczGFSJ9IJ/e376be5d7f4fd84c250be1e48ce67a9f/ac-full-width_raid_desktop.png)
 
 > Lead a crew of raiders and launch lightning-fast surprise attacks against Saxon armies and fortresses. Claim the riches of your enemies' lands for your clan and expand your influence far beyond your growing settlement.
