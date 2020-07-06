@@ -63,11 +63,11 @@ This is something we Assassin's Creed fans have always liked and missed in the l
 A good way to **involve the community**, something they've already done very well in [Origins](https://www.ubisoft.com/en-gb/game/assassins-creed-origins/) and [Odyssey](https://assassinscreed.ubisoft.com/game/en-gb/odyssey).
 
 ## A Dark Age Open World
-![mundo abierto años oscuros](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7HMfAnuBJPtzcULd3sLi3i/1acf9296bcefd2fe8aa71756b9e8cd48/ac-full-width_vista_desktop.png)
+![dark age open world](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7HMfAnuBJPtzcULd3sLi3i/1acf9296bcefd2fe8aa71756b9e8cd48/ac-full-width_vista_desktop.png)
 
-> Surca el gélido mar del Norte para descubrir y conquistar los fracturados reinos de Inglaterra. Participa en actividades como cacerías y juegos de beber, o compite en los tradicionales duelos de escarnios nórdicos, batallas de rap vikingas en las que deberás destrozar verbalmente a tu contrincante.
+> Sail across the icy North Sea to discover and conquer the broken kingdoms of England. Immerse yourself in activities like hunting and drinking games or engage in traditional Norse competitions like flyting – or, as it's better known, verbally devastating rivals through the art of the Viking rap battle.
 
-No me cabe la menor duda de que [Ubisoft](https://www.ubisoft.com/es-es/) habrá creado un mundo lleno de vida, cuidando hasta el máximo detalle, al estilo de lo que nos viene acostumbrando desde [Black Flag](https://www.ubisoft.com/es-es/game/assassins-creed-4-black-flag/).
+I have no doubt that [Ubisoft](https://www.ubisoft.com/en-gb/) will have created a world full of life, taking care of every detail, in the style of what we have been used to since [Black Flag](https://www.ubisoft.com/en-gb/game/assassins-creed-4-black-flag/).
 
 {{% alert note %}}
 Puedes encontrar **más información** en la [página web oficial](https://www.ubisoft.com/es-es/game/assassins-creed/valhalla) del juego.
