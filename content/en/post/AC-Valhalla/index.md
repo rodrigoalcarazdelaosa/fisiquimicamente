@@ -16,7 +16,7 @@ image:
 
 [^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado lo que ellos llaman el primer vistazo al gameplay (en realidad no se muestra ningún gameplay, pero aún así a los verdaderos fans todo esto nos encanta):
 
-	{{< youtube D6qYF3CkjEQ >}}
+	{{< youtube qloV1QSgi7g >}}
 
 {{< youtube 4HoJzG16C2E >}}
 
