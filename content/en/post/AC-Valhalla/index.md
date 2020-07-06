@@ -41,12 +41,12 @@ It seems that they continue with the path started by [**Odyssey**](https://assas
 
 You couldn't miss the **raids** on a **Viking** adventure, could you?
 
-### Participa en brutales combates
-![brutales combates](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5JE9v6dbyUyWc6cVkw8MXR/dc377befabf3505ee1caec6cb9f70f30/ac-full-width_combat_desktop.png)
+### Engage in Visceral Combat
+![visceral combat](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5JE9v6dbyUyWc6cVkw8MXR/dc377befabf3505ee1caec6cb9f70f30/ac-full-width_combat_desktop.png)
 
-> Lucha sin piedad como un guerrero vikingo. Enfréntate a implacables enemigos blandiendo un arma en cada mano, desde hachas hasta espadas e incluso escudos. Decapita a tus adversarios en peleas cuerpo a cuerpo, acribíllalos a flechazos o asesínalos con tu hoja oculta.
+> Unleash the ruthless fighting style of a Viking warrior as you dual-wield axes, swords, or even shields against relentless foes. Decapitate opponents in close-quarters combat, riddle them with arrows, or assassinate them with your Hidden Blade.
 
-Con suerte veremos elementos de combate tomados de [**For Honor**](https://forhonor.ubisoft.com/game/es-es/home/).
+Hopefully we will see combat elements taken from [**For Honor**](https://forhonor.ubisoft.com/game/en-gb/home/).
 
 ### Haz prosperar tu asentamiento
 ![prosperar asentamiento](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5DFQRcPN7xqCs79hr24wCp/402d56691739c8d8237e4fc8d677cbd9/ac-full-width_england-evening_desktop.png)
