@@ -111,7 +111,7 @@ gallery_item:
   caption: "This [image of Ceres](https://solarsystem.nasa.gov/resources/792/dawn-rc3-image-3/) is part of a sequence taken by NASA's Dawn spacecraft in 2015. Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"    
 - album: Io
   image: "999_poster_io_front_a_v2.jpg"
-  caption: "La nave espacial Galileo de la NASA adquirió [esta vista de Io](https://solarsystem.nasa.gov/resources/808/global-image-of-io-true-color/) en julio de 1999, y se aproxima a lo que el ojo humano vería. Crédito: NASA/JPL-Caltech/Universidad de Arizona <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1477_Io_A_PDF.zip)"
+  caption: "NASA's Galileo spacecraft acquired [this view of Io](https://solarsystem.nasa.gov/resources/808/global-image-of-io-true-color/) in July 1999, and approximates what the human eye would see. Credit: NASA/JPL-Caltech/University of Arizona <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1477_Io_A_PDF.zip)"
 - album: Io
   image: "1000_poster_io_front_b_v2.jpg"
   caption: "La nave espacial Galileo de la NASA captó a la luna de Júpiter, Io, la tercera luna más grande del planeta, sufriendo una erupción volcánica. Crédito: NASA/JPL/Universidad de Arizona <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1481_Io_B_PDF.zip)"
