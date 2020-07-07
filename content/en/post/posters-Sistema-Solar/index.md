@@ -141,7 +141,7 @@ gallery_item:
   caption: "NASA's Cassini spacecraft delivered [this glorious view of Saturn](https://solarsystem.nasa.gov/resources/664/a-splendor-seldom-seen/), taken while the spacecraft was in the planet's shadow. Credit: NASA/JPL-Caltech/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1595_Saturn_D_PDF.zip)"
 - album: Titan
   image: "977_poster_titan_front_a.jpg"
-  caption: "La nave espacial Cassini de la NASA [mira hacia el lado nocturno de Titán](https://solarsystem.nasa.gov/resources/799/highlighting-titans-hazes/) en una vista que destaca la naturaleza extendida y nebulosa de la atmósfera de la luna. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1393_Titan_A_PDF.zip)"
+  caption: "NASA's Cassini spacecraft [looks toward the night side of Titan](https://solarsystem.nasa.gov/resources/799/highlighting-titans-hazes/) in a view that highlights the extended, hazy nature of the moon's atmosphere. Credit: NASA/JPL-Caltech/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1393_Titan_A_PDF.zip)"
 - album: Titan
   image: "978_poster_titan_front_b.jpg"
   caption: "Ligeia Mare, mostrado aquí en una [imagen de color falso de la misión Cassini de la NASA](https://solarsystem.nasa.gov/resources/183/vast-ligeia-mare-in-false-color/), es el segundo mayor cuerpo de líquido conocido en la luna Titán de Saturno. Está lleno de hidrocarburos líquidos, como el etano y el metano. Crédito: NASA/JPL-Caltech/ASI/Cornell <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1397_Titan_B_PDF.zip)"
