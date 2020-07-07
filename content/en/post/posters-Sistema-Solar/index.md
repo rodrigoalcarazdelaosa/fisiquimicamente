@@ -108,7 +108,7 @@ gallery_item:
   caption: "This view of Ceres, taken by NASA's Dawn spacecraft in December 2015, shows [an area in the southern hemisphere of the dwarf planet](https://solarsystem.nasa.gov/resources/625/dawns-lowest-orbit-near-south-pole/?category=planets/dwarf-planets_ceres). Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1425_Ceres_B_PDF.zip)"
 - album: Ceres
   image: "986_poster_ceres_front_c.jpg"
-  caption: "Esta [imagen de Ceres](https://solarsystem.nasa.gov/resources/792/dawn-rc3-image-3/) es parte de una secuencia tomada por la nave espacial Dawn de la NASA en 2015. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"    
+  caption: "This [image of Ceres](https://solarsystem.nasa.gov/resources/792/dawn-rc3-image-3/) is part of a sequence taken by NASA's Dawn spacecraft in 2015. Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"    
 - album: Io
   image: "999_poster_io_front_a_v2.jpg"
   caption: "La nave espacial Galileo de la NASA adquirió [esta vista de Io](https://solarsystem.nasa.gov/resources/808/global-image-of-io-true-color/) en julio de 1999, y se aproxima a lo que el ojo humano vería. Crédito: NASA/JPL-Caltech/Universidad de Arizona <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1477_Io_A_PDF.zip)"
