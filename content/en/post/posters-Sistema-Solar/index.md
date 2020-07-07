@@ -177,7 +177,7 @@ gallery_item:
   caption: "A view of Neptune [from NASA's Voyager 2 spacecraft](https://solarsystem.nasa.gov/resources/842/neptune-august-31-1989/) in 1989. Credit: NASA/JPL/Kevin M. Gill <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1489_Neptune_B_PDF.zip)"
 - album: Pluton
   image: "1045_poster_pluto_front_a.jpg"
-  caption: "Una vista en color de Plutón, [como se vio en julio de 2015 por la misión New Horizons de la NASA](https://solarsystem.nasa.gov/resources/855/color-pluto/). Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Instituto de Investigación del Suroeste <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1599_Pluto_A_PDF.zip)"
+  caption: "A color view of Pluto, [as seen in July 2015 by NASA's New Horizons mission](https://solarsystem.nasa.gov/resources/855/color-pluto/). Credit: NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1599_Pluto_A_PDF.zip)"
 - album: Pluton
   image: "1046_poster_pluto_front_b.jpg"
   caption: "Una mirada a las montañas y llanuras de Plutón, [como se vio en julio de 2015 por la misión Nuevos Horizontes de la NASA](https://solarsystem.nasa.gov/resources/796/closer-look-majestic-mountains-and-frozen-plains/). Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Instituto de Investigación del Suroeste <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1603_Pluto_B_PDF.zip)"
