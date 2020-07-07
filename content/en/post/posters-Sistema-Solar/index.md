@@ -255,7 +255,7 @@ In this post I go through the different posters, all of them **impressive**. Cli
 ### Europa
 {{< gallery album="Europa" >}}
 ### Ganymede
-{{< figure src="947_poster_ganymede_front_a.jpg" title="Esta vista de la [región Nicholson Regio/Arbela Sulcus](https://solarsystem.nasa.gov/resources/813/regional-view-of-bright-and-dark-terrain/), tomada por la nave espacial Galileo de la NASA, muestra el marcado contraste entre el suave y brillante terreno y el terreno oscuro altamente fracturado que lo rodea. Crédito: NASA/JPL/Brown University/Doug Ellison <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1353_Ganymede_A_PDF.zip)" lightbox="true" >}}
+{{< figure src="947_poster_ganymede_front_a.jpg" title="This view of the [Nicholson Regio/Arbela Sulcus region](https://solarsystem.nasa.gov/resources/813/regional-view-of-bright-and-dark-terrain/), taken by NASA's Galileo spacecraft, shows the stark contrast between the smooth bright terrain and the surrounding highly fractured dark terrain. Credit: NASA/JPL/Brown University/Doug Ellison <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1353_Ganymede_A_PDF.zip)" lightbox="true" >}}
 ### Callisto
 {{< gallery album="Calisto" >}}
 ## Saturn
