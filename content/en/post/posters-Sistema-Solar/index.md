@@ -198,7 +198,7 @@ gallery_item:
   caption: "This [artist's concept](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) illustrates the spiral structure of our galaxy, the Milky Way. Credit: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1294_Beyond_A_PDF.zip)"
 - album: Mas-alla
   image: "939_poster_beyond_front_b.jpg"
-  caption: "La región alrededor del centro de nuestra galaxia de la Vía Láctea brilla con colores en [esta imagen tomada por el Telescopio Espacial Spitzer de la NASA](https://solarsystem.nasa.gov/resources/496/stars-gather-in-downtown-milky-way/). Crédito: NASA/JPL-Caltech <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1323_Beyond_B_PDF.zip)"
+  caption: "The region around the center of our Milky Way galaxy glows colorfully in [this image taken by NASA's Spitzer Space Telescope](https://solarsystem.nasa.gov/resources/496/stars-gather-in-downtown-milky-way/). Credit: NASA/JPL-Caltech <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1323_Beyond_B_PDF.zip)"
 - album: Mas-alla
   image: "940_poster_beyond_front_c.jpg"
   caption: "Los *Pilares de la Creación* de la Nebulosa del Águila, vistos por el Telescopio Espacial Hubble de la NASA/ESA. Esta imagen [muestra los pilares como se ven en luz visible](https://www.spacetelescope.org/images/heic1501a/). Crédito: NASA, ESA/Hubble y el Equipo de Patrimonio del Hubble <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1327_Beyond_C_PDF.zip)"
