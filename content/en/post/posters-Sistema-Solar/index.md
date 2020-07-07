@@ -87,7 +87,7 @@ gallery_item:
   caption: "A close-up view of [an astronaut's bootprint](https://solarsystem.nasa.gov/resources/759/close-up-view-of-astronauts-footprint-in-lunar-soil/) in the lunar soil, photographed during the Apollo 11 extravehicular activity on the Moon. Credit: NASA/JSC <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1525_Moon_I_PDF.zip)"
 - album: Marte
   image: "1036_poster_mars_front_a.jpg"
-  caption: "Un [mosaico del hemisferio del Valles Marineris de Marte](https://solarsystem.nasa.gov/resources/683/mars-valles-marineris-hemisphere-enhanced/), creado con imágenes de los orbitadores Viking de la NASA, proyectadas en perspectiva puntual &mdash;una vista similar a la que se vería desde una nave espacial. Crédito: NASA/JPL-Caltech <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1569_1569_Mars_A_PDF.zip)"
+  caption: "A [mosaic of the Valles Marineris hemisphere of Mars](https://solarsystem.nasa.gov/resources/683/mars-valles-marineris-hemisphere-enhanced/), created with images from NASA's Viking orbiters, projected into point perspective--a view similar to that which one would see from a spacecraft. Credit: NASA/JPL-Caltech <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1569_1569_Mars_A_PDF.zip)"
 - album: Marte
   image: "1037_poster_mars_front_b.jpg"
   caption: "Un autorretrato del [rover Curiosity Mars de la NASA](https://solarsystem.nasa.gov/resources/801/curiosity-self-portrait-at-mojave-site-on-mount-sharp/) en el cráter Gale. Crédito: NASA/JPL-Caltech/MSSS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1573_1573_Mars_B_PDF.zip)"
