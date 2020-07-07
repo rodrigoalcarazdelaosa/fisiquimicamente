@@ -99,7 +99,7 @@ gallery_item:
   caption: "[This view of the asteroid 243 Ida](https://solarsystem.nasa.gov/resources/777/asteroid-ida-five-frame-mosaic/) was acquired by NASA's Galileo spacecraft on Aug. 28, 1993, about 3-1/2 minutes before the spacecraft made its closest approach to Ida. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1285_Asteroids_A_PDF.zip)"
 - album: Asteroides
   image: "923_poster_asteroids_front_b.jpg"
-  caption: "NASA's Dawn spacecraft obtained [this image of the protoplanet Vesta](https://solarsystem.nasa.gov/resources/1034/a-last-look-back-at-vesta/) in 2012, looking down at Vesta's north pole as the spacecraft was departing. Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"  
+  caption: "NASA's Dawn spacecraft obtained [this image of the protoplanet Vesta](https://solarsystem.nasa.gov/resources/414/a-last-look-back-at-vesta/) in 2012, looking down at Vesta's north pole as the spacecraft was departing. Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"  
 - album: Ceres
   image: "984_poster_ceres_front_a.jpg"
   caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
