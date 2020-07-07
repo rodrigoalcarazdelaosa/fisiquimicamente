@@ -192,7 +192,7 @@ gallery_item:
   caption: "A view of [comet 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/790/comet-jet-in-3d/) based on two images acquired by the European Space Agency's Rosetta mission. Credit: ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1437_Comets_B_PDF.zip)"
 - album: Cometas
   image: "990_poster_comets_front_c.jpg"
-  caption: "Una sección del [más pequeño de los dos lóbulos del cometa 67P/Churyumov-Gerasimenko](https://rosetta.jpl.nasa.gov/gallery/images/comet-67p/churyumov-gerasimenko/comet-8-km), como se vio en la misión Rosetta de la Agencia Espacial Europea en octubre de 2014. Crédito: ESA/Rosetta/MPS para el equipo OSIRIS MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1441_Comets_C_PDF.zip)"
+  caption: "A section of [the smaller of comet 67P/Churyumov–Gerasimenko’s two lobes](https://rosetta.jpl.nasa.gov/gallery/images/comet-67p/churyumov-gerasimenko/comet-8-km) as seen by the European Space Agency's Rosetta mission in October 2014. Credit: ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1441_Comets_C_PDF.zip)"
 - album: Mas-alla
   image: "924_poster_beyond_front_a.jpg"
   caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1294_Beyond_A_PDF.zip)"
