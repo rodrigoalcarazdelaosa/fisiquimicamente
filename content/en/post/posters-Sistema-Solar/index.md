@@ -221,60 +221,56 @@ In this post I go through the different posters, all of them **impressive**. Cli
 
 {{% toc %}}
 
-## El Sistema Solar
+## Our Solar System
 {{< figure src="2283_poster_ss_front_a_web.jpg" title="Esta representación artística muestra los ocho planetas principales de nuestro sistema solar alineados como si estuvieran transitando por el Sol. Aunque tal vista no sería posible en la realidad, el gráfico pretende mostrar la escala exacta de los planetas, en relación a cada uno de ellos y al Sol. <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/2854_SSE_A_PDF.zip)" lightbox="true" >}}
 
-## El Sol
+## The Sun
 {{< gallery album="Sol" >}}
 
-## Mercurio
+## Mercury
 {{< gallery album="Mercurio" >}}
 
 ## Venus
 {{< gallery album="Venus" >}}
 
-## La Tierra
+## Earth
 {{< gallery album="Tierra" >}}
 
-### La Luna
+### Earth's Moon
 {{< gallery album="Luna" >}}
 
-## Marte
+## Mars
 {{< gallery album="Marte" >}}
 
-## Asteroides
+## Asteroids
 {{< gallery album="Asteroides" >}}
 ### Ceres
 {{< gallery album="Ceres" >}}
 
-## Júpiter
+## Jupiter
 {{< figure src="1032_poster_jupiter_front_a.jpg" title="Este [mosaico de color verdadero de Júpiter](https://solarsystem.nasa.gov/resources/629/cassini-jupiter-portrait/) fue construido a partir de imágenes tomadas por la cámara de ángulo estrecho a bordo de la nave espacial Cassini de la NASA en diciembre de 2000. Crédito: NASA/JPL/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1556_Jupiter_A_PDF.zip)" lightbox="true" >}}
 
-### Ío
+### Io
 {{< gallery album="Io" >}}
 ### Europa
 {{< gallery album="Europa" >}}
-### Ganímedes
+### Ganymede
 {{< figure src="947_poster_ganymede_front_a.jpg" title="Esta vista de la [región Nicholson Regio/Arbela Sulcus](https://solarsystem.nasa.gov/resources/813/regional-view-of-bright-and-dark-terrain/), tomada por la nave espacial Galileo de la NASA, muestra el marcado contraste entre el suave y brillante terreno y el terreno oscuro altamente fracturado que lo rodea. Crédito: NASA/JPL/Brown University/Doug Ellison <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1353_Ganymede_A_PDF.zip)" lightbox="true" >}}
-### Calisto
+### Callisto
 {{< gallery album="Calisto" >}}
-## Saturno
+## Saturn
 {{< gallery album="Saturno" >}}
-### Titán
+### Titan
 {{< gallery album="Titan" >}}
-### Encélado
+### Enceladus
 {{< gallery album="Encelado" >}}
-## Urano
+## Uranus
 {{< gallery album="Urano" >}}
-## Neptuno
+## Neptune
 {{< gallery album="Neptuno" >}}
-## Plutón
+## Pluto
 {{< gallery album="Pluton" >}}
-## Cometas
+## Comets
 {{< gallery album="Cometas" >}}
-## Más allá del Sistema Solar
+## Beyond Our Solar System
 {{< gallery album="Mas-alla" >}}
-
-{{% alert note %}}
-Ahora que has visto todos los pósters, **vota** tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
-{{% /alert %}}
