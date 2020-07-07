@@ -54,7 +54,7 @@ gallery_item:
   caption: "In 2002, NASA scientists stitched together strips of [natural color images of Earth](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/), collected over four months from the MODIS instrument aboard NASA's Terra satellite. Credit: NASA's Earth Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1457_Earth_D_PDF.zip)"
 - album: Tierra
   image: "995_poster_earth_front_e.jpg"
-  caption: "El satélite Terra de la NASA captó un vistazo de las columnas que se elevan de los [volcanes](https://solarsystem.nasa.gov/resources/1040/plumes-over-the-kamchatka-peninsula/) de la Península de Kamchatka en enero de 2018. Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1461_Earth_E_PDF.zip)"          
+  caption: "NASA’s Terra satellite caught a glimpse of plumes rising from [volcanoes](https://solarsystem.nasa.gov/resources/1040/plumes-over-the-kamchatka-peninsula/) in the Kamchatka Peninsula in January 2018. Credit: NASA's Earth Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1461_Earth_E_PDF.zip)"          
 - album: Tierra
   image: "996_poster_earth_front_f.jpg"
   caption: "En esta imagen del satélite Landsat 8 de la NASA, [varios glaciares fluyen hacia el Valle Shimshal](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"
