@@ -93,7 +93,7 @@ gallery_item:
   caption: "A self-portrait of [NASA's Curiosity Mars rover](https://solarsystem.nasa.gov/resources/801/curiosity-self-portrait-at-mojave-site-on-mount-sharp/) in Gale Crater. Credit: NASA/JPL-Caltech/MSSS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1573_1573_Mars_B_PDF.zip)"
 - album: Marte
   image: "1038_poster_mars_front_c.jpg"
-  caption: "Esta [mirada a una duna](https://solarsystem.nasa.gov/resources/464/curiositys-color-view-of-martian-dune-after-crossing-it/) que el rover Curiosidad Marte de la NASA atravesó fue tomada por la Cámara del Mástil del rover en Febrero de 2014. Crédito: NASA/JPL-Caltech/MSSS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1577_1577_Mars_C_PDF.zip)"
+  caption: "This [look back at a dune](https://solarsystem.nasa.gov/resources/464/curiositys-color-view-of-martian-dune-after-crossing-it/) that NASA's Curiosity Mars rover crossed was taken by the rover's Mast Camera in February 2014. Credit: NASA/JPL-Caltech/MSSS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1577_1577_Mars_C_PDF.zip)"
 - album: Asteroides
   image: "916_poster_asteroids_front_a.jpg"
   caption: "[Esta vista del asteroide 243 Ida](https://solarsystem.nasa.gov/resources/777/asteroid-ida-five-frame-mosaic/) fue adquirida por la nave espacial Galileo de la NASA el 28 de agosto de 1993, unos 3 minutos y medio antes de que la nave espacial pasara al lado de Ida. Crédito: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1285_Asteroids_A_PDF.zip)"
