@@ -162,7 +162,7 @@ gallery_item:
   caption: "[Dramatic plumes](https://solarsystem.nasa.gov/resources/806/bursting-at-the-seams-the-geyser-basin-of-enceladus/), both large and small, spray water ice and vapor from many locations along the famed *tiger stripes* near the south pole of Saturn's moon Enceladus. Credit: NASA/JPL-Caltech/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1541_Enceladus_D_PDF.zip)"
 - album: Urano
   image: "974_poster_uranus_front_a.jpg"
-  caption: "Una [vista del planeta Urano](https://solarsystem.nasa.gov/resources/599/uranus-as-seen-by-nasas-voyager-2/) capturada por la nave espacial Voyager 2 de la NASA en 1986. Crédito: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1380_Uranus_A_PDF.zip)"
+  caption: "A [view of the planet Uranus](https://solarsystem.nasa.gov/resources/599/uranus-as-seen-by-nasas-voyager-2/) captured by NASA's Voyager 2 spacecraft in 1986. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1380_Uranus_A_PDF.zip)"
 - album: Urano
   image: "975_poster_uranus_front_b.jpg"
   caption: "Una [vista del planeta Urano](https://solarsystem.nasa.gov/resources/797/uranus/) tomada por la nave espacial Voyager 2 de la NASA en 1986. Crédito: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1384_Uranus_B_PDF.zip)"
