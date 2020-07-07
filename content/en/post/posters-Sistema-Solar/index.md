@@ -126,7 +126,7 @@ gallery_item:
   caption: "Bright scars on a darker surface testify to a long history of impacts on Jupiter's moon Callisto in [this image from NASA's Galileo spacecraft](https://solarsystem.nasa.gov/resources/811/global-callisto-in-color/). Credit: NASA/JPL/DLR <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1349_Callisto_A_PDF.zip)"
 - album: Calisto
   image: "945_poster_callisto_front_b.jpg"
-  caption: "Este [mosaico de imágenes](https://solarsystem.nasa.gov/resources/812/callisto-mosaic/) de la nave espacial Voyager 1 de la NASA en marzo de 1979 muestra detalles tan pequeños como 10 kilómetros de diámetro. Crédito: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1345_Callisto_B_PDF.zip)"
+  caption: "This [mosaic of images](https://solarsystem.nasa.gov/resources/812/callisto-mosaic/) from NASA's Voyager 1 spacecraft in March 1979 shows details as small as six miles (10 kilometers) across. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1345_Callisto_B_PDF.zip)"
 - album: Saturno
   image: "1041_poster_saturn_front_a.jpg"
   caption: "La nave espacial Cassini de la NASA se despidió del sistema de Saturno capturando este [último y completo mosaico](https://solarsystem.nasa.gov/resources/657/a-farewell-to-saturn/) de Saturno y sus anillos dos días antes de la dramática caída de la nave espacial en la atmósfera del planeta. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1583_Saturn_A_PDF.zip)"
