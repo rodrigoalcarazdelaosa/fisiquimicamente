@@ -114,7 +114,7 @@ gallery_item:
   caption: "NASA's Galileo spacecraft acquired [this view of Io](https://solarsystem.nasa.gov/resources/808/global-image-of-io-true-color/) in July 1999, and approximates what the human eye would see. Credit: NASA/JPL-Caltech/University of Arizona <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1477_Io_A_PDF.zip)"
 - album: Io
   image: "1000_poster_io_front_b_v2.jpg"
-  caption: "La nave espacial Galileo de la NASA captó a la luna de Júpiter, Io, la tercera luna más grande del planeta, sufriendo una erupción volcánica. Crédito: NASA/JPL/Universidad de Arizona <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1481_Io_B_PDF.zip)"
+  caption: "NASA's Galileo spacecraft caught Jupiter's moon Io, the planet’s third-largest moon, undergoing a volcanic eruption. Credit: NASA/JPL/University of Arizona <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1481_Io_B_PDF.zip)"
 - album: Europa
   image: "997_poster_europa_front_a.jpg"
   caption: "La luna helada de Júpiter, Europa, se alza en esta [vista en color](https://solarsystem.nasa.gov/resources/204/europas-stunning-surface/), hecha de imágenes tomadas por la nave espacial Galileo de la NASA a finales de los 90. Crédito: NASA/JPL-Caltech/SETI Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1469_Europa_A_PDF.zip)"
