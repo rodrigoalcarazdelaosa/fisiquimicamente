@@ -24,7 +24,7 @@ gallery_item:
   caption: "The Sun [emits a mid-level solar flare](https://solarsystem.nasa.gov/resources/768/nasas-sdo-sees-sun-emit-mid-level-flare-oct-1/), as seen by NASA’s Solar Dynamics Observatory in 2015. Credit: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1413_Sun_C_PDF.zip)"
 - album: Sol
   image: "983_poster_sun_front_d.jpg"
-  caption: "El Sol [hizo explotar una eyección de masa coronal](https://solarsystem.nasa.gov/resources/1051/brief-outburst/) junto con parte de un filamento solar el 24 de febrero de 2015, como lo vio el Observatorio de Dinámica Solar de la NASA (SDO). Crédito: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1417_Sun_D_PDF.zip)"
+  caption: "The Sun [blew out a coronal mass ejection](https://solarsystem.nasa.gov/resources/1051/brief-outburst/) along with part of a solar filament on Feb. 24, 2015, as seen by NASA's Solar Dynamics Observatory (SDO). Credit: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1417_Sun_D_PDF.zip)"
 - album: Mercurio
   image: "1048_poster_mercury_front_a.jpg"
   caption: "Un [mapa global de la superficie de Mercurio](https://solarsystem.nasa.gov/resources/532/mercury-false-color-rotation-movie/) creado a partir de imágenes obtenidas por la nave espacial MESSENGER de la NASA. Los colores no son los que el ojo vería, sino que están relacionados con variaciones de composición de la superficie. Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Institución Carnegie de Washington <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1611_Mercury_A_PDF.zip)"
