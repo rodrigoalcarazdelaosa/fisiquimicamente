@@ -186,7 +186,7 @@ gallery_item:
   caption: "Scientists with NASA's New Horizons mission used [enhanced color images like this one](https://solarsystem.nasa.gov/resources/699/pluto-dazzles-in-false-color/) to detect differences in the composition and texture of Pluto’s surface. Credit: NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1607_Pluto_C_PDF.zip)"
 - album: Cometas
   image: "988_poster_comets_front_a.jpg"
-  caption: "Un mosaico que comprende [cuatro imágenes individuales del cometa 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/788/rosetta-comet/) de la misión Rosetta de la Agencia Espacial Europea en noviembre de 2014. Crédito: ESA/Rosetta/NAVCAM <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1433_Comets_A_PDF.zip)"
+  caption: "A mosaic comprising [four individual images of comet 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/788/rosetta-comet/) from the European Space Agency's Rosetta mission in November 2014. Credit: ESA/Rosetta/NAVCAM <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1433_Comets_A_PDF.zip)"
 - album: Cometas
   image: "989_poster_comets_front_b.jpg"
   caption: "Una vista del [cometa 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/790/comet-jet-in-3d/) basada en dos imágenes adquiridas por la misión Rosetta de la Agencia Espacial Europea. Crédito: o ESA/Rosetta/MPS para el equipo OSIRIS MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1437_Comets_B_PDF.zip)"
