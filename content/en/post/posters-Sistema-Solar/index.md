@@ -174,7 +174,7 @@ gallery_item:
   caption: "This [picture of Neptune](https://solarsystem.nasa.gov/resources/611/neptune-full-disk-view/) came from NASA's Voyager 2 spacecraft in 1989. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1485_Neptune_A_PDF.zip)"
 - album: Neptuno
   image: "1002_poster_neptune_front_b.jpg"
-  caption: "Una vista de Neptuno [desde la nave espacial Voyager 2 de la NASA](https://solarsystem.nasa.gov/resources/842/neptune-august-31-1989/) en 1989. Crédito: NASA/JPL/Kevin M. Gill <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1489_Neptune_B_PDF.zip)"
+  caption: "A view of Neptune [from NASA's Voyager 2 spacecraft](https://solarsystem.nasa.gov/resources/842/neptune-august-31-1989/) in 1989. Credit: NASA/JPL/Kevin M. Gill <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1489_Neptune_B_PDF.zip)"
 - album: Pluton
   image: "1045_poster_pluto_front_a.jpg"
   caption: "Una vista en color de Plutón, [como se vio en julio de 2015 por la misión New Horizons de la NASA](https://solarsystem.nasa.gov/resources/855/color-pluto/). Crédito: NASA/Laboratorio de Física Aplicada de la Universidad Johns Hopkins/Instituto de Investigación del Suroeste <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1599_Pluto_A_PDF.zip)"
