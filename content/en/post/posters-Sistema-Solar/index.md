@@ -213,6 +213,72 @@ gallery_item:
   caption: "El cúmulo estelar NGC 281, conocido informalmente como la _Nebulosa de Pacman_, está situado a unos 6.500 años luz de la Tierra. [Esta imagen](https://solarsystem.nasa.gov/resources/763/the-pacman-nebula/) proviene de datos del telescopio espacial Chandra de la NASA, en morado, con observaciones en infrarrojo del telescopio espacial Spitzer de la NASA. Crédito: Rayos X: NASA/CXC/CfA/S.Wolk; IR: NASA/JPL/CfA/S.Wolk <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1341_Beyond_F_PDF.zip)"          
 ---
 
+[Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
+
+{{< tweet 1262678794554486784 >}}
+
 {{% alert note %}}
-Coming soon...
+En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. Pinchando en cada una de las imágenes encontrarás su descripción traducida y un enlace para descargar el póster correspondiente en formato PDF de alta resolución.
+
+Cuando hayas visto todos los pósters, te invito a que **votes** cuál es tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
+{{% /alert %}}
+
+{{% toc %}}
+
+## El Sistema Solar
+{{< figure src="2283_poster_ss_front_a_web.jpg" title="Esta representación artística muestra los ocho planetas principales de nuestro sistema solar alineados como si estuvieran transitando por el Sol. Aunque tal vista no sería posible en la realidad, el gráfico pretende mostrar la escala exacta de los planetas, en relación a cada uno de ellos y al Sol. <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/2854_SSE_A_PDF.zip)" lightbox="true" >}}
+
+## El Sol
+{{< gallery album="Sol" >}}
+
+## Mercurio
+{{< gallery album="Mercurio" >}}
+
+## Venus
+{{< gallery album="Venus" >}}
+
+## La Tierra
+{{< gallery album="Tierra" >}}
+
+### La Luna
+{{< gallery album="Luna" >}}
+
+## Marte
+{{< gallery album="Marte" >}}
+
+## Asteroides
+{{< gallery album="Asteroides" >}}
+### Ceres
+{{< gallery album="Ceres" >}}
+
+## Júpiter
+{{< figure src="1032_poster_jupiter_front_a.jpg" title="Este [mosaico de color verdadero de Júpiter](https://solarsystem.nasa.gov/resources/629/cassini-jupiter-portrait/) fue construido a partir de imágenes tomadas por la cámara de ángulo estrecho a bordo de la nave espacial Cassini de la NASA en diciembre de 2000. Crédito: NASA/JPL/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1556_Jupiter_A_PDF.zip)" lightbox="true" >}}
+
+### Ío
+{{< gallery album="Io" >}}
+### Europa
+{{< gallery album="Europa" >}}
+### Ganímedes
+{{< figure src="947_poster_ganymede_front_a.jpg" title="Esta vista de la [región Nicholson Regio/Arbela Sulcus](https://solarsystem.nasa.gov/resources/813/regional-view-of-bright-and-dark-terrain/), tomada por la nave espacial Galileo de la NASA, muestra el marcado contraste entre el suave y brillante terreno y el terreno oscuro altamente fracturado que lo rodea. Crédito: NASA/JPL/Brown University/Doug Ellison <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1353_Ganymede_A_PDF.zip)" lightbox="true" >}}
+### Calisto
+{{< gallery album="Calisto" >}}
+## Saturno
+{{< gallery album="Saturno" >}}
+### Titán
+{{< gallery album="Titan" >}}
+### Encélado
+{{< gallery album="Encelado" >}}
+## Urano
+{{< gallery album="Urano" >}}
+## Neptuno
+{{< gallery album="Neptuno" >}}
+## Plutón
+{{< gallery album="Pluton" >}}
+## Cometas
+{{< gallery album="Cometas" >}}
+## Más allá del Sistema Solar
+{{< gallery album="Mas-alla" >}}
+
+{{% alert note %}}
+Ahora que has visto todos los pósters, **vota** tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
 {{% /alert %}}
