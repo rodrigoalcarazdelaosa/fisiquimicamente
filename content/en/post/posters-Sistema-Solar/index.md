@@ -51,7 +51,7 @@ gallery_item:
   caption: "NASA's Lunar Reconnaissance Orbiter (LRO) captured [this unique view of Earth](https://solarsystem.nasa.gov/resources/459/nasa-releases-new-high-resolution-earthrise-image/) from the spacecraft's vantage point in orbit around the Moon. Credit: NASA/Goddard/Arizona State University <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1453_Earth_C_PDF.zip)"
 - album: Tierra
   image: "994_poster_earth_front_d.jpg"
-  caption: "En 2002, científicos de la NASA _cosieron_ tiras de [imágenes en color natural de la Tierra](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/), recogidas durante cuatro meses desde el instrumento MODIS a bordo del satélite Terra de la NASA. Crédito: El Observatorio de la Tierra de la NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1457_Earth_D_PDF.zip)"
+  caption: "In 2002, NASA scientists stitched together strips of [natural color images of Earth](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/), collected over four months from the MODIS instrument aboard NASA's Terra satellite. Credit: NASA's Earth Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1457_Earth_D_PDF.zip)"
 - album: Tierra
   image: "995_poster_earth_front_e.jpg"
   caption: "El satélite Terra de la NASA captó un vistazo de las columnas que se elevan de los [volcanes](https://solarsystem.nasa.gov/resources/1040/plumes-over-the-kamchatka-peninsula/) de la Península de Kamchatka en enero de 2018. Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1461_Earth_E_PDF.zip)"          
