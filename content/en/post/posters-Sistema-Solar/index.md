@@ -171,7 +171,7 @@ gallery_item:
   caption: "This [infrared composite image of Uranus and its rings](https://solarsystem.nasa.gov/resources/605/keck-telescope-views-of-uranus/) comes from the Keck Telescope. Credit: Lawrence Sromovsky, University of Wisconsin-Madison/W.W. Keck Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1389_Uranus_C_PDF.zip)"
 - album: Neptuno
   image: "1001_poster_neptune_front_a.jpg"
-  caption: "Esta [foto de Neptuno](https://solarsystem.nasa.gov/resources/611/neptune-full-disk-view/) vino de la nave espacial Voyager 2 de la NASA en 1989. Crédito: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1485_Neptune_A_PDF.zip)"
+  caption: "This [picture of Neptune](https://solarsystem.nasa.gov/resources/611/neptune-full-disk-view/) came from NASA's Voyager 2 spacecraft in 1989. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1485_Neptune_A_PDF.zip)"
 - album: Neptuno
   image: "1002_poster_neptune_front_b.jpg"
   caption: "Una vista de Neptuno [desde la nave espacial Voyager 2 de la NASA](https://solarsystem.nasa.gov/resources/842/neptune-august-31-1989/) en 1989. Crédito: NASA/JPL/Kevin M. Gill <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1489_Neptune_B_PDF.zip)"
