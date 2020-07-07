@@ -165,7 +165,7 @@ gallery_item:
   caption: "A [view of the planet Uranus](https://solarsystem.nasa.gov/resources/599/uranus-as-seen-by-nasas-voyager-2/) captured by NASA's Voyager 2 spacecraft in 1986. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1380_Uranus_A_PDF.zip)"
 - album: Urano
   image: "975_poster_uranus_front_b.jpg"
-  caption: "A [view of the planet Uranus](https://solarsystem.nasa.gov/resources/599/uranus-as-seen-by-nasas-voyager-2/) taken by NASA's Voyager 2 spacecraft in 1986. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1384_Uranus_B_PDF.zip)"
+  caption: "A [view of the planet Uranus](https://solarsystem.nasa.gov/resources/797/uranus/) taken by NASA's Voyager 2 spacecraft in 1986. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1384_Uranus_B_PDF.zip)"
 - album: Urano
   image: "976_poster_uranus_front_c.jpg"
   caption: "Esta [imagen compuesta en infrarrojo de Urano y sus anillos](https://solarsystem.nasa.gov/resources/605/keck-telescope-views-of-uranus/) proviene del Telescopio Keck. Crédito: Lawrence Sromovsky, Universidad de Wisconsin-Madison/Observatorio W.W. Keck <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1389_Uranus_C_PDF.zip)"
