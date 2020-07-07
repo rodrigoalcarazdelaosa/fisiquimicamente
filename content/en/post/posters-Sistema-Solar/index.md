@@ -45,7 +45,7 @@ gallery_item:
   caption: "In 2002, NASA scientists stitched together strips of [natural color images of Earth](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/), collected over four months from the MODIS instrument aboard NASA's Terra satellite. Credit: NASA's Earth Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1445_Earth_A_PDF.zip)"
 - album: Tierra
   image: "992_poster_earth_front_b.jpg"
-  caption: "[Florida, las Bahamas y Cuba](https://solarsystem.nasa.gov/resources/851/florida-the-bahamas-and-cuba/) vistas por la Estación Espacial Internacional. Crédito: JSC Earth Science & Remote Sensing Unit/ARES Division/Exploration Integration Science Directorate <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1449_Earth_B_PDF.zip)"
+  caption: "[Florida, the Bahamas and Cuba](https://solarsystem.nasa.gov/resources/851/florida-the-bahamas-and-cuba/) as seen by the International Space Station. Credit: JSC Earth Science & Remote Sensing Unit/ARES Division/Exploration Integration Science Directorate <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1449_Earth_B_PDF.zip)"
 - album: Tierra
   image: "993_poster_earth_front_c.jpg"
   caption: "El Orbitador de Reconocimiento Lunar (LRO) de la NASA capturó [esta vista única de la Tierra](https://solarsystem.nasa.gov/resources/459/nasa-releases-new-high-resolution-earthrise-image/) desde el punto de vista de la nave espacial en órbita alrededor de la Luna. Crédito: NASA/Goddard/Arizona State University <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1453_Earth_C_PDF.zip)"
