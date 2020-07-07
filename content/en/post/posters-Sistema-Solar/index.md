@@ -15,7 +15,7 @@ image:
 gallery_item:
 - album: Sol
   image: "980_poster_sun_front_a.jpg"
-  caption: "Una [erupción solar](https://solarsystem.nasa.gov/resources/386/sun-emits-a-solstice-flare-and-cme/) como la que vio el Observatorio de Dinámica Solar de la NASA en 2013. Crédito: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1405_Sun_A_PDF.zip)"
+  caption: "A [solar flare erupts from the Sun](https://solarsystem.nasa.gov/resources/386/sun-emits-a-solstice-flare-and-cme/) as seen by NASA’s Solar Dynamics Observatory in 2013. Credit: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1405_Sun_A_PDF.zip)"
 - album: Sol
   image: "981_poster_sun_front_b.jpg"
   caption: "[Rayos X saliendo del Sol](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) en esta imagen que muestra las observaciones del Nuclear Spectroscopic Telescope Array de la NASA, o NuSTAR, superpuestas a una imagen tomada por el Observatorio de Dinámica Solar de la NASA. Crédito: NASA/JPL-Caltech/GSFC <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1409_Sun_B_PDF.zip)"
