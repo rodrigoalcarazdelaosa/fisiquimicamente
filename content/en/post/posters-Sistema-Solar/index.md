@@ -248,7 +248,7 @@ In this post I go through the different posters, all of them **impressive**. Cli
 {{< gallery album="Ceres" >}}
 
 ## Jupiter
-{{< figure src="1032_poster_jupiter_front_a.jpg" title="Este [mosaico de color verdadero de Júpiter](https://solarsystem.nasa.gov/resources/629/cassini-jupiter-portrait/) fue construido a partir de imágenes tomadas por la cámara de ángulo estrecho a bordo de la nave espacial Cassini de la NASA en diciembre de 2000. Crédito: NASA/JPL/Instituto de Ciencias Espaciales <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1556_Jupiter_A_PDF.zip)" lightbox="true" >}}
+{{< figure src="1032_poster_jupiter_front_a.jpg" title="This [true color mosaic of Jupiter](https://solarsystem.nasa.gov/resources/629/cassini-jupiter-portrait/) was constructed from images taken by the narrow angle camera onboard NASA's Cassini spacecraft in December 2000. Credit: NASA/JPL/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1556_Jupiter_A_PDF.zip)" lightbox="true" >}}
 
 ### Io
 {{< gallery album="Io" >}}
