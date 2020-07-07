@@ -1,7 +1,7 @@
 ---
 title: Solar System and Beyond Poster Set
 subtitle: Showcasing the beauty of our solar system and beyond
-summary: "`COMING SOON` Showcasing the beauty of our solar system and beyond."
+summary: "Showcasing the beauty of our solar system and beyond."
 date: "2020-05-19T00:00:00Z"
 tags:
 - gravitation
