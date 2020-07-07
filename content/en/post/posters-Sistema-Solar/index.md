@@ -69,7 +69,7 @@ gallery_item:
   caption: "Astronaut James Irwin works at the [Lunar Roving Vehicle](https://solarsystem.nasa.gov/resources/839/apollo-15-on-the-moon/) during the first Apollo 15 lunar surface extravehicular activity at the Hadley-Apennine landing site. Credit: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1501_Moon_C_PDF.zip)"
 - album: Luna
   image: "1006_poster_moon_front_d_v2.jpg"
-  caption: "El astronauta Buzz Aldrin Jr., piloto del módulo lunar, [camina por la superficie de la Luna](https://solarsystem.nasa.gov/resources/840/apollo-11-buzz-aldrin/) cerca de una pata del módulo lunar durante la actividad extravehicular del Apolo 11. Crédito: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1505_Moon_D_PDF.zip)"
+  caption: "Astronaut Buzz Aldrin Jr., lunar module pilot, [walks on the surface of the Moon](https://solarsystem.nasa.gov/resources/840/apollo-11-buzz-aldrin/) near a leg of the Lunar Module during the Apollo 11 extravehicular activity. Credit: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1505_Moon_D_PDF.zip)"
 - album: Luna
   image: "1007_poster_moon_front_e_v2.jpg"
   caption: "Un [vistazo de la Luna](https://solarsystem.nasa.gov/resources/841/moon-over-earth/) a través de la atmósfera de la Tierra, vista desde la Estación Espacial Internacional. Crédito: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1509_Moon_E_PDF.zip)"
