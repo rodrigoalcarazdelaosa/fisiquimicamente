@@ -123,7 +123,7 @@ gallery_item:
   caption: "This enhanced color image of the [young impact crater Pwyll](https://solarsystem.nasa.gov/resources/108/pwyll-crater-on-europa/) on Jupiter's moon Europa was produced by combining low resolution color data with a higher resolution mosaic of images obtained in December 1996 by NASA's Galileo spacecraft. Credit: NASA/JPL-Caltech/University of Arizona <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1473_Europa_B_PDF.zip)"
 - album: Calisto
   image: "946_poster_callisto_front_a.jpg"
-  caption: "Las brillantes cicatrices en una superficie más oscura atestiguan una larga historia de impactos en la luna de Júpiter Calisto, en [esta imagen de la nave espacial Galileo de la NASA](https://solarsystem.nasa.gov/resources/811/global-callisto-in-color/). Crédito: NASA/JPL/DLR <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1349_Callisto_A_PDF.zip)"
+  caption: "Bright scars on a darker surface testify to a long history of impacts on Jupiter's moon Callisto in [this image from NASA's Galileo spacecraft](https://solarsystem.nasa.gov/resources/811/global-callisto-in-color/). Credit: NASA/JPL/DLR <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1349_Callisto_A_PDF.zip)"
 - album: Calisto
   image: "945_poster_callisto_front_b.jpg"
   caption: "Este [mosaico de imágenes](https://solarsystem.nasa.gov/resources/812/callisto-mosaic/) de la nave espacial Voyager 1 de la NASA en marzo de 1979 muestra detalles tan pequeños como 10 kilómetros de diámetro. Crédito: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1345_Callisto_B_PDF.zip)"
