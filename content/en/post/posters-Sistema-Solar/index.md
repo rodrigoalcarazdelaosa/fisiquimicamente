@@ -102,7 +102,7 @@ gallery_item:
   caption: "NASA's Dawn spacecraft obtained [this image of the protoplanet Vesta](https://solarsystem.nasa.gov/resources/414/a-last-look-back-at-vesta/) in 2012, looking down at Vesta's north pole as the spacecraft was departing. Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"  
 - album: Ceres
   image: "984_poster_ceres_front_a.jpg"
-  caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
+  caption: "The dwarf planet Ceres is shown in a [false-color rendering](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), which highlights differences in surface materials. Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
 - album: Ceres
   image: "985_poster_ceres_front_b.jpg"
   caption: "Esta vista de Ceres, tomada por la nave espacial Dawn de la NASA en diciembre de 2015, muestra un [área en el hemisferio sur del planeta enano](https://solarsystem.nasa.gov/resources/625/dawns-lowest-orbit-near-south-pole/?category=planets/dwarf-planets_ceres). Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1425_Ceres_B_PDF.zip)"
