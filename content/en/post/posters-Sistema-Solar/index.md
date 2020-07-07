@@ -57,7 +57,7 @@ gallery_item:
   caption: "NASA’s Terra satellite caught a glimpse of plumes rising from [volcanoes](https://solarsystem.nasa.gov/resources/1040/plumes-over-the-kamchatka-peninsula/) in the Kamchatka Peninsula in January 2018. Credit: NASA's Earth Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1461_Earth_E_PDF.zip)"          
 - album: Tierra
   image: "996_poster_earth_front_f.jpg"
-  caption: "En esta imagen del satélite Landsat 8 de la NASA, [varios glaciares fluyen hacia el Valle Shimshal](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"
+  caption: "In this image from NASA's Landsat 8 satellite, [several glaciers flow into the Shimshal Valley](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Credit: NASA Earth Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"
 - album: Luna
   image: "1003_poster_moon_front_a.jpg"
   caption: "Esta [vista de la Luna](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) fue creada con imágenes tomadas por el Orbitador de Reconocimiento Lunar de la NASA. Crédito: NASA/Goddard/Orbitador de Reconocimiento Lunar <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1493_Moon_A_PDF.zip)"
