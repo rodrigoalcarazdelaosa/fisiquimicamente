@@ -72,7 +72,7 @@ gallery_item:
   caption: "Astronaut Buzz Aldrin Jr., lunar module pilot, [walks on the surface of the Moon](https://solarsystem.nasa.gov/resources/840/apollo-11-buzz-aldrin/) near a leg of the Lunar Module during the Apollo 11 extravehicular activity. Credit: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1505_Moon_D_PDF.zip)"
 - album: Luna
   image: "1007_poster_moon_front_e_v2.jpg"
-  caption: "Un [vistazo de la Luna](https://solarsystem.nasa.gov/resources/841/moon-over-earth/) a través de la atmósfera de la Tierra, vista desde la Estación Espacial Internacional. Crédito: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1509_Moon_E_PDF.zip)"
+  caption: "A [glimpse of the Moon](https://solarsystem.nasa.gov/resources/841/moon-over-earth/) through the Earth’s atmosphere, as seen from the International Space Station. Credit: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1509_Moon_E_PDF.zip)"
 - album: Luna
   image: "1008_poster_moon_front_f.jpg"
   caption: "En su camino para explorar el sistema de Júpiter en diciembre de 1992, la nave espacial Galileo de la NASA obtuvo [esta vista de la Luna](https://solarsystem.nasa.gov/resources/800/earths-moon/). Crédito: NASA/JPL/USGS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1513_Moon_F_PDF.zip)"
