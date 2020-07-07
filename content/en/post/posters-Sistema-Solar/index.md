@@ -60,7 +60,7 @@ gallery_item:
   caption: "In this image from NASA's Landsat 8 satellite, [several glaciers flow into the Shimshal Valley](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Credit: NASA Earth Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"
 - album: Luna
   image: "1003_poster_moon_front_a.jpg"
-  caption: "This [view of the Moon]((https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/)) was created with images taken by NASA's Lunar Reconnaissance Orbiter. Credit: NASA/Goddard/Lunar Reconnaissance Orbiter <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1493_Moon_A_PDF.zip)"
+  caption: "This [view of the Moon](https://solarsystem.nasa.gov/resources/843/rare-full-moon-on-christmas-day/) was created with images taken by NASA's Lunar Reconnaissance Orbiter. Credit: NASA/Goddard/Lunar Reconnaissance Orbiter <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1493_Moon_A_PDF.zip)"
 - album: Luna
   image: "1004_poster_moon_front_b_v2.jpg"
   caption: "Un astronauta del Apolo 17 [de pie en la superficie lunar](https://solarsystem.nasa.gov/resources/794/apollo-17-astronaut-and-united-states-flag-on-lunar-surface/). Crédito: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1497_Moon_B_PDF.zip)"
