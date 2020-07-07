@@ -42,7 +42,7 @@ gallery_item:
   caption: "A computer-generated, three-dimensional [perspective view of Sapas Mons](https://solarsystem.nasa.gov/resources/774/venus-3-d-perspective-view-of-sapas-mons/) on the surface of Venus, based on radar data from NASA's Magellan mission. Credit: NASA/JPL <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1319_Venus_B_PDF.zip)"
 - album: Tierra
   image: "991_poster_earth_front_a.jpg"
-  caption: "En 2002, científicos de la NASA _cosieron_ tiras de [imágenes en color natural de la Tierra](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/), recogidas durante cuatro meses desde el instrumento MODIS a bordo del satélite Terra de la NASA. Crédito: El Observatorio de la Tierra de la NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1445_Earth_A_PDF.zip)"
+  caption: "In 2002, NASA scientists stitched together strips of [natural color images of Earth](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/), collected over four months from the MODIS instrument aboard NASA's Terra satellite. Credit: NASA's Earth Observatory <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1445_Earth_A_PDF.zip)"
 - album: Tierra
   image: "992_poster_earth_front_b.jpg"
   caption: "[Florida, las Bahamas y Cuba](https://solarsystem.nasa.gov/resources/851/florida-the-bahamas-and-cuba/) vistas por la Estación Espacial Internacional. Crédito: JSC Earth Science & Remote Sensing Unit/ARES Division/Exploration Integration Science Directorate <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1449_Earth_B_PDF.zip)"
