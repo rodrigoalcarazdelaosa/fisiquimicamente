@@ -90,7 +90,7 @@ gallery_item:
   caption: "A [mosaic of the Valles Marineris hemisphere of Mars](https://solarsystem.nasa.gov/resources/683/mars-valles-marineris-hemisphere-enhanced/), created with images from NASA's Viking orbiters, projected into point perspective--a view similar to that which one would see from a spacecraft. Credit: NASA/JPL-Caltech <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1569_1569_Mars_A_PDF.zip)"
 - album: Marte
   image: "1037_poster_mars_front_b.jpg"
-  caption: "Un autorretrato del [rover Curiosity Mars de la NASA](https://solarsystem.nasa.gov/resources/801/curiosity-self-portrait-at-mojave-site-on-mount-sharp/) en el cráter Gale. Crédito: NASA/JPL-Caltech/MSSS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1573_1573_Mars_B_PDF.zip)"
+  caption: "A self-portrait of [NASA's Curiosity Mars rover](https://solarsystem.nasa.gov/resources/801/curiosity-self-portrait-at-mojave-site-on-mount-sharp/) in Gale Crater. Credit: NASA/JPL-Caltech/MSSS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1573_1573_Mars_B_PDF.zip)"
 - album: Marte
   image: "1038_poster_mars_front_c.jpg"
   caption: "Esta [mirada a una duna](https://solarsystem.nasa.gov/resources/464/curiositys-color-view-of-martian-dune-after-crossing-it/) que el rover Curiosidad Marte de la NASA atravesó fue tomada por la Cámara del Mástil del rover en Febrero de 2014. Crédito: NASA/JPL-Caltech/MSSS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1577_1577_Mars_C_PDF.zip)"
