@@ -195,7 +195,7 @@ gallery_item:
   caption: "A section of [the smaller of comet 67P/Churyumov–Gerasimenko’s two lobes](https://rosetta.jpl.nasa.gov/gallery/images/comet-67p/churyumov-gerasimenko/comet-8-km) as seen by the European Space Agency's Rosetta mission in October 2014. Credit: ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1441_Comets_C_PDF.zip)"
 - album: Mas-alla
   image: "924_poster_beyond_front_a.jpg"
-  caption: "Este [concepto artístico](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) ilustra la estructura espiral de nuestra galaxia, la Vía Láctea. Crédito: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1294_Beyond_A_PDF.zip)"
+  caption: "This [artist's concept](https://solarsystem.nasa.gov/resources/285/the-milky-way-galaxy/) illustrates the spiral structure of our galaxy, the Milky Way. Credit: NASA/JPL-Caltech/R. Hurt (SSC/Caltech) <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1294_Beyond_A_PDF.zip)"
 - album: Mas-alla
   image: "939_poster_beyond_front_b.jpg"
   caption: "La región alrededor del centro de nuestra galaxia de la Vía Láctea brilla con colores en [esta imagen tomada por el Telescopio Espacial Spitzer de la NASA](https://solarsystem.nasa.gov/resources/496/stars-gather-in-downtown-milky-way/). Crédito: NASA/JPL-Caltech <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1323_Beyond_B_PDF.zip)"
