@@ -189,7 +189,7 @@ gallery_item:
   caption: "A mosaic comprising [four individual images of comet 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/788/rosetta-comet/) from the European Space Agency's Rosetta mission in November 2014. Credit: ESA/Rosetta/NAVCAM <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1433_Comets_A_PDF.zip)"
 - album: Cometas
   image: "989_poster_comets_front_b.jpg"
-  caption: "A view of [Comet 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/790/comet-jet-in-3d/) based on two images acquired by the European Space Agency's Rosetta mission. Credit: o ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1437_Comets_B_PDF.zip)"
+  caption: "A view of [comet 67P/Churyumov-Gerasimenko](https://solarsystem.nasa.gov/resources/790/comet-jet-in-3d/) based on two images acquired by the European Space Agency's Rosetta mission. Credit: o ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1437_Comets_B_PDF.zip)"
 - album: Cometas
   image: "990_poster_comets_front_c.jpg"
   caption: "Una sección del [más pequeño de los dos lóbulos del cometa 67P/Churyumov-Gerasimenko](https://rosetta.jpl.nasa.gov/gallery/images/comet-67p/churyumov-gerasimenko/comet-8-km), como se vio en la misión Rosetta de la Agencia Espacial Europea en octubre de 2014. Crédito: ESA/Rosetta/MPS para el equipo OSIRIS MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1441_Comets_C_PDF.zip)"
