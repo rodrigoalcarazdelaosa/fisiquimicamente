@@ -18,7 +18,7 @@ gallery_item:
   caption: "A [solar flare erupts from the Sun](https://solarsystem.nasa.gov/resources/386/sun-emits-a-solstice-flare-and-cme/) as seen by NASA’s Solar Dynamics Observatory in 2013. Credit: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1405_Sun_A_PDF.zip)"
 - album: Sol
   image: "981_poster_sun_front_b.jpg"
-  caption: "[Rayos X saliendo del Sol](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) en esta imagen que muestra las observaciones del Nuclear Spectroscopic Telescope Array de la NASA, o NuSTAR, superpuestas a una imagen tomada por el Observatorio de Dinámica Solar de la NASA. Crédito: NASA/JPL-Caltech/GSFC <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1409_Sun_B_PDF.zip)"
+  caption: "[X-rays stream off the Sun](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) in this image showing observations by NASA's Nuclear Spectroscopic Telescope Array, or NuSTAR, overlaid on a picture taken by NASA's Solar Dynamics Observatory. Credit: NASA/JPL-Caltech/GSFC <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1409_Sun_B_PDF.zip)"
 - album: Sol
   image: "982_poster_sun_front_c.jpg"
   caption: "El Sol [emite una llamarada solar de nivel medio](https://solarsystem.nasa.gov/resources/768/nasas-sdo-sees-sun-emit-mid-level-flare-oct-1/), como la que vio el Observatorio de Dinámica Solar de la NASA en 2015. Crédito: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1413_Sun_C_PDF.zip)"
