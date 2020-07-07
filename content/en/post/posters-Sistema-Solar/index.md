@@ -135,7 +135,7 @@ gallery_item:
   caption: "In July 2013, in an event celebrated the world over, NASA's Cassini spacecraft slipped into Saturn's shadow and [turned to image the planet](https://solarsystem.nasa.gov/resources/185/the-day-the-earth-smiled/), seven of its moons, its inner rings &mdash;and, in the background, our home planet, Earth (blue dot at lower left). Credit: NASA/JPL-Caltech/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1587_Saturn_B_PDF.zip)"
 - album: Saturno
   image: "1043_poster_saturn_front_c.jpg"
-  caption: "La nave espacial Cassini de la NASA capturó esta vista de [Saturno durante su equinoccio](https://solarsystem.nasa.gov/resources/658/the-rite-of-spring/) en 2009. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1591_Saturn_C_PDF.zip)"
+  caption: "NASA's Cassini spacecraft captured this view of [Saturn during its equinox](https://solarsystem.nasa.gov/resources/658/the-rite-of-spring/) in 2009. Credit: NASA/JPL-Caltech/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1591_Saturn_C_PDF.zip)"
 - album: Saturno
   image: "1044_poster_saturn_front_d.jpg"
   caption: "La nave espacial Cassini de la NASA entregó [esta gloriosa vista de Saturno](https://solarsystem.nasa.gov/resources/664/a-splendor-seldom-seen/), tomada mientras la nave espacial estaba a la sombra del planeta. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1595_Saturn_D_PDF.zip)"
