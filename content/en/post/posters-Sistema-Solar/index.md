@@ -75,7 +75,7 @@ gallery_item:
   caption: "A [glimpse of the Moon](https://solarsystem.nasa.gov/resources/841/moon-over-earth/) through the Earth’s atmosphere, as seen from the International Space Station. Credit: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1509_Moon_E_PDF.zip)"
 - album: Luna
   image: "1008_poster_moon_front_f.jpg"
-  caption: "En su camino para explorar el sistema de Júpiter en diciembre de 1992, la nave espacial Galileo de la NASA obtuvo [esta vista de la Luna](https://solarsystem.nasa.gov/resources/800/earths-moon/). Crédito: NASA/JPL/USGS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1513_Moon_F_PDF.zip)"
+  caption: "On its way to explore the Jupiter system in December 1992, NASA's Galileo spacecraft obtained [this view of the Moon](https://solarsystem.nasa.gov/resources/800/earths-moon/). Credit: NASA/JPL/USGS <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1513_Moon_F_PDF.zip)"
 - album: Luna
   image: "1009_poster_moon_front_g.jpg"
   caption: "Esta fotografía, tomada durante la segunda actividad extravehicular del Apolo 12, muestra [dos naves espaciales estadounidenses en la superficie de la Luna](https://solarsystem.nasa.gov/resources/821/apollo-12-and-surveyor-3/): el Módulo Lunar del Apolo 12 en el fondo, con la nave robótica Surveyor 3 en primer plano. Crédito: NASA/JSC <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1517_Moon_G_PDF.zip)"
