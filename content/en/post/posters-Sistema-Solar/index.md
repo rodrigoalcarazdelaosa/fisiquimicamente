@@ -201,7 +201,7 @@ gallery_item:
   caption: "The region around the center of our Milky Way galaxy glows colorfully in [this image taken by NASA's Spitzer Space Telescope](https://solarsystem.nasa.gov/resources/496/stars-gather-in-downtown-milky-way/). Credit: NASA/JPL-Caltech <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1323_Beyond_B_PDF.zip)"
 - album: Mas-alla
   image: "940_poster_beyond_front_c.jpg"
-  caption: "Los *Pilares de la Creación* de la Nebulosa del Águila, vistos por el Telescopio Espacial Hubble de la NASA/ESA. Esta imagen [muestra los pilares como se ven en luz visible](https://www.spacetelescope.org/images/heic1501a/). Crédito: NASA, ESA/Hubble y el Equipo de Patrimonio del Hubble <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1327_Beyond_C_PDF.zip)"
+  caption: "The Eagle Nebula’s *Pillars of Creation*, as seen by the NASA/ESA Hubble Space Telescope. This image [shows the pillars as seen in visible light](https://www.spacetelescope.org/images/heic1501a/). Credit: NASA, ESA/Hubble and the Hubble Heritage Team <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1327_Beyond_C_PDF.zip)"
 - album: Mas-alla
   image: "941_poster_beyond_front_d.jpg"
   caption: "Cassiopeia A, un remanente de supernova, [vista por el Observatorio de Rayos X Chandra de la NASA](https://www.nasa.gov/mission_pages/chandra/news/a-new-stellar-x-ray-reality-show). Crédito: NASA/CXC/SAO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1331_Beyond_D_PDF.zip)"
