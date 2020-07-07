@@ -99,7 +99,7 @@ gallery_item:
   caption: "[Esta vista del asteroide 243 Ida](https://solarsystem.nasa.gov/resources/777/asteroid-ida-five-frame-mosaic/) fue adquirida por la nave espacial Galileo de la NASA el 28 de agosto de 1993, unos 3 minutos y medio antes de que la nave espacial pasara al lado de Ida. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1285_Asteroids_A_PDF.zip)"
 - album: Asteroides
   image: "923_poster_asteroids_front_b.jpg"
-  caption: "La nave espacial Dawn de la NASA obtuvo [esta imagen del protoplaneta Vesta](https://solarsystem.nasa.gov/resources/1034/a-last-look-back-at-vesta/) en 2012, mirando hacia el polo norte de Vesta cuando la nave espacial estaba partiendo. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"  
+  caption: "La nave espacial Dawn de la NASA obtuvo [esta imagen del protoplaneta Vesta](https://solarsystem.nasa.gov/resources/414/a-last-look-back-at-vesta/) en 2012, mirando hacia el polo norte de Vesta cuando la nave espacial estaba partiendo. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"  
 - album: Ceres
   image: "984_poster_ceres_front_a.jpg"
   caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
