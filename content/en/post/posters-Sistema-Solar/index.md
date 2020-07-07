@@ -81,7 +81,7 @@ gallery_item:
   caption: "This photograph, taken during the second Apollo 12 extravehicular activity, shows [two U.S. spacecraft on the surface of the Moon](https://solarsystem.nasa.gov/resources/821/apollo-12-and-surveyor-3/): the Apollo 12 Lunar Module in the background, with the robotic Surveyor 3 spacecraft in the foreground. Credit: NASA/JSC <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1517_Moon_G_PDF.zip)"
 - album: Luna
   image: "1010_poster_moon_front_h.jpg"
-  caption: "El científico y astronauta Harrison Schmitt [junto a la bandera americana](https://solarsystem.nasa.gov/resources/760/a-scientist-on-the-moon/) durante un paseo lunar en la misión del Apolo 17. Crédito: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1521_Moon_H_PDF.zip)"
+  caption: "Scientist-astronaut Harrison Schmitt [stands by the American flag](https://solarsystem.nasa.gov/resources/760/a-scientist-on-the-moon/) during a moonwalk on the Apollo 17 mission. Credit: NASA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1521_Moon_H_PDF.zip)"
 - album: Luna
   image: "1011_poster_moon_front_i.jpg"
   caption: "Una vista cercana de la [huella de la bota de un astronauta](https://solarsystem.nasa.gov/resources/759/close-up-view-of-astronauts-footprint-in-lunar-soil/) en el suelo lunar, fotografiada durante la actividad extravehicular del Apolo 11 en la Luna. Crédito: NASA/JSC <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1525_Moon_I_PDF.zip)"
