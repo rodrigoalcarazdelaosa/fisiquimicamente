@@ -138,7 +138,7 @@ gallery_item:
   caption: "NASA's Cassini spacecraft captured this view of [Saturn during its equinox](https://solarsystem.nasa.gov/resources/658/the-rite-of-spring/) in 2009. Credit: NASA/JPL-Caltech/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1591_Saturn_C_PDF.zip)"
 - album: Saturno
   image: "1044_poster_saturn_front_d.jpg"
-  caption: "La nave espacial Cassini de la NASA entregó [esta gloriosa vista de Saturno](https://solarsystem.nasa.gov/resources/664/a-splendor-seldom-seen/), tomada mientras la nave espacial estaba a la sombra del planeta. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1595_Saturn_D_PDF.zip)"
+  caption: "NASA's Cassini spacecraft delivered [this glorious view of Saturn](https://solarsystem.nasa.gov/resources/664/a-splendor-seldom-seen/), taken while the spacecraft was in the planet's shadow. Credit: NASA/JPL-Caltech/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1595_Saturn_D_PDF.zip)"
 - album: Titan
   image: "977_poster_titan_front_a.jpg"
   caption: "La nave espacial Cassini de la NASA [mira hacia el lado nocturno de Titán](https://solarsystem.nasa.gov/resources/799/highlighting-titans-hazes/) en una vista que destaca la naturaleza extendida y nebulosa de la atmósfera de la luna. Crédito: NASA/JPL-Caltech/Instituto de Ciencias Espaciales <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1393_Titan_A_PDF.zip)"
