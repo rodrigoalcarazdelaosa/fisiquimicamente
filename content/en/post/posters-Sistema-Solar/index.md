@@ -105,7 +105,7 @@ gallery_item:
   caption: "The dwarf planet Ceres is shown in a [false-color rendering](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), which highlights differences in surface materials. Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
 - album: Ceres
   image: "985_poster_ceres_front_b.jpg"
-  caption: "Esta vista de Ceres, tomada por la nave espacial Dawn de la NASA en diciembre de 2015, muestra un [área en el hemisferio sur del planeta enano](https://solarsystem.nasa.gov/resources/625/dawns-lowest-orbit-near-south-pole/?category=planets/dwarf-planets_ceres). Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1425_Ceres_B_PDF.zip)"
+  caption: "This view of Ceres, taken by NASA's Dawn spacecraft in December 2015, shows [an area in the southern hemisphere of the dwarf planet](https://solarsystem.nasa.gov/resources/625/dawns-lowest-orbit-near-south-pole/?category=planets/dwarf-planets_ceres). Credit: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1425_Ceres_B_PDF.zip)"
 - album: Ceres
   image: "986_poster_ceres_front_c.jpg"
   caption: "Esta [imagen de Ceres](https://solarsystem.nasa.gov/resources/792/dawn-rc3-image-3/) es parte de una secuencia tomada por la nave espacial Dawn de la NASA en 2015. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"    
