@@ -10,7 +10,7 @@ categories:
 
 image:
   placement: 3
-  caption: "Créditos: **NASA/Bill Ingalls**"
+  caption: "https://twitter.com/fqsaja1/status/1268079331424731136"
 ---
 
 El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos deleitaba recientemente con un magnífico hilo 🧵 sobre 
