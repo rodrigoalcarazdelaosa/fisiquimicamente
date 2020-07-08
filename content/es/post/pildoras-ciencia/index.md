@@ -56,3 +56,12 @@ Algunos precipitados son de una espectacularidad tal que lo convierten casi en o
 {{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=lluvia-de-oro).
 {{% /alert %}}
+
+## 5. Espectros en tubos de descarga
+Otra búsqueda del color y de descifrar los códigos de barras escondidos en cada radiación.
+
+{{< video src="espectros.mp4" controls="yes" >}}
+
+{{% alert note %}}
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-i).
+{{% /alert %}}
