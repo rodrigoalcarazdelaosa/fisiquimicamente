@@ -31,7 +31,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=espejo-de-plata)
 {{% /alert %}}
 
 ## 2. Espectros a la llama
-Iones adecuados, metanol, llama 🔥 y ... fuegos artificiales 🎆🎇.
+> Iones adecuados, metanol, llama 🔥 y ... fuegos artificiales 🎆🎇.
 
 {{< video src="espectros-llama.mp4" controls="yes" >}}
 
@@ -40,7 +40,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomic
 {{% /alert %}}
 
 ## 3. Fuente de nitrato y cobre
-Las reacciones químicas provocan variaciones de concentración, temperatura o presión que permiten generar vistosas fuentes ⛲.
+> Las reacciones químicas provocan variaciones de concentración, temperatura o presión que permiten generar vistosas fuentes ⛲.
 
 {{< video src="fuente-nitrato-cobre.mp4" controls="yes" >}}
 
@@ -49,7 +49,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=nitrato-vs-cobre
 {{% /alert %}}
 
 ## 4. Lluvia de oro
-Algunos precipitados son de una espectacularidad tal que lo convierten casi en obras de arte.
+> Algunos precipitados son de una espectacularidad tal que lo convierten casi en obras de arte.
 
 {{< video src="lluvia-oro.mp4" controls="yes" >}}
 
@@ -58,7 +58,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=lluvia-de-oro).
 {{% /alert %}}
 
 ## 5. Espectros en tubos de descarga
-Otra búsqueda del color y de descifrar los códigos de barras escondidos en cada radiación.
+> Otra búsqueda del color y de descifrar los códigos de barras escondidos en cada radiación.
 
 {{< video src="espectros.mp4" controls="yes" >}}
 
@@ -67,7 +67,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomic
 {{% /alert %}}
 
 ## 6. Luminiscencia
-¿Luciérnagas? ¿Algas? Los fenómenos luminiscentes resultan siempre de los más evocador.
+> ¿Luciérnagas? ¿Algas? Los fenómenos luminiscentes resultan siempre de los más evocador.
 
 {{< video src="luminiscencia.mp4" controls="yes" >}}
 
@@ -76,7 +76,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=quimioluminiscen
 {{% /alert %}}
 
 ## 7. Termómetro de Galileo
-Con diseño de más de 350 años, tal cual. Nos conecta a la esencia de la flotabilidad y dilatación de los líquidos.
+> Con diseño de más de 350 años, tal cual. Nos conecta a la esencia de la flotabilidad y dilatación de los líquidos.
 
 {{< video src="termometro-Galileo.mp4" controls="yes" >}}
 
