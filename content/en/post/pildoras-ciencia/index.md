@@ -36,7 +36,7 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 {{% /alert %}}
 
 ## 3. Copper Nitrate Fountain
-> Chemical reactions cause variations in concentration, temperature or pressure that allow to generate bright and colourful fountains ⛲.
+> Chemical reactions cause variations in concentration, temperature or pressure that allow to generate bright and colorful fountains ⛲.
 
 {{< video library="1" src="pildoras-ciencia/fuente-nitrato-cobre.mp4" controls="yes" >}}
 
