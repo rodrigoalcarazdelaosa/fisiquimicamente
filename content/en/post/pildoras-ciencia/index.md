@@ -65,16 +65,12 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 
 {{< video library="1" src="pildoras-ciencia/pendulo-Newton.mp4" controls="yes" >}}
 
-## 9. Siempre fuimos nómadas
-> Dramatizar o teatralizar pasajes de la ciencia, como aquí el mejor Sagan, es algo que suele funcionar muy bien con los alumnos.
+## 9. Siempre fuimos nómadas (in Spanish)
+> Dramatizing passages of science, like the best Sagan here, is something that usually works very well with students.
 
 {{< video library="1" src="pildoras-ciencia/siempre-fuimos-nomadas.mp4" controls="yes" >}}
 
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=reflexiones-desde-el-confinamiento).
-{{% /alert %}}
-
-## 10. Instantes
-> Todos esos momentos de emoción que se perdieron con la pandemia se recogen aquí en instantes de otros cursos.
+## 10. Instants
+> All those moments of emotion that were lost with the pandemic are collected here in instants of other courses.
 
 {{< video library="1" src="pildoras-ciencia/instantes.mp4" controls="yes" >}}
