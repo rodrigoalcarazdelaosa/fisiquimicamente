@@ -74,3 +74,12 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomic
 {{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=quimioluminiscencia).
 {{% /alert %}}
+
+## 7. Termómetro de Galileo
+Con diseño de más de 350 años, tal cual. Nos conecta a la esencia de la flotabilidad y dilatación de los líquidos.
+
+{{< video src="termometro-Galileo.mp4" controls="yes" >}}
+
+{{% alert note %}}
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-galileo).
+{{% /alert %}}
