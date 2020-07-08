@@ -2,7 +2,7 @@
 title: Píldoras 💊💊 de ciencia
 subtitle: 10 cosas que puedes hacer, estudiar o reflexionar en el aula
 summary: 10 cosas que puedes hacer, estudiar o reflexionar en el aula.
-author: fqsaja
+authors: fqsaja
 date: "2020-07-08T00:00:00Z"
 tags:
 categories:
