@@ -90,7 +90,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-ga
 {{< video src="pendulo-Newton.mp4" controls="yes" >}}
 
 {{% alert note %}}
-Más información [aquí](fqsaja.com/?portfolio_page=pendulo-de-newton).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pendulo-de-newton).
 {{% /alert %}}
 
 ## 9. Siempre fuimos nómadas
