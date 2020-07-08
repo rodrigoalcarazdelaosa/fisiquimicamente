@@ -65,3 +65,12 @@ Otra búsqueda del color y de descifrar los códigos de barras escondidos en cad
 {{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-i).
 {{% /alert %}}
+
+## 6. Luminiscencia
+¿Luciérnagas? ¿Algas? Los fenómenos luminiscentes resultan siempre de los más evocador.
+
+{{< video src="luminiscencia.mp4" controls="yes" >}}
+
+{{% alert note %}}
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=quimioluminiscencia).
+{{% /alert %}}
