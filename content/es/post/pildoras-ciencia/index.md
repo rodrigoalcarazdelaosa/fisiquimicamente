@@ -31,7 +31,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=espejo-de-plata)
 {{% /alert %}}
 
 ## 2. Espectros a la llama
-Iones adecuados, metanol, llama 🔥 y ... fuegos artificiales 🎆🎇
+Iones adecuados, metanol, llama 🔥 y ... fuegos artificiales 🎆🎇.
 
 {{< video src="espectros-llama.mp4" controls="yes" >}}
 
