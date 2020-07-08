@@ -4,6 +4,7 @@ subtitle: 10 cosas que puedes hacer, estudiar o reflexionar en el aula
 summary: 10 cosas que puedes hacer, estudiar o reflexionar en el aula.
 date: "2020-07-08T00:00:00Z"
 tags:
+- reacciones-químicas
 categories:
 - Física
 - Química
