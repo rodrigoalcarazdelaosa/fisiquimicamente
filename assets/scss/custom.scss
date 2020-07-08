@@ -271,6 +271,19 @@ div.alert-gdrive > div:first-child::before {
   border-color: $primary;
 }
 
+div.alert-thanks > div:first-child::before {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 900;
+  color: $primary;
+  content: '\f684';
+}
+
+.alert-thanks {
+  color: #000000;
+  background-color: $primary_bg;
+  border-color: $primary;
+}
+
 /*************************************************
  *  Card component
  **************************************************/
