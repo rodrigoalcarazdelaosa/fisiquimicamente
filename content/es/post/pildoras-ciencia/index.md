@@ -90,5 +90,14 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-ga
 {{< video src="pendulo-Newton.mp4" controls="yes" >}}
 
 {{% alert note %}}
+Más información [aquí](fqsaja.com/?portfolio_page=pendulo-de-newton).
+{{% /alert %}}
+
+## 9. Siempre fuimos nómadas
+> Dramatizar o teatralizar pasajes de la ciencia, como aquí el mejor Sagan, es algo que suele funcionar muy bien con los alumnos.
+
+{{< video src="siempre-fuimos-nomadas.mp4" controls="yes" >}}
+
+{{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-galileo).
 {{% /alert %}}
