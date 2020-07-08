@@ -99,5 +99,5 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=pendulo-de-newto
 {{< video src="siempre-fuimos-nomadas.mp4" controls="yes" >}}
 
 {{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-galileo).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=reflexiones-desde-el-confinamiento).
 {{% /alert %}}
