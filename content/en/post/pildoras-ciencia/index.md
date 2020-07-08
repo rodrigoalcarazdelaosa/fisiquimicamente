@@ -35,14 +35,10 @@ Thanks to the [Department of Physics and Chemistry of IES Valle del Saja](http:/
 More information [here](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
 {{% /alert %}}
 
-## 3. Fuente de nitrato y cobre
-> Las reacciones químicas provocan variaciones de concentración, temperatura o presión que permiten generar vistosas fuentes ⛲.
+## 3. Copper Nitrate Fountain
+> Chemical reactions cause variations in concentration, temperature or pressure that allow to generate bright and colourful fountains ⛲.
 
 {{< video library="1" src="pildoras-ciencia/fuente-nitrato-cobre.mp4" controls="yes" >}}
-
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=nitrato-vs-cobre).
-{{% /alert %}}
 
 ## 4. Lluvia de oro
 > Algunos precipitados son de una espectacularidad tal que lo convierten casi en obras de arte.
