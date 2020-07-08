@@ -17,6 +17,11 @@ El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja
 
 {{< tweet 1280438568318574592 >}}
 
+{{% alert note %}}
+Gracias al [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes descargar los vídeos originales.
+{{% /alert %}}
+
 {{% toc %}}
 
 ## 1. Espejo de plata
+{{< video src="my_video.mp4" controls="yes" >}}
