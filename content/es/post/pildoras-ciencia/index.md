@@ -40,6 +40,8 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomic
 {{% /alert %}}
 
 ## 3. Fuente de nitrato y cobre
+Las reacciones químicas provocan variaciones de concentración, temperatura o presión que permiten generar vistosas fuentes ⛲.
+
 {{< video src="fuente-nitrato-cobre.mp4" controls="yes" >}}
 
 {{% alert note %}}
