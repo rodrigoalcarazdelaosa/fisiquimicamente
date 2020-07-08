@@ -23,12 +23,8 @@ Thanks to the [Department of Physics and Chemistry of IES Valle del Saja](http:/
 
 {{% toc %}}
 
-## 1. Espejo de plata
+## 1. Silver Mirror
 {{< video library="1" src="pildoras-ciencia/espejo-plata.mp4" controls="yes" >}}
-
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=espejo-de-plata).
-{{% /alert %}}
 
 ## 2. Espectros a la llama
 > Iones adecuados, metanol, llama 🔥 y ... fuegos artificiales 🎆🎇.
