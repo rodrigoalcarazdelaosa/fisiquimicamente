@@ -61,7 +61,7 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 {{< video library="1" src="pildoras-ciencia/termometro-Galileo.mp4" controls="yes" >}}
 
 ## 8. Newton's Cradle
-> A very well known device that does not prevent us new studies every year that are equally interesting.
+> A very well known device that does not prevent new studies every year that are equally interesting.
 
 {{< video library="1" src="pildoras-ciencia/pendulo-Newton.mp4" controls="yes" >}}
 
