@@ -47,3 +47,12 @@ Las reacciones químicas provocan variaciones de concentración, temperatura o p
 {{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=nitrato-vs-cobre).
 {{% /alert %}}
+
+## 4. Lluvia de oro
+Algunos precipitados son de una espectacularidad tal que lo convierten casi en obras de arte.
+
+{{< video src="lluvia-oro.mp4" controls="yes" >}}
+
+{{% alert note %}}
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=lluvia-de-oro).
+{{% /alert %}}
