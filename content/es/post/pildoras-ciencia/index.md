@@ -38,3 +38,10 @@ Iones adecuados, metanol, llama 🔥 y ... fuegos artificiales 🎆🎇.
 {{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-ii) y [aquí](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
 {{% /alert %}}
+
+## 3. Fuente de nitrato y cobre
+{{< video src="fuente-nitrato-cobre.mp4" controls="yes" >}}
+
+{{% alert note %}}
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=nitrato-vs-cobre).
+{{% /alert %}}
