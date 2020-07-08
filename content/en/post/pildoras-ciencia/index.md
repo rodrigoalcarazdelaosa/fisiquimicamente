@@ -71,6 +71,6 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 {{< video library="1" src="pildoras-ciencia/siempre-fuimos-nomadas.mp4" controls="yes" >}}
 
 ## 10. Instants
-> All those moments of emotion that were lost with the pandemic are collected here in instants of other courses.
+> All those moments of emotion that were lost with the pandemic are collected here in instants of other years.
 
 {{< video library="1" src="pildoras-ciencia/instantes.mp4" controls="yes" >}}
