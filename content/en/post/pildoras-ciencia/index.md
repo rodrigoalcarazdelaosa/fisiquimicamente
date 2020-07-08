@@ -45,7 +45,7 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 
 {{< video library="1" src="pildoras-ciencia/lluvia-oro.mp4" controls="yes" >}}
 
-## 5. Spectra in discharge tubes
+## 5. Spectra in Discharge Tubes
 > Another search for color and for deciphering the bar codes hidden in each radiation.
 
 {{< video library="1" src="pildoras-ciencia/espectros.mp4" controls="yes" >}}
