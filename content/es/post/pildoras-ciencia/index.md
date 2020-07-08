@@ -26,4 +26,6 @@ Gracias al [Departamento de Física y Química del IES Valle del Saja](http://ww
 ## 1. Espejo de plata
 {{< video src="espejo-plata.mp4" controls="yes" >}}
 
+{{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=espejo-de-plata).
+{{% /alert %}}
