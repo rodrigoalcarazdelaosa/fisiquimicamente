@@ -106,7 +106,3 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=reflexiones-desd
 > Todos esos momentos de emoción que se perdieron con la pandemia se recogen aquí en instantes de otros cursos.
 
 {{< video src="instantes.mp4" controls="yes" >}}
-
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=reflexiones-desde-el-confinamiento).
-{{% /alert %}}
