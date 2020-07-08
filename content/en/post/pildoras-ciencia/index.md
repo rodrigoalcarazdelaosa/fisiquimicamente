@@ -40,50 +40,30 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 
 {{< video library="1" src="pildoras-ciencia/fuente-nitrato-cobre.mp4" controls="yes" >}}
 
-## 4. Lluvia de oro
-> Algunos precipitados son de una espectacularidad tal que lo convierten casi en obras de arte.
+## 4. Golden Rain
+> Some precipitates are so spectacular that they almost turn them into works of art.
 
 {{< video library="1" src="pildoras-ciencia/lluvia-oro.mp4" controls="yes" >}}
 
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=lluvia-de-oro).
-{{% /alert %}}
-
-## 5. Espectros en tubos de descarga
-> Otra búsqueda del color y de descifrar los códigos de barras escondidos en cada radiación.
+## 5. Spectra in discharge tubes
+> Another search for color and for deciphering the bar codes hidden in each radiation.
 
 {{< video library="1" src="pildoras-ciencia/espectros.mp4" controls="yes" >}}
 
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-i).
-{{% /alert %}}
-
-## 6. Luminiscencia
-> ¿Luciérnagas? ¿Algas? Los fenómenos luminiscentes resultan siempre de los más evocador.
+## 6. Luminescence
+> Fireflies? Algae? Luminescent phenomena are always the most evocative.
 
 {{< video library="1" src="pildoras-ciencia/luminiscencia.mp4" controls="yes" >}}
 
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=quimioluminiscencia).
-{{% /alert %}}
-
-## 7. Termómetro de Galileo
-> Con diseño de más de 350 años, tal cual. Nos conecta a la esencia de la flotabilidad y dilatación de los líquidos.
+## 7. Galilean Thermometer
+> With a design of more than 350 years, just like that. It connects us to the essence of liquid buoyancy and expansion.
 
 {{< video library="1" src="pildoras-ciencia/termometro-Galileo.mp4" controls="yes" >}}
 
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-galileo).
-{{% /alert %}}
-
-## 8. Péndulo de Newton
-> Dispositivo conocidísimo que no por ello provoca cada año nuevos estudios igual de interesantes.
+## 8. Newton's Cradle
+> A very well known device that does not prevent us new studies every year that are equally interesting.
 
 {{< video library="1" src="pildoras-ciencia/pendulo-Newton.mp4" controls="yes" >}}
-
-{{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=pendulo-de-newton).
-{{% /alert %}}
 
 ## 9. Siempre fuimos nómadas
 > Dramatizar o teatralizar pasajes de la ciencia, como aquí el mejor Sagan, es algo que suele funcionar muy bien con los alumnos.
