@@ -29,3 +29,12 @@ Gracias al [Departamento de Física y Química del IES Valle del Saja](http://ww
 {{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=espejo-de-plata).
 {{% /alert %}}
+
+## 2. Espectros a la llama
+Iones adecuados, metanol, llama 🔥 y ... fuegos artificiales 🎆🎇
+
+{{< video src="espectros-llama.mp4" controls="yes" >}}
+
+{{% alert note %}}
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-ii).
+{{% /alert %}}
