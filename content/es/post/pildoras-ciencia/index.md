@@ -36,5 +36,5 @@ Iones adecuados, metanol, llama 🔥 y ... fuegos artificiales 🎆🎇
 {{< video src="espectros-llama.mp4" controls="yes" >}}
 
 {{% alert note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-ii).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-ii) y [aquí](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
 {{% /alert %}}
