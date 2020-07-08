@@ -17,7 +17,7 @@ El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja
 
 {{< tweet 1280438568318574592 >}}
 
-{{% alert gdrive %}}
+{{% alert thanks %}}
 Gracias al [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes descargar los vídeos originales.
 {{% /alert %}}
 
