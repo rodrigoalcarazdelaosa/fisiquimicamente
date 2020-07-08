@@ -83,3 +83,12 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=quimioluminiscen
 {{% alert note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-galileo).
 {{% /alert %}}
+
+## 8. Péndulo de Newton
+> Dispositivo conocidísimo que no por ello provoca cada año nuevos estudios igual de interesantes.
+
+{{< video src="pendulo-Newton.mp4" controls="yes" >}}
+
+{{% alert note %}}
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-galileo).
+{{% /alert %}}
