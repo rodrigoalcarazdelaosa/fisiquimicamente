@@ -108,3 +108,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=reflexiones-desd
 > Todos esos momentos de emoción que se perdieron con la pandemia se recogen aquí en instantes de otros cursos.
 
 {{< video library="1" src="pildoras-ciencia/instantes.mp4" controls="yes" >}}
+
+{{% alert note %}}
+Ahora que has visto todas las píldoras 💊💊, **vota** tu **favorita** [aquí](https://t.co/fccA9uLua2?amp=1) 😉. ¡Gracias 🙏!
+{{% /alert %}}
