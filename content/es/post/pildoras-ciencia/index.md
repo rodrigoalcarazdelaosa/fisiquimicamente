@@ -19,6 +19,8 @@ El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja
 
 {{% alert thanks %}}
 Gracias al [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) por facilitarme los vídeos originales.
+
+Cuando hayas visto todas las píldoras 💊💊, te invito a que **votes** cuál es tu **favorita** [aquí](https://t.co/fccA9uLua2?amp=1) 😉. ¡Gracias 🙏!
 {{% /alert %}}
 
 {{% toc %}}
