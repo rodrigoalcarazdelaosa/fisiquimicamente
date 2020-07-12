@@ -625,7 +625,7 @@ The following plot shows the **acceleration** of the Falcon 9, in m/s<sup>2</sup
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Tiempo (min)',
+	          labelString: 'Time (min)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -647,7 +647,7 @@ The following plot shows the **acceleration** of the Falcon 9, in m/s<sup>2</sup
 	        },
 	        scaleLabel: {
 	          display: true,
-			  labelString: 'Aceleración (m/s²)',
+			  labelString: 'Acceleration (m/s²)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
