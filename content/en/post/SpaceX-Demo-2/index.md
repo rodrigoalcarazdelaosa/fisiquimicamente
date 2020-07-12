@@ -730,7 +730,7 @@ The following plot shows the **acceleration** of the Falcon 9, in m/s<sup>2</sup
 	
 It is clear that the **acceleration** is **not constant**, increasing until **MECO**, when it even takes negative values (remember that [speed is reduced](#speed)). Then it increases again to values above 30$\thinspace$m/s<sup>2</sup> (more than three times the acceleration of gravity on the surface of the Earth), until **SECO**, when the tangential acceleration vanishes because there is no longer any engine powering the ship.
 	
-### ¿Y si suponemos que la aceleración es constante?
+### What if we assume that the acceleration is constant?
 Si la aceleración del cohete fuera constante, entonces su ascenso se podría modelar mediante un [**movimiento rectilíneo uniformemente variado**]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniformemente-variado-mruv" >}}) (MRUV). Viendo la anterior gráfica parece un disparate pensar que pueda ser así, pero no está de más intentarlo como ejercicio mental.
 
 La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración constante que tendría suponiendo un MRUV, obtenida como la **media artimética**[^9]:
