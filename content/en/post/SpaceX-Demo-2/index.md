@@ -513,7 +513,7 @@ which is a relative error of about 3.7$\thinspace$%.
 
 From the speed values it is possible to obtain the **tangential acceleration** of the rocket by means of a **numerical derivation**[^8].
 
-^8]: Specifically, the acceleration has been obtained using the [`diff`](https://uk.mathworks.com/help/matlab/ref/diff.html) function of [MATLAB<sup>&reg;</sup>](https://uk.mathworks.com/products/matlab.html).
+[^8]: Specifically, the acceleration has been obtained using the [`diff`](https://uk.mathworks.com/help/matlab/ref/diff.html) function of [MATLAB<sup>&reg;</sup>](https://uk.mathworks.com/products/matlab.html).
 
 The following plot shows the **acceleration** of the Falcon 9, in m/s<sup>2</sup>, as a function of the elapsed time, in minutes:
 
