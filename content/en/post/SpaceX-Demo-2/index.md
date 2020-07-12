@@ -32,7 +32,7 @@ In this video of almost 5 hours of duration, published by SpaceX, you can know m
 
 If you wish to read more about this historic mission you can do so at [NASA's official website](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon).
 
-## Estudio cinemático del Falcon 9 🚀
+## Kinematic study of the Falcon 9 🚀
 La entrada podría haber acabado con el párrafo anterior, pero entonces no sabrías distinguir si estabas en la revista [¡Hola!](https://www.hola.com) o en el [blog de Fisiquímicamente con Rodri]({{< ref "/post/" >}}) 😏.
 
 Si te fijas en el vídeo del lanzamiento, en la esquina inferior izquierda aparecen el módulo de la **velocidad** (velocidad a secas de aquí en adelante), en km/h, y la **altitud**, en km, del cohete en tiempo real a medida que asciende hasta los 200$\thinspace$km aproximadamente. ¿Qué es lo que se me ocurrió al ver esos datos? Pues anotarlos[^3], representarlos y hacer un pequeño **estudio empírico** sobre la **cinemática** del **Falcon 9**.
