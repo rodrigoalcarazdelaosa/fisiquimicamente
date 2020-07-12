@@ -265,9 +265,9 @@ The altitude rises rapidly during the first two minutes approximately (until min
 [^5]: One of the distinguishing features of SpaceX's Falcon 9 is that the first stage of the rocket, once separated, is capable of returning to Earth and landing on its own, as shown in this gif 😲:
 	<div style="width:100%;height:0;padding-bottom:46%;position:relative;"><iframe src="https://giphy.com/embed/3o7WIIC8bMnvkFO30Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/buzzfeed-rocket-tesla-3o7WIIC8bMnvkFO30Q">via GIPHY</a></p>
 
-A partir de ese momento la altitud sigue aumentando alcanzando los 200$\thinspace$km a los 5 minutos de vuelo aproximadamente y manteniéndose *constante*.
+From that moment the altitude continues to increase reaching 200$\thinspace$km after approximately 5 minutes of flight and remaining *constant*.
 
-**SECO** significa Second-Stage Engine Cutoff y representa el momento en el que el motor Merlin Vacuum, el único que estaba impulsando la segunda fase del cohete (a la que está acoplada la nave Dragon en sí, donde iban los astronautas), se para, lo que no parece afectar demasiado a la altitud de la Dragon.
+**SECO** means Second-Stage Engine Cutoff and represents the moment when the Merlin Vacuum engine, the only one that was driving the second stage of the rocket (to which the Dragon ship itself is attached, where the astronauts were going), stops, which doesn't seem to affect too much the altitude of the Dragon.
 
 ### Velocidad
 
