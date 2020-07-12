@@ -487,7 +487,7 @@ The following plot shows the **speed** of the Falcon 9, in km/h, as a function o
 	});
 </script>
 	
-La **velocidad aumenta** de forma **no lineal**, alcanzando los 6724$\thinspace$km/h, más de 5 veces la velocidad del sonido en el aire[^7], en el **MECO**. Se observa que en ese momento la velocidad se ve incluso reducida, hasta que el motor Merlin Vacuum de la segunda etapa se enciende y acelera a la Dragon con una tendencia similar a como lo había hecho durante la primera etapa.
+The **speed increases** in a **non-linear** way, reaching 6724$\thinspace$km/h, more than 5 times the speed of sound in air [^7], in the **MECO**. It is observed that at that moment the speed is even reduced, until the Merlin Vacuum engine of the second stage is started and accelerates the Dragon with a similar tendency as it had done during the first stage.
 
 [^7]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar ([https://es.wikipedia.org/wiki/Velocidad_del_sonido](https://es.wikipedia.org/wiki/Velocidad_del_sonido)).
 
