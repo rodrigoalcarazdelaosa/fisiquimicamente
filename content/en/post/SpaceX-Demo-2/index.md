@@ -24,13 +24,13 @@ Approximately 19 hours later, the Crew Dragon ship docked autonomously with the 
 
 [^2]: On July 8, 2011, the 135th and final mission of NASA's [Space Shuttle Program](https://en.wikipedia.org/wiki/Space_Shuttle_program) took place.
 
-La [Demo-2](https://es.wikipedia.org/wiki/Crew_Dragon_Demo-2) es la última prueba importante del sistema de vuelos espaciales tripulados de SpaceX que será certificada por la NASA para misiones tripuladas hacia y desde la Estación Espacial Internacional.
+Demo-2](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2) is the last major test of the SpaceX manned space flight system to be certified by NASA for manned missions to and from the International Space Station.
 
-En este vídeo de casi 5 horas de duración, publicado por SpaceX, puedes conocer muchos más detalles sobre la misión (si solo quieres ver el lanzamiento salta hasta 4:22:46):
+In this video of almost 5 hours of duration, published by SpaceX, you can know many more details about the mission (if you only want to see the launch jump to 4:22:46):
 
 {{< youtube xY96v0OIcK4 >}}
 
-Si deseas leer más sobre esta histórica misión puedes hacerlo en la [página oficial en español de la NASA](https://ciencia.nasa.gov/nasa-y-spacex-enviarán-astronautas-la-estación-espacial-los-primeros-lanzados-desde-suelo).
+If you wish to read more about this historic mission you can do so at [NASA's official website](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon).
 
 ## Estudio cinemático del Falcon 9 🚀
 La entrada podría haber acabado con el párrafo anterior, pero entonces no sabrías distinguir si estabas en la revista [¡Hola!](https://www.hola.com) o en el [blog de Fisiquímicamente con Rodri]({{< ref "/post/" >}}) 😏.
