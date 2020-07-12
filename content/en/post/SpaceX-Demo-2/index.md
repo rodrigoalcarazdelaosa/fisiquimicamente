@@ -976,10 +976,11 @@ The resulting average value of the acceleration before **SECO** is 14.1$\thinspa
 
 Once we have our constant acceleration value, we can compare the *empirical* altitude and speed with those obtained from the UVLM expressions (taking into account that after **SECO** the acceleration is zero and therefore the ship will move with an [uniform linear motion]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) or ULM).
 
-#### Altitud
-A partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que las expresiones del MRUV o MRU no son válidas, ya que suponen un aumento indefinido.
+#### Altitude
+After four minutes, the rocket is maintained at a practically constant altitude, so the  UVLM or ULM expressions are not valid, as they imply an indefinite increase.
 
-Hasta los 4 minutos aproximadamente, la **altitud teórica** la calculamos a partir de la expresión:
+Up to approximately 4 minutes, the **theoretical altitude** is calculated from the expression:
+
 $$
 h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
