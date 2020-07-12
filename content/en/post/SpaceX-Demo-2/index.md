@@ -37,13 +37,13 @@ The post could have ended with the previous paragraph, but then you wouldn't kno
 
 If you look at the video of the launch, in the lower left corner you can see the module of the **velocity** (speed from here on), in km/h, and the **altitude**, in km, of the rocket in real time as it ascends to approximately 200$\thinspace$km. What did I think when I saw that data? Well, write the values down [^3], represent them and make a small **empirical study** about the **cinematics** of the **Falcon 9**.
 
-[^3]: I'd love to tell you that I used a fully automated algorithm with optical character recognition (OCR) to read the values in the video, [like some other *freaks* and capable that I've dared to do](https://forum.nasaspaceflight.com/index.php?topic=40983.0). But no, I'm afraid all I did was play the video in 10 second jumps, manually entering the speed and altitude values 🤷‍♂️.
+[^3]: I'd love to tell you that I used a fully automated algorithm with optical character recognition (OCR) to read the values in the video, [like some other *freaks* and more capable than me have managed to do](https://forum.nasaspaceflight.com/index.php?topic=40983.0). But no, I'm afraid all I did was play the video in 10 second jumps, manually entering the speed and altitude values 🤷‍♂️.
 
-### Altitud
+### Altitude
 
-La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función del tiempo transcurrido, en minutos[^4]:
+The following plot shows the **altitude** of the Falcon 9, in km, as a function of the elapsed time, in minutes [^4]:
 
-[^4]: Por poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su altitud de crucero, que son unos 10$\thinspace$km. Es decir, en la mitad de tiempo, el Falcon 9 es capaz de alcanzar una altitud unas 20 veces superior a la de crucero de un avión comercial.
+[^4]: To put this data into perspective, it takes a commercial plane about 10 minutes to reach its cruising altitude, which is about 10$\thinspace$km. In other words, in half the time, the Falcon 9 is capable of reaching an altitude about 20 times higher than the cruising altitude of a commercial plane.
 
 <canvas id="h-t"></canvas>
 
