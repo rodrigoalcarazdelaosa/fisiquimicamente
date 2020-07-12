@@ -20,9 +20,9 @@ After having to be postponed due to bad weather[^1], last Saturday May 30, at 21
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/huaXHrRX3MfPzCxyBS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GreerTidbits-nasa-rocket-spacex-huaXHrRX3MfPzCxyBS">via GIPHY</a></p>
 
-Aproximadamente 19 horas después la nave Crew Dragon se acopló autónomamente a la [Estación Espacial Internacional](https://es.wikipedia.org/wiki/Estación_Espacial_Internacional), con los astronautas [Bob Behnken](https://es.wikipedia.org/wiki/Robert_L._Behnken) y [Doug Hurley](https://es.wikipedia.org/wiki/Douglas_G._Hurley) a bordo, lo que ha supuesto que Estados Unidos vuelva a poner seres humanos en el espacio por primera vez desde el año 2011[^2].
+Approximately 19 hours later, the Crew Dragon ship docked autonomously with the [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station), with astronauts [Bob Behnken](https://en.wikipedia.org/wiki/Bob_Behnken) and [Doug Hurley](https://en.wikipedia.org/wiki/Doug_Hurley) on board, which has meant that the United States is putting humans back into space for the first time since 2011[^2].
 
-[^2]: El 8 de julio de 2011 tuvo lugar la 135 y última misión del [Programa del Transbordador Espacial](https://es.wikipedia.org/wiki/Programa_del_transbordador_espacial) de la NASA.
+[^2]: On July 8, 2011, the 135th and final mission of NASA's [Space Shuttle Program](https://en.wikipedia.org/wiki/Space_Shuttle_program) took place.
 
 La [Demo-2](https://es.wikipedia.org/wiki/Crew_Dragon_Demo-2) es la última prueba importante del sistema de vuelos espaciales tripulados de SpaceX que será certificada por la NASA para misiones tripuladas hacia y desde la Estación Espacial Internacional.
 
