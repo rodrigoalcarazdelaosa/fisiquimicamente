@@ -157,7 +157,7 @@ The following plot shows the **altitude** of the Falcon 9, in km, as a function 
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Tiempo (min)',
+	          labelString: 'Time (min)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -179,7 +179,7 @@ The following plot shows the **altitude** of the Falcon 9, in km, as a function 
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Altitud (km)',
+	          labelString: 'Altitude (km)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
