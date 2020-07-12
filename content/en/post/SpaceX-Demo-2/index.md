@@ -32,7 +32,7 @@ In this video of almost 5 hours of duration, published by SpaceX, you can know m
 
 If you wish to read more about this historic mission you can do so at [NASA's official website](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon).
 
-## Kinematic study of the Falcon 9 🚀
+## Kinematic Study of the Falcon 9 🚀
 The post could have ended with the previous paragraph, but then you wouldn't know if you were in [Hello!](https://www.hellomagazine.com/) magazine or in [Physichemically with Rodri's blog]({{< ref "/post/" >}}) 😏.
 
 If you look at the video of the launch, in the lower left corner you can see the module of the **velocity** (speed from here on), in km/h, and the **altitude**, in km, of the rocket in real time as it ascends to approximately 200$\thinspace$km. What did I think when I saw that data? Well, write the values down [^3], represent them and make a small **empirical study** about the **cinematics** of the **Falcon 9**.
@@ -493,7 +493,7 @@ The **speed increases** in a **non-linear** way, reaching 6724$\thinspace$km/h, 
 
 It's nice to see how in **SECO** the Dragon stops accelerating, because it doesn't have any engine driving it anymore, keeping its constant speed from then on (describing an [uniform circular motion]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}})).
 
-#### Velocidad orbital
+#### Orbital Speed
 
 El valor máximo de la velocidad es aproximadamente 27000$\thinspace$km/h. ¿Podemos entender el por qué de este valor? En efecto, a partir del minuto 9 aproximadamente, la nave Dragon se encuentra en una órbita a una altura de unos 200$\thinspace$km. Asumiendo una órbita circular, la [**velocidad orbital**](https://es.wikipedia.org/wiki/Velocidad_orbital) viene dada por la expresión:
 
