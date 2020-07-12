@@ -984,9 +984,9 @@ Up to approximately 4 minutes, the **theoretical altitude** is calculated from t
 $$
 h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
-donde $h_0 = 0$, $v_0 = 0$ y $a = 14.1\thinspace$m/s<sup>2</sup>.
+where $h_0 = 0$, $v_0 = 0$ and $a = 14.1\thinspace$m/s<sup>2</sup>.
 
-En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calculada suponiendo un MRUV, durante los cuatro primeros minutos del ascenso del Falcon 9:
+In the following plot both the empirical **altitude** and the one calculated assuming an UVLM, during the first four minutes of the Falcon 9's ascent, are drawn:
 
 <canvas id="h-t-MRUV"></canvas>
 
