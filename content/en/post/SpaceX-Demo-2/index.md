@@ -37,9 +37,7 @@ The post could have ended with the previous paragraph, but then you wouldn't kno
 
 If you look at the video of the launch, in the lower left corner you can see the module of the **velocity** (speed from here on), in km/h, and the **altitude**, in km, of the rocket in real time as it ascends to approximately 200$thinspace$km. What did I think when I saw that data? Well, write the values down [^3], represent them and make a small **empirical study** about the **cinematics** of the **Falcon 9**.
 
-[^3]: I'd love to be able to tell you that I used a fully automated algorithm with optical character recognition (OCR) to read the values in the video, [like some other *freaks* and capable that I've dared to do](https://forum.nasaspaceflight.com/index.php?topic=40983.0). But no, I'm afraid all I did was play the video in 10 second jumps, manually entering the speed and altitude values 🤷‍♂️.
-
-[^3]: Me encantaría poderte decir que utilicé un algoritmo totalmente automatizado con reconocimiento óptico de caracteres (OCR) para leer los valores del vídeo, [como alguno más *friki* y capaz que yo se ha atrevido a hacer](https://forum.nasaspaceflight.com/index.php?topic=40983.0). Pero no, me temo que lo único que hice fue reproducir el vídeo en saltos de 10 segundos, anotando manualmente los valores de la velocidad y la altitud 🤷‍♂️.
+[^3]: I'd love to tell you that I used a fully automated algorithm with optical character recognition (OCR) to read the values in the video, [like some other *freaks* and capable that I've dared to do](https://forum.nasaspaceflight.com/index.php?topic=40983.0). But no, I'm afraid all I did was play the video in 10 second jumps, manually entering the speed and altitude values 🤷‍♂️.
 
 ### Altitud
 
