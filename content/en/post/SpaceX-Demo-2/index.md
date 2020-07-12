@@ -986,7 +986,7 @@ h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
 where $h_0 = 0$, $v_0 = 0$ and $a = 14.1\thinspace$m/s<sup>2</sup>.
 
-In the following plot both the empirical **altitude** and the one calculated assuming an UVLM, during the first four minutes of the Falcon 9's ascent, are drawn:
+In the following plot both the empirical **altitude** and the one calculated assuming an UVLM, during the first four minutes of the Falcon 9's ascent, are shown:
 
 <canvas id="h-t-MRUV"></canvas>
 
