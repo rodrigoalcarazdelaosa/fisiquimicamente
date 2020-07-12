@@ -489,7 +489,7 @@ The following plot shows the **speed** of the Falcon 9, in km/h, as a function o
 	
 The **speed increases** in a **non-linear** way, reaching 6724$\thinspace$km/h, more than 5 times the speed of sound in air [^7], in the **MECO**. It is observed that at that moment the speed is even reduced, until the Merlin Vacuum engine of the second stage is started and accelerates the Dragon with a similar tendency as it had done during the first stage.
 
-[^7]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar ([https://es.wikipedia.org/wiki/Velocidad_del_sonido](https://es.wikipedia.org/wiki/Velocidad_del_sonido)).
+[^7]: At 20$\thinspace^circ$C temperature, 50$\thinspace$% humidity and sea level ([https://en.wikipedia.org/wiki/Speed_of_sound](https://en.wikipedia.org/wiki/Speed_of_sound)).
 
 Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un [movimiento circular uniforme]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}}) &mdash;MCU).
 
