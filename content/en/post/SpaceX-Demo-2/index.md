@@ -269,11 +269,11 @@ From that moment the altitude continues to increase reaching 200$\thinspace$km a
 
 **SECO** means Second-Stage Engine Cutoff and represents the moment when the Merlin Vacuum engine, the only one that was driving the second stage of the rocket (to which the Dragon ship itself is attached, where the astronauts were going), stops, which doesn't seem to affect too much the altitude of the Dragon.
 
-### Velocidad
+### Speed
 
-La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en función del tiempo transcurrido, en minutos[^6]:
+The following plot shows the **speed** of the Falcon 9, in km/h, as a function of the elapsed time, in minutes [^6]:
 
-[^6]: De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900$\thinspace$km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanzar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
+[^6]: Again to put this data into perspective, it takes a commercial plane about 10 minutes to reach its cruising speed, which is about 900$\thinspace$km/h. In other words, in the same time, the Falcon 9 is capable of reaching a speed about 30 times higher than the cruising speed of a commercial plane.
 
 <canvas id="v-t"></canvas>
 
@@ -384,7 +384,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Tiempo (min)',
+	          labelString: 'Time (min)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -406,7 +406,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 	        },
 	        scaleLabel: {
 	          display: true,
-			  labelString: 'Velocidad (km/h)',
+			  labelString: 'Speed (km/h)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
