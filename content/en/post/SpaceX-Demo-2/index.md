@@ -1474,6 +1474,6 @@ The following plot shows both the empirical and calculated **speed** assuming an
 	});
 </script>
 	
-Se observa que la expresión teórica sobreestima la velocidad de la nave antes del **SECO** (con un error relativo máximo de más del 300$\thinspace$%, para $t = 0.2\overline{6}\thinspace$min), y la subestima ligeramente después.
+It is observed that the theoretical expression overestimates the speed of the ship before **SECO** (with a maximum relative error of more than 300$\thinspace$%, for $t = 0.2\overline{6}\thinspace$min), and underestimates it slightly afterwards.
 	
-Aún así, parece que la expresión teórica no se desvía tanto de los valores empíricos, lo que indica que, al menos para estimar la velocidad, no parece tan descabellado modelar el ascenso del cohete mediante un MRUV (y posterior MRU tras el **SECO**).
+Still, it seems that the theoretical expression does not deviate so much from the empirical values, indicating that, at least for estimating speed, it does not seem so farfetched to model the rocket ascent by an UVLM (and subsequent ULM after **SECO**).
