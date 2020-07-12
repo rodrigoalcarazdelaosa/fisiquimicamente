@@ -509,13 +509,13 @@ v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}} &= \sqrt{\frac{6.67\times 10^{-
 
 which is a relative error of about 3.7$\thinspace$%.
 
-### Aceleración
+### Acceleration
 
-A partir de los valores del módulo de la velocidad es posible obtener la **aceleración tangencial** del cohete mediante una **derivación numérica**[^8].
+From the speed values it is possible to obtain the **tangential acceleration** of the rocket by means of a **numerical derivation**[^8].
 
-[^8]: En concreto, la aceleración se ha obtenido utilizando la función [`diff`](https://es.mathworks.com/help/matlab/ref/diff.html) de [MATLAB<sup>&reg;</sup>](https://es.mathworks.com/products/matlab.html).
+^8]: Specifically, the acceleration has been obtained using the [`diff`](https://uk.mathworks.com/help/matlab/ref/diff.html) function of [MATLAB<sup>&reg;</sup>](https://uk.mathworks.com/products/matlab.html).
 
-La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
+The following plot shows the **acceleration** of the Falcon 9, in m/s<sup>2</sup>, as a function of the elapsed time, in minutes:
 
 <canvas id="a-t"></canvas>
 
