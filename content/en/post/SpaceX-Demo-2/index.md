@@ -972,7 +972,7 @@ The following plot shows again the *empirical* **acceleration** of the rocket, o
 	
 The resulting average value of the acceleration before **SECO** is 14.1$\thinspace$m/s<sup>2</sup>, $\approx 1.4$ times higher (in module) than the acceleration of gravity on the Earth's surface (9.8$\thinspace$m/s<sup>2</sup>). This can be interpreted as that, on average, astronauts have spent almost 9 minutes experiencing something worse than a free fall, and on top of that, *upwards* 🙃 [^10].
 
-[^10]: Actually it would have been much worse than this 🤦♂, but as a matter of fact, a skydiver usually reaches the [terminal velocity](https://en.wikipedia.org/wiki/Terminal_velocity) (around 180$\thinspace$km/h) in only 12 seconds, after which he stops experiencing the feeling of *falling*.
+[^10]: Actually it would have been much worse than this 🤦, but as a matter of fact, a skydiver usually reaches the [terminal velocity](https://en.wikipedia.org/wiki/Terminal_velocity) (around 180$\thinspace$km/h) in only 12 seconds, after which he stops experiencing the feeling of *falling*.
 
 Once we have our constant acceleration value, we can compare the *empirical* altitude and speed with those obtained from the UVLM expressions (taking into account that after **SECO** the acceleration is zero and therefore the ship will move with an [uniform linear motion]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) or ULM).
 
