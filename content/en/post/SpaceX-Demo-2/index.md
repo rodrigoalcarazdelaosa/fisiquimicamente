@@ -1232,14 +1232,14 @@ The **theoretical speed** is calculated from the expression [^11]:
 
 $$
 v(t) = \begin{cases}
-v_0 + a t & \text{antes del SECO (MRUV)} \\\\
-26734.6 & \text{después del SECO (MRU)}
+v_0 + a t & \text{before SECO (UVLM)} \\\\
+26734.6 & \text{after SECO (ULM)}
 \end{cases}
 $$
-donde $v_0 = 0$ y $a = 14.1\thinspace$m/s<sup>2</sup>.
+where $v_0 = 0$ and $a = 14.1\thinspace$m/s<sup>2</sup>.
 
-En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUV y posterior MRU:
-	
+The following plot shows both the empirical and calculated **speed** assuming an UVLM and subsequent ULM:
+
 <canvas id="v-t-MRUV"></canvas>
 
 <script>
@@ -1329,7 +1329,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-		    label: '"Empírica"',				  
+		    label: '"Empiric"',				  
 		    backgroundColor: '#2a54a9',
 			borderColor: '#2a54a9',
 			fill: false,
@@ -1342,7 +1342,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-		    label: 'MRUV', 				  
+		    label: 'UVLM', 				  
 		    backgroundColor: '#b50000',
 			borderColor: '#b50000',
 			fill: false,
@@ -1365,7 +1365,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Tiempo (min)',
+	          labelString: 'Time (min)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -1387,7 +1387,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	        },
 	        scaleLabel: {
 	          display: true,
-			  labelString: 'Velocidad (km/h)',
+			  labelString: 'Speed (km/h)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
