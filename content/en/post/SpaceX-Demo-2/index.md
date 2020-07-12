@@ -1077,7 +1077,7 @@ In the following plot both the empirical **altitude** and the one calculated ass
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-		    label: '"Empírica"',				  
+		    label: '"Empiric"',				  
 		    backgroundColor: '#2a54a9',
 			borderColor: '#2a54a9',
 			fill: false,
@@ -1090,7 +1090,7 @@ In the following plot both the empirical **altitude** and the one calculated ass
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-		    label: 'MRUV', 				  
+		    label: 'UVLM', 				  
 		    backgroundColor: '#b50000',
 			borderColor: '#b50000',
 			fill: false,
@@ -1113,7 +1113,7 @@ In the following plot both the empirical **altitude** and the one calculated ass
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Tiempo (min)',
+	          labelString: 'Time (min)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -1135,7 +1135,7 @@ In the following plot both the empirical **altitude** and the one calculated ass
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Altitud (km)',
+	          labelString: 'Altitude (km)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
