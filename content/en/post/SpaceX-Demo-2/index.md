@@ -728,8 +728,8 @@ The following plot shows the **acceleration** of the Falcon 9, in m/s<sup>2</sup
 	});
 </script>
 	
-Se observa claramente que la **aceleración no** es **constante**, aumentando hasta el **MECO**, momento en el que toma incluso valores negativos (recordemos que [la velocidad se ve reducida](#velocidad)). Después vuelve a aumentar hasta valores por encima de los 30$\thinspace$m/s<sup>2</sup> (más de tres veces la aceleración de la gravedad en la superficie de la Tierra), hasta el **SECO**, instante en el que la aceleración tangencial desaparece al no haber ya ningún motor que impulse la nave.
-
+It is clear that the **acceleration is not constant**, increasing until **MECO**, when it even takes negative values (remember that [speed is reduced](#speed)). Then it increases again to values above 30$\thinspace$m/s<sup>2</sup> (more than three times the acceleration of gravity on the surface of the Earth), until **SECO**, when the tangential acceleration disappears because there is no longer any engine to drive the ship.
+	
 ### ¿Y si suponemos que la aceleración es constante?
 Si la aceleración del cohete fuera constante, entonces su ascenso se podría modelar mediante un [**movimiento rectilíneo uniformemente variado**]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniformemente-variado-mruv" >}}) (MRUV). Viendo la anterior gráfica parece un disparate pensar que pueda ser así, pero no está de más intentarlo como ejercicio mental.
 
