@@ -491,6 +491,8 @@ The **speed increases** in a **non-linear** way, reaching 6724$\thinspace$km/h, 
 
 [^7]: At 20$\thinspace^\circ$C temperature, 50$\thinspace$% humidity and sea level ([https://en.wikipedia.org/wiki/Speed_of_sound](https://en.wikipedia.org/wiki/Speed_of_sound)).
 
+It's nice to see how in **SECO** the Dragon stops accelerating, because it doesn't have any engine driving it anymore, keeping its constant speed from then on (describing an [uniform circular motion]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}}).
+
 Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un [movimiento circular uniforme]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}}) &mdash;MCU).
 
 #### Velocidad orbital
