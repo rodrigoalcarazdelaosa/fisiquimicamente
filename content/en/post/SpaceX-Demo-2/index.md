@@ -495,12 +495,12 @@ It's nice to see how in **SECO** the Dragon stops accelerating, because it doesn
 
 #### Orbital Speed
 
-El valor máximo de la velocidad es aproximadamente 27000$\thinspace$km/h. ¿Podemos entender el por qué de este valor? En efecto, a partir del minuto 9 aproximadamente, la nave Dragon se encuentra en una órbita a una altura de unos 200$\thinspace$km. Asumiendo una órbita circular, la [**velocidad orbital**](https://es.wikipedia.org/wiki/Velocidad_orbital) viene dada por la expresión:
+The maximum value of the speed is approximately 27000$\thinspace$km/h. Can we understand this value? Indeed, as of approximately minute 9, the Dragon ship is in an orbit at an altitude of about 200$\thinspace$km. Assuming a circular orbit, the [**orbital speed**](https://en.wikipedia.org/wiki/Orbital_speed) is given by the expression:
 
 $$
 v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}},
 $$
-donde $G = 6.67\times 10^{-11}\thinspace\mathrm{m^3\thinspace kg^{-1}\thinspace s^{-2}}$, $M_\mathrm T = 5.97\times 10^{24}\thinspace\mathrm{kg}$ es la masa de la Tierra y $r = R_\mathrm T + h$ es la distancia a la que se encuentra la nave medida desde el centro de la Tierra, con $R_\mathrm T = 6371\thinspace\mathrm{km}$. Para una altura $h = 200\thinspace$km, tenemos:
+where $G = 6.67\times 10^{-11}\thinspace\mathrm{m^3\thinspace kg^{-1}\thinspace s^{-2}}$, $M_\mathrm T = 5.97\times 10^{24}\thinspace\mathrm{kg}$ is the mass of the Earth y $r = R_\mathrm T + h$ is the distance the ship is measured from the center of the Earth, with $R_\mathrm T = 6371\thinspace\mathrm{km}$. For an altitude $h = 200\thinspace$km, we have:
 
 \begin{align*}
 v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}} &= \sqrt{\frac{6.67\times 10^{-11}\cdot 5.97\times 10^{24}}{(6371+200)\times 10^3}} \\\\
