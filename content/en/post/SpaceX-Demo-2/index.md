@@ -24,7 +24,7 @@ Approximately 19 hours later, the Crew Dragon ship docked autonomously with the 
 
 [^2]: On July 8, 2011, the 135th and final mission of NASA's [Space Shuttle Program](https://en.wikipedia.org/wiki/Space_Shuttle_program) took place.
 
-Demo-2](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2) is the last major test of the SpaceX manned space flight system to be certified by NASA for manned missions to and from the International Space Station.
+[Demo-2](https://en.wikipedia.org/wiki/Crew_Dragon_Demo-2) is the last major test of the SpaceX manned space flight system to be certified by NASA for manned missions to and from the International Space Station.
 
 In this video of almost 5 hours of duration, published by SpaceX, you can know many more details about the mission (if you only want to see the launch jump to 4:22:46):
 
