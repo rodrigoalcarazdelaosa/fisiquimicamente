@@ -1222,13 +1222,13 @@ In the following plot both the empirical **altitude** and the one calculated ass
 	});
 </script>
 	
-La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 130$\thinspace$%).
+The theoretical expression is only able to model the movement of the rocket during the first instants of time (already in the first minute of the ascent the theoretical expression has a relative error of almost 130$\thinspace$%).
+	
+#### Speed
 
-#### Velocidad
+The **theoretical speed** is calculated from the expression [^11]:
 
-La **velocidad teórica** la calculamos a partir de la expresión[^11]:
-
-[^11]: El valor de 26734.6$\thinspace$km/h es la velocidad que tiene la nave, según la expresión teórica del MRUV, justo en el **SECO**.
+[^11]: The value of 26734.6$\thinspace$km/h is the speed the ship has, according to the theoretical expression of the UVLM, right in the **SECO**.
 
 $$
 v(t) = \begin{cases}
