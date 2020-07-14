@@ -16,7 +16,7 @@ image:
 
 [^1]: [Ubisoft](https://www.ubisoft.com/en-gb/) has also released what they call the first glimpse of gameplay (actually no gameplay is shown, but even then we true fans love all this):
 
-	{{< youtube qloV1QSgi7g >}}	
+	{{< youtube -JMLRUUF-Zg >}}	
 
 {{< youtube KjsxI01XWsA >}}
 
