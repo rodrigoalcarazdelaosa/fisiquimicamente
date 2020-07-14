@@ -14,7 +14,7 @@ image:
 
 [Ubisoft](https://www.ubisoft.com/es-es/) ha publicado el primer tráiler del nuevo **Assassin's Creed Valhalla**, que saldrá a la venta a finales de 2020[^1].
 
-[^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado lo que ellos llaman el primer vistazo al gameplay (en realidad no se muestra ningún gameplay, pero aún así a los verdaderos fans todo esto nos encanta):
+[^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado un *gameplay* en profundidad:
 
 	{{< youtube NsfXjarFUHE >}}
 
