@@ -8,7 +8,7 @@ tags:
 - DC
 categories:
 - Chemistry
-- Comicss
+- Comics
 image:
   placement: 3
 #  caption: Tabla Periódica DC
