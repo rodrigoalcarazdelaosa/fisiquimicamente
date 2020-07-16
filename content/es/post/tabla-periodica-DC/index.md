@@ -11,6 +11,6 @@ categories:
 - Cómics
 image:
   placement: 3
-  caption: Tabla Periódica DC
+#  caption: Tabla Periódica DC
 ---
 
