@@ -16,7 +16,7 @@ links:
 - icon_pack: fas
   icon: download
   name: PDF
-  url: pdf/tabla-periodica-DC/tabla-periodica-DC.pdf
+  url: pdf/DC-periodic-table/DC-periodic-table.pdf
 ---
 
 Inspired by [Manuel Souto](https://twitter.com/SoutoManel?s=20) and his [Marvel Periodic Table](https://marvelperiodictable.blogspot.com/2020/07/1.html) here I present my version with **DC characters**.
