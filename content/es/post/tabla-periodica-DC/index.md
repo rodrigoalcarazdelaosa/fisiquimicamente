@@ -12,10 +12,5 @@ categories:
 image:
   placement: 3
 #  caption: Tabla Periódica DC
-links:
-- icon_pack: fas
-  icon: download
-  name: PDF
-  url: tabla-periodica-DC.pdf
 ---
 
