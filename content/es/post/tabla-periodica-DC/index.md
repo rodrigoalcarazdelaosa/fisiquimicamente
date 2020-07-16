@@ -12,6 +12,5 @@ categories:
 image:
   placement: 3
   caption: Tabla Periódica DC
-featured: true  
 ---
 
