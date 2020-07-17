@@ -30,6 +30,10 @@ subtitle = ""
     tag = "color"	
 	
   [[content.filter_button]]
+    name = "Physics/Chemistry"
+    tag = "pac"	
+	
+  [[content.filter_button]]
     name = "Periodic Table"
     tag = "periodic-table"	
 
