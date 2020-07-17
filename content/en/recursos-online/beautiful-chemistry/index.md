@@ -1,8 +1,8 @@
 ---
 title: Beautiful Chemistry
-summary: Proyecto cuyo objetivo es llevar la belleza de la química al público en general.
+summary: Project whose goal is to bring the beauty of chemistry to the general public.
 tags:
-- fyq
+- pac
 categories: 
 - "Chemistry"
 
