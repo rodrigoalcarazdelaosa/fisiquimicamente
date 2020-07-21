@@ -2,6 +2,8 @@
 <div class="share-box" aria-hidden="true">	
   <ul class="share">
 	  <li><applause-button style="width: 30px; height: 30px;" url="{{ $.Permalink }}" /></li>
+	  <script src="https://apis.google.com/js/platform.js" async defer></script>
+	  <li><g:sharetoclassroom url="http://url-to-share" size="32"></g:sharetoclassroom></li>
     {{ range where site.Data.page_sharer.buttons "enable" true }}
       {{ $pack := or .icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
