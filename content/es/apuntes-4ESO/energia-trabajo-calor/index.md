@@ -1,7 +1,7 @@
 ---
 title: Energía, trabajo y calor
 subtitle: Energía y sus formas de intercambio (trabajo y calor)
-summary: "`PRÓXIMAMENTE` <br> Energía y sus formas de intercambio (trabajo y calor)."
+summary: "`EN CONSTRUCCIÓN` <br> Energía y sus formas de intercambio (trabajo y calor)."
 tags:
 - 4º ESO
 - energía
@@ -22,6 +22,6 @@ links:
   url: energia-trabajo-calor-poster.pdf
 ---
 
-{{% alert note %}}
+{{% alert warning %}}
 Próximamente...
 {{% /alert %}}
