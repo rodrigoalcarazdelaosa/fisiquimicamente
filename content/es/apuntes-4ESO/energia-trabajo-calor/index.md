@@ -23,5 +23,5 @@ links:
 ---
 
 {{% alert warning %}}
-Próximamente...
+En construcción...
 {{% /alert %}}
