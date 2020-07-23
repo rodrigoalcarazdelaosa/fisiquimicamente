@@ -21,6 +21,20 @@
   translation: Siguiente
 - id: figure
   translation: 'Figura %d:'
+- id: edit_page
+  translation: Edita esta página
+
+# Themes
+
+- id: theme_light
+  translation: Claro
+- id: theme_dark
+  translation: Oscuro
+- id: theme_auto
+  translation: Automático
+  
+# Buttons  
+    
 - id: btn_preprint
   translation: Prepublicación
 - id: btn_pdf
