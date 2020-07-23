@@ -132,4 +132,8 @@ $$
 donde $L$ es el **calor latente**, que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el **SI** se mide en $\mathrm{J/kg}$.
 
 ## Máquinas térmicas
+Consideramos una **máquina térmica** a un sistema que funciona **periódicamente** entre dos focos a distinta temperatura, y transforma parte del calor absorbido del foco caliente en trabajo, cediendo otra parte al foco frío:
+
+{{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.png" title="Esquema de una **máquina térmica**. La máquina absorbe calor desde la fuente caliente $T_1$ y cede calor a la fría $T_2$, produciendo trabajo: $Q_1 = W+\lvert Q_2\rvert$. Adaptada de [https://commons.wikimedia.org/wiki/File:HeatEngine.svg](https://commons.wikimedia.org/wiki/File:HeatEngine.svg)." lightbox="true" >}}
+
 ### Rendimiento energético
