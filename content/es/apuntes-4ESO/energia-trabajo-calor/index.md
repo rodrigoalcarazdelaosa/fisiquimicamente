@@ -1,7 +1,7 @@
 ---
 title: Energía, trabajo y calor
 subtitle: Energía y sus formas de intercambio (trabajo y calor)
-summary: "`EN CONSTRUCCIÓN` <br> Energía y sus formas de intercambio (trabajo y calor)."
+summary: "Energía y sus formas de intercambio (trabajo y calor)."
 tags:
 - 4º ESO
 - energía
@@ -27,3 +27,12 @@ slides: energia-trabajo-calor-4ESO
 {{% toc %}}
 
 ## Energías cinética, potencial y mecánica
+### Energía cinética $E_\mathrm c$
+### Energía potencial $E_\mathrm p$
+### Energía mecánica $E_\mathrm m$
+
+## Conservación de la energía
+### Principio de conservación de la energía mecánica
+### Principio de conservación de la energía
+
+## Intercambio de energía
