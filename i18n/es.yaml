@@ -73,8 +73,14 @@
   
 - id: see_certificate
   translation: Ver certificado
+  
+# Experience widget
+  
 - id: present
   translation: Actualmente
+  
+# Pages widget
+  
 - id: more_pages
   translation: Ver todo
 - id: more_posts
