@@ -59,6 +59,9 @@
   translation: Copiar
 - id: btn_download
   translation: Descargar
+  
+# About widget
+  
 - id: interests
   translation: Intereses
 - id: education
