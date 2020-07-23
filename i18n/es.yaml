@@ -102,6 +102,9 @@
   translation: Enviar
 - id: book_appointment
   translation: Solicitar una cita
+  
+# Publication/Talk details
+  
 - id: abstract
   translation: Resumen
 - id: publication
