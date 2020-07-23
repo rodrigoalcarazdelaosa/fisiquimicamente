@@ -98,7 +98,7 @@ La relación entre el calor $Q$ que se proporciona a una masa $m$ de una sustanc
 $$
 Q = m\cdot c\cdot \Delta T,
 $$
-donde $c$ es el **calor específico** de la sustancia, que representa la cantidad de energía que es necesario suministrar a la unidad de masa de la sustancia para elevar su temperatura en una unidad. En el **SI** se mide en \si{\J\per\kilo\gram\per\K}.
+donde $c$ es el **calor específico** de la sustancia, que representa la cantidad de energía que es necesario suministrar a la unidad de masa de la sustancia para elevar su temperatura en una unidad. En el **SI** se mide en $\mathrm{J\thinspace kg^{-1}}$.
 
 ### Dilatación
 ### Cambios de estado
