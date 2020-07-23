@@ -43,7 +43,7 @@ $$
 donde $h\ll R_\mathrm T$ (con $R_\mathrm T$ el radio de la Tierra) y $g$ es el valor de la aceleración de la gravedad.
 
 ### Energía mecánica $E_\mathrm m$
-Es la **suma** de la energía **cinética** $E_\\mathrm{c}$ y la energía potencial $E_\mathrm{p}$:
+Es la **suma** de la energía **cinética** $E_\\mathrm{c}$ y la energía **potencial** $E_\mathrm{p}$:
 $$
 E_\mathrm m = E_\mathrm c + E_\mathrm p
 $$
