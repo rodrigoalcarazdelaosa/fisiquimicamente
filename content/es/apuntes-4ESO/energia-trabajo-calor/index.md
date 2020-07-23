@@ -50,6 +50,12 @@ $$
 
 ## Conservación de la energía
 ### Principio de conservación de la energía mecánica
+> Cuando sobre un cuerpo actúan únicamente \textbf{fuerzas conservativas}, su energía mecánica se conserva.
+
+Ejemplos de **fuerzas conservativas**: fuerzas gravitatorias, elásticas o electrostáticas.
+
+La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disipativa**.
+
 ### Principio de conservación de la energía
 
 ## Intercambio de energía
