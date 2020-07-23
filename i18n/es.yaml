@@ -89,6 +89,9 @@
   translation: Más charlas
 - id: more_publications
   translation: Más publicaciones
+  
+# Contact widget
+  
 - id: contact_name
   translation: Nombre
 - id: contact_email
