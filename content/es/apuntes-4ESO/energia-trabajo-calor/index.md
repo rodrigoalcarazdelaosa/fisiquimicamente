@@ -87,10 +87,10 @@ P = \frac{W}{t} = \frac{\vec F\cdot \vec d}{t} = \vec F\cdot \vec v
 $$
 En el **SI** la potencia se mide en **vatios** o ***watts*** ($1\thinspace\mathrm W = 1\thinspace\mathrm{J/s}$), siendo el **caballo de vapor** ($1\thinspace\mathrm{CV} \approx 735\thinspace\mathrm{W}$) otra unidad de uso común.
 
-El **kilovatio hora**, $\mathrm{kW}\thinspace\mathrm h$, es una unidad de \textbf{energía} muy utilizada en la facturación para la energía entregada a los consumidores por las compañías eléctricas:
-\[
+El **kilovatio hora**, $\mathrm{kW}\thinspace\mathrm h$, es una unidad de **energía** muy utilizada en la facturación para la energía entregada a los consumidores por las compañías eléctricas:
+$$
 \SI{1}{\cancel \kilo\W\cancel\hour}\cdot \frac{\SI{1000}{W}}{\SI{1}{\cancel \kilo\W}}\cdot \frac{\SI{3600}{s}}{\SI{1}{\cancel \hour}} = \SI{3.6e6}{\W\second} = \SI{3.6e6}{J}
-\]
+$$
 
 ## Efectos del calor sobre los cuerpos
 ### Variación de temperatura
