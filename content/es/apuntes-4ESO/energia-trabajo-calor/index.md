@@ -1149,7 +1149,7 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 // 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: '<emph>T</emph>/K',
+	          labelString: 'T/K',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -1158,9 +1158,9 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 	          fontSize: 16,
 	          fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
-	          max: 12,
+	          max: 1000,
 	          min: 0,
-	          stepSize: 1.0,
+	          stepSize: 100.0,
 	          padding: 10
 	        }
 	      }],
