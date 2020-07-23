@@ -1204,7 +1204,7 @@ Se observa que a altas temperaturas, el calor específico se acerca al valor $c 
 ### Dilatación
 Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura.
 
-{{< figure src="junta-dilatacion.jpg" title="**Junta de dilatación** de un puente. Si estas juntas no se construyesen, la dilatación térmica de los materiales cuando aumentase la temperatura generaría unos esfuerzos tan grandes que fracturarían el puente. Para calcular estas juntas se necesita conocer el *coeficiente de dilatación térmica*. Imagen de [**Kranich17**](https://pixabay.com/es/users/kranich17-11197573/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure src="junta-dilatacion.jpg" title="**Junta de dilatación** de un puente. Si estas juntas no se construyesen, la dilatación térmica de los materiales cuando aumentase la temperatura generaría unos esfuerzos tan grandes que fracturarían el puente. Para calcular estas juntas se necesita conocer el **coeficiente de dilatación térmica**. Imagen de [**Kranich17**](https://pixabay.com/es/users/kranich17-11197573/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 Si consideramos una varilla de longitud inicial $l_0$ a una temperatura inicial $T_0$ y elevamos su temperatura hasta $T$, la varilla aumentará su longitud hasta $l$.
 
