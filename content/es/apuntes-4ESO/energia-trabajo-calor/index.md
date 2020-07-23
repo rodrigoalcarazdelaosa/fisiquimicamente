@@ -129,7 +129,7 @@ La cantidad de calor $Q$ que es necesario comunicar a una sustancia para que cam
 $$
 Q = m\cdot L,
 $$
-donde $L$ es el \textbf{calor latente}, que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el SI se mide en \si[per-mode=symbol]{\J\per\kilo\gram}.
+donde $L$ es el **calor latente**, que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el **SI** se mide en $\mathrm{J/kg}$.
 
 ## Máquinas térmicas
 ### Rendimiento energético
