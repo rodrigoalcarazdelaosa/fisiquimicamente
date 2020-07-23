@@ -1198,7 +1198,7 @@ La siguiente gráfica muestra la dependencia del calor específico del hierro (F
 	});
 </script>
 	
-Se observa que a altas temperaturas, el calor específico se acerca al valor $c = 25\thinspace\mathrm{J\thinspace kg^{-1}\thinspace K^{-1}}$, resultado que se conoce como la [ley de Dulong y Petit](https://es.wikipedia.org/wiki/Ley_de_Dulong-Petit).
+Se observa que a altas temperaturas, el calor específico se acerca al valor $c = 25\thinspace\mathrm{J\thinspace mol^{-1}\thinspace K^{-1}}$, resultado que se conoce como la [ley de Dulong y Petit](https://es.wikipedia.org/wiki/Ley_de_Dulong-Petit).
 {{< /spoiler >}}
 
 ### Dilatación
