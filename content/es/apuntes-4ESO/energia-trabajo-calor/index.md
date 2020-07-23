@@ -109,7 +109,9 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 [^2]: En [esta tabla](https://es.wikipedia.org/wiki/Calor_espec%C3%ADfico#Tabla_de_calores_espec%C3%ADficos_y_sustancias) puedes ver los **valores** del **calor específico** de diversas sustancias, medido a 25$\thinspace$&deg;C a menos que se indique lo contrario.
 
 {{< spoiler text="¿Sabes que el calor específico depende de la temperatura?" >}}
-La siguiente gráfica muestra la dependencia del calor específico del oro (Au), hierro (Fe) y carbono (C) con la temperatura, según el [modelo de Debye](https://es.wikipedia.org/wiki/Modelo_de_Debye):
+La siguiente gráfica muestra la dependencia del calor específico del oro (Au), hierro (Fe) y carbono (C) con la temperatura, según el [modelo de Debye](https://es.wikipedia.org/wiki/Modelo_de_Debye)[^3]:
+
+[^3]: hola
  
 <canvas id="c-t"></canvas>
 
