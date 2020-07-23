@@ -26,6 +26,8 @@ slides: energia-trabajo-calor-4ESO
 
 {{% toc %}}
 
+La **energía** es la capacidad para realizar un trabajo, y se mide en **julios** ($\SI{1}{\J} = \SI{1}{\kilo\gram\square\meter\per\square\second}$).
+
 ## Energías cinética, potencial y mecánica
 ### Energía cinética $E_\mathrm c$
 ### Energía potencial $E_\mathrm p$
