@@ -1171,7 +1171,7 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Altitud (km)',
+	          labelString: 'c (SI)',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -1182,8 +1182,8 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
 	          padding: 10,
-	          stepSize: 50,
-	          suggestedMax: 250,
+	          stepSize: 5,
+	          suggestedMax: 25,
 	          suggestedMin: 0
 	        }
 	      }]
