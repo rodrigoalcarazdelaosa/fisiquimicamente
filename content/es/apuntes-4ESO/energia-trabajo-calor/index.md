@@ -105,6 +105,25 @@ Hablar sobre la ley de Dulong y Petit...
 {{< /spoiler >}} -->
 
 ### Dilatación
+Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura.
+
+Si consideramos una varilla de longitud inicial $l_0$ a una temperatura inicial $T_0$ y elevamos su temperatura hasta $T$, la varilla aumentará su longitud hasta $l$. El aumento de longitud experimentado, $\Delta l = l-l_0$, es proporcional a la longitud inicial $l_0$ y a la variación de temperatura $\Delta T = T-T_0$:
+\begin{columns}
+	\begin{column}{0.3\textwidth}
+		\[
+		\Delta l = \alpha\cdot l_0\cdot \Delta T,
+		\]
+	\end{column}
+	
+	\begin{column}{0.7\textwidth}
+		\includegraphics[width=\textwidth]{dilatacion}
+	\end{column}
+\end{columns}
+donde $\alpha$ es el llamado \textbf{coeficiente de dilatación lineal}. Se puede demostrar que los coeficientes de dilatación superficial y cúbica son el doble y el triple, respectivamente, del lineal:
+\[
+\Delta S = 2\alpha \cdot S_0\cdot \Delta T;\quad \Delta V = 3\alpha \cdot V_0\cdot \Delta T
+\]  
+
 ### Cambios de estado
 
 ## Máquinas térmicas
