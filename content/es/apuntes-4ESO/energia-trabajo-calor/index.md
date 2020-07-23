@@ -30,6 +30,11 @@ La **energía** es la capacidad para realizar un trabajo, y se mide en **julios*
 
 ## Energías cinética, potencial y mecánica
 ### Energía cinética $E_\mathrm c$
+Es la energía que posee un cuerpo por el hecho de estar en **movimiento**. Depende de la masa $m$ y de la velocidad $v$:
+$$
+E_\mathrm c = \frac{1}{2}mv^2
+$$
+
 ### Energía potencial $E_\mathrm p$
 ### Energía mecánica $E_\mathrm m$
 
