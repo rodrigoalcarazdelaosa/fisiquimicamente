@@ -94,6 +94,12 @@ $$
 
 ## Efectos del calor sobre los cuerpos
 ### Variación de temperatura
+La relación entre el calor $Q$ que se proporciona a una masa $m$ de una sustancia y el incremento de temperatura $\Delta T$ viene dada por:
+$$
+Q = m\cdot c\cdot \Delta T,
+$$
+donde $c$ es el **calor específico** de la sustancia, que representa la cantidad de energía que es necesario suministrar a la unidad de masa de la sustancia para elevar su temperatura en una unidad. En el **SI** se mide en \si{\J\per\kilo\gram\per\K}.
+
 ### Dilatación
 ### Cambios de estado
 
