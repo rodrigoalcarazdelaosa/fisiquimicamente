@@ -106,7 +106,7 @@ Q = m\cdot c\cdot \Delta T,
 $$
 donde $c$ es el **calor específico** de la sustancia[^2], que representa la cantidad de energía que es necesario suministrar a la unidad de masa de la sustancia para elevar su temperatura en una unidad. En el **SI** se mide en $\mathrm{J\thinspace kg^{-1}\thinspace K^{-1}}$.
 
-[^2]: En [esta tabla](https://es.wikipedia.org/wiki/Calor_espec%C3%ADfico#Tabla_de_calores_espec%C3%ADficos_y_sustancias) puedes ver los valores del calor específico de diversas sustancias, medido a 25$\thinspace$ºC 
+[^2]: En [esta tabla](https://es.wikipedia.org/wiki/Calor_espec%C3%ADfico#Tabla_de_calores_espec%C3%ADficos_y_sustancias) puedes ver los valores del calor específico de diversas sustancias, medido a 25$\thinspace$&deg;C 
 
 <!-- {{< spoiler text="¿Sabes que el calor específico depende de la temperatura?" >}}
 Hablar sobre la ley de Dulong y Petit...
