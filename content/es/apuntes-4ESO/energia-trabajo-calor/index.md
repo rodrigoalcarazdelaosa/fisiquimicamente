@@ -74,7 +74,7 @@ La energía se puede intercambiar/transferir mediante **trabajo** o **calor**.
 ### Trabajo $W$
 El **trabajo** se transfiere cuando entre dos cuerpos se realizan **fuerzas** que provocan desplazamientos o cambios en sus dimensiones.
 
-El trabajo realizado por una fuerza $\vec F$ constante viene dado por:
+El trabajo $W$ realizado por una fuerza $\vec F$ constante viene dado por:
 $$
 W = \vec F\cdot \vec d = F\cdot d \cdot \cos\alpha,
 $$
