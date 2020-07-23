@@ -137,6 +137,9 @@
   translation: Tesis
 - id: pub_patent
   translation: Patente
+  
+# Project details
+  
 - id: open_project_site
   translation: Ir al enlace
 - id: posts
