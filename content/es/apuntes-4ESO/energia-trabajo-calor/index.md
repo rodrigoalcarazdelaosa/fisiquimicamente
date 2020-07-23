@@ -36,6 +36,12 @@ E_\mathrm c = \frac{1}{2}mv^2
 $$
 
 ### Energía potencial $E_\mathrm p$
+Es la energía que posee un cuerpo debido a su **posición** y/o **configuración**. La energía potencial **gravitatoria** que posee una masa $m$ situada a una altura $h$ sobre la superficie terrestre vale:
+$$
+E_\mathrm p = m g h,
+$$
+donde $h\ll R_\mathrm T$ (con $R_\mathrm T$ el radio de la Tierra) y $g$ es el valor de la aceleración de la gravedad.
+
 ### Energía mecánica $E_\mathrm m$
 
 ## Conservación de la energía
