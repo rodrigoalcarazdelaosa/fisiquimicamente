@@ -26,7 +26,7 @@ slides: energia-trabajo-calor-4ESO
 
 {{% toc %}}
 
-La **energía** es la capacidad para realizar un trabajo, y se mide en **julios** ($1\thinspace \mathrm{J}} = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}$).
+La **energía** es la capacidad para realizar un trabajo, y se mide en **julios** ($1\thinspace \mathrm{J} = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}$).
 
 ## Energías cinética, potencial y mecánica
 ### Energía cinética $E_\mathrm c$
