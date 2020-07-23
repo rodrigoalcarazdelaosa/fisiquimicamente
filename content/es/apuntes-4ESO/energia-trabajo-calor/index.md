@@ -101,7 +101,7 @@ $$
 donde $c$ es el **calor específico** de la sustancia, que representa la cantidad de energía que es necesario suministrar a la unidad de masa de la sustancia para elevar su temperatura en una unidad. En el **SI** se mide en $\mathrm{J\thinspace kg^{-1}\thinspace K^{-1}}$.
 
 {{< spoiler text="¿Sabes que el calor específico depende de la temperatura?" >}}
-You found me!
+Hablar sobre la ley de Dulong y Petit...
 {{< /spoiler >}}
 
 ### Dilatación
