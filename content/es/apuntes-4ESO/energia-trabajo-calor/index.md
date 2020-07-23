@@ -3254,7 +3254,10 @@ El aumento de longitud experimentado, $\Delta l = l-l_0$, es proporcional a la l
 $$
 \Delta l = \alpha\cdot l_0\cdot \Delta T,
 $$
-donde $\alpha$ es el llamado **coeficiente de dilatación lineal**. Se puede demostrar que los coeficientes de dilatación superficial y cúbica son el doble y el triple, respectivamente, del lineal:
+donde $\alpha$ es el llamado **coeficiente de dilatación lineal**[^3]. Se puede demostrar que los coeficientes de dilatación superficial y cúbica son el doble y el triple, respectivamente, del lineal:
+
+[^3]: Hola.
+
 $$
 \Delta S = 2\alpha \cdot S_0\cdot \Delta T;\quad \Delta V = 3\alpha \cdot V_0\cdot \Delta T
 $$  
@@ -3268,9 +3271,9 @@ La cantidad de calor $Q$ que es necesario comunicar a una sustancia para que cam
 $$
 Q = m\cdot L,
 $$
-donde $L$ es el **calor latente**[^3], que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el **SI** se mide en $\mathrm{J/kg}$.
+donde $L$ es el **calor latente**[^4], que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el **SI** se mide en $\mathrm{J/kg}$.
 
-[^3]: En [esta tabla, tomada de la entrada sobre calor latente en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Latent_heat#Table_of_specific_latent_heats), puedes ver los **valores** del **calor latente** de **fusión** y de **vaporización** de diversas sustancias.
+[^4]: En [esta tabla, tomada de la entrada sobre calor latente en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Latent_heat#Table_of_specific_latent_heats), puedes ver los **valores** del **calor latente** de **fusión** y de **vaporización** de diversas sustancias.
 
 ## Máquinas térmicas
 Consideramos una **máquina térmica** a un sistema que funciona **periódicamente** entre dos focos a distinta temperatura, y transforma parte del calor absorbido del foco caliente en trabajo, cediendo otra parte al foco frío:
@@ -3282,8 +3285,8 @@ Llamamos **rendimiento energético**, $\eta$, al cociente entre el *beneficio* y
 $$
 	\eta = \frac{\text{trabajo que obtengo}}{\text{calor que consumo}}
 $$
-Para un **motor**[^4]:
-[^4]: Si la máquina **invierte el ciclo**, hablaríamos de una **máquina frigorífica**, cuyo rendimiento viene dado por la relación:
+Para un **motor**[^5]:
+[^5]: Si la máquina **invierte el ciclo**, hablaríamos de una **máquina frigorífica**, cuyo rendimiento viene dado por la relación:
 	$$
 	\eta = \frac{|Q_2|}{W} = \frac{|Q_2|}{Q_1-|Q_2|} > 1
 	$$
