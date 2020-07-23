@@ -166,6 +166,9 @@
   translation: resultados encontrados
 - id: search_no_results
   translation: No se encontraron resultados
+  
+# Error 404
+  
 - id: page_not_found
   translation: Página no encontrada
 - id: 404_recommendations
