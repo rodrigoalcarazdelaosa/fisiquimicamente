@@ -21,7 +21,7 @@ links:
   name: Póster
   url: energia-trabajo-calor-poster.pdf
   
-slides: fluidos-4ESO
+slides: energia-trabajo-calor-4ESO
 ---
 
 {{% toc %}}
