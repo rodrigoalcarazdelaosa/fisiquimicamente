@@ -142,6 +142,9 @@
   
 - id: open_project_site
   translation: Ir al enlace
+  
+# Default titles for archive pages
+  
 - id: posts
   translation: Blog
 - id: publications
