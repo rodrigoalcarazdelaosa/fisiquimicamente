@@ -3133,39 +3133,39 @@ La siguiente gráfica muestra la dependencia del calor específico del hierro (F
 	  data: {
 	    datasets: [
 			{
-	      data: cHierro.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-	      label: 'Hierro',
-	      backgroundColor: '#2a54a9',
-	      borderColor: '#2a54a9',
-	      fill: false,
-		  pointRadius: 0,
-	      //              pointHoverRadius: 15,
-//	      showLine: false // no line shown
-	    },
-			{
-	      data: cCarbono.map(datum => ({	  
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-  	      label: 'Carbono',
-	      backgroundColor: '#2a54a9',
-	      borderColor: '#2a54a9',
-	      fill: false,
-		  pointRadius: 0,
-	      //              pointHoverRadius: 15,
-//	      showLine: false // no line shown
-	    },
-			{
 	      data: cOro.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
 	      label: 'Oro',
-	      backgroundColor: '#2a54a9',
-	      borderColor: '#2a54a9',
+	      backgroundColor: '#4477AA',
+	      borderColor: '#4477AA',
+	      fill: false,
+		  pointRadius: 0,
+	      //              pointHoverRadius: 15,
+//	      showLine: false // no line shown
+	    },
+			{
+	      data: cHierro.map(datum => ({	  
+	        x: datum[0],
+	        y: datum[1]
+	      })),
+  	      label: 'Hierro',
+	      backgroundColor: '#EE6677',
+	      borderColor: '#EE6677',
+	      fill: false,
+		  pointRadius: 0,
+	      //              pointHoverRadius: 15,
+//	      showLine: false // no line shown
+	    },
+			{
+	      data: cCarbono.map(datum => ({
+	        x: datum[0],
+	        y: datum[1]
+	      })),
+	      label: 'Carbono',
+	      backgroundColor: '#228833',
+	      borderColor: '#228833',
 	      fill: false,
 		  pointRadius: 0,
 	      //              pointHoverRadius: 15,
