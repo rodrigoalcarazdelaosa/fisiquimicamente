@@ -67,7 +67,7 @@ Puedes aprender más sobre la **conservación** de la **energía** con la siguie
 La energía se puede intercambiar/transferir mediante **trabajo** o **calor**.
 
 ### Trabajo $W$
-El \textbf{trabajo} se transfiere cuando entre dos cuerpos se realizan \textbf{fuerzas} que provocan desplazamientos o cambios en sus dimensiones.
+El **trabajo** se transfiere cuando entre dos cuerpos se realizan **fuerzas** que provocan desplazamientos o cambios en sus dimensiones.
 
 El trabajo realizado por una fuerza $\vec F$ constante viene dado por:
 \[
