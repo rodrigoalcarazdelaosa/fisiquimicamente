@@ -1144,9 +1144,9 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 	          drawOnChartArea: false,
 	          color: "#111111"
 	        },
-	        afterFit: function(scale) {
-	          scale.height = 80 //<-- set value as you wish 
-	        },
+	        // afterFit: function(scale) {
+// 	          scale.height = 80 //<-- set value as you wish
+// 	        },
 	        scaleLabel: {
 	          display: true,
 	          labelString: 'Tiempo (min)',
