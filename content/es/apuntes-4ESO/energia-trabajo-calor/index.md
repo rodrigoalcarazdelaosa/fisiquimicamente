@@ -3228,8 +3228,7 @@ La siguiente gráfica muestra la dependencia del calor específico del oro (Au),
 	    },
         legend: {
   		  labels: {
-  			  boxWidth: 10,
-			  usePointStyle: true,			  
+  			  boxWidth: 10,	  
   			  fontSize: 18,
   			  fontFamily: 'Cabin Sketch',
   			  fontColor: '#111111'
