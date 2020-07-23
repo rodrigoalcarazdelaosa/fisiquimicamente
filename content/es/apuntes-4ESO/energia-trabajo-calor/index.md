@@ -109,9 +109,7 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 [^2]: En [esta tabla](https://es.wikipedia.org/wiki/Calor_espec%C3%ADfico#Tabla_de_calores_espec%C3%ADficos_y_sustancias) puedes ver los **valores** del **calor específico** de diversas sustancias, medido a 25$\thinspace$&deg;C a menos que se indique lo contrario.
 
 {{< spoiler text="¿Sabes que el calor específico depende de la temperatura?" >}}
-La siguiente gráfica muestra la dependencia del calor específico del oro (Au), hierro (Fe) y carbono (C) con la temperatura, según el [modelo de Debye](https://es.wikipedia.org/wiki/Modelo_de_Debye)[^3]:
-
-[^3]: hola
+La siguiente gráfica muestra la dependencia del calor específico del oro (Au), hierro (Fe) y carbono (C) con la temperatura, según el [modelo de Debye](https://es.wikipedia.org/wiki/Modelo_de_Debye):
  
 <canvas id="c-t"></canvas>
 
@@ -3270,9 +3268,9 @@ La cantidad de calor $Q$ que es necesario comunicar a una sustancia para que cam
 $$
 Q = m\cdot L,
 $$
-donde $L$ es el **calor latente**[^4], que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el **SI** se mide en $\mathrm{J/kg}$.
+donde $L$ es el **calor latente**[^3], que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el **SI** se mide en $\mathrm{J/kg}$.
 
-[^4]: En [esta tabla tomada de la entrada sobre calor latente en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Latent_heat#Table_of_specific_latent_heats) puedes ver los **valores** del **calor latente** de diversas sustancias.
+[^3]: En [esta tabla tomada de la entrada sobre calor latente en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Latent_heat#Table_of_specific_latent_heats) puedes ver los **valores** del **calor latente** de diversas sustancias.
 
 ## Máquinas térmicas
 Consideramos una **máquina térmica** a un sistema que funciona **periódicamente** entre dos focos a distinta temperatura, y transforma parte del calor absorbido del foco caliente en trabajo, cediendo otra parte al foco frío:
