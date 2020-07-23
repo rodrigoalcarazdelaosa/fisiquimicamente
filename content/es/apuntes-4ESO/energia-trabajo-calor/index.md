@@ -1133,7 +1133,7 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 	      fill: false,
 	      //              pointRadius: 10,
 	      //              pointHoverRadius: 15,
-	      showLine: false // no line shown
+//	      showLine: false // no line shown
 	    }]
 	  },
 	  options: {
@@ -1171,7 +1171,7 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: '𝑐 [J/(mol·K)]',
+	          labelString: '𝑐 [	J/(mol·K)]',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
