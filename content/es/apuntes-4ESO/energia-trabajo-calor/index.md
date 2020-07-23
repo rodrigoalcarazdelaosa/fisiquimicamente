@@ -76,6 +76,9 @@ $$
 donde $F$ es el módulo de la fuerza aplicada, $d$ el espacio recorrido y $\cos\alpha$ es el coseno del ángulo formado por la fuerza y el desplazamiento.
 
 ### Calor $Q$
+El **calor** se transfiere entre dos cuerpos que tienen **diferente temperatura**.
+
+Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
 
 ## Trabajo y potencia
 
