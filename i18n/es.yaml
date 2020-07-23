@@ -1,3 +1,5 @@
+# Navigation
+
 - id: toggle_navigation
   translation: Barra de navegación
 - id: table_of_contents
@@ -6,6 +8,9 @@
   translation: En esta página
 - id: back_to_top
   translation: Regreso al inicio
+  
+# General
+  
 - id: related
   translation: Relacionado
 - id: minute_read
