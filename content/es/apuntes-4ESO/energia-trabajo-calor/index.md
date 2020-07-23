@@ -59,6 +59,10 @@ La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disi
 ### Principio de conservación de la energía
 > En cualquier proceso de la naturaleza, la energía \textbf{total} permanece constante.
 
+Puedes aprender más sobre la conservación de la energía con la siguiente simulación:
+
+<iframe src="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Intercambio de energía
 ### Trabajo
 ### Calor
