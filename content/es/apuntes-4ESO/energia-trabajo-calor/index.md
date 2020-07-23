@@ -1149,7 +1149,7 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 // 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'T/K',
+	          labelString: '*T*/K',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
