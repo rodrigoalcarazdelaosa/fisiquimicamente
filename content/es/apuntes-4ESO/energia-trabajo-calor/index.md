@@ -3157,7 +3157,20 @@ La siguiente gráfica muestra la dependencia del calor específico del hierro (F
 		  pointRadius: 0,
 	      //              pointHoverRadius: 15,
 //	      showLine: false // no line shown
-	    },		
+	    },
+			{
+	      data: cOro.map(datum => ({
+	        x: datum[0],
+	        y: datum[1]
+	      })),
+	      label: 'Oro',
+	      backgroundColor: '#2a54a9',
+	      borderColor: '#2a54a9',
+	      fill: false,
+		  pointRadius: 0,
+	      //              pointHoverRadius: 15,
+//	      showLine: false // no line shown
+	    },				
 	]
 	  },
 	  options: {
