@@ -123,7 +123,7 @@ $$
 ### Cambios de estado
 Al transferir calor a un cuerpo, su temperatura aumenta. Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-2eso-3eso/materia/index.md#cambios-de-estado" >}}).
 
-\textbf{Durante} un \textbf{cambio} de estado, la \textbf{temperatura} del cuerpo permanece \textbf{constante}, ya que durante el cambio la energía transferida al cuerpo se emplea en reorganizar las partículas (romper enlaces).
+**Durante** un **cambio** de estado, la **temperatura** del cuerpo permanece **constante**, ya que durante el cambio la energía transferida al cuerpo se emplea en reorganizar las partículas (romper enlaces).
 
 La cantidad de calor $Q$ que es necesario comunicar a una sustancia para que cambie de estado depende de la propia sustancia y de su masa $m$, a través de la expresión:
 \[
