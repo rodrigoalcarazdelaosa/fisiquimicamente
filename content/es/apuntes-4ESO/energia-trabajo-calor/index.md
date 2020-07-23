@@ -36,3 +36,15 @@ slides: energia-trabajo-calor-4ESO
 ### Principio de conservación de la energía
 
 ## Intercambio de energía
+### Trabajo
+### Calor
+
+## Trabajo y potencia
+
+## Efectos del calor sobre los cuerpos
+### Variación de temperatura
+### Dilatación
+### Cambios de estado
+
+## Máquinas térmicas
+### Rendimiento energético
