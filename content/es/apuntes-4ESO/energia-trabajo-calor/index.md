@@ -64,8 +64,18 @@ Puedes aprender más sobre la **conservación** de la **energía** con la siguie
 <iframe src="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Intercambio de energía
-### Trabajo
-### Calor
+La energía se puede intercambiar/transferir mediante **trabajo** o **calor**.
+
+### Trabajo $W$
+El \textbf{trabajo} se transfiere cuando entre dos cuerpos se realizan \textbf{fuerzas} que provocan desplazamientos o cambios en sus dimensiones.
+
+El trabajo realizado por una fuerza $\vec F$ constante viene dado por:
+\[
+W = \vec F\cdot \vec d = F\cdot d \cdot \cos\alpha,
+\]
+donde $F$ es el módulo de la fuerza aplicada, $d$ el espacio recorrido y $\cos\alpha$ es el coseno del ángulo formado por la fuerza y el desplazamiento.
+
+### Calor $Q$
 
 ## Trabajo y potencia
 
