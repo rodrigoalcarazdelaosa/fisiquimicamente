@@ -2131,10 +2131,10 @@ La siguiente gráfica muestra la dependencia del calor específico del hierro (F
 	    datasets: [
 			{
 	      data: cHierro.map(datum => ({
-  	        label: '"Hierro"',
 	        x: datum[0],
 	        y: datum[1]
 	      })),
+	      label: '"Hierro"',		  
 	      backgroundColor: '#2a54a9',
 	      borderColor: '#2a54a9',
 	      fill: false,
@@ -2143,11 +2143,11 @@ La siguiente gráfica muestra la dependencia del calor específico del hierro (F
 //	      showLine: false // no line shown
 	    },
 			{
-	      data: cCarbono.map(datum => ({
-  	        label: '"Carbono"',			  
+	      data: cCarbono.map(datum => ({	  
 	        x: datum[0],
 	        y: datum[1]
 	      })),
+  	      label: '"Carbono"',				  
 	      backgroundColor: '#2a54a9',
 	      borderColor: '#2a54a9',
 	      fill: false,
