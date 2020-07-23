@@ -3254,7 +3254,7 @@ El aumento de longitud experimentado, $\Delta l = l-l_0$, es proporcional a la l
 $$
 \Delta l = \alpha\cdot l_0\cdot \Delta T,
 $$
-donde $\alpha$ es el llamado **coeficiente de dilatación lineal**[^3]. Se puede demostrar que los coeficientes de dilatación superficial y cúbica son el doble y el triple, respectivamente, del lineal:
+donde $\alpha$ es el llamado **coeficiente de dilatación lineal**[^3], cuyas unidades en el **SI** son $\mathrm{K^{-1}}$. Se puede demostrar que los coeficientes de dilatación superficial y cúbica son el doble y el triple, respectivamente, del lineal:
 
 [^3]: En [esta tabla](https://es.wikipedia.org/wiki/Coeficiente_de_dilataci%C3%B3n#Valores_del_coeficiente_de_dilataci%C3%B3n_lineal) puedes ver los **valores** del **coeficiente de dilatación lineal** de diversos materiales.
 
