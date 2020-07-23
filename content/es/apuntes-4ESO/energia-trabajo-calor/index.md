@@ -3296,7 +3296,7 @@ $$
 	\eta = \frac{W}{Q_1} = \frac{Q_1-|Q_2|}{Q_1} = 1-\frac{|Q_2|}{Q_1}<1
 $$
 
-Se puede demostrar que el rendimiento de una máquina térmica **ideal** (llamada **máquina de Carnot**) solo depende de las temperaturas de ambos focos:
+Se puede demostrar que el rendimiento de una **máquina térmica ideal** (llamada **máquina de Carnot**) solo depende de las temperaturas de ambos focos:
 $$
 \eta_\text{ideal} = 1-\frac{T_2}{T_1},
 $$
