@@ -3283,7 +3283,7 @@ $$
 	\eta = \frac{\text{trabajo que obtengo}}{\text{calor que consumo}}
 $$
 Para un **motor**[^4]:
-[^4]: Si la máquina invierte el ciclo, hablaríamos de una **máquina frigorífica**, cuyo rendimiento viene dado por la relación:
+[^4]: Si la máquina **invierte el ciclo**, hablaríamos de una **máquina frigorífica**, cuyo rendimiento viene dado por la relación:
 	$$
 	\eta = \frac{|Q_2|}{W} = \frac{|Q_2|}{Q_1-|Q_2|} > 1
 	$$
