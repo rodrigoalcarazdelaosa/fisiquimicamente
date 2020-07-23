@@ -3229,6 +3229,7 @@ La siguiente gráfica muestra la dependencia del calor específico del hierro (F
         legend: {
   		  labels: {
   			  boxWidth: 10,
+			  usePointStyle: true,			  
   			  fontSize: 18,
   			  fontFamily: 'Cabin Sketch',
   			  fontColor: '#111111'
