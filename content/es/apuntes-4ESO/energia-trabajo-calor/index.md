@@ -1131,7 +1131,7 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 	      backgroundColor: '#2a54a9',
 	      borderColor: '#2a54a9',
 	      fill: false,
-	      //              pointRadius: 10,
+		  pointRadius: 0,
 	      //              pointHoverRadius: 15,
 //	      showLine: false // no line shown
 	    }]
