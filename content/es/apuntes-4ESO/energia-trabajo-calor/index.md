@@ -28,7 +28,7 @@ slides: energia-trabajo-calor-4ESO
 
 La **energía** es la capacidad para realizar un trabajo, y se mide en **julios** ($1\thinspace \mathrm{J} = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}$).
 
-{{< spoiler text="Aprende más sobre las <strong>formas</strong> y <strong>cambios</strong> de <strong>energía</strong> con esta <strong>simulación</strong>" >}}
+{{< spoiler text="Aprende más sobre las <strong>formas</strong> y <strong>cambios</strong> de <strong>energía</strong> con esta <strong>simulación</strong>:" >}}
 Hablar sobre la ley de Dulong y Petit...
 {{< /spoiler >}}
 
