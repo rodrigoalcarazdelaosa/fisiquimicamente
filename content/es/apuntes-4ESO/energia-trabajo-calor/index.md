@@ -109,15 +109,15 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 [^2]: En [esta tabla](https://es.wikipedia.org/wiki/Calor_espec%C3%ADfico#Tabla_de_calores_espec%C3%ADficos_y_sustancias) puedes ver los **valores** del **calor específico** de diversas sustancias, medido a 25$\thinspace$&deg;C a menos que se indique lo contrario.
 
 {{< spoiler text="¿Sabes que el calor específico depende de la temperatura?" >}}
-<canvas id="h-t"></canvas>
+<canvas id="c-t"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
 
 <script>
-	const h = document.getElementById('h-t').getContext('2d');
+	const c = document.getElementById('c-t').getContext('2d');
 
-	const hSeries = [
+	const cSeries = [
 [  0.00000000,   0.00000000],
 [  1.00000000,   0.00001872],
 [  2.00000000,   0.00014977],
@@ -1120,11 +1120,11 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 [999.00000000,  24.66813109],
 [1000.00000000,  24.66867426],
 	];
-	new Chart(h, {
+	new Chart(c, {
 	  type: 'line',
 	  data: {
 	    datasets: [{
-	      data: hSeries.map(datum => ({
+	      data: cSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
