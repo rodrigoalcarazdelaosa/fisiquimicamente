@@ -3282,7 +3282,8 @@ Llamamos **rendimiento energético**, $\eta$, al cociente entre el *beneficio* y
 $$
 	\eta = \frac{\text{trabajo que obtengo}}{\text{calor que consumo}}
 $$
-Para un **motor**:
+Para un **motor**[^4]:
+[^4]: Hola
 $$
 	\eta = \frac{W}{Q_1} = \frac{Q_1-|Q_2|}{Q_1} = 1-\frac{|Q_2|}{Q_1}<1
 $$
