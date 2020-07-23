@@ -3256,7 +3256,7 @@ $$
 $$
 donde $\alpha$ es el llamado **coeficiente de dilatación lineal**[^3]. Se puede demostrar que los coeficientes de dilatación superficial y cúbica son el doble y el triple, respectivamente, del lineal:
 
-[^3]: Hola.
+[^3]: En [esta tabla](https://es.wikipedia.org/wiki/Coeficiente_de_dilataci%C3%B3n#Valores_del_coeficiente_de_dilataci%C3%B3n_lineal) puedes ver los **valores** del **coeficiente de dilatación lineal** de diversos materiales.
 
 $$
 \Delta S = 2\alpha \cdot S_0\cdot \Delta T;\quad \Delta V = 3\alpha \cdot V_0\cdot \Delta T
