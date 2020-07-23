@@ -57,6 +57,7 @@ Ejemplos de **fuerzas conservativas**: fuerzas gravitatorias, elásticas o elect
 La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disipativa**.
 
 ### Principio de conservación de la energía
+> En cualquier proceso de la naturaleza, la energía \textbf{total} permanece constante.
 
 ## Intercambio de energía
 ### Trabajo
