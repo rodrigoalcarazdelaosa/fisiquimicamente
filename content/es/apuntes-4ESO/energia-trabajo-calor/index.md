@@ -2134,7 +2134,7 @@ La siguiente gráfica muestra la dependencia del calor específico del hierro (F
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-	      label: '"Hierro"',		  
+	      label: 'Hierro',
 	      backgroundColor: '#2a54a9',
 	      borderColor: '#2a54a9',
 	      fill: false,
@@ -2147,7 +2147,7 @@ La siguiente gráfica muestra la dependencia del calor específico del hierro (F
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-  	      label: '"Carbono"',				  
+  	      label: 'Carbono',
 	      backgroundColor: '#2a54a9',
 	      borderColor: '#2a54a9',
 	      fill: false,
