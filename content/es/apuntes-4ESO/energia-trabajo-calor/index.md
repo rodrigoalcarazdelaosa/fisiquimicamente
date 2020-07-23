@@ -126,9 +126,9 @@ Al transferir calor a un cuerpo, su temperatura aumenta. Al variar la temperatur
 **Durante** un **cambio** de estado, la **temperatura** del cuerpo permanece **constante**, ya que durante el cambio la energía transferida al cuerpo se emplea en reorganizar las partículas (romper enlaces).
 
 La cantidad de calor $Q$ que es necesario comunicar a una sustancia para que cambie de estado depende de la propia sustancia y de su masa $m$, a través de la expresión:
-\[
+$$
 Q = m\cdot L,
-\]
+$$
 donde $L$ es el \textbf{calor latente}, que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el SI se mide en \si[per-mode=symbol]{\J\per\kilo\gram}.
 
 ## Máquinas térmicas
