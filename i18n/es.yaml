@@ -154,7 +154,10 @@
 - id: projects
   translation: Proyectos
 - id: slides
-  translation: Diapositivas  
+  translation: Diapositivas
+
+# Search
+  
 - id: search
   translation: Buscar
 - id: search_placeholder
