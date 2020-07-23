@@ -28,7 +28,9 @@ slides: energia-trabajo-calor-4ESO
 
 La **energía** es la capacidad para realizar un trabajo[^1], y se mide en **julios** ($1\thinspace \mathrm{J} = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}$).
 
-[^1]: Aprende más sobre las **formas** y **cambios** de **energía** con esta **simulación**:
+{{< spoiler text="Aprende más sobre las **formas** y **cambios** de **energía** con esta **simulación**" >}}
+Hablar sobre la ley de Dulong y Petit...
+{{< /spoiler >}}
 
 	<iframe src="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
 
