@@ -61,9 +61,9 @@ d = \frac{m}{V}
 $$
 En el SI se mide en $\mathrm{kg/m^3}$.
 
-La tabla[^1], tomada de la [entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials), muestra la densidad de diversos materiales (ordenados de menor a mayor densidad).
+En [esta tabla tomada de la entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials) puedes ver la densidad de diversos materiales (ordenados de menor a mayor densidad).
 
-[^1]: Densidades de diversos materiales, tomadas de la [entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials).
+<!-- [^1]: Densidades de diversos materiales, tomadas de la [entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials).
 
 	| Material | Densidad (kg/m<sup>3</sup>) | Notas |
 	| --- | :---: | --- |
@@ -120,7 +120,7 @@ La tabla[^1], tomada de la [entrada sobre densidad en la versión inglesa de la 
 	| Renio (Re) | 21020 |  |
 	| Platino (Pt) | 21450 |  |
 	| Iridio (Ir) | 22420 |  |
-	| Osmio (Os) | 22570 |  |
+	| Osmio (Os) | 22570 |  | -->
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
