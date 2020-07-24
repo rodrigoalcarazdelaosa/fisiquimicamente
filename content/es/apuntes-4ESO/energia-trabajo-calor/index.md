@@ -3379,7 +3379,7 @@ donde $L$ es el **calor latente**[^5], que representa la cantidad de energía re
 {{% alert example %}}
 <br>
 
-> Calentamos una barra de hierro 
+> Para forjar acero es necesario calentarlo a temperaturas de entre 800$\thinspace$&deg;C y 1000$\thinspace$&deg;C. 
 
 ---
 
