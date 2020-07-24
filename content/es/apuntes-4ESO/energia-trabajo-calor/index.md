@@ -94,9 +94,10 @@ Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta ve
 \end{cases}
 \end{align*}
 
-$$
-E_{\mathrm{m}_\mathrm A} = E_{\mathrm{c}_\mathrm A} + E_{\mathrm{p}_\mathrm A} = \frac{1}{2}mv_\mathrm A^2 + mgh_\mathrm A
-$$
+\begin{align*}
+E_{\mathrm{m}_\mathrm A} & = \frac{1}{2}mv_\mathrm A^2 + mgh_\mathrm A \\\\
+& = hola
+\end{align*}
 
 {{% /alert %}}
 
