@@ -68,7 +68,7 @@ La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disi
 {{% alert example %}}
 <br>
 
-> Un carro de 50$\thinspace$kg desliza por una montaña rusa como la de la figura. Si en el punto A su velocidad es de 5$\thinspace$m/s y en el punto B es de 3.2$\thinspace$m/s, calcula:
+> Un carro de 50$\thinspace$kg desliza por una montaña rusa como la de la figura. Si en el punto A su velocidad es de 5$\thinspace$m/s y en el punto B es de 3.2$\thinspace$m/s, calcula: <br>
 a) La energía mecánica en A y en B.
 b) 
 {{< figure library="true" src="energia-trabajo-calor-4ESO/montana-rusa.png" lightbox="true" >}}
