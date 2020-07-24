@@ -3295,7 +3295,7 @@ Se observa que, a altas temperaturas, el calor específico se acerca al valor $c
 ### Dilatación
 Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^3].
 
-[^3]: Una excepción notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae (debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella). 
+[^3]: Una excepción notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella. 
 
 {{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" title="**Junta de dilatación** de un puente. Si estas juntas no se construyesen, la dilatación térmica de los materiales cuando aumentase la temperatura generaría unos esfuerzos tan grandes que fracturarían el puente. Para calcular estas juntas se necesita conocer el **coeficiente de dilatación térmica**. Imagen de [**Kranich17**](https://pixabay.com/es/users/kranich17-11197573/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
