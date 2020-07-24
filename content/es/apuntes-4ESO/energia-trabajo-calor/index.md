@@ -164,9 +164,11 @@ $$
 donde $W$ es el trabajo que ha de realizar el motor y $t$ es el tiempo.
 
 La fuerza que debe vencer el ascensor es el peso del propio ascensor (supondremos unos 300$\thinspace$kg) más el peso de las personas que vayan dentro, suponiendo que sube lleno.
-$$
-F = P_\text{ascensor} + P_\text{personas}
-$$
+\begin{align*}
+F &= P_\text{ascensor} + P_\text{personas} \\\\
+&= m_\text{ascensor}\cdot g + m_\text{personas}\cdot g \\\\
+&= 300\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg}
+\end{align*}
 
 $$
 W = 
