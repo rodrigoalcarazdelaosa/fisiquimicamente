@@ -106,6 +106,11 @@ E_{\mathrm{m}_\mathrm B} & = \frac{1}{2}mv_\mathrm B^2 + mgh_\mathrm B \\\\
 & = 256 + 9800 = 10056\thinspace\mathrm J
 \end{align*}
 
+b) La energía perdida por rozamiento es igual a la diferencia entre la enegía inicial (A) y la final (B):
+$$
+E_\text{disipada} = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B}
+$$
+
 {{% /alert %}}
 
 Puedes aprender más sobre la **conservación** de la **energía** con la siguiente **simulación**:
