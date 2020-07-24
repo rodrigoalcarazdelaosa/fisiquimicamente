@@ -3397,8 +3397,8 @@ l &= l_0\cdot(1+\alpha\cdot \Delta T)
 
 Sustituyendo valores tenemos:
 \begin{align}
-l &= 1\cdot[1+1.2\times 10^{-5}(900-20)] \\\\
-&= h
+l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\\\
+&= 1.01\thinspace\mathm m
 \end{align}
 
 {{% /alert %}}
