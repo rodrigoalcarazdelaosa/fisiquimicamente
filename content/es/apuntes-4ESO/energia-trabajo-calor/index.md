@@ -174,7 +174,7 @@ F &= P_\text{ascensor} + P_\text{personas} \\\\
 
 El trabajo que deberá realizar el motor será:
 $$
-W = F\cdot h = 6860\thinspace\mathrm N \cdot 30\thinspace\mathrm m
+W = F\cdot h = 6860\thinspace\mathrm N \cdot 30\thinspace\mathrm m = 205800\thinspace\mathrm J
 $$
 
 {{% /alert %}}
