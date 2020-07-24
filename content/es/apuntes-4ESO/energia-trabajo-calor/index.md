@@ -85,7 +85,7 @@ Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta ve
 
 $$
 \text{Punto A} = \begin{cases}
-	3.5\thinspace\mathrm s \\\\
+	v_\mathrm A = 5\thinspace\mathrm{m/s} \\\\
 	\xcancel{-0.9\thinspace\mathrm s}
 \end{cases}
 $$
