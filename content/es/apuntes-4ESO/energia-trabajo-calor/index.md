@@ -3376,49 +3376,14 @@ donde $L$ es el **calor latente**[^5], que representa la cantidad de energía re
 [^5]: En [esta tabla, tomada de la entrada sobre calor latente en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Latent_heat#Table_of_specific_latent_heats), puedes ver los **valores** del **calor latente** de **fusión** y de **vaporización** de diversas sustancias.
 
 ### Ejemplo resuelto
-### Ejemplo resuelto
 {{% alert example %}}
 <br>
 
-> Los vecinos de un bloque de pisos se han quejado de que su ascensor, con capacidad para 400$\thinspace$kg, es demasiado lento. <br>
-a) ¿Qué potencia deberá tener el nuevo motor que se instale para que pueda subir hasta arriba (supongamos 30$\thinspace$m) en 10 segundos?<br>
-b) ¿Cuál es la velocidad media del ascensor?
+> Calentamos una barra de hierro 
 
 ---
 
-a) Para calcular la potencia $P$ utilizamos la expresión:
-$$
-P = \frac{W}{t},
-$$
-donde $W$ es el trabajo que ha de realizar el motor y $t$ es el tiempo.
 
-La fuerza que debe vencer el ascensor es el peso del propio ascensor (supondremos unos 300$\thinspace$kg) más el peso de las personas que vayan dentro, suponiendo que sube lleno.
-\begin{align*}
-F &= P_\text{ascensor} + P_\text{personas} \\\\
-&= m_\text{ascensor}\cdot g + m_\text{personas}\cdot g \\\\
-&= (m_\text{ascensor} + m_\text{personas})\cdot g \\\\
-&= (300\thinspace\mathrm{kg} + 400\thinspace\mathrm{kg})\cdot 9.8\thinspace\mathrm{N/kg} \\\\
-&= 6860\thinspace\mathrm N
-\end{align*}
-
-El trabajo $W$ que deberá realizar el motor será:
-$$
-W = F\cdot h = 6860\thinspace\mathrm N \cdot 30\thinspace\mathrm m = 205800\thinspace\mathrm J
-$$
-
-La potencia $P$ será por tanto:
-$$
-P = \frac{W}{t} = \frac{205800\thinspace\mathrm J}{10\thinspace\mathrm s} = 20580\thinspace\mathrm W
-$$
-
----
-
-b) Podemos calcular la velocidad media del ascensor utilizando la expresión:
-$$
-v_\mathrm m = \frac{h}{t} = \frac{30\thinspace\mathrm m}{10\thinspace\mathrm s} = 3\thinspace\mathrm{m/s}
-$$
-
-Como curiosidad, [el ascensor más rápido del mundo es capaz de viajar a 21$\thinspace$m/s](https://www.bbc.com/mundo/noticias-40219932).
 
 {{% /alert %}}
 
