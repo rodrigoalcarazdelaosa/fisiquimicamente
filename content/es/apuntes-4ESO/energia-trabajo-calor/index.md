@@ -163,6 +163,15 @@ P = \frac{W}{t},
 $$
 donde $W$ es el trabajo que ha de realizar el motor y $t$ es el tiempo.
 
+La fuerza que debe vencer el ascensor es el peso del propio ascensor (supondremos unos 300$\thinspace$kg) más el peso de las personas que vayan dentro, suponiendo que sube lleno.
+$$
+F = P_\text{ascensor} + P_\text{personas}
+$$
+
+$$
+W = 
+$$
+
 {{% /alert %}}
 
 ## Efectos del calor sobre los cuerpos
