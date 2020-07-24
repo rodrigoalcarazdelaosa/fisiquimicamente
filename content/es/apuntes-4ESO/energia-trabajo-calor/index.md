@@ -193,6 +193,8 @@ $$
 v_\mathrm m = \frac{h}{t} = \frac{30\thinspace\mathrm m}{10\thinspace\mathrm s} = 3\thinspace\mathrm{m/s}
 $$
 
+Como curiosidad, [el ascensor más rápido del mundo es capaz de viajar a 21$\thinspace$m/s](https://www.bbc.com/mundo/noticias-40219932).
+
 {{% /alert %}}
 
 ## Efectos del calor sobre los cuerpos
