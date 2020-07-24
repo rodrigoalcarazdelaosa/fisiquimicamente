@@ -190,7 +190,7 @@ $$
 
 b) Podemos calcular la velocidad media del ascensor utilizando la expresión:
 $$
-v_\mathrm m = \frac{h}{t} = 
+v_\mathrm m = \frac{h}{t} = \frac{30\thinspace\mathrm m}{10\thinspace\mathrm s} = 3\thinspace\mathrm{m/s}
 $$
 
 {{% /alert %}}
