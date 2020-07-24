@@ -3381,6 +3381,8 @@ donde $L$ es el **calor latente**[^5], que representa la cantidad de energía re
 
 > Para forjar acero es necesario calentarlo a temperaturas de entre 800$\thinspace$&deg;C y 1000$\thinspace$&deg;C. Si tenemos una barra de acero de 1$\thinspace$m de longitud a temperatura ambiente (20$\thinspace$&deg;C) y la calentamos hasta los 900$\thinspace$&deg;C, ¿cuál será su nueva temperatura?
 
+Dato: 
+
 ---
 
 
