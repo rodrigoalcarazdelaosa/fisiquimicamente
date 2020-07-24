@@ -78,7 +78,7 @@ b) La energía disipada en forma de calor debido a las fuerzas de rozamiento ent
 
 a) Para calcular la energía mecánica en los puntos A y B utilizamos la expresión:
 $$
-E_\mathrm m = E_\mathrm c + E_\mathrm p,
+E_\mathrm m = E_\mathrm c + E_\mathrm p = 
 $$
 
 {{% /alert %}}
