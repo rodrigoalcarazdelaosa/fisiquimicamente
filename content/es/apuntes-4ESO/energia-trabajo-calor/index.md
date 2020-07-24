@@ -68,9 +68,9 @@ La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disi
 {{% alert example %}}
 <br>
 
-> El Pont Aven es el ferry que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar ([https://es.wikipedia.org/wiki/Agua_de_mar](https://es.wikipedia.org/wiki/Agua_de_mar)), ¿qué volumen del barco se encuentra sumergido?
-
-{{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" title="[https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven](https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven)" lightbox="true" >}}
+> Un carro de 50$\thinspace$kg desliza por una montaña rusa como la de la figura.
+{{< figure library="true" src="energia-trabajo-calor-4ESO/montaña-rusa.png" lightbox="true" >}}
+Si en el punto A su velocidad es de 5$\thinspcae$m/s y en el punto B es de 3.2$\thinspace$m/s, calcula:
 
 ---
 
