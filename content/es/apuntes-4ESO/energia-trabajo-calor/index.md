@@ -3379,7 +3379,7 @@ donde $L$ es el **calor latente**[^5], que representa la cantidad de energía re
 {{% alert example %}}
 <br>
 
-> Para forjar acero es necesario calentarlo a temperaturas de entre 800$\thinspace$&deg;C y 1000$\thinspace$&deg;C. Si tenemos una barra de acero de 1.2\thinspace$kg de masa y 1$\thinspace$m de longitud a temperatura ambiente (20$\thinspace$&deg;C) y la calentamos hasta los 900$\thinspace$&deg;C, ¿cuál será su nueva longitud?<br>
+> Para forjar acero es necesario calentarlo a temperaturas de entre 800$\thinspace$&deg;C y 1000$\thinspace$&deg;C. Si tenemos una espada de acero de 1.2\thinspace$kg de masa y 1$\thinspace$m de longitud a temperatura ambiente (20$\thinspace$&deg;C) y la calentamos hasta los 900$\thinspace$&deg;C, ¿cuál será su nueva longitud?<br>
 Dato: $\alpha_\text{acero} = 1.2\times 10^{-5}\thinspace\mathrm{^\circ C^{-1}}$.
 
 ---
@@ -3403,7 +3403,7 @@ l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\\\
 
 ---
 
-> Si tras calentar la barra la sumergimos en un recipiente con 1$\thinspace$m$^3$ de agua aproximadamente, 
+> Si tras calentar la espada la sumergimos en un recipiente con 1$\thinspace$m$^3$ de agua a temperatura ambiente (20$\thinspace$&deg;C), ¿cuál será la temperatura final de la mezcla espada+agua?
 
 {{% /alert %}}
 
