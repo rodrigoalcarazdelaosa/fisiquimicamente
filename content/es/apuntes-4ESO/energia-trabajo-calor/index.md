@@ -74,24 +74,7 @@ Si en el punto A su velocidad es de 5$\thinspcae$m/s y en el punto B es de 3.2$\
 
 ---
 
-Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene que ser cero, o lo que es lo mismo, el empuje ha de igualar al peso. Aplicando el **principio de Arquímedes**:
 
-\begin{align*}
-E &= P_\text{barco} \\\\
-d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \cancel{g}
-\end{align*}
-
-Pasamos la masa del barco a kg:
-$$
-4803\thinspace\mathrm{\cancel{t}}\cdot \frac{10^3\thinspace\mathrm{kg}}{1\thinspace\mathrm{\cancel{t}}} = 4.803\times 10^6\thinspace\mathrm{kg}
-$$
-
-Despejamos el $V_\text{sumergido}$:
-
-\begin{align*}
-V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{\cancel{kg}}}{1025\thinspace\mathrm{\cancel{kg}/m^3}} \\\\
- &= 4685.85\thinspace\mathrm{m^3}
-\end{align*}
 
 {{% /alert %}}
 
