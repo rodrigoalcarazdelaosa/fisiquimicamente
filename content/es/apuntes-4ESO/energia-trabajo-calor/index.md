@@ -86,7 +86,7 @@ Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta ve
 $$
 \text{Punto A} = \begin{cases}
 	v_\mathrm A = 5\thinspace\mathrm{m/s} \\\\
-	\xcancel{-0.9\thinspace\mathrm s}
+	h_\mathrm A = 30\thinspace\mathrm{m}
 \end{cases}
 $$
 
