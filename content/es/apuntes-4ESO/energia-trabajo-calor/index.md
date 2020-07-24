@@ -172,9 +172,14 @@ F &= P_\text{ascensor} + P_\text{personas} \\\\
 &= 6860\thinspace\mathrm N
 \end{align*}
 
-El trabajo que deberá realizar el motor será:
+El trabajo $W$ que deberá realizar el motor será:
 $$
 W = F\cdot h = 6860\thinspace\mathrm N \cdot 30\thinspace\mathrm m = 205800\thinspace\mathrm J
+$$
+
+La potencia $P$ será por tanto:
+$$
+P = \frac{W}{t} = \frac{205800\thinspace\mathrm J}{10\thinspace\mathrm s} = 20580\thinspace\mathrm W
 $$
 
 {{% /alert %}}
