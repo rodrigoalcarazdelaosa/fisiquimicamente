@@ -87,7 +87,10 @@ $$
 \text{Punto A} \begin{cases}
 	v_\mathrm A = 5\thinspace\mathrm{m/s} \\\\
 	h_\mathrm A = 30\thinspace\mathrm{m}
-\end{cases}; \quad \text{Punto B} \begin{cases}
+\end{cases}
+$$
+$$
+\text{Punto B} \begin{cases}
 	v_\mathrm B = 3.2\thinspace\mathrm{m/s} \\\\
 	h_\mathrm B = 20\thinspace\mathrm{m}
 \end{cases}
