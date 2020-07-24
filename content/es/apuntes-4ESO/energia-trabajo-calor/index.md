@@ -84,7 +84,7 @@ $$
 Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta velocidad) y potencial gravitatoria (está a una cierta altura).
 
 $$
-\text{Punto A} = \begin{cases}
+\text{Punto A} \begin{cases}
 	v_\mathrm A = 5\thinspace\mathrm{m/s} \\\\
 	h_\mathrm A = 30\thinspace\mathrm{m}
 \end{cases}
