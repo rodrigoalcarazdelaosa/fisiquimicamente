@@ -76,7 +76,7 @@ b) La energía disipada en forma de calor debido a las fuerzas de rozamiento ent
 
 ---
 
-
+a) 
 
 {{% /alert %}}
 
