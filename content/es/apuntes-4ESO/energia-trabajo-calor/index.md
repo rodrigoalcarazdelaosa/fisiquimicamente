@@ -83,6 +83,13 @@ $$
 
 Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta velocidad) y potencial gravitatoria (está a una cierta altura).
 
+$$
+\begin{cases}
+	3.5\thinspace\mathrm s \\\\
+	\xcancel{-0.9\thinspace\mathrm s}
+\end{cases}
+$$
+
 {{% /alert %}}
 
 Puedes aprender más sobre la **conservación** de la **energía** con la siguiente **simulación**:
