@@ -167,6 +167,7 @@ La fuerza que debe vencer el ascensor es el peso del propio ascensor (supondremo
 \begin{align*}
 F &= P_\text{ascensor} + P_\text{personas} \\\\
 &= m_\text{ascensor}\cdot g + m_\text{personas}\cdot g \\\\
+&= (m_\text{ascensor} + m_\text{personas})\cdot g
 &= 300\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} + 400\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} \\\\
 &= 6860\thinspace\mathrm N
 \end{align*}
