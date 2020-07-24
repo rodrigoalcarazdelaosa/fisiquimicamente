@@ -155,11 +155,13 @@ $$
 {{% alert example %}}
 <br>
 
-> Los vecinos de un bloque de pisos se han quejado de que su ascensor, con capacidad para 400$\thinspace$kg, es demasiado lento. ¿Qué potencia deberá tener el nuevo motor que se instale para que pueda subir hasta arriba (supongamos 30$\thinspace$m) en 10 segundos?
+> Los vecinos de un bloque de pisos se han quejado de que su ascensor, con capacidad para 400$\thinspace$kg, es demasiado lento. <br>
+a) ¿Qué potencia deberá tener el nuevo motor que se instale para que pueda subir hasta arriba (supongamos 30$\thinspace$m) en 10 segundos?<br>
+b) ¿Cuál es la velocidad media del ascensor?
 
 ---
 
-Para calcular la potencia $P$ utilizamos la expresión:
+a) Para calcular la potencia $P$ utilizamos la expresión:
 $$
 P = \frac{W}{t},
 $$
@@ -182,6 +184,13 @@ $$
 La potencia $P$ será por tanto:
 $$
 P = \frac{W}{t} = \frac{205800\thinspace\mathrm J}{10\thinspace\mathrm s} = 20580\thinspace\mathrm W
+$$
+
+---
+
+b) Podemos calcular la velocidad media del ascensor utilizando la expresión:
+$$
+v_\mathrm m = \frac{h}{t} = 
 $$
 
 {{% /alert %}}
