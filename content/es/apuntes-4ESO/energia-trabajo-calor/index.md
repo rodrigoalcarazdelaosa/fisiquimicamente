@@ -94,6 +94,10 @@ Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta ve
 \end{cases}
 \end{align*}
 
+$$
+E_{\mathrm{m}_\mathrm A} = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 + mgh
+$$
+
 {{% /alert %}}
 
 Puedes aprender más sobre la **conservación** de la **energía** con la siguiente **simulación**:
