@@ -107,9 +107,10 @@ E_{\mathrm{m}_\mathrm B} & = \frac{1}{2}mv_\mathrm B^2 + mgh_\mathrm B \\\\
 \end{align*}
 
 b) La energía perdida por rozamiento es igual a la diferencia entre la enegía inicial (A) y la final (B):
-$$
-E_\text{disipada} = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B}
-$$
+\begin{align*}
+E_\text{disipada} & = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B} \\\\
+& = 15325 - 10056 = 5269\thinspace\mathrm J
+\end{align*}
 
 {{% /alert %}}
 
