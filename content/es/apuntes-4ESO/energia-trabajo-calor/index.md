@@ -101,9 +101,9 @@ E_{\mathrm{m}_\mathrm A} & = \frac{1}{2}mv_\mathrm A^2 + mgh_\mathrm A \\\\
 \end{align*}
 
 \begin{align*}
-E_{\mathrm{m}_\mathrm A} & = \frac{1}{2}mv_\mathrm A^2 + mgh_\mathrm A \\\\
-& = \frac{1}{2}\cdot 50\cdot 5^2 + 50\cdot 9.8\cdot 30 \\\\
-& = 625 + 14700 = 15325\thinspace\mathrm J
+E_{\mathrm{m}_\mathrm B} & = \frac{1}{2}mv_\mathrm B^2 + mgh_\mathrm B \\\\
+& = \frac{1}{2}\cdot 50\cdot 3.2^2 + 50\cdot 9.8\cdot 20 \\\\
+& = 256 + 9800 = 10056\thinspace\mathrm J
 \end{align*}
 
 {{% /alert %}}
