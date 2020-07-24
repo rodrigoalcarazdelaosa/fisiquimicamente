@@ -3389,11 +3389,11 @@ $$
 \Delta l = \alpha\cdot l_0\cdot \Delta T
 $$
 la podemos escribir como:
-\begin{gather}
-l-l_0 = \alpha\cdot l_0\cdot \Delta T \\\\
-l = l_0 + \alpha\cdot l_0\cdot \Delta T \\\\
-l = l_0(1+\alpha \Delta T)
-\end{gather}
+\begin{align}
+l-l_0 &= \alpha\cdot l_0\cdot \Delta T \\\\
+l &= l_0 + \alpha\cdot l_0\cdot \Delta T \\\\
+l &= l_0\cdot(1+\alpha\cdot \Delta T)
+\end{align}
 
 {{% /alert %}}
 
