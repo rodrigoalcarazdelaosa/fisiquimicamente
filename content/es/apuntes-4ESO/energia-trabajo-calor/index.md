@@ -3431,7 +3431,11 @@ con $c_\text{agua} = 1\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ 
 
 Para calcular la masa de agua necesitamos primero calcular su volumen, para después obtener la masa a partir de la densidad:
 $$
-V_\text{agua} = \pi r^2 h
+V_\text{agua} = \pi r^2 h,
+$$
+donde $r = 5\thinspace\mathrm{cm} = 0.05\thinspace\mathrm{m}$ y $h = 1\thinspace\mathrm m$:
+$$
+V_\text{agua} = \pi r^2 h = \pi\cdot 0.05^2\cdot 1 = 0.0079\thinspace\mathrm{m^3} \approx 8\thinspace\mathrm{L}
 $$
 
 {{% /alert %}}
