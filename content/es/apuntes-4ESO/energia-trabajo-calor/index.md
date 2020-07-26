@@ -3424,7 +3424,7 @@ $$
 con $m_\text{espada} = 1.2\thinspace\mathrm{kg}$, $c_\text{acero} = 0.12\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $T_\text{espada} = 900\thinspace^\circ\mathrm{C}$ y $T_\mathrm e$ la temperatura final de equilibrio de la mezcla:
 
 $$
-Q_\text{cedido} = 0.144T_\mathrm e - 129.6
+Q_\text{cedido} = 0.144T_\mathrm e - 129.6\thinspace[\mathrm{kcal}]
 $$
 
 El calor ganado por el agua es:
