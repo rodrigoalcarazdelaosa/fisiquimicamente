@@ -3403,7 +3403,7 @@ l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\\\
 
 ---
 
-> Si tras calentar la espada la sumergimos en un recipiente con 1$\thinspace$m$^3$ de agua a temperatura ambiente (20$\thinspace$&deg;C), ¿cuál será la temperatura final de la mezcla espada+agua?<br>
+> Si tras calentar la espada la sumergimos en un tanque cilíndrico de 5$\thinspace$cm de radio y 1$\thinspace$m de altura, lleno de agua a temperatura ambiente (20$\thinspace$&deg;C), ¿a qué temperatura se calentará el agua?<br>
 Datos: $c_\text{acero} = 0.12\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $c_\text{agua} = 1\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$.
 
 ---
