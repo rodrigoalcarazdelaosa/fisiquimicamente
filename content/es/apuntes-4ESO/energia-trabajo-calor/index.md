@@ -3412,7 +3412,10 @@ Datos: $d_\text{agua} = 1\thinspace\mathrm{kg/L}; c_\text{acero} = 0.12\thinspac
 
 ---
 
-Como la espada está más caliente que el agua
+La espada cederá calor al agua por estar a mayor temperatura, de tal forma que:
+$$
+Q_\text{cedido} + Q_\text{ganado} = 0
+$$
 
 {{% /alert %}}
 
