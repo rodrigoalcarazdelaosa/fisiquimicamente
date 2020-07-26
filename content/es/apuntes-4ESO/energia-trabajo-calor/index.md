@@ -3444,6 +3444,12 @@ $$
 d = \frac{m}{V}\rightarrow m = V\cdot d = 8\thinspace\mathrm{kg}
 $$
 
+Así que podemos escribir:
+\begin{align*}
+Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
+m_\text{espada}\cdot c_\text{acero}\cdot (T_\mathrm e - T_\text{espada}) + m_\text{agua}\cdot c_\text{agua}\cdot (T_\mathrm e - T_\text{agua}) & = 0
+\end{align*}
+
 {{% /alert %}}
 
 ## Máquinas térmicas
