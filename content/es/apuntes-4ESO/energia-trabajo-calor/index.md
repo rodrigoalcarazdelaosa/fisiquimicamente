@@ -3461,7 +3461,7 @@ Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
 0.144T_\mathrm e - 129.6 + 7.9T_\mathrm e - 157.1 &= 0
 \end{align*}
 
-de donde despejamos $T_\mathrm e = 35.6\thinspace ^\circ\mathrm C$.
+de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
 
 {{% /alert %}}
 
