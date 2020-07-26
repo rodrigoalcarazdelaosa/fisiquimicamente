@@ -3392,7 +3392,7 @@ La expresión:
 $$
 \Delta l = \alpha\cdot l_0\cdot \Delta T
 $$
-la podemos escribir como:
+la podemos escribir como ($\Delta l = l-l_0$):
 \begin{align}
 l-l_0 &= \alpha\cdot l_0\cdot \Delta T \\\\
 l &= l_0 + \alpha\cdot l_0\cdot \Delta T \\\\
