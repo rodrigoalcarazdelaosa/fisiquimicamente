@@ -3402,9 +3402,10 @@ l &= l_0\cdot(1+\alpha\cdot \Delta T)
 Sustituyendo valores tenemos:
 \begin{align}
 l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\\\
-&= 1.01\thinspace\mathrm m
+&= 1.01\thinspace\mathrm m,
 \end{align}
 
+es decir, se ha alargado 1$\thinspace$cm aproximadamente.
 ---
 
 > Si tras calentar la espada la sumergimos en un tanque cilíndrico de 5$\thinspace$cm de radio y 1$\thinspace$m de altura, lleno de agua a temperatura ambiente (20$\thinspace$&deg;C), ¿a qué temperatura se calentará el agua?<br>
