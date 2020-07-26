@@ -560,22 +560,22 @@ select.form-control:focus::-ms-value {
 .form-control-plaintext {
 	color: $primary; }
 	
-///*************************************************
-//*  highlight.js
-//**************************************************/
-//
-//.hljs {
-//	color: #555555;
-//	background: #fffff8;
-//}
-//
-//.hljs-variable, .hljs-template-variable, .hljs-tag, .hljs-name, .hljs-selector-id, .hljs-selector-class, .hljs-regexp, .hljs-deletion {
-//    color: $primary;
-//}
-//
-//.hljs-string, .hljs-symbol, .hljs-bullet, .hljs-addition {
-//    color: $example_fg;
-//}
+/*************************************************
+*  highlight.js
+**************************************************/
+
+.hljs {
+	color: #555555;
+	background: #fffff8;
+}
+
+.hljs-variable, .hljs-template-variable, .hljs-tag, .hljs-name, .hljs-selector-id, .hljs-selector-class, .hljs-regexp, .hljs-deletion {
+    color: $primary;
+}
+
+.hljs-string, .hljs-symbol, .hljs-bullet, .hljs-addition {
+    color: $primary_complementary;
+}
 
 /*************************************************
 *  Kudos
