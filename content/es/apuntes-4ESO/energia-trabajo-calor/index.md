@@ -3406,6 +3406,7 @@ l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\\\
 \end{align}
 
 es decir, se ha alargado 1$\thinspace$cm aproximadamente.
+
 ---
 
 > Si tras calentar la espada la sumergimos en un tanque cilíndrico de 5$\thinspace$cm de radio y 1$\thinspace$m de altura, lleno de agua a temperatura ambiente (20$\thinspace$&deg;C), ¿a qué temperatura se calentará el agua?<br>
