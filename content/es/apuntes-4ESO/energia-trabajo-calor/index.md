@@ -3441,7 +3441,7 @@ V_\text{agua} = \pi r^2 h = \pi\cdot 0.05^2\cdot 1 &= 0.0079\thinspace\mathrm{m^
 
 Como la densidad del agua es $d_\text{agua} = 1\thinspace\mathrm{kg/L}$:
 $$
-d = \frac{m}{V}\rightarrow m = V\cdot d
+d = \frac{m}{V}\rightarrow m = V\cdot d = 8\thinspace\mathrm{kg}
 $$
 
 {{% /alert %}}
