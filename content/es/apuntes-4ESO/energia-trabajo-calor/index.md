@@ -3417,6 +3417,11 @@ $$
 Q_\text{cedido} + Q_\text{ganado} = 0
 $$
 
+El calor cedido por la espada será:
+$$
+Q_\text{cedido} = m_\text{espada}\cdot c_\text{acero}\cdot (T_\mathrm e - T_\text{espada})
+$$
+
 {{% /alert %}}
 
 ## Máquinas térmicas
