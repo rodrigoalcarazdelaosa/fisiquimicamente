@@ -3421,7 +3421,7 @@ El calor cedido por la espada es:
 $$
 Q_\text{cedido} = m_\text{espada}\cdot c_\text{acero}\cdot (T_\mathrm e - T_\text{espada}),
 $$
-con $m_\text{espada} = 1.2\thinspace\mathrm{kg}$, $c_\text{acero} = 0.12\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $T_\text{espada} = 900\thinspace^\circ\mathrm{C}$ y $T_\mathrm e$ la temperatura final de equilibrio de la mezcla:
+con $m_\text{espada} = 1.2\thinspace\mathrm{kg}$, $c_\text{acero} = 0.12\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $T_\text{espada} = 900\thinspace^\circ\mathrm{C}$ y $T_\mathrm e$ la temperatura final de equilibrio de la mezcla (en &deg;C):
 
 $$
 Q_\text{cedido} = 0.144T_\mathrm e - 129.6\thinspace[\mathrm{kcal}]
@@ -3431,7 +3431,7 @@ El calor ganado por el agua es:
 $$
 Q_\text{ganado} = m_\text{agua}\cdot c_\text{agua}\cdot (T_\mathrm e - T_\text{agua}),
 $$
-con $c_\text{agua} = 1\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $T_\text{agua} = 20\thinspace^\circ\mathrm{C}$ y $T_\mathrm e$ la temperatura final de equilibrio de la mezcla.
+con $c_\text{agua} = 1\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $T_\text{agua} = 20\thinspace^\circ\mathrm{C}$ y $T_\mathrm e$ la temperatura final de equilibrio de la mezcla (en &deg;C).
 
 Para calcular la masa de agua necesitamos primero calcular su volumen, para después obtener la masa a partir de la densidad:
 $$
@@ -3450,7 +3450,7 @@ $$
 
 Así que podemos escribir:
 $$
-Q_\text{ganado} = 8T_\mathrm e - 160
+Q_\text{ganado} = 8T_\mathrm e - 160\thinspace[\mathrm{kcal}]
 $$
 
 {{% /alert %}}
