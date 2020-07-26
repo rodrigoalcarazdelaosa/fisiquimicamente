@@ -3408,6 +3408,8 @@ Datos: $d_\text{agua} = 1\thinspace\mathrm{kg/L}; c_\text{acero} = 0.12\thinspac
 
 ---
 
+La espada 
+
 {{% /alert %}}
 
 ## Máquinas térmicas
