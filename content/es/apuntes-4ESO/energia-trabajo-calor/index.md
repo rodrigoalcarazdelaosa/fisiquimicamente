@@ -3442,17 +3442,17 @@ $$
 donde $r = 5\thinspace\mathrm{cm} = 0.05\thinspace\mathrm{m}$ y $h = 1\thinspace\mathrm m$:
 \begin{align*}
 V_\text{agua} = \pi r^2 h = \pi\cdot 0.05^2\cdot 1 &= 0.0079\thinspace\mathrm{m^3} \\\\
-& \approx 8\thinspace\mathrm{L}
+& = 7.9\thinspace\mathrm{L}
 \end{align*}
 
 Como la densidad del agua es $d_\text{agua} = 1\thinspace\mathrm{kg/L}$:
 $$
-d = \frac{m}{V}\rightarrow m = V\cdot d = 8\thinspace\mathrm{kg}
+d = \frac{m}{V}\rightarrow m = V\cdot d = 7.9\thinspace\mathrm{kg}
 $$
 
 Así que podemos escribir:
 $$
-Q_\text{ganado} = 8T_\mathrm e - 160\thinspace[\mathrm{kcal}]
+Q_\text{ganado} = 7.9T_\mathrm e - 157.1\thinspace[\mathrm{kcal}]
 $$
 
 Imponiendo la **conservación de la energía**:
