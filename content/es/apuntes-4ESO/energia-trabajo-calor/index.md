@@ -3453,6 +3453,12 @@ $$
 Q_\text{ganado} = 8T_\mathrm e - 160\thinspace[\mathrm{kcal}]
 $$
 
+Imponiendo la **conservación de la energía**:
+\begin{align*}
+Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
+0.144T_\mathrm e - 129.6 + 8T_\mathrm e - 160 &= 0
+\end{align*}
+
 {{% /alert %}}
 
 ## Máquinas térmicas
