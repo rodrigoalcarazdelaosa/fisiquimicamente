@@ -3459,6 +3459,8 @@ Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
 0.144T_\mathrm e - 129.6 + 8T_\mathrm e - 160 &= 0
 \end{align*}
 
+de donde despejamos $T_\mathrm e = 35.6\thinspace^circ\mathrm C$.
+
 {{% /alert %}}
 
 ## Máquinas térmicas
