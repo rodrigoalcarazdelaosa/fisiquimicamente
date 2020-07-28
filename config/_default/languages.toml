@@ -12,7 +12,7 @@
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   title = "Physichemically with Rodri"
   [en.params]
-  	description = "Physics and Chemistry resources, tutorials and current science"
+  	description = "Physics and Chemistry Resources, Tutorials and Current Science"
 	address = {region = "Cantabria", country = "Spain", country_code = "ES"}
 
 # Uncomment the lines below to configure your website in a second language.
