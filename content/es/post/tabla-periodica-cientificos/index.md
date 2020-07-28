@@ -18,7 +18,7 @@ links:
   url: pdf/periodic-table-scientists/periodic-table-scientists.pdf
 ---
 
-Inspirado por la [Tabla Periódica DC]({{< ref "/post/tabla-periodica-DC/index.md" >}}), aquí os presento mi versión con **científicos ilustres**, en colaboración con Jésica Sánchez Mazón.
+Inspirado por la [Tabla Periódica DC]({{< ref "/post/tabla-periodica-DC/index.md" >}}), aquí os presento mi versión con **científicos ilustres**, en colaboración con [Jésica Sánchez Mazón](https://twitter.com/JSanmaz).
 
 {{% alert note %}}
 Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a la página de la Wikipedia del científico. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** como el de cada **científico** (ambos enlazados a Wikipedia).
