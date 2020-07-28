@@ -18,7 +18,7 @@ links:
   url: pdf/periodic-table-scientists/periodic-table-scientists.pdf
 ---
 
-Inspired by the [DC Periodic Table]({{< ref "/post/tabla-periodica-DC/index.md" >}}), here I present my version with **distinguished scientists**.
+Inspired by the [DC Periodic Table]({{< ref "/post/tabla-periodica-DC/index.md" >}}), here I present my version with **distinguished scientists**, in collaboration with [Jésica Sánchez Mazón](https://twitter.com/JSanmaz).
 
 {{% alert note %}}
 By clicking on the button above you can download a **PDF** where each image is a **link** that takes you to the scientist's Wikipedia page. In addition, on the back (second page of the PDF) you can see both the **name** of each **element** and that of each **scientist** (both linked to Wikipedia).
