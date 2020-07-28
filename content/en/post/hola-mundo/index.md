@@ -1,7 +1,7 @@
 ---
 title: Hello World
-subtitle: First post on my first blog
-summary: First post on my first blog.
+subtitle: First Post on my First Blog
+summary: First Post on my First Blog.
 date: "2020-04-28T00:00:00Z"
 image:
   placement: 3
