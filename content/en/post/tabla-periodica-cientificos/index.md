@@ -25,7 +25,7 @@ By clicking on the button above you can download a **PDF** where each image is a
 {{% /alert %}}
 
 ## Notes
-Some **notes** on the Table:
+Some **notes** about the Table:
 
 - As far as possible, we have chosen scientists (physicists/chemists and some mathematicians) whose surname reminds us of the element's name (both pronounced in English).
 - Elements named after a scientist are associated with that scientist.
