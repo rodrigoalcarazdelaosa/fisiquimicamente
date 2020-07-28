@@ -24,6 +24,7 @@ Inspirado por la [Tabla Periódica DC]({{< ref "/post/tabla-periodica-DC/index.m
 Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a la página de la Wikipedia del científico. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** como el de cada **científico** (ambos enlazados a Wikipedia).
 {{% /alert %}}
 
+## Notas
 Algunas **notas** sobre la Tabla:
 
 - En la medida de los posible se han escogido científicos (físicos/químicos y algún matemático) cuyo apellido recuerda al nombre del elemento (ambos pronunciados en inglés).
