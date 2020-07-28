@@ -27,7 +27,7 @@ Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen
 ## Notas
 Algunas **notas** sobre la Tabla:
 
-- En la medida de los posible se han escogido científicos (físicos/químicos y algún matemático) cuyo apellido recuerda al nombre del elemento (ambos pronunciados en inglés).
+- En la medida de lo posible se han escogido científicos (físicos/químicos y algún matemático) cuyo apellido recuerda al nombre del elemento (ambos pronunciados en inglés).
 - Los elementos nombrados a partir de un científico están asociados a ese científico.
 - Los elementos cuyo símbolo coincide con una unidad que a su vez proviene de un científico se han asociado con ese científico.
 - Ante la duda, la prioridad ha sido escoger los científicos más importantes y/o premios Nobel.
