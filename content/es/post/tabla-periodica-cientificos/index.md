@@ -1,5 +1,5 @@
 ---
-title: Tabla Periódica de científicos
+title: Tabla Periódica de Científicos
 subtitle: Tabla Periódica con científicos ilustres
 summary: Tabla Periódica con científicos ilustres.
 date: "2020-07-28T00:00:00Z"
