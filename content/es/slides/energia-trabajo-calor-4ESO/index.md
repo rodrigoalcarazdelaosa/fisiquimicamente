@@ -205,6 +205,10 @@ $$
 P = \frac{W}{t} = \frac{\vec F\cdot \vec d}{t} = \vec F\cdot \vec v
 $$
 
+(continúa hacia abajo)
+
+👇
+
 ---
 
 En el **SI** la potencia se mide en **vatios** o ***watts*** ($1\thinspace\mathrm W = 1\thinspace\mathrm{J/s}$), siendo el **caballo de vapor**[^1] ($1\thinspace\mathrm{CV} \approx 735\thinspace\mathrm{W}$) otra unidad de uso común.
