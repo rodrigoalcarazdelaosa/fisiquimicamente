@@ -174,7 +174,7 @@ E_\text{disipada} & = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B} \\\\
 ## Intercambio de energía
 La energía se puede intercambiar/transferir mediante: 
 - [Trabajo $W$](#/5/1)
-- [Calor $Q$](#/4/2)
+- [Calor $Q$](#/5/2)
 
 (continúa hacia abajo)
 
