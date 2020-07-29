@@ -3559,6 +3559,8 @@ $$
 Q_\text{ganado} = 7.9T_\mathrm e - 157.1\thinspace[\mathrm{kcal}]
 $$
 
+---
+
 Imponiendo la **conservación de la energía**:
 \begin{align*}
 Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
