@@ -19,7 +19,7 @@ slides:
 - [Efectos del calor sobre los cuerpos](#/7)
 - [Máquinas térmicas](#/8)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](fluidos-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](energia-trabajo-calor-diapositivas.pdf)
 
 ---
 
