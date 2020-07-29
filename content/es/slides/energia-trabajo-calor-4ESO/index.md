@@ -3555,6 +3555,4 @@ Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
 
 de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
 
-{{% /alert %}}
-
 {{% /section %}}
