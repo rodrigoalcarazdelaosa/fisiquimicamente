@@ -3586,6 +3586,8 @@ Consideramos una **máquina térmica** a un sistema que funciona **periódicamen
 
 {{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.png" title="Esquema de una **máquina térmica**. La máquina absorbe calor desde la fuente caliente *T*<sub>1</sub> y cede calor a la fría *T*<sub>2</sub>, produciendo trabajo: *Q*<sub>1</sub> = *W* + |*Q*<sub>2</sub>|. Adaptada de [https://commons.wikimedia.org/wiki/File:HeatEngine.svg](https://commons.wikimedia.org/wiki/File:HeatEngine.svg)." lightbox="false" >}}
 
+---
+
 ### Rendimiento energético
 Llamamos **rendimiento energético**, $\eta$, al cociente entre el *beneficio* y el *coste*:
 $$
