@@ -17,6 +17,7 @@ slides:
 - [Intercambio de energía](#/3)
 - [Trabajo y potencia](#/4)
 - [Efectos del calor sobre los cuerpos](#/5)
+- [Máquinas térmicas](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](fluidos-diapositivas.pdf)
 
