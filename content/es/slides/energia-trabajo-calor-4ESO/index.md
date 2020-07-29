@@ -294,8 +294,6 @@ donde $c$ es el **calor específico** de la sustancia, que representa la cantida
 ---
 
 #### ¿Sabes que el calor específico depende de la temperatura?
-La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor específico del oro (Au), hierro (Fe) y carbono (C) con la temperatura, según el [modelo de Debye](https://es.wikipedia.org/wiki/Modelo_de_Debye):
- 
 <canvas id="c-t"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
