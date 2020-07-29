@@ -229,7 +229,7 @@ background-color: $primary; }
 
 .article-style aside a svg,
 div.alert a svg{
-  border-bottom: solid 10px currentColor; }
+  border-bottom: solid 0px currentColor; }
 
 div.alert > div:first-child::before {
 color: $primary;
