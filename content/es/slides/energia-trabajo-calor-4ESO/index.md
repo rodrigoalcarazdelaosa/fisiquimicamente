@@ -3436,7 +3436,9 @@ Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su te
 ---
 
 Si consideramos una varilla de longitud inicial $l_0$ a una temperatura inicial $T_0$ y elevamos su temperatura hasta $T$, la varilla aumentará su longitud hasta $l$.
-{{< figure library="true" src="energia-trabajo-calor-4ESO/dilatacion.png" lightbox="true" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/dilatacion.png" lightbox="false" >}}
+
+---
 
 El aumento de longitud experimentado, $\Delta l = l-l_0$, es proporcional a la longitud inicial $l_0$ y a la variación de temperatura $\Delta T = T-T_0$:
 $$
