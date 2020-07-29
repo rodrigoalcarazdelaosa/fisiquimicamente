@@ -3472,4 +3472,89 @@ Q = m\cdot L,
 $$
 donde $L$ es el **calor latente**, que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el **SI** se mide en $\mathrm{J/kg}$.
 
+---
+
+### Ejemplo resuelto
+<q>Para forjar acero es necesario calentarlo a temperaturas de entre 800$\thinspace$&deg;C y 1000$\thinspace$&deg;C. Si tenemos una espada de acero de 1.2$\thinspace$kg de masa y 1$\thinspace$m de longitud a temperatura ambiente (20$\thinspace$&deg;C) y la calentamos hasta los 900$\thinspace$&deg;C, ¿cuál será su nueva longitud?<br>
+Dato: $\alpha_\text{acero} = 1.2\times 10^{-5}\thinspace\mathrm{^\circ C^{-1}}$.</q>
+
+---
+
+La expresión:
+$$
+\Delta l = \alpha\cdot l_0\cdot \Delta T
+$$
+la podemos escribir como ($\Delta l = l-l_0$):
+\begin{align}
+l-l_0 &= \alpha\cdot l_0\cdot \Delta T \\\\
+l &= l_0 + \alpha\cdot l_0\cdot \Delta T \\\\
+l &= l_0\cdot(1+\alpha\cdot \Delta T)
+\end{align}
+
+Sustituyendo valores tenemos:
+\begin{align}
+l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\\\
+&= 1.01\thinspace\mathrm m,
+\end{align}
+
+es decir, se ha alargado 1$\thinspace$cm aproximadamente.
+
+---
+
+> Si tras calentar la espada la sumergimos en un tanque cilíndrico de 5$\thinspace$cm de radio y 1$\thinspace$m de altura, lleno de agua a temperatura ambiente (20$\thinspace$&deg;C), ¿a qué temperatura se calentará el agua?<br>
+Datos: $d_\text{agua} = 1\thinspace\mathrm{kg/L}$; $c_\text{acero} = 0.12\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$; $c_\text{agua} = 1\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$.
+
+---
+
+La espada cederá calor al agua por estar a mayor temperatura, de tal forma que:
+$$
+Q_\text{cedido} + Q_\text{ganado} = 0
+$$
+
+El calor cedido por la espada es:
+$$
+Q_\text{cedido} = m_\text{espada}\cdot c_\text{acero}\cdot (T_\mathrm e - T_\text{espada}),
+$$
+con $m_\text{espada} = 1.2\thinspace\mathrm{kg}$, $c_\text{acero} = 0.12\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $T_\text{espada} = 900\thinspace^\circ\mathrm{C}$ y $T_\mathrm e$ la temperatura final de equilibrio de la mezcla (en &deg;C). Sustituyendo valores:
+
+$$
+Q_\text{cedido} = 0.144T_\mathrm e - 129.6\thinspace[\mathrm{kcal}]
+$$
+
+El calor ganado por el agua es:
+$$
+Q_\text{ganado} = m_\text{agua}\cdot c_\text{agua}\cdot (T_\mathrm e - T_\text{agua}),
+$$
+con $c_\text{agua} = 1\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $T_\text{agua} = 20\thinspace^\circ\mathrm{C}$ y $T_\mathrm e$ la temperatura final de equilibrio de la mezcla (en &deg;C).
+
+Para calcular la masa de agua necesitamos primero calcular su volumen, para después obtener la masa a partir de la densidad:
+$$
+V_\text{agua} = \pi r^2 h\text{ (cilindro)},
+$$
+donde $r = 5\thinspace\mathrm{cm} = 0.05\thinspace\mathrm{m}$ y $h = 1\thinspace\mathrm m$:
+\begin{align*}
+V_\text{agua} = \pi r^2 h = \pi\cdot 0.05^2\cdot 1 &= 0.0079\thinspace\mathrm{m^3} \\\\
+& = 7.9\thinspace\mathrm{L}
+\end{align*}
+
+Como la densidad del agua es $d_\text{agua} = 1\thinspace\mathrm{kg/L}$:
+$$
+d = \frac{m}{V}\rightarrow m = V\cdot d = 7.9\thinspace\mathrm{kg}
+$$
+
+Así que podemos escribir:
+$$
+Q_\text{ganado} = 7.9T_\mathrm e - 157.1\thinspace[\mathrm{kcal}]
+$$
+
+Imponiendo la **conservación de la energía**:
+\begin{align*}
+Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
+0.144T_\mathrm e - 129.6 + 7.9T_\mathrm e - 157.1 &= 0
+\end{align*}
+
+de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
+
+{{% /alert %}}
+
 {{% /section %}}
