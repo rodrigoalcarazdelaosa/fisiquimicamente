@@ -31,6 +31,8 @@ La **energía** es la capacidad para realizar un trabajo, y se mide en **julios*
 
 {{% section %}}
 
+---
+
 ## Concepto de presión
 
 La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
