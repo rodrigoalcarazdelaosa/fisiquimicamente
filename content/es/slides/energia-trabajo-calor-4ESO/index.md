@@ -79,6 +79,9 @@ $$
 
 ## Conservación de la energía
 
+- [Principio de conservación de la energía mecánica](#/4/1)
+- [Principio de conservación de la energía](#/4/2)
+
 (continúa hacia abajo)
 
 👇
