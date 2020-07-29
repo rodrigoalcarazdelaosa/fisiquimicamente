@@ -12,7 +12,7 @@ slides:
 
 # Energía, trabajo y calor
 
-- [Concepto de presión](#/1)
+- [Energías cinética, potencial y mecánica](#/1)
 - [Principios de la hidrostática](#/2)
 - [Física de la atmósfera](#/3)
 - [Cortometraje-documental](#/4)
