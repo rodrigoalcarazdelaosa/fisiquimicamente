@@ -194,3 +194,23 @@ $$
 Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Trabajo y potencia
+La **potencia** $P$ es el trabajo $W$ realizado por unidad de tiempo $t$:
+$$
+P = \frac{W}{t} = \frac{\vec F\cdot \vec d}{t} = \vec F\cdot \vec v
+$$
+En el **SI** la potencia se mide en **vatios** o ***watts*** ($1\thinspace\mathrm W = 1\thinspace\mathrm{J/s}$), siendo el **caballo de vapor**[^1] ($1\thinspace\mathrm{CV} \approx 735\thinspace\mathrm{W}$) otra unidad de uso común.
+
+[^1]: No confundir con el ***horsepower*** anglosajón ($1\thinspace\mathrm{HP} \approx 1.014\thinspace\mathrm{CV}$).
+
+El **kilovatio hora**, $\mathrm{kW}\thinspace\mathrm h$, es una unidad de **energía** muy utilizada en la facturación para la energía entregada a los consumidores por las compañías eléctricas:
+$$
+1\thinspace\mathrm{kW}\thinspace\mathrm h\cdot \frac{1000\thinspace\mathrm{W}}{1\thinspace\mathrm{kW}}\cdot \frac{3600\thinspace\mathrm{s}}{1\thinspace\mathrm{h}} = 3.6\times 10^6\thinspace\mathrm{W\cdot s} = 3.6\times 10^6\thinspace\mathrm J
+$$
+
+{{% /section %}}
