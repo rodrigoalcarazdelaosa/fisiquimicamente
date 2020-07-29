@@ -3603,13 +3603,16 @@ $$
 $$
 
 Si la máquina **invierte el ciclo**, hablaríamos de una **máquina frigorífica**, cuyo rendimiento viene dado por la relación:
-	$$
-	\eta = \frac{|Q_2|}{W} = \frac{|Q_2|}{Q_1-|Q_2|} > 1
-	$$
-	Para una **calefacción**, tendríamos:
-	$$
-	\eta = \frac{Q_1}{W} = \frac{Q_1}{Q_1-|Q_2|} > 1
-	$$
+$$
+\eta = \frac{|Q_2|}{W} = \frac{|Q_2|}{Q_1-|Q_2|} > 1
+$$
+
+---
+
+Para una **calefacción**, tendríamos:
+$$
+\eta = \frac{Q_1}{W} = \frac{Q_1}{Q_1-|Q_2|} > 1
+$$
 
 Se puede demostrar que el rendimiento de una **máquina térmica ideal** (llamada **máquina de Carnot**) solo depende de las temperaturas de ambos focos:
 $$
