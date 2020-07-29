@@ -19,7 +19,7 @@ links:
   url: pdf/DC-periodic-table/DC-periodic-table.pdf
 ---
 
-Inspirado por [Manuel Souto](https://twitter.com/SoutoManel?s=20) y su [Tabla Periódica Marvel](https://marvelperiodictable.blogspot.com/2020/07/1.html) aquí os presento mi versión con personajes de [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+Inspirado por [Manuel Souto](https://twitter.com/SoutoManel?s=20) y su [Tabla Periódica Marvel](https://marvelperiodictable.blogspot.com/2020/07/1.html) aquí os presento mi versión con **personajes de** [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="0 0 900.14 900.141" enable-background="new 0 0 900.14 900.141"
 	 xml:space="preserve">
 <path fill="#0376F2" d="M450.069,0C201.503,0,0,201.503,0,450.071s201.503,450.07,450.069,450.07
