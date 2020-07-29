@@ -12,12 +12,12 @@ slides:
 
 # Energía, trabajo y calor
 
-- [Energías cinética, potencial y mecánica](#/1)
-- [Conservación de la energía](#/2)
-- [Intercambio de energía](#/3)
-- [Trabajo y potencia](#/4)
-- [Efectos del calor sobre los cuerpos](#/5)
-- [Máquinas térmicas](#/6)
+- [Energías cinética, potencial y mecánica](#/3)
+- [Conservación de la energía](#/4)
+- [Intercambio de energía](#/5)
+- [Trabajo y potencia](#/6)
+- [Efectos del calor sobre los cuerpos](#/7)
+- [Máquinas térmicas](#/8)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](fluidos-diapositivas.pdf)
 
