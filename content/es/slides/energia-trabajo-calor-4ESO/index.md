@@ -3431,7 +3431,7 @@ Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su te
 ---
 
 #### Junta de dilatación
-{{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" width="50%" lightbox="false" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" width="40%" lightbox="false" >}}
 
 ---
 
