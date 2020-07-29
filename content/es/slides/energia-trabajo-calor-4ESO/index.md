@@ -277,6 +277,7 @@ Como curiosidad, [el ascensor más rápido del mundo es capaz de viajar a 21$\th
 - Variación de temperatura
 - Dilatación
 - Cambios de estado
+- Ejemplo resuelto
 
 (continúa hacia abajo)
 
@@ -3452,6 +3453,21 @@ Se puede demostrar que los coeficientes de dilatación superficial y cúbica son
 
 $$
 \Delta S = 2\alpha \cdot S_0\cdot \Delta T;\quad \Delta V = 3\alpha \cdot V_0\cdot \Delta T
-$$  
+$$
+
+---
+
+### Cambios de estado
+Al transferir calor a un cuerpo, su temperatura aumenta. Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-2eso-3eso/materia/index.md#cambios-de-estado" >}}).
+
+**Durante** un **cambio** de estado, la **temperatura** del cuerpo permanece **constante**, ya que durante el cambio la energía transferida al cuerpo se emplea en reorganizar las partículas (romper enlaces).
+
+La cantidad de calor $Q$ que es necesario comunicar a una sustancia para que cambie de estado depende de la propia sustancia y de su masa $m$, a través de la expresión:
+$$
+Q = m\cdot L,
+$$
+donde $L$ es el **calor latente**[^5], que representa la cantidad de energía requerida por la sustancia para cambiar de estado. En el **SI** se mide en $\mathrm{J/kg}$.
+
+[^5]: En [esta tabla, tomada de la entrada sobre calor latente en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Latent_heat#Table_of_specific_latent_heats), puedes ver los **valores** del **calor latente** de **fusión** y de **vaporización** de diversas sustancias.
 
 {{% /section %}}
