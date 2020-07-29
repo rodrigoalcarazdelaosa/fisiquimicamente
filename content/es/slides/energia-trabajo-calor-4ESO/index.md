@@ -204,6 +204,9 @@ La **potencia** $P$ es el trabajo $W$ realizado por unidad de tiempo $t$:
 $$
 P = \frac{W}{t} = \frac{\vec F\cdot \vec d}{t} = \vec F\cdot \vec v
 $$
+
+---
+
 En el **SI** la potencia se mide en **vatios** o ***watts*** ($1\thinspace\mathrm W = 1\thinspace\mathrm{J/s}$), siendo el **caballo de vapor**[^1] ($1\thinspace\mathrm{CV} \approx 735\thinspace\mathrm{W}$) otra unidad de uso común.
 
 [^1]: No confundir con el ***horsepower*** anglosajón ($1\thinspace\mathrm{HP} \approx 1.014\thinspace\mathrm{CV}$).
