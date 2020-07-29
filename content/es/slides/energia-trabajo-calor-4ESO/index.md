@@ -3420,5 +3420,29 @@ donde $c$ es el **calor específico** de la sustancia, que representa la cantida
 	  }
 	});
 </script>
+	
+---
+
+### Dilatación
+Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^3].
+
+[^3]: Una excepción notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella. 
+
+{{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" title="**Junta de dilatación** de un puente. Si estas juntas no se construyesen, la dilatación térmica de los materiales cuando aumentase la temperatura generaría unos esfuerzos tan grandes que fracturarían el puente. Para calcular estas juntas se necesita conocer el **coeficiente de dilatación térmica**. Imagen de [**Kranich17**](https://pixabay.com/es/users/kranich17-11197573/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
+Si consideramos una varilla de longitud inicial $l_0$ a una temperatura inicial $T_0$ y elevamos su temperatura hasta $T$, la varilla aumentará su longitud hasta $l$.
+{{< figure library="true" src="energia-trabajo-calor-4ESO/dilatacion.png" lightbox="true" >}}
+
+El aumento de longitud experimentado, $\Delta l = l-l_0$, es proporcional a la longitud inicial $l_0$ y a la variación de temperatura $\Delta T = T-T_0$:
+$$
+\Delta l = \alpha\cdot l_0\cdot \Delta T,
+$$
+donde $\alpha$ es el llamado **coeficiente de dilatación lineal**[^4], cuyas unidades en el **SI** son $\mathrm{K^{-1}}$. Se puede demostrar que los coeficientes de dilatación superficial y cúbica son el doble y el triple, respectivamente, del lineal:
+
+[^4]: En [esta tabla](https://es.wikipedia.org/wiki/Coeficiente_de_dilataci%C3%B3n#Valores_del_coeficiente_de_dilataci%C3%B3n_lineal) puedes ver los **valores** del **coeficiente de dilatación lineal** de diversos materiales.
+
+$$
+\Delta S = 2\alpha \cdot S_0\cdot \Delta T;\quad \Delta V = 3\alpha \cdot V_0\cdot \Delta T
+$$  
 
 {{% /section %}}
