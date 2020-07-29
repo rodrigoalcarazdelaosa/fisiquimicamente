@@ -25,9 +25,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 La **energía** es la capacidad para realizar un trabajo, y se mide en **julios** ($1\thinspace \mathrm{J} = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}$).
 
-{{< spoiler text="Aprende más sobre las <strong>formas</strong> y <strong>cambios</strong> de <strong>energía</strong> con esta <strong>simulación</strong>" >}}
 <iframe src="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
-{{< /spoiler >}}
 
 {{% section %}}
 
