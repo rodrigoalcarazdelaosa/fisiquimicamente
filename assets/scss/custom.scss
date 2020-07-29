@@ -227,10 +227,6 @@ background-color: $primary; }
  *  Article Alerts (Shortcode) and Asides (Mmark)
  **************************************************/
 
-.article-style aside a svg,
-div.alert a svg {
-  text-decoration: underline; }
-
 div.alert > div:first-child::before {
 color: $primary;
 }
