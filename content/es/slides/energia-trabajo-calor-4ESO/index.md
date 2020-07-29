@@ -106,7 +106,7 @@ La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disi
 #### Ejemplo resuelto
 <q>Un carro de 50$\thinspace$kg desliza por una montaña rusa como la de la figura.</q>
 
-{{< figure library="true" src="energia-trabajo-calor-4ESO/montana-rusa.png" lightbox="true" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/montana-rusa.png" lightbox="false" >}}
 
 ---
 
