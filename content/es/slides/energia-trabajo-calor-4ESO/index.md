@@ -159,3 +159,16 @@ Puedes aprender más sobre la **conservación** de la **energía** con la siguie
 <iframe src="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Intercambio de energía
+La energía se puede intercambiar/transferir mediante **trabajo** o **calor**.
+
+(continúa hacia abajo)
+
+👇
+
+{{% /section %}}
