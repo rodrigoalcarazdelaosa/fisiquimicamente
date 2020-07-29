@@ -3426,7 +3426,7 @@ donde $c$ es el **calor específico** de la sustancia, que representa la cantida
 ### Dilatación
 Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura.
 
-Una excepción notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella. 
+Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella. 
 
 ---
 
