@@ -151,6 +151,9 @@ E_\text{disipada} & = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B} \\\\
 & = 15325 - 10056 = 5269\thinspace\mathrm J
 \end{align*}
 
+
+---
+
 Puedes aprender más sobre la **conservación** de la **energía** con la siguiente **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/energy-skate-park-basics/latest/energy-skate-park-basics_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
