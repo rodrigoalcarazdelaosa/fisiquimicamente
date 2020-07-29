@@ -77,6 +77,8 @@ $$
 ### Principio de conservación de la energía mecánica
 > Cuando sobre un cuerpo actúan únicamente **fuerzas conservativas**, su energía mecánica se conserva.
 
+---
+
 #### Ejemplos de fuerzas conservativas
 Fuerzas gravitatorias, elásticas o electrostáticas.
 
