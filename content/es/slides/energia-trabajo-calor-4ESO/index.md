@@ -3491,6 +3491,8 @@ l &= l_0 + \alpha\cdot l_0\cdot \Delta T \\\\
 l &= l_0\cdot(1+\alpha\cdot \Delta T)
 \end{align}
 
+---
+
 Sustituyendo valores tenemos:
 \begin{align}
 l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\\\
