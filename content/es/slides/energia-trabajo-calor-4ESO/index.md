@@ -3576,7 +3576,7 @@ de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
 {{% section %}}
 
 ## Máquinas térmicas
-Consideramos una **máquina térmica** a un sistema que funciona **periódicamente** entre dos focos a distinta temperatura, y transforma parte del calor absorbido del foco caliente en trabajo, cediendo otra parte al foco frío:
+Consideramos una **máquina térmica** a un sistema que funciona **periódicamente** entre dos focos a distinta temperatura, y transforma parte del calor absorbido del foco caliente en trabajo, cediendo otra parte al foco frío.
 
 (continúa hacia abajo)
 
