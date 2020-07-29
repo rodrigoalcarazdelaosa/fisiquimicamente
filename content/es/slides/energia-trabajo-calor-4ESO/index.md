@@ -3535,6 +3535,8 @@ Q_\text{ganado} = m_\text{agua}\cdot c_\text{agua}\cdot (T_\mathrm e - T_\text{a
 $$
 con $c_\text{agua} = 1\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$, $T_\text{agua} = 20\thinspace^\circ\mathrm{C}$ y $T_\mathrm e$ la temperatura final de equilibrio de la mezcla (en &deg;C).
 
+---
+
 Para calcular la masa de agua necesitamos primero calcular su volumen, para después obtener la masa a partir de la densidad:
 $$
 V_\text{agua} = \pi r^2 h\text{ (cilindro)},
