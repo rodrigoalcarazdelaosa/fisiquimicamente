@@ -114,6 +114,8 @@ $$
 E_\mathrm m = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 + mgh
 $$
 
+---
+
 Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta velocidad) y potencial gravitatoria (está a una cierta altura).
 
 \begin{align*}
