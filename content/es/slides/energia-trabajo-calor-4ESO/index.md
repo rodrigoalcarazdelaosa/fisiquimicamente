@@ -97,12 +97,9 @@ La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disi
 ---
 
 #### Ejemplo resuelto
-{{% alert example %}}
-<br>
-
-> Un carro de 50$\thinspace$kg desliza por una montaña rusa como la de la figura. Si en el punto A su velocidad es de 5$\thinspace$m/s y en el punto B es de 3.2$\thinspace$m/s, calcula: <br>
+<q>Un carro de 50$\thinspace$kg desliza por una montaña rusa como la de la figura. Si en el punto A su velocidad es de 5$\thinspace$m/s y en el punto B es de 3.2$\thinspace$m/s, calcula: <br>
 a) La energía mecánica en A y en B. <br>
-b) La energía disipada en forma de calor debido a las fuerzas de rozamiento entre los puntos A y B.
+b) La energía disipada en forma de calor debido a las fuerzas de rozamiento entre los puntos A y B.</q>
 
 {{< figure library="true" src="energia-trabajo-calor-4ESO/montana-rusa.png" lightbox="true" >}}
 
@@ -145,8 +142,6 @@ b) La energía perdida por rozamiento (en forma de calor) es igual a la diferenc
 E_\text{disipada} & = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B} \\\\
 & = 15325 - 10056 = 5269\thinspace\mathrm J
 \end{align*}
-
-{{% /alert %}}
 
 Puedes aprender más sobre la **conservación** de la **energía** con la siguiente **simulación**:
 
