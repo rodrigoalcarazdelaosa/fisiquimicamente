@@ -1,5 +1,5 @@
 ---
-title: Energía, trabajo <br> y calor
+title: Energía, trabajo y calor
 summary: "Energía y sus formas de intercambio (trabajo y calor)."
 
 slides:
