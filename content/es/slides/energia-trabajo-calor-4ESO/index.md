@@ -283,10 +283,10 @@ Como curiosidad, [el ascensor más rápido del mundo es capaz de viajar a 21$\th
 
 ## Efectos del calor sobre los cuerpos
 
-- Variación de temperatura
-- Dilatación
-- Cambios de estado
-- Ejemplo resuelto
+- [Variación de temperatura](#/7/1)
+- [Dilatación](#/7/3)
+- [Cambios de estado](#/7/8)
+- [Ejemplo resuelto](#/7/11)
 
 (continúa hacia abajo)
 
