@@ -1,7 +1,7 @@
 ---
 title: SpaceX Demo-2
-subtitle: Kinematic study of the Falcon 9 🚀
-summary: "Kinematic study of the Falcon 9 🚀."
+subtitle: Kinematic Study of the Falcon 9 🚀
+summary: "Kinematic Study of the Falcon 9 🚀."
 date: "2020-06-04T00:00:00Z"
 tags:
 - motion
