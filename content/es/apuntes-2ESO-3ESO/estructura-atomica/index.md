@@ -108,7 +108,7 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 
 Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 #### Características del modelo de Rutherford
 
@@ -148,9 +148,9 @@ La masa atómica que encontramos en las tablas periódicas es la media **pondera
 
 Para entender mejor los **conceptos** de **isótopo** y de **masa atómica** te invito a que eches un vistazo a esta excelente **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Simulación
 Puedes poner en práctica todo lo que has aprendido con este **constructor de átomos**:
 
-<iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>

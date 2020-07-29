@@ -193,7 +193,7 @@ En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se dist
 ---
 
 #### Simulación
-<iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="720" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ---
 
