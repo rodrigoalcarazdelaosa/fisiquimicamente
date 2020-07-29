@@ -171,4 +171,24 @@ La energía se puede intercambiar/transferir mediante **trabajo** o **calor**.
 
 👇
 
+---
+
+### Trabajo $W$
+El **trabajo** se transfiere cuando entre dos cuerpos se realizan **fuerzas** que provocan desplazamientos o cambios en sus dimensiones.
+
+El trabajo $W$ realizado por una fuerza $\vec F$ constante viene dado por:
+$$
+W = \vec F\cdot \vec d = F\cdot d \cdot \cos\alpha,
+$$
+donde $F$ es el módulo de la fuerza aplicada, $d$ el espacio recorrido y $\cos\alpha$ es el coseno del ángulo formado por la fuerza y el desplazamiento.
+
+### Calor $Q$
+El **calor** se transfiere entre dos cuerpos que tienen **diferente temperatura**, de forma que el calor cedido por el cuerpo a mayor temperatura es igual al calor ganado por el que está a menor temperatura:
+
+$$
+Q_\text{cedido} + Q_\text{ganado} = 0
+$$
+
+Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
+
 {{% /section %}}
