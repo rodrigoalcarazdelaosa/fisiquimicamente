@@ -26,5 +26,5 @@ Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen
 {{% /alert %}}
 
 {{% alert note %}}
-Si te gustan estas Tablas Periódicas *especiales*, echa un vistazo a las versiones con personajes de Disney, de Astérix o Los Simpsons
+Si te gustan estas Tablas Periódicas *especiales*, echa un vistazo a las versiones con personajes de [Disney](https://kitchapman.co.uk/a-disney-periodic-table/), de [Astérix](http://www.ndietrich.com/archives/950) o de [Los Simpsons](http://www.ndietrich.com/archives/955).
 {{% /alert %}}
