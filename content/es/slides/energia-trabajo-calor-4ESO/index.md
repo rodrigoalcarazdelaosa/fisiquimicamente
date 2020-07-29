@@ -36,7 +36,7 @@ Se mide en **julios** ($1\thinspace \mathrm{J} = 1\thinspace\mathrm{kg}\thinspac
 
 {{% section %}}
 
-## Concepto de presión
+## Energías cinética, potencial y mecánica
 
 La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
 $$
