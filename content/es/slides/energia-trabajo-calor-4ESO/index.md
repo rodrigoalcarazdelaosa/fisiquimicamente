@@ -3584,7 +3584,7 @@ Consideramos una **máquina térmica** a un sistema que funciona **periódicamen
 
 ---
 
-{{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.png" title="Esquema de una **máquina térmica**." width="50%" lightbox="false" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.png" title="Esquema de una **máquina térmica**." width="60%" lightbox="false" >}}
 
 ---
 
