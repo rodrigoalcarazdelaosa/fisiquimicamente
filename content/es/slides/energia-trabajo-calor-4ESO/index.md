@@ -38,6 +38,10 @@ Se mide en **julios** ($1\thinspace \mathrm{J} = 1\thinspace\mathrm{kg}\thinspac
 
 ## Energías cinética, potencial y mecánica
 
+- [Energía cinética](#/3/1)
+- [Energía potencial](#/3/2)
+- [Energía mecánica](#/3/3)
+
 (continúa hacia abajo)
 
 👇
