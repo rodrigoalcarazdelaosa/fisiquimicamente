@@ -3570,3 +3570,45 @@ Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
 de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Máquinas térmicas
+Consideramos una **máquina térmica** a un sistema que funciona **periódicamente** entre dos focos a distinta temperatura, y transforma parte del calor absorbido del foco caliente en trabajo, cediendo otra parte al foco frío:
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+{{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.png" title="Esquema de una **máquina térmica**. La máquina absorbe calor desde la fuente caliente *T*<sub>1</sub> y cede calor a la fría *T*<sub>2</sub>, produciendo trabajo: *Q*<sub>1</sub> = *W* + |*Q*<sub>2</sub>|. Adaptada de [https://commons.wikimedia.org/wiki/File:HeatEngine.svg](https://commons.wikimedia.org/wiki/File:HeatEngine.svg)." lightbox="false" >}}
+
+### Rendimiento energético
+Llamamos **rendimiento energético**, $\eta$, al cociente entre el *beneficio* y el *coste*:
+$$
+	\eta = \frac{\text{trabajo que obtengo}}{\text{calor que consumo}}
+$$
+Para un **motor**[^6]:
+[^6]: Si la máquina **invierte el ciclo**, hablaríamos de una **máquina frigorífica**, cuyo rendimiento viene dado por la relación:
+	$$
+	\eta = \frac{|Q_2|}{W} = \frac{|Q_2|}{Q_1-|Q_2|} > 1
+	$$
+	Para una **calefacción**, tendríamos:
+	$$
+	\eta = \frac{Q_1}{W} = \frac{Q_1}{Q_1-|Q_2|} > 1
+	$$
+
+$$
+	\eta = \frac{W}{Q_1} = \frac{Q_1-|Q_2|}{Q_1} = 1-\frac{|Q_2|}{Q_1}<1
+$$
+
+Se puede demostrar que el rendimiento de una **máquina térmica ideal** (llamada **máquina de Carnot**) solo depende de las temperaturas de ambos focos:
+$$
+\eta_\text{ideal} = 1-\frac{T_2}{T_1},
+$$
+que es el máximo rendimiento que puede obtenerse para un ciclo térmico que se realiza entre dos fuentes con estas temperaturas.
+
+{{% /section %}}
