@@ -13,9 +13,9 @@ slides:
 # Energía, trabajo y calor
 
 - [Energías cinética, potencial y mecánica](#/1)
-- [Principios de la hidrostática](#/2)
-- [Física de la atmósfera](#/3)
-- [Cortometraje-documental](#/4)
+- [Conservación de la energía](#/2)
+- [Intercambio de energía](#/3)
+- [Trabajo y potencia](#/4)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](fluidos-diapositivas.pdf)
 
