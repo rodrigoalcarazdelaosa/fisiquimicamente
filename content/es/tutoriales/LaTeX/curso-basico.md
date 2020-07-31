@@ -303,7 +303,7 @@ E=m
 {{< figure library="true" src="LaTeX/curso-basico/display_math.jpg" lightbox="true" >}}
 
 ### Paquete [amsmath](https://www.ctan.org/pkg/amsmath)[^8]
-[^8]: Desarrollado por la [Sociedad Americana de Matemáticas](https://www.ams.org/home/page), o $\AmS$ por sus siglas en inglés.
+[^8]: Desarrollado por la [Sociedad Americana de Matemáticas](https://www.ams.org/home/page), o AMS por sus siglas en inglés.
 
 A la hora de escribir matemáticas en $\LaTeX$, incluir el paquete [amsmath](https://www.ctan.org/pkg/amsmath) es prácticamente **obligatorio**, por la cantidad de comandos que añade.
 
