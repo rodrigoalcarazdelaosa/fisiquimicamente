@@ -220,7 +220,7 @@ c) La rapidez del coche en el instante que alcanza al tren.
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 
 \begin{align*}
-	\text{Coche (MRUV): } x_\mathrm c &= x_{0\mathrm c} + v_{0\mathrm c}(t-t_{0\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0\mathrm c})^2 \\\\
+	\text{Coche (MRUV): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
 	\text{Tren (MRU): } x_\mathrm t &= x_{0\mathrm t} + v_\mathrm t(t-t_{0\mathrm t})
 \end{align*}
 
