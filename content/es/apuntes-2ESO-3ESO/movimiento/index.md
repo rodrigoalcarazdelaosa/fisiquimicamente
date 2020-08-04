@@ -88,6 +88,8 @@ $$
 donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $t$ y $t_0$ son el tiempo final e inicial, respectivamente. En el **SI** se mide en m/s<sup>2</sup>.
 
 ## Gráficas
+### MRU
+{{< figure library="true" src="movimiento-2ESO/graficas-MRU.png" >}}
 
 ## Encuentros
 ### Ejemplo resuelto
