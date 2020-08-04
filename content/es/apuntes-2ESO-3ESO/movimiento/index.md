@@ -53,6 +53,12 @@ La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **de
 La **velocidad** mide cómo cambia la posición de un móvil respecto al tiempo. En el SI se mide en m/s.
 
 ### Velocidad media
+La **velocidad media** de un cuerpo es la relación entre el espacio recorrido y el tiempo invertido:
+$$
+v_\text{m} = \frac{\Delta x}{\Delta t},
+$$
+siendo $\Delta x$ el espacio recorrido y $\Delta t$ el tiempo transcurrido.
+
 ### Velocidad instantánea
 
 ## Movimiento rectilíneo uniforme (MRU)
