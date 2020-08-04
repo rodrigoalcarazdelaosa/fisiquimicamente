@@ -221,7 +221,7 @@ a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada 
 
 \begin{align*}
 	\text{Coche (MRUV): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
-	\text{Tren (MRU): } x_\mathrm t &= x_{0\mathrm t} + v_\mathrm t(t-t_{0\mathrm t})
+	\text{Tren (MRU): } x_\mathrm t &= x_{0_\mathrm t} + v_\mathrm t(t-t_{0_\mathrm t})
 \end{align*}
 
 **Particularizamos** para nuestro caso:
