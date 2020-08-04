@@ -47,7 +47,7 @@ Diferencia entre las posiciones final e inicial.
 
 La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **desplazamiento**:
 
-{{< figure library="true" src="movimiento-2ESO/desplazamiento.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg." lightbox="true" >}}
+{{< figure library="true" src="movimiento-2ESO/desplazamiento.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg." lightbox="true" width="100%">}}
 
 ## Concepto de velocidad
 ### Velocidad media
