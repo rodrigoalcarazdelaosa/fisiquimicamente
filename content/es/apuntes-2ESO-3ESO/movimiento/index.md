@@ -113,63 +113,47 @@ b) ¿Qué distancia ha recorrido cada uno de ellos?
 
 ---
 
-a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
+El siguiente esquema representa la situación que tenemos:
 
+{{< figure library="true" src="movimiento-2ESO/encuentro-planteamiento.png" >}}
+
+a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 \begin{align*}
-	\text{Coche (MRUV): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
-	\text{Tren (MRU): } x_\mathrm t &= x_{0_\mathrm t} + v_\mathrm t(t-t_{0_\mathrm t})
+\text{\textbf{Coche (MRU)}: } x_\mathrm c &= x_{0_\mathrm c} + v_\mathrm c t \\\\
+\text{\textbf{Moto (MRU)}: } x_\mathrm m &= x_{0_\mathrm m} + v_\mathrm m t
 \end{align*}
 
-**Particularizamos** para nuestro caso:
+**Particularizamos** para nuestro caso, tomando el origen donde empieza el coche y sentido positivo hacia la derecha:
 \begin{gather*}
-x_{0_\mathrm c}=x_{0_\mathrm t}=0 \\\\
-v_{0_\mathrm c}=0;\quad v_\mathrm t = 12\thinspace\mathrm{m/s} \\\\
-a_\mathrm c = 2\thinspace\mathrm{m/s^2} \\\\
-t_{0_\mathrm c}=6\thinspace\mathrm s;\quad t_{0_\mathrm t} = 0
+x_{0_\mathrm c}=0;\quad x_{0_\mathrm m}=\SI{200}{km} \\\\
+v_\mathrm c=\SI{70}{km/h};\quad v_\mathrm m = -\SI{90}{km/h}
 \end{gather*}
 
 \begin{align*}
-	\text{Coche (MRUV): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\\\
-	 &= (t-6)^2 = t^2-12t+36 \\\\
-	\text{Tren (MRU): } x_\mathrm t &= 0 + 12\cdot(t-0) = 12t
+\text{\textbf{Coche (MRU)}: } x_\mathrm c &= 0 + 70 t = 70t \\\\
+\text{\textbf{Moto (MRU)}: } x_\mathrm m &= 200 - 90t
 \end{align*}
 
 A continuación imponemos la **condición de encuentro**:
-
 \begin{align*}		
-x_\mathrm c &= x_\mathrm t \\\\
-t^2-12t+36 &= 12t \\\\
-t^2-24t+36 &= 0
+x_\mathrm c &= x_\mathrm m \\\\
+70t &= 200-90t \\\\
+160 t &= 200
 \end{align*}
 
 Despejamos el **tiempo de encuentro** $t^*$:
-
 $$
-t^* = \frac{24\pm\sqrt{24^2-4\cdot 1\cdot 36}}{2} = \frac{24\pm \sqrt{432}}{2} =  \begin{cases}
-	22.4\thinspace\mathrm s \\\\
-	\xcancel{1.6\thinspace\mathrm s}
-\end{cases}
+t^* = \frac{\SI{200}{\cancel\kilo\m}}{\SI[per-mode=symbol]{160}{\cancel\kilo\m\per\hour}} = \SI{1.25}{h}
 $$
 
-donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los $6\thinspace\mathrm s$ que está parado el coche en el semáforo. Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:
+Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
+\begin{figure}[htbp]
+\includegraphics[width=.9\textwidth]{encuentro-graficas}
+%\caption{caption}
+%\label{fig:label}
+\end{figure}
 
-{{< figure src="encuentro.png" lightbox="true" >}}
 
-donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los $22.4\thinspace\mathrm s$.
-
----
-
-b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^*=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
-
-$$
-x_\mathrm c (t^*) = t^{*2}-12t^*+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
-$$
-	
----
-
-c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^*$:
-
-$$
-v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
-$$	
+donde se ve claramente cómo el coche y la moto se encuentran para $t^* = \SI{1.25}{h}$.
+  
 {{% /alert %}}
