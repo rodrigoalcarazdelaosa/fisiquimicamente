@@ -95,7 +95,7 @@ donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $t$ y 
 {{< figure library="true" src="movimiento-2ESO/graficas-MRUV.png" >}}
 
 ## Encuentros
-Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un MRU o un MRUV, comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
+Se trata de situaciones en las que dos cuerpos comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
 
 Seguimos estos **tres pasos**:
 
