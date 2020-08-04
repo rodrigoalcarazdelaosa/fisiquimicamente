@@ -135,8 +135,8 @@ background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary
     color: #f7f056;
 }
 
-.fancybox-container--ready .fancybox-bg {
-    opacity: 1;
+.fancybox-is-open .fancybox-bg {
+    opacity: .9;
     background: #fff;
 }
   
