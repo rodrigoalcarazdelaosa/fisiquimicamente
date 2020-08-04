@@ -85,7 +85,7 @@ La **aceleración** mide cómo cambia la velocidad de un móvil respecto al tiem
 $$
 a = \frac{\Delta v}{\Delta t} = \frac{v-v_0}{t-t_0},
 $$
-donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $t$ y $t_0$ son el tiempo final e inicial, respectivamente. En el \textbf{SI} se mide en \si{m/s^2}.
+donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $t$ y $t_0$ son el tiempo final e inicial, respectivamente. En el **SI** se mide en m/s<sup>2</sup>.
 
 ## Gráficas
 
