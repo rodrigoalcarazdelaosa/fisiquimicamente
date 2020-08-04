@@ -31,6 +31,24 @@ links:
 
 ## Definiciones
 ### Sistema de referencia
+Conjunto de puntos respecto de los cuales definimos las posiciones.
+
 ### Posición
 ### Trayectoria
 ### Espacio recorrido
+### Desplazamiento
+
+## Concepto de velocidad
+### Velocidad media
+### Velocidad instantánea
+
+## Movimiento rectilíneo uniforme (MRU)
+### Características
+### Ecuación principal
+
+## Concepto de aceleración
+
+## Gráficas
+
+## Encuentros
+### Ejemplo resuelto
