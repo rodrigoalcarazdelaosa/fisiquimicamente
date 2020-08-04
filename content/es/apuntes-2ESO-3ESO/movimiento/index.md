@@ -151,6 +151,6 @@ Podemos comprobar esto representando la gráfica de posición frente a tiempo ($
 {{< figure library="true" src="movimiento-2ESO/encuentro-graficas.png" >}}
 
 
-donde se ve claramente cómo el coche y la moto se encuentran para $t^* = \SI{1.25}{h}$.
+donde se ve claramente cómo el coche y la moto se encuentran para $t^* = 1.25\thinspace\mathrm{h}$.
   
 {{% /alert %}}
