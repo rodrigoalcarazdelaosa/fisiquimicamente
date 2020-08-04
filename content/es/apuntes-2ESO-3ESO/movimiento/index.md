@@ -141,7 +141,7 @@ x_\mathrm c &= x_\mathrm m \\\\
 160 t &= 200
 \end{align*}
 
-Despejamos el **tiempo de encuentro** $t^*$:
+Despejamos el **tiempo de encuentro** $t^{*}$:
 $$
 t^* = \frac{\SI{200}{\cancel\kilo\m}}{\SI[per-mode=symbol]{160}{\cancel\kilo\m\per\hour}} = \SI{1.25}{h}
 $$
