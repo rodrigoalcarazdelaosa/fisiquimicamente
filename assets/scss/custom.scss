@@ -565,20 +565,20 @@ select.form-control:focus::-ms-value {
 **************************************************/
 
 .hljs {
-	color: #000000;
-	background: #eeeebb;
+	color: #fffff8;
+	background: #111111;
 }
 
 .hljs-variable, .hljs-template-variable, .hljs-tag, .hljs-name, .hljs-selector-id, .hljs-selector-class, .hljs-regexp, .hljs-deletion {
-    color: $primary;
+    color: $primary_bg;
 }
 
 .hljs-string, .hljs-symbol, .hljs-bullet, .hljs-addition {
-    color: $primary_complementary;
+    color: $primary_complementary_bg;
 }
 
 .hljs-comment, .hljs-quote {
-    color: #555555;
+    color: #dddddd;
 }
 
 /*************************************************
