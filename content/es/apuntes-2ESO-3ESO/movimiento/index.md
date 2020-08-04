@@ -27,6 +27,10 @@ links:
   url: movimiento-poster.pdf  
 ---
 
-{{% alert warning %}}
-En construcción...
-{{% /alert %}}
+{{% toc %}}
+
+## Definiciones
+### Sistema de referencia
+### Posición
+### Trayectoria
+### Espacio recorrido
