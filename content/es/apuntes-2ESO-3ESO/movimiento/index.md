@@ -45,7 +45,7 @@ Longitud del camino que realiza el móvil medido sobre la trayectoria.
 ### Desplazamiento
 Diferencia entre las posiciones final e inicial.
 
-{{< figure library="true" src="movimiento-2ESO/desplazamiento.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg." >}}
+{{< figure library="true" src="movimiento-2ESO/desplazamiento.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg." lightbox="true" >}}
 
 ## Concepto de velocidad
 ### Velocidad media
