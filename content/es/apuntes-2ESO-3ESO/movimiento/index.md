@@ -120,7 +120,7 @@ El siguiente esquema representa la situación que tenemos:
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 \begin{align*}
 \text{Coche (MRU): } x_\mathrm c &= x_{0_\mathrm c} + v_\mathrm c t \\\\
-\text{\textbf{Moto (MRU)}: } x_\mathrm m &= x_{0_\mathrm m} + v_\mathrm m t
+\text{Moto (MRU): } x_\mathrm m &= x_{0_\mathrm m} + v_\mathrm m t
 \end{align*}
 
 **Particularizamos** para nuestro caso, tomando el origen donde empieza el coche y sentido positivo hacia la derecha:
