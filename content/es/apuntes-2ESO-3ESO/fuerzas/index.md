@@ -15,16 +15,16 @@ image:
   caption: Foto de [**Andrea Piacquadio**](https://www.pexels.com/es-es/@olly) en [Pexels](https://www.pexels.com/es-es/)
   focal_point: Smart
 
-# links:
+links:
 # - icon_pack: fas
 # icon: download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
   
-# - icon_pack: fas
-#  icon: download
-#  name: Póster
-#  url: movimientos_poster.pdf  
+- icon_pack: fas
+  icon: download
+  name: Póster
+  url: fuerzas-poster.pdf  
 ---
 
 {{% alert warning %}}
