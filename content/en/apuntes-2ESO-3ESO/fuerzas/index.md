@@ -1,7 +1,7 @@
 ---
 title: Forces
 subtitle: Main Forces of Nature and Their Effects
-summary: "`COMING SOON` <br> Forces and Their Effects. Main Forces of Nature."
+summary: "`COMING SOON` <br> Main Forces of Nature and Their Effects."
 tags:
 - 13-14-year-olds
 - forces
