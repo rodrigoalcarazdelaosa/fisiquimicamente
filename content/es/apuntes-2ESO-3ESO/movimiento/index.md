@@ -147,11 +147,7 @@ t^* = \frac{\SI{200}{\cancel\kilo\m}}{\SI[per-mode=symbol]{160}{\cancel\kilo\m\p
 $$
 
 Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
-\begin{figure}[htbp]
-\includegraphics[width=.9\textwidth]{encuentro-graficas}
-%\caption{caption}
-%\label{fig:label}
-\end{figure}
+{{< figure library="true" src="movimiento-2ESO/encuentro-graficas.png" >}}
 
 
 donde se ve claramente cómo el coche y la moto se encuentran para $t^* = \SI{1.25}{h}$.
