@@ -60,6 +60,7 @@ $$
 siendo $\Delta x$ el espacio recorrido y $\Delta t$ el tiempo transcurrido.
 
 ### Velocidad instantánea
+Es la velocidad que tiene un móvil en un determinado instante de tiempo. Se puede entender como el límite de la velocidad media cuando el intervalo de tiempo tiende a cero.
 
 ## Movimiento rectilíneo uniforme (MRU)
 ### Características
