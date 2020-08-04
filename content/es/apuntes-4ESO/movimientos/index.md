@@ -226,7 +226,7 @@ a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada 
 
 **Particularizamos** para nuestro caso:
 \begin{gather*}
-x_{0\mathrm c}=x_{0\mathrm t}=0 \\\\
+x_{0_\mathrm c}=x_{0_\mathrm t}=0 \\\\
 v_{0\mathrm c}=0;\quad v_\mathrm t = 12\thinspace\mathrm{m/s} \\\\
 a_\mathrm c = 2\thinspace\mathrm{m/s^2} \\\\
 t_{0\mathrm c}=6\thinspace\mathrm s;\quad t_{0\mathrm t} = 0
