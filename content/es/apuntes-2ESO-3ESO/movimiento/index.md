@@ -125,8 +125,8 @@ a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada 
 
 **Particularizamos** para nuestro caso, tomando el origen donde empieza el coche y sentido positivo hacia la derecha:
 \begin{gather*}
-x_{0_\mathrm c}=0;\quad x_{0_\mathrm m}=\SI{200}{km} \\\\
-v_\mathrm c=\SI{70}{km/h};\quad v_\mathrm m = -\SI{90}{km/h}
+x_{0_\mathrm c}=0;\quad x_{0_\mathrm m}=200\thinspace\mathrm{km} \\\\
+v_\mathrm c=70\thinspace\mathrm{km/h};\quad v_\mathrm m = -90\thinspace\mathrm{km/h}
 \end{gather*}
 
 \begin{align*}
