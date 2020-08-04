@@ -152,5 +152,14 @@ Podemos comprobar esto representando la gráfica de posición frente a tiempo ($
 
 
 donde se ve claramente cómo el coche y la moto se encuentran para $t^* = 1.25\thinspace\mathrm{h}$.
+
+---
+
+b) Para calcular la \textbf{distancia recorrida} por cada uno de ellos, sustituimos el tiempo de encuentro, $t^*=\SI{1.25}{\hour}$, en las ecuaciones de posición del coche y de la moto, teniendo en cuenta las posiciones iniciales de cada uno de ellos:
+\begin{align*}
+	  	\Delta x_\mathrm c (t^*) &= x_\mathrm c (t^*) - x_{0_\mathrm c} = 70\cdot 1.25 = \SI{87.5}{km} \\
+	  	\Delta x_\mathrm m (t^*) &= x_\mathrm m (t^*) - x_{0_\mathrm m} = 200-90\cdot 1.25 - 200 = -\SI{112.5}{km}
+\end{align*}
+donde el signo $-$ indica que la moto ha recorrido esa distancia hacia la izquierda.
   
 {{% /alert %}}
