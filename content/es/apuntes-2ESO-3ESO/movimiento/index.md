@@ -64,7 +64,21 @@ Es la velocidad que tiene un móvil en un determinado instante de tiempo. Se pue
 
 ## Movimiento rectilíneo uniforme (MRU)
 ### Características
+Las **características** del **movimiento rectilíneo uniforme (MRU)** son:
+
+- Trayectoria rectilínea.
+- Velocidad $v$ constante (aceleración $a=0$).
+
 ### Ecuación principal
+
+La **ecuación principal**[^1] del MRU es:
+[^1]: Esta es la llamada **ecuación del movimiento** o **ecuación de la posición**, pues nos da la posición $x$ en función del tiempo $t$.
+
+$$
+x(t) = x_0 + v(t-t_0),
+$$
+
+donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $t$ el tiempo final y $t_0$ el tiempo inicial.
 
 ## Concepto de aceleración
 
