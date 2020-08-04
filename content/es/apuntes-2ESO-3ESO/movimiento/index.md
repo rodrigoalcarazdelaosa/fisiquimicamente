@@ -1,7 +1,7 @@
 ---
 title: El movimiento
 subtitle: Conceptos de velocidad y aceleración
-summary: "`EN CONSTRUCCIÓN` <br> Conceptos de velocidad y aceleración."
+summary: "Conceptos de velocidad y aceleración."
 tags:
 - 2º ESO
 - movimiento
