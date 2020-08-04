@@ -81,6 +81,11 @@ $$
 donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $t$ el tiempo final y $t_0$ el tiempo inicial.
 
 ## Concepto de aceleración
+La **aceleración** mide cómo cambia la velocidad de un móvil respecto al tiempo:
+$$
+a = \frac{\Delta v}{\Delta t} = \frac{v-v_0}{t-t_0},
+$$
+donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $t$ y $t_0$ son el tiempo final e inicial, respectivamente. En el \textbf{SI} se mide en \si{m/s^2}.
 
 ## Gráficas
 
