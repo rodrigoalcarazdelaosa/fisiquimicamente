@@ -144,7 +144,7 @@ x_\mathrm c &= x_\mathrm m \\\\
 Despejamos el **tiempo de encuentro** $t^*$:
 
 $$
-t^* = \frac{\SI{200}{\cancel\kilo\m}}{\SI[per-mode=symbol]{160}{\cancel\kilo\m\per\hour}} = \SI{1.25}{h}
+t^* = \frac{200\thinspace\mathrm{\cancel{km}}}{\SI[per-mode=symbol]{160}{\cancel\kilo\m\per\hour}} = \SI{1.25}{h}
 $$
 
 Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
