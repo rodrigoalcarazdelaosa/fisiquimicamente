@@ -4,7 +4,6 @@ subtitle: Main Forces of Nature and Their Effects
 summary: "`COMING SOON` <br> Forces and Their Effects. Main Forces of Nature."
 tags:
 - 13-14-year-olds
-- motion
 - forces
 categories:
 - Physics
