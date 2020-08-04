@@ -34,9 +34,19 @@ links:
 Conjunto de puntos respecto de los cuales definimos las posiciones.
 
 ### Posición
+Lugar que ocupa un cuerpo en el espacio.
+
 ### Trayectoria
+Línea imaginaria formada por el conjunto de puntos por los que pasa un cuerpo al moverse.
+
 ### Espacio recorrido
+Longitud del camino que realiza el móvil medido sobre la trayectoria.
+
 ### Desplazamiento
+Diferencia entre las posiciones final e inicial.
+
+{{< figure library="true" src="desplazamiento.svg" title="Adaptada de
+https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg." >}}
 
 ## Concepto de velocidad
 ### Velocidad media
