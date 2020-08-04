@@ -50,6 +50,8 @@ La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **de
 {{< figure library="true" src="movimiento-2ESO/desplazamiento.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg." lightbox="false" width="100%">}}
 
 ## Concepto de velocidad
+La **velocidad** mide cómo cambia la posición de un móvil respecto al tiempo. En el SI se mide en m/s.
+
 ### Velocidad media
 ### Velocidad instantánea
 
