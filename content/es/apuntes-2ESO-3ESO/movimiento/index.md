@@ -130,8 +130,8 @@ v_\mathrm c=70\thinspace\mathrm{km/h};\quad v_\mathrm m = -90\thinspace\mathrm{k
 \end{gather*}
 
 \begin{align*}
-\text{\textbf{Coche (MRU)}: } x_\mathrm c &= 0 + 70 t = 70t \\\\
-\text{\textbf{Moto (MRU)}: } x_\mathrm m &= 200 - 90t
+\text{Coche (MRU): } x_\mathrm c &= 0 + 70 t = 70t \\\\
+\text{Moto (MRU): } x_\mathrm m &= 200 - 90t
 \end{align*}
 
 A continuación imponemos la **condición de encuentro**:
