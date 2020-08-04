@@ -119,7 +119,7 @@ El siguiente esquema representa la situación que tenemos:
 
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 \begin{align*}
-\text{\textbf{Coche (MRU)}: } x_\mathrm c &= x_{0_\mathrm c} + v_\mathrm c t \\\\
+\text{Coche (MRU): } x_\mathrm c &= x_{0_\mathrm c} + v_\mathrm c t \\\\
 \text{\textbf{Moto (MRU)}: } x_\mathrm m &= x_{0_\mathrm m} + v_\mathrm m t
 \end{align*}
 
