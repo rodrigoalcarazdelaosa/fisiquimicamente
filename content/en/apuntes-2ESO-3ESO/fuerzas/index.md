@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Image by [**Steve Sewell**](https://pixabay.com/es/users/sms467-1386127/) on [Pixabay](https://pixabay.com/es/)
+  caption: Photo by [**Andrea Piacquadio**](https://www.pexels.com/es-es/@olly) on [Pexels](https://www.pexels.com/es-es/)
   focal_point: Smart
 
 # links:
