@@ -27,11 +27,11 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Definiciones
 
-- [Sistema de referencia](#/3/1)
-- [Posición](#/3/2)
-- [Trayectoria](#/3/3)
-- [Espacio recorrido](#/3/3)
-- [Desplazamiento](#/3/3)
+- [Sistema de referencia](#/1/1)
+- [Posición](#/1/2)
+- [Trayectoria](#/1/3)
+- [Espacio recorrido](#/1/4)
+- [Desplazamiento](#/1/5)
 
 (continúa hacia abajo)
 
