@@ -213,7 +213,7 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 ---
 
 ### Movimiento uniforme
-{{< figure library="true" src="movimiento-2ESO/graficas-MRU.png" lightbox="false"> width="50%"}}
+{{< figure library="true" src="movimiento-2ESO/graficas-MRU.png" lightbox="false" width="50%" >}}
 
 ---
 
