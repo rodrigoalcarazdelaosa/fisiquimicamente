@@ -115,7 +115,17 @@ $$
 
 ---
 
-b)
+b) Para calcular qué velocidad tiene a los 5$\thinspace$s utilizamos la expresión:
+
+$$
+v = v_0 + a\cdot \Delta t,
+$$
+
+con $v_0 = 0$, $a = 7.86\thinspace\mathrm{m/s^2}$ y $\Delta t = 5\thinspace\mathrm s$. Sustituyendo:
+
+$$
+v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s = 39.3\thinspace\mathrm{m/s} = 141.5\thinspace\mathrm{km/h}
+$$
 
 {{% /alert %}}
 
