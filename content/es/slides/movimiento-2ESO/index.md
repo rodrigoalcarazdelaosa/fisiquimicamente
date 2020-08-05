@@ -285,11 +285,15 @@ x_\mathrm c &= x_\mathrm m \\\\
 160 t &= 200
 \end{align*}
 
+---
+
 Despejamos el **tiempo de encuentro** $t^*$:
 
 $$
-t^* = \frac{200\thinspace\mathrm{\cancel{km}}}{160\thinspace\mathrm{\cancel{km}/h}} = 1.25\thinspace\mathrm{h}
+t^* = \frac{200\thinspace\mathrm{km}}{160\thinspace\mathrm{km/h}} = 1.25\thinspace\mathrm{h}
 $$
+
+---
 
 Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
 {{< figure library="true" src="movimiento-2ESO/encuentro-graficas.png" >}}
