@@ -89,7 +89,9 @@ donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $t$ y 
 
 ### Ejemplo resuelto
 {{% alert example %}}
-> Un Fórmula 1 es capaz de acelerar de 0 a 300$\thinspace$km/h en 10.6$\thinspace$s. ¿Qué velocidad alcanza el monoplaza tras recorrer la pista de \SI{2}{mi}? Compárala con la velocidad de despegue del avión.
+> Un Fórmula 1 es capaz de acelerar de 0 a 300$\thinspace$km/h en 10.6$\thinspace$s.<br>
+a) ¿Cuál es su aceleración?<br>
+b) ¿Qué velocidad lleva a los 5$\thinspace$s?
 
 ---
 
