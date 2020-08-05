@@ -14,7 +14,7 @@ slides:
 
 - [Definiciones](#/3)
 - [Concepto de velocidad](#/4)
-- [MRU](#/5)
+- [Movimiento rectilíneo uniforme (MRU)](#/5)
 - [Concepto de aceleración](#/6)
 - [Gráficas](#/7)
 - [Encuentros](#/8)
