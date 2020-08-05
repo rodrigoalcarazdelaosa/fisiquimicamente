@@ -203,8 +203,17 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 {{% section %}}
 
 ## Gráficas
+- [Movimiento uniforme](#/5/1)
+- [Movimiento acelerado](#/5/2)
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Movimiento uniforme
-{{< figure library="true" src="movimiento-2ESO/graficas-MRU.png" >}}
+{{< figure library="true" src="movimiento-2ESO/graficas-MRU.png" lightbox="false">}}
 
 ### Movimiento acelerado
 {{< figure library="true" src="movimiento-2ESO/graficas-MRUV.png" >}}
