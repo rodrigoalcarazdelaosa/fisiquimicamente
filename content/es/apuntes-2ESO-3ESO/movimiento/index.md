@@ -75,10 +75,10 @@ La **ecuación principal**[^1] del MRU es:
 [^1]: Esta es la llamada **ecuación del movimiento** o **ecuación de la posición**, pues nos da la posición $x$ en función del tiempo $t$.
 
 $$
-x(t) = x_0 + v\cdot(t-t_0),
+x(t) = x_0 + v\cdot\Delta t,
 $$
 
-donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $t$ el tiempo final y $t_0$ el tiempo inicial.
+donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad y $\Delta t$ el tiempo transcurrido.
 
 ## Concepto de aceleración
 La **aceleración** mide cómo cambia la velocidad de un móvil respecto al tiempo:
@@ -100,6 +100,8 @@ a) Lo primero pasamos la velocidad a m/s:
 $$
 v = 300\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}}\cdot \frac{1000\thinspace\mathrm m}{\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm h}}{3600\thinspace\mathrm s} = 83.\overline{3}\thinspace\mathrm{m/s}
 $$
+
+Calculamos la aceleración con la expresión
 
 ---
 
