@@ -95,7 +95,11 @@ b) ¿Qué velocidad lleva a los 5$\thinspace$s?
 
 ---
 
-a) 
+a) Lo primero pasamos la velocidad a m/s:
+
+$$
+v = 300\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}}\cdot \frac{1000\thinspace\mathrm m}{\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm h}}{3600\thinspace\mathrm s} = 83.3\thinspace\mathrm{m/s}
+$$
 
 ---
 
