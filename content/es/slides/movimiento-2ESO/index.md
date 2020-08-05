@@ -12,7 +12,7 @@ slides:
 
 # El movimiento
 
-- [Definiciones](#/3)
+- [Definiciones](#/2)
 - [Concepto de velocidad](#/4)
 - [Movimiento rectilíneo uniforme (MRU)](#/5)
 - [Concepto de aceleración](#/6)
@@ -23,24 +23,15 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
-La **energía** es la capacidad para realizar un trabajo.
-
-Se mide en **julios** ($1\thinspace \mathrm{J} = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}$).
-
----
-
-## Simulación
-<iframe src="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
-
----
-
 {{% section %}}
 
-## Energías cinética, potencial y mecánica
+## Definiciones
 
-- [Energía cinética](#/3/1)
-- [Energía potencial](#/3/2)
-- [Energía mecánica](#/3/3)
+- [Sistema de referencia](#/3/1)
+- [Posición](#/3/2)
+- [Trayectoria](#/3/3)
+- [Espacio recorrido](#/3/3)
+- [Desplazamiento](#/3/3)
 
 (continúa hacia abajo)
 
