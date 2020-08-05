@@ -75,7 +75,7 @@ La **ecuación principal**[^1] del MRU es:
 [^1]: Esta es la llamada **ecuación del movimiento** o **ecuación de la posición**, pues nos da la posición $x$ en función del tiempo $t$.
 
 $$
-x(t) = x_0 + v(t-t_0),
+x(t) = x_0 + v\cdot(t-t_0),
 $$
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $t$ el tiempo final y $t_0$ el tiempo inicial.
