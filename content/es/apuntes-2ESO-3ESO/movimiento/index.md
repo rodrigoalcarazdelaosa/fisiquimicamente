@@ -95,6 +95,8 @@ b) ¿Qué velocidad lleva a los 5$\thinspace$s?
 
 ---
 
+a) 
+
 {{% /alert %}}
 
 ## Gráficas
