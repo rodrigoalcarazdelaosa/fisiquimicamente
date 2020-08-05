@@ -154,7 +154,6 @@ donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $\Delt
 ---
 
 ### Ejemplo resuelto
-{{% alert example %}}
 <q>Un F1 es capaz de acelerar de 0 a 300$\thinspace$km/h en 10.6$\thinspace$s.<br>
 a) ¿Cuál es su aceleración?<br>
 b) ¿Qué velocidad lleva a los 5$\thinspace$s?
@@ -197,7 +196,7 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 &= 141.5\thinspace\mathrm{km/h}
 \end{align*}
 
-{{% /alert %}}
+---
 
 ## Gráficas
 ### Movimiento uniforme
