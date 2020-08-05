@@ -303,7 +303,5 @@ b) Para calcular la **distancia recorrida** por cada uno de ellos, sustituimos e
 \end{align*}
 
 donde el signo $-$ indica que la moto ha recorrido esa distancia hacia la izquierda.
-  
-{{% /alert %}}
 
 {{% /section %}}
