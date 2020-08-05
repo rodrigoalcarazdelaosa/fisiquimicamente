@@ -88,7 +88,12 @@ $$
 donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $t$ y $t_0$ son el tiempo final e inicial, respectivamente. En el **SI** se mide en m/s<sup>2</sup>.
 
 ### Ejemplo resuelto
-Un Fórmula 1 es capaz de acelerar de \SI{0} a \SI{300}{km/h} en \SI{10.6}{s}. ¿Qué velocidad alcanza el monoplaza tras recorrer la pista de \SI{2}{mi}? Compárala con la velocidad de despegue del avión.
+{{% alert example %}}
+> Un Fórmula 1 es capaz de acelerar de \SI{0} a \SI{300}{km/h} en \SI{10.6}{s}. ¿Qué velocidad alcanza el monoplaza tras recorrer la pista de \SI{2}{mi}? Compárala con la velocidad de despegue del avión.
+
+---
+
+{{% /alert %}}
 
 ## Gráficas
 ### Movimiento uniforme
