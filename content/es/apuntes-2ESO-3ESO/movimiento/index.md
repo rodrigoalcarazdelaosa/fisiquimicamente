@@ -101,7 +101,17 @@ $$
 v = 300\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}}\cdot \frac{1000\thinspace\mathrm m}{\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm h}}{3600\thinspace\mathrm s} = 83.\overline{3}\thinspace\mathrm{m/s}
 $$
 
-Calculamos la aceleración con la expresión
+Calculamos la aceleración con la expresión:
+
+$$
+a = \frac{v-v_0}{\Delta t},
+$$
+
+donde $v = 83.\overline{3}\thinspace\mathrm{m/s}$, $v_0 = 0$ y $\Delta t = 10.6\thinspace\mathrm{s}$. Sustituyendo:
+
+$$
+a = \frac{83.\overline{3}\thinspace\mathrm{m/s} - 0}{10.6\thinspace\mathrm{s}} = 7.86\thinspace\mathrm{m/s^2}
+$$
 
 ---
 
