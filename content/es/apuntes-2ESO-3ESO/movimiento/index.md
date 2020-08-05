@@ -83,9 +83,12 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $
 ## Concepto de aceleración
 La **aceleración** mide cómo cambia la velocidad de un móvil respecto al tiempo:
 $$
-a = \frac{\Delta v}{\Delta t} = \frac{v-v_0}{t-t_0},
+a = \frac{\Delta v}{\Delta t} = \frac{v-v_0}{t-t_0} \Rightarrow v = v_0 + a(t-t_0),
 $$
 donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $t$ y $t_0$ son el tiempo final e inicial, respectivamente. En el **SI** se mide en m/s<sup>2</sup>.
+
+### Ejemplo resuelto
+Un Fórmula 1 es capaz de acelerar de \SI{0} a \SI{300}{km/h} en \SI{10.6}{s}. ¿Qué velocidad alcanza el monoplaza tras recorrer la pista de \SI{2}{mi}? Compárala con la velocidad de despegue del avión.
 
 ## Gráficas
 ### Movimiento uniforme
