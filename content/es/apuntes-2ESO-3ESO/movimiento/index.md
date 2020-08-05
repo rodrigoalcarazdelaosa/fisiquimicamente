@@ -24,7 +24,9 @@ links:
 - icon_pack: fas
   icon: download
   name: Póster
-  url: movimiento-poster.pdf  
+  url: movimiento-poster.pdf
+  
+slides: movimiento-2ESO  
 ---
 
 {{% toc %}}
