@@ -103,10 +103,9 @@ Es la velocidad que tiene un móvil en un determinado instante de tiempo. Se pue
 
 {{% section %}}
 
-## Intercambio de energía
-La energía se puede intercambiar/transferir mediante: 
-- [Trabajo $W$](#/5/1)
-- [Calor $Q$](#/5/2)
+## Movimiento rectilíneo uniforme (MRU)
+- [Características](#/5/1)
+- [Ecuación principal](#/5/2)
 
 (continúa hacia abajo)
 
@@ -114,25 +113,24 @@ La energía se puede intercambiar/transferir mediante:
 
 ---
 
-### Trabajo $W$
-El **trabajo** se transfiere cuando entre dos cuerpos se realizan **fuerzas** que provocan desplazamientos o cambios en sus dimensiones.
+### Características
+Las **características** del **movimiento rectilíneo uniforme (MRU)** son:
 
-El trabajo $W$ realizado por una fuerza $\vec F$ constante viene dado por:
-$$
-W = \vec F\cdot \vec d = F\cdot d \cdot \cos\alpha,
-$$
-donde $F$ es el módulo de la fuerza aplicada, $d$ el espacio recorrido y $\cos\alpha$ es el coseno del ángulo formado por la fuerza y el desplazamiento.
+- Trayectoria rectilínea.
+- Velocidad $v$ constante (aceleración $a=0$).
 
 ---
 
-### Calor $Q$
-El **calor** se transfiere entre dos cuerpos que tienen **diferente temperatura**, de forma que el calor cedido por el cuerpo a mayor temperatura es igual al calor ganado por el que está a menor temperatura:
+### Ecuación principal
+
+La **ecuación principal**[^1] del MRU es:
+[^1]: Esta es la llamada **ecuación del movimiento** o **ecuación de la posición**, pues nos da la posición $x$ en función del tiempo $t$.
 
 $$
-Q_\text{cedido} + Q_\text{ganado} = 0
+x(t) = x_0 + v\cdot\Delta t,
 $$
 
-Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
+donde $x$ y $x_0$ son las posiciones final e inicial, respectivamente; $v$ la velocidad y $\Delta t$ el tiempo transcurrido.
 
 {{% /section %}}
 
