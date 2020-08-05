@@ -255,6 +255,8 @@ El siguiente esquema representa la situación que tenemos:
 
 {{< figure src="encuentro-planteamiento.png" lightbox="false" >}}
 
+---
+
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 \begin{align*}
 \text{Coche (MRU): } x_\mathrm c &= x_{0_\mathrm c} + v_\mathrm c\cdot t \\\\
