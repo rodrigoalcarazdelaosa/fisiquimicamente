@@ -12,12 +12,12 @@ slides:
 
 # El movimiento
 
-- [Definiciones](#/2)
-- [Concepto de velocidad](#/4)
-- [Movimiento rectilíneo uniforme (MRU)](#/5)
-- [Concepto de aceleración](#/6)
-- [Gráficas](#/7)
-- [Encuentros](#/8)
+- [Definiciones](#/1)
+- [Concepto de velocidad](#/2)
+- [Movimiento rectilíneo uniforme (MRU)](#/3)
+- [Concepto de aceleración](#/4)
+- [Gráficas](#/5)
+- [Encuentros](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](movimiento-diapositivas.pdf)
 
