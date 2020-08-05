@@ -229,6 +229,12 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 ## Encuentros
 Se trata de situaciones en las que dos cuerpos comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
 
+(continúa hacia abajo)
+
+👇
+
+---
+
 Seguimos estos **tres pasos**:
 
 1. **Escribir** las **ecuaciones de la posición** de cada cuerpo.
