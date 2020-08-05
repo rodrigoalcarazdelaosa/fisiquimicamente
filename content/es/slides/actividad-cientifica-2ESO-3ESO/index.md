@@ -225,7 +225,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Instrumental
 
-{{< figure library="true" src="actividad-cientifica-2ESO-3ESO/instrumental.png" lightbox="false" width="30%" >}}
+{{< figure library="true" src="actividad-cientifica-2ESO-3ESO/instrumental.png" lightbox="false" width="50%" >}}
 
 ---
 
