@@ -74,10 +74,10 @@ La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **de
 
 {{% section %}}
 
-## Conservación de la energía
+## Concepto de velocidad
 
-- [Principio de conservación de la energía mecánica](#/4/1)
-- [Principio de conservación de la energía](#/4/2)
+- [Velocidad media](#/4/1)
+- [Velocidad instantánea](#/4/2)
 
 (continúa hacia abajo)
 
