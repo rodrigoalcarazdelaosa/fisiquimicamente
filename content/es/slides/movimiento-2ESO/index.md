@@ -307,7 +307,8 @@ b) Para calcular la **distancia recorrida** por cada uno de ellos, sustituimos e
 
 \begin{align*}
 \Delta x_\mathrm c (t^*) &= x_\mathrm c (t^*) - x_{0_\mathrm c} = 70\cdot 1.25 = 87.5\thinspace\mathrm{km} \\\\
-\Delta x_\mathrm m (t^*) &= x_\mathrm m (t^*) - x_{0_\mathrm m} = 200-90\cdot 1.25 - 200 = -112.5\thinspace\mathrm{km}
+\Delta x_\mathrm m (t^*) &= x_\mathrm m (t^*) - x_{0_\mathrm m} &= 200-90\cdot 1.25 - 200 \\\\
+&= -112.5\thinspace\mathrm{km}
 \end{align*}
 
 donde el signo $-$ indica que la moto ha recorrido esa distancia hacia la izquierda.
