@@ -263,6 +263,8 @@ a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada 
 \text{Moto (MRU): } x_\mathrm m &= x_{0_\mathrm m} + v_\mathrm m\cdot t
 \end{align*}
 
+---
+
 **Particularizamos** para nuestro caso, tomando el origen donde empieza el coche y sentido positivo hacia la derecha:
 \begin{gather*}
 x_{0_\mathrm c}=0;\quad x_{0_\mathrm m}=200\thinspace\mathrm{km} \\\\
