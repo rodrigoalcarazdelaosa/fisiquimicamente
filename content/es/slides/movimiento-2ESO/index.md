@@ -253,7 +253,7 @@ b) ¿Qué distancia ha recorrido cada uno de ellos?
 
 El siguiente esquema representa la situación que tenemos:
 
-{{< figure library="true" src="movimiento-2ESO/encuentro-planteamiento.png" >}}
+{{< figure src="encuentro-planteamiento.png" lightbox="false" >}}
 
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 \begin{align*}
