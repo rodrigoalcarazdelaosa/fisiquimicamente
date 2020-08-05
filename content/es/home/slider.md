@@ -23,7 +23,7 @@ height = "calc(100vh - 70px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "apuntes.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "apuntes.jpg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -42,7 +42,7 @@ height = "calc(100vh - 70px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "ebau.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "ebau.jpg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -59,7 +59,7 @@ height = "calc(100vh - 70px)"
   align = "center"
 
   # overlay_color = "#FFFFFF"  # An HTML color value.
-  overlay_img = "tutoriales.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "tutoriales.jpg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
@@ -76,7 +76,7 @@ height = "calc(100vh - 70px)"
   align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "enlaces-interes.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "enlaces-interes.jpg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
@@ -93,7 +93,7 @@ height = "calc(100vh - 70px)"
   align = "center"
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "blog.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "blog.png"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
@@ -110,7 +110,7 @@ height = "calc(100vh - 70px)"
   align = "right"
 
   # overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "sobre-mi.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "sobre-mi.jpg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).
@@ -127,7 +127,7 @@ height = "calc(100vh - 70px)"
   align = "left"
 
   # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "contacto.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "contacto.jpg"  # Image path relative to your `static/media/` folder.
   # overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
   # Call to action button (optional).

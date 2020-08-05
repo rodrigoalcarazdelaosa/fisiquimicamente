@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 title = "📚 Physics and Chemistry notes"
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+# Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = ""
 
 [design.background]
@@ -24,7 +24,7 @@ hero_media = ""
   # gradient_end = "#dddddd"
   
   # Background image.
-  image = "apuntes.jpg"  # Name of image in `static/img/`.
+  image = "apuntes.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
