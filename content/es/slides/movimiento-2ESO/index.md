@@ -66,7 +66,7 @@ Diferencia entre las posiciones final e inicial.
 
 La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **desplazamiento**:
 
-{{< figure library="true" src="movimiento-2ESO/desplazamiento.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg." lightbox="false" width="80%">}}
+{{< figure library="true" src="movimiento-2ESO/desplazamiento.svg" lightbox="false" width="90%">}}
 
 {{% /section %}}
 
