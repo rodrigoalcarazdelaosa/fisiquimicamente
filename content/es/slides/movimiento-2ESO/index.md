@@ -19,7 +19,7 @@ slides:
 - [Gráficas](#/7)
 - [Encuentros](#/8)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](energia-trabajo-calor-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](movimiento-diapositivas.pdf)
 
 ---
 
