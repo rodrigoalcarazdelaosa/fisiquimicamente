@@ -12,12 +12,12 @@ slides:
 
 # El movimiento
 
-- [Energías cinética, potencial y mecánica](#/3)
-- [Conservación de la energía](#/4)
-- [Intercambio de energía](#/5)
-- [Trabajo y potencia](#/6)
-- [Efectos del calor sobre los cuerpos](#/7)
-- [Máquinas térmicas](#/8)
+- [Definiciones](#/3)
+- [Concepto de velocidad](#/4)
+- [MRU](#/5)
+- [Concepto de aceleración](#/6)
+- [Gráficas](#/7)
+- [Encuentros](#/8)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](energia-trabajo-calor-diapositivas.pdf)
 
