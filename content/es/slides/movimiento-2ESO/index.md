@@ -76,8 +76,8 @@ La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **de
 
 ## Concepto de velocidad
 
-- [Velocidad media](#/4/1)
-- [Velocidad instantánea](#/4/2)
+- [Velocidad media](#/2/1)
+- [Velocidad instantánea](#/2/2)
 
 (continúa hacia abajo)
 
