@@ -276,6 +276,8 @@ v_\mathrm c=70\thinspace\mathrm{km/h};\quad v_\mathrm m = -90\thinspace\mathrm{k
 \text{Moto (MRU): } x_\mathrm m &= 200 - 90t
 \end{align*}
 
+---
+
 A continuación imponemos la **condición de encuentro**:
 \begin{align*}		
 x_\mathrm c &= x_\mathrm m \\\\
