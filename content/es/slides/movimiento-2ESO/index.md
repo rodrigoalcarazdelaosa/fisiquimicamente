@@ -196,7 +196,11 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 &= 141.5\thinspace\mathrm{km/h}
 \end{align*}
 
+{{% /section %}}
+
 ---
+
+{{% section %}}
 
 ## Gráficas
 ### Movimiento uniforme
