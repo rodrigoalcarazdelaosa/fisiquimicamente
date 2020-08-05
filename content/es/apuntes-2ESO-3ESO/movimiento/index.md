@@ -78,7 +78,7 @@ $$
 x(t) = x_0 + v\cdot\Delta t,
 $$
 
-donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad y $\Delta t$ el tiempo transcurrido.
+donde $x$ y $x_0 son las posiciones final e inicial, respectivamente; $v$ la velocidad y $\Delta t$ el tiempo transcurrido.
 
 ## Concepto de aceleración
 La **aceleración** mide cómo cambia la velocidad de un móvil respecto al tiempo:
