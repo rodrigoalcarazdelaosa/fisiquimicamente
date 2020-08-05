@@ -39,28 +39,34 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
-### Energía cinética $E_\mathrm c$
-Es la energía que posee un cuerpo por el hecho de estar en **movimiento**. Depende de la masa $m$ y de la velocidad $v$:
-$$
-E_\mathrm c = \frac{1}{2}mv^2
-$$
+### Sistema de referencia
+Conjunto de puntos respecto de los cuales definimos las posiciones.
 
 ---
 
-### Energía potencial $E_\mathrm p$
-Es la energía que posee un cuerpo debido a su **posición** y/o **configuración**. La energía potencial **gravitatoria** que posee una masa $m$ situada a una altura $h$ sobre la superficie terrestre vale:
-$$
-E_\mathrm p = m g h,
-$$
-donde $h\ll R_\mathrm T$ (con $R_\mathrm T$ el radio de la Tierra) y $g$ es el valor de la aceleración de la gravedad.
+### Posición
+Lugar que ocupa un cuerpo en el espacio.
 
 ---
 
-### Energía mecánica $E_\mathrm m$
-Es la **suma** de la energía **cinética** $E\_\mathrm{c}$ y la energía **potencial** $E_\mathrm{p}$:
-$$
-E_\mathrm m = E_\mathrm c + E_\mathrm p
-$$
+### Trayectoria
+Línea imaginaria formada por el conjunto de puntos por los que pasa un cuerpo al moverse.
+
+---
+
+### Espacio recorrido
+Longitud del camino que realiza el móvil medido sobre la trayectoria.
+
+---
+
+### Desplazamiento
+Diferencia entre las posiciones final e inicial.
+
+---
+
+La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **desplazamiento**:
+
+{{< figure library="true" src="movimiento-2ESO/desplazamiento.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Distancedisplacement.svg." lightbox="false" width="100%">}}
 
 {{% /section %}}
 
