@@ -104,8 +104,8 @@ Es la velocidad que tiene un móvil en un determinado instante de tiempo. Se pue
 {{% section %}}
 
 ## Movimiento rectilíneo uniforme (MRU)
-- [Características](#/5/1)
-- [Ecuación principal](#/5/2)
+- [Características](#/3/1)
+- [Ecuación principal](#/3/2)
 
 (continúa hacia abajo)
 
