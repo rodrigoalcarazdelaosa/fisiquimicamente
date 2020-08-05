@@ -155,7 +155,7 @@ donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $\Delt
 
 ### Ejemplo resuelto
 {{% alert example %}}
-<q>Un Fórmula 1 es capaz de acelerar de 0 a 300$\thinspace$km/h en 10.6$\thinspace$s.<br>
+<q>Un F1 es capaz de acelerar de 0 a 300$\thinspace$km/h en 10.6$\thinspace$s.<br>
 a) ¿Cuál es su aceleración?<br>
 b) ¿Qué velocidad lleva a los 5$\thinspace$s?
 </q>
