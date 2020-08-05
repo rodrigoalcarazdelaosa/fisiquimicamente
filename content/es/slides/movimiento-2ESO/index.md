@@ -241,13 +241,13 @@ Seguimos estos **tres pasos**:
 2. **Imponer** la condición de **encuentro**, es decir, que ambas posiciones coinciden cuando se encuentran.
 3. **Despejar** la magnitud que me pidan.
 
-### Ejemplo resuelto
-{{% alert example %}}
-<br>
+---
 
-> Un coche y una moto salen uno hacia el otro desde dos ciudades que distan 200$\thinspace$km, con velocidades de 70$\thinspace$km/h y 90$\thinspace$km/h, respectivamente. Calcula:<br>
+### Ejemplo resuelto
+<q>Un coche y una moto salen uno hacia el otro desde dos ciudades que distan 200$\thinspace$km, con velocidades de 70$\thinspace$km/h y 90$\thinspace$km/h, respectivamente. Calcula:<br>
 a) ¿Cuánto tiempo tardarán en encontrarse?<br>
 b) ¿Qué distancia ha recorrido cada uno de ellos?
+</q>
 
 ---
 
