@@ -81,7 +81,7 @@ $$
 donde $x$ y $x_0$ son las posiciones final e inicial, respectivamente; $v$ la velocidad y $\Delta t$ el tiempo transcurrido.
 
 ## Concepto de aceleración
-La **aceleración** mide cómo cambia la velocidad de un móvil respecto al tiempo:
+La **aceleración** $a$ mide cómo cambia la velocidad de un móvil respecto al tiempo:
 $$
 a = \frac{\Delta v}{\Delta t} = \frac{v-v_0}{\Delta t} \Rightarrow v = v_0 + a\cdot \Delta t,
 $$
