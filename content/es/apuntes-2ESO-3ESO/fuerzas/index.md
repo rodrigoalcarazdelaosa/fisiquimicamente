@@ -78,6 +78,8 @@ P\cdot B_P = R\cdot B_R
 $$
 
 ### Torno
+{{< figure library="true" src="fuerzas-2ESO/torno.png" title="Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/36300/36344/wheelaxle2_36344.htm)." lightbox="true" >}}
+
 ### Polea
 ### Plano inclinado
 ### Cuña
