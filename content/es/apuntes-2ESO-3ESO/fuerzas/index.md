@@ -52,9 +52,11 @@ Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A un
 
 ### Ley de Hooke
 La **ley de Hooke** relaciona el alargamiento o elongación, $\Delta x$, que sufre un muelle o resorte bajo la acción de una cierta fuerza $F$:
-\[
+
+$$
 F = k\cdot \Delta x,
-\]
+$$
+
 donde $k$ es la llamada **constante de elasticidad** del muelle. Como se puede ver en la figura, el **alargamiento** sufrido por el muelle es **proporcional** a la **fuerza** ejercida sobre él.
 
 \begin{center}
