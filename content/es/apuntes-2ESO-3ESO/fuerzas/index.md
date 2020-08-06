@@ -92,10 +92,11 @@ $$
 ### Tornillo
 {{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" width="50%" >}}
 
-## Fuerza de rozamiento
+## Principales fuerzas de la naturaleza
+### Rozamiento
 La fuerza de **rozamiento** está asociada al **contacto** entre **superficies** rugosas.
 
-### Características
+#### Características
 - Se genera debido a las **imperfecciones**, que en mayor parte son microscópicas, entre las **superficies** en contacto.
 - Siempre **se opone al movimiento**.
 - Es **paralela** a la **superficie** de apoyo.
@@ -103,10 +104,12 @@ La fuerza de **rozamiento** está asociada al **contacto** entre **superficies**
 	- La **naturaleza** y el **estado** de las **superficies**.
 	- La **fuerza** que **ejerce** un **cuerpo** sobre otro.
 
-{{< figure library="true" src="fuerzas-2ESO/rozamiento.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Fricci%C3%B3n_01.svg." lightbox="true" >}}		
+{{< figure library="true" src="fuerzas-2ESO/rozamiento.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Fricci%C3%B3n_01.svg." lightbox="true" >}}
 
-## Principales fuerzas de la naturaleza
-### Rozamiento
+Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/friction/latest/friction_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ### Gravitatoria
 #### Peso
 ### Eléctrica
