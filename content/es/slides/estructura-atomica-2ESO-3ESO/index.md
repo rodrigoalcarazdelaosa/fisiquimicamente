@@ -215,7 +215,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 ---
 
 ### Iones
-Un **ión** es un **átomo cargado** eléctricamente.
+Un **ion** es un **átomo cargado** eléctricamente.
 
 ---
 
