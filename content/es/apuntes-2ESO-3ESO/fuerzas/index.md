@@ -149,6 +149,7 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 | Es proporcional al producto de las masas. | Es proporcional al producto de las cargas. |
 | Se ejerce a distancia. | Se ejerce a distancia. |
 | Disminuye muy rápidamente al aumentar la distancia. |  |
+| Su valor no depende del medio. | Su valor depende del medio. |
 
 ### Magnética
 #### Partes de un imán
