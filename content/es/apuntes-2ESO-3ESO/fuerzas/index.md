@@ -152,7 +152,7 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 <tbody>
 <tr>
 <td>Se ejerce entre masas.</td>
-<td>Se ejerce entre cargas.</td>
+<td>Solamente se ejerce entre cuerpos con carga eléctrica..</td>
 </tr>
 <tr>
 <td>Siempre es atractiva.</td>
@@ -176,15 +176,6 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 </tr>
 </tbody>
 </table>
-
-| Fuerza gravitatoria | Fuerza eléctrica |
-| --- | --- |
-| Se ejerce entre masas. | Se ejerce entre cargas. |
-| Siempre es atractiva. | Puede ser atractiva o repulsiva. |
-| Es proporcional al producto de las masas. | Es proporcional al producto de las cargas. |
-| Se ejerce a distancia. | Se ejerce a distancia. |
-| Disminuye muy rápidamente al aumentar la distancia. |  |
-| Su valor no depende del medio. | Su valor depende del medio. |
 
 ### Magnética
 #### Partes de un imán
