@@ -229,6 +229,10 @@ table > tbody > tr:hover > th {
 color: #fffff8;
 background-color: $primary; }
 
+td[colspan]:not([colspan="1"]) {
+    text-align: center;
+}
+
 /*************************************************
  *  Article Alerts (Shortcode) and Asides (Mmark)
  **************************************************/
