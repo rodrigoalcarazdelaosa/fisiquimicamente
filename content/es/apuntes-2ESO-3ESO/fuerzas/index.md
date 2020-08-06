@@ -40,6 +40,7 @@ Una **fuerza** es toda *causa* capaz de producir **cambios** en el **movimiento*
 
 2. Ley **fundamental** de la dinámica:
 > El cambio de movimiento es proporcional a la fuerza ejercida y se hace en la dirección de la línea recta en que se ejerce la fuerza.
+
 $$
 F = m\cdot a\quad \text{(la aceleración es proporcional a la fuerza neta)}
 $$
