@@ -208,4 +208,4 @@ Demostró que los campos magnéticos pueden crear corrientes eléctricas. Puedes
 
 <iframe src="https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-Ambas experiencias pusieron de manifiesto la estrecha **relación** que existe entre los **fenómenos eléctricos** y **magnéticos**, dando origen al **electromagnetismo**.
+Ambas experiencias pusieron de manifiesto la estrecha **relación** que existe entre los **fenómenos eléctricos** y **magnéticos**, dando origen al <hl>**electromagnetismo**</hl>.
