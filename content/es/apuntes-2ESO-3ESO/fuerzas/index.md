@@ -176,8 +176,36 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 </table>
 
 ### Magnética
+Un **imán** es un material u objeto que produce un *campo magnético*, responsable de la **fuerza** de **atracción** o **repulsión** que ejerce sobre otros materiales, como el hierro.
+
+{{< figure library="true" src="fuerzas-2ESO/iman.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_magnet.svg." lightbox="true" >}}
+
 #### Partes de un imán
+##### Eje magnético
+Línea que une los dos polos.
+##### Polos
+Extremos del imán donde las fuerzas son más intensas.
+##### Línea neutra
+Línea que separa las zonas polarizadas.
+
 #### Tipos de imanes
+##### Naturales
+**Magnetita** ($\ce{Fe3O4}$).
+##### Artificiales permanentes
+Materiales *magnetizados*.
+##### Artificiales temporales
+**Electroimanes**.
+
 #### Experiencia de Ørsted
+{{< figure library="true" src="fuerzas-2ESO/experimento-Oersted.png" title="Una corriente eléctrica desvía una aguja imantada. https://commons.wikimedia.org/wiki/File:Oersted_experiment.png." lightbox="true" >}}
+
+Demostró que las corrientes eléctricas crean campos magnéticos.
+
 #### Experiencia de Faraday-Henry
+{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.png" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. https://www.freepng.es/png-8st7vt/." lightbox="true" >}}
+
+Demostró que los campos magnéticos pueden crear corrientes eléctricas. Puedes aprender más *jugando* con esta **simulación**:
+
 <iframe src="https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+Ambas experiencias pusieron de manifiesto la estrecha **relación** que existe entre los **fenómenos eléctricos** y **magnéticos**, dando origen al **electromagnetismo**.
