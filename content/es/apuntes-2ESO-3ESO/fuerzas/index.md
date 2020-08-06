@@ -110,6 +110,10 @@ Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**
 
 <iframe src="https://phet.colorado.edu/sims/html/friction/latest/friction_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
+Puedes seguir aprendiendo más cosas sobre la **relación** entre las **fuerzas** y el **movimiento** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ### Gravitatoria
 #### Peso
 ### Eléctrica
