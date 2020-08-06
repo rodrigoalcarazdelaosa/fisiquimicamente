@@ -38,6 +38,10 @@ Una **fuerza** es toda *causa* capaz de producir **cambios** en el **movimiento*
 1. Ley de la **inercia**:
 > Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
 
+En el siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ver cómo 
+
+{{< youtube 1-FP1_oD-zI >}}
+
 2. Ley **fundamental** de la dinámica:
 > El cambio de movimiento es proporcional a la fuerza ejercida y se hace en la dirección de la línea recta en que se ejerce la fuerza.
 
