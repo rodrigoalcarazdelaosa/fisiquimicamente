@@ -87,6 +87,8 @@ $$
 {{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)." lightbox="true" >}}
 
 ### Cuña
+{{< figure library="true" src="fuerzas-2ESO/cuña.png" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)." lightbox="true" >}}
+
 ### Tornillo
 
 ## Fuerza de rozamiento
