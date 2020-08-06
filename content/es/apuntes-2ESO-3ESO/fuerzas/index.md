@@ -24,9 +24,36 @@ links:
 - icon_pack: fas
   icon: download
   name: Póster
-  url: fuerzas-poster.pdf  
+  url: fuerzas-poster.pdf
+  
+slides: fuerzas-2ESO  
 ---
 
-{{% alert warning %}}
-En construcción...
-{{% /alert %}}
+{{% toc %}}
+
+## Las fuerzas y sus efectos
+### Leyes de Newton
+### Ley de Hooke
+
+## Máquinas simples
+
+### Palanca
+### Torno
+### Polea
+### Plano inclinado
+### Cuña
+### Tornillo
+
+## Fuerza de rozamiento
+### Características
+
+## Principales fuerzas de la naturaleza
+### Rozamiento
+### Gravitatoria
+#### Peso
+### Eléctrica
+### Magnética
+#### Partes de un imán
+#### Tipos de imanes
+#### Experiencia de Ørsted
+#### Experiencia de Faraday-Henry
