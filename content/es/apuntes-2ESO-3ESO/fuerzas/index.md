@@ -124,7 +124,7 @@ $$
 P = m\cdot g,
 $$
 
-siendo $g$ es la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
+siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
 
 ### Eléctrica
 ### Magnética
