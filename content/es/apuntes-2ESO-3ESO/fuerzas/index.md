@@ -147,7 +147,8 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 | Se ejerce entre masas. | Se ejerce entre cargas. |
 | Siempre es atractiva. | Puede ser atractiva o repulsiva. |
 | Es proporcional al producto de las masas. | Es proporcional al producto de las cargas. |
-| <center>Se ejerce a distancia.</center> | |
+| Se ejerce a distancia. | Se ejerce a distancia. |
+| Disminuye muy rápidamente al aumentar la distancia. | Disminuye muy rápidamente al aumentar la distancia. |
 
 ### Magnética
 #### Partes de un imán
