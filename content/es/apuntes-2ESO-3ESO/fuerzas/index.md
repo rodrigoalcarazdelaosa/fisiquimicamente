@@ -62,7 +62,11 @@ donde $k$ es la llamada **constante de elasticidad** del muelle. Como se puede v
 {{< figure library="true" src="fuerzas-2ESO/hooke.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Dinam%C3%B3metro_de_resorte.svg." lightbox="true" >}}
 
 ## Máquinas simples
-Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**. La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza aplicada.
+Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**. La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza aplicada:
+
+$$
+\text{ventaja teórica} = \frac{\text{fuerza obtenida}}{\text{fuerza aplicada}}
+$$
 
 ### Palanca
 ### Torno
