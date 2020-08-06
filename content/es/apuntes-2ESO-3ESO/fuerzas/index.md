@@ -142,6 +142,41 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 <iframe src="https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 #### Analogías y diferencias entre las fuerzas gravitatoria y eléctrica
+<table>
+<thead>
+<tr>
+<th>Fuerza gravitatoria</th>
+<th>Fuerza eléctrica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Se ejerce entre masas.</td>
+<td>Se ejerce entre cargas.</td>
+</tr>
+<tr>
+<td>Siempre es atractiva.</td>
+<td>Puede ser atractiva o repulsiva.</td>
+</tr>
+<tr>
+<td>Es proporcional al producto de las masas.</td>
+<td>Es proporcional al producto de las cargas.</td>
+</tr>
+<tr>
+<td>Se ejerce a distancia.</td>
+<td>Se ejerce a distancia.</td>
+</tr>
+<tr>
+<td>Disminuye muy rápidamente al aumentar la distancia.</td>
+<td></td>
+</tr>
+<tr>
+<td>Su valor no depende del medio.</td>
+<td>Su valor depende del medio.</td>
+</tr>
+</tbody>
+</table>
+
 | Fuerza gravitatoria | Fuerza eléctrica |
 | --- | --- |
 | Se ejerce entre masas. | Se ejerce entre cargas. |
