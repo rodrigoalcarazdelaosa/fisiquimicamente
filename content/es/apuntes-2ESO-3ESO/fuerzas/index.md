@@ -38,7 +38,7 @@ Una **fuerza** es toda *causa* capaz de producir **cambios** en el **movimiento*
 1. Ley de la **inercia**:
 > Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
 
-En el siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ver cómo 
+En el siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ver un ejemplo de cómo los objetos tienden a mantener su estado de reposo, utilizando un pulsador de bolígrafo y una cámara de alata velocidad:
 
 {{< youtube 1-FP1_oD-zI >}}
 
