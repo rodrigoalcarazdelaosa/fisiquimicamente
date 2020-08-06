@@ -164,7 +164,6 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 </tr>
 <tr>
 <td colspan="2">Se ejerce a distancia.</td>
-<td></td>
 </tr>
 <tr>
 <td>Disminuye muy rápidamente al aumentar la distancia.</td>
