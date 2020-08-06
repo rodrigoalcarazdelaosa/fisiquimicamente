@@ -71,6 +71,12 @@ $$
 ### Palanca
 {{< figure library="true" src="fuerzas-2ESO/palanca.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
+La ley de la planca establece:
+
+$$
+P\cdot B_P = R\cdot B_R
+$$
+
 ### Torno
 ### Polea
 ### Plano inclinado
