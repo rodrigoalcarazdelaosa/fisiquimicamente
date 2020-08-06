@@ -26,7 +26,7 @@ links:
   name: Póster
   url: movimiento-poster.pdf
   
-slides: movimiento-2ESO  
+slides: movimiento-2ESO
 ---
 
 {{% toc %}}
