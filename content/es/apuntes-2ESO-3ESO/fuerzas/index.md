@@ -93,6 +93,8 @@ $$
 {{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 ## Fuerza de rozamiento
+La fuerza de **rozamiento** está asociada al **contacto** entre **superficies** rugosas.
+
 ### Características
 
 ## Principales fuerzas de la naturaleza
