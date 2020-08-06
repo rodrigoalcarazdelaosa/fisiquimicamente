@@ -96,6 +96,12 @@ $$
 La fuerza de **rozamiento** está asociada al **contacto** entre **superficies** rugosas.
 
 ### Características
+- Se genera debido a las **imperfecciones**, que en mayor parte son microscópicas, entre las **superficies** en contacto.
+- Siempre **se opone al movimiento**.
+- Es **paralela** a la **superficie** de apoyo.
+- **Depende** de:
+	- La **naturaleza** y el **estado** de las **superficies**.
+	- La **fuerza** que **ejerce** un **cuerpo** sobre otro.
 
 ## Principales fuerzas de la naturaleza
 ### Rozamiento
