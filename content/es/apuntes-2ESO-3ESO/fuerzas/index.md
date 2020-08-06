@@ -69,6 +69,8 @@ $$
 $$
 
 ### Palanca
+{{< figure library="true" src="fuerzas-2ESO/palanca.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay]()." lightbox="true" >}}
+
 ### Torno
 ### Polea
 ### Plano inclinado
