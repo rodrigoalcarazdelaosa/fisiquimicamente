@@ -35,6 +35,19 @@ slides: fuerzas-2ESO
 Una **fuerza** es toda *causa* capaz de producir **cambios** en el **movimiento** o en la **estructura** (**deformaciones**) de un cuerpo. En el **SI** se mide en **newtons** (N).
 
 ### Leyes de Newton
+1. Ley de la **inercia**:
+> Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
+
+2. Ley **fundamental** de la dinámica:
+> El cambio de movimiento es proporcional a la fuerza ejercida y se hace en la dirección de la línea recta en que se ejerce la fuerza.
+$$
+F = m\cdot a\quad \text{(la aceleración es proporcional a la fuerza neta)}
+$$
+
+3. Ley de la **acción-reacción**:
+> Para toda acción siempre hay una reacción igual y opuesta.
+Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario.
+
 ### Ley de Hooke
 
 ## Máquinas simples
