@@ -90,6 +90,7 @@ $$
 {{< figure library="true" src="fuerzas-2ESO/cuña.png" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)." lightbox="true" >}}
 
 ### Tornillo
+{{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 ## Fuerza de rozamiento
 ### Características
