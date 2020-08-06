@@ -66,7 +66,7 @@ Tras el comando `\documentclass` viene lo que se denomina el **preámbulo** del 
 
 El **ejemplo más simple** que nos podemos imaginar sería algo así:
 
-```tex
+```latex
 \documentclass{article}
 
 \begin{document}
@@ -82,7 +82,7 @@ En el anterior ejemplo hemos introducido texto directamente después del comando
 
 Por ejemplo, el preámbulo de un documento escrito en español tendría esta pinta:
 
-```tex
+```latex
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
@@ -117,7 +117,7 @@ Para añadir un título, un autor y una fecha a nuestro documento, debemos añad
 
 Con estas líneas, nuestro preámbulo debería parecerse a esto:
 
-```tex
+```latex
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
@@ -129,7 +129,7 @@ Con estas líneas, nuestro preámbulo debería parecerse a esto:
 
 Para que esa información aparezca en el documento, tenemos que incluir el comando `\maketitle` en el cuerpo del documento, en el lugar donde queremos que aparezca.
 
-```tex
+```latex
 \begin{document}
 
 \maketitle
@@ -144,7 +144,7 @@ Para que esa información aparezca en el documento, tenemos que incluir el coman
 ## Añadiendo comentarios
 Como siempre que se escribe código, es muy útil y recomendable incluir **comentarios**. Los comentarios son trozos de texto que se pueden incluir en el propio código pero que no se imprimen ni afectan al documento de ninguna forma. Son útiles para organizar el trabajo, tomar notas, explicar el código o depurarlo comentando ciertas líneas/secciones. Para hacer un comentario en $\LaTeX$, simplemente escribe el símbolo `%` al principio de la línea:
 
-```tex
+```latex
 \begin{document}
 
 \maketitle
@@ -167,7 +167,7 @@ Echemos un vistazo a algunos comandos simples para dar formato a nuestro texto:
 
 A continuación se muestra un ejemplo de cada uno de estos comandos en acción:
 
-```tex
+```latex
 Algunos de los \textbf{mayores} descubrimientos de la \underline{ciencia} se hicieron por \textbf{\textit{accidente}}.
 ```
 
@@ -177,7 +177,7 @@ Otro comando muy útil es `\emph{...}`. Lo que el comando `\emph` hace realmente
 
 [^4]: Además, algunos paquetes, como [beamer](https://ctan.org/pkg/beamer), modifican el comportamiento del comando `\emph`.
 
-```tex
+```latex
 Algunos de los mayores \emph{descubrimientos} de la ciencia se hicieron por accidente.
 
 \textit{Algunos de los mayores \emph{descubrimientos} de la ciencia se hicieron por accidente.}
@@ -205,7 +205,7 @@ Para utilizar este paquete, incluimos la línea `\usepackage{graphicx}` en nuest
 
 El entorno `figure` nos permite además añadir un pie de figura (`\caption{...}`) y una etiqueta (`\label{...}`), para poder referenciar (`\ref{...}`) la figura más adelante. El siguiente ejemplo muestra estos comandos en acción:
 
-```tex
+```latex
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
@@ -238,7 +238,7 @@ Hay tres tipos principales de listas: listas no ordenadas, listas ordenadas y li
 
 Las listas no ordenadas, también conocidas como *viñetas*, se crean con el entorno `itemize`. Cada entrada (*item*) debe ir precedida por el comando `\item`:
 
-```tex
+```latex
 \begin{itemize}
   \item La viñeta por defecto es un punto negro (\emph{bullet} en inglés).
   \item El texto de las entradas puede tener cualquier longitud.
@@ -251,7 +251,7 @@ Las listas no ordenadas, también conocidas como *viñetas*, se crean con el ent
 
 Las listas ordenadas o numeradas tienen la misma sintaxis pero con otro entorno, esta vez `enumerate`:
 
-```tex
+```latex
 \begin{enumerate}
   \item Esta es la primera entrada de nuestra lista.
   \item Los números de la lista aumentan con cada entrada que añadimos.
@@ -264,7 +264,7 @@ Las listas ordenadas o numeradas tienen la misma sintaxis pero con otro entorno,
 
 Las listas de descripción o definición utilizan el entorno `description`. Su sintaxis varía ligeramente respecto a `itemize` y `enumerate`, ya que los `\item` ahora aceptan el *título* de cada entrada entre corchetes:
 
-```tex
+```latex
 \begin{description}
   \item[Primera entrada] Por defecto el título de cada entrada aparece en \textbf{negrita}.
   \item[Segunda entrada] Normalmente no se pone ningún símbolo (: o similar) entre el título y su descripción o definición.
@@ -280,7 +280,7 @@ Una de las principales ventajas de $\LaTeX$ es la facilidad con la que podemos i
 Se utiliza para escribir expresiones que son parte del texto, encerrando la expresión entre `$...$`, como en el siguiente ejemplo:
 
 
-```tex
+```latex
 En física, la equivalencia entre masa y energía se establece por la ecuación $E=mc^2$, descubierta por Albert Einstein en 1905.
 ```
 
@@ -289,7 +289,7 @@ En física, la equivalencia entre masa y energía se establece por la ecuación 
 ### Modo _display_
 Se utiliza para escribir expresiones en líneas separadas. Tenemos dos versiones: expresiones numeradas (con el entorno `equation`) o sin numerar (encerrando la expresión entre `\[...\]`), como se muestra a continuación:
 
-```tex
+```latex
 En física, la equivalencia entre masa y energía se establece por la ecuación	
 \[
 E=mc^2,
@@ -309,7 +309,7 @@ A la hora de escribir matemáticas en $\LaTeX$, incluir el paquete [amsmath](htt
 
 A continuación se muestra un ejemplo con algunos de los comandos básicos:
 
-```tex
+```latex
 Los subíndices y los superíndices pueden escribirse como $a_b$ o $a^b$, respectivamente. Pueden combinarse o anidarse para escribir expresions como
 \[
 T^{i_1 i_2 \dots i_p}_{j_1 j_2 \dots j_q} = T(x^{i_1},\dots,x^{i_p},e_{j_1},\dots,e_{j_q})
@@ -334,7 +334,7 @@ Veamos cómo añadir resúmenes (*abstracts* en inglés) y formatear un document
 
 Especialmente en documentos científicos, es una práctica común incluir una breve reseña del tema principal del documento. En $\LaTeX$ tenemos el entorno `abstract` para esto, el cual pondrá el texto en un formato especial al principio del documento.
 
-```tex
+```latex
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
@@ -357,7 +357,7 @@ En general le indicamos a $\LaTeX$ que empezamos un nuevo párrafo dejando una l
 
 [^9]: Podemos escribir el comando `\par` al final de un párrafo para conseguir el mismo efecto.
 
-```tex
+```latex
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
@@ -384,7 +384,7 @@ Esta línea comenzará un segundo párrafo.
 
 Como ya se vio al crear nuestro [primer documento](#tu-primer-documento-de-latex), dependiendo de la clase que escojamos, tenemos acceso a unos comandos de sección u otros. Por ejemplo con la clase `report` podemos escribir:
 
-```tex
+```latex
 \chapter{Primer Capítulo}
 
 \section{Primera sección}
@@ -429,7 +429,7 @@ El comando `\section{...}` marca el comienzo de una nueva sección, cuyo título
 ## Creando tablas
 A continuación puedes ver el ejemplo más sencillo de una tabla en $\LaTeX$:
 
-```tex
+```latex
 \begin{tabular}{ccc}
  celda1 & celda2 & celda3 \\ 
  celda4 & celda5 & celda6 \\  
@@ -449,7 +449,7 @@ Al igual que en el caso de las [imágenes](#añadiendo-imágenes), como norma ge
 
 El entorno `table` nos permite además añadir un pie de tabla (`\caption{...}`) y una etiqueta (`\label{...}`), para poder referenciar (`\ref{...}`) la tabla más adelante. El siguiente ejemplo muestra estos comandos en acción:
 
-```tex
+```latex
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish,es-tabla]{babel}
@@ -486,7 +486,7 @@ La tabla \ref{tab:ejemplo_booktabs} muestra un ejemplo de uso de los comandos de
 ## Añadiendo un índice
 Crear el índice de un documento es tan fácil como escribir el comando `\tableofcontents` donde queramos incluirlo, y $\LaTeX$ hará todo el trabajo por nosotros, como en el siguiente ejemplo:
 
-```tex
+```latex
 \documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
