@@ -32,6 +32,8 @@ slides: fuerzas-2ESO
 {{% toc %}}
 
 ## Las fuerzas y sus efectos
+Una **fuerza** es toda *causa* capaz de producir **cambios** en el **movimiento** o en la **estructura** (**deformaciones**) de un cuerpo. En el **SI** se mide en **newtons** (N).
+
 ### Leyes de Newton
 ### Ley de Hooke
 
