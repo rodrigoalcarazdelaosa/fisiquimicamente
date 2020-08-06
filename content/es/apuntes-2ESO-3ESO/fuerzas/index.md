@@ -152,7 +152,7 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 <tbody>
 <tr>
 <td>Se ejerce entre masas.</td>
-<td>Solamente se ejerce entre cuerpos con carga eléctrica..</td>
+<td>Solamente se ejerce entre cuerpos con carga eléctrica.</td>
 </tr>
 <tr>
 <td>Siempre es atractiva.</td>
@@ -163,8 +163,8 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 <td>Es proporcional al producto de las cargas.</td>
 </tr>
 <tr>
-<td>Se ejerce a distancia.</td>
-<td>Se ejerce a distancia.</td>
+<td colspan="2">Se ejerce a distancia.</td>
+<td></td>
 </tr>
 <tr>
 <td>Disminuye muy rápidamente al aumentar la distancia.</td>
