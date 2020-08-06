@@ -83,13 +83,13 @@ $$
 {{< figure library="true" src="fuerzas-2ESO/torno.png" title="Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/36300/36344/wheelaxle2_36344.htm)." lightbox="true" >}}
 
 ### Polea
-{{< figure library="true" src="fuerzas-2ESO/polea.png" title="[Themightyquill](https://commons.wikimedia.org/wiki/File:Block-and-tackle-in-use.svg)." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/polea.png" title="[Themightyquill](https://commons.wikimedia.org/wiki/File:Block-and-tackle-in-use.svg)" lightbox="true" >}}
 
 ### Plano inclinado
-{{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)" lightbox="true" >}}
 
 ### Cuña
-{{< figure library="true" src="fuerzas-2ESO/cuña.png" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)." lightbox="true" width="50%" >}}
+{{< figure library="true" src="fuerzas-2ESO/cuña.png" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)" lightbox="true" width="50%" >}}
 
 ### Tornillo
 {{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" width="50%" >}}
