@@ -61,6 +61,10 @@ donde $k$ es la llamada **constante de elasticidad** del muelle. Como se puede v
 
 {{< figure library="true" src="fuerzas-2ESO/hooke.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Dinam%C3%B3metro_de_resorte.svg." lightbox="true" >}}
 
+<iframe src="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+<iframe src="https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Máquinas simples
 Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**. La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza aplicada.
 
@@ -127,6 +131,8 @@ Puedes aprender más sobre la **fuerza gravitatoria** con esta **simulación**:
 <iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ### Eléctrica
+<iframe src="https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ### Magnética
 #### Partes de un imán
 #### Tipos de imanes
