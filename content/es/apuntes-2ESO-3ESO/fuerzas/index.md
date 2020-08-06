@@ -61,6 +61,8 @@ donde $k$ es la llamada **constante de elasticidad** del muelle. Como se puede v
 
 {{< figure library="true" src="fuerzas-2ESO/hooke.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Dinam%C3%B3metro_de_resorte.svg." lightbox="true" >}}
 
+Puedes aprender más sobre **masas**, **resortes** y la **ley de Hooke** con las siguientes **simulaciones**:
+
 <iframe src="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 <iframe src="https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
