@@ -566,26 +566,26 @@ select.form-control:focus::-ms-value {
 .form-control-plaintext {
 	color: $primary; }
 	
-///*************************************************
-//*  highlight.js
-//**************************************************/
-//
-//.hljs {
-//	color: #fffff8;
-//	background: #111111;
-//}
-//
-//.hljs-attribute, .hljs-name, .hljs-tag {
-//    color: $primary_bg;
-//}
-//
-//.hljs-doctag, .hljs-string {
-//    color: $primary_complementary_bg;
-//}
-//
-//.hljs-comment, .hljs-quote {
-//    color: #dddddd;
-//}
+/*************************************************
+*  highlight.js
+**************************************************/
+
+.hljs {
+	color: #fffff8;
+	background: #111111;
+}
+
+.hljs-attribute, .hljs-name, .hljs-tag {
+    color: $primary_bg;
+}
+
+.hljs-doctag, .hljs-string {
+    color: $primary_complementary_bg;
+}
+
+.hljs-comment, .hljs-quote {
+    color: #dddddd;
+}
 
 /*************************************************
 *  Kudos
