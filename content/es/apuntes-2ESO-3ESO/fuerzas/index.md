@@ -132,3 +132,4 @@ Puedes aprender más sobre la **fuerza gravitatoria** con esta **simulación**:
 #### Tipos de imanes
 #### Experiencia de Ørsted
 #### Experiencia de Faraday-Henry
+<iframe src="https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
