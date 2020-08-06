@@ -191,6 +191,8 @@ Línea que separa las zonas polarizadas.
 #### Tipos de imanes
 ##### Naturales
 **Magnetita** ($\ce{Fe3O4}$).
+
+{{< figure library="true" src="fuerzas-2ESO/magnetita.jpg" title="Magnetita de Bolivia. Rob Lavinsky & iRocks.com." lightbox="true" >}}
 ##### Artificiales permanentes
 Materiales *magnetizados*.
 ##### Artificiales temporales
