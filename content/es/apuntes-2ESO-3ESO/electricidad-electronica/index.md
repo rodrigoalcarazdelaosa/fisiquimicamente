@@ -28,6 +28,8 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
+<!-- <iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
+
 Apuntes sobre electricidad y electrónica en formato texto y póster (tipo _chuleta_).
 
 {{% alert note %}}
