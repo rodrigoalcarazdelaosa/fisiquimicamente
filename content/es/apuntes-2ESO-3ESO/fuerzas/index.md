@@ -145,6 +145,7 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 | Fuerza gravitatoria | Fuerza eléctrica |
 | --- | --- |
 | Se ejerce entre masas. | Se ejerce entre cargas. |
+| Siempre es atractiva. | Puede ser atractiva o repulsiva. |
 
 ### Magnética
 #### Partes de un imán
