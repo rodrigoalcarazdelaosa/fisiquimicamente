@@ -1,7 +1,7 @@
 ---
 title: Las fuerzas
 subtitle: Principales fuerzas de la naturaleza y sus efectos
-summary: "`EN CONSTRUCCIÓN` <br> Principales fuerzas de la naturaleza y sus efectos."
+summary: "Principales fuerzas de la naturaleza y sus efectos."
 tags:
 - 2º ESO
 - fuerzas
