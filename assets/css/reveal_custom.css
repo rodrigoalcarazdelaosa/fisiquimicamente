@@ -71,6 +71,10 @@ background-color: #BBCCEE; }
 color: #fffff8;
 background-color: #2a54a9; }
 
+.reveal td[colspan]:not([colspan="1"]) {
+    text-align: center;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
