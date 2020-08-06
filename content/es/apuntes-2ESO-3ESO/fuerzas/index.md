@@ -46,6 +46,7 @@ $$
 
 3. Ley de la **acción-reacción**:
 > Para toda acción siempre hay una reacción igual y opuesta.
+
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario.
 
 ### Ley de Hooke
