@@ -65,7 +65,7 @@ donde $k$ es la llamada **constante de elasticidad** del muelle. Como se puede v
 Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**. La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza aplicada:
 
 $$
-\mathrm{ventaja teorica} = \frac{\text{fuerza obtenida}}{\text{fuerza aplicada}}
+\text{ventaja te\mathrm{o}rica} = \frac{\text{fuerza obtenida}}{\text{fuerza aplicada}}
 $$
 
 ### Palanca
