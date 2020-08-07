@@ -99,6 +99,7 @@ Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magn
 
 ---
 
+### Ventaja teórica
 La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza aplicada.
 
 ---
