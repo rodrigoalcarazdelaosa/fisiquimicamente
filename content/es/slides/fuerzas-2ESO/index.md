@@ -80,6 +80,4 @@ Puedes aprender más sobre **masas**, **resortes** y la **ley de Hooke** con las
 
 <iframe src="https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
----
-
 {{% /section %}}
