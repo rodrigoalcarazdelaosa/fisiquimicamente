@@ -294,7 +294,9 @@ Materiales *magnetizados*.
 ---
 
 #### Experiencia de Ørsted
-{{< figure library="true" src="fuerzas-2ESO/experimento-Oersted.png" title="Una corriente eléctrica desvía una aguja imantada. https://commons.wikimedia.org/wiki/File:Oersted_experiment.png." lightbox="false" >}}
+{{< figure library="true" src="fuerzas-2ESO/experimento-Oersted.png" title="Una corriente eléctrica desvía una aguja imantada." lightbox="false" >}}
+
+---
 
 Demostró que las **corrientes eléctricas crean campos magnéticos**.
 
