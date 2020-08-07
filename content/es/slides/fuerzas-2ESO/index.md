@@ -266,6 +266,8 @@ Un **imán** es un material u objeto que produce un *campo magnético*, responsa
 
 {{< figure library="true" src="fuerzas-2ESO/iman.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_magnet.svg." lightbox="false" >}}
 
+---
+
 #### Partes de un imán
 ##### Eje magnético
 Línea que une los dos polos.
