@@ -96,6 +96,9 @@ Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magn
 - [Palanca](#/2/2)
 - [Torno](#/2/4)
 - [Polea](#/2/5)
+- [Plano inclinado](#/2/6)
+- [Cuña](#/2/7)
+- [Tornillo](#/2/8)
 
 (continúa hacia abajo)
 
