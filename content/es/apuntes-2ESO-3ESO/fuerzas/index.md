@@ -116,7 +116,7 @@ La fuerza de **rozamiento** está asociada al **contacto** entre **superficies**
 
 {{< figure library="true" src="fuerzas-2ESO/rozamiento.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Fricci%C3%B3n_01.svg." lightbox="true" >}}
 
-Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**:
+Puedes aprender más sobre la **naturaleza** del **rozamiento** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/friction/latest/friction_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
