@@ -25,7 +25,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ## Las fuerzas y sus efectos
 
 - [Leyes de Newton](#/1/1)
-- [Ley de Hooke](#/1/2)
+- [Ley de Hooke](#/1/5)
 
 (continúa hacia abajo)
 
