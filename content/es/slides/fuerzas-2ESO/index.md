@@ -124,7 +124,7 @@ $$
 ---
 
 ### Polea
-{{< figure library="true" src="fuerzas-2ESO/polea.png" title="[Themightyquill](https://commons.wikimedia.org/wiki/File:Block-and-tackle-in-use.svg)" lightbox="false" width="45%" >}}
+{{< figure library="true" src="fuerzas-2ESO/polea.png" title="[Themightyquill](https://commons.wikimedia.org/wiki/File:Block-and-tackle-in-use.svg)" lightbox="false" width="50%" >}}
 
 ---
 
