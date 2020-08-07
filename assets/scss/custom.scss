@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  color: #111111;
+  color: #2E3440;
   background-color: #fffff8; }  
   
 a.footnote-ref {
@@ -26,7 +26,7 @@ a.footnote-ref {
   top: 0;
   left: 0;
   font-weight: bold;
-  color: #111111;
+  color: #2E3440;
   background-color: $primary_bg;
   border-radius: 50%;
   padding:0.2em 0.5em 0.2em
@@ -44,7 +44,7 @@ a.footnote-backref {
     position: relative;
     top: -0.2em;
     font-weight: bold;
-    color: #111111;
+    color: #2E3440;
     background-color: $primary_bg;
     font-size: 0.8em;
     border-radius: 0.4em;
@@ -61,7 +61,7 @@ a.footnote-backref:hover {
 }
 
 #popup-content a.footnote-backref {
-	color: #111111 !important;
+	color: #2E3440 !important;
 	background-color: #f7f056;
 }
 
@@ -308,7 +308,7 @@ div.alert-thanks > div:first-child::before {
 color: #555555; }
 
 .card-body {
-  color: #111111;
+  color: #2E3440;
   background: #fffff8;; }
 
 /*************************************************
@@ -337,7 +337,7 @@ color: #000000; }
 
 .page-subtitle {
   font-family: "Cabin Sketch", sans-serif;
-  color: #111111; }
+  color: #2E3440; }
   
 .article-header-caption {
 color: #ffffff; }
@@ -368,7 +368,7 @@ position: relative; }
  **************************************************/
 
 ul.share li a {
-  color: #111111; }  
+  color: #2E3440; }  
   
 /*************************************************
 *  Author profile card
@@ -465,7 +465,7 @@ color: #555555; }
 color: #555555; }
 
 .docs-sidebar .nav > li > a:hover {
-color: #111111; }  
+color: #2E3440; }  
 
 /* Docs TOC nav. */
 
@@ -551,9 +551,9 @@ border-color: $primary; }
 	background-color: #fffff8;
 	border: 1px solid $primary; }
 .form-control:-moz-focusring {
-	text-shadow: 0 0 0 #111111; }
+	text-shadow: 0 0 0 #2E3440; }
 .form-control:focus {
-	color: #111111;
+	color: #2E3440;
 	background-color: #fffff8;
 	border-color: $primary; }
 .form-control::placeholder {
@@ -571,7 +571,7 @@ select.form-control:focus::-ms-value {
 
 .hljs {
 	color: #fffff8;
-	background: #111111;
+	background: #2E3440;
 }
 
 .hljs-attribute, .hljs-name, .hljs-tag {
@@ -622,9 +622,9 @@ p.kudos {
 }
 
 applause-button .style-root {
-	fill: #111111 !important;
-	stroke: #111111 !important;
-	color: #111111 !important; }
+	fill: #2E3440 !important;
+	stroke: #2E3440 !important;
+	color: #2E3440 !important; }
 
 applause-button {
   position: relative;
@@ -686,7 +686,7 @@ applause-button {
     position: absolute;
     top: -80%;
     width: 100%;
-    color: #111111;
+    color: #2E3440;
     user-select: none;
 
     .count {
