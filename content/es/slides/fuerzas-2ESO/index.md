@@ -78,7 +78,7 @@ Como se puede ver en la figura, el **alargamiento** sufrido por el muelle es **p
 
 Puedes aprender más sobre **masas**, **resortes** y la **ley de Hooke** con las siguientes **simulaciones**:
 
-<iframe src="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 ---
 
