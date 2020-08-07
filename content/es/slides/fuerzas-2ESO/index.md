@@ -148,8 +148,22 @@ $$
 {{% section %}}
 
 ## Principales fuerzas de la naturaleza
+
+- Rozamiento
+- Gravitatoria
+- Eléctrica
+- Magnética
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Rozamiento
 La fuerza de **rozamiento** está asociada al **contacto** entre **superficies** rugosas.
+
+---
 
 #### Características
 - Se genera debido a las **imperfecciones**, que en mayor parte son microscópicas, entre las **superficies** en contacto.
@@ -159,7 +173,11 @@ La fuerza de **rozamiento** está asociada al **contacto** entre **superficies**
 	- La **naturaleza** y el **estado** de las **superficies**.
 	- La **fuerza** que **ejerce** un **cuerpo** sobre otro.
 
-{{< figure library="true" src="fuerzas-2ESO/rozamiento.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Fricci%C3%B3n_01.svg." lightbox="true" >}}
+---	
+
+{{< figure library="true" src="fuerzas-2ESO/rozamiento.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Fricci%C3%B3n_01.svg." lightbox="false" >}}
+
+---
 
 Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**:
 
@@ -231,7 +249,7 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 ### Magnética
 Un **imán** es un material u objeto que produce un *campo magnético*, responsable de la **fuerza** de **atracción** o **repulsión** que ejerce sobre otros materiales, como el hierro (Fe).
 
-{{< figure library="true" src="fuerzas-2ESO/iman.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_magnet.svg." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/iman.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_magnet.svg." lightbox="false" >}}
 
 #### Partes de un imán
 ##### Eje magnético
@@ -245,19 +263,19 @@ Línea que separa las zonas polarizadas.
 ##### Naturales
 **Magnetita** ($\ce{Fe3O4}$).
 
-{{< figure library="true" src="fuerzas-2ESO/magnetita.jpg" title="Magnetita de Bolivia. [&copy; Rob Lavinsky & iRocks.com](https://commons.wikimedia.org/wiki/File:Magnetite-118736.jpg)." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/magnetita.jpg" title="Magnetita de Bolivia. [&copy; Rob Lavinsky & iRocks.com](https://commons.wikimedia.org/wiki/File:Magnetite-118736.jpg)." lightbox="false" >}}
 ##### Artificiales permanentes
 Materiales *magnetizados*.
 ##### Artificiales temporales
 [**Electroimanes**](https://es.wikipedia.org/wiki/Electroim%C3%A1n).
 
 #### Experiencia de Ørsted
-{{< figure library="true" src="fuerzas-2ESO/experimento-Oersted.png" title="Una corriente eléctrica desvía una aguja imantada. https://commons.wikimedia.org/wiki/File:Oersted_experiment.png." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/experimento-Oersted.png" title="Una corriente eléctrica desvía una aguja imantada. https://commons.wikimedia.org/wiki/File:Oersted_experiment.png." lightbox="false" >}}
 
 Demostró que las **corrientes eléctricas crean campos magnéticos**.
 
 #### Experiencia de Faraday-Henry
-{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.png" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. https://www.freepng.es/png-8st7vt/." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.png" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. https://www.freepng.es/png-8st7vt/." lightbox="false" >}}
 
 Demostró que los **campos magnéticos pueden crear corrientes eléctricas**. Puedes aprender más *jugando* con esta **simulación**:
 
