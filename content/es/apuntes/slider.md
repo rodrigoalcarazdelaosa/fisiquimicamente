@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "2º ESO"
+  title = "[2º ESO](#segundo-eso)"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
