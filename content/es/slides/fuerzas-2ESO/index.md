@@ -296,7 +296,7 @@ Línea que separa las zonas polarizadas.
 ##### Artificiales permanentes
 Materiales *magnetizados*.
 ##### Artificiales temporales
-{{< figure library="true" src="fuerzas-2ESO/electroiman.svg" title="[**Electroimanes**](https://es.wikipedia.org/wiki/Electroim%C3%A1n)." lightbox="false" width="50%" >}}
+{{< figure library="true" src="fuerzas-2ESO/electroiman.svg" title="[**Electroimanes**](https://es.wikipedia.org/wiki/Electroim%C3%A1n)." lightbox="false" width="30%" >}}
 
 ---
 
