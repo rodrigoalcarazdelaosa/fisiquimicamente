@@ -34,7 +34,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ---
 
 ### Leyes de Newton
-1. Ley de la **inercia**:
+#### 1. Ley de la **inercia**
 > Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
 
 ---
