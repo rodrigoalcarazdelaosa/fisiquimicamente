@@ -19,7 +19,7 @@ html {
 
 body {
   color: #2E3440;
-  background-color: #fffff8; }  
+  background-color: #ECEFF4; }  
   
 a.footnote-ref {
   position: relative;
@@ -34,7 +34,7 @@ a.footnote-ref {
 
 a.footnote-ref:hover {
   border: none;
-  color: #fffff8;
+  color: #ECEFF4;
   background-color: $primary;
   text-decoration: none;
   transition: none;
@@ -54,7 +54,7 @@ a.footnote-backref {
 
 a.footnote-backref:hover {
     border: none;
-    color: #fffff8;
+    color: #ECEFF4;
     background-color: $primary;
 	text-decoration: none;
     transition: none;	
@@ -67,7 +67,7 @@ a.footnote-backref:hover {
 
 #popup-content a.footnote-backref:hover {
 	color: $primary;
-	background-color: #fffff8;	
+	background-color: #ECEFF4;	
 }  
   
 p svg {
@@ -138,7 +138,7 @@ background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary
 
 .fancybox-is-open .fancybox-bg {
     opacity: 1;
-    background: #fffff8;
+    background: #ECEFF4;
 }
   
 /*************************************************
@@ -226,7 +226,7 @@ background-color: $primary_bg; }
 /* Table Hover */
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-color: #fffff8;
+color: #ECEFF4;
 background-color: $primary; }
 
 td[colspan]:not([colspan="1"]) {
@@ -309,7 +309,7 @@ color: #555555; }
 
 .card-body {
   color: #2E3440;
-  background: #fffff8;; }
+  background: #ECEFF4;; }
 
 /*************************************************
  *  Search
@@ -509,11 +509,11 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
   
 .page-link {
 color: $primary;
-background-color: #fffff8;
+background-color: #ECEFF4;
 border: 1px solid $primary; }
 
 .page-link:hover {
-  color: #fffff8;
+  color: #ECEFF4;
   text-decoration: none;
   background-color: $primary;
   border-color: $primary; }	  
@@ -548,13 +548,13 @@ border-color: $primary; }
 
 .form-control {
 	color: $primary;
-	background-color: #fffff8;
+	background-color: #ECEFF4;
 	border: 1px solid $primary; }
 .form-control:-moz-focusring {
 	text-shadow: 0 0 0 #2E3440; }
 .form-control:focus {
 	color: #2E3440;
-	background-color: #fffff8;
+	background-color: #ECEFF4;
 	border-color: $primary; }
 .form-control::placeholder {
 	color: #555555; }
@@ -570,7 +570,7 @@ select.form-control:focus::-ms-value {
 **************************************************/
 
 .hljs {
-	color: #fffff8;
+	color: #ECEFF4;
 	background: #2E3440;
 }
 
