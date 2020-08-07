@@ -18,15 +18,15 @@ html {
 }
 
 body {
-  color: #2E3440;
-  background-color: #ECEFF4; }  
+  color: #111111;
+  background-color: #fffff8; }  
   
 a.footnote-ref {
   position: relative;
   top: 0;
   left: 0;
   font-weight: bold;
-  color: #2E3440;
+  color: #111111;
   background-color: $primary_bg;
   border-radius: 50%;
   padding:0.2em 0.5em 0.2em
@@ -34,7 +34,7 @@ a.footnote-ref {
 
 a.footnote-ref:hover {
   border: none;
-  color: #ECEFF4;
+  color: #fffff8;
   background-color: $primary;
   text-decoration: none;
   transition: none;
@@ -44,7 +44,7 @@ a.footnote-backref {
     position: relative;
     top: -0.2em;
     font-weight: bold;
-    color: #2E3440;
+    color: #111111;
     background-color: $primary_bg;
     font-size: 0.8em;
     border-radius: 0.4em;
@@ -54,20 +54,20 @@ a.footnote-backref {
 
 a.footnote-backref:hover {
     border: none;
-    color: #ECEFF4;
+    color: #fffff8;
     background-color: $primary;
 	text-decoration: none;
     transition: none;	
 }
 
 #popup-content a.footnote-backref {
-	color: #2E3440 !important;
+	color: #111111 !important;
 	background-color: #f7f056;
 }
 
 #popup-content a.footnote-backref:hover {
 	color: $primary;
-	background-color: #ECEFF4;	
+	background-color: #fffff8;	
 }  
   
 p svg {
@@ -138,7 +138,7 @@ background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary
 
 .fancybox-is-open .fancybox-bg {
     opacity: 1;
-    background: #ECEFF4;
+    background: #fffff8;
 }
   
 /*************************************************
@@ -226,7 +226,7 @@ background-color: $primary_bg; }
 /* Table Hover */
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-color: #ECEFF4;
+color: #fffff8;
 background-color: $primary; }
 
 td[colspan]:not([colspan="1"]) {
@@ -308,8 +308,8 @@ div.alert-thanks > div:first-child::before {
 color: #555555; }
 
 .card-body {
-  color: #2E3440;
-  background: #ECEFF4;; }
+  color: #111111;
+  background: #fffff8;; }
 
 /*************************************************
  *  Search
@@ -337,7 +337,7 @@ color: #000000; }
 
 .page-subtitle {
   font-family: "Cabin Sketch", sans-serif;
-  color: #2E3440; }
+  color: #111111; }
   
 .article-header-caption {
 color: #ffffff; }
@@ -368,7 +368,7 @@ position: relative; }
  **************************************************/
 
 ul.share li a {
-  color: #2E3440; }  
+  color: #111111; }  
   
 /*************************************************
 *  Author profile card
@@ -465,7 +465,7 @@ color: #555555; }
 color: #555555; }
 
 .docs-sidebar .nav > li > a:hover {
-color: #2E3440; }  
+color: #111111; }  
 
 /* Docs TOC nav. */
 
@@ -509,11 +509,11 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
   
 .page-link {
 color: $primary;
-background-color: #ECEFF4;
+background-color: #fffff8;
 border: 1px solid $primary; }
 
 .page-link:hover {
-  color: #ECEFF4;
+  color: #fffff8;
   text-decoration: none;
   background-color: $primary;
   border-color: $primary; }	  
@@ -548,13 +548,13 @@ border-color: $primary; }
 
 .form-control {
 	color: $primary;
-	background-color: #ECEFF4;
+	background-color: #fffff8;
 	border: 1px solid $primary; }
 .form-control:-moz-focusring {
-	text-shadow: 0 0 0 #2E3440; }
+	text-shadow: 0 0 0 #111111; }
 .form-control:focus {
-	color: #2E3440;
-	background-color: #ECEFF4;
+	color: #111111;
+	background-color: #fffff8;
 	border-color: $primary; }
 .form-control::placeholder {
 	color: #555555; }
@@ -570,8 +570,8 @@ select.form-control:focus::-ms-value {
 **************************************************/
 
 .hljs {
-	color: #ECEFF4;
-	background: #2E3440;
+	color: #fffff8;
+	background: #111111;
 }
 
 .hljs-attribute, .hljs-name, .hljs-tag {
@@ -622,9 +622,9 @@ p.kudos {
 }
 
 applause-button .style-root {
-	fill: #2E3440 !important;
-	stroke: #2E3440 !important;
-	color: #2E3440 !important; }
+	fill: #111111 !important;
+	stroke: #111111 !important;
+	color: #111111 !important; }
 
 applause-button {
   position: relative;
@@ -686,7 +686,7 @@ applause-button {
     position: absolute;
     top: -80%;
     width: 100%;
-    color: #2E3440;
+    color: #111111;
     user-select: none;
 
     .count {
