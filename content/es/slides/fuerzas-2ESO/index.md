@@ -189,8 +189,12 @@ Puedes seguir aprendiendo más cosas sobre la **relación** entre las **fuerzas*
 
 <iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
+---
+
 ### Gravitatoria
 La **fuerza gravitatoria** es la fuerza con la que los **cuerpos** se **atraen** entre sí, siendo directamente proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia que los separa.
+
+---
 
 #### Peso
 A la fuerza con la que la Tierra atrae a un cuerpo de masa $m$ se le llama **peso**, $P$:
@@ -201,9 +205,13 @@ $$
 
 siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
 
+---
+
 Puedes aprender más sobre la **fuerza gravitatoria** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+---
 
 ### Eléctrica
 Es la **fuerza** con la que las **cargas** eléctricas se **atraen** (signo opuesto) o se **repelen** (mismo signo), siendo directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que las separa. La materia cargada {{< icon name="plus-circle" pack="fas" >}} tiene un **defecto** de **electrones**, mientras que la materia cargada {{< icon name="minus-circle" pack="fas" >}} tiene un **exceso** de **electrones**[^1].
