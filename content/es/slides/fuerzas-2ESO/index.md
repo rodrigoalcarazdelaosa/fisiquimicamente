@@ -94,6 +94,8 @@ Puedes aprender más sobre **masas**, **resortes** y la **ley de Hooke** con las
 Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**.
 
 - [Palanca](#/2/2)
+- [Torno](#/2/4)
+- [Polea](#/2/5)
 
 (continúa hacia abajo)
 
