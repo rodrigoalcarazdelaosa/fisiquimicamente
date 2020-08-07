@@ -282,7 +282,7 @@ Línea que separa las zonas polarizadas.
 ##### Naturales
 **Magnetita** ($\mathrm{Fe_3O_4}$).
 
-{{< figure library="true" src="fuerzas-2ESO/magnetita.jpg" title="Magnetita de Bolivia. [&copy; Rob Lavinsky & iRocks.com](https://commons.wikimedia.org/wiki/File:Magnetite-118736.jpg)." lightbox="false" width="30%" >}}
+{{< figure library="true" src="fuerzas-2ESO/magnetita.jpg" title="Magnetita de Bolivia. [&copy; Rob Lavinsky & iRocks.com](https://commons.wikimedia.org/wiki/File:Magnetite-118736.jpg)." lightbox="false" width="40%" >}}
 
 ---
 
