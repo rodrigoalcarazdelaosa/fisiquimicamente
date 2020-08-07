@@ -93,8 +93,14 @@ Puedes aprender más sobre **masas**, **resortes** y la **ley de Hooke** con las
 ## Máquinas simples
 Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**. La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza aplicada.
 
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Palanca
-{{< figure library="true" src="fuerzas-2ESO/palanca.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/palanca.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" >}}
 
 La **ley de la palanca** establece:
 
@@ -102,19 +108,29 @@ $$
 P\cdot B_P = R\cdot B_R
 $$
 
+---
+
 ### Torno
-{{< figure library="true" src="fuerzas-2ESO/torno.png" title="Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/36300/36344/wheelaxle2_36344.htm)." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/torno.png" title="Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/36300/36344/wheelaxle2_36344.htm)." lightbox="false" >}}
+
+---
 
 ### Polea
-{{< figure library="true" src="fuerzas-2ESO/polea.png" title="[Themightyquill](https://commons.wikimedia.org/wiki/File:Block-and-tackle-in-use.svg)" lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/polea.png" title="[Themightyquill](https://commons.wikimedia.org/wiki/File:Block-and-tackle-in-use.svg)" lightbox="false" >}}
+
+---
 
 ### Plano inclinado
-{{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)" lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)" lightbox="false" >}}
+
+---
 
 ### Cuña
-{{< figure library="true" src="fuerzas-2ESO/cuña.png" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)" lightbox="true" width="50%" >}}
+{{< figure library="true" src="fuerzas-2ESO/cuña.png" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)" lightbox="false" width="50%" >}}
+
+---
 
 ### Tornillo
-{{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" width="50%" >}}
+{{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="50%" >}}
 
 {{% /section %}}
