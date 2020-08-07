@@ -91,7 +91,9 @@ Puedes aprender más sobre **masas**, **resortes** y la **ley de Hooke** con las
 {{% section %}}
 
 ## Máquinas simples
-Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**. La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza aplicada.
+Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**.
+
+La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza aplicada.
 
 (continúa hacia abajo)
 
