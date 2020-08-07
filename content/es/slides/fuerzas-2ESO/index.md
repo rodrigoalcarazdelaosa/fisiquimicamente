@@ -57,6 +57,8 @@ $$
 
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario.
 
+---
+
 ### Ley de Hooke
 La **ley de Hooke** relaciona el alargamiento o elongación, $\Delta x$, que sufre un muelle o resorte bajo la acción de una cierta fuerza $F$:
 
