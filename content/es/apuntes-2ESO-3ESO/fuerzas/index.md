@@ -206,7 +206,7 @@ Materiales *magnetizados*.
 ##### Artificiales temporales
 [**Electroimanes**](https://es.wikipedia.org/wiki/Electroim%C3%A1n).
 
-{{< figure library="true" src="fuerzas-2ESO/electroiman.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="fuerzas-2ESO/electroiman.svg" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="100%" >}}
 
 #### Experiencia de Ørsted
 {{< figure library="true" src="fuerzas-2ESO/experimento-Oersted.png" title="Una corriente eléctrica desvía una aguja imantada. https://commons.wikimedia.org/wiki/File:Oersted_experiment.png." lightbox="true" >}}
