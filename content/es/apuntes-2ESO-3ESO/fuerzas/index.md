@@ -42,14 +42,14 @@ En el siguiente vídeo del [Departamento de Física y Química del IES Valle del
 
 {{< youtube 1-FP1_oD-zI >}}
 
-2. Ley **fundamental** de la dinámica:
+#### 2. Ley fundamental de la dinámica
 > El cambio de movimiento es proporcional a la fuerza ejercida y se hace en la dirección de la línea recta en que se ejerce la fuerza.
 
 $$
 F = m\cdot a\quad \text{(la aceleración es proporcional a la fuerza neta)}
 $$
 
-3. Ley de la **acción-reacción**:
+#### 3. Ley de la acción-reacción
 > Para toda acción siempre hay una reacción igual y opuesta.
 
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario.
