@@ -16,9 +16,9 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "📚 Apuntes de Física y Química"
-  content = "**En formato texto, diapositivas y póster (tipo _chuleta_)**"
-  align = "left"  # Choose `center`, `left`, or `right`.
+  title = "2º ESO"
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
