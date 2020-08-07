@@ -109,6 +109,7 @@ La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza apl
 
 ---
 
+#### Ley de la palanca
 La **ley de la palanca** establece:
 
 $$
