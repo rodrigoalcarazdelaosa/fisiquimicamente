@@ -224,7 +224,6 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 
 ---
 
-#### Analogías y diferencias entre las fuerzas gravitatoria y eléctrica
 <table>
 <thead>
 <tr>
