@@ -129,7 +129,7 @@ $$
 ---
 
 ### Plano inclinado
-{{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)" lightbox="false" >}}
+{{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)" lightbox="false" width="55%" >}}
 
 ---
 
