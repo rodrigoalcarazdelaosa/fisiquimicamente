@@ -209,7 +209,7 @@ siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
 
 Puedes aprender más sobre la **fuerza gravitatoria** con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 ---
 
