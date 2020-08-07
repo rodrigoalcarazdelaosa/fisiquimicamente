@@ -276,6 +276,8 @@ Extremos del imán donde las fuerzas son más intensas.
 ##### Línea neutra
 Línea que separa las zonas polarizadas.
 
+---
+
 #### Tipos de imanes
 ##### Naturales
 **Magnetita** ($\ce{Fe3O4}$).
