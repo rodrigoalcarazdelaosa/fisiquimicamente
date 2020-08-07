@@ -157,9 +157,9 @@ $$
 ## Principales fuerzas de la naturaleza
 
 - [Rozamiento](#/3/1)
-- Gravitatoria
-- Eléctrica
-- Magnética
+- [Gravitatoria](#/3/6)
+- [Eléctrica](#/3/9)
+- [Magnética](#/3/12)
 
 (continúa hacia abajo)
 
