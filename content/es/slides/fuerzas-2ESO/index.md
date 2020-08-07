@@ -298,6 +298,8 @@ Materiales *magnetizados*.
 ##### Artificiales temporales
 [**Electroimanes**](https://es.wikipedia.org/wiki/Electroim%C3%A1n).
 
+{{< figure library="true" src="fuerzas-2ESO/electroiman.svg" lightbox="false" width="100%" >}}
+
 ---
 
 #### Experiencia de Ørsted
