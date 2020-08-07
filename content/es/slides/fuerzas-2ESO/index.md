@@ -187,7 +187,7 @@ Puedes aprender más sobre la **naturaleza** del **rozamiento** con esta **simul
 
 Puedes seguir aprendiendo más cosas sobre la **relación** entre las **fuerzas** y el **movimiento** con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 ### Gravitatoria
 La **fuerza gravitatoria** es la fuerza con la que los **cuerpos** se **atraen** entre sí, siendo directamente proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia que los separa.
