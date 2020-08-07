@@ -26,7 +26,7 @@ links:
   name: Póster
   url: fuerzas-poster.pdf
   
-slides: fuerzas-2ESO  
+slides: fuerzas-2ESO
 ---
 
 {{% toc %}}
