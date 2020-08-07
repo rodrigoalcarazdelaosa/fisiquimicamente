@@ -39,7 +39,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
-En el siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ver un ejemplo de cómo los objetos tienden a mantener su estado de reposo, utilizando un pulsador de bolígrafo y una cámara de alata velocidad:
+En el siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ver un ejemplo de cómo los objetos tienden a mantener su estado de reposo:
 
 {{< youtube 1-FP1_oD-zI >}}
 
