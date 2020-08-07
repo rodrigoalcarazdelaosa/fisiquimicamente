@@ -139,6 +139,6 @@ $$
 ---
 
 ### Tornillo
-{{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="50%" >}}
+{{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="20%" >}}
 
 {{% /section %}}
