@@ -3632,7 +3632,9 @@ que es el máximo rendimiento que puede obtenerse para un ciclo térmico que se 
 ---
 
 ### Motor de explosión
-Se trata de una **máquina térmica** de **combustión interna** producida por una chispa eléctrica. Se puede considerar a **volumen constante.** El más utilizado es el de **cuatro tiempos** (gasolina), siendo el **ciclo de Otto** la aproximación más empleada.
+Se trata de una **máquina térmica** de **combustión interna** producida por una chispa eléctrica. Se puede considerar a **volumen constante**.
+
+El más utilizado es el de **cuatro tiempos** (gasolina), siendo el **ciclo de Otto** la aproximación más empleada.
 
 ---
 
