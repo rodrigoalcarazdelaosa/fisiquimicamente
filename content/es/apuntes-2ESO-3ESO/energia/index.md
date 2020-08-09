@@ -1,7 +1,7 @@
 ---
 title: Energía
 subtitle: Transformaciones energéticas, calor y temperatura
-summary: "`PRÓXIMAMENTE` <br> Concepto de energía. Transformaciones energéticas. Calor y temperatura."
+summary: "`EN CONSTRUCCIÓN` <br> Concepto de energía. Transformaciones energéticas. Calor y temperatura."
 tags:
 - 2º ESO
 - 3º ESO
@@ -16,20 +16,18 @@ image:
   caption: Foto de [**timJ**](https://unsplash.com/@the_roaming_platypus) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-# links:
+links:
 # - icon_pack: fas
 # icon: download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
   
-# - icon_pack: fas
-#  icon: download
-#  name: Póster
-#  url: movimientos_poster.pdf  
+- icon_pack: fas
+  icon: download
+  name: Póster
+  url: energia-poster.pdf  
 ---
 
-Apuntes sobre energía, calor y temperatura en formato texto y póster (tipo _chuleta_).
-
-{{% alert note %}}
-Próximamente...
+{{% alert warning %}}
+En construcción...
 {{% /alert %}}
