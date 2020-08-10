@@ -42,7 +42,7 @@ links:
 ### Energía eléctrica
 ### Transformaciones energéticas
 
-## Temperatura
+## Temperatura {{<  icon name="thermometer-three-quarters" pack="fas" >}}
 
 ## Mecanismos de transferencia de energía
 ### Conducción
