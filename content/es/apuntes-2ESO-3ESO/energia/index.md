@@ -1,7 +1,7 @@
 ---
 title: Energía
 subtitle: Transformaciones energéticas, calor y temperatura
-summary: "`EN CONSTRUCCIÓN` <br> Concepto de energía. Transformaciones energéticas. Calor y temperatura."
+summary: "Concepto de energía. Transformaciones energéticas. Calor y temperatura."
 tags:
 - 2º ESO
 - 3º ESO
@@ -28,6 +28,4 @@ links:
   url: energia-poster.pdf  
 ---
 
-{{% alert warning %}}
-En construcción...
-{{% /alert %}}
+## Concepto de energía
