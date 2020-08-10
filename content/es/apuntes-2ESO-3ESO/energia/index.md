@@ -126,7 +126,7 @@ Materiales que han sido adaptados para poder ser utilizados en la generación de
 #### Energía solar {{<  icon name="sun" pack="fas" >}}
 #### Energía eólica {{<  icon name="wind" pack="fas" >}}
 #### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
-#### Biomasa {{<  icon name="tree" pack="fas" >}}
+#### Biomasa {{<  icon name="seedling" pack="fas" >}}
 #### Energía geotérmica {{<  icon name="globe-europe" pack="fas" >}}
 #### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
 #### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
