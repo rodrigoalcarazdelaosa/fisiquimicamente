@@ -88,6 +88,10 @@ $$
 
 {{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Kinetic_theory_of_gases.svg." lightbox="false" width="100%" >}}
 
+Puedes profundizar en el concepto de **temperatura** con ayuda de esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Mecanismos de transferencia de energía
 La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$). El calor se puede **transferir** mediante:
 
