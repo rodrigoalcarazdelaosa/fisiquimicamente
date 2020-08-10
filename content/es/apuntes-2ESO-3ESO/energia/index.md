@@ -39,7 +39,7 @@ La energía se puede transferir, almacenar o disipar, pero no crear ni destruir.
 En el **SI** la energía se mide en **julios** ($1\thinspace\mathrm J = 1\thinspace\mathrm{N\thinspace m} = 1\thinspace\mathrm{kg\thinspace m^2\thinspace s^{-2}}$). Otras unidades de energía son la **caloría** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm J$) o el **kilovatio hora**, $\mathrm{kW\thinspace h}$:
 
 $$
-1\thinspace\mathrm{\cancel{kW}\cancel{h}}\cdot \frac{\SI{1000}{W}}{\SI{1}{\cancel \kilo\W}}\cdot \frac{\SI{3600}{s}}{\SI{1}{\cancel \hour}} = \SI{3.6e6}{\W\second} = \SI{3.6e6}{J}
+1\thinspace\mathrm{\cancel{kW}\cancel{h}}\cdot \frac{1000\thinspace\mathrm W}{1\thinspace\mathrm{\cancel kW}}\cdot \frac{\SI{3600}{s}}{\SI{1}{\cancel \hour}} = \SI{3.6e6}{\W\second} = \SI{3.6e6}{J}
 $$
 
 ## Tipos de energía
