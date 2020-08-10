@@ -61,7 +61,7 @@ Es la energía que poseen las **ondas electromagnéticas**, como la luz por ejem
 ### Energía eléctrica
 Es la energía que poseen las **cargas eléctricas** en movimiento.
 
-### Transformaciones energéticas
+## Transformaciones energéticas
 La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en distintas **transformaciones energéticas**:
 
 | <span style="font-variant:small-caps;">**energía inicial**</span> | <span style="font-variant:small-caps;">**energía final**</span> | <span style="font-variant:small-caps;">**aparato/dispositivo**</span> |
