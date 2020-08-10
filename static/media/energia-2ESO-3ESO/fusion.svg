@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="fusion.svg"
+   id="svg158"
+   version="1.1"
+   viewBox="0 0 66.145832 78.052086"
+   height="295"
+   width="250">
+  <sodipodi:namedview
+     inkscape:current-layer="svg158"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="147.5"
+     inkscape:cx="237.1589"
+     inkscape:zoom="2.0372881"
+     showgrid="false"
+     id="namedview163"
+     inkscape:window-height="900"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs152">
+    <radialGradient
+       id="radialGradient1197"
+       cx="-266.29529"
+       cy="-43.5173"
+       r="12.6316"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,141.31571,-3.5984917)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#bbccee;stop-opacity:1"
+         id="stop1193" />
+      <stop
+         offset="1"
+         style="stop-color:#2a54a9;stop-opacity:1"
+         id="stop1195" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#neutron_7_-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388606,0,0,-0.36388606,111.67554,48.80107)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="neutron_6_-0">
+      <stop
+         id="stop4-0"
+         style="stop-color:#bbccee;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop6-9"
+         style="stop-color:#2a54a9;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#neutron_8_-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,111.14625,-7.8328021)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="proton_4_-5">
+      <stop
+         id="stop10-2"
+         style="stop-color:#ffcccc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop12-0"
+         style="stop-color:#b50000;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       fr="0"
+       fy="-43.5173"
+       fx="-266.29529"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,107.44122,-4.1277805)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="neutron_7_-5">
+      <stop
+         id="stop16-8"
+         style="stop-color:#bbccee;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop18-6"
+         style="stop-color:#2a54a9;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,141.31571,-3.5984917)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="neutron_8_-7">
+      <stop
+         id="stop24-9"
+         style="stop-color:#AFAFAF"
+         offset="0" />
+      <stop
+         id="stop26-4"
+         style="stop-color:#565656"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,139.19855,-8.8913797)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="proton_5_-3">
+      <stop
+         id="stop30-3"
+         style="stop-color:#ffcccc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop32-8"
+         style="stop-color:#b50000;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,135.49353,-5.1863581)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="neutron_9_-7">
+      <stop
+         id="stop36-4"
+         style="stop-color:#bbccee;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop38-3"
+         style="stop-color:#2a54a9;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,273.3071,73.148353)"
+       r="12.6316"
+       cy="67.028099"
+       cx="-613.93158"
+       id="proton_6_-5">
+      <stop
+         id="stop44-6"
+         style="stop-color:#ffcccc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop46-4"
+         style="stop-color:#b50000;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,269.60208,63.091897)"
+       r="12.6316"
+       cy="51.391701"
+       cx="-613.40588"
+       id="neutron_10_-4">
+      <stop
+         id="stop51-8"
+         style="stop-color:#bbccee;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop53-1"
+         style="stop-color:#2a54a9;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,288.45799,81.616949)"
+       r="12.6316"
+       cy="75.391701"
+       cx="-661.38623"
+       id="neutron_11_-9">
+      <stop
+         id="stop58-0"
+         style="stop-color:#bbccee;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop60-7"
+         style="stop-color:#2a54a9;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,250.68001,78.441241)"
+       r="12.6316"
+       cy="77.937103"
+       cx="-569.56799"
+       id="proton_7_-5">
+      <stop
+         id="stop65-6"
+         style="stop-color:#ffcccc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop67-8"
+         style="stop-color:#b50000;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.3130214,-0.01601225,-0.01467791,-0.28692746,70.315109,-56.022721)"
+       r="42.0173"
+       cy="-292.409"
+       cx="-149.4801"
+       id="SVGID_1_-5">
+      <stop
+         id="stop105-3"
+         style="stop-color:#FFFF00"
+         offset="0" />
+      <stop
+         id="stop107-7"
+         style="stop-color:#FFA400"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2347,-0.06316008,-0.05707934,-1.1158,354.4024,-205.1697)"
+       r="18.2843"
+       cy="-271.5773"
+       cx="-201.7878"
+       id="SVGID_2_-6">
+      <stop
+         id="stop112-4"
+         style="stop-color:#FFFFFF"
+         offset="0" />
+      <stop
+         id="stop114-2"
+         style="stop-color:#FFFEBF"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1828,-0.06050476,-0.05546277,-1.0842,278.1465,-211.3167)"
+       r="42.0173"
+       cy="-292.409"
+       cx="-149.4801"
+       id="radialGradient221">
+      <stop
+         id="stop217"
+         style="stop-color:#FFFF00"
+         offset="0" />
+      <stop
+         id="stop219"
+         style="stop-color:#FFA400"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.375,0,0,-1.375,546.4333,-13.2236)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="radialGradient147">
+      <stop
+         id="stop143"
+         style="stop-color:#AFAFAF"
+         offset="0" />
+      <stop
+         id="stop145"
+         style="stop-color:#565656"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.375,0,0,-1.375,538.4333,-33.2236)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="radialGradient154">
+      <stop
+         id="stop150"
+         style="stop-color:#FFD9BA"
+         offset="0" />
+      <stop
+         id="stop152"
+         style="stop-color:#E66C08"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.375,0,0,-1.375,524.4333,-19.2236)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="radialGradient161">
+      <stop
+         id="stop157"
+         style="stop-color:#AFAFAF"
+         offset="0" />
+      <stop
+         id="stop159"
+         style="stop-color:#565656"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.375,0,0,-1.375,432.4333,-29.2236)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="radialGradient132">
+      <stop
+         id="stop128"
+         style="stop-color:#FFD9BA"
+         offset="0" />
+      <stop
+         id="stop130"
+         style="stop-color:#E66C08"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.375,0,0,-1.375,418.4333,-15.2236)"
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       id="radialGradient139">
+      <stop
+         id="stop135"
+         style="stop-color:#AFAFAF"
+         offset="0" />
+      <stop
+         id="stop137"
+         style="stop-color:#565656"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient193"
+       cx="-569.56799"
+       cy="77.937103"
+       r="12.6316"
+       gradientTransform="matrix(1.375,0,0,-1.375,848.6833,133.7763)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFD9BA"
+         id="stop189" />
+      <stop
+         offset="1"
+         style="stop-color:#E66C08"
+         id="stop191" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient185"
+       cx="-661.38623"
+       cy="75.391701"
+       r="12.6316"
+       gradientTransform="matrix(1.375,0,0,-1.375,958.4333,146.7762)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#AFAFAF"
+         id="stop181" />
+      <stop
+         offset="1"
+         style="stop-color:#565656"
+         id="stop183" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient177"
+       cx="-613.40588"
+       cy="51.391701"
+       r="12.6316"
+       gradientTransform="matrix(1.375,0,0,-1.375,902.1833,111.7764)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#AFAFAF"
+         id="stop173" />
+      <stop
+         offset="1"
+         style="stop-color:#565656"
+         id="stop175" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient169"
+       cx="-613.93158"
+       cy="67.028099"
+       r="12.6316"
+       gradientTransform="matrix(1.375,0,0,-1.375,916.1833,123.7763)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFD9BA"
+         id="stop165" />
+      <stop
+         offset="1"
+         style="stop-color:#E66C08"
+         id="stop167" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient228"
+       cx="-201.7878"
+       cy="-271.5773"
+       r="18.2843"
+       gradientTransform="matrix(1.2347,-0.06316008,-0.05707934,-1.1158,354.4024,-205.1697)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop224" />
+      <stop
+         offset="1"
+         style="stop-color:#FFFEBF"
+         id="stop226" />
+    </radialGradient>
+    <radialGradient
+       r="12.6316"
+       cy="-43.5173"
+       cx="-266.29529"
+       gradientTransform="matrix(0.36388605,0,0,-0.36388605,141.31571,-3.5984917)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient1184"
+       xlink:href="#radialGradient1197"
+       inkscape:collect="always" />
+  </defs>
+  <metadata
+     id="metadata155">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="neutron_3_"
+     class="st0"
+     d="m 20.814299,65.69165 c 0,2.40826 -1.958367,4.36664 -4.366632,4.36664 -2.408264,0 -4.366632,-1.95838 -4.366632,-4.36664 0,-2.40827 1.958368,-4.36662 4.366632,-4.36662 2.408265,0 4.366632,1.95835 4.366632,4.36662 z"
+     style="fill:url(#neutron_6_-0);stroke:#000000;stroke-width:0.26464438;stroke-miterlimit:10;fill-opacity:1.0" />
+  <g
+     id="g1201">
+    <path
+       id="proton"
+       class="st1"
+       d="m 20.285011,9.0577562 c 0,2.4082638 -1.958368,4.3666328 -4.366632,4.3666328 -2.408264,0 -4.366633,-1.958369 -4.366633,-4.3666328 0,-2.408264 1.958369,-4.3666326 4.366633,-4.3666326 2.408264,0 4.366632,1.9583686 4.366632,4.3666326 z"
+       style="fill:url(#proton_4_-5);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10;fill-opacity:1.0" />
+    <path
+       id="neutron"
+       class="st2"
+       d="m 16.57999,12.762778 c 0,2.408264 -1.958369,4.366632 -4.366633,4.366632 -2.4082639,0 -4.3666325,-1.958368 -4.3666325,-4.366632 0,-2.408264 1.9583686,-4.3666328 4.3666325,-4.3666328 2.408264,0 4.366633,1.9583688 4.366633,4.3666328 z"
+       style="fill:url(#neutron_7_-5);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10;fill-opacity:1.0" />
+  </g>
+  <g
+     id="g1206">
+    <path
+       id="neutron_1_"
+       class="st3"
+       d="m 50.454473,13.292067 c 0,2.408264 -1.958369,4.366632 -4.366633,4.366632 -2.408264,0 -4.366632,-1.958368 -4.366632,-4.366632 0,-2.408264 1.958368,-4.366633 4.366632,-4.366633 2.408264,0 4.366633,1.958369 4.366633,4.366633 z"
+       style="fill:url(#radialGradient1184);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10" />
+    <path
+       id="proton_1_"
+       class="st4"
+       d="m 48.337318,7.9991786 c 0,2.4082644 -1.958369,4.3666324 -4.366633,4.3666324 -2.408264,0 -4.366632,-1.958368 -4.366632,-4.3666324 0,-2.408264 1.958368,-4.3666326 4.366632,-4.3666326 2.408264,0 4.366633,1.9583686 4.366633,4.3666326 z"
+       style="fill:url(#proton_5_-3);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10" />
+    <path
+       id="neutron_2_"
+       class="st5"
+       d="m 44.632296,11.7042 c 0,2.408264 -1.958368,4.366633 -4.366632,4.366633 -2.408265,0 -4.366633,-1.958369 -4.366633,-4.366633 0,-2.4082638 1.958368,-4.3666324 4.366633,-4.3666324 2.408264,0 4.366632,1.9583686 4.366632,4.3666324 z"
+       style="fill:url(#neutron_9_-7);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10" />
+  </g>
+  <g
+     id="g1212">
+    <path
+       style="fill:url(#proton_6_-5);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10"
+       d="m 55.959077,49.812989 c 0,2.408264 -1.958369,4.366632 -4.366633,4.366632 -2.408264,0 -4.366633,-1.958368 -4.366633,-4.366632 0,-2.408264 1.958369,-4.366633 4.366633,-4.366633 2.408264,0 4.366633,1.958369 4.366633,4.366633 z"
+       class="st6"
+       id="proton_2_" />
+    <path
+       style="fill:url(#neutron_10_-4);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10"
+       d="m 52.439306,45.446361 c 0,2.408264 -1.958369,4.366633 -4.366633,4.366633 -2.408264,0 -4.366632,-1.958369 -4.366632,-4.366633 0,-2.408264 1.958368,-4.366632 4.366632,-4.366632 2.408264,0 4.366633,1.958368 4.366633,4.366632 z"
+       class="st7"
+       id="neutron_5_" />
+    <path
+       style="fill:url(#neutron_11_-9);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10"
+       d="m 53.841921,55.238201 c 0,2.408264 -1.958368,4.366633 -4.366632,4.366633 -2.408264,0 -4.366633,-1.958369 -4.366633,-4.366633 0,-2.408264 1.931904,-4.366632 4.366633,-4.366632 2.434728,0 4.366632,1.958368 4.366632,4.366632 z"
+       class="st8"
+       id="neutron_4_" />
+    <path
+       style="fill:url(#proton_7_-5);stroke:#000000;stroke-width:0.264644;stroke-miterlimit:10"
+       d="m 49.475289,51.136211 c 0,2.408264 -1.958369,4.366632 -4.366633,4.366632 -2.408264,0 -4.366632,-1.958368 -4.366632,-4.366632 0,-2.408264 1.931904,-4.366633 4.366632,-4.366633 2.434729,0 4.366633,1.958369 4.366633,4.366633 z"
+       class="st9"
+       id="proton_3_" />
+  </g>
+  <switch
+     transform="translate(1.5875)"
+     id="switch98"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264644">
+    <text
+       systemLanguage="uk"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264644"
+       id="text74-uk"
+       class="st10 st11"
+       x="2.1054688"
+       y="75.354568"><tspan
+         id="trsvg1-uk">n + 14,1 МеВ</tspan></text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264644"
+       id="text74"
+       class="st10 st11"
+       x="2.1054688"
+       y="75.354568"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="trsvg1">n + 14.1 MeV</tspan></text>
+  </switch>
+  <switch
+     transform="translate(2.6458334)"
+     id="switch104"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264644">
+    <text
+       systemLanguage="uk"
+       class="st10 st11"
+       id="text76-uk"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264644"
+       x="31.194996"
+       y="64.906281"><tspan
+         id="trsvg2-uk">He + 3,5 МеВ</tspan></text>
+    <text
+       class="st10 st11"
+       id="text76"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264644"
+       x="31.194996"
+       y="64.906281"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="trsvg2">He + 3.5 MeV</tspan></text>
+  </switch>
+  <switch
+     transform="translate(2.6458334)"
+     id="switch110"
+     style="font-size:3.17573px;font-family:'Liberation Sans';stroke-width:0.264644">
+    <text
+       systemLanguage="uk"
+       class="st10 st12"
+       id="text78-uk"
+       style="font-size:3.17573px;font-family:'Liberation Sans';stroke-width:0.264644"
+       x="29.360851"
+       y="62.930576"><tspan
+         id="trsvg3-uk">4</tspan></text>
+    <text
+       class="st10 st12"
+       id="text78"
+       style="font-size:3.17573px;font-family:'Liberation Sans';stroke-width:0.264644"
+       x="29.360851"
+       y="62.930576"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="trsvg3">4</tspan></text>
+  </switch>
+  <switch
+     id="switch122"
+     style="font-size:5.2916667px;font-family:'Liberation Sans';stroke-width:0.26464441;-inkscape-font-specification:'Liberation Sans, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+    <text
+       systemLanguage="uk"
+       class="st10 st11"
+       id="text83-uk"
+       style="font-size:5.2916667px;font-family:'Liberation Sans';stroke-width:0.26464441;-inkscape-font-specification:'Liberation Sans, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       x="51.123707"
+       y="8.5475149"><tspan
+         id="trsvg5-uk">H</tspan></text>
+    <text
+       class="st10 st11"
+       id="text83"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264644"
+       x="51.123707"
+       y="8.5475149"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="trsvg5">H</tspan></text>
+  </switch>
+  <switch
+     id="switch128"
+     style="font-size:3.17573285px;font-family:'Liberation Sans';stroke-width:0.26464441">
+    <text
+       systemLanguage="uk"
+       class="st10 st12"
+       id="text85-uk"
+       style="font-size:3.17573285px;font-family:'Liberation Sans';stroke-width:0.26464441"
+       x="49.289562"
+       y="6.5717854"><tspan
+         id="trsvg6-uk">3</tspan></text>
+    <text
+       class="st10 st12"
+       id="text85"
+       style="font-size:3.17573px;font-family:'Liberation Sans';stroke-width:0.264644"
+       x="49.289562"
+       y="6.5717854"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="trsvg6">3</tspan></text>
+  </switch>
+  <switch
+     id="switch140"
+     style="font-size:5.2916667px;font-family:'Liberation Sans';stroke-width:0.26464441;-inkscape-font-specification:'Liberation Sans, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">
+    <text
+       systemLanguage="uk"
+       class="st10 st11"
+       id="text90-uk"
+       style="font-size:5.2916667px;font-family:'Liberation Sans';stroke-width:0.26464441;-inkscape-font-specification:'Liberation Sans, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       x="6.9841695"
+       y="6.8918991"><tspan
+         id="trsvg8-uk">H</tspan></text>
+    <text
+       class="st10 st11"
+       id="text90"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264644"
+       x="6.9841695"
+       y="6.8918991"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="trsvg8">H</tspan></text>
+  </switch>
+  <switch
+     id="switch146"
+     style="font-size:3.17573285px;font-family:'Liberation Sans';stroke-width:0.26464441">
+    <text
+       systemLanguage="uk"
+       class="st10 st12"
+       id="text92-uk"
+       style="font-size:3.17573285px;font-family:'Liberation Sans';stroke-width:0.26464441"
+       x="5.1500254"
+       y="4.9161963"><tspan
+         id="trsvg9-uk">2</tspan></text>
+    <text
+       class="st10 st12"
+       id="text92"
+       style="font-size:3.17573px;font-family:'Liberation Sans';stroke-width:0.264644"
+       x="5.1500254"
+       y="4.9161963"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="trsvg9">2</tspan></text>
+  </switch>
+  <g
+     id="g312">
+    <path
+       style="stroke-width:0.26464441"
+       id="arr4"
+       d="M 24.492857,36.898347 19.094112,56.58789 c -0.344038,-0.132322 -0.635147,-0.344037 -0.873327,-0.661611 l 0.23818,2.911089 v 0.02646 0 l 0.05293,0.741005 0.423431,-0.608682 v 0 l 1.720189,-2.408265 c -0.344038,0.132323 -0.741005,0.158787 -1.085043,0.105858 l 5.398746,-19.689543 z" />
+    <path
+       style="stroke-width:0.26464441"
+       id="arr3"
+       d="m 33.014407,35.469267 -0.396967,0.344038 6.007428,6.907219 c -0.291109,0.211715 -0.635146,0.317573 -1.005648,0.344038 l 2.540586,1.402615 0.02646,0.02646 h 0.02647 l 0.661611,0.370503 -0.264645,-0.688076 v 0 l -1.032113,-2.752302 c -0.07939,0.370503 -0.264644,0.688076 -0.502824,0.979185 z" />
+    <path
+       style="stroke-width:0.26464441"
+       id="arr2"
+       d="m 40.927275,16.811837 -5.980964,6.007428 C 34.734596,22.528156 34.575809,22.210583 34.52288,21.813616 l -1.217364,2.646444 -0.02646,0.02647 v 0 l -0.317573,0.688075 0.688076,-0.317573 v 0 l 2.672908,-1.243829 c -0.370502,-0.05293 -0.71454,-0.211715 -0.979184,-0.449895 l 6.007428,-6.007428 z" />
+    <path
+       style="stroke-width:0.26464441"
+       id="arr1"
+       d="m 16.791705,16.044368 -0.423431,0.317574 4.234311,5.795712 c -0.317574,0.185251 -0.661611,0.264644 -1.058578,0.264644 l 2.434729,1.614331 0.02646,0.02646 v 0 l 0.635147,0.396966 -0.211716,-0.71454 -0.793933,-2.831695 c -0.105858,0.370503 -0.344038,0.661611 -0.608682,0.926256 z" />
+  </g>
+  <path
+     style="fill:url(#SVGID_1_-5);stroke:#f8f053;stroke-width:0.793933;stroke-linecap:round;stroke-miterlimit:6;stroke-opacity:0.5278"
+     id="path110"
+     d="m 16.447668,27.979831 7.198327,-1.931904 -0.95272,-7.118935 6.007428,5.742784 4.604813,-6.61611 -1.111507,8.865587 8.442157,-0.423431 -7.965797,4.260775 5.372282,6.536717 -7.066006,-3.413913 -2.090691,8.256905 -2.249477,-7.410043 -8.627407,2.964017 4.842992,-6.13975 z"
+     class="st14" />
+  <polygon
+     class="st15"
+     points="124.6,119.3 120,144 114.4,119.3 96.3,132.9 108.6,113 86.6,107.4 111.2,105 103.6,86.3 121.4,103 132.7,83.3 127.4,105.1 151,103.6 129.8,112.1 143.7,132.1 "
+     id="polygon117"
+     style="fill:url(#SVGID_2_-6)"
+     transform="matrix(0.2646444,0,0,0.2646444,-3.2948047,-0.09894)" />
+</svg>
