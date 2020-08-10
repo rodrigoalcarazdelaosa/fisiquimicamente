@@ -64,7 +64,7 @@ Es la energía que poseen las **cargas eléctricas** en movimiento.
 ### Transformaciones energéticas
 La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en distintas **transformaciones energéticas**:
 
-| Energía inicial | Energía final | Aparato/dispositivo |
+| <span style="font-variant:small-caps;">**energía inicial**</span> | Energía final | Aparato/dispositivo |
 | :---: | :---: | :---: |
 | Mecánica | Térmica | Pastilla de freno |
 
