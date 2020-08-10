@@ -85,6 +85,8 @@ $$
 {{< figure library="true" src="energia-2ESO-3ESO/temperatura.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Kinetic_theory_of_gases.svg." lightbox="true" >}}
 
 ## Mecanismos de transferencia de energía
+La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$). El calor se puede **transferir** mediante:
+
 ### Conducción
 ### Convección
 ### Radiación
