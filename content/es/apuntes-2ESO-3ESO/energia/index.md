@@ -137,7 +137,7 @@ Obtenida a partir del aprovechamiento de la **radiación electromagnética** pro
 #### Energía eólica {{<  icon name="wind" pack="fas" >}}
 Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
 
-{{< figure library="true" src="energia-2ESO-3ESO/molino-mareas.jpg" title="Molino de mareas de Santa Olaja. https://commons.wikimedia.org/wiki/File:Molino_de_marea_de_santa_Olaja.jpg." lightbox="true" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/eolica.jpg" title="Parque eólico. Foto de [**RawFilm**](https://unsplash.com/@rawfilm) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
 #### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
 Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
@@ -157,6 +157,6 @@ Es la **energía térmica** generada y almacenada en la **Tierra**. El calor del
 #### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
 Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando las **mareas** (*mareomotriz*) o las **olas** (*undimotriz*).
 
-{{< figure library="true" src="energia-2ESO-3ESO/geotermica.jpg" title="Aguas termales. Imagen de [**Hameg**](https://pixabay.com/es/users/hameg-8381395/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}				
+{{< figure library="true" src="energia-2ESO-3ESO/molino-mareas.jpg" title="Molino de mareas de Santa Olaja. https://commons.wikimedia.org/wiki/File:Molino_de_marea_de_santa_Olaja.jpg." lightbox="true" >}}				
 
 #### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
