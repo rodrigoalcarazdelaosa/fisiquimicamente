@@ -67,25 +67,13 @@ La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en dis
 | <span style="font-variant:small-caps;">**energía inicial**</span> | <span style="font-variant:small-caps;">**energía final**</span> | <span style="font-variant:small-caps;">**aparato/dispositivo**</span> |
 | :---: | :---: | :---: |
 | Mecánica | Térmica | Pastilla de freno |
-
-\begin{center}
-% \caption{Caption}
-% \label{table:label}
-\begin{tabular}{ccc}
-	\toprule
-	\textbf{Energía inicial} & \textbf{Energía final} & \textbf{Aparato}\\
-	\midrule
-	Mecánica & Térmica & Pastilla de freno \\
-	Química & Mecánica & Motor de combustión \\
-	Química & Térmica & Cocina de gas \\
-	Química & Eléctrica & Pila/central térmica \\
-	Radiante & Eléctrica & Panel solar \\
-	Eléctrica & Mecánica & Motor eléctrico \\
-	Eléctrica & Térmica & Estufa eléctrica \\
-	Eléctrica & Radiante & Bombilla \\			
-	\bottomrule
-\end{tabular}
-\end{center}
+| Química | Mecánica | Motor de combustión |
+| Química | Térmica | Cocina de gas |
+| Química | Eléctrica | Pila/central térmica |
+| Radiante | Eléctrica | Panel solar |
+| Eléctrica | Mecánica | Motor eléctrico |
+| Eléctrica | Térmica | Estufa eléctrica |
+| Eléctrica | Radiante | Bombilla |
 
 ## Temperatura {{<  icon name="thermometer-three-quarters" pack="fas" >}}
 
