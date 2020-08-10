@@ -135,6 +135,10 @@ Obtenida a partir del **aprovechamiento** de la **radiación electromagnética**
 {{< figure library="true" src="energia-2ESO-3ESO/solar.svg" title="https://commons.wikimedia.org/wiki/File:Solar_energy.svg." lightbox="false" width="100%" >}}
 
 #### Energía eólica {{<  icon name="wind" pack="fas" >}}
+Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
+
+{{< figure library="true" src="energia-2ESO-3ESO/viento.svg" title="https://commons.wikimedia.org/wiki/File:Wind-turbine-icon.svg." lightbox="false" width="100%" >}}
+
 #### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
 #### Biomasa {{<  icon name="seedling" pack="fas" >}}
 #### Energía geotérmica {{<  icon name="globe-europe" pack="fas" >}}
