@@ -62,3 +62,6 @@ links:
 #### Energía solar {{<  icon name="sun" pack="fas" >}}
 #### Energía eólica {{<  icon name="wind" pack="fas" >}}
 #### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
+#### Biomasa {{<  icon name="tree" pack="fas" >}}
+#### Energía geotérmica {{<  icon name="globe-europe" pack="fas" >}}
+#### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
