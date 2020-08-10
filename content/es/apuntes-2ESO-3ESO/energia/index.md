@@ -166,6 +166,6 @@ La **fusión nuclear** es un proceso en el que dos o más **núcleos** atómicos
 
 {{< figure library="true" src="energia-2ESO-3ESO/fusion.svg" title="Proceso de fusión entre un núcleo de deuterio ($\ce{^2H}$) y uno de tritio ($\ce{^3H}$), dando lugar a un núcleo de helio ($\ce{^4He}$), un neutrón y unos 17.6$\thinspace$MeV de energía. Adaptada de https://commons.wikimedia.org/wiki/File:Deuterium-tritium_fusion.svg." lightbox="false" width="100%" >}}
 
-Puedes conocer más sobre las distintas **fuentes** de **energía** en el siguiente **vídeo**, extracto de la [película pedagógica Energía 3D](http://www.energia3d.es/):
+Puedes conocer más sobre algunas de las principales **fuentes** de **energía** en el siguiente **vídeo**, extracto de la [película pedagógica Energía 3D](http://www.energia3d.es/):
 
 {{< vimeo 30840000 >}}
