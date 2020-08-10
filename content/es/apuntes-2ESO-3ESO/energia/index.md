@@ -36,7 +36,7 @@ La **energía** es la **capacidad** de **producir** transformaciones o **cambios
 La energía se puede transferir, almacenar o disipar, pero no crear ni destruir.
 
 ### Unidades
-En el **SI** la energía se mide en **julios** ($1\thinspace\mathrm J = 1\thinspace\mathrm{N\cdot m} = 1\thinspace\mathrm{kg\thinspace m^2\thinspace s^{-2}}$). Otras unidades de energía son la \textbf{caloría} ($\SI{1}{cal} = \SI{4.18}{J}$) o el \textbf{kilovatio hora}, \si{\kilo\W\hour}:
+En el **SI** la energía se mide en **julios** ($1\thinspace\mathrm J = 1\thinspace\mathrm{N\thinspace m} = 1\thinspace\mathrm{kg\thinspace m^2\thinspace s^{-2}}$). Otras unidades de energía son la **caloría** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm J$) o el \textbf{kilovatio hora}, \si{\kilo\W\hour}:
 \[
 \SI{1}{\cancel \kilo\W\cancel\hour}\cdot \frac{\SI{1000}{W}}{\SI{1}{\cancel \kilo\W}}\cdot \frac{\SI{3600}{s}}{\SI{1}{\cancel \hour}} = \SI{3.6e6}{\W\second} = \SI{3.6e6}{J}
 \]
