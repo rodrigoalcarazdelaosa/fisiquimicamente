@@ -132,6 +132,8 @@ Obtenida a partir del **aprovechamiento** de la **radiación electromagnética**
 ##### Fotovoltaica
 **Generar electricidad** mediante paneles solares {{<  icon name="solar-panel" pack="fas" >}}.
 
+{{< figure library="true" src="energia-2ESO-3ESO/solar.svg" title="https://commons.wikimedia.org/wiki/File:Solar_energy.svg." lightbox="false" width="100%" >}}
+
 #### Energía eólica {{<  icon name="wind" pack="fas" >}}
 #### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
 #### Biomasa {{<  icon name="seedling" pack="fas" >}}
