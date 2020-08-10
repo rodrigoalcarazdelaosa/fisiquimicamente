@@ -59,4 +59,4 @@ links:
 #### Combustibles nucleares
 
 ### Renovables
-#### Energía solar {{<  icon name="solar-energy" pack="fas" >}}
+#### Energía solar {{<  icon name="sun" pack="fas" >}}
