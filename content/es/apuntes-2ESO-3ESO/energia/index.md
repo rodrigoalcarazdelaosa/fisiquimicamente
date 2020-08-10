@@ -82,6 +82,8 @@ $$
 T(\mathrm K) = T(^\circ\mathrm C)+273.15
 $$
 
+{{< figure library="true" src="energia-2ESO-3ESO/temperatura.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Kinetic_theory_of_gases.svg." lightbox="true" >}}
+
 ## Mecanismos de transferencia de energía
 ### Conducción
 ### Convección
