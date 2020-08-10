@@ -109,6 +109,8 @@ Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su te
 [^1]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella.
 
 ## Fuentes de energía
+Una **fuente** de **energía** es cualquier **fenómeno físico** o **químico** del que es posible **explotar** su **energía**.
+
 ### No renovables {{<  icon name="industry" pack="fas" >}}
 #### Combustibles fósiles {{<  icon name="burn" pack="fas" >}}
 #### Combustibles nucleares {{<  icon name="radiation" pack="fas" >}}
