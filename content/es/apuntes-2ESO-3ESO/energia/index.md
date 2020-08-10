@@ -164,4 +164,4 @@ Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando
 #### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
 La **fusión nuclear** es un proceso en el que dos o más **núcleos** atómicos se **combinan** para formar uno o más núcleos atómicos y partículas subatómicas (protones o neutrones) diferentes. La **diferencia** de **masa** entre los reactivos y los productos se manifiesta como la **liberación** o la **absorción** de **energía**.
 
-{{< figure library="true" src="energia-2ESO-3ESO/fusion.svg" title="Proceso de fusión entre un núcleo de deuterio ($\ce{^2H}$) y uno de tritio ($\ce{^3H}$). Adaptada de https://commons.wikimedia.org/wiki/File:Deuterium-tritium_fusion.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/fusion.svg" title="Proceso de fusión entre un núcleo de deuterio ($\ce{^2H}$) y uno de tritio ($\ce{^3H}$), dando lugar a un núcleo de helio ($\ce{^4He}$), un neutrón y unos 17.6$\thinspace$MeV de energía. Adaptada de https://commons.wikimedia.org/wiki/File:Deuterium-tritium_fusion.svg." lightbox="false" width="100%" >}}
