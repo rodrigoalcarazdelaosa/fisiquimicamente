@@ -61,3 +61,4 @@ links:
 ### Renovables
 #### Energía solar {{<  icon name="sun" pack="fas" >}}
 #### Energía eólica {{<  icon name="wind" pack="fas" >}}
+#### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
