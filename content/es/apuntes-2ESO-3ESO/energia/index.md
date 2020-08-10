@@ -118,6 +118,7 @@ Aquellas que se encuentran en la naturaleza en **cantidades limitadas**, no pudi
 Proceden de la biomasa producida en eras pasadas, que ha sufrido enterramiento y tras él, procesos de transformación, por aumento de presión y temperatura, hasta la formación de sustancias de gran contenido energético, como el **petróleo** {{<  icon name="gas-pump" pack="fas" >}}, el **carbón**, el **gas natural** y el gas licuado del petróleo (**GLP**).
 
 #### Combustibles nucleares {{<  icon name="radiation" pack="fas" >}}
+Materiales que han sido adaptados para poder ser utilizados en la generación de energía nuclear, principalmente mediante **fisión nuclear**, como por ejemplo el $\ce{^{233} U}$, el $\ce{^{235} U}$ y el $\ce{^{239} Pu}$.
 
 ### Renovables
 #### Energía solar {{<  icon name="sun" pack="fas" >}}
