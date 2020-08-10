@@ -132,7 +132,7 @@ Obtenida a partir del aprovechamiento de la **radiación electromagnética** pro
 ##### Fotovoltaica
 **Generar electricidad** mediante paneles solares {{<  icon name="solar-panel" pack="fas" >}}.
 
-{{< figure library="true" src="energia-2ESO-3ESO/solar.jpg" title="Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/solar.jpg" title="Granja solar. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
 #### Energía eólica {{<  icon name="wind" pack="fas" >}}
 Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
