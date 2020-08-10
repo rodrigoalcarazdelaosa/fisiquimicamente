@@ -75,6 +75,10 @@ La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en dis
 | Eléctrica | Térmica | Estufa eléctrica |
 | Eléctrica | Radiante | Bombilla |
 
+Aprende más sobre las **formas** y **cambios** de **energía** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Temperatura {{<  icon name="thermometer-three-quarters" pack="fas" >}}
 De acuerdo al **modelo cinético-molecular**, la materia está formada por partículas que están en continuo movimiento. La **temperatura** es una **medida** de la **agitación** (velocidad) **media** de las **partículas** que forman un sistema. La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***. En el **SI**, la temperatura absoluta se mide en **kelvin** (K):
 
