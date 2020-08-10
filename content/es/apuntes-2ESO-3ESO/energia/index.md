@@ -145,6 +145,10 @@ Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua
 {{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" title="Central hidroeléctrica. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
 #### Biomasa {{<  icon name="seedling" pack="fas" >}}
+**Material vegetal** o **animal** utilizado para la **producción** de **energía** (electricidad o calor), o en diversos procesos industriales como **materia prima** para una variedad de productos.
+
+{{< figure library="true" src="energia-2ESO-3ESO/biomasa.jpg" title="*Pellets* de madera. Imagen de [**Ernesto Rodriguez**](https://pixabay.com/es/users/Lernestorod-5382836/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
 #### Energía geotérmica {{<  icon name="globe-europe" pack="fas" >}}
 #### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
 #### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
