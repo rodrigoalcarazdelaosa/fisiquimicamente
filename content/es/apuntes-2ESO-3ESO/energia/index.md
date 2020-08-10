@@ -159,6 +159,6 @@ Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando
 
 {{< figure library="true" src="energia-2ESO-3ESO/molino-mareas.jpg" title="[Molino de mareas de Santa Olaja](https://es.wikipedia.org/wiki/Molino_de_Santa_Olaja), en Arnuero, Cantabria (España). https://commons.wikimedia.org/wiki/File:Molino_de_marea_de_santa_Olaja.jpg." lightbox="true" >}}
 
-{{< figure library="true" src="energia-2ESO-3ESO/olas.jpg" title="Olas. [**Roger Mosley**](https://pixabay.com/es/photos/ola-el-agua-mar-oc%C3%A9ano-pac%C3%ADfico-2089959/)." lightbox="true" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/olas.jpg" title="Energía *undimotriz*. [**Roger Mosley**](https://pixabay.com/es/photos/ola-el-agua-mar-oc%C3%A9ano-pac%C3%ADfico-2089959/)." lightbox="true" >}}
 
 #### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
