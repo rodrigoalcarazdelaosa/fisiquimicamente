@@ -54,7 +54,7 @@ links:
 ### Dilatación
 
 ## Fuentes de energía
-### No renovables
+### No renovables {{<  icon name="industry" pack="fas" >}}
 #### Combustibles fósiles
 #### Combustibles nucleares
 
