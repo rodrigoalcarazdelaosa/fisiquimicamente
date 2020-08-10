@@ -101,7 +101,10 @@ Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar inclu
 
 ## Efectos del calor en los cuerpos
 ### Variación de temperatura y/o cambios de estado
+Cuando dos cuerpos se ponen en **contacto térmico**, el que está a mayor temperatura cede calor (enfriándose) al que está a menor temperatura (calentándose), llegando al cabo de un tiempo a un **equilibrio térmico** (misma temperatura). La variación de temperatura que sufre un cuerpo cuando se le proporciona una cantidad de calor depende de la sustancia de que se trate y de su masa.
+
 ### Dilatación
+Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura. La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en los **termómetros**. La escala **Celsius**, también llamada *centígrada*, es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
 
 ## Fuentes de energía
 ### No renovables {{<  icon name="industry" pack="fas" >}}
