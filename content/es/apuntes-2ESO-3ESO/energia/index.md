@@ -55,8 +55,8 @@ links:
 
 ## Fuentes de energía
 ### No renovables {{<  icon name="industry" pack="fas" >}}
-#### Combustibles fósiles
-#### Combustibles nucleares
+#### Combustibles fósiles {{<  icon name="burn" pack="fas" >}}
+#### Combustibles nucleares {{<  icon name="radiation" pack="fas" >}}
 
 ### Renovables
 #### Energía solar {{<  icon name="sun" pack="fas" >}}
