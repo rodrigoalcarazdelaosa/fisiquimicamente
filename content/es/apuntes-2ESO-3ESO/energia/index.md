@@ -142,7 +142,7 @@ Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** med
 #### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
 Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
 
-{{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" title="Granja solar. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" title="Central hidroeléctrica. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
 #### Biomasa {{<  icon name="seedling" pack="fas" >}}
 #### Energía geotérmica {{<  icon name="globe-europe" pack="fas" >}}
