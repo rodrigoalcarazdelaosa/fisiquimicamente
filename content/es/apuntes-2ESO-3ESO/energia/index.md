@@ -44,9 +44,22 @@ $$
 
 ## Tipos de energía
 ### Energía mecánica
+Es la que poseen los cuerpos debido a su **movimiento** y/o a su **posición**/configuración.	  	  	  	  
+	  
+	  \heading{Energía radiante}
+	  Es la energía que poseen las \textbf{ondas electromagnéticas}, como la luz por ejemplo.
+	  
+	  \heading{Energía eléctrica}
+	  Es la energía que poseen las \textbf{cargas eléctricas} en movimiento.
 ### Energía térmica
+Es la energía que posee un cuerpo por el hecho de estar a una cierta **temperatura**.
+
 ### Energía química
+Es la energía que posee un cuerpo debido a su **estructura interna**. Se pone de manifiesto en **reacciones químicas**, como la combustión por ejemplo.
+
 ### Energía nuclear
+Es la energía almacenada en los **núcleos** de los **átomos**. Se pone de manifiesto en **reacciones nucleares**, como la fisión o la fusión nuclear.
+
 ### Energía radiante
 ### Energía eléctrica
 ### Transformaciones energéticas
