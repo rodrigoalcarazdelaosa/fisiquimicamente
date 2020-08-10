@@ -155,4 +155,6 @@ Es la **energía térmica** generada y almacenada en la **Tierra**. El calor del
 {{< figure library="true" src="energia-2ESO-3ESO/geotermica.jpg" title="Aguas termales. Imagen de [**Hameg**](https://pixabay.com/es/users/hameg-8381395/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 #### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
+Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando las **mareas** (*mareomotriz*) o las **olas** (*undimotriz*).				
+
 #### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
