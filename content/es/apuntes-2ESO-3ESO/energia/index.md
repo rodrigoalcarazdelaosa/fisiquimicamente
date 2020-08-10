@@ -121,7 +121,7 @@ Proceden de la biomasa producida en eras pasadas, que ha sufrido enterramiento y
 Materiales que han sido adaptados para poder ser utilizados en la generación de energía nuclear, principalmente mediante **fisión nuclear**, como por ejemplo el $\ce{^{233} U}$, el $\ce{^{235} U}$ y el $\ce{^{239} Pu}$.
 
 ### Renovables
-{{< figure library="true" src="energia-2ESO-3ESO/energias-renovables.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:M%C3%A9todos_de_transferencia_de_calor.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/energias-renovables.svg" title="Logotipo para las energías renovables de la diseñadora gráfica y directora de arte alemana Melanie Maecker-Tursun de Hamburgo. https://commons.wikimedia.org/wiki/File:Logo_Renewable_Energy_by_Melanie_Maecker-Tursun_V1_4c.svg." lightbox="false" width="100%" >}}
 
 #### Energía solar {{<  icon name="sun" pack="fas" >}}
 #### Energía eólica {{<  icon name="wind" pack="fas" >}}
