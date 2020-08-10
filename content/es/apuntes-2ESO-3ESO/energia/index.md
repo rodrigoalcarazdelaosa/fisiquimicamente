@@ -140,6 +140,8 @@ Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** med
 {{< figure library="true" src="energia-2ESO-3ESO/eolica.svg" title="https://commons.wikimedia.org/wiki/File:Wind-turbine-icon.svg." lightbox="false" width="100%" >}}
 
 #### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
+Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
+
 {{< figure library="true" src="energia-2ESO-3ESO/hidraulica.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Microhydro_System.svg." lightbox="false" width="100%" >}}
 
 #### Biomasa {{<  icon name="seedling" pack="fas" >}}
