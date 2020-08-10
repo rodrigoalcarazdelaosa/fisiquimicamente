@@ -157,6 +157,6 @@ Es la **energía térmica** generada y almacenada en la **Tierra**. El calor del
 #### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
 Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando las **mareas** (*mareomotriz*) o las **olas** (*undimotriz*).
 
-{{< figure library="true" src="energia-2ESO-3ESO/molino-mareas.jpg" title="Molino de mareas de Santa Olaja. https://commons.wikimedia.org/wiki/File:Molino_de_marea_de_santa_Olaja.jpg." lightbox="true" >}}				
+{{< figure library="true" src="energia-2ESO-3ESO/molino-mareas.jpg" title="[Molino de mareas de Santa Olaja](https://es.wikipedia.org/wiki/Molino_de_Santa_Olaja). https://commons.wikimedia.org/wiki/File:Molino_de_marea_de_santa_Olaja.jpg." lightbox="true" >}}				
 
 #### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
