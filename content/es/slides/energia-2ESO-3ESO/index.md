@@ -49,3 +49,56 @@ $$
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Transformaciones energéticas
+
+- [Tipos de energía](#/4)
+- [Transformaciones energéticas](#/4)
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Tipos de energía
+#### Energía mecánica
+Es la que poseen los cuerpos debido a su **movimiento** y/o a su **posición**.
+
+#### Energía térmica
+Es la energía que posee un cuerpo por el hecho de estar a una cierta **temperatura**.
+
+#### Energía química
+Es la energía que posee un cuerpo debido a su **estructura interna**. Se pone de manifiesto en **reacciones químicas**, como la combustión por ejemplo.
+
+#### Energía nuclear
+Es la energía almacenada en los **núcleos** de los **átomos**. Se pone de manifiesto en **reacciones nucleares**, como la fisión o la fusión nuclear.
+
+#### Energía radiante
+Es la energía que poseen las **ondas electromagnéticas**, como la luz por ejemplo.
+
+#### Energía eléctrica
+Es la energía que poseen las **cargas eléctricas** en movimiento.
+
+La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en distintas **transformaciones energéticas**:
+
+| <span style="font-variant:small-caps;">**energía inicial**</span> | <span style="font-variant:small-caps;">**energía final**</span> | <span style="font-variant:small-caps;">**aparato/dispositivo**</span> |
+| :---: | :---: | :---: |
+| Mecánica | Térmica | Pastilla de freno |
+| Química | Mecánica | Motor de combustión |
+| Química | Térmica | Cocina de gas |
+| Química | Eléctrica | Pila/central térmica |
+| Radiante | Eléctrica | Panel solar |
+| Eléctrica | Mecánica | Motor eléctrico |
+| Eléctrica | Térmica | Estufa eléctrica |
+| Eléctrica | Radiante | Bombilla |
+
+Aprende más sobre las **formas** y **cambios** de **energía** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+{{% /section %}}
