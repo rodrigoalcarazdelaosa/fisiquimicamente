@@ -265,7 +265,7 @@ Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** med
 
 ---
 
-#### Energía hidráulica
+#### Energía hidráulica 💧
 Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
 
 {{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" lightbox="false" width="70%" >}}
@@ -279,14 +279,14 @@ Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua
 
 ---
 
-#### Energía geotérmica
+#### Energía geotérmica 🌋
 Es la **energía térmica** generada y almacenada en la **Tierra**. El calor del interior de la Tierra se transmite a través de los cuerpos de roca caliente por conducción y convección.
 
 {{< figure library="true" src="energia-2ESO-3ESO/geotermica.jpg" lightbox="false" width="65%" >}}
 
 ---
 
-#### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
+#### Energías mareomotriz y undimotriz 🌊
 Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando las **mareas** (*mareomotriz*) o las **olas** (*undimotriz*).
 
 ---
