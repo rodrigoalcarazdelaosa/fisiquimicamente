@@ -35,6 +35,8 @@ slides: energia-2ESO-3ESO
 ## Concepto de energía
 La **energía** es la **capacidad** de **producir** transformaciones o **cambios**.
 
+### Conservación de la energía
+
 La energía se puede transferir, almacenar o disipar, pero no crear ni destruir.
 
 ### Unidades
@@ -46,7 +48,7 @@ $$
 
 ## Tipos de energía
 ### Energía mecánica
-Es la que poseen los cuerpos debido a su **movimiento** y/o a su **posición**/configuración.	  	  	  	  
+Es la que poseen los cuerpos debido a su **movimiento** y/o a su **posición**.
 
 ### Energía térmica
 Es la energía que posee un cuerpo por el hecho de estar a una cierta **temperatura**.
