@@ -218,7 +218,7 @@ La variación de temperatura que sufre un cuerpo cuando se le proporciona una ca
 
 ---
 
-Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/slides/materia-2ESO-3ESO/#/3" >}}).
+Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-2eso-3eso/materia/index.md#cambios-de-estado" >}}).
 
 Es importante recordar que, **durante** un **cambio** de estado, la **temperatura** del cuerpo permanece **constante**, ya que durante el cambio la energía transferida al cuerpo se emplea en reorganizar las partículas (romper enlaces).
 
