@@ -251,8 +251,8 @@ La escala **Celsius**, también llamada *centígrada*, es la escala basada en 0 
 ## Fuentes de energía
 Una **fuente** de **energía** es cualquier **fenómeno físico** o **químico** del que es posible **explotar** su **energía**.
 
-- No renovables
-- Renovables
+- [No renovables 🏭](#/4/1)
+- [Renovables 🍃](#/4/1)
 
 (continúa hacia abajo)
 
