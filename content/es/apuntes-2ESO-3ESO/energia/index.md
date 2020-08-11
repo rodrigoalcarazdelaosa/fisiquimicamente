@@ -1,6 +1,6 @@
 ---
 title: Energía
-subtitle: Transformaciones energéticas, calor y temperatura
+subtitle: Transformaciones energéticas. Calor y temperatura. Fuentes de energía
 summary: "Concepto de energía. Transformaciones energéticas. Calor y temperatura. Fuentes de energía."
 tags:
 - 2º ESO
