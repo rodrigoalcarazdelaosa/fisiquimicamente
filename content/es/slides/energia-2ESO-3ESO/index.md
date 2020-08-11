@@ -64,6 +64,7 @@ $$
 
 - [Tipos de energía](#/2/1)
 - [Transformaciones energéticas](#/2/8)
+- [Simulación](#/2/9)
 
 (continúa hacia abajo)
 
