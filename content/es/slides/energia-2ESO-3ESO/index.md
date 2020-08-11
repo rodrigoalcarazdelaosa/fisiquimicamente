@@ -194,8 +194,6 @@ Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de
 ---
 
 #### Dilatación
-Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^1]. La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en los **termómetros**. La escala **Celsius**, también llamada *centígrada*, es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
-
-[^1]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella.
+Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura. La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en los **termómetros**. La escala **Celsius**, también llamada *centígrada*, es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
 
 {{% /section %}}
