@@ -261,7 +261,7 @@ Obtenida a partir del aprovechamiento de la **radiación electromagnética** pro
 #### Energía eólica
 Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
 
-{{< figure library="true" src="energia-2ESO-3ESO/eolica.jpg" title="Parque eólico. Foto de [**RawFilm**](https://unsplash.com/@rawfilm) en [Unsplash](https://unsplash.com)." lightbox="false" width="80%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/eolica.jpg" lightbox="false" width="80%" >}}
 
 #### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
 Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
