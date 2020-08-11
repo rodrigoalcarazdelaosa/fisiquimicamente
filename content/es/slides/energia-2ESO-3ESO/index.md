@@ -308,7 +308,7 @@ La **fusión nuclear** es un proceso en el que dos o más **núcleos** atómicos
 
 ---
 
-Puedes conocer más sobre algunas de las principales **fuentes** de **energía** en el siguiente **vídeo**, extraído de la [película pedagógica Energía 3D](http://www.energia3d.es/):
+Puedes conocer más sobre algunas de las principales **fuentes** de **energía** en el siguiente **vídeo**:
 
 {{< vimeo 30840000 >}}
 
