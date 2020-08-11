@@ -289,9 +289,19 @@ Se obtienen de **fuentes** naturales *virtualmente* **inagotables**.
 ---
 
 #### Energía solar ☀️
-Obtenida a partir del aprovechamiento de la **radiación electromagnética** procedente del **Sol**. Distinguimos entre energía solar:
+Obtenida a partir del aprovechamiento de la **radiación electromagnética** procedente del **Sol**.
+
+---
+
+Distinguimos entre energía solar:
+
+---
+
 ##### Térmica
 **Calentar agua** mediante **depósitos**.
+
+---
+
 ##### Fotovoltaica
 **Generar electricidad** mediante paneles solares {{<  icon name="solar-panel" pack="fas" >}}.
 
