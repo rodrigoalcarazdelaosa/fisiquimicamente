@@ -304,7 +304,7 @@ La **fusión nuclear** es un proceso en el que dos o más **núcleos** atómicos
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/fusion.svg" title="Proceso de **fusión** entre un núcleo de deuterio ($\ce{^2H}$) y uno de tritio ($\ce{^3H}$), dando lugar a un núcleo de helio ($\ce{^4He}$), un neutrón y unos 17.6$\thinspace$MeV de energía. Adaptada de https://commons.wikimedia.org/wiki/File:Deuterium-tritium_fusion.svg." lightbox="false" width="50%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/fusion.svg" title="Proceso de **fusión** entre un núcleo de deuterio ($^2\mathrm H$) y uno de tritio ($^3\mathrm H$), dando lugar a un núcleo de helio ($^4\mathrm{He}$), un neutrón y unos 17.6$\thinspace$MeV de energía." lightbox="false" width="30%" >}}
 
 ---
 
