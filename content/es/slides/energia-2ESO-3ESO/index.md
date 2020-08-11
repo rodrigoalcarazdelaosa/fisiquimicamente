@@ -291,7 +291,7 @@ Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/molino-mareas.jpg" title="[Molino de mareas de Santa Olaja](https://es.wikipedia.org/wiki/Molino_de_Santa_Olaja), en Arnuero, Cantabria (España). https://commons.wikimedia.org/wiki/File:Molino_de_marea_de_santa_Olaja.jpg." lightbox="false" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/molino-mareas.jpg" title="[Molino de mareas de Santa Olaja](https://es.wikipedia.org/wiki/Molino_de_Santa_Olaja), en Arnuero, Cantabria (España)." lightbox="false" width="90%" >}}
 
 ---
 
