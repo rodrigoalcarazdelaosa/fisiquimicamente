@@ -141,11 +141,15 @@ De acuerdo al **modelo cinético-molecular**, la materia está formada por part�
 
 ---
 
-La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***. En el **SI**, la temperatura absoluta se mide en **kelvin** (K):
+La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***.
+
+En el **SI**, la temperatura absoluta se mide en **kelvin** (K):
 
 $$
 T(\mathrm K) = T(^\circ\mathrm C)+273.15
 $$
+
+---
 
 {{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Kinetic_theory_of_gases.svg." lightbox="false" width="100%" >}}
 
