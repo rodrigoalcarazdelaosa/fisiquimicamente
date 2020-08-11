@@ -136,7 +136,7 @@ Aprende más sobre las **formas** y **cambios** de **energía** con esta **simul
 
 ---
 
-### Temperatura
+### Temperatura 🌡️
 De acuerdo al **modelo cinético-molecular**, la materia está formada por partículas que están en continuo movimiento. La **temperatura** es una **medida** de la **agitación** (velocidad) **media** de las **partículas** que forman un sistema.
 
 ---
