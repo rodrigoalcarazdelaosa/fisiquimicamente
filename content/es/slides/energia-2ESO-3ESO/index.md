@@ -210,13 +210,26 @@ Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su te
 ## Fuentes de energía
 Una **fuente** de **energía** es cualquier **fenómeno físico** o **químico** del que es posible **explotar** su **energía**.
 
-### No renovables {{<  icon name="industry" pack="fas" >}}
+- No renovables
+- Renovables
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### No renovables
 Aquellas que se encuentran en la naturaleza en **cantidades limitadas**, no pudiendo sustituirse tras agotarse.
 
-#### Combustibles fósiles {{<  icon name="burn" pack="fas" >}}
+---
+
+#### Combustibles fósiles
 Proceden de la biomasa producida en eras pasadas, que ha sufrido enterramiento y tras él, procesos de transformación, por aumento de presión y temperatura, hasta la formación de sustancias de gran contenido energético, como el **petróleo** {{<  icon name="gas-pump" pack="fas" >}}, el **carbón**, el **gas natural** y el gas licuado del petróleo (**GLP**).
 
-#### Combustibles nucleares {{<  icon name="radiation" pack="fas" >}}
+---
+
+#### Combustibles nucleares
 Materiales que han sido adaptados para poder ser utilizados en la generación de **energía nuclear**, principalmente mediante **fisión nuclear**, como por ejemplo el $\ce{^{233} U}$, el $\ce{^{235} U}$ y el $\ce{^{239} Pu}$.
 
 {{< figure library="true" src="energia-2ESO-3ESO/fision.svg" title="Un simple diagrama de **fisión nuclear**. Un átomo de $\ce{^{235} U}$ captura y absorbe un neutrón, convirtiéndose en un átomo de $\ce{^{236} U}$ altamente radiactivo, que se *fisiona* dando lugar a dos fragmentos de fisión ($\ce{^{141} Ba}$ y $\ce{^{92} Kr}$) y tres neutrones, todos ellos con cantidades muy grandes de energía cinética. Adaptada de https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg." lightbox="false" width="100%" >}}
