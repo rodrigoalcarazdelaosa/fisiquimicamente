@@ -23,10 +23,12 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 {{% section %}}
 
-## Las fuerzas y sus efectos
+## Concepto de energía
 
-- [Leyes de Newton](#/1/1)
-- [Ley de Hooke](#/1/5)
+La **energía** es la **capacidad** de **producir** transformaciones o **cambios**.
+
+- [Conservación de la energía](#/1/1)
+- [Unidades](#/1/5)
 
 (continúa hacia abajo)
 
