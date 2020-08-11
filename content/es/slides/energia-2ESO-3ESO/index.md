@@ -272,10 +272,10 @@ Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua
 
 ---
 
-#### Biomasa {{<  icon name="seedling" pack="fas" >}}
+#### Biomasa
 **Material vegetal** o **animal** utilizado para la **producción** de **energía** (electricidad o calor), o en diversos procesos industriales como **materia prima** para una variedad de productos.
 
-{{< figure library="true" src="energia-2ESO-3ESO/biomasa.jpg" title="*Pellets* de madera. Imagen de [**Ernesto Rodriguez**](https://pixabay.com/es/users/Lernestorod-5382836/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/biomasa.jpg" lightbox="false" width="50%" >}}
 
 #### Energía geotérmica {{<  icon name="globe-europe" pack="fas" >}}
 Es la **energía térmica** generada y almacenada en la **Tierra**. El calor del interior de la Tierra se transmite a través de los cuerpos de roca caliente por conducción y convección.
