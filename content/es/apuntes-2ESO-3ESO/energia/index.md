@@ -141,7 +141,7 @@ Materiales que han sido adaptados para poder ser utilizados en la generación de
 
 {{< figure library="true" src="energia-2ESO-3ESO/fision.svg" title="Un simple diagrama de **fisión nuclear**. Un átomo de $\ce{^{235} U}$ captura y absorbe un neutrón, convirtiéndose en un átomo de $\ce{^{236} U}$ altamente radiactivo, que se *fisiona* dando lugar a dos fragmentos de fisión ($\ce{^{141} Ba}$ y $\ce{^{92} Kr}$) y tres neutrones, todos ellos con cantidades muy grandes de energía cinética. Adaptada de https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg." lightbox="false" width="100%" >}}
 
-### Renovables {{<  icon name="leaf" pack="fas" >}}
+### Renovables 🍃
 {{< figure library="true" src="energia-2ESO-3ESO/energias-renovables.svg" title="Logotipo para las energías renovables de la diseñadora gráfica y directora de arte alemana Melanie Maecker-Tursun de Hamburgo. https://commons.wikimedia.org/wiki/File:Logo_Renewable_Energy_by_Melanie_Maecker-Tursun_V1_4c.svg." lightbox="false" width="100%" >}}
 
 Se obtienen de **fuentes** naturales *virtualmente* **inagotables**.
