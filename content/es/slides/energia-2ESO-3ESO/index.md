@@ -151,7 +151,7 @@ $$
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" lightbox="false" width="60%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" lightbox="false" width="70%" >}}
 
 ---
 
