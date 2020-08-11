@@ -25,7 +25,9 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Póster
-  url: energia-poster.pdf  
+  url: energia-poster.pdf
+ 
+slides: energia-2ESO-3ESO
 ---
 
 {{% toc %}}
