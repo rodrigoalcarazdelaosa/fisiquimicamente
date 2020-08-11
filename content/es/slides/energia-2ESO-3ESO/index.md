@@ -1,6 +1,6 @@
 ---
 title: Energía
-summary: "Concepto de energía. Transformaciones energéticas. Calor y temperatura."
+summary: "Concepto de energía. Transformaciones energéticas. Calor y temperatura. Fuentes de energía."
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
@@ -15,8 +15,8 @@ slides:
 - [Concepto de energía](#/1)
 - [Tipos de energía](#/2)
 - [Transformaciones energéticas](#/3)
-- [Temperatura](#/4)
-- [Mecanismos de transferencia de energía](#/4)
+- [Calor y temperatura](#/4)
+- [Fuentes de energía](#/5)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](energia-diapositivas.pdf)
 
