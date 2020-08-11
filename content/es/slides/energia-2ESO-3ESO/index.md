@@ -268,7 +268,7 @@ Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** med
 #### Energía hidráulica
 Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
 
-{{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" title="Central hidroeléctrica. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" lightbox="false" width="80%" >}}
 
 #### Biomasa {{<  icon name="seedling" pack="fas" >}}
 **Material vegetal** o **animal** utilizado para la **producción** de **energía** (electricidad o calor), o en diversos procesos industriales como **materia prima** para una variedad de productos.
