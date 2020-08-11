@@ -81,8 +81,8 @@
 - id: btn_download
   translation: Download
   
-- id: btn_notes
-  translation: Notes
+- id: btn_text
+  translation: Text
 
 # About widget
 
