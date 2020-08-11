@@ -59,8 +59,8 @@
   translation: Copiar
 - id: btn_download
   translation: Descargar
-- id: btn_notes
-  translation: Apuntes  
+- id: btn_text
+  translation: Texto  
   
 # About widget
   
