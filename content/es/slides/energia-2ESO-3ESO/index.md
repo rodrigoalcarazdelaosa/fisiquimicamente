@@ -229,7 +229,7 @@ Proceden de la biomasa producida en eras pasadas, que ha sufrido enterramiento y
 
 ---
 
-#### Combustibles nucleares
+#### Combustibles nucleares ☢️
 Materiales que han sido adaptados para poder ser utilizados en la generación de **energía nuclear**, principalmente mediante **fisión nuclear**, como por ejemplo el $^{233} \mathrm U$, el $^{235} \mathrm{U}$ y el $^{239} \mathrm{Pu}$.
 
 ---
