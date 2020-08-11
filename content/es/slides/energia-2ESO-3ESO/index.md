@@ -136,7 +136,7 @@ Aprende más sobre las **formas** y **cambios** de **energía** con esta **simul
 
 ---
 
-### Temperatura {{%  icon name="thermometer-three-quarters" pack="fas" %}}
+### Temperatura
 De acuerdo al **modelo cinético-molecular**, la materia está formada por partículas que están en continuo movimiento. La **temperatura** es una **medida** de la **agitación** (velocidad) **media** de las **partículas** que forman un sistema. La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***. En el **SI**, la temperatura absoluta se mide en **kelvin** (K):
 
 $$
