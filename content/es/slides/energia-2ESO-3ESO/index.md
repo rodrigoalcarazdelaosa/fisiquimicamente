@@ -73,6 +73,8 @@ $$
 
 ### Tipos de energía
 
+👇
+
 ---
 
 #### Energía mecánica
