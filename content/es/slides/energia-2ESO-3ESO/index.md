@@ -202,3 +202,73 @@ Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su te
 {{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" width="40%" lightbox="false" >}}
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Fuentes de energía
+Una **fuente** de **energía** es cualquier **fenómeno físico** o **químico** del que es posible **explotar** su **energía**.
+
+### No renovables {{<  icon name="industry" pack="fas" >}}
+Aquellas que se encuentran en la naturaleza en **cantidades limitadas**, no pudiendo sustituirse tras agotarse.
+
+#### Combustibles fósiles {{<  icon name="burn" pack="fas" >}}
+Proceden de la biomasa producida en eras pasadas, que ha sufrido enterramiento y tras él, procesos de transformación, por aumento de presión y temperatura, hasta la formación de sustancias de gran contenido energético, como el **petróleo** {{<  icon name="gas-pump" pack="fas" >}}, el **carbón**, el **gas natural** y el gas licuado del petróleo (**GLP**).
+
+#### Combustibles nucleares {{<  icon name="radiation" pack="fas" >}}
+Materiales que han sido adaptados para poder ser utilizados en la generación de **energía nuclear**, principalmente mediante **fisión nuclear**, como por ejemplo el $\ce{^{233} U}$, el $\ce{^{235} U}$ y el $\ce{^{239} Pu}$.
+
+{{< figure library="true" src="energia-2ESO-3ESO/fision.svg" title="Un simple diagrama de **fisión nuclear**. Un átomo de $\ce{^{235} U}$ captura y absorbe un neutrón, convirtiéndose en un átomo de $\ce{^{236} U}$ altamente radiactivo, que se *fisiona* dando lugar a dos fragmentos de fisión ($\ce{^{141} Ba}$ y $\ce{^{92} Kr}$) y tres neutrones, todos ellos con cantidades muy grandes de energía cinética. Adaptada de https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg." lightbox="false" width="100%" >}}
+
+### Renovables {{<  icon name="leaf" pack="fas" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/energias-renovables.svg" title="Logotipo para las energías renovables de la diseñadora gráfica y directora de arte alemana Melanie Maecker-Tursun de Hamburgo. https://commons.wikimedia.org/wiki/File:Logo_Renewable_Energy_by_Melanie_Maecker-Tursun_V1_4c.svg." lightbox="false" width="100%" >}}
+
+Se obtienen de **fuentes** naturales *virtualmente* **inagotables**.
+
+#### Energía solar {{<  icon name="sun" pack="fas" >}}
+Obtenida a partir del aprovechamiento de la **radiación electromagnética** procedente del **Sol**. Distinguimos entre energía solar:
+##### Térmica
+**Calentar agua** mediante **depósitos**.
+##### Fotovoltaica
+**Generar electricidad** mediante paneles solares {{<  icon name="solar-panel" pack="fas" >}}.
+
+{{< figure library="true" src="energia-2ESO-3ESO/solar.jpg" title="Granja solar. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
+
+#### Energía eólica {{<  icon name="wind" pack="fas" >}}
+Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
+
+{{< figure library="true" src="energia-2ESO-3ESO/eolica.jpg" title="Parque eólico. Foto de [**RawFilm**](https://unsplash.com/@rawfilm) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
+
+#### Energía hidráulica {{<  icon name="tint" pack="fas" >}}
+Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
+
+{{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" title="Central hidroeléctrica. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
+
+#### Biomasa {{<  icon name="seedling" pack="fas" >}}
+**Material vegetal** o **animal** utilizado para la **producción** de **energía** (electricidad o calor), o en diversos procesos industriales como **materia prima** para una variedad de productos.
+
+{{< figure library="true" src="energia-2ESO-3ESO/biomasa.jpg" title="*Pellets* de madera. Imagen de [**Ernesto Rodriguez**](https://pixabay.com/es/users/Lernestorod-5382836/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
+#### Energía geotérmica {{<  icon name="globe-europe" pack="fas" >}}
+Es la **energía térmica** generada y almacenada en la **Tierra**. El calor del interior de la Tierra se transmite a través de los cuerpos de roca caliente por conducción y convección.
+
+{{< figure library="true" src="energia-2ESO-3ESO/geotermica.jpg" title="Aguas termales. Imagen de [**Hameg**](https://pixabay.com/es/users/hameg-8381395/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
+#### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
+Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando las **mareas** (*mareomotriz*) o las **olas** (*undimotriz*).
+
+{{< figure library="true" src="energia-2ESO-3ESO/molino-mareas.jpg" title="[Molino de mareas de Santa Olaja](https://es.wikipedia.org/wiki/Molino_de_Santa_Olaja), en Arnuero, Cantabria (España). https://commons.wikimedia.org/wiki/File:Molino_de_marea_de_santa_Olaja.jpg." lightbox="true" >}}
+
+{{< figure library="true" src="energia-2ESO-3ESO/olas.jpg" title="Energía *undimotriz*. [**Roger Mosley**](https://pixabay.com/es/photos/ola-el-agua-mar-oc%C3%A9ano-pac%C3%ADfico-2089959/)." lightbox="true" >}}
+
+#### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
+La **fusión nuclear** es un proceso en el que dos o más **núcleos** atómicos se **combinan** para formar uno o más núcleos atómicos y partículas subatómicas (protones o neutrones) diferentes. La **diferencia** de **masa** entre los reactivos y los productos se manifiesta como la **liberación** o la **absorción** de **energía**.
+
+{{< figure library="true" src="energia-2ESO-3ESO/fusion.svg" title="Proceso de **fusión** entre un núcleo de deuterio ($\ce{^2H}$) y uno de tritio ($\ce{^3H}$), dando lugar a un núcleo de helio ($\ce{^4He}$), un neutrón y unos 17.6$\thinspace$MeV de energía. Adaptada de https://commons.wikimedia.org/wiki/File:Deuterium-tritium_fusion.svg." lightbox="false" width="100%" >}}
+
+Puedes conocer más sobre algunas de las principales **fuentes** de **energía** en el siguiente **vídeo**, extraído de la [película pedagógica Energía 3D](http://www.energia3d.es/):
+
+{{< vimeo 30840000 >}}
+
+{{% /section %}}
