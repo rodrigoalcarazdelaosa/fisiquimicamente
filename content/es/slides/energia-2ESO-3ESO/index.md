@@ -101,7 +101,7 @@ Es la energía que poseen las **cargas eléctricas** en movimiento.
 
 <!-- La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en distintas **transformaciones energéticas**: -->
 
-| <span style="font-variant:small-caps;">**energía inicial**</span> | <span style="font-variant:small-caps;">**energía final**</span> | <span style="font-variant:small-caps;">**aparato/dispositivo**</span> |
+| <span style="font-variant:small-caps;">**inicial**</span> | <span style="font-variant:small-caps;">**final**</span> | <span style="font-variant:small-caps;">**aparato/dispositivo**</span> |
 | :---: | :---: | :---: |
 | Mecánica | Térmica | Pastilla de freno |
 | Química | Mecánica | Motor de combustión |
@@ -110,6 +110,7 @@ Es la energía que poseen las **cargas eléctricas** en movimiento.
 | Radiante | Eléctrica | Panel solar |
 | Eléctrica | Mecánica | Motor eléctrico |
 | Eléctrica | Térmica | Estufa eléctrica |
+| Eléctrica | Radiante | Bombilla |
 
 Aprende más sobre las **formas** y **cambios** de **energía** con esta **simulación**:
 
