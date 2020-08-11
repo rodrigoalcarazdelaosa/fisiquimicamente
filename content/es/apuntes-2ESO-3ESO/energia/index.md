@@ -133,7 +133,7 @@ Una **fuente** de **energía** es cualquier **fenómeno físico** o **químico**
 ### No renovables 🏭
 Aquellas que se encuentran en la naturaleza en **cantidades limitadas**, no pudiendo sustituirse tras agotarse.
 
-#### Combustibles fósiles {{<  icon name="burn" pack="fas" >}}
+#### Combustibles fósiles 🔥
 Proceden de la biomasa producida en eras pasadas, que ha sufrido enterramiento y tras él, procesos de transformación, por aumento de presión y temperatura, hasta la formación de sustancias de gran contenido energético, como el **petróleo** ⛽, el **carbón**, el **gas natural** y el gas licuado del petróleo (**GLP**).
 
 #### Combustibles nucleares {{<  icon name="radiation" pack="fas" >}}
