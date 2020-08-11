@@ -22,7 +22,7 @@ links:
  # url: reacciones-quimicas-texto.pdf
   
 - icon_pack: fas
-  icon: download
+  icon: file-download
   name: Póster
   url: reacciones-quimicas-poster.pdf  
 

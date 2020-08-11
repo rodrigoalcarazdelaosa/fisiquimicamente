@@ -19,7 +19,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: download
+  icon: file-download
   name: Póster
   url: materia-poster.pdf
   

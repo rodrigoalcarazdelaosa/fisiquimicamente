@@ -19,12 +19,12 @@ image:
 
 # links:
 # - icon_pack: fas
-#   icon: download
+#   icon: file-download
 #   name: PDF Texto
 #   url: MAS_texto.pdf
   
 # - icon_pack: fas
-#   icon: download
+#   icon: file-download
 #   name: Póster
 #   url: MAS_poster.pdf
 

@@ -13,7 +13,7 @@ image:
 #  caption: Tabla Periódica DC
 links:
 - icon_pack: fas
-  icon: download
+  icon: file-download
   name: PDF
   url: pdf/periodic-table-scientists/periodic-table-scientists.pdf
 ---

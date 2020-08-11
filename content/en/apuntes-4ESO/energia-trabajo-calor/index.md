@@ -17,12 +17,12 @@ image:
 
 # links:
 # - icon_pack: fas
-#  icon: download
+#  icon: file-download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
   
 # - icon_pack: fas
-#  icon: download
+#  icon: file-download
 #  name: Póster
 #  url: movimientos_poster.pdf
 ---

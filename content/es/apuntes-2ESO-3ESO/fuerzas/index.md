@@ -22,7 +22,7 @@ links:
 #  url: movimientos_texto.pdf
   
 - icon_pack: fas
-  icon: download
+  icon: file-download
   name: Póster
   url: fuerzas-poster.pdf
   
