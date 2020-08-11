@@ -203,7 +203,7 @@ Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar inclu
 ### Efectos del calor en los cuerpos
 
 - [Variación de temperatura y/o cambios de estado](#/3/12)
-- [Dilatación](#/3/11)
+- [Dilatación](#/3/16)
 
 👇
 
