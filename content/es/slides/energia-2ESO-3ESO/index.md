@@ -110,7 +110,6 @@ Es la energía que poseen las **cargas eléctricas** en movimiento.
 | Radiante | Eléctrica | Panel solar |
 | Eléctrica | Mecánica | Motor eléctrico |
 | Eléctrica | Térmica | Estufa eléctrica |
-| Eléctrica | Radiante | Bombilla |
 
 Aprende más sobre las **formas** y **cambios** de **energía** con esta **simulación**:
 
