@@ -319,9 +319,9 @@ Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** med
 ---
 
 #### Energía hidráulica 💧
-Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
+Aprovechando la **energía mecánica** de corrientes o saltos de **agua**.
 
-{{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/hidraulica.jpg" lightbox="false" width="80%" >}}
 
 ---
 
