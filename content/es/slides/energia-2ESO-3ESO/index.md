@@ -10,13 +10,13 @@ slides:
   highlight_style: tomorrow
 ---
 
-# Las fuerzas
+# Energía
 
 - [Las fuerzas y sus efectos](#/1)
 - [Máquinas simples](#/2)
 - [Principales fuerzas de la naturaleza](#/3)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](fuerzas-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](energia-diapositivas.pdf)
 
 ---
 
