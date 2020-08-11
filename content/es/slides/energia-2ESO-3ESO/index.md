@@ -63,7 +63,7 @@ $$
 ## Transformaciones energéticas
 
 - [Tipos de energía](#/2/1)
-- [Transformaciones energéticas](#/4)
+- [Transformaciones energéticas](#/2/8)
 
 (continúa hacia abajo)
 
