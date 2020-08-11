@@ -13,10 +13,9 @@ slides:
 # Energía
 
 - [Concepto de energía](#/1)
-- [Tipos de energía](#/2)
-- [Transformaciones energéticas](#/3)
-- [Calor y temperatura](#/4)
-- [Fuentes de energía](#/5)
+- [Transformaciones energéticas](#/2)
+- [Calor y temperatura](#/3)
+- [Fuentes de energía](#/4)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](energia-diapositivas.pdf)
 
