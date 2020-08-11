@@ -99,7 +99,7 @@ Es la energía que poseen las **cargas eléctricas** en movimiento.
 
 ---
 
-La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en distintas **transformaciones energéticas**:
+<!-- La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en distintas **transformaciones energéticas**: -->
 
 | <span style="font-variant:small-caps;">**energía inicial**</span> | <span style="font-variant:small-caps;">**energía final**</span> | <span style="font-variant:small-caps;">**aparato/dispositivo**</span> |
 | :---: | :---: | :---: |
