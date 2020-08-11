@@ -52,7 +52,7 @@
 - id: btn_project
   translation: Proyecto
 - id: btn_poster
-  translation: Poster
+  translation: Póster
 - id: btn_source
   translation: Documento fuente
 - id: btn_copy
