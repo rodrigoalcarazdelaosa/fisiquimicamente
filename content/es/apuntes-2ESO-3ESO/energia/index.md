@@ -132,7 +132,7 @@ Aquellas que se encuentran en la naturaleza en **cantidades limitadas**, no pudi
 Proceden de la biomasa producida en eras pasadas, que ha sufrido enterramiento y tras él, procesos de transformación, por aumento de presión y temperatura, hasta la formación de sustancias de gran contenido energético, como el **petróleo** {{<  icon name="gas-pump" pack="fas" >}}, el **carbón**, el **gas natural** y el gas licuado del petróleo (**GLP**).
 
 #### Combustibles nucleares {{<  icon name="radiation" pack="fas" >}}
-Materiales que han sido adaptados para poder ser utilizados en la generación de energía nuclear, principalmente mediante **fisión nuclear**, como por ejemplo el $\ce{^{233} U}$, el $\ce{^{235} U}$ y el $\ce{^{239} Pu}$.
+Materiales que han sido adaptados para poder ser utilizados en la generación de **energía nuclear**, principalmente mediante **fisión nuclear**, como por ejemplo el $\ce{^{233} U}$, el $\ce{^{235} U}$ y el $\ce{^{239} Pu}$.
 
 ### Renovables {{<  icon name="leaf" pack="fas" >}}
 {{< figure library="true" src="energia-2ESO-3ESO/energias-renovables.svg" title="Logotipo para las energías renovables de la diseñadora gráfica y directora de arte alemana Melanie Maecker-Tursun de Hamburgo. https://commons.wikimedia.org/wiki/File:Logo_Renewable_Energy_by_Melanie_Maecker-Tursun_V1_4c.svg." lightbox="false" width="100%" >}}
