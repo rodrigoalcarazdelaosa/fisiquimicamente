@@ -245,7 +245,7 @@ Materiales que han sido adaptados para poder ser utilizados en la generación de
 
 Se obtienen de **fuentes** naturales *virtualmente* **inagotables**.
 
-#### Energía solar {{<  icon name="sun" pack="fas" >}}
+#### Energía solar ☀️
 Obtenida a partir del aprovechamiento de la **radiación electromagnética** procedente del **Sol**. Distinguimos entre energía solar:
 ##### Térmica
 **Calentar agua** mediante **depósitos**.
