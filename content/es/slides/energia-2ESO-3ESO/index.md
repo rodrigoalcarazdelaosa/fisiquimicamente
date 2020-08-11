@@ -295,7 +295,7 @@ Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/olas.jpg" title="Energía *undimotriz*. [**Roger Mosley**](https://pixabay.com/es/photos/ola-el-agua-mar-oc%C3%A9ano-pac%C3%ADfico-2089959/)." lightbox="false" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/olas.jpg" title="Energía *undimotriz*. [**Roger Mosley**](https://pixabay.com/es/photos/ola-el-agua-mar-oc%C3%A9ano-pac%C3%ADfico-2089959/)." lightbox="false" width="90%" >}}
 
 #### Energía nuclear de fusión {{<  icon name="atom" pack="fas" >}}
 La **fusión nuclear** es un proceso en el que dos o más **núcleos** atómicos se **combinan** para formar uno o más núcleos atómicos y partículas subatómicas (protones o neutrones) diferentes. La **diferencia** de **masa** entre los reactivos y los productos se manifiesta como la **liberación** o la **absorción** de **energía**.
