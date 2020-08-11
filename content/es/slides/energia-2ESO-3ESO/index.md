@@ -173,15 +173,23 @@ Puedes profundizar en el concepto de **temperatura** con ayuda de esta **simulac
 ### Mecanismos de transferencia de energía
 La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
 
+👇
+
 ---
 
 El calor se puede **transferir** mediante:
 
+---
+
 #### Conducción
 Basado en el **contacto directo** entre los cuerpos.
 
+---
+
 #### Convección
 Debido al **transporte** de **masa** por medio de un **fluido**.
+
+---
 
 #### Radiación
 Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar incluso por el vacío.
