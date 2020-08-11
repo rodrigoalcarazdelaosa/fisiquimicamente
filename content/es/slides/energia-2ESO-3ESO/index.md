@@ -179,7 +179,7 @@ Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar inclu
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/transferencia-calor.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:M%C3%A9todos_de_transferencia_de_calor.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/transferencia-calor.svg" lightbox="false" width="100%" >}}
 
 
 ### Efectos del calor en los cuerpos
