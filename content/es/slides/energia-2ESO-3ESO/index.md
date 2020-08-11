@@ -355,7 +355,6 @@ Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando
 #### Energía nuclear de fusión ⚛️
 La **fusión nuclear** es un proceso en el que dos o más **núcleos** atómicos se **combinan** para formar uno o más núcleos atómicos y partículas subatómicas (protones o neutrones) diferentes.
 
-
 ---
 
 La **diferencia** de **masa** entre los reactivos y los productos se manifiesta como la **liberación** o la **absorción** de **energía**.
