@@ -230,7 +230,7 @@ Proceden de la biomasa producida en eras pasadas, que ha sufrido enterramiento y
 ---
 
 #### Combustibles nucleares
-Materiales que han sido adaptados para poder ser utilizados en la generación de **energía nuclear**, principalmente mediante **fisión nuclear**, como por ejemplo el $^{233} \mathrm U$, el $\ce{^{235} U}$ y el $\ce{^{239} Pu}$.
+Materiales que han sido adaptados para poder ser utilizados en la generación de **energía nuclear**, principalmente mediante **fisión nuclear**, como por ejemplo el $^{233} \mathrm U$, el $^{235} \mathrm{U}$ y el $^{239} \mathrm{Pu}$.
 
 {{< figure library="true" src="energia-2ESO-3ESO/fision.svg" title="Un simple diagrama de **fisión nuclear**. Un átomo de $\ce{^{235} U}$ captura y absorbe un neutrón, convirtiéndose en un átomo de $\ce{^{236} U}$ altamente radiactivo, que se *fisiona* dando lugar a dos fragmentos de fisión ($\ce{^{141} Ba}$ y $\ce{^{92} Kr}$) y tres neutrones, todos ellos con cantidades muy grandes de energía cinética. Adaptada de https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg." lightbox="false" width="100%" >}}
 
