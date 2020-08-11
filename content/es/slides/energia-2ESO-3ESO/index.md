@@ -112,6 +112,8 @@ Es la energía que poseen las **cargas eléctricas** en movimiento.
 | Eléctrica | Térmica | Estufa eléctrica |
 | Eléctrica | Radiante | Bombilla |
 
+---
+
 Aprende más sobre las **formas** y **cambios** de **energía** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
