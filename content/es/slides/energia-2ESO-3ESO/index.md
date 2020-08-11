@@ -202,7 +202,7 @@ Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar inclu
 
 ### Efectos del calor en los cuerpos
 
-- [Variación de temperatura y/o cambios de estado](#/3/9)
+- [Variación de temperatura y/o cambios de estado](#/3/12)
 - [Dilatación](#/3/11)
 
 👇
@@ -210,7 +210,11 @@ Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar inclu
 ---
 
 #### Variación de temperatura y/o cambios de estado
-Cuando dos cuerpos se ponen en **contacto térmico**, el que está a mayor temperatura cede calor (enfriándose) al que está a menor temperatura (calentándose), llegando al cabo de un tiempo a un **equilibrio térmico** (misma temperatura). La variación de temperatura que sufre un cuerpo cuando se le proporciona una cantidad de calor depende de la sustancia de que se trate y de su masa.
+Cuando dos cuerpos se ponen en **contacto térmico**, el que está a mayor temperatura cede calor (enfriándose) al que está a menor temperatura (calentándose), llegando al cabo de un tiempo a un **equilibrio térmico** (misma temperatura).
+
+---
+
+La variación de temperatura que sufre un cuerpo cuando se le proporciona una cantidad de calor depende de la sustancia de que se trate y de su masa.
 
 ---
 
