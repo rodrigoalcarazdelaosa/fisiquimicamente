@@ -282,7 +282,7 @@ Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua
 #### Energía geotérmica
 Es la **energía térmica** generada y almacenada en la **Tierra**. El calor del interior de la Tierra se transmite a través de los cuerpos de roca caliente por conducción y convección.
 
-{{< figure library="true" src="energia-2ESO-3ESO/geotermica.jpg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/geotermica.jpg" lightbox="false" width="65%" >}}
 
 ---
 
