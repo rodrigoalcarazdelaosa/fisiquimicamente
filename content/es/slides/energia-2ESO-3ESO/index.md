@@ -214,7 +214,7 @@ Cuando dos cuerpos se ponen en **contacto térmico**, el que está a mayor tempe
 
 ---
 
-La variación de temperatura que sufre un cuerpo cuando se le proporciona una cantidad de calor depende de la sustancia de que se trate y de su masa.
+La **variación** de **temperatura** que sufre un cuerpo cuando se le proporciona una cantidad de calor **depende** de la **sustancia** de que se trate y de su **masa**.
 
 ---
 
