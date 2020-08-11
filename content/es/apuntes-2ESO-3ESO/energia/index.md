@@ -146,7 +146,7 @@ Materiales que han sido adaptados para poder ser utilizados en la generación de
 
 Se obtienen de **fuentes** naturales *virtualmente* **inagotables**.
 
-#### Energía solar {{<  icon name="sun" pack="fas" >}}
+#### Energía solar ☀️
 Obtenida a partir del aprovechamiento de la **radiación electromagnética** procedente del **Sol**. Distinguimos entre energía solar:
 ##### Térmica
 **Calentar agua** mediante **depósitos**.
@@ -155,7 +155,7 @@ Obtenida a partir del aprovechamiento de la **radiación electromagnética** pro
 
 {{< figure library="true" src="energia-2ESO-3ESO/solar.jpg" title="Granja solar. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
-#### Energía eólica {{<  icon name="wind" pack="fas" >}}
+#### Energía eólica 🌬️
 Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
 
 {{< figure library="true" src="energia-2ESO-3ESO/eolica.jpg" title="Parque eólico. Foto de [**RawFilm**](https://unsplash.com/@rawfilm) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
