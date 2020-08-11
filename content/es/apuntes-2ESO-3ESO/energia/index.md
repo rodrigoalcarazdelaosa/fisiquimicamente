@@ -155,7 +155,7 @@ Obtenida a partir del aprovechamiento de la **radiación electromagnética** pro
 
 {{< figure library="true" src="energia-2ESO-3ESO/solar.jpg" title="Granja solar. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
-#### Energía eólica 🌬️
+#### Energía eólica 💨
 Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
 
 {{< figure library="true" src="energia-2ESO-3ESO/eolica.jpg" title="Parque eólico. Foto de [**RawFilm**](https://unsplash.com/@rawfilm) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
