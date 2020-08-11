@@ -219,7 +219,7 @@ Una **fuente** de **energía** es cualquier **fenómeno físico** o **químico**
 
 ---
 
-### No renovables
+### No renovables 🏭
 Aquellas que se encuentran en la naturaleza en **cantidades limitadas**, no pudiendo sustituirse tras agotarse.
 
 ---
