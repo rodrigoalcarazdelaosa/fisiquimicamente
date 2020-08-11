@@ -46,26 +46,27 @@ $$
 1\thinspace\mathrm{\cancel{kW}\cancel{h}}\cdot \frac{1000\thinspace\mathrm W}{1\thinspace\mathrm{\cancel{kW}}}\cdot \frac{3600\thinspace\mathrm s}{1\thinspace\mathrm{\cancel h}} = 3.6\times 10^6\thinspace\mathrm{W\thinspace s} = 3.6\times 10^6\thinspace\mathrm J
 $$
 
-## Tipos de energía
-### Energía mecánica
+## Transformaciones energéticas
+
+### Tipos de energía
+#### Energía mecánica
 Es la que poseen los cuerpos debido a su **movimiento** y/o a su **posición**.
 
-### Energía térmica
+#### Energía térmica
 Es la energía que posee un cuerpo por el hecho de estar a una cierta **temperatura**.
 
-### Energía química
+#### Energía química
 Es la energía que posee un cuerpo debido a su **estructura interna**. Se pone de manifiesto en **reacciones químicas**, como la combustión por ejemplo.
 
-### Energía nuclear
+#### Energía nuclear
 Es la energía almacenada en los **núcleos** de los **átomos**. Se pone de manifiesto en **reacciones nucleares**, como la fisión o la fusión nuclear.
 
-### Energía radiante
+#### Energía radiante
 Es la energía que poseen las **ondas electromagnéticas**, como la luz por ejemplo.
 
-### Energía eléctrica
+#### Energía eléctrica
 Es la energía que poseen las **cargas eléctricas** en movimiento.
 
-## Transformaciones energéticas
 La siguiente tabla muestra algunos **aparatos/dispositivos** involucrados en distintas **transformaciones energéticas**:
 
 | <span style="font-variant:small-caps;">**energía inicial**</span> | <span style="font-variant:small-caps;">**energía final**</span> | <span style="font-variant:small-caps;">**aparato/dispositivo**</span> |
