@@ -277,10 +277,14 @@ Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua
 
 {{< figure library="true" src="energia-2ESO-3ESO/biomasa.jpg" lightbox="false" width="50%" >}}
 
-#### Energía geotérmica {{<  icon name="globe-europe" pack="fas" >}}
+---
+
+#### Energía geotérmica
 Es la **energía térmica** generada y almacenada en la **Tierra**. El calor del interior de la Tierra se transmite a través de los cuerpos de roca caliente por conducción y convección.
 
-{{< figure library="true" src="energia-2ESO-3ESO/geotermica.jpg" title="Aguas termales. Imagen de [**Hameg**](https://pixabay.com/es/users/hameg-8381395/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/geotermica.jpg" lightbox="false" width="50%" >}}
+
+---
 
 #### Energías mareomotriz y undimotriz {{<  icon name="water" pack="fas" >}}
 Obtenidas a partir de la **energía mecánica** del **mar**, ya sea aprovechando las **mareas** (*mareomotriz*) o las **olas** (*undimotriz*).
