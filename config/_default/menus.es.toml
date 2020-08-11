@@ -112,7 +112,7 @@
   weight = 5
 
 [[main]]
-  name = "🐦 Twitter"
+  name = "Twitter"
   url = "#novedades"
   parent = "novedades"
   weight = 1  
