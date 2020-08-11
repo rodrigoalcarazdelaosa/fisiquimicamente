@@ -181,6 +181,7 @@ Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar inclu
 
 {{< figure library="true" src="energia-2ESO-3ESO/transferencia-calor.svg" lightbox="false" width="100%" >}}
 
+---
 
 ### Efectos del calor en los cuerpos
 #### Variación de temperatura y/o cambios de estado
