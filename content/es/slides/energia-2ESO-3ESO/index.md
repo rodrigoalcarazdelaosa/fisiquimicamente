@@ -151,7 +151,7 @@ $$
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Kinetic_theory_of_gases.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Kinetic_theory_of_gases.svg." lightbox="false" width="50%" >}}
 
 Puedes profundizar en el concepto de **temperatura** con ayuda de esta **simulación**:
 
