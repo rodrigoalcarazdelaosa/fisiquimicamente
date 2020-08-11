@@ -280,7 +280,7 @@ Materiales que han sido adaptados para poder ser utilizados en la generación de
 ---
 
 ### Renovables 🍃
-{{< figure library="true" src="energia-2ESO-3ESO/energias-renovables.svg" title="Logotipo para las energías renovables de la diseñadora gráfica y directora de arte alemana Melanie Maecker-Tursun de Hamburgo." lightbox="false" width="40%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/energias-renovables.svg" lightbox="false" width="60%" >}}
 
 ---
 
