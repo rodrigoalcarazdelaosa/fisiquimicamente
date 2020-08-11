@@ -12,9 +12,11 @@ slides:
 
 # Energía
 
-- [Las fuerzas y sus efectos](#/1)
-- [Máquinas simples](#/2)
-- [Principales fuerzas de la naturaleza](#/3)
+- [Concepto de energía](#/1)
+- [Tipos de energía](#/2)
+- [Transformaciones energéticas](#/3)
+- [Temperatura](#/4)
+- [Mecanismos de transferencia de energía](#/4)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](energia-diapositivas.pdf)
 
