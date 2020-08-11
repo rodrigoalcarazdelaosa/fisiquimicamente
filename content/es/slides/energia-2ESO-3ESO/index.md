@@ -168,20 +168,14 @@ La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina *
 
 El calor se puede **transferir** mediante:
 
-{{% fragment %}}
 #### Conducción
 Basado en el **contacto directo** entre los cuerpos.
-{{% /fragment %}}
 
-{{% fragment %}}
 #### Convección
 Debido al **transporte** de **masa** por medio de un **fluido**.
-{{% /fragment %}}
 
-{{% fragment %}}
 #### Radiación
 Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar incluso por el vacío.
-{{% /fragment %}}
 
 ---
 
