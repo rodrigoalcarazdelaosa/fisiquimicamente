@@ -234,7 +234,9 @@ Materiales que han sido adaptados para poder ser utilizados en la generación de
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/fision.svg" title="Un simple diagrama de **fisión nuclear**. Un átomo de $^{235} \mathrm{U}$ captura y absorbe un neutrón, convirtiéndose en un átomo de $^{236} \mathrm{U}$ altamente radiactivo, que se *fisiona* dando lugar a dos fragmentos de fisión ($^{141} \mathrm{Ba}$ y $^{92} \mathrm{Kr}$) y tres neutrones, todos ellos con cantidades muy grandes de energía cinética." lightbox="false" width="90%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/fision.svg" title="Un simple diagrama de **fisión nuclear**. Un átomo de $^{235} \mathrm{U}$ captura y absorbe un neutrón, convirtiéndose en un átomo de $^{236} \mathrm{U}$ altamente radiactivo, que se *fisiona* dando lugar a dos fragmentos de fisión ($^{141} \mathrm{Ba}$ y $^{92} \mathrm{Kr}$) y tres neutrones, todos ellos con cantidades muy grandes de energía cinética." lightbox="false" width="9¡80%" >}}
+
+---
 
 ### Renovables {{<  icon name="leaf" pack="fas" >}}
 {{< figure library="true" src="energia-2ESO-3ESO/energias-renovables.svg" title="Logotipo para las energías renovables de la diseñadora gráfica y directora de arte alemana Melanie Maecker-Tursun de Hamburgo. https://commons.wikimedia.org/wiki/File:Logo_Renewable_Energy_by_Melanie_Maecker-Tursun_V1_4c.svg." lightbox="false" width="100%" >}}
