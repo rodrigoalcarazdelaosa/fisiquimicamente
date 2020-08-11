@@ -137,7 +137,7 @@ Aprende más sobre las **formas** y **cambios** de **energía** con esta **simul
 
 - [Temperatura 🌡️](#/3/1)
 - [Mecanismos de transferencia de energía](#/3/5)
-- [Efectos del calor en los cuerpos](#/4)
+- [Efectos del calor en los cuerpos](#/3/8)
 
 (continúa hacia abajo)
 
