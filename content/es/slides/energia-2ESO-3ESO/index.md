@@ -45,7 +45,7 @@ En el **SI** la energía se mide en **julios** ($1\thinspace\mathrm J = 1\thinsp
 Otras unidades de energía son la **caloría** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm J$) o el **kilovatio hora**, $\mathrm{kW\thinspace h}$:
 
 $$
-1\thinspace\mathrm{\cancel{kW}\cancel{h}}\cdot \frac{1000\thinspace\mathrm W}{1\thinspace\mathrm{\cancel{kW}}}\cdot \frac{3600\thinspace\mathrm s}{1\thinspace\mathrm{\cancel h}} = 3.6\times 10^6\thinspace\mathrm{W\thinspace s} = 3.6\times 10^6\thinspace\mathrm J
+1\thinspace\mathrm{kWh}\cdot \frac{1000\thinspace\mathrm W}{1\thinspace\mathrm{kW}}\cdot \frac{3600\thinspace\mathrm s}{1\thinspace\mathrm{h}} = 3.6\times 10^6\thinspace\mathrm{W\thinspace s} = 3.6\times 10^6\thinspace\mathrm J
 $$
 
 {{% /section %}}
