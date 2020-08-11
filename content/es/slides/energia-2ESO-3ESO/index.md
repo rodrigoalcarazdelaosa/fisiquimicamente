@@ -272,7 +272,7 @@ Obtenida aprovechando la **energía mecánica** de corrientes o saltos de **agua
 
 ---
 
-#### Biomasa
+#### Biomasa 🌱
 **Material vegetal** o **animal** utilizado para la **producción** de **energía** (electricidad o calor), o en diversos procesos industriales como **materia prima** para una variedad de productos.
 
 {{< figure library="true" src="energia-2ESO-3ESO/biomasa.jpg" lightbox="false" width="50%" >}}
