@@ -51,6 +51,6 @@ hero_media = ""
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**In Text, Slides and Poster Format**
+In **Text**, **Slides** and **Poster** Format
 
 [13-14 year-olds](#segundo-eso) | [14-15 year-olds](#tercero-eso) | [15-16 year-olds](#cuarto-eso) <br> [16-17 year-olds](#primero-bach) | [17-18 year-olds Physics](#segundo-bach-fisica) | [17-18 year-olds Chemistry](#segundo-bach-quimica)
