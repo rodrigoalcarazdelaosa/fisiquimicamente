@@ -234,7 +234,7 @@ Materiales que han sido adaptados para poder ser utilizados en la generación de
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/fision.svg" title="Un simple diagrama de **fisión nuclear**. Un átomo de $^{235} \mathrm{U}$ captura y absorbe un neutrón, convirtiéndose en un átomo de $^{236} \mathrm{U}$ altamente radiactivo, que se *fisiona* dando lugar a dos fragmentos de fisión ($^{141} \mathrm{Ba}$ y $^{92} \mathrm{Kr}$) y tres neutrones, todos ellos con cantidades muy grandes de energía cinética." lightbox="false" width="80%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/fision.svg" title="Un átomo de $^{235} \mathrm{U}$ captura y absorbe un neutrón, convirtiéndose en un átomo de $^{236} \mathrm{U}$ altamente radiactivo, que se *fisiona* dando lugar a dos fragmentos de fisión ($^{141} \mathrm{Ba}$ y $^{92} \mathrm{Kr}$) y tres neutrones, todos ellos con cantidades muy grandes de energía cinética." lightbox="false" width="80%" >}}
 
 ---
 
