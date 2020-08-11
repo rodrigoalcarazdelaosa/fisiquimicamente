@@ -151,7 +151,9 @@ $$
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" lightbox="false" width="50%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" lightbox="false" width="60%" >}}
+
+---
 
 Puedes profundizar en el concepto de **temperatura** con ayuda de esta **simulación**:
 
