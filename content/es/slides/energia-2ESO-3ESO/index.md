@@ -119,3 +119,60 @@ Aprende más sobre las **formas** y **cambios** de **energía** con esta **simul
 <iframe src="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Calor y temperatura
+
+- [Temperatura](#/4)
+- [Mecanismos de transferencia de energía](#/4)
+- [Efectos del calor en los cuerpos](#/4)
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Temperatura {{<  icon name="thermometer-three-quarters" pack="fas" >}}
+De acuerdo al **modelo cinético-molecular**, la materia está formada por partículas que están en continuo movimiento. La **temperatura** es una **medida** de la **agitación** (velocidad) **media** de las **partículas** que forman un sistema. La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***. En el **SI**, la temperatura absoluta se mide en **kelvin** (K):
+
+$$
+T(\mathrm K) = T(^\circ\mathrm C)+273.15
+$$
+
+{{< figure library="true" src="energia-2ESO-3ESO/temperatura.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Kinetic_theory_of_gases.svg." lightbox="false" width="100%" >}}
+
+Puedes profundizar en el concepto de **temperatura** con ayuda de esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+### Mecanismos de transferencia de energía
+La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$). El calor se puede **transferir** mediante:
+
+#### Conducción
+Basado en el **contacto directo** entre los cuerpos.
+
+#### Convección
+Debido al **transporte** de **masa** por medio de un **fluido**.
+
+#### Radiación
+Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar incluso por el vacío.
+
+{{< figure library="true" src="energia-2ESO-3ESO/transferencia-calor.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:M%C3%A9todos_de_transferencia_de_calor.svg." lightbox="false" width="100%" >}}
+
+
+### Efectos del calor en los cuerpos
+#### Variación de temperatura y/o cambios de estado
+Cuando dos cuerpos se ponen en **contacto térmico**, el que está a mayor temperatura cede calor (enfriándose) al que está a menor temperatura (calentándose), llegando al cabo de un tiempo a un **equilibrio térmico** (misma temperatura). La variación de temperatura que sufre un cuerpo cuando se le proporciona una cantidad de calor depende de la sustancia de que se trate y de su masa.
+
+Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-2eso-3eso/materia/index.md#cambios-de-estado" >}}). Es importante recordar que, **durante** un **cambio** de estado, la **temperatura** del cuerpo permanece **constante**, ya que durante el cambio la energía transferida al cuerpo se emplea en reorganizar las partículas (romper enlaces).
+
+#### Dilatación
+Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^1]. La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en los **termómetros**. La escala **Celsius**, también llamada *centígrada*, es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
+
+[^1]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella.
+
+{{% /section %}}
