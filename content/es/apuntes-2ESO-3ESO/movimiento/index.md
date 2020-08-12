@@ -152,7 +152,11 @@ Seguimos estos **tres pasos**:
 {{% alert example %}}
 <br>
 
-> Un coche <span style="display: inline-block;transform: scale(-1, 1);">🚗</span> y una moto 🏍️ salen uno hacia el otro desde dos ciudades que distan 200$\thinspace$km, con velocidades de 70$\thinspace$km/h y 90$\thinspace$km/h, respectivamente. Calcula:<br>
+> Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);">🚗</span> y una moto 🏍️ salen uno hacia el otro desde dos ciudades que distan 200$\thinspace$km, con velocidades de 70$\thinspace$km/h y 90$\thinspace$km/h, respectivamente. Calcula:<br>
 a) ¿Cuánto tiempo tardarán en encontrarse?<br>
 b) ¿Qué distancia ha recorrido cada uno de ellos?
 
