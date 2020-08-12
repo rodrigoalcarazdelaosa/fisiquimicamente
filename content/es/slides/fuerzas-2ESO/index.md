@@ -16,7 +16,7 @@ slides:
 - [Máquinas simples](#/2)
 - [Principales fuerzas de la naturaleza](#/3)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](fuerzas-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 
