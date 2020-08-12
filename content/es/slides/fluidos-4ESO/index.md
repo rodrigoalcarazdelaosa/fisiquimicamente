@@ -17,7 +17,7 @@ slides:
 - [Física de la atmósfera](#/3)
 - [Cortometraje-documental](#/4)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](fluidos-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 
