@@ -888,20 +888,11 @@ applause-button {
 	color: #111111;
 	background-color: #fffff8;
 	border-color: $primary; }
-.form-control::placeholder {
+#newsletter .rounded::placeholder {
 	color: #555555; }
 
-select.form-control:focus::-ms-value {
-	color: $primary; }
-
-.form-control-plaintext {
-	color: $primary; }
-
 #newsletter div.border {
-    border: 1px solid $primary !important; }
-	
-#newsletter .rounded::placeholder {
-		color: #555555; }
+    border: 1px solid $primary !important; }	
 	
 #newsletter .btn {
     color: $primary;
