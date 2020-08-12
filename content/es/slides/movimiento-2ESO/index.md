@@ -304,7 +304,7 @@ $$
 ---
 
 Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
-{{< figure library="true" src="movimiento-2ESO/encuentro-graficas-slides.png" lightbox="false" width="45%" >}}
+{{< figure library="true" src="movimiento-2ESO/encuentro-graficas.png" lightbox="false" width="45%" >}}
 
 
 donde se ve claramente cómo el coche y la moto se encuentran para $t^* = 1.25\thinspace\mathrm{h}$.
