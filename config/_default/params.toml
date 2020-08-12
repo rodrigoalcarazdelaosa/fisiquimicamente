@@ -224,7 +224,7 @@ plugins_js  = ["applause-button","footnotes"]
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, apuntes-2ESO-3ESO = true, apuntes-4ESO = true, apuntes-1Bach = true, apuntes-2Bach = true}
+  commentable = {page = true, post = true, apuntes-2ESO-3ESO = true, apuntes-4ESO = true, apuntes-1Bach = true, apuntes-2Bach-fisica = true, apuntes-2Bach-quimica = true}
 
   # Configuration of Disqus.
   [comments.disqus]
@@ -295,3 +295,19 @@ plugins_js  = ["applause-button","footnotes"]
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+
+############################
+## Email newsletter
+############################
+[newsletter]
+# Newsletter provider:
+#   0: Disabled
+#   1: blogmail (https://blogmail.co)
+engine = 1
+
+# Which page types show email subscription form?
+subscribable = {page = true, post = true, docs = true, project = true, publication = true, talk = true, apuntes-2ESO-3ESO = true, apuntes-4ESO = true, apuntes-1Bach = true, apuntes-2Bach-fisica = true, apuntes-2Bach-quimica = true}
+
+# Configuration of blogmail.
+[newsletter.blogmail]
+  newsletterId = "40dee651-2160-4253-a98a-7dd5930d3f82"  # Paste the newsletter ID from your blogmail dashboard.
