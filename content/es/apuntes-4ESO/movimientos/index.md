@@ -218,7 +218,7 @@ Seguimos estos **tres pasos**:
   -webkit-transform: scale(-1, 1);
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
-  transform: scale(-1, 1);">🚗</span> se desplaza por una carretera que es paralela a la vía de un tren 🛤️. El coche se detiene ante un semáforo que está con luz roja en el mismo instante que pasa un tren <span style="display: inline-block;-moz-transform: scale(-1, 1);
+  transform: scale(-1, 1);">🚗</span> se desplaza por una carretera que es paralela a la vía de un tren. El coche se detiene ante un semáforo que está con luz roja en el mismo instante que pasa un tren <span style="display: inline-block;-moz-transform: scale(-1, 1);
   -webkit-transform: scale(-1, 1);
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
