@@ -18,7 +18,7 @@ slides:
 - [Modelo cinético-molecular](#/4)
 - [Mezclas](#/5)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](materia-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 
