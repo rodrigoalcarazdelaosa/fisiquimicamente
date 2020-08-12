@@ -878,6 +878,25 @@ applause-button {
 ///*************************************************
 //*  Blogmail
 //**************************************************/
+#newsletter .rounded {
+	color: $primary;
+	background-color: #fffff8;
+	border: 1px solid $primary; }
+.form-control:-moz-focusring {
+	text-shadow: 0 0 0 #111111; }
+.form-control:focus {
+	color: #111111;
+	background-color: #fffff8;
+	border-color: $primary; }
+.form-control::placeholder {
+	color: #555555; }
+
+select.form-control:focus::-ms-value {
+	color: $primary; }
+
+.form-control-plaintext {
+	color: $primary; }
+
 #newsletter div.border {
     border: 1px solid $primary !important; }
 	
