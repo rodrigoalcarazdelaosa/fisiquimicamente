@@ -19,7 +19,7 @@ slides:
 - [Gráficas](#/5)
 - [Encuentros](#/6)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](movimiento-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 
