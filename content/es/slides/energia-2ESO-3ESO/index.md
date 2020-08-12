@@ -17,7 +17,7 @@ slides:
 - [Calor y temperatura](#/3)
 - [Fuentes de energía](#/4)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](energia-diapositivas.pdf)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 
