@@ -314,6 +314,10 @@ color: #555555; }
 /*************************************************
  *  Search
  **************************************************/
+.search-results {
+  background-color: #fffff8;
+}
+
 #search-box #search-query {
   border: 1px solid $primary; }
   
