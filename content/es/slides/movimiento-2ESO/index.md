@@ -261,7 +261,7 @@ b) ¿Qué distancia ha recorrido cada uno de ellos?
 
 El siguiente esquema representa la situación que tenemos:
 
-{{< figure library="true" src="movimiento-2ESO/encuentro-planteamiento-slides.png" lightbox="false" >}}
+{{< figure library="true" src="movimiento-2ESO/encuentro-planteamiento.png" lightbox="false" >}}
 
 ---
 
