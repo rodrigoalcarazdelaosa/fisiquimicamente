@@ -884,7 +884,7 @@ applause-button {
 	border: 1px solid $primary; }
 #newsletter .rounded:-moz-focusring {
 	text-shadow: 0 0 0 #111111; }
-.form-control:focus {
+#newsletter .rounded:focus {
 	color: #111111;
 	background-color: #fffff8;
 	border-color: $primary; }
