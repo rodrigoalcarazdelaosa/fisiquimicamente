@@ -244,7 +244,7 @@ Seguimos estos **tres pasos**:
 ---
 
 ### Ejemplo resuelto
-<q>Un coche y una moto salen uno hacia el otro desde dos ciudades que distan 200$\thinspace$km, con velocidades de 70$\thinspace$km/h y 90$\thinspace$km/h, respectivamente. Calcula:<br>
+<q>Un coche 🚗 y una moto 🏍️ salen uno hacia el otro desde dos ciudades que distan 200$\thinspace$km, con velocidades de 70$\thinspace$km/h y 90$\thinspace$km/h, respectivamente. Calcula:<br>
 a) ¿Cuánto tiempo tardarán en encontrarse?<br>
 b) ¿Qué distancia ha recorrido cada uno de ellos?
 </q>
