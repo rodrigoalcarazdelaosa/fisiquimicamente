@@ -59,7 +59,11 @@
   <input type="hidden" value="1" name="embed"></input>
   <input type="submit" value="Subscribe"></input>
   <p>
-    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+	  {{ if eq .Site.Language.Lang "es" }}
+	      <a href="https://buttondown.email" target="_blank">Funcionando con Buttondown.</a>
+	  {{ else if eq .Site.Language.Lang "en" }}		  
+		  <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+ 	  {{ end }}		  
   </p>
 </form>
 
