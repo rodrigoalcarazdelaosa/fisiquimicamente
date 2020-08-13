@@ -278,7 +278,7 @@ Método **físico** para separar mezclas **heterogéneas** de líquidos y sólid
 #### Destilación
 Método **físico** para separar mezclas de líquidos con **distinto punto de ebullición**.
 
-{{< figure library="true" src="materia-2ESO-3ESO/destilacion.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure library="true" src="materia-2ESO-3ESO/destilacion.svg" title="https://www.kisscc0.com/clipart/fractional-distillation-separation-process-distill-a2qjes/" lightbox="false" width="100%" >}}
 
 #### Cristalización
 Método **químico** para separar mezclas **homogéneas**, como sólidos disueltos en líquidos.
