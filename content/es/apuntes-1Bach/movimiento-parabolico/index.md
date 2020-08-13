@@ -126,9 +126,10 @@ El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo 
 {{< spoiler text="¿Y si lanzamos el proyectil desde el suelo?" >}}
 Utilizando la expresión del tiempo de vuelo para el caso $h=0$, tenemos
 
-$$
-x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo} = v_0\cos\alpha_0\cdot \frac{2v_0\sin\alpha_0}{g}
-$$
+\begin{align*}
+x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo} &= v_0\cos\alpha_0\cdot \frac{2v_0\sin\alpha_0}{g} \\\\
+& = \frac{v_0^2\sin2\alpha_0}{g}
+\end{align*}
 {{< /spoiler >}}
 
 ## Altura máxima
