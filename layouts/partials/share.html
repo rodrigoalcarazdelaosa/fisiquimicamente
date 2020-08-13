@@ -2,18 +2,11 @@
 <div class="share-box" aria-hidden="true">
 	<h2>
 		{{ if eq .Site.Language.Lang "es" }}
-		¿Te ha gustado? Compártelo
+		¿Te ha gustado?
 		{{ else if eq .Site.Language.Lang "en" }}
-		Did you like it? Share it
+		Did you like it?
 		{{ end }}	
 	</h2>
-	  <p class="sharing">
-	  {{ if eq .Site.Language.Lang "es" }}
-		  O suscríbete al canal RSS <i class="fas fa-rss mr-1"></i> para no perderte ninguna actualización.
-	  {{ else if eq .Site.Language.Lang "en" }}
-			  There are <em>likes</em> and then there are <em>kudos</em>. This word, from the Greek κῦδος, means <em>fame</em>, <em>glory</em> or <em>prestige</em>. By giving me kudos you are acknowledging and praising my effort, encouraging me to continue preparing quality materials.
-	{{ end }}				  
-	  </p>	
   <ul class="share">
 	  <li><applause-button style="width: 30px; height: 30px;" url="{{ $.Permalink }}" /></li>
 	  <script src="https://apis.google.com/js/platform.js" async defer></script>
