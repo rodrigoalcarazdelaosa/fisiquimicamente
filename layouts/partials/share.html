@@ -18,6 +18,10 @@
         </a>
       </li>
     {{ end }}
+	<li>
+        <a href="{{ $.Permalink }}" target="_blank" rel="noopener" class="share-btn-{{.id}}">
+		<i class="fas fa-rss"></i>
+	</li>
   </ul>
   	  <p class="kudos">
 		  {{ if eq .Site.Language.Lang "es" }}
