@@ -344,7 +344,7 @@ Método **físico** para separar mezclas **heterogéneas** de líquidos y sólid
 #### Destilación
 Método **físico** para separar mezclas de líquidos con **distinto punto de ebullición**.
 
-{{< figure library="true" src="materia-2ESO-3ESO/destilacion.svg" lightbox="false" width=80% >}}
+{{< figure library="true" src="materia-2ESO-3ESO/destilacion.svg" lightbox="false" width=90% >}}
 
 ---
 
