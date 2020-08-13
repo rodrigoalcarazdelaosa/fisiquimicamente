@@ -47,15 +47,7 @@
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
-  enable = true
-  
-[[buttons]]
-  id = "rss"
-  url = "{url}.Parent"
-  title = "RSS"
-  icon_pack = "fas"
-  icon = "rss"
-  enable = true    
+  enable = true      
 
 [[buttons]]
   id = "weibo"
