@@ -124,6 +124,16 @@ a:focus {
   color: $sta-link-hover;
 }
 
+.dark a,
+.dark h3.article-title a:hover {
+  color: $sta-dark-link;
+}
+
+.dark a:hover,
+.dark a:focus {
+  color: $sta-dark-link-hover;
+}
+
 img,
 video {
   height: auto;
@@ -432,7 +442,7 @@ a.badge:hover {
 .btn {
   padding: .5rem;
   font-size: .8rem;
-  line-height: .5;
+  line-height: .9;  // Anything less and multiline button text may overlap.
   border-radius: .3rem;
 }
 

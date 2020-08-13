@@ -69,7 +69,28 @@
 }
 
 .dark .navbar {
+  background: $sta-dark-menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, .11);
+  .navbar-nav {
+    .nav-link {
+      color: rgba($sta-dark-menu-text, .85);
+
+      &.active,
+      &:hover,
+      &:focus {
+        color: $sta-dark-menu-text;
+      }
+
+      &.active {
+        font-weight: bold !important;
+        color: $sta-dark-menu-text-active !important;
+      }
+    }
+  }
+  .dropdown-item.active,
+  .dropdown-item-active {
+    color: $sta-dark-menu-text-active !important;
+  }
 }
 
 // Remove Bootstrap's border from Toggle button.
@@ -136,6 +157,10 @@
   color: $sta-menu-text;
 }
 
+.dark #navbar-main .main-menu-item ul li .nav-link {
+  color: $sta-dark-menu-text;
+}
+
 @include media-breakpoint-down(md) {
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {
@@ -165,6 +190,9 @@
     width: 100%;
     background-color: $sta-menu-primary;
     text-align: center !important;
+  }
+  .dark .navbar-collapse {
+    background-color: $sta-dark-menu-primary;
   }
   #navbar-main .main-menu-item .nav-item {
     padding: 10px 15px !important;
@@ -200,7 +228,17 @@ ul.nav-icons li.nav-item a.nav-link {
   z-index: 1032;  // I18n dropdown over mobile expanded menu.
 }
 
+.dark .dropdown-menu {
+  background-color: $sta-dark-menu-primary !important;
+  color: $sta-dark-menu-text !important;
+}
+
 .dropdown-item {
   background-color: $sta-menu-primary !important;
   color: $sta-menu-text !important;
+}
+
+.dark .dropdown-item {
+  background-color: $sta-dark-menu-primary !important;
+  color: $sta-dark-menu-text !important;
 }
