@@ -47,6 +47,24 @@
 		  </p>
 </div>
 
+{{ if eq .Site.Language.Lang "es" }}
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/rodrigoalcarazdelaosa"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/rodrigoalcarazdelaosa', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Introduce tu email</label>
+  <input type="email" name="email" id="bd-email"></input>
+  <input type="hidden" value="1" name="embed"></input>
+  <input type="submit" value="Suscríbete"></input>
+  <p>
+	  <a href="https://buttondown.email" target="_blank">Funcionando con Buttondown.</a>
+  </p>
+</form>
+
+{{ else if eq .Site.Language.Lang "en" }}
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/rodrigoalcarazdelaosa"
   method="post"
@@ -59,12 +77,10 @@
   <input type="hidden" value="1" name="embed"></input>
   <input type="submit" value="Subscribe"></input>
   <p>
-	  {{ if eq .Site.Language.Lang "es" }}
-	      <a href="https://buttondown.email" target="_blank">Funcionando con Buttondown.</a>
-	  {{ else if eq .Site.Language.Lang "en" }}		  
-		  <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
- 	  {{ end }}		  
+	  <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
   </p>
 </form>
+
+{{ end }}			  
 
 {{ end }}
