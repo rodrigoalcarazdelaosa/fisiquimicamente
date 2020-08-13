@@ -18,6 +18,7 @@
         </a>
       </li>
     {{ end }}
+	{{ $link := replace .url "{url}" ($.Permalink | htmlEscape) }}
 	<li>
         <a href="{{$link|safeURL}}" target="_blank" rel="noopener" class="share-btn-{{.id}}">
 			<i class="fas fa-rss"></i>
