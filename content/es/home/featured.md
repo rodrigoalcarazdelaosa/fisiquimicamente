@@ -38,6 +38,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 3
+  columns = "1"
   
 [design.background]
   # Apply a background color, gradient, or image.
