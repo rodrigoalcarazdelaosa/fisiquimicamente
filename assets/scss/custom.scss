@@ -868,10 +868,10 @@ applause-button {
 //*  Buttondown
 //**************************************************/  
   
-.embeddable-buttondown-form {
+#buttondown .border {
 	border: 1px solid $primary;
 }
 
-.embeddable-buttondown-form .form-control {
+#buttondown .form-control {
 	width: 50%;
 }
