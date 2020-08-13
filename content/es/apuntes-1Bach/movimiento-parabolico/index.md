@@ -112,16 +112,24 @@ t_\text{vuelo} = \frac{v_0\sin\alpha_0\pm\sqrt{v_0^2\sin^2\alpha_0+2gh}}{g},
 $$
 donde nos quedamos únicamente con la opción positiva ($+$).
 
-{{< spoiler text="¿Y si lanzamos el proyectil desde el suelo" >}}
+{{< spoiler text="¿Y si lanzamos el proyectil desde el suelo?" >}}
 No tenemos más que imponer $h=0$ en la anterior expresión, para llegar a:
 
 $$
-t_\text{vuelo} = \frac{2v_0\sin\alpha_0}{g},
+t_\text{vuelo} = \frac{2v_0\sin\alpha_0}{g}
 $$
 {{< /spoiler >}}
 
 ## Alcance
 El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo para un ángulo $\alpha_0 = 45^\circ$, y teniendo el mismo valor para $\alpha_0 = 45^\circ+a$ que para $\alpha_0 = 45^\circ-a$. Se obtiene sustituyendo en la ecuación de la coordenada $x$ la expresión del tiempo de vuelo, es decir **alcance** $ = x(t_\text{vuelo})$.
+
+{{< spoiler text="¿Y si lanzamos el proyectil desde el suelo?" >}}
+Utilizando la expresión del tiempo de vuelo para el caso $h=0$, tenemos
+
+$$
+x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo}
+$$
+{{< /spoiler >}}
 
 ## Altura máxima
 
