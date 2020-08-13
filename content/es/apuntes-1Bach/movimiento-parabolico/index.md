@@ -128,7 +128,7 @@ Utilizando la expresión del tiempo de vuelo para el caso $h=0$, tenemos
 
 \begin{align*}
 x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo} &= v_0\cos\alpha_0\cdot \frac{2v_0\sin\alpha_0}{g} \\\\
-& = \frac{v_0^2\sin2\alpha_0}{g}
+& = \frac{v_0^2\sin(2\alpha_0)}{g}
 \end{align*}
 {{< /spoiler >}}
 
