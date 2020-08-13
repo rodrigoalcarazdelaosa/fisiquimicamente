@@ -127,7 +127,7 @@ El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo 
 Utilizando la expresión del tiempo de vuelo para el caso $h=0$, tenemos
 
 $$
-x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo}
+x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo} = v_0\cos\alpha_0\cdot \frac{2v_0\sin\alpha_0}{g}
 $$
 {{< /spoiler >}}
 
