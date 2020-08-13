@@ -17,6 +17,9 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 
+[design]
+  columns = "1"
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
