@@ -45,46 +45,6 @@
 			  You can also subscribe to the RSS feed <i class="fas fa-rss mr-1"></i> so you don't miss any updates.
 		{{ end }}				  
 		  </p>
-</div>
-
-{{ if eq .Site.Language.Lang "es" }}
-<div id="buttondown" class="border rounded container-fluid py-3 mt-2">
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/rodrigoalcarazdelaosa"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/rodrigoalcarazdelaosa', 'popupwindow')"
-  class="embeddable-buttondown-form form-group container d-flex flex-wrap"
->
-  <label for="bd-email">Introduce tu email</label>
-  <input type="email" name="email" id="bd-email" class="form-control rounded flex-grow-1 px-1"></input>
-  <input type="hidden" value="1" name="embed"></input>
-  <input type="submit" value="Suscríbete" class="btn btn-outline-primary mx-1"></input>
-  <p>
-	  <a href="https://buttondown.email" target="_blank">Funcionando con Buttondown.</a>
-  </p>
-</form>
-</div>
-
-{{ else if eq .Site.Language.Lang "en" }}
-<div id="buttondown" class="border rounded container-fluid py-3 mt-2">
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/rodrigoalcarazdelaosa"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/rodrigoalcarazdelaosa', 'popupwindow')"
-  class="embeddable-buttondown-form form-group container d-flex flex-wrap"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" class="form-control rounded flex-grow-1 px-1"></input>
-  <input type="hidden" value="1" name="embed"></input>
-  <input type="submit" value="Subscribe" class="btn btn-outline-primary mx-1"></input>
-  <p>
-	  <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-  </p>
-</form>
-</div>
-
-{{ end }}			  
+</div>		  
 
 {{ end }}
