@@ -51,7 +51,7 @@
   
 [[buttons]]
   id = "rss"
-  url = "{url}index.xml"
+  url = "{url}.Parent"
   title = "RSS"
   icon_pack = "fas"
   icon = "rss"
