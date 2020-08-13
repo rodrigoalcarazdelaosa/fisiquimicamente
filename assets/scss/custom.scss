@@ -878,22 +878,3 @@ applause-button {
 #popup-content a > code {
   color: #000000;
   text-decoration: underline; }
-  
-///*************************************************
-//*  Blogmail
-//**************************************************/
-#newsletter div.border {
-    border: 1px solid $primary !important; }
-	
-#newsletter .form-control {
-	width: 80%;}
-	
-#newsletter .btn {
-    color: $primary;
-    background-color: transparent;
-    border-color: $primary; }
-	
-#newsletter	.btn:hover {
-	color: #FFFFF8;
-	background-color: $primary;
-	border-color: $primary; }	
