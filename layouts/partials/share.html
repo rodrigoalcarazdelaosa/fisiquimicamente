@@ -53,7 +53,13 @@
 
 <div class="subscribe-box" aria-hidden="true">
 	<center>
-		<h2 style="color: #555;">Suscríbete</h2>
+		<h2 style="color: #555;">
+			{{ if eq .Site.Language.Lang "es" }}
+			Suscríbete
+			{{ else if eq .Site.Language.Lang "en" }}
+			Subscribe
+			{{ end }}
+		</h2>
 	</center>
 	<ul class=subscribe>
 		<li>
