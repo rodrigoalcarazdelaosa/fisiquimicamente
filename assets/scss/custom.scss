@@ -77,14 +77,6 @@ p svg {
 	line-height: 1;
 	position: relative;
 }
-
-svg#palmas {
-	filter: grayscale(100%);
-}
-
-svg#palmas:hover {
-	filter: none;
-}
   
 /* Navigation bar text */
 .navbar-light {
