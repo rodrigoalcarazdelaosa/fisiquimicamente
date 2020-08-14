@@ -62,11 +62,13 @@
 		</h2>
 	</center>
 	<ul class=subscribe>
+		{{ if eq .Site.Language.Lang "es" }}
 		<li>
 	        <a href="https://t.me/fisiquimicamente" target="_blank" rel="noopener">
 				<i class="fab fa-telegram"></i>
 			</a>
 		</li>
+		{{ end }}				
 		<li>
 	        <a href="{{ $.Parent.Permalink }}index.xml" target="_blank" rel="noopener">
 				<i class="fas fa-rss"></i>
