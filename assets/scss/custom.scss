@@ -665,28 +665,20 @@ applause-button {
   svg {
     @include centered-square(60%);
     @include position-fill();
-    opacity: 1.0;
+    opacity: 0.8;
     stroke: none;
     // annoyingly bootstrap has a higher precedence rule that sets overflow to hidden
     // hence the bang-important
     overflow: visible !important;
-
-    g.flat {
-      visibility: hidden;
-    }
-    g.outline {
-      visibility: visible;
-    }
+  }
+  
+  svg#palmas {
+	  filter: grayscale(100%);
   }
 
   &.clapped {
-    svg {
-      g.flat {
-        visibility: visible;
-      }
-      g.outline {
-        visibility: hidden;
-      }
+    svg#palmas {
+      filter: none;
     }
   }
 
