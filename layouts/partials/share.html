@@ -18,6 +18,11 @@
         </a>
       </li>
     {{ end }}
+	<li>
+        <a href="{{ $.Parent.Permalink }}index.xml" target="_blank" rel="noopener">
+			<i class="fas fa-rss"></i>
+		</a>
+	</li>
   </ul>
   	  <p class="kudos">
 		  {{ if eq .Site.Language.Lang "es" }}
@@ -29,13 +34,13 @@
 			  
 			  You can also subscribe to the RSS feed <i class="fas fa-rss mr-1"></i> so you don't miss any updates.
 		{{ end }}				  
-	  </p>
+		  </p>
 </div>
 
 <div class="subscribe-box" aria-hidden="true">
 	<ul class=subscribe>
 		<li>
-	        <a href="https://t.me/fisiquimicamente" target="_blank" rel="noopener">
+	        <a href="{{ $.Parent.Permalink }}index.xml" target="_blank" rel="noopener">
 				<i class="fab fa-telegram"></i>
 			</a>
 		</li>
