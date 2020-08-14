@@ -73,9 +73,13 @@
 			</a>
 		</li>
 	</ul>
-	<p class="kudos">
-	Si no quieres perderte ninguna actualización considera suscribirte al canal de Telegram <i class="fab fa-telegram ml-1 mr-1"></i> o RSS <i class="fas fa-rss ml-1 mr-1"></i>.
-	</p>
+	  <p class="kudos">
+	  {{ if eq .Site.Language.Lang "es" }}
+		  Si no quieres perderte ninguna actualización considera suscribirte al canal de Telegram <i class="fab fa-telegram ml-1 mr-1"></i> o RSS <i class="fas fa-rss ml-1 mr-1"></i>.
+	  {{ else if eq .Site.Language.Lang "en" }}
+		If you don't want to miss any updates consider subscribing to the RSS channel <i class="fas fa-rss ml-1"></i>.
+	{{ end }}				  
+  </p>
 </div>
 
 {{ end }}
