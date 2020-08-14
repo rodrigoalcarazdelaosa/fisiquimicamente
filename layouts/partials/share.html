@@ -35,6 +35,21 @@
 			  You can also subscribe to the RSS feed <i class="fas fa-rss mr-1"></i> so you don't miss any updates.
 		{{ end }}				  
 		  </p>
-</div>		  
+</div>
+
+<div class="subscribe-box" aria-hidden="true">
+	<ul class=share>
+		<li>
+	        <a href="{{ $.Parent.Permalink }}index.xml" target="_blank" rel="noopener">
+				<i class="fas fa-telegram"></i>
+			</a>
+		</li>
+		<li>
+	        <a href="{{ $.Parent.Permalink }}index.xml" target="_blank" rel="noopener">
+				<i class="fas fa-rss"></i>
+			</a>
+		</li>
+	</ul>
+</div>
 
 {{ end }}
