@@ -661,26 +661,54 @@ applause-button {
     @include position-fill();
     border-radius: 50%;
   }
-
+  
   svg {
     @include centered-square(60%);
     @include position-fill();
     opacity: 0.8;
-//    stroke: none;
+    stroke: none;
     // annoyingly bootstrap has a higher precedence rule that sets overflow to hidden
     // hence the bang-important
     overflow: visible !important;
-  }
-  
-  svg#palmas {
-	  filter: grayscale(100%);
+
+    g.flat {
+      visibility: hidden;
+    }
+    g.outline {
+      visibility: visible;
+    }
   }
 
   &.clapped {
-    svg#palmas {
-      filter: none;
+    svg {
+      g.flat {
+        visibility: visible;
+      }
+      g.outline {
+        visibility: hidden;
+      }
     }
   }
+
+//  svg {
+//    @include centered-square(60%);
+//    @include position-fill();
+//    opacity: 0.8;
+////    stroke: none;
+//    // annoyingly bootstrap has a higher precedence rule that sets overflow to hidden
+//    // hence the bang-important
+//    overflow: visible !important;
+//  }
+//
+//  svg#palmas {
+//	  filter: grayscale(100%);
+//  }
+//
+//  &.clapped {
+//    svg#palmas {
+//      filter: none;
+//    }
+//  }
 
   .count-container {
     position: absolute;
