@@ -666,7 +666,7 @@ applause-button {
     @include centered-square(60%);
     @include position-fill();
     opacity: 0.8;
-    stroke: none;
+//    stroke: none;
     // annoyingly bootstrap has a higher precedence rule that sets overflow to hidden
     // hence the bang-important
     overflow: visible !important;
