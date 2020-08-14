@@ -77,6 +77,10 @@ p svg {
 	line-height: 1;
 	position: relative;
 }
+
+svg#palmas {
+	filter: grayscale(100%);
+}
   
 /* Navigation bar text */
 .navbar-light {
