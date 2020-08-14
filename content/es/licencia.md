@@ -16,4 +16,6 @@ Mis 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/a
 
 Los 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}}) son cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
 
+<center>
 <applause-button style="width: 58px; height: 58px;"/>
+</center>
