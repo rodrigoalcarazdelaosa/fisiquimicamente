@@ -372,7 +372,49 @@ position: relative; }
  **************************************************/
 
 ul.share li a {
-  color: #111111; }  
+  color: #111111; }
+  
+/*************************************************
+*  Subscribing
+**************************************************/
+.subscribe-box {
+margin-top: 0.7rem; }
+
+ul.subscribe {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+flex-wrap: wrap;
+list-style: none;
+margin: 0;
+padding: 0; }
+
+ul.subscribe li {
+display: inline-flex;
+margin-right: 8px; }
+
+ul.subscribe li:last-of-type {
+margin-right: 0; }
+
+ul.subscribe li i {
+display: block;
+width: 30px;
+height: 30px;
+line-height: 30px;
+font-size: 22px;
+text-align: center;
+transition: all 150ms ease-in-out; }
+
+ul.subscribe li a {
+text-decoration: none !important;
+color: rgba(0, 0, 0, 0.84); }
+
+.dark ul.subscribe li a {
+color: rgba(255, 255, 255, 0.84); }
+
+ul.subscribe li:hover i {
+transform: scale(1.2); }  
   
 /*************************************************
 *  Author profile card
