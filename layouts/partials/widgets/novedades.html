@@ -102,13 +102,16 @@
       {{ end }}
     {{end}}
 
-    {{ $show_archive_link := $st.Params.content.archive.enable | default (gt $count $items_count) }}
+    {{ if gt $count $items_count }}
+	<!-- {{ $show_archive_link := $st.Params.content.archive.enable | default (gt $count $items_count) }}
     {{ if $show_archive_link }}
     {{ $archive_link := ($st.Params.content.archive.link | relLangURL) | default $archive_page.RelPermalink }}
-    {{ $archive_text := $st.Params.content.archive.text | default (i18n $i18n) | default "See all" }}
+    {{ $archive_text := $st.Params.content.archive.text | default (i18n $i18n) | default "See all" }} -->
     <div class="see-all">
-      <a href="{{ $archive_link }}">
-        {{ $archive_text | emojify }}
+		<a href="{{ $archive_page.RelPermalink }}">
+		        {{ i18n $i18n | default "See all" }}
+      <!-- <a href="{{ $archive_link }}">
+        {{ $archive_text | emojify }} -->
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
