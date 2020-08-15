@@ -1,5 +1,6 @@
 ---
 title: Atomic Structure
+slug: atomic-structure
 subtitle: Dalton's Atomic Theory, Atomic Models, Ions and Isotopes
 summary: "`COMING SOON` <br> Dalton's Atomic Theory, Atomic Models, Ions and Isotopes."
 tags:
