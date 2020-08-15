@@ -6,6 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "13-14 year-olds"
+slug = "13-14-year-olds"
 subtitle = ""
 
 [content]
