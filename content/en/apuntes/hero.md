@@ -6,6 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "📚 Physics and Chemistry Notes"
+slug = "notes"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = ""
