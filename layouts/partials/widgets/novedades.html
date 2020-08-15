@@ -69,24 +69,13 @@
   {{ $i18n = "more_pages" }}
 {{ end }}
 
-{{ $columns := $st.Params.design.columns | default "2" }}
-
-<div class="row {{if not $st.Title | or (eq $columns "1") }}justify-content-center{{end}}">
-  {{ if $st.Title }}
-    {{ if eq $columns "1" }}
-      <div class="col-12 col-lg-8 section-heading text-center">
-        {{ with $st.Title }}<h1>{{.}}</h1>{{ end }}
-        {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-      </div>
-    {{else}}
-	  <div class="col-12 col-lg-4 section-heading">
-	    <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
-		{{ with $st.Params.subtitle }}<p><i class="fab fa-twitter mr-1"></i>{{ . | markdownify | emojify }}</p>{{ end }}
-	    <a class="twitter-timeline" data-chrome="transparent" data-lang="es" data-height="550" href="https://twitter.com/alcarazr?ref_src=twsrc%5Etfw">Tweets by alcarazr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-	  </div>
-    {{end}}
-  {{ end }}
-  <div class="col-12 col-lg-8">  
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
+	{{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+    <a class="twitter-timeline" data-chrome="transparent" data-lang="es" data-height="550" href="https://twitter.com/alcarazr?ref_src=twsrc%5Etfw">Tweets by alcarazr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+  <div class="col-12 col-lg-8">
 
     {{ with $st.Content }}{{ . }}{{ end }}
 
@@ -103,15 +92,9 @@
     {{end}}
 
     {{ if gt $count $items_count }}
-	<!-- {{ $show_archive_link := $st.Params.content.archive.enable | default (gt $count $items_count) }}
-    {{ if $show_archive_link }}
-    {{ $archive_link := ($st.Params.content.archive.link | relLangURL) | default $archive_page.RelPermalink }}
-    {{ $archive_text := $st.Params.content.archive.text | default (i18n $i18n) | default "See all" }} -->
     <div class="see-all">
-		<a href="{{ $archive_page.RelPermalink }}">
-	        {{ i18n $i18n | default "See all" }}
-      <!-- <a href="{{ $archive_link }}">
-        {{ $archive_text | emojify }} -->
+      <a href="{{ $archive_page.RelPermalink }}">
+        {{ i18n $i18n | default "See all" }}
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
