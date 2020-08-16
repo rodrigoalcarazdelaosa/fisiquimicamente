@@ -4,6 +4,7 @@ subtitle: Tabla Periódica con científicos ilustres
 summary: Tabla Periódica con científicos ilustres.
 authors:
 - rodrigo-alcaraz-de-la-osa
+- jesica-sanchez-mazon
 date: "2020-07-28T00:00:00Z"
 tags:
 - tabla-periódica
