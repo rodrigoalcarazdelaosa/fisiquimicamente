@@ -1,7 +1,7 @@
 ---
 title: Electricidad y electrónica
-subtitle: Circuitos eléctricos, ley de Ohm y dispositivos electrónicos
-summary: "`EN CONSTRUCCIÓN` <br> Electricidad y circuitos eléctricos. Ley de Ohm. Dispositivos electrónicos."
+subtitle: Ley de Ohm, circuitos eléctricos y dispositivos electrónicos
+summary: "`EN CONSTRUCCIÓN` <br> Ley de Ohm. Circuitos eléctricos. Dispositivos electrónicos."
 tags:
 - 2º ESO
 - 3º ESO
