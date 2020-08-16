@@ -16,16 +16,16 @@ image:
   caption: Imagen de [**Hans Braxmeier**](https://pixabay.com/es/users/hans-2/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
+links:
 # - icon_pack: fas
 # icon: download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
   
-# - icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: movimientos_poster.pdf  
+- icon_pack: fas
+  icon: file-download
+  name: Póster
+  url: electricidad-electronica-poster.pdf  
 ---
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
