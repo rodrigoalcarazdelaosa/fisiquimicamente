@@ -225,25 +225,6 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 </tbody>
 </table>
 
-| Color | 1ª cifra | 2º cifra | Multiplicador | Tolerancia |
-| --- | :---: | :---: | :---: | :---: |
-| Rosa | &ndash; | &ndash; | $10^{-3}$ | &ndash; |
-| Plateado | &ndash; | &ndash; | $10^{-2}$ | $\pm 10\thinspace\\%$ |
-| Dorado | &ndash; | &ndash; | $10^{-1}$ | $\pm 5\thinspace\\%$ |
-| Negro | $0$ | $0$ | $10^0$ | &ndash; |
-| Marrón | $1$ | $1$ | $10^1$ | $\pm 1\thinspace\\%$ |
-| Rojo | $2$ | $2$ | $10^2$ | $\pm 2\thinspace\\%$ |
-| Naranja | $3$ | $3$ | $10^3$ | &ndash; |
-| Amarillo | $4$ | $4$ | $10^4$ | $\pm 4\thinspace\\%$ |
-| Verde | $5$ | $5$ | $10^5$ | $\pm 0.5\thinspace\\%$ |
-| Azul | $6$ | $6$ | $10^6$ | $\pm 0.25\thinspace\\%$ |
-| Violeta | $7$ | $7$ | $10^7$ | $\pm 0.1\thinspace\\%$ |
-| Gris | $8$ | $8$ | $10^8$ | $\pm 0.05\thinspace\\%$ |
-| Blanco | $9$ | $9$ | $10^9$ | &ndash; |
-
-
-
-
 {{< /spoiler >}}
 
 #### Elementos de control
