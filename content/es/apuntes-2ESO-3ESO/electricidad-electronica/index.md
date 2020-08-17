@@ -296,6 +296,8 @@ Son componentes electrónicos de dos terminales que **permiten** la **circulaci�
 ### Circuitos integrados
 También conocidos como **microchips**, son conjuntos de **circuitos electrónicos** en una pequeña pieza plana (*chip*) de material semiconductor (Si). Los microchips están ahora en prácticamente todos los equipos electrónicos, gracias a su **pequeño tamaño** y **bajo coste**.
 
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/microchip.jpg" title="**Microchip** Snapdragon de Qualcomm.<br> Imagen de [**Monoar Rahman Rony**](https://pixabay.com/es/users/monoar_cgi_artis-2240009/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
 ## Aspectos industriales de la energía
 ### Generación
 ### Transporte
