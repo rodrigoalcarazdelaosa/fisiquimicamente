@@ -127,6 +127,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 | Blanco | $9$ | $9$ | $10^9$ | &ndash; |
 | Dorado | &ndash; | &ndash; | $0.1$ | $\pm 5\thinspace\\%$ |
 | Plateado | &ndash; | &ndash; | $0.01$ | $\pm 10\thinspace\\%$ |
+| Rosa | &ndash; | &ndash; | $0.001$ | &ndash; |
 | Ninguno | &ndash; | &ndash; | &ndash; | $\pm 20\thinspace\\%$ |
 
 {{< /spoiler >}}
