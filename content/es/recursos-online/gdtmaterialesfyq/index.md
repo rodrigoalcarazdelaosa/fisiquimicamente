@@ -10,7 +10,7 @@ categories:
 # Optional external URL for project (replaces project detail page).
 external_link: https://sites.google.com/view/materialesfyq
 
-<!-- image:
-  caption: https://sites.google.com/view/materialesfyq
-  focal_point: Smart -->
+# image:
+#  caption: https://sites.google.com/view/materialesfyq
+#  focal_point: Smart
 ---
