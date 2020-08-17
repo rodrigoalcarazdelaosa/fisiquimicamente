@@ -26,7 +26,7 @@
       <link>{{ .Permalink }}</link>
     </image>
     {{end -}}
-    {{ range $pages }}
+	{{ range (where $pages ".Section" "in" (slice "apuntes-2eso-3eso" "apuntes-4eso" "apuntes-1bach" "apuntes-2bach-fisica" "apuntes-2bach-quimica" "post")) }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
