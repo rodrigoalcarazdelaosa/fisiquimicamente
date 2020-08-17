@@ -227,7 +227,6 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 
 | Color | 1ª cifra | 2º cifra | Multiplicador | Tolerancia |
 | --- | :---: | :---: | :---: | :---: |
-| Ninguno | &ndash; | &ndash; | &ndash; | $\pm 20\thinspace\\%$ |
 | Rosa | &ndash; | &ndash; | $10^{-3}$ | &ndash; |
 | Plateado | &ndash; | &ndash; | $10^{-2}$ | $\pm 10\thinspace\\%$ |
 | Dorado | &ndash; | &ndash; | $10^{-1}$ | $\pm 5\thinspace\\%$ |
