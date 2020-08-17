@@ -225,7 +225,7 @@ background-color: $primary_bg; }
 
 table#colores-resistencias > tbody > tr:nth-child(odd) > td,
 table#colores-resistencias > tbody > tr:nth-child(odd) > th {
-	background-color: none;
+	background-color: none !important;
 }
 
 /* Table Hover */
