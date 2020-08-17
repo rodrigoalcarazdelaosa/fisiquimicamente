@@ -111,7 +111,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 #### Elementos de control
 Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, como los **interruptores**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/interruptores.webp" title="Conjunto de resistores axiales de eje de plomo y distintas resistencias.<br> https://commons.wikimedia.org/wiki/File:Electronic-Axial-Lead-Resistors-Array.jpg" lightbox="true" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/interruptores.webp" title="https://www.thespruce.com/types-of-electrical-switches-in-the-home-1824672" lightbox="true" >}}
 
 #### Elementos de protección
 ### En serie
