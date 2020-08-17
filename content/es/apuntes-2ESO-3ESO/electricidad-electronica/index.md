@@ -114,7 +114,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencia-colores.svg" title="**Código** de **colores** para conocer el **valor** de una **resistencia**.<br> Adaptada de https://commons.wikimedia.org/wiki/File:Resistencia.svg" lightbox="false" width="100%" >}}
 
 | Color | 1ª cifra | 2º cifra | Multiplicador | Tolerancia |
-| :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | Negro | 0 | 0 | 1 | - |
 | Café | 1 | 1 | 10 | $\pm$1$\thinspace$% |
 | Rojo | 2 | 2 | 100 | $\pm$2$\thinspace$% |
