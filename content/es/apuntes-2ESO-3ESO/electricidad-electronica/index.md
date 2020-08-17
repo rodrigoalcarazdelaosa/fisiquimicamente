@@ -173,7 +173,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 <td align="center">$10^2$</td>
 <td align="center">$\pm 2\thinspace\%$</td>
 </tr>
-<tr style="color:#FFFFFF;background-color:#FA842B">
+<tr style="background-color:#FA842B">
 <td>Naranja</td>
 <td align="center">$3$</td>
 <td align="center">$3$</td>
