@@ -131,7 +131,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 <td align="center">–</td>
 <td align="center"><mjx-container class="MathJax CtxtMenu_Attached_0" jax="CHTML" role="presentation" tabindex="0" ctxtmenu_counter="13" style="font-size: 113.1%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mo class="mjx-n"><mjx-c class="mjx-cB1"></mjx-c></mjx-mo><mjx-mn class="mjx-n"><mjx-c class="mjx-c32"></mjx-c><mjx-c class="mjx-c30"></mjx-c></mjx-mn><mjx-mstyle><mjx-mspace style="width: 0.167em;"></mjx-mspace></mjx-mstyle><mjx-mi class="mjx-n"><mjx-c class="mjx-c25"></mjx-c></mjx-mi></mjx-math><mjx-assistive-mml role="presentation" unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>±</mo><mn>20</mn><mstyle scriptlevel="0"><mspace width="thinmathspace"></mspace></mstyle><mi mathvariant="normal">%</mi></math></mjx-assistive-mml></mjx-container></td>
 </tr>
-<tr>
+<tr style="background-color:#E1A6AD">
 <td>Rosa</td>
 <td align="center">–</td>
 <td align="center">–</td>
