@@ -140,7 +140,7 @@ $$
 \frac{1}{R_\text{eq}} = \frac{1}{R_1} + \frac{1}{R_2}
 $$
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-paralelo.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **paralelo**. La **resistencia equivalente** viene dada por $\frac{1}{R_\text{eq}} = \frac{1}{R_1} + \frac{1}{R_2}$." lightbox="false" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-paralelo.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **paralelo**. La **resistencia equivalente** viene dada por $1/R_\text{eq} = 1/R_1 + 1/R_2$." lightbox="false" width="100%" >}}
 
 ## Dispositivos electrónicos
 ### Transistores
