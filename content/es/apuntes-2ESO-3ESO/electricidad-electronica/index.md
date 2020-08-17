@@ -33,6 +33,8 @@ links:
 {{% toc %}}
 
 ## Corriente eléctrica
+Definimos la **corriente eléctrica** como **cargas** en **movimiento** a través de un conductor.
+
 ## Magnitudes eléctricas
 ## Ley de Ohm
 ## Buenos y malos conductores
