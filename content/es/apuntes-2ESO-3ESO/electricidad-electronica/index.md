@@ -152,21 +152,21 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 <td align="center">$10^{-1}$</td>
 <td align="center">$\pm 5\thinspace\%$</td>
 </tr>
-<tr style="color:#FFFFF8;background-color:#0A0A0A; !important;">
+<tr style="color:#FFFFF8;background-color:#0A0A0A">
 <td>Negro</td>
 <td align="center">$0$</td>
 <td align="center">$0$</td>
 <td align="center">$10^0$</td>
 <td align="center">–</td>
 </tr>
-<tr style="color:#FFFFFF;background-color:#80542F">
+<tr style="color:#FFFFF8;background-color:#80542F">
 <td>Marrón</td>
 <td align="center">$1$</td>
 <td align="center">$1$</td>
 <td align="center">$10^1$</td>
 <td align="center">$\pm 1\thinspace\%$</td>
 </tr>
-<tr style="color:#FFFFFF;background-color:#AB2524">
+<tr style="color:#FFFFF8;background-color:#AB2524">
 <td>Rojo</td>
 <td align="center">$2$</td>
 <td align="center">$2$</td>
