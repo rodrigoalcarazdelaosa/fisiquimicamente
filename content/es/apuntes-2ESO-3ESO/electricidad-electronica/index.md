@@ -125,6 +125,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 | Morado | $7$ | $7$ | $10^7$ | $\pm 0.1\thinspace\\%$ |
 | Gris | $8$ | $8$ | $10^8$ | $\pm 0.05\thinspace\\%$ |
 | Blanco | $9$ | $9$ | $10^9$ | &ndash; |
+| Dorado | &ndash; | &ndash; | $0.1$ | $\pm 5\thinspace\\%$ |
 
 {{< /spoiler >}}
 
