@@ -1,7 +1,7 @@
 ---
 title: Electricidad y electrónica
 subtitle: Ley de Ohm, circuitos eléctricos y dispositivos electrónicos
-summary: "`EN CONSTRUCCIÓN` <br> Ley de Ohm. Circuitos eléctricos. Dispositivos electrónicos."
+summary: "Ley de Ohm. Circuitos eléctricos. Dispositivos electrónicos."
 tags:
 - 2º ESO
 - 3º ESO
@@ -30,6 +30,6 @@ links:
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
 
-{{% alert warning %}}
-En construcción...
-{{% /alert %}}
+{{% toc %}}
+
+## hola
