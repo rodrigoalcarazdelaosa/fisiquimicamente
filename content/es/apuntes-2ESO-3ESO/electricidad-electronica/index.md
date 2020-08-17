@@ -115,6 +115,10 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 
 | Color | 1ª cifra | 2º cifra | Multiplicador | Tolerancia |
 | --- | :---: | :---: | :---: | :---: |
+| Ninguno | &ndash; | &ndash; | &ndash; | $\pm 20\thinspace\\%$ |
+| Rosa | &ndash; | &ndash; | $10^{-3}$ | &ndash; |
+| Plateado | &ndash; | &ndash; | $10^{-2}$ | $\pm 10\thinspace\\%$ |
+| Dorado | &ndash; | &ndash; | $10^{-1}$ | $\pm 5\thinspace\\%$ |
 | Negro | $0$ | $0$ | $10^0$ | &ndash; |
 | Marrón | $1$ | $1$ | $10^1$ | $\pm 1\thinspace\\%$ |
 | Rojo | $2$ | $2$ | $10^2$ | $\pm 2\thinspace\\%$ |
@@ -125,10 +129,9 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 | Violeta | $7$ | $7$ | $10^7$ | $\pm 0.1\thinspace\\%$ |
 | Gris | $8$ | $8$ | $10^8$ | $\pm 0.05\thinspace\\%$ |
 | Blanco | $9$ | $9$ | $10^9$ | &ndash; |
-| Dorado | &ndash; | &ndash; | $10^{-1}$ | $\pm 5\thinspace\\%$ |
-| Plateado | &ndash; | &ndash; | $10^{-2}$ | $\pm 10\thinspace\\%$ |
-| Rosa | &ndash; | &ndash; | $10^{-3}$ | &ndash; |
-| Ninguno | &ndash; | &ndash; | &ndash; | $\pm 20\thinspace\\%$ |
+
+
+
 
 {{< /spoiler >}}
 
