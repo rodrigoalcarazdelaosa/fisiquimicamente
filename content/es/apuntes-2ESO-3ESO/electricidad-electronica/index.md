@@ -40,10 +40,10 @@ Definimos la **corriente eléctrica** como **cargas** en **movimiento** a travé
 ## Magnitudes eléctricas
 ### Intensidad de corriente $I$
 La intensidad de corriente es la **cantidad** de **carga** eléctrica que **circula** por un circuito por unidad de **tiempo**. En el **SI** se mide en **amperios** (A).
-### Diferencia de potencial
+### Diferencia de potencial $V$
 También llamada **tensión**, es la **diferencia** de **energía** eléctrica por unidad de carga que hay entre dos puntos de un circuito. En el **SI** se mide en **voltios** (V).
 
-### Resistencia
+### Resistencia $R$
 La resistencia es una medida de la **oposición** que ofrece un material al **paso** de la **corriente** eléctrica. En el **SI** se mide en **ohmios** (\si{\ohm}).
 
 ## Ley de Ohm
