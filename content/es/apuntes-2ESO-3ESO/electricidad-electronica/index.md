@@ -77,7 +77,7 @@ Una **máquina eléctrica** es un dispositivo capaz de **transformar** cualquier
 ### Generadores
 Transforman **energía mecánica en eléctrica**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/generadores.jpg" title="Alternadores de principios del siglo XX en una central hidroeléctrica de Budapest. https://commons.wikimedia.org/wiki/File:Gorskii_04414u.jpg." lightbox="true" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/generadores.jpg" title="Generadores eléctricos de principios del siglo XX en una central hidroeléctrica de Budapest. https://commons.wikimedia.org/wiki/File:Gorskii_04414u.jpg." lightbox="true" >}}
 
 ### Motores
 Transforman **energía eléctrica en mecánica**.
