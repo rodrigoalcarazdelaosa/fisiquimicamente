@@ -223,9 +223,9 @@ table > tbody > tr:nth-child(odd) > td,
 table > tbody > tr:nth-child(odd) > th {
 background-color: $primary_bg; }
 
-table#colores-resistencias > tbody > tr:nth-child(odd),
-table#colores-resistencias > tbody > tr:nth-child(odd) {
-	background-color: #fffff8;
+table#colores-resistencias > tbody > tr:nth-child(odd) > td,
+table#colores-resistencias > tbody > tr:nth-child(odd) > th {
+	background-color: initial;
 }
 
 /* Table Hover */
