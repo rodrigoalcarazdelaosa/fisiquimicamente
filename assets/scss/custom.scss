@@ -219,8 +219,8 @@ table > tbody + tbody {
 border-top: 2px solid $primary; }
 
 /* Table Striped */
-table:not(#colores-resistencias) > tbody > tr:nth-child(odd) > td,
-table:not(#colores-resistencias) > tbody > tr:nth-child(odd) > th {
+table > tbody > tr:nth-child(odd) > td,
+table > tbody > tr:nth-child(odd) > th {
 background-color: $primary_bg; }
 
 table#colores-resistencias > tbody > tr:nth-child(odd) > td,
@@ -229,10 +229,15 @@ table#colores-resistencias > tbody > tr:nth-child(odd) > th {
 }
 
 /* Table Hover */
-table:not(#colores-resistencias) > tbody > tr:hover > td,
-table:not(#colores-resistencias) > tbody > tr:hover > th {
+table > tbody > tr:hover > td,
+table > tbody > tr:hover > th {
 color: #fffff8;
 background-color: $primary; }
+
+table > tbody > tr:hover > td,
+table#colores-resistencias > tbody > tr:hover > th {
+color: #111111;
+background-color: #fffff8; }
 
 td[colspan]:not([colspan="1"]) {
     text-align: center;
