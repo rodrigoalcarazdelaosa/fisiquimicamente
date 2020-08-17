@@ -236,7 +236,8 @@ background-color: $primary; }
 
 table#colores-resistencias > tbody > tr:hover > td,
 table#colores-resistencias > tbody > tr:hover > th {
-filter:invert(100%); }
+color: initial;
+background-color: initial; }
 
 td[colspan]:not([colspan="1"]) {
     text-align: center;
