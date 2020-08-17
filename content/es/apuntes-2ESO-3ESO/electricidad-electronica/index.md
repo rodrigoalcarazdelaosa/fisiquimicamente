@@ -291,7 +291,7 @@ Son dispositivos electrónicos semiconductores utilizados para **amplificar** o 
 ### Diodos
 Son componentes electrónicos de dos terminales que **permiten** la **circulación** de la **corriente** eléctrica a través de ellos en **un solo sentido**, bloqueando el paso si la corriente circula en sentido contrario.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/diodo.jpg" title="**Diodo** en primer plano. El objeto cuadrado negro de la izquierda es el cristal semiconductor de silicio (Si).<br> https://commons.wikimedia.org/wiki/File:Diode-closeup.jpg" lightbox="true" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/diodo.jpg" title="**Diodo** en primer plano. El objeto cuadrado negro de la izquierda es el cristal semiconductor de **silicio** (Si).<br> https://commons.wikimedia.org/wiki/File:Diode-closeup.jpg" lightbox="true" >}}
 
 ### Circuitos integrados
 ## Aspectos industriales de la energía
