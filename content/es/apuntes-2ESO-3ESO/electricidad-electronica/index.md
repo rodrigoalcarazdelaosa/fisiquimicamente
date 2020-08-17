@@ -118,7 +118,7 @@ Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, c
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/fusibles.jpg" title="Fusibles capaces que cortar una intensidad de corriente de hasta 120 kA.<br> Imagen de [**Bruno /Germany**](https://pixabay.com/es/users/bru-no-1161770/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/elementos-circuito.svg" title="Elementos típicos de un circuito eléctrico." lightbox="false" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/elementos-circuito.svg" title="**Símbolos** de algunos de los **elementos** típicos de un **circuito eléctrico**." lightbox="false" width="100%" >}}
 
 ### En serie
 ### En paralelo
