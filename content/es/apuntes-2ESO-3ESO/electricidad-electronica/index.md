@@ -120,7 +120,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 | Rojo | 2 | 2 | 100 | $\pm$2$\thinspace$% |
 | Naranja | 3 | 3 | 1000 | - |
 | Amarillo | 4 | 4 | 10000 | $\pm$4$\thinspace$% |
-| Verde | 5 | 5 | 100000 | $\pm$5$\thinspace$% |
+| Verde | 5 | 5 | 100000 | $\pm$0.5$\thinspace$% |
 
 {{< /spoiler >}}
 
