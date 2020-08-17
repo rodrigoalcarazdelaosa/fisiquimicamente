@@ -159,7 +159,7 @@ $$
 - [Rozamiento](#/3/1)
 - [Gravitatoria](#/3/6)
 - [Eléctrica](#/3/9)
-- [Magnética](#/3/12)
+- [Magnética](#/3/14)
 
 (continúa hacia abajo)
 
