@@ -1,13 +1,13 @@
 {{ if and site.Params.sharing (ne .Params.share false) }}
 <div class="subscribe-box" aria-hidden="true">
 	<center>
-		<h2 style="color: #555;">
+		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}
 			¿Te ha gustado?
 			{{ else if eq .Site.Language.Lang "en" }}
 			Did you like it?
 			{{ end }}
-		</h2>
+		</h3>
 	</center>
   <ul class="subscribe">
 	  <li><applause-button style="width: 45px; height: 45px;" url="{{ $.Permalink }}" /></li>	  
@@ -23,13 +23,13 @@
 
 <div class="share-box" aria-hidden="true">
 	<center>
-		<h2 style="color: #555;">
+		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}
 			Compártelo
 			{{ else if eq .Site.Language.Lang "en" }}
 			Share it
 			{{ end }}
-		</h2>
+		</h3>
 	</center>	
   <ul class="share">
 	  <script src="https://apis.google.com/js/platform.js" async defer></script>
@@ -53,13 +53,13 @@
 
 <div class="subscribe-box" aria-hidden="true">
 	<center>
-		<h2 style="color: #555;">
+		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}
 			Suscríbete
 			{{ else if eq .Site.Language.Lang "en" }}
 			Subscribe
 			{{ end }}
-		</h2>
+		</h3>
 	</center>
 	<ul class=subscribe>
 		{{ if eq .Site.Language.Lang "es" }}
