@@ -234,9 +234,10 @@ En la resistencia de la figura:
 
 El valor de la resistencia será por tanto:
 
-$$
-27\times 10^5 \pm 10\thinspace\\%\thinspace\Omega = 2.7\times 10^6 \pm 10\thinspace\\%\thinspace\Omega
-$$
+\begin{align*}
+27\times 10^5 \pm 10\thinspace\\%\thinspace\Omega \\\\
+&= 2.7\times 10^6 \pm 10\thinspace\\%\thinspace\Omega
+\begin{align*}
 
 {{< /spoiler >}}
 
