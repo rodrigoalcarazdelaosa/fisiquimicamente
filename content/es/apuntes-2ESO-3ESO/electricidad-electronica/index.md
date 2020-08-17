@@ -227,7 +227,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 
 En la resistencia de la figura:
 
-- La primera cifra será un 2 por ser roja.
+- La primera cifra será un 2 por ser <span style="color:#AB2524">roja</span>.
 
 {{< /spoiler >}}
 
