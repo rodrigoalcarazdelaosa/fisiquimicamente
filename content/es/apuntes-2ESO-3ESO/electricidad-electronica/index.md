@@ -116,6 +116,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 | Color | 1ª cifra | 2º cifra | Multiplicador | Tolerancia |
 | :---: | :---: | :---: | :---: | :---: |
 | Negro | 0 | 0 | 1 | - |
+| Café | 1 | 1 | 10 | $\pm$1$\thinspace$% |
 
 {{< /spoiler >}}
 
