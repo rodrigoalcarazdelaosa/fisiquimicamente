@@ -104,6 +104,8 @@ Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados e
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/baterias.png" title="Pilas y baterías de distintos tamaños (voltajes).<br> http://totexmfg.com/totexmfg.com/capabilities-2/battery-knowledge/index.html" lightbox="true" >}}
 
 #### Receptores
+Elementos que **transforman** la **energía eléctrica** en otro tipo de energía, como las **bombillas** 💡 o los **motores**.
+
 #### Elementos de control
 #### Elementos de protección
 ### En serie
