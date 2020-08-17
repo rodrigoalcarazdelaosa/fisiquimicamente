@@ -225,6 +225,10 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 </tbody>
 </table>
 
+En la resistencia de la figura:
+
+- La primera banda es roja
+
 {{< /spoiler >}}
 
 #### Elementos de control
