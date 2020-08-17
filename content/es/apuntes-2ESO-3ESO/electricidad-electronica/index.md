@@ -39,6 +39,11 @@ links:
 ## Máquinas eléctricas
 ## Circuitos eléctricos
 ### Componentes básicos
+#### Conductores
+#### Generadores
+#### Receptores
+#### Elementos de control
+#### Elementos de protección
 ### En serie
 ### En paralelo
 ## Dispositivos electrónicos
