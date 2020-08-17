@@ -82,7 +82,7 @@ Transforman **energía mecánica en eléctrica**.
 ### Motores
 Transforman **energía eléctrica en mecánica**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/motor-electrico.jpg" title="Rotor, estátor y ventilador de un motor eléctrico. https://commons.wikimedia.org/wiki/File:Rotterdam_Ahoy_Europort_2011_(14).JPG." lightbox="true" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/motor-electrico.jpg" title="Rotor, estátor y ventilador de un motor eléctrico.<br> https://commons.wikimedia.org/wiki/File:Rotterdam_Ahoy_Europort_2011_(14).JPG." lightbox="true" >}}
 
 ### Transformadores
 Transforman las **características** de la **energía**.
