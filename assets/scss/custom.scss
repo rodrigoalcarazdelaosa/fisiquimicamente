@@ -229,15 +229,10 @@ table#colores-resistencias > tbody > tr:nth-child(odd) > th {
 }
 
 /* Table Hover */
-table > tbody > tr:hover > td,
-table > tbody > tr:hover > th {
+table:not(#colores-resistencias) > tbody > tr:hover > td,
+table:not(#colores-resistencias) > tbody > tr:hover > th {
 color: #fffff8;
 background-color: $primary; }
-
-table#colores-resistencias > tbody > tr:hover > td,
-table#colores-resistencias > tbody > tr:hover > th {
-color: initial;
-background-color: initial; }
 
 td[colspan]:not([colspan="1"]) {
     text-align: center;
