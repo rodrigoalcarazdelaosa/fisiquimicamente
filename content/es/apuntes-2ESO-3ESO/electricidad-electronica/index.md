@@ -121,6 +121,16 @@ Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, c
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/elementos-circuito.svg" title="**Símbolos** de algunos de los **elementos** típicos de un **circuito eléctrico**." lightbox="false" width="100%" >}}
 
 ### En serie
+En los **circuitos** conectados en **serie**, la intensidad $I$ es la misma, mientras que la diferencia de potencial $V$ es la suma.
+
+Los **generadores** han de conectarse entre polos de **distinto signo**. La resistencia equivalente $R_\text{eq}$ es mayor que la mayor de todas las resistencias:
+
+$$
+R_\text{eq} = R_1 + R_2
+$$
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-serie.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **serie**." lightbox="false" width="100%" >}}
+
 ### En paralelo
 ## Dispositivos electrónicos
 ### Transistores
