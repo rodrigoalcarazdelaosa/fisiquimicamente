@@ -32,4 +32,14 @@ links:
 
 {{% toc %}}
 
-## hola
+## Corriente eléctrica
+## Magnitudes eléctricas
+## Ley de Ohm
+## Buenos y malos conductores
+## Máquinas eléctricas
+## Circuitos eléctricos
+### Componentes básicos
+### En serie
+### En paralelo
+## Dispositivos electrónicos
+## Aspectos industriales de la energía
