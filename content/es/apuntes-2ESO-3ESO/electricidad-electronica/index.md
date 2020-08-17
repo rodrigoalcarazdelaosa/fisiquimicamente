@@ -90,6 +90,8 @@ Transforman las **características** de la **energía**.
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transformador.jpg" title="Foto de [**Iqram-O-dowla Shawon**](https://unsplash.com/@iqram_shawon) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
 
 ## Circuitos eléctricos
+Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados entre sí, posibilitan que se establezca una **corriente eléctrica**.
+
 ### Componentes básicos
 #### Conductores
 #### Generadores
