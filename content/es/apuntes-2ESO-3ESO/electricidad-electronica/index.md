@@ -185,7 +185,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 <td align="center">$4$</td>
 <td align="center">$4$</td>
 <td align="center">$10^4$</td>
-<td align="center">$\pm 4\thinspace\%$</td>
+<td align="center">$\pm 0.02\thinspace\%$</td>
 </tr>
 <tr style="background-color:#48A43F">
 <td>Verde</td>
@@ -213,7 +213,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 <td align="center">$8$</td>
 <td align="center">$8$</td>
 <td align="center">$10^8$</td>
-<td align="center">$\pm 0.05\thinspace\%$</td>
+<td align="center">$\pm 0.01\thinspace\%$</td>
 </tr>
 <tr style="background-color:#E9E5CE">
 <td>Blanco</td>
