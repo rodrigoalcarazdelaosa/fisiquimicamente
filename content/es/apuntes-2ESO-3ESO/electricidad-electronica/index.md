@@ -129,7 +129,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 <td align="center">–</td>
 <td align="center">–</td>
 <td align="center">–</td>
-<td align="center">$h$</td>
+<td align="center">$\pm 20\thinspace\\%$</td>
 </tr>
 <tr style="background-color:#E1A6AD">
 <td>Rosa</td>
