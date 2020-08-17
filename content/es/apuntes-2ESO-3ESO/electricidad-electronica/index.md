@@ -101,6 +101,8 @@ Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados e
 #### Generadores
 **Producen** y **mantienen** la **corriente eléctrica** por el circuito, como las **pilas** 🔋 o las **baterías**.
 
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/baterias.png" title="http://totexmfg.com/totexmfg.com/capabilities-2/battery-knowledge/index.html" lightbox="true" >}}
+
 #### Receptores
 #### Elementos de control
 #### Elementos de protección
