@@ -108,6 +108,10 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias.jpg" title="Conjunto de resistores axiales de eje de plomo y distintas resistencias.<br> https://commons.wikimedia.org/wiki/File:Electronic-Axial-Lead-Resistors-Array.jpg" lightbox="true" >}}
 
+{{< spoiler text="¿Quieres saber cómo se leen los símbolos que aparecen en las resistencias? Pincha aquí" >}}
+
+{{< /spoiler >}}
+
 #### Elementos de control
 Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, como los **interruptores**.
 
