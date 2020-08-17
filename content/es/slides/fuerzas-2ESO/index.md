@@ -221,13 +221,23 @@ Puedes aprender más sobre la **fuerza gravitatoria** con esta **simulación**:
 ---
 
 ### Eléctrica
-Es la **fuerza** con la que las **cargas** eléctricas se **atraen** (signo opuesto) o se **repelen** (mismo signo), siendo directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que las separa. La materia cargada {{< icon name="plus-circle" pack="fas" >}} tiene un **defecto** de **electrones**, mientras que la materia cargada {{< icon name="minus-circle" pack="fas" >}} tiene un **exceso** de **electrones**.
+Es la **fuerza** con la que las **cargas** eléctricas se **atraen** (signo opuesto) o se **repelen** (mismo signo), siendo directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que las separa.
+
+---
+
+La materia cargada {{< icon name="plus-circle" pack="fas" >}} tiene un **defecto** de **electrones**, mientras que la materia cargada {{< icon name="minus-circle" pack="fas" >}} tiene un **exceso** de **electrones**.
 
 ---
 
 Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
+
+---
+
+También puedes arender más sobre la **electricidad estática** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 ---
 
