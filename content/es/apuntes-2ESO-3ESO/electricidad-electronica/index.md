@@ -46,3 +46,6 @@ links:
 ### Diodos
 ### Circuitos integrados
 ## Aspectos industriales de la energía
+### Generación
+### Transporte
+### Distribución
