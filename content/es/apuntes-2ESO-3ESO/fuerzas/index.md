@@ -149,6 +149,10 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
+También puedes arender más sobre la **electricidad estática** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 #### Analogías y diferencias entre las fuerzas gravitatoria y eléctrica
 <table>
 <thead>
