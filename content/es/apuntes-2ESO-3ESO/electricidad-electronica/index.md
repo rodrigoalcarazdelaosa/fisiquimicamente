@@ -116,7 +116,7 @@ Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, c
 #### Elementos de protección
 **Protegen** los **circuitos** y a las **personas**, como los **fusibles**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/fusibles.jpg" title="Fusibles capaces que cortar una intensidad de corriente de hasta 120$\thinspace$ kA. Imagen de [Bruno /Germany](https://pixabay.com/es/users/bru-no-1161770/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/fusibles.jpg" title="Fusibles capaces que cortar una intensidad de corriente de hasta 120$\thinspace$ kA.<br> Imagen de [Bruno /Germany](https://pixabay.com/es/users/bru-no-1161770/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 ### En serie
 ### En paralelo
