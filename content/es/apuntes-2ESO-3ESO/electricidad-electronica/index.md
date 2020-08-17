@@ -116,7 +116,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 | Color | 1ª cifra | 2º cifra | Multiplicador | Tolerancia |
 | --- | :---: | :---: | :---: | :---: |
 | Negro | $0$ | $0$ | $10^0$ | - |
-| Café | $1$ | $1$ | $10^1$ | $\pm 1\thinspace\%$ |
+| Café | $1$ | $1$ | $10^1$ | $\pm 1\thinspace\\%$ |
 | Rojo | $2$ | $2$ | $10^2$ | $\pm 2\thinspace\%$ |
 | Naranja | $3$ | $3$ | $10^3$ | - |
 | Amarillo | $4$ | $4$ | $10^4$ | $\pm 4\thinspace\%$ |
