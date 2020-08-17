@@ -146,7 +146,7 @@ Tomado de [aquí](https://en.wikipedia.org/wiki/Electronic_color_code#Color_band
 <td align="center">$10^{-2}$</td>
 <td align="center">$\pm 10\thinspace\%$</td>
 </tr>
-<tr style="background-color:#FFD700">
+<tr style="background-color:#D4AF37">
 <td>Dorado</td>
 <td align="center">–</td>
 <td align="center">–</td>
