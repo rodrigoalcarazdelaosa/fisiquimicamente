@@ -294,6 +294,8 @@ Son componentes electrónicos de dos terminales que **permiten** la **circulaci�
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/diodo.jpg" title="**Diodo** en primer plano. El objeto cuadrado negro de la izquierda es el cristal semiconductor de **silicio** (Si).<br> https://commons.wikimedia.org/wiki/File:Diode-closeup.jpg" lightbox="true" >}}
 
 ### Circuitos integrados
+También conocidos como **microchips**, son conjuntos de **circuitos electrónicos** en una pequeña pieza plana (*chip*) de material semiconductor (Si). Los microchips están ahora en prácticamente todos los equipos electrónicos, gracias a su **pequeño tamaño** y **bajo coste**.
+
 ## Aspectos industriales de la energía
 ### Generación
 ### Transporte
