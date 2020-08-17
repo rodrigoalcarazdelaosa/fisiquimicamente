@@ -35,7 +35,7 @@ links:
 ## Corriente eléctrica
 Definimos la **corriente eléctrica** como **cargas** en **movimiento** a través de un conductor.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/corriente.svg" Adaptada de https://commons.wikimedia.org/wiki/File:Electric_charge_and_electric_current.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/corriente.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Electric_charge_and_electric_current.svg." lightbox="false" width="100%" >}}
 
 ## Magnitudes eléctricas
 ## Ley de Ohm
