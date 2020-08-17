@@ -42,4 +42,7 @@ links:
 ### En serie
 ### En paralelo
 ## Dispositivos electrónicos
+### Transistores
+### Diodos
+### Circuitos integrados
 ## Aspectos industriales de la energía
