@@ -114,6 +114,8 @@ Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, c
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/interruptores.webp" title="https://www.thespruce.com/types-of-electrical-switches-in-the-home-1824672" lightbox="true" >}}
 
 #### Elementos de protección
+**Protegen** los **circuitos** y a las **personas**, como los \textbf{fusibles}.
+
 ### En serie
 ### En paralelo
 ## Dispositivos electrónicos
