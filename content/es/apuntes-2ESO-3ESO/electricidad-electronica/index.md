@@ -138,7 +138,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 <td align="center">$10^{-3}$</td>
 <td align="center">–</td>
 </tr>
-<tr>
+<tr style="background-color:#C0C0C0">
 <td>Plateado</td>
 <td align="center">–</td>
 <td align="center">–</td>
