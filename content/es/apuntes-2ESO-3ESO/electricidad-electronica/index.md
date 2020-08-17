@@ -99,6 +99,8 @@ Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados e
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" title="Conductor eléctrico de cobre (Cu). https://commons.wikimedia.org/wiki/File:Stranded_lamp_wire.jpg" lightbox="true" >}}
 
 #### Generadores
+**Producen** y **mantienen** la **corriente eléctrica** por el circuito, como las **pilas** 🔋 o las **baterías**.
+
 #### Receptores
 #### Elementos de control
 #### Elementos de protección
