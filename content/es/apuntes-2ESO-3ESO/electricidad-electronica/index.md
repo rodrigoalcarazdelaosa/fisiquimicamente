@@ -178,7 +178,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 <td align="center">$3$</td>
 <td align="center">$3$</td>
 <td align="center">$10^3$</td>
-<td align="center">–</td>
+<td align="center">$\pm 0.05\thinspace\%$</td>
 </tr>
 <tr style="background-color:#EEC900">
 <td>Amarillo</td>
