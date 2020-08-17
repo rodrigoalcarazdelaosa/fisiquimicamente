@@ -219,14 +219,9 @@ table > tbody + tbody {
 border-top: 2px solid $primary; }
 
 /* Table Striped */
-table > tbody > tr:nth-child(odd) > td,
-table > tbody > tr:nth-child(odd) > th {
+table:not(#colores-resistencias) > tbody > tr:nth-child(odd) > td,
+table:not(#colores-resistencias) > tbody > tr:nth-child(odd) > th {
 background-color: $primary_bg; }
-
-table#colores-resistencias > tbody > tr:nth-child(odd) > td,
-table#colores-resistencias > tbody > tr:nth-child(odd) > th {
-	background-color: initial;
-}
 
 /* Table Hover */
 table:not(#colores-resistencias) > tbody > tr:hover > td,
