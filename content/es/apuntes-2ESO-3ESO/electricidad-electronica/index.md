@@ -289,6 +289,8 @@ Son dispositivos electrónicos semiconductores utilizados para **amplificar** o 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transistores.jpg" title="**Transistores**.<br> Imagen de [**PublicDomainPictures**](https://pixabay.com/es/users/PublicDomainPictures-14/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 ### Diodos
+Son componentes electrónicos de dos terminales que **permiten** la **circulación** de la **corriente** eléctrica a través de ellos en **un solo sentido**, bloqueando el paso si la corriente circula en sentido contrario.
+
 ### Circuitos integrados
 ## Aspectos industriales de la energía
 ### Generación
