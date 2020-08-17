@@ -229,6 +229,7 @@ En la resistencia de la figura:
 
 - La primera cifra será un 2 por ser <span style="color:#AB2524">roja</span>.
 - La segunda cifra será un 7 por ser <span style="color:#83639D">violeta</span>.
+- El multiplicador será un 5 por ser <span style="color:#48A43F">verde</span>.
 
 {{< /spoiler >}}
 
