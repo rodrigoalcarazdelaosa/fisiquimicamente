@@ -110,7 +110,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias.jpg" title="Conjunto de resistores axiales de eje de plomo y distintas resistencias.<br> https://commons.wikimedia.org/wiki/File:Electronic-Axial-Lead-Resistors-Array.jpg" lightbox="true" >}}
 
-{{< spoiler text="¿Quieres saber qué significan las bandas de color que aparecen en las resistencias? Pincha aquí" >}}
+{{< spoiler text="¿Quieres saber qué significan las <strong>bandas</strong> de <strong>color</strong> que aparecen en las <strong>resistencias</strong>? Pincha aquí" >}}
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-colores.svg" title="**Símbolos** de algunos de los **elementos** típicos de un **circuito eléctrico**." lightbox="false" width="100%" >}}
 {{< /spoiler >}}
 
