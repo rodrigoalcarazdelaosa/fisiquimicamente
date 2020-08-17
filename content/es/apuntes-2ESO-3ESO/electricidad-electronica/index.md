@@ -286,7 +286,7 @@ La **electrónica** comprende la **física**, la **ingeniería**, la **tecnolog�
 ### Transistores
 Son dispositivos electrónicos semiconductores utilizados para **amplificar** o **cambiar** las **señales electrónicas** y la **energía eléctrica**. El término **transistor** es la contracción en inglés de *transfer resistor*. Actualmente la mayoría de los transistores se encuentran dentro de los llamados **circuitos integrados**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transistores.jpg" title="Imagen de [**PublicDomainPictures**](https://pixabay.com/es/users/PublicDomainPictures-14/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transistores.jpg" title="**Transistores**. Imagen de [**PublicDomainPictures**](https://pixabay.com/es/users/PublicDomainPictures-14/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 ### Diodos
 ### Circuitos integrados
