@@ -124,7 +124,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 </tr>
 </thead>
 <tbody>
-<tr style="background-color:#FFFFF8; !important">
+<tr style="background-color:#FFFFF8">
 <td>Ninguno</td>
 <td align="center">–</td>
 <td align="center">–</td>
