@@ -129,9 +129,7 @@ background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary
 
 .fancybox-caption {
     color: #000;
-//	background: linear-gradient(0deg,$primary 0,rgba(42, 84, 169,.3) 50%,rgba(42, 84, 169,.15) 65%,rgba(42, 84, 169,.075) 75.5%,rgba(42, 84, 169,.037) 82.85%,rgba(42, 84, 169,.019) 88%,transparent)	
 	background: linear-gradient(rgba(42, 84, 169, 0),$primary);
-//	background: $primary;
 }
 
 .fancybox-caption a, .fancybox-caption a:link, .fancybox-caption a:visited {
