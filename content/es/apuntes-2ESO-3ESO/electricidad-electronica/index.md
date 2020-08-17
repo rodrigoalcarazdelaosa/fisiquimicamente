@@ -46,7 +46,7 @@ También llamada **tensión**, es la **diferencia** de **energía** eléctrica p
 ### Resistencia $R$
 La resistencia es una medida de la **oposición** que ofrece un material al **paso** de la **corriente** eléctrica. En el **SI** se mide en **ohmios** ($\Omega$).
 
-{{< spoiler text="¿De qué depende la resistencia? Averígualo con esta <strong>simulación</strong>" >}}
+{{< spoiler text="¿De qué depende la <strong>resistencia</strong> en un <strong>alambre</strong>? Averígualo con esta <strong>simulación</strong>" >}}
 <iframe src="https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 {{< /spoiler >}}
 
