@@ -113,7 +113,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 {{< spoiler text="¿Quieres saber qué significan las <strong>bandas</strong> de <strong>color</strong> que aparecen en las <strong>resistencias</strong>? Pincha aquí" >}}
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencia-colores.svg" title="**Código** de **colores** para conocer el **valor** de una **resistencia**.<br> Adaptada de https://commons.wikimedia.org/wiki/File:Resistencia.svg" lightbox="false" width="100%" >}}
 
-<table>
+<table id="colores-resistencias">
 <thead>
 <tr>
 <th>Color</th>
