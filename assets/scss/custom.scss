@@ -234,10 +234,10 @@ table > tbody > tr:hover > th {
 color: #fffff8;
 background-color: $primary; }
 
-table#colores-resistencias > tbody > tr:hover > td,
-table#colores-resistencias > tbody > tr:hover > th {
-color: #fffff8;
-background-color: #111111; }
+//table#colores-resistencias > tbody > tr:hover > td,
+//table#colores-resistencias > tbody > tr:hover > th {
+//color: #fffff8;
+//background-color: #111111; }
 
 td[colspan]:not([colspan="1"]) {
     text-align: center;
