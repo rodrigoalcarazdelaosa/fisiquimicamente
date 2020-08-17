@@ -28,8 +28,6 @@ links:
   url: electricidad-electronica-poster.pdf  
 ---
 
-<!-- <iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
-
 {{% toc %}}
 
 ## Corriente eléctrica
@@ -51,6 +49,16 @@ La resistencia es una medida de la **oposición** que ofrece un material al **pa
 {{< /spoiler >}}
 
 ## Ley de Ohm
+
+La **ley** de **Ohm** establece que la **diferencia** de **potencial** $V$ que aplicamos en los extremos de un conductor es **proporcional** a la **intensidad** de corriente $I$ que circula por él, siendo la constante de proporcionalidad la resistencia $R$ del conductor:		
+$$
+V = R\cdot I
+$$
+
+Puedes aprender más sobre la **ley** de **Ohm** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Buenos y malos conductores
 ## Máquinas eléctricas
 ## Circuitos eléctricos
