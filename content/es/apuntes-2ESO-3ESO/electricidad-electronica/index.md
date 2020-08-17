@@ -132,6 +132,33 @@ $$
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-serie.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **serie**. La **resistencia equivalente** viene dada por $R_\text{eq} = R_1 + R_2$." lightbox="false" width="100%" >}}
 
 ### En paralelo
+
+				$V$ es el mismo, $I$ es la suma.
+				
+				\begin{description}
+					\item[Generadores] Conexión de polos de $=$ signo.
+					\item[Resistencias] Se obtiene una resistencia menor que la menor de todas:
+					\[
+					\frac{1}{R_\text{eq}} = \frac{1}{R_1} + \frac{1}{R_2}
+					\]
+					\begin{center}
+						\includegraphics[width=.9\textwidth]{resistencias-paralelo}
+					\end{center}
+				\end{description}
+			\end{column}
+		\end{columns}			
+		
+	\end{block}
+En los **circuitos** conectados en **paralelo**, la diferencia de potencial $V$ es el mismo, mientras que la intensidad $I$ es la suma.
+
+Los **generadores** han de conectarse entre polos del **mismo signo**. La resistencia equivalente $R_\text{eq}$ es menor que la menor de todas las resistencias:
+
+$$
+\frac{1}{R_\text{eq}} = \frac{1}{R_1} + \frac{1}{R_2}
+$$
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-paralelo.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **paralelo**. La **resistencia equivalente** viene dada por $\frac{1}{R_\text{eq}} = \frac{1}{R_1} + \frac{1}{R_2}$." lightbox="false" width="100%" >}}
+
 ## Dispositivos electrónicos
 ### Transistores
 ### Diodos
