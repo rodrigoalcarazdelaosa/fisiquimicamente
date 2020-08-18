@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Radiofísica hospitalaria
+role: Radiofísica Hospitalaria
 
 # Organizations/Affiliations
 organizations:
@@ -21,6 +21,7 @@ organizations:
 bio: Soy radiofísica hospitalaria en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España).
 
 interests:
+- 
 
 education:
   courses:
