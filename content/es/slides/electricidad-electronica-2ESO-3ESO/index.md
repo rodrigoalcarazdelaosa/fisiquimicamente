@@ -248,7 +248,7 @@ Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, c
 #### Elementos de protección
 **Protegen** los **circuitos** y a las **personas**, como los **fusibles**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/fusibles.jpg" lightbox="false" width="60%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/fusibles.jpg" lightbox="false" width="80%" >}}
 
 ---
 
