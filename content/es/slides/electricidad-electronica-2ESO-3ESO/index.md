@@ -12,8 +12,8 @@ slides:
 
 # Electricidad y electrónica
 
-[Corriente eléctrica](#/1) | [Magnitudes eléctricas](#/2) | [Ley de Ohm](#/3) | [Buenos y malos conductores](#/4) | [Máquinas eléctricas](#/4) | 
-[Circuitos eléctricos](#/4) | [Dispositivos electrónicos](#/4) | [Aspectos industriales de la energía](#/4)
+[Corriente eléctrica](#/1) | [Magnitudes eléctricas](#/2) | [Ley de Ohm](#/3) | [Buenos y malos conductores](#/4) | [Máquinas eléctricas](#/5) | 
+[Circuitos eléctricos](#/6) | [Dispositivos electrónicos](#/7) | [Aspectos industriales de la energía](#/8)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
