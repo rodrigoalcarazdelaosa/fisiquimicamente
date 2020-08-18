@@ -12,10 +12,13 @@ slides:
 
 # Electricidad y electrónica
 
-- [Concepto de energía](#/1)
-- [Transformaciones energéticas](#/2)
-- [Calor y temperatura](#/3)
-- [Fuentes de energía](#/4)
+- [Corriente eléctrica](#/1)
+- [Magnitudes eléctricas](#/2)
+- [Ley de Ohm](#/3)
+- [Buenos y malos conductores](#/4)
+- [Máquinas eléctricas](#/4)
+- [Circuitos eléctricos](#/4)
+- [Dispositivos electrónicos](#/4)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
