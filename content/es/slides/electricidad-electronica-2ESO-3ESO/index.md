@@ -101,9 +101,9 @@ $$
 ## Buenos y malos conductores
 Según su **comportamiento** frente a la **corriente eléctrica**, distinguimos entre:
 
-- [Buenos conductores]()
-- [Malos conductores]()
-- [Semiconductores]()
+- [Buenos conductores](#/4/1)
+- [Malos conductores](#/4/2)
+- [Semiconductores](#/4/3)
 
 (continúa hacia abajo)
 
