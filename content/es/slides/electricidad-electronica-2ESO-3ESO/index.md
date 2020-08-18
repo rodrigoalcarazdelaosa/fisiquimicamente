@@ -173,6 +173,16 @@ Transforman las **características** de la **energía**.
 ## Circuitos eléctricos
 Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados entre sí, posibilitan que se establezca una **corriente eléctrica**.
 
+- [Componentes básicos]()
+- [En serie]()
+- [En paralelo]()
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Componentes básicos
 #### Conductores
 **Hilos/cables** por donde **circulan** las **cargas** eléctricas.
