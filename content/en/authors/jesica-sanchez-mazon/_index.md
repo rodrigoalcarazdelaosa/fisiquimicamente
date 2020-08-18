@@ -63,4 +63,4 @@ email:
 user_groups:
 ---
 
-Pequeña biografía.
+Brief bio.
