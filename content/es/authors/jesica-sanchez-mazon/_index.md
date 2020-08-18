@@ -55,11 +55,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "rodri.alcaraz@gmail.com"
+email:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 ---
 
-¡Bienvenido/a a [Fisiquímicamente con Rodri]({{< ref "/" >}})! Aquí puedes encontrar 📚 [<span style="font-variant:small-caps;">**apuntes de Física y Química**</span>]({{< ref "/apuntes" >}}) y 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-ebau" >}}), así como diversos 👐 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) o entradas en mi 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
+Pequeña biografía.
