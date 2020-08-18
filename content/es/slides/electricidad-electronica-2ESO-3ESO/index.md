@@ -262,7 +262,9 @@ En los **circuitos** conectados en **serie**, la intensidad $I$ es la misma, mie
 
 ---
 
-Los **generadores** han de conectarse entre polos de **distinto signo**. La resistencia equivalente $R_\text{eq}$ es mayor que la mayor de todas las resistencias:
+Los **generadores** han de conectarse entre polos de **distinto signo**.
+
+La resistencia equivalente $R_\text{eq}$ es mayor que la mayor de todas las resistencias:
 
 $$
 R_\text{eq} = R_1 + R_2
