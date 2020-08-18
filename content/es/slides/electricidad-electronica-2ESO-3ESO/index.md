@@ -252,6 +252,7 @@ Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, c
 
 ---
 
+#### Símbolos
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/elementos-circuito.svg" title="**Símbolos** de algunos de los **elementos** típicos de un **circuito eléctrico**." lightbox="false" width="100%" >}}
 
 ---
