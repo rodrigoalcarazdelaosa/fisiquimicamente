@@ -298,4 +298,4 @@ $$
 Puedes jugar a **construir circuitos eléctricos** con esta excelente **simulación**:
 <iframe src="https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
-{{% section %}}
+{{% /section %}}
