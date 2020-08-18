@@ -68,7 +68,7 @@ En el **SI** se mide en **ohmios** ($\Omega$).
 
 ---
 
-#### ¿De qué depende la **resistencia** en un **alambre**?
+#### ¿De qué depende la resistencia en un alambre?
 <iframe src="https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ---
@@ -216,6 +216,8 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 
 ##### ¿Quieres saber qué significan las bandas de color que aparecen en las resistencias?
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencia-colores.svg" title="**Código** de **colores** para conocer el **valor** de una **resistencia**.<br> Adaptada de https://commons.wikimedia.org/wiki/File:Resistencia.svg" lightbox="false" width="100%" >}}
+
+---
 
 Tomado de [aquí](https://en.wikipedia.org/wiki/Electronic_color_code#Color_band_system).
 <table id="colores-resistencias">
