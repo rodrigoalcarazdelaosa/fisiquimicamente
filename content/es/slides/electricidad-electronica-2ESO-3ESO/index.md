@@ -35,9 +35,9 @@ Definimos la **corriente eléctrica** como **cargas** en **movimiento** a travé
 
 ## Magnitudes eléctricas
 
-- [Intensidad de corriente $I$](#/1)
-- [Diferencia de potencial $V$](#/1)
-- [Resistencia $R$](#/1)
+- [Intensidad de corriente $I$](#/2/1)
+- [Diferencia de potencial $V$](#/2/2)
+- [Resistencia $R$](#/2/3)
 
 (continúa hacia abajo)
 
