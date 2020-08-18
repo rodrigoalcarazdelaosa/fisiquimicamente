@@ -3,6 +3,9 @@ title: Periodic Table of Scientists
 subtitle: Periodic Table with Distinguished Scientists
 summary: Periodic Table with Distinguished Scientists.
 date: "2020-07-28T00:00:00Z"
+authors:
+- rodrigo-alcaraz-de-la-osa
+- jesica-sanchez-mazon
 tags:
 - periodic-table
 categories:
@@ -34,7 +37,7 @@ Inspired by the [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/s
 	c-22.037,0-39.896-17.857-39.896-39.893v-204.43l-32.989-23.94h123.261v70.037h106.904l21.265-136.866
 	c4.355,8.586,8.43,17.352,12.2,26.275c21.736,51.383,32.756,105.983,32.756,162.292c0,56.301-11.02,110.9-32.756,162.284
 	C827.342,628.75,819.42,644.592,810.533,659.841z"/>
-</svg> Periodic Table]({{< ref "/post/tabla-periodica-DC/index.md" >}}), here I present my version with **distinguished scientists**, in collaboration with [Jésica Sánchez Mazón](https://twitter.com/JSanmaz).
+</svg> Periodic Table]({{< ref "/post/tabla-periodica-DC/index.md" >}}), {{% mention "jesica-sanchez-mazon" %}} and myself present our version with **distinguished scientists**.
 
 {{% alert note %}}
 By clicking on the button above you can download a **PDF** where each image is a **link** that takes you to the scientist's Wikipedia page. In addition, on the back (second page of the PDF) you can see both the **name** of each **element** and that of each **scientist** (both linked to Wikipedia).
