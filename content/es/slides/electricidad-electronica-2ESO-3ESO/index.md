@@ -27,7 +27,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 Definimos la **corriente eléctrica** como **cargas** en **movimiento** a través de un conductor.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/corriente.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Electric_charge_and_electric_current.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/corriente.svg" lightbox="false" width="100%" >}}
 
 ---
 
