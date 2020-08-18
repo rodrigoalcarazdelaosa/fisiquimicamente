@@ -30,7 +30,6 @@ En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **c
 - ✈️ Viajar
 - 🎸 Música
 - 🎮 Videojuegos
-- ⚛️ _Fotones_
 
 ## ¿A quién va dirigido este blog?
 
