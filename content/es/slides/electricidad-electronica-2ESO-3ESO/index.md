@@ -184,6 +184,15 @@ Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados e
 ---
 
 ### Componentes básicos
+
+- [Conductores]()
+- [Generadores]()
+- [Receptores]()
+- [Elementos de control]()
+- [Elementos de protección]()
+
+---
+
 #### Conductores
 **Hilos/cables** por donde **circulan** las **cargas** eléctricas.
 
