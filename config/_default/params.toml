@@ -113,9 +113,9 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "envelope", icon_pack = "fas", name = "rodri.alcaraz@gmail.com", link = "mailto:rodri.alcaraz@gmail.com"},
-  {icon = "twitter", icon_pack = "fab", name = "Sígueme en Twitter", link = "https://twitter.com/alcarazr"},
-  {icon = "instagram-square", icon_pack = "fab", name = "Sígueme en Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
-  {icon = "telegram", icon_pack = "fab", name = "Suscríbete al canal de Telegram", link = "https://t.me/fisiquimicamente"},  
+  {icon = "twitter", icon_pack = "fab", name = "@alcarazr", link = "https://twitter.com/alcarazr"},
+  {icon = "instagram-square", icon_pack = "fab", name = "@fisiquimicamente", link = "https://www.instagram.com/fisiquimicamente/"},
+  {icon = "telegram", icon_pack = "fab", name = "fisiquimicamente", link = "https://t.me/fisiquimicamente"},  
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
