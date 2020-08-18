@@ -55,6 +55,9 @@ social:
 - icon: instagram-square
   icon_pack: fab
   link: https://www.instagram.com/fisiquimicamente/
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/fisiquimicamente
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
