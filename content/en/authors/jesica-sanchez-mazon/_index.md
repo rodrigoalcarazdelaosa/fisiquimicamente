@@ -18,7 +18,7 @@ organizations:
   url: "https://clinicamompia.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy radiofísica hospitalaria en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España).
+bio: I am a medical physicist at [Mompia Clinic](https://clinicamompia.com/) in Cantabria (Spain).
 
 interests:
 - 
