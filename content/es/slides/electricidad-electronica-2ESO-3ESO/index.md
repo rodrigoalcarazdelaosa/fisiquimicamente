@@ -162,6 +162,6 @@ Transforman **energía eléctrica en mecánica**.
 ### Transformadores
 Transforman las **características** de la **energía**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transformador.jpg" title="Foto de [**Iqram-O-dowla Shawon**](https://unsplash.com/@iqram_shawon) en [Unsplash](https://unsplash.com/)." lightbox="false" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transformador.jpg" lightbox="false" width="70%" >}}
 
 {{% /section %}}
