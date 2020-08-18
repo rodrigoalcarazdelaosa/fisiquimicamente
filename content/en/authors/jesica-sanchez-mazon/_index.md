@@ -20,7 +20,7 @@ organizations:
   url: "https://www.escuelaclinicamompia.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Medical Physicist at [Mompia Clinic](https://clinicamompia.com/) in Cantabria (Spain).
+bio: I am a Medical Physicist at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain).
 
 interests:
 - ✈️ Travel 
@@ -68,4 +68,4 @@ email:
 user_groups:
 ---
 
-Brief bio.
+I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I also teach **teaching** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/).
