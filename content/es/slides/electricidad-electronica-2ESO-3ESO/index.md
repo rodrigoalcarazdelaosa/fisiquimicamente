@@ -241,7 +241,9 @@ $$
 #### Elementos de control
 Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, como los **interruptores**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/interruptores.webp" title="https://www.thespruce.com/types-of-electrical-switches-in-the-home-1824672" lightbox="true" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/interruptores.webp" lightbox="false" width="50%" >}}
+
+---
 
 #### Elementos de protección
 **Protegen** los **circuitos** y a las **personas**, como los **fusibles**.
