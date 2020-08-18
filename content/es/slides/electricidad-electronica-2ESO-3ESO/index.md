@@ -307,6 +307,12 @@ Puedes jugar a **construir circuitos eléctricos** con esta excelente **simulaci
 ## Dispositivos electrónicos
 La **electrónica** comprende la **física**, la **ingeniería**, la **tecnología** y las **aplicaciones** que tratan con la **emisión**, el **flujo** y el **control** de los **electrones** en el vacío y la materia.
 
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Transistores
 Son dispositivos electrónicos semiconductores utilizados para **amplificar** o **cambiar** las **señales electrónicas** y la **energía eléctrica**. El término **transistor** es la contracción en inglés de *transfer resistor*. Actualmente la mayoría de los transistores se encuentran dentro de los llamados **circuitos integrados**.
 
