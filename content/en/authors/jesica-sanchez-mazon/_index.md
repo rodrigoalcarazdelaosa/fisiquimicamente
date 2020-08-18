@@ -28,7 +28,7 @@ education:
   - course: Master's Degree in Teacher Training
     institution: UNIR
     year: 2020
-  - course: Specialist in Medical Physics
+  - course: Specialist in Medical Physics | Stay at Duke University Medical Center
     institution: HUMV
     year: 2013
   - course: Degree in Physics
