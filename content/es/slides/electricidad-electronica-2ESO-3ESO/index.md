@@ -367,7 +367,7 @@ Los microchips están ahora en prácticamente todos los equipos electrónicos, g
 ---
 
 ### Transporte
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transporte.jpg" title="La red de **transporte** es la encargada de **enlazar** las **centrales** con los **puntos** de **utilización** de la **energía**." lightbox="true" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transporte.jpg" lightbox="false" width="30" >}}
 
 ---
 
