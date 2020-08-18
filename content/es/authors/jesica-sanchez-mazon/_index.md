@@ -68,4 +68,4 @@ email:
 user_groups:
 ---
 
-Soy **Radiofísica Hospitalaria** en la [Clínica Mompía](https://clinicamompia.com/) en Cantabria (España) y además imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud](https://www.escuelaclinicamompia.es/).
+Soy **Radiofísica Hospitalaria** en la [Clínica Mompía](https://clinicamompia.com/) en Cantabria (España) y además imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/).
