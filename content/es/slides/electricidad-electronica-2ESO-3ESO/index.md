@@ -90,7 +90,7 @@ $$
 
 ---
 
-Puedes aprender más sobre la **ley** de **Ohm** con esta **simulación**:
+### Simulación
 
 <iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
