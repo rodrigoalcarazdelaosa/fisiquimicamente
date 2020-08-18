@@ -47,20 +47,24 @@ Definimos la **corriente eléctrica** como **cargas** en **movimiento** a travé
 
 ---
 
-### Unidades
-En el **SI** la energía se mide en **julios**:
-
-$$
-1\thinspace\mathrm J = 1\thinspace\mathrm{N\thinspace m} = 1\thinspace\mathrm{kg\thinspace m^2\thinspace s^{-2}}
-$$
+### Intensidad de corriente $I$
+La intensidad de corriente es la **cantidad** de **carga** eléctrica que **circula** por un circuito por unidad de **tiempo**. En el **SI** se mide en **amperios** (A).
 
 ---
 
-Otras unidades de energía son la **caloría** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm J$) o el **kilovatio hora**, $\mathrm{kW\thinspace h}$:
+### Diferencia de potencial $V$
+También llamada **tensión**, es la **diferencia** de **energía** eléctrica por unidad de carga que hay entre dos puntos de un circuito. En el **SI** se mide en **voltios** (V).
 
-$$
-1\thinspace\mathrm{kWh}\cdot \frac{1000\thinspace\mathrm W}{1\thinspace\mathrm{kW}}\cdot \frac{3600\thinspace\mathrm s}{1\thinspace\mathrm{h}} = 3.6\times 10^6\thinspace\mathrm{W\thinspace s} = 3.6\times 10^6\thinspace\mathrm J
-$$
+---
+
+### Resistencia $R$
+La resistencia es una medida de la **oposición** que ofrece un material al **paso** de la **corriente** eléctrica. En el **SI** se mide en **ohmios** ($\Omega$).
+
+{{< spoiler text="¿De qué depende la <strong>resistencia</strong> en un <strong>alambre</strong>? Averígualo con esta <strong>simulación</strong>" >}}
+<iframe src="https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+[Aquí](https://es.wikipedia.org/wiki/Resistividad#Tabla_de_resistividades_de_algunos_materiales) tienes los valores de resistividad $\rho$ de algunos materiales.
+{{< /spoiler >}}
 
 {{% /section %}}
 
