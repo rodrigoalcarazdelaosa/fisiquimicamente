@@ -314,7 +314,15 @@ La **electrónica** comprende la **física**, la **ingeniería**, la **tecnolog�
 ---
 
 ### Transistores
-Son dispositivos electrónicos semiconductores utilizados para **amplificar** o **cambiar** las **señales electrónicas** y la **energía eléctrica**. El término **transistor** es la contracción en inglés de *transfer resistor*. Actualmente la mayoría de los transistores se encuentran dentro de los llamados **circuitos integrados**.
+Son dispositivos electrónicos semiconductores utilizados para **amplificar** o **cambiar** las **señales electrónicas** y la **energía eléctrica**.
+
+---
+
+El término **transistor** es la contracción en inglés de *transfer resistor*.
+
+---
+
+Actualmente la mayoría de los transistores se encuentran dentro de los llamados **circuitos integrados**.
 
 ---
 
