@@ -1,6 +1,6 @@
 ---
 title: The Universe and More
-summary: Juegos de Física educativos. Especialmente interesante su sección Physics Video Vault.
+summary: Educational Physics Games. Especially interesting is its Physics Video Vault section.
 tags:
 - pac
 categories: 
