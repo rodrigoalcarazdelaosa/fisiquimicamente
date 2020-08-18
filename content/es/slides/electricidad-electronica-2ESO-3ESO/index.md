@@ -272,7 +272,7 @@ $$
 
 ---
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-serie.svg" lightbox="false" width="50%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-serie.svg" lightbox="false" width="60%" >}}
 
 ---
 
