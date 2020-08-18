@@ -299,7 +299,7 @@ También conocidos como **microchips**, son conjuntos de **circuitos electrónic
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/microchip.jpg" title="**Microchip** Snapdragon de Qualcomm, como los que se encuentran en muchos de los **móviles** modernos.<br> Imagen de [**Monoar Rahman Rony**](https://pixabay.com/es/users/monoar_cgi_artis-2240009/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 ## Aspectos industriales de la energía
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/red-electrica.svg" title="Sistema de **suministro eléctrico** que comprende el conjunto de medios y elementos útiles para la **generación**, el **transporte** y la **distribución** de la **energía eléctrica**.<br> Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Electricity_grid_simple-_North_America.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/red-electrica.svg" title="Sistema de **suministro eléctrico** que comprende el conjunto de medios y elementos útiles para la **generación**, el **transporte** y la **distribución** de la **energía eléctrica**.<br> Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Electricity_grid_simple-_North_America.svg." lightbox="true" width="100%" >}}
 
 ### Generación
 ### Transporte
