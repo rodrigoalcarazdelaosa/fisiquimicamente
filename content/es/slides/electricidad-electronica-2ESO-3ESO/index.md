@@ -10,7 +10,7 @@ slides:
   highlight_style: tomorrow
 ---
 
-# Energía
+# Electricidad y electrónica
 
 - [Concepto de energía](#/1)
 - [Transformaciones energéticas](#/2)
