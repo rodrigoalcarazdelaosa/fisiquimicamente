@@ -30,7 +30,6 @@ In this blog you will find **opinion** articles, **curiosities** about **science
 - ✈️ Travel
 - 🎸 Music
 - 🎮 Video games
-- ⚛️ _Photons_
 
 ## Who is this blog for?
 
