@@ -148,7 +148,7 @@ Una **máquina eléctrica** es un dispositivo capaz de **transformar** cualquier
 ### Generadores
 Transforman **energía mecánica en eléctrica**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/generadores.jpg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/generadores.jpg" lightbox="false" width="60%" >}}
 
 ---
 
