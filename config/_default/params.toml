@@ -165,6 +165,9 @@ sharing = true
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
 copyright_license = {enable = false, allow_derivatives = true, share_alike = true, allow_commercial = true, notice = "Esta obra está bajo una licencia {license}"}
 
+# Highlight the site author (superuser) in author lists? (true/false)
+highlight_superuser = true
+
 # Link authors to their profile page? (true/false)
 link_authors = true
 
