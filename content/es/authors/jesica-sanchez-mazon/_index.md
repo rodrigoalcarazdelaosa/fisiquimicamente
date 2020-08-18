@@ -16,6 +16,8 @@ role: Radiofísica Hospitalaria
 organizations:
 - name: Clínica Mompía
   url: "https://clinicamompia.com/"
+- name: Escuela Técnico Profesional en Ciencias de la Salud
+  url: "https://www.escuelaclinicamompia.es/"  
 
 # Short bio (displayed in user profile at end of posts)
 bio: Soy Radiofísica Hospitalaria en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España).
