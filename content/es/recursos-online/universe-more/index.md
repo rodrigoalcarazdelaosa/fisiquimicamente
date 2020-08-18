@@ -1,6 +1,6 @@
 ---
 title: The Universe and More
-summary: Juegos divertidos y educativos para hacer la Física emocionante. Especialmente interesante su sección Physics Video Vault.
+summary: Juegos de Física educativos. Especialmente interesante su sección Physics Video Vault.
 tags:
 - fyq
 categories: 
