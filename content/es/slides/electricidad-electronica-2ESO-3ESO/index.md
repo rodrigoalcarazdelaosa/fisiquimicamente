@@ -35,9 +35,15 @@ Definimos la **corriente eléctrica** como **cargas** en **movimiento** a travé
 
 {{% section %}}
 
-### Conservación de la energía
+## Magnitudes eléctricas
 
-La energía se puede transferir, almacenar o disipar, pero no crear ni destruir.
+- [Intensidad de corriente $I$](#/1)
+- [Diferencia de potencial $V$](#/1)
+- [Resistencia $R$](#/1)
+
+(continúa hacia abajo)
+
+👇
 
 ---
 
