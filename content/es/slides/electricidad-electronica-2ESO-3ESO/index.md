@@ -333,7 +333,11 @@ Actualmente la mayoría de los transistores se encuentran dentro de los llamados
 ### Diodos
 Son componentes electrónicos de dos terminales que **permiten** la **circulación** de la **corriente** eléctrica a través de ellos en **un solo sentido**, bloqueando el paso si la corriente circula en sentido contrario.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/diodo.jpg" title="**Diodo** en primer plano. El objeto cuadrado negro de la izquierda es el cristal semiconductor de **silicio** (Si).<br> https://commons.wikimedia.org/wiki/File:Diode-closeup.jpg" lightbox="true" >}}
+---
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/diodo.jpg" lightbox="false" >}}
+
+---
 
 ### Circuitos integrados
 También conocidos como **microchips**, son conjuntos de **circuitos electrónicos** en una pequeña pieza plana (*chip*) de material semiconductor (Si). Los microchips están ahora en prácticamente todos los equipos electrónicos, gracias a su **pequeño tamaño** y **bajo coste**.
