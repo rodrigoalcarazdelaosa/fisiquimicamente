@@ -219,7 +219,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 
 ---
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/tabla-colores.png" lightbox="false" width="40%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/tabla-colores.png" lightbox="false" width="50%" >}}
 
 ---
 
