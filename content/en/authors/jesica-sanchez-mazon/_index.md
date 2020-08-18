@@ -18,7 +18,7 @@ organizations:
   url: "https://clinicamompia.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a medical physicist at [Mompia Clinic](https://clinicamompia.com/) in Cantabria (Spain).
+bio: I am a Medical Physicist at [Mompia Clinic](https://clinicamompia.com/) in Cantabria (Spain).
 
 interests:
 - 
