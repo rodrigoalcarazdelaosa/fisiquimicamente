@@ -16,6 +16,8 @@ role: Medical Physicist
 organizations:
 - name: Mompía Clinic
   url: "https://clinicamompia.com/"
+- name: School in Health Sciences
+  url: "https://www.escuelaclinicamompia.es/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Medical Physicist at [Mompia Clinic](https://clinicamompia.com/) in Cantabria (Spain).
