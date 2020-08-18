@@ -230,9 +230,7 @@ En la resistencia de la figura:
 - El multiplicador será un 5 por ser <span style="color:#48A43F">verde</span>.
 - La toleancia será del 10$\thinspace$% por ser <span style="color:#C0C0C0">plateada</span>.
 
-El valor de la resistencia será por tanto[^1]:
-
-[^1]: Expresando el resultado correctamente en [**notación científica**]({{< ref "/apuntes-2eso-3eso/actividad-cientifica/index.md#notación-científica" >}}).
+El valor de la resistencia será por tanto:
 
 $$
 2.7\times 10^6 \pm 10\thinspace\\%\thinspace\Omega
