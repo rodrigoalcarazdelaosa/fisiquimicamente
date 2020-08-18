@@ -196,7 +196,7 @@ Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados e
 #### Conductores
 **Hilos/cables** por donde **circulan** las **cargas** eléctricas.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" lightbox="false" width="80%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" lightbox="false" width="60%" >}}
 
 #### Generadores
 **Producen** y **mantienen** la **corriente eléctrica** por el circuito, como las **pilas** 🔋 o las **baterías**.
