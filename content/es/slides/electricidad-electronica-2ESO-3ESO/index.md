@@ -241,7 +241,7 @@ $$
 #### Elementos de control
 Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, como los **interruptores**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/interruptores.webp" lightbox="false" width="70%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/interruptores.webp" lightbox="false" width="80%" >}}
 
 ---
 
