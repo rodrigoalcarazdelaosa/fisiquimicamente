@@ -10,7 +10,7 @@ slides:
   highlight_style: tomorrow
 ---
 
-# Electricidad-electrónica
+# Electricidad y electrónica
 
 - [Corriente eléctrica](#/1)
 - [Magnitudes eléctricas](#/2)
