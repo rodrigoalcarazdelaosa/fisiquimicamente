@@ -28,8 +28,8 @@ education:
   - course: Máster en Formación del Profesorado
     institution: UNIR
     year: 2020
-  - course: Doctor en Física
-    institution: Universidad de Cantabria
+  - course: Especialista en Radiofísica Hospitalaria
+    institution: HUMV
     year: 2013
   - course: Licenciada en Física
     institution: Universidad de Cantabria
