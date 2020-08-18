@@ -68,4 +68,4 @@ email:
 user_groups:
 ---
 
-I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I also teach **teaching** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/).
+I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I also **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/).
