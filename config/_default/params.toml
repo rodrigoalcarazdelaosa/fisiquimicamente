@@ -114,7 +114,7 @@ appointment_url = ""
 contact_links = [
   {icon = "envelope", icon_pack = "fas", name = "rodri.alcaraz@gmail.com", link = "mailto:rodri.alcaraz@gmail.com"},
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/alcarazr"},
-  {icon = "instagaram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/fisiquimicamente/"},  
+  {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://www.instagram.com/fisiquimicamente/"},  
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
