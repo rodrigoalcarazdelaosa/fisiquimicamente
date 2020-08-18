@@ -299,3 +299,27 @@ Puedes jugar a **construir circuitos eléctricos** con esta excelente **simulaci
 <iframe src="https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Dispositivos electrónicos
+La **electrónica** comprende la **física**, la **ingeniería**, la **tecnología** y las **aplicaciones** que tratan con la **emisión**, el **flujo** y el **control** de los **electrones** en el vacío y la materia.
+
+### Transistores
+Son dispositivos electrónicos semiconductores utilizados para **amplificar** o **cambiar** las **señales electrónicas** y la **energía eléctrica**. El término **transistor** es la contracción en inglés de *transfer resistor*. Actualmente la mayoría de los transistores se encuentran dentro de los llamados **circuitos integrados**.
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transistores.jpg" title="**Transistores**.<br> Imagen de [**PublicDomainPictures**](https://pixabay.com/es/users/PublicDomainPictures-14/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
+### Diodos
+Son componentes electrónicos de dos terminales que **permiten** la **circulación** de la **corriente** eléctrica a través de ellos en **un solo sentido**, bloqueando el paso si la corriente circula en sentido contrario.
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/diodo.jpg" title="**Diodo** en primer plano. El objeto cuadrado negro de la izquierda es el cristal semiconductor de **silicio** (Si).<br> https://commons.wikimedia.org/wiki/File:Diode-closeup.jpg" lightbox="true" >}}
+
+### Circuitos integrados
+También conocidos como **microchips**, son conjuntos de **circuitos electrónicos** en una pequeña pieza plana (*chip*) de material semiconductor (Si). Los microchips están ahora en prácticamente todos los equipos electrónicos, gracias a su **pequeño tamaño** y **bajo coste**.
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/microchip.jpg" title="**Microchip** Snapdragon de Qualcomm, como los que se encuentran en muchos de los **móviles** modernos.<br> Imagen de [**Monoar Rahman Rony**](https://pixabay.com/es/users/monoar_cgi_artis-2240009/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
+{{% /section %}}
