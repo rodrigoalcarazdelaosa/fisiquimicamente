@@ -12,11 +12,7 @@ slides:
 
 # Electricidad y electrónica
 
-- [Corriente eléctrica](#/1)
-- [Magnitudes eléctricas](#/2)
-- [Ley de Ohm](#/3)
-- [Buenos y malos conductores](#/4)
-- [Máquinas eléctricas](#/4)
+[Corriente eléctrica](#/1) | [Magnitudes eléctricas](#/2) | [Ley de Ohm](#/3) | [Buenos y malos conductores](#/4) | [Máquinas eléctricas](#/4)
 - [Circuitos eléctricos](#/4)
 - [Dispositivos electrónicos](#/4)
 
