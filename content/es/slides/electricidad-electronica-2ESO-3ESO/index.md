@@ -215,7 +215,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 ---
 
 ##### ¿Quieres saber qué significan las bandas de color que aparecen en las resistencias?
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencia-colores.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencia-colores.svg" title="**Código** de **colores** para conocer el **valor** de una **resistencia**." lightbox="false" width="100%" >}}
 
 ---
 
