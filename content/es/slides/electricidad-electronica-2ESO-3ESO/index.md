@@ -68,7 +68,9 @@ En el **SI** se mide en **ohmios** ($\Omega$).
 
 ---
 
-¿De qué depende la **resistencia** en un **alambre**? Averígualo con esta **simulación**
+¿De qué depende la **resistencia** en un **alambre**?
+
+Averígualo con esta **simulación**
 <iframe src="https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 ---
