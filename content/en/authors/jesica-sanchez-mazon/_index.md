@@ -25,14 +25,14 @@ interests:
 
 education:
   courses:
-  - course: Máster en Formación del Profesorado
+  - course: Master's Degree in Teacher Training
     institution: UNIR
     year: 2020
-  - course: Especialista en Radiofísica Hospitalaria
+  - course: Specialist in Medical Physics
     institution: HUMV
     year: 2013
-  - course: Licenciada en Física
-    institution: Universidad de Cantabria
+  - course: Degree in Physics
+    institution: University of Cantabria
     year: 2008
 
 # Social/Academic Networking
