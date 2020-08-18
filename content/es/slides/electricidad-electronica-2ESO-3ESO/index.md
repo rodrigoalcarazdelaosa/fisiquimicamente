@@ -133,9 +133,9 @@ Materiales que pueden comportarse como **conductores** o como **aislantes**. El 
 ## Máquinas eléctricas
 Una **máquina eléctrica** es un dispositivo capaz de **transformar** cualquier **forma** de **energía** en energía **eléctrica** o a la inversa. Distinguimos entre:
 
-- [Generadores]()
-- [Motores]()
-- [Transformadores]()
+- [Generadores](#/5/1)
+- [Motores](#/5/2)
+- [Transformadores](#/5/3)
 
 (continúa hacia abajo)
 
