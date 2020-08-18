@@ -351,3 +351,21 @@ Los microchips están ahora en prácticamente todos los equipos electrónicos, g
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/microchip.jpg" lightbox="false" >}}
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Aspectos industriales de la energía
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/red-electrica.svg" title="Sistema de **suministro eléctrico** que comprende el conjunto de medios y elementos útiles para la **generación**, el **transporte** y la **distribución** de la **energía eléctrica**.<br> Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Electricity_grid_simple-_North_America.svg." lightbox="false" width="100%" >}}
+
+### Generación
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/alternador.svg" title="La energía eléctrica se genera en las centrales eléctricas, utilizando una [fuente de energía](https://rodrigoalcarazdelaosa.me/apuntes-2eso-3eso/energia/#fuentes-de-energ%C3%ADa) primaria para hacer **girar** una **turbina** que, a su vez, hace girar un **alternador**.<br> Adaptada de https://commons.wikimedia.org/wiki/File:Alternador.svg." lightbox="false" width="100%" >}}
+
+### Transporte
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transporte.jpg" title="La red de **transporte** es la encargada de **enlazar** las **centrales** con los **puntos** de **utilización** de la **energía**." lightbox="true" >}}
+
+### Distribución
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/distribucion.jpg" title="La red de **distribución**, que puede ser aérea o subterránea, la constituyen las **líneas** e **instalaciones** necesarias para **llegar** a los **clientes**." lightbox="true" >}}
+
+{{% /section %}}
