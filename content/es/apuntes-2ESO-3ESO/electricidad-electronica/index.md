@@ -308,3 +308,4 @@ También conocidos como **microchips**, son conjuntos de **circuitos electrónic
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transporte.jpg" title="La red de **transporte** es la encargada de **enlazar** las **centrales** con los **puntos** de **utilización** de la **energía**." lightbox="true" >}}
 
 ### Distribución
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/distribucion.jpg" title="La red de **distribución**, que puede ser aérea o subterránea, la constituyen las **líneas** e **instalaciones** necesarias para **llegar** a los **clientes**." lightbox="true" >}}
