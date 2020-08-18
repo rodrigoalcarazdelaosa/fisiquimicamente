@@ -345,7 +345,7 @@ $$
 2.7\times 10^6 \pm 10\thinspace\\%\thinspace\Omega
 $$
 
-{{< /spoiler >}}
+---
 
 #### Elementos de control
 Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, como los **interruptores**.
