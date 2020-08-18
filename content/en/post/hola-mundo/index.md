@@ -38,7 +38,7 @@ The posts in this blog are aimed at my students and anyone else who is curious a
 
 ## How can you get involved?
 
-In all the blog posts as well as in the 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* me 👏 ***kudos***[^2], share on your favorite social networks or subscribe to the RSS feed {{< icon name="rss" pack="fas" >}} so you don't miss any updates. Also, you can write me either using the [contact form]({{< ref "/#contacto" >}}), or by writing me directly an [email](mailto:rodri.alcaraz@gmail.com) or from [{{< icon name="twitter" pack="fab" >}} Twitter](https://twitter.com/alcarazr).
+In all the blog posts as well as in the 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* me 👏 ***kudos***[^2], share on your favorite social networks or subscribe to the RSS feed {{< icon name="rss" pack="fas" >}} so you don't miss any updates. Also, you can write me either using the [contact form]({{< ref "/#contacto" >}}), or by writing me directly an [email](mailto:rodri.alcaraz@gmail.com) or from [{{< icon name="twitter" pack="fab" >}} Twitter](https://twitter.com/alcarazr). You can also follow me on [{{< icon name="instagram-square" pack="fab" >}} Instagram](https://www.instagram.com/fisiquimicamente/).
 
 [^2]: There are *likes* and then there are *kudos*. This word, from the Greek κῦδος, means *fame*, *glory* or *prestige*. By giving me kudos you are acknowledging and praising my effort, encouraging me to continue preparing quality materials.
 
