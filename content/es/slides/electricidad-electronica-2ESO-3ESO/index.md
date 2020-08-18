@@ -372,6 +372,6 @@ Los microchips están ahora en prácticamente todos los equipos electrónicos, g
 ---
 
 ### Distribución
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/distribucion.jpg" lightbox="false" width="50%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/distribucion.jpg" lightbox="false" width="40%" >}}
 
 {{% /section %}}
