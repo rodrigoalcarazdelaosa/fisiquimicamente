@@ -21,7 +21,7 @@ links:
   url: pdf/periodic-table-scientists/periodic-table-scientists.pdf
 ---
 
-Inspirado por la [Tabla Periódica <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+Inspirados por la [Tabla Periódica <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="0 0 900.14 900.141" enable-background="new 0 0 900.14 900.141"
 	 xml:space="preserve">
 <path fill="#0376F2" d="M450.069,0C201.503,0,0,201.503,0,450.071s201.503,450.07,450.069,450.07
@@ -37,7 +37,7 @@ Inspirado por la [Tabla Periódica <svg version="1.1" id="Layer_1" xmlns="http:/
 	c-22.037,0-39.896-17.857-39.896-39.893v-204.43l-32.989-23.94h123.261v70.037h106.904l21.265-136.866
 	c4.355,8.586,8.43,17.352,12.2,26.275c21.736,51.383,32.756,105.983,32.756,162.292c0,56.301-11.02,110.9-32.756,162.284
 	C827.342,628.75,819.42,644.592,810.533,659.841z"/>
-</svg>]({{< ref "/post/tabla-periodica-DC/index.md" >}}), aquí os presento mi versión con **científicos ilustres**, en colaboración con [Jésica Sánchez Mazón](https://twitter.com/JSanmaz).
+</svg>]({{< ref "/post/tabla-periodica-DC/index.md" >}}), {{% mention "jesica-sanchez-mazon" %}} y un servidor os presentamos nuestra versión con **científicos ilustres**.
 
 {{% alert note %}}
 Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a la página de la Wikipedia del científico. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** como el de cada **científico** (ambos enlazados a Wikipedia).
