@@ -23,9 +23,9 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 {{% section %}}
 
-## Concepto de energía
+## Corriente eléctrica
 
-La **energía** es la **capacidad** de **producir** transformaciones o **cambios**.
+Definimos la **corriente eléctrica** como **cargas** en **movimiento** a través de un conductor.
 
 (continúa hacia abajo)
 
