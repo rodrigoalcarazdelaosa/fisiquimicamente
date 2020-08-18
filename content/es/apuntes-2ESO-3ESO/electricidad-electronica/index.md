@@ -26,6 +26,8 @@ links:
   icon: file-download
   name: Póster
   url: electricidad-electronica-poster.pdf  
+  
+slides: electricidad-electronica-2ESO-3ESO  
 ---
 
 {{% toc %}}
