@@ -362,7 +362,7 @@ Los microchips están ahora en prácticamente todos los equipos electrónicos, g
 ---
 
 ### Generación
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/alternador.svg" lightbox="false" width="50%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/alternador.svg" lightbox="false" width="60%" >}}
 
 ---
 
