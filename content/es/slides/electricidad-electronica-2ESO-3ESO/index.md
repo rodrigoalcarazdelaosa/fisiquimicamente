@@ -260,11 +260,15 @@ Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, c
 ### En serie
 En los **circuitos** conectados en **serie**, la intensidad $I$ es la misma, mientras que la diferencia de potencial $V$ es la suma.
 
+---
+
 Los **generadores** han de conectarse entre polos de **distinto signo**. La resistencia equivalente $R_\text{eq}$ es mayor que la mayor de todas las resistencias:
 
 $$
 R_\text{eq} = R_1 + R_2
 $$
+
+---
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-serie.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **serie**. La **resistencia equivalente** viene dada por $R_\text{eq} = R_1 + R_2$." lightbox="false" width="100%" >}}
 
