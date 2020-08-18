@@ -29,7 +29,11 @@ Definimos la **corriente eléctrica** como **cargas** en **movimiento** a travé
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/corriente.svg" lightbox="false" width="100%" >}}
 
+{{% /section %}}
+
 ---
+
+{{% section %}}
 
 ### Conservación de la energía
 
