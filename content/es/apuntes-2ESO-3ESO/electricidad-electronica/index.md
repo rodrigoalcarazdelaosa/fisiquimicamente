@@ -33,7 +33,7 @@ links:
 ## Corriente eléctrica
 Definimos la **corriente eléctrica** como **cargas** en **movimiento** a través de un conductor.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/corriente.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Electric_charge_and_electric_current.svg." lightbox="true" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/corriente.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Electric_charge_and_electric_current.svg." lightbox="false" width="100%" >}}
 
 ## Magnitudes eléctricas
 ### Intensidad de corriente $I$
@@ -111,7 +111,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias.jpg" title="Conjunto de resistores axiales de eje de plomo y distintas resistencias.<br> https://commons.wikimedia.org/wiki/File:Electronic-Axial-Lead-Resistors-Array.jpg" lightbox="true" >}}
 
 {{< spoiler text="¿Quieres saber qué significan las <strong>bandas</strong> de <strong>color</strong> que aparecen en las <strong>resistencias</strong>? Pincha aquí" >}}
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencia-colores.svg" title="**Código** de **colores** para conocer el **valor** de una **resistencia**.<br> Adaptada de https://commons.wikimedia.org/wiki/File:Resistencia.svg" lightbox="true" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencia-colores.svg" title="**Código** de **colores** para conocer el **valor** de una **resistencia**.<br> Adaptada de https://commons.wikimedia.org/wiki/File:Resistencia.svg" lightbox="false" width="100%" >}}
 
 Tomado de [aquí](https://en.wikipedia.org/wiki/Electronic_color_code#Color_band_system).
 <table id="colores-resistencias">
@@ -253,7 +253,7 @@ Permiten **dirigir** o **interrumpir** el paso de la **corriente eléctrica**, c
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/fusibles.jpg" title="**Fusibles** capaces que cortar una intensidad de corriente de hasta 120 kA.<br> Imagen de [**Bruno /Germany**](https://pixabay.com/es/users/bru-no-1161770/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/elementos-circuito.svg" title="**Símbolos** de algunos de los **elementos** típicos de un **circuito eléctrico**." lightbox="true" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/elementos-circuito.svg" title="**Símbolos** de algunos de los **elementos** típicos de un **circuito eléctrico**." lightbox="false" width="100%" >}}
 
 ### En serie
 En los **circuitos** conectados en **serie**, la intensidad $I$ es la misma, mientras que la diferencia de potencial $V$ es la suma.
@@ -264,7 +264,7 @@ $$
 R_\text{eq} = R_1 + R_2
 $$
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-serie.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **serie**. La **resistencia equivalente** viene dada por $R_\text{eq} = R_1 + R_2$." lightbox="true" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-serie.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **serie**. La **resistencia equivalente** viene dada por $R_\text{eq} = R_1 + R_2$." lightbox="false" width="100%" >}}
 
 ### En paralelo				
 En los **circuitos** conectados en **paralelo**, la diferencia de potencial $V$ es el mismo, mientras que la intensidad $I$ es la suma.
@@ -275,7 +275,7 @@ $$
 \frac{1}{R_\text{eq}} = \frac{1}{R_1} + \frac{1}{R_2}
 $$
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-paralelo.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **paralelo**. La **resistencia equivalente** viene dada por $1/R_\text{eq} = 1/R_1 + 1/R_2$." lightbox="true" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-paralelo.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **paralelo**. La **resistencia equivalente** viene dada por $1/R_\text{eq} = 1/R_1 + 1/R_2$." lightbox="false" width="100%" >}}
 
 Puedes jugar a **construir circuitos eléctricos** con esta excelente **simulación**:
 <iframe src="https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
@@ -299,7 +299,7 @@ También conocidos como **microchips**, son conjuntos de **circuitos electrónic
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/microchip.jpg" title="**Microchip** Snapdragon de Qualcomm, como los que se encuentran en muchos de los **móviles** modernos.<br> Imagen de [**Monoar Rahman Rony**](https://pixabay.com/es/users/monoar_cgi_artis-2240009/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 ## Aspectos industriales de la energía
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/red-electrica.svg" title="Sistema de **suministro eléctrico** que comprende el conjunto de medios y elementos útiles para la **generación**, el **transporte** y la **distribución** de la **energía eléctrica**.<br> Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Electricity_grid_simple-_North_America.svg." lightbox="true" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/red-electrica.svg" title="Sistema de **suministro eléctrico** que comprende el conjunto de medios y elementos útiles para la **generación**, el **transporte** y la **distribución** de la **energía eléctrica**.<br> Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Electricity_grid_simple-_North_America.svg." lightbox="false" width="100%" >}}
 
 ### Generación
 ### Transporte
