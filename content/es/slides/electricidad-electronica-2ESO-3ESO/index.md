@@ -210,7 +210,7 @@ Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados e
 #### Receptores
 Elementos que **transforman** la **energía eléctrica** en otro tipo de energía, como las **resistencias**, las **bombillas** 💡 o los **motores**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias.jpg" lightbox="false" width="50%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias.jpg" lightbox="false" width="60%" >}}
 
 ---
 
