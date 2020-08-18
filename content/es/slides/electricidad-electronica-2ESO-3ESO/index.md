@@ -220,7 +220,7 @@ Elementos que **transforman** la **energía eléctrica** en otro tipo de energí
 ---
 
 Tomado de [aquí](https://en.wikipedia.org/wiki/Electronic_color_code#Color_band_system).
-{{< figure src="tabla-colores.png" lightbox="false" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/tabla-colores.png" lightbox="false" width="60%" >}}
 
 ---
 
