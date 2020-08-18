@@ -95,3 +95,35 @@ $$
 <iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Buenos y malos conductores
+Según su **comportamiento** frente a la **corriente eléctrica**, distinguimos entre:
+
+- [Buenos conductores]()
+- [Malos conductores]()
+- [Semiconductores]()
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Buenos conductores
+O **conductores** a secas. **Permiten** el **paso** de la **corriente** eléctrica, ofreciendo poca o ninguna resistencia al flujo de electrones. Los **metales** son buenos conductores.
+
+---
+
+### Malos conductores
+O **aislantes**, son materiales que **impiden** el **paso** de la **corriente** eléctrica, ofreciendo mucha resistencia al flujo de electrones. La **madera** y el **plástico** son ejemplos de aislantes.
+
+---
+
+### Semiconductores
+Materiales que pueden comportarse como **conductores** o como **aislantes**. El **silicio** (Si) es el semiconductor más empleado y es la base de la **electrónica** actual.
+
+{{% /section %}}
