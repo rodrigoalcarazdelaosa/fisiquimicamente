@@ -127,3 +127,41 @@ O **aislantes**, son materiales que **impiden** el **paso** de la **corriente** 
 Materiales que pueden comportarse como **conductores** o como **aislantes**. El **silicio** (Si) es el semiconductor más empleado y es la base de la **electrónica** actual.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Máquinas eléctricas
+Una **máquina eléctrica** es un dispositivo capaz de **transformar** cualquier **forma** de **energía** en energía **eléctrica** o a la inversa. Distinguimos entre:
+
+- [Generadores]()
+- [Motores]()
+- [Transformadores]()
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Generadores
+Transforman **energía mecánica en eléctrica**.
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/generadores.jpg" title="Generadores eléctricos de principios del siglo XX en una central hidroeléctrica de Budapest.<br>https://commons.wikimedia.org/wiki/File:Gorskii_04414u.jpg" lightbox="false" >}}
+
+---
+
+### Motores
+Transforman **energía eléctrica en mecánica**.
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/motor-electrico.jpg" title="Rotor, estátor y ventilador de un motor eléctrico.<br> https://commons.wikimedia.org/wiki/File:Rotterdam_Ahoy_Europort_2011_(14).JPG" lightbox="false" >}}
+
+---
+
+### Transformadores
+Transforman las **características** de la **energía**.
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transformador.jpg" title="Foto de [**Iqram-O-dowla Shawon**](https://unsplash.com/@iqram_shawon) en [Unsplash](https://unsplash.com/)." lightbox="false" >}}
+
+{{% /section %}}
