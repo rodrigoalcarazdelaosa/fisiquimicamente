@@ -171,7 +171,7 @@ A continuación se muestra un ejemplo de cada uno de estos comandos en acción:
 Algunos de los \textbf{mayores} descubrimientos de la \underline{ciencia} se hicieron por \textbf{\textit{accidente}}.
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/negrita_cursiva_subrayado.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/negrita-cursiva-subrayado.svg" lightbox="false" width="100%" >}}
 
 Otro comando muy útil es `\emph{...}`. Lo que el comando `\emph` hace realmente con su argumento depende del contexto[^4] &mdash;dentro del texto normal el texto enfatizado está en cursiva, pero este comportamiento se invierte si se usa dentro de un texto en cursiva&mdash;, como se muestra en el siguiente ejemplo:
 
