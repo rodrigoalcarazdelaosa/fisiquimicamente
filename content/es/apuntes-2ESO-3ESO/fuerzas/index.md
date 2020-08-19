@@ -91,7 +91,7 @@ $$
 {{< figure library="true" src="fuerzas-2ESO/torno.png" title="Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/36300/36344/wheelaxle2_36344.htm)." lightbox="true" >}}
 
 ### Polea
-{{< figure library="true" src="fuerzas-2ESO/polea.png" title="[Themightyquill](https://commons.wikimedia.org/wiki/File:Block-and-tackle-in-use.svg)" lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/polea.svg" title="[Themightyquill](https://commons.wikimedia.org/wiki/File:Block-and-tackle-in-use.svg)" lightbox="false" width="100%" >}}
 
 ### Plano inclinado
 {{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)" lightbox="true" >}}
