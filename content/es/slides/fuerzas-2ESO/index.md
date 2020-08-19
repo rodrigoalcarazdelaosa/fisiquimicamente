@@ -182,7 +182,7 @@ La fuerza de **rozamiento** está asociada al **contacto** entre **superficies**
 
 ---	
 
-{{< figure library="true" src="fuerzas-2ESO/rozamiento.png" lightbox="false" width="100%" >}}
+{{< figure library="true" src="fuerzas-2ESO/rozamiento.svg" lightbox="false" width="100%" >}}
 
 ---
 
