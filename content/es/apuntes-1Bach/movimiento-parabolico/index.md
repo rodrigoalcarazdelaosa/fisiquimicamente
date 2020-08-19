@@ -41,7 +41,7 @@ El **movimiento parabólico**[^1] surge de la **composición** de:
 
 La figura [1](#figure-esquema-de-un-tiro-parabólico-un-proyectil-es-lanzado-desde-una-altura-h-con-una-velocidad-inicial-vec-v_0-que-forma-un-ángulo-alpha_0-con-la-horizontal) muestra el esquema de un **tiro parabólico**, con un proyectil lanzado desde una altura $h$ con una velocidad inicial $\vec v_0 = v_x \hat{\imath} + v_{0y}\hat{\jmath}$ que forma un ángulo $\alpha_0$ con la horizontal.
 
-{{< figure src="tiro-parabolico.png" title="Esquema de un **tiro parabólico**. Un proyectil es lanzado desde una altura $h$ con una velocidad inicial $\vec v_0$ que forma un ángulo $\alpha_0$ con la horizontal." numbered="true" lightbox="true" >}}
+{{< figure src="tiro-parabolico.svg" title="Esquema de un **tiro parabólico**. Un proyectil es lanzado desde una altura $h$ con una velocidad inicial $\vec v_0$ que forma un ángulo $\alpha_0$ con la horizontal." numbered="true" lightbox="false" width="100%" >}}
 
 Como el proyectil se lanza desde una altura $h$, su __posición inicial__ viene dada por:
 
