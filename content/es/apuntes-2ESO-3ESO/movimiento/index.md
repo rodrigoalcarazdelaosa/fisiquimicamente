@@ -134,10 +134,10 @@ v = 0 + 7.86\thinspace\mathrm{m/s^\cancel{2}}\cdot 5\thinspace\cancel{\mathrm s}
 
 ## Gráficas
 ### Movimiento uniforme
-{{< figure library="true" src="movimiento-2ESO/graficas-MRU.png" >}}
+{{< figure library="true" src="movimiento-2ESO/graficas-MRU.svg" lightbox="false" width="100%" >}}
 
 ### Movimiento acelerado
-{{< figure library="true" src="movimiento-2ESO/graficas-MRUV.png" >}}
+{{< figure library="true" src="movimiento-2ESO/graficas-MRUV.svg" lightbox="false" width="100%" >}}
 
 ## Encuentros
 Se trata de situaciones en las que dos cuerpos comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
