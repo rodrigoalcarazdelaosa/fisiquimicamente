@@ -72,7 +72,7 @@ La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disi
 a) La energía mecánica en A y en B. <br>
 b) La energía disipada en forma de calor debido a las fuerzas de rozamiento entre los puntos A y B.
 
-{{< figure library="true" src="energia-trabajo-calor-4ESO/montana-rusa.png" lightbox="true" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/montana-rusa.svg" lightbox="false" width="100%" >}}
 
 ---
 
