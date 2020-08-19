@@ -349,7 +349,7 @@ documento. Una breve introducción sobre el tema principal.
 \end{document}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/abstract.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/abstract.svg" lightbox="false" width="100%" >}}
 
 ### Párrafos y saltos de línea
 
