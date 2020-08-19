@@ -258,7 +258,7 @@ Las listas ordenadas o numeradas tienen la misma sintaxis pero con otro entorno,
 \end{enumerate}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/enumerate.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/enumerate.svg" lightbox="false" width="100%" >}}
 
 ### Listas de descripción
 
