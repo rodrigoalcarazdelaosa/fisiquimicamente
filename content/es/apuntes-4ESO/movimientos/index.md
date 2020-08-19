@@ -270,7 +270,7 @@ $$
 
 donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los $6\thinspace\mathrm s$ que está parado el coche en el semáforo. Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:
 
-{{< figure src="encuentro.png" lightbox="true" >}}
+{{< figure src="encuentro.svg" lightbox="false" width="100%" >}}
 
 donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los $22.4\thinspace\mathrm s$.
 
