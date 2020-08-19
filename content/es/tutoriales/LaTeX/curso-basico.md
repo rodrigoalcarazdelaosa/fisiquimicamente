@@ -271,7 +271,7 @@ Las listas de descripción o definición utilizan el entorno `description`. Su s
 \end{description}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/description.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/description.svg" lightbox="false" width="100%" >}}
 
 ## Añadiendo matemáticas a $\LaTeX$
 Una de las principales ventajas de $\LaTeX$ es la facilidad con la que podemos incluir expresiones matemáticas en nuestros documentos. Existen dos *modos* principales: ***inline*** y ___display___.
