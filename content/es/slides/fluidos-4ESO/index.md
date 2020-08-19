@@ -70,7 +70,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 #### Elevador hidráulico
 
-{{< figure library="true" src="fluidos-4ESO/elevador-hidraulico.png" lightbox="false" >}}
+{{< figure library="true" src="fluidos-4ESO/elevador-hidraulico.svg" lightbox="false" width="100%" >}}
 
 $$
 p_1 = p_2 \Rightarrow \frac{F_1}{A_1} = \frac{F_2}{A_2} \Rightarrow F_1A_2 = F_2A_1
