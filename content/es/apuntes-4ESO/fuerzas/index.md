@@ -85,7 +85,7 @@ donde $m$ es la masa del objeto y $\vec g$ es la aceleración de la gravedad. Si
 ### Normal $\vec N$
 También llamada fuerza de **reacción**, se define como la fuerza que ejerce una superficie sobre un cuerpo apoyado sobre ella. Esta es de igual magnitud y dirección, pero de sentido contrario a la fuerza ejercida por el cuerpo sobre la superficie.
 
-{{< figure src="normal.png" title="Fuerza normal en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="true" >}}
+{{< figure src="normal.svg" title="Fuerza normal en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="false" width="100%" >}}
 
 ### Rozamiento $\vec f_\mathrm r$
 La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en contacto, oponiéndose siempre al movimiento relativo entre ambas superficies. La fuerza de rozamiento es proporcional a la normal $N$:
