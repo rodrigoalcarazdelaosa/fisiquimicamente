@@ -156,7 +156,7 @@ Como siempre que se escribe código, es muy útil y recomendable incluir **comen
 \end{document}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/primer_documento_maketitle.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/primer-documento-maketitle.svg" lightbox="false" width="100%" >}}
 
 ## Negrita, cursiva y subrayado
 Echemos un vistazo a algunos comandos simples para dar formato a nuestro texto:
