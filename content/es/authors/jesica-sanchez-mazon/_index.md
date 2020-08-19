@@ -33,8 +33,8 @@ education:
   - course: Máster en Formación del Profesorado
     institution: UNIR
     year: 2020
-  - course: Especialista en Radiofísica Hospitalaria | Estancia en el Duke University Medical Center
-    institution: HUMV
+  - course: Especialista en Radiofísica Hospitalaria
+    institution: HUMV | Estancia en el Duke University Medical Center
     year: 2013
   - course: Licenciada en Física
     institution: Universidad de Cantabria
