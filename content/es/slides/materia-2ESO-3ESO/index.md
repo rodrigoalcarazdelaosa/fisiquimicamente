@@ -175,7 +175,7 @@ La materia puede **cambiar** de **estado** al **variar** la **presión** o **tem
 
 ---
 
-{{< figure library="true" src="materia-2ESO-3ESO/cambios-estado.svg" lightbox="false" with="100%" >}}
+{{< figure library="true" src="materia-2ESO-3ESO/cambios-estado.svg" lightbox="false" width="100%" >}}
 
 ---
 
