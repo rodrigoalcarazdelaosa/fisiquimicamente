@@ -183,7 +183,7 @@ Además, **durante** un **cambio** de **estado** la **temperatura** permance **c
 
 ---
 
-{{< figure library="true" src="materia-2ESO-3ESO/grafica-calentamiento.png" lightbox="false" >}}
+{{< figure library="true" src="materia-2ESO-3ESO/grafica-calentamiento.svg" lightbox="false" width="100%" >}}
 
 ---
 
