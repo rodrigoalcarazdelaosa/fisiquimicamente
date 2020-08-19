@@ -42,7 +42,7 @@ Sentido
 ### Suma o resta de vectores
 Gráficamente, dibujando un vector a continuación del otro y uniendo el origen con el punto final:
 
-{{< figure src="suma-vectores.png" lightbox="true" >}}
+{{< figure src="suma-vectores.svg" lightbox="false" width="100%" >}}
 
 O analíticamente, componente a componente:
 $$
