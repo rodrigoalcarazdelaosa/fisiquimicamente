@@ -3,6 +3,8 @@ title: Hello World
 subtitle: First Post on my First Blog
 summary: First Post on my First Blog.
 date: "2020-04-28T00:00:00Z"
+authors:
+- rodrigo-alcaraz-de-la-osa
 image:
   placement: 3
   caption: Photo by [**Octavian Dan**](https://unsplash.com/@octadan) on [Unsplash](https://unsplash.com)
