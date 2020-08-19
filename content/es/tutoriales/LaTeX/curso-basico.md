@@ -410,7 +410,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Etiam lobortis facilisissem
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/secciones.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/secciones.svg" lightbox="false" width="100%" >}}
 
 El comando `\section{...}` marca el comienzo de una nueva sección, cuyo título se pone dentro de las llaves. Las secciones se numeran automáticamente aunque esto se puede desactivar incluyendo un asterisco (*) en el comando de la sección, como en `\section*{...}`. También podemos tener `\subsection{...}` o `\subsubsection{...}`. La siguiente tabla muestra los distintos **niveles de profundidad**:
 
