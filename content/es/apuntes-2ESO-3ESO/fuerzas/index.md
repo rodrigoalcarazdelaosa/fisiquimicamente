@@ -63,7 +63,7 @@ $$
 
 donde $k$ es la llamada **constante de elasticidad** del muelle. Como se puede ver en la figura, el **alargamiento** sufrido por el muelle es **proporcional** a la **fuerza** ejercida sobre él.
 
-{{< figure library="true" src="fuerzas-2ESO/hooke.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Dinam%C3%B3metro_de_resorte.svg." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/hooke.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Dinam%C3%B3metro_de_resorte.svg." lightbox="false" width="100% >}}
 
 Puedes aprender más sobre **masas**, **resortes** y la **ley de Hooke** con las siguientes **simulaciones**:
 
