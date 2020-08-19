@@ -169,7 +169,7 @@ E &= P_\text{fluido desalojado} \\\\
 &= d_\text{fluido}\cdot V_\text{sumergido}\cdot g
 \end{align*}
 
-{{< figure library="true" src="fluidos-4ESO/flotacion.svg" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="true" width="100%" >}}
+{{< figure library="true" src="fluidos-4ESO/flotacion.svg" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="false" width="100%" >}}
 
 #### Flotación
 $$
