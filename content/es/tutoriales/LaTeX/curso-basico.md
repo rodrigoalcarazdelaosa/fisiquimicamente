@@ -284,7 +284,7 @@ Se utiliza para escribir expresiones que son parte del texto, encerrando la expr
 En física, la equivalencia entre masa y energía se establece por la ecuación $E=mc^2$, descubierta por Albert Einstein en 1905.
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/inline_math.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/inline-math.svg" lightbox="false" width="100%" >}}
 
 ### Modo _display_
 Se utiliza para escribir expresiones en líneas separadas. Tenemos dos versiones: expresiones numeradas (con el entorno `equation`) o sin numerar (encerrando la expresión entre `\[...\]`), como se muestra a continuación:
