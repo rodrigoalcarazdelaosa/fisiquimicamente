@@ -225,7 +225,7 @@ La figura \ref{fig:leon_CTAN} muestra el león que dibujó Duane Bibby para las 
 \end{document}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/ejemplo_imagen.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/ejemplo-imagen.svg" lightbox="false" width="100%" >}}
 
 ## Creando listas en $\LaTeX$
 Es muy fácil crear listas con $\LaTeX$. Tenemos tres *entornos* principales para ello. Los entornos son secciones de nuestro documento que queremos presentar de una manera diferente al resto del documento. Siempre empiezan con el comando `\begin{...}` y terminan con un `\end{...}`[^7].
