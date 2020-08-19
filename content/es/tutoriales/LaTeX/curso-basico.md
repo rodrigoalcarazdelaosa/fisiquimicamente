@@ -378,7 +378,7 @@ Esta línea comenzará un segundo párrafo.
 \end{document}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/parrafos.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/parrafos.svg" lightbox="false" width="100%" >}}
 
 ### Capítulos y secciones
 
