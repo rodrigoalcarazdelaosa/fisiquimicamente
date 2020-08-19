@@ -116,7 +116,7 @@ $$
 
 Lo primero hacemos un dibujo representando la situación:
 
-{{< figure src="plano-inclinado.png" lightbox="true" >}}
+{{< figure src="plano-inclinado.svg" lightbox="false" width="100%" >}}
 				
 Las **fuerzas** que actúan son:
 
