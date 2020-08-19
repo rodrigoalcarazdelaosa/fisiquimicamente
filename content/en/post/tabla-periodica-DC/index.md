@@ -3,6 +3,8 @@ title: DC Periodic Table
 subtitle: Periodic Table with DC Characters
 summary: Periodic Table with DC Characters.
 date: "2020-07-16T00:00:00Z"
+authors:
+- rodrigo-alcaraz-de-la-osa
 tags:
 - periodic-table
 - DC
