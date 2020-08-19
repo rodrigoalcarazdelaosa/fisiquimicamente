@@ -325,7 +325,7 @@ Podemos escribir letras griegas tanto en minúsuclas ($\omega$, $\delta$, etc.) 
 Los operadores matemáticos se prefijan con una barra invertida, como $\sin(\beta)$, $\cos(\alpha)$, $\log(x)$, etc.
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/amsmath.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/amsmath.svg" lightbox="false" width="100%" >}}
 
 ## Formato básico
 Veamos cómo añadir resúmenes (*abstracts* en inglés) y formatear un documento $\LaTeX$ en capítulos, secciones y párrafos.
