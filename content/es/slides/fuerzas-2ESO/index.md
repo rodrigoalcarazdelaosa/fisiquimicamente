@@ -141,7 +141,7 @@ $$
 ---
 
 ### Cuña
-{{< figure library="true" src="fuerzas-2ESO/cuña.svg" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)" lightbox="false" width="20%" >}}
+{{< figure library="true" src="fuerzas-2ESO/cuna.svg" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)" lightbox="false" width="20%" >}}
 
 ---
 
