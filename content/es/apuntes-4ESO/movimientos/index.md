@@ -137,21 +137,22 @@ $$
 {{% /alert %}}
 
 ## Caída libre/lanzamiento vertical
-La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el que la aceleración es igual a la aceleración de la **gravedad**[^2]. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
-[^2]: Valores de la aceleración de la **gravedad** en los astros del Sistema Solar:
+La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el que la aceleración es igual a la aceleración de la **gravedad**. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
 
-	| Astro | $g$ | $\mathrm{m/s^2}$ |
-	| --- | :---: | :---: |
-	| Sol :sunny: | 28.02 | 274.8 |
-	| Júpiter &#9795; | 2.53 | 24.8 |
-	| Neptuno &#9798; | 1.14 | 11.2 |
-	| Saturno &#9796; | 1.07 | 10.4 |
-	| Tierra &#9793; | 1 | 9.8 |
-	| Venus &#9792; | 0.90 | 8.9 |
-	| Urano &#9797; | 0.89 | 8.7 |	
-	| Marte &#9794; | 0.38 | 3.7 |						
-	| Mercurio &#9791; | 0.38 | 3.7 |
-	| Luna :crescent_moon: | 0.17 | 1.6 |
+{{< spoiler text="¿Y cuánto vale la <strong>gravedad</strong> en otros <strong>astros</strong> del <strong>Sistema Solar</strong>? Pincha aquí" >}}
+| Astro | $g$ | $\mathrm{m/s^2}$ |
+| --- | :---: | :---: |
+| Sol :sunny: | 28.02 | 274.8 |
+| Júpiter &#9795; | 2.53 | 24.8 |
+| Neptuno &#9798; | 1.14 | 11.2 |
+| Saturno &#9796; | 1.07 | 10.4 |
+| Tierra &#9793; | 1 | 9.8 |
+| Venus &#9792; | 0.90 | 8.9 |
+| Urano &#9797; | 0.89 | 8.7 |	
+| Marte &#9794; | 0.38 | 3.7 |						
+| Mercurio &#9791; | 0.38 | 3.7 |
+| Luna :crescent_moon: | 0.17 | 1.6 |
+{{< /spoiler >}}	
 
 ### Ejemplo
 {{% alert example %}}
