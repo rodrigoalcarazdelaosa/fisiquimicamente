@@ -112,7 +112,7 @@ La **ventaja teórica** es la relación entre la fuerza obtenida y la fuerza apl
 ---
 
 ### Palanca
-{{< figure library="true" src="fuerzas-2ESO/palanca.png" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" >}}
+{{< figure library="true" src="fuerzas-2ESO/palanca.svg" title="Imagen de [OpenClipart-Vectors](https://pixabay.com/es/users/openclipart-vectors-30363/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="100%" >}}
 
 ---
 
