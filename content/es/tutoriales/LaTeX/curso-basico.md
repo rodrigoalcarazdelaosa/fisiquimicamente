@@ -185,7 +185,7 @@ Algunos de los mayores \emph{descubrimientos} de la ciencia se hicieron por acci
 \textbf{Algunos de los mayores \emph{descubrimientos} de la ciencia se hicieron por accidente.}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/negrita_cursiva_subrayado_emph.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/negrita-cursiva-subrayado-emph.svg" lightbox="false" width="100%" >}}
 
 ## Añadiendo imágenes
 $\LaTeX$ no puede manejar imágenes por sí solo, por lo que necesitamos un _paquete_. Los paquetes se pueden utilizar para cambiar la apariencia por defecto de nuestro documento, o para añadir funcionalidades. En este caso, para añadir imágenes utilizamos el paquete [graphicx](https://ctan.org/pkg/graphicx), que nos proporciona, entre otros, el comando `\includegraphics{...}`[^5].
