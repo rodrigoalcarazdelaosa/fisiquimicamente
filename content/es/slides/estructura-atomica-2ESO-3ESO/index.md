@@ -172,7 +172,7 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 
 ##### Interpretación del experimento
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford-detalle.png" title="Conclusiones del experimento de Rutherford." lightbox="false" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford-detalle.svg" title="Conclusiones del experimento de Rutherford." lightbox="false" width="100%" >}}
 
 ---
 
