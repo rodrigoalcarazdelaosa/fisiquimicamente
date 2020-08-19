@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="300"
+   inkscape:export-filename="/Users/rodrigoalcarazdelaosa/Documents/GitHub/rodrigoalcarazdelaosa.me/static/img/fluidos-4ESO/flotacion.png"
+   id="svg2449"
+   sodipodi:version="0.32"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   width="305.15036"
+   height="373.948"
+   version="1.0"
+   sodipodi:docname="flotacion.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2454">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2452">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1655">
+      <stop
+         style="stop-color:#bbccee;stop-opacity:1"
+         offset="0"
+         id="stop1651" />
+      <stop
+         style="stop-color:#2a54a9;stop-opacity:1"
+         offset="1"
+         id="stop1653" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4997"
+       inkscape:collect="always">
+      <stop
+         id="stop4999"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop5001"
+         offset="1"
+         style="stop-color:#7e8080;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4997"
+       id="radialGradient5005"
+       cx="122.18739"
+       cy="183.5845"
+       fx="122.18739"
+       fy="183.5845"
+       r="44.041126"
+       gradientTransform="matrix(-1.5775947,0.05891414,-0.04609856,-1.2203888,365.79589,369.37978)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1655"
+       id="linearGradient1649"
+       x1="69.980331"
+       y1="169.59575"
+       x2="69.781792"
+       y2="376.77805"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2.0232369,-4.0275039)" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="787"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="93.279462"
+     inkscape:cy="168.19025"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:current-layer="switch42"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2" />
+  <path
+     style="opacity:1;fill:url(#linearGradient1649);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.38202;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 2,371.94801 0.022716,-205.83074 91.5890107,-0.45362 c 0.539193,10.26712 4.988318,20.8486 10.172583,29.54118 0,0 16.4831,16.39242 16.4831,16.39242 18.46459,12.27522 40.84601,11.91338 59.32982,-0.37464 0,0 15.8778,-16.13182 15.8778,-16.13182 l 10.33593,-28.8161 97.21798,0.16821 -0.22268,205.38969 z"
+     id="path5281"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 137.93666,25.881586 0.10173,41.099568 -17.09091,0.101731 29.09524,49.848485 28.99351,-49.848485 -17.09091,-0.101731 V 25.779855 Z"
+     id="path2460" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.2602;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path5237"
+     sodipodi:cx="149.98532"
+     sodipodi:cy="161.94064"
+     sodipodi:rx="54.049324"
+     sodipodi:ry="56.722111"
+     d="m 204.03465,161.94064 a 54.049324,56.722111 0 0 1 -27.02467,49.12279 54.049324,56.722111 0 0 1 -54.04932,0 54.049324,56.722111 0 0 1 -27.024663,-49.12279"
+     sodipodi:start="0"
+     sodipodi:end="3.1415927"
+     sodipodi:open="true"
+     sodipodi:arc-type="arc" />
+  <path
+     style="fill:#666633;fill-opacity:1;fill-rule:evenodd;stroke:#666633;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 105.58601,119.67813 68.962631,88.548253"
+     id="path3262" />
+  <ellipse
+     style="opacity:1;fill:url(#radialGradient5005);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00573;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path3264"
+     cx="149.95018"
+     cy="163.87997"
+     rx="43.916122"
+     ry="43.767857" />
+  <rect
+     style="opacity:1;fill:#eeeebb;fill-opacity:0.207843;stroke:#666633;stroke-width:0.994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.982, 0.994;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect3260"
+     width="88.715584"
+     height="88.919052"
+     x="105.44251"
+     y="119.56059" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 137.88579,320.8015 0.10173,-41.09957 -17.09091,-0.10173 29.09524,-49.84848 28.99351,49.84848 -17.09091,0.10173 v 41.2013 z"
+     id="path4773" />
+  <path
+     style="fill:#01a0c7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.12528;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 2.1493027,164.43666 H 95.765596"
+     id="path5235" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.27453;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 204.00259,164.43666 h 99.14778"
+     id="path5239" />
+  <switch
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="switch38"
+     transform="translate(-4.1918561,-4.0275039)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.95509"
+       y="25.739504"
+       id="text5241-sl"
+       systemLanguage="sl"><tspan
+         sodipodi:role="line"
+         id="tspan5243-sl"
+         x="102.95509"
+         y="25.739504"
+         style="font-size:28px;line-height:1.25;fill:#000000;fill-opacity:1">Gravitacija</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.95509"
+       y="25.739504"
+       id="text5241"><tspan
+         style="fill:#000000;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan99"
+         x="102.95509"
+         y="25.739504">Gravedad</tspan></text>
+  </switch>
+  <g
+     style="fill:#666633;fill-opacity:1"
+     id="g5307"
+     transform="translate(-2.9265105,0.21513684)">
+    <switch
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666633;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="switch42">
+      <text
+         id="text5245"
+         y="58.105244"
+         x="12.374369"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666633;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-size:28px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+         xml:space="preserve"><tspan
+           y="58.105244"
+           x="12.374369"
+           id="tspan5247"
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Italic';fill:#666633;fill-opacity:1;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">m</tspan></text>
+    </switch>
+    <switch
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666633;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="switch48">
+      <text
+         id="text5249-sl"
+         y="64.4692"
+         x="34.471455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666633;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         systemLanguage="sl"><tspan
+           y="64.4692"
+           x="34.471455"
+           id="tspan5251-sl"
+           sodipodi:role="line"
+           style="font-size:16px;line-height:1.25;fill:#666633;fill-opacity:1">predmeta</tspan></text>
+      <text
+         id="text5249"
+         y="64.4692"
+         x="34.471455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666633;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="64.4692"
+           x="34.471455"
+           id="tspan5251"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#666633;fill-opacity:1">objeto</tspan></text>
+    </switch>
+  </g>
+  <switch
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666633;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="switch55"
+     transform="translate(2.0232369,-4.0275039)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666633;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.9653587"
+       y="82.666801"
+       id="text5253-sl"
+       systemLanguage="sl"><tspan
+         sodipodi:role="line"
+         id="tspan5255-sl"
+         x="8.9653587"
+         y="82.666801"
+         style="font-size:12px;line-height:1.25;fill:#666633;fill-opacity:1">masa predmeta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666633;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.9653587"
+       y="82.666801"
+       id="text5253"><tspan
+         sodipodi:role="line"
+         id="tspan5255"
+         x="8.9653587"
+         y="82.666801"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#666633;fill-opacity:1">(masa del objeto)</tspan></text>
+  </switch>
+  <path
+     style="opacity:1;fill:#a9b2ac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 189.78039,208.74364 c 0,-0.20239 -0.0833,-0.25 -0.4375,-0.25 -0.35189,0 -0.4375,-0.0482 -0.4375,-0.24616 0,-0.22938 -0.1031,-0.24854 -1.51338,-0.28125 l -1.51337,-0.0351 1.4677,-1.3125 c 1.55317,-1.38893 3.8431,-3.79458 5.3826,-5.65459 l 0.92645,-1.11933 v 0.51196 c 0,0.42862 0.0407,0.51196 0.25,0.51196 0.20238,0 0.25,0.0833 0.25,0.4375 0,0.35416 -0.0476,0.4375 -0.25,0.4375 -0.23667,0 -0.25,0.0833 -0.25,1.5625 0,1.47916 0.0133,1.5625 0.25,1.5625 0.20238,0 0.25,0.0833 0.25,0.4375 0,0.35416 -0.0476,0.4375 -0.25,0.4375 -0.23485,0 -0.25,0.0833 -0.25,1.375 v 1.375 h -0.375 c -0.29167,0 -0.375,-0.0556 -0.375,-0.25 0,-0.23668 -0.0833,-0.25 -1.56398,-0.25 h -1.56397 l 0.0799,0.5 c 0.044,0.275 0.0446,0.5 0.001,0.5 -0.0432,0 -0.0785,-0.1125 -0.0785,-0.25 z"
+     id="path5285" />
+  <path
+     style="opacity:1;fill:#a9b2ac;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 106.19069,208.55273 c -0.097,-0.10507 -0.165,-0.70107 -0.1875,-1.64323 -0.034,-1.42564 -0.0453,-1.47979 -0.31655,-1.51831 -0.22924,-0.0326 -0.28125,-0.11923 -0.28125,-0.46875 0,-0.37545 0.0394,-0.4288 0.31635,-0.4288 h 0.31635 l -0.0351,-1.53125 -0.0351,-1.53125 -0.5,0.0213 c -0.275,0.0117 -0.40156,-0.006 -0.28125,-0.0404 0.15376,-0.0434 0.21875,-0.18901 0.21875,-0.49009 0,-0.37073 0.041,-0.42833 0.30496,-0.42833 0.26037,0 0.31062,-0.0666 0.34375,-0.45542 l 0.0388,-0.45542 1.125,1.35889 c 1.29168,1.56023 4.72758,5.105 6.10838,6.30195 1.06117,0.91986 1.19761,1.25 0.51662,1.25 -0.35416,0 -0.4375,-0.0476 -0.4375,-0.25 0,-0.23667 -0.0833,-0.25 -1.5625,-0.25 -1.47916,0 -1.5625,0.0133 -1.5625,0.25 0,0.20238 -0.0833,0.25 -0.4375,0.25 -0.35416,0 -0.4375,-0.0476 -0.4375,-0.25 0,-0.23604 -0.0833,-0.25 -1.49208,-0.25 h -1.49208 l -0.0392,0.36198 c -0.0316,0.29225 -0.0685,0.33022 -0.19137,0.19711 z"
+     id="path5287" />
+  <switch
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="switch63"
+     transform="translate(2.0232369,-4.0275039)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="85"
+       y="346"
+       id="text5291-sl"
+       systemLanguage="sl"><tspan
+         sodipodi:role="line"
+         id="tspan5293-sl"
+         x="85"
+         y="346"
+         style="font-size:28px;line-height:1.25">   Vzgon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="105"
+       y="346"
+       id="text5291"><tspan
+         sodipodi:role="line"
+         id="tspan5293"
+         x="105"
+         y="346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">Empuje</tspan></text>
+  </switch>
+  <g
+     id="g5313"
+     transform="translate(2.0232369,-4.0275039)">
+    <switch
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="switch67">
+      <text
+         id="text5295"
+         y="203"
+         x="19"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-size:28px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+         xml:space="preserve"><tspan
+           y="203"
+           x="19"
+           id="tspan5297"
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">d</tspan></text>
+    </switch>
+    <switch
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="switch73">
+      <text
+         id="text5299-sl"
+         y="214.92892"
+         x="32.585785"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         systemLanguage="sl"><tspan
+           y="214.92892"
+           x="32.585785"
+           id="tspan5301-sl"
+           sodipodi:role="line"
+           style="font-size:16px;line-height:1.25">tekočine</tspan></text>
+      <text
+         id="text5299"
+         y="214.92892"
+         x="32.585785"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="214.92892"
+           x="32.585785"
+           id="tspan5301"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">fluido</tspan></text>
+    </switch>
+  </g>
+  <switch
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="switch80"
+     transform="translate(2.0232369,-4.0275039)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16.220564"
+       y="227.25758"
+       id="text5319-sl"
+       systemLanguage="sl"><tspan
+         sodipodi:role="line"
+         id="tspan5321-sl"
+         x="16.220564"
+         y="227.25758"
+         style="font-size:12px;line-height:1.25;fill:#000000;fill-opacity:1">gostota tekočine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16.220564"
+       y="227.25758"
+       id="text5319"><tspan
+         sodipodi:role="line"
+         id="tspan5321"
+         x="16.220564"
+         y="227.25758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#000000;fill-opacity:1">(densidad del fluido)</tspan></text>
+  </switch>
+  <switch
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="switch84"
+     transform="translate(2.0232369,-4.0275039)">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-size:28px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       x="119.20613"
+       y="162.36562"
+       id="text5325"><tspan
+         sodipodi:role="line"
+         id="tspan5327"
+         x="119.20613"
+         y="162.36562"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Italic';fill:#000000;fill-opacity:1;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">d</tspan></text>
+  </switch>
+  <switch
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="switch90"
+     transform="translate(2.0232369,-4.0275039)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="132.79192"
+       y="174.29454"
+       id="text5329-sl"
+       systemLanguage="sl"><tspan
+         sodipodi:role="line"
+         id="tspan5331-sl"
+         x="132.79192"
+         y="174.29454"
+         style="font-size:16px;line-height:1.25;fill:#000000;fill-opacity:1">predmneta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="132.79192"
+       y="174.29454"
+       id="text5329"><tspan
+         sodipodi:role="line"
+         id="tspan5331"
+         x="132.79192"
+         y="174.29454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#000000;fill-opacity:1">objeto</tspan></text>
+  </switch>
+  <switch
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="switch96"
+     transform="translate(2.0232369,-4.0275039)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="156.47656"
+       y="151.10547"
+       id="text5337-sl"
+       systemLanguage="sl"><tspan
+         sodipodi:role="line"
+         id="tspan5339-sl"
+         x="156.47656"
+         y="151.10547"
+         style="font-size:12px;line-height:1.25;fill:#000000;fill-opacity:1">gostota predmeta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="156.47656"
+       y="151.10547"
+       id="text5337"><tspan
+         sodipodi:role="line"
+         id="tspan5339"
+         x="156.47656"
+         y="151.10547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#000000;fill-opacity:1">(densidad del objeto)</tspan></text>
+  </switch>
+</svg>

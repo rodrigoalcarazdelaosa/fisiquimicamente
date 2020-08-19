@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="300.15277"
+   inkscape:export-xdpi="300.15277"
+   inkscape:export-filename="/Users/rodrigoalcarazdelaosa/Documents/GitHub/rodrigoalcarazdelaosa.me/static/img/fluidos-4ESO/elevador-hidraulico.png"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docname="elevador-hidraulico.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:version="0.32"
+   id="svg2"
+   height="202.45691"
+   width="422.92395">
+  <defs
+     id="defs4">
+    <linearGradient
+       gradientTransform="rotate(90,269.5,361.5)"
+       gradientUnits="userSpaceOnUse"
+       id="XMLID_1_"
+       x1="-91.5"
+       x2="631.50012"
+       y1="359.5"
+       y2="359.5">
+      <stop
+         offset="0"
+         style="stop-color:#bbccee;stop-opacity:1"
+         id="stop933" />
+      <stop
+         offset="1"
+         style="stop-color:#2a54a9;stop-opacity:1"
+         id="stop947" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.72"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#F86894" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="rotate(90,269.5,361.5)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient931"
+       x1="-91.5"
+       x2="631.50012"
+       y1="359.5"
+       y2="359.5">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop915" />
+      <stop
+         offset="0.172"
+         style="stop-color:#FFFBFC"
+         id="stop917" />
+      <stop
+         offset="0.3334"
+         style="stop-color:#FEF0F4;stop-opacity:0"
+         id="stop919" />
+      <stop
+         offset="0.4908"
+         style="stop-color:#FDDDE5;stop-opacity:0"
+         id="stop921" />
+      <stop
+         offset="0.6456"
+         style="stop-color:#FCC3D1"
+         id="stop923" />
+      <stop
+         offset="0.7985"
+         style="stop-color:#FAA1B9"
+         id="stop925" />
+      <stop
+         offset="0.948"
+         style="stop-color:#F8789E"
+         id="stop927" />
+      <stop
+         offset="1"
+         style="stop-color:#F86894"
+         id="stop929" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.72"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#F86894" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1551" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1551-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_1_"
+       id="linearGradient973"
+       x1="437.8118"
+       y1="281.98691"
+       x2="437.79819"
+       y2="349.40485"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     fit-margin-bottom="5"
+     fit-margin-right="5"
+     fit-margin-left="5"
+     fit-margin-top="5"
+     inkscape:snap-global="false"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="900"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="101.20713"
+     inkscape:cx="210.84234"
+     inkscape:zoom="3.1026415"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     objecttolerance="10"
+     guidetolerance="10"
+     gridtolerance="10000"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-115.63855,-151.81986)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       style="fill:url(#linearGradient973);fill-opacity:1;stroke:none"
+       d="m 146.97719,281.82143 v 50.38393 h 202.4871 v 16.57142 H 473.23214 V 269.64285 H 349.45089 v 48.86162 H 162.5 v -36.68304"
+       id="path4249"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/olivier/aero/documents/cc/figures/thermodynamics/cric.png"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-ydpi="237.95"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/aero/documents/cc/figures/thermodynamics/cric.png"
+       sodipodi:nodetypes="cccccccccc"
+       id="path2383"
+       d="m 349.45089,241.64285 v 76.86162 H 162.5 v -58.68304 m -15.52281,0 v 72.38393 h 202.4871 v 16.57142 H 473.23214 V 241.64285"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/aero/documents/cc/figures/thermodynamics/cric.png"
+       id="path3203"
+       d="m 153.2308,227.78425 v 50.12229 h -6.25361 v 13.39702 h 15.33531 v -13.39702 h -6.2536 v -50.12229 z"
+       style="fill:#555555;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="translate(197.21078,-251.10507)"
+       id="Layer_1"
+       i:visible="no"
+       i:rgbTrio="#4F008000FFFF"
+       i:printed="no"
+       i:layer="yes"
+       i:dimmedPercent="100"
+       display="none"
+       style="display:none;stroke:#000000">
+      <linearGradient
+         y2="359.5"
+         y1="359.5"
+         x2="631.50012"
+         x1="-91.5"
+         id="XMLID_1_-5"
+         gradientUnits="userSpaceOnUse"
+         gradientTransform="rotate(90,269.5,361.5)">
+        <stop
+           id="stop3234"
+           style="stop-color:#FFFFFF"
+           offset="0" />
+        <stop
+           id="stop3236"
+           style="stop-color:#FFFBFC"
+           offset="0.172" />
+        <stop
+           id="stop3238"
+           style="stop-color:#FEF0F4"
+           offset="0.3334" />
+        <stop
+           id="stop3240"
+           style="stop-color:#FDDDE5"
+           offset="0.4908" />
+        <stop
+           id="stop3242"
+           style="stop-color:#FCC3D1"
+           offset="0.6456" />
+        <stop
+           id="stop3244"
+           style="stop-color:#FAA1B9"
+           offset="0.7985" />
+        <stop
+           id="stop3246"
+           style="stop-color:#F8789E"
+           offset="0.948" />
+        <stop
+           id="stop3248"
+           style="stop-color:#F86894"
+           offset="1" />
+        <a:midPointStop
+           style="stop-color:#FFFFFF"
+           offset="0" />
+        <a:midPointStop
+           style="stop-color:#FFFFFF"
+           offset="0.72" />
+        <a:midPointStop
+           style="stop-color:#F86894"
+           offset="1" />
+      </linearGradient>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3250"
+         i:knockout="Off"
+         display="inline"
+         d="M 542.5,722.5 V 0.5 H 0.5 v 722 z"
+         style="display:inline;fill:url(#XMLID_1_-5)" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/tropebil/aero/documents/cc/figures/thermodynamics/cric.png"
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       i:knockout="Off"
+       id="path3323"
+       d="" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/tropebil/aero/documents/cc/figures/thermodynamics/cric.png"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.8885"
+       i:knockout="Off"
+       id="path3325"
+       d="" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/tropebil/aero/documents/cc/figures/thermodynamics/cric.png"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.8885"
+       i:knockout="Off"
+       id="path3668"
+       d="" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/tropebil/aero/documents/cc/figures/thermodynamics/cric.png"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.8885"
+       i:knockout="Off"
+       id="path3670"
+       d="" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/tropebil/aero/documents/cc/figures/thermodynamics/cric.png"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.8885"
+       i:knockout="Off"
+       id="path3682"
+       d="" />
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/tropebil/aero/documents/cc/figures/thermodynamics/cric.png"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.8885"
+       i:knockout="Off"
+       id="path3686"
+       d="" />
+    <g
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/tropebil/aero/documents/cc/figures/thermodynamics/cric.png"
+       transform="translate(197.21078,-251.10507)"
+       id="Layer_4"
+       i:rgbTrio="#4F00FFFF4F00"
+       i:layer="yes"
+       i:dimmedPercent="100"
+       style="stroke:#000000" />
+    <path
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/aero/documents/cc/figures/thermodynamics/cric.png"
+       sodipodi:nodetypes="cccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path2390"
+       d="m 289.625,221.53125 v 6.0625 h 83.90625 V 259.125 H 349.4375 v 22.9375 H 473.21875 V 259.125 H 449.125 v -31.53125 h 83.9375 v -6.0625 z m 95.84375,6.1875 h 51.75 v 31.5625 h -51.75 z"
+       style="fill:#555555;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="237.95"
+       inkscape:export-xdpi="237.95"
+       inkscape:export-filename="/home/olivier/aero/documents/cc/figures/thermodynamics/cric.png"
+       inkscape:connector-curvature="0"
+       id="use4214"
+       d="m 132.96875,223.71875 c -1.07474,0 -2.03137,0.5042 -2.65625,1.28125 h -1.625 c -0.61847,0 -1.125,0.25306 -1.125,0.5625 v 3.40625 c 0,0.30944 0.50653,0.5625 1.125,0.5625 h 1.84375 c 0.61913,0.63442 1.48102,1.03125 2.4375,1.03125 0.90933,0 1.7325,-0.35727 2.34375,-0.9375 0.60943,0.57024 1.41204,0.9375 2.3125,0.9375 0.94144,0 1.78929,-0.38304 2.40625,-1 0.61695,0.61696 1.46481,1 2.40625,1 0.95686,0 1.81832,-0.3964 2.4375,-1.03125 h 21.375 c 0.61918,0.63485 1.48064,1.03125 2.4375,1.03125 0.69609,0 1.33547,-0.23563 1.875,-0.59375 0.007,0.005 0.0237,-0.005 0.0312,0 0.53967,0.3584 1.17862,0.59375 1.875,0.59375 0.73692,0 1.41118,-0.25878 1.96875,-0.65625 0.5581,0.39874 1.23055,0.65625 1.96875,0.65625 0.95686,0 1.81832,-0.3964 2.4375,-1.03125 h 1.75 c 0.61847,0 1.125,-0.25306 1.125,-0.5625 v -3.40625 c 0,-0.30944 -0.50653,-0.5625 -1.125,-0.5625 h -1.5625 c -0.625,-0.77312 -1.55341,-1.28125 -2.625,-1.28125 -0.7382,0 -1.41065,0.25751 -1.96875,0.65625 -0.55757,-0.39747 -1.23183,-0.65625 -1.96875,-0.65625 -0.69638,0 -1.33533,0.23536 -1.875,0.59375 -0.008,-0.005 -0.0235,0.005 -0.0312,0 -0.53953,-0.35812 -1.17891,-0.59375 -1.875,-0.59375 -1.07158,0 -2.00001,0.50813 -2.625,1.28125 h -21 c -0.625,-0.77312 -1.55341,-1.28125 -2.625,-1.28125 -0.94144,0 -1.7893,0.38305 -2.40625,1 -0.61696,-0.61695 -1.46481,-1 -2.40625,-1 -0.90046,0 -1.70307,0.36726 -2.3125,0.9375 -0.61125,-0.58023 -1.43442,-0.9375 -2.34375,-0.9375 z"
+       style="fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path1528"
+       d="m 154.67926,177.56064 v 40.59748"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend-0)"
+       d="M 408.86162,327.14846 V 286.55098"
+       id="path1528-0" />
+    <text
+       id="text1892"
+       y="170.89984"
+       x="143.59666"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         y="170.89984"
+         x="143.59666"
+         id="tspan1890"
+         sodipodi:role="line"><tspan
+           id="tspan56"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'">F</tspan><tspan
+           id="tspan1894"
+           style="font-size:65%;baseline-shift:sub">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="401.82669"
+       y="342.8364"
+       id="text1892-9"><tspan
+         sodipodi:role="line"
+         id="tspan1890-4"
+         x="401.82669"
+         y="342.8364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';fill:#ffffff;fill-opacity:1"><tspan
+           id="tspan62"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic';fill:#ffffff;fill-opacity:1">F</tspan><tspan
+           style="font-size:65%;baseline-shift:sub;fill:#ffffff;fill-opacity:1"
+           id="tspan1894-1">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="120.68121"
+       y="290.16513"
+       id="text1892-0"><tspan
+         sodipodi:role="line"
+         id="tspan1890-6"
+         x="120.68121"
+         y="290.16513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"><tspan
+           id="tspan58"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'">A</tspan><tspan
+           style="font-size:65%;baseline-shift:sub"
+           id="tspan1894-4">1</tspan></tspan></text>
+    <text
+       id="text1892-0-5"
+       y="276.53387"
+       x="322.84549"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         y="276.53387"
+         x="322.84549"
+         id="tspan1890-6-7"
+         sodipodi:role="line"><tspan
+           id="tspan60"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'">A</tspan><tspan
+           id="tspan1894-4-3"
+           style="font-size:65%;baseline-shift:sub">2</tspan></tspan></text>
+  </g>
+</svg>

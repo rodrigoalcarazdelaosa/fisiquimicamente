@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="dilatacion-web.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 141.88876 40.90348"
+   height="40.903481mm"
+   width="141.88876mm"
+   inkscape:export-filename="/Users/rodrigoalcarazdelaosa/Documents/GitHub/rodrigoalcarazdelaosa.me/static/img/energia-trabajo-calor-4ESO/dilatacion.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip61-2">
+      <path
+         inkscape:connector-curvature="0"
+         id="path675-9"
+         d="M 0,0 V 913 H 1616 V 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4695">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4693"
+         d="M 0,0 V 913 H 1616 V 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4699">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4697"
+         d="M 0,0 V 913 H 1616 V 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4703">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4701"
+         d="M 0,0 V 913 H 1616 V 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4711">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4709"
+         d="M 0,0 V 913 H 1616 V 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4715">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4713"
+         d="M 0,0 V 913 H 1616 V 0 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="787"
+     inkscape:window-width="1440"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="81.618802"
+     inkscape:cx="261.7319"
+     inkscape:zoom="2.0153513"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-14.478235,-10.854074)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <rect
+       id="rect880"
+       width="141.88876"
+       height="40.903481"
+       x="14.478235"
+       y="10.854074"
+       style="fill:#ffffff;stroke-width:1.07639" />
+    <rect
+       style="fill:#2a54a9;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       y="24.949514"
+       x="19.610527"
+       height="3.2127976"
+       width="119.0625"
+       id="rect21" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 19.610529,20.971786 v -3.48625"
+       id="path5396"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5398"
+       d="m 138.67302,20.971786 v -3.48625"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path5430"
+       d="M 135.77167,19.228666 H 83.494921 m -8.102384,0 H 23.422239"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g5432"
+       transform="matrix(0,-0.31984254,0.31984254,0,-17.303655,119.97906)"
+       style="display:inline;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+      <clipPath
+         id="clipPath5434">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5436"
+           d="M 0,0 V 913 H 1616 V 0 Z" />
+      </clipPath>
+      <g
+         id="g5438"
+         clip-path="url(#clip61-2)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="g5440"
+           fill-rule="nonzero;">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5442"
+             d="m 315,115 3.5,14 h -7 z" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip61 -->
+    </g>
+    <g
+       style="display:inline;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0,-0.31984254,-0.31984254,0,175.5872,119.97906)"
+       id="g5444">
+      <clipPath
+         id="clipPath5446">
+        <path
+           d="M 0,0 V 913 H 1616 V 0 Z"
+           id="path5448"
+           inkscape:connector-curvature="0" />
+      </clipPath>
+      <g
+         clip-path="url(#clip61-2)"
+         id="g5450">
+        <g
+           fill-rule="nonzero;"
+           id="g5452"
+           style="fill:#000000;fill-opacity:1;stroke:none">
+          <path
+             d="m 315,115 3.5,14 h -7 z"
+             id="path5454"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip61 -->
+    </g>
+    <rect
+       id="rect4607"
+       width="131.61115"
+       height="3.1997685"
+       x="19.617043"
+       y="35.53936"
+       style="fill:#2a54a9;fill-opacity:1;stroke:#000000;stroke-width:0.277612;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4611"
+       d="m 19.610528,45.842626 v -3.48626"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 151.23469,45.842626 v -3.48626"
+       id="path4613"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="M 151.12234,44.099496 H 88.791414 m -7.04405,0 h -58.84947"
+       id="path4615"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       style="display:inline;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0,-0.31984254,0.31984254,0,-17.303657,144.8499)"
+       id="g4627">
+      <clipPath
+         id="clipPath4619">
+        <path
+           d="M 0,0 V 913 H 1616 V 0 Z"
+           id="path4617"
+           inkscape:connector-curvature="0" />
+      </clipPath>
+      <g
+         clip-path="url(#clip61-2)"
+         id="g4625">
+        <g
+           fill-rule="nonzero;"
+           id="g4623"
+           style="fill:#000000;fill-opacity:1;stroke:none">
+          <path
+             d="m 315,115 3.5,14 h -7 z"
+             id="path4621"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip61 -->
+    </g>
+    <g
+       id="g4639"
+       transform="matrix(0,-0.31984254,-0.31984254,0,188.14889,144.8499)"
+       style="display:inline;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+      <clipPath
+         id="clipPath4631">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4629"
+           d="M 0,0 V 913 H 1616 V 0 Z" />
+      </clipPath>
+      <g
+         id="g4637"
+         clip-path="url(#clip61-2)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="g4635"
+           fill-rule="nonzero;">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4633"
+             d="m 315,115 3.5,14 h -7 z" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip61 -->
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 151.23469,20.971786 v -3.48625"
+       id="path4649"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 147.4929,19.228666 h -4.8745"
+       id="path4651"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       style="display:inline;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0,-0.31984254,0.31984254,0,101.89248,119.97906)"
+       id="g4663">
+      <clipPath
+         id="clipPath4655">
+        <path
+           d="M 0,0 V 913 H 1616 V 0 Z"
+           id="path4653"
+           inkscape:connector-curvature="0" />
+      </clipPath>
+      <g
+         clip-path="url(#clip61-2)"
+         id="g4661">
+        <g
+           fill-rule="nonzero;"
+           id="g4659"
+           style="fill:#000000;fill-opacity:1;stroke:none">
+          <path
+             d="m 315,115 3.5,14 h -7 z"
+             id="path4657"
+             inkscape:connector-curvature="0" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip61 -->
+    </g>
+    <g
+       id="g4675"
+       transform="matrix(0,-0.31984254,-0.31984254,0,188.14889,119.97906)"
+       style="display:inline;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">
+      <clipPath
+         id="clipPath4667">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4665"
+           d="M 0,0 V 913 H 1616 V 0 Z" />
+      </clipPath>
+      <g
+         id="g4673"
+         clip-path="url(#clip61-2)">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="g4671"
+           fill-rule="nonzero;">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4669"
+             d="m 315,115 3.5,14 h -7 z" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip61 -->
+    </g>
+    <g
+       id="g926"
+       stroke-miterlimit="10"
+       stroke-linecap="square"
+       fill-rule="nonzero;"
+       transform="matrix(0.27923519,0,0,0.27923519,137.31461,6.1341807)">
+      <text
+         id="text1044"
+         y="55.388783"
+         x="-212.28987"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.7407px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.947529"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.7407px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.947529"
+           y="55.388783"
+           x="-212.28987"
+           id="tspan1042"
+           sodipodi:role="line"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'"
+             id="tspan1176">l</tspan><tspan
+             style="font-size:65%;baseline-shift:sub"
+             id="tspan1178">0</tspan></tspan></text>
+    </g>
+    <text
+       id="text1052"
+       y="45.828934"
+       x="84.278175"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic';stroke-width:0.264583"
+         y="45.828934"
+         x="84.278175"
+         id="tspan1050"
+         sodipodi:role="line">l</tspan></text>
+    <text
+       id="text1060"
+       y="16.611885"
+       x="142.23364"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:6.35px;stroke-width:0.264583"
+         y="16.611885"
+         x="142.23364"
+         id="tspan1058"
+         sodipodi:role="line"><tspan
+           id="tspan1066"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">Δ</tspan><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'"
+           id="tspan1078">l</tspan></tspan></text>
+  </g>
+</svg>
