@@ -56,5 +56,5 @@ En formato **texto**, **diapositivas** y **póster** (_chuleta_)
 [2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) <br> [1º Bach](#primero-bach) | [2º Bach Física](#segundo-bach-fisica) | [2º Bach Química](#segundo-bach-quimica)
 
 {{% alert note %}}
-También te recomiendo echar un vistazo a las pizarras de Fiquipedia y a los resúmenes de Fisquiweb.
+También te recomiendo echar un vistazo a las [***pizarras* de Fiquipedia**] y a los [**resúmenes de Fisquiweb**].
 {{% /alert %}}
