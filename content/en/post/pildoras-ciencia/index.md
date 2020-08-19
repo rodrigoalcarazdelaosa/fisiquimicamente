@@ -3,6 +3,8 @@ title: Science Pills 💊💊
 subtitle: 10 things you can do, study or reflect on in the classroom
 summary: 10 things you can do, study or reflect on in the classroom.
 date: "2020-07-08T00:00:00Z"
+authors:
+- rodrigo-alcaraz-de-la-osa
 tags:
 categories:
 - Physics
