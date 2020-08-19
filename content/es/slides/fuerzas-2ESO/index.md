@@ -281,7 +281,7 @@ Un **imán** es un material u objeto que produce un *campo magnético*, responsa
 
 ---
 
-{{< figure library="true" src="fuerzas-2ESO/iman.png" lightbox="false" width="65%" >}}
+{{< figure library="true" src="fuerzas-2ESO/iman.svg" lightbox="false" width="65%" >}}
 
 ---
 
