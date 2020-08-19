@@ -94,7 +94,7 @@ f_\mathrm r = \mu N,
 $$
 donde $\mu$ es el coeficiente de rozamiento.
 
-{{< figure src="rozamiento.png" title="Fuerza de rozamiento en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="true" >}}
+{{< figure src="rozamiento.svg" title="Fuerza de rozamiento en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="false" width="100%" >}}
 
 Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**:
 
