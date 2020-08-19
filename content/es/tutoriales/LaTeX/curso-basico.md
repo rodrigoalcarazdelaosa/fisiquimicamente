@@ -75,7 +75,7 @@ Primer documento. Este es un ejemplo simple, sin incluir ningún parámetro (opc
 ```
 lo que $\LaTeX$ transforma en:
 
-{{< figure library="true" src="LaTeX/curso-basico/primer_documento.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/primer_documento.svg" lightbox="false" width="100%" >}}
 
 ## El preámbulo de un documento
 En el anterior ejemplo hemos introducido texto directamente después del comando `\begin{document}`. El **preámbulo** es todo aquello que aparece _antes_ de ese comando. En el preámbulo se define el tipo de documento que estamos escribiendo, el idioma en el que lo escribimos, los paquetes que queremos usar y muchos otros elementos.
