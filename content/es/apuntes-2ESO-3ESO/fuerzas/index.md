@@ -100,7 +100,7 @@ $$
 {{< figure library="true" src="fuerzas-2ESO/cuña.svg" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)" lightbox="false" width="50%" >}}
 
 ### Tornillo
-{{< figure library="true" src="fuerzas-2ESO/tornillo.png" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" width="50%" >}}
+{{< figure library="true" src="fuerzas-2ESO/tornillo.svg" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="50%" >}}
 
 ## Principales fuerzas de la naturaleza
 ### Rozamiento
