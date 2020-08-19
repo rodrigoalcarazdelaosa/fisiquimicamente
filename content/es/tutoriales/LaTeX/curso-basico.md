@@ -525,6 +525,6 @@ Etiam lobortis facilisissem
 \end{document}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/indice.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/indice.svg" lightbox="false" width=100% >}}
 
 Los capítulos (`\chapter{...}`), secciones (`\section{...}`) y subsecciones (`\subsection{...}`) se incluyen automática en el índice. Para incluir manualmente otras entradas, como secciones no numeradas (`\section*{...}`), podemos utilizar el comando `\addcontentsline`, como se ve en el ejemplo.
