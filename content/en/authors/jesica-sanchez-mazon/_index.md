@@ -33,8 +33,8 @@ education:
   - course: Master's Degree in Teacher Training
     institution: UNIR
     year: 2020
-  - course: Medical Physicist | Stay at Duke University Medical Center
-    institution: HUMV
+  - course: Medical Physicist
+    institution: HUMV | Stay at Duke University Medical Center
     year: 2013
   - course: Degree in Physics
     institution: University of Cantabria
