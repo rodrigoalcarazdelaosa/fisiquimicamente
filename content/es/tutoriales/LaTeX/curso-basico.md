@@ -481,7 +481,7 @@ La tabla \ref{tab:ejemplo_booktabs} muestra un ejemplo de uso de los comandos de
 \end{document}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/ejemplo_tabla.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/ejemplo-tabla.svg" lightbox="false" width="100%" >}}
 
 ## Añadiendo un índice
 Crear el índice de un documento es tan fácil como escribir el comando `\tableofcontents` donde queramos incluirlo, y $\LaTeX$ hará todo el trabajo por nosotros, como en el siguiente ejemplo:
