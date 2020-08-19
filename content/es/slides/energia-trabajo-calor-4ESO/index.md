@@ -106,7 +106,7 @@ La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disi
 #### Ejemplo resuelto
 <q>Un carro de 50$\thinspace$kg desliza por una montaña rusa como la de la figura.</q>
 
-{{< figure library="true" src="energia-trabajo-calor-4ESO/montana-rusa.png" lightbox="false" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/montana-rusa.svg" lightbox="false" >}}
 
 ---
 
@@ -3446,7 +3446,7 @@ Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su te
 ---
 
 Si consideramos una varilla de longitud inicial $l_0$ a una temperatura inicial $T_0$ y elevamos su temperatura hasta $T$, la varilla aumentará su longitud hasta $l$.
-{{< figure library="true" src="energia-trabajo-calor-4ESO/dilatacion.png" lightbox="false" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/dilatacion.svg" lightbox="false" >}}
 
 ---
 
@@ -3593,7 +3593,7 @@ Consideramos una **máquina térmica** a un sistema que funciona **periódicamen
 
 ---
 
-{{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.png" title="Esquema de una **máquina térmica**." width="100%" lightbox="false" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.svg" title="Esquema de una **máquina térmica**." width="100%" lightbox="false" >}}
 
 ---
 
@@ -3638,6 +3638,6 @@ El más utilizado es el de **cuatro tiempos** (gasolina), siendo el **ciclo de O
 
 ---
 
-{{< figure library="true" src="energia-trabajo-calor-4ESO/motor-4-tiempos.png" lightbox="false" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/motor-4-tiempos.svg" lightbox="false" >}}
 
 {{% /section %}}
