@@ -83,7 +83,7 @@ En 1897, **Thomson descubre** la existencia del **electrón**, la partícula ele
 - Los **electrones**, con carga negativa, se encuentran **incrustados** por toda la esfera, como las **pasas** en un pastel.
 - El número total de electrones es tal que la carga neta del átomo es cero (**átomo neutro**).
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Thomson.png" title="Modelo de Thomson, también conocido como modelo del *pastel de pasas*." lightbox="true" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Thomson.svg" title="Modelo de Thomson, también conocido como modelo del *pastel de pasas*." lightbox="false" width="100%" >}}
 
 ### Modelo de Rutherford
 
@@ -115,7 +115,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 - El átomo está formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su masa.
 - Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.png" title="Modelo de Rutherford, también conocido como modelo *planetario*." lightbox="true" >}}		
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.svg" title="Modelo de Rutherford, también conocido como modelo *planetario*." lightbox="false" width="100%" >}}		
 
 ## Iones e isótopos
 ### Iones
