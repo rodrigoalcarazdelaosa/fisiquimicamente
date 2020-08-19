@@ -114,7 +114,7 @@ La fuerza de **rozamiento** está asociada al **contacto** entre **superficies**
 	- La **naturaleza** y el **estado** de las **superficies**.
 	- La **fuerza** que **ejerce** un **cuerpo** sobre otro.
 
-{{< figure library="true" src="fuerzas-2ESO/rozamiento.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:Fricci%C3%B3n_01.svg." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/rozamiento.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Fricci%C3%B3n_01.svg." lightbox="false" width="100%" >}}
 
 Puedes aprender más sobre la **naturaleza** del **rozamiento** con esta **simulación**:
 
