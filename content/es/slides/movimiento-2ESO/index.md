@@ -213,12 +213,12 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 ---
 
 ### Movimiento uniforme
-{{< figure library="true" src="movimiento-2ESO/graficas-MRU.png" lightbox="false" width="60%" >}}
+{{< figure library="true" src="movimiento-2ESO/graficas-MRU.svg" lightbox="false" width="60%" >}}
 
 ---
 
 ### Movimiento acelerado
-{{< figure library="true" src="movimiento-2ESO/graficas-MRUV.png" lightbox="false" width="60%" >}}
+{{< figure library="true" src="movimiento-2ESO/graficas-MRUV.svg" lightbox="false" width="60%" >}}
 
 {{% /section %}}
 
