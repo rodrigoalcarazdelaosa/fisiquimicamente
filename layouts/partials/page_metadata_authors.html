@@ -12,7 +12,9 @@
 	  {{ printf "%#v" $profile_page.RelPermalink }}
 	  {{- if eq $profile_page.RelPermalink "/author/rodrigo-alcaraz-de-la-osa/" -}}
         <a href="/sobre-mi/">{{$name}}</a>
-	  {{- else -}}
+	  {{- else if eq $profile_page.RelPermalink "/en/author/rodrigo-alcaraz-de-la-osa/" -}}
+        <a href="/en/sobre-mi/">{{$name}}</a>
+	  {{- else -}}		  
         <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
 	  {{- end -}}		
       {{- else -}}
