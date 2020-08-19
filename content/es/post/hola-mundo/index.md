@@ -3,6 +3,8 @@ title: Hola Mundo
 subtitle: Primera entrada en mi primer blog
 summary: Primera entrada en mi primer blog.
 date: "2020-04-28T00:00:00Z"
+authors:
+- rodrigo-alcaraz-de-la-osa
 image:
   placement: 3
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) en [Unsplash](https://unsplash.com)
