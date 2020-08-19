@@ -190,7 +190,7 @@ También puedes arender más sobre la **electricidad estática** con esta **simu
 ### Magnética
 Un **imán** es un material u objeto que produce un *campo magnético*, responsable de la **fuerza** de **atracción** o **repulsión** que ejerce sobre otros materiales, como el hierro (Fe).
 
-{{< figure library="true" src="fuerzas-2ESO/iman.png" title="Adaptada de https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_magnet.svg." lightbox="true" >}}
+{{< figure library="true" src="fuerzas-2ESO/iman.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:VFPt_cylindrical_magnet.svg." lightbox="false" width="100%" >}}
 
 #### Partes de un imán
 ##### Eje magnético
