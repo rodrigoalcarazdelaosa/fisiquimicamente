@@ -139,7 +139,7 @@ Para que esa información aparezca en el documento, tenemos que incluir el coman
 \end{document}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/primer_documento_maketitle.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/primer-documento-maketitle.svg" lightbox="false" with="100%" >}}
 
 ## Añadiendo comentarios
 Como siempre que se escribe código, es muy útil y recomendable incluir **comentarios**. Los comentarios son trozos de texto que se pueden incluir en el propio código pero que no se imprimen ni afectan al documento de ninguna forma. Son útiles para organizar el trabajo, tomar notas, explicar el código o depurarlo comentando ciertas líneas/secciones. Para hacer un comentario en $\LaTeX$, simplemente escribe el símbolo `%` al principio de la línea:
