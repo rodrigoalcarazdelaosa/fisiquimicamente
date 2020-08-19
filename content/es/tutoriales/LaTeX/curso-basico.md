@@ -437,7 +437,7 @@ A continuación puedes ver el ejemplo más sencillo de una tabla en $\LaTeX$:
 \end{tabular}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/tabular.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/tabular.svg" lightbox="false" width="100%" >}}
 
 El entorno `tabular` es el método por defecto de $\LaTeX$ para crear tablas. Entre llaves le indicamos cuántas columnas tendrá la tabla y cómo estará justificado el texto. En este caso `{ccc}` indica que habrá tres columnas y que el texto estará centrado (`c`). También se puede utilizar `r` para alinear el texto a la derecha o `l` para alinearlo a la izquierda. El símbolo de alineación `&` se utiliza para especificar los saltos entre columnas[^10] y el símbolo `\\` para especificar los saltos entre filas.
 
