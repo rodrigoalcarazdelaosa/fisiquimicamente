@@ -10,7 +10,7 @@
     <span {{ if site.Params.highlight_superuser | and (eq $profile_page.Params.superuser true) }}class="font-weight-bold"{{end}}>
       {{- if and $profile_page $link_authors -}}
 	  {{- if eq $profile_page.RelPermalink "/author/rodrigo-alcaraz-de-la-osa/" -}}
-        <a href="sobre-mi/" | absLangURL>{{$name}}</a>
+        <a href="/sobre-mi/" | absLangURL>{{$name}}</a>
 	  {{- else -}}
         <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
 	  {{- end -}}		
