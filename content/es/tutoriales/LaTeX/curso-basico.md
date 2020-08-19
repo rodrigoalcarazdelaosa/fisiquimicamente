@@ -245,7 +245,7 @@ Las listas no ordenadas, también conocidas como *viñetas*, se crean con el ent
 \end{itemize}
 ```
 
-{{< figure library="true" src="LaTeX/curso-basico/itemize.jpg" lightbox="true" >}}
+{{< figure library="true" src="LaTeX/curso-basico/itemize.svg" lightbox="false" width="100%" >}}
 
 ### Listas ordenadas
 
