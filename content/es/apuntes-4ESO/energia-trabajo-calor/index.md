@@ -3468,7 +3468,7 @@ de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
 ## Máquinas térmicas
 Consideramos una **máquina térmica** a un sistema que funciona **periódicamente** entre dos focos a distinta temperatura, y transforma parte del calor absorbido del foco caliente en trabajo, cediendo otra parte al foco frío:
 
-{{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.png" title="Esquema de una **máquina térmica**. La máquina absorbe calor desde la fuente caliente *T*<sub>1</sub> y cede calor a la fría *T*<sub>2</sub>, produciendo trabajo: *Q*<sub>1</sub> = *W* + |*Q*<sub>2</sub>|. Adaptada de [https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg)." lightbox="true" >}}
+{{< figure library="true" src="energia-trabajo-calor-4ESO/maquina-termica.svg" title="Esquema de una **máquina térmica**. La máquina absorbe calor desde la fuente caliente *T*<sub>1</sub> y cede calor a la fría *T*<sub>2</sub>, produciendo trabajo: *Q*<sub>1</sub> = *W* + |*Q*<sub>2</sub>|. Adaptada de [https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg](https://commons.wikimedia.org/wiki/File:Carnot_heat_engine_2.svg)." lightbox="false" width="100%" >}}
 
 ### Rendimiento energético
 Llamamos **rendimiento energético**, $\eta$, al cociente entre el *beneficio* y el *coste*:
