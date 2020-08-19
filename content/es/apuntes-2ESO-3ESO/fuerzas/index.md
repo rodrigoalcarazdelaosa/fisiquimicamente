@@ -97,7 +97,7 @@ $$
 {{< figure library="true" src="fuerzas-2ESO/plano-inclinado.png" title="[Pearson Scott Foresman](https://commons.wikimedia.org/wiki/File:Inclined_Plane_(PSF).png)" lightbox="true" >}}
 
 ### Cuña
-{{< figure library="true" src="fuerzas-2ESO/cuña.svg" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)" lightbox="false" width="50%" >}}
+{{< figure library="true" src="fuerzas-2ESO/cuna.svg" title="[Iainf](https://commons.wikimedia.org/wiki/File:Wedge-diagram.svg)" lightbox="false" width="50%" >}}
 
 ### Tornillo
 {{< figure library="true" src="fuerzas-2ESO/tornillo.svg" title="Imagen de [Paweł Szpiler](https://pixabay.com/es/users/1187283-1187283/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="50%" >}}
