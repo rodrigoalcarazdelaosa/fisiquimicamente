@@ -72,7 +72,7 @@ donde $k$ es la llamada **constante de elasticidad** del muelle.
 
 Como se puede ver en la figura, el **alargamiento** sufrido por el muelle es **proporcional** a la **fuerza** ejercida sobre él.
 
-{{< figure library="true" src="fuerzas-2ESO/hooke.png" lightbox="false" width="55%" >}}
+{{< figure library="true" src="fuerzas-2ESO/hooke.svg" lightbox="false" width="55%" >}}
 
 ---
 
