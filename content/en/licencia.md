@@ -1,5 +1,6 @@
 ---
 title: "LICENSE: CC BY-SA"
+slug: "license"
 linktitle: "<i class=\"fab fa-creative-commons fa-2x mr-1\"></i><i class=\"fab fa-creative-commons-by fa-2x mr-1\"></i><i class=\"fab fa-creative-commons-sa fa-2x\"></i>"
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
