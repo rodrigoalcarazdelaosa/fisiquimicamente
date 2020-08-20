@@ -21,10 +21,10 @@ subtitle = ""
   description = "[13-14 year-olds](notes/#segundo-eso) | [14-15 year-olds](notes/#tercero-eso) | [15-16 year-olds](notes/#cuarto-eso) <br> [16-17 year-olds](notes/#primero-bach) | [17-18 year-olds Physics](notes/#segundo-bach-fisica) | [17-18 year-olds Chemistry](notes/#segundo-bach-quimica) <br> [IUPAC Nomenclature](notes/#formulacion-nomenclatura-iupac)"
   
 [[feature]]
-  icon = "[🎓](recursos-ebau/)"
+  icon = "[🎓](ebau-resources/)"
   icon_pack = "emoji"
-  name = "[EBAU resources](recursos-ebau/)"
-  description = "☢️ [Physics](recursos-ebau/#examenes-fisica) | ⚗️ [Chemistry](recursos-ebau/#examenes-quimica) <br> 💡[Tips](recursos-ebau/#consejos)"
+  name = "[EBAU resources](ebau-resources/)"
+  description = "☢️ [Physics](ebau-resources/#examenes-fisica) | ⚗️ [Chemistry](ebau-resources/#examenes-quimica) <br> 💡[Tips](ebau-resources/#consejos)"
   
 [[feature]]
   icon = "[👐](tutoriales/)"
