@@ -3,9 +3,9 @@ title: Inorganic
 subtitle: IUPAC Nomenclature of Inorganic Chemistry
 summary: "`COMING SOON` <br> IUPAC Nomenclature of Inorganic Chemistry."
 tags:
-- inorgánica
+- inorganic
 categories:
-- Química
+- Chemistry
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
