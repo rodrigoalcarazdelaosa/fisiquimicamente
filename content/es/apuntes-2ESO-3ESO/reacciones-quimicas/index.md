@@ -1,7 +1,7 @@
 ---
 title: Reacciones químicas
-subtitle: Interpretación de reacciones químicas
-summary: "`EN CONSTRUCCIÓN` <br> Cambios físicos y químicos. La reacción química. Iniciación a la estequiometría. Ley de conservación de la masa. Velocidad de reacción. La química en la sociedad y el medio ambiente."
+subtitle: Interpretación de reacciones químicas e iniciación a la estequiometría
+summary: "`EN CONSTRUCCIÓN` <br> Cambios físicos y químicos. La reacción química. Iniciación a la estequiometría. Ley de conservación de la masa. Velocidad de reacción. La Química en la sociedad y el medio ambiente."
 tags:
 - 2º ESO
 - 3º ESO
