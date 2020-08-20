@@ -6,6 +6,7 @@ tags:
 - formulación
 - nomenclatura
 - inorgánica
+- IUPAC
 categories:
 - Química
 
