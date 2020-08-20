@@ -3,6 +3,8 @@ title: Organic
 subtitle: IUPAC Nomenclature of Organic Chemistry
 summary: "`COMING SOON` <br> IUPAC Nomenclature of Organic Chemistry."
 tags:
+- IUPAC
+- nomenclature
 - organic
 categories:
 - Chemistry
