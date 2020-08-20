@@ -53,25 +53,25 @@
   
 [[main]]
   name = "🎓 EBAU resources"
-  url = "recursos-ebau/"
+  url = "ebau-resources/"
   identifier = "recursos-ebau"
   weight = 2
   
 [[main]]
   name = "☢️ Physics"
-  url = "recursos-ebau/#examenes-fisica"
+  url = "ebau-resources/#examenes-fisica"
   parent = "recursos-ebau"
   weight = 1
   
 [[main]]
   name = "⚗️ Chemistry"
-  url = "recursos-ebau/#examenes-quimica"
+  url = "ebau-resources/#examenes-quimica"
   parent = "recursos-ebau"
   weight = 2  
   
 [[main]]
   name = "💡 Tips"
-  url = "recursos-ebau/#consejos"
+  url = "ebau-resources/#consejos"
   parent = "recursos-ebau"
   weight = 3  
 
