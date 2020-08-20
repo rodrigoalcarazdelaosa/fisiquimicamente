@@ -139,7 +139,7 @@
   name = "✈️ Research stays"
   url = "sobre-mi/#estancias-investigacion"
   parent = "sobre-mi"
-  weight = 3    
+  weight = 3
 
 [[main]]
   name = "✉️ Contact"
