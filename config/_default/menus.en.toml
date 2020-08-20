@@ -95,7 +95,7 @@
 
 [[main]]
   name = "🔗 Interesting links"
-  url = "en/enlaces-interes/"  
+  url = "interesting-links/"  
   identifier = "enlaces-interes"
   weight = 4  
 
