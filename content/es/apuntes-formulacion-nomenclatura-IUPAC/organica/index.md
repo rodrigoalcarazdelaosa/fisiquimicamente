@@ -3,6 +3,8 @@ title: Orgánica
 subtitle: Formulación y nomenclatura de compuestos orgánicos
 summary: "`PRÓXIMAMENTE` <br> Formulación y nomenclatura de compuestos orgánicos."
 tags:
+- formulación
+- nomenclatura
 - orgánica
 categories:
 - Química
