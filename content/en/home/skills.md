@@ -27,10 +27,10 @@ subtitle = ""
   description = "☢️ [Physics](ebau-resources/#examenes-fisica) | ⚗️ [Chemistry](ebau-resources/#examenes-quimica) <br> 💡[Tips](ebau-resources/#consejos)"
   
 [[feature]]
-  icon = "[👐](tutoriales/)"
+  icon = "[👐](tutorials/)"
   icon_pack = "emoji"
-  name = "[Tutorials](tutoriales/)"
-  description = "[$\\LaTeX$](tutoriales/latex) | [Presentation of information](tutoriales/presentacion-informacion)"
+  name = "[Tutorials](tutorials/)"
+  description = "[$\\LaTeX$](tutorials/latex) | [Presentation of information](tutorials/presentacion-informacion)"
   
 [[feature]]
   icon = "[🔗](interesting-links/)"
