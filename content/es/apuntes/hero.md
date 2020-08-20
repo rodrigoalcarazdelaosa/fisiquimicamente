@@ -53,7 +53,7 @@ hero_media = ""
 
 En formato **texto**, **diapositivas** y **póster** (_chuleta_)
 
-[2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) <br> [1º Bach](#primero-bach) | [2º Bach Física](#segundo-bach-fisica) | [2º Bach Química](#segundo-bach-quimica)
+[2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) <br> [1º Bach](#primero-bach) | [2º Bach Física](#segundo-bach-fisica) | [2º Bach Química](#segundo-bach-quimica) <br> [Formulación y nomenclatura IUPAC](#formulacion-nomenclatura-iupac)
 
 {{% alert note %}}
 También te recomiendo echar un vistazo a las [***pizarras* de FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes de FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
