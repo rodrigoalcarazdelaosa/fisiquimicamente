@@ -5,49 +5,49 @@
 
 [[main]]
   name = "📚 Notes"
-  url = "apuntes/"
+  url = "notes/"
   identifier = "apuntes"
   weight = 1
   
 [[main]]
   name = "13-14 year-olds"
-  url = "apuntes/#segundo-eso"
+  url = "notes/#segundo-eso"
   parent = "apuntes"
   weight = 1
 
 [[main]]
   name = "14-15 year-olds"
-  url = "apuntes/#tercero-eso"
+  url = "notes/#tercero-eso"
   parent = "apuntes"
   weight = 2
 
 [[main]]
   name = "15-16 year-olds"
-  url = "apuntes/#cuarto-eso"
+  url = "notes/#cuarto-eso"
   parent = "apuntes"
   weight = 3
 
 [[main]]
   name = "16-17 year-olds"
-  url = "apuntes/#primero-bach"
+  url = "notes/#primero-bach"
   parent = "apuntes"
   weight = 4
 
 [[main]]
   name = "17-18 year-olds Physics"
-  url = "apuntes/#segundo-bach-fisica"
+  url = "notes/#segundo-bach-fisica"
   parent = "apuntes"
   weight = 5
   
 [[main]]
   name = "17-18 year-olds Chemistry"
-  url = "apuntes/#segundo-bach-quimica"
+  url = "notes/#segundo-bach-quimica"
   parent = "apuntes"
   weight = 6  
   
 [[main]]
   name = "IUPAC Nomenclature"
-  url = "apuntes/#formulacion-nomenclatura-iupac"
+  url = "notes/#formulacion-nomenclatura-iupac"
   parent = "apuntes"
   weight = 7  
   
