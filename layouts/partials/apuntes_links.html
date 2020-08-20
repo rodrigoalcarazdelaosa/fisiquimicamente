@@ -144,7 +144,7 @@
   {{ end }}
   {{ $link := .url | default "" }}
   {{ $scheme := (urls.Parse $link).Scheme }}
-  {{ $target := "" }}
+  {{ $target := "target=\"_blank\" rel=\"noopener\"" }}
   {{ if not $scheme }}
     {{ $resource := $page.Resources.GetMatch $link }}
     {{ if $resource }}
