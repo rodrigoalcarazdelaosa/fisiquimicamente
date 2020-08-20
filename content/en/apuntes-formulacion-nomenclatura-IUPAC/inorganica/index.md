@@ -1,5 +1,5 @@
 ---
-title: Inorganic
+title: Inorganic Chemistry
 subtitle: IUPAC Nomenclature of Inorganic Chemistry
 summary: "`COMING SOON` <br> IUPAC Nomenclature of Inorganic Chemistry."
 tags:
