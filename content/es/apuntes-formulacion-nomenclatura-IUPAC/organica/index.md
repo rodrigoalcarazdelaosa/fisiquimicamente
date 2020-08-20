@@ -1,5 +1,5 @@
 ---
-title: Orgánica
+title: Química orgánica
 subtitle: Formulación y nomenclatura de compuestos orgánicos
 summary: "`PRÓXIMAMENTE` <br> Formulación y nomenclatura de compuestos orgánicos."
 tags:
