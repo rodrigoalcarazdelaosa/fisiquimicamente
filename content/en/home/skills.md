@@ -33,9 +33,9 @@ subtitle = ""
   description = "[$\\LaTeX$](tutoriales/latex) | [Presentation of information](tutoriales/presentacion-informacion)"
   
 [[feature]]
-  icon = "[🔗](enlaces-interes/)"
+  icon = "[🔗](interesting-links/)"
   icon_pack = "emoji"
-  name = "[Interesting links](enlaces-interes/)"
+  name = "[Interesting links](interesting-links/)"
   description = ""
   
 [[feature]]
