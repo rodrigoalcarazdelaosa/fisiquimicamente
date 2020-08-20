@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📚](apuntes/)"
+  icon = "[📚](notes/)"
   icon_pack = "emoji"
   name = "[Physics and Chemistry notes](apuntes/)"
   description = "[13-14 year-olds](apuntes/#segundo-eso) | [14-15 year-olds](apuntes/#tercero-eso) | [15-16 year-olds](apuntes/#cuarto-eso) <br> [16-17 year-olds](apuntes/#primero-bach) | [17-18 year-olds Physics](apuntes/#segundo-bach-fisica) | [17-18 year-olds Chemistry](apuntes/#segundo-bach-quimica) <br> [IUPAC Nomenclature](apuntes/#formulacion-nomenclatura-iupac)"
