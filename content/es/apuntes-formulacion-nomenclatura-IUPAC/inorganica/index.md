@@ -1,5 +1,5 @@
 ---
-title: Inorgánica
+title: Química inorgánica
 subtitle: Formulación y nomenclatura de compuestos inorgánicos
 summary: "`PRÓXIMAMENTE` <br> Formulación y nomenclatura de compuestos inorgánicos."
 tags:
