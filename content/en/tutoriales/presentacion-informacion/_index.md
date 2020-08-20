@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Presentation of information
+linktitle: Presentation of Information
 summary: Learn how to correctly present information.
 weight: 2
 
 # Page metadata.
-title: Presentation of information
+title: Presentation of Information
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   presentacion-informacion:
-    name: Presentation of information
+    name: Presentation of Information
     weight: 1
 ---
 
