@@ -46,6 +46,12 @@
   weight = 6
   
 [[main]]
+  name = "Formulación y nomenclatura IUPAC"
+  url = "apuntes/#formulacion-nomenclatura-iupac"
+  parent = "apuntes"
+  weight = 7  
+  
+[[main]]
   name = "🎓 Recursos EBAU"
   url = "recursos-ebau/"
   identifier = "recursos-ebau"
