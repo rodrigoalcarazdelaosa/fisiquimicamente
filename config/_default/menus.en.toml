@@ -119,25 +119,25 @@
 
 [[main]]
   name = "👨‍🔬 About me"
-  url = "sobre-mi/"
+  url = "about-me/"
   identifier = "sobre-mi"
   weight = 6
   
 [[main]]
   name = "👨‍🔬 Interests and education"
-  url = "sobre-mi/"
+  url = "about-me/"
   parent = "sobre-mi"
   weight = 1
 
 [[main]]
   name = "👣 Career path"
-  url = "sobre-mi/#trayectoria-profesional"
+  url = "about-me/#trayectoria-profesional"
   parent = "sobre-mi"
   weight = 2  
   
 [[main]]
   name = "✈️ Research stays"
-  url = "sobre-mi/#estancias-investigacion"
+  url = "about-me/#estancias-investigacion"
   parent = "sobre-mi"
   weight = 3
 
