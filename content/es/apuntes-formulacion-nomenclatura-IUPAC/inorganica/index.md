@@ -14,7 +14,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**Gonz DDL**](https://unsplash.com/@gonz_ddl) en [Unsplash](https://unsplash.com)
+  caption: https://iupac.org/what-we-do/books/redbook/
   focal_point: Smart
 
 # links:
