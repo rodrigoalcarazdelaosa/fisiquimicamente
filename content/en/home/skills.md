@@ -45,10 +45,10 @@ subtitle = ""
   description = "[Twitter](#novedades) | 💬 [Blog](post/)"
   
 [[feature]]
-  icon = "[:man_scientist:](sobre-mi/)‍"
+  icon = "[:man_scientist:](about-me/)‍"
   icon_pack = "emoji"
-  name = "[About me](sobre-mi/)"
-  description = "👣 [Career path](sobre-mi/#trayectoria-profesional) <br> ✈️ [Research stays](sobre-mi/#estancias-investigacion)"
+  name = "[About me](about-me/)"
+  description = "👣 [Career path](about-me/#trayectoria-profesional) <br> ✈️ [Research stays](about-me/#estancias-investigacion)"
   
 [design.background]
   # Apply a background color, gradient, or image.
