@@ -46,8 +46,8 @@
   weight = 6
   
 [[main]]
-  name = "Formulación y nomenclatura IUPAC"
-  url = "apuntes/#formulacion-nomenclatura-iupac"
+  name = "Nomenclatura de Química"
+  url = "apuntes/#nomenclatura-quimica"
   parent = "apuntes"
   weight = 7
   
