@@ -166,7 +166,11 @@ $$
 
 y la **reacción** queda **ajustada**.
 
+---
+
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" lightbox="false" width="100%" >}}
+
+---
 
 Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simulaciones**:
 
