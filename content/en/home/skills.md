@@ -18,7 +18,7 @@ subtitle = ""
   icon = "[📚](notes/)"
   icon_pack = "emoji"
   name = "[Physics and Chemistry notes](notes/)"
-  description = "[13-14 year-olds](notes/#segundo-eso) | [14-15 year-olds](notes/#tercero-eso) | [15-16 year-olds](notes/#cuarto-eso) <br> [16-17 year-olds](notes/#primero-bach) | [17-18 year-olds Physics](notes/#segundo-bach-fisica) | [17-18 year-olds Chemistry](notes/#segundo-bach-quimica) <br> [IUPAC Nomenclature](notes/#formulacion-nomenclatura-iupac)"
+  description = "[13-14 year-olds](notes/#segundo-eso) | [14-15 year-olds](notes/#tercero-eso) | [15-16 year-olds](notes/#cuarto-eso) <br> [16-17 year-olds](notes/#primero-bach) | [17-18 year-olds Physics](notes/#segundo-bach-fisica) | [17-18 year-olds Chemistry](notes/#segundo-bach-quimica) <br> [Nomenclature of Chemistry](notes/#nomenclatura-quimica)"
   
 [[feature]]
   icon = "[🎓](ebau-resources/)"
