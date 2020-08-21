@@ -143,3 +143,8 @@ Un **catalizador** es una **sustancia** que **altera** la **velocidad** de una *
 **Disminuyen** la **velocidad** de **reacción** o directamente evitan que se produzca (**inhibidores**).
 
 ## La química en la sociedad y el medio ambiente
+Los **gases** de **efecto invernadero**, como el $\ce{CO2}$, el $\ce{CH4}$, el $\ce{N2O}$ (*gas de la risa*) o los óxidos de azufre, son gases que **absorben** y **emiten radiación infrarroja**, provocando un **calentamiento** de la superficie de la Tierra. La **actividad humana** industrial ha provocado sobretodo un **aumento** de las **emisiones** de $\ce{CO2}$, desestabilizando la atmósfera.
+
+\begin{center}
+	\includegraphics[width=\textwidth]{efecto-invernadero} \\ {\small Traducida de \url{https://commons.wikimedia.org/wiki/File:The_Greenhouse_Effect.svg}.}
+\end{center}	
