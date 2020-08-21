@@ -109,6 +109,8 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 ### Ley de conservación de la masa
 > En un sistema aislado, durante toda reacción química ordinaria, la masa total en el sistema permanece constante, es decir, la masa consumida de los reactivos es igual a la masa de los productos obtenidos.
 
+---
+
 La **ley de conservación de la masa** implica dos **principios**:
 
 1. El número total de átomos antes y después de una reacción no cambia.
