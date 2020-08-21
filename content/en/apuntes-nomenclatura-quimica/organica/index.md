@@ -1,7 +1,7 @@
 ---
 title: Nomenclature of Organic Chemistry
-subtitle: IUPAC Recommendations 2013
-summary: "`COMING SOON` <br> IUPAC Recommendations 2013."
+subtitle: IUPAC Recommendations and Preferred Names 2013
+summary: "`COMING SOON` <br> IUPAC Recommendations and Preferred Names 2013."
 tags:
 - IUPAC
 - nomenclature
