@@ -92,7 +92,11 @@ Empezamos por el $\ce{C}$: vemos que a la izquierda hay 1 átomo de $\ce{C}$ y a
 
 ---
 
-Después miramos el $\ce{H}$: vemos que a la izquierda hay cuatro átomos de $\ce{H}$ y a la derecha solo hay 2. Por tanto debemos poner un 2 en la molécula de agua:
+Después miramos el $\ce{H}$: vemos que a la izquierda hay 4 átomos de $\ce{H}$ y a la derecha solo hay 2. Por tanto debemos poner un 2 en la molécula de agua:
+
+$$
+\ce{CH4 + O2 -> CO2 + 2H2O}
+$$
 
 {{% /alert %}}
 
