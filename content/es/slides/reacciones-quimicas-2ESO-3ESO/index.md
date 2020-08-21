@@ -234,7 +234,7 @@ Distinguimos entre **catalizadores**:
 {{% section %}}
 
 ## La química en la sociedad y el medio ambiente
-Los **gases** de **efecto invernadero**, como el $\ce{CO2}$, el $\ce{CH4}$, el $\ce{N2O}$ (*gas de la risa*) o los óxidos de azufre, son gases que **absorben** y **emiten radiación infrarroja**, provocando un **calentamiento** de la superficie de la Tierra. La **actividad humana** industrial ha provocado sobretodo un **aumento** de las **emisiones** de **CO<sub>2</sub>**, desestabilizando la atmósfera.
+Los **gases** de **efecto invernadero**, como el CO<sub>2</sub>, el CH<sub>4</sub>, el N<sub>2</sub>O (*gas de la risa*) o los óxidos de azufre, son gases que **absorben** y **emiten radiación infrarroja**, provocando un **calentamiento** de la superficie de la Tierra. La **actividad humana** industrial ha provocado sobretodo un **aumento** de las **emisiones** de **CO<sub>2</sub>**, desestabilizando la atmósfera.
 
 (continúa hacia abajo)
 
