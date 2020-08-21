@@ -139,11 +139,10 @@ Los **coeficientes estequiométricos** indican el número de átomos/moléculas/
 ---
 
 ### Ejemplo resuelto
-<q>Se desea ajustar la siguiente ecuación química, que describe la **combustión** del **metano**:
+<q>Se desea ajustar la siguiente ecuación química, que describe la **combustión** del **metano**:</q>
 $$
 \mathrm{CH}_4 + \mathrm{O}_2 \rightarrow \mathrm{CO}_2 + \mathrm{H_2O}
 $$
-</q>
 
 ---
 
