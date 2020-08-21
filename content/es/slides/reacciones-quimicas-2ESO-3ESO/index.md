@@ -158,7 +158,7 @@ $$
 
 ---
 
-Seguimos con el $\ce{O}$: a la izquierda hay 2 átomos mientras que a la derecha hay $2+2\times 1=4$ átomos. Por lo tanto debemos colocar un 2 en el $\ce{O2}$:
+Seguimos con el O: a la izquierda hay 2 átomos mientras que a la derecha hay $2+2\times 1=4$ átomos. Por lo tanto debemos colocar un 2 en el O$_2$:
 
 $$
 \ce{CH4 + 2O2 -> CO2 + 2H2O}
