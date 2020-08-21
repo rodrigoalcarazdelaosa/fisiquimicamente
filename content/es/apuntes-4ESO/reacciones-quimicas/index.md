@@ -69,7 +69,7 @@ En el ejemplo se comienza por el $\ce{Mn}$: vemos que a la izquierda hay 1 átom
 
 ---
 
-Después miramos el $\ce{O}$: vemos que a la izquierda hay dos átomos de $\ce{O}$ y a la derecha solo hay 1. Por tanto debemos poner un 2 en la molécula de agua:
+Después miramos el $\ce{O}$: vemos que a la izquierda hay 2 átomos de $\ce{O}$ y a la derecha solo hay 1. Por tanto debemos poner un 2 en la molécula de agua:
 
 $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + 2H2O}
@@ -97,7 +97,7 @@ $$
 
 {{% /alert %}}
 
-Puedes practicar más el **ajuste** de **ecuaciones** con estas **simulaciones**:
+Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simulaciones**:
 
 <iframe src="https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
