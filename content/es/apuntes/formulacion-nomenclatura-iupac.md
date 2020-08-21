@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 7  # Order that this section will appear.
 
-title = "Nomenclatura química"
+title = "Nomenclatura de Química"
 subtitle = "Recomendaciones de la IUPAC"
 
 [content]
