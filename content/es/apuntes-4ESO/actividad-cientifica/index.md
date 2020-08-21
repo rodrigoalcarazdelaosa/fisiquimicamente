@@ -1,7 +1,7 @@
 ---
 title: La actividad científica
 subtitle: Magnitudes escalares y vectoriales, análisis dimensional, errores en la medida y  expresión de resultados
-summary: Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados.
+summary: "`PRÓXIMAMENTE` <br> Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados."
 tags:
 - 4º ESO
 - actividad-científica
