@@ -26,6 +26,10 @@ subtitle = ""
     tag = "*"
 	
   [[content.filter_button]]
+    name = "Scientific Activity"
+    tag = "scientific-activity"	
+	
+  [[content.filter_button]]
     name = "Chemical Reactions"
     tag = "chemical-reactions"		
 	
