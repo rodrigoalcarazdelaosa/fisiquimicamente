@@ -150,7 +150,7 @@ Empezamos por el C: vemos que a la izquierda hay 1 átomo de C y a la derecha ha
 
 ---
 
-Después miramos el H$: vemos que a la izquierda hay 4 átomos de H y a la derecha solo hay 2. Por tanto debemos poner un 2 en la molécula de agua:
+Después miramos el H: vemos que a la izquierda hay 4 átomos de H y a la derecha solo hay 2. Por tanto debemos poner un 2 en la molécula de agua:
 
 $$
 \mathrm{CH}_4 + \mathrm{O}_2 \longrightarrow \mathrm{CO}_2 + 2\mathrm{H_2O}
