@@ -124,7 +124,7 @@ La **ley de conservación de la masa** implica dos **principios**:
 En una **ecuación química** general:
 
 $$
-\mathrm{aA + bB \longrightarrow cC + dD}
+a\mathrm A + b\mathrm B \longrightarrow c\mathrm C + d\mathrm D
 $$
 
 - A, B, C y D representan los **símbolos químicos** de los átomos o la **fórmula molecular** de los compuestos que reaccionan (lado izquierdo) y los que se producen (lado derecho).
