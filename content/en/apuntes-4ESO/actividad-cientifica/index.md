@@ -1,13 +1,13 @@
 ---
 title: Scientific Activity
 subtitle: Magnitudes escalares y vectoriales, análisis dimensional, errores en la medida y  expresión de resultados
-summary: Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados.
+summary: "`COMING SOON` <br> Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados."
 tags:
 - 4º ESO
-- actividad-científica
+- scientific-activity
 categories:
-- Física
-- Química
+- Physics
+- Chemistry
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -26,5 +26,5 @@ slides:
 ---
 
 {{% alert note %}}
-Próximamente...
+Coming soon...
 {{% /alert %}}
