@@ -169,8 +169,6 @@ y la **reacción** queda **ajustada**.
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" lightbox="false" width="100%" >}}
 
-{{% /alert %}}
-
 Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simulaciones**:
 
 <iframe src="https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
