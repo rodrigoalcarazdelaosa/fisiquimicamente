@@ -24,6 +24,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
+		
+  [[content.filter_button]]
+    name = "Actividad científica"
+    tag = "actividad-científica"	
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
