@@ -26,7 +26,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Cambios físicos y cambios químicos
 
-- [Cambios físicos](#/1/2)
+- [Cambios físicos](#/1/1)
 - [Cambios químicos](#/1/3)
 
 (continúa hacia abajo)
