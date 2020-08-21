@@ -27,7 +27,11 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Scientific Activity"
-    tag = "scientific-activity"	
+    tag = "scientific-activity"
+	
+  [[content.filter_button]]
+    name = "Matter"
+    tag = "atomic-structure"		
 	
   [[content.filter_button]]
     name = "Chemical Reactions"
