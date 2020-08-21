@@ -59,7 +59,7 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 ## Estequiometría
 
 ### Ley de conservación de la masa
-> hola
+> En un sistema aislado, durante toda reacción química ordinaria, la masa total en el sistema permanece constante, es decir, la masa consumida de los reactivos es igual a la masa de los productos obtenidos.
 
 ## Ajuste de ecuaciones químicas
 
