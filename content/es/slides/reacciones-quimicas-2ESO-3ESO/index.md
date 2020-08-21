@@ -100,6 +100,7 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 - [Ley de conservación de la masa](#/3/1)
 - [Ajuste de ecuaciones químicas](#/3/3)
 - [Ejemplo resuelto](#/3/7)
+- [Simulaciones](#/3/12)
 
 (continúa hacia abajo)
 
