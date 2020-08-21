@@ -26,3 +26,25 @@ links:
 {{% toc %}}
 
 ## Cambios físicos y cambios químicos
+### Cambios físicos
+Cualquier cambio en el que la **naturaleza** de la **sustancia no** se **modifica**.
+
+#### Ejemplos
+Cambios de posición (movimientos), deformaciones, variaciones de temperatura, cambios de estado.
+
+### Cambios químicos
+Cualquier cambio en el que la **naturaleza** de la **sustancia sí** se **modifica**.
+
+#### Ejemplos
+Digestión, combustión, fotosíntesis, cocción de alimentos, putrefacción.
+
+## La reacción química
+
+## Estequiometría
+
+### Ley de conservación de la masa
+### Ejemplo resuelto
+
+## Velocidad de una reacción química
+
+## La química en la sociedad y el medio ambiente
