@@ -131,13 +131,15 @@ Cuando los reactivos están en estados distintos, la reacción sólo puede ocurr
 La frecuencia con la que las moléculas colisionan depende de sus concentraciones. **Cuanto más *amontonadas*** estén las moléculas, más probable es que colisionen y reaccionen entre sí, dando lugar a un **aumento** de la **velocidad** de **reacción**.
 
 ### Temperatura
-A \textbf{mayor temperatura}, las moléculas tienen más energía térmica y son más susceptibles de chocar eficazmente, \textbf{aumentando} la \textbf{velocidad} de \textbf{reacción}.
+A **mayor temperatura**, las moléculas tienen más energía térmica y son más susceptibles de chocar eficazmente, **aumentando** la **velocidad** de **reacción**.
 
 ### Catalizadores
-Un \textbf{catalizador} es una \textbf{sustancia} que \textbf{altera} la \textbf{velocidad} de una \textbf{reacción} química sin participar directamente en ella. Las \textbf{proteínas} que actúan como \textbf{catalizadores} en las \textbf{reacciones bioquímicas} se llaman \textbf{enzimas}. Distinguimos entre catalizadores:
-\begin{description}
-	\item[Positivos] \textbf{Aumentan} la \textbf{velocidad} de reacción al permitir nuevos mecanismos de reacción.
-	\item[Negativos] \textbf{Disminuyen} la \textbf{velocidad} de reacción o directamente evitan que se produzca (\textbf{inhibidores}).
-\end{description}
+Un **catalizador** es una **sustancia** que **altera** la **velocidad** de una **reacción** química sin participar directamente en ella. Las **proteínas** que actúan como **catalizadores** en las **reacciones bioquímicas** se llaman **enzimas**. Distinguimos entre catalizadores:
+
+#### Positivos
+**Aumentan** la **velocidad** de **reacción** al permitir nuevos mecanismos de reacción.
+
+####	Negativos
+**Disminuyen** la **velocidad** de **reacción** o directamente evitan que se produzca (**inhibidores**).
 
 ## La química en la sociedad y el medio ambiente
