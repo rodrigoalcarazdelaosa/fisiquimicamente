@@ -244,6 +244,6 @@ Los **gases** de **efecto invernadero**, como el CO<sub>2</sub>, el CH<sub>4</su
 
 La **actividad humana** industrial ha provocado sobretodo un **aumento** de las **emisiones** de **CO<sub>2</sub>**, desestabilizando la atmósfera.
 
-{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/efecto-invernadero.svg" title="Traducida de https://commons.wikimedia.org/wiki/File:The_Greenhouse_Effect.svg." lightbox="false" width="100%" >}}	
+{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/efecto-invernadero.svg" lightbox="false" width="100%" >}}	
 
 {{% /section %}}
