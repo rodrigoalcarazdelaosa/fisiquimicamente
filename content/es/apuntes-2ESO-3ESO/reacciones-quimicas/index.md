@@ -20,7 +20,9 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Póster
-  url: reacciones-quimicas-poster.pdf  
+  url: reacciones-quimicas-poster.pdf
+
+slides: reacciones-quimicas-2ESO-3ESO  
 ---
 
 {{% toc %}}
