@@ -179,6 +179,12 @@ y la **reacción** queda **ajustada**.
 
 <iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Velocidad de una reacción química
 Los **factores** que **influyen** en la **velocidad** de una **reacción** son:
 
