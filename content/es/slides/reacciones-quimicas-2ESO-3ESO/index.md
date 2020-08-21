@@ -219,7 +219,7 @@ Un **catalizador** es una **sustancia** que **altera** la **velocidad** de una *
 
 ---
 
-Distinguimos entre catalizadores:
+Distinguimos entre **catalizadores**:
 
 #### Positivos
 **Aumentan** la **velocidad** de **reacción** al permitir nuevos mecanismos de reacción.
