@@ -1,7 +1,7 @@
 ---
 title: Scientific Activity
-subtitle: Magnitudes escalares y vectoriales, análisis dimensional, errores en la medida y  expresión de resultados
-summary: "`COMING SOON` <br> Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados."
+subtitle: Scalar and Vector Magnitudes, Dimensional Analysis, Errors in Measurement and Expression of Results
+summary: "`COMING SOON` <br> Scalar and Vector Magnitudes. Dimensional Analysis. Errors in Measurement. Expression of Results."
 tags:
 - 15-16-year-olds
 - scientific-activity
