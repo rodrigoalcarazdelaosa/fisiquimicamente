@@ -119,5 +119,25 @@ Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simu
 <iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Velocidad de una reacción química
+Los **factores** que **influyen** en la **velocidad** de una **reacción** son:
+
+### Naturaleza de los reactivos
+La **naturaleza** y la **fuerza** de los **enlaces** en las moléculas **reactivas** influyen en gran medida en la velocidad de su transformación en productos.
+
+### Estado de agregación de los reactivos
+Cuando los reactivos están en estados distintos, la reacción sólo puede ocurrir en su área de contacto. Esto significa que **cuanto más finamente dividido** esté un **reactivo** sólido o líquido, **mayor** será su **área** de **superficie** por unidad de volumen y **mayor** será el **contacto** con el otro reactivo, por lo que la **reacción** será **más rápida**.
+
+### Concentración
+La frecuencia con la que las moléculas colisionan depende de sus concentraciones. \textbf{Cuanto más \emph{amontonadas}} estén las moléculas, más probable es que colisionen y reaccionen entre sí, dando lugar a un \textbf{aumento} de la \textbf{velocidad} de \textbf{reacción}.
+
+### Temperatura
+A \textbf{mayor temperatura}, las moléculas tienen más energía térmica y son más susceptibles de chocar eficazmente, \textbf{aumentando} la \textbf{velocidad} de \textbf{reacción}.
+
+### Catalizadores
+Un \textbf{catalizador} es una \textbf{sustancia} que \textbf{altera} la \textbf{velocidad} de una \textbf{reacción} química sin participar directamente en ella. Las \textbf{proteínas} que actúan como \textbf{catalizadores} en las \textbf{reacciones bioquímicas} se llaman \textbf{enzimas}. Distinguimos entre catalizadores:
+\begin{description}
+	\item[Positivos] \textbf{Aumentan} la \textbf{velocidad} de reacción al permitir nuevos mecanismos de reacción.
+	\item[Negativos] \textbf{Disminuyen} la \textbf{velocidad} de reacción o directamente evitan que se produzca (\textbf{inhibidores}).
+\end{description}
 
 ## La química en la sociedad y el medio ambiente
