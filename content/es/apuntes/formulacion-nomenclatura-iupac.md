@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 7  # Order that this section will appear.
 
-title = "Formulación y nomenclatura IUPAC"
-subtitle = ""
+title = "Nomenclatura química"
+subtitle = "Recomendaciones de la IUPAC"
 
 [content]
   # Page type to display. E.g. project.
