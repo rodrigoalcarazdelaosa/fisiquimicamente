@@ -5,6 +5,8 @@ summary: "`PRÓXIMAMENTE` <br> Modelos atómicos. Sistema Periódico y configura
 tags:
 - 4º ESO
 - estructura-atómica
+- tabla-periódica
+- enlace-químico
 categories:
 - Física
 - Química
