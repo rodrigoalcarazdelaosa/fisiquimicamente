@@ -4,7 +4,7 @@ subtitle: Modelos atómicos, Sistema Periódico, enlace químico y fuerzas inter
 summary: "`PRÓXIMAMENTE` <br> Modelos atómicos. Sistema Periódico y configuración electrónica. Enlace químico. Fuerzas intermoleculares."
 tags:
 - 4º ESO
-- materia
+- estructura-atómica
 categories:
 - Física
 - Química
