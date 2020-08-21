@@ -136,14 +136,14 @@ $$
 
 Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
-### Ejemplo resuelto
-{{% alert example %}}
-<br>
+---
 
-> Se desea ajustar la siguiente ecuación química, que describe la **combustión** del **metano**:
+### Ejemplo resuelto
+<quote>Se desea ajustar la siguiente ecuación química, que describe la **combustión** del **metano**:
 $$
 \ce{CH4 + O2 -> CO2 + H2O}
 $$
+</quote>
 
 ---
 
