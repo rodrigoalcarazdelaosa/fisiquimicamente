@@ -6,7 +6,7 @@ tags:
 - 15-16-year-olds
 - atomic-structure
 - periodic-table
-- - chemical-bond
+- chemical-bond
 categories:
 - Physics
 - Chemistry
