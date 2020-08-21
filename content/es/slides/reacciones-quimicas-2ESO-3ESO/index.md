@@ -227,8 +227,20 @@ Distinguimos entre **catalizadores**:
 ####	Negativos
 **Disminuyen** la **velocidad** de **reacción** o directamente evitan que se produzca (**inhibidores**).
 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## La química en la sociedad y el medio ambiente
 Los **gases** de **efecto invernadero**, como el $\ce{CO2}$, el $\ce{CH4}$, el $\ce{N2O}$ (*gas de la risa*) o los óxidos de azufre, son gases que **absorben** y **emiten radiación infrarroja**, provocando un **calentamiento** de la superficie de la Tierra. La **actividad humana** industrial ha provocado sobretodo un **aumento** de las **emisiones** de **CO<sub>2</sub>**, desestabilizando la atmósfera.
+
+(continúa hacia abajo)
+
+👇
+
+---
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/efecto-invernadero.svg" title="Traducida de https://commons.wikimedia.org/wiki/File:The_Greenhouse_Effect.svg." lightbox="false" width="100%" >}}	
 
