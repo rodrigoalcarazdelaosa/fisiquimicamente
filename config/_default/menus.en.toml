@@ -46,8 +46,8 @@
   weight = 6  
   
 [[main]]
-  name = "IUPAC Nomenclature"
-  url = "notes/#formulacion-nomenclatura-iupac"
+  name = "Nomenclature of Chemistry"
+  url = "notes/#nomenclatura-quimica"
   parent = "apuntes"
   weight = 7  
   
