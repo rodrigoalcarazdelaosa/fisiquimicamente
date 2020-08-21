@@ -58,6 +58,9 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 
 ## Estequiometría
 
+### Ley de conservación de la masa
+> hola
+
 ## Ajuste de ecuaciones químicas
 
 La **ley de conservación de la masa** implica dos **principios**:
@@ -76,7 +79,7 @@ $$
 
 Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
-### Ejemplo
+### Ejemplo resuelto
 {{% alert example %}}
 <br>
 
@@ -124,9 +127,6 @@ Puedes practicar más el **ajuste** de **ecuaciones** con estas **simulaciones**
 <iframe src="https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 <iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
-
-### Ley de conservación de la masa
-### Ejemplo resuelto
 
 ## Velocidad de una reacción química
 
