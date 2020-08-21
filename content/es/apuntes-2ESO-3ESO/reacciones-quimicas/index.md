@@ -98,6 +98,18 @@ $$
 \ce{CH4 + O2 -> CO2 + 2H2O}
 $$
 
+---
+
+Seguimos con el $\ce{O}$: a la izquierda hay 2 átomos mientras que a la derecha hay $2+2\times 1=4$ átomos. Por lo tanto debemos colocar un 2 en el $\ce{O2}$:
+
+$$
+\ce{CH4 + 2O2 -> CO2 + 2H2O}
+$$
+
+y la **reacción** queda **ajustada**.
+
+{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" lightbox="false" width="100%" >}}
+
 {{% /alert %}}
 
 Puedes practicar más el **ajuste** de **ecuaciones** con estas **simulaciones**:
