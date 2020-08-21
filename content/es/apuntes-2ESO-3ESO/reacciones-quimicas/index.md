@@ -81,9 +81,9 @@ Los **coeficientes estequiométricos** indican el número de átomos/moléculas/
 {{% alert example %}}
 <br>
 
-> Se desea ajustar la siguiente ecuación química:
+> Se desea ajustar la siguiente ecuación química, que describe la **combustión** del **metano**:
 $$
-\ce{MnO2 + HCl -> MnCl2 + Cl2 + H2O}
+\ce{CH4 + O2 -> CO2 + H2O}
 $$
 
 ---
