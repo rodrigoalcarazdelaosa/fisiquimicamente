@@ -9,9 +9,9 @@
     {{ $profile_url := .RelPermalink }}
     {{ if and (eq $site_type "Person") (eq .Params.superuser true) }}
 	{{ if eq .Site.Language.Lang "es" }}
-      {{ $profile_url = "sobre-mi/" }}
+      {{ $profile_url = "sobre-mi/" | absURL }}
 	{{ else if eq .Site.Language.Lang "en" }}
-	  {{ $profile_url = "about-me/" }}
+	  {{ $profile_url = "about-me/" | absURL }}
     {{ end }}	  
     {{ end }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
