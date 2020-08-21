@@ -1,7 +1,7 @@
 ---
 title: Matter
-subtitle: Modelos atómicos, Sistema Periódico, enlace químico y fuerzas intermoleculares
-summary: "`PRÓXIMAMENTE` <br> Modelos atómicos. Sistema Periódico y configuración electrónica. Enlace químico. Fuerzas intermoleculares."
+subtitle: Atomic Models, Periodic Table, Chemical Bond and Intermolecular Forces
+summary: "`COMING SOON` <br> Atomic Models. Periodic Table and Electronic Configuration. Chemical Bond. Intermolecular Forces."
 tags:
 - 15-16-year-olds
 - atomic-structure
@@ -32,5 +32,5 @@ image:
 ---
 
 {{% alert note %}}
-Próximamente...
+Coming soon...
 {{% /alert %}}
