@@ -16,7 +16,7 @@ slides:
 - [La reacción química](#/2)
 - [Eestequiometría](#/3)
 - [Velocidad de una reacción química](#/4)
-- [La química en la sociedad y el medio ambiente](#/5)
+- [La Química en la sociedad y el medio ambiente](#/5)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
@@ -239,7 +239,7 @@ Distinguimos entre **catalizadores**:
 
 {{% section %}}
 
-## La química en la sociedad y el medio ambiente
+## La Química en la sociedad y el medio ambiente
 Los **gases** de **efecto invernadero**, como el CO<sub>2</sub>, el CH<sub>4</sub>, el N<sub>2</sub>O (*gas de la risa*) o los óxidos de azufre, son gases que **absorben** y **emiten radiación infrarroja**, provocando un **calentamiento** de la superficie de la Tierra.
 
 (continúa hacia abajo)
