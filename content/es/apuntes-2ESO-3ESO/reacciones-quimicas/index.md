@@ -128,7 +128,7 @@ La **naturaleza** y la **fuerza** de los **enlaces** en las moléculas **reactiv
 Cuando los reactivos están en estados distintos, la reacción sólo puede ocurrir en su área de contacto. Esto significa que **cuanto más finamente dividido** esté un **reactivo** sólido o líquido, **mayor** será su **área** de **superficie** por unidad de volumen y **mayor** será el **contacto** con el otro reactivo, por lo que la **reacción** será **más rápida**.
 
 ### Concentración
-La frecuencia con la que las moléculas colisionan depende de sus concentraciones. \textbf{Cuanto más \emph{amontonadas}} estén las moléculas, más probable es que colisionen y reaccionen entre sí, dando lugar a un \textbf{aumento} de la \textbf{velocidad} de \textbf{reacción}.
+La frecuencia con la que las moléculas colisionan depende de sus concentraciones. **Cuanto más *amontonadas*** estén las moléculas, más probable es que colisionen y reaccionen entre sí, dando lugar a un **aumento** de la **velocidad** de **reacción**.
 
 ### Temperatura
 A \textbf{mayor temperatura}, las moléculas tienen más energía térmica y son más susceptibles de chocar eficazmente, \textbf{aumentando} la \textbf{velocidad} de \textbf{reacción}.
