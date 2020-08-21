@@ -215,7 +215,11 @@ A **mayor temperatura**, las moléculas tienen más energía térmica y son más
 ---
 
 ### Catalizadores
-Un **catalizador** es una **sustancia** que **altera** la **velocidad** de una **reacción** química sin participar directamente en ella. Las **proteínas** que actúan como **catalizadores** en las **reacciones bioquímicas** se llaman **enzimas**. Distinguimos entre catalizadores:
+Un **catalizador** es una **sustancia** que **altera** la **velocidad** de una **reacción** química sin participar directamente en ella. Las **proteínas** que actúan como **catalizadores** en las **reacciones bioquímicas** se llaman **enzimas**.
+
+---
+
+Distinguimos entre catalizadores:
 
 #### Positivos
 **Aumentan** la **velocidad** de **reacción** al permitir nuevos mecanismos de reacción.
