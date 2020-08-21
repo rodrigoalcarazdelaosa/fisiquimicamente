@@ -12,10 +12,11 @@ slides:
 
 # Reacciones químicas
 
-- [Concepto de energía](#/1)
-- [Transformaciones energéticas](#/2)
-- [Calor y temperatura](#/3)
-- [Fuentes de energía](#/4)
+- [Cambios físicos y cambios químicos](#/1)
+- [La reacción química](#/2)
+- [Eestequiometría](#/3)
+- [Velocidad de una reacción química](#/4)
+- [La química en la sociedad y el medio ambiente](#/5)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
