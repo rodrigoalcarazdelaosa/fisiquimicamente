@@ -87,7 +87,7 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 
 ### Tipos de reacciones químicas
 
-{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/reacciones-quimicas.svg" title="Representación de cuatro tipos de reacciones básicas: síntesis, descomposición, sustitución y doble sustitución." lightbox="false" width="100%" >}}
+{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/reacciones-quimicas.svg" title="Cuatro tipos de reacciones básicas: síntesis, descomposición, sustitución y doble sustitución." lightbox="false" width="100%" >}}
 
 ## Estequiometría
 
