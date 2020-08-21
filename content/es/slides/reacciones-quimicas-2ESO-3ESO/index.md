@@ -70,7 +70,7 @@ Una **reacción química** es un proceso en el cual unas sustancias (**reactivos
 
 ---
 
-{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano-intro.svg" title="Una molécula de metano (CH<sub>4</sub>) reacciona con dos moléculas de oxígeno ($\ce{O2}$) para producir una molécula de dióxido de carbono ($\ce{CO2}$) y dos moléculas de agua ($\ce{H2O}$)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano-intro.svg" title="Una molécula de metano (CH<sub>4</sub>) reacciona con dos moléculas de oxígeno (O<sub>2</sub>) para producir una molécula de dióxido de carbono (CO<sub>2</sub>) y dos moléculas de agua (H<sub>2</sub>O)." lightbox="false" width="100%" >}}
 
 ---
 
