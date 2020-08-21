@@ -172,9 +172,10 @@ y la **reacción** queda **ajustada**.
 
 ---
 
-Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simulaciones**:
-
+### Simulaciones
 <iframe src="https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+---
 
 <iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
