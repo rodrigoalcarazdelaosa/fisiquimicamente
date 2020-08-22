@@ -14,7 +14,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Foto de [**timJ**](https://unsplash.com/@the_roaming_platypus) en [Unsplash](https://unsplash.com)
+  caption: Imagen de [**vubp**](https://pixabay.com/es/users/vubp-6000785/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
