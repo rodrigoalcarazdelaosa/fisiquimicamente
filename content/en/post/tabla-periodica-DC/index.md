@@ -18,7 +18,7 @@ links:
 - icon_pack: fas
   icon: file-download
   name: PDF
-  url: pdf/DC-periodic-table/DC-periodic-table.pdf
+  url: pdf/DC-periodic-table.pdf
 ---
 
 Inspired by [Manuel Souto](https://twitter.com/SoutoManel?s=20) and his [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
