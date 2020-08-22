@@ -48,7 +48,7 @@ subtitle = ""
   icon = "[:man_scientist:](about-me/)‍"
   icon_pack = "emoji"
   name = "[About me](about-me/)"
-  description = "👣 [Career path](about-me/#trayectoria-profesional) <br> ✈️ [Research stays](about-me/#estancias-investigacion)"
+  description = "👣 [Career path](about-me/#career-path) <br> ✈️ [Research stays](about-me/#estancias-investigacion)"
   
 [design.background]
   # Apply a background color, gradient, or image.
