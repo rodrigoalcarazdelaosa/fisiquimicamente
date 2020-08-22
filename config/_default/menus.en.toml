@@ -131,7 +131,7 @@
 
 [[main]]
   name = "👣 Career path"
-  url = "about-me/#trayectoria-profesional"
+  url = "about-me/#career-path"
   parent = "sobre-mi"
   weight = 2  
   
