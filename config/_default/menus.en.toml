@@ -130,14 +130,14 @@
   weight = 1
 
 [[main]]
-  name = "👣 Career path"
+  name = "👣 Career Path"
   url = "about-me/#career-path"
   parent = "sobre-mi"
   weight = 2  
   
 [[main]]
-  name = "✈️ Research stays"
-  url = "about-me/#estancias-investigacion"
+  name = "✈️ Research Stays"
+  url = "about-me/#research-stays"
   parent = "sobre-mi"
   weight = 3
 
