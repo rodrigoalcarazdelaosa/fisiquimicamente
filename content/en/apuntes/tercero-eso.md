@@ -39,7 +39,11 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Atomic Structure"
-    tag = "atomic-structure"	
+    tag = "atomic-structure"
+	
+  [[content.filter_button]]
+    name = "Elements and Compounds"
+    tag = "periodic-table"		
 	
   [[content.filter_button]]
     name = "Chemical Reactions"
