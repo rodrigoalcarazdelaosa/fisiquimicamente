@@ -18,7 +18,7 @@ links:
 - icon_pack: fas
   icon: file-download
   name: PDF
-  url: pdf/periodic-table-scientists/periodic-table-scientists.pdf
+  url: pdf/periodic-table-scientists.pdf
 ---
 
 Inspirados por la [Tabla Periódica <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
