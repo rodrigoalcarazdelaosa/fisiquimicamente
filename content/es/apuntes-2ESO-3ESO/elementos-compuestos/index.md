@@ -1,13 +1,12 @@
 ---
 title: Elementos y compuestos
 subtitle: Tabla Periódica de los elementos, uniones entre átomos y elementos y compuestos de especial interés
-summary: "Tabla Periódica de los elementos. Uniones entre átomos. Elementos y compuestos de especial interés."
+summary: "`PRÓXIMAMENTE` <br> Tabla Periódica de los elementos. Uniones entre átomos. Elementos y compuestos de especial interés."
 tags:
 - 2º ESO
 - 3º ESO
 - tabla-periódica
 categories:
-- Física
 - Química
 
 # Optional external URL for project (replaces project detail page).
