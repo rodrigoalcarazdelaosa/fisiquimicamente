@@ -38,6 +38,10 @@ subtitle = ""
     tag = "estructura-atómica"	
 	
   [[content.filter_button]]
+    name = "Elementos y compuestos"
+    tag = "tabla-periódica"		
+	
+  [[content.filter_button]]
     name = "Reacciones químicas"
     tag = "reacciones-químicas"	
 	
