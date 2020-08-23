@@ -19,7 +19,7 @@ menu:
     weight: 1
 ---
 
-## [{{< icon name="overleaf" pack="ai" >}} Learn $\LaTeX$ in 30 minutes]({{< ref "/tutoriales/latex/curso-basico.md" >}})
+## [{{< icon name="overleaf" pack="ai" >}} Learn $\LaTeX$ in 30 Minutes]({{< ref "/tutoriales/latex/curso-basico.md" >}})
 
 ## [Presentations with Beamer]({{< ref "/tutoriales/latex/beamer.md" >}})
 
