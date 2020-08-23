@@ -1,6 +1,6 @@
 ---
-title: Vector graphics with TikZ & PGF
-linktitle: Vector graphics with TikZ & PGF
+title: Vector Graphics with TikZ & PGF
+linktitle: Vector Graphics with TikZ & PGF
 toc: true
 type: docs
 draft: false
