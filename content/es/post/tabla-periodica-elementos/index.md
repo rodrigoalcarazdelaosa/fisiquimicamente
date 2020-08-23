@@ -22,7 +22,7 @@ links:
 Aquí tienes una **Tabla Periódica de los Elementos** con información básica y en alta resolución.
 
 {{% alert note %}}
-Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada elemento es un **enlace** que te lleva a la página de la **Wikipedia** del elemento.
+Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada elemento es un **enlace** que te lleva a la página de la **Wikipedia** del **elemento**.
 {{% /alert %}}
 
 {{% alert note %}}
