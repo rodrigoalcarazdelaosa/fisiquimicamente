@@ -71,7 +71,7 @@
   
 [[main]]
   name = "💡 Tips"
-  url = "ebau-resources/#consejos"
+  url = "ebau-resources/#tips"
   parent = "recursos-ebau"
   weight = 3  
 
