@@ -27,9 +27,9 @@ subtitle = "Thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) an
   description = "📝 [Full exams](#chemistry-exams) | 🗂️ [By topic](#chemistry-questions)"
   
 [[feature]]
-  icon = "[💡](#consejos)"
+  icon = "[💡](#tips)"
   icon_pack = "emoji"
-  name = "[Tips](#consejos)"
+  name = "[Tips](#tips)"
   description = ""  
   
   
