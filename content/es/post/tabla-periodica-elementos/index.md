@@ -1,15 +1,13 @@
 ---
 title: Tabla Periódica de los Elementos
-subtitle: Con 
-summary: Tabla Periódica con científicos ilustres.
-date: "2020-07-28T00:00:00Z"
+subtitle: Con información básica y en alta resolución
+summary: Tabla Periódica de los Elementos con información básica y en alta resolución.
+date: "2020-08-23T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
-- jesica-sanchez-mazon
 tags:
 - tabla-periódica
 categories:
-- Física
 - Química
 image:
   placement: 3
