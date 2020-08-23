@@ -1,6 +1,6 @@
 ---
-title: Learn $\LaTeX$ in 30 minutes
-linktitle: Learn $\LaTeX$ in 30 minutes
+title: Learn $\LaTeX$ in 30 Minutes
+linktitle: Learn $\LaTeX$ in 30 Minutes
 toc: true
 type: docs
 draft: false
