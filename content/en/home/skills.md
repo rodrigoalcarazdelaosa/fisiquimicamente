@@ -47,7 +47,7 @@ subtitle = ""
 [[feature]]
   icon = "[:man_scientist:](about-me/)‍"
   icon_pack = "emoji"
-  name = "[About me](about-me/)"
+  name = "[About Me](about-me/)"
   description = "👣 [Career Path](about-me/#career-path) <br> ✈️ [Research Stays](about-me/#research-stays)"
   
 [design.background]
