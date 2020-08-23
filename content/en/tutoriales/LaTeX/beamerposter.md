@@ -1,6 +1,6 @@
 ---
-title: Posters with beamerposter
-linktitle: Posters with beamerposter
+title: Posters with Beamerposter
+linktitle: Posters with Beamerposter
 toc: true
 type: docs
 draft: false
