@@ -22,6 +22,10 @@ links:
 Aquí tenéis una Tabla Periódica de los Elementos con información básica y en alta resolución.
 
 {{% alert note %}}
+Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a la página de la Wikipedia del científico. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** como el de cada **científico** (ambos enlazados a Wikipedia).
+{{% /alert %}}
+
+{{% alert note %}}
 También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, con [**científicos**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}), **personajes** de [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="0 0 900.14 900.141" enable-background="new 0 0 900.14 900.141"
 	 xml:space="preserve">
