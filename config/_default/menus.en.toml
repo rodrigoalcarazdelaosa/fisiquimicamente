@@ -94,7 +94,7 @@
   weight = 2    
 
 [[main]]
-  name = "🔗 Interesting links"
+  name = "🔗 Online Resources"
   url = "interesting-links/"  
   identifier = "enlaces-interes"
   weight = 4  
