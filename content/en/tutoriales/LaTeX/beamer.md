@@ -1,6 +1,6 @@
 ---
-title: Presentations with beamer
-linktitle: Presentations with beamer
+title: Presentations with Beamer
+linktitle: Presentations with Beamer
 toc: true
 type: docs
 draft: false
