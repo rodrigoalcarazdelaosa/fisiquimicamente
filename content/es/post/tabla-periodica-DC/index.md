@@ -57,7 +57,7 @@ Inspirado por [Manuel Souto](https://twitter.com/SoutoManel?s=20) y su [Tabla Pe
 </svg>](https://www.dccomics.com/).
 
 {{% alert note %}}
-Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a una página web del personaje. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** (enlazado a Wikipedia) como el de cada **personaje** (enlazado a la misma página web que su correspondiente imagen).
+Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a una **página web** del **personaje**. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** (enlazado a Wikipedia) como el de cada **personaje** (enlazado a la misma página web que su correspondiente imagen).
 {{% /alert %}}
 
 {{% alert note %}}
