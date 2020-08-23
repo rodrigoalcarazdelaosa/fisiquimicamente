@@ -30,7 +30,7 @@ subtitle = ""
   icon = "[👐](tutoriales/)"
   icon_pack = "emoji"
   name = "[Tutorials](tutoriales/)"
-  description = "[$\\LaTeX$](tutoriales/latex) | [Presentation of information](tutoriales/presentacion-informacion)"
+  description = "[$\\LaTeX$](tutoriales/latex) | [Presentation of Information](tutoriales/presentacion-informacion)"
   
 [[feature]]
   icon = "[🔗](online-resources/)"
