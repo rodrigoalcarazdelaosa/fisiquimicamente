@@ -39,10 +39,10 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "[🗞️](#novedades)"
+  icon = "[🗞️](#news)"
   icon_pack = "emoji"
-  name = "[News](#novedades)"
-  description = "[Twitter](#novedades) | 💬 [Blog](post/)"
+  name = "[News](#news)"
+  description = "[Twitter](#news) | 💬 [Blog](post/)"
   
 [[feature]]
   icon = "[:man_scientist:](about-me/)‍"
