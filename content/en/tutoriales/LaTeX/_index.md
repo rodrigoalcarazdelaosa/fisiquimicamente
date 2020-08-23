@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: $\LaTeX$
-summary: $\LaTeX$ tutorials.
+summary: $\LaTeX$ Tutorials.
 weight: 1
 
 # Page metadata.
-title: $\LaTeX$ tutorials
+title: $\LaTeX$ Tutorials
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
