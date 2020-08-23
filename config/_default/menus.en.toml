@@ -11,43 +11,43 @@
   
 [[main]]
   name = "13-14 year-olds"
-  url = "notes/#segundo-eso"
+  url = "notes/#13-14-year-olds"
   parent = "apuntes"
   weight = 1
 
 [[main]]
   name = "14-15 year-olds"
-  url = "notes/#tercero-eso"
+  url = "notes/#14-15-year-olds"
   parent = "apuntes"
   weight = 2
 
 [[main]]
   name = "15-16 year-olds"
-  url = "notes/#cuarto-eso"
+  url = "notes/#15-16-year-olds"
   parent = "apuntes"
   weight = 3
 
 [[main]]
   name = "16-17 year-olds"
-  url = "notes/#primero-bach"
+  url = "notes/#16-17-year-olds"
   parent = "apuntes"
   weight = 4
 
 [[main]]
   name = "17-18 year-olds Physics"
-  url = "notes/#segundo-bach-fisica"
+  url = "notes/#17-18-year-olds-physics"
   parent = "apuntes"
   weight = 5
   
 [[main]]
   name = "17-18 year-olds Chemistry"
-  url = "notes/#segundo-bach-quimica"
+  url = "notes/#17-18-year-olds-chemistry"
   parent = "apuntes"
   weight = 6  
   
 [[main]]
   name = "Nomenclature of Chemistry"
-  url = "notes/#nomenclatura-quimica"
+  url = "notes/#nomenclature-chemistry"
   parent = "apuntes"
   weight = 7  
   
