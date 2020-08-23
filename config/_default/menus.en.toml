@@ -59,13 +59,13 @@
   
 [[main]]
   name = "☢️ Physics"
-  url = "ebau-resources/#examenes-fisica"
+  url = "ebau-resources/#physics-exams"
   parent = "recursos-ebau"
   weight = 1
   
 [[main]]
   name = "⚗️ Chemistry"
-  url = "ebau-resources/#examenes-quimica"
+  url = "ebau-resources/#chemistry-exams"
   parent = "recursos-ebau"
   weight = 2  
   
