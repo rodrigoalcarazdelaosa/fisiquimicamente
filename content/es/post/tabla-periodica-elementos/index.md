@@ -26,7 +26,7 @@ Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada elemen
 {{% /alert %}}
 
 {{% alert note %}}
-También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, con [**científicos**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}), **personajes** de [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, con [**científicos**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}) o **personajes** de [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="0 0 900.14 900.141" enable-background="new 0 0 900.14 900.141"
 	 xml:space="preserve">
 <path fill="#0376F2" d="M450.069,0C201.503,0,0,201.503,0,450.071s201.503,450.07,450.069,450.07
