@@ -101,13 +101,13 @@
 
 [[main]]
   name = "🗞️ News"
-  url = "#novedades"
+  url = "#news"
   identifier = "novedades"
   weight = 5
 
 [[main]]
   name = "Twitter"
-  url = "#novedades"
+  url = "#news"
   parent = "novedades"
   weight = 1  
   
