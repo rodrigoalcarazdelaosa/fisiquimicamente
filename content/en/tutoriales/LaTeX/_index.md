@@ -21,13 +21,13 @@ menu:
 
 ## [{{< icon name="overleaf" pack="ai" >}} Learn $\LaTeX$ in 30 minutes]({{< ref "/tutoriales/latex/curso-basico.md" >}})
 
-## [Presentations with beamer]({{< ref "/tutoriales/latex/beamer.md" >}})
+## [Presentations with Beamer]({{< ref "/tutoriales/latex/beamer.md" >}})
 
 {{% alert note %}}
 Coming soon...
 {{% /alert %}}
 
-## [Posters with beamerposter]({{< ref "/tutoriales/latex/beamerposter.md" >}})
+## [Posters with Beamerposter]({{< ref "/tutoriales/latex/beamerposter.md" >}})
 
 {{% alert note %}}
 Coming soon...
@@ -39,7 +39,7 @@ Coming soon...
 Coming soon...
 {{% /alert %}}
 
-## [Vector graphics with Ti*k*Z & PGF]({{< ref "/tutoriales/latex/Tikz-PGF.md" >}})
+## [Vector Graphics with Ti*k*Z & PGF]({{< ref "/tutoriales/latex/Tikz-PGF.md" >}})
 
 {{% alert note %}}
 Coming soon...
