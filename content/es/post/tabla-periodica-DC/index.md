@@ -847,9 +847,5 @@ Si te gustan estas **Tablas Periódicas *especiales***, echa un vistazo a las ve
 		c3.9860229-8.6364441,10.2973022-14.9476852,19.9302368-17.2728806c5.3147583-1.3286839,8.9686279,1.6608543,11.6259766,5.6469002
 		C618.8341675,35.0656242,619.8306885,38.0551605,619.8306885,40.7125244"/>
 </g>
-</svg>](http://www.ndietrich.com/archives/955).
-{{% /alert %}}
-
-{{% alert note %}}
-También puedes echar un vistazo a una Tabla Periódica de los Elementos convencional.
+</svg>](http://www.ndietrich.com/archives/955). También tienes una [**versión convencional**]({{< ref "/post/tabla-periodica-elementos/index.md" >}}).
 {{% /alert %}}
