@@ -52,7 +52,7 @@
   weight = 7  
   
 [[main]]
-  name = "🎓 EBAU resources"
+  name = "🎓 EBAU Resources"
   url = "ebau-resources/"
   identifier = "recursos-ebau"
   weight = 2
@@ -88,7 +88,7 @@
   weight = 1
   
 [[main]]
-  name = "Presentation of information"
+  name = "Presentation of Information"
   parent = "tutoriales"
   url = "tutoriales/presentacion-informacion"
   weight = 2    
@@ -118,13 +118,13 @@
   weight = 2    
 
 [[main]]
-  name = "👨‍🔬 About me"
+  name = "👨‍🔬 About Me"
   url = "about-me/"
   identifier = "sobre-mi"
   weight = 6
   
 [[main]]
-  name = "👨‍🔬 Interests and education"
+  name = "👨‍🔬 Interests and Education"
   url = "about-me/"
   parent = "sobre-mi"
   weight = 1
