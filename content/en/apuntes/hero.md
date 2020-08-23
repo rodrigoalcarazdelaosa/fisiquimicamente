@@ -53,4 +53,4 @@ hero_media = ""
 
 In **Text**, **Slides** and **Poster** (*Cheat Sheet*) Format
 
-[13-14 year-olds](#segundo-eso) | [14-15 year-olds](#tercero-eso) | [15-16 year-olds](#cuarto-eso) <br> [16-17 year-olds](#primero-bach) | [17-18 year-olds Physics](#segundo-bach-fisica) | [17-18 year-olds Chemistry](#segundo-bach-quimica) <br> [Nomenclature of Chemistry](#nomenclatura-quimica)
+[13-14 year-olds](#13-14-year-olds) | [14-15 year-olds](#14-15-year-olds) | [15-16 year-olds](#15-16-year-olds) <br> [16-17 year-olds](#16-17-year-olds) | [17-18 year-olds Physics](#17-18-year-olds-physics) | [17-18 year-olds Chemistry](#17-18-year-olds-chemistry) <br> [Nomenclature of Chemistry](#nomenclature-chemistry)
