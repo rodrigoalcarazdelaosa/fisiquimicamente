@@ -849,3 +849,7 @@ Si te gustan estas **Tablas Periódicas *especiales***, echa un vistazo a las ve
 </g>
 </svg>](http://www.ndietrich.com/archives/955).
 {{% /alert %}}
+
+{{% alert note %}}
+También puedes echar un vistazo a una Tabla Periódica de los Elementos convencional.
+{{% /alert %}}
