@@ -26,7 +26,7 @@
 
 {{ with $pdf }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  <i class="fas fa-download mr-1"></i> {{ i18n "btn_pdf" }}
+  <i class="fas fa-file-download mr-1"></i> {{ i18n "btn_pdf" }}
 </a>
 {{ end }}
 {{ $resource := $page.Resources.GetMatch "cite.bib" }}
