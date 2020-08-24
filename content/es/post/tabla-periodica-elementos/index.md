@@ -12,11 +12,11 @@ categories:
 image:
   placement: 3
 #  caption: Tabla Periódica DC
-#links:
-#- icon_pack: fas
-#  icon: file-download
-#  name: PDF
-#  url: tabla-periodica-elementos.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: PDF
+  url: tabla-periodica-elementos.pdf
 ---
 
 Aquí tienes una **Tabla Periódica de los Elementos** con información básica y en alta resolución.
