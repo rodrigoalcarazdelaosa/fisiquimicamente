@@ -847,5 +847,5 @@ If you like these ***special* Periodic Tables**, take a look at the versions wit
 		c3.9860229-8.6364441,10.2973022-14.9476852,19.9302368-17.2728806c5.3147583-1.3286839,8.9686279,1.6608543,11.6259766,5.6469002
 		C618.8341675,35.0656242,619.8306885,38.0551605,619.8306885,40.7125244"/>
 </g>
-</svg>](http://www.ndietrich.com/archives/955) **characters**.
+</svg>](http://www.ndietrich.com/archives/955) **characters**. You also have a [**conventional version**]({{< ref "/post/tabla-periodica-elementos/index.md" >}}).
 {{% /alert %}}
