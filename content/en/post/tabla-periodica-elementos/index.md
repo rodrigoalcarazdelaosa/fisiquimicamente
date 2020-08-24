@@ -1,14 +1,14 @@
 ---
-title: Tabla Periódica de los Elementos
-subtitle: Con información básica y en alta resolución
-summary: Tabla Periódica de los Elementos con información básica y en alta resolución.
+title: Periodic Table of Elements
+subtitle: With Basic Information and in High Resolution
+summary: Periodic Table of Elements With Basic Information and in High Resolution.
 date: "2020-08-23T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
-- tabla-periódica
+- periodic-table
 categories:
-- Química
+- Chemistry
 image:
   placement: 3
 #  caption: Tabla Periódica DC
