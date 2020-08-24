@@ -26,7 +26,7 @@ By clicking on the button above you can download a **PDF** where each element is
 {{% /alert %}}
 
 {{% alert note %}}
-También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, con [**científicos**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}) o **personajes** de [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, with [**scientists**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}) or [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="0 0 900.14 900.141" enable-background="new 0 0 900.14 900.141"
 	 xml:space="preserve">
 <path fill="#0376F2" d="M450.069,0C201.503,0,0,201.503,0,450.071s201.503,450.07,450.069,450.07
@@ -828,5 +828,5 @@ También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, co
 		c3.9860229-8.6364441,10.2973022-14.9476852,19.9302368-17.2728806c5.3147583-1.3286839,8.9686279,1.6608543,11.6259766,5.6469002
 		C618.8341675,35.0656242,619.8306885,38.0551605,619.8306885,40.7125244"/>
 </g>
-</svg>](http://www.ndietrich.com/archives/955).
+</svg>](http://www.ndietrich.com/archives/955) **characters**.
 {{% /alert %}}
