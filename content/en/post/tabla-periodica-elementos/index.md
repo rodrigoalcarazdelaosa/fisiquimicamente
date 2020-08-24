@@ -19,10 +19,10 @@ links:
   url: periodic-table-elements.pdf
 ---
 
-Aquí tienes una **Tabla Periódica de los Elementos** con información básica y en alta resolución.
+Here you have a **Periodic Table of Elements** with basic information and in high resolution.
 
 {{% alert note %}}
-Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada elemento es un **enlace** que te lleva a la página de la **Wikipedia** del **elemento**.
+By clicking on the button above you can download a **PDF** where each element is a **link** that takes you to the **Wikipedia** entry for that **element**.
 {{% /alert %}}
 
 {{% alert note %}}
