@@ -22,7 +22,7 @@ links:
 Here you have a **Periodic Table of Elements** with basic information and in high resolution.
 
 {{% alert note %}}
-By clicking on the button above you can download a **PDF** where each element is a **link** that takes you to the **Wikipedia** entry for that **element**.
+By clicking on the button above you can download a **PDF** where each element is a **link** that takes you to the **Wikipedia** page of the **element**.
 {{% /alert %}}
 
 {{% alert note %}}
