@@ -81,7 +81,11 @@ p svg {
 /* Navigation bar text */
 .navbar-light {
 font-family: $sta-font-nav, serif;
-}  
+}
+
+.navbar {
+	background: rgba(42, 84, 169, 0.54);
+}
   
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
