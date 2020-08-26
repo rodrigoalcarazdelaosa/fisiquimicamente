@@ -44,5 +44,9 @@ slides:
 ### Con aplicaciones industriales 🏭
 #### Ácido sulfúrico H<sub>2</sub>SO<sub>4</sub>
 #### Etileno C<sub>2</sub>H<sub>4</sub>
+#### Hidróxido de sodio NaOH
+#### Propileno C<sub>3</sub>H<sub>6</sub>
+#### Nitrógeno N<sub>2</sub>
+
 ### Con aplicaciones tecnológicas 💻
 ### Con aplicaciones biomédicas ⚕️
