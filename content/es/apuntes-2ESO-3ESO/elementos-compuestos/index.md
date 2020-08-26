@@ -49,4 +49,15 @@ slides:
 #### Nitrógeno N<sub>2</sub>
 
 ### Con aplicaciones tecnológicas 💻
+#### Li, Co y Ni
+#### Al
+#### Si
+#### Fe
+#### Cu
+#### Ga
+#### In
+#### Tierras raras
+
 ### Con aplicaciones biomédicas ⚕️
+#### Aplicaciones quirúrgicas
+#### Diagnóstico y tratamiento de cáncer
