@@ -42,7 +42,7 @@ slides:
 
 ## Elementos y compuestos de especial interés
 ### Con aplicaciones industriales 🏭
-#### Ácido sulfúrico $\ce{H2SO4}$
+#### Ácido sulfúrico H<sub>2</sub>SO<sub>4</sub>
 #### Etileno $\ce{C2H4}$
 ### Con aplicaciones tecnológicas 💻
 ### Con aplicaciones biomédicas ⚕️
