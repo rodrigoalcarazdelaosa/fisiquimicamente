@@ -36,3 +36,11 @@ slides:
 ### Gases nobles
 
 ## Uniones entre átomos
+### Regla del octeto
+### Moléculas
+### Cristales
+
+## Elementos y compuestos de especial interés
+### Con aplicaciones industriales 🏭
+### Con aplicaciones tecnológicas 💻
+### Con aplicaciones biomédicas ⚕️
