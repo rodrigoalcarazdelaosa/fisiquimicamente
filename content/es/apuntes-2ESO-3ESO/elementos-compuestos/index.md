@@ -1,7 +1,7 @@
 ---
 title: Elementos y compuestos
 subtitle: Tabla periódica de los elementos, uniones entre átomos y elementos y compuestos de especial interés
-summary: "`EN CONSTRUCCIÓN` <br> Tabla periódica de los elementos. Uniones entre átomos. Elementos y compuestos de especial interés."
+summary: "Tabla periódica de los elementos. Uniones entre átomos. Elementos y compuestos de especial interés."
 tags:
 - 2º ESO
 - 3º ESO
@@ -25,8 +25,14 @@ links:
 slides: 
 ---
 
-{{% alert warning %}}
+{{% toc %}}
 
-En construcción...
+## La tabla periódica de los elementos
 
-{{% /alert %}}
+## Clasificación de los elementos químicos
+### Metales
+### Semimetales
+### No metales
+### Gases nobles
+
+##
