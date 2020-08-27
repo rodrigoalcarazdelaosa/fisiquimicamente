@@ -137,7 +137,7 @@ Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro co
 Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos.
 
 #### Al
-**Metal** blando y ligero que se puede encontrar en *todo*, desde en espejos de telescopios hasta en piezas de aviones y líneas de trasporte eléctrico. 
+**Metal** blando y ligero que se puede encontrar en *todo*, desde en espejos de telescopios hasta en piezas de aviones y líneas de transporte eléctrico. El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran protagonista en la industria del **embalaje**.
 
 #### Si
 #### Fe
