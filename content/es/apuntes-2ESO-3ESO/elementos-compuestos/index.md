@@ -84,6 +84,8 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn. **Gases monoatómicos inodoros** e **incoloros**
 ### Regla del octeto
 > La **configuración más estable** para cualquier átomo es contar con **ocho electrones** en la **capa exterior**.
 
+Los elementos tenderán a **unirse** para completar su capa exterior, **intercambiando** (cediendo/captando) o **compartiendo electrones**, y así **ganar estabilidad**. En función del número y tipo de átomos, distinguimos entre **moléculas** y **cristales**.
+
 ### Moléculas
 ### Cristales
 
