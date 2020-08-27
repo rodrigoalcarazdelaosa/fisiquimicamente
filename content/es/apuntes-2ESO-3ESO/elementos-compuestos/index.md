@@ -115,6 +115,7 @@ El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y alm
 [^2]: Nombre recomendado por la IUPAC: **eteno**.
 
 #### Hidróxido de sodio NaOH
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/NaOH.jpg" title="***Lentejas*** de **hidróxido de sodio** (NaOH). <br> https://commons.wikimedia.org/wiki/File:SodiumHydroxide.jpg" lightbox="true" >}}
 
 
 #### Propileno C<sub>3</sub>H<sub>6</sub>
