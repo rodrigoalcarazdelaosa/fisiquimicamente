@@ -171,7 +171,7 @@ Sc, Y y los lantanoides, considerados, entre otros, **elementos tecnológicament
 
 ### Con aplicaciones biomédicas ⚕️
 #### Aplicaciones quirúrgicas
-**Prótesis** e **implantes** de titanio (Ti), platino (Pt) u oro (Au).
+**Prótesis** e **implantes** de **titanio** (Ti), **platino** (Pt) u **oro** (Au).
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/pierna-Ti.jpg" title="**EXO Prosthetic Leg**, una **prótesis** de **titanio** (Ti) impresa en 3D. <br> https://www.behance.net/gallery/20696469/Exo-Prosthetic-Leg" lightbox="true" >}}
 
