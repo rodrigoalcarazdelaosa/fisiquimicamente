@@ -78,6 +78,8 @@ Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon 
 ### Gases nobles
 He, Ne, Ar, Kr, Xe y ☢️ Rn. **Gases monoatómicos inodoros** e **incoloros** que **apenas reaccionan** químicamente, pues tienen **ocho electrones** en su **capa exterior**.
 
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/gases-nobles.jpg" title="Gases nobles brillando dentro de frascos de vidrio a baja presión. Fuente de alimentación: 5$\thinspace$kV, 20$\thinspace$mA, 25$\thinspace$kHz. <br> https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg" lightbox="true" >}}
+
 ## Uniones entre átomos
 ### Regla del octeto
 ### Moléculas
