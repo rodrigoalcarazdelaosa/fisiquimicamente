@@ -60,7 +60,7 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 ### Semimetales
 **Sólidos frágiles/quebradizos** de **aspecto metálico** que son [**semiconductores**](https://es.wikipedia.org/wiki/Semiconductor) y **se comportan como no metales**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="Detalle de una **oblea** de **silicio** (Si). Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/silicio.jpg" title="Detalle de un trozo de **silicio** (Si) purificado. <br> https://commons.wikimedia.org/wiki/File:SiliconCroda.jpg" lightbox="true" >}}
 
 ### No metales
 **Apariencia *apagada***, son **malos conductores** del **calor** y de la **electricidad** y son **frágiles**. Pueden ser **sólidos**, **líquidos** o **gaseosos** a temperatura ambiente.
