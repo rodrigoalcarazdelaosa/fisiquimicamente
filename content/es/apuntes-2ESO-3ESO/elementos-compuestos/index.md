@@ -145,6 +145,8 @@ Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="Detalle de una **oblea** de **silicio** (Si). Cada cuadrado es un chip con transistores y circuitos microscópicos. <br> Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
 
 #### Fe
+El hierro (Fe) es **abundante** y **barato**, lo que en parte explica que sea el **metal más utilizado** de la tabla periódica. Tiene **innumerables aplicaciones** y se puede encontrar en *todo*, desde automóviles hasta electrónica. 
+
 #### Cu
 #### Ga
 #### In
