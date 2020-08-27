@@ -150,7 +150,7 @@ El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que se
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" title="[**Atomium**](https://es.wikipedia.org/wiki/Atomium), formado por nueve esferas de **acero** de 18 metros de diámetro cada una. Representa un **cristal** de **hierro** (Fe) aumentado 165 mil millones de veces. <br> Foto de [**fotografierende**](https://unsplash.com/@fotografierende) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
 
 #### Cu
-El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense). El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
+El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense#Tasa_de_cambio_y_cotizaci%C3%B3n). El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" title="Conductor eléctrico de cobre (Cu).<br> https://commons.wikimedia.org/wiki/File:Stranded_lamp_wire.jpg" lightbox="true" >}}
 
