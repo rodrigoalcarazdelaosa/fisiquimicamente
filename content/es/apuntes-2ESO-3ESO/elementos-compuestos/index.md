@@ -130,7 +130,7 @@ El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/nitrogeno-liquido.jpg" title="**Nitrógeno líquido**. <br> https://commons.wikimedia.org/wiki/File:Liquidnitrogen.jpg" lightbox="true" >}}
 
-Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), otro compuesto **crucial** en sí mismo.
+Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro con un característico olor acre, **crucial** en sí mismo.
 
 ### Con aplicaciones tecnológicas 💻
 #### Li, Co y Ni
