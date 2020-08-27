@@ -26,6 +26,10 @@ By clicking on the button above you can download a **PDF** where each element is
 {{% /alert %}}
 
 {{% alert note %}}
+If you are interested, [here is a version **without names**](periodic-table-elements-without-names.pdf) (the rest is the same, also with **links** to **Wikipedia**).
+{{% /alert %}}
+
+{{% alert note %}}
 You can also take a look at other ***special* Periodic Tables**, with [**scientists**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}) or [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="0 0 900.14 900.141" enable-background="new 0 0 900.14 900.141"
 	 xml:space="preserve">
