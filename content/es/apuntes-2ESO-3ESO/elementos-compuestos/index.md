@@ -155,7 +155,7 @@ El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepa
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" title="**Conductor** eléctrico de **cobre** (Cu).<br> https://commons.wikimedia.org/wiki/File:Stranded_lamp_wire.jpg" lightbox="true" >}}
 
 #### Ga
-Con una estructura similar a la del silicio, el galio (Ga) se utiliza ampliamente en la industria **electrónica**, donde se puede encontrar en **luces LED**, teléfonos **móviles**, **ordenadores** y **televisores**. También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente[^4], se encuentra comúnmente en los **termómetros** médicos.
+Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza ampliamente en la industria **electrónica**, donde se puede encontrar en **luces LED**, teléfonos **móviles**, **ordenadores** y **televisores**. También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente[^4], se encuentra comúnmente en los **termómetros** médicos.
 
 [^4]: Su temperatura de fusión es de 29.8$\thinspace$&deg;C.
 
