@@ -48,7 +48,7 @@ Los elementos químicos pueden clasificarse en general en **metales**, **semimet
 **Apariencia brillante**, son **buenos conductores** del **calor** y de la **electricidad** y forman **aleaciones** con otros metales. La mayoría son **sólidos** a $T$ ambiente (**Hg** es 💧).
 
 #### Formación de iones
-Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon name="plus-circle" pack="fas" >}}.
+Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon name="plus-circle" pack="fas" >}}).
 
 ##### Ejemplos
 - $\ce{Li} \longrightarrow \ce{Li+} + \ce{1 e-}$
