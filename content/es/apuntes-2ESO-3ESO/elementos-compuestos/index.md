@@ -58,6 +58,8 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 - $\ce{Al} \longrightarrow \ce{Al^3+} + \ce{3 e-}$
 
 ### Semimetales
+**Sólidos frágiles/quebradizos** de **aspecto metálico** que son **semiconductores** y **se comportan como no metales**.
+
 ### No metales
 ### Gases nobles
 
