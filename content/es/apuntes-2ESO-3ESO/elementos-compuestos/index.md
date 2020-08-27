@@ -147,7 +147,7 @@ Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** 
 #### Fe
 El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que sea el **metal más utilizado** de la tabla periódica. Tiene **innumerables aplicaciones** y se puede encontrar en *todo*, desde **automóviles** hasta **electrónica**. Aleado con carbono forma **acero**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" title="[**Atomium**](https://es.wikipedia.org/wiki/Atomium), formado por nueve esferas de acero de 18 metros de diámetro cada una. Representa un **cristal** de **hierro** (Fe) aumentado 165 mil millones de veces. <br> Foto de [**fotografierende**](https://unsplash.com/@fotografierende) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" title="[**Atomium**](https://es.wikipedia.org/wiki/Atomium), formado por nueve esferas de **acero** de 18 metros de diámetro cada una. Representa un **cristal** de **hierro** (Fe) aumentado 165 mil millones de veces. <br> Foto de [**fotografierende**](https://unsplash.com/@fotografierende) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
 
 #### Cu
 El **cobre** (Cu) fue uno de los primeros metales utilizados por los humanos, que hace ya cientos de años Hace cientos de años, nuestros antepasados moldearon el material maleable en monedas. Resulta que acertaron. Hoy en día, todas las monedas de EE.UU. son aleaciones de cobre. El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la electrónica. Puedes agradecer a los cables coaxiales de cobre por ofrecer Internet y servicio de televisión por cable.
