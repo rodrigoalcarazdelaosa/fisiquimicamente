@@ -65,6 +65,8 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 ### No metales
 **Apariencia *apagada***, son **malos conductores** del **calor** y de la **electricidad** y son **frágiles**. Pueden ser **sólidos**, **líquidos** o **gaseosos** a temperatura ambiente.
 
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/azufre.jpg" title="Muestra de **azufre** (S). <br> https://commons.wikimedia.org/wiki/File:Sulfur-sample.jpg" lightbox="true" >}}
+
 #### Formación de iones
 Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon name="minus-circle" pack="fas" >}}).
 
