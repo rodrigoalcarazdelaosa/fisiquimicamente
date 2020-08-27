@@ -76,6 +76,7 @@ Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon 
 - $\ce{P} + \ce{3 e-} \longrightarrow \ce{P^3-}$
 
 ### Gases nobles
+He, Ne, Ar, Kr, Xe y ☢️ Rn. **Gases monoatómicos inodoros** e **incoloros** que **apenas reaccionan** químicamente, pues tienen **ocho electrones** en su **capa exterior**.
 
 ## Uniones entre átomos
 ### Regla del octeto
