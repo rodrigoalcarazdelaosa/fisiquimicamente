@@ -87,6 +87,16 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn. **Gases monoatómicos inodoros** e **incoloros**
 Los elementos tenderán a **unirse** para completar su capa exterior, **intercambiando** (cediendo/captando) o **compartiendo electrones**, y así **ganar estabilidad**. En función del número y tipo de átomos, distinguimos entre **moléculas** y **cristales**.
 
 ### Moléculas
+Son **grupos** eléctricamente **neutros** de **dos o más átomos** del mismo elemento o de elementos distintos, unidos por enlaces químicos.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Molécula de . " lightbox="false" width="100%" >}}
+
+#### Masa molecular
+La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos** y la **masa atómica** de cada **elemento**.
+##### Ejemplos
+- $m(\ce{H2O}) = 2\cdot m(\ce{H}) + m(\ce{O})$
+- $m(\ce{H2SO4}) = 2\cdot m(\ce{H}) + m(\ce{S}) + 4\cdot m(\ce{O})$
+
 ### Cristales
 
 ## Elementos y compuestos de especial interés
