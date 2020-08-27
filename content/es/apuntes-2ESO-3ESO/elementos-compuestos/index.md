@@ -134,9 +134,11 @@ Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro co
 
 ### Con aplicaciones tecnológicas 💻
 #### Li, Co y Ni
-El **litio** (Li) suele utilizarse para fabricar baterías recargables de iones de litio, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos. 
+Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos.
 
 #### Al
+**Metal** blando y ligero que se puede encontrar en *todo*, desde en espejos de telescopios hasta en piezas de aviones y líneas de trasporte eléctrico. 
+
 #### Si
 #### Fe
 #### Cu
