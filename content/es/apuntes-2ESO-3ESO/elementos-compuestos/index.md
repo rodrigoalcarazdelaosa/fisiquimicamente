@@ -105,16 +105,18 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 ## Elementos y compuestos de especial interés
 ### Con aplicaciones industriales 🏭
 #### Ácido sulfúrico H<sub>2</sub>SO<sub>4</sub>
-El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**[^1]. El ácido sulfúrico es el **compuesto químico más producido del mundo** y es incluso un **indicador** de la **capacidad industrial** de un **país**. Su principal uso es para crear [**ácido fosfórico**](https://es.wikipedia.org/wiki/%C3%81cido_fosf%C3%B3rico) que a su vez se emplea en **fertilizantes**.
+El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**[^1]. Es el **compuesto químico más producido del mundo** y es incluso un **indicador** de la **capacidad industrial** de un **país**. Su principal uso es para crear [**ácido fosfórico**](https://es.wikipedia.org/wiki/%C3%81cido_fosf%C3%B3rico) que a su vez se emplea en **fertilizantes**.
 
 [^1]: Al contacto puede causar graves **quemaduras químicas** e incluso **quemaduras térmicas** de segundo grado. 
 
 #### Etileno C<sub>2</sub>H<sub>4</sub>
-El **etileno**[^2] es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol).
+El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y almizclado* cuando es puro. Es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol).
 
 [^2]: Nombre recomendado por la IUPAC: **eteno**.
 
 #### Hidróxido de sodio NaOH
+
+
 #### Propileno C<sub>3</sub>H<sub>6</sub>
 #### Nitrógeno N<sub>2</sub>
 
