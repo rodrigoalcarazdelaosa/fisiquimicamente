@@ -174,3 +174,4 @@ Sc, Y y los lantanoides, considerados, entre otros, **elementos tecnológicament
 **Prótesis** e **implantes** de titanio (Ti), platino (Pt) u oro (Au).
 
 #### Diagnóstico y tratamiento de cáncer
+**Isótopos radiactivos** ☢️ como el <sup>60</sup>Co, \ch{^{99m}Tc}, \ch{^{131}I}, \ch{^{137}Cs} o el \ch{^{192}Ir}.
