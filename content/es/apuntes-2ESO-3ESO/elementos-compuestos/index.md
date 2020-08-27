@@ -110,7 +110,7 @@ El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es solub
 [^1]: Al contacto puede causar graves **quemaduras químicas** e incluso **quemaduras térmicas** de segundo grado. 
 
 #### Etileno C<sub>2</sub>H<sub>4</sub>
-El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y almizclado* cuando es puro. Es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol).
+El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y almizclado* cuando es puro. Es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol). El etileno es también una **hormona natural** de las **plantas**, usada en la agricultura para forzar la maduración de las frutas.
 
 [^2]: Nombre recomendado por la IUPAC: **eteno**.
 
