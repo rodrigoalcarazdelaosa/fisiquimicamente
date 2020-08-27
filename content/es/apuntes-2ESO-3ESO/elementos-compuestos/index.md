@@ -110,7 +110,7 @@ El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es solub
 [^1]: Al contacto puede causar graves **quemaduras químicas** e incluso **quemaduras térmicas** de segundo grado. 
 
 #### Etileno C<sub>2</sub>H<sub>4</sub>
-El **etileno**[^2] es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de **polietileno**
+El **etileno**[^2] es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de **polietileno**. También se utiliza para crear otros productos químicos, como el **etanol**.
 
 [^2]: Nombre recomendado por la IUPAC: **eteno**.
 
