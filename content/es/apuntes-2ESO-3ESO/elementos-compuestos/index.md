@@ -47,7 +47,7 @@ Los elementos químicos pueden clasificarse en general en **metales**, **semimet
 ### Metales
 **Apariencia brillante**, son **buenos conductores** del **calor** y de la **electricidad** y forman **aleaciones** con otros metales. La mayoría son **sólidos** a $T$ ambiente (**Hg** es 💧).
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lingotes-oro.jpg" title="Lingotes de oro (Au). Imagen de [**Steve Bidmead**](https://pixabay.com/es/users/Stevebidmead-249424/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lingotes-Au.jpg" title="Lingotes de oro (Au). Imagen de [**Steve Bidmead**](https://pixabay.com/es/users/Stevebidmead-249424/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 #### Formación de iones
 Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon name="plus-circle" pack="fas" >}}).
@@ -59,6 +59,8 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 
 ### Semimetales
 **Sólidos frágiles/quebradizos** de **aspecto metálico** que son [**semiconductores**](https://es.wikipedia.org/wiki/Semiconductor) y **se comportan como no metales**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="Detalle de una oblea de silicio (Si). Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
 
 ### No metales
 ### Gases nobles
