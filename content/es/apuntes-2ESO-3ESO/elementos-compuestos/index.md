@@ -165,6 +165,7 @@ El **indio** (In) es un metal plateado blando que a menudo se usa para producir 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="**Interferencia** en **láminas delgadas** causada por el revestimiento de **ITO** en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
 
 #### Tierras raras
+Sc, Y y los lantanoides, considerados, entre otros, **elementos tecnológicamente críticos**.
 
 ### Con aplicaciones biomédicas ⚕️
 #### Aplicaciones quirúrgicas
