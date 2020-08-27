@@ -89,7 +89,7 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 ### Moléculas
 Son **grupos** eléctricamente **neutros** de **dos o más átomos** del mismo elemento o de elementos distintos, unidos por enlaces químicos.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ átomo de carbono (C); 🔴 $\rightarrow$ oxígeno (O), ⚪ $\rightarrow$ hidrógeno (H). <br> https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ carbono (C); 🔴 $\rightarrow$ oxígeno (O); ⚪ $\rightarrow$ hidrógeno (H). <br> https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
 
 #### Masa molecular
 La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos** y la **masa atómica** de cada **elemento**.
@@ -99,6 +99,8 @@ La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos*
 
 ### Cristales
 Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas** o **iones**) están dispuestos en una **estructura** microscópica **muy ordenada**, formando una red cristalina que **se extiende en todas las direcciones**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="**Cristal** de **cloruro de sodio** (sal común). <br> 🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl). <br> https://freesvg.org/sodium-chloride-crystal" lightbox="false" width="100%" >}}
 
 ## Elementos y compuestos de especial interés
 ### Con aplicaciones industriales 🏭
