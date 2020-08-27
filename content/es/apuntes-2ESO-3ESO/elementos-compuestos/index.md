@@ -173,7 +173,7 @@ Sc, Y y los lantanoides, considerados, entre otros, **elementos tecnológicament
 #### Aplicaciones quirúrgicas
 **Prótesis** e **implantes** de titanio (Ti), platino (Pt) u oro (Au).
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/pierna-Ti.jpg" title="EXO Prosthetic Leg, una **prótesis** de **titanio** (Ti) impresa en 3D. <br> https://www.behance.net/gallery/20696469/Exo-Prosthetic-Leg" lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/pierna-Ti.jpg" title="**EXO Prosthetic Leg**, una **prótesis** de **titanio** (Ti) impresa en 3D. <br> https://www.behance.net/gallery/20696469/Exo-Prosthetic-Leg" lightbox="true" >}}
 
 #### Diagnóstico y tratamiento de cáncer
 **Isótopos radiactivos** ☢️ como el <sup>60</sup>Co, <sup>99m</sup>Tc, <sup>131</sup>I, \ch<sup>137</sup>Cs o el <sup>192</sup>Ir.
