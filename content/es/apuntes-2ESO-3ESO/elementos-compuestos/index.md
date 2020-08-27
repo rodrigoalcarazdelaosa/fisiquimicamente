@@ -105,6 +105,8 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 ## Elementos y compuestos de especial interés
 ### Con aplicaciones industriales 🏭
 #### Ácido sulfúrico H<sub>2</sub>SO<sub>4</sub>
+El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**.
+
 #### Etileno C<sub>2</sub>H<sub>4</sub>
 #### Hidróxido de sodio NaOH
 #### Propileno C<sub>3</sub>H<sub>6</sub>
