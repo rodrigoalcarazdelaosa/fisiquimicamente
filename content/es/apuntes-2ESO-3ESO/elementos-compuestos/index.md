@@ -115,6 +115,7 @@ El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y alm
 [^2]: Nombre recomendado por la IUPAC: **eteno**.
 
 #### Hidróxido de sodio NaOH
+El **hidróxido de sodio**, también conocido como **sosa caústica**, es un compuesto iónico sólido blanco vital para muchas industrias. Se emplea sobretodo en la **fabricación** de **papel**, **tejidos** y **agentes** de **limpieza**.
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/NaOH.jpg" title="***Lentejas*** de **hidróxido de sodio** (NaOH). <br> https://commons.wikimedia.org/wiki/File:SodiumHydroxide.jpg" lightbox="true" >}}
 
 
