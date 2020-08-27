@@ -162,7 +162,7 @@ Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza amplia
 #### In
 El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**), un ingrediente clave en las **pantallas táctiles**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="Interferencia en láminas delgadas causada por el revestimiento de ITO en la ventana de la cabina de un Airbus, utilizada para el descongelamiento. https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="Interferencia en láminas delgadas causada por el revestimiento de ITO en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
 
 #### Tierras raras
 
