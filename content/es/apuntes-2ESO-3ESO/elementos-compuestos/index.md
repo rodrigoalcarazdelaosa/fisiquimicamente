@@ -63,6 +63,16 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="Detalle de una **oblea** de **silicio** (Si). Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
 
 ### No metales
+**Apariencia *apagada***, son **malos conductores** del **calor** y de la **electricidad** y son **frágiles**. Pueden ser **sólidos**, **líquidos** o **gaseosos** a temperatura ambiente.
+
+#### Formación de iones
+Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon name="plus-circle" pack="fas" >}}).
+
+##### Ejemplos
+- $\ce{Cl} + \ce{1 e-} \longrightarrow \ce{Cl-}$
+- $\ce{O} + \ce{2 e-} \longrightarrow \ce{O^2-}$
+- $\ce{P} + \ce{3 e-} \longrightarrow \ce{P^3-}$
+
 ### Gases nobles
 
 ## Uniones entre átomos
