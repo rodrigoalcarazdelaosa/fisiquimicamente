@@ -30,6 +30,8 @@ slides:
 ## La tabla periódica de los elementos
 La **tabla periódica de los elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados por su número atómico $Z$**.
 
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tabla-periodica-elementos.svg" lightbox="false" width="100%" >}}
+
 ## Clasificación de los elementos químicos
 ### Metales
 ### Semimetales
