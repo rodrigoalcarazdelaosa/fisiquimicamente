@@ -142,6 +142,8 @@ Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfon
 #### Si
 Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** de **ordenador**, **LCDs** y **células solares**.
 
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="**Oblea** de **silicio** (Si). Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/). <br> https://commons.wikimedia.org/wiki/File:Liquidnitrogen.jpg" lightbox="true" >}}
+
 #### Fe
 #### Cu
 #### Ga
