@@ -53,7 +53,7 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 ##### Ejemplos
 - $\ce{Li} \longrightarrow \ce{Li+} + \ce{1 e-}$
 - $\ce{Mg} \longrightarrow \ce{Mg^2+} + \ce{2 e-}$
-- $\ch{Al} \longrightarrow \ch{Al^3+} + \ch{3 e-}$
+- $\ce{Al} \longrightarrow \ce{Al^3+} + \ce{3 e-}$
 
 ### Semimetales
 ### No metales
