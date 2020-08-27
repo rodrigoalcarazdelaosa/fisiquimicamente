@@ -105,7 +105,7 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 ## Elementos y compuestos de especial interés
 ### Con aplicaciones industriales 🏭
 #### Ácido sulfúrico H<sub>2</sub>SO<sub>4</sub>
-El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**[^1].
+El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**[^1]. El ácido sulfúrico es el compuesto químico más producido del mundo y es incluso un indicador de la capacidad industrial de un país.
 
 [^1]: Al contacto puede causar graves **quemaduras químicas** e incluso **quemaduras térmicas** de segundo grado. 
 
