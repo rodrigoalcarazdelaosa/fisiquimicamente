@@ -162,7 +162,7 @@ Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza amplia
 #### In
 El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**), un ingrediente clave en las **pantallas táctiles**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="**Interferencia** en **láminas delgadas** causada por el revestimiento de **ITO** en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="**Interferencia** en **láminas delgadas** causada por el revestimiento de **ITO** en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. <br> https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
 
 #### Tierras raras
 Sc, Y y los lantanoides, considerados, entre otros, **elementos tecnológicamente críticos**[^5]. Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **comunicaciones** o la **informática**.
@@ -172,6 +172,8 @@ Sc, Y y los lantanoides, considerados, entre otros, **elementos tecnológicament
 ### Con aplicaciones biomédicas ⚕️
 #### Aplicaciones quirúrgicas
 **Prótesis** e **implantes** de titanio (Ti), platino (Pt) u oro (Au).
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/pierna-Ti.jpg" title="**Interferencia** en **láminas delgadas** causada por el revestimiento de **ITO** en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. <br> https://www.behance.net/gallery/20696469/Exo-Prosthetic-Leg" lightbox="true" >}}
 
 #### Diagnóstico y tratamiento de cáncer
 **Isótopos radiactivos** ☢️ como el <sup>60</sup>Co, <sup>99m</sup>Tc, <sup>131</sup>I, \ch<sup>137</sup>Cs o el <sup>192</sup>Ir.
