@@ -98,6 +98,7 @@ La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos*
 - $m(\ce{H2SO4}) = 2\cdot m(\ce{H}) + m(\ce{S}) + 4\cdot m(\ce{O})$
 
 ### Cristales
+Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas** o **iones**) están dispuestos en una **estructura** microscópica **muy ordenada**, formando una red cristalina que **se extiende en todas las direcciones**.
 
 ## Elementos y compuestos de especial interés
 ### Con aplicaciones industriales 🏭
