@@ -126,7 +126,9 @@ El **propileno**[^3] es un gas incoloro con un ligero olor a petróleo. Es un co
 [^3]: Nombre recomendado por la IUPAC: **propeno**.
 
 #### Nitrógeno N<sub>2</sub>
-El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de -195.8$\thinspace$&deg;C. 
+El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de -195.8$\thinspace$&deg;C. Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**. **Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica. **Líquido** es importante en investigación médica y conservación.
+
+Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), otro compuesto **crucial** en sí mismo.
 
 ### Con aplicaciones tecnológicas 💻
 #### Li, Co y Ni
