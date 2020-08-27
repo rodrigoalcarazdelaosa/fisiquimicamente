@@ -32,6 +32,8 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tabla-periodica-elementos.svg" lightbox="false" width="100%" >}}
 
+### Propiedades periódicas
+
 ## Clasificación de los elementos químicos
 ### Metales
 ### Semimetales
