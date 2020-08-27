@@ -66,7 +66,7 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 **Apariencia *apagada***, son **malos conductores** del **calor** y de la **electricidad** y son **frágiles**. Pueden ser **sólidos**, **líquidos** o **gaseosos** a temperatura ambiente.
 
 #### Formación de iones
-Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon name="plus-circle" pack="fas" >}}).
+Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon name="minus-circle" pack="fas" >}}).
 
 ##### Ejemplos
 - $\ce{Cl} + \ce{1 e-} \longrightarrow \ce{Cl-}$
