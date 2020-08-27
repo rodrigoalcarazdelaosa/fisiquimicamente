@@ -34,6 +34,26 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 ### Propiedades periódicas
 
+| Mismo periodo | Mismo grupo |
+| --- | --- |
+| Mismo número de capas electrónicas | Mismo número de e<sup>-</sup> en capa exterior |
+| $Z$ y $A$ aumentan $\rightarrow$ | $Z$ y $A$ aumentan $\downarrow$ |
+| Carácter metálico disminuye $\rightarrow$ | Carácter metálico aumenta $\downarrow$ |
+| Radio atómico disminuye $\rightarrow$ | Radio atómico aumenta $\downarrow$ |
+
+
+{	\begin{tabular}{ll}
+\multicolumn{2}{c}{\textbf{\textsc{propiedades periódicas}}} \\
+		\toprule
+		\textbf{Mismo periodo} & \textbf{Mismo grupo}\\
+		\midrule
+		Mismo número de capas electrónicas & Mismo número de \ch{e-} en capa exterior \\
+		$Z$ y $A$ aumentan $\rightarrow$ & $Z$ y $A$ aumentan $\downarrow$ \\
+		Carácter metálico disminuye $\rightarrow$ & Carácter metálico aumenta $\downarrow$ \\
+		Radio atómico disminuye $\rightarrow$ & Radio atómico aumenta $\downarrow$ \\
+		\bottomrule
+	\end{tabular}};
+
 ## Clasificación de los elementos químicos
 ### Metales
 ### Semimetales
