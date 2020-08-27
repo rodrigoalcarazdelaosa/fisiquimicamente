@@ -89,7 +89,7 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 ### Moléculas
 Son **grupos** eléctricamente **neutros** de **dos o más átomos** del mismo elemento o de elementos distintos, unidos por enlaces químicos.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Molécula de . " lightbox="false" width="100%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una molécula de sacarosa. {{< icon name="circle" pack="fas" >}} - átomo de carbono (C); <span style="color:red">{{< icon name="circle" pack="fas" >}}</span> - oxígeno (O), <span style="color:white">{{< icon name="circle" pack="fas" >}}</span> - hidrógeno (H). <br> https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
 
 #### Masa molecular
 La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos** y la **masa atómica** de cada **elemento**.
