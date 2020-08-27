@@ -171,4 +171,6 @@ Sc, Y y los lantanoides, considerados, entre otros, **elementos tecnológicament
 
 ### Con aplicaciones biomédicas ⚕️
 #### Aplicaciones quirúrgicas
+**Prótesis** e **implantes** de titanio (Ti), platino (Pt) u oro (Au).
+
 #### Diagnóstico y tratamiento de cáncer
