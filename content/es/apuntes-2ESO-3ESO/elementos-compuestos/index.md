@@ -116,10 +116,15 @@ El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y alm
 
 #### Hidróxido de sodio NaOH
 El **hidróxido de sodio**, también conocido como **sosa caústica**, es un compuesto iónico sólido blanco vital para muchas industrias. Se emplea sobretodo en la **fabricación** de **papel**, **tejidos** y **agentes** de **limpieza**.
+
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/NaOH.jpg" title="***Lentejas*** de **hidróxido de sodio** (NaOH). <br> https://commons.wikimedia.org/wiki/File:SodiumHydroxide.jpg" lightbox="true" >}}
 
 
 #### Propileno C<sub>3</sub>H<sub>6</sub>
+El **propileno**[^3] es un gas incoloro con un ligero olor a petróleo. Es un compuesto enormemente importante para la **industria petroquímica**, donde se utiliza como **combustible** o para la **producción** de **caucho/plástico**.
+
+[^3]: Nombre recomendado por la IUPAC: **propeno**.
+
 #### Nitrógeno N<sub>2</sub>
 
 ### Con aplicaciones tecnológicas 💻
