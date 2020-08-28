@@ -138,7 +138,7 @@ Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro co
 #### Litio (Li), cobalto (Co) y níquel (Ni)
 Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/baterias-porsche.jpg" title="**Baterías** de iones de litio (Li) del Porsche Taycan. <br> https://press.porsche.com/prod/presse_pag/PressResources.nsf/Content?ReadForm&languageversionid=878435" lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/baterias-porsche.jpg" title="[**Baterías** de iones de litio (Li)](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_ion_de_litio) del Porsche Taycan. <br> https://press.porsche.com/prod/presse_pag/PressResources.nsf/Content?ReadForm&languageversionid=878435" lightbox="true" >}}
 
 #### Aluminio (Al)
 **Metal** blando y ligero que se puede encontrar en *todo*, desde en **espejos** de **telescopios** hasta en **piezas** de **aviones** y **líneas** de **transporte eléctrico**. El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran protagonista en la industria del **embalaje**.
