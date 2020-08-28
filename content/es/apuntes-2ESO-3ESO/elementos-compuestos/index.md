@@ -104,7 +104,7 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 ## Elementos y compuestos de especial interés
 ### Con aplicaciones industriales 🏭
-#### Ácido sulfúrico H<sub>2</sub>SO<sub>4</sub>
+#### Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)
 El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**[^1]. Es el **compuesto químico más producido del mundo** y es incluso un **indicador** de la **capacidad industrial** de un **país**. Su principal uso es para crear [**ácido fosfórico**](https://es.wikipedia.org/wiki/%C3%81cido_fosf%C3%B3rico) que a su vez se emplea en **fertilizantes**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/H2SO4.jpg" title="Gotas de **ácido sulfúrico** concentrado descomponen rápidamente un trozo de toalla de algodón por deshidratación. <br> https://commons.wikimedia.org/wiki/File:Sulphuric_acid_on_a_piece_of_towel.JPG" lightbox="true" >}}
