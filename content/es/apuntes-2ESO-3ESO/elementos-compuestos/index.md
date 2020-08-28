@@ -135,37 +135,37 @@ El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura
 Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro con un característico olor acre, **crucial** en sí mismo.
 
 ### Con aplicaciones tecnológicas 💻
-#### Li, Co y Ni
+#### Litio (Li), cobalto (Co) y níquel (Ni)
 Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/baterias-porsche.jpg" title="**Baterías** del Porsche Taycan. <br> https://press.porsche.com/prod/presse_pag/PressResources.nsf/Content?ReadForm&languageversionid=878435" lightbox="true" >}}
 
-#### Al
+#### Aluminio (Al)
 **Metal** blando y ligero que se puede encontrar en *todo*, desde en **espejos** de **telescopios** hasta en **piezas** de **aviones** y **líneas** de **transporte eléctrico**. El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran protagonista en la industria del **embalaje**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lata-Al.jpg" title="Muchas **latas** están hechas de **aluminio** (Al). <br> Foto de [**Karolina Grabowska**](https://www.pexels.com/es-es/@karolina-grabowska) en [Pexels](https://www.pexels.com/es-es/)." lightbox="true" >}}
 
-#### Si
+#### Silicio (Si)
 Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** de **ordenador**, **LCDs** y **células solares**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="Detalle de una **oblea** de **silicio** (Si). Cada cuadrado es un chip con transistores y circuitos microscópicos. <br> Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
 
-#### Fe
+#### Hierro (Fe)
 El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que sea el **metal más utilizado** de la tabla periódica. Tiene **innumerables aplicaciones** y se puede encontrar en *todo*, desde **automóviles** hasta **electrónica**. Aleado con carbono forma **acero**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" title="[**Atomium**](https://es.wikipedia.org/wiki/Atomium), formado por nueve esferas de **acero** de 18 metros de diámetro cada una. Representa un **cristal** de **hierro** (Fe) aumentado 165 mil millones de veces. <br> Foto de [**fotografierende**](https://unsplash.com/@fotografierende) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
 
-#### Cu
+#### Cobre (Cu)
 El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense#Tasa_de_cambio_y_cotizaci%C3%B3n). El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" title="**Conductor** eléctrico de **cobre** (Cu).<br> https://commons.wikimedia.org/wiki/File:Stranded_lamp_wire.jpg" lightbox="true" >}}
 
-#### Ga
+#### Galio (Ga)
 Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza ampliamente en la industria **electrónica**, donde se puede encontrar en **luces LED**, teléfonos **móviles**, **ordenadores** y **televisores**. También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente[^4], se encuentra comúnmente en los **termómetros** médicos.
 
 [^4]: Su temperatura de fusión es de 29.8$\thinspace$&deg;C.
 
-#### In
+#### Indio (In)
 El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**), un ingrediente clave en las **pantallas táctiles**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="**Interferencia** en **láminas delgadas** causada por el revestimiento de **ITO** en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. <br> https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
