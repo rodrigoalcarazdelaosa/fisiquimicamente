@@ -168,7 +168,7 @@ Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza amplia
 [^4]: Su temperatura de fusión es de 29.8$\thinspace$&deg;C.
 
 #### Indio (In)
-El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**), un ingrediente clave en las **pantallas táctiles**.
+El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**, por sus siglas en inglés), un ingrediente clave en las **pantallas táctiles**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="**Interferencia** en **láminas delgadas** causada por el revestimiento de **ITO** en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. <br> https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
 
