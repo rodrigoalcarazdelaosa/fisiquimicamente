@@ -175,6 +175,8 @@ El **indio** (In) es un metal plateado blando que a menudo se usa para producir 
 #### Tierras raras
 **Escandio** (Sc), **ytrio** (Y) y los **lantanoides**, considerados, entre otros, **elementos tecnológicamente críticos**[^5]. Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **comunicaciones** o la **informática**.
 
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tierras-raras.jpg" title="De izquierda a derecha,  <br> https://www.ars.usda.gov/oc/images/photos/jun05/d115-1/" lightbox="true" >}}
+
 [^5]: Elementos químicos importantes para las **tecnologías emergentes**, con una demanda mucho mayor que en el pasado y una **oferta escasa en relación con la demanda**.
 
 ### Con aplicaciones biomédicas ⚕️
