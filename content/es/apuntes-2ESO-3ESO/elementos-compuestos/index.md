@@ -30,7 +30,7 @@ slides:
 ## La tabla periódica de los elementos
 La **tabla periódica de los elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados por su número atómico $Z$**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tabla-periodica-elementos.svg" title="Descárgate esta tabla periódica en alta resolución [aquí]({{< ref "/post/tabla-periodica-elementos/index.md" >}})." lightbox="false" width="100%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tabla-periodica-elementos.svg" title="Descárgate esta tabla periódica en alta resolución [aquí](https://rodrigoalcarazdelaosa.me/blog/2020/08/23/tabla-periodica-de-los-elementos/)." lightbox="false" width="100%" >}}
 
 ### Propiedades periódicas
 
