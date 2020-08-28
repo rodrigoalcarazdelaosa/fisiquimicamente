@@ -111,23 +111,23 @@ El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es solub
 
 [^1]: Al contacto puede causar graves **quemaduras químicas** e incluso **quemaduras térmicas** de segundo grado. 
 
-#### Etileno C<sub>2</sub>H<sub>4</sub>
+#### Etileno (C<sub>2</sub>H<sub>4</sub>)
 El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y almizclado* cuando es puro. Es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol). El etileno es también una **hormona natural** de las **plantas**, usada en la agricultura para forzar la maduración de las frutas.
 
 [^2]: Nombre recomendado por la IUPAC: **eteno**.
 
-#### Hidróxido de sodio NaOH
+#### Hidróxido de sodio (NaOH)
 El **hidróxido de sodio**, también conocido como **sosa caústica**, es un compuesto iónico sólido blanco vital para muchas industrias. Se emplea sobretodo en la **fabricación** de **papel**, **tejidos** y **agentes** de **limpieza**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/NaOH.jpg" title="***Lentejas*** de **hidróxido de sodio** (NaOH). <br> https://commons.wikimedia.org/wiki/File:SodiumHydroxide.jpg" lightbox="true" >}}
 
 
-#### Propileno C<sub>3</sub>H<sub>6</sub>
+#### Propileno (C<sub>3</sub>H<sub>6</sub>)
 El **propileno**[^3] es un gas incoloro con un ligero olor a petróleo. Es un compuesto enormemente importante para la **industria petroquímica**, donde se utiliza como **combustible** o para la **producción** de **caucho/plástico**.
 
 [^3]: Nombre recomendado por la IUPAC: **propeno**.
 
-#### Nitrógeno N<sub>2</sub>
+#### Nitrógeno (N<sub>2</sub>)
 El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de -195.8$\thinspace$&deg;C. Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**. **Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica. **Líquido** es importante en **investigación médica** y **conservación**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/nitrogeno-liquido.jpg" title="**Nitrógeno líquido**. <br> https://commons.wikimedia.org/wiki/File:Liquidnitrogen.jpg" lightbox="true" >}}
