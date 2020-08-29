@@ -365,7 +365,11 @@ El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente 
 ---
 
 #### Galio (Ga)
-Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza ampliamente en la industria **electrónica**, donde se puede encontrar en **luces LED**, teléfonos **móviles**, **ordenadores** y **televisores**. También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente[^4], se encuentra comúnmente en los **termómetros** médicos.
+Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza ampliamente en la industria **electrónica**, donde se puede encontrar en **luces LED**, teléfonos **móviles**, **ordenadores** y **televisores**.
+
+---
+
+También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente[^4], se encuentra comúnmente en los **termómetros** médicos.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" title="**Luces LED** de colores, fabricadas a partir de compuestos de **galio** (Ga). <br> https://commons.wikimedia.org/wiki/File:RBG-LED.jpg" lightbox="true" >}}
 
