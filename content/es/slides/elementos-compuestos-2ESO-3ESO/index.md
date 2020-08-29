@@ -134,10 +134,22 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn.
 {{% section %}}
 
 ## Uniones entre átomos
+- Regla del octeto
+- Moléculas
+- Cristales
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Regla del octeto
 > La **configuración más estable** para cualquier átomo es contar con **ocho electrones** en la **capa exterior**.
 
 Los elementos tenderán a **unirse** para completar su capa exterior, **intercambiando** (cediendo/captando) o **compartiendo electrones**, y así **ganar estabilidad**. En función del número y tipo de átomos, distinguimos entre **moléculas** y **cristales**.
+
+---
 
 ### Moléculas
 Son **grupos** eléctricamente **neutros** de **dos o más átomos** del mismo elemento o de elementos distintos, unidos por enlaces químicos.
