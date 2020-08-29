@@ -369,7 +369,9 @@ Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza amplia
 
 ---
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" lightbox="false" >}}
+##### Luces LED
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" lightbox="false" width="90%" >}}
 
 ---
 
