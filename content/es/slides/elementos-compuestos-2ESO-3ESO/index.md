@@ -421,6 +421,8 @@ Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **c
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/pierna-Ti.jpg" title="**Prótesis** de **titanio** (Ti) impresa en 3D." lightbox="false" width="80%" >}}
 
+---
+
 #### Diagnóstico y tratamiento de cáncer
 **Isótopos radiactivos** ☢️ como el <sup>60</sup>Co, <sup>99m</sup>Tc, <sup>131</sup>I, <sup>137</sup>Cs o el <sup>192</sup>Ir.
 
