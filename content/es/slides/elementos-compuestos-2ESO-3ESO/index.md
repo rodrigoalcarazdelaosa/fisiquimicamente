@@ -388,6 +388,8 @@ El **indio** (In) es un metal plateado blando que a menudo se usa para producir 
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" lightbox="false" >}}
 
+---
+
 #### Tierras raras
 **Escandio** (Sc), **ytrio** (Y) y los **lantanoides**, considerados, entre otros, **elementos tecnológicamente críticos**[^5]. Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **comunicaciones** o la **informática**.
 
