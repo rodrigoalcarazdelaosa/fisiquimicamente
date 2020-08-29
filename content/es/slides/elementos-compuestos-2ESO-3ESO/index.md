@@ -65,4 +65,50 @@ Según sus **propiedades físicas** y **químicas comunes**, los elementos quím
 
 👇
 
+---
+
+### Metales
+**Apariencia brillante**, son **buenos conductores** del **calor** y de la **electricidad** y forman **aleaciones** con otros metales. La mayoría son **sólidos** a $T$ ambiente (**Hg** es 💧).
+
+---
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lingotes-Au.jpg" title="**Lingotes** de **oro** (Au). Imagen de [**Steve Bidmead**](https://pixabay.com/es/users/Stevebidmead-249424/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
+---
+
+#### Formación de iones
+Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon name="plus-circle" pack="fas" >}}).
+
+---
+
+##### Ejemplos
+- $\ce{Li} \longrightarrow \ce{Li+} + \ce{1 e-}$
+- $\ce{Mg} \longrightarrow \ce{Mg^2+} + \ce{2 e-}$
+- $\ce{Al} \longrightarrow \ce{Al^3+} + \ce{3 e-}$
+
+---
+
+### Semimetales
+**Sólidos frágiles/quebradizos** de **aspecto metálico** que son [**semiconductores**](https://es.wikipedia.org/wiki/Semiconductor) y **se comportan como no metales**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/silicio.jpg" title="Detalle de un trozo de **silicio** (Si) purificado. <br> https://commons.wikimedia.org/wiki/File:SiliconCroda.jpg" lightbox="true" >}}
+
+### No metales
+**Apariencia *apagada***, son **malos conductores** del **calor** y de la **electricidad** y son **frágiles**. Pueden ser **sólidos**, **líquidos** o **gaseosos** a temperatura ambiente.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/azufre.jpg" title="Muestra de **azufre** (S). <br> https://commons.wikimedia.org/wiki/File:Sulfur-sample.jpg" lightbox="true" >}}
+
+#### Formación de iones
+Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon name="minus-circle" pack="fas" >}}).
+
+##### Ejemplos
+- $\ce{Cl} + \ce{1 e-} \longrightarrow \ce{Cl-}$
+- $\ce{O} + \ce{2 e-} \longrightarrow \ce{O^2-}$
+- $\ce{P} + \ce{3 e-} \longrightarrow \ce{P^3-}$
+
+### Gases nobles
+He, Ne, Ar, Kr, Xe y ☢️ Rn. **Gases monoatómicos inodoros** e **incoloros** que **apenas reaccionan** químicamente, pues tienen **ocho electrones** en su **capa exterior**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/gases-nobles.jpg" title="**Gases nobles** brillando dentro de frascos de vidrio a baja presión. <br> https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg" lightbox="true" >}}
+
 {{% /section %}}
