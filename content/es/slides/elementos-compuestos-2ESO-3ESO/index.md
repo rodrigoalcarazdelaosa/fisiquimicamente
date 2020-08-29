@@ -290,7 +290,7 @@ Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, *
 
 **Líquido** es importante en **investigación médica** y **conservación**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/nitrogeno-liquido.jpg" lightbox="false" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/nitrogeno-liquido.jpg" lightbox="false" width="60%" >}}
 
 ---
 
