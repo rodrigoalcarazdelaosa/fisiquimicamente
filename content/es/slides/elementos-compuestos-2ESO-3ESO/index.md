@@ -191,6 +191,10 @@ La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos*
 ### Cristales
 Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas** o **iones**) están dispuestos en una **estructura** microscópica **muy ordenada**, formando una red cristalina que **se extiende en todas las direcciones**.
 
+---
+
+#### Cristal de cloruro de sodio (sal común)
+
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="**Cristal** de **cloruro de sodio** (sal común). <br> 🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl). <br> https://freesvg.org/sodium-chloride-crystal" lightbox="false" width="100%" >}}
 
 {{% /section %}}
