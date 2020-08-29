@@ -369,7 +369,7 @@ Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza amplia
 
 ---
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" title="**Luces LED** de colores, fabricadas a partir de compuestos de **galio** (Ga). <br> https://commons.wikimedia.org/wiki/File:RBG-LED.jpg" lightbox="false" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" lightbox="false" >}}
 
 ---
 
