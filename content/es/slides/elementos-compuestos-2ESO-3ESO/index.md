@@ -397,7 +397,7 @@ El **indio** (In) es un metal plateado blando que a menudo se usa para producir 
 
 ##### Óxidos de tierras raras
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tierras-raras.jpg" title="En el sentido de las agujas del reloj desde el centro arriba: praseodimio (Pr), cerio (Ce), lantano (La), neodimio (Nd), samario (Sm) y gadolinio (Gd). <br> https://www.ars.usda.gov/oc/images/photos/jun05/d115-1/" lightbox="false" width="50%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tierras-raras.jpg" title="En el sentido de las agujas del reloj desde el centro arriba: praseodimio (Pr), cerio (Ce), lantano (La), neodimio (Nd), samario (Sm) y gadolinio (Gd)." lightbox="false" width="50%" >}}
 
 ---
 
