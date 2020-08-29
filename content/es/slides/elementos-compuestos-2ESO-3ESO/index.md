@@ -360,7 +360,7 @@ El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepa
 
 El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" lightbox="false" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" lightbox="false" width="80%" >}}
 
 ---
 
