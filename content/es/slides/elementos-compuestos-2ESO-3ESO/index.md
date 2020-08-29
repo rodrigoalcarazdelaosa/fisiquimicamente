@@ -296,6 +296,8 @@ Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, *
 
 Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro con un característico olor acre, **crucial** en sí mismo.
 
+---
+
 ### Con aplicaciones tecnológicas 💻
 #### Litio (Li), cobalto (Co) y níquel (Ni)
 Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos.
