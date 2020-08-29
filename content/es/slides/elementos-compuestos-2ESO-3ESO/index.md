@@ -93,7 +93,7 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 
 ---
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/silicio.jpg" title="Detalle de un trozo de **silicio** (Si) purificado. <br> https://commons.wikimedia.org/wiki/File:SiliconCroda.jpg" lightbox="false" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/silicio.jpg" lightbox="false" >}}
 
 ### No metales
 **Apariencia *apagada***, son **malos conductores** del **calor** y de la **electricidad** y son **frágiles**. Pueden ser **sólidos**, **líquidos** o **gaseosos** a temperatura ambiente.
