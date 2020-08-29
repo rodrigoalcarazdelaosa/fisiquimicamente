@@ -369,11 +369,11 @@ Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza amplia
 
 ---
 
-También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente[^4], se encuentra comúnmente en los **termómetros** médicos.
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" title="**Luces LED** de colores, fabricadas a partir de compuestos de **galio** (Ga). <br> https://commons.wikimedia.org/wiki/File:RBG-LED.jpg" lightbox="false" >}}
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" title="**Luces LED** de colores, fabricadas a partir de compuestos de **galio** (Ga). <br> https://commons.wikimedia.org/wiki/File:RBG-LED.jpg" lightbox="true" >}}
+---
 
-[^4]: Su temperatura de fusión es de 29.8$\thinspace$&deg;C.
+También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente, se encuentra comúnmente en los **termómetros** médicos.
 
 #### Indio (In)
 El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**, por sus siglas en inglés), un ingrediente clave en las **pantallas táctiles**.
