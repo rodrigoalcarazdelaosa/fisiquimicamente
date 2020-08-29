@@ -314,7 +314,7 @@ Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro co
 #### Litio (Li), cobalto (Co) y níquel (Ni)
 Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/baterias-porsche.jpg" title="[**Baterías** de iones de litio (Li)](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_ion_de_litio) del [Porsche Taycan](https://www.porsche.com/spain/models/taycan/taycan-models/). <br> https://press.porsche.com/prod/presse_pag/PressResources.nsf/Content?ReadForm&languageversionid=878435" lightbox="false" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/baterias-porsche.jpg" title="[**Baterías** de iones de litio (Li)](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_ion_de_litio) del [Porsche Taycan](https://www.porsche.com/spain/models/taycan/taycan-models/)." lightbox="false" width="80%" >}}
 
 ---
 
