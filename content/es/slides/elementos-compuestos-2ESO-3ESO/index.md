@@ -343,7 +343,7 @@ El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que se
 
 Aleado con carbono forma **acero**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" lightbox="false" width="45%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" lightbox="false" width="40%" >}}
 
 ---
 
