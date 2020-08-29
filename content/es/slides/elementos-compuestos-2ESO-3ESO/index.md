@@ -386,7 +386,7 @@ El **indio** (In) es un metal plateado blando que a menudo se usa para producir 
 
 ##### Recubrimiento de ITO
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" lightbox="false" width="90%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" lightbox="false" width="85%" >}}
 
 ---
 
