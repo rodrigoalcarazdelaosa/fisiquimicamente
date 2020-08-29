@@ -56,7 +56,7 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 Según sus **propiedades físicas** y **químicas comunes**, los elementos químicos pueden clasificarse en general en:
 
-- [Metales]
+- [Metales](#/2/1)
 - [Semimetales]
 - [No metales]
 - [Gases nobles]
