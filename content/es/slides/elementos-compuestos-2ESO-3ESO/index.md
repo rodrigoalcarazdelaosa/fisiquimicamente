@@ -95,6 +95,8 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 
 ---
 
+#### Silicio
+
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/silicio.jpg" lightbox="false" >}}
 
 ---
