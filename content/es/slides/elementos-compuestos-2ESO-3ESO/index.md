@@ -299,6 +299,18 @@ Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro co
 ---
 
 ### Con aplicaciones tecnológicas 💻
+
+- Litio (Li), cobalto (Co) y níquel (Ni)
+- Aluminio (Al)
+- Silicio (Si)
+- Hierro (Fe)
+- Cobre (Cu)
+- Galio (Ga)
+- Indio (In)
+- Tierras raras
+
+---
+
 #### Litio (Li), cobalto (Co) y níquel (Ni)
 Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos.
 
