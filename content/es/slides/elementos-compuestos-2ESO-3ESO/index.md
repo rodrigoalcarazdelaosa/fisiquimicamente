@@ -428,7 +428,7 @@ Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **c
 
 ---
 
-##### Semillas de <sup>125</sup>I
+##### *Semillas* de <sup>125</sup>I
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/semillas-iodo.jpg" lightbox="false" >}}
 
