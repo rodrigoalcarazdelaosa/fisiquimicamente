@@ -407,8 +407,8 @@ Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **c
 
 ### Con aplicaciones biomédicas ⚕️
 
-- Aplicaciones quirúrgicas
-- Diagnóstico y tratamiento de cáncer
+- [Aplicaciones quirúrgicas](#/4/37)
+- [Diagnóstico y tratamiento de cáncer](#/4/39)
 
 ---
 
