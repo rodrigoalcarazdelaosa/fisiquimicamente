@@ -424,7 +424,7 @@ Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **c
 ---
 
 #### Diagnóstico y tratamiento de cáncer
-**Isótopos radiactivos** ☢️ como el <sup>60</sup>Co, <sup>99m</sup>Tc, <sup>131</sup>I, <sup>137</sup>Cs o el <sup>192</sup>Ir.
+[**Isótopos radiactivos** ☢️](https://es.wikipedia.org/wiki/Radiois%C3%B3topo) como el <sup>60</sup>Co, <sup>99m</sup>Tc, <sup>131</sup>I, <sup>137</sup>Cs o el <sup>192</sup>Ir.
 
 ---
 
