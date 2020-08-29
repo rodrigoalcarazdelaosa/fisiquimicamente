@@ -183,8 +183,8 @@ La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos*
 ---
 
 ##### Ejemplos
-- $m(\ce{H2O}) = 2\cdot m(\ce{H}) + m(\ce{O})$
-- $m(\ce{H2SO4}) = 2\cdot m(\ce{H}) + m(\ce{S}) + 4\cdot m(\ce{O})$
+- $m(\mathrm{H_2 O}) = 2\cdot m(\mathrm{H}) + m(\mathrm{O})$
+- $m(\mathrm{H_2 SO_4}) = 2\cdot m(\mathrm{H}) + m(\mathrm{S}) + 4\cdot m(\mathrm{O})$
 
 ---
 
