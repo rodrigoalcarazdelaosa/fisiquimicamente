@@ -276,9 +276,19 @@ El **propileno** es un gas incoloro con un ligero olor a petróleo. Es un compue
 ---
 
 #### Nitrógeno (N<sub>2</sub>)
-El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de -195.8$\thinspace$&deg;C. Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**. **Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica. **Líquido** es importante en **investigación médica** y **conservación**.
+El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de -195.8$\thinspace$&deg;C.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/nitrogeno-liquido.jpg" title="**Nitrógeno líquido**. <br> https://commons.wikimedia.org/wiki/File:Liquidnitrogen.jpg" lightbox="true" >}}
+---
+
+Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**. **Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica.
+
+---
+
+**Líquido** es importante en **investigación médica** y **conservación**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/nitrogeno-liquido.jpg" lightbox="false" >}}
+
+---
 
 Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro con un característico olor acre, **crucial** en sí mismo.
 
