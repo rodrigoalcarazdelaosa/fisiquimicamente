@@ -82,9 +82,9 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 ---
 
 ##### Ejemplos
-- $\ce{Li} \longrightarrow \ce{Li+} + \ce{1 e-}$
-- $\ce{Mg} \longrightarrow \ce{Mg^2+} + \ce{2 e-}$
-- $\ce{Al} \longrightarrow \ce{Al^3+} + \ce{3 e-}$
+- $\mathrm{Li} \longrightarrow \mathrm{Li^+} + \mathrm{1 e^-}$
+- $\mathrm{Mg} \longrightarrow \mathrm{Mg^{2+}} + \mathrm{2 e^-}$
+- $\mathrm{Al} \longrightarrow \mathrm{Al^{3+}} + \mathrm{3 e^-}$
 
 ---
 
