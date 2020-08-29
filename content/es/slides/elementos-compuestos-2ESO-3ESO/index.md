@@ -72,6 +72,8 @@ Según sus **propiedades físicas** y **químicas comunes**, los elementos quím
 
 ---
 
+#### Lingotes de oro (Au)
+
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lingotes-Au.jpg" lightbox="false" width="100%" >}}
 
 ---
