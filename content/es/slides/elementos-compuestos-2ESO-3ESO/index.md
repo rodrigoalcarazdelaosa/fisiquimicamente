@@ -332,7 +332,7 @@ El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran
 #### Silicio (Si)
 Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** de **ordenador**, **LCDs** y **células solares**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" lightbox="false" width="75%" >}}
 
 ---
 
