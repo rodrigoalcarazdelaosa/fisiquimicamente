@@ -430,6 +430,6 @@ Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **c
 
 ##### Semillas de iodo-125
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/semillas-iodo.jpg" title="***Semillas*** de **iodo-125** (<sup>125</sup>I) al lado de una moneda de cinco centavos de dólar (*nickel*). <br> https://thewell.northwell.edu/brachytherapy-right-me" lightbox="false" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/semillas-iodo.jpg" lightbox="false" >}}
 
 {{% /section %}}
