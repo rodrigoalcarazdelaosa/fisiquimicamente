@@ -22,7 +22,7 @@ links:
   name: Póster
   url: elementos-compuestos-poster.pdf
   
-slides: 
+slides: elementos-compuestos-2ESO-3ESO
 ---
 
 {{% toc %}}
