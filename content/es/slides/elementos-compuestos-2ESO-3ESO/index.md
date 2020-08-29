@@ -243,9 +243,21 @@ Su principal uso es para crear [**ácido fosfórico**](https://es.wikipedia.org/
 ---
 
 #### Etileno (C<sub>2</sub>H<sub>4</sub>)
-El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y almizclado* cuando es puro. Es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol). El etileno es también una **hormona natural** de las **plantas**, usada en la agricultura para forzar la maduración de las frutas.
+El **etileno** es un gas inflamable incoloro con un ligero olor *dulce y almizclado* cuando es puro.
 
-[^2]: Nombre recomendado por la IUPAC: **eteno**.
+---
+
+Es el **compuesto orgánico más producido del mundo**.
+
+---
+
+Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol).
+
+---
+
+El etileno es también una **hormona natural** de las **plantas**, usada en la agricultura para forzar la maduración de las frutas.
+
+---
 
 #### Hidróxido de sodio (NaOH)
 El **hidróxido de sodio**, también conocido como **sosa caústica**, es un compuesto iónico sólido blanco vital para muchas industrias. Se emplea sobretodo en la **fabricación** de **papel**, **tejidos** y **agentes** de **limpieza**.
