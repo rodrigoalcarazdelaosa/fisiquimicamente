@@ -100,15 +100,23 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 ### No metales
 **Apariencia *apagada***, son **malos conductores** del **calor** y de la **electricidad** y son **frágiles**. Pueden ser **sólidos**, **líquidos** o **gaseosos** a temperatura ambiente.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/azufre.jpg" title="Muestra de **azufre** (S). <br> https://commons.wikimedia.org/wiki/File:Sulfur-sample.jpg" lightbox="true" >}}
+---
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/azufre.jpg" lightbox="false" >}}
+
+---
 
 #### Formación de iones
 Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon name="minus-circle" pack="fas" >}}).
+
+---
 
 ##### Ejemplos
 - $\ce{Cl} + \ce{1 e-} \longrightarrow \ce{Cl-}$
 - $\ce{O} + \ce{2 e-} \longrightarrow \ce{O^2-}$
 - $\ce{P} + \ce{3 e-} \longrightarrow \ce{P^3-}$
+
+---
 
 ### Gases nobles
 He, Ne, Ar, Kr, Xe y ☢️ Rn. **Gases monoatómicos inodoros** e **incoloros** que **apenas reaccionan** químicamente, pues tienen **ocho electrones** en su **capa exterior**.
