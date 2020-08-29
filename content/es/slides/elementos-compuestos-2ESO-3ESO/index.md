@@ -119,7 +119,9 @@ Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon 
 ---
 
 ### Gases nobles
-He, Ne, Ar, Kr, Xe y ☢️ Rn. **Gases monoatómicos inodoros** e **incoloros** que **apenas reaccionan** químicamente, pues tienen **ocho electrones** en su **capa exterior**.
+He, Ne, Ar, Kr, Xe y ☢️ Rn.
+
+**Gases monoatómicos inodoros** e **incoloros** que **apenas reaccionan** químicamente, pues tienen **ocho electrones** en su **capa exterior**.
 
 ---
 
