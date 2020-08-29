@@ -280,7 +280,11 @@ El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura
 
 ---
 
-Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**. **Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica.
+Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**.
+
+---
+
+**Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica.
 
 ---
 
