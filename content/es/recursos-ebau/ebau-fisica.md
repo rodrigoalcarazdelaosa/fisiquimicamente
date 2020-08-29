@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "☢️ Física"
-subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y al **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -15,23 +15,16 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[☢️](#examenes-fisica)"
+  icon = "[📝](#examenes-fisica)"
   icon_pack = "emoji"
-  name = "[Física](#examenes-fisica)"
-  description = "📝 [Exámenes completos](#examenes-fisica) | 🗂️ [Por temas](#preguntas-fisica)"  
-  
-[[feature]]
-  icon = "[⚗️](#examenes-quimica)"
-  icon_pack = "emoji"
-  name = "[Química](#examenes-quimica)"
-  description = "📝 [Exámenes completos](#examenes-quimica) | 🗂️ [Por temas](#preguntas-quimica)"
-  
-[[feature]]
-  icon = "[💡](#consejos)"
-  icon_pack = "emoji"
-  name = "[Consejos](#consejos)"
+  name = "[Exámenes completos](#examenes-fisica)"
   description = ""  
   
+[[feature]]
+  icon = "[🗂️](#preguntas-fisica)"
+  icon_pack = "emoji"
+  name = "[Por temas](#preguntas-fisica)"
+  description = ""    
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -57,7 +50,3 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
   # text_color_light = true    
 
 +++
-
-{{% alert note %}}
-Accede [aquí](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) a la última información.
-{{% /alert %}}
