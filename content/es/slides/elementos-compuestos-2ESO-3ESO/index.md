@@ -95,7 +95,7 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 
 ---
 
-#### Silicio
+#### Silicio (Si)
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/silicio.jpg" lightbox="false" >}}
 
@@ -105,6 +105,8 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 **Apariencia *apagada***, son **malos conductores** del **calor** y de la **electricidad** y son **frágiles**. Pueden ser **sólidos**, **líquidos** o **gaseosos** a temperatura ambiente.
 
 ---
+
+#### Azufre (S)
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/azufre.jpg" lightbox="false" >}}
 
