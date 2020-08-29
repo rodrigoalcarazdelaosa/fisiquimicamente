@@ -217,11 +217,11 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 ### Con aplicaciones industriales 🏭
 
-- Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)
-- Etileno (C<sub>2</sub>H<sub>4</sub>)
-- Hidróxido de sodio (NaOH)
-- Propileno (C<sub>3</sub>H<sub>6</sub>)
-- Nitrógeno (N<sub>2</sub>)
+- [Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)](#/4/2)
+- [Etileno (C<sub>2</sub>H<sub>4</sub>)](#/4/6)
+- [Hidróxido de sodio (NaOH)](#/4/10)
+- [Propileno (C<sub>3</sub>H<sub>6</sub>)](#/4/12)
+- [Nitrógeno (N<sub>2</sub>)](#/4/13)
 
 ---
 
