@@ -382,7 +382,11 @@ También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio s
 #### Indio (In)
 El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**, por sus siglas en inglés), un ingrediente clave en las **pantallas táctiles**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="**Interferencia** en **láminas delgadas** causada por el revestimiento de **ITO** en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. <br> https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
+---
+
+##### Recubrimiento de ITO
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" lightbox="false" >}}
 
 #### Tierras raras
 **Escandio** (Sc), **ytrio** (Y) y los **lantanoides**, considerados, entre otros, **elementos tecnológicamente críticos**[^5]. Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **comunicaciones** o la **informática**.
