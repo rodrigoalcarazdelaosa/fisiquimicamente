@@ -151,6 +151,8 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn.
 
 Los elementos tenderán a **unirse** para completar su capa exterior, **intercambiando** (cediendo/captando) o **compartiendo electrones**, y así **ganar estabilidad**.
 
+---
+
 En función del número y tipo de átomos, distinguimos entre **moléculas** y **cristales**.
 
 ---
