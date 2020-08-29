@@ -167,7 +167,7 @@ Son **grupos** eléctricamente **neutros** de **dos o más átomos** del mismo e
 
 #### Molécula de sacarosa
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="⚫ $\rightarrow$ C; 🔴 $\rightarrow$ O; ⚪ $\rightarrow$ H." lightbox="false" width="80%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="⚫ $\rightarrow$ C; 🔴 $\rightarrow$ O; ⚪ $\rightarrow$ H." lightbox="false" width="70%" >}}
 
 ---
 
