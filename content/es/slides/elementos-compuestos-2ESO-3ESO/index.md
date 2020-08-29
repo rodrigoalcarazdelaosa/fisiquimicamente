@@ -266,7 +266,7 @@ El **hidróxido de sodio**, también conocido como **sosa caústica**, es un com
 
 ##### *Lentejas* de hidróxido de sodio (NaOH)
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/NaOH.jpg" lightbox="false" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/NaOH.jpg" lightbox="false" width="80%" >}}
 
 ---
 
