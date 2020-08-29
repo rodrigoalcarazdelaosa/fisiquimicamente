@@ -325,7 +325,7 @@ Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfon
 
 El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran protagonista en la industria del **embalaje**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lata-Al.jpg" title="Muchas **latas** están hechas de **aluminio** (Al). <br> Foto de [**Karolina Grabowska**](https://www.pexels.com/es-es/@karolina-grabowska) en [Pexels](https://www.pexels.com/es-es/)." lightbox="false" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lata-Al.jpg" lightbox="false" >}}
 
 ---
 
