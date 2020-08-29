@@ -205,9 +205,9 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 ## Elementos y compuestos de especial interés
 
-- Con aplicaciones industriales 🏭
-- Con aplicaciones tecnológicas 💻
-- Con aplicaciones biomédicas ⚕️
+- [Con aplicaciones industriales 🏭](#/4/1)
+- [Con aplicaciones tecnológicas 💻](#/4/18)
+- [Con aplicaciones biomédicas ⚕️](#/4/36)
 
 (continúa hacia abajo)
 
