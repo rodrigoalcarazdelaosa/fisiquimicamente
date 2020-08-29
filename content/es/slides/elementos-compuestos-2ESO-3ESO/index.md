@@ -140,9 +140,9 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn.
 {{% section %}}
 
 ## Uniones entre átomos
-- Regla del octeto
-- Moléculas
-- Cristales
+- [Regla del octeto](#/3/1)
+- [Moléculas](#/3/4)
+- [Cristales](#/3/8)
 
 (continúa hacia abajo)
 
