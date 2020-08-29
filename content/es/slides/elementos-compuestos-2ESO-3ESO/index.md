@@ -375,6 +375,8 @@ Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza amplia
 
 También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente, se encuentra comúnmente en los **termómetros** médicos.
 
+---
+
 #### Indio (In)
 El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**, por sus siglas en inglés), un ingrediente clave en las **pantallas táctiles**.
 
