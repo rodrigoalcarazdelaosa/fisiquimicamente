@@ -155,7 +155,7 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 
 En función del número y tipo de átomos, distinguimos entre:
 
-- Moléculas.
+- Moléculas
 - Cristales
 
 ---
