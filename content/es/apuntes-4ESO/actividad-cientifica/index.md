@@ -1,7 +1,7 @@
 ---
 title: La actividad científica
 subtitle: La investigación científica, magnitudes escalares y vectoriales, análisis dimensional, errores en la medida y  expresión de resultados
-summary: "`EN CONSTRUCCIÓN` <br> La investigación científica. Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados. <span class="markup-quote">highlighted quote</span>"
+summary: "`EN CONSTRUCCIÓN` <br> La investigación científica. Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados."
 tags:
 - 4º ESO
 - actividad-científica
