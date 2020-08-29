@@ -128,3 +128,31 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn.
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/gases-nobles.jpg" title="**Gases nobles** brillando dentro de frascos de vidrio a baja presión." lightbox="false" >}}
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Uniones entre átomos
+### Regla del octeto
+> La **configuración más estable** para cualquier átomo es contar con **ocho electrones** en la **capa exterior**.
+
+Los elementos tenderán a **unirse** para completar su capa exterior, **intercambiando** (cediendo/captando) o **compartiendo electrones**, y así **ganar estabilidad**. En función del número y tipo de átomos, distinguimos entre **moléculas** y **cristales**.
+
+### Moléculas
+Son **grupos** eléctricamente **neutros** de **dos o más átomos** del mismo elemento o de elementos distintos, unidos por enlaces químicos.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ carbono (C); 🔴 $\rightarrow$ oxígeno (O); ⚪ $\rightarrow$ hidrógeno (H). <br> https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
+
+#### Masa molecular
+La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos** y la **masa atómica** de cada **elemento**.
+##### Ejemplos
+- $m(\ce{H2O}) = 2\cdot m(\ce{H}) + m(\ce{O})$
+- $m(\ce{H2SO4}) = 2\cdot m(\ce{H}) + m(\ce{S}) + 4\cdot m(\ce{O})$
+
+### Cristales
+Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas** o **iones**) están dispuestos en una **estructura** microscópica **muy ordenada**, formando una red cristalina que **se extiende en todas las direcciones**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="**Cristal** de **cloruro de sodio** (sal común). <br> 🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl). <br> https://freesvg.org/sodium-chloride-crystal" lightbox="false" width="100%" >}}
+
+{{% /section %}}
