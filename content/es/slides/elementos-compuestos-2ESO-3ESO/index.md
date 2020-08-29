@@ -240,6 +240,8 @@ Su principal uso es para crear [**ácido fosfórico**](https://es.wikipedia.org/
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/H2SO4.jpg" title="Gotas de **ácido sulfúrico** concentrado descomponen rápidamente un trozo de toalla de algodón." lightbox="false" >}}
 
+---
+
 #### Etileno (C<sub>2</sub>H<sub>4</sub>)
 El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y almizclado* cuando es puro. Es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol). El etileno es también una **hormona natural** de las **plantas**, usada en la agricultura para forzar la maduración de las frutas.
 
