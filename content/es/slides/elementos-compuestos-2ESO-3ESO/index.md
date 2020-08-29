@@ -300,14 +300,14 @@ Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro co
 
 ### Con aplicaciones tecnológicas 💻
 
-- Litio (Li), cobalto (Co) y níquel (Ni)
-- Aluminio (Al)
-- Silicio (Si)
-- Hierro (Fe)
-- Cobre (Cu)
-- Galio (Ga)
-- Indio (In)
-- Tierras raras
+- [Litio (Li), cobalto (Co) y níquel (Ni)](#/4/19)
+- [Aluminio (Al)](#/4/20)
+- [Silicio (Si)](#/4/22)
+- [Hierro (Fe)](#/4/23)
+- [Cobre (Cu)](#/4/25)
+- [Galio (Ga)](#/4/28)
+- [Indio (In)](#/4/31)
+- [Tierras raras](#/4/33)
 
 ---
 
