@@ -319,9 +319,15 @@ Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfon
 ---
 
 #### Aluminio (Al)
-**Metal** blando y ligero que se puede encontrar en *todo*, desde en **espejos** de **telescopios** hasta en **piezas** de **aviones** y **líneas** de **transporte eléctrico**. El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran protagonista en la industria del **embalaje**.
+**Metal** blando y ligero que se puede encontrar en *todo*, desde en **espejos** de **telescopios** hasta en **piezas** de **aviones** y **líneas** de **transporte eléctrico**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lata-Al.jpg" title="Muchas **latas** están hechas de **aluminio** (Al). <br> Foto de [**Karolina Grabowska**](https://www.pexels.com/es-es/@karolina-grabowska) en [Pexels](https://www.pexels.com/es-es/)." lightbox="true" >}}
+---
+
+El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran protagonista en la industria del **embalaje**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lata-Al.jpg" title="Muchas **latas** están hechas de **aluminio** (Al). <br> Foto de [**Karolina Grabowska**](https://www.pexels.com/es-es/@karolina-grabowska) en [Pexels](https://www.pexels.com/es-es/)." lightbox="false" >}}
+
+---
 
 #### Silicio (Si)
 Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** de **ordenador**, **LCDs** y **células solares**.
