@@ -47,3 +47,22 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 | Radio atómico disminuye $\rightarrow$ | Radio atómico aumenta $\downarrow$ |
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Clasificación de los elementos químicos
+
+Según sus **propiedades físicas** y **químicas comunes**, los elementos químicos pueden clasificarse en general en:
+
+- [Metales]
+- [Semimetales]
+- [No metales]
+- [Gases nobles]
+
+(continúa hacia abajo)
+
+👇
+
+{{% /section %}}
