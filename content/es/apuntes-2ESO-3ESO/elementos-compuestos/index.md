@@ -158,7 +158,7 @@ El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que se
 #### Cobre (Cu)
 El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense#Tasa_de_cambio_y_cotizaci%C3%B3n).
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/dolar.jpg" title="**Monedas** de un **dólar estadounidense**, con un 88.5$\thinspace$% de **cobre** (Cu). <br> Imagen de [**Gerd Altmann**](https://pixabay.com/es/users/geralt-9301/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/dolar.jpg" title="**Monedas** de un **dólar estadounidense**, con un **88.5 %** de **cobre** (Cu). <br> Imagen de [**Gerd Altmann**](https://pixabay.com/es/users/geralt-9301/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
 
