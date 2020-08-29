@@ -198,3 +198,108 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl)." lightbox="false" width="60%" >}}
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Elementos y compuestos de especial interés
+
+- Con aplicaciones industriales 🏭
+- Con aplicaciones tecnológicas 💻
+- Con aplicaciones biomédicas ⚕️
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Con aplicaciones industriales 🏭
+#### Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)
+El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**[^1]. Es el **compuesto químico más producido del mundo** y es incluso un **indicador** de la **capacidad industrial** de un **país**. Su principal uso es para crear [**ácido fosfórico**](https://es.wikipedia.org/wiki/%C3%81cido_fosf%C3%B3rico) que a su vez se emplea en **fertilizantes**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/H2SO4.jpg" title="Gotas de **ácido sulfúrico** concentrado descomponen rápidamente un trozo de toalla de algodón por deshidratación. <br> https://commons.wikimedia.org/wiki/File:Sulphuric_acid_on_a_piece_of_towel.JPG" lightbox="true" >}}
+
+[^1]: Al contacto puede causar graves **quemaduras químicas** e incluso **quemaduras térmicas** de segundo grado. 
+
+#### Etileno (C<sub>2</sub>H<sub>4</sub>)
+El **etileno**[^2] es un gas inflamable incoloro con un ligero olor *dulce y almizclado* cuando es puro. Es el **compuesto orgánico más producido del mundo**. Su principal uso es la obtención de [**polietileno**](https://es.wikipedia.org/wiki/Polietileno). También se utiliza para crear otros productos químicos, como el [**etanol**](https://es.wikipedia.org/wiki/Etanol). El etileno es también una **hormona natural** de las **plantas**, usada en la agricultura para forzar la maduración de las frutas.
+
+[^2]: Nombre recomendado por la IUPAC: **eteno**.
+
+#### Hidróxido de sodio (NaOH)
+El **hidróxido de sodio**, también conocido como **sosa caústica**, es un compuesto iónico sólido blanco vital para muchas industrias. Se emplea sobretodo en la **fabricación** de **papel**, **tejidos** y **agentes** de **limpieza**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/NaOH.jpg" title="***Lentejas*** de **hidróxido de sodio** (NaOH). <br> https://commons.wikimedia.org/wiki/File:SodiumHydroxide.jpg" lightbox="true" >}}
+
+
+#### Propileno (C<sub>3</sub>H<sub>6</sub>)
+El **propileno**[^3] es un gas incoloro con un ligero olor a petróleo. Es un compuesto enormemente importante para la **industria petroquímica**, donde se utiliza como **combustible** o para la **producción** de **caucho/plástico**.
+
+[^3]: Nombre recomendado por la IUPAC: **propeno**.
+
+#### Nitrógeno (N<sub>2</sub>)
+El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de -195.8$\thinspace$&deg;C. Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**. **Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica. **Líquido** es importante en **investigación médica** y **conservación**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/nitrogeno-liquido.jpg" title="**Nitrógeno líquido**. <br> https://commons.wikimedia.org/wiki/File:Liquidnitrogen.jpg" lightbox="true" >}}
+
+Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro con un característico olor acre, **crucial** en sí mismo.
+
+### Con aplicaciones tecnológicas 💻
+#### Litio (Li), cobalto (Co) y níquel (Ni)
+Suelen utilizarse para fabricar **baterías recargables**, empleadas en teléfonos móviles, portátiles, cámaras digitales e incluso coches eléctricos.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/baterias-porsche.jpg" title="[**Baterías** de iones de litio (Li)](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_ion_de_litio) del [Porsche Taycan](https://www.porsche.com/spain/models/taycan/taycan-models/). <br> https://press.porsche.com/prod/presse_pag/PressResources.nsf/Content?ReadForm&languageversionid=878435" lightbox="true" >}}
+
+#### Aluminio (Al)
+**Metal** blando y ligero que se puede encontrar en *todo*, desde en **espejos** de **telescopios** hasta en **piezas** de **aviones** y **líneas** de **transporte eléctrico**. El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran protagonista en la industria del **embalaje**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lata-Al.jpg" title="Muchas **latas** están hechas de **aluminio** (Al). <br> Foto de [**Karolina Grabowska**](https://www.pexels.com/es-es/@karolina-grabowska) en [Pexels](https://www.pexels.com/es-es/)." lightbox="true" >}}
+
+#### Silicio (Si)
+Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** de **ordenador**, **LCDs** y **células solares**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="Detalle de una **oblea** de **silicio** (Si). Cada cuadrado es un chip con transistores y circuitos microscópicos. <br> Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
+
+#### Hierro (Fe)
+El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que sea el **metal más utilizado** de la tabla periódica. Tiene **innumerables aplicaciones** y se puede encontrar en *todo*, desde **automóviles** hasta **electrónica**. Aleado con carbono forma **acero**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" title="[**Atomium**](https://es.wikipedia.org/wiki/Atomium), formado por nueve esferas de **acero** de 18 metros de diámetro cada una. Representa un **cristal** de **hierro** (Fe) aumentado 165 mil millones de veces. <br> Foto de [**fotografierende**](https://unsplash.com/@fotografierende) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
+
+#### Cobre (Cu)
+El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense#Tasa_de_cambio_y_cotizaci%C3%B3n). El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" title="**Conductor** eléctrico de **cobre** (Cu).<br> https://commons.wikimedia.org/wiki/File:Stranded_lamp_wire.jpg" lightbox="true" >}}
+
+#### Galio (Ga)
+Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza ampliamente en la industria **electrónica**, donde se puede encontrar en **luces LED**, teléfonos **móviles**, **ordenadores** y **televisores**. También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente[^4], se encuentra comúnmente en los **termómetros** médicos.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" title="**Luces LED** de colores, fabricadas a partir de compuestos de **galio** (Ga). <br> https://commons.wikimedia.org/wiki/File:RBG-LED.jpg" lightbox="true" >}}
+
+[^4]: Su temperatura de fusión es de 29.8$\thinspace$&deg;C.
+
+#### Indio (In)
+El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**, por sus siglas en inglés), un ingrediente clave en las **pantallas táctiles**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/ITO.jpg" title="**Interferencia** en **láminas delgadas** causada por el revestimiento de **ITO** en la ventana de la cabina de un Airbus, utilizado para el **descongelamiento**. <br> https://commons.wikimedia.org/wiki/File:LHcockpitWindow.jpg" lightbox="true" >}}
+
+#### Tierras raras
+**Escandio** (Sc), **ytrio** (Y) y los **lantanoides**, considerados, entre otros, **elementos tecnológicamente críticos**[^5]. Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **comunicaciones** o la **informática**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tierras-raras.jpg" title="Estos óxidos de **tierras raras** se utilizan como trazadores para determinar qué partes de una cuenca se están erosionando. En el sentido de las agujas del reloj desde el centro arriba: praseodimio (Pr), cerio (Ce), lantano (La), neodimio (Nd), samario (Sm) y gadolinio (Gd). <br> https://www.ars.usda.gov/oc/images/photos/jun05/d115-1/" lightbox="true" >}}
+
+[^5]: Elementos químicos importantes para las **tecnologías emergentes**, con una demanda mucho mayor que en el pasado y una **oferta escasa en relación con la demanda**.
+
+### Con aplicaciones biomédicas ⚕️
+#### Aplicaciones quirúrgicas
+**Prótesis** e **implantes** de **titanio** (Ti), **platino** (Pt) u **oro** (Au).
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/pierna-Ti.jpg" title="**EXO Prosthetic Leg**, una **prótesis** de **titanio** (Ti) impresa en 3D. <br> https://www.behance.net/gallery/20696469/Exo-Prosthetic-Leg" lightbox="true" >}}
+
+#### Diagnóstico y tratamiento de cáncer
+**Isótopos radiactivos** ☢️ como el <sup>60</sup>Co, <sup>99m</sup>Tc, <sup>131</sup>I, <sup>137</sup>Cs o el <sup>192</sup>Ir.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/semillas-iodo.jpg" title="***Semillas*** de **iodo-125** (<sup>125</sup>I) al lado de una moneda de cinco centavos de dólar (*nickel*). <br> https://thewell.northwell.edu/brachytherapy-right-me" lightbox="true" >}}
+
+{{% /section %}}
