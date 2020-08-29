@@ -108,7 +108,7 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 
 #### Azufre (S)
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/azufre.jpg" lightbox="false" width="90%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/azufre.jpg" lightbox="false" width="85%" >}}
 
 ---
 
