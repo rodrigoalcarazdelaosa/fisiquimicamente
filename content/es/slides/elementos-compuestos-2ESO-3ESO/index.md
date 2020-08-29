@@ -216,6 +216,15 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 ---
 
 ### Con aplicaciones industriales 🏭
+
+- Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)
+- Etileno (C<sub>2</sub>H<sub>4</sub>)
+- Hidróxido de sodio (NaOH)
+- Propileno (C<sub>3</sub>H<sub>6</sub>)
+- Nitrógeno (N<sub>2</sub>)
+
+---
+
 #### Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)
 El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**[^1]. Es el **compuesto químico más producido del mundo** y es incluso un **indicador** de la **capacidad industrial** de un **país**. Su principal uso es para crear [**ácido fosfórico**](https://es.wikipedia.org/wiki/%C3%81cido_fosf%C3%B3rico) que a su vez se emplea en **fertilizantes**.
 
