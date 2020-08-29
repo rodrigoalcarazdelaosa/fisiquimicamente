@@ -337,9 +337,15 @@ Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** 
 ---
 
 #### Hierro (Fe)
-El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que sea el **metal más utilizado** de la tabla periódica. Tiene **innumerables aplicaciones** y se puede encontrar en *todo*, desde **automóviles** hasta **electrónica**. Aleado con carbono forma **acero**.
+El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que sea el **metal más utilizado** de la tabla periódica. Tiene **innumerables aplicaciones** y se puede encontrar en *todo*, desde **automóviles** hasta **electrónica**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" title="[**Atomium**](https://es.wikipedia.org/wiki/Atomium), formado por nueve esferas de **acero** de 18 metros de diámetro cada una. Representa un **cristal** de **hierro** (Fe) aumentado 165 mil millones de veces. <br> Foto de [**fotografierende**](https://unsplash.com/@fotografierende) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
+---
+
+Aleado con carbono forma **acero**.
+
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/atomium.jpg" lightbox="false" >}}
+
+---
 
 #### Cobre (Cu)
 El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense#Tasa_de_cambio_y_cotizaci%C3%B3n). El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
