@@ -391,11 +391,17 @@ El **indio** (In) es un metal plateado blando que a menudo se usa para producir 
 ---
 
 #### Tierras raras
-**Escandio** (Sc), **ytrio** (Y) y los **lantanoides**, considerados, entre otros, **elementos tecnológicamente críticos**. Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **comunicaciones** o la **informática**.
+**Escandio** (Sc), **ytrio** (Y) y los **lantanoides**, considerados, entre otros, **elementos tecnológicamente críticos**.
 
 ---
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tierras-raras.jpg" title="Estos óxidos de **tierras raras** se utilizan como trazadores para determinar qué partes de una cuenca se están erosionando. En el sentido de las agujas del reloj desde el centro arriba: praseodimio (Pr), cerio (Ce), lantano (La), neodimio (Nd), samario (Sm) y gadolinio (Gd). <br> https://www.ars.usda.gov/oc/images/photos/jun05/d115-1/" lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tierras-raras.jpg" title="Estos óxidos de **tierras raras** se utilizan como trazadores para determinar qué partes de una cuenca se están erosionando. En el sentido de las agujas del reloj desde el centro arriba: praseodimio (Pr), cerio (Ce), lantano (La), neodimio (Nd), samario (Sm) y gadolinio (Gd). <br> https://www.ars.usda.gov/oc/images/photos/jun05/d115-1/" lightbox="false" >}}
+
+---
+
+Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **comunicaciones** o la **informática**.
+
+---
 
 ### Con aplicaciones biomédicas ⚕️
 #### Aplicaciones quirúrgicas
