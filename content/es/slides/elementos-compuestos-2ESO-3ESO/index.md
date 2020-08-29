@@ -195,6 +195,6 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 #### Cristal de cloruro de sodio (sal común)
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl)." lightbox="false" width="50%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl)." lightbox="false" width="60%" >}}
 
 {{% /section %}}
