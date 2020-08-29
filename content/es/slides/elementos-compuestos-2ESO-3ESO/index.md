@@ -155,13 +155,15 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 
 En función del número y tipo de átomos, distinguimos entre:
 
-- Moléculas
-- Cristales
+- **Moléculas**
+- **Cristales**
 
 ---
 
 ### Moléculas
 Son **grupos** eléctricamente **neutros** de **dos o más átomos** del mismo elemento o de elementos distintos, unidos por enlaces químicos.
+
+---
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ carbono (C); 🔴 $\rightarrow$ oxígeno (O); ⚪ $\rightarrow$ hidrógeno (H). <br> https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
 
