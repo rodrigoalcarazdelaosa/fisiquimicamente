@@ -348,9 +348,15 @@ Aleado con carbono forma **acero**.
 ---
 
 #### Cobre (Cu)
-El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense#Tasa_de_cambio_y_cotizaci%C3%B3n). El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
+El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense#Tasa_de_cambio_y_cotizaci%C3%B3n).
 
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" title="**Conductor** eléctrico de **cobre** (Cu).<br> https://commons.wikimedia.org/wiki/File:Stranded_lamp_wire.jpg" lightbox="true" >}}
+---
+
+El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente adecuado para la **electrónica**.
+
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/cable.jpg" lightbox="false" >}}
+
+---
 
 #### Galio (Ga)
 Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza ampliamente en la industria **electrónica**, donde se puede encontrar en **luces LED**, teléfonos **móviles**, **ordenadores** y **televisores**. También es un gran **sustituto** del **mercurio** (Hg) tóxico. Como el galio se derrite a temperatura ambiente[^4], se encuentra comúnmente en los **termómetros** médicos.
