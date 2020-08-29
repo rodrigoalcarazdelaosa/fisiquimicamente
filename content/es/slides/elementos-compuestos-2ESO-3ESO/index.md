@@ -332,7 +332,9 @@ El aluminio es **barato** y **no tóxico**, lo que hace que también sea un gran
 #### Silicio (Si)
 Un **semiconductor** ideal extremadamente útil empleado sobretodo en **chips** de **ordenador**, **LCDs** y **células solares**.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="Detalle de una **oblea** de **silicio** (Si). Cada cuadrado es un chip con transistores y circuitos microscópicos. <br> Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/)." lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/oblea-Si.jpg" title="Detalle de una **oblea** de **silicio** (Si). Cada cuadrado es un chip con transistores y circuitos microscópicos. <br> Foto de [**Laura Ockel**](https://unsplash.com/@viazavier) en [Unsplash](https://unsplash.com/)." lightbox="false" width="80%" >}}
+
+---
 
 #### Hierro (Fe)
 El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que sea el **metal más utilizado** de la tabla periódica. Tiene **innumerables aplicaciones** y se puede encontrar en *todo*, desde **automóviles** hasta **electrónica**. Aleado con carbono forma **acero**.
