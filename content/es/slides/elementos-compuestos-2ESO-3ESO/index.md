@@ -354,7 +354,7 @@ El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepa
 
 ##### Monedas de un dólar estadounidense
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/dolar.jpg" title="**88.5 %** de **cobre** (Cu)." lightbox="false" width="80%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/dolar.jpg" title="**88.5 %** de **cobre** (Cu)." lightbox="false" width="75%" >}}
 
 ---
 
