@@ -377,7 +377,15 @@ Se puede **detectar** y **eliminar**.
 ---
 
 #### Error aleatorio
-Error **inevitable** que siempre está presente en cualquier medición. Causado por fluctuaciones inherentemente **impredecibles**. Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas.
+Error **inevitable** que siempre está presente en cualquier medición.
+
+---
+
+Causado por fluctuaciones inherentemente **impredecibles**.
+
+---
+
+Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas.
 
 ---
 
