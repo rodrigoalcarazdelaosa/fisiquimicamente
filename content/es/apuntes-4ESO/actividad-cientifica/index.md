@@ -31,7 +31,7 @@ slides:
 La **investigación científica** es el proceso por el cual, mediante la aplicación del **método científico**, se consigue **ampliar** el **conocimiento** o dar **solución** a **problemas científicos**.
 
 {{< spoiler text="¿Sabes en qué consiste un <strong>doctorado</strong> o <strong>Ph.D.</strong> por sus siglas en inglés? Descúbrelo aquí" >}}
-hola
+Imagina un círculo que contiene todo el conocimiento de la humanidad:
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
