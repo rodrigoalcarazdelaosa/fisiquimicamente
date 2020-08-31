@@ -60,6 +60,9 @@ Hasta que, un día, el límite cede:
 
 Y esa mella que has hecho se llama doctorado (Ph.D.):
 ![Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.010.jpg)
+
+Por supuesto, el mundo te parece muy distinto ahora:
+![mundo distinto](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.011.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
