@@ -323,3 +323,46 @@ $$
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Errores en la medida
+**Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales. Los **errores experimentales** son la **diferencia** entre los **valores medidos** y los **valores reales**. Distinguimos entre **errores sistemáticos** y **errores aleatorios**.
+
+### Errores sistemáticos y errores aleatorios
+#### Error sistemático
+Siempre ocurre, con el mismo valor, cuando usamos el instrumento de la misma manera y en el mismo caso. Es **predecible** y típicamente **constante** o **proporcional** al **valor verdadero**. Suele ser debido a **imperfecciones** del **instrumento** de medida o de los **métodos** de **observación** (incluido el observador). Se puede **detectar** y **eliminar**.
+
+#### Error aleatorio
+Error **inevitable** que siempre está presente en cualquier medición. Causado por fluctuaciones inherentemente **impredecibles**. Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas.
+### Exactitud y precisión
+#### Exactitud
+Es la **cercanía** de las **mediciones** al **valor real**. Es una **descripción** de los **errores sistemáticos**.
+
+#### Precisión
+Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de los **errores aleatorios**.
+
+{{< figure library="true" src="actividad-cientifica-4ESO/exactitud-precision.svg" lightbox="false" width="100%" >}}
+
+### Error absoluto y error relativo
+#### Error absoluto
+Es la **diferencia** entre el **valor real** y el **valor medido**:
+
+$$
+\text{error absoluto} = \lvert\text{valor real} - \text{valor medido}\rvert
+$$
+
+Tiene las **mismas dimensiones** que la **magnitud medida**.
+
+#### Error relativo
+Es el **cociente** entre el **error absoluto** y el **valor real**:
+
+$$
+\text{error relativo} = \frac{\text{error absoluto}}{\text{valor real}} = \frac{\lvert\text{valor real} - \text{valor medido}\rvert}{\text{valor real}}
+$$
+
+Es **adimensional** (suele expresarse en % multiplicándolo por 100).
+
+{{% /section %}}
