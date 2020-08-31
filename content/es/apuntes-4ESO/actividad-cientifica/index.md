@@ -184,7 +184,7 @@ $$
 Analizamos ahora las **dimensiones** de la **energía potencial gravitatoria** $E_\mathrm p$:
 
 $$
-\left[mgh\right] = \left[m\right]\cdot \left[g\right]\cdot \left[h\right] = \mathsf{M}\cdot\left[g\right]\cdot\mathsf{L}
+\left[E_\mathrm p\right] = \left[mgh\right] = \left[m\right]\cdot \left[g\right]\cdot \left[h\right] = \mathsf{M}\cdot\left[g\right]\cdot\mathsf{L}
 $$
 
 Necesitamos conocer las **dimensiones** de la **aceleración** $g$:
