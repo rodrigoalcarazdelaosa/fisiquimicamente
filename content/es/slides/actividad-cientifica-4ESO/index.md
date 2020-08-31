@@ -46,7 +46,7 @@ Imagina un círculo que contiene todo el conocimiento de la humanidad:
 ---
 
 Cuando terminas el colegio, sabes un poquito:
-![colegio](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.002.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.002.jpg" lightbox="false" width="70%" >}}
 
 Cuando terminas el instituto, sabes un poco más:
 ![instituto](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.003.jpg)
