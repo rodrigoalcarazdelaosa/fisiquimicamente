@@ -356,8 +356,13 @@ Distinguimos entre:
 #### Error sistemático
 Siempre ocurre, con el mismo valor, cuando usamos el instrumento de la misma manera y en el mismo caso. Es **predecible** y típicamente **constante** o **proporcional** al **valor verdadero**. Suele ser debido a **imperfecciones** del **instrumento** de medida o de los **métodos** de **observación** (incluido el observador). Se puede **detectar** y **eliminar**.
 
+---
+
 #### Error aleatorio
 Error **inevitable** que siempre está presente en cualquier medición. Causado por fluctuaciones inherentemente **impredecibles**. Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas.
+
+---
+
 ### Exactitud y precisión
 #### Exactitud
 Es la **cercanía** de las **mediciones** al **valor real**. Es una **descripción** de los **errores sistemáticos**.
