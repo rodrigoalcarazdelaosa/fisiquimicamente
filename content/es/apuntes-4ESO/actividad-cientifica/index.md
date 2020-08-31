@@ -84,6 +84,11 @@ Una **teoría científica** es una **explicación** de un **aspecto** del **mund
 
 ## Magnitudes escalares y vectoriales
 ### Magnitudes escalares
+Son aquellas **magnitudes** que quedan **descritas** por un **número** (escalar) y una **unidad**.
+
+#### Ejemplos
+Masa, volumen, densidad, tiempo, temperatura, energía...
+
 ### Magnitudes vectoriales
 
 ## Análisis dimensional
