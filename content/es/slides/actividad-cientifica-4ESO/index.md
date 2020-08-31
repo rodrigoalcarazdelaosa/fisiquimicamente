@@ -174,12 +174,10 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 
 {{% section %}}
 
-## Física de la atmósfera
+## Magnitudes fundamentales y derivadas
 
-- [Presión atmosférica](#/3/1)
-- [Experimento de Torricelli](#/3/2)
-- [Hemisferios de Magdeburgo](#/3/6)
-- [Fenómenos meteorológicos](#/3/11)
+- [Magnitudes fundamentales del SI]
+- [Magnitudes derivadas]
 
 (continúa hacia abajo)
 
@@ -187,79 +185,27 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 
 ---
 
-### Presión atmosférica
-La **presión atmosférica** es el peso de la columna de aire que soporta un cuerpo por unidad de superficie.
+### Magnitudes fundamentales del SI
+El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fundamentales**:
+
+| Magnitud | Unidad | Símbolo |
+| -------- | ------ | :-------: | 
+| Tiempo   | Segundo | s |
+| Longitud | Metro | m |
+| Masa | Kilogramo | kg |
+| Corriente eléctrica | Amperio | A |
+| Temperatura | Kelvin | K |
+| Cantidad de sustancia | Mol | mol |
+| Intensidad luminosa | Candela | cd |
 
 ---
 
-### Experimento de Torricelli
-Gracias al **experimento de Torricelli** se midió por primera vez la presión atmosférica y se produjo el primer vacío de la historia.
+### Magnitudes derivadas
+Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes fundamentales.
 
 ---
 
-> Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a aproximadamente 76 cm, creándose un vacío en los 24 cm restantes.
-
----
-
-{{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" width="50%" >}}
-
-\begin{align*}
-p_\text{atm} = d_\text{Hg}\cdot g\cdot h &= 13534\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\\\
-&=  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
-\end{align*}
-
----
-
-{{< vimeo 110619312 >}}
-
----
-
-### Hemisferios de Magdeburgo
-En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke**, diseñó un par de grandes hemisferios de cobre, que se ajustaban con un anillo de acoplamiento formando una esfera. Tras sellar los bordes con grasa y extraer el aire con una bomba de vacío que él mismo había inventado, sendos tiros de 8 caballos intentaron separar ambos hemisferios, sin éxito, demostrando así el poder de la presión atmosférica.
-
----
-
-{{< figure library="true" src="fluidos-4ESO/hemisferios-Magdeburgo.jpg" lightbox="false" width="70%" >}}
-
----
-
-{{< vimeo 33482842 >}}
-
----
-
-{{< vimeo 67896094 >}}
-
----
- 
-{{< youtube Q66DxZB6plE >}}
-
----
-
-### Fenómenos meteorológicos
-Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos meteorológicos**.
-
----
-
-#### Viento
-Los **vientos** soplan desde regiones con mayor presión hacia aquellas en las que la presión es menor (normalmente debido a diferencias de temperaturas).
-
----
-
-#### Borrascas
-Las **borrascas** o zonas de **baja presión** son regiones de la atmósfera en las que la presión atmosférica es más baja que la del aire circundante, lo que provoca que el aire húmedo ascienda, enfriándose, condensándose y originando **tiempo inestable**.
-
----
-
-#### Anticiclones
-Un **anticiclón** es una zona atmosférica de **alta presión**, en la cual la presión atmosférica es superior a la del aire circundante, provocando que el aire de las capas más altas descienda, originando **tiempo estable**.
-
----
-
-{{< figure library="true" src="fluidos-4ESO/borrasca-anticiclon.jpg" title="[https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html](https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html)" lightbox="false" >}}
+#### Ejemplos		
+Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
 
 {{% /section %}}
-
----
-
-## Cortometraje-documental
-{{< youtube GuCGcOkoK5E >}}
