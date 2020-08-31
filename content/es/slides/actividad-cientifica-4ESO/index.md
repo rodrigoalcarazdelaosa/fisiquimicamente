@@ -96,7 +96,7 @@ Por supuesto, el mundo te parece muy distinto ahora:
 ---
 
 Pero no olvides tomar perspectiva:
-![perspectiva](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg" lightbox="false" width="80%" >}}
 
 ---
 
