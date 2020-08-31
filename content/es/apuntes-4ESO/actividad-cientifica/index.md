@@ -63,6 +63,9 @@ Y esa mella que has hecho se llama doctorado (Ph.D.):
 
 Por supuesto, el mundo te parece muy distinto ahora:
 ![mundo distinto](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.011.jpg)
+
+Pero no olvides tomar perspectiva:
+![perspectiva](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
