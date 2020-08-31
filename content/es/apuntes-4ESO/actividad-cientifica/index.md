@@ -143,6 +143,57 @@ $$
 [S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3};  [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}
 $$
 
+#### Ejemplo resuelto
+{{% alert example %}}
+<br>
+
+> Demuestra que la energía cinética,
+$$
+E_\mathrm c = \frac{1}{2} m v^2,
+$$
+y la energía potencial gravitatoria,
+$$
+E_\mathrm p = mgh,
+$$
+tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.	Utiliza el resultado para definir la unidad de energía en el SI, el julio (J), en función de las unidades de masa, longitud y tiempo del SI.		
+
+---
+
+Analizamos las \textbf{dimensiones} de la \textbf{energía cinética} $E_\mathrm c$:
+\[
+\mleft[E_\mathrm c\mright] = 
+\mleft[\frac{1}{2}mv^2\mright] = \mleft[m\mright]\cdot \mleft[v^2\mright] = \mathsfup{M}\cdot \mleft[v\mright]^2,
+\]
+donde hemos utilizado que los \textbf{números} (escalares) \textbf{no tienen dimensiones}.
+
+Necesitamos conocer las \textbf{dimensiones} de la \textbf{velocidad}:
+\[
+v = \frac{\Delta x}{\Delta t} \rightarrow \mleft[v\mright] = \frac{\mleft[\Delta x\mright]}{\mleft[\Delta t\mright]} = \frac{\mathsfup{L}}{\mathsfup{T}} = \mathsfup{L}\mathsfup{T}^{-1}
+\]
+Por lo que llegamos a:
+\[
+\mleft[E_\mathrm c\mright] = \mathsfup{M}\mleft(\mathsfup{L}\mathsfup{T}^{-1}\mright)^2 = \mathsfup{M}\mathsfup{L}^2\mathsfup{T}^{-2}
+\]
+
+Analizamos ahora las \textbf{dimensiones} de la \textbf{energía potencial gravitatoria} $E_\mathrm p$:
+\[
+\mleft[mgh\mright] = \mleft[m\mright]\cdot \mleft[g\mright]\cdot \mleft[h\mright] = \mathsfup{M}\cdot\mleft[g\mright]\cdot\mathsfup{L}
+\]
+Necesitamos conocer las \textbf{dimensiones} de la \textbf{aceleración} $g$:
+\[
+g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \mleft[g\mright] = \frac{\mleft[\Delta v\mright]}{\mleft[\Delta t\mright]} = \frac{\mathsfup{L}\mathsfup{T}^{-1}}{\mathsfup{T}} = \mathsfup{L}\mathsfup{T}^{-2}
+\]
+Por lo que llegamos a:
+\[
+\mleft[E_\mathrm p\mright] = \mathsfup{M}\cdot\mathsfup{L}\mathsfup{T}^{-2}\cdot\mathsfup{L} =  \mathsfup{M}\mathsfup{L}^2\mathsfup{T}^{-2}
+\]
+El \textbf{julio} (J) por lo tanto queda definido como:
+\[
+\SI{1}{\J} = \SI{1}{\kilo\g\m\squared\per\s\squared}
+\]
+
+{{% /alert %}}
+
 ## Errores en la medida
 ### Errores sistemáticos y errores aleatorios
 ### Exactitud y precisión
