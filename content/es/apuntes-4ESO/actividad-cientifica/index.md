@@ -90,6 +90,13 @@ Son aquellas **magnitudes** que quedan **descritas** por un **número** (escalar
 Masa, volumen, densidad, tiempo, temperatura, energía...
 
 ### Magnitudes vectoriales
+Son aquellas **magnitudes** que quedan **descritas** por:
+
+- Un **número** (escalar).
+- Una **unidad**.
+- Una **dirección**.
+- Un **sentido**.
+- Un **punto** de **aplicación**.
 
 ## Análisis dimensional
 ### Ecuación de dimensiones
