@@ -39,6 +39,9 @@ Cuando terminas el colegio, sabes un poquito:
 
 Cuando terminas el instituto, sabes un poco más:
 ![instituto](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.003.jpg)
+
+Cuando te gradúas en la universidad, consigues una especialidad:
+![grado](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.004.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
