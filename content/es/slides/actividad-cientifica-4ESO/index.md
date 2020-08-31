@@ -25,12 +25,9 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 {{% section %}}
 
-## Concepto de presión
+## La investigación científica
 
-La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
-$$
-p = \frac{F}{A}
-$$
+La **investigación científica** es el proceso por el cual, mediante la aplicación del **método científico**, se consigue **ampliar** el **conocimiento** o dar **solución** a **problemas científicos**.
 
 (continúa hacia abajo)
 
