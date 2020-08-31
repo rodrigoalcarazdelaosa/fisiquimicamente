@@ -129,7 +129,7 @@ Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energ�
 El **análisis dimensional** nos permite **relacionar** las **dimensiones** (unidades) de una **magnitud derivada** con las de las **magnitudes fundamentales** en las que se basa.
 
 ### Ecuación de dimensiones
-Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sustituimos las magnitudes físicas por sus dimensiones (unidades). Para denotar las dimensiones de una magnitud utilizamos la notación de **corchetes** $[\ ]$. Destacamos:
+Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sustituimos las magnitudes físicas por sus dimensiones (unidades). Para denotar las dimensiones de una magnitud utilizamos la notación de **corchetes** $[\ ]$. **Destacamos**:
 \begin{align*}
 [\text{Masa}] &= \mathsf M \\\\
 [\text{Longitud}] &= \mathsf L \\\\
