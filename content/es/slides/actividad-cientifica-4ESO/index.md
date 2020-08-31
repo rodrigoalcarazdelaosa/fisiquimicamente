@@ -450,9 +450,9 @@ Es **adimensional** (suele expresarse en % multiplicándolo por 100).
 {{% section %}}
 
 ## Expresión de resultados
-Por regla general, las **incertidumbres siempre** se expresan con **una sola cifra significativa**[^2], **redondeando** la **medida** en consecuencia (unidades, decenas, centenas, etc.).
+Por regla general, las **incertidumbres siempre** se expresan con **una sola cifra significativa**, **redondeando** la **medida** en consecuencia (unidades, decenas, centenas, etc.).
 
-[^2]: Excepto cuando la primera cifra significativa es un 1, que entonces utilizamos dos.
+---
 
 ### Ejemplos
 - $t = (5.67\pm 2.00)\thinspace\mathrm s \rightarrow t = (6\pm 2)\thinspace\mathrm s$
