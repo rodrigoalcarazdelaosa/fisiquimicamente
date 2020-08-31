@@ -57,6 +57,9 @@ Empujas el límite durante unos años:
 
 Hasta que, un día, el límite cede:
 ![limite cede](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.009.jpg)
+
+Y esa mella que has hecho se llama doctorado (PhD):
+![Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.010.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
