@@ -242,7 +242,7 @@ Tiene las **mismas dimensiones** que la **magnitud medida**.
 Es el **cociente** entre el **error absoluto** y el **valor real**:
 
 $$
-\text{error relativo} = \frac{\text{error absoluto}}{\text{valor real}}
+\text{error relativo} = \frac{\text{error absoluto}}{\text{valor real}} = \frac{\lvert\text{valor real} - \text{valor medido}\rvert}{\text{valor real}}
 $$
 
 Es **adimensional** (suele expresarse en % multiplicándolo por 100).
