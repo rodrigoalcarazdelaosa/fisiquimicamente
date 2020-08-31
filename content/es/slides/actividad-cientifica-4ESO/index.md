@@ -329,11 +329,15 @@ $$
 {{% section %}}
 
 ## Errores en la medida
-**Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales. Los **errores experimentales** son la **diferencia** entre los **valores medidos** y los **valores reales**.
+**Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales.
 
 (continúa hacia abajo)
 
 👇
+
+---
+
+Los **errores experimentales** son la **diferencia** entre los **valores medidos** y los **valores reales**.
 
 ---
 
