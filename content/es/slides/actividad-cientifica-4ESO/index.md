@@ -66,7 +66,7 @@ Con un máster profundizas en dicha especialidad:
 ---
 
 La lectura de literatura científica te lleva hasta la frontera del conocimiento de la humanidad:
-![literatura](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.006.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.006.jpg" lightbox="false" width="70%" >}}
 
 ---
 
