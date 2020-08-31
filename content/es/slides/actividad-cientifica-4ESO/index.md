@@ -294,12 +294,16 @@ $$
 \left[mgh\right] = \left[m\right]\cdot \left[g\right]\cdot \left[h\right] = \mathsf{M}\cdot\left[g\right]\cdot\mathsf{L}
 $$
 
+---
+
 Necesitamos conocer las **dimensiones** de la **aceleración** $g$:
 
 \begin{align*}
 g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \left[g\right] = \frac{\left[\Delta v\right]}{\left[\Delta t\right]} &= \frac{\mathsf{L}\mathsf{T}^{-1}}{\mathsf{T}} \\\\
 &= \mathsf{L}\mathsf{T}^{-2}
 \end{align*}
+
+---
 
 Por lo que llegamos a:
 
