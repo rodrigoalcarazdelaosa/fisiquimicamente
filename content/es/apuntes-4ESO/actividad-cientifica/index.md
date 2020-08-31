@@ -190,7 +190,7 @@ $$
 Necesitamos conocer las **dimensiones** de la **aceleración** $g$:
 
 \begin{align*}
-g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \left[g\right] = \frac{\left[\Delta v\right]}{\left[\Delta t\right]} = \frac{\mathsf{L}\mathsf{T}^{-1}}{\mathsf{T}} &= \\\\
+g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \left[g\right] = \frac{\left[\Delta v\right]}{\left[\Delta t\right]} &= \frac{\mathsf{L}\mathsf{T}^{-1}}{\mathsf{T}} \\\\
 &= \mathsf{L}\mathsf{T}^{-2}
 \end{align*}
 
