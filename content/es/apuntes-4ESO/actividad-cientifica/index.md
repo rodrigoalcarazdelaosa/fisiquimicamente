@@ -230,6 +230,14 @@ Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de 
 
 ### Error absoluto y error relativo
 #### Error absoluto
+Es la **diferencia** entre el **valor real** y el **valor medido**:
+
+$$
+\text{error absoluto} = \lvert\text{valor real} - \text{valor medido}\rvert
+$$
+
+Tiene las **mismas dimensiones** que la **magnitud medida**.
+
 #### Error relativo
 
 ## Expresión de resultados
