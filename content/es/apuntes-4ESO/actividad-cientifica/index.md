@@ -221,7 +221,11 @@ Siempre ocurre, con el mismo valor, cuando usamos el instrumento de la misma man
 Error **inevitable** que siempre está presente en cualquier medición. Causado por fluctuaciones inherentemente **impredecibles**. Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas.
 ### Exactitud y precisión
 #### Exactitud
+Es la **cercanía** de las **mediciones** al **valor real**. Es una **descripción** de los **errores sistemáticos**.
+
 #### Precisión
+Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de los **errores aleatorios**.
+
 ### Error absoluto y error relativo
 #### Error absoluto
 #### Error relativo
