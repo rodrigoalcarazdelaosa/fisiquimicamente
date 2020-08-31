@@ -22,10 +22,7 @@ links:
   name: Póster
   url: actividad-cientifica-poster.pdf
   
-slides:
-
-Victor_Hugo: "false"
-Focus_Keyword: "actividad-científica" 
+slides: 
 ---
 
 {{% toc %}}
