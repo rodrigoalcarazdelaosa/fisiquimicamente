@@ -28,6 +28,8 @@ slides:
 {{% toc %}}
 
 ## La investigación científica
+La **investigación científica** es el proceso por el cual, mediante la aplicación del **método científico**, se consigue **ampliar** el **conocimiento** o dar **solución** a **problemas científicos**.
+
 ### Hipótesis, leyes y teorías
 
 ## Magnitudes escalares y vectoriales
