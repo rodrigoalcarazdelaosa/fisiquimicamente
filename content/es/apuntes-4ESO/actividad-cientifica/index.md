@@ -160,10 +160,12 @@ tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la ac
 ---
 
 Analizamos las **dimensiones** de la **energía cinética** $E_\mathrm c$:
+
 $$
 \left[E_\mathrm c\right] = 
 \left[\frac{1}{2}mv^2\right] = \left[m\right]\cdot \left[v^2\right] = \mathsf{M}\cdot \left[v\right]^2,
 $$
+
 donde hemos utilizado que los **números** (escalares) **no tienen dimensiones**.
 
 Necesitamos conocer las **dimensiones** de la **velocidad**:
