@@ -51,6 +51,9 @@ La lectura de literatura científica te lleva hasta la frontera del conocimiento
 
 Una vez en el límite, te centras en un tema específico:
 ![focus](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.007.jpg)
+
+Empujas el límite durante unos años:
+![focus](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.008.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
