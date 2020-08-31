@@ -35,7 +35,7 @@ La **investigación científica** es el proceso por el cual, mediante la aplicac
 
 ---
 
-### ¿Sabes en qué consiste un **doctorado** o Ph.D. por sus siglas en inglés?
+### ¿Sabes en qué consiste un doctorado o Ph.D. por sus siglas en inglés?
 
 {{% /section %}}
 
