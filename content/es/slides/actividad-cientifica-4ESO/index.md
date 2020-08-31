@@ -337,11 +337,12 @@ $$
 
 ---
 
-Los **errores experimentales** son la **diferencia** entre los **valores medidos** y los **valores reales**.
+Los **errores experimentales** son la **diferencia** entre los **valores medidos** y los **valores reales**. Distinguimos entre:
+
+- [**Errores sistemáticos**]
+- [**Errores aleatorios**]
 
 ---
-
-Distinguimos entre **errores sistemáticos** y **errores aleatorios**.
 
 ### Errores sistemáticos y errores aleatorios
 #### Error sistemático
