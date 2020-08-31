@@ -61,7 +61,7 @@ Cuando te gradúas en la universidad, consigues una especialidad:
 ---
 
 Con un máster profundizas en dicha especialidad:
-![master](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.005.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.005.jpg" lightbox="false" width="80%" >}}
 
 ---
 
