@@ -284,10 +284,6 @@ $$
 Puedes jugar a **construir circuitos eléctricos** con esta excelente **simulación**:
 <iframe src="https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-### Juego: Crack the Circuit
-
-<div id="gameContainer" style="width: 90vw; height: 86vh; margin: 0px auto;"><canvas width="960" height="640" style="display: block; touch-action: none; user-select: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); width: 338px; height: 225px; cursor: inherit; margin-left: 0px; margin-top: 174px; margin-bottom: -175px;"></canvas></div>
-
 ## Dispositivos electrónicos
 La **electrónica** comprende la **física**, la **ingeniería**, la **tecnología** y las **aplicaciones** que tratan con la **emisión**, el **flujo** y el **control** de los **electrones** en el vacío y la materia.
 
