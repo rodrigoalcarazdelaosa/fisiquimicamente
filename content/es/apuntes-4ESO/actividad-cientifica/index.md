@@ -248,4 +248,6 @@ $$
 Es **adimensional** (suele expresarse en % multiplicándolo por 100).
 
 ## Expresión de resultados
+Por regla general, las **incertidumbres siempre** se expresan con **una sola cifra significativa**, **redondeando** la **medida** en consecuencia (unidades, decenas, centenas, etc.).
+
 ### Ejemplos
