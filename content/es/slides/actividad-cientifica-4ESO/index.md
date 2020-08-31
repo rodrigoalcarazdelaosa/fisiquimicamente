@@ -417,6 +417,8 @@ Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de 
 - [Error absoluto]
 - [Error relativo]
 
+---
+
 #### Error absoluto
 Es la **diferencia** entre el **valor real** y el **valor medido**:
 
