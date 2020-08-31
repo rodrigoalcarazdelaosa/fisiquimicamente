@@ -98,6 +98,8 @@ Son aquellas **magnitudes** que quedan **descritas** por:
 - Un **sentido**.
 - Un **punto** de **aplicación**.
 
+{{< figure library="true" src="actividad-cientifica-4ESO/vectoor-fuerza.svg" lightbox="false" width="100%" >}}
+
 ## Análisis dimensional
 ### Ecuación de dimensiones
 
