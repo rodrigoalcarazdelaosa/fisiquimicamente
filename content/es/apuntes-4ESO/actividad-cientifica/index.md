@@ -54,6 +54,9 @@ Una vez en el límite, te centras en un tema específico:
 
 Empujas el límite durante unos años:
 ![empuje](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.008.jpg)
+
+Hasta que, un día, el límite cede:
+![limite cede](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.009.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
