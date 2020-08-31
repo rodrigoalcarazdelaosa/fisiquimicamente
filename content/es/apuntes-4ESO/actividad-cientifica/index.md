@@ -107,7 +107,7 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 ### Magnitudes fundamentales del SI
 El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fundamentales**[^1]:
 
-[^1]: El **Sistema Internacional de Unidades (SI)** sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades/index.md" >}}).
+[^1]: El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades/index.md" >}}).
 
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | :-------: | 
