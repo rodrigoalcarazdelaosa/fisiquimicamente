@@ -329,7 +329,15 @@ $$
 {{% section %}}
 
 ## Errores en la medida
-**Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales. Los **errores experimentales** son la **diferencia** entre los **valores medidos** y los **valores reales**. Distinguimos entre **errores sistemáticos** y **errores aleatorios**.
+**Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales. Los **errores experimentales** son la **diferencia** entre los **valores medidos** y los **valores reales**.
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+Distinguimos entre **errores sistemáticos** y **errores aleatorios**.
 
 ### Errores sistemáticos y errores aleatorios
 #### Error sistemático
