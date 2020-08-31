@@ -211,3 +211,102 @@ Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes funda
 Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Análisis dimensional
+El **análisis dimensional** nos permite **relacionar** las **dimensiones** (unidades) de una **magnitud derivada** con las de las **magnitudes fundamentales** en las que se basa.
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Ecuación de dimensiones
+Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sustituimos las magnitudes físicas por sus dimensiones (unidades). Para denotar las dimensiones de una magnitud utilizamos la notación de **corchetes** $[\ ]$. Destacamos:
+\begin{align*}
+[\text{Masa}] &= \mathsf M \\\\
+[\text{Longitud}] &= \mathsf L \\\\
+[\text{Tiempo}] &= \mathsf T
+\end{align*}
+Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las dimensiones de las magnitudes físicas que nos encontremos en función de $\mathsf M$, $\mathsf L$ y $\mathsf T$.
+
+---
+
+#### Ejemplos
+
+$$
+[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3};  [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}
+$$
+
+#### Ejemplo resuelto
+{{% alert example %}}
+<br>
+
+> Demuestra que la energía cinética,
+$$
+E_\mathrm c = \frac{1}{2} m v^2,
+$$
+y la energía potencial gravitatoria,
+$$
+E_\mathrm p = mgh,
+$$
+tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.	Utiliza el resultado para definir la unidad de energía en el SI, el julio (J), en función de las unidades de masa, longitud y tiempo del SI.		
+
+---
+
+Analizamos las **dimensiones** de la **energía cinética** $E_\mathrm c$:
+
+$$
+\left[E_\mathrm c\right] = 
+\left[\frac{1}{2}mv^2\right] = \left[m\right]\cdot \left[v^2\right] = \mathsf{M}\cdot \left[v\right]^2,
+$$
+
+donde hemos utilizado que los **números** (escalares) **no tienen dimensiones**.
+
+Necesitamos conocer las **dimensiones** de la **velocidad**:
+$$
+v = \frac{\Delta x}{\Delta t} \rightarrow \left[v\right] = \frac{\left[\Delta x\right]}{\left[\Delta t\right]} = \frac{\mathsf{L}}{\mathsf{T}} = \mathsf{L}\mathsf{T}^{-1}
+$$
+
+Por lo que llegamos a:
+
+$$
+\left[E_\mathrm c\right] = \mathsf{M}\left(\mathsf{L}\mathsf{T}^{-1}\right)^2 = \mathsf{M}\mathsf{L}^2\mathsf{T}^{-2}
+$$
+
+---
+
+Analizamos ahora las **dimensiones** de la **energía potencial gravitatoria** $E_\mathrm p$:
+
+$$
+\left[mgh\right] = \left[m\right]\cdot \left[g\right]\cdot \left[h\right] = \mathsf{M}\cdot\left[g\right]\cdot\mathsf{L}
+$$
+
+Necesitamos conocer las **dimensiones** de la **aceleración** $g$:
+
+\begin{align*}
+g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \left[g\right] = \frac{\left[\Delta v\right]}{\left[\Delta t\right]} &= \frac{\mathsf{L}\mathsf{T}^{-1}}{\mathsf{T}} \\\\
+&= \mathsf{L}\mathsf{T}^{-2}
+\end{align*}
+
+Por lo que llegamos a:
+
+$$
+\left[E_\mathrm p\right] = \mathsf{M}\cdot\mathsf{L}\mathsf{T}^{-2}\cdot\mathsf{L} =  \mathsf{M}\mathsf{L}^2\mathsf{T}^{-2}
+$$
+
+---
+
+El **julio** (J) por lo tanto queda definido como:
+
+$$
+1\thinspace\mathrm J = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}
+$$
+
+{{% /alert %}}
+
+{{% /section %}}
