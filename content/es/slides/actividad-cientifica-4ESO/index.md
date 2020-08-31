@@ -188,6 +188,8 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 ### Magnitudes fundamentales del SI
 El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fundamentales**:
 
+---
+
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | :-------: | 
 | Tiempo   | Segundo | s |
