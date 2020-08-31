@@ -329,9 +329,9 @@ $$
 {{% section %}}
 
 ## Errores en la medida
-- [Errores sistemáticos y aleatorios]
-- [Exactitud y precisión]
-- [Error absoluto y error relativo]
+- [Errores sistemáticos y aleatorios](#/5/3)
+- [Exactitud y precisión](#/5/11)
+- [Error absoluto y error relativo](#/5/15)
 
 (continúa hacia abajo)
 
