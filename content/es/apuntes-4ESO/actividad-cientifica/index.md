@@ -68,6 +68,8 @@ Pero no olvides tomar perspectiva:
 ![perspectiva](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg)
 
 Sigue empujando.
+
+Fuente: https://ictlogy.net/sociedadred/20100818-guia-ilustrada-para-un-doctorado/
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
