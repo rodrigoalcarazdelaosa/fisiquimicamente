@@ -174,6 +174,7 @@ Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados e
 - [Componentes básicos](#/6/1)
 - [En serie](#/6/11)
 - [En paralelo](#/6/14)
+- [Constructor de circuitos eléctricos](#/6/17)
 
 (continúa hacia abajo)
 
