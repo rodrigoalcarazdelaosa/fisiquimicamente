@@ -135,11 +135,11 @@ Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sus
 [\text{Longitud}] &= \mathsf L \\\\
 [\text{Tiempo}] &= \mathsf T
 \end{align*}
-Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las dimensiones de las magnitudes físicas que nos encontremos en función de $\mathsfup M$, $\mathsfup L$ y $\mathsfup T$.
+Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las dimensiones de las magnitudes físicas que nos encontremos en función de $\mathsf M$, $\mathsf L$ y $\mathsf T$.
 
-\begin{description}
-	\item[Ejemplos] $\mleft[S\mright] = \mathsfup{L}^2; \mleft[V\mright] = \mathsfup{L}^3; \mleft[d\mright] = \mathsfup{M}\mathsfup{L}^{-3};  \mleft[v\mright] = \mathsfup{L}\mathsfup{T}^{-1}; \mleft[a\mright] = \mathsfup{L}\mathsfup{T}^{-2}; \mleft[F\mright] = \mathsfup{M}\mathsfup{L}\mathsfup{T}^{-2}$
-\end{description}
+#### Ejemplos
+
+$[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3};  [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}$
 
 ## Errores en la medida
 ### Errores sistemáticos y errores aleatorios
