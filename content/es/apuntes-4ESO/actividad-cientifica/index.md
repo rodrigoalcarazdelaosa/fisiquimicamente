@@ -126,7 +126,20 @@ Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes funda
 Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
 
 ## Análisis dimensional
+El **análisis dimensional** nos permite **relacionar** las **dimensiones** (unidades) de una **magnitud derivada** con las de las **magnitudes fundamentales** en las que se basa.
+
 ### Ecuación de dimensiones
+Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sustituimos las magnitudes físicas por sus dimensiones (unidades). Para denotar las dimensiones de una magnitud utilizamos la notación de **corchetes** $[\ ]$. Destacamos:
+\begin{align*}
+\mleft[\text{Masa}\mright] &= \mathsfup M \\
+\mleft[\text{Longitud}\mright] &= \mathsfup L \\
+\mleft[\text{Tiempo}\mright] &= \mathsfup T
+\end{align*}
+Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las dimensiones de las magnitudes físicas que nos encontremos en función de $\mathsfup M$, $\mathsfup L$ y $\mathsfup T$.
+
+\begin{description}
+	\item[Ejemplos] $\mleft[S\mright] = \mathsfup{L}^2; \mleft[V\mright] = \mathsfup{L}^3; \mleft[d\mright] = \mathsfup{M}\mathsfup{L}^{-3};  \mleft[v\mright] = \mathsfup{L}\mathsfup{T}^{-1}; \mleft[a\mright] = \mathsfup{L}\mathsfup{T}^{-2}; \mleft[F\mright] = \mathsfup{M}\mathsfup{L}\mathsfup{T}^{-2}$
+\end{description}
 
 ## Errores en la medida
 ### Errores sistemáticos y errores aleatorios
