@@ -176,8 +176,8 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 
 ## Magnitudes fundamentales y derivadas
 
-- [Magnitudes fundamentales del SI]
-- [Magnitudes derivadas]
+- [Magnitudes fundamentales del SI](#/3/1)
+- [Magnitudes derivadas](#/3/3)
 
 (continúa hacia abajo)
 
