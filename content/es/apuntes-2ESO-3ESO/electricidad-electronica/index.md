@@ -286,7 +286,7 @@ Puedes jugar a **construir circuitos eléctricos** con esta excelente **simulaci
 
 ### Juego: Crack the Circuit
 
-<iframe src="https://www.universeandmore.com/crack-the-circuit/" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://www.universeandmore.com/crack-the-circuit/index.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Dispositivos electrónicos
 La **electrónica** comprende la **física**, la **ingeniería**, la **tecnología** y las **aplicaciones** que tratan con la **emisión**, el **flujo** y el **control** de los **electrones** en el vacío y la materia.
