@@ -172,25 +172,32 @@ Necesitamos conocer las **dimensiones** de la **velocidad**:
 $$
 v = \frac{\Delta x}{\Delta t} \rightarrow \left[v\right] = \frac{\left[\Delta x\right]}{\left[\Delta t\right]} = \frac{\mathsf{L}}{\mathsf{T}} = \mathsf{L}\mathsf{T}^{-1}
 $$
+
 Por lo que llegamos a:
+
 $$
 \left[E_\mathrm c\right] = \mathsf{M}\left(\mathsf{L}\mathsf{T}^{-1}\right)^2 = \mathsf{M}\mathsf{L}^2\mathsf{T}^{-2}
 $$
 
 ---
 
-Analizamos ahora las \textbf{dimensiones} de la \textbf{energía potencial gravitatoria} $E_\mathrm p$:
-\[
+Analizamos ahora las **dimensiones** de la **energía potencial gravitatoria** $E_\mathrm p$:
+
+$$
 \left[mgh\right] = \left[m\right]\cdot \left[g\right]\cdot \left[h\right] = \mathsf{M}\cdot\left[g\right]\cdot\mathsf{L}
-\]
-Necesitamos conocer las \textbf{dimensiones} de la \textbf{aceleración} $g$:
-\[
+$$
+
+Necesitamos conocer las **dimensiones** de la **aceleración** $g$:
+
+$$
 g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \left[g\right] = \frac{\left[\Delta v\right]}{\left[\Delta t\right]} = \frac{\mathsf{L}\mathsf{T}^{-1}}{\mathsf{T}} = \mathsf{L}\mathsf{T}^{-2}
-\]
+$$
+
 Por lo que llegamos a:
-\[
+
+$$
 \left[E_\mathrm p\right] = \mathsf{M}\cdot\mathsf{L}\mathsf{T}^{-2}\cdot\mathsf{L} =  \mathsf{M}\mathsf{L}^2\mathsf{T}^{-2}
-\]
+$$
 
 ---
 
