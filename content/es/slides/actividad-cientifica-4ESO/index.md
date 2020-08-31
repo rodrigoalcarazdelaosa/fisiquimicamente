@@ -40,7 +40,8 @@ La **investigación científica** es el proceso por el cual, mediante la aplicac
 ---
 
 Imagina un círculo que contiene todo el conocimiento de la humanidad:
-![circulo](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.001.jpg)
+
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.001.jpg" lightbox="false" width="100%" >}}
 
 ---
 
