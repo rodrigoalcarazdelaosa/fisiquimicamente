@@ -22,7 +22,10 @@ links:
   name: Póster
   url: actividad-cientifica-poster.pdf
   
-slides: 
+slides:
+
+Victor_Hugo: "true"
+ 
 ---
 
 {{% toc %}}
