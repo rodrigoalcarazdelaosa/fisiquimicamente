@@ -12,10 +12,12 @@ slides:
 
 # La actividad científica
 
-- [Concepto de presión](#/1)
-- [Principios de la hidrostática](#/2)
-- [Física de la atmósfera](#/3)
-- [Cortometraje-documental](#/4)
+- [La investigación científica](#/1)
+- [Magnitudes escalares y vectoriales](#/2)
+- [Magnitudes fundamentales y derivadas](#/3)
+- [Análisis dimensional](#/4)
+- [Errores en la medida](#/5)
+- [Expresión de resultados](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
