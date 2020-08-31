@@ -255,5 +255,5 @@ Por regla general, las **incertidumbres siempre** se expresan con **una sola cif
 ### Ejemplos
 - $t = (5.67\pm 2.00)\thinspace\mathrm s \rightarrow t = (6\pm 2)\thinspace\mathrm s$
 - $l = (1307\pm 202)\thinspace\mathrm{\mu m} \rightarrow l = (1300\pm 200)\thinspace\mathrm{\mu m}$
-- $m = \SI[separate-uncertainty = true]{437\pm 27}{\gram} \rightarrow m = \SI[separate-uncertainty = true]{440\pm 30}{\gram}$
+- $m = (437\pm 27)\thinspace\mathrm g \rightarrow m = (440\pm 30)\thinspace\mathrm g$
 - $I = \SI[separate-uncertainty = true]{17 \pm 3}{\milli\ampere} \rightarrow \text{está bien expresada}$
