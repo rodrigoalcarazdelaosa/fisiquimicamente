@@ -42,6 +42,9 @@ Cuando terminas el instituto, sabes un poco más:
 
 Cuando te gradúas en la universidad, consigues una especialidad:
 ![grado](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.004.jpg)
+
+Con un máster profundizas en dicha especialidad:
+![master](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.005.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
