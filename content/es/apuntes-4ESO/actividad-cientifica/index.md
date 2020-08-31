@@ -32,6 +32,7 @@ La **investigación científica** es el proceso por el cual, mediante la aplicac
 
 {{< spoiler text="¿Sabes en qué consiste un <strong>doctorado</strong> o <strong>Ph.D.</strong> por sus siglas en inglés? Descúbrelo aquí" >}}
 Imagina un círculo que contiene todo el conocimiento de la humanidad:
+![circulo](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.001.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
