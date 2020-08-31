@@ -36,37 +36,37 @@ Imagina un círculo que contiene todo el conocimiento de la humanidad:
 {{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.001.jpg" lightbox="false" >}}
 
 Cuando terminas el colegio, sabes un poquito:
-![colegio](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.002.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.002.jpg" lightbox="false" >}}
 
 Cuando terminas el instituto, sabes un poco más:
-![instituto](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.003.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.003.jpg" lightbox="false" >}}
 
 Cuando te gradúas en la universidad, consigues una especialidad:
-![grado](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.004.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.004.jpg" lightbox="false" >}}
 
 Con un máster profundizas en dicha especialidad:
-![master](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.005.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.005.jpg" lightbox="false" >}}
 
 La lectura de literatura científica te lleva hasta la frontera del conocimiento de la humanidad:
-![literatura](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.006.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.006.jpg" lightbox="false" >}}
 
 Una vez en el límite, te centras en un tema específico:
-![focus](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.007.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.007.jpg" lightbox="false" >}}
 
 Empujas el límite durante unos años:
-![empuje](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.008.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.008.jpg" lightbox="false" >}}
 
 Hasta que, un día, el límite cede:
-![limite cede](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.009.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.009.jpg" lightbox="false" >}}
 
 Y esa mella que has hecho se llama doctorado (Ph.D.):
-![Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.010.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.010.jpg" lightbox="false" >}}
 
 Por supuesto, el mundo te parece muy distinto ahora:
-![mundo distinto](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.011.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.011.jpg" lightbox="false" >}}
 
 Pero no olvides tomar perspectiva:
-![perspectiva](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.012.jpg)
+{{< figure library="true" src="actividad-cientifica-4ESO/PhDKnowledge.012.jpg" lightbox="false" >}}
 
 Sigue empujando.
 
