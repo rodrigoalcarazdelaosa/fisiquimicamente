@@ -271,6 +271,8 @@ $$
 
 donde hemos utilizado que los **números** (escalares) **no tienen dimensiones**.
 
+---
+
 Necesitamos conocer las **dimensiones** de la **velocidad**:
 $$
 v = \frac{\Delta x}{\Delta t} \rightarrow \left[v\right] = \frac{\left[\Delta x\right]}{\left[\Delta t\right]} = \frac{\mathsf{L}}{\mathsf{T}} = \mathsf{L}\mathsf{T}^{-1}
