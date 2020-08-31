@@ -132,7 +132,7 @@ Una **teoría científica** es una **explicación** de un **aspecto** del **mund
 ## Magnitudes escalares y vectoriales
 
 - [Magnitudes escalares](#/2/1)
-- [Magnitudes vectoriales](#/2/2)
+- [Magnitudes vectoriales](#/2/3)
 
 (continúa hacia abajo)
 
