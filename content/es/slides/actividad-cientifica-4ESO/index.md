@@ -258,7 +258,7 @@ y la energía potencial gravitatoria,
 $$
 E_\mathrm p = mgh,
 $$
-tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.	Utiliza el resultado para definir la unidad de energía en el SI, el julio (J), en función de las unidades de masa, longitud y tiempo del SI.</q>		
+tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.</q>		
 
 ---
 
@@ -302,6 +302,10 @@ Por lo que llegamos a:
 $$
 \left[E_\mathrm p\right] = \mathsf{M}\cdot\mathsf{L}\mathsf{T}^{-2}\cdot\mathsf{L} =  \mathsf{M}\mathsf{L}^2\mathsf{T}^{-2}
 $$
+
+---
+
+<q>Utiliza el resultado para definir la unidad de energía en el SI, el julio (J), en función de las unidades de masa, longitud y tiempo del SI.</q>
 
 ---
 
