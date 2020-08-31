@@ -329,11 +329,17 @@ $$
 {{% section %}}
 
 ## Errores en la medida
-**Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales.
+- [Errores sistemáticos y aleatorios]
+- [Exactitud y precisión]
+- [Error absoluto y error relativo]
 
 (continúa hacia abajo)
 
 👇
+
+---
+
+**Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales.
 
 ---
 
