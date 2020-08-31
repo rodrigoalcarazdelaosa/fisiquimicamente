@@ -81,7 +81,7 @@ Empujas el límite durante unos años:
 ---
 
 Hasta que, un día, el límite cede:
-![limite cede](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.009.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.009.jpg" lightbox="false" width="80%" >}}
 
 ---
 
