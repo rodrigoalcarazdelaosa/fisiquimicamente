@@ -56,7 +56,7 @@ Cuando terminas el instituto, sabes un poco más:
 ---
 
 Cuando te gradúas en la universidad, consigues una especialidad:
-![grado](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.004.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.004.jpg" lightbox="false" width="70%" >}}
 
 ---
 
