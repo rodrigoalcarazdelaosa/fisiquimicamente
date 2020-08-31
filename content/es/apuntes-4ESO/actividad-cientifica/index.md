@@ -201,10 +201,11 @@ $$
 
 ---
 
-El \textbf{julio} (J) por lo tanto queda definido como:
-\[
-\SI{1}{\J} = \SI{1}{\kilo\g\m\squared\per\s\squared}
-\]
+El **julio** (J) por lo tanto queda definido como:
+
+$$
+1\thinspace\mathrm J = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}
+$$
 
 {{% /alert %}}
 
