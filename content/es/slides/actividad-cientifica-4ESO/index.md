@@ -350,8 +350,8 @@ Los **errores experimentales** son la **diferencia** entre los **valores medidos
 ### Errores sistemáticos y errores aleatorios
 Distinguimos entre:
 
-- [**Errores sistemáticos**]
-- [**Errores aleatorios**]
+- [**Errores sistemáticos**](#/5/4)
+- [**Errores aleatorios**](#/5/8)
 
 (continúa hacia abajo)
 
