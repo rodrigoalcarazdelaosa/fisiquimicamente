@@ -131,9 +131,9 @@ El **análisis dimensional** nos permite **relacionar** las **dimensiones** (uni
 ### Ecuación de dimensiones
 Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sustituimos las magnitudes físicas por sus dimensiones (unidades). Para denotar las dimensiones de una magnitud utilizamos la notación de **corchetes** $[\ ]$. Destacamos:
 \begin{align*}
-[\text{Masa}] &= \mathsf M \\
-\mleft[\text{Longitud}\mright] &= \mathsfup L \\
-\mleft[\text{Tiempo}\mright] &= \mathsfup T
+[\text{Masa}] &= \mathsf M \\\\
+[\text{Longitud}] &= \mathsf L \\\\
+[\text{Tiempo}] &= \mathsf T
 \end{align*}
 Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las dimensiones de las magnitudes físicas que nos encontremos en función de $\mathsfup M$, $\mathsfup L$ y $\mathsfup T$.
 
