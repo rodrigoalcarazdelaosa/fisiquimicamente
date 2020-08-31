@@ -86,12 +86,12 @@ Hasta que, un día, el límite cede:
 ---
 
 Y esa mella que has hecho se llama doctorado (Ph.D.):
-![Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.010.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.010.jpg" lightbox="false" width="80%" >}}
 
 ---
 
 Por supuesto, el mundo te parece muy distinto ahora:
-![mundo distinto](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.011.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.011.jpg" lightbox="false" width="80%" >}}
 
 ---
 
