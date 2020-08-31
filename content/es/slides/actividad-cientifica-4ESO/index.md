@@ -311,6 +311,4 @@ $$
 1\thinspace\mathrm J = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}
 $$
 
-{{% /alert %}}
-
 {{% /section %}}
