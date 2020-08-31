@@ -103,6 +103,10 @@ Son aquellas **magnitudes** que quedan **descritas** por:
 #### Ejemplos
 Posición, desplazamiento, velocidad, aceleración, fuerza...
 
+## Magnitudes fundamentales y derivadas
+### Magnitudes fundamentales del SI
+El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fundamentales**:
+
 ## Análisis dimensional
 ### Ecuación de dimensiones
 
