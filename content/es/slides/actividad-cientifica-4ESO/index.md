@@ -390,8 +390,8 @@ Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas
 ---
 
 ### Exactitud y precisión
-- [Exactitud]
-- [Precisión]
+- [Exactitud](#/5/12)
+- [Precisión](#/5/13)
 
 (continúa hacia abajo)
 
