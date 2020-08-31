@@ -278,6 +278,8 @@ $$
 v = \frac{\Delta x}{\Delta t} \rightarrow \left[v\right] = \frac{\left[\Delta x\right]}{\left[\Delta t\right]} = \frac{\mathsf{L}}{\mathsf{T}} = \mathsf{L}\mathsf{T}^{-1}
 $$
 
+---
+
 Por lo que llegamos a:
 
 $$
