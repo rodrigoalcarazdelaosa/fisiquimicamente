@@ -102,6 +102,8 @@ Pero no olvides tomar perspectiva:
 
 Sigue empujando.
 
+Fuente: https://ictlogy.net/sociedadred/20100818-guia-ilustrada-para-un-doctorado/
+
 {{% /section %}}
 
 ---
