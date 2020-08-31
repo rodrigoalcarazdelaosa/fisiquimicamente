@@ -250,10 +250,7 @@ Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las 
 ---
 
 #### Ejemplo resuelto
-{{% alert example %}}
-<br>
-
-> Demuestra que la energía cinética,
+<q>Demuestra que la energía cinética,
 $$
 E_\mathrm c = \frac{1}{2} m v^2,
 $$
@@ -261,7 +258,7 @@ y la energía potencial gravitatoria,
 $$
 E_\mathrm p = mgh,
 $$
-tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.	Utiliza el resultado para definir la unidad de energía en el SI, el julio (J), en función de las unidades de masa, longitud y tiempo del SI.		
+tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.	Utiliza el resultado para definir la unidad de energía en el SI, el julio (J), en función de las unidades de masa, longitud y tiempo del SI.</q>		
 
 ---
 
