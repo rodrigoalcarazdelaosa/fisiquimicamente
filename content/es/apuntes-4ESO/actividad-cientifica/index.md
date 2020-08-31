@@ -117,6 +117,12 @@ El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fund
 | Cantidad de sustancia | Mol | mol |
 | Intensidad luminosa | Candela | cd |
 
+### Magnitudes derivadas
+Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes fundamentales.
+
+#### Ejemplos		
+Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
+
 ## Análisis dimensional
 ### Ecuación de dimensiones
 
