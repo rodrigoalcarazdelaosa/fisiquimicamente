@@ -38,7 +38,7 @@ Cuando terminas el colegio, sabes un poquito:
 ![colegio](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.002.jpg)
 
 Cuando terminas el instituto, sabes un poco más:
-![colegio](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.003.jpg)
+![instituto](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.003.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
