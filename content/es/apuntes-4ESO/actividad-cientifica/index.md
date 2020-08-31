@@ -100,6 +100,9 @@ Son aquellas **magnitudes** que quedan **descritas** por:
 
 {{< figure library="true" src="actividad-cientifica-4ESO/vector-fuerza.svg" lightbox="false" width="100%" >}}
 
+#### Ejemplos
+Posición, desplazamiento, velocidad, aceleración, fuerza...
+
 ## Análisis dimensional
 ### Ecuación de dimensiones
 
