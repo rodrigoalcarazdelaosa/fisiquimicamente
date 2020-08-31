@@ -76,7 +76,7 @@ Una vez en el límite, te centras en un tema específico:
 ---
 
 Empujas el límite durante unos años:
-![empuje](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.008.jpg)
+{{< figure src="http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.008.jpg" lightbox="false" width="80%" >}}
 
 ---
 
