@@ -444,3 +444,20 @@ $$
 Es **adimensional** (suele expresarse en % multiplicándolo por 100).
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Expresión de resultados
+Por regla general, las **incertidumbres siempre** se expresan con **una sola cifra significativa**[^2], **redondeando** la **medida** en consecuencia (unidades, decenas, centenas, etc.).
+
+[^2]: Excepto cuando la primera cifra significativa es un 1, que entonces utilizamos dos.
+
+### Ejemplos
+- $t = (5.67\pm 2.00)\thinspace\mathrm s \rightarrow t = (6\pm 2)\thinspace\mathrm s$
+- $l = (1307\pm 202)\thinspace\mathrm{\mu m} \rightarrow l = (1300\pm 200)\thinspace\mathrm{\mu m}$
+- $m = (437\pm 27)\thinspace\mathrm g \rightarrow m = (440\pm 30)\thinspace\mathrm g$
+- $I = (17 \pm 3)\thinspace\mathrm{mA} \rightarrow \text{está bien expresada}$
+
+{{% /section %}}
