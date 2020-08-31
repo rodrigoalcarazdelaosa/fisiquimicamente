@@ -159,34 +159,39 @@ tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la ac
 
 ---
 
-Analizamos las \textbf{dimensiones} de la \textbf{energía cinética} $E_\mathrm c$:
-\[
-\mleft[E_\mathrm c\mright] = 
-\mleft[\frac{1}{2}mv^2\mright] = \mleft[m\mright]\cdot \mleft[v^2\mright] = \mathsfup{M}\cdot \mleft[v\mright]^2,
-\]
+Analizamos las **dimensiones** de la **energía cinética** $E_\mathrm c$:
+$$
+\left[E_\mathrm c\right] = 
+\left[\frac{1}{2}mv^2\right] = \left[m\right]\cdot \left[v^2\right] = \mathsfup{M}\cdot \left[v\right]^2,
+$$
 donde hemos utilizado que los \textbf{números} (escalares) \textbf{no tienen dimensiones}.
 
 Necesitamos conocer las \textbf{dimensiones} de la \textbf{velocidad}:
 \[
-v = \frac{\Delta x}{\Delta t} \rightarrow \mleft[v\mright] = \frac{\mleft[\Delta x\mright]}{\mleft[\Delta t\mright]} = \frac{\mathsfup{L}}{\mathsfup{T}} = \mathsfup{L}\mathsfup{T}^{-1}
+v = \frac{\Delta x}{\Delta t} \rightarrow \left[v\right] = \frac{\left[\Delta x\right]}{\left[\Delta t\right]} = \frac{\mathsfup{L}}{\mathsfup{T}} = \mathsfup{L}\mathsfup{T}^{-1}
 \]
 Por lo que llegamos a:
 \[
-\mleft[E_\mathrm c\mright] = \mathsfup{M}\mleft(\mathsfup{L}\mathsfup{T}^{-1}\mright)^2 = \mathsfup{M}\mathsfup{L}^2\mathsfup{T}^{-2}
+\left[E_\mathrm c\right] = \mathsfup{M}\left(\mathsfup{L}\mathsfup{T}^{-1}\right)^2 = \mathsfup{M}\mathsfup{L}^2\mathsfup{T}^{-2}
 \]
+
+---
 
 Analizamos ahora las \textbf{dimensiones} de la \textbf{energía potencial gravitatoria} $E_\mathrm p$:
 \[
-\mleft[mgh\mright] = \mleft[m\mright]\cdot \mleft[g\mright]\cdot \mleft[h\mright] = \mathsfup{M}\cdot\mleft[g\mright]\cdot\mathsfup{L}
+\left[mgh\right] = \left[m\right]\cdot \left[g\right]\cdot \left[h\right] = \mathsfup{M}\cdot\left[g\right]\cdot\mathsfup{L}
 \]
 Necesitamos conocer las \textbf{dimensiones} de la \textbf{aceleración} $g$:
 \[
-g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \mleft[g\mright] = \frac{\mleft[\Delta v\mright]}{\mleft[\Delta t\mright]} = \frac{\mathsfup{L}\mathsfup{T}^{-1}}{\mathsfup{T}} = \mathsfup{L}\mathsfup{T}^{-2}
+g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \left[g\right] = \frac{\left[\Delta v\right]}{\left[\Delta t\right]} = \frac{\mathsfup{L}\mathsfup{T}^{-1}}{\mathsfup{T}} = \mathsfup{L}\mathsfup{T}^{-2}
 \]
 Por lo que llegamos a:
 \[
-\mleft[E_\mathrm p\mright] = \mathsfup{M}\cdot\mathsfup{L}\mathsfup{T}^{-2}\cdot\mathsfup{L} =  \mathsfup{M}\mathsfup{L}^2\mathsfup{T}^{-2}
+\left[E_\mathrm p\right] = \mathsfup{M}\cdot\mathsfup{L}\mathsfup{T}^{-2}\cdot\mathsfup{L} =  \mathsfup{M}\mathsfup{L}^2\mathsfup{T}^{-2}
 \]
+
+---
+
 El \textbf{julio} (J) por lo tanto queda definido como:
 \[
 \SI{1}{\J} = \SI{1}{\kilo\g\m\squared\per\s\squared}
