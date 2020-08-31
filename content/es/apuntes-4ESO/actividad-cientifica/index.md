@@ -22,7 +22,7 @@ links:
   name: Póster
   url: actividad-cientifica-poster.pdf
   
-slides: 
+slides: actividad-cientifica-4ESO
 ---
 
 {{% toc %}}
