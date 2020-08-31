@@ -230,7 +230,7 @@ Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sus
 
 ---
 
-Destacamos:
+**Destacamos**:
 \begin{align*}
 [\text{Masa}] &= \mathsf M \\\\
 [\text{Longitud}] &= \mathsf L \\\\
