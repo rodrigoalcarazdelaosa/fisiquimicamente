@@ -139,7 +139,9 @@ Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las 
 
 #### Ejemplos
 
-$[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3};  [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}$
+$$
+[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3};  [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}
+$$
 
 ## Errores en la medida
 ### Errores sistemáticos y errores aleatorios
