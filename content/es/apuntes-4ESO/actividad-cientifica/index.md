@@ -226,6 +226,8 @@ Es la **cercanía** de las **mediciones** al **valor real**. Es una **descripci�
 #### Precisión
 Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de los **errores aleatorios**.
 
+{{< figure library="true" src="actividad-cientifica-4ESO/exactitud-precision.svg" lightbox="false" width="100%" >}}
+
 ### Error absoluto y error relativo
 #### Error absoluto
 #### Error relativo
