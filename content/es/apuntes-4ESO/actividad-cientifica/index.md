@@ -75,7 +75,10 @@ Fuente: https://ictlogy.net/sociedadred/20100818-guia-ilustrada-para-un-doctorad
 ### Hipótesis, leyes y teorías
 #### Hipótesis
 Una **hipótesis científica** es una **propuesta** de **explicación** de un **fenómeno**, comprobable mediante el **método científico**.
+
 #### Ley
+Las **leyes científicas** son **enunciados**, basados en experimentos u observaciones repetidas, que **describen** o **predicen** una serie de **fenómenos naturales**.
+
 #### Teoría
 
 ## Magnitudes escalares y vectoriales
