@@ -27,7 +27,7 @@ links:
 ---
 
 {{% alert note %}}
-Si no estás familiarizado con el **Sistema Internacional de Unidades (SI)** te recomiendo consultar [esta página](https://www.cem.es/content/el-sistema-internacional-de-unidades-si) del [Centro Español de Metrología (CEM)](https://www.cem.es).
+Si no estás familiarizado con el **Sistema Internacional** de **Unidades** (SI) te recomiendo consultar [esta página](https://www.cem.es/content/el-sistema-internacional-de-unidades-si) del [Centro Español de Metrología (CEM)](https://www.cem.es).
 {{% /alert %}}
 
 {{% alert note %}}
