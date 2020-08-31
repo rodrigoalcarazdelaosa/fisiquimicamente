@@ -164,16 +164,16 @@ $$
 \left[E_\mathrm c\right] = 
 \left[\frac{1}{2}mv^2\right] = \left[m\right]\cdot \left[v^2\right] = \mathsf{M}\cdot \left[v\right]^2,
 $$
-donde hemos utilizado que los \textbf{números} (escalares) \textbf{no tienen dimensiones}.
+donde hemos utilizado que los **números** (escalares) **no tienen dimensiones**.
 
-Necesitamos conocer las \textbf{dimensiones} de la \textbf{velocidad}:
-\[
+Necesitamos conocer las **dimensiones** de la **velocidad**:
+$$
 v = \frac{\Delta x}{\Delta t} \rightarrow \left[v\right] = \frac{\left[\Delta x\right]}{\left[\Delta t\right]} = \frac{\mathsf{L}}{\mathsf{T}} = \mathsf{L}\mathsf{T}^{-1}
-\]
+$$
 Por lo que llegamos a:
-\[
+$$
 \left[E_\mathrm c\right] = \mathsf{M}\left(\mathsf{L}\mathsf{T}^{-1}\right)^2 = \mathsf{M}\mathsf{L}^2\mathsf{T}^{-2}
-\]
+$$
 
 ---
 
