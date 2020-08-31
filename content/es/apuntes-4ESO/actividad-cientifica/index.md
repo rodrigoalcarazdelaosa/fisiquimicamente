@@ -45,6 +45,9 @@ Cuando te gradúas en la universidad, consigues una especialidad:
 
 Con un máster profundizas en dicha especialidad:
 ![master](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.005.jpg)
+
+La lectura de literatura científica te lleva hasta la frontera del conocimiento de la humanidad:
+![literatura](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.006.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
