@@ -414,6 +414,9 @@ Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de 
 ---
 
 ### Error absoluto y error relativo
+- [Error absoluto]
+- [Error relativo]
+
 #### Error absoluto
 Es la **diferencia** entre el **valor real** y el **valor medido**:
 
@@ -422,6 +425,8 @@ $$
 $$
 
 Tiene las **mismas dimensiones** que la **magnitud medida**.
+
+---
 
 #### Error relativo
 Es el **cociente** entre el **error absoluto** y el **valor real**:
