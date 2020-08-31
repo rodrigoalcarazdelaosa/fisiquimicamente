@@ -34,8 +34,11 @@ La **investigación científica** es el proceso por el cual, mediante la aplicac
 Imagina un círculo que contiene todo el conocimiento de la humanidad:
 ![circulo](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.001.jpg)
 
-Cuando terminas la educación primaria, sabes un poquito:
-![educacion primaria](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.002.jpg)
+Cuando terminas el colegio, sabes un poquito:
+![colegio](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.002.jpg)
+
+Cuando terminas el instituto, sabes un poco más:
+![colegio](http://matt.might.net/articles/phd-school-in-pictures/images/PhDKnowledge.003.jpg)
 {{< /spoiler >}}
 
 ### Hipótesis, leyes y teorías
