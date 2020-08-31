@@ -95,13 +95,13 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentale
 
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | :-------: | 
-| Tiempo   | segundo | s |
-| Longitud | metro | m |
-| Masa | kilogramo | kg |
-| Corriente eléctrica | amperio | A |
-| Temperatura | kelvin | K |
-| Cantidad de sustancia | mol | mol |
-| Intensidad luminosa | candela | cd |
+| Tiempo   | Segundo | s |
+| Longitud | Metro | m |
+| Masa | Kilogramo | kg |
+| Corriente eléctrica | Amperio | A |
+| Temperatura | Kelvin | K |
+| Cantidad de sustancia | Mol | mol |
+| Intensidad luminosa | Candela | cd |
 
 #### Prefijos
 
