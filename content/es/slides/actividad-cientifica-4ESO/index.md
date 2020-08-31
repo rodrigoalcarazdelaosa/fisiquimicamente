@@ -129,11 +129,10 @@ Una **teoría científica** es una **explicación** de un **aspecto** del **mund
 
 {{% section %}}
 
-## Principios de la hidrostática
+## Magnitudes escalares y vectoriales
 
-- [Principio de Pascal](#/2/1)
-- [Principio fundamental de la hidrostática](#/2/9)
-- [Principio de Arquímedes](#/2/20)
+- [Magnitudes escalares]
+- [Magnitudes vectoriales]
 
 (continúa hacia abajo)
 
@@ -141,208 +140,33 @@ Una **teoría científica** es una **explicación** de un **aspecto** del **mund
 
 ---
 
-### Principio de Pascal
-> Todo cambio de presión en un punto de un fluido incompresible encerrado en un recipiente de paredes indeformables se transmite con igual intensidad en todas las direcciones y en todos los puntos del fluido.
+### Magnitudes escalares
+Son aquellas **magnitudes** que quedan **descritas** por un **número** (escalar) y una **unidad**.
 
 ---
 
-{{< youtube iPQ3WORwUYQ >}}
+#### Ejemplos
+Masa, volumen, densidad, tiempo, temperatura, energía...
 
 ---
 
-#### Elevador hidráulico
+### Magnitudes vectoriales
+Son aquellas **magnitudes** que quedan **descritas** por:
 
-{{< figure library="true" src="fluidos-4ESO/elevador-hidraulico.svg" lightbox="false" width="90%" >}}
-
-$$
-p_1 = p_2 \Rightarrow \frac{F_1}{A_1} = \frac{F_2}{A_2} \Rightarrow F_1A_2 = F_2A_1
-$$
-
----
-
-##### Ejemplo
-<q>¿Qué radio deberá tener el soporte circular sobre el que está *aparcado* un coche de masa $m = 1500\thinspace\mathrm{kg}$ si queremos levantarlo apretando uno de los pistones (también circular) de un elevador hidráulico con nuestra mano? <br>
-(Suponer que la fuerza máxima que podemos hacer es $F_1 = 500\thinspace\mathrm N$ y que el pistón que apretamos tiene un radio $r_1 = 8\thinspace\mathrm{cm}$).</q>
+- Un **número** (escalar).
+- Una **unidad**.
+- Una **dirección**.
+- Un **sentido**.
+- Un **punto** de **aplicación**.
 
 ---
 
-La fuerza que debemos superar es el peso del coche:
-
-\begin{align*}
-F_2 = m\cdot g &= 1500\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} \\\\
-&= 14700\thinspace\mathrm{N}
-\end{align*}
+{{< figure library="true" src="actividad-cientifica-4ESO/vector-fuerza.svg" lightbox="false" width="100%" >}}
 
 ---
 
-Aplicando el **principio de Pascal**:
-
-\begin{align*}
-p_1 &= p_2 \\\\
-\frac{F_1}{A_1} &= \frac{F_2}{A_2} \\\\
-\frac{F_1}{\pi r_1^2} &= \frac{F_2}{\pi r_2^2}
-\end{align*}
-donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$, $F_2 = 14700\thinspace\mathrm{N}$ y $r_2$ es lo que nos piden.
-
----
-
-Despejando $r_2$:
-
-\begin{align*}
-r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{N}}{500\thinspace\mathrm{N}}} \\\\
-&= 0.434\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
-\end{align*}
-
----
-
-{{< vimeo 209053495 >}}
-
----
-
-### Principio fundamental de la hidrostática
-
-> La presión ejercida por un fluido de densidad $d$ en un punto situado a una profundidad $h$ de la superficie es numéricamente igual a la presión ejercida por una columna de fluido de altura $h$.
-
----
-
-$$
-p = \frac{F}{A} = \frac{m\cdot g}{A} = \frac{d\cdot V\cdot g}{A} = \frac{d\cdot A\cdot h\cdot g}{A} = d\cdot g \cdot h
-$$
-
----
-
-En el caso de que la superficie esté sometida a una presión $p_0$ (presión atmosférica por ejemplo), la presión total a una profundidad $h$ será:
-$$
-p = p_0 + dgh,
-$$
-que constituye la **ecuación fundamental de la hidrostática**.
-
----
-
-#### Ejemplo
-<q>Un reloj tiene una etiqueta que pone 10 ATM. ¿Hasta qué profundidad podremos sumergirlo en el mar?</q>
-
-{{< figure library="true" src="fluidos-4ESO/reloj.jpg" lightbox="false" width="40%" >}}
-
----
-
-Lo primero que habría que decir es que ATM es el símbolo de la unidad de presión **atmósfera**, por lo que habría que escribirlo como atm.
-
-Esa etiqueta significa que 10 atm es la presión máxima que aguanta el reloj.
-
----
-
-Haciendo uso de la ecuación fundamental de la hidrostática podemos relacionar la presión con la profundidad:
-
-$$
-p = p_0 + dgh,
-$$
-donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la presión atmosférica a nivel del mar, $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar, $g = 9.8\thinspace\mathrm{N/kg}$ es la aceleración de la gravedad y $h$ es lo que nos piden.
-
----
-
-Convertimos todo al SI:
-\begin{align*}
-10\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 1013250\thinspace\mathrm{Pa} \\\\
-1\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 101325\thinspace\mathrm{Pa}
-\end{align*}
-
----
-
-Despejando $h$:
-
-\begin{align*}
-h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\\\
-&= 90.8\thinspace\mathrm{m}
-\end{align*}
-
-Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente. 
-
----
-
-#### Paradoja hidrostática
-
-La **paradoja hidrostática** consiste en que la presión que ejerce un fluido sobre el fondo no depende de la forma (ni de la cantidad de fluido por tanto), sino del nivel (altura).
-
----
-
-##### Vasos comunicantes
-
-En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se distribuye hasta alcanzar el mismo nivel. 
-
-{{< figure library="true" src="fluidos-4ESO/vasos-comunicantes.svg" lightbox="false" width="100%" >}}
-
----
-
-#### Simulación
-<iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
-
----
-
-### Principio de Arquímedes
-
-> Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado.
-
----
-
-\begin{align*}					
-E &= P_\text{fluido desalojado} \\\\
-&= m_\text{fluido desalojado}\cdot g \\\\
-&= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\\\
-&= d_\text{fluido}\cdot V_\text{sumergido}\cdot g
-\end{align*}
-
----
-
-{{< figure library="true" src="fluidos-4ESO/flotacion.svg" lightbox="false" width="55%" >}}
-
----
-
-#### Flotación
-$$
-\begin{cases}
-	E<P_\text{cuerpo} & \text{se hunde} \\\\
-	E=P_\text{cuerpo} & \text{flota} \Rightarrow \dfrac{V_\text{sumergido}}{V_\text{cuerpo}} = \dfrac{d_\text{cuerpo}}{d_\text{fluido}} \\\\
-	E>P_\text{cuerpo} & \text{fuerza ascensional}
-\end{cases}
-$$
-
-El peso aparente de un objeto puede calcularse como:
-$$
-P_\text{aparente} = P_\text{real} - E
-$$
-
----
-
-#### Ejemplo
-<q>El Pont Aven es el ferry que navega desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar, ¿qué volumen del barco se encuentra sumergido?</q>
-
-{{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" lightbox="false" width="50%" >}}
-
----
-
-Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene que ser cero, o lo que es lo mismo, el empuje ha de igualar al peso. Aplicando el **principio de Arquímedes**:
-
-\begin{align*}
-E &= P_\text{barco} \\\\
-d_\text{fluido}\cdot V_\text{sumergido}\cdot g &= m_\text{barco}\cdot g
-\end{align*}
-
----
-
-Pasamos la masa del barco a kg:
-$$
-4803\thinspace\mathrm{t}\cdot \frac{10^3\thinspace\mathrm{kg}}{1\thinspace\mathrm{t}} = 4.803\times 10^6\thinspace\mathrm{kg}
-$$
-
----
-
-Despejamos el $V_\text{sumergido}$:
-
-\begin{align*}
-V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{kg}}{1025\thinspace\mathrm{kg/m^3}} \\\\
- &= 4685.85\thinspace\mathrm{m^3}
-\end{align*}
+#### Ejemplos
+Posición, desplazamiento, velocidad, aceleración, fuerza...
 
 {{% /section %}}
 
