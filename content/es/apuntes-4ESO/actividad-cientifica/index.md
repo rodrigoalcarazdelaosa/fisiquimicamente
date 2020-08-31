@@ -215,7 +215,7 @@ $$
 
 ### Errores sistemáticos y errores aleatorios
 #### Error sistemático
-Es **predecible** y típicamente **constante** o **proporcional** al **valor verdadero**. Suele ser debido a **imperfecciones** del **instrumento** de medida o de los **métodos** de **observación** (incluido el observador). Se puede **detectar** y **eliminar**.
+Siempre ocurre, con el mismo valor, cuando usamos el instrumento de la misma manera y en el mismo caso. Es **predecible** y típicamente **constante** o **proporcional** al **valor verdadero**. Suele ser debido a **imperfecciones** del **instrumento** de medida o de los **métodos** de **observación** (incluido el observador). Se puede **detectar** y **eliminar**.
 ### Exactitud y precisión
 #### Exactitud
 #### Precisión
