@@ -390,13 +390,22 @@ Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas
 ---
 
 ### Exactitud y precisión
+
+---
+
 #### Exactitud
 Es la **cercanía** de las **mediciones** al **valor real**. Es una **descripción** de los **errores sistemáticos**.
+
+---
 
 #### Precisión
 Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de los **errores aleatorios**.
 
+---
+
 {{< figure library="true" src="actividad-cientifica-4ESO/exactitud-precision.svg" lightbox="false" width="100%" >}}
+
+---
 
 ### Error absoluto y error relativo
 #### Error absoluto
