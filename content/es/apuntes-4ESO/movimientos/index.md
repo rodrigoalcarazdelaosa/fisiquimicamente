@@ -113,6 +113,10 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 ### Gráficas
 {{< figure src="graficas-MRUV.svg" lightbox="false" width="100%" >}}
 
+{{% alert note %}}
+Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
+{{% /alert %}}
+
 ### Ejemplo
 {{% alert example %}}
 <br>
