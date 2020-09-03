@@ -30,7 +30,7 @@ subtitle = ""
     tag = "actividad-científica"
 	
   [[content.filter_button]]
-    name = "Materia"
+    name = "Modelos atómicos"
     tag = "estructura-atómica"	
 	
   [[content.filter_button]]
