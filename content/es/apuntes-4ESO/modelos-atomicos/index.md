@@ -16,16 +16,11 @@ image:
   caption: Imagen de [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+links:  
+- icon_pack: fas
+  icon: file-download
+  name: Póster
+  url: modelos-atomicos-poster.pdf
 
 ---
 
