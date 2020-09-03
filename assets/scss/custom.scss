@@ -133,7 +133,7 @@ background-image: linear-gradient(to bottom, $primary_complementary_bg, $primary
 }
 
 .fancybox-caption a, .fancybox-caption a:link, .fancybox-caption a:visited {
-    color: #f7f056;
+    color: $primary;
 }
 
 .fancybox-is-open .fancybox-bg {
