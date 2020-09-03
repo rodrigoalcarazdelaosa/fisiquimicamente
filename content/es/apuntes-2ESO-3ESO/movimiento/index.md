@@ -139,6 +139,10 @@ v = 0 + 7.86\thinspace\mathrm{m/s^\cancel{2}}\cdot 5\thinspace\cancel{\mathrm s}
 ### Movimiento acelerado
 {{< figure library="true" src="movimiento-2ESO/graficas-MRUV.svg" lightbox="false" width="100%" >}}
 
+{{% alert note %}}
+Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/
+{{% /alert %}}
+
 ## Encuentros
 Se trata de situaciones en las que dos cuerpos comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
 
