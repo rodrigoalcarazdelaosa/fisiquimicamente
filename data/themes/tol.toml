@@ -18,7 +18,7 @@ home_section_odd = "#FFFFF8"
 home_section_even = "#DDDDDD"
 
 [dark]
-	menu_primary = "#2a54a9"
-	menu_text = "#ffffff"
+	menu_primary = "#bbccee"
+	menu_text = "#000000"
 	menu_text_active = "#f7f056"
 	menu_title = "#f7f056"	
