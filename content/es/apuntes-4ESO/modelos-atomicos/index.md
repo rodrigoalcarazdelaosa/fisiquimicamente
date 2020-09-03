@@ -1,7 +1,7 @@
 ---
 title: Modelos atómicos
 subtitle: Modelos de Thomson, Rutherford y Bohr
-summary: "`PRÓXIMAMENTE` <br> Modelos de Thomson, Rutherford y Bohr."
+summary: "`EN CONSTRUCCIÓN` <br> Modelos de Thomson, Rutherford y Bohr."
 tags:
 - 4º ESO
 - estructura-atómica
@@ -24,6 +24,6 @@ links:
 
 ---
 
-{{% alert note %}}
-Próximamente...
+{{% alert warning %}}
+En construcción...
 {{% /alert %}}
