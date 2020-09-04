@@ -3,6 +3,7 @@ title: The Periodic Table of Videos
 summary: Short videos about every element on the periodic table, plus other cool experiments and chemistry stuff.
 tags:
 - periodic-table
+- videos
 categories: 
 - "Chemistry"
 
