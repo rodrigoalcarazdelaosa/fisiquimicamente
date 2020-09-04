@@ -27,15 +27,19 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Color"
-    tag = "color"	
+    tag = "color"
 	
   [[content.filter_button]]
-    name = "Physics/Chemistry"
-    tag = "pac"	
+    name = "Games"
+    tag = "games"	
 	
   [[content.filter_button]]
     name = "Periodic Table"
-    tag = "periodic-table"	
+    tag = "periodic-table"		
+	
+  [[content.filter_button]]
+    name = "Physics/Chemistry"
+    tag = "pac"		
 
   [[content.filter_button]]
     name = "Simulations"
@@ -43,7 +47,11 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Translator"
-    tag = "translator"	
+    tag = "translator"
+	
+  [[content.filter_button]]
+    name = "Videos"
+    tag = "videos"			
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
