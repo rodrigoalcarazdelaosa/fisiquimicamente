@@ -61,7 +61,7 @@ d = \frac{m}{V}
 $$
 En el SI se mide en $\mathrm{kg/m^3}$.
 
-En [esta tabla tomada de la entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials) puedes ver la densidad de diversos materiales (ordenados de menor a mayor densidad).
+En [esta tabla, tomada de la entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials), puedes ver la densidad de diversos materiales (ordenados de menor a mayor densidad).
 
 <!-- [^1]: Densidades de diversos materiales, tomadas de la [entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials).
 
