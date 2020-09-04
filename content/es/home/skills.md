@@ -60,8 +60,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = #2E3440
+  gradient_end = #4C566A
   
   # Background image.
   # image = "home.jpg"  # Name of image in `static/media/`.
@@ -71,6 +71,6 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  # text_color_light = true    
 
 +++
