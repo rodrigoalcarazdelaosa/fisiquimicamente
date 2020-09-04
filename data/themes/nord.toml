@@ -5,11 +5,11 @@ name = "nord"
 light = false
 
 # Primary
-primary = "#2a54a9"
+primary = "#88C0D0"
 
 # Menu
-menu_primary = "#2a54a9"
-menu_text = "#ffffff"
+menu_primary = "#88C0D0"
+menu_text = "#2E3440"
 menu_text_active = "#f7f056"
 menu_title = "#f7f056"
 
