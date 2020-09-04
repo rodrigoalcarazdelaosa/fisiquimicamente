@@ -3,6 +3,7 @@ title: The Periodic Table of Videos
 summary: Videos cortos sobre cada elemento de la tabla periódica, además de otros experimentos geniales y cosas de química.
 tags:
 - tabla-periódica
+- vídeos
 categories: 
 - "Química"
 
