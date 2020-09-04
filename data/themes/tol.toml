@@ -16,3 +16,10 @@ menu_title = "#f7f056"
 # Home sections
 home_section_odd = "#FFFFF8"
 home_section_even = "#DDDDDD"
+
+[dark]
+# Menu
+menu_primary = "#4477AA"
+menu_text = "#ffffff"
+menu_text_active = "#f7f056"
+menu_title = "#f7f056"
