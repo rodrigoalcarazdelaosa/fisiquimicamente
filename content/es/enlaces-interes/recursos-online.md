@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "FyQ"
     tag = "fyq"
+	
+  [[content.filter_button]]
+    name = "Juegos"
+    tag = "juegos"	
 
   [[content.filter_button]]
     name = "Simulaciones"
@@ -47,7 +51,11 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Traductor"
-    tag = "traductor"	
+    tag = "traductor"
+	
+  [[content.filter_button]]
+    name = "Vídeos"
+    tag = "vídeos"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
