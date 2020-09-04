@@ -372,6 +372,9 @@ color: $primary; }
 .article-metadata {
 color: $primary_complementary; }
 
+.dark .article-metadata {
+color: $primary_complementary; }
+
 .article-metadata svg {
   fill: $primary_complementary; 
 display: inline-flex;
