@@ -4,7 +4,7 @@
  *  Definiciones de colores basadas en $primary
  **************************************************/
 $primary_bg: #BBCCEE;
-$primary_complementary: #EE6677;
+$primary_complementary: #b50000;
 $primary_complementary_bg: #ffcccc;
 $example_fg: #4c5f26;
 $example_bg: #CCDDAA;
@@ -18,12 +18,8 @@ html {
 }
 
 body {
-	color: #111111;
-    background-color: #fffff8; }
-  
-body.dark {
-	color: #fffff8;
-	background-color: #111111; }
+  color: #111111;
+  background-color: #fffff8; }  
   
 a.footnote-ref {
   position: relative;
