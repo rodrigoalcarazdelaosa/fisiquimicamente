@@ -30,8 +30,8 @@ email_form = 2
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "#2E3440"
-  # gradient_end = "#3B4252"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   image = "home.jpg"  # Name of image in `static/media/`.

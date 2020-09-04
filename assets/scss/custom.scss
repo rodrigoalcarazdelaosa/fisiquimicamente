@@ -4,7 +4,7 @@
  *  Definiciones de colores basadas en $primary
  **************************************************/
 $primary_bg: #BBCCEE;
-$primary_complementary: #EBCB8B;
+$primary_complementary: #b50000;
 $primary_complementary_bg: #ffcccc;
 $example_fg: #4c5f26;
 $example_bg: #CCDDAA;
@@ -19,11 +19,7 @@ html {
 
 body {
   color: #111111;
-  background-color: #fffff8; }
-  
-body.dark {
-	color: #ECEFF4;
-	background-color: #2E3440; }
+  background-color: #fffff8; }  
   
 a.footnote-ref {
   position: relative;
@@ -89,9 +85,6 @@ font-family: $sta-font-nav, serif;
   
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-color: $primary; }
-
-.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
 color: $primary; }
 
 code {
@@ -370,9 +363,6 @@ color: #f7f056; }
 color: $primary; }
 
 .article-metadata {
-color: $primary_complementary; }
-
-.dark .article-metadata {
 color: $primary_complementary; }
 
 .article-metadata svg {
