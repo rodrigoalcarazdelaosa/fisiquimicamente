@@ -124,7 +124,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 
 Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^5]:
 
-[^5]: Los tres con el **contraste máximo teórico** de **4.58** tanto sobre blanco como sobre negro.
+[^5]: Los tres con el **contraste máximo teórico** de $\sqrt{21}$ tanto sobre blanco como sobre negro.
 
 <ul style="display: grid;
   grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
