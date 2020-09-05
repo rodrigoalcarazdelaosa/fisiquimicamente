@@ -18,5 +18,7 @@ Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si 
 Las *Pautas de Accesibilidad para el Contenido Web*, [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/es) por sus siglas en inglés, [define la relación de **contraste**](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio) como:
 
 $$
-\frac{L1 + 0.05}{L2 + 0.05}
+\frac{L1 + 0.05}{L2 + 0.05},
 $$
+
+donde $L1$ y $L2$ son las *luminosidades relativas* de los colores claro y oscuro, respectivamente. 
