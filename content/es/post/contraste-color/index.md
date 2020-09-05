@@ -67,16 +67,16 @@ C_\text{blanco} &= \frac{1.05}{L+0.05} \geq 4.5 \\\\
 C_\text{negro} &= \frac{L+0.05}{0.05} \geq 4.5
 \end{align*}
 
-De la primera (blanco) sacamos:
+De la primera (**blanco**) sacamos:
 
 $$
 L \leq \frac{1.05}{4.5}-0.05 = 0.18\overline{3},
 $$
 
-mientras que de la segunda (negro):
+mientras que de la segunda (**negro**):
 
 $$
 L \geq 4.5\cdot 0.05-0.05 = 0.175
 $$
 
-Por lo que $$
+Por lo que $0.175\geq L\leq 0.18\overline{3}$
