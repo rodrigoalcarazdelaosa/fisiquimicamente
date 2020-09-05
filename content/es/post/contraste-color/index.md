@@ -12,6 +12,10 @@ image:
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
 ---
 
+{{% alert note %}}
+Esta entrada es una traducción/adaptación del [excelente artículo](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6) de [Ben Szabo](https://dev.to/finnhvman).
+{{% /alert %}}
+
 Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el color resalte, <svg width="1rem" height="1rem">
   <rect width="300" height="100" style="fill:#2a54a9" />
 </svg> este azul, dejaría de tener suficiente **contraste** sobre el negro.
