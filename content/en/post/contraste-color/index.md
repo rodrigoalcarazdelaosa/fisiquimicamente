@@ -43,7 +43,7 @@ $$
 
 The WCAG guidelines say that the **minimum contrast ratio** between a given text and its background should be at least **4.5:1**. [Colorable](https://colorable.jxnblk.com/) is an excellent tool with which we can check the contrast of color combinations.
 
-## Entonces, ¿qué colores se ven bien tanto sobre blanco como sobre negro?
+## So, which colors look good on both black and white?
 Dada la luminosidad relativa de un color, $L$, podemos calcular su **contraste contra** el **blanco**, $C_\text{blanco}$, con la expresión[^2]:
 
 [^2]: Como el blanco es el color más claro, $L$ va en el denominador.
