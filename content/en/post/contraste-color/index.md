@@ -29,7 +29,7 @@ $$
 
 where $L1$ y $L2$ are the *relative luminances* of the lighter and darker colors, respectively. The [relative luminance](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance) is defined as:
 
-> the relative brightness of any point in a colorspace, normalized to 0 for darkest black and 1 for lightest white.
+> The relative brightness of any point in a colorspace, normalized to 0 for darkest black and 1 for lightest white.
 
 En el caso del espacio de color **sRGB**, el utilizado por defecto en toda la Web, existen unas [expresiones *sencillas* para calcular esta luminosidad relativa](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance), que depende de las coordenadas del color en cuestión.
 
