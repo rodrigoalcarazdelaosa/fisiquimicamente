@@ -12,7 +12,7 @@ image:
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
 ---
 
-Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el color resalte, <span style="color:#2a54a9;">este azul</span>, dejaría de tener suficiente **contraste**. <svg width="400" height="110">
+Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el color resalte, <span style="color:#2a54a9;">este azul</span>, dejaría de tener suficiente **contraste**. <svg width="1rem" height="1rem">
   <rect width="300" height="100" style="fill:#2a54a9" />
 </svg>
 
