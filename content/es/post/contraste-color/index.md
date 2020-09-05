@@ -96,5 +96,5 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 Para poder tener suficiente contraste contra blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores, como se puede ver con las inecuaciones (1) y (2). El contraste máximo teórico de un color contra blanco y negro a la vez se puede obtener imponiendo que esos dos valores de luminosidad se igualen:
 
 $$
-\frac{1.05}{C_\text{bn}^\text{máx}+0.05} = 
+\frac{1.05}{C_\text{b\&n}^\text{máx}+0.05} = 
 $$
