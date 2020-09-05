@@ -45,5 +45,5 @@ Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un tex
 Dada la luminosidad relativa de un color, $L$, podemos calcular su contraste contra el blanco, $C_\text{blanco}$, con la expresión:
 
 $$
-C_\text{blanco} = \frac{1 + 0.05}{L + 0.05}
+C_\text{blanco} = \frac{1 + 0.05}{L + 0.05} = \frac{1.05}{L+0.05}
 $$
