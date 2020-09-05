@@ -12,9 +12,9 @@ image:
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
 ---
 
-Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el color resalte, <span style="color:#2a54a9;">este azul</span>, dejaría de tener suficiente **contraste**. <svg width="1rem" height="1rem">
+Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el color resalte, <svg width="1rem" height="1rem">
   <rect width="300" height="100" style="fill:#2a54a9" />
-</svg>
+</svg> este azul, dejaría de tener suficiente **contraste**.
 
 ## ¿Qué es el contraste y cómo se define?
 Las *Pautas de Accesibilidad para el Contenido Web*, [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/es) por sus siglas en inglés, [definen la relación de **contraste**](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio) como:
