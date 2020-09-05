@@ -113,7 +113,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
   padding: 48px 16px 16px;
   list-style: none;
   text-align: end; background-color: #cf0dcc; font-family: Inconsolata">
-	  #cf0dcc<br>rgb(207,13,204)
+	  <span style="color:white">#cf0dcc</span><br>rgb(207,13,204)
   </li>
   <li style="border-radius: 4px;
   padding: 48px 16px 16px;
@@ -138,12 +138,12 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería:
   padding: 48px 16px 16px;
   list-style: none;
   text-align: end; background-color: #038901; font-family: Inconsolata">
-	  #038901<br>rgb(3,137,1)
+	  <span style="color:white">#038901</span><br>rgb(3,137,1)
   </li>
   <li style="border-radius: 4px;
   padding: 48px 16px 16px;
   list-style: none;
   text-align: end; background-color: #2f72de; font-family: Inconsolata">
-	  #2f72de<br>rgb(47,114,222)
+	  <span style="color:white">#2f72de</span><br>rgb(47,114,222)
   </li>    
 </ul>
