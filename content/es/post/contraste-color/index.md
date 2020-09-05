@@ -103,6 +103,7 @@ $$
 
 de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color <strong><em>fucsia</em></strong>:
 
+<center>
 <ul style="display: grid;
   grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
   grid-gap: 16px;
@@ -114,6 +115,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	  <span style="color:white">#cf0dcc</span><br>rgb(207,13,204)
   </li> 
 </ul>
+</center>
 
 Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^6]:
 
