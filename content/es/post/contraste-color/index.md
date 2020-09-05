@@ -75,9 +75,9 @@ $$
 
 mientras que de la segunda (**negro**):
 
-\begin{equation}
+$$
 L \geq 4.5\cdot 0.05-0.05 = 0.175
-\end{equation}
+$$
 
 Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 
