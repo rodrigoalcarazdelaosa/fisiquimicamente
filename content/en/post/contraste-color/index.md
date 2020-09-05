@@ -16,9 +16,9 @@ image:
 This post is an **adaptation/extension** of the [**excellent post** by **Ben Szabo** on dev.to](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6).
 {{% /alert %}}
 
-I am considering the possibility of allowing the visitors of my website to choose whether they want a **light** or **dark** background. With a dark background (almost black) the text would become light (almost white), the opposite of what it is currently, but the **accent color**, <svg width="1rem" height="1rem">
+I am considering the possibility of allowing the visitors of my website to choose whether they want a **light** or **dark** background. With a dark background (almost black) the text would become light (almost white), the opposite of what it is currently, but the **accent color**, this blue <svg width="1rem" height="1rem">
   <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#2a54a9" />
-</svg> this blue, would no longer have enough **contrast** on black.
+</svg>, would no longer have enough **contrast** on black.
 
 ## What is contrast and how is it defined?
 The Web Content Accessibility Guidelines [(**WCAG**)](https://www.w3.org/WAI/standards-guidelines/wcag/), [define the **contrast** ratio](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio), $C$, as:
