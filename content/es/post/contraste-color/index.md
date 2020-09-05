@@ -101,6 +101,18 @@ $$
 
 de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color <strong><em>fucsia</em></strong>:
 
+<ul style="display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
+  grid-gap: 16px;
+  padding: 16px 32px;">
+  <li style="border-radius: 4px;
+  padding: 48px 16px 16px;
+  list-style: none;
+  text-align: end; background-color: #e62101">
+	  #e62101<br>rgb(230, 33, 1)
+  </li>      
+</ul>
+
 <svg width="100%" height="100">
   <rect rx="4" ry="4" width="100%" height="100"
   style="fill:#cf0dcc;" />
