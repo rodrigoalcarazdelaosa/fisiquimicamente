@@ -108,7 +108,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 
 cuyas coordenadas cromáticas son: $(\mathrm R,\mathrm G,\mathrm B) = (207,13,204)$ o `#cf0dcc`.
 
-Una buena combinación de colores primarios (rojo, verde y azul) sería:
+Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería:
 
 <ul style="display: grid;
   grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
