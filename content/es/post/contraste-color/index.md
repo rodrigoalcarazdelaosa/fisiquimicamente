@@ -106,4 +106,4 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
   style="fill:#cf0dcc;" />
 </svg>
 
-cuyas coordenadas cromáticas son: $(R,G,B) = $
+cuyas coordenadas cromáticas son: $(\mathrm R,\mathrm G,\mathrm B) = $.
