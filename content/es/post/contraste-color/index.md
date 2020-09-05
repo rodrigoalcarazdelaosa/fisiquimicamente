@@ -106,7 +106,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 <div style="width=100%; background-color: #cf0dcc; border-radius: 4px;
   padding: 48px 16px 16px;
   list-style: none;
-  text-align: end; font-family: Inconsolata">
+  text-align: end; font-family: Inconsolata; padding: 16px 32px;">
 	<span style="color:white">#cf0dcc</span><br>rgb(207,13,204)
 </div>
 
