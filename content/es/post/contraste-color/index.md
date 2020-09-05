@@ -81,7 +81,7 @@ $$
 
 Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 
-[Ben Szabo](https://dev.to/finnhvman) ha creado este *Pen* que itera a través del espacio de color sRGB, con incrementos de 17 por canal[^4], listando **76 colores** que coinciden con nuestros requerimientos.
+[Ben Szabo](https://dev.to/finnhvman) ha creado este *Pen* que itera a través del espacio de color sRGB, con incrementos de 17 por canal[^4], listando **76 colores** cuyo contraste blanco y negro es de 4.5 como mínimo.
 
 [^4]: En el [espacio de color **RGB**](https://es.wikipedia.org/wiki/RGB), los valores de cada canal (rojo, verde y azul) varían desde 0 hasta 255. Incrementos de 17 permiten iterar a través de los colores que pueden ser descritos con una [notación hexadecimal](https://es.wikipedia.org/wiki/Colores_web) de 3 dígitos. Si iteráramos por todos los posibles colores (incrementos de 1) obtendríamos ~300k colores.
 
