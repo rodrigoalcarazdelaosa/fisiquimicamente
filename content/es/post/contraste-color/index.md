@@ -117,7 +117,7 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[
 [^6]: Los tres con un contraste cercano al **máximo teórico** de $\sqrt{21}$ tanto sobre blanco como sobre negro.
 
 <ul style="display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 16px;
   padding-right: 32px;">
   <li style="border-radius: 4px;
