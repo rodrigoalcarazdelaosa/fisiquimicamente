@@ -29,6 +29,10 @@ donde $L1$ y $L2$ son las *luminosidades relativas* de los colores claro y oscur
 
 En el caso del espacio de color **sRGB**, el utilizado por defecto en toda la Web, existen unas expresiones *sencillas* para calcular esta luminosidad relativa, que depende de las coordenadas del color en cuestión.
 
-El negro
+El negro tiene una luminosidad relativa igual a 0, mientras que la del blanco es igual a 1, por lo que al máximo contraste posible es:
+
+$$
+\text{contraste máximo} = \frac{1+0.05}{0+0.05} = 21
+$$
 
 [Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar
