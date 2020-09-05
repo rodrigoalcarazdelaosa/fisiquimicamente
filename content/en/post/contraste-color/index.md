@@ -98,7 +98,7 @@ In order to have enough contrast on both black and white, the relative luminance
 [^5]: In other words, the color does not have to be either very light (poor contrast on white) or very dark (poor contrast on black).
 
 $$
-\frac{1.05}{C_\text{b\&n}^\text{máx}}-\cancel{0.05} = C_\text{b\&n}^\text{máx}\cdot 0.05-\cancel{0.05},
+\frac{1.05}{C_\text{b\&w}^\text{max}}-\cancel{0.05} = C_\text{b\&w}^\text{max}\cdot 0.05-\cancel{0.05},
 $$
 
 de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color <strong><em>fucsia</em></strong>:
