@@ -81,7 +81,7 @@ $$
 
 So that $0.175\leq L\leq 0.18\overline{3}$.
 
-[Ben Szabo](https://dev.to/finnhvman) has created this *Pen* which iterates through the RGB color space, with increments of 17 per channel, con[^4], listing **76 colors** whose contrast on both black and white is at least 4.5.
+[Ben Szabo](https://dev.to/finnhvman) has created this *Pen* which iterates through the RGB color space, with increments of 17 per channel[^4], listing **76 colors** whose contrast on both black and white is at least 4.5.
 
 [^4]: In the [**RGB** color space](https://en.wikipedia.org/wiki/RGB), los valores de cada canal (rojo, verde y azul) varían desde 0 hasta 255. Incrementos de 17 permiten iterar a través de los colores que pueden ser descritos con una [notación hexadecimal](https://es.wikipedia.org/wiki/Colores_web) de 3 dígitos. Si iteráramos por todos los posibles colores (incrementos de 1) obtendríamos ~300k colores.
 
