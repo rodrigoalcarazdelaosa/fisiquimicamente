@@ -1,7 +1,7 @@
 ---
 title: Contraste de color
 subtitle: Contra blanco y negro *a la vez*
-summary: Contraste de color contra blanco y negro *a la vez*.
+summary: Contraste de color sobre blanco y negro *a la vez*.
 date: "2020-09-05T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
@@ -81,7 +81,7 @@ $$
 
 Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 
-[Ben Szabo](https://dev.to/finnhvman) ha creado este *Pen* que itera a través del espacio de color sRGB, con incrementos de 17 por canal[^4], listando **76 colores** cuyo contraste contra blanco y negro *a la vez* es de 4.5 como mínimo.
+[Ben Szabo](https://dev.to/finnhvman) ha creado este *Pen* que itera a través del espacio de color sRGB, con incrementos de 17 por canal[^4], listando **76 colores** cuyo contraste sobre blanco y negro *a la vez* es de 4.5 como mínimo.
 
 [^4]: En el [espacio de color **RGB**](https://es.wikipedia.org/wiki/RGB), los valores de cada canal (rojo, verde y azul) varían desde 0 hasta 255. Incrementos de 17 permiten iterar a través de los colores que pueden ser descritos con una [notación hexadecimal](https://es.wikipedia.org/wiki/Colores_web) de 3 dígitos. Si iteráramos por todos los posibles colores (incrementos de 1) obtendríamos ~300k colores.
 
@@ -92,8 +92,8 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-## ¿Cuál es el máximo contraste que podemos conseguir contra blanco y negro *a la vez*?
-Para poder tener suficiente contraste contra blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores, como se puede ver con las inecuaciones (1) y (2). El **contraste máximo teórico** de un color **contra blanco** y **negro *a la vez***, $C_\text{b\&n}^\text{máx}$, se puede obtener imponiendo que esos dos valores de luminosidad relativa se igualen:
+## ¿Cuál es el máximo contraste que podemos conseguir sobre blanco y negro *a la vez*?
+Para poder tener suficiente contraste sobre blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores, como se puede ver con las inecuaciones (1) y (2). El **contraste máximo teórico** de un color **sobre blanco** y **negro *a la vez***, $C_\text{b\&n}^\text{máx}$, se puede obtener imponiendo que esos dos valores de luminosidad relativa se igualen:
 
 $$
 \frac{1.05}{C_\text{b\&n}^\text{máx}}-\cancel{0.05} = C_\text{b\&n}^\text{máx}\cdot 0.05-\cancel{0.05},
@@ -122,7 +122,9 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
   </li>  
 </ul>
 
-Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería:
+Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^5]:
+
+[^5]: Los tres con el contraste máximo teórico de 4.58 tanto sobre blanco como sobre negro.
 
 <ul style="display: grid;
   grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
