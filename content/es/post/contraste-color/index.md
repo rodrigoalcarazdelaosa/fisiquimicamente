@@ -79,4 +79,11 @@ $$
 L \geq 4.5\cdot 0.05-0.05 = 0.175
 $$
 
-Por lo que $0.175\leq L\leq 0.18\overline{3}$.
+Por lo que $0.175\leq L\leq 0.18\overline{3}$. [Ben Szabo](https://dev.to/finnhvman) ha creado este *pen* donde 
+
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="finnhvman" data-slug-hash="bZQLgR" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Colors With 4.5:1 Contrast on Black and White">
+  <span>See the Pen <a href="https://codepen.io/finnhvman/pen/bZQLgR">
+  Colors With 4.5:1 Contrast on Black and White</a> by Ben Szabo (<a href="https://codepen.io/finnhvman">@finnhvman</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
