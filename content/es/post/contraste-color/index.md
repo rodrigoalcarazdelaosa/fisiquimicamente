@@ -99,7 +99,7 @@ $$
 \frac{1.05}{C_\text{b\&n}^\text{máx}}-\cancel{0.05} = C_\text{b\&n}^\text{máx}\cdot 0.05-\cancel{0.05},
 $$
 
-de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color ***fucsia*** aproximadamente:
+de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color ___fucsia___ aproximadamente:
 
 <svg width="100%" height="164px">
   <rect width="300" height="100" style="fill:#2a54a9" />
