@@ -47,3 +47,8 @@ Dada la luminosidad relativa de un color, $L$, podemos calcular su contraste con
 $$
 C_\text{blanco} = \frac{1 + 0.05}{L + 0.05} = \frac{1.05}{L+0.05}
 $$
+
+El contraste contra el negro, $C_\text{negro}$, lo calculamos con la expresión:
+$$
+C_\text{negro} = \frac{L + 0.05}{0 + 0.05} = \frac{L+0.05}{0.05}
+$$
