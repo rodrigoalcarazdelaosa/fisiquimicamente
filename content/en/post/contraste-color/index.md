@@ -83,7 +83,7 @@ So that $0.175\leq L\leq 0.18\overline{3}$.
 
 [Ben Szabo](https://dev.to/finnhvman) has created this *Pen* which iterates through the RGB color space, with increments of 17 per channel[^4], listing **76 colors** whose contrast on both black and white is at least 4.5.
 
-[^4]: In the [**RGB** color model](https://en.wikipedia.org/wiki/RGB), values for each channel (red, green and blue) vary from 0 to 255. Increments of 17 allows for iterating through the colors that can be described with 3-digit [hexa notation](https://en.wikipedia.org/wiki/Web_colors). If we were to iterate through all possible colors (increments of 1) we would get ~300k colors.
+[^4]: In the [**RGB** color model](https://en.wikipedia.org/wiki/RGB), values for each channel (red, green and blue) vary from 0 to 255. Increments of 17 allow for iterating through the colors that can be described with 3-digit [hexa notation](https://en.wikipedia.org/wiki/Web_colors). If we were to iterate through all possible colors (increments of 1) we would get ~300k colors.
 
 <p class="codepen" data-height="600" data-theme-id="light" data-default-tab="result" data-user="finnhvman" data-slug-hash="bZQLgR" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Colors With 4.5:1 Contrast on Black and White">
   <span>See the Pen <a href="https://codepen.io/finnhvman/pen/bZQLgR">
