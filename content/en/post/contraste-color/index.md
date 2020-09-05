@@ -101,7 +101,7 @@ $$
 \frac{1.05}{C_\text{b\&w}^\text{max}}-\cancel{0.05} = C_\text{b\&w}^\text{max}\cdot 0.05-\cancel{0.05},
 $$
 
-de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color <strong><em>fucsia</em></strong>:
+from where we get $C_\text{b\&w}^\text{max} = \sqrt{21} \approx 4.58$, which corresponds to this <strong><em>fuchsia</em></strong> color:
 
 <ul style="display: grid;
   grid-template-columns: repeat(auto-fill, minmax(1fr, 1fr));
