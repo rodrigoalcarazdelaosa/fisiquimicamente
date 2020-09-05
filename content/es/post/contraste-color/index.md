@@ -104,8 +104,7 @@ $$
 de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color <strong><em>fucsia</em></strong>:
 
 <div style="width=100%; background-color: #cf0dcc; border-radius: 4px;
-margin-top: 16px;
-margin-bottom: 16px;
+margin: 16px 32px 16px;
   padding: 48px 16px 16px;
   list-style: none;
   text-align: end; font-family: Inconsolata;">
