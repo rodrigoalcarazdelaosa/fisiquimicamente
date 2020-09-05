@@ -103,7 +103,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 
 <svg width="100%" height="180">
   <rect x="50" y="20" rx="20" ry="20" width="100%" height="150"
-  style="fill:red;stroke:black;stroke-width:5;opacity:0.5" />
+  style="fill:#cf0dcc;" />
 </svg>
 
 <svg width="100%" height="100px">
