@@ -31,7 +31,7 @@ donde $L1$ y $L2$ son las *luminosidades relativas* de los colores claro y oscur
 
 > El brillo relativo de cualquier punto en un espacio de color, normalizado a 0 para el negro más oscuro y 1 para el blanco más claro.
 
-En el caso del espacio de color **sRGB**, el utilizado por defecto en toda la Web, existen unas expresiones *sencillas* para calcular esta luminosidad relativa, que depende de las coordenadas del color en cuestión.
+En el caso del espacio de color **sRGB**, el utilizado por defecto en toda la Web, existen unas [expresiones *sencillas* para calcular esta luminosidad relativa](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance), que depende de las coordenadas del color en cuestión.
 
 El negro tiene una luminosidad relativa igual a 0, mientras que la del blanco es igual a 1, por lo que el **máximo contraste posible**, $C_\text{máx}$, es:
 
