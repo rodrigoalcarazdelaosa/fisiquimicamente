@@ -36,3 +36,5 @@ $$
 $$
 
 Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un texto y su fondo debería ser de al menos **4.5:1**. [Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar el contraste de combinaciones de colores.
+
+## Entonces, ¿qué colores se ven bien tanto sobre blanco como sobre negro?
