@@ -83,7 +83,7 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$. [Ben Szabo](https://dev.to/finnhv
 
 [^4]: Esto es para iterar a través de los colores que pueden ser descritos con una [notación hexadecimal](https://es.wikipedia.org/wiki/Colores_web) de 3 dígitos.
 
-<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-user="finnhvman" data-slug-hash="bZQLgR" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Colors With 4.5:1 Contrast on Black and White">
+<p class="codepen" data-height="600" data-theme-id="light" data-default-tab="js,result" data-user="finnhvman" data-slug-hash="bZQLgR" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Colors With 4.5:1 Contrast on Black and White">
   <span>See the Pen <a href="https://codepen.io/finnhvman/pen/bZQLgR">
   Colors With 4.5:1 Contrast on Black and White</a> by Ben Szabo (<a href="https://codepen.io/finnhvman">@finnhvman</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
