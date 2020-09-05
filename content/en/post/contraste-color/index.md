@@ -115,9 +115,9 @@ from where we get $C_\text{b\&w}^\text{max} = \sqrt{21} \approx 4.58$, which cor
   </li>
 </ul>
 
-Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^6]:
+A good **combination** of **primary colors** (red, green and blue) would be[^6]:
 
-[^6]: Los tres con un contraste cercano al **máximo teórico** de $\sqrt{21}$ tanto sobre blanco como sobre negro.
+[^6]: All three with a contrast close to the **theoretical maximum** of $\sqrt{21}$ on both black and white.
 
 <ul style="display: grid;
   grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
