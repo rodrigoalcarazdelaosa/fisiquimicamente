@@ -12,7 +12,10 @@ image:
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
 ---
 
-Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el color resalte, <span style="color:#2a54a9;">este azul</span>, dejaría de tener suficiente **contraste**.
+Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el color resalte, <span style="color:#2a54a9;">este azul</span>, dejaría de tener suficiente **contraste**. <svg width="400" height="180">
+  <rect x="50" y="20" rx="20" ry="20" width="150" height="150"
+  style="fill:red;stroke:black;stroke-width:5;opacity:0.5" />
+</svg>
 
 ## ¿Qué es el contraste y cómo se define?
 Las *Pautas de Accesibilidad para el Contenido Web*, [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/es) por sus siglas en inglés, [definen la relación de **contraste**](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio) como:
@@ -26,3 +29,7 @@ donde $L1$ y $L2$ son las *luminosidades relativas* de los colores claro y oscur
 > El brillo relativo de cualquier punto en un espacio de color, normalizado a 0 para el negro más oscuro y 1 para el blanco más claro.
 
 En el caso del espacio de color **sRGB**, el utilizado por defecto en toda la Web, existen unas expresiones *sencillas* para calcular esta luminosidad relativa, que depende de las coordenadas del color en cuestión.
+
+El negro
+
+[Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar
