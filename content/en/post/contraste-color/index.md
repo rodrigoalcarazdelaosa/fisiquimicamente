@@ -27,9 +27,9 @@ $$
 C = \frac{L1 + 0.05}{L2 + 0.05},
 $$
 
-donde $L1$ y $L2$ son las *luminosidades relativas* de los colores claro y oscuro, respectivamente. La [luminosidad relativa](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance) se define a su vez como:
+where $L1$ y $L2$ are the *relative luminances* of the lighter and darker colors, respectively. The [relative luminance](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance) is defined as:
 
-> El brillo relativo de cualquier punto en un espacio de color, normalizado a 0 para el negro más oscuro y 1 para el blanco más claro.
+> the relative brightness of any point in a colorspace, normalized to 0 for darkest black and 1 for lightest white.
 
 En el caso del espacio de color **sRGB**, el utilizado por defecto en toda la Web, existen unas [expresiones *sencillas* para calcular esta luminosidad relativa](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance), que depende de las coordenadas del color en cuestión.
 
