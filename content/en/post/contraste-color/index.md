@@ -20,8 +20,8 @@ I am considering the possibility of allowing the visitors of my website to choos
   <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#2a54a9" />
 </svg> this blue, would no longer have enough **contrast** on black.
 
-## ¿Qué es el contraste y cómo se define?
-Las *Pautas de Accesibilidad para el Contenido Web*, [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/es) por sus siglas en inglés, [definen la relación de **contraste**](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio), $C$, como:
+## What is contrast and how is it defined?
+The Web Content Accessibility Guidelines [(**WCAG**)](https://www.w3.org/WAI/standards-guidelines/wcag/), [define the **contrast** ratio](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio), $C$, as:
 
 $$
 C = \frac{L1 + 0.05}{L2 + 0.05},
