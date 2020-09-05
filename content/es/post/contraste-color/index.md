@@ -63,7 +63,7 @@ $$
 Si queremos elegir un color que se vea bien tanto sobre blanco como sobre negro, debemos imponer que ambos contrastes, $C_\text{blanco}$ y $C_\text{negro}$, sean como mínimo iguales a 4.5. Eso nos da estas dos <strong>inecuaciones</strong>:
 
 \begin{align*}
-C_\text{blanco} &= \frac{1.05}{L+0.05} \geq 4.5 \\\\
+C_\text{blanco} &= \frac{1.05}{L+0.05} \geq 4.5 \tag{h} \\\\
 C_\text{negro} &= \frac{L+0.05}{0.05} \geq 4.5
 \end{align*}
 
@@ -93,4 +93,4 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## ¿Cuál es el máximo contraste que podemos conseguir contra blanco y negro *a la vez*?
-Podemos volver a las inecuaciones
+A partir de las inecuaciones 
