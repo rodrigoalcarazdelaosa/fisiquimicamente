@@ -122,13 +122,6 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
   </li>  
 </ul>
 
-<svg width="100%" height="100">
-  <rect rx="4" ry="4" width="100%" height="100"
-  style="fill:#cf0dcc;" />
-</svg>
-
-cuyas coordenadas cromáticas son: $(\mathrm R,\mathrm G,\mathrm B) = (207,13,204)$ o `#cf0dcc`.
-
 Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería:
 
 <ul style="display: grid;
