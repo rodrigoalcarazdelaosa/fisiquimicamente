@@ -79,4 +79,4 @@ $$
 L \geq 4.5\cdot 0.05-0.05 = 0.175
 $$
 
-Por lo que $0.175\geq L\leq 0.18\overline{3}$
+Por lo que $0.175\leq L\leq 0.18\overline{3}$.
