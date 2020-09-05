@@ -14,9 +14,7 @@ image:
 
 Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el color resalte, <svg width="1rem" height="1rem">
   <rect width="300" height="100" style="fill:#2a54a9" />
-</svg> este azul, dejaría de tener suficiente **contraste** sobre el <svg width="1rem" height="1rem">
-  <rect width="300" height="100" style="fill:#111111" />
-</svg> negro.
+</svg> este azul, dejaría de tener suficiente **contraste** sobre el negro.
 
 ## ¿Qué es el contraste y cómo se define?
 Las *Pautas de Accesibilidad para el Contenido Web*, [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/es) por sus siglas en inglés, [definen la relación de **contraste**](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio) como:
