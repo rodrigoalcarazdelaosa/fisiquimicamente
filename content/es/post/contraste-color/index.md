@@ -132,7 +132,7 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería:
   padding: 48px 16px 16px;
   list-style: none;
   text-align: end; background-color: #e62101; font-family: Inconsolata">
-	  #e62101<br>rgb(230,33,1)
+	  <span style="color:white">#e62101</span><br>rgb(230,33,1)
   </li>
   <li style="border-radius: 4px;
   padding: 48px 16px 16px;
