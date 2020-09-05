@@ -38,7 +38,7 @@ Black has a relative luminance equal to 0, while that of white is equal to 1, so
 [^1]: As white is lighter than black, its luminosity, 1, goes in the numerator, while that of black, 0, goes in the denominator.
 
 $$
-C_\text{máx} = \frac{1+0.05}{0+0.05} = 21
+C_\text{max} = \frac{1+0.05}{0+0.05} = 21
 $$
 
 The WCAG guidelines say that the **minimum contrast ratio** between a given text and its background should be at least **4.5:1**. [Colorable](https://colorable.jxnblk.com/) is an excellent tool with which we can check the contrast of color combinations.
