@@ -117,8 +117,8 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería:
   <li style="border-radius: 4px;
   padding: 48px 16px 16px;
   list-style: none;
-  text-align: end; background-color: #2f72de">
-	  #2f72de<br>rgb(47, 114, 222)
+  text-align: end; background-color: #e62101">
+	  #e62101<br>rgb(230, 33, 1)
   </li>
   <li style="border-radius: 4px;
   padding: 48px 16px 16px;
