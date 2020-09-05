@@ -44,23 +44,23 @@ $$
 The WCAG guidelines say that the **minimum contrast ratio** between a given text and its background should be at least **4.5:1**. [Colorable](https://colorable.jxnblk.com/) is an excellent tool with which we can check the contrast of color combinations.
 
 ## So, which colors look good on both black and white?
-Given the relative luminance of a color, $L$, we can calculate its **contrast on white**, $C_\text{white}$, with the expression[^2]:
+Given the relative luminance of a color, $L$, we can calculate its **contrast on black**, $C_\text{black}$, with the expression[^2]:
 
-[^2]: As white is the lightest color, $L$ goes in the denominator.
-
-$$
-C_\text{white} = \frac{1 + 0.05}{L + 0.05} = \frac{1.05}{L+0.05}
-$$
-
-**Contrast on black**, $C_\text{black}$, is calculated with the expression[^3]:
-
-[^3]: Now the color in question will be the lightest color ($L$ in the numerator), since black is the darkest color.
+[^2]: the color in question will be the lightest color ($L$ in the numerator), since black is the darkest color. 
 
 $$
 C_\text{black} = \frac{L + 0.05}{0 + 0.05} = \frac{L+0.05}{0.05}
 $$
 
-If we want to choose a color that looks good on both black and white, we must impose that both contrasts, $C_\text{black}$ and $C_\text{white}$, are at least equal to 4.5. That gives us these two **inequalities**:
+**Contrast on white**, $C_\text{white}$, is calculated with the expression[^3]:
+
+[^3]: As white is the lightest color, $L$ goes in the denominator.
+
+$$
+C_\text{white} = \frac{1 + 0.05}{L + 0.05} = \frac{1.05}{L+0.05}
+$$
+
+If we want to choose a color that looks good on both black and white, we must impose that both contrasts, $C_\text{black}$ and $C_\text{white}$, are at least equal to 4.5. That gives us these two <strong>inequalities</strong>:
 
 \begin{align*}
 C_\text{blanco} &= \frac{1.05}{L+0.05} \geq 4.5 \tag{1} \\\\
