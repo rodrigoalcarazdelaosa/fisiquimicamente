@@ -118,7 +118,7 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[
 
 <ul style="display: grid;
   grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
-  grid-gap: 0px;">
+  grid-gap: 16px;">
   <li style="border-radius: 4px;
   padding: 48px 16px 16px;
   list-style: none;
