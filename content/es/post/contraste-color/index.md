@@ -64,5 +64,5 @@ Si queremos elegir un color que se vea bien tanto sobre blanco como sobre negro,
 
 \begin{align*}
 C_\text{blanco} &= \frac{1.05}{L+0.05} \geq 4.5 \rightarrow L \leq \frac{1.05}{4.5}-0.05 = 0.18\overline{3} \\\\
-C_\text{negro} &= \frac{L+0.05}{0.05} \geq 4.5 \rightarrow L \geq 
+C_\text{negro} &= \frac{L+0.05}{0.05} \geq 4.5 \rightarrow L \geq 4.5\cdot 0.05-0.05 = 0.175
 \end{align*}
