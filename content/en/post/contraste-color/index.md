@@ -67,19 +67,19 @@ C_\text{black} &= \frac{L+0.05}{0.05} \geq 4.5 \tag{1} \\\\
 C_\text{white} &= \frac{1.05}{L+0.05} \geq 4.5 \tag{2}
 \end{align*}
 
-From the first one (**white**) we get:
-
-$$
-L \leq \frac{1.05}{4.5}-0.05 = 0.18\overline{3},
-$$
-
-whereas from the second one (**black**):
+From the first one (**black**) we get:
 
 $$
 L \geq 4.5\cdot 0.05-0.05 = 0.175
 $$
 
-Por lo que $0.175\leq L\leq 0.18\overline{3}$.
+whereas from the second one (**white**):
+
+$$
+L \leq \frac{1.05}{4.5}-0.05 = 0.18\overline{3},
+$$
+
+So that $0.175\leq L\leq 0.18\overline{3}$.
 
 [Ben Szabo](https://dev.to/finnhvman) ha creado este *Pen* que itera a través del espacio de color sRGB, con incrementos de 17 por canal[^4], listando **76 colores** cuyo contraste sobre blanco y negro *a la vez* es de 4.5 como mínimo.
 
