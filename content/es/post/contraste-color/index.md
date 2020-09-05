@@ -10,7 +10,6 @@ tags:
 image:
   placement: 3  
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
-featured: true  
 ---
 
 Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro, algo 
