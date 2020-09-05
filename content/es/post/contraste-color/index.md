@@ -17,7 +17,7 @@ Esta entrada es una **traducción/adaptación/ampliación** del [**excelente art
 {{% /alert %}}
 
 Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un **fondo claro** u **oscuro**. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el **color** de **resalte**, <svg width="1rem" height="1rem">
-  <rect rx="2" ry="2" width="300" height="100" style="fill:#2a54a9" />
+  <rect rx="2" ry="2" width="1rem" height="1rem" style="fill:#2a54a9" />
 </svg> este azul, dejaría de tener suficiente **contraste** sobre el negro.
 
 ## ¿Qué es el contraste y cómo se define?
