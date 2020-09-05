@@ -101,8 +101,8 @@ $$
 
 de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color fucsia aproximadamente:
 
-<svg width="100%" height="180">
-  <rect rx="4" ry="4" width="100%" height="150"
+<svg width="100%" height="100">
+  <rect rx="20" ry="20" width="100%" height="100"
   style="fill:#cf0dcc;" />
 </svg>
 
