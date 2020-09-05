@@ -16,9 +16,9 @@ image:
 This post is an **adaptation/extension** of the [**excellent post** by **Ben Szabo** on dev.to](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6).
 {{% /alert %}}
 
-Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un **fondo claro** u **oscuro**. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el **color** de **resalte**, <svg width="1rem" height="1rem">
+I am considering the possibility of allowing the visitors of my website to choose whether they want a **light** or **dark** background. With a dark background (almost black) the text would become light (almost white), the opposite of what it is currently, but the **accent color**, <svg width="1rem" height="1rem">
   <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#2a54a9" />
-</svg> este azul, dejaría de tener suficiente **contraste** sobre el negro.
+</svg> this blue, would no longer have enough **contrast** on black.
 
 ## ¿Qué es el contraste y cómo se define?
 Las *Pautas de Accesibilidad para el Contenido Web*, [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/es) por sus siglas en inglés, [definen la relación de **contraste**](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio), $C$, como:
