@@ -93,7 +93,9 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## ¿Cuál es el máximo contraste que podemos conseguir sobre blanco y negro *a la vez*?
-Para poder tener suficiente contraste sobre blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores, como se puede ver con las inecuaciones (1) y (2). El **contraste máximo teórico** de un color **sobre blanco** y **negro *a la vez***, $C_\text{b\&n}^\text{máx}$, se puede obtener imponiendo que esos dos valores de luminosidad relativa se igualen:
+Para poder tener suficiente contraste sobre blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores[^5], como se puede ver con las inecuaciones (1) y (2). El **contraste máximo teórico** de un color **sobre blanco** y **negro *a la vez***, $C_\text{b\&n}^\text{máx}$, se puede obtener imponiendo que esos dos valores de luminosidad relativa se igualen:
+
+[^5]: Dicho de otra forma, el color no tiene que ser ni muy claro ni muy oscuro.
 
 $$
 \frac{1.05}{C_\text{b\&n}^\text{máx}}-\cancel{0.05} = C_\text{b\&n}^\text{máx}\cdot 0.05-\cancel{0.05},
@@ -113,9 +115,9 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
   </li> 
 </ul>
 
-Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^5]:
+Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^6]:
 
-[^5]: Los tres con un contraste cercano al **máximo teórico** de $\sqrt{21}$ tanto sobre blanco como sobre negro.
+[^6]: Los tres con un contraste cercano al **máximo teórico** de $\sqrt{21}$ tanto sobre blanco como sobre negro.
 
 <ul style="display: grid;
   grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
