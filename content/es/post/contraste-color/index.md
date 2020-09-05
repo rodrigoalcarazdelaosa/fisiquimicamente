@@ -1,6 +1,6 @@
 ---
 title: Contraste de color
-subtitle: Contra blanco y negro *a la vez*
+subtitle: Sobre blanco y negro *a la vez*
 summary: Contraste de color sobre blanco y negro *a la vez*.
 date: "2020-09-05T00:00:00Z"
 authors:
