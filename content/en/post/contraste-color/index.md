@@ -1,7 +1,7 @@
 ---
 title: Color Contrast
 subtitle: Both on Black and White
-summary: Contraste de color sobre blanco y negro *a la vez*.
+summary: Color Contrast Both on Black and White.
 date: "2020-09-05T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
