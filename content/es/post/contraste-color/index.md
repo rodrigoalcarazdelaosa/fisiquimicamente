@@ -107,3 +107,29 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 </svg>
 
 cuyas coordenadas cromáticas son: $(\mathrm R,\mathrm G,\mathrm B) = (207,13,204)$ o `#cf0dcc`.
+
+Una buena combinación de colores primarios (rojo, verde y azul) sería:
+
+<ul style="display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
+  grid-gap: 16px;
+  padding: 16px 32px;">
+  <li style="border-radius: 4px;
+  padding: 48px 16px 16px;
+  list-style: none;
+  text-align: end;">
+	  #2f72de<br>rgb(47, 114, 222)
+  </li>
+  <li style="border-radius: 4px;
+  padding: 48px 16px 16px;
+  list-style: none;
+  text-align: end;">
+	  #2f72de<br>rgb(47, 114, 222)
+  </li>
+  <li style="border-radius: 4px;
+  padding: 48px 16px 16px;
+  list-style: none;
+  text-align: end;">
+	  #2f72de<br>rgb(47, 114, 222)
+  </li>    
+</ul>
