@@ -31,17 +31,17 @@ where $L1$ y $L2$ are the *relative luminances* of the lighter and darker colors
 
 > The relative brightness of any point in a colorspace, normalized to 0 for darkest black and 1 for lightest white.
 
-En el caso del espacio de color **sRGB**, el utilizado por defecto en toda la Web, existen unas [expresiones *sencillas* para calcular esta luminosidad relativa](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance), que depende de las coordenadas del color en cuestión.
+In the case of the **sRGB** color space, the default used throughout the Web, there are some [*simple* expressions to calculate this relative luminance](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance), which depends on the coordinates of the color in question.
 
-El negro tiene una luminosidad relativa igual a 0, mientras que la del blanco es igual a 1, por lo que el **máximo contraste posible**, $C_\text{máx}$, es[^1]:
+Black has a relative luminosity equal to 0, while that of white is equal to 1, so the **maximum possible contrast**, $C_\text{max}$, is [^1]:
 
-[^1]: Como el blanco es más claro que el negro, su luminosidad, 1, va en el numerador, mientras que la del negro, 0, va en el denominador.
+[^1]: As white is lighter than black, its luminosity, 1, goes in the numerator, while that of black, 0, goes in the denominator.
 
 $$
 C_\text{máx} = \frac{1+0.05}{0+0.05} = 21
 $$
 
-Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un texto y su fondo debería ser de al menos **4.5:1**. [Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar el contraste de combinaciones de colores.
+The WCAG guidelines say that the **minimum contrast ratio** between text and its background should be at least **4.5:1**. [Colorable](https://colorable.jxnblk.com/) is an excellent tool with which we can check the contrast of color combinations.
 
 ## Entonces, ¿qué colores se ven bien tanto sobre blanco como sobre negro?
 Dada la luminosidad relativa de un color, $L$, podemos calcular su **contraste contra** el **blanco**, $C_\text{blanco}$, con la expresión[^2]:
