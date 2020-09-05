@@ -115,14 +115,6 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
   </li>
 </ul>
 
-<div style="width=100%; background-color: #cf0dcc; border-radius: 4px;
-  margin: 16px 32px 16px;
-  padding: 48px 16px 16px;
-  list-style: none;
-  text-align: end; font-family: Inconsolata;">
-	<span style="color:white">#cf0dcc</span><br>rgb(207,13,204)
-</div>
-
 Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^6]:
 
 [^6]: Los tres con un contraste cercano al **máximo teórico** de $\sqrt{21}$ tanto sobre blanco como sobre negro.
