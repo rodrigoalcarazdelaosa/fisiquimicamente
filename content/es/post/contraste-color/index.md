@@ -13,3 +13,4 @@ image:
 featured: true  
 ---
 
+Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si desea un fondo claro u oscuro, algo 
