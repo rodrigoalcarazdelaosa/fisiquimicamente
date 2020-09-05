@@ -33,17 +33,17 @@ donde $L1$ y $L2$ son las *luminosidades relativas* de los colores claro y oscur
 
 En el caso del espacio de color **sRGB**, el utilizado por defecto en toda la Web, existen unas expresiones *sencillas* para calcular esta luminosidad relativa, que depende de las coordenadas del color en cuestión.
 
-El negro tiene una luminosidad relativa igual a 0, mientras que la del blanco es igual a 1, por lo que el **máximo contraste posible** es:
+El negro tiene una luminosidad relativa igual a 0, mientras que la del blanco es igual a 1, por lo que el **máximo contraste posible**, $C_\text{máx}$, es:
 
 $$
-\text{contraste máximo} = \frac{1+0.05}{0+0.05} = 21
+C_\text{máx} = \frac{1+0.05}{0+0.05} = 21
 $$
 
 Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un texto y su fondo debería ser de al menos **4.5:1**. [Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar el contraste de combinaciones de colores.
 
 ## Entonces, ¿qué colores se ven bien tanto sobre blanco como sobre negro?
-Dada la luminosidad relativa de un color, $L$, podemos calcular su contraste contra el blanco con la expresión:
+Dada la luminosidad relativa de un color, $L$, podemos calcular su contraste contra el blanco, $C_\text{blanco}$, con la expresión:
 
 $$
-c
+C_\text{blanco} = \frac{1 + 0.05}{L + 0.05}
 $$
