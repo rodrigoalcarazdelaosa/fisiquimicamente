@@ -92,10 +92,10 @@ So that $0.175\leq L\leq 0.18\overline{3}$.
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-## ¿Cuál es el máximo contraste que podemos conseguir sobre blanco y negro *a la vez*?
-Para poder tener suficiente contraste sobre blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores[^5], como se puede ver con las inecuaciones (1) y (2). El **contraste máximo teórico** de un color **sobre blanco** y **negro *a la vez***, $C_\text{b\&n}^\text{máx}$, se puede obtener imponiendo que esos dos valores de luminosidad relativa se igualen:
+## What is the maximum contrast we can achieve on both black and white?
+In order to have enough contrast on both black and white, the relative luminance of the color has to be between two values[^5], as you can see with the inequalities (1) and (2). The **theoretical maximum contrast** of a color **on both black and white**, $C_\text{b\&w}^\text{max}$, can be obtained by imposing that those two values of relative luminance be equal:
 
-[^5]: Dicho de otra forma, el color no tiene que ser ni muy claro (pobre contraste sobre blanco) ni muy oscuro (pobre contraste sobre negro).
+[^5]: In other words, the color does not have to be either very light (poor contrast on white) or very dark (poor contrast on black).
 
 $$
 \frac{1.05}{C_\text{b\&n}^\text{máx}}-\cancel{0.05} = C_\text{b\&n}^\text{máx}\cdot 0.05-\cancel{0.05},
