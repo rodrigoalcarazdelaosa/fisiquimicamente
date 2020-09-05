@@ -21,10 +21,10 @@ Estoy planteándome la posibilidad de permitir elegir al visitante de mi web si 
 </svg> este azul, dejaría de tener suficiente **contraste** sobre el negro.
 
 ## ¿Qué es el contraste y cómo se define?
-Las *Pautas de Accesibilidad para el Contenido Web*, [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/es) por sus siglas en inglés, [definen la relación de **contraste**](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio) como:
+Las *Pautas de Accesibilidad para el Contenido Web*, [**WCAG**](https://www.w3.org/WAI/standards-guidelines/wcag/es) por sus siglas en inglés, [definen la relación de **contraste**](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio), $C$, como:
 
 $$
-\frac{L1 + 0.05}{L2 + 0.05},
+C = \frac{L1 + 0.05}{L2 + 0.05},
 $$
 
 donde $L1$ y $L2$ son las *luminosidades relativas* de los colores claro y oscuro, respectivamente. La [luminosidad relativa](https://www.w3.org/TR/WCAG21/#dfn-relative-luminance) se define a su vez como:
@@ -42,3 +42,8 @@ $$
 Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un texto y su fondo debería ser de al menos **4.5:1**. [Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar el contraste de combinaciones de colores.
 
 ## Entonces, ¿qué colores se ven bien tanto sobre blanco como sobre negro?
+Dada la luminosidad relativa de un color, $L$, podemos calcular su contraste contra el blanco con la expresión:
+
+$$
+c
+$$
