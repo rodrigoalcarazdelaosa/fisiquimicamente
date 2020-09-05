@@ -35,6 +35,4 @@ $$
 \text{contraste máximo} = \frac{1+0.05}{0+0.05} = 21
 $$
 
-Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un texto y su fondo debería ser de al menos **4.5:1**.
-
-[Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar
+Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un texto y su fondo debería ser de al menos **4.5:1**. [Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar el contraste de combinaciones de colores.
