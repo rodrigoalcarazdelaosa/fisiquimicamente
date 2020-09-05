@@ -46,7 +46,7 @@ The WCAG guidelines say that the **minimum contrast ratio** between a given text
 ## So, which colors look good on both black and white?
 Given the relative luminance of a color, $L$, we can calculate its **contrast on black**, $C_\text{black}$, with the expression[^2]:
 
-[^2]: the color in question will be the lightest color ($L$ in the numerator), since black is the darkest color. 
+[^2]: The color in question will be the lightest color ($L$ in the numerator), since black is the darkest color. 
 
 $$
 C_\text{black} = \frac{L + 0.05}{0 + 0.05} = \frac{L+0.05}{0.05}
