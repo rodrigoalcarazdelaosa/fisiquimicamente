@@ -60,9 +60,23 @@ $$
 C_\text{negro} = \frac{L + 0.05}{0 + 0.05} = \frac{L+0.05}{0.05}
 $$
 
-Si queremos elegir un color que se vea bien tanto sobre blanco como sobre negro, debemos imponer que ambos contrastes, $C_\text{blanco}$ y $C_\text{negro}$, sean como mínimo iguales a 4.5. Eso nos da estas dos inecuaciones:
+Si queremos elegir un color que se vea bien tanto sobre blanco como sobre negro, debemos imponer que ambos contrastes, $C_\text{blanco}$ y $C_\text{negro}$, sean como mínimo iguales a 4.5. Eso nos da estas dos **inecuaciones**:
 
 \begin{align*}
-C_\text{blanco} &= \frac{1.05}{L+0.05} \geq 4.5 \rightarrow L \leq \frac{1.05}{4.5}-0.05 = 0.18\overline{3} \\\\
-C_\text{negro} &= \frac{L+0.05}{0.05} \geq 4.5 \rightarrow L \geq 4.5\cdot 0.05-0.05 = 0.175
+C_\text{blanco} &= \frac{1.05}{L+0.05} \geq 4.5 \\\\
+C_\text{negro} &= \frac{L+0.05}{0.05} \geq 4.5
 \end{align*}
+
+De la primera (blanco) sacamos:
+
+$$
+L \leq \frac{1.05}{4.5}-0.05 = 0.18\overline{3},
+$$
+
+mientras que de la segunda (negro):
+
+$$
+L \geq 4.5\cdot 0.05-0.05 = 0.175
+$$
+
+Por lo que $$
