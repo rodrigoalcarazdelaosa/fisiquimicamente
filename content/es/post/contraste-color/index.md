@@ -91,3 +91,5 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+## ¿Cuál es el máximo contraste que podemos conseguir contra blanco y negro *a la vez*?
