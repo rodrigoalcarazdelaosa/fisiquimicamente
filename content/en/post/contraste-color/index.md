@@ -49,15 +49,15 @@ Given the relative luminance of a color, $L$, we can calculate its **contrast on
 [^2]: As white is the lightest color, $L$ goes in the denominator.
 
 $$
-C_\text{blanco} = \frac{1 + 0.05}{L + 0.05} = \frac{1.05}{L+0.05}
+C_\text{white} = \frac{1 + 0.05}{L + 0.05} = \frac{1.05}{L+0.05}
 $$
 
-El **contraste contra** el **negro**, $C_\text{negro}$, lo calculamos con la expresión[^3]:
+**Contrast on black**, $C_\text{black}$, is calculated with the expression[^3]:
 
-[^3]: Ahora será el color en cuestión el color más claro ($L$ en el numerador), pues el negro es el color más oscuro.
+[^3]: Now the color in question will be the lightest color ($L$ in the numerator), since black is the darkest color.
 
 $$
-C_\text{negro} = \frac{L + 0.05}{0 + 0.05} = \frac{L+0.05}{0.05}
+C_\text{black} = \frac{L + 0.05}{0 + 0.05} = \frac{L+0.05}{0.05}
 $$
 
 Si queremos elegir un color que se vea bien tanto sobre blanco como sobre negro, debemos imponer que ambos contrastes, $C_\text{blanco}$ y $C_\text{negro}$, sean como mínimo iguales a 4.5. Eso nos da estas dos <strong>inecuaciones</strong>:
