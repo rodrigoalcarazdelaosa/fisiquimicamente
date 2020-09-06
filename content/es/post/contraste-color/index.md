@@ -41,6 +41,8 @@ $$
 C_\text{máx} = \frac{1+0.05}{0+0.05} = 21
 $$
 
+Es fácil ver que el **contraste mínimo** es igual a 1, pues se da cuando ambos colores tienen la misma luminosidad relativa.
+
 Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un texto y su fondo debería ser de al menos **4.5:1**.
 
 {{% alert note %}}
