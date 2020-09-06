@@ -21,7 +21,7 @@ I am considering the possibility of allowing the visitors of my website to choos
 </svg>, would no longer have enough **contrast** on black.
 
 ## What is contrast and how is it defined?
-The Web Content Accessibility Guidelines [(**WCAG**)](https://www.w3.org/WAI/standards-guidelines/wcag/), [define the **contrast** ratio](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio), $C$, as:
+The Web Content Accessibility Guidelines [(**WCAG**)](https://www.w3.org/WAI/standards-guidelines/wcag/) [define the **contrast** ratio](https://www.w3.org/TR/WCAG21/#dfn-contrast-ratio), $C$, as:
 
 $$
 C = \frac{L1 + 0.05}{L2 + 0.05},
@@ -41,7 +41,13 @@ $$
 C_\text{max} = \frac{1+0.05}{0+0.05} = 21
 $$
 
-The WCAG guidelines say that the **minimum contrast ratio** between a given text and its background should be at least **4.5:1**. [Colorable](https://colorable.jxnblk.com/) is an excellent tool with which we can check the contrast of color combinations.
+The WCAG guidelines say that the **minimum contrast ratio** between a given text and its background should be at least **4.5:1**.
+
+{{% alert note %}}
+
+[Colorable](https://colorable.jxnblk.com/) is an excellent tool with which we can check the contrast of color combinations.
+
+{{% /alert %}}
 
 ## So, which colors look good on both black and white?
 Given the relative luminance of a color, $L$, we can calculate its **contrast on black**, $C_\text{black}$, with the expression[^2]:
