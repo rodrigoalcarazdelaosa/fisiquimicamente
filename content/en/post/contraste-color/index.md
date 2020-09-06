@@ -41,6 +41,8 @@ $$
 C_\text{max} = \frac{1+0.05}{0+0.05} = 21
 $$
 
+It is easy to see that the **minimum contrast** is equal to 1, since it is given when both colors have the same relative luminosity ($L1 = L2$).
+
 The WCAG guidelines say that the **minimum contrast ratio** between a given text and its background should be at least **4.5:1**.
 
 {{% alert note %}}
