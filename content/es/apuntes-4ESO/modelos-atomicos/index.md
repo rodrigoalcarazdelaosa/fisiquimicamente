@@ -63,6 +63,9 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 
 ### Interpretación de Rutherford
 
+- Si el **modelo** propuesto por **Thomson** fuera cierto, **no deberían observarse desviaciones** ni rebotes de las partículas incidentes.
+- Las partículas se desvían al encontrar en su trayectoria una zona muy pequeña (**núcleo**) cargada **positivamente**, donde se concentra la mayor parte de la **masa** del átomo.
+
 ## Modelo de Rutherford
 
 ## Modelo de Bohr
