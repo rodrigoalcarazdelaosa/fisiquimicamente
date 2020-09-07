@@ -66,6 +66,10 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 - Si el **modelo** propuesto por **Thomson** fuera cierto, **no deberían observarse desviaciones** ni rebotes de las partículas incidentes.
 - Las partículas se desvían al encontrar en su trayectoria una zona muy pequeña (**núcleo**) cargada **positivamente**, donde se concentra la mayor parte de la **masa** del átomo.
 
+Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Modelo de Rutherford
 
 - El átomo está formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su **masa**.
