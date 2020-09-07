@@ -55,6 +55,10 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 {{< figure library="true" src="modelos-atomicos-4ESO/experimento-Rutherford.svg" title="**Experimento de Geiger-Marsden**. Las partículas alfa ($\alpha$), procedentes de radio (Ra) radiactivo y con carga positiva, se aceleran y se hacen incidir sobre una lámina de oro muy delgada. Tras atravesar la lámina, las partículas $\alpha$ chocan contra una pantalla fluorescente (ZnS), produciéndose un destello. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Geiger-Marsden_experiment.svg." lightbox="false" width="100%" >}}
 
 ### Resultados del experimento
+- La **mayoría** de las **partículas atravesaban** la **lámina** de oro sin desviarse.
+- **Muy pocas** (1/10000 aproximadamente) **se desviaban** un ángulo mayor de unos 10$\thinspace$&deg;.
+- **Algunas** partículas (poquísimas) **incluso rebotaban**.
+
 ### Interpretación de Rutherford
 
 ## Modelo de Rutherford
