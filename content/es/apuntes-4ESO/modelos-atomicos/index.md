@@ -56,7 +56,7 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 
 ### Resultados del experimento
 - La **mayoría** de las **partículas atravesaban** la **lámina** de oro sin desviarse.
-- **Muy pocas** (1/10000 aproximadamente) **se desviaban** un ángulo mayor de unos 10$\thinspace$&deg;.
+- **Muy pocas** (1/10000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.
 - **Algunas** partículas (poquísimas) **incluso rebotaban**.
 
 ### Interpretación de Rutherford
