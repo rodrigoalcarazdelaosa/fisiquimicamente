@@ -50,6 +50,9 @@ Siete años después de su famoso experimento, en **1904**, Thomson postula un m
 {{< figure library="true" src="modelos-atomicos-4ESO/Thomson.svg" lightbox="false" width="100%" >}}
 
 ## Descubrimiento del núcleo atómico
+En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llevan a cabo un **experimento histórico** en el que **descubren** la existencia del **núcleo** atómico:
+
+{{< figure library="true" src="modelos-atomicos-4ESO/experimento-Rutherford.svg" title="**Experimento de Geiger-Marsden**. Las partículas alfa ($\alpha$), procedentes de radio (Ra) radiactivo y con carga positiva, se aceleran y se hacen incidir sobre una lámina de oro muy delgada. Tras atravesar la lámina, las partículas $\alpha$ chocan contra una pantalla fluorescente (ZnS), produciéndose un destello. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Geiger-Marsden_experiment.svg." lightbox="false" width="100%" >}}
 
 ### Resultados del experimento
 ### Interpretación de Rutherford
