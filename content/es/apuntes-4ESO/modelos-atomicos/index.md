@@ -36,11 +36,18 @@ Los **resultados** del **experimento** fueron:
 
 - Los **rayos catódicos** se **originaban** en el **cátodo** y viajaban hacia el ánodo.
 - Los **rayos** no eran visibles pero **podían detectarse** con una **pantalla fluorescente**.
-- En **ausencia** de **campos electromagnéticos**, los rayos viajaban en **línea recta**.
+- En **ausencia** de **campos electromagnéticos** externos, los rayos viajaban en **línea recta**.
 - Al **aplicar campos eléctricos** y **magnéticos**, los **rayos catódicos** mostraban un **comportamiento similar** al de **partículas** con **carga negativa**.
 - Las **características** de los **rayos catódicos** eran **independientes** de la **naturaleza** del **gas** contenido dentro del tubo y del **material** del que estaban formados los **electrodos**.
 
 ## Modelo de Thomson
+Siete años después de su famoso experimento, en **1904**, Thomson postula un modelo atómico que se conoce como el **modelo** del ***pastel** de **pasas***:
+
+- El **átomo** está formado por una ***nube*** esférica con **carga positiva**.
+- Los **electrones**, con carga negativa, se encuentran **incrustados** por toda la **esfera**, como las **pasas** en un **pastel**.
+- El número total de electrones es tal que la carga neta del átomo es cero (**átomo neutro**).
+
+{{< figure library="true" src="modelos-atomicos-4ESO/Thomson.svg" lightbox="false" width="100%" >}}
 
 ## Descubrimiento del núcleo atómico
 
