@@ -59,6 +59,8 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 - **Muy pocas** (1/10000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.
 - **Algunas** partículas (poquísimas) **incluso rebotaban**.
 
+{{< figure library="true" src="modelos-atomicos-4ESO/experimento-Rutherford-detalle.svg" lightbox="false" width="100%" >}}
+
 ### Interpretación de Rutherford
 
 ## Modelo de Rutherford
