@@ -68,5 +68,10 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 
 ## Modelo de Rutherford
 
+- El átomo está formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su **masa**.
+- Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
+
+{{< figure library="true" src="modelos-atomicos-4ESO/Rutherford.svg" lightbox="false" width="100%" >}}
+
 ## Modelo de Bohr
 ### Postulados
