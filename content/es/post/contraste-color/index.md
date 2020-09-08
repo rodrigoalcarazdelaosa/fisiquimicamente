@@ -331,7 +331,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 			  // 					  case 100000000:
 			  // 						  return '100M';
 			  // 				  }
-			  }
+			  // }
 			},
 			// afterBuildTicks: function(pckBarChart) {
 	//             pckBarChart.ticks = [];
