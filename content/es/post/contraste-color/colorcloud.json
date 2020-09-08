@@ -1349,9 +1349,9 @@
                 "title": "L*"
             }
         },
-        "title": "Color Space (LAB to RGB)",
+        "title": "",
         "width": "100%",
-		"height": 800,
+		"height": 500,
         "margin": {
             "b": 0,
             "l": 0,
