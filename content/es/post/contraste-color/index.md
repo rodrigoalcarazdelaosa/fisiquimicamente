@@ -285,7 +285,19 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 	          padding: 10,
 	          max: 100000000,
  			  min: 1
-	        }
+ 			  callback: function (value, index, values) {
+				             return Number(value.toString());//pass tick values as a string into Number function
+				         }
+	        },
+			afterBuildTicks: function (chartObj) { //Build ticks labelling as per your need
+			        chartObj.ticks = [];
+			        chartObj.ticks.push(1);
+			        chartObj.ticks.push(10);
+			        chartObj.ticks.push(100);
+			        chartObj.ticks.push(1000);
+			        chartObj.ticks.push(10000);					
+			        chartObj.ticks.push(100000);					
+			    }
 	      }]
 
 	    },
