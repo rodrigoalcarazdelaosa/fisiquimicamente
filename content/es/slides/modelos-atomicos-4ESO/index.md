@@ -85,3 +85,40 @@ Siete años después de su famoso experimento, en **1904**, Thomson postula un m
 {{< figure library="true" src="modelos-atomicos-4ESO/Thomson.svg" lightbox="false" width="70%" >}}
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Descubrimiento del núcleo atómico
+En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llevan a cabo un **experimento histórico** en el que **descubren** la existencia del **núcleo** atómico.
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Experimento de Geiger-Marsden
+
+{{< figure library="true" src="modelos-atomicos-4ESO/experimento-Rutherford.svg" lightbox="false" width="100%" >}}
+
+---
+
+### Resultados del experimento
+- La **mayoría** de las **partículas atravesaban** la **lámina** de oro sin desviarse.
+- **Muy pocas** (1/10000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.
+- **Algunas** partículas (poquísimas) **incluso rebotaban**.
+
+{{< figure library="true" src="modelos-atomicos-4ESO/experimento-Rutherford-detalle.svg" lightbox="false" width="100%" >}}
+
+### Interpretación de Rutherford
+
+- Si el **modelo** propuesto por **Thomson** fuera cierto, **no deberían observarse desviaciones** ni rebotes de las partículas incidentes.
+- Las partículas se desvían al encontrar en su trayectoria una zona muy pequeña (**núcleo**) cargada **positivamente**, donde se concentra la mayor parte de la **masa** del átomo.
+
+Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+{{% /section %}}
