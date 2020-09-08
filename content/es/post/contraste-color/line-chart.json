@@ -239,6 +239,7 @@
         5.0
       ],
       "title": "Contraste",
+	  "title_font_family": "Cabin Sketch",
       "showgrid": false,
       "autorange": true
     },
