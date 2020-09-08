@@ -61,3 +61,11 @@ En **1897**, J.J. **Thomson** lleva a cabo su famoso **experimento** del **tubo*
 - Las **características** de los **rayos catódicos** eran **independientes** de la **naturaleza** del **gas** contenido dentro del tubo y del **material** del que estaban formados los **electrodos**.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Modelo de Thomson
+
+{{% /section %}}
