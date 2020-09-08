@@ -249,7 +249,7 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 // 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: '𝑇/K',
+	          labelString: 'Contraste',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
