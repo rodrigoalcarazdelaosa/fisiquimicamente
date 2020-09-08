@@ -174,6 +174,6 @@ Este modelo se basa en **tres postulados fundamentales**:
 
 ---
 
-{{< figure library="true" src="modelos-atomicos-4ESO/Bohr.svg" lightbox="false" width="90%" >}}
+{{< figure library="true" src="modelos-atomicos-4ESO/Bohr.svg" lightbox="false" width="70%" >}}
 
 {{% /section %}}
