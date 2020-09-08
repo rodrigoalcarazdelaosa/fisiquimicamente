@@ -265,7 +265,6 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 	        }
 	      }],
 	      yAxes: [{
-			  type: "log",
  	          gridLines: {
 	          drawOnChartArea: false,
 	          color: "#111111"
