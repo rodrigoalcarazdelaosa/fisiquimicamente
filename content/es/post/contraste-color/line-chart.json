@@ -244,10 +244,10 @@
       "tickformat": "%Y"
     },
     "yaxis": {
-      "type": "linear",
+      "type": "logarithmic",
       "range": [
-        0,
-        1124750578.9473684
+        1,
+        100000000
       ],
       "title": "Número de colores",
       "autorange": true
