@@ -284,7 +284,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	          max: 5.0,
 	          min: 1.0,
 	          stepSize: 0.5,
-	          padding: 10
+	          // padding: 10
 	        }
 	      }],
 	      yAxes: [{
