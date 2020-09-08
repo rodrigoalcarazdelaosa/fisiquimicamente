@@ -123,6 +123,36 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
   </li>
 </ul>
 
+Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^6]:
+
+[^6]: Los tres con un contraste cercano al **máximo teórico** de $\sqrt{21}$ tanto sobre blanco como sobre negro.
+
+<ul style="display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
+  grid-gap: 16px;
+  padding-right: 32px;">
+  <li style="border-radius: 4px;
+  padding: 48px 16px 16px;
+  list-style: none;
+  text-align: end; background-color: #e62101; font-family: Inconsolata">
+	  <span style="color:white">#e62101</span><br>rgb(230,33,1)
+  </li>
+  <li style="border-radius: 4px;
+  padding: 48px 16px 16px;
+  list-style: none;
+  text-align: end; background-color: #038901; font-family: Inconsolata">
+	  <span style="color:white">#038901</span><br>rgb(3,137,1)
+  </li>
+  <li style="border-radius: 4px;
+  padding: 48px 16px 16px;
+  list-style: none;
+  text-align: end; background-color: #2f72de; font-family: Inconsolata">
+	  <span style="color:white">#2f72de</span><br>rgb(47,114,222)
+  </li>    
+</ul>
+
+## Pero, ¿y si representamos todos los colores disponibles?
+La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado.
 <canvas id="C-colores"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
@@ -356,31 +386,3 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 </script>
 	
 {{< figure library="true" src="contraste-color/colores-C.gif" title="Colores RGB disponibles en función del contraste deseado, variando desde $C=1$ (los $256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216$ colores del espacio RGB disponibles) hasta el límite $C_\text{b\&n}^\text{máx}=\sqrt{21}$ en el que únicamente tenemos el color fucsia #cf0dcc." lightbox="false" width="100%" >}}
-
-Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^6]:
-
-[^6]: Los tres con un contraste cercano al **máximo teórico** de $\sqrt{21}$ tanto sobre blanco como sobre negro.
-
-<ul style="display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(164px, 1fr));
-  grid-gap: 16px;
-  padding-right: 32px;">
-  <li style="border-radius: 4px;
-  padding: 48px 16px 16px;
-  list-style: none;
-  text-align: end; background-color: #e62101; font-family: Inconsolata">
-	  <span style="color:white">#e62101</span><br>rgb(230,33,1)
-  </li>
-  <li style="border-radius: 4px;
-  padding: 48px 16px 16px;
-  list-style: none;
-  text-align: end; background-color: #038901; font-family: Inconsolata">
-	  <span style="color:white">#038901</span><br>rgb(3,137,1)
-  </li>
-  <li style="border-radius: 4px;
-  padding: 48px 16px 16px;
-  list-style: none;
-  text-align: end; background-color: #2f72de; font-family: Inconsolata">
-	  <span style="color:white">#2f72de</span><br>rgb(47,114,222)
-  </li>    
-</ul>
