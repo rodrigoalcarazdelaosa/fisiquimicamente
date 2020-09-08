@@ -3188,14 +3188,6 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 	      }]
 
 	    },
-        legend: {
-  		  labels: {
-  			  boxWidth: 10,	  
-  			  fontSize: 18,
-  			  fontFamily: 'Cabin Sketch',
-  			  fontColor: '#111111'
-  		  }				  
-        },
 	  }
 	});
 </script>
