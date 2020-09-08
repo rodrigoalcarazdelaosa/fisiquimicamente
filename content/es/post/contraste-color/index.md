@@ -153,8 +153,8 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[
 
 ## Pero, ¿y si representamos todos los colores disponibles?
 La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado. Se puede ver cómo para $C=1$ (el mínimo contraste posible), todos los colores del espacio RGB están disponibles, exactamente $256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216$ colores. A medida que aumentamos la exigencia en el constraste, el número de colores disminuye, desplomándose a partir de $C=4.5$, hasta llegar a tener un solo color disponible en el límite $C_\text{b\&n}^\text{máx} = \sqrt{21}$, el fucsia <svg width="1rem" height="1rem">
-  <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#cf0dcc" /> #cf0dcc.
-</svg>
+  <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#cf0dcc" />
+</svg> #cf0dcc.
 
 <canvas id="C-colores"></canvas>
 
