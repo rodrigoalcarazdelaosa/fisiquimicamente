@@ -3132,33 +3132,7 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 		  pointRadius: 0,
 	      //              pointHoverRadius: 15,
 //	      showLine: false // no line shown
-	    },
-			{
-	      data: cHierro.map(datum => ({	  
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-  	      label: 'Hierro',
-	      backgroundColor: '#EE6677',
-	      borderColor: '#EE6677',
-	      fill: false,
-		  pointRadius: 0,
-	      //              pointHoverRadius: 15,
-//	      showLine: false // no line shown
-	    },
-			{
-	      data: cCarbono.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-	      label: 'Carbono',
-	      backgroundColor: '#228833',
-	      borderColor: '#228833',
-	      fill: false,
-		  pointRadius: 0,
-	      //              pointHoverRadius: 15,
-//	      showLine: false // no line shown
-	    },				
+	    }							
 	]
 	  },
 	  options: {
