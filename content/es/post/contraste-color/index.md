@@ -272,7 +272,7 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: '𝑐 [	J/(mol·K)]',
+	          labelString: 'Número de colores',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
