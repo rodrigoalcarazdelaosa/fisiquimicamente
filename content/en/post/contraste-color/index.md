@@ -160,7 +160,7 @@ $$
 256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216
 $$
 
-colors. As we increase the contrast, the number of colors decreases, plummeting from $C=4.5$, until we have only one color available in the limit $C_\text{b\&w}^\text{max}$, the fuchsia <code style="background-color: #cf0dcc; color: #fffff8">#cf0dcc</code>.
+colors. As we increase the contrast, the number of colors decreases, plummeting from $C=4.5$, until we have only one color available in the limit $C_\text{b\&w}^\text{max} = \sqrt{21}$, the fuchsia <code style="background-color: #cf0dcc; color: #fffff8">#cf0dcc</code>.
 
 <canvas id="C-colores"></canvas>
 
