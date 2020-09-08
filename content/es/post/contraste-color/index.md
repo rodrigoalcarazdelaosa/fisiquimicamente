@@ -91,7 +91,7 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 
 [Ben Szabo](https://dev.to/finnhvman) ha creado este *Pen* que itera a través del espacio de color sRGB, con incrementos de 17 por canal[^4], listando **76 colores** cuyo contraste sobre blanco y negro *a la vez* es de 4.5 como mínimo.
 
-[^4]: En el [espacio de color **RGB**](https://es.wikipedia.org/wiki/RGB), los valores de cada canal (rojo, verde y azul) varían desde 0 hasta 255. Incrementos de 17 permiten iterar a través de los colores que pueden ser descritos con una [notación hexadecimal](https://es.wikipedia.org/wiki/Colores_web) de 3 dígitos. Si iteráramos por todos los posibles colores (incrementos de 1) obtendríamos ~300k colores.
+[^4]: En el [espacio de color **RGB**](https://es.wikipedia.org/wiki/RGB), los valores de cada canal (rojo, verde y azul) varían desde 0 hasta 255. Incrementos de 17 permiten iterar a través de los colores que pueden ser descritos con una [notación hexadecimal](https://es.wikipedia.org/wiki/Colores_web) de 3 dígitos.
 
 <p class="codepen" data-height="600" data-theme-id="light" data-default-tab="result" data-user="finnhvman" data-slug-hash="bZQLgR" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Colors With 4.5:1 Contrast on Black and White">
   <span>See the Pen <a href="https://codepen.io/finnhvman/pen/bZQLgR">
@@ -152,6 +152,8 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[
 </ul>
 
 ## Pero, ¿y si representamos todos los colores disponibles?
+En su *Pen*, [Ben Szabo](https://dev.to/finnhvman) itera a través del espacio de color sRGB, con incrementos de 17 por canal, advirtiéndonos de que, si iteráramos por todos los posibles colores (incrementos de 1), obtendríamos ~300k colores. Obviamente listar tantísimos colores no parece my práctico, pero visualizarlos puede ser muy interesante.
+
 La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado. Se puede ver cómo para $C=1$ (el mínimo contraste posible), todos los colores del espacio RGB están disponibles, exactamente:
 
 $$
