@@ -305,7 +305,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	          fontSize: 16,
 			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
-	          padding: 10,
+	          // padding: 10,
 	          stepSize: 10,
 	          max: 100000000,
  			  min: 1,
