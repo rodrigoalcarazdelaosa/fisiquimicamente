@@ -22,6 +22,7 @@ links:
   name: Póster
   url: modelos-atomicos-poster.pdf
 
+slides: modelos-atomicos-4ESO
 ---
 
 {{% toc %}}
