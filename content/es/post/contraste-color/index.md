@@ -308,8 +308,23 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	          padding: 10,
 	          stepSize: 10,
 	          max: 100000000,
- 			  min: 1
-	        }
+ 			  min: 1,
+				callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
+				                            return Number(value.toString());//pass tick values as a string into Number function
+				                        }
+	        },
+			afterBuildTicks: function(pckBarChart) {    
+			                        pckBarChart.ticks = [];
+			                        pckBarChart.ticks.push(1);
+			                        pckBarChart.ticks.push(10);
+			                        pckBarChart.ticks.push(100);
+			                        pckBarChart.ticks.push(1000);
+			                        pckBarChart.ticks.push(10000);
+			                        pckBarChart.ticks.push(100000);									
+			                        pckBarChart.ticks.push(1000000);
+			                        pckBarChart.ticks.push(10000000);																		
+			                        pckBarChart.ticks.push(100000000);									
+			                      }
 	      }]
 
 	    },
