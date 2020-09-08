@@ -154,7 +154,7 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[
 ## Pero, ¿y si representamos todos los colores disponibles?
 En su [*Pen*](https://codepen.io/finnhvman/full/bZQLgR), [Ben Szabo](https://dev.to/finnhvman) itera a través del espacio de color RGB, con incrementos de 17 por canal, advirtiéndonos de que, si iteráramos por todos los posibles colores (incrementos de 1), obtendríamos ~300k colores. Obviamente listar tantísimos colores no parece my práctico, pero visualizarlos puede ser muy interesante.
 
-La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado.
+La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado:
 
 <canvas id="C-colores"></canvas>
 
