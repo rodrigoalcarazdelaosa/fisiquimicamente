@@ -323,7 +323,7 @@ colors. As we increase the contrast, the number of colors decreases, plummeting 
 	          max: 5.0,
 	          min: 1.0,
 	          stepSize: 0.5,
-	          // padding: 10
+	          padding: 10
 	        }
 	      }],
 	      yAxes: [{
@@ -344,7 +344,7 @@ colors. As we increase the contrast, the number of colors decreases, plummeting 
 	          fontSize: 16,
 			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
-	          // padding: 10,
+	          padding: 10,
 	          maxTicksLimit: 9,
 	          max: 100000000,
  			  min: 1,
