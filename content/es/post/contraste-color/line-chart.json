@@ -240,8 +240,7 @@
       ],
       "title": "Contraste",
       "showgrid": false,
-      "autorange": true,
-      "tickformat": "%Y"
+      "autorange": true
     },
     "yaxis": {
       "type": "log",
