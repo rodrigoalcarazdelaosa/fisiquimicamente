@@ -311,7 +311,7 @@ colors. As we increase the contrast, the number of colors decreases, plummeting 
 // 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Contraste',
+	          labelString: 'Contrast',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
@@ -334,7 +334,7 @@ colors. As we increase the contrast, the number of colors decreases, plummeting 
 	        },
 	        scaleLabel: {
 	          display: true,
-	          labelString: 'Número de colores',
+	          labelString: 'Number of colors',
 	          fontSize: 18,
 	          fontFamily: 'Cabin Sketch',
 	          fontColor: '#111111'
