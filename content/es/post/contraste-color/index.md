@@ -154,13 +154,7 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[
 ## Pero, ¿y si representamos todos los colores disponibles?
 En su [*Pen*](https://codepen.io/finnhvman/full/bZQLgR), [Ben Szabo](https://dev.to/finnhvman) itera a través del espacio de color RGB, con incrementos de 17 por canal, advirtiéndonos de que, si iteráramos por todos los posibles colores (incrementos de 1), obtendríamos ~300k colores. Obviamente listar tantísimos colores no parece my práctico, pero visualizarlos puede ser muy interesante.
 
-La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado. Se puede ver cómo para $C=1$ (el mínimo contraste posible), todos los colores del espacio RGB están disponibles, exactamente:
-
-$$
-256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216
-$$
-
-colores. A medida que aumentamos la exigencia en el constraste, el número de colores disminuye, desplomándose a partir de $C=4.5$, hasta llegar a tener un solo color disponible en el límite $C_\text{b\&n}^\text{máx} = \sqrt{21}$, el fucsia <code style="background-color: #cf0dcc; color: #fffff8">#cf0dcc</code>.
+La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado.
 
 <canvas id="C-colores"></canvas>
 
@@ -393,6 +387,14 @@ colores. A medida que aumentamos la exigencia en el constraste, el número de co
 	  }
 	});
 </script>
+	
+Se puede ver cómo para $C=1$ (el mínimo contraste posible), todos los colores del espacio RGB están disponibles, exactamente:
+
+$$
+256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216
+$$
+
+colores. A medida que aumentamos la exigencia en el constraste, el número de colores disminuye, desplomándose a partir de $C=4.5$, hasta llegar a tener un solo color disponible en el límite $C_\text{b\&n}^\text{máx} = \sqrt{21}$, el fucsia <code style="background-color: #cf0dcc; color: #fffff8">#cf0dcc</code>.	
 	
 La siguiente **animación** muestra todos los colores disponibles en el espacio RGB (un cubo de lado 256) en función del contraste deseado (sobre blanco y negro *a la vez*):
 	
