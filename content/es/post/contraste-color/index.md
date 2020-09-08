@@ -100,6 +100,29 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+## ¿Cuál es el máximo contraste que podemos conseguir sobre blanco y negro *a la vez*?
+Para poder tener suficiente contraste sobre blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores[^5], como se puede ver con las inecuaciones (1) y (2). El **contraste máximo teórico** de un color **sobre blanco** y **negro *a la vez***, $C_\text{b\&n}^\text{máx}$, se puede obtener imponiendo que esos dos valores de luminosidad relativa se igualen:
+
+[^5]: Dicho de otra forma, el color no tiene que ser ni muy claro (pobre contraste sobre blanco) ni muy oscuro (pobre contraste sobre negro).
+
+$$
+\frac{1.05}{C_\text{b\&n}^\text{máx}}-\cancel{0.05} = C_\text{b\&n}^\text{máx}\cdot 0.05-\cancel{0.05},
+$$
+
+de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color <strong><em>fucsia</em></strong>:
+
+<ul style="display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(1fr, 1fr));
+  grid-gap: 16px;
+  padding-right: 32px;">
+  <li style="border-radius: 4px;
+  padding: 48px 16px 16px;
+  list-style: none;
+  text-align: end; background-color: #cf0dcc; font-family: Inconsolata">
+	  <span style="color:white">#cf0dcc</span><br>rgb(207,13,204)
+  </li>
+</ul>
+
 <canvas id="C-colores"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
@@ -296,29 +319,6 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 	  }
 	});
 </script>
-
-## ¿Cuál es el máximo contraste que podemos conseguir sobre blanco y negro *a la vez*?
-Para poder tener suficiente contraste sobre blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores[^5], como se puede ver con las inecuaciones (1) y (2). El **contraste máximo teórico** de un color **sobre blanco** y **negro *a la vez***, $C_\text{b\&n}^\text{máx}$, se puede obtener imponiendo que esos dos valores de luminosidad relativa se igualen:
-
-[^5]: Dicho de otra forma, el color no tiene que ser ni muy claro (pobre contraste sobre blanco) ni muy oscuro (pobre contraste sobre negro).
-
-$$
-\frac{1.05}{C_\text{b\&n}^\text{máx}}-\cancel{0.05} = C_\text{b\&n}^\text{máx}\cdot 0.05-\cancel{0.05},
-$$
-
-de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que corresponde con este color <strong><em>fucsia</em></strong>:
-
-<ul style="display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(1fr, 1fr));
-  grid-gap: 16px;
-  padding-right: 32px;">
-  <li style="border-radius: 4px;
-  padding: 48px 16px 16px;
-  list-style: none;
-  text-align: end; background-color: #cf0dcc; font-family: Inconsolata">
-	  <span style="color:white">#cf0dcc</span><br>rgb(207,13,204)
-  </li>
-</ul>
 
 Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^6]:
 
