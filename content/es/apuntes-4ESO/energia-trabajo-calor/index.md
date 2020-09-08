@@ -217,7 +217,6 @@ La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor espec
 <canvas id="c-t"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
 
 <script>
 	const c = document.getElementById('c-t').getContext('2d');
