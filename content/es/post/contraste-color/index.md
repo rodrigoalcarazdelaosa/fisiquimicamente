@@ -309,22 +309,41 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	          stepSize: 10,
 	          max: 100000000,
  			  min: 1,
-			  callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
-			  	return Number(value).toString(); //pass tick values as a string into Number function
+			  callback: function(label, index, labels) {
+				  switch (label) {
+					  case 1:
+						  return '1';
+					  case 10:
+						  return '10';
+					  case 100:
+						  return '100';
+					  case 1000:
+						  return '1k';
+					  case 10000:
+						  return '10k';
+					  case 100000:
+						  return '100k';
+					  case 1000000:
+						  return '1M';
+					  case 10000000:
+						  return '10M';
+					  case 100000000:
+						  return '100M'; 						  						  						  						  
+				  }
 			  }
 			},
-			afterBuildTicks: function(pckBarChart) {
-	            pckBarChart.ticks = [];
-	            pckBarChart.ticks.push(1);
-	            pckBarChart.ticks.push(10);
-	            pckBarChart.ticks.push(100);
-	            pckBarChart.ticks.push(1000);
-	            pckBarChart.ticks.push(1e4);
-	            pckBarChart.ticks.push(1e5);
-	            pckBarChart.ticks.push(1e6);
-	            pckBarChart.ticks.push(1e7);
-	            pckBarChart.ticks.push(1e8);
-	        }
+			// afterBuildTicks: function(pckBarChart) {
+	//             pckBarChart.ticks = [];
+	//             pckBarChart.ticks.push(1);
+	//             pckBarChart.ticks.push(10);
+	//             pckBarChart.ticks.push(100);
+	//             pckBarChart.ticks.push(1000);
+	//             pckBarChart.ticks.push(1e4);
+	//             pckBarChart.ticks.push(1e5);
+	//             pckBarChart.ticks.push(1e6);
+	//             pckBarChart.ticks.push(1e7);
+	//             pckBarChart.ticks.push(1e8);
+	//         }
 	      }]
 
 	    },
