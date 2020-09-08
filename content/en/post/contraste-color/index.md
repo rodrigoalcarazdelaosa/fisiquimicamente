@@ -154,13 +154,7 @@ A good **combination** of **primary colors** (red, green and blue) would be[^6]:
 ## But, what if we show all the available colors?
 In his [*Pen*](https://codepen.io/finnhvman/full/bZQLgR), [Ben Szabo](https://dev.to/finnhvman) iterates through the RGB color space, with increments of 17 per channel, warning us that, if we were to iterate through all possible colors (increments of 1), we would get ~300k colors. Obviously listing so many colors does not seem very practical, but visualizing them can be very interesting.
 
-The following figure shows how many colors are available depending on the desired contrast. We can see how for $C=1$ (the minimum possible contrast), all the colors in the RGB space are available, namely:
-
-$$
-256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216
-$$
-
-colors. As we increase the contrast, the number of colors decreases, plummeting from $C=4.5$, until we have only one color available in the limit $C_\text{b\&w}^\text{max} = \sqrt{21}$, the fuchsia <code style="background-color: #cf0dcc; color: #fffff8">#cf0dcc</code>.
+The following figure shows how many colors are available depending on the desired contrast:
 
 <canvas id="C-colores"></canvas>
 
@@ -393,6 +387,14 @@ colors. As we increase the contrast, the number of colors decreases, plummeting 
 	  }
 	});
 </script>
+	
+We can see how for $C=1$ (the minimum possible contrast), all the colors in the RGB space are available, namely:
+
+$$
+256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216
+$$
+
+colors. As we increase the contrast, the number of colors decreases, plummeting from $C=4.5$, until we have only one color available in the limit $C_\text{b\&w}^\text{max} = \sqrt{21}$, the fuchsia <code style="background-color: #cf0dcc; color: #fffff8">#cf0dcc</code>.	
 	
 The following **animation** shows all the colors available in the RGB space (a 256-sided cube) depending on the desired contrast (on both black and white):
 	
