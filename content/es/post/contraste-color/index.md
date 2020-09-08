@@ -310,28 +310,28 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	          max: 100000000,
  			  min: 1,
 			  autoSkip: false,
-			  // callback: function(label, index, labels) {
-			  // 				  switch (label) {
-			  // 					  case 1:
-			  // 						  return '1';
-			  // 					  case 10:
-			  // 						  return '10';
-			  // 					  case 100:
-			  // 						  return '100';
-			  // 					  case 1000:
-			  // 						  return '1k';
-			  // 					  case 10000:
-			  // 						  return '10k';
-			  // 					  case 100000:
-			  // 						  return '100k';
-			  // 					  case 1000000:
-			  // 						  return '1M';
-			  // 					  case 10000000:
-			  // 						  return '10M';
-			  // 					  case 100000000:
-			  // 						  return '100M';
-			  // 				  }
-			  // }
+			  callback: function(label, index, labels) {
+				  switch (label) {
+					  case 1:
+						  return '1';
+					  case 10:
+						  return '10';
+					  case 100:
+						  return '100';
+					  case 1000:
+						  return '1k';
+					  case 10000:
+						  return '10k';
+					  case 100000:
+						  return '100k';
+					  case 1000000:
+						  return '1M';
+					  case 10000000:
+						  return '10M';
+					  case 100000000:
+						  return '100M'; 						  						  						  						  
+				  }
+			  }
 			},
 			// afterBuildTicks: function(pckBarChart) {
 	//             pckBarChart.ticks = [];
