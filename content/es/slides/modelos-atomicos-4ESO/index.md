@@ -42,8 +42,6 @@ En **1897**, J.J. **Thomson** lleva a cabo su famoso **experimento** del **tubo*
 
 ### Resultados del experimento
 
-Los **resultados** del **experimento** fueron:
-
 - Los **rayos catódicos** se **originaban** en el **cátodo** y viajaban hacia el ánodo.
 
 ---
@@ -53,7 +51,13 @@ Los **resultados** del **experimento** fueron:
 ---
 
 - En **ausencia** de **campos electromagnéticos** externos, los rayos viajaban en **línea recta**.
+
+---
+
 - Al **aplicar campos eléctricos** y **magnéticos**, los **rayos catódicos** mostraban un **comportamiento similar** al de **partículas** con **carga negativa**.
+
+---
+
 - Las **características** de los **rayos catódicos** eran **independientes** de la **naturaleza** del **gas** contenido dentro del tubo y del **material** del que estaban formados los **electrodos**.
 
 {{% /section %}}
