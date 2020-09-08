@@ -128,3 +128,22 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 <iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Modelo de Rutherford
+
+- El átomo está formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su **masa**.
+- Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+{{< figure library="true" src="modelos-atomicos-4ESO/Rutherford.svg" lightbox="false" width="100%" >}}
+
+{{% /section %}}
