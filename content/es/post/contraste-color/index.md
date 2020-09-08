@@ -284,8 +284,8 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 	          fontColor: '#111111',
 	          padding: 10,
 	          stepSize: 10,
-	          suggestedMax: 100000000,
- 			  suggestedMin: 1
+	          max: 100000000,
+ 			  min: 1
 	        }
 	      }]
 
