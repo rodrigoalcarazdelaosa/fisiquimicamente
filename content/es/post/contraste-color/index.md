@@ -335,7 +335,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	});
 </script>
 	
-{{< figure library="true" src="contraste-color/colores-C.gif" title="Colores RGB disponibles en función del contraste deseado, variando desde 1 (todos los colores del espacio RGB disponibles, $256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216$) hasta el límite $C=\sqrt{21}$ en el que únicamente tenemos el color fucsia <span style="font-family: Inconsolata">#cf0dcc</span>." lightbox="false" width="100%" >}}
+{{< figure library="true" src="contraste-color/colores-C.gif" title="Colores RGB disponibles en función del contraste deseado, variando desde 1 (todos los colores del espacio RGB disponibles, $256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216$) hasta el límite $C=\sqrt{21}$ en el que únicamente tenemos el color fucsia `#cf0dcc`." lightbox="false" width="100%" >}}
 
 Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[^6]:
 
