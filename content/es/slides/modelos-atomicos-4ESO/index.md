@@ -26,15 +26,14 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Descubrimiento del electrón
 
-La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
-$$
-p = \frac{F}{A}
-$$
+En **1897**, J.J. **Thomson** lleva a cabo su famoso **experimento** del **tubo** de **rayos catódicos**, con el que **descubre** el **electrón**, la **partícula elemental** con **carga** eléctrica **negativa**.
 
 (continúa hacia abajo)
 
 👇
 
 ---
+
+{{< figure library="true" src="modelos-atomicos-4ESO/experimento-rayos-catodicos.svg" title="Thomson aplicó un **alto voltaje** a los electrodos de un **tubo** de **descarga** que contenía **gas** a **baja presión**. Al colocar una **pantalla fluorescente** en el ánodo (electrodo positivo), observó **destellos verdes**, producidos por los llamados **rayos catódicos** (originados en el cátodo). Traducida y adaptada de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/electron-in-chemistry." lightbox="false" width="100%" >}}
 
 {{% /section %}}
