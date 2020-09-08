@@ -1340,13 +1340,13 @@
     "layout": {
         "scene": {
             "xaxis": {
-                "title": "a*"
+                "title": "R"
             },
             "yaxis": {
-                "title": "b*"
+                "title": "G"
             },
             "zaxis": {
-                "title": "L*"
+                "title": "B"
             }
         },
         "title": "",
