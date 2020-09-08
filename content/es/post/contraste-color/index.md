@@ -286,7 +286,6 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 	          max: 100000000,
  			  min: 1,
 	      }]
-
 	    },
 	    legend: {
 	      display: false
