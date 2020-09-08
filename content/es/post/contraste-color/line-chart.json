@@ -235,8 +235,8 @@
     "xaxis": {
       "type": "linear",
       "range": [
-        946702800000,
-        1451624400000
+        1.0,
+        5.0
       ],
       "title": "Contraste",
       "showgrid": false,
