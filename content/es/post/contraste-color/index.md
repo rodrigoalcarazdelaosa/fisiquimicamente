@@ -152,7 +152,8 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[
 </ul>
 
 ## Pero, ¿y si representamos todos los colores disponibles?
-La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado.
+La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado. Se puede ver cómo para $C=1$ (el mínimo contraste posible), todos los colores del espacio RGB están disponibles, exactamente $256\cdot 256\cdot 256 = 16\thinspace 777\thinspace 216$.
+
 <canvas id="C-colores"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
