@@ -231,7 +231,7 @@
   ],
   "layout": {
     "title": "",
-    "width": "100%",
+    "width": 600,
     "xaxis": {
       "type": "linear",
       "range": [
