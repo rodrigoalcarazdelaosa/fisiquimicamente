@@ -123,8 +123,6 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
   </li>
 </ul>
 
-{{< chart data="colorcloud" >}}
-
 <canvas id="C-colores"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
