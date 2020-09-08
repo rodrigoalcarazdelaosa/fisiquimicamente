@@ -51,7 +51,7 @@
     "title": "",
     "width": 800,
     "xaxis": {
-      "type": "date",
+      "type": "linear",
       "range": [
         946702800000,
         1451624400000
