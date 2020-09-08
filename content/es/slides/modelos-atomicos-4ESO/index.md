@@ -68,4 +68,20 @@ En **1897**, J.J. **Thomson** lleva a cabo su famoso **experimento** del **tubo*
 
 ## Modelo de Thomson
 
+Siete años después de su famoso experimento, en **1904**, Thomson postula un modelo atómico que se conoce como el **modelo** del ***pastel** de **pasas***:
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+- El **átomo** está formado por una ***nube*** esférica con **carga positiva**.
+- Los **electrones**, con carga negativa, se encuentran **incrustados** por toda la **esfera**, como las **pasas** en un **pastel**.
+- El número total de electrones es tal que la carga neta del átomo es cero (**átomo neutro**).
+
+---
+
+{{< figure library="true" src="modelos-atomicos-4ESO/Thomson.svg" lightbox="false" width="100%" >}}
+
 {{% /section %}}
