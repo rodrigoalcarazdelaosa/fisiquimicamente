@@ -68,7 +68,7 @@ En **1897**, J.J. **Thomson** lleva a cabo su famoso **experimento** del **tubo*
 
 ## Modelo de Thomson
 
-Siete años después de su famoso experimento, en **1904**, Thomson postula un modelo atómico que se conoce como el **modelo** del ***pastel** de **pasas***:
+Siete años después de su famoso experimento, en **1904**, Thomson postula un modelo atómico que se conoce como el **modelo** del ***pastel** de **pasas***.
 
 (continúa hacia abajo)
 
