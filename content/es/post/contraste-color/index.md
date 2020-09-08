@@ -323,7 +323,7 @@ colores. A medida que aumentamos la exigencia en el constraste, el número de co
 	          max: 5.0,
 	          min: 1.0,
 	          stepSize: 0.5,
-	          // padding: 10
+	          padding: 10
 	        }
 	      }],
 	      yAxes: [{
