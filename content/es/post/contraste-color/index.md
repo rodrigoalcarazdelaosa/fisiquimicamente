@@ -283,7 +283,6 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
 	          padding: 10,
-	          stepSize: 10,
 	          max: 100000000,
  			  min: 1
 	        }
