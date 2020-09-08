@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="93.125397mm"
+   height="46.54121mm"
+   viewBox="0 0 93.125397 46.54121"
+   version="1.1"
+   id="svg208"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="descubrimiento-electron.svg">
+  <defs
+     id="defs202">
+    <linearGradient
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,34.475325,88.748448)"
+       y2="151.1344"
+       x2="276.08499"
+       y1="151.1344"
+       x1="35.309399"
+       gradientUnits="userSpaceOnUse"
+       id="SVGID_1_">
+      <stop
+         id="stop10"
+         style="stop-color:#dddddd;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop12"
+         style="stop-color:#dddddd;stop-opacity:1"
+         offset="0.8994" />
+      <stop
+         id="stop14"
+         style="stop-color:#61DB71"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.1139018"
+     inkscape:cx="175.985"
+     inkscape:cy="87.951896"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1251"
+     inkscape:window-height="787"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata205">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.592067,-109.02107)">
+    <path
+       style="fill:url(#SVGID_1_);stroke-width:0.264583"
+       id="path17"
+       d="m 95.613658,140.75717 v -9.5531 h 4.664632 c 4.00106,0 7.24453,-3.2435 7.24453,-7.24453 v -2e-5 c 0,-4.00106 -3.2435,-7.24453 -7.24453,-7.24453 H 51.06216 c -4.001056,0 -7.244529,3.2435 -7.244529,7.24453 v 2e-5 c 0,4.00106 3.2435,7.24453 7.244529,7.24453 h 42.193478 v 9.5531"
+       fill="url(#SVGID_1_)" />
+    <polyline
+       id="polyline19"
+       points="171.7614,238.2888 171.7614,211.9314 8.5003,211.9314     8.5003,133.9889 315.7112,133.9889 315.7112,211.9314 192.389,211.9314 192.389,231.413   "
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)" />
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke-width:0.264583"
+       id="rect21"
+       height="8.8783846"
+       width="1.8320544"
+       fill="#999999"
+       y="120.06583"
+       x="51.192837" />
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke-width:0.264583"
+       id="rect23"
+       height="1.2213696"
+       width="14.468474"
+       fill="#999999"
+       y="123.589"
+       x="36.724365" />
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke-width:0.264583"
+       id="rect25"
+       height="8.8783846"
+       width="1.8320544"
+       fill="#999999"
+       transform="scale(-1)"
+       y="-128.94421"
+       x="-103.23306" />
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke-width:0.264583"
+       id="rect27"
+       height="1.2213696"
+       width="14.468474"
+       fill="#999999"
+       transform="scale(-1)"
+       y="-124.81036"
+       x="-117.70157" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       id="rect29"
+       height="6.5082474"
+       width="11.376635"
+       fill="#767676"
+       y="149.05403"
+       x="76.948242" />
+    <polygon
+       style="fill:#555555;fill-opacity:1"
+       id="polygon31"
+       points="215.7983,176.2785 237.5662,172.7285 237.5662,187.1751 215.7983,183.8413 "
+       fill="#999999"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)" />
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke-width:0.264583"
+       id="rect33"
+       height="0.95125645"
+       width="3.234267"
+       fill="#999999"
+       y="135.81589"
+       x="96.968178" />
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke-width:0.264583"
+       id="rect35"
+       height="0.95125645"
+       width="3.234267"
+       fill="#999999"
+       transform="rotate(-90)"
+       y="100.09868"
+       x="-137.90863" />
+    <g
+       id="g45"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <g
+         id="g43">
+        <line
+           id="line37"
+           y2="130.17261"
+           x2="133.798"
+           y1="130.17261"
+           x1="73.143097"
+           stroke-miterlimit="10"
+           stroke-linecap="round"
+           stroke="#e43f32"
+           fill="none" />
+        <g
+           id="g41">
+          <polygon
+             id="polygon39"
+             points="139.1802,130.1726 132.7038,126.4329 132.7038,133.9124 "
+             fill="#e43f32" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g55"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <g
+         id="g53">
+        <line
+           id="line47"
+           y2="140.1613"
+           x2="133.798"
+           y1="140.1613"
+           x1="73.143097"
+           stroke-miterlimit="10"
+           stroke-linecap="round"
+           stroke="#e43f32"
+           fill="none" />
+        <g
+           id="g51">
+          <polygon
+             id="polygon49"
+             points="139.1802,140.1613 132.7038,136.4215 132.7038,143.901 "
+             fill="#e43f32" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g65"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <g
+         id="g63">
+        <line
+           id="line57"
+           y2="150.1499"
+           x2="133.798"
+           y1="150.1499"
+           x1="73.143097"
+           stroke-miterlimit="10"
+           stroke-linecap="round"
+           stroke="#e43f32"
+           fill="none" />
+        <g
+           id="g61">
+          <polygon
+             id="polygon59"
+             points="139.1802,150.1499 132.7038,146.4102 132.7038,153.8897 "
+             fill="#e43f32" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g73"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <circle
+         id="circle67"
+         r="4.9942999"
+         cy="120.8108"
+         cx="81.258904"
+         stroke-miterlimit="10"
+         stroke-linecap="round"
+         stroke="#222222"
+         fill="none" />
+      <g
+         id="g71">
+        <path
+           id="path69"
+           d="m 78.3662,119.7417 h 5.7861 v 0.8823 h -5.7861 z"
+           fill="#222222" />
+      </g>
+    </g>
+    <g
+       id="g81"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <circle
+         id="circle75"
+         r="4.9942999"
+         cy="120.8108"
+         cx="98.080101"
+         stroke-miterlimit="10"
+         stroke-linecap="round"
+         stroke="#222222"
+         fill="none" />
+      <g
+         id="g79">
+        <path
+           id="path77"
+           d="m 95.1875,119.7417 h 5.7861 v 0.8823 h -5.7861 z"
+           fill="#222222" />
+      </g>
+    </g>
+    <g
+       id="g89"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <circle
+         id="circle83"
+         r="4.9942999"
+         cy="120.8108"
+         cx="114.9014"
+         stroke-miterlimit="10"
+         stroke-linecap="round"
+         stroke="#222222"
+         fill="none" />
+      <g
+         id="g87">
+        <path
+           id="path85"
+           d="m 112.0088,119.7417 h 5.7861 v 0.8823 h -5.7861 z"
+           fill="#222222" />
+      </g>
+    </g>
+    <g
+       id="g97"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <circle
+         id="circle91"
+         r="4.9942999"
+         cy="120.8108"
+         cx="131.7227"
+         stroke-miterlimit="10"
+         stroke-linecap="round"
+         stroke="#222222"
+         fill="none" />
+      <g
+         id="g95">
+        <path
+           id="path93"
+           d="m 128.8301,119.7417 h 5.7861 v 0.8823 h -5.7861 z"
+           fill="#222222" />
+      </g>
+    </g>
+    <line
+       id="line99"
+       y2="150.29439"
+       x2="78.612289"
+       y1="150.29439"
+       x1="73.026459"
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <line
+       id="line101"
+       y2="146.74486"
+       x2="94.451675"
+       y1="139.05331"
+       x1="94.451675"
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <line
+       id="line103"
+       y2="132.61385"
+       x2="105.17307"
+       y1="127.65014"
+       x1="105.17307"
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <line
+       id="line105"
+       y2="118.70647"
+       x2="108.39278"
+       y1="118.70647"
+       x1="102.93715"
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <line
+       id="line107"
+       y2="114.32409"
+       x2="82.277298"
+       y1="123.589"
+       x1="82.277298"
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <line
+       id="line109"
+       y2="115.88923"
+       x2="45.608276"
+       y1="119.19836"
+       x1="45.608276"
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <line
+       id="line111"
+       y2="133.31638"
+       x2="51.858185"
+       y1="128.47562"
+       x1="51.858185"
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       style="stroke-width:0.264583" />
+    <polyline
+       id="polyline113"
+       points="255.7112,150.1499 255.7112,175.2553 261.7957,175.2553       "
+       stroke-miterlimit="10"
+       stroke="#222222"
+       fill="none"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)" />
+    <g
+       id="g149"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <path
+         id="path147"
+         d="m 22.4697,125.5601 h 5.7852 v 0.8823 h -5.7852 z"
+         fill="#222222" />
+    </g>
+    <g
+       id="g153"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <path
+         id="path151"
+         d="m 283.4492,127.1621 h -2.4229 v -1.0044 h 2.4229 v -2.438 h 1.0342 v 2.438 h 2.4346 v 1.0044 h -2.4346 v 2.4526 h -1.0342 z"
+         fill="#222222" />
+    </g>
+    <g
+       id="g393"
+       transform="matrix(0.26458333,0,0,0.26458333,34.475321,88.748452)">
+      <g
+         id="g387">
+        <path
+           id="path385"
+           d="m 167.1826,239.1563 h 5.7861 v 0.8823 h -5.7861 z"
+           fill="#ffffff" />
+      </g>
+      <g
+         id="g391">
+        <path
+           id="path389"
+           d="m 193.7646,240.7583 h -2.4229 v -1.0044 h 2.4229 v -2.438 h 1.0342 v 2.438 h 2.4346 v 1.0044 h -2.4346 v 2.4526 h -1.0342 z"
+           fill="#ffffff" />
+      </g>
+    </g>
+    <text
+       id="text859"
+       y="111.38033"
+       x="46.696442"
+       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="111.38033"
+         x="46.696442"
+         id="tspan857"
+         sodipodi:role="line">TUBO DE</tspan><tspan
+         id="tspan861"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="114.50586"
+         x="46.696442"
+         sodipodi:role="line">DESCARGA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.988014"
+       y="110.7151"
+       id="text859-8"><tspan
+         sodipodi:role="line"
+         x="82.988014"
+         y="110.7151"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan861-8">AIRE A MUY</tspan><tspan
+         id="tspan886"
+         sodipodi:role="line"
+         x="82.988014"
+         y="113.84063"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;stroke-width:0.264583">BAJA PRESIÓN</tspan></text>
+    <text
+       id="text899"
+       y="119.59138"
+       x="119.38889"
+       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan901"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="119.59138"
+         x="119.38889"
+         sodipodi:role="line">DESTELLO VERDE</tspan></text>
+    <text
+       id="text905"
+       y="136.25945"
+       x="46.874809"
+       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';stroke-width:0.264583"
+         y="136.25945"
+         x="46.874809"
+         id="tspan903"
+         sodipodi:role="line">CÁTODO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="104.26305"
+       y="135.56631"
+       id="text905-2"><tspan
+         sodipodi:role="line"
+         id="tspan903-4"
+         x="104.26305"
+         y="135.56631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';stroke-width:0.264583">ÁNODO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="62.796936"
+       y="151.13812"
+       id="text905-7"><tspan
+         sodipodi:role="line"
+         id="tspan903-9"
+         x="62.796936"
+         y="151.13812"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;stroke-width:0.264583">GENERADOR DE</tspan><tspan
+         id="tspan943"
+         sodipodi:role="line"
+         x="62.796936"
+         y="154.26366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;stroke-width:0.264583">ALTO VOLTAJE</tspan></text>
+    <text
+       id="text905-7-0"
+       y="148.98317"
+       x="107.10104"
+       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="148.98317"
+         x="107.10104"
+         sodipodi:role="line"
+         id="tspan943-0">A LA BOMBA DE VACÍO</tspan></text>
+    <text
+       id="text970"
+       y="129.30981"
+       x="71.698647"
+       style="font-style:normal;font-weight:normal;font-size:2.46944px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';stroke-width:0.264583"
+         y="129.30981"
+         x="71.698647"
+         id="tspan968"
+         sodipodi:role="line">RAYOS CATÓDICOS</tspan></text>
+  </g>
+</svg>
