@@ -34,6 +34,6 @@ En **1897**, J.J. **Thomson** lleva a cabo su famoso **experimento** del **tubo*
 
 ---
 
-{{< figure library="true" src="modelos-atomicos-4ESO/experimento-rayos-catodicos.svg" title="Thomson aplicó un **alto voltaje** a los electrodos de un **tubo** de **descarga** que contenía **gas** a **baja presión**. Al colocar una **pantalla fluorescente** en el ánodo (electrodo positivo), observó **destellos verdes**, producidos por los llamados **rayos catódicos** (originados en el cátodo). Traducida y adaptada de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/electron-in-chemistry." lightbox="false" width="100%" >}}
+{{< figure library="true" src="modelos-atomicos-4ESO/experimento-rayos-catodicos.svg" title="Thomson aplicó un **alto voltaje** a los electrodos de un **tubo** de **descarga** que contenía **gas** a **baja presión**. Al colocar una **pantalla fluorescente** en el ánodo (electrodo positivo), observó **destellos verdes**, producidos por los llamados **rayos catódicos** (originados en el cátodo). Traducida y adaptada de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/electron-in-chemistry." lightbox="false" width="80%" >}}
 
 {{% /section %}}
