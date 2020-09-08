@@ -310,7 +310,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	          max: 100000000,
  			  min: 1,
 			  callback: function(value, index, values) {//needed to change the scientific notation results from using logarithmic scale
-			  	return Number(value).toLocaleString(); //pass tick values as a string into Number function
+			  	return Number(value).toString(); //pass tick values as a string into Number function
 			  }
 			},
 			afterBuildTicks: function(pckBarChart) {
