@@ -309,6 +309,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	          maxTicksLimit: 9,
 	          max: 100000000,
  			  min: 1,
+			  autoSkip: false,
 			  callback: function(label, index, labels) {
 				  switch (label) {
 					  case 1:
