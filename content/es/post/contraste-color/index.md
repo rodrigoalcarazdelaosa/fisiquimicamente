@@ -344,7 +344,7 @@ colores. A medida que aumentamos la exigencia en el constraste, el número de co
 	          fontSize: 16,
 			  fontFamily: 'EB Garamond',
 	          fontColor: '#111111',
-	          // padding: 10,
+	          padding: 10,
 	          maxTicksLimit: 9,
 	          max: 100000000,
  			  min: 1,
