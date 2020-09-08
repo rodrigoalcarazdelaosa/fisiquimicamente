@@ -318,7 +318,7 @@ de donde se obtiene $C_\text{b\&n}^\text{máx} = \sqrt{21} \approx 4.58$, que co
 	            pckBarChart.ticks.push(1);
 	            pckBarChart.ticks.push(10);
 	            pckBarChart.ticks.push(100);
-	            pckBarChart.ticks.push("1k");
+	            pckBarChart.ticks.push(1e3);
 	            pckBarChart.ticks.push(1e4);
 	            pckBarChart.ticks.push(1e5);
 	            pckBarChart.ticks.push(1e6);
