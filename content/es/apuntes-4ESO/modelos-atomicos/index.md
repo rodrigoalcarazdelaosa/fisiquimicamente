@@ -76,7 +76,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 - El átomo está formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su **masa**.
 - Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
 
-{{< figure library="true" src="modelos-atomicos-4ESO/Rutherford.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.svg" lightbox="false" width="100%" >}}
 
 ## Modelo de Bohr
 Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de la **materia** y los **característicos espectros** de emisión y absorción de los **gases**.
