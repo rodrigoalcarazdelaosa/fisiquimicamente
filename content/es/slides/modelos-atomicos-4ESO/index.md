@@ -82,7 +82,7 @@ Siete años después de su famoso experimento, en **1904**, Thomson postula un m
 
 ---
 
-{{< figure library="true" src="modelos-atomicos-4ESO/Thomson.svg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Thomson.svg" lightbox="false" width="70%" >}}
 
 {{% /section %}}
 
