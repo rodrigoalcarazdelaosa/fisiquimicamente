@@ -48,7 +48,7 @@ Siete años después de su famoso experimento, en **1904**, Thomson postula un m
 - Los **electrones**, con carga negativa, se encuentran **incrustados** por toda la **esfera**, como las **pasas** en un **pastel**.
 - El número total de electrones es tal que la carga neta del átomo es cero (**átomo neutro**).
 
-{{< figure library="true" src="modelos-atomicos-4ESO/Thomson.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Thomson.svg" title="Modelo de Thomson, también conocido como modelo del *pastel de pasas*." lightbox="false" width="100%" >}}
 
 ## Descubrimiento del núcleo atómico
 En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llevan a cabo un **experimento histórico** en el que **descubren** la existencia del **núcleo** atómico:
