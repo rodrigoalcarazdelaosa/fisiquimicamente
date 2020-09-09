@@ -101,7 +101,7 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 
 ### Experimento de Geiger-Marsden
 
-{{< figure library="true" src="modelos-atomicos-4ESO/experimento-Rutherford.svg" lightbox="false" width="90%" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford.svg" lightbox="false" width="90%" >}}
 
 ---
 
