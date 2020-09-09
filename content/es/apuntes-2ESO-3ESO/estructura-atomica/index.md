@@ -95,16 +95,16 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 
 ##### Resultados del experimento
 
-- La mayoría de las partículas atravesaban la lámina de oro sin sufrir ninguna desviación.
-- Muy pocas (una de cada 10000 aproximadamente) se desviaban un ángulo mayor de unos $10^\circ$.
-- Algunas partículas (poquísimas) incluso rebotaban.
+- La **mayoría** de las **partículas atravesaban** la **lámina** de oro sin desviarse.
+- **Muy pocas** (1/10000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.
+- **Algunas** partículas (poquísimas) **incluso rebotaban**.
 
 ##### Interpretación del experimento
 
 {{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford-detalle.svg" title="Conclusiones del experimento de Rutherford." lightbox="false" width="100%" >}}
 
-- Si el modelo propuesto por Thomson fuera cierto no deberían observarse desviaciones ni rebotes de las partículas incidentes.
-- Para que las partículas se desvíen deben encontrar en su trayectoria una zona muy pequeña (**núcleo**) cargada **positivamente** donde se concentra la mayor parte de la masa del átomo.
+- Si el **modelo** propuesto por **Thomson** fuera cierto, **no deberían observarse desviaciones** ni rebotes de las partículas incidentes.
+- Las partículas se desvían al encontrar en su trayectoria una zona muy pequeña (**núcleo**) cargada **positivamente**, donde se concentra la mayor parte de la **masa** del átomo.
 
 Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford** con esta **simulación**:
 
