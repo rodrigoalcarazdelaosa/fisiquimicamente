@@ -60,9 +60,9 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 - **Muy pocas** (1/10000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.
 - **Algunas** partículas (poquísimas) **incluso rebotaban**.
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford-detalle.svg" lightbox="false" width="100%" >}}
-
 ### Interpretación de Rutherford
+
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford-detalle.svg" title="Conclusiones del experimento de Rutherford." lightbox="false" width="100%" >}}
 
 - Si el **modelo** propuesto por **Thomson** fuera cierto, **no deberían observarse desviaciones** ni rebotes de las partículas incidentes.
 - Las partículas se desvían al encontrar en su trayectoria una zona muy pequeña (**núcleo**) cargada **positivamente**, donde se concentra la mayor parte de la **masa** del átomo.
