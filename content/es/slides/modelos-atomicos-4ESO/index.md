@@ -144,7 +144,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ---
 
-{{< figure library="true" src="modelos-atomicos-4ESO/Rutherford.svg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.svg" lightbox="false" width="70%" >}}
 
 {{% /section %}}
 
