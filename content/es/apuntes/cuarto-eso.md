@@ -31,7 +31,11 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Modelos atómicos"
-    tag = "estructura-atómica"	
+    tag = "estructura-atómica"
+	
+  [[content.filter_button]]
+    name = "Enlace químico"
+    tag = "enlace-químico"	
 	
   [[content.filter_button]]
     name = "Reacciones químicas"
