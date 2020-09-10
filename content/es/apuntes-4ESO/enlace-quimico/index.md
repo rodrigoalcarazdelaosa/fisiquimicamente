@@ -1,6 +1,6 @@
 ---
 title: Enlace químico
-subtitle: Enlace iónico, covalente y metálico. Fuerzas intermoleculares
+subtitle: Enlace iónico, covalente y metálico y fuerzas intermoleculares
 summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. Fuerzas intermoleculares."
 tags:
 - 4º ESO
