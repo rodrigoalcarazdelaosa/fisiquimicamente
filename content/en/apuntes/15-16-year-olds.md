@@ -31,7 +31,11 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Atomic Models"
-    tag = "atomic-structure"		
+    tag = "atomic-structure"
+	
+  [[content.filter_button]]
+    name = "Chemical Bond"
+    tag = "chemical-bond"	
 	
   [[content.filter_button]]
     name = "Chemical Reactions"
