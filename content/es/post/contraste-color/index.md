@@ -12,6 +12,10 @@ image:
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
 ---
 
+  <div class="kudos">
+	  <applause-button style="width: 38px; height: 38px;" url="{{ $.Permalink }}" />
+  </div>
+
 {{% alert note %}}
 Esta entrada es una **traducción/adaptación/ampliación** del [**excelente artículo** de **Ben Szabo** en dev.to](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6).
 {{% /alert %}}
