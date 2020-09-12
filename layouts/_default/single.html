@@ -5,10 +5,9 @@
   {{ partial "page_header" . }}
 
   <div class="article-container">
-	  
-	  <applause-button style="width: 38px; height: 38px;" url="{{ $.Permalink }}" />
 
     <div class="article-style">
+		<applause-button style="width: 38px; height: 38px;" url="{{ $.Permalink }}" />
       {{ .Content }}
     </div>
 
