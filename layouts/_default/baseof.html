@@ -23,7 +23,11 @@
 
   {{ partial "search" . }}
 
-  {{ partial "navbar" . }}  
+  {{ partial "navbar" . }}
+  
+  <div>
+	  <applause-button style="width: 38px; height: 38px;" url="{{ $.Permalink }}" />
+  </div>
 
   {{ block "main" . }}{{ end }}
   
