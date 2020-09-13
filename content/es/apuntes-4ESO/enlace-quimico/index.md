@@ -35,7 +35,7 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula.
 
 ### Ejemplos
-#### Agua
+#### Agua (H<sub>2</sub>O)
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" >}}
 
 #### Oxígeno
