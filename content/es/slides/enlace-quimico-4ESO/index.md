@@ -106,6 +106,13 @@ El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones)
 - Ante **golpes**, el **alineamiento** de los **iones** positivos y negativos **puede perderse**, por lo que son muy **frágiles**.
 - **Fundidos** o en **disolución**, **conducen** la **corriente eléctrica**.
 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+
 ## Enlace covalente
 Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos. El **enlace covalente** suele darse **entre no metales**.
 
