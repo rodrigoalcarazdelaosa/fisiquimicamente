@@ -75,6 +75,9 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 - En estado sólido son compuestos **blandos** y **frágiles**.
 - Son **malos conductores** del **calor** y de la **electricidad**.
 
+### Propiedades de las sustancias covalentes cristalinas
+- 
+
 ## Enlace metálico
 El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí. Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
 
