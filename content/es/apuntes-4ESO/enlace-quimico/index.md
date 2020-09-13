@@ -49,9 +49,7 @@ Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** d
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" >}}
 
 ## Enlace iónico
-Es un enlace que involucra la **atracción electrostática** entre **iones** de **signo opuesto**.
-
-Los **iones** son **átomos** con **carga eléctrica**, que puede ser **negativa** (aniones) en caso de haber **captado** (ganado) **electrones**, o **positiva** (cationes) en caso de haber **cedido** (perdido) **electrones**.
+Es un enlace que involucra la **atracción electrostática** entre **iones** de **signo opuesto**. Los **iones** son **átomos** con **carga eléctrica**, que puede ser **negativa** (aniones) en caso de haber **captado** (ganado) **electrones**, o **positiva** (cationes) en caso de haber **cedido** (perdido) **electrones**.
 
 El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones) **y no metales** (tienden a captar electrones).
 
