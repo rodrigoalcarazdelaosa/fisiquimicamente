@@ -173,7 +173,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 #### Diamante
 
-{{< figure library="true" src="enlace-quimico-4ESO/diamante.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/diamante.svg" lightbox="false" width="80%" >}}
 
 ---
 
