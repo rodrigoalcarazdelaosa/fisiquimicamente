@@ -154,7 +154,7 @@ Surge de la **atracción electrostática** entre los **electrones** de conducci�
 
 ---
 
-{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Esquema de **enlace metálico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***. Adaptada de https://commons.wikimedia.org/wiki/File:Metallic_bonding.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Esquema de **enlace metálico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***. Adaptada de https://commons.wikimedia.org/wiki/File:Metallic_bonding.svg." lightbox="false" width="50%" >}}
 
 ---
 
