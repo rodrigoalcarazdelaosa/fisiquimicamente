@@ -69,6 +69,8 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 
 El **enlace covalente** suele darse **entre no metales**.
 
+{{< figure library="true" src="enlace-quimico-4ESO/enlace-covalente.svg" title="Representación de la **unión covalente** entre dos átomos de **flúor** (F) para formar \ch{F2}, con un par de electrones compartidos. Adaptada de https://commons.wikimedia.org/wiki/File:Covalent_bond_fluorine.svg." lightbox="false" width="100%" >}}
+
 ### Propiedades de las sustancias covalentes moleculares
 
 ## Enlace metálico
