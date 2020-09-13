@@ -165,6 +165,12 @@ Surge de la **atracción electrostática** entre los **electrones** de conducci�
 - **Tienden** a **ceder** (perder) **electrones** al reaccionar con otras sustancias.
 - La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Fuerzas intermoleculares
 Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las **moléculas**, incluyendo las fuerzas de atracción o repulsión que actúan entre las moléculas y otros tipos de partículas vecinas, por ejemplo, átomos o iones. Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas intramoleculares** (las que mantienen unida una molécula).
 
