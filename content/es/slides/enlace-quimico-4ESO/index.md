@@ -167,11 +167,13 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 #### Grafito/grafeno
 
-{{< figure library="true" src="enlace-quimico-4ESO/grafito-grafeno.svg" lightbox="false" width="55%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/grafito-grafeno.svg" lightbox="false" width="50%" >}}
 
 ---
 
-{{< figure library="true" src="enlace-quimico-4ESO/diamante.svg" title="Estructura tetraédrica del **diamante**, formado por átomos de **carbono** (C) unidos mediante **enlaces covalentes**. Fuente: https://www.physics-in-a-nutshell.com/article/13/diamond-structure." lightbox="false" width="100%" >}}
+#### Diamante
+
+{{< figure library="true" src="enlace-quimico-4ESO/diamante.svg" lightbox="false" width="100%" >}}
 
 ---
 
