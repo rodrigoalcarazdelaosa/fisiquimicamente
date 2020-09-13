@@ -184,7 +184,7 @@ Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas int
 
 ---
 
-{{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares.svg" title="**Atracción intermolecular** entre moléculas de **ácido clorhídrico**, HCl(aq). Traducida y adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares.svg" title="**Atracción intermolecular** entre moléculas de **ácido clorhídrico**, HCl(aq)." lightbox="false" width="100%" >}}
 
 ---
 
