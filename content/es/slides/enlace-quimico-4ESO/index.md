@@ -167,7 +167,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 #### Grafito/grafeno
 
-{{< figure library="true" src="enlace-quimico-4ESO/grafito-grafeno.svg" lightbox="false" width="60%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/grafito-grafeno.svg" lightbox="false" width="55%" >}}
 
 ---
 
