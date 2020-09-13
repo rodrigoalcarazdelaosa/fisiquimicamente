@@ -114,11 +114,15 @@ El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones)
 
 
 ## Enlace covalente
-Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos. El **enlace covalente** suele darse **entre no metales**.
+Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos.
 
 (continúa hacia abajo)
 
 👇
+
+---
+
+El **enlace covalente** suele darse **entre no metales**.
 
 ---
 
