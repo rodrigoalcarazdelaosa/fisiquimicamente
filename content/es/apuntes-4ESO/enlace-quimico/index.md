@@ -101,7 +101,7 @@ El **enlace metálico** es el enlace químico que **mantiene unidos** a los **á
 ## Fuerzas intermoleculares
 Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las **moléculas**, incluyendo las fuerzas de atracción o repulsión que actúan entre las moléculas y otros tipos de partículas vecinas, por ejemplo, átomos o iones. Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas intramoleculares** (las que mantienen unida una molécula).
 
-{{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares.svg" title="**Atracción intermolecular** entre moléculas de **ácido clorhídrico**, HCl(aq). Traducida y adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares.svg" title="**Atracción intermolecular** entre moléculas de **cloruro de hidrógeno**, HCl. Traducida y adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
 
 ### Puentes de hidrógeno
 Son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas que contienen átomos de **hidrógeno** unidos a átomos de **nitrógeno** (N), **oxígeno** (O) o **flúor** (F).
