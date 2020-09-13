@@ -18,7 +18,7 @@ image:
 links:
 - icon_pack: fas
   icon: file-download
-  name: PDF Texto
+  name: Póster
   url: enlace-quimico-poster.pdf
 
 slides: enlace-quimico-4ESO  
