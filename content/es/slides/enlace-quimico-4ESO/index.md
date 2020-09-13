@@ -150,6 +150,10 @@ El **enlace covalente** suele darse **entre no metales**.
 ---
 
 ### Propiedades de las sustancias covalentes moleculares
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="⚫ $\rightarrow$ C; 🔴 $\rightarrow$ O; ⚪ $\rightarrow$ H." lightbox="false" width="70%" >}}
+
+---
+
 - Debido a las **débiles interacciones entre moléculas** covalentes, suelen tener **temperaturas** de **fusión** y **ebullición bajas** (muchos compuestos covalentes son **líquidos** o **gases** a **temperatura ambiente**).
 - En estado sólido son compuestos **blandos** y **frágiles**.
 - Son **malos conductores** del **calor** y de la **electricidad**.
