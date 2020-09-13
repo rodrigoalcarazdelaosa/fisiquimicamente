@@ -55,7 +55,7 @@ Los **iones** son **átomos** con **carga eléctrica**, que puede ser **negativa
 
 El **enlace iónico** suele darse entre **metales** (tienden a ceder electrones) **y no metales** (tienden a captar electrones).
 
-{{< figure library="true" src="enlace-quimico-4ESO/enlace-ionico.svg" title="Representación de la **unión iónica** entre el litio (Li) y el flúor (F) para formar el fluoruro de litio (LiF). El litio cede fácilmente su único electrón de valencia a un átomo de flúor, que acepta el electrón donado." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/enlace-ionico.svg" title="Representación de la **unión iónica** entre el **litio** (Li) y el **flúor** (F) para formar el **fluoruro de litio** (LiF). El litio cede fácilmente su único electrón de valencia a un átomo de flúor, que acepta el electrón donado." lightbox="false" width="100%" >}}
 
 ### Propiedades de las sustancias iónicas
 
