@@ -82,7 +82,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 - Debido a los **fuertes enlaces covalentes** entre los átomos, suelen tener **temperaturas** de **fusión** y **ebullición altas**, por lo que son **sólidos** a **temperatura ambiente**.
 - Son sustancias muy **duras** aunque frágiles.
-- Suelen ser malos conductores (no así el grafito o el grafeno).
+- Suelen ser **malos conductores** (no así el grafito o el grafeno).
 
 ## Enlace metálico
 El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí. Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
