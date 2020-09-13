@@ -78,6 +78,11 @@ El **enlace metálico** es el enlace químico que **mantiene unidos** a los **á
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Esquema de **enlace metálico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***. Adaptada de https://commons.wikimedia.org/wiki/File:Metallic_bonding.svg." lightbox="false" width="100%" >}}
 
 ### Propiedades de las sustancias metálicas
+- **Apariencia brillante**.
+- Son **buenos conductores** del **calor** y de la **electricidad**.
+- Forman **aleaciones** con otros metales.
+- **Tienden** a **ceder** (perder) **electrones** al reaccionar con otras sustancias.
+- La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
 
 ## Fuerzas intermoleculares
 ### Puentes de hidrógeno
