@@ -38,3 +38,17 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 Los elementos tenderán a **unirse** para completar su capa exterior, **intercambiando** (cediendo/captando $\rightarrow$ enlace **iónico**) o **compartiendo electrones** (enlace **covalente**), y así **ganar estabilidad**.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Diagramas de Lewis
+
+Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula.
+
+(continúa hacia abajo)
+
+👇
+
+{{% /section %}}
