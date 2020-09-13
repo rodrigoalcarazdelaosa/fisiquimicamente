@@ -60,6 +60,9 @@ El **enlace iónico** suele darse entre **metales** (tienden a ceder electrones)
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-LiF.svg" lightbox="false" width="100%" >}}
 
 ### Propiedades de las sustancias iónicas
+- Debido a las **intensas fuerzas electrostáticas** entre los iones, suelen tener **temperaturas** de **fusión** y **ebullición** muy **elevadas**, por lo que la mayoría son **sólidos cristalinos** a **temperatura ambiente**.
+- Ante **golpes**, el **alineamiento** de los **iones** positivos y negativos **puede perderse**, por lo que son muy **frágiles**.
+- **Fundidos** o en **disolución**, **conducen** la **corriente eléctrica**.
 
 ## Enlace covalente
 ### Propiedades de las sustancias covalentes moleculares
