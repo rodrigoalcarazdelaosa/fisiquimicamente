@@ -78,7 +78,7 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 ### Propiedades de las sustancias covalentes cristalinas
 Las **sustancias covalentes cristalinas** contienen un gran número de **átomos neutros** unidos entre sí mediante **enlaces covalentes**, formando **láminas bidimensionales**, como el grafito o el grafeno, o **estructuras tridimensionales**, como el diamante o el cuarzo.
 
-{{< figure library="true" src="enlace-quimico-4ESO/diamante.svg" title="Estructura tetraédrica del **diamante**, formado por átomos de carbono (C) unidos mediante **enlaces covalentes**. <br> https://www.physics-in-a-nutshell.com/article/13/diamond-structure" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/diamante.svg" title="Estructura tetraédrica del **diamante**, formado por átomos de carbono (C) unidos mediante **enlaces covalentes**. Fuente: https://www.physics-in-a-nutshell.com/article/13/diamond-structure" lightbox="false" width="100%" >}}
 
 - Debido a los **fuertes enlaces covalentes** entre los átomos, suelen tener **temperaturas** de **fusión** y **ebullición altas**, por lo que son **sólidos** a **temperatura ambiente**.
 - Son sustancias muy **duras** aunque frágiles.
