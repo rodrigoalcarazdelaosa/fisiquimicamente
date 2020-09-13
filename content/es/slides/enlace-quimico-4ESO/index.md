@@ -53,7 +53,15 @@ Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** d
 
 ---
 
-Las estructuras de Lewis muestran cada átomo y su posición en la estructura de la molécula usando su símbolo químico. Se dibujan líneas entre los átomos que están unidos entre sí (se pueden utilizar pares de puntos en lugar de líneas). El exceso de electrones que forman pares solitarios se representan como pares de puntos, y se colocan junto a los átomos.
+Las estructuras de Lewis muestran cada átomo y su posición en la estructura de la molécula usando su símbolo químico.
+
+---
+
+Se dibujan líneas entre los átomos que están unidos entre sí (se pueden utilizar pares de puntos en lugar de líneas).
+
+---
+
+El exceso de electrones que forman pares solitarios se representan como pares de puntos, y se colocan junto a los átomos.
 
 ---
 
