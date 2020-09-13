@@ -191,6 +191,8 @@ Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas int
 ### Puentes de hidrógeno
 Son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas que contienen átomos de **hidrógeno** unidos a átomos de **nitrógeno** (N), **oxígeno** (O) o **flúor** (F).
 
-{{< figure library="true" src="enlace-quimico-4ESO/puentes-hidrogeno.svg" title="**Puentes de hidrógeno** entre átomos de H y O en moléculas de **agua** (H<sub>2</sub>O). Traducida y adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
+---
+
+{{< figure library="true" src="enlace-quimico-4ESO/puentes-hidrogeno.svg" title="**Puentes de hidrógeno** entre átomos de H y O en moléculas de **agua** (H<sub>2</sub>O)." lightbox="false" width="60%" >}}
 
 {{% /section %}}
