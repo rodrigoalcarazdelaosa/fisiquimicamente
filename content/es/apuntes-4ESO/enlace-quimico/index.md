@@ -53,7 +53,7 @@ Es un enlace que involucra la **atracción electrostática** entre **iones** de 
 
 Los **iones** son **átomos** con **carga eléctrica**, que puede ser **negativa** (aniones) en caso de haber **captado** (ganado) **electrones**, o **positiva** (cationes) en caso de haber **cedido** (perdido) **electrones**.
 
-El **enlace iónico** suele darse entre **metales** (tienden a ceder electrones) **y no metales** (tienden a captar electrones).
+El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones) **y no metales** (tienden a captar electrones).
 
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-ionico.svg" title="Representación de la **unión iónica** entre el **litio** (Li) y el **flúor** (F) para formar el **fluoruro de litio** (LiF). El litio cede fácilmente su único electrón de valencia a un átomo de flúor, que acepta el electrón donado.<br>Adaptada de https://commons.wikimedia.org/wiki/File:Ionic_bonding.svg." lightbox="false" width="100%" >}}
 
@@ -65,6 +65,10 @@ El **enlace iónico** suele darse entre **metales** (tienden a ceder electrones)
 - **Fundidos** o en **disolución**, **conducen** la **corriente eléctrica**.
 
 ## Enlace covalente
+Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos.
+
+El **enlace covalente** suele darse **entre no metales**.
+
 ### Propiedades de las sustancias covalentes moleculares
 
 ## Enlace metálico
