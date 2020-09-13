@@ -38,6 +38,8 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 ## Diagramas de Lewis
 Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula.
 
+### Ejemplos
+
 ## Enlace iónico
 ### Propiedades de las sustancias iónicas
 
