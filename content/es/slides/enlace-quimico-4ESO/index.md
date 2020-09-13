@@ -51,4 +51,23 @@ Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** d
 
 👇
 
+---
+
+### Ejemplos
+
+---
+
+#### Agua
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### Oxígeno
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-O2.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### Dióxido de carbono
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" >}}
+
 {{% /section %}}
