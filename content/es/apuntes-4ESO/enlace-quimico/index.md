@@ -51,9 +51,11 @@ Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** d
 ## Enlace iónico
 Es un enlace que involucra la **atracción electrostática** entre **iones** de **signo opuesto**.
 
-Los \textbf{iones} son \textbf{átomos} con \textbf{carga eléctrica}, que puede ser \textbf{negativa} (aniones) en caso de haber \textbf{captado} (ganado) \textbf{electrones}, o \textbf{positiva} (cationes) en caso de haber \textbf{cedido} (perdido) \textbf{electrones}.
+Los **iones** son **átomos** con **carga eléctrica**, que puede ser **negativa** (aniones) en caso de haber **captado** (ganado) **electrones**, o **positiva** (cationes) en caso de haber **cedido** (perdido) **electrones**.
 
-El \textbf{enlace iónico} suele darse entre \textbf{metales} (tienden a ceder electrones) \textbf{y no metales} (tienden a captar electrones). 
+El **enlace iónico** suele darse entre **metales** (tienden a ceder electrones) **y no metales** (tienden a captar electrones).
+
+{{< figure library="true" src="enlace-quimico-4ESO/enlace-ionico.svg" lightbox="false" width="100%" >}}
 
 ### Propiedades de las sustancias iónicas
 
