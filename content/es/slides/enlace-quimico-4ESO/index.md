@@ -142,9 +142,21 @@ El **enlace covalente** suele darse **entre no metales**.
 {{% section %}}
 
 ## Enlace metálico
-El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí. Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
+El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí.
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
+
+---
 
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Esquema de **enlace metálico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***. Adaptada de https://commons.wikimedia.org/wiki/File:Metallic_bonding.svg." lightbox="false" width="100%" >}}
+
+---
 
 ### Propiedades de las sustancias metálicas
 - **Apariencia brillante**.
