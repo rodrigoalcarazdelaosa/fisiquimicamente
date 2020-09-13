@@ -193,6 +193,6 @@ Son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas 
 
 ---
 
-{{< figure library="true" src="enlace-quimico-4ESO/puentes-hidrogeno.svg" title="**Puentes de hidrógeno** entre átomos de H y O en moléculas de **agua** (H<sub>2</sub>O)." lightbox="false" width="65%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/puentes-hidrogeno.svg" title="**Puentes de hidrógeno** entre átomos de H y O en moléculas de **agua** (H<sub>2</sub>O)." lightbox="false" width="60%" >}}
 
 {{% /section %}}
