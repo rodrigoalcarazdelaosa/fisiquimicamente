@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 364.15999 175.84215"
+   xml:space="preserve"
+   id="svg3083"
+   sodipodi:docname="fuerzas-intermoleculares.svg"
+   width="364.16"
+   height="175.84215"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"><metadata
+   id="metadata3089"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3087">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+		
+	
+		
+		
+	</defs><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1440"
+   inkscape:window-height="900"
+   id="namedview3085"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="2.9893061"
+   inkscape:cx="182.08501"
+   inkscape:cy="89.941778"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg3083" />
+<style
+   type="text/css"
+   id="style2848">
+	.st0{fill:url(#Chlorine_molecule_outer_fill_1_);}
+	.st1{fill:url(#Chlorine_molecule_fill_1_);stroke:#47B265;stroke-miterlimit:10;}
+	.st2{fill:#C9E8D2;}
+	.st3{fill:url(#Bottom_ball_1_);stroke:#979797;stroke-miterlimit:10;}
+	.st4{fill:url(#Chlorine_molecule_outer_fill_3_);}
+	.st5{fill:url(#Chlorine_molecule_fill_3_);stroke:#47B265;stroke-miterlimit:10;}
+	.st6{fill:url(#Bottom_ball_4_);stroke:#979797;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#333333;stroke-miterlimit:10;}
+	.st8{fill:#333333;}
+</style>
+<g
+   id="Structure"
+   transform="translate(0,-10.583224)">
+	<g
+   id="Molecule_x5F_Right">
+		
+			<linearGradient
+   id="Chlorine_molecule_outer_fill_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="217.621"
+   y1="99.915398"
+   x2="360.1373"
+   y2="99.915398">
+			<stop
+   offset="8.624691e-03"
+   style="stop-color:#C7C7C7;stop-opacity:0.2"
+   id="stop2850" />
+			<stop
+   offset="0.2936"
+   style="stop-color:#C7C7C7;stop-opacity:0.2"
+   id="stop2852" />
+			<stop
+   offset="0.3294"
+   style="stop-color:#9AC0A5;stop-opacity:0.2813"
+   id="stop2854" />
+			<stop
+   offset="0.3817"
+   style="stop-color:#52B66E;stop-opacity:0.4"
+   id="stop2856" />
+			<stop
+   offset="0.9946"
+   style="stop-color:#52B66E;stop-opacity:0.4"
+   id="stop2858" />
+		</linearGradient>
+		<path
+   id="Chlorine_molecule_outer_fill_2_"
+   class="st0"
+   d="m 303.67,160.42 c -14.6,0 -28.64,-5.3 -39.57,-14.75 -23.76,-2.11 -42.45,-21.83 -42.45,-45.76 0,-23.93 18.68,-43.65 42.45,-45.76 10.93,-9.45 24.95,-14.75 39.56,-14.75 33.36,0 60.5,27.14 60.5,60.5 0.01,33.38 -27.13,60.52 -60.49,60.52 z"
+   style="fill:url(#Chlorine_molecule_outer_fill_1_)" />
+		<g
+   id="Chlorine_molecule_2_">
+			
+				<radialGradient
+   id="Chlorine_molecule_fill_1_"
+   cx="1348.7532"
+   cy="-946.78021"
+   r="153.9995"
+   gradientTransform="matrix(0.2947,0,0,0.2947,-93.8113,378.9319)"
+   gradientUnits="userSpaceOnUse">
+				<stop
+   offset="0"
+   style="stop-color:#93D2A4"
+   id="stop2862" />
+				<stop
+   offset="0.3627"
+   style="stop-color:#90D1A2"
+   id="stop2864" />
+				<stop
+   offset="0.5698"
+   style="stop-color:#88CD9B"
+   id="stop2866" />
+				<stop
+   offset="0.7378"
+   style="stop-color:#7AC790"
+   id="stop2868" />
+				<stop
+   offset="0.8839"
+   style="stop-color:#67BF7F"
+   id="stop2870" />
+				<stop
+   offset="0.9946"
+   style="stop-color:#52B66E"
+   id="stop2872" />
+			</radialGradient>
+			<path
+   id="Chlorine_molecule_fill_2_"
+   class="st1"
+   d="m 349.05,99.92 c 0,-25.07 -20.32,-45.39 -45.39,-45.39 -25.06,0 -45.38,20.32 -45.38,45.39 0,25.06 20.32,45.38 45.38,45.38 25.07,0 45.39,-20.32 45.39,-45.38 z"
+   style="fill:url(#Chlorine_molecule_fill_1_)" />
+			<path
+   id="Chlorine_molecule_shine_2_"
+   class="st2"
+   d="m 314.94,87.37 v 0 c -3.02,-3.02 -3.02,-7.96 0,-10.97 v 0 c 3.02,-3.02 7.96,-3.02 10.97,0 v 0 c 3.02,3.02 3.02,7.96 0,10.97 v 0 c -3.01,3.02 -7.95,3.02 -10.97,0 z" />
+		</g>
+		
+			<radialGradient
+   id="Bottom_ball_1_"
+   cx="1188.3346"
+   cy="-959.70312"
+   r="107.0959"
+   gradientTransform="matrix(0.2947,0,0,0.2878,-93.8113,376.125)"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   style="stop-color:#F2F2F2"
+   id="stop2878" />
+			<stop
+   offset="0.2462"
+   style="stop-color:#EFEFEF"
+   id="stop2880" />
+			<stop
+   offset="0.4467"
+   style="stop-color:#E5E5E5"
+   id="stop2882" />
+			<stop
+   offset="0.631"
+   style="stop-color:#D4D4D4"
+   id="stop2884" />
+			<stop
+   offset="0.8057"
+   style="stop-color:#BCBCBC"
+   id="stop2886" />
+			<stop
+   offset="0.9721"
+   style="stop-color:#9D9D9D"
+   id="stop2888" />
+			<stop
+   offset="1"
+   style="stop-color:#979797"
+   id="stop2890" />
+		</radialGradient>
+		<path
+   id="Bottom_ball_3_"
+   class="st3"
+   d="m 269.67,130.71 c -0.44,0.02 -0.89,0.03 -1.34,0.03 -17.43,0 -31.56,-13.8 -31.56,-30.82 0,-17.03 14.13,-30.83 31.56,-30.83 0.38,0 0.75,0.01 1.13,0.02 0.32,8.7 0.64,50.81 0.21,61.6 z"
+   style="fill:url(#Bottom_ball_1_)" />
+	</g>
+	<g
+   id="Molecule_x5F_Left">
+		
+			<linearGradient
+   id="Chlorine_molecule_outer_fill_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="-4.0317998"
+   y1="99.915398"
+   x2="138.4845"
+   y2="99.915398">
+			<stop
+   offset="8.624691e-03"
+   style="stop-color:#C7C7C7;stop-opacity:0.2"
+   id="stop2895" />
+			<stop
+   offset="0.2936"
+   style="stop-color:#C7C7C7;stop-opacity:0.2"
+   id="stop2897" />
+			<stop
+   offset="0.3294"
+   style="stop-color:#9AC0A5;stop-opacity:0.2813"
+   id="stop2899" />
+			<stop
+   offset="0.3817"
+   style="stop-color:#52B66E;stop-opacity:0.4"
+   id="stop2901" />
+			<stop
+   offset="0.9946"
+   style="stop-color:#52B66E;stop-opacity:0.4"
+   id="stop2903" />
+		</linearGradient>
+		<path
+   id="Chlorine_molecule_outer_fill"
+   class="st4"
+   d="m 82.01,160.42 c -14.6,0 -28.64,-5.3 -39.57,-14.75 C 18.68,143.56 0,123.84 0,99.92 0,75.99 18.68,56.27 42.45,54.16 53.38,44.71 67.4,39.41 82.01,39.41 c 33.36,0 60.5,27.14 60.5,60.5 0.01,33.37 -27.14,60.51 -60.5,60.51 z"
+   style="fill:url(#Chlorine_molecule_outer_fill_3_)" />
+		<g
+   id="Chlorine_molecule">
+			
+				<radialGradient
+   id="Chlorine_molecule_fill_3_"
+   cx="596.6228"
+   cy="-946.78021"
+   r="153.9995"
+   gradientTransform="matrix(0.2947,0,0,0.2947,-93.8113,378.9319)"
+   gradientUnits="userSpaceOnUse">
+				<stop
+   offset="0"
+   style="stop-color:#93D2A4"
+   id="stop2907" />
+				<stop
+   offset="0.3627"
+   style="stop-color:#90D1A2"
+   id="stop2909" />
+				<stop
+   offset="0.5698"
+   style="stop-color:#88CD9B"
+   id="stop2911" />
+				<stop
+   offset="0.7378"
+   style="stop-color:#7AC790"
+   id="stop2913" />
+				<stop
+   offset="0.8839"
+   style="stop-color:#67BF7F"
+   id="stop2915" />
+				<stop
+   offset="0.9946"
+   style="stop-color:#52B66E"
+   id="stop2917" />
+			</radialGradient>
+			<path
+   id="Chlorine_molecule_fill"
+   class="st5"
+   d="m 127.4,99.92 c 0,-25.07 -20.32,-45.39 -45.39,-45.39 -25.06,0 -45.38,20.32 -45.38,45.39 0,25.06 20.32,45.38 45.38,45.38 25.07,0 45.39,-20.32 45.39,-45.38 z"
+   style="fill:url(#Chlorine_molecule_fill_3_)" />
+			<path
+   id="Chlorine_molecule_shine"
+   class="st2"
+   d="m 93.29,87.37 v 0 c -3.02,-3.02 -3.02,-7.96 0,-10.97 v 0 c 3.02,-3.02 7.96,-3.02 10.97,0 v 0 c 3.02,3.02 3.02,7.96 0,10.97 v 0 c -3.01,3.02 -7.95,3.02 -10.97,0 z" />
+		</g>
+		
+			<radialGradient
+   id="Bottom_ball_4_"
+   cx="436.20432"
+   cy="-959.70312"
+   r="107.0959"
+   gradientTransform="matrix(0.2947,0,0,0.2878,-93.8113,376.125)"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   style="stop-color:#F2F2F2"
+   id="stop2923" />
+			<stop
+   offset="0.2462"
+   style="stop-color:#EFEFEF"
+   id="stop2925" />
+			<stop
+   offset="0.4467"
+   style="stop-color:#E5E5E5"
+   id="stop2927" />
+			<stop
+   offset="0.631"
+   style="stop-color:#D4D4D4"
+   id="stop2929" />
+			<stop
+   offset="0.8057"
+   style="stop-color:#BCBCBC"
+   id="stop2931" />
+			<stop
+   offset="0.9721"
+   style="stop-color:#9D9D9D"
+   id="stop2933" />
+			<stop
+   offset="1"
+   style="stop-color:#979797"
+   id="stop2935" />
+		</radialGradient>
+		<path
+   id="Bottom_ball_2_"
+   class="st6"
+   d="m 48.02,130.71 c -0.44,0.02 -0.89,0.03 -1.34,0.03 -17.43,0 -31.56,-13.8 -31.56,-30.82 0,-17.03 14.13,-30.83 31.56,-30.83 0.38,0 0.75,0.01 1.13,0.02 0.31,8.7 0.64,50.81 0.21,61.6 z"
+   style="fill:url(#Bottom_ball_4_)" />
+	</g>
+	<line
+   id="Line_x5F_Left"
+   class="st7"
+   x1="41.200001"
+   y1="99.919998"
+   x2="69.360001"
+   y2="99.919998" />
+	<line
+   id="Line_x5F_Right"
+   class="st7"
+   x1="262.85001"
+   y1="99.919998"
+   x2="291.01001"
+   y2="99.919998" />
+	<g
+   id="Dots">
+		<circle
+   id="Dot_x5F_01"
+   class="st8"
+   cx="149.53"
+   cy="99.919998"
+   r="2.25" />
+		<circle
+   id="Dot_x5F_02"
+   class="st8"
+   cx="158.83"
+   cy="99.919998"
+   r="2.25" />
+		<circle
+   id="Dot_x5F_03"
+   class="st8"
+   cx="168.13"
+   cy="99.919998"
+   r="2.25" />
+		<circle
+   id="Dot_x5F_04"
+   class="st8"
+   cx="177.42999"
+   cy="99.919998"
+   r="2.25" />
+		<circle
+   id="Dot_x5F_05"
+   class="st8"
+   cx="186.74001"
+   cy="99.919998"
+   r="2.25" />
+		<circle
+   id="Dot_x5F_06"
+   class="st8"
+   cx="196.03999"
+   cy="99.919998"
+   r="2.25" />
+		<circle
+   id="Dot_x5F_07"
+   class="st8"
+   cx="205.34"
+   cy="99.919998"
+   r="2.25" />
+		<circle
+   id="Dot_x5F_08"
+   class="st8"
+   cx="214.64"
+   cy="99.919998"
+   r="2.25" />
+	</g>
+</g>
+<line
+   id="Covalent_bond_x5F_Line"
+   class="st7"
+   x1="55.080002"
+   y1="89.336777"
+   x2="55.080002"
+   y2="25.596775" /><line
+   id="Intermolecular_attraction_x5F_Line"
+   class="st7"
+   x1="186.74001"
+   y1="91.586777"
+   x2="186.74001"
+   y2="152.62679" /><g
+   id="g3052"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3054"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3056"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3058"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3060"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3062"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3064"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3066"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3068"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3070"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3072"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3074"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3076"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3078"
+   transform="translate(0,-10.583224)">
+	</g><g
+   id="g3080"
+   transform="translate(0,-10.583224)">
+	</g>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="54.903633"
+   y="9.1466436"
+   id="text3180"><tspan
+     sodipodi:role="line"
+     id="tspan3178"
+     x="54.903633"
+     y="9.1466436"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">ENLACE</tspan><tspan
+     sodipodi:role="line"
+     x="54.903633"
+     y="22.689045"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="tspan3182">COVALENTE</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="25.431114"
+   y="94.364777"
+   id="text3186"><tspan
+     sodipodi:role="line"
+     id="tspan3184"
+     x="25.431114"
+     y="94.364777"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">H</tspan></text><text
+   id="text3186-5"
+   y="94.364777"
+   x="72.007309"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     y="94.364777"
+     x="72.007309"
+     id="tspan3184-0"
+     sodipodi:role="line">Cl</tspan></text><text
+   id="text3186-2"
+   y="94.364777"
+   x="248.66919"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   xml:space="preserve"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     y="94.364777"
+     x="248.66919"
+     id="tspan3184-7"
+     sodipodi:role="line">H</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="293.81509"
+   y="94.364777"
+   id="text3186-5-0"><tspan
+     sodipodi:role="line"
+     id="tspan3184-0-4"
+     x="293.81509"
+     y="94.364777"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">Cl</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="186.59758"
+   y="162.0464"
+   id="text3278"><tspan
+     sodipodi:role="line"
+     id="tspan3276"
+     x="186.59758"
+     y="162.0464"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">fuerza</tspan><tspan
+     sodipodi:role="line"
+     x="186.59758"
+     y="175.58881"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="tspan3280">intermolecular</tspan></text></svg>
