@@ -28,6 +28,18 @@ image:
 
 ---
 
-{{% alert note %}}
-Próximamente...
-{{% /alert %}}
+{{% toc %}}
+
+## Regla del octeto
+## Diagramas de Lewis
+## Enlace iónico
+### Propiedades de las sustancias iónicas
+
+## Enlace covalente
+### Propiedades de las sustancias covalentes moleculares
+
+## Enlace metálico
+### Propiedades de las sustancias metálicas
+
+## Fuerzas intermoleculares
+### Puentes de hidrógeno
