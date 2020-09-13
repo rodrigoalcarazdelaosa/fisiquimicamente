@@ -57,17 +57,17 @@ Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** d
 
 ---
 
-#### Agua
+#### Agua (H<sub>2</sub>O)
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" >}}
 
 ---
 
-#### Oxígeno
+#### Oxígeno (O<sub>2</sub>)
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-O2.svg" lightbox="false" width="100%" >}}
 
 ---
 
-#### Dióxido de carbono
+#### Dióxido de carbono (CO<sub>2</sub>)
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" >}}
 
 {{% /section %}}
