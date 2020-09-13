@@ -69,7 +69,7 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-covalente.svg" title="Representación de la **unión covalente** entre dos átomos de **flúor** (F) para formar F<sub>2</sub>, con un par de electrones compartidos. Adaptada de https://commons.wikimedia.org/wiki/File:Covalent_bond_fluorine.svg." lightbox="false" width="100%" >}}
 
 ### Propiedades de las sustancias covalentes moleculares
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ carbono (C); 🔴 $\rightarrow$ oxígeno (O); ⚪ $\rightarrow$ hidrógeno (H). <br> https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ carbono (C); 🔴 $\rightarrow$ oxígeno (O); ⚪ $\rightarrow$ hidrógeno (H). <br>Fuente: https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
 
 - Debido a las **débiles interacciones entre moléculas** covalentes, suelen tener **temperaturas** de **fusión** y **ebullición bajas** (muchos compuestos covalentes son **líquidos** o **gases** a **temperatura ambiente**).
 - En estado sólido son compuestos **blandos** y **frágiles**.
