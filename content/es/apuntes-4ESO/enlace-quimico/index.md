@@ -76,7 +76,7 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 - Son **malos conductores** del **calor** y de la **electricidad**.
 
 ### Propiedades de las sustancias covalentes cristalinas
-Las **sustancias covalentes cristalinas** contienen un gran número de **átomos neutros** unidos entre sí mediante **enlaces covalentes**, formando **láminas bidimensionales**, como el grafito o el grafeno, o estructuras tridimensionales, como el diamante o el cuarzo.
+Las **sustancias covalentes cristalinas** contienen un gran número de **átomos neutros** unidos entre sí mediante **enlaces covalentes**, formando **láminas bidimensionales**, como el grafito o el grafeno, o **estructuras tridimensionales**, como el diamante o el cuarzo.
 
 - Debido a los **fuertes enlaces covalentes** entre los átomos, suelen tener **temperaturas** de **fusión** y **ebullición altas**, por lo que son **sólidos** a **temperatura ambiente**.
 - Son sustancias muy **duras**.
