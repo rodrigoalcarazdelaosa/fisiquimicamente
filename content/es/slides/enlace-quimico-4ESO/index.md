@@ -29,6 +29,12 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 > La **configuración más estable** para cualquier átomo es contar con **ocho electrones** en la **capa exterior**.
 
+(continúa hacia abajo)
+
+👇
+
+---
+
 Los elementos tenderán a **unirse** para completar su capa exterior, **intercambiando** (cediendo/captando $\rightarrow$ enlace **iónico**) o **compartiendo electrones** (enlace **covalente**), y así **ganar estabilidad**.
 
 {{% /section %}}
