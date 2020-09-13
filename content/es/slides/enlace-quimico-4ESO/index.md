@@ -135,6 +135,12 @@ El **enlace covalente** suele darse **entre no metales**.
 - En estado sólido son compuestos **blandos** y **frágiles**.
 - Son **malos conductores** del **calor** y de la **electricidad**.
 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Enlace metálico
 El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí. Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
 
