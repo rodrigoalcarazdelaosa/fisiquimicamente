@@ -150,7 +150,7 @@ El **enlace covalente** suele darse **entre no metales**.
 ---
 
 ### Propiedades de las sustancias covalentes moleculares
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="⚫ $\rightarrow$ C; 🔴 $\rightarrow$ O; ⚪ $\rightarrow$ H." lightbox="false" width="70%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="⚫ $\rightarrow$ C; 🔴 $\rightarrow$ O; ⚪ $\rightarrow$ H." lightbox="false" width="60%" >}}
 
 ---
 
