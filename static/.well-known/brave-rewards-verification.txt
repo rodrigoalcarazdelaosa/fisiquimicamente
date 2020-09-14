@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: rodrigoalcarazdelaosa.me
-Token: b2efe2e5c304d2e96c768920a3a098c09c5802eca74db70cbc1a248516c64792
