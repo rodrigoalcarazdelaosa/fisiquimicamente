@@ -1,6 +1,6 @@
 ---
 title: Compound Interest
-summary: Exploraciones de compuestos químicos cotidianos.
+summary: Exploraciones de compuestos químicos cotidianos. Especialmente interesantes sus **infografías**.
 tags:
 - fyq
 categories: 
