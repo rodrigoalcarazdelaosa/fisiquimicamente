@@ -1,6 +1,6 @@
 ---
 title: Compound Interest
-summary: Explorations of everyday chemical compounds.
+summary: Explorations of everyday chemical compounds. Especially interesting are its **infographics**.
 tags:
 - pac
 categories: 
