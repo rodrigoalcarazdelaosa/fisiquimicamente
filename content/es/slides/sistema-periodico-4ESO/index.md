@@ -133,16 +133,57 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 ---
 
-| Grupo | Configuración electrónica *externa* | Electrones de valencia |
-| :---: | :---: | :---: |
-| 1 | ns<sup>1</sup> | 1 |
-| 2 (y He) | ns<sup>2</sup> | 2 |
-| 13 | ns<sup>2</sup> np<sup>1</sup> | 3 |
-| 14 | ns<sup>2</sup> np<sup>2</sup> | 4 |
-| 15 | ns<sup>2</sup> np<sup>3</sup> | 5 |
-| 16 | ns<sup>2</sup> np<sup>4</sup> | 6 |
-| 17 | ns<sup>2</sup> np<sup>5</sup> | 7 |
-| 18 (salvo He) | ns<sup>2</sup> np<sup>6</sup> | 8 |
+<table>
+<thead>
+<tr>
+<th align="center">Grupo</th>
+<th align="center">Configuración electrónica <em>externa</em></th>
+<th align="center">Electrones de valencia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">ns<sup>1</sup></td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">2 (y He)</td>
+<td align="center">ns<sup>2</sup></td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center">ns<sup>2</sup> np<sup>1</sup></td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="center">ns<sup>2</sup> np<sup>2</sup></td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="center">ns<sup>2</sup> np<sup>3</sup></td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="center">ns<sup>2</sup> np<sup>4</sup></td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="center">ns<sup>2</sup> np<sup>5</sup></td>
+<td align="center">7</td>
+</tr>
+<tr>
+<td align="center">18 (salvo He)</td>
+<td align="center">ns<sup>2</sup> np<sup>6</sup></td>
+<td align="center">8</td>
+</tr>
+</tbody>
+</table>
 
 {{% /section %}}
 
