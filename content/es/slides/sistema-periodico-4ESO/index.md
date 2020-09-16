@@ -99,6 +99,8 @@ Algún **orbital** tiene **más electrones** de los **permitidos**.
 
 ## Electrones de valencia
 
+Los **electrones** de **valencia** son los que se encuentran en la **capa más externa** de un **átomo**, siendo los **responsables** de las **interacciones** entre **átomos** y la **formación** de **enlaces**.
+
 {{% /section %}}
 
 ---
