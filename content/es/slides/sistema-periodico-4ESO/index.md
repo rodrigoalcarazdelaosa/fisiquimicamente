@@ -53,13 +53,13 @@ La **configuración electrónica** es la **distribución** de **electrones** de 
 
 ---
 
-#### Orbitales d
-{{< figure library="true" src="sistema-periodico-4ESO/orbitales-d.svg" title="**Orbitales d** $\rightarrow 5\times 2 = 10\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+#### Orbitales d $\rightarrow 5\times 2 = 10\thinspace\mathrm e^-$
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-d.svg" lightbox="false" width="100%" >}}
 
 ---
 
-#### Orbitales f
-{{< figure library="true" src="sistema-periodico-4ESO/orbitales-f.svg" title="**Orbitales f** $\rightarrow 7\times 2 = 14\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+#### Orbitales f $\rightarrow 7\times 2 = 14\thinspace\mathrm e^-$
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-f.svg" lightbox="false" width="100%" >}}
 
 {{% /section %}}
 
