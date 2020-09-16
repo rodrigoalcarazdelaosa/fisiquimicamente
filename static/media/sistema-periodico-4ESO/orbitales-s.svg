@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   height="71.959999"
+   width="75.987778"
+   sodipodi:docname="orbitales-atomicos.svg"
+   version="1.1"
+   viewBox="0 0 75.987779 71.959997"
+   id="Structures">
+  <metadata
+     id="metadata1930">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1928" />
+  <sodipodi:namedview
+     inkscape:current-layer="Structures"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="39.53"
+     inkscape:cx="37.242782"
+     inkscape:zoom="6.928314"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview1926"
+     inkscape:window-height="900"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     id="style10">.st0{fill:none;stroke:#333;stroke-width:1.5;stroke-miterlimit:10}.st3{fill:#333}.st5{fill:#c79ecf}.st11,.st6{opacity:.2;stroke:#000;stroke-width:.25;stroke-miterlimit:10}.st11{stroke-linecap:round;stroke-linejoin:round}.st14{fill:#b9dfbb}.st35{fill:#edaaa1}.st36{opacity:.2;stroke:#000;stroke-width:.195;stroke-miterlimit:10}.st57{fill:#efaba2}</style>
+  <g
+     transform="translate(-358.02222,-14.46)"
+     id="Structure_s_x5F_Art">
+    <g
+       id="Structure_s_x5F_Axes_x5F_02">
+      <path
+         id="Line_Top_Left"
+         class="st0"
+         d="m 358.31,34.22 39.06,16.23" />
+      <path
+         id="Line_Top_Right"
+         class="st0"
+         d="M 397.36,50.44 433.34,36.06" />
+      <path
+         id="Line_Bottom"
+         class="st0"
+         d="M 397.37,50.45 V 86.42" />
+      <path
+         id="Line_Top"
+         class="st0"
+         d="M 397.37,14.46 V 50.45" />
+    </g>
+    <g
+       id="Structure_s_x5F_Orbital">
+      <radialGradient
+         id="Structure_s_x5F_Orbital_x5F_Fill_1_"
+         cx="515.12201"
+         cy="-500.64301"
+         r="18.018"
+         gradientTransform="matrix(0.6,0,0,0.6,88.291,350.833)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset="0"
+           stop-color="#a4c6d5"
+           id="stop17" />
+        <stop
+           offset=".384"
+           stop-color="#a1c4d4"
+           id="stop19" />
+        <stop
+           offset=".604"
+           stop-color="#99bfd0"
+           id="stop21" />
+        <stop
+           offset=".781"
+           stop-color="#8bb7ca"
+           id="stop23" />
+        <stop
+           offset=".936"
+           stop-color="#77aac1"
+           id="stop25" />
+        <stop
+           offset="1"
+           stop-color="#6da4bc"
+           id="stop27" />
+      </radialGradient>
+      <path
+         id="Structure_s_x5F_Orbital_x5F_Fill"
+         d="m 397.36,61.26 c -5.95,0 -10.81,-4.86 -10.81,-10.81 0,-5.95 4.86,-10.81 10.81,-10.81 5.95,0 10.81,4.86 10.81,10.81 0.01,5.95 -4.86,10.81 -10.81,10.81 z"
+         fill="url(#Structure_s_x5F_Orbital_x5F_Fill_1_)"
+         stroke="#1b7097"
+         stroke-width="0.5"
+         stroke-miterlimit="10"
+         style="fill:url(#Structure_s_x5F_Orbital_x5F_Fill_1_)" />
+      <circle
+         id="Structure_s_x5F_Orbital_x5F_Shine"
+         cx="399.84"
+         cy="46.59"
+         r="2.47"
+         fill="#bad4e0" />
+    </g>
+    <g
+       id="Structure_s_x5F_Axes_x5F_01">
+      <path
+         id="Line_Bottom_Right"
+         class="st3"
+         d="m 410.38,55.17 -5.48,-2.33 a 0.742,0.742 0 0 0 -0.98,0.4 c -0.16,0.38 0.02,0.82 0.4,0.98 l 5.48,2.33 23.62,10.05 0.59,-1.38 z" />
+      <path
+         id="Line_Bottom_Left"
+         class="st3"
+         d="m 390.82,53.06 a 0.753,0.753 0 0 0 -0.97,-0.42 l -4.18,1.67 -27.28,10.9 0.56,1.39 27.28,-10.9 4.18,-1.67 a 0.74,0.74 0 0 0 0.41,-0.97 z" />
+    </g>
+  </g>
+</svg>

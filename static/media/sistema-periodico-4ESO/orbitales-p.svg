@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   height="78.370003"
+   width="305.46094"
+   sodipodi:docname="orbitales-p.svg"
+   version="1.1"
+   viewBox="0 0 305.46094 78.370001"
+   id="Structures">
+  <metadata
+     id="metadata1930">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1928" />
+  <sodipodi:namedview
+     inkscape:current-layer="Structures"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="128.685"
+     inkscape:cx="152.53289"
+     inkscape:zoom="1.0619313"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview1926"
+     inkscape:window-height="900"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     id="style10">.st0{fill:none;stroke:#333;stroke-width:1.5;stroke-miterlimit:10}.st3{fill:#333}.st5{fill:#c79ecf}.st11,.st6{opacity:.2;stroke:#000;stroke-width:.25;stroke-miterlimit:10}.st11{stroke-linecap:round;stroke-linejoin:round}.st14{fill:#b9dfbb}.st35{fill:#edaaa1}.st36{opacity:.2;stroke:#000;stroke-width:.195;stroke-miterlimit:10}.st57{fill:#efaba2}</style>
+  <g
+     transform="translate(-243.24211,-154.29)"
+     id="Structure_px_x5F_Art">
+    <g
+       id="Structure_px_x5F_Axes_x5F_03">
+      <path
+         id="Line_Top_Left_1_"
+         class="st0"
+         d="m 243.53,178.44 36.18,15.04" />
+    </g>
+    <g
+       id="Structure_px_x5F_Orbital_Left">
+      <radialGradient
+         id="Structure_px_x5F_Orbital_Left_x5F_Fill_1_"
+         cx="-200.29401"
+         cy="2347.782"
+         r="15.881"
+         fx="-212.00301"
+         fy="2356.4109"
+         gradientTransform="matrix(-0.38260281,0.92391292,0.92391292,0.38260281,-1977.9392,-524.8296)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset=".006"
+           stop-color="#c8a0d0"
+           id="stop57" />
+        <stop
+           offset=".331"
+           stop-color="#c79ecf"
+           id="stop59" />
+        <stop
+           offset=".516"
+           stop-color="#c295cb"
+           id="stop61" />
+        <stop
+           offset=".666"
+           stop-color="#ba87c4"
+           id="stop63" />
+        <stop
+           offset=".798"
+           stop-color="#af74ba"
+           id="stop65" />
+        <stop
+           offset=".916"
+           stop-color="#a05aae"
+           id="stop67" />
+        <stop
+           offset="1"
+           stop-color="#9343a2"
+           id="stop69" />
+      </radialGradient>
+      <path
+         id="Structure_px_x5F_Orbital_Left_x5F_Fill"
+         d="m 279.75,193.44 c 0.23,-0.99 -8.2,-12.55 -15.24,-14.71 -4.4,-1.35 -9.19,-0.39 -10.95,3.86 -1.76,4.26 0.84,8.32 5,10.29 8.66,4.11 21,1.07 21.19,0.56 z"
+         fill="url(#Structure_px_x5F_Orbital_Left_x5F_Fill_1_)"
+         stroke="#591c67"
+         stroke-width="0.25"
+         stroke-miterlimit="10"
+         style="fill:url(#Structure_px_x5F_Orbital_Left_x5F_Fill_1_)" />
+      <circle
+         id="Structure_px_x5F_Orbital_Left_x5F_Shine"
+         transform="matrix(1,-0.00524,0.00524,1,-0.944,1.36)"
+         class="st5"
+         cx="258.91"
+         cy="180.86"
+         r="1.8" />
+      <path
+         id="Structure_px_x5F_Orbital_Left_x5F_Shade"
+         class="st6"
+         d="m 253.12,184.04 c 2,2.93 5.56,5.14 8.54,5.88 11.12,2.78 12.19,3.05 18.08,3.4 0.01,0.05 0.01,0.09 0,0.12 -0.19,0.51 -12.53,3.55 -21.2,-0.56 -3.68,-1.74 -6.13,-5.13 -5.42,-8.84 z" />
+    </g>
+    <g
+       id="Structure_px_x5F_Axes_x5F_02">
+      <path
+         id="Line_Top_1_"
+         class="st0"
+         d="m 279.71,154.29 v 39.19" />
+      <path
+         id="Line_Bottom_1_"
+         class="st0"
+         d="M 279.71,232.66 V 193.48" />
+      <path
+         id="Line_Top_Right_1_"
+         class="st0"
+         d="m 315.79,178.17 -36.08,15.31" />
+      <path
+         id="Line_Bottom_Left_1_"
+         class="st0"
+         d="m 243.66,208.83 36.05,-15.35" />
+    </g>
+    <g
+       id="Structure_px_x5F_Orbital_Right">
+      <radialGradient
+         id="Structure_px_x5F_Orbital_Right_x5F_Fill_1_"
+         cx="-203.267"
+         cy="2132.583"
+         r="15.881"
+         fx="-214.976"
+         fy="2141.2119"
+         gradientTransform="rotate(112.998,684.301,1329.254)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset=".006"
+           stop-color="#c8a0d0"
+           id="stop81" />
+        <stop
+           offset=".331"
+           stop-color="#c79ecf"
+           id="stop83" />
+        <stop
+           offset=".516"
+           stop-color="#c295cb"
+           id="stop85" />
+        <stop
+           offset=".666"
+           stop-color="#ba87c4"
+           id="stop87" />
+        <stop
+           offset=".798"
+           stop-color="#af74ba"
+           id="stop89" />
+        <stop
+           offset=".916"
+           stop-color="#a05aae"
+           id="stop91" />
+        <stop
+           offset="1"
+           stop-color="#9343a2"
+           id="stop93" />
+      </radialGradient>
+      <path
+         id="Structure_px_x5F_Orbital_Right_x5F_Fill"
+         d="m 279.63,193.46 c 0.55,-0.86 14.7,-2.95 21.18,0.56 4.05,2.2 6.72,6.28 4.92,10.52 -1.8,4.24 -6.52,5.23 -10.84,3.65 -9.01,-3.31 -15.49,-14.24 -15.26,-14.73 z"
+         fill="url(#Structure_px_x5F_Orbital_Right_x5F_Fill_1_)"
+         stroke="#591c67"
+         stroke-width="0.25"
+         stroke-miterlimit="10"
+         style="fill:url(#Structure_px_x5F_Orbital_Right_x5F_Fill_1_)" />
+      <circle
+         id="Structure_px_x5F_Orbital_Right_x5F_Shine"
+         transform="rotate(-44.209,303.18,199.483)"
+         class="st5"
+         cx="303.20001"
+         cy="199.5"
+         r="1.8" />
+      <path
+         id="Structure_px_x5F_Orbital_Right_x5F_Shade"
+         class="st6"
+         d="m 305,205.86 c -3.49,0.63 -7.56,-0.37 -10.18,-1.97 -9.78,-5.99 -10.72,-6.56 -15.1,-10.51 -0.04,0.03 -0.07,0.05 -0.09,0.08 -0.23,0.49 6.25,11.42 15.26,14.73 3.82,1.4 7.96,0.77 10.11,-2.33 z" />
+    </g>
+    <g
+       id="Structure_px_x5F_Axes_x5F_01">
+      <path
+         id="Line_Bottom_Right_1_"
+         class="st3"
+         d="m 307.79,204.69 -4.35,-1.86 a 0.74582169,0.74582169 0 1 0 -0.59,1.37 l 4.35,1.86 8.24,3.53 0.59,-1.38 z" />
+    </g>
+  </g>
+  <g
+     transform="translate(-243.24211,-154.29)"
+     id="Structure_py_x5F_Art">
+    <g
+       id="Structure_py_x5F_Axes_x5F_03">
+      <path
+         id="Line_Top_2_"
+         class="st0"
+         d="m 396.03,154.29 v 39.19" />
+      <path
+         id="Line_Bottom_2_"
+         class="st0"
+         d="M 396.03,232.66 V 193.48" />
+      <path
+         id="Line_Top_Right_2_"
+         class="st0"
+         d="m 432.1,178.17 -36.07,15.31" />
+    </g>
+    <g
+       id="Structure_py_x5F_Orbital_Left">
+      <radialGradient
+         id="Structure_py_x5F_Orbital_Left_x5F_Fill_1_"
+         cx="-192.41499"
+         cy="2438.874"
+         r="15.881"
+         fx="-204.12399"
+         fy="2447.5029"
+         gradientTransform="matrix(0.39692363,0.91785164,0.91785164,-0.39692363,-1778.0851,1343.1794)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset=".006"
+           stop-color="#c8a0d0"
+           id="stop127" />
+        <stop
+           offset=".331"
+           stop-color="#c79ecf"
+           id="stop129" />
+        <stop
+           offset=".516"
+           stop-color="#c295cb"
+           id="stop131" />
+        <stop
+           offset=".666"
+           stop-color="#ba87c4"
+           id="stop133" />
+        <stop
+           offset=".798"
+           stop-color="#af74ba"
+           id="stop135" />
+        <stop
+           offset=".916"
+           stop-color="#a05aae"
+           id="stop137" />
+        <stop
+           offset="1"
+           stop-color="#9343a2"
+           id="stop139" />
+      </radialGradient>
+      <path
+         id="Structure_py_x5F_Orbital_Left_x5F_Fill"
+         d="m 396.01,193.36 c -0.55,-0.85 -14.72,-2.85 -21.17,0.7 -4.03,2.22 -6.68,6.32 -4.85,10.55 1.83,4.23 6.55,5.19 10.87,3.58 8.98,-3.36 15.39,-14.34 15.15,-14.83 z"
+         fill="url(#Structure_py_x5F_Orbital_Left_x5F_Fill_1_)"
+         stroke="#591c67"
+         stroke-width="0.25"
+         stroke-miterlimit="10"
+         style="fill:url(#Structure_py_x5F_Orbital_Left_x5F_Fill_1_)" />
+      <circle
+         id="Structure_py_x5F_Orbital_Left_x5F_Shine"
+         transform="rotate(-46.183,372.456,199.547)"
+         class="st5"
+         cx="372.47"
+         cy="199.56"
+         r="1.8" />
+      <path
+         id="Structure_py_x5F_Orbital_Left_x5F_Shade"
+         class="st6"
+         d="m 370.73,205.93 c 3.5,0.61 7.56,-0.42 10.17,-2.04 9.74,-6.05 10.68,-6.63 15.03,-10.61 0.04,0.03 0.07,0.05 0.09,0.08 0.23,0.49 -6.17,11.47 -15.16,14.83 -3.83,1.43 -7.96,0.84 -10.13,-2.26 z" />
+    </g>
+    <g
+       id="Structure_py_x5F_Axes_x5F_02">
+      <path
+         id="Line_Bottom_Right_3_"
+         class="st0"
+         d="M 432.04,208.91 396.03,193.48" />
+      <path
+         id="Line_Top_Left_2_"
+         class="st0"
+         d="m 359.84,178.44 36.19,15.04" />
+    </g>
+    <g
+       id="Structure_py_x5F_Orbital_Right">
+      <radialGradient
+         id="Structure_py_x5F_Orbital_Right_x5F_Fill_1_"
+         cx="-196.186"
+         cy="2041.425"
+         r="15.881"
+         fx="-207.895"
+         fy="2050.054"
+         gradientTransform="rotate(67.112,1502.762,1570.342)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset=".006"
+           stop-color="#c8a0d0"
+           id="stop149" />
+        <stop
+           offset=".331"
+           stop-color="#c79ecf"
+           id="stop151" />
+        <stop
+           offset=".516"
+           stop-color="#c295cb"
+           id="stop153" />
+        <stop
+           offset=".666"
+           stop-color="#ba87c4"
+           id="stop155" />
+        <stop
+           offset=".798"
+           stop-color="#af74ba"
+           id="stop157" />
+        <stop
+           offset=".916"
+           stop-color="#a05aae"
+           id="stop159" />
+        <stop
+           offset="1"
+           stop-color="#9343a2"
+           id="stop161" />
+      </radialGradient>
+      <path
+         id="Structure_py_x5F_Orbital_Right_x5F_Fill"
+         d="m 395.94,193.46 c -0.23,-0.99 8.11,-12.61 15.14,-14.81 4.39,-1.38 9.19,-0.46 10.98,3.79 1.79,4.25 -0.78,8.32 -4.93,10.33 -8.64,4.15 -21,1.19 -21.19,0.69 z"
+         fill="url(#Structure_py_x5F_Orbital_Right_x5F_Fill_1_)"
+         stroke="#591c67"
+         stroke-width="0.25"
+         stroke-miterlimit="10"
+         style="fill:url(#Structure_py_x5F_Orbital_Right_x5F_Fill_1_)" />
+      <circle
+         id="Structure_py_x5F_Orbital_Right_x5F_Shine"
+         transform="translate(-0.283,0.655)"
+         class="st5"
+         cx="416.69"
+         cy="180.73"
+         r="1.8" />
+      <path
+         id="Structure_py_x5F_Orbital_Right_x5F_Shade"
+         class="st6"
+         d="m 422.5,183.88 c -1.98,2.95 -5.53,5.17 -8.5,5.94 -11.1,2.85 -12.17,3.13 -18.06,3.52 a 0.24,0.24 0 0 0 0,0.12 c 0.19,0.51 12.55,3.47 21.19,-0.7 3.68,-1.78 6.11,-5.18 5.37,-8.88 z" />
+    </g>
+    <g
+       id="Structure_py_x5F_Axes_x5F_01">
+      <path
+         id="Line_Bottom_Left_2_"
+         class="st3"
+         d="m 373.36,203.13 a 0.753,0.753 0 0 0 -0.98,-0.4 l -5.73,2.44 -6.97,2.97 0.59,1.38 6.97,-2.97 5.73,-2.44 c 0.38,-0.16 0.56,-0.6 0.39,-0.98 z" />
+    </g>
+  </g>
+  <g
+     transform="translate(-243.24211,-154.29)"
+     id="Structure_pz_x5F_Art">
+    <g
+       id="Structure_pz_x5F_Axes_x5F_03">
+      <path
+         id="Line_Bottom_3_"
+         class="st0"
+         d="M 512.34,232.66 V 193.48" />
+    </g>
+    <g
+       id="Structure_pz_x5F_Orbital_Bottom">
+      <radialGradient
+         id="Structure_pz_x5F_Orbital_Bottom_x5F_Fill_1_"
+         cx="-734.06201"
+         cy="1685.0439"
+         r="20.292999"
+         fx="-749.02399"
+         fy="1696.071"
+         gradientTransform="matrix(-0.7369,-0.0125,0.0115,-0.8001,-48.02,1545.57)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset=".006"
+           stop-color="#c8a0d0"
+           id="stop193" />
+        <stop
+           offset=".331"
+           stop-color="#c79ecf"
+           id="stop195" />
+        <stop
+           offset=".516"
+           stop-color="#c295cb"
+           id="stop197" />
+        <stop
+           offset=".666"
+           stop-color="#ba87c4"
+           id="stop199" />
+        <stop
+           offset=".798"
+           stop-color="#af74ba"
+           id="stop201" />
+        <stop
+           offset=".916"
+           stop-color="#a05aae"
+           id="stop203" />
+        <stop
+           offset="1"
+           stop-color="#9343a2"
+           id="stop205" />
+      </radialGradient>
+      <path
+         id="Structure_pz_x5F_Orbital_Bottom_x5F_Fill"
+         d="m 512.25,193.47 c 3.05,0.18 7.69,15.5 7.63,20.1 -0.07,4.6 -3.59,8.31 -7.83,8.24 -4.24,-0.07 -7.65,-3.9 -7.59,-8.5 0.07,-4.6 4.67,-20.05 7.79,-19.84 z"
+         fill="url(#Structure_pz_x5F_Orbital_Bottom_x5F_Fill_1_)"
+         stroke="#591c67"
+         stroke-width="0.25"
+         stroke-miterlimit="10"
+         style="fill:url(#Structure_pz_x5F_Orbital_Bottom_x5F_Fill_1_)" />
+      <circle
+         id="Structure_pz_x5F_Orbital_Bottom_x5F_Shine"
+         transform="rotate(-66.303,516.5,212.214)"
+         class="st5"
+         cx="516.51001"
+         cy="212.22"
+         r="1.65" />
+      <path
+         id="Structure_pz_x5F_Orbital_Bottom_x5F_Shade"
+         class="st11"
+         d="m 506.82,205.22 c -0.02,-1.73 0.61,-3.81 1.24,-5.91 -1.55,3.56 -2.66,8.33 -3.42,12.03 -0.83,5.35 1.71,9.84 7.77,10.47 3.6,0.07 7.21,-3.59 7.46,-8.32 -1.38,1.96 -3.13,3.14 -5.23,3.1 -4.24,-0.08 -7.76,-5.2 -7.82,-11.37 z" />
+    </g>
+    <g
+       id="Structure_pz_x5F_Axes_x5F_02">
+      <path
+         id="Line_Bottom_Right_2_"
+         class="st0"
+         d="M 548.35,208.91 512.34,193.48" />
+      <path
+         id="Line_Top_Left_3_"
+         class="st0"
+         d="m 476.15,178.44 36.19,15.04" />
+      <path
+         id="Line_Top_Right_3_"
+         class="st0"
+         d="m 548.41,178.17 -36.07,15.31" />
+      <path
+         id="Line_Bottom_Left_3_"
+         class="st0"
+         d="m 476.29,208.83 36.05,-15.35" />
+    </g>
+    <g
+       id="Structure_pz_x5F_Orbital_Top">
+      <radialGradient
+         id="Structure_pz_x5F_Orbital_Top_x5F_Fill_1_"
+         cx="-660.93597"
+         cy="1735.082"
+         r="20.292999"
+         fx="-675.89801"
+         fy="1746.108"
+         gradientTransform="matrix(0.7369,0.0125,-0.0115,0.8001,1019.216,-1199.573)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           offset=".006"
+           stop-color="#c8a0d0"
+           id="stop217" />
+        <stop
+           offset=".331"
+           stop-color="#c79ecf"
+           id="stop219" />
+        <stop
+           offset=".516"
+           stop-color="#c295cb"
+           id="stop221" />
+        <stop
+           offset=".666"
+           stop-color="#ba87c4"
+           id="stop223" />
+        <stop
+           offset=".798"
+           stop-color="#af74ba"
+           id="stop225" />
+        <stop
+           offset=".916"
+           stop-color="#a05aae"
+           id="stop227" />
+        <stop
+           offset="1"
+           stop-color="#9343a2"
+           id="stop229" />
+      </radialGradient>
+      <path
+         id="Structure_pz_x5F_Orbital_Top_x5F_Fill"
+         d="m 512.25,193.47 c -3.05,-0.18 -7.69,-15.5 -7.63,-20.1 0.07,-4.6 3.59,-8.31 7.83,-8.24 4.24,0.07 7.65,3.9 7.59,8.5 -0.06,4.61 -4.67,20.05 -7.79,19.84 z"
+         fill="url(#Structure_pz_x5F_Orbital_Top_x5F_Fill_1_)"
+         stroke="#591c67"
+         stroke-width="0.25"
+         stroke-miterlimit="10"
+         style="fill:url(#Structure_pz_x5F_Orbital_Top_x5F_Fill_1_)" />
+      <path
+         id="Structure_pz_x5F_Orbital_Top_x5F_Shade"
+         class="st11"
+         d="m 512.84,190.1 c -3.05,-0.18 -7.69,-14.7 -7.63,-19.31 0,-0.2 0.02,-0.39 0.04,-0.59 -0.39,0.97 -0.61,2.04 -0.63,3.16 -0.07,4.6 4.57,19.92 7.63,20.1 2.62,0.18 6.28,-10.66 7.43,-16.88 -1.52,6 -4.57,13.68 -6.84,13.52 z" />
+      <circle
+         id="Structure_pz_x5F_Orbital_Top_x5F_Shine"
+         transform="rotate(-66.303,516.37,171.902)"
+         class="st5"
+         cx="516.38"
+         cy="171.91"
+         r="1.65" />
+    </g>
+    <path
+       id="Structure_pz_x5F_Axes_x5F_01"
+       class="st3"
+       d="m 511.59,154.29 v 13.84 c 0,0.41 0.34,0.75 0.75,0.75 0.41,0 0.75,-0.34 0.75,-0.75 v -13.84 z" />
+  </g>
+</svg>
