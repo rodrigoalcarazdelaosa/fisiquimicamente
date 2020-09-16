@@ -34,6 +34,10 @@ subtitle = ""
     tag = "atomic-structure"
 	
   [[content.filter_button]]
+    name = "Periodic Table"
+    tag = "perioodic-table"	
+	
+  [[content.filter_button]]
     name = "Chemical Bond"
     tag = "chemical-bond"	
 	
