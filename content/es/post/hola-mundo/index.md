@@ -54,4 +54,7 @@ Si no quieres perderte ninguna actualización puedes suscribirte al canal de Tel
 ### Contactarme
 Además, puedes escribirme bien utilizando el [formulario de contacto]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [correo electrónico](mailto:rodri.alcaraz@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}} Twitter](https://twitter.com/alcarazr). También puedes seguirme en [{{< icon name="instagram-square" pack="fab" >}} Instagram](https://www.instagram.com/fisiquimicamente/).
 
+#### Chat individual
+En la esquina inferior derecha puedes ver este icono.
+
 Espero que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amigo/a.
