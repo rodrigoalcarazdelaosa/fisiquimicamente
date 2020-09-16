@@ -48,8 +48,8 @@ La **configuración electrónica** es la **distribución** de **electrones** de 
 
 ---
 
-#### Orbitales p
-{{< figure library="true" src="sistema-periodico-4ESO/orbitales-p.svg" title="**Orbitales p** $\rightarrow 3\times 2 = 6\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+#### Orbitales p $\rightarrow 3\times 2 = 6\thinspace\mathrm e^-$
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-p.svg" lightbox="false" width="100%" >}}
 
 ---
 
