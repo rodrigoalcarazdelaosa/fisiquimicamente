@@ -75,7 +75,7 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tabla-periodica-elementos.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://rodrigoalcarazdelaosa.me/blog/2020/08/23/tabla-periodica-de-los-elementos/)." lightbox="false" width="100%" >}}
 
 | Grupo | Configuración electrónica *externa* | Electrones de valencia |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | 1 | ns<sup>1</sup> | 1 |
 
 ## Clasificación de los elementos químicos
