@@ -43,7 +43,7 @@ La **configuración electrónica** es la **distribución** de **electrones** de 
 
 ---
 
-#### Orbitales s
+#### Orbitales s $\rightarrow 2\thinspace\mathrm e^-$
 {{< figure library="true" src="sistema-periodico-4ESO/orbitales-s.svg" title="$2\thinspace\mathrm e^-$." lightbox="false" width="70%" >}}
 
 ---
