@@ -156,13 +156,7 @@
 [[main]]
   name = "✉️ Contacto"
   url = "#contacto"
-  weight = 7
-  
-[[main]]
-  name = ""
-  url = "https://t.me/fisiquimicamente"
-  weight = 8   
-  pre = "<i class='fab fa-telegram-plane'></i>"
+  weight = 7  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
