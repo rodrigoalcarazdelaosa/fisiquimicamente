@@ -70,15 +70,19 @@ El **diagrama de Möller** nos ayuda a saber en qué **orden** han de **llenarse
 
 ---
 
-{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="65%" >}}
 
 ---
 
 ### Estado fundamental
 Estado de **mínima energía**. Electrones ***siguen*** el **diagrama de Möller**.
 
+---
+
 ### Estados excitados
 El **orden** de **llenado** de orbitales **no *sigue*** el **diagrama de Möller**.
+
+---
 
 ### Estados prohibidos
 Algún **orbital** tiene **más electrones** de los **permitidos**.
