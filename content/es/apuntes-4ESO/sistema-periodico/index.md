@@ -78,7 +78,12 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 | :---: | :---: | :---: |
 | 1 | ns<sup>1</sup> | 1 |
 | 2 (y He) | ns<sup>2</sup> | 2 |
-| 3 | ns<sup>2</sup> np<sup>1</sup> | 3 |
+| 13 | ns<sup>2</sup> np<sup>1</sup> | 3 |
+| 14 | ns<sup>2</sup> np<sup>2</sup> | 4 |
+| 15 | ns<sup>2</sup> np<sup>3</sup> | 5 |
+| 16 | ns<sup>2</sup> np<sup>4</sup> | 6 |
+| 17 | ns<sup>2</sup> np<sup>5</sup> | 7 |
+| 18 (salvo He) | ns<sup>2</sup> np<sup>6</sup> | 8 |
 
 ## Clasificación de los elementos químicos
 Los elementos químicos pueden clasificarse en general en **metales**, **semimetales**, **no metales** y **gases nobles**, según sus **propiedades físicas** y **químicas comunes**.
