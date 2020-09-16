@@ -65,7 +65,7 @@ Los **electrones** de **valencia** son los que se encuentran en la **capa más e
 
 ## Ejemplos
 
-{{< figure library="true" src="sistema-periodico-4ESO/diagramas-Bohr.svg" title="**Diagramas de Bohr** del sodio (Na) en diferentes configuraciones electrónicas." lightbox="false" width="100%" >}}
+{{< figure library="true" src="sistema-periodico-4ESO/diagramas-Bohr.svg" title="**Diagramas de Bohr** del **sodio** (Na) en diferentes configuraciones electrónicas." lightbox="false" width="100%" >}}
 
 ## La tabla periódica de los elementos
 La **tabla periódica de los elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados por su número atómico $Z$**.
