@@ -131,14 +131,16 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 ---
 
-### Propiedades periódicas
-
-| Mismo periodo | Mismo grupo |
-| --- | --- |
-| Mismo número de capas electrónicas | Mismo número de e<sup>--</sup> en capa exterior |
-| $Z$ y $A$ aumentan $\rightarrow$ | $Z$ y $A$ aumentan $\downarrow$ |
-| Carácter metálico disminuye $\rightarrow$ | Carácter metálico aumenta $\downarrow$ |
-| Radio atómico disminuye $\rightarrow$ | Radio atómico aumenta $\downarrow$ |
+| Grupo | Configuración electrónica *externa* | Electrones de valencia |
+| :---: | :---: | :---: |
+| 1 | ns<sup>1</sup> | 1 |
+| 2 (y He) | ns<sup>2</sup> | 2 |
+| 13 | ns<sup>2</sup> np<sup>1</sup> | 3 |
+| 14 | ns<sup>2</sup> np<sup>2</sup> | 4 |
+| 15 | ns<sup>2</sup> np<sup>3</sup> | 5 |
+| 16 | ns<sup>2</sup> np<sup>4</sup> | 6 |
+| 17 | ns<sup>2</sup> np<sup>5</sup> | 7 |
+| 18 (salvo He) | ns<sup>2</sup> np<sup>6</sup> | 8 |
 
 {{% /section %}}
 
