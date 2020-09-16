@@ -43,6 +43,8 @@ La **configuración electrónica** es la **distribución** de **electrones** de 
 
 ### Orbitales atómicos
 
+Se trata de **regiones** del **espacio** donde la **probabilidad** de **encontrar** a los **electrones** es **mayor**.
+
 ---
 
 #### Orbitales s $\rightarrow 2\thinspace\mathrm e^-$
