@@ -47,7 +47,7 @@ In the **lower left corner** you can see this icon <svg width="78px" xmlns:dc="h
 In all the blog posts as well as in the 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* me ***kudos*** 👏. There are *likes* and then there are *kudos*. This word, from the Greek κῦδος, means *fame*, *glory* or *prestige*. By giving me kudos you are acknowledging and praising my effort, encouraging me to continue preparing quality materials.
 
 ### Sharing
-You can also **share** all the **blog posts** and 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite social networks.
+You can also <strong>share</strong> all the <strong>blog posts</strong> and 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite social networks.
 
 ### Subscribing
 or subscribe to the RSS feed {{< icon name="rss" pack="fas" >}} so you don't miss any updates. Also, you can write me either using the [contact form]({{< ref "/#contact" >}}), or by writing me directly an [email](mailto:rodri.alcaraz@gmail.com) or from [{{< icon name="twitter" pack="fab" >}} Twitter](https://twitter.com/alcarazr). You can also follow me on [{{< icon name="instagram-square" pack="fab" >}} Instagram](https://www.instagram.com/fisiquimicamente/).
