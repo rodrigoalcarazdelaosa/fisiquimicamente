@@ -24,6 +24,49 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 {{% section %}}
 
+## Configuración electrónica
+- Orbitales atómicos
+- Diagrama de Möller
+- Estados fundamental, excitados y prohibidos
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+La **configuración electrónica** es la **distribución** de **electrones** de un **átomo** en **orbitales atómicos** (s, p, d y f).
+
+---
+
+### Orbitales atómicos
+
+---
+
+#### Orbitales s
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-s.svg" title="**Orbitales s** $\rightarrow 2\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
+---
+
+#### Orbitales p
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-p.svg" title="**Orbitales p** $\rightarrow 3\times 2 = 6\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
+---
+
+#### Orbitales d
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-d.svg" title="**Orbitales d** $\rightarrow 5\times 2 = 10\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
+---
+
+#### Orbitales f
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-f.svg" title="**Orbitales f** $\rightarrow 7\times 2 = 14\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## La tabla periódica de los elementos
 
 La **tabla periódica de los elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados por su número atómico $Z$**.
