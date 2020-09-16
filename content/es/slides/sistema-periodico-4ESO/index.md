@@ -44,7 +44,7 @@ La **configuración electrónica** es la **distribución** de **electrones** de 
 ---
 
 #### Orbitales s
-{{< figure library="true" src="sistema-periodico-4ESO/orbitales-s.svg" title="**Orbitales s** $\rightarrow 2\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-s.svg" title="$2\thinspace\mathrm e^-$." lightbox="false" width="80%" >}}
 
 ---
 
