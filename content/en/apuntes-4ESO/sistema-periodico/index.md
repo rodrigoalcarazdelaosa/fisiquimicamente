@@ -1,12 +1,11 @@
 ---
-title: Atomic Models
-subtitle: Thomson, Rutherford and Bohr Models
-summary: "`COMING SOON` <br> Thomson, Rutherford and Bohr Models."
+title: Periodic Table
+subtitle: Periodic Table and Electron Configuration
+summary: "`COMING SOON` <br> Periodic Table and Electron Configuration."
 tags:
 - 15-16-year-olds
-- atomic-structure
+- periodic-table
 categories:
-- Physics
 - Chemistry
 
 # Optional external URL for project (replaces project detail page).
