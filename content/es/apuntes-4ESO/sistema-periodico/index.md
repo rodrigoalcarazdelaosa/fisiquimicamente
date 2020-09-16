@@ -29,6 +29,10 @@ slides: sistema-periodico-4ESO
 ## Configuración electrónica
 La **configuración electrónica** es la **distribución** de **electrones** de un **átomo** en **orbitales atómicos** (s, p, d y f).
 
+### Orbitales atómicos
+#### Orbitales s
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-s.svg" title="**Orbitales s**. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
 ### Diagrama de Möller
 El **diagrama de Möller** nos ayuda a saber en qué **orden** han de **llenarse** los distintos **orbitales**, siguiendo las **flechas**.
 
