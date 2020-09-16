@@ -35,7 +35,7 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Periodic Table"
-    tag = "perioodic-table"	
+    tag = "periodic-table"	
 	
   [[content.filter_button]]
     name = "Chemical Bond"
