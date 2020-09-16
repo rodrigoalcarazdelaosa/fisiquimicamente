@@ -70,7 +70,7 @@ El **diagrama de Möller** nos ayuda a saber en qué **orden** han de **llenarse
 
 ---
 
-{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="60%" >}}
+{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="70%" >}}
 
 ---
 
