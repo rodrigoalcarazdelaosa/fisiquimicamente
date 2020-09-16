@@ -27,7 +27,9 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ## Configuración electrónica
 - Orbitales atómicos
 - Diagrama de Möller
-- Estados fundamental, excitados y prohibidos
+- Estados fundamental
+- Estados excitados
+- Estados prohibidos
 
 (continúa hacia abajo)
 
@@ -60,6 +62,30 @@ La **configuración electrónica** es la **distribución** de **electrones** de 
 
 #### Orbitales f $\rightarrow 7\times 2 = 14\thinspace\mathrm e^-$
 {{< figure library="true" src="sistema-periodico-4ESO/orbitales-f.svg" lightbox="false" width="100%" >}}
+
+---
+
+### Diagrama de Möller
+El **diagrama de Möller** nos ayuda a saber en qué **orden** han de **llenarse** los distintos **orbitales**, siguiendo las **flechas**.
+
+---
+
+{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
+
+---
+
+### Estado fundamental
+Estado de **mínima energía**. Electrones ***siguen*** el **diagrama de Möller**.
+
+### Estados excitados
+El **orden** de **llenado** de orbitales **no *sigue*** el **diagrama de Möller**.
+
+### Estados prohibidos
+Algún **orbital** tiene **más electrones** de los **permitidos**.
+
+| s | p | d | f |
+| --- | --- | --- | --- |
+| 2 | 6 | 10 | 14 |
 
 {{% /section %}}
 
