@@ -39,7 +39,7 @@ En este blog encontrarás artículos de **opinión**, **curiosidades** sobre **c
 Las entradas de este blog van dirigidas a mis alumnos/as y a todo aquel que tenga curiosidad por la ciencia y/o comparta alguno de mis intereses.
 
 ## ¿Cómo puedes participar?
-### Chat
+### Chat de grupo
 
 ### Kudos 👏
 En todas las entradas del blog así como en los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes *darme* 👏 ***kudos***. Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándome kudos estás reconociendo y alabando mi esfuerzo, animándome a seguir preparando materiales de calidad.
