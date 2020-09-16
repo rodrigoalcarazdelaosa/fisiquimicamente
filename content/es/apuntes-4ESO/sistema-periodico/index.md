@@ -57,7 +57,7 @@ El **orden** de **llenado** de orbitales **no *sigue*** el **diagrama de Möller
 Algún **orbital** tiene **más electrones** de los **permitidos**.
 
 | s | p | d | f |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | 2 | 6 | 10 | 14 |
 
 ## Electrones de valencia
