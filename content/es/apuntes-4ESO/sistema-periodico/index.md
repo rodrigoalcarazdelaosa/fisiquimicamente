@@ -50,6 +50,16 @@ El **diagrama de Möller** nos ayuda a saber en qué **orden** han de **llenarse
 ### Estado fundamental
 Estado de **mínima energía**. Electrones ***siguen*** el **diagrama de Möller**.
 
+### Estados excitados
+El **orden** de **llenado** de orbitales **no *sigue*** el **diagrama de Möller**.
+
+### Estados prohibidos
+Algún **orbital** tiene **más electrones** de los **permitidos**:
+
+| s | p | d | f |
+| --- | --- | --- | --- |
+| 2 | 6 | 10 | 14 |
+
 ## Electrones de valencia
 
 ## Ejemplos
