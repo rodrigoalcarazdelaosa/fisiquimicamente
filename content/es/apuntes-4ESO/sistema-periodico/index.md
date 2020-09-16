@@ -33,6 +33,15 @@ La **configuración electrónica** es la **distribución** de **electrones** de 
 #### Orbitales s
 {{< figure library="true" src="sistema-periodico-4ESO/orbitales-s.svg" title="**Orbitales s** $\rightarrow 2\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
 
+#### Orbitales p
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-p.svg" title="**Orbitales p** $\rightarrow 3\times 2 = 6\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
+#### Orbitales d
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-d.svg" title="**Orbitales d** $\rightarrow 5\times 2 = 10\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
+#### Orbitales f
+{{< figure library="true" src="sistema-periodico-4ESO/orbitales-f.svg" title="**Orbitales f** $\rightarrow 7\times 2 = 14\thinspace\mathrm e^-$. Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
 ### Diagrama de Möller
 El **diagrama de Möller** nos ayuda a saber en qué **orden** han de **llenarse** los distintos **orbitales**, siguiendo las **flechas**.
 
