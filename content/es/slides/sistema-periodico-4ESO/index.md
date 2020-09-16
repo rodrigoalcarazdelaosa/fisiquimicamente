@@ -133,7 +133,7 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 ---
 
-<table style="font-size:36px">
+<table style="font-size:34px">
 <thead>
 <tr>
 <th align="center">Grupo</th>
