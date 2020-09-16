@@ -40,6 +40,7 @@ Las entradas de este blog van dirigidas a mis alumnos/as y a todo aquel que teng
 
 ## ¿Cómo puedes participar?
 ### Chat de grupo
+En la esquina inferior izquierda puedes ver este icono. 
 
 ### Kudos 👏
 En todas las entradas del blog así como en los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes *darme* 👏 ***kudos***. Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándome kudos estás reconociendo y alabando mi esfuerzo, animándome a seguir preparando materiales de calidad.
