@@ -40,9 +40,9 @@ Las entradas de este blog van dirigidas a mis alumnos/as y a todo aquel que teng
 
 ## ¿Cómo puedes participar?
 ### Kudos 👏
+En todas las entradas del blog así como en los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes *darme* 👏 ***kudos***. Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándome kudos estás reconociendo y alabando mi esfuerzo, animándome a seguir preparando materiales de calidad.
 
-En todas las entradas del blog así como en los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes *darme* 👏 ***kudos***[^2], compartir en tus redes sociales favoritas o suscribirte al canal de Telegram {{< icon name="telegram" pack="fab" >}} o RSS {{< icon name="rss" pack="fas" >}} para no perderte ninguna actualización. Además, puedes escribirme bien utilizando el [formulario de contacto]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [correo electrónico](mailto:rodri.alcaraz@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}} Twitter](https://twitter.com/alcarazr). También puedes seguirme en [{{< icon name="instagram-square" pack="fab" >}} Instagram](https://www.instagram.com/fisiquimicamente/).
-
-[^2]: Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándome kudos estás reconociendo y alabando mi esfuerzo, animándome a seguir preparando materiales de calidad.
+### Compartir
+Compartir en tus redes sociales favoritas o suscribirte al canal de Telegram {{< icon name="telegram" pack="fab" >}} o RSS {{< icon name="rss" pack="fas" >}} para no perderte ninguna actualización. Además, puedes escribirme bien utilizando el [formulario de contacto]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [correo electrónico](mailto:rodri.alcaraz@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}} Twitter](https://twitter.com/alcarazr). También puedes seguirme en [{{< icon name="instagram-square" pack="fab" >}} Instagram](https://www.instagram.com/fisiquimicamente/).
 
 Espero que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amigo/a.
