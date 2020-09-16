@@ -47,6 +47,9 @@ El **diagrama de Möller** nos ayuda a saber en qué **orden** han de **llenarse
 
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
 
+### Estado fundamental
+Estado de **mínima energía**. Electrones ***siguen*** el **diagrama de Möller**.
+
 ## Electrones de valencia
 
 ## Ejemplos
