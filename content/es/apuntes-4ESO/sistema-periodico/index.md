@@ -76,7 +76,7 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 | Grupo | Configuración electrónica *externa* | Electrones de valencia |
 | --- | --- | --- |
-| 2 | 6 | 10 |
+| 1 | ns<sup>1</sup> | 1 |
 
 ## Clasificación de los elementos químicos
 Los elementos químicos pueden clasificarse en general en **metales**, **semimetales**, **no metales** y **gases nobles**, según sus **propiedades físicas** y **químicas comunes**.
