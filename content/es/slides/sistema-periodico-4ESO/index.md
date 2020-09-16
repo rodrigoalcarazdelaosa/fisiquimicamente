@@ -25,7 +25,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 {{% section %}}
 
 ## Configuración electrónica
-- Orbitales atómicos
+- [Orbitales atómicos](#/1)
 - Diagrama de Möller
 - Estados fundamental
 - Estados excitados
