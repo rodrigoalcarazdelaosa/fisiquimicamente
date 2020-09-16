@@ -118,7 +118,7 @@
   weight = 2    
 
 [[main]]
-  name = "👨‍🔬 About Me"
+  name = "👨‍🔬 About me"
   url = "about-me/"
   identifier = "sobre-mi"
   weight = 6
