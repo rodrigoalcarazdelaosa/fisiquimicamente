@@ -49,7 +49,7 @@ En todas las entradas del blog así como en los 📚 [<span style="font-variant:
 También puedes <strong>compartir</strong> todas las <strong>entradas</strong> del <strong>blog</strong> así como los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) en tus **redes sociales** favoritas.
 
 ### Suscribirte
-Si no quieres perderte ninguna actualización puedes **suscribirte** al **canal** de **Telegram** {{< icon name="telegram" pack="fab" >}} o **RSS** {{< icon name="rss" pack="fas" >}}.
+Si no quieres perderte ninguna actualización puedes **suscribirte** al **canal** de [**Telegram** {{< icon name="telegram" pack="fab" >}}](https://t.me/fisiquimicamente) o **RSS** {{< icon name="rss" pack="fas" >}}.
 
 ### Contactarme
 Además, puedes escribirme bien utilizando el [formulario de contacto]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [correo electrónico](mailto:rodri.alcaraz@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}} Twitter](https://twitter.com/alcarazr). También puedes seguirme en [{{< icon name="instagram-square" pack="fab" >}} Instagram](https://www.instagram.com/fisiquimicamente/).
