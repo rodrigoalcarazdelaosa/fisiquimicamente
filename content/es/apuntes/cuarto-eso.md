@@ -34,6 +34,10 @@ subtitle = ""
     tag = "estructura-atómica"
 	
   [[content.filter_button]]
+    name = "Sistema periódico"
+    tag = "tabla-periódica"	
+	
+  [[content.filter_button]]
     name = "Enlace químico"
     tag = "enlace-químico"	
 	
