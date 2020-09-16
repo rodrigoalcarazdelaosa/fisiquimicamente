@@ -52,7 +52,7 @@ También puedes <strong>compartir</strong> todas las <strong>entradas</strong> d
 Si no quieres perderte ninguna actualización puedes **suscribirte** al **canal** de [**Telegram** {{< icon name="telegram" pack="fab" >}}](https://t.me/fisiquimicamente) o [**RSS** {{< icon name="rss" pack="fas" >}}](/index.xml).
 
 ### Contactarme
-Además, puedes **escribirme** bien utilizando el [**formulario** de contacto]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [**correo electrónico**](mailto:rodri.alcaraz@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}} Twitter](https://twitter.com/alcarazr). También puedes seguirme en [{{< icon name="instagram-square" pack="fab" >}} Instagram](https://www.instagram.com/fisiquimicamente/).
+Además, puedes **escribirme** bien utilizando el [**formulario** de contacto]({{< ref "/#contacto" >}}), bien escribiéndome directamente un [**correo electrónico**](mailto:rodri.alcaraz@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). También puedes seguirme en [{{< icon name="instagram-square" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/).
 
 #### Chat individual
 En la esquina inferior derecha puedes ver este icono.
