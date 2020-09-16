@@ -10,8 +10,9 @@ slides:
   highlight_style: tomorrow
 ---
 
-# Sistema periódico y configuración electrónica
+# Sistema periódico
 
+- [Configuración electrónica](#/1)
 - [La tabla periódica de los elementos](#/1)
 - [Clasificación de los elementos químicos](#/2)
 - [Uniones entre átomos](#/3)
