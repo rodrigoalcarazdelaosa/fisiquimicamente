@@ -97,6 +97,14 @@ Algún **orbital** tiene **más electrones** de los **permitidos**.
 
 {{% section %}}
 
+## Electrones de valencia
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## La tabla periódica de los elementos
 
 La **tabla periódica de los elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados por su número atómico $Z$**.
