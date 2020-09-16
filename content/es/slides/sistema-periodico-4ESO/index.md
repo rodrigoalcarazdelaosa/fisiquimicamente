@@ -13,10 +13,10 @@ slides:
 # Sistema periódico
 
 - [Configuración electrónica](#/1)
-- [La tabla periódica de los elementos](#/1)
-- [Clasificación de los elementos químicos](#/2)
-- [Uniones entre átomos](#/3)
-- [Elementos y compuestos de especial interés](#/4)
+- [Electrones de valencia](#/2)
+- [Ejemplos](#/3)
+- [La tabla periódica de los elementos](#/4)
+- [Clasificación de los elementos químicos](#/5)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
