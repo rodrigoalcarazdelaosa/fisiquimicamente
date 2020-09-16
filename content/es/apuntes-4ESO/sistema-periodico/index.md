@@ -32,7 +32,7 @@ La **configuración electrónica** es la **distribución** de **electrones** de 
 ### Diagrama de Möller
 El **diagrama de Möller** nos ayuda a saber en qué **orden** han de **llenarse** los distintos **orbitales**, siguiendo las **flechas**.
 
-{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci\%C3\%B3n_electr\%C3\%B3nica.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
 
 ## Electrones de valencia
 
