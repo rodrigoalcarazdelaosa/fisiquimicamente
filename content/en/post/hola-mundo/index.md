@@ -50,7 +50,7 @@ In all the blog posts as well as in the 📚 [<span style="font-variant:small-ca
 You can also <strong>share</strong> all the <strong>blog posts</strong> and 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.
 
 ### Subscribing
-If you don't want to miss any updates you can **subscribe** to the [**RSS** feed {{< icon name="rss" pack="fas" >}}](/en/index.xml).
+If you don't want to miss any **updates** you can **subscribe** to the [**RSS** feed {{< icon name="rss" pack="fas" >}}](/en/index.xml).
 
 ### Contacting me
 Also, you can write me either using the [**contact form**]({{< ref "/#contact" >}}), or by writing me directly an [**email**](mailto:rodri.alcaraz@gmail.com) or from [**Twitter** {{< icon name="twitter" pack="fab" >}}](https://twitter.com/alcarazr). You can also follow me on [**Instagram** {{< icon name="instagram-square" pack="fab" >}}](https://www.instagram.com/fisiquimicamente/).
