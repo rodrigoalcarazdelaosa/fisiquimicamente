@@ -8,7 +8,7 @@ authors:
 tags:
 - color
 image:
-  placement: 2  
+  placement: 1  
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
 ---
 
