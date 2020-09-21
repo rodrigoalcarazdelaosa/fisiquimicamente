@@ -20,5 +20,4 @@ Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wow
 
 Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/rodrigoalcarazdelaosa.me" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status)](https://app.netlify.com/sites/rodrigoalcarazdelaosa/deploys).
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status)](https://app.netlify.com/sites/rodrigoalcarazdelaosa/deploys)
