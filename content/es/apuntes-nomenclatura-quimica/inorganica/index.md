@@ -17,17 +17,12 @@ image:
   caption: https://iupac.org/what-we-do/books/redbook/
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: PDF Texto
+  url: nomenclatura-inorganica-poster.pdf
   
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
-
 ---
 
 {{% alert warning %}}
