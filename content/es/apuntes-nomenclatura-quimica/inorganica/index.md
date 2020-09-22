@@ -20,7 +20,7 @@ image:
 links:
 - icon_pack: fas
   icon: file-download
-  name: PDF Texto
+  name: Póster
   url: nomenclatura-inorganica-poster.pdf
   
 ---
