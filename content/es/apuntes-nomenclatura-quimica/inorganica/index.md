@@ -21,7 +21,7 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Póster
-  url: nomenclatura-inorganica-poster.pdf
+  url: formulacion-nomenclatura-inorganica-poster.pdf
   
 ---
 
