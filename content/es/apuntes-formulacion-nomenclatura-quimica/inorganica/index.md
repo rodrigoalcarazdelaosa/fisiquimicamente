@@ -98,7 +98,7 @@ Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales*
 - CuBrO<sub>2</sub> &rarr; bromito de cobre(1+).
 - NaClO<sub>4</sub> &rarr; perclorato de sodio.
 
-## Óxidos
+## Óxidos E<sub>2</sub>O<sub>n</sub>
 Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y **oxígeno**, con **fórmula general** E<sub>2</sub>O<sub>n</sub>.
 
 ### Peróxidos
