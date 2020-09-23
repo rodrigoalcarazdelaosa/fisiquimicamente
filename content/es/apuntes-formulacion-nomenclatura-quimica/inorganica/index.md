@@ -56,7 +56,7 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 | 10 | deca (decakis) |
 
 ##### Ejemplos
-- O<sub>3</sub>&rarr; trioxígeno.
+- O<sub>3</sub> &rarr; trioxígeno.
 - NaCl &rarr; cloruro de sodio.
 
 #### Sustitución
