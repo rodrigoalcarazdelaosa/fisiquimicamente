@@ -57,6 +57,7 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 
 ##### Ejemplos
 - O<sub>3</sub>&rarr; trioxígeno.
+- NaCl &rarr; cloruro de sodio.
 
 #### Sustitución
 #### Adición
