@@ -94,6 +94,8 @@ Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales*
 ##### Ejemplos
 - H<sub>2</sub>SO<sub>4</sub> &rarr; ácido sulfúrico.
 - HNO<sub>3</sub> &rarr; ácido nítrico.
+- H<sub>2</sub>CO<sub>3</sub> &rarr; ácido carbónico.
+- CuBrO<sub>2</sub> &rarr; bromito de cobre(1+).
 
 ## Óxidos
 ### Peróxidos
