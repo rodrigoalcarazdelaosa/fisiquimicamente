@@ -89,6 +89,7 @@ Utilizando **números de oxidación** en **números romanos** (y sin signo) o **
 - MnO<sub>2</sub> &rarr; óxido de manganeso(4+).
 
 #### Nombres *vulgares*
+Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales**.
 
 ## Óxidos
 ### Peróxidos
