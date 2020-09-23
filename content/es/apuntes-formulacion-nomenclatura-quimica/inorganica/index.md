@@ -40,6 +40,12 @@ En el caso de **compuestos iónicos**, podemos también utilizar los **números 
 
 ### Sistemas de nomenclatura IUPAC 2005
 #### Composición
+También llamada **estequiométrica**, los nombres se indican junto con los **prefijos** que dan la **estequiometría** completa del **compuesto**.
+
+| Número de átomos | Prefijo |
+| :---: | :---: |
+| 1 | mono |
+
 #### Sustitución
 #### Adición
 #### Hidrógeno
