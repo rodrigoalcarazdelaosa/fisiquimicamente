@@ -101,19 +101,7 @@ Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales*
 ## Óxidos E<sub>2</sub>O<sub>n</sub>
 Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y **oxígeno**.
 
-
-\begin{gather*}
-\newcommand{\highlight}[2]{%
-  \colorbox{#1}{\strut$\color{white}\displaystyle#2$}}
-\highlight{TOL_dark_red}{\text{\textsc{prefijo}}}+\highlight{TOL_dark_red}{\text{\textsc{óxido}}} + \highlight{TOL_dark_red}{\text{\textsc{de}}} + \highlight{TOL_dark_red}{\begin{tabular}{c}
-	\textsc{prefijo} \\ (\xcancel{mono--})
-\end{tabular}} + \highlight{TOL_dark_red}{\text{\textsc{elemento}}} \\
-\highlight{TOL_dark_red}{\text{\textsc{óxido}}} + \highlight{TOL_dark_red}{\text{\textsc{de}}} + \highlight{TOL_dark_red}{\text{\textsc{elemento}}} + \highlight{TOL_dark_red}{\begin{tabular}{c}
-	\textsc{(nº oxidación)} \\ (números romanos)
-\end{tabular}\text{ o }\begin{tabular}{c}
-	\textsc{(nº carga)} \\ (números arábigos)
-\end{tabular}}
-\end{gather*}
+{{< hl >}}highlighted quote{{< /hl >}}
 
 ### Peróxidos
 
