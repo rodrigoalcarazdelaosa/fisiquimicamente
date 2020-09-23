@@ -29,6 +29,14 @@ links:
 
 ## Conceptos previos
 ### Números de oxidación/de carga
+Los **números de oxidación** (números romanos) están relacionados con la **capacidad** de un determinado **elemento** para **ceder** (nº oxidación **positivo**) o **captar electrones** (nº oxidación **negativo**).
+
+En el caso de **compuestos iónicos**, podemos también utilizar los **números de carga** (números arábigos seguidos de un signo).
+
+\begin{center}
+	\includegraphics[width=\textwidth]{tabla-periodica-elementos}
+\end{center}
+
 ### Secuencia de los elementos
 ### Sistemas de nomenclatura IUPAC 2005
 #### Composición
