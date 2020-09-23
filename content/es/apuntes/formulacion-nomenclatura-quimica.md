@@ -79,5 +79,5 @@ subtitle = "Recomendaciones de la IUPAC"
 +++
 
 {{% alert note %}}
-También te recomiendo echar un vistazo a los **apuntes** de [**FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los de [**FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
+También te recomiendo echar un vistazo a los **apuntes** de [**FiQuiPedia**](http://www.fiquipedia.es/home/recursos/recursos-apuntes/recursos-apuntes-formulacion#TOC-Apuntes-elaboraci-n-propia) y a los de [**FisQuiWeb**](https://fisquiweb.es/Formulacion/index.htm).
 {{% /alert %}}
