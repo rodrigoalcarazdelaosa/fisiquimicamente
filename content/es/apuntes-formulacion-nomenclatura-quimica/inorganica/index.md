@@ -43,7 +43,7 @@ En el caso de **compuestos iónicos**, podemos también utilizar los **números 
 También llamada **estequiométrica**, los nombres se indican junto con los **prefijos** que dan la **estequiometría** completa del **compuesto**.
 
 | Número de átomos | Prefijo |
-| :---: | :---: |
+| :---: | --- |
 | 1 | mono |
 | 2 | di (bis) |
 | 3 | tri (tris) |
