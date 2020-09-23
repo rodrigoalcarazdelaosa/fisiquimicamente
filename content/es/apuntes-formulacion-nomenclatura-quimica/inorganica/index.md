@@ -70,10 +70,15 @@ PH<sub>3</sub> &rarr; fosfano, PH<sub>2</sub>Cl &rarr; clorofosfano, PHCl<sub>2<
 Utilizada sobretodo para nombrar **complejos** o compuestos de coordinación, también puede emplearse para nombrar **oxácidos**.
 
 ##### Ejemplos
-- PCl<sub>5</sub>&rarr; pentaclorurofósforo.
+- PCl<sub>5</sub> &rarr; pentaclorurofósforo.
 - HBrO = [BrOH] &rarr; hidroxidobromo.
 
 #### Hidrógeno
+Anteponiendo la palabra ***hidrogeno*** (sin tilde), utilizada por ejemplo para nombrar los **oxácidos** del **Cr** y del **Mn** o **sales ácidas**.
+
+##### Ejemplo
+$\ch{Na H C O3}\rightarrow\text{hidrogenocarbonato de sodio}$.
+
 ### Otras nomenclaturas
 #### Números de oxidación y de carga
 #### Nombres *vulgares*
