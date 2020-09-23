@@ -108,6 +108,7 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
 | :---: | --- | --- |
 | Na<sub>2</sub>O | <s>mon</s>óxido de disodio | óxido de sodio |
+| TiO<sub>2</sub> | dióxido de titanio | óxido de titanio(4+) |
 
 ### Peróxidos
 
