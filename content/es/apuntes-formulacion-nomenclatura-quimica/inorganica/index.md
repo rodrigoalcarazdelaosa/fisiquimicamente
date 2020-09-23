@@ -105,6 +105,10 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y
 
 {{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
+| Fórmula | Nombre composición | Nombre nº oxidación/carga |
+| :---: | --- | --- |
+| Na<sub>2</sub>O | <s>mon</s>óxido de disodio | óxido de sodio |
+
 ### Peróxidos
 
 ## Hidruros
