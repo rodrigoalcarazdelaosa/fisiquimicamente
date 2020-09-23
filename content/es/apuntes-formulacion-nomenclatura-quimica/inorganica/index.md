@@ -99,6 +99,8 @@ Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales*
 - NaClO<sub>4</sub> &rarr; perclorato de sodio.
 
 ## Óxidos
+Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y **oxígeno**, con **fórmula general** E<sub>2</sub>O<sub>n</sub>.
+
 ### Peróxidos
 
 ## Hidruros
