@@ -96,6 +96,7 @@ Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales*
 - HNO<sub>3</sub> &rarr; ácido nítrico.
 - H<sub>2</sub>CO<sub>3</sub> &rarr; ácido carbónico.
 - CuBrO<sub>2</sub> &rarr; bromito de cobre(1+).
+- NaClO<sub>4</sub> &rarr; perclorato de sodio.
 
 ## Óxidos
 ### Peróxidos
