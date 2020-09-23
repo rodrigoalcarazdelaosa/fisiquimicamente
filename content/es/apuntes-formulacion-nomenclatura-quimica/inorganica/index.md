@@ -1,7 +1,7 @@
 ---
 title: Formulación y nomenclatura de Química Inorgánica
 subtitle: Recomendaciones de la IUPAC de 2005
-summary: "<code style='background: #ffcccc;'>EN CONSTRUCCIÓN</code> <br> Recomendaciones de la IUPAC de 2005."
+summary: "Recomendaciones de la IUPAC de 2005."
 tags:
 - formulación
 - nomenclatura
@@ -25,6 +25,39 @@ links:
   
 ---
 
-{{% alert warning %}}
-En construcción...
-{{% /alert %}}
+{{% toc %}}
+
+## Conceptos previos
+### Números de oxidación/de carga
+### Secuencia de los elementos
+### Sistemas de nomenclatura IUPAC 2005
+#### Composición
+#### Sustitución
+#### Adición
+#### Hidrógeno
+### Otras nomenclaturas
+#### Números de oxidación y de carga
+#### Nombres *vulgares*
+
+## Óxidos
+### Peróxidos
+
+## Hidruros
+### Hidruros progenitores
+
+## Hidróxidos o bases
+
+## Oxácidos
+### Ácidos modelos
+### Ácidos de Cr y Mn
+### Ácidos meta y orto
+### Ácidos di, tri, etc.
+
+## Sales
+### Sales neutras binarias
+### Sales neutras ternarias u oxisales
+### Sales ácidas
+
+## Iones
+### Cationes
+### Aniones
