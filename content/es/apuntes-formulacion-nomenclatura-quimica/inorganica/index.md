@@ -45,6 +45,15 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 | Número de átomos | Prefijo |
 | :---: | :---: |
 | 1 | mono |
+| 2 | di (bis) |
+| 3 | tri (tris) |
+| 4 | tetra (tetrakis) |
+| 5 | penta (pentakis) |
+| 6 | hexa (hexakis) |
+| 7 | hepta (heptakis) |
+| 8 | octa (octakis) |
+| 9 | nona (nonakis) |
+| 10 | deca (decakis) |
 
 #### Sustitución
 #### Adición
