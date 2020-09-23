@@ -56,7 +56,7 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 | 10 | deca (decakis) |
 
 ##### Ejemplos
-- $\mathrm O_3 \rightarrow \text{trioxígeno}$
+- O<sub>3</sub>$\ \rightarrow\$ trioxígeno.
 
 #### Sustitución
 #### Adición
