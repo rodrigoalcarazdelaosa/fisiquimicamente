@@ -78,3 +78,6 @@ subtitle = "Recomendaciones de la IUPAC"
  css_class = ""
 +++
 
+{{% alert note %}}
+También te recomiendo echar un vistazo a las [***pizarras* de FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes de FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
+{{% /alert %}}
