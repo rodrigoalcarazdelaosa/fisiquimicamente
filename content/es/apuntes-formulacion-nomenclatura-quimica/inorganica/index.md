@@ -103,7 +103,7 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y
 
 <span class="markup-quote">prefijo</span>
 
-{{< hl  >}}PREFIJO{{< /hl >}}
+{{< hl >}}PREFIJO{{< /hl >}}
 
 ### Peróxidos
 
