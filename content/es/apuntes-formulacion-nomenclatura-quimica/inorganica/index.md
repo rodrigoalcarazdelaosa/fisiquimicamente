@@ -76,8 +76,9 @@ Utilizada sobretodo para nombrar **complejos** o compuestos de coordinación, ta
 #### Hidrógeno
 Anteponiendo la palabra ***hidrogeno*** (sin tilde), utilizada por ejemplo para nombrar los **oxácidos** del **Cr** y del **Mn** o **sales ácidas**.
 
-##### Ejemplo
-NaHCO<sub>3</sub> &rarr; hidrogenocarbonato de sodio.
+##### Ejemplos
+- H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> &rarr; dihidrogeno(heptaoxidodicromato).
+- NaHCO<sub>3</sub> &rarr; hidrogenocarbonato de sodio.
 
 ### Otras nomenclaturas
 #### Números de oxidación y de carga
