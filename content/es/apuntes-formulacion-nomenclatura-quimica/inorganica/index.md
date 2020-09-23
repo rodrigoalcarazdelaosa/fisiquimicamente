@@ -33,9 +33,7 @@ Los **números de oxidación** (números romanos) están relacionados con la **c
 
 En el caso de **compuestos iónicos**, podemos también utilizar los **números de carga** (números arábigos seguidos de un signo).
 
-\begin{center}
-	\includegraphics[width=\textwidth]{tabla-periodica-elementos}
-\end{center}
+{{< figure library="true" src="formulacion-nomenclatura-quimica-inorganica/tabla-periodica-elementos.svg" lightbox="false" width="100%" >}}
 
 ### Secuencia de los elementos
 ### Sistemas de nomenclatura IUPAC 2005
