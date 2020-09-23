@@ -64,7 +64,7 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 Muy utilizada en **química orgánica**, en inorgánica se emplea para nombrar **derivados** de **hidruros** de algunos **no metales**.
 
 ##### Ejemplos
-$\ch{P H3}\rightarrow\text{fosfano}$, $\ch{P H2 Cl}\rightarrow\text{clorofosfano}$, $\ch{PH Cl2}\rightarrow\text{diclorofosfano}$.
+PH<sub>3</sub> &rarr; fosfano, PH<sub>2</sub>Cl &rarr; clorofosfano, PHCl<sub>2</sub> &rarr; diclorofosfano.
 
 #### Adición
 #### Hidrógeno
