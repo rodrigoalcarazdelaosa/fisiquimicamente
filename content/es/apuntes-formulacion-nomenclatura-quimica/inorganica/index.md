@@ -103,6 +103,8 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y
 
 {{< hl >}}PREFIJO{{< /hl >}} + {{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
 
+{{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}Nº OXIDACIÓN/CARGA{{< /hl >}}
+
 ### Peróxidos
 
 ## Hidruros
