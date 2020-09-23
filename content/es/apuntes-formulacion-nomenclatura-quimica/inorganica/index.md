@@ -67,6 +67,12 @@ Muy utilizada en **química orgánica**, en inorgánica se emplea para nombrar *
 PH<sub>3</sub> &rarr; fosfano, PH<sub>2</sub>Cl &rarr; clorofosfano, PHCl<sub>2</sub> &rarr; diclorofosfano.
 
 #### Adición
+Utilizada sobretodo para nombrar **complejos** o compuestos de coordinación, también puede emplearse para nombrar **oxácidos**.
+
+##### Ejemplos
+- PCl<sub>5</sub>&rarr; pentaclorurofósforo.
+- HBrO = [BrOH] &rarr; hidroxidobromo.
+
 #### Hidrógeno
 ### Otras nomenclaturas
 #### Números de oxidación y de carga
