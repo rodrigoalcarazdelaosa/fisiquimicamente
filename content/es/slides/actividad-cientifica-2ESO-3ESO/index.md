@@ -91,20 +91,6 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
-| Fórmula | Nombre composición | Nombre nº oxidación/carga |
-| :---: | --- | --- |
-| Al<sub>2</sub>O<sub>3</sub> | trióxido de dialuminio | óxido de aluminio |
-| CO | monóxido de carbono | óxido de carbono(II) |
-| CO<sub>2</sub> | dióxido de carbono | óxido de carbono(IV) |
-| CrO | monóxido de cromo | óxido de cromo(2+) |
-| Cr<sub>2</sub>O<sub>3</sub> | trióxido de dicromo | óxido de cromo(3+) |
-| CrO<sub>3</sub> | trióxido de cromo | óxido de cromo(VI) |
-| Na<sub>2</sub>O | <s>mon</s>óxido de disodio | óxido de sodio |
-| TiO<sub>2</sub> | dióxido de titanio | óxido de titanio(4+) |
-| SO<sub>3</sub> | trióxido de azufre | óxido de azufre(VI) |
-
----
-
 #### Magnitudes fundamentales del SI
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | :-------: | 
