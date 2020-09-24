@@ -112,7 +112,7 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y
 | SO<sub>3</sub> | trióxido de azufre | óxido de azufre(VI) |
 
 ### Haluros de oxígeno
-Cuando el oxígeno se combina con un halógeno (elemento del grupo 17) el orden de los elementos en la fórmula cambia, estando el oxígeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos:
+Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 17) el orden de los elementos en la fórmula cambia, estando el oxígeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos:
 
 - OF<sub>2</sub> &rarr; difluoruro de oxígeno.
 - OCl<sub>2</sub> &rarr; dicloruro de oxígeno.
