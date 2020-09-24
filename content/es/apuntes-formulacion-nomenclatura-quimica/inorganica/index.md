@@ -164,6 +164,7 @@ Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como
 | TlH<sub>3</sub> | talano | PbH<sub>4</sub> | plumbano | BiH<sub>3</sub> | bismutano | H<sub>2</sub>Po | polano | HAt | astatano |
 
 ## Hidróxidos o bases
+Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y el grupo **hidroxi OH<sup>&ndash;</sup>**.
 
 ## Oxácidos
 ### Ácidos modelos
