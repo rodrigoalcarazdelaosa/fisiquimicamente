@@ -81,7 +81,7 @@ Anteponiendo la palabra ***hidrogeno*** (sin tilde), utilizada por ejemplo para 
 - NaHCO<sub>3</sub> &rarr; hidrogenocarbonato de sodio.
 
 ### Otras nomenclaturas
-#### Números de oxidación y de carga
+#### Números de oxidación o de carga
 Utilizando **números de oxidación** en **números romanos** (y sin signo) o **números de carga** (solo para compuestos iónicos) en **números arábigos** seguidos de un signo. Si solo hay un número de oxidación o de carga, éste se omite.
 
 ##### Ejemplos
