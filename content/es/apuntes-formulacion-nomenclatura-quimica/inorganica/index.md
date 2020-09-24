@@ -151,7 +151,11 @@ Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16**
 | H<sub>2</sub>S | sulfuro de dihidrógeno | &ndash; |
 
 ### Hidruros progenitores
-Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como compuestos progenitores, obteniéndose derivados al sustituir los átomos de hidrógeno por otros átomos y/o grupos.
+Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como **compuestos progenitores**, obteniéndose **derivados** al sustituir los átomos de hidrógeno por otros átomos y/o grupos.
+
+| Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
+| :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
+| BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano (amoniaco) | H<sub>2</sub>O | oxidano (agua) | HF | fluorano |
 
 ## Hidróxidos o bases
 
