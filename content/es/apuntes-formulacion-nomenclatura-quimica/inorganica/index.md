@@ -126,6 +126,9 @@ Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **
 | Fórmula | Nombre |
 | :---: | --- |
 | H<sub>2</sub>O<sub>2</sub> | peróxido de hidrógeno (agua oxigenada) |
+| Na<sub>2</sub>O<sub>2</sub> | peróxido de sodio |
+| MgO<sub>2</sub> | peróxido de magnesio |
+| Fe<sub>2</sub>(O<sub>2</sub>)<sub>3</sub> | peróxido de hierro(3+) |
 
 ## Hidruros
 ### Hidruros progenitores
