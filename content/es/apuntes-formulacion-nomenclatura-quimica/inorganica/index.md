@@ -158,10 +158,10 @@ Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como
 | F | N | F | N | F | N | F | N | F | N |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
 | BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| AlH<sub>3</sub> | alumano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| GaH<sub>3</sub> | galano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| InH<sub>3</sub> | indigano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| TlH<sub>3</sub> | talano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
+| AlH<sub>3</sub> | alumano | SiH<sub>4</sub> | silano | PH<sub>3</sub> | fosfano | H<sub>2</sub>S | sulfano | HCl | clorano |
+| GaH<sub>3</sub> | galano | GeH<sub>4</sub> | germano | AsH<sub>3</sub> | arsano | H<sub>2</sub>Se | selano | HBr | bromano |
+| InH<sub>3</sub> | indigano | SnH<sub>4</sub> | estannano | SbH<sub>3</sub> | estibano | H<sub>2</sub>Te | telano | HI | yodano |
+| TlH<sub>3</sub> | talano | PbH<sub>4</sub> | plumbano | BiH<sub>3</sub> | bismutano | H<sub>2</sub>Po | polano | HAt | astatano |
 
 ## Hidróxidos o bases
 
