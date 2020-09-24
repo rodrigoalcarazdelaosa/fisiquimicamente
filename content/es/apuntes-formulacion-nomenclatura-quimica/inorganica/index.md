@@ -135,6 +135,10 @@ Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **
 ## Hidruros EH<sub>n</sub>
 Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e **hidrógeno (H)**.
 
+{{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
+
+{{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+
 ### Hidruros progenitores
 
 ## Hidróxidos o bases
