@@ -163,8 +163,19 @@ Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como
 | InH<sub>3</sub> | indigano | SnH<sub>4</sub> | estannano | SbH<sub>3</sub> | estibano | H<sub>2</sub>Te | telano | HI | yodano |
 | TlH<sub>3</sub> | talano | PbH<sub>4</sub> | plumbano | BiH<sub>3</sub> | bismutano | H<sub>2</sub>Po | polano | HAt | astatano |
 
-## Hidróxidos o bases
+## Hidróxidos o bases M(OH)<sub>n</sub>
 Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y el grupo **hidroxi OH<sup>&ndash;</sup>**.
+
+{{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
+
+{{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+
+| Fórmula | Nombre composición | Nombre nº oxidación/carga |
+| :---: | --- | --- |
+| NaOH | <s>mono</s>hidróxido de sodio | hidróxido de sodio |
+| Ca(OH)<sub>2</sub> | dihidróxido de calcio | hidróxido de calcio |
+| Cr(OH)<sub>3</sub> | trihidróxido de cromo | hidróxido de cromo(3+) |
+| Pt(OH)<sub>4</sub> | tetrahidróxido de platino | hidróxido de platino(4+) |
 
 ## Oxácidos
 ### Ácidos modelos
