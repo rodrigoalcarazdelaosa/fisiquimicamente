@@ -132,7 +132,7 @@ Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **
 | MgO<sub>2</sub> | peróxido de magnesio |
 | Fe<sub>2</sub>(O<sub>2</sub>)<sub>3</sub> | peróxido de hierro(3+) |
 
-## Hidruros
+## Hidruros EH<sub>n</sub>
 Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e **hidrógeno (H)**.
 
 ### Hidruros progenitores
