@@ -137,7 +137,7 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e
 
 {{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
 
-{{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+{{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
 ### Hidruros progenitores
 
