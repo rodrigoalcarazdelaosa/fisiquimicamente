@@ -107,6 +107,7 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y
 
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
 | :---: | --- | --- |
+| Al<sub>2</sub>O<sub>3</sub> | trióxido de dialuminio | óxido de aluminio |
 | Na<sub>2</sub>O | <s>mon</s>óxido de disodio | óxido de sodio |
 | TiO<sub>2</sub> | dióxido de titanio | óxido de titanio(4+) |
 | SO<sub>3</sub> | trióxido de azufre | óxido de azufre(VI) |
