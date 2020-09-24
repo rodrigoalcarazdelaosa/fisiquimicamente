@@ -139,6 +139,15 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e
 
 {{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
+### Ejemplos
+
+| Fórmula | Nombre composición | Nombre nº oxidación/carga |
+| :---: | --- | --- |
+| LiH | <s>mono</s>hidruro de litio | hidruro de litio |
+| TiO<sub>2</sub> | dióxido de titanio | óxido de titanio(4+) |
+| SO<sub>3</sub> | trióxido de azufre | óxido de azufre(VI) |
+| OF<sub>2</sub> | difluoruro de oxígeno | &ndash; |
+
 ### Hidruros progenitores
 
 ## Hidróxidos o bases
