@@ -105,23 +105,15 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y
 
 {{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
+### Haluros de oxígeno
+Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 17) el orden de los elementos en la fórmula cambia, estando el oxígeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos.
+
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
 | :---: | --- | --- |
-| Al<sub>2</sub>O<sub>3</sub> | trióxido de dialuminio | óxido de aluminio |
-| CO | monóxido de carbono | óxido de carbono(II) |
-| CO<sub>2</sub> | dióxido de carbono | óxido de carbono(IV) |
-| CrO | monóxido de cromo | óxido de cromo(2+) |
-| Cr<sub>2</sub>O<sub>3</sub> | trióxido de dicromo | óxido de cromo(3+) |
-| CrO<sub>3</sub> | trióxido de cromo | óxido de cromo(VI) |
 | Na<sub>2</sub>O | <s>mon</s>óxido de disodio | óxido de sodio |
 | TiO<sub>2</sub> | dióxido de titanio | óxido de titanio(4+) |
 | SO<sub>3</sub> | trióxido de azufre | óxido de azufre(VI) |
-
-### Haluros de oxígeno
-Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 17) el orden de los elementos en la fórmula cambia, estando el oxígeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos:
-
-- OF<sub>2</sub> &rarr; difluoruro de oxígeno.
-- OCl<sub>2</sub> &rarr; dicloruro de oxígeno.
+| OF<sub>2</sub> | difluoruro de oxígeno | &ndash; |
 
 ### Peróxidos
 
