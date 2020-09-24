@@ -153,7 +153,7 @@ Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16**
 ### Hidruros progenitores
 Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como **compuestos progenitores**, obteniéndose **derivados** al sustituir los átomos de hidrógeno por otros átomos y/o grupos[^1].
 
-[^1]: Los nombres oxidano y azano para el H<sub>2</sub>O y el NH<sub>3</sub>, se proponen únicamente para nombrar derivados del agua y del amoniaco, respectivamente.
+[^1]: Los nombres ***oxidano*** y ***azano***, para el **H<sub>2</sub>O** y el **NH<sub>3</sub>**, se proponen únicamente para nombrar **derivados** del **agua** y del **amoniaco**, respectivamente.
 
 | F | N | F | N | F | N | F | N | F | N |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
