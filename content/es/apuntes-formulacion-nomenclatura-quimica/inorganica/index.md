@@ -145,8 +145,8 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e
 | :---: | --- | --- |
 | LiH | <s>mono</s>hidruro de litio | hidruro de litio |
 | AlH<sub>3</sub> | trihidruro de aluminio | hidruro de aluminio |
-| SO<sub>3</sub> | trióxido de azufre | óxido de azufre(VI) |
-| OF<sub>2</sub> | difluoruro de oxígeno | &ndash; |
+| HCl | cloruro de hidrógeno | &ndash; |
+| H<sub>2</sub>S | sulfuro de dihidrógeno | &ndash; |
 
 ### Hidruros progenitores
 
