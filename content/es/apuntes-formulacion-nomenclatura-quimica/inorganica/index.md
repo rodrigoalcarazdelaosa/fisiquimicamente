@@ -158,10 +158,10 @@ Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como
 | F | N | F | N | F | N | F | N | F | N |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
 | BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
+| AlH<sub>3</sub> | alumano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
+| GaH<sub>3</sub> | galano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
+| InH<sub>3</sub> | indigano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
+| TlH<sub>3</sub> | talano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
 
 ## Hidróxidos o bases
 
