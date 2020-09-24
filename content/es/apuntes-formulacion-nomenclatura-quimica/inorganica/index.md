@@ -177,7 +177,7 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 | Cr(OH)<sub>3</sub> | trihidróxido de cromo | hidróxido de cromo(3+) |
 | Pt(OH)<sub>4</sub> | tetrahidróxido de platino | hidróxido de platino(4+) |
 
-## Oxácidos
+## Oxácidos H<sub>a</sub>X<sub>b</sub>O<sub>c</sub>
 ### Ácidos modelos
 ### Ácidos de Cr y Mn
 ### Ácidos meta y orto
