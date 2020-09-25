@@ -238,7 +238,9 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e
 
 ---
 
-{{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+{{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + 
+
+{{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
 ---
 
