@@ -75,7 +75,7 @@ background-color: #2a54a9; }
     text-align: center;
 }
 
-.reveal p .markup-quote {
+.reveal .markup-quote {
     background: $primary_bg;
     color: #000000;
     border-radius: 0.5em;
