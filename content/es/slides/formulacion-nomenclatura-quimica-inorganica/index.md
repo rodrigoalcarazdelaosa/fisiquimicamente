@@ -60,7 +60,7 @@ En el caso de **compuestos iónicos**, podemos también utilizar los **números 
 ---
 
 ### Sistemas de nomenclatura IUPAC 2005
-- [Composición]
+- [Composición](#/2/6)
 - [Sustitución]
 - [Adición]
 - [Hidrógeno]
