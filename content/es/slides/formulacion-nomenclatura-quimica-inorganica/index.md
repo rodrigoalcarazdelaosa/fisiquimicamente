@@ -432,11 +432,11 @@ Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden conte
 
 Sustituyendo el P por As o Sb tenemos los ácidos **arsénico** (H<sub>3</sub>AsO<sub>4</sub>) y **antimónico** (H<sub>3</sub>SbO<sub>4</sub>), respectivamente.
 
-| Elemento | Ácido meta | Ácido + 1$\thinspace$H<sub>2</sub>O | Ácido orto (+2$\thinspace$H<sub>2</sub>O) |
-| :---: | --- | --- | --- |
-| B | HBO<sub>2</sub> (metabórico) | H<sub>3</sub>BO<sub>3</sub> (bórico) | &ndash; |
-| Si | H<sub>2</sub>SiO<sub>2</sub> (metasilícico) | H<sub>4</sub>SiO<sub>4</sub> (silícico) | &ndash; |
-| P | HPO<sub>3</sub> (metafosfórico) | H<sub>3</sub>PO<sub>4</sub> (fosfórico) | &ndash; |
+| Elemento | Ácido meta | Ácido + 1$\thinspace$H<sub>2</sub>O |
+| :---: | --- | --- |
+| B | HBO<sub>2</sub> (metabórico) | H<sub>3</sub>BO<sub>3</sub> (bórico) |
+| Si | H<sub>2</sub>SiO<sub>2</sub> (metasilícico) | H<sub>4</sub>SiO<sub>4</sub> (silícico) |
+| P | HPO<sub>3</sub> (metafosfórico) | H<sub>3</sub>PO<sub>4</sub> (fosfórico) |
 
 ---
 
