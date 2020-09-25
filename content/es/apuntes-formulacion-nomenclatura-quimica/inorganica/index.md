@@ -245,8 +245,7 @@ Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un *
 | :---: | --- | --- |
 | NaClO | HClO (ác. hipocloroso) | hipoclorito de sodio |
 | Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> | H<sub>2</sub>SO<sub>4</sub> (ác. sulfúrico) | sulfato de hierro(3+) |
-| FeS | monosulfuro de hierro | sulfuro de hierro(2+) |
-| NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
+| Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> | H<sub>3</sub>PO<sub>4</sub> (ác. fosfórico) | fosfato de calcio |
 
 ### Sales ácidas
 
