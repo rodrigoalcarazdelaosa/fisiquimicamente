@@ -268,12 +268,83 @@ Los nombres ***oxidano*** y ***azano***, para el **H<sub>2</sub>O** y el **NH<su
 
 ---
 
-| F | N | F | N | F | N | F | N | F | N |
-| :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
-| BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
-| AlH<sub>3</sub> | alumano | SiH<sub>4</sub> | silano | PH<sub>3</sub> | fosfano | H<sub>2</sub>S | sulfano | HCl | clorano |
-| GaH<sub>3</sub> | galano | GeH<sub>4</sub> | germano | AsH<sub>3</sub> | arsano | H<sub>2</sub>Se | selano | HBr | bromano |
-| InH<sub>3</sub> | indigano | SnH<sub>4</sub> | estannano | SbH<sub>3</sub> | estibano | H<sub>2</sub>Te | telano | HI | yodano |
-| TlH<sub>3</sub> | talano | PbH<sub>4</sub> | plumbano | BiH<sub>3</sub> | bismutano | H<sub>2</sub>Po | polano | HAt | astatano |
+<table style="font-size:34px">
+<thead>
+<tr>
+<th align="center">F</th>
+<th>N</th>
+<th align="center">F</th>
+<th>N</th>
+<th align="center">F</th>
+<th>N</th>
+<th align="center">F</th>
+<th>N</th>
+<th align="center">F</th>
+<th>N</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">BH<sub>3</sub></td>
+<td>borano</td>
+<td align="center">CH<sub>4</sub></td>
+<td>metano</td>
+<td align="center">NH<sub>3</sub></td>
+<td>azano</td>
+<td align="center">H<sub>2</sub>O</td>
+<td>oxidano</td>
+<td align="center">HF</td>
+<td>fluorano</td>
+</tr>
+<tr>
+<td align="center">AlH<sub>3</sub></td>
+<td>alumano</td>
+<td align="center">SiH<sub>4</sub></td>
+<td>silano</td>
+<td align="center">PH<sub>3</sub></td>
+<td>fosfano</td>
+<td align="center">H<sub>2</sub>S</td>
+<td>sulfano</td>
+<td align="center">HCl</td>
+<td>clorano</td>
+</tr>
+<tr>
+<td align="center">GaH<sub>3</sub></td>
+<td>galano</td>
+<td align="center">GeH<sub>4</sub></td>
+<td>germano</td>
+<td align="center">AsH<sub>3</sub></td>
+<td>arsano</td>
+<td align="center">H<sub>2</sub>Se</td>
+<td>selano</td>
+<td align="center">HBr</td>
+<td>bromano</td>
+</tr>
+<tr>
+<td align="center">InH<sub>3</sub></td>
+<td>indigano</td>
+<td align="center">SnH<sub>4</sub></td>
+<td>estannano</td>
+<td align="center">SbH<sub>3</sub></td>
+<td>estibano</td>
+<td align="center">H<sub>2</sub>Te</td>
+<td>telano</td>
+<td align="center">HI</td>
+<td>yodano</td>
+</tr>
+<tr>
+<td align="center">TlH<sub>3</sub></td>
+<td>talano</td>
+<td align="center">PbH<sub>4</sub></td>
+<td>plumbano</td>
+<td align="center">BiH<sub>3</sub></td>
+<td>bismutano</td>
+<td align="center">H<sub>2</sub>Po</td>
+<td>polano</td>
+<td align="center">HAt</td>
+<td>astatano</td>
+</tr>
+</tbody>
+</table>
 
 {{% /section %}}
