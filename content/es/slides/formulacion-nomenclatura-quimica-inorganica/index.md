@@ -76,8 +76,6 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 
 ---
 
-##### Prefijos multiplicadores
-
 | Número de átomos | Prefijo |
 | :---: | --- |
 | 1 | mono |
