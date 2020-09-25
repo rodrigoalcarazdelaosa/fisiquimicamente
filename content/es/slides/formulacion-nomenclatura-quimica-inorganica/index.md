@@ -44,9 +44,15 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ### Números de oxidación/carga
 Los **números de oxidación** (números romanos) están relacionados con la **capacidad** de un determinado **elemento** para **ceder** (nº oxidación **positivo**) o **captar electrones** (nº oxidación **negativo**).
 
+---
+
 En el caso de **compuestos iónicos**, podemos también utilizar los **números de carga** (números arábigos seguidos de un signo).
 
+---
+
 {{< figure library="true" src="formulacion-nomenclatura-quimica-inorganica/tabla-periodica-elementos.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://rodrigoalcarazdelaosa.me/media/formulacion-nomenclatura-quimica-inorganica/tabla-periodica-elementos.pdf)." lightbox="false" width="100%" >}}
+
+---
 
 ### Secuencia de los elementos
 {{< figure library="true" src="formulacion-nomenclatura-quimica-inorganica/secuencia-elementos.svg" lightbox="false" width="100%" >}}
