@@ -89,6 +89,8 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 | 7 | hepta (heptakis) |
 | 8 | octa (octakis) |
 
+---
+
 ##### Ejemplos
 - O<sub>3</sub> &rarr; trioxígeno.
 - NaCl &rarr; cloruro de sodio.
