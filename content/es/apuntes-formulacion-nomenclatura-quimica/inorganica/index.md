@@ -260,7 +260,7 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 
 ## Iones
 Un **ión** es una **especie química** con **carga eléctrica**, bien por haber **cedido** (carga positiva &rarr; catión) o **captado** (carga negativa &rarr; anión) **electrones**.
-### Cationes
+### Cationes E<sup>n+</sup>
 | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
 | :---: | --- | :---: | --- | :---: | --- |
 | H<sup>+</sup> | hidrógeno(1+) | Cu<sup>+</sup> | cobre(1+) | Cu<sup>2+</sup> | cobre(2+) |
