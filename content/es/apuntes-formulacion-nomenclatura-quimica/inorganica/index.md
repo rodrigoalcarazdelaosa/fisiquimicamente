@@ -266,7 +266,7 @@ Un **ión** es una **especie química** con **carga eléctrica**, bien por haber
 | H<sup>+</sup> | hidrógeno(1+) | Cu<sup>+</sup> | cobre(1+) | Cu<sup>2+</sup> | cobre(2+) |
 | Cr<sup>3+</sup> | cromo(3+) | H<sub>3</sub>O<sup>+</sup> | oxonio | NH<sub>4</sub><sup>+</sup> | amonio |
 
-### Aniones
+### Aniones E<sup>n-</sup>
 | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
 | :---: | --- | :---: | --- | :---: | --- |
 | H<sup>&ndash;</sup> | hidruro | H<sub>2</sub>PO<sub>3</sub><sup>&ndash;</sup> | dihidrogenofosfito | S<sup>2&ndash;</sup> | sulfuro |
