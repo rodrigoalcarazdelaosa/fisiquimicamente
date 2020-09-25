@@ -356,9 +356,15 @@ Los nombres ***oxidano*** y ***azano***, para el **H<sub>2</sub>O** y el **NH<su
 ## Hidróxidos o bases M(OH)<sub>n</sub>
 Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y el **grupo hidroxi OH<sup>&ndash;</sup>**.
 
+---
+
 {{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
 
+---
+
 {{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+
+---
 
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
 | :---: | --- | --- |
