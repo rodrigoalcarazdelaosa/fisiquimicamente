@@ -93,7 +93,7 @@ Utilizando **números de oxidación** en **números romanos** (y sin signo) o **
 - PCl<sub>5</sub> &rarr; cloruro de fósforo(V).
 - MnO<sub>2</sub> &rarr; óxido de manganeso(4+).
 
-#### Nombres *vulgares*
+#### Nombres *vulgares* aceptados
 Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales**.
 
 ##### Ejemplos
