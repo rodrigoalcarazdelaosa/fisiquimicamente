@@ -78,18 +78,13 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 
 ##### Prefijos multiplicadores
 
-| Número de átomos | Prefijo |
-| :---: | --- |
-| 1 | mono |
-| 2 | di (bis) |
-| 3 | tri (tris) |
-| 4 | tetra (tetrakis) |
-| 5 | penta (pentakis) |
-| 6 | hexa (hexakis) |
-| 7 | hepta (heptakis) |
-| 8 | octa (octakis) |
-| 9 | nona (nonakis) |
-| 10 | deca (decakis) |
+| Nº de átomos | Prefijo | Nº de átomos | Prefijo |
+| :---: | --- | :---: | --- |
+| 1 | mono | 6 | hexa (hexakis) |
+| 2 | di (bis) | 7 | hepta (heptakis) |
+| 3 | tri (tris) | 8 | octa (octakis) |
+| 4 | tetra (tetrakis) | 9 | nona (nonakis) |
+| 5 | penta (pentakis) | 10 | deca (decakis) |
 
 ##### Ejemplos
 - O<sub>3</sub> &rarr; trioxígeno.
