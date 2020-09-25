@@ -378,3 +378,55 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 | Pt(OH)<sub>4</sub> | tetrahidróxido de platino | hidróxido de platino(4+) |
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Oxácidos H<sub>a</sub>X<sub>b</sub>O<sub>c</sub>
+Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
+
+### Ácidos modelo
+En la siguiente tabla, el Cl puede sustituirse por Br o I, y el S por Se o Te.
+
+| Fórmula | Nº oxidación X | Nombre *vulgar* |
+| :---: | :---: | --- | --- |
+| HClO<sub>4</sub> | VII | ácido perclórico |
+| HClO<sub>3</sub> | V | ácido clórico |
+| HClO<sub>2</sub> | III | ácido cloroso |
+| HClO | I | ácido hipocloroso |
+| H<sub>2</sub>SO<sub>4</sub> | VI | ácido sulfúrico |
+| H<sub>2</sub>SO<sub>3</sub> | IV | ácido sulfuroso |
+| HNO<sub>3</sub> | V | ácido nítrico |
+| HNO<sub>2</sub> | III | ácido nitroso |
+| H<sub>2</sub>CO<sub>3</sub> | IV | ácido carbónico |
+
+### Ácidos de Cr y Mn
+Los **ácidos** del **cromo** y del **manganeso** ya no tienen nombres *vulgares* aceptados, pero pueden nombrarse *fácilmente* con la **nomenclatura** de **hidrógeno**:
+
+| Fórmula | Nº oxidación X | Nombre (hidrógeno) |
+| :---: | :---: | --- |
+| H<sub>2</sub>CrO<sub>4</sub> | VI | dihidrogeno(tetraoxidocromato) |
+| H<sub>2</sub>MnO<sub>4</sub> | VI | dihidrogeno(tetraoxidomanganato) |
+| HMnO<sub>4</sub> | VII | hidrogeno(tetraoxidomanganato) |
+
+### Ácidos meta y orto
+Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden contener más o menos agua, por lo que para distinguirlos utilizamos los prefijos ***meta&ndash;*** (menos agua) y ***orto&ndash;*** (más agua)[^2].
+
+[^2]: Sustituyendo el P por As o Sb tenemos los ácidos **arsénico** (H<sub>3</sub>AsO<sub>4</sub>) y **antimónico** (H<sub>3</sub>SbO<sub>4</sub>), respectivamente.
+
+| Elemento | Ácido meta | Ácido + 1$\thinspace$H<sub>2</sub>O | Ácido orto (+2$\thinspace$H<sub>2</sub>O) |
+| :---: | --- | --- | --- |
+| B | HBO<sub>2</sub> (metabórico) | H<sub>3</sub>BO<sub>3</sub> (bórico) | &ndash; |
+| Si | H<sub>2</sub>SiO<sub>2</sub> (metasilícico) | H<sub>4</sub>SiO<sub>4</sub> (silícico) | &ndash; |
+| P | HPO<sub>3</sub> (metafosfórico) | H<sub>3</sub>PO<sub>4</sub> (fosfórico) | &ndash; |
+| Te | &ndash; | &ndash; | H<sub>6</sub>TeO<sub>6</sub> (ortotelúrico) |
+| I | &ndash; | &ndash; | H<sub>5</sub>IO<sub>6</sub> (ortoperyódico) |
+
+### Ácidos di, tri, etc.
+A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamente una molécula menos de las que condensen de ácido). Así se tienen:
+- H<sub>4</sub>P<sub>2</sub>O<sub>7</sub> &rarr; ácido difosfórico.
+- H<sub>5</sub>P<sub>3</sub>O<sub>10</sub> &rarr; ácido trifosfórico.
+- H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> &rarr; dihidrogeno(heptaoxidodicromato).
+
+{{% /section %}}
