@@ -207,7 +207,11 @@ Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 1
 ### Peróxidos M<sub>2</sub>(O<sub>2</sub>)<sub>n</sub>
 Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **hidrógeno(1+)**, unidos al **anión peróxido O<sub>2</sub><sup>2-</sup>**.
 
-{{< hl >}}PERÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+{{< hl >}}PERÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + 
+
+{{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+
+---
 
 #### Ejemplos
 | Fórmula | Nombre |
