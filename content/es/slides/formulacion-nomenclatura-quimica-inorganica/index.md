@@ -471,7 +471,11 @@ A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamen
 ---
 
 ### Sales neutras binarias X<sub>n</sub>Y<sub>m</sub>
-Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X e Y, con nº de oxidación m y n, respectivamente. El elemento que está a la derecha, Y, está antes que X en la secuencia de elementos, y se **termina en *&ndash;uro*** al nombrarse.
+Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X e Y, con nº de oxidación m y n, respectivamente.
+
+---
+
+El elemento que está a la derecha, Y, está antes que X en la secuencia de elementos, y se **termina en *&ndash;uro*** al nombrarse.
 
 ---
 
@@ -485,7 +489,11 @@ Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X
 ---
 
 ### Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>
-Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo todos los átomos de H por M y cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2-)**.
+
+---
+
+**Derivan de oxácidos** sustituyendo todos los átomos de H por M y cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
 
 ---
 
@@ -499,7 +507,11 @@ Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un *
 ---
 
 ### Sales ácidas M<sub>a</sub>(H<sub>b</sub>X<sub>c</sub>O<sub>d</sub>)<sub>n</sub>
-Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo parte de los átomos de H por M. Se nombran utilizando la **nomenclatura de hidrógeno**, cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**.
+
+---
+
+**Derivan de oxácidos** sustituyendo parte de los átomos de H por M. Se nombran utilizando la **nomenclatura de hidrógeno**, cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
 
 ---
 
