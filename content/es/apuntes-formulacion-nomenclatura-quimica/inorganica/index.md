@@ -259,6 +259,7 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 | KH<sub>2</sub>BO<sub>3</sub> | H<sub>3</sub>BO<sub>3</sub> (ác. bórico) | dihidrogenoborato de potasio |
 
 ## Iones
+Un **ión** es una **especie química** con **carga eléctrica**, bien por haber **cedido** (carga positiva &rarr; catión) o **captado** (carga negativa &rarr; anión) **electrones**.
 ### Cationes
 | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
 | :---: | --- | :---: | --- | :---: | --- |
