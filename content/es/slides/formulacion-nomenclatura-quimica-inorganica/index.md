@@ -60,6 +60,17 @@ En el caso de **compuestos iónicos**, podemos también utilizar los **números 
 ---
 
 ### Sistemas de nomenclatura IUPAC 2005
+- [Composición]
+- [Sustitución]
+- [Adición]
+- [Hidrógeno]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 #### Composición
 También llamada **estequiométrica**, los nombres se indican junto con los **prefijos** que dan la **estequiometría** completa del **compuesto**.
 
