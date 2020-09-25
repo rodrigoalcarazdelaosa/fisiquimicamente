@@ -546,7 +546,7 @@ Un **ión** es una **especie química** con **carga eléctrica**, bien por haber
 ---
 
 ### Aniones E<sup>n&ndash;</sup>
-<table style="font-size:30px">
+<table style="font-size:34px">
 <thead>
 <tr>
 <th align="center">Fórmula</th>
