@@ -246,6 +246,8 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e
 
 Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16** o **17**, el orden de los elementos en la fórmula cambia, estando el hidrógeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos (acabando en ***&ndash;uro*** el otro elemento).
 
+---
+
 ### Ejemplos
 
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
