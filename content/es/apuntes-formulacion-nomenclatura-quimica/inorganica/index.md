@@ -228,7 +228,7 @@ A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamen
 - H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> &rarr; dihidrogeno(heptaoxidodicromato).
 
 ## Sales
-### Sales neutras binarias XnYm
+### Sales neutras binarias X<sub>n</sub>Y<sub>m</sub>
 Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X e Y, con nº de oxidación m y n, respectivamente. El elemento que está a la derecha, Y, está antes que X en la secuencia de elementos, y se **termina en *&ndash;uro*** al nombrarse.
 
 ### Sales neutras ternarias u oxisales
