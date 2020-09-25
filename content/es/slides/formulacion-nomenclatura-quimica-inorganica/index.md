@@ -131,15 +131,30 @@ Anteponiendo la palabra ***hidrogeno*** (sin tilde), utilizada por ejemplo para 
 ---
 
 ### Otras nomenclaturas
+- [Números de oxidación o de carga]
+- [Nombres *vulgares*]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 #### Números de oxidación o de carga
 Utilizando **números de oxidación** en **números romanos** (y sin signo) o **números de carga** (solo para compuestos iónicos) en **números arábigos** seguidos de un signo. Si solo hay un número de oxidación o de carga, éste se omite.
+
+---
 
 ##### Ejemplos
 - PCl<sub>5</sub> &rarr; cloruro de fósforo(V).
 - MnO<sub>2</sub> &rarr; óxido de manganeso(4+).
 
+---
+
 #### Nombres *vulgares*
 Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales**.
+
+---
 
 ##### Ejemplos
 - H<sub>2</sub>SO<sub>4</sub> &rarr; ácido sulfúrico.
