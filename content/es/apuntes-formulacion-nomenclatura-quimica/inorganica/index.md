@@ -215,6 +215,7 @@ Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden conte
 | Elemento | Ácido meta | Ácido + 1$\thinspace$H<sub>2</sub>O | Ácido orto (+2$\thinspace$H<sub>2</sub>O) |
 | :---: | --- | --- | --- |
 | B | HBO<sub>2</sub> (metabórico) | H<sub>3</sub>BO<sub>3</sub> (bórico) | &ndash; |
+| Si | H<sub>2</sub>SiO<sub>2</sub> (metasilícico) | H<sub>4</sub>SiO<sub>4</sub> (silícico) | &ndash; |
 
 ### Ácidos di, tri, etc.
 
