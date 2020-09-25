@@ -57,6 +57,8 @@ En el caso de **compuestos iónicos**, podemos también utilizar los **números 
 ### Secuencia de los elementos
 {{< figure library="true" src="formulacion-nomenclatura-quimica-inorganica/secuencia-elementos.svg" lightbox="false" width="100%" >}}
 
+---
+
 ### Sistemas de nomenclatura IUPAC 2005
 #### Composición
 También llamada **estequiométrica**, los nombres se indican junto con los **prefijos** que dan la **estequiometría** completa del **compuesto**.
