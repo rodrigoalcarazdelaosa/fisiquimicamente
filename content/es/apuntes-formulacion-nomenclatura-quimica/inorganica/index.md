@@ -188,6 +188,7 @@ Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X
 | HClO<sub>2</sub> | III | ácido cloroso | |
 | HClO | I | ácido hipocloroso | |
 | H<sub>2</sub>SO<sub>4</sub> | VI | ácido sulfúrico | |
+| H<sub>2</sub>SO<sub>3</sub> | IV | ácido sulfuroso | |
 
 ### Ácidos de Cr y Mn
 ### Ácidos meta y orto
