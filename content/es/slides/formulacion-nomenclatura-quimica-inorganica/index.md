@@ -31,8 +31,8 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ## Conceptos previos
 
 - [Números de oxidación/carga](#/2/1)
-- [Secuencia de los elementos](#/2/2)
-- [Sistemas de nomenclatura IUPAC 2005](#/2/4)
+- [Secuencia de los elementos](#/2/4)
+- [Sistemas de nomenclatura IUPAC 2005](#/2/5)
 - [Otras nomenclaturas](#/2/1)
 
 (continúa hacia abajo)
