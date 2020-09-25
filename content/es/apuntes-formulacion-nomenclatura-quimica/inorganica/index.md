@@ -208,7 +208,9 @@ Los **ácidos** del **cromo** y del **manganeso** ya no tienen nombres *vulgares
 | HMnO<sub>4</sub> | VII | hidrogeno(tetraoxidomanganato) |
 
 ### Ácidos meta y orto
-Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden contener más o menos agua, por lo que para distinguirlos utilizamos los prefijos ***meta&ndash;*** (menos agua) y ***orto&ndash;*** (más agua).
+Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden contener más o menos agua, por lo que para distinguirlos utilizamos los prefijos ***meta&ndash;*** (menos agua) y ***orto&ndash;*** (más agua)[^2].
+
+[^2]: Sustituyendo el P por As o Sb tenemos los ácidos arsénico () y antimónico (), respectivamente.
 
 | Elemento | Ácido meta | Ácido + 1$\thinspace$H<sub>2</sub>O | Ácido orto (+2$\thinspace$H<sub>2</sub>O) |
 | :---: | --- | --- | --- |
