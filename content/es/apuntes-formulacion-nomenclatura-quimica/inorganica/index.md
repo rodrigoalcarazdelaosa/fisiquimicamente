@@ -271,3 +271,4 @@ Un **ión** es una **especie química** con **carga eléctrica**, bien por haber
 | :---: | --- | :---: | --- | :---: | --- |
 | H<sup>&ndash;</sup> | hidruro | H<sub>2</sub>PO<sub>3</sub><sup>&ndash;</sup> | dihidrogenofosfito | S<sup>2&ndash;</sup> | sulfuro |
 | ClO<sub>4</sub><sup>&ndash;</sup> | perclorato | HCO<sub>3</sub><sup>&ndash;</sup> | hidrogenocarbonato | NO<sub>3</sub><sup>&ndash;</sup> | nitrato |
+| O<sup>2&ndash;</sup> | óxido | H<sub>2</sub>BO<sub>3</sub><sup>&ndash;</sup> | dihidrogenoborato | SO<sub>3</sub><sup>2&ndash;</sup> | sulfito |
