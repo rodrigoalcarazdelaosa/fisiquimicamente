@@ -22,7 +22,8 @@ links:
   icon: file-download
   name: Póster
   url: formulacion-nomenclatura-inorganica-poster.pdf
-  
+
+slides: formulacion-nomenclatura-quimica-inorganica  
 ---
 
 {{% alert warning %}}
