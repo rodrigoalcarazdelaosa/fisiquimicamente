@@ -76,7 +76,7 @@ background-color: #2a54a9; }
 }
 
 .reveal .markup-quote {
-    background: $primary_bg;
+    background: #BBCCEE;
     color: #000000;
     border-radius: 0.5em;
   //  border: 1px solid $primary;
