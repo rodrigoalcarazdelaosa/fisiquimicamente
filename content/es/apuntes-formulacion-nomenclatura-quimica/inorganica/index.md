@@ -25,7 +25,11 @@ links:
   
 ---
 
-{{% toc %}}
+{{% alert warning %}}
+En construcción...
+{{% /alert %}}
+
+<!-- {{% toc %}}
 
 ## Conceptos previos
 ### Números de oxidación/de carga
@@ -230,4 +234,4 @@ A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamen
 
 ## Iones
 ### Cationes
-### Aniones
+### Aniones -->
