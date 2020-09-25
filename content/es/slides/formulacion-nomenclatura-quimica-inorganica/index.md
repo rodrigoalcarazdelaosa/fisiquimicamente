@@ -415,11 +415,15 @@ En la siguiente tabla, el S puede sustituirse por Se o Te.
 ### Ácidos de Cr y Mn
 Los **ácidos** del **cromo** y del **manganeso** ya no tienen nombres *vulgares* aceptados, pero pueden nombrarse *fácilmente* con la **nomenclatura** de **hidrógeno**:
 
+---
+
 | Fórmula | Nº oxidación X | Nombre (hidrógeno) |
 | :---: | :---: | --- |
 | H<sub>2</sub>CrO<sub>4</sub> | VI | dihidrogeno(tetraoxidocromato) |
 | H<sub>2</sub>MnO<sub>4</sub> | VI | dihidrogeno(tetraoxidomanganato) |
 | HMnO<sub>4</sub> | VII | hidrogeno(tetraoxidomanganato) |
+
+---
 
 ### Ácidos meta y orto
 Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden contener más o menos agua, por lo que para distinguirlos utilizamos los prefijos ***meta&ndash;*** (menos agua) y ***orto&ndash;*** (más agua)[^2].
