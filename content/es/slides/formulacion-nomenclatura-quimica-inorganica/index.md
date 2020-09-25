@@ -389,7 +389,7 @@ Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X
 ---
 
 ### Ácidos modelo
-En la siguiente tabla, el Cl puede sustituirse por Br o I
+En la siguiente tabla, el Cl puede sustituirse por Br o I.
 
 | Fórmula | Nº oxidación X | Nombre *vulgar* |
 | :---: | :---: | --- | --- |
