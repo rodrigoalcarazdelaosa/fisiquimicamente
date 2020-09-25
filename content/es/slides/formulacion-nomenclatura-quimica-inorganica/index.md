@@ -389,7 +389,7 @@ Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X
 ---
 
 ### Ácidos modelo
-En la siguiente tabla, el Cl puede sustituirse por Br o I, y el S por Se o Te.
+En la siguiente tabla, el Cl puede sustituirse por Br o I
 
 | Fórmula | Nº oxidación X | Nombre *vulgar* |
 | :---: | :---: | --- | --- |
@@ -397,11 +397,20 @@ En la siguiente tabla, el Cl puede sustituirse por Br o I, y el S por Se o Te.
 | HClO<sub>3</sub> | V | ácido clórico |
 | HClO<sub>2</sub> | III | ácido cloroso |
 | HClO | I | ácido hipocloroso |
+
+---
+
+En la siguiente tabla, el S puede sustituirse por Se o Te.
+
+| Fórmula | Nº oxidación X | Nombre *vulgar* |
+| :---: | :---: | --- | --- |
 | H<sub>2</sub>SO<sub>4</sub> | VI | ácido sulfúrico |
 | H<sub>2</sub>SO<sub>3</sub> | IV | ácido sulfuroso |
 | HNO<sub>3</sub> | V | ácido nítrico |
 | HNO<sub>2</sub> | III | ácido nitroso |
 | H<sub>2</sub>CO<sub>3</sub> | IV | ácido carbónico |
+
+---
 
 ### Ácidos de Cr y Mn
 Los **ácidos** del **cromo** y del **manganeso** ya no tienen nombres *vulgares* aceptados, pero pueden nombrarse *fácilmente* con la **nomenclatura** de **hidrógeno**:
