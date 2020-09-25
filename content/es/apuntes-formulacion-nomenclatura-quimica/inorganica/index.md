@@ -199,6 +199,12 @@ En la siguiente tabla, el Cl puede sustituirse por Br o I, y el S por Se o Te.
 | H<sub>2</sub>CO<sub>3</sub> | IV | ácido carbónico |
 
 ### Ácidos de Cr y Mn
+Los **ácidos** del **cromo** y del **manganeso** ya no tienen nombres *vulgares* aceptados, pero pueden nombrarse *fácilmente* con la **nomenclatura** de **hidrógeno**:
+
+| Fórmula | Nº oxidación X | Nombre (hidrógeno) |
+| :---: | :---: | --- |
+| H<sub>2</sub>CrO<sub>4</sub> | VI | dihidrogeno(tetraoxidocromato) |
+
 ### Ácidos meta y orto
 ### Ácidos di, tri, etc.
 
