@@ -31,6 +31,5 @@ image:
 ---
 
 {{% alert warning %}}
-En construcción
-...
+En construcción...
 {{% /alert %}}
