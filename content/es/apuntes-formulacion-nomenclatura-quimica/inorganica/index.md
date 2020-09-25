@@ -254,7 +254,7 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 | Fórmula | Ácido | Sal |
 | :---: | --- | --- |
 | Fe(HSO<sub>3</sub>)<sub>2</sub> | H<sub>2</sub>SO<sub>3</sub> (ác. sulfuroso) | hidrogenosulfito de hierro(2+) |
-| Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> | H<sub>3</sub>PO<sub>4</sub> (ác. fosfórico) | fosfato de calcio |
+| NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub> | H<sub>3</sub>PO<sub>4</sub> (ác. fosfórico) | dihidrogenofosfato de amonio |
 | BaCO<sub>3</sub> | H<sub>2</sub>CO<sub>3</sub> (ác. carbónico) | carbonato de bario |
 
 ## Iones
