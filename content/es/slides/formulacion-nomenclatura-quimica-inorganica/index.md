@@ -134,7 +134,7 @@ Anteponiendo la palabra ***hidrogeno*** (sin tilde), utilizada por ejemplo para 
 
 ### Otras nomenclaturas
 - [Números de oxidación o de carga](#/2/16)
-- [Nombres *vulgares*]
+- [Nombres *vulgares* aceptados]
 
 (continúa hacia abajo)
 
