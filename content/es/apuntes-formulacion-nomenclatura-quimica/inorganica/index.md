@@ -189,7 +189,7 @@ En la siguiente tabla, el Cl puede sustituirse por Br o I, y el S por Se o Te.
 | HClO<sub>3</sub> | V | ácido clórico |
 | HClO<sub>2</sub> | III | ácido cloroso |
 | HClO | I | ácido hipocloroso |
-| | | |
+
 | H<sub>2</sub>SO<sub>4</sub> | VI | ácido sulfúrico |
 | H<sub>2</sub>SO<sub>3</sub> | IV | ácido sulfuroso |
 | | | |
