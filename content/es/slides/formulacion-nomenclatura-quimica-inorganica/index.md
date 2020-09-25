@@ -454,3 +454,56 @@ A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamen
 - H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> &rarr; dihidrogeno(heptaoxidodicromato).
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Sales
+### Sales neutras binarias X<sub>n</sub>Y<sub>m</sub>
+Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X e Y, con nº de oxidación m y n, respectivamente. El elemento que está a la derecha, Y, está antes que X en la secuencia de elementos, y se **termina en *&ndash;uro*** al nombrarse.
+
+| Fórmula | Nombre composición | Nombre nº oxidación/carga |
+| :---: | --- | --- |
+| NaCl | <s>mono</s>cloruro de sodio | cloruro de sodio |
+| MgF<sub>2</sub> | difluoruro de magnesio | fluoruro de magnesio |
+| FeS | monosulfuro de hierro | sulfuro de hierro(2+) |
+| NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
+
+### Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>
+Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo todos los átomos de H por M y cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+
+| Fórmula | Ácido | Sal |
+| :---: | --- | --- |
+| NaClO | HClO (ác. hipocloroso) | hipoclorito de sodio |
+| Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> | H<sub>2</sub>SO<sub>4</sub> (ác. sulfúrico) | sulfato de hierro(3+) |
+| Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> | H<sub>3</sub>PO<sub>4</sub> (ác. fosfórico) | fosfato de calcio |
+| BaCO<sub>3</sub> | H<sub>2</sub>CO<sub>3</sub> (ác. carbónico) | carbonato de bario |
+
+### Sales ácidas M<sub>a</sub>(H<sub>b</sub>X<sub>c</sub>O<sub>d</sub>)<sub>n</sub>
+Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo parte de los átomos de H por M. Se nombran utilizando la **nomenclatura de hidrógeno**, cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+
+| Fórmula | Ácido | Sal |
+| :---: | --- | --- |
+| Fe(HSO<sub>3</sub>)<sub>2</sub> | H<sub>2</sub>SO<sub>3</sub> (ác. sulfuroso) | hidrogenosulfito de hierro(2+) |
+| NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub> | H<sub>3</sub>PO<sub>4</sub> (ác. fosfórico) | dihidrogenofosfato de amonio |
+| NaHCO<sub>3</sub> | H<sub>2</sub>CO<sub>3</sub> (ác. carbónico) | hidrogenocarbonato de sodio |
+| KH<sub>2</sub>BO<sub>3</sub> | H<sub>3</sub>BO<sub>3</sub> (ác. bórico) | dihidrogenoborato de potasio |
+
+## Iones
+Un **ión** es una **especie química** con **carga eléctrica**, bien por haber **cedido** (carga positiva &rarr; catión) o **captado** (carga negativa &rarr; anión) **electrones**.
+### Cationes E<sup>n+</sup>
+| Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
+| :---: | --- | :---: | --- | :---: | --- |
+| H<sup>+</sup> | hidrógeno(1+) | Cu<sup>+</sup> | cobre(1+) | Cu<sup>2+</sup> | cobre(2+) |
+| Cr<sup>3+</sup> | cromo(3+) | H<sub>3</sub>O<sup>+</sup> | oxonio | NH<sub>4</sub><sup>+</sup> | amonio |
+
+### Aniones E<sup>n&ndash;</sup>
+| Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
+| :---: | --- | :---: | --- | :---: | --- |
+| H<sup>&ndash;</sup> | hidruro | H<sub>2</sub>PO<sub>3</sub><sup>&ndash;</sup> | dihidrogenofosfito | S<sup>2&ndash;</sup> | sulfuro |
+| ClO<sub>4</sub><sup>&ndash;</sup> | perclorato | HCO<sub>3</sub><sup>&ndash;</sup> | hidrogenocarbonato | NO<sub>3</sub><sup>&ndash;</sup> | nitrato |
+| O<sup>2&ndash;</sup> | óxido | H<sub>2</sub>BO<sub>3</sub><sup>&ndash;</sup> | dihidrogenoborato | SO<sub>3</sub><sup>2&ndash;</sup> | sulfito |
+| CrO<sub>4</sub><sup>2&ndash;</sup> | cromato | Cr<sub>2</sub>O<sub>7</sub><sup>2&ndash;</sup> | dicromato | MnO<sub>4</sub><sup>&ndash;</sup> | permanganato |
+
+{{% /section %}}
