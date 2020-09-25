@@ -178,12 +178,13 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 | Pt(OH)<sub>4</sub> | tetrahidróxido de platino | hidróxido de platino(4+) |
 
 ## Oxácidos H<sub>a</sub>X<sub>b</sub>O<sub>c</sub>
-Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**. La \textbf{suma} de los \textbf{números de oxidación} de los elementos que forman un \textbf{compuesto neutro} ha de ser \textbf{cero}, lo que nos permite deducir el nº de oxidación del elemento central, X, que dará nombre al ácido.
-% \[
-% +1\cdot a+n\cdot b+(-2)\cdot c = 0\Rightarrow \highlight{TOL_dark_blue}{n = \frac{2c-a}{b}}
-% \]
+Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
 
 ### Ácidos modelo
+| Fórmula | Nº oxidación X | Nombre vulgar | Transformación |
+| :---: | :---: | --- | --- |
+| HClO<sub>4</sub> | VII | ácido perclórico | |
+
 ### Ácidos de Cr y Mn
 ### Ácidos meta y orto
 ### Ácidos di, tri, etc.
