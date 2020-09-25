@@ -268,4 +268,4 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 ### Aniones
 | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
 | :---: | --- | :---: | --- | :---: | --- |
-| H<sup>-</sup> | hidruro | H<sub>2</sub>PO<sub>3</sub><sup>-</sup> | dihidrogenofosfito | S<sup>2-</sup> | sulfuro |
+| H<sup>&ndash;</sup> | hidruro | H<sub>2</sub>PO<sub>3</sub><sup>&ndash;</sup> | dihidrogenofosfito | S<sup>2&ndash;</sup> | sulfuro |
