@@ -364,7 +364,9 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 
 ---
 
-{{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+{{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + 
+
+{{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
 ---
 
