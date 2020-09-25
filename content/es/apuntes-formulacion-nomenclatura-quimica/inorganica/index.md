@@ -187,7 +187,7 @@ Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X
 | HClO<sub>3</sub> | V | ácido clórico | |
 | HClO<sub>2</sub> | III | ácido cloroso | |
 | HClO | I | ácido hipocloroso | |
-| --- | | --- | | --- | | --- |
+| --- | --- | --- | --- |
 
 ### Ácidos de Cr y Mn
 ### Ácidos meta y orto
