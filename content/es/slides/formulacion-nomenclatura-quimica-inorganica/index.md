@@ -546,11 +546,51 @@ Un **ión** es una **especie química** con **carga eléctrica**, bien por haber
 ---
 
 ### Aniones E<sup>n&ndash;</sup>
-| Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
-| :---: | --- | :---: | --- | :---: | --- |
-| H<sup>&ndash;</sup> | hidruro | H<sub>2</sub>PO<sub>3</sub><sup>&ndash;</sup> | dihidrogenofosfito | S<sup>2&ndash;</sup> | sulfuro |
-| ClO<sub>4</sub><sup>&ndash;</sup> | perclorato | HCO<sub>3</sub><sup>&ndash;</sup> | hidrogenocarbonato | NO<sub>3</sub><sup>&ndash;</sup> | nitrato |
-| O<sup>2&ndash;</sup> | óxido | H<sub>2</sub>BO<sub>3</sub><sup>&ndash;</sup> | dihidrogenoborato | SO<sub>3</sub><sup>2&ndash;</sup> | sulfito |
-| CrO<sub>4</sub><sup>2&ndash;</sup> | cromato | Cr<sub>2</sub>O<sub>7</sub><sup>2&ndash;</sup> | dicromato | MnO<sub>4</sub><sup>&ndash;</sup> | permanganato |
+<table style="font-size:36px">
+<thead>
+<tr>
+<th align="center">Fórmula</th>
+<th>Nombre</th>
+<th align="center">Fórmula</th>
+<th>Nombre</th>
+<th align="center">Fórmula</th>
+<th>Nombre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">H<sup>–</sup></td>
+<td>hidruro</td>
+<td align="center">H<sub>2</sub>PO<sub>3</sub><sup>–</sup></td>
+<td>dihidrogenofosfito</td>
+<td align="center">S<sup>2–</sup></td>
+<td>sulfuro</td>
+</tr>
+<tr>
+<td align="center">ClO<sub>4</sub><sup>–</sup></td>
+<td>perclorato</td>
+<td align="center">HCO<sub>3</sub><sup>–</sup></td>
+<td>hidrogenocarbonato</td>
+<td align="center">NO<sub>3</sub><sup>–</sup></td>
+<td>nitrato</td>
+</tr>
+<tr>
+<td align="center">O<sup>2–</sup></td>
+<td>óxido</td>
+<td align="center">H<sub>2</sub>BO<sub>3</sub><sup>–</sup></td>
+<td>dihidrogenoborato</td>
+<td align="center">SO<sub>3</sub><sup>2–</sup></td>
+<td>sulfito</td>
+</tr>
+<tr>
+<td align="center">CrO<sub>4</sub><sup>2–</sup></td>
+<td>cromato</td>
+<td align="center">Cr<sub>2</sub>O<sub>7</sub><sup>2–</sup></td>
+<td>dicromato</td>
+<td align="center">MnO<sub>4</sub><sup>–</sup></td>
+<td>permanganato</td>
+</tr>
+</tbody>
+</table>
 
 {{% /section %}}
