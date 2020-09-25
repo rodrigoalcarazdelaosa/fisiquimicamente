@@ -244,7 +244,7 @@ Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un *
 | Fórmula | Ácido | Sal |
 | :---: | --- | --- |
 | NaClO | HClO (ác. hipocloroso) | hipoclorito de sodio |
-| MgF<sub>2</sub> | difluoruro de magnesio | fluoruro de magnesio |
+| Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> | H<sub>2</sub>SO<sub>4</sub> (ác. sulfúrico) | sulfato de hierro(3+) |
 | FeS | monosulfuro de hierro | sulfuro de hierro(2+) |
 | NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
 
