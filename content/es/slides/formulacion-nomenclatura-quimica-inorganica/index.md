@@ -442,8 +442,8 @@ Sustituyendo el P por As o Sb tenemos los ácidos **arsénico** (H<sub>3</sub>As
 
 | Elemento | Ácido | Ácido orto (+2$\thinspace$H<sub>2</sub>O) |
 | :---: | --- | --- |
-| Te | H<sub>2</sub>TeO<sub>4</sub> (telúrico) | H<sub>6</sub>TeO<sub>6</sub> (ortotelúrico) |
-| I | HIO<sub>4</sub> (peryódico) | H<sub>5</sub>IO<sub>6</sub> (ortoperyódico) |
+| Te | H<sub>2</sub>TeO<sub>4</sub> (ác. telúrico) | H<sub>6</sub>TeO<sub>6</sub> (ác. ortotelúrico) |
+| I | HIO<sub>4</sub> (ác. peryódico) | H<sub>5</sub>IO<sub>6</sub> (ác. ortoperyódico) |
 
 ---
 
