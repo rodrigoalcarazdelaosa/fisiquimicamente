@@ -204,6 +204,7 @@ Los **ácidos** del **cromo** y del **manganeso** ya no tienen nombres *vulgares
 | Fórmula | Nº oxidación X | Nombre (hidrógeno) |
 | :---: | :---: | --- |
 | H<sub>2</sub>CrO<sub>4</sub> | VI | dihidrogeno(tetraoxidocromato) |
+| H<sub>2</sub>MnO<sub>4</sub> | VI | dihidrogeno(tetraoxidomanganato) |
 
 ### Ácidos meta y orto
 ### Ácidos di, tri, etc.
