@@ -222,3 +222,40 @@ Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **
 | Fe<sub>2</sub>(O<sub>2</sub>)<sub>3</sub> | peróxido de hierro(3+) |
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Hidruros EH<sub>n</sub>
+Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e **hidrógeno (H)**.
+
+{{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
+
+{{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+
+Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16** o **17**, el orden de los elementos en la fórmula cambia, estando el hidrógeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos (acabando en ***&ndash;uro*** el otro elemento).
+
+### Ejemplos
+
+| Fórmula | Nombre composición | Nombre nº oxidación/carga |
+| :---: | --- | --- |
+| LiH | <s>mono</s>hidruro de litio | hidruro de litio |
+| AlH<sub>3</sub> | trihidruro de aluminio | hidruro de aluminio |
+| HCl | cloruro de hidrógeno | &ndash; |
+| H<sub>2</sub>S | sulfuro de dihidrógeno | &ndash; |
+
+### Hidruros progenitores
+Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como **compuestos progenitores**, obteniéndose **derivados** al sustituir los átomos de hidrógeno por otros átomos y/o grupos[^1].
+
+[^1]: Los nombres ***oxidano*** y ***azano***, para el **H<sub>2</sub>O** y el **NH<sub>3</sub>**, se proponen únicamente para nombrar **derivados** del **agua** y del **amoniaco**, respectivamente.
+
+| F | N | F | N | F | N | F | N | F | N |
+| :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
+| BH<sub>3</sub> | borano | CH<sub>4</sub> | metano | NH<sub>3</sub> | azano | H<sub>2</sub>O | oxidano | HF | fluorano |
+| AlH<sub>3</sub> | alumano | SiH<sub>4</sub> | silano | PH<sub>3</sub> | fosfano | H<sub>2</sub>S | sulfano | HCl | clorano |
+| GaH<sub>3</sub> | galano | GeH<sub>4</sub> | germano | AsH<sub>3</sub> | arsano | H<sub>2</sub>Se | selano | HBr | bromano |
+| InH<sub>3</sub> | indigano | SnH<sub>4</sub> | estannano | SbH<sub>3</sub> | estibano | H<sub>2</sub>Te | telano | HI | yodano |
+| TlH<sub>3</sub> | talano | PbH<sub>4</sub> | plumbano | BiH<sub>3</sub> | bismutano | H<sub>2</sub>Po | polano | HAt | astatano |
+
+{{% /section %}}
