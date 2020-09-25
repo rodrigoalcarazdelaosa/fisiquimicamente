@@ -134,7 +134,7 @@ Anteponiendo la palabra ***hidrogeno*** (sin tilde), utilizada por ejemplo para 
 
 ### Otras nomenclaturas
 - [Números de oxidación o de carga](#/2/16)
-- [Nombres *vulgares* aceptados]
+- [Nombres *vulgares* aceptados](#/2/19)
 
 (continúa hacia abajo)
 
@@ -157,7 +157,7 @@ Si solo hay un número de oxidación o de carga, éste se omite.
 
 ---
 
-#### Nombres *vulgares*
+#### Nombres *vulgares* aceptados
 Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales**.
 
 ---
