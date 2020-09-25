@@ -222,7 +222,7 @@ Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden conte
 
 ### Ácidos di, tri, etc.
 A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamente una molécula menos de las que condensen de ácido). Así se tienen:
-- H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>} &rarr; ácido difosfórico}.
+- H<sub>4</sub>P<sub>2</sub>O<sub>7</sub> &rarr; ácido difosfórico.
 - H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> &rarr; dihidrogeno(heptaoxidodicromato).
 
 ## Sales
