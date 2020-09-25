@@ -25,6 +25,10 @@ links:
   
 ---
 
+{{% alert warning %}}
+En construcción...
+{{% /alert %}}
+
 {{% toc %}}
 
 ## Conceptos previos
