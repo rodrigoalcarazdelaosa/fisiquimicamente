@@ -33,7 +33,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 - [Números de oxidación/carga](#/2/1)
 - [Secuencia de los elementos](#/2/4)
 - [Sistemas de nomenclatura IUPAC 2005](#/2/5)
-- [Otras nomenclaturas](#/2/1)
+- [Otras nomenclaturas](#/2/15)
 
 (continúa hacia abajo)
 
