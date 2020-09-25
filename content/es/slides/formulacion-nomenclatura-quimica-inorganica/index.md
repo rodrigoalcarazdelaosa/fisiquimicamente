@@ -12,12 +12,14 @@ slides:
 
 # Formulación y nomenclatura de Química Inorgánica
 
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+
+---
+
 - [Conceptos previos](#/1)
 - [Principios de la hidrostática](#/2)
 - [Física de la atmósfera](#/3)
 - [Cortometraje-documental](#/4)
-
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 
