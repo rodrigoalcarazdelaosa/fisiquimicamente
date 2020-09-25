@@ -101,22 +101,34 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 #### Sustitución
 Muy utilizada en **química orgánica**, en inorgánica se emplea para nombrar **derivados** de **hidruros** de algunos **no metales**.
 
+---
+
 ##### Ejemplos
 PH<sub>3</sub> &rarr; fosfano, PH<sub>2</sub>Cl &rarr; clorofosfano, PHCl<sub>2</sub> &rarr; diclorofosfano.
 
+---
+
 #### Adición
 Utilizada sobretodo para nombrar **complejos** o compuestos de coordinación, también puede emplearse para nombrar **oxácidos**.
+
+---
 
 ##### Ejemplos
 - PCl<sub>5</sub> &rarr; pentaclorurofósforo.
 - HBrO = [BrOH] &rarr; hidroxidobromo.
 
+---
+
 #### Hidrógeno
 Anteponiendo la palabra ***hidrogeno*** (sin tilde), utilizada por ejemplo para nombrar los **oxácidos** del **Cr** y del **Mn** o **sales ácidas**.
+
+---
 
 ##### Ejemplos
 - H<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> &rarr; dihidrogeno(heptaoxidodicromato).
 - NaHCO<sub>3</sub> &rarr; hidrogenocarbonato de sodio.
+
+---
 
 ### Otras nomenclaturas
 #### Números de oxidación o de carga
