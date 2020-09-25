@@ -1,7 +1,7 @@
 ---
 title: Formulación y nomenclatura de Química Inorgánica
 subtitle: Recomendaciones de la IUPAC de 2005
-summary: "<code style='background:#ffcccc'>EN CONSTRUCCIÓN</code><br>Recomendaciones de la IUPAC de 2005."
+summary: "Recomendaciones de la IUPAC de 2005."
 tags:
 - formulación
 - nomenclatura
@@ -25,10 +25,6 @@ links:
 
 slides: formulacion-nomenclatura-quimica-inorganica  
 ---
-
-{{% alert warning %}}
-En construcción...
-{{% /alert %}}
 
 {{% toc %}}
 
