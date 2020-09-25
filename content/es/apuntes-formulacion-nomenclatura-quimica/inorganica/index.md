@@ -231,6 +231,13 @@ A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamen
 ### Sales neutras binarias X<sub>n</sub>Y<sub>m</sub>
 Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X e Y, con nº de oxidación m y n, respectivamente. El elemento que está a la derecha, Y, está antes que X en la secuencia de elementos, y se **termina en *&ndash;uro*** al nombrarse.
 
+| Fórmula | Nombre composición | Nombre nº oxidación/carga |
+| :---: | --- | --- |
+| NaCl | <s>mono</s>cloruro de sodio | cloruro de sodio |
+| MgF<sub>2</sub> | difluoruro de magnesio | fluoruro de magnesio |
+| FeS | monosulfuro de hierro | sulfuro de hierro(2+) |
+| NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
+
 ### Sales neutras ternarias u oxisales
 ### Sales ácidas
 
