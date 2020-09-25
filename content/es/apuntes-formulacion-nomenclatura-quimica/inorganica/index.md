@@ -266,3 +266,6 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 | Cr<sup>3+</sup> | cromo(3+) | H<sub>3</sub>O<sup>+</sup> | oxonio | NH<sub>4</sub><sup>+</sup> | amonio |
 
 ### Aniones
+| Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
+| :---: | --- | :---: | --- | :---: | --- |
+| H<sup>-</sup> | hidruro | H<sub>2</sub>PO<sub>3</sub><sup>-</sup> | dihidrogenofosfito | S<sup>2-</sup> | sulfuro |
