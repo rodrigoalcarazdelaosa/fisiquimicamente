@@ -166,3 +166,41 @@ Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales*
 - NaClO<sub>4</sub> &rarr; perclorato de sodio.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Óxidos E<sub>2</sub>O<sub>n</sub>
+Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y **oxígeno**.
+
+{{< hl >}}PREFIJO{{< /hl >}} + {{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
+
+{{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+
+### Haluros de oxígeno
+Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 17), el orden de los elementos en la fórmula cambia, estando el oxígeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos (acabando en ***&ndash;uro*** el halógeno).
+
+### Ejemplos
+
+| Fórmula | Nombre composición | Nombre nº oxidación/carga |
+| :---: | --- | --- |
+| Na<sub>2</sub>O | <s>mon</s>óxido de disodio | óxido de sodio |
+| TiO<sub>2</sub> | dióxido de titanio | óxido de titanio(4+) |
+| SO<sub>3</sub> | trióxido de azufre | óxido de azufre(VI) |
+| OF<sub>2</sub> | difluoruro de oxígeno | &ndash; |
+
+### Peróxidos M<sub>2</sub>(O<sub>2</sub>)<sub>n</sub>
+Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **hidrógeno(1+)**, unidos al **anión peróxido O<sub>2</sub><sup>2-</sup>**.
+
+{{< hl >}}PERÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+
+#### Ejemplos
+| Fórmula | Nombre |
+| :---: | --- |
+| H<sub>2</sub>O<sub>2</sub> | peróxido de hidrógeno (agua oxigenada) |
+| Na<sub>2</sub>O<sub>2</sub> | peróxido de sodio |
+| MgO<sub>2</sub> | peróxido de magnesio |
+| Fe<sub>2</sub>(O<sub>2</sub>)<sub>3</sub> | peróxido de hierro(3+) |
+
+{{% /section %}}
