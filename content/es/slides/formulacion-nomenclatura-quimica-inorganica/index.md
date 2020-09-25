@@ -28,7 +28,9 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 {{% section %}}
 
-## Concepto de presión
+## Conceptos previos
+
+- [Números de oxidación/carga]
 
 La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
 $$
