@@ -238,7 +238,7 @@ Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X
 | FeS | monosulfuro de hierro | sulfuro de hierro(2+) |
 | NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
 
-### Sales neutras ternarias u oxisales
+### Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>
 ### Sales ácidas
 
 ## Iones
