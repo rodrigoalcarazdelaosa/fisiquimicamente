@@ -426,9 +426,11 @@ Los **ácidos** del **cromo** y del **manganeso** ya no tienen nombres *vulgares
 ---
 
 ### Ácidos meta y orto
-Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden contener más o menos agua, por lo que para distinguirlos utilizamos los prefijos ***meta&ndash;*** (menos agua) y ***orto&ndash;*** (más agua)[^2].
+Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden contener más o menos agua, por lo que para distinguirlos utilizamos los prefijos ***meta&ndash;*** (menos agua) y ***orto&ndash;*** (más agua).
 
-[^2]: Sustituyendo el P por As o Sb tenemos los ácidos **arsénico** (H<sub>3</sub>AsO<sub>4</sub>) y **antimónico** (H<sub>3</sub>SbO<sub>4</sub>), respectivamente.
+---
+
+Sustituyendo el P por As o Sb tenemos los ácidos **arsénico** (H<sub>3</sub>AsO<sub>4</sub>) y **antimónico** (H<sub>3</sub>SbO<sub>4</sub>), respectivamente.
 
 | Elemento | Ácido meta | Ácido + 1$\thinspace$H<sub>2</sub>O | Ácido orto (+2$\thinspace$H<sub>2</sub>O) |
 | :---: | --- | --- | --- |
@@ -437,6 +439,8 @@ Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden conte
 | P | HPO<sub>3</sub> (metafosfórico) | H<sub>3</sub>PO<sub>4</sub> (fosfórico) | &ndash; |
 | Te | &ndash; | &ndash; | H<sub>6</sub>TeO<sub>6</sub> (ortotelúrico) |
 | I | &ndash; | &ndash; | H<sub>5</sub>IO<sub>6</sub> (ortoperyódico) |
+
+---
 
 ### Ácidos di, tri, etc.
 A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamente una molécula menos de las que condensen de ácido). Así se tienen:
