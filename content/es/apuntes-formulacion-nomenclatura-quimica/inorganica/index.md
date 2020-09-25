@@ -195,7 +195,7 @@ Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X
 <td align="center">HClO<sub>4</sub></td>
 <td align="center">VII</td>
 <td>ácido perclórico</td>
-<td></td>
+<td rowspan="4">hola</td>
 </tr>
 <tr>
 <td align="center">HClO<sub>3</sub></td>
