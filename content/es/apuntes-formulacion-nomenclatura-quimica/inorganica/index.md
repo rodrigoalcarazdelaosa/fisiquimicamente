@@ -184,6 +184,9 @@ Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X
 | Fórmula | Nº oxidación X | Nombre vulgar | Transformación |
 | :---: | :---: | --- | --- |
 | HClO<sub>4</sub> | VII | ácido perclórico | |
+| HClO<sub>3</sub> | V | ácido clórico | |
+| HClO<sub>2</sub> | III | ácido cloroso | |
+| HClO | I | ácido hipocloroso | |
 
 ### Ácidos de Cr y Mn
 ### Ácidos meta y orto
