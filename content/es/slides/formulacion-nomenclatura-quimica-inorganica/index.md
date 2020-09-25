@@ -442,6 +442,16 @@ Sustituyendo el P por As o Sb tenemos los ácidos **arsénico** (H<sub>3</sub>As
 
 ---
 
+| Elemento | Ácido meta | Ácido + 1$\thinspace$H<sub>2</sub>O | Ácido orto (+2$\thinspace$H<sub>2</sub>O) |
+| :---: | --- | --- | --- |
+| B | HBO<sub>2</sub> (metabórico) | H<sub>3</sub>BO<sub>3</sub> (bórico) | &ndash; |
+| Si | H<sub>2</sub>SiO<sub>2</sub> (metasilícico) | H<sub>4</sub>SiO<sub>4</sub> (silícico) | &ndash; |
+| P | HPO<sub>3</sub> (metafosfórico) | H<sub>3</sub>PO<sub>4</sub> (fosfórico) | &ndash; |
+| Te | &ndash; | &ndash; | H<sub>6</sub>TeO<sub>6</sub> (ortotelúrico) |
+| I | &ndash; | &ndash; | H<sub>5</sub>IO<sub>6</sub> (ortoperyódico) |
+
+---
+
 ### Ácidos di, tri, etc.
 A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamente una molécula menos de las que condensen de ácido). Así se tienen:
 - H<sub>4</sub>P<sub>2</sub>O<sub>7</sub> &rarr; ácido difosfórico.
