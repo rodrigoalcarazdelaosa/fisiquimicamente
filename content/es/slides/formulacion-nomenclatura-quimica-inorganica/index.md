@@ -174,11 +174,17 @@ Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales*
 ## Óxidos E<sub>2</sub>O<sub>n</sub>
 Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y **oxígeno**.
 
+---
+
 {{< hl >}}PREFIJO{{< /hl >}} + {{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} +
 
 {{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
 
-{{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+---
+
+{{< hl >}}ÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + 
+
+{{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
 ---
 
