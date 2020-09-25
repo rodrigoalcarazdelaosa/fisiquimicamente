@@ -460,8 +460,20 @@ A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamen
 {{% section %}}
 
 ## Sales
+- [Sales neutras binarias X<sub>n</sub>Y<sub>m</sub>]
+- [Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>]
+- [Sales ácidas M<sub>a</sub>(H<sub>b</sub>X<sub>c</sub>O<sub>d</sub>)<sub>n</sub>]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Sales neutras binarias X<sub>n</sub>Y<sub>m</sub>
 Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X e Y, con nº de oxidación m y n, respectivamente. El elemento que está a la derecha, Y, está antes que X en la secuencia de elementos, y se **termina en *&ndash;uro*** al nombrarse.
+
+---
 
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
 | :---: | --- | --- |
@@ -470,8 +482,12 @@ Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X
 | FeS | monosulfuro de hierro | sulfuro de hierro(2+) |
 | NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
 
+---
+
 ### Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>
 Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo todos los átomos de H por M y cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+
+---
 
 | Fórmula | Ácido | Sal |
 | :---: | --- | --- |
@@ -480,8 +496,12 @@ Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un *
 | Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> | H<sub>3</sub>PO<sub>4</sub> (ác. fosfórico) | fosfato de calcio |
 | BaCO<sub>3</sub> | H<sub>2</sub>CO<sub>3</sub> (ác. carbónico) | carbonato de bario |
 
+---
+
 ### Sales ácidas M<sub>a</sub>(H<sub>b</sub>X<sub>c</sub>O<sub>d</sub>)<sub>n</sub>
 Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo parte de los átomos de H por M. Se nombran utilizando la **nomenclatura de hidrógeno**, cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+
+---
 
 | Fórmula | Ácido | Sal |
 | :---: | --- | --- |
@@ -490,13 +510,24 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 | NaHCO<sub>3</sub> | H<sub>2</sub>CO<sub>3</sub> (ác. carbónico) | hidrogenocarbonato de sodio |
 | KH<sub>2</sub>BO<sub>3</sub> | H<sub>3</sub>BO<sub>3</sub> (ác. bórico) | dihidrogenoborato de potasio |
 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Iones
 Un **ión** es una **especie química** con **carga eléctrica**, bien por haber **cedido** (carga positiva &rarr; catión) o **captado** (carga negativa &rarr; anión) **electrones**.
+
+---
+
 ### Cationes E<sup>n+</sup>
 | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
 | :---: | --- | :---: | --- | :---: | --- |
 | H<sup>+</sup> | hidrógeno(1+) | Cu<sup>+</sup> | cobre(1+) | Cu<sup>2+</sup> | cobre(2+) |
 | Cr<sup>3+</sup> | cromo(3+) | H<sub>3</sub>O<sup>+</sup> | oxonio | NH<sub>4</sub><sup>+</sup> | amonio |
+
+---
 
 ### Aniones E<sup>n&ndash;</sup>
 | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
