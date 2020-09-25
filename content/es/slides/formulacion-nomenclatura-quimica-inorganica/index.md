@@ -467,7 +467,7 @@ A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamen
 
 ## Sales
 - [Sales neutras binarias X<sub>n</sub>Y<sub>m</sub>](#/7/1)
-- [Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>](#/7/1)
+- [Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>](#/7/4)
 - [Sales ácidas M<sub>a</sub>(H<sub>b</sub>X<sub>c</sub>O<sub>d</sub>)<sub>n</sub>](#/7/1)
 
 (continúa hacia abajo)
