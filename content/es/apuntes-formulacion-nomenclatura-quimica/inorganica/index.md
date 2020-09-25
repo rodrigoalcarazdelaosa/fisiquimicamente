@@ -181,17 +181,72 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
 
 ### Ácidos modelo
-| Fórmula | Nº oxidación X | Nombre *vulgar* | Transformación |
-| :---: | :---: | --- | --- |
-| HClO<sub>4</sub> | VII | ácido perclórico | |
-| HClO<sub>3</sub> | V | ácido clórico | |
-| HClO<sub>2</sub> | III | ácido cloroso | |
-| HClO | I | ácido hipocloroso | |
-| H<sub>2</sub>SO<sub>4</sub> | VI | ácido sulfúrico | |
-| H<sub>2</sub>SO<sub>3</sub> | IV | ácido sulfuroso | |
-| HNO<sub>3</sub> | V | ácido nítrico | |
-| HNO<sub>2</sub> | III | ácido nitroso | |
-| H<sub>2</sub>CO<sub>3</sub> | IV | ácido carbónico | |
+<table>
+<thead>
+<tr>
+<th align="center">Fórmula</th>
+<th align="center">Nº oxidación X</th>
+<th>Nombre <em>vulgar</em></th>
+<th>Transformación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">HClO<sub>4</sub></td>
+<td align="center">VII</td>
+<td>ácido perclórico</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">HClO<sub>3</sub></td>
+<td align="center">V</td>
+<td>ácido clórico</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">HClO<sub>2</sub></td>
+<td align="center">III</td>
+<td>ácido cloroso</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">HClO</td>
+<td align="center">I</td>
+<td>ácido hipocloroso</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">H<sub>2</sub>SO<sub>4</sub></td>
+<td align="center">VI</td>
+<td>ácido sulfúrico</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">H<sub>2</sub>SO<sub>3</sub></td>
+<td align="center">IV</td>
+<td>ácido sulfuroso</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">HNO<sub>3</sub></td>
+<td align="center">V</td>
+<td>ácido nítrico</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">HNO<sub>2</sub></td>
+<td align="center">III</td>
+<td>ácido nitroso</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">H<sub>2</sub>CO<sub>3</sub></td>
+<td align="center">IV</td>
+<td>ácido carbónico</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### Ácidos de Cr y Mn
 ### Ácidos meta y orto
