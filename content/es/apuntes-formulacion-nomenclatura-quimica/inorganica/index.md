@@ -181,6 +181,8 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
 
 ### Ácidos modelo
+En la siguiente tabla, el Cl puede sustituirse por Br o I, y el S por Se o Te.
+
 | Fórmula | Nº oxidación X | Nombre *vulgar* |
 | :---: | :---: | --- | --- |
 | HClO<sub>4</sub> | VII | ácido perclórico |
