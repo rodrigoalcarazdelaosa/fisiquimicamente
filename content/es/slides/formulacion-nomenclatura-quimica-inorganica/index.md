@@ -191,6 +191,8 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, y
 ### Haluros de oxígeno
 Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 17), el orden de los elementos en la fórmula cambia, estando el oxígeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos (acabando en ***&ndash;uro*** el halógeno).
 
+---
+
 ### Ejemplos
 
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
