@@ -239,6 +239,15 @@ Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X
 | NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
 
 ### Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>
+Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo todos los átomos de H por M y cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+
+| Fórmula | Ácido | Sal |
+| :---: | --- | --- |
+| NaClO | HClO (ác. hipocloroso) | hipoclorito de sodio |
+| MgF<sub>2</sub> | difluoruro de magnesio | fluoruro de magnesio |
+| FeS | monosulfuro de hierro | sulfuro de hierro(2+) |
+| NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
+
 ### Sales ácidas
 
 ## Iones
