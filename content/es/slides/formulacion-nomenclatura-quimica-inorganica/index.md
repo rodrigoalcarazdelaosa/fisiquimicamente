@@ -268,7 +268,7 @@ Los nombres ***oxidano*** y ***azano***, para el **H<sub>2</sub>O** y el **NH<su
 
 ---
 
-<table style="font-size:24px">
+<table style="font-size:30px">
 <thead>
 <tr>
 <th align="center">F</th>
