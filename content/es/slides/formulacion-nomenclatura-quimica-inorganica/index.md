@@ -31,11 +31,9 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ## Conceptos previos
 
 - [Números de oxidación/carga](#/2/1)
-
-La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
-$$
-p = \frac{F}{A}
-$$
+- [Secuencia de los elementos](#/2/2)
+- [Sistemas de nomenclatura IUPAC 2005](#/2/4)
+- [Otras nomenclaturas](#/2/1)
 
 (continúa hacia abajo)
 
