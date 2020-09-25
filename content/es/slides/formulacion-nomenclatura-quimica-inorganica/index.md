@@ -348,3 +348,23 @@ Los nombres ***oxidano*** y ***azano***, para el **H<sub>2</sub>O** y el **NH<su
 </table>
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Hidróxidos o bases M(OH)<sub>n</sub>
+Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y el **grupo hidroxi OH<sup>&ndash;</sup>**.
+
+{{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
+
+{{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
+
+| Fórmula | Nombre composición | Nombre nº oxidación/carga |
+| :---: | --- | --- |
+| NaOH | <s>mono</s>hidróxido de sodio | hidróxido de sodio |
+| Ca(OH)<sub>2</sub> | dihidróxido de calcio | hidróxido de calcio |
+| Cr(OH)<sub>3</sub> | trihidróxido de cromo | hidróxido de cromo(3+) |
+| Pt(OH)<sub>4</sub> | tetrahidróxido de platino | hidróxido de platino(4+) |
+
+{{% /section %}}
