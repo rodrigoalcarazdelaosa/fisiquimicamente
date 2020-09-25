@@ -76,6 +76,8 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 
 ---
 
+##### Prefijos multiplicadores
+
 | Número de átomos | Prefijo |
 | :---: | --- |
 | 1 | mono |
@@ -86,8 +88,6 @@ También llamada **estequiométrica**, los nombres se indican junto con los **pr
 | 6 | hexa (hexakis) |
 | 7 | hepta (heptakis) |
 | 8 | octa (octakis) |
-| 9 | nona (nonakis) |
-| 10 | deca (decakis) |
 
 ##### Ejemplos
 - O<sub>3</sub> &rarr; trioxígeno.
