@@ -104,7 +104,9 @@ Muy utilizada en **química orgánica**, en inorgánica se emplea para nombrar *
 ---
 
 ##### Ejemplos
-PH<sub>3</sub> &rarr; fosfano, PH<sub>2</sub>Cl &rarr; clorofosfano, PHCl<sub>2</sub> &rarr; diclorofosfano.
+- PH<sub>3</sub> &rarr; fosfano.
+- PH<sub>2</sub>Cl &rarr; clorofosfano.
+- PHCl<sub>2</sub> &rarr; diclorofosfano.
 
 ---
 
