@@ -17,7 +17,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ---
 
 - [Conceptos previos](#/1)
-- [Principios de la hidrostática](#/2)
+- [Óxidos E<sub>2</sub>O<sub>n</sub>](#/2)
 - [Física de la atmósfera](#/3)
 - [Cortometraje-documental](#/4)
 
