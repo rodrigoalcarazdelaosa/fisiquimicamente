@@ -218,6 +218,7 @@ Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden conte
 | Si | H<sub>2</sub>SiO<sub>2</sub> (metasilícico) | H<sub>4</sub>SiO<sub>4</sub> (silícico) | &ndash; |
 | P | HPO<sub>3</sub> (metafosfórico) | H<sub>3</sub>PO<sub>4</sub> (fosfórico) | &ndash; |
 | Te | &ndash; | &ndash; | H<sub>6</sub>TeO<sub>6</sub> (ortotelúrico) |
+| I | &ndash; | &ndash; | H<sub>5</sub>IO<sub>6</sub> (ortoperyódico) |
 
 ### Ácidos di, tri, etc.
 
