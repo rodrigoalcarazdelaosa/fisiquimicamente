@@ -358,9 +358,9 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 
 ---
 
-{{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + 
+{{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRÓXIDO{{< /hl >}} + 
 
-{{< hl >}}ELEMENTO{{< /hl >}}
+{{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}}
 
 ---
 
