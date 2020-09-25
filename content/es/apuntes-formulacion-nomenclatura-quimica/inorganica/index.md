@@ -260,4 +260,8 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 
 ## Iones
 ### Cationes
+| Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
+| :---: | --- | :---: | --- | :---: | --- |
+| H<sup>+</sup> | hidrógeno(1+) | Cu<sup>+</sup> | cobre(1+) | Cu<sup>2+</sup> | cobre(2+) |
+
 ### Aniones
