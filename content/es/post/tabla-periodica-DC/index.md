@@ -56,11 +56,11 @@ Inspirado por [Manuel Souto](https://twitter.com/SoutoManel?s=20) y su [Tabla Pe
 	C827.342,628.75,819.42,644.592,810.533,659.841z"/>
 </svg>](https://www.dccomics.com/).
 
-{{% alert note %}}
+{{% callout note %}}
 Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a una **página web** del **personaje**. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** (enlazado a Wikipedia) como el de cada **personaje** (enlazado a la misma página web que su correspondiente imagen).
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert note %}}
+{{% callout note %}}
 Si te gustan estas **Tablas Periódicas *especiales***, echa un vistazo a las versiones con [**científicos**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}) o **personajes** de [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="-215.19 -86.608 1000 402.473" enable-background="new -215.19 -86.608 1000 402.473"
 	 xml:space="preserve">
@@ -848,4 +848,4 @@ Si te gustan estas **Tablas Periódicas *especiales***, echa un vistazo a las ve
 		C618.8341675,35.0656242,619.8306885,38.0551605,619.8306885,40.7125244"/>
 </g>
 </svg>](http://www.ndietrich.com/archives/955). También tienes una [**versión convencional**]({{< ref "/post/tabla-periodica-elementos/index.md" >}}).
-{{% /alert %}}
+{{% /callout %}}

@@ -90,6 +90,6 @@ subtitle = "🗂️ Por temas"
  css_class = ""
 +++
 
-{{% alert gdrive %}}
+{{% callout gdrive %}}
 Accede [aquí](https://drive.google.com/drive/folders/0B6t6-aLmKtoLTEZWcUxfME1QTVE) solo a los enunciados, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /alert %}}
+{{% /callout %}}

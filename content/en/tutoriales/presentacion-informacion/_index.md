@@ -21,7 +21,7 @@ menu:
 
 In this tutorial you will learn how to correctly present information.
 
-{{% alert note %}}
+{{% callout note %}}
 Coming soon...
-{{% /alert %}}
+{{% /callout %}}
 

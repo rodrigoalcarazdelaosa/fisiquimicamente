@@ -31,6 +31,6 @@ image:
 
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Coming soon...
-{{% /alert %}}
+{{% /callout %}}

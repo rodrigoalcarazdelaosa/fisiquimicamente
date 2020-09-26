@@ -31,6 +31,6 @@ image:
 
 Apuntes sobre ácido-base, en formato texto y póster (tipo _chuleta_).
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}

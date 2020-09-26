@@ -146,7 +146,7 @@ Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las 
 \end{gather*}
 
 #### Ejemplo resuelto
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Demuestra que la energía cinética,
@@ -211,7 +211,7 @@ $$
 1\thinspace\mathrm J = 1\thinspace\mathrm{kg}\thinspace\mathrm{m^2}\thinspace\mathrm{s^{-2}}
 $$
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Errores en la medida
 **Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales. Los **errores experimentales** son la **diferencia** entre los **valores medidos** y los **valores reales**. Distinguimos entre **errores sistemáticos** y **errores aleatorios**.

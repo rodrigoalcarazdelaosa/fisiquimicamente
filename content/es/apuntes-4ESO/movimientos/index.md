@@ -52,12 +52,12 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $
 ### Gráficas
 {{< figure src="graficas-MRU.svg" lightbox="false" width="100%" >}}
 
-{{% alert note %}}
+{{% callout note %}}
 Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Un caracol 🐌 recorre en línea recta una distancia de $10.8\thinspace\mathrm m$ en $1.5\thinspace\mathrm h$. ¿Qué distancia recorrerá en $5\thinspace\mathrm{min}$?
@@ -85,7 +85,7 @@ La distancia recorrida en $5\thinspace\mathrm{min}$ será por tanto:
 $$
 \Delta x (5\thinspace\mathrm{min}) = x(5\thinspace\mathrm{min}) - x_0 =  0.12\thinspace\mathrm{m/\cancel{min}} \cdot 5\thinspace\cancel{\mathrm{min}} = 0.6\thinspace\mathrm m
 $$
-{{% /alert %}}
+{{% /callout %}}
 
 ## Movimiento rectilíneo uniformemente variado (MRUV)
 
@@ -113,12 +113,12 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 ### Gráficas
 {{< figure src="graficas-MRUV.svg" lightbox="false" width="100%" >}}
 
-{{% alert note %}}
+{{% callout note %}}
 Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
@@ -142,7 +142,7 @@ de donde despejo la distancia recorrida $\Delta x$:
 $$
 \Delta x = \frac{v^2-v_0^2}{2a} = \frac{0^2-19.5^2}{2\cdot (-3)} = 63.375\thinspace\mathrm m
 $$
-{{% /alert %}}
+{{% /callout %}}
 
 ## Caída libre/lanzamiento vertical
 La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el que la aceleración es igual a la aceleración de la **gravedad**. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
@@ -163,7 +163,7 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el
 {{< /spoiler >}}	
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Desde la azotea de un rascacielos de $120\thinspace\mathrm m$ de altura se lanza una piedra con velocidad de $5\thinspace\mathrm{m/s}$, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.
@@ -208,7 +208,7 @@ Utilizando la ecuación (3)
 	\end{align*}
 	
 {{< figure src="lanzamiento-vertical.svg" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="false" width="100%" >}}
-{{% /alert %}}
+{{% /callout %}}
 
 ## Encuentros
 Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un MRU o un MRUV, comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
@@ -220,7 +220,7 @@ Seguimos estos **tres pasos**:
 3. **Despejar** la magnitud que me pidan.
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
@@ -297,7 +297,7 @@ c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizand
 $$
 v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
 $$	
-{{% /alert %}}
+{{% /callout %}}
 
 ## Movimiento circular uniforme (MCU)
 
@@ -347,7 +347,7 @@ $$
 y siempre se dirige hacia el centro de la circunferencia.	
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Las aspas de un ventilador {{< icon name="fan" pack="fas" >}} giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a $30\thinspace\mathrm{cm}$ del centro; c) el número de vueltas que darán las aspas en $5\thinspace\mathrm{min}$.
@@ -382,4 +382,4 @@ $$
 \varphi(5\thinspace\mathrm{min}) = 90\thinspace\mathrm{rev/\cancel{min}}\cdot 5\thinspace\cancel{\mathrm{min}} = 450\thinspace\mathrm{rev}
 $$
 
-{{% /alert %}}
+{{% /callout %}}

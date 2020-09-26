@@ -56,11 +56,11 @@ Inspired by [Manuel Souto](https://twitter.com/SoutoManel?s=20) and his [<svg ve
 	C827.342,628.75,819.42,644.592,810.533,659.841z"/>
 </svg>](https://www.dccomics.com/) **characters**.
 
-{{% alert note %}}
+{{% callout note %}}
 By clicking on the button above you can download a **PDF** where each image is a **link** that takes you to a character's web page. In addition, on the back (second page of the PDF) you can see both the **name** of each **element** (linked to Wikipedia) and that of each **character** (linked to the same web page as its corresponding image).
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert note %}}
+{{% callout note %}}
 If you like these ***special* Periodic Tables**, take a look at the versions with [**scientists**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}), [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="-215.19 -86.608 1000 402.473" enable-background="new -215.19 -86.608 1000 402.473"
 	 xml:space="preserve">
@@ -848,4 +848,4 @@ If you like these ***special* Periodic Tables**, take a look at the versions wit
 		C618.8341675,35.0656242,619.8306885,38.0551605,619.8306885,40.7125244"/>
 </g>
 </svg>](http://www.ndietrich.com/archives/955) **characters**. You also have a [**conventional version**]({{< ref "/post/tabla-periodica-elementos/index.md" >}}).
-{{% /alert %}}
+{{% /callout %}}

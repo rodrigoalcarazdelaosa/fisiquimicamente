@@ -12,9 +12,9 @@ image:
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Esta entrada es una **traducción/adaptación/ampliación** del [**excelente artículo** de **Ben Szabo** en dev.to](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6).
-{{% /alert %}}
+{{% /callout %}}
 
 Estoy planteándome la posibilidad de permitir elegir a los visitantes de mi web si desean un **fondo claro** u **oscuro**. Con un fondo oscuro (casi negro) el texto pasaría a ser claro (casi blanco), a la inversa de como es actualmente, pero el **color** de **resalte**, este azul <svg width="1rem" height="1rem">
   <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#2a54a9" />
@@ -45,11 +45,11 @@ Es fácil ver que el **contraste mínimo** es igual a 1, pues se da cuando ambos
 
 Las pautas WCAG nos dicen que la relación de **contraste mínimo** entre un texto y su fondo debería ser de al menos **4.5:1**.
 
-{{% alert note %}}
+{{% callout note %}}
 
 [Colorable](https://colorable.jxnblk.com/) es una excelente herramienta con la que podemos comprobar el contraste de combinaciones de colores.
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Entonces, ¿qué colores se ven bien tanto sobre blanco como sobre negro?
 Dada la luminosidad relativa de un color, $L$, podemos calcular su **contraste sobre blanco**, $C_\text{blanco}$, con la expresión[^2]:

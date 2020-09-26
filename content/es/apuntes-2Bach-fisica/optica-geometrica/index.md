@@ -32,6 +32,6 @@ image:
 
 Apuntes sobre óptica geométrica, en formato texto y póster (tipo _chuleta_).
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}

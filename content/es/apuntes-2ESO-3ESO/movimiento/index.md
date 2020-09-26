@@ -90,7 +90,7 @@ $$
 donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $\Delta t$ es el tiempo transcurrido. En el **SI** se mide en m/s<sup>2</sup>.
 
 ### Ejemplo resuelto
-{{% alert example %}}
+{{% callout example %}}
 > Un Fórmula 1 🏎️ es capaz de acelerar de 0 a 300$\thinspace$km/h en 10.6$\thinspace$s.<br>
 a) ¿Cuál es su aceleración?<br>
 b) ¿Qué velocidad lleva a los 5$\thinspace$s?
@@ -130,7 +130,7 @@ v = 0 + 7.86\thinspace\mathrm{m/s^\cancel{2}}\cdot 5\thinspace\cancel{\mathrm s}
 &= 141.5\thinspace\mathrm{km/h}
 \end{align*}
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Gráficas
 ### Movimiento uniforme
@@ -139,9 +139,9 @@ v = 0 + 7.86\thinspace\mathrm{m/s^\cancel{2}}\cdot 5\thinspace\cancel{\mathrm s}
 ### Movimiento acelerado
 {{< figure library="true" src="movimiento-2ESO/graficas-MRUV.svg" lightbox="false" width="100%" >}}
 
-{{% alert note %}}
+{{% callout note %}}
 Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
-{{% /alert %}}
+{{% /callout %}}
 
 ## Encuentros
 Se trata de situaciones en las que dos cuerpos comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
@@ -153,7 +153,7 @@ Seguimos estos **tres pasos**:
 3. **Despejar** la magnitud que me pidan.
 
 ### Ejemplo resuelto
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
@@ -223,4 +223,4 @@ b) Para calcular la **distancia recorrida** por cada uno de ellos, sustituimos e
 
 donde el signo $-$ indica que la moto ha recorrido esa distancia hacia la izquierda.
   
-{{% /alert %}}
+{{% /callout %}}

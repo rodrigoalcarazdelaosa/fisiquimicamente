@@ -27,6 +27,6 @@ image:
 # slides: estructura-atomica-2ESO-3ESO  
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Coming soon...
-{{% /alert %}}
+{{% /callout %}}

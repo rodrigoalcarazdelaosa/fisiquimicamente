@@ -47,7 +47,7 @@ donde:
 - $V_2$ es el volumen final.
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > El volumen del aire en los pulmones de una persona es de $615\thinspace\mathrm{mL}$ aproximadamente, a una presión de $1\thinspace\mathrm{atm}$. La inhalación ocurre cuando la presión de los pulmones desciende a $0.989\thinspace\mathrm{atm}$. ¿A qué volumen se expanden los pulmones?
@@ -65,7 +65,7 @@ $$
 V_2 = \frac{p_1 V_1}{p_2} = \frac{1\thinspace\mathrm{\cancel{atm}}\cdot 615\thinspace\mathrm{mL}}{0.989\thinspace\mathrm{\cancel{atm}}} = 621.8\thinspace\mathrm{mL}
 $$
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Ley de Charles
 
@@ -86,7 +86,7 @@ donde:
 - $T_2$ es la temperatura final (¡en K!).
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Si cierta masa de gas, a presión constante, llena un recipiente de $20\thinspace\mathrm{L}$ de capacidad a la temperatura de $124\thinspace\mathrm{^\circ C}$, ¿qué temperatura alcanzará la misma cantidad de gas a presión constante, si el volumen aumenta a $30\thinspace\mathrm{L}$?
@@ -105,7 +105,7 @@ $$
 T_2 = T_1\cdot \frac{V_2}{V_1} = 397\thinspace\mathrm{K}\cdot \frac{30\thinspace\mathrm{\cancel{L}}}{20\thinspace\mathrm{\cancel{L}}} = 595.5\thinspace\mathrm{K} = 322.5\thinspace\mathrm{^\circ C}
 $$
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Ley de Gay-Lussac
 
@@ -126,7 +126,7 @@ donde:
 - $T_2$ es la temperatura final (¡en K!).
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Es peligroso que los envases de aerosoles se expongan al calor. Si una lata de fijador para el cabello a una presión de $4\thinspace\mathrm{atm}$ y a una temperatura ambiente de $27\thinspace\mathrm{^\circ C}$ se arroja al fuego y el envase alcanza los $402\thinspace\mathrm{^\circ C}$, ¿cuál será su nueva presión?
@@ -145,7 +145,7 @@ $$
 p_2 = T_2\cdot \frac{p_1}{T_1} = 675\thinspace\mathrm{\cancel{K}}\cdot \frac{4\thinspace\mathrm{atm}}{300\thinspace\mathrm{\cancel{K}}} = 9\thinspace\mathrm{atm}
 $$
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Simulación
 

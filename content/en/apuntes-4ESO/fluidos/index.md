@@ -25,6 +25,6 @@ image:
 # slides: fluidos-4ESO  
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Coming soon...
-{{% /alert %}}
+{{% /callout %}}

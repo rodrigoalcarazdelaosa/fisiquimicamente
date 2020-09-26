@@ -114,6 +114,6 @@ subtitle = "📝 Full exams"
  css_class = ""
 +++
 
-{{% alert gdrive %}}
+{{% callout gdrive %}}
 Access [here](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLZURrWUxoaDJucGM) to all the statements of Cantabria from 1995 to 2019, thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /alert %}}
+{{% /callout %}}

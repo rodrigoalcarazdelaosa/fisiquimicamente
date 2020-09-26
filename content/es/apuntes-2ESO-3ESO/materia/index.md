@@ -124,13 +124,13 @@ En [esta tabla, tomada de la entrada sobre densidad en la versión inglesa de la
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
-{{% alert note %}}
+{{% callout note %}}
 Puedes aprender más sobre la **densidad** *jugando* con este [**laboratorio virtual**](http://www.educaplus.org/game/laboratorio-de-densidad).
-{{% /alert %}}
+{{% /callout %}}
 
 #### Ejemplos
 
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > El etanol tiene una densidad de $0.79\thinspace\mathrm{g/cm^3}$. Calcula la masa contenida en una botella de medio litro.
@@ -146,9 +146,9 @@ $$
 d = \frac{m}{V}\rightarrow m = V\cdot d = 500\thinspace\cancel{\mathrm{cm^3}} \cdot 0.79\thinspace\mathrm{g/\cancel{cm^3}} = 395\thinspace\mathrm{g} = 0.395\thinspace\mathrm{kg}
 $$
 
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Calcula el volumen que ocupan $390\thinspace\mathrm g$ de una sustancia cuya densidad es de $2390\thinspace\mathrm{kg/m^3}$.
@@ -166,7 +166,7 @@ $$
 d = \frac{m}{V}\rightarrow V = \frac{m}{d} = \frac{0.390\thinspace\cancel{\mathrm{kg}}}{2390\thinspace\mathrm{\cancel{kg}/m^3}} = 1.632\times 10^{-4}\thinspace\mathrm{m^3} = 163.2\thinspace\mathrm{cm^3}
 $$	
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Estados de agregación
 Los tres principales **estados de agregación** en los que podemos encontrar a la materia son:

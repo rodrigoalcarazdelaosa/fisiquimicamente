@@ -21,15 +21,15 @@ links:
 
 Aquí tienes una **Tabla Periódica de los Elementos** con información básica y en alta resolución.
 
-{{% alert note %}}
+{{% callout note %}}
 Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada elemento es un **enlace** que te lleva a la página de la **Wikipedia** del **elemento**.
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert note %}}
+{{% callout note %}}
 Si te interesa, [aquí tienes una versión **sin nombres**](tabla-periodica-elementos-sin-nombres.pdf) (el resto igual, también con **enlaces** a la **Wikipedia**).
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert note %}}
+{{% callout note %}}
 También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, con [**científicos**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}) o **personajes** de [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 height="1rem" viewBox="0 0 900.14 900.141" enable-background="new 0 0 900.14 900.141"
 	 xml:space="preserve">
@@ -833,4 +833,4 @@ También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, co
 		C618.8341675,35.0656242,619.8306885,38.0551605,619.8306885,40.7125244"/>
 </g>
 </svg>](http://www.ndietrich.com/archives/955).
-{{% /alert %}}
+{{% /callout %}}

@@ -127,7 +127,7 @@ $$
 donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativo).
 
 #### Ejemplos
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 \begin{align*}
@@ -144,14 +144,14 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	0.000 000 000 000 000 6 &\rightarrow 6\times 10^{-16} \\\\
 	0.000 000 000 000 000 000 000 000 8 &\rightarrow 8\times 10^{-25}
 \end{align*}
-{{% /alert %}}
+{{% /callout %}}
 
 ### Factores de conversión
 
 Se trata de multiplicar por fracciones utilizando la conversión entre unidades. En el caso de unidades de superficie (volumen), los factores de conversión van elevados al cuadrado (cubo).
 
 #### Ejemplos
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 \begin{align*}
@@ -166,7 +166,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 5\thinspace\mathrm{L/s} &\longrightarrow \mathrm{m^3/h} \\\\
 5\thinspace\frac{\cancel{\mathrm L}}{\cancel{\mathrm s}} &\cdot \frac{1\thinspace\mathrm m^3}{10^3\thinspace\cancel{\mathrm L}} \cdot \frac{3600\thinspace\cancel{\mathrm s}}{1\thinspace\mathrm h} = 18\thinspace\mathrm{m^3/h}
 \end{align*}
-{{% /alert %}}
+{{% /callout %}}
 
 ## Laboratorio escolar
 
@@ -186,8 +186,8 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Pictogramas de peligro
 
-{{% alert note %}}
+{{% callout note %}}
 Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [ECHA](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre **qué significa** cada pictograma, **qué hacer** en caso de tener que manipular productos químicos con una determinada etiqueta y **dónde se utiliza** cada pictograma.
-{{% /alert %}}
+{{% /callout %}}
 
 {{< gallery album="pictogramas-peligro" >}}

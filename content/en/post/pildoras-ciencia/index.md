@@ -19,9 +19,9 @@ The [Department of Physics and Chemistry of IES Valle del Saja](http://www.fqsaj
 
 {{< tweet 1280438568318574592 >}}
 
-{{% alert thanks %}}
+{{% callout thanks %}}
 Thanks to the [Department of Physics and Chemistry of IES Valle del Saja](http://www.fqsaja.com) for providing me with the original videos.
-{{% /alert %}}
+{{% /callout %}}
 
 {{% toc %}}
 
@@ -33,9 +33,9 @@ Thanks to the [Department of Physics and Chemistry of IES Valle del Saja](http:/
 
 {{< video library="1" src="pildoras-ciencia/espectros-llama.mp4" controls="yes" >}}
 
-{{% alert note %}}
+{{% callout note %}}
 More information [here](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
-{{% /alert %}}
+{{% /callout %}}
 
 ## 3. Copper Nitrate Fountain
 > Chemical reactions cause variations in concentration, temperature or pressure that allow to generate bright and colorful fountains ⛲.

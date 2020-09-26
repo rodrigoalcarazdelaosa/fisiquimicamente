@@ -34,6 +34,6 @@ image:
 
 Apuntes sobre el movimiento armónico simple (MAS), su dinámica y su energía, en formato texto y póster (tipo _chuleta_).
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}

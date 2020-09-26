@@ -26,13 +26,13 @@ image:
 #  url: https://www.cem.es/sites/default/files/files/Poster%20Nuevo-SI.pdf
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 If you are not familiar with the **International System of Units (SI)** I recommend you to check out [this page](https://www.bipm.org/en/measurement-units/) of the [_Bureau International des Poids et Mesures_ (BIPM)](https://www.bipm.org/en/about-us/).
-{{% /alert %}}
+{{% /callout %}}
 
-{{% alert note %}}
+{{% callout note %}}
 If you want more information, [@fqsaja1](https://twitter.com/fqsaja1/status/1255585201482317830?s=20) recommends that we take a look at David Newell's excellent article [published in Physics Today magazine](https://physicstoday.scitation.org/doi/10.1063/PT.3.2448).
-{{% /alert %}}
+{{% /callout %}}
 
 The **International System of Units (SI)** underwent a [revision in 2018](https://www.bipm.org/en/measurement-units/#cgpm-2018), with the **redefinition** of four of its seven _base units_, namely the kilogram (kg), the ampere (A), the kelvin (K) and the mole (mol).
 
@@ -58,9 +58,9 @@ $$
 
 where $\Delta\nu_\mathrm{Cs} = 9192631770\thinspace\mathrm{Hz}$ is the unperturbed ground state hyperfine transition frequency of the caesium 133 atom.
 
-{{% alert note %}}
+{{% callout note %}}
 The **second** is therefore the duration of 9192631770 periods of radiation corresponding to the transition between the two hyperfine levels of the unperturbed ground state of the caesium 133 atom.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Metre (m)
 $$
@@ -69,9 +69,9 @@ $$
 
 where $c = 299792458\thinspace\mathrm{m\cdot s^{-1}}$ is the speed of light in vacuum.
 
-{{% alert note %}}
+{{% callout note %}}
 The **metre** is therefore the length of the path travelled by light in vacuum during a time interval of 1/299792458 of a second.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Kilogram (kg)
 $$
@@ -80,9 +80,9 @@ $$
 
 where $h = 6.62607015\times 10^{-34}\thinspace\mathrm{kg\cdot m^2\cdot s^{-1}}$ is the Planck constant.
 
-{{% alert note %}}
+{{% callout note %}}
 The **kilogram** is therefore defined as a function of Planck's constant value, $h$.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Ampere (A)
 $$
@@ -91,9 +91,9 @@ $$
 
 where $e = 1.602176634\times 10^{-19}\thinspace\mathrm{A\cdot s}$ is the elementary charge.
 
-{{% alert note %}}
+{{% callout note %}}
 The **ampere** is therefore the electrical current corresponding to the flux of $1/(1.602176634\times 10^{-19}) = 6.241509074\times 10^{18}$ elementary charges per second.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Kelvin (K)
 $$
@@ -102,9 +102,9 @@ $$
 
 where $k = 1.380649\times 10^{-23}\thinspace\mathrm{kg\cdot m^2\cdot s^{-2}\cdot K^{-1}}$ is the Boltzmann constant.
 
-{{% alert note %}}
+{{% callout note %}}
 The **kelvin** is therefore equal to the thermodynamic temperature variation that results in a thermal energy variation $kT$ of $1.380649\times 10^{-23}\thinspace\mathrm J$.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Mole (mol)
 $$
@@ -113,9 +113,9 @@ $$
 
 where $N_\mathrm A = 6.02214076\times 10^{23}\thinspace\mathrm{mol^{-1}}$ is the Avogadro constant.
 
-{{% alert note %}}
+{{% callout note %}}
 The **mole** is therefore the amount of substance in a system that contains $6.02214076\times 10^{23}$ specified elementary entities.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Candela (cd)
 $$
@@ -124,6 +124,6 @@ $$
 
 where $K_\mathrm{cd} = 683\thinspace\mathrm{cd\cdot sr\cdot kg^{-1}\cdot m^{-2}\cdot s^3}$ is the luminous efficacy of monochromatic radiation of frequency $540\times 10^{12}\thinspace\mathrm{Hz}$.
 
-{{% alert note %}}
+{{% callout note %}}
 The **candela** is therefore the luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency $540\times 10^{12}\thinspace\mathrm{Hz}$ and has a radiant intensity in that direction of $(1/683)\thinspace\mathrm{W/sr}$.
-{{% /alert %}}
+{{% /callout %}}

@@ -26,6 +26,6 @@ image:
 # slides: materia-2ESO-3ESO
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Coming soon...
-{{% /alert %}}
+{{% /callout %}}

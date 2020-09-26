@@ -23,24 +23,24 @@ menu:
 
 ## [Presentaciones con beamer]({{< ref "/tutoriales/latex/beamer.md" >}})
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}
 
 ## [Pósters con beamerposter]({{< ref "/tutoriales/latex/beamerposter.md" >}})
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}
 
 ## [Gráficas con PGFPlots]({{< ref "/tutoriales/latex/PGFPlots.md" >}})
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}
 
 ## [Gráficos vectoriales con Ti*k*Z & PGF]({{< ref "/tutoriales/latex/Tikz-PGF.md" >}})
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}

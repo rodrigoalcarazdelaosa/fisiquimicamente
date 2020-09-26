@@ -114,7 +114,7 @@ $$
 que constituye la **ecuación fundamental de la hidrostática**.
 
 #### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Un reloj tiene una etiqueta que pone 10 ATM. ¿Hasta qué profundidad podremos sumergirlo en el mar?
@@ -147,7 +147,7 @@ h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\math
 
 Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente. 
 
-{{% /alert %}}
+{{% /callout %}}
 
 #### Paradoja hidrostática. Vasos comunicantes
 
@@ -186,7 +186,7 @@ P_\text{aparente} = P_\text{real} - E
 $$
 
 #### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > El Pont Aven es el ferry 🛳️ que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar ([https://es.wikipedia.org/wiki/Agua_de_mar](https://es.wikipedia.org/wiki/Agua_de_mar)), ¿qué volumen del barco se encuentra sumergido?
@@ -214,7 +214,7 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
  &= 4685.85\thinspace\mathrm{m^3}
 \end{align*}
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Física de la atmósfera
 ### Presión atmosférica

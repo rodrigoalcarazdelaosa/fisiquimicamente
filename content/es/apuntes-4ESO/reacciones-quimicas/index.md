@@ -55,7 +55,7 @@ $$
 Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Se desea ajustar la siguiente ecuación química:
@@ -95,7 +95,7 @@ $$
 \ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
 $$
 
-{{% /alert %}}
+{{% /callout %}}
 
 Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simulaciones**:
 
@@ -114,7 +114,7 @@ Seguimos estos **tres pasos**:
 3. **Pasar de mol a g** utilizando la **masa molar**.
 	
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > El clorato de potasio, $\ce{KClO3}$, se descompone en cloruro de potasio, $\ce{KCl}$, y oxígeno. Calcula la masa de oxígeno que se obtiene al descomponerse $86.8\thinspace\mathrm g$ de clorato de potasio por la acción del calor.
@@ -149,7 +149,7 @@ Para relacionar los gramos de clorato de potasio con los gramos de oxígeno util
 $$
 86.8\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}\cdot \frac{1\thinspace\mathrm{\cancel{mol_{\ce{KClO3}}}}}{122.6\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}}\cdot \frac{3\thinspace\mathrm{\cancel{mol_{\ce{O2}}}}}{2\thinspace\mathrm{\cancel{mol_{\ce{KClO3}}}}}\cdot \frac{32\thinspace\mathrm{g_{\ce{O2}}}}{1\thinspace\mathrm{\cancel{mol_{\ce{O2}}}}} = 34.0\thinspace\mathrm{g_\ce{O2}}
 $$
-{{% /alert %}}	
+{{% /callout %}}	
 
 ## Cálculos masa-volumen
 ### Ecuación de los gases ideales
@@ -169,7 +169,7 @@ $$
 	$$
 
 ### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
@@ -220,4 +220,4 @@ Despejamos el volumen $V$:
 $$
 V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{\cancel{mol}} \cdot 0.082\thinspace\frac{\mathrm{\cancel{atm}\thinspace L}}{\mathrm{\cancel{mol}\thinspace \cancel{K}}}\cdot 298\thinspace\mathrm{\cancel{K}}}{0.98\thinspace\mathrm{\cancel{atm}}} = 22.4\thinspace\mathrm{L_\ce{H2}}
 $$	
-{{% /alert %}}		
+{{% /callout %}}		

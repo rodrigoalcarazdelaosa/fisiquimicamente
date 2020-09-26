@@ -30,6 +30,6 @@ image:
 
 Apuntes sobre energía y trabajo, en formato texto y póster (tipo _chuleta_).
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}

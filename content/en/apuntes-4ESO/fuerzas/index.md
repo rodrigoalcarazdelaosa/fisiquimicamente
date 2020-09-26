@@ -22,6 +22,6 @@ image:
 #  url: fuerzas-poster.pdf
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Coming soon...
-{{% /alert %}}
+{{% /callout %}}

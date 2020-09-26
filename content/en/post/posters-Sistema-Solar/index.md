@@ -217,9 +217,9 @@ gallery_item:
 
 NASA published last year [this poster set](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *showcasing the beauty of our solar system and beyond*.
 
-{{% alert note %}}
+{{% callout note %}}
 In this post I go through the different posters, all of them **impressive**. Clicking on each of the images you will find its description and a link to download the corresponding poster in high resolution PDF format.
-{{% /alert %}}
+{{% /callout %}}
 
 {{% toc %}}
 

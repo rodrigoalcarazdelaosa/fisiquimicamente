@@ -32,6 +32,6 @@ image:
 
 Apuntes sobre campo magnético, en formato texto y póster (tipo _chuleta_).
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}

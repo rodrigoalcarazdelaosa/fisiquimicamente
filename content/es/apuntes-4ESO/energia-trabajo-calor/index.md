@@ -65,7 +65,7 @@ La fuerza de **rozamiento** es un ejemplo de fuerza **no conservativa** o **disi
 > En cualquier proceso de la naturaleza, la energía **total** permanece constante.
 
 #### Ejemplo resuelto
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Un carro de 50$\thinspace$kg desliza por una montaña rusa como la de la figura. Si en el punto A su velocidad es de 5$\thinspace$m/s y en el punto B es de 3.2$\thinspace$m/s, calcula: <br>
@@ -114,7 +114,7 @@ E_\text{disipada} & = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B} \\\\
 & = 15325 - 10056 = 5269\thinspace\mathrm J
 \end{align*}
 
-{{% /alert %}}
+{{% /callout %}}
 
 Puedes aprender más sobre la **conservación** de la **energía** con la siguiente **simulación**:
 
@@ -156,7 +156,7 @@ $$
 $$
 
 ### Ejemplo resuelto
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Los vecinos de un bloque de pisos se han quejado de que su ascensor, con capacidad para 400$\thinspace$kg, es demasiado lento. <br>
@@ -199,7 +199,7 @@ $$
 
 Como curiosidad, [el ascensor más rápido del mundo es capaz de viajar a 21$\thinspace$m/s](https://www.bbc.com/mundo/noticias-40219932).
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Efectos del calor sobre los cuerpos
 ### Variación de temperatura
@@ -3379,7 +3379,7 @@ donde $L$ es el **calor latente**[^5], que representa la cantidad de energía re
 [^5]: En [esta tabla, tomada de la entrada sobre calor latente en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Latent_heat#Table_of_specific_latent_heats), puedes ver los **valores** del **calor latente** de **fusión** y de **vaporización** de diversas sustancias.
 
 ### Ejemplo resuelto
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Para forjar acero es necesario calentarlo a temperaturas de entre 800$\thinspace$&deg;C y 1000$\thinspace$&deg;C. Si tenemos una espada de acero de 1.2$\thinspace$kg de masa y 1$\thinspace$m de longitud a temperatura ambiente (20$\thinspace$&deg;C) y la calentamos hasta los 900$\thinspace$&deg;C, ¿cuál será su nueva longitud?<br>
@@ -3462,7 +3462,7 @@ Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
 
 de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## Máquinas térmicas
 Consideramos una **máquina térmica** a un sistema que funciona **periódicamente** entre dos focos a distinta temperatura, y transforma parte del calor absorbido del foco caliente en trabajo, cediendo otra parte al foco frío:

@@ -90,6 +90,6 @@ subtitle = "🗂️ By topic"
  css_class = ""
 +++
 
-{{% alert gdrive %}}
+{{% callout gdrive %}}
 Access [here](https://drive.google.com/drive/folders/0B6t6-aLmKtoLTEZWcUxfME1QTVE) only to the statements, thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /alert %}}
+{{% /callout %}}

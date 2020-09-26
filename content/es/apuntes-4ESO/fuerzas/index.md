@@ -107,7 +107,7 @@ f_\mathrm c = m a_\mathrm c = m\cdot \frac{v^2}{R} = \frac{mv^2}{R}
 $$
 
 ## Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > Un cuerpo baja por un plano inclinado $30^\circ$ con un coeficiente de rozamiento $\mu=0.2$. Calcula la velocidad que llevará y el espacio recorrido al cabo de $5\thinspace\mathrm s$, si inicialmente estaba en reposo.
@@ -154,7 +154,7 @@ Para el **espacio recorrido** podemos utilizar la **ecuación del movimiento**:
 $$
 \Delta x = \left\lvert x - x_0\right\rvert = \left\lvert v_0\cdot t + \frac{1}{2}at^2\right\rvert = \left\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\right\rvert = 40.0\thinspace\mathrm m
 $$
-{{% /alert %}}
+{{% /callout %}}
 
 
 ## Simulación

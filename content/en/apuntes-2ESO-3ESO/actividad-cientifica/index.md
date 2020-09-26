@@ -60,6 +60,6 @@ gallery_item:
 # slides: "actividad-cientifica-2ESO-3ESO"
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Coming soon...
-{{% /alert %}}
+{{% /callout %}}

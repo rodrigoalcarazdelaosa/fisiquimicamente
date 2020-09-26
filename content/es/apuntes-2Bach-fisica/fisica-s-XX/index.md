@@ -30,6 +30,6 @@ image:
 
 Apuntes sobre física del s. XX, en formato texto y póster (tipo _chuleta_).
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}

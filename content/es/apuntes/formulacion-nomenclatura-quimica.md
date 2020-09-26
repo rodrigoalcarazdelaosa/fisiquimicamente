@@ -78,6 +78,6 @@ subtitle = "Recomendaciones de la IUPAC"
  css_class = ""
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 También te recomiendo echar un vistazo a los **apuntes** de [**FiQuiPedia**](http://www.fiquipedia.es/home/recursos/recursos-apuntes/recursos-apuntes-formulacion#TOC-Apuntes-elaboraci-n-propia) y a los de [**FisQuiWeb**](https://fisquiweb.es/Formulacion/index.htm).
-{{% /alert %}}
+{{% /callout %}}

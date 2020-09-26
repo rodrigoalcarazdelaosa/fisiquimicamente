@@ -13,6 +13,6 @@ menu:
 weight: 1
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Please refer to {{< icon name="overleaf" pack="ai" >}} Overleaf's **excellent guide** to [_learn $\LaTeX$ in 30 minutes_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
-{{% /alert %}}
+{{% /callout %}}

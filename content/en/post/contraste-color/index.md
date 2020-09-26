@@ -12,9 +12,9 @@ image:
   caption: Photo by [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com)
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 This post is an **adaptation/extension** of the [**excellent post** by **Ben Szabo** on dev.to](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6).
-{{% /alert %}}
+{{% /callout %}}
 
 I am considering the possibility of allowing the visitors of my website to choose whether they want a **light** or **dark** background. With a dark background (almost black) the text would become light (almost white), the opposite of what it is currently, but the **accent color**, this blue <svg width="1rem" height="1rem">
   <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#2a54a9" />
@@ -45,11 +45,11 @@ It is easy to see that the **minimum contrast** is equal to 1, since it is given
 
 The WCAG guidelines say that the **minimum contrast ratio** between a given text and its background should be at least **4.5:1**.
 
-{{% alert note %}}
+{{% callout note %}}
 
 [Colorable](https://colorable.jxnblk.com/) is an excellent tool with which we can check the contrast of color combinations.
 
-{{% /alert %}}
+{{% /callout %}}
 
 ## So, which colors look good on both black and white?
 Given the relative luminance of a color, $L$, we can calculate its **contrast on black**, $C_\text{black}$, with the expression[^2]:

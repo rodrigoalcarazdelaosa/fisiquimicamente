@@ -219,11 +219,11 @@ gallery_item:
 
 {{< tweet 1262678794554486784 >}}
 
-{{% alert note %}}
+{{% callout note %}}
 En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. Pinchando en cada una de las imágenes encontrarás su descripción traducida y un enlace para descargar el póster correspondiente en formato PDF de alta resolución.
 
 Cuando hayas visto todos los pósters, te invito a que **votes** cuál es tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
-{{% /alert %}}
+{{% /callout %}}
 
 {{% toc %}}
 
@@ -281,6 +281,6 @@ Cuando hayas visto todos los pósters, te invito a que **votes** cuál es tu **f
 ## Más allá del Sistema Solar
 {{< gallery album="Mas-alla" >}}
 
-{{% alert note %}}
+{{% callout note %}}
 Ahora que has visto todos los pósters, **vota** tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
-{{% /alert %}}
+{{% /callout %}}

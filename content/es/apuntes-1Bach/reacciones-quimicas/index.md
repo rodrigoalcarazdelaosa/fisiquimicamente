@@ -29,6 +29,6 @@ image:
 
 Apuntes sobre reacciones químicas, en formato texto y póster (tipo _chuleta_).
 
-{{% alert note %}}
+{{% callout note %}}
 Próximamente...
-{{% /alert %}}
+{{% /callout %}}

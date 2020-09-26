@@ -28,6 +28,6 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 Coming soon...
-{{% /alert %}}
+{{% /callout %}}
