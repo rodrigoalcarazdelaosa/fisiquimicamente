@@ -64,7 +64,7 @@ p_1 = p_2 \Rightarrow \frac{F_1}{A_1} = \frac{F_2}{A_2} \Rightarrow F_1A_2 = F_2
 $$
 
 ##### Ejemplo
-{{% alert example %}}
+{{% callout example %}}
 <br>
 
 > ¿Qué radio deberá tener el soporte circular sobre el que está *aparcado* un coche de masa $m = 1500\thinspace\mathrm{kg}$ si queremos levantarlo apretando uno de los pistones (también circular) de un elevador hidráulico con nuestra mano? <br>
@@ -95,7 +95,7 @@ r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\th
 &= 0.434\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
 \end{align*}
 
-{{% /alert %}}
+{{% /callout %}}
 
 En el siguiente vídeo el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) logra reproducir a pequeña escala el funcionamiento de un elevador hidráulico mediante un esquemático modelo con dos jeringuillas:
 
