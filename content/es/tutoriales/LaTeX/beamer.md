@@ -13,6 +13,6 @@ menu:
 weight: 2
 ---
 
-{{% alert warning %}}
+{{% callout warning %}}
 En construcción...
-{{% /alert %}}
+{{% /callout %}}
