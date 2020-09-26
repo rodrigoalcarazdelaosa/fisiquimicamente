@@ -219,7 +219,7 @@ plugins_js  = ["applause-button","footnotes"]
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, apuntes-2ESO-3ESO = true, apuntes-4ESO = true, apuntes-1Bach = true, apuntes-2Bach-fisica = true, apuntes-2Bach-quimica = true}
+  commentable = {page = true, post = true, apuntes-2ESO-3ESO = true, apuntes-4ESO = true, apuntes-1Bach = true, apuntes-2Bach-fisica = true, apuntes-2Bach-quimica = true, apuntes-formulacion-nomenclatura-quimica = true}
 
   # Configuration of Disqus.
   [comments.disqus]
