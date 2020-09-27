@@ -13,6 +13,8 @@ featured: true
 
 {{< cta cta_link="https://..." cta_new_tab="true" cta_text="emoji 🚀" >}}
 
+{< cta cta_alt_link="./my-page/" cta_alt_text="Go to my page" >}}
+
 Primera entrada en mi primer blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
 
 ## ¿Quién soy?
