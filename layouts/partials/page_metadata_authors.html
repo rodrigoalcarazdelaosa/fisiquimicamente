@@ -10,9 +10,9 @@
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
       {{- if $link_authors -}}
-	  {{- if eq $profile_page.RelPermalink "/author/rodrigo-alcaraz-de-la-osa/" -}}
+	  {{- if eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/" -}}
         <a href="/sobre-mi/">{{$name}}</a>
-	  {{- else if eq $profile_page.RelPermalink "/en/author/rodrigo-alcaraz-de-la-osa/" -}}
+	  {{- else if eq .RelPermalink "/en/author/rodrigo-alcaraz-de-la-osa/" -}}
         <a href="/en/about-me/">{{$name}}</a>
 	  {{- else -}}		  
         <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
