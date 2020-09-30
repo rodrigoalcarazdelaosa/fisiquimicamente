@@ -22,7 +22,7 @@
     </span>
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
-        <span title="{{.}}" class="author-notes">(?)</span>
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
       {{- end -}}
     {{- end -}}
   {{- end -}}
