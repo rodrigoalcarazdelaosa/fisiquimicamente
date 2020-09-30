@@ -17,7 +17,7 @@
         <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
 	  {{- end -}}		
       {{- else -}}
-        {{$name}}
+        {{ .LinkTitle }}
       {{- end -}}
     </span>
     {{- if isset $.Params "author_notes" -}}
