@@ -8,7 +8,11 @@
   {{/* If it's a personal site and primary page author is superuser, link to the homepage rather than their profile page. */}}
   {{ $profile_url := $author_page.RelPermalink }}
   {{ if and (eq $site_type "Person") (eq $author_page.Params.superuser true) }}
-    {{ $profile_url = site.BaseURL }}
+	{{ if eq .Site.Language.Lang "es" }}
+      {{ $profile_url = "/sobre-mi/" }}
+	{{ else if eq .Site.Language.Lang "en" }}
+	  {{ $profile_url = "/en/about-me/" }}
+    {{ end }}
   {{ end }}
   {{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" }}
   {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
