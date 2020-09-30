@@ -1,7 +1,7 @@
 {{/* Display author list. */}}
 
 {{- $taxonomy := "authors" }}
-{{ with .Param $taxonomy }}
+{{ if .Param $taxonomy }}
   {{ $link_authors := site.Params.link_authors | default true }}
   {{ range $index, $name_raw := . }}
     {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy .) -}}
