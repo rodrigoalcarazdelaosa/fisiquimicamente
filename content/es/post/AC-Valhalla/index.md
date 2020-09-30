@@ -19,6 +19,8 @@ image:
 [^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado un *gameplay* en profundidad:
 
 	{{< youtube NsfXjarFUHE >}}
+	
+	Y un tráiler de la historia:
 
 {{< youtube 4HoJzG16C2E >}}
 
