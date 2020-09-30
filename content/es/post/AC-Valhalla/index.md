@@ -16,11 +16,11 @@ image:
 
 [Ubisoft](https://www.ubisoft.com/es-es/) ha publicado el primer tráiler del nuevo **Assassin's Creed Valhalla**, que saldrá a la venta el 17 de noviembre de 2020[^1].
 
-[^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado un *gameplay* en profundidad:
+[^1]: [Ubisoft](https://www.ubisoft.com/es-es/) también ha publicado un ***gameplay*** en profundidad:
 
 	{{< youtube NsfXjarFUHE >}}
 	
-	Y un tráiler de la historia:
+	Y un **tráiler** de la **historia**:
 	
 	{{< youtube AiaxmPEsPp8 >}}		
 
