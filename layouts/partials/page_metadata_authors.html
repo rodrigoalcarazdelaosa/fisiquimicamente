@@ -7,14 +7,14 @@
     {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy .) -}}
     {{- $name := $profile_page.Title | default $name_raw -}}
     {{- if gt $index 0 }}, {{ end -}}
-    <span {{ if site.Params.highlight_superuser | and (eq $profile_page.Params.superuser true) }}class="font-weight-bold"{{end}}>
-      {{- if and $profile_page $link_authors -}}
+    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+      {{- if $link_authors -}}
 	  {{- if eq $profile_page.RelPermalink "/author/rodrigo-alcaraz-de-la-osa/" -}}
         <a href="/sobre-mi/">{{$name}}</a>
 	  {{- else if eq $profile_page.RelPermalink "/en/author/rodrigo-alcaraz-de-la-osa/" -}}
         <a href="/en/about-me/">{{$name}}</a>
 	  {{- else -}}		  
-        <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
+        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
 	  {{- end -}}		
       {{- else -}}
         {{$name}}
