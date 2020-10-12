@@ -15,7 +15,13 @@
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
   </p>
   
-  <p class="powered-by">Iconos del logo diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> de <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></p>
+  <p class="powered-by">
+	  {{ if eq .Site.Language.Lang "es" }}
+	  Iconos del logo diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> de <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
+	  {{ else if eq .Site.Language.Lang "en" }}
+	  Logo icons designed by <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
+	  {{ end }}
+  </p>
   
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
@@ -37,7 +43,7 @@
 	<a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
 	    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
 	    open source</a> website builder that empowers creators.
-{{ end }}	
+{{ end }}
   </p>
   
   <p class="powered-by">
