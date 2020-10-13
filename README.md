@@ -6,7 +6,7 @@ Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
 &copy; 2020 Rodrigo Alcaraz de la Osa
 
-Iconos del logo diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> de <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
+Iconos del logo diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> de <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>.
 
 Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
     el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
@@ -20,7 +20,7 @@ Physics and Chemistry Resources, Tutorials and Current Science.
 
 &copy; 2020 Rodrigo Alcaraz de la Osa
 
-Logo icons designed by <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
+Logo icons designed by <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>.
 
 Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
