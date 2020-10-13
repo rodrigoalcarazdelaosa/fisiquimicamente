@@ -4,7 +4,7 @@
 
 Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
-&copy {year} Rodrigo Alcaraz de la Osa
+&copy; 2020 Rodrigo Alcaraz de la Osa
 
 Iconos del logo diseñados por <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> de <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
 
@@ -18,7 +18,7 @@ Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/rodrigoalcarazdelao
 
 Physics and Chemistry Resources, Tutorials and Current Science.
 
-&copy {year} Rodrigo Alcaraz de la Osa
+&copy; 2020 Rodrigo Alcaraz de la Osa
 
 Logo icons designed by <a href="https://www.flaticon.es/autores/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
 
