@@ -27,10 +27,13 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Conceptos previos
 
-- [Números de oxidación/carga](#/2/1)
-- [Secuencia de los elementos](#/2/4)
-- [Sistemas de nomenclatura IUPAC 2005](#/2/5)
-- [Otras nomenclaturas](#/2/15)
+- [Nomenclatura de sustitución](#/2/1)
+- [Creación de nombres sistemáticos](#/2/4)
+- [Grupos funcionales --- sufijos y prefijos](#/2/5)
+- [Compuestos padre (hidrocarburos)](#/2/15)
+- [Elección y numeración de la cadena principal](#/2/15)
+- [Nomenclatura de clase funcional](#/2/15)
+- [Representación gráfica (zigzag)](#/2/15)
 
 (continúa hacia abajo)
 
