@@ -104,7 +104,12 @@ En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***,
 #### Aromáticos (arenos)
 El **benceno**, **C<sub>6</sub>H<sub>6</sub>**, es el hidrocarburo aromático de **referencia**.
 
-##### Arenos policíclicos con importancia en sistemas bioológicos
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aromaticos.svg" lightbox="false" width="100%" >}}
+
+En caso de ser **sustituyente**, se denomina ***fenil(o)***.
+
+##### Arenos policíclicos con importancia en el estudio de sistemas biológicos
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/policiclicos.svg" lightbox="false" width="100%" >}}
 
 ### Elección y numeración de la cadena principal
 #### Elección
