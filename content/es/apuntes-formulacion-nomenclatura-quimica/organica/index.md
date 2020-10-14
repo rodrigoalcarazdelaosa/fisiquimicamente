@@ -94,7 +94,7 @@ Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cicloalcanos.svg" lightbox="false" width="100%" >}}
 
-#### Alquenos y alquinos
+#### Alquenos (C=C) y alquinos (C&equiv;C)
 La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples** (**C&equiv;C**)--- se indica mediante las **terminaciones *--eno*** e ***--ino***, respectivamente, y **localizadores** definiendo sus posiciones.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/insaturaciones.svg" lightbox="false" width="100%" >}}
