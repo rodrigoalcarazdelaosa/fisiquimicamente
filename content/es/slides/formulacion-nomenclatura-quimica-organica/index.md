@@ -285,3 +285,59 @@ Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haluros-acido.svg" lightbox="false" width="100%" >}}
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Funciones que contienen nitrógeno (<span style="color: #2a54a9">N</span>)
+- [Aminas (<span style="color: #2a54a9">---NH<sub>2</sub></span>)]
+- [Amidas (<span style="color: #2a54a9">---CONH<sub>2</sub></span>)]
+- [Nitrilos (<span style="color: #2a54a9">---C&equiv;N</span>)]
+- [Nitrocompuestos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Aminas (<span style="color: #2a54a9">---NH<sub>2</sub></span>)
+Si son el **grupo principal** se añade el **sufijo *--amina*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *amino--***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas.svg" lightbox="false" width="100%" >}}
+
+---
+
+####	Aminas secundarias y terciarias
+Cuando se reemplazan hidrógenos del grupo ---NH<sub>2</sub> por sustituyentes complejos se utiliza la letra <em>N</em> en vez de números localizadores.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas-sec-terc.svg" lightbox="false" width="100%" >}}
+
+---
+
+### Amidas (<span style="color: #2a54a9">---CONH<sub>2</sub></span>)
+Si son el **grupo principal** se añade el **sufijo *--amida*** (o ***--carboxamida***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *carbamoil--***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/amidas.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### Amidas secundarias y terciarias
+Igual que en las aminas, la sustitución de hidrógenos del grupo ---CONH<sub>2</sub> se denota por la letra <em>N</em> en vez de números localizadores.
+
+---
+
+### Nitrilos (<span style="color: #2a54a9">---C&equiv;N</span>)
+Si son el **grupo principal** se añade el **sufijo *--nitrilo*** (o ***--carbonitrilo***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *ciano--***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nitrilos.svg" lightbox="false" width="100%" >}}
+
+---
+
+### Nitrocompuestos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)
+No pueden ser nunca el grupo principal. Se nombran añadiendo el **prefijo *nitro--***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nitrocompuestos.svg" lightbox="false" width="100%" >}}
+
+{{% /section %}}
