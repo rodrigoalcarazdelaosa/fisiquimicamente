@@ -163,6 +163,8 @@ En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 ---
 
 ### Elección y numeración de la cadena principal
+
+---
 #### Elección
 La **cadena principal** se **elige** aplicando los siguientes **criterios**:
 
@@ -172,6 +174,8 @@ La **cadena principal** se **elige** aplicando los siguientes **criterios**:
 4. Contiene más átomos.
 5. Contiene más enlaces múltiples (dobles en caso de empate).
 6. Contiene más sustituyentes.
+
+---
 								
 #### Numeración
 La **cadena principal** se **numera** aplicando los siguientes **criterios**:
