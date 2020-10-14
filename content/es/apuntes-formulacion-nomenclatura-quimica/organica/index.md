@@ -34,12 +34,14 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
 
-| hept | cadena principal |
+| elemento | significado |
 | --- | --- |
 | hept(a) | cadena principal (heptano) |
 | en(o) | insaturación |
 | di | prefijo multiplicador |
 | ona | sufijo para el grupo principal (cetona) |
+| cloro | prefijo de sustituyente |
+| 2 4 5 6 | localizadores |
 
 #### Prefijos multiplicadores para entidades simples y complejas
 
