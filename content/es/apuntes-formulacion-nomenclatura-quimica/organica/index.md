@@ -48,6 +48,11 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 | Nº | Simple | Complejo | Nº | Simple | Complejo |
 | :--- | :--- | :--- | ---: | :--- | :--- |
 | 2 | di | bis | 8 | octa | octakis |
+| 3 | tri | tris | 9 | nona | nonakis |
+| 4 | tetra | tetrakis | 10 | deca | decakis |
+| 5 | penta | pentakis | 11 | undeca | undecakis |
+| 6 | hexa | hexakis | 12 | dodeca | dodecakis |
+| 7 | hepta | heptakis | 20 | icosa | icosakis |
 
 ### Creación de nombres sistemáticos
 
