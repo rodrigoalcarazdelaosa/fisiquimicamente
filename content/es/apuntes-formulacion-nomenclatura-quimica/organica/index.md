@@ -168,4 +168,6 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 
 ### Ácidos carboxílicos (<span style="color: #b50000">--COOH</span>)
 Son compuestos con un **grupo carboxilo**, **<span style="color: #b50000">--C(=O)OH</span>**.
-Si son el \textbf{grupo principal} se nombran comenzando por \textbf{\emph{ácido}} y añadiendo el \textbf{sufijo \emph{--oico}} (o \textbf{\emph{--carboxílico}}) al nombre del hidrocarburo, en caso contrario se utiliza el \textbf{prefijo \emph{carboxi--}}. Ej.: \textbf{aminoácidos} y \textbf{ácidos grasos}.
+Si son el **grupo principal** se nombran comenzando por ***ácido*** y añadiendo el **sufijo *--oico*** (o ***--carboxílico***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *carboxi--***. Ej.: **aminoácidos** y **ácidos grasos**.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/acidos-carboxilicos.svg" lightbox="false" width="100%" >}}
