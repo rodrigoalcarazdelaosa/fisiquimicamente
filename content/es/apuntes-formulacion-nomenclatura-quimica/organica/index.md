@@ -160,3 +160,8 @@ Si son el **grupo principal** se añade el **sufijo *--al*** (o ***--carbaldehí
 Si son el **grupo principal** se añade el **sufijo *--ona*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *oxo--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cetonas.svg" lightbox="false" width="100%" >}}
+
+### Éteres (<span style="color: #b50000">--OR</span>)
+No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **prefijo *(R)oxi--*** al nombre del hidrocarburo.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/eteres.svg" lightbox="false" width="100%" >}}
