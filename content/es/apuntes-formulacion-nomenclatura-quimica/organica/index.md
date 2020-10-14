@@ -87,6 +87,8 @@ Hidrocarburos en los que los **enlaces C--C** son todos **simples**. Se nombran 
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcanos.svg" lightbox="false" width="100%" >}}
 
+En caso de ser **sustituyentes**, cambian la **terminación** --ano por ***--il(o)***.
+
 ##### Cicloalcanos
 #### Alquenos y alquinos
 #### Aromáticos (arenos)
