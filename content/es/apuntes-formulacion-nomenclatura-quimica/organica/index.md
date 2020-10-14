@@ -83,6 +83,8 @@ Aromáticos
 : Hidrocarburos **cíclicos** con enlaces simples y múltiples alternados. Ejemplo: **benceno**.
 
 #### Alcanos
+Hidrocarburos en los que los **enlaces C-C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de C y la **terminación *--ano***.
+
 ##### Cicloalcanos
 #### Alquenos y alquinos
 #### Aromáticos (arenos)
