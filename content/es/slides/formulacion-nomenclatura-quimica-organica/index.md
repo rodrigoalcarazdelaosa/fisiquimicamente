@@ -17,7 +17,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ---
 
 - [Conceptos previos](#/2)
-- [Óxidos E<sub>2</sub>O<sub>n</sub>](#/3)
+- [Funciones que contienen halógenos (<span style="color: #4c5f26">F</span>, <span style="color: #4c5f26">Cl</span>, <span style="color: #4c5f26">Br</span> o <span style="color: #4c5f26">I</span>)](#/3)
 - [Hidruros EH<sub>n</sub>](#/4)
 - [Hidróxidos o bases M(OH)<sub>n</sub>](#/5)
 - [Oxácidos H<sub>a</sub>X<sub>b</sub>O<sub>c</sub>](#/6)
