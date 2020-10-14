@@ -45,6 +45,19 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 
 #### Prefijos multiplicadores para entidades simples y complejas
 
+| Número de átomos | Prefijo |
+| :---: | --- |
+| 1 | mono |
+| 2 | di (bis) |
+| 3 | tri (tris) |
+| 4 | tetra (tetrakis) |
+| 5 | penta (pentakis) |
+| 6 | hexa (hexakis) |
+| 7 | hepta (heptakis) |
+| 8 | octa (octakis) |
+| 9 | nona (nonakis) |
+| 10 | deca (decakis) |
+
 ### Creación de nombres sistemáticos
 
 ### Grupos funcionales &mdash; sufijos y prefijos
