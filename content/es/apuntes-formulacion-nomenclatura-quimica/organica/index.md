@@ -28,3 +28,14 @@ links:
 {{% toc %}}
 
 ## Conceptos previos
+
+### Nomenclatura de sustitución
+#### Prefijos multiplicadores para entidades simples y complejas
+
+### Creación de nombres sistemáticos
+
+### Grupos funcionales &ndash; sufijos y prefijos
+
+### Elección y numeración de la cadena principal
+#### Elección
+#### Numeración
