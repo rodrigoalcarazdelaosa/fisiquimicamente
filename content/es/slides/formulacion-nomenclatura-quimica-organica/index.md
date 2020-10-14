@@ -42,6 +42,6 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ---
 
 ### Nomenclatura de sustitución
-
+Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cuales se tratan como una **combinación** de un **compuesto padre** y de **grupos funcionales**, uno de los cuales se designa como el **grupo funcional principal**. El grupo principal formará la **cadena principal**, mientras que el resto podrá formar parte de la cadena principal o formar **cadenas laterales**.
 
 {{% /section %}}
