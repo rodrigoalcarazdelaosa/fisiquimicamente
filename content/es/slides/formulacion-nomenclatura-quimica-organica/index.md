@@ -110,6 +110,8 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/grupos-funcionales.svg" lightbox="false" width="100%" >}}
 
+---
+
 ### Compuestos padre (hidrocarburos)
 Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H). Distinguimos entre:
 
