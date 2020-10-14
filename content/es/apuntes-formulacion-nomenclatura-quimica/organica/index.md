@@ -50,3 +50,4 @@ links:
 ### Nomenclatura de clase funcional
 
 ### Representación gráfica (zigzag)
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/zigzag.svg" lightbox="false" width="100%" >}}
