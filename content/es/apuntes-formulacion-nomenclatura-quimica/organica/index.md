@@ -145,7 +145,7 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haloalcanos.svg" lightbox="false" width="100%" >}}
 
-## Funciones que contienen oxígeno (O)
+## Funciones que contienen oxígeno (<span style="color: #b50000">O</span>)
 ### Alcoholes (<span style="color: #b50000">---OH</span>)
 Si son el **grupo principal** se añade el **sufijo *--ol*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *hidroxi--***.
 
