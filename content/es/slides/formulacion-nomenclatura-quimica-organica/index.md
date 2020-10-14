@@ -146,7 +146,11 @@ Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
 #### Alquenos (C=C) y alquinos (C&equiv;C)
 La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples** (**C&equiv;C**)--- se indica mediante las **terminaciones *--eno*** e ***--ino***, respectivamente, y **localizadores** definiendo sus posiciones.
 
+---
+
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/insaturaciones.svg" lightbox="false" width="100%" >}}
+
+---
 
 En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
 
