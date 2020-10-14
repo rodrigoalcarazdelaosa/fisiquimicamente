@@ -200,7 +200,7 @@ Cuando se reemplazan hidrógenos del grupo ---NH<sub>2</sub> por sustituyentes c
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas-sec-terc.svg" lightbox="false" width="100%" >}}
 
-### Amidas (---CONH<sub>2</sub>)
+### Amidas (<span style="color: #2a54a9">---CONH<sub>2</sub></span>)
 Si son el **grupo principal** se añade el **sufijo *--amida*** (o ***--carboxamida***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *carbamoil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/amidas.svg" lightbox="false" width="100%" >}}
@@ -208,12 +208,12 @@ Si son el **grupo principal** se añade el **sufijo *--amida*** (o ***--carboxam
 #### Amidas secundarias y terciarias
 Igual que en las aminas, la sustitución de hidrógenos del grupo ---CONH<sub>2</sub> se denota por la letra <em>N</em> en vez de números localizadores.
 
-### Nitrilos (---C&equiv;N)
+### Nitrilos (<span style="color: #2a54a9">---C&equiv;N</span>)
 Si son el **grupo principal** se añade el **sufijo *--nitrilo*** (o ***--carbonitrilo***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *ciano--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nitrilos.svg" lightbox="false" width="100%" >}}
 
-### Nitrocompuestos (---NO<sub>2</sub>)
+### Nitrocompuestos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)
 No pueden ser nunca el grupo principal. Se nombran añadiendo el **prefijo *nitro--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nitrocompuestos.svg" lightbox="false" width="100%" >}}
