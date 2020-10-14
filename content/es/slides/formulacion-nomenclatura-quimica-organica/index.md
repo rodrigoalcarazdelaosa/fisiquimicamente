@@ -76,4 +76,91 @@ El grupo principal formará la **cadena principal**, mientras que el resto podr�
 | 6 | hexa | hexakis | 12 | dodeca | dodecakis |
 | 7 | hepta | heptakis | 20 | icosa | icosakis |
 
+---
+
+### Creación de nombres sistemáticos
+
+La **formación** de un **nombre sistemático** requiere varios **pasos**:
+
+1. **Determinar** el **grupo funcional principal** que se nombrará mediante un **sufijo**.
+2. **Determinar** la **cadena principal**, que ha de **contener** el **grupo principal**.
+3. **Nombrar** la **cadena principal** y **especificar** cualquier **insaturación** (enlaces C=C y C&equiv;C).
+4. **Combinar** el **nombre** de la **cadena principal** con el **sufijo** del **grupo funcional principal**.
+5. **Identificar** los **sustituyentes** y **ordenar** sus **prefijos alfabéticamente**.
+6. **Insertar prefijos** multiplicadores y **localizadores**.
+
+#### PIN
+La nueva edición del Libro Azul incorpora un conjunto jerárquico de criterios para elegir el **nombre único** que se prefiere a efectos de regulación, el ***Preferred IUPAC Name***, o **PIN**.
+
+### Grupos funcionales --- sufijos y prefijos
+Un **grupo funcional** es un **átomo** o **grupo** de **átomos** dentro de una molécula que puede ser **responsable** de las **reacciones químicas características** de esa **molécula**. La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de cada uno de ellos, en orden decreciente de **prioridad**:
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/grupos-funcionales.svg" lightbox="false" width="100%" >}}
+
+### Compuestos padre (hidrocarburos)
+Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H). Distinguimos entre:
+
+Alifáticos
+: Pueden ser de **cadena abierta** (acíclicos) o **cerrada** (cíclicos).
+
+Aromáticos
+: Hidrocarburos **cíclicos** con enlaces simples y múltiples alternados. Ej.: **benceno**.
+
+#### Alcanos (C---C)
+Hidrocarburos en los que los **enlaces C---C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcanos.svg" lightbox="false" width="100%" >}}
+
+En caso de ser **sustituyentes**, cambian la **terminación** --ano por ***--il(o)***.
+
+##### Cicloalcanos
+Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cicloalcanos.svg" lightbox="false" width="100%" >}}
+
+#### Alquenos (C=C) y alquinos (C&equiv;C)
+La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples** (**C&equiv;C**)--- se indica mediante las **terminaciones *--eno*** e ***--ino***, respectivamente, y **localizadores** definiendo sus posiciones.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/insaturaciones.svg" lightbox="false" width="100%" >}}
+
+En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
+
+#### Aromáticos (arenos)
+El **benceno**, **C<sub>6</sub>H<sub>6</sub>**, es el hidrocarburo aromático de **referencia**.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aromaticos.svg" lightbox="false" width="100%" >}}
+
+En caso de ser **sustituyente**, se denomina ***fenil(o)***.
+
+##### Arenos policíclicos con importancia en el estudio de sistemas biológicos
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/policiclicos.svg" lightbox="false" width="100%" >}}
+
+### Elección y numeración de la cadena principal
+#### Elección
+La **cadena principal** se **elige** aplicando los siguientes **criterios**:
+
+1. Contiene el grupo funcional principal.
+2. Contiene el mayor número de grupos funcionales.
+3. Los sistemas de anillos son prioritarios frente a las cadenas.
+4. Contiene más átomos.
+5. Contiene más enlaces múltiples (dobles en caso de empate).
+6. Contiene más sustituyentes.
+								
+#### Numeración
+La **cadena principal** se **numera** aplicando los siguientes **criterios**:
+
+1. Localizadores más bajos para heteroátomos (sustitutos de algún carbono en la cadena principal).
+2. Localizador más bajo para el grupo funcional principal.
+3. Localizadores más bajos para enlaces dobles y triples.
+4. Localizadores más bajos como conjunto para todos los sustituyentes nombrados como prefijos.
+5. Localizadores más bajos para sustituyentes en orden de mención (alfabético).
+
+### Nomenclatura de clase funcional
+También conocida como nomenclatura ***radicofuncional***, es la **preferida** para **ésteres** y **haluros de ácido** (también utilizada para **éteres** y **cetonas**). Los nombres consisten en el **nombre** del **grupo principal** del compuesto seguido de la palabra ***de*** y el **nombre** del **sustituyente** al que va unido.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-clase-funcional.svg" lightbox="false" width="100%" >}}
+
+### Representación gráfica (zigzag)
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/zigzag.svg" lightbox="false" width="100%" >}}
+
 {{% /section %}}
