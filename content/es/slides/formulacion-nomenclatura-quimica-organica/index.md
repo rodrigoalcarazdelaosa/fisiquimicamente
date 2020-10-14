@@ -168,6 +168,8 @@ En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 ##### Arenos policíclicos con importancia en el estudio de sistemas biológicos
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/policiclicos.svg" lightbox="false" width="100%" >}}
 
+---
+
 ### Elección y numeración de la cadena principal
 #### Elección
 La **cadena principal** se **elige** aplicando los siguientes **criterios**:
