@@ -52,6 +52,8 @@ El grupo principal formar√° la **cadena principal**, mientras que el resto podr√
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
 
+---
+
 | Elemento | Significado |
 | --- | --- |
 | <span style="color: #b50000">hept(a)</span> | cadena principal (heptano) |
