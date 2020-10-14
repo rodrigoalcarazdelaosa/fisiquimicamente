@@ -113,7 +113,23 @@ En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 
 ### Elección y numeración de la cadena principal
 #### Elección
+La **cadena principal** se **elige** aplicando los siguientes **criterios**:
+
+1. Contiene el grupo funcional principal.
+2. Contiene el mayor número de grupos funcionales.
+3. Los sistemas de anillos son prioritarios frente a las cadenas.
+4. Contiene más átomos.
+5. Contiene más enlaces múltiples (dobles en caso de empate).
+6. Contiene más sustituyentes.
+								
 #### Numeración
+La **cadena principal** se **numera** aplicando los siguientes **criterios**:
+
+1. Localizadores más bajos para heteroátomos (sustitutos de algún C en la cadena principal).
+2. Localizador más bajo para el grupo funcional principal.
+3. Localizadores más bajos para enlaces dobles y triples.
+4. Localizadores más bajos como conjunto para todos los sustituyentes nombrados como prefijos.
+5. Localizadores más bajos para sustituyentes en orden de mención (alfabético).
 
 ### Nomenclatura de clase funcional
 
