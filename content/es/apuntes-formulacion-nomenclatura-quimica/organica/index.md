@@ -83,7 +83,7 @@ Aromáticos
 : Hidrocarburos **cíclicos** con enlaces simples y múltiples alternados. Ej.: **benceno**.
 
 #### Alcanos (C---C)
-Hidrocarburos en los que los **enlaces C--C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
+Hidrocarburos en los que los **enlaces C---C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcanos.svg" lightbox="false" width="100%" >}}
 
@@ -145,12 +145,12 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haloalcanos.svg" lightbox="false" width="100%" >}}
 
 ## Funciones que contienen oxígeno (O)
-### Alcoholes (<span style="color: #b50000">--OH</span>)
+### Alcoholes (<span style="color: #b50000">---OH</span>)
 Si son el **grupo principal** se añade el **sufijo *--ol*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *hidroxi--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcoholes.svg" lightbox="false" width="100%" >}}
 
-### Aldehídos (<span style="color: #b50000">--CHO</span>)
+### Aldehídos (<span style="color: #b50000">---CHO</span>)
 Si son el **grupo principal** se añade el **sufijo *--al*** (o ***--carbaldehído***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *formil--*** (u ***oxo--***).
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aldehidos.svg" lightbox="false" width="100%" >}}
@@ -161,21 +161,21 @@ Si son el **grupo principal** se añade el **sufijo *--ona*** al nombre del hidr
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cetonas.svg" lightbox="false" width="100%" >}}
 
-### Éteres (<span style="color: #b50000">--OR</span>)
+### Éteres (<span style="color: #b50000">---OR</span>)
 No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **prefijo *(R)oxi--*** al nombre del hidrocarburo.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/eteres.svg" lightbox="false" width="100%" >}}
 
-### Ácidos carboxílicos (<span style="color: #b50000">--COOH</span>)
-Son compuestos con un **grupo carboxilo**, **<span style="color: #b50000">--C(=O)OH</span>**.
+### Ácidos carboxílicos (<span style="color: #b50000">---COOH</span>)
+Son compuestos con un **grupo carboxilo**, **<span style="color: #b50000">---C(=O)OH</span>**.
 Si son el **grupo principal** se nombran comenzando por ***ácido*** y añadiendo el **sufijo *--oico*** (o ***--carboxílico***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *carboxi--***. Ejemplos: **aminoácidos** y **ácidos grasos**.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/acidos-carboxilicos.svg" lightbox="false" width="100%" >}}
 
-### Ésteres (<span style="color: #b50000">--COOR</span>)
-Derivan de ácidos, en los que al menos un grupo hidroxi, --OH, se sustituye por un grupo --OR. Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *(R)oxicarbonil--***.
+### Ésteres (<span style="color: #b50000">---COOR</span>)
+Derivan de ácidos, en los que al menos un grupo hidroxi, ---OH, se sustituye por un grupo ---OR. Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *(R)oxicarbonil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/esteres.svg" lightbox="false" width="100%" >}}
 
-### Carboxilatos (<span style="color: #b50000">--COO<sup>-</sup></span>)
+### Carboxilatos (<span style="color: #b50000">---COO<sup>--</sup></span>)
 Son la base conjugada de un ácido carboxílico, siendo iones con carga negativa (aniones). Se utiliza la \textbf{nomenclatura} de \textbf{clase funcional}, sustituyendo la \textbf{terminación} --oico del ácido por \textbf{\emph{--oato}}, si son el \textbf{grupo principal}; en caso contrario se utiliza el \textbf{prefijo \emph{carboxilato--}}.
