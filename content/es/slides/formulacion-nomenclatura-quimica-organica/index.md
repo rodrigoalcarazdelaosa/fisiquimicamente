@@ -225,10 +225,6 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 - [Carboxilatos (<span style="color: #b50000">---COO<sup>--</sup></span>)]
 - [Haluros de ácido (<span style="color: #b50000">---COX</span>)]
 
-(continúa hacia abajo)
-
-👇
-
 ---
 
 ### Alcoholes (<span style="color: #b50000">---OH</span>)
