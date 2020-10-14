@@ -34,7 +34,7 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
 
-| elemento | significado |
+| Elemento | Significado |
 | --- | --- |
 | hept(a) | cadena principal (heptano) |
 | en(o) | insaturación |
