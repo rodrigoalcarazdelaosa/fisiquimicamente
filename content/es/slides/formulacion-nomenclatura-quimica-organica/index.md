@@ -239,16 +239,22 @@ Si son el **grupo principal** se añade el **sufijo *--al*** (o ***--carbaldehí
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aldehidos.svg" lightbox="false" width="100%" >}}
 
+---
+
 ### Cetonas (<span style="color: #b50000">=O</span>)
 
 Si son el **grupo principal** se añade el **sufijo *--ona*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *oxo--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cetonas.svg" lightbox="false" width="100%" >}}
 
+---
+
 ### Éteres (<span style="color: #b50000">---OR</span>)
 No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **prefijo *(R)oxi--*** al nombre del hidrocarburo.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/eteres.svg" lightbox="false" width="100%" >}}
+
+---
 
 ### Ácidos carboxílicos (<span style="color: #b50000">---COOH</span>)
 Son compuestos con un **grupo carboxilo**, **<span style="color: #b50000">---C(=O)OH</span>**.
@@ -256,15 +262,21 @@ Si son el **grupo principal** se nombran comenzando por ***ácido*** y añadiend
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/acidos-carboxilicos.svg" lightbox="false" width="100%" >}}
 
+---
+
 ### Ésteres (<span style="color: #b50000">---COOR</span>)
 Derivan de ácidos, en los que al menos un grupo hidroxi, ---OH, se sustituye por un grupo ---OR. Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *(R)oxicarbonil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/esteres.svg" lightbox="false" width="100%" >}}
 
+---
+
 ### Carboxilatos (<span style="color: #b50000">---COO<sup>--</sup></span>)
 Son la base conjugada de un ácido carboxílico, siendo iones con carga negativa (aniones). Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *carboxilato--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/carboxilatos.svg" lightbox="false" width="100%" >}}
+
+---
 
 ### Haluros de ácido (<span style="color: #b50000">---COX</span>)
 Derivan de ácidos carboxílicos, sustituyendo el grupo hidroxi, ---OH, por un haluro (F, Cl, Br o I).
