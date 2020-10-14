@@ -48,4 +48,17 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 
 El grupo principal formará la **cadena principal**, mientras que el resto podrá formar parte de la cadena principal o formar **cadenas laterales**.
 
+---
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
+
+| Elemento | Significado |
+| --- | --- |
+| <span style="color: #b50000">hept(a)</span> | cadena principal (heptano) |
+| <span style="color: #b50000">en(o)</span> | insaturación |
+| <span style="color: #b50000">di</span> | prefijo multiplicador |
+| <span style="color: #2a54a9">ona</span> | sufijo para el grupo principal (cetona) |
+| <span style="color: #2a54a9">cloro</span> | prefijo de sustituyente |
+| 2 4 5 6 | localizadores |
+
 {{% /section %}}
