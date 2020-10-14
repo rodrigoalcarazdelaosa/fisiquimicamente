@@ -80,7 +80,7 @@ Alifáticos
 : Pueden ser de **cadena abierta** (acíclicos) o **cerrada** (cíclicos).
 
 Aromáticos
-: Hidrocarburos **cíclicos** con enlaces simples y múltiples alternados. Ejemplo: **benceno**.
+: Hidrocarburos **cíclicos** con enlaces simples y múltiples alternados. Ej.: **benceno**.
 
 #### Alcanos
 Hidrocarburos en los que los **enlaces C--C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
