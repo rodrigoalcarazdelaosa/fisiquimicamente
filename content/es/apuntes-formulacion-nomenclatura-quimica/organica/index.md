@@ -25,6 +25,6 @@ links:
 
 ---
 
-{{% callout warning %}}
-En construcción...
-{{% /callout %}}
+{{% toc %}}
+
+## Conceptos previos
