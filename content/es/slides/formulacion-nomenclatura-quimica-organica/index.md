@@ -301,10 +301,10 @@ Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro 
 {{% section %}}
 
 ## Funciones que contienen nitrógeno (<span style="color: #2a54a9">N</span>)
-- [Aminas (<span style="color: #2a54a9">---NH<sub>2</sub></span>)]
-- [Amidas (<span style="color: #2a54a9">---CONH<sub>2</sub></span>)]
-- [Nitrilos (<span style="color: #2a54a9">---C&equiv;N</span>)]
-- [Nitrocompuestos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)]
+- [Aminas (<span style="color: #2a54a9">---NH<sub>2</sub></span>)](#/5/1)
+- [Amidas (<span style="color: #2a54a9">---CONH<sub>2</sub></span>)](#/5/3)
+- [Nitrilos (<span style="color: #2a54a9">---C&equiv;N</span>)](#/5/5)
+- [Nitrocompuestos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)](#/5/6)
 
 (continúa hacia abajo)
 
