@@ -150,6 +150,8 @@ La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples**
 
 En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
 
+---
+
 #### Aromáticos (arenos)
 El **benceno**, **C<sub>6</sub>H<sub>6</sub>**, es el hidrocarburo aromático de **referencia**.
 
