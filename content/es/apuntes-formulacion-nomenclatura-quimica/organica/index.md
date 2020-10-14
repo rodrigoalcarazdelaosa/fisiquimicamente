@@ -149,3 +149,8 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 Si son el **grupo principal** se añade el **sufijo *--ol*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *hidroxi--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcoholes.svg" lightbox="false" width="100%" >}}
+
+### Aldehídos (<span style="color: #b50000">--CHO</span>)
+Si son el **grupo principal** se añade el **sufijo *--al*** (o ***--carbaldehído***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *formil--*** (u ***oxo--***).
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aldehidos.svg" lightbox="false" width="100%" >}}
