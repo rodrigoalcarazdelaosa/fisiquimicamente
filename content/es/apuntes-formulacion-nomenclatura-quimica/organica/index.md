@@ -23,6 +23,7 @@ links:
   name: Póster
   url: formulacion-nomenclatura-organica-poster.pdf
 
+slides: formulacion-nomenclatura-quimica-organica
 ---
 
 {{% toc %}}
