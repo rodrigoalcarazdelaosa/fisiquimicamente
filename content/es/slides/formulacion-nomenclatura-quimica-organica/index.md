@@ -28,9 +28,9 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ## Conceptos previos
 
 - [Nomenclatura de sustitución](#/2/1)
-- [Creación de nombres sistemáticos](#/2/4)
-- [Grupos funcionales --- sufijos y prefijos](#/2/5)
-- [Compuestos padre (hidrocarburos)](#/2/15)
+- [Creación de nombres sistemáticos](#/2/6)
+- [Grupos funcionales --- sufijos y prefijos](#/2/9)
+- [Compuestos padre (hidrocarburos)](#/2/12)
 - [Elección y numeración de la cadena principal](#/2/15)
 - [Nomenclatura de clase funcional](#/2/15)
 - [Representación gráfica (zigzag)](#/2/15)
@@ -113,6 +113,16 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 ---
 
 ### Compuestos padre (hidrocarburos)
+- [Alcanos (C---C)]
+- [Alquenos (C=C) y alquinos (C&equiv;C)]
+- [Aromáticos (arenos)]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H). Distinguimos entre:
 
 Alifáticos
