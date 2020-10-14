@@ -56,6 +56,19 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 
 ### Creación de nombres sistemáticos
 
+La **formación** de un **nombre sistemático** requiere varios **pasos**:
+\begin{enumerate}
+1. **Determinar** el **grupo funcional principal** que se nombrará mediante un **sufijo**.
+2. **Determinar** la **cadena principal**, que ha de **contener** el **grupo principal**.
+3. **Nombrar** la **cadena principal** y **especificar** cualquier **insaturación** (enlaces C=C y C$\equiv$C).
+	\item \textbf{Combinar} el \textbf{nombre} de la \textbf{cadena principal} con el \textbf{sufijo} del \textbf{grupo funcional principal}.
+	\item \textbf{Identificar} los \textbf{sustituyentes} y \textbf{ordenar} sus \textbf{prefijos alfabéticamente}.
+	\item \textbf{Insertar prefijos} multiplicadores y \textbf{localizadores}.
+\end{enumerate}
+
+#### PIN
+La nueva edición del Libro Azul incorpora un conjunto jerárquico de criterios para elegir el **nombre único** que se prefiere a efectos de regulación, el ***Preferred IUPAC Name***, o **PIN**.
+
 ### Grupos funcionales &mdash; sufijos y prefijos
 
 ### Compuestos padre (hidrocarburos)
