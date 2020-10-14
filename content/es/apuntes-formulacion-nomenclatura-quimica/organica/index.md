@@ -36,6 +36,17 @@ links:
 
 ### Grupos funcionales &mdash; sufijos y prefijos
 
+### Compuestos padre (hidrocarburos)
+#### Alcanos
+##### Cicloalcanos
+#### Alquenos y alquinos
+#### Aromáticos (arenos)
+##### Arenos policíclicos con importancia en sistemas bioológicos
+
 ### Elección y numeración de la cadena principal
 #### Elección
 #### Numeración
+
+### Nomenclatura de clase funcional
+
+### Representación gráfica (zigzag)
