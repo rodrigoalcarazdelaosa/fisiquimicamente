@@ -23,7 +23,7 @@ links:
   name: Póster
   url: formulacion-nomenclatura-inorganica-poster.pdf
 
-slides: formulacion-nomenclatura-quimica-inorganica  
+slides: formulacion-nomenclatura-quimica-inorganica
 ---
 
 {{% toc %}}
