@@ -187,3 +187,5 @@ Derivan de ácidos carboxílicos, sustituyendo el grupo hidroxi, ---OH, por un h
 Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro de*** y sustituyendo la **terminación** --oico del ácido por ***--oilo***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *halocarbonil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haluros-acido.svg" lightbox="false" width="100%" >}}
+
+## Funciones que contienen nitrógeno (N)
