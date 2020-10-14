@@ -94,8 +94,11 @@ Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cicloalcanos.svg" lightbox="false" width="100%" >}}
 
-
 #### Alquenos y alquinos
+La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples** (**C&equiv;C**)--- se indica mediante las **terminaciones *--eno*** e ***--ino***, respectivamente, y **localizadores** definiendo sus posiciones.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/insaturaciones.svg" lightbox="false" width="100%" >}}
+
 #### Aromáticos (arenos)
 ##### Arenos policíclicos con importancia en sistemas bioológicos
 
