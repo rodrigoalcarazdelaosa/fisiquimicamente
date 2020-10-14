@@ -31,9 +31,9 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 - [Creación de nombres sistemáticos](#/2/6)
 - [Grupos funcionales --- sufijos y prefijos](#/2/9)
 - [Compuestos padre (hidrocarburos)](#/2/12)
-- [Elección y numeración de la cadena principal](#/2/15)
-- [Nomenclatura de clase funcional](#/2/15)
-- [Representación gráfica (zigzag)](#/2/15)
+- [Elección y numeración de la cadena principal](#/2/19)
+- [Nomenclatura de clase funcional](#/2/22)
+- [Representación gráfica (zigzag)](#/2/23)
 
 (continúa hacia abajo)
 
