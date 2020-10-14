@@ -1,7 +1,7 @@
 ---
 title: Formulación y nomenclatura de Química Orgánica
 subtitle: Recomendaciones y nombres preferidos de la IUPAC de 2013
-summary: "<code style='background:#ffcccc'>EN CONSTRUCCIÓN</code> <br> Recomendaciones y nombres preferidos de la IUPAC de 2013."
+summary: "Recomendaciones y nombres preferidos de la IUPAC de 2013."
 tags:
 - formulación
 - nomenclatura
