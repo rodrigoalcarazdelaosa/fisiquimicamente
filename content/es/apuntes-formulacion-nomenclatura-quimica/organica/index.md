@@ -90,6 +90,11 @@ Hidrocarburos en los que los **enlaces C--C** son todos **simples**. Se nombran 
 En caso de ser **sustituyentes**, cambian la **terminación** --ano por ***--il(o)***.
 
 ##### Cicloalcanos
+Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cicloalcanos.svg" lightbox="false" width="100%" >}}
+
+
 #### Alquenos y alquinos
 #### Aromáticos (arenos)
 ##### Arenos policíclicos con importancia en sistemas bioológicos
