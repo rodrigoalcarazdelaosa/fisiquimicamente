@@ -125,7 +125,7 @@ La **cadena principal** se **elige** aplicando los siguientes **criterios**:
 #### Numeración
 La **cadena principal** se **numera** aplicando los siguientes **criterios**:
 
-1. Localizadores más bajos para heteroátomos (sustitutos de algún C en la cadena principal).
+1. Localizadores más bajos para heteroátomos (sustitutos de algún carbono en la cadena principal).
 2. Localizador más bajo para el grupo funcional principal.
 3. Localizadores más bajos para enlaces dobles y triples.
 4. Localizadores más bajos como conjunto para todos los sustituyentes nombrados como prefijos.
