@@ -69,6 +69,7 @@ La **formación** de un **nombre sistemático** requiere varios **pasos**:
 La nueva edición del Libro Azul incorpora un conjunto jerárquico de criterios para elegir el **nombre único** que se prefiere a efectos de regulación, el ***Preferred IUPAC Name***, o **PIN**.
 
 ### Grupos funcionales &mdash; sufijos y prefijos
+Un **grupo funcional** es un **átomo** o **grupo** de **átomos** dentro de una molécula que puede ser **responsable** de las **reacciones químicas características** de esa **molécula**. La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de cada uno de ellos, en orden decreciente de **prioridad**:
 
 ### Compuestos padre (hidrocarburos)
 #### Alcanos
