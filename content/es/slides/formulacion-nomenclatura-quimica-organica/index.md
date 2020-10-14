@@ -186,10 +186,14 @@ La **cadena principal** se **numera** aplicando los siguientes **criterios**:
 4. Localizadores más bajos como conjunto para todos los sustituyentes nombrados como prefijos.
 5. Localizadores más bajos para sustituyentes en orden de mención (alfabético).
 
+---
+
 ### Nomenclatura de clase funcional
 También conocida como nomenclatura ***radicofuncional***, es la **preferida** para **ésteres** y **haluros de ácido** (también utilizada para **éteres** y **cetonas**). Los nombres consisten en el **nombre** del **grupo principal** del compuesto seguido de la palabra ***de*** y el **nombre** del **sustituyente** al que va unido.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-clase-funcional.svg" lightbox="false" width="100%" >}}
+
+---
 
 ### Representación gráfica (zigzag)
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/zigzag.svg" lightbox="false" width="100%" >}}
