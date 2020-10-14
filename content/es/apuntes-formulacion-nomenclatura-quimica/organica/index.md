@@ -165,3 +165,7 @@ Si son el **grupo principal** se añade el **sufijo *--ona*** al nombre del hidr
 No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **prefijo *(R)oxi--*** al nombre del hidrocarburo.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/eteres.svg" lightbox="false" width="100%" >}}
+
+### Ácidos carboxílicos (<span style="color: #b50000">--COOH</span>)
+Son compuestos con un **grupo carboxilo**, **<span style="color: #b50000">--C(=O)OH</span>**.
+Si son el \textbf{grupo principal} se nombran comenzando por \textbf{\emph{ácido}} y añadiendo el \textbf{sufijo \emph{--oico}} (o \textbf{\emph{--carboxílico}}) al nombre del hidrocarburo, en caso contrario se utiliza el \textbf{prefijo \emph{carboxi--}}. Ej.: \textbf{aminoácidos} y \textbf{ácidos grasos}.
