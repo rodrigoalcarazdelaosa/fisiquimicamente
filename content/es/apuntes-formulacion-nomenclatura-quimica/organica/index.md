@@ -85,10 +85,6 @@ Aromáticos
 #### Alcanos
 Hidrocarburos en los que los **enlaces C--C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
 
-| Numero de átomos de C | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | ... |
-| ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Prefijo | met-- | et-- | prop-- | but-- | pent(a)-- | hex(a)-- | hept(a)-- | oct(a)-- | ... |
-
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcanos.svg" lightbox="false" width="100%" >}}
 
 ##### Cicloalcanos
