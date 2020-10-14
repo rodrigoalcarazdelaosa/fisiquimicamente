@@ -37,8 +37,8 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 | Elemento | Significado |
 | --- | --- |
 | <span style="color: #b50000">hept(a)</span> | cadena principal (heptano) |
-| en(o) | insaturación |
-| di | prefijo multiplicador |
+| <span style="color: #b50000">en(o)</span> | insaturación |
+| <span style="color: #b50000">di</span> | prefijo multiplicador |
 | ona | sufijo para el grupo principal (cetona) |
 | cloro | prefijo de sustituyente |
 | 2 4 5 6 | localizadores |
