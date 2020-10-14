@@ -34,7 +34,7 @@ links:
 
 ### Creación de nombres sistemáticos
 
-### Grupos funcionales &ndash; sufijos y prefijos
+### Grupos funcionales &mdash; sufijos y prefijos
 
 ### Elección y numeración de la cadena principal
 #### Elección
