@@ -207,7 +207,7 @@ Si son el **grupo principal** se añade el **sufijo *--amida*** (o ***--carboxam
 #### Amidas secundarias y terciarias
 Igual que en las aminas, la sustitución de hidrógenos del grupo ---CONH<sub>2</sub> se denota por la letra <em>N</em> en vez de números localizadores.
 
-### Nitrilos (---C&equiv;N}
+### Nitrilos (---C&equiv;N)
 Si son el **grupo principal** se añade el **sufijo *--nitrilo*** (o ***--carbonitrilo***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *ciano--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nitrilos.svg" lightbox="false" width="100%" >}}
