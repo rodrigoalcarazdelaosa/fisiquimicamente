@@ -99,7 +99,11 @@ La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples**
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/insaturaciones.svg" lightbox="false" width="100%" >}}
 
+En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
+
 #### Aromáticos (arenos)
+El **benceno**, **C<sub>6</sub>H<sub>6</sub>**, es el hidrocarburo aromático de **referencia**.
+
 ##### Arenos policíclicos con importancia en sistemas bioológicos
 
 ### Elección y numeración de la cadena principal
