@@ -36,8 +36,10 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 
 | hept | cadena principal |
 | --- | --- |
-| hept | cadena principal |
-| hola | hola |
+| hept(a) | cadena principal (heptano) |
+| en(o) | insaturación |
+| di | prefijo multiplicador |
+| ona | sufijo para el grupo principal (cetona) |
 
 #### Prefijos multiplicadores para entidades simples y complejas
 
