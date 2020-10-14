@@ -139,7 +139,7 @@ También conocida como nomenclatura ***radicofuncional***, es la **preferida** p
 ### Representación gráfica (zigzag)
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/zigzag.svg" lightbox="false" width="100%" >}}
 
-## Funciones que contienen halógenos (F, Cl, Br o I)
+## Funciones que contienen halógenos (<span style="color: #4c5f26">F</span>, Cl, Br o I)
 No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **prefijo *fluoro--***, ***cloro--***, ***bromo--*** o ***yodo--***, según corresponda, al nombre del hidrocarburo.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haloalcanos.svg" lightbox="false" width="100%" >}}
