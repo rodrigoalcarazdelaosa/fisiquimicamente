@@ -227,13 +227,13 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 
 ## Funciones que contienen oxígeno (<span style="color: #b50000">O</span>)
 - [Alcoholes (<span style="color: #b50000">---OH</span>)](#/4/1)
-- [Aldehídos (<span style="color: #b50000">---CHO</span>)](#/4/1)
-- [Cetonas (<span style="color: #b50000">=O</span>)](#/4/1)
-- [Éteres (<span style="color: #b50000">---OR</span>)](#/4/1)
-- [Ácidos carboxílicos (<span style="color: #b50000">---COOH</span>)](#/4/1)
-- [Ésteres (<span style="color: #b50000">---COOR</span>)](#/4/1)
-- [Carboxilatos (<span style="color: #b50000">---COO<sup>--</sup></span>)](#/4/1)
-- [Haluros de ácido (<span style="color: #b50000">---COX</span>)](#/4/1)
+- [Aldehídos (<span style="color: #b50000">---CHO</span>)](#/4/2)
+- [Cetonas (<span style="color: #b50000">=O</span>)](#/4/3)
+- [Éteres (<span style="color: #b50000">---OR</span>)](#/4/4)
+- [Ácidos carboxílicos (<span style="color: #b50000">---COOH</span>)](#/4/5)
+- [Ésteres (<span style="color: #b50000">---COOR</span>)](#/4/6)
+- [Carboxilatos (<span style="color: #b50000">---COO<sup>--</sup></span>)](#/4/7)
+- [Haluros de ácido (<span style="color: #b50000">---COX</span>)](#/4/8)
 
 ---
 
