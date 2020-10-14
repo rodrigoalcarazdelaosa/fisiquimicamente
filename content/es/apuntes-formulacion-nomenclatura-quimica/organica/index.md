@@ -77,10 +77,10 @@ Un **grupo funcional** es un **átomo** o **grupo** de **átomos** dentro de una
 Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H). Distinguimos entre:
 
 Alifáticos
-: Pueden ser de \textbf{cadena abierta} (acíclicos) o \textbf{cerrada} (cíclicos).
+: Pueden ser de **cadena abierta** (acíclicos) o **cerrada** (cíclicos).
 
 Aromáticos
-: Hidrocarburos \textbf{cíclicos} con enlaces simples y múltiples alternados. Ej.: \textbf{benceno}.
+: Hidrocarburos **cíclicos** con enlaces simples y múltiples alternados. Ejemplo: **benceno**.
 
 #### Alcanos
 ##### Cicloalcanos
