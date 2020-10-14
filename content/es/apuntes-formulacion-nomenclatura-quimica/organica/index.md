@@ -181,3 +181,9 @@ Derivan de ácidos, en los que al menos un grupo hidroxi, ---OH, se sustituye po
 Son la base conjugada de un ácido carboxílico, siendo iones con carga negativa (aniones). Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *carboxilato--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/carboxilatos.svg" lightbox="false" width="100%" >}}
+
+### Haluros de ácido (<span style="color: #b50000">---COX</span>)
+Derivan de ácidos carboxílicos, sustituyendo el grupo hidroxi, ---OH, por un haluro (F, Cl, Br o I).
+Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro de*** y sustituyendo la **terminación** --oico del ácido por ***--oilo***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *halocarbonil--***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haluros-acido.svg" lightbox="false" width="100%" >}}
