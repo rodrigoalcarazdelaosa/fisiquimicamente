@@ -108,7 +108,7 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 
 ---
 
-{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/grupos-funcionales.svg" lightbox="false" width="60%" >}}
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/grupos-funcionales.svg" lightbox="false" width="70%" >}}
 
 ---
 
