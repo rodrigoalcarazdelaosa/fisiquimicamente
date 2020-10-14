@@ -189,7 +189,7 @@ Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haluros-acido.svg" lightbox="false" width="100%" >}}
 
 ## Funciones que contienen nitrógeno (N)
-### Aminas (---NH<sub>2</sub>}
+### Aminas (---NH<sub>2</sub>)
 Si son el **grupo principal** se añade el **sufijo *--amina*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *amino--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas.svg" lightbox="false" width="100%" >}}
