@@ -189,3 +189,39 @@ Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haluros-acido.svg" lightbox="false" width="100%" >}}
 
 ## Funciones que contienen nitrógeno (N)
+### Aminas (---NH<sub>2</sub>}
+Si son el **grupo principal** se añade el **sufijo *--amina*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *amino--***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas.svg" lightbox="false" width="100%" >}}
+
+####	Aminas secundarias y terciarias
+Cuando se reemplazan hidrógenos del grupo ---NH<sub>2</sub> por sustituyentes complejos se utiliza la letra <em>N</em> en vez de números localizadores.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas-sec-terc.svg" lightbox="false" width="100%" >}}
+
+\heading{Amidas (\textcolor{TOL_blue}{\ch{-CONH2}})}
+Si son el \textbf{grupo principal} se añade el \textbf{sufijo \emph{--amida}} (o \textbf{\emph{--carboxamida}}) al nombre del hidrocarburo, en caso contrario se utiliza el \textbf{prefijo \emph{carbamoil--}}.
+\begin{center}
+	\setlength{\tabcolsep}{18pt}
+	\begin{tabular}{ccc}
+	\tabchemfig{H_3C-[:30]([:90,,,,TOL_blue]=\textcolor{TOL_blue}{O})-[:-30,,,,TOL_blue]\textcolor{TOL_blue}{N}|\textcolor{TOL_blue}{H_2}} & \tabchemfig{*6(-=-(-[:30](=[:90,,,,TOL_blue]\textcolor{TOL_blue}{O})-[:-30,,,,TOL_blue]\textcolor{TOL_blue}{N}|\textcolor{TOL_blue}{H_2})=-=-)} & \tabchemfig{(-[:270,,,,TOL_blue]\textcolor{TOL_blue}{N}|\textcolor{TOL_blue}{H_2})(=[:150,,,,TOL_blue]\textcolor{TOL_blue}{O})-[:30,,,,TOL_blue]\charge{90:10pt=$\scriptstyle 3$}{}-[:-30]\charge{90:10pt=$\scriptstyle 2$}{}(-[:270,,,,TOL_blue]\textcolor{TOL_blue}{N}|\textcolor{TOL_blue}{H_2})-[:30]\charge{270:10pt=$\scriptstyle 1$}{}(=[:90]O)-[:-30]OH} \\
+	acet\textcolor{TOL_blue}{amida} & benz\textcolor{TOL_blue}{amida} & \makecell{asparagina (PIN) \\ (ácido 2-amino-\textcolor{TOL_blue}{3-carbamoil}propanoico)} \\
+	\end{tabular}
+\end{center}
+
+\begin{description}
+	\item[Amidas secundarias y terciarias] Igual que en las aminas, la sustitución de hidrógenos del grupo \textcolor{TOL_blue}{\ch{-CONH2}} se denota por la letra $\color{TOL_blue}N$ en vez de números localizadores.
+\end{description}
+
+\heading{Nitrilos (\textcolor{TOL_blue}{\ch{-C+N}})}
+Si son el \textbf{grupo principal} se añade el \textbf{sufijo \emph{--nitrilo}} (o \textbf{\emph{--carbonitrilo}}) al nombre del hidrocarburo, en caso contrario se utiliza el \textbf{prefijo \emph{ciano--}}.
+\begin{center}
+	\setlength{\tabcolsep}{30pt}
+	\begin{tabular}{ccc}
+	\tabchemfig{H_3C-[:30]-[:-30]-[:30]C~[:30,,,,TOL_blue]\textcolor{TOL_blue}{N}} & \tabchemfig{*6(-=-(-[:30,,,,TOL_blue]\textcolor{TOL_blue}{C}~[,,,,TOL_blue]\textcolor{TOL_blue}{N})=-=-)} & \tabchemfig{\charge{330:10pt=$\scriptstyle 2$}{}(-[:270,,,,TOL_blue]\textcolor{TOL_blue}{C}|\textcolor{TOL_blue}{N})(=[:150]H_2C)-[:30]\charge{270:10pt=$\scriptstyle 3$}{}(=[:90]O)-[:-30]O-[:30]CH_3} \\
+	butano\textcolor{TOL_blue}{nitrilo} & benzo\textcolor{TOL_blue}{nitrilo} & \makecell{2-\textcolor{TOL_blue}{ciano}prop-2-enoato de metilo (PIN) \\ (cianoacrilato de metilo)} \\
+	\end{tabular}
+\end{center}
+
+\heading{Nitrocompuestos (\textcolor{TOL_blue}{\ch{-NO2}})}
+No pueden ser nunca el grupo principal. Se nombran añadiendo el \textbf{prefijo \emph{nitro--}}.
