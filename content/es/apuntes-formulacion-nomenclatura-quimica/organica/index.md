@@ -154,3 +154,9 @@ Si son el **grupo principal** se añade el **sufijo *--ol*** al nombre del hidro
 Si son el **grupo principal** se añade el **sufijo *--al*** (o ***--carbaldehído***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *formil--*** (u ***oxo--***).
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aldehidos.svg" lightbox="false" width="100%" >}}
+
+### Cetonas (<span style="color: #b50000">=O</span>)
+
+Si son el **grupo principal** se añade el **sufijo *--ona*** al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *oxo--***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cetonas.svg" lightbox="false" width="100%" >}}
