@@ -85,6 +85,8 @@ Aromáticos
 #### Alcanos
 Hidrocarburos en los que los **enlaces C--C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
 
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcanos.svg" lightbox="false" width="100%" >}}
+
 ##### Cicloalcanos
 #### Alquenos y alquinos
 #### Aromáticos (arenos)
