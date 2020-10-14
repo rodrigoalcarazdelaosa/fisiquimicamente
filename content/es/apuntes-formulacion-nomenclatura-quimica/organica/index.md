@@ -74,6 +74,14 @@ Un **grupo funcional** es un **átomo** o **grupo** de **átomos** dentro de una
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/grupos-funcionales.svg" lightbox="false" width="100%" >}}
 
 ### Compuestos padre (hidrocarburos)
+Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H). Distinguimos entre:
+
+Alifáticos
+: Pueden ser de \textbf{cadena abierta} (acíclicos) o \textbf{cerrada} (cíclicos).
+
+Aromáticos
+: Hidrocarburos \textbf{cíclicos} con enlaces simples y múltiples alternados. Ej.: \textbf{benceno}.
+
 #### Alcanos
 ##### Cicloalcanos
 #### Alquenos y alquinos
