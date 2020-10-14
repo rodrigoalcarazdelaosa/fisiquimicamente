@@ -34,10 +34,6 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
 
-| hept | cadena principal |
-| --- | --- |
-| hola | hola |
-
 #### Prefijos multiplicadores para entidades simples y complejas
 
 ### Creación de nombres sistemáticos
