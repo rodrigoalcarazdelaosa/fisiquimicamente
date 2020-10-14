@@ -171,3 +171,8 @@ Son compuestos con un **grupo carboxilo**, **<span style="color: #b50000">--C(=O
 Si son el **grupo principal** se nombran comenzando por ***ácido*** y añadiendo el **sufijo *--oico*** (o ***--carboxílico***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *carboxi--***. Ejemplos: **aminoácidos** y **ácidos grasos**.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/acidos-carboxilicos.svg" lightbox="false" width="100%" >}}
+
+### Ésteres (<span style="color: #b50000">--COOR</span>)
+Derivan de ácidos, en los que al menos un grupo hidroxi, --OH, se sustituye por un grupo --OR. Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *(R)oxicarbonil--***.
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/esteres.svg" lightbox="false" width="100%" >}}
