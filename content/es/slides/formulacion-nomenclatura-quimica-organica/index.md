@@ -113,9 +113,9 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 ---
 
 ### Compuestos padre (hidrocarburos)
-- [Alcanos (C---C)]
-- [Alquenos (C=C) y alquinos (C&equiv;C)]
-- [Aromáticos (arenos)]
+- [Alcanos (C---C)](#/2/14)
+- [Alquenos (C=C) y alquinos (C&equiv;C)](#/2/16)
+- [Aromáticos (arenos)](#/2/17)
 
 (continúa hacia abajo)
 
