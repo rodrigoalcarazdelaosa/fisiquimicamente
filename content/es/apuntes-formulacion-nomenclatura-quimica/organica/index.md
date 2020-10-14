@@ -138,3 +138,5 @@ También conocida como nomenclatura ***radicofuncional***, es la **preferida** p
 
 ### Representación gráfica (zigzag)
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/zigzag.svg" lightbox="false" width="100%" >}}
+
+## Funciones que contienen halógenos (F, Cl, Br o I)
