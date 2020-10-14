@@ -32,7 +32,7 @@ links:
 ### Nomenclatura de sustitución
 Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cuales se tratan como una **combinación** de un **compuesto padre** y de **grupos funcionales**, uno de los cuales se designa como el **grupo funcional principal**. El grupo principal formará la **cadena principal**, mientras que el resto podrá formar parte de la cadena principal o formar **cadenas laterales**.
 
-{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/noomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
 
 #### Prefijos multiplicadores para entidades simples y complejas
 
