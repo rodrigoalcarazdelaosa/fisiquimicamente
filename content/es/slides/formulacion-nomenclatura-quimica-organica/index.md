@@ -100,7 +100,13 @@ La nueva edición del Libro Azul incorpora un conjunto jerárquico de criterios 
 ---
 
 ### Grupos funcionales --- sufijos y prefijos
-Un **grupo funcional** es un **átomo** o **grupo** de **átomos** dentro de una molécula que puede ser **responsable** de las **reacciones químicas características** de esa **molécula**. La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de cada uno de ellos, en orden decreciente de **prioridad**:
+Un **grupo funcional** es un **átomo** o **grupo** de **átomos** dentro de una molécula que puede ser **responsable** de las **reacciones químicas características** de esa **molécula**.
+
+---
+
+La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de cada uno de ellos, en orden decreciente de **prioridad**:
+
+---
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/grupos-funcionales.svg" lightbox="false" width="100%" >}}
 
