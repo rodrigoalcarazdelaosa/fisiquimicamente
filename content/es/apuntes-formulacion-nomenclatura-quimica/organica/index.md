@@ -82,7 +82,7 @@ Alifáticos
 Aromáticos
 : Hidrocarburos **cíclicos** con enlaces simples y múltiples alternados. Ej.: **benceno**.
 
-#### Alcanos
+#### Alcanos (C--C)
 Hidrocarburos en los que los **enlaces C--C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcanos.svg" lightbox="false" width="100%" >}}
