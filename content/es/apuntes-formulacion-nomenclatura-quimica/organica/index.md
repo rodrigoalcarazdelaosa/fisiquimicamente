@@ -176,3 +176,6 @@ Si son el **grupo principal** se nombran comenzando por ***ácido*** y añadiend
 Derivan de ácidos, en los que al menos un grupo hidroxi, --OH, se sustituye por un grupo --OR. Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *(R)oxicarbonil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/esteres.svg" lightbox="false" width="100%" >}}
+
+### Carboxilatos (<span style="color: #b50000">--COO<sup>-</sup></span>)
+Son la base conjugada de un ácido carboxílico, siendo iones con carga negativa (aniones). Se utiliza la \textbf{nomenclatura} de \textbf{clase funcional}, sustituyendo la \textbf{terminación} --oico del ácido por \textbf{\emph{--oato}}, si son el \textbf{grupo principal}; en caso contrario se utiliza el \textbf{prefijo \emph{carboxilato--}}.
