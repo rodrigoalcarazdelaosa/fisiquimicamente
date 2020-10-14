@@ -86,6 +86,9 @@ La **formación** de un **nombre sistemático** requiere varios **pasos**:
 2. **Determinar** la **cadena principal**, que ha de **contener** el **grupo principal**.
 3. **Nombrar** la **cadena principal** y **especificar** cualquier **insaturación** (enlaces C=C y C&equiv;C).
 4. **Combinar** el **nombre** de la **cadena principal** con el **sufijo** del **grupo funcional principal**.
+
+---
+
 5. **Identificar** los **sustituyentes** y **ordenar** sus **prefijos alfabéticamente**.
 6. **Insertar prefijos** multiplicadores y **localizadores**.
 
