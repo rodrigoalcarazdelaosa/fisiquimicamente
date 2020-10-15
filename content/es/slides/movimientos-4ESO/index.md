@@ -150,14 +150,11 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 ---
 
 ### Ejemplo
-{{% callout example %}}
-<br>
-
-> Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
+<q>Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
   -webkit-transform: scale(-1, 1);
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
-  transform: scale(-1, 1);">🚗</span> que circula a $70.2\thinspace\mathrm{km/h}$ disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo. ¿Qué distancia recorrerá hasta detenerse?
+  transform: scale(-1, 1);">🚗</span> que circula a $70.2\thinspace\mathrm{km/h}$ disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo. ¿Qué distancia recorrerá hasta detenerse?</q>
 
 ---
 
