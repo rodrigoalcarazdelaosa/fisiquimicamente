@@ -125,3 +125,30 @@ y = h + x\tan\alpha_0 - \frac{gx^2}{2v_0^2\cos^2\alpha_0}
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Tiempo de vuelo
+
+El **tiempo de vuelo** $t_\text{vuelo}$ es el tiempo total que el móvil permanece en el aire. Se obtiene imponiendo $y(t_\text{vuelo})=0$ y despejando el tiempo
+$$
+0 = h+v_0\sin\alpha_0\cdot t_\text{vuelo} - \frac{1}{2}gt_\text{vuelo}^2
+$$
+
+Despejando $t_\text{vuelo}$:
+$$
+t_\text{vuelo} = \frac{v_0\sin\alpha_0\pm\sqrt{v_0^2\sin^2\alpha_0+2gh}}{g},
+$$
+donde nos quedamos únicamente con la opción positiva ($+$).
+
+{{< spoiler text="¿Y si lanzamos el proyectil desde el suelo?" >}}
+No tenemos más que imponer $h=0$ en la anterior expresión, para llegar a:
+
+$$
+t_\text{vuelo} = \frac{2v_0\sin\alpha_0}{g}
+$$
+{{< /spoiler >}}
+
+{{% /section %}}
