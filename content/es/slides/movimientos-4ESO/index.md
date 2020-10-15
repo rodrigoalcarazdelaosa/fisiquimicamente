@@ -25,10 +25,10 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 {{% section %}}
 
 ## Movimiento rectilíneo uniforme (MRU)
-- [Características]
-- [Ecuación principal]
-- [Gráficas]
-- [Ejemplo]
+- [Características](#/1/1)
+- [Ecuación principal](#/1/2)
+- [Gráficas](#/1/3)
+- [Ejemplo](#/1/5)
 
 (continúa hacia abajo)
 
