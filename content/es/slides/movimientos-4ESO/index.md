@@ -42,6 +42,8 @@ Las **características** del **movimiento rectilíneo uniforme (MRU)** son:
 - Trayectoria rectilínea.
 - Velocidad $v$ constante (aceleración $a=0$).
 
+---
+
 ### Ecuación principal
 
 La **ecuación principal**[^1] del MRU es:
@@ -53,12 +55,16 @@ $$
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $t$ el tiempo final y $t_0$ el tiempo inicial.
 
+---
+
 ### Gráficas
 {{< figure src="graficas-MRU.svg" lightbox="false" width="100%" >}}
 
-{{% callout note %}}
+---
+
 Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
-{{% /callout %}}
+
+---
 
 ### Ejemplo
 {{% callout example %}}
