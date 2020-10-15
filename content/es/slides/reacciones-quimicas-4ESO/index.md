@@ -155,3 +155,76 @@ $$
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Cálculos masa-volumen
+### Ecuación de los gases ideales
+Cuando alguno de los compuestos que intervienen en la reacción es un **gas**, necesitamos hacer uso de la **ecuación de los gases ideales**:
+
+$$
+pV = nRT
+$$
+
+- $p$ es la **presión** a la que se encuentra el gas, medida en atm.
+- $V$ es el volumen que ocupa el gas, medido en L.
+- $n$ es el **número de moles** que tenemos del gas, que lo podemos relacionar con los gramos a través de la **masa molar**.
+- $R=0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}$ es la **constante universal de los gases ideales**.
+- $T$ es la **temperatura** a la que se encuentra el gas, medida en K:
+	$$
+	T(\mathrm K) = T(^\circ\mathrm C) + 273
+	$$
+
+### Ejemplo
+<q>Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
+$$
+\ce{2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)}
+$$
+$M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.</q>
+
+---
+
+La ecuación nos la dan ya **escrita** y **ajustada**. Notar las letras entre paréntesis, que indican el **estado de agregación** de cada compuesto químico:
+
+- (s) $\rightarrow$ **sólido**
+- (l) $\rightarrow$ **líquido**
+- (g) $\rightarrow$ **gas**
+- (aq) $\rightarrow$ en **disolución acuosa** (*aqueous* en inglés)
+
+---
+
+Calculamos lo primero las **masas molares** de los compuestos involucrados:	
+\begin{align*}
+	M(\ce{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (me lo daban como dato)} \\\\		
+	M(\ce{H2}) &= 2\cdot M(\ce{H}) = 2\cdot 1\thinspace\mathrm{g/mol} = 2\thinspace\mathrm{g/mol}
+\end{align*}
+
+---
+
+A partir de los gramos de $\ce{Na}$ calculamos los moles de $\ce{H2}$ que se desprenderán, utilizando los dos primeros pasos del **cálculo masa-masa**:
+
+$$
+41.4\thinspace\mathrm{\cancel{g_{\ce{Na}}}}\cdot \frac{1\thinspace\mathrm{\cancel{mol_{\ce{Na}}}}}{23\thinspace\mathrm{\cancel{g_{\ce{Na}}}}}\cdot \frac{1\thinspace\mathrm{mol_{\ce{H2}}}}{2\thinspace\mathrm{\cancel{mol_{\ce{Na}}}}} = 0.9\thinspace\mathrm{mol_\ce{H2}}
+$$
+
+---
+
+Para relacionar la cantidad de hidrógeno que se desprende (medida en mol) con el volumen (medido en L), utilizamos la **ecuación de los gases ideales**:
+$$
+pV = nRT
+$$
+
+Cuidado porque la temperatura $T$ la tenemos que pasar a K:
+\begin{align*}
+T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\\\
+&= 25\thinspace ^\circ\mathrm C + 273 = 298\thinspace\mathrm K
+\end{align*}
+
+Despejamos el volumen $V$:
+$$
+V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{\cancel{mol}} \cdot 0.082\thinspace\frac{\mathrm{\cancel{atm}\thinspace L}}{\mathrm{\cancel{mol}\thinspace \cancel{K}}}\cdot 298\thinspace\mathrm{\cancel{K}}}{0.98\thinspace\mathrm{\cancel{atm}}} = 22.4\thinspace\mathrm{L_\ce{H2}}
+$$	
+
+{{% /section %}}
