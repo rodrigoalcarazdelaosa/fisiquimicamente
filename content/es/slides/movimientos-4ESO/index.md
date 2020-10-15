@@ -244,6 +244,8 @@ Utilizando la ecuación (2)
 	$$
 	v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = -48.8\thinspace\mathrm{m/s}
 	$$
+	
+---	
 
 Utilizando la ecuación (3)
 : Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = -120\thinspace\mathrm{m}$, e imponiendo el signo $-$ al despejar $v$:
