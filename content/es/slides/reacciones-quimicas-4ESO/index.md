@@ -90,7 +90,7 @@ $$
 \ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
 $$
 
-{{% /callout %}}
+---
 
 Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simulaciones**:
 
