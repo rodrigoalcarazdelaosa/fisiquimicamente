@@ -187,7 +187,7 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el
 
 ---
 
-### ¿Y cuánto vale la <strong>gravedad</strong> en otros <strong>astros</strong> del <strong>Sistema Solar</strong>?
+### ¿Y cuánto vale la gravedad en otros astros del Sistema Solar?
 
 | Astro | $g$ | $\mathrm{m/s^2}$ |
 | --- | :---: | :---: |
