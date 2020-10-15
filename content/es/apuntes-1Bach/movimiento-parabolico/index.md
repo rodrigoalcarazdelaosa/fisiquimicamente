@@ -57,7 +57,7 @@ $$
 $$
 
 ## Componentes de la velocidad
-{{< figure src="componentes-v.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="movimiento-parabolico-1Bach/componentes-v.svg" lightbox="false" width="100%" >}}
 
 En cualquier momento, las **componentes** de la **velocidad** $\vec v$ son:
 \begin{align*}
