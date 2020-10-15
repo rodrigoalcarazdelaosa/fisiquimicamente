@@ -230,11 +230,15 @@ $$
 pV = nRT
 $$
 
+---
+
 Cuidado porque la temperatura $T$ la tenemos que pasar a K:
 \begin{align*}
 T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\\\
 &= 25\thinspace ^\circ\mathrm C + 273 = 298\thinspace\mathrm K
 \end{align*}
+
+---
 
 Despejamos el volumen $V$:
 $$
