@@ -19,14 +19,14 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Índice
 
-- [Componentes de la velocidad](#/1)
-- [Ecuaciones del movimiento](#/2)
-- [Ecuación de la trayectoria](#/3)
-- [Tiempo de vuelo](#/4)
-- [Alcance](#/5)
-- [Altura máxima](#/6)
-- [Ángulo de la trayectoria](#/6)
-- [Ejemplo](#/6)
+- [Componentes de la velocidad](#/2)
+- [Ecuaciones del movimiento](#/3)
+- [Ecuación de la trayectoria](#/4)
+- [Tiempo de vuelo](#/5)
+- [Alcance](#/6)
+- [Altura máxima](#/7)
+- [Ángulo de la trayectoria](#/8)
+- [Ejemplo](#/9)
 
 ---
 
