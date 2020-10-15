@@ -78,3 +78,31 @@ v = \lvert\vec v\rvert = \sqrt{v_x^2+v_y^2}
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Ecuaciones del movimiento
+Para obtener las **ecuaciones del movimiento**, separamos el movimiento del proyectil en sus dos **componentes**, $x$ (horizontal) e $y$ (vertical):
+
+Componente $x$
+: En la dirección **horizontal** el proyectil describe un MRU, por lo que su **ecuación del movimiento** vendrá dada por:
+$$
+x(t) = x_0 + v_x t = 0 + v_0\cos\alpha_0\cdot t = v_0\cos\alpha_0\cdot t
+$$
+
+Componente $y$
+: En la dirección **vertical** el proyectil describe un MRUV ($\vec g=-g\jhat$), por lo que su **ecuación del movimiento** vendrá dada por:
+$$
+y(t) = y_0 + v_{0y}t + \frac{1}{2}at^2 = h + v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2
+$$
+
+### Ecuaciones vectoriales
+| Magnitud | Ecuación vectorial |
+| --- | --- |
+| Posición | $\vec r(t) = x(t)\ihat + y(t)\jhat =  (v_0\cos\alpha_0\cdot t) \ihat + \left(h+v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2\right)\jhat$ |
+| Velocidad | $\vec v(t) = v_x\ihat + v_y(t)\jhat =  (v_0\cos\alpha_0)\ihat + (v_0\sin\alpha_0-gt\jhat$ |
+| Aceleración | $\vec a(t) = a_x\ihat + a_y\jhat = 0 -g\jhat = -g\jhat$ |
+
+{{% /section %}}
