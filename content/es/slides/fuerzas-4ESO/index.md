@@ -75,8 +75,20 @@ Puedes prácticar a sumar vectores con la siguiente **simulación**:
 
 ## Leyes de Newton
 
+- [1ª ley (ley de la inercia)]()
+- [2ª ley (ley fundamental de la dinámica)]()
+- [3ª ley (ley de la acción-reacción)]()
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### 1ª ley (ley de la inercia)
 > Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
+
+---
 
 ### 2ª ley (ley fundamental de la dinámica)
 > El cambio de movimiento es proporcional a la fuerza ejercida y se hace en la dirección de la línea recta en que se ejerce la fuerza.
@@ -87,6 +99,8 @@ $$
 $$
 
 En el SI la fuerza se mide en Newton (N): $1\thinspace\mathrm N = 1\thinspace \mathrm{kg\thinspace m\thinspace s^{-2}}$.
+
+---
 
 ### 3ª ley (ley de la acción-reacción)
 > Para toda acción siempre hay una reacción igual y opuesta.
