@@ -399,7 +399,7 @@ Las **características** del **movimiento circular uniforme (MCU)** son:
 
 ---
 
-{{< figure library="true" src="movimientos-4ESO/MCU.svg" lightbox="false" width="90%" >}}
+{{< figure library="true" src="movimientos-4ESO/MCU.svg" lightbox="false" width="70%" >}}
 
 ---
 
