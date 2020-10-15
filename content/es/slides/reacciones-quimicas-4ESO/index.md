@@ -128,7 +128,7 @@ $M(\mathrm{K}) = 39.1\thinspace\mathrm{g/mol}$; $M(\mathrm{Cl}) = 35.5\thinspace
 
 Escribimos la **ecuación química** de la descomposición:
 $$
-\ce{KClO3 -> KCl + O2}
+\mathrm{KClO_3} \longrightarrow KCl + O_2
 $$
 
 ---
