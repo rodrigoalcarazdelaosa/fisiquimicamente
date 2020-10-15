@@ -187,7 +187,9 @@ $$
 
 Lo primero hacemos un dibujo representando la situación:
 
-{{< figure library="true" src="fuerzas-4ESO/plano-inclinado.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="fuerzas-4ESO/plano-inclinado.svg" lightbox="false" width="80%" >}}
+
+---
 				
 Las **fuerzas** que actúan son:
 
