@@ -135,7 +135,7 @@ $$
 
 La **ajustamos**:
 $$
-\ce{2KClO3 -> 2KCl + 3O2}
+2\thinspace\mathrm{KClO_3} \longrightarrow 2\thinspace\mathrm{KCl} + 3\thinspace\mathrm O_2
 $$
 
 ---
