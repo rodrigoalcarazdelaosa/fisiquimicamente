@@ -307,6 +307,8 @@ a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada 
 	\text{Tren (MRU): } x_\mathrm t &= x_{0_\mathrm t} + v_\mathrm t(t-t_{0_\mathrm t})
 \end{align*}
 
+---
+
 **Particularizamos** para nuestro caso:
 \begin{gather*}
 x_{0_\mathrm c}=x_{0_\mathrm t}=0 \\\\
