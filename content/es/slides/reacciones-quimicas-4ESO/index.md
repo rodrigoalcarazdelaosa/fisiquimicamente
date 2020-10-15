@@ -162,7 +162,7 @@ $$
 
 ## Cálculos masa-volumen
 
-- [Ecuación de los gases ideales]
+- [Ecuación de los gases ideales](#/3/1)
 - [Ejemplo]
 
 (continúa hacia abajo)
