@@ -201,11 +201,15 @@ Las **fuerzas** que actúan son:
 - Normal $\vec N = N\jhat$
 - Fuerza de rozamiento $\vec f_\mathrm r=\mu N\ihat = 0.2N\ihat\thinspace\mathrm{N}$
 
+---
+
 Escribimos la **2ª ley de Newton** para cada **componente**:
 \begin{align}
 \text{Componente $x$}&\rightarrow f_\mathrm r - P_x = ma \tag{1} \\\\
 \text{Componente $y$}&\rightarrow N-P_y = 0 \tag{2}
 \end{align}
+
+---
 
 Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
 \begin{gather*}		  	
