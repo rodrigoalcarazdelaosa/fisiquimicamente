@@ -100,3 +100,57 @@ Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simu
 <iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Cálculos masa-masa
+
+Se trata de situaciones en las que nos dan la masa (típicamente en g) de un compuesto químico y nos piden la masa (también en g) de otro compuesto químico.
+
+Seguimos estos **tres pasos**:
+
+1. **Pasar de g a mol** utilizando la **masa molar**.
+2. **Relacionar moles** de un compuesto con moles de otro, a partir de los **coeficientes estequiométricos**.
+3. **Pasar de mol a g** utilizando la **masa molar**.
+	
+### Ejemplo
+{{% callout example %}}
+<br>
+
+> El clorato de potasio, $\ce{KClO3}$, se descompone en cloruro de potasio, $\ce{KCl}$, y oxígeno. Calcula la masa de oxígeno que se obtiene al descomponerse $86.8\thinspace\mathrm g$ de clorato de potasio por la acción del calor.
+$M(\ce{K}) = 39.1\thinspace\mathrm{g/mol}$; $M(\ce{Cl}) = 35.5\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.
+
+---
+
+Escribimos la **ecuación química** de la descomposición:
+$$
+\ce{KClO3 -> KCl + O2}
+$$
+
+---
+
+La **ajustamos**:
+$$
+\ce{2KClO3 -> 2KCl + 3O2}
+$$
+
+---
+
+Calculamos las **masas molares** de todos los compuestos químicos involucrados, en este caso el $\ce{KClO3}$ y el $\ce{O2}$:
+\begin{align*}
+	M(\ce{KClO3}) &= M(\ce{K}) + M(\ce{Cl}) + 3\cdot M(\ce{O}) \\\\
+	&= 39.1\thinspace\mathrm{g/mol} + 35.5\thinspace\mathrm{g/mol} + 3\cdot 16\thinspace\mathrm{g/mol} = 122.6\thinspace\mathrm{g/mol} \\\\
+	M(\ce{O2}) &= 2\cdot M(\ce{O}) = 2\cdot 16\thinspace\mathrm{g/mol} = 32\thinspace\mathrm{g/mol}
+\end{align*}
+
+---
+
+Para relacionar los gramos de clorato de potasio con los gramos de oxígeno utilizamos los tres pasos del **cálculo masa-masa**:
+$$
+86.8\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}\cdot \frac{1\thinspace\mathrm{\cancel{mol_{\ce{KClO3}}}}}{122.6\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}}\cdot \frac{3\thinspace\mathrm{\cancel{mol_{\ce{O2}}}}}{2\thinspace\mathrm{\cancel{mol_{\ce{KClO3}}}}}\cdot \frac{32\thinspace\mathrm{g_{\ce{O2}}}}{1\thinspace\mathrm{\cancel{mol_{\ce{O2}}}}} = 34.0\thinspace\mathrm{g_\ce{O2}}
+$$
+{{% /callout %}}
+
+{{% /section %}}
