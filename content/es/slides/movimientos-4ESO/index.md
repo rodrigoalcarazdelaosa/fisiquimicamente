@@ -12,7 +12,7 @@ slides:
 
 # Movimientos
 
-- [Naturaleza vectorial de las fuerzas](#/1)
+- [Movimiento rectilíneo uniforme (MRU)](#/1)
 - [Leyes de Newton](#/2)
 - [Fuerzas de especial interés](#/3)
 - [Ejemplo](#/4)
