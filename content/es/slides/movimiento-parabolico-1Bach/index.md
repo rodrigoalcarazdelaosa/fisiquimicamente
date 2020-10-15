@@ -13,6 +13,10 @@ slides:
 
 # Movimiento parabólico
 
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+
+---
+
 - [Componentes de la velocidad](#/1)
 - [Ecuaciones del movimiento](#/2)
 - [Ecuación de la trayectoria](#/3)
@@ -21,8 +25,6 @@ slides:
 - [Altura máxima](#/6)
 - [Ángulo de la trayectoria](#/6)
 - [Ejemplo](#/6)
-
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 
