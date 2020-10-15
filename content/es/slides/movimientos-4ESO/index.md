@@ -412,6 +412,8 @@ $$
 
 donde $\varphi$ es la posición angular final, $\varphi_0$ la posición angular inicial, $\omega$ la frecuencia o velocidad angular, $t$ el tiempo final y $t_0$ el tiempo inicial.
 
+---
+
 Periodo $T$
 : El tiempo que tarda el móvil en completar una vuelta completa se llama **periodo**, $T$.
 
