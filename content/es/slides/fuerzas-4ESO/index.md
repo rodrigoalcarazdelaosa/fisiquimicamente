@@ -187,7 +187,7 @@ $$
 
 Lo primero hacemos un dibujo representando la situación:
 
-{{< figure library="true" src="fuerzas-4ESO/plano-inclinado.svg" lightbox="false" width="80%" >}}
+{{< figure library="true" src="fuerzas-4ESO/plano-inclinado.svg" lightbox="false" width="70%" >}}
 
 ---
 				
