@@ -39,12 +39,12 @@ Dirección
 Sentido
 : Dado por la punta de la flecha.
 
-{{< figure src="vector.svg" title="En dos dimensiones, un vector se puede escribir como $\newcommand{\ihat}{\hat{\imath}}\newcommand{\jhat}{\hat{\jmath}}\vec a = a_x \ihat + a_y \jhat$, donde $\ihat$ y $\jhat$ son vectores unitarios ($\text{módulo} = 1$) a lo largo de los ejes $x$ e $y$. El módulo de $\vec a$, $|\vec a|$, se calcula como (teorema de Pitágoras) $|\vec a| = \sqrt{a_x^2+a_y^2}$." lightbox="false" width="100%" >}}
+{{< figure library="true" src="vector.svg" title="En dos dimensiones, un vector se puede escribir como $\newcommand{\ihat}{\hat{\imath}}\newcommand{\jhat}{\hat{\jmath}}\vec a = a_x \ihat + a_y \jhat$, donde $\ihat$ y $\jhat$ son vectores unitarios ($\text{módulo} = 1$) a lo largo de los ejes $x$ e $y$. El módulo de $\vec a$, $|\vec a|$, se calcula como (teorema de Pitágoras) $|\vec a| = \sqrt{a_x^2+a_y^2}$." lightbox="false" width="100%" >}}
 
 ### Suma o resta de vectores
 Gráficamente, dibujando un vector a continuación del otro y uniendo el origen con el punto final:
 
-{{< figure src="suma-vectores.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="suma-vectores.svg" lightbox="false" width="100%" >}}
 
 O analíticamente, componente a componente:
 $$
@@ -87,7 +87,7 @@ donde $m$ es la masa del objeto y $\vec g$ es la aceleración de la gravedad. Si
 ### Normal $\vec N$
 También llamada fuerza de **reacción**, se define como la fuerza que ejerce una superficie sobre un cuerpo apoyado sobre ella. Esta es de igual magnitud y dirección, pero de sentido contrario a la fuerza ejercida por el cuerpo sobre la superficie.
 
-{{< figure src="normal.svg" title="Fuerza normal en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="false" width="100%" >}}
+{{< figure library="true" src="normal.svg" title="Fuerza normal en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="false" width="100%" >}}
 
 ### Rozamiento $\vec f_\mathrm r$
 La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en contacto, oponiéndose siempre al movimiento relativo entre ambas superficies. La fuerza de rozamiento es proporcional a la normal $N$:
@@ -96,7 +96,7 @@ f_\mathrm r = \mu N,
 $$
 donde $\mu$ es el coeficiente de rozamiento.
 
-{{< figure src="rozamiento.svg" title="Fuerza de rozamiento en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="false" width="100%" >}}
+{{< figure library="true" src="rozamiento.svg" title="Fuerza de rozamiento en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="false" width="100%" >}}
 
 Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**:
 
@@ -118,7 +118,7 @@ $$
 
 Lo primero hacemos un dibujo representando la situación:
 
-{{< figure src="plano-inclinado.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="plano-inclinado.svg" lightbox="false" width="100%" >}}
 				
 Las **fuerzas** que actúan son:
 
