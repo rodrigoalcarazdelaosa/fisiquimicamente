@@ -423,6 +423,8 @@ Frecuencia $f$
 	f = \frac{1}{T}\thinspace \left[\frac{1}{\mathrm{s}} = \mathrm{s^{-1}} = \mathrm{Hz}\right]
 	$$
 
+---
+
 La frecuencia o velocidad angular, $\omega$, está relacionada con el periodo y la frecuencia a través de las expresiones:
 $$
 \omega = \frac{\Delta \omega}{\Delta t} = \frac{2\pi}{T} = 2\pi f
