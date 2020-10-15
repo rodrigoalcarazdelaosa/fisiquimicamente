@@ -63,10 +63,10 @@ Comenzamos por el Mn: vemos que a la izquierda hay 1 átomo de Mn y a la derecha
 
 ---
 
-Después miramos el $\ce{O}$: vemos que a la izquierda hay 2 átomos de $\ce{O}$ y a la derecha solo hay 1. Por tanto debemos poner un 2 en la molécula de agua:
+Después miramos el O: vemos que a la izquierda hay 2 átomos de O y a la derecha solo hay 1. Por tanto debemos poner un 2 en la molécula de agua:
 
 $$
-\ce{MnO2 + HCl -> MnCl2 + Cl2 + 2H2O}
+\mathrm{MnO_2} + \mathrm{HCl} \longrightarrow \mathrm{MnCl_2} + \mathrm{Cl_2} + 2\thinspace\mathrm{H_2O}
 $$
 
 ---
