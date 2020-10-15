@@ -22,7 +22,7 @@ links:
   name: Póster
   url: leyes-gases-poster.pdf  
 
-slides: "leyes-gases-2ESO-3ESO"  
+slides: "leyes-gases-3ESO"  
 ---
 
 {{% toc %}}
