@@ -76,6 +76,8 @@ x(t) = x_0 + vt,
 $$
 donde $x = 10.8\thinspace\mathrm m$, $x_0 = 0$, $v$ es la velocidad del caracol (desconocida) y $t=1.5\thinspace\mathrm h$.
 
+---
+
 Como nos preguntan la distancia que recorrerá, $\Delta x = x-x_0$, en $5\thinspace\mathrm{min}$, podemos pasar las $1.5\thinspace\mathrm h$ a minutos:
 
 $$
@@ -86,6 +88,8 @@ y así calcular la velocidad en m/min:
 $$
 10.8\thinspace\mathrm m = 0 + v\cdot 90\thinspace\mathrm{min} \rightarrow v = 0.12\thinspace\mathrm{m/min}
 $$
+
+---
 
 La distancia recorrida en $5\thinspace\mathrm{min}$ será por tanto:
 $$
