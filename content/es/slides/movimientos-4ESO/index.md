@@ -177,3 +177,75 @@ $$
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Caída libre/lanzamiento vertical
+La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el que la aceleración es igual a la aceleración de la **gravedad**. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
+
+---
+
+### ¿Y cuánto vale la <strong>gravedad</strong> en otros <strong>astros</strong> del <strong>Sistema Solar</strong>?
+
+| Astro | $g$ | $\mathrm{m/s^2}$ |
+| --- | :---: | :---: |
+| Sol :sunny: | 28.02 | 274.8 |
+| Júpiter &#9795; | 2.53 | 24.8 |
+| Neptuno &#9798; | 1.14 | 11.2 |
+| Saturno &#9796; | 1.07 | 10.4 |
+| Tierra &#9793; | 1 | 9.8 |
+| Venus &#9792; | 0.90 | 8.9 |
+| Urano &#9797; | 0.89 | 8.7 |	
+| Marte &#9794; | 0.38 | 3.7 |						
+| Mercurio &#9791; | 0.38 | 3.7 |
+| Luna :crescent_moon: | 0.17 | 1.6 |
+
+---	
+
+### Ejemplo
+<q>Desde la azotea de un rascacielos de $120\thinspace\mathrm m$ de altura se lanza una piedra con velocidad de $5\thinspace\mathrm{m/s}$, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.</q>
+
+---
+
+Escribimos la **ecuación del movimiento** (1) de la piedra:
+$$
+y(t) = y_0 + v_0 t + \frac{1}{2}at^2, \tag{1}
+$$
+donde $y_0 = 120\thinspace\mathrm m$, $v_0 = -5\thinspace\mathrm{m/s}$ (hacia abajo) y $a=-g=-9.8\thinspace\mathrm{m/s^2}$, de forma que la ecuación particularizada queda:
+$$
+y(t) = 120 - 5t + \frac{1}{2}\cdot (-9.8)\cdot t^2 = 120-5t-4.9t^2
+$$
+
+a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
+\begin{gather*}
+	0 = 120 - 5t -4.9t^2 \\\\
+	4.9t^2+5t-120=0 \\\\
+	t = \frac{-5\pm \sqrt{5^2-4\cdot 4.9\cdot (-120)}}{2\cdot 4.9} = \frac{-5\pm \sqrt{2377}}{9.8} =  \begin{cases}
+4.5\thinspace\mathrm s \\\\
+\xcancel{-5.5\thinspace\mathrm s}
+\end{cases}
+\end{gather*}
+
+b) Para calcular la velocidad con que choca contra el suelo podemos utilizar la ecuación (2) o la (3):
+
+Utilizando la ecuación (2)
+: Sustituyendo el tiempo por el tiempo de llegada al suelo:
+	$$
+	v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = -48.8\thinspace\mathrm{m/s}
+	$$
+
+Utilizando la ecuación (3)
+: Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = -120\thinspace\mathrm{m}$, e imponiendo el signo $-$ al despejar $v$:
+	$$
+	v^2-v_0^2 = 2a\Delta x \tag{3}
+	$$
+	\begin{align*}
+	v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-250)} \\\\
+	  &= -48.8\thinspace\mathrm{m/s}
+	\end{align*}
+	
+{{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="false" width="100%" >}}
+
+{{% /section %}}
