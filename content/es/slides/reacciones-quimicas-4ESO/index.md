@@ -196,7 +196,7 @@ $$
 $$
 2\thinspace\mathrm{Na(s)} + 2\thinspace\mathrm{H_2O(l)} \longrightarrow 2\thinspace\mathrm{NaOH(aq)} + \mathrm{H_2(g)}
 $$
-$M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.</q>
+$M(\mathrm{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\mathrm{H}) = 1\thinspace\mathrm{g/mol}$; $M(\mathrm{O}) = 16\thinspace\mathrm{g/mol}$.</q>
 
 ---
 
