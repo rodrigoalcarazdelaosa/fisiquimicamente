@@ -28,14 +28,14 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 Las **fuerzas** son **magnitudes vectoriales**, lo que significa que quedan definidas por un **vector**, del cual hay que definir su:
 
-Módulo
-: Longitud del segmento.
+### Módulo
+Longitud del segmento.
 
-Dirección
-: Recta que lo contiene.
+### Dirección
+Recta que lo contiene.
 
-Sentido
-: Dado por la punta de la flecha.
+### Sentido
+Dado por la punta de la flecha.
 
 ---
 
