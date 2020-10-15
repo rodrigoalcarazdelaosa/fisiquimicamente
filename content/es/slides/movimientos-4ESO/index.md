@@ -97,3 +97,66 @@ $$
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Movimiento rectilíneo uniformemente variado (MRUV)
+
+### Características
+
+Las **características** del **movimiento rectilíneo uniformemente variado (MRUV)** son:
+
+- Trayectoria rectilínea.
+- Aceleración $a$ constante (velocidad $v$ variable).
+
+### Ecuaciones principales
+
+La **ecuaciones principales** del MRUV son:
+\begin{align*}
+	\label{eq:1}
+	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \tag{1} \\\\
+	\label{eq:2}
+	\text{Ecuación de la velocidad: } v(t) &= v_0 + a(t-t_0) \tag{2} \\\\
+	\label{eq:v2}
+	v^2-v_0^2 &= 2a\Delta x \tag{3}
+\end{align*}
+
+donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
+
+### Gráficas
+{{< figure library="true" src="movimientos-4ESO/graficas-MRUV.svg" lightbox="false" width="100%" >}}
+
+{{% callout note %}}
+Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
+{{% /callout %}}
+
+### Ejemplo
+{{% callout example %}}
+<br>
+
+> Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);">🚗</span> que circula a $70.2\thinspace\mathrm{km/h}$ disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo. ¿Qué distancia recorrerá hasta detenerse?
+
+---
+
+Lo primero pasamos la **velocidad inicial** $v_0$ a m/s:
+$$
+v_0 = 70.2\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}}\cdot \frac{1000\thinspace\mathrm m}{\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm h}}{3600\thinspace\mathrm s} = 19.5\thinspace\mathrm{m/s}
+$$
+
+La frase "*disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo*" la tenemos que interpretar como que su **aceleración** $a=-3\thinspace\mathrm{m/s^2}$ (el signo $-$ es porque su velocidad disminuye, y la velocidad la tomamos positiva). Como no me dan información sobre tiempo ni me piden ningún tiempo (sino distancia recorrida $\Delta x$), utilizo la ecuación (3):
+$$
+v^2-v_0^2 = 2a\Delta x, \tag{3}
+$$
+de donde despejo la distancia recorrida $\Delta x$:
+$$
+\Delta x = \frac{v^2-v_0^2}{2a} = \frac{0^2-19.5^2}{2\cdot (-3)} = 63.375\thinspace\mathrm m
+$$
+{{% /callout %}}
+
+{{% /section %}}
