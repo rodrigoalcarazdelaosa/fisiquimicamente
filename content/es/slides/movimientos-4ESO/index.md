@@ -13,7 +13,7 @@ slides:
 # Movimientos
 
 - [Movimiento rectilíneo uniforme (MRU)](#/1)
-- [Leyes de Newton](#/2)
+- [Movimiento rectilíneo uniformemente variado (MRUV)](#/2)
 - [Fuerzas de especial interés](#/3)
 - [Ejemplo](#/4)
 - [Simulación](#/5)
