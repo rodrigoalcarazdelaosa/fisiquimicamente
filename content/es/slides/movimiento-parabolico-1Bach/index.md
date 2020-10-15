@@ -37,7 +37,7 @@ El **movimiento parabólico** surge de la **composición** de:
 
 ---
 
-{{< figure library="true" src="movimiento-parabolico-1Bach/tiro-parabolico.svg" title="Esquema de un **tiro parabólico**. Un proyectil es lanzado desde una altura $h$ con una velocidad inicial $\vec v_0$ que forma un ángulo $\alpha_0$ con la horizontal." numbered="true" lightbox="false" width="90%" >}}
+{{< figure library="true" src="movimiento-parabolico-1Bach/tiro-parabolico.svg" lightbox="false" width="90%" >}}
 
 ---
 
