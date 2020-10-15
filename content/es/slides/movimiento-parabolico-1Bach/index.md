@@ -243,6 +243,8 @@ $$
 0 = 15 + 20\sin40^\circ\cdot t_\text{vuelo} - 4.9t_\text{vuelo}^2
 $$
 
+---
+
 Despejamos el **tiempo de vuelo** $t_\text{vuelo}$ (notar que únicamente nos quedamos con la opción positiva):
 $$
 t_\text{vuelo} = \frac{20\sin40^\circ\pm\sqrt{20^2\sin^240^\circ+294}}{9.8} = \begin{cases}
@@ -250,6 +252,8 @@ t_\text{vuelo} = \frac{20\sin40^\circ\pm\sqrt{20^2\sin^240^\circ+294}}{9.8} = \b
 	\xcancel{-0.9\thinspace\mathrm s}
 \end{cases}
 $$
+
+---
 
 Sustituyendo el **tiempo de vuelo** en la coordenada $x$ obtenemos el **alcance**:
 
