@@ -27,6 +27,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 - [Altura máxima](#/7)
 - [Ángulo de la trayectoria](#/8)
 - [Ejemplo](#/9)
+- [Simulación](#/10)
 
 ---
 
@@ -210,5 +211,85 @@ El **ángulo de la trayectoria** en un determinado punto coincide con el ángulo
 $$
 \tan \alpha = \frac{v_y}{v_x} \Rightarrow \alpha = \arctan\left(\frac{v_y}{v_x}\right)
 $$
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+## Ejemplo
+
+{{% callout example %}}
+<br>
+
+> Desde una ventana de una casa que está a $15\thinspace\mathrm{m}$ de altura lanzamos un chorro de agua a $20\thinspace\mathrm{m/s}$ con un ángulo de $40^\circ$. Calcula la distancia a la que caerá el agua y la velocidad con la que llega.
+
+---
+
+Lo primero hacemos un dibujo representando la situación:
+{{< figure library="true" src="movimiento-parabolico-1Bach/tiro-parabolico-ejemplo.svg" lightbox="false" width="100%" >}}
+
+---
+
+Vamos a escribir las **ecuaciones del movimiento**, por **componentes**:
+\begin{align*}
+	\text{Componente $x$}\rightarrow x(t) &= x_0 + v_x t = 0 + v_0\cos\alpha_0 \cdot t = \left(20\cos 40^\circ\cdot t\right)\thinspace\mathrm{m} \\\\
+	\text{Componente $y$}\rightarrow y(t) &= y_0 + v_{0y}t + \frac{1}{2}at^2 = h + v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2 \\\\
+	&= \left(15 + 20\sin40^\circ\cdot t - 4.9t^2\right)\thinspace\mathrm{m} 
+\end{align*}
+
+---
+
+Lo primero que nos piden es la distancia a la que caerá el agua, o lo que es lo mismo, el **alcance**. Para ello necesitamos calcular primero el **tiempo de vuelo** $t_\text{vuelo}$, por lo que imponemos $y\left(t_\text{vuelo}\right)=0$:
+$$
+0 = 15 + 20\sin40^\circ\cdot t_\text{vuelo} - 4.9t_\text{vuelo}^2
+$$
+
+Despejamos el **tiempo de vuelo** $t_\text{vuelo}$ (notar que únicamente nos quedamos con la opción positiva):
+$$
+t_\text{vuelo} = \frac{20\sin40^\circ\pm\sqrt{20^2\sin^240^\circ+294}}{9.8} = \begin{cases}
+	3.5\thinspace\mathrm s \\\\
+	\xcancel{-0.9\thinspace\mathrm s}
+\end{cases}
+$$
+
+Sustituyendo el **tiempo de vuelo** en la coordenada $x$ obtenemos el **alcance**:
+
+$$
+\text{alcance} = x\left(t_\text{vuelo}\right) = 20\cos40^\circ\cdot t_\text{vuelo} = 20\cos40^\circ\cdot 3.5 = 53.6\thinspace\mathrm m
+$$
+
+---
+
+Para calcular la velocidad con la que llega al suelo, escribimos primero la **ecuación de la velocidad**:
+$$
+\begin{split}				
+\vec v(t) = v_x\ihat + v_y(t)\jhat &= \left(v_0\cos\alpha_0\right)\ihat + \left(v_0\sin\alpha_0 - gt\right)\jhat \\\\
+&= \left[\left(20\cos 40^\circ\right)\ihat + \left(20\sin 40^\circ-9.8t\right)\jhat\right]\thinspace\mathrm{m/s}
+\end{split}			
+$$
+Sustituyendo el **tiempo de vuelo** obtenemos la **velocidad** con la que llega al suelo, $\vec v(t_\text{vuelo})$:
+$$
+\begin{split}				
+\vec v(t_\text{vuelo}) &= \left(20\cos 40^\circ\right)\ihat + \left(20\sin 40^\circ-9.8\cdot t_\text{vuelo}\right)\jhat \\\\
+&= 15.3\ihat + \left(20\sin 40^\circ-9.8\cdot 3.5\right)\jhat = \left(15.3\ihat - 21.4\jhat\right)\thinspace\mathrm{m/s}
+\end{split}
+$$
+
+siendo el **módulo** $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = 26.3\thinspace\mathrm{m/s}$ (**teorema de Pitágoras**).
+{{% /callout %}}
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+## Simulación
+
+Si te apetece, puedes *jugar* con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
