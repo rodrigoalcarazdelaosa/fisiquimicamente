@@ -112,3 +112,16 @@ $$
 | Aceleración | $\vec a(t) = 0 -g\jhat = -g\jhat$ |
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Ecuación de la trayectoria
+Eliminando el tiempo $t$ se obtiene la ecuación de una **parábola**, tal y como se observa en la figura [1](#figure-esquema-de-un-tiro-parabólico-un-proyectil-es-lanzado-desde-una-altura-h-con-una-velocidad-inicial-vec-v_0-que-forma-un-ángulo-alpha_0-con-la-horizontal):
+
+$$
+y = h + x\tan\alpha_0 - \frac{gx^2}{2v_0^2\cos^2\alpha_0}
+$$
+
+{{% /section %}}
