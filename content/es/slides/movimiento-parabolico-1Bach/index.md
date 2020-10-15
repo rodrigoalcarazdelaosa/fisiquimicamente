@@ -132,7 +132,9 @@ $$
 
 ## Tiempo de vuelo
 
-El **tiempo de vuelo** $t_\text{vuelo}$ es el tiempo total que el móvil permanece en el aire. Se obtiene imponiendo $y(t_\text{vuelo})=0$ y despejando el tiempo
+El **tiempo de vuelo** $t_\text{vuelo}$ es el tiempo total que el móvil permanece en el aire.
+
+Se obtiene imponiendo $y(t_\text{vuelo})=0$ y despejando el tiempo
 $$
 0 = h+v_0\sin\alpha_0\cdot t_\text{vuelo} - \frac{1}{2}gt_\text{vuelo}^2
 $$
