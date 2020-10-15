@@ -57,7 +57,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $
 ---
 
 ### Gráficas
-{{< figure src="graficas-MRU.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="movimientos-4ESO/graficas-MRU.svg" lightbox="false" width="100%" >}}
 
 ---
 
