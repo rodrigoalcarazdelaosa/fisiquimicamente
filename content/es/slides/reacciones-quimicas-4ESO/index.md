@@ -242,7 +242,7 @@ T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\\\
 
 Despejamos el volumen $V$:
 $$
-V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{\cancel{mol}} \cdot 0.082\thinspace\frac{\mathrm{\cancel{atm}\thinspace L}}{\mathrm{\cancel{mol}\thinspace \cancel{K}}}\cdot 298\thinspace\mathrm{\cancel{K}}}{0.98\thinspace\mathrm{\cancel{atm}}} = 22.4\thinspace\mathrm{L_\ce{H2}}
+V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{mol} \cdot 0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}\cdot 298\thinspace\mathrm{K}}{0.98\thinspace\mathrm{atm}} = 22.4\thinspace\mathrm{L_\mathrm{H_2}}
 $$	
 
 {{% /section %}}
