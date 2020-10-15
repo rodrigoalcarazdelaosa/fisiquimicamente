@@ -174,3 +174,56 @@ f_\mathrm c = m a_\mathrm c = m\cdot \frac{v^2}{R} = \frac{mv^2}{R}
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Ejemplo
+
+<q>Un cuerpo baja por un plano inclinado $30^\circ$ con un coeficiente de rozamiento $\mu=0.2$. Calcula la velocidad que llevará y el espacio recorrido al cabo de $5\thinspace\mathrm s$, si inicialmente estaba en reposo.</q>
+
+---
+
+Lo primero hacemos un dibujo representando la situación:
+
+{{< figure library="true" src="fuerzas-4ESO/plano-inclinado.svg" lightbox="false" width="100%" >}}
+				
+Las **fuerzas** que actúan son:
+
+- Peso $\vec P = -P_x\ihat - P_y\jhat$, donde:
+	\begin{align*}
+	P_x &= mg\sin\alpha = 9.8m\sin30^\circ = 4.9m\thinspace\mathrm{N} \\\\
+	P_y &= mg\cos\alpha = 9.8m\cos30^\circ = 4.9\sqrt{3}m\thinspace\mathrm{N}
+	\end{align*}
+- Normal $\vec N = N\jhat$
+- Fuerza de rozamiento $\vec f_\mathrm r=\mu N\ihat = 0.2N\ihat\thinspace\mathrm{N}$
+
+Escribimos la **2ª ley de Newton** para cada **componente**:
+\begin{align}
+\text{Componente $x$}&\rightarrow f_\mathrm r - P_x = ma \tag{1} \\\\
+\text{Componente $y$}&\rightarrow N-P_y = 0 \tag{2}
+\end{align}
+
+Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
+\begin{gather*}		  	
+0.2\cdot 4.9\sqrt{3}\cancel{m} - 4.9\cancel{m} = \cancel{m}a \rightarrow a = -3.2\thinspace\mathrm{m/s^2}\\\\
+\vec a = -3.2\ihat\thinspace\mathrm{m/s^2}
+\end{gather*}
+
+---
+
+La **velocidad** que llevará a los $5\thinspace\mathrm s$ la calculamos con la **ecuación de la velocidad**:
+\begin{gather*}		  	
+v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\\\
+\vec v = -16.0\ihat\thinspace\mathrm{m/s}
+\end{gather*}
+
+---
+
+Para el **espacio recorrido** podemos utilizar la **ecuación del movimiento**:
+$$
+\Delta x = \left\lvert x - x_0\right\rvert = \left\lvert v_0\cdot t + \frac{1}{2}at^2\right\rvert = \left\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\right\rvert = 40.0\thinspace\mathrm m
+$$
+
+{{% /section %}}
