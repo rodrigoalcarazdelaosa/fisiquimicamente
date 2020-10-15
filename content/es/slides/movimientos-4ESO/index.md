@@ -262,3 +262,98 @@ Utilizando la ecuación (3)
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" lightbox="false" width="25%" >}}
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Encuentros
+Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un MRU o un MRUV, comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
+
+Seguimos estos **tres pasos**:
+
+1. **Escribir** las **ecuaciones de la posición** de cada cuerpo.
+2. **Imponer** la condición de **encuentro**, es decir, que ambas posiciones coinciden cuando se encuentran.
+3. **Despejar** la magnitud que me pidan.
+
+### Ejemplo
+{{% callout example %}}
+<br>
+
+> Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);">🚗</span> se desplaza por una carretera que es paralela a la vía de un tren. El coche se detiene ante un semáforo que está con luz roja en el mismo instante que pasa un tren <span style="display: inline-block;-moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);">🚞</span> con una rapidez constante de $12\thinspace\mathrm{m/s}$. El coche permanece detenido durante $6\thinspace\mathrm s$ y luego arranca con una aceleración constante de $2\thinspace\mathrm{m/s^2}$. Determinar: <br> <br>
+a) El tiempo que emplea el coche en alcanzar al tren, medido desde el instante en que se detuvo ante el semáforo.<br>
+b) La distancia que recorrió el coche desde el semáforo hasta que alcanzó al tren. <br>
+c) La rapidez del coche en el instante que alcanza al tren.
+
+---
+
+a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
+
+\begin{align*}
+	\text{Coche (MRUV): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
+	\text{Tren (MRU): } x_\mathrm t &= x_{0_\mathrm t} + v_\mathrm t(t-t_{0_\mathrm t})
+\end{align*}
+
+**Particularizamos** para nuestro caso:
+\begin{gather*}
+x_{0_\mathrm c}=x_{0_\mathrm t}=0 \\\\
+v_{0_\mathrm c}=0;\quad v_\mathrm t = 12\thinspace\mathrm{m/s} \\\\
+a_\mathrm c = 2\thinspace\mathrm{m/s^2} \\\\
+t_{0_\mathrm c}=6\thinspace\mathrm s;\quad t_{0_\mathrm t} = 0
+\end{gather*}
+
+\begin{align*}
+	\text{Coche (MRUV): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\\\
+	 &= (t-6)^2 = t^2-12t+36 \\\\
+	\text{Tren (MRU): } x_\mathrm t &= 0 + 12\cdot(t-0) = 12t
+\end{align*}
+
+A continuación imponemos la **condición de encuentro**:
+
+\begin{align*}		
+x_\mathrm c &= x_\mathrm t \\\\
+t^2-12t+36 &= 12t \\\\
+t^2-24t+36 &= 0
+\end{align*}
+
+Despejamos el **tiempo de encuentro** $t^*$:
+
+$$
+t^* = \frac{24\pm\sqrt{24^2-4\cdot 1\cdot 36}}{2} = \frac{24\pm \sqrt{432}}{2} =  \begin{cases}
+	22.4\thinspace\mathrm s \\\\
+	\xcancel{1.6\thinspace\mathrm s}
+\end{cases}
+$$
+
+donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los $6\thinspace\mathrm s$ que está parado el coche en el semáforo. Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:
+
+{{< figure library="true" src="movimientos-4ESO/encuentro.svg" lightbox="false" width="100%" >}}
+
+donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los $22.4\thinspace\mathrm s$.
+
+---
+
+b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^*=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
+
+$$
+x_\mathrm c (t^*) = t^{*2}-12t^*+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
+$$
+	
+---
+
+c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^*$:
+
+$$
+v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
+$$	
+{{% /callout %}}
+
+{{% /section %}}
