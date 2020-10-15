@@ -52,13 +52,11 @@ Los **coeficientes estequiométricos** indican el número de átomos/moléculas/
 ---
 
 ### Ejemplo
-{{% callout example %}}
-<br>
-
-> Se desea ajustar la siguiente ecuación química:
+<q>Se desea ajustar la siguiente ecuación química:
 $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + H2O}
 $$
+</q>
 
 ---
 
