@@ -104,10 +104,10 @@ $$
 
 ## Movimiento rectilíneo uniformemente variado (MRUV)
 
-- [Características]
-- [Ecuaciones principales]
-- [Gráficas]
-- [Ejemplo]
+- [Características](#/2/1)
+- [Ecuaciones principales](#/2/2)
+- [Gráficas](#/2/3)
+- [Ejemplo](#/2/5)
 
 (continúa hacia abajo)
 
