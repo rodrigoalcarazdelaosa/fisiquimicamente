@@ -459,7 +459,7 @@ y siempre se dirige hacia el centro de la circunferencia.
 a) Utilizamos factores de conversión:
 
 $$
-\omega = 90\thinspace\mathrm{rpm} = 90\thinspace\frac{\cancel{\mathrm{rev}}}{\cancel{\mathrm{min}}} \cdot \frac{2\pi\thinspace\mathrm{rad}}{1\thinspace\cancel{\mathrm{rev}}} \cdot \frac{1\thinspace\cancel{\mathrm{min}}}{60\thinspace\mathrm{s}} = 3\pi\thinspace\mathrm{rad/s} \approx 9.4\thinspace\mathrm{rad/s}
+\omega = 90\thinspace\mathrm{rpm} = 90\thinspace\frac{\mathrm{rev}}{\mathrm{min}} \cdot \frac{2\pi\thinspace\mathrm{rad}}{1\thinspace\mathrm{rev}} \cdot \frac{1\thinspace\mathrm{min}}{60\thinspace\mathrm{s}} = 3\pi\thinspace\mathrm{rad/s} \approx 9.4\thinspace\mathrm{rad/s}
 $$
 
 ---
