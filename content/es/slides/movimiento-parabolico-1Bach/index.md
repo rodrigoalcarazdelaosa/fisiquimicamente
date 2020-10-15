@@ -270,6 +270,9 @@ $$
 &= \left[\left(20\cos 40^\circ\right)\ihat + \left(20\sin 40^\circ-9.8t\right)\jhat\right]\thinspace\mathrm{m/s}
 \end{split}			
 $$
+
+---
+
 Sustituyendo el **tiempo de vuelo** obtenemos la **velocidad** con la que llega al suelo, $\vec v(t_\text{vuelo})$:
 $$
 \begin{split}				
