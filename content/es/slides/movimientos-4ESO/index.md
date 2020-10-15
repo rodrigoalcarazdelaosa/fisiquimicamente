@@ -430,6 +430,8 @@ $$
 \omega = \frac{\Delta \omega}{\Delta t} = \frac{2\pi}{T} = 2\pi f
 $$
 
+---
+
 Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 \begin{align*}
 	e &= \varphi R \\\\
@@ -444,7 +446,9 @@ $$
 a_\mathrm c = \frac{v^2}{R}
 $$
 		
-y siempre se dirige hacia el centro de la circunferencia.	
+y siempre se dirige hacia el centro de la circunferencia.
+
+---
 
 ### Ejemplo
 
