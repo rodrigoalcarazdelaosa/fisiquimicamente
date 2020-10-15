@@ -16,6 +16,8 @@ slides:
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
+(instrucciones aquí)
+
 ---
 
 {{% section %}}
