@@ -373,3 +373,105 @@ v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) 
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Movimiento circular uniforme (MCU)
+
+- [Características]
+- [Ecuación principal]
+- [Aceleración centrípeta $a_\mathrm c$]
+- [Ejemplo]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Características
+Las **características** del **movimiento circular uniforme (MCU)** son:
+
+- Trayectoria circular.
+- Módulo de la velocidad constante (aceleración tangencial $a_\mathrm t=0$).
+
+---
+
+{{< figure library="true" src="movimientos-4ESO/MCU.svg" lightbox="false" width="100%" >}}
+
+---
+
+### Ecuación principal
+
+La **ecuación principal** del MCU es:
+$$
+\varphi(t) = \varphi_0 + \omega (t-t_0),
+$$
+
+donde $\varphi$ es la posición angular final, $\varphi_0$ la posición angular inicial, $\omega$ la frecuencia o velocidad angular, $t$ el tiempo final y $t_0$ el tiempo inicial.
+
+Periodo $T$
+: El tiempo que tarda el móvil en completar una vuelta completa se llama **periodo**, $T$.
+
+Frecuencia $f$
+: El número de vueltas que da el móvil en $1\thinspace\mathrm s$ es la **frecuencia**, $f$, y está relacionada con el periodo:
+	$$
+	f = \frac{1}{T}\thinspace \left[\frac{1}{\mathrm{s}} = \mathrm{s^{-1}} = \mathrm{Hz}\right]
+	$$
+
+La frecuencia o velocidad angular, $\omega$, está relacionada con el periodo y la frecuencia a través de las expresiones:
+$$
+\omega = \frac{\Delta \omega}{\Delta t} = \frac{2\pi}{T} = 2\pi f
+$$
+
+Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
+\begin{align*}
+	e &= \varphi R \\\\
+	v &= \omega R
+\end{align*}
+
+### Aceleración centrípeta $a_\mathrm c$
+También llamada **aceleración normal**, es una aceleración que surge del cambio de dirección de la velocidad. Su módulo es igual a:
+$$
+a_\mathrm c = \frac{v^2}{R}
+$$
+		
+y siempre se dirige hacia el centro de la circunferencia.	
+
+### Ejemplo
+
+<q>Las aspas de un ventilador {{< icon name="fan" pack="fas" >}} giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a $30\thinspace\mathrm{cm}$ del centro; c) el número de vueltas que darán las aspas en $5\thinspace\mathrm{min}$.</q>
+
+---
+
+a) Utilizamos factores de conversión:
+
+$$
+\omega = 90\thinspace\mathrm{rpm} = 90\thinspace\frac{\cancel{\mathrm{rev}}}{\cancel{\mathrm{min}}} \cdot \frac{2\pi\thinspace\mathrm{rad}}{1\thinspace\cancel{\mathrm{rev}}} \cdot \frac{1\thinspace\cancel{\mathrm{min}}}{60\thinspace\mathrm{s}} = 3\pi\thinspace\mathrm{rad/s} \approx 9.4\thinspace\mathrm{rad/s}
+$$
+
+---
+
+b) Utilizamos la relación entre las velocidades lineal y angular, con $R=30\thinspace\mathrm{cm} = 0.3\thinspace\mathrm{m}$:
+$$
+v = \omega R = 3\pi\thinspace\mathrm{rad/s}\cdot 0.3\thinspace\mathrm{m} = 0.9\pi\thinspace\mathrm{m/s} \approx 2.8\thinspace\mathrm{m/s}
+$$
+
+---
+
+c) Escribimos la ecuación del movimiento de las aspas:
+$$
+\varphi(t) = \varphi_0 + \omega (t-t_0),
+$$
+donde $\varphi_0 = 0$, $\omega = 90\thinspace\mathrm{rpm}$ y $t_0 = 0$, es decir:
+$$
+\varphi(t) = 90t\thinspace[\mathrm{rev}]
+$$
+Sustituyendo el tiempo por $t=5\thinspace\mathrm{min}$, obtenemos el espacio angular en vueltas (rev):
+$$
+\varphi(5\thinspace\mathrm{min}) = 90\thinspace\mathrm{rev/\cancel{min}}\cdot 5\thinspace\cancel{\mathrm{min}} = 450\thinspace\mathrm{rev}
+$$
+
+{{% /section %}}
