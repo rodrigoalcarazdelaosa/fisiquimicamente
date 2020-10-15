@@ -65,6 +65,6 @@ $$
 
 Puedes prácticar a sumar vectores con la siguiente **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/vector-addition/latest/vector-addition_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
