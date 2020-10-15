@@ -107,8 +107,8 @@ $$
 ### Ecuaciones vectoriales
 | Magnitud | Ecuación vectorial |
 | --- | --- |
-| Posición | $\vec r(t) = x(t)\ihat + y(t)\jhat =  (v_0\cos\alpha_0\cdot t) \ihat + \left(h+v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2\right)\jhat$ |
-| Velocidad | $\vec v(t) = v_x\ihat + v_y(t)\jhat =  (v_0\cos\alpha_0)\ihat + (v_0\sin\alpha_0-gt\jhat$ |
-| Aceleración | $\vec a(t) = a_x\ihat + a_y\jhat = 0 -g\jhat = -g\jhat$ |
+| Posición | $\vec r(t) = (v_0\cos\alpha_0\cdot t) \ihat + \left(h+v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2\right)\jhat$ |
+| Velocidad | $\vec v(t) = (v_0\cos\alpha_0)\ihat + (v_0\sin\alpha_0-gt\jhat$ |
+| Aceleración | $\vec a(t) = 0 -g\jhat = -g\jhat$ |
 
 {{% /section %}}
