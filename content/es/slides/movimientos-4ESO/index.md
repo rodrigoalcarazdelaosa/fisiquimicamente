@@ -104,12 +104,25 @@ $$
 
 ## Movimiento rectilíneo uniformemente variado (MRUV)
 
+- [Características]
+- [Ecuaciones principales]
+- [Gráficas]
+- [Ejemplo]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Características
 
 Las **características** del **movimiento rectilíneo uniformemente variado (MRUV)** son:
 
 - Trayectoria rectilínea.
 - Aceleración $a$ constante (velocidad $v$ variable).
+
+---
 
 ### Ecuaciones principales
 
@@ -125,12 +138,14 @@ La **ecuaciones principales** del MRUV son:
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
 
+---
+
 ### Gráficas
 {{< figure library="true" src="movimientos-4ESO/graficas-MRUV.svg" lightbox="false" width="100%" >}}
 
-{{% callout note %}}
-Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
-{{% /callout %}}
+> Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
+
+---
 
 ### Ejemplo
 {{% callout example %}}
