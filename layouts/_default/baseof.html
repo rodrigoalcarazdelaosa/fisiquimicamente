@@ -29,7 +29,15 @@
     <p class='bizztext'>Drive more attention to your most important website content with Bizz Bar. <button class='bizzbutton'>Click me</button></p>
     <close></close>
   </div>
-  <open></open>    
+  <open></open>
+  
+      <script>
+		  /*
+		  Bizz Bar
+		  */
+
+		  $(document).ready(function(){$("open").click(function(){$("#bizzbar").effect("bounce","slow");$("open").slideUp()})});$(document).ready(function(){$("#bizzbar").effect("bounce","slow");$("close").click(function(){$("#bizzbar").slideUp();$("open").slideDown()})});
+	  </script>
 
   {{ block "main" . }}{{ end }}
   
