@@ -481,7 +481,7 @@ $$
 $$
 Sustituyendo el tiempo por $t=5\thinspace\mathrm{min}$, obtenemos el espacio angular en vueltas (rev):
 $$
-\varphi(5\thinspace\mathrm{min}) = 90\thinspace\mathrm{rev/\cancel{min}}\cdot 5\thinspace\cancel{\mathrm{min}} = 450\thinspace\mathrm{rev}
+\varphi(5\thinspace\mathrm{min}) = 90\thinspace\mathrm{rev/min}\cdot 5\thinspace\mathrm{min} = 450\thinspace\mathrm{rev}
 $$
 
 {{% /section %}}
