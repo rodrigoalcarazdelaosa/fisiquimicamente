@@ -54,6 +54,8 @@ $$
 \tan \alpha_0 = \frac{v_{0y}}{v_x}
 $$
 
+---
+
 {{% section %}}
 
 ## Componentes de la velocidad
