@@ -17,6 +17,8 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
+## Índice
+
 - [Componentes de la velocidad](#/1)
 - [Ecuaciones del movimiento](#/2)
 - [Ecuación de la trayectoria](#/3)
