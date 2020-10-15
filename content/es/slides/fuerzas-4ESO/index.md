@@ -242,6 +242,6 @@ $$
 
 Puedes seguir aprendiendo más cosas sobre la **relación** entre las **fuerzas** y el **movimiento** con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/forces-and-motion-basics/latest/forces-and-motion-basics_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
