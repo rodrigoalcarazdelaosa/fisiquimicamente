@@ -354,7 +354,6 @@ c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizand
 
 $$
 v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
-$$	
-{{% /callout %}}
+$$
 
 {{% /section %}}
