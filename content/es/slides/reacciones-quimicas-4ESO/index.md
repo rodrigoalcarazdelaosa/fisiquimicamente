@@ -34,7 +34,7 @@ La **ley de conservación de la masa** implica dos **principios**:
 En una **ecuación química** general:
 
 $$
-a\mathrm A + b\mathrm B \loongrightarrow c\mathrm C + d\mathrm D}
+a\mathrm A + b\mathrm B \loongrightarrow c\mathrm C + d\mathrm D
 $$
 
 ---
