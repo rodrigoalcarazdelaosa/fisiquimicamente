@@ -188,6 +188,8 @@ $$
 	$$
 	T(\mathrm K) = T(^\circ\mathrm C) + 273
 	$$
+	
+---	
 
 ### Ejemplo
 <q>Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
