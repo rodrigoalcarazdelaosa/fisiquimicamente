@@ -22,7 +22,7 @@ links:
   name: Póster
   url: fluidos-poster.pdf
   
-slides: fluidos-4ESO  
+slides: fluidos-4ESO
 ---
 
 {{% toc %}}
