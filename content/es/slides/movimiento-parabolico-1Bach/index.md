@@ -13,12 +13,14 @@ slides:
 
 # Movimiento parabólico
 
-- [Definiciones](#/1)
-- [Concepto de velocidad](#/2)
-- [Movimiento rectilíneo uniforme (MRU)](#/3)
-- [Concepto de aceleración](#/4)
-- [Gráficas](#/5)
-- [Encuentros](#/6)
+- [Componentes de la velocidad](#/1)
+- [Ecuaciones del movimiento](#/2)
+- [Ecuación de la trayectoria](#/3)
+- [Tiempo de vuelo](#/4)
+- [Alcance](#/5)
+- [Altura máxima](#/6)
+- [Ángulo de la trayectoria](#/6)
+- [Ejemplo](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
