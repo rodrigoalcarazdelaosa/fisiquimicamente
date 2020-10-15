@@ -86,7 +86,7 @@ Finalmente el Cl: como hemos puesto 4 moléculas de HCl hay 4 átomos de Cl a la
 La **reacción ajustada** queda así:
 
 $$
-\ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
+\mathrm{MnO_2} + 4\thinspace\mathrm{HCl} \longrightarrow \mathrm{MnCl_2} + \mathrm{Cl_2} + 2\thinspace\mathrm{H_2O}
 $$
 
 ---
