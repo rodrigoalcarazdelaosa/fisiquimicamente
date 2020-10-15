@@ -161,12 +161,24 @@ $$
 {{% section %}}
 
 ## Cálculos masa-volumen
+
+- [Ecuación de los gases ideales]
+- [Ejemplo]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
 ### Ecuación de los gases ideales
 Cuando alguno de los compuestos que intervienen en la reacción es un **gas**, necesitamos hacer uso de la **ecuación de los gases ideales**:
 
 $$
 pV = nRT
 $$
+
+---
 
 - $p$ es la **presión** a la que se encuentra el gas, medida en atm.
 - $V$ es el volumen que ocupa el gas, medido en L.
