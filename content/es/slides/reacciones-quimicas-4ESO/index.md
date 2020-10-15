@@ -212,7 +212,7 @@ La ecuación nos la dan ya **escrita** y **ajustada**. Notar las letras entre pa
 Calculamos lo primero las **masas molares** de los compuestos involucrados:	
 \begin{align*}
 	M(\mathrm{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (me lo daban como dato)} \\\\		
-	M(\mathrm{H_2}) &= 2\cdot M(\ce{H}) = 2\cdot 1\thinspace\mathrm{g/mol} = 2\thinspace\mathrm{g/mol}
+	M(\mathrm{H_2}) &= 2\cdot M(\mathrm{H}) = 2\cdot 1\thinspace\mathrm{g/mol} = 2\thinspace\mathrm{g/mol}
 \end{align*}
 
 ---
