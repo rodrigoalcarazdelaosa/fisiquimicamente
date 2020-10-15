@@ -380,10 +380,10 @@ $$
 
 ## Movimiento circular uniforme (MCU)
 
-- [Características]
-- [Ecuación principal]
-- [Aceleración centrípeta $a_\mathrm c$]
-- [Ejemplo]
+- [Características](#/5/1)
+- [Ecuación principal](#/5/3)
+- [Aceleración centrípeta $a_\mathrm c$](#/5/7)
+- [Ejemplo](#/5/8)
 
 (continúa hacia abajo)
 
