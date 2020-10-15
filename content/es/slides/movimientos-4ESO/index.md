@@ -14,9 +14,9 @@ slides:
 
 - [Movimiento rectilíneo uniforme (MRU)](#/1)
 - [Movimiento rectilíneo uniformemente variado (MRUV)](#/2)
-- [Fuerzas de especial interés](#/3)
-- [Ejemplo](#/4)
-- [Simulación](#/5)
+- [Caída libre/lanzamiento vertical](#/3)
+- [Encuentros](#/4)
+- [Movimiento circular uniforme (MCU)](#/5)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
