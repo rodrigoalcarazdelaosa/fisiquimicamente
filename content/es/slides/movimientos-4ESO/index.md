@@ -350,7 +350,7 @@ donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los 
 
 Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:
 
-{{< figure library="true" src="movimientos-4ESO/encuentro.svg" lightbox="false" width="80%" >}}
+{{< figure library="true" src="movimientos-4ESO/encuentro.svg" lightbox="false" width="60%" >}}
 
 ---
 
