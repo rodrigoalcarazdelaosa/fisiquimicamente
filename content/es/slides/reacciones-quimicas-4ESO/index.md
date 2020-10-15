@@ -142,9 +142,9 @@ $$
 
 Calculamos las **masas molares** de todos los compuestos químicos involucrados, en este caso el KClO<sub>3</sub> y el O<sub>2</sub>:
 \begin{align*}
-	M(\ce{KClO3}) &= M(\ce{K}) + M(\ce{Cl}) + 3\cdot M(\ce{O}) \\\\
+	M(\mathrm{KClO_3}) &= M(\mathrm{K}) + M(\mathrm{Cl}) + 3\cdot M(\mathrm{O}) \\\\
 	&= 39.1\thinspace\mathrm{g/mol} + 35.5\thinspace\mathrm{g/mol} + 3\cdot 16\thinspace\mathrm{g/mol} = 122.6\thinspace\mathrm{g/mol} \\\\
-	M(\ce{O2}) &= 2\cdot M(\ce{O}) = 2\cdot 16\thinspace\mathrm{g/mol} = 32\thinspace\mathrm{g/mol}
+	M(\mathrm{O_2}) &= 2\cdot M(\mathrm{O}) = 2\cdot 16\thinspace\mathrm{g/mol} = 32\thinspace\mathrm{g/mol}
 \end{align*}
 
 ---
