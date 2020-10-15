@@ -16,6 +16,8 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
+## Índice
+
 - [Conceptos previos](#/2)
 - [Óxidos E<sub>2</sub>O<sub>n</sub>](#/3)
 - [Hidruros EH<sub>n</sub>](#/4)
