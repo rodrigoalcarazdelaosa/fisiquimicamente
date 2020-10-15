@@ -75,7 +75,7 @@ Puedes prácticar a sumar vectores con la siguiente **simulación**:
 
 ## Leyes de Newton
 
-- [1ª ley (ley de la inercia)](#2/1)
+- [1ª ley (ley de la inercia)](#/2/1)
 - [2ª ley (ley fundamental de la dinámica)]()
 - [3ª ley (ley de la acción-reacción)]()
 
