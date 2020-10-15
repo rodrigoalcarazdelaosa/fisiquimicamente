@@ -20,6 +20,8 @@ links:
   icon: file-download
   name: Póster
   url: fuerzas-poster.pdf
+
+slides: fuerzas-4ESO  
 ---
 
 {{% toc %}}
