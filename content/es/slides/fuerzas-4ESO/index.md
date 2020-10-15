@@ -115,10 +115,10 @@ Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A un
 
 ## Fuerzas de especial interés
 
-- [Peso $\vec P$]
-- [Normal $\vec N$]
-- [Rozamiento $\vec f_\mathrm r$]
-- [Centrípeta $\vec f_\mathrm c$]
+- [Peso $\vec P$](#/3/1)
+- [Normal $\vec N$](#/3/2)
+- [Rozamiento $\vec f_\mathrm r$](#/3/4)
+- [Centrípeta $\vec f_\mathrm c$](#/3/7)
 
 (continúa hacia abajo)
 
