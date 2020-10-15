@@ -151,6 +151,8 @@ f_\mathrm r = \mu N,
 $$
 donde $\mu$ es el coeficiente de rozamiento.
 
+---
+
 {{< figure library="true" src="fuerzas-4ESO/rozamiento.svg" title="Fuerza de rozamiento en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="false" width="100%" >}}
 
 ---
