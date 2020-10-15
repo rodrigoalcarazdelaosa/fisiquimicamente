@@ -223,6 +223,8 @@ $$
 y(t) = 120 - 5t + \frac{1}{2}\cdot (-9.8)\cdot t^2 = 120-5t-4.9t^2
 $$
 
+---
+
 a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
 \begin{gather*}
 	0 = 120 - 5t -4.9t^2 \\\\
