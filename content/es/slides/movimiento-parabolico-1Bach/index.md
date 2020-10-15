@@ -158,3 +158,22 @@ t_\text{vuelo} = \frac{2v_0\sin\alpha_0}{g}
 $$
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Alcance
+El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo para un ángulo $\alpha_0 = 45^\circ$, y teniendo el mismo valor para $\alpha_0 = 45^\circ+a$ que para $\alpha_0 = 45^\circ-a$. Se obtiene sustituyendo en la ecuación de la coordenada $x$ la expresión del tiempo de vuelo, es decir **alcance** $ = x(t_\text{vuelo})$.
+
+---
+
+### ¿Y si lanzamos el proyectil desde el suelo?
+Utilizando la expresión del tiempo de vuelo para el caso $h=0$, tenemos
+
+\begin{align*}
+x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo} &= v_0\cos\alpha_0\cdot \frac{2v_0\sin\alpha_0}{g} \\\\
+& = \frac{v_0^2\sin(2\alpha_0)}{g}
+\end{align*}
+
+{{% /section %}}
