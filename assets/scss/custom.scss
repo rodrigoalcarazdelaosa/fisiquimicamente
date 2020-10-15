@@ -951,3 +951,40 @@ applause-button {
 #popup-content a > code {
   color: #000000;
   text-decoration: underline; }
+  
+  #btchello_bar{
+  background:#CC3300;
+  width:100%;
+  margin:0px auto 0px auto;
+  text-align:center;
+  padding:5px 0;
+  box-shadow: #666666 0px 1px 3px;
+  z-index: 9998;
+  height: 22px;
+  position:fixed;
+  line-height: 1.85em;
+  vertical-align: baseline;
+  letter-spacing: 1px;
+  text-decoration:none;
+  color:#fff;
+  font-size:15px;
+  font-weight:none;
+  font-family: verdana;
+  line-height: 24px;
+  border-top:0px solid #000;
+  border-bottom:0px solid #000;
+  }
+  #btchello_bar a{
+  text-decoration:none;
+  color:#FFFFFF;
+  font-size:12px;
+  font-weight:bold;
+  font-family: Cambria;
+  line-height: 24px;
+  }
+  #btchello_bar a:hover{
+  text-decoration:none;
+  }
+  #btchello_bar p {margin:0; list-style:none;}
+  #btchello_bar img {vertical-align: middle;
+  margin-right: 6px;}  
