@@ -24,4 +24,71 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 {{% section %}}
 
+## Movimiento rectilíneo uniforme (MRU)
+- [Características]
+- [Ecuación principal]
+- [Gráficas]
+- [Ejemplo]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Características
+Las **características** del **movimiento rectilíneo uniforme (MRU)** son:
+
+- Trayectoria rectilínea.
+- Velocidad $v$ constante (aceleración $a=0$).
+
+### Ecuación principal
+
+La **ecuación principal**[^1] del MRU es:
+[^1]: Esta es la llamada **ecuación del movimiento** o **ecuación de la posición**, pues nos da la posición $x$ en función del tiempo $t$.
+
+$$
+x(t) = x_0 + v(t-t_0),
+$$
+
+donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $t$ el tiempo final y $t_0$ el tiempo inicial.
+
+### Gráficas
+{{< figure src="graficas-MRU.svg" lightbox="false" width="100%" >}}
+
+{{% callout note %}}
+Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
+{{% /callout %}}
+
+### Ejemplo
+{{% callout example %}}
+<br>
+
+> Un caracol 🐌 recorre en línea recta una distancia de $10.8\thinspace\mathrm m$ en $1.5\thinspace\mathrm h$. ¿Qué distancia recorrerá en $5\thinspace\mathrm{min}$?
+
+---
+
+Escribimos la ecuación del movimiento del caracol:
+$$
+x(t) = x_0 + vt,
+$$
+donde $x = 10.8\thinspace\mathrm m$, $x_0 = 0$, $v$ es la velocidad del caracol (desconocida) y $t=1.5\thinspace\mathrm h$.
+
+Como nos preguntan la distancia que recorrerá, $\Delta x = x-x_0$, en $5\thinspace\mathrm{min}$, podemos pasar las $1.5\thinspace\mathrm h$ a minutos:
+
+$$
+1.5\thinspace\cancel{\mathrm h}\cdot \frac{60\thinspace\mathrm{min}}{1\thinspace\cancel{\mathrm h}} = 90\thinspace\mathrm{min}
+$$
+
+y así calcular la velocidad en m/min:
+$$
+10.8\thinspace\mathrm m = 0 + v\cdot 90\thinspace\mathrm{min} \rightarrow v = 0.12\thinspace\mathrm{m/min}
+$$
+
+La distancia recorrida en $5\thinspace\mathrm{min}$ será por tanto:
+$$
+\Delta x (5\thinspace\mathrm{min}) = x(5\thinspace\mathrm{min}) - x_0 =  0.12\thinspace\mathrm{m/\cancel{min}} \cdot 5\thinspace\cancel{\mathrm{min}} = 0.6\thinspace\mathrm m
+$$
+{{% /callout %}}
+
 {{% /section %}}
