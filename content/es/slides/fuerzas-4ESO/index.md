@@ -136,7 +136,9 @@ donde $m$ es la masa del objeto y $\vec g$ es la aceleración de la gravedad. Si
 ---
 
 ### Normal $\vec N$
-También llamada fuerza de **reacción**, se define como la fuerza que ejerce una superficie sobre un cuerpo apoyado sobre ella. Esta es de igual magnitud y dirección, pero de sentido contrario a la fuerza ejercida por el cuerpo sobre la superficie.
+También llamada fuerza de **reacción**, se define como la fuerza que ejerce una superficie sobre un cuerpo apoyado sobre ella.
+
+Es de igual magnitud y dirección, pero de sentido contrario a la fuerza ejercida por el cuerpo sobre la superficie.
 
 ---
 
@@ -145,7 +147,9 @@ También llamada fuerza de **reacción**, se define como la fuerza que ejerce un
 ---
 
 ### Rozamiento $\vec f_\mathrm r$
-La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en contacto, oponiéndose siempre al movimiento relativo entre ambas superficies. La fuerza de rozamiento es proporcional a la normal $N$:
+La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en contacto, oponiéndose siempre al movimiento relativo entre ambas superficies.
+
+La fuerza de rozamiento es proporcional a la normal $N$:
 $$
 f_\mathrm r = \mu N,
 $$
