@@ -59,7 +59,7 @@ $$</q>
 
 ---
 
-En el ejemplo se comienza por el $\ce{Mn}$: vemos que a la izquierda hay 1 átomo de $\ce{Mn}$ y a la derecha hay también 1 átomo, está **ajustado**.
+En el ejemplo se comienza por el Mn: vemos que a la izquierda hay 1 átomo de Mn y a la derecha hay también 1 átomo, está **ajustado**.
 
 ---
 
