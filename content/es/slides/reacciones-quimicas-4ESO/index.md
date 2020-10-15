@@ -194,7 +194,7 @@ $$
 ### Ejemplo
 <q>Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
 $$
-\ce{2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)}
+2\thinspace\mathrm{Na(s)} + 2\thinspace\mathrm{H_2O(l)} \longrightarrow 2\thinspace\mathrm{NaOH(aq)} + \mathrm{H_2(g)}
 $$
 $M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.</q>
 
