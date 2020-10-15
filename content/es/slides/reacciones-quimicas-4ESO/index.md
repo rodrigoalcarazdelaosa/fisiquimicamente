@@ -46,6 +46,8 @@ $$
 
 Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
+---
+
 ### Ejemplo
 {{% callout example %}}
 <br>
