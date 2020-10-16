@@ -21,7 +21,6 @@ menu:
 ############################
 ## Icon Pack Extensions
 ############################
-[icon.pack]
   ai: true  # Academicons icon pack https://jpswalsh.github.io/academicons/	
 ---
 
