@@ -11,6 +11,6 @@ categories:
 external_link: https://www.physicsclassroom.com/Multimedia-Physics-Studios
 
 # image:
-#  caption: https://www.flippingphysics.com/gifs.html
+#  caption: https://www.physicsclassroom.com/mmedia
 #  focal_point: Smart
 ---
