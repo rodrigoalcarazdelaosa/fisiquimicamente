@@ -34,6 +34,10 @@ subtitle = ""
     tag = "fyq"
 	
   [[content.filter_button]]
+    name = "Gifs"
+    tag = "gifs"	
+	
+  [[content.filter_button]]
     name = "Juegos"
     tag = "juegos"	
 
