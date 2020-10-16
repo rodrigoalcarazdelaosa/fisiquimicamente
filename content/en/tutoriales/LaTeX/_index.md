@@ -17,11 +17,6 @@ menu:
   latex:
     name: $\LaTeX$
     weight: 1
-
-############################
-## Icon Pack Extensions
-############################
-  ai: true  # Academicons icon pack https://jpswalsh.github.io/academicons/	
 ---
 
 ## [{{< icon name="overleaf" pack="ai" >}} Learn $\LaTeX$ in 30 Minutes]({{< ref "/tutoriales/latex/curso-basico.md" >}})
