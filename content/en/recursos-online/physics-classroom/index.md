@@ -10,7 +10,7 @@ categories:
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.physicsclassroom.com/Multimedia-Physics-Studios
 
-# image:
-#  caption: https://www.physicsclassroom.com/Multimedia-Physics-Studios
-#  focal_point: Smart
+image:
+ caption: https://www.physicsclassroom.com/Multimedia-Physics-Studios
+ focal_point: Smart
 ---
