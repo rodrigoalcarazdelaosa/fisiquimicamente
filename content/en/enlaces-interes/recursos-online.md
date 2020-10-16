@@ -31,7 +31,11 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Games"
-    tag = "games"	
+    tag = "games"
+	
+  [[content.filter_button]]
+    name = "Gifs"
+    tag = "gifs"	
 	
   [[content.filter_button]]
     name = "Periodic Table"
