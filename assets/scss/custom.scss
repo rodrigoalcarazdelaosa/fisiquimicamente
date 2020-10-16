@@ -992,14 +992,53 @@ applause-button {
 	text-decoration:initial;
 }
 
-#bizzbar button:hover{  cursor:pointer;background:#444}
+#bizzbar button:hover {
+	cursor:pointer;
+	background:#444;
+}
 
-#bizzbar button:active{  top:1px}
+#bizzbar button:active {
+	top:1px;
+}
 
-close{  width:20px;  height:19px;  bottom:6px;  right:20px;  background:url(https://hb-assets.s3.amazonaws.com/system/modules/hellobar/lib/sprite-8bit.png) no-repeat 0px -247px;  position:absolute}
+close {
+	width:20px;
+	height:19px;
+	bottom:6px;
+	right:20px;
+	background:url(https://hb-assets.s3.amazonaws.com/system/modules/hellobar/lib/sprite-8bit.png) no-repeat 0px -247px;
+	position:absolute;
+}
 
-close:hover{  background:url(https://hb-assets.s3.amazonaws.com/system/modules/hellobar/lib/sprite-8bit.png) no-repeat 0px -228px;  cursor:pointer;  height:19px}
+close:hover {
+	background:url(https://hb-assets.s3.amazonaws.com/system/modules/hellobar/lib/sprite-8bit.png) no-repeat 0px -228px;
+	cursor:pointer;
+	height:19px;
+}
 
-open{-webkit-box-shadow:rgba(0,0,0,0.34902) 0px 0px 5px;background-image:url(https://hb-assets.s3.amazonaws.com/system/modules/hellobar/lib/sprite-8bit.png);background-position:0px -8px;background-repeat:no-repeat no-repeat;border-bottom-left-radius:5px;border-bottom-right-radius:5px;border:3px solid rgb(255,255,255);box-shadow:rgba(0,0,0,0.34902) 0px 0px 5px;display:block;height:0px;outline:none;overflow:hidden;padding:80px 0px 0px;position:absolute;right:10px;top:-50px;width:35px;z-index:100;background-color:#eb593c;display:none}
+open {
+	-webkit-box-shadow:rgba(0,0,0,0.34902) 0px 0px 5px;
+	background-image:url(https://hb-assets.s3.amazonaws.com/system/modules/hellobar/lib/sprite-8bit.png);
+	background-position:0px -8px;
+	background-repeat:no-repeat no-repeat;border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border:3px solid rgb(255,255,255);
+	box-shadow:rgba(0,0,0,0.34902) 0px 0px 5px;
+	display:block;
+	height:0px;
+	outline:none;
+	overflow:hidden;
+	padding:80px 0px 0px;
+	position:absolute;
+	right:10px;
+	top:-50px;
+	width:35px;
+	z-index:100;
+	background-color:#eb593c;
+	display:none;
+}
 
-open:hover{ background-color:#ff5a3d; cursor:pointer}  
+open:hover {
+	background-color:#ff5a3d;
+	cursor:pointer;
+}
