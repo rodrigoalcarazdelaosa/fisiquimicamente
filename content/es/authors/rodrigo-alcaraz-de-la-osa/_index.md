@@ -54,9 +54,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alcarazr
-- icon: instagram-square
+- icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/fisiquimicamente/
+- icon: pinterest
+  icon_pack: fab
+  link: https://www.pinterest.es/fisiquimicamente/  
 - icon: telegram
   icon_pack: fab
   link: https://t.me/fisiquimicamente
