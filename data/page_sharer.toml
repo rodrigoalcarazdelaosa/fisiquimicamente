@@ -16,6 +16,14 @@
   icon_pack = "fab"
   icon = "facebook"
   enable = true
+  
+[[buttons]]
+  id = "pinterest"
+  url = "https://pinterest.com/pin/create/link/?url={url}&description={title}"
+  title = "Pinterest"
+  icon_pack = "fab"
+  icon = "pinterest"
+  enable = true  
 
 [[buttons]]
   id = "linkedin"
@@ -63,14 +71,6 @@
   title = "Reddit"
   icon_pack = "fab"
   icon = "reddit-alien"
-  enable = false
-
-[[buttons]]
-  id = "pinterest"
-  url = "https://pinterest.com/pin/create/link/?url={url}&description={title}"
-  title = "Pinterest"
-  icon_pack = "fab"
-  icon = "pinterest"
   enable = false
 
 [[buttons]]
