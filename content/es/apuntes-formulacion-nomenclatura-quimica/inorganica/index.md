@@ -22,6 +22,10 @@ links:
   icon: file-download
   name: Póster
   url: formulacion-nomenclatura-inorganica-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: formulacio-nomenclatura-inorganica-poster.pdf  
 
 slides: formulacion-nomenclatura-quimica-inorganica
 ---
