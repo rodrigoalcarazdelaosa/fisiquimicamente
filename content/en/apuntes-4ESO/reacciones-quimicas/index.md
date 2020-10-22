@@ -1,5 +1,6 @@
 ---
 title: Chemical Reactions
+url: "/en/notes-15-16-year-olds/chemical-reactions"
 subtitle: Balancing Chemical Equations and Stoichiometric Calculations
 summary: "`COMING SOON` <br> Balancing Chemical Equations, Mass-Mass Calculations and Mass-Volume Calculations."
 tags:
