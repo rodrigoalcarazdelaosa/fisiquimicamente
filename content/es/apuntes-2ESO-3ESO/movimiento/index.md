@@ -1,5 +1,6 @@
 ---
 title: El movimiento
+url: "/apuntes-2eso/movimiento"
 subtitle: Conceptos de velocidad y aceleración
 summary: "Conceptos de velocidad y aceleración."
 tags:
