@@ -1,5 +1,6 @@
 ---
 title: Chemical Reactions
+url: "/en/notes-16-17-year-olds/chemical-reactions"
 subtitle: Stoichiometry, Energetic Transformations and Spontaneity
 summary: "`COMING SOON` <br> Stoichiometry, Energetic Transformations and Spontaneity."
 tags:
