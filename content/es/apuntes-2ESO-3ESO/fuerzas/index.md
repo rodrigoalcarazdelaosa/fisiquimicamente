@@ -1,5 +1,6 @@
 ---
 title: Las fuerzas
+url: "/apuntes-2eso/fuerzas"
 subtitle: Principales fuerzas de la naturaleza y sus efectos
 summary: "Principales fuerzas de la naturaleza y sus efectos."
 tags:
