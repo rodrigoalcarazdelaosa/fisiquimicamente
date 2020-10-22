@@ -1,5 +1,6 @@
 ---
 title: Atomic Models
+url: "/en/notes-15-16-year-olds/atomic-models"
 subtitle: Thomson, Rutherford and Bohr Models
 summary: "`COMING SOON` <br> Thomson, Rutherford and Bohr Models."
 tags:
