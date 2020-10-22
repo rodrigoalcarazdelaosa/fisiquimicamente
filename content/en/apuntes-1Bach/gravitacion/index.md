@@ -1,5 +1,6 @@
 ---
 title: Gravitation
+url: "/en/notes-16-17-year-olds/gravitation"
 subtitle: Newton's Law of Universal Gravitation and Kepler's Laws
 summary: "`COMING SOON` <br> Central Forces. Newton's Law of Universal Gravitation. Kepler's Laws."
 tags:
