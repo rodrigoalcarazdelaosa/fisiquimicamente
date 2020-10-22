@@ -1,5 +1,6 @@
 ---
 title: Organic Chemistry
+url: "/en/notes-17-18-year-olds-chemistry/organic-chemistry"
 subtitle: 
 summary: "`COMING SOON`"
 tags:
