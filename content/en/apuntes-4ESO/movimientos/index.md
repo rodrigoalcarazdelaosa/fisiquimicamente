@@ -15,11 +15,11 @@ image:
   caption: Image by [**Shutterbug75**](https://pixabay.com/es/users/shutterbug75-2077322/) on [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: movimientos-poster.pdf  
+links:
+- icon_pack: fas
+ icon: file-download
+ name: Poster
+ url: motion-poster.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
