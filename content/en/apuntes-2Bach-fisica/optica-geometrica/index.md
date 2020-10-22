@@ -1,5 +1,6 @@
 ---
 title: Geometric Optics
+url: "/en/notes-17-18-year-olds-physics/geometric-optics"
 subtitle: Laws of Geometric Optics and Optical Systems
 summary: "`COMING SOON` <br> Laws of Geometric Optics. Optical Systems. The Human Eye. Optical Instruments."
 tags:
