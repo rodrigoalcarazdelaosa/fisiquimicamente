@@ -1,5 +1,6 @@
 ---
 title: Forces
+url: "/en/notes-13-14-year-olds/forces"
 subtitle: Main Forces of Nature and Their Effects
 summary: "`COMING SOON` <br> Main Forces of Nature and Their Effects."
 tags:
