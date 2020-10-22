@@ -17,9 +17,9 @@ image:
 
 links:
 - icon_pack: fas
- icon: file-download
- name: Poster
- url: motion-poster.pdf  
+  icon: file-download
+  name: Poster
+  url: motion-poster.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
