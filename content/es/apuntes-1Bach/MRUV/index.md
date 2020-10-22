@@ -1,5 +1,5 @@
 ---
-title: MRUV
+title: MCUV
 subtitle: Movimiento circular uniformemente variado
 summary: "`PRÓXIMAMENTE` <br> Movimiento circular uniformemente variado y dinámica del movimiento circular."
 tags:
