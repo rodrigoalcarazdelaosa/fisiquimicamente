@@ -1,5 +1,6 @@
 ---
 title: Non-Uniform Circular Motion
+url: "/en/notes-16-17-year-olds/uacm"
 subtitle: Kinematics and Dynamics
 summary: "`COMING SOON` <br> Kinematics and Dynamics."
 tags:
