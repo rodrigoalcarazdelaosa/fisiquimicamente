@@ -1,5 +1,6 @@
 ---
 title: Scientific Activity
+url: "/en/notes-13-15-year-olds/scientific-activity"
 subtitle: "Scientific Method, Magnitudes and School Laboratory"
 summary: "`COMING SOON` <br> Scientific Method. Magnitude Measurement. School Laboratory."
 tags:
