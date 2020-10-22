@@ -1,5 +1,6 @@
 ---
 title: Energy and Work
+url: "/en/notes-16-17-year-olds/energ-work"
 subtitle: Work, Power and Energy
 summary: "`COMING SOON` <br> Work. Power. Energy. Work-Energy Theorem. Conservative Systems."
 tags:
