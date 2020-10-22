@@ -1,5 +1,6 @@
 ---
 title: Fluids
+url: "/en/notes-15-16-year-olds/fluids"
 subtitle: Concept of Pressure, Principles of Hydrostatics and Atmospheric Physics
 summary: "`COMING SOON` <br> Concept of Pressure, Principles of Hydrostatics and Atmospheric Physics."
 tags:
