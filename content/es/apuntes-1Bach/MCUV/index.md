@@ -29,7 +29,7 @@ image:
 
 ---
 
-Apuntes sobre el movimiento circular uniformemente variado (MRUV) y su dinámica, en formato texto y póster (tipo _chuleta_).
+Apuntes sobre el movimiento circular uniformemente variado (MCUV) y su dinámica, en formato texto y póster (tipo _chuleta_).
 
 {{% callout note %}}
 Próximamente...
