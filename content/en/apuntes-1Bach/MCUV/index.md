@@ -1,8 +1,8 @@
 ---
 title: UACM
 url: "/en/notes-16-17-year-olds/uacm"
-subtitle: Kinematics and Dynamics
-summary: "`COMING SOON` <br> Kinematics and Dynamics."
+subtitle: Uniformly Accelerated Circular Motion
+summary: "`COMING SOON` <br> Uniformly Accelerated Circular Motion and Dynamics of the Circular Motion."
 tags:
 - 16-17-year-olds
 - motion
