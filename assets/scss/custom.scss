@@ -465,7 +465,7 @@ color: $primary; }
 section.home-section div.center-text p {
   font-weight: 400;
   font-size: 1.1rem;	
-  font-family: "Cabin Sketch", sans-serif;
+  font-family: $sta-font-heading, sans-serif;
   color: $primary_complementary; }  
 
 .section-heading a {
@@ -786,7 +786,7 @@ applause-button {
     user-select: none;
 
     .count {
-  	  font-family: "Cabin Sketch";
+  	  font-family: $sta-font-heading;
 	  font-size: 1.25rem;
 	  color: #555555;
       text-align: center;
