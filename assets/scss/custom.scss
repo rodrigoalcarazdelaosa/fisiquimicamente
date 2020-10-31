@@ -362,7 +362,7 @@ color: #000000; }
  **************************************************/
 
 .page-subtitle {
-  font-family: "Cabin Sketch", sans-serif;
+  font-family: $sta-font-heading, sans-serif;
   color: #111111; }
   
 .article-header-caption {
@@ -458,7 +458,7 @@ color: #555555; }
 color: $primary; }    	
 
 .section-heading p {
-  font-family: "Cabin Sketch", sans-serif;
+  font-family: $sta-font-heading, sans-serif;
   color: $primary_complementary;
 }
 
