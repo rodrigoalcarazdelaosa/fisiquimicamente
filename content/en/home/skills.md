@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Physichemically with Rodri"
+title = "🎃 Physichemically with Rodri 🎃"
 subtitle = ""
 
 # Showcase personal skills or business features.
