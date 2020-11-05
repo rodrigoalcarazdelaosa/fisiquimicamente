@@ -1,6 +1,6 @@
 ---
 title: Recursos Imgende
-summary: Recursos didácticos sobre Física y Química.
+summary: Listas de videotutoriales.
 tags:
 - vídeos
 categories:
