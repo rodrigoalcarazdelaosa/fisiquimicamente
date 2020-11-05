@@ -88,18 +88,18 @@ $$
 $$
 {{% /callout %}}
 
-## Movimiento rectilíneo uniformemente variado (MRUV)
+## Movimiento rectilíneo uniformemente acelerado (MRUA)
 
 ### Características
 
-Las **características** del **movimiento rectilíneo uniformemente variado (MRUV)** son:
+Las **características** del **movimiento rectilíneo uniformemente acelerado (MRUA)** son:
 
 - Trayectoria rectilínea.
 - Aceleración $a$ constante (velocidad $v$ variable).
 
 ### Ecuaciones principales
 
-La **ecuaciones principales** del MRUV son:
+La **ecuaciones principales** del MRUA son:
 \begin{align*}
 	\label{eq:1}
 	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \tag{1} \\\\
@@ -112,7 +112,7 @@ La **ecuaciones principales** del MRUV son:
 donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
 
 ### Gráficas
-{{< figure library="true" src="movimientos-4ESO/graficas-MRUV.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="movimientos-4ESO/graficas-MRUA.svg" lightbox="false" width="100%" >}}
 
 {{% callout note %}}
 Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
@@ -146,7 +146,7 @@ $$
 {{% /callout %}}
 
 ## Caída libre/lanzamiento vertical
-La **caída libre** o **lanzamiento vertical** es un caso especial de MRUV en el que la aceleración es igual a la aceleración de la **gravedad**. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
+La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el que la aceleración es igual a la aceleración de la **gravedad**. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
 
 {{< spoiler text="¿Y cuánto vale la <strong>gravedad</strong> en otros <strong>astros</strong> del <strong>Sistema Solar</strong>? Pincha aquí" >}}
 | Astro | $g$ | $\mathrm{m/s^2}$ |
@@ -212,7 +212,7 @@ Utilizando la ecuación (3)
 {{% /callout %}}
 
 ## Encuentros
-Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un MRU o un MRUV, comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
+Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un MRU o un MRUA, comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
 
 Seguimos estos **tres pasos**:
 
@@ -242,7 +242,7 @@ c) La rapidez del coche en el instante que alcanza al tren.
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 
 \begin{align*}
-	\text{Coche (MRUV): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
+	\text{Coche (MRUA): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
 	\text{Tren (MRU): } x_\mathrm t &= x_{0_\mathrm t} + v_\mathrm t(t-t_{0_\mathrm t})
 \end{align*}
 
@@ -255,7 +255,7 @@ t_{0_\mathrm c}=6\thinspace\mathrm s;\quad t_{0_\mathrm t} = 0
 \end{gather*}
 
 \begin{align*}
-	\text{Coche (MRUV): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\\\
+	\text{Coche (MRUA): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\\\
 	 &= (t-6)^2 = t^2-12t+36 \\\\
 	\text{Tren (MRU): } x_\mathrm t &= 0 + 12\cdot(t-0) = 12t
 \end{align*}
