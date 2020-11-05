@@ -23,9 +23,9 @@
 
   {{ partial "search" . }}
 
-  {{ partial "navbar" . }}  
-
-  {{ block "main" . }}{{ end }}
+  <div class="page-header">
+      {{ partial "navbar" . }}
+  </div>
   
 	<div class="bottom-panel" id="bottom-panel">
 	  <div class="popup-wrapper" id="popup-wrapper"></div>
