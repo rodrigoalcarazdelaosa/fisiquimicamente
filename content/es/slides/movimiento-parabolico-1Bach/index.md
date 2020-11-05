@@ -34,7 +34,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 El **movimiento parabólico** surge de la **composición** de:
 
 - Un **MRU horizontal** con velocidad $\vec v_x = v_x \hat{\imath}$ constante.
-- Un **MRUV vertical** con velocidad inicial $\vec v_{0y} = v_{0y} \hat{\jmath}$ hacia arriba. La aceleración $\vec g=-g\hat{\jmath}$ apunta hacia abajo.
+- Un **MRUA vertical** con velocidad inicial $\vec v_{0y} = v_{0y} \hat{\jmath}$ hacia arriba. La aceleración $\vec g=-g\hat{\jmath}$ apunta hacia abajo.
 
 ---
 
