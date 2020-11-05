@@ -1,5 +1,5 @@
 ---
-title: Recursos Imgende
+title: Recursos imgende
 summary: Listas de videotutoriales.
 tags:
 - vídeos
