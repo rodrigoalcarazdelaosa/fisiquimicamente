@@ -1,6 +1,6 @@
 ---
 title: Recursos imgende
-summary: *Genially* con más de 230 videotutoriales ordenados por temas.
+summary: "*Genially* con más de 230 videotutoriales ordenados por temas."
 tags:
 - vídeos
 categories:
