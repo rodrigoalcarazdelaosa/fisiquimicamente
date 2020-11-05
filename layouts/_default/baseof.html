@@ -31,7 +31,9 @@
 	  <div class="popup-wrapper" id="popup-wrapper"></div>
 	</div>
 
-  {{ partial "site_js" . }}
+  <div class="page-body">
+    {{ block "main" . }}{{ end }}
+  </div>
 
   {{/* Docs and Updates layouts include the site footer in a different location. */}}
   {{ if not (in (slice "book" "docs" "updates") .Type) }}
