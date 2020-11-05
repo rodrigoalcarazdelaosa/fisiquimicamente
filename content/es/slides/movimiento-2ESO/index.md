@@ -218,7 +218,7 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 ---
 
 ### Movimiento acelerado
-{{< figure library="true" src="movimiento-2ESO/graficas-MRUV.svg" lightbox="false" width="60%" >}}
+{{< figure library="true" src="movimiento-2ESO/graficas-MRUA.svg" lightbox="false" width="60%" >}}
 
 {{% /section %}}
 
