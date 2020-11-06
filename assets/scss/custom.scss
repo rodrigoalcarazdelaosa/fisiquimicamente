@@ -26,6 +26,12 @@ body {
   background-repeat: repeat-x;
   background-position: 0 70px; }
   
+  @include media-breakpoint-down(md) { /* Match max-width of .nav-bar query. */
+    body {
+      background-position: 0 50px;
+    }
+  }  
+  
 a.footnote-ref {
   position: relative;
   top: 0;
