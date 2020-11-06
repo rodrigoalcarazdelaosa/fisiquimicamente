@@ -34,14 +34,3 @@ Apuntes sobre el movimiento circular uniformemente acelerado (MCUA) y su dinámi
 {{% callout note %}}
 Próximamente...
 {{% /callout %}}
-
-\begin{align}
-\sum_i (y_i - \bar{y})^2 &= \sum_i (y_i - \bar{y} + \hat{y}_i - \hat{y}_i)^2 \\\\
-&= \sum_i \left( (\hat{y}_i - \bar{y}) + (y_i - \hat{y}_i) \right)^2 \\\\
-&= \sum_i \left( (\hat{y}_i - \bar{y}) + e_i \right)^2 \\\\
-&= \sum_i \left( (\hat{y}_i - \bar{y})^2 + e_i^2 + 2 \sum_i (y_i - \bar{y}) e_i \right) \\\\
-&= \sum_i (\hat{y}_i - \bar{y})^2 + \sum_i e_i^2 + 2 \sum_i e_i (\hat{\beta}_0 + \hat{\beta}_1 x\_{1,i} + ... + \hat{\beta}_K x\_{K,i} - \bar{y}) \\\\
-&= \sum_i (y_i - \hat{y})^2 + \sum_i e_i^2 + 2 (\hat{\beta}_0 - \bar{y}) \overbrace{\sum_i e_i}^{0} + 2 \hat{\beta}_1 \overbrace{\sum_i e_i x\_{1,i}}^{0} + ... + 2 \hat{\beta}_K \overbrace{\sum_i e_i x\_{K,i}}^{0} \\\\
-\sum_i (y_i - \bar{y})^2 &= \sum_i (y_i - \hat{y})^2 + \sum_i e_i^2 \\\\
-TSS &= ESS + RSS
-\end{align}
