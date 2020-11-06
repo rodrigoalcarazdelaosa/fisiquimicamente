@@ -35,7 +35,6 @@ Apuntes sobre el movimiento circular uniformemente acelerado (MCUA) y su dinámi
 Próximamente...
 {{% /callout %}}
 
-$$
 \begin{align}
 \sum_i (y_i - \bar{y})^2 &= \sum_i (y_i - \bar{y} + \hat{y}_i - \hat{y}_i)^2 \\\\
 &= \sum_i \left( (\hat{y}_i - \bar{y}) + (y_i - \hat{y}_i) \right)^2 \\\\
@@ -46,4 +45,3 @@ $$
 \sum_i (y_i - \bar{y})^2 &= \sum_i (y_i - \hat{y})^2 + \sum_i e_i^2 \\\\
 TSS &= ESS + RSS
 \end{align}
-$$
