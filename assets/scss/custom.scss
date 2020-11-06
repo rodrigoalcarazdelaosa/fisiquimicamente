@@ -21,11 +21,6 @@ html {
 body {
   color: #111111;
   background-color: #fffff8; }
-//  background-image: url("/media/holly-161840.svg");
-//  background-size: 10%;
-//  background-repeat: repeat-x;
-//  background-position: 0 70px;
-//  background-attachment: fixed; }
   
 //  @include media-breakpoint-down(md) { /* Match max-width of .nav-bar query. */
 //    body {
@@ -169,7 +164,14 @@ color: #555555; }
 
 /*************************************************
 *  Footer
-**************************************************/  
+**************************************************/
+  
+  footer {
+	    background-image: url("/media/holly-161840.svg");
+	    background-size: 10%;
+	    background-repeat: repeat-x;
+	    background-position: 0 70px;
+	    background-attachment: fixed; }
 
 .site-footer {
 	color: #555555;
