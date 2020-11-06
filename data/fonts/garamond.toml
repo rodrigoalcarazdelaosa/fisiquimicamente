@@ -8,19 +8,18 @@ name = "garamond"
 # google_fonts = "family=Griffy:wght@400&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900"
 
 # CHRISTMAS
-google_fonts = "family=Cabin+Sketch:wght@400;700&family=Mountains+of+Christmas:wght@400;700&family=Inconsolata:wght@200..900"
+google_fonts = "family=Mountains+of+Christmas:wght@400&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900"
 
 # Font families
-heading_font = "Cabin Sketch"
+# heading_font = "Cabin Sketch"
 
 # HALLOWEEN
 # heading_font = "Griffy"
 
-# body_font = "EB Garamond"
-# nav_font = "EB Garamond"
-
 # CHRISTMAS
-body_font = "Mountains of Christmas"
-nav_font = "Mountains of Christmas"
+heading_font = "Mountains of Christmas"
+
+body_font = "EB Garamond"
+nav_font = "EB Garamond"
 
 mono_font = "Inconsolata"
