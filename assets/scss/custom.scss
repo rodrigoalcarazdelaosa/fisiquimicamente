@@ -949,34 +949,34 @@ applause-button {
   color: #000000;
   text-decoration: underline; }
   
-  ///*************************************************
-  //*  CHRISTMAS headings
-  //**************************************************/  
-  
-h1, h2, h3, h4, h5, h6 {
-    --color1: #2a54a9;
-    --color2: #b50000;
-    background: repeating-linear-gradient(
-      45deg,
-      var(--color1),
-      var(--color1) 30px,
-      var(--color2) 30px,
-      var(--color2) 60px
-    );
-    background-clip: text;
-    color: transparent;
-    -webkit-background-clip: text;
-    animation: 40s linear 0s infinite move;
-  }
-
-  @keyframes move {
-    from {
-      background-position: 0px;
-    }
-    to {
-      background-position: 1000px;
-    }
-  }
+//  ///*************************************************
+//  //*  CHRISTMAS headings
+//  //**************************************************/
+//
+//h1, h2, h3, h4, h5, h6 {
+//    --color1: #2a54a9;
+//    --color2: #b50000;
+//    background: repeating-linear-gradient(
+//      45deg,
+//      var(--color1),
+//      var(--color1) 30px,
+//      var(--color2) 30px,
+//      var(--color2) 60px
+//    );
+//    background-clip: text;
+//    color: transparent;
+//    -webkit-background-clip: text;
+//    animation: 40s linear 0s infinite move;
+//  }
+//
+//  @keyframes move {
+//    from {
+//      background-position: 0px;
+//    }
+//    to {
+//      background-position: 1000px;
+//    }
+//  }
 
 //  ///*************************************************
 //  //*  Snow effect
