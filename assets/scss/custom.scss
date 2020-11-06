@@ -953,8 +953,6 @@ applause-button {
   //*  Snow effect
   //**************************************************/
   
-  $c--background: #333;
-
   $s--near: 10s;
   $s--mid: ($s--near * 2);
   $s--far: ($s--near * 3);
@@ -976,7 +974,6 @@ applause-button {
     height: 100%;
     width: 100%;
     max-width: 100%;
-    background: $c--background;
   }
 
 
