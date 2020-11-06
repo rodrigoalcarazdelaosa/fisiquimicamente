@@ -956,7 +956,7 @@ applause-button {
   .snowflake {
     color: $primary_bg;
     font-size: 1em;
-    font-family: Arial, sans-serif;
+    font-family: $sta-font-heading, sans-serif;
     text-shadow: 0 0 5px $primary;
   }
 
