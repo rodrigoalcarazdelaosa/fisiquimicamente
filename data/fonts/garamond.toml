@@ -20,6 +20,7 @@ google_fonts = "family=Mountains+of+Christmas:wght@400&family=EB+Garamond:ital,w
 heading_font = "Mountains of Christmas"
 
 body_font = "EB Garamond"
-nav_font = "EB Garamond"
+# nav_font = "EB Garamond"
+nav_font = "Mountains of Christmas"
 
 mono_font = "Inconsolata"
