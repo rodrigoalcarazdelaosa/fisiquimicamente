@@ -38,4 +38,5 @@ Próximamente...
 \begin{align}
 \sum_i (y_i - \bar{y})^2 &= \sum_i (y_i - \bar{y} + \hat{y}_i - \hat{y}_i)^2 \\\\
 &= \sum_i \left( (\hat{y}_i - \bar{y}) + (y_i - \hat{y}_i) \right)^2 \\\\
+&= \sum_i \left( (\hat{y}_i - \bar{y}) + e_i \right)^2 \\\\
 \end{align}
