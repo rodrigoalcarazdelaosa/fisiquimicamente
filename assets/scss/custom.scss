@@ -167,8 +167,10 @@ color: #555555; }
 **************************************************/
   
 #navidad {
-	width: 100%;
-    height: 60px;
+	position: absolute;
+	  top: -100px;
+	  left: 0;
+	  right: 0;
     background-size: 100% 100%;
 	background-image: url("/media/holly-161840.svg");
 //	background-size: 10%;
