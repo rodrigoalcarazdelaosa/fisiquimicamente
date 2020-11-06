@@ -17,9 +17,10 @@ heading_font = "Cabin Sketch"
 # heading_font = "Griffy"
 
 # body_font = "EB Garamond"
+# nav_font = "EB Garamond"
 
 # CHRISTMAS
 body_font = "Mountains of Christmas"
+nav_font = "Mountains of Christmas"
 
-nav_font = "EB Garamond"
 mono_font = "Inconsolata"
