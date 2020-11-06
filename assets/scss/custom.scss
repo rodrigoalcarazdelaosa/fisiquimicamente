@@ -954,11 +954,8 @@ applause-button {
   //**************************************************/  
   
   h1 {
-    --color1: $primary;
-    --color2: $primary_complementary;
-    font-family: "Open Sans", sans-serif;
-    text-align: center;
-    font-size: 46px;
+    --color1: #1528ec;
+    --color2: #ff0a0a;
     background: repeating-linear-gradient(
       45deg,
       var(--color1),
