@@ -7,6 +7,7 @@ tags:
 - 17-18-year-olds
 - atomic-structure
 categories:
+- Physics
 - Chemistry
 
 # Optional external URL for project (replaces project detail page).
