@@ -1,7 +1,7 @@
 ---
 title: Estructura de la materia
-subtitle: Enlace iónico, covalente y metálico
-summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
+subtitle: Mecánica cuántica, orbitales atómicos y estructura electrónica
+summary: "`PRÓXIMAMENTE` <br> Mecánica cuántica, orbitales atómicos y estructura electrónica."
 tags:
 - 2º Bach
 - estructura-atómica
