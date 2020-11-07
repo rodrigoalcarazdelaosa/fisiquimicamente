@@ -4,7 +4,7 @@ subtitle: Enlace iónico, covalente y metálico
 summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
 tags:
 - 2º Bach
-- enlace-químico
+- tabla-periodica
 categories:
 - Química
 
@@ -27,8 +27,6 @@ image:
 #   url: MAS_poster.pdf
 
 ---
-
-Apuntes sobre enlace químico, en formato texto y póster (tipo _chuleta_).
 
 {{% callout note %}}
 Próximamente...
