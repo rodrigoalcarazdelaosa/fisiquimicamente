@@ -30,6 +30,10 @@ subtitle = "Chemistry"
     tag = "atomic-structure"
 	
   [[content.filter_button]]
+    name = "Periodic Table"
+    tag = "periodic-table"	
+	
+  [[content.filter_button]]
     name = "Chemical Bond"
     tag = "chemical-bond"	
 	
