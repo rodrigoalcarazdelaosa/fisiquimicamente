@@ -12,7 +12,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Imagen de [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) en [Pixabay](https://pixabay.com/es/)
+  caption: Image by [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) on [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
