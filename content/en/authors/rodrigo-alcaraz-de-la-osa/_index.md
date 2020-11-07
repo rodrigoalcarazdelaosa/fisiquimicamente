@@ -23,7 +23,7 @@ organizations:
 bio: I teach Physics and Chemistry at [IES Ría San Martín](http://portaleducativo.educantabria.es/web/iesriasanmartin) in Cantabria (Spain).
 
 interests:
-- ✈️ Travel
+- ✈️ Traveling
 - 🎸 Music
 - 🎮 Video games
 - ⚛️ *Photons*
