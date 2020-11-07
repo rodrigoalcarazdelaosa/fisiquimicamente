@@ -23,11 +23,7 @@ subtitle = "Química"
   
   [[content.filter_button]]
     name = "Todos"
-    tag = "*"
-	
-  [[content.filter_button]]
-    name = "Enlace químico"
-    tag = "enlace-químico"
+    tag = "*"	
 	
   [[content.filter_button]]
     name = "Estructura de la materia"
@@ -35,7 +31,11 @@ subtitle = "Química"
 	
   [[content.filter_button]]
     name = "Sistema periódico"
-    tag = "tabla-periódica"		
+    tag = "tabla-periódica"
+	
+  [[content.filter_button]]
+    name = "Enlace químico"
+    tag = "enlace-químico"			
 	
   [[content.filter_button]]
     name = "Equilibrio químico"
