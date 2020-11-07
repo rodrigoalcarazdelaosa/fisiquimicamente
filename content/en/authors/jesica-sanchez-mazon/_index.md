@@ -23,7 +23,7 @@ organizations:
 bio: I am a Medical Physicist at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain).
 
 interests:
-- ✈️ Travel 
+- ✈️ Traveling 
 - 🥾 Hiking
 - 🍳 Cooking 
 - ☢️ Ionizing Radiation
