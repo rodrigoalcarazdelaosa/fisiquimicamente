@@ -1,5 +1,5 @@
 ---
-title: Sistema Periódico
+title: Sistema periódico
 subtitle: Clasificación y propiedades de los elementos químicos
 summary: "`PRÓXIMAMENTE` <br> Clasificación y propiedades de los elementos químicos."
 tags:
