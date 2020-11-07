@@ -26,6 +26,10 @@ subtitle = "Chemistry"
     tag = "*"
 	
   [[content.filter_button]]
+    name = "Structure of Matter"
+    tag = "atomic-structure"
+	
+  [[content.filter_button]]
     name = "Chemical Bond"
     tag = "chemical-bond"	
 	
