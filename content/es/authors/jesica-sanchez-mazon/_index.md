@@ -25,7 +25,7 @@ bio: Soy Radiofísica Hospitalaria en la [Clínica Mompía](https://clinicamompi
 interests:
 - ✈️ Viajar 
 - 🥾 Senderismo
-- 🍳 Cocina 
+- 🍳 Cocinar 
 - ☢️ Radiaciones ionizantes
 
 education:
