@@ -1,7 +1,7 @@
 ---
 title: Sistema Periódico
-subtitle: Enlace iónico, covalente y metálico
-summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
+subtitle: Clasificación y propiedades de los elementos químicos
+summary: "`PRÓXIMAMENTE` <br> Clasificación y propiedades de los elementos químicos."
 tags:
 - 2º Bach
 - tabla-periodica
