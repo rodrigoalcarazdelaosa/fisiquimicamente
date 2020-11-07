@@ -34,7 +34,7 @@
   weight = 4
 
 [[main]]
-  name = "Física 2º Bach"
+  name = "2º Bach Física"
   url = "apuntes/#segundo-bach-fisica"
   parent = "apuntes"
   weight = 5
