@@ -19,6 +19,10 @@ image:
 This post is an **adaptation/extension** of the [**excellent post** by **Ben Szabo** on dev.to](https://dev.to/finnhvman/which-colors-look-good-on-black-and-white-2pe6).
 {{% /callout %}}
 
+{{% callout note %}}
+If you want to know more about **web accessibility** I recommend you take a look at this [**excellent guide**](https://www.websiteplanet.com/blog/website-accessibility-made-easy-ultimate-guide/).
+{{% /callout %}}
+
 I am considering the possibility of allowing the visitors of my website to choose whether they want a **light** or **dark** background. With a dark background (almost black) the text would become light (almost white), the opposite of what it is currently, but the **accent color**, this blue <svg width="1rem" height="1rem">
   <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#2a54a9" />
 </svg>, would no longer have enough **contrast** on black.
