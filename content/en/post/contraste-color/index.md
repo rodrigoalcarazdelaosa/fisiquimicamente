@@ -7,6 +7,9 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
 - color
+- contrast
+categories:
+- Accessibility
 image:
   placement: 3  
   caption: Photo by [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com)
