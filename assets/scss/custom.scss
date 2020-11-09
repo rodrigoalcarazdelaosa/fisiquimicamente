@@ -137,9 +137,9 @@ border-left: .25rem solid $example_fg; }
 	background: linear-gradient(rgba(42, 84, 169, 0),$primary_bg);
 }
 
-.fancybox-container {
-    z-index: 9999999999;
-}
+//.fancybox-container {
+//    z-index: 9999999999;
+//}
 
 .fancybox-caption a, .fancybox-caption a:link, .fancybox-caption a:visited {
     color: $primary;
