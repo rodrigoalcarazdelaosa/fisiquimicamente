@@ -50,9 +50,7 @@ date_format = "2006"
   date_end = "2013-12-31"
   description = "Development of my [Doctoral Thesis](http://hdl.handle.net/10902/2782)."
   
-[design.background]
-  columns = "1"
-  
+[design.background]  
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
