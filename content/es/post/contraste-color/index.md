@@ -8,6 +8,8 @@ authors:
 tags:
 - color
 - contraste
+categories:
+- Accesibilidad
 image:
   placement: 3  
   caption: Foto de [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) en [Unsplash](https://unsplash.com)
