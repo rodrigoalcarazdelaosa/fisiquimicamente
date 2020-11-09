@@ -285,7 +285,7 @@ La siguiente figura muestra cuántos colores hay disponibles en función del con
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-	      label: 'Oro',
+	      label: 'Número de colores',
 	      backgroundColor: '#111111',
 	      borderColor: '#111111',
 	      fill: false,
