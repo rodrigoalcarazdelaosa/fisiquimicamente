@@ -285,7 +285,7 @@ The following figure shows how many colors are available depending on the desire
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-	      label: 'Oro',
+	      label: 'Number of colors',
 	      backgroundColor: '#111111',
 	      borderColor: '#111111',
 	      fill: false,
