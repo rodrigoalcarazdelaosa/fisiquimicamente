@@ -71,5 +71,3 @@ subtitle = "Twitter"
 +++
 
 ## 💬 Blog
-
-Hola
