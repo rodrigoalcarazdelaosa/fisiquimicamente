@@ -1,6 +1,6 @@
 ---
 title: Vídeo-Tabla Periódica
-summary: Videos cortos sobre cada elemento de la tabla periódica, además de otros experimentos geniales y cosas de química.
+summary: "Tabla Periódica interactiva con vídeos. Más información aquí: http://www.fqsaja.com/?p=9797."
 tags:
 - tabla-periódica
 - vídeos
