@@ -1,6 +1,6 @@
 ---
 title: Vídeo-Tabla Periódica
-summary: "Tabla Periódica interactiva con vídeos. Más información aquí: http://www.fqsaja.com/?p=9797."
+summary: "Tabla Periódica interactiva con vídeos sobre cada elemento químico. Más información aquí: http://www.fqsaja.com/?p=9797."
 tags:
 - tabla-periódica
 - vídeos
