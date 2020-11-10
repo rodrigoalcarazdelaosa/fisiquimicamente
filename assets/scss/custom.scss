@@ -956,7 +956,15 @@ applause-button {
 
 #popup-content a > code {
   color: #000000;
-  text-decoration: underline; }  
+  text-decoration: underline; }
+  
+///*************************************************
+//*  Cookie consent
+//**************************************************/
+
+.cc-window {
+    z-index: 9999999999 !important;
+}
   
 ////  ///*************************************************
 ////  //*  CHRISTMAS headings
