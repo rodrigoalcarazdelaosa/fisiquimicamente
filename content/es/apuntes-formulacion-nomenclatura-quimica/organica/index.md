@@ -28,9 +28,7 @@ slides: formulacion-nomenclatura-quimica-organica
 
 {{% toc %}}
 
-## Conceptos previos
-
-### Nomenclatura de sustitución
+## Nomenclatura de sustitución
 Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cuales se tratan como una **combinación** de un **compuesto padre** y de **grupos funcionales**, uno de los cuales se designa como el **grupo funcional principal**. El grupo principal formará la **cadena principal**, mientras que el resto podrá formar parte de la cadena principal o formar **cadenas laterales**.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
@@ -44,7 +42,7 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 | <span style="color: #2a54a9">cloro</span> | prefijo de sustituyente |
 | 2 4 5 6 | localizadores |
 
-#### Prefijos multiplicadores para entidades simples y complejas
+### Prefijos multiplicadores para entidades simples y complejas
 
 | Nº | Simple | Complejo | Nº | Simple | Complejo |
 | :--- | :--- | :--- | ---: | :--- | :--- |
@@ -55,7 +53,7 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 | 6 | hexa | hexakis | 12 | dodeca | dodecakis |
 | 7 | hepta | heptakis | 20 | icosa | icosakis |
 
-### Creación de nombres sistemáticos
+## Creación de nombres sistemáticos
 
 La **formación** de un **nombre sistemático** requiere varios **pasos**:
 
@@ -66,15 +64,15 @@ La **formación** de un **nombre sistemático** requiere varios **pasos**:
 5. **Identificar** los **sustituyentes** y **ordenar** sus **prefijos alfabéticamente**.
 6. **Insertar prefijos** multiplicadores y **localizadores**.
 
-#### PIN
+### PIN
 La nueva edición del Libro Azul incorpora un conjunto jerárquico de criterios para elegir el **nombre único** que se prefiere a efectos de regulación, el ***Preferred IUPAC Name***, o **PIN**.
 
-### Grupos funcionales --- sufijos y prefijos
+## Grupos funcionales --- sufijos y prefijos
 Un **grupo funcional** es un **átomo** o **grupo** de **átomos** dentro de una molécula que puede ser **responsable** de las **reacciones químicas características** de esa **molécula**. La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de cada uno de ellos, en orden decreciente de **prioridad**:
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/grupos-funcionales.svg" lightbox="false" width="100%" >}}
 
-### Compuestos padre (hidrocarburos)
+## Compuestos padre (hidrocarburos)
 Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H). Distinguimos entre:
 
 Alifáticos
@@ -83,37 +81,37 @@ Alifáticos
 Aromáticos
 : Hidrocarburos **cíclicos** con enlaces simples y múltiples alternados. Ej.: **benceno**.
 
-#### Alcanos (C---C)
+### Alcanos (C---C)
 Hidrocarburos en los que los **enlaces C---C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcanos.svg" lightbox="false" width="100%" >}}
 
 En caso de ser **sustituyentes**, cambian la **terminación** --ano por ***--il(o)***.
 
-##### Cicloalcanos
+#### Cicloalcanos
 Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/cicloalcanos.svg" lightbox="false" width="100%" >}}
 
-#### Alquenos (C=C) y alquinos (C&equiv;C)
+### Alquenos (C=C) y alquinos (C&equiv;C)
 La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples** (**C&equiv;C**)--- se indica mediante las **terminaciones *--eno*** e ***--ino***, respectivamente, y **localizadores** definiendo sus posiciones.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/insaturaciones.svg" lightbox="false" width="100%" >}}
 
 En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
 
-#### Aromáticos (arenos)
+### Aromáticos (arenos)
 El **benceno**, **C<sub>6</sub>H<sub>6</sub>**, es el hidrocarburo aromático de **referencia**.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aromaticos.svg" lightbox="false" width="100%" >}}
 
 En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 
-##### Arenos policíclicos con importancia en el estudio de sistemas biológicos
+#### Arenos policíclicos con importancia en el estudio de sistemas biológicos
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/policiclicos.svg" lightbox="false" width="100%" >}}
 
-### Elección y numeración de la cadena principal
-#### Elección
+## Elección y numeración de la cadena principal
+### Elección
 La **cadena principal** se **elige** aplicando los siguientes **criterios**:
 
 1. Contiene el grupo funcional principal.
@@ -123,7 +121,7 @@ La **cadena principal** se **elige** aplicando los siguientes **criterios**:
 5. Contiene más enlaces múltiples (dobles en caso de empate).
 6. Contiene más sustituyentes.
 								
-#### Numeración
+### Numeración
 La **cadena principal** se **numera** aplicando los siguientes **criterios**:
 
 1. Localizadores más bajos para heteroátomos (sustitutos de algún carbono en la cadena principal).
@@ -132,12 +130,12 @@ La **cadena principal** se **numera** aplicando los siguientes **criterios**:
 4. Localizadores más bajos como conjunto para todos los sustituyentes nombrados como prefijos.
 5. Localizadores más bajos para sustituyentes en orden de mención (alfabético).
 
-### Nomenclatura de clase funcional
+## Nomenclatura de clase funcional
 También conocida como nomenclatura ***radicofuncional***, es la **preferida** para **ésteres** y **haluros de ácido** (también utilizada para **éteres** y **cetonas**). Los nombres consisten en el **nombre** del **grupo principal** del compuesto seguido de la palabra ***de*** y el **nombre** del **sustituyente** al que va unido.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-clase-funcional.svg" lightbox="false" width="100%" >}}
 
-### Representación gráfica (zigzag)
+## Representación gráfica (zigzag)
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/zigzag.svg" lightbox="false" width="100%" >}}
 
 ## Funciones que contienen halógenos (<span style="color: #4c5f26">F</span>, <span style="color: #4c5f26">Cl</span>, <span style="color: #4c5f26">Br</span> o <span style="color: #4c5f26">I</span>)
