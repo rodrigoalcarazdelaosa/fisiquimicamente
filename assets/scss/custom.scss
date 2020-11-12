@@ -488,7 +488,22 @@ section.home-section div.center-text p {
     width: 100vw;
     z-index: -1;
     top: 0;
-}		
+}
+
+// Workaround issue with mobile browser support for fixed parallax background.
+@include media-breakpoint-down(md) {
+  .parallax {
+    background-attachment: fixed;
+  }
+  .parallax:before {
+  	content: '';
+  	position: fixed;
+  	height: 100vh; 
+    width: 100vw;
+    z-index: -1;
+    top: 0;
+  }
+}
 
 /*************************************************
  *  Featurette Widget
