@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status)](https://app.netlify.com/sites/rodrigoalcarazdelaosa/deploys)
+
 <p align="center"><a href="https://rodrigoalcarazdelaosa.me/" target="_blank" rel="noopener"><img src="https://rodrigoalcarazdelaosa.me/media/logo.png" alt="Fisiquímicamente con Rodri"></a></p>
 
 # [Fisiquímicamente con Rodri](https://rodrigoalcarazdelaosa.me/)
@@ -27,5 +29,3 @@ Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wow
     open source</a> website builder that empowers creators.
 
 Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/rodrigoalcarazdelaosa.me" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status)](https://app.netlify.com/sites/rodrigoalcarazdelaosa/deploys)
