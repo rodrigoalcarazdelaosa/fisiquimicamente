@@ -16,11 +16,14 @@ $example_bg: #CCDDAA;
 
 html {
   font-family: $sta-font-body, serif;
+  height: 100%;
 }
 
 body {
   color: #111111;
-  background-color: #fffff8; }  
+  background-color: #fffff8;
+  height: 100%;
+}
   
 a.footnote-ref {
   position: relative;
