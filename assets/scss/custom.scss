@@ -479,7 +479,7 @@ section.home-section div.center-text p {
 	border-bottom: solid 1px currentColor; }
 	
 	// Workaround issue with mobile browser support for fixed parallax background.
-	 @media (min-width: 768px) {
+	 @media (max-width: 768px) {
 	   .parallax {
 	     background-attachment: scroll;
 	   }
