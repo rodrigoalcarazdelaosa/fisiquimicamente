@@ -484,6 +484,7 @@ section.home-section div.center-text p {
 // Workaround issue with mobile browser support for fixed parallax background.
 @include media-breakpoint-down(md) {
   .parallax:before {
+    content: '';
     position: fixed;
   }
 }
