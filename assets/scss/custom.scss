@@ -483,11 +483,14 @@ section.home-section div.center-text p {
 
 // Workaround issue with mobile browser support for fixed parallax background.
 @include media-breakpoint-down(md) {
-  .parallax {
-    position: fixed;
-    background-attachment: scroll;
+	.home-section {
+		z-index: "";
+	}
+	.parallax {
+	position: fixed;
+	background-attachment: scroll;
 	z-index: -1;
-  }
+	}
 }
 
 /*************************************************
