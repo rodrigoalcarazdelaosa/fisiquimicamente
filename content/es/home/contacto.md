@@ -28,7 +28,7 @@ content:
 design:
   columns: '1'
   background:
-      image: home.jpg
+      image: 'home.jpg'
       image_darken: 0
       image_size: cover
       image_position: center
