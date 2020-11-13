@@ -16,13 +16,15 @@ $example_bg: #CCDDAA;
 
 html {
   font-family: $sta-font-body, serif;
-  height: 100%;
+  height: 100vh; /* set viewport constraint */
+  min-height: 100%; /* enforce height */
 }
 
 body {
   color: #111111;
   background-color: #fffff8;
-  height: 100%;
+  height: 100vh; /* set viewport constraint */
+  min-height: 100%; /* enforce height */
 }
   
 a.footnote-ref {
