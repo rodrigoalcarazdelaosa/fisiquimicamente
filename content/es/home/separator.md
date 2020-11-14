@@ -12,4 +12,5 @@ design:
       image_size: contain
       image_position: center
       image_parallax: false
+	  
 ---
