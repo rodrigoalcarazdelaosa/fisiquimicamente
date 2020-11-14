@@ -39,7 +39,7 @@ subtitle = "Twitter"
   #   4 = Citation (publication only)
   view = 2
   
-  clip_path = "polygon(50% 0%, 0% 100%, 100% 100%)"
+  clip_path = "url(mundo.svg)"
   
 [design.background]
   # Apply a background color, gradient, or image.
