@@ -3,6 +3,8 @@ widget: blank
 headless: true
 weight: 2
 design:
+  spacing:
+  	padding: ["20px", "0", "20px", "0"]
   columns: '1'
   background:
       image: 'muerdago.svg'
@@ -10,6 +12,4 @@ design:
       image_size: contain
       image_position: center
       image_parallax: false
-  spacing:
-  	padding: "["20px", "0", "20px", "0"]"
 ---
