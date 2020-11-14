@@ -39,6 +39,8 @@ subtitle = "Twitter"
   #   4 = Citation (publication only)
   view = 2
   
+  clip-path = url(mundo.svg)  
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -60,9 +62,7 @@ subtitle = "Twitter"
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  # text_color_light = true
-  
-  clip-path = url(mundo.svg)
+  # text_color_light = true  
   
 [advanced]
  # Custom CSS. 
