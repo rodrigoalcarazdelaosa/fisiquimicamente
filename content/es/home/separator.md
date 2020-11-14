@@ -8,7 +8,7 @@ design:
   background:
       image: 'merry-christmas.svg'
       image_darken: 0
-      image_size: cover
+      image_size: contain
       image_position: center
       image_parallax: true	  
 ---
