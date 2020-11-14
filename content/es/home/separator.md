@@ -12,4 +12,4 @@ design:
       image_parallax: false	  
 ---
 
-HOla
+Hola
