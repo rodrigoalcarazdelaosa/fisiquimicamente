@@ -28,9 +28,9 @@ content:
 design:
   columns: '1'
   background:
-      image: 'home.jpg'
+      image: 'home-navidad.svg'
       image_darken: 0
       image_size: cover
-      image_position: center
+      image_position: top
       image_parallax: true
 ---
