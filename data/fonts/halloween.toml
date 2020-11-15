@@ -1,0 +1,13 @@
+# Font style metadata
+name = "halloween"
+
+# Optional Google font URL
+google_fonts = "family=Griffy:wght@400&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900"
+
+# Font families
+heading_font = "Griffy"
+
+body_font = "EB Garamond"
+nav_font = "EB Garamond"
+
+mono_font = "Inconsolata"
