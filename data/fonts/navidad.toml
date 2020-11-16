@@ -6,9 +6,8 @@ google_fonts = "family=Mountains+of+Christmas:wght@400;700&family=EB+Garamond:it
 
 # Font families
 heading_font = "Mountains of Christmas"
-nav_font = "Mountains of Christmas"
 
 body_font = "EB Garamond"
-nav_font = "EB Garamond"
+nav_font = "Mountains of Christmas"
 
 mono_font = "Inconsolata"
