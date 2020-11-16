@@ -8,6 +8,6 @@ google_fonts = "family=Griffy:wght@400&family=EB+Garamond:ital,wght@0,400..800;1
 heading_font = "Griffy"
 
 body_font = "EB Garamond"
-nav_font = "EB Garamond"
+nav_font = "Griffy"
 
 mono_font = "Inconsolata"
