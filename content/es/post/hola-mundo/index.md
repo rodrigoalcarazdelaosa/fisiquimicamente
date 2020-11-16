@@ -11,8 +11,6 @@ image:
 featured: true  
 ---
 
-{{< cta cta_link="https://..." cta_new_tab="true" cta_text="emoji 🚀" >}}
-
 Primera entrada en mi primer blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
 
 ## ¿Quién soy?
