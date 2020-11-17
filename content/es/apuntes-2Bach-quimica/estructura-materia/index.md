@@ -109,7 +109,7 @@ El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma d
 	$$
 	E = h \nu,
 	$$
-	donde $h = 6.626\times 10[{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck.
+	donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck.
 
 ### Efecto fotoeléctrico
 
