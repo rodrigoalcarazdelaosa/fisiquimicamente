@@ -232,29 +232,14 @@ La **configuración electrónica** es la **distribución** de los **electrones**
 
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
 
-\heading{Regla de Hund de la máxima multiplicidad}
-\begin{quote}
-	Al llenar orbitales de igual energía (por ejemplo los tres orbitales p) los electrones se distribuyen, siempre que sea posible, con sus espines paralelos, llenando los orbitales con la multiplicidad mayor.
-\end{quote}
+### Regla de Hund de la máxima multiplicidad
+> Al llenar orbitales de igual energía (por ejemplo los tres orbitales p) los electrones se distribuyen, siempre que sea posible, con sus espines paralelos, llenando los orbitales con la multiplicidad mayor.
 
-\textsc{ejemplos} (se muestran también los números cuánticos del último electrón)
+#### Ejemplos
 
-\begin{figure}[htb]
-    \centering % <-- added			
-\begin{subfigure}{0.3\textwidth}
-	\centering
-	Nitrógeno: \ch{_{7}N} \\ 		\includegraphics[page=1,width=\textwidth]{diagramas-cajas} \\ \elconf{N} \\ $n = 2$ \\ $l = 1$ (p) \\ $m_l = 1$ \\ $m_s = 1/2$
-\end{subfigure}\hfil % <-- added
-\begin{subfigure}{0.3\textwidth}
-	\centering	
-	Oxígeno: \ch{_{8}O} \\ 		\includegraphics[page=2,width=\textwidth]{diagramas-cajas} \\ \elconf{O} \\ $n = 2$ \\ $l = 1$ (p) \\ $m_l = -1$ \\ $m_s = -1/2$
-\end{subfigure}\hfil % <-- added
-\begin{subfigure}{0.3\textwidth}
-	\centering
-	Neón: \ch{_{10}Ne} \\
-	\includegraphics[page=3,width=\textwidth]{diagramas-cajas} \\ \elconf{Ne} \\ $n = 2$ \\ $l = 1$ (p) \\ $m_l = 1$ \\ $m_s = -1/2$
-\end{subfigure}
-\end{figure}	
+Se muestran también los **números cuánticos** del **último electrón**:
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/regla-hund.svg" lightbox="false" width="100%" >}}
 
 ## Partículas subatómicas
 
