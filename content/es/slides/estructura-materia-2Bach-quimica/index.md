@@ -192,7 +192,11 @@ El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones**
 - La **energía cinética** de los **fotoelectrones depende** únicamente de la **frecuencia** de la **radiación** incidente.
 - La **emisión** de **fotoelectrones** se realiza **instantáneamente**, sin existir ningún retraso entre la absorción de energía y la emisión de los fotoelectrones.
 
+---
+
 {{< figure library="true" src="estructura-materia-2Bach-quimica/efecto-fotoelectrico.svg" title="Fuente: https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg" lightbox="false" width="100%" >}}
+
+---
 
 \begin{align*}
 	E &= \phi + E_\mathrm c \\\\
