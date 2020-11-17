@@ -97,7 +97,7 @@ Es la **radiación electromagnética re-emitida** por un cuerpo ideal que absorb
 
 Tiene un espectro muy característico, inversamente relacionado con la intensidad, que depende únicamente de la temperatura del cuerpo.
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Bohr_atom_model_English.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro.svg" title="Espectros de emisión de un cuerpo negro a distintas temperaturas, comparados con la predicción clásica (catástrofe ultravioleta)." lightbox="false" width="100%" >}}
 
 El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma de este espectro se conoce como la **catástrofe ultravioleta**.
 
