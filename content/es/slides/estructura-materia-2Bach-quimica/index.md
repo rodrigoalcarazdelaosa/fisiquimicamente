@@ -415,7 +415,7 @@ Es la teoría que **describe tres de las cuatro interacciones fundamentales** de
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/modelo-estandar.svg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/modelo-estandar.svg" lightbox="false" width="80%" >}}
 
 ---
 	
