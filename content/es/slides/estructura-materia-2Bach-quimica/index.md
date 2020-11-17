@@ -27,4 +27,13 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Modelos atómicos
 
+- Dalton
+- Thomson
+- Rutherford
+- Bohr
+
+(continúa hacia abajo)
+
+👇
+
 {{% /section %}}
