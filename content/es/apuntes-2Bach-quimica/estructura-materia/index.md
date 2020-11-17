@@ -179,7 +179,7 @@ Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y 
 
 Los **números cuánticos** describen **valores** de **magnitudes físicas** que se **conservan** en la dinámica de un sistema cuántico, tales como la **energía** o el **momento angular**, las cuales están **cuantizadas** y por tanto toman **valores discretos**.
 
-Para describir completamente el estado cuántico de un electrón en un átomo necesitamos **cuatro números cuánticos**, los cuales tienen un significado orbital concreto:
+Para **describir** completamente el **estado cuántico** de un **electrón** en un átomo necesitamos **cuatro números cuánticos**, los cuales tienen un significado orbital concreto:
 
 ## Estructura electrónica
 
