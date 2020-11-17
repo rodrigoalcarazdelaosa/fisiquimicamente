@@ -216,8 +216,8 @@ donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante
 
 ## Mecánica cuántica
 
-- Dualidad onda-corpúsculo
-- Principio de incertidumbre de Heisenberg
+- [Dualidad onda-corpúsculo](#/3/1)
+- [Principio de incertidumbre de Heisenberg](#/3/4)
 
 (continúa hacia abajo)
 
