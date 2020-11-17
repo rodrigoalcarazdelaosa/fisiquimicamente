@@ -27,6 +27,8 @@ links:
 {{% toc %}}
 
 ## Modelos atómicos
+### Dalton
+{{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" lightbox="false" width="100%" >}}
 
 ## Orígenes de la teoría cuántica
 
