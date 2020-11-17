@@ -230,7 +230,7 @@ Consiste en que el comportamiento de los **objetos cuánticos** no puede ser des
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/difraccion-electrones.svg" title="**Electrones** mostrando un **comportamiento** claramente **ondulatorio**, gracias al famoso **experimento** de la **doble rendija**. Traducida de https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Map%3A_Physical_Chemistry_(McQuarrie_and_Simon)/01%3A_The_Dawn_of_the_Quantum_Theory/1.07%3A_de_Broglie_Waves_can_be_Experimentally_Observed." lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/difraccion-electrones.svg" title="**Electrones** mostrando un **comportamiento** claramente **ondulatorio**, gracias al famoso **experimento** de la **doble rendija**. lightbox="false" width="100%" >}}
 
 ---
 
