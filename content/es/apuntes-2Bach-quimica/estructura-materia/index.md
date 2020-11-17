@@ -153,6 +153,8 @@ A partir de **experimentos** de **difracción** de **electrones**, **Louis de Br
 	\lambda = \frac{h}{mv},
 	$$
 	siendo $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ la constante de Planck.
+	
+### Principio de incertidumbre de Heisenberg
 
 ## Orbitales atómicos
 
