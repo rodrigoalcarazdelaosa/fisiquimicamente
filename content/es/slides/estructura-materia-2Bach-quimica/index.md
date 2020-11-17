@@ -111,6 +111,8 @@ $$
 
 donde $\lambda$ es la longitud de onda de la radiación emitida en el vacío, $R = 1.097\times 10^7\thinspace \mathrm m^{-1}$ es la constante de Rydberg y $n_1$ y $n_2$ son los números cuánticos principales de las órbitas involucradas en el salto (con $n_2>n_1$).
 
+---
+
 Esta ecuación también nos permite calcular el **valor energético** correspondiente a una **transición electrónica** entre dos niveles dados, $\Delta E$:
 
 $$
