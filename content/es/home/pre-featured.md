@@ -4,7 +4,7 @@ headless: true
 weight: 2
 active: true
 
-title: Destacado
+title: "Destacado"
 
 design:
   spacing:
