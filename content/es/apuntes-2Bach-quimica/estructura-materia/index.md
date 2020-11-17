@@ -117,6 +117,22 @@ Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **si
 
 ### Efecto fotoeléctrico
 
+El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones** cuando radiación electromagnética, como por ejemplo luz ultravioleta, incide sobre un material, típicamente metálico. Esta emisión cumple las siguientes **características**:
+
+- La **cantidad** de **fotoelectrones** emitidos es directamente **proporcional** a la **intensidad** de la **radiación** incidente.
+- La **emisión** de **fotoelectrones** solo se produce cuando la radiación incidente tiene una **frecuencia mayor o igual** que una cierta frecuencia mínima, llamada **frecuencia umbral** o **de corte**, $\nu_0$, que es característica de cada material.
+- La **energía cinética** de los **fotoelectrones depende** únicamente de la **frecuencia** de la **radiación** incidente.
+- La **emisión** de **fotoelectrones** se realiza **instantáneamente**, sin existir ningún retraso entre la absorción de energía y la emisión de los fotoelectrones.
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/efecto-fotoelectrico.svg" title="Fuente: https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg" lightbox="false" width="100%" >}}
+
+\begin{align*}
+	E &= \phi + E_\mathrm c \\
+	h\nu &= h\nu_0 + E_\mathrm c \Rightarrow E_\mathrm c = h\mleft(\nu-\nu_0\mright),
+\end{align*}
+
+donde $h = \SI{6.626e-34}{\J\s}$ es la constante de Planck, $\nu$ es la frecuencia de la radiación incidente, $\nu_0$ es la frecuencia umbral (cuya energía asociada, $\phi = h \nu_0$ se denomina \textbf{función de trabajo} o trabajo de extracción) y $E_\mathrm c = h\mleft(\nu-\nu_0\mright)$ es la energía cinética máxima de los fotoelectrones, emitidos siempre que se cumpla $\nu \geq \nu_0$.
+
 ## Mecánica cuántica
 
 ## Orbitales atómicos
