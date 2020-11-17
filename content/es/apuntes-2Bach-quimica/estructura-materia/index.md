@@ -26,3 +26,15 @@ links:
 
 {{% toc %}}
 
+## Modelos atómicos
+
+## Orígenes de la teoría cuántica
+
+## Mecánica cuántica
+
+## Orbitales atómicos
+
+## Estructura electrónica
+
+## Partículas subatómicas
+
