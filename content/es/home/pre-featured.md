@@ -11,7 +11,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
   columns: '1'
   background:
-      image: 'divider.jpg'
+      image: 'divider.svg'
       image_darken: 0
       image_size: actual
       image_position: cover
