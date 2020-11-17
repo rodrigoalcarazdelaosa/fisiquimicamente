@@ -32,7 +32,13 @@ Basándose en las ideas de **Demócrito**, John **Dalton** propuso este modelo a
  
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" title="El **átomo** de **Dalton** es una **esfera maciza indivisible**." lightbox="false" width="100%" >}}
 
-Los descubrimientos de la radiactividad natural por Becquerel (1896) y el electrón por Thomson (1897) hicieron necesarios la revisión de este modelo.
+Los **descubrimientos** de la **radiactividad natural** por **Becquerel** (1896) y el **electrón** por **Thomson** (1897) hicieron necesarios la revisión de este modelo.
+
+### Thomson
+
+También conocido como el modelo del *pastel de pasas*, fue propuesto en 1904 por J.J. **Thomson**, quien considera que el **átomo** está formado por una ***nube*** esférica con **carga positiva** en donde se encuentran **incrustados** los **electrones**, con carga negativa, como las **pasas** en un **pastel**.
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/Thomson.svg" title="El **átomo** de **Thomson** es una ***nube*** esférica con **carga positiva** en donde se encuentran **incrustados** los **electrones**, con carga negativa, como las **pasas** en un **pastel**." lightbox="false" width="100%" >}}
 
 ## Orígenes de la teoría cuántica
 
