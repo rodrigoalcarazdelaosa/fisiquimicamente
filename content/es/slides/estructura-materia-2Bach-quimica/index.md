@@ -197,7 +197,7 @@ El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones**
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/efecto-fotoelectrico.svg" lightbox="false" width="60%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/efecto-fotoelectrico.svg" lightbox="false" width="70%" >}}
 
 ---
 
