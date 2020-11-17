@@ -145,7 +145,7 @@ Es la **radiación electromagnética re-emitida** por un cuerpo ideal que absorb
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/cuerpo-negro.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/cuerpo-negro.svg" title="Un cuerpo negro es cualquier objeto que absorbe toda la radiación electromagnética que incide sobre él, re-emitiéndola. Fuente: https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Map%3A_Physical_Chemistry_(McQuarrie_and_Simon)/01%3A_The_Dawn_of_the_Quantum_Theory/1.01%3A_Blackbody_Radiation_Cannot_Be_Explained_Classically." lightbox="false" width="100%" >}}
 
 ---
 
