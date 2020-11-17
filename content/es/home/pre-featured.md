@@ -8,7 +8,7 @@ title: "Destacado"
 
 design:
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["15px", "0", "20px", "0"]
   columns: '1'
   background:
       image: 'home.jpg'
