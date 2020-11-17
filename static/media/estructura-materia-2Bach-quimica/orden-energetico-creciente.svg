@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 591.17827 465.68794"
+   xml:space="preserve"
+   id="svg304"
+   sodipodi:docname="orden-energetico-creciente.svg"
+   width="591.17828"
+   height="465.68793"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
+   id="metadata310"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs308">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+			
+			
+		
+			
+			
+			
+			
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+			
+			
+		
+			
+			
+			
+			
+			
+			
+			
+		
+			
+			
+			
+		</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1440"
+   inkscape:window-height="900"
+   id="namedview306"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="4.5970551"
+   inkscape:cx="499.94905"
+   inkscape:cy="45.208093"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg304"
+   inkscape:document-rotation="0" />
+<style
+   type="text/css"
+   id="style10">
+	.st0{fill:none;stroke:#333333;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#9343A2;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#3EABC9;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#28A445;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#DF6F24;stroke-width:3;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#736357;stroke-width:3;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#B73C0D;stroke-width:3;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#3664D6;stroke-width:3;stroke-miterlimit:10;}
+	.st8{fill:#333333;}
+</style>
+<g
+   id="X_axis_and_Y_axis"
+   transform="translate(10.88,4.0431718)">
+			<polyline
+   class="st0"
+   points="558.16,434.35 59.96,434.35 59.96,2.65    "
+   id="polyline12" />
+		</g><line
+   id="_x31_s_Line"
+   class="st1"
+   x1="88.779999"
+   y1="426.36319"
+   x2="105.85"
+   y2="426.36319"
+   style="stroke:#4477aa;stroke-opacity:1" /><line
+   id="_x32_s_Line"
+   class="st2"
+   x1="162.37001"
+   y1="306.81317"
+   x2="179.44"
+   y2="306.81317"
+   style="stroke:#ee6677;stroke-opacity:1" /><line
+   id="Line_01"
+   class="st2"
+   x1="142.19"
+   y1="283.52319"
+   x2="159.27"
+   y2="283.52319"
+   style="stroke:#ee6677;stroke-opacity:1" /><line
+   id="Line_02"
+   class="st2"
+   x1="162.37001"
+   y1="283.52319"
+   x2="179.44"
+   y2="283.52319"
+   style="stroke:#ee6677;stroke-opacity:1" /><line
+   id="Line_03"
+   class="st2"
+   x1="182.55"
+   y1="283.52319"
+   x2="199.62001"
+   y2="283.52319"
+   style="stroke:#ee6677;stroke-opacity:1" /><line
+   id="_x33_s_Line"
+   class="st3"
+   x1="236.92"
+   y1="224.05316"
+   x2="253.99001"
+   y2="224.05316"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="Line_01_1_"
+   class="st3"
+   x1="216.74001"
+   y1="200.76317"
+   x2="233.82001"
+   y2="200.76317"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="Line_02_1_"
+   class="st3"
+   x1="236.92"
+   y1="200.76317"
+   x2="253.99001"
+   y2="200.76317"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="Line_03_1_"
+   class="st3"
+   x1="257.10001"
+   y1="200.76317"
+   x2="274.17001"
+   y2="200.76317"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="Line_01_3_"
+   class="st3"
+   x1="216.74001"
+   y1="166.21317"
+   x2="233.82001"
+   y2="166.21317"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="Line_02_3_"
+   class="st3"
+   x1="236.92"
+   y1="166.21317"
+   x2="253.99001"
+   y2="166.21317"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="Line_03_3_"
+   class="st3"
+   x1="196.56"
+   y1="166.21317"
+   x2="213.64"
+   y2="166.21317"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="Line_04"
+   class="st3"
+   x1="257.10001"
+   y1="166.21317"
+   x2="274.17001"
+   y2="166.21317"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="Line_05"
+   class="st3"
+   x1="277.28"
+   y1="166.21317"
+   x2="294.35001"
+   y2="166.21317"
+   style="stroke:#228833;stroke-opacity:1" /><line
+   id="_x34_s_Line"
+   class="st4"
+   x1="309.20999"
+   y1="175.56317"
+   x2="326.29001"
+   y2="175.56317"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_01_4_"
+   class="st4"
+   x1="289.04001"
+   y1="150.27316"
+   x2="306.11002"
+   y2="150.27316"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_02_4_"
+   class="st4"
+   x1="309.20999"
+   y1="150.27316"
+   x2="326.29001"
+   y2="150.27316"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_03_4_"
+   class="st4"
+   x1="329.39001"
+   y1="150.27316"
+   x2="346.47"
+   y2="150.27316"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_01_6_"
+   class="st4"
+   x1="289.04001"
+   y1="111.73318"
+   x2="306.11002"
+   y2="111.73318"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_02_6_"
+   class="st4"
+   x1="309.20999"
+   y1="111.73318"
+   x2="326.29001"
+   y2="111.73318"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_03_6_"
+   class="st4"
+   x1="268.86002"
+   y1="111.73318"
+   x2="285.92999"
+   y2="111.73318"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_04_2_"
+   class="st4"
+   x1="329.39001"
+   y1="111.73318"
+   x2="346.47"
+   y2="111.73318"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_05_2_"
+   class="st4"
+   x1="349.57001"
+   y1="111.73318"
+   x2="366.64999"
+   y2="111.73318"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_01_5_"
+   class="st4"
+   x1="248.68001"
+   y1="75.583176"
+   x2="265.75"
+   y2="75.583176"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_02_5_"
+   class="st4"
+   x1="268.86002"
+   y1="75.583176"
+   x2="285.92999"
+   y2="75.583176"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_03_5_"
+   class="st4"
+   x1="289.04001"
+   y1="75.583176"
+   x2="306.11002"
+   y2="75.583176"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_04_1_"
+   class="st4"
+   x1="309.20999"
+   y1="75.583176"
+   x2="326.29001"
+   y2="75.583176"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_05_1_"
+   class="st4"
+   x1="329.39001"
+   y1="75.583176"
+   x2="346.47"
+   y2="75.583176"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_06"
+   class="st4"
+   x1="349.57001"
+   y1="75.583176"
+   x2="366.64999"
+   y2="75.583176"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="Line_07"
+   class="st4"
+   x1="369.75"
+   y1="75.583176"
+   x2="386.83002"
+   y2="75.583176"
+   style="stroke:#ccbb44;stroke-opacity:1" /><line
+   id="_x35_s_Line"
+   class="st5"
+   x1="383.78"
+   y1="123.41318"
+   x2="400.85001"
+   y2="123.41318"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_01_7_"
+   class="st5"
+   x1="363.60001"
+   y1="98.133171"
+   x2="380.67001"
+   y2="98.133171"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_02_7_"
+   class="st5"
+   x1="383.78"
+   y1="98.133171"
+   x2="400.85001"
+   y2="98.133171"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_03_7_"
+   class="st5"
+   x1="403.95999"
+   y1="98.133171"
+   x2="421.03"
+   y2="98.133171"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_01_9_"
+   class="st5"
+   x1="363.60001"
+   y1="61.583172"
+   x2="380.67001"
+   y2="61.583172"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_02_9_"
+   class="st5"
+   x1="383.78"
+   y1="61.583172"
+   x2="400.85001"
+   y2="61.583172"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_03_9_"
+   class="st5"
+   x1="343.42001"
+   y1="61.583172"
+   x2="360.48999"
+   y2="61.583172"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_04_4_"
+   class="st5"
+   x1="403.95999"
+   y1="61.583172"
+   x2="421.03"
+   y2="61.583172"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_05_4_"
+   class="st5"
+   x1="424.14001"
+   y1="61.583172"
+   x2="441.20999"
+   y2="61.583172"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_01_8_"
+   class="st5"
+   x1="323.23999"
+   y1="21.43317"
+   x2="340.32001"
+   y2="21.43317"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_02_8_"
+   class="st5"
+   x1="343.42001"
+   y1="21.43317"
+   x2="360.48999"
+   y2="21.43317"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_03_8_"
+   class="st5"
+   x1="363.60001"
+   y1="21.43317"
+   x2="380.67001"
+   y2="21.43317"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_04_3_"
+   class="st5"
+   x1="383.78"
+   y1="21.43317"
+   x2="400.85001"
+   y2="21.43317"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_05_3_"
+   class="st5"
+   x1="403.95999"
+   y1="21.43317"
+   x2="421.03"
+   y2="21.43317"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_06_1_"
+   class="st5"
+   x1="424.14001"
+   y1="21.43317"
+   x2="441.20999"
+   y2="21.43317"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="Line_07_1_"
+   class="st5"
+   x1="444.31"
+   y1="21.43317"
+   x2="461.39001"
+   y2="21.43317"
+   style="stroke:#66ccee;stroke-opacity:1" /><line
+   id="_x36_s_Line"
+   class="st6"
+   x1="455.78"
+   y1="78.863174"
+   x2="472.85001"
+   y2="78.863174"
+   style="stroke:#aa3377;stroke-opacity:1" /><line
+   id="Line_01_2_"
+   class="st6"
+   x1="435.60001"
+   y1="49.653172"
+   x2="452.67001"
+   y2="49.653172"
+   style="stroke:#aa3377;stroke-opacity:1" /><line
+   id="Line_02_2_"
+   class="st6"
+   x1="455.78"
+   y1="49.653172"
+   x2="472.85001"
+   y2="49.653172"
+   style="stroke:#aa3377;stroke-opacity:1" /><line
+   id="Line_03_2_"
+   class="st6"
+   x1="475.95999"
+   y1="49.653172"
+   x2="493.03"
+   y2="49.653172"
+   style="stroke:#aa3377;stroke-opacity:1" /><line
+   id="_x37_s_Line"
+   class="st7"
+   x1="529.28003"
+   y1="25.893171"
+   x2="546.34998"
+   y2="25.893171"
+   style="stroke:#bbbbbb;stroke-opacity:1" />
+<g
+   id="Arrows"
+   transform="translate(10.88,4.0431718)">
+	<g
+   id="arrow_pointing_up">
+		<g
+   id="g84">
+			<line
+   class="st0"
+   x1="39.470001"
+   y1="422.35001"
+   x2="39.470001"
+   y2="122.96"
+   id="line78" />
+			<g
+   id="g82">
+				<polygon
+   class="st8"
+   points="39.47,119.37 36.98,123.69 41.97,123.69 "
+   id="polygon80" />
+			</g>
+		</g>
+	</g>
+	<g
+   id="arrow_pointing_right">
+		<g
+   id="g93">
+			<line
+   class="st0"
+   x1="71.959999"
+   y1="447.53"
+   x2="303.28"
+   y2="447.53"
+   id="line87" />
+			<g
+   id="g91">
+				<polygon
+   class="st8"
+   points="306.87,447.53 302.55,445.03 302.55,450.02 "
+   id="polygon89" />
+			</g>
+		</g>
+	</g>
+</g>
+<g
+   id="g271"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g273"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g275"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g277"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g279"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g281"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g283"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g285"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g287"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g289"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g291"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g293"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g295"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g297"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g299"
+   transform="translate(10.88,4.0431718)">
+	</g><g
+   id="g301"
+   transform="translate(10.88,4.0431718)">
+	</g>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="-0.88800001"
+   y="22.915173"
+   id="text417"><tspan
+     sodipodi:role="line"
+     id="tspan415"
+     x="-0.88800001"
+     y="22.915173"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">Energía</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="319.00818"
+   y="458.8479"
+   id="text417-3"><tspan
+     sodipodi:role="line"
+     id="tspan415-4"
+     x="319.00818"
+     y="458.8479"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">Número cuántico principal, <tspan
+   style="font-style:italic"
+   id="tspan437">n</tspan></tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="47.498512"
+   y="455.69934"
+   id="text441"><tspan
+     sodipodi:role="line"
+     id="tspan439"
+     x="47.498512"
+     y="455.69934"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">O</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="87.254997"
+   y="422.11615"
+   id="text441-6"><tspan
+     sodipodi:role="line"
+     id="tspan439-8"
+     x="87.254997"
+     y="422.11615"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">1s</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="161.23199"
+   y="303.24118"
+   id="text463"><tspan
+     sodipodi:role="line"
+     id="tspan461"
+     x="161.23199"
+     y="303.24118"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">2s</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="159.23199"
+   y="273.36731"
+   id="text463-1"><tspan
+     sodipodi:role="line"
+     id="tspan461-4"
+     x="159.23199"
+     y="273.36731"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">2p</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="233.49767"
+   y="191.22453"
+   id="text463-1-5"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8"
+     x="233.49767"
+     y="191.22453"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">3p</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="232.6908"
+   y="161.81538"
+   id="text463-1-5-1"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1"
+     x="232.6908"
+     y="161.81538"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">3d</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="236.16725"
+   y="219.59186"
+   id="text463-1-5-1-9"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-5"
+     x="236.16725"
+     y="219.59186"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">3s</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="304.5744"
+   y="108.96584"
+   id="text463-1-5-1-0"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50"
+     x="304.5744"
+     y="108.96584"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">4d</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="305.16394"
+   y="139.99611"
+   id="text463-1-5-1-0-6"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0"
+     x="305.16394"
+     y="139.99611"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">4p</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="306.17041"
+   y="71.310257"
+   id="text463-1-5-1-0-6-9"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-5"
+     x="306.17041"
+     y="71.310257"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">4f</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="307.00732"
+   y="171.63786"
+   id="text463-1-5-1-0-6-3"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-6"
+     x="307.00732"
+     y="171.63786"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">4s</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="381.71616"
+   y="119.1266"
+   id="text463-1-5-1-0-6-3-2"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-6-4"
+     x="381.71616"
+     y="119.1266"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">5s</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="379.91068"
+   y="87.365334"
+   id="text463-1-5-1-0-6-3-2-5"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-6-4-9"
+     x="379.91068"
+     y="87.365334"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">5p</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="380.46219"
+   y="58.080132"
+   id="text463-1-5-1-0-6-3-2-5-6"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-6-4-9-3"
+     x="380.46219"
+     y="58.080132"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">5d</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="382.96185"
+   y="16.944"
+   id="text463-1-5-1-0-6-3-2-5-6-7"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-6-4-9-3-7"
+     x="382.96185"
+     y="16.944"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">5f</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="454.65411"
+   y="74.235458"
+   id="text463-1-5-1-0-6-3-2-2"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-6-4-1"
+     x="454.65411"
+     y="74.235458"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">6s</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="451.64514"
+   y="39.169228"
+   id="text463-1-5-1-0-6-3-2-2-8"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-6-4-1-0"
+     x="451.64514"
+     y="39.169228"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">6p</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   x="527.60938"
+   y="22.081573"
+   id="text463-1-5-1-0-6-3-2-2-2"><tspan
+     sodipodi:role="line"
+     id="tspan461-4-8-1-50-0-6-4-1-9"
+     x="527.60938"
+     y="22.081573"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">7s</tspan></text></svg>

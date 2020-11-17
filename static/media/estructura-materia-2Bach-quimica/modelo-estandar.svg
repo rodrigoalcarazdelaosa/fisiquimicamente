@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1347.5156"
+   height="1142.4"
+   viewBox="0 0 1347.5156 1142.4"
+   font-family="Arial, sans-serif"
+   id="svg491"
+   sodipodi:docname="modelo-estandar.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     id="namedview493"
+     showgrid="false"
+     inkscape:zoom="0.48488949"
+     inkscape:cx="642.79256"
+     inkscape:cy="505.31432"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg491"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0" />
+  <title
+     id="title10">Standard Model of Elementary Particles</title>
+  <desc
+     id="desc12">Basic tiles are 240x240px usually spaced 250px apart.</desc>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator
+           rdf:resource="https://commons.wikimedia.org/wiki/User:Cush" />
+        <dc:publisher>Wikimedia Commons</dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <cc:attributionURL
+           rdf:resource="https://commons.wikimedia.org/w/index.php?title=File:Standard_Model_of_Elementary_Particles.svg" />
+        <cc:attributionName
+           rdf:resource="https://commons.wikimedia.org/wiki/User:Cush" />
+        <dc:title>Standard Model of Elementary Particles</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <style
+     type="text/css"
+     id="style9578">    
+	.head1 {text-anchor: middle; font-size: 64px; font-weight: bold; }
+
+	.pmass {font-size:24px; fill:#1a1a1a; }
+	.pchar {font-size:24px; fill:#1a1a1a; }
+	.pspin {font-size:24px; fill:#1a1a1a; }
+
+	.psymr {font-size:64px; text-anchor:middle; }
+	.psymg {font-size:72px; text-anchor:middle; font-family:Times New Roman, serif;}
+	.sub {font-size:48px; baseline-shift:-8px;}
+
+	.pname {font-size:42px; font-weight:bold; text-anchor:middle; fill:#001122; }
+	.pnam2 {font-size:36px; font-weight:bold; text-anchor:middle; fill:#001122; }
+    
+	.st0 {fill-opacity:0.03;fill:#E6CC01;stroke:#772222;stroke-miterlimit:10;stroke-opacity:0.15;}
+	.st1 {opacity:0.25;fill:#FFFFFF;} /* ball background fill */
+	.st2 {opacity:0.5;fill:#CCDDFF;} /* 3 generation box fill */
+
+	.st3 {fill:url(#lgb_quark);} /* quark box */
+	.st9 {fill:url(#lgb_lepton);} /* lepton box */
+	.st15 {fill:url(#lgb_gauge);} /* gauge boson box */
+	.st19 {fill:url(#lgb_scalar);} /* scalar boson box */
+	.st21 {fill:url(#lgb_tensor);} /* tensor boson box */
+
+	.st20 {fill:url(#lgp_quark);} /* quark ball */
+	.st26 {fill:url(#lgp_lepton);} /* lepton ball */
+	.st32 {fill:url(#lgp_gauge);} /* gauge boson ball */
+	.st36 {fill:url(#lgp_scalar);} /* scalar boson ball */
+	.st37 {fill:url(#lgp_tensor);} /* tensor boson ball */
+
+	.st39 {opacity:0.65;} /* density for mass, charge, and spin */
+	.st41 {fill:#112233; font-size:40px; text-anchor:middle;} /* color for generation I II III */
+
+	.st42 {fill:#55CC22; font-size:54px; font-weight:bold;} /* color for leptons */
+	.st43 {fill:#CC99FF; font-size:54px; font-weight:bold;} /* color for quarks */
+	.st44 {fill:#FF6C6C; font-size:54px; font-weight:bold;} /* color for gauge bosons */
+	.st44b{fill:#FF6C6C; font-size:36px; font-weight:bold;} /* color for vector bosons */
+	.st45 {fill:#EEBB33; font-size:54px; font-weight:bold;} /* color for scalar bosons */
+	.st46 {fill:#77AADD; font-size:54px; font-weight:bold;} /* color for tensor bosons */
+	.st46b{fill:#77AADD; font-size:36px; font-weight:bold;} /* color for hypothetical bosons */
+  </style>
+  <defs
+     id="defs102">
+    <linearGradient
+       id="lgb_quark"
+       gradientUnits="userSpaceOnUse"
+       x1="45"
+       y1="-15"
+       x2="200"
+       y2="250">
+      <stop
+         offset="0"
+         stop-color="#EEBBFF"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#AA77DD"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       id="lgb_lepton"
+       gradientUnits="userSpaceOnUse"
+       x1="45"
+       y1="-15"
+       x2="200"
+       y2="250">
+      <stop
+         offset="0"
+         stop-color="#AAEE77"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#66CC33"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="lgb_gauge"
+       gradientUnits="userSpaceOnUse"
+       x1="45"
+       y1="-15"
+       x2="200"
+       y2="250">
+      <stop
+         offset="0"
+         stop-color="#FF9977"
+         id="stop27" />
+      <stop
+         offset="1"
+         stop-color="#DD5544"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       id="lgb_scalar"
+       gradientUnits="userSpaceOnUse"
+       x1="45"
+       y1="-15"
+       x2="200"
+       y2="250">
+      <stop
+         offset="0"
+         stop-color="#EEE677"
+         id="stop32" />
+      <stop
+         offset="1"
+         stop-color="#EEBB33"
+         id="stop34" />
+    </linearGradient>
+    <linearGradient
+       id="lgb_tensor"
+       gradientUnits="userSpaceOnUse"
+       x1="45"
+       y1="-15"
+       x2="200"
+       y2="250">
+      <stop
+         offset="0"
+         stop-color="#99CCFF"
+         id="stop37" />
+      <stop
+         offset="1"
+         stop-color="#6699CC"
+         id="stop39" />
+    </linearGradient>
+    <linearGradient
+       id="lgp_quark"
+       gradientUnits="userSpaceOnUse"
+       x1="120"
+       y1="60"
+       x2="165"
+       y2="140">
+      <stop
+         offset="0"
+         stop-color="#EEBBFF"
+         id="stop42" />
+      <stop
+         offset="1"
+         stop-color="#AA77DD"
+         id="stop44" />
+    </linearGradient>
+    <linearGradient
+       id="lgp_lepton"
+       gradientUnits="userSpaceOnUse"
+       x1="120"
+       y1="60"
+       x2="165"
+       y2="140">
+      <stop
+         offset="0"
+         stop-color="#AAEE77"
+         id="stop47" />
+      <stop
+         offset="1"
+         stop-color="#66CC33"
+         id="stop49" />
+    </linearGradient>
+    <linearGradient
+       id="lgp_gauge"
+       gradientUnits="userSpaceOnUse"
+       x1="120"
+       y1="60"
+       x2="165"
+       y2="140">
+      <stop
+         offset="0"
+         stop-color="#FF9977"
+         id="stop52" />
+      <stop
+         offset="1"
+         stop-color="#DD5544"
+         id="stop54" />
+    </linearGradient>
+    <linearGradient
+       id="lgp_scalar"
+       gradientUnits="userSpaceOnUse"
+       x1="120"
+       y1="60"
+       x2="165"
+       y2="140">
+      <stop
+         offset="0"
+         stop-color="#EEE677"
+         id="stop57" />
+      <stop
+         offset="1"
+         stop-color="#EEBB33"
+         id="stop59" />
+    </linearGradient>
+    <linearGradient
+       id="lgp_tensor"
+       gradientUnits="userSpaceOnUse"
+       x1="120"
+       y1="60"
+       x2="165"
+       y2="140">
+      <stop
+         offset="0"
+         stop-color="#99CCFF"
+         id="stop62" />
+      <stop
+         offset="1"
+         stop-color="#6699CC"
+         id="stop64" />
+    </linearGradient>
+    <g
+       id="box">
+      <rect
+         x="5"
+         y="5"
+         width="230"
+         height="230"
+         fill="none"
+         stroke-width="10"
+         rx="25"
+         ry="25"
+         id="rect67" />
+    </g>
+    <g
+       id="ball">
+      <circle
+         cx="120"
+         cy="100"
+         r="50.400002"
+         class="st1"
+         id="circle70" />
+      <circle
+         cx="120"
+         cy="100"
+         r="47.700001"
+         class="st1"
+         id="circle72" />
+      <circle
+         cx="120"
+         cy="100"
+         r="45"
+         id="circle74" />
+    </g>
+    <g
+       id="tilequ">
+      <use
+         xlink:href="#box"
+         stroke="url(#lgb_quark)"
+         id="use77"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#ball"
+         class="st20"
+         id="use79"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="tilele">
+      <use
+         xlink:href="#box"
+         stroke="url(#lgb_lepton)"
+         id="use82"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#ball"
+         class="st26"
+         id="use84"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="tilegb">
+      <use
+         xlink:href="#box"
+         stroke="url(#lgb_gauge)"
+         id="use87"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#ball"
+         class="st32"
+         id="use89"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="tilesb">
+      <use
+         xlink:href="#box"
+         stroke="url(#lgb_scalar)"
+         id="use92"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#ball"
+         class="st36"
+         id="use94"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="tiletb">
+      <use
+         xlink:href="#box"
+         stroke="url(#lgb_tensor)"
+         id="use97"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#ball"
+         class="st37"
+         id="use99"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+  </defs>
+  <g
+     transform="translate(-32.484375,-137.60001)"
+     id="g111">
+    <title
+       id="title106">Forces</title>
+    <path
+       id="fstrong"
+       class="st0"
+       d="m 240.8,322.6 c -30.4,0 -55,24.6 -55,55 v 250 c 0,30.4 24.6,55 55,55 h 500 c 30.4,0 55,-24.6 55,-55 0,-107.7 87.3,-195 195,-195 h 10 c 30.4,0 55,-24.6 55,-55 0,-30.4 -24.6,-55 -55,-55 h -760" />
+    <path
+       class="st0"
+       d="m 240.8,312.6 c -35.9,0 -65,29.1 -65,65 v 510 c 0,35.9 29.1,65 65,65 h 500 c 35.9,0 65,-29.1 65,-65 0,-107.7 82.8,-195 185,-195 h 10 c 35.9,0 65,-29.1 65,-65 0,-35.9 -29.1,-65 -65,-65 h -10 c -102.2,0 -185,-82.8 -185,-185 0,-35.9 -29.1,-65 -65,-65 h -500"
+       id="felecmag" />
+    <path
+       class="st0"
+       d="m 240.8,302.6 c -41.4,0 -75,33.6 -75,75 v 760 c 0,41.4 33.6,75 75,75 h 760 c 41.4,0 75,-33.6 75,-75 v -250 c 0,-41.4 -33.6,-75 -75,-75 h -10 c -96.6,0 -175,-78.4 -175,-175 v -260 c 0,-41.4 -33.6,-75 -75,-75 h -500"
+       id="fweak" />
+  </g>
+  <rect
+     class="st2"
+     x="87.515625"
+     y="0"
+     width="740"
+     height="80"
+     rx="30"
+     ry="30"
+     id="rect115"
+     style="opacity:1;fill:#dddddd;fill-opacity:1" />
+  <text
+     x="457.04312"
+     y="28.399994"
+     font-size="30px"
+     font-weight="bold"
+     text-anchor="middle"
+     id="text119"
+     dx="0 0 0 0 0"><tspan
+       sodipodi:role="line"
+       id="tspan3240"
+       x="457.04312"
+       y="28.399994"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3237"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">tres generaciones de materia</tspan></tspan><tspan
+       sodipodi:role="line"
+       id="tspan3242"
+       x="457.04312"
+       y="66.023201"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3244">(fermiones)</tspan></tspan></text>
+  <g
+     id="g3485"
+     transform="translate(0,16)">
+    <text
+       x="207.51562"
+       id="text121"
+       style="font-size:40px;text-anchor:middle;fill:#112233"
+       y="117.39999"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3258">I</tspan></text>
+    <text
+       x="457.51562"
+       id="text123"
+       style="font-size:40px;text-anchor:middle;fill:#112233"
+       y="117.39999"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3260">II</tspan></text>
+    <text
+       x="707.51562"
+       id="text125"
+       style="font-size:40px;text-anchor:middle;fill:#112233"
+       y="117.39999"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3262">III</tspan></text>
+  </g>
+  <rect
+     class="st2"
+     x="847.51562"
+     y="0"
+     width="500"
+     height="80"
+     rx="30"
+     ry="30"
+     id="rect133"
+     style="opacity:1;fill:#dddddd;fill-opacity:1" />
+  <g
+     transform="translate(72.515625,-117.60001)"
+     class="st39"
+     font-size="24px"
+     text-anchor="end"
+     id="g149">
+    <title
+       id="title141">mass, charge, spin</title>
+    <text
+       y="295"
+       id="text143"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3264">masa</tspan></text>
+    <text
+       y="335"
+       id="text145"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3266">carga</tspan></text>
+    <text
+       y="375"
+       id="text147"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan380">spin</tspan></text>
+  </g>
+  <g
+     id="g251"
+     transform="translate(-12.484375,-137.60001)">
+    <title
+       id="title151">Quarks</title>
+    <text
+       class="st43"
+       transform="rotate(-90,420,350)"
+       id="text153"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3268">QUARKS</tspan></text>
+    <g
+       transform="translate(100,275)"
+       id="g169">
+      <title
+         id="title155">up</title>
+      <use
+         xlink:href="#tilequ"
+         id="use157"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         class="psymr"
+         x="120"
+         y="120"
+         id="text159"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3284">u</tspan></text>
+      <text
+         class="pmass"
+         x="15"
+         y="40"
+         id="text161"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3278">≃2.2 MeV/c²</tspan></text>
+      <text
+         class="pchar"
+         x="15"
+         y="80"
+         id="text163"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3280">⅔</tspan></text>
+      <text
+         class="pspin"
+         x="15"
+         y="120"
+         id="text165"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3282">½</tspan></text>
+      <text
+         class="pname"
+         x="120"
+         y="200"
+         id="text167"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3288">up</tspan></text>
+    </g>
+    <g
+       transform="translate(100,525)"
+       id="g185">
+      <title
+         id="title171">down</title>
+      <use
+         xlink:href="#tilequ"
+         id="use173"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         class="psymr"
+         x="120"
+         y="120"
+         id="text175"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3316">d</tspan></text>
+      <text
+         class="pmass"
+         x="15"
+         y="40"
+         id="text177"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3310">≃4.7 MeV/c²</tspan></text>
+      <text
+         class="pchar"
+         x="15"
+         y="80"
+         id="text179"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3312">−⅓</tspan></text>
+      <text
+         class="pspin"
+         x="15"
+         y="120"
+         id="text181"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3314">½</tspan></text>
+      <text
+         class="pname"
+         x="120"
+         y="200"
+         id="text183"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3318">down</tspan></text>
+    </g>
+    <g
+       transform="translate(350,275)"
+       id="g201">
+      <title
+         id="title187">charm</title>
+      <use
+         xlink:href="#tilequ"
+         id="use189"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         class="psymr"
+         x="120"
+         y="120"
+         id="text191"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3296">c</tspan></text>
+      <text
+         class="pmass"
+         x="15"
+         y="40"
+         id="text193"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3290">≃1.28 GeV/c²</tspan></text>
+      <text
+         class="pchar"
+         x="15"
+         y="80"
+         id="text195"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3292">⅔</tspan></text>
+      <text
+         class="pspin"
+         x="15"
+         y="120"
+         id="text197"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3294">½</tspan></text>
+      <text
+         class="pname"
+         x="120"
+         y="200"
+         id="text199"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3298">charm</tspan></text>
+    </g>
+    <g
+       transform="translate(350,525)"
+       id="g217">
+      <title
+         id="title203">strange</title>
+      <use
+         xlink:href="#tilequ"
+         id="use205"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         class="psymr"
+         x="120"
+         y="120"
+         id="text207"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3326">s</tspan></text>
+      <text
+         class="pmass"
+         x="15"
+         y="40"
+         id="text209"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3320">≃96 MeV/c²</tspan></text>
+      <text
+         class="pchar"
+         x="15"
+         y="80"
+         id="text211"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3322">−⅓</tspan></text>
+      <text
+         class="pspin"
+         x="15"
+         y="120"
+         id="text213"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3324">½</tspan></text>
+      <text
+         class="pname"
+         x="120"
+         y="200"
+         id="text215"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3328">strange</tspan></text>
+    </g>
+    <g
+       transform="translate(600,275)"
+       id="g233">
+      <title
+         id="title219">top</title>
+      <use
+         xlink:href="#tilequ"
+         id="use221"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         class="psymr"
+         x="120"
+         y="120"
+         id="text223"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3306">t</tspan></text>
+      <text
+         class="pmass"
+         x="15"
+         y="40"
+         id="text225"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3300">≃173.1 GeV/c²</tspan></text>
+      <text
+         class="pchar"
+         x="15"
+         y="80"
+         id="text227"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3302">⅔</tspan></text>
+      <text
+         class="pspin"
+         x="15"
+         y="120"
+         id="text229"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3304">½</tspan></text>
+      <text
+         class="pname"
+         x="120"
+         y="200"
+         id="text231"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3308">top</tspan></text>
+    </g>
+    <g
+       transform="translate(600,525)"
+       id="g249">
+      <title
+         id="title235">bottom</title>
+      <use
+         xlink:href="#tilequ"
+         id="use237"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         class="psymr"
+         x="120"
+         y="120"
+         id="text239"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3336">b</tspan></text>
+      <text
+         class="pmass"
+         x="15"
+         y="40"
+         id="text241"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3330">≃4.18 GeV/c²</tspan></text>
+      <text
+         class="pchar"
+         x="15"
+         y="80"
+         id="text243"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3332">−⅓</tspan></text>
+      <text
+         class="pspin"
+         x="15"
+         y="120"
+         id="text245"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3334">½</tspan></text>
+      <text
+         class="pname"
+         x="120"
+         y="200"
+         id="text247"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3338">bottom</tspan></text>
+    </g>
+  </g>
+  <text
+     class="st42"
+     transform="rotate(-90)"
+     id="text255"
+     x="-1132.4"
+     y="57.515629"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+       id="tspan3270">LEPTONES</tspan></text>
+  <g
+     transform="translate(87.515625,652.39999)"
+     id="g271">
+    <title
+       id="title257">electron</title>
+    <use
+       xlink:href="#tilele"
+       id="use259"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       class="psymr"
+       x="120"
+       y="120"
+       id="text261"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3346">e</tspan></text>
+    <text
+       class="pmass"
+       x="15"
+       y="40"
+       id="text263"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3340">≃0.511 MeV/c²</tspan></text>
+    <text
+       class="pchar"
+       x="15"
+       y="80"
+       id="text265"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3342">−1</tspan></text>
+    <text
+       class="pspin"
+       x="15"
+       y="120"
+       id="text267"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3344">½</tspan></text>
+    <text
+       class="pname"
+       x="120"
+       y="200"
+       id="text269"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3348">electrón</tspan></text>
+  </g>
+  <g
+     transform="translate(87.515625,902.39999)"
+     id="g293">
+    <title
+       id="title273">electron neutrino</title>
+    <use
+       xlink:href="#tilele"
+       id="use275"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       class="psymg"
+       x="120"
+       y="110"
+       id="text279"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3416">ν<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3418">e</tspan></tspan></text>
+    <text
+       class="pmass"
+       x="15"
+       y="40"
+       id="text281"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3410">&lt;1.0 eV/c²</tspan></text>
+    <text
+       class="pchar"
+       x="15"
+       y="80"
+       id="text283"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3412">0</tspan></text>
+    <text
+       class="pspin"
+       x="15"
+       y="120"
+       id="text285"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3414">½</tspan></text>
+    <text
+       class="pnam2"
+       x="120"
+       y="200"
+       id="text291"
+       style="line-height:0.5"><tspan
+         sodipodi:role="line"
+         id="tspan3446"
+         x="120"
+         y="200"><tspan
+           dy="-20 0 0 0 0 0 0 0"
+           id="tspan287"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'">electrón</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan3448"
+         x="120"
+         y="218.14784"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3450">neutrino</tspan></tspan></text>
+  </g>
+  <use
+     xlink:href="#tilele"
+     id="use297"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     transform="translate(337.51562,652.39999)" />
+  <text
+     class="psymg"
+     x="457.51562"
+     y="764.39996"
+     id="text299"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3358">μ</tspan></text>
+  <text
+     class="pmass"
+     x="352.51562"
+     y="692.39996"
+     id="text301"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3350">≃105.66 MeV/c²</tspan></text>
+  <text
+     class="pchar"
+     x="352.51562"
+     y="732.39996"
+     id="text303"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3352">−1</tspan></text>
+  <text
+     class="pspin"
+     x="352.51562"
+     y="772.39996"
+     id="text305"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3354">½</tspan></text>
+  <text
+     class="pname"
+     x="457.51562"
+     y="852.39996"
+     id="text307"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+       id="tspan3356">muon</tspan></text>
+  <g
+     transform="translate(337.51562,902.39999)"
+     id="g331">
+    <title
+       id="title311">muon neutrino</title>
+    <use
+       xlink:href="#tilele"
+       id="use313"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       class="psymg"
+       x="120"
+       y="110"
+       id="text317"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3426">ν<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3428">μ</tspan></tspan></text>
+    <text
+       class="pmass"
+       x="15"
+       y="40"
+       id="text319"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3420">&lt;0.17 MeV/c²</tspan></text>
+    <text
+       class="pchar"
+       x="15"
+       y="80"
+       id="text321"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3422">0</tspan></text>
+    <text
+       class="pspin"
+       x="15"
+       y="120"
+       id="text323"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3424">½</tspan></text>
+    <text
+       class="pnam2"
+       x="120"
+       y="200"
+       id="text329"
+       style="line-height:0.5"><tspan
+         sodipodi:role="line"
+         id="tspan3433"
+         x="120"
+         y="200"><tspan
+           dy="-20 0 0 0"
+           id="tspan325"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'">muon</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="120"
+         y="218.14784"
+         id="tspan3441"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3443">neutrino</tspan></tspan></text>
+  </g>
+  <g
+     transform="translate(587.51562,652.39999)"
+     id="g347">
+    <title
+       id="title333">tau</title>
+    <use
+       xlink:href="#tilele"
+       id="use335"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       class="psymg"
+       x="120"
+       y="120"
+       id="text337"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3366">τ</tspan></text>
+    <text
+       class="pmass"
+       x="15"
+       y="40"
+       id="text339"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3360">≃1.7768 GeV/c²</tspan></text>
+    <text
+       class="pchar"
+       x="15"
+       y="80"
+       id="text341"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3362">−1</tspan></text>
+    <text
+       class="pspin"
+       x="15"
+       y="120"
+       id="text343"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3364">½</tspan></text>
+    <text
+       class="pname"
+       x="120"
+       y="200"
+       id="text345"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3368">tau</tspan></text>
+  </g>
+  <g
+     transform="translate(587.51562,902.39999)"
+     id="g369">
+    <title
+       id="title349">tau neutrino</title>
+    <use
+       xlink:href="#tilele"
+       id="use351"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       class="psymg"
+       x="120"
+       y="110"
+       id="text355"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3458">ν<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3460">τ</tspan></tspan></text>
+    <text
+       class="pmass"
+       x="15"
+       y="40"
+       id="text357"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3452">&lt;18.2 MeV/c²</tspan></text>
+    <text
+       class="pchar"
+       x="15"
+       y="80"
+       id="text359"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3454">0</tspan></text>
+    <text
+       class="pspin"
+       x="15"
+       y="120"
+       id="text361"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3456">½</tspan></text>
+    <text
+       class="pnam2"
+       x="120"
+       y="200"
+       id="text367"
+       style="line-height:0.5"><tspan
+         sodipodi:role="line"
+         id="tspan3463"
+         x="120"
+         y="200"><tspan
+           dy="-20 0 0"
+           id="tspan363"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'">tau</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan3465"
+         x="120"
+         y="218.14784"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3467">neutrino</tspan></tspan></text>
+  </g>
+  <g
+     id="g465"
+     transform="translate(-12.484375,-137.60001)">
+    <title
+       id="title445">Scalar Bosons</title>
+    <text
+       class="st45"
+       transform="rotate(-90,940,-410)"
+       text-anchor="end"
+       id="text447"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3276">BOSONES ESCALARES</tspan></text>
+    <g
+       transform="translate(1120,275)"
+       id="g463">
+      <title
+         id="title449">Higgs</title>
+      <use
+         xlink:href="#tilesb"
+         id="use451"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         class="psymr"
+         x="120"
+         y="120"
+         id="text453"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3475">H</tspan></text>
+      <text
+         class="pmass"
+         x="15"
+         y="40"
+         id="text455"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3469">≃124.97 GeV/c²</tspan></text>
+      <text
+         class="pchar"
+         x="15"
+         y="80"
+         id="text457"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3471">0</tspan></text>
+      <text
+         class="pspin"
+         x="15"
+         y="120"
+         id="text459"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+           id="tspan3473">0</tspan></text>
+      <text
+         class="pname"
+         x="120"
+         y="200"
+         id="text461"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+           id="tspan3477">higgs</tspan></text>
+    </g>
+  </g>
+  <text
+     class="st44"
+     transform="rotate(-90)"
+     id="text375"
+     x="-1132.4"
+     y="1157.5156"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+       id="tspan3272">BOSONES DE GAUGE</tspan></text>
+  <text
+     class="st44b"
+     transform="rotate(-90)"
+     id="text377"
+     x="-1132.4"
+     y="1197.5156"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+       id="tspan3274">BOSONES VECTORIALES</tspan></text>
+  <use
+     xlink:href="#tilegb"
+     id="use381"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     transform="translate(847.51562,137.39999)" />
+  <text
+     class="psymr"
+     x="967.51562"
+     y="245.39999"
+     id="text383"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3376">g</tspan></text>
+  <text
+     class="pmass"
+     x="862.51562"
+     y="177.39999"
+     id="text385"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3370">0</tspan></text>
+  <text
+     class="pchar"
+     x="862.51562"
+     y="217.39999"
+     id="text387"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3372">0</tspan></text>
+  <text
+     class="pspin"
+     x="862.51562"
+     y="257.39999"
+     id="text389"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3374">1</tspan></text>
+  <text
+     class="pname"
+     x="967.51562"
+     y="337.39999"
+     id="text391"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+       id="tspan3378">gluon</tspan></text>
+  <use
+     xlink:href="#tilegb"
+     id="use397"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     transform="translate(847.51562,387.39999)" />
+  <text
+     class="psymg"
+     x="967.51562"
+     y="497.39999"
+     id="text399"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3386">γ</tspan></text>
+  <text
+     class="pmass"
+     x="862.51562"
+     y="427.39999"
+     id="text401"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3380">0</tspan></text>
+  <text
+     class="pchar"
+     x="862.51562"
+     y="467.39999"
+     id="text403"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3382">0</tspan></text>
+  <text
+     class="pspin"
+     x="862.51562"
+     y="507.39999"
+     id="text405"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan3384">1</tspan></text>
+  <text
+     class="pname"
+     x="967.51562"
+     y="587.39996"
+     id="text407"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+       id="tspan3388">fotón</tspan></text>
+  <g
+     transform="translate(847.51562,652.39999)"
+     id="g425">
+    <title
+       id="title411">Z boson</title>
+    <use
+       xlink:href="#tilegb"
+       id="use413"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       class="psymr"
+       x="120"
+       y="120"
+       id="text415"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3396">Z</tspan></text>
+    <text
+       class="pmass"
+       x="15"
+       y="40"
+       id="text417"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3390">≃91.19 GeV/c²</tspan></text>
+    <text
+       class="pchar"
+       x="15"
+       y="80"
+       id="text419"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3392">0</tspan></text>
+    <text
+       class="pspin"
+       x="15"
+       y="120"
+       id="text421"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3394">1</tspan></text>
+    <text
+       class="pname"
+       x="120"
+       y="200"
+       id="text423"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3398">bosón Z</tspan></text>
+  </g>
+  <g
+     transform="translate(847.51562,902.39999)"
+     id="g441">
+    <title
+       id="title427">W boson</title>
+    <use
+       xlink:href="#tilegb"
+       id="use429"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       class="psymr"
+       x="120"
+       y="120"
+       id="text431"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3406">W</tspan></text>
+    <text
+       class="pmass"
+       x="15"
+       y="40"
+       id="text433"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3400">≃80.39 GeV/c²</tspan></text>
+    <text
+       class="pchar"
+       x="15"
+       y="80"
+       id="text435"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3402">±1</tspan></text>
+    <text
+       class="pspin"
+       x="15"
+       y="120"
+       id="text437"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+         id="tspan3404">1</tspan></text>
+    <text
+       class="pname"
+       x="120"
+       y="200"
+       id="text439"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3408">bosón W</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     id="g489"
+     transform="translate(-12.484375,-137.60001)">
+    <title
+       id="title467">Tensor Bosons</title>
+    <text
+       class="st46"
+       transform="rotate(-90,1070,-540)"
+       text-anchor="end"
+       id="text469">TENSOR BOSONS</text>
+    <text
+       class="st46b"
+       transform="rotate(-90,1042.5,-512.5)"
+       text-anchor="end"
+       id="text471">HYPOTHETICAL</text>
+    <g
+       transform="translate(1380,275)"
+       id="g487">
+      <title
+         id="title473">Graviton</title>
+      <use
+         xlink:href="#tiletb"
+         id="use475"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         class="psymr"
+         x="120"
+         y="120"
+         id="text477">G</text>
+      <text
+         class="pmass"
+         x="15"
+         y="40"
+         id="text479">0</text>
+      <text
+         class="pchar"
+         x="15"
+         y="80"
+         id="text481">0</text>
+      <text
+         class="pspin"
+         x="15"
+         y="120"
+         id="text483">2</text>
+      <text
+         class="pname"
+         x="120"
+         y="200"
+         id="text485">graviton</text>
+    </g>
+  </g>
+  <text
+     x="1097.1332"
+     y="28.414993"
+     font-size="30px"
+     font-weight="bold"
+     text-anchor="middle"
+     id="text119-5"><tspan
+       sodipodi:role="line"
+       id="tspan3240-3"
+       x="1097.1332"
+       y="28.414993"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3237-1"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">interacciones/portadores de fuerza</tspan></tspan><tspan
+       sodipodi:role="line"
+       id="tspan3242-1"
+       x="1097.1332"
+       y="66.0382"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'"
+         id="tspan3244-2">(bosones)</tspan></tspan></text>
+</svg>
