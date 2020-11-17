@@ -193,6 +193,16 @@ $$
 
 de forma que, por ejemplo, para $n = 3$, $l=\\{0,1,2\\}$.
 
+#### Número cuántico magnético $m_l$
+
+Nos da la **orientación** del **orbital**. Puede tomar los siguientes valores:
+
+$$
+-l\leq m_l\leq l
+$$
+
+de forma que, por ejemplo, para $l = 2$, $m_l=\\{-2,-1,0,1,2\\}$.
+
 ## Estructura electrónica
 
 ## Partículas subatómicas
