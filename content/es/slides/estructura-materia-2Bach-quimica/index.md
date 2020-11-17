@@ -421,6 +421,6 @@ Es la teoría que **describe tres de las cuatro interacciones fundamentales** de
 	
 ### Evolución del Universo
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/evolucion-universo.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:History_of_the_Universe.svg. Iconos diseñados por [Freepik](https://www.freepik.com/) de https://www.flaticon.es/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/evolucion-universo.svg" lightbox="false" width="100%" >}}
 
 {{% /section %}}
