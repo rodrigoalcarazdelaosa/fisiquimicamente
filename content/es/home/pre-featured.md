@@ -13,7 +13,7 @@ design:
   background:
       image: 'divider.jpg'
       image_darken: 0
-      image_size: contain
+      image_size: cover
       image_position: center
       image_parallax: true	  
 ---
