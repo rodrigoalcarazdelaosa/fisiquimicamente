@@ -70,7 +70,7 @@ Gracias a su famoso **experimento** de la **lámina** de **oro** (Au), Ernest **
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/Rutherford.svg" title="El **átomo** de **Rutherford** está formado por un **núcleo** con **carga positiva** donde se concentra la mayor parte de su **masa**, y alrededor del cual giran los **electrones**, con carga negativa." lightbox="false" width="70%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/Rutherford.svg" lightbox="false" width="70%" >}}
 
 ---
 
