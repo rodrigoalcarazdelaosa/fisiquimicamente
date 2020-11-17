@@ -243,3 +243,4 @@ Se muestran también los **números cuánticos** del **último electrón**:
 
 ## Partículas subatómicas
 
+Tras los descubrimientos de **Thomson**, **Rutherford** y **Chadwick** a principios del siglo XX, parecía claro que el átomo estaba formado por **protones** y **neutrones** en su núcleo y una corteza donde estaban los **electrones**.
