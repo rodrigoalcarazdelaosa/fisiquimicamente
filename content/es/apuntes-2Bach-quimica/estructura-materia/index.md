@@ -146,6 +146,14 @@ Consiste en que el comportamiento de los **objetos cuánticos** no puede ser des
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/difraccion-electrones.svg" title="**Electrones** mostrando un **comportamiento** claramente **ondulatorio**, gracias al famoso **experimento** de la **doble rendija**. Traducida de https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Map%3A_Physical_Chemistry_(McQuarrie_and_Simon)/01%3A_The_Dawn_of_the_Quantum_Theory/1.07%3A_de_Broglie_Waves_can_be_Experimentally_Observed." lightbox="false" width="100%" >}}
 
+A partir de **experimentos** de **difracción** de **electrones**, **Louis de Broglie** fue el primero que propuso la siguiente **hipótesis**:
+
+> Toda partícula de masa $m$ moviéndose a una velocidad $v$ tiene asociada una onda (*de materia*) cuya longitud de onda, $\lambda$, viene dada por
+	$$
+	\lambda = \frac{h}{mv},
+	$$
+	siendo $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ la constante de Planck.
+
 ## Orbitales atómicos
 
 ## Estructura electrónica
