@@ -264,3 +264,57 @@ donde $\Delta$ denota la  incertidumbre asociada y $\hbar = h/(2\pi)$.
 El **principio** de **incertidumbre** de **Heisenberg** implica que, aunque se especifiquen todas las condiciones iniciales, no es posible predecir el valor de una cantidad con total certeza, dando así paso a una **interpretación probabilística** de la **mecánica cuántica**.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Orbitales atómicos
+
+Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y la **orientación** de las **regiones** del **espacio** donde es **más probable encontrar** al **electrón**.
+
+---
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos.svg" title="Orbitales s ($l=0$), p ($l=1$), d ($l=2$) y f ($l=3$). Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
+---
+
+### Números cuánticos y su interpretación
+
+Los **números cuánticos** describen **valores** de **magnitudes físicas** que se **conservan** en la dinámica de un sistema cuántico, tales como la **energía** o el **momento angular**, las cuales están **cuantizadas** y por tanto toman **valores discretos**.
+
+Para **describir** completamente el **estado cuántico** de un **electrón** en un átomo necesitamos **cuatro números cuánticos**, los cuales tienen un significado orbital concreto.
+
+#### Número cuántico principal $n$
+Nos da el **tamaño** y la **energía** del **orbital**. Toma valores naturales ($1\leq n$), como por ejemplo $n = 1,2,3,\dots$
+
+#### Número cuántico secundario $l$
+Nos da la **energía** y **forma** del **orbital**. Puede tomar los siguientes valores:
+
+$$
+0\leq l\leq n-1
+$$
+
+de forma que, por ejemplo, para $n = 3$: $l=\\{0,1,2\\}$.
+
+#### Número cuántico magnético $m_l$
+
+Nos da la **orientación** del **orbital**. Puede tomar los siguientes valores:
+
+$$
+-l\leq m_l\leq l
+$$
+
+de forma que, por ejemplo, para $l = 2$: $m_l=\\{-2,-1,0,1,2\\}$.
+
+#### Espín $m_s$
+
+Es el **momento angular intrínseco**. Puede tomar los siguientes valores:
+
+$$
+-s\leq m_s\leq s
+$$
+
+Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$.
+
+{{% /section %}}
