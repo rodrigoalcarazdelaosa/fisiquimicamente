@@ -203,6 +203,16 @@ $$
 
 de forma que, por ejemplo, para $l = 2$: $m_l=\\{-2,-1,0,1,2\\}$.
 
+#### Espín $m_s$
+
+Es el **momento angular intrínseco**. Puede tomar los siguientes valores:
+
+$$
+-s\leq m_s\leq s
+$$
+
+Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$}.
+
 ## Estructura electrónica
 
 ## Partículas subatómicas
