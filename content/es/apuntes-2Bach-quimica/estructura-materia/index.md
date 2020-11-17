@@ -171,6 +171,10 @@ El **principio** de **incertidumbre** de **Heisenberg** implica que, aunque se e
 
 ## Orbitales atómicos
 
+Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y la **orientación** de las **regiones** del **espacio** donde es **más probable encontrar** al **electrón**.
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos.svg" title="Orbitales s ($l=0$), p ($l=1$), d ($l=2$) y f ($l=3$). \\ Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
 ## Estructura electrónica
 
 ## Partículas subatómicas
