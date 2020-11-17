@@ -156,7 +156,7 @@ A partir de **experimentos** de **difracción** de **electrones**, **Louis de Br
 	
 ### Principio de incertidumbre de Heisenberg
 
-> Existen ciertos pares de magnitudes físicas (aquellas cuyo producto tiene dimensiones de $\mathsfup{M}\mathsfup{L}^2\mathsfup{T}^{-1}$), que no pueden ser determinadas simultáneamente con total exactitud, pues el producto de sus incertidumbres ha de ser mayor o igual que $h/(4\pi) = \hbar/2$.
+> Existen ciertos pares de magnitudes físicas (aquellas cuyo producto tiene dimensiones de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no pueden ser determinadas simultáneamente con total exactitud, pues el producto de sus incertidumbres ha de ser mayor o igual que $h/(4\pi) = \hbar/2$.
 
 **Ejemplos** de tales magnitudes son:
 	
