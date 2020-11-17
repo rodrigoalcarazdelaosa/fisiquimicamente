@@ -15,5 +15,5 @@ design:
       image_darken: 0
       image_size: cover
       image_position: center
-      image_parallax: true	  
+      image_parallax: false	  
 ---
