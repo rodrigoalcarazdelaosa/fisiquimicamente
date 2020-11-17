@@ -182,6 +182,7 @@ Los **números cuánticos** describen **valores** de **magnitudes físicas** que
 Para **describir** completamente el **estado cuántico** de un **electrón** en un átomo necesitamos **cuatro números cuánticos**, los cuales tienen un significado orbital concreto.
 
 #### Número cuántico principal $n$
+Nos da el **tamaño** y la **energía** del **orbital**. Toma valores naturales ($1\leq n$).
 
 ## Estructura electrónica
 
