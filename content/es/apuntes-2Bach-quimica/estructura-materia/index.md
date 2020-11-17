@@ -230,16 +230,7 @@ La **configuración electrónica** es la **distribución** de los **electrones**
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orden-energetico-creciente.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
 
-\begin{figure}[htb]
-    \centering % <-- added
-\begin{subfigure}{0.55\textwidth}
-	\centering	  		\includegraphics[width=\textwidth]{orden-energetico-creciente} \\
-	{\small Traducida y adaptada de \url{https://www.coursehero.com/sg/general-chemistry/quantum-theory/}.}
-\end{subfigure}\hfil % <-- added
-\begin{subfigure}{0.4\textwidth}
-	\centering  	  		\includegraphics[width=.9\textwidth]{diagrama-Moller} \\ {\small \textbf{Diagrama de Möller}. Adaptada de \url{https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci\%C3\%B3n_electr\%C3\%B3nica.svg}.}
-\end{subfigure}\hfil % <-- added	
-\end{figure}
+{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
 
 \heading{Regla de Hund de la máxima multiplicidad}
 \begin{quote}
