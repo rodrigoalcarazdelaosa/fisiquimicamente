@@ -191,7 +191,7 @@ $$
 0\leq l\leq n-1
 $$
 
-de forma que, por ejemplo, para $n = 3$, $l=\\{0,1,2\\}$.
+de forma que, por ejemplo, para $n = 3$: $l=\\{0,1,2\\}$.
 
 #### Número cuántico magnético $m_l$
 
@@ -201,7 +201,7 @@ $$
 -l\leq m_l\leq l
 $$
 
-de forma que, por ejemplo, para $l = 2$, $m_l=\\{-2,-1,0,1,2\\}$.
+de forma que, por ejemplo, para $l = 2$: $m_l=\\{-2,-1,0,1,2\\}$.
 
 ## Estructura electrónica
 
