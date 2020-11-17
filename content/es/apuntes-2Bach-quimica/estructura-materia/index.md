@@ -89,6 +89,13 @@ donde $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocid
 
 ## Orígenes de la teoría cuántica
 
+### Radiación de cuerpo negro
+
+
+
+### Hipótesis de Planck
+### Efecto fotoeléctrico
+
 ## Mecánica cuántica
 
 ## Orbitales atómicos
