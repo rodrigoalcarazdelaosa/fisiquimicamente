@@ -55,7 +55,7 @@ La **integridad** del **núcleo** [^1] y la **inestabilidad** de las **órbitas 
 
 ### Bohr
 
-Propuesto en \textbf{1913} por Niels \textbf{Bohr} para \textbf{explicar} la \textbf{estabilidad} de la \textbf{materia} y los \textbf{característicos espectros} de emisión y absorción de los \textbf{gases}.
+Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de la **materia** y los **característicos espectros** de emisión y absorción de los **gases**.
 
 {{< figure library="true" src="modelos-atomicos-4ESO/espectro-H.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
 
