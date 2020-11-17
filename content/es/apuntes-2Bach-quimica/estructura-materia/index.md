@@ -73,8 +73,9 @@ Este modelo se basa en **tres postulados fundamentales**:
 La **ecuación** de **Rydberg** nos da la **longitud** de **onda** de las **líneas espectrales** de muchos elementos químicos:
 
 \[
-\frac{1}{\lambda} = R\cdot\mleft(\frac{1}{n_1^2}-\frac{1}{n_2^2}\mright),
+\frac{1}{\lambda} = R\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
 \]
+
 donde $\lambda$ es la longitud de onda de la radiación emitida en el vacío, $R = \SI{1.097e7}{\per\m}$ es la constante de Rydberg y $n_1$ y $n_2$ son los números cuánticos principales de las órbitas involucradas en el salto (con $n_2>n_1$).
 
 Esta ecuación también nos permite calcular el \textbf{valor energético} correspondiente a una \textbf{transición electrónica} entre dos niveles dados, $\Delta E$:
