@@ -250,5 +250,5 @@ Tras los descubrimientos de **Thomson**, **Rutherford** y **Chadwick** a princip
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutrón | $1.675\times 10^{-27}$ | $0$ |
 | Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3 align="center">$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
-<td colspan=3 align="center">$q_\text{protón}=-q_\text{electrón}$
+<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
+<td colspan=3>$q_\text{protón}=-q_\text{electrón}$
