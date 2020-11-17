@@ -275,7 +275,7 @@ Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y 
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos.svg" lightbox="false" width="70%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos.svg" lightbox="false" width="75%" >}}
 
 ---
 
