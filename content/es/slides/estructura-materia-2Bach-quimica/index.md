@@ -335,9 +335,9 @@ Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$.
 
 ## Estructura electrónica
 
-- Principio de exclusión de Pauli
-- Orden energético creciente
-- Regla de Hund de la máxima multiplicidad
+- [Principio de exclusión de Pauli](#/5/1)
+- [Orden energético creciente](#/5/3)
+- [Regla de Hund de la máxima multiplicidad](#/5/7)
 
 (continúa hacia abajo)
 
