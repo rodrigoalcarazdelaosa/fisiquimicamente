@@ -185,7 +185,13 @@ Para **describir** completamente el **estado cuántico** de un **electrón** en 
 Nos da el **tamaño** y la **energía** del **orbital**. Toma valores naturales ($1\leq n$), como por ejemplo $n = 1,2,3,\dots$
 
 #### Número cuántico secundario $l$
-Nos da la **energía** y **forma** del **orbital**. Toma
+Nos da la **energía** y **forma** del **orbital**. Puede tomar los siguientes valores:
+
+$$
+0\leq l\leq n-1
+$$
+
+de forma que, por ejemplo, para $n = 3$, $l=0,1,2$.
 
 ## Estructura electrónica
 
