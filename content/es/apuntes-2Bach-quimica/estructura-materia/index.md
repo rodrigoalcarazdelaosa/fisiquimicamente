@@ -28,7 +28,9 @@ links:
 
 ## Modelos atómicos
 ### Dalton
-{{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" title="El átomo de Dalton es una esfera maciza indivisible." lightbox="false" width="100%" >}}
+Basándose en las ideas de **Demócrito**, **John Dalton** propuso este modelo a principios del siglo XIX, considerando al átomo como una **esfera maciza indivisible**.
+ 
+{{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" title="El **átomo** de **Dalton** es una **esfera maciza indivisible**." lightbox="false" width="100%" >}}
 
 ## Orígenes de la teoría cuántica
 
