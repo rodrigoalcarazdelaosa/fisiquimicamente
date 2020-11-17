@@ -14,6 +14,6 @@ design:
       image: 'divider.jpg'
       image_darken: 0
       image_size: contain
-      image_position: center
+      image_position: top
       image_parallax: true	  
 ---
