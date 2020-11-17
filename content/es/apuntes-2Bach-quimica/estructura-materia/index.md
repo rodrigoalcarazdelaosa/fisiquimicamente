@@ -1,7 +1,7 @@
 ---
 title: Estructura de la materia
 subtitle: Mecánica cuántica, orbitales atómicos, estructura electrónica y partículas subatómicas
-summary: "<code style='background:#ffcccc'>EN CONSTRUCCIÓN</code> <br> Mecánica cuántica, orbitales atómicos, estructura electrónica y partículas subatómicas."
+summary: "Mecánica cuántica, orbitales atómicos, estructura electrónica y partículas subatómicas."
 tags:
 - 2º Bach
 - estructura-atómica
@@ -24,6 +24,5 @@ links:
 
 ---
 
-{{% callout warning %}}
-En construcción...
-{{% /callout %}}
+{{% toc %}}
+
