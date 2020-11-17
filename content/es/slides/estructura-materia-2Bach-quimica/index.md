@@ -13,11 +13,11 @@ slides:
 # Estructura de la materia
 
 - [Modelos atómicos](#/1)
-- Orígenes de la teoría cuántica
-- Mecánica cuántica
-- Orbitales atómicos
-- Estructura electrónica
-- Partículas subatómicas
+- [Orígenes de la teoría cuántica](#/2)
+- [Mecánica cuántica](#/3)
+- [Orbitales atómicos](#/4)
+- [Estructura electrónica](#/5)
+- [Partículas subatómicas](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
