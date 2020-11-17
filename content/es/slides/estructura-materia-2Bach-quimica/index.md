@@ -167,6 +167,8 @@ Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **si
 
 <iframe src="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
+---
+
 ### Hipótesis de Planck
 
 > La energía solo puede ser emitida/absorbida en paquetes discretos llamados cuantos o **fotones**, múltiplos de la frecuencia $\nu$ de la radiación electromagnética asociada:
