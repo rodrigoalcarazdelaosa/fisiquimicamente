@@ -43,7 +43,7 @@ Basándose en las ideas de **Demócrito**, John **Dalton** propuso este modelo a
 
 ---
  
-{{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" title="El **átomo** de **Dalton** es una **esfera maciza indivisible**." lightbox="false" width="80%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" title="El **átomo** de **Dalton** es una **esfera maciza indivisible**." lightbox="false" width="70%" >}}
 
 ---
 
