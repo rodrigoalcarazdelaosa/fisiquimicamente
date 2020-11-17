@@ -117,7 +117,9 @@ Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **si
 
 ### Efecto fotoeléctrico
 
-El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones** cuando radiación electromagnética, como por ejemplo luz ultravioleta, incide sobre un material, típicamente metálico. Esta emisión cumple las siguientes **características**:
+El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones** cuando radiación electromagnética, como por ejemplo luz ultravioleta, incide sobre un material, típicamente metálico.
+
+#### Características
 
 - La **cantidad** de **fotoelectrones** emitidos es directamente **proporcional** a la **intensidad** de la **radiación** incidente.
 - La **emisión** de **fotoelectrones** solo se produce cuando la radiación incidente tiene una **frecuencia mayor o igual** que una cierta frecuencia mínima, llamada **frecuencia umbral** o **de corte**, $\nu_0$, que es característica de cada material.
