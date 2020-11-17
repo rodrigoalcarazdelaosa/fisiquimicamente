@@ -122,3 +122,71 @@ $$
 donde $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocidad de la luz en el vacío.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Orígenes de la teoría cuántica
+
+- Radiación de cuerpo negro
+- Hipótesis de Planck
+- Efecto fotoeléctrico
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Radiación de cuerpo negro
+
+Es la **radiación electromagnética re-emitida** por un cuerpo ideal que absorbe toda la radiación que incide sobre él (**cuerpo negro**), estando en **equilibrio** termodinámico con su **entorno**.
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/cuerpo-negro.svg" title="Un cuerpo negro es cualquier objeto que absorbe toda la radiación electromagnética que incide sobre él, re-emitiéndola. Fuente: https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Map%3A_Physical_Chemistry_(McQuarrie_and_Simon)/01%3A_The_Dawn_of_the_Quantum_Theory/1.01%3A_Blackbody_Radiation_Cannot_Be_Explained_Classically." lightbox="false" width="100%" >}}
+
+Tiene un espectro muy característico, inversamente relacionado con la intensidad, que depende únicamente de la temperatura del cuerpo.
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro.svg" title="Espectros de cuerpos negros a distintas temperaturas, comparados con la predicción clásica (catástrofe ultravioleta)." lightbox="false" width="100%" >}}
+
+El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma de este espectro se conoce como la **catástrofe ultravioleta**.
+
+**Max Planck** fue quien consiguió, en 1900, explicar el espectro del cuerpo negro, dando así **origen** a la **teoría cuántica**.
+
+Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+### Hipótesis de Planck
+
+> La energía solo puede ser emitida/absorbida en paquetes discretos llamados cuantos o **fotones**, múltiplos de la frecuencia $\nu$ de la radiación electromagnética asociada:
+	$$
+	E = h \nu,
+	$$
+	donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck.
+
+### Efecto fotoeléctrico
+
+El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones** cuando radiación electromagnética, como por ejemplo luz ultravioleta, incide sobre un material, típicamente metálico.
+
+#### Características
+
+- La **cantidad** de **fotoelectrones** emitidos es directamente **proporcional** a la **intensidad** de la **radiación** incidente.
+- La **emisión** de **fotoelectrones** solo se produce cuando la radiación incidente tiene una **frecuencia mayor o igual** que una cierta frecuencia mínima, llamada **frecuencia umbral** o **de corte**, $\nu_0$, que es característica de cada material.
+- La **energía cinética** de los **fotoelectrones depende** únicamente de la **frecuencia** de la **radiación** incidente.
+- La **emisión** de **fotoelectrones** se realiza **instantáneamente**, sin existir ningún retraso entre la absorción de energía y la emisión de los fotoelectrones.
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/efecto-fotoelectrico.svg" title="Fuente: https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg" lightbox="false" width="100%" >}}
+
+\begin{align*}
+	E &= \phi + E_\mathrm c \\\\
+	h\nu &= h\nu_0 + E_\mathrm c \Rightarrow E_\mathrm c = h\left(\nu-\nu_0\right),
+\end{align*}
+
+donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck, $\nu$ es la frecuencia de la radiación incidente, $\nu_0$ es la frecuencia umbral (cuya energía asociada, $\phi = h \nu_0$ se denomina **función** de **trabajo** o trabajo de extracción) y $E_\mathrm c = h\left(\nu-\nu_0\right)$ es la energía cinética máxima de los fotoelectrones, emitidos siempre que se cumpla $\nu \geq \nu_0$.
+
+{{% callout note %}}
+Si quieres aprender más sobre el **efecto fotoeléctrico** te recomiendo echar un vistazo a [esta estupenda **simulación**](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&locale=es).
+{{% /callout %}}
+
+{{% /section %}}
