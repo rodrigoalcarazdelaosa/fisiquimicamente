@@ -27,10 +27,10 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Modelos atómicos
 
-- Dalton
-- Thomson
-- Rutherford
-- Bohr
+- [Dalton](#/1/1)
+- [Thomson](#/1/4)
+- [Rutherford](#/1/7)
+- [Bohr](#/1/10)
 
 (continúa hacia abajo)
 
