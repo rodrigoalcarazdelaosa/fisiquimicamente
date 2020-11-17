@@ -371,6 +371,8 @@ La **configuración electrónica** es la **distribución** de los **electrones**
 #### Diagrama de Möller
 El **diagrama** **Möller** nos ayuda a saber en qué **orden** han de **llenarse** los distintos **orbitales**, siguiendo las **flechas** (orden energético creciente).
 
+---
+
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="100%" >}}
 
 ---
