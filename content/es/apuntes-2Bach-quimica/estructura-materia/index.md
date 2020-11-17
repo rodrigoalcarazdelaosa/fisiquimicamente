@@ -22,6 +22,7 @@ links:
   name: Póster
   url: estructura-materia-poster.pdf
 
+slides: estructura-materia-2Bach-quimica
 ---
 
 {{% toc %}}
