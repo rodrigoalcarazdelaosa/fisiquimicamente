@@ -81,7 +81,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 ## Modelo de Bohr
 Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de la **materia** y los **característicos espectros** de emisión y absorción de los **gases**.
 
-{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}		
+{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
 
 ### Postulados
 Este modelo se basa en **tres postulados fundamentales**:
