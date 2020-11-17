@@ -230,7 +230,7 @@ Consiste en que el comportamiento de los **objetos cuánticos** no puede ser des
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/difraccion-electrones.svg" title="**Electrones** mostrando un **comportamiento** claramente **ondulatorio**, gracias al famoso **experimento** de la **doble rendija**." lightbox="false" width="80%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/difraccion-electrones.svg" title="**Electrones** mostrando un **comportamiento** claramente **ondulatorio**, gracias al famoso **experimento** de la **doble rendija**." lightbox="false" width="70%" >}}
 
 ---
 
