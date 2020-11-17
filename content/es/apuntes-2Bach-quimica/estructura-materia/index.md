@@ -191,7 +191,7 @@ $$
 0\leq l\leq n-1
 $$
 
-de forma que, por ejemplo, para $n = 3$, $l=\{0,1,2\}$.
+de forma que, por ejemplo, para $n = 3$, $l=\\{0,1,2\\}$.
 
 ## Estructura electrónica
 
