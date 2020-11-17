@@ -128,7 +128,7 @@ El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones**
 
 \begin{align*}
 	E &= \phi + E_\mathrm c \\\\
-	h\nu &= h\nu_0 + E_\mathrm c \Rightarrow E_\mathrm c = h\mleft(\nu-\nu_0\mright),
+	h\nu &= h\nu_0 + E_\mathrm c \Rightarrow E_\mathrm c = h\left(\nu-\nu_0\right),
 \end{align*}
 
 donde $h = \SI{6.626e-34}{\J\s}$ es la constante de Planck, $\nu$ es la frecuencia de la radiación incidente, $\nu_0$ es la frecuencia umbral (cuya energía asociada, $\phi = h \nu_0$ se denomina \textbf{función de trabajo} o trabajo de extracción) y $E_\mathrm c = h\mleft(\nu-\nu_0\mright)$ es la energía cinética máxima de los fotoelectrones, emitidos siempre que se cumpla $\nu \geq \nu_0$.
