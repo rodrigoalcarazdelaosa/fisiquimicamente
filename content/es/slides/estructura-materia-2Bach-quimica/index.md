@@ -328,3 +328,47 @@ $$
 Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Estructura electrónica
+
+- Principio de exclusión de Pauli
+- Orden energético creciente
+- Regla de Hund de la máxima multiplicidad
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Principio de exclusión de Pauli
+> Dos o más electrones no pueden tener todos sus números cuánticos idénticos (ocupar el mismo estado cuántico) dentro del mismo sistema cuántico (átomo).
+
+Gracias a este principio podemos determinar el **número máximo** de **electrones** que ***caben*** en cada tipo de **orbital**:
+
+| Tipo de orbital | s | p | d | f |
+| :--- | :---: | :---: | :---: | :---: |
+| **Número de orbitales** | 1 | 3 | 5 | 7 |
+| **Número máximo de e**<sup>**&ndash;**</sup> | 2 | 6 | 10 | 14 |
+
+### Orden energético creciente
+La **configuración electrónica** es la **distribución** de los **electrones** de un **átomo** en **orbitales atómicos** (s, p, d y f). El **diagrama** **Möller** nos ayuda a saber en qué **orden** han de **llenarse** los distintos **orbitales**, siguiendo las **flechas** (orden energético creciente).
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/orden-energetico-creciente.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
+
+### Regla de Hund de la máxima multiplicidad
+> Al llenar orbitales de igual energía (por ejemplo los tres orbitales p) los electrones se distribuyen, siempre que sea posible, con sus espines paralelos, llenando los orbitales con la multiplicidad mayor.
+
+#### Ejemplos
+
+Se muestran también los **números cuánticos** del **último electrón**:
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/regla-hund.svg" lightbox="false" width="100%" >}}
+
+{{% /section %}}
