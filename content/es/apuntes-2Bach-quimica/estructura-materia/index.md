@@ -175,6 +175,12 @@ Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y 
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos.svg" title="Orbitales s ($l=0$), p ($l=1$), d ($l=2$) y f ($l=3$). Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
 
+### Números cuánticos y su interpretación
+
+Los **números cuánticos** describen **valores** de **magnitudes físicas** que se **conservan** en la dinámica de un sistema cuántico, tales como la **energía** o el **momento angular**, las cuales están **cuantizadas** y por tanto toman **valores discretos**.
+
+Para describir completamente el estado cuántico de un electrón en un átomo necesitamos **cuatro números cuánticos**, los cuales tienen un significado orbital concreto:
+
 ## Estructura electrónica
 
 ## Partículas subatómicas
