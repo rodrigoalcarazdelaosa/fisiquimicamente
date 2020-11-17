@@ -209,3 +209,54 @@ El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones**
 donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck, $\nu$ es la frecuencia de la radiación incidente, $\nu_0$ es la frecuencia umbral (cuya energía asociada, $\phi = h \nu_0$ se denomina **función** de **trabajo** o trabajo de extracción) y $E_\mathrm c = h\left(\nu-\nu_0\right)$ es la energía cinética máxima de los fotoelectrones, emitidos siempre que se cumpla $\nu \geq \nu_0$.
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Mecánica cuántica
+
+- Dualidad onda-corpúsculo
+- Principio de incertidumbre de Heisenberg
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### Dualidad onda-corpúsculo
+Consiste en que el comportamiento de los **objetos cuánticos** no puede ser descrito considerando a estos como partículas u ondas, sino que tienen una **naturaleza dual**.
+
+---
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/difraccion-electrones.svg" title="**Electrones** mostrando un **comportamiento** claramente **ondulatorio**, gracias al famoso **experimento** de la **doble rendija**. Traducida de https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Map%3A_Physical_Chemistry_(McQuarrie_and_Simon)/01%3A_The_Dawn_of_the_Quantum_Theory/1.07%3A_de_Broglie_Waves_can_be_Experimentally_Observed." lightbox="false" width="100%" >}}
+
+---
+
+A partir de **experimentos** de **difracción** de **electrones**, **Louis de Broglie** fue el primero que propuso la siguiente **hipótesis**:
+
+> Toda partícula de masa $m$ moviéndose a una velocidad $v$ tiene asociada una onda (*de materia*) cuya longitud de onda, $\lambda$, viene dada por
+	$$
+	\lambda = \frac{h}{mv},
+	$$
+	siendo $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ la constante de Planck.
+
+---	
+	
+### Principio de incertidumbre de Heisenberg
+
+> Existen ciertos pares de magnitudes físicas (aquellas cuyo producto tiene dimensiones de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no pueden ser determinadas simultáneamente con total exactitud, pues el producto de sus incertidumbres ha de ser mayor o igual que $h/(4\pi) = \hbar/2$.
+
+**Ejemplos** de tales magnitudes son:
+	
+\begin{align*}
+	\text{Posición $x$ y momento lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
+	\text{Energía $E$ y tiempo $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
+\end{align*}
+
+donde $\Delta$ denota la  incertidumbre asociada y $\hbar = h/(2\pi)$.
+
+El **principio** de **incertidumbre** de **Heisenberg** implica que, aunque se especifiquen todas las condiciones iniciales, no es posible predecir el valor de una cantidad con total certeza, dando así paso a una **interpretación probabilística** de la **mecánica cuántica**.
+
+{{% /section %}}
