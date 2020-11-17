@@ -12,7 +12,7 @@ slides:
 
 # Estructura de la materia
 
-- Modelos atómicos
+- [Modelos atómicos](#/1)
 - Orígenes de la teoría cuántica
 - Mecánica cuántica
 - Orbitales atómicos
