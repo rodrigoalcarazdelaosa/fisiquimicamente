@@ -211,9 +211,57 @@ $$
 -s\leq m_s\leq s
 $$
 
-Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$}.
+Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$.
 
 ## Estructura electrónica
+
+### Principio de exclusión de Pauli
+> Dos o más electrones no pueden tener todos sus números cuánticos idénticos (ocupar el mismo estado cuántico) dentro del mismo sistema cuántico (átomo).
+
+Gracias a este principio podemos determinar el **número máximo** de **electrones** que ***caben*** en cada tipo de **orbital**:
+
+| Tipo de orbital | s | p | d | f |
+| :--- | :---: | :---: | :---: | :---: |
+| **Número de orbitales** | 1 | 3 | 5 | 7 |
+| Número máximo de e<sup>&ndash;</sup> | 2 | 6 | 10 | 14 |
+
+\heading{Orden energético creciente}
+La \textbf{configuración electrónica} es la \textbf{distribución} de \textbf{electrones} de un \textbf{átomo} en \textbf{orbitales atómicos} (s, p, d y f). El \textbf{diagrama de Möller} nos ayuda a saber en qué \textbf{orden} han de \textbf{llenarse} los distintos \textbf{orbitales}, siguiendo las \textbf{flechas} (orden energético creciente).
+
+\begin{figure}[htb]
+    \centering % <-- added
+\begin{subfigure}{0.55\textwidth}
+	\centering	  		\includegraphics[width=\textwidth]{orden-energetico-creciente} \\
+	{\small Traducida y adaptada de \url{https://www.coursehero.com/sg/general-chemistry/quantum-theory/}.}
+\end{subfigure}\hfil % <-- added
+\begin{subfigure}{0.4\textwidth}
+	\centering  	  		\includegraphics[width=.9\textwidth]{diagrama-Moller} \\ {\small \textbf{Diagrama de Möller}. Adaptada de \url{https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci\%C3\%B3n_electr\%C3\%B3nica.svg}.}
+\end{subfigure}\hfil % <-- added	
+\end{figure}
+
+\heading{Regla de Hund de la máxima multiplicidad}
+\begin{quote}
+	Al llenar orbitales de igual energía (por ejemplo los tres orbitales p) los electrones se distribuyen, siempre que sea posible, con sus espines paralelos, llenando los orbitales con la multiplicidad mayor.
+\end{quote}
+
+\textsc{ejemplos} (se muestran también los números cuánticos del último electrón)
+
+\begin{figure}[htb]
+    \centering % <-- added			
+\begin{subfigure}{0.3\textwidth}
+	\centering
+	Nitrógeno: \ch{_{7}N} \\ 		\includegraphics[page=1,width=\textwidth]{diagramas-cajas} \\ \elconf{N} \\ $n = 2$ \\ $l = 1$ (p) \\ $m_l = 1$ \\ $m_s = 1/2$
+\end{subfigure}\hfil % <-- added
+\begin{subfigure}{0.3\textwidth}
+	\centering	
+	Oxígeno: \ch{_{8}O} \\ 		\includegraphics[page=2,width=\textwidth]{diagramas-cajas} \\ \elconf{O} \\ $n = 2$ \\ $l = 1$ (p) \\ $m_l = -1$ \\ $m_s = -1/2$
+\end{subfigure}\hfil % <-- added
+\begin{subfigure}{0.3\textwidth}
+	\centering
+	Neón: \ch{_{10}Ne} \\
+	\includegraphics[page=3,width=\textwidth]{diagramas-cajas} \\ \elconf{Ne} \\ $n = 2$ \\ $l = 1$ (p) \\ $m_l = 1$ \\ $m_s = -1/2$
+\end{subfigure}
+\end{figure}	
 
 ## Partículas subatómicas
 
