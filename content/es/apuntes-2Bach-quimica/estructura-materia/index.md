@@ -40,10 +40,12 @@ También conocido como el modelo del *pastel de pasas*, fue propuesto en 1904 po
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Thomson.svg" title="El **átomo** de **Thomson** es una ***nube*** esférica con **carga positiva** en donde se encuentran **incrustados** los **electrones**, con carga negativa, como las **pasas** en un **pastel**." lightbox="false" width="100%" >}}
 
-Los descubrimientos del núcleo atómico y del protón por Rutherford (1911 y 1919, respectivamente) llevaron a la revisión de este modelo.
+Los **descubrimientos** del **núcleo atómico** y del **protón** por **Rutherford** (1911 y 1919, respectivamente) llevaron a la revisión de este modelo.
 
 ## Rutherford
-Propuesto por Ernest Rutherford en 1911, 
+Gracias a su famoso **experimento** de la **lámina** de **oro** (Au), Ernest **Rutherford** propuso, en 1911, un modelo de **átomo** formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su **masa**. Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/Rutherford.svg" title="El **átomo** de **Rutherford** está formado por un **núcleo** con **carga positiva** donde se concentra la mayor parte de su **masa**, y alrededor del cual giran los **electrones**." lightbox="false" width="100%" >}}
 
 ## Orígenes de la teoría cuántica
 
