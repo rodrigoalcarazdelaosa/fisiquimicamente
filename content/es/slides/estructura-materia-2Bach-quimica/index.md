@@ -176,6 +176,8 @@ Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **si
 	E = h \nu,
 	$$
 	donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck.
+	
+---
 
 ### Efecto fotoeléctrico
 
