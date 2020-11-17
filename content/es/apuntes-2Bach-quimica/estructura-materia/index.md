@@ -42,7 +42,7 @@ También conocido como el modelo del *pastel de pasas*, fue propuesto en 1904 po
 
 Los **descubrimientos** del **núcleo atómico** y del **protón** por **Rutherford** (1911 y 1919, respectivamente) llevaron a la revisión de este modelo.
 
-## Rutherford
+### Rutherford
 Gracias a su famoso **experimento** de la **lámina** de **oro** (Au), Ernest **Rutherford** propuso, en 1911, un modelo de **átomo** formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su **masa**. Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Rutherford.svg" title="El **átomo** de **Rutherford** está formado por un **núcleo** con **carga positiva** donde se concentra la mayor parte de su **masa**, y alrededor del cual giran los **electrones**, con carga negativa." lightbox="false" width="100%" >}}
@@ -51,7 +51,9 @@ La **integridad** del **núcleo** [^1] y la **inestabilidad** de las **órbitas 
 
 [^1]: Si el núcleo estuviera formado únicamente por protones con carga positiva, su repulsión haría que se *desintegrara*. En 1932 **Chadwick** descubre el **neutrón**, partícula sin carga encargada de mantener unidos entre sí a los protones mediante la **fuerza nuclear fuerte**.
 
-[^2]: La física clásica predice que una partícula cargada y acelerada, como sería el caso de los electrones *orbitando* alrededor del núcleo, emite radiación electromagnética, perdiendo energía y *colapsando* contra el núcleo.
+[^2]: La **física clásica** predice que una **partícula cargada y acelerada**, como sería el caso de los electrones *orbitando* alrededor del núcleo, **emite radiación electromagnética**, perdiendo energía y *colapsando* contra el núcleo.
+
+## Bohr
 
 ## Orígenes de la teoría cuántica
 
