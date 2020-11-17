@@ -8,7 +8,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
   columns: '1'
   background:
-      image: 'merry-christmas.svg'
+      image: 'home.jpg'
       image_darken: 0
       image_size: cover
       image_position: top
