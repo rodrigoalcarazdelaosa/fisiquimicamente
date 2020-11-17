@@ -53,7 +53,20 @@ La **integridad** del **núcleo** [^1] y la **inestabilidad** de las **órbitas 
 
 [^2]: La **física clásica** predice que una **partícula cargada y acelerada**, como sería el caso de los electrones *orbitando* alrededor del núcleo, **emite radiación electromagnética**, perdiendo energía y *colapsando* contra el núcleo.
 
-## Bohr
+### Bohr
+
+Propuesto en \textbf{1913} por Niels \textbf{Bohr} para \textbf{explicar} la \textbf{estabilidad} de la \textbf{materia} y los \textbf{característicos espectros} de emisión y absorción de los \textbf{gases}.
+
+{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
+
+### Postulados
+Este modelo se basa en **tres postulados fundamentales**:
+
+1. Los **electrones** describen **órbitas circulares** en torno al núcleo **sin irradiar energía**.
+2. Solo algunas **órbitas** están **permitidas**.
+3. El **electrón** solo **emite** o **absorbe energía** en los **saltos** de una órbita permitida a otra, siendo la energía emitida/absorbida la diferencia de energía entre ambos niveles.
+
+{{< figure library="true" src="modelos-atomicos-4ESO/Bohr.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Bohr_atom_model_English.svg." lightbox="false" width="100%" >}}
 
 ## Orígenes de la teoría cuántica
 
