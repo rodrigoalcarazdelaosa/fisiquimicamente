@@ -82,7 +82,11 @@ La **integridad** del **núcleo** y la **inestabilidad** de las **órbitas elect
 
 Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de la **materia** y los **característicos espectros** de emisión y absorción de los **gases**.
 
+---
+
 {{< figure library="true" src="modelos-atomicos-4ESO/espectro-H.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
+
+---
 
 #### Postulados
 Este modelo se basa en **tres postulados fundamentales**:
@@ -91,7 +95,11 @@ Este modelo se basa en **tres postulados fundamentales**:
 2. Solo están **permitidas** aquellas **órbitas** en las que el electrón tiene un **momento angular múltiplo** entero de $\hbar = h/(2\pi)$.
 3. El **electrón** solo **emite** o **absorbe energía** en los **saltos** de una órbita permitida a otra, siendo la energía emitida/absorbida la diferencia de energía entre ambos niveles.
 
+---
+
 {{< figure library="true" src="modelos-atomicos-4ESO/Bohr.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Bohr_atom_model_English.svg." lightbox="false" width="100%" >}}
+
+---
 
 #### Ecuación de Rydberg
 
