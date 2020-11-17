@@ -103,6 +103,10 @@ El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma d
 
 **Max Planck** fue quien consiguió, en 1900, explicar el espectro del cuerpo negro, dando así **origen** a la **teoría cuántica**.
 
+Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ### Hipótesis de Planck
 
 > La energía solo puede ser emitida/absorbida en paquetes discretos llamados cuantos o **fotones**, múltiplos de la frecuencia $\nu$ de la radiación electromagnética asociada:
