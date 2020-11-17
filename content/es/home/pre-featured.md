@@ -4,7 +4,8 @@ headless: true
 weight: 2
 active: true
 design:
-  padding: ["20px", "0", "20px", "0"]
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
   columns: '1'
   background:
       image: 'merry-christmas.svg'
