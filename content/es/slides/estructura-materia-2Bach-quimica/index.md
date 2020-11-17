@@ -389,3 +389,38 @@ Se muestran también los **números cuánticos** del **último electrón**:
 {{< figure library="true" src="estructura-materia-2Bach-quimica/regla-hund.svg" lightbox="false" width="100%" >}}
 
 {{% /section %}}
+
+---
+
+{{% section %}}
+
+## Partículas subatómicas
+
+Tras los descubrimientos de **Thomson**, **Rutherford** y **Chadwick** a principios del siglo XX, parecía claro que el átomo estaba formado por **protones** y **neutrones** en su núcleo y una corteza donde estaban los **electrones**.
+
+---
+
+| Partícula | Masa/kg | Carga/C |
+| --- | :---: | :---: |
+| Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
+| Neutrón | $1.675\times 10^{-27}$ | $0$ |
+| Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
+<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
+<td colspan=3>$q_\text{protón}=-q_\text{electrón}$
+
+---
+
+### Modelo estándar
+Es la teoría que **describe tres de las cuatro interacciones fundamentales** de la naturaleza conocidas (electromagnética, nuclear fuerte y nuclear débil), además de **clasificar** todas las **partículas elementales** conocidas.
+
+---
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/modelo-estandar.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg." lightbox="false" width="100%" >}}
+
+---
+	
+### Evolución del Universo
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/evolucion-universo.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:History_of_the_Universe.svg. Iconos diseñados por [Freepik](https://www.freepik.com/) de https://www.flaticon.es/." lightbox="false" width="100%" >}}
+
+{{% /section %}}
