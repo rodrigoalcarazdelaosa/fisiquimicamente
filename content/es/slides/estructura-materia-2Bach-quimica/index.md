@@ -153,7 +153,7 @@ Tiene un espectro muy característico, inversamente relacionado con la intensida
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro.svg" title="Espectros de cuerpos negros a distintas temperaturas, comparados con la predicción clásica (catástrofe ultravioleta)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro.svg" lightbox="false" width="90%" >}}
 
 ---
 
