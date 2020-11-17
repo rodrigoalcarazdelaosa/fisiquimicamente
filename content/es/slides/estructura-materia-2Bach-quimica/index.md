@@ -287,8 +287,12 @@ Los **números cuánticos** describen **valores** de **magnitudes físicas** que
 
 Para **describir** completamente el **estado cuántico** de un **electrón** en un átomo necesitamos **cuatro números cuánticos**, los cuales tienen un significado orbital concreto.
 
+---
+
 #### Número cuántico principal $n$
 Nos da el **tamaño** y la **energía** del **orbital**. Toma valores naturales ($1\leq n$), como por ejemplo $n = 1,2,3,\dots$
+
+---
 
 #### Número cuántico secundario $l$
 Nos da la **energía** y **forma** del **orbital**. Puede tomar los siguientes valores:
@@ -299,6 +303,8 @@ $$
 
 de forma que, por ejemplo, para $n = 3$: $l=\\{0,1,2\\}$.
 
+---
+
 #### Número cuántico magnético $m_l$
 
 Nos da la **orientación** del **orbital**. Puede tomar los siguientes valores:
@@ -308,6 +314,8 @@ $$
 $$
 
 de forma que, por ejemplo, para $l = 2$: $m_l=\\{-2,-1,0,1,2\\}$.
+
+---
 
 #### Espín $m_s$
 
