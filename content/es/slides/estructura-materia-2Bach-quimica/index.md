@@ -373,7 +373,7 @@ El **diagrama** de **Möller** nos ayuda a saber en qué **orden** han de **llen
 
 ---
 
-{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="70%" >}}
 
 ---
 
