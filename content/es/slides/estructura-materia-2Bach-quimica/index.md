@@ -380,6 +380,8 @@ El **diagrama** de **Möller** nos ayuda a saber en qué **orden** han de **llen
 ### Regla de Hund de la máxima multiplicidad
 > Al llenar orbitales de igual energía (por ejemplo los tres orbitales p) los electrones se distribuyen, siempre que sea posible, con sus espines paralelos, llenando los orbitales con la multiplicidad mayor.
 
+---
+
 #### Ejemplos
 
 Se muestran también los **números cuánticos** del **último electrón**:
