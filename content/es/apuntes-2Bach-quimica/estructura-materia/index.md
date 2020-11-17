@@ -68,6 +68,22 @@ Este modelo se basa en **tres postulados fundamentales**:
 
 {{< figure library="true" src="modelos-atomicos-4ESO/Bohr.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Bohr_atom_model_English.svg." lightbox="false" width="100%" >}}
 
+#### Ecuación de Rydberg
+
+La **ecuación** de **Rydberg** nos da la **longitud** de **onda** de las **líneas espectrales** de muchos elementos químicos:
+
+\[
+\frac{1}{\lambda} = R\cdot\mleft(\frac{1}{n_1^2}-\frac{1}{n_2^2}\mright),
+\]
+donde $\lambda$ es la longitud de onda de la radiación emitida en el vacío, $R = \SI{1.097e7}{\per\m}$ es la constante de Rydberg y $n_1$ y $n_2$ son los números cuánticos principales de las órbitas involucradas en el salto (con $n_2>n_1$).
+
+Esta ecuación también nos permite calcular el \textbf{valor energético} correspondiente a una \textbf{transición electrónica} entre dos niveles dados, $\Delta E$:
+\[
+\Delta E = hcR\cdot\mleft(\frac{1}{n_1^2}-\frac{1}{n_2^2}\mright),
+\]
+donde $c = \SI{299792458}{m/s}$ es la velocidad de la luz en el vacío.
+
+
 ## Orígenes de la teoría cuántica
 
 ## Mecánica cuántica
