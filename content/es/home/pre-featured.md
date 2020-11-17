@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 2
-active: true
+active: false
 
 title: "Destacado"
 
