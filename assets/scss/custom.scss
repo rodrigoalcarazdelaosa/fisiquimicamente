@@ -22,7 +22,7 @@ html {
 
 body {
   color: #111111;
-  background-color: #fffff8;
+  background-color: $sta-background;
   height: 100vh; /* set viewport constraint */
   min-height: 100%; /* enforce height */
 }
@@ -40,7 +40,7 @@ a.footnote-ref {
 
 a.footnote-ref:hover {
   border: none;
-  color: #fffff8;
+  color: $sta-background;
   background-color: $primary;
   text-decoration: none;
   transition: none;
@@ -60,7 +60,7 @@ a.footnote-backref {
 
 a.footnote-backref:hover {
     border: none;
-    color: #fffff8;
+    color: $sta-background;
     background-color: $primary;
 	text-decoration: none;
     transition: none;	
@@ -73,7 +73,7 @@ a.footnote-backref:hover {
 
 #popup-content a.footnote-backref:hover {
 	color: $primary;
-	background-color: #fffff8;	
+	background-color: $sta-background;	
 }  
   
 p svg {
@@ -152,7 +152,7 @@ border-left: .25rem solid $example_fg; }
 
 .fancybox-is-open .fancybox-bg {
     opacity: 1;
-    background: #fffff8;	
+    background: $sta-background;	
 }
   
 /*************************************************
@@ -249,12 +249,12 @@ table#colores-resistencias > tbody > tr:nth-child(odd) > th {
 /* Table Hover */
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-color: #fffff8;
+color: $sta-background;
 background-color: $primary; }
 
 table#colores-resistencias > tbody > tr:hover > td,
 table#colores-resistencias > tbody > tr:hover > th {
-color: #fffff8;
+color: $sta-background;
 background-color: $primary; }
 
 td[colspan]:not([colspan="1"]) {
@@ -337,17 +337,17 @@ color: #555555; }
 
 .card-body {
   color: #111111;
-  background: #fffff8; }
+  background: $sta-background; }
 
 /*************************************************
  *  Search
  **************************************************/
 .search-header {
-	background-color: #fffff8;
+	background-color: $sta-background;
 }
 
 .search-results {
-  background-color: #fffff8;
+  background-color: $sta-background;
 }
 
 #search-box #search-query {
@@ -587,11 +587,11 @@ background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/s
   
 .page-link {
 color: $primary;
-background-color: #fffff8;
+background-color: $sta-background;
 border: 1px solid $primary; }
 
 .page-link:hover {
-  color: #fffff8;
+  color: $sta-background;
   text-decoration: none;
   background-color: $primary;
   border-color: $primary; }	  
@@ -605,7 +605,7 @@ border: 1px solid $primary; }
   background-color: transparent;
   border-color: $primary; }
 .btn-light:hover {
-color: #FFFFF8;
+color: $sta-background;
 background-color: $primary;
 border-color: $primary; }
 .btn-light:focus, .btn-light.focus {
@@ -614,7 +614,7 @@ box-shadow: 0 0 0 0.2rem rgba(42, 84, 169, 0.5); }
 color: $primary;
 background-color: transparent; }
 .btn-light:not(:disabled):not(.disabled):active, .btn-light:not(:disabled):not(.disabled).active, .show > .btn-light.dropdown-toggle {
-color: #FFFFF8;
+color: $sta-background;
 background-color: $primary;
 border-color: $primary; }
 .btn-light:not(:disabled):not(.disabled):active:focus, .btn-light:not(:disabled):not(.disabled).active:focus, .show > .btn-light.dropdown-toggle:focus {
@@ -626,13 +626,13 @@ border-color: $primary; }
 
 .form-control {
 	color: $primary;
-	background-color: #fffff8;
+	background-color: $sta-background;
 	border: 1px solid $primary; }
 .form-control:-moz-focusring {
 	text-shadow: 0 0 0 #111111; }
 .form-control:focus {
 	color: #111111;
-	background-color: #fffff8;
+	background-color: $sta-background;
 	border-color: $primary; }
 .form-control::placeholder {
 	color: #555555; }
@@ -648,7 +648,7 @@ select.form-control:focus::-ms-value {
 **************************************************/
 
 .hljs {
-	color: #fffff8;
+	color: $sta-background;
 	background: #111111;
 }
 
