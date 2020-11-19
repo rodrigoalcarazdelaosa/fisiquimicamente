@@ -43,8 +43,8 @@ code {
   color: #000000;
   border-radius: 0.5em;
 //  border: 1px solid $primary;
-  overflow-x:auto;
-  padding:0.2em 0.4em
+  overflow-x: auto;
+  padding: 0.2em 0.4em
 }
 
 #popup-content code {
@@ -80,8 +80,8 @@ blockquote {
   color: #000000;
   border-radius: 0.5em;
   //  border: 1px solid $primary;
-  overflow-x:auto;
-  padding:0.2em 0.4em
+  overflow-x: auto;
+  padding: 0.2em 0.4em
 }   
 
 /*************************************************
@@ -150,7 +150,8 @@ blockquote {
 
 /* Based on Bootstrap's `table-responsive` style. */
 table > thead > tr > th {
-color: $primary; }
+  color: $primary;
+}
 
 table > thead > tr > th,
 table > tbody > tr > th,
@@ -158,42 +159,52 @@ table > tfoot > tr > th,
 table > thead > tr > td,
 table > tbody > tr > td,
 table > tfoot > tr > td {
-border-top: 0px solid $primary; }
+  border-top: 0px solid $primary;
+}
 
 // Bordes estilo booktabs
 table > thead {
-  border-top: 2px solid $primary; }
+  border-top: 2px solid $primary;
+}
+
 table > thead > tr > th {
-border-bottom: 1px solid $primary; }
+  border-bottom: 1px solid $primary;
+}
+
 table > tbody {
-border-bottom: 2px solid $primary; }
+  border-bottom: 2px solid $primary;
+}
 
 table > tbody + tbody {
-border-top: 2px solid $primary; }
+  border-top: 2px solid $primary;
+}
 
 /* Table Striped */
 table > tbody > tr:nth-child(odd) > td,
 table > tbody > tr:nth-child(odd) > th {
-background-color: $primary_bg; }
+  background-color: $primary_bg;
+}
 
 table#colores-resistencias > tbody > tr:nth-child(odd) > td,
 table#colores-resistencias > tbody > tr:nth-child(odd) > th {
-	background-color: initial;
+  background-color: initial;
 }
 
 /* Table Hover */
 table > tbody > tr:hover > td,
 table > tbody > tr:hover > th {
-color: $sta-background;
-background-color: $primary; }
+  color: $sta-background;
+  background-color: $primary;
+}
 
 table#colores-resistencias > tbody > tr:hover > td,
 table#colores-resistencias > tbody > tr:hover > th {
-color: $sta-background;
-background-color: $primary; }
+  color: $sta-background;
+  background-color: $primary;
+}
 
 td[colspan]:not([colspan="1"]) {
-    text-align: center;
+  text-align: center;
 }
 
 /*************************************************
@@ -263,7 +274,7 @@ div.alert-thanks > div:first-child::before {
  *  Icons
  **************************************************/
   
-p,
+p svg,
 .powered-by svg {
   display: inline-flex;
   align-self: center;
@@ -294,7 +305,7 @@ p,
 //}
 
 .site-footer {
-	color: #555555;
+  color: #555555;
 }
 
 /*************************************************
@@ -310,7 +321,7 @@ p,
 }
   
 .card .card-image.hover-overlay:after {
-color: #555555;
+  color: #555555;
 }
 
 .card-body {
@@ -477,9 +488,9 @@ section.home-section div.center-text p {
 }  
 
 .section-heading a {
-	color: currentColor;
-	text-decoration: none;
-	border-bottom: solid 1px currentColor;
+  color: currentColor;
+  text-decoration: none;
+  border-bottom: solid 1px currentColor;
 }
 
 /*************************************************
