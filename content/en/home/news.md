@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "🗞️ News"
-subtitle = "Twitter"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

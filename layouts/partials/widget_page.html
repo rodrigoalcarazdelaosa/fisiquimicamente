@@ -106,8 +106,24 @@
   <section id="{{$hash_id}}" class="home-section {{$widget_class}} {{if $bg.text_color_light}}dark{{end}} {{with $css_classes}}{{.}}{{end}}" {{with $style}}style="{{. | safeCSS}}"{{end}} {{print $extra_attributes | safeHTMLAttr}}>
    <div class="home-section-bg {{if $bg.image}} bg-image{{if ($bg.image_parallax | default true) }} parallax{{end}}{{end}}" {{with $style_bg}}style="{{. | safeCSS}}"{{end}}></div>
     {{if $use_container}}<div class="container">{{end}}
+		
+	{{ if eq $widget "novedades" }}
+	  <div class="row justify-content-center">
+          <div class="col-12 section-heading text-center">
+            {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}            
+          </div>
+		  <div class="col-12 col-lg-4 section-heading">
+			  <h2><i class="fab fa-twitter mr-1"></i>Twitter</h2>
+			  <a class="twitter-timeline" data-chrome="transparent" data-lang="es" data-height="600" href="https://twitter.com/alcarazr?ref_src=twsrc%5Etfw">Tweets by alcarazr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		  </div>
+		  
+		  {{ partial $widget_path $widget_args }}
+		  
+	  </div>
+	  
+	{{else}}	  	
 
-    {{if $use_cols}}
+    {{if $use_cols}}	
       <div class="row  {{if not $st.Title | or (eq $columns "1") }}justify-content-center{{end}}">
       {{ if $st.Title }}
         {{ if eq $columns "1" }}
@@ -125,6 +141,8 @@
     {{end}}
 
       {{ partial $widget_path $widget_args }}
+	  
+  	{{ end }}
 
     {{if $use_cols}}
       </div>
