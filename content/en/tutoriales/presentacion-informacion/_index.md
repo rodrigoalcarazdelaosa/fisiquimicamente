@@ -7,7 +7,7 @@ weight: 2
 # Page metadata.
 title: Presentation of Information
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: book  # Do not modify.
 
 ---
