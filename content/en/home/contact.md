@@ -28,9 +28,6 @@ content:
 design:
   columns: '1'
   background:
-      image: 'home.jpg'
-      image_darken: 0
-      image_size: cover
-      image_position: center
-      image_parallax: true
+    gradient_start: "#FFFFF8"
+    gradient_end: "#BBCCEE"
 ---

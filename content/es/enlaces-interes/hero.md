@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "🔗 Enlaces de interés"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = ""
+hero_media = "enlaces-interes.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,11 +20,11 @@ hero_media = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "#ffffff"
-  # gradient_end = "#dddddd"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
-  image = "enlaces-interes.jpg"  # Name of image in `static/media/`.
+  # image = "enlaces-interes.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
