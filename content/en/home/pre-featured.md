@@ -2,14 +2,16 @@
 widget: blank
 headless: true
 weight: 2
-active: false
+active: true
 design:
+  spacing:
+    padding: ["40px","0px","40px","0px"]
   columns: '1'
   background:
-    color: "#FFFFF8"
+    color: "#BBCCEE"
     image: 'divider.svg'
     image_darken: 0
     image_size: contain
     image_position: center
-    image_parallax: false	  
+    image_parallax: false
 ---

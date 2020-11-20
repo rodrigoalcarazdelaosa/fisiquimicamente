@@ -48,8 +48,8 @@ subtitle = ""
   icon = "[:man_scientist:](sobre-mi/)‍"
   icon_pack = "emoji"
   name = "[Sobre mí](sobre-mi/)"
-  description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias-investigacion)"
-  
+  description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias-investigacion)"  
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -60,8 +60,8 @@ subtitle = ""
   # color = "#fffff8"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
   # image = "home.jpg"  # Name of image in `static/media/`.

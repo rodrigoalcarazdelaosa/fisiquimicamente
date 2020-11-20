@@ -70,8 +70,8 @@ date_format = "Jan 2006"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "estancias.jpg"  # Name of image in `static/media/`.
@@ -81,6 +81,13 @@ date_format = "Jan 2006"
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false    
+  text_color_light = false
+  
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+ 
+ # CSS class.
+ css_class = ""  
 
 +++

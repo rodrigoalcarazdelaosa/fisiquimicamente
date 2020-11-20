@@ -39,7 +39,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
-  # clip_path = "url(mundo.svg)"
+  # clip_path = "url(mundo.svg)"  
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -51,8 +51,8 @@ subtitle = ""
   # color = "#fffff8"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
   # image = "home.jpg"  # Name of image in `static/media/`.

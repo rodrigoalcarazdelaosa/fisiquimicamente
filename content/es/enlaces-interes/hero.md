@@ -20,8 +20,8 @@ hero_media = "enlaces-interes.svg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "enlaces-interes.jpg"  # Name of image in `static/media/`.

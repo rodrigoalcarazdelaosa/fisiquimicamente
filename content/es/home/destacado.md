@@ -51,8 +51,8 @@ subtitle = ""
   # color = "#fffff8"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "home.jpg"  # Name of image in `static/media/`.

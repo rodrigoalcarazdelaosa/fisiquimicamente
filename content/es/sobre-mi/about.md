@@ -13,6 +13,6 @@ title = "👨‍🔬 Sobre mí"
 author = "rodrigo-alcaraz-de-la-osa"
 
 [design.background]
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
 +++

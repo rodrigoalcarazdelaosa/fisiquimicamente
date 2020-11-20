@@ -28,6 +28,9 @@ content:
 design:
   columns: '1'
   background:
-    gradient_start: "#FFFFF8"
-    gradient_end: "#BBCCEE"
+    gradient_start: "#BBCCEE"
+    gradient_end: "#FFFFF8"
+
+advanced:
+  css_style: "padding-bottom: 0px;"	
 ---

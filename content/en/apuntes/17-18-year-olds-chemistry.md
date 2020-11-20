@@ -77,8 +77,8 @@ subtitle = "Chemistry"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
