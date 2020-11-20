@@ -2,12 +2,8 @@
 title: Learn $\LaTeX$ in 30 Minutes
 linktitle: Learn $\LaTeX$ in 30 Minutes
 toc: true
-type: docs
+type: book
 draft: false
-menu:
-  latex:
-    parent: $\LaTeX$
-    weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
