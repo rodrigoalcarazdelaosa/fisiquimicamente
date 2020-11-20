@@ -102,19 +102,19 @@
 [[main]]
   name = "🗞️ News"
   url = "#news"
-  identifier = "novedades"
+  identifier = "news"
   weight = 5
 
 [[main]]
   name = "Twitter"
   url = "#news"
-  parent = "novedades"
+  parent = "news"
   weight = 1  
   
 [[main]]
   name = "💬 Blog"
   url = "/post"
-  parent = "novedades"
+  parent = "news"
   weight = 2    
 
 [[main]]

@@ -286,7 +286,7 @@ p svg,
 }
 
 .article-metadata svg {
-  fill: $primary_complementary; 
+  fill: $primary_complementary;
   display: inline-flex;
   align-self: center;
   height: 0.9em;
@@ -299,6 +299,10 @@ p svg,
 /*************************************************
  *  Footer
  **************************************************/
+
+.page-footer {
+  background-image: linear-gradient($primary_bg, $sta-background)
+}
   
 //footer {
 //	margin-top: 0;
