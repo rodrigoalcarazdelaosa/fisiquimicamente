@@ -26,6 +26,8 @@
 
 # Themes
 
+- id: theme_selector
+  translation: Mostrar preferencias
 - id: theme_light
   translation: Claro
 - id: theme_dark
