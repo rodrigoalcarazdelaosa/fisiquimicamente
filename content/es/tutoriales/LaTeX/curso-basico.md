@@ -17,7 +17,7 @@ Este tutorial es una traducción y adaptación de la **excelente guía** de {{< 
 
 ## ¿Qué es $\LaTeX$?
 
-$\LaTeX$ (pronunciado LAH-tek) es una herramienta utilizada para crear documentos de aspecto profesional, ampliamente utilizada en la composición de textos científicos. A diferencia de procesadores de texto como Microsoft Word o LibreOffice, tipo `WYSIWYG` (_What You See Is What You Get_), $\LaTeX$ se basa en la idea `WYSIWYG` (_What You See Is What You Mean_). Es decir, cuando escribimos $\LaTeX$ nos centramos en el contenido y su estructura, y es el sistema quien se encarga de formatearlo.
+$\LaTeX$ (pronunciado LAH-tek) es una herramienta utilizada para crear documentos de aspecto profesional, ampliamente utilizada en la composición de textos científicos. A diferencia de procesadores de texto como Microsoft Word o LibreOffice, tipo `WYSIWYG` (_What You See Is What You Get_), $\LaTeX$ se basa en la idea `WYSIWYM` (_What You See Is What You Mean_). Es decir, cuando escribimos $\LaTeX$ nos centramos en el contenido y su estructura, y es el sistema quien se encarga de formatearlo.
 
 ## ¿Por qué aprender $\LaTeX$?
 $\LaTeX$ se utiliza en todo el mundo para crear textos científicos, libros así como muchos otros tipos de publicaciones[^1]. Además de poder crear documentos _bellos_, $\LaTeX$ permite abordar muy fácilmente las partes más complicadas de la composición tipográfica, como la introducción de matemáticas, la creación de índices, la referenciación y la creación de bibliografías, y tener un diseño coherente en todas las secciones.
