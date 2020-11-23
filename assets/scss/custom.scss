@@ -327,13 +327,13 @@ ul#menu-horizontal {
   text-align: justify;
 }
 
-ul#menu-horizontal:after {
+ul#menu-horizontal::after {
   content: '';
   display: inline-block;
   width: 100%;
 }
 
-ul#menu-horizontal:before {
+ul#menu-horizontal::before {
   content: '';
   display: block;
 }
