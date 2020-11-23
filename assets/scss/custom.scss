@@ -324,23 +324,25 @@ footer {
 }
 
 ul#menu-horizontal {
-  text-align: justify;
-}
-
-ul#menu-horizontal::after {
-  content: '';
-  display: inline-block;
+  padding: 0;
+  display: flex;
   width: 100%;
-}
-
-ul#menu-horizontal::before {
-  content: '';
-  display: block;
+  justify-content: space-evenly;
 }
 
 ul#menu-horizontal li {
-  display: inline-block;
-  position: relative;
+  list-style: none;
+  margin: auto;
+  width: max-content;
+}
+
+@media screen and (max-width: 768px) {
+  ul#menu-horizontal {
+    margin-left: auto;
+    margin-right: auto;	
+    display: block;
+    width: max-content;
+  }
 }
 
 /*************************************************
