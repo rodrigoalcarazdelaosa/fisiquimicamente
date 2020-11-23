@@ -1,5 +1,6 @@
 ---
 title: Posters with Beamerposter
+url: "/en/tutorials/latex/beamerposter"
 linktitle: Posters with Beamerposter
 toc: true
 type: book

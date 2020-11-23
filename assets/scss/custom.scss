@@ -323,6 +323,26 @@ footer {
   color: #555555;
 }
 
+ul#menu-horizontal {
+  text-align: justify;
+}
+
+ul#menu-horizontal:after {
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+ul#menu-horizontal:before {
+  content: '';
+  display: block;
+}
+
+ul#menu-horizontal li {
+  display: inline-block;
+  position: relative;
+}
+
 /*************************************************
  *  Card component
  **************************************************/

@@ -77,25 +77,25 @@
 
 [[main]]
   name = "👐 Tutorials"
-  url = "tutoriales/"
+  url = "tutorials/"
   identifier = "tutoriales"
   weight = 3
   
 [[main]]
   name = "$\\LaTeX$"
   parent = "tutoriales"
-  url = "tutoriales/latex"
+  url = "tutorials/latex"
   weight = 1
   
 [[main]]
   name = "Presentation of Information"
   parent = "tutoriales"
-  url = "tutoriales/presentacion-informacion"
+  url = "tutorials/presentation-information"
   weight = 2    
 
 [[main]]
   name = "🔗 Online Resources"
-  url = "online-resources/"  
+  url = "online-resources/"
   identifier = "enlaces-interes"
   weight = 4  
 

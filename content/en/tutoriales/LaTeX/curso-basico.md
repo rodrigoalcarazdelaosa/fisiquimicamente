@@ -1,5 +1,6 @@
 ---
 title: Learn $\LaTeX$ in 30 Minutes
+url: "/en/tutorials/latex/learn-latex-30-minutes"
 linktitle: Learn $\LaTeX$ in 30 Minutes
 toc: true
 type: book
