@@ -1,7 +1,7 @@
 ---
 title: Sistema periódico
-subtitle: Clasificación y propiedades de los elementos químicos
-summary: "`PRÓXIMAMENTE` <br> Clasificación y propiedades de los elementos químicos."
+subtitle: Tabla periódica, configuración electrónica y propiedades periódicas
+summary: "<code style='background:#ffcccc'>EN CONSTRUCCIÓN</code> <br> Tabla periódica y configuración electrónica. Propiedades periódicas."
 tags:
 - 2º Bach
 - tabla-periódica
@@ -15,19 +15,14 @@ image:
   caption: Imagen de [**vubp**](https://pixabay.com/es/users/vubp-6000785/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+links:  
+- icon_pack: fas
+  icon: file-download
+  name: Póster
+  url: sistema-periodico-poster.pdf
 
 ---
 
-{{% callout note %}}
-Próximamente...
+{{% callout warning %}}
+En construcción...
 {{% /callout %}}
