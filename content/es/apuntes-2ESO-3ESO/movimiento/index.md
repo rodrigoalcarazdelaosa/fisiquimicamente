@@ -141,7 +141,7 @@ v = 0 + 7.86\thinspace\mathrm{m/s^\cancel{2}}\cdot 5\thinspace\cancel{\mathrm s}
 {{< figure library="true" src="movimiento-2ESO/graficas-MRUA.svg" lightbox="false" width="100%" >}}
 
 {{% callout note %}}
-Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
+Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con [este genial **juego**](https://www.universeandmore.com/motion-mapper-es/).
 {{% /callout %}}
 
 ## Encuentros

@@ -220,6 +220,10 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 ### Movimiento acelerado
 {{< figure library="true" src="movimiento-2ESO/graficas-MRUA.svg" lightbox="false" width="60%" >}}
 
+---
+
+> Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con [este genial **juego**](https://www.universeandmore.com/motion-mapper-es/).
+
 {{% /section %}}
 
 ---

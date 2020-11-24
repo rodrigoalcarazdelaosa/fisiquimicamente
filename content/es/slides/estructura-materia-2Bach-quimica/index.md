@@ -364,7 +364,7 @@ La **configuración electrónica** es la **distribución** de los **electrones**
 
 ---
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/orden-energetico-creciente.svg" lightbox="false" width="90%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/orden-energetico-creciente.svg" lightbox="false" width="100%" >}}
 
 ---
 

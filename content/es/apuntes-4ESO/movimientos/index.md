@@ -54,7 +54,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $
 {{< figure library="true" src="movimientos-4ESO/graficas-MRU.svg" lightbox="false" width="100%" >}}
 
 {{% callout note %}}
-Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
+Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con [este genial **juego**](https://www.universeandmore.com/motion-mapper-es/).
 {{% /callout %}}
 
 ### Ejemplo
@@ -88,6 +88,21 @@ $$
 $$
 {{% /callout %}}
 
+### Prácticas virtuales
+También puedes ver estos excelentes vídeos del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos enseñan cómo realizar **prácticas virtuales** relacionadas con el **MRU**:
+
+{{< youtube C-1iJRD-u_I >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1utKM4BKCW5uIAc-9ggCjRFioXHaP1Z7E/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
+
+{{< youtube 3MXBhRjaIlE >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1oSsmSv0xhd2IH8j-9CubdC6aYFpT8NlV/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
+
 ## Movimiento rectilíneo uniformemente acelerado (MRUA)
 
 ### Características
@@ -115,7 +130,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 {{< figure library="true" src="movimientos-4ESO/graficas-MRUA.svg" lightbox="false" width="100%" >}}
 
 {{% callout note %}}
-Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con este genial **juego**: https://www.universeandmore.com/motion-mapper-es/.
+Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleración** construyendo **gráficas** de **movimiento** en **tiempo real** con [este genial **juego**](https://www.universeandmore.com/motion-mapper-es/).
 {{% /callout %}}
 
 ### Ejemplo

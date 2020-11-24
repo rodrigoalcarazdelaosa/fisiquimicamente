@@ -27,6 +27,8 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
+<!-- Añadir práctica virtual del fqsaja: http://www.fqsaja.com/?portfolio_page=practica-virtual-ley-de-proust -->
+
 Apuntes sobre reacciones químicas, en formato texto y póster (tipo _chuleta_).
 
 {{% callout note %}}

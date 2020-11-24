@@ -56,7 +56,7 @@ $$
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario.
 
 ### Ley de Hooke
-La **ley de Hooke** relaciona el alargamiento o elongación, $\Delta x$, que sufre un muelle o resorte bajo la acción de una cierta fuerza $F$:
+La **ley** de **Hooke** relaciona el alargamiento o elongación, $\Delta x$, que sufre un muelle o resorte bajo la acción de una cierta fuerza $F$:
 
 $$
 F = k\cdot \Delta x,
@@ -66,11 +66,21 @@ donde $k$ es la llamada **constante de elasticidad** del muelle. Como se puede v
 
 {{< figure library="true" src="fuerzas-2ESO/hooke.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Dinam%C3%B3metro_de_resorte.svg." lightbox="false" width="100%" >}}
 
-Puedes aprender más sobre **masas**, **resortes** y la **ley de Hooke** con las siguientes **simulaciones**:
+#### Simulaciones
+Puedes aprender más sobre **masas**, **resortes** y la **ley** de **Hooke** con las siguientes **simulaciones**:
 
 <iframe src="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 <iframe src="https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+#### Práctica virtual
+También puedes ver este excelente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos enseñan cómo realizar una **práctica virtual** relacionada con la **ley** de **Hooke**:
+
+{{< youtube YQCM7ayoOr4 >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1GhSAU8jutcdpTqWXaXcn9JFY1wRUR5KI/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
 
 ## Máquinas simples
 Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magnitud** o la **dirección** de una **fuerza**.
