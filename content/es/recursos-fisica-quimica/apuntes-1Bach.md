@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 5  # Order that this section will appear.
+weight = 9  # Order that this section will appear.
 
-title = "☢️ Física"
-subtitle = "🗂️ Por temas"
+title = "1º Bach"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "preguntas-EBAU-fisica"
+  page_type = "apuntes-1Bach"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,28 +22,28 @@ subtitle = "🗂️ Por temas"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todas"
-    tag = "*"		
+    name = "Todos"
+    tag = "*"
 	
   [[content.filter_button]]
-    name = "Interacción gravitatoria"
-    tag = "gravitación"	
+    name = "Reacciones químicas"
+    tag = "reacciones-químicas"		
 	
   [[content.filter_button]]
-    name = "Interacción electromagnética"
-    tag = "electromagnetismo"	
+    name = "Movimiento"
+    tag = "movimiento"			
 	
   [[content.filter_button]]
-    name = "Ondas"
-    tag = "ondas"							
+    name = "Fuerzas"
+    tag = "fuerzas"			
 	
   [[content.filter_button]]
-    name = "Óptica geométrica"
-    tag = "óptica-geométrica"	
-	
+    name = "Gravitación"
+    tag = "gravitación"				
+  
   [[content.filter_button]]
-    name = "Física del s. XX"
-    tag = "física-s-XX"	
+    name = "Energía"
+    tag = "energía"											
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -69,11 +69,11 @@ subtitle = "🗂️ Por temas"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
-  # image = "ebau.jpg"  # Name of image in `static/media/`.
+  # image = "apuntes.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -90,6 +90,3 @@ subtitle = "🗂️ Por temas"
  css_class = ""
 +++
 
-{{% callout gdrive %}}
-Accede [aquí](https://drive.google.com/drive/folders/0B6t6-aLmKtoLTEZWcUxfME1QTVE) solo a los enunciados, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /callout %}}

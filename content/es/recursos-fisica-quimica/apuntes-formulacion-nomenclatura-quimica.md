@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
-title = "2º Bach"
-subtitle = "Física"
+title = "Formulación y nomenclatura de Química"
+subtitle = "Recomendaciones de la IUPAC"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-2Bach-fisica"
+  page_type = "apuntes-formulacion-nomenclatura-quimica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,31 +19,19 @@ subtitle = "Física"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-  
+  filter_default = 0  
+	
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Inorgánica"
+    tag = "inorgánica"		
 	
   [[content.filter_button]]
-    name = "Interacción gravitatoria"
-    tag = "gravitación"	
-	
-  [[content.filter_button]]
-    name = "Interacción electromagnética"
-    tag = "electromagnetismo"		
-	
-  [[content.filter_button]]
-    name = "Ondas"
-    tag = "ondas"								
-	
-  [[content.filter_button]]
-    name = "Óptica geométrica"
-    tag = "óptica-geométrica"		
-	
-  [[content.filter_button]]
-    name = "Física del s. XX"
-    tag = "física-s-XX"				
+    name = "Orgánica"
+    tag = "orgánica"														
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -69,8 +57,8 @@ subtitle = "Física"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -90,3 +78,6 @@ subtitle = "Física"
  css_class = ""
 +++
 
+{{% callout note %}}
+También te recomiendo echar un vistazo a los **apuntes** de [**FiQuiPedia**](http://www.fiquipedia.es/home/recursos/recursos-apuntes/recursos-apuntes-formulacion#TOC-Apuntes-elaboraci-n-propia) y a los de [**FisQuiWeb**](https://fisquiweb.es/Formulacion/index.htm).
+{{% /callout %}}

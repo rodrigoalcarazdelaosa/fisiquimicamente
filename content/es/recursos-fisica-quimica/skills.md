@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "🎓 Recursos EBAU <br> (Cantabria)"
-subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y al **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
+title = "⚛️ Recursos de Física y Química"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -15,21 +15,21 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[☢️](#examenes-fisica)"
+  icon = "[📚](#apuntes)"
   icon_pack = "emoji"
-  name = "[Física](#examenes-fisica)"
-  description = "📝 [Exámenes completos](#examenes-fisica) | 🗂️ [Por temas](#preguntas-fisica)"  
+  name = "[Apuntes](#apuntes)"
+  description = "[2º ESO](#apuntes-2ESO) | [3º ESO](#apuntes-3ESO) | [4º ESO](#apuntes-4ESO) <br> [1º Bach](#apuntes-1Bach) | [2º Bach Física](#apuntes-2Bach-fisica) | [2º Bach Química](#apuntes-2Bach-quimica) <br> [Formulación y nomenclatura de Química](#apuntes-formulacion-nomenclatura-quimica)"
   
 [[feature]]
-  icon = "[⚗️](#examenes-quimica)"
+  icon = "[🎓](#ebau)"
   icon_pack = "emoji"
-  name = "[Química](#examenes-quimica)"
-  description = "📝 [Exámenes completos](#examenes-quimica) | 🗂️ [Por temas](#preguntas-quimica)"
+  name = "[EBAU](#ebau)"
+  description = "☢️ [Física](#ebau-examenes-fisica) | ⚗️ [Química](#ebau-examenes-quimica) | 💡 [Consejos](#ebau-consejos)"
   
 [[feature]]
-  icon = "[💡](#consejos)"
+  icon = "[📝](#oposicion)"
   icon_pack = "emoji"
-  name = "[Consejos](#consejos)"
+  name = "[Oposición](#oposicion)"
   description = ""  
   
   
@@ -57,7 +57,3 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
   # text_color_light = true    
 
 +++
-
-{{% callout note %}}
-Accede [aquí](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) a la última información.
-{{% /callout %}}

@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 9  # Order that this section will appear.
+weight = 11  # Order that this section will appear.
 
-title = "1º Bach"
-subtitle = ""
+title = "2º Bach"
+subtitle = "Física"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-1Bach"
+  page_type = "apuntes-2Bach-fisica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,24 +26,24 @@ subtitle = ""
     tag = "*"
 	
   [[content.filter_button]]
-    name = "Reacciones químicas"
-    tag = "reacciones-químicas"		
+    name = "Interacción gravitatoria"
+    tag = "gravitación"	
 	
   [[content.filter_button]]
-    name = "Movimiento"
-    tag = "movimiento"			
+    name = "Interacción electromagnética"
+    tag = "electromagnetismo"		
 	
   [[content.filter_button]]
-    name = "Fuerzas"
-    tag = "fuerzas"			
+    name = "Ondas"
+    tag = "ondas"								
 	
   [[content.filter_button]]
-    name = "Gravitación"
-    tag = "gravitación"				
-  
+    name = "Óptica geométrica"
+    tag = "óptica-geométrica"		
+	
   [[content.filter_button]]
-    name = "Energía"
-    tag = "energía"											
+    name = "Física del s. XX"
+    tag = "física-s-XX"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

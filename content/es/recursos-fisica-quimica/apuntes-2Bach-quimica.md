@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 7  # Order that this section will appear.
+weight = 13  # Order that this section will appear.
 
-title = "⚗️ Química"
-subtitle = "📝 Exámenes completos"
+title = "2º Bach"
+subtitle = "Química"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "examenes-EBAU-quimica"
+  page_type = "apuntes-2Bach-quimica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,55 +19,39 @@ subtitle = "📝 Exámenes completos"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0  
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "Todos"
+    tag = "*"	
 	
   [[content.filter_button]]
-    name = "2009"
-    tag = "2009"
+    name = "Estructura de la materia"
+    tag = "estructura-atómica"
 	
   [[content.filter_button]]
-    name = "2010"
-    tag = "2010"
+    name = "Sistema periódico"
+    tag = "tabla-periódica"
 	
   [[content.filter_button]]
-    name = "2011"
-    tag = "2011"
+    name = "Enlace químico"
+    tag = "enlace-químico"			
 	
   [[content.filter_button]]
-    name = "2012"
-    tag = "2012"
+    name = "Equilibrio químico"
+    tag = "equilibrio-químico"			
 	
   [[content.filter_button]]
-    name = "2013"
-    tag = "2013"
+    name = "Ácido-base"
+    tag = "ácido-base"			
 	
   [[content.filter_button]]
-    name = "2014"
-    tag = "2014"
+    name = "Rédox"
+    tag = "rédox"				
 	
   [[content.filter_button]]
-    name = "2015"
-    tag = "2015"
-	
-  [[content.filter_button]]
-    name = "2016"
-    tag = "2016"
-	
-  [[content.filter_button]]
-    name = "2017"
-    tag = "2017"
-	
-  [[content.filter_button]]
-    name = "2018"
-    tag = "2018"
-	
-  [[content.filter_button]]
-    name = "2019"
-    tag = "2019"	
-	
-  [[content.filter_button]]
-    name = "2020"
-    tag = "2020"												
+    name = "Química orgánica"
+    tag = "química-orgánica"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -97,7 +81,7 @@ subtitle = "📝 Exámenes completos"
   gradient_end = "#FFFFF8"
   
   # Background image.
-  # image = "ebau.jpg"  # Name of image in `static/media/`.
+  # image = "apuntes.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -114,6 +98,3 @@ subtitle = "📝 Exámenes completos"
  css_class = ""
 +++
 
-{{% callout gdrive %}}
-Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLZURrWUxoaDJucGM) a todos los enunciados de Cantabria desde 1995 hasta 2019, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /callout %}}

@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 9  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
-title = "⚗️ Química"
-subtitle = "🗂️ Por temas"
+title = "3º ESO"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "preguntas-EBAU-quimica"
+  page_type = "apuntes-2ESO-3ESO"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,32 +22,40 @@ subtitle = "🗂️ Por temas"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todas"
-    tag = "*"	
+    name = "Todos"
+    tag = "3º ESO"	
 	
   [[content.filter_button]]
-    name = "Enlace químico"
-    tag = "enlace-químico"
+    name = "Actividad científica"
+    tag = "actividad-científica"		
 	
   [[content.filter_button]]
-    name = "Equilibrio químico"
-    tag = "equilibrio-químico"	
+    name = "Materia"
+    tag = "materia"				
 	
   [[content.filter_button]]
-    name = "Ácido-base"
-    tag = "ácido-base"		
+    name = "Gases"
+    tag = "gases"			
 	
   [[content.filter_button]]
-    name = "Rédox"
-    tag = "rédox"
+    name = "Estructura atómica"
+    tag = "estructura-atómica"	
 	
   [[content.filter_button]]
-    name = "Química orgánica"
-    tag = "química-orgánica"		
+    name = "Elementos y compuestos"
+    tag = "tabla-periódica"	
 	
   [[content.filter_button]]
-    name = "Termoquímica"
-    tag = "termoquímica"	
+    name = "Reacciones químicas"
+    tag = "reacciones-químicas"					
+	
+  [[content.filter_button]]
+    name = "Energía"
+    tag = "energía"	
+	
+  [[content.filter_button]]
+    name = "Electricidad-electrónica"
+    tag = "electricidad-electrónica"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -73,11 +81,11 @@ subtitle = "🗂️ Por temas"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
-  # image = "ebau.jpg"  # Name of image in `static/media/`.
+  # image = "apuntes.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -94,6 +102,3 @@ subtitle = "🗂️ Por temas"
  css_class = ""
 +++
 
-{{% callout gdrive %}}
-Accede [aquí](https://drive.google.com/drive/folders/0B6t6-aLmKtoLWFZSSHdEQm5JZzA) solo a los enunciados, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /callout %}}

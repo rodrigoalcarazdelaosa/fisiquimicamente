@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 19  # Order that this section will appear.
 
-title = "Formulación y nomenclatura de Química"
-subtitle = "Recomendaciones de la IUPAC"
+title = "☢️ Física"
+subtitle = "🗂️ Por temas"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-formulacion-nomenclatura-quimica"
+  page_type = "preguntas-EBAU-fisica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,19 +19,31 @@ subtitle = "Recomendaciones de la IUPAC"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0  
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "Todas"
+    tag = "*"		
 	
   [[content.filter_button]]
-    name = "Todos"
-    tag = "*"
-
-  [[content.filter_button]]
-    name = "Inorgánica"
-    tag = "inorgánica"		
+    name = "Interacción gravitatoria"
+    tag = "gravitación"	
 	
   [[content.filter_button]]
-    name = "Orgánica"
-    tag = "orgánica"														
+    name = "Interacción electromagnética"
+    tag = "electromagnetismo"	
+	
+  [[content.filter_button]]
+    name = "Ondas"
+    tag = "ondas"							
+	
+  [[content.filter_button]]
+    name = "Óptica geométrica"
+    tag = "óptica-geométrica"	
+	
+  [[content.filter_button]]
+    name = "Física del s. XX"
+    tag = "física-s-XX"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -61,7 +73,7 @@ subtitle = "Recomendaciones de la IUPAC"
   gradient_end = "#FFFFF8"
   
   # Background image.
-  # image = "apuntes.jpg"  # Name of image in `static/media/`.
+  # image = "ebau.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -72,12 +84,12 @@ subtitle = "Recomendaciones de la IUPAC"
   
 [advanced]
  # Custom CSS. 
- css_style = "padding-bottom: 0px;"
+ css_style = ""
  
  # CSS class.
  css_class = ""
 +++
 
-{{% callout note %}}
-También te recomiendo echar un vistazo a los **apuntes** de [**FiQuiPedia**](http://www.fiquipedia.es/home/recursos/recursos-apuntes/recursos-apuntes-formulacion#TOC-Apuntes-elaboraci-n-propia) y a los de [**FisQuiWeb**](https://fisquiweb.es/Formulacion/index.htm).
+{{% callout gdrive %}}
+Accede [aquí](https://drive.google.com/drive/folders/0B6t6-aLmKtoLTEZWcUxfME1QTVE) solo a los enunciados, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
 {{% /callout %}}

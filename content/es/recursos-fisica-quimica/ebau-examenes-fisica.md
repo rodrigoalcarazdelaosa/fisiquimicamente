@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 18  # Order that this section will appear.
 
 title = "☢️ Física"
 subtitle = "📝 Exámenes completos"
@@ -93,8 +93,8 @@ subtitle = "📝 Exámenes completos"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
   # image = "ebau.jpg"  # Name of image in `static/media/`.

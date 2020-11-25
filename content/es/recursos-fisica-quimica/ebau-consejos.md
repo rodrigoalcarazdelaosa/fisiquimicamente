@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 22  # Order that this section will appear.
 
 title = "💡Consejos"
 subtitle = ""
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "#1ba1f1"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
   # image = "ebau.jpg"  # Name of image in `static/media/`.
@@ -44,7 +44,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-bottom: 0px;"
+ css_style = ""
  
  # CSS class.
  css_class = ""

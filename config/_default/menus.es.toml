@@ -4,75 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "⚛️ Recursos FyQ"
+  url = "recursos-fisica-quimica/"
+  identifier = "recursos-fyq"
+  weight = 1
+  
+[[main]]
   name = "📚 Apuntes"
-  url = "apuntes/"
-  identifier = "apuntes"
-  weight = 1
-  
-[[main]]
-  name = "2º ESO"
-  url = "apuntes/#segundo-eso"
-  parent = "apuntes"
+  url = "recursos-fisica-quimica/#apuntes"
+  parent = "recursos-fyq"
   weight = 1
 
 [[main]]
-  name = "3º ESO"
-  url = "apuntes/#tercero-eso"
-  parent = "apuntes"
-  weight = 2
-
-[[main]]
-  name = "4º ESO"
-  url = "apuntes/#cuarto-eso"
-  parent = "apuntes"
-  weight = 3
-
-[[main]]
-  name = "1º Bach"
-  url = "apuntes/#primero-bach"
-  parent = "apuntes"
-  weight = 4
-
-[[main]]
-  name = "2º Bach Física"
-  url = "apuntes/#segundo-bach-fisica"
-  parent = "apuntes"
-  weight = 5
-  
-[[main]]
-  name = "2º Bach Química"
-  url = "apuntes/#segundo-bach-quimica"
-  parent = "apuntes"
-  weight = 6
-  
-[[main]]
-  name = "Formulación y nomenclatura de Química"
-  url = "apuntes/#formulacion-nomenclatura-quimica"
-  parent = "apuntes"
-  weight = 7
-  
-[[main]]
-  name = "🎓 Recursos EBAU"
-  url = "recursos-ebau/"
-  identifier = "recursos-ebau"
+  name = "🎓 EBAU"
+  url = "recursos-fisica-quimica/#ebau"
+  parent = "recursos-fyq"
   weight = 2
   
 [[main]]
-  name = "☢️ Física"
-  url = "recursos-ebau/#examenes-fisica"
-  parent = "recursos-ebau"
-  weight = 1
-  
-[[main]]
-  name = "⚗️ Química"
-  url = "recursos-ebau/#examenes-quimica"
-  parent = "recursos-ebau"
-  weight = 2  
-  
-[[main]]
-  name = "💡 Consejos"
-  url = "recursos-ebau/#consejos"
-  parent = "recursos-ebau"
+  name = "📝 Oposición"
+  url = "recursos-fisica-quimica/#oposicion"
+  parent = "recursos-fyq"
   weight = 3
 
 [[main]]

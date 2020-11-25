@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 24  # Order that this section will appear.
 
-title = "📚 Apuntes de Física y Química"
+title = "📝 Oposición"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "apuntes.svg"
+hero_media = "oposicion.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,8 +20,8 @@ hero_media = "apuntes.svg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -36,11 +36,11 @@ hero_media = "apuntes.svg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "apuntes/#segundo-eso"
-  label = "Comienza a explorar"
-  icon_pack = "fas"
-  icon = "chevron-circle-down"
+# [cta]
+ # url = "recursos-fisica-quimica/#apuntes-2ESO"
+ # label = "Comienza a explorar"
+ # icon_pack = "fas"
+ # icon = "chevron-circle-down"
   
 # [cta_alt]
   # url = "https://sourcethemes.com/academic/"
@@ -49,12 +49,12 @@ hero_media = "apuntes.svg"
 # Note. An optional note to show underneath the links.
 # [cta_note]
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+  
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"  
 +++
 
-En formato **texto**, **diapositivas** y **póster** (_chuleta_)
-
-[2º ESO](#segundo-eso) | [3º ESO](#tercero-eso) | [4º ESO](#cuarto-eso) <br> [1º Bach](#primero-bach) | [2º Bach Física](#segundo-bach-fisica) | [2º Bach Química](#segundo-bach-quimica) <br> [Formulación y nomenclatura de Química](#formulacion-nomenclatura-quimica)
-
 {{% callout note %}}
-También te recomiendo echar un vistazo a las [***pizarras* de FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes de FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
+Próximamente con la ayuda de {{% mention "jesica-sanchez-mazon" %}}.
 {{% /callout %}}

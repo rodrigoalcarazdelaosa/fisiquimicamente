@@ -15,16 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📚](apuntes/)"
+  icon = "[⚛️](recursos-fisica-quimica/)"
   icon_pack = "emoji"
-  name = "[Apuntes de Física y Química](apuntes/)"
-  description = "[2º ESO](apuntes/#segundo-eso) | [3º ESO](apuntes/#tercero-eso) | [4º ESO](apuntes/#cuarto-eso) <br> [1º Bach](apuntes/#primero-bach) | [2º Bach Física](apuntes/#segundo-bach-fisica) | [2º Bach Química](apuntes/#segundo-bach-quimica) <br> [Formulación y nomenclatura de Química](apuntes/#formulacion-nomenclatura-quimica)"
-  
-[[feature]]
-  icon = "[🎓](recursos-ebau/)"
-  icon_pack = "emoji"
-  name = "[Recursos EBAU](recursos-ebau/)"
-  description = "☢️ [Física](recursos-ebau/#examenes-fisica) | ⚗️ [Química](recursos-ebau/#examenes-quimica) <br> 💡[Consejos](recursos-ebau/#consejos)"
+  name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
+  description = "📚 [Apuntes](recursos-fisica-quimica/#apuntes) | 🎓 [EBAU](recursos-fisica-quimica/#ebau) | 📝 [Oposición](recursos-fisica-quimica/#oposicion)"  
   
 [[feature]]
   icon = "[👐](tutoriales/)"
@@ -48,7 +42,13 @@ subtitle = ""
   icon = "[:man_scientist:](sobre-mi/)‍"
   icon_pack = "emoji"
   name = "[Sobre mí](sobre-mi/)"
-  description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias-investigacion)"  
+  description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias-investigacion)"
+  
+[[feature]]
+  icon = "[✉️](#contacto)"
+  icon_pack = "emoji"
+  name = "[Contacto](#contacto)"
+  description = ""  
 
 [design.background]
   # Apply a background color, gradient, or image.
