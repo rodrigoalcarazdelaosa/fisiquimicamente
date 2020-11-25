@@ -15,16 +15,16 @@ subtitle = "Thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) an
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[☢️](#physics-exams)"
+  icon = "[☢️](#physics)"
   icon_pack = "emoji"
-  name = "[Physics](#physics-exams)"
-  description = "📝 [Full exams](#physics-exams) | 🗂️ [By topic](#physics-questions)"  
+  name = "[Physics](#physics)"
+  description = "📝 [Full Exams](#physics-exams) | 🗂️ [By Topic](#physics-questions)"  
   
 [[feature]]
-  icon = "[⚗️](#chemistry-exams)"
+  icon = "[⚗️](#chemistry)"
   icon_pack = "emoji"
-  name = "[Chemistry](#chemistry-exams)"
-  description = "📝 [Full exams](#chemistry-exams) | 🗂️ [By topic](#chemistry-questions)"
+  name = "[Chemistry](#chemistry)"
+  description = "📝 [Full Exams](#chemistry-exams) | 🗂️ [By Topic](#chemistry-questions)"
   
 [[feature]]
   icon = "[💡](#tips)"
@@ -59,5 +59,5 @@ subtitle = "Thanks to [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) an
 +++
 
 {{% callout note %}}
-Access [here](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) to the latest information.
+Access [here](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) to the latest information from the University of Cantabria (UC).
 {{% /callout %}}

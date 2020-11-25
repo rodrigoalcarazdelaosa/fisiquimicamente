@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 9  # Order that this section will appear.
 
 title = "⚗️ Chemistry"
-subtitle = "🗂️ By topic"
+subtitle = "🗂️ By Topic"
 
 [content]
   # Page type to display. E.g. project.

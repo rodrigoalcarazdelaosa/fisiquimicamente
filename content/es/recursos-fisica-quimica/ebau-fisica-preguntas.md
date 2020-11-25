@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 18  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "☢️ Física"
-subtitle = "📝 Exámenes completos"
+subtitle = "🗂️ Por temas"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "examenes-EBAU-fisica"
+  page_type = "preguntas-EBAU-fisica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -19,55 +19,31 @@ subtitle = "📝 Exámenes completos"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0  
+  filter_default = 0
+  
+  [[content.filter_button]]
+    name = "Todas"
+    tag = "*"		
 	
   [[content.filter_button]]
-    name = "2009"
-    tag = "2009"
+    name = "Interacción gravitatoria"
+    tag = "gravitación"	
 	
   [[content.filter_button]]
-    name = "2010"
-    tag = "2010"
+    name = "Interacción electromagnética"
+    tag = "electromagnetismo"	
 	
   [[content.filter_button]]
-    name = "2011"
-    tag = "2011"
+    name = "Ondas"
+    tag = "ondas"							
 	
   [[content.filter_button]]
-    name = "2012"
-    tag = "2012"
+    name = "Óptica geométrica"
+    tag = "óptica-geométrica"	
 	
   [[content.filter_button]]
-    name = "2013"
-    tag = "2013"
-	
-  [[content.filter_button]]
-    name = "2014"
-    tag = "2014"
-	
-  [[content.filter_button]]
-    name = "2015"
-    tag = "2015"
-	
-  [[content.filter_button]]
-    name = "2016"
-    tag = "2016"
-	
-  [[content.filter_button]]
-    name = "2017"
-    tag = "2017"
-	
-  [[content.filter_button]]
-    name = "2018"
-    tag = "2018"
-	
-  [[content.filter_button]]
-    name = "2019"
-    tag = "2019"		
-	
-  [[content.filter_button]]
-    name = "2020"
-    tag = "2020"											
+    name = "Física del s. XX"
+    tag = "física-s-XX"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -115,5 +91,5 @@ subtitle = "📝 Exámenes completos"
 +++
 
 {{% callout gdrive %}}
-Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLaEZ1Q2UzVXpxUlk) a todos los enunciados de Cantabria desde 1995 hasta 2019, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
+Accede [aquí](https://drive.google.com/drive/folders/0B6t6-aLmKtoLTEZWcUxfME1QTVE) solo a los enunciados, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
 {{% /callout %}}

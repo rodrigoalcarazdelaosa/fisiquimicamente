@@ -24,7 +24,7 @@ subtitle = ""
   icon = "[🎓](#ebau)"
   icon_pack = "emoji"
   name = "[EBAU](#ebau)"
-  description = "☢️ [Física](#ebau-examenes-fisica) | ⚗️ [Química](#ebau-examenes-quimica) | 💡 [Consejos](#ebau-consejos)"
+  description = "☢️ [Física](#ebau-fisica) | ⚗️ [Química](#ebau-quimica) | 💡 [Consejos](#ebau-consejos)"
   
 [[feature]]
   icon = "[📝](#oposicion)"

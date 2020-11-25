@@ -15,16 +15,16 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[☢️](#ebau-examenes-fisica)"
+  icon = "[☢️](#ebau-fisica)"
   icon_pack = "emoji"
-  name = "[Física](#ebau-examenes-fisica)"
-  description = "📝 [Exámenes completos](#ebau-examenes-fisica) | 🗂️ [Por temas](#ebau-preguntas-fisica)"  
+  name = "[Física](#ebau-fisica)"
+  description = "📝 [Exámenes completos](#ebau-fisica-examenes) | 🗂️ [Por temas](#ebau-fisica-preguntas)"  
   
 [[feature]]
-  icon = "[⚗️](#ebau-examenes-quimica)"
+  icon = "[⚗️](#ebau-quimica)"
   icon_pack = "emoji"
-  name = "[Química](#ebau-examenes-quimica)"
-  description = "📝 [Exámenes completos](#ebau-examenes-quimica) | 🗂️ [Por temas](#ebau-preguntas-quimica)"
+  name = "[Química](#ebau-quimica)"
+  description = "📝 [Exámenes completos](#ebau-quimica-examenes) | 🗂️ [Por temas](#ebau-quimica-preguntas)"
   
 [[feature]]
   icon = "[💡](#ebau-consejos)"
@@ -59,5 +59,5 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
 +++
 
 {{% callout note %}}
-Accede [aquí](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) a la última información.
+Accede [aquí](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) a la última información por parte de la Universidad de Cantabria (UC).
 {{% /callout %}}

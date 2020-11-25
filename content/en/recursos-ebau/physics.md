@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 26  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-title = "📝 Oposición"
+title = "☢️ Physics"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "oposicion.svg"
+hero_media = "ebau-fisica.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,11 +36,11 @@ hero_media = "oposicion.svg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
- # url = "recursos-fisica-quimica/#apuntes-2ESO"
- # label = "Comienza a explorar"
- # icon_pack = "fas"
- # icon = "chevron-circle-down"
+[cta]
+  url = "ebau-resources/#physics-exams"
+  label = "Start exploring"
+  icon_pack = "fas"
+  icon = "chevron-circle-down"
   
 # [cta_alt]
   # url = "https://sourcethemes.com/academic/"
@@ -49,12 +49,6 @@ hero_media = "oposicion.svg"
 # Note. An optional note to show underneath the links.
 # [cta_note]
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-  
-[advanced]
- # Custom CSS. 
- css_style = "padding-bottom: 0px;"  
 +++
 
-{{% callout note %}}
-Próximamente con la ayuda de {{% mention "jesica-sanchez-mazon" %}}.
-{{% /callout %}}
+📝 [Full Exams](#physics-exams) | 🗂️ [By Topic](#physics-questions)
