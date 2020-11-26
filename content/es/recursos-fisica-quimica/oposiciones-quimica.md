@@ -26,8 +26,8 @@ subtitle = "Problemas resueltos"
     tag = "*"  
 	
   [[content.filter_button]]
-    name = "General"
-    tag = "quimica-general"
+    name = "Química General"
+    tag = "reacciones-químicas"
 	
   [[content.filter_button]]
     name = "Enlace químico"
