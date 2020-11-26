@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 26  # Order that this section will appear.
 
-title = "📝 Oposición"
+title = "📝 Oposiciones"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "oposicion.svg"
+hero_media = "oposiciones.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.

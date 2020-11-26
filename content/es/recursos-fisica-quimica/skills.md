@@ -27,9 +27,9 @@ subtitle = ""
   description = "☢️ [Física](#ebau-fisica) | ⚗️ [Química](#ebau-quimica) | 💡 [Consejos](#ebau-consejos)"
   
 [[feature]]
-  icon = "[📝](#oposicion)"
+  icon = "[📝](#oposiciones)"
   icon_pack = "emoji"
-  name = "[Oposición](#oposicion)"
+  name = "[Oposiciones](#oposiciones)"
   description = ""  
   
   

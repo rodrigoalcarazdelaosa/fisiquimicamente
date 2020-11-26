@@ -22,8 +22,8 @@
   weight = 2
   
 [[main]]
-  name = "📝 Oposición"
-  url = "recursos-fisica-quimica/#oposicion"
+  name = "📝 Oposiciones"
+  url = "recursos-fisica-quimica/#oposiciones"
   parent = "recursos-fyq"
   weight = 3
 
