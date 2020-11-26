@@ -2,6 +2,7 @@
 title: Electricidad y electrónica
 subtitle: Circuitos eléctricos, ley de Ohm, dispositivos electrónicos y aspectos industriales de la energía
 summary: "Electricidad y circuitos eléctricos. Ley de Ohm. Dispositivos electrónicos. Aspectos industriales de la energía."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO-3ESO"]
 tags:
 - 2º ESO
 - 3º ESO

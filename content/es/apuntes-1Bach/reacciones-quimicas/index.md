@@ -2,6 +2,7 @@
 title: Reacciones químicas
 subtitle: Estequiometría, transformaciones energéticas y espontaneidad
 summary: "`PRÓXIMAMENTE` <br> Estequiometría, transformaciones energéticas y espontaneidad."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-1Bach"]
 tags:
 - 1º Bach
 - reacciones-químicas

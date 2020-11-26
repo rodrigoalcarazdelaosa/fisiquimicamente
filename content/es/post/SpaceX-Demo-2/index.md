@@ -2,6 +2,7 @@
 title: SpaceX Demo-2
 subtitle: Estudio cinemático del Falcon 9 🚀
 summary: Estudio cinemático del Falcon 9 🚀.
+breadcrumbs: ["blog"]
 date: "2020-06-04T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

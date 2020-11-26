@@ -2,6 +2,7 @@
 title: Sistema periódico
 subtitle: Sistema periódico y configuración electrónica
 summary: "Sistema periódico y configuración electrónica."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-4ESO"]
 tags:
 - 4º ESO
 - tabla-periódica

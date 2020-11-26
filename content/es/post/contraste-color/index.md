@@ -2,6 +2,7 @@
 title: Contraste de color
 subtitle: Sobre blanco y negro *a la vez*
 summary: Contraste de color sobre blanco y negro *a la vez*.
+breadcrumbs: ["blog"]
 date: "2020-09-05T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

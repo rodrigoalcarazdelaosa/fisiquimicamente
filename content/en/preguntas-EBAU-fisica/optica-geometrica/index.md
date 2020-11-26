@@ -4,7 +4,7 @@ subtitle: EBAU Questions Solved
 summary: EBAU Questions Solved.
 tags:
 - EBAU
-- geometric-optics
+- optics
 categories:
 - Physics
 

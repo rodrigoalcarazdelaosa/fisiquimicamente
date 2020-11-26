@@ -3,6 +3,7 @@ title: Organic Chemistry
 url: "/en/notes-17-18-year-olds-chemistry/organic-chemistry"
 subtitle: 
 summary: "`COMING SOON`"
+breadcrumbs: ["notes","17-18-year-olds-chemistry"]
 tags:
 - 17-18-year-olds
 - organic-chemistry

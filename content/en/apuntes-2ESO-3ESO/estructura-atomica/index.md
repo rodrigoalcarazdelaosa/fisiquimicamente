@@ -3,6 +3,7 @@ title: Atomic Structure
 url: "/en/notes-13-15-year-olds/atomic-structure"
 subtitle: Dalton's Atomic Theory, Atomic Models, Ions and Isotopes
 summary: "`COMING SOON` <br> Dalton's Atomic Theory, Atomic Models, Ions and Isotopes."
+breadcrumbs: ["notes","13-15-year-olds"]
 tags:
 - 13-14-year-olds
 - 14-15-year-olds

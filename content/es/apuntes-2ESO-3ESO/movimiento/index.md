@@ -3,6 +3,7 @@ title: El movimiento
 url: "/apuntes-2eso/movimiento"
 subtitle: Conceptos de velocidad y aceleración
 summary: "Conceptos de velocidad y aceleración."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO"]
 tags:
 - 2º ESO
 - movimiento

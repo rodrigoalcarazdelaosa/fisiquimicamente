@@ -2,6 +2,7 @@
 title: Tabla Periódica de los Elementos
 subtitle: Con información básica y en alta resolución
 summary: Tabla Periódica de los Elementos con información básica y en alta resolución.
+breadcrumbs: ["blog"]
 date: "2020-08-23T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

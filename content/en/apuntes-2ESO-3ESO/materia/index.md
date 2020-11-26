@@ -3,6 +3,7 @@ title: Matter
 url: "/en/notes-13-15-year-olds/matter"
 subtitle: Properties, States of Aggregation and Mixtures
 summary: "`COMING SOON` <br> Properties, States of Aggregation and Mixtures."
+breadcrumbs: ["notes","13-15-year-olds"]
 tags:
 - 13-14-year-olds
 - 14-15-year-olds

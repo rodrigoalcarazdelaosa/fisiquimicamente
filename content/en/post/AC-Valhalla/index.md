@@ -2,6 +2,7 @@
 title: Assassin's Creed Valhalla
 subtitle: Next title of this acclaimed video game franchise
 summary: "Next title of this acclaimed video game franchise."
+breadcrumbs: ["blog"]
 date: "2020-04-30T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

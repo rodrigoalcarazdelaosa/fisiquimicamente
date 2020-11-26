@@ -2,6 +2,7 @@
 title: Color Contrast
 subtitle: On Both Black and White
 summary: Color Contrast on Both Black and White.
+breadcrumbs: ["blog"]
 date: "2020-09-05T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

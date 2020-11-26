@@ -2,6 +2,7 @@
 title: Energía
 subtitle: Concepto de energía. Transformaciones energéticas. Calor y temperatura. Fuentes de energía
 summary: "Concepto de energía. Transformaciones energéticas. Calor y temperatura. Fuentes de energía."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO-3ESO"]
 tags:
 - 2º ESO
 - 3º ESO

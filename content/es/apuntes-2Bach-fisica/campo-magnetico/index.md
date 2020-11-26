@@ -2,6 +2,7 @@
 title: Campo magnético
 subtitle: Flujo magnético e inducción electromagnética
 summary: "`PRÓXIMAMENTE` <br> Campo magnético. Flujo magnético. Inducción electromagnética."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-fisica"]
 tags:
 - 2º Bach
 - electromagnetismo

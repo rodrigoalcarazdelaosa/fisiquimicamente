@@ -39,7 +39,7 @@ subtitle = "Physics"
 	
   [[content.filter_button]]
     name = "Geometric Optics"
-    tag = "geometric-optics"	
+    tag = "optics"	
 	
   [[content.filter_button]]
     name = "20th Century Physics"

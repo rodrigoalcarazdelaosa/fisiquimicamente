@@ -2,6 +2,7 @@
 title: Pósters del Sistema Solar
 subtitle: Mostrando la belleza de nuestro sistema solar y más allá
 summary: Mostrando la belleza de nuestro sistema solar y más allá.
+breadcrumbs: ["blog"]
 date: "2020-05-19T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

@@ -2,6 +2,7 @@
 title: Periodic Table of Elements
 subtitle: With Basic Information and in High Resolution
 summary: Periodic Table of Elements With Basic Information and in High Resolution.
+breadcrumbs: ["blog"]
 date: "2020-08-23T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

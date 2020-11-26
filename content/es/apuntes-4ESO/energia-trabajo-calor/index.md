@@ -2,6 +2,7 @@
 title: Energía, trabajo y calor
 subtitle: Energía y sus formas de intercambio (trabajo y calor)
 summary: "Energía y sus formas de intercambio (trabajo y calor)."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-4ESO"]
 tags:
 - 4º ESO
 - energía

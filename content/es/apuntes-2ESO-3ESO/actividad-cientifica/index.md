@@ -2,6 +2,7 @@
 title: La actividad científica
 subtitle: "Método científico, magnitudes y laboratorio escolar"
 summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO-3ESO"]
 tags:
 - 2º ESO
 - 3º ESO

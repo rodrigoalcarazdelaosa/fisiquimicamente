@@ -2,6 +2,7 @@
 title: Hello World
 subtitle: First Post on my First Blog
 summary: First Post on my First Blog.
+breadcrumbs: ["blog"]
 date: "2020-04-28T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

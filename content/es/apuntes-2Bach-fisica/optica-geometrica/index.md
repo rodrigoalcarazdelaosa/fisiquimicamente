@@ -2,6 +2,7 @@
 title: Óptica geométrica
 subtitle: Leyes de la óptica geométrica y sistemas ópticos
 summary: "`PRÓXIMAMENTE` <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-fisica"]
 tags:
 - 2º Bach
 - óptica

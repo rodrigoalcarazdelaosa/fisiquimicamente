@@ -2,6 +2,7 @@
 title: Tabla Periódica DC
 subtitle: Tabla Periódica con personajes de DC
 summary: Tabla Periódica con personajes de DC.
+breadcrumbs: ["blog"]
 date: "2020-07-16T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

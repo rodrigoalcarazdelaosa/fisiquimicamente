@@ -2,6 +2,7 @@
 title: Química orgánica
 subtitle: 
 summary: "`PRÓXIMAMENTE`"
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-quimica"]
 tags:
 - 2º Bach
 - química-orgánica

@@ -2,6 +2,7 @@
 title: Updating SI Base Units
 subtitle: Now all defined as a function of universal physical constants
 summary: "Now all defined as a function of universal physical constants."
+breadcrumbs: ["blog"]
 date: "2020-04-30T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

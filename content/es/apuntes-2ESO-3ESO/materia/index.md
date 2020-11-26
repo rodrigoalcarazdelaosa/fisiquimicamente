@@ -2,6 +2,7 @@
 title: La materia
 subtitle: Propiedades, estados de agregación y mezclas
 summary: "Propiedades, estados de agregación y mezclas."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO-3ESO"]
 tags:
 - 2º ESO
 - 3º ESO

@@ -2,6 +2,7 @@
 title: Interacción gravitatoria
 subtitle: Leyes de Kepler, ley de Gravitación Universal y campo gravitatorio
 summary: "`PRÓXIMAMENTE` <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-fisica"]
 tags:
 - 2º Bach
 - movimiento

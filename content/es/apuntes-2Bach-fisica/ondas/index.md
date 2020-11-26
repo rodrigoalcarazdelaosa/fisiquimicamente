@@ -2,6 +2,7 @@
 title: Ondas
 subtitle: Propagación de ondas transversales y longitudinales
 summary: "`PRÓXIMAMENTE` <br> Propagación de ondas transversales y longitudinales. Ecuación de las ondas armónicas. Energía e intensidad. Sonido y luz."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-fisica"]
 tags:
 - 2º Bach
 - energía

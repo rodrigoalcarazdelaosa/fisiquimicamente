@@ -2,6 +2,7 @@
 title: Periodic Table of Scientists
 subtitle: Periodic Table with Distinguished Scientists
 summary: Periodic Table with Distinguished Scientists.
+breadcrumbs: ["blog"]
 date: "2020-07-28T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

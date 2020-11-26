@@ -2,6 +2,7 @@
 title: Enlace químico
 subtitle: Enlace iónico, covalente y metálico
 summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-quimica"]
 tags:
 - 2º Bach
 - enlace-químico

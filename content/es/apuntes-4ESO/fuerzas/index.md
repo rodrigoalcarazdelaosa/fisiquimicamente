@@ -2,6 +2,7 @@
 title: Fuerzas
 subtitle: Leyes de Newton y fuerzas de especial interés
 summary: "Leyes de Newton y fuerzas de especial interés."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-4ESO"]
 tags:
 - 4º ESO
 - fuerzas

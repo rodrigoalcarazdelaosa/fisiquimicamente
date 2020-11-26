@@ -3,6 +3,7 @@ title: Motion
 url: "/en/notes-13-14-year-olds/motion"
 subtitle: Concepts of Speed and Acceleration
 summary: "`COMING SOON` <br> Concepts of Speed and Acceleration."
+breadcrumbs: ["notes","13-14-year-olds"]
 tags:
 - 13-14-year-olds
 - motion

@@ -2,6 +2,7 @@
 title: Assassin's Creed Valhalla
 subtitle: Próxima entrega de esta aclamada franquicia de videojuegos
 summary: Próxima entrega de esta aclamada franquicia de videojuegos.
+breadcrumbs: ["blog"]
 date: "2020-04-30T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa

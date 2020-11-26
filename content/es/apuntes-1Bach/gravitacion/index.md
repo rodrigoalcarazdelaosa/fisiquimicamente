@@ -2,6 +2,7 @@
 title: Gravitación
 subtitle: Ley de gravitación universal y leyes de Kepler
 summary: "`PRÓXIMAMENTE` <br> Fuerzas centrales. Ley de gravitación universal. Leyes de Kepler."
+breadcrumbs: ["recursos-fisica-quimica","apuntes-1Bach"]
 tags:
 - 1º Bach
 - movimiento
