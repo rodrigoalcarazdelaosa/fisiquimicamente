@@ -22,7 +22,7 @@ subtitle = "🗂️ Por temas"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todas"
+    name = "Todos"
     tag = "*"		
 	
   [[content.filter_button]]

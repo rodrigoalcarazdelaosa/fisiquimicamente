@@ -4,7 +4,7 @@ subtitle: Ejercicio 2 de la Opción 1
 summary: Ejercicio 2 de la Opción 1.
 tags:
 - oposiciones
-- mecánica
+- gravitación
 categories:
 - Física
 
