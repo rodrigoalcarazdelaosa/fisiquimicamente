@@ -10,7 +10,7 @@ subtitle = "🗂️ Por temas"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "preguntas-EBAU-quimica"
+  page_type = "EBAU-quimica-preguntas"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -30,6 +30,10 @@ subtitle = "🗂️ Por temas"
     tag = "enlace-químico"
 	
   [[content.filter_button]]
+    name = "Termoquímica"
+    tag = "termoquímica"	
+	
+  [[content.filter_button]]
     name = "Equilibrio químico"
     tag = "equilibrio-químico"	
 	
@@ -43,11 +47,7 @@ subtitle = "🗂️ Por temas"
 	
   [[content.filter_button]]
     name = "Química orgánica"
-    tag = "química-orgánica"		
-	
-  [[content.filter_button]]
-    name = "Termoquímica"
-    tag = "termoquímica"	
+    tag = "química-orgánica"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

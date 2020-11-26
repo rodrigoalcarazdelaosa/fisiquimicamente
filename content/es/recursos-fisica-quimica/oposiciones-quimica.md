@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 19  # Order that this section will appear.
+weight = 28  # Order that this section will appear.
 
-title = "☢️ Física"
-subtitle = "📝 Exámenes completos"
+title = "⚗️ Química"
+subtitle = "Problemas resueltos"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "EBAU-fisica-examenes"
+  page_type = "oposiciones-quimica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,52 +22,32 @@ subtitle = "📝 Exámenes completos"
   filter_default = 0  
 	
   [[content.filter_button]]
-    name = "2009"
-    tag = "2009"
+    name = "General"
+    tag = "quimica-general"
 	
   [[content.filter_button]]
-    name = "2010"
-    tag = "2010"
+    name = "Enlace químico"
+    tag = "enlace-químico"
 	
   [[content.filter_button]]
-    name = "2011"
-    tag = "2011"
+    name = "Termoquímica"
+    tag = "termoquímica"	
 	
   [[content.filter_button]]
-    name = "2012"
-    tag = "2012"
+    name = "Equilibrio químico"
+    tag = "equilibrio-químico"
 	
   [[content.filter_button]]
-    name = "2013"
-    tag = "2013"
+    name = "Ácido-base"
+    tag = "ácido-base"		
 	
   [[content.filter_button]]
-    name = "2014"
-    tag = "2014"
+    name = "Rédox"
+    tag = "rédox"
 	
   [[content.filter_button]]
-    name = "2015"
-    tag = "2015"
-	
-  [[content.filter_button]]
-    name = "2016"
-    tag = "2016"
-	
-  [[content.filter_button]]
-    name = "2017"
-    tag = "2017"
-	
-  [[content.filter_button]]
-    name = "2018"
-    tag = "2018"
-	
-  [[content.filter_button]]
-    name = "2019"
-    tag = "2019"		
-	
-  [[content.filter_button]]
-    name = "2020"
-    tag = "2020"											
+    name = "Química orgánica"
+    tag = "química-orgánica"			
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -108,12 +88,8 @@ subtitle = "📝 Exámenes completos"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;" 
  
  # CSS class.
  css_class = ""
 +++
-
-{{% callout gdrive %}}
-Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLaEZ1Q2UzVXpxUlk) a todos los enunciados de Cantabria desde 1995 hasta 2019, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /callout %}}

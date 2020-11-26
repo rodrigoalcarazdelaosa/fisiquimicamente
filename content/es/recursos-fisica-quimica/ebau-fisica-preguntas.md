@@ -10,7 +10,7 @@ subtitle = "🗂️ Por temas"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "preguntas-EBAU-fisica"
+  page_type = "EBAU-fisica-preguntas"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -39,7 +39,7 @@ subtitle = "🗂️ Por temas"
 	
   [[content.filter_button]]
     name = "Óptica geométrica"
-    tag = "óptica-geométrica"	
+    tag = "óptica"
 	
   [[content.filter_button]]
     name = "Física del s. XX"

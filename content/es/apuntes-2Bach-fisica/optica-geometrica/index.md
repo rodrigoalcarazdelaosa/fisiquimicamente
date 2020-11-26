@@ -4,7 +4,7 @@ subtitle: Leyes de la óptica geométrica y sistemas ópticos
 summary: "`PRÓXIMAMENTE` <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
 tags:
 - 2º Bach
-- óptica-geométrica
+- óptica
 categories:
 - Física
 

@@ -10,7 +10,7 @@ subtitle = "📝 Exámenes completos"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "examenes-EBAU-quimica"
+  page_type = "EBAU-quimica-examenes"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

@@ -56,5 +56,5 @@ En formato **texto**, **diapositivas** y **póster** (_chuleta_)
 [2º ESO](#apuntes-2ESO) | [3º ESO](#apuntes-3ESO) | [4º ESO](#apuntes-4ESO) <br> [1º Bach](#apuntes-1Bach) | [2º Bach Física](#apuntes-2Bach-fisica) | [2º Bach Química](#apuntes-2Bach-quimica) <br> [Formulación y nomenclatura de Química](#apuntes-formulacion-nomenclatura-quimica)
 
 {{% callout note %}}
-También te recomiendo echar un vistazo a las [***pizarras* de FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes de FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
+También te recomiendo echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
 {{% /callout %}}

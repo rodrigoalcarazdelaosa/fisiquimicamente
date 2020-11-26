@@ -49,12 +49,10 @@ hero_media = "oposiciones.svg"
 # Note. An optional note to show underneath the links.
 # [cta_note]
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-  
-[advanced]
- # Custom CSS. 
- css_style = "padding-bottom: 0px;"  
 +++
 
+☢️ [Física](#oposiciones-fisica) | ⚗️ [Química](#oposiciones-quimica)
+
 {{% callout note %}}
-Próximamente con la ayuda de {{% mention "jesica-sanchez-mazon" %}}.
+**Problemas resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}**. Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
 {{% /callout %}}
