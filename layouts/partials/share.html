@@ -33,9 +33,15 @@
 	</center>
 	<ul class=subscribe>
 		<li>
-	        <a href="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener">
-				<i class="fas fa-coffee"></i>
-			</a>
+		{{ if eq .Site.Language.Lang "es" }}
+        <a href="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener">
+			<i class="fas fa-coffee" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítame a un café"></i>
+		</a>
+		{{ else if eq .Site.Language.Lang "en" }}
+        <a href="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener">
+			<i class="fas fa-coffee" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Buy me a coffee"></i>
+		</a>
+		{{ end }}		
 		</li>
 	</ul>
 	  <p class="kudos">
@@ -91,13 +97,13 @@
 		{{ if eq .Site.Language.Lang "es" }}
 		<li>
 	        <a href="https://t.me/fisiquimicamente" target="_blank" rel="noopener">
-				<i class="fab fa-telegram"></i>
+				<i class="fab fa-telegram" data-toggle="tooltip" data-placement="left" title aria-label="Telegram" data-original-title="Telegram"></i>
 			</a>
 		</li>
-		{{ end }}				
+		{{ end }}
 		<li>
 	        <a href="{{ "/index.xml" | absLangURL }}" target="_blank" rel="noopener">
-				<i class="fas fa-rss"></i>
+				<i class="fas fa-rss" data-toggle="tooltip" data-placement="right" title aria-label="RSS" data-original-title="RSS"></i>
 			</a>
 		</li>
 	</ul>
@@ -111,7 +117,6 @@
 </div>
 
 {{ if eq .Site.Language.Lang "es" }}
-
 <div class="share-box" aria-hidden="true">
 	<center>
 		<h3 style="color: #555;">
@@ -121,10 +126,8 @@
 	  	  <p class="kudos">
 	  		  <strong>Participa</strong> activamente en la web comentando, dando tu opinión, realizando peticiones, sugerencias...
 	    </p>
-	</center>	
-  	  
+	</center>
 </div>
-
 {{ end }}
 
 {{ end }}
