@@ -224,7 +224,7 @@ plugins_js  = ["applause-button","footnotes"]
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "rodrigoalcarazdelaosa"  # Paste the shortname from your Disqus dashboard.
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
