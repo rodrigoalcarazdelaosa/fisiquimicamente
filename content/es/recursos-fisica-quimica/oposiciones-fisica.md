@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 27  # Order that this section will appear.
 
 title = "☢️ Física"
-subtitle = "Problemas resueltos"
+subtitle = "Ejercicios resueltos"
 
 [content]
   # Page type to display. E.g. project.

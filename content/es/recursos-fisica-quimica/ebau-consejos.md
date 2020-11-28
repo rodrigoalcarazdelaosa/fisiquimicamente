@@ -64,7 +64,7 @@ subtitle = ""
 - 🤲 **Lee** bien los **enunciados** y tómate tu tiempo en **elegir** la **opción** más adecuada.
 - 🙋 **Aclara** todas las **dudas** que te surjan.
 - ⚠️ **No pongas** tu **nombre** ni ninguna **marca personal** en el examen.
-- 💪 **Ataca todos** los **problemas**, siempre hay apartados asequibles en todos ellos.
+- 💪 **Ataca todos** los **ejercicios**, siempre hay apartados asequibles en todos ellos.
 - ✍️ **Cuida** la **letra** y la **presentación** general de tu examen, incluyendo faltas de ortografía.
 - 🤔 **Comprueba** que tus **resultados** son **coherentes** en el momento de obtenerlos y al final del examen si te sobra tiempo.
 - 🦸 **Recuerda** que **eres** un/a **máquina**.

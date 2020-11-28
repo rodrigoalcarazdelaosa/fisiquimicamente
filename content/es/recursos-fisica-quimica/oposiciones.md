@@ -54,5 +54,5 @@ hero_media = "oposiciones.svg"
 ☢️ [Física](#oposiciones-fisica) | ⚗️ [Química](#oposiciones-quimica)
 
 {{% callout note %}}
-**Problemas resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}**. Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
+**Ejercicios resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}**. Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
 {{% /callout %}}
