@@ -301,7 +301,11 @@ div.alert-thanks > div:first-child::before {
  *  Icons
  **************************************************/
   
-p svg,
+p svg {
+  position: relative;
+  bottom: 0.1em;	
+}
+
 .powered-by svg {
   display: inline-flex;
   align-self: center;
