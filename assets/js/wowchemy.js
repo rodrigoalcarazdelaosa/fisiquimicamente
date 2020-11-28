@@ -486,22 +486,11 @@ $(window).on('load', function () {
         $(this).removeClass('active').addClass('active').siblings().removeClass('active all');
         return false;
       });
-
-      // If window hash is set, scroll to hash.
-      // Placing this within `imagesLoaded` prevents scrolling to the wrong location due to dynamic image loading
-      // affecting page layout and position of the target anchor ID.
-      // Note: If there are multiple project widgets on a page, ideally only perform this once after images
-      // from *all* project widgets have finished loading.
-      // if (window.location.hash) {
-//         scrollToAnchor();
-//       }
     });
   });
   
   // On page load, scroll to hash (if set) in URL
-  // If URL contains a hash and there are no dynamically loaded images on the page,
-  // immediately scroll to target ID taking into account responsive offset.
-  // Otherwise, wait for `imagesLoaded()` to complete before scrolling to hash to prevent scrolling to wrong
+  // Wait for `imagesLoaded()` to complete before scrolling to hash to prevent scrolling to wrong
   // location.
   if (window.location.hash) {
 	  $(document).imagesLoaded( function() {
