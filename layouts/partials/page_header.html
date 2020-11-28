@@ -108,7 +108,17 @@
     {{ end }}	
     {{ end }}
     {{ end }}
-    <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>
+	{{ if eq $title "Formulación y nomenclatura de Química Inorgánica"}}
+      <li class="breadcrumb-item active" aria-current="page">Química Inorgánica</li>
+	{{ else if eq $title "Nomenclature of Inorganic Chemistry"}}
+      <li class="breadcrumb-item active" aria-current="page">Inorganic Chemistry</li>	
+	{{ else if eq $title "Formulación y nomenclatura de Química Orgánica"}}
+      <li class="breadcrumb-item active" aria-current="page">Química Orgánica</li>
+	{{ else if eq $title "Nomenclature of Organic Chemistry"}}
+      <li class="breadcrumb-item active" aria-current="page">Organic Chemistry</li>	  
+	{{ else }}		
+      <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>
+	{{ end }}
   </ol>
   </nav>
   {{ end }}
