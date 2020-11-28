@@ -457,6 +457,7 @@ $(document).ready(function () {
  * --------------------------------------------------------------------------- */
 
 $(window).on('load', function () {
+	
   // Filter projects.
   $('.projects-container').each(function (index, container) {
     let $container = $(container);
