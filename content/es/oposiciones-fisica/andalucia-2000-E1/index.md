@@ -2,6 +2,9 @@
 title: Andalucía 2000
 subtitle: Ejercicio 1
 summary: Ejercicio 1.
+authors:
+- rodrigo-alcaraz-de-la-osa
+- jesica-sanchez-mazon
 tags:
 - oposiciones
 - mecánica

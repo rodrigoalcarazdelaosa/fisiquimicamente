@@ -2,6 +2,9 @@
 title: Madrid 2018
 subtitle: Ejercicio 2
 summary: Ejercicio 2.
+authors:
+- rodrigo-alcaraz-de-la-osa
+- jesica-sanchez-mazon
 tags:
 - oposiciones
 - mecánica

@@ -2,6 +2,9 @@
 title: Madrid 2018
 subtitle: Ejercicio 1
 summary: Ejercicio 1.
+authors:
+- rodrigo-alcaraz-de-la-osa
+- jesica-sanchez-mazon
 tags:
 - oposiciones
 - ondas

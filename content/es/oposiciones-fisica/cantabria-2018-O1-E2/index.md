@@ -2,6 +2,9 @@
 title: Cantabria 2018
 subtitle: Ejercicio 2 de la Opción 1
 summary: Ejercicio 2 de la Opción 1.
+authors:
+- rodrigo-alcaraz-de-la-osa
+- jesica-sanchez-mazon
 tags:
 - oposiciones
 - gravitación
