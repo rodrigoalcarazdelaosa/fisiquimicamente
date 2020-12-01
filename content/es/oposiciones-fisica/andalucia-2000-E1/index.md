@@ -1,5 +1,6 @@
 ---
 title: Andalucía 2000
+url: "/recursos-fisica-quimica/oposiciones/fisica/andalucia-2000-E1"
 subtitle: Ejercicio 1
 summary: Ejercicio 1.
 authors:

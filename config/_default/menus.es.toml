@@ -23,7 +23,7 @@
   
 [[main]]
   name = "📝 Oposiciones"
-  url = "recursos-fisica-quimica/#oposiciones"
+  url = "recursos-fisica-quimica/oposiciones"
   parent = "recursos-fyq"
   weight = 3
 

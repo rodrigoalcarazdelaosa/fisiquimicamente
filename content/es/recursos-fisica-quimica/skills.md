@@ -27,10 +27,10 @@ subtitle = ""
   description = "☢️ [Física](#ebau-fisica) | ⚗️ [Química](#ebau-quimica) | 💡 [Consejos](#ebau-consejos)"
   
 [[feature]]
-  icon = "[📝](#oposiciones)"
+  icon = "[📝](oposiciones)"
   icon_pack = "emoji"
-  name = "[Oposiciones](#oposiciones)"
-  description = "☢️ [Física](#oposiciones-fisica) | ⚗️ [Química](#oposiciones-quimica)"  
+  name = "[Oposiciones](oposiciones)"
+  description = "☢️ [Física](oposiciones#fisica) | ⚗️ [Química](oposiciones#quimica)"  
   
   
 [design.background]

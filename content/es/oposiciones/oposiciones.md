@@ -51,7 +51,7 @@ hero_media = "oposiciones.svg"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-☢️ [Física](#oposiciones-fisica) | ⚗️ [Química](#oposiciones-quimica)
+☢️ [Física](#fisica) | ⚗️ [Química](#quimica)
 
 {{% callout note %}}
 **Ejercicios resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}**. Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
