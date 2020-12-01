@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 27  # Order that this section will appear.
+weight = 28  # Order that this section will appear.
 
-title = "☢️ Física"
-subtitle = "Ejercicios resueltos"
+title = "📝 Oposiciones"
+subtitle = "Ejercicios resueltos de ⚗️ Química"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "oposiciones-fisica"
+  page_type = "oposiciones-quimica-ejercicios"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,40 +26,32 @@ subtitle = "Ejercicios resueltos"
     tag = "*"  
 	
   [[content.filter_button]]
-    name = "Mecánica"
-    tag = "mecánica"
+    name = "Química General"
+    tag = "reacciones-químicas"
 	
   [[content.filter_button]]
-    name = "Gravitación"
-    tag = "gravitación"
+    name = "Enlace químico"
+    tag = "enlace-químico"
 	
   [[content.filter_button]]
-    name = "Fluidos"
-    tag = "fluidos"
+    name = "Termoquímica"
+    tag = "termoquímica"	
 	
   [[content.filter_button]]
-    name = "Termodinámica"
-    tag = "termodinámica"	
-
-  [[content.filter_button]]
-    name = "Ondas"
-    tag = "ondas"
+    name = "Equilibrio químico"
+    tag = "equilibrio-químico"
 	
   [[content.filter_button]]
-    name = "Electromagnetismo"
-    tag = "electromagnetismo"
+    name = "Ácido-base"
+    tag = "ácido-base"		
 	
   [[content.filter_button]]
-    name = "Electrotecnia"
-    tag = "electrotecnia"
+    name = "Rédox"
+    tag = "rédox"
 	
   [[content.filter_button]]
-    name = "Óptica"
-    tag = "óptica"
-	
-  [[content.filter_button]]
-    name = "Física del s. XX"
-    tag = "física-s-XX"	
+    name = "Química orgánica"
+    tag = "química-orgánica"			
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -85,8 +77,8 @@ subtitle = "Ejercicios resueltos"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "ebau.jpg"  # Name of image in `static/media/`.
@@ -100,7 +92,7 @@ subtitle = "Ejercicios resueltos"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;" 
  
  # CSS class.
  css_class = ""

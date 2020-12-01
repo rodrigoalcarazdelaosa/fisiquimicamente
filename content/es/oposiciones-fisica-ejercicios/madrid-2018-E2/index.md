@@ -1,5 +1,6 @@
 ---
 title: Madrid 2018
+url: "/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e2"
 subtitle: Ejercicio 2
 summary: Ejercicio 2.
 authors:
@@ -12,5 +13,5 @@ categories:
 - Física
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://rodrigoalcarazdelaosa.me/oposiciones-fisica/madrid-2018-E2/madrid-2018-E2.pdf"
+external_link: "https://rodrigoalcarazdelaosa.me/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e2/madrid-2018-e2.pdf"
 ---

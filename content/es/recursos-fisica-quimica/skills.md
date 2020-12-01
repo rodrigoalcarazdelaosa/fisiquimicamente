@@ -30,7 +30,7 @@ subtitle = ""
   icon = "[📝](oposiciones)"
   icon_pack = "emoji"
   name = "[Oposiciones](oposiciones)"
-  description = "☢️ [Física](oposiciones#fisica) | ⚗️ [Química](oposiciones#quimica)"  
+  description = "☢️ [Física](oposiciones/fisica) | ⚗️ [Química](oposiciones/quimica)"
   
   
 [design.background]

@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "oposiciones"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 28  # Order that this section will appear.
+weight = 27  # Order that this section will appear.
 
-title = "⚗️ Química"
-subtitle = "Ejercicios resueltos"
+title = "📝 Oposiciones"
+subtitle = "Ejercicios resueltos de ☢️ Física"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "oposiciones-quimica"
+  page_type = "oposiciones-fisica-ejercicios"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,32 +26,40 @@ subtitle = "Ejercicios resueltos"
     tag = "*"  
 	
   [[content.filter_button]]
-    name = "Química General"
-    tag = "reacciones-químicas"
+    name = "Mecánica"
+    tag = "mecánica"
 	
   [[content.filter_button]]
-    name = "Enlace químico"
-    tag = "enlace-químico"
+    name = "Gravitación"
+    tag = "gravitación"
 	
   [[content.filter_button]]
-    name = "Termoquímica"
-    tag = "termoquímica"	
+    name = "Fluidos"
+    tag = "fluidos"
 	
   [[content.filter_button]]
-    name = "Equilibrio químico"
-    tag = "equilibrio-químico"
+    name = "Termodinámica"
+    tag = "termodinámica"	
+
+  [[content.filter_button]]
+    name = "Ondas"
+    tag = "ondas"
 	
   [[content.filter_button]]
-    name = "Ácido-base"
-    tag = "ácido-base"		
+    name = "Electromagnetismo"
+    tag = "electromagnetismo"
 	
   [[content.filter_button]]
-    name = "Rédox"
-    tag = "rédox"
+    name = "Electrotecnia"
+    tag = "electrotecnia"
 	
   [[content.filter_button]]
-    name = "Química orgánica"
-    tag = "química-orgánica"			
+    name = "Óptica"
+    tag = "óptica"
+	
+  [[content.filter_button]]
+    name = "Física del s. XX"
+    tag = "física-s-XX"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -77,8 +85,8 @@ subtitle = "Ejercicios resueltos"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
   # image = "ebau.jpg"  # Name of image in `static/media/`.
@@ -92,7 +100,7 @@ subtitle = "Ejercicios resueltos"
   
 [advanced]
  # Custom CSS. 
- css_style = "padding-bottom: 0px;" 
+ css_style = ""
  
  # CSS class.
  css_class = ""
