@@ -50,30 +50,6 @@
   url = "notes/#nomenclature-chemistry"
   parent = "apuntes"
   weight = 7  
-  
-[[main]]
-  name = "🎓 EBAU Resources"
-  url = "ebau-resources/"
-  identifier = "recursos-ebau"
-  weight = 2
-  
-[[main]]
-  name = "☢️ Physics"
-  url = "ebau-resources/#physics"
-  parent = "recursos-ebau"
-  weight = 1
-  
-[[main]]
-  name = "⚗️ Chemistry"
-  url = "ebau-resources/#chemistry"
-  parent = "recursos-ebau"
-  weight = 2  
-  
-[[main]]
-  name = "💡 Tips"
-  url = "ebau-resources/#tips"
-  parent = "recursos-ebau"
-  weight = 3  
 
 [[main]]
   name = "👐 Tutorials"

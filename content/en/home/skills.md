@@ -18,13 +18,7 @@ subtitle = ""
   icon = "[📚](notes/)"
   icon_pack = "emoji"
   name = "[Physics and Chemistry Notes](notes/)"
-  description = "[13-14 year-olds](notes/#13-14-year-olds) | [14-15 year-olds](notes/#14-15-year-olds) | [15-16 year-olds](notes/#15-16-year-olds) <br> [16-17 year-olds](notes/#16-17-year-olds) | [17-18 year-olds Physics](notes/#17-18-year-olds-physics) | [17-18 year-olds Chemistry](notes/#17-18-year-olds-chemistry) <br> [Nomenclature of Chemistry](notes/#nomenclature-chemistry)"
-  
-[[feature]]
-  icon = "[🎓](ebau-resources/)"
-  icon_pack = "emoji"
-  name = "[EBAU Resources](ebau-resources/)"
-  description = "☢️ [Physics](ebau-resources/#physics) | ⚗️ [Chemistry](ebau-resources/#chemistry) <br> 💡[Tips](ebau-resources/#tips)"
+  description = "[13-14 year-olds](notes/#13-14-year-olds) | [14-15 year-olds](notes/#14-15-year-olds) | [15-16 year-olds](notes/#15-16-year-olds) <br> [16-17 year-olds](notes/#16-17-year-olds) | [17-18 year-olds Physics](notes/#17-18-year-olds-physics) | [17-18 year-olds Chemistry](notes/#17-18-year-olds-chemistry) <br> [Nomenclature of Chemistry](notes/#nomenclature-chemistry)"  
   
 [[feature]]
   icon = "[👐](tutorials/)"
@@ -49,6 +43,12 @@ subtitle = ""
   icon_pack = "emoji"
   name = "[About me](about-me/)"
   description = "👣 [Career Path](about-me/#career-path) <br> ✈️ [Research Stays](about-me/#research-stays)"
+  
+[[feature]]
+  icon = "[✉️](#contact)"
+  icon_pack = "emoji"
+  name = "[Contact](#contact)"
+  description = ""  
   
 [design.background]
   # Apply a background color, gradient, or image.
