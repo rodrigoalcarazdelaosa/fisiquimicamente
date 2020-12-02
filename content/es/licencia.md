@@ -14,4 +14,4 @@ Mis 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/r
 <i class="fab fa-creative-commons fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-by fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-sa fa-2x aria-hidden="true" "></i>
 </center>
 
-Los 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/recursos-fisica-quimica#ebau" >}}) son cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
+Los 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) son cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.

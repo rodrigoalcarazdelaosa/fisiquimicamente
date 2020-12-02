@@ -38,7 +38,7 @@ hero_media = "oposiciones.svg"
  css_style = "padding-bottom: 0px;"
  
  # CSS class.
- css_class = ""  
+ css_class = ""
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.

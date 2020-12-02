@@ -72,7 +72,7 @@ subtitle = "Recomendaciones de la IUPAC"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

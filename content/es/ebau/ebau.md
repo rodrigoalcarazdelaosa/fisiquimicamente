@@ -15,21 +15,21 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[☢️](#ebau-fisica)"
+  icon = "[☢️](fisica)"
   icon_pack = "emoji"
-  name = "[Física](#ebau-fisica)"
+  name = "[Física](fisica)"
   description = "📝 [Exámenes completos](#ebau-fisica-examenes) | 🗂️ [Por temas](#ebau-fisica-preguntas)"  
   
 [[feature]]
-  icon = "[⚗️](#ebau-quimica)"
+  icon = "[⚗️](quimica)"
   icon_pack = "emoji"
-  name = "[Química](#ebau-quimica)"
+  name = "[Química](quimica)"
   description = "📝 [Exámenes completos](#ebau-quimica-examenes) | 🗂️ [Por temas](#ebau-quimica-preguntas)"
   
 [[feature]]
-  icon = "[💡](#ebau-consejos)"
+  icon = "[💡](consejos)"
   icon_pack = "emoji"
-  name = "[Consejos](#ebau-consejos)"
+  name = "[Consejos](consejos)"
   description = ""  
   
   
@@ -43,8 +43,8 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "ebau.jpg"  # Name of image in `static/media/`.
@@ -56,6 +56,12 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
   # Text color (true=light or false=dark).
   # text_color_light = true    
 
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+ 
+ # CSS class.
+ css_class = ""
 +++
 
 {{% callout note %}}

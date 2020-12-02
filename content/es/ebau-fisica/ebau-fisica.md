@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 18  # Order that this section will appear.
 
-title = "☢️ Física"
+title = "🎓 EBAU ☢️ Física"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "ebau-fisica.svg"

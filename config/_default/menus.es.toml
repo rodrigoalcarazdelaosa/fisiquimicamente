@@ -17,7 +17,7 @@
 
 [[main]]
   name = "🎓 EBAU"
-  url = "recursos-fisica-quimica/#ebau"
+  url = "recursos-fisica-quimica/ebau"
   parent = "recursos-fyq"
   weight = 2
   
