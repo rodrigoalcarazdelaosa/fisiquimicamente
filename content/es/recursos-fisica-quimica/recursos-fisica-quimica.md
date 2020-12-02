@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📚](#apuntes)"
+  icon = "[📚](apuntes)"
   icon_pack = "emoji"
-  name = "[Apuntes](#apuntes)"
-  description = "[2º ESO](#apuntes-2ESO) | [3º ESO](#apuntes-3ESO) | [4º ESO](#apuntes-4ESO) <br> [1º Bach](#apuntes-1Bach) | [2º Bach Física](#apuntes-2Bach-fisica) | [2º Bach Química](#apuntes-2Bach-quimica) <br> [Formulación y nomenclatura de Química](#apuntes-formulacion-nomenclatura-quimica)"
+  name = "[Apuntes](apuntes)"
+  description = "[2º ESO](apuntes/2eso) | [3º ESO](#apuntes-3ESO) | [4º ESO](#apuntes-4ESO) <br> [1º Bach](#apuntes-1Bach) | [2º Bach Física](#apuntes-2Bach-fisica) | [2º Bach Química](#apuntes-2Bach-quimica) <br> [Formulación y nomenclatura de Química](#apuntes-formulacion-nomenclatura-quimica)"
   
 [[feature]]
   icon = "[🎓](ebau)"

@@ -1,6 +1,6 @@
 ---
 title: Las fuerzas
-url: "/apuntes-2eso/fuerzas"
+url: "/recursos-fisica-quimica/apuntes/2eso/fuerzas"
 subtitle: Principales fuerzas de la naturaleza y sus efectos
 summary: "Principales fuerzas de la naturaleza y sus efectos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO"]

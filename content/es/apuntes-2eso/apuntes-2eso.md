@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "2º ESO"
-subtitle = ""
+title = "📚 Apuntes"
+subtitle = "2º ESO"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-2ESO-3ESO"
+  page_type = "apuntes-segundo-tercero-eso"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -100,7 +100,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

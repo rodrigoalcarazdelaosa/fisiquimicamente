@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "📚 Apuntes de Física y Química"
 
@@ -20,8 +20,8 @@ hero_media = "apuntes.svg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -32,6 +32,14 @@ hero_media = "apuntes.svg"
   
   # Text color (true=light or false=dark).
   text_color_light = true
+  
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+ 
+ # CSS class.
+ css_class = ""
+  
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -53,7 +61,7 @@ hero_media = "apuntes.svg"
 
 En formato **texto**, **diapositivas** y **póster** (_chuleta_)
 
-[2º ESO](#apuntes-2ESO) | [3º ESO](#apuntes-3ESO) | [4º ESO](#apuntes-4ESO) <br> [1º Bach](#apuntes-1Bach) | [2º Bach Física](#apuntes-2Bach-fisica) | [2º Bach Química](#apuntes-2Bach-quimica) <br> [Formulación y nomenclatura de Química](#apuntes-formulacion-nomenclatura-quimica)
+[2º ESO](2eso) | [3º ESO](#apuntes-3ESO) | [4º ESO](#apuntes-4ESO) <br> [1º Bach](#apuntes-1Bach) | [2º Bach Física](#apuntes-2Bach-fisica) | [2º Bach Química](#apuntes-2Bach-quimica) <br> [Formulación y nomenclatura de Química](#apuntes-formulacion-nomenclatura-quimica)
 
 {{% callout note %}}
 También te recomiendo echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).

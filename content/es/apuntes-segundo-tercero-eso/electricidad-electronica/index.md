@@ -1,5 +1,6 @@
 ---
 title: Electricidad y electrónica
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/electricidad-electronica"
 subtitle: Circuitos eléctricos, ley de Ohm, dispositivos electrónicos y aspectos industriales de la energía
 summary: "Electricidad y circuitos eléctricos. Ley de Ohm. Dispositivos electrónicos. Aspectos industriales de la energía."
 breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO-3ESO"]

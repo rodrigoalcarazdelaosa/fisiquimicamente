@@ -11,7 +11,7 @@
   
 [[main]]
   name = "📚 Apuntes"
-  url = "recursos-fisica-quimica/#apuntes"
+  url = "recursos-fisica-quimica/apuntes"
   parent = "recursos-fyq"
   weight = 1
 

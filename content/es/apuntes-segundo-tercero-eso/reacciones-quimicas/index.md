@@ -1,5 +1,6 @@
 ---
 title: Reacciones químicas
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/reacciones-quimicas"
 subtitle: Interpretación de reacciones químicas e iniciación a la estequiometría
 summary: "Cambios físicos y químicos. La reacción química. Iniciación a la estequiometría. Ley de conservación de la masa. Velocidad de reacción. La Química en la sociedad y el medio ambiente."
 breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO-3ESO"]

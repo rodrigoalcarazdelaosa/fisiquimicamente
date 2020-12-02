@@ -1,5 +1,6 @@
 ---
 title: Elementos y compuestos
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/elementos-compuestos"
 subtitle: Tabla periódica de los elementos, uniones entre átomos y elementos y compuestos de especial interés
 summary: "Tabla periódica de los elementos. Uniones entre átomos. Elementos y compuestos de especial interés."
 breadcrumbs: ["recursos-fisica-quimica","apuntes-2ESO-3ESO"]
