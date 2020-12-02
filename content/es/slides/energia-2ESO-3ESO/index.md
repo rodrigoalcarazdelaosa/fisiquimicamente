@@ -218,7 +218,7 @@ La **variación** de **temperatura** que sufre un cuerpo cuando se le proporcion
 
 ---
 
-Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-2eso-3eso/materia/index.md#cambios-de-estado" >}}).
+Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-segundo-tercero-eso/materia/index.md#cambios-de-estado" >}}).
 
 ---
 

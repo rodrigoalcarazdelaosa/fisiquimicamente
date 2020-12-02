@@ -44,11 +44,11 @@ hero_media = "apuntes.svg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "recursos-fisica-quimica/#apuntes-2ESO"
-  label = "Comienza a explorar"
-  icon_pack = "fas"
-  icon = "chevron-circle-down"
+# [cta]
+#  url = "apuntes/2eso"
+#  label = "Comienza a explorar"
+#  icon_pack = "fas"
+#  icon = "chevron-circle-down"
   
 # [cta_alt]
   # url = "https://sourcethemes.com/academic/"
@@ -61,7 +61,7 @@ hero_media = "apuntes.svg"
 
 En formato **texto**, **diapositivas** y **póster** (_chuleta_)
 
-[2º ESO](2eso) | [3º ESO](#apuntes-3ESO) | [4º ESO](#apuntes-4ESO) <br> [1º Bach](#apuntes-1Bach) | [2º Bach Física](#apuntes-2Bach-fisica) | [2º Bach Química](#apuntes-2Bach-quimica) <br> [Formulación y nomenclatura de Química](#apuntes-formulacion-nomenclatura-quimica)
+[2º ESO](2eso) | [3º ESO](3eso) | [4º ESO](4eso) <br> [1º Bach](1bach) | [2º Bach Física](2bach-fisica) | [2º Bach Química](2bach-quimica) <br> [Formulación y nomenclatura de Química](formulacion-nomenclatura-quimica)
 
 {{% callout note %}}
 También te recomiendo echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).

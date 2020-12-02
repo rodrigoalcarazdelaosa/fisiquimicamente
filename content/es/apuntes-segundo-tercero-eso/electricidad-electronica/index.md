@@ -239,7 +239,7 @@ En la resistencia de la figura:
 
 El valor de la resistencia será por tanto[^1]:
 
-[^1]: Expresando el resultado correctamente en [**notación científica**]({{< ref "/apuntes-2eso-3eso/actividad-cientifica/index.md#notación-científica" >}}).
+[^1]: Expresando el resultado correctamente en [**notación científica**]({{< ref "/apuntes-segundo-tercero-eso/actividad-cientifica/index.md#notación-científica" >}}).
 
 $$
 2.7\times 10^6 \pm 10\thinspace\\%\thinspace\Omega
