@@ -74,4 +74,4 @@ email:
 user_groups:
 ---
 
-👋🏼 Welcome to [Physichemically with Rodri]({{< ref "/" >}})! Here you can find 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and 🎓 [<span style="font-variant:small-caps;">**EBAU resources**</span>]({{< ref "/recursos-ebau" >}}), as well as various 👐 [<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), 🔗 [<span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/enlaces-interes" >}}) or 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) posts.
+👋🏼 Welcome to [Physichemically with Rodri]({{< ref "/" >}})! Here you can find 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) as well as various 👐 [<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), 🔗 [<span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/enlaces-interes" >}}) or 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) posts.

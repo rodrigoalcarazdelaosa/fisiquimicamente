@@ -3,7 +3,7 @@ title: Movimientos
 url: "/recursos-fisica-quimica/apuntes/4eso/movimientos"
 subtitle: MRU, MRUA y MCU
 summary: MRU, MRUA y MCU.
-breadcrumbs: ["recursos-fisica-quimica","apuntes-4ESO"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
 tags:
 - 4º ESO
 - movimiento

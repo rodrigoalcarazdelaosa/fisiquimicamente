@@ -3,7 +3,7 @@ title: MAS
 url: "/recursos-fisica-quimica/apuntes/1bach/mas"
 subtitle: Movimiento armónico simple
 summary: "`PRÓXIMAMENTE` <br> Movimiento armónico simple."
-breadcrumbs: ["recursos-fisica-quimica","apuntes-1Bach"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - 1º Bach
 - movimiento

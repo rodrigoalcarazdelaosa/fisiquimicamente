@@ -66,40 +66,42 @@
     {{ range $page.Params.breadcrumbs }}
     {{ if eq . "recursos-fisica-quimica"}}
     <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
+    {{else if eq . "apuntes"}}
+    <li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/apuntes/">Apuntes</a></li>
     {{else if eq . "notes"}}
     <li class="breadcrumb-item">📚 <a href="/en/notes/">Notes</a></li>
-    {{else if eq . "apuntes-2ESO"}}
-  	<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/#apuntes-2ESO">2º ESO</a></li>
+    {{else if eq . "2eso"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2eso">2º ESO</a></li>
     {{else if eq . "13-14-year-olds"}}
   	<li class="breadcrumb-item"><a href="/en/notes/#13-14-year-olds">13&ndash;14 year-olds</a></li>
-    {{else if eq . "apuntes-3ESO"}}
-  	<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/#apuntes-3ESO">3º ESO</a></li>
+    {{else if eq . "3eso"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/3eso">3º ESO</a></li>
     {{else if eq . "14-15-year-olds"}}
   	<li class="breadcrumb-item"><a href="/en/notes/#14-15-year-olds">14&ndash;15 year-olds</a></li>
-    {{else if eq . "apuntes-2ESO-3ESO"}}
-  	<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/#apuntes-2ESO">2º ESO</a> · 📚 <a href="/recursos-fisica-quimica/#apuntes-3ESO">3º ESO</a></li>	
+    {{else if eq . "2eso-3eso"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2eso">2º ESO</a> · <a href="/recursos-fisica-quimica/apuntes/3eso">3º ESO</a></li>	
     {{else if eq . "13-15-year-olds"}}
   	<li class="breadcrumb-item"><a href="/en/notes/#13-14-year-olds">13&ndash;14 year-olds</a> · <a href="/en/notes/#14-15-year-olds">14&ndash;15 year-olds</a></li>
-    {{else if eq . "apuntes-4ESO"}}
-  	<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/#apuntes-4ESO">4º ESO</a></li>
+    {{else if eq . "4eso"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/4eso">4º ESO</a></li>
     {{else if eq . "15-16-year-olds"}}
   	<li class="breadcrumb-item"><a href="/en/notes/#15-16-year-olds">15&ndash;16 year-olds</a></li>		
-    {{else if eq . "apuntes-1Bach"}}
-  	<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/#apuntes-1Bach">1º Bach</a></li>
+    {{else if eq . "1bach"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/1bach">1º Bach</a></li>
     {{else if eq . "16-17-year-olds"}}
   	<li class="breadcrumb-item"><a href="/en/notes/#16-17-year-olds">16&ndash;17 year-olds</a></li>	
-    {{else if eq . "apuntes-2Bach-fisica"}}
-  	<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/#apuntes-2Bach-fisica">2º Bach Física</a></li>
+    {{else if eq . "2bach-fisica"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach-fisica">2º Bach Física</a></li>
     {{else if eq . "17-18-year-olds-physics"}}
   	<li class="breadcrumb-item"><a href="/en/notes/#17-18-year-olds-physics">17&ndash;18 year-olds Physics</a></li>
-    {{else if eq . "apuntes-2Bach-quimica"}}
-  	<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/#apuntes-2Bach-quimica">2º Bach Química</a></li>
+    {{else if eq . "2bach-quimica"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach-quimica">2º Bach Química</a></li>
     {{else if eq . "17-18-year-olds-chemistry"}}
   	<li class="breadcrumb-item"><a href="/en/notes/#17-18-year-olds-chemistry">17&ndash;18 year-olds Chemistry</a></li>	
-    {{else if eq . "apuntes-formulacion-nomenclatura-quimica"}}
-  	<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/#apuntes-formulacion-nomenclatura-quimica">Formulación y nomenclatura de Química</a></li>
+    {{else if eq . "formulacion-nomenclatura-quimica"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica">Formulación y nomenclatura de Química</a></li>
     {{else if eq . "nomenclature-chemistry"}}
-  	<li class="breadcrumb-item">📚 <a href="/en/notes/#nomenclature-chemistry">Nomenclature of Chemistry</a></li>	
+  	<li class="breadcrumb-item"><a href="/en/notes/#nomenclature-chemistry">Nomenclature of Chemistry</a></li>	
     {{else if eq . "blog"}}
     {{ if eq site.Language.Lang "es" }}
   	<li class="breadcrumb-item">💬 <a href="/post/">Blog</a></li>

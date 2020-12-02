@@ -3,7 +3,7 @@ title: La actividad científica
 url: "/recursos-fisica-quimica/apuntes/4eso/actividad-cientifica"
 subtitle: La investigación científica, magnitudes escalares y vectoriales, análisis dimensional, errores en la medida y  expresión de resultados
 summary: "La investigación científica. Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados."
-breadcrumbs: ["recursos-fisica-quimica","apuntes-4ESO"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
 tags:
 - 4º ESO
 - actividad-científica

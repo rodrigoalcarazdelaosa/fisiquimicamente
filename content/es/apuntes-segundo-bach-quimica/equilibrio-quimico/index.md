@@ -3,7 +3,7 @@ title: Equilibrio químico
 url: "/recursos-fisica-quimica/apuntes/2bach-quimica/equilibrio-quimico"
 subtitle: Principio de Le Chatelier y equilibrios heterogéneos
 summary: "`PRÓXIMAMENTE` <br> Velocidad de reacción. Ley de acción de masas. Principio de Le Chatelier. Equilibrios heterogéneos."
-breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-quimica"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach-quimica"]
 tags:
 - 2º Bach
 - reacciones-químicas

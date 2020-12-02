@@ -3,7 +3,7 @@ title: Campo eléctrico
 url: "/recursos-fisica-quimica/apuntes/2bach-fisica/campo-electrico"
 subtitle: Ley de Coulomb, energía potencial, potencial y flujo eléctrico
 summary: "`PRÓXIMAMENTE` <br> Ley de Coulomb. Energía potencial y potencial eléctrico. Flujo eléctrico."
-breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-fisica"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach-fisica"]
 tags:
 - 2º Bach
 - electromagnetismo

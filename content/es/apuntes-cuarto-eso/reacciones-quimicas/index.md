@@ -3,7 +3,7 @@ title: Reacciones químicas
 url: "/recursos-fisica-quimica/apuntes/4eso/reacciones-quimicas"
 subtitle: Ajuste de ecuaciones químicas y cálculos estequiométricos
 summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
-breadcrumbs: ["recursos-fisica-quimica","apuntes-4ESO"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
 tags:
 - 4º ESO
 - reacciones-químicas

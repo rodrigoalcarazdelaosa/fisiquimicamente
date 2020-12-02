@@ -3,7 +3,7 @@ title: Estructura de la materia
 url: "/recursos-fisica-quimica/apuntes/2bach-quimica/estructura-materia"
 subtitle: Mecánica cuántica, orbitales atómicos, estructura electrónica y partículas subatómicas
 summary: "Mecánica cuántica, orbitales atómicos, estructura electrónica y partículas subatómicas."
-breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-quimica"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach-quimica"]
 tags:
 - 2º Bach
 - estructura-atómica
