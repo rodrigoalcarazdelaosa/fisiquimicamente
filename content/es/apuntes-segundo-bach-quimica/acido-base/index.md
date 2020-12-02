@@ -1,5 +1,6 @@
 ---
 title: Ácido-base
+url: "/recursos-fisica-quimica/apuntes/2bach-quimica/acido-base"
 subtitle: Equilibrio ácido-base
 summary: "`PRÓXIMAMENTE` <br> Equilibrio ácido-base. Teorías de Arrhenius y de Brönsted-Lowry. Concepto de pH."
 breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-quimica"]

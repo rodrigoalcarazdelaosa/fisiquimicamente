@@ -1,5 +1,6 @@
 ---
 title: Química orgánica
+url: "/recursos-fisica-quimica/apuntes/2bach-quimica/quimica-organica"
 subtitle: 
 summary: "`PRÓXIMAMENTE`"
 breadcrumbs: ["recursos-fisica-quimica","apuntes-2Bach-quimica"]

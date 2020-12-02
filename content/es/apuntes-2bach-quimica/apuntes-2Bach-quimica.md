@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 13  # Order that this section will appear.
 
-title = "2º Bach"
-subtitle = "Química"
+title = "📚 Apuntes"
+subtitle = "2º Bach Química"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-2Bach-quimica"
+  page_type = "apuntes-segundo-bach-quimica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -77,8 +77,8 @@ subtitle = "Química"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -92,7 +92,7 @@ subtitle = "Química"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
