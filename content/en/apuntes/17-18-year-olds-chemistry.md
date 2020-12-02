@@ -10,7 +10,7 @@ subtitle = "Chemistry"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-2Bach-quimica"
+  page_type = "apuntes-segundo-bach-quimica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

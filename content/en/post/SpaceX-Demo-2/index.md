@@ -494,7 +494,7 @@ The **speed increases** in a **non-linear** way, reaching 6724$\thinspace$km/h, 
 
 [^7]: At 20$\thinspace^\circ$C temperature, 50$\thinspace$% humidity and sea level ([https://en.wikipedia.org/wiki/Speed_of_sound](https://en.wikipedia.org/wiki/Speed_of_sound)).
 
-It's nice to see how in **SECO** the Dragon stops accelerating, because it doesn't have any engine driving it anymore, keeping its constant speed from then on (describing an [uniform circular motion]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}})).
+It's nice to see how in **SECO** the Dragon stops accelerating, because it doesn't have any engine driving it anymore, keeping its constant speed from then on (describing an [uniform circular motion]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}})).
 
 #### Orbital Speed
 
@@ -734,7 +734,7 @@ The following plot shows the **acceleration** of the Falcon 9, in m/s<sup>2</sup
 It is clear that the **acceleration** is **not constant**, increasing until **MECO**, when it even takes negative values (remember that [speed is reduced](#speed)). Then it increases again to values above 30$\thinspace$m/s<sup>2</sup> (more than three times the acceleration of gravity on the surface of the Earth), until **SECO**, when the tangential acceleration vanishes because there is no longer any engine powering the ship.
 	
 ### What if we assume that the acceleration is constant?
-If the acceleration of the rocket was constant, then its ascent could be modelled by an [**uniformly-varied linear motion**]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniformemente-variado-mruv" >}}) (UVLM). Looking at the previous plot it seems crazy to think that it could be like that, but it's worth trying as a mental exercise.
+If the acceleration of the rocket was constant, then its ascent could be modelled by an [**uniformly-varied linear motion**]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniformemente-variado-mruv" >}}) (UVLM). Looking at the previous plot it seems crazy to think that it could be like that, but it's worth trying as a mental exercise.
 
 The following plot shows again the *empirical* **acceleration** of the rocket, obtained by numerical derivation from its speed, and the constant acceleration that it would have assuming a UVLM, obtained as the **arithmetic mean**[^9]:
 
@@ -977,7 +977,7 @@ The resulting average value of the acceleration before **SECO** is 14.1$\thinspa
 
 [^10]: Actually it would have been much worse than this 🤦‍♂️, but as a matter of fact, a skydiver usually reaches the [terminal velocity](https://en.wikipedia.org/wiki/Terminal_velocity) (around 180$\thinspace$km/h) in only 12 seconds, after which he stops experiencing the feeling of *falling*.
 
-Once we have our constant acceleration value, we can compare the *empirical* altitude and speed with those obtained from the UVLM expressions (taking into account that after **SECO** the acceleration is zero and therefore the ship will move with an [uniform linear motion]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) or ULM).
+Once we have our constant acceleration value, we can compare the *empirical* altitude and speed with those obtained from the UVLM expressions (taking into account that after **SECO** the acceleration is zero and therefore the ship will move with an [uniform linear motion]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) or ULM).
 
 #### Altitude
 After four minutes, the rocket is maintained at a practically constant altitude, so the  UVLM or ULM expressions are not valid, as they imply an indefinite increase.

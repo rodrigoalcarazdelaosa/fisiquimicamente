@@ -10,7 +10,7 @@ subtitle = "IUPAC Recommendations"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-formulacion-nomenclatura-quimica"
+  page_type = "apuntes-formulacion"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
