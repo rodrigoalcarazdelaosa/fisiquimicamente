@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
-title = "2º Bach"
-subtitle = "Física"
+title = "📚 Apuntes"
+subtitle = "2º Bach Física"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-2Bach-fisica"
+  page_type = "apuntes-segundo-bach-fisica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -84,7 +84,7 @@ subtitle = "Física"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
