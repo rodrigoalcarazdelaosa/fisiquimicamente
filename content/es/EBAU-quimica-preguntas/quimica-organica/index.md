@@ -4,7 +4,7 @@ subtitle: Preguntas de EBAU resueltas
 summary: Preguntas de EBAU resueltas.
 tags:
 - EBAU
-- química-orgánica
+- orgánica
 categories:
 - Química
 

@@ -1,5 +1,6 @@
 ---
 title: Formulación y nomenclatura de Química Inorgánica
+url: "/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/inorganica"
 subtitle: Recomendaciones de la IUPAC de 2005
 summary: "Recomendaciones de la IUPAC de 2005."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","formulacion-nomenclatura-quimica"]

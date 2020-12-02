@@ -6,7 +6,7 @@ summary: "`PRÓXIMAMENTE`"
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach-quimica"]
 tags:
 - 2º Bach
-- química-orgánica
+- orgánica
 categories:
 - Química
 
