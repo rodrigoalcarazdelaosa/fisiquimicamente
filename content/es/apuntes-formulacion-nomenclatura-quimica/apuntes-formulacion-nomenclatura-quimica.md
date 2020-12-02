@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "Formulación y nomenclatura de Química"
-subtitle = "Recomendaciones de la IUPAC"
+title = "📚 Apuntes"
+subtitle = "Formulación y nomenclatura de Química"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-formulacion-nomenclatura-quimica"
+  page_type = "apuntes-formulacion"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
