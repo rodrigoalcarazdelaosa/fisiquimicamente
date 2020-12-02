@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
-title = "⚗️ Química"
+title = "🎓 EBAU ⚗️ Química"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "ebau-quimica.svg"
@@ -20,8 +20,8 @@ hero_media = "ebau-quimica.svg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -37,7 +37,7 @@ hero_media = "ebau-quimica.svg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "recursos-fisica-quimica/#ebau-quimica-examenes"
+  url = "recursos-fisica-quimica/ebau/quimica/#examenes"
   label = "Comienza a explorar"
   icon_pack = "fas"
   icon = "chevron-circle-down"
@@ -51,4 +51,4 @@ hero_media = "ebau-quimica.svg"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-📝 [Exámenes completos](#ebau-quimica-examenes) | 🗂️ [Por temas](#ebau-quimica-preguntas)
+📝 [Exámenes completos](#examenes) | 🗂️ [Por temas](#preguntas)

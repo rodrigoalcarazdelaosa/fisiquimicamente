@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 22  # Order that this section will appear.
 
-title = "⚗️ Química"
+title = "🎓 EBAU ⚗️ Química"
 subtitle = "📝 Exámenes completos"
 
 [content]
@@ -93,8 +93,8 @@ subtitle = "📝 Exámenes completos"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
   
   # Background image.
   # image = "ebau.jpg"  # Name of image in `static/media/`.
