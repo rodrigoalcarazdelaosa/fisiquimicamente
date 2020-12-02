@@ -18,7 +18,7 @@ subtitle = ""
   icon = "[📚](apuntes)"
   icon_pack = "emoji"
   name = "[Apuntes](apuntes)"
-  description = "[2º ESO](apuntes/2eso) | [3º ESO](#apuntes-3ESO) | [4º ESO](#apuntes-4ESO) <br> [1º Bach](#apuntes-1Bach) | [2º Bach Física](#apuntes-2Bach-fisica) | [2º Bach Química](#apuntes-2Bach-quimica) <br> [Formulación y nomenclatura de Química](#apuntes-formulacion-nomenclatura-quimica)"
+  description = "[2º ESO](apuntes/2eso) | [3º ESO](apuntes/3eso) | [4º ESO](apuntes/4eso) <br> [1º Bach](apuntes/1bach) | [2º Bach Física](apuntes/2bach-fisica) | [2º Bach Química](apuntes/2bach-quimica) <br> [Formulación y nomenclatura de Química](apuntes/formulacion-nomenclatura-quimica)"
   
 [[feature]]
   icon = "[🎓](ebau)"

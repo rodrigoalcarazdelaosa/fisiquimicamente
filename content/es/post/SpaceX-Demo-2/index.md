@@ -494,7 +494,7 @@ La **velocidad aumenta** de forma **no lineal**, alcanzando los 6724$\thinspace$
 
 [^7]: A 20$\thinspace^\circ$C de temperatura, 50$\thinspace$% de humedad y a nivel del mar ([https://es.wikipedia.org/wiki/Velocidad_del_sonido](https://es.wikipedia.org/wiki/Velocidad_del_sonido)).
 
-Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un [movimiento circular uniforme]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}}) &mdash;MCU).
+Es bonito ver cómo en el **SECO** la Dragon deja de acelerar, pues ya no tiene ningún motor impulsándola, manteniéndose su velocidad constante a partir de entonces (describiendo un [movimiento circular uniforme]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-circular-uniforme-mcu" >}}) &mdash;MCU).
 
 #### Velocidad orbital
 
@@ -734,7 +734,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 Se observa claramente que la **aceleración no** es **constante**, aumentando hasta el **MECO**, momento en el que toma incluso valores negativos (recordemos que [la velocidad se ve reducida](#velocidad)). Después vuelve a aumentar hasta valores por encima de los 30$\thinspace$m/s<sup>2</sup> (más de tres veces la aceleración de la gravedad en la superficie de la Tierra), hasta el **SECO**, instante en el que la aceleración tangencial desaparece al no haber ya ningún motor que impulse la nave.
 
 ### ¿Y si suponemos que la aceleración es constante?
-Si la aceleración del cohete fuera constante, entonces su ascenso se podría modelar mediante un [**movimiento rectilíneo uniformemente variado**]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniformemente-variado-mruv" >}}) (MRUV). Viendo la anterior gráfica parece un disparate pensar que pueda ser así, pero no está de más intentarlo como ejercicio mental.
+Si la aceleración del cohete fuera constante, entonces su ascenso se podría modelar mediante un [**movimiento rectilíneo uniformemente variado**]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniformemente-variado-mruv" >}}) (MRUV). Viendo la anterior gráfica parece un disparate pensar que pueda ser así, pero no está de más intentarlo como ejercicio mental.
 
 La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración constante que tendría suponiendo un MRUV, obtenida como la **media artimética**[^9]:
 
@@ -977,7 +977,7 @@ El valor promedio resultante de la aceleración antes del **SECO** es de 14.1$\t
 
 [^10]: En realidad habrá sido mucho peor que esto 🤦‍♂️, pero como dato, decir que un paracaidista suele alcanzar la [velocidad límite](https://es.wikipedia.org/wiki/Velocidad_l%C3%ADmite) (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
 
-Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV (teniendo en cuenta que después del **SECO** la aceleración es nula y por tanto la nave se moverá con un [movimiento rectilíneo uniforme]({{< ref "/apuntes-4eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) o MRU).
+Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV (teniendo en cuenta que después del **SECO** la aceleración es nula y por tanto la nave se moverá con un [movimiento rectilíneo uniforme]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) o MRU).
 
 #### Altitud
 A partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que las expresiones del MRUV o MRU no son válidas, ya que suponen un aumento indefinido.
