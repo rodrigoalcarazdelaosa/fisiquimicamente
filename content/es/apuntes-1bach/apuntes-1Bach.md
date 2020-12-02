@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 9  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "1º Bach"
-subtitle = ""
+title = "📚 Apuntes"
+subtitle = "1º Bach"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-1Bach"
+  page_type = "apuntes-primero-bach"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -69,8 +69,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -84,7 +84,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

@@ -1,5 +1,6 @@
 ---
 title: Movimiento parabólico
+url: "/recursos-fisica-quimica/apuntes/1bach/movimiento-parabolico"
 subtitle: Estudio del tiro parabólico u oblicuo
 summary: Estudio del tiro parabólico u oblicuo.
 breadcrumbs: ["recursos-fisica-quimica","apuntes-1Bach"]

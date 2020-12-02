@@ -1,5 +1,6 @@
 ---
 title: Fuerzas
+url: "/recursos-fisica-quimica/apuntes/4eso/fuerzas"
 subtitle: Leyes de Newton y fuerzas de especial interés
 summary: "Leyes de Newton y fuerzas de especial interés."
 breadcrumbs: ["recursos-fisica-quimica","apuntes-4ESO"]
