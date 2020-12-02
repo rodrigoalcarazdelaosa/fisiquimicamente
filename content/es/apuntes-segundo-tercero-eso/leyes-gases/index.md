@@ -3,7 +3,7 @@ title: Leyes de los gases
 url: "/recursos-fisica-quimica/apuntes/3eso/leyes-gases"
 subtitle: Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac
 summary: "Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac."
-breadcrumbs: ["recursos-fisica-quimica","apuntes-3ESO"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","3eso"]
 tags:
 - 3º ESO
 - gases
