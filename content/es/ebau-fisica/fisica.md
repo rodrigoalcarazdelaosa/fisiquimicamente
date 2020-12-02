@@ -37,7 +37,7 @@ hero_media = "ebau-fisica.svg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "recursos-fisica-quimica/#ebau-fisica-examenes"
+  url = "recursos-fisica-quimica/ebau/fisica/#examenes"
   label = "Comienza a explorar"
   icon_pack = "fas"
   icon = "chevron-circle-down"
@@ -51,4 +51,4 @@ hero_media = "ebau-fisica.svg"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-📝 [Exámenes completos](#ebau-fisica-examenes) | 🗂️ [Por temas](#ebau-fisica-preguntas)
+📝 [Exámenes completos](#examenes) | 🗂️ [Por temas](#preguntas)

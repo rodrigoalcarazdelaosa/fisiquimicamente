@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "☢️ Física"
+title = "🎓 EBAU ☢️ Física"
 subtitle = "🗂️ Por temas"
 
 [content]
@@ -80,11 +80,11 @@ subtitle = "🗂️ Por temas"
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = false  
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
