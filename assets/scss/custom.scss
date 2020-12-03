@@ -38,8 +38,13 @@ body {
   padding: 0rem;
   background-color: transparent;
   border-radius: 0rem;
-  margin-bottom: 0rem;
-  margin-top: 1rem;
+  margin-top: calc(35px - 0.5rem);
+  margin-bottom: -0.5rem;
+  
+  @include media-breakpoint-down(md) {
+    margin-top: calc(25px - 0.5rem);
+  }
+  
 }
 
 .breadcrumb-item.active {
