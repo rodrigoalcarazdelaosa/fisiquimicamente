@@ -1,6 +1,6 @@
 ---
 title: Chemical Equilibrium
-url: "/en/notes-17-18-year-olds-chemistry/chemical-equilibrium"
+url: "/en/physics-chemistry-notes/17-18-year-olds-chemistry/chemical-equilibrium"
 subtitle: Le Chatelier's Principle and Heterogeneous Equilibrium
 summary: "`COMING SOON` <br> Reaction Rate. Law of Mass Action. Le Chatelier's Principle. Heterogeneous Equilibrium."
 breadcrumbs: ["notes","17-18-year-olds-chemistry"]

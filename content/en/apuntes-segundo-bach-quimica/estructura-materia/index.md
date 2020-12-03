@@ -1,6 +1,6 @@
 ---
 title: Structure of Matter
-url: "/en/notes-17-18-year-olds-chemistry/structure-matter"
+url: "/en/physics-chemistry-notes/17-18-year-olds-chemistry/structure-matter"
 subtitle: Quantum Mechanics, Atomic Orbitals and Electronic Structure
 summary: "`COMING SOON` <br> Quantum Mechanics, Atomic Orbitals and Electronic Structure."
 breadcrumbs: ["notes","17-18-year-olds-chemistry"]
