@@ -1,6 +1,6 @@
 ---
 title: Energy
-url: "/en/notes-13-15-year-olds/energy"
+url: "/en/physics-chemistry-notes/13-15-year-olds/energy"
 subtitle: Energy Transformations, Heat and Temperature
 summary: "`COMING SOON` <br> Concept of Energy. Energy Transformations. Heat and Temperature."
 breadcrumbs: ["notes","13-15-year-olds"]

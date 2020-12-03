@@ -1,6 +1,6 @@
 ---
 title: Laws of Gases
-url: "/en/notes-14-15-year-olds/laws-gases"
+url: "/en/physics-chemistry-notes/14-15-year-olds/laws-gases"
 subtitle: Boyle-Mariotte Law, Charles's Law and Gay-Lussac's Law
 summary: "`COMING SOON` <br> Boyle-Mariotte Law, Charles's Law and Gay-Lussac's Law."
 breadcrumbs: ["notes","14-15-year-olds"]

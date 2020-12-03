@@ -1,6 +1,6 @@
 ---
 title: Elements and Compunds
-url: "/en/notes-13-15-year-olds/elements-compounds"
+url: "/en/physics-chemistry-notes/13-15-year-olds/elements-compounds"
 subtitle: Periodic Table, Bonds Between Atoms and Elements and Compounds of Special Interest
 summary: "`COMING SOON` <br> Periodic Table. Bonds Between Atoms. Elements and Compounds of Special Interest."
 breadcrumbs: ["notes","13-15-year-olds"]
