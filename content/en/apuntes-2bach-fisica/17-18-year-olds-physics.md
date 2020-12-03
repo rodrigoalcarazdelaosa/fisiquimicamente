@@ -3,10 +3,10 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "17-18 year-olds"
-subtitle = "Physics"
+title = "📚 Notes"
+subtitle = "17-18 year-olds Physics"
 
 [content]
   # Page type to display. E.g. project.
@@ -84,7 +84,7 @@ subtitle = "Physics"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

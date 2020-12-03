@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 9  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "16-17 year-olds"
-subtitle = ""
+title = "📚 Notes"
+subtitle = "13--14 year-olds"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-primero-bach"
+  page_type = "apuntes-segundo-tercero-eso"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,27 +23,43 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "*"
+    tag = "13-14-year-olds"
+	
+  [[content.filter_button]]
+    name = "Scientific Activity"
+    tag = "scientific-activity"	
+	
+  [[content.filter_button]]
+    name = "Matter"
+    tag = "matter"	
+	
+  [[content.filter_button]]
+    name = "Atomic Structure"
+    tag = "atomic-structure"
+	
+  [[content.filter_button]]
+    name = "Elements and Compounds"
+    tag = "periodic-table"
 	
   [[content.filter_button]]
     name = "Chemical Reactions"
-    tag = "chemical-reactions"		  	
+    tag = "chemical-reactions"	
 	
   [[content.filter_button]]
     name = "Motion"
     tag = "motion"			
-
+	
   [[content.filter_button]]
     name = "Forces"
     tag = "forces"			
 	
   [[content.filter_button]]
-    name = "Gravitation"
-    tag = "gravitation"		
+    name = "Energy"
+    tag = "energy"
 	
   [[content.filter_button]]
-    name = "Energy"
-    tag = "energy"												
+    name = "Electricity-Electronics"
+    tag = "electricity-electronics"				
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -69,8 +85,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -84,7 +100,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

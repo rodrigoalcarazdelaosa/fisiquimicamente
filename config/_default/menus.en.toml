@@ -5,49 +5,49 @@
 
 [[main]]
   name = "📚 Notes"
-  url = "notes/"
+  url = "physics-chemistry-notes/"
   identifier = "apuntes"
   weight = 1
   
 [[main]]
   name = "13-14 year-olds"
-  url = "notes/#13-14-year-olds"
+  url = "physics-chemistry-notes/13-14-year-olds"
   parent = "apuntes"
   weight = 1
 
 [[main]]
   name = "14-15 year-olds"
-  url = "notes/#14-15-year-olds"
+  url = "physics-chemistry-notes/14-15-year-olds"
   parent = "apuntes"
   weight = 2
 
 [[main]]
   name = "15-16 year-olds"
-  url = "notes/#15-16-year-olds"
+  url = "physics-chemistry-notes/15-16-year-olds"
   parent = "apuntes"
   weight = 3
 
 [[main]]
   name = "16-17 year-olds"
-  url = "notes/#16-17-year-olds"
+  url = "physics-chemistry-notes/16-17-year-olds"
   parent = "apuntes"
   weight = 4
 
 [[main]]
   name = "17-18 year-olds Physics"
-  url = "notes/#17-18-year-olds-physics"
+  url = "physics-chemistry-notes/17-18-year-olds-physics"
   parent = "apuntes"
   weight = 5
   
 [[main]]
   name = "17-18 year-olds Chemistry"
-  url = "notes/#17-18-year-olds-chemistry"
+  url = "physics-chemistry-notes/17-18-year-olds-chemistry"
   parent = "apuntes"
   weight = 6  
   
 [[main]]
   name = "Nomenclature of Chemistry"
-  url = "notes/#nomenclature-chemistry"
+  url = "physics-chemistry-notes/nomenclature-chemistry"
   parent = "apuntes"
   weight = 7  
 

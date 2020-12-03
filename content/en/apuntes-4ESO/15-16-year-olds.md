@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "Nomenclature of Chemistry"
-subtitle = "IUPAC Recommendations"
+title = "📚 Notes"
+subtitle = "15--16 year-olds"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-formulacion"
+  page_type = "apuntes-cuarto-eso"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -20,18 +20,46 @@ subtitle = "IUPAC Recommendations"
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  	
+  
   [[content.filter_button]]
     name = "All"
     tag = "*"
-
-  [[content.filter_button]]
-    name = "Inorganic"
-    tag = "inorganic"
 	
   [[content.filter_button]]
-    name = "Organic"
-    tag = "organic"												
+    name = "Scientific Activity"
+    tag = "scientific-activity"
+	
+  [[content.filter_button]]
+    name = "Atomic Models"
+    tag = "atomic-structure"
+	
+  [[content.filter_button]]
+    name = "Periodic Table"
+    tag = "periodic-table"	
+	
+  [[content.filter_button]]
+    name = "Chemical Bond"
+    tag = "chemical-bond"	
+	
+  [[content.filter_button]]
+    name = "Chemical Reactions"
+    tag = "chemical-reactions"		
+	
+  [[content.filter_button]]
+    name = "Motion"
+    tag = "motion"		
+	
+  [[content.filter_button]]
+    name = "Forces"
+    tag = "forces"				 		
+	
+  [[content.filter_button]]
+    name = "Fluids"
+    tag = "fluids"			
+	
+  [[content.filter_button]]
+    name = "Energy"
+    tag = "energy"											
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

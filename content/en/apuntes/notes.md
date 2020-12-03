@@ -20,8 +20,8 @@ hero_media = "apuntes.svg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -32,15 +32,22 @@ hero_media = "apuntes.svg"
   
   # Text color (true=light or false=dark).
   text_color_light = true
+  
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+ 
+ # CSS class.
+ css_class = ""  
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "notes/#13-14-year-olds"
-  label = "Start exploring"
-  icon_pack = "fas"
-  icon = "chevron-circle-down"
+#[cta]
+#  url = "notes/#13-14-year-olds"
+#  label = "Start exploring"
+#  icon_pack = "fas"
+#  icon = "chevron-circle-down"
   
 # [cta_alt]
   # url = "https://sourcethemes.com/academic/"
@@ -53,4 +60,4 @@ hero_media = "apuntes.svg"
 
 In **Text**, **Slides** and **Poster** (*Cheat Sheet*) Format
 
-[13--14 year-olds](#13-14-year-olds) | [14--15 year-olds](#14-15-year-olds) | [15--16 year-olds](#15-16-year-olds) <br> [16--17 year-olds](#16-17-year-olds) | [17--18 year-olds Physics](#17-18-year-olds-physics) | [17--18 year-olds Chemistry](#17-18-year-olds-chemistry) <br> [Nomenclature of Chemistry](#nomenclature-chemistry)
+[13--14 year-olds](13-14-year-olds) | [14--15 year-olds](14-15-year-olds) | [15--16 year-olds](15-16-year-olds) <br> [16--17 year-olds](16-17-year-olds) | [17--18 year-olds Physics](17-18-year-olds-physics) | [17--18 year-olds Chemistry](17-18-year-olds-chemistry) <br> [Nomenclature of Chemistry](nomenclature-chemistry)

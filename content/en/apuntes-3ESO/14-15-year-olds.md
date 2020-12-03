@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 7  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "15-16 year-olds"
-subtitle = ""
+title = "📚 Notes"
+subtitle = "14--15 year-olds"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-cuarto-eso"
+  page_type = "apuntes-segundo-tercero-eso"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,43 +23,39 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "*"
+    tag = "14-15-year-olds"	
 	
   [[content.filter_button]]
     name = "Scientific Activity"
-    tag = "scientific-activity"
+    tag = "scientific-activity"	
 	
   [[content.filter_button]]
-    name = "Atomic Models"
+    name = "Matter"
+    tag = "matter"		
+	
+  [[content.filter_button]]
+    name = "Gases"
+    tag = "gases"		
+	
+  [[content.filter_button]]
+    name = "Atomic Structure"
     tag = "atomic-structure"
 	
   [[content.filter_button]]
-    name = "Periodic Table"
-    tag = "periodic-table"	
-	
-  [[content.filter_button]]
-    name = "Chemical Bond"
-    tag = "chemical-bond"	
+    name = "Elements and Compounds"
+    tag = "periodic-table"		
 	
   [[content.filter_button]]
     name = "Chemical Reactions"
-    tag = "chemical-reactions"		
-	
-  [[content.filter_button]]
-    name = "Motion"
-    tag = "motion"		
-	
-  [[content.filter_button]]
-    name = "Forces"
-    tag = "forces"				 		
-	
-  [[content.filter_button]]
-    name = "Fluids"
-    tag = "fluids"			
+    tag = "chemical-reactions"			
 	
   [[content.filter_button]]
     name = "Energy"
-    tag = "energy"											
+    tag = "energy"
+	
+  [[content.filter_button]]
+    name = "Electricity-Electronics"
+    tag = "electricity-electronics"					
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -100,7 +96,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

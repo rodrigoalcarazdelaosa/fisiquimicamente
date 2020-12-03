@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 5  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "14-15 year-olds"
-subtitle = ""
+title = "📚 Notes"
+subtitle = "17-18 year-olds Chemistry"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-segundo-tercero-eso"
+  page_type = "apuntes-segundo-bach-quimica"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -23,39 +23,35 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "All"
-    tag = "14-15-year-olds"	
+    tag = "*"
 	
   [[content.filter_button]]
-    name = "Scientific Activity"
-    tag = "scientific-activity"	
-	
-  [[content.filter_button]]
-    name = "Matter"
-    tag = "matter"		
-	
-  [[content.filter_button]]
-    name = "Gases"
-    tag = "gases"		
-	
-  [[content.filter_button]]
-    name = "Atomic Structure"
+    name = "Structure of Matter"
     tag = "atomic-structure"
 	
   [[content.filter_button]]
-    name = "Elements and Compounds"
-    tag = "periodic-table"		
+    name = "Periodic Table"
+    tag = "periodic-table"	
 	
   [[content.filter_button]]
-    name = "Chemical Reactions"
-    tag = "chemical-reactions"			
+    name = "Chemical Bond"
+    tag = "chemical-bond"	
 	
   [[content.filter_button]]
-    name = "Energy"
-    tag = "energy"
+    name = "Chemical Equilibrium"
+    tag = "chemical-equilibrium"		
 	
   [[content.filter_button]]
-    name = "Electricity-Electronics"
-    tag = "electricity-electronics"					
+    name = "Acid-Base"
+    tag = "acid-base"			
+	
+  [[content.filter_button]]
+    name = "Redox"
+    tag = "redox"					
+	
+  [[content.filter_button]]
+    name = "Organic Chemistry"
+    tag = "organic-chemistry"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -81,8 +77,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -96,7 +92,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

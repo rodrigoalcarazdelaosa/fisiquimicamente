@@ -3,14 +3,14 @@
 widget = "apuntes"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 13  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "17-18 year-olds"
-subtitle = "Chemistry"
+title = "📚 Notes"
+subtitle = "Nomenclature of Chemistry"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "apuntes-segundo-bach-quimica"
+  page_type = "apuntes-formulacion"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -20,38 +20,18 @@ subtitle = "Chemistry"
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  
+  	
   [[content.filter_button]]
     name = "All"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Inorganic"
+    tag = "inorganic"
 	
   [[content.filter_button]]
-    name = "Structure of Matter"
-    tag = "atomic-structure"
-	
-  [[content.filter_button]]
-    name = "Periodic Table"
-    tag = "periodic-table"	
-	
-  [[content.filter_button]]
-    name = "Chemical Bond"
-    tag = "chemical-bond"	
-	
-  [[content.filter_button]]
-    name = "Chemical Equilibrium"
-    tag = "chemical-equilibrium"		
-	
-  [[content.filter_button]]
-    name = "Acid-Base"
-    tag = "acid-base"			
-	
-  [[content.filter_button]]
-    name = "Redox"
-    tag = "redox"					
-	
-  [[content.filter_button]]
-    name = "Organic Chemistry"
-    tag = "organic-chemistry"		
+    name = "Organic"
+    tag = "organic"												
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -77,8 +57,8 @@ subtitle = "Chemistry"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
@@ -92,7 +72,7 @@ subtitle = "Chemistry"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
