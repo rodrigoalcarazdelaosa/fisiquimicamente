@@ -122,6 +122,13 @@
 	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 	    </nav>
+    {{ else if and (eq $widget "featurette") (eq $st.Title "⚛️ Recursos de Física y Química") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">⚛️ Recursos FyQ</li>
+	    </ol>
+	    </nav>			
     {{ else if and (eq $widget "hero") (eq $st.Title "📚 Apuntes de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
@@ -130,13 +137,13 @@
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apuntes</li>
 	    </ol>
 	    </nav>	
-    {{ else if and (eq $widget "featurette") (eq $st.Title "⚛️ Recursos de Física y Química") }}
+    {{ else if and (eq $widget "hero") (eq $st.Title "📚 Physics and Chemistry Notes") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
-	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>
-	        <li class="breadcrumb-item active" aria-current="page">⚛️ Recursos FyQ</li>
+	    	<li class="breadcrumb-item"><a href="/en/">Home</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">📚 Notes</li>
 	    </ol>
-	    </nav>			
+	    </nav>					
     {{ else if and (eq $widget "featurette") (eq $st.Title "🎓 Recursos EBAU <br> (Cantabria)") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
