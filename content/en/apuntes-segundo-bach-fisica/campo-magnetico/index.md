@@ -1,6 +1,6 @@
 ---
 title: Magnetic Field
-url: "/en/notes-17-18-year-olds-physics/magnetic-field"
+url: "/en/physics-chemistry-notes/17-18-year-olds-physics/magnetic-field"
 subtitle: Magnetic Flux and Electromagnetic Induction
 summary: "`COMING SOON` <br> Magnetic Field. Magnetic Flux. Electromagnetic Induction."
 breadcrumbs: ["notes","17-18-year-olds-physics"]

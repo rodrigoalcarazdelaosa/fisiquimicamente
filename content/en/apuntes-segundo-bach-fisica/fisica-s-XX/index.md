@@ -1,6 +1,6 @@
 ---
 title: 20th Century Physics
-url: "/en/notes-17-18-year-olds-physics/20th-century-physics"
+url: "/en/physics-chemistry-notes/17-18-year-olds-physics/20th-century-physics"
 subtitle: Relativity, Quantum Physics, Nuclear Physics and Radioactivity
 summary: "`COMING SOON` <br> Relativity, Quantum Physics, Nuclear Physics and Radioactivity."
 breadcrumbs: ["notes","17-18-year-olds-physics"]
