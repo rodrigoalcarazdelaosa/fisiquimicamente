@@ -1,6 +1,6 @@
 ---
 title: Scientific Activity
-url: "/en/notes-15-16-year-olds/scientific-activity"
+url: "/en/physics-chemistry-notes/15-16-year-olds/scientific-activity"
 subtitle: Scalar and Vector Magnitudes, Dimensional Analysis, Errors in Measurement and Expression of Results
 summary: "`COMING SOON` <br> Scalar and Vector Magnitudes. Dimensional Analysis. Errors in Measurement. Expression of Results."
 breadcrumbs: ["notes","15-16-year-olds"]

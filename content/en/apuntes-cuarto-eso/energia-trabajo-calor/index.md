@@ -1,6 +1,6 @@
 ---
 title: Energy, Work and Heat
-url: "/en/notes-15-16-year-olds/energy-work-heat"
+url: "/en/physics-chemistry-notes/15-16-year-olds/energy-work-heat"
 subtitle: Energy and its Forms of Exchange (Work and Heat)
 summary: "`COMING SOON` <br> Energy and its Forms of Exchange (Work and Heat)."
 breadcrumbs: ["notes","15-16-year-olds"]
