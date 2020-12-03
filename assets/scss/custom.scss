@@ -54,6 +54,11 @@ div#navbar-navidad {
   right: 0;
   margin-left: auto;
   margin-right: auto;
+  background-size: contain;
+  background-repeat: repeat-x;
+  background-image: url("/media/navbar-navidad.svg");
+  height: 35px;
+  width: auto;
 
   @include media-breakpoint-down(md) {
     top: 50px;
