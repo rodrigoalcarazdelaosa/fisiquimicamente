@@ -110,7 +110,7 @@
   	{{/* Custom breadcrumbs in widget_pages */}}
 	{{ if eq $widget "apuntes" }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">
 			{{ if eq site.Language.Lang "es" }}      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
@@ -124,14 +124,14 @@
 	    </nav>
     {{ else if and (eq $widget "featurette") (eq $st.Title "⚛️ Recursos de Física y Química") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">⚛️ Recursos FyQ</li>
 	    </ol>
 	    </nav>			
     {{ else if and (eq $widget "hero") (eq $st.Title "📚 Apuntes de Física y Química") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apuntes</li>
@@ -139,14 +139,14 @@
 	    </nav>	
     {{ else if and (eq $widget "hero") (eq $st.Title "📚 Physics and Chemistry Notes") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/en/">Home</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">📚 Notes</li>
 	    </ol>
 	    </nav>					
     {{ else if and (eq $widget "featurette") (eq $st.Title "🎓 Recursos EBAU <br> (Cantabria)") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">🎓 EBAU</li>
@@ -154,7 +154,7 @@
 	    </nav>	
     {{ else if and (eq $widget "hero") (eq $st.Title "🎓 EBAU ☢️ Física") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
 	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
@@ -163,7 +163,7 @@
 	    </nav>	
     {{ else if and (eq $widget "hero") (eq $st.Title "🎓 EBAU ⚗️ Química") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
 	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
@@ -172,7 +172,7 @@
 	    </nav>	
     {{ else if and (eq $widget "blank") (eq $st.Params.subtitle "💡Consejos") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
 	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
@@ -181,7 +181,7 @@
 	    </nav>	
     {{ else if and (eq $widget "hero") (eq $st.Title "📝 Oposiciones") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">📝 Oposiciones</li>
@@ -189,7 +189,7 @@
 	    </nav>	
     {{ else if and (eq $widget "portfolio") (eq $st.Params.subtitle "Ejercicios resueltos de ☢️ Física") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
 	        <li class="breadcrumb-item">📝 <a href="/recursos-fisica-quimica/oposiciones">Oposiciones</a></li>			
@@ -198,7 +198,7 @@
 	    </nav>	
     {{ else if and (eq $widget "portfolio") (eq $st.Params.subtitle "Ejercicios resueltos de ⚗️ Química") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb" style="margin-top:0; margin-bottom: 1rem">      
+	    <ol class="breadcrumb" style="margin-top:0px; margin-bottom: 15px;">      
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
 	        <li class="breadcrumb-item">📝 <a href="/recursos-fisica-quimica/oposiciones">Oposiciones</a></li>			
