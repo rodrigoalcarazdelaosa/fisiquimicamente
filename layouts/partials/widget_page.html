@@ -107,6 +107,24 @@
    <div class="home-section-bg {{if $bg.image}} bg-image{{if ($bg.image_parallax | default true) }} parallax{{end}}{{end}}" {{with $style_bg}}style="{{. | safeCSS}}"{{end}}></div>
     {{if $use_container}}<div class="container">{{end}}
 		
+  	{{/* Custom breadcrumbs in widget_pages */}}
+	{{ if eq $widget "apuntes" }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb" style="margin-top:0">
+			{{ if eq site.Language.Lang "es" }}      
+	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
+	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
+	        <li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/apuntes/">Apuntes</a></li>
+			{{ else if eq site.Language.Lang "en" }}
+		  	<li class="breadcrumb-item"><a href="/en/">Home</a></li>
+			<li class="breadcrumb-item">📚 <a href="/en/physics-chemistry-notes/">Notes</a></li>
+		    {{ end }}			
+	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
+	    </ol>
+	    </nav>
+    {{end}}
+		
+  	{{/* Special case widget novedades */}}
 	{{ if eq $widget "novedades" }}
 	  <div class="row justify-content-center">
           <div class="col-12 section-heading text-center">
@@ -121,9 +139,9 @@
 		  
 	  </div>
 	  
-	{{else}}	  	
+	{{ else }}
 
-    {{if $use_cols}}	
+    {{if $use_cols}}
       <div class="row  {{if not $st.Title | or (eq $columns "1") }}justify-content-center{{end}}">
       {{ if $st.Title }}
         {{ if eq $columns "1" }}
