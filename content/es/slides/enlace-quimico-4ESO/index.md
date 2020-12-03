@@ -13,7 +13,7 @@ slides:
 # Enlace químico
 
 - [Regla del octeto](#/1)
-- [Diagramas de Lewis](#/2)
+- [Estructuras de Lewis](#/2)
 - [Enlace iónico](#/3)
 - [Enlace covalente](#/4)
 - [Enlace metálico](#/5)
@@ -43,7 +43,7 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 
 {{% section %}}
 
-## Diagramas de Lewis
+## Estructuras de Lewis
 
 Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula.
 
