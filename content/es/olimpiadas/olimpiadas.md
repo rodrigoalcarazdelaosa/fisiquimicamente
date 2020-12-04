@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "📝 Oposiciones"
+title = "🏅 Olimpiadas"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "oposiciones.svg"
+hero_media = "olimpiadas.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -59,7 +59,3 @@ hero_media = "oposiciones.svg"
 +++
 
 ☢️ [Física](fisica) | ⚗️ [Química](quimica)
-
-{{% callout note %}}
-**Ejercicios resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}**. Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
-{{% /callout %}}

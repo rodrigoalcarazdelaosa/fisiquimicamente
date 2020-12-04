@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "📝 Oposiciones"
+title = "🏅 Olimpiadas ☢️ Física"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "oposiciones.svg"
+hero_media = "olimpiadas-fisica.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -38,16 +38,16 @@ hero_media = "oposiciones.svg"
  css_style = "padding-bottom: 0px;"
  
  # CSS class.
- css_class = ""
+ css_class = ""  
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-# [cta]
- # url = "recursos-fisica-quimica/#apuntes-2ESO"
- # label = "Comienza a explorar"
- # icon_pack = "fas"
- # icon = "chevron-circle-down"
+[cta]
+  url = "https://rsef.es/problemas-de-la-oef"
+  label = "Accede aquí"
+  icon_pack = "fas"
+  icon = "chevron-circle-down"
   
 # [cta_alt]
   # url = "https://sourcethemes.com/academic/"
@@ -58,8 +58,6 @@ hero_media = "oposiciones.svg"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-☢️ [Física](fisica) | ⚗️ [Química](quimica)
-
 {{% callout note %}}
-**Ejercicios resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}**. Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
+Enunciados y soluciones *oficiales* de la Real Sociedad Española de Física (RSEF).
 {{% /callout %}}

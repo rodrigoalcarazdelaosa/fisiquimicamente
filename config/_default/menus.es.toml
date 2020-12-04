@@ -22,10 +22,16 @@
   weight = 2
   
 [[main]]
+  name = "🏅 Olimpiadas"
+  url = "recursos-fisica-quimica/olimpiadas"
+  parent = "recursos-fyq"
+  weight = 3  
+  
+[[main]]
   name = "📝 Oposiciones"
   url = "recursos-fisica-quimica/oposiciones"
   parent = "recursos-fyq"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "👐 Tutoriales"

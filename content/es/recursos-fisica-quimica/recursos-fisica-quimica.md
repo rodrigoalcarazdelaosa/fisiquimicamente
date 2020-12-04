@@ -1,6 +1,6 @@
 +++
 # A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featurette-4"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
@@ -25,6 +25,12 @@ subtitle = ""
   icon_pack = "emoji"
   name = "[EBAU](ebau)"
   description = "☢️ [Física](ebau/fisica) | ⚗️ [Química](ebau/quimica) | 💡 [Consejos](ebau/consejos)"
+  
+[[feature]]
+  icon = "[🏅](olimpiadas)"
+  icon_pack = "emoji"
+  name = "[Olimpiadas](olimpiadas)"
+  description = "☢️ [Física](olimpiadas/fisica) | ⚗️ [Química](olimpiadas/quimica)"  
   
 [[feature]]
   icon = "[📝](oposiciones)"
