@@ -23,7 +23,7 @@
   {{ end }}
   <div class="col-12 col-sm-6">
     {{ with .icon }}
-    <div class="featurette-icon" style="font-size: 4rem;">
+    <div class="featurette-icon">
       {{- if eq $pack "emoji" -}}
         <span>{{- . | markdownify | emojify -}}</span>
       {{- else if eq $pack "custom" -}}

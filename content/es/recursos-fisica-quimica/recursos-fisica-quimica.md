@@ -37,8 +37,8 @@ subtitle = ""
   icon_pack = "emoji"
   name = "[Oposiciones](oposiciones)"
   description = "☢️ [Física](oposiciones/fisica) | ⚗️ [Química](oposiciones/quimica)"
-  
-  
+   
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
