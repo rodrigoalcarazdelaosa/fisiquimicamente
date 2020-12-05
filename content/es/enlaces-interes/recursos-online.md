@@ -40,6 +40,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Juegos"
     tag = "juegos"	
+	
+  [[content.filter_button]]
+    name = "Olimpiadas"
+    tag = "olimpiadas"		
 
   [[content.filter_button]]
     name = "Simulaciones"

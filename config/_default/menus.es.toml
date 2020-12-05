@@ -22,22 +22,16 @@
   weight = 2
   
 [[main]]
-  name = "🏅 Olimpiadas"
-  url = "recursos-fisica-quimica/olimpiadas"
-  parent = "recursos-fyq"
-  weight = 3  
-  
-[[main]]
   name = "📝 Oposiciones"
   url = "recursos-fisica-quimica/oposiciones"
   parent = "recursos-fyq"
-  weight = 4
+  weight = 3
 
 [[main]]
   name = "👐 Tutoriales"
   url = "tutoriales/"  
   identifier = "tutoriales"
-  weight = 3
+  weight = 2
   
 [[main]]
   name = "$\\LaTeX$"
@@ -55,7 +49,7 @@
   name = "🔗 Enlaces de interés"
   url = "enlaces-interes/"  
   identifier = "enlaces-interes"
-  weight = 4
+  weight = 3
   
 [[main]]
   name = "Recursos online"
@@ -73,7 +67,7 @@
   name = "🗞️ Novedades"
   url = "#novedades"
   identifier = "novedades"
-  weight = 5
+  weight = 4
 
 [[main]]
   name = "Twitter"
@@ -91,7 +85,7 @@
   name = "👨‍🔬 Sobre mí"
   url = "sobre-mi/"
   identifier = "sobre-mi"
-  weight = 6
+  weight = 5
   
 [[main]]
   name = "👨‍🔬 Intereses y formación"
@@ -114,7 +108,7 @@
 [[main]]
   name = "✉️ Contacto"
   url = "#contacto"
-  weight = 7  
+  weight = 6  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

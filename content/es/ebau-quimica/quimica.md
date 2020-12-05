@@ -1,6 +1,6 @@
 +++
 # A Skills section created with the Featurette widget.
-widget = "featurette-2"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
@@ -25,6 +25,9 @@ subtitle = ""
   icon_pack = "emoji"
   name = "[Por temas](#preguntas)"
   description = ""
+
+[design]
+  columns = "2"  
   
 [design.background]
   # Apply a background color, gradient, or image.

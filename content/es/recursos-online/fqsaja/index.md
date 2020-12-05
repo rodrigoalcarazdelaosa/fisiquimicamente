@@ -5,7 +5,7 @@ tags:
 - fyq
 categories:
 - Física
-- química
+- Química
 
 # Optional external URL for project (replaces project detail page).
 external_link: http://www.fqsaja.com
