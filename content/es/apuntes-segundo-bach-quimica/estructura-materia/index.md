@@ -157,6 +157,10 @@ A partir de **experimentos** de **difracción** de **electrones**, **Louis de Br
 	$$
 	siendo $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ la constante de Planck.
 	
+En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) puedes aprender más sobre la **dualidad onda-corpúsculo**.
+
+{{< youtube qCmtegdqOOA >}}	
+	
 ### Principio de incertidumbre de Heisenberg
 
 > Existen ciertos pares de magnitudes físicas (aquellas cuyo producto tiene dimensiones de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no pueden ser determinadas simultáneamente con total exactitud, pues el producto de sus incertidumbres ha de ser mayor o igual que $h/(4\pi) = \hbar/2$.

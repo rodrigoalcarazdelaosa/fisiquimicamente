@@ -217,7 +217,7 @@ donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante
 ## Mecánica cuántica
 
 - [Dualidad onda-corpúsculo](#/3/1)
-- [Principio de incertidumbre de Heisenberg](#/3/4)
+- [Principio de incertidumbre de Heisenberg](#/3/5)
 
 (continúa hacia abajo)
 
@@ -241,6 +241,12 @@ A partir de **experimentos** de **difracción** de **electrones**, **Louis de Br
 	\lambda = \frac{h}{mv},
 	$$
 	siendo $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ la constante de Planck.
+
+---
+
+En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) puedes aprender más sobre la **dualidad onda-corpúsculo**.
+
+{{< youtube qCmtegdqOOA >}}
 
 ---	
 	
