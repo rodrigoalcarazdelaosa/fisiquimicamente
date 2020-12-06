@@ -89,6 +89,56 @@ $$
 
 donde $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocidad de la luz en el vacío.
 
+{{< spoiler text="¿Te gustan las <strong>matemáticas</strong> y quieres saber más sobre el <strong>modelo</strong> de <strong>Bohr</strong>, llegando a <strong>deducir</strong> la <strong>ecuación</strong> de <strong>Rydberg</strong>? Pincha aquí" >}}
+
+La **ecuación** de **Rydberg** nos permite calcular el **valor energético** correspondiente a una **transición electrónica** entre dos niveles dados, $\Delta E$. Vamos a escribir lo primero la expresión que nos da la **energía total** de un **electrón** moviéndose en una **órbita** (supuesta circular):
+$$
+E = E_\mathrm c + E_\mathrm p,
+$$
+donde $E_\mathrm c$ es la energía cinética y $E_\mathrm p$ la energía potencial eléctrica del electrón:
+\begin{align*}
+E_\mathrm c &= \frac{1}{2}mv^2 \\\\
+E_\mathrm p &= -\frac{ke^2}{r}
+\end{align*}
+
+La única fuerza a la que está sometido el electrón es la **fuerza** de **atracción eléctrica** por parte del núcleo. Esta fuerza por tanto actuará como **fuerza centrípeta**:
+
+\begin{align}
+\lvert F_\mathrm e\rvert &= \lvert f_\mathrm c\rvert \\\\
+\frac{ke^2}{r^2} &= \frac{mv^2}{r} \rightarrow mv^2 = \frac{ke^2}{r}
+\end{align}
+
+Por lo que podemos escribir la energía total como:
+
+$$
+E = \frac{1}{2}\frac{ke^2}{r}-\frac{ke^2}{r} = -\frac{1}{2}\frac{ke^2}{r}
+$$
+
+El **segundo postulado** del **modelo** de **Bohr** impone una condición para las **órbitas permitidas**, lo que significa que el **radio** de la **órbita**, $r$, está **cuantizado**:
+\begin{align*}
+mvr &= n\hbar \\\\
+v &= \frac{n\hbar}{mr} \rightarrow v^2 = \frac{n^2\hbar^2}{m^2r^2}
+\end{align*}
+
+Sustituyendo en la anterior relación obtenida a partir de la fuerza centrípeta:
+
+\begin{align*}
+mv^2 &= \frac{ke^2}{r} \\\\
+\frac{n^2\hbar^2}{mr^2} &= \frac{ke^2}{r} \rightarrow r = \frac{n^2\hbar^2}{ke^2m}
+\end{align*}
+
+Por lo que podemos escribir la energía total como:
+$$
+E = -\frac{1}{2}\frac{ke^2}{r} = -\frac{k^2e^4m}{2n^2\hbar^2} = -\frac{\mathrm{cte}}{n^2},
+$$
+
+donde $\mathrm{cte} = k^2e^4m/(2\hbar^2)$ puede escribirse como $\mathrm{cte} = hcR$, siendo $R$ la **constante** de **Rydberg**. La **variación** de **energía** entre dos niveles dados es por tanto:
+
+$$
+\Delta E = hcR\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right)
+$$
+
+{{< /spoiler >}}
 
 ## Orígenes de la teoría cuántica
 
