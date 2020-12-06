@@ -228,6 +228,8 @@ Utilizando la ecuación (3)
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="false" width="100%" >}}
 {{% /callout %}}
 
+{{< figure library="true" src="movimientos-4ESO/bola-billar-fqsaja.jpg" title="Fotografía de una bola de billar cayendo. Tomada por el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com). Más información [aquí](https://twitter.com/fqsaja1/status/1334197067279966208)." lightbox="true" >}}
+
 ## Encuentros
 Se trata de situaciones en las que dos cuerpos, típicamente moviéndose con un MRU o un MRUA, comienzan en posiciones distintas y acaban encontrándose al cabo de un cierto tiempo.
 

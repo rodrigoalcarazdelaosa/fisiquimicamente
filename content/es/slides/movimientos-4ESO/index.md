@@ -261,6 +261,10 @@ Utilizando la ecuación (3)
 	
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" lightbox="false" width="25%" >}}
 
+---
+
+{{< figure library="true" src="movimientos-4ESO/bola-billar-fqsaja.jpg" lightbox="false" width="40%" >}}
+
 {{% /section %}}
 
 ---
