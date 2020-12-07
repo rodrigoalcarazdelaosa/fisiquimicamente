@@ -8,6 +8,6 @@ google_fonts = "family=Cabin+Sketch:wght@400;700&family=Cabin:ital,wght@0,400..7
 heading_font = "Cabin Sketch"
 
 body_font = "EB Garamond"
-nav_font = "EB Garamond"
+nav_font = "Cabin"
 
 mono_font = "Inconsolata"
