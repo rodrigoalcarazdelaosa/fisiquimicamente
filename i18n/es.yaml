@@ -157,6 +157,18 @@
   translation: Charlas
 - id: projects
   translation: Proyectos
+- id: apuntes-segundo-tercero-eso
+  translation: Apuntes 2º ESO &ndash; 3º ESO
+- id: apuntes-cuarto-eso
+  translation: Apuntes 4º ESO
+- id: apuntes-primero-bach
+  translation: Apuntes 1º Bach
+- id: apuntes-segundo-bach-fisica
+  translation: Apuntes 2º Bach Física
+- id: apuntes-segundo-bach-quimica
+  translation: Apuntes 2º Bach Química
+- id: apuntes-formulacion
+  translation: Apuntes Formulación Nomenclatura Química       
 - id: slides
   translation: Diapositivas
 

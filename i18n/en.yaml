@@ -207,6 +207,24 @@
 
 - id: projects
   translation: Projects
+  
+- id: apuntes-segundo-tercero-eso
+  translation: Notes 13&ndash;15 year-olds
+
+- id: apuntes-cuarto-eso
+  translation: Notes 15&ndash;16 year-olds
+
+- id: apuntes-primero-bach
+  translation: Notes 16&ndash;17 year-olds 
+  
+- id: apuntes-segundo-bach-fisica
+  translation: Notes 17&ndash;18 year-olds Physics
+  
+- id: apuntes-segundo-bach-quimica
+  translation: Notes 17&ndash;18 year-olds Chemistry
+  
+- id: apuntes-formulacion
+  translation: Notes Nomenclature Chemistry           
 
 - id: slides
   translation: Slides
