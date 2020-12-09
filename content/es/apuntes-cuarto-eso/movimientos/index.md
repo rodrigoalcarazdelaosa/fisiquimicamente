@@ -162,6 +162,15 @@ $$
 $$
 {{% /callout %}}
 
+### Práctica virtual
+También puedes ver este excelente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos enseñan cómo realizar una **práctica virtual** relacionada con el **MRUA**:
+
+{{< youtube d0lk0yRqzqA >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1ZC17GJcqX3h8rHlfdS43T9uBSkDrR8Oo/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
+
 ## Caída libre/lanzamiento vertical
 La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el que la aceleración es igual a la aceleración de la **gravedad**. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
 

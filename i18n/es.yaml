@@ -186,7 +186,7 @@
 # Error 404
   
 - id: page_not_found
-  translation: Página no encontrada
+  translation: 😱Página no encontrada😱
 - id: 404_recommendations
   translation: ¿Buscabas una de estas?
   
