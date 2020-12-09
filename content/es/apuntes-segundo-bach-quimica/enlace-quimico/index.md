@@ -35,3 +35,7 @@ Apuntes sobre enlace químico, en formato texto y póster (tipo _chuleta_).
 {{% callout note %}}
 Próximamente...
 {{% /callout %}}
+
+<!-- https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/ -->
+
+<!-- https://www.youtube.com/watch?v=LNsSS6Id6bM -->
