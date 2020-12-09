@@ -165,7 +165,7 @@ $$
 ### Práctica virtual
 También puedes ver este excelente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos enseñan cómo realizar una **práctica virtual** relacionada con el **MRUA**:
 
-{{< youtube d0lk0yRqzqA >}}
+{{< youtube PhfYb7y8cXY >}}
 
 {{% callout gdrive %}}
 [Aquí](https://drive.google.com/file/d/1ZC17GJcqX3h8rHlfdS43T9uBSkDrR8Oo/view) puedes descargarte el **guión** de la **práctica**. 
