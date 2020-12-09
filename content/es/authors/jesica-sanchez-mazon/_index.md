@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Jésica Sánchez Mazón"
+url: "/autor/jesica-sanchez-mazon"
 
 # Username (this should match the folder name)
 authors:
