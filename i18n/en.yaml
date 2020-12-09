@@ -228,6 +228,9 @@
 
 - id: slides
   translation: Slides
+  
+- id: authors
+  translation: Authors  
 
 # Search
 
