@@ -71,7 +71,8 @@ Electrones de valencia $\mathrm{2s^1}$
 Siendo el apantallamiento total $2<a<3$, por lo que $1<Z_\mathrm{eff}<2$.
 
 ## Propiedades periódicas
-{{< figure library="true" src="sistema-periodico-2Bach-quimica/variacion-propiedades.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Periodic_trends.svg." lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="sistema-periodico-2Bach-quimica/variacion-propiedades.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Periodic_trends.svg. También puedes ver cómo varían muchas propiedades con [esta **tabla periódica** en **3D**](https://periodic.donghwi.dev)." lightbox="false" width="100%" >}}
 
 ### Radio atómico $r$
 Definimos el **radio atómico** de un elemento como la **mitad** de la **distancia internuclear** mínima que presenta una **molécula diatómica** de ese elemento en estado sólido.
