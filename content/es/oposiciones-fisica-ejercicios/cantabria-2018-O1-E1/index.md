@@ -12,6 +12,9 @@ tags:
 categories:
 - Física
 
+_build:
+  render: never
+
 # Optional external URL for project (replaces project detail page).
 external_link: "https://rodrigoalcarazdelaosa.me/recursos-fisica-quimica/oposiciones/fisica/cantabria-2018-o1-e1/cantabria-2018-o1-e1.pdf"
 ---

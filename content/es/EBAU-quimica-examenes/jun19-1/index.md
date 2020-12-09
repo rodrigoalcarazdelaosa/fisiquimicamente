@@ -8,6 +8,9 @@ tags:
 categories:
 - Química
 
+_build:
+  render: never
+
 # Optional external URL for project (replaces project detail page).
 external_link: https://drive.google.com/file/d/1_7suE1IghDvjLu-fYgqwRsb-Co5gxxLb/view
 ---

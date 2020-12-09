@@ -8,6 +8,9 @@ tags:
 categories:
 - Física
 
+_build:
+  render: never
+
 # Optional external URL for project (replaces project detail page).
 external_link: https://drive.google.com/file/d/16rjUtiAzqEN1x09YDbkYkQ_Ksm22ACe9/view
 ---
