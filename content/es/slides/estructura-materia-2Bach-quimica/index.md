@@ -244,7 +244,7 @@ A partir de **experimentos** de **difracción** de **electrones**, **Louis de Br
 
 ---
 
-En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) puedes aprender más sobre la **dualidad onda-corpúsculo**.
+En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) puedes aprender más sobre la **dualidad onda-corpúsculo**:
 
 {{< youtube qCmtegdqOOA >}}
 
