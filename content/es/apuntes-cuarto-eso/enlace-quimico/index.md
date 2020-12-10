@@ -91,7 +91,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 ## Enlace metálico
 El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí. Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
 
-{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Esquema de **enlace metálico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***. Adaptada de https://commons.wikimedia.org/wiki/File:Metallic_bonding.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Esquema de **enlace metálico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***. Fuente: https://commons.wikimedia.org/wiki/File:Metalic_bond_model.svg." lightbox="false" width="100%" >}}
 
 ### Propiedades de las sustancias metálicas
 - **Apariencia brillante**.
