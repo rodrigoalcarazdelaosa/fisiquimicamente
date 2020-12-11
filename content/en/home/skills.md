@@ -18,7 +18,7 @@ subtitle = ""
   icon = "[📚](physics-chemistry-notes/)"
   icon_pack = "emoji"
   name = "[Physics and Chemistry Notes](physics-chemistry-notes/)"
-  description = "[13-14 year-olds](physics-chemistry-notes/13-14-year-olds) | [14-15 year-olds](physics-chemistry-notes/14-15-year-olds) | [15-16 year-olds](physics-chemistry-notes/15-16-year-olds) <br> [16-17 year-olds](physics-chemistry-notes/16-17-year-olds) | [17-18 year-olds Physics](physics-chemistry-notes/17-18-year-olds-physics) | [17-18 year-olds Chemistry](physics-chemistry-notes/17-18-year-olds-chemistry) <br> [Nomenclature of Chemistry](physics-chemistry-notes/nomenclature-chemistry)"  
+  description = "[13--14 year-olds](physics-chemistry-notes/13-14-year-olds) | [14--15 year-olds](physics-chemistry-notes/14-15-year-olds) | [15--16 year-olds](physics-chemistry-notes/15-16-year-olds) <br> [16--17 year-olds](physics-chemistry-notes/16-17-year-olds) | [17--18 year-olds Physics](physics-chemistry-notes/17-18-year-olds-physics) | [17--18 year-olds Chemistry](physics-chemistry-notes/17-18-year-olds-chemistry) <br> [Nomenclature of Chemistry](physics-chemistry-notes/nomenclature-chemistry)"  
   
 [[feature]]
   icon = "[👐](tutorials/)"

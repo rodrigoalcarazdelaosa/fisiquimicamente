@@ -115,7 +115,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">⚛️ Recursos FyQ</li>
 	    </ol>
 	    </nav>			
-    {{ else if and (eq $widget "hero") (eq $st.Title "📚 Apuntes de Física y Química") }}
+    {{ else if and (eq $widget "featurette") (eq $st.Title "📚 Apuntes de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
@@ -123,7 +123,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apuntes</li>
 	    </ol>
 	    </nav>	
-    {{ else if and (eq $widget "hero") (eq $st.Title "📚 Physics and Chemistry Notes") }}
+    {{ else if and (eq $widget "featurette") (eq $st.Title "📚 Physics and Chemistry Notes") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/en/">Home</a></li>			
@@ -204,7 +204,35 @@
 	        <li class="breadcrumb-item">📝 <a href="/recursos-fisica-quimica/oposiciones">Oposiciones</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
 	    </ol>
-	    </nav>															
+	    </nav>
+    {{ else if and (eq $widget "featurette") (eq $st.Title "🔗 Enlaces de interés") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">🔗 Enlaces de interés</li>
+	    </ol>
+	    </nav>	
+    {{ else if and (eq $widget "portfolio") (eq $st.Title "🔗 Online Resources") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/en/">Home</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">🔗 Online Resources</li>
+	    </ol>
+	    </nav>		
+    {{ else if and (eq $widget "about") (eq $st.Title "👨‍🔬 Sobre mí") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 Sobre mí</li>
+	    </ol>
+	    </nav>	
+    {{ else if and (eq $widget "about") (eq $st.Title "👨‍🔬 About me") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/en/">Home</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 About me</li>
+	    </ol>
+	    </nav>						
     {{end}}
 		
   	{{/* Special case widget novedades */}}
