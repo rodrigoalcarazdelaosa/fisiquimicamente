@@ -5,6 +5,9 @@ tags:
 - color
 categories: 
 
+_build:
+  render: never
+
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.sessions.edu/color-calculator/
 

@@ -7,6 +7,9 @@ tags:
 categories: 
 - "Química"
 
+_build:
+  render: never
+
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.thinglink.com/scene/1374766234444234754
 

@@ -4,6 +4,9 @@ summary: _Self-moderated_ network of question-and-answer (Q&A) websites on topic
 tags:
 categories: 
 
+_build:
+  render: never
+
 # Optional external URL for project (replaces project detail page).
 external_link: https://stackexchange.com
 

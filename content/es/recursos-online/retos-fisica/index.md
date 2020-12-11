@@ -7,6 +7,9 @@ tags:
 categories:
 - Física
 
+_build:
+  render: never
+
 # Optional external URL for project (replaces project detail page).
 external_link: https://eusal.es/index.php/eusal/catalog/book/978-84-1311-001-1
 ---

@@ -6,6 +6,9 @@ tags:
 categories: 
 - Física
 
+_build:
+  render: never
+
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.youtube.com/channel/UCns-8DssCBba7M4nu7wk7Aw
 
