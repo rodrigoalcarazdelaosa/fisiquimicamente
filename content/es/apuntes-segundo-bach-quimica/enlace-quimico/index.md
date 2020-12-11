@@ -2,7 +2,7 @@
 title: Enlace químico
 url: "/recursos-fisica-quimica/apuntes/2bach-quimica/enlace-quimico"
 subtitle: Enlace iónico, covalente y metálico
-summary: "`PRÓXIMAMENTE` <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
+summary: "<code style='background:#ffcccc'>EN CONSTRUCCIÓN</code> <br> Enlace iónico, covalente y metálico. TRPECV y TEV."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach-quimica"]
 tags:
 - 2º Bach
@@ -30,10 +30,8 @@ image:
 
 ---
 
-Apuntes sobre enlace químico, en formato texto y póster (tipo _chuleta_).
-
-{{% callout note %}}
-Próximamente...
+{{% callout warning %}}
+En construcción...
 {{% /callout %}}
 
 <!-- https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/ -->
