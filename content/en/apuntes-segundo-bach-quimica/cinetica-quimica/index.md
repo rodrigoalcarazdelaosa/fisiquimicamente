@@ -1,13 +1,13 @@
 ---
-title: Chemical Equilibrium
-url: "/en/physics-chemistry-notes/17-18-year-olds-chemistry/chemical-equilibrium"
-subtitle: Le Chatelier's Principle and Heterogeneous Equilibrium
-summary: "`COMING SOON` <br> Law of Mass Action. Le Chatelier's Principle. Heterogeneous Equilibrium."
+title: Chemical Kinetics
+url: "/en/physics-chemistry-notes/17-18-year-olds-chemistry/chemical-kinetics"
+subtitle: Reaction Rate and Mechanisms
+summary: "`COMING SOON` <br> Reaction Rate. Rate Equations. Reaction Order. Reaction Mechanisms."
 breadcrumbs: ["notes","17-18-year-olds-chemistry"]
 tags:
 - 17-18-year-olds
 - chemical-reactions
-- chemical-equilibrium
+- chemical-kinetics
 categories:
 - Chemistry
 
@@ -15,7 +15,7 @@ categories:
 external_link: ""
 
 image:
-  caption: Photo by [**Polina Tankilevitch**](https://www.pexels.com/es-es/@polina-tankilevitch) on [Pexels](https://www.pexels.com/es-es/)
+  caption: Image by [**Jalyn Bryce**](https://pixabay.com/es/users/jalynbryce-5426636/) on [Pixabay](https://pixabay.com/)
   focal_point: Smart
 
 # links:

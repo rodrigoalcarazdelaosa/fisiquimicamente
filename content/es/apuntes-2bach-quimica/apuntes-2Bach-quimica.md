@@ -35,7 +35,11 @@ subtitle = "2º Bach Química"
 	
   [[content.filter_button]]
     name = "Enlace químico"
-    tag = "enlace-químico"			
+    tag = "enlace-químico"	
+	
+  [[content.filter_button]]
+    name = "Cinética química"
+    tag = "cinética-química"				
 	
   [[content.filter_button]]
     name = "Equilibrio químico"

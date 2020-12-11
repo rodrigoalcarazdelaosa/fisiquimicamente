@@ -38,6 +38,10 @@ subtitle = "17--18 year-olds Chemistry"
     tag = "chemical-bond"	
 	
   [[content.filter_button]]
+    name = "Chemical Kinetics"
+    tag = "chemical-kinetics"
+
+  [[content.filter_button]]
     name = "Chemical Equilibrium"
     tag = "chemical-equilibrium"		
 	
