@@ -53,13 +53,13 @@
   
 [[main]]
   name = "💻 Recursos online"
-  url = "enlaces-interes/#recursos-online"
+  url = "enlaces-interes/recursos-online"
   parent = "enlaces-interes"
   weight = 1
   
 [[main]]
   name = "🤗 Páginas amigas"
-  url = "enlaces-interes/#paginas-amigas"
+  url = "enlaces-interes/paginas-amigas"
   parent = "enlaces-interes"
   weight = 2
 

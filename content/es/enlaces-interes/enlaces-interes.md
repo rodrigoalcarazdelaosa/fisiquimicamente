@@ -15,15 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[💻](#recursos-online)"
+  icon = "[💻](recursos-online)"
   icon_pack = "emoji"
-  name = "[Recursos online](#recursos-online)"
+  name = "[Recursos online](recursos-online)"
   description = ""
   
 [[feature]]
-  icon = "[🤗](#paginas-amigas)"
+  icon = "[🤗](paginas-amigas)"
   icon_pack = "emoji"
-  name = "[Páginas amigas](#paginas-amigas)"
+  name = "[Páginas amigas](paginas-amigas)"
   description = ""
   
 [design]
@@ -51,4 +51,11 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true
+  
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+ 
+ # CSS class.
+ css_class = ""  
 +++

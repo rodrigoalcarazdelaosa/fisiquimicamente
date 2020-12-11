@@ -211,7 +211,23 @@
 	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🔗 Enlaces de interés</li>
 	    </ol>
-	    </nav>	
+	    </nav>
+    {{ else if and (eq $widget "portfolio") (eq $st.Title "💻 Recursos online") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>
+	        <li class="breadcrumb-item">🔗 <a href="/enlaces-interes">Enlaces de interés</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">💻 Recursos online</li>
+	    </ol>
+	    </nav>			
+    {{ else if and (eq $widget "portfolio") (eq $st.Title "🤗 Páginas amigas") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/">Inicio</a></li>
+	        <li class="breadcrumb-item">🔗 <a href="/enlaces-interes">Enlaces de interés</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">🤗 Páginas amigas</li>
+	    </ol>
+	    </nav>					
     {{ else if and (eq $widget "portfolio") (eq $st.Title "🔗 Online Resources") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      

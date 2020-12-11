@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "paginas-amigas"
+  page_type = "enlaces-paginas-amigas"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

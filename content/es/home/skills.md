@@ -30,7 +30,7 @@ subtitle = ""
   icon = "[🔗](enlaces-interes/)"
   icon_pack = "emoji"
   name = "[Enlaces de interés](enlaces-interes/)"
-  description = "💻 [Recursos online](enlaces-interes/#recursos-online) | 🤗 [Páginas amigas](enlaces-interes/#paginas-amigas)"
+  description = "💻 [Recursos online](enlaces-interes/recursos-online) | 🤗 [Páginas amigas](enlaces-interes/paginas-amigas)"
   
 [[feature]]
   icon = "[🗞️](#novedades)"

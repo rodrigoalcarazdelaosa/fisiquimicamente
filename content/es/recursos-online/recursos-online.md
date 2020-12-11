@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-title = "🔗 Online Resources"
+title = "💻 Recursos online"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "recursos-online"
+  page_type = "enlaces-recursos-online"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Todos"
     tag = "*"
   
   [[content.filter_button]]
@@ -30,32 +30,40 @@ subtitle = ""
     tag = "color"
 	
   [[content.filter_button]]
-    name = "Games"
-    tag = "games"
+    name = "FyQ"
+    tag = "fyq"
 	
   [[content.filter_button]]
     name = "Gifs"
     tag = "gifs"	
 	
   [[content.filter_button]]
-    name = "Periodic Table"
-    tag = "periodic-table"		
+    name = "Juegos"
+    tag = "juegos"	
 	
   [[content.filter_button]]
-    name = "Physics/Chemistry"
-    tag = "pac"		
+    name = "Olimpiadas"
+    tag = "olimpiadas"		
 
   [[content.filter_button]]
-    name = "Simulations"
-    tag = "simulations"		
+    name = "Simulaciones"
+    tag = "simulaciones"	
 	
   [[content.filter_button]]
-    name = "Translator"
-    tag = "translator"
+    name = "Sociedades"
+    tag = "sociedades"
 	
   [[content.filter_button]]
-    name = "Videos"
-    tag = "videos"			
+    name = "Tabla Periódica"
+    tag = "tabla-periódica"
+	
+  [[content.filter_button]]
+    name = "Traductor"
+    tag = "traductor"
+	
+  [[content.filter_button]]
+    name = "Vídeos"
+    tag = "vídeos"	
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

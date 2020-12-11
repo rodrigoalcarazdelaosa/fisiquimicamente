@@ -21,7 +21,7 @@ Since 2018 I have been **teaching Physics and Chemistry** at [IES Ría San Mart�
 
 ## Why this blog?
 
-My main intention with this website is to provide 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) to my students and to anyone else who might be interested, as well as sharing 👐 [<en style="font-variant: small-caps;">**tutorials**</english>]({{< ref "/tutoriales" >}}) and collect 🔗 [<english style="font-variant:small-caps;">**online resources**</english>]({{< ref "/enlaces-interes" >}}).
+My main intention with this website is to provide 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) to my students and to anyone else who might be interested, as well as sharing 👐 [<en style="font-variant: small-caps;">**tutorials**</english>]({{< ref "/tutoriales" >}}) and collect 🔗 [<english style="font-variant:small-caps;">**online resources**</english>]({{< ref "/recursos-online" >}}).
 
 I think that a **blog** is the perfect addition to be able to debate about **news** with a much more **dynamic** content.
 

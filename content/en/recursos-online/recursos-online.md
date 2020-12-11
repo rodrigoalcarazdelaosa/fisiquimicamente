@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "💻 Recursos online"
+title = "🔗 Online Resources"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "recursos-online"
+  page_type = "enlaces-recursos-online"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todos"
+    name = "All"
     tag = "*"
   
   [[content.filter_button]]
@@ -30,40 +30,32 @@ subtitle = ""
     tag = "color"
 	
   [[content.filter_button]]
-    name = "FyQ"
-    tag = "fyq"
+    name = "Games"
+    tag = "games"
 	
   [[content.filter_button]]
     name = "Gifs"
     tag = "gifs"	
 	
   [[content.filter_button]]
-    name = "Juegos"
-    tag = "juegos"	
+    name = "Periodic Table"
+    tag = "periodic-table"		
 	
   [[content.filter_button]]
-    name = "Olimpiadas"
-    tag = "olimpiadas"		
+    name = "Physics/Chemistry"
+    tag = "pac"		
 
   [[content.filter_button]]
-    name = "Simulaciones"
-    tag = "simulaciones"	
+    name = "Simulations"
+    tag = "simulations"		
 	
   [[content.filter_button]]
-    name = "Sociedades"
-    tag = "sociedades"
+    name = "Translator"
+    tag = "translator"
 	
   [[content.filter_button]]
-    name = "Tabla Periódica"
-    tag = "tabla-periódica"
-	
-  [[content.filter_button]]
-    name = "Traductor"
-    tag = "traductor"
-	
-  [[content.filter_button]]
-    name = "Vídeos"
-    tag = "vídeos"	
+    name = "Videos"
+    tag = "videos"			
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -89,8 +81,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "enlaces-interes.jpg"  # Name of image in `static/media/`.
@@ -104,7 +96,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
