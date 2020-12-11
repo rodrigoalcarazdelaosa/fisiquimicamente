@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "🎓 EBAU ⚗️ Química"
-subtitle = ""
+title = "🎓 EBAU"
+subtitle = "⚗️ Química"
 
 # Showcase personal skills or business features.
 # 
@@ -15,15 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📝](#examenes)"
+  icon = "[📝](examenes)"
   icon_pack = "emoji"
-  name = "[Exámenes completos](#examenes)"
+  name = "[Exámenes completos](examenes)"
   description = ""
   
 [[feature]]
-  icon = "[🗂️](#preguntas)"
+  icon = "[🗂️](preguntas)"
   icon_pack = "emoji"
-  name = "[Por temas](#preguntas)"
+  name = "[Por temas](preguntas)"
   description = ""
 
 [design]
@@ -51,4 +51,11 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true
+ 
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+ 
+ # CSS class.
+ css_class = ""    
 +++

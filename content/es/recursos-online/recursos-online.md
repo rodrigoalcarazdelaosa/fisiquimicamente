@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = "💻 Recursos online"
-subtitle = ""
+title = "🔗 Enlaces de interés"
+subtitle = "💻 Recursos online"
 
 [content]
   # Page type to display. E.g. project.
