@@ -20,7 +20,7 @@ links:
   url: tabla-periodica-elementos.pdf
 ---
 
-Aquí tienes una **Tabla Periódica de los Elementos** con información básica y en alta resolución.
+Aquí tienes una **Tabla Periódica de los Elementos** con información básica y en alta resolución. También puedes descargarte [este estupendo cómic](https://7dde302b-d152-48de-80b5-41af2754e2f1.filesusr.com/ugd/aabf3b_81075692dae9482a9625f84147de8272.pdf). 
 
 {{% callout note %}}
 Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada elemento es un **enlace** que te lleva a la página de la **Wikipedia** del **elemento**.
