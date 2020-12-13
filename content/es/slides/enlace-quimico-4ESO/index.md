@@ -141,7 +141,7 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 
 ---
 
-El **enlace covalente** suele darse **entre no metales**.
+El **enlace covalente** suele darse **entre no metales** (tendencia a captar electrones).
 
 ---
 

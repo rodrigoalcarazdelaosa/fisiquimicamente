@@ -66,7 +66,7 @@ El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones)
 - **Fundidos** o en **disolución**, **conducen** la **corriente eléctrica**.
 
 ## Enlace covalente
-Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos. El **enlace covalente** suele darse **entre no metales**.
+Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos. El **enlace covalente** suele darse **entre no metales** (tendencia a captar electrones).
 
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-covalente.svg" title="Representación de la **unión covalente** entre dos átomos de **flúor** (F) para formar F<sub>2</sub>, con un par de electrones compartidos. Adaptada de https://commons.wikimedia.org/wiki/File:Covalent_bond_fluorine.svg." lightbox="false" width="100%" >}}
 
