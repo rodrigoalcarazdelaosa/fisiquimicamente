@@ -2,21 +2,21 @@
 
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
-  {{ $link_authors := site.Params.link_authors | default true }}
   {{ range $index, $value := (.GetTerms $taxonomy) }}
       {{- /* Highlight the author's name? */ -}}
       {{- $highlight_name := .Page.Params.highlight_name | default false -}}
 	  
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
-      {{- if $link_authors -}}
-	  {{- if eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/" -}}
-        <a href="/sobre-mi/">{{.LinkTitle}}</a>
-	  {{- else if eq .RelPermalink "/en/author/rodrigo-alcaraz-de-la-osa/" -}}
-        <a href="/en/about-me/">{{.LinkTitle}}</a>
-	  {{- else -}}		  
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
-	  {{- end -}}		
+	  {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
+	  {{- if .RelPermalink -}}
+		  {{- if eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/" -}}
+	        <a href="/sobre-mi/">{{.LinkTitle}}</a>
+		  {{- else if eq .RelPermalink "/en/author/rodrigo-alcaraz-de-la-osa/" -}}
+	        <a href="/en/about-me/">{{.LinkTitle}}</a>
+		  {{- else -}}		  
+	        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+		  {{- end -}}		
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}
