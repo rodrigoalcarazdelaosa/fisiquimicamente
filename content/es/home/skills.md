@@ -21,7 +21,7 @@ subtitle = ""
   description = "📚 [Apuntes](recursos-fisica-quimica/apuntes) | 🎓 [EBAU](recursos-fisica-quimica/ebau) | 📝 [Oposiciones](recursos-fisica-quimica/oposiciones)"  
   
 [[feature]]
-  icon = "[👐](tutoriales/)"
+  icon = "[👐🏼](tutoriales/)"
   icon_pack = "emoji"
   name = "[Tutoriales](tutoriales/)"
   description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
