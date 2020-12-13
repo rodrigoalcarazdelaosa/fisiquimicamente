@@ -2,4 +2,4 @@ module github.com/wowchemy/wowchemy-hugo-modules
 
 go 1.15
 
-require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201213175053-332dd2179197 // indirect
+require github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20201213184117-a0b9887f37fb // indirect
