@@ -22,6 +22,8 @@ links:
   icon: file-download
   name: Póster
   url: enlace-quimico-poster.pdf
+  
+slides: enlace-quimico-2Bach-quimica
 ---
 
 {{% toc %}}
@@ -48,10 +50,7 @@ Distancia media entre los núcleos de dos átomos enlazados.
 ### Polaridad de enlace
 Es la separación de cargas eléctricas en una molécula, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
 
-| | $\Delta \chi\lesssim 0.5$ | $0.5\lesssim\Delta\chi\lesssim 2$ | $\Delta\chi\gtrsim 2$ |
-| :---: | :---: | :---: | :---: |
-| **Enlace** | **Apolar** | **Polar** | **Iónico** |
-| | {{< figure library="true" src="enlace-quimico-2Bach-quimica/apolar.svg" lightbox="false" >}} | {{< figure library="true" src="enlace-quimico-2Bach-quimica/polar.svg" lightbox="false" >}} | {{< figure library="true" src="enlace-quimico-2Bach-quimica/ionico.svg" lightbox="false" >}} |
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" lightbox="false" width="100%" >}}
 		
 Una molécula será polar si, además de contener al menos un enlace polar, tiene una geometría asimétrica en al menos una dirección, para que los momentos dipolares no se cancelen.
 

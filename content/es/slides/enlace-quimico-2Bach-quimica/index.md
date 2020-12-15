@@ -1,6 +1,6 @@
 ---
 title: Enlace químico
-summary: "Enlace iónico, covalente y metálico. Fuerzas intermoleculares."
+summary: "Enlace iónico, covalente y metálico. Geometría molecular. Fuerzas intermoleculares."
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
@@ -13,11 +13,12 @@ slides:
 # Enlace químico
 
 - [Regla del octeto](#/1)
-- [Estructuras de Lewis](#/2)
+- [Parámetros moleculares](#/2)
 - [Enlace iónico](#/3)
 - [Enlace covalente](#/4)
-- [Enlace metálico](#/5)
-- [Fuerzas intermoleculares](#/6)
+- [Geometría molecular](#/5)
+- [Enlace metálico](#/6)
+- [Fuerzas intermoleculares](#/7)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
@@ -43,44 +44,41 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 
 {{% section %}}
 
-## Estructuras de Lewis
+## Parámetros moleculares
 
-Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula.
-
-(continúa hacia abajo)
-
-👇
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/parametros-moleculares.svg" lightbox="false" width="100%" >}}
 
 ---
 
-Las estructuras de Lewis muestran cada átomo y su posición en la estructura de la molécula usando su símbolo químico.
+### Energía de enlace
+Es una medida de la **fortaleza** de un **enlace químico**.
 
 ---
 
-Se dibujan líneas entre los átomos que están unidos entre sí (se pueden utilizar pares de puntos en lugar de líneas).
+### Longitud de enlace
+Distancia media entre los núcleos de dos átomos enlazados.
 
 ---
 
-El exceso de electrones que forman pares solitarios se representan como pares de puntos, y se colocan junto a los átomos.
+### Ángulo de enlace
+Ángulo formado por tres átomos enlazados consecutivamente.
 
 ---
 
-### Ejemplos
+### Polaridad de enlace
+Es la separación de cargas eléctricas en una molécula, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
 
 ---
 
-#### Agua (H<sub>2</sub>O)
-{{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" lightbox="false" width="100%" >}}
+
+---
+		
+Una molécula será polar si, además de contener al menos un enlace polar, tiene una geometría asimétrica en al menos una dirección, para que los momentos dipolares no se cancelen.
 
 ---
 
-#### Oxígeno (O<sub>2</sub>)
-{{< figure library="true" src="enlace-quimico-4ESO/Lewis-O2.svg" lightbox="false" width="100%" >}}
-
----
-
-#### Dióxido de carbono (CO<sub>2</sub>)
-{{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/BF3.png" title="La molécula de BF<sub>3</sub> tiene tres enlaces polares pero debido a su geometría trigonal plana el momento dipolar resultante es nulo." lightbox="false" width="50%" >}}
 
 {{% /section %}}
 
@@ -97,11 +95,11 @@ Es un enlace que involucra la **atracción electrostática** entre **iones** de 
 
 ---
 
-Los **iones** son **átomos** con **carga eléctrica**, que puede ser **negativa** (aniones) en caso de haber **captado** (ganado) **electrones**, o **positiva** (cationes) en caso de haber **cedido** (perdido) **electrones**.
+El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones, convirtiéndose en cationes) **y no metales** (tienden a captar electrones, convirtiéndose en aniones).
 
 ---
 
-El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones) **y no metales** (tienden a captar electrones).
+Los compuestos iónicos forman **redes cristalinas** compactas y **neutras** con diferentes geometrías según el tipo de iones que las forman.
 
 ---
 
@@ -110,6 +108,28 @@ El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones)
 ---
 
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-LiF.svg" lightbox="false" width="100%" >}}
+
+---
+
+### Energía de red $\Delta_\mathrm r H^{\circ}$
+
+Es la **energía liberada** al **formar** la **red** a partir de sus iones en estado gaseoso.
+
+---
+
+#### Ciclo de Born-Haber
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber.svg" lightbox="false" width="85%" >}}
+
+---
+
+#### Ecuación de Born-Landé
+Permite calcular la **energía de red** $\Delta_\mathrm r H^{\circ}$:
+
+$$
+\Delta_\mathrm r H^{\circ} = -\frac{N_\mathrm A M z^+ z^- e^2}{4\pi\epsilon_0 r_0}\left(1-\frac{1}{n}\right),
+$$
+
+donde $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es la constante de Avogadro; $M$ es la constante de Madelung, relacionada con la geometría del cristal; $z^+$ y $z^-$ son los números de carga del catión y del anión, respectivamente; $e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ es la carga elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ es la permitividad eléctrica del vacío; $r_0$ es la distancia al ion más cercano; y $5<n<12$ es el exponente de Born (experimental).
 
 ---
 
@@ -131,7 +151,6 @@ El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones)
 
 {{% section %}}
 
-
 ## Enlace covalente
 Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos.
 
@@ -146,6 +165,54 @@ El **enlace covalente** suele darse **entre no metales** (tendencia a captar ele
 ---
 
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-covalente.svg" title="Representación de la **unión covalente** entre dos átomos de **flúor** (F) para formar F<sub>2</sub>, con un par de electrones compartidos." lightbox="false" width="100%" >}}
+
+---
+
+### Estructuras de Lewis
+
+Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula.
+
+---
+
+Las estructuras de Lewis muestran cada átomo y su posición en la estructura de la molécula usando su símbolo químico.
+
+---
+
+Se dibujan líneas entre los átomos que están unidos entre sí (se pueden utilizar pares de puntos en lugar de líneas).
+
+---
+
+El exceso de electrones que forman pares solitarios se representan como pares de puntos, y se colocan junto a los átomos.
+
+---
+
+#### Ejemplos
+
+---
+
+##### Agua (H<sub>2</sub>O)
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" >}}
+
+---
+
+##### Oxígeno (O<sub>2</sub>)
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-O2.svg" lightbox="false" width="100%" >}}
+
+---
+
+##### Dióxido de carbono (CO<sub>2</sub>)
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" >}}
+
+---
+
+### Resonancia
+La **resonancia** es una forma de describir el enlace en ciertas moléculas mediante la combinación de varias **estructuras resonantes** cuyo conjunto se conoce como un **híbrido** de **resonancia**.
+
+---
+
+Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas o iones poliatómicos.
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia.svg" lightbox="false" width="100%" >}}		
 
 ---
 
@@ -187,6 +254,49 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 {{% section %}}
 
+## Geometría molecular
+
+- [TRPECV]
+- [TEV]
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+### TRPECV
+La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPECV) se basa en que, como los electrones de valencia se repelen unos a otros, éstos tienden a adoptar una disposición espacial que minimiza dicha repulsión.
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" lightbox="false" width="90%" >}}
+
+---
+
+### TEV
+La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</sup> compartidos se encuentran en una zona de **solapamiento orbital**:
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### Hibridación
+
+La **hibridación** consiste en combinar orbitales atómicos del átomo central para formar **orbitales híbridos** energéticamente iguales y orientados en la dirección del enlace.
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" lightbox="false" width="100%" >}}
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Enlace metálico
 El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí.
 
@@ -200,7 +310,25 @@ Surge de la **atracción electrostática** entre los **electrones** de conducci�
 
 ---
 
-{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Esquema de **enlace metálico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***." lightbox="false" width="55%" >}}
+### Modelo del gas electrónico
+
+{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***." lightbox="false" width="55%" >}}
+
+---
+
+### Teoría de bandas
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/teoria-bandas.svg" lightbox="false" width="100%" >}}
+
+---
+
+> Puedes aprender más sobre la teoría de bandas y cómo ésta explica la conductividad eléctrica en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
+
+---
+
+También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés):
+
+{{< youtube LNsSS6Id6bM >}}
 
 ---
 
@@ -230,7 +358,13 @@ Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas int
 
 ---
 
+### Fuerzas de van der Waals
+
 {{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares.svg" title="**Atracción intermolecular** entre moléculas de **cloruro de hidrógeno**, HCl." lightbox="false" width="100%" >}}
+
+---
+
+Se pueden dar entre **moléculas polares** (más fuertes cuanto mayor sea la polaridad de la molécula), y **apolares** (llamadas **fuerzas** de **dispersión** de **London**, más fuertes cuanto más grandes son las moléculas involucradas).
 
 ---
 
@@ -248,5 +382,9 @@ Los **puentes** de **hidrógeno** son **responsables** de:
 - Que el **agua** (H<sub>2</sub>O) tenga una **temperatura** de **ebullición anormalmente alta** (100 &deg;C a presión atmosférica).
 - La **estructura** de **proteínas** y **ácidos nucleicos**, como la **doble hélice** del **ADN** 🧬.
 - La **estructura** de **polímeros**.
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/comparacion-fortaleza-enlaces.svg" lightbox="false" width="100%" >}}
 
 {{% /section %}}
