@@ -149,7 +149,7 @@ La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</su
 
 La **hibridación** consiste en combinar orbitales atómicos del átomo central para formar **orbitales híbridos** energéticamente iguales y orientados en la dirección del enlace.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes adaptadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes tomadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/" lightbox="false" width="100%" >}}
 
 ## Enlace metálico
 
