@@ -64,7 +64,7 @@ Es un enlace que involucra la **atracción electrostática** entre **iones** de 
 
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-LiF.svg" lightbox="false" width="100%" >}}
 
-### Energía de red $\Delta_\mathrm r H^{\circ}$
+### Energía de red $U_\mathrm R$
 
 Es la **energía liberada** al **formar** la **red** a partir de sus iones en estado gaseoso.
 
@@ -74,10 +74,10 @@ Formación de un compuesto iónico a partir de sus elementos.
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber.svg" title="Ciclo de Born-Haber para la formación del fluoruro de litio (LiF). Basada en https://commons.wikimedia.org/wiki/File:Born-haber_cycle_LiF.svg." lightbox="false" width="100%" >}}
 
 #### Ecuación de Born-Landé
-Permite calcular la **energía de red** $\Delta_\mathrm r H^{\circ}$:
+Permite calcular la **energía de red** $U_\mathrm R$:
 
 $$
-\Delta_\mathrm r H^{\circ} = -\frac{N_\mathrm A M z^+ z^- e^2}{4\pi\epsilon_0 r_0}\left(1-\frac{1}{n}\right),
+U_\mathrm R = -\frac{N_\mathrm A M z^+ z^- e^2}{4\pi\epsilon_0 r_0}\left(1-\frac{1}{n}\right),
 $$
 
 donde $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es la constante de Avogadro; $M$ es la constante de Madelung, relacionada con la geometría del cristal; $z^+$ y $z^-$ son los números de carga del catión y del anión, respectivamente; $e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ es la carga elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ es la permitividad eléctrica del vacío; $r_0$ es la distancia al ion más cercano; y $5<n<12$ es el exponente de Born (experimental).
