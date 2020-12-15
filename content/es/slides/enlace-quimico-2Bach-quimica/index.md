@@ -46,12 +46,17 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 
 ## Parámetros moleculares
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/parametros-moleculares.svg" lightbox="false" width="100%" >}}
+- [Energía de enlace](#/2/1)
+- [Longitud de enlace](#/2/2)
+- [Ángulo de enlace](#/2/3)
+- [Polaridad de enlace](#/2/4)
 
 ---
 
 ### Energía de enlace
 Es una medida de la **fortaleza** de un **enlace químico**.
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/parametros-moleculares.svg" lightbox="false" width="85%" >}}
 
 ---
 
@@ -256,8 +261,8 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 ## Geometría molecular
 
-- [TRPECV]
-- [TEV]
+- [TRPECV](#/5/1)
+- [TEV](#/5/3)
 
 (continúa hacia abajo)
 
@@ -322,7 +327,7 @@ Surge de la **atracción electrostática** entre los **electrones** de conducci�
 
 ---
 
-> Puedes aprender más sobre la teoría de bandas y cómo ésta explica la conductividad eléctrica en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
+> Puedes aprender más sobre la **teoría** de **bandas** y cómo ésta explica la **conductividad eléctrica** en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
 
 ---
 
