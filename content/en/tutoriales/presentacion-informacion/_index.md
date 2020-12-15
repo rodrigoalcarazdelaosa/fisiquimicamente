@@ -19,3 +19,4 @@ In this tutorial you will learn how to correctly present information.
 Coming soon...
 {{% /callout %}}
 
+<!-- https://www.socialmediaycontenidos.com/que-es-pecha-kucha-el-metodo-infalible-para-presentaciones-eficaces/ -->
