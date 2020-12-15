@@ -187,12 +187,12 @@ Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las *
 
 Se pueden dar entre **moléculas polares** (más fuertes cuanto mayor sea la polaridad de la molécula), y **apolares** (llamadas **fuerzas** de **dispersión** de **London**, más fuertes cuanto más grandes son las moléculas involucradas).
 
-### Puentes de hidrógeno
-Son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas que contienen átomos de **hidrógeno** unidos a átomos de **nitrógeno** (N), **oxígeno** (O) o **flúor** (F).
+### Enlaces de hidrógeno
+También llamados *puentes de hidrógeno*, son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas que contienen átomos de **hidrógeno** unidos a átomos de **nitrógeno** (N), **oxígeno** (O) o **flúor** (F).
 
-{{< figure library="true" src="enlace-quimico-4ESO/puentes-hidrogeno.svg" title="**Puentes de hidrógeno** entre átomos de H y O en moléculas de **agua** (H<sub>2</sub>O). Traducida y adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/enlaces-hidrogeno.svg" title="**Enlaces de hidrógeno** entre átomos de H y O en moléculas de **agua** (H<sub>2</sub>O). Traducida y adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
 
-Los **puentes** de **hidrógeno** son **responsables** de:
+Los **enlaces** de **hidrógeno** son **responsables** de:
 
 - Que el **agua** (H<sub>2</sub>O) tenga una **temperatura** de **ebullición anormalmente alta** (100 &deg;C a presión atmosférica).
 - La **estructura** de **proteínas** y **ácidos nucleicos**, como la **doble hélice** del **ADN** 🧬.
