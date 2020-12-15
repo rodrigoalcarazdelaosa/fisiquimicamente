@@ -82,6 +82,11 @@ $$
 
 donde $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es la constante de Avogadro; $M$ es la constante de Madelung, relacionada con la geometría del cristal; $z^+$ y $z^-$ son los números de carga del catión y del anión, respectivamente; $e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ es la carga elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ es la permitividad eléctrica del vacío; $r_0$ es la distancia al ion más cercano; y $5<n<12$ es el exponente de Born (experimental).
 
+Se comprueba que la **energía** de **red** es:
+
+- **Directamente proporcional** al **producto** de las **cargas** de los iones.
+- **Inversamente proporcional** a la **distancia** interiónica.
+
 ### Propiedades de las sustancias iónicas
 - Debido a las **intensas fuerzas electrostáticas** entre los iones, suelen tener **temperaturas** de **fusión** y **ebullición** muy **elevadas**, por lo que la mayoría son **sólidos cristalinos** a **temperatura ambiente**.
 

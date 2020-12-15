@@ -138,6 +138,13 @@ donde $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es la const
 
 ---
 
+Se comprueba que la **energía** de **red** es:
+
+- **Directamente proporcional** al **producto** de las **cargas** de los iones.
+- **Inversamente proporcional** a la **distancia** interiónica.
+
+---
+
 ### Propiedades de las sustancias iónicas
 - Debido a las **intensas fuerzas electrostáticas** entre los iones, suelen tener **temperaturas** de **fusión** y **ebullición** muy **elevadas**, por lo que la mayoría son **sólidos cristalinos** a **temperatura ambiente**.
 
