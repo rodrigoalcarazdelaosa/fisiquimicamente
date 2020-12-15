@@ -376,7 +376,7 @@ Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas int
 
 ---
 
-Se pueden dar entre **moléculas polares** (más fuertes cuanto mayor sea la polaridad de la molécula), y **apolares** (llamadas **fuerzas** de **dispersión** de **London**, más fuertes cuanto más grandes son las moléculas involucradas).
+Se pueden dar entre **moléculas polares** (más fuertes cuanto mayor sea la polaridad de la molécula), y **apolares** (llamadas **fuerzas** de **dispersión** de **London**, más fuertes cuanto más grandes y masivas son las moléculas involucradas).
 
 ---
 

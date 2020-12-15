@@ -200,7 +200,7 @@ Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las *
 
 {{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares.svg" title="**Atracción intermolecular** entre moléculas de **cloruro de hidrógeno**, HCl. Traducida y adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
 
-Se pueden dar entre **moléculas polares** (más fuertes cuanto mayor sea la polaridad de la molécula), y **apolares** (llamadas **fuerzas** de **dispersión** de **London**, más fuertes cuanto más grandes son las moléculas involucradas).
+Se pueden dar entre **moléculas polares** (más fuertes cuanto mayor sea la polaridad de la molécula), y **apolares** (llamadas **fuerzas** de **dispersión** de **London**, más fuertes cuanto más grandes y masivas son las moléculas involucradas).
 
 ### Enlaces de hidrógeno
 También llamados *puentes de hidrógeno*, son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas que contienen átomos de **hidrógeno** unidos a átomos de **nitrógeno** (N), **oxígeno** (O) o **flúor** (F).
