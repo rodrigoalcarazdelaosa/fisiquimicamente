@@ -100,6 +100,16 @@ Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** d
 
 Las estructuras de Lewis muestran cada átomo y su posición en la estructura de la molécula usando su símbolo químico. Se dibujan líneas entre los átomos que están unidos entre sí (se pueden utilizar pares de puntos en lugar de líneas). El exceso de electrones que forman pares solitarios se representan como pares de puntos, y se colocan junto a los átomos.
 
+{{< spoiler text="Pincha aquí para ver cómo construir <strong>estructuras</strong> de <strong>Lewis</strong> <strong>paso a paso</strong>" >}}
+
+1. Dibujar la molécula de la forma más simétrica posible, colocando los elementos más electronegtivos en los extremos.
+2. Rodear cada elemento del número de electrones de valencia ($N_\mathrm v$).
+3. Calcular el número máximo de electrones de valencia cumpliendo la regla del octeto ($N_\mathrm{máx}$).
+4. Calcular el número de electrones enlazantes ($N_\mathrm{e} = N_\mathrm{máx} - N_\mathrm{v}$).
+5. Calcular el número de electrones no enlazantes ($N_\mathrm{ne} = N_\mathrm{v} - N_\mathrm{e}$).
+
+{{< /spoiler >}}
+
 #### Ejemplos
 ##### Agua (H<sub>2</sub>O)
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" >}}
