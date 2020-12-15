@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    sodipodi:docname="enlace-covalente.svg"
    id="svg2444"
    height="286.99756"
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -31,13 +31,13 @@
      fit-margin-right="0"
      fit-margin-left="0"
      fit-margin-top="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2444"
      inkscape:window-maximized="0"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="108.00483"
-     inkscape:cx="460.01653"
-     inkscape:zoom="1.5657143"
+     inkscape:cy="182.58289"
+     inkscape:cx="415.60486"
+     inkscape:zoom="1.0901766"
      showgrid="false"
      id="namedview121"
      inkscape:window-height="900"
@@ -456,10 +456,6 @@
        id="tspan3139"
        y="124.65414"
        x="358.86743">+9</tspan></text>
-  <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#radialGradient3064);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-     id="path3096"
-     d="m 374.08828,227.45267 c 0,1.17918 -1.16834,2.13509 -2.60955,2.13509 -1.44121,0 -2.60955,-0.95591 -2.60955,-2.13509 0,-1.17917 1.16834,-2.13508 2.60955,-2.13508 1.44121,0 2.60955,0.95591 2.60955,2.13508 z" />
   <path
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient2924);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.931;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
      id="path2453"
