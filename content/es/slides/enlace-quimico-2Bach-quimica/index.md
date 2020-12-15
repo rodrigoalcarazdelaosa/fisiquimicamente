@@ -71,7 +71,7 @@ Distancia media entre los núcleos de dos átomos enlazados.
 ---
 
 ### Polaridad de enlace
-Es la separación de cargas eléctricas en una molécula, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
+Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
 
 ---
 
@@ -79,7 +79,7 @@ Es la separación de cargas eléctricas en una molécula, dando lugar a un **mom
 
 ---
 		
-Una molécula será polar si, además de contener al menos un enlace polar, tiene una geometría asimétrica en al menos una dirección, para que los momentos dipolares no se cancelen.
+Una molécula será polar si el momento dipolar total (suma vectorial) es distinto de cero.
 
 ---
 
