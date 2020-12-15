@@ -241,4 +241,12 @@ Son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas 
 
 {{< figure library="true" src="enlace-quimico-4ESO/puentes-hidrogeno.svg" title="**Puentes de hidrógeno** entre átomos de H y O en moléculas de **agua** (H<sub>2</sub>O)." lightbox="false" width="60%" >}}
 
+---
+
+Los **puentes** de **hidrógeno** son **responsables** de:
+
+- Que el **agua** (H<sub>2</sub>O) tenga una **temperatura** de **ebullición anormalmente alta** (100 &deg;C a presión atmosférica).
+- La **estructura** de **proteínas** y **ácidos nucleicos**, como la **doble hélice** del **ADN** 🧬.
+- La **estructura** de **polímeros**.
+
 {{% /section %}}

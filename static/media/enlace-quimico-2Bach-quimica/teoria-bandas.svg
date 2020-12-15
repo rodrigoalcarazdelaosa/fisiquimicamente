@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="610.96802"
+   height="341.31601"
+   version="1.1"
+   id="svg73"
+   sodipodi:docname="teoria-bandas.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata79">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Metals, semiconductors, och insulators</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs77" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     id="namedview75"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.0777778"
+     inkscape:cx="335.672"
+     inkscape:cy="176.92"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg73" />
+  <title
+     id="title10">Metals, semiconductors, och insulators</title>
+  <rect
+     x="35.672001"
+     y="136.92"
+     width="150"
+     height="100"
+     id="rect12"
+     style="fill:#ee6677;fill-opacity:0.5;stroke:#000000;stroke-width:2" />
+  <rect
+     x="215.672"
+     y="176.92"
+     width="150"
+     height="100"
+     id="rect14"
+     style="fill:#ee6677;fill-opacity:0.5;stroke:#000000;stroke-width:2" />
+  <rect
+     x="395.672"
+     y="216.92"
+     width="150"
+     height="100"
+     id="rect16"
+     style="fill:#ee6677;fill-opacity:0.5;stroke:#000000;stroke-width:2" />
+  <rect
+     x="35.672001"
+     y="46.919998"
+     width="150"
+     height="130"
+     id="rect20"
+     style="fill:#4477aa;fill-opacity:0.501961;stroke:#000000;stroke-width:0" />
+  <rect
+     x="215.672"
+     y="46.919998"
+     width="150"
+     height="110"
+     id="rect22"
+     style="fill:#4477aa;fill-opacity:0.5;stroke:#000000;stroke-width:0" />
+  <rect
+     x="395.672"
+     y="46.919998"
+     width="150"
+     height="90"
+     id="rect24"
+     style="fill:#4477aa;fill-opacity:0.501961;stroke:#000000;stroke-width:0" />
+  <g
+     fill="none"
+     stroke="#000000"
+     stroke-width="2"
+     id="g34"
+     transform="translate(-24.328,-23.08)">
+    <path
+       d="M 210,70 V 200 H 60 V 70"
+       id="path28" />
+    <path
+       d="M 390,70 V 180 H 240 V 70"
+       id="path30" />
+    <path
+       d="m 570,70 v 90 H 420 V 70"
+       id="path32" />
+  </g>
+  <polygon
+     id="arrowhead"
+     points="60,60 50,30 40,60 "
+     style="fill:#000000"
+     transform="translate(-24.328,-23.08)" />
+  <g
+     fill="none"
+     stroke="#000000"
+     stroke-width="4"
+     id="g41"
+     transform="translate(-24.328,-23.08)">
+    <path
+       d="M 50,40 V 360"
+       id="path37" />
+    <path
+       stroke-dasharray="10, 6"
+       d="M 50,190 H 570"
+       id="path39" />
+  </g>
+  <line
+     x1="131.672"
+     y1="20.92"
+     x2="75.671997"
+     y2="156.92"
+     style="stroke:#000000;stroke-width:3"
+     id="line43" />
+  <path
+     d="m 545.672,216.92 c 30,0 10,-38 28,-38 -18,0 2,-42 -28,-42"
+     style="fill:none;stroke:#000000"
+     stroke-width="2"
+     id="path45" />
+  <text
+     x="85.16169"
+     y="340.92001"
+     id="text47"
+     style="font-size:24px"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan85">metal</tspan></text>
+  <text
+     x="221.68849"
+     y="340.86002"
+     id="text49"
+     style="font-size:24px"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan83">semiconductor</tspan></text>
+  <text
+     x="436.50424"
+     y="340.92001"
+     id="text51"
+     style="font-size:24px"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan81">aislante</tspan></text>
+  <text
+     x="-120.92"
+     y="15.672"
+     transform="rotate(-90)"
+     id="text61"
+     style="font-size:24px"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan116">Energía</tspan></text>
+  <text
+     x="135.672"
+     y="16.92"
+     id="text65"
+     style="font-size:24px"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan114">solapamiento</tspan></text>
+  <text
+     x="579.672"
+     y="179.51199"
+     id="text67"
+     style="font-size:24px"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'"
+       id="tspan132">gap</tspan></text>
+  <text
+     x="375.672"
+     y="188.92"
+     id="text69"
+     style="font-size:18.6667px"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+       id="tspan139">nivel de Fermi</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="470.52011"
+     y="84.963806"
+     id="text89"><tspan
+       sodipodi:role="line"
+       id="tspan87"
+       x="470.52011"
+       y="84.963806"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">banda de</tspan><tspan
+       sodipodi:role="line"
+       x="470.52011"
+       y="115.34019"
+       id="tspan91"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">conducción</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="470.78751"
+     y="259.93982"
+     id="text89-6"><tspan
+       sodipodi:role="line"
+       id="tspan87-6"
+       x="470.78751"
+       y="259.93982"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">banda de</tspan><tspan
+       sodipodi:role="line"
+       x="470.78751"
+       y="290.31619"
+       id="tspan91-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">valencia</tspan></text>
+</svg>

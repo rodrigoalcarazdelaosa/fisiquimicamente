@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   width="496.30817"
+   height="324"
+   viewBox="0 0 496.30817 324"
+   xml:space="preserve"
+   sodipodi:docname="parametros-moleculares.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
+   id="metadata171"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs169" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1440"
+   inkscape:window-height="900"
+   id="namedview167"
+   showgrid="false"
+   inkscape:zoom="1.6092896"
+   inkscape:cx="198.5187"
+   inkscape:cy="177.02037"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_2"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="88.308174"
+   y1="0"
+   x2="88.308174"
+   y2="324"
+   id="line10" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="3"
+   stroke-miterlimit="10"
+   x1="88.308174"
+   y1="108"
+   x2="478.30817"
+   y2="108"
+   id="line12" />
+<rect
+   x="22.308178"
+   y="282"
+   fill="none"
+   width="54"
+   height="42"
+   id="rect14" />
+<text
+   id="text20"
+   style="font-size:24px"
+   x="20.281778"
+   y="292.94089"><tspan
+     x="20.281778"
+     y="292.94089"
+     font-family="Helvetica"
+     font-size="18px"
+     id="tspan16"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'"
+       id="tspan211">E</tspan><tspan
+       style="font-size:65%;baseline-shift:sub"
+       id="tspan223">enlace</tspan></tspan></text>
+<rect
+   x="190.30818"
+   y="90"
+   fill="none"
+   width="48"
+   height="18"
+   id="rect22" />
+<text
+   font-family="Helvetica"
+   font-size="14px"
+   id="text24"
+   style="font-size:24px"
+   x="180.30809"
+   y="96.065903"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     id="tspan213">r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan219">enlace</tspan><tspan
+   style="font-size:24px;baseline-shift:sub"
+   id="tspan215" /></tspan></text>
+<rect
+   x="300.59717"
+   y="189"
+   fill="none"
+   width="108"
+   height="18"
+   id="rect26" />
+<text
+   font-family="Helvetica"
+   font-size="14"
+   id="text28"
+   style="font-size:18.6667px"
+   x="289.4566"
+   y="199.0659"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     id="tspan182">fuerzas atractivas</tspan></text>
+<rect
+   x="98.597176"
+   y="235"
+   fill="none"
+   width="72"
+   height="30"
+   id="rect30" />
+<text
+   id="text36"
+   x="163.38354"
+   y="231.06589"
+   style="font-size:18.6667px"><tspan
+     sodipodi:role="line"
+     id="tspan195"
+     x="133.32983"
+     y="231.06589"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"><tspan
+       x="133.32983"
+       y="231.06589"
+       font-family="Helvetica"
+       font-size="14px"
+       id="tspan32"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">fuerzas</tspan></tspan><tspan
+     sodipodi:role="line"
+     id="tspan197"
+     x="133.32983"
+     y="254.69202"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">repulsivas</tspan></text>
+<rect
+   x="244.30818"
+   y="306"
+   fill="none"
+   width="108"
+   height="18"
+   id="rect38" />
+<text
+   font-family="Helvetica"
+   font-size="14px"
+   id="text40"
+   style="font-size:18.6667px"
+   x="240.30858"
+   y="315.40268"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     id="tspan217">estado más estable</tspan></text>
+<rect
+   x="8.0191765"
+   y="21"
+   fill="none"
+   width="72"
+   height="78"
+   id="rect42" />
+<text
+   id="text48"
+   style="font-size:24px"
+   x="83.928932"
+   y="19.941399"><tspan
+     sodipodi:role="line"
+     id="tspan174"
+     x="41.965874"
+     y="19.941399"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"><tspan
+       x="41.965874"
+       y="19.941399"
+       font-family="Helvetica"
+       font-size="18px"
+       id="tspan44"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">energía</tspan></tspan><tspan
+     sodipodi:role="line"
+     id="tspan176"
+     x="41.965874"
+     y="50.317787"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle">potencial</tspan></text>
+<g
+   id="g60"
+   transform="translate(-5.4028231,-24)">
+	<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2"
+   stroke-miterlimit="10"
+   x1="87.710999"
+   y1="312"
+   x2="90.210999"
+   y2="312"
+   id="line50" />
+	
+		<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2"
+   stroke-miterlimit="10"
+   stroke-dasharray="5, 5"
+   x1="95.210999"
+   y1="312"
+   x2="202.711"
+   y2="312"
+   id="line52" />
+	<polyline
+   fill="none"
+   stroke="#999999"
+   stroke-width="2"
+   stroke-miterlimit="10"
+   points="205.211,312 207.711,312 207.711,309.5     "
+   id="polyline54" />
+	
+		<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2"
+   stroke-miterlimit="10"
+   stroke-dasharray="5, 5"
+   x1="207.711"
+   y1="304.5"
+   x2="207.711"
+   y2="137"
+   id="line56" />
+	<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2"
+   stroke-miterlimit="10"
+   x1="207.711"
+   y1="134.5"
+   x2="207.711"
+   y2="132"
+   id="line58" />
+</g>
+<radialGradient
+   id="SVGID_14_"
+   cx="218.3774"
+   cy="327.6665"
+   r="16.1803"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="translate(-5.4028231,-24)">
+	<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop62" />
+	<stop
+   offset="1"
+   style="stop-color:#2E3192"
+   id="stop64" />
+</radialGradient>
+<circle
+   fill="url(#SVGID_14_)"
+   cx="217.30818"
+   cy="309"
+   r="15"
+   id="circle67"
+   style="fill:url(#SVGID_14_)" />
+<radialGradient
+   id="SVGID_16_"
+   cx="188.377"
+   cy="327.6665"
+   r="16.1803"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="translate(-5.4028231,-24)">
+	<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop69" />
+	<stop
+   offset="1"
+   style="stop-color:#2E3192"
+   id="stop71" />
+</radialGradient>
+<circle
+   fill="url(#SVGID_16_)"
+   cx="187.30818"
+   cy="309"
+   r="15"
+   id="circle74"
+   style="fill:url(#SVGID_16_)" />
+<g
+   id="g126"
+   transform="translate(-5.4028231,-24)">
+	<g
+   id="g82">
+		<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2.3094"
+   stroke-miterlimit="10"
+   x1="336.711"
+   y1="48"
+   x2="336.711"
+   y2="46.5"
+   id="line76" />
+		
+			<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2.3094"
+   stroke-miterlimit="10"
+   stroke-dasharray="3, 3"
+   x1="336.711"
+   y1="43.5"
+   x2="336.711"
+   y2="27"
+   id="line78" />
+		<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2.3094"
+   stroke-miterlimit="10"
+   x1="336.711"
+   y1="25.5"
+   x2="336.711"
+   y2="24"
+   id="line80" />
+	</g>
+	<g
+   id="g90">
+		<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2.3094"
+   stroke-miterlimit="10"
+   x1="421.711"
+   y1="48"
+   x2="421.711"
+   y2="46.5"
+   id="line84" />
+		
+			<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2.3094"
+   stroke-miterlimit="10"
+   stroke-dasharray="3, 3"
+   x1="421.711"
+   y1="43.5"
+   x2="421.711"
+   y2="27"
+   id="line86" />
+		<line
+   fill="none"
+   stroke="#999999"
+   stroke-width="2.3094"
+   stroke-miterlimit="10"
+   x1="421.711"
+   y1="25.5"
+   x2="421.711"
+   y2="24"
+   id="line88" />
+	</g>
+	<radialGradient
+   id="SVGID_24_"
+   cx="332.37741"
+   cy="61.667"
+   r="16.1803"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop92" />
+		<stop
+   offset="1"
+   style="stop-color:#2E3192"
+   id="stop94" />
+	</radialGradient>
+	<circle
+   fill="url(#SVGID_24_)"
+   cx="336.711"
+   cy="67"
+   r="15"
+   id="circle97"
+   style="fill:url(#SVGID_24_)" />
+	<radialGradient
+   id="SVGID_26_"
+   cx="416.37741"
+   cy="61.667"
+   r="16.1803"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop99" />
+		<stop
+   offset="1"
+   style="stop-color:#2E3192"
+   id="stop101" />
+	</radialGradient>
+	<circle
+   fill="url(#SVGID_26_)"
+   cx="420.711"
+   cy="67"
+   r="15"
+   id="circle104"
+   style="fill:url(#SVGID_26_)" />
+	<g
+   id="g112">
+		<line
+   fill="none"
+   stroke="#666666"
+   stroke-miterlimit="10"
+   x1="367.711"
+   y1="36"
+   x2="345.418"
+   y2="36"
+   id="line106" />
+		<g
+   id="g110">
+			<path
+   fill="#666666"
+   d="m 346.674,36 1.534,2.522 -0.086,0.057 -4.112,-1.633 c -1.434,-0.315 -2.866,-0.63 -4.299,-0.946 1.433,-0.315 2.865,-0.63 4.299,-0.946 l 4.112,-1.633 0.086,0.043 z"
+   id="path108" />
+		</g>
+	</g>
+	<g
+   id="g120">
+		<line
+   fill="none"
+   stroke="#666666"
+   stroke-miterlimit="10"
+   x1="389.711"
+   y1="36"
+   x2="414.004"
+   y2="36"
+   id="line114" />
+		<g
+   id="g118">
+			<path
+   fill="#666666"
+   d="m 412.749,36 -1.534,-2.522 0.086,-0.057 4.112,1.633 c 1.434,0.315 2.866,0.63 4.299,0.946 -1.433,0.315 -2.865,0.63 -4.299,0.946 l -4.112,1.633 -0.086,-0.043 z"
+   id="path116" />
+		</g>
+	</g>
+	<rect
+   x="369.711"
+   y="27"
+   fill="none"
+   width="18"
+   height="24"
+   id="rect122" />
+	<text
+   transform="translate(375.2153,41.3423)"
+   font-family="Times-Roman"
+   font-size="21px"
+   id="text124"
+   style="font-size:24px"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     id="tspan178">r</tspan></text>
+</g>
+<rect
+   x="478.30817"
+   y="99"
+   fill="none"
+   width="18"
+   height="24"
+   id="rect128" />
+<text
+   font-family="Times-Roman"
+   font-size="21px"
+   id="text130"
+   style="font-size:24px"
+   x="483.81247"
+   y="113.3423"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     id="tspan180">r</tspan></text>
+<path
+   fill="none"
+   stroke="#009245"
+   stroke-width="4"
+   stroke-miterlimit="10"
+   d="m 154.30818,12 c 3.655,49.352 18,276 48,276 30,0 44.727,-81.635 60,-102 36,-48 90,-72 216,-72"
+   id="path132" />
+
+<g
+   id="g192"
+   transform="translate(-5.4028231,-24)"><g
+     id="g140">
+	<line
+   fill="none"
+   stroke="#dcc5ed"
+   stroke-width="5"
+   stroke-miterlimit="10"
+   x1="303.711"
+   y1="231"
+   x2="339.483"
+   y2="231"
+   id="line134" />
+	<g
+   id="g138">
+		<path
+   fill="#dcc5ed"
+   d="m 336.791,231 -3.287,-5.404 0.185,-0.123 8.812,3.501 c 3.07,0.675 6.141,1.351 9.211,2.026 -3.07,0.676 -6.141,1.351 -9.211,2.026 l -8.812,3.501 -0.185,-0.093 z"
+   id="path136" />
+	</g>
+</g><g
+     id="g148">
+	<line
+   fill="none"
+   stroke="#dcc5ed"
+   stroke-width="5"
+   stroke-miterlimit="10"
+   x1="405.711"
+   y1="231"
+   x2="369.94"
+   y2="231"
+   id="line142" />
+	<g
+   id="g146">
+		<path
+   fill="#dcc5ed"
+   d="m 372.632,231 3.287,5.404 -0.185,0.123 -8.812,-3.501 c -3.07,-0.675 -6.141,-1.351 -9.211,-2.026 3.07,-0.676 6.141,-1.351 9.211,-2.026 l 8.812,-3.501 0.185,0.093 z"
+   id="path144" />
+	</g>
+</g></g>
+
+<g
+   id="g207"
+   transform="translate(-5.4028231,-24)"><g
+     id="g156">
+	<line
+   fill="none"
+   stroke="#dcc5ed"
+   stroke-width="5"
+   stroke-miterlimit="10"
+   x1="141.711"
+   y1="291"
+   x2="165.483"
+   y2="291"
+   id="line150" />
+	<g
+   id="g154">
+		<path
+   fill="#dcc5ed"
+   d="m 162.791,291 -3.287,-5.404 0.185,-0.123 8.812,3.501 c 3.07,0.675 6.141,1.351 9.211,2.026 -3.07,0.676 -6.141,1.351 -9.211,2.026 l -8.812,3.501 -0.185,-0.093 z"
+   id="path152" />
+	</g>
+</g><g
+     id="g164">
+	<line
+   fill="none"
+   stroke="#dcc5ed"
+   stroke-width="5"
+   stroke-miterlimit="10"
+   x1="135.711"
+   y1="291"
+   x2="111.94"
+   y2="291"
+   id="line158" />
+	<g
+   id="g162">
+		<path
+   fill="#dcc5ed"
+   d="m 114.632,291 3.287,5.404 -0.185,0.123 -8.812,-3.501 c -3.07,-0.675 -6.141,-1.351 -9.211,-2.026 3.07,-0.676 6.141,-1.351 9.211,-2.026 l 8.812,-3.501 0.185,0.093 z"
+   id="path160" />
+	</g>
+</g></g>
+</svg>
