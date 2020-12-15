@@ -48,11 +48,11 @@ Distancia media entre los núcleos de dos átomos enlazados.
 Ángulo formado por tres átomos enlazados consecutivamente.
 
 ### Polaridad de enlace
-Es la separación de cargas eléctricas en una molécula, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
+Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" title="Imágenes adaptadas de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/bond-polarity-and-dipole-moments." lightbox="false" width="100%" >}}
 		
-Una molécula será polar si, además de contener al menos un enlace polar, tiene una geometría asimétrica en al menos una dirección, para que los momentos dipolares no se cancelen.
+Una molécula será polar si el momento dipolar total (suma vectorial) es distinto de cero.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/BF3.png" title="La molécula de BF<sub>3</sub> tiene tres enlaces polares pero debido a su geometría trigonal plana el momento dipolar resultante es nulo.  Fuente: https://commons.wikimedia.org/wiki/File:Boron-trifluoride-elpot-3D-vdW.png." lightbox="true" >}}		
 
