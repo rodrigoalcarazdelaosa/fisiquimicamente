@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="puente-hidrogeno.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="enlaces-hidrogeno.svg"
    id="svg779"
    xml:space="preserve"
    style="enable-background:new 0 0 458.27 395.02;"
@@ -48,14 +48,14 @@
 	</defs><sodipodi:namedview
    inkscape:current-layer="svg779"
    inkscape:window-maximized="0"
-   inkscape:window-y="0"
+   inkscape:window-y="25"
    inkscape:window-x="0"
    inkscape:cy="197.51"
    inkscape:cx="229.135"
    inkscape:zoom="1"
    showgrid="false"
    id="namedview781"
-   inkscape:window-height="900"
+   inkscape:window-height="766"
    inkscape:window-width="1440"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0"
@@ -64,7 +64,8 @@
    objecttolerance="10"
    borderopacity="1"
    bordercolor="#666666"
-   pagecolor="#ffffff" />
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
 <style
    id="style10"
    type="text/css">
@@ -2133,7 +2134,7 @@
      y="294.27164"
      x="49.273621"
      id="tspan846"
-     sodipodi:role="line">Puente de</tspan><tspan
+     sodipodi:role="line">Enlace de</tspan><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
      id="tspan850"
      y="314.52255"

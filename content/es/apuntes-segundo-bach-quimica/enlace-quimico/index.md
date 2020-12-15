@@ -50,7 +50,7 @@ Distancia media entre los núcleos de dos átomos enlazados.
 ### Polaridad de enlace
 Es la separación de cargas eléctricas en una molécula, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" title="Imágenes adaptadas de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/bond-polarity-and-dipole-moments." lightbox="false" width="100%" >}}
 		
 Una molécula será polar si, además de contener al menos un enlace polar, tiene una geometría asimétrica en al menos una dirección, para que los momentos dipolares no se cancelen.
 
@@ -113,7 +113,7 @@ Las estructuras de Lewis muestran cada átomo y su posición en la estructura de
 ### Resonancia
 La **resonancia** es una forma de describir el enlace en ciertas moléculas mediante la combinación de varias **estructuras resonantes** cuyo conjunto se conoce como un **híbrido** de **resonancia**. Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas o iones poliatómicos.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia.svg" lightbox="false" width="100%" >}}		
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Benzene_delocalization.svg." lightbox="false" width="100%" >}}		
 
 ### Propiedades de las sustancias covalentes moleculares
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ carbono (C); 🔴 $\rightarrow$ oxígeno (O); ⚪ $\rightarrow$ hidrógeno (H). <br>Fuente: https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
@@ -138,18 +138,18 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 ### TRPECV
 La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPECV) se basa en que, como los electrones de valencia se repelen unos a otros, éstos tienden a adoptar una disposición espacial que minimiza dicha repulsión.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" title="Imágenes adaptadas de https://www.sigmaaldrich.com/technical-documents/articles/chemistry/vsepr-chart-valence-shell-electron-pair-repulsion-theory.html." lightbox="false" width="100%" >}}
 
 ### TEV
 La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</sup> compartidos se encuentran en una zona de **solapamiento orbital**:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV.svg" title="Imágenes adaptadas de https://www.coursehero.com/sg/general-chemistry/valence-bond-theory/." lightbox="false" width="100%" >}}
 
 #### Hibridación
 
 La **hibridación** consiste en combinar orbitales atómicos del átomo central para formar **orbitales híbridos** energéticamente iguales y orientados en la dirección del enlace.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes adaptadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/" lightbox="false" width="100%" >}}
 
 ## Enlace metálico
 
