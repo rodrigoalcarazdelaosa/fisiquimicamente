@@ -74,11 +74,13 @@ Es un enlace que involucra la **atracción electrostática** entre **iones** de 
 Es la **energía liberada** al **formar** la **red** a partir de sus iones en estado gaseoso.
 
 #### Ciclo de Born-Haber
+
 Formación de un compuesto iónico a partir de sus elementos.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber.svg" title="Ciclo de Born-Haber para la formación del fluoruro de litio (LiF). Basada en https://commons.wikimedia.org/wiki/File:Born-haber_cycle_LiF.svg." lightbox="false" width="100%" >}}
 
 #### Ecuación de Born-Landé
+
 Permite calcular la **energía de red** $U_\mathrm R$:
 
 $$
@@ -122,6 +124,7 @@ También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum
 {{< youtube LNsSS6Id6bM >}}
 
 ### Propiedades de las sustancias metálicas
+
 - **Apariencia brillante**.
 - Son **buenos conductores** del **calor** y de la **electricidad**.
 - Forman **aleaciones** con otros metales.
@@ -129,11 +132,13 @@ También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum
 - La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
 
 ## Enlace covalente
+
 Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos. El **enlace covalente** suele darse **entre no metales** (tendencia a captar electrones).
 
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-covalente.svg" title="Representación de la **unión covalente** entre dos átomos de **flúor** (F) para formar F<sub>2</sub>, con un par de electrones compartidos. Adaptada de https://commons.wikimedia.org/wiki/File:Covalent_bond_fluorine.svg." lightbox="false" width="100%" >}}
 
 ### Estructuras de Lewis
+
 Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula.
 
 Las estructuras de Lewis muestran cada átomo y su posición en la estructura de la molécula usando su símbolo químico. Se dibujan líneas entre los átomos que están unidos entre sí (se pueden utilizar pares de puntos en lugar de líneas). El exceso de electrones que forman pares solitarios se representan como pares de puntos, y se colocan junto a los átomos.
@@ -149,21 +154,27 @@ Las estructuras de Lewis muestran cada átomo y su posición en la estructura de
 {{< /spoiler >}}
 
 #### Ejemplos
+
 ##### Agua (H<sub>2</sub>O)
+
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" >}}
 
 ##### Oxígeno (O<sub>2</sub>)
+
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-O2.svg" lightbox="false" width="100%" >}}
 
 ##### Dióxido de carbono (CO<sub>2</sub>)
+
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" >}}
 
 ### Resonancia
+
 La **resonancia** es una forma de describir el enlace en ciertas moléculas mediante la combinación de varias **estructuras resonantes** cuyo conjunto se conoce como un **híbrido** de **resonancia**. Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas o iones poliatómicos.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Benzene_delocalization.svg." lightbox="false" width="100%" >}}		
 
 ### Propiedades de las sustancias covalentes moleculares
+
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ carbono (C); 🔴 $\rightarrow$ oxígeno (O); ⚪ $\rightarrow$ hidrógeno (H). <br>Fuente: https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
 
 - Debido a las **débiles interacciones entre moléculas** covalentes, suelen tener **temperaturas** de **fusión** y **ebullición bajas** (muchos compuestos covalentes son **líquidos** o **gases** a **temperatura ambiente**).
@@ -184,11 +195,13 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 ## Geometría molecular
 
 ### TRPECV
+
 La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPECV) se basa en que, como los electrones de valencia se repelen unos a otros, éstos tienden a adoptar una disposición espacial que minimiza dicha repulsión.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" title="Imágenes adaptadas de https://www.sigmaaldrich.com/technical-documents/articles/chemistry/vsepr-chart-valence-shell-electron-pair-repulsion-theory.html." lightbox="false" width="100%" >}}
 
 ### TEV
+
 La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</sup> compartidos se encuentran en una zona de **solapamiento orbital**:
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV.svg" title="Imágenes adaptadas de https://www.coursehero.com/sg/general-chemistry/valence-bond-theory/." lightbox="false" width="100%" >}}
@@ -200,6 +213,7 @@ La **hibridación** consiste en combinar orbitales atómicos del átomo central 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes tomadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/" lightbox="false" width="100%" >}}
 
 ## Fuerzas intermoleculares
+
 Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las **moléculas**, incluyendo las fuerzas de atracción o repulsión que actúan entre las moléculas y otros tipos de partículas vecinas, por ejemplo, átomos o iones. Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas intramoleculares** (las que mantienen unida una molécula).
 
 ### Fuerzas de van der Waals
@@ -209,6 +223,7 @@ Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las *
 Se pueden dar entre **moléculas polares** (más fuertes cuanto mayor sea la polaridad de la molécula), y **apolares** (llamadas **fuerzas** de **dispersión** de **London**, más fuertes cuanto más grandes y masivas son las moléculas involucradas).
 
 ### Enlaces de hidrógeno
+
 También llamados *puentes de hidrógeno*, son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas que contienen átomos de **hidrógeno** unidos a átomos de **nitrógeno** (N), **oxígeno** (O) o **flúor** (F).
 
 {{< figure library="true" src="enlace-quimico-4ESO/enlaces-hidrogeno.svg" title="**Enlaces de hidrógeno** entre átomos de H y O en moléculas de **agua** (H<sub>2</sub>O). Traducida y adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
