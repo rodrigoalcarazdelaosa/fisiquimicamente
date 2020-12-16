@@ -9,6 +9,7 @@ tags:
 - chemical-bond
 categories:
 - Chemistry
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

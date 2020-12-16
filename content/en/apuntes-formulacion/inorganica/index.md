@@ -10,6 +10,7 @@ tags:
 - inorganic
 categories:
 - Chemistry
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

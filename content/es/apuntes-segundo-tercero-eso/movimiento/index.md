@@ -9,6 +9,7 @@ tags:
 - movimiento
 categories:
 - Física
+weight: 7
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -9,6 +9,7 @@ tags:
 - 20th-century-physics
 categories:
 - Physics
+weight: 6
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

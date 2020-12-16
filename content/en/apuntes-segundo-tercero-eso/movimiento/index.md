@@ -9,6 +9,7 @@ tags:
 - motion
 categories:
 - Physics
+weight: 7
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

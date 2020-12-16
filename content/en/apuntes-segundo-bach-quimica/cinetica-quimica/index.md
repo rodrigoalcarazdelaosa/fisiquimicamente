@@ -10,6 +10,7 @@ tags:
 - chemical-kinetics
 categories:
 - Chemistry
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
