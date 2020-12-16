@@ -24,6 +24,14 @@ subtitle = "🗂️ Por temas"
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
+
+[[content.filter_button]]
+    name = "Estructura de la materia"
+    tag = "estructura-atómica"
+	
+  [[content.filter_button]]
+    name = "Sistema periódico"
+    tag = "tabla-periódica"    
 	
   [[content.filter_button]]
     name = "Enlace químico"
@@ -32,6 +40,10 @@ subtitle = "🗂️ Por temas"
   [[content.filter_button]]
     name = "Termoquímica"
     tag = "termoquímica"	
+
+  [[content.filter_button]]
+    name = "Cinética química"
+    tag = "cinética-química"  
 	
   [[content.filter_button]]
     name = "Equilibrio químico"

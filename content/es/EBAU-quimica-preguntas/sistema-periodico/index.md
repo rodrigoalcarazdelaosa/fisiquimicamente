@@ -1,13 +1,13 @@
 ---
-title: Enlace químico
+title: Sistema periódico
 subtitle: Preguntas de EBAU resueltas
 summary: Preguntas de EBAU resueltas.
 tags:
 - EBAU
-- enlace-químico
+- tabla-periódica
 categories:
 - Química
-weight: 3
+weight: 2
 
 _build:
   render: never
@@ -16,6 +16,6 @@ _build:
 external_link: "https://drive.google.com/file/d/1INMw8VP-b3JKBOGZtkAzfKPdgaYzFI21/view"
 
 image:
-  caption: Imagen de [**Tomislav Jakupec**](https://pixabay.com/es/users/tommyvideo-3092371/) en [Pixabay](https://pixabay.com/es/)
+  caption: Imagen de [**vubp**](https://pixabay.com/es/users/vubp-6000785/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 ---

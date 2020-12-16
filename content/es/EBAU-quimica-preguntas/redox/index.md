@@ -8,6 +8,7 @@ tags:
 - rédox
 categories:
 - Química
+weight: 8
 
 _build:
   render: never

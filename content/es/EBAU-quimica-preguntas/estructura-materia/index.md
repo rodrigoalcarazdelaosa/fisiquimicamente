@@ -1,13 +1,14 @@
 ---
-title: Enlace químico
+title: Estructura de la materia
 subtitle: Preguntas de EBAU resueltas
 summary: Preguntas de EBAU resueltas.
 tags:
 - EBAU
-- enlace-químico
+- estructura-atómica
 categories:
+- Física
 - Química
-weight: 3
+weight: 1
 
 _build:
   render: never
@@ -16,6 +17,6 @@ _build:
 external_link: "https://drive.google.com/file/d/1INMw8VP-b3JKBOGZtkAzfKPdgaYzFI21/view"
 
 image:
-  caption: Imagen de [**Tomislav Jakupec**](https://pixabay.com/es/users/tommyvideo-3092371/) en [Pixabay](https://pixabay.com/es/)
+  caption: Imagen de [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 ---

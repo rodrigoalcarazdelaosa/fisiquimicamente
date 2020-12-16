@@ -7,6 +7,7 @@ tags:
 - gravitación
 categories:
 - Física
+weight: 1
 
 _build:
   render: never

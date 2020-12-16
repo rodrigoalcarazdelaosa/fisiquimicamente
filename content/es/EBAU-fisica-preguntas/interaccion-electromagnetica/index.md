@@ -7,6 +7,7 @@ tags:
 - electromagnetismo
 categories:
 - Física
+weight: 2
 
 _build:
   render: never

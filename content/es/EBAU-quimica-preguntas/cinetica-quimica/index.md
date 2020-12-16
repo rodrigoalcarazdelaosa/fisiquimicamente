@@ -1,14 +1,14 @@
 ---
-title: Equilibrio químico
+title: Cinética química
 subtitle: Preguntas de EBAU resueltas
 summary: Preguntas de EBAU resueltas.
 tags:
 - EBAU
 - reacciones-químicas
-- equilibrio-químico
+- cinética-química
 categories:
 - Química
-weight: 6
+weight: 5
 
 _build:
   render: never
@@ -17,6 +17,6 @@ _build:
 external_link: "https://drive.google.com/file/d/1WvfHsF2jrXyeKUygZbMz0BKkNSvS699x/view"
 
 image:
-  caption: Foto de [**Polina Tankilevitch**](https://www.pexels.com/es-es/@polina-tankilevitch) en [Pexels](https://www.pexels.com/es-es/)
+  caption: Imagen de [**Jalyn Bryce**](https://pixabay.com/es/users/jalynbryce-5426636/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 ---

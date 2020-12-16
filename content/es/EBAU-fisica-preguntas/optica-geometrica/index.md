@@ -7,6 +7,7 @@ tags:
 - óptica
 categories:
 - Física
+weight: 4
 
 _build:
   render: never
