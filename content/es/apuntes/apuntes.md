@@ -45,7 +45,7 @@ subtitle = "En formato **texto**, **diapositivas** y **póster** (_chuleta_)"
   description = ""
 
 [[feature]]
-  icon = "[📖](formulacion-nomenclatura-quimica)"
+  icon = "[📔](formulacion-nomenclatura-quimica)"
   icon_pack = "emoji"
   name = "[Formulación y nomenclatura de Química](formulacion-nomenclatura-quimica)"
   description = ""

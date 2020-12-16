@@ -45,7 +45,7 @@ subtitle = "In **Text**, **Slides** and **Poster** (*Cheat Sheet*) Format"
   description = ""
 
 [[feature]]
-  icon = "[📖](nomenclature-chemistry)"
+  icon = "[📔](nomenclature-chemistry)"
   icon_pack = "emoji"
   name = "[Nomenclature of Chemistry](nomenclature-chemistry)"
   description = ""
