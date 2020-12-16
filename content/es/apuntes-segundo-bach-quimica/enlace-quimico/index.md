@@ -96,6 +96,33 @@ Se comprueba que la **energía** de **red** es:
 - Ante **golpes**, el **alineamiento** de los **iones** positivos y negativos **puede perderse**, por lo que son muy **frágiles**, aunque también muy **duros**.
 - **Fundidos** o en **disolución**, **conducen** la **corriente eléctrica**.
 
+## Enlace metálico
+
+El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí. Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
+
+### Modelo del gas electrónico
+
+{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Modelo del **gas electrónico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***. Fuente: https://commons.wikimedia.org/wiki/File:Metalic_bond_model.svg." lightbox="false" width="100%" >}}
+
+### Teoría de bandas
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/teoria-bandas.svg" title="Comparación de la **estructura** de **bandas** electrónicas de un **metal**, un **semiconductor** y un **aislante**. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Isolator-metal.svg." lightbox="false" width="100%" >}}
+
+{{% callout note %}}
+Puedes aprender más sobre la **teoría** de **bandas** y cómo ésta explica la **conductividad eléctrica** en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
+{{% /callout %}}
+
+También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) donde explican la **diferencia** entre un **metal** y un **aislante**:
+
+{{< youtube LNsSS6Id6bM >}}
+
+### Propiedades de las sustancias metálicas
+- **Apariencia brillante**.
+- Son **buenos conductores** del **calor** y de la **electricidad**.
+- Forman **aleaciones** con otros metales.
+- **Tienden** a **ceder** (perder) **electrones** al reaccionar con otras sustancias.
+- La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
+
 ## Enlace covalente
 Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos. El **enlace covalente** suele darse **entre no metales** (tendencia a captar electrones).
 
@@ -166,33 +193,6 @@ La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</su
 La **hibridación** consiste en combinar orbitales atómicos del átomo central para formar **orbitales híbridos** energéticamente iguales y orientados en la dirección del enlace.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes tomadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/" lightbox="false" width="100%" >}}
-
-## Enlace metálico
-
-El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí. Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
-
-### Modelo del gas electrónico
-
-{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Modelo del **gas electrónico**, con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***. Fuente: https://commons.wikimedia.org/wiki/File:Metalic_bond_model.svg." lightbox="false" width="100%" >}}
-
-### Teoría de bandas
-
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/teoria-bandas.svg" title="Comparación de la **estructura** de **bandas** electrónicas de un **metal**, un **semiconductor** y un **aislante**. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Isolator-metal.svg." lightbox="false" width="100%" >}}
-
-{{% callout note %}}
-Puedes aprender más sobre la **teoría** de **bandas** y cómo ésta explica la **conductividad eléctrica** en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
-{{% /callout %}}
-
-También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) donde explican la **diferencia** entre un **metal** y un **aislante**:
-
-{{< youtube LNsSS6Id6bM >}}
-
-### Propiedades de las sustancias metálicas
-- **Apariencia brillante**.
-- Son **buenos conductores** del **calor** y de la **electricidad**.
-- Forman **aleaciones** con otros metales.
-- **Tienden** a **ceder** (perder) **electrones** al reaccionar con otras sustancias.
-- La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
 
 ## Fuerzas intermoleculares
 Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las **moléculas**, incluyendo las fuerzas de atracción o repulsión que actúan entre las moléculas y otros tipos de partículas vecinas, por ejemplo, átomos o iones. Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas intramoleculares** (las que mantienen unida una molécula).

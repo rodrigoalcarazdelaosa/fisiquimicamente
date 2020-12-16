@@ -15,9 +15,9 @@ slides:
 - [Regla del octeto](#/1)
 - [Parámetros moleculares](#/2)
 - [Enlace iónico](#/3)
-- [Enlace covalente](#/4)
-- [Geometría molecular](#/5)
-- [Enlace metálico](#/6)
+- [Enlace metálico](#/4)
+- [Enlace covalente](#/5)
+- [Geometría molecular](#/6)
 - [Fuerzas intermoleculares](#/7)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
@@ -163,6 +163,54 @@ Se comprueba que la **energía** de **red** es:
 
 {{% section %}}
 
+## Enlace metálico
+El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí.
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
+
+---
+
+### Modelo del gas electrónico
+
+{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***." lightbox="false" width="55%" >}}
+
+---
+
+### Teoría de bandas
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/teoria-bandas.svg" lightbox="false" width="100%" >}}
+
+---
+
+> Puedes aprender más sobre la **teoría** de **bandas** y cómo ésta explica la **conductividad eléctrica** en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
+
+---
+
+También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés):
+
+{{< youtube LNsSS6Id6bM >}}
+
+---
+
+### Propiedades de las sustancias metálicas
+- **Apariencia brillante**.
+- Son **buenos conductores** del **calor** y de la **electricidad**.
+- Forman **aleaciones** con otros metales.
+- **Tienden** a **ceder** (perder) **electrones** al reaccionar con otras sustancias.
+- La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Enlace covalente
 Es un enlace químico que implica la **compartición** de **pares** de **electrones** entre átomos.
 
@@ -268,8 +316,8 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 ## Geometría molecular
 
-- [TRPECV](#/5/1)
-- [TEV](#/5/3)
+- [TRPECV](#/6/1)
+- [TEV](#/6/3)
 
 (continúa hacia abajo)
 
@@ -302,54 +350,6 @@ La **hibridación** consiste en combinar orbitales atómicos del átomo central 
 ---
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" lightbox="false" width="100%" >}}
-
-{{% /section %}}
-
----
-
-{{% section %}}
-
-## Enlace metálico
-El **enlace metálico** es el enlace químico que **mantiene unidos** a los **átomos** de un **metal** entre sí.
-
-(continúa hacia abajo)
-
-👇
-
----
-
-Surge de la **atracción electrostática** entre los **electrones** de conducción y los **cationes** metálicos.
-
----
-
-### Modelo del gas electrónico
-
-{{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Con los **cationes** en **posiciones fijas** y los **electrones moviéndose libremente** en una ***nube***." lightbox="false" width="55%" >}}
-
----
-
-### Teoría de bandas
-
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/teoria-bandas.svg" lightbox="false" width="100%" >}}
-
----
-
-> Puedes aprender más sobre la **teoría** de **bandas** y cómo ésta explica la **conductividad eléctrica** en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
-
----
-
-También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés):
-
-{{< youtube LNsSS6Id6bM >}}
-
----
-
-### Propiedades de las sustancias metálicas
-- **Apariencia brillante**.
-- Son **buenos conductores** del **calor** y de la **electricidad**.
-- Forman **aleaciones** con otros metales.
-- **Tienden** a **ceder** (perder) **electrones** al reaccionar con otras sustancias.
-- La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
 
 {{% /section %}}
 
