@@ -88,7 +88,7 @@
   weight = 5
   
 [[main]]
-  name = "👨🏼‍🔬 Intereses y formación"
+  name = "👨🏼‍🎓 Intereses y formación"
   url = "sobre-mi/"
   parent = "sobre-mi"
   weight = 1

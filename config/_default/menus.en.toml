@@ -100,7 +100,7 @@
   weight = 6
   
 [[main]]
-  name = "👨🏼‍🔬 Interests and Education"
+  name = "👨🏼‍🎓 Interests and Education"
   url = "about-me/"
   parent = "sobre-mi"
   weight = 1
