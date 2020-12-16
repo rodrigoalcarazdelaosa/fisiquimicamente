@@ -34,22 +34,16 @@
   weight = 4
 
 [[main]]
-  name = "17-18 year-olds Physics"
-  url = "physics-chemistry-notes/17-18-year-olds-physics"
+  name = "17-18 year-olds"
+  url = "physics-chemistry-notes/17-18-year-olds"
   parent = "apuntes"
-  weight = 5
-  
-[[main]]
-  name = "17-18 year-olds Chemistry"
-  url = "physics-chemistry-notes/17-18-year-olds-chemistry"
-  parent = "apuntes"
-  weight = 6  
+  weight = 5 
   
 [[main]]
   name = "Nomenclature of Chemistry"
   url = "physics-chemistry-notes/nomenclature-chemistry"
   parent = "apuntes"
-  weight = 7  
+  weight = 6  
 
 [[main]]
   name = "👐🏼 Tutorials"

@@ -1,9 +1,9 @@
 ---
 title: Campo magnético
-url: "/recursos-fisica-quimica/apuntes/2bach-fisica/campo-magnetico"
+url: "/recursos-fisica-quimica/apuntes/2bach/fisica/campo-magnetico"
 subtitle: Flujo magnético e inducción electromagnética
 summary: "`PRÓXIMAMENTE` <br> Campo magnético. Flujo magnético. Inducción electromagnética."
-breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach-fisica"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 tags:
 - 2º Bach
 - electromagnetismo

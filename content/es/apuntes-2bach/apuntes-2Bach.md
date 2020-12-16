@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "📚 Apuntes de Física y Química"
-subtitle = "En formato **texto**, **diapositivas** y **póster** (_chuleta_)"
+title = "📚 Apuntes"
+subtitle = "2º Bach"
 
 # Showcase personal skills or business features.
 # 
@@ -15,40 +15,19 @@ subtitle = "En formato **texto**, **diapositivas** y **póster** (_chuleta_)"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📗](2eso)"
+  icon = "[☢️](fisica)"
   icon_pack = "emoji"
-  name = "[2º ESO](2eso)"
+  name = "[Física](fisica)"
   description = ""
   
 [[feature]]
-  icon = "[📘](3eso)"
+  icon = "[⚗️](quimica)"
   icon_pack = "emoji"
-  name = "[3º ESO](3eso)"
+  name = "[Química](quimica)"
   description = ""
   
-[[feature]]
-  icon = "[📙](4eso)"
-  icon_pack = "emoji"
-  name = "[4º ESO](4eso)"
-  description = ""
-  
-[[feature]]
-  icon = "[📕](1bach)"
-  icon_pack = "emoji"
-  name = "[1º Bach](1bach)"
-  description = ""
-      
-[[feature]]
-  icon = "[📗](2bach)"
-  icon_pack = "emoji"
-  name = "[2º Bach](2bach)"
-  description = ""
-
-[[feature]]
-  icon = "[📖](formulacion-nomenclatura-quimica)"
-  icon_pack = "emoji"
-  name = "[Formulación y nomenclatura de Química](formulacion-nomenclatura-quimica)"
-  description = ""
+[design]
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -79,9 +58,4 @@ subtitle = "En formato **texto**, **diapositivas** y **póster** (_chuleta_)"
  
  # CSS class.
  css_class = ""
-
 +++
-
-{{% callout note %}}
-También te recomiendo echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
-{{% /callout %}}

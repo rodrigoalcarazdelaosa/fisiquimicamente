@@ -90,14 +90,18 @@
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/1bach">1º Bach</a></li>
     {{else if eq . "16-17-year-olds"}}
   	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/16-17-year-olds">16&ndash;17 year-olds</a></li>	
-    {{else if eq . "2bach-fisica"}}
-  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach-fisica">2º Bach Física</a></li>
-    {{else if eq . "17-18-year-olds-physics"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds-physics">17&ndash;18 year-olds Physics</a></li>
-    {{else if eq . "2bach-quimica"}}
-  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach-quimica">2º Bach Química</a></li>
-    {{else if eq . "17-18-year-olds-chemistry"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds-chemistry">17&ndash;18 year-olds Chemistry</a></li>	
+    {{else if eq . "2bach"}}
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach">2º Bach</a></li>
+    {{else if eq . "17-18-year-olds"}}
+  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds">17&ndash;18 year-olds</a></li>
+    {{else if eq . "fisica"}}
+  	<li class="breadcrumb-item">☢️ <a href="/recursos-fisica-quimica/apuntes/2bach/fisica">Física</a></li>
+    {{else if eq . "physics"}}
+    <li class="breadcrumb-item">☢️ <a href="/en/physics-chemistry-notes/17-18-year-olds/physics">Physics</a></li>
+    {{else if eq . "quimica"}}
+  	<li class="breadcrumb-item">⚗️ <a href="/recursos-fisica-quimica/apuntes/2bach/quimica">Química</a></li>
+    {{else if eq . "chemistry"}}
+  	<li class="breadcrumb-item">⚗️ <a href="/en/physics-chemistry-notes/17-18-year-olds/chemistry">Chemistry</a></li>	
     {{else if eq . "formulacion-nomenclatura-quimica"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica">Formulación y nomenclatura de Química</a></li>
     {{else if eq . "nomenclature-chemistry"}}

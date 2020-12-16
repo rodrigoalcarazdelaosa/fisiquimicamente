@@ -1,9 +1,9 @@
 ---
 title: Sistema periódico
-url: "/recursos-fisica-quimica/apuntes/2bach-quimica/sistema-periodico"
+url: "/recursos-fisica-quimica/apuntes/2bach/quimica/sistema-periodico"
 subtitle: Tabla periódica, configuración electrónica y propiedades periódicas
 summary: "Tabla periódica y configuración electrónica. Propiedades periódicas."
-breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach-quimica"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 tags:
 - 2º Bach
 - tabla-periódica
