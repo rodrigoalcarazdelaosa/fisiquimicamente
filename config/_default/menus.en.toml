@@ -10,37 +10,37 @@
   weight = 1
   
 [[main]]
-  name = "13-14 year-olds"
+  name = "📗 13-14 year-olds"
   url = "physics-chemistry-notes/13-14-year-olds"
   parent = "apuntes"
   weight = 1
 
 [[main]]
-  name = "14-15 year-olds"
+  name = "📘 14-15 year-olds"
   url = "physics-chemistry-notes/14-15-year-olds"
   parent = "apuntes"
   weight = 2
 
 [[main]]
-  name = "15-16 year-olds"
+  name = "📙 15-16 year-olds"
   url = "physics-chemistry-notes/15-16-year-olds"
   parent = "apuntes"
   weight = 3
 
 [[main]]
-  name = "16-17 year-olds"
+  name = "📕 16-17 year-olds"
   url = "physics-chemistry-notes/16-17-year-olds"
   parent = "apuntes"
   weight = 4
 
 [[main]]
-  name = "17-18 year-olds"
+  name = "📗 17-18 year-olds"
   url = "physics-chemistry-notes/17-18-year-olds"
   parent = "apuntes"
   weight = 5 
   
 [[main]]
-  name = "Nomenclature of Chemistry"
+  name = "📔 Nomenclature of Chemistry"
   url = "physics-chemistry-notes/nomenclature-chemistry"
   parent = "apuntes"
   weight = 6  

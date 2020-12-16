@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "📚 Apuntes"
-subtitle = "Formulación y nomenclatura de Química"
+subtitle = "📔 Formulación y nomenclatura de Química"
 
 [content]
   # Page type to display. E.g. project.

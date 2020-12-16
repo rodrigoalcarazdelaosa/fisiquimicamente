@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "📚 Notes"
-subtitle = "14--15 year-olds"
+subtitle = "📘 14--15 year-olds"
 
 [content]
   # Page type to display. E.g. project.
