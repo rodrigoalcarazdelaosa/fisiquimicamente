@@ -40,22 +40,26 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/parametros-moleculares.svg" title="Traducida y adaptada de https://ch301.cm.utexas.edu/section2.php?target=atomic/bonding/covalent-bonding.html." lightbox="false" width="100%" >}}
 
 ### Energía de enlace
+
 Es una medida de la **fortaleza** de un **enlace químico**.
 
 ### Longitud de enlace
+
 Distancia media entre los núcleos de dos átomos enlazados.
 
 ### Ángulo de enlace
+
 Ángulo formado por tres átomos enlazados consecutivamente.
 
 ### Polaridad de enlace
+
 Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" title="Imágenes adaptadas de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/bond-polarity-and-dipole-moments." lightbox="false" width="100%" >}}
-		
+
 Una molécula será polar si el momento dipolar total (suma vectorial) es distinto de cero.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/BF3.png" title="La molécula de BF<sub>3</sub> tiene tres enlaces polares pero debido a su geometría trigonal plana el momento dipolar resultante es nulo.  Fuente: https://commons.wikimedia.org/wiki/File:Boron-trifluoride-elpot-3D-vdW.png." lightbox="true" >}}		
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/BF3.png" title="La molécula de BF<sub>3</sub> tiene tres enlaces polares pero debido a su geometría trigonal plana el momento dipolar resultante es nulo.  Fuente: https://commons.wikimedia.org/wiki/File:Boron-trifluoride-elpot-3D-vdW.png." lightbox="true" >}}
 
 ## Enlace iónico
 
@@ -89,6 +93,7 @@ Se comprueba que la **energía** de **red** es:
 - **Inversamente proporcional** a la **distancia** interiónica.
 
 ### Propiedades de las sustancias iónicas
+
 - Debido a las **intensas fuerzas electrostáticas** entre los iones, suelen tener **temperaturas** de **fusión** y **ebullición** muy **elevadas**, por lo que la mayoría son **sólidos cristalinos** a **temperatura ambiente**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="**Cristal** de **cloruro de sodio** (sal común, NaCl). <br> 🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl). <br> https://freesvg.org/sodium-chloride-crystal" lightbox="false" width="100%" >}}
