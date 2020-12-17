@@ -200,6 +200,52 @@ La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPE
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" title="Imágenes adaptadas de https://www.sigmaaldrich.com/technical-documents/articles/chemistry/vsepr-chart-valence-shell-electron-pair-repulsion-theory.html." lightbox="false" width="100%" >}}
 
+#### Ejemplos
+
+##### Lineal
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-lineal.svg" lightbox="false" width="100%" >}}
+
+##### Trigonal plana
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-trigonal-plana.svg" lightbox="false" width="100%" >}}
+
+##### Angular
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-angular.svg" lightbox="false" width="100%" >}}
+
+##### Tetraédrica
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-tetraedrica.svg" lightbox="false" width="100%" >}}
+
+##### Piramidal trigonal
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-piramidal-trigonal.svg" lightbox="false" width="100%" >}}
+
+##### Bipiramidal trigonal
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-bipiramidal-trigonal.svg" lightbox="false" width="100%" >}}
+
+##### Balancín
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-balancin.svg" lightbox="false" width="100%" >}}
+
+##### Forma de T
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-forma-T.svg" lightbox="false" width="100%" >}}
+
+##### Octaédrica
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-octaedrica.svg" lightbox="false" width="100%" >}}
+
+##### Piramidal cuadrada
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-piramidal-cuadrada.svg" lightbox="false" width="100%" >}}
+
+##### Cuadrada plana
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-cuadrada-plana.svg" lightbox="false" width="100%" >}}
+
 ### TEV
 
 La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</sup> compartidos se encuentran en una zona de **solapamiento orbital**:
