@@ -167,6 +167,14 @@ Las estructuras de Lewis muestran cada átomo y su posición en la estructura de
 
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" >}}
 
+### Enlace covalente coordinado o dativo
+
+Se trata de enlaces en los que un solo elemento (***dador***) aporta el par de electrones, el cual es aceptado por otro elemento que tiene un orbital vacío (***aceptor***). Es un enlace muy común[^1] y clave para entender el concepto **ácido-base de Lewis**, en el que el ácido es la especie que acepta el par de electrones (aceptor) y la base la especie que lo cede (dador).
+
+[^1]: En todos los **aquo-complejos metálicos**, [M(H<sub>2</sub>O)<sub>*n*</sub>]<sup>*m*+</sup>, el enlace entre el agua y el catión metálico se describe como un **enlace covalente coordinado**.
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/enlace-coordinado.svg" title="El catión H<sup>+</sup> no tiene electrones para compartir, por lo que el N y el O aportan el par de electrones. El enlace covalente coordinado o dativo se representa con una flecha &#8594;, que va desde el átomo dador al átomo aceptor." lightbox="false" width="100%" >}}
+
 ### Resonancia
 
 La **resonancia** es una forma de describir el enlace en ciertas moléculas mediante la combinación de varias **estructuras resonantes** cuyo conjunto se conoce como un **híbrido** de **resonancia**. Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas o iones poliatómicos.
