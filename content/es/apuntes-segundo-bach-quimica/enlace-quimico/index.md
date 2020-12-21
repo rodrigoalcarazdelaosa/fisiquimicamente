@@ -190,6 +190,7 @@ La **resonancia** es una forma de describir el enlace en ciertas moléculas medi
 - Son **malos conductores** del **calor** y de la **electricidad**.
 
 ### Propiedades de las sustancias covalentes cristalinas
+
 Las **sustancias covalentes cristalinas** contienen un gran número de **átomos neutros** unidos entre sí mediante **enlaces covalentes**, formando **láminas bidimensionales**, como el grafito o el grafeno, o **estructuras tridimensionales**, como el diamante 💎 o el cuarzo.
 
 {{< figure library="true" src="enlace-quimico-4ESO/grafito-grafeno.svg" title="Estructura cristalina del **grafito**, formado por capas de **grafeno** (átomos de **carbono**, C, unidos mediante **enlaces covalentes** en una red hexagonal).<br>Fuente: https://commons.wikimedia.org/wiki/File:Graphit_gitter.svg." lightbox="false" width="100%" >}}
@@ -258,7 +259,7 @@ La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPE
 
 La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</sup> compartidos se encuentran en una zona de **solapamiento orbital**:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV.svg" title="Imágenes adaptadas de https://www.coursehero.com/sg/general-chemistry/valence-bond-theory/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV.svg" title="También se puede dar un solapamiento frontal entre orbitales s, p y cualquiera de sus hibridaciones (sp, sp<sup>2</sup> y sp<sup>3</sup>). Imágenes adaptadas de https://www.coursehero.com/sg/general-chemistry/valence-bond-theory/." lightbox="false" width="100%" >}}
 
 #### Hibridación
 
