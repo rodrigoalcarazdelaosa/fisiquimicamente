@@ -342,22 +342,20 @@ img.emoji {
 .powered-by svg {
   display: inline-flex;
   align-self: center;
-  height: 0.9em;
-  width: 0.9em;
-  bottom: 0.1em;
-  line-height: 1;
-  position: relative;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
 }
 
 .article-metadata svg {
   fill: $primary_complementary;
   display: inline-flex;
   align-self: center;
-  height: 0.9em;
-  width: 0.9em;
-  bottom: 0.1em;
-  line-height: 1;
-  position: relative;
+  height: 1em;
+  width: 1em;
+  margin: 0 .25rem 0 .1em;
+  vertical-align: -0.1em;
 }
 
 /*************************************************
