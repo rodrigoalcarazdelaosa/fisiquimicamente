@@ -59,9 +59,9 @@
   <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     {{ if eq site.Language.Lang "es" }}
-  	<li class="breadcrumb-item"><a href="/">Inicio</a></li>
+  	<li class="breadcrumb-item">🏡 <a href="/">Inicio</a></li>
 	{{ else if eq site.Language.Lang "en" }}
-  	<li class="breadcrumb-item"><a href="/en/">Home</a></li>
+  	<li class="breadcrumb-item">🏡 <a href="/en/">Home</a></li>
     {{ end }}		
     {{ range $page.Params.breadcrumbs }}
     {{ if eq . "recursos-fisica-quimica"}}

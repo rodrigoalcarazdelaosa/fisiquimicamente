@@ -277,7 +277,25 @@ La **hibridación** consiste en combinar orbitales atómicos del átomo central 
 
 El berilio no tiene electrones desapareados por lo que se produce promoción electrónica e hibridación para que pueda formar dos enlaces Be&mdash;Cl. Cada uno de estos **híbridos sp** se solapa frontalmente con un orbital p del cloro, formando dos enlaces sigma:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BeCl2.svg" title="Imagen adaptada de https://www.chegg.com/learn/chemistry/organic-chemistry/sp-hybrid-orbitals." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BeCl2.svg" lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-BeCl2.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" >}}
+
+##### sp<sup>2</sup>: BF<sub>3</sub>
+
+El boro solo tiene un electrón desapareado pero necesita tres, por lo que se produce promoción electrónica e hibridación para que pueda formar tres enlaces B&mdash;F. Cada uno de estos **híbridos sp<sup>2</sup>** se solapa frontalmente con un orbital p del flúor, formando tres enlaces sigma:
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BF3.svg" lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-BF3.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" >}}
+
+##### sp<sup>3</sup>: CH<sub>4</sub>
+
+El carbono solo tiene dos electrones desapareados pero necesita cuatro, por lo que se produce promoción electrónica e hibridación para que pueda formar cuatro enlaces C&mdash;H. Cada uno de estos **híbridos sp<sup>3</sup>** se solapa frontalmente con un orbital s del hidrógeno, formando cuatro enlaces sigma:
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-CH4.svg" lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-CH4.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" >}}
 
 ## Fuerzas intermoleculares
 
