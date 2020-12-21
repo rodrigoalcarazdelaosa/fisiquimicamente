@@ -167,7 +167,7 @@ $$
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

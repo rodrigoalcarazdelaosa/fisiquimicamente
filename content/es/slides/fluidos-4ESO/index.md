@@ -32,7 +32,7 @@ $$
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -55,7 +55,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -277,7 +277,7 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

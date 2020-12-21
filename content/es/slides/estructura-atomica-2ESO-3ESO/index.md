@@ -31,7 +31,7 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -55,7 +55,7 @@ En la actualidad sabemos que los átomos están compuestos por:
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -123,7 +123,7 @@ donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el 
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -210,7 +210,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -250,7 +250,7 @@ La **masa** de los **átomos** es **extremadamente pequeña** comparada con las 
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

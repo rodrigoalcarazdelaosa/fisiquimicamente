@@ -32,7 +32,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -96,7 +96,7 @@ Es un enlace que involucra la **atracción electrostática** entre **iones** de 
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -168,7 +168,7 @@ El **enlace metálico** es el enlace químico que **mantiene unidos** a los **á
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -216,7 +216,7 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -335,7 +335,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -427,6 +427,12 @@ La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</su
 
 ---
 
+#### Promoción electrónica
+
+Consiste en aportar energía extra a los electrones apareados de la capa de valencia para que ocupen un orbital de mayor energía (se *exciten*) y permitan al átomo tener más electrones solitarios con los que formar los enlaces que necesite.
+
+---
+
 #### Hibridación
 
 La **hibridación** consiste en combinar orbitales atómicos del átomo central para formar **orbitales híbridos** energéticamente iguales y orientados en la dirección del enlace.
@@ -434,6 +440,24 @@ La **hibridación** consiste en combinar orbitales atómicos del átomo central 
 ---
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### Ejemplos
+
+---
+
+##### sp: BeCl<sub>2</sub>
+
+El berilio no tiene electrones desapareados por lo que se produce promoción electrónica e hibridación para que pueda formar dos enlaces Be&mdash;Cl.
+
+---
+
+Cada uno de estos **híbridos sp** se solapa frontalmente con un orbital p del cloro, formando dos enlaces sigma:
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BeCl2.svg" lightbox="false" width="65%" >}}
 
 {{% /section %}}
 
@@ -446,7 +470,7 @@ Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las *
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

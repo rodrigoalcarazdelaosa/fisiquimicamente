@@ -43,7 +43,7 @@ La **tabla periódica** de los **elementos** organiza los **118 elementos** cono
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -115,7 +115,7 @@ Siendo el apantallamiento total $2<a<3$, por lo que $1<Z_\mathrm{eff}<2$.
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

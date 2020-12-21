@@ -39,7 +39,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -121,7 +121,7 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -310,7 +310,7 @@ Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro 
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

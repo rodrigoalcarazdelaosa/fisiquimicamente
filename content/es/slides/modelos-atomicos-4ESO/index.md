@@ -30,7 +30,7 @@ En **1897**, J.J. **Thomson** lleva a cabo su famoso **experimento** del **tubo*
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -72,7 +72,7 @@ Siete años después de su famoso experimento, en **1904**, Thomson postula un m
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -95,7 +95,7 @@ En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llev
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -140,7 +140,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -157,7 +157,7 @@ Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

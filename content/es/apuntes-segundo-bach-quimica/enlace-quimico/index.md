@@ -261,11 +261,23 @@ La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</su
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV.svg" title="También se puede dar un solapamiento frontal entre orbitales s, p y cualquiera de sus hibridaciones (sp, sp<sup>2</sup> y sp<sup>3</sup>). Imágenes adaptadas de https://www.coursehero.com/sg/general-chemistry/valence-bond-theory/." lightbox="false" width="100%" >}}
 
+#### Promoción electrónica
+
+Consiste en aportar energía extra a los electrones apareados de la capa de valencia para que ocupen un orbital de mayor energía (se *exciten*) y permitan al átomo tener más electrones solitarios con los que formar los enlaces que necesite.
+
 #### Hibridación
 
 La **hibridación** consiste en combinar orbitales atómicos del átomo central para formar **orbitales híbridos** energéticamente iguales y orientados en la dirección del enlace.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes tomadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes tomadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/." lightbox="false" width="100%" >}}
+
+#### Ejemplos
+
+##### sp: BeCl<sub>2</sub>
+
+El berilio no tiene electrones desapareados por lo que se produce promoción electrónica e hibridación para que pueda formar dos enlaces Be&mdash;Cl. Cada uno de estos **híbridos sp** se solapa frontalmente con un orbital p del cloro, formando dos enlaces sigma:
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BeCl2.svg" title="Imagen adaptada de https://www.chegg.com/learn/chemistry/organic-chemistry/sp-hybrid-orbitals." lightbox="false" width="100%" >}}
 
 ## Fuerzas intermoleculares
 

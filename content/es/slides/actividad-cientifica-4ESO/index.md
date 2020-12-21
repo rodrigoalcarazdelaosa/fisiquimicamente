@@ -31,7 +31,7 @@ La **investigación científica** es el proceso por el cual, mediante la aplicac
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -136,7 +136,7 @@ Una **teoría científica** es una **explicación** de un **aspecto** del **mund
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -181,7 +181,7 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -221,7 +221,7 @@ El **análisis dimensional** nos permite **relacionar** las **dimensiones** (uni
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -335,7 +335,7 @@ $$
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -355,7 +355,7 @@ Distinguimos entre:
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -395,7 +395,7 @@ Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -419,7 +419,7 @@ Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de 
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

@@ -44,7 +44,7 @@ Se mide en **julios** ($1\thinspace \mathrm{J} = 1\thinspace\mathrm{kg}\thinspac
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -84,7 +84,7 @@ $$
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -178,7 +178,7 @@ La energía se puede intercambiar/transferir mediante:
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -216,7 +216,7 @@ $$
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -290,7 +290,7 @@ Como curiosidad, [el ascensor más rápido del mundo es capaz de viajar a 21$\th
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -3589,7 +3589,7 @@ Consideramos una **máquina térmica** a un sistema que funciona **periódicamen
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

@@ -24,7 +24,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -77,7 +77,7 @@ Razonamos si la hipótesis es o no válida.
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -219,7 +219,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

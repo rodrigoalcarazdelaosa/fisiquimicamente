@@ -41,7 +41,7 @@ Definimos la **corriente eléctrica** como **cargas** en **movimiento** a travé
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -107,7 +107,7 @@ Según su **comportamiento** frente a la **corriente eléctrica**, distinguimos 
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -139,7 +139,7 @@ Una **máquina eléctrica** es un dispositivo capaz de **transformar** cualquier
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -178,7 +178,7 @@ Llamamos **circuito eléctrico** al conjunto de elementos que, interconectados e
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -309,7 +309,7 @@ La **electrónica** comprende la **física**, la **ingeniería**, la **tecnolog�
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

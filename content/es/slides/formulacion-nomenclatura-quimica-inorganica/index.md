@@ -39,7 +39,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -69,7 +69,7 @@ En el caso de **compuestos iónicos**, podemos también utilizar los **números 
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -140,7 +140,7 @@ Anteponiendo la palabra ***hidrogeno*** (sin tilde), utilizada por ejemplo para 
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -474,7 +474,7 @@ A veces, varias moléculas de ácido pueden condensar perdiendo agua (típicamen
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

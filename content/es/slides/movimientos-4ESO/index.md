@@ -32,7 +32,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -111,7 +111,7 @@ $$
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -391,7 +391,7 @@ $$
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

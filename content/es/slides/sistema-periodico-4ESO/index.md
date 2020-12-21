@@ -33,7 +33,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -125,7 +125,7 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -202,7 +202,7 @@ Según sus **propiedades físicas** y **químicas comunes**, los elementos quím
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

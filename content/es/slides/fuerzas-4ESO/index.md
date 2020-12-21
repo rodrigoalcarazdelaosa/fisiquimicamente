@@ -81,7 +81,7 @@ Puedes prácticar a sumar vectores con la siguiente **simulación**:
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -122,7 +122,7 @@ Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A un
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 

@@ -35,7 +35,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -81,7 +81,7 @@ La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **de
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -109,7 +109,7 @@ Es la velocidad que tiene un móvil en un determinado instante de tiempo. Se pue
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -141,7 +141,7 @@ donde $x$ y $x_0$ son las posiciones final e inicial, respectivamente; $v$ la ve
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -208,7 +208,7 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
@@ -235,7 +235,7 @@ Se trata de situaciones en las que dos cuerpos comienzan en posiciones distintas
 
 (continúa hacia abajo)
 
-👇
+👇🏼
 
 ---
 
