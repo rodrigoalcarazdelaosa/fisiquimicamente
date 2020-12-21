@@ -335,8 +335,16 @@ img.emoji {
 }
 
  p svg {
-  position: relative;
-  bottom: 0.1em;	
+  display: inline-block;
+  align-self: center;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+
+.kudos svg {
+  fill: #555555;
 }
 
 .powered-by svg {
