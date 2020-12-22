@@ -33,6 +33,8 @@ image:
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
 
+<!-- https://animagraffs.com/human-eye/ -->
+
 Apuntes sobre óptica geométrica, en formato texto y póster (tipo _chuleta_).
 
 {{% callout note %}}

@@ -24,6 +24,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Animations/Simulations"
+    tag = "simulations"    
   
   [[content.filter_button]]
     name = "Color"
@@ -43,11 +47,7 @@ subtitle = ""
 	
   [[content.filter_button]]
     name = "Physics/Chemistry"
-    tag = "pac"		
-
-  [[content.filter_button]]
-    name = "Simulations"
-    tag = "simulations"		
+    tag = "pac"				
 	
   [[content.filter_button]]
     name = "Translator"

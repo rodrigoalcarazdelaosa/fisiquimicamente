@@ -24,6 +24,10 @@ subtitle = "💻 Recursos online"
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
+
+[[content.filter_button]]
+    name = "Animaciones/Simulaciones"
+    tag = "simulaciones"    
   
   [[content.filter_button]]
     name = "Color"
@@ -43,11 +47,7 @@ subtitle = "💻 Recursos online"
 	
   [[content.filter_button]]
     name = "Olimpiadas"
-    tag = "olimpiadas"		
-
-  [[content.filter_button]]
-    name = "Simulaciones"
-    tag = "simulaciones"	
+    tag = "olimpiadas"			
 	
   [[content.filter_button]]
     name = "Sociedades"
