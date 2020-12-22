@@ -210,8 +210,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8175282"
-     inkscape:cx="159.49516"
-     inkscape:cy="104.66047"
+     inkscape:cx="147.78277"
+     inkscape:cy="113.17857"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -320,72 +320,60 @@
        id="path4382"
        d="m 234.05201,1083.0959 c 6.35729,0.4078 12.53873,1.019 16.96303,-2.6954 4.00667,-3.3637 -1.19058,-12.4531 -6.00406,-10.3993 -5.56514,2.3744 -8.37118,7.7247 -10.98233,13.0542 l 0.0234,0.041 z"
        style="fill:url(#linearGradient4362);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.703888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" />
-    <text
+    <g
+       aria-label="+"
        id="text4456"
-       y="1057.3658"
-       x="233.42638"
-       style="font-style:normal;font-weight:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70388799999999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'EB Garamond, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
-       xml:space="preserve"><tspan
-         y="1057.3658"
-         x="233.42638"
-         id="tspan4458"
-         sodipodi:role="line"
-         style="font-size:24px;line-height:1.25;stroke-width:0.70388799999999996px;-inkscape-font-specification:'EB Garamond, Normal';font-family:'EB Garamond';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">+</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 233.11625,1057.5578 q -0.096,0 -0.192,-0.12 -0.096,-0.096 -0.096,-0.216 v -5.064 q 0,-0.12 -0.096,-0.12 h -4.848 q -0.12,0 -0.24,-0.096 -0.096,-0.096 -0.096,-0.192 0,-0.12 0.048,-0.336 0.072,-0.216 0.192,-0.384 0.12,-0.192 0.336,-0.192 h 4.536 q 0.12,0 0.144,-0.048 0.024,-0.048 0.024,-0.144 v -4.104 q 0,-0.264 0.24,-0.432 0.24,-0.168 0.504,-0.24 0.288,-0.072 0.36,-0.072 0.12,0 0.216,0.096 0.12,0.096 0.12,0.216 v 4.584 q 0,0.144 0.048,0.144 h 4.92 q 0.12,0 0.216,0.072 0.096,0.048 0.096,0.168 0,0.312 -0.216,0.648 -0.192,0.312 -0.528,0.312 h -4.44 q -0.096,0 -0.096,0.096 v 4.848 q 0,0.24 -0.24,0.384 -0.24,0.12 -0.528,0.144 -0.264,0.048 -0.384,0.048 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px"
+         id="path112" />
+    </g>
+    <g
+       aria-label="+"
        id="text4460"
-       y="1103.5991"
-       x="261.58191"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="1103.5991"
-         x="261.58191"
-         id="tspan4462"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px">+</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 261.27178,1103.7911 q -0.096,0 -0.192,-0.12 -0.096,-0.096 -0.096,-0.216 v -5.064 q 0,-0.12 -0.096,-0.12 h -4.848 q -0.12,0 -0.24,-0.096 -0.096,-0.096 -0.096,-0.192 0,-0.12 0.048,-0.336 0.072,-0.216 0.192,-0.384 0.12,-0.192 0.336,-0.192 h 4.536 q 0.12,0 0.144,-0.048 0.024,-0.048 0.024,-0.144 v -4.104 q 0,-0.264 0.24,-0.432 0.24,-0.168 0.504,-0.24 0.288,-0.072 0.36,-0.072 0.12,0 0.216,0.096 0.12,0.096 0.12,0.216 v 4.584 q 0,0.144 0.048,0.144 h 4.92 q 0.12,0 0.216,0.072 0.096,0.048 0.096,0.168 0,0.312 -0.216,0.648 -0.192,0.312 -0.528,0.312 h -4.44 q -0.096,0 -0.096,0.096 v 4.848 q 0,0.24 -0.24,0.384 -0.24,0.12 -0.528,0.144 -0.264,0.048 -0.384,0.048 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px"
+         id="path109" />
+    </g>
+    <g
+       aria-label="+"
        id="text4464"
-       y="1103.5991"
-       x="209.27084"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="1103.5991"
-         x="209.27084"
-         id="tspan4466"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px">+</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 208.96072,1103.7911 q -0.096,0 -0.192,-0.12 -0.096,-0.096 -0.096,-0.216 v -5.064 q 0,-0.12 -0.096,-0.12 h -4.848 q -0.12,0 -0.24,-0.096 -0.096,-0.096 -0.096,-0.192 0,-0.12 0.048,-0.336 0.072,-0.216 0.192,-0.384 0.12,-0.192 0.336,-0.192 h 4.536 q 0.12,0 0.144,-0.048 0.024,-0.048 0.024,-0.144 v -4.104 q 0,-0.264 0.24,-0.432 0.24,-0.168 0.504,-0.24 0.288,-0.072 0.36,-0.072 0.12,0 0.216,0.096 0.12,0.096 0.12,0.216 v 4.584 q 0,0.144 0.048,0.144 h 4.92 q 0.12,0 0.216,0.072 0.096,0.048 0.096,0.168 0,0.312 -0.216,0.648 -0.192,0.312 -0.528,0.312 h -4.44 q -0.096,0 -0.096,0.096 v 4.848 q 0,0.24 -0.24,0.384 -0.24,0.12 -0.528,0.144 -0.264,0.048 -0.384,0.048 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px"
+         id="path106" />
+    </g>
+    <g
+       aria-label="-"
        id="text4468"
-       y="1080.4824"
-       x="221.34862"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="1080.4824"
-         x="221.34862"
-         id="tspan4470"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px">-</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 218.90737,1076.4024 q -0.144,0 -0.144,-0.144 0,-0.408 0.096,-0.84 0.12,-0.432 0.288,-0.456 1.152,-0.168 2.304,-0.312 1.152,-0.168 2.304,-0.288 0.072,0 0.12,0.048 0.072,0.024 0.072,0.096 0,0.456 -0.12,0.864 -0.096,0.384 -0.384,0.432 -1.08,0.168 -2.208,0.336 -1.104,0.144 -2.328,0.264 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px"
+         id="path103" />
+    </g>
+    <g
+       aria-label="-"
        id="text4472"
-       y="1080.4824"
-       x="245.50415"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="1080.4824"
-         x="245.50415"
-         id="tspan4474"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px">-</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 243.0629,1076.4024 q -0.144,0 -0.144,-0.144 0,-0.408 0.096,-0.84 0.12,-0.432 0.288,-0.456 1.152,-0.168 2.304,-0.312 1.152,-0.168 2.304,-0.288 0.072,0 0.12,0.048 0.072,0.024 0.072,0.096 0,0.456 -0.12,0.864 -0.096,0.384 -0.384,0.432 -1.08,0.168 -2.208,0.336 -1.104,0.144 -2.328,0.264 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px"
+         id="path100" />
+    </g>
+    <g
+       aria-label="-"
        id="text4476"
-       y="1099.5991"
-       x="233.42638"
-       style="font-style:normal;font-weight:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70388799999999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'EB Garamond, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
-       xml:space="preserve"><tspan
-         y="1099.5991"
-         x="233.42638"
-         id="tspan4478"
-         sodipodi:role="line"
-         style="font-size:24px;line-height:1.25;stroke-width:0.70388799999999996px;-inkscape-font-specification:'EB Garamond, Normal';font-family:'EB Garamond';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">-</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.703888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 230.98513,1095.5191 q -0.144,0 -0.144,-0.144 0,-0.408 0.096,-0.84 0.12,-0.432 0.288,-0.456 1.152,-0.168 2.304,-0.312 1.152,-0.168 2.304,-0.288 0.072,0 0.12,0.048 0.072,0.024 0.072,0.096 0,0.456 -0.12,0.864 -0.096,0.384 -0.384,0.432 -1.08,0.168 -2.208,0.336 -1.104,0.144 -2.328,0.264 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.703888px"
+         id="path97" />
+    </g>
     <path
        inkscape:transform-center-y="8.4627917"
        inkscape:transform-center-x="-19.500016"
@@ -394,77 +382,65 @@
        id="path5027"
        d="m 244.42082,1038.7117 c -0.73064,10.9691 -19.26211,11.629 -20.66658,0 -2.96788,-24.5725 23.23634,-43.69538 20.66658,-71.32095 -1.0811,-11.62142 -19.10085,-11.52376 -20.66658,0 -3.30771,24.34371 22.52492,43.42005 20.66658,71.32095 z"
        style="fill:url(#linearGradient4970);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-    <text
+    <g
+       aria-label="+"
+       transform="matrix(0,-1,-1,0,0,0)"
        id="text5029"
-       y="-228.34189"
-       x="-1035.0714"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       transform="matrix(0,-1,-1,0,0,0)"><tspan
-         y="-228.34189"
-         x="-1035.0714"
-         id="tspan5031"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">+</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m -1035.3815,-228.14989 q -0.096,0 -0.192,-0.12 -0.096,-0.096 -0.096,-0.216 v -5.064 q 0,-0.12 -0.096,-0.12 h -4.848 q -0.12,0 -0.24,-0.096 -0.096,-0.096 -0.096,-0.192 0,-0.12 0.048,-0.336 0.072,-0.216 0.192,-0.384 0.12,-0.192 0.336,-0.192 h 4.536 q 0.12,0 0.144,-0.048 0.024,-0.048 0.024,-0.144 v -4.104 q 0,-0.264 0.24,-0.432 0.24,-0.168 0.504,-0.24 0.288,-0.072 0.36,-0.072 0.12,0 0.216,0.096 0.12,0.096 0.12,0.216 v 4.584 q 0,0.144 0.048,0.144 h 4.92 q 0.12,0 0.216,0.072 0.096,0.048 0.096,0.168 0,0.312 -0.216,0.648 -0.192,0.312 -0.528,0.312 h -4.44 q -0.096,0 -0.096,0.096 v 4.848 q 0,0.24 -0.24,0.384 -0.24,0.12 -0.528,0.144 -0.264,0.048 -0.384,0.048 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="path94" />
+    </g>
+    <g
+       aria-label="-"
        transform="scale(1.440381,-0.69426076)"
        id="text5033"
-       y="-1393.4376"
-       x="162.47102"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="-1393.4376"
-         x="162.47102"
-         id="tspan5035"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">-</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 160.02977,-1397.5176 q -0.144,0 -0.144,-0.144 0,-0.408 0.096,-0.84 0.12,-0.432 0.288,-0.456 1.152,-0.168 2.304,-0.312 1.152,-0.168 2.304,-0.288 0.072,0 0.12,0.048 0.072,0.024 0.072,0.096 0,0.456 -0.12,0.864 -0.096,0.384 -0.384,0.432 -1.08,0.168 -2.208,0.336 -1.104,0.144 -2.328,0.264 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="path91" />
+    </g>
+    <g
+       aria-label="+"
+       transform="scale(1,-1)"
        id="text5029-9"
-       y="-1101.8202"
-       x="277.33057"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       transform="scale(1,-1)"><tspan
-         y="-1101.8202"
-         x="277.33057"
-         id="tspan5031-3"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">+</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 277.02044,-1101.6282 q -0.096,0 -0.192,-0.12 -0.096,-0.096 -0.096,-0.216 v -5.064 q 0,-0.12 -0.096,-0.12 h -4.848 q -0.12,0 -0.24,-0.096 -0.096,-0.096 -0.096,-0.192 0,-0.12 0.048,-0.336 0.072,-0.216 0.192,-0.384 0.12,-0.192 0.336,-0.192 h 4.536 q 0.12,0 0.144,-0.048 0.024,-0.048 0.024,-0.144 v -4.104 q 0,-0.264 0.24,-0.432 0.24,-0.168 0.504,-0.24 0.288,-0.072 0.36,-0.072 0.12,0 0.216,0.096 0.12,0.096 0.12,0.216 v 4.584 q 0,0.144 0.048,0.144 h 4.92 q 0.12,0 0.216,0.072 0.096,0.048 0.096,0.168 0,0.312 -0.216,0.648 -0.192,0.312 -0.528,0.312 h -4.44 q -0.096,0 -0.096,0.096 v 4.848 q 0,0.24 -0.24,0.384 -0.24,0.12 -0.528,0.144 -0.264,0.048 -0.384,0.048 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="path88" />
+    </g>
+    <g
+       aria-label="-"
        transform="scale(1.440381,-0.69426076)"
        id="text5033-6"
-       y="-1636.9899"
-       x="229.89439"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="-1636.9899"
-         x="229.89439"
-         id="tspan5035-0"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">-</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m 227.45314,-1641.0699 q -0.144,0 -0.144,-0.144 0,-0.408 0.096,-0.84 0.12,-0.432 0.288,-0.456 1.152,-0.168 2.304,-0.312 1.152,-0.168 2.304,-0.288 0.072,0 0.12,0.048 0.072,0.024 0.072,0.096 0,0.456 -0.12,0.864 -0.096,0.384 -0.384,0.432 -1.08,0.168 -2.208,0.336 -1.104,0.144 -2.328,0.264 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="path85" />
+    </g>
+    <g
+       aria-label="+"
+       transform="scale(-1,1)"
        id="text5029-7"
-       y="1114.1625"
-       x="-192.9382"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       transform="scale(-1,1)"><tspan
-         y="1114.1625"
-         x="-192.9382"
-         id="tspan5031-9"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">+</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m -193.24833,1114.3545 q -0.096,0 -0.192,-0.12 -0.096,-0.096 -0.096,-0.216 v -5.064 q 0,-0.12 -0.096,-0.12 h -4.848 q -0.12,0 -0.24,-0.096 -0.096,-0.096 -0.096,-0.192 0,-0.12 0.048,-0.336 0.072,-0.216 0.192,-0.384 0.12,-0.192 0.336,-0.192 h 4.536 q 0.12,0 0.144,-0.048 0.024,-0.048 0.024,-0.144 v -4.104 q 0,-0.264 0.24,-0.432 0.24,-0.168 0.504,-0.24 0.288,-0.072 0.36,-0.072 0.12,0 0.216,0.096 0.12,0.096 0.12,0.216 v 4.584 q 0,0.144 0.048,0.144 h 4.92 q 0.12,0 0.216,0.072 0.096,0.048 0.096,0.168 0,0.312 -0.216,0.648 -0.192,0.312 -0.528,0.312 h -4.44 q -0.096,0 -0.096,0.096 v 4.848 q 0,0.24 -0.24,0.384 -0.24,0.12 -0.528,0.144 -0.264,0.048 -0.384,0.048 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="path82" />
+    </g>
+    <g
+       aria-label="-"
        transform="scale(-1.440381,0.69426076)"
        id="text5033-2"
-       y="1645.1884"
-       x="-95.22451"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="1645.1884"
-         x="-95.22451"
-         id="tspan5035-02"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">-</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:0%;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <path
+         d="m -97.66576,1641.1084 q -0.144,0 -0.144,-0.144 0,-0.408 0.096,-0.84 0.12,-0.432 0.288,-0.456 1.152,-0.168 2.304,-0.312 1.152,-0.168 2.304,-0.288 0.072,0 0.12,0.048 0.072,0.024 0.072,0.096 0,0.456 -0.12,0.864 -0.096,0.384 -0.384,0.432 -1.08,0.168 -2.208,0.336 -1.104,0.144 -2.328,0.264 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="path79" />
+    </g>
   </g>
 </svg>

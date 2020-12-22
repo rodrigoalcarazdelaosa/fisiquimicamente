@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,9 +12,9 @@
    height="363.88599"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    version="1.0"
-   sodipodi:docname="graphit-struktur_ohne-sr.svg"
+   sodipodi:docname="grafito-grafeno.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -1228,15 +1227,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="187.75"
-     inkscape:cy="201.5"
+     inkscape:cx="167.75"
+     inkscape:cy="125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1354"
-     inkscape:window-height="852"
+     inkscape:window-height="769"
      inkscape:window-x="0"
-     inkscape:window-y="25" />
+     inkscape:window-y="25"
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1245,7 +1246,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Graphit-Gitter</dc:title>
+        <dc:title></dc:title>
         <dc:date>2009-10-17</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -2317,15 +2318,15 @@
        id="path4023" />
     <text
        xml:space="preserve"
-       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="-230.43874"
+       style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-224.50534"
        y="354.55652"
        id="text5855"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan5857"
-         x="-230.43874"
+         x="-224.50534"
          y="354.55652"
-         style="font-size:16px;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">C = 0.67 nm</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Bold'">C = 0.67 nm</tspan></text>
   </g>
 </svg>
