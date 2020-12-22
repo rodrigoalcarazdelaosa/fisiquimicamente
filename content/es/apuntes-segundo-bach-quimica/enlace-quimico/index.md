@@ -265,6 +265,16 @@ La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</su
 
 Consiste en aportar energía extra a los electrones apareados de la capa de valencia para que ocupen un orbital de mayor energía (se *exciten*) y permitan al átomo tener más electrones solitarios con los que formar los enlaces que necesite.
 
+{{< spoiler text="Pincha aquí para ver en detalle cómo aplicar la TEV" >}}
+
+1. Se escoge el átomo central.
+2. Se establece el número de enlaces que debe formar, mediante la estructura de Lewis correspondiente.
+3. Se comprueba si el número de electrones desapareados disponibles es suficiente para formar los enlaces necesarios. Si no es así, se promocionan los electrones a otros orbitales.
+4. Se combinan los orbitales atómicos que forman enlaces $\sigma$ (solapamiento frontal) y los que poseen pares de electrones apareados para determinar la hibridación que tendrá lugar en el átomo central.
+5. Se solapan los orbitales híbridos con los orbitales de los otros átomos con los que forma enlace, teniendo en cuenta la TRPECV para determinar la geometría final de la molécula.
+
+{{< /spoiler >}}
+
 #### Hibridación
 
 La **hibridación** consiste en combinar orbitales atómicos del átomo central para formar **orbitales híbridos** energéticamente iguales y orientados en la dirección del enlace.
@@ -296,6 +306,24 @@ El carbono solo tiene dos electrones desapareados pero necesita cuatro, por lo q
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-CH4.svg" lightbox="false" width="100%" >}}
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-CH4.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" >}}
+
+##### Enlaces múltiples
+
+###### Eteno (CH<sub>2</sub>=CH<sub>2</sub>)
+
+Cada carbono necesita formar un enlace doble (con el otro C) y dos enlaces simples (con H), por lo que se necesita promoción electrónica y una hibridación sp<sup>2</sup> para tener también un orbital puro p con el que formar un enlace $\pi$ (solapamiento lateral).
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-eteno.svg" lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-eteno.svg" title="Cada orbital sp<sup>2</sup> del carbono solapa frontalmente ($\sigma$) con dos orbitales s del H y el orbital sp<sup>2</sup> del otro carbono. Además, los orbitales p<sub><em>z</em></sub> de cada carbono solapan lateralmente entre sí ($\pi$) para formar el doble enlace C=C. Adaptada de https://chem.libretexts.org/Courses/Colorado_State_University/Chem_476%3A_Physical_Chemistry_II_(Levinger)/Chapters/10%3A_Bonding_in_Polyatomic_Molecules/10.5%3A_The_Pi-Electron_Approximation_of_Conjugated_Hydrocarbons." lightbox="false" width="100%" >}}
+
+###### Acetileno (CH&equiv;CH)
+
+Cada carbono necesita formar un enlace triple (con el otro C) y un enlace simple (con H), por lo que se necesita promoción electrónica y una hibridación sp para tener dos orbitales puros p con los que formar dos enlaces $\pi$ (solapamiento lateral).
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-acetileno.svg" lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-acetileno.svg" title="El enlace triple del acetileno consiste en un enlace $\sigma$ (sp&ndash;s) y dos enlaces $\pi$ (p&ndash;p). Adaptada de https://www.coursehero.com/sg/organic-chemistry/structure-of-alkynes/." lightbox="false" width="100%" >}}
 
 ## Fuerzas intermoleculares
 

@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="400.46838"
+   width="400.76199"
    height="63.028332"
-   viewBox="0 0 400.46839 63.028332"
+   viewBox="0 0 400.762 63.028332"
    id="svg2"
    version="1.1"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="formation-of-BeCl2.svg">
+   sodipodi:docname="hibridacion-BeCl2.svg">
   <defs
      id="defs4">
     <marker
@@ -154,16 +154,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="193.75645"
-     inkscape:cy="101.48307"
+     inkscape:cx="230.75645"
+     inkscape:cy="96.983112"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1440"
-     inkscape:window-height="900"
+     inkscape:window-height="766"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -175,8 +175,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid3355"
-       originx="-75.000001"
-       originy="-12.660237" />
+       originx="-75.000002"
+       originy="-12.660195" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -340,13 +340,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="360.89914"
-       y="1111.8367"
+       y="1111.6207"
        id="text5161"><tspan
          sodipodi:role="line"
          id="tspan5163"
          x="360.89914"
-         y="1111.8367"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'">z</tspan></text>
+         y="1111.6207"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Italic'">z</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

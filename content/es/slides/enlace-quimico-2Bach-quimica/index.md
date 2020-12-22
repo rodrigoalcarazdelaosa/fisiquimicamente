@@ -499,6 +499,38 @@ Cada uno de estos **híbridos sp<sup>3</sup>** se solapa frontalmente con un orb
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-CH4.svg" lightbox="false" width="60%" >}}
 
+---
+
+##### Enlaces múltiples
+
+---
+
+###### Eteno (CH<sub>2</sub>=CH<sub>2</sub>)
+
+Cada carbono necesita formar un enlace doble (con el otro C) y dos enlaces simples (con H), por lo que se necesita promoción electrónica y una hibridación sp<sup>2</sup> para tener también un orbital puro p con el que formar un enlace $\pi$ (solapamiento lateral).
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-eteno.svg" lightbox="false" width="100%" >}}
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-eteno.svg" title="Cada orbital sp<sup>2</sup> del carbono solapa frontalmente ($\sigma$) con dos orbitales s del H y el orbital sp<sup>2</sup> del otro carbono. Además, los orbitales p<sub><em>z</em></sub> de cada carbono solapan lateralmente entre sí ($\pi$) para formar el doble enlace C=C." lightbox="false" width="100%" >}}
+
+---
+
+###### Acetileno (CH&equiv;CH)
+
+Cada carbono necesita formar un enlace triple (con el otro C) y un enlace simple (con H), por lo que se necesita promoción electrónica y una hibridación sp para tener dos orbitales puros p con los que formar dos enlaces $\pi$ (solapamiento lateral).
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-acetileno.svg" lightbox="false" width="100%" >}}
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-acetileno.svg" title="El enlace triple del acetileno consiste en un enlace $\sigma$ (sp&ndash;s) y dos enlaces $\pi$ (p&ndash;p)." lightbox="false" width="100%" >}}
+
 {{% /section %}}
 
 ---
