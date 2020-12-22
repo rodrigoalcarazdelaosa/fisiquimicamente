@@ -34,7 +34,7 @@
   weight = 4
 
 [[main]]
-  name = "📗 17-18 year-olds"
+  name = "📓 17-18 year-olds"
   url = "physics-chemistry-notes/17-18-year-olds"
   parent = "apuntes"
   weight = 5 

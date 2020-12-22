@@ -141,17 +141,17 @@
 		  	<li class="breadcrumb-item">🏡 <a href="/en/">Home</a></li>
 			<li class="breadcrumb-item">📚 <a href="/en/physics-chemistry-notes/">Notes</a></li>
 			{{ end }}
-			{{ if eq $st.Params.subtitle "📗 2º Bach ☢️ Física" }}
-				<li class="breadcrumb-item">📗 <a href="/recursos-fisica-quimica/apuntes/2bach/">2º Bach</a></li>		
+			{{ if eq $st.Params.subtitle "📓 2º Bach ☢️ Física" }}
+				<li class="breadcrumb-item">📓 <a href="/recursos-fisica-quimica/apuntes/2bach/">2º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
-			{{ else if eq $st.Params.subtitle "📗 2º Bach ⚗️ Química" }}
-				<li class="breadcrumb-item">📗 <a href="/recursos-fisica-quimica/apuntes/2bach/">2º Bach</a></li>		
+			{{ else if eq $st.Params.subtitle "📓 2º Bach ⚗️ Química" }}
+				<li class="breadcrumb-item">📓 <a href="/recursos-fisica-quimica/apuntes/2bach/">2º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
-			{{ else if eq $st.Params.subtitle "📗 17--18 year-olds ☢️ Physics" }}
-				<li class="breadcrumb-item">📗 <a href="/en/physics-chemistry-notes/17-18-year-olds/">17&ndash;18 year-olds</a></li>		
+			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds ☢️ Physics" }}
+				<li class="breadcrumb-item">📓 <a href="/en/physics-chemistry-notes/17-18-year-olds/">17&ndash;18 year-olds</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">☢️ Physics</li>
-			{{ else if eq $st.Params.subtitle "📗 17--18 year-olds ⚗️ Chemistry" }}
-				<li class="breadcrumb-item">📗 <a href="/en/physics-chemistry-notes/17-18-year-olds/">17&ndash;18 year-olds</a></li>		
+			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds ⚗️ Chemistry" }}
+				<li class="breadcrumb-item">📓 <a href="/en/physics-chemistry-notes/17-18-year-olds/">17&ndash;18 year-olds</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Chemistry</li>					
 			{{ else }}
 				<li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>

@@ -39,7 +39,7 @@ subtitle = "In **Text**, **Slides** and **Poster** (*Cheat Sheet*) Format"
   description = ""  
   
 [[feature]]
-  icon = "[📗](17-18-year-olds)"
+  icon = "[📓](17-18-year-olds)"
   icon_pack = "emoji"
   name = "[17--18 year-olds](17-18-year-olds)"
   description = "☢️ [Physics](17-18-year-olds/physics) | ⚗️ [Chemistry](17-18-year-olds/chemistry)"

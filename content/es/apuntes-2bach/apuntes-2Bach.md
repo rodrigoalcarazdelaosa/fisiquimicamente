@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "📚 Apuntes"
-subtitle = "📗 2º Bach"
+subtitle = "📓 2º Bach"
 
 # Showcase personal skills or business features.
 # 

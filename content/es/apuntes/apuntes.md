@@ -39,7 +39,7 @@ subtitle = "En formato **texto**, **diapositivas** y **póster** (_chuleta_)"
   description = ""
       
 [[feature]]
-  icon = "[📗](2bach)"
+  icon = "[📓](2bach)"
   icon_pack = "emoji"
   name = "[2º Bach](2bach)"
   description = "☢️ [Física](2bach/fisica) | ⚗️ [Química](2bach/quimica)"
