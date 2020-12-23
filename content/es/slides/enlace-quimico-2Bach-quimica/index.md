@@ -138,7 +138,7 @@ donde $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es la const
 
 ---
 
-Se comprueba que la **energía** de **red** es:
+Se comprueba que el módulo de la **energía** de **red** es:
 
 - **Directamente proporcional** al **producto** de las **cargas** de los iones.
 - **Inversamente proporcional** a la **distancia** interiónica.
