@@ -51,7 +51,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rodri.alcaraz@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contacto'  # For a direct email link, use "mailto:test@example.org".
+  label: Contáctame
+  display:
+    header: true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alcarazr
