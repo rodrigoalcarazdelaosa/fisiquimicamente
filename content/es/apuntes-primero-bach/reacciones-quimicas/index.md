@@ -32,6 +32,8 @@ image:
 
 <!-- Añadir práctica virtual del fqsaja: http://www.fqsaja.com/?portfolio_page=practica-virtual-ley-de-proust -->
 
+<!-- Añadir actividad de Miguel Quiroga: https://www.miguelquiroga.es/la-materia/el-vuelo-1023 -->
+
 Apuntes sobre reacciones químicas, en formato texto y póster (tipo _chuleta_).
 
 {{% callout note %}}
