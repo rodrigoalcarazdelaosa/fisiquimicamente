@@ -71,4 +71,4 @@ subtitle = ""
 +++
 
 
-## 💬 Blog
+## ✍🏼 Blog

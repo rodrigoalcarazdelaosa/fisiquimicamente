@@ -99,4 +99,4 @@ email:
 user_groups:
 ---
 
-👋🏼 ¡Bienvenido/a a [Fisiquímicamente con Rodri]({{< ref "/" >}})! Aquí puedes encontrar ⚛️ [<span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), así como diversos 👐🏼 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) y entradas en mi 💬 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
+👋🏼 ¡Bienvenido/a a [Fisiquímicamente con Rodri]({{< ref "/" >}})! Aquí puedes encontrar ⚛️ [<span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), así como diversos 👐🏼 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) y entradas en mi ✍🏼 [<span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).

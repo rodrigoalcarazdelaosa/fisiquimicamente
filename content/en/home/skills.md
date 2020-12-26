@@ -36,7 +36,7 @@ subtitle = ""
   icon = "[🗞️](#news)"
   icon_pack = "emoji"
   name = "[News](#news)"
-  description = "[Twitter](#news) | 💬 [Blog](post/)"
+  description = "[Twitter](#news) | ✍🏼 [Blog](post/)"
   
 [[feature]]
   icon = "[👨‍🔬](about-me/)‍"
