@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 7
 
-title: "✉️ Contacto"
+title: "📬 Contacto"
 subtitle:
 
 content:

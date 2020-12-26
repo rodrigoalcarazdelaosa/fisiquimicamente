@@ -45,7 +45,7 @@ subtitle = ""
   description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias-investigacion)"
   
 [[feature]]
-  icon = "[✉️](#contacto)"
+  icon = "[📬](#contacto)"
   icon_pack = "emoji"
   name = "[Contacto](#contacto)"
   description = ""  
