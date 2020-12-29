@@ -90,7 +90,7 @@
 - id: more_posts
   translation: Más entradas
 - id: more_talks
-  translation: Más charlas
+  translation: Más eventos
 - id: more_publications
   translation: Más publicaciones
   
@@ -107,7 +107,7 @@
 - id: book_appointment
   translation: Solicitar una cita
   
-# Publication/Talk details
+# Publication/Event details
   
 - id: abstract
   translation: Resumen
@@ -154,7 +154,7 @@
 - id: publications
   translation: Publicaciones
 - id: talks
-  translation: Charlas
+  translation: Eventos
 - id: projects
   translation: Proyectos
 - id: apuntes-segundo-tercero-eso
