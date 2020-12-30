@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: estructura-materia-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: estructura-materia-poster-cat.pdf
 
 slides: estructura-materia-2Bach-quimica
 ---
