@@ -76,4 +76,11 @@ date_format = "2006"
   # Text color (true=light or false=dark).
   text_color_light = false  
 
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+ 
+ # CSS class.
+ css_class = ""    
+
 +++
