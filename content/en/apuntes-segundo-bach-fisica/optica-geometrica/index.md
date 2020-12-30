@@ -2,7 +2,7 @@
 title: Geometric Optics
 url: "/en/physics-chemistry-notes/17-18-year-olds/physics/geometric-optics"
 subtitle: Laws of Geometric Optics and Optical Systems
-summary: "`COMING SOON` <br> Laws of Geometric Optics. Optical Systems. The Human Eye. Optical Instruments."
+summary: "`🔜 COMING SOON` <br> Laws of Geometric Optics. Optical Systems. The Human Eye. Optical Instruments."
 breadcrumbs: ["notes","17-18-year-olds","physics"]
 tags:
 - 17-18-year-olds
@@ -31,6 +31,6 @@ image:
 
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

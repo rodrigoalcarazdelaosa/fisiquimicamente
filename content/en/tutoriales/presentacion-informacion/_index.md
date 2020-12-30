@@ -15,7 +15,7 @@ type: book  # Do not modify.
 
 In this tutorial you will learn how to correctly present information.
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}
 

@@ -2,7 +2,7 @@
 title: Electric Field
 url: "/en/physics-chemistry-notes/17-18-year-olds/physics/electric-field"
 subtitle: Coulomb's Law, Electric Potential Energy, Potential and Flux
-summary: "`COMING SOON` <br> Coulomb's Law. Electric Potential Energy and Potential. Electric Flux."
+summary: "`🔜 COMING SOON` <br> Coulomb's Law. Electric Potential Energy and Potential. Electric Flux."
 breadcrumbs: ["notes","17-18-year-olds","physics"]
 tags:
 - 17-18-year-olds
@@ -33,6 +33,6 @@ image:
 
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

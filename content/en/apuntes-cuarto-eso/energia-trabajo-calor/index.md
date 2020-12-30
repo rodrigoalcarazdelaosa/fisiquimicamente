@@ -2,7 +2,7 @@
 title: Energy, Work and Heat
 url: "/en/physics-chemistry-notes/15-16-year-olds/energy-work-heat"
 subtitle: Energy and its Forms of Exchange (Work and Heat)
-summary: "`COMING SOON` <br> Energy and its Forms of Exchange (Work and Heat)."
+summary: "`🔜 COMING SOON` <br> Energy and its Forms of Exchange (Work and Heat)."
 breadcrumbs: ["notes","15-16-year-olds"]
 tags:
 - 15-16-year-olds
@@ -30,6 +30,6 @@ image:
 #  url: movimientos_poster.pdf
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

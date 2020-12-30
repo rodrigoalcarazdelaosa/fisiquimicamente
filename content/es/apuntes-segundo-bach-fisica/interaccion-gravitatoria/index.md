@@ -2,7 +2,7 @@
 title: Interacción gravitatoria
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/interaccion-gravitatoria"
 subtitle: Leyes de Kepler, ley de Gravitación Universal y campo gravitatorio
-summary: "`PRÓXIMAMENTE` <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
+summary: "`🔜 PRÓXIMAMENTE` <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 tags:
 - 2º Bach
@@ -40,6 +40,6 @@ image:
 
 Apuntes sobre interacción gravitatoria, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}

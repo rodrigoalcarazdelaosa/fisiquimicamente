@@ -314,6 +314,18 @@ div.alert-thanks > div:first-child::before {
   border-color: $primary;
 }
 
+div.alert-soon > div:first-child::before {
+  font-weight: 900;
+  color: $primary;
+  content: '🔜';
+}
+
+.alert-soon {
+  color: #000000;
+  background-color: $primary_bg;
+  border-color: $primary;
+}
+
 div.alert-construction > div:first-child::before {  
   font-weight: 900;
   color: $primary_complementary;

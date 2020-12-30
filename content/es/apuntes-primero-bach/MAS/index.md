@@ -2,7 +2,7 @@
 title: MAS
 url: "/recursos-fisica-quimica/apuntes/1bach/mas"
 subtitle: Movimiento armónico simple
-summary: "`PRÓXIMAMENTE` <br> Movimiento armónico simple."
+summary: "`🔜 PRÓXIMAMENTE` <br> Movimiento armónico simple."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - 1º Bach
@@ -37,6 +37,6 @@ image:
 
 Apuntes sobre el movimiento armónico simple (MAS), su dinámica y su energía, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}

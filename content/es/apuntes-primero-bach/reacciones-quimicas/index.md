@@ -2,7 +2,7 @@
 title: Reacciones químicas
 url: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
 subtitle: Estequiometría, transformaciones energéticas y espontaneidad
-summary: "`PRÓXIMAMENTE` <br> Estequiometría, transformaciones energéticas y espontaneidad."
+summary: "`🔜 PRÓXIMAMENTE` <br> Estequiometría, transformaciones energéticas y espontaneidad."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - 1º Bach
@@ -36,6 +36,6 @@ image:
 
 Apuntes sobre reacciones químicas, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}

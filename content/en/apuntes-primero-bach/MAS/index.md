@@ -2,7 +2,7 @@
 title: Simple Harmonic Motion
 url: "/en/physics-chemistry-notes/16-17-year-olds/shm"
 subtitle: Description and Equations
-summary: "`COMING SOON` <br> Description and Equations."
+summary: "`🔜 COMING SOON` <br> Description and Equations."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
 - 16-17-year-olds
@@ -33,6 +33,6 @@ image:
 
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

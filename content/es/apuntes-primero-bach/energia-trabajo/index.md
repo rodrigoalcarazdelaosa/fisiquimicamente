@@ -2,7 +2,7 @@
 title: Energía y trabajo
 url: "/recursos-fisica-quimica/apuntes/1bach/energia-trabajo"
 subtitle: Trabajo, potencia y energía
-summary: "`PRÓXIMAMENTE` <br> Trabajo. Potencia. Energía. Teorema de las fuerzas vivas. Sistemas conservativos."
+summary: "`🔜 PRÓXIMAMENTE` <br> Trabajo. Potencia. Energía. Teorema de las fuerzas vivas. Sistemas conservativos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - 1º Bach
@@ -33,6 +33,6 @@ image:
 
 Apuntes sobre energía y trabajo, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}

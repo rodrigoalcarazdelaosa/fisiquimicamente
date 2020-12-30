@@ -2,7 +2,7 @@
 title: Química orgánica
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica"
 subtitle: 
-summary: "`PRÓXIMAMENTE`"
+summary: "`🔜 PRÓXIMAMENTE`"
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 tags:
 - 2º Bach
@@ -33,6 +33,6 @@ image:
 
 Apuntes sobre química orgánica, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}

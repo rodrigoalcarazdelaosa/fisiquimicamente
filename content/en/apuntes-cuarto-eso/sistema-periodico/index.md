@@ -2,7 +2,7 @@
 title: Periodic Table
 url: "/en/physics-chemistry-notes/15-16-year-olds/periodic-table"
 subtitle: Periodic Table and Electron Configuration
-summary: "`COMING SOON` <br> Periodic Table and Electron Configuration."
+summary: "`🔜 COMING SOON` <br> Periodic Table and Electron Configuration."
 breadcrumbs: ["notes","15-16-year-olds"]
 tags:
 - 15-16-year-olds
@@ -31,6 +31,6 @@ image:
 
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

@@ -2,7 +2,7 @@
 title: MCUA
 url: "/recursos-fisica-quimica/apuntes/1bach/mcua"
 subtitle: Movimiento circular uniformemente acelerado
-summary: "`PRÓXIMAMENTE` <br> Movimiento circular uniformemente acelerado y dinámica del movimiento circular."
+summary: "`🔜 PRÓXIMAMENTE` <br> Movimiento circular uniformemente acelerado y dinámica del movimiento circular."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - 1º Bach
@@ -34,6 +34,6 @@ image:
 
 Apuntes sobre el movimiento circular uniformemente acelerado (MCUA) y su dinámica, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}

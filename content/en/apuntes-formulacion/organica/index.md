@@ -2,7 +2,7 @@
 title: Nomenclature of Organic Chemistry
 url: "/en/physics-chemistry-notes/nomenclature-chemistry/organic"
 subtitle: IUPAC Recommendations and Preferred Names 2013
-summary: "`COMING SOON` <br> IUPAC Recommendations and Preferred Names 2013."
+summary: "`🔜 COMING SOON` <br> IUPAC Recommendations and Preferred Names 2013."
 breadcrumbs: ["notes","nomenclature-chemistry"]
 tags:
 - IUPAC
@@ -32,6 +32,6 @@ image:
 
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

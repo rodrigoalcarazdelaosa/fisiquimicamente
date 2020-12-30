@@ -2,7 +2,7 @@
 title: Gravitación
 url: "/recursos-fisica-quimica/apuntes/1bach/gravitacion"
 subtitle: Ley de gravitación universal y leyes de Kepler
-summary: "`PRÓXIMAMENTE` <br> Fuerzas centrales. Ley de gravitación universal. Leyes de Kepler."
+summary: "`🔜 PRÓXIMAMENTE` <br> Fuerzas centrales. Ley de gravitación universal. Leyes de Kepler."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - 1º Bach
@@ -39,6 +39,6 @@ image:
 
 Apuntes sobre gravitación, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}

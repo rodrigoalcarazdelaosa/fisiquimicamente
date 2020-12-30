@@ -10,6 +10,6 @@ draft: false
 weight: 5
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

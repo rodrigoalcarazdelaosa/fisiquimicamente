@@ -2,7 +2,7 @@
 title: Óptica geométrica
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/optica-geometrica"
 subtitle: Leyes de la óptica geométrica y sistemas ópticos
-summary: "`PRÓXIMAMENTE` <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
+summary: "`🔜 PRÓXIMAMENTE` <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 tags:
 - 2º Bach
@@ -37,6 +37,6 @@ image:
 
 Apuntes sobre óptica geométrica, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}

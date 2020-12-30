@@ -2,7 +2,7 @@
 title: Chemical Reactions
 url: "/en/physics-chemistry-notes/16-17-year-olds/chemical-reactions"
 subtitle: Stoichiometry, Energetic Transformations and Spontaneity
-summary: "`COMING SOON` <br> Stoichiometry, Energetic Transformations and Spontaneity."
+summary: "`🔜 COMING SOON` <br> Stoichiometry, Energetic Transformations and Spontaneity."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
 - 16-17-year-olds
@@ -30,6 +30,6 @@ image:
 #  url: movimientos_poster.pdf  
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

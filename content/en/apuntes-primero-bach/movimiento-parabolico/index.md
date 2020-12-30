@@ -32,6 +32,6 @@ image:
 # slides: 
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

@@ -2,7 +2,7 @@
 title: Gravitation
 url: "/en/physics-chemistry-notes/16-17-year-olds/gravitation"
 subtitle: Newton's Law of Universal Gravitation and Kepler's Laws
-summary: "`COMING SOON` <br> Central Forces. Newton's Law of Universal Gravitation. Kepler's Laws."
+summary: "`🔜 COMING SOON` <br> Central Forces. Newton's Law of Universal Gravitation. Kepler's Laws."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
 - 16-17-year-olds
@@ -33,6 +33,6 @@ image:
 
 ---
 
-{{% callout note %}}
+{{% callout soon %}}
 Coming soon...
 {{% /callout %}}

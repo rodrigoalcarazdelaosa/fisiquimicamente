@@ -2,7 +2,7 @@
 title: Ondas
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/ondas"
 subtitle: Propagación de ondas transversales y longitudinales
-summary: "`PRÓXIMAMENTE` <br> Propagación de ondas transversales y longitudinales. Ecuación de las ondas armónicas. Energía e intensidad. Sonido y luz."
+summary: "`🔜 PRÓXIMAMENTE` <br> Propagación de ondas transversales y longitudinales. Ecuación de las ondas armónicas. Energía e intensidad. Sonido y luz."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 tags:
 - 2º Bach
@@ -38,6 +38,6 @@ image:
 
 Apuntes sobre ondas, en formato texto y póster (tipo _chuleta_).
 
-{{% callout note %}}
+{{% callout soon %}}
 Próximamente...
 {{% /callout %}}
