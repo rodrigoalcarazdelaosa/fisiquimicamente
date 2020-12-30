@@ -95,19 +95,19 @@
   
 [[main]]
   name = "👨‍🎓 Interests and Education"
-  url = "about-me/"
+  url = "about-me/interests-education"
   parent = "sobre-mi"
   weight = 1
 
 [[main]]
   name = "👣 Career Path"
-  url = "about-me/#career-path"
+  url = "about-me/career-path"
   parent = "sobre-mi"
   weight = 2  
   
 [[main]]
   name = "✈️ Research Stays"
-  url = "about-me/#research-stays"
+  url = "about-me/research-stays"
   parent = "sobre-mi"
   weight = 3
 

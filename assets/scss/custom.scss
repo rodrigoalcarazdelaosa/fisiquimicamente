@@ -314,6 +314,18 @@ div.alert-thanks > div:first-child::before {
   border-color: $primary;
 }
 
+div.alert-construction > div:first-child::before {  
+  font-weight: 900;
+  color: $primary_complementary;
+  content: '🚧';
+}
+
+.alert-construction {
+  color: #000000;
+  background-color: $primary_complementary_bg;
+  border-color: $primary_complementary;
+}
+
 /*************************************************
  *  Shortcodes
  **************************************************/

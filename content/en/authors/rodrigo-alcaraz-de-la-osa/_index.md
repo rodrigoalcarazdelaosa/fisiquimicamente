@@ -24,7 +24,7 @@ bio: I teach Physics and Chemistry at [IES Ría San Martín](http://portaleducat
 
 interests:
 - ✈️ Traveling
-- 🎸 Music
+- 🎸 [Music](#guitar)
 - 🎮 Video games
 - ⚛️ *Photons*
 

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear in.
 
-title = "👨‍🔬 Sobre mí"
+title = "👨‍🎓 Interests and Education"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
@@ -13,6 +13,6 @@ title = "👨‍🔬 Sobre mí"
 author = "rodrigo-alcaraz-de-la-osa"
 
 [design.background]
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  gradient_start = "#FFFFF8"
+  gradient_end = "#BBCCEE"
 +++

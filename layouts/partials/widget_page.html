@@ -306,20 +306,68 @@
 	        <li class="breadcrumb-item active" aria-current="page">🔗 Online Resources</li>
 	    </ol>
 	    </nav>		
-    {{ else if and (eq $widget "about") (eq $st.Title "👨‍🔬 Sobre mí") }}
+    {{ else if and (eq $widget "featurette") (eq $st.Title "👨‍🔬 Sobre mí") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item">🏡 <a href="/">Inicio</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 Sobre mí</li>
 	    </ol>
-	    </nav>	
-    {{ else if and (eq $widget "about") (eq $st.Title "👨‍🔬 About me") }}
+		</nav>	
+	{{ else if and (eq $widget "about") (eq $st.Title "👨‍🎓 Intereses y formación") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+			<li class="breadcrumb-item">🏡 <a href="/">Inicio</a></li>
+			<li class="breadcrumb-item">👨‍🔬 <a href="/sobre-mi">Sobre mí</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Intereses y formación</li>
+	    </ol>
+		</nav>		
+	{{ else if and (eq $widget "experience") (eq $st.Title "👣 Trayectoria profesional") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+			<li class="breadcrumb-item">🏡 <a href="/">Inicio</a></li>
+			<li class="breadcrumb-item">👨‍🔬 <a href="/sobre-mi">Sobre mí</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">👣 Trayectoria profesional</li>
+	    </ol>
+		</nav>
+	{{ else if and (eq $widget "experience") (eq $st.Title "✈️ Estancias de investigación") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+			<li class="breadcrumb-item">🏡 <a href="/">Inicio</a></li>
+			<li class="breadcrumb-item">👨‍🔬 <a href="/sobre-mi">Sobre mí</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">✈️ Estancias de investigación</li>
+	    </ol>
+	    </nav>							
+    {{ else if and (eq $widget "featurette") (eq $st.Title "👨‍🔬 About me") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item">🏡 <a href="/en/">Home</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 About me</li>
 	    </ol>
-	    </nav>						
+		</nav>
+	{{ else if and (eq $widget "about") (eq $st.Title "👨‍🎓 Interests and Education") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+			<li class="breadcrumb-item">🏡 <a href="/en/">Home</a></li>			
+			<li class="breadcrumb-item">👨‍🔬 <a href="/en/about-me">About me</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Interests and Education</li>
+	    </ol>
+		</nav>
+	{{ else if and (eq $widget "experience") (eq $st.Title "👣 Career Path") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+			<li class="breadcrumb-item">🏡 <a href="/en/">Home</a></li>			
+			<li class="breadcrumb-item">👨‍🔬 <a href="/en/about-me">About me</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">👣 Career Path</li>
+	    </ol>
+		</nav>
+	{{ else if and (eq $widget "experience") (eq $st.Title "✈️ Research Stays") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+			<li class="breadcrumb-item">🏡 <a href="/en/">Home</a></li>			
+			<li class="breadcrumb-item">👨‍🔬 <a href="/en/about-me">About me</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">✈️ Research Stays</li>
+	    </ol>
+		</nav>													
     {{end}}
 		
   	{{/* Special case widget novedades */}}

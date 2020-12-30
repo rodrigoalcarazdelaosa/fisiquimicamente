@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "👣 Trayectoria profesional"
 subtitle = ""
@@ -63,8 +63,8 @@ date_format = "2006"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  gradient_start = "#BBCCEE"
+  gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "trayectoria.jpg"  # Name of image in `static/media/`.
@@ -75,5 +75,12 @@ date_format = "2006"
   
   # Text color (true=light or false=dark).
   text_color_light = false  
+
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+ 
+ # CSS class.
+ css_class = ""  
 
 +++

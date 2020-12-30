@@ -32,6 +32,6 @@ image:
 
 ---
 
-{{% callout warning %}}
+{{% callout construction %}}
 En construcción...
 {{% /callout %}}

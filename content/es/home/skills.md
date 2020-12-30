@@ -42,7 +42,7 @@ subtitle = ""
   icon = "[👨‍🔬](sobre-mi/)‍"
   icon_pack = "emoji"
   name = "[Sobre mí](sobre-mi/)"
-  description = "👣 [Trayectoria profesional](sobre-mi/#trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/#estancias-investigacion)"
+  description = "👨‍🎓 [Intereses y formación](sobre-mi/intereses-formacion) | 👣 [Trayectoria profesional](sobre-mi/trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/estancias-investigacion)"
   
 [[feature]]
   icon = "[📬](#contacto)"

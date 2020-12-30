@@ -8,7 +8,7 @@ design:
     padding: ["40px","0px","40px","0px"]
   columns: '1'
   background:
-    color: "#FFFFF8"
+    color: "#BBCCEE"
     image: 'divider.svg'
     image_darken: 0
     image_size: contain
