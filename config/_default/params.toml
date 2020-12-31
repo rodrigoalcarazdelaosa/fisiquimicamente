@@ -80,6 +80,9 @@ edit_page = {repo_url = "https://github.com/rodrigoalcarazdelaosa/rodrigoalcaraz
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true, apuntes-segundo-tercero-eso = true, apuntes-cuarto-eso = true, apuntes-primero-bach = true, apuntes-segundo-bach-fisica = true, apuntes-segundo-bach-quimica = true, apuntes-formulacion = true}
 
+# [breadcrumb]
+#  page_type = {book = true}
+
 ############################
 ## Contact details
 ##
