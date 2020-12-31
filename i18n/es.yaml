@@ -8,6 +8,8 @@
   translation: En esta página
 - id: back_to_top
   translation: Regreso al inicio
+- id: home
+  translation: Inicio
   
 # General
   
@@ -184,11 +186,13 @@
   translation: resultados encontrados
 - id: search_no_results
   translation: No se encontraron resultados
+- id: search_common_queries
+  translation: Búsquedas comunes  
   
 # Error 404
   
 - id: page_not_found
-  translation: 😱Página no encontrada😱
+  translation: 😱 Página no encontrada 😱
 - id: 404_recommendations
   translation: ¿Buscabas una de estas?
   

@@ -12,6 +12,9 @@
 - id: back_to_top
   translation: Back to top
 
+- id: home
+  translation: Home
+
 # General
 
 - id: related
@@ -246,10 +249,13 @@
 - id: search_no_results
   translation: No results found
 
+- id: search_common_queries
+  translation: Common searches
+
 # Error 404
 
 - id: page_not_found
-  translation: 😱Page not found😱
+  translation: 😱 Page not found 😱
 
 - id: 404_recommendations
   translation: Perhaps you were looking for one of these?
