@@ -302,9 +302,8 @@ div.alert-gdrive > div:first-child::before {
 }
 
 div.alert-thanks > div:first-child::before {
-  font-weight: 900;
   color: $primary;
-  content: '🙏';
+  content: '\f4da';
 }
 
 .alert-thanks {
@@ -314,9 +313,8 @@ div.alert-thanks > div:first-child::before {
 }
 
 div.alert-soon > div:first-child::before {
-  font-weight: 900;
   color: $primary;
-  content: '🔜';
+  content: '\f110';
 }
 
 .alert-soon {
@@ -326,9 +324,8 @@ div.alert-soon > div:first-child::before {
 }
 
 div.alert-construction > div:first-child::before {  
-  font-weight: 900;
   color: $primary_complementary;
-  content: '🚧';
+  content: '\f044';
 }
 
 .alert-construction {
