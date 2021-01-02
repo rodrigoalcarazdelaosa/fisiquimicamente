@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "📚 Apuntes de Física y Química"
-subtitle = "En formato **texto**, **diapositivas** y **póster** (_chuleta_)"
+subtitle = "En formato **texto**, **diapositivas** y **póster** (_chuleta_ 🥩)"
 
 # Showcase personal skills or business features.
 # 
