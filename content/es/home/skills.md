@@ -18,31 +18,31 @@ subtitle = ""
   icon = "[⚛️](recursos-fisica-quimica/)"
   icon_pack = "emoji"
   name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
-  description = "📚 [Apuntes](recursos-fisica-quimica/apuntes) | 🎓 [EBAU](recursos-fisica-quimica/ebau) | 📝 [Oposiciones](recursos-fisica-quimica/oposiciones)"  
+  description = "📚 [Apuntes](recursos-fisica-quimica/apuntes) · 🎓 [EBAU](recursos-fisica-quimica/ebau) · 📝 [Oposiciones](recursos-fisica-quimica/oposiciones)"  
   
 [[feature]]
   icon = "[👐🏼](tutoriales/)"
   icon_pack = "emoji"
   name = "[Tutoriales](tutoriales/)"
-  description = "[$\\LaTeX$](tutoriales/latex) | [Presentación de información](tutoriales/presentacion-informacion)"
+  description = "[$\\LaTeX$](tutoriales/latex) · [Presentación de información](tutoriales/presentacion-informacion)"
   
 [[feature]]
   icon = "[🔗](enlaces-interes/)"
   icon_pack = "emoji"
   name = "[Enlaces de interés](enlaces-interes/)"
-  description = "💻 [Recursos online](enlaces-interes/recursos-online) | 🤗 [Páginas amigas](enlaces-interes/paginas-amigas)"
+  description = "💻 [Recursos online](enlaces-interes/recursos-online) · 🤗 [Páginas amigas](enlaces-interes/paginas-amigas)"
   
 [[feature]]
   icon = "[🗞️](#novedades)"
   icon_pack = "emoji"
   name = "[Novedades](#novedades)"
-  description = "[Twitter](#novedades) | ✍🏼 [Blog](post/)"
+  description = "[Twitter](#novedades) · ✍🏼 [Blog](post/)"
   
 [[feature]]
   icon = "[👨‍🔬](sobre-mi/)‍"
   icon_pack = "emoji"
   name = "[Sobre mí](sobre-mi/)"
-  description = "👨‍🎓 [Intereses y formación](sobre-mi/intereses-formacion) | 👣 [Trayectoria profesional](sobre-mi/trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/estancias-investigacion)"
+  description = "👨‍🎓 [Intereses y formación](sobre-mi/intereses-formacion) · 👣 [Trayectoria profesional](sobre-mi/trayectoria-profesional) <br> ✈️ [Estancias de investigación](sobre-mi/estancias-investigacion)"
   
 [[feature]]
   icon = "[📬](#contacto)"

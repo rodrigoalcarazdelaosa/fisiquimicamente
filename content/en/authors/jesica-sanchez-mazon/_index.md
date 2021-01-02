@@ -34,7 +34,7 @@ education:
     institution: UNIR
     year: 2020
   - course: Medical Physicist
-    institution: HUMV | Stay at 🇺🇸 Duke University Medical Center
+    institution: HUMV · Stay at 🇺🇸 Duke University Medical Center
     year: 2013
   - course: Degree in Physics
     institution: University of Cantabria

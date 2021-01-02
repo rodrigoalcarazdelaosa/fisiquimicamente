@@ -42,13 +42,13 @@ subtitle = "In **Text**, **Slides** and **Poster** (*Cheat Sheet*) Format"
   icon = "[📓](17-18-year-olds)"
   icon_pack = "emoji"
   name = "[17--18 year-olds](17-18-year-olds)"
-  description = "☢️ [Physics](17-18-year-olds/physics) | ⚗️ [Chemistry](17-18-year-olds/chemistry)"
+  description = "☢️ [Physics](17-18-year-olds/physics) · ⚗️ [Chemistry](17-18-year-olds/chemistry)"
 
 [[feature]]
   icon = "[📔](nomenclature-chemistry)"
   icon_pack = "emoji"
   name = "[Nomenclature of Chemistry](nomenclature-chemistry)"
-  description = "[Inorganic](nomenclature-chemistry/inorganic) | [Organic](nomenclature-chemistry/organic)"
+  description = "[Inorganic](nomenclature-chemistry/inorganic) · [Organic](nomenclature-chemistry/organic)"
 
 [design.background]
   # Apply a background color, gradient, or image.

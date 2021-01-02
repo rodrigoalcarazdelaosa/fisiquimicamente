@@ -42,13 +42,13 @@ subtitle = "En formato **texto**, **diapositivas** y **póster** (_chuleta_)"
   icon = "[📓](2bach)"
   icon_pack = "emoji"
   name = "[2º Bach](2bach)"
-  description = "☢️ [Física](2bach/fisica) | ⚗️ [Química](2bach/quimica)"
+  description = "☢️ [Física](2bach/fisica) · ⚗️ [Química](2bach/quimica)"
 
 [[feature]]
   icon = "[📔](formulacion-nomenclatura-quimica)"
   icon_pack = "emoji"
   name = "[Formulación y nomenclatura de Química](formulacion-nomenclatura-quimica)"
-  description = "[Inorgánica](formulacion-nomenclatura-quimica/inorganica) | [Orgánica](formulacion-nomenclatura-quimica/organica)"
+  description = "[Inorgánica](formulacion-nomenclatura-quimica/inorganica) · [Orgánica](formulacion-nomenclatura-quimica/organica)"
 
 [design.background]
   # Apply a background color, gradient, or image.

@@ -40,7 +40,7 @@ education:
     institution: University of Cantabria
     year: 2009
   - course: Degree in Physics
-    institution: University of Cantabria | Erasmus at the 🇩🇪 Freie Universität Berlin
+    institution: University of Cantabria · Erasmus at the 🇩🇪 Freie Universität Berlin
     year: 2008
 
 # Social/Academic Networking

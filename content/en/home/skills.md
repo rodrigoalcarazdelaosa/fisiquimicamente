@@ -18,13 +18,13 @@ subtitle = ""
   icon = "[📚](physics-chemistry-notes/)"
   icon_pack = "emoji"
   name = "[Physics and Chemistry Notes](physics-chemistry-notes/)"
-  description = "📗 [13--14 year-olds](physics-chemistry-notes/13-14-year-olds) | 📘 [14--15 year-olds](physics-chemistry-notes/14-15-year-olds) | 📙 [15--16 year-olds](physics-chemistry-notes/15-16-year-olds) <br> 📕 [16--17 year-olds](physics-chemistry-notes/16-17-year-olds) | 📓 [17--18 year-olds](physics-chemistry-notes/17-18-year-olds) <br> 📔 [Nomenclature of Chemistry](physics-chemistry-notes/nomenclature-chemistry)"  
+  description = "📗 [13--14 year-olds](physics-chemistry-notes/13-14-year-olds) · 📘 [14--15 year-olds](physics-chemistry-notes/14-15-year-olds) · 📙 [15--16 year-olds](physics-chemistry-notes/15-16-year-olds) <br> 📕 [16--17 year-olds](physics-chemistry-notes/16-17-year-olds) · 📓 [17--18 year-olds](physics-chemistry-notes/17-18-year-olds) <br> 📔 [Nomenclature of Chemistry](physics-chemistry-notes/nomenclature-chemistry)"  
   
 [[feature]]
   icon = "[👐🏼](tutorials/)"
   icon_pack = "emoji"
   name = "[Tutorials](tutorials/)"
-  description = "[$\\LaTeX$](tutorials/latex) | [Presentation of Information](tutorials/presentation-information)"
+  description = "[$\\LaTeX$](tutorials/latex) · [Presentation of Information](tutorials/presentation-information)"
   
 [[feature]]
   icon = "[🔗](online-resources/)"
@@ -36,13 +36,13 @@ subtitle = ""
   icon = "[🗞️](#news)"
   icon_pack = "emoji"
   name = "[News](#news)"
-  description = "[Twitter](#news) | ✍🏼 [Blog](post/)"
+  description = "[Twitter](#news) · ✍🏼 [Blog](post/)"
   
 [[feature]]
   icon = "[👨‍🔬](about-me/)‍"
   icon_pack = "emoji"
   name = "[About me](about-me/)"
-  description = "👨‍🎓 [Interests and Education](about-me/interests-education) | 👣 [Career Path](about-me/career-path) <br> ✈️ [Research Stays](about-me/research-stays)"
+  description = "👨‍🎓 [Interests and Education](about-me/interests-education) · 👣 [Career Path](about-me/career-path) <br> ✈️ [Research Stays](about-me/research-stays)"
   
 [[feature]]
   icon = "[📬](#contact)"
