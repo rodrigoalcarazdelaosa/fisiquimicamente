@@ -1,7 +1,7 @@
 ---
 title: Tabla Periódica de Científicos
-subtitle: Tabla Periódica con científicos ilustres
-summary: Tabla Periódica con científicos ilustres.
+subtitle: Tabla Periódica con científicos/as ilustres
+summary: Tabla Periódica con científicos/as ilustres.
 breadcrumbs: ["blog"]
 date: "2020-07-28T00:00:00Z"
 authors:
@@ -38,19 +38,19 @@ Inspirados por la [Tabla Periódica <svg version="1.1" id="Layer_1" xmlns="http:
 	c-22.037,0-39.896-17.857-39.896-39.893v-204.43l-32.989-23.94h123.261v70.037h106.904l21.265-136.866
 	c4.355,8.586,8.43,17.352,12.2,26.275c21.736,51.383,32.756,105.983,32.756,162.292c0,56.301-11.02,110.9-32.756,162.284
 	C827.342,628.75,819.42,644.592,810.533,659.841z"/>
-</svg>]({{< ref "/post/tabla-periodica-DC/index.md" >}}), {{% mention "jesica-sanchez-mazon" %}} y un servidor os presentamos nuestra versión con **científicos ilustres**.
+</svg>]({{< ref "/post/tabla-periodica-DC/index.md" >}}), {{% mention "jesica-sanchez-mazon" %}} y un servidor os presentamos nuestra versión con **científicos/as ilustres**.
 
 {{% callout note %}}
-Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a la página de la **Wikipedia** del **científico**. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** como el de cada **científico** (ambos enlazados a Wikipedia).
+Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada imagen es un **enlace** que te lleva a la página de la **Wikipedia** del/a **científico/a**. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** como el de cada **científico/a** (ambos enlazados a Wikipedia).
 {{% /callout %}}
 
 ## Notas
 Algunas **notas** sobre la Tabla:
 
-- En la medida de lo posible se han escogido científicos (físicos/químicos y algún matemático) cuyo apellido recuerda al nombre del elemento (ambos pronunciados en inglés).
-- Los elementos nombrados a partir de un científico están asociados a ese científico.
-- Los elementos cuyo símbolo coincide con una unidad que a su vez proviene de un científico se han asociado con ese científico.
-- Ante la duda, la prioridad ha sido escoger los científicos más importantes y/o premios Nobel.
+- En la medida de lo posible se han escogido científicos/as (físicos/químicos y algún/a matemático/a) cuyo apellido recuerda al nombre del elemento (ambos pronunciados en inglés).
+- Los elementos nombrados a partir de un/a científico/a están asociados a ese/a científico/a.
+- Los elementos cuyo símbolo coincide con una unidad que a su vez proviene de un/a científico/a se han asociado con ese/a científico/a.
+- Ante la duda, la prioridad ha sido escoger los/as científicos/as más importantes y/o premios Nobel.
 
 {{% callout note %}}
 Si te gustan estas **Tablas Periódicas *especiales***, echa un vistazo a las versiones con **personajes** de [<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
