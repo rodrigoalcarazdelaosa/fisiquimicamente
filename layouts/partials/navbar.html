@@ -31,11 +31,17 @@
     {{ if site.Menus.main }}
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
-    <span><i class="fas fa-bars"></i></span>
+    {{if $show_logo}}
+    {{- if $has_logo -}}
+      <span class="navbar-brand py-0"><img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"></span>
+    {{- else -}}
+      <span><i class="fas fa-bars"></i></span>
+    {{- end -}}      
+    {{ end }}
     </button>
     {{ end }}
 
-    {{if $show_logo}}
+    <!-- {{if $show_logo}}
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
       {{- if $has_logo -}}
@@ -45,7 +51,7 @@
       {{- end -}}
       </a>
     </div>
-    {{end}}
+    {{end}} -->
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     {{ $align_menu := site.Params.main_menu.align | default "l" }}
@@ -135,6 +141,7 @@
         </li>
 
         {{ end }}
+
       </ul>
     </div><!-- /.navbar-collapse -->
 
@@ -144,7 +151,7 @@
        {{ range where (where (where site.Pages "Section" "authors") ".Params.superuser" true) ".Params.social" "!=" nil }}
          {{ range where .Params.social ".display.header" true }}
            {{ $social_link := partial "functions/get_social_link" . }}
-           <li class="nav-item d-none d-lg-inline-flex">
+           <li class="nav-item">
              <a class="nav-link" href="{{ $social_link.link | safeURL }}"{{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="bottom" title="{{.}}"{{ end }} {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.aria_label }}">
                <i class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}" aria-hidden="true"></i>
              </a>
