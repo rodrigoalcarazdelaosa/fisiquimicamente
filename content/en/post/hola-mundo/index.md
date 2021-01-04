@@ -9,7 +9,7 @@ authors:
 image:
   placement: 3
   caption: Photo by [**Octavian Dan**](https://unsplash.com/@octadan) on [Unsplash](https://unsplash.com)
-featured: true  
+featured: true
 ---
 
 First post on my first blog. Here begins an adventure that I had been wanting to start for a long time (years).

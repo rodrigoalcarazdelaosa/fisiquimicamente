@@ -303,7 +303,7 @@ div.alert-gdrive > div:first-child::before {
 
 div.alert-thanks > div:first-child::before {
   color: $primary;
-  content: '\f4da';
+  content: url(/twemoji/svg/1f64f-1f3fc.svg);
 }
 
 .alert-thanks {
@@ -314,7 +314,7 @@ div.alert-thanks > div:first-child::before {
 
 div.alert-soon > div:first-child::before {
   color: $primary;
-  content: '\f110';
+  content: url(/twemoji/svg/1f51c.svg);
 }
 
 .alert-soon {
@@ -325,7 +325,7 @@ div.alert-soon > div:first-child::before {
 
 div.alert-construction > div:first-child::before {  
   color: $primary_complementary;
-  content: '\f044';
+  content: url(/twemoji/svg/1f6a7.svg);
 }
 
 .alert-construction {
