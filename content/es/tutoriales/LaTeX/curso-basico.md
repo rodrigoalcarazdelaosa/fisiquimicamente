@@ -30,23 +30,28 @@ Una de las principales razones por las que la gente usa $\LaTeX$ es que separa e
 
 ## ¿Cómo usar $\LaTeX$?
 
-### Overleaf {{<  icon name="overleaf" pack="ai" >}}
+### Overleaf <i class="ai ai-overleaf"></i>
+
 Sin duda la **opción recomendada** para poder empezar a escribir $\LaTeX$ sin necesidad de instalar nada localmente en nuestro ordenador. [Overleaf](https://www.overleaf.com/) es un editor de $\LaTeX$ online que nos permite además **colaborar** fácilmente con otras personas.
 
-### Windows {{< icon name="windows" pack="fab" >}}
+### Windows <i class="fab fa-windows"></i>
+
 Tenemos principalmente dos opciones:
 
 - [$\TeX$ Live](https://www.tug.org/texlive/): viene del mundo Unix y por defecto instala _todo_.
 
 - [MiK$\TeX$](https://miktex.org): herramienta más _Windows_. Por defecto instala unos pocos paquetes y el resto se van instalando según sea necesario.
 
-### macOS {{< icon name="apple" pack="fab" >}}
+### macOS <i class="fab fa-apple"></i>
+
 [Mac$\TeX$](https://tug.org/mactex/) es la versión de [$\TeX$ Live](https://www.tug.org/texlive/) para macOS. 
 
-### Unix {{< icon name="linux" pack="fab" >}}
+### Unix <i class="fab fa-linux"></i>
+
 [$\TeX$ Live](https://www.tug.org/texlive/).
 
 ## Tu primer documento de $\LaTeX$
+
 Todo documento de $\LaTeX$ comienza con el comando `\documentclass`, que nos permite escoger la _clase_ de documento que vamos a generar. La clase controla la apariencia general de nuestro documento. Las **3 clases básicas** son:
 
 `article`
