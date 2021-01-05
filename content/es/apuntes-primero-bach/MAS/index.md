@@ -35,6 +35,8 @@ image:
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
 
+<!-- https://twitter.com/rayleighlord/status/1345689336549941248?s=21 -->
+
 Apuntes sobre el movimiento armónico simple (MAS), su dinámica y su energía, en formato texto y póster (tipo _chuleta_).
 
 {{% callout soon %}}

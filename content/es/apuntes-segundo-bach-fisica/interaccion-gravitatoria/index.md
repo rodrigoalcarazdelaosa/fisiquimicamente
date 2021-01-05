@@ -38,6 +38,8 @@ image:
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
 
+<!-- https://twitter.com/cursodefisicaa/status/1346038864171982850?s=12 -->
+
 Apuntes sobre interacción gravitatoria, en formato texto y póster (tipo _chuleta_).
 
 {{% callout soon %}}
