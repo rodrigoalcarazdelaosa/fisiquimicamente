@@ -354,7 +354,14 @@ img.emoji {
   display: inline-flex;
 }
 
- p svg {
+img.icon {
+  height: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+  display: inline-flex;
+}
+
+p svg {
   display: inline-flex;
   align-self: center;
   height: 1em;
