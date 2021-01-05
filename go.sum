@@ -1,5 +1,5 @@
 github.com/jakejarvis/hugo-mod-twemoji v0.2.1 h1:OS3Xre4YfCKHYkpR1ijXiY+rovAPJy7dZ6JGzJkHXZM=
 github.com/jakejarvis/hugo-mod-twemoji v0.2.1/go.mod h1:YIzh5oA1aahHF75SamtOJa4FammbpSt+w2MjFKfmb44=
 github.com/twitter/twemoji v13.0.1+incompatible/go.mod h1:06L6PdKuWDx/Yh6s4B7yGkAeBmWZzbFZgfNnWlJPPYM=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210105192446-f35d4b1858d5 h1:Y941nSUXK4pNlqjrpT9jtdfQthVmKJQ2q03ZwWH84wU=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210105192446-f35d4b1858d5/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210105225557-fe24b613d566 h1:3uAwb40jx8yIhxvFcTfQXk9cSOgpG0kzczM+KU9sSw4=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210105225557-fe24b613d566/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
