@@ -426,6 +426,10 @@ ul#menu-horizontal li {
  *  Card component
  **************************************************/
 
+a.summary-link {
+  color: $black !important;
+} 
+
 .card {
   background: #ffffff;
 }
@@ -507,7 +511,7 @@ mark,
 
 .article-metadata a,
 .article-metadata a:hover {
-  color: $primary_complementary;
+  color: $primary_complementary !important;
 }
 
 /*************************************************
