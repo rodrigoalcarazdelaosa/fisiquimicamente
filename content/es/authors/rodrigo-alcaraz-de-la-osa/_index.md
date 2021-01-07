@@ -55,36 +55,42 @@ social:
   label: Contáctame
   display:
     header: true
+    footer: true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alcarazr
   label: Sígueme en Twitter
   display:
     header: true
+    footer: true
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/fisiquimicamente/
   label: Sígueme en Instagram
   display:
     header: true
+    footer: true
 - icon: pinterest
   icon_pack: fab
   link: https://www.pinterest.es/fisiquimicamente/
   label: Sígueme en Pinterest
   display:
     header: true
+    footer: true
 - icon: telegram
   icon_pack: fab
   link: https://t.me/fisiquimicamente
   label: Suscríbete al canal de Telegram
   display:
     header: true
+    footer: true
 - icon: discord
   icon_pack: fab
   link: https://discord.gg/kJqPqTJ
   label: Únete al servidor de Discord
   display:
     header: true
+    footer: true
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -54,24 +54,28 @@ social:
   label: Contact me
   display:
     header: true
+    footer: true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alcarazr
   label: Follow me on Twitter
   display:
     header: true
+    footer: true
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/fisiquimicamente/
   label: Follow me on Instagram
   display:
     header: true
+    footer: true
 - icon: pinterest
   icon_pack: fab
   link: https://www.pinterest.es/fisiquimicamente/
   label: Follow me on Pinterest
   display:
     header: true
+    footer: true
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
