@@ -72,7 +72,7 @@ div#navbar-navidad {
 
   @include media-breakpoint-down(md) {
     top: 50px;
-	height: 25px;
+	  height: 25px;
   }
 
 }
@@ -185,8 +185,12 @@ blockquote {
  **************************************************/  
   
 .btn-toolbar {
-  justify-content: center
-}  
+  justify-content: center;
+}
+
+a.btn.btn-primary {
+  color: #ffffff;
+}
   
 /*************************************************
  *  Tables
@@ -576,12 +580,7 @@ ul.subscribe li:hover i {
  *  Page Builder: sections and widgets
  **************************************************/
 
-/* Override dark colors that may be inherited from body.dark */
-.home-section.dark,
-.home-section.dark h1,
-.home-section.dark h2,
-.home-section.dark h3,
-.home-section.dark a:not(.btn) {
+.home-section.light h1 {
   color: $primary;
 }
 
@@ -736,6 +735,10 @@ ul.ul-edu li .description p.institution {
 /*************************************************
  *  Buttons
  **************************************************/
+
+ a.btn.btn-outline-primary.btn-page-header:hover {
+  color: #ffffff;
+ }
 
 .btn-light {
   color: $primary;
