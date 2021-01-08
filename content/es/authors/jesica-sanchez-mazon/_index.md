@@ -49,12 +49,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sanmaz.j@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  label: Contáctame
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/motherofphotons
+  label: Sígueme en Twitter
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/motherofphotons
+  label: Sígueme en Instagram
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
