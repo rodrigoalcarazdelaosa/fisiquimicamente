@@ -9,7 +9,7 @@
 - id: back_to_top
   translation: Regreso al inicio
 - id: home
-  translation: 🏡 Inicio
+  translation: Inicio
 - id: close
   translation: Cerrar
 - id: languages
