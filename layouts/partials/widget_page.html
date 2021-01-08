@@ -119,7 +119,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apuntes</li>
 	    </ol>
 	    </nav>	
@@ -135,23 +135,23 @@
 	    <ol class="breadcrumb breadcrumb-widget">
 			{{ if eq site.Language.Lang "es" }}      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/apuntes/">Apuntes</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/">📚 Apuntes</a></li>
 			{{ else if eq site.Language.Lang "en" }}
 		  	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>
-			<li class="breadcrumb-item">📚 <a href="/en/physics-chemistry-notes/">Notes</a></li>
+			<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/">📚 Notes</a></li>
 			{{ end }}
 			{{ if eq $st.Params.subtitle "📓 2º Bach ☢️ Física" }}
-				<li class="breadcrumb-item">📓 <a href="/recursos-fisica-quimica/apuntes/2bach/">2º Bach</a></li>		
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/">📓 2º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
 			{{ else if eq $st.Params.subtitle "📓 2º Bach ⚗️ Química" }}
-				<li class="breadcrumb-item">📓 <a href="/recursos-fisica-quimica/apuntes/2bach/">2º Bach</a></li>		
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/">📓 2º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
 			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds ☢️ Physics" }}
-				<li class="breadcrumb-item">📓 <a href="/en/physics-chemistry-notes/17-18-year-olds/">17&ndash;18 year-olds</a></li>		
+				<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/">📓 17&ndash;18 year-olds</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">☢️ Physics</li>
 			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds ⚗️ Chemistry" }}
-				<li class="breadcrumb-item">📓 <a href="/en/physics-chemistry-notes/17-18-year-olds/">17&ndash;18 year-olds</a></li>		
+				<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/">📓 17&ndash;18 year-olds</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Chemistry</li>					
 			{{ else }}
 				<li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
@@ -162,8 +162,8 @@
 		<nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget"> 
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-			<li class="breadcrumb-item">📚 <a href="/recursos-fisica-quimica/apuntes/">Apuntes</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/">📚 Apuntes</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>	
@@ -171,7 +171,7 @@
 		<nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget"> 
 	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
-			<li class="breadcrumb-item">📚 <a href="/en/physics-chemistry-notes/">Notes</a></li>			
+			<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/">📚 Notes</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>	
@@ -179,7 +179,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">🎓 EBAU</li>
 	    </ol>
 	    </nav>	
@@ -187,8 +187,8 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
 	    </ol>
 	    </nav>	
@@ -196,9 +196,9 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
-	        <li class="breadcrumb-item">☢️ <a href="/recursos-fisica-quimica/ebau/fisica">Física</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">☢️ Física</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">📝 Exámenes completos</li>
 	    </ol>
 	    </nav>
@@ -206,9 +206,9 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
-	        <li class="breadcrumb-item">☢️ <a href="/recursos-fisica-quimica/ebau/fisica">Física</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">☢️ Física</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🗂️ Por temas</li>
 	    </ol>
 	    </nav>					
@@ -216,8 +216,8 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
 	    </ol>
 	    </nav>	
@@ -225,9 +225,9 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
-	        <li class="breadcrumb-item">⚗️ <a href="/recursos-fisica-quimica/ebau/quimica">Química</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">📝 Exámenes completos</li>
 	    </ol>
 	    </nav>
@@ -235,9 +235,9 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
-	        <li class="breadcrumb-item">⚗️ <a href="/recursos-fisica-quimica/ebau/quimica">Química</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🗂️ Por temas</li>
 	    </ol>
 	    </nav>		
@@ -245,8 +245,8 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">🎓 <a href="/recursos-fisica-quimica/ebau/">EBAU</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">💡Consejos</li>
 	    </ol>
 	    </nav>	
@@ -254,7 +254,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">📝 Oposiciones</li>
 	    </ol>
 	    </nav>	
@@ -262,8 +262,8 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">📝 <a href="/recursos-fisica-quimica/oposiciones">Oposiciones</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones">📝 Oposiciones</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
 	    </ol>
 	    </nav>	
@@ -271,8 +271,8 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item">⚛️ <a href="/recursos-fisica-quimica/">Recursos FyQ</a></li>
-	        <li class="breadcrumb-item">📝 <a href="/recursos-fisica-quimica/oposiciones">Oposiciones</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones">📝 Oposiciones</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
 	    </ol>
 	    </nav>
@@ -287,7 +287,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
-	        <li class="breadcrumb-item">🔗 <a href="/enlaces-interes">Enlaces de interés</a></li>			
+	        <li class="breadcrumb-item"><a href="/enlaces-interes">🔗 Enlaces de interés</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">💻 Recursos online</li>
 	    </ol>
 	    </nav>			
@@ -295,7 +295,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
-	        <li class="breadcrumb-item">🔗 <a href="/enlaces-interes">Enlaces de interés</a></li>			
+	        <li class="breadcrumb-item"><a href="/enlaces-interes">🔗 Enlaces de interés</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🤗 Páginas amigas</li>
 	    </ol>
 	    </nav>					
@@ -317,7 +317,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
-			<li class="breadcrumb-item">👨‍🔬 <a href="/sobre-mi">Sobre mí</a></li>			
+			<li class="breadcrumb-item"><a href="/sobre-mi">👨‍🔬 Sobre mí</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Intereses y formación</li>
 	    </ol>
 		</nav>		
@@ -325,7 +325,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
-			<li class="breadcrumb-item">👨‍🔬 <a href="/sobre-mi">Sobre mí</a></li>			
+			<li class="breadcrumb-item"><a href="/sobre-mi">👨‍🔬 Sobre mí</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👣 Trayectoria profesional</li>
 	    </ol>
 		</nav>
@@ -333,7 +333,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
-			<li class="breadcrumb-item">👨‍🔬 <a href="/sobre-mi">Sobre mí</a></li>			
+			<li class="breadcrumb-item"><a href="/sobre-mi">👨‍🔬 Sobre mí</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">✈️ Estancias de investigación</li>
 	    </ol>
 	    </nav>							
@@ -348,7 +348,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
-			<li class="breadcrumb-item">👨‍🔬 <a href="/en/about-me">About me</a></li>			
+			<li class="breadcrumb-item"><a href="/en/about-me">👨‍🔬 About me</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Interests and Education</li>
 	    </ol>
 		</nav>
@@ -356,7 +356,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
-			<li class="breadcrumb-item">👨‍🔬 <a href="/en/about-me">About me</a></li>			
+			<li class="breadcrumb-item"><a href="/en/about-me">👨‍🔬 About me</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👣 Career Path</li>
 	    </ol>
 		</nav>
@@ -364,7 +364,7 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
-			<li class="breadcrumb-item">👨‍🔬 <a href="/en/about-me">About me</a></li>			
+			<li class="breadcrumb-item"><a href="/en/about-me">👨‍🔬 About me</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">✈️ Research Stays</li>
 	    </ol>
 		</nav>													
