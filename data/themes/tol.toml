@@ -8,6 +8,7 @@ light = true
 primary = "#2a54a9"
 link = "#2a54a9"
 link_hover = "#2a54a9"
+link_decoration = "underline"
 
 # Menu
 menu_primary = "#2a54a9"
