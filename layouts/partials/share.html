@@ -81,7 +81,7 @@
 	</center>	
   <ul class="share">
 	  <script src="https://apis.google.com/js/platform.js" async defer></script>
-	  <li><g:sharetoclassroom url="{{ $.Permalink }}" size="30" theme="dark"></g:sharetoclassroom></li>
+	  <li data-toggle="tooltip" data-placement="bottom" title="Classroom"><g:sharetoclassroom url="{{ $.Permalink }}" size="30" theme="dark"></g:sharetoclassroom></li>
     {{ range where site.Data.page_sharer.buttons "enable" true }}
       {{ $pack := or .icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
@@ -91,7 +91,7 @@
       {{ $link := replace .url "{url}" ($.Permalink | htmlEscape) }}
       {{ $link = replace $link "{title}" ($.Title | htmlEscape) }}
       <li>
-        <a href="{{$link|safeURL}}" target="_blank" rel="noopener" class="share-btn-{{.id}}">
+        <a href="{{$link|safeURL}}" data-toggle="tooltip" data-placement="bottom" title="{{.title}}" target="_blank" rel="noopener" class="share-btn-{{.id}}">
           <i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
         </a>
       </li>
