@@ -18,19 +18,19 @@ subtitle = ""
   icon = "[📚](apuntes)"
   icon_pack = "emoji"
   name = "[Apuntes](apuntes)"
-  description = "📗 [2º ESO](apuntes/2eso) · 📘 [3º ESO](apuntes/3eso) · 📙 [4º ESO](apuntes/4eso) <br> 📕 [1º Bach](apuntes/1bach) · 📓 [2º Bach](apuntes/2bach) <br> 📔 [Formulación y nomenclatura de Química](apuntes/formulacion-nomenclatura-quimica)"
+  description = "[📗 2º ESO](apuntes/2eso) · [📘 3º ESO](apuntes/3eso) · [📙 4º ESO](apuntes/4eso) <br> [📕 1º Bach](apuntes/1bach) · [📓 2º Bach](apuntes/2bach) <br> [📔 Formulación y nomenclatura de Química](apuntes/formulacion-nomenclatura-quimica)"
   
 [[feature]]
   icon = "[🎓](ebau)"
   icon_pack = "emoji"
   name = "[EBAU](ebau)"
-  description = "☢️ [Física](ebau/fisica) · ⚗️ [Química](ebau/quimica) · 💡 [Consejos](ebau/consejos)"
+  description = "[☢️ Física](ebau/fisica) · [⚗️ Química](ebau/quimica) · [💡 Consejos](ebau/consejos)"
   
 [[feature]]
   icon = "[📝](oposiciones)"
   icon_pack = "emoji"
   name = "[Oposiciones](oposiciones)"
-  description = "☢️ [Física](oposiciones/fisica) · ⚗️ [Química](oposiciones/quimica)"
+  description = "[☢️ Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
    
 
 [design.background]

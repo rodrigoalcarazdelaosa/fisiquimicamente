@@ -42,7 +42,7 @@ subtitle = "En formato **texto**, **diapositivas** y **póster** (tipo _chuleta_
   icon = "[📓](2bach)"
   icon_pack = "emoji"
   name = "[2º Bach](2bach)"
-  description = "☢️ [Física](2bach/fisica) · ⚗️ [Química](2bach/quimica)"
+  description = "[☢️ Física](2bach/fisica) · [⚗️ Química](2bach/quimica)"
 
 [[feature]]
   icon = "[📔](formulacion-nomenclatura-quimica)"

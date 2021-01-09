@@ -18,7 +18,7 @@ subtitle = ""
   icon = "[👨‍🎓](intereses-formacion)"
   icon_pack = "emoji"
   name = "[Intereses y formación](intereses-formacion)"
-  description = "🎸 [Guitarra](intereses-formacion/#guitarra)"
+  description = "[🎸 Guitarra](intereses-formacion/#guitarra)"
   
 [[feature]]
   icon = "[👣](trayectoria-profesional)"

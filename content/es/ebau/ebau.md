@@ -18,13 +18,13 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
   icon = "[☢️](fisica)"
   icon_pack = "emoji"
   name = "[Física](fisica)"
-  description = "📝 [Exámenes completos](fisica/examenes) · 🗂️ [Por temas](fisica/preguntas)"  
+  description = "[📝 Exámenes completos](fisica/examenes) · [🗂️ Por temas](fisica/preguntas)"  
   
 [[feature]]
   icon = "[⚗️](quimica)"
   icon_pack = "emoji"
   name = "[Química](quimica)"
-  description = "📝 [Exámenes completos](quimica/examenes) · 🗂️ [Por temas](quimica/preguntas)"
+  description = "[📝 Exámenes completos](quimica/examenes) · [🗂️ Por temas](quimica/preguntas)"
   
 [[feature]]
   icon = "[💡](consejos)"
