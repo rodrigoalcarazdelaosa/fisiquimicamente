@@ -46,7 +46,7 @@ subtitle = "📙 4º ESO"
     tag = "reacciones-químicas"			
 	
   [[content.filter_button]]
-    name = "Movimiento"
+    name = "Movimientos"
     tag = "movimiento"		
 	
   [[content.filter_button]]
