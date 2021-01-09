@@ -10,7 +10,7 @@ weight: 1
 ---
 
 {{% callout note %}}
-Este tutorial es una traducción y adaptación de la **excelente guía** de {{< icon name="overleaf" pack="ai" >}} Overleaf para [_aprender $\LaTeX$ en 30 minutos_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+Este tutorial es una traducción y adaptación de la **excelente guía** de <img draggable="false" class="icon" style="margin-bottom: 0px;" alt="overleaf" src="/icon/overleaf.svg"> Overleaf para [_aprender $\LaTeX$ en 30 minutos_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 {{% /callout %}}
 
 {{% toc %}}
@@ -30,7 +30,7 @@ Una de las principales razones por las que la gente usa $\LaTeX$ es que separa e
 
 ## ¿Cómo usar $\LaTeX$?
 
-### Overleaf <i class="ai ai-overleaf"></i>
+### Overleaf <img draggable="false" class="icon" alt="overleaf" src="/icon/overleaf.svg">
 
 Sin duda la **opción recomendada** para poder empezar a escribir $\LaTeX$ sin necesidad de instalar nada localmente en nuestro ordenador. [Overleaf](https://www.overleaf.com/) es un editor de $\LaTeX$ online que nos permite además **colaborar** fácilmente con otras personas.
 
