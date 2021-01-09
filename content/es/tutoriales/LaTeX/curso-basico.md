@@ -10,7 +10,7 @@ weight: 1
 ---
 
 {{% callout note %}}
-Este tutorial es una traducción y adaptación de la **excelente guía** de <img draggable="false" class="icon" style="margin-bottom: 0px;" alt="overleaf" src="/icon/overleaf.svg"> Overleaf para [_aprender $\LaTeX$ en 30 minutos_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+Este tutorial es una traducción y adaptación de la **excelente guía** de <img draggable="false" class="icon" style="margin-bottom: 0px;" alt="overleaf" src="/icon/overleaf.svg"> para [_aprender $\LaTeX$ en 30 minutos_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 {{% /callout %}}
 
 {{% toc %}}
@@ -30,23 +30,23 @@ Una de las principales razones por las que la gente usa $\LaTeX$ es que separa e
 
 ## ¿Cómo usar $\LaTeX$?
 
-### Overleaf <img draggable="false" class="icon" alt="overleaf" src="/icon/overleaf.svg">
+### <img draggable="false" class="icon" alt="overleaf" src="/icon/overleaf.svg">
 
-Sin duda la **opción recomendada** para poder empezar a escribir $\LaTeX$ sin necesidad de instalar nada localmente en nuestro ordenador. [Overleaf](https://www.overleaf.com/) es un editor de $\LaTeX$ online que nos permite además **colaborar** fácilmente con otras personas.
+Sin duda la **opción recomendada** para poder empezar a escribir $\LaTeX$ sin necesidad de instalar nada localmente en nuestro ordenador. [<img draggable="false" class="icon" alt="overleaf" src="/icon/overleaf.svg">](https://www.overleaf.com/) es un editor de $\LaTeX$ online que nos permite además **colaborar** fácilmente con otras personas.
 
-### Windows <i class="fab fa-windows"></i>
+### <img draggable="false" class="icon" alt="windows" src="/icon/windows.svg">
 
 Tenemos principalmente dos opciones:
 
 - [$\TeX$ Live](https://www.tug.org/texlive/): viene del mundo Unix y por defecto instala _todo_.
 
-- [MiK$\TeX$](https://miktex.org): herramienta más _Windows_. Por defecto instala unos pocos paquetes y el resto se van instalando según sea necesario.
+- [MiK$\TeX$](https://miktex.org): herramienta más <img draggable="false" class="icon" alt="windows" src="/icon/windows.svg">. Por defecto instala unos pocos paquetes y el resto se van instalando según sea necesario.
 
-### macOS <i class="fab fa-apple"></i>
+### <img draggable="false" class="icon" alt="apple" src="/icon/apple.svg"> <img draggable="false" class="icon" alt="macOS" src="/icon/macOS.svg">
 
-[Mac$\TeX$](https://tug.org/mactex/) es la versión de [$\TeX$ Live](https://www.tug.org/texlive/) para macOS. 
+[Mac$\TeX$](https://tug.org/mactex/) es la versión de [$\TeX$ Live](https://www.tug.org/texlive/) para <img draggable="false" class="icon" alt="apple" src="/icon/apple.svg"> <img draggable="false" class="icon" alt="macOS" src="/icon/macOS.svg">. 
 
-### Unix <i class="fab fa-linux"></i>
+### <img draggable="false" class="icon" alt="Tux" src="/icon/Tux.svg"> <img draggable="false" class="icon" alt="unix" src="/icon/unix.svg">
 
 [$\TeX$ Live](https://www.tug.org/texlive/).
 
