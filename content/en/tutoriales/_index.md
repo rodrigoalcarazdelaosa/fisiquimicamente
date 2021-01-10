@@ -12,4 +12,6 @@ view: 2
 header: 
   image: "tutoriales-header.jpg"
   caption: "Photo adapted from [**Alexei Scutari**](https://unsplash.com/@scutal) on [Unsplash](https://unsplash.com)"
+
+breadcrumbs: [""]  
 ---

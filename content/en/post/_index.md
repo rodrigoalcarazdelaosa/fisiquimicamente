@@ -13,4 +13,6 @@ view: 2
 header: 
   image: "blog-header.jpg"
   caption: "Image adapated from [**inspirexpressmiami**](https://pixabay.com/es/users/inspirexpressmiami-263260/) on [Pixabay](https://pixabay.com/es/)"
+
+breadcrumbs: [""]
 ---
