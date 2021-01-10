@@ -6,6 +6,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+breadcrumbs: [""]
 ---
 
 Mis [📚 <span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [📝 <span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}), [👐🏼 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y entradas del [✍🏼 <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) están bajo una [Licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es).

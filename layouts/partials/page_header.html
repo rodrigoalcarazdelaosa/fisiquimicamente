@@ -155,6 +155,20 @@
     {{ $ctnr = "universal-wrapper" }}
   {{end}}
 <div class="{{$ctnr}} pt-3">
+
+  {{ with $page.Params.breadcrumbs }}
+  <nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    {{ if eq site.Language.Lang "es" }}
+  	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
+	  {{ else if eq site.Language.Lang "en" }}
+  	  <li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>
+    {{ end }}		    	
+      <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>
+  </ol>
+  </nav>
+  {{ end }}
+
   <h1>{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}

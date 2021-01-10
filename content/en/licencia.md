@@ -7,6 +7,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+breadcrumbs: [""]
 ---
 
 My [📚 <span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}), [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) and [✍🏼 <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) posts are under an [Attribution-ShareAlike 4.0 International Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
