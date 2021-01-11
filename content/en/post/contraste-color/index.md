@@ -24,6 +24,10 @@ This post is an **adaptation/extension** of the [**excellent post** by **Ben Sza
 If you want to know more about **web accessibility** I recommend you take a look at this [**excellent guide**](https://www.websiteplanet.com/blog/website-accessibility-made-easy-ultimate-guide/).
 {{% /callout %}}
 
+{{% callout note %}}
+Do you want to know even more about **color schemes** and how to choose an **aesthetic color palette** in 2021? Check out [this **awesome blog post** from **Evinex**](https://www.evinex.com/color-schemes/).
+{{% /callout %}}
+
 I am considering the possibility of allowing the visitors of my website to choose whether they want a **light** or **dark** background. With a dark background (almost black) the text would become light (almost white), the opposite of what it is currently, but the **accent color**, this blue <svg width="1rem" height="1rem">
   <rect rx="4" ry="4" width="1rem" height="1rem" style="fill:#2a54a9" />
 </svg>, would no longer have enough **contrast** on black.
