@@ -23,6 +23,10 @@ links:
   icon: file-download
   name: Póster
   url: enlace-quimico-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: enllac-quimic-poster.pdf  
   
 slides: enlace-quimico-2Bach-quimica
 ---
