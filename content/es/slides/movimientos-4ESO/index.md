@@ -66,7 +66,11 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $
 ---
 
 ### Ejemplo
-<q>Un caracol 🐌 recorre en línea recta una distancia de $10.8\thinspace\mathrm m$ en $1.5\thinspace\mathrm h$. ¿Qué distancia recorrerá en $5\thinspace\mathrm{min}$?</q>
+<q>Un caracol <span style="display: inline-flex;-moz-transform: scale(-1, 1);
+  -webkit-transform: scale(-1, 1);
+  -o-transform: scale(-1, 1);
+  -ms-transform: scale(-1, 1);
+  transform: scale(-1, 1);">🐌</span> recorre en línea recta una distancia de $10.8\thinspace\mathrm m$ en $1.5\thinspace\mathrm h$. ¿Qué distancia recorrerá en $5\thinspace\mathrm{min}$?</q>
 
 ---
 
@@ -150,7 +154,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 ---
 
 ### Ejemplo
-<q>Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
+<q>Un coche <span style="display: inline-flex;-moz-transform: scale(-1, 1);
   -webkit-transform: scale(-1, 1);
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
@@ -160,7 +164,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
 
 Lo primero pasamos la **velocidad inicial** $v_0$ a m/s:
 $$
-v_0 = 70.2\thinspace\frac{\mathrm{km}}{\mathrm{h}}\cdot \frac{1000\thinspace\mathrm m}{\thinspace\mathrm{km}} \cdot \frac{1\thinspace\mathrm h}{3600\thinspace\mathrm s} = 19.5\thinspace\mathrm{m/s}
+v_0 = 70.2\thinspace\frac{\mathrm{km}}{\mathrm{h}}\cdot \frac{1000\thinspace\mathrm m}{1\thinspace\mathrm{km}} \cdot \frac{1\thinspace\mathrm h}{3600\thinspace\mathrm s} = 19.5\thinspace\mathrm{m/s}
 $$
 
 La frase "*disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo*" la tenemos que interpretar como que su **aceleración** $a=-3\thinspace\mathrm{m/s^2}$ (el signo $-$ es porque su velocidad disminuye, y la velocidad la tomamos positiva).
@@ -285,7 +289,7 @@ Seguimos estos **tres pasos**:
 ---
 
 ### Ejemplo
-<q>Un coche <span style="display: inline-block;-moz-transform: scale(-1, 1);
+<q>Un coche <span style="display: inline-flex;-moz-transform: scale(-1, 1);
   -webkit-transform: scale(-1, 1);
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
