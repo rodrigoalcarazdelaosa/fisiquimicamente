@@ -43,7 +43,7 @@ In the **lower left corner** you can see this **icon** <img draggable="false" cl
 
 ### Kudos
 
-In all the blog posts as well as in the 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* me ***kudos*** <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg">. There are *likes* and then there are *kudos*. This word, from the Greek κῦδος, means *fame*, *glory* or *prestige*. By giving me kudos you are acknowledging and praising my effort, encouraging me to continue preparing quality materials.
+In all the blog posts as well as in the 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* me <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. There are *likes* and then there are *kudos*. This word, from the Greek κῦδος, means *fame*, *glory* or *prestige*. By giving me kudos you are acknowledging and praising my effort, encouraging me to continue preparing quality materials.
 
 ### Sharing
 You can also <strong>share</strong> all the <strong>blog posts</strong> and 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.
