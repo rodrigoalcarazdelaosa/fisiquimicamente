@@ -1195,8 +1195,18 @@ a.footnote-backref:hover {
 }
 
 a.cc-btn.cc-dismiss {
-  font-family: $sta-font-nav, sans-serif;
+  font-family: $sta-font-nav, sans-serif;  
 }
+
+a.cc-btn.cc-dismiss:hover {
+  background-color: #f7f056;
+  color: #000000;
+}
+
+a.cc-link:active, a.cc-link:hover, a.cc-link:visited {
+  color: #f7f056 !important;
+}
+
 
 /*************************************************
  *  Tooltips
