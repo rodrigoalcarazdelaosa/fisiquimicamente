@@ -52,9 +52,11 @@
   {{ partial "citation" . }}
   
   {{ partial "site_js" . }}
+
+  <!--Twemoji-->
+  {{ partial "twemoji" . }}
   
   {{ if eq .Site.Language.Lang "es" }}
-  
   <!--Start of Tawk.to Script-->
   <script type="text/javascript">
   var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -67,10 +69,9 @@
   s0.parentNode.insertBefore(s1,s0);
   })();
   </script>
-  <!--End of Tawk.to Script-->
+  <!--End of Tawk.to Script-->  
   
-  {{ else if eq .Site.Language.Lang "en" }}
-  
+  {{ else if eq .Site.Language.Lang "en" }}  
   <!--Start of Tawk.to Script-->
   <script type="text/javascript">
   var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
@@ -83,9 +84,11 @@
   s0.parentNode.insertBefore(s1,s0);
   })();
   </script>
-  <!--End of Tawk.to Script-->
-    
+  <!--End of Tawk.to Script-->   
+
   {{ end }}
+
+  {{ if eq .Site.Language.Lang "en" }}
   
   <script type="text/javascript">
     window.now4real = window.now4real || {};
@@ -95,6 +98,8 @@
     };
     (function () { var n4r = document.createElement('script'); n4r.type = 'text/javascript'; n4r.async = true; n4r.src = 'https://cdn.now4real.com/now4real.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(n4r, s); })();
   </script>
+
+  {{ end }}
 	
 <!--Halloween Bats-->
   
@@ -152,9 +157,6 @@
 <!-- <div style="position: fixed; bottom: 0; width: 100%">
   <img src="/media/snow-pile.svg" alt="Snow" width="100%">
 </div> -->
-
-<!--Twemoji-->
-{{ partial "twemoji" . }}
 
 </body>
 </html>

@@ -1,1 +1,13 @@
 <meta name="format-detection" content="telephone=no">
+
+{{ if eq .Site.Language.Lang "es" }}
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+    new Crate({
+      server: '755936234387275888', // Fisiquímicamente con Rodri
+      channel: '756101175081828422', // #general
+      color: '#2a54a9',
+      location: ['bottom','left'],
+      glyph: ['/icon/comments-solid.svg','60%']
+    })
+</script>
+{{ end }}
