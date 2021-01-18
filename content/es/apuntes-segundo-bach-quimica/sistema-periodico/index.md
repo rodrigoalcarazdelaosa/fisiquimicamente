@@ -23,6 +23,10 @@ links:
   icon: file-download
   name: Póster
   url: sistema-periodico-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: sistema-periodic-poster.pdf
 
 slides: sistema-periodico-2Bach-quimica
 ---
