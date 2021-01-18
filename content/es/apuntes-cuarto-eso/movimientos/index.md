@@ -236,6 +236,11 @@ Utilizando la ecuación (3)
 	\end{align*}
 	
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical-posicion-tiempo.svg" title="Gráfica de la posición de la piedra en función del tiempo." lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical-velocidad-tiempo.svg" title="Gráfica de la velocidad de la piedra en función del tiempo." lightbox="false" width="100%" >}}
+
 {{% /callout %}}
 
 {{< figure library="true" src="movimientos-4ESO/bola-billar-fqsaja.jpg" title="Fotografía de una bola de billar cayendo. Tomada por el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com). Más información [aquí](https://twitter.com/fqsaja1/status/1334197067279966208)." lightbox="true" >}}
@@ -310,7 +315,7 @@ donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los 
 
 {{< figure library="true" src="movimientos-4ESO/encuentro.svg" lightbox="false" width="100%" >}}
 
-donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los $22.4\thinspace\mathrm s$.
+donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los 22.4 s.
 
 ---
 

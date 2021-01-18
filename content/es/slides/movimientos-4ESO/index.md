@@ -214,7 +214,7 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el
 ---	
 
 ### Ejemplo
-<q>Desde la azotea de un rascacielos de $120\thinspace\mathrm m$ de altura se lanza una piedra con velocidad de $5\thinspace\mathrm{m/s}$, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.</q>
+<q>Desde la azotea de un rascacielos de 120 m de altura se lanza una piedra con velocidad de 5 m/s, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.</q>
 
 ---
 
@@ -264,6 +264,14 @@ Utilizando la ecuación (3)
 ---	
 	
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" lightbox="false" width="25%" >}}
+
+---
+
+{{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical-posicion-tiempo.svg" lightbox="false" width="90%" >}}
+
+---
+
+{{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical-velocidad-tiempo.svg" lightbox="false" width="90%" >}}
 
 ---
 
@@ -362,7 +370,7 @@ Podemos comprobar esto representando la gráfica de posición frente a tiempo ($
 
 ---
 
-donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los $22.4\thinspace\mathrm s$.
+donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los 22.4 s.
 
 ---
 
