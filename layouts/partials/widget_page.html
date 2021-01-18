@@ -130,7 +130,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">📚 Notes</li>
 	    </ol>
 	    </nav>
-	{{ else if (eq $widget "apuntes") }}		
+	{{ else if and (eq $widget "portfolio") (eq $st.Title "📚 Apuntes") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 			{{ if eq site.Language.Lang "es" }}      
