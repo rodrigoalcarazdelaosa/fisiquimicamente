@@ -13,8 +13,6 @@ weight: 1
 Este tutorial es una traducción y adaptación de la **excelente guía** de <img draggable="false" class="icon" style="margin-bottom: 0px;" alt="overleaf" src="/icon/overleaf.svg"> para [_aprender $\LaTeX$ en 30 minutos_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 {{% /callout %}}
 
-{{% toc %}}
-
 ## ¿Qué es $\LaTeX$?
 
 $\LaTeX$ (pronunciado LAH-tek) es una herramienta utilizada para crear documentos de aspecto profesional, ampliamente utilizada en la composición de textos científicos. A diferencia de procesadores de texto como Microsoft Word o LibreOffice, tipo `WYSIWYG` (_What You See Is What You Get_), $\LaTeX$ se basa en la idea `WYSIWYM` (_What You See Is What You Mean_). Es decir, cuando escribimos $\LaTeX$ nos centramos en el contenido y su estructura, y es el sistema quien se encarga de formatearlo.
