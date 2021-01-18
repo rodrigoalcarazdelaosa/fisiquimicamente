@@ -129,8 +129,8 @@
 	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">📚 Notes</li>
 	    </ol>
-	    </nav>
-	{{ else if and (eq $widget "portfolio") (eq $st.Title "📚 Apuntes") }}
+		</nav>		
+	{{ else if and (eq $widget "portfolio") (or (eq $st.Title "📚 Apuntes") (eq $st.Title "📚 Notes") ) }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 			{{ if eq site.Language.Lang "es" }}      
