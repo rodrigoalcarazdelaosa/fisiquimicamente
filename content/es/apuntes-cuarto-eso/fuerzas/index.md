@@ -105,6 +105,14 @@ Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**
 
 <iframe src="https://phet.colorado.edu/sims/html/friction/latest/friction_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
+También puedes ver este excelente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos enseñan cómo realizar una **práctica virtual para determinar coeficientes de rozamiento**:
+
+{{< youtube x2vUbOPB1W8 >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1NrmIRaarKCZvh8VdIhzvRDOAkJSPEwfK/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
+
 ### Centrípeta $\vec f_\mathrm c$
 Se llama **fuerza centrípeta** a la fuerza o a la componente de la fuerza que actúa sobre un objeto en movimiento sobre una trayectoria curvilínea y que está dirigida hacia el centro de curvatura de la trayectoria. Su módulo se calcula a partir de la **aceleración centrípeta**, haciendo uso de la **2ª ley de Newton**:
 $$

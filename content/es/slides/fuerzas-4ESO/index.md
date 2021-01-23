@@ -118,7 +118,7 @@ Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A un
 - [Peso $\vec P$](#/3/1)
 - [Normal $\vec N$](#/3/2)
 - [Rozamiento $\vec f_\mathrm r$](#/3/4)
-- [Centrípeta $\vec f_\mathrm c$](#/3/7)
+- [Centrípeta $\vec f_\mathrm c$](#/3/9)
 
 (continúa hacia abajo)
 
@@ -149,6 +149,8 @@ Es de igual magnitud y dirección, pero de sentido contrario a la fuerza ejercid
 ### Rozamiento $\vec f_\mathrm r$
 La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en contacto, oponiéndose siempre al movimiento relativo entre ambas superficies.
 
+---
+
 La fuerza de rozamiento es proporcional a la normal $N$:
 $$
 f_\mathrm r = \mu N,
@@ -167,8 +169,18 @@ Puedes aprender más sobre la naturaleza del rozamiento con esta **simulación**
 
 ---
 
+#### Práctica virtual
+
+{{< youtube x2vUbOPB1W8 >}}
+
+---
+
 ### Centrípeta $\vec f_\mathrm c$
-Se llama **fuerza centrípeta** a la fuerza o a la componente de la fuerza que actúa sobre un objeto en movimiento sobre una trayectoria curvilínea y que está dirigida hacia el centro de curvatura de la trayectoria. Su módulo se calcula a partir de la **aceleración centrípeta**, haciendo uso de la **2ª ley de Newton**:
+Se llama **fuerza centrípeta** a la fuerza o a la componente de la fuerza que actúa sobre un objeto en movimiento sobre una trayectoria curvilínea y que está dirigida hacia el centro de curvatura de la trayectoria.
+
+---
+
+Su módulo se calcula a partir de la **aceleración centrípeta**, haciendo uso de la **2ª ley de Newton**:
 $$
 f_\mathrm c = m a_\mathrm c = m\cdot \frac{v^2}{R} = \frac{mv^2}{R}
 $$
