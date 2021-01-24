@@ -3,9 +3,9 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.78.2"
+  HUGO_VERSION = "0.80"
   HUGO_ENABLEGITINFO = "true"
-  HUGO_PARAMS_MAP_api_key = "$GMAPS"
+  HUGOxPARAMSxMAPxapi_key = "$GMAPS"
 
 [context.production.environment]
   HUGO_ENV = "production"
