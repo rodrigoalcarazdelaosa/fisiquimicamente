@@ -5,6 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.78.2"
   HUGO_ENABLEGITINFO = "true"
+  HUGO_PARAMS_MAP_api_key = "$GMAPS"
 
 [context.production.environment]
   HUGO_ENV = "production"
