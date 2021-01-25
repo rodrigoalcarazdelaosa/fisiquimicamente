@@ -278,7 +278,7 @@ plugins_js  = ["applause-button","footnotes"]
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "G-M6WMNVL53B"
+  google_analytics = ""
   google_tag_manager = ""
 
 ############################
