@@ -1,6 +1,7 @@
 ---
 title: Sistema periódico
 summary: "Tabla periódica y configuración electrónica. Propiedades periódicas."
+url: "/recursos-fisica-quimica/apuntes/2bach/quimica/sistema-periodico/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

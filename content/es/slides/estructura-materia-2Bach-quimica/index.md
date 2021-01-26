@@ -1,6 +1,7 @@
 ---
 title: Estructura de la materia
 summary: "Mecánica cuántica, orbitales atómicos, estructura electrónica y partículas subatómicas."
+url: "/recursos-fisica-quimica/apuntes/2bach/quimica/estructura-materia/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

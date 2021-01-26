@@ -1,5 +1,6 @@
 ---
 title: Reacciones químicas
+url: "/recursos-fisica-quimica/apuntes/4eso/reacciones-quimicas/diapositivas"
 summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
 
 slides:

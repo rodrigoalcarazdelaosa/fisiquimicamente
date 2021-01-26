@@ -1,6 +1,7 @@
 ---
 title: La materia
 summary: "Propiedades, estados de agregación y mezclas."
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/materia/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

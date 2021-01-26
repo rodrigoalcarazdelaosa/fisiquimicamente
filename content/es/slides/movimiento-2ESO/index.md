@@ -1,6 +1,7 @@
 ---
 title: El movimiento
 summary: "Conceptos de velocidad y aceleración."
+url: "/recursos-fisica-quimica/apuntes/2eso/movimiento/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

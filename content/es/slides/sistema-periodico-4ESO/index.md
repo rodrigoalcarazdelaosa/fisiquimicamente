@@ -1,5 +1,6 @@
 ---
 title: Sistema periódico
+url: "/recursos-fisica-quimica/apuntes/4eso/sistema-periodico/diapositivas"
 summary: "Sistema periódico y configuración electrónica."
 
 slides:

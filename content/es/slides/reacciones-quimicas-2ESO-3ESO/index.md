@@ -1,6 +1,7 @@
 ---
 title: Reacciones químicas
 summary: "Cambios físicos y químicos. La reacción química. Iniciación a la estequiometría. Ley de conservación de la masa. Velocidad de reacción. La Química en la sociedad y el medio ambiente."
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/reacciones-quimicas/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

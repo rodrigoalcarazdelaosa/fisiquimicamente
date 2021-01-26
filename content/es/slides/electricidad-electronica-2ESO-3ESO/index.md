@@ -1,6 +1,7 @@
 ---
 title: Electricidad y electrónica
 summary: "Electricidad y circuitos eléctricos. Ley de Ohm. Dispositivos electrónicos. Aspectos industriales de la energía."
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/electricidad-electronica/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

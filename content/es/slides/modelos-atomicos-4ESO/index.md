@@ -1,5 +1,6 @@
 ---
 title: Modelos atómicos
+url: "/recursos-fisica-quimica/apuntes/4eso/modelos-atomicos/diapositivas"
 summary: "Modelos de Thomson, Rutherford y Bohr."
 
 slides:

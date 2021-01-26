@@ -1,6 +1,7 @@
 ---
 title: Leyes de los gases
 summary: "Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac."
+url: "/recursos-fisica-quimica/apuntes/3eso/leyes-gases/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

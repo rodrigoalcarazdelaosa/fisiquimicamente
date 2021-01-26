@@ -1,6 +1,7 @@
 ---
 title: La actividad científica
 summary: "Método científico. Medidas de magnitudes. Laboratorio escolar."
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/actividad-cientifica/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

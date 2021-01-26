@@ -1,5 +1,6 @@
 ---
 title: Enlace químico
+url: "/recursos-fisica-quimica/apuntes/4eso/enlace-quimico/diapositivas"
 summary: "Enlace iónico, covalente y metálico. Fuerzas intermoleculares."
 
 slides:

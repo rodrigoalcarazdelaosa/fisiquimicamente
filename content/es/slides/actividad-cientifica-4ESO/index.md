@@ -1,5 +1,6 @@
 ---
 title: La actividad científica
+url: "/recursos-fisica-quimica/apuntes/4eso/actividad-cientifica/diapositivas"
 summary: "La investigación científica. Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados."
 
 slides:

@@ -1,6 +1,7 @@
 ---
 title: Enlace químico
 summary: "Enlace iónico, covalente y metálico. Geometría molecular. Fuerzas intermoleculares."
+url: "/recursos-fisica-quimica/apuntes/2bach/quimica/enlace-quimico/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

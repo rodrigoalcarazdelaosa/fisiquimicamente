@@ -1,5 +1,6 @@
 ---
 title: Fuerzas
+url: "/recursos-fisica-quimica/apuntes/4eso/fuerzas/diapositivas"
 summary: "Leyes de Newton y fuerzas de especial interés."
 
 slides:

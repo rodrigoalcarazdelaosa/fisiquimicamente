@@ -1,5 +1,6 @@
 ---
 title: Movimientos
+url: "/recursos-fisica-quimica/apuntes/4eso/movimientos/diapositivas"
 summary: MRU, MRUA y MCU.
 
 slides:

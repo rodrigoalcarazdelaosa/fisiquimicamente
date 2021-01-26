@@ -1,6 +1,7 @@
 ---
 title: Elementos y compuestos
 summary: "Tabla periódica de los elementos. Uniones entre átomos. Elementos y compuestos de especial interés."
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/elementos-compuestos/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

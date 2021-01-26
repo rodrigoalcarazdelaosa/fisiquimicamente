@@ -1,6 +1,7 @@
 ---
 title: Energía
 summary: "Concepto de energía. Transformaciones energéticas. Calor y temperatura. Fuentes de energía."
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/energia/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

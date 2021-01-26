@@ -1,6 +1,7 @@
 ---
 title: Estructura atómica
 summary: "Teoría atómica de Dalton, modelos atómicos, iones e isótopos."
+url: "/recursos-fisica-quimica/apuntes/2eso-3eso/estructura-atomica/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

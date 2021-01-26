@@ -1,6 +1,7 @@
 ---
 title: Las fuerzas
 summary: "Principales fuerzas de la naturaleza y sus efectos."
+url: "/recursos-fisica-quimica/apuntes/2eso/fuerzas/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

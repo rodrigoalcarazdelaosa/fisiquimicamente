@@ -1,6 +1,7 @@
 ---
 title: Movimiento parabólico
 summary: Estudio del tiro parabólico u oblicuo.
+url: "/recursos-fisica-quimica/apuntes/1bach/movimiento-parabolico/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

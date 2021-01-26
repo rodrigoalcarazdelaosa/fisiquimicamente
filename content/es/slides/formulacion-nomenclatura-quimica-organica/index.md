@@ -1,6 +1,7 @@
 ---
 title: Formulación y nomenclatura de Química Orgánica
 summary: "Recomendaciones y nombres preferidos de la IUPAC de 2013."
+url: "/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/organica/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming

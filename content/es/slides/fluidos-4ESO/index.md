@@ -1,5 +1,6 @@
 ---
 title: Fluidos
+url: "/recursos-fisica-quimica/apuntes/4eso/fluidos/diapositivas"
 summary: Concepto de presión, principios de la hidrostática y física de la atmósfera.
 
 slides:
