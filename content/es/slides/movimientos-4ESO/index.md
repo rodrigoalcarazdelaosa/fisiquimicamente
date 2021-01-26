@@ -443,7 +443,7 @@ Frecuencia $f$
 
 La frecuencia o velocidad angular, $\omega$, está relacionada con el periodo y la frecuencia a través de las expresiones:
 $$
-\omega = \frac{\Delta \omega}{\Delta t} = \frac{2\pi}{T} = 2\pi f
+\omega = \frac{\Delta \varphi}{\Delta t} = \frac{2\pi}{T} = 2\pi f
 $$
 
 ---
