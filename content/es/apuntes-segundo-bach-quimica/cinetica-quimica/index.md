@@ -19,16 +19,11 @@ image:
   caption: Imagen de [**Jalyn Bryce**](https://pixabay.com/es/users/jalynbryce-5426636/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Póster
+  url: cinetica-quimica-poster.pdf
 
 ---
 
