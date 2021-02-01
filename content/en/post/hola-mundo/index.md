@@ -42,7 +42,7 @@ The posts in this blog are aimed at my students and anyone else who is curious a
 
 Do you know [Discord](https://discord.com/)? [Join the Discord server of Physichemically with Rodri](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
 
-Also, in the **lower left corner** you can see this **icon** {{< icon name="comments" pack="fas" >}}. By clicking on it you can write directly to any channel on the server after logging in.
+Also, in the **lower left corner** you can see this **icon** {{< icon name="comments" pack="fas" >}}. By clicking on it you can write directly in any channel on the server after logging in.
 
 ### Kudos
 
