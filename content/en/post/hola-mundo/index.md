@@ -38,8 +38,11 @@ In this blog you will find **opinion** articles, **curiosities** about **science
 The posts in this blog are aimed at my students and anyone else who is curious about science and/or shares any of my interests.
 
 ## How can you get involved?
-### Group Chat
-In the **lower left corner** you can see this **icon** <img draggable="false" class="icon" alt="now4real" src="/icon/now4real.svg">. The number indicates how many people are browsing the web at the moment and by clicking on it you can start writing in a **group chat** after logging in (Google, Facebook, Twitter or LinkedIn).
+### Discord {{< icon name="discord" pack="fab" >}}
+
+Do you know [Discord](https://discord.com/)? [Join the Discord server of Physichemically with Rodri](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
+
+Also, in the **lower left corner** you can see this **icon** {{< icon name="comments" pack="fas" >}}. By clicking on it you can write directly to any channel on the server after logging in.
 
 ### Kudos
 

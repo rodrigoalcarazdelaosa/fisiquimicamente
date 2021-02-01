@@ -76,6 +76,13 @@ social:
   display:
     header: true
     footer: true
+- icon: discord
+  icon_pack: fab
+  link: https://discord.gg/kJqPqTJ
+  label: Join the Discord server
+  display:
+    header: true
+    footer: true    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
