@@ -75,6 +75,12 @@ background-color: #2a54a9; }
     text-align: center;
 }
 
+.reveal mark {
+  padding: 0.2em;
+  background-color: #ffcccc;
+  color: #000000;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
