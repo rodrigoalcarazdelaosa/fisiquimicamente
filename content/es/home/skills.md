@@ -39,10 +39,10 @@ subtitle = ""
   description = "[Twitter](#novedades) · [✍🏼 Blog](post/)"
   
 [[feature]]
-  icon = "[👨‍🔬](sobre-mi/)‍"
+  icon = "[👥](equipo/)‍"
   icon_pack = "emoji"
-  name = "[Sobre mí](sobre-mi/)"
-  description = "[👨‍🎓 Intereses y formación](sobre-mi/intereses-formacion) · [👣 Trayectoria profesional](sobre-mi/trayectoria-profesional) <br> [✈️ Estancias de investigación](sobre-mi/estancias-investigacion)"
+  name = "[Conoce al equipo](equipo/)"
+  description = ""
   
 [[feature]]
   icon = "[📬](#contacto)"

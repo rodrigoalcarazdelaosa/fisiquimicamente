@@ -11,9 +11,9 @@
 	  {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
 	  {{- if .RelPermalink -}}
 		  {{- if eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/" -}}
-	        <a href="/sobre-mi/">{{.LinkTitle}}</a>
+	        <a href="/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
 		  {{- else if eq .RelPermalink "/en/author/rodrigo-alcaraz-de-la-osa/" -}}
-	        <a href="/en/about-me/">{{.LinkTitle}}</a>
+	        <a href="/en/team/physichemically/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
 		  {{- else -}}		  
 	        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
 		  {{- end -}}		

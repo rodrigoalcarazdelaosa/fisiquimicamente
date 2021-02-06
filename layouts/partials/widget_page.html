@@ -308,18 +308,34 @@
 	        <li class="breadcrumb-item active" aria-current="page">🔗 Online Resources</li>
 	    </ol>
 	    </nav>		
-    {{ else if and (eq $widget "featurette") (eq $st.Title "👨‍🔬 Sobre mí") }}
+	{{ else if and (eq $widget "people") (eq $st.Title "👥 Conoce al equipo") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>			
-	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 Sobre mí</li>
+	        <li class="breadcrumb-item active" aria-current="page">👥 Equipo</li>
 	    </ol>
-		</nav>	
+	    </nav>	
+	{{ else if and (eq $widget "people") (eq $st.Title "👥 Meet the Team") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">👥 Team</li>
+	    </ol>
+	    </nav>				
+	{{ else if eq $.RelPermalink "/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa/" }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
+			<li class="breadcrumb-item"><a href="/equipo">👥 Equipo</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 Rodrigo Alcaraz de la Osa</li>			
+	    </ol>
+		</nav>				
 	{{ else if and (eq $widget "about") (eq $st.Title "👨‍🎓 Intereses y formación") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
-			<li class="breadcrumb-item"><a href="/sobre-mi">👨‍🔬 Sobre mí</a></li>			
+			<li class="breadcrumb-item"><a href="/equipo">👥 Equipo</a></li>
+			<li class="breadcrumb-item"><a href="/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Intereses y formación</li>
 	    </ol>
 		</nav>		
@@ -327,7 +343,8 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
-			<li class="breadcrumb-item"><a href="/sobre-mi">👨‍🔬 Sobre mí</a></li>			
+			<li class="breadcrumb-item"><a href="/equipo">👥 Equipo</a></li>
+			<li class="breadcrumb-item"><a href="/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👣 Trayectoria profesional</li>
 	    </ol>
 		</nav>
@@ -335,22 +352,25 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
-			<li class="breadcrumb-item"><a href="/sobre-mi">👨‍🔬 Sobre mí</a></li>			
+			<li class="breadcrumb-item"><a href="/equipo">👥 Equipo</a></li>
+			<li class="breadcrumb-item"><a href="/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">✈️ Estancias de investigación</li>
 	    </ol>
 	    </nav>							
-    {{ else if and (eq $widget "featurette") (eq $st.Title "👨‍🔬 About me") }}
+		{{ else if eq $.RelPermalink "/en/team/physichemically/rodrigo-alcaraz-de-la-osa/" }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
-	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 About me</li>
+	        <li class="breadcrumb-item"><a href="/en/team">👥 Team</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 Rodrigo Alcaraz de la Osa</li>
 	    </ol>
 		</nav>
 	{{ else if and (eq $widget "about") (eq $st.Title "👨‍🎓 Interests and Education") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
-			<li class="breadcrumb-item"><a href="/en/about-me">👨‍🔬 About me</a></li>			
+			<li class="breadcrumb-item"><a href="/en/team">👥 Team</a></li>
+			<li class="breadcrumb-item"><a href="/en/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Interests and Education</li>
 	    </ol>
 		</nav>
@@ -358,7 +378,8 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
-			<li class="breadcrumb-item"><a href="/en/about-me">👨‍🔬 About me</a></li>			
+			<li class="breadcrumb-item"><a href="/en/team">👥 Team</a></li>
+			<li class="breadcrumb-item"><a href="/en/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">👣 Career Path</li>
 	    </ol>
 		</nav>
@@ -366,7 +387,8 @@
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>			
-			<li class="breadcrumb-item"><a href="/en/about-me">👨‍🔬 About me</a></li>			
+			<li class="breadcrumb-item"><a href="/en/team">👥 Team</a></li>
+			<li class="breadcrumb-item"><a href="/en/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">✈️ Research Stays</li>
 	    </ol>
 		</nav>													

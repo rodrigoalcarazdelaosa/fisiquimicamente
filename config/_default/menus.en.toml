@@ -88,28 +88,10 @@
   weight = 2    
 
 [[main]]
-  name = "👨‍🔬 About me"
-  url = "about-me/"
-  identifier = "sobre-mi"
+  name = "👥 Team"
+  url = "team/"
+  identifier = "team"
   weight = 6
-  
-[[main]]
-  name = "👨‍🎓 Interests and Education"
-  url = "about-me/interests-education"
-  parent = "sobre-mi"
-  weight = 1
-
-[[main]]
-  name = "👣 Career Path"
-  url = "about-me/career-path"
-  parent = "sobre-mi"
-  weight = 2  
-  
-[[main]]
-  name = "✈️ Research Stays"
-  url = "about-me/research-stays"
-  parent = "sobre-mi"
-  weight = 3
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

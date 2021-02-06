@@ -1,6 +1,7 @@
 ---
 # Display name
 title: "Jésica Sánchez Mazón"
+url: "/en/team/physichemically/jesica-sanchez-mazon"
 
 # Username (this should match the folder name)
 authors:
@@ -69,6 +70,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- PhysiChemically
 ---
 
 I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I also **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/).
