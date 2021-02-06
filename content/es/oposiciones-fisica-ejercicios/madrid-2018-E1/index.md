@@ -16,5 +16,5 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://rodrigoalcarazdelaosa.me/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e1/madrid-2018-e1.pdf"
+external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e1/madrid-2018-e1.pdf"
 ---

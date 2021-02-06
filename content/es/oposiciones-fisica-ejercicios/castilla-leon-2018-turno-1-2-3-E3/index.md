@@ -16,5 +16,5 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://rodrigoalcarazdelaosa.me/recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-e3/castilla-leon-2018-turno-1-2-3-e3.pdf"
+external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-e3/castilla-leon-2018-turno-1-2-3-e3.pdf"
 ---

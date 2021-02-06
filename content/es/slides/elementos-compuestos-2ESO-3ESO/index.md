@@ -34,7 +34,7 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 ---
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tabla-periodica-elementos.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://rodrigoalcarazdelaosa.me/blog/2020/08/23/tabla-periodica-de-los-elementos/)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tabla-periodica-elementos.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/)." lightbox="false" width="100%" >}}
 
 ---
 

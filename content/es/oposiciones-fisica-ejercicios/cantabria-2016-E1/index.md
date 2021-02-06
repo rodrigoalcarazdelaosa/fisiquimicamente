@@ -16,5 +16,5 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://rodrigoalcarazdelaosa.me/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e1/cantabria-2016-E1.pdf"
+external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e1/cantabria-2016-E1.pdf"
 ---
