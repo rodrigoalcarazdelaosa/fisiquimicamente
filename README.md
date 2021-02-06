@@ -1,8 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status)](https://app.netlify.com/sites/fisiquimicamente/deploys)
 
-<p align="center"><a href="https://fisiquimicamente.com/" target="_blank" rel="noopener"><img src="https://fisiquimicamente.com/media/logo.png" alt="Fisiquímicamente con Rodri"></a></p>
+<p align="center"><a href="https://fisiquimicamente.com/" target="_blank" rel="noopener"><img src="https://fisiquimicamente.com/media/logo.png" alt="FisiQuímicamente con Rodri"></a></p>
 
-# [Fisiquímicamente con Rodri](https://fisiquimicamente.com/)
+# [FisiQuímicamente con Rodri](https://fisiquimicamente.com/)
 
 Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
@@ -16,7 +16,7 @@ Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowc
 
 Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente-con-rodri" target="_blank" rel="noopener">GitHub</a> · Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
-# [Physichemically with Rodri](https://fisiquimicamente.com/en/)
+# [PhysiChemically with Rodri](https://fisiquimicamente.com/en/)
 
 Physics and Chemistry Resources, Tutorials and Current Science.
 

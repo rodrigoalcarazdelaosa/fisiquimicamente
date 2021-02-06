@@ -40,7 +40,7 @@ The posts in this blog are aimed at my students and anyone else who is curious a
 ## How can you get involved?
 ### Discord {{< icon name="discord" pack="fab" >}}
 
-Do you know [Discord](https://discord.com/)? [Join the Discord server of Physichemically with Rodri](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
+Do you know [Discord](https://discord.com/)? [Join the Discord server of PhysiChemically with Rodri](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
 
 Also, in the **lower left corner** you can see this **icon** {{< icon name="comments" pack="fas" >}}. By clicking on it you can write directly in any channel on the server after logging in (scroll down to the 🇬🇧 *ENGLISH* section).
 
