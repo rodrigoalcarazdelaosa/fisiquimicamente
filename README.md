@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status)](https://app.netlify.com/sites/rodrigoalcarazdelaosa/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status)](https://app.netlify.com/sites/fisiquimicamente/deploys)
 
 <p align="center"><a href="https://rodrigoalcarazdelaosa.me/" target="_blank" rel="noopener"><img src="https://rodrigoalcarazdelaosa.me/media/logo.png" alt="Fisiquímicamente con Rodri"></a></p>
 
