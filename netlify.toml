@@ -24,3 +24,15 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "https://rodrigoalcarazdelaosa.me"
+  to = "https://fisiquimicamente.com"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.rodrigoalcarazdelaosa.me"
+  to = "https://www.fisiquimicamente.com"
+  status = 301
+  force = true  
