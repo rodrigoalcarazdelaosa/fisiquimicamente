@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "FisiQuímicamente con Rodri"
+title = "FisiQuímicamente"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -73,4 +73,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true    
 
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++

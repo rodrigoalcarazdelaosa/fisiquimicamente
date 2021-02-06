@@ -10,7 +10,7 @@
 [en]
   languageCode = "en"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  title = "PhysiChemically with Rodri"
+  title = "PhysiChemically"
   [en.params]
   	description = "Physics and Chemistry Resources, Tutorials and Current Science"
 	  address = {region = "Cantabria", country = "Spain", country_code = "ES"}

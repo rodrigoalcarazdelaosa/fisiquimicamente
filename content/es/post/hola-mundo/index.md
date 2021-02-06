@@ -43,7 +43,7 @@ Las entradas de este blog van dirigidas a mis alumnos/as y a todo aquel que teng
 
 ### Discord {{< icon name="discord" pack="fab" >}}
 
-¿Conoces [Discord](https://discord.com/)? [Únete al servidor de Discord de FisiQuímicamente con Rodri](https://discord.gg/kJqPqTJ) y comienza a **participar** en la web comentando, dando tu opinión, realizando peticiones, sugerencias, etc.
+¿Conoces [Discord](https://discord.com/)? [Únete al servidor de Discord de FisiQuímicamente](https://discord.gg/kJqPqTJ) y comienza a **participar** en la web comentando, dando tu opinión, realizando peticiones, sugerencias, etc.
 
 Además, en la **esquina inferior izquierda** puedes ver este **icono** {{< icon name="comments" pack="fas" >}}. Pinchando sobre él puedes escribir directamente en cualquier canal del servidor tras iniciar sesión.
 

@@ -36,7 +36,7 @@ In this video of almost 5 hours of duration, published by SpaceX, you can know m
 If you wish to read more about this historic mission you can do so at [NASA's official website](https://www.nasa.gov/press-release/nasa-astronauts-launch-from-america-in-historic-test-flight-of-spacex-crew-dragon).
 
 ## Kinematic Study of the Falcon 9 🚀
-The post could have ended with the previous paragraph, but then you wouldn't know if you were in [Hello!](https://www.hellomagazine.com/) magazine or in [PhysiChemically with Rodri's blog]({{< ref "/post/" >}}) 😏.
+The post could have ended with the previous paragraph, but then you wouldn't know if you were in [Hello!](https://www.hellomagazine.com/) magazine or in [PhysiChemically's blog]({{< ref "/post/" >}}) 😏.
 
 If you look at the video of the launch, in the lower left corner you can see the module of the **velocity** (speed from here on), in km/h, and the **altitude**, in km, of the rocket in real time as it ascends to approximately 200$\thinspace$km. What did I think when I saw that data? Well, write the values down[^3], represent them and make a small **empirical study** about the **cinematics** of the **Falcon 9**.
 
