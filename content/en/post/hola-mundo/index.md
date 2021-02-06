@@ -55,7 +55,7 @@ You can also <strong>share</strong> all the <strong>blog posts</strong> and 📚
 If you don't want to miss any **updates** you can **subscribe** to the [**RSS** feed {{< icon name="rss" pack="fas" >}}](/en/index.xml).
 
 ### Contacting me
-Also, you can write me either using the [**contact form**]({{< ref "/#contact" >}}), or by writing me directly an [**email**](mailto:rodri.alcaraz@gmail.com) or from [**Twitter** {{< icon name="twitter" pack="fab" >}}](https://twitter.com/alcarazr). You can also follow me on [**Instagram** {{< icon name="instagram" pack="fab" >}}](https://www.instagram.com/fisiquimicamente/) or [**Pinterest** {{< icon name="pinterest" pack="fab" >}}](https://www.pinterest.es/fisiquimicamente/).
+Also, you can write me either using the [**contact form**]({{< ref "/#contact" >}}), or by writing me directly an [**email**](mailto:fisiquimicamente@gmail.com) or from [**Twitter** {{< icon name="twitter" pack="fab" >}}](https://twitter.com/alcarazr). You can also follow me on [**Instagram** {{< icon name="instagram" pack="fab" >}}](https://www.instagram.com/fisiquimicamente/) or [**Pinterest** {{< icon name="pinterest" pack="fab" >}}](https://www.pinterest.es/fisiquimicamente/).
 
 #### Live Chat
 In the **lower right corner** you can see this **icon** <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">. By clicking on it you can start a **live chat** with me after entering your name (the email is optional, only if you want me to be able to contact you in case we don't coincide in the chat).
