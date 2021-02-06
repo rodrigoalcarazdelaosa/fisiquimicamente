@@ -14,7 +14,7 @@ Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowc
     el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     de código abierto</a> que da poder a los creadores.
 
-Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente-con-rodri" target="_blank" rel="noopener">GitHub</a> · Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
+Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
 # [PhysiChemically](https://fisiquimicamente.com/en/)
 
@@ -28,4 +28,4 @@ Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wow
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder that empowers creators.
 
-Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente-con-rodri" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
+Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
