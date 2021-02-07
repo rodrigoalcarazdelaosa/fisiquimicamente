@@ -70,7 +70,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicamente
+- ☢️ ⚗️ FisiQuímicamente
 ---
 
 Soy **Radiofísica Hospitalaria** en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España) y además imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/).
