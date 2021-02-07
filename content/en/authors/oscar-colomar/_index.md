@@ -25,6 +25,8 @@ interests:
 - 🎸 Music
 - ✈️ Traveling
 - 🏃 Sports
+- Star Wars 
+- 🦸 Superheroes
 
 education:
   courses:
