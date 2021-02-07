@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Physics and Chemistry Teacher
+role: Spanish ↔️ English
 
 # Organizations/Affiliations
 organizations:
@@ -46,3 +46,5 @@ email:
 user_groups:
 - Translators
 ---
+
+I am a Physics and Chemistry Teacher.
