@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Profesora de Física y Química
+role: Español ↔️ Inglés
 
 # Organizations/Affiliations
 organizations:
@@ -46,3 +46,5 @@ email:
 user_groups:
 - Traductores
 ---
+
+Soy Profesora de Física y Química.

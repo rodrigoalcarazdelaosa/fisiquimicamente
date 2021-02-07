@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Licenciado en Química y Profesor de Secundaria
+role: Español ↔️ Català
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,18 @@ organizations:
 bio:
 
 interests:
+- 🎸 Música
+- ✈️ Viajar
+- 🏃 Deporte
 
 education:
+  courses:
+  - course: Experto Universitario en Atención a la Diversidad
+    institution: Universitat de les Illes Balears
+    year: 2005
+  - course: Licenciado en Química
+    institution: Universitat de Barcelona
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,3 +58,5 @@ email:
 user_groups:
 - Traductores
 ---
+
+Soy Licenciado en Química y Profesor de Secundaria.

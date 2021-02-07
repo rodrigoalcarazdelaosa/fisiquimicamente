@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Chemistry Graduate and High School Teacher
+role: Spanish ↔️ Català
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,18 @@ organizations:
 bio:
 
 interests:
+- 🎸 Music
+- ✈️ Traveling
+- 🏃 Sports
 
 education:
+  courses:
+  - course: University Expert in Attention to Diversity
+    institution: Universitat de les Illes Balears
+    year: 2005
+  - course: Degree in Chemistry
+    institution: Universitat de Barcelona
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,7 +43,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ocolomar
-  label: Follow me on Twitter
+  label: Sígueme en Twitter
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,3 +58,5 @@ email:
 user_groups:
 - Translators
 ---
+
+I have a Degree in Chemistry and I am High School Teacher.
