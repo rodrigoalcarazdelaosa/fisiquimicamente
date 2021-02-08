@@ -15,8 +15,6 @@ role: Spanish ↔️ Català
 
 # Organizations/Affiliations
 organizations:
-- name: IES Isidor Macabich
-  url: "http://iesisidormacabich.es/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -45,7 +43,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ocolomar
-  label: Sígueme en Twitter
+  label: Follow me on Twitter
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +59,4 @@ user_groups:
 - 🌐 Translators
 ---
 
-I have a Degree in Chemistry and I am High School Teacher.
+I have a Degree in Chemistry and I am High School Teacher at [IES Isidor Macabich](http://iesisidormacabich.es/).

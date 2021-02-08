@@ -15,13 +15,30 @@ role: Spanish ↔️ English
 
 # Organizations/Affiliations
 organizations:
+- name: "🇬🇧 English: C1"
+  url: ""
+- name: "🇮🇹 Italian: B2"
+  url: ""  
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
+- ✈️ Traveling
+- 🏋️‍♀️ CrossFit
+- 🎵 Music
 
 education:
+  courses:
+  - course: Higher Technician in Web Applications Development
+    institution: CIFP of Ponferrada
+    year: 2017
+  - course: Degree in Physics
+    institution: University of Salamanca
+    year: 2006
+  - course: Technical Engineer in Computer Systems
+    institution: University of Salamanca
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,4 +64,4 @@ user_groups:
 - 🌐 Translators
 ---
 
-I am a Physics and Chemistry Teacher.
+I am a bilingual Physics and Chemistry Teacher at [IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) in Tavera but I am also passionate about the use of ICT and robotics in the classroom.
