@@ -103,7 +103,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ☢️ ⚗️ FisiQuímicamente
+- FisiQuímicamente
 ---
 
 👋🏼 ¡Bienvenido/a a [FisiQuímicamente]({{< ref "/" >}})! Aquí puedes encontrar [⚛️ <span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), así como diversos [👐🏼 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) y entradas en mi [✍🏼 <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).

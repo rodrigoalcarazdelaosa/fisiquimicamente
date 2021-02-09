@@ -27,7 +27,15 @@
 
   {{if $query}}
   <div class="col-md-12">
-    <h2 class="mb-4">{{ . | markdownify }}</h2>
+    {{ if eq . "FisiQuímicamente" }}
+      {{- $logo := resources.Get ("images/logo-fisiquimicamente.svg") -}}
+      <h2 class="mb-4"><img draggable="false" class="icon" alt="fisiquimicamente" src="{{ $logo.RelPermalink }}"></h2>
+    {{ else if eq . "PhysiChemically" }}
+      {{- $logo := resources.Get ("images/logo-physichemically.svg") -}}
+      <h2 class="mb-4"><img draggable="false" class="icon" alt="physichemically" src="{{ $logo.RelPermalink }}"></h2>
+    {{ else }}
+      <h2 class="mb-4">{{ . | markdownify }}</h2>
+    {{ end }}
   </div>
   {{end}}
 

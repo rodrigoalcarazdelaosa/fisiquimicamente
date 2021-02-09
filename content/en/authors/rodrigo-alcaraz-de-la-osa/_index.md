@@ -95,7 +95,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- ☢️ ⚗️ PhysiChemically
+- PhysiChemically
 ---
 
 👋🏼 Welcome to [PhysiChemically]({{< ref "/" >}})! Here you can find [📚 <span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) as well as various [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}) and [✍🏼 <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) posts.
