@@ -221,7 +221,11 @@
     {{ else if .Params.header.image }}
       {{ $og_image = printf "%s/%s" $media_dir .Params.header.image | absURL }}
     {{ else if site.Params.sharing_image }}
-      {{ $og_image = printf "%s/%s" $media_dir site.Params.sharing_image | absURL }}
+      {{ if eq .Site.Language.Lang "es" }}
+        {{ $og_image = printf "%s/%s" $media_dir site.Params.sharing_image | absURL }}
+      {{ else if eq .Site.Language.Lang "en" }}
+        {{ $og_image = printf "%s/%s" $media_dir site.Params.sharing_image_en | absURL }}
+      {{ end }}
     {{ else if $has_logo }}
       {{ $og_image = (partial "functions/get_logo" (dict "constraint" "fit" "size" 300)).Permalink }}
       {{ $twitter_card = "summary" }}
