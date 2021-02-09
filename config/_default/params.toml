@@ -214,12 +214,7 @@ plugins_js  = ["applause-button","footnotes"]
 ############################
 ## Comments
 ############################
-[comments]
-  # Comment provider:
-  #   0: Disabled
-  #   1: Disqus (https://disqus.com)
-  #   2: Commento (https://commento.io)
-  engine = 0
+[comments]  
 
   # Which page types are commentable?
   commentable = {page = true, post = true, apuntes-segundo-tercero-eso = true, apuntes-cuarto-eso = true, apuntes-primero-bach = true, apuntes-segundo-bach-fisica = true, apuntes-segundo-bach-quimica = true, apuntes-formulacion = true}
@@ -242,7 +237,7 @@ plugins_js  = ["applause-button","footnotes"]
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -270,7 +265,7 @@ plugins_js  = ["applause-button","footnotes"]
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
+  provider = "google"
   api_key = ""
   zoom = 15
 
