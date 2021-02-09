@@ -217,17 +217,7 @@ plugins_js  = ["applause-button","footnotes"]
 [comments]  
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, apuntes-segundo-tercero-eso = true, apuntes-cuarto-eso = true, apuntes-primero-bach = true, apuntes-segundo-bach-fisica = true, apuntes-segundo-bach-quimica = true, apuntes-formulacion = true}
-
-  # Configuration of Disqus.
-  [comments.disqus]
-    shortname = ""  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
-
-  # Configuration of Commento.
-  [comments.commento]
-    # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
-    url = ""
+  commentable = {page = true, post = true, apuntes-segundo-tercero-eso = true, apuntes-cuarto-eso = true, apuntes-primero-bach = true, apuntes-segundo-bach-fisica = true, apuntes-segundo-bach-quimica = true, apuntes-formulacion = true}  
 
 ############################
 ## Search
