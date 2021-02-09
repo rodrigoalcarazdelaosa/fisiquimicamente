@@ -59,9 +59,9 @@
   <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     {{ if eq site.Language.Lang "es" }}
-  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-breadcrumbs.svg"></a></li>
 	{{ else if eq site.Language.Lang "en" }}
-  	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>
+  	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-breadcrumbs-en.svg"></a></li>
     {{ end }}		
     {{ range $page.Params.breadcrumbs }}
     {{ if eq . "recursos-fisica-quimica"}}
@@ -160,9 +160,9 @@
   <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     {{ if eq site.Language.Lang "es" }}
-  	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Inicio</a></li>
+  	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-breadcrumbs.svg"></a></li>
 	  {{ else if eq site.Language.Lang "en" }}
-  	  <li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> Home</a></li>
+  	  <li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-breadcrumbs-en.svg"></a></li>
     {{ end }}		    	
       <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>
   </ol>

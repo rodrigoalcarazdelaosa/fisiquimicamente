@@ -1,5 +1,9 @@
 <section class="home-section wg-blank" style="padding: 40px 0px 40px 0px; margin-top: 2rem">
+  {{ if eq .Site.Language.Lang "es" }}
    <div class="home-section-bg  bg-image" style="background-color: #FFFFF8; background-image: url('{{ "media/divider.svg" | absURL }}');background-size: contain;background-position: center;"></div>
+   {{ else if eq .Site.Language.Lang "en" }}
+   <div class="home-section-bg  bg-image" style="background-color: #FFFFF8; background-image: url('{{ "media/divider-en.svg" | absURL }}');background-size: contain;background-position: center;"></div>
+   {{ end }}
 </section>
 
 <footer class="site-footer">

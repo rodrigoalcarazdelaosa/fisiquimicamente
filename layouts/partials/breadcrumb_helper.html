@@ -3,7 +3,11 @@
   <li class="breadcrumb-item">
     <a href="{{ .RelPermalink }}">
       {{ if .IsHome }}
-      <img draggable="false" class="icon" alt="logo" src="/icon/logo_breadcrumbs.svg"> {{ (i18n "home" | default "Home") | emojify }}
+      {{ if eq .Site.Language.Lang "es" }}
+        <img draggable="false" class="icon" alt="logo" src="/icon/logo-breadcrumbs.svg">
+      {{ else if eq .Site.Language.Lang "en" }}
+        <img draggable="false" class="icon" alt="logo" src="/icon/logo-breadcrumbs-en.svg">
+      {{ end }}  
       {{ else }}
         {{ .LinkTitle | emojify }}
       {{ end }}
