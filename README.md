@@ -2,8 +2,6 @@
 
 <p align="center"><a href="https://fisiquimicamente.com/" target="_blank" rel="noopener"><img src="https://fisiquimicamente.com/media/logo.png" alt="FisiQuímicamente"></a></p>
 
-# [FisiQuímicamente](https://fisiquimicamente.com/)
-
 Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
 &copy; 2020 Rodrigo Alcaraz de la Osa
@@ -16,7 +14,7 @@ Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowc
 
 Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
-# [PhysiChemically](https://fisiquimicamente.com/en/)
+<p align="center"><a href="https://fisiquimicamente.com/en/" target="_blank" rel="noopener"><img src="https://fisiquimicamente.com/media/logo-en.png" alt="PhysiChemically"></a></p>
 
 Physics and Chemistry Resources, Tutorials and Current Science.
 
