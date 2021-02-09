@@ -15,7 +15,7 @@ role: Español ↔️ Català
 
 # Organizations/Affiliations
 organizations:
-- name: "Català: C1"
+- name: "Català: C"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
