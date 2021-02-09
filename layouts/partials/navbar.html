@@ -10,7 +10,11 @@
 {{ $has_logo := fileExists "assets/images/logo.png" | or (fileExists "assets/images/logo.svg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
-  {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
+  {{ if eq .Site.Language.Lang "es" }}
+    {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
+  {{ else if eq .Site.Language.Lang "en" }}
+    {{ $logo = resources.Get "images/logo-en.svg" }}    
+  {{ end }}
 {{ end }}
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
