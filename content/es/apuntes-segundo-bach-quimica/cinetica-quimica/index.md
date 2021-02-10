@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: cinetica-quimica-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: cinetica-quimica-poster-cat.pdf    
 
 slides: cinetica-quimica-2Bach-quimica
 ---
