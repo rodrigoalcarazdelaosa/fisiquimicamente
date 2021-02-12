@@ -20,6 +20,9 @@
     {{end}}
 
     {{ $query := where .Pages ".IsNode" false }}
+    {{ range .Translations }}
+    {{ $query = $query | lang.Merge .Pages }}
+    {{ end }}
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
