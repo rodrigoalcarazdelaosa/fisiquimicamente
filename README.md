@@ -4,7 +4,7 @@
 
 Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
-&copy; 2020 Rodrigo Alcaraz de la Osa
+&copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
 
 Con emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, gracias a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; y recursos gráficos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
 
@@ -18,7 +18,7 @@ Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" t
 
 Physics and Chemistry Resources, Tutorials and Current Science.
 
-&copy; 2020 Rodrigo Alcaraz de la Osa
+&copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
 
 With emojis from <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, thanks to <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; and graphical resources designed by <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
 
