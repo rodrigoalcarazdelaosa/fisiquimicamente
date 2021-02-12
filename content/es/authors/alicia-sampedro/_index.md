@@ -21,7 +21,7 @@ organizations:
   url: ""  
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: "Soy Profesora de Física y Química bilingüe en el [IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) de Tavera pero también soy una apasionada del uso de las TIC y la robótica en el aula."
 
 interests:
 - ✈️ Viajar

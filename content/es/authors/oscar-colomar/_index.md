@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: "Soy Licenciado en Química y Profesor de Secundaria en el [IES Isidor Macabich](http://iesisidormacabich.es/) de Ibiza."
 
 interests:
 - 🎸 Música
@@ -61,4 +61,4 @@ user_groups:
 - 🌐 Traductores
 ---
 
-Soy Licenciado en Química y Profesor de Secundaria en el [IES Isidor Macabich](http://iesisidormacabich.es/).
+Soy Licenciado en Química y Profesor de Secundaria en el [IES Isidor Macabich](http://iesisidormacabich.es/) de Ibiza.

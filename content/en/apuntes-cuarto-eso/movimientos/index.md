@@ -4,6 +4,9 @@ url: "/en/physics-chemistry-notes/15-16-year-olds/motion"
 subtitle: Linear and Circular Motion
 summary: "`🔜 COMING SOON` <br> Linear and Circular Motion."
 breadcrumbs: ["notes","15-16-year-olds"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alicia-sampedro
 tags:
 - 15-16-year-olds
 - motion

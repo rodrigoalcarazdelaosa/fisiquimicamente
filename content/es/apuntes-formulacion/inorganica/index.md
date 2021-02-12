@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/inorgani
 subtitle: Recomendaciones de la IUPAC de 2005
 summary: "Recomendaciones de la IUPAC de 2005."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","formulacion-nomenclatura-quimica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - formulación
 - nomenclatura

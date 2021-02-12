@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: "I have a Degree in Chemistry and I am High School Teacher at [IES Isidor Macabich](http://iesisidormacabich.es/) in Ibiza."
 
 interests:
 - 🎸 Music
@@ -61,4 +61,4 @@ user_groups:
 - 🌐 Translators
 ---
 
-I have a Degree in Chemistry and I am High School Teacher at [IES Isidor Macabich](http://iesisidormacabich.es/).
+I have a Degree in Chemistry and I am High School Teacher at [IES Isidor Macabich](http://iesisidormacabich.es/) in Ibiza.

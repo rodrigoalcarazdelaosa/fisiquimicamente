@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/2bach/quimica/cinetica-quimica"
 subtitle: Velocidad y mecanismos de reacción
 summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Velocidad de reacción. Ecuaciones cinéticas. Orden de reacción. Mecanismos de reacción."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - 2º Bach
 - reacciones-químicas
