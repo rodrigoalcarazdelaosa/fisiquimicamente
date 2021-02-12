@@ -200,6 +200,14 @@ Además, **durante** un **cambio** de **estado** la **temperatura** permance **c
 
 Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan con la presión) son, al igual que la densidad, **propiedades características** de la materia.
 
+También puedes ver esta excelente **práctica virtual** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos enseñan cómo realizar una **gráfica** de **enfriamiento** del **naftaleno**:
+
+{{< youtube j1N81E1ys34 >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1Bycu4IzGGw0OgaXdV7oo5Cko5C4TWa4H/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
+
 ## Modelo cinético-molecular
 
 ### Postulados
