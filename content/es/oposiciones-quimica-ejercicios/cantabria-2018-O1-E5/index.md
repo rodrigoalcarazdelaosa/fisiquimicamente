@@ -2,7 +2,7 @@
 title: Cantabria 2018
 url: "/recursos-fisica-quimica/oposiciones/fisica/cantabria-2018-o1-e5"
 subtitle: Ejercicio 5 de la Opción 1
-summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Ejercicio 5 de la Opción 1."
+summary: "Ejercicio 5 de la Opción 1."
 authors:
 - rodrigo-alcaraz-de-la-osa
 - jesica-sanchez-mazon
