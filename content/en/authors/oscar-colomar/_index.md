@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Òscar Colomar"
-url: "/en/team/translators/oscar-colomar"
+url: "/en/team/collaborators/oscar-colomar"
 
 # Username (this should match the folder name)
 authors:
@@ -58,7 +58,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🌐 Translators
+- 🙌🏼 Collaborators
 ---
 
 I have a Degree in Chemistry and I am High School Teacher at [IES Isidor Macabich](http://iesisidormacabich.es/) in Ibiza.
