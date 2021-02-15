@@ -70,10 +70,11 @@
   weight = 4
 
 [[main]]
-  name = "Twitter"
+  name = " Twitter"
   url = "#novedades"
   parent = "novedades"
   weight = 1  
+  pre = "<i class='fab fa-twitter'></i>"  
   
 [[main]]
   name = "✍🏼 Blog"
