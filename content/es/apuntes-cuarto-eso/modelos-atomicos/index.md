@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: modelos-atomicos-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: models-atomics-poster.pdf  
 
 slides: modelos-atomicos-4ESO
 ---
