@@ -7,6 +7,18 @@
 </section>
 
 <footer class="site-footer">
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    {{ with site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+  </p>
+  {{ end }}
+
   {{/* Display any social links that the superuser chose to display in the footer. */}}
   {{ $display_icons := false }}
   {{ range where (where (where site.Pages "Section" "authors") ".Params.superuser" true) ".Params.social" "!=" nil }}
@@ -27,19 +39,7 @@
   {{ if $display_icons }}
       </ul>
     </div>
-  {{ end }}
-
-  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
-  <p class="powered-by">
-    {{ with site.GetPage "privacy.md" }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
-    {{ with site.GetPage "terms.md" }}
-      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
-  </p>
-  {{ end }}
+  {{ end }}  
 
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
@@ -47,9 +47,9 @@
   
   <p class="powered-by">
 	  {{ if eq .Site.Language.Lang "es" }}
-	  Con emojis de <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji">Twemoji</a>, gracias a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; y recursos gráficos diseñados por <a href="https://www.freepik.com" target="_blank" rel="noopener" title="Freepik">Freepik</a>
+	  Con emojis de <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji"><img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji</a>, gracias a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; y recursos gráficos diseñados por <a href="https://www.freepik.com" target="_blank" rel="noopener" title="Freepik"><img draggable="false" class="icon" alt="freepik" src="/icon/freepik.svg"> Freepik</a>
 	  {{ else if eq .Site.Language.Lang "en" }}
-	  With emojis from <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji">Twemoji</a>, thanks to <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; and graphical resources designed by <a href="https://www.freepik.com" target="_blank" rel="noopener" title="Freepik">Freepik</a>
+	  With emojis from <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji"><img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji</a>, thanks to <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; and graphical resources designed by <a href="https://www.freepik.com" target="_blank" rel="noopener" title="Freepik"><img draggable="false" class="icon" alt="freepik" src="/icon/freepik.svg"> Freepik</a>
 	  {{ end }}
   </p>
   
@@ -65,22 +65,22 @@
   <p class="powered-by">
 	  {{ if eq .Site.Language.Lang "es" }}
     Publicado con
-	<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> —
+	<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.png"> Wowchemy</a> —
 	    el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
-	    de código abierto</a> que da poder a los creadores.
+	    de <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg"> código abierto</a> para <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg"></a>
 {{ else if eq .Site.Language.Lang "en" }}
     Published with
-	<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
+	<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.png"> Wowchemy</a>  —
 	    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
-	    open source</a> website builder that empowers creators.
+        <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg"> open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg"></a>
 {{ end }}
   </p>
   
   <p class="powered-by">
     {{ if eq .Site.Language.Lang "es" }}
-    Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github-logo" src="/icon/github-logo.svg"><img draggable="false" class="icon" alt="github-octocat" src="/icon/github-octocat.jpg"></a><span class="middot-divider"></span>Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"></a>
+    Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.jpg"> Github</a><span class="middot-divider"></span>Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"> Netlify</a>
 {{ else if eq .Site.Language.Lang "en" }}
-    Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github-logo" src="/icon/github-logo.svg"><img draggable="false" class="icon" alt="github-octocat" src="/icon/github-octocat.jpg"></a><span class="middot-divider"></span>Served by <a href="https://www.netlify.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"></a>
+    Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.jpg"> Github</a><span class="middot-divider"></span>Served by <a href="https://www.netlify.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"> Netlify</a>
 {{ end }}
 
 </p>

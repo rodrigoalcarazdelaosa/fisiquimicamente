@@ -10,7 +10,7 @@ Con emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>,
 
 Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
     el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
-    de código abierto</a> que da poder a los creadores.
+    de código abierto</a> para <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
 Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
@@ -24,6 +24,6 @@ With emojis from <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</
 
 Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
-    open source</a> website builder that empowers creators.
+    open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
 Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
