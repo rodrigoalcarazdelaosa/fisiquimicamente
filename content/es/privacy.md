@@ -9,7 +9,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 breadcrumbs: [""]
 ---
 
-Este sitio web está publicado con [<img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.png"> Wowchemy](https://wowchemy.com/) para [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). Al ser una [página web estática](https://es.wikipedia.org/wiki/Página_web_estática), no recoge ni comparte con terceros ningún dato personal. Sin embargo, utiliza servicios externos para añadir diversas funcionalidades, las cuales se detallan en la siguiente lista[^1]:
+<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg"> está publicada con [<img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.png"> Wowchemy](https://wowchemy.com/) para [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). Al ser una [página web estática](https://es.wikipedia.org/wiki/Página_web_estática), no recoge ni comparte con terceros ningún dato personal. Sin embargo, utiliza servicios externos para añadir diversas funcionalidades, las cuales se detallan en la siguiente lista[^1]:
 
 [^1]: Se enlazan también sus respectivas políticas de privacidad.
 
