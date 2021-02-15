@@ -20,7 +20,7 @@ organizations:
   url: "http://portaleducativo.educantabria.es/web/iesriasanmartin"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I teach Physics and Chemistry at [IES Ría San Martín](http://portaleducativo.educantabria.es/web/iesriasanmartin) in Cantabria (Spain).
+bio: I have a PhD in Physics and I teach Physics and Chemistry at [IES Ría San Martín](http://portaleducativo.educantabria.es/web/iesriasanmartin) in Cantabria (Spain).
 
 interests:
 - ✈️ Traveling
