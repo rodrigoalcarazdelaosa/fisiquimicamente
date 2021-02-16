@@ -147,7 +147,7 @@ La **masa** de los **átomos** es **extremadamente pequeña** comparada con las 
 	
 De esta forma el isótopo $\ce{^{12}C}$ tiene una masa de $12\thinspace\mathrm u$.
 
-La masa atómica que encontramos en las tablas periódicas es la media **ponderada** de los isótopos naturales de cada elemento, teniendo en cuenta su **abundancia**.
+La masa atómica que encontramos en las tablas periódicas es la media **ponderada** de las masas de los isótopos naturales de cada elemento, teniendo en cuenta su **abundancia**.
 
 Para entender mejor los **conceptos** de **isótopo** y de **masa atómica** te invito a que eches un vistazo a esta excelente **simulación**:
 

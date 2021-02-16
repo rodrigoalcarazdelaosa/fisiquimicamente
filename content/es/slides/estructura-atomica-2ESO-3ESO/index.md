@@ -266,7 +266,7 @@ De esta forma el isótopo $^{12}\mathrm C$ tiene una masa de $12\thinspace\mathr
 
 ---
 
-La masa atómica que encontramos en las tablas periódicas es la media **ponderada** de los isótopos naturales de cada elemento, teniendo en cuenta su **abundancia**.
+La masa atómica que encontramos en las tablas periódicas es la media **ponderada** de las masas de los isótopos naturales de cada elemento, teniendo en cuenta su **abundancia**.
 
 ---
 
