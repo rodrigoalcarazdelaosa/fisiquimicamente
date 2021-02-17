@@ -2,7 +2,7 @@
 title: Asturias 2018
 url: "/recursos-fisica-quimica/oposiciones/fisica/asturias-2018-e4"
 subtitle: Ejercicio 4
-summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Ejercicio 4."
+summary: "Ejercicio 4."
 authors:
 - rodrigo-alcaraz-de-la-osa
 - jesica-sanchez-mazon
