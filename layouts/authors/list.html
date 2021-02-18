@@ -27,7 +27,7 @@
     {{ if $count }}
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
-      <ul>
+      
         {{ range $query }}
   	    {{ $link := .RelPermalink }}
   	    {{ $target := "" }}
@@ -35,11 +35,14 @@
   	      {{ $link = . }}
   	      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
   	    {{ end }}
-        <li>
-          <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a>
-        </li>
+        
+          <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a>          
+          <p class="search-hit-description">
+            {{ .Summary | plainify | emojify }}
+          </p>
+        
         {{ end }}
-      </ul>
+      
     </div>
     {{ end }}
   </div>
