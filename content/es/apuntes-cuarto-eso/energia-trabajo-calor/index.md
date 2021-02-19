@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/4eso/energia-trabajo-calor"
 subtitle: Energía y sus formas de intercambio (trabajo y calor)
 summary: "Energía y sus formas de intercambio (trabajo y calor)."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- eduard-cremades
 tags:
 - 4º ESO
 - energía
@@ -23,6 +26,10 @@ links:
   icon: file-download
   name: Póster
   url: energia-trabajo-calor-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: energia-treball-calor-poster.pdf  
   
 slides: energia-trabajo-calor-4ESO
 ---
