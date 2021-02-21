@@ -7,13 +7,13 @@
 
 {{/* Get site logo. */}}
 {{ $show_logo := site.Params.main_menu.show_logo | default true }}
-{{ $has_logo := fileExists "assets/images/logo.png" | or (fileExists "assets/images/logo.svg") }}
+{{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
   {{ if eq .Site.Language.Lang "es" }}
     {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
   {{ else if eq .Site.Language.Lang "en" }}
-    {{ $logo = resources.Get "images/logo-en.svg" }}    
+    {{ $logo = resources.Get "media/logo-en.svg" }}    
   {{ end }}
 {{ end }}
 

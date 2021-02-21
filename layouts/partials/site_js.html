@@ -6,6 +6,7 @@
   <script src="{{ printf "/js/vendor/%s" ($scr.Get "vendor_js_filename") | relURL }}"></script>
 {{ else }}
   {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.jQuery.url $js.jQuery.version) $js.jQuery.sri | safeHTML }}
+  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.instantpage.url $js.instantpage.version) $js.instantpage.sri | safeHTML }}
 
   {{ $require_isotope := site.Params.require_isotope | default true }}
   {{ if $require_isotope }}
@@ -13,8 +14,10 @@
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.isotope.url $js.isotope.version) $js.isotope.sri | safeHTML }}
   {{ end }}
 
-  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.fancybox.url $js.fancybox.version) $js.fancybox.sri | safeHTML }}
-  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.instantpage.url $js.instantpage.version) $js.instantpage.sri | safeHTML }}
+  {{/* Workaround `.HasShortcode "gallery"` detection issue on `home/` WidgetPage v1 */}}
+  {{ if .HasShortcode "gallery" | or (and .IsHome (site.Params.require_fancybox | default true)) }}
+    {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.fancybox.url $js.fancybox.version) $js.fancybox.sri | safeHTML }}
+  {{ end }}
 
   {{ if or .Params.diagram site.Params.diagram }}
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" title=\"mermaid\"></script>" (printf $js.mermaid.url $js.mermaid.version) $js.mermaid.sri | safeHTML }}
@@ -92,9 +95,16 @@
   {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.plotly.url $js.plotly.version) $js.plotly.sri | safeHTML }}
 {{ end }}
 
-{{ $js_bootstrap := resources.Get "js/_vendor/bootstrap.bundle.js" }}
+{{/* Disqus Comment Count JS. */}}
+  {{/* Note: count can appear both in listing previews and on the content page itself. */}}
+  {{ $comments_provider := trim (site.Params.comments.provider | lower) " " }}
+  {{ if eq $comments_provider "disqus" | and (site.Params.comments.disqus.show_count | default true) }}
+    <script id="dsq-count-scr" src="https://{{site.Params.comments.disqus.shortname}}.disqus.com/count.js" async></script>
+{{end}}
+
+{{ $js_bootstrap := resources.Get "js/_vendor/bootstrap.bundle.min.js" }}
 {{- if hugo.IsProduction -}}
-  {{ $js_bootstrap = $js_bootstrap | minify | fingerprint "md5" }}
+  {{ $js_bootstrap = $js_bootstrap | fingerprint "md5" }}{{/* Note: no `minify` as using pre-minified JS. */}}
 {{- end -}}
 <script src="{{ $js_bootstrap.RelPermalink }}"></script>
 
@@ -111,7 +121,7 @@
 
 {{ $js_license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
 {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
-{{ $js_license := $js_license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md */\n" }}
+{{ $js_license := $js_license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md */\n" }}
 {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
 {{ $js_params := dict "hugoEnvironment" hugo.Environment "codeHighlighting" ($scr.Get "highlight_enabled" | default false) "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) }}
 {{ $js_academic := resources.Get "js/wowchemy.js" | js.Build (dict "targetPath" (printf "%s/js/wow-core.js" .Lang ) "params" $js_params) }}

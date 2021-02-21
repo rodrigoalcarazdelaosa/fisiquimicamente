@@ -6,10 +6,10 @@
   {{ with $page.Title }}
   <div class="col-md-12 section-heading">
     {{ if eq $page.Title "FisiQuímicamente" }}
-        {{- $logo := resources.Get ("images/logo-fisiquimicamente.svg") -}}
+        {{- $logo := resources.Get ("media/logo-fisiquimicamente.svg") -}}
         <h1><img draggable="false" alt="fisiquimicamente" src="{{ $logo.RelPermalink }}" width="100%"></h1>
     {{ else if eq $page.Title "PhysiChemically" }}
-        {{- $logo := resources.Get ("images/logo-physichemically.svg") -}}
+        {{- $logo := resources.Get ("media/logo-physichemically.svg") -}}
         <h1><img draggable="false" alt="physichemically" src="{{ $logo.RelPermalink }}" width="100%"></h1>
     {{ end }}
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
@@ -34,7 +34,7 @@
       {{- if eq $pack "emoji" -}}
         <span>{{- . | markdownify | emojify -}}</span>
       {{- else if eq $pack "custom" -}}
-        {{- $svg_icon := resources.Get (printf "images/icon-pack/%s.svg" .) -}}
+        {{- $svg_icon := resources.Get (printf "media/icon-pack/%s.svg" .) -}}
         {{- if $svg_icon -}}<img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline">{{- end -}}
       {{- else -}}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
