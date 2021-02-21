@@ -166,7 +166,8 @@ $$
 ---
 
 Lo primero hacemos un dibujo representando la situación:
-{{< figure library="true" src="movimiento-parabolico-1Bach/tiro-parabolico-ejemplo.svg" lightbox="false" width="100%" >}}
+
+<img alt="" src="/media/movimiento-parabolico-1Bach/tiro-parabolico-ejemplo.svg" loading="lazy" width="100%">
 
 ---
 
