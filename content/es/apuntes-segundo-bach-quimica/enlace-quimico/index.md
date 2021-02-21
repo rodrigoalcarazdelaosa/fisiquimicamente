@@ -198,7 +198,7 @@ La **resonancia** es una forma de describir el enlace en ciertas moléculas medi
 
 ### Propiedades de las sustancias covalentes cristalinas
 
-Las **sustancias covalentes cristalinas** contienen un gran número de **átomos neutros** unidos entre sí mediante **enlaces covalentes**, formando **láminas bidimensionales**, como el grafito o el grafeno, o **estructuras tridimensionales**, como el diamante 💎 o el cuarzo.
+Las **sustancias covalentes cristalinas** contienen un gran número de **átomos neutros** unidos entre sí mediante **enlaces covalentes**, formando **láminas bidimensionales**, como el grafito o el grafeno, o **estructuras tridimensionales**, como el  💎 diamante o el cuarzo.
 
 {{< figure library="true" src="enlace-quimico-4ESO/grafito-grafeno.svg" title="Estructura cristalina del **grafito**, formado por capas de **grafeno** (átomos de **carbono**, C, unidos mediante **enlaces covalentes** en una red hexagonal).<br>Fuente: https://commons.wikimedia.org/wiki/File:Graphit_gitter.svg." lightbox="false" width="100%" >}}
 
