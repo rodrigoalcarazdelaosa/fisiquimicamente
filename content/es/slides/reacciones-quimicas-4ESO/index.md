@@ -15,7 +15,8 @@ slides:
 
 - [Ajuste de ecuaciones químicas](#/1)
 - [Cálculos masa-masa](#/2)
-- [Cálculos masa-volumen](#/3)
+- [Reactivos en disolución](#/3)
+- [Cálculos masa-volumen](#/4)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
@@ -154,6 +155,37 @@ Para relacionar los gramos de clorato de potasio con los gramos de oxígeno util
 $$
 86.8\thinspace\mathrm{g_{\mathrm{KClO_3}}}\cdot \frac{1\thinspace\mathrm{mol_{\mathrm{KClO_3}}}}{122.6\thinspace\mathrm{g_{\mathrm{KClO_3}}}}\cdot \frac{3\thinspace\mathrm{mol_{\mathrm{O_2}}}}{2\thinspace\mathrm{mol_{\mathrm{KClO_3}}}}\cdot \frac{32\thinspace\mathrm{g_{\mathrm{O_2}}}}{1\thinspace\mathrm{mol_{\mathrm{O_2}}}} = 34.0\thinspace\mathrm{g_\mathrm{O_2}}
 $$
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+## Reactivos en disolución
+Cuando los **reactivos** se encuentran en **disolución**, tenemos que relacionar el número de moles, $n$, con el volumen, $V$, a través de la concentración molar o **molaridad**:
+
+---
+
+$$
+c = \frac{n}{V}	\rightarrow n = cV\quad \text{($V$ en L)}
+$$
+
+---
+
+### Ejemplo
+
+<q>El ácido clorhídrico reacciona con el hidróxido de calcio para producir cloruro de calcio y agua. Calcula el volumen de ácido clorhídrico 0.25 M que se necesita para reaccionar con 50 mL de hidróxido de calcio 0.5 M.</q>
+$$
+2\thinspace \mathrm{HCl(ac)} + \mathrm{Ca(OH)_2(ac)} \longrightarrow \mathrm{CaCl_2(ac)} +  2\thinspace \mathrm{H_2O(l)}
+$$
+
+---
+
+\begin{align*}
+50\thinspace\mathrm{mL_{\mathrm{Ca(OH)2}}} & \cdot \frac{1\thinspace\mathrm{L_{\mathrm{Ca(OH)2}}}}{1000\thinspace\mathrm{mL_{\mathrm{Ca(OH)2}}}} \cdot \frac{0.5\thinspace\mathrm{mol_{\mathrm{Ca(OH)2}}}}{1\thinspace\mathrm{L_{\mathrm{Ca(OH)2}}}} \\\\
+& \cdot \frac{2\thinspace\mathrm{mol_{\mathrm{HCl}}}}{1\thinspace\mathrm{mol_{\mathrm{Ca(OH)2}}}}\cdot \frac{1\thinspace\mathrm{L_{\mathrm{HCl}}}}{0.25\thinspace\mathrm{mol_{\mathrm{HCl}}}} = 0.2\thinspace\mathrm{L_{\mathrm{HCl}}}
+\end{align*}
 
 {{% /section %}}
 

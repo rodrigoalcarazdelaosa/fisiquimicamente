@@ -160,7 +160,31 @@ Para relacionar los gramos de clorato de potasio con los gramos de oxígeno util
 $$
 86.8\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}\cdot \frac{1\thinspace\mathrm{\cancel{mol_{\ce{KClO3}}}}}{122.6\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}}\cdot \frac{3\thinspace\mathrm{\cancel{mol_{\ce{O2}}}}}{2\thinspace\mathrm{\cancel{mol_{\ce{KClO3}}}}}\cdot \frac{32\thinspace\mathrm{g_{\ce{O2}}}}{1\thinspace\mathrm{\cancel{mol_{\ce{O2}}}}} = 34.0\thinspace\mathrm{g_\ce{O2}}
 $$
-{{% /callout %}}	
+{{% /callout %}}
+
+## Reactivos en disolución
+Cuando los **reactivos** se encuentran en **disolución**, tenemos que relacionar el número de moles, $n$, con el volumen, $V$, a través de la concentración molar o **molaridad**:
+
+$$
+c = \frac{n}{V}	\rightarrow n = cV\quad \text{($V$ en L)}
+$$
+
+### Ejemplo
+{{% callout example %}}
+<br>
+
+> El ácido clorhídrico reacciona con el hidróxido de calcio para producir cloruro de calcio y agua. Calcula el volumen de ácido clorhídrico 0.25 M que se necesita para reaccionar con 50 mL de hidróxido de calcio 0.5 M.
+$$
+\ce{2HCl(ac) + Ca(OH)2(ac) -> CaCl2(ac) +  2H2O(l)}
+$$
+
+---
+
+\begin{align*}
+50\thinspace\mathrm{\cancel{mL_{\ce{Ca(OH)2}}}} & \cdot \frac{1\thinspace\mathrm{\cancel{L_{\ce{Ca(OH)2}}}}}{1000\thinspace\mathrm{\cancel{mL_{\ce{Ca(OH)2}}}}} \cdot \frac{0.5\thinspace\mathrm{\cancel{mol_{\ce{Ca(OH)2}}}}}{1\thinspace\mathrm{\cancel{L_{\ce{Ca(OH)2}}}}} \\\\
+& \cdot \frac{2\thinspace\mathrm{\cancel{mol_{\ce{HCl}}}}}{1\thinspace\mathrm{\cancel{mol_{\ce{Ca(OH)2}}}}}\cdot \frac{1\thinspace\mathrm{L_{\ce{HCl}}}}{0.25\thinspace\mathrm{\cancel{mol_{\ce{HCl}}}}} = 0.2\thinspace\mathrm{L_{\ce{HCl}}}
+\end{align*}
+{{% /callout %}}
 
 ## Cálculos masa-volumen
 ### Ecuación de los gases ideales
