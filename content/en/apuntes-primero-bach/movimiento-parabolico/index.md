@@ -2,7 +2,7 @@
 title: Projectile Motion
 url: "/en/physics-chemistry-notes/16-17-year-olds/projectile-motion"
 subtitle: Study of the Parabolic or Oblique Motion
-summary: Study of the Parabolic or Oblique Motion.
+summary: "`🔜 COMING SOON` <br> Study of the Parabolic or Oblique Motion."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
 - 16-17-year-olds
