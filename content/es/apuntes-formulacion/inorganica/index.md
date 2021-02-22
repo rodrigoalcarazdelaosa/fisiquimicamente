@@ -280,4 +280,5 @@ Un **ión** es una **especie química** con **carga eléctrica**, bien por haber
 | H<sup>&ndash;</sup> | hidruro | H<sub>2</sub>PO<sub>3</sub><sup>&ndash;</sup> | dihidrogenofosfito | S<sup>2&ndash;</sup> | sulfuro |
 | ClO<sub>4</sub><sup>&ndash;</sup> | perclorato | HCO<sub>3</sub><sup>&ndash;</sup> | hidrogenocarbonato | NO<sub>3</sub><sup>&ndash;</sup> | nitrato |
 | O<sup>2&ndash;</sup> | óxido | H<sub>2</sub>BO<sub>3</sub><sup>&ndash;</sup> | dihidrogenoborato | SO<sub>3</sub><sup>2&ndash;</sup> | sulfito |
+| PO<sub>4</sub><sup>3&ndash;</sup> | fosfato | CO<sub>3</sub><sup>2&ndash;</sup> | carbonato | SO<sub>4</sub><sup>2&ndash;</sup> | sulfato |
 | CrO<sub>4</sub><sup>2&ndash;</sup> | cromato | Cr<sub>2</sub>O<sub>7</sub><sup>2&ndash;</sup> | dicromato | MnO<sub>4</sub><sup>&ndash;</sup> | permanganato |

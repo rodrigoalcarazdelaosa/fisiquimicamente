@@ -592,6 +592,14 @@ Un **ión** es una **especie química** con **carga eléctrica**, bien por haber
 <td>sulfito</td>
 </tr>
 <tr>
+<td align="center">PO<sub>4</sub><sup>3&ndash;</sup></td>
+<td>fosfato</td>
+<td align="center">CO<sub>3</sub><sup>2&ndash;</sup></td>
+<td>carbonato</td>
+<td align="center">SO<sub>4</sub><sup>2–</sup></td>
+<td>sulfato</td>
+</tr>
+<tr>
 <td align="center">CrO<sub>4</sub><sup>2–</sup></td>
 <td>cromato</td>
 <td align="center">Cr<sub>2</sub>O<sub>7</sub><sup>2–</sup></td>
