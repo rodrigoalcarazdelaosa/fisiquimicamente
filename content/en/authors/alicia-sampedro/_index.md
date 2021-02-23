@@ -15,9 +15,9 @@ role: Spanish ↔️ English
 
 # Organizations/Affiliations
 organizations:
-- name: "🇬🇧 English: C1"
+- name: "English: C1"
   url: ""
-- name: "🇮🇹 Italian: B2"
+- name: "Italian: B2"
   url: ""  
 
 # Short bio (displayed in user profile at end of posts)
