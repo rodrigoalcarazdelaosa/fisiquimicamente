@@ -96,11 +96,15 @@ background-color: #2a54a9; }
   background: #2a54a9; }
   
 /*********************************************
-* IMAGES
+* MEDIA
 *********************************************/
 .reveal section img {
 border: 0;
 box-shadow: none; }
+
+.reveal img {
+  height: auto;
+}
 
 /*********************************************
  * NAVIGATION CONTROLS
