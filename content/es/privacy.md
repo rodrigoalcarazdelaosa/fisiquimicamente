@@ -21,7 +21,7 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) y [{{< icon name="font-awesome" pack="fab" >}} FontAwesome](https://fontawesome.com/privacy) para emojis e iconos.
 - [Applause Button](https://applause-button.com) para los [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) para el chat personal (esquina inferior derecha <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
-- [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/legal/privacy-policy/) para el widget de [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) (esquina inferior izquierda {{< icon name="comments" pack="fas" >}}).
+- [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) para el widget de [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) (esquina inferior izquierda {{< icon name="comments" pack="fas" >}}).
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) para la [licencia](/licencia).
 
 [^2]: Actualmente la web utiliza las tipografías [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) e [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
