@@ -208,3 +208,8 @@
   translation: ¡Entendido!
 - id: cookie_learn
   translation: Más información
+
+# Published with
+
+- id: published_with
+  translation: Publicado con {wowchemy} — el constructor de sitios web gratuito y {repo_link}de código abierto{/repo_link} para {hugo}.

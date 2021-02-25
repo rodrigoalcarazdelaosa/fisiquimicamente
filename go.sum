@@ -1,5 +1,6 @@
 github.com/jakejarvis/hugo-mod-twemoji v0.2.1 h1:OS3Xre4YfCKHYkpR1ijXiY+rovAPJy7dZ6JGzJkHXZM=
 github.com/jakejarvis/hugo-mod-twemoji v0.2.1/go.mod h1:YIzh5oA1aahHF75SamtOJa4FammbpSt+w2MjFKfmb44=
+github.com/twitter/twemoji v13.0.1+incompatible h1:w1epB4MnDMK11c0jBmCNuVQtRJfRddHm2+gx3z7bmGM=
 github.com/twitter/twemoji v13.0.1+incompatible/go.mod h1:06L6PdKuWDx/Yh6s4B7yGkAeBmWZzbFZgfNnWlJPPYM=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210222223615-40e01c083e6f h1:uAARNx5j+2uYtpmN5yM4ojImstcvV0HUqjJ9nCVn2c0=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210222223615-40e01c083e6f/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210225181421-6b9fdd9482f6 h1:KD+9MHjPlYYeDOx+NtPOPH2D2NpHchk8gyH7H3U6CX4=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210225181421-6b9fdd9482f6/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
