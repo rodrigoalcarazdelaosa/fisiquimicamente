@@ -12,5 +12,5 @@ header:
   image: "tutoriales-header.jpg"
   caption: "Foto adaptada de [**Alexei Scutari**](https://unsplash.com/@scutal) en [Unsplash](https://unsplash.com)"
 
-breadcrumbs: [""]  
+breadcrumbs: [""]
 ---
