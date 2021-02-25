@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Medical Physicist
+role: Medical Physicist and Radioactive Facilities Supervisor
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.escuelaclinicamompia.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Medical Physicist at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain).
+bio: I am a Medical Physicist at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and a PhD student in Medicine at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).
 
 interests:
 - ✈️ Traveling 
@@ -73,4 +73,4 @@ user_groups:
 - PhysiChemically
 ---
 
-I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I also **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/).
+I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/). I am also a PhD student in Medicine at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).

@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Radiofísica Hospitalaria
+role: Radiofísica Hospitalaria y Supervisora de Instalaciones Radioactivas
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.escuelaclinicamompia.es/"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy Radiofísica Hospitalaria en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España).
+bio: Soy Radiofísica Hospitalaria en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España) y estudiante de Doctorado en Medicina en la [Universidad de Cantabria](https://web.unican.es).
 
 interests:
 - ✈️ Viajar 
@@ -73,4 +73,4 @@ user_groups:
 - FisiQuímicamente
 ---
 
-Soy **Radiofísica Hospitalaria** en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España) y además imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/).
+Soy **Radiofísica Hospitalaria** en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España) e imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/). Además, soy **estudiante de Doctorado en Medicina** en la [Universidad de Cantabria](https://web.unican.es).
