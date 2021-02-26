@@ -4,5 +4,5 @@ go 1.15
 
 require (
 	github.com/jakejarvis/hugo-mod-twemoji v0.2.1 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210226001249-33e92dc8cb16 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210225181421-6b9fdd9482f6 // indirect
 )
