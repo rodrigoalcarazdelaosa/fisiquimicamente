@@ -15,7 +15,7 @@ slides:
 
 - [Cambios físicos y cambios químicos](#/1)
 - [La reacción química](#/2)
-- [Eestequiometría](#/3)
+- [Estequiometría](#/3)
 - [Velocidad de una reacción química](#/4)
 - [La Química en la sociedad y el medio ambiente](#/5)
 
