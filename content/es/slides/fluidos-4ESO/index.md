@@ -263,6 +263,13 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
  &= 4685.85\thinspace\mathrm{m^3}
 \end{align*}
 
+---
+
+#### Práctica virtual
+Para determinar **densidades** y **fuerzas de empuje**:
+
+{{< youtube o7v9Kbs6e8Y >}}
+
 {{% /section %}}
 
 ---
