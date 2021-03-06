@@ -226,6 +226,15 @@ V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times
 
 {{% /callout %}}
 
+#### Práctica virtual
+También puedes ver este excelente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos enseñan cómo realizar una **práctica virtual para determinar densidades y fuerzas de empuje**:
+
+{{< youtube o7v9Kbs6e8Y >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1mPRJVEBM1Fvsm_Q6m0xxHJ4By6MDpdzz/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
+
 ## Física de la atmósfera
 ### Presión atmosférica
 La **presión atmosférica** es el peso de la columna de aire que soporta un cuerpo por unidad de superficie.
