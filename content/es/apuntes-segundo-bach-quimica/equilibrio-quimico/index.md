@@ -28,6 +28,10 @@ links:
   icon: file-download
   name: Póster
   url: equilibrio-quimico-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: equilibri-quimic-poster.pdf
 
 ---
 
