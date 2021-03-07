@@ -2,7 +2,7 @@
 title: Cinética química
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/cinetica-quimica"
 subtitle: Velocidad y mecanismos de reacción
-summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Velocidad de reacción. Ecuaciones cinéticas. Orden de reacción. Mecanismos de reacción."
+summary: "Velocidad de reacción. Ecuaciones cinéticas. Orden de reacción. Mecanismos de reacción."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
@@ -66,7 +66,7 @@ La velocidad de una reacción viene determinada por la reacción elemental más 
 
 Es la **velocidad** a la que **ocurre** una **reacción química**. En una **ecuación química** general:
 $$
-a\mathrm A + b\mathrm B \longrightarrow c\mathrm C + d\mathrm D,
+a\thinspace\mathrm A + b\thinspace\mathrm B \longrightarrow c\thinspace\mathrm C + d\thinspace\mathrm D,
 $$
 $a$, $b$, $c$ y $d$ representan los **coeficientes estequiométricos** mientras que A, B, C y D representan los **símbolos químicos** de los átomos o la **fórmula molecular** de los compuestos que reaccionan (lado izquierdo) y los que se producen (lado derecho).
 
