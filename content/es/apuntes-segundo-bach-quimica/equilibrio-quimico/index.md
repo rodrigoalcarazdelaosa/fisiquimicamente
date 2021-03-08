@@ -39,7 +39,7 @@ links:
 
 En 1803, [Berthollet](https://es.wikipedia.org/wiki/Claude_Louis_Berthollet) descubre que ciertas reacciones químicas son **reversibles**, llegando un momento en el que las velocidades de las reacciones directa e inversa se igualan, manteniéndose invariables las concentraciones de reactivos y productos (<span style="font-variant:small-caps;">**equilibrio**</span>).
 
-{{< figure src="equilibrio-quimico-2bach-quimica/equilibrio.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/reversible-reactions-and-equilibrium/." lightbox="false" width="100%" >}}
+{{< figure src="equilibrio-quimico-2Bach-quimica/equilibrio.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/reversible-reactions-and-equilibrium/." lightbox="false" width="100%" >}}
 
 ## Ley de acción de masas
 También conocida como **ley de Guldberg y Waage**, establece que la velocidad de una reacción es directamente proporcional al producto de las concentraciones de los reactivos. Como en el equilibrio las velocidades de las reacciones directa e inversa son iguales, esto implica que existe una relación constante entre concentraciones de reactivos y productos.
@@ -64,7 +64,7 @@ $$
 - Si se suman dos o más ecuaciones, la constante de equilibrio es el producto de las constantes de equilibrio de cada una de las reacciones.
 - Si en la reacción intervienen sólidos o líquidos puros, dado que su concentración es constante, se considera incluida en el valor de la constante de equilibrio.
 
-{{< figure src="equilibrio-quimico-2bach-quimica/magnitud-K.svg" lightbox="false" width="100%" >}}
+{{< figure src="equilibrio-quimico-2Bach-quimica/magnitud-K.svg" lightbox="false" width="100%" >}}
 
 ## Cociente de reacción
 Para poder saber si una reacción ha llegado a su equilibrio, se puede calcular el llamado **cociente de reacción**, $Q_\mathrm r$:
@@ -108,7 +108,7 @@ K_\mathrm p = K_\mathrm c\left(RT\right)^{\Delta n},
 $$
 donde $\Delta n = n_\text{final} - n_\text{inicial}$ es la <strong>variación</strong> de <strong>moles gaseosos</strong>.
 
-{{< figure src="equilibrio-quimico-2bach-quimica/equilibrio-quimico.svg" title="https://www.chegg.com/learn/chemistry/introduction-to-chemistry/chemical-equilibrium" lightbox="false" width="100%" >}}
+{{< figure src="equilibrio-quimico-2Bach-quimica/equilibrio-quimico.svg" title="https://www.chegg.com/learn/chemistry/introduction-to-chemistry/chemical-equilibrium" lightbox="false" width="100%" >}}
 
 ## Factores que afectan al estado de equilibrio
 
@@ -142,13 +142,13 @@ Al aumentar la presión (disminuir el volumen)
 Al disminuir la presión (aumentar el volumen)
 : El sistema se desplazará de forma que la presión aumente, es decir, hacia donde haya más moles de gas.
 
-{{< figure src="equilibrio-quimico-2bach-quimica/le-chatelier.svg" lightbox="false" width="100%" >}}
+{{< figure src="equilibrio-quimico-2Bach-quimica/le-chatelier.svg" lightbox="false" width="100%" >}}
 
 ## Obtención industrial del amoniaco
 
 El **amoniaco**, NH<sub>3</sub>, se produce industrialmente a partir de nitrógeno e hidrógeno gaseosos mediante el **proceso de Haber-Bosch**, un proceso de fijación artificial de nitrógeno.
 
-{{< figure src="equilibrio-quimico-2bach-quimica/Haber-Bosch.svg" title="Diagrama del **proceso de Haber-Bosch**. Adaptada de https://commons.wikimedia.org/wiki/File:Haber-Bosch-es.svg." lightbox="false" width="100%" >}}
+{{< figure src="equilibrio-quimico-2Bach-quimica/Haber-Bosch.svg" title="Diagrama del **proceso de Haber-Bosch**. Adaptada de https://commons.wikimedia.org/wiki/File:Haber-Bosch-es.svg." lightbox="false" width="100%" >}}
 
 ### Equilibrio exotérmico
 
@@ -224,7 +224,7 @@ $$
 
 donde [ ] representa concentraciones molares salvo que se indique lo contrario. A partir de la estequiometría, es posible establecer la relación entre el producto de solubilidad y la solubilidad:
 
-{{< figure src="equilibrio-quimico-2bach-quimica/producto-solubilidad.svg" lightbox="false" width="100%" >}}
+{{< figure src="equilibrio-quimico-2Bach-quimica/producto-solubilidad.svg" lightbox="false" width="100%" >}}
 
 Como en los equilibrios homogéneos, podemos comparar el cociente (*producto*) de reacción con el producto de solubilidad para determinar si se formará precipitado:
 
@@ -236,7 +236,7 @@ Como en los equilibrios homogéneos, podemos comparar el cociente (*producto*) d
 
 El **efecto del ion común** es una consecuencia del principio de Le Châtelier y consiste en la **disminución de la solubilidad** de un precipitado iónico por la adición a la disolución de un compuesto soluble con un ion en común con el precipitado, aumentando su concentración y desplazando el equilibrio hacia la izquierda.
 
-{{< figure src="equilibrio-quimico-2bach-quimica/ion-comun.svg" title="Se forma precipitado de AgI en presencia de KI. Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/shifting-the-solubility-equilibrium/." lightbox="false" width="100%" >}}
+{{< figure src="equilibrio-quimico-2Bach-quimica/ion-comun.svg" title="Se forma precipitado de AgI en presencia de KI. Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/shifting-the-solubility-equilibrium/." lightbox="false" width="100%" >}}
 
 ### Solubilidad y temperatura
 
@@ -266,7 +266,7 @@ La **solubilidad** suele **aumentar** con la temperatura.
 
 a) Escribimos el **equilibrio** de disociación ajustado en función del número de moles iniciales y del grado de disociación $\alpha$:
 
-{{< figure src="equilibrio-quimico-2bach-quimica/equilibrio-SO3.svg" lightbox="false" width="100%" >}}
+{{< figure src="equilibrio-quimico-2Bach-quimica/equilibrio-SO3.svg" lightbox="false" width="100%" >}}
 
 donde $n = 4\thinspace\mathrm{mol}$ y $\alpha = 0.3$.
 
