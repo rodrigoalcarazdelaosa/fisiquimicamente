@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: reacciones-quimicas-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster en català
+  url: reaccions-quimiques-poster.pdf
 
 slides: reacciones-quimicas-2ESO-3ESO  
 ---
