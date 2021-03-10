@@ -2,6 +2,8 @@
 # Display name
 title: "Rodrigo Alcaraz de la Osa"
 
+weight: 10
+
 # Username (this should match the folder name)
 authors:
 - rodrigo-alcaraz-de-la-osa

@@ -3,6 +3,8 @@
 title: "Òscar Colomar"
 url: "/en/team/collaborators/oscar-colomar"
 
+weight: 10
+
 # Username (this should match the folder name)
 authors:
 - oscar-colomar

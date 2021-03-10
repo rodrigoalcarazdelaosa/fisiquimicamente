@@ -3,6 +3,8 @@
 title: "Rodrigo Alcaraz de la Osa"
 url: "/autor/rodrigo-alcaraz-de-la-osa"
 
+weight: 10
+
 # Username (this should match the folder name)
 authors:
 - rodrigo-alcaraz-de-la-osa

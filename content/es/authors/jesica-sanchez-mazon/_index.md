@@ -3,6 +3,8 @@
 title: "Jésica Sánchez Mazón"
 url: "/equipo/fisiquimicamente/jesica-sanchez-mazon"
 
+weight: 20
+
 # Username (this should match the folder name)
 authors:
 - jesica-sanchez-mazon

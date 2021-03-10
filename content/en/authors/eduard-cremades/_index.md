@@ -3,6 +3,8 @@
 title: "Eduard Cremades"
 url: "/en/team/collaborators/eduard-cremades"
 
+weight: 20
+
 # Username (this should match the folder name)
 authors:
 - eduard-cremades

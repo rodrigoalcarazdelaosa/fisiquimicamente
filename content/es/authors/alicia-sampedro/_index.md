@@ -3,6 +3,8 @@
 title: "Alicia Sampedro"
 url: "/equipo/colaboradores/alicia-sampedro"
 
+weight: 30
+
 # Username (this should match the folder name)
 authors:
 - alicia-sampedro
