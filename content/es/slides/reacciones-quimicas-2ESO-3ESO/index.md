@@ -99,9 +99,8 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 ## Estequiometría
 
 - [Ley de conservación de la masa](#/3/1)
-- [Ajuste de ecuaciones químicas](#/3/3)
-- [Ejemplo resuelto](#/3/7)
-- [Simulaciones](#/3/12)
+- [Ajuste de ecuaciones químicas](#/3/9)
+- [Simulaciones](#/3/18)
 
 (continúa hacia abajo)
 
@@ -118,6 +117,56 @@ La **ley de conservación de la masa** implica dos **principios**:
 
 1. El número total de átomos antes y después de una reacción no cambia.
 2. El número de átomos de cada tipo es igual antes y después.
+
+---
+
+#### Ejemplo resuelto 1
+
+<q>12 g de carbono reaccionan con 32 g de oxígeno y como resultado de la reacción se obtiene dióxido de carbono:</q>
+$$
+\mathrm C + \mathrm O_2 \longrightarrow \mathrm{CO_2}
+$$
+<q>¿Cuántos gramos de dióxido de carbono se obtienen?</q>
+
+---
+
+Según la ley de Lavoisier:
+$$
+m_\text{reactivos} = m_\text{productos}
+$$
+
+---
+
+Como conocemos la masa de los reactivos (carbono y oxígeno) podemos calcular la masa del único producto de la reacción:
+
+\begin{align*}
+12 + 32 &= m_\mathrm{CO_2} \\\\
+m_\mathrm{CO_2} &= 44\thinspace\mathrm g
+\end{align*}
+
+---
+
+#### Ejemplo resuelto 2
+
+<q>El agua oxigenada, H<sub>2</sub>O<sub>2</sub>, se descompone en H<sub>2</sub>O y O<sub>2</sub> en una reacción muy lenta.</q>
+$$
+\mathrm{2H_2O_2(l)} \longrightarrow \mathrm{2H_2O(l)} + \mathrm{O_2(g)}
+$$
+<q>A partir de 340 g de agua oxigenada obtenemos solo 180 g de agua. ¿Por qué?</q>
+
+---
+
+La razón es porque hay dos productos en la reacción, uno es el agua y otro el oxígeno, que es un gas.
+
+---
+
+La masa de este producto la podemos calcular aplicando la ley de Lavoisier:
+\begin{align*}
+m_\text{reactivos} &= m_\text{productos} \\\\
+340 &= 180 + m_\mathrm{O_2} \\\\
+340-180 &= m_\mathrm{O_2} \\\\
+m_\mathrm{O_2} &= 160\thinspace\mathrm g
+\end{align*}
 
 ---
 
@@ -143,7 +192,7 @@ Los **coeficientes estequiométricos** indican el número de átomos/moléculas/
 
 ---
 
-### Ejemplo resuelto
+#### Ejemplo resuelto
 <q>Se desea ajustar la siguiente ecuación química, que describe la **combustión** del **metano**:</q>
 $$
 \mathrm{CH}_4 + \mathrm{O}_2 \longrightarrow \mathrm{CO}_2 + \mathrm{H_2O}

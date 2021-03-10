@@ -75,6 +75,54 @@ La **ley de conservación de la masa** implica dos **principios**:
 1. El número total de átomos antes y después de una reacción no cambia.
 2. El número de átomos de cada tipo es igual antes y después.
 
+#### Ejemplo resuelto 1
+{{% callout example %}}
+<br>
+
+> 12 g de carbono reaccionan con 32 g de oxígeno y como resultado de la reacción se obtiene dióxido de carbono:
+$$
+\ce{C + O2 -> CO2}
+$$
+¿Cuántos gramos de dióxido de carbono se obtienen?
+
+---
+
+Según la ley de Lavoisier:
+$$
+m_\text{reactivos} = m_\text{productos}
+$$
+
+Como conocemos la masa de los reactivos (carbono y oxígeno) podemos calcular la masa del único producto de la reacción:
+
+\begin{align*}
+12 + 32 &= m_\mathrm{CO_2} \\\\
+m_\mathrm{CO_2} &= 44\thinspace\mathrm g
+\end{align*}
+
+{{% /callout %}}
+
+#### Ejemplo resuelto 2
+{{% callout example %}}
+<br>
+
+> El agua oxigenada, H<sub>2</sub>O<sub>2</sub>, se descompone en H<sub>2</sub>O y O<sub>2</sub> en una reacción muy lenta.
+$$
+\ce{2H2O2(l) -> 2H2O(l) + O2(g)}
+$$
+A partir de 340 g de agua oxigenada obtenemos solo 180 g de agua. ¿Por qué?
+
+---
+
+La razón es porque hay dos productos en la reacción, uno es el agua y otro el oxígeno, que es un gas. La masa de este producto la podemos calcular aplicando la ley de Laviosier:
+\begin{align*}
+m_\text{reactivos} &= m_\text{productos} \\\\
+340 &= 180 + m_\mathrm{O_2} \\\\
+340-180 &= m_\mathrm{O_2} \\\\
+m_\mathrm{O_2} &= 160\thinspace\mathrm g
+\end{align*}
+
+{{% /callout %}}
+
 ### Ajuste de ecuaciones químicas
 
 En una **ecuación química** general:
@@ -88,7 +136,7 @@ $$
 
 Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
-### Ejemplo resuelto
+#### Ejemplo resuelto
 {{% callout example %}}
 <br>
 
