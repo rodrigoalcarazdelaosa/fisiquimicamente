@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 17  # Order that this section will appear.
 
 title = "🎓 Recursos PBAU <br> (Balears)"
-subtitle = "Gràcies a **[Òscar Colomar](https://fisiquimicamente.com/ca/equip/collaboradors/oscar-colomar/)**"
+# subtitle = "Gràcies a **[Òscar Colomar](https://fisiquimicamente.com/ca/equip/collaboradors/oscar-colomar/)**"
 
 # Showcase personal skills or business features.
 # 
@@ -14,23 +14,23 @@ subtitle = "Gràcies a **[Òscar Colomar](https://fisiquimicamente.com/ca/equip/
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "[☢️](fisica)"
-  icon_pack = "emoji"
-  name = "[Física](fisica)"
-  description = ""  
+#[[feature]]
+ # icon = "[☢️](fisica)"
+ # icon_pack = "emoji"
+ # name = "[Física](fisica)"
+ # description = ""  
   
-[[feature]]
-  icon = "[⚗️](quimica)"
-  icon_pack = "emoji"
-  name = "[Química](quimica)"
-  description = ""
+#[[feature]]
+#  icon = "[⚗️](quimica)"
+#  icon_pack = "emoji"
+#  name = "[Química](quimica)"
+#  description = ""
   
-[[feature]]
-  icon = "[💡](consells)"
-  icon_pack = "emoji"
-  name = "[Consells](consells)"
-  description = ""  
+#[[feature]]
+#  icon = "[💡](consells)"
+#  icon_pack = "emoji"
+#  name = "[Consells](consells)"
+#  description = ""  
   
   
 [design.background]
@@ -64,6 +64,6 @@ subtitle = "Gràcies a **[Òscar Colomar](https://fisiquimicamente.com/ca/equip/
  css_class = ""
 +++
 
-{{% callout note %}}
-Accedeix [aquí](https://estudis.uib.cat/estudis-de-grau/Com-hi-pots-accedir/acces/batxiller/Informacio-general-de-la-PBAU/) a l'última informació per part de la Universitat dels Illes Balears (UIB).
+{{% callout construction %}}
+En construcció...
 {{% /callout %}}
