@@ -1,0 +1,18 @@
+---
+title: ✍🏼 Blog
+
+aliases: ["/blog/"]
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+
+# Optional header image (relative to `static/media/` folder).
+header: 
+  image: "blog-header.jpg"
+  caption: "Imatge adaptada de [**inspirexpressmiami**](https://pixabay.com/es/users/inspirexpressmiami-263260/) a [Pixabay](https://pixabay.com/es/)"
+
+breadcrumbs: [""]  
+---

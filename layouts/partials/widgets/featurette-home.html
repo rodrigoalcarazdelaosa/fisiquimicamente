@@ -11,6 +11,9 @@
     {{ else if eq $page.Title "PhysiChemically" }}
         {{- $logo := resources.Get ("media/logo-physichemically.svg") -}}
         <h1><img draggable="false" alt="physichemically" src="{{ $logo.RelPermalink }}" width="100%"></h1>
+    {{ else if eq $page.Title "FisiQuímicament" }}
+        {{- $logo := resources.Get ("media/logo-fisiquimicament.svg") -}}
+        <h1><img draggable="false" alt="fisiquimicament" src="{{ $logo.RelPermalink }}" width="100%"></h1>        
     {{ end }}
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>

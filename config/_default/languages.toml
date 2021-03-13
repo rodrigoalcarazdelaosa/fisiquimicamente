@@ -15,6 +15,13 @@
   	description = "Physics and Chemistry Resources, Tutorials and Current Science"
 	  address = {region = "Cantabria", country = "Spain", country_code = "ES"}
 
+[ca]
+  languageCode = "ca"
+  contentDir = "content/ca"
+  title = "FisiQuímicament"
+  [ca.params]
+    description = "Recursos de Física i Química, tutorials i ciència d'actualitat"
+
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"

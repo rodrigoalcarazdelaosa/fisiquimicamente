@@ -14,11 +14,11 @@ breadcrumbs: [""]
 
 - [<img draggable="false" class="icon" alt="github" src="/icon/github.jpg"> Github](https://docs.github.com/en/github/site-policy/github-privacy-statement) for hosting its [source code](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
 - [<img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"> Netlify](https://www.netlify.com/privacy/) for deploying/serving it.
-- [Google Fonts](https://policies.google.com/privacy) for typefaces[^2].
+- [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) for typefaces[^2].
 - [<img draggable="false" class="icon" alt="google-maps" src="/icon/google-maps.svg"> Google Maps](https://policies.google.com/privacy) for maps.
 - [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy) for the [contact form](/en/#contact).
 - [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) and [{{< icon name="font-awesome" pack="fab" >}} FontAwesome](https://fontawesome.com/privacy) for emojis and icons.
-- [Applause Button](https://applause-button.com) for the [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> kudos]({{< relref "/post/hola-mundo#kudos" >}}).
+- [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) for the [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) for the live personal chat (lower right corner <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
 - [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) for the [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) widget (lower left corner {{< icon name="comments" pack="fas" >}}).
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) for the [license](/en/license).

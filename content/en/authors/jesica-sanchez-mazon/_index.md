@@ -75,4 +75,4 @@ user_groups:
 - PhysiChemically
 ---
 
-I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/). I am also a PhD student in Medicine at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).
+I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/). I am also a **PhD student in Medicine** at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).

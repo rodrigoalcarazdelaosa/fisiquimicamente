@@ -10,7 +10,7 @@
 {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
-  {{ if eq .Site.Language.Lang "es" }}
+  {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
     {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
   {{ else if eq .Site.Language.Lang "en" }}
     {{ $logo = resources.Get "media/logo-en.svg" }}    

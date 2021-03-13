@@ -12,6 +12,8 @@
       {{ $profile_url = "/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa/" }}
 	{{ else if eq site.Language.Lang "en" }}
 	  {{ $profile_url = "/en/team/physichemically/rodrigo-alcaraz-de-la-osa/" }}
+  {{ else if eq site.Language.Lang "ca" }}
+	  {{ $profile_url = "/ca/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa/" }}    
     {{ end }}
   {{ end }}
   {{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" }}

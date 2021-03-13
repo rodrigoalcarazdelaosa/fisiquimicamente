@@ -27,3 +27,17 @@ Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wow
     open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
 Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
+
+<p align="center"><a href="https://fisiquimicamente.com/ca/" target="_blank" rel="noopener"><img src="https://fisiquimicamente.com/media/logo-ca.png" alt="FisiQuímicament"></a></p>
+
+Recursos de Física i Química, tutorials i ciència d'actualitat.
+
+&copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
+
+Amb emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, gràcies a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; i recursos gràfics dissenyats per <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
+
+Publicat amb <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
+    el constructor de llocs web gratuït i <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
+    de codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servit per <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.

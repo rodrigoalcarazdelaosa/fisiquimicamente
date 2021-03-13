@@ -6,7 +6,6 @@ summary: "Recomendaciones de la IUPAC de 2005."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","formulacion-nomenclatura-quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
-- oscar-colomar
 tags:
 - formulación
 - nomenclatura
@@ -28,10 +27,6 @@ links:
   icon: file-download
   name: Póster
   url: formulacion-nomenclatura-inorganica-poster.pdf
-- icon_pack: fas
-  icon: file-download
-  name: Pòster en català
-  url: formulacio-nomenclatura-inorganica-poster.pdf  
 
 slides: formulacion-nomenclatura-quimica-inorganica
 ---

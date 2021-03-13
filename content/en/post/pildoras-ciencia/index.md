@@ -1,5 +1,5 @@
 ---
-title: Science Pills 💊💊
+title: Science 💊💊 Pills
 subtitle: 10 things you can do, study or reflect on in the classroom
 summary: 10 things you can do, study or reflect on in the classroom.
 breadcrumbs: ["blog"]
