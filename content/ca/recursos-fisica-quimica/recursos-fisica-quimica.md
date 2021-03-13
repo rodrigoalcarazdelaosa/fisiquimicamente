@@ -24,7 +24,7 @@ subtitle = ""
   icon = "[🎓](pbau)"
   icon_pack = "emoji"
   name = "[PBAU](pbau)"
-  description = "[☢️ Física](pbau/fisica) · [⚗️ Química](pbau/quimica) · [💡 Consells](pbau/consells)"
+  # description = "[☢️ Física](pbau/fisica) · [⚗️ Química](pbau/quimica) · [💡 Consells](pbau/consells)"
 
 [design]
   columns = "2"
