@@ -71,7 +71,7 @@
 	{{ else if eq site.Language.Lang "en" }}
   	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
   {{ else if eq site.Language.Lang "ca" }}
-  	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>    
+  	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
   {{ end }}
     {{ range $page.Params.breadcrumbs }}
     {{ if and (eq . "recursos-fisica-quimica") (eq site.Language.Lang "es") }}
@@ -125,8 +125,10 @@
     {{else if eq . "blog"}}
     {{ if eq site.Language.Lang "es" }}
   	<li class="breadcrumb-item"><a href="/post/">✍🏼 Blog</a></li>
-	{{ else if eq site.Language.Lang "en" }}	
-  	<li class="breadcrumb-item"><a href="/en/post/">✍🏼 Blog</a></li>	
+	  {{ else if eq site.Language.Lang "en" }}	
+  	<li class="breadcrumb-item"><a href="/en/post/">✍🏼 Blog</a></li>
+    {{ else if eq site.Language.Lang "ca" }}	
+  	<li class="breadcrumb-item"><a href="/ca/post/">✍🏼 Blog</a></li>	
     {{ end }}	
     {{ end }}
     {{ end }}
