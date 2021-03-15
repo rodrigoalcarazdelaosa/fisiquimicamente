@@ -4,9 +4,6 @@ url: "/recursos-fisica-quimica/apuntes/2bach/quimica/sistema-periodico"
 subtitle: Tabla periódica, configuración electrónica y propiedades periódicas
 summary: "Tabla periódica y configuración electrónica. Propiedades periódicas."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
-authors:
-- rodrigo-alcaraz-de-la-osa
-- oscar-colomar
 tags:
 - 2º Bach
 - tabla-periódica
@@ -26,10 +23,6 @@ links:
   icon: file-download
   name: Póster
   url: sistema-periodico-poster.pdf
-- icon_pack: fas
-  icon: file-download
-  name: Pòster en català
-  url: sistema-periodic-poster.pdf
 
 slides: sistema-periodico-2Bach-quimica
 ---

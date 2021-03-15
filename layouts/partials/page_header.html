@@ -124,10 +124,12 @@
     <li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/physics">☢️ Physics</a></li>
     {{ else if and (eq . "fisica") (eq site.Language.Lang "ca") }}
     <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2batx/fisica">☢️ Física</a></li>
-    {{else if eq . "quimica"}}
+    {{ else if and (eq . "quimica") (eq site.Language.Lang "es") }}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/quimica">⚗️ Química</a></li>
     {{else if eq . "chemistry"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/chemistry">⚗️ Chemistry</a></li>	
+  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/chemistry">⚗️ Chemistry</a></li>
+    {{ else if and (eq . "quimica") (eq site.Language.Lang "ca") }}
+  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2batx/quimica">⚗️ Química</a></li>	
     {{else if eq . "formulacion-nomenclatura-quimica"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
     {{else if eq . "nomenclature-chemistry"}}
