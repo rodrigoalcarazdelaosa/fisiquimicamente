@@ -4,9 +4,6 @@ url: "/recursos-fisica-quimica/apuntes/4eso/enlace-quimico"
 subtitle: Enlace iónico, covalente y metálico. Fuerzas intermoleculares
 summary: "Enlace iónico, covalente y metálico. Fuerzas intermoleculares."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
-authors:
-- rodrigo-alcaraz-de-la-osa
-- eduard-cremades
 tags:
 - 4º ESO
 - enlace-químico
@@ -26,10 +23,6 @@ links:
   icon: file-download
   name: Póster
   url: enlace-quimico-poster.pdf
-- icon_pack: fas
-  icon: file-download
-  name: Pòster en català
-  url: enllac-quimic-poster.pdf  
 
 slides: enlace-quimico-4ESO  
 ---

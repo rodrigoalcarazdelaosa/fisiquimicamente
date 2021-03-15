@@ -4,9 +4,6 @@ url: "/recursos-fisica-quimica/apuntes/4eso/sistema-periodico"
 subtitle: Sistema periódico y configuración electrónica
 summary: "Sistema periódico y configuración electrónica."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
-authors:
-- rodrigo-alcaraz-de-la-osa
-- eduard-cremades
 tags:
 - 4º ESO
 - tabla-periódica
@@ -26,10 +23,6 @@ links:
   icon: file-download
   name: Póster
   url: sistema-periodico-poster.pdf
-- icon_pack: fas
-  icon: file-download
-  name: Pòster en català
-  url: sistema-periodic-poster.pdf
 
 slides: sistema-periodico-4ESO
 ---

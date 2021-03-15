@@ -4,9 +4,6 @@ url: "/recursos-fisica-quimica/apuntes/4eso/reacciones-quimicas"
 subtitle: Ajuste de ecuaciones químicas y cálculos estequiométricos
 summary: Ajuste de ecuaciones químicas, cálculos masa-masa y cálculos masa-volumen.
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
-authors:
-- rodrigo-alcaraz-de-la-osa
-- oscar-colomar
 tags:
 - 4º ESO
 - reacciones-químicas
@@ -21,20 +18,11 @@ image:
   caption: Foto de [**Alex Kondratiev**](https://unsplash.com/@alexkondratiev) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-links:
-# - icon_pack: fas
- # icon: download
- # name: PDF Texto
- # url: reacciones-quimicas-texto.pdf
-  
+links:  
 - icon_pack: fas
   icon: file-download
   name: Póster
   url: reacciones-quimicas-poster.pdf
-- icon_pack: fas
-  icon: file-download
-  name: Pòster en català
-  url: reaccions-quimiques-poster.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -4,9 +4,6 @@ url: "/recursos-fisica-quimica/apuntes/4eso/modelos-atomicos"
 subtitle: Modelos de Thomson, Rutherford y Bohr
 summary: "Modelos de Thomson, Rutherford y Bohr."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
-authors:
-- rodrigo-alcaraz-de-la-osa
-- eduard-cremades
 tags:
 - 4º ESO
 - estructura-atómica
@@ -27,10 +24,6 @@ links:
   icon: file-download
   name: Póster
   url: modelos-atomicos-poster.pdf
-- icon_pack: fas
-  icon: file-download
-  name: Pòster en català
-  url: models-atomics-poster.pdf  
 
 slides: modelos-atomicos-4ESO
 ---
