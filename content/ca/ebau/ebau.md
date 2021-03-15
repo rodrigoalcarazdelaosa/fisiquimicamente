@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 17  # Order that this section will appear.
 
-title = "🎓 Recursos PBAU"
+title = "🎓 Recursos PAU/PBAU"
 # subtitle = "Gràcies a **[Òscar Colomar](https://fisiquimicamente.com/ca/equip/collaboradors/oscar-colomar/)**"
 
 # Showcase personal skills or business features.

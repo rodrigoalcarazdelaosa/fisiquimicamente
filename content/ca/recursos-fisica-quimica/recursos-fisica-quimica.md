@@ -21,9 +21,9 @@ subtitle = ""
   description = "[📗 2n ESO](apunts/2eso) · [📘 3r ESO](apunts/3eso) · [📙 4t ESO](apunts/4eso) <br> [📕 1r Batx](apunts/1batx) · [📓 2n Batx](apunts/2batx) <br> [📔 Formulació i nomenclatura de Química](apunts/formulacio-nomenclatura-quimica)"
   
 [[feature]]
-  icon = "[🎓](pbau)"
+  icon = "[🎓](pau-pbau)"
   icon_pack = "emoji"
-  name = "[PBAU](pbau)"
+  name = "[PAU/PBAU](pau-pbau)"
   # description = "[☢️ Física](pbau/fisica) · [⚗️ Química](pbau/quimica) · [💡 Consells](pbau/consells)"
 
 [design]

@@ -18,7 +18,7 @@ subtitle = ""
   icon = "[⚛️](recursos-fisica-quimica/)"
   icon_pack = "emoji"
   name = "[Recursos de Física i Química](recursos-fisica-quimica/)"
-  description = "[📚 Apunts](recursos-fisica-quimica/apunts) · [🎓 PBAU](recursos-fisica-quimica/pbau)"  
+  description = "[📚 Apunts](recursos-fisica-quimica/apunts) · [🎓 PAU/PBAU](recursos-fisica-quimica/pau-pbau)"  
   
 [[feature]]
   icon = "[👐🏼](tutorials/)"
