@@ -42,7 +42,7 @@ subtitle = "📓 2n Batx ☢️ Física"
     tag = "òptica"
 	
   [[content.filter_button]]
-    name = "Física de s. XX"
+    name = "Física del s. XX"
     tag = "física-s-XX"
 
 [design]
