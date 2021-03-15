@@ -21,7 +21,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Sóc Llicenciat en Química i Professor de Secundària en [l'IES Isidor Macabich](http://iesisidormacabich.es/) d'Eivissa."
+bio: "Sóc Llicenciat en Química i Professor de Secundària a [l'IES Isidor Macabich](http://iesisidormacabich.es/) d'Eivissa."
 
 interests:
 - 🎸 Música
@@ -63,4 +63,4 @@ user_groups:
 - 🙌🏼 Col·laboradors
 ---
 
-Sóc Llicenciat en Química i Professor de Secundària en [l'IES Isidor Macabich](http://iesisidormacabich.es/) d'Eivissa.
+Sóc Llicenciat en Química i Professor de Secundària a [l'IES Isidor Macabich](http://iesisidormacabich.es/) d'Eivissa.

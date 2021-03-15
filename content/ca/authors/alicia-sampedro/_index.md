@@ -23,7 +23,7 @@ organizations:
   url: ""  
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Sóc Professora de Física i Química bilingüe en [l'IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) de Tavera però també sóc una apassionada de l'ús de les TIC i la robòtica a l'aula."
+bio: "Sóc Professora de Física i Química bilingüe a [l'IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) de Tavera però també sóc una apassionada de l'ús de les TIC i la robòtica a l'aula."
 
 interests:
 - ✈️ Viatjar
@@ -66,4 +66,4 @@ user_groups:
 - 🙌🏼 Col·laboradors
 ---
 
-Sóc Professora de Física i Química bilingüe en [l'IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) de Tavera però també sóc una apassionada de l'ús de les TIC i la robòtica a l'aula.
+Sóc Professora de Física i Química bilingüe a [l'IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) de Tavera però també sóc una apassionada de l'ús de les TIC i la robòtica a l'aula.
