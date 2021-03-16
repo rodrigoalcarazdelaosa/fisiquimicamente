@@ -95,7 +95,7 @@
 - id: date
   translation: Data
 - id: last_updated
-  translation: Última actualizació el
+  translation: 📆
 - id: event
   translation: Event
 - id: location

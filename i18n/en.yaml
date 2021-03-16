@@ -163,7 +163,7 @@
   translation: Date
 
 - id: last_updated
-  translation: Last updated on
+  translation: 📆
 
 - id: event
   translation: Event

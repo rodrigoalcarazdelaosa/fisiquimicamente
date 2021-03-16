@@ -124,7 +124,7 @@
 - id: date
   translation: Fecha
 - id: last_updated
-  translation: Última actualización el
+  translation: 📆
 - id: event
   translation: Evento
 - id: location
