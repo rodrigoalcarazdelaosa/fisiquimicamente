@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Spanish ↔️ Català
+role: Spanish ↔️ Catalan
 
 # Organizations/Affiliations
 organizations:
