@@ -202,7 +202,7 @@
       <link rel="manifest" href="{{ "index.webmanifest" | relLangURL }}" />
     {{ end }}
   
-    {{ if eq .Site.Language.Lang "es" }}
+    {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
       <link rel="icon" type="image/png" href="{{ (partial "functions/get_icon" 32).RelPermalink }}" />
       <link rel="apple-touch-icon" type="image/png" href="{{ (partial "functions/get_icon" 180).RelPermalink }}" />
     {{ else if eq .Site.Language.Lang "en" }}
@@ -232,7 +232,7 @@
     {{ else if .Params.header.image }}
       {{ $og_image = printf "%s/%s" $media_dir .Params.header.image | absURL }}
     {{ else if $sharing_image }}
-      {{ if eq .Site.Language.Lang "es" }}
+      {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
         {{ $og_image = $sharing_image.Permalink }}
       {{ else if eq .Site.Language.Lang "en" }}
         {{ $og_image = $sharing_image_en.Permalink }}
