@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="84.79705pt"
+   width="84.797035pt"
    height="9.3176098pt"
-   viewBox="0 0 84.797048 9.31761"
+   viewBox="0 0 84.797033 9.31761"
    version="1.2"
    id="svg104"
    sodipodi:docname="logo-fisiquimicamente.svg"
@@ -308,7 +308,7 @@
   <g
      style="fill:#2a54a9;fill-opacity:1"
      id="g61"
-     transform="translate(-0.453125,0.579329)">
+     transform="translate(-0.453125,0.57932895)">
     <use
        xlink:href="#glyph0-1"
        x="0"
@@ -326,7 +326,7 @@
      width="100%"
      height="100%"
      style="fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(0.45968163,0.57932895)" />
   <use
      xlink:href="#glyph1-1"
      x="16.537764"
@@ -335,12 +335,12 @@
      width="100%"
      height="100%"
      style="fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(0.18314601,0.57932895)" />
   <g
      clip-path="url(#clip1)"
      clip-rule="nonzero"
      id="g75"
-     transform="translate(-0.453125,0.579329)"
+     transform="translate(0.01129381,0.57932895)"
      style="fill:#2a54a9;fill-opacity:1">
     <g
        style="fill:#2a54a9;fill-opacity:1"
@@ -363,7 +363,7 @@
      width="100%"
      height="100%"
      style="clip-rule:nonzero;fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(-1.1268615,0.57932895)" />
   <use
      xlink:href="#glyph1-4"
      x="36.592777"
@@ -372,7 +372,7 @@
      width="100%"
      height="100%"
      style="clip-rule:nonzero;fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(-0.95494749,0.57932895)" />
   <use
      xlink:href="#glyph1-5"
      x="46.774555"
@@ -381,7 +381,7 @@
      width="100%"
      height="100%"
      style="clip-rule:nonzero;fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(-1.2438901,0.57932895)" />
   <use
      xlink:href="#glyph1-4"
      x="57.773266"
@@ -390,7 +390,7 @@
      width="100%"
      height="100%"
      style="clip-rule:nonzero;fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(-0.77896465,0.57932895)" />
   <use
      xlink:href="#glyph1-7"
      x="64.816826"
@@ -399,7 +399,7 @@
      width="100%"
      height="100%"
      style="clip-rule:nonzero;fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(-0.7467688,0.57932895)" />
   <use
      xlink:href="#glyph1-8"
      x="69.598869"
@@ -408,7 +408,7 @@
      width="100%"
      height="100%"
      style="clip-rule:nonzero;fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(-0.76555249,0.57932895)" />
   <use
      xlink:href="#glyph1-7"
      x="80.906425"
@@ -417,10 +417,10 @@
      width="100%"
      height="100%"
      style="clip-rule:nonzero;fill:#2a54a9;fill-opacity:1"
-     transform="translate(-0.453125,0.579329)" />
+     transform="translate(-0.45314436,0.57932895)" />
   <g
      id="g172"
-     transform="matrix(0.00943308,-0.00943308,0.00943308,0.00943308,49.719537,4.2294099)">
+     transform="matrix(0.00943308,-0.00943308,0.00943308,0.00943308,49.097159,4.2294099)">
     <path
        d="M 374.10937,116.67578 416.53516,74.25 437.75,95.460938 395.32422,137.88672 Z m 0,0"
        fill="#53433f"
@@ -496,7 +496,7 @@
   </g>
   <g
      id="g255"
-     transform="matrix(0.0073444,-0.0073444,0.0073444,0.0073444,26.255715,4.3572295)">
+     transform="matrix(0.0073444,-0.0073444,0.0073444,0.0073444,26.122465,4.3572295)">
     <path
        d="m 512,275.77344 -63.64063,-63.64063 -63.63671,63.64063 10.60546,53.03125 53.03125,10.60547 z m 0,0"
        fill="#c6e2e7"
@@ -528,7 +528,7 @@
   </g>
   <g
      id="g319"
-     transform="matrix(0.00918604,0,0,0.00918604,75.462333,2.5753269)">
+     transform="matrix(0.00918604,0,0,0.00918604,75.33095,2.5753269)">
     <path
        d="m 240.97656,134.03516 h 30 V 497 h -30 z m 0,0"
        fill="#a8d3d8"
@@ -604,7 +604,7 @@
   </g>
   <g
      id="g224-6"
-     transform="matrix(0.00887988,0,0,0.00887988,8.5348089,2.7320808)">
+     transform="matrix(0.00887988,0,0,0.00887988,9.2945092,2.7320808)">
     <path
        d="M 330,331 254.09766,379.89844 196.80078,364.30078 180,361 30,331 93.300781,282.10156 150,295 Z m 0,0"
        fill="#ff6666"
@@ -664,7 +664,7 @@
   </g>
   <g
      id="g368-2"
-     transform="matrix(0.00887988,0,0,0.00887988,43.554741,2.7320808)">
+     transform="matrix(0.00887988,0,0,0.00887988,43.010463,2.7320808)">
     <path
        d="M 60,0 V 91 H 210 V 0 Z m 0,0"
        fill="#deecf1"
