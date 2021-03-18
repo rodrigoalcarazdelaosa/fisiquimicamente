@@ -4,3 +4,5 @@ github.com/twitter/twemoji v13.0.1+incompatible h1:w1epB4MnDMK11c0jBmCNuVQtRJfRd
 github.com/twitter/twemoji v13.0.1+incompatible/go.mod h1:06L6PdKuWDx/Yh6s4B7yGkAeBmWZzbFZgfNnWlJPPYM=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210308212518-cf32fde82412 h1:b+jVPvLDCUVMVpoY+cXmpPrQEsms/6rej/8xQfVHPV0=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210308212518-cf32fde82412/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210308212518-cf32fde82412 h1:vKxA74yfBGN5g/4BaO+B0FRIxdyIuBHrTq5uC+axbRc=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210308212518-cf32fde82412/go.mod h1:AKpYbqUVlj0VYsc7Jsxe1o8Ko2yV31A5ZPdfpACcXJw=

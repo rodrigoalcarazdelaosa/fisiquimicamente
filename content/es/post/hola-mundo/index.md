@@ -68,4 +68,4 @@ Además, puedes **escribirnos** bien utilizando el [**formulario** de **contacto
 
 En la **esquina inferior derecha** puedes ver este **icono** <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">. Pinchando en él puedes iniciar un **chat en directo** con nosotros tras introducir tu nombre (el correo electrónico es opcional, solo si deseas que podamos contactarte en caso de no coincidir en el chat).
 
-Espero que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amigo/a.
+Esperamos que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amigo/a.
