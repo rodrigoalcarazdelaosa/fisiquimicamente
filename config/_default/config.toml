@@ -104,9 +104,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     weight = 40.0
 	
 # Install Wowchemy and Twemoji
-[module]
-  [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
+[module]  
   [[module.imports]]
     path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
   [[module.imports]]
