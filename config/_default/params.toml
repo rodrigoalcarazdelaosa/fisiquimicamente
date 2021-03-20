@@ -275,8 +275,8 @@ footer = {show_translations = true}
 ############################
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = false  
-  # publish_mode = "editorial_workflow"
+  netlify_cms = true
+  publish_mode = "editorial_workflow"
 
 ############################
 ## Icon Pack Extensions
