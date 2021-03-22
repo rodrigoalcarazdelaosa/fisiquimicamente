@@ -4,6 +4,9 @@ url: "/ca/recursos-fisica-quimica/apunts/formulacio-nomenclatura-quimica/organic
 subtitle: Recomanacions i noms preferits de la IUPAC de 2013
 summary: "`🔜 PROPERAMENT` <br> Recomanacions i noms preferits de la IUPAC de 2013."
 breadcrumbs: ["recursos-fisica-quimica","apunts","formulacio-nomenclatura-quimica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - formulació
 - nomenclatura
@@ -19,6 +22,12 @@ external_link: ""
 image:
   caption: https://iupac.org/what-we-do/books/bluebook/
   focal_point: Smart
+
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: formulacio-nomenclatura-organica-poster.pdf
 ---
 
 {{% callout soon %}}
