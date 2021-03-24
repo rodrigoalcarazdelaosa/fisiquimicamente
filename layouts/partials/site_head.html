@@ -22,9 +22,6 @@
   
     {{ $scr := .Scratch }}
   
-    {{ $media_dir := site.Params.media_dir | default "media" }}
-    {{ $scr.Set "media_dir" $media_dir }}
-  
     {{/* Attempt to load superuser. */}}
     {{ $superuser_name := "" }}
     {{ $superuser_username := "" }}
@@ -228,9 +225,7 @@
       {{ $og_image = ($avatar_image.Fill "270x270 Center").Permalink }}
       {{ $twitter_card = "summary" }}
     {{ else if $featured_image }}
-      {{ $og_image = $featured_image.Permalink }}
-    {{ else if .Params.header.image }}
-      {{ $og_image = printf "%s/%s" $media_dir .Params.header.image | absURL }}
+      {{ $og_image = $featured_image.Permalink }}    
     {{ else if $sharing_image }}
       {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
         {{ $og_image = $sharing_image.Permalink }}
