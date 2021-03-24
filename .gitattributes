@@ -1,2 +1,1 @@
-static/media/pildoras-ciencia/** filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/media/pildoras-ciencia/** filter=lfs diff=lfs merge=lfs -text
