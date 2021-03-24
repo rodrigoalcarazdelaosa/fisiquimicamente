@@ -24,3 +24,9 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = “/arc-sw.js”
+  to = “https://arc.io/arc-sw.js"
+  status = 200
+  force = true    
