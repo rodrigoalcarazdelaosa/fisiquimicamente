@@ -141,7 +141,7 @@ La **ecuaciones principales** del MRUA son:
 	v^2-v_0^2 &= 2a\Delta x \tag{3}
 \end{align*}
 
-donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
+donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $v$ la velocidad final, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
 
 ---
 
