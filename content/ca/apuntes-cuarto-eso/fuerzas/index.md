@@ -19,10 +19,10 @@ image:
   focal_point: Smart
 
 links:
-#- icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: fuerzas-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: forces-poster.pdf
 
 slides: 
 ---
