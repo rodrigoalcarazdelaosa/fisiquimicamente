@@ -4,6 +4,9 @@ url: "/ca/recursos-fisica-quimica/apunts/4eso/forces"
 subtitle: Lleis de Newton i forces d'especial interès
 summary: "`🔜 PROPERAMENT` <br> Lleis de Newton i forces d'especial interès."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- eduard-cremades
 tags:
 - 4t ESO
 - forces
