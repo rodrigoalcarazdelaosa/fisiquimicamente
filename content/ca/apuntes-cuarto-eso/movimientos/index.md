@@ -4,6 +4,9 @@ url: "/ca/recursos-fisica-quimica/apunts/4eso/moviments"
 subtitle: MRU, MRUA i MCU
 summary: "`🔜 PROPERAMENT` <br> MRU, MRUA i MCU."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - 4t ESO
 - moviment
@@ -19,10 +22,10 @@ image:
   focal_point: Smart
 
 links:
-#- icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: movimientos-poster.pdf  
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: moviments-poster.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
