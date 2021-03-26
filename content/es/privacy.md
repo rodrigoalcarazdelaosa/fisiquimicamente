@@ -18,10 +18,13 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) para tipografías[^2].
 - [<img draggable="false" class="icon" alt="google-maps" src="/icon/google-maps.svg"> Google Maps](https://policies.google.com/privacy) para mapas.
 - [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy) para el [formulario de contacto](/#contacto).
-- [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) y [{{< icon name="font-awesome" pack="fab" >}} FontAwesome](https://fontawesome.com/privacy) para emojis e iconos.
+- [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) y [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) para emojis e iconos.
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) para los [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) para el chat personal (esquina inferior derecha <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
-- [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) para el widget de [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) (esquina inferior izquierda {{< icon name="comments" pack="fas" >}}).
+- [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) para acelerar y monetizar[^3] la web (esquina inferior izquierda <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) para la [licencia](/licencia).
+<!-- - [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) para el widget de [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) (esquina inferior izquierda {{< icon name="comments" pack="fas" >}}). -->
 
 [^2]: Actualmente la web utiliza las tipografías [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) e [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
+
+[^3]: Con el fin de cubrir los gastos de la web relacionados con el dominio y el alojamiento.

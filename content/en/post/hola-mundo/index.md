@@ -44,7 +44,7 @@ The posts in this blog are aimed at our students and anyone else who is curious 
 
 Do you know [Discord](https://discord.com/)? [Join the Discord server of <img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
 
-Also, in the **lower left corner** you can see this **icon** {{< icon name="comments" pack="fas" >}}. By clicking on it you can write directly in any channel on the server after logging in (scroll down to the *ENGLISH* section).
+<!-- Also, in the **bottom left corner** you can see this **icon** {{< icon name="comments" pack="fas" >}}. By clicking on it you can write directly in any channel on the server after logging in (scroll down to the *ENGLISH* section). -->
 
 ### Kudos
 
@@ -60,6 +60,6 @@ If you don't want to miss any **updates** you can **subscribe** to the [**RSS** 
 Also, you can write us either using the [**contact form**]({{< ref "/#contact" >}}), or by writing us directly an [**email**](mailto:fisiquimicamente@gmail.com) or from [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). You can also follow me on [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) or [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
 
 #### Live Chat
-In the **lower right corner** you can see this **icon** <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">. By clicking on it you can start a **live chat** with us after entering your name (the email is optional, only if you want us to be able to contact you in case we don't coincide in the chat).
+In the **bottom right corner** you can see this **icon** <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">. By clicking on it you can start a **live chat** with us after entering your name (the email is optional, only if you want us to be able to contact you in case we don't coincide in the chat).
 
 We hope you enjoy this space and that it's useful to you. Feel free to join in whenever you like. We are in touch, my friend.
