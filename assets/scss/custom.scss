@@ -129,7 +129,7 @@ blockquote {
 }
 
 .fancybox-container {
-  z-index: 9999999999;
+  z-index: 9999999999999999999;
 }
 
 .fancybox-caption a, .fancybox-caption a:link, .fancybox-caption a:visited {
@@ -1078,7 +1078,7 @@ applause-button {
   right: 0;
   background-color: $primary;
   color: #ffffff;
-  z-index: 9999999999;
+  z-index: 9999999999999999999;
 }
 
 .popup-wrapper {
@@ -1178,7 +1178,7 @@ a.footnote-backref:hover {
  **************************************************/
 
 .cc-window {
-  z-index: 9999999999 !important;
+  z-index: 9999999999999999999 !important;
 }
 
 .cc-message {
@@ -1205,6 +1205,14 @@ a.cc-link:active, a.cc-link:hover, a.cc-link:visited {
 
 .tooltip-inner {
   font-family: $sta-font-nav, sans-serif;	
+}
+
+/*************************************************
+ *  Arc Widget
+ **************************************************/
+
+div#arc-widget-container[data-v-5f5363b5] {
+  z-index: 1 !important;	
 }
 
 ///*************************************************
