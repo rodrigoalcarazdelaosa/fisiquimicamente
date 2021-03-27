@@ -97,7 +97,9 @@ La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en con
 $$
 f_\mathrm r = \mu N,
 $$
-donde $\mu$ es el coeficiente de rozamiento.
+donde $\mu$ es el coeficiente de rozamiento[^1].
+
+[^1]: En [esta tabla, tomada de la entrada sobre fricción en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Friction#Approximate_coefficients_of_friction), puedes ver coeficientes de rozamiento aproximados entre dos materiales dados.
 
 {{< figure library="true" src="fuerzas-4ESO/rozamiento.svg" title="Fuerza de rozamiento en a) una superficie horizontal, b) un plano inclinado y c) una superficie vertical." lightbox="false" width="100%" >}}
 
