@@ -62,7 +62,7 @@ Si no quieres perderte ninguna **actualización** puedes **suscribirte** al **ca
 
 ### Contactándonos
 
-Además, puedes **escribirnos** bien utilizando el [**formulario** de **contacto**]({{< ref "/#contacto" >}}), bien escribiéndonos directamente un [**correo electrónico**](mailto:fisiquimicamente@gmail.com) o bien desde [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). También puedes seguirnos en [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
+Además, puedes **escribirnos** bien utilizando el [**formulario** de **contacto**]({{< ref "/#contacto" >}}), bien escribiéndonos directamente un [**correo electrónico**](mailto:contacto@fisiquimicamente.com) o bien desde [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). También puedes seguirnos en [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
 
 #### Chat en directo
 
