@@ -37,3 +37,5 @@ Apuntes sobre ácido-base, en formato texto y póster (tipo _chuleta_).
 {{% callout soon %}}
 Próximamente...
 {{% /callout %}}
+
+<!-- https://commons.wikimedia.org/wiki/File:Autoionizacion-agua.gif -->
