@@ -17,7 +17,7 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"> Netlify](https://www.netlify.com/privacy/) pel seu desplegament/servei.
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) per tipografies[^2].
 - [<img draggable="false" class="icon" alt="google-maps" src="/icon/google-maps.svg"> Google Maps](https://policies.google.com/privacy) per mapes.
-- [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy) pel [formulari de contacte](/#contacto).
+- [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy) pel [formulari de contacte](/ca/#contacte).
 - [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) i [{{< icon name="font-awesome" pack="fab" >}} FontAwesome](https://fontawesome.com/privacy) per emojis i icones.
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) pels [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) pel xat personal (cantonada inferior dreta <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
