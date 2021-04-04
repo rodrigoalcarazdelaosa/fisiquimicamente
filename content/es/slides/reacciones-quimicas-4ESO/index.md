@@ -173,6 +173,12 @@ $$
 
 ---
 
+Puedes aprender más con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+---
+
 ### Ejemplo
 
 <q>El ácido clorhídrico reacciona con el hidróxido de calcio para producir cloruro de calcio y agua. Calcula el volumen de ácido clorhídrico 0.25 M que se necesita para reaccionar con 50 mL de hidróxido de calcio 0.5 M.</q>
