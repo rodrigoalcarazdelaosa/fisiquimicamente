@@ -4,6 +4,9 @@ url: "/ca/recursos-fisica-quimica/apunts/2eso-3eso/materia"
 subtitle: Propietats, estats d'agregació i mescles
 summary: "`🔜 PROPERAMENT` <br> Propietats, estats d'agregació i mescles."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - 2n ESO
 - 3r ESO
@@ -21,10 +24,10 @@ image:
   focal_point: Smart
 
 links:
-#- icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: materia-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: materia-poster.pdf
   
 slides:
 ---
