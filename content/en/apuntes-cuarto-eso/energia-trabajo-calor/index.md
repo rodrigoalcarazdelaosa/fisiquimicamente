@@ -4,6 +4,9 @@ url: "/en/physics-chemistry-notes/15-16-year-olds/energy-work-heat"
 subtitle: Energy and its Forms of Exchange (Work and Heat)
 summary: "`🔜 COMING SOON` <br> Energy and its Forms of Exchange (Work and Heat)."
 breadcrumbs: ["notes","15-16-year-olds"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alicia-sampedro
 tags:
 - 15-16-year-olds
 - energy
@@ -18,16 +21,11 @@ image:
   caption: Image by [**Hans Braxmeier**](https://pixabay.com/es/users/hans-2/) on [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#  icon: file-download
-#  name: PDF Texto
-#  url: movimientos_texto.pdf
-  
-# - icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: movimientos_poster.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Poster
+  url: energy-work-heat-poster.pdf
 ---
 
 {{% callout soon %}}
