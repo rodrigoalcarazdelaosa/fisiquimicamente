@@ -2,7 +2,7 @@
 title: Galicia 2016
 url: "/recursos-fisica-quimica/oposiciones/fisica/galicia-2016-E1"
 subtitle: Ejercicio 1
-summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Ejercicio 1."
+summary: "Ejercicio 1."
 authors:
 - rodrigo-alcaraz-de-la-osa
 - jesica-sanchez-mazon
