@@ -4,6 +4,9 @@ url: "/ca/recursos-fisica-quimica/apunts/3eso/lleis-gasos"
 subtitle: Llei de Boyle-Mariotte, llei de Charles i llei de Gay-Lussac
 summary: "`🔜 PROPERAMENT` <br> Llei de Boyle-Mariotte, llei de Charles i llei de Gay-Lussac."
 breadcrumbs: ["recursos-fisica-quimica","apunts","3reso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - 3r ESO
 - gasos
@@ -20,10 +23,10 @@ image:
   focal_point: Smart
 
 links:
-#- icon_pack: fas
-#  icon: file-download
- # name: Póster
- # url: leyes-gases-poster.pdf  
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: lleis-gasos-poster.pdf  
 
 slides: ""  
 ---
