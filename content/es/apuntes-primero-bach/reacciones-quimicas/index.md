@@ -36,6 +36,8 @@ image:
 
 <!-- Añadir actividad de Miguel Quiroga: https://www.miguelquiroga.es/la-materia/el-vuelo-1023 -->
 
+<!-- Añadir práctica virtual del fqsaja: https://twitter.com/fqsaja1/status/1380404765318864896 -->
+
 Apuntes sobre reacciones químicas, en formato texto y póster (tipo _chuleta_).
 
 {{% callout soon %}}
