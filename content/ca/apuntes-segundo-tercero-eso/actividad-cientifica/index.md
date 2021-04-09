@@ -4,6 +4,9 @@ url: "/ca/recursos-fisica-quimica/apunts/2eso-3eso/activitat-cientifica"
 subtitle: "Mètode científic, magnituds i laboratori escolar"
 summary: "`🔜 PROPERAMENT` <br> Mètode científic. Magnituds. Laboratori escolar."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- eduard-cremades
 tags:
 - 2n ESO
 - 3r ESO
@@ -21,10 +24,10 @@ image:
   focal_point: Smart
 
 links:
-# - icon_pack: fas
-# icon: download
-#  name: PDF Texto
-#  url: movimientos_texto.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: activitat-cientifica-poster.pdf
   
 gallery_item:
 - album: pictogramas-peligro
