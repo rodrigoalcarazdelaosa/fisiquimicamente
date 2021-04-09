@@ -4,6 +4,9 @@ url: "/ca/recursos-fisica-quimica/apunts/2eso-3eso/elements-compostos"
 subtitle: Taula periòdica dels elements, unions entre àtoms i elements i compostos d'especial interès
 summary: "`🔜 PROPERAMENT` <br> Taula periòdica dels elements. Unions entre àtoms. Elements i compostos d'especial interès."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - 2n ESO
 - 3r ESO
@@ -20,10 +23,10 @@ image:
   focal_point: Smart
 
 links:
-#- icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: elementos-compuestos-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: elements-compostos-poster.pdf
   
 slides: 
 ---
