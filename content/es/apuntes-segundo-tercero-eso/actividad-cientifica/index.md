@@ -175,7 +175,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Instrumental
 
-{{< figure library="true" src="actividad-cientifica-2ESO-3ESO/instrumental.png" title=[http://iesparquegoya.es/files/FQ/Tema%201_La%20actividad%20cient%C3%ADfica_2ºESO.pdf](http://iesparquegoya.es/files/FQ/Tema%201_La%20actividad%20cient%C3%ADfica_2ºESO.pdf) lightbox="true" >}}
+{{< figure src="actividad-cientifica-2ESO-3ESO/instrumental.svg" title="[Iconos creados por Freepik de Flaticon](https://www.flaticon.com/packs/laboratory-equipment)" lightbox="false" width="100%" >}}
 
 ### Normas básicas de seguridad
 
