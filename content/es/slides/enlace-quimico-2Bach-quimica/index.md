@@ -86,6 +86,12 @@ Una molécula será polar si el momento dipolar total (suma vectorial) es distin
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/BF3.png" title="La molécula de BF<sub>3</sub> tiene tres enlaces polares pero debido a su geometría trigonal plana el momento dipolar resultante es nulo." lightbox="false" width="50%" >}}
 
+---
+
+Estudia la **polaridad** de **moléculas** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 {{% /section %}}
 
 ---
@@ -333,6 +339,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 - [TRPECV](#/6/1)
 - [TEV](#/6/15)
+- [Simulación](#/6/40)
 
 (continúa hacia abajo)
 
@@ -531,6 +538,14 @@ Cada carbono necesita formar un enlace triple (con el otro C) y un enlace simple
 ---
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-acetileno.svg" title="El enlace triple del acetileno consiste en un enlace $\sigma$ (sp&ndash;s) y dos enlaces $\pi$ (p&ndash;p)." lightbox="false" width="100%" >}}
+
+---
+
+### Simulación
+
+Explora las **formas moleculares** mediante la **construcción** de **moléculas** en **3D** con la siguiente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_es.html" width="100%" height="450" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
 

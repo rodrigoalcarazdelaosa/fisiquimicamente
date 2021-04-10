@@ -96,9 +96,16 @@ Son **grupos** eléctricamente **neutros** de **dos o más átomos** del mismo e
 
 #### Masa molecular
 La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos** y la **masa atómica** de cada **elemento**.
+
 ##### Ejemplos
 - $m(\ce{H2O}) = 2\cdot m(\ce{H}) + m(\ce{O})$
 - $m(\ce{H2SO4}) = 2\cdot m(\ce{H}) + m(\ce{S}) + 4\cdot m(\ce{O})$
+
+#### Simulación
+
+**Construye moléculas** con la siguiente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ### Cristales
 Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas** o **iones**) están dispuestos en una **estructura** microscópica **muy ordenada**, formando una red cristalina que **se extiende en todas las direcciones**.

@@ -161,6 +161,14 @@ El **enlace covalente** suele darse **entre no metales** (tendencia a captar ele
 
 ---
 
+#### Simulación
+
+**Construye moléculas** con la siguiente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
+
+---
+
 ### Propiedades de las sustancias covalentes cristalinas
 Las **sustancias covalentes cristalinas** contienen un gran número de **átomos neutros** unidos entre sí mediante **enlaces covalentes**, formando **láminas bidimensionales**, como el grafito o el grafeno, o **estructuras tridimensionales**, como el diamante o el cuarzo.
 

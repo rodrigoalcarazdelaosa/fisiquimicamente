@@ -61,6 +61,10 @@ Una molécula será polar si el momento dipolar total (suma vectorial) es distin
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/BF3.png" title="La molécula de BF<sub>3</sub> tiene tres enlaces polares pero debido a su geometría trigonal plana el momento dipolar resultante es nulo.  Fuente: https://commons.wikimedia.org/wiki/File:Boron-trifluoride-elpot-3D-vdW.png." lightbox="true" >}}
 
+Estudia la **polaridad** de **moléculas** con esta excelente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/molecule-polarity/latest/molecule-polarity_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Enlace iónico
 
 Es un enlace que involucra la **atracción electrostática** entre **iones** de **signo opuesto**. El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones, convirtiéndose en cationes) **y no metales** (tienden a captar electrones, convirtiéndose en aniones). Los compuestos iónicos forman **redes cristalinas** compactas y **neutras** con diferentes geometrías según el tipo de iones que las forman.
@@ -324,6 +328,12 @@ Cada carbono necesita formar un enlace triple (con el otro C) y un enlace simple
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-acetileno.svg" lightbox="false" width="100%" >}}
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-acetileno.svg" title="El enlace triple del acetileno consiste en un enlace $\sigma$ (sp&ndash;s) y dos enlaces $\pi$ (p&ndash;p). Adaptada de https://www.coursehero.com/sg/organic-chemistry/structure-of-alkynes/." lightbox="false" width="100%" >}}
+
+### Simulación
+
+Explora las **formas moleculares** mediante la **construcción** de **moléculas** en **3D** con la siguiente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Fuerzas intermoleculares
 

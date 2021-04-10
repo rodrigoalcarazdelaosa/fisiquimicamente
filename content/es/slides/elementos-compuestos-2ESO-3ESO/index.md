@@ -143,7 +143,7 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn.
 ## Uniones entre átomos
 - [Regla del octeto](#/3/1)
 - [Moléculas](#/3/4)
-- [Cristales](#/3/8)
+- [Cristales](#/3/9)
 
 (continúa hacia abajo)
 
@@ -163,7 +163,7 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 En función del número y tipo de átomos, distinguimos entre:
 
 - [**Moléculas**](#/3/4)
-- [**Cristales**](#/3/8)
+- [**Cristales**](#/3/9)
 
 ---
 
@@ -186,6 +186,14 @@ La **masa molecular** se calcula teniendo en cuenta el **número** de **átomos*
 ##### Ejemplos
 - $m(\mathrm{H_2 O}) = 2\cdot m(\mathrm{H}) + m(\mathrm{O})$
 - $m(\mathrm{H_2 SO_4}) = 2\cdot m(\mathrm{H}) + m(\mathrm{S}) + 4\cdot m(\mathrm{O})$
+
+---
+
+#### Simulación
+
+**Construye moléculas** con la siguiente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 ---
 
