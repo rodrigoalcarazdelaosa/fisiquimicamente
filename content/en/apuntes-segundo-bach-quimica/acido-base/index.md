@@ -1,6 +1,6 @@
 ---
 title: Acid-Base
-url: "/en/physics-chemistry-notes/17-18-year-olds/chemistry/acid-base"
+url: "/physics-chemistry-notes/17-18-year-olds/chemistry/acid-base"
 subtitle: Acid-Base Equilibrium
 summary: "`🔜 COMING SOON` <br> Acid-Base Equilibrium. Arrhenius' and Brönsted-Lowry's Theories. Concept of pH."
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]

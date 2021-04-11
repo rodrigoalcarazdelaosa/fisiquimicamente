@@ -1,6 +1,6 @@
 ---
 title: Estructura atòmica
-url: "/ca/recursos-fisica-quimica/apunts/2eso-3eso/estructura-atomica"
+url: "/recursos-fisica-quimica/apunts/2eso-3eso/estructura-atomica"
 subtitle: Teoria atòmica de Dalton, models atòmics, ions i isòtops
 summary: "`🔜 PROPERAMENT` <br> Teoria atòmica de Dalton, models atòmics, ions i isòtops."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]

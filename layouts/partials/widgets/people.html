@@ -49,10 +49,10 @@
   {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
     {{- if eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/" -}}
       {{ $link = "/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa/" }}	        
-	  {{- else if eq .RelPermalink "/en/author/rodrigo-alcaraz-de-la-osa/" -}}
-      {{ $link = "/en/team/physichemically/rodrigo-alcaraz-de-la-osa/" }}
-    {{- else if eq .RelPermalink "/ca/author/rodrigo-alcaraz-de-la-osa/" -}}
-      {{ $link = "/ca/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa/" }}      
+    {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "en") -}}
+      {{ $link = "/team/physichemically/rodrigo-alcaraz-de-la-osa/" }}
+    {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "ca") -}}
+      {{ $link = "/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa/" }}      
 	  {{- else -}}		  
 	    {{ $link = .RelPermalink }}
 	  {{- end -}}

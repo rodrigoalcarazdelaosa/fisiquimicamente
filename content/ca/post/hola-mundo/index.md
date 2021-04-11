@@ -17,7 +17,7 @@ Primera entrada del blog. Comença una aventura que portava molt temps (anys) am
 
 ## Qui som?
 
-[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/ca) és creada per [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) el 2020 com un lloc web on compartir principalment [⚛️ <span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) i [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) és creada per [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) el 2020 com un lloc web on compartir principalment [⚛️ <span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) i [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
 
 El 2021 es fa la transició cap a un lloc web més *impersonal*, millor preparat i obert per a futures col·laboracions. [Clica aquí si vols conèixer a l'**equip** que hi ha darrere]({{< ref "/equipo" >}}).
 
@@ -57,11 +57,11 @@ També pots <strong>compartir</strong> totes les <strong>entrades</strong> del <
 
 ### Subscrivint-te
 
-Si no et vols perdre cap **actualizació** pots **subscriure't** al **canal** [{{< icon name="rss" pack="fas" >}} **RSS**](/ca/index.xml).
+Si no et vols perdre cap **actualizació** pots **subscriure't** al **canal** [{{< icon name="rss" pack="fas" >}} **RSS**](/index.xml).
 
 ### Contactant-nos
 
-A més, pots **escriure'ns** o bé utilizant el [**formulari** de **contacte**]({{< ref "/#contacte" >}}), o bé escrivint-nos directament un [**correu electrònic**](mailto:contacte@fisiquimicamente.com) o bé des de [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). També pots seguir-nos a [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
+A més, pots **escriure'ns** o bé utilizant el [**formulari** de **contacte**]({{< ref "/#contacte" >}}), o bé escrivint-nos directament un [**correu electrònic**](mailto:contacte@fisiquimicament.com) o bé des de [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). També pots seguir-nos a [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
 
 #### Xat en directe
 

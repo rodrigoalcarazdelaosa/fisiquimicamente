@@ -1,6 +1,6 @@
 ---
 title: Enllaç químic
-url: "/ca/recursos-fisica-quimica/apunts/4eso/enllac-quimic"
+url: "/recursos-fisica-quimica/apunts/4eso/enllac-quimic"
 subtitle: Enllaç iònic, covalent i metàl·lic. Forces intermoleculars
 summary: "`🔜 PROPERAMENT` <br> Enllaç iònic, covalent i metàl·lic. Forces intermoleculars."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]

@@ -1,6 +1,6 @@
 ---
 title: Formulació i nomenclatura de Química Orgànica
-url: "/ca/recursos-fisica-quimica/apunts/formulacio-nomenclatura-quimica/organica"
+url: "/recursos-fisica-quimica/apunts/formulacio-nomenclatura-quimica/organica"
 subtitle: Recomanacions i noms preferits de la IUPAC de 2013
 summary: "`🔜 PROPERAMENT` <br> Recomanacions i noms preferits de la IUPAC de 2013."
 breadcrumbs: ["recursos-fisica-quimica","apunts","formulacio-nomenclatura-quimica"]

@@ -1,6 +1,6 @@
 ---
 title: Energia i treball
-url: "/ca/recursos-fisica-quimica/apunts/1batx/energia-treball"
+url: "/recursos-fisica-quimica/apunts/1batx/energia-treball"
 subtitle: Treball, potència i energia
 summary: "`🔜 PROPERAMENT` <br> Treball. Potència. Energia. Teorema de les forces vives. Sistemes conservatius."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]

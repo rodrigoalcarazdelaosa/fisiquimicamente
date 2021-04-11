@@ -1,6 +1,6 @@
 ---
 title: MHS
-url: "/ca/recursos-fisica-quimica/apunts/1batx/mhs"
+url: "/recursos-fisica-quimica/apunts/1batx/mhs"
 subtitle: Moviment harmònic simple
 summary: "`🔜 PROPERAMENT` <br> Moviment harmònic simple."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]

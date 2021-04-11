@@ -1,6 +1,6 @@
 ---
 title: Gràfics vectorials amb TikZ & PGF
-url: "/ca/tutorials/latex/tikz-pgf"
+url: "/tutorials/latex/tikz-pgf"
 linktitle: Gràfics vectorials amb TikZ & PGF
 toc: true
 type: book

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Eduard Cremades"
-url: "/en/team/collaborators/eduard-cremades"
+url: "team/collaborators/eduard-cremades"
 
 weight: 20
 

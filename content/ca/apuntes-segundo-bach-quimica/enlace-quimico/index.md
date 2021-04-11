@@ -1,6 +1,6 @@
 ---
 title: Enllaç químic
-url: "/ca/recursos-fisica-quimica/apunts/2batx/quimica/enllac-quimic"
+url: "/recursos-fisica-quimica/apunts/2batx/quimica/enllac-quimic"
 subtitle: Enllaç iònic, covalent i metàl·lic. Geometria molecular. Forces intermoleculars
 summary: "`🔜 PROPERAMENT` <br> Enllaç iònic, covalent i metàl·lic. Geometria molecular. Forces intermoleculars."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]

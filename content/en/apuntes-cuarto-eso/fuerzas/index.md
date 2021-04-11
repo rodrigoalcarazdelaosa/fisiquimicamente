@@ -1,6 +1,6 @@
 ---
 title: Forces
-url: "/en/physics-chemistry-notes/15-16-year-olds/forces"
+url: "/physics-chemistry-notes/15-16-year-olds/forces"
 subtitle: Newton's Laws and Forces of Special Interest
 summary: "`🔜 COMING SOON` <br> Newton's Laws and Forces of Special Interest."
 breadcrumbs: ["notes","15-16-year-olds"]

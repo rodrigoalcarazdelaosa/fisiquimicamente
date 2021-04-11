@@ -4,25 +4,28 @@
 
 # Configure the Spanish version of the site.
 [es]
+  baseURL = "https://fisiquimicamente.com/"
   languageCode = "es"
   contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   
 [en]
+  baseURL = "https://physichemically.com/"
   languageCode = "en"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   title = "PhysiChemically"
   [en.params]
   	description = "Physics and Chemistry Resources, Tutorials and Current Science"
-    email = "contact@fisiquimicamente.com"
+    email = "contact@physichemically.com"
 	  address = {region = "Cantabria", country = "Spain", country_code = "ES"}
 
 [ca]
+  baseURL = "https://fisiquimicament.com/"
   languageCode = "ca"
   contentDir = "content/ca"
   title = "FisiQuímicament"
   [ca.params]
     description = "Recursos de Física i Química, tutorials i ciència d'actualitat"
-    email = "contacte@fisiquimicamente.com"
+    email = "contacte@fisiquimicament.com"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]

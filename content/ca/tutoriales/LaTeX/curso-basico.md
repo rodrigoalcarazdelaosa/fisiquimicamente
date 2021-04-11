@@ -1,6 +1,6 @@
 ---
 title: Curs bàsic
-url: "/ca/tutorials/latex/curs-basic"
+url: "/tutorials/latex/curs-basic"
 linktitle: Curs bàsic
 toc: true
 type: book

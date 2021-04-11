@@ -1,6 +1,6 @@
 ---
 title: Motion
-url: "/en/physics-chemistry-notes/15-16-year-olds/motion"
+url: "/physics-chemistry-notes/15-16-year-olds/motion"
 subtitle: Linear and Circular Motion
 summary: "`🔜 COMING SOON` <br> Linear and Circular Motion."
 breadcrumbs: ["notes","15-16-year-olds"]

@@ -1,6 +1,6 @@
 ---
 title: Reaccions químiques
-url: "/ca/recursos-fisica-quimica/apunts/1batx/reaccions-quimiques"
+url: "/recursos-fisica-quimica/apunts/1batx/reaccions-quimiques"
 subtitle: Estequiometria, transformacions energètiques i espontaneïtat
 summary: "`🔜 PROPERAMENT` <br> Estequiometria, transformacions energètiques i espontaneïtat."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]

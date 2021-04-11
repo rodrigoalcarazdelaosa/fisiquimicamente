@@ -1,6 +1,6 @@
 ---
 title: Forces
-url: "/en/physics-chemistry-notes/13-14-year-olds/forces"
+url: "physics-chemistry-notes/13-14-year-olds/forces"
 subtitle: Main Forces of Nature and Their Effects
 summary: "`🔜 COMING SOON` <br> Main Forces of Nature and Their Effects."
 breadcrumbs: ["notes","13-14-year-olds"]

@@ -1,6 +1,6 @@
 ---
 title: Presentacions amb beamer
-url: "/ca/tutorials/latex/beamer"
+url: "/tutorials/latex/beamer"
 linktitle: Presentacions amb beamer
 toc: true
 type: book

@@ -1,6 +1,6 @@
 ---
 title: Cinètica química
-url: "/ca/recursos-fisica-quimica/apunts/2batx/quimica/cinetica-quimica"
+url: "/recursos-fisica-quimica/apunts/2batx/quimica/cinetica-quimica"
 subtitle: Velocitat i mecanismes de reacció
 summary: "`🔜 PROPERAMENT` <br> Velocitat de reacció. Equacions cinètiques. Ordre de reacció. Mecanismes de reacció."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]

@@ -1,6 +1,6 @@
 ---
 title: Física del s. XX
-url: "/ca/recursos-fisica-quimica/apunts/2batx/fisica/fisica-s-xx"
+url: "/recursos-fisica-quimica/apunts/2batx/fisica/fisica-s-xx"
 subtitle: Relativitat, física quàntica, física nuclear i radioactivitat
 summary: "`🔜 PROPERAMENT` <br> Relativitat. Física Quàntica. Física Nuclear. Radioactivitat."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]

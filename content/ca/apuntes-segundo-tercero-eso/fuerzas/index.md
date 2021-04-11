@@ -1,6 +1,6 @@
 ---
 title: Les forces
-url: "/ca/recursos-fisica-quimica/apunts/2eso/forces"
+url: "/recursos-fisica-quimica/apunts/2eso/forces"
 subtitle: Principals forces de la natura i els seus efectes
 summary: "`🔜 PROPERAMENT` <br> Principals forces de la natura i els seus efectes."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso"]

@@ -1,6 +1,6 @@
 ---
 title: Chemical Kinetics
-url: "/en/physics-chemistry-notes/17-18-year-olds/chemistry/chemical-kinetics"
+url: "physics-chemistry-notes/17-18-year-olds/chemistry/chemical-kinetics"
 subtitle: Reaction Rate and Mechanisms
 summary: "`🔜 COMING SOON` <br> Reaction Rate. Rate Equations. Reaction Order. Reaction Mechanisms."
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]

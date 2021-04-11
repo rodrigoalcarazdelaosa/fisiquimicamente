@@ -1,6 +1,6 @@
 ---
 title: Graphs with PGFPlots
-url: "/en/tutorials/latex/pgfplots"
+url: "tutorials/latex/pgfplots"
 linktitle: Graphs with PGFPlots
 toc: true
 type: book

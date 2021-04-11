@@ -1,6 +1,6 @@
 ---
 title: Pòsters amb beamerposter
-url: "/ca/tutorials/latex/beamerposter"
+url: "/tutorials/latex/beamerposter"
 linktitle: Pòsters amb beamerposter
 toc: true
 type: book

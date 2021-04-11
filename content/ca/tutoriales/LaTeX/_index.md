@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: $\LaTeX$
-url: "/ca/tutorials/latex"
+url: "/tutorials/latex"
 summary: Tutorials de $\LaTeX$.
 weight: 1
 

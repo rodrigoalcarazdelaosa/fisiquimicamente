@@ -1,6 +1,6 @@
 ---
 title: Motion
-url: "/en/physics-chemistry-notes/13-14-year-olds/motion"
+url: "physics-chemistry-notes/13-14-year-olds/motion"
 subtitle: Concepts of Speed and Acceleration
 summary: "`🔜 COMING SOON` <br> Concepts of Speed and Acceleration."
 breadcrumbs: ["notes","13-14-year-olds"]

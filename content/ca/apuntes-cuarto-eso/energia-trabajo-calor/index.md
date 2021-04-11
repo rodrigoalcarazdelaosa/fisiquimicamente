@@ -1,6 +1,6 @@
 ---
 title: Energia, treball i calor
-url: "/ca/recursos-fisica-quimica/apunts/4eso/energia-treball-calor"
+url: "/recursos-fisica-quimica/apunts/4eso/energia-treball-calor"
 subtitle: Energia i les seves formes d'intercanvi (treball i calor)
 summary: "`🔜 PROPERAMENT` <br> Energia i les seves formes d'intercanvi (treball i calor)."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]

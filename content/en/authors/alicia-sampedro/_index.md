@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Alicia Sampedro"
-url: "/en/team/collaborators/alicia-sampedro"
+url: "team/collaborators/alicia-sampedro"
 
 weight: 30
 

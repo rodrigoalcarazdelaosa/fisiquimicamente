@@ -1,6 +1,6 @@
 ---
 title: L'activitat científica
-url: "/ca/recursos-fisica-quimica/apunts/2eso-3eso/activitat-cientifica"
+url: "/recursos-fisica-quimica/apunts/2eso-3eso/activitat-cientifica"
 subtitle: "Mètode científic, magnituds i laboratori escolar"
 summary: "`🔜 PROPERAMENT` <br> Mètode científic. Magnituds. Laboratori escolar."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]

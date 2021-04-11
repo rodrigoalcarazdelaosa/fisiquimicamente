@@ -1,6 +1,6 @@
 ---
 title: Fluids
-url: "/ca/recursos-fisica-quimica/apunts/4eso/fluids"
+url: "/recursos-fisica-quimica/apunts/4eso/fluids"
 subtitle: Concepte de pressió, principis de la hidrostàtica i física de l'atmosfera
 summary: "`🔜 PROPERAMENT` <br> Concepte de pressió, principis de la hidrostàtica i física de l'atmosfera."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]

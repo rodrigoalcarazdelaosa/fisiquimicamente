@@ -1,6 +1,6 @@
 ---
 title: Redox
-url: "/ca/recursos-fisica-quimica/apunts/2batx/quimica/redox"
+url: "/recursos-fisica-quimica/apunts/2batx/quimica/redox"
 subtitle: Equilibri i ajust redox, piles galvàniques i electròlisi
 summary: "`🔜 PROPERAMENT` <br> Equilibri redox. Ajust redox. Piles galvàniques. Electròlisi."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]

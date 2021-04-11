@@ -1,6 +1,6 @@
 ---
 title: 👐🏼 Tutorials
-url: /en/tutorials
+url: tutorials
 
 # View.
 #   1 = List

@@ -124,7 +124,7 @@
 	{{ else if and (eq $widget "featurette") (eq $st.Title "⚛️ Recursos de Física i Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
 	        <li class="breadcrumb-item active" aria-current="page">⚛️ Recursos FiQ</li>
 	    </ol>
 	    </nav>					
@@ -139,15 +139,15 @@
     {{ else if and (eq $widget "featurette") (eq $st.Title "📚 Physics and Chemistry Notes") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">📚 Notes</li>
 	    </ol>
 		</nav>	
 	{{ else if and (eq $widget "featurette") (eq $st.Title "📚 Apunts de Física i Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
-	    	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
-	        <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apunts</li>
 	    </ol>
 	    </nav>
@@ -159,12 +159,12 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/">📚 Apuntes</a></li>
 			{{ else if eq site.Language.Lang "en" }}
-		  	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
-			<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/">📚 Notes</a></li>
+		  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
+			<li class="breadcrumb-item"><a href="/physics-chemistry-notes/">📚 Notes</a></li>
 			{{ else if eq site.Language.Lang "ca" }}
-	    	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
-	        <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
-	        <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/">📚 Apunts</a></li>
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/">📚 Apunts</a></li>
 			{{ end }}
 			{{ if eq $st.Params.subtitle "📓 2º Bach ☢️ Física" }}
 				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/">📓 2º Bach</a></li>		
@@ -173,16 +173,16 @@
 				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/">📓 2º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
 			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds ☢️ Physics" }}
-				<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/">📓 17&ndash;18 year-olds</a></li>		
+				<li class="breadcrumb-item"><a href="/physics-chemistry-notes/17-18-year-olds/">📓 17&ndash;18 year-olds</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">☢️ Physics</li>
 			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds ⚗️ Chemistry" }}
-				<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/">📓 17&ndash;18 year-olds</a></li>		
+				<li class="breadcrumb-item"><a href="/physics-chemistry-notes/17-18-year-olds/">📓 17&ndash;18 year-olds</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Chemistry</li>
 			{{ else if eq $st.Params.subtitle "📓 2n Batx ☢️ Física" }}
-				<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2batx/">📓 2n Batx</a></li>		
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx/">📓 2n Batx</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
 			{{ else if eq $st.Params.subtitle "📓 2n Batx ⚗️ Química" }}
-				<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2batx/">📓 2n Batx</a></li>		
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx/">📓 2n Batx</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>									
 			{{ else }}
 				<li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
@@ -201,17 +201,17 @@
 	{{ else if and (eq $widget "featurette") (eq $st.Title "📚 Notes") }}
 		<nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget"> 
-	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
-			<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/">📚 Notes</a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
+			<li class="breadcrumb-item"><a href="/physics-chemistry-notes/">📚 Notes</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>
 	{{ else if and (eq $widget "featurette") (eq $st.Title "📚 Apunts") }}
 		<nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget"> 
-	    	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
-	        <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
-			<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/">📚 Apunts</a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/">📚 Apunts</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>			
@@ -226,8 +226,8 @@
 	{{ else if and (eq $widget "featurette") (eq $st.Title "🎓 Recursos PAU/PBAU") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
-	        <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">🎓 PAU/PBAU</li>
 	    </ol>
 	    </nav>			
@@ -350,14 +350,14 @@
     {{ else if and (eq $widget "portfolio") (eq $st.Title "🔗 Online Resources") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🔗 Online Resources</li>
 	    </ol>
 	    </nav>	
 	{{ else if and (eq $widget "portfolio") (eq $st.Title "🔗 Recursos online") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🔗 Recursos online</li>
 	    </ol>
 	    </nav>				
@@ -371,14 +371,14 @@
 	{{ else if and (eq $widget "people") (eq $st.Title "👥 Meet the Team") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👥 Team</li>
 	    </ol>
 	    </nav>
 	{{ else if and (eq $widget "people") (eq $st.Title "👥 Coneix a l'equip") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👥 Equip</li>
 	    </ol>
 	    </nav>						
@@ -417,73 +417,73 @@
 	        <li class="breadcrumb-item active" aria-current="page">✈️ Estancias de investigación</li>
 	    </ol>
 	    </nav>							
-	{{ else if eq $.RelPermalink "/en/team/physichemically/rodrigo-alcaraz-de-la-osa/" }}
+	{{ else if eq $.RelPermalink "/team/physichemically/rodrigo-alcaraz-de-la-osa/" }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
-	        <li class="breadcrumb-item"><a href="/en/team">👥 Team</a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/team">👥 Team</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 Rodrigo Alcaraz de la Osa</li>
 	    </ol>
 		</nav>
 	{{ else if and (eq $widget "about") (eq $st.Title "👨‍🎓 Interests and Education") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
-			<li class="breadcrumb-item"><a href="/en/team">👥 Team</a></li>			
-			<li class="breadcrumb-item"><a href="/en/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
+			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
+			<li class="breadcrumb-item"><a href="/team">👥 Team</a></li>			
+			<li class="breadcrumb-item"><a href="/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Interests and Education</li>
 	    </ol>
 		</nav>
 	{{ else if and (eq $widget "experience") (eq $st.Title "👣 Career Path") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
-			<li class="breadcrumb-item"><a href="/en/team">👥 Team</a></li>			
-			<li class="breadcrumb-item"><a href="/en/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
+			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
+			<li class="breadcrumb-item"><a href="/team">👥 Team</a></li>			
+			<li class="breadcrumb-item"><a href="/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">👣 Career Path</li>
 	    </ol>
 		</nav>
 	{{ else if and (eq $widget "experience") (eq $st.Title "✈️ Research Stays") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-			<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
-			<li class="breadcrumb-item"><a href="/en/team">👥 Team</a></li>			
-			<li class="breadcrumb-item"><a href="/en/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
+			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
+			<li class="breadcrumb-item"><a href="/team">👥 Team</a></li>			
+			<li class="breadcrumb-item"><a href="/team/physichemically/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">✈️ Research Stays</li>
 	    </ol>
 		</nav>	
-	{{ else if eq $.RelPermalink "/ca/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa/" }}
+	{{ else if eq $.RelPermalink "/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa/" }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-	    	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
-			<li class="breadcrumb-item"><a href="/ca/equip">👥 Equip</a></li>			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+			<li class="breadcrumb-item"><a href="/equip">👥 Equip</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🔬 Rodrigo Alcaraz de la Osa</li>			
 	    </ol>
 		</nav>				
 	{{ else if and (eq $widget "about") (eq $st.Title "👨‍🎓 Interessos i formació") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-			<li class="breadcrumb-item"><a href="/ca"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
-			<li class="breadcrumb-item"><a href="/ca/equip">👥 Equip</a></li>			
-			<li class="breadcrumb-item"><a href="/ca/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>			
+			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+			<li class="breadcrumb-item"><a href="/equip">👥 Equip</a></li>			
+			<li class="breadcrumb-item"><a href="/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Interessos i formació</li>
 	    </ol>
 		</nav>		
 	{{ else if and (eq $widget "experience") (eq $st.Title "👣 Trajectòria professional") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-			<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
-			<li class="breadcrumb-item"><a href="/ca/equip">👥 Equip</a></li>			
-			<li class="breadcrumb-item"><a href="/ca/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>			
+			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+			<li class="breadcrumb-item"><a href="/equip">👥 Equip</a></li>			
+			<li class="breadcrumb-item"><a href="/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">👣 Trajectòria professional</li>
 	    </ol>
 		</nav>
 	{{ else if and (eq $widget "experience") (eq $st.Title "✈️ Estades de recerca") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
-			<li class="breadcrumb-item"><a href="/ca"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
-			<li class="breadcrumb-item"><a href="/ca/equip">👥 Equip</a></li>			
-			<li class="breadcrumb-item"><a href="/ca/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
+			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+			<li class="breadcrumb-item"><a href="/equip">👥 Equip</a></li>			
+			<li class="breadcrumb-item"><a href="/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa">👨‍🔬 Rodrigo Alcaraz de la Osa</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">✈️ Estades de recerca</li>
 	    </ol>
 	    </nav>														

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Òscar Colomar"
-url: "/en/team/collaborators/oscar-colomar"
+url: "team/collaborators/oscar-colomar"
 
 weight: 10
 

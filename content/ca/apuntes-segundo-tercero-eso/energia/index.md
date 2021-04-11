@@ -1,6 +1,6 @@
 ---
 title: Energia
-url: "/ca/recursos-fisica-quimica/apunts/2eso-3eso/energia"
+url: "/recursos-fisica-quimica/apunts/2eso-3eso/energia"
 subtitle: Concepte d'energia. Transformacions energètiques. Calor i temperatura. Fonts d'energia
 summary: "`🔜 PROPERAMENT` <br> Concepte d'energia. Transformacions energètiques. Calor i temperatura. Fonts d'energia."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]

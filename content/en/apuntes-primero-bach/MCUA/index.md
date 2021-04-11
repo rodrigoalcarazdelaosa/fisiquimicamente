@@ -1,6 +1,6 @@
 ---
 title: UACM
-url: "/en/physics-chemistry-notes/16-17-year-olds/uacm"
+url: "/physics-chemistry-notes/16-17-year-olds/uacm"
 subtitle: Uniformly Accelerated Circular Motion
 summary: "`🔜 COMING SOON` <br> Uniformly Accelerated Circular Motion and Dynamics of the Circular Motion."
 breadcrumbs: ["notes","16-17-year-olds"]

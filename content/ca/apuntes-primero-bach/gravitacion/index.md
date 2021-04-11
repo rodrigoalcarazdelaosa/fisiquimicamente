@@ -1,6 +1,6 @@
 ---
 title: Gravitació
-url: "/ca/recursos-fisica-quimica/apunts/1batx/gravitacio"
+url: "/recursos-fisica-quimica/apunts/1batx/gravitacio"
 subtitle: Llei de gravitació universal i lleis de Kepler
 summary: "`🔜 PROPERAMENT` <br> Forces centrals. Llei de gravitació universal. Lleis de Kepler."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]

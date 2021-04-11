@@ -1,6 +1,5 @@
 [build]
   command = "hugo --gc --minify -b $URL"
-  publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.82.0"
@@ -24,6 +23,18 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/en/*"
+  to = "https://physichemically.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ca/*"
+  to = "https://fisiquimicament.com/:splat"
+  status = 301
+  force = true  
 
 [[redirects]]
   from = "/arc-sw.js"

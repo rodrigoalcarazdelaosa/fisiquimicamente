@@ -1,6 +1,6 @@
 ---
 title: Sistema periòdic
-url: "/ca/recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic"
+url: "/recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic"
 subtitle: Taula periòdica, configuració electrònica i propietats periòdiques
 summary: "`🔜 PROPERAMENT` <br> Taula periòdica i configuració electrònica. Propietats periòdiques."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]

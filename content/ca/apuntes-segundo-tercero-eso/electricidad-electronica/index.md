@@ -1,6 +1,6 @@
 ---
 title: Electricitat i electrònica
-url: "/ca/recursos-fisica-quimica/apunts/2eso-3eso/electricitat-electronica"
+url: "/recursos-fisica-quimica/apunts/2eso-3eso/electricitat-electronica"
 subtitle: Circuits elèctrics, llei d'Ohm, dispositius electrònics i aspectes industrials de l'energia
 summary: "`🔜 PROPERAMENT` <br> Electricitat i circuits elèctrics. Llei d'Ohm. Dispositius electrònics. Aspectes industrials de l'energia."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]

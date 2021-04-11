@@ -1,6 +1,6 @@
 ---
 title: Química orgànica
-url: "/ca/recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica"
+url: "/recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica"
 subtitle: 
 summary: "`🔜 PROPERAMENT`"
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]

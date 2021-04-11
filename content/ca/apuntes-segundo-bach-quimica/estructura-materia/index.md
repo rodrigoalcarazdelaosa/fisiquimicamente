@@ -1,6 +1,6 @@
 ---
 title: Estructura de la matèria
-url: "/ca/recursos-fisica-quimica/apunts/2batx/quimica/estructura-materia"
+url: "/recursos-fisica-quimica/apunts/2batx/quimica/estructura-materia"
 subtitle: Mecànica quàntica, orbitals atòmics, estructura electrònica i partícules subatòmiques
 summary: "`🔜 PROPERAMENT` <br> Mecànica quàntica, orbitals atòmics, estructura electrònica i partícules subatòmiques."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]

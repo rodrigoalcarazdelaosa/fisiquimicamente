@@ -69,83 +69,77 @@
   {{ if eq site.Language.Lang "es" }}
   	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>
 	{{ else if eq site.Language.Lang "en" }}
-  	<li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
   {{ else if eq site.Language.Lang "ca" }}
-  	<li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
   {{ end }}
     {{ range $page.Params.breadcrumbs }}
     {{ if and (eq . "recursos-fisica-quimica") (eq site.Language.Lang "es") }}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
     {{ else if and (eq . "recursos-fisica-quimica") (eq site.Language.Lang "ca") }}
-    <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
     {{else if eq . "apuntes"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/">📚 Apuntes</a></li>
     {{else if eq . "notes"}}
-    <li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/">📚 Notes</a></li>
+    <li class="breadcrumb-item"><a href="/physics-chemistry-notes/">📚 Notes</a></li>
     {{else if eq . "apunts"}}
-    <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/">📚 Apunts</a></li>
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/">📚 Apunts</a></li>
     {{else if eq . "2eso"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2eso">📗 2º ESO</a></li>
     {{else if eq . "13-14-year-olds"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/13-14-year-olds">📗 13&ndash;14 year-olds</a></li>
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/13-14-year-olds">📗 13&ndash;14 year-olds</a></li>
     {{else if eq . "2neso"}}
-  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2eso">📗 2n ESO</a></li>
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2eso">📗 2n ESO</a></li>
     {{else if eq . "3eso"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/3eso">📘 3º ESO</a></li>
     {{else if eq . "14-15-year-olds"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/14-15-year-olds">📘 14&ndash;15 year-olds</a></li>
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/14-15-year-olds">📘 14&ndash;15 year-olds</a></li>
     {{else if eq . "3reso"}}
-  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/3eso">📘 3r ESO</a></li>
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/3eso">📘 3r ESO</a></li>
     {{else if eq . "2eso-3eso"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2eso">📗 2º ESO</a> · <a href="/recursos-fisica-quimica/apuntes/3eso">📘 3º ESO</a></li>	
     {{else if eq . "13-15-year-olds"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/13-14-year-olds">📗 13&ndash;14 year-olds</a> · <a href="/en/physics-chemistry-notes/14-15-year-olds">📘 14&ndash;15 year-olds</a></li>
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/13-14-year-olds">📗 13&ndash;14 year-olds</a> · <a href="/physics-chemistry-notes/14-15-year-olds">📘 14&ndash;15 year-olds</a></li>
     {{else if eq . "2neso-3reso"}}
-  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2eso">📗 2n ESO</a> · <a href="/ca/recursos-fisica-quimica/apunts/3eso">📘 3r ESO</a></li>
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2eso">📗 2n ESO</a> · <a href="/recursos-fisica-quimica/apunts/3eso">📘 3r ESO</a></li>
     {{else if eq . "4eso"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/4eso">📙 4º ESO</a></li>
     {{else if eq . "15-16-year-olds"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/15-16-year-olds">📙 15&ndash;16 year-olds</a></li>	
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/15-16-year-olds">📙 15&ndash;16 year-olds</a></li>	
     {{else if eq . "4teso"}}
-  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/4eso">📙 4t ESO</a></li>	
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/4eso">📙 4t ESO</a></li>	
     {{else if eq . "1bach"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/1bach">📕 1º Bach</a></li>
     {{else if eq . "16-17-year-olds"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/16-17-year-olds">📕 16&ndash;17 year-olds</a></li>	
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/16-17-year-olds">📕 16&ndash;17 year-olds</a></li>	
     {{else if eq . "1batx"}}
-  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/1batx">📕 1r Batx</a></li>
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/1batx">📕 1r Batx</a></li>
     {{else if eq . "2bach"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach">📓 2º Bach</a></li>
     {{else if eq . "17-18-year-olds"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds">📓 17&ndash;18 year-olds</a></li>
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/17-18-year-olds">📓 17&ndash;18 year-olds</a></li>
     {{else if eq . "2batx"}}
-  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2batx">📓 2n Batx</a></li>
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx">📓 2n Batx</a></li>
     {{ else if and (eq . "fisica") (eq site.Language.Lang "es") }}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/fisica">☢️ Física</a></li>
     {{else if eq . "physics"}}
-    <li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/physics">☢️ Physics</a></li>
+    <li class="breadcrumb-item"><a href="/physics-chemistry-notes/17-18-year-olds/physics">☢️ Physics</a></li>
     {{ else if and (eq . "fisica") (eq site.Language.Lang "ca") }}
-    <li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2batx/fisica">☢️ Física</a></li>
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx/fisica">☢️ Física</a></li>
     {{ else if and (eq . "quimica") (eq site.Language.Lang "es") }}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/quimica">⚗️ Química</a></li>
     {{else if eq . "chemistry"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/17-18-year-olds/chemistry">⚗️ Chemistry</a></li>
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/17-18-year-olds/chemistry">⚗️ Chemistry</a></li>
     {{ else if and (eq . "quimica") (eq site.Language.Lang "ca") }}
-  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/2batx/quimica">⚗️ Química</a></li>	
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx/quimica">⚗️ Química</a></li>	
     {{else if eq . "formulacion-nomenclatura-quimica"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
     {{else if eq . "nomenclature-chemistry"}}
-  	<li class="breadcrumb-item"><a href="/en/physics-chemistry-notes/nomenclature-chemistry">📔 Nomenclature of Chemistry</a></li>
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/nomenclature-chemistry">📔 Nomenclature of Chemistry</a></li>
     {{else if eq . "formulacio-nomenclatura-quimica"}}
-  	<li class="breadcrumb-item"><a href="/ca/recursos-fisica-quimica/apunts/formulacio-nomenclatura-quimica">📔 Formulació i nomenclatura de Química</a></li>
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/formulacio-nomenclatura-quimica">📔 Formulació i nomenclatura de Química</a></li>
     {{else if eq . "blog"}}
-    {{ if eq site.Language.Lang "es" }}
-  	<li class="breadcrumb-item"><a href="/post/">✍🏼 Blog</a></li>
-	  {{ else if eq site.Language.Lang "en" }}	
-  	<li class="breadcrumb-item"><a href="/en/post/">✍🏼 Blog</a></li>
-    {{ else if eq site.Language.Lang "ca" }}	
-  	<li class="breadcrumb-item"><a href="/ca/post/">✍🏼 Blog</a></li>	
-    {{ end }}	
+  	<li class="breadcrumb-item"><a href="/post/">✍🏼 Blog</a></li>	  
     {{ end }}
     {{ end }}
 	{{ if eq $title "Formulación y nomenclatura de Química Inorgánica"}}
@@ -200,9 +194,9 @@
     {{ if eq site.Language.Lang "es" }}
   	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>
 	  {{ else if eq site.Language.Lang "en" }}
-  	  <li class="breadcrumb-item"><a href="/en/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
+  	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
     {{ else if eq site.Language.Lang "ca" }}
-      <li class="breadcrumb-item"><a href="/ca/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>      
+      <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>      
     {{ end }}		    	
       <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>
   </ol>

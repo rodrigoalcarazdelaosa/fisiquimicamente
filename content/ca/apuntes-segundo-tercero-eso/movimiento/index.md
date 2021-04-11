@@ -1,6 +1,6 @@
 ---
 title: El moviment
-url: "/ca/recursos-fisica-quimica/apunts/2eso/moviment"
+url: "/recursos-fisica-quimica/apunts/2eso/moviment"
 subtitle: Conceptes de velocitat i acceleració
 summary: "`🔜 PROPERAMENT` <br> Conceptes de velocitat i acceleració."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso"]

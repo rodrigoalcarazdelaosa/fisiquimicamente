@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 17  # Order that this section will appear.
 
 title = "🎓 Recursos PAU/PBAU"
-# subtitle = "Gràcies a **[Òscar Colomar](https://fisiquimicamente.com/ca/equip/collaboradors/oscar-colomar/)**"
+# subtitle = ""
 
 # Showcase personal skills or business features.
 # 

@@ -1,6 +1,6 @@
 ---
 title: Nomenclature of Inorganic Chemistry
-url: "/en/physics-chemistry-notes/nomenclature-chemistry/inorganic"
+url: "/physics-chemistry-notes/nomenclature-chemistry/inorganic"
 subtitle: IUPAC Recommendations 2005
 summary: "`🔜 COMING SOON` <br> IUPAC Recommendations 2005."
 breadcrumbs: ["notes","nomenclature-chemistry"]

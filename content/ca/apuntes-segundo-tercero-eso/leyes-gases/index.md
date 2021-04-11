@@ -1,6 +1,6 @@
 ---
 title: Lleis dels gasos
-url: "/ca/recursos-fisica-quimica/apunts/3eso/lleis-gasos"
+url: "/recursos-fisica-quimica/apunts/3eso/lleis-gasos"
 subtitle: Llei de Boyle-Mariotte, llei de Charles i llei de Gay-Lussac
 summary: "`🔜 PROPERAMENT` <br> Llei de Boyle-Mariotte, llei de Charles i llei de Gay-Lussac."
 breadcrumbs: ["recursos-fisica-quimica","apunts","3reso"]

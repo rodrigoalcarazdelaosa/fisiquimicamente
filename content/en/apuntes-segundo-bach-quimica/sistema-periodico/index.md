@@ -1,6 +1,6 @@
 ---
 title: Periodic Table
-url: "/en/physics-chemistry-notes/17-18-year-olds/chemistry/periodic-table"
+url: "physics-chemistry-notes/17-18-year-olds/chemistry/periodic-table"
 subtitle: Classification and Properties of the Chemical Elements
 summary: "`🔜 COMING SOON` <br> Classification and Properties of the Chemical Elements."
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]

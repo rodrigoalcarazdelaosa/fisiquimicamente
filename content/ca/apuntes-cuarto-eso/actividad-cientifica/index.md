@@ -1,6 +1,6 @@
 ---
 title: L'activitat científica
-url: "/ca/recursos-fisica-quimica/apunts/4eso/activitat-cientifica"
+url: "/recursos-fisica-quimica/apunts/4eso/activitat-cientifica"
 subtitle: La investigació científica, magnituds escalars i vectorials, anàlisi dimensional, errors en la mesura i expressió de resultats
 summary: "`🔜 PROPERAMENT` <br> La investigació científica. Magnituds escalars i vectorials. Anàlisi dimensional. Errors en la mesura. Expressió de resultats."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]

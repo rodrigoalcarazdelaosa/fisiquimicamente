@@ -1,6 +1,6 @@
 ---
 title: Vector Graphics with TikZ & PGF
-url: "/en/tutorials/latex/tikz-pgf"
+url: "tutorials/latex/tikz-pgf"
 linktitle: Vector Graphics with TikZ & PGF
 toc: true
 type: book

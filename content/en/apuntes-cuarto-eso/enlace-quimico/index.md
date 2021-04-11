@@ -1,6 +1,6 @@
 ---
 title: Chemical Bond
-url: "/en/physics-chemistry-notes/15-16-year-olds/chemical-bond"
+url: "/physics-chemistry-notes/15-16-year-olds/chemical-bond"
 subtitle: Ionic, Covalent and Metallic Bond. Intermolecular Forces
 summary: "`🔜 COMING SOON` <br> Ionic, Covalent and Metallic Bond. Intermolecular Forces."
 breadcrumbs: ["notes","15-16-year-olds"]

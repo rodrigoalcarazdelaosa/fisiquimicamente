@@ -1,6 +1,6 @@
 ---
 title: Chemical Bond
-url: "/en/physics-chemistry-notes/17-18-year-olds/chemistry/chemical-bond"
+url: "physics-chemistry-notes/17-18-year-olds/chemistry/chemical-bond"
 subtitle: Ionic, Covalent and Metallic Bond
 summary: "`🔜 COMING SOON` <br> Ionic, Covalent and Metallic Bond. VSEPR and VB Theories."
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]

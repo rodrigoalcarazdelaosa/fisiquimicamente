@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Presentation of Information
-url: "/en/tutorials/presentation-information"
+url: "tutorials/presentation-information"
 summary: Learn how to correctly present information.
 weight: 2
 

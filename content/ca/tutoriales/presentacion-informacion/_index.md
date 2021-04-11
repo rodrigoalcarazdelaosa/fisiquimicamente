@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Presentació d'informació
-url: "/ca/tutorials/presentacio-informacio"
+url: "/tutorials/presentacio-informacio"
 summary: Aprèn a presentar informació correctament.
 weight: 2
 

@@ -16,14 +16,14 @@ First blog. Here begins an adventure that I had been wanting to start for a long
 
 ## Who are we?
 
-[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/en) is created by [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) in 2020 as a website where to share mainly [📚 <span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is created by [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) in 2020 as a website where to share mainly [📚 <span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
 
 In 2021 it transitions to a more *impersonal* website, better prepared and open for future collaborations. [Click here if you want to meet the **team** behind it]({{< ref "/equipo" >}}).
 
 
 ## Why this blog?
 
-Our main intention with this website is to provide 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) to our students and to anyone else who might be interested, as well as sharing 👐🏼 [<en style="font-variant: small-caps;">**tutorials**</english>]({{< ref "/tutoriales" >}}) and collect 🔗 [<english style="font-variant:small-caps;">**online resources**</english>]({{< ref "/recursos-online" >}}).
+Our main intention with this website is to provide 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) to our students and to anyone else who might be interested, as well as sharing 👐🏼 [<span style="font-variant: small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) and collect 🔗 [<span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}).
 
 We think that a **blog** is the perfect addition to be able to debate about **news** with a much more **dynamic** content.
 
@@ -54,10 +54,10 @@ In all the blog posts as well as in the 📚 [<span style="font-variant:small-ca
 You can also <strong>share</strong> all the <strong>blog posts</strong> and 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.
 
 ### Subscribing
-If you don't want to miss any **updates** you can **subscribe** to the [**RSS** feed {{< icon name="rss" pack="fas" >}}](/en/index.xml).
+If you don't want to miss any **updates** you can **subscribe** to the [**RSS** feed {{< icon name="rss" pack="fas" >}}](index.xml).
 
 ### Contacting us
-Also, you can write us either using the [**contact form**]({{< ref "/#contact" >}}), or by writing us directly an [**email**](mailto:contact@fisiquimicamente.com) or from [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). You can also follow us on [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) or [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
+Also, you can write us either using the [**contact form**]({{< ref "/#contact" >}}), or by writing us directly an [**email**](mailto:contact@physichemically.com) or from [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). You can also follow us on [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) or [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
 
 #### Live Chat
 In the **bottom right corner** you can see this **icon** <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">. By clicking on it you can start a **live chat** with us after entering your name (the email is optional, only if you want us to be able to contact you in case we don't coincide in the chat).

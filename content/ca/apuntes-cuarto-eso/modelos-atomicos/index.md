@@ -1,6 +1,6 @@
 ---
 title: Models atòmics
-url: "/ca/recursos-fisica-quimica/apunts/4eso/models-atomics"
+url: "/recursos-fisica-quimica/apunts/4eso/models-atomics"
 subtitle: Models de Thomson, Rutherford i Bohr
 summary: "`🔜 PROPERAMENT` <br> Models de Thomson, Rutherford i Bohr."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]

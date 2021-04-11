@@ -1,6 +1,6 @@
 ---
 title: Waves
-url: "/en/physics-chemistry-notes/17-18-year-olds/physics/waves"
+url: "/physics-chemistry-notes/17-18-year-olds/physics/waves"
 subtitle: Transverse and Longitudinal Wave Propagation
 summary: "`🔜 COMING SOON` <br> Transverse and Longitudinal Wave Propagation. Harmonic Wave Equation. Energy and Intensity. Sound and Light."
 breadcrumbs: ["notes","17-18-year-olds","physics"]
