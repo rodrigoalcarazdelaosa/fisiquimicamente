@@ -14,6 +14,8 @@ Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowc
 
 Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae1fb0d7-cd8e-4f18-bbe1-d6a89b38c0af/deploy-status)](https://app.netlify.com/sites/physichemically/deploys)
+
 <p align="center"><a href="https://physichemically.com/" target="_blank" rel="noopener"><img src="https://physichemically.com/media/logo-en.png" alt="PhysiChemically"></a></p>
 
 Physics and Chemistry Resources, Tutorials and Current Science.
@@ -27,6 +29,8 @@ Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wow
     open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
 Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db0529fe-34b6-40d0-b8cf-9ff3ac279f29/deploy-status)](https://app.netlify.com/sites/fisiquimicament/deploys)
 
 <p align="center"><a href="https://fisiquimicament.com/" target="_blank" rel="noopener"><img src="https://fisiquimicament.com/media/logo-ca.png" alt="FisiQuímicament"></a></p>
 
