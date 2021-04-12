@@ -27,53 +27,35 @@ Thanks to the [Department of Physics and Chemistry of IES Valle del Saja](http:/
 {{% toc %}}
 
 ## 1. Silver Mirror
-{{< video library="1" src="pildoras-ciencia/espejo-plata.mp4" controls="yes" >}}
+{{< tweet 1280438568318574592 >}}
 
 ## 2. Flame Spectra
-> Suitable ions, methanol, flame 🔥 and... fireworks 🎆🎇.
-
-{{< video library="1" src="pildoras-ciencia/espectros-llama.mp4" controls="yes" >}}
+{{< tweet 1280438570906419201 >}}
 
 {{% callout note %}}
 More information [here](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
 {{% /callout %}}
 
 ## 3. Copper Nitrate Fountain
-> Chemical reactions cause variations in concentration, temperature or pressure that allow to generate bright and colorful fountains ⛲.
-
-{{< video library="1" src="pildoras-ciencia/fuente-nitrato-cobre.mp4" controls="yes" >}}
+{{< tweet 1280438574706458630 >}}
 
 ## 4. Golden Rain
-> Some precipitates are so spectacular that they almost turn them into works of art.
-
-{{< video library="1" src="pildoras-ciencia/lluvia-oro.mp4" controls="yes" >}}
+{{< tweet 1280438577252503553 >}}
 
 ## 5. Spectra in Discharge Tubes
-> Another search for color and for deciphering the bar codes hidden in each radiation.
-
-{{< video library="1" src="pildoras-ciencia/espectros.mp4" controls="yes" >}}
+{{< tweet 1280438579962040321 >}}
 
 ## 6. Luminescence
-> Fireflies? Algae? Luminescent phenomena are always the most evocative.
-
-{{< video library="1" src="pildoras-ciencia/luminiscencia.mp4" controls="yes" >}}
+{{< tweet 1280438581929140225 >}}
 
 ## 7. Galilean Thermometer
-> With a design of more than 350 years, just like that. It connects us to the essence of liquid buoyancy and expansion.
-
-{{< video library="1" src="pildoras-ciencia/termometro-Galileo.mp4" controls="yes" >}}
+{{< tweet 1280438585049702401 >}}
 
 ## 8. Newton's Cradle
-> A very well known device that does not prevent new studies every year that are equally interesting.
-
-{{< video library="1" src="pildoras-ciencia/pendulo-Newton.mp4" controls="yes" >}}
+{{< tweet 1280438587654311937 >}}
 
 ## 9. Siempre fuimos nómadas (in Spanish)
-> Dramatizing passages of science, like the best Sagan here, is something that usually works very well with students.
-
-{{< video library="1" src="pildoras-ciencia/siempre-fuimos-nomadas.mp4" controls="yes" >}}
+{{< tweet 1280438589797601280 >}}
 
 ## 10. Instants
-> All those moments of emotion that were lost with the pandemic are collected here in instants of other years.
-
-{{< video library="1" src="pildoras-ciencia/instantes.mp4" controls="yes" >}}
+{{< tweet 1280438591345307648 >}}
