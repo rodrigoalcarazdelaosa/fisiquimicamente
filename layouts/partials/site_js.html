@@ -126,7 +126,7 @@
 {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
 {{ $js_params := dict "hugoEnvironment" hugo.Environment "codeHighlighting" ($scr.Get "highlight_enabled" | default false) "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) }}
 <!-- {{ $js_academic := resources.Get "js/wowchemy.js" | js.Build (dict "targetPath" (printf "%s/js/wow-core.js" .Lang ) "params" $js_params) }} -->
-{{ $js_academic := resources.Get "js/wowchemy.js" | js.Build (dict "params" $js_params) }}
+{{ $js_academic := resources.Get "js/wowchemy.js" | js.Build (dict "targetPath" "js/wow-core.js" "params" $js_params) }}
 {{ $js_bundle := slice $js_academic }}
 {{ if eq $search_provider "wowchemy" }}
   {{ $js_academic_search := resources.Get "js/wowchemy-search.js" | js.Build (dict "targetPath" (printf "%s/js/wow-search-built.js" .Lang) "params" $js_search_params) }}
