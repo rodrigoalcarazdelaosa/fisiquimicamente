@@ -6,13 +6,16 @@
 [es]
   baseURL = "https://fisiquimicamente.com/"
   languageCode = "es"
-  contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/es"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.  
   
 [en]
   baseURL = "https://physichemically.com/"
   languageCode = "en"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   title = "PhysiChemically"
+  [en.permalinks]
+    tags = "/tag/:slug/"
+    categories = "/category/:slug/"
   [en.params]
   	description = "Physics and Chemistry Resources, Tutorials and Current Science"
     email = "contact@physichemically.com"
