@@ -253,7 +253,7 @@ footer = {show_translations = true}
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  provider = "google"
+  provider = "mapnik"
   api_key = ""
   zoom = 15
 
