@@ -29,7 +29,7 @@
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       
         {{ range $query }}
-  	    {{ $link := .RelPermalink }}
+  	    {{ $link := .Permalink }}
   	    {{ $target := "" }}
   	    {{ with .Params.external_link }}
   	      {{ $link = . }}
