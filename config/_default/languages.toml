@@ -13,9 +13,13 @@
   languageCode = "en"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   title = "PhysiChemically"
+
   [en.permalinks]
+    authors = "/author/:slug/"
     tags = "/tag/:slug/"
     categories = "/category/:slug/"
+    publication_types = "/publication-type/:slug/"
+    post = "/blog/:year/:month/:day/:slug"
   [en.params]
   	description = "Physics and Chemistry Resources, Tutorials and Current Science"
     email = "contact@physichemically.com"
