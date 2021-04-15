@@ -28,7 +28,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ## Configuración electrónica
 - [Orbitales atómicos](#/1/2)
 - [Diagrama de Möller](#/1/7)
-- [Estados fundamental](#/1/9)
+- [Estado fundamental](#/1/9)
 - [Estados excitados](#/1/10)
 - [Estados prohibidos](#/1/11)
 

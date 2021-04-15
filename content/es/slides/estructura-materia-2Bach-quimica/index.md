@@ -89,6 +89,12 @@ Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de
 
 ---
 
+¿Cómo son los **espectros de emisión** del resto de **elementos** químicos de la tabla periódica?
+
+{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.jpg" lightbox="false" >}}
+
+---
+
 #### Postulados
 Este modelo se basa en **tres postulados fundamentales**:
 
