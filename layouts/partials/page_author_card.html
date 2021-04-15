@@ -5,9 +5,9 @@
 
 {{/* Check an author profile exists. */}}
 {{ if $has_profile }}
-  {{/* If it's a personal site and primary page author is superuser, link to the homepage rather than their profile page. */}}
+  {{/* If primary page author is superuser, link to the homepage rather than their profile page. */}}
   {{ $profile_url := $author_page.RelPermalink }}
-  {{ if and (eq $site_type "Person") (eq $author_page.Params.superuser true) }}  
+  {{ if eq $author_page.Params.superuser true }}  
 	{{ if eq site.Language.Lang "es" }}
       {{ $profile_url = "/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa/" }}
 	{{ else if eq site.Language.Lang "en" }}
