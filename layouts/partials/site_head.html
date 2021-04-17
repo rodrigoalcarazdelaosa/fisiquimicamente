@@ -215,6 +215,7 @@
     {{/* Get page image for sharing. */}}
     {{ $sharing_image := resources.GetMatch (path.Join "media" "sharing.*") }}
     {{ $sharing_image_en := resources.GetMatch (path.Join "media" "sharing-en.*") }}
+    {{ $sharing_image_ca := resources.GetMatch (path.Join "media" "sharing-ca.*") }}
     {{ $featured_image := (.Resources.ByType "image").GetMatch "*featured*" }}
     {{ $avatar_image := (.Resources.ByType "image").GetMatch "avatar*" }}
     {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
@@ -227,10 +228,12 @@
     {{ else if $featured_image }}
       {{ $og_image = $featured_image.Permalink }}    
     {{ else if $sharing_image }}
-      {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
+      {{ if eq .Site.Language.Lang "es" }}
         {{ $og_image = $sharing_image.Permalink }}
       {{ else if eq .Site.Language.Lang "en" }}
         {{ $og_image = $sharing_image_en.Permalink }}
+      {{ else if eq .Site.Language.Lang "ca" }}
+        {{ $og_image = $sharing_image_ca.Permalink }}        
       {{ end }}
     {{ else if $has_logo }}
       {{ $og_image = (partial "functions/get_logo" (dict "constraint" "fit" "size" 300)).Permalink }}

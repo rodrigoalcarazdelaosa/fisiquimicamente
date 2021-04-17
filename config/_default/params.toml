@@ -128,6 +128,7 @@ contact_links = [
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
 sharing_image = "sharing.png"
 sharing_image_en = "sharing-en.png"
+sharing_image_ca = "sharing-ca.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "alcarazr"
