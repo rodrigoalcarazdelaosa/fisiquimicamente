@@ -31,7 +31,7 @@
   force = true
 
 [[redirects]]
-  from = "https://rodrigoalcarazdelaosa.me/apuntes-formulacion-nomenclatura-quimica/organica/*"
+  from = "/apuntes-formulacion-nomenclatura-quimica/organica/*"
   to = "/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/organica/:splat"
   status = 302
   force = true
