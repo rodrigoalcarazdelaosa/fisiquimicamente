@@ -28,11 +28,13 @@
   from = "rodrigoalcarazdelaosa.me/*"
   to = "https://fisiquimicamente.com/:splat"
   status = 302
+  force = true
 
 [[redirects]]
   from = "rodrigoalcarazdelaosa.me/apuntes-formulacion-nomenclatura-quimica/organica/*"
   to = "/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/organica/:splat"
   status = 302
+  force = true
 
 [[redirects]]
   from = "/en/*"
