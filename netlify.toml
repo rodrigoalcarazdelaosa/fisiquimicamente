@@ -25,6 +25,16 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
+  from = "rodrigoalcarazdelaosa.me/*"
+  to = "https://fisiquimicamente.com/:splat"
+  status = 302
+
+[[redirects]]
+  from = "rodrigoalcarazdelaosa.me/apuntes-formulacion-nomenclatura-quimica/organica/*"
+  to = "/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/organica/:splat"
+  status = 302
+
+[[redirects]]
   from = "/en/*"
   to = "https://physichemically.com/:splat"
   status = 301
