@@ -36,7 +36,7 @@ function update_netlify () {
 
 # Perform update
 update_wowchemy
-update_netlify
+# update_netlify
 
 echo
 echo "Warning: review the changes made by this helper script before pushing them to your site."
