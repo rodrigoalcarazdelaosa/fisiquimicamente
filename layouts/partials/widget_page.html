@@ -37,7 +37,7 @@
   {{ end }}
 
   {{ if and $bg.gradient_start $bg.gradient_end }}
-    {{ $angle := string $bg.gradient_angle | default "90" }}
+    {{ $angle := string $bg.gradient_angle | default "180" }}
     {{ $style_bg = printf "%sbackground-image: linear-gradient(%sdeg, %s, %s);" $style_bg $angle $bg.gradient_start $bg.gradient_end }}
   {{ end }}
 

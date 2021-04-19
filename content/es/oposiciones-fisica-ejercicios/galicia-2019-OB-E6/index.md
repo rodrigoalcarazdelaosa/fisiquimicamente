@@ -2,7 +2,7 @@
 title: Galicia 2019
 url: "/recursos-fisica-quimica/oposiciones/fisica/galicia-2019-ob-e6"
 subtitle: Ejercicio 6 de la Opción B
-summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Ejercicio 6 de la Opción B."
+summary: "Ejercicio 6 de la Opción B."
 authors:
 - rodrigo-alcaraz-de-la-osa
 - jesica-sanchez-mazon
