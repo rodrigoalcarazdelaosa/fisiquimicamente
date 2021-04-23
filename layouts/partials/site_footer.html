@@ -61,9 +61,11 @@
     </div>
   {{ end }}  
 
+  {{ with site.Copyright }}
   <p class="powered-by">
-    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+    {{ replace . "{year}" now.Year | markdownify }}
   </p>
+  {{ end }}
   
   <p class="powered-by">
 	  {{ if eq .Site.Language.Lang "es" }}
