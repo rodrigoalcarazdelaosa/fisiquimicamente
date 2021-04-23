@@ -14,23 +14,25 @@ title = "🎓 Recursos PAU/PBAU"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-#[[feature]]
- # icon = "[☢️](fisica)"
- # icon_pack = "emoji"
- # name = "[Física](fisica)"
- # description = ""  
+[[feature]]
+  icon = "flag-catalonia"
+  icon_link = "catalunya"
+  icon_pack = "custom"
+  name = "[Catalunya](catalunya)"
+  description = ""  
   
-#[[feature]]
-#  icon = "[⚗️](quimica)"
-#  icon_pack = "emoji"
-#  name = "[Química](quimica)"
-#  description = ""
+[[feature]]
+  icon = "flag-balearic-islands"
+  icon_link = "illes-balears"
+  icon_pack = "custom"
+  name = "[Illes Balears](illes-balears)"
+  description = ""
   
-#[[feature]]
-#  icon = "[💡](consells)"
-#  icon_pack = "emoji"
-#  name = "[Consells](consells)"
-#  description = ""  
+[[feature]]
+  icon = "[💡](consells)"
+  icon_pack = "emoji"
+  name = "[Consells](consells)"
+  description = ""  
   
   
 [design.background]
@@ -63,7 +65,3 @@ title = "🎓 Recursos PAU/PBAU"
  # CSS class.
  css_class = ""
 +++
-
-{{% callout construction %}}
-En construcció...
-{{% /callout %}}

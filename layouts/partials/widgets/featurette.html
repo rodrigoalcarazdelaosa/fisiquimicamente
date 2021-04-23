@@ -22,6 +22,7 @@
   {{ if in (slice "fab" "fas" "far" "fal") $pack }}
     {{ $pack_prefix = "fa" }}
   {{ end }}
+  {{ $link := .icon_link }}
   <div class="col-12 {{ if eq $columns "2" }}col-sm-6{{ else if eq $columns "3" }}col-sm-4{{ else if eq $columns "4" }}col-sm-3{{ end }}">
     {{ with .icon }}
     <div class="featurette-icon">
@@ -29,7 +30,7 @@
         <span>{{- . | markdownify | emojify -}}</span>
       {{- else if eq $pack "custom" -}}
         {{- $svg_icon := resources.Get (printf "media/icons/%s.svg" .) -}}
-        {{- if $svg_icon -}}<img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline">{{- end -}}
+        {{- if $svg_icon -}}<span><a href="{{$link}}"><img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline"></a></span>{{- end -}}
       {{- else -}}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
       {{- end -}}

@@ -115,6 +115,11 @@
     {{if $use_container}}<div class="container">{{end}}
 		
   	{{/* Custom breadcrumbs in widget_pages */}}
+
+	{{- $catalunya_flag := resources.Get ("media/icons/flag-catalonia.svg") -}}
+
+	{{- $illes_balears_flag := resources.Get ("media/icons/flag-balearic-islands.svg") -}}
+
     {{ if and (eq $widget "featurette") (eq $st.Title "⚛️ Recursos de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
@@ -231,7 +236,66 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">🎓 PAU/PBAU</li>
 	    </ol>
-	    </nav>			
+	    </nav>
+		
+	{{ else if and (eq $widget "featurette") (eq $st.Params.subtitle "Catalunya") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
+	        <li class="breadcrumb-item active" aria-current="page"><img draggable="false" class="icon" alt="catalunya" src="{{ $catalunya_flag.RelPermalink }}"> Catalunya</li>
+	    </ol>
+	    </nav>	
+	{{ else if and (eq $st.Title "🎓 PAU Catalunya") (eq $st.Params.subtitle "☢️ Física") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya"><img draggable="false" class="icon" alt="catalunya" src="{{ $catalunya_flag.RelPermalink }}"> Catalunya</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+	    </ol>
+	    </nav>
+	{{ else if and (eq $st.Title "🎓 PAU Catalunya") (eq $st.Params.subtitle "⚗️ Química") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya"><img draggable="false" class="icon" alt="catalunya" src="{{ $catalunya_flag.RelPermalink }}"> Catalunya</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
+	    </ol>
+	    </nav>				
+	{{ else if and (eq $widget "featurette") (eq $st.Params.subtitle "Illes Balears") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
+	        <li class="breadcrumb-item active" aria-current="page"><img draggable="false" class="icon" alt="illes balears" src="{{ $illes_balears_flag.RelPermalink }}"> Illes Balears</li>
+	    </ol>
+	    </nav>	
+	{{ else if and (eq $st.Title "🎓 PBAU Illes Balears") (eq $st.Params.subtitle "☢️ Física") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears"><img draggable="false" class="icon" alt="illes balears" src="{{ $illes_balears_flag.RelPermalink }}"> Illes Balears</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+	    </ol>
+	    </nav>
+	{{ else if and (eq $st.Title "🎓 PBAU Illes Balears") (eq $st.Params.subtitle "⚗️ Química") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears"><img draggable="false" class="icon" alt="illes balears" src="{{ $illes_balears_flag.RelPermalink }}"> Illes Balears</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
+	    </ol>
+	    </nav>						
     {{ else if and (eq $widget "featurette") (eq $st.Params.subtitle "☢️ Física") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
@@ -299,6 +363,15 @@
 	        <li class="breadcrumb-item active" aria-current="page">💡Consejos</li>
 	    </ol>
 	    </nav>	
+	{{ else if and (eq $widget "blank") (eq $st.Params.subtitle "💡Consells") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">💡Consells</li>
+	    </ol>
+	    </nav>			
     {{ else if and (eq $widget "featurette") (eq $st.Title "📝 Oposiciones") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      

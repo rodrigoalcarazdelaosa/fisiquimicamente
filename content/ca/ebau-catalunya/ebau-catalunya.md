@@ -1,31 +1,28 @@
 +++
-# A Skills section created with the Featurette widget.
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 24  # Order that this section will appear.
 
-title = "⚛️ Recursos de Física i Química"
-subtitle = ""
-
-# Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+title = "🎓 PAU"
+subtitle = "Catalunya"
 
 [[feature]]
-  icon = "[📚](apunts)"
+  icon = "[☢️](fisica)"
   icon_pack = "emoji"
-  name = "[Apunts](apunts)"
-  description = "[📗 2n ESO](apunts/2eso) · [📘 3r ESO](apunts/3eso) · [📙 4t ESO](apunts/4eso) <br> [📕 1r Batx](apunts/1batx) · [📓 2n Batx](apunts/2batx) <br> [📔 Formulació i nomenclatura de Química](apunts/formulacio-nomenclatura-quimica)"
+  name = "[Física](fisica)"
+  description = ""
   
 [[feature]]
-  icon = "[🎓](pau-pbau)"
+  icon = "[⚗️](quimica)"
   icon_pack = "emoji"
-  name = "[PAU/PBAU](pau-pbau)"
-  description = "[Catalunya](pau-pbau/catalunya) · [Illes Balears](pau-pbau/illes-balears) · [💡Consells](pau-pbau/consells)"
-
+  name = "[Química](quimica)"
+  description = ""
+  
 [design]
   columns = "2"
 
@@ -58,5 +55,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-
 +++
+
+{{% callout note %}}
+Exàmens obtinguts de [**Selecat**](https://www.selecat.cat).
+{{% /callout %}}
