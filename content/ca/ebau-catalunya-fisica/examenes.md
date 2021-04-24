@@ -22,6 +22,38 @@ subtitle = "☢️ Física"
   filter_default = 0  
 	
   [[content.filter_button]]
+    name = "2000"
+    tag = "2000"
+  
+  [[content.filter_button]]
+    name = "2001"
+    tag = "2001"
+  
+  [[content.filter_button]]
+    name = "2002"
+    tag = "2002"
+  
+  [[content.filter_button]]
+    name = "2003"
+    tag = "2003"
+  
+  [[content.filter_button]]
+    name = "2004"
+    tag = "2004"
+  
+  [[content.filter_button]]
+    name = "2005"
+    tag = "2005"
+  
+  [[content.filter_button]]
+    name = "2006"
+    tag = "2006"
+  
+  [[content.filter_button]]
+    name = "2007"
+    tag = "2007"
+  
+  [[content.filter_button]]
     name = "2008"
     tag = "2008"
   

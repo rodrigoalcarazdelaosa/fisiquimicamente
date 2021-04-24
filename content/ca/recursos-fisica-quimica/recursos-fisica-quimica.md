@@ -24,7 +24,7 @@ subtitle = ""
   icon = "[🎓](pau-pbau)"
   icon_pack = "emoji"
   name = "[PAU/PBAU](pau-pbau)"
-  description = "[Catalunya](pau-pbau/catalunya) · [Illes Balears](pau-pbau/illes-balears) · [💡Consells](pau-pbau/consells)"
+  description = "[PAU Catalunya](pau-pbau/catalunya) · [PBAU Illes Balears](pau-pbau/illes-balears) · [💡Consells](pau-pbau/consells)"
 
 [design]
   columns = "2"

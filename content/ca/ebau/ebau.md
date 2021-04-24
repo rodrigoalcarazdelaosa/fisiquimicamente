@@ -18,14 +18,14 @@ title = "🎓 Recursos PAU/PBAU"
   icon = "flag-catalonia"
   icon_link = "catalunya"
   icon_pack = "custom"
-  name = "[Catalunya](catalunya)"
+  name = "[PAU Catalunya](catalunya)"
   description = ""  
   
 [[feature]]
   icon = "flag-balearic-islands"
   icon_link = "illes-balears"
   icon_pack = "custom"
-  name = "[Illes Balears](illes-balears)"
+  name = "[PBAU Illes Balears](illes-balears)"
   description = ""
   
 [[feature]]
