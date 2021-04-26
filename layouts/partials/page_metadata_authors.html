@@ -2,7 +2,7 @@
 
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
-  {{ range $index, $value := (.GetTerms $taxonomy) }}
+👥{{ range $index, $value := (.GetTerms $taxonomy) }}
       {{- /* Highlight the author's name? */ -}}
       {{- $highlight_name := .Page.Params.highlight_name | default false -}}
 	  
