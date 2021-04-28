@@ -3,6 +3,7 @@ title: Madrid 2018
 url: "/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e2"
 subtitle: Ejercicio 2
 summary: Ejercicio 2.
+breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - jesica-sanchez-mazon
@@ -12,9 +13,14 @@ tags:
 categories:
 - Física
 
-_build:
-  render: never
+image:
+  preview_only: true
+
+#_build:
+#  render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e2/madrid-2018-e2.pdf"
+#external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e2/madrid-2018-e2.pdf"
 ---
+
+<embed src="./madrid-2018-E2.pdf" width="100%" height="500px"/>

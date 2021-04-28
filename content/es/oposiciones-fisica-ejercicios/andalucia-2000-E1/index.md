@@ -3,6 +3,7 @@ title: Andalucía 2000
 url: "/recursos-fisica-quimica/oposiciones/fisica/andalucia-2000-E1"
 subtitle: Ejercicio 1
 summary: Ejercicio 1.
+breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - jesica-sanchez-mazon
@@ -12,9 +13,14 @@ tags:
 categories:
 - Física
 
-_build:
-  render: never
+image:
+  preview_only: true
+
+#_build:
+#  render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/andalucia-2000-e1/andalucia-2000-E1.pdf"
+# external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/andalucia-2000-e1/andalucia-2000-E1.pdf"
 ---
+
+<embed src="./andalucia-2000-E1.pdf" width="100%" height="500px"/>

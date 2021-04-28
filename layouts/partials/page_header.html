@@ -196,9 +196,20 @@
 	  {{ else if eq site.Language.Lang "en" }}
   	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
     {{ else if eq site.Language.Lang "ca" }}
-      <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>      
-    {{ end }}		    	
-      <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>
+      <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+    {{ end }}
+    {{ range $page.Params.breadcrumbs }}
+    {{ if eq . "recursos-fisica-quimica" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>        
+    {{ else if eq . "oposiciones" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones">📝 Oposiciones</a></li>
+    {{ else if eq . "fisica" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones/fisica">☢️ Física</a></li>                
+      {{ else if eq . "quimica" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones/quimica">⚗️ Química</a></li>      
+    {{ end }}
+    {{ end }}
+    <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>
   </ol>
   </nav>
   {{ end }}
