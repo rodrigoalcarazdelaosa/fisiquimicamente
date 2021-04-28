@@ -258,9 +258,9 @@ Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon 
 ---
 
 ##### Ejemplos
-- $\mathrm{Cl} + 1\thinspace\mathrm{e-} \longrightarrow \mathrm{Cl^-}$
-- $\mathrm{O} + 2\thinspace\mathrm{e-} \longrightarrow \mathrm{O^{2-}}$
-- $\mathrm{P} + 3\thinspace\mathrm{e-} \longrightarrow \mathrm{P^{3-}}$
+- $\mathrm{Cl} + 1\thinspace\mathrm{e^-} \longrightarrow \mathrm{Cl^-}$
+- $\mathrm{O} + 2\thinspace\mathrm{e^-} \longrightarrow \mathrm{O^{2-}}$
+- $\mathrm{P} + 3\thinspace\mathrm{e^-} \longrightarrow \mathrm{P^{3-}}$
 
 ---
 
