@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/galicia-2019-ob-e6/galicia-2019-ob-e6.pdf"
 ---
 
-<embed src="./galicia-2019-OB-E6.pdf" width="100%" height="500px"/>
+<embed type="application/pdf" src="./galicia-2019-OB-E6.pdf" width="100%" height="500px">

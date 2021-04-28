@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o1-e5/cantabria-2018-o1-e5.pdf"
 ---
 
-<embed src="./cantabria-2018-O1-E5.pdf" width="100%" height="500px"/>
+<embed type="application/pdf" src="./cantabria-2018-O1-E5.pdf" width="100%" height="500px">

@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/aragon-2018-oa-e1/aragon-2018-oa-e1.pdf"
 ---
 
-<embed src="./aragon-2018-OA-E1.pdf" width="100%" height="500px"/>
+<embed type="application/pdf" src="./aragon-2018-OA-E1.pdf" width="100%" height="500px">

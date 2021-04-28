@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/pais-vasco-2018-f2/pais-vasco-2018-f2.pdf"
 ---
 
-<embed src="./pais-vasco-2018-F2.pdf" width="100%" height="500px"/>
+<embed type="application/pdf" src="./pais-vasco-2018-F2.pdf" width="100%" height="500px">

@@ -23,4 +23,4 @@ image:
 # external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/andalucia-2000-e1/andalucia-2000-E1.pdf"
 ---
 
-<embed src="./andalucia-2000-E1.pdf" width="100%" height="500px"/>
+<embed type="application/pdf" src="./andalucia-2000-E1.pdf" width="100%" height="500px">

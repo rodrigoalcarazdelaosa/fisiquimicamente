@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/asturias-2018-e4/asturias-2018-e4.pdf"
 ---
 
-<embed src="./asturias-2018-E4.pdf" width="100%" height="500px"/>
+<embed type="application/pdf" src="./asturias-2018-E4.pdf" width="100%" height="500px">

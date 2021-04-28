@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e1/cantabria-2016-E1.pdf"
 ---
 
-<embed src="./cantabria-2016-E1.pdf" width="100%" height="500px"/>
+<embed type="application/pdf" src="./cantabria-2016-E1.pdf" width="100%" height="500px">
