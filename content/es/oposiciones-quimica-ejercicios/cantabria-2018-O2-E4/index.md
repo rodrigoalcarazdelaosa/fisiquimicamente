@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o2-e4/cantabria-2018-o2-e4.pdf"
 ---
 
-<iframe src="/js/pdfjs/web/viewer.html?file=%2Frecursos-fisica-quimica%2Foposiciones%2Fquimica%2Fcantabria-2018-o2-e4%2Fcantabria-2018-O2-E4.pdf" frameborder="0" width="100%" height="1000"></iframe>
+<iframe src="http://docs.google.com/viewer?url=https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o2-e4/cantabria-2018-o2-e4.pdf&embedded=true" style="width:100%; height:1000px;" frameborder="0"></iframe>
