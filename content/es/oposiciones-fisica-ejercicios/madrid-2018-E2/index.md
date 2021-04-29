@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e2/madrid-2018-e2.pdf"
 ---
 
-<embed type="application/pdf" src="./madrid-2018-E2.pdf" width="100%" height="500px">
+<iframe src="https://docs.google.com/viewer?url=https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e2/madrid-2018-e2.pdf&embedded=true" style="width:100%; height:1000px;" frameborder="0"></iframe>

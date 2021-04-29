@@ -23,4 +23,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/galicia-2016-e1/galicia-2016-E1.pdf"
 ---
 
-<embed type="application/pdf" src="./galicia-2016-E1.pdf" width="100%" height="500px">
+<iframe src="https://docs.google.com/viewer?url=https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/galicia-2016-e1/galicia-2016-E1.pdf&embedded=true" style="width:100%; height:1000px;" frameborder="0"></iframe>
