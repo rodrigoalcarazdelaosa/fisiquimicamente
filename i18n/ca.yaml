@@ -121,7 +121,7 @@
 - id: open_project_site
   translation: Obre el lloc del web del projecte
 - id: posts
-  translation: Entrada
+  translation: Blog
 - id: publications
   translation: Publicació
 - id: talks
@@ -141,7 +141,7 @@
 - id: apuntes-formulacion
   translation: Apunts Formulació Nomenclatura Química  
 - id: slides
-  translation: Slides
+  translation: Diapositives
 - id: authors
   translation: Autors
 - id: search
