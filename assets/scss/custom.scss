@@ -480,7 +480,11 @@ mark,
  *  Page content
  **************************************************/
 
-.page-subtitle {
+.article-style {
+  overflow: visible;
+}
+
+ .page-subtitle {
   font-family: $sta-font-heading, sans-serif;
   color: #111111;
 }
