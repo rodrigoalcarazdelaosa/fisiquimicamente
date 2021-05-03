@@ -387,6 +387,11 @@ p svg {
 /*************************************************
  *  Footer
  **************************************************/
+
+span#visits {
+  font-weight: bold;
+  color: $primary;
+} 
   
 footer {
 	margin-top: 2rem;
