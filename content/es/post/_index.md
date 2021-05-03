@@ -11,7 +11,7 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header: 
-  image: "blog-header.jpg"
+  image: "blog-header.webp"
   caption: "Imagen adaptada de [**inspirexpressmiami**](https://pixabay.com/es/users/inspirexpressmiami-263260/) en [Pixabay](https://pixabay.com/es/)"
 
 breadcrumbs: [""]  
