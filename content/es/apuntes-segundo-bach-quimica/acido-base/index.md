@@ -231,6 +231,10 @@ Daviid, desde Twitter, nos invita a un interesante debate sobre la necesidad de 
 
 {{< figure src="acido-base-2Bach-quimica/sal-ionizada.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/solutions-are-in-equilibrium/." lightbox="false" width="100%" >}}
 
+En lo que sigue, suponemos siempre **cantidades estequiométricas**[^1].
+
+[^1]: En caso de que haya exceso de alguna de las sustancias, el pH resultante queda determinado por lo que queda sin reaccionar.
+
 ### Sales ácido fuerte y base fuerte
 
 Cuando los iones en los que se disocia una sal provienen de ácidos/bases fuertes, no reaccionan con agua (hidrolizan), pues tienden a estar completamente ionizados:
