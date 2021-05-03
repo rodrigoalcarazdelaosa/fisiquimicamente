@@ -7,8 +7,10 @@ date: "2021-03-15T00:00:00Z"
 authors:
 - jesica-sanchez-mazon
 tags:
-- radioactive
+- física-s-XX
+- radioactividad
 categories:
+- Física
 - Películas
 image:
   placement: 3
