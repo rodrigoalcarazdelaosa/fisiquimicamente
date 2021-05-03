@@ -363,6 +363,12 @@ Indicador de pH incoloro en medio ácido que vira a rosa en **medio básico**:
 
 ---
 
+En lo que sigue, suponemos siempre **cantidades estequiométricas**.
+
+En caso de que haya exceso de alguna de las sustancias, el pH resultante queda determinado por lo que queda sin reaccionar.
+
+---
+
 ### Sales ácido fuerte y base fuerte
 
 Cuando los iones en los que se disocia una sal provienen de ácidos/bases fuertes, no reaccionan con agua (hidrolizan), pues tienden a estar completamente ionizados:
