@@ -10,8 +10,7 @@
 
   <p class="powered-by">
   {{ if eq .Site.Language.Lang "es" }}
-  👁️ Eres el visitante número&nbsp;<span id="visits"></span>  
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  👁️ Eres el visitante número&nbsp;<span id="visits"></span>
   <script>
     $.getJSON("https://api.countapi.xyz/hit/fisiquimicamente.com/visits", function(response) {
     $("#visits").text(response.value);
