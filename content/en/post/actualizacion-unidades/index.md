@@ -14,7 +14,7 @@ categories:
 
 image:
   placement: 1
-  caption: "[https://www.bipm.org/en/si-download-area/graphics-files.html#](https://www.bipm.org/en/si-download-area/graphics-files.html#)"
+  caption: "[https://www.bipm.org/en/measurement-units/si-promotion](https://www.bipm.org/en/measurement-units/si-promotion)"
 # links:
 # - icon_pack: fas
 #  icon: file-download

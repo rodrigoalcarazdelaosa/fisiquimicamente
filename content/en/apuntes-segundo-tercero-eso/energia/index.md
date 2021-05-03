@@ -16,7 +16,7 @@ weight: 9
 external_link: ""
 
 image:
-  caption: Photo by [**timJ**](https://unsplash.com/@the_roaming_platypus) on [Unsplash](https://unsplash.com)
+  caption: Photo by [**Hans Braxmeier**](https://pixabay.com/es/users/hans-2/) on [Pixabay](https://pixabay.com/)
   focal_point: Smart
 
 # links:

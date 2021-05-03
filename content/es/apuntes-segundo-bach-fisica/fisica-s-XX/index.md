@@ -15,7 +15,7 @@ weight: 6
 external_link: ""
 
 image:
-  caption: Imagen de [**Welcome to all and thank you for your visit ! ツ**](https://pixabay.com/es/users/janeb13-725943/) en [Pixabay](https://pixabay.com/es/)
+  caption: Imagen de [**janeb13**](https://pixabay.com/es/users/janeb13-725943/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
 # links:
