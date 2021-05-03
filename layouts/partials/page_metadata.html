@@ -51,11 +51,20 @@
   {{ $commentable_page := (ne $page.Params.commentable false) | and $commentable_page_type }}
   {{ if $commentable_page }}
   <span class="middot-divider"></span>
+
+  👁️&nbsp;<span id="visits"></span>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script>
+    $.getJSON("https://api.countapi.xyz/hit/:HOST:/:PATHNAME:", function(response) {
+    $("#visits").text(response.value);
+});
+  </script>
+
+  <span class="middot-divider"></span>
 	  <span class="clap" data-url="{{ $page.Permalink }}">	  
       👏🏼&nbsp;
       <span class="count"></span>
-		 </span>
-		 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		 </span>		 
 		  <script>
 		 // the clap counts for each article are displayed via span elements with the 'kudos' class, find all these
 			 function loadClapCount() {
