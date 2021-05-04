@@ -201,10 +201,18 @@
     {{ range $page.Params.breadcrumbs }}
     {{ if eq . "recursos-fisica-quimica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+    {{ else if eq . "ebau-fisica-examenes-completos" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">☢️ Física</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica/examenes-completos">📝 Exámenes completos</a></li>      
     {{ else if eq . "ebau-fisica-por-temas" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">☢️ Física</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica/por-temas">🗂️ Por temas</a></li>
+    {{ else if eq . "ebau-quimica-examenes-completos" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica/examenes-completos">📝 Exámenes completos</a></li>       
     {{ else if eq . "ebau-quimica-por-temas" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>
