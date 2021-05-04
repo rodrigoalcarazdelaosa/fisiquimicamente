@@ -3,6 +3,7 @@ title: Interacción gravitatoria
 url: "recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-gravitatoria"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
+breadcrumbs: ["recursos-fisica-quimica","ebau-fisica-por-temas"]
 tags:
 - EBAU
 - gravitación

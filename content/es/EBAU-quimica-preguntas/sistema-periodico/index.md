@@ -3,6 +3,7 @@ title: Sistema periódico
 url: "recursos-fisica-quimica/ebau/quimica/por-temas/sistema-periodico"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
+breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
 tags:
 - EBAU
 - tabla-periódica

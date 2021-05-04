@@ -3,6 +3,7 @@ title: Ondas
 url: "recursos-fisica-quimica/ebau/fisica/por-temas/ondas"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
+breadcrumbs: ["recursos-fisica-quimica","ebau-fisica-por-temas"]
 tags:
 - EBAU
 - ondas

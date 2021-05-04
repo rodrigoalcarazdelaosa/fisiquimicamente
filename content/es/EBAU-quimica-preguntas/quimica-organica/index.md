@@ -3,6 +3,7 @@ title: Química orgánica
 url: "recursos-fisica-quimica/ebau/quimica/por-temas/quimica-organica" 
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
+breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
 tags:
 - EBAU
 - orgánica

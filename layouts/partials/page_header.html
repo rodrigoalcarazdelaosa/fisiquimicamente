@@ -200,12 +200,20 @@
     {{ end }}
     {{ range $page.Params.breadcrumbs }}
     {{ if eq . "recursos-fisica-quimica" }}
-      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>        
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+    {{ else if eq . "ebau-fisica-por-temas" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">☢️ Física</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica/por-temas">🗂️ Por temas</a></li>
+    {{ else if eq . "ebau-quimica-por-temas" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica/por-temas">🗂️ Por temas</a></li>      
     {{ else if eq . "oposiciones" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones">📝 Oposiciones</a></li>
     {{ else if eq . "fisica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones/fisica">☢️ Física</a></li>                
-      {{ else if eq . "quimica" }}
+    {{ else if eq . "quimica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones/quimica">⚗️ Química</a></li>      
     {{ end }}
     {{ end }}

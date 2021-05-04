@@ -3,6 +3,7 @@ title: Estructura de la materia
 url: "recursos-fisica-quimica/ebau/quimica/por-temas/estructura-materia"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
+breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
 tags:
 - EBAU
 - estructura-atómica

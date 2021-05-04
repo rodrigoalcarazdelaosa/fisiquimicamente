@@ -3,6 +3,7 @@ title: Cinética química
 url: "recursos-fisica-quimica/ebau/quimica/por-temas/cinetica-quimica"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
+breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
 tags:
 - EBAU
 - reacciones-químicas

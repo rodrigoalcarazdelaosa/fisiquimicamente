@@ -3,6 +3,7 @@ title: Ácido-base
 url: "recursos-fisica-quimica/ebau/quimica/por-temas/acido-base"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
+breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
 tags:
 - EBAU
 - reacciones-químicas

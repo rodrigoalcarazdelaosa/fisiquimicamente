@@ -3,6 +3,7 @@ title: Óptica geométrica
 url: "recursos-fisica-quimica/ebau/fisica/por-temas/optica-geometrica"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
+breadcrumbs: ["recursos-fisica-quimica","ebau-fisica-por-temas"]
 tags:
 - EBAU
 - óptica
