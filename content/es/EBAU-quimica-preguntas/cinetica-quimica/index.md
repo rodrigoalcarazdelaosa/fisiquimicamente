@@ -1,7 +1,8 @@
 ---
 title: Cinética química
-subtitle: Preguntas de EBAU resueltas
-summary: Preguntas de EBAU resueltas.
+url: "recursos-fisica-quimica/ebau/quimica/por-temas/cinetica-quimica"
+subtitle: Ejercicios de EBAU resueltos
+summary: Ejercicios de EBAU resueltos.
 tags:
 - EBAU
 - reacciones-químicas
@@ -10,13 +11,14 @@ categories:
 - Química
 weight: 5
 
-_build:
-  render: never
+image:
+  preview_only: true
+
+#_build:
+#  render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drive.google.com/file/d/1WvfHsF2jrXyeKUygZbMz0BKkNSvS699x/view"
-
-image:
-  caption: Imagen de [**Jalyn Bryce**](https://pixabay.com/es/users/jalynbryce-5426636/) en [Pixabay](https://pixabay.com/es/)
-  focal_point: Smart
+# external_link: "https://drive.google.com/file/d/1WvfHsF2jrXyeKUygZbMz0BKkNSvS699x/view"
 ---
+
+<iframe src="https://drive.google.com/file/d/1WvfHsF2jrXyeKUygZbMz0BKkNSvS699x/preview" style="width: 100vw; height: 500px; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" frameborder="0"></iframe>

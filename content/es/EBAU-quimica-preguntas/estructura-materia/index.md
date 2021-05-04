@@ -1,7 +1,8 @@
 ---
 title: Estructura de la materia
-subtitle: Preguntas de EBAU resueltas
-summary: Preguntas de EBAU resueltas.
+url: "recursos-fisica-quimica/ebau/quimica/por-temas/estructura-materia"
+subtitle: Ejercicios de EBAU resueltos
+summary: Ejercicios de EBAU resueltos.
 tags:
 - EBAU
 - estructura-atómica
@@ -10,13 +11,14 @@ categories:
 - Química
 weight: 1
 
-_build:
-  render: never
+image:
+  preview_only: true
+
+#_build:
+#  render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drive.google.com/file/d/1INMw8VP-b3JKBOGZtkAzfKPdgaYzFI21/view"
-
-image:
-  caption: Imagen de [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) en [Pixabay](https://pixabay.com/es/)
-  focal_point: Smart
+# external_link: "https://drive.google.com/file/d/1INMw8VP-b3JKBOGZtkAzfKPdgaYzFI21/view"
 ---
+
+<iframe src="https://drive.google.com/file/d/1INMw8VP-b3JKBOGZtkAzfKPdgaYzFI21/preview" style="width: 100vw; height: 500px; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" frameborder="0"></iframe>

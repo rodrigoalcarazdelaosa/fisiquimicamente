@@ -1,7 +1,8 @@
 ---
 title: Ácido-base
-subtitle: Preguntas de EBAU resueltas
-summary: Preguntas de EBAU resueltas.
+url: "recursos-fisica-quimica/ebau/quimica/por-temas/acido-base"
+subtitle: Ejercicios de EBAU resueltos
+summary: Ejercicios de EBAU resueltos.
 tags:
 - EBAU
 - reacciones-químicas
@@ -10,13 +11,14 @@ categories:
 - Química
 weight: 7
 
-_build:
-  render: never
+image:
+  preview_only: true
+
+#_build:
+#  render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drive.google.com/file/d/1_I1AzcRtBctJ_BTd_J-hNWxpz2hGPRm9/view"
-
-image:
-  caption: "Imagen de [**InspiredImages**](https://pixabay.com/es/users/InspiredImages-57296/) en [Pixabay](https://pixabay.com/es/)"
-  focal_point: Smart
+# external_link: "https://drive.google.com/file/d/1_I1AzcRtBctJ_BTd_J-hNWxpz2hGPRm9/view"
 ---
+
+<iframe src="https://drive.google.com/file/d/1_I1AzcRtBctJ_BTd_J-hNWxpz2hGPRm9/preview" style="width: 100vw; height: 500px; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" frameborder="0"></iframe>

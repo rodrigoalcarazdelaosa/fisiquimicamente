@@ -1,7 +1,8 @@
 ---
 title: Óptica geométrica
-subtitle: Preguntas de EBAU resueltas
-summary: Preguntas de EBAU resueltas.
+url: "recursos-fisica-quimica/ebau/fisica/por-temas/optica-geometrica"
+subtitle: Ejercicios de EBAU resueltos
+summary: Ejercicios de EBAU resueltos.
 tags:
 - EBAU
 - óptica
@@ -9,13 +10,14 @@ categories:
 - Física
 weight: 4
 
-_build:
-  render: never
+image:
+  preview_only: true
+
+#_build:
+#  render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drive.google.com/file/d/0B6t6-aLmKtoLMDI5LUR3UFBFaG8/view"
-
-image:
-  caption: Foto de [**j.mt_photography**](https://www.pexels.com/es-es/@j-mt_photography-628996) en [Pexels](https://www.pexels.com/es-es/)
-  focal_point: Smart
+# external_link: "https://drive.google.com/file/d/0B6t6-aLmKtoLMDI5LUR3UFBFaG8/view"
 ---
+
+<iframe src="https://drive.google.com/file/d/0B6t6-aLmKtoLMDI5LUR3UFBFaG8/preview" style="width: 100vw; height: 500px; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" frameborder="0"></iframe>
