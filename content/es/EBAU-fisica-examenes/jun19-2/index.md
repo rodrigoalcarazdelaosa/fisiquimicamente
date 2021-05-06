@@ -18,6 +18,8 @@ image:
 
 # Optional external URL for project (replaces project detail page).
 # external_link: https://drive.google.com/file/d/0B6t6-aLmKtoLUUpGc051eERKOFk/view
+
+weight: 2
 ---
 
 <div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>

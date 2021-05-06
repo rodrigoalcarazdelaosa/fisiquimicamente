@@ -1,6 +1,6 @@
 ---
 title: Junio 2014
-url: "recursos-fisica-quimica/ebau/fisica/examenes-completos/junio-2014-1"
+url: "recursos-fisica-quimica/ebau/fisica/examenes-completos/junio-2014-2"
 subtitle: Opción 2
 summary: Opción 2.
 breadcrumbs: ["recursos-fisica-quimica","ebau-fisica-examenes-completos"]
