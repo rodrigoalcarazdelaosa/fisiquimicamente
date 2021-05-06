@@ -29,7 +29,7 @@ image:
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://drive.google.com/file/d/0B6t6-aLmKtoLbVFsN2tIdURtRkk/preview"}},
+			content:{location: {url: "https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/fisica-s-xx/fisica-s-XX-EBAU-Fisica.pdf"}},
 			metaData:{fileName: "fisica-s-XX-EBAU-Fisica.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
