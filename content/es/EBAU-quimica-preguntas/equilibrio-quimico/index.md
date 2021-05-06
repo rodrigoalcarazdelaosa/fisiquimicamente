@@ -30,8 +30,8 @@ image:
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/enlace-quimico/enlace-quimico-EBAU-Quimica.pdf"}},
-			metaData:{fileName: "enlace-quimico-EBAU-Quimica.pdf"}
+			content:{location: {url: "https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/equilibrio-quimico/equilibrio-quimico-EBAU-Quimica.pdf"}},
+			metaData:{fileName: "equilibrio-quimico-EBAU-Quimica.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
