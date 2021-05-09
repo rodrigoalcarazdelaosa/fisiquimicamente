@@ -26,7 +26,7 @@ image:
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "04da14cf3537449fb79550f281d2feb4", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://fisiquimicament.com/recursos-fisica-quimica/pau-pbau/illes-balears/fisica/juny-2010/juny-2010-PBAU-Fisica.pdf"}},
 			metaData:{fileName: "juny-2010-PBAU-Fisica.pdf"}
