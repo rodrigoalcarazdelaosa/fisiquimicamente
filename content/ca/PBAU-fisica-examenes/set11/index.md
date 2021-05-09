@@ -2,7 +2,7 @@
 title: Setembre 2011
 url: "recursos-fisica-quimica/pau-pbau/illes-balears/fisica/setembre-2011"
 subtitle: Examen complet
-summary: "Examen complet d'PBAU Física."  # Add a page description.
+summary: "Examen complet de PBAU Física."  # Add a page description.
 breadcrumbs: ["recursos-fisica-quimica","pbau-fisica"]
 tags:
 - PBAU

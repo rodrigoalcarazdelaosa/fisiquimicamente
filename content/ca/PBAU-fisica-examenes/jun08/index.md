@@ -2,7 +2,7 @@
 title: Juny 2008
 url: "recursos-fisica-quimica/pau-pbau/illes-balears/fisica/juny-2008"
 subtitle: Examen complet
-summary: "Examen complet d'PBAU Física."  # Add a page description.
+summary: "Examen complet de PBAU Física."  # Add a page description.
 breadcrumbs: ["recursos-fisica-quimica","pbau-fisica"]
 tags:
 - PBAU
