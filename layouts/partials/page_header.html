@@ -188,6 +188,10 @@
   {{end}}
 <div class="{{$ctnr}} pt-3">
 
+  {{- $catalunya_flag := resources.Get ("media/icons/flag-catalonia.svg") -}}
+
+	{{- $illes_balears_flag := resources.Get ("media/icons/flag-balearic-islands.svg") -}}
+
   {{ with $page.Params.breadcrumbs }}
   <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
@@ -216,7 +220,11 @@
     {{ else if eq . "ebau-quimica-por-temas" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>
-      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica/por-temas">🗂️ Por temas</a></li>      
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica/por-temas">🗂️ Por temas</a></li>
+    {{ else if eq . "pbau-fisica" }}    
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears"><img draggable="false" class="icon" alt="illes balears" src="{{ $illes_balears_flag.RelPermalink }}"> Illes Balears</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears/fisica">☢️ Física</a></li>
     {{ else if eq . "oposiciones" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones">📝 Oposiciones</a></li>
     {{ else if eq . "fisica" }}
