@@ -1,15 +1,15 @@
 ---
-title: Galicia 2018
-url: "/recursos-fisica-quimica/oposiciones/fisica/galicia-2018-ob-e3"
-subtitle: Ejercicio 3 de la Opción B
-summary: "Ejercicio 3 de la Opción B."
+title: Navarra 2018
+url: "/recursos-fisica-quimica/oposiciones/fisica/navarra-2018-castellano-e5"
+subtitle: Castellano · Ejercicio 5
+summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Castellano · Ejercicio 5."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - jesica-sanchez-mazon
 tags:
 - oposiciones
-- termodinámica
+- gravitación
 categories:
 - Física
 
@@ -31,8 +31,8 @@ image:
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/galicia-2018-ob-e3/galicia-2018-ob-e3.pdf"}},
-			metaData:{fileName: "galicia-2018-ob-e3.pdf"}
+			content:{location: {url: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/navarra-2018-castellano-e5/navarra-2018-castellano-e5.pdf"}},
+			metaData:{fileName: "navarra-2018-castellano-e5.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
