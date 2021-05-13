@@ -4,6 +4,9 @@ url: "/physics-chemistry-notes/15-16-year-olds/periodic-table"
 subtitle: Periodic Table and Electron Configuration
 summary: "`🔜 COMING SOON` <br> Periodic Table and Electron Configuration."
 breadcrumbs: ["notes","15-16-year-olds"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alicia-sampedro
 tags:
 - 15-16-year-olds
 - periodic-table
@@ -18,16 +21,11 @@ image:
   caption: Image by [**vubp**](https://pixabay.com/es/users/vubp-6000785/) on [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Poster
+  url: periodic-table-poster.pdf
 
 ---
 
