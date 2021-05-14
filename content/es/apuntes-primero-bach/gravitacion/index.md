@@ -37,6 +37,8 @@ image:
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
 
+<!-- Práctica virtual medida de g: https://twitter.com/fqsaja1/status/1392867297312788481?s=21 -->
+
 Apuntes sobre gravitación, en formato texto y póster (tipo _chuleta_).
 
 {{% callout soon %}}
