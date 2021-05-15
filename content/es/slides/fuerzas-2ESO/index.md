@@ -236,7 +236,7 @@ Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 
 ---
 
-También puedes arender más sobre la **electricidad estática** con esta **simulación**:
+También puedes aprender más sobre la **electricidad estática** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
