@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- cantabria
+- 2016
 - gravitación
 categories:
 - Física

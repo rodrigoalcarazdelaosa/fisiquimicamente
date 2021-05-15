@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- navarra
+- 2018
 - gravitación
 categories:
 - Física

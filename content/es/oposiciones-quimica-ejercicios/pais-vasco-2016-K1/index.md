@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- país-vasco
+- 2016
 - ácido-base
 categories:
 - Química

@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- asturias
+- 2018
 - electromagnetismo
 categories:
 - Física

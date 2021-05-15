@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- aragón
+- 2018
 - ondas
 categories:
 - Física

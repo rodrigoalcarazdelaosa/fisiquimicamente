@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- cantabria
+- 2018
 - rédox
 categories:
 - Química

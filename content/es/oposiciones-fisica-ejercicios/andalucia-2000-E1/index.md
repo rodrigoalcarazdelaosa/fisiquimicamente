@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- andalucía
+- 2000
 - mecánica
 categories:
 - Física

@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- galicia
+- 2016
 - gravitación
 categories:
 - Física

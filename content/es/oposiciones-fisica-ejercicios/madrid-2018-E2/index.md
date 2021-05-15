@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- madrid
+- 2018
 - mecánica
 categories:
 - Física

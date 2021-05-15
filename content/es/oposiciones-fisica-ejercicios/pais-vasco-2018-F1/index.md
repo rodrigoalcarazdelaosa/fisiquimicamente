@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- país-vasco
+- 2018
 - ondas
 categories:
 - Física

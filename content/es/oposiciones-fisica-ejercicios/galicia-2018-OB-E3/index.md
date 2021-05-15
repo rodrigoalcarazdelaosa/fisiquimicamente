@@ -9,6 +9,8 @@ authors:
 - jesica-sanchez-mazon
 tags:
 - oposiciones
+- galicia
+- 2018
 - termodinámica
 categories:
 - Física
