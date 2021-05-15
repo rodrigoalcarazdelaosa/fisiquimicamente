@@ -3,6 +3,7 @@ title: Beautiful Chemistry
 summary: Proyecto cuyo objetivo es llevar la belleza de la química al público en general.
 tags:
 - fyq
+- vídeos
 categories: 
 - "Química"
 

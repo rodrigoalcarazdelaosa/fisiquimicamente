@@ -3,6 +3,7 @@ title: Beautiful Chemistry
 summary: Project whose goal is to bring the beauty of chemistry to the general public.
 tags:
 - pac
+- videos
 categories: 
 - "Chemistry"
 

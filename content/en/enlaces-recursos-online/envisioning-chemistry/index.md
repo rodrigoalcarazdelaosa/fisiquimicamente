@@ -1,8 +1,9 @@
 ---
 title: Envisioning Chemistry
-summary: Online exhibition that celebrates the beauty of chemistry.
+summary: Online exhibition that celebrates the beauty of chemistry. Sequel to the project [Beautiful Chemistry](https://www.beautifulchemistry.net/).
 tags:
 - pac
+- videos
 categories: 
 - "Chemistry"
 

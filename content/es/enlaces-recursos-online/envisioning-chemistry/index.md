@@ -1,8 +1,9 @@
 ---
 title: Envisioning Chemistry
-summary: Exposición en línea que celebra la belleza de la química.
+summary: Exposición en línea que celebra la belleza de la química. Secuela del proyecto [Beautiful Chemistry](https://www.beautifulchemistry.net/).
 tags:
 - fyq
+- vídeos
 categories: 
 - "Química"
 
