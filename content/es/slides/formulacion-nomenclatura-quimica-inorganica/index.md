@@ -9,6 +9,9 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: tomorrow
+
+  reveal_options:
+    hash: true
 ---
 
 # Formulación y nomenclatura de Química Inorgánica

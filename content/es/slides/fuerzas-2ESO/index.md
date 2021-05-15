@@ -9,6 +9,9 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: tomorrow
+
+  reveal_options:
+    hash: true
 ---
 
 # Las fuerzas
@@ -159,8 +162,8 @@ $$
 
 - [Rozamiento](#/3/1)
 - [Gravitatoria](#/3/6)
-- [Eléctrica](#/3/9)
-- [Magnética](#/3/14)
+- [Eléctrica](#/3/11)
+- [Magnética](#/3/17)
 
 (continúa hacia abajo)
 
@@ -249,6 +252,10 @@ Es la **fuerza** con la que las **cargas** eléctricas se **atraen** (signo opue
 ---
 
 La materia cargada {{< icon name="plus-circle" pack="fas" >}} tiene un **defecto** de **electrones**, mientras que la materia cargada {{< icon name="minus-circle" pack="fas" >}} tiene un **exceso** de **electrones**.
+
+---
+
+> Piensa sobre las **fuerzas eléctricas** con [este genial **juego**](https://universeandmore.com/polarity-shift/) de positivos y negativos.
 
 ---
 

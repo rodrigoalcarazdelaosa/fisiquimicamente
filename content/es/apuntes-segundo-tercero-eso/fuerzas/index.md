@@ -173,6 +173,10 @@ Es la **fuerza** con la que las **cargas** eléctricas se **atraen** (signo opue
 
 [^1]: Recuerda [aquí]({{< ref "/apuntes-segundo-tercero-eso/estructura-atomica/index.md#iones" >}}) el concepto de **ion** y la diferencia entre **cationes** y **aniones**.
 
+{{% callout note %}}
+Piensa sobre las **fuerzas eléctricas** con [este genial **juego**](https://universeandmore.com/polarity-shift/) de positivos y negativos.
+{{% /callout %}}
+
 Puedes aprender más sobre la **fuerza eléctrica** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
