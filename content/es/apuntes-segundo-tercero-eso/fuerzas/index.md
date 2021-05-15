@@ -149,6 +149,21 @@ $$
 
 siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
 
+{{< spoiler text="¿Y cuánto vale la <strong>gravedad</strong> en otros <strong>astros</strong> del <strong>Sistema Solar</strong>? Pincha aquí" >}}
+| Astro | $g$ | $\mathrm{m/s^2}$ |
+| --- | :---: | :---: |
+| Sol :sunny: | 28.02 | 274.8 |
+| Júpiter &#9795; | 2.53 | 24.8 |
+| Neptuno &#9798; | 1.14 | 11.2 |
+| Saturno &#9796; | 1.07 | 10.4 |
+| Tierra &#9793; | 1 | 9.8 |
+| Venus &#9792; | 0.90 | 8.9 |
+| Urano &#9797; | 0.89 | 8.7 |	
+| Marte &#9794; | 0.38 | 3.7 |						
+| Mercurio &#9791; | 0.38 | 3.7 |
+| Luna :crescent_moon: | 0.17 | 1.6 |
+{{< /spoiler >}}
+
 Puedes aprender más sobre la **fuerza gravitatoria** con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
