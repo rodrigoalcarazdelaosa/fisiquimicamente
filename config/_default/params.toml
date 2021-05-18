@@ -213,7 +213,9 @@ footer = {show_translations = true}
 ############################
 ## Comments
 ############################
-[comments]  
+[comments]
+
+  provider = "cusdis"
 
   # Which page types are commentable?
   commentable = {page = true, post = true, apuntes-segundo-tercero-eso = true, apuntes-cuarto-eso = true, apuntes-primero-bach = true, apuntes-segundo-bach-fisica = true, apuntes-segundo-bach-quimica = true, apuntes-formulacion = true, EBAU-fisica-examenes = true, EBAU-fisica-preguntas = true, EBAU-quimica-examenes = true, EBAU-quimica-preguntas = true, oposiciones-fisica-ejercicios = true, oposiciones-quimica-ejercicios = true}  
