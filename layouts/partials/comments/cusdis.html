@@ -5,7 +5,10 @@
   data-page-url="{{ .Permalink }}"
   data-page-title="{{ .Title }}"
 ></div>
-{{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
+{{ if eq .Site.Language.Lang "es" }}
     <script defer src="https://cusdis.com/js/widget/lang/es.js"></script>
+{{ end }}
+{{ if eq .Site.Language.Lang "ca" }}
+    <script defer src="https://cusdis.com/js/widget/lang/ca.js"></script>
 {{ end }}
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
