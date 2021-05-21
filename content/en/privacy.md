@@ -21,6 +21,7 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) for the [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) for the live personal chat (bottom right corner <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) to speed up and monetize[^3] the website (bottom left corner <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
+- [Cusdis](https://cusdis.com/privacy-policy) for comments.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) for the [license](/license).
 <!-- - [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) for the [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) widget (bottom left corner {{< icon name="comments" pack="fas" >}}). -->
 
