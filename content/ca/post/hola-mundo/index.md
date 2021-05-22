@@ -17,13 +17,13 @@ Primera entrada del blog. Comença una aventura que portava molt temps (anys) am
 
 ## Qui som?
 
-[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) és creada per [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) el 2020 com un lloc web on compartir principalment [⚛️ <span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) i [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) és creada per [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) el 2020 com un lloc web on compartir principalment [⚛️&nbsp;<span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) i [👐🏼&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
 
 El 2021 es fa la transició cap a un lloc web més *impersonal*, millor preparat i obert per a futures col·laboracions. [Clica aquí si vols conèixer a l'**equip** que hi ha darrere]({{< ref "/equipo" >}}).
 
 ## Per què aquest blog?
 
-La nostra intenció principal amb aquest lloc web és la de proporcionar 📚 [<span style="font-variant:small-caps;">**apunts de Física i Química**</span>]({{< ref "/apuntes" >}}) i 🎓 [<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) al nostre alumnat i a qui pugui interessar-li, a més de compartir 👐🏼 [<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) i recopilar 🔗 [<span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}).
+La nostra intenció principal amb aquest lloc web és la de proporcionar [📚&nbsp;<span style="font-variant:small-caps;">**apunts de Física i Química**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) al nostre alumnat i a qui pugui interessar-li, a més de compartir [👐🏼&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) i recopilar [🔗&nbsp;<span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}).
 
 Creiem que un **blog** és l'afegit perfecte per a poder debatre sobre l'**actualitat** amb un contingut molt més **dinàmic**.
 
@@ -47,13 +47,17 @@ Coneixes [Discord](https://discord.com/)? [Uneix-te al servidor de Discord de <i
 
 <!-- A més, a la **cantonada inferior esquerra** pots veure aquesta **icona** {{< icon name="comments" pack="fas" >}}. Clicant sobre ella pots escriure directament a qualsevol canal del servidor després d'iniciar sessió (desplaceu-vos cap avall fins a la secció *CATALÀ*). -->
 
+### Comentaris
+
+En totes les entrades del blog així com en els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) pots deixar-nos 💬&nbsp;**comentaris**.
+
 ### Kudos
 
-En totes les entrades del blog així com en els 📚 [<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) pots *donar-nos* <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. Hi ha *likes* i després hi ha *kudos*. Aquesta paraula, provinent del grec κῦδος, significa *fama*, *glòria* o *prestigi*. Donant-nos kudos estàs reconeixent i lloant el nostre esforç, animant-nos a seguir preparant materials de qualitat.
+En totes les entrades del blog així com en els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) pots *donar-nos* <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. Hi ha *likes* i després hi ha *kudos*. Aquesta paraula, provinent del grec κῦδος, significa *fama*, *glòria* o *prestigi*. Donant-nos kudos estàs reconeixent i lloant el nostre esforç, animant-nos a seguir preparant materials de qualitat.
 
 ### Compartint
 
-També pots <strong>compartir</strong> totes les <strong>entrades</strong> del <strong>blog</strong> així com els 📚 [<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) a les teves **xarxes socials** preferides.
+També pots <strong>compartir</strong> totes les <strong>entrades</strong> del <strong>blog</strong> així com els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) a les teves **xarxes socials** preferides.
 
 ### Subscrivint-te
 

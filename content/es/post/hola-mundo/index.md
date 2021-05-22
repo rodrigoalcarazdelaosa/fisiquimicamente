@@ -16,13 +16,13 @@ Primera entrada del blog. Comienza una aventura que llevaba mucho tiempo (años)
 
 ## ¿Quiénes somos?
 
-[<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/) es creada por [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) en 2020 como un sitio web donde compartir principalmente [⚛️ <span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) y [👐🏼 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/) es creada por [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) en 2020 como un sitio web donde compartir principalmente [⚛️&nbsp;<span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) y [👐🏼&nbsp;<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}).
 
 En 2021 hace la transición hacia un sitio web más *impersonal*, mejor preparado y abierto para futuras colaboraciones. [Pincha aquí si quieres conocer al **equipo** que está detrás]({{< ref "/equipo" >}}).
 
 ## ¿Por qué este blog?
 
-Nuestra intención principal con este sitio web es la de proporcionar 📚 [<span style="font-variant:small-caps;">**apuntes de Física y Química**</span>]({{< ref "/apuntes" >}}) y 🎓 [<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}})[^1] a nuestros/as alumnos/as y a quien pueda interesarle, además de compartir 📝 [<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}), 👐🏼 [<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar 🔗 [<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
+Nuestra intención principal con este sitio web es la de proporcionar [📚&nbsp;<span style="font-variant:small-caps;">**apuntes de Física y Química**</span>]({{< ref "/apuntes" >}}) y [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}})[^1] a nuestros/as alumnos/as y a quien pueda interesarle, además de compartir [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}), [👐🏼&nbsp;<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar [🔗&nbsp;<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
 
 [^1]: Gracias a la [excelente recopilación](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y el magnífico trabajo del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
 
@@ -48,13 +48,17 @@ Las entradas de este blog van dirigidas a nuestros/as alumnos/as y a todo aquel 
 
 <!-- Además, en la **esquina inferior izquierda** puedes ver este **icono** {{< icon name="comments" pack="fas" >}}. Pinchando sobre él puedes escribir directamente en cualquier canal del servidor tras iniciar sesión. -->
 
+### Comentarios
+
+En todas las entradas del blog así como en los [📚&nbsp;<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) y [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}) puedes dejarnos 💬&nbsp;**comentarios**.
+
 ### Kudos
 
-En todas las entradas del blog así como en los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) puedes *darnos* <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándonos kudos estás reconociendo y alabando nuestro esfuerzo, animándonos a seguir preparando materiales de calidad.
+En todas las entradas del blog así como en los [📚&nbsp;<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) y [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}) puedes *darnos* <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándonos kudos estás reconociendo y alabando nuestro esfuerzo, animándonos a seguir preparando materiales de calidad.
 
 ### Compartiendo
 
-También puedes <strong>compartir</strong> todas las <strong>entradas</strong> del <strong>blog</strong> así como los 📚 [<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}) en tus **redes sociales** favoritas.
+También puedes <strong>compartir</strong> todas las <strong>entradas</strong> del <strong>blog</strong> así como los [📚&nbsp;<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) y [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}) en tus **redes sociales** favoritas.
 
 ### Suscribiéndote
 

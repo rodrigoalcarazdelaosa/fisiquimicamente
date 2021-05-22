@@ -16,14 +16,14 @@ First blog. Here begins an adventure that I had been wanting to start for a long
 
 ## Who are we?
 
-[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is created by [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) in 2020 as a website where to share mainly [📚 <span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is created by [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) in 2020 as a website where to share mainly [📚&nbsp;<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and [👐🏼&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
 
 In 2021 it transitions to a more *impersonal* website, better prepared and open for future collaborations. [Click here if you want to meet the **team** behind it]({{< ref "/equipo" >}}).
 
 
 ## Why this blog?
 
-Our main intention with this website is to provide 📚 [<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) to our students and to anyone else who might be interested, as well as sharing 👐🏼 [<span style="font-variant: small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) and collect 🔗 [<span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}).
+Our main intention with this website is to provide [📚&nbsp;<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) to our students and to anyone else who might be interested, as well as sharing [👐🏼&nbsp;<span style="font-variant: small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) and collect [🔗&nbsp;<span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}).
 
 We think that a **blog** is the perfect addition to be able to debate about **news** with a much more **dynamic** content.
 
@@ -40,18 +40,23 @@ In this blog you will find **opinion** articles, **curiosities** about **science
 The posts in this blog are aimed at our students and anyone else who is curious about science and/or shares any of our interests.
 
 ## How can you get involved?
+
 ### {{< icon name="discord" pack="fab" >}} Discord
 
 Do you know [Discord](https://discord.com/)? [Join the Discord server of <img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
 
 <!-- Also, in the **bottom left corner** you can see this **icon** {{< icon name="comments" pack="fas" >}}. By clicking on it you can write directly in any channel on the server after logging in (scroll down to the *ENGLISH* section). -->
 
+### Comments
+
+In all the blog posts as well as in the [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can leave us 💬&nbsp;**comments**.
+
 ### Kudos
 
-In all the blog posts as well as in the 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* us <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. There are *likes* and then there are *kudos*. This word, from the Greek κῦδος, means *fame*, *glory* or *prestige*. By giving us kudos you are acknowledging and praising our effort, encouraging us to continue preparing quality materials.
+In all the blog posts as well as in the [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* us <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. There are *likes* and then there are *kudos*. This word, from the Greek κῦδος, means *fame*, *glory* or *prestige*. By giving us kudos you are acknowledging and praising our effort, encouraging us to continue preparing quality materials.
 
 ### Sharing
-You can also <strong>share</strong> all the <strong>blog posts</strong> and 📚 [<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.
+You can also <strong>share</strong> all the <strong>blog posts</strong> and [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.
 
 ### Subscribing
 If you don't want to miss any **updates** you can **subscribe** to the [**RSS** feed {{< icon name="rss" pack="fas" >}}](index.xml).
