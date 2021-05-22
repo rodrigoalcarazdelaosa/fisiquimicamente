@@ -1,3 +1,12 @@
+<center>
+  {{ if eq .Site.Language.Lang "es" }}
+    <h3 style="color: #555;">Comentarios</h3>
+  {{ else if eq .Site.Language.Lang "en" }}
+    <h3 style="color: #555;">Comments</h3>
+  {{ else if eq .Site.Language.Lang "ca" }}
+    <h3 style="color: #555;">Comentaris</h3>    
+  {{ end }}
+</center>  
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
   data-app-id="b9b5c1f3-2af7-4ef5-9d26-4c2b44a1d829"
