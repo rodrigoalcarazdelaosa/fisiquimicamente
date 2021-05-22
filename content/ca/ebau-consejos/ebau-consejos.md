@@ -57,7 +57,9 @@ subtitle = "💡Consells"
 - 🧘 Intenta **relaxar** el dia abans de l'examen, evitant estudiar si és possible.
 - 😴 Ves a dormir aviat i **descansa** la nit abans de l'examen.
 - 🍊 **Comença** el **dia** amb un **esmorzar saludable**.
-- 🙃 **No oblidis** teva **carnet** d'identitat, dues **bolis** i *dues* **calculadores**.
+- 🙃 **No oblidis** teva **carnet** d'identitat, dues **bolis** i *dues* **calculadores**[^1].
+
+[^1]: Consulta [aquí](https://evau.info) les calculadores permeses.
 
 ## Durant
 

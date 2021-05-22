@@ -57,7 +57,9 @@ subtitle = "💡Consejos"
 - 🧘 Intenta **relajarte** el día antes del examen, evitando estudiar a ser posible.
 - 😴 Acuéstate pronto y **descansa** la noche antes del examen.
 - 🍊 **Comienza** el **día** con un **desayuno saludable**.
-- 🙃 **No olvides** tu **carné** de identidad, dos **bolis** y *dos* **calculadoras**.
+- 🙃 **No olvides** tu **carné** de identidad, dos **bolis** y *dos* **calculadoras**[^1].
+
+[^1]: Consulta [aquí](https://evau.info) las calculadoras permitidas.
 
 ## Durante
 
