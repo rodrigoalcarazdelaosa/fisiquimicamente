@@ -90,3 +90,6 @@ subtitle = "📓 2º Bach ☢️ Física"
  css_class = ""
 +++
 
+{{% callout gdrive %}}
+También te recomiendo echar un vistazo a las [**guías** de **Berto Tomás**](https://drive.google.com/drive/folders/1ykTM8CZRMeczC1eWtOYBJ7XOQfwBLpvy).
+{{% /callout %}}
