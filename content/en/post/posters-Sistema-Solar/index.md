@@ -16,16 +16,16 @@ image:
   caption: "[https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/)"
 
 gallery_item:
-- album: Sol
+- album: sol
   image: "980_poster_sun_front_a.jpg"
   caption: "A [solar flare erupts from the Sun](https://solarsystem.nasa.gov/resources/386/sun-emits-a-solstice-flare-and-cme/) as seen by NASA’s Solar Dynamics Observatory in 2013. Credit: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1405_Sun_A_PDF.zip)"
-- album: Sol
+- album: sol
   image: "981_poster_sun_front_b.jpg"
   caption: "[X-rays stream off the Sun](https://solarsystem.nasa.gov/resources/381/sun-shines-in-high-energy-x-rays/) in this image showing observations by NASA's Nuclear Spectroscopic Telescope Array, or NuSTAR, overlaid on a picture taken by NASA's Solar Dynamics Observatory. Credit: NASA/JPL-Caltech/GSFC <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1409_Sun_B_PDF.zip)"
-- album: Sol
+- album: sol
   image: "982_poster_sun_front_c.jpg"
   caption: "The Sun [emits a mid-level solar flare](https://solarsystem.nasa.gov/resources/768/nasas-sdo-sees-sun-emit-mid-level-flare-oct-1/), as seen by NASA’s Solar Dynamics Observatory in 2015. Credit: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1413_Sun_C_PDF.zip)"
-- album: Sol
+- album: sol
   image: "983_poster_sun_front_d.jpg"
   caption: "The Sun [blew out a coronal mass ejection](https://solarsystem.nasa.gov/resources/1051/brief-outburst/) along with part of a solar filament on Feb. 24, 2015, as seen by NASA's Solar Dynamics Observatory (SDO). Credit: NASA/SDO <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1417_Sun_D_PDF.zip)"
 - album: Mercurio
