@@ -13,20 +13,33 @@ categories:
 - Physics
 - Chemistry
 image:
+  preview_only: true
   placement: 3
 #  caption: Tabla Periódica DC
-links:
-- icon_pack: fas
-  icon: file-download
-  name: PDF
-  url: pdf/periodic-table-scientists.pdf
+#links:
+#- icon_pack: fas
+#  icon: file-download
+#  name: PDF
+#  url: pdf/periodic-table-scientists.pdf
 ---
 
 Inspired by the [<img draggable="false" class="icon" alt="DC" src="/icon/DC.svg"> Periodic Table]({{< ref "/post/tabla-periodica-DC/index.md" >}}), {{% mention "jesica-sanchez-mazon" %}} and myself present our version with **distinguished scientists**.
 
 {{% callout note %}}
-By clicking on the button above you can download a **PDF** where each image is a **link** that takes you to the scientist's Wikipedia page. In addition, on the back (second page of the PDF) you can see both the **name** of each **element** and that of each **scientist** (both linked to Wikipedia).
+Each image is a **link** that takes you to the scientist's Wikipedia page. In addition, on the back (second page of the PDF) you can see both the **name** of each **element** and that of each **scientist** (both linked to Wikipedia).
 {{% /callout %}}
+
+<div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "39dd32af74e34012833655746f111947", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://physichemically.com/pdf/periodic-table-scientists.pdf"}},
+			metaData:{fileName: "periodic-table-scientists.pdf"}
+		}, {embedMode: "IN_LINE"});
+	});
+</script>
 
 ## Notes
 Some **notes** about the Table:
