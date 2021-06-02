@@ -11,20 +11,31 @@ tags:
 categories:
 - Química
 image:
-  placement: 3
+  preview_only: true
+#  placement: 3
 #  caption: Tabla Periódica DC
-links:
-- icon_pack: fas
-  icon: file-download
-  name: PDF
-  url: tabla-periodica-elementos.pdf
+#links:
+#- icon_pack: fas
+#  icon: file-download
+#  name: PDF
+#  url: tabla-periodica-elementos.pdf
 ---
 
-Aquí tienes una **Tabla Periódica de los Elementos** con información básica y en alta resolución. También puedes descargarte [este estupendo cómic](https://7dde302b-d152-48de-80b5-41af2754e2f1.filesusr.com/ugd/aabf3b_81075692dae9482a9625f84147de8272.pdf). 
+Aquí tienes una **Tabla Periódica de los Elementos** con información básica y en alta resolución, donde cada elemento es un **enlace** que te lleva a la página de la **Wikipedia** del **elemento**.
 
-{{% callout note %}}
-Pinchando en el botón de arriba puedes descargarte un **PDF** donde cada elemento es un **enlace** que te lleva a la página de la **Wikipedia** del **elemento**.
-{{% /callout %}}
+<div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos.pdf"}},
+			metaData:{fileName: "tabla-periodica-elementos.pdf"}
+		}, {embedMode: "IN_LINE"});
+	});
+</script>
+
+También puedes descargarte [este estupendo cómic](https://7dde302b-d152-48de-80b5-41af2754e2f1.filesusr.com/ugd/aabf3b_81075692dae9482a9625f84147de8272.pdf).
 
 {{% callout note %}}
 Si te interesa, [aquí tienes una versión **sin nombres**](tabla-periodica-elementos-sin-nombres.pdf) (el resto igual, también con **enlaces** a la **Wikipedia**).
