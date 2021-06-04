@@ -107,7 +107,7 @@
   {{end}}
 
   {{ $columns := $st.Params.design.columns | default "2" }}
-  {{ $use_cols := in (slice "pages" "featured" "experience" "accomplishments" "contact" "blank" "tag_cloud" "portfolio") $widget }}
+  {{ $use_cols := in (slice "pages" "featured" "experience" "experience-trayectoria" "experience-estancias" "accomplishments" "contact" "blank" "tag_cloud" "portfolio") $widget }}
 
   {{/* Dedicated child div for bg prevents parallax 100% height issue within new CSS grid page wrapper. */}}
   <section id="{{$hash_id}}" class="home-section {{$widget_class}} {{if $bg.text_color_light}}dark{{else if (eq $bg.text_color_light false)}}light{{end}} {{with $css_classes}}{{.}}{{end}}" {{with $style}}style="{{. | safeCSS}}"{{end}} {{print $extra_attributes | safeHTMLAttr}}>
@@ -473,7 +473,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Intereses y formación</li>
 	    </ol>
 		</nav>		
-	{{ else if and (eq $widget "experience") (eq $st.Title "👣 Trayectoria profesional") }}
+	{{ else if and (eq $widget "experience-trayectoria") (eq $st.Title "👣 Trayectoria profesional") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>
@@ -482,7 +482,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">👣 Trayectoria profesional</li>
 	    </ol>
 		</nav>
-	{{ else if and (eq $widget "experience") (eq $st.Title "✈️ Estancias de investigación") }}
+	{{ else if and (eq $widget "experience-estancias") (eq $st.Title "✈️ Estancias de investigación") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>
@@ -508,7 +508,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Interests and Education</li>
 	    </ol>
 		</nav>
-	{{ else if and (eq $widget "experience") (eq $st.Title "👣 Career Path") }}
+	{{ else if and (eq $widget "experience-trayectoria") (eq $st.Title "👣 Career Path") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
@@ -517,7 +517,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">👣 Career Path</li>
 	    </ol>
 		</nav>
-	{{ else if and (eq $widget "experience") (eq $st.Title "✈️ Research Stays") }}
+	{{ else if and (eq $widget "experience-estancias") (eq $st.Title "✈️ Research Stays") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>			
@@ -543,7 +543,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">👨‍🎓 Interessos i formació</li>
 	    </ol>
 		</nav>		
-	{{ else if and (eq $widget "experience") (eq $st.Title "👣 Trajectòria professional") }}
+	{{ else if and (eq $widget "experience-trayectoria") (eq $st.Title "👣 Trajectòria professional") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
@@ -552,7 +552,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">👣 Trajectòria professional</li>
 	    </ol>
 		</nav>
-	{{ else if and (eq $widget "experience") (eq $st.Title "✈️ Estades de recerca") }}
+	{{ else if and (eq $widget "experience-estancias") (eq $st.Title "✈️ Estades de recerca") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 			<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
