@@ -33,6 +33,12 @@ body {
   font-family: $sta-font-nav, sans-serif;
 }
 
+@include media-breakpoint-down(md) {
+  .navbar-brand img {
+    max-height: 17px; // 40px height + 10px v-padding = 50px.
+  }
+}
+
  .breadcrumb {  
 //   margin-top: 35px;
   margin-top: -0.5rem;
