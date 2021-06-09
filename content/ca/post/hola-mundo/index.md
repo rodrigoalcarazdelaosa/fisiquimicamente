@@ -8,10 +8,16 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 - eduard-cremades
 image:
+  preview_only: true
   placement: 3
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) a [Unsplash](https://unsplash.com)
 featured: true  
 ---
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
+
+<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="/tgs/hello.tgs">
+</tgs-player>
 
 Primera entrada del blog. Comença una aventura que portava molt temps (anys) amb ganes de començar.
 

@@ -7,10 +7,16 @@ date: "2020-04-28T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 image:
+  preview_only: true
   placement: 3
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) en [Unsplash](https://unsplash.com)
 featured: true  
 ---
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
+
+<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="/tgs/hello.tgs">
+</tgs-player>
 
 Primera entrada del blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.
 

@@ -7,10 +7,16 @@ date: "2020-04-28T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 image:
+  preview_only: true
   placement: 3
   caption: Photo by [**Octavian Dan**](https://unsplash.com/@octadan) on [Unsplash](https://unsplash.com)
 featured: true
 ---
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
+
+<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="/tgs/hello.tgs">
+</tgs-player>
 
 First blog. Here begins an adventure that I had been wanting to start for a long time (years).
 
