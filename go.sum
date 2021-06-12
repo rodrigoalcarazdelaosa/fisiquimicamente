@@ -2,7 +2,7 @@ github.com/jakejarvis/hugo-mod-twemoji v0.3.0 h1:jfd+zYe2EyQhc40FWNqK1x+/YbCefw6
 github.com/jakejarvis/hugo-mod-twemoji v0.3.0/go.mod h1:3A+EjJ50vQEkmnEfhEY3RqPXozuWudsGwHx2UAUn9tA=
 github.com/twitter/twemoji v13.1.0+incompatible h1:zuIDFhqQo+lyFKf764PZ2tvHRFg+KFwq5tyAzW9vJl4=
 github.com/twitter/twemoji v13.1.0+incompatible/go.mod h1:06L6PdKuWDx/Yh6s4B7yGkAeBmWZzbFZgfNnWlJPPYM=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210611195008-efdea8f25932 h1:L30An/sxkeneIkmvmLhu7Ib3MsZWLcTu9AFCd1Qm6Ug=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210611195008-efdea8f25932/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210611195008-efdea8f25932 h1:g+zj0I/HoKv5QdEPwqy3MfDuz2i1NnNoiAlGv5wSHrA=
-github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210611195008-efdea8f25932/go.mod h1:AKpYbqUVlj0VYsc7Jsxe1o8Ko2yV31A5ZPdfpACcXJw=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210612231437-526d011a446e h1:ynQ3nz7MqpkQ1TVLjj3I4DgzrayF66/vRlxDXoIcL7U=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210612231437-526d011a446e/go.mod h1:H22qfH9qj3FWwsk7+bAZpmT24yRGNQURah2/IRwjbn8=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210612231437-526d011a446e h1:USC2wZOu0Xv8cMEm8JmF/sR4GU45gvvAGYMlqQ8/UJI=
+github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210612231437-526d011a446e/go.mod h1:AKpYbqUVlj0VYsc7Jsxe1o8Ko2yV31A5ZPdfpACcXJw=
