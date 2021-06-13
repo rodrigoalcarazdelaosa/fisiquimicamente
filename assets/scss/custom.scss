@@ -30,7 +30,7 @@ body {
   
 /* Navigation bar text */
 .navbar-light {
-  font-family: $sta-font-nav, sans-serif;
+  font-family: $sta-font-nav, serif;
 }
 
  .breadcrumb {  
@@ -1196,11 +1196,11 @@ a.footnote-backref:hover {
 }
 
 .cc-message {
-  font-family: $sta-font-nav, sans-serif;	
+  font-family: $sta-font-nav, serif;	
 }
 
 a.cc-btn.cc-dismiss {
-  font-family: $sta-font-nav, sans-serif;  
+  font-family: $sta-font-nav, serif;  
 }
 
 a.cc-btn.cc-dismiss:hover {
@@ -1218,7 +1218,7 @@ a.cc-link:active, a.cc-link:hover, a.cc-link:visited {
  **************************************************/
 
 .tooltip-inner {
-  font-family: $sta-font-nav, sans-serif;	
+  font-family: $sta-font-nav, serif;	
 }
 
 ///*************************************************
