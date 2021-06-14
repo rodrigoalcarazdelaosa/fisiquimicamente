@@ -33,6 +33,18 @@ body {
   font-family: $sta-font-nav, serif;
 }
 
+@include media-breakpoint-down(md) {
+  // Used in conjunction with mobile .navbar-brand to center logo on mobile.
+  .navbar-brand-mobile-wrapper {
+    position: relative;
+  }
+  .navbar-brand {
+    // Center logo in mobile navbar.
+    margin: auto;
+    padding-left: 1rem;
+  }
+}
+
  .breadcrumb {  
 //   margin-top: 35px;
   margin-top: -0.5rem;
