@@ -13,6 +13,5 @@ title = "👨‍🎓 Intereses y formación"
 author = "rodrigo-alcaraz-de-la-osa"
 
 [design.background]
-  gradient_start = "#FFFFF8"
-  gradient_end = "#BBCCEE"
+  color = "#FFFFF8"
 +++
