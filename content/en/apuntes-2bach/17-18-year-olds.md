@@ -36,11 +36,11 @@ subtitle = "📓 17--18 year-olds"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "FFFFF8"
   
   # Background gradient.
-  gradient_start = "#BBCCEE"
-  gradient_end = "#FFFFF8"
+  # gradient_start = "#BBCCEE"
+  # gradient_end = "#FFFFF8"
   
   # Background image.
   # image = "ebau.jpg"  # Name of image in `static/media/`.
