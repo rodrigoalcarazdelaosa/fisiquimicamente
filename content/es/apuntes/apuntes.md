@@ -17,31 +17,31 @@ subtitle = "En formato **texto**, **diapositivas** y **póster** (tipo _chuleta_
 [[feature]]
   icon = "[📗](2eso)"
   icon_pack = "emoji"
-  name = "[2º ESO](2eso)"
+  name = "[2.º ESO](2eso)"
   description = ""
   
 [[feature]]
   icon = "[📘](3eso)"
   icon_pack = "emoji"
-  name = "[3º ESO](3eso)"
+  name = "[3.º ESO](3eso)"
   description = ""
   
 [[feature]]
   icon = "[📙](4eso)"
   icon_pack = "emoji"
-  name = "[4º ESO](4eso)"
+  name = "[4.º ESO](4eso)"
   description = ""
   
 [[feature]]
   icon = "[📕](1bach)"
   icon_pack = "emoji"
-  name = "[1º Bach](1bach)"
+  name = "[1.º Bach](1bach)"
   description = ""
       
 [[feature]]
   icon = "[📓](2bach)"
   icon_pack = "emoji"
-  name = "[2º Bach](2bach)"
+  name = "[2.º Bach](2bach)"
   description = "[☢️ Física](2bach/fisica) · [⚗️ Química](2bach/quimica)"
 
 [[feature]]
