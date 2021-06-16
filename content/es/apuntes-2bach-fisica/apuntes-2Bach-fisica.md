@@ -91,5 +91,5 @@ subtitle = "📓 2.º Bach ☢️ Física"
 +++
 
 {{% callout gdrive %}}
-También te recomiendo echar un vistazo a las [**guías** de **Berto Tomás**](https://drive.google.com/drive/folders/1ykTM8CZRMeczC1eWtOYBJ7XOQfwBLpvy).
+También te recomiendo echar un vistazo a las [**guías** de **Berto Tomás**](https://drive.google.com/drive/folders/1akqqtkjCwimxR618abh_NGmNa-i2cp7G).
 {{% /callout %}}
