@@ -27,7 +27,7 @@ bio: Soy Doctor en Física y Profesor de Física y Química en el [IES Ría San 
 
 interests:
 - ✈️ Viajar
-- 🎸 [Música](#guitarra)
+- 🎸 [Música](#guitarra)[<img draggable="false" alt="marvel" src="/icon/DT.svg">](https://dreamtheater.net) <iframe src="https://open.spotify.com/embed/artist/2aaLAng2L2aWD2FClzwiep" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 - 🎮 Videojuegos
 - ⚛️ *Fotones*
 
