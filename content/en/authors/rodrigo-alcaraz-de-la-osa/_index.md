@@ -26,7 +26,7 @@ bio: I have a PhD in Physics and I teach Physics and Chemistry at [IES Ría San 
 
 interests:
 - ✈️ Traveling
-- 🎸 [Music](#guitar)
+- 🎸 [Music](#guitar) [<img draggable="false" alt="DT" src="/icon/DT.svg">](https://dreamtheater.net) <iframe src="https://open.spotify.com/embed/artist/2aaLAng2L2aWD2FClzwiep" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 - 🎮 Video games
 - ⚛️ *Photons*
 

@@ -26,7 +26,7 @@ bio: Sóc Doctor en Física per la [Universidad de Cantabria](https://web.unican
 
 interests:
 - ✈️ Viatjar
-- 🎸 [Música](#guitarra)
+- 🎸 [Música](#guitarra) [<img draggable="false" alt="DT" src="/icon/DT.svg">](https://dreamtheater.net) <iframe src="https://open.spotify.com/embed/artist/2aaLAng2L2aWD2FClzwiep" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 - 🎮 Videojocs
 - ⚛️ *Fotons*
 
