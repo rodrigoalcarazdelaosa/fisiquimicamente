@@ -264,6 +264,7 @@ footer = {show_translations = true}
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+  cloudflare = ""
 
 ############################
 ## Content Management System
