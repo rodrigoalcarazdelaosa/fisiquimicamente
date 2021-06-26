@@ -23,6 +23,7 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) para el chat personal (esquina inferior derecha <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) para acelerar y monetizar[^3] la web (esquina inferior izquierda <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
 - [<img draggable="false" class="icon" alt="cusdis" src="/icon/cusdis.svg"> Cusdis](https://cusdis.com/privacy-policy) para los 💬 comentarios.
+- [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) para las analíticas web.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) para la [licencia](/licencia).
 <!-- - [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) para el widget de [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) (esquina inferior izquierda {{< icon name="comments" pack="fas" >}}). -->
 
