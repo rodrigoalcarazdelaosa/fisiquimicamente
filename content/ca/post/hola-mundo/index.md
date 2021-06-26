@@ -61,6 +61,10 @@ En totes les entrades del blog així com en els [📚&nbsp;<span style="font-var
 
 En totes les entrades del blog així com en els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) pots *donar-nos* <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. Hi ha *likes* i després hi ha *kudos*. Aquesta paraula, provinent del grec κῦδος, significa *fama*, *glòria* o *prestigi*. Donant-nos kudos estàs reconeixent i lloant el nostre esforç, animant-nos a seguir preparant materials de qualitat.
 
+### *Cafès* (donacions)
+
+Si vols, [pots convidar-nos a un cafè](https://paypal.me/fisiquimicamente) utilitzant el servei [{{< icon name="paypal" pack="fab" >}}PayPal.Me](https://www.paypal.com/es/webapps/mpp/paypal-me). Tots els *cafès* es destinaran a pagar i seguir millorant [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/).
+
 ### Compartint
 
 També pots <strong>compartir</strong> totes les <strong>entrades</strong> del <strong>blog</strong> així com els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) a les teves **xarxes socials** preferides.

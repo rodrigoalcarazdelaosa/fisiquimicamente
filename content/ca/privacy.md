@@ -20,6 +20,7 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy) pel [formulari de contacte](/#contacte).
 - [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) i [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) per emojis i icones.
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) pels [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
+- [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions).
 - [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) pel xat personal (cantonada inferior dreta <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) per accelerar i monetitzar[^3] el web (cantonada inferior esquerra <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
 - [<img draggable="false" class="icon" alt="cusdis" src="/icon/cusdis.svg"> Cusdis](https://cusdis.com/privacy-policy) per als 💬 comentaris.

@@ -62,6 +62,10 @@ En todas las entradas del blog así como en los [📚&nbsp;<span style="font-var
 
 En todas las entradas del blog así como en los [📚&nbsp;<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) y [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}) puedes *darnos* <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. Hay *likes* y luego hay *kudos*. Esta palabra, proveniente del griego κῦδος, significa *fama*, *gloria* o *prestigio*. Dándonos kudos estás reconociendo y alabando nuestro esfuerzo, animándonos a seguir preparando materiales de calidad.
 
+### *Cafés* (donaciones)
+
+Si lo deseas, [puedes invitarnos a un *café*](https://paypal.me/fisiquimicamente) utilizando el servicio [{{< icon name="paypal" pack="fab" >}}PayPal.Me](https://www.paypal.com/es/webapps/mpp/paypal-me). Todos los *cafés* se destinarán a costear y seguir mejorando [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/).
+
 ### Compartiendo
 
 También puedes <strong>compartir</strong> todas las <strong>entradas</strong> del <strong>blog</strong> así como los [📚&nbsp;<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) y [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}) en tus **redes sociales** favoritas.
