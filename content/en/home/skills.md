@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "PhysiChemically"
-subtitle = ""
+subtitle = "Physics and Chemistry Resources, Tutorials and Current Science"
 
 # Showcase personal skills or business features.
 # 
