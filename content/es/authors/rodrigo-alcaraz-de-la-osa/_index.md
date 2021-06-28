@@ -54,28 +54,28 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contacto'  # For a direct email link, use "mailto:test@example.org".
-  label: Contáctame
+  label: Contáctanos
   display:
     header: true
     footer: true
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alcarazr
-  label: Sígueme en Twitter
+  label: Síguenos en Twitter
   display:
     header: true
     footer: true
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/fisiquimicamente/
-  label: Sígueme en Instagram
+  label: Síguenos en Instagram
   display:
     header: true
     footer: true
 - icon: pinterest
   icon_pack: fab
   link: https://www.pinterest.es/fisiquimicamente/
-  label: Sígueme en Pinterest
+  label: Síguenos en Pinterest
   display:
     header: true
     footer: true

@@ -25,9 +25,9 @@
     email = "contact@physichemically.com"
 	  address = {region = "Cantabria", country = "Spain", country_code = "ES"}
     contact_links = [
-      {icon = "twitter", icon_pack = "fab", name = "Follow me on Twitter", link = "https://twitter.com/alcarazr"},
-      {icon = "instagram", icon_pack = "fab", name = "Follow me on Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
-      {icon = "pinterest", icon_pack = "fab", name = "Follow me on Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
+      {icon = "twitter", icon_pack = "fab", name = "Follow us on Twitter", link = "https://twitter.com/alcarazr"},
+      {icon = "instagram", icon_pack = "fab", name = "Follow us on Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
+      {icon = "pinterest", icon_pack = "fab", name = "Follow us on Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
       {icon = "discord", icon_pack = "fab", name = "Join the Discord server", link = "https://discord.gg/kJqPqTJ"},
     ]
 
@@ -40,9 +40,9 @@
     description = "Recursos de Física i Química, tutorials i ciència d'actualitat"
     email = "contacte@fisiquimicament.com"
     contact_links = [
-      {icon = "twitter", icon_pack = "fab", name = "Segueix-me a Twitter", link = "https://twitter.com/alcarazr"},
-      {icon = "instagram", icon_pack = "fab", name = "Segueix-me a Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
-      {icon = "pinterest", icon_pack = "fab", name = "Segueix-me a Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
+      {icon = "twitter", icon_pack = "fab", name = "Segueix-nos a Twitter", link = "https://twitter.com/alcarazr"},
+      {icon = "instagram", icon_pack = "fab", name = "Segueix-nos a Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
+      {icon = "pinterest", icon_pack = "fab", name = "Segueix-nos a Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
       {icon = "discord", icon_pack = "fab", name = "Uneix-te a el servidor d'Discord", link = "https://discord.gg/kJqPqTJ"},
     ]
 
