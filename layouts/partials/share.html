@@ -13,11 +13,11 @@
 	</center>
   <ul class="subscribe">
 	  {{ if eq .Site.Language.Lang "es" }}
-	  <li data-toggle="tooltip" data-html="true" data-placement="left" title aria-label="Kudos" data-original-title="Danos <em>kudos</em"><applause-button multiclap="true" style="width: 38px; height: 38px;" url="{{ $.Permalink }}" /></li>
+	  <li data-toggle="tooltip" data-html="true" data-placement="right" title aria-label="Kudos" data-original-title="Danos <em>kudos</em"><applause-button multiclap="true" style="width: 38px; height: 38px;" url="{{ $.Permalink }}" /></li>
       {{ else if eq .Site.Language.Lang "en" }}
-	  <li data-toggle="tooltip" data-html="true" data-placement="left" title aria-label="Kudos" data-original-title="Give us <em>kudos</em"><applause-button multiclap="true" style="width: 38px; height: 38px;" url="{{ $.Permalink }}" /></li>
+	  <li data-toggle="tooltip" data-html="true" data-placement="right" title aria-label="Kudos" data-original-title="Give us <em>kudos</em"><applause-button multiclap="true" style="width: 38px; height: 38px;" url="{{ $.Permalink }}" /></li>
 	  {{ else if eq .Site.Language.Lang "ca" }}
-		<li data-toggle="tooltip" data-html="true" data-placement="left" title aria-label="Kudos" data-original-title="Doneu-nos <em>kudos</em"><applause-button multiclap="true" style="width: 38px; height: 38px;" url="{{ $.Permalink }}" /></li>	  
+		<li data-toggle="tooltip" data-html="true" data-placement="right" title aria-label="Kudos" data-original-title="Doneu-nos <em>kudos</em"><applause-button multiclap="true" style="width: 38px; height: 38px;" url="{{ $.Permalink }}" /></li>	  
 	  {{ end }}		  
   </ul>
   	  <p class="kudos">
