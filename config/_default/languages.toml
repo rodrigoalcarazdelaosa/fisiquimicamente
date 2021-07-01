@@ -23,7 +23,7 @@
   [en.params]
   	description = "Physics and Chemistry Resources, Tutorials and Current Science"
     email = "contact@physichemically.com"
-	  address = {region = "Cantabria", country = "Spain", country_code = "ES"}
+	  # address = {region = "Cantabria", country = "Spain", country_code = "ES"}
     contact_links = [
       {icon = "twitter", icon_pack = "fab", name = "Follow us on Twitter", link = "https://twitter.com/alcarazr"},
       {icon = "instagram", icon_pack = "fab", name = "Follow us on Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
@@ -39,6 +39,7 @@
   [ca.params]
     description = "Recursos de Física i Química, tutorials i ciència d'actualitat"
     email = "contacte@fisiquimicament.com"
+    # address = {region = "Cantabria", country = "Espanya", country_code = "ES"}
     contact_links = [
       {icon = "twitter", icon_pack = "fab", name = "Segueix-nos a Twitter", link = "https://twitter.com/alcarazr"},
       {icon = "instagram", icon_pack = "fab", name = "Segueix-nos a Instagram", link = "https://www.instagram.com/fisiquimicamente/"},

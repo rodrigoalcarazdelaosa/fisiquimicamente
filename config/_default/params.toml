@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {region = "Cantabria", country = "España", country_code = "ES"}
+# address = {region = "Cantabria", country = "España", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -257,7 +257,7 @@ footer = {show_translations = true}
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  provider = "mapnik"
+  provider = ""
   api_key = ""
   zoom = 15
 
