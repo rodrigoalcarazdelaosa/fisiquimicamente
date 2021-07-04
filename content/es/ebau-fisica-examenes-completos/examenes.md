@@ -115,5 +115,5 @@ subtitle = "📝 Exámenes completos"
 +++
 
 {{% callout gdrive %}}
-Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLaEZ1Q2UzVXpxUlk) a todos los enunciados de Cantabria desde 1995 hasta 2019, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html). También puedes echar un vistazo a las [**soluciones** de **Berto Tomás**](https://drive.google.com/drive/folders/1fNpyfNiunGeeSJcT-MuvekLb-v69odcm) de los exámenes de 2021 de todas las Comunidades Autónomas.
+Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLaEZ1Q2UzVXpxUlk) a todos los enunciados de Cantabria desde 1995 hasta 2019, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html). También te recomiendo echar un vistazo a las excelentes [**soluciones** de **Berto Tomás**](https://drive.google.com/drive/folders/1fNpyfNiunGeeSJcT-MuvekLb-v69odcm) de los exámenes de 2021 de todas las Comunidades Autónomas.
 {{% /callout %}}
