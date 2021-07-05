@@ -19,12 +19,23 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Profesor de Física y Química"
+  company = "IES Peñacastillo"
+  company_url = "http://portaleducativo.educantabria.es/web/ies-penacastillo"
+  company_logo = ""
+  location = "Santander, Cantabria (España)"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
+  title = "Profesor de Física y Química"
   company = "IES Ría San Martín"
   company_url = "http://portaleducativo.educantabria.es/web/iesriasanmartin"
   company_logo = "rsm"
   location = "Suances, Cantabria (España)"
   date_start = "2018-03-01"
-  date_end = ""
+  date_end = "2021-06-30"
   description = """
   """
 

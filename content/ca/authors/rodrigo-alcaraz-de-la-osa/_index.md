@@ -18,11 +18,11 @@ role: Doctor en Física i Professor de Física i Química
 
 # Organizations/Affiliations
 organizations:
-- name: IES Ría San Martín
-  url: "http://portaleducativo.educantabria.es/web/iesriasanmartin"
+- name: IES Peñacastillo
+  url: "http://portaleducativo.educantabria.es/web/ies-penacastillo"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sóc Doctor en Física per la [Universidad de Cantabria](https://web.unican.es) i Professor de Física i Química a [l'IES Ría San Martin](http://portaleducativo.educantabria.es/web/iesriasanmartin) de Cantàbria (Espanya).
+bio: Sóc Doctor en Física per la [Universidad de Cantabria](https://web.unican.es) i Professor de Física i Química a [l'IES Peñacastillo](http://portaleducativo.educantabria.es/web/ies-penacastillo) de Cantàbria (Espanya).
 
 interests:
 - ✈️ Viatjar
@@ -100,4 +100,4 @@ user_groups:
 - FisiQuímicament
 ---
 
-Sóc Doctor en Física per la [Universidad de Cantabria](https://web.unican.es) i Professor de Física i Química a [l'IES Ría San Martin](http://portaleducativo.educantabria.es/web/iesriasanmartin) de Cantàbria (Espanya). A més a més, sóc el creador de [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/), on pots trobar [⚛️ <span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), així com diversos [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}) i entrades en el [✍🏼 <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
+Sóc Doctor en Física per la [Universidad de Cantabria](https://web.unican.es) i Professor de Física i Química a [l'IES Peñacastillo](http://portaleducativo.educantabria.es/web/ies-penacastillo) de Cantàbria (Espanya). A més a més, sóc el creador de [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/), on pots trobar [⚛️ <span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), així com diversos [👐🏼 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}) i entrades en el [✍🏼 <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
