@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 2
+weight: 3
 active: true
 design:
   spacing:

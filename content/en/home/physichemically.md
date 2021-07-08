@@ -1,12 +1,12 @@
 +++
 # A Skills section created with the Featurette widget.
-widget = "featurette-home"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "FisiQuímicamente"
-subtitle = "Recursos de Física y Química, tutoriales y ciencia de actualidad"
+title = ""
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -15,41 +15,41 @@ subtitle = "Recursos de Física y Química, tutoriales y ciencia de actualidad"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[⚛️](recursos-fisica-quimica/)"
+  icon = "[📚](physics-chemistry-notes/)"
   icon_pack = "emoji"
-  name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
-  description = "[📚 Apuntes](recursos-fisica-quimica/apuntes) · [🎓 EBAU](recursos-fisica-quimica/ebau) · [📝 Oposiciones](recursos-fisica-quimica/oposiciones)"  
+  name = "[Physics and Chemistry Notes](physics-chemistry-notes/)"
+  description = "[📗 13--14 year-olds](physics-chemistry-notes/13-14-year-olds) · [📘 14--15 year-olds](physics-chemistry-notes/14-15-year-olds) · [📙 15--16 year-olds](physics-chemistry-notes/15-16-year-olds) <br> [📕 16--17 year-olds](physics-chemistry-notes/16-17-year-olds) · [📓 17--18 year-olds](physics-chemistry-notes/17-18-year-olds) <br> [📔 Nomenclature of Chemistry](physics-chemistry-notes/nomenclature-chemistry)"  
   
 [[feature]]
-  icon = "[👐🏼](tutoriales/)"
+  icon = "[👐🏼](tutorials/)"
   icon_pack = "emoji"
-  name = "[Tutoriales](tutoriales/)"
-  description = "[$\\LaTeX$](tutoriales/latex) · [Presentación de información](tutoriales/presentacion-informacion)"
+  name = "[Tutorials](tutorials/)"
+  description = "[$\\LaTeX$](tutorials/latex) · [Presentation of Information](tutorials/presentation-information)"
   
 [[feature]]
-  icon = "[🔗](enlaces-interes/)"
+  icon = "[🔗](online-resources/)"
   icon_pack = "emoji"
-  name = "[Enlaces de interés](enlaces-interes/)"
-  description = "[💻 Recursos online](enlaces-interes/recursos-online) · [🤗 Páginas amigas](enlaces-interes/paginas-amigas)"
-  
-[[feature]]
-  icon = "[🗞️](#novedades)"
-  icon_pack = "emoji"
-  name = "[Novedades](#novedades)"
-  description = "[<i class='fab fa-twitter'></i> Twitter](#novedades) · [✍🏼 Blog](post/)"
-  
-[[feature]]
-  icon = "[👥](equipo/)‍"
-  icon_pack = "emoji"
-  name = "[Conoce al equipo](equipo/)"
+  name = "[Online Resources](online-resources/)"
   description = ""
   
 [[feature]]
-  icon = "[📬](#contacto)"
+  icon = "[🗞️](#news)"
   icon_pack = "emoji"
-  name = "[Contacto](#contacto)"
+  name = "[News](#news)"
+  description = "[<i class='fab fa-twitter'></i> Twitter](#news) · [✍🏼 Blog](post/)"
+  
+[[feature]]
+  icon = "[👥](team/)‍"
+  icon_pack = "emoji"
+  name = "[Meet the Team](team/)"
+  description = ""
+  
+[[feature]]
+  icon = "[📬](#contact)"
+  icon_pack = "emoji"
+  name = "[Contact](#contact)"
   description = ""  
-
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -57,7 +57,7 @@ subtitle = "Recursos de Física y Química, tutoriales y ciencia de actualidad"
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "#fffff8"
+  color = "FFFFF8"
   
   # Background gradient.
   # gradient_start = "#FFFFF8"
@@ -75,7 +75,7 @@ subtitle = "Recursos de Física y Química, tutoriales y ciencia de actualidad"
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-top: 0px"
  
  # CSS class.
  css_class = ""

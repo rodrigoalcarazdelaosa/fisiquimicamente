@@ -1,12 +1,12 @@
 +++
 # A Skills section created with the Featurette widget.
-widget = "featurette-home"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "FisiQuímicament"
-subtitle = "Recursos de Física i Química, tutorials i ciència d'actualitat"
+title = ""
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -17,37 +17,37 @@ subtitle = "Recursos de Física i Química, tutorials i ciència d'actualitat"
 [[feature]]
   icon = "[⚛️](recursos-fisica-quimica/)"
   icon_pack = "emoji"
-  name = "[Recursos de Física i Química](recursos-fisica-quimica/)"
-  description = "[📚 Apunts](recursos-fisica-quimica/apunts) · [🎓 PAU/PBAU](recursos-fisica-quimica/pau-pbau)"  
+  name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
+  description = "[📚 Apuntes](recursos-fisica-quimica/apuntes) · [🎓 EBAU](recursos-fisica-quimica/ebau) · [📝 Oposiciones](recursos-fisica-quimica/oposiciones)"  
   
 [[feature]]
-  icon = "[👐🏼](tutorials/)"
+  icon = "[👐🏼](tutoriales/)"
   icon_pack = "emoji"
-  name = "[Tutorials](tutorials/)"
-  description = "[$\\LaTeX$](tutorials/latex) · [Presentació d'informació](tutorials/presentacio-informacio)"
+  name = "[Tutoriales](tutoriales/)"
+  description = "[$\\LaTeX$](tutoriales/latex) · [Presentación de información](tutoriales/presentacion-informacion)"
   
 [[feature]]
-  icon = "[🔗](recursos-online/)"
+  icon = "[🔗](enlaces-interes/)"
   icon_pack = "emoji"
-  name = "[Recursos online](recursos-online/)"
+  name = "[Enlaces de interés](enlaces-interes/)"
+  description = "[💻 Recursos online](enlaces-interes/recursos-online) · [🤗 Páginas amigas](enlaces-interes/paginas-amigas)"
+  
+[[feature]]
+  icon = "[🗞️](#novedades)"
+  icon_pack = "emoji"
+  name = "[Novedades](#novedades)"
+  description = "[<i class='fab fa-twitter'></i> Twitter](#novedades) · [✍🏼 Blog](post/)"
+  
+[[feature]]
+  icon = "[👥](equipo/)‍"
+  icon_pack = "emoji"
+  name = "[Conoce al equipo](equipo/)"
   description = ""
   
 [[feature]]
-  icon = "[🗞️](#novetats)"
+  icon = "[📬](#contacto)"
   icon_pack = "emoji"
-  name = "[Novetats](#novetats)"
-  description = "[<i class='fab fa-twitter'></i> Twitter](#novetats) · [✍🏼 Blog](post/)"
-  
-[[feature]]
-  icon = "[👥](equip/)‍"
-  icon_pack = "emoji"
-  name = "[Coneix a l'equip](equip/)"
-  description = ""
-  
-[[feature]]
-  icon = "[📬](#contacte)"
-  icon_pack = "emoji"
-  name = "[Contacte](#contacte)"
+  name = "[Contacto](#contacto)"
   description = ""  
 
 [design.background]
@@ -75,7 +75,7 @@ subtitle = "Recursos de Física i Química, tutorials i ciència d'actualitat"
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-top: 0px"
  
  # CSS class.
  css_class = ""
