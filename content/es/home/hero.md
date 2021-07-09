@@ -20,7 +20,7 @@ design:
     color: "#FFFFF8"
 advanced:
   css_style: "padding-bottom: 0px"
-  css_class: fullscreen
+  css_class: 
 ---
 
 **Recursos de Física y Química, tutoriales y ciencia de actualidad**
