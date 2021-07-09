@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigoalcarazdelaosa.fisiquimicamente)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigoalcarazdelaosa.fisiquimicamente) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodrigoalcarazdelaosa/fisiquimicamente)
 
 <p align="center"><a href="https://fisiquimicamente.com/" target="_blank" rel="noopener"><img src="https://fisiquimicamente.com/media/logo.png" alt="FisiQuímicamente"></a></p>
 
