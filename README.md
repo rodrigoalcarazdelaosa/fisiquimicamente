@@ -8,7 +8,7 @@ Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
 &copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
 
-Con emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, gracias a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; stickers animados de <a href="https://telegram.org" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a> y recursos gráficos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
+Con emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, gracias a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; stickers animados de <a href="https://telegram.org" target="_blank" rel="noopener" title="Telegram">Telegram</a> y recursos gráficos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
 
 Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
     el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
@@ -24,7 +24,7 @@ Physics and Chemistry Resources, Tutorials and Current Science.
 
 &copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
 
-With emojis from <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, thanks to <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; animated stickers from <a href="https://telegram.org" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a> and graphical resources designed by <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
+With emojis from <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, thanks to <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; animated stickers from <a href="https://telegram.org" target="_blank" rel="noopener" title="Telegram">Telegram</a> and graphical resources designed by <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
 
 Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
@@ -40,7 +40,7 @@ Recursos de Física i Química, tutorials i ciència d'actualitat.
 
 &copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
 
-Amb emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, gràcies a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; stickers animats de <a href="https://telegram.org" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a> i recursos gràfics dissenyats per <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
+Amb emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, gràcies a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; stickers animats de <a href="https://telegram.org" target="_blank" rel="noopener" title="Telegram">Telegram</a> i recursos gràfics dissenyats per <a href="https://www.freepik.com" title="Freepik">Freepik</a>.
 
 Publicat amb <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
     el constructor de llocs web gratuït i <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
