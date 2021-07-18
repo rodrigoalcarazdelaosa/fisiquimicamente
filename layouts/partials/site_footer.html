@@ -13,7 +13,7 @@
   <p class="powered-by">
   {{ if eq .Site.Language.Lang "es" }}
   <i class="fas fa-eye mr-1"></i>Eres el visitante número&nbsp;<span id="visits"></span>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script>
     $.getJSON("https://api.countapi.xyz/hit/fisiquimicamente.com/visits", function(response) {
     $("#visits").text(response.value);
@@ -21,7 +21,7 @@
   </script>
   {{ else if eq .Site.Language.Lang "en" }}
   <i class="fas fa-eye mr-1"></i>You are visitor number&nbsp;<span id="visits"></span>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script>
     $.getJSON("https://api.countapi.xyz/hit/physichemically.com/visits", function(response) {
     $("#visits").text(response.value);
@@ -29,7 +29,7 @@
   </script>
   {{ else if eq .Site.Language.Lang "ca" }}
   <i class="fas fa-eye mr-1"></i>Ets el visitant número&nbsp;<span id="visits"></span>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script>
     $.getJSON("https://api.countapi.xyz/hit/fisiquimicament.com/visits", function(response) {
     $("#visits").text(response.value);
