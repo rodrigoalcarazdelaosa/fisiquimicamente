@@ -16,7 +16,7 @@ weight: 7
 external_link: ""
 
 image:
-  caption: Photo by [**Zbysiu Rodak**](https://unsplash.com/@zbigniew) on [Unsplash](https://unsplash.com)
+  caption: Photo by [**Zdeněk Macháček**](https://unsplash.com/@zmachacek) on [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 # links:
