@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Valhalla
 subtitle: Propera entrega d'aquesta aclamada franquícia de videojocs
-summary: Propera entrega d'aquesta aclamada franquícia de videojocs.
+summary: "`🔜 PROPERAMENT` <br> Propera entrega d'aquesta aclamada franquícia de videojocs."
 breadcrumbs: ["blog"]
 date: "2020-04-30T00:00:00Z"
 authors:
