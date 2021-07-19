@@ -33,10 +33,10 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "[🗞️](#novetats)"
+  icon = "[✍🏼](post/)"
   icon_pack = "emoji"
-  name = "[Novetats](#novetats)"
-  description = "[<i class='fab fa-twitter'></i> Twitter](#novetats) · [✍🏼 Blog](post/)"
+  name = "[Blog](post/)"
+  description = ""
   
 [[feature]]
   icon = "[👥](equip/)‍"

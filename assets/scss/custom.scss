@@ -634,6 +634,10 @@ section.home-section div.center-text p {
  *  Hero Widget
  **************************************************/
 
+.hero-title {
+  font-size: 2.25rem;
+}
+
 .wg-hero.dark .hero-title,
 .wg-hero.dark .hero-lead,
 .wg-hero.dark .hero-cta-alt,
@@ -678,10 +682,16 @@ section.home-section div.center-text p {
 .carousel-indicators {
   li {
     width: 90px;
-	height: 9px;
-	background-color: $primary;
+	  height: 9px;
+	  background-color: $primary;
   }
-}    
+}
+
+.carousel-item {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 /*************************************************
  *  Featurette Widget

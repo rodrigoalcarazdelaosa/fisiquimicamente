@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 weight: 7
-active: true
+active: false
 design:
   spacing:
     padding: ["40px","0px","40px","0px"]

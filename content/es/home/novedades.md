@@ -1,75 +1,98 @@
-+++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
+---
+widget: slider
+headless: true  # This file represents a page section.
+active: true
+weight: 6
 
-widget = "novedades"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 6  # Order that this section will appear.
+# ... Put Your Section Options Here (section position etc.) ...
 
-title = "🗞️ Novedades"
-subtitle = ""
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval: false
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 3
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height: 500px
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-  # clip_path = "url(mundo.svg)"  
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  color = "#fffff8"
-  
-  # Background gradient.
-  # gradient_start = "#FFFFF8"
-  # gradient_end = "#BBCCEE"
-  
-  # Background image.
-  # image = "home.jpg"  # Name of image in `static/media/`.
-  image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
-## ✍🏼 Blog
+item:
+  - title: 🗞️ Novedades
+    content: '📚 Últimos apuntes'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    # overlay_color: '#fffff8'  # An HTML color value.
+    overlay_img: novedades/ultimos-apuntes.webp  # Image path relative to your `assets/media/` folder
+    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Ácido-base
+    cta_url: 'recursos-fisica-quimica/apuntes/2bach/quimica/acido-base/'
+    # cta_icon_pack: fas
+    # cta_icon: graduation-cap
+  - title: 🗞️ Novedades
+    content: '📝 Último ejercicio de oposiciones de ☢️ Física resuelto'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    # overlay_color: '#fffff8'  # An HTML color value.
+    overlay_img: novedades/ultimos-ejercicios-oposiciones-fisica.webp  # Image path relative to your `assets/media/` folder
+    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Navarra 2018 Ejercicio 5
+    cta_url: 'recursos-fisica-quimica/oposiciones/fisica/navarra-2018-castellano-e5/'
+    # cta_icon_pack: fas
+    # cta_icon: graduation-cap
+  - title: 🗞️ Novedades
+    content: '📝 Último ejercicio de oposiciones de ⚗️ Química resuelto'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    # overlay_color: '#fffff8'  # An HTML color value.
+    overlay_img: novedades/ultimos-ejercicios-oposiciones-quimica.webp  # Image path relative to your `assets/media/` folder
+    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Cantabria 2018 Ejercicio 4 de la Opción 2 
+    cta_url: 'recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o2-e4/'
+    # cta_icon_pack: fas
+    # cta_icon: graduation-cap
+  - title: 🗞️ Novedades
+    content: '👐🏼 Último tutorial'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    # overlay_color: '#fffff8'  # An HTML color value.
+    overlay_img: novedades/ultimo-tutorial.jpg  # Image path relative to your `assets/media/` folder
+    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Curso básico de $\LaTeX$
+    cta_url: 'tutoriales/latex/curso-basico/'
+    # cta_icon_pack: fas
+    # cta_icon: graduation-cap        
+  - title: 🗞️ Novedades
+    content: '✍🏼 Última entrada del blog'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    # overlay_color: '#fffff8'  # An HTML color value.
+    overlay_img: novedades/ultima-entrada-blog.webp  # Image path relative to your `assets/media/` folder
+    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Contraste de color
+    cta_url: 'blog/2020/09/05/contraste-de-color/'
+    # cta_icon_pack: fas
+    # cta_icon: graduation-cap
+---    

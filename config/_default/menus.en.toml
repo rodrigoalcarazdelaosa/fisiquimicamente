@@ -69,24 +69,29 @@
   identifier = "enlaces-interes"
   weight = 4  
 
-[[main]]
-  name = "🗞️ News"
-  url = "#news"
-  identifier = "news"
-  weight = 5
+# [[main]]
+#   name = "🗞️ News"
+#   url = "#news"
+#   identifier = "news"
+#   weight = 5
 
-[[main]]
-  name = "Twitter"
-  url = "#news"
-  parent = "news"
-  weight = 1
-  pre = "<i class='fab fa-twitter mr-1'></i>"  
+# [[main]]
+#   name = "Twitter"
+#   url = "#news"
+#   parent = "news"
+#   weight = 1
+#   pre = "<i class='fab fa-twitter mr-1'></i>"  
   
+# [[main]]
+#   name = "✍🏼 Blog"
+#   url = "/post"
+#   parent = "news"
+#   weight = 2 
+
 [[main]]
   name = "✍🏼 Blog"
   url = "/post"
-  parent = "news"
-  weight = 2    
+  weight = 5 
 
 [[main]]
   name = "👥 Team"
