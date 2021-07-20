@@ -15,7 +15,7 @@ featured: true
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
 
-<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="/tgs/hello.tgs">
+<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="/lottie/hello.tgs">
 </tgs-player>
 
 Primera entrada del blog. Comienza una aventura que llevaba mucho tiempo (años) con ganas de empezar.

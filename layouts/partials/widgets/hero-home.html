@@ -70,7 +70,7 @@
   <div class="col-12 mx-auto col-md-6 {{if $page.Params.design.flip}}order-md-first{{end}} hero-media">
     <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
 
-    <tgs-player autoplay loop mode="normal" style="width:100%;height:auto" src="/tgs/baby-yoda.tgs">
+    <tgs-player autoplay loop mode="normal" style="width:100%;height:auto" src="/lottie/baby-yoda.tgs">
     </tgs-player>
     {{- $image := ($page.Parent.Resources.ByType "image").GetMatch $page.Params.hero_media -}}
     {{- if not $image -}}
