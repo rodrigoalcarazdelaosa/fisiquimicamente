@@ -3,10 +3,10 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "📚 Apuntes de Física y Química"
-subtitle = "En formato **texto**, **diapositivas** y **póster** (tipo _chuleta_ 🥩)"
+title = ""
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -75,13 +75,9 @@ subtitle = "En formato **texto**, **diapositivas** y **póster** (tipo _chuleta_
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-bottom: 0px;"
+ css_style = "padding-top: 0px;padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
 
 +++
-
-{{% callout note %}}
-También te recomiendo echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
-{{% /callout %}}
