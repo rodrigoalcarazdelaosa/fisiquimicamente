@@ -82,6 +82,8 @@
   translation: Email
 - id: contact_message
   translation: Missatge
+- id: contact_attachment
+  translation: Adjunt  
 - id: contact_send
   translation: Enviar
 - id: book_appointment
