@@ -161,7 +161,7 @@
 - id: 404_recommendations
   translation: Buscaves alguna d'aquestes?
 - id: cookie_message
-  translation: Aquet lloc web fa servir cookies per garantitzar una millor experiència.
+  translation: Aquest lloc web utilitza 🍪 cookies per garantir una millor experiència.
 - id: cookie_dismiss
   translation: D'acord
 - id: cookie_learn

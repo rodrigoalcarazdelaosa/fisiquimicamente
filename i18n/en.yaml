@@ -272,7 +272,7 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: This website uses 🍪 cookies to ensure you get the best experience.
 
 - id: cookie_dismiss
   translation: Got it!

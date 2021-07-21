@@ -205,7 +205,7 @@
 # Cookie consent
   
 - id: cookie_message
-  translation: Este sitio web utiliza cookies para garantizarle una mejor experiencia.
+  translation: Este sitio web utiliza 🍪 cookies para garantizar una mejor experiencia.
 - id: cookie_dismiss
   translation: ¡Entendido!
 - id: cookie_learn
