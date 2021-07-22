@@ -97,7 +97,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string", required: false}
       - label: Links
         name: links
         required: false
@@ -170,7 +170,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string", required: false}
       - label: Links
         name: links
         required: false
@@ -243,7 +243,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string", required: false}
       - label: Links
         name: links
         required: false
@@ -316,7 +316,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string", required: false}
       - label: Links
         name: links
         required: false
@@ -389,7 +389,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string", required: false}
       - label: Links
         name: links
         required: false
@@ -462,7 +462,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string", required: false}
       - label: Links
         name: links
         required: false
@@ -535,7 +535,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string", required: false}
       - label: Links
         name: links
         required: false
