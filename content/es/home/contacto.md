@@ -23,6 +23,7 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
       success_page: /gracias
+      file_uploads: true
   
 design:
   columns: '1'
