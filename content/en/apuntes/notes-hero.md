@@ -3,7 +3,7 @@ widget: hero-lottie
 headless: true
 weight: 1
 title: 📚 Physics and Chemistry Notes
-hero_media: apuntes.json
+hero_media: "lottie/apuntes.json"
 cta:
   label: '**Explore**'
   url: "physics-chemistry-notes/#notes"

@@ -5,7 +5,7 @@
 {{ $is_remote := strings.HasPrefix $destination "http" }}
 {{- $asset := "" -}}
 {{- if not $is_remote -}}  
-  {{- $asset = resources.Get (path.Join "media" $destination) -}}  
+  {{- $asset = resources.Get (path.Join "media" $destination) -}}
 {{- end -}}
 
 {{ if $asset }}  

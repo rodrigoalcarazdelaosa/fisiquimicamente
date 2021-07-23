@@ -13,10 +13,7 @@ image:
 featured: true
 ---
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
-
-<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="/lottie/hello.tgs">
-</tgs-player>
+{{% lottie src="lottie/hello.tgs" width="75%" %}}
 
 First blog. Here begins an adventure that I had been wanting to start for a long time (years).
 

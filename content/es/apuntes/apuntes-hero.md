@@ -3,7 +3,7 @@ widget: hero-lottie
 headless: true
 weight: 1
 title: 📚 Apuntes de Física y Química
-hero_media: apuntes.json
+hero_media: "lottie/apuntes.json"
 cta:
   label: '**Explora**'
   url: "recursos-fisica-quimica/apuntes/#apuntes"

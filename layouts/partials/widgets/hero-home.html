@@ -67,18 +67,22 @@
   {{/* Hero image */}}
   {{ if $page.Params.hero_media }}
   </div>
-  <div class="col-12 mx-auto col-md-6 {{if $page.Params.design.flip}}order-md-first{{end}} hero-media">
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
-
-    <tgs-player autoplay loop mode="normal" style="width:100%;height:auto" src="/lottie/baby-yoda.tgs">
-    </tgs-player>
+  <div class="col-12 mx-auto col-md-6 {{if $page.Params.design.flip}}order-md-first{{end}} hero-media">    
     {{- $image := ($page.Parent.Resources.ByType "image").GetMatch $page.Params.hero_media -}}
     {{- if not $image -}}
       {{- $image = resources.Get (path.Join "media" $page.Params.hero_media) -}}
     {{- end -}}
     {{ if $image }}
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
-      {{ if $isSVG -}}
+      {{ $animation_type := strings.TrimPrefix "." (path.Ext $image.RelPermalink) | lower }}
+
+      {{ if eq $animation_type "json" }}
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+        <lottie-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></lottie-player>
+      {{ else if eq $animation_type "tgs" }}
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
+        <tgs-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></tgs-player>      
+      {{ else if $isSVG -}}
 
         <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}">
 
