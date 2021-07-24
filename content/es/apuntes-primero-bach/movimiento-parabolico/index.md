@@ -26,7 +26,7 @@ links:
 - icon_pack: fas
   icon: external-link-alt
   name: Ejercicios
-  url: https://drive.google.com/drive/folders/1zY09oa6BLDymLjhuZuKrfz5urwWew_vZ
+  url: https://drive.google.com/file/d/146zPEp6BQmpHvasZiyg_b4tTBQLtIVD2/view
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
