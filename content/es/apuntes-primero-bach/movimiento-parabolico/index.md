@@ -23,6 +23,10 @@ links:
   icon: file-download
   name: Póster
   url: movimiento-parabolico-poster.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/drive/folders/1zY09oa6BLDymLjhuZuKrfz5urwWew_vZ
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
