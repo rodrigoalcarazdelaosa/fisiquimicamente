@@ -109,7 +109,7 @@
 - id: contact_message
   translation: Mensaje
 - id: contact_attachment
-  translation: Adjunto 
+  translation: Adjuntar fichero
 - id: contact_send
   translation: Enviar
 - id: book_appointment

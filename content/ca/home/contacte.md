@@ -22,8 +22,8 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-      success_page: /gracies
-      file_uploads: true
+      success_url: /gracies
+      attachments: true
   
 design:
   columns: '1'
