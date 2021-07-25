@@ -106,6 +106,7 @@
 
       {{ end }}
     {{ end }}
+    {{ with $page.Params.hero_media_caption }}<span class="hero-media-caption">{{ . | markdownify | emojify }}</span>{{ end }}
   </div>
 </div>
 {{ end }}
