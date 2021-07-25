@@ -69,7 +69,7 @@
 
       {{ if eq $animation_type "json" }}
         <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
-        <lottie-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></lottie-player>
+        <lottie-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></lottie-player>        
       {{ else if eq $animation_type "tgs" }}
         <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
         <tgs-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></tgs-player>      
@@ -96,6 +96,7 @@
         <img src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $page.Title }}">
       {{ end }}
     {{ end }}
-  </div>
+    {{ with $page.Params.hero_media_caption }}<span class="hero-media-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+  </div>  
 </div>
 {{ end }}

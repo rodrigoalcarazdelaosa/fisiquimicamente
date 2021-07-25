@@ -634,6 +634,31 @@ section.home-section div.center-text p {
  *  Hero Widget
  **************************************************/
 
+ .hero-media-caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 auto;
+  padding: 2px 5px;
+  color: #fff;
+  font-size: 0.7em;
+  background: #000;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.65;
+  border-radius: 5px 0 0 0;
+}
+@media (min-width: 64em) {
+  .hero-media-caption {
+    padding: 5px 10px;
+  }
+}
+
+.hero-media-caption a {
+  color: #f7f056;
+  text-decoration: none;
+}
+
 .hero-title {
   font-size: 2.25rem;
 }
