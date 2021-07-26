@@ -4,7 +4,7 @@ headless: true
 weight: 1
 title: 📚 Apuntes de Física y Química
 hero_media: "lottie/apuntes.json"
-hero_media_caption: "[Animación Lottie de **Boltbite**](https://lottiefiles.com/54639-boy-studying-science) · [Vector creado por **stories**](https://www.freepik.com/free-vector/learning-concept-illustration_10117870.htm)"
+hero_media_caption: "Animación Lottie de [**Boltbite**](https://lottiefiles.com/54639-boy-studying-science) · Vector creado por [**stories**](https://www.freepik.com/free-vector/learning-concept-illustration_10117870.htm)"
 cta:
   label: '**Explora**'
   url: "recursos-fisica-quimica/apuntes/#apuntes"
