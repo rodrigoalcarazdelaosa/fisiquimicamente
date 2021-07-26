@@ -1,4 +1,4 @@
-<center>
+<div align="center">
   {{ if eq .Site.Language.Lang "es" }}
     <h3 style="color: #555;">Comentarios</h3>
   {{ else if eq .Site.Language.Lang "en" }}
@@ -6,7 +6,7 @@
   {{ else if eq .Site.Language.Lang "ca" }}
     <h3 style="color: #555;">Comentaris</h3>    
   {{ end }}
-</center>  
+</div>  
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
   data-app-id="{{site.Params.comments.cusdis.data_app_id}}"

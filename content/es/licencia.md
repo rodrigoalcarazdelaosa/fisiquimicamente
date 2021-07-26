@@ -11,8 +11,8 @@ breadcrumbs: [""]
 
 Los [📚 <span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [📝 <span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}), [👐🏼 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y entradas del [✍🏼 <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) están bajo una [Licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
 
-<center>
+<div align="center">
 <i class="fab fa-creative-commons fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-by fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-sa fa-2x aria-hidden="true" "></i>
-</center>
+</div>
 
 Los [🎓 <span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) son cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.

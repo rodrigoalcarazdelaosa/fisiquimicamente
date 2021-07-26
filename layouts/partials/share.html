@@ -1,6 +1,6 @@
 {{ if and site.Params.sharing (ne .Params.share false) }}
 <div class="subscribe-box" aria-hidden="true">
-	<center>
+	<div align="center">
 		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}
 			¿Te ha gustado?
@@ -10,7 +10,7 @@
 			T'ha agradat?
 			{{ end }}
 		</h3>
-	</center>
+	</div>
   <ul class="subscribe">
 	  {{ if eq .Site.Language.Lang "es" }}
 	  <li data-toggle="tooltip" data-html="true" data-placement="left" title aria-label="Kudos" data-original-title="Danos <em>kudos</em"><applause-button multiclap="true" style="width: 38px; height: 38px;" url="{{ $.Permalink }}" /></li>
@@ -50,7 +50,7 @@
 </div>
 
 <div class="subscribe-box" aria-hidden="true">
-	<center>
+	<div align="center">
 		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}
 			¿Te ha encantado?
@@ -60,34 +60,34 @@
 			T'ha encantat?
 			{{ end }}
 		</h3>
-	</center>
+	</div>
 	<ul class=subscribe>
 		<li>
 		{{- $coffee_tgs := resources.Get ("media/lottie/coffee.tgs") -}}
 		{{ if eq .Site.Language.Lang "es" }}
-		<center>
+		<div align="center">
         <a href="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener">
 			<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
 			<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un café">
 			</tgs-player>
 		</a>
-		</center>
+		</div>
 		{{ else if eq .Site.Language.Lang "en" }}
-		<center>
+		<div align="center">
         <a href="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener">
 			<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
 			<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Buy us a coffee">
 			</tgs-player>
 		</a>
-		</center>
+		</div>
 		{{ else if eq .Site.Language.Lang "ca" }}
-		<center>
+		<div align="center">
         <a href="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener">
 			<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
 			<tgs-player autoplay loop mode="normal" style="width:75%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un cafè">
 			</tgs-player>
 		</a>
-		</center>
+		</div>
 		{{ end }}
 		</li>
 	</ul>
@@ -103,7 +103,7 @@
 </div>
 
 <div class="share-box" aria-hidden="true">
-	<center>
+	<div align="center">
 		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}
 			Compártelo
@@ -113,7 +113,7 @@
 			Comparteix-ho
 			{{ end }}
 		</h3>
-	</center>	
+	</div>	
   <ul class="share">
 	  <script src="https://apis.google.com/js/platform.js" async defer></script>
 	  <li data-toggle="tooltip" data-placement="bottom" title="Classroom"><g:sharetoclassroom url="{{ $.Permalink }}" size="30" theme="dark"></g:sharetoclassroom></li>
@@ -135,7 +135,7 @@
 </div>
 
 <div class="share-box" aria-hidden="true">
-	<center>
+	<div align="center">
 		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}
 			Suscríbete
@@ -145,7 +145,7 @@
 			Subscriu-te
 			{{ end }}
 		</h3>
-	</center>
+	</div>
 	<ul class=share>
 		{{ if eq .Site.Language.Lang "es" }}
 		<li>
@@ -173,7 +173,7 @@
 
 {{ if eq .Site.Language.Lang "es" }}
 <div class="share-box" aria-hidden="true">
-	<center>
+	<div align="center">
 		<h3 style="color: #555;">
 			Únete al servidor de Discord
 		</h3>
@@ -181,11 +181,11 @@
 	  	  <p class="kudos">
 	  		  <strong>Participa</strong> activamente en la web comentando, dando tu opinión, realizando peticiones, sugerencias...
 	    </p>
-	</center>
+	</div>
 </div>
 {{ else if eq .Site.Language.Lang "en" }}
 <div class="share-box" aria-hidden="true">
-	<center>
+	<div align="center">
 		<h3 style="color: #555;">
 			Join the Discord server
 		</h3>
@@ -193,11 +193,11 @@
 	  	  <p class="kudos">
 			Actively <strong>participate</strong> in the website by commenting, giving your opinion, making requests, suggestions...
 	    </p>
-	</center>
+	</div>
 </div>
 {{ else if eq .Site.Language.Lang "ca" }}
 <div class="share-box" aria-hidden="true">
-	<center>
+	<div align="center">
 		<h3 style="color: #555;">
 			Uneix-te a el servidor d'Discord
 		</h3>
@@ -205,7 +205,7 @@
 	  	  <p class="kudos">
 			<strong>Participa</strong> activament a la web comentant, donant la teva opinió, realitzant peticions, suggeriments...
 	    </p>
-	</center>
+	</div>
 </div>
 {{ end }}
 
