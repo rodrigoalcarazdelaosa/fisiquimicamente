@@ -90,3 +90,6 @@ subtitle = "📓 2n Batx ☢️ Física"
  css_class = ""
 +++
 
+{{% callout gdrive %}}
+També et recomano fer una ullada a l'excel·lent [**llibre** de **Berto Tomás**](https://drive.google.com/file/d/1VCph_xcZxuzEIqww-jPHRef57xkT0s3e/view).
+{{% /callout %}}
