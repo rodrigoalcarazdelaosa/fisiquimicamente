@@ -176,7 +176,7 @@ También puedes *jugar* con esta **simulación**:
 
 Una **valoración/titulación ácido-base** es un método de análisis químico cuantitativo para determinar la concentración de un ácido o base identificado (***analito***), neutralizándolo exactamente con una disolución estándar de base o ácido de concentración conocida (**valorante**).
 
-{{< figure src="acido-base-2Bach-quimica/volumetria-acido-base.svg" title="Traducida de https://www.coursehero.com/sg/general-chemistry/quantitative-analysis-of-acids-and-bases/." lightbox="false" width="100%" >}}
+{{< figure src="acido-base-2Bach-quimica/volumetria-acido-base.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/quantitative-analysis-of-acids-and-bases/." lightbox="false" width="100%" >}}
 
 {{< figure src="acido-base-2Bach-quimica/ph-Vb.svg" title="Curva de valoración/titulación de 25 mL de ácido acético 0.1 M con hidróxido de sodio 0.1 M." lightbox="false" width="100%" >}}
 
