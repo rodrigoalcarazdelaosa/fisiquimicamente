@@ -263,7 +263,7 @@ También puedes *jugar* con esta **simulación**:
 
 ## Volumetrías de neutralización ácido-base
 
-Una **valoración/titulación** es un método de análisis químico cuantitativo para determinar la concentración de un ácido o base identificado (***analito***), neutralizándolo exactamente con una disolución estándar de base o ácido de concentración conocida (**valorante**).
+Una **valoración/titulación ácido-base** es un método de análisis químico cuantitativo para determinar la concentración de un ácido o base identificado (***analito***), neutralizándolo exactamente con una disolución estándar de base o ácido de concentración conocida (**valorante**).
 
 ---
 
