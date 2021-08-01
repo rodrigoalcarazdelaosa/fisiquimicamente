@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="584.06842pt"
-   height="174.38904pt"
-   viewBox="0 0 584.06842 174.38903"
+   width="543.13873pt"
+   height="163.94272pt"
+   viewBox="0 0 543.13873 163.94271"
    version="1.2"
    id="svg131"
    sodipodi:docname="ph-sangre.svg"
-   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata135">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,7 +35,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
-     inkscape:window-height="763"
+     inkscape:window-height="900"
      id="namedview133"
      showgrid="false"
      fit-margin-top="0"
@@ -44,13 +43,15 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="1.0735215"
-     inkscape:cx="410.79756"
-     inkscape:cy="137.14937"
+     inkscape:cx="510.00376"
+     inkscape:cy="122.95981"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg131"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt" />
   <defs
      id="defs42">
     <g
@@ -355,26 +356,12 @@
       </symbol>
     </g>
   </defs>
-  <g
-     clip-path="url(#clip1)"
-     clip-rule="nonzero"
-     id="g48"
-     transform="translate(0,81.154343)">
-    <path
-       id="rect44"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="M 0,0 H 542.14099 V 42.018101 H 0 Z" />
-    <path
-       id="rect46"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="M 0,0 H 542.14099 V 42.018101 H 0 Z" />
-  </g>
   <style
      id="style10">.st0{fill:#dbf0f5}.st7{fill:#b66e5a}.st8{fill:#dcb67e}.st10{opacity:.2}.st11{fill:#f6cd8c}.st23{fill:#ba8845}.st80{fill:#d7ecdc}.st85{opacity:.2;fill:#fff}.st87{fill:#5b313b}.st88{opacity:.11;fill:#333}.st89{fill:#5b333d}.st91{opacity:.57}.st92{fill:#c1946b}.st125{fill:none;stroke:#333;stroke-miterlimit:10}.st126{fill:#333}.st127{fill:none;stroke:#333;stroke-width:2;stroke-miterlimit:10}</style>
   <g
      id="Lungs"
      mask="url(#Lungs_1_)"
-     transform="matrix(1.6875,0,0,1.6875,-968.91311,-256.43618)">
+     transform="matrix(1.6875,0,0,1.6875,-1009.2262,-266.8825)">
     <linearGradient
        id="SVGID_2_"
        gradientUnits="userSpaceOnUse"
@@ -2046,7 +2033,7 @@
      id="style10-7">.st0{fill:#dbf0f5}.st7{fill:#b66e5a}.st8{fill:#dcb67e}.st10{opacity:.2}.st11{fill:#f6cd8c}.st23{fill:#ba8845}.st80{fill:#d7ecdc}.st85{opacity:.2;fill:#fff}.st87{fill:#5b313b}.st88{opacity:.11;fill:#333}.st89{fill:#5b333d}.st91{opacity:.57}.st92{fill:#c1946b}.st125{fill:none;stroke:#333;stroke-miterlimit:10}.st126{fill:#333}.st127{fill:none;stroke:#333;stroke-width:2;stroke-miterlimit:10}</style>
   <g
      id="Kidneys_1_"
-     transform="matrix(1.6875,0,0,1.6875,-181.1966,-712.13624)">
+     transform="matrix(1.6875,0,0,1.6875,-221.50974,-722.58256)">
     <g
        id="g1021">
       <linearGradient
@@ -3698,17 +3685,9 @@
          style="fill:url(#SVGID_110_)" />
     </g>
   </g>
-  <path
-     id="rect876"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 36.143444,0 H 584.06843 V 47.732498 H 36.143444 Z" />
-  <path
-     id="rect878"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 36.143444,0 H 584.06843 V 47.732498 H 36.143444 Z" />
   <g
      id="g1138"
-     transform="translate(-19.034305,81.154343)">
+     transform="translate(-59.347441,70.708019)">
     <g
        style="fill:#000000;fill-opacity:1"
        id="g884-0"
@@ -3793,24 +3772,24 @@
   </g>
   <path
      style="fill:none;stroke:#000000;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-     d="m 200.72939,21.11328 h 43.82812"
+     d="m 160.41625,10.666956 h 43.82812"
      id="path904" />
   <path
      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.59404;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-     d="m 244.55751,21.11328 -6.47656,-1.941406 3.23828,1.941406 h 3.23828"
+     d="m 204.24437,10.666956 -6.47656,-1.941406 3.23828,1.941406 h 3.23828"
      id="path906" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-     d="m 201.52626,24.683593 h 43.82813"
+     d="m 161.21312,14.237269 h 43.82813"
      id="path908" />
   <path
      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.59404;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-     d="m 201.52626,24.683593 6.47656,1.941406 -3.23828,-1.941406 h -3.23828"
+     d="m 161.21312,14.237269 6.47656,1.941406 -3.23828,-1.941406 h -3.23828"
      id="path910" />
   <g
      style="fill:#000000;fill-opacity:1"
      id="g914"
-     transform="translate(36.143445)">
+     transform="translate(-4.1696909,-10.446324)">
     <g
        id="use912"
        transform="translate(224.284,33.1092)">
@@ -3823,7 +3802,7 @@
   <g
      style="fill:#000000;fill-opacity:1"
      id="g918"
-     transform="translate(36.143445)">
+     transform="translate(-4.1696909,-10.446324)">
     <g
        id="use916"
        transform="translate(248.38,38.958199)">
@@ -3836,7 +3815,7 @@
   <g
      style="fill:#000000;fill-opacity:1"
      id="g924"
-     transform="translate(36.143445)">
+     transform="translate(-4.1696909,-10.446324)">
     <g
        id="use920"
        transform="translate(258.375,33.1092)">
@@ -3857,7 +3836,7 @@
   <g
      style="fill:#000000;fill-opacity:1"
      id="g928"
-     transform="translate(36.143445)">
+     transform="translate(-4.1696909,-10.446324)">
     <g
        id="use926"
        transform="translate(302.19501,38.958199)">
@@ -3869,23 +3848,23 @@
   </g>
   <path
      style="fill:none;stroke:#000000;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-     d="m 363.40907,21.11328 h 43.82422"
+     d="m 323.09593,10.666956 h 43.82422"
      id="path930" />
   <path
      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.59404;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-     d="m 407.23329,21.11328 -6.47656,-1.941406 3.23828,1.941406 h 3.23828"
+     d="m 366.92015,10.666956 -6.47656,-1.941406 3.23828,1.941406 h 3.23828"
      id="path932" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1.59404;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-     d="m 364.20595,24.683593 h 43.82422"
+     d="m 323.89281,14.237269 h 43.82422"
      id="path934" />
   <path
      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.59404;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
-     d="m 364.20595,24.683593 6.47266,1.941406 -3.23438,-1.941406 h -3.23828"
+     d="m 323.89281,14.237269 6.47266,1.941406 -3.23438,-1.941406 h -3.23828"
      id="path936" />
   <g
      id="g1154"
-     transform="translate(-19.034305,81.154343)">
+     transform="translate(-59.347441,70.708019)">
     <g
        style="fill:#000000;fill-opacity:1"
        id="g944"
