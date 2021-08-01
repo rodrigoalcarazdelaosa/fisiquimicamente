@@ -21,16 +21,15 @@ image:
   caption: Foto de [**NASA**](https://unsplash.com/@nasa) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
+links:
 # - icon_pack: fas
 #   icon: file-download
 #   name: Póster
 #   url: MAS_poster.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1foYvLMa5Hyc-JgSWDS2EoEiNQe_3ngVw/view
 
 ---
 
