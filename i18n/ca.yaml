@@ -157,7 +157,7 @@
 - id: search_common_queries
   translation: Recerques comuns
 - id: page_not_found
-  translation: 😱 No s'ha trobat la pàgina 😱
+  translation: No s'ha trobat la pàgina
 - id: 404_recommendations
   translation: Buscaves alguna d'aquestes?
 - id: cookie_message
