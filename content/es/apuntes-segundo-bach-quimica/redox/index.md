@@ -19,19 +19,22 @@ image:
   caption: Foto de [**Zdeněk Macháček**](https://unsplash.com/@zmachacek) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Póster
+  url: redox-poster.pdf
 
 ---
 
 {{% callout construction %}}
 En construcción...
 {{% /callout %}}
+
+<!-- Incluir ejemplos de ajuste rédox (también el método por equivalentes) y una tabla de potenciales. -->
+
+<!-- Incluir funciones del puente salino. -->
+
+<!-- Ampliar información sobre el electrodo estándar de hidrógeno. -->
+
+<!-- Añadir una figura de una celda electroquímica y recalcar diferencias con una pila. -->
