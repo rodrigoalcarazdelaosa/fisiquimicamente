@@ -282,7 +282,7 @@ La **electrolisis** es una técnica que utiliza corriente eléctrica continua (C
 ### Celda (o cuba) electrolítica vs. celda galvánica
 
 - En una **celda electrolítica**, igual que en una celda galvánica, la reducción tiene lugar en el cátodo, y la oxidación en el ánodo. Sin embargo, debido a que el flujo de electrones está invertido, la polaridad de los electrodos está también invertida, por lo que el **ánodo** es **positivo** y el **cátodo negativo**.
-- El signo del potencial de la celda también está invertido.
+- El potencial de la celda es positivo en la pila, negativo en la cuba.
 - Además, en una cuba electrolítica los dos electrodos están sumergidos en un único electrolito fundido, en vez de estar separados por un puente salino.
 
 ### Leyes de Faraday
