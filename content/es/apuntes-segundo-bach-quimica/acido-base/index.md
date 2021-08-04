@@ -2,7 +2,7 @@
 title: Ácido-base
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/acido-base"
 subtitle: Equilibrio ácido-base
-summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Teorías ácido-base. Fuerza relativa de los ácidos y bases. Equilibrio iónico del agua. Concepto de pH. Volumetrías de neutralización ácido-base. Indicadores ácido-base. Hidrólisis de sales. Disoluciones reguladoras. Ácidos y bases relevantes."
+summary: "Teorías ácido-base. Fuerza relativa de los ácidos y bases. Equilibrio iónico del agua. Concepto de pH. Volumetrías de neutralización ácido-base. Indicadores ácido-base. Hidrólisis de sales. Disoluciones reguladoras. Ácidos y bases relevantes."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 tags:
 - 2º Bach

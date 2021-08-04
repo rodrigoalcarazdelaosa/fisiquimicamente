@@ -27,8 +27,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Ácido-base
-    cta_url: 'recursos-fisica-quimica/apuntes/2bach/quimica/acido-base/'
+    cta_label: Rédox
+    cta_url: 'recursos-fisica-quimica/apuntes/2bach/quimica/redox/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades
