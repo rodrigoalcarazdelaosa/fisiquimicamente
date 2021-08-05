@@ -12,7 +12,7 @@ cta:
   icon: compass
 cta_alt:
   label: Últims apunts ➡️
-  url: "recursos-fisica-quimica/apunts/2eso-3eso/activitat-cientifica/"
+  url: "recursos-fisica-quimica/apunts/2batx/quimica/redox"
 cta_note:
   label:
 design:

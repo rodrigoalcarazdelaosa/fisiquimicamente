@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apunts/2batx/quimica/redox"
 subtitle: Equilibri i ajust redox, piles galvàniques i electròlisi
 summary: "`🔜 PROPERAMENT` <br> Equilibri redox. Ajust redox. Piles galvàniques. Electròlisi."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- eduard-cremades
 tags:
 - 2n Batx
 - reaccions-químiques
@@ -19,16 +22,11 @@ image:
   caption: Foto de [**Zdeněk Macháček**](https://unsplash.com/@zmachacek) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: redox-poster.pdf
 
 ---
 

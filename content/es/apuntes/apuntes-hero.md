@@ -12,7 +12,7 @@ cta:
   icon: compass
 cta_alt:
   label: Últimos apuntes ➡️
-  url: "recursos-fisica-quimica/apuntes/2bach/quimica/acido-base/"
+  url: "recursos-fisica-quimica/apuntes/2bach/quimica/redox/"
 cta_note:
   label: También te recomiendo echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
 design:
