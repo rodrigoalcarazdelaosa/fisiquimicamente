@@ -19,12 +19,11 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) y [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) para emojis e iconos.
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) para los [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) para los *cafés* (donaciones).
-- [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) para el chat personal (esquina inferior derecha <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
+- [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) para el widget de [{{< icon name="discord" pack="fab" >}}Discord](https://discord.gg/kJqPqTJ) (esquina inferior derecha {{< icon name="comments" pack="fas" >}}).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) para acelerar y monetizar[^3] la web (esquina inferior izquierda <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
 - [<img draggable="false" class="icon" alt="cusdis" src="/icon/cusdis.svg"> Cusdis](https://cusdis.com/privacy-policy) para los 💬 comentarios.
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) para las analíticas web.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) para la [licencia](/licencia).
-<!-- - [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) para el widget de [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) (esquina inferior izquierda {{< icon name="comments" pack="fas" >}}). -->
 
 [^2]: Actualmente la web utiliza las tipografías [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) e [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
 

@@ -49,7 +49,7 @@ Las entradas de este blog van dirigidas a nuestros/as alumnos/as y a todo aquel 
 
 ¿Conoces [Discord](https://discord.com/)? [Únete al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](https://discord.gg/kJqPqTJ) y comienza a **participar** en la web comentando, dando tu opinión, realizando peticiones, sugerencias, etc.
 
-<!-- Además, en la **esquina inferior izquierda** puedes ver este **icono** {{< icon name="comments" pack="fas" >}}. Pinchando sobre él puedes escribir directamente en cualquier canal del servidor tras iniciar sesión. -->
+Además, en la **esquina inferior derecha** puedes ver este **icono** {{< icon name="comments" pack="fas" >}}. Pinchando sobre él puedes escribir directamente en el servidor tras iniciar sesión.
 
 ### Comentarios
 
@@ -74,9 +74,5 @@ Si no quieres perderte ninguna **actualización** puedes **suscribirte** al **ca
 ### Contactándonos
 
 Además, puedes **escribirnos** bien utilizando el [**formulario** de **contacto**]({{< ref "/#contacto" >}}), bien escribiéndonos directamente un [**correo electrónico**](mailto:contacto@fisiquimicamente.com) o bien desde [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). También puedes seguirnos en [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
-
-#### Chat en directo
-
-En la **esquina inferior derecha** puedes ver este **icono** <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">. Pinchando en él puedes iniciar un **chat en directo** con nosotros tras introducir tu nombre (el correo electrónico es opcional, solo si deseas que podamos contactarte en caso de no coincidir en el chat).
 
 Esperamos que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amigo/a.

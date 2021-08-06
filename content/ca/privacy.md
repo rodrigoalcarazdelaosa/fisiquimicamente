@@ -19,12 +19,11 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) i [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) per emojis i icones.
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) pels [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions).
-- [<img draggable="false" class="icon" alt="tawk" src="/icon/tawk-sitelogo.png"> tawk.to](https://www.tawk.to/privacy-policy/) pel xat personal (cantonada inferior dreta <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">).
+- [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) pel widget de [{{< icon name="discord" pack="fab" >}}Discord](https://discord.gg/kJqPqTJ) (cantonada inferior dreta {{< icon name="comments" pack="fas" >}}).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) per accelerar i monetitzar[^3] el web (cantonada inferior esquerra <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
 - [<img draggable="false" class="icon" alt="cusdis" src="/icon/cusdis.svg"> Cusdis](https://cusdis.com/privacy-policy) per als 💬 comentaris.
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) per a les analítiques web.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) per la [llicència](/llicencia).
-<!-- [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) pel widget de [{{< icon name="discord" pack="fab" >}} Discord](https://discord.gg/kJqPqTJ) (cantonada inferior esquerra {{< icon name="comments" pack="fas" >}}). -->
 
 [^2]: Actualment la web utilitza les tipografies [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) i [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
 

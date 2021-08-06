@@ -48,7 +48,7 @@ Les entradas d'aquest blog van dirigidas al nostre alumnat i a tots aquells que 
 
 Coneixes [Discord](https://discord.com/)? [Uneix-te al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](https://discord.gg/kJqPqTJ) i comença a **participar** a la web comentant, donant la teva opinió, realitzant peticions, suggeriments, etc.
 
-<!-- A més, a la **cantonada inferior esquerra** pots veure aquesta **icona** {{< icon name="comments" pack="fas" >}}. Clicant sobre ella pots escriure directament a qualsevol canal del servidor després d'iniciar sessió (desplaceu-vos cap avall fins a la secció *CATALÀ*). -->
+A més, a la **cantonada inferior dreta** pots veure aquesta **icona** {{< icon name="comments" pack="fas" >}}. Clicant sobre ella pots escriure directament al servidor després d'iniciar sessió.
 
 ### Comentaris
 
@@ -73,9 +73,5 @@ Si no et vols perdre cap **actualizació** pots **subscriure't** al **canal** [{
 ### Contactant-nos
 
 A més, pots **escriure'ns** o bé utilizant el [**formulari** de **contacte**]({{< ref "/#contacte" >}}), o bé escrivint-nos directament un [**correu electrònic**](mailto:contacte@fisiquimicament.com) o bé des de [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). També pots seguir-nos a [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
-
-#### Xat en directe
-
-A la **cantonada inferior dreta** pots veure aquesta **icona** <img draggable="false" class="icon" alt="tawk" src="/icon/tawk.svg">. Clicant-hi pots iniciar un **xat en directe** amb nosaltres un cop hagis introduït el teu nom (el correo electrònic és opcional, només si vols que puguem contactar-te en el cas de no coincidir en el xat).
 
 Esperem que gaudeixis d'aquest espai i que et resulti d'utilitat. Anima't a participar sempre que et vingui de gust. Ens seguim llegint amic/ga.
