@@ -27,35 +27,53 @@ Thanks to the [Department of Physics and Chemistry of IES Valle del Saja](http:/
 {{% toc %}}
 
 ## 1. Silver Mirror
-{{< tweet 1280438568318574592 >}}
+{{< vimeo 584055638 >}}
 
 ## 2. Flame Spectra
-{{< tweet 1280438570906419201 >}}
+> Suitable ions, methanol, flame 🔥 and... fireworks 🎆🎇.
+
+{{< vimeo 584055257 >}}
 
 {{% callout note %}}
 More information [here](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
 {{% /callout %}}
 
 ## 3. Copper Nitrate Fountain
-{{< tweet 1280438574706458630 >}}
+> Chemical reactions cause variations in concentration, temperature or pressure that allow to generate bright and colorful fountains ⛲.
+
+{{< vimeo 584056002 >}}
 
 ## 4. Golden Rain
-{{< tweet 1280438577252503553 >}}
+> Some precipitates are so spectacular that they almost turn them into works of art.
+
+{{< vimeo 584055823 >}}
 
 ## 5. Spectra in Discharge Tubes
-{{< tweet 1280438579962040321 >}}
+> Another search for color and for deciphering the bar codes hidden in each radiation.
+
+{{< vimeo 584055552 >}}
 
 ## 6. Luminescence
-{{< tweet 1280438581929140225 >}}
+> Fireflies? Algae? Luminescent phenomena are always the most evocative.
+
+{{< vimeo 584055924 >}}
 
 ## 7. Galilean Thermometer
-{{< tweet 1280438585049702401 >}}
+> With a design of more than 350 years, just like that. It connects us to the essence of liquid buoyancy and expansion.
+
+{{< youtube 9dZvYSRhRiY >}}
 
 ## 8. Newton's Cradle
-{{< tweet 1280438587654311937 >}}
+> A very well known device that does not prevent new studies every year that are equally interesting.
+
+{{< youtube 71Q4u_pWioE >}}
 
 ## 9. Siempre fuimos nómadas (in Spanish)
-{{< tweet 1280438589797601280 >}}
+> Dramatizing passages of science, like the best Sagan here, is something that usually works very well with students.
+
+{{< youtube evl55WX1IpU >}}
 
 ## 10. Instants
-{{< tweet 1280438591345307648 >}}
+> All those moments of emotion that were lost with the pandemic are collected here in instants of other years.
+
+{{< vimeo 584055719 >}}
