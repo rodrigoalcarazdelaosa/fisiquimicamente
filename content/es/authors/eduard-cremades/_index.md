@@ -65,7 +65,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Colaboradores
+- 🙌🏼 Colaboradores/as
 ---
 
 Soy Doctor en Química y Profesor de Ciencias (matemáticas, física y química) en la [Escola Virolai](https://www.virolai.com/es/), Profesor de Química para mayores de 25 años en la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html) y Profesor Asociado en la [Facultat de Química de la Universitat de Barcelona](https://www.ub.edu/portal/web/quimica). También soy Miembro de la Junta Directiva de la [Societat Catalana de Química](https://blogs.iec.cat/scq/). En mis ratos libres busco relaciones entre la química y la cultura popular.

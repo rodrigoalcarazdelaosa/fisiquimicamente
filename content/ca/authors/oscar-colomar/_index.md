@@ -60,7 +60,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Col·laboradors
+- 🙌🏼 Col·laboradors/es
 ---
 
 Sóc Llicenciat en Química i Professor de Secundària a [l'IES Isidor Macabich](http://iesisidormacabich.es/) d'Eivissa.
