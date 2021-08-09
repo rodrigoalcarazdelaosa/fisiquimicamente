@@ -745,6 +745,12 @@ section.home-section div.center-text p {
 .portrait-title h3 {
   color: #555555;
 }
+
+ul.ul-interests {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
   
 ul.ul-edu li .description p.institution {
   color: #555555;
