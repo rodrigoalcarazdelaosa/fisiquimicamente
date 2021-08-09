@@ -748,8 +748,8 @@ section.home-section div.center-text p {
 
 ul.ul-interests {
   list-style-type: none; /* Remove bullets */
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
+  padding-left: 0; /* Adjust padding */
+  margin-left: 0.5em; /* Adjust margins */  
 }
   
 ul.ul-edu li .description p.institution {
