@@ -12,7 +12,7 @@
 
   <p class="powered-by">
   {{ if eq .Site.Language.Lang "es" }}
-  <i class="fas fa-eye mr-1"></i>Eres el visitante número&nbsp;<span id="visits"></span>
+  👁️ Eres el visitante número&nbsp;<span id="visits"></span>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script>
     $.getJSON("https://api.countapi.xyz/hit/fisiquimicamente.com/visits", function(response) {
@@ -20,7 +20,7 @@
 });
   </script>
   {{ else if eq .Site.Language.Lang "en" }}
-  <i class="fas fa-eye mr-1"></i>You are visitor number&nbsp;<span id="visits"></span>
+  👁️ You are visitor number&nbsp;<span id="visits"></span>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script>
     $.getJSON("https://api.countapi.xyz/hit/physichemically.com/visits", function(response) {
@@ -28,7 +28,7 @@
 });
   </script>
   {{ else if eq .Site.Language.Lang "ca" }}
-  <i class="fas fa-eye mr-1"></i>Ets el visitant número&nbsp;<span id="visits"></span>
+  👁️ Ets el visitant número&nbsp;<span id="visits"></span>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script>
     $.getJSON("https://api.countapi.xyz/hit/fisiquimicament.com/visits", function(response) {
@@ -40,7 +40,7 @@
 
   {{ if .IsTranslated | and site.Params.footer.show_translations }}
      <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
-       <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>{{ i18n "languages" }}:</div>
+       <div class="p-2 font-weight-bold">🌐 {{ i18n "languages" }}:</div>
        <div class="p-2">{{ index site.Data.i18n.languages .Lang }}</div>
        {{ range .Translations }}
          <div class="p-2"><a href="{{ .Permalink }}">{{ index site.Data.i18n.languages .Lang }}</a></div>
