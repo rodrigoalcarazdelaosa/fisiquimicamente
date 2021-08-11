@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: redox-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: redox-ejercicios.pdf  
 
 slides: redox-2Bach-quimica  
 
