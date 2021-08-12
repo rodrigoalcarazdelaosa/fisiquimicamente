@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/2bach/quimica/redox"
 subtitle: Equilibrio y ajuste rédox, pilas galvánicas y electrolisis
 summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Equilibrio rédox. Ajuste rédox. Pilas galvánicas. Electrolisis."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - 2º Bach
 - reacciones-químicas
