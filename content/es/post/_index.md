@@ -1,7 +1,7 @@
 ---
 title: ✍🏼 Blog
 
-aliases: ["/blog/"]
+url: /blog
 
 # View.
 #   1 = List

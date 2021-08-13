@@ -84,13 +84,13 @@
   
 # [[main]]
 #   name = "✍🏼 Blog"
-#   url = "/post"
+#   url = "/blog"
 #   parent = "news"
 #   weight = 2 
 
 [[main]]
   name = "✍🏼 Blog"
-  url = "/post"
+  url = "/blog"
   weight = 5 
 
 [[main]]
