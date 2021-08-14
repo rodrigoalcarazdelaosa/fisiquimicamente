@@ -18,3 +18,13 @@
 {{ else if eq .Site.Language.Lang "ca" }}
   <script async src="https://arc.io/widget.min.js#VdvpzK5Z"></script>
 {{ end }}
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "2098b81f-0f35-4b6f-bd4e-591c8dade2a8",
+    });
+  });
+</script>
