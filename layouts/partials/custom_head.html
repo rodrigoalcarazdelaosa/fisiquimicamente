@@ -20,6 +20,7 @@
 {{ end }}
 
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+{{ if eq .Site.Language.Lang "es" }}
 <script>
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
@@ -28,3 +29,24 @@
     });
   });
 </script>
+{{ else if eq .Site.Language.Lang "en" }}
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "a585b8b5-fdaa-4962-98a7-27a929422768",
+    });
+  });
+</script>
+{{ else if eq .Site.Language.Lang "ca" }}
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "6575c239-db33-4df4-86c9-ed8ec3090ec2",
+    });
+  });
+</script>
+{{ end }}
