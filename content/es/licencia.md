@@ -16,3 +16,5 @@ Los [📚 <span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/a
 </div>
 
 Los [🎓 <span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) son cortesía de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y del **Profesor Enrique Ortega González** del IES José del Campo de Ampuero.
+
+Con emojis de <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji"><img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji</a>, gracias a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; y stickers animados de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.

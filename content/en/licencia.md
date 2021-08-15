@@ -15,3 +15,5 @@ The [📚 <span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apu
 <div align="center">
 <i class="fab fa-creative-commons fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-by fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-sa fa-2x aria-hidden="true" "></i>
 </div>
+
+With emojis from <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji"><img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji</a>, thanks to <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; and animated stickers from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.

@@ -97,16 +97,6 @@
   </p>
   {{ end }}
   
-  <p class="powered-by">
-	  {{ if eq .Site.Language.Lang "es" }}
-	  Con emojis de <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji"><img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji</a>, gracias a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; y stickers animados de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>
-	  {{ else if eq .Site.Language.Lang "en" }}
-	  With emojis from <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji"><img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji</a>, thanks to <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; and animated stickers from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>
-    {{ else if eq .Site.Language.Lang "ca" }}
-    Amb emojis de <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji"><img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji</a>, gràcies a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; i stickers animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>
-	  {{ end }}
-  </p>
-  
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
 
