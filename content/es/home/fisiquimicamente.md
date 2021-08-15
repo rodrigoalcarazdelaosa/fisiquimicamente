@@ -33,9 +33,9 @@ subtitle = ""
   description = "[💻 Recursos online](enlaces-interes/recursos-online) · [🤗 Páginas amigas](enlaces-interes/paginas-amigas)"
   
 [[feature]]
-  icon = "[✍🏼](post/)"
+  icon = "[✍🏼](blog/)"
   icon_pack = "emoji"
-  name = "[Blog](post/)"
+  name = "[Blog](blog/)"
   description = ""
   
 [[feature]]
