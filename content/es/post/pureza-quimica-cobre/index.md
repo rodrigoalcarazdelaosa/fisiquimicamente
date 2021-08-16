@@ -61,7 +61,7 @@ Así que se usa cobre *impuro* al 99 % para obtener cobre *puro* o, mejor dicho,
 
 Las **reacciones rédox** del proceso de afino del cobre son[^1]:
 
-[^1]: Aprende más sobre **reacciones rédox** [**aquí**]({{< relref "/apuntes-segundo-bach-quimica/redox" >}}).
+[^1]: **Aprende** más sobre **reacciones rédox** [**aquí**]({{< relref "/apuntes-segundo-bach-quimica/redox" >}}).
 
 <div align="center">
 Ánodo: Cu ⟷ Cu<sup>2+</sup> + 2 e<sup>–</sup>; &emsp; <em>E</em><sup>&#x26AC;</sup> = –0.337 V
