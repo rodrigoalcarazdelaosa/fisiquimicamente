@@ -215,3 +215,7 @@
 
 - id: published_with
   translation: Publicado con {wowchemy} — el constructor de sitios web gratuito y {repo_link}de código abierto{/repo_link} para {hugo}.
+
+# Paypal
+- id: paypal
+  translation: Invítanos a un café   

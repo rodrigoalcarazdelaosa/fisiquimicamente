@@ -284,3 +284,7 @@
 
 - id: published_with
   translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder for {hugo}.
+
+# Paypal
+- id: paypal
+  translation: Buy us a coffee  

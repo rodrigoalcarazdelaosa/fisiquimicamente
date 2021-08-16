@@ -183,7 +183,7 @@
       {{ $show_search := site.Params.main_menu.show_search | default true }}
       {{ if and site.Params.search.provider $show_search }}
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label="{{ i18n "search" }}"><i class="fas fa-search" aria-hidden="true"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="{{ i18n "search" }}"><i class="fas fa-search" aria-hidden="true" data-toggle="tooltip" title aria-label="search" data-original-title="{{ i18n "search" }}"></i></a>
       </li>
       {{ end }}
 
@@ -232,13 +232,8 @@
 	  
 	  <!-- Paypal -->
       <li class="nav-item">
-		  {{ if eq .Site.Language.Lang "es" }}
-        <a class="nav-link" href="https://paypal.me/fisiquimicamente" data-target="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener"><i class="fas fa-coffee mr-1" data-toggle="tooltip" title aria-label="PayPal" data-original-title="Invítanos a un café"></i></a>
-		  {{ else if eq .Site.Language.Lang "en" }}
-		    <a class="nav-link" href="https://paypal.me/fisiquimicamente" data-target="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener"><i class="fas fa-coffee mr-1" data-toggle="tooltip" title aria-label="PayPal" data-original-title="Buy us a coffee"></i></a>
-      {{ else if eq .Site.Language.Lang "ca" }}
-        <a class="nav-link" href="https://paypal.me/fisiquimicamente" data-target="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener"><i class="fas fa-coffee mr-1" data-toggle="tooltip" title aria-label="PayPal" data-original-title="Invítanos a un cafè"></i></a>
-		  {{ end }}
+        <li class="nav-item">		  
+          <a class="nav-link" href="https://paypal.me/fisiquimicamente" data-target="https://paypal.me/fisiquimicamente" target="_blank" rel="noopener"><i class="fas fa-coffee" data-toggle="tooltip" title aria-label="PayPal" data-original-title="{{ i18n "paypal" }}"></i></a>
       </li>
 
     </ul>
