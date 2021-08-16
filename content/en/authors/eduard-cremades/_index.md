@@ -24,9 +24,9 @@ organizations:
 bio: "I have a PhD in Chemistry and I teach at [Escola Virolai](https://www.virolai.com/es/), at [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html) and at [Facultat de Química de la Universitat de Barcelona](https://www.ub.edu/portal/web/quimica)."
 
 interests:
-- 🤘🏼🎸 Metal Music
+- 🎸 Metal Music
 - 📖 Reading
-- 😱🎞️ Horror Movies
+- 🎞️ Horror Movies
 
 education:
   courses:
