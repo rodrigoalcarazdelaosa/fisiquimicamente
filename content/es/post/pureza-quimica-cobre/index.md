@@ -1,7 +1,7 @@
 ---
 title: "¿Qué tan puro quiere su cobre, joven?"
-subtitle: "Tenemos al 99 % y al 99.9 % ¿Al 100 %? ¿Está seguro? ¿Si trae para pagar? Va a tardar un poquito"
-summary: "Tenemos al 99 % y al 99.9 % ¿Al 100 %? ¿Está seguro? ¿Si trae para pagar? Va a tardar un poquito."
+subtitle: "Tenemos al 99 % y al 99.9 %. ¿Al 100 %? ¿Está seguro? ¿Si trae para pagar? Va a tardar un poquito"
+summary: "Tenemos al 99 % y al 99.9 %. ¿Al 100 %? ¿Está seguro? ¿Si trae para pagar? Va a tardar un poquito."
 breadcrumbs: ["blog"]
 date: "2021-08-15T00:00:00Z"
 authors:
