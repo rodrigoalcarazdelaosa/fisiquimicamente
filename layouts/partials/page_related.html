@@ -13,7 +13,12 @@
 	    {{ $link = . }}
 	    {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 	  {{ end }}
-      <li><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a></li>
+      <li>
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a>
+        <p class="search-hit-description">
+          {{ .Summary | plainify | emojify }}
+        </p>
+      </li>
       {{ end }}
     </ul>
   </div>

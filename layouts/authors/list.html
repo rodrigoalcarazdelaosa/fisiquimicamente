@@ -21,28 +21,22 @@
 
     {{ $query := where .Pages ".IsNode" false }}
     {{ range .Translations }}
-    {{ $query = $query | lang.Merge .Pages }}
+      {{ $query = $query | lang.Merge .Pages }}
     {{ end }}
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
-      
+      <ul>
         {{ range $query }}
-  	    {{ $link := .Permalink }}
-  	    {{ $target := "" }}
-  	    {{ with .Params.external_link }}
-  	      {{ $link = . }}
-  	      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-  	    {{ end }}
-        
-          <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a>          
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
           <p class="search-hit-description">
             {{ .Summary | plainify | emojify }}
           </p>
-        
+        </li>
         {{ end }}
-      
+      </ul>
     </div>
     {{ end }}
   </div>
