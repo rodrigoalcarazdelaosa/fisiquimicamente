@@ -2,6 +2,8 @@
 
 <p align="center"><a href="https://fisiquimicamente.com/" target="_blank" rel="noopener"><img src="https://fisiquimicamente.com/media/logo.png" alt="FisiQuímicamente"></a></p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status)](https://app.netlify.com/sites/fisiquimicamente/deploys)
+
 Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
 &copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
@@ -12,9 +14,11 @@ Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowc
     el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     de código abierto</a> para <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
-Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servido por <a href="https://app.netlify.com/sites/fisiquimicamente/deploys" rel="nofollow"><img draggable="false" class="icon" src="https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status" alt="Netlify Status" data-canonical-src="https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status"></a>.
+Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servido por <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
 <p align="center"><a href="https://physichemically.com/" target="_blank" rel="noopener"><img src="https://physichemically.com/media/logo-en.png" alt="PhysiChemically"></a></p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae1fb0d7-cd8e-4f18-bbe1-d6a89b38c0af/deploy-status)](https://app.netlify.com/sites/physichemically/deploys)
 
 Physics and Chemistry Resources, Tutorials and Current Science.
 
@@ -26,9 +30,11 @@ Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wow
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
-Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://app.netlify.com/sites/physichemically/deploys" rel="nofollow"><img draggable="false" class="icon" src="https://api.netlify.com/api/v1/badges/ae1fb0d7-cd8e-4f18-bbe1-d6a89b38c0af/deploy-status" alt="Netlify Status" data-canonical-src="https://api.netlify.com/api/v1/badges/ae1fb0d7-cd8e-4f18-bbe1-d6a89b38c0af/deploy-status"></a>.
+Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Served by <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
 
 <p align="center"><a href="https://fisiquimicament.com/" target="_blank" rel="noopener"><img src="https://fisiquimicament.com/media/logo-ca.png" alt="FisiQuímicament"></a></p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db0529fe-34b6-40d0-b8cf-9ff3ac279f29/deploy-status)](https://app.netlify.com/sites/fisiquimicament/deploys)
 
 Recursos de Física i Química, tutorials i ciència d'actualitat.
 
@@ -40,4 +46,4 @@ Publicat amb <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowch
     el constructor de llocs web gratuït i <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     de codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
-Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servit per <a href="https://app.netlify.com/sites/fisiquimicament/deploys" rel="nofollow"><img draggable="false" class="icon" src="https://api.netlify.com/api/v1/badges/db0529fe-34b6-40d0-b8cf-9ff3ac279f29/deploy-status" alt="Netlify Status" data-canonical-src="https://api.netlify.com/api/v1/badges/db0529fe-34b6-40d0-b8cf-9ff3ac279f29/deploy-status"></a>.
+Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servit per <a href="https://www.netlify.com" target="_blank" rel="noopener">Netlify</a>.
