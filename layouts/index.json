@@ -25,9 +25,9 @@
     {{- $title := .Title}}
     {{- $rel_permalink := .RelPermalink -}}
     {{- $permalink := .Permalink -}}
-	{{- if .Params.external_link -}}
-	  {{- $rel_permalink = .Params.external_link -}}
-	{{- end -}}
+	  {{- if .Params.external_link -}}
+	    {{- $rel_permalink = .Params.external_link -}}
+	  {{- end -}}
 
     {{/* Correct the title and URL for author profile pages. */}}
     {{- if eq .Section "authors" -}}
