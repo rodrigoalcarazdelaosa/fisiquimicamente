@@ -32,8 +32,7 @@ links:
   name: Ejercicios
   url: redox-ejercicios.pdf  
 
-slides: redox-2Bach-quimica  
-
+slides: redox-2Bach-quimica
 ---
 
 {{% toc %}}
@@ -165,6 +164,7 @@ $$
 Con la reacción ajustada se pueden realizar todo tipo de **cálculos estequiométricos**.
 
 #### Equivalentes rédox
+
 Un **equivalente rédox** es la masa de una sustancia que reacciona con un mol de electrones. En el punto de equivalencia, el número de equivalentes de oxidante es igual al número de equivalentes de reductor:
 
 <div align="center">
@@ -226,6 +226,7 @@ Consulta [en esta tabla](https://es.wikipedia.org/wiki/Anexo:Tabla_de_potenciale
 ## Espontaneidad de las reacciones rédox
 
 ### Potencial de pila
+
 El potencial estándar de una pila, $E_\text{pila}^\circ$, se calcula como la diferencia entre los potenciales estándar de reducción de las dos semirreacciones:
 
 $$

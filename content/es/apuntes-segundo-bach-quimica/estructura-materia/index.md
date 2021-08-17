@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: estructura-materia-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: estructura-materia-ejercicios.pdf    
 
 slides: estructura-materia-2Bach-quimica
 ---
