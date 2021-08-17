@@ -49,7 +49,7 @@ Las mayores reservas de cobre se encuentran en Chile, de ahí que sea el primer 
 
 [Según el US Geological Survey](https://pubs.usgs.gov/periodicals/mcs2021/mcs2021.pdf), en 2020 se produjeron en todo el mundo unos 20 millones de toneladas de cobre, lo que supone un pequeño descenso respecto al año anterior.
 
-![escorpion](escorpion.jpg "https://twitter.com/GeologyTime/status/1425108424098865152/photo/1")
+![escorpion](escorpion.jpg "Escorpión sustituido por cobre. Foto: T. Crowder Collection. https://twitter.com/GeologyTime/status/1425108424098865152/photo/1")
 
 ## Un pedacito de la metalurgia del cobre
 
