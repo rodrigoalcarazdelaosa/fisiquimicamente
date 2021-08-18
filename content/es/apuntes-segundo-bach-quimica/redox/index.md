@@ -339,7 +339,7 @@ En condiciones ideales, la cantidad de hidrógeno depositada es el doble que la 
 ### Aplicaciones
 
 - Obtención de elementos puros, como el Al, Li, Na, K, Mg, Ca o Cu, mediante electrometalurgia.
-    {{% callout note %}}
+{{% callout note %}}
 Aprende más sobre el proceso de **obtención** del **cobre** en [esta excelente entrada del **blog**]({{< ref "/post/pureza-quimica-cobre/index.md" >}}).
 {{% /callout %}}
 - Producción de cloro e hidróxido de sodio, mediante el proceso cloroalcalino.
