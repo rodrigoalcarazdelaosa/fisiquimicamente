@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Radiofísica Hospitalaria y Supervisora de Instalaciones Radioactivas
+role: Radiofísica Hospitalaria y Supervisora de Instalaciones Radiactivas
 
 # Organizations/Affiliations
 organizations:
