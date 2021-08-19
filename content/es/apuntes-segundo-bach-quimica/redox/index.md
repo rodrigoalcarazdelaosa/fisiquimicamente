@@ -339,11 +339,11 @@ En condiciones ideales, la cantidad de hidrógeno depositada es el doble que la 
 ### Aplicaciones
 
 - Obtención de elementos puros, como el Al, Li, Na, K, Mg, Ca o Cu, mediante electrometalurgia.
-{{% callout note %}}
-Aprende más sobre el proceso de **obtención** del **cobre** en [esta excelente entrada del **blog**]({{< ref "/post/pureza-quimica-cobre/index.md" >}}).
-{{% /callout %}}
+  {{< callout note >}}
+  Aprende más sobre el proceso de **obtención** del **cobre** en [esta excelente entrada del **blog**]({{< ref "/post/pureza-quimica-cobre/index.md" >}}).
+  {{< /callout >}}
 - Producción de cloro e hidróxido de sodio, mediante el proceso cloroalcalino.
-    {{< figure src="redox-2Bach-quimica/cloroalcalino.svg" title="**Proceso cloroalcalino de membrana**. En el ánodo (A), el cloruro (Cl<sup>–</sup>) se oxida a cloro. La membrana selectiva de iones (B) permite que el contraión Na<sup>+</sup> fluya libremente, pero impide que aniones como el hidróxido (OH<sup>–</sup>) y el cloruro se difundan. En el cátodo (C), el agua se reduce a hidróxido e hidrógeno gaseoso. El proceso neto es la electrolisis de una solución acuosa de NaCl en productos industrialmente útiles: hidróxido de sodio (NaOH) y cloro gaseoso. <br> Traducida y adaptada de https://en.wikipedia.org/wiki/File:Chloralkali_membrane.svg." lightbox="false" width="100%" >}}
+  {{< figure src="redox-2Bach-quimica/cloroalcalino.svg" title="**Proceso cloroalcalino de membrana**. En el ánodo (A), el cloruro (Cl<sup>–</sup>) se oxida a cloro. La membrana selectiva de iones (B) permite que el contraión Na<sup>+</sup> fluya libremente, pero impide que aniones como el hidróxido (OH<sup>–</sup>) y el cloruro se difundan. En el cátodo (C), el agua se reduce a hidróxido e hidrógeno gaseoso. El proceso neto es la electrolisis de una solución acuosa de NaCl en productos industrialmente útiles: hidróxido de sodio (NaOH) y cloro gaseoso. <br> Traducida y adaptada de https://en.wikipedia.org/wiki/File:Chloralkali_membrane.svg." lightbox="false" width="100%" >}}
 - Producción de clorato de sodio y clorato de potasio.
 - Producción de hidrógeno para su uso como combustible para naves espaciales y submarinos nucleares.
 
