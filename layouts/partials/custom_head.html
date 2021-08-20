@@ -1,5 +1,9 @@
 <meta name="format-detection" content="telephone=no">
 
+<!-- Preload FontAwesome fonts in use for even faster loading -->
+<link rel="preload" href="{{ "/webfonts/fa-solid-900.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="{{ "/webfonts/fa-brands-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
+
 {{ if eq .Site.Language.Lang "es" }}
   <script async src="https://arc.io/widget.min.js#RqUKm4UN"></script>
 {{ else if eq .Site.Language.Lang "en" }}
