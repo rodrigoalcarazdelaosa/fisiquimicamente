@@ -23,6 +23,10 @@ links:
   icon: file-download
   name: Póster
   url: sistema-periodico-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: sistema-periodico-ejercicios.pdf    
 
 slides: sistema-periodico-2Bach-quimica
 ---
