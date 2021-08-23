@@ -3,7 +3,7 @@ title: ☢️ Radioactive ☢️
 subtitle: Crítica de l'última pel·lícula sobre Marie Curie
 summary: "`🔜 PROPERAMENT` <br> Crítica de l'última pel·lícula sobre Marie Curie."
 breadcrumbs: ["blog"]
-date: "2021-03-15T00:00:00Z"
+date: "2021-08-20T00:00:00Z"
 authors:
 - jesica-sanchez-mazon
 tags:
@@ -11,6 +11,7 @@ tags:
 - radioactivitat
 categories:
 - Física
+- Química
 - Pel·lícules
 image:
   placement: 3
