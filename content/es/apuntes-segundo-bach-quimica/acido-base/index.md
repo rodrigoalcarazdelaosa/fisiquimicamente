@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: acido-base-poster.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1zF1ZXnjcnoOfxCIskCZkVuQLirX01s0L/view
 
 slides: acido-base-2Bach-quimica
 
