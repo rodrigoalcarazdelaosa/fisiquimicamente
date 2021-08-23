@@ -1,7 +1,7 @@
 ---
 title: ☢️ Radioactive ☢️
-subtitle: Crítica de la última película sobre Marie Curie
-summary: "Crítica de la última película sobre Marie Curie."
+subtitle: Análisis de la última película sobre Madame Curie
+summary: "Análisis de la última película sobre Madame Curie."
 breadcrumbs: ["blog"]
 date: "2021-08-20T00:00:00Z"
 authors:
@@ -64,9 +64,7 @@ Cuando se estira un cristal de cuarzo cortado de forma apropiada, aparecen carga
 
 Una vez medidas las intensidades de corriente, se  determina la actividad de  la muestra.
 
-{{% callout warning %}}
-Incluir foto de mi electrómetro para compararlo con el de Pierre.
-{{% /callout %}}
+{{< figure src="Radioactive/electrometros.svg" title="a) Dispositivo de cuarzo piezoeléctrico que perteneció al Laboratorio Curie, que data de 1904. Fuente: https://lamethodecurie.fr/en/article13.html. b) Electrómetro [PTW UNIDOS](https://www.ptwdosimetry.com/en/products/unidos-e/) actualmente utilizado en la [Clínica Mompía](https://clinicamompia.com)." lightbox="false" width="100%" >}}
 
 ### Proceso de medida
 
@@ -74,25 +72,23 @@ Incluir foto de mi electrómetro para compararlo con el de Pierre.
 El texto que se encuentra a continuación ha sido tomado de la excelente [recreación del laboratorio Curie por parte del CSIC](http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1.html).
 {{% /callout %}}
 
-![esquema experimental](http://museovirtual.csic.es/csic75/laboratorios/lab1/img/esquema_exp_curie.jpg "**Esquema del experimento de los Curie**. Sobre la mesa experimental están situados los seis elementos que intervienen: la cámara de ionización (CI), la batería de polarización (B2), el generador de corriente piezoeléctrico (GP), el electrómetro de cuadrantes (EC), el interruptor (IN) y el cronómetro. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
+![esquema experimental](Radioactive/esquema_exp_curie.jpg "**Esquema del experimento de los Curie**. Sobre la mesa experimental están situados los seis elementos que intervienen: la cámara de ionización (CI), la batería de polarización (B2), el generador de corriente piezoeléctrico (GP), el electrómetro de cuadrantes (EC), el interruptor (IN) y el cronómetro. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
  
 Antes de comenzar el experimento se coloca la cantidad de material radiactivo sobre la placa inferior de la cámara y se carga el cuarzo piezoeléctrico con una masa de 300 gramos suspendida en el platillo que estira el cristal. Cuando se inicia el experimento, se enciende el interruptor y simultáneamente el cronómetro. La corriente de ionización en la cámara produce una disminución de la carga en ambas armaduras. Los iones positivos que llegan a la placa inferior de la cámara neutralizan su carga negativa, pero ésta es sustituida inmediatamente por electrones provenientes de la batería.
 
-Simultáneamente, los electrones que llegan a la placa positiva de la cámara van neutralizando las cargas positivas iniciales y su potencial se hace negativo; esto hace que se mueva la aguja del electrómetro en la dirección correspondiente. En el experimento de los Curie, como se observa en la pelicula, lo que se desvía es el punto de luz reflejado sobre la regla traslúcida.
+Simultáneamente, los electrones que llegan a la placa positiva de la cámara van neutralizando las cargas positivas iniciales y su potencial se hace negativo; esto hace que se mueva la aguja del electrómetro en la dirección correspondiente. En el experimento de los Curie, como se observa en la película, lo que se desvía es el punto de luz reflejado sobre la regla traslúcida.
 
-{{% callout warning %}}
-(ver figura: reflejo del punto de luz).
-{{% /callout %}}
+![reflejo luz](Radioactive/cuadrantes.jpg "Reflejo del punto de luz del electrómetro de cuadrantes sobre la regla traslúcida. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
 
-![inicio experimento](http://museovirtual.csic.es/csic75/laboratorios/lab1/anim/curie300g.gif "Inicio del experimento aplicando una carga de 300 gramos. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
+![inicio experimento](Radioactive/curie300g.gif "Inicio del experimento aplicando una carga de 300 gramos. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
 ￼
 En ese instante se aplica una leve fuerza hacia arriba para disminuir el peso que soporta el platillo de cuarzo piezoeléctrico, pasando de 300 a 200 g. Este hecho implica la disminución de las cargas superficiales del cristal y libera la carga positiva necesaria para compensar la que ha perdido la placa superior por efecto de la corriente de electrones de ionización, volviendo a 0 voltios la lectura del electrómetro. Es importante mantener la lectura del voltímetro a cero para asegurar que la corriente que va desde la armadura positiva del cuarzo a la placa superior de la cámara es siempre constante y la tensión entre las placas es constante e igual a la suministrada por las pilas.
 
-![reducción carga](http://museovirtual.csic.es/csic75/laboratorios/lab1/anim/curie_200g.gif "El experimento continúa reduciendo la carga a 200 gramos. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
+![reducción carga](Radioactive/curie_200g.gif "El experimento continúa reduciendo la carga a 200 gramos. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
 
 El proceso continúa hasta que la pesa no ejerce ninguna fuerza sobre el platillo, siendo imposible mantener la aguja del electrómetro a 0 voltios. En ese momento se para el cronómetro, que en este caso marcará unos 200 segundos. 
 
-![esquema completo](http://museovirtual.csic.es/csic75/laboratorios/lab1/anim/300a0curie.gif "Esquema completo del experimento de los Curie. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
+![esquema completo](Radioactive/300a0curie.gif "Esquema completo del experimento de los Curie. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html.")
 
 Como conocemos exactamente la carga inicial del cuarzo piezoeléctrico, 6×10<sup>–10</sup> C, y el tiempo transcurrido, 200 segundos, es fácil calcular la corriente *I* = *Q*/*t* = 3×10<sup>–12</sup> A. Esta corriente nos indica fielmente la actividad de la muestra radiactiva.
 
@@ -107,6 +103,8 @@ En el caso del montaje original, la sensibilidad del aparato de medida era de 40
 {{% /callout %}}
 
 ## Radioluminiscencia
+
+{{< vimeo 591286832 >}}
 
 La pechblenda es una variedad masiva y probablemente impura de uraninita. La uraninita es básicamente UO<sub>2</sub> aunque también tiene U<sub>3</sub>O<sub>8</sub> (el [óxido más estable del uranio](https://es.wikipedia.org/wiki/Óxido_de_uranio)), óxidos de plomo, helio, torio, y tierras raras. Todos los minerales de uraninita contienen pequeñas cantidades de radio como producto de la desintegración radiactiva del uranio (U–238).
 
@@ -126,10 +124,12 @@ Por tanto, el responsable del brillo tan característico del radio, no es su pro
 
 La partícula  choca con un átomo o molécula, excitando un electrón orbital a un nivel de energía más alto. El electrón vuelve a su nivel de energía de base mediante la emisión de la energía adicional en la forma de un fotón de luz. El fotón de luz liberado es por lo general un fotón invisible para el ojo humano. En el caso del radio, por tanto, no observaremos ninguna luz a priori. Lo que se ha hecho tradicionalmente es añadir algún material adecuado para conseguir que esos fotones sean visibles, como por ejemplo el fósforo o el zinc, liberando dicho material un brillo de un color determinado.
 
-Describen los historiadores un *tenue fulgor verdoso* desprendido por las piedras radiactivas. Esto es debido a que los fotones emitidos al desexcitarse tienen una longitud de onda de unos 500-550 nm. A día de hoy todavía podemos observar este inquietante fenómeno en los objetos comercializados con tritio, el único radioisótopo permitido a nivel comercial, un gas que resulta prácticamente inocuo por la debilidad de la radiación que emite.
+Describen los historiadores un *tenue fulgor verdoso* desprendido por las piedras radiactivas. Esto es debido a que los fotones emitidos al desexcitarse tienen una longitud de onda de unos 500–550 nm. A día de hoy todavía podemos observar este inquietante fenómeno en los objetos comercializados con tritio, el único radioisótopo permitido a nivel comercial, un gas que resulta prácticamente inocuo por la debilidad de la radiación que emite.
 
 
 ## Productos hechos con radio
+
+{{< vimeo 591286537 >}}
 
 En este clip de citan algunos usos que se han dado tradicionalmente al radio, si bien es cierto que se ha usado con fines terapéuticos desde prácticamente su descubrimiento. Durante la Primera Guerra Mundial, en hospitales de campaña para cauterizar heridas o en el propio campo de batalla, hasta que finalmente acabó siendo el precursor de la [Radioterapia](https://es.wikipedia.org/wiki/Radioterapia) como tratamiento contra tumores (típicamente cutáneos que eran los que podían *ver*). Citan el uso de cloruro de radio sobre un tumor cutáneo reduciéndose considerablemente su tamaño. Aquí nace el inicio de la [Braquiterapia](https://es.wikipedia.org/wiki/Braquiterapia) (parte de la radioterapia que utiliza fuentes radiactivas como uso terapeútico). A día de hoy esta técnica se sigue usando, si bien existen diferentes técnicas (más seguras, evidentemente) y se usan otros elementos radiactivos como son el Ir–192 o el I–125 por ejemplo.
 
@@ -141,19 +141,19 @@ Me gustaría aprovechar para citar el fantástico 🧵 hilo de Twitter de [Opera
 
 ## Radioterapia
 
-Los [aceleradores lineales](https://es.wikipedia.org/wiki/Acelerador_lineal) de electrones (LINAC por sus siglas en inglés) son de uso extendido hoy en día en radioterapia. EL primer paciente oncológico tratado con un acelerador lineal fue en Londres (UK) en 1953, en el hospital de Hammersmith, con un máquina trabajando a una energía de 8 MV construida por Metropolitan-Vickers e instalada en 1952 como el primer acelerador lineal de uso médico. Poco después, en 1954, se instaló en Stanford (USA) una máquina similar que comenzó a tratar pacientes en 1956 a una energía de 6 MV.
+{{< vimeo 591287109 >}}
 
-![primer paciente](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/External_beam_radiotherapy_retinoblastoma_nci-vol-1924-300.jpg/783px-External_beam_radiotherapy_retinoblastoma_nci-vol-1924-300.jpg "Imagen histórica mostrando a Gordon Isaacs, el primer paciente tratado con un acelerador linear por retinoblastoma, en 1957 en EE.UU. En este caso se trató con un haz de electrones.  <br> Fuente: https://commons.wikimedia.org/wiki/File:External_beam_radiotherapy_retinoblastoma_nci-vol-1924-300.jpg.")
+Los [aceleradores lineales](https://es.wikipedia.org/wiki/Acelerador_lineal) de electrones (LINAC por sus siglas en inglés) son de uso extendido hoy en día en radioterapia. El primer paciente oncológico tratado con un acelerador lineal fue en Londres (UK) en 1953, en el hospital de Hammersmith, con un máquina trabajando a una energía de 8 MV construida por Metropolitan-Vickers e instalada en 1952 como el primer acelerador lineal de uso médico. Poco después, en 1954, se instaló en Stanford (USA) una máquina similar que comenzó a tratar pacientes en 1956 a una energía de 6 MV.
+
+{{< figure src="Radioactive/linac.svg" title="a) Imagen histórica mostrando a Gordon Isaacs, el primer paciente tratado con un acelerador linear por retinoblastoma, en 1957 en EE.UU. En este caso se trató con un haz de electrones. Fuente: https://commons.wikimedia.org/wiki/File:External_beam_radiotherapy_retinoblastoma_nci-vol-1924-300.jpg. b) Acelerador linear [Elekta Infinity&trade;](https://www.elekta.com/radiotherapy/treatment-delivery-systems/elekta-infinity/) actualmente en uso en la [Clínica Mompía](https://clinicamompia.com)." lightbox="false" width="100%" >}}
 
 ### Inmovilización del paciente
 
 En el tratamiento de tumores con radioterapia es de suma importancia la inmovilización del paciente. Hoy en día, esta inmovilización se lleva a cabo de manera sumamente precisa con material más o menos complejo que se adapta a la anatomía de cada paciente. Se utilizan además sistemas de imagen para comprobar diariamente la posición del blanco, ralizándose los desplazamientos que fueran necesarios. Asimismo, se utilizan sofisticados colimadores para asegurar que la forma del haz de radiación se ajusta al tumor, intentando dejar el tejido sano lo más libre posible. En los primeros aceleradores (como se observa en la película) se trataba más o menos *a ojo* 👀, pues no que existía software de cálculo ni simulación como hoy en día. Se planificaban los tratamientos a mano. Los campos de tratamiento no eran tan precisos ni mucho menos las inmovilizaciones (ver correas). Esto llevaba asociado una mayor toxicidad de los tejidos sanos. Por no hablar de las técnicas tan sofisticadas que existen ahora. Sin embargo, permítanme esta **licencia**: *los fotones eran los mismos*. Con esto quiero decir que las nuevas técnicas lo que han permitido es poder debilitar de forma más precisa el tumor y, por supuesto, poder proteger mejor el tejido sano.
 
-{{% callout warning %}}
-(Incluir fotos de mi ace, inmobilizaciones y planificador).
-{{% /callout %}}
-
 ## Nominación Nobel
+
+{{< vimeo 591286165 >}}
 
 En 1903, el premio Nobel de Física se repartió de la siguiente manera:
 
@@ -167,13 +167,19 @@ Finalmente, tras mover algunos hilos, ambos fueron premiados con el prestigioso 
 
 ## Muerte de Pierre Curie
 
+{{< vimeo 591286129 >}}
+
 Pierre Curie muere el 19 de abril de 1906 a la edad de 46 años. Cruzando la concurrida calle parisina [Rue Dauphine](https://es.wikipedia.org/wiki/Rue_Dauphine) en un dío lluvioso, resbaló y cayó debajo de un carro tirado por caballos. Murió instantáneamente cuando una de las ruedas pasó por encima de su cabeza y le fracturó el cráneo. Declaraciones hechas por su padre y su asistente de laboratorio achacan su muerte a un despiste debido a su mente distraída. Sin embargo, como se muestra en la película, su salud estaba ya deteriorara debido a los efectos de la radiación y de no haber sido atropellado es probable que hubiera muerto debido a estos efectos, al igual que su mujer Marie o su hija [Irène](https://es.wikipedia.org/wiki/Irène_Joliot-Curie).
 
 ## Marie Curie como profesora
 
+{{< vimeo 591286668 >}}
+
 No cabe duda de que la repentina muerte de Pierre Curie supuso un duro golpe para Marie, pues no sólo fallecía su marido, si no también su compañero de investigación y laboratorio. Sin embargo, esta tragedia fue también un punto de inflexión en su carrera: a partir de entonces dedicaría todos sus esfuerzos a completar sola el trabajo científico que habían emprendido. El 13 de Mayo de 1906, 7 meses después de que muriera Pierre, fue nombrada para la cátedra que había quedado vacante por la muerte de su marido Pierre, convirtiéndose en la primera mujer en enseñar en [La Sorbona](https://es.wikipedia.org/wiki/Sorbona). En 1908 se convirtió en profesora titular, en 1910 se publicó su tratado fundamental sobre radiactividad y en 1911 preparó un patrón internacional del radio que depositó en la Oficina Internacional de Pesos y Medidas de París. Ese año recibió por segunda vez el Premio Nobel, en esta ocasión de Química, por el descubrimiento del radio y del polonio; era la primera vez que un científico merecía por dos veces el galardón.
 
 ### Primera clase
+
+{{< vimeo 591286394 >}}
 
 Siete meses después de que Pierre falleciera, el 15 de Noviembre de 1906,  Marie Curie daba su primera clase en La Sorbona de París. Ante un auditorio tan abarrotado como expectante, pronunciaba la primera lección impartida por una profesora (mujer) de la reputada universidad parisina. Fue recibida por un largo aplauso y comenzó su ponencia enunciando su teoría de la radiactividad y la obra de Becquerel y sus consecuencias, citando por supuesto a *Monsieur Curie* y su investigación trágicamente interrumpida.
 
@@ -189,12 +195,16 @@ Cabe destacar también en el clip de la película la tabla periódica de los ele
 
 ## Segundo Nobel
 
+{{< vimeo 591286317 >}}
+
 En 1911, Marie Curie es galardonada con un segundo premio Nobel, esta vez en Química:
 > "*En reconocimiento a sus servicios para el avance de la Química al descubrir los elementos radio y polonio, por medio del aislamiento del radio y el estudio de la naturaleza y los componentes de este sorprendente elemento.*"
 
 Este premio no estuvo exento de controversia, ya que meses antes corría como la pólvora el escarceo amoroso que Marie habría mantenido con su ayudante de laboratorio, [Paul Langevin](https://es.wikipedia.org/wiki/Paul_Langevin), un hombre casado. El físico sueco [Arrhenius](https://es.wikipedia.org/wiki/Svante_August_Arrhenius), quien habría sido anteriormente ganador del prestigioso galardón, le aconsejó personalmente a Marie que no recogiera el premio y se quedara en Francia. Por otro lado, su gran amigo [Albert Einstein](https://es.wikipedia.org/wiki/Albert_Einstein) le aconsejó que fuera a Estocolmo: “*Estoy convencido de que debes despreciar este alboroto y ve a recibir tu premio*”. La galardonada mandó una carta a Suecia para clarificar la situación con una respuesta sumamente lógica, adelantada para su época y contundente: "*El premio me lo dieron por el descubrimiento del radio y el polonio. Por lo que, no puedo aceptar que la apreciación del mérito de un trabajo científico pueda verse influenciada por las difamaciones y calumnias en relación a mi vida privada*". Finalmente, Marie Curie acudió a la ceremonia y en su discurso alabó la figura de su marido Pierre.
 
 ### Discurso
+
+{{< vimeo 591286213 >}}
 
 El **discurso** decía así:
 
@@ -214,11 +224,15 @@ El **discurso** decía así:
 
 ## Radiactividad artificial
 
+{{< vimeo 591286752 >}}
+
 [Frédéric Joliot](https://es.wikipedia.org/wiki/Frédéric_Joliot-Curie) (nacido Jean Frédéric Joliot; París, 19 de marzo de 1900-ibídem, 14 de agosto de 1958), se licenció en Física por la Escuela Superior de Física y Química Villa de París. Siguiendo las recomendaciones de [Paul Langevin](https://es.wikipedia.org/wiki/Paul_Langevin), tras terminar su servicio militar, en 1925 acepta un contrato de ayudante para trabajar en el Instituto del Radio ([Instituto Curie](https://es.wikipedia.org/wiki/Instituto_Curie)) bajo la dirección de Marie Curie, donde se doctoró en Ciencias. Trabajando en este instituto conocería a la hija mayor de Marie y Pierre, [Irène](https://es.wikipedia.org/wiki/Irène_Joliot-Curie), con quien contraería matrimonio en 1926. A partir de ahí adoptaría el apellido Joliot-Curie. Ambos trabajarían juntos en el campo de la física nuclear y buscando la estructura atómica. Ambos fueron galardonados con el Premio Nobel de Química en 1935 "*por sus trabajos en la síntesis de nuevos elementos radiactivos*".
 
 La escena que se muestra en la película en la que [Irène](https://es.wikipedia.org/wiki/Irène_Joliot-Curie) presenta a Frédéric a su madre no parece ser muy realista, ya que Marie conocería anteriormente a Frédéric, puesto que fue nombrado su asistente personal.
 
 ## Ambulancias Curie
+
+{{< vimeo 591286038 >}}
 
 Marie Curie no solo hizo grandes contribuciones en los campos de la Física y la Química, sino también en el mundo de la Medicina. Curie había estudiado los rayos X y máquinas de rayos X en sus investigaciones anteriores y, al comienzo de la Primera Guerra Mundial en 1914, hizo avances en este campo. Trabajó en la máquina de rayos X descubierta por el científico alemán [Wilhelm Röntgen](https://es.wikipedia.org/wiki/Wilhelm_Röntgen) en 1895. Usó su elemento recién descubierto, el radio, como fuente de rayos gamma en las máquinas de rayos X. Esto permitió obtener radiografías más precisas. También creó máquinas de rayos X más pequeñas y portátiles que podrían ser utilizadas en los campos de batalla. De esta manera, salvó muchas vidas y apoyó el esfuerzo de guerra a través de su trabajo. Estas unidades, denominadas ***Petit Curie***, eran accionadas mediante tubos que emanaban lo que hoy se sabe que es radón, un gas incoloro y radiactivo producto de la desintegración del radio. Marie operaba personalmente los tubos, llenándolos con el radio que ella purificaba. Inmediatamente después que comenzó la Guerra, vendió las monedas de oro que ella y su marido habían recibido por el Premio Nobel, para apoyar el esfuerzo bélico.
 
@@ -236,9 +250,12 @@ Como resumen de la apasionante vida de Marie Curie, dejo por aquí su *timeline*
 - 1906: El 19 de abril de este año Pierre muere en un accidente de tráfico. Marie asume su cátedra en la Sorbona en mayo, convirtiéndose en la primera mujer en enseñar allí. Dedica toda su energía a completar sola el trabajo científico que ella y Pierre habían emprendido.
 - 1910: Se publica el tratado fundamentar de Marie sobre radiactividad.
 - 1911: Marie Curie recibe el Premio Nobel de Química por el aislamiento del radio puro.
-- 1914-1918: La Primera Guerra Mundial comienza en 1914. Durante toda la guerra, Marie, con la ayuda de su hija [Irène](https://es.wikipedia.org/wiki/Irène_Joliot-Curie), se dedica a hacer que la tecnología de rayos X esté disponible para su uso en el tratamiento médico de los soldados heridos.
+- 1914–1918: La Primera Guerra Mundial comienza en 1914. Durante toda la guerra, Marie, con la ayuda de su hija [Irène](https://es.wikipedia.org/wiki/Irène_Joliot-Curie), se dedica a hacer que la tecnología de rayos X esté disponible para su uso en el tratamiento médico de los soldados heridos.
 - 1922: A partir de esta fecha Marie centra su investigación en la química de las sustancias radiactivas y las aplicaciones médicas de estas sustancias.
+- 1927: Quinto Congreso Solvay: "*Electrones y fotones*".
 - 1932: Marie ayuda a abrir el [Radium Institute](https://es.wikipedia.org/wiki/Instituto_Curie_(Varsovia)) en Varsovia. Su hermana, [Bronisława](https://es.wikipedia.org/wiki/Bronisława_Dłuska), es nombrada directora del instituto.
 - 4 de Julio de 1934: Marie muere cerca de Sallanches, Francia. Su muerte es el resultado de una leucemia causada por la exposición a la radiación.
 - 1935: Un año después de su muerte su hija Irene junto a su marido son galardonados con el Nobel de Química por sus trabajos en la síntesis de nuevos elementos radiactivos.
 - 1944: Químicos estadounidenses descubren un nuevo elemento. Lo nombran curio en honor a Marie y Pierre Curie.
+
+![congreso solvay](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Solvay_conference_1927.jpg/1280px-Solvay_conference_1927.jpg "Quinto Congreso Solvay (1927). Considerada la fotografía más importante y famosa de la historia de la ciencia. Fuente: https://commons.wikimedia.org/wiki/File:Solvay_conference_1927.jpg.")

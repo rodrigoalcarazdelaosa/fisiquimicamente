@@ -1,7 +1,7 @@
 ---
 title: ☢️ Radioactive ☢️
-subtitle: Crítica de l'última pel·lícula sobre Marie Curie
-summary: "`🔜 PROPERAMENT` <br> Crítica de l'última pel·lícula sobre Marie Curie."
+subtitle: Anàlisi de l'última pel·lícula sobre Marie Curie
+summary: "`🔜 PROPERAMENT` <br> Anàlisi de l'última pel·lícula sobre Madame Curie."
 breadcrumbs: ["blog"]
 date: "2021-08-20T00:00:00Z"
 authors:

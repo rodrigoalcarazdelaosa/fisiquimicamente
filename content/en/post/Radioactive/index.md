@@ -1,7 +1,7 @@
 ---
 title: ☢️ Radioactive ☢️
-subtitle: Review of the Last Film About Marie Curie
-summary: "`🔜 COMING SOON` <br> Review of the Last Film About Marie Curie."
+subtitle: Analysis of the Last Film About Madame Curie
+summary: "`🔜 COMING SOON` <br> Analysis of the Last Film About Madame Curie."
 breadcrumbs: ["blog"]
 date: "2021-08-20T00:00:00Z"
 authors:
