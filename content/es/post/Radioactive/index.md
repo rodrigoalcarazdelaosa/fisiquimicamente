@@ -248,6 +248,12 @@ Marie Curie no solo hizo grandes contribuciones en los campos de la Física y la
 
 ## Resumen final
 
+{{% callout note %}}
+Activa los subtítulos pinchando en el botón que pone **CC**.
+{{% /callout %}}
+
+{{< vimeo 591866547 >}}
+
 Como resumen de la apasionante vida de Marie Curie, dejo por aquí su *timeline*:
 
 - 7 de noviembre de 1867: Nace en Varsovia, Polonia, con el nombre de Maria Salomea Skłodowska.
