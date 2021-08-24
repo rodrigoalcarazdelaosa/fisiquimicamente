@@ -3,7 +3,7 @@ title: ☢️ Radioactive ☢️
 subtitle: Análisis de la última película sobre Madame Curie
 summary: "Análisis de la última película sobre Madame Curie."
 breadcrumbs: ["blog"]
-date: "2021-08-20T00:00:00Z"
+date: "2021-08-24T00:00:00Z"
 authors:
 - jesica-sanchez-mazon
 tags:
@@ -36,11 +36,15 @@ El matrimonio Curie se enfrentaba ahora a la necesidad de investigar la [pechble
 
 ### Proceso de obtención del polonio
 
+{{< vimeo 591834404 >}}
+
 El 27 de junio de 1898 Marie Curie precipita sulfuros de una disolución que contiene plomo, bismuto y la sustancia activa. El sólido era 300 veces más activo que el uranio. El 18 de julio de 1898 Pierre obtuvo un depósito 400 veces más activo que el uranio.
 
 Ante los recientes hallazgos ambos escriben una carta a la [Academia de Ciencias de París](https://es.wikipedia.org/wiki/Academia_de_Ciencias_de_Francia) donde manifiestan que creen haber encontrado una nueva sustancia radiactiva en la pechblenda, de propiedades analíticas similares al bismuto. Proponen para este nuevo elemento el nombre de **polonio**, con símbolo Po (en honor a la patria de Madame Curie).
 
 ### Proceso de obtención del radio
+
+{{< vimeo 591834498 >}}
 
 Poco después, los Curie sospechaban de *otro* nuevo elemento radiactivo en la pechblenda y que mostraba un comportamiento similar al del bario. Su hipótesis se confirmaría en 3 pasos:
 
@@ -51,6 +55,8 @@ Poco después, los Curie sospechaban de *otro* nuevo elemento radiactivo en la p
 En 1902, el radio fue aislado por Marie Curie y [André Debierne](https://es.wikipedia.org/wiki/André-Louis_Debierne) (1874–1949) como metal puro mediante la [electrolisis]({{< relref "/apuntes-segundo-bach-quimica/redox/index.md#electrolisis" >}}) de una disolución de cloruro de radio y Marie escribió en su cuaderno de notas "Ra = 225,93”. Ahora se sabe que la masa atómica del radio es 226,0254 y que este elemento tiene una actividad un millón de veces superior a la del uranio.
 
 ### Electrómetro
+
+{{< vimeo 591834366 >}}
 
 A día de hoy, la medida de la radiactividad no tendría ninguna dificultad, se llevaría a cabo con una [cámara de ionización](https://es.wikipedia.org/wiki/Cámara_de_ionización) cuyo fundamento físico se basa en la ionización de un gas inerte debido a la interacción con la radiación ionizante. Madame Curie describe en sus escritos el uso de varios tipos de cámaras de ionización. El problema es que dichas cámaras no eran capaces de medir con precisión la intensidad de corriente que se producía en los experimentos (del orden de picoamperios). Sólo se disponía de electroscopios o de [electrómetros](https://es.wikipedia.org/wiki/Electrómetro) del tipo de Kelvin, de cuadrantes, de manejo muy delicado (y que, en realidad, medían voltajes).
 
@@ -67,6 +73,8 @@ Una vez medidas las intensidades de corriente, se  determina la actividad de  la
 {{< figure src="Radioactive/electrometros.svg" title="a) Dispositivo de cuarzo piezoeléctrico que perteneció al Laboratorio Curie, que data de 1904. Fuente: https://lamethodecurie.fr/en/article13.html. b) Electrómetro [PTW UNIDOS](https://www.ptwdosimetry.com/en/products/unidos-e/) actualmente utilizado en la [Clínica Mompía](https://clinicamompia.com)." lightbox="false" width="100%" >}}
 
 ### Proceso de medida
+
+{{< vimeo 591834536 >}}
 
 {{% callout note %}}
 El texto que se encuentra a continuación ha sido tomado de la excelente [recreación del laboratorio Curie por parte del CSIC](http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1.html).

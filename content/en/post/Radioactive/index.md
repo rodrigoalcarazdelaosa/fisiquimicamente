@@ -3,7 +3,7 @@ title: ☢️ Radioactive ☢️
 subtitle: Analysis of the Last Film About Madame Curie
 summary: "`🔜 COMING SOON` <br> Analysis of the Last Film About Madame Curie."
 breadcrumbs: ["blog"]
-date: "2021-08-20T00:00:00Z"
+date: "2021-08-24T00:00:00Z"
 authors:
 - jesica-sanchez-mazon
 tags:

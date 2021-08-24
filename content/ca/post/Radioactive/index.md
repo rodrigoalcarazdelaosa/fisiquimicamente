@@ -3,7 +3,7 @@ title: ☢️ Radioactive ☢️
 subtitle: Anàlisi de l'última pel·lícula sobre Marie Curie
 summary: "`🔜 PROPERAMENT` <br> Anàlisi de l'última pel·lícula sobre Madame Curie."
 breadcrumbs: ["blog"]
-date: "2021-08-20T00:00:00Z"
+date: "2021-08-24T00:00:00Z"
 authors:
 - jesica-sanchez-mazon
 tags:
