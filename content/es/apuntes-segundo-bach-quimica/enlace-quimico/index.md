@@ -199,7 +199,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 {{< figure library="true" src="enlace-quimico-4ESO/grafito-grafeno.svg" title="Estructura cristalina del **grafito**, formado por capas de **grafeno** (átomos de **carbono**, C, unidos mediante **enlaces covalentes** en una red hexagonal).<br>Fuente: https://commons.wikimedia.org/wiki/File:Graphit_gitter.svg." lightbox="false" width="100%" >}}
 
-{{< figure library="true" src="enlace-quimico-4ESO/diamante.svg" title="Estructura tetraédrica del **diamante** 💎, formado por átomos de **carbono** (C) unidos mediante **enlaces covalentes**. Fuente: https://www.physics-in-a-nutshell.com/article/13/diamond-structure." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/diamante.svg" title="Estructura tetraédrica del 💎 **diamante**, formado por átomos de **carbono** (C) unidos mediante **enlaces covalentes**. Adaptada de https://www.physics-in-a-nutshell.com/article/13/diamond-structure." lightbox="false" width="100%" >}}
 
 - Debido a los **fuertes enlaces covalentes** entre los átomos, suelen tener **temperaturas** de **fusión** y **ebullición altas**, por lo que son **sólidos** a **temperatura ambiente**.
 - Son sustancias muy **duras** aunque **frágiles**.
