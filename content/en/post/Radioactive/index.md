@@ -15,7 +15,7 @@ categories:
 - Chemistry
 image:
   placement: 3
-  caption: "[https://saportareport.com/radioactive-rosamund-pike-is-radiant-in-role-of-madame-curie-2/columnists/eleanor/](https://saportareport.com/radioactive-rosamund-pike-is-radiant-in-role-of-madame-curie-2/columnists/eleanor/)"
+  caption: "[https://blogdeentradas.com/2020/11/24/madame-curie-se-estrena-en-cines-el-4-de-diciembre/](https://blogdeentradas.com/2020/11/24/madame-curie-se-estrena-en-cines-el-4-de-diciembre/)"
 ---
 
 {{% callout soon %}}

@@ -91,8 +91,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: "¿Qué tan puro quiere su cobre, joven?"
-    cta_url: 'blog/2021/08/15/que-tan-puro-quiere-su-cobre-joven/'
+    cta_label: "☢️ Radioactive ☢️"
+    cta_url: 'blog/2021/08/24/radioactive/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
 ---    

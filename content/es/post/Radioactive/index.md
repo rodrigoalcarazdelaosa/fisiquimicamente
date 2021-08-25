@@ -15,7 +15,7 @@ categories:
 - Películas
 image:
   placement: 3
-  caption: "[https://saportareport.com/radioactive-rosamund-pike-is-radiant-in-role-of-madame-curie-2/columnists/eleanor/](https://saportareport.com/radioactive-rosamund-pike-is-radiant-in-role-of-madame-curie-2/columnists/eleanor/)"
+  caption: "[https://blogdeentradas.com/2020/11/24/madame-curie-se-estrena-en-cines-el-4-de-diciembre/](https://blogdeentradas.com/2020/11/24/madame-curie-se-estrena-en-cines-el-4-de-diciembre/)"
 ---
 
 {{% toc %}}
@@ -98,7 +98,7 @@ Simultáneamente, los electrones que llegan a la placa positiva de la cámara va
 {{< figure src="Radioactive/cuadrantes.jpg" title="Reflejo del punto de luz del electrómetro de cuadrantes sobre la regla traslúcida. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html." >}}
 
 {{< figure src="Radioactive/curie300g.gif" title="Inicio del experimento aplicando una carga de 300 gramos. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html." >}}
-￼
+
 En ese instante se aplica una leve fuerza hacia arriba para disminuir el peso que soporta el platillo de cuarzo piezoeléctrico, pasando de 300 a 200 g. Este hecho implica la disminución de las cargas superficiales del cristal y libera la carga positiva necesaria para compensar la que ha perdido la placa superior por efecto de la corriente de electrones de ionización, volviendo a 0 voltios la lectura del electrómetro. Es importante mantener la lectura del voltímetro a cero para asegurar que la corriente que va desde la armadura positiva del cuarzo a la placa superior de la cámara es siempre constante y la tensión entre las placas es constante e igual a la suministrada por las pilas.
 
 {{< figure src="Radioactive/curie_200g.gif" title="El experimento continúa reduciendo la carga a 200 gramos. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html." >}}
