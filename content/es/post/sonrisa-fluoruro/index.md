@@ -25,11 +25,11 @@ Entrada basada en los siguientes 🧵 hilos de Twitter:
 {{< tweet 1356802160793710592 >}}
 {{% /callout %}}
 
-La evolución de la ciencia y la tecnología no es lineal, ni secuencial. La invención y desarrollo de los [**electrodos selectivos de iones**](https://es.wikipedia.org/wiki/Electrodo_selectivo_de_iones) es un ejemplo de ello ya que a pesar de existir la tecnología para usarlos y literatura especializada con propuestas para elaborarlos tuvo que pasar un tiempo para concretar su construcción.
+La evolución de la ciencia y la tecnología no es lineal, ni secuencial. La invención y desarrollo de los [**electrodos selectivos de iones**](https://es.wikipedia.org/wiki/Electrodo_selectivo_de_iones) es un ejemplo de ello ya que, a pesar de existir la tecnología para usarlos y literatura especializada con propuestas para elaborarlos, tuvo que pasar un tiempo para concretar su construcción.
 
 ## La creación de una necesidad analítica
 
-En la década de 1960, en Estados Unidos, se empezó a añadir [**fluoruro**](https://es.wikipedia.org/wiki/Fluoruro) (en concentraciones de 1 ppm = 1 mg/L, aproximadamente) a los suministros municipales de agua para evitar la formación de caries. Esto generó la necesidad de medir la concentración de fluoruro de una manera sencilla y selectiva.
+En la década de 1960, en Estados Unidos, se empezó a añadir [**fluoruro**](https://es.wikipedia.org/wiki/Fluoruro) (en concentraciones de 1 ppm = 1 mg/L, aproximadamente) a los suministros municipales de agua para evitar la formación de [**caries**](https://es.wikipedia.org/wiki/Caries). Esto generó la necesidad de medir la concentración de fluoruro de una manera sencilla y selectiva.
 
 En ese momento, el método analítico que existía para determinar fluoruro implicaba una [destilación](https://es.wikipedia.org/wiki/Destilación) tediosa para separar el analito de especies interferentes, seguida de un delicado análisis [espectrofotométrico](https://es.wikipedia.org/wiki/Espectrofotometr%C3%ADa), lo que lo hacía un método poco práctico, por complicado y costoso.
 
@@ -39,9 +39,9 @@ En ese momento, el método analítico que existía para determinar fluoruro impl
 
 En la Tierra, el material más duro que se puede extraer de una mina, un material natural, es el [💎 diamante](https://es.wikipedia.org/wiki/Diamante). En el cuerpo humano, el material más duro que podemos encontrar es el [**esmalte dental**](https://es.wikipedia.org/wiki/Esmalte_dental) cuyo componente principal es la [hidroxiapatita](https://es.wikipedia.org/wiki/Hidroxiapatita).
 
-La estructura y composición química del esmalte dental humano se estudia mediante técnicas de la [cristalografía](https://es.wikipedia.org/wiki/Cristalograf%C3%ADa), específicamente mediante imágenes de [microscopía electrónica](https://es.wikipedia.org/wiki/Microscopio_electrónico) de alta resolución.
+La estructura y composición química del esmalte dental humano se estudia mediante técnicas de [cristalografía](https://es.wikipedia.org/wiki/Cristalograf%C3%ADa), específicamente mediante imágenes de [microscopía electrónica](https://es.wikipedia.org/wiki/Microscopio_electrónico) de alta resolución.
 
-El esmalte que cubre los dientes contiene como mayor componente la hidroxiapatita, un hidroxifosfato de calcio. Este mineral poco soluble en agua se disuelve en ácido, porque tanto el PO<sub>4</sub><sup>3–</sup> como el OH<sup>–</sup> reaccionan con el H<sup>+</sup>.
+El esmalte que cubre los dientes contiene como mayor componente la hidroxiapatita, un hidroxifosfato de calcio. Este mineral, poco soluble en agua, se disuelve en ácido, porque tanto el PO<sub>4</sub><sup>3–</sup> como el OH<sup>–</sup> reaccionan con el H<sup>+</sup>.
 
 <div align="center">
 Ca<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>(OH)<sub>2</sub>(s) + 14 H<sup>+</sup>(aq) &#10230; 10 Ca<sup>2+</sup>(aq) + 6 H<sub>2</sub>PO<sub>4</sub><sup>–</sup>(aq) + H<sub>2</sub>O(l)
@@ -53,11 +53,15 @@ La hidroxiapatita reacciona con materiales ácidos. Las bacterias, al adherirse 
 
 El fluoruro inhibe la formación de caries porque forma [fluoroapatita](https://es.wikipedia.org/wiki/Fluorapatita), que es más resistente a los materiales ácidos que la hidroxiapatita. Los iones fluoruro, que tienen carácter químico de base débil, sustituyen en la red cristalina a los iones hidróxido, con carácter de base fuerte, convirtiendo al esmalte de los dientes en un material, que al ser menos básico, no reacciona tan fácilmente con los ácidos que las bacterias producen en nuestra boca a partir de los azúcares.
 
+{{< callout note >}}
+Aprende más sobre [**reacciones ácido-base**]({{< relref "/apuntes-segundo-bach-quimica/acido-base" >}}).
+{{< /callout >}}
+
 {{< figure src="fluoruro.svg" title="Fuente: https://lpi.oregonstate.edu/sites/lpi.oregonstate.edu/files/fluoruro-flashcard.pdf." lightbox="false" width="100%" >}}
 
 ## La necesidad analítica se resuelve
 
-A mediados de la década de 1960, Martin S. Frant conoció en un anuncio la existencia de monocristales de fluoruros de tierras raras, utilizados para producir láseres; se le ocurrió que estos cristales podían responder de forma específica a los iones fluoruro que había estado investigando.
+A mediados de la década de 1960, Martin S. Frant conoció en un anuncio la existencia de monocristales de fluoruros de tierras raras, utilizados para producir [láseres](https://es.wikipedia.org/wiki/Láser); se le ocurrió que estos cristales podían responder de forma específica a los iones fluoruro que había estado investigando.
 
 El primer cristal de NdF<sub>3</sub>, sellado dentro de un tubo de plástico con cera, dio una respuesta *analíticamente aceptable* y después de todo el trabajo científico y tecnológico que implica la investigación y desarrollo de un proceso, fue puesto al escrutrinio de la comunidad académica especializada.
 
@@ -73,7 +77,7 @@ Actualmente, los electrodos selectivos de fluoruro emplean un cristal de LaF<sub
 
 {{< figure src="dopaje.png" title="Fuente: http://www.csun.edu/~hcchm003/321/321102413.pdf." >}}
 
-La disolución interior del electrodo selectivo de fluoruro es NaF 0.1 M y NaCl 0.1 M. Se usa, como se comentó al inicio, para controlar de forma continua la fluoración de abastecimiento de aguas municipales.
+La disolución interior del electrodo selectivo de fluoruro es NaF 0.1<span style="white-space:nowrap">&thinsp;</span>M y NaCl 0.1<span style="white-space:nowrap">&thinsp;</span>M. Se usa, como se comentó al inicio, para controlar de forma continua la fluoración de abastecimiento de aguas municipales.
 
 ## Referencias
 
