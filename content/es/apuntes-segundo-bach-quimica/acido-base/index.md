@@ -188,9 +188,9 @@ Una **valoración/titulación ácido-base** es un método de análisis químico 
 
 En una reacción de **neutralización**, un ácido y una base reaccionan de manera **irreversible** para producir una sal y agua:
 
-$$
-\text{ÁCIDO} + \text{BASE} \longrightarrow \text{SAL} + \text{AGUA}
-$$
+<div align="center">
+ÁCIDO + BASE &#10230; SAL + AGUA
+</div>
 
 Según sea el valorante un ácido o base fuerte, el pH en el punto de equivalencia será:
 
