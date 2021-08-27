@@ -6,6 +6,7 @@ summary: "`🔜 PROPERAMENT` <br> Equilibri redox. Ajust redox. Piles galvàniqu
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 - eduard-cremades
 tags:
 - 2n Batx
@@ -27,7 +28,10 @@ links:
   icon: file-download
   name: Pòster
   url: redox-poster.pdf
-
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Exercicis
+  url: redox-exercicis.pdf
 ---
 
 {{% callout soon %}}
