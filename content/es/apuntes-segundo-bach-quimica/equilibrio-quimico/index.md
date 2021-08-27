@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: equilibrio-quimico-poster.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1zfeoyUiQm46SheaKm-9EKLmlfc9Ao1hI/view
 
 slides: equilibrio-quimico-2Bach-quimica  
 ---
