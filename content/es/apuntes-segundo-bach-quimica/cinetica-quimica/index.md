@@ -24,6 +24,10 @@ links:
   icon: file-download
   name: Póster
   url: cinetica-quimica-poster.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1vm3lF6xBlj8qzbCdWB5xlXFfyXEkoGmm/view
 
 slides: cinetica-quimica-2Bach-quimica
 ---
