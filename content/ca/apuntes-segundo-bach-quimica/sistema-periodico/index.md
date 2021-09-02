@@ -26,6 +26,10 @@ links:
   icon: file-download
   name: Pòster
   url: sistema-periodic-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Exercicis
+  url: sistema-periodic-exercicis.pdf
 
 slides: 
 ---
