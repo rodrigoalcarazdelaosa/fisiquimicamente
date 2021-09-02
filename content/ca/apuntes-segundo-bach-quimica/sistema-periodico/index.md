@@ -7,6 +7,8 @@ breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - oscar-colomar
+- alba-lopez-valenzuela
+- eduard-cremades
 tags:
 - 2n Batx
 - taula-periòdica

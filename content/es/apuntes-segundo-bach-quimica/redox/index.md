@@ -30,7 +30,11 @@ links:
 - icon_pack: fas
   icon: pencil-ruler
   name: Ejercicios
-  url: redox-ejercicios.pdf  
+  url: redox-ejercicios.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Más ejercicios
+  url: https://drive.google.com/file/d/1nJA7BYfXzSkU01pSiDQWgCerm6DQGPbq/view
 
 slides: redox-2Bach-quimica
 ---
