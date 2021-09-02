@@ -27,6 +27,10 @@ links:
   icon: file-download
   name: Pòster
   url: estructura-materia-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Exercicis
+  url: estructura-materia-exercicis.pdf
 
 slides: 
 ---
