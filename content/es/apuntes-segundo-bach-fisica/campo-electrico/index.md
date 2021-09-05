@@ -20,16 +20,16 @@ image:
   caption: Imagen de [**Gerd Altmann**](https://pixabay.com/es/users/geralt-9301/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
+links:
 # - icon_pack: fas
 #   icon: file-download
 #   name: PDF Texto
 #   url: MAS_texto.pdf
   
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1A2JmO4UcFPFx_Xr6AOxv_KqjRZBmwLe3/view
 
 ---
 
