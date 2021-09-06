@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/2bach/quimica/enlace-quimico"
 subtitle: Enlace iónico, covalente y metálico. Geometría molecular. Fuerzas intermoleculares
 summary: "Enlace iónico, covalente y metálico. Geometría molecular. Fuerzas intermoleculares."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - 2º Bach
 - enlace-químico
@@ -23,6 +26,10 @@ links:
   icon: file-download
   name: Póster
   url: enlace-quimico-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: enlace-quimico-ejercicios.pdf
   
 slides: enlace-quimico-2Bach-quimica
 ---
