@@ -1,6 +1,6 @@
 ---
 title: El extraño caso de Lucía
-url: "/recursos-fisica-quimica/actividades/4eso/extraño-caso-lucia"
+url: "/recursos-fisica-quimica/actividades/4eso/extrano-caso-lucia"
 subtitle: Conviértete en detective y averigua qué le ha ocurrido realmente a Lucía
 summary: "Conviértete en detective y averigua qué le ha ocurrido realmente a Lucía."
 breadcrumbs: ["recursos-fisica-quimica","actividades-4eso"]
@@ -27,27 +27,27 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Capítulos 1 y 2
-  url: extraño-caso-lucia-cap-1-2.pdf
+  url: extrano-caso-lucia-cap-1-2.pdf
 - icon_pack: fas
   icon: file-download
   name: Capítulo 3
-  url: extraño-caso-lucia-cap-3.pdf
+  url: extrano-caso-lucia-cap-3.pdf
 - icon_pack: fas
   icon: file-download
   name: Capítulo 4
-  url: extraño-caso-lucia-cap-4.pdf
+  url: extrano-caso-lucia-cap-4.pdf
 - icon_pack: fas
   icon: file-download
   name: Capítulo 5
-  url: extraño-caso-lucia-cap-5.pdf
+  url: extrano-caso-lucia-cap-5.pdf
 - icon_pack: fas
   icon: file-download
   name: Capítulo final
-  url: extraño-caso-lucia-cap-final.pdf
+  url: extrano-caso-lucia-cap-final.pdf
 - icon_pack: fas
   icon: file-download
   name: Informe policial
-  url: extraño-caso-lucia-informe-policial.pdf
+  url: extrano-caso-lucia-informe-policial.pdf
 ---
 
 {{% callout note %}}
