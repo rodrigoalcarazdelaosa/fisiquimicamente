@@ -44,7 +44,7 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: El extraño caso de Lucía
-    cta_url: 'recursos-fisica-quimica/actividades/4eso/extraño-caso-lucia/'
+    cta_url: 'recursos-fisica-quimica/actividades/4eso/extrano-caso-lucia/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades
