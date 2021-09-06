@@ -7,6 +7,8 @@ breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - oscar-colomar
+- alba-lopez-valenzuela
+- eduard-cremades
 tags:
 - 2n Batx
 - enllaç-químic
@@ -26,6 +28,10 @@ links:
   icon: file-download
   name: Pòster
   url: enllac-quimic-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Exercicis
+  url: enllac-quimic-exercicis.pdf
   
 slides: 
 ---
