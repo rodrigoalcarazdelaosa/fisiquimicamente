@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apunts/2eso/moviment"
 subtitle: Conceptes de velocitat i acceleració
 summary: "`🔜 PROPERAMENT` <br> Conceptes de velocitat i acceleració."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - 2n ESO
 - moviment
@@ -19,10 +22,10 @@ image:
   focal_point: Smart
 
 links:
-# - icon_pack: fas
-# icon: download
-#  name: PDF Texto
-#  url: movimientos_texto.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: moviment-poster.pdf
   
 slides:
 ---
