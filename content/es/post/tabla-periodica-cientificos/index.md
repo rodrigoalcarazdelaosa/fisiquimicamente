@@ -23,7 +23,9 @@ image:
 #  url: pdf/periodic-table-scientists.pdf
 ---
 
-Inspirados por la [Tabla Periódica <img draggable="false" class="icon" alt="DC" src="/icon/DC.svg">]({{< ref "/post/tabla-periodica-DC/index.md" >}}), {{% mention "jesica-sanchez-mazon" %}} y un servidor os presentamos nuestra versión con **científicos/as ilustres**.
+Inspirados por la [Tabla Periódica <img draggable="false" class="icon" alt="DC" src="/icon/DC.svg">]({{< ref "/post/tabla-periodica-DC/index.md" >}}), {{% mention "jesica-sanchez-mazon" %}} y un servidor os presentamos nuestra versión con **científicos/as ilustres**[^1].
+
+[^1]: Echa un vistazo también a la excelente [Tabla Periódica de las Científicas](https://naukas.com/2018/11/23/la-tabla-periodica-de-las-cientificas/) de la mano de [Teresa Valdés-Solís](https://twitter.com/tvaldessolis).
 
 {{% callout note %}}
 Cada imagen es un **enlace** que te lleva a la página de la **Wikipedia** del/a **científico/a**. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** como el de cada **científico/a** (ambos enlazados a Wikipedia).
