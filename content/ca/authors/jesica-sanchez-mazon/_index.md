@@ -12,6 +12,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+highlight_name: true
+
 # Role/position
 role: Radiofísica Hospitalària i Supervisora d'Instal·lacions Radioactives
 
