@@ -142,6 +142,18 @@
   translation: Apunts 2n Batx Química
 - id: apuntes-formulacion
   translation: Apunts Formulació Nomenclatura Química  
+- id: actividades-segundo-tercero-eso
+  translation: Activitats 2n ESO &ndash; 3r ESO
+- id: actividades-cuarto-eso
+  translation: Activitats 4t ESO
+- id: actividades-primero-bach
+  translation: Activitats 1º Batx
+- id: actividades-segundo-bach-fisica
+  translation: Activitats 2n Batx Física
+- id: actividades-segundo-bach-quimica
+  translation: Activitats 2n Batx Química
+- id: actividades-formulacion
+  translation: Activitats Formulació Nomenclatura Química  
 - id: slides
   translation: Diapositives
 - id: authors

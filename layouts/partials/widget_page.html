@@ -153,6 +153,14 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apuntes</li>
 	    </ol>
+	    </nav>
+	{{ else if and (eq $widget "featurette") (eq $st.Title "🗒️ Actividades de Física y Química") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">🗒️ Actividades</li>
+	    </ol>
 	    </nav>	
     {{ else if and (eq $widget "hero-lottie") (eq $st.Title "📚 Physics and Chemistry Notes") }}
 	    <nav aria-label="breadcrumb">
@@ -206,6 +214,24 @@
 				<li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
 			{{ end }}
 	    </ol>
+		</nav>	
+	{{ else if and (eq $widget "portfolio") (eq $st.Title "🗒️ Actividades") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
+			
+			{{ if eq $st.Params.subtitle "📓 2.º Bach ☢️ Física" }}
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach/">📓 2.º Bach</a></li>		
+				<li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+			{{ else if eq $st.Params.subtitle "📓 2.º Bach ⚗️ Química" }}
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach/">📓 2.º Bach</a></li>		
+				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>											
+			{{ else }}
+				<li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
+			{{ end }}
+	    </ol>
 		</nav>		
 	{{ else if and (eq $widget "featurette") (eq $st.Title "📚 Apuntes") }}
 		<nav aria-label="breadcrumb">
@@ -213,6 +239,15 @@
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/">📚 Apuntes</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
+	    </ol>
+		</nav>
+	{{ else if and (eq $widget "featurette") (eq $st.Title "🗒️ Actividades") }}
+		<nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget"> 
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>	

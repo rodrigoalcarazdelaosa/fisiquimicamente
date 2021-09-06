@@ -176,7 +176,19 @@
 - id: apuntes-segundo-bach-quimica
   translation: Apuntes 2.º Bach Química
 - id: apuntes-formulacion
-  translation: Apuntes Formulación Nomenclatura Química       
+  translation: Apuntes Formulación Nomenclatura Química 
+- id: actividades-segundo-tercero-eso
+  translation: Actividades 2.º ESO &ndash; 3.º ESO
+- id: actividades-cuarto-eso
+  translation: Actividades 4.º ESO
+- id: actividades-primero-bach
+  translation: Actividades 1.º Bach
+- id: actividades-segundo-bach-fisica
+  translation: Actividades 2.º Bach Física
+- id: actividades-segundo-bach-quimica
+  translation: Actividades 2.º Bach Química
+- id: actividades-formulacion
+  translation: Actividades Formulación Nomenclatura Química 
 - id: slides
   translation: Diapositivas
 - id: authors
