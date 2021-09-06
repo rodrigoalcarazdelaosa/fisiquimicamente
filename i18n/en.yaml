@@ -236,7 +236,25 @@
   translation: Notes 17&ndash;18 year-olds Chemistry
   
 - id: apuntes-formulacion
-  translation: Notes Nomenclature Chemistry           
+  translation: Notes Nomenclature Chemistry  
+
+- id: actividades-segundo-tercero-eso
+  translation: Activities 13&ndash;15 year-olds
+
+- id: actividades-cuarto-eso
+  translation: Activities 15&ndash;16 year-olds
+
+- id: actividades-primero-bach
+  translation: Activities 16&ndash;17 year-olds 
+  
+- id: actividades-segundo-bach-fisica
+  translation: Activities 17&ndash;18 year-olds Physics
+  
+- id: actividades-segundo-bach-quimica
+  translation: Activities 17&ndash;18 year-olds Chemistry
+  
+- id: actividades-formulacion
+  translation: Activities Nomenclature Chemistry           
 
 - id: slides
   translation: Slides

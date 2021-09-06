@@ -16,16 +16,22 @@
   weight = 1
 
 [[main]]
+  name = "🗒️ Actividades"
+  url = "recursos-fisica-quimica/actividades"
+  parent = "recursos-fyq"
+  weight = 2  
+
+[[main]]
   name = "🎓 EBAU"
   url = "recursos-fisica-quimica/ebau"
   parent = "recursos-fyq"
-  weight = 2
+  weight = 3
   
 [[main]]
   name = "📝 Oposiciones"
   url = "recursos-fisica-quimica/oposiciones"
   parent = "recursos-fyq"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "👐🏼 Tutoriales"
