@@ -56,7 +56,7 @@ Os presento "*El extraño caso de Lucía*", una **actividad** de **síntesis** p
 
 La historia cuenta el caso de Lucía, una chica que presuntamente se suicidó y el alumnado tiene que ir avanzando capítulo a capítulo para descifrar la verdad.
 
-Mi manera de proceder es organizar al alumnado en grupos (3 personas) y facilitarles los capítulos 1 y 2 y el informe policial con los datos de la investigación. Para obtener el siguiente capítulo, han de responder a las preguntas que se indican en la historia. Por cada uno que resuelven, obtienen el siguiente.
+Mi manera de proceder es organizar al alumnado en grupos (3 personas) y facilitarles los [capítulos 1 y 2](extrano-caso-lucia-cap-1-2.pdf) y el [informe policial](extrano-caso-lucia-informe-policial.pdf) con los datos de la investigación. Para obtener el siguiente capítulo, han de responder a las preguntas que se indican en la historia. Por cada uno que resuelven, obtienen el siguiente.
 
 La historia al final queda algo abierta, mi idea es cerrarla en cuanto pueda añadiendo algún capítulo más centrándome en el tema de energía.
 
