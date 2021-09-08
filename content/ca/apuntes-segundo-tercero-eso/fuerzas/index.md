@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apunts/2eso/forces"
 subtitle: Principals forces de la natura i els seus efectes
 summary: "`🔜 PROPERAMENT` <br> Principals forces de la natura i els seus efectes."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - 2n ESO
 - forces
@@ -19,15 +22,10 @@ image:
   focal_point: Smart
 
 links:
-# - icon_pack: fas
-# icon: download
-#  name: PDF Texto
-#  url: movimientos_texto.pdf
-  
-#- icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: fuerzas-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: forces-poster.pdf
   
 slides: 
 ---
