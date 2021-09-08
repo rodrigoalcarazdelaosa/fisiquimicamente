@@ -29,7 +29,11 @@ links:
 - icon_pack: fas
   icon: pencil-ruler
   name: Ejercicios
-  url: sistema-periodico-ejercicios.pdf    
+  url: sistema-periodico-ejercicios.pdf   
+- icon_pack: fas
+  icon: external-link-alt
+  name: Más ejercicios
+  url: https://drive.google.com/file/d/1YAcvK97qORLRYqDZw7iyVm2t30uqJzjm/view
 
 slides: sistema-periodico-2Bach-quimica
 ---
