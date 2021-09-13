@@ -102,7 +102,7 @@
   </p>
 </div>
 
-<div class="share-box" aria-hidden="true">
+<div class="share-box">
 	<div align="center">
 		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}
@@ -126,7 +126,7 @@
       {{ $link := replace .url "{url}" ($.Permalink | htmlEscape) }}
       {{ $link = replace $link "{title}" ($.Title | htmlEscape) }}
       <li>
-        <a href="{{$link|safeURL}}" data-toggle="tooltip" data-placement="bottom" title aria-label="{{.title}}" data-original-title="{{.title}}" target="_blank" rel="noopener" class="share-btn-{{.id}}">
+        <a href="{{$link|safeURL}}" data-toggle="tooltip" data-placement="bottom" title aria-label="{{.title}}" data-original-title="{{.title}}" target="_blank" rel="noopener" class="share-btn-{{.id}}" aria-label="{{.icon}}">
           <i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
         </a>
       </li>
@@ -134,7 +134,7 @@
   </ul>  	  
 </div>
 
-<div class="share-box" aria-hidden="true">
+<div class="share-box">
 	<div align="center">
 		<h3 style="color: #555;">
 			{{ if eq .Site.Language.Lang "es" }}

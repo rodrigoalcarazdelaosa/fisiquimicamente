@@ -24,7 +24,9 @@
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
         {{- if $has_logo -}}
-          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
+          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+          {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
         {{- else -}}
           {{- site.Title -}}
         {{- end -}}
@@ -58,13 +60,19 @@
       {{- if $has_logo -}}
       {{ if eq .Site.Language.Lang "es" }}
         {{ $logo = resources.Get "media/logo-mob.svg" }}
-        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
+        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+           {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
       {{ else if eq .Site.Language.Lang "en" }}
         {{ $logo = resources.Get "media/logo-mob-en.svg" }}
-        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
+        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+           {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
       {{ else if eq .Site.Language.Lang "ca" }}
         {{ $logo = resources.Get "media/logo-mob-ca.svg" }}
-        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">        
+        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
+           {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
       {{ end }}                
       {{- else -}}
         {{- site.Title -}}
