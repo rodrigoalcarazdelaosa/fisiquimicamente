@@ -26,6 +26,10 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
+> Te recomiendo echar un vistazo a [esta excelente entrada del **blog**]({{< ref "/post/materiales-quimica/index.md" >}}) para aprender sobre **materiales** y las **cuatro preguntas** esenciales de la **Química**.
+
+---
+
 {{% section %}}
 
 ## Propiedades generales

@@ -29,6 +29,10 @@ links:
 slides: materia-2ESO-3ESO
 ---
 
+{{% callout note %}}
+Te recomiendo echar un vistazo a [esta excelente entrada del **blog**]({{< ref "/post/materiales-quimica/index.md" >}}) para aprender sobre **materiales** y las **cuatro preguntas** esenciales de la **Química**.
+{{% /callout %}}
+
 {{% toc %}}
 
 ## Propiedades generales

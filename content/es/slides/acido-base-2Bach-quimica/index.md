@@ -314,6 +314,10 @@ Según sea el valorante un ácido o base fuerte, el pH en el punto de equivalenc
 
 ---
 
+> Aprende más sobre la **importancia** de las **reacciones ácido-base** para el **esmalte dental** en [esta excelente entrada del **blog**]({{< ref "/post/sonrisa-fluoruro/index.md" >}}).
+
+---
+
 ### Indicadores ácido-base
 
 Un **indicador** de pH es un compuesto químico *halocrómico* (cambia de color ---*vira*--- ante cambios de pH) que se añade en pequeñas cantidades a una disolución para poder determinar visualmente su pH (acidez o basicidad).

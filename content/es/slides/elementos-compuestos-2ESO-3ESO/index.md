@@ -376,6 +376,10 @@ El cobre tiene aplicaciones en casi todas las industrias, pero es especialmente 
 
 ---
 
+> Te recomiendo leer [esta excelente entrada del **blog**]({{< ref "/post/pureza-quimica-cobre/index.md" >}}) para aprender mucho más sobre el **cobre**.
+
+---
+
 #### Galio (Ga)
 Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza ampliamente en la industria **electrónica**, donde se puede encontrar en **luces LED**, teléfonos **móviles**, **ordenadores** y **televisores**.
 
