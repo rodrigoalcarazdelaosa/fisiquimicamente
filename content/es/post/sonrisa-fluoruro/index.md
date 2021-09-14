@@ -43,7 +43,7 @@ La estructura y composición química del esmalte dental humano se estudia media
 
 El esmalte que cubre los dientes contiene como mayor componente la hidroxiapatita, un hidroxifosfato de calcio. Este mineral, poco soluble en agua, se disuelve en ácido, porque tanto el PO<sub>4</sub><sup>3–</sup> como el OH<sup>–</sup> reaccionan con el H<sup>+</sup>.
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 Ca<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>(OH)<sub>2</sub>(s) + 14 H<sup>+</sup>(aq) &#10230; 10 Ca<sup>2+</sup>(aq) + 6 H<sub>2</sub>PO<sub>4</sub><sup>–</sup>(aq) + H<sub>2</sub>O(l)
 </div>
 

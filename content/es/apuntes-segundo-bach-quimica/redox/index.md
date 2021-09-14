@@ -171,7 +171,7 @@ Con la reacción ajustada se pueden realizar todo tipo de **cálculos estequiom�
 
 Un **equivalente rédox** es la masa de una sustancia que reacciona con un mol de electrones. En el punto de equivalencia, el número de equivalentes de oxidante es igual al número de equivalentes de reductor:
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 nº eq. oxidante = nº eq. reductor
 
 *M*<sub>o</sub>*n*<sub>o</sub>*V*<sub>o</sub> = *M*<sub>r</sub>*n*<sub>r</sub>*V*<sub>r</sub>
@@ -181,13 +181,13 @@ donde *M* es la molaridad, *n* representa la valencia iónica, que es el número
 
 Para la reacción:
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 2 Cl<sup>–</sup> &#10230; Cl<sub>2</sub> + 2 e<sup>–</sup>,
 </div>
 
 la valencia sería 1, mientras que para la reacción del dicromato:
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 Cr<sub>2</sub>O<sub>7</sub><sup>2–</sup> + 14 H<sup>+</sup> + 6 e<sup>–</sup> &#10230; 2 Cr<sup>3+</sup> + 7 H<sub>2</sub>O,
 </div>
 
@@ -277,7 +277,7 @@ Involucra el uso de permanganatos, típicamente el KMnO<sub>4</sub>, y se utiliz
 
 En la mayoría de los casos, la permanganometría se lleva a cabo en una **disolución muy ácida**, en la que tiene lugar la siguiente reacción química:
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 MnO<sub>4</sub><sup>–</sup> + 8 H<sup>+</sup> + 5 e<sup>–</sup> &#10230; Mn<sup>2+</sup> + 4 H<sub>2</sub>O; &emsp; <em>E</em><sup>&#x26AC;</sup> = +1.51 V
 </div>
 
@@ -285,7 +285,7 @@ lo que demuestra que, en un medio muy ácido, el KMnO<sub>4</sub> es un agente o
 
 En una **disolución muy básica**, solo se transfiere un electrón:
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 MnO<sub>4</sub><sup>–</sup> + e<sup>–</sup> &#10230; MnO<sub>4</sub><sup>2–</sup>; &emsp; <em>E</em><sup>&#x26AC;</sup> = +0.56 V
 </div>
 
@@ -334,7 +334,7 @@ El oxígeno se oxida, depositándose en el ánodo, mientras que el hidrógeno se
 
 En condiciones ideales, la cantidad de hidrógeno depositada es el doble que la de oxígeno, de acuerdo a la ecuación:
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 2 H<sub>2</sub>O(l) &#10230; 2 H<sub>2</sub>(g) + O<sub>2</sub>(g)
 </div>
 

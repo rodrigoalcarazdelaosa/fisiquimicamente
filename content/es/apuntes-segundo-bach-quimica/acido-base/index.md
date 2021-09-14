@@ -188,7 +188,7 @@ Una **valoración/titulación ácido-base** es un método de análisis químico 
 
 En una reacción de **neutralización**, un ácido y una base reaccionan de manera **irreversible** para producir una sal y agua:
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 ÁCIDO + BASE &#10230; SAL + AGUA
 </div>
 

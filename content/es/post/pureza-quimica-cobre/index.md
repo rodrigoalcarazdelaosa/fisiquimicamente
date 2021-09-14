@@ -63,16 +63,16 @@ Las **reacciones rédox** del proceso de afino del cobre son[^1]:
 
 [^1]: **Aprende** más sobre **reacciones rédox** [**aquí**]({{< relref "/apuntes-segundo-bach-quimica/redox" >}}).
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 Ánodo: Cu ⟷ Cu<sup>2+</sup> + 2 e<sup>–</sup>; &emsp; <em>E</em><sup>&#x26AC;</sup> = –0.337 V
 </div>
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 Cátodo: Cu<sup>2+</sup> + 2 e<sup>–</sup> ⟷ Cu; &emsp; <em>E</em><sup>&#x26AC;</sup> = +0.337 V
 </div>
 
 Se producen otras reacciones de oxidación y reducción parciales en donde interviene el catión Cu<sup>+</sup>, las cuales se deben controlar. Se busca obtener cantidades industriales de cobre de alta pureza. Un ejemplo de esas otras reacciones rédox, es:
 
-<div align="center">
+<div align="center" style="margin-bottom: 1rem">
 2 Cu<sup>+</sup> + 2 H<sup>+</sup> + ½ O<sub>2</sub> ⟷ 2 Cu<sup>2+</sup> + H<sub>2</sub>O &emsp; (oxidación al aire)
 </div>
 
