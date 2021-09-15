@@ -3,10 +3,10 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 17  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "🎓 Recursos EBAU <br> (Cantabria)"
-subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y al **Profesor Enrique Ortega González** del IES José del Campo de Ampuero"
+title = ""
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -58,12 +58,8 @@ subtitle = "Gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y 
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-bottom: 0px;"
+ css_style = "padding-top: 0px;padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
 +++
-
-{{% callout note %}}
-Accede [aquí](https://web.unican.es/admision/acceso-a-estudios-de-grado/evaluacion-de-bachillerato-para-el-acceso-a-la-universidad) a la última información por parte de la Universidad de Cantabria (UC).
-{{% /callout %}}

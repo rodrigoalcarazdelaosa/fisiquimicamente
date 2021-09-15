@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "📝 Oposiciones"
+title = ""
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -54,12 +54,8 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-bottom: 0px;"
+ css_style = "padding-top: 0px;padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
 +++
-
-{{% callout note %}}
-**Ejercicios resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}**. Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
-{{% /callout %}}

@@ -24,3 +24,5 @@ advanced:
 ---
 
 En format **text**, **diapositives** i **pòster**
+
+També **exercicis**!

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 17  # Order that this section will appear.
 
-title = "🎓 Recursos PAU/PBAU"
+title = ""
 # subtitle = ""
 
 # Showcase personal skills or business features.
@@ -60,7 +60,7 @@ title = "🎓 Recursos PAU/PBAU"
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-bottom: 0px;"
+ css_style = "padding-top: 0px; padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

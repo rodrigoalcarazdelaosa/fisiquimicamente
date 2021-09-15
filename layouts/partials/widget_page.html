@@ -132,7 +132,7 @@
 
 	{{- $illes_balears_flag := resources.Get ("media/icons/flag-balearic-islands.svg") -}}
 
-    {{ if and (eq $widget "featurette") (eq $st.Title "⚛️ Recursos de Física y Química") }}
+    {{ if and (eq $widget "hero-lottie") (eq $st.Title "⚛️ Recursos de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>
@@ -154,7 +154,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apuntes</li>
 	    </ol>
 	    </nav>
-	{{ else if and (eq $widget "featurette") (eq $st.Title "🗒️ Actividades de Física y Química") }}
+	{{ else if and (eq $widget "hero-lottie") (eq $st.Title "🗒️ Actividades de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>			
@@ -268,7 +268,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">{{ $st.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>			
-    {{ else if and (eq $widget "featurette") (eq $st.Title "🎓 Recursos EBAU <br> (Cantabria)") }}
+    {{ else if and (eq $widget "hero-lottie") (eq $st.Title "🎓 Recursos EBAU <br> (Cantabria)") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>			
@@ -276,7 +276,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">🎓 EBAU</li>
 	    </ol>
 	    </nav>
-	{{ else if and (eq $widget "featurette") (eq $st.Title "🎓 Recursos PAU/PBAU") }}
+	{{ else if and (eq $widget "hero-lottie") (eq $st.Title "🎓 Recursos PAU/PBAU") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>			
@@ -419,7 +419,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">💡Consells</li>
 	    </ol>
 	    </nav>			
-    {{ else if and (eq $widget "featurette") (eq $st.Title "📝 Oposiciones") }}
+    {{ else if and (eq $widget "hero-lottie") (eq $st.Title "📝 Oposiciones") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>			
