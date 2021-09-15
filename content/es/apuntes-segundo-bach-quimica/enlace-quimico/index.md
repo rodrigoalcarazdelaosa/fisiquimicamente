@@ -30,6 +30,10 @@ links:
   icon: pencil-ruler
   name: Ejercicios
   url: enlace-quimico-ejercicios.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Más ejercicios
+  url: https://drive.google.com/file/d/19To593bTwLFtvlyMZ9f1w4FjMRR_NoXz/view
   
 slides: enlace-quimico-2Bach-quimica
 ---
