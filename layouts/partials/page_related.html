@@ -5,16 +5,33 @@
   {{ with $related }}
   <div class="article-widget content-widget-hr">
     <h3>{{ i18n "related" }}</h3>
-    <ul>
+    <ul style="list-style-type: none; padding-left: 0;">
       {{ range . }}
-	  {{ $link := .RelPermalink }}
-	  {{ $target := "" }}
-	  {{ with .Params.external_link }}
+	    {{ $link := .RelPermalink }}
+	    {{ $target := "" }}
+	    {{ with .Params.external_link }}
 	    {{ $link = . }}
 	    {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-	  {{ end }}
+	    {{ end }}
       <li>
+        {{ $sec := substr .Section 0 4 }}
+        {{ if eq $sec "apun" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>📚 {{ .Title }}</a>
+        {{ else if eq $sec "acti" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🗒️ {{ .Title }}</a>
+        {{ else if eq $sec "EBAU" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🎓 {{ .Title }}</a>
+        {{ else if eq $sec "opos" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>📝 {{ .Title }}</a>
+        {{ else if eq $sec "tuto" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>👐🏼 {{ .Title }}</a>
+        {{ else if eq $sec "enla" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>💻 {{ .Title }}</a>
+        {{ else if eq $sec "post" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>✍🏼 {{ .Title }}</a>
+        {{ else }}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a>
+        {{ end }}
         <p class="search-hit-description">
           {{ .Summary | plainify | emojify }}
         </p>
