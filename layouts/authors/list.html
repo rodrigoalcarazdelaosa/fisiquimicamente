@@ -27,10 +27,27 @@
     {{ if $count }}
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
-      <ul>
+      <ul style="list-style-type: none; padding-left: 0;">
         {{ range $query }}
         <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ $sec := substr .Section 0 4 }}
+        {{ if eq $sec "apun" }}
+        <a href="{{ .Permalink }}">📚 {{ .Title }}</a>
+        {{ else if eq $sec "acti" }}
+        <a href="{{ .Permalink }}">🗒️ {{ .Title }}</a>
+        {{ else if eq $sec "EBAU" }}
+        <a href="{{ .Permalink }}">🎓 {{ .Title }}</a>
+        {{ else if eq $sec "opos" }}
+        <a href="{{ .Permalink }}">📝 {{ .Title }}</a>
+        {{ else if eq $sec "tuto" }}
+        <a href="{{ .Permalink }}">👐🏼 {{ .Title }}</a>
+        {{ else if eq $sec "enla" }}
+        <a href="{{ .Permalink }}">💻 {{ .Title }}</a>
+        {{ else if eq $sec "post" }}
+        <a href="{{ .Permalink }}">✍🏼 {{ .Title }}</a>
+        {{ else }}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ end }}          
           <p class="search-hit-description">
             {{ .Summary | plainify | emojify }}
           </p>
