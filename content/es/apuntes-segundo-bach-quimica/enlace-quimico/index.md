@@ -34,6 +34,10 @@ links:
   icon: external-link-alt
   name: Más ejercicios
   url: https://drive.google.com/file/d/19To593bTwLFtvlyMZ9f1w4FjMRR_NoXz/view
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios enlace covalente
+  url: https://drive.google.com/file/d/1Gvj18n_6YUQMWqUW-ejYUVMO8kl7ydAZ/view
   
 slides: enlace-quimico-2Bach-quimica
 ---
