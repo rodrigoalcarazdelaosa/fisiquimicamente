@@ -158,7 +158,7 @@
 # Default titles for archive pages
   
 - id: posts
-  translation: Blog
+  translation: ✍🏼 Blog
 - id: publications
   translation: Publicaciones
 - id: talks
@@ -166,33 +166,37 @@
 - id: projects
   translation: Proyectos
 - id: apuntes-segundo-tercero-eso
-  translation: Apuntes 2.º ESO &ndash; 3.º ESO
+  translation: 📚 Apuntes 2.º ESO &ndash; 3.º ESO
 - id: apuntes-cuarto-eso
-  translation: Apuntes 4.º ESO
+  translation: 📚 Apuntes 4.º ESO
 - id: apuntes-primero-bach
-  translation: Apuntes 1.º Bach
+  translation: 📚 Apuntes 1.º Bach
 - id: apuntes-segundo-bach-fisica
-  translation: Apuntes 2.º Bach Física
+  translation: 📚 Apuntes 2.º Bach Física
 - id: apuntes-segundo-bach-quimica
-  translation: Apuntes 2.º Bach Química
+  translation: 📚 Apuntes 2.º Bach Química
 - id: apuntes-formulacion
-  translation: Apuntes Formulación Nomenclatura Química 
+  translation: 📚 Apuntes Formulación Nomenclatura Química 
 - id: actividades-segundo-tercero-eso
-  translation: Actividades 2.º ESO &ndash; 3.º ESO
+  translation: 🗒️ Actividades 2.º ESO &ndash; 3.º ESO
 - id: actividades-cuarto-eso
-  translation: Actividades 4.º ESO
+  translation: 🗒️ Actividades 4.º ESO
 - id: actividades-primero-bach
-  translation: Actividades 1.º Bach
+  translation: 🗒️ Actividades 1.º Bach
 - id: actividades-segundo-bach-fisica
-  translation: Actividades 2.º Bach Física
+  translation: 🗒️ Actividades 2.º Bach Física
 - id: actividades-segundo-bach-quimica
-  translation: Actividades 2.º Bach Química
+  translation: 🗒️ Actividades 2.º Bach Química
 - id: actividades-formulacion
-  translation: Actividades Formulación Nomenclatura Química 
+  translation: 🗒️ Actividades Formulación Nomenclatura Química 
 - id: slides
-  translation: Diapositivas
+  translation: 🧑‍🏫 Diapositivas
 - id: authors
-  translation: Autores  
+  translation: 👥 Autores
+- id: tutoriales
+  translation: 👐🏼 Tutoriales
+- id: recursos-online
+  translation: 💻 Recursos online
 
 # Search
   

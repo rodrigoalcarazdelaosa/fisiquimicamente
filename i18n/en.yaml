@@ -209,7 +209,7 @@
 # Content types for default archive page titles and search results
 
 - id: posts
-  translation: Blog
+  translation: ✍🏼 Blog
 
 - id: publications
   translation: Publications
@@ -221,46 +221,52 @@
   translation: Projects
   
 - id: apuntes-segundo-tercero-eso
-  translation: Notes 13&ndash;15 year-olds
+  translation: 📚 Notes 13&ndash;15 year-olds
 
 - id: apuntes-cuarto-eso
-  translation: Notes 15&ndash;16 year-olds
+  translation: 📚 Notes 15&ndash;16 year-olds
 
 - id: apuntes-primero-bach
-  translation: Notes 16&ndash;17 year-olds 
+  translation: 📚 Notes 16&ndash;17 year-olds 
   
 - id: apuntes-segundo-bach-fisica
-  translation: Notes 17&ndash;18 year-olds Physics
+  translation: 📚 Notes 17&ndash;18 year-olds Physics
   
 - id: apuntes-segundo-bach-quimica
-  translation: Notes 17&ndash;18 year-olds Chemistry
+  translation: 📚 Notes 17&ndash;18 year-olds Chemistry
   
 - id: apuntes-formulacion
-  translation: Notes Nomenclature Chemistry  
+  translation: 📚 Notes Nomenclature Chemistry  
 
 - id: actividades-segundo-tercero-eso
-  translation: Activities 13&ndash;15 year-olds
+  translation: 🗒️ Activities 13&ndash;15 year-olds
 
 - id: actividades-cuarto-eso
-  translation: Activities 15&ndash;16 year-olds
+  translation: 🗒️ Activities 15&ndash;16 year-olds
 
 - id: actividades-primero-bach
-  translation: Activities 16&ndash;17 year-olds 
+  translation: 🗒️ Activities 16&ndash;17 year-olds 
   
 - id: actividades-segundo-bach-fisica
-  translation: Activities 17&ndash;18 year-olds Physics
+  translation: 🗒️ Activities 17&ndash;18 year-olds Physics
   
 - id: actividades-segundo-bach-quimica
-  translation: Activities 17&ndash;18 year-olds Chemistry
+  translation: 🗒️ Activities 17&ndash;18 year-olds Chemistry
   
 - id: actividades-formulacion
-  translation: Activities Nomenclature Chemistry           
+  translation: 🗒️ Activities Nomenclature Chemistry           
 
 - id: slides
-  translation: Slides
+  translation: 🧑‍🏫 Slides
   
 - id: authors
-  translation: Authors  
+  translation: 👥 Authors
+
+- id: tutoriales
+  translation: 👐🏼 Tutorials
+
+- id: recursos-online
+  translation: 🔗 Online resources
 
 # Search
 

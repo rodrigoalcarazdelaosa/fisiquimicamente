@@ -123,7 +123,7 @@
 - id: open_project_site
   translation: Obre el lloc del web del projecte
 - id: posts
-  translation: Blog
+  translation: ✍🏼 Blog
 - id: publications
   translation: Publicació
 - id: talks
@@ -131,33 +131,37 @@
 - id: projects
   translation: Projectes
 - id: apuntes-segundo-tercero-eso
-  translation: Apunts 2n ESO &ndash; 3r ESO
+  translation: 📚 Apunts 2n ESO &ndash; 3r ESO
 - id: apuntes-cuarto-eso
-  translation: Apunts 4t ESO
+  translation: 📚 Apunts 4t ESO
 - id: apuntes-primero-bach
-  translation: Apunts 1º Batx
+  translation: 📚 Apunts 1º Batx
 - id: apuntes-segundo-bach-fisica
-  translation: Apunts 2n Batx Física
+  translation: 📚 Apunts 2n Batx Física
 - id: apuntes-segundo-bach-quimica
-  translation: Apunts 2n Batx Química
+  translation: 📚 Apunts 2n Batx Química
 - id: apuntes-formulacion
-  translation: Apunts Formulació Nomenclatura Química  
+  translation: 📚 Apunts Formulació Nomenclatura Química  
 - id: actividades-segundo-tercero-eso
-  translation: Activitats 2n ESO &ndash; 3r ESO
+  translation: 🗒️ Activitats 2n ESO &ndash; 3r ESO
 - id: actividades-cuarto-eso
-  translation: Activitats 4t ESO
+  translation: 🗒️ Activitats 4t ESO
 - id: actividades-primero-bach
-  translation: Activitats 1º Batx
+  translation: 🗒️ Activitats 1º Batx
 - id: actividades-segundo-bach-fisica
-  translation: Activitats 2n Batx Física
+  translation: 🗒️ Activitats 2n Batx Física
 - id: actividades-segundo-bach-quimica
-  translation: Activitats 2n Batx Química
+  translation: 🗒️ Activitats 2n Batx Química
 - id: actividades-formulacion
-  translation: Activitats Formulació Nomenclatura Química  
+  translation: 🗒️ Activitats Formulació Nomenclatura Química  
 - id: slides
-  translation: Diapositives
+  translation: 🧑‍🏫 Diapositives
 - id: authors
-  translation: Autors
+  translation: 👥 Autors
+- id: tutoriales
+  translation: 👐🏼 Tutorials
+- id: recursos-online
+  translation: 🔗 Recursos online
 - id: search
   translation: Buscar
 - id: search_placeholder
