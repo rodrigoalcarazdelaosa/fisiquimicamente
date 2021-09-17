@@ -67,6 +67,12 @@ Estudio de los resultados obtenidos.
 ### Conclusión
 Razonamos si la hipótesis es o no válida.
 
+---
+
+Estudia los **factores** que **influyen** en el **periodo** de un **péndulo** con este ***laboratorio***:
+
+<iframe src="https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
+
 {{% /section %}}
 
 ---
