@@ -127,6 +127,10 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
+> **Descubre** las distintas **escalas** del **universo** con [esta excelente **animación interactiva**](https://htwins.net/scale2/).
+
+---
+
 ### Notación científica
 
 ---

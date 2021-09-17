@@ -127,6 +127,10 @@ La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
 | hecto | h | $10^{2}$ | centi | c | $10^{-2}$ |
 | deca | da | $10^{1}$ | deci | d | $10^{-1}$ |
 
+{{% callout note %}}
+**Descubre** las distintas **escalas** del **universo** con [esta excelente **animación interactiva**](https://htwins.net/scale2/).
+{{% /callout %}}
+
 ### Notación científica
 
 Consiste en escribir un número de la forma:
