@@ -31,6 +31,10 @@ links:
   icon: pencil-ruler
   name: Ejercicios
   url: estructura-materia-ejercicios.pdf    
+- icon_pack: fas
+  icon: external-link-alt
+  name: Más ejercicios
+  url: https://drive.google.com/file/d/1T6sY2MVVsoQLeB4xhUlGhRuDy3ixwXna/view
 
 slides: estructura-materia-2Bach-quimica
 ---
