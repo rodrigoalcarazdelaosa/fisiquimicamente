@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "With Prof. Stefan Maier"
+  title = "With Prof. Stefan Maier and Pablo Albella"
   company = "Imperial College London"
   company_url = "https://www.imperial.ac.uk"
   company_logo = "imperial"
