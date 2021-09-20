@@ -236,10 +236,10 @@ Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de 
 
 ### Error absoluto y error relativo
 #### Error absoluto
-Es la **diferencia** entre el **valor real** y el **valor medido**:
+Es la **diferencia** entre el **valor medido** y el **valor real**:
 
 $$
-\text{error absoluto} = \lvert\text{valor real} - \text{valor medido}\rvert
+\text{error absoluto} = \lvert\text{valor medido} - \text{valor real}\rvert
 $$
 
 Tiene las **mismas dimensiones** que la **magnitud medida**.
@@ -249,7 +249,7 @@ Es el **cociente** entre el **error absoluto** y el **valor real**:
 
 \begin{align*}
 \text{error relativo} &= \frac{\text{error absoluto}}{\text{valor real}} \\\\
-&= \frac{\lvert\text{valor real} - \text{valor medido}\rvert}{\text{valor real}}
+&= \frac{\lvert\text{valor medido} - \text{valor real}\rvert}{\text{valor real}}
 \end{align*}
 
 Es **adimensional** (suele expresarse en % multiplicándolo por 100).
