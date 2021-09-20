@@ -72,6 +72,6 @@ Si no et vols perdre cap **actualizació** pots **subscriure't** al **canal** [{
 
 ### Contactant-nos
 
-A més, pots **escriure'ns** o bé utilizant el [**formulari** de **contacte**]({{< ref "/#contacte" >}}), o bé escrivint-nos directament un [**correu electrònic**](mailto:contacte@fisiquimicament.com) o bé des de [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/alcarazr). També pots seguir-nos a [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
+A més, pots **escriure'ns** o bé utilizant el [**formulari** de **contacte**]({{< ref "/#contacte" >}}), o bé escrivint-nos directament un [**correu electrònic**](mailto:contacte@fisiquimicament.com) o bé des de [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/fqmente). També pots seguir-nos a [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
 
 Esperem que gaudeixis d'aquest espai i que et resulti d'utilitat. Anima't a participar sempre que et vingui de gust. Ens seguim llegint amic/ga.

@@ -60,7 +60,7 @@ social:
     footer: true
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/alcarazr
+  link: https://twitter.com/fqmente
   label: Síguenos en Twitter
   display:
     header: true

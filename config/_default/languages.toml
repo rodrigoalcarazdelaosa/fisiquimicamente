@@ -25,7 +25,7 @@
     email = "contact@physichemically.com"
 	  # address = {region = "Cantabria", country = "Spain", country_code = "ES"}
     contact_links = [
-      {icon = "twitter", icon_pack = "fab", name = "Follow us on Twitter", link = "https://twitter.com/alcarazr"},
+      {icon = "twitter", icon_pack = "fab", name = "Follow us on Twitter", link = "https://twitter.com/fqmente"},
       {icon = "instagram", icon_pack = "fab", name = "Follow us on Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
       {icon = "pinterest", icon_pack = "fab", name = "Follow us on Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
       {icon = "discord", icon_pack = "fab", name = "Join the Discord server", link = "https://discord.gg/kJqPqTJ"},
@@ -41,7 +41,7 @@
     email = "contacte@fisiquimicament.com"
     # address = {region = "Cantabria", country = "Espanya", country_code = "ES"}
     contact_links = [
-      {icon = "twitter", icon_pack = "fab", name = "Segueix-nos a Twitter", link = "https://twitter.com/alcarazr"},
+      {icon = "twitter", icon_pack = "fab", name = "Segueix-nos a Twitter", link = "https://twitter.com/fqmente"},
       {icon = "instagram", icon_pack = "fab", name = "Segueix-nos a Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
       {icon = "pinterest", icon_pack = "fab", name = "Segueix-nos a Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
       {icon = "discord", icon_pack = "fab", name = "Uneix-te a el servidor d'Discord", link = "https://discord.gg/kJqPqTJ"},

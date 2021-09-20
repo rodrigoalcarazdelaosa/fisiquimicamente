@@ -31,7 +31,7 @@ image:
 
 ---
 
-<!-- https://twitter.com/alcarazr/status/1391641158330290177?s=20 -->
+<!-- https://twitter.com/fqmente/status/1391641158330290177?s=20 -->
 
 Apuntes sobre física del s. XX, en formato texto y póster (tipo _chuleta_).
 
