@@ -125,7 +125,7 @@ Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 1
 | OF<sub>2</sub> | difluoruro de oxígeno | &ndash; |
 
 ### Peróxidos M<sub>2</sub>(O<sub>2</sub>)<sub>n</sub>
-Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **hidrógeno(1+)**, unidos al **anión peróxido O<sub>2</sub><sup>2-</sup>**.
+Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **hidrógeno(1+)**, unidos al **anión peróxido O<sub>2</sub><sup>2–</sup>**.
 
 {{< hl >}}PERÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
@@ -183,7 +183,7 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 | Pt(OH)<sub>4</sub> | tetrahidróxido de platino | hidróxido de platino(4+) |
 
 ## Oxácidos H<sub>a</sub>X<sub>b</sub>O<sub>c</sub>
-Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
+Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2–)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
 
 ### Ácidos modelo
 En la siguiente tabla, el Cl puede sustituirse por Br o I, y el S por Se o Te.
@@ -240,7 +240,7 @@ Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X
 | NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
 
 ### Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>
-Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo todos los átomos de H por M y cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2–)**. **Derivan de oxácidos** sustituyendo todos los átomos de H por M y cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
 
 | Fórmula | Ácido | Sal |
 | :---: | --- | --- |
@@ -250,7 +250,7 @@ Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un *
 | BaCO<sub>3</sub> | H<sub>2</sub>CO<sub>3</sub> (ác. carbónico) | carbonato de bario |
 
 ### Sales ácidas M<sub>a</sub>(H<sub>b</sub>X<sub>c</sub>O<sub>d</sub>)<sub>n</sub>
-Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **Derivan de oxácidos** sustituyendo parte de los átomos de H por M. Se nombran utilizando la **nomenclatura de hidrógeno**, cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
+Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2–)**. **Derivan de oxácidos** sustituyendo parte de los átomos de H por M. Se nombran utilizando la **nomenclatura de hidrógeno**, cambiando las terminaciones *ico* y *oso* de los ácidos por *ato* e *ito*, respectivamente.
 
 | Fórmula | Ácido | Sal |
 | :---: | --- | --- |

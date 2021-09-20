@@ -215,7 +215,7 @@ Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 1
 ---
 
 ### Peróxidos M<sub>2</sub>(O<sub>2</sub>)<sub>n</sub>
-Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **hidrógeno(1+)**, unidos al **anión peróxido O<sub>2</sub><sup>2-</sup>**.
+Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **hidrógeno(1+)**, unidos al **anión peróxido O<sub>2</sub><sup>2–</sup>**.
 
 {{< hl >}}PERÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + 
 
@@ -394,7 +394,7 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 {{% section %}}
 
 ## Oxácidos H<sub>a</sub>X<sub>b</sub>O<sub>c</sub>
-Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
+Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2–)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
 
 ---
 
@@ -501,7 +501,7 @@ El elemento que está a la derecha, Y, está antes que X en la secuencia de elem
 ---
 
 ### Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>
-Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2-)**.
+Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un **elemento central**, X, y **oxígeno(2–)**.
 
 ---
 
@@ -519,7 +519,7 @@ Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un *
 ---
 
 ### Sales ácidas M<sub>a</sub>(H<sub>b</sub>X<sub>c</sub>O<sub>d</sub>)<sub>n</sub>
-Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2-)**.
+Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2–)**.
 
 ---
 
