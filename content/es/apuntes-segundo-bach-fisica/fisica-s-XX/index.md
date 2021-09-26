@@ -18,7 +18,7 @@ image:
   caption: Imagen de [**janeb13**](https://pixabay.com/es/users/janeb13-725943/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
+links:
 # - icon_pack: fas
 #   icon: file-download
 #   name: PDF Texto
@@ -28,6 +28,11 @@ image:
 #   icon: file-download
 #   name: Póster
 #   url: MAS_poster.pdf
+
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1fTP9rVqtpMHT--uz0Lg6Y-mU7Qk7noy3/view
 
 ---
 
