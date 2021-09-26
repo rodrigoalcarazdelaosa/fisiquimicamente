@@ -21,8 +21,12 @@ image:
 
 {{% callout note %}}
 Entrada basada en los siguientes 🧵 hilos de Twitter:
+<div align="center">
 {{< tweet 1353192474790006784 >}}
+</div>
+<div align="center">
 {{< tweet 1356802160793710592 >}}
+</div>
 {{% /callout %}}
 
 La evolución de la ciencia y la tecnología no es lineal, ni secuencial. La invención y desarrollo de los [**electrodos selectivos de iones**](https://es.wikipedia.org/wiki/Electrodo_selectivo_de_iones) es un ejemplo de ello ya que, a pesar de existir la tecnología para usarlos y literatura especializada con propuestas para elaborarlos, tuvo que pasar un tiempo para concretar su construcción.

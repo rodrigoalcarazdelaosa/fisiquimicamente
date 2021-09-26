@@ -235,7 +235,9 @@ Indicador de pH incoloro en medio ácido que vira a rosa en **medio básico**:
 
 Daviid, desde Twitter, nos invita a un interesante debate sobre la necesidad de introducir siquiera el concepto de hidrólisis en la disociación de sales:
 
+<div align="center">
 {{< tweet 1378985803846717445 >}}
+</div>
 
 {{< figure src="acido-base-2Bach-quimica/sal-ionizada.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/solutions-are-in-equilibrium/." lightbox="false" width="100%" >}}
 

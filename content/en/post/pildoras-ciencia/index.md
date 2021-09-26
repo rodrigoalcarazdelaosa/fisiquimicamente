@@ -18,7 +18,9 @@ image:
 
 The [Department of Physics and Chemistry of IES Valle del Saja](http://www.fqsaja.com) recently delighted us with an excellent thread 🧵 about "*10 things you can do, study or reflect on in the classroom*":
 
+<div align="center">
 {{< tweet 1280438568318574592 >}}
+</div>
 
 {{% callout thanks %}}
 Thanks to the [Department of Physics and Chemistry of IES Valle del Saja](http://www.fqsaja.com) for providing me with the original videos.

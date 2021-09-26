@@ -19,10 +19,18 @@ image:
 
 {{% callout note %}}
 Entrada basada en los siguientes 🧵 hilos de Twitter:
+<div align="center">
 {{< tweet 1345223357898350594 >}}
+</div>
+<div align="center">
 {{< tweet 1349947519804067842 >}}
+</div>
+<div align="center">
 {{< tweet 1350608970717814789 >}}
+</div>
+<div align="center">
 {{< tweet 1356283372398649346 >}}
+</div>
 {{% /callout %}}
 
 ## ¿Qué hacemos con un nuevo material? ¿Qué hace la Química?

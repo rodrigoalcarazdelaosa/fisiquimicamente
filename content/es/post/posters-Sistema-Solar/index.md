@@ -218,7 +218,9 @@ gallery_item:
 
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
 
+<div align="center">
 {{< tweet 1262678794554486784 >}}
+</div>
 
 {{% callout note %}}
 En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. Pinchando en cada una de las imágenes encontrarás su descripción traducida y un enlace para descargar el póster correspondiente en formato PDF de alta resolución.

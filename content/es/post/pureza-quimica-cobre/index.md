@@ -20,7 +20,9 @@ image:
 
 {{% callout note %}}
 Entrada basada en el siguiente 🧵 hilo de Twitter:
+<div align="center">
 {{< tweet 1423819006788706308 >}}
+</div>
 {{% /callout %}}
 
 El adjetivo *puro* en la vida cotidiana está relacionado con la idea de calidad, de saludable, de natural o de no contaminado. Alguien podría pensar que el jugo de naranja es una *sustancia pura* si proviene directamente de la naranja; actualmente, incluso podrían agregar: si proviene de una naranja orgánica es un jugo más puro. Así, cuando estás en el bosque, tal vez has pensado que estás respirando *aire puro*.

@@ -18,7 +18,9 @@ image:
 
 El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos deleitaba recientemente con un magnífico hilo 🧵 sobre "*10 cosas que puedes hacer, estudiar o reflexionar en el aula*":
 
+<div align="center">
 {{< tweet 1280438568318574592 >}}
+</div>
 
 {{% callout thanks %}}
 Gracias al [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) por facilitarme los vídeos originales.
