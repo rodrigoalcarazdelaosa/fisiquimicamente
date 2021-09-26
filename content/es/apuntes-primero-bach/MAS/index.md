@@ -170,4 +170,6 @@ $$
 
 Puedes aprender más sobre la **energía** del **MAS** con este excelente 🧵 **hilo** de [**Rayleigh Lord**](https://twitter.com/RayleighLord) sobre el **oscilador armónico simple**:
 
+<div align="center">
 {{< tweet 1345689336549941248 >}}
+</div>
