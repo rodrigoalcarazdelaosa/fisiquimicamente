@@ -21,7 +21,7 @@ image:
 {{% toc %}}
 
 No cabe duda de que [**Madame Curie**](https://es.wikipedia.org/wiki/Marie_Curie) ha sido una de las científicas con más renombre de la historia. Se convirtió en la primera mujer en ganar un Premio Nobel y la primera persona en hacerlo dos veces.
-*Radioactive* (en España *Madame Curie*) es una película biográfica  estrenada en 2020 y basada en la novela *A Tale of Love and Fallout* de Lauren Redniss. 
+[*Radioactive*](https://es.wikipedia.org/wiki/Radioactive_(pel%C3%ADcula)) (en España *Madame Curie*) es una película biográfica  estrenada en 2020 y basada en la novela [*A Tale of Love and Fallout* de Lauren Redniss](http://laurenredniss.com/radioactive/). 
 
 {{% callout note %}}
 En esta entrada, os presento un análisis de los momentos más relevantes de la película desde el punto de vista científico, sin entrar en temas personales ni en la aparición (poco acertada, a mi modo de ver) del [accidente de Chernobyl](https://es.wikipedia.org/wiki/Accidente_de_Chernóbil) o los [bombardeos atómicos de Hiroshima y Nagasaki](https://es.wikipedia.org/wiki/Bombardeos_atómicos_de_Hiroshima_y_Nagasaki). Para facilitar su lectura, podéis encontrar, al comienzo de cada sección, el clip correspondiente de la película, seguido de mi comentario.
