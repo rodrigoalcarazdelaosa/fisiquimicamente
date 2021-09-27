@@ -16,7 +16,7 @@ height: 500px
 
 item:
   - title: 🗞️ News
-    content: '📚 Latest Notes'
+    content: '📚 Latest Poster'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).

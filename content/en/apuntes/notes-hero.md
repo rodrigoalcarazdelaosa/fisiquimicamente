@@ -11,7 +11,7 @@ cta:
   icon_pack: fas
   icon: compass
 cta_alt:
-  label: Latest Notes ➡️
+  label: Latest Poster ➡️
   url: "physics-chemistry-notes/15-16-year-olds/periodic-table/"
 cta_note:
   label:
