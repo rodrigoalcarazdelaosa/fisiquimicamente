@@ -11,8 +11,8 @@ cta:
   icon_pack: fas
   icon: compass
 cta_alt:
-  label: Últims apunts ➡️
-  url: "recursos-fisica-quimica/apunts/2batx/quimica/redox"
+  label: Últim pòster ➡️
+  url: "recursos-fisica-quimica/apunts/2eso-3eso/energia/"
 cta_note:
   label:
 design:
