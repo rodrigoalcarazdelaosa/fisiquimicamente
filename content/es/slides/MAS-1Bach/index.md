@@ -278,7 +278,7 @@ $$
 
 En ausencia de rozamiento y otras pérdidas de energía, la energía mecánica total es constante:
 $$
-E_\mathrm m = E_\mathrm c + E_\mathrm p = \frac{1}{2}kA^2
+E_\mathrm m = E_\mathrm c + E_\mathrm p = \frac{1}{2}k\left(A^2-x^2\right) + \frac{1}{2}kx^2 = \frac{1}{2}kA^2
 $$
 
 ---
