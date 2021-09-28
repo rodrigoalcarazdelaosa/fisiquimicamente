@@ -173,6 +173,13 @@ En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 
 ---
 
+##### ¿Cómo es mejor representar el benceno?
+<div align="center">
+{{< tweet 1316297800607563778 >}}
+</div>
+
+---
+
 ##### Arenos policíclicos con importancia en el estudio de sistemas biológicos
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/policiclicos.svg" lightbox="false" width="100%" >}}
 

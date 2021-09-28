@@ -110,6 +110,12 @@ El **benceno**, **C<sub>6</sub>H<sub>6</sub>**, es el hidrocarburo aromático de
 
 En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 
+{{< spoiler text="¿Cómo es mejor representar el benceno? Pincha aquí para leer una interesante discusión en forma de 🧵 hilo de Twitter" >}}
+<div align="center">
+{{< tweet 1316297800607563778 >}}
+</div>
+{{< /spoiler >}}
+
 #### Arenos policíclicos con importancia en el estudio de sistemas biológicos
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/policiclicos.svg" lightbox="false" width="100%" >}}
 
