@@ -32,7 +32,7 @@ slides: MAS-1Bach
 
 {{% toc %}}
 
-El **movimiento armónico simple** (MAS) es un tipo especial de **movimiento periódico** en el que la **fuerza restauradora** (elástica) sobre el objeto en movimiento es **directamente proporcional** a la magnitud del **desplazamiento** del objeto y actúa hacia la posición de equilibrio del objeto. El resultado es una **oscilación** que continúa indefinidamente salvo que sea inhibida por fricción o cualquier otra disipación de energía. Puede considerarse la **proyección unidimensional** del **movimiento circular uniforme** (MCU).
+El **movimiento armónico simple** (MAS) es un tipo especial de **movimiento periódico** en el que la **fuerza restauradora** (elástica) sobre el objeto en movimiento es **directamente proporcional** a la magnitud del **desplazamiento** del objeto y actúa hacia su posición de equilibrio. El resultado es una **oscilación** que continúa indefinidamente salvo que sea inhibida por fricción o cualquier otra disipación de energía. Puede considerarse la **proyección unidimensional** del **movimiento circular uniforme** (MCU).
 
 {{< figure library="true" src="MAS-1Bach/MAS-orbita.gif" title="Movimiento armónico simple, mostrado en el espacio real y en el [espacio fásico](https://es.wikipedia.org/wiki/Espacio_fásico). La órbita es periódica. <br> Fuente: https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif" lightbox="false" >}}
 
@@ -150,7 +150,7 @@ $$
 
 La energía cinética viene dada por la expresión:
 $$
-E_\mathrm c = \frac{1}{2}mv^2
+E_\mathrm c = \frac{1}{2}mv^2 = \frac{1}{2}m\omega^2\left(A^2-x^2\right) = \frac{1}{2}k\left(A^2-x^2\right)
 $$
 Sustituyendo la expresión de la velocidad, $v = A\omega\cos\left(\omega t + \varphi_0\right)$:
 $$
