@@ -4,6 +4,8 @@ url: "recursos-fisica-quimica/ebau/quimica/examenes-completos/junio-2013-2"
 subtitle: Opción 2
 summary: Opción 2.
 breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-examenes-completos"]
+authors:
+- enrique-ortega-gonzalez
 tags:
 - EBAU
 - 2013

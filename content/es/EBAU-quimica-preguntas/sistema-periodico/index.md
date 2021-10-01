@@ -4,6 +4,8 @@ url: "recursos-fisica-quimica/ebau/quimica/por-temas/sistema-periodico"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
 breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
+authors:
+- enrique-ortega-gonzalez
 tags:
 - EBAU
 - tabla-periódica

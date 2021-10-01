@@ -4,6 +4,8 @@ url: "recursos-fisica-quimica/ebau/quimica/por-temas/acido-base"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
 breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
+authors:
+- enrique-ortega-gonzalez
 tags:
 - EBAU
 - reacciones-químicas

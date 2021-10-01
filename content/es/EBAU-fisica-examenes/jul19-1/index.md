@@ -4,6 +4,8 @@ url: "recursos-fisica-quimica/ebau/fisica/examenes-completos/julio-2019-1"
 subtitle: Opción 1
 summary: Opción 1.
 breadcrumbs: ["recursos-fisica-quimica","ebau-fisica-examenes-completos"]
+authors:
+- enrique-ortega-gonzalez
 tags:
 - EBAU
 - 2019

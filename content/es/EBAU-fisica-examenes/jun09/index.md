@@ -4,6 +4,8 @@ url: "recursos-fisica-quimica/ebau/fisica/examenes-completos/junio-2009"
 subtitle: Examen completo
 summary: "Examen completo de EBAU Física."  # Add a page description.
 breadcrumbs: ["recursos-fisica-quimica","ebau-fisica-examenes-completos"]
+authors:
+- enrique-ortega-gonzalez
 tags:
 - EBAU
 - 2009
