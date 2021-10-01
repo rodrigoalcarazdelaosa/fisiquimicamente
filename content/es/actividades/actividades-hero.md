@@ -23,4 +23,4 @@ advanced:
   css_class: 
 ---
 
-Geniales **actividades *gamificadas*** que sintetizan los contenidos de los currículos de Física y Química, organizadas por niveles y temas.
+Geniales **actividades *gamificadas*** que sintetizan los contenidos de los currículos de Física y Química, organizadas por niveles y temas

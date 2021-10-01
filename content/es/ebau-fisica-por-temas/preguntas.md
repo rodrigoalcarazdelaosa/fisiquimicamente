@@ -89,7 +89,3 @@ subtitle = "🗂️ Por temas"
  # CSS class.
  css_class = ""
 +++
-
-{{% callout gdrive %}}
-Accede [aquí](https://drive.google.com/drive/folders/0B6t6-aLmKtoLTEZWcUxfME1QTVE) solo a los enunciados, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /callout %}}

@@ -113,7 +113,3 @@ subtitle = "📝 Exámenes completos"
  # CSS class.
  css_class = ""
 +++
-
-{{% callout gdrive %}}
-Accede [aquí](https://drive.google.com/drive/u/0/folders/0B6t6-aLmKtoLZURrWUxoaDJucGM) a todos los enunciados de Cantabria desde 1995 hasta 2019, gracias a [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html).
-{{% /callout %}}

@@ -25,9 +25,9 @@ En 2021 hace la transición hacia un sitio web más *impersonal*, mejor preparad
 
 ## ¿Por qué este blog?
 
-Nuestra intención principal con este sitio web es la de proporcionar [📚&nbsp;<span style="font-variant:small-caps;">**apuntes de Física y Química**</span>]({{< ref "/apuntes" >}}) y [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}})[^1] a nuestros/as alumnos/as y a quien pueda interesarle, además de compartir [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}), [👐🏼&nbsp;<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar [🔗&nbsp;<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
+Nuestra intención principal con este sitio web es la de proporcionar [📚&nbsp;<span style="font-variant:small-caps;">**apuntes de Física y Química**</span>]({{< ref "/apuntes" >}}) y [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}})[^1] a nuestros/as alumnos/as y a quien pueda interesarle, además de compartir [🗒️&nbsp;<span style="font-variant:small-caps;">**actividades**</span>]({{< ref "/actividades" >}}), [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}), [👐🏼&nbsp;<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y recopilar [🔗&nbsp;<span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}).
 
-[^1]: Gracias a la [excelente recopilación](http://elfisicoloco.blogspot.com/p/pau-cantabria-new.html) de [**EL FÍSICO LOCO**](http://elfisicoloco.blogspot.com) y el magnífico trabajo del **Profesor Enrique Ortega González** del [IES José del Campo](http://www.josedelcampo.com) de Ampuero.
+[^1]: Cortesía de **{{% mention "enrique-ortega-gonzalez" %}}** del [IES José del Campo](http://www.josedelcampo.com) de Ampuero.
 
 Creemos que un **blog** es el añadido perfecto para poder debatir sobre la **actualidad** con un contenido mucho más **dinámico**.
 
