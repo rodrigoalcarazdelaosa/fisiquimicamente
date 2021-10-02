@@ -21,6 +21,12 @@ image:
 
 # Optional external URL for project (replaces project detail page).
 # external_link: "https://drive.google.com/file/d/1EFxD1LVncN-EGOIq6xUAJaNjtWYf3gop/view"
+
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Enunciados
+  url: quimica-organica-EBAU-Quimica-enunciados.pdf
 ---
 
 <!-- <iframe src="https://drive.google.com/file/d/1EFxD1LVncN-EGOIq6xUAJaNjtWYf3gop/preview" style="width: 100vw; height: 500px; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" frameborder="0"></iframe> -->
