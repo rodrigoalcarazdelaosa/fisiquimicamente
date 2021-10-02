@@ -82,8 +82,8 @@ Estudia los **factores** que **influyen** en el **periodo** de un **péndulo** c
 ## Medidas de magnitudes
 
 - [Sistema Internacional de Unidades (SI)](#/2/2)
-- [Notación científica](#/2/5)
-- [Factores de conversión](#/2/9)
+- [Notación científica](#/2/6)
+- [Factores de conversión](#/2/10)
 
 (continúa hacia abajo)
 
