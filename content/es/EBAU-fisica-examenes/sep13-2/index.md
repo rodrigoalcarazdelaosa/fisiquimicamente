@@ -31,7 +31,7 @@ image:
 		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/examenes-completos/septiembre-2013-2/septiembre-2013-2-EBAU-Fisica.pdf"}},
-			metaData:{fileName: "septiembre-2013-1-EBAU-Fisica.pdf"}
+			metaData:{fileName: "septiembre-2013-2-EBAU-Fisica.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
