@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduada en Química
+role: Graduada en Química i Professora de Física i Química
 
 # Organizations/Affiliations
 #organizations:

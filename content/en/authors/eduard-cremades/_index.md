@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Spanish ↔️ Catalan
+role: PhD in Chemistry and Physics and Chemistry Teacher
 
 # Organizations/Affiliations
 organizations:

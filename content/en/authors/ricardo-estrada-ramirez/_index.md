@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Degree in Chemistry
+role: Degree in Chemistry and Master in Teaching for Higher Secondary Education
 
 # Organizations/Affiliations
 #organizations:

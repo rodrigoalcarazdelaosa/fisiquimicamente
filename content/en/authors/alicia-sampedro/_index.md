@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Spanish ↔️ English
+role: Degree in Physics and Physics and Chemistry Teacher
 
 # Organizations/Affiliations
 organizations:

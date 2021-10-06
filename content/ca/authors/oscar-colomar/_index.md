@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Espanyol ↔️ Català
+role: Llicenciat en Química i Professor de Física i Química
 
 # Organizations/Affiliations
 organizations:

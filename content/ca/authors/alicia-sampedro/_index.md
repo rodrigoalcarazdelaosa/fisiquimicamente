@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Espanyol ↔️ Anglès
+role: Llicenciada en Física i Professora de Física i Química
 
 # Organizations/Affiliations
 organizations:

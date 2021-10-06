@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Español ↔️ Inglés
+role: Licenciada en Física y Profesora de Física y Química
 
 # Organizations/Affiliations
 organizations:

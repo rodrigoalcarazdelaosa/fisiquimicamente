@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Español ↔️ Catalán
+role: Licenciado en Química y Profesor de Física y Química
 
 # Organizations/Affiliations
 organizations:
