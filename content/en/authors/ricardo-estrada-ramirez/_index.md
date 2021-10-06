@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Ricardo M. A. Estrada Ramírez"
-url: "/team/collaborators/ricardo-estrada-ramirez"
+url: "/team/ricardo-estrada-ramirez"
 
-weight: 50
+weight: 70
 
 # Username (this should match the folder name)
 authors:
@@ -70,7 +70,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Collaborators
+- PhysiChemically
 ---
 
 I have a Master in Teaching for Higher Secondary Education and I teach Classical Thermodynamics (theory and laboratory) at the [Faculty of Chemistry of the UNAM](https://quimica.unam.mx/). I am also interested in teacher training in the area of science.

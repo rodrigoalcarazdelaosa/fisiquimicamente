@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Enrique Ortega González"
-url: "/team/collaborators/enrique-ortega-gonzalez"
+url: "/team/enrique-ortega-gonzalez"
 
-weight: 70
+weight: 90
 
 # Username (this should match the folder name)
 authors:
@@ -58,7 +58,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Collaborators
+- PhysiChemically
 ---
 
 I have a Degree in Chemistry and I teach Physics and Chemistry at [IES José del Campo](http://www.josedelcampo.com) in Ampuero (Cantabria). Outside the academic sphere, I am secretary of the Cajiga de Laredo Hiking Club and member of the Board of Directors of the [Asociación de Amigos del Patrimonio de Laredo](http://amigosdelpatrimoniodelaredo.es).

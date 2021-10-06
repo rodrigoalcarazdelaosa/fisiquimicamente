@@ -9,11 +9,11 @@
   {{ $profile_url := $author_page.RelPermalink }}
   {{ if eq $author_page.Params.superuser true }}  
 	{{ if eq site.Language.Lang "es" }}
-      {{ $profile_url = "/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa/" }}
+      {{ $profile_url = "/equipo/rodrigo-alcaraz-de-la-osa/" }}
 	{{ else if eq site.Language.Lang "en" }}
-	  {{ $profile_url = "/team/physichemically/rodrigo-alcaraz-de-la-osa/" }}
+	  {{ $profile_url = "/team/rodrigo-alcaraz-de-la-osa/" }}
   {{ else if eq site.Language.Lang "ca" }}
-	  {{ $profile_url = "/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa/" }}    
+	  {{ $profile_url = "/equip/rodrigo-alcaraz-de-la-osa/" }}    
     {{ end }}
   {{ end }}
   {{ $avatar := ($author_page.Resources.ByType "image").GetMatch "*avatar*" }}

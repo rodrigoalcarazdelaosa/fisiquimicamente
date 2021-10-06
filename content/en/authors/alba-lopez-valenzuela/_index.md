@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Alba López Valenzuela"
-url: "team/collaborators/alba-lopez-valenzuela"
+url: "team/alba-lopez-valenzuela"
 
-weight: 40
+weight: 60
 
 # Username (this should match the folder name)
 authors:
@@ -64,7 +64,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Collaborators
+- PhysiChemically
 ---
 
 I have a Degree in Chemistry and I am a self-employed Physics and Chemistry Teacher.

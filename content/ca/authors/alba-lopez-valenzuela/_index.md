@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Alba López Valenzuela"
-url: "/equip/collaboradors/alba-lopez-valenzuela"
+url: "/equip/alba-lopez-valenzuela"
 
-weight: 40
+weight: 60
 
 # Username (this should match the folder name)
 authors:
@@ -64,7 +64,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Col·laboradors/es
+- FisiQuímicament
 ---
 
 Sóc Graduada en Química i Professora de Física i Química per compte propi.

@@ -1,7 +1,7 @@
 ---
 # Display name
 title: "Jésica Sánchez Mazón"
-url: "/equipo/fisiquimicamente/jesica-sanchez-mazon"
+url: "/equipo/jesica-sanchez-mazon"
 
 weight: 20
 

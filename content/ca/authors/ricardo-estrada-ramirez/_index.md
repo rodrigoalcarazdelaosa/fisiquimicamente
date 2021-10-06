@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Ricardo M. A. Estrada Ramírez"
-url: "/equip/collaboradors/ricardo-estrada-ramirez"
+url: "/equip/ricardo-estrada-ramirez"
 
-weight: 50
+weight: 70
 
 # Username (this should match the folder name)
 authors:
@@ -70,7 +70,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Col·laboradors/es
+- FisiQuímicament
 ---
 
 Sóc Mestre en Docència per a l'Educació Mitja Superior i imparteixo classes de Termodinàmica Clàssica (teoria i laboratori) a la [Facultat de Química de la UNAM](https://quimica.unam.mx/). També m'interessa la formació docent en l'àrea de les ciències.

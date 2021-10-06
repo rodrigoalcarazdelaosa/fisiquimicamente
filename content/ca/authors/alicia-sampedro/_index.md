@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Alicia Sampedro"
-url: "/equip/collaboradors/alicia-sampedro"
+url: "/equip/alicia-sampedro"
 
-weight: 30
+weight: 50
 
 # Username (this should match the folder name)
 authors:
@@ -63,7 +63,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Col·laboradors/es
+- FisiQuímicament
 ---
 
 Sóc Professora de Física i Química bilingüe a [l'IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) de Tavera però també sóc una apassionada de l'ús de les TIC i la robòtica a l'aula.

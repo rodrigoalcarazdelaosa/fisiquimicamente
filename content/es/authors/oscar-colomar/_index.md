@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Òscar Colomar"
-url: "/equipo/colaboradores/oscar-colomar"
+url: "/equipo/oscar-colomar"
 
-weight: 10
+weight: 30
 
 # Username (this should match the folder name)
 authors:
@@ -60,7 +60,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Colaboradores/as
+- FisiQuímicamente
 ---
 
 Soy Licenciado en Química y Profesor de Secundaria en el [IES Isidor Macabich](http://iesisidormacabich.es/) de Ibiza.

@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Eduard Cremades"
-url: "/equip/collaboradors/eduard-cremades"
+url: "/equip/eduard-cremades"
 
-weight: 20
+weight: 40
 
 # Username (this should match the folder name)
 authors:
@@ -65,7 +65,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Col·laboradors/es
+- FisiQuímicament
 ---
 
 Sóc Doctor en Química i Professor de Ciències (matemàtiques, física i química a [l'Escola Virolai](https://www.virolai.com), Professor de Química per a majors de 25 anys a la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html) i Professor Associat a la [Facultat de Química de la Universitat de Barcelona](https://www.ub.edu/portal/web/quimica). També sóc membre de la Junta Directiva de la [Societat Catalana de Química](https://blogs.iec.cat/scq/). En el meu temps lliure busco relacions entre la química i la cultura popular.

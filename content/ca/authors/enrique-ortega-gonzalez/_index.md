@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Enrique Ortega González"
-url: "/equip/collaboradors/enrique-ortega-gonzalez"
+url: "/equip/enrique-ortega-gonzalez"
 
-weight: 70
+weight: 90
 
 # Username (this should match the folder name)
 authors:
@@ -58,7 +58,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Col·laboradors/es
+- FisiQuímicament
 ---
 
 Sóc Llicenciat en Química per la Universitat de Valladolid i Professor de Física i Química a l'[IES José del Campo](http://www.josedelcampo.com) d'Ampuero (Cantàbria). Fora de l'àmbit acadèmic sóc secretari del Club de Senderisme Cajiga de Laredo i vocal de la Junta Directiva de l'[Asociación de Amigos del Patrimonio de Laredo](http://amigosdelpatrimoniodelaredo.es).

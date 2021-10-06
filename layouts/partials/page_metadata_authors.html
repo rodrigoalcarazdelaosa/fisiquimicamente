@@ -11,11 +11,11 @@
 	  {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
 	  {{- if .RelPermalink -}}
 		  {{- if eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/" -}}
-	        <a href="/equipo/fisiquimicamente/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
+	        <a href="/equipo/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
 		  {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "en") -}}
-	        <a href="/team/physichemically/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
+	        <a href="/team/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
       {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "ca") -}}
-      <a href="/equip/fisiquimicament/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>          
+      <a href="/equip/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>          
 		  {{- else -}}		  
 	        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
 		  {{- end -}}		

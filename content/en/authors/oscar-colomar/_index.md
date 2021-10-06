@@ -1,9 +1,9 @@
 ---
 # Display name
 title: "Òscar Colomar"
-url: "team/collaborators/oscar-colomar"
+url: "team/oscar-colomar"
 
-weight: 10
+weight: 30
 
 # Username (this should match the folder name)
 authors:
@@ -60,7 +60,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🙌🏼 Collaborators
+- PhysiChemically
 ---
 
 I have a Degree in Chemistry and I am High School Teacher at [IES Isidor Macabich](http://iesisidormacabich.es/) in Ibiza.

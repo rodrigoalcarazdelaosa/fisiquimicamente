@@ -58,5 +58,5 @@ subtitle = "Illes Balears"
 +++
 
 {{% callout thanks %}}
-Exàmens recopilats per [**Òscar Colomar**](https://fisiquimicament.com/equip/collaboradors/oscar-colomar/).
+Exàmens recopilats per [**Òscar Colomar**](https://fisiquimicament.com/equip/oscar-colomar/).
 {{% /callout %}}
