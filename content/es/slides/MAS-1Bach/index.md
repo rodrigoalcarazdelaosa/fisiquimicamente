@@ -65,17 +65,23 @@ Son **ejemplos** de **MAS** el [movimiento de una masa unida a un muelle](#/7/1)
 
 Máxima elongación (desplazamiento máximo de la posición de equilibrio).
 
+En el SI se mide en m.
+
 ---
 
 ### Periodo *T*
 
 Tiempo empleado en completar una oscilación completa.
 
+En el SI se mide en s.
+
 ---
 
 ### Frecuencia *f*
 
 Número de oscilaciones por unidad de tiempo: $f = 1/T$.
+
+En el SI se mide en Hz.
 
 ---
 
@@ -85,6 +91,8 @@ $$
 \omega = \frac{2\pi}{T} = 2\pi f
 $$
 
+En el SI se mide en rad/s.
+
 ---
 
 ### Fase inicial
@@ -92,6 +100,8 @@ $$
 Indica el estado de oscilación/vibración inicial.
 
 Se denota por $\varphi_0$.
+
+En el SI se mide en rad.
 
 {{% /section %}}
 
@@ -108,6 +118,17 @@ Se denota por $\varphi_0$.
 (continúa hacia abajo)
 
 👇🏼
+
+---
+
+<blockquote>
+<p>
+La posición de un MAS puede expresarse indistintamente en función del seno o del coseno, sin más que variar la fase inicial, teniendo en cuenta las relaciones:
+</p>
+<div align="center" style="margin-bottom: 1rem">
+sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/2)
+</div>
+</blockquote>
 
 ---
 

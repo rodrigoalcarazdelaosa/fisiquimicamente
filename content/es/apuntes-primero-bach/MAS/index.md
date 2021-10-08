@@ -68,6 +68,13 @@ Indica el estado de oscilación/vibración inicial. Se denota por $\varphi_0$. E
 
 ## Ecuaciones
 
+{{% callout note %}}
+La posición de un MAS puede expresarse indistintamente en función del seno o del coseno, sin más que variar la fase inicial, teniendo en cuenta las relaciones:
+<div align="center" style="margin-bottom: 1rem">
+sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/2)
+</div>
+{{% /callout %}}
+
 ### Posición
 
 {{< figure library="true" src="MAS-1Bach/x-vs-t.svg" title="" lightbox="false" width="100%" >}}
