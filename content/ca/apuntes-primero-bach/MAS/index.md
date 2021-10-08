@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apunts/1batx/mhs"
 subtitle: Moviment harmònic simple
 summary: "`🔜 PROPERAMENT` <br> Moviment harmònic simple."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- oscar-colomar
 tags:
 - 1r Batx
 - moviment
@@ -20,16 +23,11 @@ image:
   caption: Imatge de [**neo tam**](https://pixabay.com/es/users/neotam-11291643/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Pòster
+  url: MHS-poster.pdf
 
 ---
 

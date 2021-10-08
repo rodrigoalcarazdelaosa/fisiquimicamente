@@ -12,7 +12,7 @@ cta:
   icon: compass
 cta_alt:
   label: Últim pòster ➡️
-  url: "recursos-fisica-quimica/apunts/2eso-3eso/electricitat-electronica/"
+  url: "recursos-fisica-quimica/apunts/1batx/mhs/"
 cta_note:
   label:
 design:

@@ -27,8 +27,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Electricitat i electrònica
-    cta_url: 'recursos-fisica-quimica/apunts/2eso-3eso/electricitat-electronica/'
+    cta_label: MHS
+    cta_url: 'recursos-fisica-quimica/apunts/1batx/mhs/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
 ---    
