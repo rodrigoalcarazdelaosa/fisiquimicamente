@@ -18,7 +18,7 @@
   <script src="{{ printf "/js/vendor/%s" ($scr.Get "vendor_js_filename") | relURL }}"></script>
 {{ else }}  
 
-  {{ $require_isotope := site.Params.require_isotope | default true }}
+  {{ $require_isotope := .Params.require_isotope | default site.Params.require_isotope | default true }}
   {{ if $require_isotope }}
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.imagesLoaded.url $js.imagesLoaded.version) $js.imagesLoaded.sri | safeHTML }}
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.isotope.url $js.isotope.version) $js.isotope.sri | safeHTML }}
@@ -126,7 +126,7 @@
 
 {{ $js_license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
 {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
-{{ $js_license := $js_license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md */\n" }}
+{{ $js_license := $js_license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */\n" }}
 {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
 {{ $js_params := dict "hugoEnvironment" hugo.Environment "codeHighlighting" ($scr.Get "highlight_enabled" | default false) "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) }}
 {{ $js_academic := resources.Get "js/wowchemy.js" | js.Build (dict "params" $js_params) }}
