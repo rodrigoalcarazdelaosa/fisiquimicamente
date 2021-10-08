@@ -44,15 +44,15 @@ Son **ejemplos** de **MAS** el [movimiento de una masa unida a un muelle](#ley-d
 
 ### Amplitud *A*
 
-Máxima elongación (desplazamiento máximo de la posición de equilibrio).
+Máxima elongación (desplazamiento máximo de la posición de equilibrio). En el SI se mide en m.
 
 ### Periodo *T*
 
-Tiempo empleado en completar una oscilación completa.
+Tiempo empleado en completar una oscilación completa. En el SI se mide en s.
 
 ### Frecuencia *f*
 
-Número de oscilaciones por unidad de tiempo: $f = 1/T$.
+Número de oscilaciones por unidad de tiempo: $f = 1/T$. En el SI se mide en Hz.
 
 ### Frecuencia angular *ω*
 
@@ -60,9 +60,11 @@ $$
 \omega = \frac{2\pi}{T} = 2\pi f
 $$
 
+En el SI se mide en rad/s.
+
 ### Fase inicial
 
-Indica el estado de oscilación/vibración inicial. Se denota por $\varphi_0$.
+Indica el estado de oscilación/vibración inicial. Se denota por $\varphi_0$. En el SI se mide en rad.
 
 ## Ecuaciones
 
