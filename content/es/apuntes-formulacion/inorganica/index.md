@@ -93,7 +93,7 @@ Utilizando **números de oxidación** en **números romanos** (y sin signo) o **
 
 #### Ejemplos
 - PCl<sub>5</sub> &rarr; cloruro de fósforo(V).
-- MnO<sub>2</sub> &rarr; óxido de manganeso(4+).
+- MnO<sub>2</sub> &rarr; óxido de manganeso(IV).
 
 ### Nombres *vulgares* aceptados
 Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales**.
@@ -102,7 +102,7 @@ Utilizados (y recomendados) por ejemplo para nombrar **oxácidos** y **oxisales*
 - H<sub>2</sub>SO<sub>4</sub> &rarr; ácido sulfúrico.
 - HNO<sub>3</sub> &rarr; ácido nítrico.
 - H<sub>2</sub>CO<sub>3</sub> &rarr; ácido carbónico.
-- CuBrO<sub>2</sub> &rarr; bromito de cobre(1+).
+- CuBrO<sub>2</sub> &rarr; bromito de cobre(I).
 - NaClO<sub>4</sub> &rarr; perclorato de sodio.
 
 ## Óxidos E<sub>2</sub>O<sub>n</sub>
@@ -120,7 +120,7 @@ Cuando el **oxígeno** se **combina** con un **halógeno** (elemento del grupo 1
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
 | :---: | --- | --- |
 | Na<sub>2</sub>O | <s>mon</s>óxido de disodio | óxido de sodio |
-| TiO<sub>2</sub> | dióxido de titanio | óxido de titanio(4+) |
+| TiO<sub>2</sub> | dióxido de titanio | óxido de titanio(IV) |
 | SO<sub>3</sub> | trióxido de azufre | óxido de azufre(VI) |
 | OF<sub>2</sub> | difluoruro de oxígeno | &ndash; |
 
@@ -135,7 +135,7 @@ Compuestos binarios formados por un **metal** (M), con nº de oxidación n, o **
 | H<sub>2</sub>O<sub>2</sub> | peróxido de hidrógeno (agua oxigenada) |
 | Na<sub>2</sub>O<sub>2</sub> | peróxido de sodio |
 | MgO<sub>2</sub> | peróxido de magnesio |
-| Fe<sub>2</sub>(O<sub>2</sub>)<sub>3</sub> | peróxido de hierro(3+) |
+| Fe<sub>2</sub>(O<sub>2</sub>)<sub>3</sub> | peróxido de hierro(III) |
 
 ## Hidruros EH<sub>n</sub>
 Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e **hidrógeno (H)**.
@@ -169,7 +169,7 @@ Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como
 | TlH<sub>3</sub> | talano | PbH<sub>4</sub> | plumbano | BiH<sub>3</sub> | bismutano | H<sub>2</sub>Po | polano | HAt | astatano |
 
 ## Hidróxidos o bases M(OH)<sub>n</sub>
-Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y el **grupo hidroxi OH<sup>&ndash;</sup>**.
+Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y el **anión hidróxido OH<sup>&ndash;</sup>**.
 
 {{< hl >}}PREFIJO (<s>mono</s>){{< /hl >}} + {{< hl >}}HIDRÓXIDO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}METAL{{< /hl >}}
 
@@ -179,8 +179,8 @@ Compuestos ternarios formados por un **metal** (M), con nº de oxidación n, y e
 | :---: | --- | --- |
 | NaOH | <s>mono</s>hidróxido de sodio | hidróxido de sodio |
 | Ca(OH)<sub>2</sub> | dihidróxido de calcio | hidróxido de calcio |
-| Cr(OH)<sub>3</sub> | trihidróxido de cromo | hidróxido de cromo(3+) |
-| Pt(OH)<sub>4</sub> | tetrahidróxido de platino | hidróxido de platino(4+) |
+| Cr(OH)<sub>3</sub> | trihidróxido de cromo | hidróxido de cromo(III) |
+| Pt(OH)<sub>4</sub> | tetrahidróxido de platino | hidróxido de platino(IV) |
 
 ## Oxácidos H<sub>a</sub>X<sub>b</sub>O<sub>c</sub>
 Compuestos ternarios formados por **hidrógeno(1+)**, un **elemento central**, X, y **oxígeno(2–)**. **X** puede ser un **no metal** o un **metal** en **estado de oxidación alto**, como el **cromo(VI)** o el **manganeso(VI)** y el **manganeso(VII)**.
@@ -236,7 +236,7 @@ Compuestos binarios formados por **dos elementos cualesquiera** (salvo H y O), X
 | :---: | --- | --- |
 | NaCl | <s>mono</s>cloruro de sodio | cloruro de sodio |
 | MgF<sub>2</sub> | difluoruro de magnesio | fluoruro de magnesio |
-| FeS | monosulfuro de hierro | sulfuro de hierro(2+) |
+| FeS | monosulfuro de hierro | sulfuro de hierro(II) |
 | NBr<sub>3</sub> | tribromuro de nitrógeno | bromuro de nitrógeno(III) |
 
 ### Sales neutras ternarias u oxisales M<sub>a</sub>(X<sub>b</sub>O<sub>c</sub>)<sub>n</sub>
@@ -245,7 +245,7 @@ Compuestos ternarios formados por un **metal**, M, con nº de oxidación n, un *
 | Fórmula | Ácido | Sal |
 | :---: | --- | --- |
 | NaClO | HClO (ác. hipocloroso) | hipoclorito de sodio |
-| Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> | H<sub>2</sub>SO<sub>4</sub> (ác. sulfúrico) | sulfato de hierro(3+) |
+| Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> | H<sub>2</sub>SO<sub>4</sub> (ác. sulfúrico) | sulfato de hierro(III) |
 | Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> | H<sub>3</sub>PO<sub>4</sub> (ác. fosfórico) | fosfato de calcio |
 | BaCO<sub>3</sub> | H<sub>2</sub>CO<sub>3</sub> (ác. carbónico) | carbonato de bario |
 
@@ -254,13 +254,18 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 
 | Fórmula | Ácido | Sal |
 | :---: | --- | --- |
-| Fe(HSO<sub>3</sub>)<sub>2</sub> | H<sub>2</sub>SO<sub>3</sub> (ác. sulfuroso) | hidrogenosulfito de hierro(2+) |
+| Fe(HSO<sub>3</sub>)<sub>2</sub> | H<sub>2</sub>SO<sub>3</sub> (ác. sulfuroso) | hidrogenosulfito de hierro(II) |
 | NH<sub>4</sub>H<sub>2</sub>PO<sub>4</sub> | H<sub>3</sub>PO<sub>4</sub> (ác. fosfórico) | dihidrogenofosfato de amonio |
 | NaHCO<sub>3</sub> | H<sub>2</sub>CO<sub>3</sub> (ác. carbónico) | hidrogenocarbonato de sodio |
 | KH<sub>2</sub>BO<sub>3</sub> | H<sub>3</sub>BO<sub>3</sub> (ác. bórico) | dihidrogenoborato de potasio |
 
 ## Iones
-Un **ión** es una **especie química** con **carga eléctrica**, bien por haber **cedido** (carga positiva &rarr; catión) o **captado** (carga negativa &rarr; anión) **electrones**.
+Un **ion** es una **especie química** con **carga eléctrica**, bien por haber **cedido** (carga positiva &rarr; catión) o **captado** (carga negativa &rarr; anión) **electrones**.
+
+{{% callout note %}}
+En los ejemplos siguientes, todos los nombres deben ir precedidos de la palabra ***ion***.
+{{% /callout %}}
+
 ### Cationes E<sup>n+</sup>
 | Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre |
 | :---: | --- | :---: | --- | :---: | --- |
