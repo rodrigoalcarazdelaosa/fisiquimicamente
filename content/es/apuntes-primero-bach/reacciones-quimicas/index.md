@@ -18,16 +18,12 @@ image:
   caption: Foto de [**Alex Kondratiev**](https://unsplash.com/@alexkondratiev) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-# icon: download
-#  name: PDF Texto
-#  url: movimientos_texto.pdf
+links:
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1_E6cVuBxyDmBam803B949yPKyHHajLXt/view
   
-# - icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: movimientos_poster.pdf  
 ---
 
 <!-- Añadir práctica virtual del fqsaja: http://www.fqsaja.com/?portfolio_page=practica-virtual-ley-de-proust -->
