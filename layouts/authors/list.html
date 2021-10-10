@@ -9,8 +9,31 @@
 </div>
 {{ end }}
 
-<section id="profile-page" class="pt-5">
+<section id="profile-page" class="home-section">  
   <div class="container">
+
+    {{/* Breadcrumbs. */}}
+
+    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">
+        {{ if eq .Site.Language.Lang "es" }}      
+	    	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>
+        {{ else if eq .Site.Language.Lang "en" }}
+          <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
+        {{ else if eq .Site.Language.Lang "ca" }}
+          <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+        {{ end }}
+        {{ if eq .Site.Language.Lang "es" }}
+      	  <li class="breadcrumb-item"><a href="/equipo">👥 Equipo</a></li>
+        {{ else if eq .Site.Language.Lang "en" }}
+          <li class="breadcrumb-item"><a href="/team">👥 Team</a></li>
+        {{ else if eq .Site.Language.Lang "ca" }}
+          <li class="breadcrumb-item"><a href="/equip">👥 Equip</a></li>
+        {{ end }}
+	        <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>			
+	    </ol>
+		</nav>
+
     {{/* Show the About widget if an account exists for this user. */}}
     {{ if .File }}
       {{ $widget := "widgets/about.html" }}
