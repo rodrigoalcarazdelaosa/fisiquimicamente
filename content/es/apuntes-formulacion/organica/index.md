@@ -36,6 +36,10 @@ Es la **nomenclatura principal** para nombrar **compuestos orgánicos**, los cua
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
 
+{{< spoiler text="Pincha aquí para ver esta molécula en **3D**" >}}
+<iframe style="width: 100%; height: 300px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&smiles=Cl/C(/C)=C\C(CC(C)=O)Cl"></iframe>
+{{< /spoiler >}}
+
 | Elemento | Significado |
 | --- | --- |
 | <span style="color: #b50000">hept(a)</span> | cadena principal (heptano) |
