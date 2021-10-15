@@ -34,12 +34,12 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ## Conceptos previos
 
 - [Nomenclatura de sustitución](#/2/1)
-- [Creación de nombres sistemáticos](#/2/6)
-- [Grupos funcionales --- sufijos y prefijos](#/2/9)
-- [Compuestos padre (hidrocarburos)](#/2/12)
-- [Elección y numeración de la cadena principal](#/2/20)
-- [Nomenclatura de clase funcional](#/2/23)
-- [Representación gráfica (zigzag)](#/2/24)
+- [Creación de nombres sistemáticos](#/2/7)
+- [Grupos funcionales --- sufijos y prefijos](#/2/10)
+- [Compuestos padre (hidrocarburos)](#/2/13)
+- [Elección y numeración de la cadena principal](#/2/44)
+- [Nomenclatura de clase funcional](#/2/47)
+- [Representación gráfica (zigzag)](#/2/52)
 
 (continúa hacia abajo)
 
@@ -57,6 +57,10 @@ El grupo principal formará la **cadena principal**, mientras que el resto podr�
 ---
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
+
+---
+
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&smiles=Cl/C(/C)=C\C(CC(C)=O)Cl"></iframe>
 
 ---
 
@@ -91,10 +95,10 @@ La **formación** de un **nombre sistemático** requiere varios **pasos**:
 1. **Determinar** el **grupo funcional principal** que se nombrará mediante un **sufijo**.
 2. **Determinar** la **cadena principal**, que ha de **contener** el **grupo principal**.
 3. **Nombrar** la **cadena principal** y **especificar** cualquier **insaturación** (enlaces C=C y C&equiv;C).
-4. **Combinar** el **nombre** de la **cadena principal** con el **sufijo** del **grupo funcional principal**.
 
 ---
 
+4. **Combinar** el **nombre** de la **cadena principal** con el **sufijo** del **grupo funcional principal**.
 5. **Identificar** los **sustituyentes** y **ordenar** sus **prefijos alfabéticamente**.
 6. **Insertar prefijos** multiplicadores y **localizadores**.
 
@@ -119,9 +123,9 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 ---
 
 ### Compuestos padre (hidrocarburos)
-- [Alcanos (C---C)](#/2/14)
-- [Alquenos (C=C) y alquinos (C&equiv;C)](#/2/16)
-- [Aromáticos (arenos)](#/2/17)
+- [Alcanos (C---C)](#/2/16)
+- [Alquenos (C=C) y alquinos (C&equiv;C)](#/2/28)
+- [Aromáticos (arenos)](#/2/33)
 
 (continúa hacia abajo)
 
@@ -129,7 +133,11 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 
 ---
 
-Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H). Distinguimos entre:
+Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H).
+
+---
+
+Distinguimos entre:
 
 Alifáticos
 : Pueden ser de **cadena abierta** (acíclicos) o **cerrada** (cíclicos).
@@ -140,9 +148,35 @@ Aromáticos
 ---
 
 #### Alcanos (C---C)
-Hidrocarburos en los que los **enlaces C---C** son todos **simples**. Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
+Hidrocarburos en los que los **enlaces C---C** son todos **simples**.
+
+---
+
+Se nombran con un **prefijo** que indica el número de átomos de carbono y la **terminación *--ano***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/alcanos.svg" lightbox="false" width="100%" >}}
+
+---
+
+###### Metano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=297"></iframe>
+
+---
+
+###### Etano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=6324"></iframe>
+
+---
+
+###### Propano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=6334"></iframe>
+
+---
+
+###### Butano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7843"></iframe>
+
+---
 
 En caso de ser **sustituyentes**, cambian la **terminación** --ano por ***--il(o)***.
 
@@ -155,10 +189,47 @@ Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
 
 ---
 
+###### Ciclopropano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=6351"></iframe>
+
+---
+
+###### Ciclobutano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=9250"></iframe>
+
+---
+
+###### Ciclohexano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=8078"></iframe>
+
+---
+
+###### Ciclodecano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=9267"></iframe>
+
+---
+
 #### Alquenos (C=C) y alquinos (C&equiv;C)
 La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples** (**C&equiv;C**)--- se indica mediante las **terminaciones *--eno*** e ***--ino***, respectivamente, y **localizadores** definiendo sus posiciones.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/insaturaciones.svg" lightbox="false" width="100%" >}}
+
+---
+
+##### Buta-1,3-dieno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7845"></iframe>
+
+---
+
+##### Pent-1-en-4-ino
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=522708"></iframe>
+
+---
+
+##### Ciclohexa-1,3-dieno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=11605"></iframe>
+
+---
 
 En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
 
@@ -168,6 +239,28 @@ En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***,
 El **benceno**, **C<sub>6</sub>H<sub>6</sub>**, es el hidrocarburo aromático de **referencia**.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aromaticos.svg" lightbox="false" width="100%" >}}
+
+---
+
+###### Benceno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=241"></iframe>
+
+---
+
+###### Tolueno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=1140"></iframe>
+
+---
+
+###### Etenilbenceno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7501"></iframe>
+
+---
+
+###### 1,2,4,5-tetrametilbenceno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7269"></iframe>
+
+---
 
 En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 
@@ -182,6 +275,21 @@ En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 
 ##### Arenos policíclicos con importancia en el estudio de sistemas biológicos
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/policiclicos.svg" lightbox="false" width="100%" >}}
+
+---
+
+###### Naftaleno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=931"></iframe>
+
+---
+
+###### Antraceno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=8418"></iframe>
+
+---
+
+###### Fenantreno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=995"></iframe>
 
 ---
 
@@ -212,9 +320,28 @@ La **cadena principal** se **numera** aplicando los siguientes **criterios**:
 ---
 
 ### Nomenclatura de clase funcional
-También conocida como nomenclatura ***radicofuncional***, es la **preferida** para **ésteres** y **haluros de ácido** (también utilizada para **éteres** y **cetonas**). Los nombres consisten en el **nombre** del **grupo principal** del compuesto seguido de la palabra ***de*** y el **nombre** del **sustituyente** al que va unido.
+También conocida como nomenclatura ***radicofuncional***, es la **preferida** para **ésteres** y **haluros de ácido** (también utilizada para **éteres** y **cetonas**).
+
+---
+
+Los nombres consisten en el **nombre** del **grupo principal** del compuesto seguido de la palabra ***de*** y el **nombre** del **sustituyente** al que va unido.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-clase-funcional.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### Propanoato de metilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=11124"></iframe>
+
+---
+
+#### Cloruro de acetilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=6367"></iframe>
+
+---
+
+#### Bromuro de benzoilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=12056"></iframe>
 
 ---
 
@@ -232,6 +359,26 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haloalcanos.svg" lightbox="false" width="100%" >}}
 
+---
+
+### 1,1,1,2-tetrafluoroetano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=13129"></iframe>
+
+---
+
+### 1,1-dicloroeteno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=6366"></iframe>
+
+---
+
+### 1,2-dibromobenceno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=11414"></iframe>
+
+---
+
+### Yodometano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=6328"></iframe>
+
 {{% /section %}}
 
 ---
@@ -240,13 +387,13 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 
 ## Funciones que contienen oxígeno (<span style="color: #b50000">O</span>)
 - [Alcoholes (<span style="color: #b50000">---OH</span>)](#/4/1)
-- [Aldehídos (<span style="color: #b50000">---CHO</span>)](#/4/2)
-- [Cetonas (<span style="color: #b50000">=O</span>)](#/4/3)
-- [Éteres (<span style="color: #b50000">---OR</span>)](#/4/4)
-- [Ácidos carboxílicos (<span style="color: #b50000">---COOH</span>)](#/4/5)
-- [Ésteres (<span style="color: #b50000">---COOR</span>)](#/4/6)
-- [Carboxilatos (<span style="color: #b50000">---COO<sup>--</sup></span>)](#/4/7)
-- [Haluros de ácido (<span style="color: #b50000">---COX</span>)](#/4/8)
+- [Aldehídos (<span style="color: #b50000">---CHO</span>)](#/4/5)
+- [Cetonas (<span style="color: #b50000">=O</span>)](#/4/9)
+- [Éteres (<span style="color: #b50000">---OR</span>)](#/4/13)
+- [Ácidos carboxílicos (<span style="color: #b50000">---COOH</span>)](#/4/17)
+- [Ésteres (<span style="color: #b50000">---COOR</span>)](#/4/22)
+- [Carboxilatos (<span style="color: #b50000">---COO<sup>--</sup></span>)](#/4/27)
+- [Haluros de ácido (<span style="color: #b50000">---COX</span>)](#/4/32)
 
 ---
 
@@ -257,10 +404,40 @@ Si son el **grupo principal** se añade el **sufijo *--ol*** al nombre del hidro
 
 ---
 
+#### Etanol
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=702"></iframe>
+
+---
+
+#### Fenol
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=996"></iframe>
+
+---
+
+#### Ácido 2-hidroxipropanoico
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=612"></iframe>
+
+---
+
 ### Aldehídos (<span style="color: #b50000">---CHO</span>)
 Si son el **grupo principal** se añade el **sufijo *--al*** (o ***--carbaldehído***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *formil--*** (u ***oxo--***).
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aldehidos.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### Formaldehído
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=712"></iframe>
+
+---
+
+#### Benzaldehído
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=240"></iframe>
+
+---
+
+#### Ácido 4-metil-3-formilpent-3-en-1-oico
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=12882415"></iframe>
 
 ---
 
@@ -272,6 +449,21 @@ Si son el **grupo principal** se añade el **sufijo *--ona*** al nombre del hidr
 
 ---
 
+#### Propan-2-ona
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=180"></iframe>
+
+---
+
+#### 1-feniletan-1-ona
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7410"></iframe>
+
+---
+
+#### 2-metil-3-oxo-butanal
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=11051586"></iframe>
+
+---
+
 ### Éteres (<span style="color: #b50000">---OR</span>)
 No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **prefijo *(R)oxi--*** al nombre del hidrocarburo.
 
@@ -279,33 +471,122 @@ No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **pr
 
 ---
 
+#### Etoxietano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=3283"></iframe>
+
+---
+
+#### Anisol
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7519"></iframe>
+
+---
+
+#### Furano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=8029"></iframe>
+
+---
+
 ### Ácidos carboxílicos (<span style="color: #b50000">---COOH</span>)
 Son compuestos con un **grupo carboxilo**, **<span style="color: #b50000">---C(=O)OH</span>**.
+
+---
+
 Si son el **grupo principal** se nombran comenzando por ***ácido*** y añadiendo el **sufijo *--oico*** (o ***--carboxílico***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *carboxi--***. Ejemplos: **aminoácidos** y **ácidos grasos**.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/acidos-carboxilicos.svg" lightbox="false" width="100%" >}}
 
 ---
 
+#### Ácido acético
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=176"></iframe>
+
+---
+
+#### Ácido benzoico
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=243"></iframe>
+
+---
+
+#### Ácido 2-hidroxipropano-1,2,3-tricarboxílico
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=311"></iframe>
+
+---
+
 ### Ésteres (<span style="color: #b50000">---COOR</span>)
-Derivan de ácidos, en los que al menos un grupo hidroxi, ---OH, se sustituye por un grupo ---OR. Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *(R)oxicarbonil--***.
+Derivan de ácidos, en los que al menos un grupo hidroxi, ---OH, se sustituye por un grupo ---OR.
+
+---
+
+Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *(R)oxicarbonil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/esteres.svg" lightbox="false" width="100%" >}}
 
 ---
 
+#### Acetato de etilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=8857"></iframe>
+
+---
+
+#### Benzoato de metilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7150"></iframe>
+
+---
+
+#### Ácido 3-(acetiloxi)propanoico
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=12647151"></iframe>
+
+---
+
 ### Carboxilatos (<span style="color: #b50000">---COO<sup>--</sup></span>)
-Son la base conjugada de un ácido carboxílico, siendo iones con carga negativa (aniones). Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *carboxilato--***.
+Son la base conjugada de un ácido carboxílico, siendo iones con carga negativa (aniones).
+
+---
+
+Se utiliza la **nomenclatura** de **clase funcional**, sustituyendo la **terminación** --oico del ácido por ***--oato***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *carboxilato--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/carboxilatos.svg" lightbox="false" width="100%" >}}
 
 ---
 
+#### Acetato de sodio
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=517045"></iframe>
+
+---
+
+#### Benzoato de potasio
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=23661960"></iframe>
+
+---
+
+#### But-3-enoato de cesio
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=87402591"></iframe>
+
+---
+
 ### Haluros de ácido (<span style="color: #b50000">---COX</span>)
 Derivan de ácidos carboxílicos, sustituyendo el grupo hidroxi, ---OH, por un haluro (F, Cl, Br o I).
+
+---
+
 Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro de*** y sustituyendo la **terminación** --oico del ácido por ***--oilo***, si son el **grupo principal**; en caso contrario se utiliza el **prefijo *halocarbonil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haluros-acido.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### Cloruro de acetilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=6367"></iframe>
+
+---
+
+#### Bromuro de benzoilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=12056"></iframe>
+
+---
+
+#### Ácido 4-clorocarbonil-3-hidroxi-2-metilpentanoico
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&smiles=C(C(=O)Cl)(C(O)C(C)C(=O)O)C"></iframe>
 
 {{% /section %}}
 
@@ -315,9 +596,9 @@ Se utiliza la **nomenclatura** de **clase funcional**, comenzando por ***haluro 
 
 ## Funciones que contienen nitrógeno (<span style="color: #2a54a9">N</span>)
 - [Aminas (<span style="color: #2a54a9">---NH<sub>2</sub></span>)](#/5/1)
-- [Amidas (<span style="color: #2a54a9">---CONH<sub>2</sub></span>)](#/5/3)
-- [Nitrilos (<span style="color: #2a54a9">---C&equiv;N</span>)](#/5/5)
-- [Nitrocompuestos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)](#/5/6)
+- [Amidas (<span style="color: #2a54a9">---CONH<sub>2</sub></span>)](#/5/9)
+- [Nitrilos (<span style="color: #2a54a9">---C&equiv;N</span>)](#/5/14)
+- [Nitrocompuestos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)](#/5/18)
 
 (continúa hacia abajo)
 
@@ -332,10 +613,40 @@ Si son el **grupo principal** se añade el **sufijo *--amina*** al nombre del hi
 
 ---
 
-####	Aminas secundarias y terciarias
+##### Prop-1-en-1-amina
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=12408078"></iframe>
+
+---
+
+##### Anilina
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=6115"></iframe>
+
+---
+
+##### 2-(dimetilamino)etanol
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7902"></iframe>
+
+---
+
+#### Aminas secundarias y terciarias
 Cuando se reemplazan hidrógenos del grupo ---NH<sub>2</sub> por sustituyentes complejos se utiliza la letra <em>N</em> en vez de números localizadores.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas-sec-terc.svg" lightbox="false" width="100%" >}}
+
+---
+
+##### *N*-metilmetanamina
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=674"></iframe>
+
+---
+
+##### *N*-fenilanilina
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=11487"></iframe>
+
+---
+
+##### *N*,*N*-dimetilmetanamina
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=8471"></iframe>
 
 ---
 
@@ -343,6 +654,21 @@ Cuando se reemplazan hidrógenos del grupo ---NH<sub>2</sub> por sustituyentes c
 Si son el **grupo principal** se añade el **sufijo *--amida*** (o ***--carboxamida***) al nombre del hidrocarburo, en caso contrario se utiliza el **prefijo *carbamoil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/amidas.svg" lightbox="false" width="100%" >}}
+
+---
+
+##### Acetamida
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=178"></iframe>
+
+---
+
+##### Benzamida
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=2331"></iframe>
+
+---
+
+##### Asparagina
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=236"></iframe>
 
 ---
 
@@ -358,9 +684,39 @@ Si son el **grupo principal** se añade el **sufijo *--nitrilo*** (o ***--carbon
 
 ---
 
+#### Butanonitrilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=8008"></iframe>
+
+---
+
+#### Benzonitrilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=7505"></iframe>
+
+---
+
+#### 2-cianoprop-2-enoato de metilo
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=8711"></iframe>
+
+---
+
 ### Nitrocompuestos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)
 No pueden ser nunca el grupo principal. Se nombran añadiendo el **prefijo *nitro--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nitrocompuestos.svg" lightbox="false" width="100%" >}}
+
+---
+
+#### 2-nitropropano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=398"></iframe>
+
+---
+
+#### 2,4,6-trinitrotolueno
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=8376"></iframe>
+
+---
+
+#### 1,2,3-trinitroxipropano
+<iframe style="width: 100%; height: 600px;" frameborder="0" src="https://embed.molview.org/v1/?mode=balls&cid=4510"></iframe>
 
 {{% /section %}}
