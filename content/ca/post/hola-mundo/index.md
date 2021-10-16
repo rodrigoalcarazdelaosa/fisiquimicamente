@@ -48,8 +48,6 @@ Les entradas d'aquest blog van dirigidas al nostre alumnat i a tots aquells que 
 
 Coneixes [Discord](https://discord.com/)? [Uneix-te al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](https://discord.gg/kJqPqTJ) i comença a **participar** a la web comentant, donant la teva opinió, realitzant peticions, suggeriments, etc.
 
-A més, a la **cantonada inferior dreta** pots veure aquesta **icona** {{< icon name="comments" pack="fas" >}}. Clicant sobre ella pots escriure directament al servidor després d'iniciar sessió.
-
 ### Comentaris
 
 En totes les entrades del blog així com en els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) pots deixar-nos 💬&nbsp;**comentaris**.

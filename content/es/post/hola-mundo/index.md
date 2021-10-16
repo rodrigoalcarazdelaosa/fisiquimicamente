@@ -49,8 +49,6 @@ Las entradas de este blog van dirigidas a nuestros/as alumnos/as y a todo aquel 
 
 ¿Conoces [Discord](https://discord.com/)? [Únete al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](https://discord.gg/kJqPqTJ) y comienza a **participar** en la web comentando, dando tu opinión, realizando peticiones, sugerencias, etc.
 
-Además, en la **esquina inferior derecha** puedes ver este **icono** {{< icon name="comments" pack="fas" >}}. Pinchando sobre él puedes escribir directamente en el servidor tras iniciar sesión.
-
 ### Comentarios
 
 En todas las entradas del blog así como en los [📚&nbsp;<span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [🎓&nbsp;<span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) y [📝&nbsp;<span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}) puedes dejarnos 💬&nbsp;**comentarios**.

@@ -48,8 +48,6 @@ The posts in this blog are aimed at our students and anyone else who is curious 
 
 Do you know [Discord](https://discord.com/)? [Join the Discord server of <img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
 
-Also, in the **bottom right corner** you can see this **icon** {{< icon name="comments" pack="fas" >}}. By clicking on it you can write directly on the server after logging in.
-
 ### Comments
 
 In all the blog posts as well as in the [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can leave us 💬&nbsp;**comments**.
