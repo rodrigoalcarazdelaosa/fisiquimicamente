@@ -14,7 +14,7 @@ slides:
     hash: true
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/1.7.0/3Dmol-min.js" integrity="sha512-vep5Y+hl/FG2DklFIwk2LhNnBM1LlUJehPcWNh0EFtTpV7g3y4QnqUMGSbBMOdx/mClcuEuMw/JOIcy+e1bTbA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
 
 # Formulación y nomenclatura de Química Orgánica
 
