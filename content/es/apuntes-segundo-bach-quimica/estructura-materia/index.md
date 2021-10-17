@@ -28,6 +28,10 @@ links:
   name: Póster
   url: estructura-materia-poster.pdf
 - icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios de introducción
+  url: https://drive.google.com/file/d/1DhwzmVzos5UUcrfO30FFC3Hn921qc42m/view
+- icon_pack: fas
   icon: pencil-ruler
   name: Ejercicios
   url: estructura-materia-ejercicios.pdf    
