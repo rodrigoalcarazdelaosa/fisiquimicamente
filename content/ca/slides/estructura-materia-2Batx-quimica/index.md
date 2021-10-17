@@ -181,7 +181,7 @@ Aprèn més sobre la **radiació** de **cos negre** amb aquesta excel·lent **si
 
 ### Hipòtesi de Planck
 
-> L'energia només pot ser emesa/absorbida en paquets discrets anomenats quants o **fotons**, múltiples de la freqüència $\*nu$ de la radiació electromagnètica associada:
+> L'energia només pot ser emesa/absorbida en paquets discrets anomenats quants o **fotons**, múltiples de la freqüència $\nu$ de la radiació electromagnètica associada:
 	$$
 	E = h \nu,
 	$$
@@ -268,8 +268,8 @@ En el següent **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/e
 **Exemples** de tals magnituds són:
 	
 \begin{align*}
-	\text{Posición $x$ y momento lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
-	\text{Energía $E$ y tiempo $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
+	\text{Posició $x$ i moment linial $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
+	\text{Energia $E$ i temps $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
 \end{align*}
 
 on $\Delta$ denota la incertesa associada i $\hbar = h/(2\pi)$.
