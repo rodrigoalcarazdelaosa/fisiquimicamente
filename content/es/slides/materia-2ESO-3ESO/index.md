@@ -16,11 +16,11 @@ slides:
 
 # La materia
 
-- [Propiedades generales](#/1)
-- [Propiedades específicas](#/2)
-- [Estados de agregación](#/3)
-- [Modelo cinético-molecular](#/4)
-- [Mezclas](#/5)
+- [Propiedades generales](#/2)
+- [Propiedades específicas](#/3)
+- [Estados de agregación](#/4)
+- [Modelo cinético-molecular](#/5)
+- [Mezclas](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
@@ -34,7 +34,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Propiedades generales
 
-[Masa](#/1/3) y [volumen](#/1/4)
+[Masa](#/2/3) y [volumen](#/2/4)
 
 (continúa hacia abajo)
 
@@ -142,10 +142,10 @@ $$
 
 ## Estados de agregación
 
-- [Sólido](#/3/2)
-- [Líquido](#/3/3)
-- [Gaseoso](#/3/4)
-- [Cambios de estado](#/3/5)
+- [Sólido](#/4/2)
+- [Líquido](#/4/3)
+- [Gaseoso](#/4/4)
+- [Cambios de estado](#/4/5)
 
 (continúa hacia abajo)
 
@@ -205,9 +205,9 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ## Modelo cinético-molecular
 
-- [Postulados](#/4/1)
-- [Explicación de los estados de agregación](#/4/2)
-- [Simulación](#/4/6)
+- [Postulados](#/5/1)
+- [Explicación de los estados de agregación](#/5/2)
+- [Simulación](#/5/6)
 
 (continúa hacia abajo)
 
@@ -261,9 +261,9 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ## Mezclas
 
-- [Tipos](#/5/2)
-- [Disoluciones](#/5/3)
-- [Métodos de separación](#/5/11)
+- [Tipos](#/6/2)
+- [Disoluciones](#/6/3)
+- [Métodos de separación](#/6/11)
 
 (continúa hacia abajo)
 
