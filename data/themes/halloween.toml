@@ -1,0 +1,24 @@
+# Theme metadata
+name = "halloween"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#ff8300"
+link = "#ff8300"
+link_hover = "#b50000"
+# link_decoration = "underline"
+
+# Menu
+menu_primary = "#ff8300"
+menu_text = "#000000"
+menu_text_active = "#f7f056"
+menu_title = "#f7f056"
+
+# Background
+background = "#111111"
+
+# Home sections
+home_section_odd = "#111111"
+home_section_even = "#111111"

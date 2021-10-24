@@ -3,7 +3,7 @@ widget: hero-home
 headless: true
 weight: 1
 title: FisiQuímicament
-hero_media: lottie/baby-yoda.tgs
+hero_media: lottie/halloween.tgs
 cta:
   label: '**Explora**'
   url: "#fisiquimicament"
