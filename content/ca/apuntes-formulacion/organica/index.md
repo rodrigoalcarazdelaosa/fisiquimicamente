@@ -58,7 +58,7 @@ Bioinformatics (2015) 31 (8): 1322–1324 https://doi.org/10.1093/bioinformatics
 | Element | Significat |
 | --- | --- |
 | <span style="color: #b50000">hept(a)</span> | cadena principal (heptà) |
-| <span style="color: #b50000">en(o)</span> | insaturació |
+| <span style="color: #b50000">en</span> | insaturació |
 | <span style="color: #b50000">di</span> | prefix multiplicador |
 | <span style="color: #2a54a9">ona</span> | sufix per al grup principal (cetona) |
 | <span style="color: #2a54a9">cloro</span> | prefix de substituent |
@@ -159,7 +159,7 @@ La presència d'**insaturacions** ---**enllaços dobles** (**C=C**) i **triples*
 <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/ciclohexadieno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
 {{< /spoiler >}}
 
-En cas de ser **substituents**, terminan en ***--enil*** i ***--inil***, respectivament.
+En cas de ser **substituents**, acaben en ***--enil*** i ***--inil***, respectivament.
 
 ### Aromàtics (arens)
 El **benzè**, **C<sub>6</sub>H<sub>6</sub>**, és l'hidrocarbur aromàtic de **referència**.
@@ -216,7 +216,7 @@ La **cadena principal** es **tria** aplicant els següents **criteris**:
 ### Numeració
 La **cadena principal** es **numera** aplicant els següents **criteris**:
 
-1. Localitzadors més baixos per a *heteroátomos (substituts d'algun carboni en la cadena principal).
+1. Localitzadors més baixos per a heteroàtoms (substituts d'algun carboni en la cadena principal).
 2. Localitzador més baix per al grup funcional principal.
 3. Localitzadors més baixos per a enllaços dobles i triples.
 4. Localitzadors més baixos com a conjunt per a tots els substituents anomenats com a prefixos.
@@ -242,7 +242,7 @@ També coneguda com a nomenclatura ***radicofuncional***, és la **preferida** p
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/zigzag-ca.svg" lightbox="false" width="100%" >}}
 
 ## Funcions que contenen halògens (<span style="color: #4c5f26">F</span>, <span style="color: #4c5f26">Cl</span>, <span style="color: #4c5f26">Br</span> o <span style="color: #4c5f26">I</span>)
-No poden ser mai el grup principal, per la qual cosa es nomenen afegint el **prefix *fluoro--***, ***cloro--***, ***bromo--*** o ***yodo--***, segons correspongui, al nom de l'hidrocarbur.
+No poden ser mai el grup principal, per la qual cosa s'anomenen afegint el **prefix *fluoro--***, ***cloro--***, ***bromo--*** o ***yodo--***, segons correspongui, al nom de l'hidrocarbur.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haloalcanos-ca.svg" lightbox="false" width="100%" >}}
 
@@ -328,7 +328,7 @@ No poden ser mai el grup principal, per la qual cosa s'anomenen afegint el **pre
 
 ### Àcids carboxílics (<span style="color: #b50000">---COOH</span>)
 Són compostos amb un **grup carboxil**, **<span style="color: #b50000">---C(=O)OH</span>**.
-Si són el **grup principal** es nomenen començant per ***àcid*** i afegint el **sufix *--oic*** (o ***--carboxílic***) al nom de l'hidrocarbur, en cas contrari s'utilitza el **prefix *carboxi--***. Exempls: **aminoàcids** i **àcids grassos**.
+Si són el **grup principal** s'anomenen començant per ***àcid*** i afegint el **sufix *--oic*** (o ***--carboxílic***) al nom de l'hidrocarbur, en cas contrari s'utilitza el **prefix *carboxi--***. Exemples: **aminoàcids** i **àcids grassos**.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/acidos-carboxilicos-ca.svg" lightbox="false" width="100%" >}}
 
@@ -344,7 +344,7 @@ Si són el **grup principal** es nomenen començant per ***àcid*** i afegint el
 {{< /spoiler >}}
 
 ### Èsters (<span style="color: #b50000">---COOR</span>)
-Deriven d'àcids, en els quals almenys un grup *hidroxi, ---OH, se substitueix per un grup ---OR. S'utilitza la **nomenclatura** de **classe funcional**, substituint la **terminació** --oic de l'àcid per ***--oat***, si són el **grup principal**; en cas contrari s'utilitza el **prefix *(R)oxicarbonil--***.
+Deriven d'àcids, en els quals almenys un grup hidroxi, ---OH, se substitueix per un grup ---OR. S'utilitza la **nomenclatura** de **classe funcional**, substituint la **terminació** --oic de l'àcid per ***--oat***, si són el **grup principal**; en cas contrari s'utilitza el **prefix *(R)oxicarbonil--***.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/esteres-ca.svg" lightbox="false" width="100%" >}}
 
@@ -399,7 +399,7 @@ Si són el **grup principal** s'afegeix el **sufix *--amina*** al nom de l'hidro
 {{< /spoiler >}}
 
 #### Aminas secundaries i terciaries
-Quan es reemplacen hidrògens del grup ---NH<sub>2</sub> per substituents complexos s'utilitza la lletra <em>N</em> en comptes de números localitzadors.
+Quan es reemplacen hidrògens del grup ---NH<sub>2</sub> per substituents complexos s'utilitza la lletra <em>N</em> en comptes de nombres localitzadors.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas-sec-terc.svg" lightbox="false" width="100%" >}}
 

@@ -33,12 +33,12 @@ Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fa
 
 {{% section %}}
 
-## Conceptes previs
+## Conceptds previs
 
 - [Nomenclatura de substitució](#/2/1)
 - [Creació de noms sistemàtics](#/2/6)
-- [Grups funcionalss --- sufixos i prefixos](#/2/9)
-- [Composts pare (hidrocarburs)](#/2/12)
+- [Grups funcionals --- sufixos i prefixos](#/2/9)
+- [Compostos pare (hidrocarburs)](#/2/12)
 - [Elecció i numeració de la cadena principal](#/2/43)
 - [Nomenclatura de classe funcional](#/2/46)
 - [Representació gràfica (ziga-zaga)](#/2/51)
@@ -67,7 +67,7 @@ El grup principal formarà la **cadena principal**, mentre que la resta podrà f
 | Element | Significat |
 | --- | --- |
 | <span style="color: #b50000">hept(a)</span> | cadena principal (heptà) |
-| <span style="color: #b50000">en(o)</span> | insaturació |
+| <span style="color: #b50000">en</span> | insaturació |
 | <span style="color: #b50000">di</span> | prefix multiplicador |
 | <span style="color: #2a54a9">ona</span> | sufix per al grup principal (cetona) |
 | <span style="color: #2a54a9">cloro</span> | prefix de substituent |
@@ -242,7 +242,7 @@ La presència d'**insaturacions** ---**enllaços dobles** (**C=C**) i **triples*
 
 ---
 
-En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
+En caso de ser **sustituyentes**, acaben en ***--enil(o)*** e ***--inil(o)***, respectivamente.
 
 ---
 
@@ -329,7 +329,7 @@ La **cadena principal** es **tria** aplicant els següents **criteris**:
 #### Numeració
 La **cadena principal** es **numera** aplicant els següents **criteris**:
 
-1. Localitzadors més baixos per a *heteroátomos (substituts d'algun carboni en la cadena principal).
+1. Localitzadors més baixos per a heteroàtoms (substituts d'algun carboni en la cadena principal).
 2. Localitzador més baix per al grup funcional principal.
 3. Localitzadors més baixos per a enllaços dobles i triples.
 4. Localitzadors més baixos com a conjunt per a tots els substituents anomenats com a prefixos.
@@ -376,7 +376,7 @@ Els noms consisteixen en el **nom** del **grup principal** del compost seguit de
 {{% section %}}
 
 ## Funcions que contenen halògens (<span style="color: #4c5f26">F</span>, <span style="color: #4c5f26">Cl</span>, <span style="color: #4c5f26">Br</span> o <span style="color: #4c5f26">I</span>)
-No pueden ser nunca el grupo principal, por lo que se nombran añadiendo el **prefijo *fluoro--***, ***cloro--***, ***bromo--*** o ***yodo--***, según corresponda, al nombre del hidrocarburo.
+No poden ser mai el grup principal, per la qual cosa s'anomenen afegint el **prefix *fluoro--***, ***cloro--***, ***bromo--*** o ***yodo--***, segons correspongui, al nom de l'hidrocarbur.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/haloalcanos-ca.svg" lightbox="false" width="100%" >}}
 
@@ -527,7 +527,7 @@ Són compostos amb un **grup carboxil**, **<span style="color: #b50000">---C(=O)
 
 ---
 
-Si són el **grup principal** es nomenen començant per ***àcid*** i afegint el **sufix *--oic*** (o ***--carboxílic***) al nom de l'hidrocarbur, en cas contrari s'utilitza el **prefix *carboxi--***. Exempls: **aminoàcids** i **àcids grassos**.
+Si són el **grup principal** s'anomenen començant per ***àcid*** i afegint el **sufix *--oic*** (o ***--carboxílic***) al nom de l'hidrocarbur, en cas contrari s'utilitza el **prefix *carboxi--***. Exemples: **aminoàcids** i **àcids grassos**.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/acidos-carboxilicos-ca.svg" lightbox="false" width="100%" >}}
 
@@ -552,7 +552,7 @@ Si són el **grup principal** es nomenen començant per ***àcid*** i afegint el
 ---
 
 ### Èsters (<span style="color: #b50000">---COOR</span>)
-Deriven d'àcids, en els quals almenys un grup *hidroxi, ---OH, se substitueix per un grup ---OR.
+Deriven d'àcids, en els quals almenys un grup hidroxi, ---OH, se substitueix per un grup ---OR.
 
 ---
 
@@ -602,7 +602,7 @@ SS'utilitza la **nomenclatura** de **classe funcional**, començant per ***halur
 
 ---
 
-#### Clorur d'acetil
+#### Clorur dacetil
 
 <div style="height: 600px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/cloruro-acetilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
 
@@ -662,7 +662,7 @@ Si són el **grup principal** s'afegeix el **sufix *--amina*** al nom de l'hidro
 ---
 
 #### Aminas secundaries i terciaries
-Quan es reemplacen hidrògens del grup ---NH<sub>2</sub> per substituents complexos s'utilitza la lletra <em>N</em> en comptes de números localitzadors.
+Quan es reemplacen hidrògens del grup ---NH<sub>2</sub> per substituents complexos s'utilitza la lletra <em>N</em> en comptes de nombres localitzadors.
 
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/aminas-sec-terc.svg" lightbox="false" width="100%" >}}
 
