@@ -33,7 +33,7 @@ Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fa
 
 {{% section %}}
 
-## Conceptds previs
+## Conceptes previs
 
 - [Nomenclatura de substitució](#/2/1)
 - [Creació de noms sistemàtics](#/2/6)
@@ -602,7 +602,7 @@ SS'utilitza la **nomenclatura** de **classe funcional**, començant per ***halur
 
 ---
 
-#### Clorur dacetil
+#### Clorur d'acetil
 
 <div style="height: 600px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/cloruro-acetilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
 
