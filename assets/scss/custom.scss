@@ -21,12 +21,6 @@ $nord13: #EBCB8B;
 $nord14: #A3BE8C;
 $nord15: #B48EAD;
 
-$primary_bg: #BBCCEE;
-$primary_complementary: #b50000;
-$primary_complementary_bg: #ffcccc;
-$example_fg: #4c5f26;
-$example_bg: #CCDDAA;
-
 /*************************************************
  *  Wowchemy's Core Style
  **************************************************/
@@ -551,16 +545,6 @@ p svg {
   fill: $nord4;
 }
 
-.article-metadata svg {
-  fill: $primary_complementary;
-  display: inline-flex;
-  align-self: center;
-  height: 1em;
-  width: 1em;
-  margin: 0 .25rem 0 0;
-  vertical-align: -0.1em;
-}
-
 /*************************************************
  *  Footer
  **************************************************/
@@ -645,7 +629,7 @@ a.summary-link {
 }
 
 .card-body {
-  color: #2E3440;
+  color: $nord0;
   background: $sta-background;
 }
 
@@ -774,7 +758,7 @@ mark, .dark mark,
  **************************************************/
 
 ul.share li a {
-  color: #2E3440;
+  color: $nord0;
 }
   
 /*************************************************
@@ -824,11 +808,11 @@ ul.subscribe li i {
 
 ul.subscribe li a {
   text-decoration: none !important;
-  color: #2E3440;
+  color: $nord0;
 }
 
 .dark ul.subscribe li a {
-  color: rgba(255, 255, 255, 0.84);
+  color: $nord6;
 }
 
 ul.subscribe li:hover i {
@@ -906,13 +890,6 @@ div.card-text a {
 
 .dark .section-heading p {  
   color: $nord5;
-}
-
-section.home-section div.center-text p {
-  font-weight: 400;
-  font-size: 1.1rem;	
-  font-family: $sta-font-heading, sans-serif;
-  color: $primary_complementary;
 }  
 
 .section-heading a {
@@ -1087,6 +1064,14 @@ section.home-section div.center-text p {
 
 .dark .network-icon a {
   color: $nord4;
+}
+
+.network-icon a:hover {
+  color: $nord11;
+}
+
+.dark .network-icon a:hover {
+  color: $nord13;
 }
 
 ul.ul-interests {
@@ -1305,9 +1290,14 @@ p.kudos {
 }
 
 applause-button .style-root {
-  fill: #2E3440 !important;
-  stroke: #2E3440 !important;
-  color: #2E3440 !important; }
+  fill: $nord0 !important;
+  stroke: $nord0 !important;
+  color: $nord0 !important; }
+
+.dark applause-button .style-root {
+  fill: $nord6 !important;
+  stroke: $nord6 !important;
+  color: $nord6 !important; }
 
 applause-button {
   position: relative;
@@ -1389,7 +1379,7 @@ applause-button {
     position: absolute;
     right: -80%;
     width: 100%;
-    color: #2E3440;
+    color: $nord0;
     user-select: none;
 
     .count {
@@ -1397,6 +1387,14 @@ applause-button {
 	  font-size: 1.25rem;
 	  color: $nord3;
       text-align: center;
+    }
+  }
+
+  .dark .count-container {    
+    color: $nord6;    
+
+    .dark .count {
+	    color: $nord4;      
     }
   }
 
