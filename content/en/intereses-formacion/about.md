@@ -13,5 +13,5 @@ title = "👨‍🎓 Interests and Education"
 author = "rodrigo-alcaraz-de-la-osa"
 
 [design.background]
-  color = "#FFFFF8"
+  # color = "#FFFFF8"
 +++

@@ -2,7 +2,7 @@
 title: Les forces
 url: "/recursos-fisica-quimica/apunts/2eso/forces"
 subtitle: Principals forces de la natura i els seus efectes
-summary: "`🔜 PROPERAMENT` <br> Principals forces de la natura i els seus efectes."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Principals forces de la natura i els seus efectes."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso"]
 authors:
 - rodrigo-alcaraz-de-la-osa

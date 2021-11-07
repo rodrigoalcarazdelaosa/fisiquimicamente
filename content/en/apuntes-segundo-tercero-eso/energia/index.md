@@ -2,7 +2,7 @@
 title: Energy
 url: "physics-chemistry-notes/13-15-year-olds/energy"
 subtitle: Energy Transformations, Heat and Temperature
-summary: "`🔜 COMING SOON` <br> Concept of Energy. Energy Transformations. Heat and Temperature."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Concept of Energy. Energy Transformations. Heat and Temperature."
 breadcrumbs: ["notes","13-15-year-olds"]
 tags:
 - 13-14-year-olds

@@ -2,7 +2,7 @@
 title: Sistema periòdic
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic"
 subtitle: Taula periòdica, configuració electrònica i propietats periòdiques
-summary: "`🔜 PROPERAMENT` <br> Taula periòdica i configuració electrònica. Propietats periòdiques."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Taula periòdica i configuració electrònica. Propietats periòdiques."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa

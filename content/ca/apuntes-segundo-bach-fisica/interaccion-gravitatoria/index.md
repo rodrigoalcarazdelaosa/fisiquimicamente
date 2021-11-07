@@ -2,7 +2,7 @@
 title: Interacció gravitatòria
 url: "/recursos-fisica-quimica/apunts/2batx/fisica/interaccio-gravitatoria"
 subtitle: Lleis de Kepler, llei de Gravitació Universal i camp gravitatori
-summary: "`🔜 PROPERAMENT` <br> Lleis de Kepler. Llei de Gravitació Universal. Camp gravitatori."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Lleis de Kepler. Llei de Gravitació Universal. Camp gravitatori."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
 - 2n Batx

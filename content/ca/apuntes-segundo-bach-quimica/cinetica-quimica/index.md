@@ -2,7 +2,7 @@
 title: Cinètica química
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/cinetica-quimica"
 subtitle: Velocitat i mecanismes de reacció
-summary: "`🔜 PROPERAMENT` <br> Velocitat de reacció. Equacions cinètiques. Ordre de reacció. Mecanismes de reacció."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Velocitat de reacció. Equacions cinètiques. Ordre de reacció. Mecanismes de reacció."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa

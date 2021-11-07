@@ -2,7 +2,7 @@
 title: Àcid-base
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/acid-base"
 subtitle: Equilibri àcid-base
-summary: "`🔜 PROPERAMENT` <br> Equilibri àcid-base. Teories d'Arrhenius i de Brönsted-Lowry. Concepte de pH."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Equilibri àcid-base. Teories d'Arrhenius i de Brönsted-Lowry. Concepte de pH."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa

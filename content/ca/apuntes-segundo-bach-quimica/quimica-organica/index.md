@@ -2,7 +2,7 @@
 title: Química orgànica
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica"
 subtitle: 
-summary: "`🔜 PROPERAMENT`"
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code>"
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 tags:
 - 2n Batx

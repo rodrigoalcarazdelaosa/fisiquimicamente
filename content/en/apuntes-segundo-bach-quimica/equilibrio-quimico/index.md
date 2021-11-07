@@ -2,7 +2,7 @@
 title: Chemical Equilibrium
 url: "physics-chemistry-notes/17-18-year-olds/chemistry/chemical-equilibrium"
 subtitle: Le Chatelier's Principle and Heterogeneous Equilibrium
-summary: "`🔜 COMING SOON` <br> Law of Mass Action. Le Chatelier's Principle. Heterogeneous Equilibrium."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Law of Mass Action. Le Chatelier's Principle. Heterogeneous Equilibrium."
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]
 tags:
 - 17-18-year-olds

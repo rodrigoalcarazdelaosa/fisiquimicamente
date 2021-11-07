@@ -2,7 +2,7 @@
 title: La matèria
 url: "/recursos-fisica-quimica/apunts/2eso-3eso/materia"
 subtitle: Propietats, estats d'agregació i mescles
-summary: "`🔜 PROPERAMENT` <br> Propietats, estats d'agregació i mescles."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Propietats, estats d'agregació i mescles."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]
 authors:
 - rodrigo-alcaraz-de-la-osa

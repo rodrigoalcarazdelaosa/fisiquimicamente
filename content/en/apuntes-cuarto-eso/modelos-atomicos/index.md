@@ -2,7 +2,7 @@
 title: Atomic Models
 url: "/physics-chemistry-notes/15-16-year-olds/atomic-models"
 subtitle: Thomson, Rutherford and Bohr Models
-summary: "`🔜 COMING SOON` <br> Thomson, Rutherford and Bohr Models."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Thomson, Rutherford and Bohr Models."
 breadcrumbs: ["notes","15-16-year-olds"]
 tags:
 - 15-16-year-olds

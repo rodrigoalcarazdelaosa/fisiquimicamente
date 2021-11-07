@@ -2,7 +2,7 @@
 title: Camp magnètic
 url: "/recursos-fisica-quimica/apunts/2batx/fisica/camp-magnetic"
 subtitle: Flux magnètic i inducció electromagnètica
-summary: "`🔜 PROPERAMENT` <br> Camp magnètic. Flux magnètic. Inducció electromagnètica."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Camp magnètic. Flux magnètic. Inducció electromagnètica."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
 - 2n Batx

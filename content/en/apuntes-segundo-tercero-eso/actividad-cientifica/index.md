@@ -2,7 +2,7 @@
 title: Scientific Activity
 url: "physics-chemistry-notes/13-15-year-olds/scientific-activity"
 subtitle: "Scientific Method, Magnitudes and School Laboratory"
-summary: "`🔜 COMING SOON` <br> Scientific Method. Magnitude Measurement. School Laboratory."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Scientific Method. Magnitude Measurement. School Laboratory."
 breadcrumbs: ["notes","13-15-year-olds"]
 tags:
 - 13-14-year-olds

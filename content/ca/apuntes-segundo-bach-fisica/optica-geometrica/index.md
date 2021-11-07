@@ -2,7 +2,7 @@
 title: Òptica geomètrica
 url: "/recursos-fisica-quimica/apunts/2batx/fisica/optica-geometrica"
 subtitle: Lleis de l'òptica geomètrica i sistemes òptics
-summary: "`🔜 PROPERAMENT` <br> Lleis de l'òptica geomètrica. Sistemes òptics. L'ull humà. Instruments òptics."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Lleis de l'òptica geomètrica. Sistemes òptics. L'ull humà. Instruments òptics."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
 - 2n Batx

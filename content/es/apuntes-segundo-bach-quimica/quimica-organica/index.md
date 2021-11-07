@@ -2,7 +2,7 @@
 title: Química orgánica
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica"
 subtitle: 
-summary: "`🔜 PRÓXIMAMENTE`"
+summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code>"
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 tags:
 - 2º Bach

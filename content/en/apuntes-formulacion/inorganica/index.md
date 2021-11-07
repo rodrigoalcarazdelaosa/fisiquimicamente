@@ -2,7 +2,7 @@
 title: Nomenclature of Inorganic Chemistry
 url: "/physics-chemistry-notes/nomenclature-chemistry/inorganic"
 subtitle: IUPAC Recommendations 2005
-summary: "`🔜 COMING SOON` <br> IUPAC Recommendations 2005."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> IUPAC Recommendations 2005."
 breadcrumbs: ["notes","nomenclature-chemistry"]
 tags:
 - IUPAC

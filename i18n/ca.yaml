@@ -27,11 +27,11 @@
 - id: theme_selector
   translation: Display preferences
 - id: theme_light
-  translation: Light
+  translation: Clar
 - id: theme_dark
-  translation: Dark
+  translation: Fosc
 - id: theme_auto
-  translation: Automatic
+  translation: Automàtic
 - id: btn_preprint
   translation: Preimpresió
 - id: btn_pdf

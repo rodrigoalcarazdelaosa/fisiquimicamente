@@ -2,7 +2,7 @@
 title: Motion
 url: "/physics-chemistry-notes/15-16-year-olds/motion"
 subtitle: Linear and Circular Motion
-summary: "`🔜 COMING SOON` <br> Linear and Circular Motion."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Linear and Circular Motion."
 breadcrumbs: ["notes","15-16-year-olds"]
 authors:
 - rodrigo-alcaraz-de-la-osa

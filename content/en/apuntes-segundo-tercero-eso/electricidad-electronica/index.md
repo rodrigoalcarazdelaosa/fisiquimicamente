@@ -2,7 +2,7 @@
 title: Electricity and Electronics
 url: "physics-chemistry-notes/13-15-year-olds/electricity-electronics"
 subtitle: Electrical Circuits, Ohm's Law and Electronic Devices
-summary: "`🔜 COMING SOON` <br> Electricity and Electrical Circuits. Ohm's Law. Electronic Devices."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Electricity and Electrical Circuits. Ohm's Law. Electronic Devices."
 breadcrumbs: ["notes","13-15-year-olds"]
 tags:
 - 13-14-year-olds

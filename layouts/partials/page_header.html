@@ -67,11 +67,38 @@
   <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
   {{ if eq site.Language.Lang "es" }}
-  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>    
 	{{ else if eq site.Language.Lang "en" }}
-  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg" id="physichemically-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("physichemically-breadcrumb").src="/icon/logo-physichemically-dark.svg";
+			  } else {
+				document.getElementById("physichemically-breadcrumb").src="/icon/logo-physichemically.svg";
+			  }
+			  });
+		</script></a></li>
   {{ else if eq site.Language.Lang "ca" }}
-  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg" id="fisiquimicament-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicament-breadcrumb").src="/icon/logo-fisiquimicament-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicament-breadcrumb").src="/icon/logo-fisiquimicament.svg";
+			  }
+			  });
+		</script></a></li>
   {{ end }}
     {{ range $page.Params.breadcrumbs }}
     {{ if and (eq . "recursos-fisica-quimica") (eq site.Language.Lang "es") }}
@@ -224,12 +251,39 @@
   <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     {{ if eq site.Language.Lang "es" }}
-  	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg"></a></li>
-	  {{ else if eq site.Language.Lang "en" }}
-  	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg"></a></li>
-    {{ else if eq site.Language.Lang "ca" }}
-      <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg"></a></li>
-    {{ end }}
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>    
+	{{ else if eq site.Language.Lang "en" }}
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg" id="physichemically-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("physichemically-breadcrumb").src="/icon/logo-physichemically-dark.svg";
+			  } else {
+				document.getElementById("physichemically-breadcrumb").src="/icon/logo-physichemically.svg";
+			  }
+			  });
+		</script></a></li>
+  {{ else if eq site.Language.Lang "ca" }}
+  	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg" id="fisiquimicament-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicament-breadcrumb").src="/icon/logo-fisiquimicament-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicament-breadcrumb").src="/icon/logo-fisiquimicament.svg";
+			  }
+			  });
+		</script></a></li>
+  {{ end }}
     {{ range $page.Params.breadcrumbs }}
     {{ if eq . "recursos-fisica-quimica" }}
       {{ if eq site.Language.Lang "es" }}

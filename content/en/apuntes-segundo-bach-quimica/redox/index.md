@@ -2,7 +2,7 @@
 title: Redox
 url: "physics-chemistry-notes/17-18-year-olds/chemistry/redox"
 subtitle: Redox Equilibrium and Balancing, Galvanic Cells and Electrolysis
-summary: "`🔜 COMING SOON` <br> Redox Equilibrium. Redox Balancing. Galvanic Cells. Electrolysis."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Redox Equilibrium. Redox Balancing. Galvanic Cells. Electrolysis."
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]
 tags:
 - 17-18-year-olds

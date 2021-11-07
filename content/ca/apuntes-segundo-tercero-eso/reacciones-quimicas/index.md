@@ -2,7 +2,7 @@
 title: Reaccions químiques
 url: "/recursos-fisica-quimica/apunts/2eso-3eso/reaccions-quimiques"
 subtitle: Interpretació de reaccions químiques i iniciació a la estequiometria
-summary: "`🔜 PROPERAMENT` <br> Canvis físics i químics. La reacció química. Iniciació a l'estequiometria. Llei de conservació de la massa. Velocitat de reacció. La Química en la societat i el medi ambient."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Canvis físics i químics. La reacció química. Iniciació a l'estequiometria. Llei de conservació de la massa. Velocitat de reacció. La Química en la societat i el medi ambient."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]
 tags:
 - 2n ESO

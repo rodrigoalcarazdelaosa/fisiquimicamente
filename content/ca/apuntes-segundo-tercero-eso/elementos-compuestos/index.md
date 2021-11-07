@@ -2,7 +2,7 @@
 title: Elements i compostos
 url: "/recursos-fisica-quimica/apunts/2eso-3eso/elements-compostos"
 subtitle: Taula periòdica dels elements, unions entre àtoms i elements i compostos d'especial interès
-summary: "`🔜 PROPERAMENT` <br> Taula periòdica dels elements. Unions entre àtoms. Elements i compostos d'especial interès."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Taula periòdica dels elements. Unions entre àtoms. Elements i compostos d'especial interès."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]
 authors:
 - rodrigo-alcaraz-de-la-osa

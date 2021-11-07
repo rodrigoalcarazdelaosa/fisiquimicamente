@@ -13,5 +13,5 @@ title = "👨‍🎓 Interessos i formació"
 author = "rodrigo-alcaraz-de-la-osa"
 
 [design.background]
-  color = "#FFFFF8"
+  # color = "#FFFFF8"
 +++

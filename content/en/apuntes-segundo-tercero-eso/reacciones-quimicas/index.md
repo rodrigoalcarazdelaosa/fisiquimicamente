@@ -2,7 +2,7 @@
 title: Chemical Reactions
 url: "physics-chemistry-notes/13-15-year-olds/chemical-reactions"
 subtitle: Interpretation of Chemical Reactions
-summary: "`🔜 COMING SOON` <br> Interpretation of Chemical Reactions. Introduction to Stoichiometry. Law of Conservation of Mass."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Interpretation of Chemical Reactions. Introduction to Stoichiometry. Law of Conservation of Mass."
 breadcrumbs: ["notes","13-15-year-olds"]
 tags:
 - 13-14-year-olds

@@ -2,7 +2,7 @@
 title: Energy and Work
 url: "/physics-chemistry-notes/16-17-year-olds/energy-work"
 subtitle: Work, Power and Energy
-summary: "`🔜 COMING SOON` <br> Work. Power. Energy. Work-Energy Theorem. Conservative Systems."
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Work. Power. Energy. Work-Energy Theorem. Conservative Systems."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
 - 16-17-year-olds

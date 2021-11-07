@@ -1,0 +1,42 @@
+# Theme metadata
+name = "nord"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2E3440"
+link = "#2E3440"
+link_hover = "#BF616A"
+# link_decoration = "underline"
+
+# Menu
+menu_primary = "#2E3440"
+menu_text = "#ECEFF4"
+menu_text_active = "#88C0D0"
+menu_title = "#88C0D0"
+
+# Background
+background = "#ECEFF4"
+
+# Home sections
+home_section_odd = "#ECEFF4"
+home_section_even = "#ECEFF4"
+
+[dark]
+  link = "#ECEFF4"
+  link_hover = "#EBCB8B"
+  # link_decoration = "underline"
+
+  # Menu
+  menu_primary = "#ECEFF4"
+  menu_text = "#2E3440"
+  menu_text_active = "#5E81AC"
+  menu_title = "#5E81AC"
+
+  # Background
+  background = "#2E3440"
+
+  # Home sections
+  home_section_odd = "#2E3440"
+  home_section_even = "#2E3440"

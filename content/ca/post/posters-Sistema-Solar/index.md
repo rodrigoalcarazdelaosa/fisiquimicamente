@@ -1,7 +1,7 @@
 ---
 title: Pòsters de el Sistema Solar
 subtitle: Ara es mostren la bellesa del nostre sistema solar i més enllà
-summary: "`🔜 PROPERAMENT` <br> Ara es mostren la bellesa del nostre sistema solar i més enllà."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Ara es mostren la bellesa del nostre sistema solar i més enllà."
 breadcrumbs: ["blog"]
 date: "2020-05-19T00:00:00Z"
 authors:

@@ -2,7 +2,7 @@
 title: Camp elèctric
 url: "/recursos-fisica-quimica/apunts/2batx/fisica/camp-electric"
 subtitle: Llei de Coulomb, energia potencial, potencial i flux elèctric
-summary: "`🔜 PROPERAMENT` <br> Llei de Coulomb. Energia potencial i potencial elèctric. Flux elèctric."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Llei de Coulomb. Energia potencial i potencial elèctric. Flux elèctric."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
 - 2n Batx

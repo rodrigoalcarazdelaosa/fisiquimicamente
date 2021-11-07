@@ -1,7 +1,7 @@
 ---
 title: Taula Periòdica DC
 subtitle: Taula Periòdica amb personatges de DC
-summary: "`🔜 PROPERAMENT` <br> Taula Periòdica amb personatges de DC."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Taula Periòdica amb personatges de DC."
 breadcrumbs: ["blog"]
 date: "2020-07-16T00:00:00Z"
 authors:

@@ -2,7 +2,7 @@
 title: Moviments
 url: "/recursos-fisica-quimica/apunts/4eso/moviments"
 subtitle: MRU, MRUA i MCU
-summary: "`🔜 PROPERAMENT` <br> MRU, MRUA i MCU."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> MRU, MRUA i MCU."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]
 authors:
 - rodrigo-alcaraz-de-la-osa

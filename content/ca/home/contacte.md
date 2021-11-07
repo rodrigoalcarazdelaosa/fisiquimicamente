@@ -28,7 +28,7 @@ content:
 design:
   columns: '1'
   background:
-    color: "#FFFFF8"
+    # color: "#FFFFF8"
 
 advanced:
   css_style: "padding-bottom: 0px;"

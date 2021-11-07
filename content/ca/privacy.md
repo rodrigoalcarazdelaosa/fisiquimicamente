@@ -13,7 +13,7 @@ breadcrumbs: [""]
 
 [^1]: S'enllacen també les seves respectives polítiques de privacitat.
 
-- [<img draggable="false" class="icon" alt="github" src="/icon/github.jpg"> Github](https://docs.github.com/es/github/site-policy/github-privacy-statement) per l'allotjament del seu [codi font](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
+- [{{< icon name="github" pack="fab" >}}GitHub](https://docs.github.com/es/github/site-policy/github-privacy-statement) per l'allotjament del seu [codi font](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
 - [<img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"> Netlify](https://www.netlify.com/privacy/) pel seu desplegament/servei i per al [formulari de contacte](/#contacte).
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) per tipografies[^2].
 - [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) i [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) per emojis i icones.

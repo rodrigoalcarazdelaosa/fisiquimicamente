@@ -2,7 +2,7 @@
 title: Cantabria 2018
 url: "/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o2-e4"
 subtitle: Ejercicio 4 de la Opción 2
-summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Ejercicio 4 de la Opción 2."
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Ejercicio 4 de la Opción 2."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa

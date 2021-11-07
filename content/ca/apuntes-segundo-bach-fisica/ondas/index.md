@@ -2,7 +2,7 @@
 title: Ones
 url: "/recursos-fisica-quimica/apunts/2batx/fisica/ones"
 subtitle: Propagació d'ones transversals i longitudinals
-summary: "`🔜 PROPERAMENT` <br> Propagació d'ones transversals i longitudinals. Equació de les ones harmòniques. Energia i intensitat. So i llum."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Propagació d'ones transversals i longitudinals. Equació de les ones harmòniques. Energia i intensitat. So i llum."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
 - 2n Batx

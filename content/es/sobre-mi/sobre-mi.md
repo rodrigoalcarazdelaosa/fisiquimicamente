@@ -40,7 +40,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "#FFFFF8"
+  # color = "#FFFFF8"
   
   # Background gradient.
   # gradient_start = "#BBCCEE"

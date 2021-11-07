@@ -2,7 +2,7 @@
 title: Organic Chemistry
 url: "physics-chemistry-notes/17-18-year-olds/chemistry/organic-chemistry"
 subtitle: 
-summary: "`🔜 COMING SOON`"
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code>"
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]
 tags:
 - 17-18-year-olds

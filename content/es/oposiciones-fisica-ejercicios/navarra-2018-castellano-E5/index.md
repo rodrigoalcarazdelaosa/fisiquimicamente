@@ -2,7 +2,7 @@
 title: Navarra 2018
 url: "/recursos-fisica-quimica/oposiciones/fisica/navarra-2018-castellano-e5"
 subtitle: Castellano · Ejercicio 5
-summary: "<code style='background:#CCDDAA'>🆕 NOVEDAD</code> <br> Castellano · Ejercicio 5."
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Castellano · Ejercicio 5."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa

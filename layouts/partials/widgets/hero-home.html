@@ -9,14 +9,44 @@
 
     {{ with $page.Title }}      
       {{ if eq $page.Title "FisiQuímicamente" }}
-        {{- $logo := resources.Get ("media/logo-fisiquimicamente.svg") -}}
-        <h1 class="hero-title"><img draggable="false" alt="fisiquimicamente" src="{{ $logo.RelPermalink }}" width="100%"></h1>
+        {{- $logo := resources.Get ("media/logo-fisiquimicamente.svg") -}}        
+        <h1 class="hero-title"><img draggable="false" alt="fisiquimicamente" src="{{ $logo.RelPermalink }}" width="100%" id="fisiquimicamente"></h1>        
+        <script>
+        document.addEventListener('wcThemeChange', (e) => {
+          // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+          if (e.detail.isDarkTheme()) {
+            document.getElementById("fisiquimicamente").src="/icon/logo-fisiquimicamente-dark.svg";
+          } else {
+            document.getElementById("fisiquimicamente").src="/icon/logo-fisiquimicamente.svg";
+          }
+          });
+        </script>
       {{ else if eq $page.Title "PhysiChemically" }}
         {{- $logo := resources.Get ("media/logo-physichemically.svg") -}}
-        <h1 class="hero-title"><img draggable="false" alt="physichemically" src="{{ $logo.RelPermalink }}" width="100%"></h1>
+        <h1 class="hero-title"><img draggable="false" alt="physichemically" src="{{ $logo.RelPermalink }}" width="100%" id="physichemically"></h1>
+        <script>
+          document.addEventListener('wcThemeChange', (e) => {
+            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+            if (e.detail.isDarkTheme()) {
+              document.getElementById("physichemically").src="/icon/logo-physichemically-dark.svg";
+            } else {
+              document.getElementById("physichemically").src="/icon/logo-physichemically.svg";
+            }
+            });
+          </script>
       {{ else if eq $page.Title "FisiQuímicament" }}
         {{- $logo := resources.Get ("media/logo-fisiquimicament.svg") -}}
-        <h1 class="hero-title"><img draggable="false" alt="fisiquimicament" src="{{ $logo.RelPermalink }}" width="100%"></h1>
+        <h1 class="hero-title"><img draggable="false" alt="fisiquimicament" src="{{ $logo.RelPermalink }}" width="100%" id="fisiquimicament"></h1>
+        <script>
+          document.addEventListener('wcThemeChange', (e) => {
+            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+            if (e.detail.isDarkTheme()) {
+              document.getElementById("fisiquimicament").src="/icon/logo-fisiquimicament-dark.svg";
+            } else {
+              document.getElementById("fisiquimicament").src="/icon/logo-fisiquimicament.svg";
+            }
+            });
+          </script>
       {{ end }}
     {{ end }}
 
@@ -81,9 +111,20 @@
         <lottie-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></lottie-player>
       {{ else if eq $animation_type "tgs" }}
         <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
-        <tgs-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></tgs-player>      
+        <tgs-player autoplay loop mode="normal" style="width: 100%; height:auto"></tgs-player>
+        <script>
+          document.addEventListener('wcThemeChange', (e) => {
+            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+            if (e.detail.isDarkTheme()) {
+              const player = document.querySelector("tgs-player");
+              player.load("/media/lottie/home-dark.tgs");
+            } else {
+              const player = document.querySelector("tgs-player");
+              player.load("/media/lottie/home.tgs");
+            }
+            });
+          </script>
       {{ else if $isSVG -}}
-
         <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}">
 
       {{- else }}

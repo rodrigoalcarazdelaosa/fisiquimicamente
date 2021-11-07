@@ -69,10 +69,34 @@
 
       {{ if eq $animation_type "json" }}
         <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
-        <lottie-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></lottie-player>        
+        <lottie-player autoplay loop mode="normal" style="width: 100%; height:auto"></lottie-player>
+        <script>
+          document.addEventListener('wcThemeChange', (e) => {
+            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+            if (e.detail.isDarkTheme()) {
+              const player = document.querySelector("lottie-player");
+              player.load({{ $image.RelPermalink }}.slice(0, -5).concat("-dark.json"));
+            } else {
+              const player = document.querySelector("lottie-player");
+              player.load("{{ $image.RelPermalink }}");
+            }
+          });
+        </script>
       {{ else if eq $animation_type "tgs" }}
         <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
-        <tgs-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></tgs-player>      
+        <tgs-player autoplay loop mode="normal" style="width: 100%; height:auto"></tgs-player>
+        <script>
+          document.addEventListener('wcThemeChange', (e) => {
+            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+            if (e.detail.isDarkTheme()) {
+              const player = document.querySelector("tgs-player");
+              player.load({{ $image.RelPermalink }}.slice(0, -4).concat("-dark.tgs"));
+            } else {
+              const player = document.querySelector("tgs-player");
+              player.load("{{ $image.RelPermalink }}");
+            }
+          });
+        </script>
       {{ else if $isSVG -}}
 
         <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}">

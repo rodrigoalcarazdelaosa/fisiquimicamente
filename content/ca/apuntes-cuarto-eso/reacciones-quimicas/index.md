@@ -2,7 +2,7 @@
 title: Reaccions químiques
 url: "/recursos-fisica-quimica/apunts/4eso/reaccions-quimiques"
 subtitle: Ajust d'equacions químiques i càlculs estequiomètrics
-summary: "`🔜 PROPERAMENT` <br> Ajust d'equacions químiques, càlculs massa-massa i càlculs massa-volum."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Ajust d'equacions químiques, càlculs massa-massa i càlculs massa-volum."
 breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]
 authors:
 - rodrigo-alcaraz-de-la-osa

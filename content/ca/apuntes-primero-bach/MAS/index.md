@@ -2,7 +2,7 @@
 title: MHS
 url: "/recursos-fisica-quimica/apunts/1batx/mhs"
 subtitle: Moviment harmònic simple
-summary: "`🔜 PROPERAMENT` <br> Moviment harmònic simple."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Moviment harmònic simple."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 authors:
 - rodrigo-alcaraz-de-la-osa

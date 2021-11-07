@@ -3,8 +3,7 @@ widget: hero-lottie
 headless: true
 weight: 1
 title: 🗒️ Actividades de Física y Química
-hero_media: "lottie/actividades.json"
-hero_media_caption: "Animación Lottie de [**Ragnar Snær**](https://lottiefiles.com/55628-education)"
+hero_media: "lottie/actividades.tgs"
 cta:
   label: '**Explora**'
   url: "recursos-fisica-quimica/actividades/#actividades"
@@ -17,7 +16,7 @@ cta_note:
   label: Si te gustan estas **actividades** no dudes en pasarte por la [excelente **página web** de **Miguel Quiroga**](https://www.miguelquiroga.es).
 design:
   background:
-    color: "#FFFFF8"
+    # color: "#FFFFF8"
 advanced:
   css_style: "padding-bottom: 0px"
   css_class: 

@@ -2,7 +2,7 @@
 title: Moviment parabòlic
 url: "/recursos-fisica-quimica/apunts/1batx/moviment-parabolic"
 subtitle: Estudi de l'tir parabòlic o oblic
-summary: "`🔜 PROPERAMENT` <br> Estudi de l'tir parabòlic o oblic."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Estudi de l'tir parabòlic o oblic."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 tags:
 - 1r Batx

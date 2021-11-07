@@ -2,7 +2,7 @@
 title: L'activitat científica
 url: "/recursos-fisica-quimica/apunts/2eso-3eso/activitat-cientifica"
 subtitle: "Mètode científic, magnituds i laboratori escolar"
-summary: "`🔜 PROPERAMENT` <br> Mètode científic. Magnituds. Laboratori escolar."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Mètode científic. Magnituds. Laboratori escolar."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2neso-3reso"]
 authors:
 - rodrigo-alcaraz-de-la-osa

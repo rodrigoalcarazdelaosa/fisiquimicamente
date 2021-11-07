@@ -2,7 +2,7 @@
 title: Óptica geométrica
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/optica-geometrica"
 subtitle: Leyes de la óptica geométrica y sistemas ópticos
-summary: "`🔜 PRÓXIMAMENTE` <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
+summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 tags:
 - 2º Bach
@@ -31,6 +31,8 @@ links:
 ---
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
+
+<!-- https://twitter.com/phetsims/status/1454135524331905028?s=21 -->
 
 <!-- https://animagraffs.com/human-eye/ -->
 
