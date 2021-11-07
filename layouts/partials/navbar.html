@@ -98,7 +98,7 @@
             </script>
       {{ else if eq .Site.Language.Lang "en" }}
         {{ $logo = resources.Get "media/logo-mob-en.svg" }}
-        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
+        <img style="max-height: 14px" src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
            {{with site.Params.header.image.width}}width="{{.}}"{{end}}
            {{with site.Params.header.image.height}}height="{{.}}"{{end}} id="logo-mob">
            <script>
