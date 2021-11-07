@@ -175,6 +175,11 @@ blockquote {
   color: $nord4;
   border-left: .25rem solid $nord4;
 }
+
+.dark .alert-example blockquote {
+  color: $nord3;
+  border-left: .25rem solid $nord3;
+}
   
 /*************************************************
  *  Pager
@@ -647,6 +652,14 @@ a.summary-link {
 
 #search-box #search-query {
   border: 1px solid $primary;
+}
+
+input[type="search"]::-webkit-search-cancel-button {  
+  color: $nord3;
+}
+
+.dark input[type="search"]::-webkit-search-cancel-button {  
+  color: $nord4;
 }
   
 .search-hit em, .dark .search-hit em {
@@ -1388,15 +1401,7 @@ applause-button {
 	  color: $nord3;
       text-align: center;
     }
-  }
-
-  .dark .count-container {    
-    color: $nord6;    
-
-    .dark .count {
-	    color: $nord4;      
-    }
-  }
+  }  
 
   g.sparkle {
     circle {
@@ -1432,6 +1437,16 @@ applause-button {
 
     .count {
       @include animate-once(hideThenShow);
+    }
+  }
+}
+
+.dark applause-button {
+  .count-container {
+    color: $nord6;
+
+    .count {
+      color: $nord4;
     }
   }
 }
