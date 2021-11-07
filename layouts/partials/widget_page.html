@@ -129,10 +129,14 @@
 		  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
 		  if (e.detail.isDarkTheme()) {
 			el = document.getElementById("divider-widget");
-			el.style.backgroundImage = "url('{{ "media/divider-dark.svg" | absURL }}')";
+			if (el != null) {
+				el.style.backgroundImage = "url('{{ "media/divider-dark.svg" | absURL }}')";
+			}
 		  } else {
 			el = document.getElementById("divider-widget");
-			el.style.backgroundImage = "url('{{ "media/divider.svg" | absURL }}')";
+			if (el != null) {
+				el.style.backgroundImage = "url('{{ "media/divider.svg" | absURL }}')";
+			}
 		  }
 		  });
 		</script>	
