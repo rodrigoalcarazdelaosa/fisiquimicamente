@@ -184,7 +184,7 @@ En cas de ser **substituent**, es denomina ***fenil***.
 
 {{< spoiler text="Com és millor representar el benzè? Punxa aquí per a llegir una interessant discussió en forma de 🧵 fil de Twitter" >}}
 <div align="center">
-{{< tweet 1316297800607563778 >}}
+{{< tweet user="fqmente" id="1316297800607563778" >}}
 </div>
 {{< /spoiler >}}
 

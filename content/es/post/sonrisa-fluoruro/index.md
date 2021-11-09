@@ -22,10 +22,10 @@ image:
 {{% callout note %}}
 Entrada basada en los siguientes 🧵 hilos de Twitter:
 <div align="center">
-{{< tweet 1353192474790006784 >}}
+{{< tweet user="ricestrada" id="1353192474790006784" >}}
 </div>
 <div align="center">
-{{< tweet 1356802160793710592 >}}
+{{< tweet user="ricestrada" id="1356802160793710592" >}}
 </div>
 {{% /callout %}}
 

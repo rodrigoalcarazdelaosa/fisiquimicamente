@@ -315,7 +315,7 @@ $$
 Aprende más sobre la **energía** del **MAS** con este excelente 🧵 **hilo** sobre el **oscilador armónico simple**:
 
 <div align="center">
-{{< tweet 1345689336549941248 >}}
+{{< tweet user="RayleighLord" id="1345689336549941248" >}}
 </div>
 
 {{% /section %}}

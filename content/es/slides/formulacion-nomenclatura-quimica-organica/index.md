@@ -283,7 +283,7 @@ En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 
 ##### ¿Cómo es mejor representar el benceno?
 <div align="center">
-{{< tweet 1316297800607563778 >}}
+{{< tweet user="fqmente" id="1316297800607563778" >}}
 </div>
 
 ---

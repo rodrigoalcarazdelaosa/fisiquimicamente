@@ -219,7 +219,7 @@ gallery_item:
 [Álex Riveiro](https://www.youtube.com/alexriveiro) nos recuerda que la NASA publicó el año pasado [este conjunto de pósters](https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set/) *mostrando la belleza de nuestro sistema solar y más allá*:
 
 <div align="center">
-{{< tweet 1262678794554486784 >}}
+{{< tweet user="alex_riveiro" id="1262678794554486784" >}}
 </div>
 
 {{% callout note %}}

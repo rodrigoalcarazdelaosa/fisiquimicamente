@@ -155,7 +155,7 @@ Se han dado usos totalmente disparatados. Hacen referencia, por ejemplo, a sales
 Me gustaría aprovechar para citar el fantástico 🧵 hilo de Twitter de [Operador Nuclear](https://twitter.com/OperadorNuclear), donde podéis curiosear sobre otros usos que se le han dado al radio a lo largo de la historia:
 
 <div align="center">
-{{< tweet 1246409811471806464 >}}
+{{< tweet user="OperadorNuclear" id="1246409811471806464" >}}
 </div>
 
 ## Radioterapia
