@@ -160,6 +160,11 @@ hr {
   background-image: linear-gradient(to right, $nord6, $nord3, $nord2, $nord1, $nord0, $nord1, $nord2, $nord3, $nord6);
 }
 
+.dark hr {
+  background: $nord6;
+  background-image: linear-gradient(to right, $nord0, $nord4, $nord5, $nord6, $nord5, $nord4, $nord0);
+}
+
 .alert-example hr {
   background: $nord0;
   background-image: linear-gradient(to right, $nord14, $nord3, $nord2, $nord1, $nord0, $nord1, $nord2, $nord3, $nord14);
