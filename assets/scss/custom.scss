@@ -615,7 +615,7 @@ a.summary-link {
 }
 
 .card {
-  background: $nord5;
+  background: $nord5;  
 }
 
 .card-simple {
@@ -623,7 +623,7 @@ a.summary-link {
 }
 
 .dark .card, .dark .card-simple {
-  background: $nord2;
+  background: $nord2;  
 }
 
 .card .card-text p {
@@ -640,7 +640,12 @@ a.summary-link {
 
 .card-body {
   color: $nord0;
-  background: $sta-background;
+  background: $nord5;
+}
+
+.dark .card-body {
+  color: $nord6;
+  background: $nord2;
 }
 
 /*************************************************
@@ -901,6 +906,10 @@ div.card-text a {
   color: $nord6;
 }
 
+.dark .card .section-subheading a {
+  color: $nord6;
+}
+
 .section-heading p {
   font-family: $sta-font-heading, sans-serif;
   color: $nord2;
@@ -908,12 +917,24 @@ div.card-text a {
 
 .dark .section-heading p {  
   color: $nord5;
-}  
+}
 
 .section-heading a {
   color: currentColor;
   text-decoration: none;
   border-bottom: solid 1px currentColor;
+}
+
+.card .section-subheading a:hover {
+  color: $nord0;
+  border-bottom: solid 1px $nord0;
+  text-decoration: none;
+}
+
+.dark .card .section-subheading a:hover {
+  color: $nord6;
+  border-bottom: solid 1px $nord6;
+  text-decoration: none;
 }
 
 /*************************************************
