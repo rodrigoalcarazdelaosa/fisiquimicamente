@@ -937,6 +937,15 @@ div.card-text a {
   text-decoration: none;
 }
 
+.dark .experience .m-2 .border,
+.dark .experience .col.border-right {
+  border-color: $nord6 !important;
+}
+
+.dark .experience .m-2 .border.exp-fill {
+  background-color: $nord6 !important;
+}
+
 /*************************************************
  *  Hero Widget
  **************************************************/
