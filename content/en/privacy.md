@@ -20,7 +20,6 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="onesignal" src="/icon/onesignal.svg"> One Signal](https://onesignal.com/privacy_policy) for the push notifications.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) for the *coffees* (donations).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) to speed up and monetize[^3] the website (bottom left corner <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
-- [<img draggable="false" class="icon" alt="cusdis" src="/icon/cusdis.svg"> Cusdis](https://cusdis.com/privacy-policy) for the 💬 comments.
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) for web analytics.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) for the [license](/license).
 

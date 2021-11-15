@@ -48,10 +48,6 @@ The posts in this blog are aimed at our students and anyone else who is curious 
 
 Do you know [Discord](https://discord.com/)? [Join the Discord server of <img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
 
-### Comments
-
-In all the blog posts as well as in the [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can leave us 💬&nbsp;**comments**.
-
 ### Kudos
 
 In all the blog posts as well as in the [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* us <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. There are *likes* and then there are *kudos*. This word, from the Greek κῦδος, means *fame*, *glory* or *prestige*. By giving us kudos you are acknowledging and praising our effort, encouraging us to continue preparing quality materials.

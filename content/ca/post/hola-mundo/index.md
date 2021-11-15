@@ -48,10 +48,6 @@ Les entradas d'aquest blog van dirigidas al nostre alumnat i a tots aquells que 
 
 Coneixes [Discord](https://discord.com/)? [Uneix-te al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](https://discord.gg/kJqPqTJ) i comença a **participar** a la web comentant, donant la teva opinió, realitzant peticions, suggeriments, etc.
 
-### Comentaris
-
-En totes les entrades del blog així com en els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) pots deixar-nos 💬&nbsp;**comentaris**.
-
 ### Kudos
 
 En totes les entrades del blog així com en els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) pots *donar-nos* <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. Hi ha *likes* i després hi ha *kudos*. Aquesta paraula, provinent del grec κῦδος, significa *fama*, *glòria* o *prestigi*. Donant-nos kudos estàs reconeixent i lloant el nostre esforç, animant-nos a seguir preparant materials de qualitat.

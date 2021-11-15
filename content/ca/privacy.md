@@ -21,7 +21,6 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="onesignal" src="/icon/onesignal.svg"> One Signal](https://onesignal.com/privacy_policy) per a les notificacions *push*.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) per accelerar i monetitzar[^3] el web (cantonada inferior esquerra <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
-- [<img draggable="false" class="icon" alt="cusdis" src="/icon/cusdis.svg"> Cusdis](https://cusdis.com/privacy-policy) per als 💬 comentaris.
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) per a les analítiques web.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) per la [llicència](/llicencia).
 
