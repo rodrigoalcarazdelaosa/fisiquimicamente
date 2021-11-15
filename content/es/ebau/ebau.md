@@ -27,8 +27,9 @@ subtitle = ""
   description = "[📝 Exámenes completos](quimica/examenes-completos) · [🗂️ Por temas](quimica/por-temas)"
   
 [[feature]]
-  icon = "[💡](consejos)"
-  icon_pack = "emoji"
+  icon = "consejos"
+  icon_link = "consejos"
+  icon_pack = "tgs"
   name = "[Consejos](consejos)"
   description = ""  
   

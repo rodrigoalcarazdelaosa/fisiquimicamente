@@ -15,14 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[💻](recursos-online)"
-  icon_pack = "emoji"
+  icon = "recursos-online"
+  icon_link = "recursos-online/"
+  icon_pack = "tgs"
   name = "[Recursos online](recursos-online)"
   description = ""
   
 [[feature]]
-  icon = "[🤗](paginas-amigas)"
-  icon_pack = "emoji"
+  icon = "paginas-amigas"
+  icon_link = "paginas-amigas/"
+  icon_pack = "tgs"
   name = "[Páginas amigas](paginas-amigas)"
   description = ""
   

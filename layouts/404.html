@@ -39,8 +39,7 @@
 
   <div class="col-12 mx-auto col-md-6 hero-media">
 
-    {{- $404_tgs := resources.Get ("media/lottie/404.tgs") -}}
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/tgs-player.js"></script>
+    {{- $404_tgs := resources.Get ("media/lottie/404.tgs") -}}    
     <tgs-player autoplay loop mode="normal" src="{{ $404_tgs.RelPermalink }}" style="width: 100%; height:auto"></tgs-player>
   </div>
 

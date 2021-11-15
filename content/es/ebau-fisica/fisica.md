@@ -15,14 +15,16 @@ subtitle = "☢️ Física"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📝](examenes-completos)"
-  icon_pack = "emoji"
+  icon = "oposiciones"
+  icon_link = "examenes-completos/"
+  icon_pack = "tgs"
   name = "[Exámenes completos](examenes-completos)"
   description = ""
   
 [[feature]]
-  icon = "[🗂️](por-temas)"
-  icon_pack = "emoji"
+  icon = "por-temas"
+  icon_link = "por-temas/"
+  icon_pack = "tgs"
   name = "[Por temas](por-temas)"
   description = ""
   

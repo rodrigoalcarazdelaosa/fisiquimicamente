@@ -15,26 +15,30 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📚](apuntes)"
-  icon_pack = "emoji"
+  icon = "apuntes"
+  icon_link = "apuntes/"
+  icon_pack = "tgs"
   name = "[Apuntes](apuntes)"
   description = "[📗 2.º ESO](apuntes/2eso) · [📘 3.º ESO](apuntes/3eso) · [📙 4.º ESO](apuntes/4eso) <br> [📕 1.º Bach](apuntes/1bach) · [📓 2.º Bach](apuntes/2bach) <br> [📔 Formulación y nomenclatura de Química](apuntes/formulacion-nomenclatura-quimica)"
 
 [[feature]]
-  icon = "[🗒️](actividades)"
-  icon_pack = "emoji"
+  icon = "actividades"
+  icon_link = "actividades/"
+  icon_pack = "tgs"
   name = "[Actividades](actividades)"
   description = "[📗 2.º ESO](actividades/2eso) · [📘 3.º ESO](actividades/3eso) · [📙 4.º ESO](actividades/4eso) <br> [📕 1.º Bach](actividades/1bach) · [📓 2.º Bach](actividades/2bach) <br> [📔 Formulación y nomenclatura de Química](actividades/formulacion-nomenclatura-quimica)"
   
 [[feature]]
-  icon = "[🎓](ebau)"
-  icon_pack = "emoji"
+  icon = "ebau"
+  icon_link = "ebau/"
+  icon_pack = "tgs"
   name = "[EBAU](ebau)"
   description = "[☢️ Física](ebau/fisica) · [⚗️ Química](ebau/quimica) · [💡Consejos](ebau/consejos)"
   
 [[feature]]
-  icon = "[📝](oposiciones)"
-  icon_pack = "emoji"
+  icon = "oposiciones"
+  icon_link = "oposiciones/"
+  icon_pack = "tgs"
   name = "[Oposiciones](oposiciones)"
   description = "[☢️ Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
    

@@ -31,6 +31,38 @@
       {{- else if eq $pack "custom" -}}
         {{- $svg_icon := resources.Get (printf "media/icons/%s.svg" .) -}}
         {{- if $svg_icon -}}<span><a href="{{$link}}"><img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline"></a></span>{{- end -}}
+      {{- else if eq $pack "lottie" -}}
+        {{- $lottie_animation := resources.Get (printf "media/lottie/%s.json" .) -}}
+        {{- if $lottie_animation -}}<span><a href="{{$link}}"><lottie-player autoplay loop mode="normal" src="{{ $lottie_animation.RelPermalink }}" style="width: 6rem; height:auto" id="{{ printf "%s" . }}"></lottie-player></a></span>
+        <script>
+          document.addEventListener('wcThemeChange', (e) => {
+            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+            if (e.detail.isDarkTheme()) {
+              const player = document.querySelector("#{{ printf "%s" . }}");              
+              player.load({{ $lottie_animation.RelPermalink }}.slice(0, -5).concat("-dark.json"));
+            } else {
+              const player = document.querySelector("#{{ printf "%s" . }}");
+              player.load("{{ $lottie_animation.RelPermalink }}");
+            }
+          });
+        </script>
+        {{- end -}}
+      {{- else if eq $pack "tgs" -}}
+        {{- $tgs_sticker := resources.Get (printf "media/lottie/%s.tgs" .) -}}
+        {{- if $tgs_sticker -}}<span><a href="{{$link}}"><tgs-player autoplay loop mode="normal" src="{{ $tgs_sticker.RelPermalink }}" style="width: 6rem; height:auto" id="{{ printf "%s" . }}"></tgs-player></a></span>
+        <script>
+          document.addEventListener('wcThemeChange', (e) => {
+            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+            if (e.detail.isDarkTheme()) {
+              const player = document.querySelector("#{{ printf "%s" . }}");
+              player.load({{ $tgs_sticker.RelPermalink }}.slice(0, -4).concat("-dark.tgs"));
+            } else {
+              const player = document.querySelector("#{{ printf "%s" . }}");
+              player.load("{{ $tgs_sticker.RelPermalink }}");
+            }
+          });
+        </script>
+        {{- end -}}
       {{- else -}}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
       {{- end -}}
