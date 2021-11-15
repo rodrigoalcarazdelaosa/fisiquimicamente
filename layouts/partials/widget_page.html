@@ -121,7 +121,7 @@
 
   {{/* Dedicated child div for bg prevents parallax 100% height issue within new CSS grid page wrapper. */}}
   <section id="{{$hash_id}}" class="home-section {{$widget_class}} {{if $bg.text_color_light}}dark{{else if (eq $bg.text_color_light false)}}light{{end}} {{with $css_classes}}{{.}}{{end}}" {{with $style}}style="{{. | safeCSS}}"{{end}} {{print $extra_attributes | safeHTMLAttr}}>
-	<div class="home-section-bg {{if $bg.image}} bg-image{{if ($bg.image_parallax | default true) }} parallax{{end}}{{end}}" {{with $style_bg}}style="{{. | safeCSS}}"{{end}} {{ if eq $widget "blank" }}id="divider-widget"{{ end }}>
+	<div class="home-section-bg {{if $bg.image}} bg-image{{if ($bg.image_parallax | default true) }} parallax{{end}}{{end}}" {{with $style_bg}}style="{{. | safeCSS}}"{{end}} {{ if (eq $widget "blank") }}{{ if and (ne $st.Params.subtitle "💡Consejos") (ne $st.Params.subtitle "💡Consells") }}id="divider-widget"{{ end }}{{ end }}>
 	  {{with $bg_video}}<video class="bg-video {{$bg_video_class}}" playsinline="" preload="auto" loop="" muted autoplay="" tabindex="-1" width="100%" height="100%" src="{{.RelPermalink}}" style="width: 100%; height: 100%; object-fit: cover; object-position: center center; opacity: 1;"></video>{{end}}
 	</div>	
 	<script>
@@ -668,7 +668,7 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🗂️ Por temas</li>
 	    </ol>
-	    </nav>		
+	    </nav>
     {{ else if and (eq $widget "blank") (eq $st.Params.subtitle "💡Consejos") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
