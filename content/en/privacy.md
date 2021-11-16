@@ -15,7 +15,7 @@ breadcrumbs: [""]
 - [{{< icon name="github" pack="fab" >}}GitHub](https://docs.github.com/en/github/site-policy/github-privacy-statement) for hosting its [source code](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
 - [<img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"> Netlify](https://www.netlify.com/privacy/) for deploying/serving it and for the [contact form](/#contact).
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) for typefaces[^2].
-- [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) and [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) for emojis and icons.
+- [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) for icons.
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) for the [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [<img draggable="false" class="icon" alt="onesignal" src="/icon/onesignal.svg"> One Signal](https://onesignal.com/privacy_policy) for the push notifications.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) for the *coffees* (donations).

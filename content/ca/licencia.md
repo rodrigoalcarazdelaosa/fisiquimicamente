@@ -16,4 +16,4 @@ Els [📚 <span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/ap
 <i class="fab fa-creative-commons fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-by fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-sa fa-2x aria-hidden="true" "></i>
 </div>
 
-Amb emojis de <a href="https://twemoji.twitter.com" target="_blank" rel="noopener" title="Twemoji"><img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji</a>, gràcies a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" target="_blank" rel="noopener" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; i stickers animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.
+Amb stickers animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.

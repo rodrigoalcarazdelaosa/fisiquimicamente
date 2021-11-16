@@ -8,7 +8,7 @@ Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
 &copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
 
-Con emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, gracias a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; y stickers animados de <a href="https://telegram.org/blog/animated-stickers/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
+Con stickers animados de <a href="https://telegram.org/blog/animated-stickers/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
 Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
     el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
@@ -24,7 +24,7 @@ Physics and Chemistry Resources, Tutorials and Current Science.
 
 &copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
 
-With emojis from <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, thanks to <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; and animated stickers from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
+With animated stickers from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
 Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
@@ -40,7 +40,7 @@ Recursos de Física i Química, tutorials i ciència d'actualitat.
 
 &copy; 2020&ndash;2021 Rodrigo Alcaraz de la Osa
 
-Amb emojis de <a href="https://twemoji.twitter.com" title="Twemoji">Twemoji</a>, gràcies a <a href="https://github.com/jakejarvis/hugo-mod-twemoji" title="hugo-mod-twemoji">hugo-mod-twemoji</a>; i stickers animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
+Amb stickers animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
 Publicat amb <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
     el constructor de llocs web gratuït i <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">

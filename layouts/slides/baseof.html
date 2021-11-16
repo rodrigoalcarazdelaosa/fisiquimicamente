@@ -68,8 +68,5 @@
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" (dict "slides" $.Params.slides )) }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
 
-  <!--Twemoji-->
-  {{ partial "twemoji" . }}
-
 </body>
 </html>

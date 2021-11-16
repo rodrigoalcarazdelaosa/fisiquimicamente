@@ -16,7 +16,7 @@ breadcrumbs: [""]
 - [{{< icon name="github" pack="fab" >}}GitHub](https://docs.github.com/es/github/site-policy/github-privacy-statement) per l'allotjament del seu [codi font](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
 - [<img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"> Netlify](https://www.netlify.com/privacy/) pel seu desplegament/servei i per al [formulari de contacte](/#contacte).
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) per tipografies[^2].
-- [<img draggable="false" class="icon" alt="twitter" src="/icon/twitter.svg"> Twemoji](https://twitter.com/es/privacy) i [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) per emojis i icones.
+- [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) per icones.
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) pels [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [<img draggable="false" class="icon" alt="onesignal" src="/icon/onesignal.svg"> One Signal](https://onesignal.com/privacy_policy) per a les notificacions *push*.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions).
