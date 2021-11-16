@@ -1608,6 +1608,10 @@ applause-button {
 #popup-content a, #popup-content a:link, #popup-content a:visited {
   color: $nord8;
 }
+
+.dark #popup-content a, .dark #popup-content a:link, .dark #popup-content a:visited {
+  color: $nord10;
+}
   
 a.footnote-ref, .dark a.footnote-ref {
   position: relative;
