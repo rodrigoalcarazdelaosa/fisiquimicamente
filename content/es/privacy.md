@@ -20,6 +20,7 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> Applause Button](https://applause-button.com) para los [kudos]({{< relref "/post/hola-mundo#kudos" >}}).
 - [<img draggable="false" class="icon" alt="onesignal" src="/icon/onesignal.svg"> One Signal](https://onesignal.com/privacy_policy) para las notificaciones *push*.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) para los *cafés* (donaciones).
+- [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) para el widget de [{{< icon name="discord" pack="fab" >}}Discord](https://discord.gg/kJqPqTJ).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) para acelerar y monetizar[^3] la web (esquina inferior izquierda <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) para las analíticas web.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) para la [licencia](/licencia).

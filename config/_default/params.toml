@@ -213,13 +213,10 @@ footer = {show_translations = true}
 ############################
 [comments]
 
-  provider = ""  
+  provider = "discord"
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, apuntes-segundo-tercero-eso = true, apuntes-cuarto-eso = true, apuntes-primero-bach = true, apuntes-segundo-bach-fisica = true, apuntes-segundo-bach-quimica = true, apuntes-formulacion = true, actividades-segundo-tercero-eso = true, actividades-cuarto-eso = true, actividades-primero-bach = true, actividades-segundo-bach-fisica = true, actividades-segundo-bach-quimica = true, actividades-formulacion = true, EBAU-fisica-examenes = true, EBAU-fisica-preguntas = true, PAU-fisica-examenes = true, PBAU-fisica-examenes = true, EBAU-quimica-examenes = true, EBAU-quimica-preguntas = true, PAU-quimica-examenes = true, oposiciones-fisica-ejercicios = true, oposiciones-quimica-ejercicios = true}
-
-  [comments.cusdis]
-    data_app_id = ""  
+  commentable = {page = true, post = true, apuntes-segundo-tercero-eso = true, apuntes-cuarto-eso = true, apuntes-primero-bach = true, apuntes-segundo-bach-fisica = true, apuntes-segundo-bach-quimica = true, apuntes-formulacion = true, actividades-segundo-tercero-eso = true, actividades-cuarto-eso = true, actividades-primero-bach = true, actividades-segundo-bach-fisica = true, actividades-segundo-bach-quimica = true, actividades-formulacion = true, EBAU-fisica-examenes = true, EBAU-fisica-preguntas = true, PAU-fisica-examenes = true, PBAU-fisica-examenes = true, EBAU-quimica-examenes = true, EBAU-quimica-preguntas = true, PAU-quimica-examenes = true, oposiciones-fisica-ejercicios = true, oposiciones-quimica-ejercicios = true}  
 
 ############################
 ## Search
