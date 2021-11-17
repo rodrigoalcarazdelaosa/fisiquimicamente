@@ -30,34 +30,6 @@
 
   {{ partial "hooks/footer" . }}
 
-  <p class="powered-by">
-  {{ if eq .Site.Language.Lang "es" }}
-  👁️ Eres el visitante número&nbsp;<span id="visits"></span>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script>
-    $.getJSON("https://api.countapi.xyz/hit/fisiquimicamente.com/visits", function(response) {
-    $("#visits").text(response.value);
-});
-  </script>
-  {{ else if eq .Site.Language.Lang "en" }}
-  👁️ You are visitor number&nbsp;<span id="visits"></span>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script>
-    $.getJSON("https://api.countapi.xyz/hit/physichemically.com/visits", function(response) {
-    $("#visits").text(response.value);
-});
-  </script>
-  {{ else if eq .Site.Language.Lang "ca" }}
-  👁️ Ets el visitant número&nbsp;<span id="visits"></span>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script>
-    $.getJSON("https://api.countapi.xyz/hit/fisiquimicament.com/visits", function(response) {
-    $("#visits").text(response.value);
-});
-  </script>
-  {{ end }}
-</p>
-
   {{ if .IsTranslated | and site.Params.footer.show_translations }}
      <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
        <div class="p-2 font-weight-bold">🌐 {{ i18n "languages" }}:</div>
