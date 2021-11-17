@@ -48,13 +48,9 @@ Les entradas d'aquest blog van dirigidas al nostre alumnat i a tots aquells que 
 
 Coneixes [Discord](https://discord.com/)? [Uneix-te al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](https://discord.gg/kJqPqTJ) i comença a **participar** a la web comentant, donant la teva opinió, realitzant peticions, suggeriments, etc.
 
-### Kudos
-
-En totes les entrades del blog així com en els [📚&nbsp;<span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) pots *donar-nos* <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. Hi ha *likes* i després hi ha *kudos*. Aquesta paraula, provinent del grec κῦδος, significa *fama*, *glòria* o *prestigi*. Donant-nos kudos estàs reconeixent i lloant el nostre esforç, animant-nos a seguir preparant materials de qualitat.
-
 ### *Cafès* (donacions)
 
-Si vols, [pots convidar-nos a un cafè](https://paypal.me/fisiquimicamente) utilitzant el servei [{{< icon name="paypal" pack="fab" >}}PayPal.Me](https://www.paypal.com/es/webapps/mpp/paypal-me). Tots els *cafès* es destinaran a pagar i seguir millorant [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/).
+Si vols reconèixer i lloar el nostre esforç, animant-nos a seguir preparant materials de qualitat, [pots convidar-nos a un cafè](https://paypal.me/fisiquimicamente) utilitzant el servei [{{< icon name="paypal" pack="fab" >}}PayPal.Me](https://www.paypal.com/es/webapps/mpp/paypal-me). Tots els *cafès* es destinaran a pagar i seguir millorant [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/).
 
 ### Compartint
 

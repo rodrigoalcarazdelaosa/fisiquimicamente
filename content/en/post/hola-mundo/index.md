@@ -48,13 +48,9 @@ The posts in this blog are aimed at our students and anyone else who is curious 
 
 Do you know [Discord](https://discord.com/)? [Join the Discord server of <img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](https://discord.gg/kJqPqTJ) and start **participating** in the website by commenting, giving your opinion, making requests, suggestions, etc.
 
-### Kudos
-
-In all the blog posts as well as in the [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) you can *give* us <img draggable="false" class="icon" alt="kudos" src="/icon/kudos.svg"> ***kudos***. There are *likes* and then there are *kudos*. This word, from the Greek κῦδος, means *fame*, *glory* or *prestige*. By giving us kudos you are acknowledging and praising our effort, encouraging us to continue preparing quality materials.
-
 ### *Coffees* (donations)
 
-If you wish, [you can buy us a *coffee*](https://paypal.me/fisiquimicamente) using the [{{< icon name="paypal" pack="fab" >}}PayPal.Me](https://www.paypal.com/es/webapps/mpp/paypal-me) service. All the *coffees* will be used to pay for and to continue improving [<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/).
+If you wish to acknowledge and praise our effort, encouraging us to continue preparing quality materials, [you can buy us a *coffee*](https://paypal.me/fisiquimicamente) using the [{{< icon name="paypal" pack="fab" >}}PayPal.Me](https://www.paypal.com/es/webapps/mpp/paypal-me) service. All the *coffees* will be used to pay for and to continue improving [<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/).
 
 ### Sharing
 You can also <strong>share</strong> all the <strong>blog posts</strong> and [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.
