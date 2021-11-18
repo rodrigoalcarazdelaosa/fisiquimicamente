@@ -50,7 +50,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "contacto"
+  icon = "contacto-sticker"
   icon_link = "#contacto"
   icon_pack = "tgs"
   name = "[Contacto](#contacto)"
