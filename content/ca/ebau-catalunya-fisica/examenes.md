@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
 title = "🎓 PAU Catalunya"
-subtitle = "☢️ Física"
+subtitle = "🧲 Física"
 
 [content]
   # Page type to display. E.g. project.

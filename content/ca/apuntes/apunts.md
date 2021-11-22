@@ -42,7 +42,7 @@ subtitle = ""
   icon = "[📓](2batx)"
   icon_pack = "emoji"
   name = "[2n Batx](2batx)"
-  description = "[☢️ Física](2batx/fisica) · [⚗️ Química](2batx/quimica)"
+  description = "[🧲 Física](2batx/fisica) · [⚗️ Química](2batx/quimica)"
 
 [[feature]]
   icon = "[📔](formulacio-nomenclatura-quimica)"

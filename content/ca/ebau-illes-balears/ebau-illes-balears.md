@@ -12,7 +12,7 @@ title = "🎓 PBAU"
 subtitle = "Illes Balears"
 
 [[feature]]
-  icon = "[☢️](fisica)"
+  icon = "[🧲](fisica)"
   icon_pack = "emoji"
   name = "[Física](fisica)"
   description = ""

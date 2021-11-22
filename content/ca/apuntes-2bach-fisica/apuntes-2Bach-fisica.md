@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
 title = "📚 Apunts"
-subtitle = "📓 2n Batx ☢️ Física"
+subtitle = "📓 2n Batx 🧲 Física"
 
 [content]
   # Page type to display. E.g. project.

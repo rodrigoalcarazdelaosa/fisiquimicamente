@@ -48,7 +48,7 @@ item:
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades
-    content: '📝 Último ejercicio de oposiciones de ☢️ Física resuelto'
+    content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).

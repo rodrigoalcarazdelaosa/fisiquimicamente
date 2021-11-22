@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
 title = "📚 Apuntes"
-subtitle = "📓 2.º Bach ☢️ Física"
+subtitle = "📓 2.º Bach 🧲 Física"
 
 [content]
   # Page type to display. E.g. project.

@@ -15,7 +15,7 @@ subtitle = "📓 17--18 year-olds"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[☢️](physics)"
+  icon = "[🧲](physics)"
   icon_pack = "emoji"
   name = "[Physics](physics)"
   description = ""

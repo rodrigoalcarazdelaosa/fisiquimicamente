@@ -15,7 +15,7 @@ subtitle = "📓 2n Batx"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[☢️](fisica)"
+  icon = "[🧲](fisica)"
   icon_pack = "emoji"
   name = "[Física](fisica)"
   description = ""

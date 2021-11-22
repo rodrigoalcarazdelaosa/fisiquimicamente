@@ -12,7 +12,7 @@ title = "🎓 PAU"
 subtitle = "Catalunya"
 
 [[feature]]
-  icon = "[☢️](fisica)"
+  icon = "[🧲](fisica)"
   icon_pack = "emoji"
   name = "[Física](fisica)"
   description = ""

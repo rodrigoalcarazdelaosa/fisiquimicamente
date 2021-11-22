@@ -289,21 +289,21 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/">📚 Apunts</a></li>
 			{{ end }}
-			{{ if eq $st.Params.subtitle "📓 2.º Bach ☢️ Física" }}
+			{{ if eq $st.Params.subtitle "📓 2.º Bach 🧲 Física" }}
 				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/">📓 2.º Bach</a></li>		
-				<li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+				<li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 			{{ else if eq $st.Params.subtitle "📓 2.º Bach ⚗️ Química" }}
 				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach/">📓 2.º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
-			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds ☢️ Physics" }}
+			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds 🧲 Physics" }}
 				<li class="breadcrumb-item"><a href="/physics-chemistry-notes/17-18-year-olds/">📓 17&ndash;18 year-olds</a></li>		
-				<li class="breadcrumb-item active" aria-current="page">☢️ Physics</li>
+				<li class="breadcrumb-item active" aria-current="page">🧲 Physics</li>
 			{{ else if eq $st.Params.subtitle "📓 17--18 year-olds ⚗️ Chemistry" }}
 				<li class="breadcrumb-item"><a href="/physics-chemistry-notes/17-18-year-olds/">📓 17&ndash;18 year-olds</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Chemistry</li>
-			{{ else if eq $st.Params.subtitle "📓 2n Batx ☢️ Física" }}
+			{{ else if eq $st.Params.subtitle "📓 2n Batx 🧲 Física" }}
 				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx/">📓 2n Batx</a></li>		
-				<li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+				<li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 			{{ else if eq $st.Params.subtitle "📓 2n Batx ⚗️ Química" }}
 				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx/">📓 2n Batx</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>									
@@ -328,9 +328,9 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
 			
-			{{ if eq $st.Params.subtitle "📓 2.º Bach ☢️ Física" }}
+			{{ if eq $st.Params.subtitle "📓 2.º Bach 🧲 Física" }}
 				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach/">📓 2.º Bach</a></li>		
-				<li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+				<li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 			{{ else if eq $st.Params.subtitle "📓 2.º Bach ⚗️ Química" }}
 				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach/">📓 2.º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>											
@@ -463,7 +463,7 @@
 	        <li class="breadcrumb-item active" aria-current="page"><img draggable="false" class="icon" alt="catalunya" src="{{ $catalunya_flag.RelPermalink }}"> Catalunya</li>
 	    </ol>
 	    </nav>	
-	{{ else if and (eq $st.Title "🎓 PAU Catalunya") (eq $st.Params.subtitle "☢️ Física") }}
+	{{ else if and (eq $st.Title "🎓 PAU Catalunya") (eq $st.Params.subtitle "🧲 Física") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg" id="fisiquimicament-breadcrumb"><script>
@@ -479,7 +479,7 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
 			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya"><img draggable="false" class="icon" alt="catalunya" src="{{ $catalunya_flag.RelPermalink }}"> Catalunya</a></li>
-	        <li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+	        <li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 	    </ol>
 	    </nav>
 	{{ else if and (eq $st.Title "🎓 PAU Catalunya") (eq $st.Params.subtitle "⚗️ Química") }}
@@ -519,7 +519,7 @@
 	        <li class="breadcrumb-item active" aria-current="page"><img draggable="false" class="icon" alt="illes balears" src="{{ $illes_balears_flag.RelPermalink }}"> Illes Balears</li>
 	    </ol>
 	    </nav>	
-	{{ else if and (eq $st.Title "🎓 PBAU Illes Balears") (eq $st.Params.subtitle "☢️ Física") }}
+	{{ else if and (eq $st.Title "🎓 PBAU Illes Balears") (eq $st.Params.subtitle "🧲 Física") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg" id="fisiquimicament-breadcrumb"><script>
@@ -535,7 +535,7 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
 			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears"><img draggable="false" class="icon" alt="illes balears" src="{{ $illes_balears_flag.RelPermalink }}"> Illes Balears</a></li>
-	        <li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+	        <li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 	    </ol>
 	    </nav>
 	{{ else if and (eq $st.Title "🎓 PBAU Illes Balears") (eq $st.Params.subtitle "⚗️ Química") }}
@@ -557,7 +557,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
 	    </ol>
 	    </nav>						
-    {{ else if and (eq $widget "featurette") (eq $st.Params.subtitle "☢️ Física") }}
+    {{ else if and (eq $widget "featurette") (eq $st.Params.subtitle "🧲 Física") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -572,10 +572,10 @@
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
-	        <li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+	        <li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 	    </ol>
 	    </nav>	
-    {{ else if and (and (eq $widget "portfolio") (eq $st.Title "🎓 EBAU ☢️ Física")) (eq $st.Params.subtitle "📝 Exámenes completos") }}
+    {{ else if and (and (eq $widget "portfolio") (eq $st.Title "🎓 EBAU 🧲 Física")) (eq $st.Params.subtitle "📝 Exámenes completos") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -590,11 +590,11 @@
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
-	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">☢️ Física</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">🧲 Física</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">📝 Exámenes completos</li>
 	    </ol>
 	    </nav>
-    {{ else if and (and (eq $widget "portfolio") (eq $st.Title "🎓 EBAU ☢️ Física")) (eq $st.Params.subtitle "🗂️ Por temas") }}
+    {{ else if and (and (eq $widget "portfolio") (eq $st.Title "🎓 EBAU 🧲 Física")) (eq $st.Params.subtitle "🗂️ Por temas") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -609,7 +609,7 @@
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/">🎓 EBAU</a></li>
-	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">☢️ Física</a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">🧲 Física</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🗂️ Por temas</li>
 	    </ol>
 	    </nav>					
@@ -722,7 +722,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">📝 Oposiciones</li>
 	    </ol>
 	    </nav>	
-    {{ else if and (eq $widget "portfolio") (eq $st.Params.subtitle "Ejercicios resueltos de ☢️ Física") }}
+    {{ else if and (eq $widget "portfolio") (eq $st.Params.subtitle "Ejercicios resueltos de 🧲 Física") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -737,7 +737,7 @@
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones">📝 Oposiciones</a></li>			
-	        <li class="breadcrumb-item active" aria-current="page">☢️ Física</li>
+	        <li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 	    </ol>
 	    </nav>	
     {{ else if and (eq $widget "portfolio") (eq $st.Params.subtitle "Ejercicios resueltos de ⚗️ Química") }}

@@ -33,14 +33,14 @@ subtitle = ""
   icon_link = "ebau/"
   icon_pack = "tgs"
   name = "[EBAU](ebau)"
-  description = "[☢️ Física](ebau/fisica) · [⚗️ Química](ebau/quimica) · [💡Consejos](ebau/consejos)"
+  description = "[🧲 Física](ebau/fisica) · [⚗️ Química](ebau/quimica) · [💡Consejos](ebau/consejos)"
   
 [[feature]]
   icon = "oposiciones"
   icon_link = "oposiciones/"
   icon_pack = "tgs"
   name = "[Oposiciones](oposiciones)"
-  description = "[☢️ Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
+  description = "[🧲 Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
    
 [design]
   columns = "4"
