@@ -6,7 +6,7 @@ title: FisiQuímicament
 hero_media: lottie/home.tgs
 cta:
   label: '**Explora**'
-  url: "#fisiquimicament"
+  url: "#explora"
   icon_pack: fas
   icon: compass
 cta_alt:
