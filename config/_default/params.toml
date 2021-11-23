@@ -170,7 +170,7 @@ abstract_length = 135
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = ["applause-button","footnotes"]
+plugins_js  = ["footnotes"]
 
 # Translations in footer
 footer = {show_translations = true}
