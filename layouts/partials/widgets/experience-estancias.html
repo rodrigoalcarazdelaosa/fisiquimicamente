@@ -54,9 +54,9 @@
                 {{ end }}
               </div>
               <div class="text-muted exp-meta">
-                {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
+                {{ (time .date_start) | time.Format ($page.Params.date_format | default "January 2006") }} –
                 {{ if .date_end}}
-                  {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+                  {{ (time .date_end) | time.Format ($page.Params.date_format | default "January 2006") }}
                 {{else}}
                   {{ i18n "present" | default "Present" }}
                 {{end}}
