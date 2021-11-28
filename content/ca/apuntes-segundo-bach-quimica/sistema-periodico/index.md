@@ -61,7 +61,7 @@ La **taula periòdica** dels **elements** organitza els **118 elements** conegut
 ### Apantallament
 L'**efecte pantalla** o **apantallament**, $a$, consisteix en l'**atenuació** de la **força** d'**atracció** del nucli sobre un electró, a causa de la **repulsió** d'altres **electrons**. Com més allunyat estigui un electró del nucli, més apantallat estarà.
 
-{{< figure library="true" src="sistema-periodico-2Bach-quimica/apantallamiento-cat.svg" title="Traducida de https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_110A%3A_Physical_Chemistry__I/UCD_Chem_110A%3A_Physical_Chemistry_I_(Koski)/Text/07%3A_Approximation_Methods/7.2%3A_The_Variational_Method." lightbox="false" width="100%" >}}
+{{< figure library="true" src="sistema-periodico-2Bach-quimica/apantallamiento-cat.svg" title="Traduïda de https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_110A%3A_Physical_Chemistry__I/UCD_Chem_110A%3A_Physical_Chemistry_I_(Koski)/Text/07%3A_Approximation_Methods/7.2%3A_The_Variational_Method." lightbox="false" width="100%" >}}
 
 ### Càrrega nuclear efectiva
 Es tracta de la **càrrega positiva neta**, $Z\_\mathrm{eff}$, que experimenta un electró degut a l'apantallament. La càrrega nuclear efectiva **augmenta** d'esquerra a dreta al llarg d'un **període** i és **constant** al llarg d'un **grup**.
