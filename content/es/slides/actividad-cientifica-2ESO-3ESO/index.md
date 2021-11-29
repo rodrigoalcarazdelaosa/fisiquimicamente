@@ -73,6 +73,12 @@ Estudia los **factores** que **influyen** en el **periodo** de un **péndulo** c
 
 <iframe src="https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
+---
+
+o con esta excelente **práctica virtual** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
+
+{{< youtube 2GDKNIyOCSc >}}
+
 {{% /section %}}
 
 ---
