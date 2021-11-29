@@ -32,7 +32,7 @@ La **taula periòdica** dels **elements** organitza els **118 elements** conegut
 
 ---
 
-{{< figure library="true" src="sistema-periodico-2Bach-quimica/taula-periodica-elements.png" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicament.com/recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic/taula-periodica-elements.pdf)." lightbox="false" >}}
+{{< figure library="true" src="sistema-periodico-2Bach-quimica/taula-periodica-elements.png" title="Descarrega aquesta taula periòdica en PDF d’alta resulució [aquí](https://fisiquimicament.com/recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic/taula-periodica-elements.pdf)." lightbox="false" >}}
 
 {{% /section %}}
 
@@ -78,7 +78,7 @@ on $Z$ és el nombre atòmic de l'element i $a$ l'apantallament patit per l'elec
 ---
 
 \begin{align*}
-\text{electrones de core (internos)} &\rightarrow a = 1 \\\\
+\text{electrones de core (interns)} &\rightarrow a = 1 \\\\
 \text{electrones de valencia (mismo nivel)} &\rightarrow a < 1
 \end{align*}
 
@@ -156,7 +156,7 @@ Tenen un **menor número** d'**electrons**, pel que l'**apantallament** patit pe
 Tenen un **major número** d'**electrons**, pel que l'**apantallament** patit pels electrons de valència és **major**, **disminuint** així la **càrrega nuclear efectiva** que experimenten i provocant que tinguin un **major radi** atòmic comparant-los amb els seus elements neutres de referència.
 
 $$
-r_\text{catión} < r_\text{neutro} < r_\text{anión}
+r_\text{catió} < r_\text{neutre} < r_\text{anió}
 $$
 
 ---

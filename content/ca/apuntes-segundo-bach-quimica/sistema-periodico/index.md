@@ -75,7 +75,7 @@ $$
 on $Z$ és el nombre atòmic de l'element i $a$ l'apantallament patit per l'electró, tenint en compte que els electrons *de core* (interns) produeixen un major apantallament que els que es troben en el seu mateix nivell energètic:
 
 \begin{align*}
-\text{electrons de core (internos)} &\rightarrow a = 1 \\\\
+\text{electrons de core (interns)} &\rightarrow a = 1 \\\\
 \text{electrons de valència (mateix nivell)} &\rightarrow a < 1
 \end{align*}
 
@@ -115,7 +115,7 @@ Tenen un **menor número** d'**electrons**, pel que l'**apantallament** patit pe
 Tenen un **major número** d'**electrons**, pel que l'**apantallament** patit pels electrons de valència és **major**, **disminuint** així la **càrrega nuclear efectiva** que experimenten i provocant que tinguin un **major radi** atòmic comparant-los amb els seus elements neutres de referència.
 
 $$
-r_\text{catión} < r_\text{neutro} < r_\text{anión}
+r_\text{catió} < r_\text{neutre} < r_\text{anió}
 $$
 
 ### Potencial d'ionització $E_\mathrm i$
