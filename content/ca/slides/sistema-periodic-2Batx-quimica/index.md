@@ -32,7 +32,7 @@ La **taula periòdica** dels **elements** organitza els **118 elements** conegut
 
 ---
 
-{{< figure library="true" src="sistema-periodico-2Bach-quimica/taula-periodica-elements.png" title="Descarrega aquesta taula periòdica en PDF d’alta resulució [aquí](https://fisiquimicament.com/recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic/taula-periodica-elements.pdf)." lightbox="false" >}}
+{{< figure library="true" src="sistema-periodico-2Bach-quimica/taula-periodica-elements.png" title="Descarrega aquesta taula periòdica en PDF d’alta resolució [aquí](https://fisiquimicament.com/recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic/taula-periodica-elements.pdf)." lightbox="false" >}}
 
 {{% /section %}}
 
@@ -78,8 +78,8 @@ on $Z$ és el nombre atòmic de l'element i $a$ l'apantallament patit per l'elec
 ---
 
 \begin{align*}
-\text{electrones de core (interns)} &\rightarrow a = 1 \\\\
-\text{electrones de valencia (mismo nivel)} &\rightarrow a < 1
+\text{electrons de core (interns)} &\rightarrow a = 1 \\\\
+\text{electrons de valència (mateix nivell)} &\rightarrow a < 1
 \end{align*}
 
 ---
