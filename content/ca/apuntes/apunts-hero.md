@@ -10,8 +10,8 @@ cta:
   icon_pack: fas
   icon: compass
 cta_alt:
-  label: Últim pòster ➡️
-  url: "recursos-fisica-quimica/apunts/1batx/mhs/"
+  label: Últims apunts ➡️
+  url: "recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic/"
 cta_note:
   label:
 design:
