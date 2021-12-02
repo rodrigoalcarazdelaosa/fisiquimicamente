@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","actividades-4eso"]
 authors:
 - miguel-quiroga
 tags:
+- actividades
 - 4º ESO
 - movimiento
 - fuerzas

@@ -43,8 +43,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Dobble instrumentos laboratorio
-    cta_url: 'recursos-fisica-quimica/actividades/2eso-3eso/dobble-instrumentos-laboratorio/'
+    cta_label: Baraja de la tabla periódica
+    cta_url: 'recursos-fisica-quimica/actividades/4eso/baraja-tabla-periodica/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades

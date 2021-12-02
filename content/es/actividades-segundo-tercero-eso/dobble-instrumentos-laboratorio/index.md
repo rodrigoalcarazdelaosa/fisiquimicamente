@@ -7,9 +7,11 @@ breadcrumbs: ["recursos-fisica-quimica","actividades-2eso-3eso"]
 authors:
 - pablo-ortega-rodriguez
 tags:
+- actividades
 - 2º ESO
 - 3º ESO
 - actividad-científica
+- ABJ
 categories:
 - Física
 - Química

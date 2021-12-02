@@ -11,7 +11,7 @@ cta:
   icon: compass
 cta_alt:
   label: Última actividad ➡️
-  url: "recursos-fisica-quimica/actividades/2eso-3eso/dobble-instrumentos-laboratorio/"
+  url: "recursos-fisica-quimica/actividades/4eso/baraja-tabla-periodica/"
 cta_note:
   label:
 design:
