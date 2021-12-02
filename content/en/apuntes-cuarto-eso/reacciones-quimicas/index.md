@@ -8,6 +8,7 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 - alicia-sampedro
 tags:
+- notes
 - 15-16-year-olds
 - chemical-reactions
 categories:

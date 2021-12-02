@@ -5,6 +5,7 @@ subtitle: Periodic Table, Bonds Between Atoms and Elements and Compounds of Spec
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Periodic Table. Bonds Between Atoms. Elements and Compounds of Special Interest."
 breadcrumbs: ["notes","13-15-year-olds"]
 tags:
+- notes
 - 13-14-year-olds
 - 14-15-year-olds
 - periodic-table

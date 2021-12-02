@@ -5,6 +5,7 @@ subtitle: Trabajo, potencia y energía
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Trabajo. Potencia. Energía. Teorema de las fuerzas vivas. Sistemas conservativos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
+- apuntes
 - 1º Bach
 - energía
 categories:

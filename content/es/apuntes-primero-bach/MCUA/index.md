@@ -5,6 +5,7 @@ subtitle: Movimiento circular uniformemente acelerado
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Movimiento circular uniformemente acelerado y dinámica del movimiento circular."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
+- apuntes
 - 1º Bach
 - movimiento
 - fuerzas

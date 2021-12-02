@@ -5,6 +5,7 @@ subtitle: Ley de Coulomb, energía potencial, potencial y flujo eléctrico
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Ley de Coulomb. Energía potencial y potencial eléctrico. Flujo eléctrico."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 tags:
+- apuntes
 - 2º Bach
 - electromagnetismo
 - fuerzas

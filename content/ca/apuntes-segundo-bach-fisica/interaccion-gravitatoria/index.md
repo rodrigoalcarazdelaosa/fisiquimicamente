@@ -5,6 +5,7 @@ subtitle: Lleis de Kepler, llei de Gravitació Universal i camp gravitatori
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Lleis de Kepler. Llei de Gravitació Universal. Camp gravitatori."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
+- apunts
 - 2n Batx
 - moviment
 - forces

@@ -5,6 +5,7 @@ subtitle: Moviment circular uniformement accelerat
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Moviment circular uniformement accelerat i dinàmica de el moviment circular."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 tags:
+- apunts
 - 1r Batx
 - moviment
 - forces

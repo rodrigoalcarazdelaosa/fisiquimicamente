@@ -5,6 +5,7 @@ subtitle: Leyes de Kepler, ley de Gravitación Universal y campo gravitatorio
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 tags:
+- apuntes
 - 2º Bach
 - movimiento
 - fuerzas

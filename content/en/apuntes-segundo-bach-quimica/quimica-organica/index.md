@@ -5,6 +5,7 @@ subtitle:
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code>"
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]
 tags:
+- notes
 - 17-18-year-olds
 - organic-chemistry
 categories:

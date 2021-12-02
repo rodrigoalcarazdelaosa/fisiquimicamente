@@ -5,6 +5,7 @@ subtitle: Concepto de energía. Transformaciones energéticas. Calor y temperatu
 summary: "Concepto de energía. Transformaciones energéticas. Calor y temperatura. Fuentes de energía."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2eso-3eso"]
 tags:
+- apuntes
 - 2º ESO
 - 3º ESO
 - energía

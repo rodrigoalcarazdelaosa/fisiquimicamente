@@ -5,6 +5,7 @@ subtitle: Propiedades, estados de agregación y mezclas
 summary: "Propiedades, estados de agregación y mezclas."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2eso-3eso"]
 tags:
+- apuntes
 - 2º ESO
 - 3º ESO
 - materia

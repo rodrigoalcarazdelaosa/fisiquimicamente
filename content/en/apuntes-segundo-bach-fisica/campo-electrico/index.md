@@ -5,6 +5,7 @@ subtitle: Coulomb's Law, Electric Potential Energy, Potential and Flux
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Coulomb's Law. Electric Potential Energy and Potential. Electric Flux."
 breadcrumbs: ["notes","17-18-year-olds","physics"]
 tags:
+- notes
 - 17-18-year-olds
 - electromagnetics
 - forces

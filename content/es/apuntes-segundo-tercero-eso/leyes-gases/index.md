@@ -5,6 +5,7 @@ subtitle: Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac
 summary: "Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","3eso"]
 tags:
+- apuntes
 - 3º ESO
 - gases
 categories:

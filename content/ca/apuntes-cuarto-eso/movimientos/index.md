@@ -8,6 +8,7 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 - oscar-colomar
 tags:
+- apunts
 - 4t ESO
 - moviment
 categories:

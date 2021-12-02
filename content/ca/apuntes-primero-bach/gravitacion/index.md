@@ -5,6 +5,7 @@ subtitle: Llei de gravitació universal i lleis de Kepler
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Forces centrals. Llei de gravitació universal. Lleis de Kepler."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 tags:
+- apunts
 - 1r Batx
 - moviment
 - forces

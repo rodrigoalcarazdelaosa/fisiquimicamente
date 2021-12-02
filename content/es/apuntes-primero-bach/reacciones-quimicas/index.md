@@ -5,6 +5,7 @@ subtitle: Estequiometría, transformaciones energéticas y espontaneidad
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Estequiometría, transformaciones energéticas y espontaneidad."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
+- apuntes
 - 1º Bach
 - reacciones-químicas
 categories:

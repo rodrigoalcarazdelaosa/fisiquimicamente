@@ -5,6 +5,7 @@ subtitle:
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code>"
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 tags:
+- apuntes
 - 2º Bach
 - orgánica
 categories:

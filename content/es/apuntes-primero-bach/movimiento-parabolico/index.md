@@ -5,6 +5,7 @@ subtitle: Estudio del tiro parabólico u oblicuo
 summary: Estudio del tiro parabólico u oblicuo.
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
+- apuntes
 - 1º Bach
 - movimiento
 categories:

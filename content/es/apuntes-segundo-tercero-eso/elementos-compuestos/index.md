@@ -5,6 +5,7 @@ subtitle: Tabla periódica de los elementos, uniones entre átomos y elementos y
 summary: "Tabla periódica de los elementos. Uniones entre átomos. Elementos y compuestos de especial interés."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2eso-3eso"]
 tags:
+- apuntes
 - 2º ESO
 - 3º ESO
 - tabla-periódica

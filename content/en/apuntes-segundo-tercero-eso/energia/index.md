@@ -5,6 +5,7 @@ subtitle: Energy Transformations, Heat and Temperature
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Concept of Energy. Energy Transformations. Heat and Temperature."
 breadcrumbs: ["notes","13-15-year-olds"]
 tags:
+- notes
 - 13-14-year-olds
 - 14-15-year-olds
 - energy

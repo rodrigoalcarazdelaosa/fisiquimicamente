@@ -5,6 +5,7 @@ subtitle: Ionic, Covalent and Metallic Bond. Intermolecular Forces
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Ionic, Covalent and Metallic Bond. Intermolecular Forces."
 breadcrumbs: ["notes","15-16-year-olds"]
 tags:
+- notes
 - 15-16-year-olds
 - chemical-bond
 categories:

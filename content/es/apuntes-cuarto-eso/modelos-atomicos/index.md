@@ -8,6 +8,7 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 tags:
+- apuntes
 - 4º ESO
 - estructura-atómica
 categories:

@@ -5,6 +5,7 @@ subtitle: Treball, potència i energia
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Treball. Potència. Energia. Teorema de les forces vives. Sistemes conservatius."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 tags:
+- apunts
 - 1r Batx
 - energia
 categories:

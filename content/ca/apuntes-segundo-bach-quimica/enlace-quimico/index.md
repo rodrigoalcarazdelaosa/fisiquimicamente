@@ -10,6 +10,7 @@ authors:
 - alba-lopez-valenzuela
 - eduard-cremades
 tags:
+- apunts
 - 2n Batx
 - enllaç-químic
 categories:

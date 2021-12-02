@@ -5,6 +5,7 @@ subtitle:
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code>"
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 tags:
+- apunts
 - 2n Batx
 - orgànica
 categories:

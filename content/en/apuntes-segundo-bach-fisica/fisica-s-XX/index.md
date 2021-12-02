@@ -5,6 +5,7 @@ subtitle: Relativity, Quantum Physics, Nuclear Physics and Radioactivity
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Relativity, Quantum Physics, Nuclear Physics and Radioactivity."
 breadcrumbs: ["notes","17-18-year-olds","physics"]
 tags:
+- notes
 - 17-18-year-olds
 - 20th-century-physics
 categories:

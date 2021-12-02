@@ -8,6 +8,7 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 - eduard-cremades
 tags:
+- apunts
 - 4t ESO
 - taula-periòdica
 categories:

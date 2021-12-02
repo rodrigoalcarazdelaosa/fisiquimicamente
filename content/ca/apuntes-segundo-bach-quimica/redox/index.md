@@ -9,6 +9,7 @@ authors:
 - alba-lopez-valenzuela
 - eduard-cremades
 tags:
+- apunts
 - 2n Batx
 - reaccions-químiques
 - redox

@@ -10,6 +10,7 @@ authors:
 - eduard-cremades
 - alba-lopez-valenzuela
 tags:
+- apunts
 - 2n Batx
 - estructura-atòmica
 categories:

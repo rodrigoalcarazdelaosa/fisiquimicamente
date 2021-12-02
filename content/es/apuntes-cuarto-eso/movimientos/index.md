@@ -5,6 +5,7 @@ subtitle: MRU, MRUA y MCU
 summary: MRU, MRUA y MCU.
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
 tags:
+- apuntes
 - 4º ESO
 - movimiento
 categories:

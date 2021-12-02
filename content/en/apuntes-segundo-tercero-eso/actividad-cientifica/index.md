@@ -5,6 +5,7 @@ subtitle: "Scientific Method, Magnitudes and School Laboratory"
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Scientific Method. Magnitude Measurement. School Laboratory."
 breadcrumbs: ["notes","13-15-year-olds"]
 tags:
+- notes
 - 13-14-year-olds
 - 14-15-year-olds
 - scientific-activity

@@ -5,6 +5,7 @@ subtitle: Study of the Parabolic or Oblique Motion
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Study of the Parabolic or Oblique Motion."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
+- notes
 - 16-17-year-olds
 - motion
 categories:

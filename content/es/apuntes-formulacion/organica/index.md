@@ -5,6 +5,7 @@ subtitle: Recomendaciones y nombres preferidos de la IUPAC de 2013
 summary: "Recomendaciones y nombres preferidos de la IUPAC de 2013."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","formulacion-nomenclatura-quimica"]
 tags:
+- apuntes
 - formulación
 - nomenclatura
 - orgánica

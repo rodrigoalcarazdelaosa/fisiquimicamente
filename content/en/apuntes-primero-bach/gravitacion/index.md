@@ -5,6 +5,7 @@ subtitle: Newton's Law of Universal Gravitation and Kepler's Laws
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Central Forces. Newton's Law of Universal Gravitation. Kepler's Laws."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
+- notes
 - 16-17-year-olds
 - motion
 - forces

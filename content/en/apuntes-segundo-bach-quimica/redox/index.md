@@ -5,6 +5,7 @@ subtitle: Redox Equilibrium and Balancing, Galvanic Cells and Electrolysis
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Redox Equilibrium. Redox Balancing. Galvanic Cells. Electrolysis."
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]
 tags:
+- notes
 - 17-18-year-olds
 - chemical-reactions
 - redox

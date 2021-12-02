@@ -5,6 +5,7 @@ subtitle: Propagació d'ones transversals i longitudinals
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Propagació d'ones transversals i longitudinals. Equació de les ones harmòniques. Energia i intensitat. So i llum."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
+- apunts
 - 2n Batx
 - energia
 - ones

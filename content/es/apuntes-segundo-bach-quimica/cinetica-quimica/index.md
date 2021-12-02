@@ -5,6 +5,7 @@ subtitle: Velocidad y mecanismos de reacción
 summary: "Velocidad de reacción. Ecuaciones cinéticas. Orden de reacción. Mecanismos de reacción."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 tags:
+- apuntes
 - 2º Bach
 - reacciones-químicas
 - cinética-química

@@ -5,6 +5,7 @@ subtitle: Movimiento armónico simple
 summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Cinemática, dinámica y energía del movimiento armónico simple."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
+- apuntes
 - 1º Bach
 - movimiento
 - fuerzas

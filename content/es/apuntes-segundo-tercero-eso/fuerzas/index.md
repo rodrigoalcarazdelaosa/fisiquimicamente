@@ -5,6 +5,7 @@ subtitle: Principales fuerzas de la naturaleza y sus efectos
 summary: "Principales fuerzas de la naturaleza y sus efectos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2eso"]
 tags:
+- apuntes
 - 2º ESO
 - fuerzas
 categories:

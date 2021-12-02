@@ -5,6 +5,7 @@ subtitle: Uniformly Accelerated Circular Motion
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Uniformly Accelerated Circular Motion and Dynamics of the Circular Motion."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
+- notes
 - 16-17-year-olds
 - motion
 - forces

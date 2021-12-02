@@ -5,6 +5,7 @@ subtitle: Thomson, Rutherford and Bohr Models
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Thomson, Rutherford and Bohr Models."
 breadcrumbs: ["notes","15-16-year-olds"]
 tags:
+- notes
 - 15-16-year-olds
 - atomic-structure
 categories:

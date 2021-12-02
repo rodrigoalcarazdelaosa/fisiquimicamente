@@ -5,6 +5,7 @@ subtitle: Relativitat, física quàntica, física nuclear i radioactivitat
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Relativitat. Física Quàntica. Física Nuclear. Radioactivitat."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
+- apunts
 - 2n Batx
 - física-s-XX
 categories:

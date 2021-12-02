@@ -5,6 +5,7 @@ subtitle: Transverse and Longitudinal Wave Propagation
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Transverse and Longitudinal Wave Propagation. Harmonic Wave Equation. Energy and Intensity. Sound and Light."
 breadcrumbs: ["notes","17-18-year-olds","physics"]
 tags:
+- notes
 - 17-18-year-olds
 - waves
 - energy

@@ -5,6 +5,7 @@ subtitle: La investigación científica, magnitudes escalares y vectoriales, an�
 summary: "La investigación científica. Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
 tags:
+- apuntes
 - 4º ESO
 - actividad-científica
 categories:

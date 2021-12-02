@@ -5,6 +5,7 @@ subtitle: Estequiometria, transformacions energètiques i espontaneïtat
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Estequiometria, transformacions energètiques i espontaneïtat."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 tags:
+- apunts
 - 1r Batx
 - reaccions-químiques
 categories:

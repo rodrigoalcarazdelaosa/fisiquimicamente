@@ -8,6 +8,7 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 - eduard-cremades
 tags:
+- apunts
 - 2n ESO
 - 3r ESO
 - activitat-científica

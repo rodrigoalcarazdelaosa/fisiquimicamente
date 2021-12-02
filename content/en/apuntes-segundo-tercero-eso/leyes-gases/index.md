@@ -5,6 +5,7 @@ subtitle: Boyle-Mariotte Law, Charles's Law and Gay-Lussac's Law
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Boyle-Mariotte Law, Charles's Law and Gay-Lussac's Law."
 breadcrumbs: ["notes","14-15-year-olds"]
 tags:
+- notes
 - 14-15-year-olds
 - gases
 categories:

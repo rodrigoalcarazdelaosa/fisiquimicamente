@@ -5,6 +5,7 @@ subtitle: Quantum Mechanics, Atomic Orbitals and Electronic Structure
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Quantum Mechanics, Atomic Orbitals and Electronic Structure."
 breadcrumbs: ["notes","17-18-year-olds","chemistry"]
 tags:
+- notes
 - 17-18-year-olds
 - atomic-structure
 categories:

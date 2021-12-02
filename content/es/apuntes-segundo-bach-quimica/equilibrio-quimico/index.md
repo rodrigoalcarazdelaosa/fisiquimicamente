@@ -5,6 +5,7 @@ subtitle: Ley de acción de masas, constante de equilibrio, principio de Le Chat
 summary: "Ley de acción de masas. Constante de equilibrio. Principio de Le Chatelier. Equilibrios heterogéneos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 tags:
+- apuntes
 - 2º Bach
 - reacciones-químicas
 - equilibrio-químico

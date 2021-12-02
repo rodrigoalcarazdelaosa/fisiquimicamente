@@ -5,6 +5,7 @@ subtitle: Stoichiometry, Energetic Transformations and Spontaneity
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Stoichiometry, Energetic Transformations and Spontaneity."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
+- notes
 - 16-17-year-olds
 - chemical-reactions
 categories:

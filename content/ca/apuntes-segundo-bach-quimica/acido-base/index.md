@@ -8,6 +8,7 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 - oscar-colomar
 tags:
+- apunts
 - 2n Batx
 - reaccions-químiques
 - àcid-base

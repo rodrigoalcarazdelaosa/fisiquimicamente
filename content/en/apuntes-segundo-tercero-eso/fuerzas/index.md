@@ -5,6 +5,7 @@ subtitle: Main Forces of Nature and Their Effects
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Main Forces of Nature and Their Effects."
 breadcrumbs: ["notes","13-14-year-olds"]
 tags:
+- notes
 - 13-14-year-olds
 - forces
 categories:

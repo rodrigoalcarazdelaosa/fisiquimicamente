@@ -5,6 +5,7 @@ subtitle: Electrical Circuits, Ohm's Law and Electronic Devices
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Electricity and Electrical Circuits. Ohm's Law. Electronic Devices."
 breadcrumbs: ["notes","13-15-year-olds"]
 tags:
+- notes
 - 13-14-year-olds
 - 14-15-year-olds
 - electricity-electronics

@@ -9,6 +9,7 @@ authors:
 - oscar-colomar
 - eduard-cremades
 tags:
+- apunts
 - 2n Batx
 - reaccions-químiques
 - equilibri-químic

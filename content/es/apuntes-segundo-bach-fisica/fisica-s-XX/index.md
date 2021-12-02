@@ -5,6 +5,7 @@ subtitle: Relatividad, física cuántica, física nuclear y radiactividad
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Relatividad. Física Cuántica. Física Nuclear. Radiactividad."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 tags:
+- apuntes
 - 2º Bach
 - física-s-XX
 categories:

@@ -5,6 +5,7 @@ subtitle: Flux magnètic i inducció electromagnètica
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Camp magnètic. Flux magnètic. Inducció electromagnètica."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
+- apunts
 - 2n Batx
 - electromagnetisme
 - forces

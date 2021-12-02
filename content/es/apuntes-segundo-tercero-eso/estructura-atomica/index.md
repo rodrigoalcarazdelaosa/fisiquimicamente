@@ -5,6 +5,7 @@ subtitle: Teoría atómica de Dalton, modelos atómicos, iones e isótopos
 summary: "Teoría atómica de Dalton, modelos atómicos, iones e isótopos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2eso-3eso"]
 tags:
+- apuntes
 - 2º ESO
 - 3º ESO
 - estructura-atómica

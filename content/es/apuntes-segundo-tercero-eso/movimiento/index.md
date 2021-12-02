@@ -5,6 +5,7 @@ subtitle: Conceptos de velocidad y aceleración
 summary: "Conceptos de velocidad y aceleración."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2eso"]
 tags:
+- apuntes
 - 2º ESO
 - movimiento
 categories:

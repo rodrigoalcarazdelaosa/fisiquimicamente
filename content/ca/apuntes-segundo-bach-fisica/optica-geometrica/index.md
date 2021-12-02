@@ -5,6 +5,7 @@ subtitle: Lleis de l'òptica geomètrica i sistemes òptics
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Lleis de l'òptica geomètrica. Sistemes òptics. L'ull humà. Instruments òptics."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","fisica"]
 tags:
+- apunts
 - 2n Batx
 - òptica
 categories:

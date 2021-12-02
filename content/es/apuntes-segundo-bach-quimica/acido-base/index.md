@@ -5,6 +5,7 @@ subtitle: Equilibrio ácido-base
 summary: "Teorías ácido-base. Fuerza relativa de los ácidos y bases. Equilibrio iónico del agua. Concepto de pH. Volumetrías de neutralización ácido-base. Indicadores ácido-base. Hidrólisis de sales. Disoluciones reguladoras. Ácidos y bases relevantes."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 tags:
+- apuntes
 - 2º Bach
 - reacciones-químicas
 - ácido-base
