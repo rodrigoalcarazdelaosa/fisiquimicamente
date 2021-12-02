@@ -23,7 +23,7 @@ role: Llicenciat en Química i Mestre en Docència per a l'Educació Mitja Super
 #  url: ""  
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Sóc Mestre en Docència per a l'Educació Mitja Superior i imparteixo classes de Termodinàmica Clàssica (teoria i laboratori) a la [Facultat de Química de la UNAM](https://quimica.unam.mx/)."
+bio: "Soc Mestre en Docència per a l'Educació Mitja Superior i imparteixo classes de Termodinàmica Clàssica (teoria i laboratori) a la [Facultat de Química de la UNAM](https://quimica.unam.mx/)."
 
 interests:
 - ✈️ Viatjar
@@ -73,4 +73,4 @@ user_groups:
 - FisiQuímicament
 ---
 
-Sóc Mestre en Docència per a l'Educació Mitja Superior i imparteixo classes de Termodinàmica Clàssica (teoria i laboratori) a la [Facultat de Química de la UNAM](https://quimica.unam.mx/). També m'interessa la formació docent en l'àrea de les ciències.
+Soc Mestre en Docència per a l'Educació Mitja Superior i imparteixo classes de Termodinàmica Clàssica (teoria i laboratori) a la [Facultat de Química de la UNAM](https://quimica.unam.mx/). També m'interessa la formació docent en l'àrea de les ciències.

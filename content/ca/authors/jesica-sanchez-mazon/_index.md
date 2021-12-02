@@ -25,7 +25,7 @@ organizations:
   url: "https://www.escuelaclinicamompia.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sóc Radiofísica Hospitalària a la [Clínica Mompía](https://clinicamompia.com/) de Cantàbria (Espanya) i una estudiant de Doctorat en Medicina a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
+bio: Soc Radiofísica Hospitalària a la [Clínica Mompía](https://clinicamompia.com/) de Cantàbria (Espanya) i una estudiant de Doctorat en Medicina a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
 
 interests:
 - ✈️ Viatjar 
@@ -77,4 +77,4 @@ user_groups:
 - FisiQuímicament
 ---
 
-Sóc **Radiofísica Hospitalària** a la [Clínica Mompía](https://clinicamompia.com/) de Cantàbria (Espanya) i imparteixo **docència** en el Cicle Formatiu i Grau en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/). A més a més, sóc **estudiant de Doctorat en Medicina** a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
+Soc **Radiofísica Hospitalària** a la [Clínica Mompía](https://clinicamompia.com/) de Cantàbria (Espanya) i imparteixo **docència** en el Cicle Formatiu i Grau en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/). A més a més, sóc **estudiant de Doctorat en Medicina** a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).

@@ -23,7 +23,7 @@ role: Graduada en Química i Professora de Física i Química
 #  url: ""  
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Sóc Graduada en Química i Professora de Física i Química per compte propi."
+bio: "Soc Graduada en Química i Professora de Física i Química per compte propi."
 
 interests:
 - 🎹 Piano i 🎸 guitarra
@@ -67,4 +67,4 @@ user_groups:
 - FisiQuímicament
 ---
 
-Sóc Graduada en Química i Professora de Física i Química per compte propi.
+Soc Graduada en Química i Professora de Física i Química per compte propi.

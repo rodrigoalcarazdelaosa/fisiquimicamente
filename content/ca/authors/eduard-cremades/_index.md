@@ -21,7 +21,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Sóc Doctor en Química i Professor a [l'Escola Virolai](https://www.virolai.com), a la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html) i a la [Facultat de Química de la Universitat de Barcelona](https://www.ub.edu/portal/web/quimica)."
+bio: "Soc Doctor en Química i Professor a [l'Escola Virolai](https://www.virolai.com), a la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html) i a la [Facultat de Química de la Universitat de Barcelona](https://www.ub.edu/portal/web/quimica)."
 
 interests:
 - 🎸 Música metal 🤘🏼
@@ -68,4 +68,4 @@ user_groups:
 - FisiQuímicament
 ---
 
-Sóc Doctor en Química i Professor de Ciències (matemàtiques, física i química a [l'Escola Virolai](https://www.virolai.com), Professor de Química per a majors de 25 anys a la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html) i Professor Associat a la [Facultat de Química de la Universitat de Barcelona](https://www.ub.edu/portal/web/quimica). També sóc membre de la Junta Directiva de la [Societat Catalana de Química](https://blogs.iec.cat/scq/). En el meu temps lliure busco relacions entre la química i la cultura popular.
+Soc Doctor en Química i Professor de Ciències (matemàtiques, física i química a [l'Escola Virolai](https://www.virolai.com), Professor de Química per a majors de 25 anys a la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html) i Professor Associat a la [Facultat de Química de la Universitat de Barcelona](https://www.ub.edu/portal/web/quimica). També sóc membre de la Junta Directiva de la [Societat Catalana de Química](https://blogs.iec.cat/scq/). En el meu temps lliure busco relacions entre la química i la cultura popular.
