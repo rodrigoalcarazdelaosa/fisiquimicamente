@@ -2,7 +2,7 @@
 title: Dobble
 url: "/recursos-fisica-quimica/actividades/2eso-3eso/dobble-instrumentos-laboratorio"
 subtitle: Instrumentos de laboratorio
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Dobble adaptado para el estudio del instrumental básico de laboratorio."
+summary: "Dobble adaptado para el estudio del instrumental básico de laboratorio."
 breadcrumbs: ["recursos-fisica-quimica","actividades-2eso-3eso"]
 authors:
 - pablo-ortega-rodriguez
