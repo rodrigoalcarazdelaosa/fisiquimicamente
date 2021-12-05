@@ -11,9 +11,9 @@ cta:
   icon: compass
 cta_alt:
   label: Última actividad ➡️
-  url: "recursos-fisica-quimica/actividades/4eso/baraja-tabla-periodica/"
+  url: "recursos-fisica-quimica/actividades/4eso/extrano-caso-lucia/"
 cta_note:
-  label:
+  label: Si te gustan estas **actividades** no dudes en pasarte por la [excelente **página web** de **Miguel Quiroga**](https://www.miguelquiroga.es).
 design:
   background:
     # color: "#FFFFF8"
@@ -22,4 +22,4 @@ advanced:
   css_class: 
 ---
 
-🧩 Geniales **actividades *gamificadas*** y **juegos educativos** ([ABJ](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_juegos)) que sintetizan los contenidos de los currículos de Física y Química, organizadas por niveles y temas
+Geniales **actividades *gamificadas*** que sintetizan los contenidos de los currículos de Física y Química, organizadas por niveles y temas

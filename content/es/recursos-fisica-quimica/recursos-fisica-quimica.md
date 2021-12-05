@@ -27,6 +27,13 @@ subtitle = ""
   icon_pack = "tgs"
   name = "[Actividades](actividades)"
   description = "[📗 2.º ESO](actividades/2eso) · [📘 3.º ESO](actividades/3eso) · [📙 4.º ESO](actividades/4eso) <br> [📕 1.º Bach](actividades/1bach) · [📓 2.º Bach](actividades/2bach) <br> [📔 Formulación y nomenclatura de Química](actividades/formulacion-nomenclatura-quimica)"
+
+[[feature]]
+  icon = "juegos-educativos"
+  icon_link = "juegos-educativos/"
+  icon_pack = "tgs"
+  name = "[Juegos educativos](juegos-educativos)"
+  description = "[📗 2.º ESO](juegos-educativos/2eso) · [📘 3.º ESO](juegos-educativos/3eso) · [📙 4.º ESO](juegos-educativos/4eso) <br> [📕 1.º Bach](juegos-educativos/1bach) · [📓 2.º Bach](juegos-educativos/2bach) <br> [📔 Formulación y nomenclatura de Química](juegos-educativos/formulacion-nomenclatura-quimica)"
   
 [[feature]]
   icon = "ebau"
@@ -41,9 +48,16 @@ subtitle = ""
   icon_pack = "tgs"
   name = "[Oposiciones](oposiciones)"
   description = "[🧲 Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
+
+[[feature]]
+  icon = "radiofisica"
+  icon_link = "radiofisica/"
+  icon_pack = "tgs"
+  name = "[Radiofísica](radiofisica)"
+  description = "Ciclos formativos · Operador de IIRR · RFIR"
    
 [design]
-  columns = "4"
+  columns = "3"
 
 [design.background]
   # Apply a background color, gradient, or image.

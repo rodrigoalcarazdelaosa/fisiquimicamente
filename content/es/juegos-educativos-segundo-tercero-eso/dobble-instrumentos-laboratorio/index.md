@@ -1,17 +1,16 @@
 ---
 title: Dobble
-url: "/recursos-fisica-quimica/actividades/2eso-3eso/dobble-instrumentos-laboratorio"
+url: "/recursos-fisica-quimica/juegos-educativos/2eso-3eso/dobble-instrumentos-laboratorio"
 subtitle: Instrumentos de laboratorio
 summary: "Dobble adaptado para el estudio del instrumental básico de laboratorio."
-breadcrumbs: ["recursos-fisica-quimica","actividades-2eso-3eso"]
+breadcrumbs: ["recursos-fisica-quimica","juegos-educativos-2eso-3eso"]
 authors:
 - pablo-ortega-rodriguez
 tags:
-- actividades
+- ABJ
 - 2º ESO
 - 3º ESO
 - actividad-científica
-- ABJ
 categories:
 - Física
 - Química

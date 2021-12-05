@@ -153,7 +153,19 @@
 - id: actividades-segundo-bach-quimica
   translation: 🗒️ Activitats 2n Batx Química
 - id: actividades-formulacion
-  translation: 🗒️ Activitats Formulació Nomenclatura Química  
+  translation: 🗒️ Activitats Formulació Nomenclatura Química
+- id: juegos-educativos-segundo-tercero-eso
+  translation: 🧩 Jocs Educatius 2n ESO &ndash; 3r ESO
+- id: juegos-educativos-cuarto-eso
+  translation: 🧩 Jocs Educatius 4t ESO
+- id: juegos-educativos-primero-bach
+  translation: 🧩 Jocs Educatius 1º Batx
+- id: juegos-educativos-segundo-bach-fisica
+  translation: 🧩 Jocs Educatius 2n Batx Física
+- id: juegos-educativos-segundo-bach-quimica
+  translation: 🧩 Jocs Educatius 2n Batx Química
+- id: juegos-educativos-formulacion
+  translation: 🧩 Jocs Educatius Formulació Nomenclatura Química
 - id: slides
   translation: 🧑‍🏫 Diapositives
 - id: authors

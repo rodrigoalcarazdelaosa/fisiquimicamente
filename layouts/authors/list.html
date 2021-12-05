@@ -85,10 +85,14 @@
         <a href="{{ .Permalink }}">📚 {{ .Title }}</a>
         {{ else if eq $sec "acti" }}
         <a href="{{ .Permalink }}">🗒️ {{ .Title }}</a>
+        {{ else if eq $sec "jueg" }}
+        <a href="{{ .Permalink }}">🧩 {{ .Title }}</a>
         {{ else if eq $sec "EBAU" }}
         <a href="{{ .Permalink }}">🎓 {{ .Title }}</a>
         {{ else if eq $sec "opos" }}
         <a href="{{ .Permalink }}">📝 {{ .Title }}</a>
+        {{ else if eq $sec "radio" }}
+        <a href="{{ .Permalink }}">☢️ {{ .Title }}</a>
         {{ else if eq $sec "tuto" }}
         <a href="{{ .Permalink }}">👐🏼 {{ .Title }}</a>
         {{ else if eq $sec "enla" }}

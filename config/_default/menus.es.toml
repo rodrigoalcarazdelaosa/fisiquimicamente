@@ -19,19 +19,31 @@
   name = "🗒️ Actividades"
   url = "recursos-fisica-quimica/actividades"
   parent = "recursos-fyq"
-  weight = 2  
+  weight = 2
+
+[[main]]
+  name = "🧩 Juegos educativos"
+  url = "recursos-fisica-quimica/juegos-educativos"
+  parent = "recursos-fyq"
+  weight = 3
 
 [[main]]
   name = "🎓 EBAU"
   url = "recursos-fisica-quimica/ebau"
   parent = "recursos-fyq"
-  weight = 3
+  weight = 4
   
 [[main]]
   name = "📝 Oposiciones"
   url = "recursos-fisica-quimica/oposiciones"
   parent = "recursos-fyq"
-  weight = 4
+  weight = 5
+
+[[main]]
+  name = "☢️ Radiofísica"
+  url = "recursos-fisica-quimica/radiofisica"
+  parent = "recursos-fyq"
+  weight = 6
 
 [[main]]
   name = "👐🏼 Tutoriales"

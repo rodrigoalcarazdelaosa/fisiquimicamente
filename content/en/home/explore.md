@@ -19,7 +19,7 @@ subtitle = ""
   icon_link = "physics-chemistry-notes/"
   icon_pack = "tgs"
   name = "[Physics and Chemistry Notes](physics-chemistry-notes/)"
-  description = "[📗 13--14 year-olds](physics-chemistry-notes/13-14-year-olds) · [📘 14--15 year-olds](physics-chemistry-notes/14-15-year-olds) · [📙 15--16 year-olds](physics-chemistry-notes/15-16-year-olds) <br> [📕 16--17 year-olds](physics-chemistry-notes/16-17-year-olds) · [📓 17--18 year-olds](physics-chemistry-notes/17-18-year-olds) <br> [📔 Nomenclature of Chemistry](physics-chemistry-notes/nomenclature-chemistry)"  
+  description = "[📗 13--14 year-olds](physics-chemistry-notes/13-14-year-olds) · [📘 14--15 year-olds](physics-chemistry-notes/14-15-year-olds) · [📙 15--16 year-olds](physics-chemistry-notes/15-16-year-olds) · [📕 16--17 year-olds](physics-chemistry-notes/16-17-year-olds) · [📓 17--18 year-olds](physics-chemistry-notes/17-18-year-olds) <br> [📔 Nomenclature of Chemistry](physics-chemistry-notes/nomenclature-chemistry)"  
   
 [[feature]]
   icon = "tutoriales"

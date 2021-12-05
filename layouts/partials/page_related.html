@@ -19,10 +19,14 @@
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>📚 {{ .Title }}</a>
         {{ else if eq $sec "acti" }}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🗒️ {{ .Title }}</a>
+        {{ else if eq $sec "jueg" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🧩 {{ .Title }}</a>        
         {{ else if eq $sec "EBAU" }}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🎓 {{ .Title }}</a>
         {{ else if eq $sec "opos" }}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>📝 {{ .Title }}</a>
+        {{ else if eq $sec "radio" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>☢️ {{ .Title }}</a>        
         {{ else if eq $sec "tuto" }}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>👐🏼 {{ .Title }}</a>
         {{ else if eq $sec "enla" }}

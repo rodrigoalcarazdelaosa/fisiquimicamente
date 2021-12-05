@@ -15,6 +15,6 @@ Los [📚 <span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/a
 <i class="fab fa-creative-commons fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-by fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-sa fa-2x aria-hidden="true" "></i>
 </div>
 
-Las [🗒️ <span style="font-variant:small-caps;">**actividades**</span>]({{< ref "/actividades" >}}) son cortesía de **{{% mention "miguel-quiroga" %}}** y **{{% mention "pablo-ortega-rodriguez" %}}** y los [🎓 <span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) son cortesía de **{{% mention "enrique-ortega-gonzalez" %}}**, del [IES José del Campo](http://www.josedelcampo.com) de Ampuero (Cantabria).
+Las [🗒️ <span style="font-variant:small-caps;">**actividades**</span>]({{< ref "/actividades" >}}) son cortesía de **{{% mention "miguel-quiroga" %}}**, los [🧩 <span style="font-variant:small-caps;">**juegos educativos**</span>]({{< ref "/juegos-educativos" >}}) son cortesía de **{{% mention "pablo-ortega-rodriguez" %}}** y los [🎓 <span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) son cortesía de **{{% mention "enrique-ortega-gonzalez" %}}**, del [IES José del Campo](http://www.josedelcampo.com) de Ampuero (Cantabria).
 
 Con stickers animados de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.

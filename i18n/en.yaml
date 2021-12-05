@@ -254,7 +254,25 @@
   translation: 🗒️ Activities 17&ndash;18 year-olds Chemistry
   
 - id: actividades-formulacion
-  translation: 🗒️ Activities Nomenclature Chemistry           
+  translation: 🗒️ Activities Nomenclature Chemistry
+
+- id: juegos-educativos-segundo-tercero-eso
+  translation: 🧩 Educational Games 13&ndash;15 year-olds
+
+- id: juegos-educativos-cuarto-eso
+  translation: 🧩 Educational Games 15&ndash;16 year-olds
+
+- id: juegos-educativos-primero-bach
+  translation: 🧩 Educational Games 16&ndash;17 year-olds 
+  
+- id: juegos-educativos-segundo-bach-fisica
+  translation: 🧩 Educational Games 17&ndash;18 year-olds Physics
+  
+- id: juegos-educativos-segundo-bach-quimica
+  translation: 🧩 Educational Games 17&ndash;18 year-olds Chemistry
+  
+- id: juegos-educativos-formulacion
+  translation: 🧩 Educational Games Nomenclature Chemistry
 
 - id: slides
   translation: 🧑‍🏫 Slides

@@ -2,7 +2,7 @@
 title: El extraño caso de Lucía
 url: "/recursos-fisica-quimica/actividades/4eso/extrano-caso-lucia"
 subtitle: Conviértete en detective y averigua qué le ha ocurrido realmente a Lucía
-summary: "Conviértete en detective y averigua qué le ha ocurrido realmente a Lucía."
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Conviértete en detective y averigua qué le ha ocurrido realmente a Lucía."
 breadcrumbs: ["recursos-fisica-quimica","actividades-4eso"]
 authors:
 - miguel-quiroga
