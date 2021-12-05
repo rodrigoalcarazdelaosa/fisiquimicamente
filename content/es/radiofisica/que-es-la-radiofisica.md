@@ -52,6 +52,8 @@ subtitle = ""
 
 Bajo el lema "*Radiofísica Hospitalaria: La radiación necesaria, en el lugar exacto*", la [**SEFM**](https://sefm.es) ha iniciado una **campaña** para la **promoción** y **difusión** de la **especialidad** de **radiofísica hospitalaria** (**RFIR**) y de los profesionales que la ejercen.
 
-{{< video library="true" src="radiofisica/radiofisica.mp4" >}}
+<video autoplay playsinline loop style="margin-bottom: 1rem">
+  <source src="/media/radiofisica/radiofisica.mp4" type="video/mp4">
+</video>
 
 {{< cta cta_text="Descarga el póster" cta_link="/media/radiofisica/poster-sefm.pdf" cta_new_tab="true" cta_alt_text="O en formato tríptico" cta_alt_link="/media/radiofisica/triptico-sefm.pdf" cta_alt_new_tab="true" >}}

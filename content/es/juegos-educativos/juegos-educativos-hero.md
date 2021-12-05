@@ -22,4 +22,4 @@ advanced:
   css_class: 
 ---
 
-Geniales **juegos educativos** ([ABJ](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_juegos)) que sintetizan los contenidos de los currículos de Física y Química, organizadas por niveles y temas
+Geniales **juegos educativos** ([ABJ](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_juegos)) que sintetizan los contenidos de los currículos de Física y Química, organizados por niveles y temas
