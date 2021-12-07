@@ -67,7 +67,7 @@ L'**efecte pantalla** o **apantallament**, $a$, consisteix en l'**atenuació** d
 ### Càrrega nuclear efectiva
 Es tracta de la **càrrega positiva neta**, $Z\_\mathrm{eff}$, que experimenta un electró degut a l'apantallament. La càrrega nuclear efectiva **augmenta** d'esquerra a dreta al llarg d'un **període** i és **constant** al llarg d'un **grup**.
 
-Les [**reglas** de **Slater**](https://es.wikipedia.org/wiki/Reglas_de_Slater) ens permeten calcular-la, d'acord amb l'expressió:
+Les [**regles** de **Slater**](https://es.wikipedia.org/wiki/Reglas_de_Slater) ens permeten calcular-la, d'acord amb l'expressió:
 
 $$
 Z_\mathrm{eff} = Z - a,

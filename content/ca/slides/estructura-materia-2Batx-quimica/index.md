@@ -23,7 +23,7 @@ slides:
 - [Estructura electrònica](#/5)
 - [Partícules subatòmiques](#/6)
 
-Descàrrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 

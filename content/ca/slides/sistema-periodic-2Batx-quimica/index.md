@@ -20,7 +20,7 @@ slides:
 - [Apantallament i càrrega nuclear efectiva](#/2)
 - [Propietats periòdiques](#/3)
 
-Descàrrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
 ---
 
@@ -65,7 +65,7 @@ Es tracta de la **càrrega positiva neta**, $Z\_\mathrm{eff}$, que experimenta u
 
 ---
 
-Les [**reglas** de **Slater**](https://es.wikipedia.org/wiki/Reglas_de_Slater) ens permeten calcular-la, d'acord amb l'expressió:
+Les [**regles** de **Slater**](https://es.wikipedia.org/wiki/Reglas_de_Slater) ens permeten calcular-la, d'acord amb l'expressió:
 
 $$
 Z_\mathrm{eff} = Z - a,
