@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - eduard-cremades
+- alba-lopez-valenzuela
 tags:
 - apunts
 - 4t ESO
@@ -27,6 +28,10 @@ links:
   icon: file-download
   name: Pòster
   url: sistema-periodic-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Exercicis
+  url: sistema-periodic-exercicis.pdf
 
 slides: 
 ---

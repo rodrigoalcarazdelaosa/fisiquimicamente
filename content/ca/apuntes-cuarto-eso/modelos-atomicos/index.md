@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apunts","4teso"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - eduard-cremades
+- alba-lopez-valenzuela
 tags:
 - apunts
 - 4t ESO
@@ -27,7 +28,11 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Pòster
-  url: models-atomics-poster.pdf  
+  url: models-atomics-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Exercicis
+  url: models-atomics-exercicis.pdf
 
 slides: 
 ---
