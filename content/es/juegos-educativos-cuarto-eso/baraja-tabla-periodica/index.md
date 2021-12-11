@@ -2,7 +2,7 @@
 title: Baraja de la tabla periódica
 url: "/recursos-fisica-quimica/juegos-educativos/4eso/baraja-tabla-periodica"
 subtitle: Aprende química mientras juegas
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Una baraja química para conmemorar el Año Internacional de la Tabla Periódica."
+summary: "Una baraja química para conmemorar el Año Internacional de la Tabla Periódica."
 breadcrumbs: ["recursos-fisica-quimica","juegos-educativos-4eso"]
 tags:
 - ABJ

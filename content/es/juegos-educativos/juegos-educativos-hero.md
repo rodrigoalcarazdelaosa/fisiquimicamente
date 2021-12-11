@@ -11,7 +11,7 @@ cta:
   icon: compass
 cta_alt:
   label: Último juego educativo ➡️
-  url: "recursos-fisica-quimica/juegos-educativos/4eso/baraja-tabla-periodica/"
+  url: "/recursos-fisica-quimica/juegos-educativos/formulacion-nomenclatura-quimica/organica/formula-con-marvin"
 cta_note:
   label:
 design:
