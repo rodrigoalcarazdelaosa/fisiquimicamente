@@ -456,6 +456,32 @@ div.alert-example > div:first-child::before {
   border-color: $nord14;
 }
 
+div.alert-pirates > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: $nord0;
+  content: '\f714';
+}
+
+.alert-pirates {
+  color: $nord0;
+  background-color: $nord13;
+  border-color: $nord13;
+}
+
+div.alert-game > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: $nord0;
+  content: '\f12e';
+}
+
+.alert-game {
+  color: $nord0;
+  background-color: $nord14;
+  border-color: $nord14;
+}
+
 div.alert-gdrive > div:first-child::before {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 900;

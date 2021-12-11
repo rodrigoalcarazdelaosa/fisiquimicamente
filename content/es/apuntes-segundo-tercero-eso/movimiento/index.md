@@ -35,6 +35,10 @@ slides: movimiento-2ESO
 
 {{% toc %}}
 
+{{% callout pirates %}}
+**Trabaja** los **contenidos** de este **tema** viviendo una auténtica **aventura** de **piratas** con [esta genial **actividad**]({{< relref "/actividades-segundo-tercero-eso/burla-mares" >}}).
+{{% /callout %}}
+
 ## Definiciones
 ### Sistema de referencia
 Conjunto de puntos respecto de los cuales definimos las posiciones.

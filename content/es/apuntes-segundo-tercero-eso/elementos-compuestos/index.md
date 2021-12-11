@@ -32,6 +32,11 @@ slides: elementos-compuestos-2ESO-3ESO
 {{% toc %}}
 
 ## La tabla periódica de los elementos
+
+{{% callout game %}}
+**Aprende química** mientras juegas con [esta genial **baraja** de la **tabla** **periódica**]({{< relref "/juegos-educativos-cuarto-eso/baraja-tabla-periodica" >}}).
+{{% /callout %}}
+
 La **tabla periódica de los elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados por su número atómico $Z$**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/tabla-periodica-elementos.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/).<br>También puedes descargarte [este estupendo cómic](https://7dde302b-d152-48de-80b5-41af2754e2f1.filesusr.com/ugd/aabf3b_81075692dae9482a9625f84147de8272.pdf)." lightbox="false" width="100%" >}}
