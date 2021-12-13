@@ -11,7 +11,7 @@ tags:
 - forces
 categories:
 - Physics
-weight: 3
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

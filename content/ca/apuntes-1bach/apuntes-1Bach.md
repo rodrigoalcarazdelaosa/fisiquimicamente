@@ -26,8 +26,16 @@ subtitle = "📕 1r Batx"
     tag = "*"
 	
   [[content.filter_button]]
+    name = "Dissolucions"
+    tag = "dissolucions"
+  
+  [[content.filter_button]]
     name = "Reaccions químiques"
-    tag = "reaccions-químiques"		
+    tag = "reaccions-químiques"
+
+  [[content.filter_button]]
+    name = "Termoquímica"
+    tag = "termoquímica"    
 	
   [[content.filter_button]]
     name = "Moviment"

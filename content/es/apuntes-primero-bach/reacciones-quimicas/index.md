@@ -1,8 +1,8 @@
 ---
 title: Reacciones químicas
 url: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
-subtitle: Estequiometría, transformaciones energéticas y espontaneidad
-summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Estequiometría, transformaciones energéticas y espontaneidad."
+subtitle: Ecuaciones químicas, estequiometría, reactivo limitante y rendimiento
+summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Ecuaciones químicas, estequiometría, reactivo limitante y rendimiento de una reacción."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - apuntes
@@ -10,7 +10,7 @@ tags:
 - reacciones-químicas
 categories:
 - Química
-weight: 1
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

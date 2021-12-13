@@ -1,8 +1,8 @@
 ---
 title: Chemical Reactions
 url: "/physics-chemistry-notes/16-17-year-olds/chemical-reactions"
-subtitle: Stoichiometry, Energetic Transformations and Spontaneity
-summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Stoichiometry, Energetic Transformations and Spontaneity."
+subtitle: Chemical equations, stoichiometry, limiting reagent, and yields
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Chemical equations, stoichiometry, limiting reagent, and yields."
 breadcrumbs: ["notes","16-17-year-olds"]
 tags:
 - notes
@@ -10,7 +10,7 @@ tags:
 - chemical-reactions
 categories:
 - Chemistry
-weight: 1
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

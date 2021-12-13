@@ -15,7 +15,7 @@ tags:
 - energia
 categories:
 - Física
-weight: 4
+weight: 6
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

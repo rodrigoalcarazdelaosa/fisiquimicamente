@@ -1,8 +1,8 @@
 ---
 title: Reaccions químiques
 url: "/recursos-fisica-quimica/apunts/1batx/reaccions-quimiques"
-subtitle: Estequiometria, transformacions energètiques i espontaneïtat
-summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Estequiometria, transformacions energètiques i espontaneïtat."
+subtitle: Equacions químiques, estequiometria, reactiu limitant i rendiment
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Equacions químiques, estequiometria, reactiu limitant i rendiment."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 tags:
 - apunts
@@ -10,7 +10,7 @@ tags:
 - reaccions-químiques
 categories:
 - Química
-weight: 1
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

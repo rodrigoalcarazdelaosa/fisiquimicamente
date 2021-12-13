@@ -26,8 +26,16 @@ subtitle = "📕 1.º Bach"
     tag = "*"
 	
   [[content.filter_button]]
+    name = "Disoluciones"
+    tag = "disoluciones"
+  
+  [[content.filter_button]]
     name = "Reacciones químicas"
-    tag = "reacciones-químicas"		
+    tag = "reacciones-químicas"
+
+  [[content.filter_button]]
+    name = "Termoquímica"
+    tag = "termoquimica"
 	
   [[content.filter_button]]
     name = "Movimiento"

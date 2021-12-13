@@ -26,8 +26,16 @@ subtitle = "📕 16--17 year-olds"
     tag = "*"
 	
   [[content.filter_button]]
+    name = "Solutions"
+    tag = "solutions"
+  
+  [[content.filter_button]]
     name = "Chemical Reactions"
-    tag = "chemical-reactions"		  	
+    tag = "chemical-reactions"
+
+  [[content.filter_button]]
+    name = "Thermochemistry"
+    tag = "thermochemistry"
 	
   [[content.filter_button]]
     name = "Motion"
