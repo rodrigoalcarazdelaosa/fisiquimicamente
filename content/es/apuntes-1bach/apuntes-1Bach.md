@@ -35,7 +35,7 @@ subtitle = "📕 1.º Bach"
 
   [[content.filter_button]]
     name = "Termoquímica"
-    tag = "termoquimica"
+    tag = "termoquímica"
 	
   [[content.filter_button]]
     name = "Movimiento"

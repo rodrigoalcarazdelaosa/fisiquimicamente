@@ -35,7 +35,7 @@ subtitle = "📕 1r Batx"
 
   [[content.filter_button]]
     name = "Termoquímica"
-    tag = "termoquímica"    
+    tag = "termoquímica"
 	
   [[content.filter_button]]
     name = "Moviment"
