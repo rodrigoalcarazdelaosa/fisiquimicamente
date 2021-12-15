@@ -14,7 +14,7 @@ cta_alt:
   url:
 cta_note:
   label: >-
-    **Ciclos formativos** <br> - Técnico Superior en Radioterapia y Dosimetría <br> - Técnico Superior en Imagen para el Diagnóstico y Medicina Nuclear <br> [**Operador** de **Instalaciones Radiactivas**](https://www.csn.es/proteccion-radiologica/diplomas-licencias-y-acreditaciones) <br> **Acceso** a la **especialidad** de **RFIR**
+    🧑‍🏫 **Ciclos formativos** <br> - Técnico Superior en Radioterapia y Dosimetría <br> - Técnico Superior en Imagen para el Diagnóstico y Medicina Nuclear <br> 🧑‍🔧 **Operador** de **Instalaciones Radiactivas (IIRR)** <br> ☢️ **Acceso** a la **especialidad** de **RFIR**
 design:
   background:
     # color: "#FFFFF8"

@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+weight = 24  # Order that this section will appear.
 
-title = "¿Qué es la radiofísica?"
-subtitle = ""
+title = "🧑‍🔧 Operador de IIRR"
+subtitle = "💡Consejos"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,10 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Bajo el lema "*Radiofísica Hospitalaria: La radiación necesaria, en el lugar exacto*", la [**SEFM**](https://sefm.es) ha iniciado una **campaña** para la **promoción** y **difusión** de la **especialidad** de **radiofísica hospitalaria** (**RFIR**) y de los profesionales que la ejercen.
-
-<video autoplay playsinline loop style="margin-bottom: 1rem">
-  <source src="/media/radiofisica/radiofisica.mp4" type="video/mp4">
-</video>
-
-{{< cta cta_text="Descarga el póster" cta_link="/media/radiofisica/poster-sefm.pdf" cta_new_tab="true" cta_alt_text="O en formato tríptico" cta_alt_link="/media/radiofisica/triptico-sefm.pdf" cta_alt_new_tab="true" >}}
+{{% callout soon %}}
+Próximamente...
+{{% /callout %}}

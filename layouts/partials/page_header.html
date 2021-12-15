@@ -358,9 +358,14 @@
     {{ else if eq . "fisica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones/fisica">🧲 Física</a></li>                
     {{ else if eq . "quimica" }}
-      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones/quimica">⚗️ Química</a></li> 
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones/quimica">⚗️ Química</a></li>
+    {{ else if eq . "radiofisica" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica">☢️ Radiofísica</a></li>
+    {{ else if eq . "operador-IIRR-preguntas-examen" }}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica/operador-IIRR">🧑‍🔧 Operador de IIRR</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica/operador-IIRR/preguntas-examen">📝 Preguntas de examen</a></li>
     {{else if eq . "blog"}}
-  	  <li class="breadcrumb-item"><a href="/blog/">✍🏼 Blog</a></li>	       
+  	  <li class="breadcrumb-item"><a href="/blog/">✍🏼 Blog</a></li>
     {{ end }}
     {{ end }}
     <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>

@@ -54,7 +54,7 @@ subtitle = ""
   icon_link = "radiofisica/"
   icon_pack = "tgs"
   name = "[Radiofísica](radiofisica)"
-  description = "Ciclos formativos · Operador de IIRR · RFIR"
+  description = "🧑‍🏫 Ciclos formativos · [🧑‍🔧 Operador de IIRR](radiofisica/operador-IIRR) · ☢️ RFIR"
    
 [design]
   columns = "3"

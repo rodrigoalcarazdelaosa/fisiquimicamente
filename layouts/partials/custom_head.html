@@ -44,6 +44,21 @@
 </script>
 {{ end }}
 
+<script src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/quizdown.js"></script>
+
+<script>  
+    let config = {
+	    startOnLoad: true,		 // detect and convert all divs with class quizdown
+      shuffleAnswers: true,		 // shuffle answers for each question
+      shuffleQuestions: false,    // shuffle questsions for each quiz
+      primaryColor: '#88C0D0',  // primary CSS color
+      secondaryColor: '#EBCB8B',  // secondary CSS color
+      textColor: 'black',         // text color of some elements
+      locale: null                 // language of the user interface (auto-detect per default)
+    };
+    quizdown.init(config);	 
+</script>
+
 <!-- <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   new Crate({
     server: '755936234387275888', // FisiQuímicamente / PhysiChemically / FisiQuímicament
