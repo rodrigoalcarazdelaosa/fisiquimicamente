@@ -1,5 +1,5 @@
 ---
-title: 👐🏼 Tutorials
+title: 👐 Tutorials
 url: /tutorials
 
 # View.

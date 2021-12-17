@@ -46,7 +46,7 @@
   weight = 6  
 
 [[main]]
-  name = "👐🏼 Tutorials"
+  name = "👐 Tutorials"
   url = "tutorials/"
   identifier = "tutoriales"
   weight = 3
@@ -83,13 +83,13 @@
 #   pre = "<i class='fab fa-twitter mr-1'></i>"  
   
 # [[main]]
-#   name = "✍🏼 Blog"
+#   name = "✍️ Blog"
 #   url = "/blog"
 #   parent = "news"
 #   weight = 2 
 
 [[main]]
-  name = "✍🏼 Blog"
+  name = "✍️ Blog"
   url = "/blog"
   weight = 5 
 

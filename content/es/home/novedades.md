@@ -96,7 +96,7 @@ item:
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades
-    content: '👐🏼 Último tutorial'
+    content: '👐 Último tutorial'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -112,7 +112,7 @@ item:
     # cta_icon_pack: fas
     # cta_icon: graduation-cap        
   - title: 🗞️ Novedades
-    content: '✍🏼 Última entrada del blog'
+    content: '✍️ Última entrada del blog'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).

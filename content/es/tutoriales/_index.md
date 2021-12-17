@@ -1,5 +1,5 @@
 ---
-title: 👐🏼 Tutoriales
+title: 👐 Tutoriales
 
 # View.
 #   1 = List

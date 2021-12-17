@@ -158,7 +158,7 @@
 # Default titles for archive pages
   
 - id: posts
-  translation: ✍🏼 Blog
+  translation: ✍️ Blog
 - id: publications
   translation: Publicaciones
 - id: talks
@@ -206,7 +206,7 @@
 - id: authors
   translation: 👥 Autores
 - id: tutoriales
-  translation: 👐🏼 Tutoriales
+  translation: 👐 Tutoriales
 - id: recursos-online
   translation: 💻 Recursos online
 

@@ -123,7 +123,7 @@
 - id: open_project_site
   translation: Obre el lloc del web del projecte
 - id: posts
-  translation: ✍🏼 Blog
+  translation: ✍️ Blog
 - id: publications
   translation: Publicació
 - id: talks
@@ -171,7 +171,7 @@
 - id: authors
   translation: 👥 Autors
 - id: tutoriales
-  translation: 👐🏼 Tutorials
+  translation: 👐 Tutorials
 - id: recursos-online
   translation: 🔗 Recursos online
 - id: search

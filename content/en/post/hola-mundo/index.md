@@ -19,14 +19,14 @@ First blog. Here begins an adventure that I had been wanting to start for a long
 
 ## Who are we?
 
-[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is created by [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) in 2020 as a website where to share mainly [📚&nbsp;<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and [👐🏼&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is created by [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) in 2020 as a website where to share mainly [📚&nbsp;<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) and [👐&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
 
 In 2021 it transitions to a more *impersonal* website, better prepared and open for future collaborations. [Click here if you want to meet the **team** behind it]({{< ref "/equipo" >}}).
 
 
 ## Why this blog?
 
-Our main intention with this website is to provide [📚&nbsp;<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) to our students and to anyone else who might be interested, as well as sharing [👐🏼&nbsp;<span style="font-variant: small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) and collect [🔗&nbsp;<span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}).
+Our main intention with this website is to provide [📚&nbsp;<span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) to our students and to anyone else who might be interested, as well as sharing [👐&nbsp;<span style="font-variant: small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) and collect [🔗&nbsp;<span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}).
 
 We think that a **blog** is the perfect addition to be able to debate about **news** with a much more **dynamic** content.
 

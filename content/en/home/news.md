@@ -32,7 +32,7 @@ item:
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ News
-    content: '👐🏼 Latest Tutorial'
+    content: '👐 Latest Tutorial'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
@@ -48,7 +48,7 @@ item:
     # cta_icon_pack: fas
     # cta_icon: graduation-cap        
   - title: 🗞️ News
-    content: '✍🏼 Latest Blog Post'
+    content: '✍️ Latest Blog Post'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).

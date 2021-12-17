@@ -72,4 +72,4 @@ subtitle = ""
  css_class = ""
 +++
 
-## ✍🏼 Blog
+## ✍️ Blog
