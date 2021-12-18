@@ -30,7 +30,7 @@ subtitle = "Partitures d'arranjaments polifònics per **guitarra espanyola**"
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = "masonry"
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

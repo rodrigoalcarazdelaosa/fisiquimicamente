@@ -1,0 +1,58 @@
+{{ if not .IsHome }}
+  <nav class="d-none d-md-flex" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      {{ template "breadcrumb" . }}
+      <li class="breadcrumb-item active" aria-current="page">
+        {{ .LinkTitle | emojify }}
+      </li>
+    </ol>
+  </nav>
+{{ end }}
+
+{{ define "breadcrumb" }}
+    {{ with .Parent }}
+        {{ template "breadcrumb" . }}
+        <li class="breadcrumb-item">
+            <a href="{{ .RelPermalink }}">
+                {{ if .IsHome }}
+                {{ if eq .Site.Language.Lang "es" }}
+      <img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+        document.addEventListener('wcThemeChange', (e) => {
+          // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+          if (e.detail.isDarkTheme()) {
+          document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+          } else {
+          document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+          }
+          });
+      </script>
+    {{ else if eq .Site.Language.Lang "en" }}
+      <img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg" id="physichemically-breadcrumb"><script>
+        document.addEventListener('wcThemeChange', (e) => {
+          // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+          if (e.detail.isDarkTheme()) {
+          document.getElementById("physichemically-breadcrumb").src="/icon/logo-physichemically-dark.svg";
+          } else {
+          document.getElementById("physichemically-breadcrumb").src="/icon/logo-physichemically.svg";
+          }
+          });
+      </script>
+    {{ else if eq .Site.Language.Lang "ca" }}
+      <img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg" id="fisiquimicament-breadcrumb"><script>
+        document.addEventListener('wcThemeChange', (e) => {
+          // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+          if (e.detail.isDarkTheme()) {
+          document.getElementById("fisiquimicament-breadcrumb").src="/icon/logo-fisiquimicament-dark.svg";
+          } else {
+          document.getElementById("fisiquimicament-breadcrumb").src="/icon/logo-fisiquimicament.svg";
+          }
+          });
+      </script>        
+    {{ end }}  
+    {{ else }}
+      {{ .LinkTitle | emojify }}
+    {{ end }}
+  </a>
+</li>
+{{ end }}
+{{ end }}
