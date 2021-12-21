@@ -9,6 +9,7 @@ authors:
 tags:
 - radiofísica
 - operador-IIRR
+- física-s-XX
 - interacción-radiación-materia
 categories:
 - Física
@@ -26,7 +27,7 @@ image:
 
 ### Número atómico (*Z*)
 
-El número atómico (*Z*) de un radionúclido viene definido por:
+El número atómico (*Z*) de un radionúclido viene definido por:
 
 1. [x] Número de protones
 1. [ ] Número de nucleones
@@ -35,7 +36,7 @@ El número atómico (*Z*) de un radionúclido viene definido por:
 
 ### Núclidos
 
-Los nucleidos o núclidos que tienen el mismo número de protones (igual número atómico *Z*), pero distinto número de neutrones (distinto número másico *A*), reciben el nombre de:
+Los nucleidos o núclidos que tienen el mismo número de protones (igual número atómico *Z*), pero distinto número de neutrones (distinto número másico *A*), reciben el nombre de:
 
 1. [ ] Isóbaros
 1. [ ] Isómeros
@@ -44,7 +45,7 @@ Los nucleidos o núclidos que tienen el mismo número de protones (igual núm
 
 ### Capas electrónicas
 
-Los electrones están distribuidos en capas (K, L, M, N, O, etc.) alrededor del núcleo. Realmente, ¿estas *capas* que expresan?:
+Los electrones están distribuidos en capas (K, L, M, N, O, etc.) alrededor del núcleo. Realmente, ¿estas *capas* que expresan?:
 
 1. [ ] Niveles de masa
 1. [ ] Niveles de carga eléctrica
@@ -53,7 +54,7 @@ Los electrones están distribuidos en capas (K, L, M, N, O, etc.) alrededor del
 
 ### Ondas electromagnéticas
 
-Las ondas electromagnéticas se caracterizan por la longitud de onda, λ, y por la:
+Las ondas electromagnéticas se caracterizan por la longitud de onda, λ, y por la:
 
 1. [ ] Altura
 1. [ ] Anchura
@@ -62,7 +63,7 @@ Las ondas electromagnéticas se caracterizan por la longitud de onda, λ, y por
 
 ### Relación frecuencia-longitud de onda
 
-En una onda electromagnética, la relación entre la frecuencia y la longitud de onda, es una relación:
+En una onda electromagnética, la relación entre la frecuencia y la longitud de onda, es una relación:
 
 1. [ ] Directa
 1. [ ] Cuadrática
@@ -71,7 +72,7 @@ En una onda electromagnética, la relación entre la frecuencia y la longitud 
 
 ### Naturaleza corpuscular
 
-Considerando la naturaleza corpuscular de las ondas electromagnéticas, ¿cómo se denomina la partícula implicada en su interacción con la materia?:
+Considerando la naturaleza corpuscular de las ondas electromagnéticas, ¿cómo se denomina la partícula implicada en su interacción con la materia?:
 
 1. [ ] Electrón
 1. [x] Fotón
@@ -80,7 +81,7 @@ Considerando la naturaleza corpuscular de las ondas electromagnéticas, ¿cómo
 
 ### Carga eléctrica del fotón
 
-¿De qué signo es la carga eléctrica del fotón?:
+¿De qué signo es la carga eléctrica del fotón?:
 
 1. [ ] Negativa
 1. [ ] Positiva
@@ -89,7 +90,7 @@ Considerando la naturaleza corpuscular de las ondas electromagnéticas, ¿cómo
 
 ### Ritmo de transformación espontánea
 
-El ritmo o rapidez de la transformación espontánea de un núcleo inestable es característico de cada radionúclido, estando expresado por:
+El ritmo o rapidez de la transformación espontánea de un núcleo inestable es característico de cada radionúclido, estando expresado por:
 
 1. [ ] Constante de temperatura
 1. [x] Constante de desintegración
@@ -98,7 +99,7 @@ El ritmo o rapidez de la transformación espontánea de un núcleo inestable e
 
 ### Número de desintegraciones
 
-Cuando se habla del número de desintegraciones por segundo de un radionúclido, se está haciendo referencia a:
+Cuando se habla del número de desintegraciones por segundo de un radionúclido, se está haciendo referencia a:
 
 1. [ ] Periodo
 1. [ ] Constante de desintegración
@@ -107,7 +108,7 @@ Cuando se habla del número de desintegraciones por segundo de un radionúclid
 
 ### Actividad
 
-Si tenemos un radionúclido, con una actividad de 800 mCi y un periodo de semidesintegración de 4 años. Cuando transcurran 8 años, que actividad tendremos:
+Si tenemos un radionúclido, con una actividad de 800 mCi y un periodo de semidesintegración de 4 años. Cuando transcurran 8 años, que actividad tendremos:
 
 1. [x] 200 mCi
 1. [ ] 50 mCi
@@ -116,7 +117,7 @@ Si tenemos un radionúclido, con una actividad de 800 mCi y un periodo de semid
 
 ### Desintegración α
 
-Cuando un núcleo emite una partícula α, el número másico del núcleo resultante:
+Cuando un núcleo emite una partícula α, el número másico del núcleo resultante:
 
 1. [x] Disminuye 4 unidades
 1. [ ] Aumenta 2 unidades
@@ -125,7 +126,7 @@ Cuando un núcleo emite una partícula α, el número másico del núcleo r
 
 ### Desintegración β
 
-Los núcleos que experimentan una desintegración β sufrirán una alteración en su estructura que afectará fundamentalmente a:
+Los núcleos que experimentan una desintegración β sufrirán una alteración en su estructura que afectará fundamentalmente a:
 
 1. [ ] Número másico
 1. [x] Número atómico
@@ -134,7 +135,7 @@ Los núcleos que experimentan una desintegración β sufrirán una alteracio�
 
 ### Desintegración β<sup>–</sup>
 
-Cuando un núcleo sufre una desintegración radiactiva de tipo beta negativo, las partículas más importantes que emite son:
+Cuando un núcleo sufre una desintegración radiactiva de tipo beta negativo, las partículas más importantes que emite son:
 
 1. [ ] Neutrones
 1. [x] Electrones
@@ -143,7 +144,7 @@ Cuando un núcleo sufre una desintegración radiactiva de tipo beta negativo, 
 
 ### Captura electrónica
 
-En el fenómeno de la captura electrónica, cuando se produce el reajuste de la corteza electrónica se detectará emisión de:
+En el fenómeno de la captura electrónica, cuando se produce el reajuste de la corteza electrónica se detectará emisión de:
 
 1. [ ] Electrones
 1. [ ] Neutrones
@@ -152,7 +153,7 @@ En el fenómeno de la captura electrónica, cuando se produce el reajuste de l
 
 ### Radiaciones electromagnéticas
 
-¿Cuál de lo siguiente es cierto respecto de las radiaciones electromagnéticas?:
+¿Cuál de lo siguiente es cierto respecto de las radiaciones electromagnéticas?:
 
 1. [ ] Siempre son ionizantes
 1. [ ] Nunca son ionizantes
@@ -161,7 +162,7 @@ En el fenómeno de la captura electrónica, cuando se produce el reajuste de l
 
 ### Radiaciones ionizantes
 
-¿Cuál de los siguientes tipos de radiación son directamente ionizantes?:
+¿Cuál de los siguientes tipos de radiación son directamente ionizantes?:
 
 1. [ ] Fotones
 1. [x] Electrones
@@ -170,7 +171,7 @@ En el fenómeno de la captura electrónica, cuando se produce el reajuste de l
 
 ### Radiación de frenado
 
-La radiación de frenado se denomina también:
+La radiación de frenado se denomina también:
 
 1. [ ] Radiación penetrante
 1. [x] Radiación de Bremsstrahlung
@@ -179,7 +180,7 @@ La radiación de frenado se denomina también:
 
 ### Poder de frenado
 
-El poder de frenado de un medio material al ser atravesado por una radiación ionizante, va a depender de:
+El poder de frenado de un medio material al ser atravesado por una radiación ionizante, va a depender de:
 
 1. [ ] Número atómico del medio material
 1. [ ] Naturaleza de la radiación
@@ -188,7 +189,7 @@ El poder de frenado de un medio material al ser atravesado por una radiación i
 
 ### Interacción fotones-materia
 
-La interacción de los fotones con la materia puede ocurrir por:
+La interacción de los fotones con la materia puede ocurrir por:
 
 1. [ ] Efecto fotoeléctrico
 1. [ ] Dispersión Compton
@@ -197,7 +198,7 @@ La interacción de los fotones con la materia puede ocurrir por:
 
 ### Absorción de radiación electromagnética
 
-En la absorción de la radiación electromagnética por la materia, ¿cuál de los efectos producidos depende en menor grado del número atómico?
+En la absorción de la radiación electromagnética por la materia, ¿cuál de los efectos producidos depende en menor grado del número atómico?
 
 1. [x] Dispersión Compton
 1. [ ] Efecto fotoeléctrico
@@ -206,7 +207,7 @@ En la absorción de la radiación electromagnética por la materia, ¿cuál 
 
 ### Coeficiente másico de atenuación
 
-El coeficiente másico de atenuación es constante para un medio y una energía dada de fotones e independiente del estado de agregación del medio y se mide en:
+El coeficiente másico de atenuación es constante para un medio y una energía dada de fotones e independiente del estado de agregación del medio y se mide en:
 
 1. [x] cm<sup>2</sup>/g
 1. [ ] cm<sup>–1</sup>
@@ -215,7 +216,7 @@ El coeficiente másico de atenuación es constante para un medio y una energi�
 
 ### Interacción neutrones-materia
 
-Las interacciones más importantes de los neutrones con la materia serían; las dispersiones elásticas, dispersiones inelásticas y:
+Las interacciones más importantes de los neutrones con la materia serían; las dispersiones elásticas, dispersiones inelásticas y:
 
 1. [ ] Captura electrónica
 1. [ ] Efecto fotoeléctrico
