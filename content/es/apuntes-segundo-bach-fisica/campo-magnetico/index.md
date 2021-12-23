@@ -31,7 +31,7 @@ links:
   url: campo-magnetico-ejercicios.pdf
 - icon_pack: fas
   icon: external-link-alt
-  name: Ejercicios
+  name: Más ejercicios
   url: https://drive.google.com/file/d/1jgF2JtIDGkwyYLClBewpQ79JsNewmWnm/view
 
 ---
