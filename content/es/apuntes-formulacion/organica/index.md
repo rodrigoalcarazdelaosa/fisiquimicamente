@@ -26,6 +26,10 @@ links:
   icon: file-download
   name: Póster
   url: formulacion-nomenclatura-organica-poster.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Guía IUPAC
+  url: https://iupac.org/wp-content/uploads/2021/12/Guia-breu_CAT_7es_2_20211215.pdf
 
 slides: formulacion-nomenclatura-quimica-organica
 ---

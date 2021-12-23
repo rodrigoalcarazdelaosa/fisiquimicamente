@@ -26,6 +26,10 @@ links:
   icon: file-download
   name: Póster
   url: formulacion-nomenclatura-inorganica-poster.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Guía IUPAC
+  url: https://iupac.org/wp-content/uploads/2016/07/20151106GuiaBreveNQIEspayol.pdf
 
 slides: formulacion-nomenclatura-quimica-inorganica
 ---
