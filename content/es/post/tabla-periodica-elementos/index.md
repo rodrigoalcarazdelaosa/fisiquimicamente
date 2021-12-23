@@ -29,6 +29,10 @@ links:
   url: tabla-periodica-elementos-sin-nombres.pdf
 - icon_pack: fas
   icon: file-download
+  name: Versión configuraciones electrónicas
+  url: tabla-periodica-elementos-configuraciones-electronicas.pdf
+- icon_pack: fas
+  icon: file-download
   name: Cómic
   url: https://150tpuscsic.wixsite.com/150tp/comic
 ---
