@@ -55,7 +55,7 @@ La **tabla periódica** de los **elementos** organiza los **118 elementos** cono
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/2bach/quimica/sistema-periodico/tabla-periodica-elementos.pdf"}},
+			content:{location: {url: "https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-configuraciones-electronicas.pdf"}},
 			metaData:{fileName: "tabla-periodica-elementos.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
