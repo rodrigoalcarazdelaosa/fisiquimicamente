@@ -70,13 +70,13 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultimos-ejercicios-oposiciones-fisica.webp  # Image path relative to your `assets/media/` folder
+    overlay_img: novedades/ultimo-ejercicio-oposiciones-fisica.jpg  # Image path relative to your `assets/media/` folder
     # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Navarra 2018 Ejercicio 5
-    cta_url: 'recursos-fisica-quimica/oposiciones/fisica/navarra-2018-castellano-e5/'
+    cta_label: Cantabria 2016 Ejercicio 2
+    cta_url: 'recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e2/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades
@@ -86,7 +86,7 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultimos-ejercicios-oposiciones-quimica.webp  # Image path relative to your `assets/media/` folder
+    overlay_img: novedades/ultimo-ejercicio-oposiciones-quimica.webp  # Image path relative to your `assets/media/` folder
     # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.

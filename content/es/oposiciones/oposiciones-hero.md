@@ -22,4 +22,4 @@ advanced:
   css_class: 
 ---
 
-**Ejercicios resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}**
+**Ejercicios resueltos** con la ayuda de **{{% mention "jesica-sanchez-mazon" %}}** y **{{% mention "enrique-ortega-gonzalez" %}}**

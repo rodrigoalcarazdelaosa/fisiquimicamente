@@ -12,7 +12,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-highlight_name: true
+highlight_name: false
 
 # Role/position
 role: Medical Physicist and Radioactive Facilities Supervisor

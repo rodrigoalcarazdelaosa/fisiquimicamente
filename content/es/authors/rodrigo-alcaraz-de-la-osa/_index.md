@@ -12,7 +12,7 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-highlight_name: true
+highlight_name: false
 
 # Role/position
 role: Doctor en Física y Profesor de Física y Química
