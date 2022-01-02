@@ -118,13 +118,13 @@ item:
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultima-entrada-blog.jpg  # Image path relative to your `assets/media/` folder
+    overlay_img: novedades/ultima-entrada-blog.webp  # Image path relative to your `assets/media/` folder
     # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: "Los materiales y las cuatro preguntas esenciales de la Química"
-    cta_url: 'blog/2021/09/12/los-materiales-y-las-cuatro-preguntas-esenciales-de-la-quimica/'
+    cta_label: "Telescopio Espacial James Webb 🔭"
+    cta_url: 'blog/2021/12/29/telescopio-espacial-james-webb/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
 ---    
