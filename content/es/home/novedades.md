@@ -124,7 +124,7 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
     cta_label: "Telescopio Espacial James Webb 🔭"
-    cta_url: 'blog/2021/12/29/telescopio-espacial-james-webb/'
+    cta_url: 'blog/2022/01/02/telescopio-espacial-james-webb/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
 ---    

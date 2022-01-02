@@ -3,7 +3,7 @@ title: Telescopio Espacial James Webb 🔭
 subtitle: Todo sobre el principal observatorio de la próxima década
 summary: Todo sobre el principal observatorio de la próxima década.
 breadcrumbs: ["blog"]
-date: "2021-12-29T00:00:00Z"
+date: "2022-01-02T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -44,7 +44,7 @@ En este **vídeo** puedes ver la **transmisión oficial** de la **NASA** del **l
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<model-viewer bounds="tight" camera-controls shadow-intensity=1 poster="webb-modelo-3D-poster.png" skybox-image="webb-hdr.jpg" alt="Modelo 3D del Telescopio Espacial James Webb" exposure="10" src="webb-modelo-3D.glb" style="width: 100%; height: 500px;" camera-orbit="-30.00deg 75.00deg auto" data-js-focus-visible></model-viewer>
+<model-viewer bounds="tight" camera-controls shadow-intensity=1 poster="webb-modelo-3D-poster.webp" seamless-poster environment-image="neutral" alt="Modelo 3D del Telescopio Espacial James Webb" src="webb-modelo-3D.glb" style="width: 100%; height: 500px; background-color: transparent; --poster-color: transparent;" camera-orbit="30.00deg 75.00deg auto" data-js-focus-visible></model-viewer>
 
 ## Colaboración internacional
 
