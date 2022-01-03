@@ -22,12 +22,16 @@ subtitle = "📝 Preguntas de examen"
   filter_default = 0
 	
   [[content.filter_button]]
+    name = "Todas"
+    tag = "*"
+  
+  [[content.filter_button]]
     name = "Interacción radiación-materia"
     tag = "interacción-radiación-materia"
   
   [[content.filter_button]]
     name = "Magnitudes y unidades radiológicas"
-    tag = "magnitudes-unidades-radiológicas"
+    tag = "magnitudes"
 
   [[content.filter_button]]
     name = "Detección y medida de la radiación"

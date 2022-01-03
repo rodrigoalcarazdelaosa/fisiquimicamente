@@ -7,7 +7,9 @@ date: "2020-04-30T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
-- actividad-científica
+- magnitudes
+- unidades
+- SI
 categories:
 - Física
 - Química

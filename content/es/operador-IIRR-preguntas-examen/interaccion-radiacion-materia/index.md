@@ -10,6 +10,7 @@ tags:
 - radiofísica
 - operador-IIRR
 - física-s-XX
+- radiaciones-ionizantes
 - interacción-radiación-materia
 categories:
 - Física
@@ -52,15 +53,6 @@ Los electrones están distribuidos en capas (K, L, M, N, O, etc.) alrededor del 
 1. [x] Niveles de energía
 1. [ ] Orden alfabético
 
-### Ondas electromagnéticas
-
-Las ondas electromagnéticas se caracterizan por la longitud de onda, λ, y por la:
-
-1. [ ] Altura
-1. [ ] Anchura
-1. [x] Frecuencia
-1. [ ] Temperatura
-
 ### Relación frecuencia-longitud de onda
 
 En una onda electromagnética, la relación entre la frecuencia y la longitud de onda, es una relación:
@@ -87,15 +79,6 @@ Considerando la naturaleza corpuscular de las ondas electromagnéticas, ¿cómo 
 1. [ ] Positiva
 1. [ ] Depende de la masa
 1. [x] Los fotones no tienen carga
-
-### Ritmo de transformación espontánea
-
-El ritmo o rapidez de la transformación espontánea de un núcleo inestable es característico de cada radionúclido, estando expresado por:
-
-1. [ ] Constante de temperatura
-1. [x] Constante de desintegración
-1. [ ] Constante inestable
-1. [ ] Cada radionúclido se desintegra de forma variable
 
 ### Número de desintegraciones
 

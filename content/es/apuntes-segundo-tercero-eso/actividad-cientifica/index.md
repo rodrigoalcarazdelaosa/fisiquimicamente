@@ -9,6 +9,9 @@ tags:
 - 2º ESO
 - 3º ESO
 - actividad-científica
+- magnitudes
+- unidades
+- SI
 categories:
 - Física
 - Química
