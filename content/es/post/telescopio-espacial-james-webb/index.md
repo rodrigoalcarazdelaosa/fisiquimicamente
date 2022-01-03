@@ -8,6 +8,7 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
 - gravitación
+- telescopio
 - webb
 categories:
 - Física

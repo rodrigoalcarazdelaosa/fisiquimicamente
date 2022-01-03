@@ -10,6 +10,7 @@ tags:
 - movimiento
 - gravitación
 - spacex
+- cohete
 - falcon
 categories:
 - Física
