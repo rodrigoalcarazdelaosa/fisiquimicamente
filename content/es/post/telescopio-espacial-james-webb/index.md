@@ -40,11 +40,13 @@ En este **vídeo** puedes ver la **transmisión oficial** de la **NASA** del **l
 
 ### Modelo en 3D
 
-**Interactúa** con [este impresionante **modelo** en **3D**](https://artsandculture.google.com/asset/james-webb-space-telescope-3d-model/RQHfmLBYzpnmbA), fruto de una colaboración entre [Google Arts & Culture](https://es.wikipedia.org/wiki/Google_Arts_%26_Culture) y la [NASA](https://es.wikipedia.org/wiki/NASA):
+**Interactúa** con [este impresionante **modelo** en **3D**](https://artsandculture.google.com/asset/james-webb-space-telescope-3d-model/RQHfmLBYzpnmbA)[^2], fruto de una colaboración entre [Google Arts & Culture](https://es.wikipedia.org/wiki/Google_Arts_%26_Culture) y la [NASA](https://es.wikipedia.org/wiki/NASA):
+
+[^2]: Fuente de la imagen de fondo: https://www.artstation.com/marketplace/p/zp8o/nanopack-nebula-hdri.
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<model-viewer bounds="tight" camera-controls shadow-intensity=1 poster="webb-modelo-3D-poster.webp" seamless-poster environment-image="neutral" alt="Modelo 3D del Telescopio Espacial James Webb" src="webb-modelo-3D.glb" style="width: 100%; height: 500px; background-color: transparent; --poster-color: transparent;" camera-orbit="30.00deg 75.00deg auto" data-js-focus-visible></model-viewer>
+<model-viewer bounds="tight" camera-controls shadow-intensity="1" poster="webb-modelo-3D-poster.webp" skybox-image="webb-modelo-3D-hdr.jpg" alt="Modelo 3D del Telescopio Espacial James Webb" src="webb-modelo-3D.glb" style="width: 100%; height: 500px" camera-orbit="30.00deg 75.00deg auto" exposure="5" data-js-focus-visible></model-viewer>
 
 ## Colaboración internacional
 
