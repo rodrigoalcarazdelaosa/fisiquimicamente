@@ -144,6 +144,15 @@ Sobre las magnitudes radiométricas, señala la afirmación correcta:
 1. [ ] La unidad de medida es el C/kg
 1. [x] Todas son correctas
 
+### Unidad de exposición
+
+La unidad de la exposición es en SI es el C/Kg. ¿Cuál es la unidad, ya obsoleta, que se usaba antiguamente?:
+
+1. [x] Röentgen
+1. [ ] Rad
+1. [ ] Rem
+1. [ ] Bq
+
 ### Exposición equivalencia
 
 ¿Cuál es la equivalencia entre la unidad de exposición en el SI actual y la unidad antigua?
