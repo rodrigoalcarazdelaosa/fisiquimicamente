@@ -39,9 +39,9 @@ En este **vídeo** puedes ver la **transmisión oficial** de la **NASA** del **l
 
 [^1]: Webb era conocido anteriormente como "Telescopio Espacial de Nueva Generación" (NGST por sus siglas en inglés); fue rebautizado en septiembre de 2002 en honor a un antiguo administrador de la NASA, [James Webb](https://es.wikipedia.org/wiki/James_E._Webb).
 
-### Modelo en 3D
+### Modelo 3D
 
-**Interactúa** con [este impresionante **modelo** en **3D**](https://artsandculture.google.com/asset/james-webb-space-telescope-3d-model/RQHfmLBYzpnmbA)[^2], fruto de una colaboración entre [Google Arts & Culture](https://es.wikipedia.org/wiki/Google_Arts_%26_Culture) y la [NASA](https://es.wikipedia.org/wiki/NASA):
+**Interactúa** con [este impresionante **modelo 3D**](https://artsandculture.google.com/asset/james-webb-space-telescope-3d-model/RQHfmLBYzpnmbA)[^2], fruto de una colaboración entre [Google Arts & Culture](https://es.wikipedia.org/wiki/Google_Arts_%26_Culture) y la [NASA](https://es.wikipedia.org/wiki/NASA):
 
 [^2]: Fuente de la imagen de fondo: https://www.artstation.com/marketplace/p/zp8o/nanopack-nebula-hdri.
 
