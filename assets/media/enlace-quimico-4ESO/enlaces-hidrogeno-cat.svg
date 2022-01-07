@@ -1,0 +1,2127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="enlaces-hidrogeno-cat.svg"
+   id="svg779"
+   xml:space="preserve"
+   viewBox="0 0 458.26802 395.01854"
+   y="0px"
+   x="0px"
+   version="1.1"
+   width="458.26801"
+   height="395.01852"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   id="metadata785"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs783">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+		
+	</defs><sodipodi:namedview
+   inkscape:current-layer="svg779"
+   inkscape:window-maximized="0"
+   inkscape:window-y="8"
+   inkscape:window-x="0"
+   inkscape:cy="214.87003"
+   inkscape:cx="218.34502"
+   inkscape:zoom="1.7266252"
+   showgrid="false"
+   id="namedview781"
+   inkscape:window-height="1080"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0"
+   inkscape:pagecheckerboard="0"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+<style
+   id="style10"
+   type="text/css">
+	.st0{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.3064,3.1532;}
+	.st2{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.783,2.8915;}
+	.st3{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.0071,3.0036;}
+	.st4{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.0538,2.5269;}
+	.st5{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.4054,3.2027;}
+	.st6{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.254,2.627;}
+	.st7{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.1631,3.0816;}
+	.st8{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.1938,3.0969;}
+	.st9{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.1039,2.5519;}
+	.st10{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.7678,2.8839;}
+	.st11{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.5054,3.2527;}
+	.st12{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.7954,2.8977;}
+	.st13{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.6104,2.8052;}
+	.st14{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.1583,3.0791;}
+	.st15{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.8169,2.9085;}
+	.st16{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.3712,3.1856;}
+	.st17{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.0917,2.5458;}
+	.st18{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.6003,2.8001;}
+	.st19{fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.1264,3.0632;}
+	.st20{fill:url(#Oxygen_atom_x5F_01_fill_12_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st21{fill:#EFABA2;}
+	.st22{fill:url(#Hydrogen_atom_x5F_02_12_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st23{fill:url(#Hydrogen_atom_x5F_01_12_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st24{fill:url(#Oxygen_atom_x5F_01_fill_13_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st25{fill:url(#Hydrogen_atom_x5F_02_13_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st26{fill:url(#Hydrogen_atom_x5F_01_13_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st27{fill:url(#Oxygen_atom_x5F_01_fill_14_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st28{fill:url(#Hydrogen_atom_x5F_02_14_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st29{fill:url(#Hydrogen_atom_x5F_01_14_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st30{fill:url(#Oxygen_atom_x5F_01_fill_15_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st31{fill:url(#Hydrogen_atom_x5F_02_15_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st32{fill:url(#Hydrogen_atom_x5F_01_15_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st33{fill:url(#Oxygen_atom_x5F_01_fill_16_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st34{fill:url(#Hydrogen_atom_x5F_02_16_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st35{fill:url(#Hydrogen_atom_x5F_01_16_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st36{fill:url(#Oxygen_atom_x5F_01_fill_17_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st37{fill:url(#Hydrogen_atom_x5F_02_17_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st38{fill:url(#Hydrogen_atom_x5F_01_17_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st39{fill:url(#Oxygen_atom_x5F_01_fill_18_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st40{fill:url(#Hydrogen_atom_x5F_02_18_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st41{fill:url(#Hydrogen_atom_x5F_01_18_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st42{fill:url(#Oxygen_atom_x5F_01_fill_19_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st43{fill:url(#Hydrogen_atom_x5F_02_19_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st44{fill:url(#Hydrogen_atom_x5F_01_19_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st45{fill:url(#Oxygen_atom_x5F_01_fill_20_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st46{fill:url(#Hydrogen_atom_x5F_02_20_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st47{fill:url(#Hydrogen_atom_x5F_01_20_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st48{fill:url(#Oxygen_atom_x5F_01_fill_21_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st49{fill:url(#Hydrogen_atom_x5F_02_21_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st50{fill:url(#Hydrogen_atom_x5F_01_21_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st51{fill:url(#Oxygen_atom_x5F_01_fill_22_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st52{fill:url(#Hydrogen_atom_x5F_02_22_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st53{fill:url(#Hydrogen_atom_x5F_01_22_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st54{fill:url(#Oxygen_atom_x5F_01_fill_23_);stroke:#DD5F52;stroke-width:0.5;stroke-miterlimit:10;}
+	.st55{fill:url(#Hydrogen_atom_x5F_02_23_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st56{fill:url(#Hydrogen_atom_x5F_01_23_);stroke:#999999;stroke-width:0.5;stroke-miterlimit:10;}
+	.st57{fill:none;stroke:#333333;stroke-miterlimit:10;}
+	.st58{fill:#333333;}
+</style>
+<g
+   id="Art"
+   transform="translate(-0.00324011,0.00300578)">
+	<g
+   id="Hydrogen_bond_x5F_01">
+		<g
+   id="g18">
+			<path
+   id="line12"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 197.55,25.51 -2.89,0.799999"
+   class="st0" />
+			<path
+   id="line14"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.3064, 3.1532"
+   d="M 191.62,27.139999 120.17,46.790001"
+   class="st1" />
+			<path
+   id="line16"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 118.65,47.200001 115.75,48"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_02">
+		<g
+   id="g27">
+			<path
+   id="line21"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 56.099998,150.96001 57.560001,148.34"
+   class="st0" />
+			<path
+   id="line23"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.783, 2.8915"
+   d="M 58.959999,145.81 79.32,109.15"
+   class="st2" />
+			<path
+   id="line25"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 80.019997,107.89 1.460006,-2.62"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_03">
+		<g
+   id="g36">
+			<path
+   id="line30"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 169.96001,109.92 167.2,108.74"
+   class="st0" />
+			<path
+   id="line32"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.0071, 3.0036"
+   d="m 164.44,107.56 -15.19,-6.49"
+   class="st3" />
+			<path
+   id="line34"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 147.87,100.48 -2.76,-1.179997"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_04">
+		<g
+   id="g45">
+			<path
+   id="line39"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 207.33,100.39 0.8,-2.900002"
+   class="st0" />
+			<path
+   id="line41"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.0538, 2.5269"
+   d="m 208.8,95.059998 5.69001,-20.71"
+   class="st4" />
+			<path
+   id="line43"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 214.83,73.129997 0.79,-2.889999"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_05">
+		<g
+   id="g54">
+			<path
+   id="line48"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 325.60001,41.07 322.62,40.75"
+   class="st0" />
+			<path
+   id="line50"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.4054, 3.2027"
+   d="M 319.44,40.419998 273.25,35.529999"
+   class="st5" />
+			<path
+   id="line52"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 271.66,35.360001 -2.98001,-0.32"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_06">
+		<g
+   id="g63">
+			<path
+   id="line57"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 366.25,83.809998 -0.62,2.93"
+   class="st0" />
+			<path
+   id="line59"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.254, 2.627"
+   d="M 365.07999,89.309998 360.42001,111.15"
+   class="st6" />
+			<path
+   id="line61"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 360.14999,112.44 -0.63,2.93"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_07">
+		<g
+   id="g72">
+			<path
+   id="line66"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 302.79001,138.50999 -1.84,2.36001"
+   class="st0" />
+			<path
+   id="line68"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.1631, 3.0816"
+   d="m 299.06,143.31 -16.07999,20.67"
+   class="st7" />
+			<path
+   id="line70"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 282.03,165.2 -1.84,2.37001"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_08">
+		<g
+   id="g81">
+			<path
+   id="line75"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 337.56,181.09 -0.28,2.99"
+   class="st0" />
+			<path
+   id="line77"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.1938, 3.0969"
+   d="M 336.98001,187.16 332.66,231.86"
+   class="st8" />
+			<path
+   id="line79"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 332.51001,233.39999 -0.28,2.98001"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_09">
+		<g
+   id="g90">
+			<path
+   id="line84"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 290.34,218 1.85,2.36"
+   class="st0" />
+			<path
+   id="line86"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.1039, 2.5519"
+   d="m 293.76001,222.37 13.38,17.07"
+   class="st9" />
+			<path
+   id="line88"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 307.92001,240.45 1.84998,2.36"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_10">
+		<g
+   id="g99">
+			<path
+   id="line93"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 401.14001,224.87 399.22,227.17999"
+   class="st0" />
+			<path
+   id="line95"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.7678, 2.8839"
+   d="m 397.38,229.39 -26.77001,32.12999"
+   class="st10" />
+			<path
+   id="line97"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 369.69,262.63 -1.92001,2.31"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_11">
+		<g
+   id="g108">
+			<path
+   id="line102"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 372.75,136.74001 2.34,1.86999"
+   class="st0" />
+			<path
+   id="line104"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.5054, 3.2527"
+   d="m 377.63,140.64 21.60999,17.24"
+   class="st11" />
+			<path
+   id="line106"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 400.51001,158.89999 2.34998,1.87001"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_12">
+		<g
+   id="g117">
+			<path
+   id="line111"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 143.03999,203.85001 1.25,-2.72001"
+   class="st0" />
+			<path
+   id="line113"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.7954, 2.8977"
+   d="m 145.5,198.49001 17.55,-38.17"
+   class="st12" />
+			<path
+   id="line115"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 163.64999,159 164.91,156.27"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_13">
+		<g
+   id="g126">
+			<path
+   id="line120"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 64.07,209.10001 66.790001,210.36"
+   class="st0" />
+			<path
+   id="line122"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.6104, 2.8052"
+   d="M 69.330002,211.53999 90.959999,221.59"
+   class="st13" />
+			<path
+   id="line124"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 92.230003,222.17999 94.949997,223.44"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_14">
+		<g
+   id="g135">
+			<path
+   id="line129"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 135.08,274.41 1.09999,2.79001"
+   class="st0" />
+			<path
+   id="line131"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.1583, 3.0791"
+   d="m 137.31,280.07001 16.36,41.53998"
+   class="st14" />
+			<path
+   id="line133"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 154.23,323.04001 1.1,2.78998"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_15">
+		<g
+   id="g144">
+			<path
+   id="line138"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 214.94,313.87 -1.42,2.64001"
+   class="st0" />
+			<path
+   id="line140"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.8169, 2.9085"
+   d="m 212.14,319.07001 -11.74001,21.75998"
+   class="st15" />
+			<path
+   id="line142"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 199.71001,342.10999 198.28999,344.75"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_16">
+		<g
+   id="g153">
+			<path
+   id="line147"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 251.87,282.67999 2.88999,0.81"
+   class="st0" />
+			<path
+   id="line149"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.3712, 3.1856"
+   d="m 257.82001,284.34 44.5,12.39999"
+   class="st16" />
+			<path
+   id="line151"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 303.85001,297.17001 2.88998,0.81"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_17">
+		<g
+   id="g162">
+			<path
+   id="line156"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 226.83,243.12 0.55,-2.94001"
+   class="st0" />
+			<path
+   id="line158"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.0917, 2.5458"
+   d="M 227.85001,237.67 230.42,223.91"
+   class="st17" />
+			<path
+   id="line160"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 230.64999,222.66 231.2,219.71001"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_18">
+		<g
+   id="g171">
+			<path
+   id="line165"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 185.03999,257.92001 182.61,256.16"
+   class="st0" />
+			<path
+   id="line167"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:5.6003, 2.8001"
+   d="m 180.34,254.52 -12.48999,-9.01001"
+   class="st18" />
+			<path
+   id="line169"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 166.71001,244.69 164.28,242.94"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Hydrogen_bond_x5F_19">
+		<g
+   id="g180">
+			<path
+   id="line174"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="m 239.08,168.16 -2.16,-2.08999"
+   class="st0" />
+			<path
+   id="line176"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6.1264, 3.0632"
+   d="m 234.73,163.94 -5.5,-5.33"
+   class="st19" />
+			<path
+   id="line178"
+   style="fill:none;stroke:#707070;stroke-width:2;stroke-miterlimit:10"
+   d="M 228.13,157.53999 225.98,155.45"
+   class="st0" />
+		</g>
+	</g>
+	<g
+   id="Water_Molecule_x5F_01">
+		<g
+   id="Oxygen_atom_x5F_01_11_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.9984,0.057,0.057,0.9984,-302.2163,-88.123)"
+   r="32.093601"
+   cy="150.52229"
+   cx="-523.18262"
+   id="Oxygen_atom_x5F_01_fill_12_">
+				<stop
+   id="stop183"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop185"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop187"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop189"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop191"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop193"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop195"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 260.73,30.51 c 1.13,17.91 -12.27,33.28 -30.21,33.87 -17.71,0.58 -32.86,-12.52 -33.87,-30.21 -1.01,-17.69 12.52,-32.86 30.21,-33.87 17.69,-1.01 32.75,12.53 33.87,30.21 z"
+   class="st20"
+   id="Oxygen_atom_x5F_01_fill_11_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_12_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_11_"
+   style="fill:#efaba2"
+   d="M 248.16001,18.85 A 5.7800002,5.7800002 0 0 1 242.38,24.630001 5.7800002,5.7800002 0 0 1 236.6,18.85 a 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78001,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.3334,-0.9428,0.9428,0.3334,-735.9641,156.1922)"
+   r="12.72"
+   cy="898.1192"
+   cx="447.18359"
+   id="Hydrogen_atom_x5F_02_12_">
+			<stop
+   id="stop201"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop203"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop205"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop207"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop209"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 256.12,49.18 c 5.45,-1.26 9.79,-5.35 11.79,-11.02 3.12,-8.82 -1.87,-18.32 -10.15,-21.45 -0.37,-0.14 -0.94,-0.26 -1.26,-0.24 2.34,4.03 3.6,21.84 -0.38,32.71 z"
+   class="st22"
+   id="Hydrogen_atom_x5F_02_11_"
+   style="fill:url(#Hydrogen_atom_x5F_02_12_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.9977,0.0683,0.0683,0.9977,-1474.1547,716.9572)"
+   r="12.755"
+   cy="-537.08337"
+   cx="-1736.5001"
+   id="Hydrogen_atom_x5F_01_12_">
+			<stop
+   id="stop213"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop215"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop217"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop219"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop221"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 237.28,63.49 c -2.68,4.91 -8.03,7.6 -14.02,8.01 -9.33,0.64 -16.9,-6.32 -17.7,-15.13 -0.04,-0.39 -0.03,-1.49 -0.03,-1.88 4.75,3.56 19.98,8.51 31.75,9 z"
+   class="st23"
+   id="Hydrogen_atom_x5F_01_11_"
+   style="fill:url(#Hydrogen_atom_x5F_01_12_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_02">
+		<g
+   id="Oxygen_atom_x5F_01_10_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.7316,0.6818,0.6818,0.7316,-235.4245,364.2766)"
+   r="32.093601"
+   cy="171.1221"
+   cx="-651.01562"
+   id="Oxygen_atom_x5F_01_fill_13_">
+				<stop
+   id="stop226"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop228"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop230"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop232"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop234"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop236"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop238"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 380.98,23.75 c 12.31,13.05 11.83,33.44 -1.6,45.36 -13.26,11.76 -33.27,11.37 -45.36,-1.6 -12.09,-12.97 -11.37,-33.27 1.6,-45.36 12.97,-12.08 33.2,-11.29 45.36,1.6 z"
+   class="st24"
+   id="Oxygen_atom_x5F_01_fill_10_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_13_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_10_"
+   style="fill:#efaba2"
+   d="m 376.95999,32.32 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.780001 5.7800002,5.7800002 0 0 1 5.78,5.780001 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.346,-0.9382,0.9382,-0.346,-412.9659,829.3638)"
+   r="12.72"
+   cy="1023.9789"
+   cx="477.59521"
+   id="Hydrogen_atom_x5F_02_13_">
+			<stop
+   id="stop244"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop246"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop248"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop250"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop252"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 389.36,41.05 c 3.39,-4.45 4.11,-10.37 2.03,-16.01 -3.24,-8.77 -13.15,-12.89 -21.51,-10.02 -0.37,0.13 -0.89,0.4 -1.12,0.61 4.37,1.62 16.72,14.52 20.6,25.42 z"
+   class="st25"
+   id="Hydrogen_atom_x5F_02_10_"
+   style="fill:url(#Hydrogen_atom_x5F_02_13_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.7238,0.69,0.69,0.7238,-622.4913,1732.4041)"
+   r="12.755"
+   cy="-515.03247"
+   cx="-1864.0908"
+   id="Hydrogen_atom_x5F_01_13_">
+			<stop
+   id="stop256"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop258"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop260"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop262"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop264"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 384.01,64.09 c 1.08,5.49 -1.32,10.98 -5.67,15.12 -6.77,6.45 -17.04,5.94 -23.28,-0.33 -0.28,-0.28 -0.98,-1.13 -1.23,-1.42 5.94,-0.3 20.82,-6.22 30.18,-13.37 z"
+   class="st26"
+   id="Hydrogen_atom_x5F_01_10_"
+   style="fill:url(#Hydrogen_atom_x5F_01_13_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_03">
+		<g
+   id="Oxygen_atom_x5F_01_9_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.3856,0.9227,0.9227,-0.3856,347.7605,868.0281)"
+   r="32.093601"
+   cy="323.26761"
+   cx="-591.6189"
+   id="Oxygen_atom_x5F_01_fill_14_">
+				<stop
+   id="stop269"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop271"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop273"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop275"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop277"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop279"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop281"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 405.53,167.9 c 16.51,-7.02 35.47,0.51 41.98,17.24 6.43,16.51 -0.88,35.15 -17.24,41.98 -16.35,6.83 -35.15,-0.88 -41.98,-17.24 -6.83,-16.36 0.93,-35.04 17.24,-41.98 z"
+   class="st27"
+   id="Oxygen_atom_x5F_01_fill_9_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_14_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_9_"
+   style="fill:#efaba2"
+   d="m 437.23999,184.12 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78001 5.7800002,5.7800002 0 0 1 5.78,5.78001 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-1,-0.00101575,0.00101575,-1,722.3843,1195.9296)"
+   r="12.7201"
+   cy="1028.0337"
+   cx="314.34381"
+   id="Hydrogen_atom_x5F_02_14_">
+			<stop
+   id="stop287"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop289"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop291"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop293"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop295"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 424.67,166.05 c -3,-4.72 -8.3,-7.46 -14.31,-7.46 -9.35,-0.01 -16.65,7.86 -16.86,16.7 -0.01,0.39 0.07,0.97 0.19,1.27 3.03,-3.55 19.41,-10.65 30.98,-10.51 z"
+   class="st28"
+   id="Hydrogen_atom_x5F_02_9_"
+   style="fill:url(#Hydrogen_atom_x5F_02_14_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.396,0.9182,0.9182,-0.396,1496.6073,1705.73)"
+   r="12.755"
+   cy="-363.57159"
+   cx="-1802.9694"
+   id="Hydrogen_atom_x5F_01_14_">
+			<stop
+   id="stop299"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop301"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop303"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop305"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop307"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 444.42,179.06 c 5.52,0.89 9.84,5.05 12.22,10.56 3.7,8.59 -0.34,18.04 -8.39,21.72 -0.36,0.16 -1.39,0.53 -1.76,0.66 1.78,-5.67 1.39,-21.68 -2.07,-32.94 z"
+   class="st29"
+   id="Hydrogen_atom_x5F_01_9_"
+   style="fill:url(#Hydrogen_atom_x5F_01_14_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_04">
+		<g
+   id="Oxygen_atom_x5F_01_8_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.0336,0.9994,0.9994,0.0336,0.123,897.3956)"
+   r="32.093601"
+   cy="79.771004"
+   cx="-814.22137"
+   id="Oxygen_atom_x5F_01_fill_15_">
+				<stop
+   id="stop312"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop314"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop316"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop318"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop320"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop322"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop324"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 108.26,54.24 c 17.93,0.49 32.03,15.23 31,33.15 -1.03,17.69 -15.44,31.59 -33.15,31 -17.71,-0.6 -31.59,-15.44 -31,-33.15 0.6,-17.72 15.44,-31.49 33.15,-31 z"
+   class="st30"
+   id="Oxygen_atom_x5F_01_fill_8_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_15_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_8_"
+   style="fill:#efaba2"
+   d="m 126.71,72.559998 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.780001 5.7800002,5.7800002 0 0 1 5.78,5.780001 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.9088,-0.4173,0.4173,-0.9088,204.209,1351.5005)"
+   r="12.7201"
+   cy="1139.2183"
+   cx="624.95673"
+   id="Hydrogen_atom_x5F_02_15_">
+			<stop
+   id="stop330"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop332"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop334"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop336"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop338"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 126.43,60.52 c -0.76,-5.54 -4.44,-10.24 -9.9,-12.74 -8.5,-3.9 -18.41,0.21 -22.28,8.16 -0.17,0.35 -0.34,0.91 -0.36,1.23 4.23,-1.95 22.08,-1.59 32.54,3.35 z"
+   class="st31"
+   id="Hydrogen_atom_x5F_02_8_"
+   style="fill:url(#Hydrogen_atom_x5F_02_15_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.0222,0.9998,0.9998,0.0222,695.8774,2137.363)"
+   r="12.755"
+   cy="-604.52338"
+   cx="-2028.3241"
+   id="Hydrogen_atom_x5F_01_15_">
+			<stop
+   id="stop342"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop344"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop346"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop348"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop350"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 138.98,80.57 c 4.65,3.11 6.84,8.68 6.71,14.69 -0.21,9.35 -7.82,16.26 -16.67,16.26 -0.39,0 -1.49,-0.1 -1.87,-0.14 3.97,-4.41 10.28,-19.13 11.83,-30.81 z"
+   class="st32"
+   id="Hydrogen_atom_x5F_01_8_"
+   style="fill:url(#Hydrogen_atom_x5F_01_15_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_05">
+		<g
+   id="Oxygen_atom_x5F_01_7_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.9999,0.0107,0.0107,0.9999,-234.1069,60.42)"
+   r="32.093601"
+   cy="213.8773"
+   cx="-560.61151"
+   id="Oxygen_atom_x5F_01_fill_16_">
+				<stop
+   id="stop355"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop357"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop359"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop361"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop363"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop365"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop367"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 360.85,267.94 c 0.3,17.94 -13.8,32.68 -31.75,32.43 -17.72,-0.24 -32.24,-14.02 -32.43,-31.75 -0.19,-17.72 14.02,-32.24 31.75,-32.43 17.72,-0.18 32.13,14.03 32.43,31.75 z"
+   class="st33"
+   id="Oxygen_atom_x5F_01_fill_7_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_16_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_7_"
+   style="fill:#efaba2"
+   d="m 348.26001,254.91 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.3766,-0.9264,0.9264,0.3766,-678.7331,284.4064)"
+   r="12.7201"
+   cy="957.15442"
+   cx="403.24719"
+   id="Hydrogen_atom_x5F_02_16_">
+			<stop
+   id="stop373"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop375"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop377"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop379"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop381"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 355.38,286.37 c 5.5,-1.01 10.03,-4.89 12.29,-10.46 3.52,-8.66 -1.02,-18.39 -9.14,-21.9 -0.36,-0.16 -0.93,-0.3 -1.24,-0.3 2.13,4.15 2.56,22 -1.91,32.66 z"
+   class="st34"
+   id="Hydrogen_atom_x5F_02_7_"
+   style="fill:url(#Hydrogen_atom_x5F_02_16_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.9998,0.0221,0.0221,0.9998,-1442.062,810.3785)"
+   r="12.755"
+   cy="-473.30731"
+   cx="-1773.2068"
+   id="Hydrogen_atom_x5F_01_16_">
+			<stop
+   id="stop385"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop387"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop389"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop391"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop393"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 335.9,299.8 c -2.9,4.78 -8.37,7.22 -14.38,7.35 -9.35,0.21 -16.59,-7.1 -16.98,-15.93 -0.02,-0.39 0.04,-1.49 0.05,-1.88 4.59,3.77 19.57,9.43 31.31,10.46 z"
+   class="st35"
+   id="Hydrogen_atom_x5F_01_7_"
+   style="fill:url(#Hydrogen_atom_x5F_01_16_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_06">
+		<g
+   id="Oxygen_atom_x5F_01_6_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.0561,-0.9984,-0.9984,0.0561,414.119,-189.5202)"
+   r="32.093601"
+   cy="219.0849"
+   cx="-452.5827"
+   id="Oxygen_atom_x5F_01_fill_17_">
+				<stop
+   id="stop398"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop400"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop402"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop404"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop406"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop408"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop410"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 222.6,306.69 c -17.91,1.12 -33.27,-12.3 -33.84,-30.24 -0.56,-17.71 12.54,-32.85 30.24,-33.84 17.7,-1 32.85,12.54 33.84,30.24 0.99,17.7 -12.56,32.74 -30.24,33.84 z"
+   class="st36"
+   id="Oxygen_atom_x5F_01_fill_6_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_17_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_6_"
+   style="fill:#efaba2"
+   d="m 240.3,261.28 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.9425,0.3341,-0.3341,0.9425,170.1488,-623.5028)"
+   r="12.7201"
+   cy="859.53448"
+   cx="356.68869"
+   id="Hydrogen_atom_x5F_02_17_">
+			<stop
+   id="stop416"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop418"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop420"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop422"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop424"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 203.94,302.06 c 1.26,5.45 5.34,9.8 11.01,11.8 8.81,3.12 18.32,-1.86 21.46,-10.13 0.14,-0.37 0.26,-0.94 0.25,-1.26 -4.05,2.34 -21.86,3.58 -32.72,-0.41 z"
+   class="st37"
+   id="Hydrogen_atom_x5F_02_6_"
+   style="fill:url(#Hydrogen_atom_x5F_02_17_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.0675,-0.9977,-0.9977,0.0675,-389.9847,-1362.1287)"
+   r="12.755"
+   cy="-469.32739"
+   cx="-1665.1259"
+   id="Hydrogen_atom_x5F_01_17_">
+			<stop
+   id="stop428"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop430"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop432"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop434"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop436"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 189.64,283.21 c -4.91,-2.68 -7.59,-8.03 -8,-14.03 -0.63,-9.33 6.34,-16.89 15.14,-17.69 0.39,-0.04 1.49,-0.03 1.88,-0.03 -3.56,4.76 -8.52,19.98 -9.02,31.75 z"
+   class="st38"
+   id="Hydrogen_atom_x5F_01_6_"
+   style="fill:url(#Hydrogen_atom_x5F_01_17_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_07">
+		<g
+   id="Oxygen_atom_x5F_01_5_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.0561,-0.9984,-0.9984,0.0561,414.119,-189.5202)"
+   r="32.093601"
+   cy="303.94791"
+   cx="-407.60989"
+   id="Oxygen_atom_x5F_01_fill_18_">
+				<stop
+   id="stop441"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop443"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop445"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop447"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop449"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop451"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop453"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 135.34,266.55 c -17.91,1.12 -33.27,-12.3 -33.84,-30.24 -0.56,-17.71 12.54,-32.85 30.24,-33.84 17.7,-1 32.85,12.54 33.84,30.24 1,17.69 -12.55,32.74 -30.24,33.84 z"
+   class="st39"
+   id="Oxygen_atom_x5F_01_fill_5_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_18_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_5_"
+   style="fill:#efaba2"
+   d="m 153.03999,221.14 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.9425,0.3341,-0.3341,0.9425,170.1488,-623.5028)"
+   r="12.7201"
+   cy="850.85858"
+   cx="261.03821"
+   id="Hydrogen_atom_x5F_02_18_">
+			<stop
+   id="stop459"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop461"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop463"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop465"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop467"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 116.68,261.92 c 1.26,5.45 5.34,9.8 11.01,11.8 8.81,3.12 18.32,-1.86 21.46,-10.13 0.14,-0.37 0.26,-0.94 0.25,-1.26 -4.05,2.34 -21.86,3.58 -32.72,-0.41 z"
+   class="st40"
+   id="Hydrogen_atom_x5F_02_5_"
+   style="fill:url(#Hydrogen_atom_x5F_02_18_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.0675,-0.9977,-0.9977,0.0675,-389.9847,-1362.1287)"
+   r="12.755"
+   cy="-384.9808"
+   cx="-1619.1918"
+   id="Hydrogen_atom_x5F_01_18_">
+			<stop
+   id="stop471"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop473"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop475"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop477"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop479"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 102.39,243.08 c -4.91,-2.68 -7.59,-8.03 -8,-14.03 -0.63,-9.33 6.34,-16.89 15.14,-17.69 0.39,-0.04 1.49,-0.03 1.88,-0.03 -3.56,4.75 -8.53,19.98 -9.02,31.75 z"
+   class="st41"
+   id="Hydrogen_atom_x5F_01_5_"
+   style="fill:url(#Hydrogen_atom_x5F_01_18_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_08">
+		<g
+   id="Oxygen_atom_x5F_01_4_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(1,-0.00101377,-0.00101377,-1,396.7151,581.5801)"
+   r="32.093601"
+   cy="394.18631"
+   cx="-355.96619"
+   id="Oxygen_atom_x5F_01_fill_19_">
+				<stop
+   id="stop484"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop486"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop488"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop490"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop492"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop494"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop496"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 8.26,187.79 c -0.13,-17.94 14.11,-32.54 32.06,-32.12 17.72,0.41 32.11,14.34 32.12,32.06 0.01,17.72 -14.34,32.11 -32.06,32.12 -17.72,0.02 -32,-14.34 -32.12,-32.06 z"
+   class="st42"
+   id="Oxygen_atom_x5F_01_fill_4_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_19_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_4_"
+   style="fill:#efaba2"
+   d="m 60.17,174.49001 a 5.7800002,5.7800002 0 0 1 -5.780001,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.780001,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.3856,0.9227,-0.9227,-0.3856,843.4836,361.9109)"
+   r="12.7201"
+   cy="838.10571"
+   cx="157.8461"
+   id="Hydrogen_atom_x5F_02_19_">
+			<stop
+   id="stop502"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop504"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop506"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop508"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop510"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 13.91,169.42 c -5.51,0.95 -10.08,4.8 -12.39,10.34 -3.61,8.63 0.85,18.4 8.93,21.99 0.36,0.16 0.92,0.31 1.24,0.31 -2.1,-4.17 -2.36,-22.02 2.22,-32.64 z"
+   class="st43"
+   id="Hydrogen_atom_x5F_02_4_"
+   style="fill:url(#Hydrogen_atom_x5F_02_19_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.9999,-0.0124,-0.0124,-0.9999,1611.8667,-156.6498)"
+   r="12.755"
+   cy="-295.33081"
+   cx="-1566.5219"
+   id="Hydrogen_atom_x5F_01_19_">
+			<stop
+   id="stop514"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop516"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop518"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop520"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop522"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 33.51,156.18 c 2.95,-4.76 8.44,-7.14 14.45,-7.21 9.35,-0.12 16.52,7.26 16.82,16.1 0.01,0.39 -0.05,1.49 -0.07,1.88 -4.54,-3.83 -19.47,-9.62 -31.2,-10.77 z"
+   class="st44"
+   id="Hydrogen_atom_x5F_01_4_"
+   style="fill:url(#Hydrogen_atom_x5F_01_19_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_09">
+		<g
+   id="Oxygen_atom_x5F_01_3_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.2699,-0.9629,-0.9629,0.2699,291.0128,-229.6383)"
+   r="32.093601"
+   cy="275.77921"
+   cx="-529.95813"
+   id="Oxygen_atom_x5F_01_fill_20_">
+				<stop
+   id="stop527"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop529"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop531"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop533"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop535"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop537"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop539"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 177.19,385.99 c -17.25,4.95 -35.14,-4.84 -39.56,-22.24 -4.37,-17.18 5.17,-34.78 22.24,-39.56 17.07,-4.78 34.78,5.17 39.56,22.24 4.79,17.06 -5.2,34.67 -22.24,39.56 z"
+   class="st45"
+   id="Oxygen_atom_x5F_01_fill_3_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_20_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_3_"
+   style="fill:#efaba2"
+   d="m 188.03,341.70999 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.9924,0.1232,-0.1232,0.9924,-40.7307,-600.8641)"
+   r="12.7201"
+   cy="952.80981"
+   cx="334.30801"
+   id="Hydrogen_atom_x5F_02_20_">
+			<stop
+   id="stop545"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop547"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop549"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop551"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop553"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 157.98,385.49 c 2.4,5.05 7.33,8.41 13.29,9.15 9.28,1.15 17.49,-5.76 18.77,-14.51 0.06,-0.39 0.05,-0.97 -0.03,-1.28 -3.44,3.14 -20.57,8.19 -32.03,6.64 z"
+   class="st46"
+   id="Hydrogen_atom_x5F_02_3_"
+   style="fill:url(#Hydrogen_atom_x5F_02_20_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.2809,-0.9597,-0.9597,0.2809,-746.8488,-1201.4596)"
+   r="12.755"
+   cy="-411.7576"
+   cx="-1741.8521"
+   id="Hydrogen_atom_x5F_01_20_">
+			<stop
+   id="stop557"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop559"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop561"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop563"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop565"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 139.96,370.16 c -5.37,-1.56 -9.15,-6.21 -10.83,-11.98 -2.63,-8.97 2.55,-17.86 10.98,-20.53 0.37,-0.12 1.45,-0.35 1.83,-0.44 -2.47,5.41 -4.03,21.35 -1.98,32.95 z"
+   class="st47"
+   id="Hydrogen_atom_x5F_01_3_"
+   style="fill:url(#Hydrogen_atom_x5F_01_20_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_10">
+		<g
+   id="Oxygen_atom_x5F_01_2_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.0666,-0.9978,-0.9978,0.0666,533.7941,-447.3336)"
+   r="32.093601"
+   cy="231.33031"
+   cx="-574.52307"
+   id="Oxygen_atom_x5F_01_fill_21_">
+				<stop
+   id="stop570"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop572"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop574"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop576"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop578"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop580"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop582"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 343.38,173.34 c -17.89,1.3 -33.4,-11.95 -34.16,-29.88 -0.75,-17.71 12.2,-32.98 29.88,-34.16 17.68,-1.18 32.98,12.2 34.16,29.88 1.18,17.68 -12.21,32.87 -29.88,34.16 z"
+   class="st48"
+   id="Oxygen_atom_x5F_01_fill_2_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_21_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_2_"
+   style="fill:#efaba2"
+   d="m 361.37,128 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.946,0.3243,-0.3243,0.946,285.3116,-878.7075)"
+   r="12.72"
+   cy="976.70343"
+   cx="392.50049"
+   id="Hydrogen_atom_x5F_02_21_">
+			<stop
+   id="stop588"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop590"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop592"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop594"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop596"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 324.67,168.91 c 1.31,5.44 5.45,9.74 11.13,11.69 8.85,3.03 18.3,-2.05 21.35,-10.35 0.14,-0.37 0.25,-0.94 0.23,-1.26 -4.01,2.36 -21.81,3.79 -32.71,-0.08 z"
+   class="st49"
+   id="Hydrogen_atom_x5F_02_2_"
+   style="fill:url(#Hydrogen_atom_x5F_02_21_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.0779,-0.997,-0.997,0.0779,-282.5391,-1611.4614)"
+   r="12.755"
+   cy="-455.6973"
+   cx="-1786.9192"
+   id="Hydrogen_atom_x5F_01_21_">
+			<stop
+   id="stop600"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop602"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop604"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop606"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop608"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 310.18,150.21 c -4.94,-2.63 -7.68,-7.95 -8.15,-13.94 -0.73,-9.32 6.16,-16.96 14.96,-17.84 0.39,-0.04 1.49,-0.05 1.88,-0.05 -3.51,4.78 -8.32,20.05 -8.69,31.83 z"
+   class="st50"
+   id="Hydrogen_atom_x5F_01_2_"
+   style="fill:url(#Hydrogen_atom_x5F_01_21_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_11">
+		<g
+   id="Oxygen_atom_x5F_01_1_">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.8743,-0.4853,0.4853,0.8743,83.1872,-265.7542)"
+   r="32.093601"
+   cy="486.48871"
+   cx="-67.805901"
+   id="Oxygen_atom_x5F_01_fill_22_">
+				<stop
+   id="stop613"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop615"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop617"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop619"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop621"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop623"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop625"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 231.94,208.08 c 8.61,15.74 28.16,21.57 43.63,12.48 15.28,-8.98 21.09,-28.14 12.48,-43.63 -8.6,-15.5 -28.14,-21.09 -43.63,-12.48 -15.5,8.6 -20.99,28.08 -12.48,43.63 z"
+   class="st51"
+   id="Oxygen_atom_x5F_01_fill_1_"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_22_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine_1_"
+   style="fill:#efaba2"
+   d="m 281.76999,181.48 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.8228,-0.5684,0.5684,0.8228,78.0881,-306.7649)"
+   r="12.7201"
+   cy="544.10022"
+   cx="-125.2557"
+   id="Hydrogen_atom_x5F_02_22_">
+			<stop
+   id="stop631"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop633"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop635"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop637"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop639"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 272.33,222.23 c 5.15,2.17 11.07,1.4 16.01,-2.01 7.69,-5.31 9.22,-15.94 4.36,-23.33 -0.22,-0.33 -0.61,-0.76 -0.87,-0.93 -0.48,4.63 -9.9,19.79 -19.5,26.27 z"
+   class="st52"
+   id="Hydrogen_atom_x5F_02_1_"
+   style="fill:url(#Hydrogen_atom_x5F_02_22_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.8483,-0.5295,-0.5295,0.8483,-848.6499,-285.2353)"
+   r="12.755"
+   cy="-152.20329"
+   cx="-1184.2842"
+   id="Hydrogen_atom_x5F_01_22_">
+			<stop
+   id="stop643"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop645"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop647"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop649"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop651"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 248.69,222.77 c -5.05,2.41 -10.96,1.45 -16.06,-1.73 -7.93,-4.95 -9.98,-15.03 -5.47,-22.63 0.2,-0.34 0.85,-1.23 1.07,-1.54 1.77,5.67 11.21,18.61 20.46,25.9 z"
+   class="st53"
+   id="Hydrogen_atom_x5F_01_1_"
+   style="fill:url(#Hydrogen_atom_x5F_01_22_)" />
+	</g>
+	<g
+   id="Water_Molecule_x5F_12">
+		<g
+   id="Oxygen_atom_x5F_01">
+			
+				<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.8743,-0.4853,0.4853,0.8743,83.1872,-265.7542)"
+   r="32.093601"
+   cy="400.29739"
+   cx="-94.3069"
+   id="Oxygen_atom_x5F_01_fill_23_">
+				<stop
+   id="stop656"
+   style="stop-color:#F29888"
+   offset="5.376340e-03" />
+				<stop
+   id="stop658"
+   style="stop-color:#F19686"
+   offset="0.3509" />
+				<stop
+   id="stop660"
+   style="stop-color:#EE8D7E"
+   offset="0.5483" />
+				<stop
+   id="stop662"
+   style="stop-color:#E87F72"
+   offset="0.7083" />
+				<stop
+   id="stop664"
+   style="stop-color:#DF6C60"
+   offset="0.8483" />
+				<stop
+   id="stop666"
+   style="stop-color:#D55249"
+   offset="0.9741" />
+				<stop
+   id="stop668"
+   style="stop-color:#D24C43"
+   offset="1" />
+			</radialGradient>
+			<path
+   d="m 166.94,145.58 c 8.61,15.74 28.16,21.57 43.63,12.48 15.28,-8.98 21.09,-28.14 12.48,-43.63 -8.6,-15.5 -28.14,-21.09 -43.63,-12.48 -15.49,8.61 -20.99,28.08 -12.48,43.63 z"
+   class="st54"
+   id="Oxygen_atom_x5F_01_fill"
+   style="fill:url(#Oxygen_atom_x5F_01_fill_23_)" />
+			<path
+   id="Oxygen_atom_x5F_01_shine"
+   style="fill:#efaba2"
+   d="m 216.77001,118.98 a 5.7800002,5.7800002 0 0 1 -5.78,5.78 5.7800002,5.7800002 0 0 1 -5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,-5.78 5.7800002,5.7800002 0 0 1 5.78,5.78 z"
+   class="st21" />
+		</g>
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.8228,-0.5684,0.5684,0.8228,78.0881,-306.7649)"
+   r="12.7201"
+   cy="455.73291"
+   cx="-143.21359"
+   id="Hydrogen_atom_x5F_02_23_">
+			<stop
+   id="stop674"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop676"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop678"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop680"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop682"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 207.33,159.73 c 5.15,2.17 11.07,1.4 16.01,-2.01 7.69,-5.31 9.22,-15.94 4.36,-23.33 -0.22,-0.33 -0.61,-0.76 -0.87,-0.93 -0.48,4.63 -9.9,19.79 -19.5,26.27 z"
+   class="st55"
+   id="Hydrogen_atom_x5F_02"
+   style="fill:url(#Hydrogen_atom_x5F_02_23_)" />
+		
+			<radialGradient
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(-0.8483,-0.5295,-0.5295,0.8483,-848.6499,-285.2353)"
+   r="12.755"
+   cy="-170.8008"
+   cx="-1096.0493"
+   id="Hydrogen_atom_x5F_01_23_">
+			<stop
+   id="stop686"
+   style="stop-color:#F2F2F2"
+   offset="0" />
+			<stop
+   id="stop688"
+   style="stop-color:#E8E8E8"
+   offset="0.1913" />
+			<stop
+   id="stop690"
+   style="stop-color:#CCCCCC"
+   offset="0.5203" />
+			<stop
+   id="stop692"
+   style="stop-color:#9F9F9F"
+   offset="0.9449" />
+			<stop
+   id="stop694"
+   style="stop-color:#999999"
+   offset="1" />
+		</radialGradient>
+		<path
+   d="m 183.69,160.27 c -5.05,2.41 -10.96,1.45 -16.06,-1.73 -7.93,-4.95 -9.98,-15.03 -5.47,-22.63 0.2,-0.34 0.85,-1.23 1.07,-1.54 1.77,5.67 11.21,18.61 20.46,25.9 z"
+   class="st56"
+   id="Hydrogen_atom_x5F_01"
+   style="fill:url(#Hydrogen_atom_x5F_01_23_)" />
+	</g>
+	<path
+   id="Line_left"
+   style="fill:none;stroke:#333333;stroke-miterlimit:10"
+   d="M 238.38,208.92999 253.7,197.77"
+   class="st57" />
+	<path
+   id="Line_right"
+   style="fill:none;stroke:#333333;stroke-miterlimit:10"
+   d="M 282.26001,208.47 267.32999,197.46001"
+   class="st57" />
+</g>
+<path
+   id="Hydrogen_bond_x5F_Line"
+   style="fill:none;stroke:#333333;stroke-miterlimit:10"
+   d="M 145.25675,300.14302 H 82.516757"
+   class="st57" /><g
+   id="g748"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g750"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g752"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g754"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g756"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g758"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g760"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g762"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g764"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g766"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g768"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g770"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g772"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g774"
+   transform="translate(-0.00324011,0.00300578)">
+	</g><g
+   id="g776"
+   transform="translate(-0.00324011,0.00300578)">
+	</g>
+<g
+   aria-label="O"
+   id="text854"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+   transform="translate(-0.00324011,0.00300578)"><path
+     d="m 259.7387,198.20357 q -1.056,0 -2.016,-0.368 -0.96,-0.384 -1.696,-1.072 -0.736,-0.704 -1.168,-1.664 -0.432,-0.976 -0.432,-2.16 0,-1.088 0.352,-2.08 0.352,-1.008 1.04,-1.792 0.688,-0.784 1.712,-1.248 1.024,-0.464 2.352,-0.464 1.056,0 2.016,0.384 0.96,0.368 1.696,1.072 0.736,0.688 1.168,1.664 0.432,0.96 0.432,2.144 0,1.072 -0.352,2.08 -0.352,1.008 -1.04,1.792 -0.688,0.784 -1.712,1.248 -1.024,0.464 -2.352,0.464 z m 0.24,-0.64 q 1.232,0 2.048,-0.512 0.816,-0.528 1.216,-1.456 0.416,-0.944 0.416,-2.192 0,-1.104 -0.256,-2.08 -0.256,-0.976 -0.768,-1.712 -0.496,-0.752 -1.248,-1.168 -0.752,-0.416 -1.76,-0.416 -1.2,0 -2.016,0.512 -0.816,0.512 -1.232,1.44 -0.416,0.912 -0.416,2.16 0,1.12 0.24,2.096 0.256,0.976 0.752,1.728 0.512,0.752 1.264,1.184 0.752,0.416 1.76,0.416 z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     id="path456" /></g><g
+   aria-label="H"
+   transform="matrix(1,0,0,-1,-0.00324011,0.00300578)"
+   id="text854-6"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"><path
+     d="m 229.26533,-211 q -0.13867,0 -0.224,-0.0427 -0.0853,-0.032 -0.0853,-0.096 0,-0.10667 0.34134,-0.17067 0.40533,-0.0747 0.52267,-0.24533 0.128,-0.17067 0.128,-0.55467 v -4.82135 q 0,-0.37334 -0.0853,-0.52267 -0.0747,-0.16 -0.48,-0.23467 -0.352,-0.064 -0.352,-0.192 0,-0.064 0.0747,-0.096 0.0747,-0.0427 0.23466,-0.0427 0.28801,0 0.44801,0.0107 0.16,0.0107 0.29866,0.0213 0.13867,0 0.352,0 0.22401,0 0.36267,0 0.14934,-0.0107 0.30934,-0.0213 0.17066,-0.0107 0.45866,-0.0107 0.30934,0 0.30934,0.13866 0,0.0747 -0.0853,0.11734 -0.0853,0.0427 -0.26667,0.0747 -0.39467,0.0747 -0.56534,0.26667 -0.16,0.18133 -0.16,0.49067 v 2.10134 q 0,0.064 0.0533,0.0853 0.0533,0.0107 0.096,0.0107 h 3.95734 q 0.0747,0 0.0747,-0.128 v -2.08001 q 0,-0.288 -0.14934,-0.48 -0.14933,-0.192 -0.55466,-0.26667 -0.18134,-0.032 -0.26667,-0.0747 -0.0853,-0.0427 -0.0853,-0.11734 0,-0.13866 0.30933,-0.13866 0.288,0 0.46933,0.0107 0.19201,0.0107 0.36267,0.0213 0.17067,0 0.40534,0 0.192,0 0.29866,0 0.10667,-0.0107 0.24534,-0.0213 0.13867,-0.0107 0.42667,-0.0107 0.14933,0 0.224,0.0427 0.0853,0.032 0.0853,0.096 0,0.128 -0.352,0.192 -0.39467,0.0747 -0.48,0.256 -0.0853,0.18134 -0.0853,0.49067 v 4.82135 q 0,0.39467 0.096,0.56534 0.10666,0.17066 0.50133,0.24533 0.34133,0.064 0.34133,0.17067 0,0.064 -0.0853,0.096 -0.0853,0.0427 -0.224,0.0427 -0.288,0 -0.448,-0.0213 -0.16,-0.0107 -0.29867,-0.0213 -0.13867,-0.0107 -0.36267,-0.0107 -0.224,0 -0.37333,0.0107 -0.13867,0.0107 -0.30934,0.0213 -0.17066,0.0213 -0.45866,0.0213 -0.13867,0 -0.224,-0.0427 -0.0853,-0.032 -0.0853,-0.096 0,-0.0747 0.0747,-0.10667 0.0853,-0.032 0.26667,-0.064 0.34133,-0.064 0.53333,-0.24533 0.20267,-0.192 0.20267,-0.53334 v -2.08001 q 0,-0.0533 0,-0.10666 0,-0.0533 -0.0533,-0.0533 h -4.07468 q -0.0533,0 -0.0533,0.11734 v 2.02667 q 0,0.33067 0.24534,0.576 0.24533,0.23467 0.608,0.29867 0.18133,0.032 0.256,0.064 0.0853,0.032 0.0853,0.10667 0,0.064 -0.0853,0.096 -0.0853,0.0427 -0.224,0.0427 -0.288,0 -0.48,-0.0213 -0.18134,-0.0107 -0.352,-0.0213 -0.17067,-0.0107 -0.41601,-0.0107 -0.224,0 -0.384,0.0107 -0.14933,0.0107 -0.33066,0.0213 -0.17067,0.0213 -0.45867,0.0213 z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     id="path453" /></g><g
+   aria-label="H"
+   transform="matrix(1,0,0,-1,-0.00324011,0.00300578)"
+   id="text854-6-4"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"><path
+     d="m 283.81304,-211 q -0.13867,0 -0.224,-0.0427 -0.0853,-0.032 -0.0853,-0.096 0,-0.10667 0.34133,-0.17067 0.40534,-0.0747 0.52267,-0.24533 0.128,-0.17067 0.128,-0.55467 v -4.82135 q 0,-0.37334 -0.0853,-0.52267 -0.0747,-0.16 -0.48,-0.23467 -0.35201,-0.064 -0.35201,-0.192 0,-0.064 0.0747,-0.096 0.0747,-0.0427 0.23467,-0.0427 0.288,0 0.448,0.0107 0.16,0.0107 0.29867,0.0213 0.13866,0 0.352,0 0.224,0 0.36267,0 0.14933,-0.0107 0.30933,-0.0213 0.17067,-0.0107 0.45867,-0.0107 0.30933,0 0.30933,0.13866 0,0.0747 -0.0853,0.11734 -0.0853,0.0427 -0.26667,0.0747 -0.39467,0.0747 -0.56533,0.26667 -0.16,0.18133 -0.16,0.49067 v 2.10134 q 0,0.064 0.0533,0.0853 0.0533,0.0107 0.096,0.0107 h 3.95735 q 0.0747,0 0.0747,-0.128 v -2.08001 q 0,-0.288 -0.14933,-0.48 -0.14933,-0.192 -0.55467,-0.26667 -0.18133,-0.032 -0.26667,-0.0747 -0.0853,-0.0427 -0.0853,-0.11734 0,-0.13866 0.30933,-0.13866 0.288,0 0.46934,0.0107 0.192,0.0107 0.36267,0.0213 0.17066,0 0.40533,0 0.192,0 0.29867,0 0.10667,-0.0107 0.24533,-0.0213 0.13867,-0.0107 0.42667,-0.0107 0.14933,0 0.224,0.0427 0.0853,0.032 0.0853,0.096 0,0.128 -0.35201,0.192 -0.39466,0.0747 -0.48,0.256 -0.0853,0.18134 -0.0853,0.49067 v 4.82135 q 0,0.39467 0.096,0.56534 0.10667,0.17066 0.50133,0.24533 0.34134,0.064 0.34134,0.17067 0,0.064 -0.0853,0.096 -0.0853,0.0427 -0.224,0.0427 -0.288,0 -0.448,-0.0213 -0.16,-0.0107 -0.29866,-0.0213 -0.13867,-0.0107 -0.36267,-0.0107 -0.224,0 -0.37334,0.0107 -0.13866,0.0107 -0.30933,0.0213 -0.17067,0.0213 -0.45867,0.0213 -0.13867,0 -0.224,-0.0427 -0.0853,-0.032 -0.0853,-0.096 0,-0.0747 0.0747,-0.10667 0.0853,-0.032 0.26667,-0.064 0.34134,-0.064 0.53334,-0.24533 0.20266,-0.192 0.20266,-0.53334 v -2.08001 q 0,-0.0533 0,-0.10666 0,-0.0533 -0.0533,-0.0533 h -4.07468 q -0.0533,0 -0.0533,0.11734 v 2.02667 q 0,0.33067 0.24533,0.576 0.24533,0.23467 0.608,0.29867 0.18134,0.032 0.256,0.064 0.0853,0.032 0.0853,0.10667 0,0.064 -0.0853,0.096 -0.0853,0.0427 -0.224,0.0427 -0.288,0 -0.48,-0.0213 -0.18133,-0.0107 -0.352,-0.0213 -0.17067,-0.0107 -0.416,-0.0107 -0.224,0 -0.384,0.0107 -0.14934,0.0107 -0.33067,0.0213 -0.17067,0.0213 -0.45867,0.0213 z"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond'"
+     id="path450" /></g><g
+   aria-label="Enllaç
+d'hidrogen"
+   id="text1290"
+   style="font-size:16px;line-height:1.25"
+   transform="translate(-0.00324011,0.00300578)"><path
+     d="m 28.699562,293.41453 q -0.208,0 -0.336,-0.048 -0.128,-0.032 -0.128,-0.128 0,-0.192 0.528,-0.288 0.608,-0.112 0.896,-0.368 0.288,-0.256 0.288,-0.832 v -7.2 q 0,-0.576 -0.24,-0.816 -0.224,-0.24 -0.832,-0.352 -0.272,-0.048 -0.4,-0.128 -0.128,-0.08 -0.128,-0.192 0,-0.096 0.128,-0.128 0.128,-0.048 0.336,-0.048 0.608,0 1.024,0.016 0.432,0.016 0.832,0.032 0.416,0 0.976,0 0.528,0 1.104,0 0.592,-0.016 1.088,-0.016 0.544,-0.016 0.912,-0.016 0.384,-0.016 0.448,-0.016 0.08,0 0.176,0.032 0.096,0.032 0.112,0.112 0.08,0.448 0.16,0.896 0.08,0.432 0.08,0.752 0,0.144 -0.08,0.192 -0.064,0.048 -0.144,0.048 -0.08,0 -0.112,-0.032 -0.032,-0.048 -0.064,-0.128 -0.08,-0.272 -0.16,-0.512 -0.08,-0.256 -0.192,-0.368 -0.224,-0.256 -0.496,-0.336 -0.272,-0.096 -0.576,-0.096 h -2.096 q -0.128,0 -0.352,0.144 -0.224,0.144 -0.224,0.368 v 3.392 q 0,0.144 0.08,0.256 0.096,0.096 0.208,0.096 h 1.584 q 0.464,0 0.64,-0.16 0.176,-0.176 0.288,-0.624 0.096,-0.352 0.288,-0.352 0.064,0 0.128,0.064 0.08,0.064 0.08,0.192 0,0.064 -0.016,0.288 0,0.224 -0.016,0.464 -0.016,0.24 -0.016,0.368 0,0.16 0,0.432 0.016,0.256 0.016,0.496 0.016,0.24 0.016,0.304 0,0.112 -0.032,0.192 -0.016,0.08 -0.112,0.08 -0.24,0 -0.368,-0.512 -0.096,-0.368 -0.256,-0.544 -0.16,-0.176 -0.48,-0.176 h -1.488 q -0.272,0 -0.416,0.08 -0.128,0.064 -0.128,0.336 v 3.072 q 0,0.608 0.256,0.848 0.256,0.224 0.8,0.224 h 1.184 q 0.512,0 0.848,-0.048 0.352,-0.064 0.608,-0.224 0.256,-0.176 0.448,-0.464 0.208,-0.288 0.464,-0.768 0.048,-0.096 0.112,-0.16 0.064,-0.064 0.144,-0.048 0.08,0.016 0.128,0.08 0.048,0.048 0.048,0.144 0,0.144 -0.08,0.512 -0.08,0.352 -0.208,0.736 -0.112,0.384 -0.208,0.608 -0.048,0.112 -0.096,0.192 -0.032,0.08 -0.128,0.08 -0.768,0 -1.424,-0.016 -0.656,-0.016 -1.248,-0.032 -0.592,-0.016 -1.168,-0.032 -0.56,-0.016 -1.168,-0.016 -0.352,0 -0.608,0.016 -0.256,0.032 -0.528,0.048 -0.272,0.032 -0.704,0.032 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path529" /><path
+     d="m 37.378812,293.38253 q -0.144,0 -0.24,-0.048 -0.08,-0.032 -0.08,-0.128 0,-0.128 0.096,-0.16 0.096,-0.048 0.272,-0.096 0.24,-0.064 0.464,-0.176 0.224,-0.112 0.224,-0.432 v -3.44 q 0,-0.432 -0.096,-0.736 -0.08,-0.304 -0.496,-0.416 -0.064,-0.032 -0.112,-0.064 -0.048,-0.048 -0.048,-0.144 0,-0.176 0.144,-0.192 0.56,-0.144 0.912,-0.352 0.352,-0.208 0.688,-0.464 0.048,-0.032 0.08,-0.048 0.048,-0.032 0.096,-0.032 0.032,0 0.048,0.032 0.032,0.032 0.032,0.08 0,0.112 -0.048,0.464 -0.032,0.336 -0.032,0.56 0,0.064 0,0.128 0.016,0.048 0.032,0.064 0.56,-0.528 1.184,-0.8 0.64,-0.272 1.392,-0.272 0.784,0 1.296,0.64 0.512,0.64 0.512,1.584 v 3.408 q 0,0.32 0.224,0.432 0.224,0.096 0.464,0.176 0.128,0.048 0.24,0.112 0.128,0.048 0.128,0.176 0,0.096 -0.112,0.112 -0.112,0.032 -0.208,0.032 -0.32,0 -0.496,-0.032 -0.176,-0.016 -0.336,-0.032 -0.16,-0.016 -0.448,-0.016 -0.272,0 -0.448,0.016 -0.176,0.016 -0.368,0.032 -0.176,0.032 -0.496,0.032 -0.08,0 -0.208,-0.032 -0.112,-0.016 -0.112,-0.112 0,-0.128 0.112,-0.176 0.128,-0.064 0.256,-0.112 0.24,-0.08 0.464,-0.176 0.224,-0.112 0.224,-0.432 v -3.36 q 0,-0.704 -0.4,-1.088 -0.384,-0.4 -1.04,-0.416 -0.576,0 -1.008,0.192 -0.432,0.176 -0.768,0.448 -0.064,0.064 -0.096,0.176 -0.032,0.096 -0.032,0.192 v 3.856 q 0,0.32 0.224,0.432 0.224,0.112 0.464,0.176 0.368,0.096 0.368,0.256 0,0.096 -0.08,0.128 -0.08,0.048 -0.24,0.048 -0.32,0 -0.512,-0.032 -0.176,-0.016 -0.336,-0.032 -0.16,-0.016 -0.448,-0.016 -0.272,0 -0.448,0.016 -0.16,0.016 -0.352,0.032 -0.176,0.032 -0.496,0.032 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path531" /><path
+     d="m 45.736312,293.38253 q -0.08,0 -0.208,-0.032 -0.112,-0.016 -0.112,-0.112 0,-0.128 0.112,-0.176 0.128,-0.064 0.256,-0.112 0.24,-0.08 0.464,-0.176 0.224,-0.112 0.224,-0.432 v -8.064 q 0,-0.464 -0.176,-0.768 -0.16,-0.32 -0.56,-0.4 -0.128,-0.032 -0.128,-0.208 0,-0.16 0.112,-0.192 0.416,-0.096 0.72,-0.192 0.304,-0.112 0.56,-0.224 0.272,-0.112 0.528,-0.208 0.064,-0.032 0.096,-0.032 0.032,0 0.048,0.048 0.032,0.032 0.032,0.064 0,0.144 -0.064,0.624 -0.048,0.464 -0.048,1.552 v 8 q 0,0.32 0.224,0.432 0.224,0.096 0.464,0.176 0.128,0.048 0.24,0.112 0.128,0.048 0.128,0.176 0,0.096 -0.128,0.112 -0.112,0.032 -0.192,0.032 -0.304,0 -0.496,-0.032 -0.176,-0.016 -0.352,-0.032 -0.16,-0.016 -0.448,-0.016 -0.272,0 -0.448,0.016 -0.176,0.016 -0.352,0.032 -0.176,0.032 -0.496,0.032 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path533" /><path
+     d="m 49.580062,293.38253 q -0.08,0 -0.208,-0.032 -0.112,-0.016 -0.112,-0.112 0,-0.128 0.112,-0.176 0.128,-0.064 0.256,-0.112 0.24,-0.08 0.464,-0.176 0.224,-0.112 0.224,-0.432 v -8.064 q 0,-0.464 -0.176,-0.768 -0.16,-0.32 -0.56,-0.4 -0.128,-0.032 -0.128,-0.208 0,-0.16 0.112,-0.192 0.416,-0.096 0.72,-0.192 0.304,-0.112 0.56,-0.224 0.272,-0.112 0.528,-0.208 0.064,-0.032 0.096,-0.032 0.032,0 0.048,0.048 0.032,0.032 0.032,0.064 0,0.144 -0.064,0.624 -0.048,0.464 -0.048,1.552 v 8 q 0,0.32 0.224,0.432 0.224,0.096 0.464,0.176 0.128,0.048 0.24,0.112 0.128,0.048 0.128,0.176 0,0.096 -0.128,0.112 -0.112,0.032 -0.192,0.032 -0.304,0 -0.496,-0.032 -0.176,-0.016 -0.352,-0.032 -0.16,-0.016 -0.448,-0.016 -0.272,0 -0.448,0.016 -0.176,0.016 -0.352,0.032 -0.176,0.032 -0.496,0.032 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path535" /><path
+     d="m 54.671812,293.55853 q -0.288,0 -0.592,-0.224 -0.288,-0.224 -0.496,-0.544 -0.192,-0.32 -0.192,-0.608 0,-0.512 0.272,-0.8 0.272,-0.288 0.864,-0.528 l 1.632,-0.672 q 0.32,-0.128 0.368,-0.224 0.064,-0.096 0.08,-0.416 l 0.032,-1.024 q 0.016,-0.416 -0.24,-0.72 -0.24,-0.304 -0.704,-0.304 -0.24,0 -0.48,0.08 -0.24,0.08 -0.4,0.208 -0.096,0.064 -0.128,0.192 -0.032,0.128 -0.032,0.272 0,0.064 0,0.144 0.016,0.08 0.016,0.144 0,0.08 -0.208,0.224 -0.192,0.128 -0.448,0.24 -0.24,0.096 -0.4,0.096 -0.08,0 -0.128,-0.032 -0.048,-0.048 -0.048,-0.112 0,-0.256 0.16,-0.544 0.176,-0.304 0.48,-0.56 0.368,-0.336 0.8,-0.592 0.432,-0.256 0.848,-0.4 0.416,-0.144 0.736,-0.144 0.576,0 0.944,0.416 0.384,0.4 0.368,1.008 l -0.08,3.84 q -0.016,0.336 0.144,0.544 0.176,0.208 0.432,0.208 0.4,0 0.592,-0.176 0.08,-0.08 0.128,-0.08 0.08,0 0.128,0.048 0.048,0.048 0.048,0.128 0,0.176 -0.176,0.352 -0.256,0.256 -0.56,0.4 -0.288,0.16 -0.544,0.16 -0.736,0 -1.168,-0.832 h -0.048 q -0.528,0.432 -1.008,0.624 -0.48,0.208 -0.992,0.208 z m 0.752,-0.768 q 0.32,0 0.544,-0.096 0.224,-0.112 0.4,-0.288 0.08,-0.08 0.128,-0.208 0.064,-0.144 0.08,-0.448 l 0.032,-0.784 q 0.016,-0.176 -0.016,-0.256 -0.032,-0.08 -0.128,-0.08 -0.032,0 -0.112,0.016 -0.08,0.016 -0.208,0.064 -0.848,0.304 -1.184,0.64 -0.32,0.32 -0.32,0.592 0,0.416 0.24,0.64 0.256,0.208 0.544,0.208 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path537" /><path
+     d="m 62.582812,293.57453 q -0.8,0 -1.456,-0.4 -0.64,-0.416 -1.024,-1.12 -0.368,-0.72 -0.368,-1.6 0,-1.04 0.448,-1.888 0.464,-0.848 1.232,-1.344 0.768,-0.512 1.696,-0.512 1.04,0 1.824,0.56 0.192,0.144 0.192,0.304 0,0.128 -0.112,0.288 -0.112,0.16 -0.272,0.272 -0.16,0.096 -0.304,0.096 -0.08,0 -0.16,-0.048 -0.08,-0.064 -0.176,-0.128 -0.352,-0.272 -0.784,-0.512 -0.432,-0.24 -0.72,-0.24 -0.784,0 -1.28,0.736 -0.48,0.72 -0.48,1.904 0,0.752 0.32,1.36 0.336,0.608 0.88,0.96 0.56,0.352 1.232,0.352 0.464,0 0.8,-0.144 0.336,-0.16 0.72,-0.544 0.032,-0.032 0.08,-0.048 0.048,-0.032 0.08,-0.032 0.176,0 0.176,0.224 0,0.096 -0.064,0.224 -0.048,0.112 -0.176,0.272 -0.256,0.32 -0.608,0.56 -0.352,0.224 -0.784,0.336 -0.416,0.112 -0.912,0.112 z m -0.816,4.144 q -0.256,0 -0.368,-0.144 -0.112,-0.144 -0.112,-0.512 0,-0.144 0.048,-0.224 0.064,-0.08 0.16,-0.08 0.128,0 0.304,0.08 0.176,0.096 0.544,0.096 0.32,0 0.464,-0.208 0.16,-0.208 0.16,-0.512 0,-0.464 -0.288,-0.688 -0.272,-0.224 -0.656,-0.224 -0.16,0 -0.256,0.048 -0.08,0.048 -0.16,0.048 -0.08,0 -0.192,-0.064 -0.096,-0.064 -0.096,-0.176 0,-0.064 0.08,-0.176 l 1.408,-1.776 h 0.496 l -0.608,0.8 q -0.08,0.112 -0.08,0.16 0,0.096 0.176,0.176 0.384,0.16 0.672,0.48 0.304,0.336 0.304,0.736 0,0.48 -0.224,0.88 -0.224,0.4 -0.56,0.672 -0.336,0.288 -0.672,0.448 -0.32,0.16 -0.544,0.16 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path539" /><path
+     d="m 19.152437,313.88946 q -0.032,0 -0.112,-0.064 -0.064,-0.064 -0.064,-0.096 0,-0.16 0.032,-0.448 0.048,-0.304 0.048,-0.512 v -0.096 q -0.24,0.368 -0.768,0.752 -0.528,0.384 -1.328,0.384 -0.912,0 -1.584,-0.48 -0.656,-0.48 -1.024,-1.232 -0.352,-0.752 -0.352,-1.552 0,-0.928 0.432,-1.744 0.432,-0.816 1.232,-1.328 0.816,-0.512 1.936,-0.512 0.32,0 0.64,0.064 0.336,0.048 0.512,0.112 0.144,0.048 0.208,0.048 0.112,0 0.112,-0.384 v -2.272 q 0,-0.656 -0.208,-0.88 -0.208,-0.224 -0.592,-0.288 -0.144,-0.032 -0.144,-0.208 0,-0.144 0.128,-0.192 0.704,-0.176 1.104,-0.336 0.4,-0.16 0.624,-0.256 0.064,-0.032 0.112,-0.032 0.064,-0.016 0.096,-0.016 0.096,0 0.112,0.096 0,0.096 -0.032,0.336 -0.016,0.224 -0.048,0.672 -0.032,0.448 -0.032,1.168 v 7.232 q 0,0.544 0.08,0.8 0.08,0.24 0.256,0.24 0.08,0 0.272,-0.016 0.208,-0.016 0.416,-0.032 0.288,-0.016 0.288,0.144 0,0.112 -0.08,0.208 -0.064,0.08 -0.144,0.08 -0.448,0.064 -0.88,0.192 -0.432,0.112 -0.992,0.352 -0.128,0.064 -0.176,0.08 -0.032,0.016 -0.08,0.016 z m -1.616,-0.912 q 0.416,0 0.816,-0.208 0.4,-0.224 0.704,-0.576 l 0.016,-2.88 q 0,-0.432 -0.256,-0.848 -0.24,-0.416 -0.688,-0.672 -0.432,-0.272 -1.024,-0.272 -0.368,0 -0.832,0.224 -0.464,0.224 -0.8,0.8 -0.336,0.56 -0.336,1.632 0,0.912 0.272,1.472 0.272,0.544 0.656,0.832 0.4,0.288 0.8,0.4 0.416,0.096 0.672,0.096 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path541" /><path
+     d="m 22.686187,306.48146 q -0.064,0 -0.096,-0.128 -0.016,-0.128 -0.016,-0.24 0.016,-0.256 0.016,-0.48 0,-0.224 0,-0.432 0,-0.288 -0.016,-0.64 -0.016,-0.368 -0.032,-0.624 -0.016,-0.272 -0.016,-0.272 0,-0.176 0.096,-0.32 0.112,-0.16 0.208,-0.24 0.192,-0.16 0.336,-0.24 0.16,-0.096 0.352,-0.096 0.128,0 0.176,0.16 0.048,0.144 0.048,0.352 0,0.416 -0.144,0.96 -0.128,0.544 -0.304,1.056 -0.176,0.496 -0.304,0.784 -0.064,0.144 -0.16,0.272 -0.08,0.128 -0.144,0.128 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path543" /><path
+     d="m 25.345687,313.63346 q -0.32,0 -0.32,-0.176 0,-0.144 0.368,-0.256 0.24,-0.08 0.448,-0.208 0.224,-0.128 0.24,-0.448 v -8.016 q 0,-0.432 -0.144,-0.752 -0.144,-0.336 -0.56,-0.4 -0.144,-0.032 -0.144,-0.224 0,-0.144 0.128,-0.192 0.224,-0.08 0.528,-0.176 0.32,-0.096 0.656,-0.208 0.336,-0.128 0.592,-0.24 0.064,-0.032 0.096,-0.032 0.048,0 0.08,0.032 0.032,0.032 0.032,0.08 0,0.096 -0.048,0.272 -0.032,0.176 -0.064,0.608 -0.032,0.432 -0.032,1.296 v 2.784 q 0,0.256 0.016,0.368 0.032,0.112 0.096,0.224 0.256,-0.192 0.624,-0.416 0.384,-0.24 0.848,-0.416 0.464,-0.176 0.96,-0.176 0.784,0 1.296,0.624 0.528,0.608 0.528,1.552 v 3.36 q 0,0.32 0.208,0.48 0.208,0.144 0.448,0.224 0.176,0.048 0.272,0.112 0.096,0.048 0.096,0.144 0,0.176 -0.32,0.176 -0.32,0 -0.496,-0.032 -0.16,-0.016 -0.32,-0.032 -0.144,-0.016 -0.432,-0.016 -0.272,0 -0.432,0.016 -0.16,0.016 -0.336,0.032 -0.16,0.032 -0.48,0.032 -0.32,0 -0.32,-0.176 0,-0.112 0.096,-0.144 0.096,-0.048 0.272,-0.112 0.24,-0.08 0.432,-0.224 0.192,-0.16 0.192,-0.48 v -3.264 q 0,-0.4 -0.24,-0.72 -0.224,-0.336 -0.56,-0.528 -0.336,-0.192 -0.688,-0.192 -0.304,0 -0.704,0.096 -0.4,0.08 -0.624,0.256 -0.256,0.208 -0.352,0.432 -0.08,0.224 -0.08,0.72 v 3.248 q 0.016,0.32 0.192,0.448 0.192,0.128 0.432,0.208 0.176,0.048 0.256,0.112 0.096,0.048 0.096,0.144 0,0.176 -0.32,0.176 -0.32,0 -0.48,-0.032 -0.16,-0.016 -0.304,-0.032 -0.144,-0.016 -0.432,-0.016 -0.272,0 -0.448,0.016 -0.16,0.016 -0.352,0.032 -0.176,0.032 -0.496,0.032 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path545" /><path
+     d="m 33.675687,313.63346 q -0.144,0 -0.24,-0.048 -0.08,-0.032 -0.08,-0.128 0,-0.128 0.112,-0.176 0.128,-0.048 0.256,-0.08 0.336,-0.08 0.512,-0.192 0.176,-0.128 0.176,-0.416 v -3.472 q 0,-0.432 -0.16,-0.768 -0.144,-0.336 -0.56,-0.4 -0.08,-0.016 -0.128,-0.064 -0.032,-0.048 -0.032,-0.144 0,-0.176 0.144,-0.192 0.64,-0.144 1.056,-0.384 0.416,-0.256 0.624,-0.416 0.144,-0.112 0.224,-0.112 0.096,0 0.096,0.08 0,0.128 -0.048,0.512 -0.032,0.368 -0.064,0.832 -0.032,0.448 -0.032,0.816 v 3.712 q 0,0.272 0.176,0.4 0.192,0.128 0.512,0.208 0.128,0.032 0.24,0.08 0.128,0.048 0.128,0.176 0,0.176 -0.32,0.176 -0.304,0 -0.496,-0.032 -0.176,-0.016 -0.352,-0.032 -0.16,-0.016 -0.448,-0.016 -0.272,0 -0.448,0.016 -0.176,0.016 -0.352,0.032 -0.176,0.032 -0.496,0.032 z m 1.28,-8.304 q -0.336,0 -0.576,-0.224 -0.224,-0.24 -0.224,-0.576 0,-0.352 0.224,-0.576 0.24,-0.24 0.576,-0.24 0.352,0 0.576,0.24 0.24,0.224 0.24,0.576 0,0.336 -0.24,0.576 -0.224,0.224 -0.576,0.224 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path547" /><path
+     d="m 42.589937,313.88946 q -0.032,0 -0.112,-0.064 -0.064,-0.064 -0.064,-0.096 0,-0.16 0.032,-0.448 0.048,-0.304 0.048,-0.512 v -0.096 q -0.24,0.368 -0.768,0.752 -0.528,0.384 -1.328,0.384 -0.912,0 -1.584,-0.48 -0.656,-0.48 -1.024,-1.232 -0.352,-0.752 -0.352,-1.552 0,-0.928 0.432,-1.744 0.432,-0.816 1.232,-1.328 0.816,-0.512 1.936,-0.512 0.32,0 0.64,0.064 0.336,0.048 0.512,0.112 0.144,0.048 0.208,0.048 0.112,0 0.112,-0.384 v -2.272 q 0,-0.656 -0.208,-0.88 -0.208,-0.224 -0.592,-0.288 -0.144,-0.032 -0.144,-0.208 0,-0.144 0.128,-0.192 0.704,-0.176 1.104,-0.336 0.4,-0.16 0.624,-0.256 0.064,-0.032 0.112,-0.032 0.064,-0.016 0.096,-0.016 0.096,0 0.112,0.096 0,0.096 -0.032,0.336 -0.016,0.224 -0.048,0.672 -0.032,0.448 -0.032,1.168 v 7.232 q 0,0.544 0.08,0.8 0.08,0.24 0.256,0.24 0.08,0 0.272,-0.016 0.208,-0.016 0.416,-0.032 0.288,-0.016 0.288,0.144 0,0.112 -0.08,0.208 -0.064,0.08 -0.144,0.08 -0.448,0.064 -0.88,0.192 -0.432,0.112 -0.992,0.352 -0.128,0.064 -0.176,0.08 -0.032,0.016 -0.08,0.016 z m -1.616,-0.912 q 0.416,0 0.816,-0.208 0.4,-0.224 0.704,-0.576 l 0.016,-2.88 q 0,-0.432 -0.256,-0.848 -0.24,-0.416 -0.688,-0.672 -0.432,-0.272 -1.024,-0.272 -0.368,0 -0.832,0.224 -0.464,0.224 -0.8,0.8 -0.336,0.56 -0.336,1.632 0,0.912 0.272,1.472 0.272,0.544 0.656,0.832 0.4,0.288 0.8,0.4 0.416,0.096 0.672,0.096 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path549" /><path
+     d="m 45.755687,313.63346 q -0.16,0 -0.24,-0.048 -0.08,-0.032 -0.08,-0.128 0,-0.128 0.096,-0.16 0.096,-0.048 0.272,-0.096 0.304,-0.08 0.448,-0.224 0.16,-0.16 0.16,-0.384 v -3.44 q 0,-0.432 -0.128,-0.752 -0.128,-0.32 -0.528,-0.4 -0.064,-0.016 -0.112,-0.08 -0.048,-0.064 -0.048,-0.128 0,-0.16 0.144,-0.192 0.416,-0.128 0.864,-0.368 0.464,-0.256 0.72,-0.416 0.096,-0.064 0.144,-0.08 0.064,-0.032 0.096,-0.032 0.08,0 0.08,0.112 0,0.048 -0.016,0.24 0,0.192 -0.016,0.448 0,0.256 -0.016,0.512 0,0.032 0.032,0.032 0.256,-0.32 0.56,-0.56 0.32,-0.24 0.64,-0.384 0.336,-0.144 0.64,-0.144 0.336,0 0.544,0.144 0.224,0.144 0.224,0.368 0,0.16 -0.096,0.352 -0.08,0.192 -0.224,0.336 -0.144,0.144 -0.304,0.144 -0.096,0 -0.208,-0.032 -0.112,-0.048 -0.24,-0.112 -0.128,-0.048 -0.256,-0.096 -0.128,-0.048 -0.256,-0.048 -0.384,0 -0.752,0.272 -0.352,0.272 -0.352,1.072 v 3.232 q 0,0.208 0.224,0.352 0.224,0.128 0.624,0.256 0.176,0.048 0.272,0.096 0.096,0.048 0.096,0.16 0,0.176 -0.32,0.176 -0.48,0 -0.736,-0.048 -0.24,-0.032 -0.656,-0.032 -0.272,0 -0.448,0.016 -0.16,0.016 -0.352,0.032 -0.176,0.032 -0.496,0.032 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path551" /><path
+     d="m 54.059437,313.80946 q -0.896,0 -1.616,-0.416 -0.72,-0.416 -1.152,-1.136 -0.416,-0.736 -0.416,-1.664 0,-0.672 0.256,-1.312 0.272,-0.64 0.752,-1.168 0.48,-0.528 1.12,-0.832 0.64,-0.32 1.376,-0.32 0.928,0 1.664,0.448 0.752,0.448 1.184,1.184 0.448,0.72 0.448,1.584 0,0.928 -0.416,1.76 -0.4,0.832 -1.2,1.36 -0.8,0.512 -2,0.512 z m 0.336,-0.48 q 0.544,0 0.976,-0.208 0.432,-0.208 0.672,-0.672 0.192,-0.368 0.256,-0.896 0.064,-0.528 0.064,-0.992 0,-0.768 -0.288,-1.472 -0.272,-0.72 -0.784,-1.168 -0.496,-0.464 -1.184,-0.464 -0.432,0 -0.784,0.144 -0.336,0.128 -0.624,0.496 -0.32,0.4 -0.416,0.976 -0.096,0.576 -0.096,1.152 0,0.784 0.288,1.504 0.288,0.704 0.784,1.152 0.496,0.448 1.136,0.448 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path553" /><path
+     d="m 61.341687,318.22546 q -1.36,0 -2.16,-0.528 -0.784,-0.512 -0.784,-1.392 0,-0.416 0.128,-0.704 0.128,-0.288 0.4,-0.496 0.224,-0.192 0.592,-0.496 0.384,-0.288 0.784,-0.608 l 0.672,0.032 q -0.768,0.496 -1.072,0.944 -0.304,0.448 -0.304,1.088 0,0.64 0.56,1.072 0.576,0.448 1.408,0.448 0.944,0 1.52,-0.432 0.4,-0.304 0.624,-0.8 0.224,-0.48 0.224,-1.024 0,-0.352 -0.256,-0.592 -0.24,-0.224 -0.768,-0.368 -0.528,-0.144 -1.376,-0.192 -1.504,-0.112 -2.096,-0.4 -0.576,-0.288 -0.576,-0.896 0,-0.16 0.08,-0.288 0.096,-0.144 0.288,-0.304 0.368,-0.288 0.544,-0.416 0.176,-0.144 0.256,-0.24 0.096,-0.096 0.176,-0.24 l 0.544,0.272 q -0.352,0.128 -0.592,0.352 -0.24,0.208 -0.24,0.384 0,0.224 0.24,0.4 0.24,0.16 0.704,0.256 0.464,0.096 1.136,0.144 1.472,0.08 2.192,0.48 0.72,0.4 0.72,1.136 0,0.624 -0.32,1.216 -0.304,0.608 -0.816,1.104 -0.512,0.496 -1.152,0.784 -0.624,0.304 -1.28,0.304 z m 0.192,-6.896 q 0.608,0 1.008,-0.608 0.4,-0.624 0.4,-1.536 0,-0.464 -0.224,-0.864 -0.208,-0.416 -0.56,-0.656 -0.336,-0.256 -0.736,-0.256 -0.368,0 -0.704,0.272 -0.32,0.256 -0.528,0.672 -0.192,0.416 -0.192,0.912 0,0.56 0.208,1.04 0.208,0.464 0.56,0.752 0.352,0.272 0.768,0.272 z m -0.096,0.56 q -0.656,0 -1.248,-0.336 -0.592,-0.336 -0.976,-0.88 -0.368,-0.56 -0.368,-1.216 0,-0.752 0.384,-1.312 0.4,-0.576 1.04,-0.896 0.64,-0.32 1.36,-0.32 0.464,0 0.8,0.128 0.352,0.112 0.688,0.208 0.384,0.112 0.608,0.144 0.224,0.016 0.464,0.016 0.192,0 0.48,-0.016 0.288,-0.032 0.4,-0.032 0.208,0 0.208,0.24 0,0.144 -0.16,0.304 -0.08,0.08 -0.128,0.08 h -0.432 q -0.432,0 -0.48,0.128 -0.016,0.064 -0.048,0.192 -0.016,0.112 -0.032,0.256 -0.016,0.144 -0.016,0.288 0,0.816 -0.352,1.504 -0.352,0.688 -0.928,1.104 -0.576,0.416 -1.264,0.416 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path555" /><path
+     d="m 68.598437,313.82546 q -0.88,0 -1.536,-0.432 -0.656,-0.432 -1.024,-1.216 -0.368,-0.8 -0.368,-1.84 0,-0.928 0.416,-1.68 0.432,-0.768 1.136,-1.232 0.704,-0.464 1.536,-0.464 0.64,0 1.136,0.256 0.496,0.256 0.768,0.72 0.288,0.448 0.288,1.04 0,0.496 -0.48,0.496 h -3.376 q -0.224,0 -0.32,0.128 -0.08,0.112 -0.08,0.464 0,0.768 0.336,1.408 0.336,0.624 0.896,1.008 0.56,0.368 1.232,0.368 0.48,0 0.864,-0.176 0.4,-0.192 0.704,-0.544 0.064,-0.08 0.096,-0.096 0.032,-0.032 0.08,-0.032 0.128,0 0.128,0.16 0,0.304 -0.288,0.672 -0.24,0.304 -0.576,0.528 -0.336,0.224 -0.736,0.336 -0.4,0.128 -0.832,0.128 z m -1.472,-4.848 h 1.456 q 0.384,0 0.656,-0.016 0.272,-0.016 0.528,-0.064 0.08,-0.016 0.096,-0.096 0.032,-0.096 0.032,-0.256 0,-0.464 -0.416,-0.784 -0.4,-0.336 -0.96,-0.336 -0.368,0 -0.736,0.224 -0.368,0.208 -0.608,0.528 -0.24,0.32 -0.24,0.64 0,0.16 0.192,0.16 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path557" /><path
+     d="m 72.144437,313.63346 q -0.144,0 -0.24,-0.048 -0.08,-0.032 -0.08,-0.128 0,-0.128 0.096,-0.16 0.096,-0.048 0.272,-0.096 0.24,-0.064 0.464,-0.176 0.224,-0.112 0.224,-0.432 v -3.44 q 0,-0.432 -0.096,-0.736 -0.08,-0.304 -0.496,-0.416 -0.064,-0.032 -0.112,-0.064 -0.048,-0.048 -0.048,-0.144 0,-0.176 0.144,-0.192 0.56,-0.144 0.912,-0.352 0.352,-0.208 0.688,-0.464 0.048,-0.032 0.08,-0.048 0.048,-0.032 0.096,-0.032 0.032,0 0.048,0.032 0.032,0.032 0.032,0.08 0,0.112 -0.048,0.464 -0.032,0.336 -0.032,0.56 0,0.064 0,0.128 0.016,0.048 0.032,0.064 0.56,-0.528 1.184,-0.8 0.64,-0.272 1.392,-0.272 0.784,0 1.296,0.64 0.512,0.64 0.512,1.584 v 3.408 q 0,0.32 0.224,0.432 0.224,0.096 0.464,0.176 0.128,0.048 0.24,0.112 0.128,0.048 0.128,0.176 0,0.096 -0.112,0.112 -0.112,0.032 -0.208,0.032 -0.32,0 -0.496,-0.032 -0.176,-0.016 -0.336,-0.032 -0.16,-0.016 -0.448,-0.016 -0.272,0 -0.448,0.016 -0.176,0.016 -0.368,0.032 -0.176,0.032 -0.496,0.032 -0.08,0 -0.208,-0.032 -0.112,-0.016 -0.112,-0.112 0,-0.128 0.112,-0.176 0.128,-0.064 0.256,-0.112 0.24,-0.08 0.464,-0.176 0.224,-0.112 0.224,-0.432 v -3.36 q 0,-0.704 -0.4,-1.088 -0.384,-0.4 -1.04,-0.416 -0.576,0 -1.008,0.192 -0.432,0.176 -0.768,0.448 -0.064,0.064 -0.096,0.176 -0.032,0.096 -0.032,0.192 v 3.856 q 0,0.32 0.224,0.432 0.224,0.112 0.464,0.176 0.368,0.096 0.368,0.256 0,0.096 -0.08,0.128 -0.08,0.048 -0.24,0.048 -0.32,0 -0.512,-0.032 -0.176,-0.016 -0.336,-0.032 -0.16,-0.016 -0.448,-0.016 -0.272,0 -0.448,0.016 -0.16,0.016 -0.352,0.032 -0.176,0.032 -0.496,0.032 z"
+     style="font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle"
+     id="path559" /></g></svg>
