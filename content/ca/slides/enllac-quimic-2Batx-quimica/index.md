@@ -145,11 +145,11 @@ $$
 U_\mathrm R = -\frac{N_\mathrm A M z^+ z^- e^2}{4\pi\epsilon_0 r_0}\left(1-\frac{1}{n}\right),
 $$
 
-on $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ és la constant d'Avogadro; $M$ és la constant de Madelung, relacionada amb la geometria del cristall; $z^+$ y $z^-$ són els números de càrrega del catió i de l'anió, respectivament;
+on $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ és la constant d'Avogadro; $M$ és la constant de Madelung, relacionada amb la geometria del cristall; $z^+$ i $z^-$ són els números de càrrega del catió i de l'anió, respectivament;
 
 ---
 
-$e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la *permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5<n<12$ és l'exponent de Born (experimental).
+$e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5<n<12$ és l'exponent de Born (experimental).
 
 ---
 
@@ -207,7 +207,7 @@ Sorgeix de l'**atracció electroestàtica** entre els **electrons** de conducci�
 
 ---
 
-ambé et recomano donar un cop d'ull a aquest magnífic **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en anglès):
+També et recomano donar un cop d'ull a aquest magnífic **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en anglès):
 
 {{< youtube LNsSS6Id6bM >}}
 
@@ -286,7 +286,7 @@ Es tracta d'enllaços en els quals un sol element (***donador***) aporta el pare
 
 ---
 
-És un enllaç molt comú[^1] i clau per a entendre el concepte **àcid-base de Lewis**, en el qual l'àcid és l'espècie que accepta el parell d'electrons (acceptor) i la base l'espècie que ho cedeix (donador).
+És un enllaç molt comú i clau per a entendre el concepte **àcid-base de Lewis**, en el qual l'àcid és l'espècie que accepta el parell d'electrons (acceptor) i la base l'espècie que ho cedeix (donador).
 
 ---
 
@@ -335,7 +335,7 @@ Les **substàncies covalents cristal·lines** contenen un gran nombre d'**àtoms
 
 - A causa dels **forts enllaços covalents** entre els àtoms, solen tenir **temperatures** de **fusió** i **ebullició altes**, per la qual cosa són **sòlids** a **temperatura ambient**.
 - Són substàncies molt **dures** encara que **fràgils**.
-- Solen ser **mals conductors** (no vaig agafar el grafit o el grafè).
+- Solen ser **mals conductors** (no així el grafit o el grafè).
 
 {{% /section %}}
 
@@ -356,7 +356,7 @@ Les **substàncies covalents cristal·lines** contenen un gran nombre d'**àtoms
 ---
 
 ### TRPECV
-La **Teoria de Repulsió de Parells d'Electrons de la Capa de València** (*TRPECV) es basa en el fet que, com els electrons de valència es repel·leixen els uns als altres, aquests tendeixen a adoptar una disposició espacial que minimitza aquesta repulsió.
+La **Teoria de Repulsió de Parells d'Electrons de la Capa de València** (TRPECV) es basa en el fet que, com els electrons de valència es repel·leixen els uns als altres, aquests tendeixen a adoptar una disposició espacial que minimitza aquesta repulsió.
 
 ---
 
@@ -580,7 +580,7 @@ Les forces intermoleculars són **febles en relació amb** les **forces intramol
 
 ---
 
-Es poden donar entre **molècules polars** (dipol-dipol, més forts com més gran sigui la polaritat de la molècula), i **apolars** (anomenades **forces** de **dispersió** de ***London**, més fortes com més grans i massives són les molècules involucrades).
+Es poden donar entre **molècules polars** (dipol-dipol, més fortes com més gran sigui la polaritat de la molècula), i **apolars** (anomenades **forces** de **dispersió** de **London**, més fortes com més grans i massives són les molècules involucrades).
 
 ---
 

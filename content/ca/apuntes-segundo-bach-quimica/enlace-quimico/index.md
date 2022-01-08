@@ -1,5 +1,5 @@
 ---
-title: Enllaç químic
+title: Enllaç químic 
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/enllac-quimic"
 subtitle: Enllaç iònic, covalent i metàl·lic. Geometria molecular. Forces intermoleculars
 summary: "Enllaç iònic, covalent i metàl·lic. Geometria molecular. Forces intermoleculars."
@@ -89,7 +89,7 @@ Estudia la **polaritat** de **molècules** amb aquesta excel·lent **simulació*
 
 #### Cicle de Born-Haber
 
-Formació d'un compuest iònic a partir dels seus elements.
+Formació d'un compost iònic a partir dels seus elements.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber-cat.svg" title="Cicle de Born-Haber per la formació del fluorur de liti (LiF). Basada en https://commons.wikimedia.org/wiki/File:Born-haber_cycle_LiF.svg." lightbox="false" width="100%" >}}
 
@@ -101,7 +101,7 @@ $$
 U_\mathrm R = -\frac{N_\mathrm A M z^+ z^- e^2}{4\pi\epsilon_0 r_0}\left(1-\frac{1}{n}\right),
 $$
 
-on $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ és la constant d'Avogadro; $M$ és la constant de Madelung, relacionada amb la geometria del cristall; $z^+$ y $z^-$ són els números de càrrega del catió i de l'anió, respectivament; $e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la *permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5<n<12$ és l'exponent de Born (experimental).
+on $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ és la constant d'Avogadro; $M$ és la constant de Madelung, relacionada amb la geometria del cristall; $z^+$ i $z^-$ són els números de càrrega del catió i de l'anió, respectivament; $e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5<n<12$ és l'exponent de Born (experimental).
 
 Es comprova que el mòdul de l'**energia** de **xarxa** és:
 
@@ -213,7 +213,7 @@ Les **substàncies covalents cristal·lines** contenen un gran nombre d'**àtoms
 
 - A causa dels **forts enllaços covalents** entre els àtoms, solen tenir **temperatures** de **fusió** i **ebullició altes**, per la qual cosa són **sòlids** a **temperatura ambient**.
 - Són substàncies molt **dures** encara que **fràgils**.
-- Solen ser **mals conductors** (no vaig agafar el grafit o el grafè).
+- Solen ser **mals conductors** (no així el grafit o el grafè).
 
 ## Geometria molecular
 
@@ -353,7 +353,7 @@ Les **forces intermoleculars** són les **forces** que existeixen **entre** les 
 
 {{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares-cat.svg" title="**Atracció intermolecular** entre molècules de **clorur d'hidrogen**, HCl. Traduïda i adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
 
-Es poden donar entre **molècules polars** (dipol-dipol, més forts com més gran sigui la polaritat de la molècula), i **apolars** (anomenades **forces** de **dispersió** de ***London**, més fortes com més grans i massives són les molècules involucrades).
+Es poden donar entre **molècules polars** (dipol-dipol, més fortes com més gran sigui la polaritat de la molècula), i **apolars** (anomenades **forces** de **dispersió** de **London**, més fortes com més grans i massives són les molècules involucrades).
 
 ### Enllaços d'hidrogen
 

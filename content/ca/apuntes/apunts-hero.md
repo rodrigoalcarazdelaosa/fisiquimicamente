@@ -11,7 +11,7 @@ cta:
   icon: compass
 cta_alt:
   label: Últims apunts ➡️
-  url: "recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic/"
+  url: "recursos-fisica-quimica/apunts/2batx/quimica/enllac-quimic/"
 cta_note:
   label:
 design:
