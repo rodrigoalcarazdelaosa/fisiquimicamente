@@ -113,3 +113,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [minify]
   disableHTML = true
+
+[security]
+  _merge = 'deep'
