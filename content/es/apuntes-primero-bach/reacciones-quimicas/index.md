@@ -25,8 +25,8 @@ image:
 links:
 - icon_pack: fas
   icon: pencil-ruler
-  name: Ejercicios
-  url: reacciones-quimicas-ejercicios.pdf
+  name: Ejercicios ajustes
+  url: ajuste-ecuaciones-quimicas-ejercicios.pdf
 - icon_pack: fas
   icon: external-link-alt
   name: Más ejercicios
