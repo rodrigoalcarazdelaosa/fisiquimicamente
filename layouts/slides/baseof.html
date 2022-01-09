@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode | default "es" }}">
 <head>
-  {{ $media_dir := site.Params.media_dir | default "media" }}
-  {{ .Scratch.Set "media_dir" $media_dir }}
-
-  {{ $css := site.Data.assets.css }}
+  
   {{ $cdn_url_reveal := "https://cdn.jsdelivr.net/npm/reveal.js@4.2.1" }}
   {{ $js := site.Data.assets.js }}
+  {{ $css := site.Data.assets.css }}
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Wowchemy {{ site.Data.wowchemy.version }} for Hugo">
 
-  {{ if site.Home.OutputFormats.Get "WebAppManifest" }}
-  <link rel="manifest" href="{{ "index.webmanifest" | relLangURL }}">
+  {{ with site.Home.OutputFormats.Get "WebAppManifest" }}
+     <link rel="manifest" href="{{ .RelPermalink }}">
   {{ end }}
   
   <link rel="icon" type="image/png" href="{{(partial "functions/get_icon" 32).RelPermalink}}">
