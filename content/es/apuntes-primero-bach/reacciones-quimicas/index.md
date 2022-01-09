@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
 subtitle: Ecuaciones químicas, estequiometría, reactivo limitante y rendimiento
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Ecuaciones químicas, estequiometría, reactivo limitante y rendimiento de una reacción."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - apuntes
 - 1º Bach
@@ -21,8 +24,12 @@ image:
 
 links:
 - icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios ajustes
+  url: ajuste-ecuaciones-quimicas-ejercicios.pdf
+- icon_pack: fas
   icon: external-link-alt
-  name: Ejercicios
+  name: Más ejercicios
   url: https://drive.google.com/file/d/1_E6cVuBxyDmBam803B949yPKyHHajLXt/view
   
 ---
