@@ -123,8 +123,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: "Telescopio Espacial James Webb 🔭"
-    cta_url: 'blog/2022/01/02/telescopio-espacial-james-webb/'
+    cta_label: "Calendario Científico Escolar 2022"
+    cta_url: 'blog/2022/01/12/calendario-cientifico-escolar-2022/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
 ---    

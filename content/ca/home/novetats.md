@@ -31,4 +31,20 @@ item:
     cta_url: 'recursos-fisica-quimica/apunts/2batx/quimica/enllac-quimic/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
+  - title: 🗞️ Novetats
+    content: '✍️ Darrera entrada del blog'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    # overlay_color: '#fffff8'  # An HTML color value.
+    overlay_img: novedades/darrera-entrada-blog.webp  # Image path relative to your `assets/media/` folder
+    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: "Calendari Científic Escolar 2022"
+    cta_url: 'blog/2022/01/12/calendari-cientific-escolar-2022/'
+    # cta_icon_pack: fas
+    # cta_icon: graduation-cap    
 ---    

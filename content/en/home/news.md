@@ -59,8 +59,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Color Contrast
-    cta_url: 'blog/2020/09/05/color-contrast/'
+    cta_label: Scientific School Calendar 2022
+    cta_url: 'blog/2022/01/12/scientific-school-calendar-2022/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
 ---    
