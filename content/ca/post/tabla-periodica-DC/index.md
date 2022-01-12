@@ -7,6 +7,7 @@ date: "2020-07-16T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
+- blog
 - taula-periòdica
 - DC
 categories:

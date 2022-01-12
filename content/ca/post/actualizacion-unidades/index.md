@@ -7,6 +7,7 @@ date: "2020-04-30T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
+- blog
 - activitat-científica
 categories:
 - Física

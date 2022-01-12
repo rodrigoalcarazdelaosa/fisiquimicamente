@@ -7,6 +7,7 @@ date: "2020-09-05T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
+- blog
 - color
 - contraste
 categories:

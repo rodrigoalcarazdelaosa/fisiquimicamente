@@ -8,6 +8,7 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 - jesica-sanchez-mazon
 tags:
+- blog
 - tabla-periódica
 categories:
 - Física

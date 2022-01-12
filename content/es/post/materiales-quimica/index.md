@@ -7,6 +7,7 @@ date: "2021-09-12T00:00:00Z"
 authors:
 - ricardo-estrada-ramirez
 tags:
+- blog
 - materia
 - estructura-atómica
 - tabla-periódica

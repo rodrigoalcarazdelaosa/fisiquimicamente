@@ -7,6 +7,7 @@ date: "2021-08-24T00:00:00Z"
 authors:
 - jesica-sanchez-mazon
 tags:
+- blog
 - radiofísica
 - física-s-XX
 - radiactividad

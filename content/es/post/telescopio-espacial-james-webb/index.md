@@ -7,6 +7,7 @@ date: "2022-01-02T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
+- blog
 - gravitación
 - telescopio
 - webb

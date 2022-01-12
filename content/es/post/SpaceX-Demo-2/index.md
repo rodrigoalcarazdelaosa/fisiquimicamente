@@ -7,6 +7,7 @@ date: "2020-06-04T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
+- blog
 - movimiento
 - gravitación
 - spacex

@@ -7,6 +7,7 @@ date: "2020-05-19T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
+- blog
 - gravitació
 categories:
 - Física

@@ -7,6 +7,7 @@ date: "2021-08-15T00:00:00Z"
 authors:
 - ricardo-estrada-ramirez
 tags:
+- blog
 - coure
 - reaccions-químiques
 - redox

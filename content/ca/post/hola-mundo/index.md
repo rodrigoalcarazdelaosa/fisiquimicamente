@@ -7,6 +7,8 @@ date: "2020-04-28T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 - eduard-cremades
+tags:
+- blog
 image:
   preview_only: true
   placement: 3

@@ -7,6 +7,7 @@ date: "2020-08-23T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
+- blog
 - taula-periòdica
 categories:
 - Química
