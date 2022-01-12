@@ -132,20 +132,6 @@ sharing_image_ca = "sharing-ca.png"
 twitter = "fqmente"
 
 ############################
-## Regional Settings
-############################
-
-[locale]
-  # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "2006-01-02"
-  #   Examples: "3:04 pm" or "15:04"
-  time_format = "15:04"
-
-  # Address format.
-  address_format = "es"
-
-############################
 ## Advanced
 ############################
 
@@ -175,6 +161,20 @@ plugins_js  = ["footnotes"]
 
 # Translations in footer
 footer = {show_translations = true}
+
+############################
+## Regional Settings
+############################
+
+[locale]
+  # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "2006-01-02"
+  #   Examples: "3:04 pm" or "15:04"
+  time_format = "15:04"
+
+  # Address format.
+  address_format = "es"
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
