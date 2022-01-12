@@ -248,4 +248,13 @@ Despejamos el volumen $V$:
 $$
 V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{\cancel{mol}} \cdot 0.082\thinspace\frac{\mathrm{\cancel{atm}\thinspace L}}{\mathrm{\cancel{mol}\thinspace \cancel{K}}}\cdot 298\thinspace\mathrm{\cancel{K}}}{0.98\thinspace\mathrm{\cancel{atm}}} = 22.4\thinspace\mathrm{L_\ce{H2}}
 $$	
-{{% /callout %}}		
+{{% /callout %}}
+
+## Práctica virtual
+Te recomendamos ver este excelente vídeo/corto-documental del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde se plantea, de modo cualitativo, una secuencia de cinco reacciones químicas que partiendo de cobre, entre otros metales, desemboca de nuevo en este metal:
+
+{{< youtube KFcRVAjuxAM >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1wsDhdlJNQKB2VvzHSoMPOMhqPSKEyVP0/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}

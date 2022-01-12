@@ -20,6 +20,7 @@ slides:
 - [Cálculos masa-masa](#/2)
 - [Reactivos en disolución](#/3)
 - [Cálculos masa-volumen](#/4)
+- [Práctica virtual](#/5)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
 
@@ -286,5 +287,15 @@ Despejamos el volumen $V$:
 $$
 V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{mol} \cdot 0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}\cdot 298\thinspace\mathrm{K}}{0.98\thinspace\mathrm{atm}} = 22.4\thinspace\mathrm{L_\mathrm{H_2}}
 $$	
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+## Práctica virtual
+
+{{< youtube KFcRVAjuxAM >}}
 
 {{% /section %}}
