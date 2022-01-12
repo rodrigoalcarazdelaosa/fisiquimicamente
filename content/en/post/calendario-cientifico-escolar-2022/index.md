@@ -42,5 +42,5 @@ The ***Scientific School Calendar 2022*** is mainly aimed at primary and seconda
 In addition, the calendar is accompanied by a [**didactic guide**](https://digital.csic.es/bitstream/10261/256430/3/2022-ENG-Scientific-school-calendar-didactic-guide.pdf) with guidelines for its transversal educational use in the classroom, including activities adapted to each age range and to students with special needs.
 
 {{% callout note %}}
-More information on the [**official project website**](http://www.igm.ule-csic.es/calendario-cientifico).
+More information on the [**official website of the project**](http://www.igm.ule-csic.es/calendario-cientifico).
 {{% /callout %}}
