@@ -251,7 +251,7 @@ $$
 {{% /callout %}}
 
 ## Práctica virtual
-Te recomendamos ver este excelente vídeo/corto-documental del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde se plantea, de modo cualitativo, una secuencia de cinco reacciones químicas que partiendo de cobre, entre otros metales, desemboca de nuevo en este metal:
+Te recomendamos ver este precioso vídeo/corto-documental del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde se plantea, de modo cualitativo, una secuencia de cinco reacciones químicas que partiendo de cobre, entre otros metales, desemboca de nuevo en este metal:
 
 {{< youtube KFcRVAjuxAM >}}
 
