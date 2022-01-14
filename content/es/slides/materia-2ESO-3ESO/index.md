@@ -75,7 +75,7 @@ Es el **espacio** que ocupa un objeto o sistema material.
 
 {{% section %}}
 
-## Propiedades específicas: [densidad](#/2/1)
+## Propiedades específicas: densidad
 
 Las **propiedades específicas** o **características** de la materia son aquellas que nos permiten distinguir una sustancia de otra.
 
@@ -91,7 +91,21 @@ $$
 d = \frac{m}{V}
 $$
 
-{{% fragment %}} En el SI se mide en $\mathrm{kg/m^3}$. {{% /fragment %}}
+{{% fragment %}} En el SI se mide en kg/m<sup>3</sup>. {{% /fragment %}}
+
+---
+
+En [esta tabla, tomada de la entrada sobre densidad en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Density#Various_materials), puedes ver la densidad de diversos materiales (ordenados de menor a mayor densidad).
+
+---
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Artsy_density_column.png/207px-Artsy_density_column.png" width="20%" lightbox="true" >}}
+
+---
+
+Aprende más sobre la **densidad** con esta **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/density/latest/density_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ---
 
