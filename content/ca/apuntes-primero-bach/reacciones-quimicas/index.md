@@ -27,7 +27,7 @@ links:
 - icon_pack: fas
   icon: pencil-ruler
   name: Exercicis
-  url: ajustes-ecuaciones-quimicas-exercicis.pdf
+  url: ajuste-ecuaciones-quimicas-exercicis.pdf
 # - icon_pack: fas
 # icon: download
 #  name: PDF Texto
