@@ -4,6 +4,10 @@ url: "/recursos-fisica-quimica/apunts/1batx/reaccions-quimiques"
 subtitle: Equacions químiques, estequiometria, reactiu limitant i rendiment
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Equacions químiques, estequiometria, reactiu limitant i rendiment."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
+- eduard-cremades
 tags:
 - apunts
 - 1r Batx
@@ -19,7 +23,11 @@ image:
   caption: Foto de [**Alex Kondratiev**](https://unsplash.com/@alexkondratiev) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-# links:
+links:
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Exercicis ajustos
+  url: ajust-equacions-quimiques-exercicis.pdf
 # - icon_pack: fas
 # icon: download
 #  name: PDF Texto
