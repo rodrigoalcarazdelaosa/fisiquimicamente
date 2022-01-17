@@ -30,13 +30,17 @@ links:
   name: Accessible version
   url: https://digital.csic.es/bitstream/10261/256430/4/2022-ENG-Scientific-school-calendar-formato-accesible.docx
 - icon_pack: fas
+  icon: external-link-alt
+  name: Online version
+  url: https://calendario-cientifico-escolar.gitlab.io/en/en/index.html
+- icon_pack: fas
+  icon: calendar
+  name: iCal
+  url: https://digital.csic.es/bitstream/10261/256430/7/english.ical  
+- icon_pack: fas
   icon: file-download
   name: Didactic guide
   url: https://digital.csic.es/bitstream/10261/256430/3/2022-ENG-Scientific-school-calendar-didactic-guide.pdf
-- icon_pack: fas
-  icon: calendar
-  name: iCal file
-  url: https://digital.csic.es/bitstream/10261/256430/7/english.ical
 ---
 
 For the third consecutive year, the [Instituto de Ganadería de Montaña (IGM)](http://www.igm.ule-csic.es), a joint centre of the [Consejo Superior de Investigaciones Científicas (CSIC)](https://www.csic.es/en) and the [Universidad de León](https://www.unileon.es), is promoting this project, which aims to bring scientific culture closer to the younger population and offer close, diverse and current references to science.
@@ -45,7 +49,7 @@ The ***Scientific School Calendar 2022*** is mainly aimed at primary and seconda
 
 In addition, the calendar is accompanied by a [**didactic guide**](https://digital.csic.es/bitstream/10261/256430/3/2022-ENG-Scientific-school-calendar-didactic-guide.pdf) with guidelines for its transversal educational use in the classroom, including activities adapted to each age range and to students with special needs.
 
-You can also subscribe[^1] to the [**online calendar**](https://digital.csic.es/bitstream/10261/256430/7/english.ical) so the anniversaries show up in your calendar application.
+You can also subscribe[^1] to the [**online calendar**](https://digital.csic.es/bitstream/10261/256430/7/english.ical) so the anniversaries show up directly in your calendar application.
 
 [^1]: Learn [here](https://schulichmeds.com/sites/default/files/Documents/Calendar%20Subscription%20Instructions.pdf) how to subscribe to an online calendar on various platforms.
 
