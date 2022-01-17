@@ -29,8 +29,7 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Pòster
-  url: cinetica-quimica-poster.pdf
- links:
+  url: cinetica-quimica-poster.pdf 
 - icon_pack: fas
   icon: pencil-ruler
   name: Exercicis
