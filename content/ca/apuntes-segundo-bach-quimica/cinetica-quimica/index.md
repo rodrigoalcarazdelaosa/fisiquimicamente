@@ -7,6 +7,8 @@ breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - oscar-colomar
+- alba-lopez-valenzuela
+- eduard-cremades
 tags:
 - apunts
 - 2n Batx
@@ -28,6 +30,11 @@ links:
   icon: file-download
   name: Pòster
   url: cinetica-quimica-poster.pdf
+ links:
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Exercicis
+  url: cinetica-quimica-exercicis.pdf
 
 slides: 
 ---
