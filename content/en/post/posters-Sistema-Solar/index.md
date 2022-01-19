@@ -229,52 +229,52 @@ In this post I go through the different posters, all of them **impressive**. Cli
 {{< figure src="2283_poster_ss_front_a_web.jpg" title="This artist's rendering shows the eight major planets of our solar system lined up as if they were transiting the Sun. Although such a view would not be possible in reality, the graphic is intended to show the accurate scale of the planets, relative to each other and the Sun. <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/2854_SSE_A_PDF.zip)" lightbox="true" >}}
 
 ## The Sun
-{{< gallery album="Sol" >}}
+{{< gallery album="sol" >}}
 
 ## Mercury
-{{< gallery album="Mercurio" >}}
+{{< gallery album="mercurio" >}}
 
 ## Venus
-{{< gallery album="Venus" >}}
+{{< gallery album="venus" >}}
 
 ## Earth
-{{< gallery album="Tierra" >}}
+{{< gallery album="tierra" >}}
 
 ### Earth's Moon
-{{< gallery album="Luna" >}}
+{{< gallery album="luna" >}}
 
 ## Mars
-{{< gallery album="Marte" >}}
+{{< gallery album="marte" >}}
 
 ## Asteroids
-{{< gallery album="Asteroides" >}}
+{{< gallery album="asteroides" >}}
 ### Ceres
-{{< gallery album="Ceres" >}}
+{{< gallery album="ceres" >}}
 
 ## Jupiter
 {{< figure src="1032_poster_jupiter_front_a.jpg" title="This [true color mosaic of Jupiter](https://solarsystem.nasa.gov/resources/629/cassini-jupiter-portrait/) was constructed from images taken by the narrow angle camera onboard NASA's Cassini spacecraft in December 2000. Credit: NASA/JPL/Space Science Institute <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1556_Jupiter_A_PDF.zip)" lightbox="true" >}}
 
 ### Io
-{{< gallery album="Io" >}}
+{{< gallery album="io" >}}
 ### Europa
-{{< gallery album="Europa" >}}
+{{< gallery album="europa" >}}
 ### Ganymede
 {{< figure src="947_poster_ganymede_front_a.jpg" title="This view of the [Nicholson Regio/Arbela Sulcus region](https://solarsystem.nasa.gov/resources/813/regional-view-of-bright-and-dark-terrain/), taken by NASA's Galileo spacecraft, shows the stark contrast between the smooth bright terrain and the surrounding highly fractured dark terrain. Credit: NASA/JPL/Brown University/Doug Ellison <br> ⬇️ High resolution PDF [here](https://solarsystem.nasa.gov/system/downloadable_items/1353_Ganymede_A_PDF.zip)" lightbox="true" >}}
 ### Callisto
-{{< gallery album="Calisto" >}}
+{{< gallery album="calisto" >}}
 ## Saturn
-{{< gallery album="Saturno" >}}
+{{< gallery album="saturno" >}}
 ### Titan
-{{< gallery album="Titan" >}}
+{{< gallery album="titan" >}}
 ### Enceladus
-{{< gallery album="Encelado" >}}
+{{< gallery album="encelado" >}}
 ## Uranus
-{{< gallery album="Urano" >}}
+{{< gallery album="urano" >}}
 ## Neptune
-{{< gallery album="Neptuno" >}}
+{{< gallery album="neptuno" >}}
 ## Pluto
-{{< gallery album="Pluton" >}}
+{{< gallery album="pluton" >}}
 ## Comets
-{{< gallery album="Cometas" >}}
+{{< gallery album="cometas" >}}
 ## Beyond Our Solar System
-{{< gallery album="Mas-alla" >}}
+{{< gallery album="mas-alla" >}}

@@ -235,55 +235,55 @@ Cuando hayas visto todos los pósters, te invito a que **votes** cuál es tu **f
 {{< figure src="2283_poster_ss_front_a_web.jpg" title="Esta representación artística muestra los ocho planetas principales de nuestro sistema solar alineados como si estuvieran transitando por el Sol. Aunque tal vista no sería posible en la realidad, el gráfico pretende mostrar la escala exacta de los planetas, en relación a cada uno de ellos y al Sol. <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/2854_SSE_A_PDF.zip)" lightbox="true" >}}
 
 ## El Sol
-{{< gallery album="Sol" >}}
+{{< gallery album="sol" >}}
 
 ## Mercurio
-{{< gallery album="Mercurio" >}}
+{{< gallery album="mercurio" >}}
 
 ## Venus
-{{< gallery album="Venus" >}}
+{{< gallery album="venus" >}}
 
 ## La Tierra
-{{< gallery album="Tierra" >}}
+{{< gallery album="tierra" >}}
 
 ### La Luna
-{{< gallery album="Luna" >}}
+{{< gallery album="luna" >}}
 
 ## Marte
-{{< gallery album="Marte" >}}
+{{< gallery album="marte" >}}
 
 ## Asteroides
-{{< gallery album="Asteroides" >}}
+{{< gallery album="asteroides" >}}
 ### Ceres
-{{< gallery album="Ceres" >}}
+{{< gallery album="ceres" >}}
 
 ## Júpiter
 {{< figure src="1032_poster_jupiter_front_a.jpg" title="Este [mosaico de color verdadero de Júpiter](https://solarsystem.nasa.gov/resources/629/cassini-jupiter-portrait/) fue construido a partir de imágenes tomadas por la cámara de ángulo estrecho a bordo de la nave espacial Cassini de la NASA en diciembre de 2000. Crédito: NASA/JPL/Instituto de Ciencias Espaciales <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1556_Jupiter_A_PDF.zip)" lightbox="true" >}}
 
 ### Ío
-{{< gallery album="Io" >}}
+{{< gallery album="io" >}}
 ### Europa
-{{< gallery album="Europa" >}}
+{{< gallery album="europa" >}}
 ### Ganímedes
 {{< figure src="947_poster_ganymede_front_a.jpg" title="Esta vista de la [región Nicholson Regio/Arbela Sulcus](https://solarsystem.nasa.gov/resources/813/regional-view-of-bright-and-dark-terrain/), tomada por la nave espacial Galileo de la NASA, muestra el marcado contraste entre el suave y brillante terreno y el terreno oscuro altamente fracturado que lo rodea. Crédito: NASA/JPL/Brown University/Doug Ellison <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1353_Ganymede_A_PDF.zip)" lightbox="true" >}}
 ### Calisto
-{{< gallery album="Calisto" >}}
+{{< gallery album="calisto" >}}
 ## Saturno
-{{< gallery album="Saturno" >}}
+{{< gallery album="saturno" >}}
 ### Titán
-{{< gallery album="Titan" >}}
+{{< gallery album="titan" >}}
 ### Encélado
-{{< gallery album="Encelado" >}}
+{{< gallery album="encelado" >}}
 ## Urano
-{{< gallery album="Urano" >}}
+{{< gallery album="urano" >}}
 ## Neptuno
-{{< gallery album="Neptuno" >}}
+{{< gallery album="neptuno" >}}
 ## Plutón
-{{< gallery album="Pluton" >}}
+{{< gallery album="pluton" >}}
 ## Cometas
-{{< gallery album="Cometas" >}}
+{{< gallery album="cometas" >}}
 ## Más allá del Sistema Solar
-{{< gallery album="Mas-alla" >}}
+{{< gallery album="mas-alla" >}}
 
 {{% callout note %}}
 Ahora que has visto todos los pósters, **vota** tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
