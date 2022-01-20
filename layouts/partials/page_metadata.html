@@ -46,9 +46,7 @@
   {{ end }}
 
   {{ $comments_provider := trim (site.Params.comments.provider | lower) " " }}
-  {{ $commentable_page_types := site.Params.comments.commentable | default dict }}
-  {{ $commentable_page_type := index $commentable_page_types $page.Type | default false }}
-  {{ $commentable_page := (ne $page.Params.commentable false) | and $commentable_page_type }}
+  {{ $commentable_page := $page.Params.commentable }}
 
   {{/* Show Disqus comment count if enabled. */}}
   {{ $comments_provider := trim (site.Params.comments.provider | lower) " " }}

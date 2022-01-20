@@ -9,9 +9,12 @@ url: /tutorials
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: 
+banner: 
   image: "tutoriales-header.webp"
   caption: "Foto adaptada de [**Alexei Scutari**](https://unsplash.com/@scutal) a [Unsplash](https://unsplash.com)"
 
 breadcrumbs: [""]
+
+cascade:
+  show_breadcrumb: true
 ---

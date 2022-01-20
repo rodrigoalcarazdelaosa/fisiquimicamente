@@ -55,7 +55,7 @@ subtitle = "📓 17--18 year-olds ⚗️ Chemistry"
 	
   [[content.filter_button]]
     name = "Organic Chemistry"
-    tag = "organic-chemistry"		
+    tag = "organic"		
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

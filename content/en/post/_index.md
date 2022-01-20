@@ -10,9 +10,13 @@ url: /blog
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header: 
+banner: 
   image: "blog-header.webp"
   caption: "Image adapated from [**inspirexpressmiami**](https://pixabay.com/es/users/inspirexpressmiami-263260/) on [Pixabay](https://pixabay.com/es/)"
 
 breadcrumbs: [""]
+
+cascade:
+  commentable: true
+  show_related: true
 ---

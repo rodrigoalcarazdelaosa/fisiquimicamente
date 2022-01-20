@@ -7,7 +7,7 @@ breadcrumbs: ["notes","17-18-year-olds","chemistry"]
 tags:
 - notes
 - 17-18-year-olds
-- organic-chemistry
+- organic
 categories:
 - Chemistry
 weight: 8
