@@ -98,13 +98,6 @@ plugins_js  = ["footnotes"]
   font = "garamond"
   font_size = "XL"
 
-[seo]
-  site_type = "Project"
-  local_business_type = ""
-  org_name = ""
-  description = "Recursos de Física y Química, tutoriales y ciencia de actualidad"
-  twitter = "fqmente"
-
 [header]
   [header.navbar]
     enable = true
@@ -128,11 +121,13 @@ plugins_js  = ["footnotes"]
       allow_commercial = true
 
 [features]
-  privacy_pack = true
-
-############################
-## Regional Settings
-############################
+  [features.privacy_pack]
+    enable = true
+  
+  [features.map]  
+    provider = ""
+    api_key = ""
+    zoom = 15
 
 [locale]
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -178,7 +173,6 @@ plugins_js  = ["footnotes"]
 ## Comments
 ############################
 [comments]
-
   provider = "discord"
 
 ############################
@@ -200,34 +194,20 @@ plugins_js  = ["footnotes"]
     show_logo = false
 
 ############################
-## Maps
-############################
-[map]
-  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
-  # and choose a map provider below.
-  #
-  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
-  #   https://developers.google.com/maps/documentation/javascript/get-api-key
-  # To use OpenStreetMap tiles, set `engine` to 2.
-  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
-  #   https://www.mapbox.com/studio/account/tokens
-  #
-  # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
-  provider = ""
-  api_key = ""
-  zoom = 15
-
-############################
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
-  google_tag_manager = ""
-  cloudflare = ""
+  [marketing.seo]
+    site_type = "Project"
+    local_business_type = ""
+    org_name = ""
+    description = "Recursos de Física y Química, tutoriales y ciencia de actualidad"
+    twitter = "fqmente"
+
+  [marketing.analytics]
+    google_analytics = ""
+    google_tag_manager = ""
+    cloudflare = ""
 
 ############################
 ## Content Management System
@@ -240,5 +220,5 @@ plugins_js  = ["footnotes"]
 ############################
 ## Icon Pack Extensions
 ############################
-[icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+[extensions.academicons]
+  enable = false  # Academicons icon pack https://jpswalsh.github.io/academicons/

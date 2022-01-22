@@ -20,8 +20,7 @@
     categories = "/category/:slug/"
     publication_types = "/publication-type/:slug/"
     post = "/blog/:year/:month/:day/:slug"
-  [en.params]
-  	description = "Physics and Chemistry Resources, Tutorials and Current Science"
+  [en.params]    
     email = "contact@physichemically.com"
 	  # address = {region = "Cantabria", country = "Spain", country_code = "ES"}
     contact_links = [
@@ -30,14 +29,15 @@
       {icon = "pinterest", icon_pack = "fab", name = "Follow us on Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
       {icon = "discord", icon_pack = "fab", name = "Join the Discord server", link = "https://discord.gg/kJqPqTJ"},
     ]
+    [en.params.marketing.seo]
+  	  description = "Physics and Chemistry Resources, Tutorials and Current Science"
 
 [ca]
   baseURL = "https://fisiquimicament.com/"
   languageCode = "ca"
   contentDir = "content/ca"
   title = "FisiQuímicament"
-  [ca.params]
-    description = "Recursos de Física i Química, tutorials i ciència d'actualitat"
+  [ca.params]    
     email = "contacte@fisiquimicament.com"
     # address = {region = "Cantabria", country = "Espanya", country_code = "ES"}
     contact_links = [
@@ -46,6 +46,8 @@
       {icon = "pinterest", icon_pack = "fab", name = "Segueix-nos a Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
       {icon = "discord", icon_pack = "fab", name = "Uneix-te a el servidor d'Discord", link = "https://discord.gg/kJqPqTJ"},
     ]
+    [ca.params.marketing.seo]
+      description = "Recursos de Física i Química, tutorials i ciència d'actualitat"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
