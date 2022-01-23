@@ -30,6 +30,7 @@
       {icon = "discord", icon_pack = "fab", name = "Join the Discord server", link = "https://discord.gg/kJqPqTJ"},
     ]
     [en.params.marketing.seo]
+      org_name = "PhysiChemically"
   	  description = "Physics and Chemistry Resources, Tutorials and Current Science"
 
 [ca]
@@ -47,6 +48,7 @@
       {icon = "discord", icon_pack = "fab", name = "Uneix-te a el servidor d'Discord", link = "https://discord.gg/kJqPqTJ"},
     ]
     [ca.params.marketing.seo]
+      org_name = "FisiQuímicament"
       description = "Recursos de Física i Química, tutorials i ciència d'actualitat"
 
 # Uncomment the lines below to configure your website in a second language.
