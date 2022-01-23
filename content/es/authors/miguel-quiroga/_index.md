@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctor en Química y Profesor de Física y Química
+role: 🗒️ Actividades
 
 # Organizations/Affiliations
 #organizations:

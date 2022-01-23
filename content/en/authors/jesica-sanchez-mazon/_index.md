@@ -15,7 +15,7 @@ superuser: false
 highlight_name: false
 
 # Role/position
-role: Medical Physicist and Radioactive Facilities Supervisor
+role: ☢️ Medical Physics<br>📝 Examinations
 
 # Organizations/Affiliations
 organizations:

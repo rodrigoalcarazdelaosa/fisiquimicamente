@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctor en Química i Professor de Física i Química
+role: 🗒️ Activitats
 
 # Organizations/Affiliations
 #organizations:

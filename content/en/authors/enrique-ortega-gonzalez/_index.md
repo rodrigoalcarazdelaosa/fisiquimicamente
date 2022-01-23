@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Degree in Chemistry and Physics and Chemistry Teacher
+role: 🎓 Admission Tests<br>📝 Examinations
 
 # Organizations/Affiliations
 organizations:

@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<svg width="600" height="384"
+	xmlns="http://www.w3.org/2000/svg">
+<rect x="23" y="20"	width="554" height="165" style="stroke:black; fill:none; stroke-width:6" />
+<path d="M300,20 v165" style="stroke:black; fill:none; stroke-width:6" />
+<circle cx="182" cy="178" r="4" fill="red" />
+<circle cx="149" cy="42" r="4" fill="red" />
+<circle cx="206" cy="151" r="4" fill="red" />
+<circle cx="43" cy="100" r="4" fill="red" />
+<circle cx="104" cy="127" r="4" fill="red" />
+<circle cx="123" cy="111" r="4" fill="red" />
+<circle cx="138" cy="98" r="4" fill="red" />
+<circle cx="53" cy="27" r="4" fill="red" />
+<circle cx="247" cy="48" r="4" fill="red" />
+<circle cx="234" cy="172" r="4" fill="red" />
+<circle cx="72" cy="167" r="4" fill="red" />
+<circle cx="55" cy="140" r="4" fill="red" />
+<circle cx="84" cy="79" r="4" fill="red" />
+<circle cx="214" cy="176" r="4" fill="red" />
+<circle cx="96" cy="139" r="4" fill="red" />
+<circle cx="211" cy="168" r="4" fill="red" />
+<circle cx="293" cy="106" r="4" fill="red" />
+<circle cx="33" cy="36" r="4" fill="red" />
+<circle cx="74" cy="136" r="4" fill="red" />
+<circle cx="128" cy="117" r="4" fill="red" />
+<circle cx="290" cy="121" r="4" fill="red" />
+<circle cx="290" cy="58" r="4" fill="red" />
+<circle cx="190" cy="43" r="4" fill="red" />
+<circle cx="50" cy="69" r="4" fill="red" />
+<circle cx="125" cy="161" r="4" fill="red" />
+<circle cx="77" cy="61" r="4" fill="red" />
+<circle cx="217" cy="70" r="4" fill="red" />
+<circle cx="130" cy="92" r="4" fill="red" />
+<circle cx="132" cy="75" r="4" fill="red" />
+<circle cx="35" cy="27" r="4" fill="red" />
+<circle cx="236" cy="97" r="4" fill="red" />
+<circle cx="84" cy="163" r="4" fill="red" />
+<circle cx="73" cy="75" r="4" fill="red" />
+<circle cx="118" cy="173" r="4" fill="red" />
+<circle cx="279" cy="134" r="4" fill="red" />
+<circle cx="284" cy="127" r="4" fill="red" />
+<circle cx="89" cy="28" r="4" fill="red" />
+<circle cx="71" cy="54" r="4" fill="red" />
+<circle cx="126" cy="68" r="4" fill="red" />
+<circle cx="62" cy="143" r="4" fill="red" />
+<circle cx="70" cy="112" r="4" fill="red" />
+<circle cx="259" cy="127" r="4" fill="red" />
+<circle cx="152" cy="64" r="4" fill="red" />
+<circle cx="140" cy="108" r="4" fill="red" />
+<circle cx="93" cy="82" r="4" fill="red" />
+<circle cx="90" cy="117" r="4" fill="red" />
+<circle cx="232" cy="89" r="4" fill="red" />
+
+<rect x="23" y="202" width="554" height="165" style="stroke:black; fill:none; stroke-width:6" />
+<circle cx="476" cy="233" r="4" fill="red" />
+<circle cx="33" cy="211" r="4" fill="red" />
+<circle cx="138" cy="351" r="4" fill="red" />
+<circle cx="124" cy="316" r="4" fill="red" />
+<circle cx="503" cy="360" r="4" fill="red" />
+<circle cx="362" cy="309" r="4" fill="red" />
+<circle cx="271" cy="223" r="4" fill="red" />
+<circle cx="546" cy="214" r="4" fill="red" />
+<circle cx="461" cy="324" r="4" fill="red" />
+<circle cx="197" cy="239" r="4" fill="red" />
+<circle cx="278" cy="227" r="4" fill="red" />
+<circle cx="394" cy="360" r="4" fill="red" />
+<circle cx="269" cy="349" r="4" fill="red" />
+<circle cx="222" cy="239" r="4" fill="red" />
+<circle cx="60" cy="219" r="4" fill="red" />
+<circle cx="280" cy="337" r="4" fill="red" />
+<circle cx="71" cy="252" r="4" fill="red" />
+<circle cx="545" cy="294" r="4" fill="red" />
+<circle cx="350" cy="351" r="4" fill="red" />
+<circle cx="558" cy="306" r="4" fill="red" />
+<circle cx="320" cy="231" r="4" fill="red" />
+<circle cx="111" cy="305" r="4" fill="red" />
+<circle cx="395" cy="279" r="4" fill="red" />
+<circle cx="378" cy="250" r="4" fill="red" />
+<circle cx="219" cy="292" r="4" fill="red" />
+<circle cx="312" cy="301" r="4" fill="red" />
+<circle cx="68" cy="223" r="4" fill="red" />
+<circle cx="260" cy="211" r="4" fill="red" />
+<circle cx="467" cy="210" r="4" fill="red" />
+<circle cx="120" cy="221" r="4" fill="red" />
+<circle cx="311" cy="231" r="4" fill="red" />
+<circle cx="344" cy="230" r="4" fill="red" />
+<circle cx="368" cy="315" r="4" fill="red" />
+<circle cx="373" cy="302" r="4" fill="red" />
+<circle cx="443" cy="299" r="4" fill="red" />
+<circle cx="248" cy="243" r="4" fill="red" />
+<circle cx="507" cy="255" r="4" fill="red" />
+<circle cx="282" cy="299" r="4" fill="red" />
+<circle cx="130" cy="223" r="4" fill="red" />
+<circle cx="360" cy="342" r="4" fill="red" />
+<circle cx="454" cy="255" r="4" fill="red" />
+<circle cx="300" cy="299" r="4" fill="red" />
+<circle cx="539" cy="223" r="4" fill="red" />
+<circle cx="537" cy="342" r="4" fill="red" />
+<circle cx="51" cy="279" r="4" fill="red" />
+<circle cx="103" cy="225" r="4" fill="red" />
+<circle cx="386" cy="247" r="4" fill="red" />
+
+</svg> 

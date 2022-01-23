@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Licenciado en Química y Maestro en Docencia para la Educación Media Superior
+role: ✍️ Blog
 
 # Organizations/Affiliations
 #organizations:

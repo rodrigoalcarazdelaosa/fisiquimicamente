@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Llicenciada en Física i Professora de Física i Química
+role: 📚 Apunts
 
 # Organizations/Affiliations
 organizations:

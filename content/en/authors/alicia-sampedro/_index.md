@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Degree in Physics and Physics and Chemistry Teacher
+role: 📚 Notes
 
 # Organizations/Affiliations
 organizations:

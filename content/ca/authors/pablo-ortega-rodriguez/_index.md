@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Llicenciat en Química i Professor de Física i Química
+role: 🧩 Jocs educatius
 
 # Organizations/Affiliations
 organizations:

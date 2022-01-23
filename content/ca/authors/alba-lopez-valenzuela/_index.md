@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduada en Química i Professora de Física i Química
+role: 📚 Apunts
 
 # Organizations/Affiliations
 #organizations:
@@ -35,7 +35,7 @@ interests:
 
 education:
   courses:
-  - course: Graduada en Química
+  - course: Grau en Química
     institution: Universitat d'Extremadura
     year: 2021  
 

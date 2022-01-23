@@ -15,7 +15,7 @@ superuser: false
 highlight_name: false
 
 # Role/position
-role: Radiofísica Hospitalària i Supervisora d'Instal·lacions Radioactives
+role: ☢️ Radiofísica · 📝 Oposicions
 
 # Organizations/Affiliations
 organizations:

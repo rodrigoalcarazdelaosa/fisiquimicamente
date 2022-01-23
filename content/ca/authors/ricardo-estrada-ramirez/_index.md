@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Llicenciat en Química i Mestre en Docència per a l'Educació Mitja Superior
+role: ✍️ Blog
 
 # Organizations/Affiliations
 #organizations:

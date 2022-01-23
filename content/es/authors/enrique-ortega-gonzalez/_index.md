@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Licenciado en Química y Profesor de Física y Química
+role: 🎓 EBAU · 📝 Oposiciones
 
 # Organizations/Affiliations
 organizations:

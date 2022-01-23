@@ -14,7 +14,7 @@ superuser: true
 highlight_name: false
 
 # Role/position
-role: Doctor en Física i Professor de Física i Química
+role: ⚛️ · 👐 · 🔗 · ✍️
 
 # Organizations/Affiliations
 organizations:

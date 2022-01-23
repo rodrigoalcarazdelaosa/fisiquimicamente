@@ -14,7 +14,7 @@ superuser: true
 highlight_name: false
 
 # Role/position
-role: PhD in Physics and Physics and Chemistry Teacher
+role: 📚 · 👐 · 🔗 · ✍️
 
 # Organizations/Affiliations
 organizations:
