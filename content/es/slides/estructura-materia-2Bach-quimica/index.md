@@ -440,6 +440,14 @@ Es la teoría que **describe tres de las cuatro interacciones fundamentales** de
 {{< figure library="true" src="estructura-materia-2Bach-quimica/modelo-estandar.svg" lightbox="false" width="80%" >}}
 
 ---
+
+Descubre una interesante curiosidad sobre los [**muones**](https://es.wikipedia.org/wiki/Muon) en este magnífico hilo de [**BTeseracto**](https://twitter.com/bteseracto):
+
+<div align="center">
+{{< tweet user="BTeseracto" id="1486036181422903300" >}}
+</div>
+
+---
 	
 ### Evolución del Universo
 
