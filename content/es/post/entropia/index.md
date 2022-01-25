@@ -10,6 +10,7 @@ authors:
 tags:
 - blog
 - termodinámica
+- termoquímica
 - entropía
 categories:
 - Física
