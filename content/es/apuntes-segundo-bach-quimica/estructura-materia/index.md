@@ -341,6 +341,12 @@ Tras los descubrimientos de **Thomson**, **Rutherford** y **Chadwick** a princip
 Es la teoría que **describe tres de las cuatro interacciones fundamentales** de la naturaleza conocidas (electromagnética, nuclear fuerte y nuclear débil), además de **clasificar** todas las **partículas elementales** conocidas.
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/modelo-estandar.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg." lightbox="false" width="100%" >}}
+
+Descubre una interesante curiosidad sobre los [**muones**](https://es.wikipedia.org/wiki/Muon) en este magnífico hilo de [**BTeseracto**](https://twitter.com/bteseracto):
+
+<div align="center">
+{{< tweet user="BTeseracto" id="1486036181422903300" >}}
+</div>
 	
 ### Evolución del Universo
 
