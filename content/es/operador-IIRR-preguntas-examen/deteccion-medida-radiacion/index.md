@@ -89,7 +89,7 @@ En un detector de radiación, dos eventos detectados deben estar separados un ti
 1. [ ] Tiempo total 
 1. [ ] Tiempo eventual
 1. [ ] Respuesta del detector
-1. [x] Tiempo de resolución
+1. [x] Tiempo muerto
 
 
 ### Rendimiento 
