@@ -67,7 +67,11 @@ subtitle = "🧲 Física"
 	
   [[content.filter_button]]
     name = "2020"
-    tag = "2020"											
+    tag = "2020"
+
+  [[content.filter_button]]
+    name = "2021"
+    tag = "2021"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
