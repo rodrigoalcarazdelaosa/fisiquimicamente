@@ -115,7 +115,7 @@ Definimos la **vida media** o **periodo de semireacción**, $t_{1/2}$, como el t
 
 ### Naturaleza de los reactivos
 
-La **naturaleza** y la **fuerza** de los **enlaces** en las moléculas **reactivas** influyen en gran medida en la velocidad de su transformación en productos. Las sustancias iónicas suelen reaccionar más rápidamente que las convalentes a temperatura ambiente.
+La **naturaleza** y la **fuerza** de los **enlaces** en las moléculas **reactivas** influyen en gran medida en la velocidad de su transformación en productos. Las sustancias iónicas suelen reaccionar más rápidamente que las covalentes a temperatura ambiente.
 
 ### Estado de agregación y grado de división de los reactivos
 

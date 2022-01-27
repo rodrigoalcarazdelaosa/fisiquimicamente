@@ -200,7 +200,7 @@ La **naturaleza** y la **fuerza** de los **enlaces** en las moléculas **reactiv
 
 ---
 
-Las sustancias iónicas suelen reaccionar más rápidamente que las convalentes a temperatura ambiente.
+Las sustancias iónicas suelen reaccionar más rápidamente que las covalentes a temperatura ambiente.
 
 ---
 
