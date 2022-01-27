@@ -44,7 +44,7 @@ slides: cinetica-quimica-2Bach-quimica
 
 La **cinética química** es la **rama** de la **química física** que se ocupa de **comprender** las **velocidades**[^1] de las **reacciones químicas**.
 
-[^1]: Como bien apunta Ricardo M. A. Estrada Ramírez, [sería más conveniente hablar de **rapidez de reacción**](https://twitter.com/ricestrada/status/1355607804497842182?s=20).
+[^1]: Como bien apunta {{% mention "ricardo-estrada-ramirez" %}}, [sería más conveniente hablar de **rapidez de reacción**](https://twitter.com/ricestrada/status/1355607804497842182).
 
 ## Teorías de reacciones químicas
 
@@ -87,7 +87,7 @@ $$
 v = - \frac{1}{a} \frac{\mathrm d [\mathrm A]}{\mathrm d t} = - \frac{1}{b} \frac{\mathrm d [\mathrm B]}{\mathrm d t} = \frac{1}{c} \frac{\mathrm d [\mathrm C]}{\mathrm d t} = \frac{1}{d} \frac{\mathrm d [\mathrm D]}{\mathrm d t},
 $$
 
-donde [ ] representa **concentración**, medida en mol/L. En general, la velocidad de una reacción química varía con el tiempo y se determina experimentalmente, midiendo la concentración a intervalos de tiempo conocidos. Notar que la velocidad referida a los reactivos (A y B) presenta un signo menos ($-$), ya que la concentración de éstos disminuye con el tiempo y por tanto su variación es negativa.
+donde [ ] representa **concentración**, medida en mol/L. En general, la velocidad de una reacción química disminuye con el tiempo y se determina experimentalmente, midiendo la concentración a intervalos de tiempo conocidos. Notar que la velocidad referida a los reactivos (A y B) presenta un signo menos (–), para transformar la variación (negativa) de la concentración de éstos en una velocidad positiva.
 
 ## Ecuaciones cinéticas
 

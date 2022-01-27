@@ -128,11 +128,11 @@ donde [ ] representa **concentración**, medida en mol/L.
 
 ---
 
-En general, la velocidad de una reacción química varía con el tiempo y se determina experimentalmente, midiendo la concentración a intervalos de tiempo conocidos.
+En general, la velocidad de una reacción química disminuye con el tiempo y se determina experimentalmente, midiendo la concentración a intervalos de tiempo conocidos.
 
 ---
 
-Notar que la velocidad referida a los reactivos (A y B) presenta un signo menos ($-$), ya que la concentración de éstos disminuye con el tiempo y por tanto su variación es negativa.
+Notar que la velocidad referida a los reactivos (A y B) presenta un signo menos (–), para transformar la variación (negativa) de la concentración de éstos en una velocidad positiva.
 
 {{% /section %}}
 
