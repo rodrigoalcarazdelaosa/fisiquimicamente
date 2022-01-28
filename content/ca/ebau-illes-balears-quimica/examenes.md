@@ -32,6 +32,10 @@ subtitle = "⚗️ Química"
   [[content.filter_button]]
     name = "2017"
     tag = "2017"
+
+  [[content.filter_button]]
+    name = "2018"
+    tag = "2018"    
 	
   [[content.filter_button]]
     name = "2019"
