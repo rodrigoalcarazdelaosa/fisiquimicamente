@@ -19,7 +19,31 @@ subtitle = "⚗️ Química"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0  											
+  filter_default = 0
+	
+  [[content.filter_button]]
+    name = "2015"
+    tag = "2015"
+	
+  [[content.filter_button]]
+    name = "2016"
+    tag = "2016"
+	
+  [[content.filter_button]]
+    name = "2017"
+    tag = "2017"
+	
+  [[content.filter_button]]
+    name = "2019"
+    tag = "2019"		
+	
+  [[content.filter_button]]
+    name = "2020"
+    tag = "2020"
+
+  [[content.filter_button]]
+    name = "2021"
+    tag = "2021"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -65,7 +89,3 @@ subtitle = "⚗️ Química"
  # CSS class.
  css_class = ""
 +++
-
-{{% callout soon %}}
-Properament...
-{{% /callout %}}
