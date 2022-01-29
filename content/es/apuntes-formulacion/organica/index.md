@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/organica
 subtitle: Recomendaciones y nombres preferidos de la IUPAC de 2013
 summary: "Recomendaciones y nombres preferidos de la IUPAC de 2013."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","formulacion-nomenclatura-quimica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - apuntes
 - formulación
@@ -30,6 +33,10 @@ links:
   icon: external-link-alt
   name: Guía IUPAC
   url: https://iupac.org/wp-content/uploads/2021/12/Guia-breu_CAT_7es_2_20211215.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios hidrocarburos 4.º ESO
+  url: hidrocarburos-ejercicios.pdf
 
 slides: formulacion-nomenclatura-quimica-organica
 ---
