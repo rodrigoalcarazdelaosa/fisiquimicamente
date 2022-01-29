@@ -365,7 +365,11 @@ La **diferencia** de **masa** entre los reactivos y los productos se manifiesta 
 
 ---
 
-{{< figure library="true" src="energia-2ESO-3ESO/fusion.svg" title="Proceso de **fusión** entre un núcleo de deuterio ($^2\mathrm H$) y uno de tritio ($^3\mathrm H$), dando lugar a un núcleo de helio ($^4\mathrm{He}$), un neutrón y unos 17.6$\thinspace$MeV de energía." lightbox="false" width="40%" >}}
+{{< figure library="true" src="energia-2ESO-3ESO/fusion.svg" title="Proceso de **fusión** entre un núcleo de deuterio (<sup>2</sup>H) y uno de tritio (<sup>3</sup>H), dando lugar a un núcleo de helio (<sup>4</sup>He), un neutrón y unos 17.6&thinsp;MeV de energía." lightbox="false" width="40%" >}}
+
+---
+
+Te recomendamos echar un vistazo a [esta excelente entrada del **blog**]({{< ref "/post/fusion-nuclear" >}}) para aprender más sobre **fusión nuclear**.
 
 ---
 

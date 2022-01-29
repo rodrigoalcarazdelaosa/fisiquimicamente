@@ -173,7 +173,7 @@ El **hierro** (Fe) es **abundante** y **barato**, lo que en parte explica que se
 
 #### Cobre (Cu)
 {{% callout note %}}
-Te recomiendo leer [esta excelente entrada del **blog**]({{< ref "/post/pureza-quimica-cobre/index.md" >}}) para aprender mucho más sobre el **cobre**.
+Te recomendamos leer [esta excelente entrada del **blog**]({{< ref "/post/pureza-quimica-cobre/index.md" >}}) para aprender mucho más sobre el **cobre**.
 {{% /callout %}}
 El **cobre** (Cu) fue uno de los primeros metales utilizados por nuestros antepasados, quienes ya crearon las primeras **monedas** a partir de él, algo que se sigue haciendo hoy en día en [Estados Unidos](https://es.wikipedia.org/wiki/D%C3%B3lar_estadounidense#Tasa_de_cambio_y_cotizaci%C3%B3n).
 
