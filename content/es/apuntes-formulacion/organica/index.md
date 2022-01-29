@@ -36,7 +36,7 @@ links:
 - icon_pack: fas
   icon: pencil-ruler
   name: Ejercicios hidrocarburos 4.º ESO
-  url: hidrocarburos-ejercicios.pdf
+  url: hidrocarburos-4eso-ejercicios.pdf
 
 slides: formulacion-nomenclatura-quimica-organica
 ---
