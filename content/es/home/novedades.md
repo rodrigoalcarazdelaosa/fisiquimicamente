@@ -59,8 +59,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Formula con Marvin
-    cta_url: '/recursos-fisica-quimica/juegos-educativos/formulacion-nomenclatura-quimica/organica/formula-con-marvin/'
+    cta_label: Trivial ESO
+    cta_url: '/recursos-fisica-quimica/juegos-educativos/4eso/trivial-eso/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades

@@ -12,7 +12,7 @@ cta:
   icon: compass
 cta_alt:
   label: Último juego educativo ➡️
-  url: "/recursos-fisica-quimica/juegos-educativos/formulacion-nomenclatura-quimica/organica/formula-con-marvin"
+  url: "/recursos-fisica-quimica/juegos-educativos/4eso/trivial-eso"
 cta_note:
   label:
 design:

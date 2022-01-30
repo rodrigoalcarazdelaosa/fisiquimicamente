@@ -2,7 +2,7 @@
 title: Formula con Marvin
 url: "/recursos-fisica-quimica/juegos-educativos/formulacion-nomenclatura-quimica/organica/formula-con-marvin"
 subtitle: Aprende a nombrar y formular los compuestos orgánicos básicos
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Aprende a nombrar y formular los compuestos orgánicos básicos."
+summary: "Aprende a nombrar y formular los compuestos orgánicos básicos."
 breadcrumbs: ["recursos-fisica-quimica","juegos-educativos-formulacion-nomenclatura-quimica-organica"]
 authors:
 - pablo-ortega-rodriguez
