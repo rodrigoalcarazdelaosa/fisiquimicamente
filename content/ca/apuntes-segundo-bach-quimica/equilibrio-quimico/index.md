@@ -2,7 +2,7 @@
 title: Equilibri químic
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/equilibri-quimic"
 subtitle: Llei d'acció de masses, constant d'equilibri, principi de Le Chatelier i equilibris heterogenis
-summary: "Llei d'acció de masses. Constant d'equilibri. Principi de Le Chatelier. Equilibris heterogenis."
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVETAT</code> <br> Llei d'acció de masses. Constant d'equilibri. Principi de Le Chatelier. Equilibris heterogenis."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
@@ -40,7 +40,7 @@ Al 1803, [Berthollet](https://es.wikipedia.org/wiki/Claude_Louis_Berthollet) des
 {{< figure src="equilibrio-quimico-2Bach-quimica/equilibrio-cat.svg" title="Traduïda i adaptada de https://www.coursehero.com/sg/general-chemistry/reversible-reactions-and-equilibrium/." lightbox="false" width="100%" >}}
 
 ## Llei d'acció de masses
-També coneguda com a **llei de *Guldberg i *Waage**, estableix que la velocitat d'una reacció és directament proporcional al producte de les concentracions dels reactius. Com en l'equilibri les velocitats de les reaccions directa i inversa són iguals, això implica que existeix una relació constant entre concentracions de reactius i productes.
+També coneguda com a **llei de Guldberg i Waage**, estableix que la velocitat d'una reacció és directament proporcional al producte de les concentracions dels reactius. Com en l'equilibri les velocitats de les reaccions directa i inversa són iguals, això implica que existeix una relació constant entre concentracions de reactius i productes.
 
 ## Constant d'equilibri
 Com en l'equilibri les concentracions de reactius i productes es mantenen constants, podem calcular una constant d'equilibri $K_\mathrm c$, que serà invariable a una certa $T$.
@@ -72,7 +72,7 @@ $$
 $$
 Q_\mathrm r = \frac{[\mathrm C]^c[\mathrm D]^d}{[\mathrm A]^a[\mathrm B]^b}
 $$
-on les concentracions no tenen per què ser en l'equilibri, a diferència d'amb $K_\mathrm c$.
+on les concentracions no tenen per què estar en l'equilibri, a diferència d'amb $K_\mathrm c$.
 
 - $Q_\mathrm r < K_\mathrm c$: haurà d'augmentar la concentració de productes (desplaçar-se cap a la dreta).
 - $Q_\mathrm r = K_\mathrm c$: el sistema està en equilibri.
@@ -100,7 +100,7 @@ $$
 K_\mathrm p = \frac{(p_\mathrm C)^c(p_\mathrm D)^d}{(p_\mathrm A)^a(p_\mathrm B)^b}
 $$
 
-Utilitzant la **equació dels gasos ideals**, es pot demostrar que $K_\mathrm p$ està relacionada amb $K_\mathrm c$ a través de l'expressió:
+Utilitzant l'**equació dels gasos ideals**, es pot demostrar que $K_\mathrm p$ està relacionada amb $K_\mathrm c$ a través de l'expressió:
 $$
 K_\mathrm p = K_\mathrm c\left(RT\right)^{\Delta n},
 $$
@@ -112,7 +112,7 @@ on $\Delta n = n_\text{final} - n_\text{inicial}$ és la <strong>variació</stro
 
 ### Principi de Le Châtelier
 
-> Quan un sistema en equilibri és pertorbat, aquest evoluciona a un nou equilibri, contrarestant parcialment la pertorbació introduïda.
+> Quan un sistema en equilibri és pertorbat, aquest evoluciona a un nou equilibri, contrarrestant parcialment la pertorbació introduïda.
 
 ### Concentració
 
@@ -132,19 +132,19 @@ Reacció endotèrmica
 
 ### Pressió o volum
 
-D'acord amb la **llei de Boyle-*Mariotte**, la pressió i el volum són inversament proporcionals: a major pressió menor volum i viceversa $\rightarrow pV = \text{constante}$.
+D'acord amb la **llei de Boyle-Mariotte**, la pressió i el volum són inversament proporcionals: a major pressió menor volum i viceversa $\rightarrow pV = \text{constant}$.
 
 En augmentar la pressió (disminuir el volum)
-: El sistema es desplaçarà de manera que la pressió disminueixi, és a dir, cap a on hi hagi menys moles de gas.
+: El sistema es desplaçarà de manera que la pressió disminueixi, és a dir, cap a on hi hagi menys mols de gas.
 
 En disminuir la pressió (augmentar el volum)
-: El sistema es desplaçarà de manera que la pressió augmenti, és a dir, cap a on hi hagi més moles de gas.
+: El sistema es desplaçarà de manera que la pressió augmenti, és a dir, cap a on hi hagi més mols de gas.
 
 {{< figure src="equilibrio-quimico-2Bach-quimica/le-chatelier-cat.svg" lightbox="false" width="100%" >}}
 
 ## Obtenció industrial de l'amoníac
 
-El **amoníac**, NH<sub>3</sub>, es produeix industrialment a partir de nitrogen i hidrogen gasosos mitjançant el **procés d'Haber-Bosch**, un procés de fixació artificial de nitrogen.
+L'**amoníac**, NH<sub>3</sub>, es produeix industrialment a partir de nitrogen i hidrogen gasosos mitjançant el **procés d'Haber-Bosch**, un procés de fixació artificial de nitrogen.
 
 {{< figure src="equilibrio-quimico-2Bach-quimica/Haber-Bosch-cat.svg" title="Diagrama del **procés d'Haber-Bosch**. Adaptada de https://commons.wikimedia.org/wiki/File:Haber-Bosch-es.svg." lightbox="false" width="100%" >}}
 
@@ -170,11 +170,11 @@ La reacció natural és molt lenta degut sobretot a l'estabilitat dels enllaços
 
 #### Temperatura
 
-En ser exotèrmica, segons el principi de Le Châtelier, les baixes temperatures afavoreixen la formació d'amoníac, però al seu torn alenteixen la reacció, per la qual cosa s'arriba a un compromís utilitzant temperatures d'entre 400 &deg;C i 450 &deg;C.
+En ser exotèrmica, segons el principi de Le Châtelier, les baixes temperatures afavoreixen la formació d'amoníac, però al mateix temps alenteixen la reacció, per la qual cosa s'arriba a un compromís utilitzant temperatures d'entre 400 &deg;C i 450 &deg;C.
 
 #### Pressió
 
-En haver-hi menys mols gasosos en els productes (2, davant de 4 en els reactius), d'acord al principi de Le Châtelier, un augment de pressió desplaçarà l'equilibri cap als productes, afavorint la producció d'amoníac. D'altra banda, utilitzar altes pressions té un cost molt elevat, per la qual cosa torna a arribar a un compromís, en aquest cas d'unes 200 atm.
+En haver-hi menys mols gasosos en els productes (2, davant de 4 en els reactius), d'acord al principi de Le Châtelier, un augment de pressió desplaçarà l'equilibri cap als productes, afavorint la producció d'amoníac. D'altra banda, utilitzar altes pressions té un cost molt elevat, per la qual cosa es torna a arribar a un compromís, en aquest cas d'unes 200 atm.
 
 | Canvi | [N<sub>2</sub>] | [H<sub>2</sub>] | [NH<sub>3</sub>] |
 | :--- | :---: | :---: | :---: |
@@ -240,7 +240,7 @@ L'**efecte de l'ió comú** és una conseqüència del principi de Le Châtelier
 
 #### Sòlids en aigua
 
-La **solubilitat** de moltes sals (sòlides) dissoltes en aigua **augmenta** amb la temperatura. Algunes, com el Ce<sub>2</sub>(SOTA<sub>4</sub>)<sub>3</sub>, es tornen menys solubles en augmentar la temperatura, pel fet que la seva dissolució en aigua és exotèrmica.
+La **solubilitat** de moltes sals (sòlides) dissoltes en aigua **augmenta** amb la temperatura. Algunes, com el Ce<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>, es tornen menys solubles en augmentar la temperatura, pel fet que la seva dissolució en aigua és exotèrmica.
 
 #### Gasos en aigua
 
@@ -262,7 +262,7 @@ La **solubilitat** sol **augmentar** amb la temperatura.
 
 ---
 
-a) Escrivim l'**equilibri** de dissociació ajustat en funció del nombre de moles inicials i del grau de dissociació $\alpha$:
+a) Escrivim l'**equilibri** de dissociació ajustat en funció del nombre de mols inicials i del grau de dissociació $\alpha$:
 
 {{< figure src="equilibrio-quimico-2Bach-quimica/equilibrio-SO3-cat.svg" lightbox="false" width="100%" >}}
 
@@ -283,13 +283,13 @@ p_{\mathrm{SO_2}} &= 0.06\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{at
 p_{\mathrm{O_2}} &= 0.03\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{atm\thinspace L\thinspace mol^{-1}\thinspace K^{-1}}\cdot 400.15\thinspace \mathrm{K} = 1\thinspace\mathrm{atm}
 \end{align*}
 
-D'acord amb la **llei de les pressions parcials de *Dalton**, la **pressió total** és:
+D'acord amb la **llei de les pressions parcials de Dalton**, la **pressió total** és:
 
 $$
 p_\mathrm t = p_{\mathrm{SO_3}} + p_{\mathrm{SO_2}} + p_{\mathrm{O_2}} = 4.6 + 2.0 + 1.0 = 7.6\thinspace\mathrm{atm}
 $$
 
-c) L'expressió de la constant $K_\mathrm c$ es:
+c) L'expressió de la constant $K_\mathrm c$ és:
 
 $$
 K_\mathrm c  = \frac{\mathrm{[SO_2]^2}\mathrm{[O_2]}}{\mathrm{[SO_3]^2}}
@@ -313,8 +313,8 @@ $$
 K_\mathrm p = \frac{(2.0)^2\cdot 1.0}{(4.6)^2} = 0.19,
 $$
 
-complint-se que $K_\mathrm p = K_\mathrm c\left(RT\right)^{\Delta n_\text{gaseosos}}$.
+complint-se que $K_\mathrm p = K_\mathrm c\left(RT\right)^{\Delta n_\text{gasosos}}$.
 
-d) D'acord amb la llei de Boyle-Mariotte, en reduir el volum fins a un terç del seu valor inicial, la pressió es triplica. D'acord amb el principi de *Le *Châtelier, el sistema es desplaçarà cap a on hi hagi menys mols gasosos, és a dir, cap a l'esquerra, formant més SO<sub>3</sub> i afavorint, per tant, la seva dissociació.
+d) D'acord amb la llei de Boyle-Mariotte, en reduir el volum fins a un terç del seu valor inicial, la pressió es triplica. D'acord amb el principi de Le Châtelier, el sistema es desplaçarà cap a on hi hagi menys mols gasosos, és a dir, cap a l'esquerra, formant més SO<sub>3</sub> i afavorint, per tant, la seva dissociació.
 
 {{% /callout %}}

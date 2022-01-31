@@ -42,7 +42,7 @@ Al 1803, [Berthollet](https://es.wikipedia.org/wiki/Claude_Louis_Berthollet) esc
 
 ## Llei d'acció de masses
 
-També coneguda com a **llei de *Guldberg i *Waage**, estableix que la velocitat d'una reacció és directament proporcional al producte de les concentracions dels reactius. 
+També coneguda com a **llei de Guldberg i Waage**, estableix que la velocitat d'una reacció és directament proporcional al producte de les concentracions dels reactius. 
 
 (continua cap avall)
 
@@ -120,7 +120,7 @@ $$
 $$
 Q_\mathrm r = \frac{[\mathrm C]^c[\mathrm D]^d}{[\mathrm A]^a[\mathrm B]^b}
 $$
-on les concentracions no tenen per què ser en l'equilibri, a diferència d'amb $K_\mathrm c$.
+on les concentracions no tenen per què estar en l'equilibri, a diferència d'amb $K_\mathrm c$.
 
 ---
 
@@ -180,7 +180,7 @@ $$
 
 ---
 
-Utilitzant la **equació dels gasos ideals**, es pot demostrar que $K_\mathrm p$ està relacionada amb $K_\mathrm c$ a través de l'expressió:
+Utilitzant l'**equació dels gasos ideals**, es pot demostrar que $K_\mathrm p$ està relacionada amb $K_\mathrm c$ a través de l'expressió:
 $$
 K_\mathrm p = K_\mathrm c\left(RT\right)^{\Delta n},
 $$
@@ -211,7 +211,7 @@ on $\Delta n = n_\text{final} - n_\text{inicial}$ és la <strong>variació</stro
 
 ### Principi de Le Châtelier
 
-> Quan un sistema en equilibri és pertorbat, aquest evoluciona a un nou equilibri, contrarestant parcialment la pertorbació introduïda.
+> Quan un sistema en equilibri és pertorbat, aquest evoluciona a un nou equilibri, contrarrestant parcialment la pertorbació introduïda.
 
 ---
 
@@ -237,15 +237,15 @@ Reacció endotèrmica
 
 ### Pressió o volum
 
-D'acord amb la **llei de Boyle-*Mariotte**, la pressió i el volum són inversament proporcionals: a major pressió menor volum i viceversa $\rightarrow pV = \text{constante}$.
+D'acord amb la **llei de Boyle-Mariotte**, la pressió i el volum són inversament proporcionals: a major pressió menor volum i viceversa $\rightarrow pV = \text{constant}$.
 
 ---
 
 En augmentar la pressió (disminuir el volum)
-: El sistema es desplaçarà de manera que la pressió disminueixi, és a dir, cap a on hi hagi menys moles de gas.
+: El sistema es desplaçarà de manera que la pressió disminueixi, és a dir, cap a on hi hagi menys mols de gas.
 
 En disminuir la pressió (augmentar el volum)
-: El sistema es desplaçarà de manera que la pressió augmenti, és a dir, cap a on hi hagi més moles de gas.
+: El sistema es desplaçarà de manera que la pressió augmenti, és a dir, cap a on hi hagi més mols de gas.
 
 ---
 
@@ -259,7 +259,7 @@ En disminuir la pressió (augmentar el volum)
 
 ## Obtenció industrial de l'amoníac
 
-El **amoníac**, NH<sub>3</sub>, es produeix industrialment a partir de nitrogen i hidrogen gasosos mitjançant el **procés d'Haber-Bosch**, un procés de fixació artificial de nitrogen.
+L'**amoníac**, NH<sub>3</sub>, es produeix industrialment a partir de nitrogen i hidrogen gasosos mitjançant el **procés d'Haber-Bosch**, un procés de fixació artificial de nitrogen.
 
 (continua cap avall)
 
@@ -287,7 +287,7 @@ $$
 K_\mathrm p = \frac{(p_{\mathrm{NH_3}})^2}{p_{\mathrm{N_2}}(p_{\mathrm{H_2}})^3}
 $$
 
-on $p$ rrepresenta la **pressió parcial** de cadascuna de les substàncies.
+on $p$ representa la **pressió parcial** de cadascuna de les substàncies.
 
 ---
 
@@ -303,7 +303,7 @@ Notar que l'addició d'aquest catalitzador no afecta a l'equilibri ni a la quant
 
 #### Temperatura
 
-En ser exotèrmica, segons el principi de *Le *Châtelier, les baixes temperatures afavoreixen la formació d'amoníac, però al seu torn alenteixen la reacció, per la qual cosa s'arriba a un compromís utilitzant temperatures d'entre 400 &deg;C i 450 &deg;C.
+En ser exotèrmica, segons el principi de Le Châtelier, les baixes temperatures afavoreixen la formació d'amoníac, però al mateix temps alenteixen la reacció, per la qual cosa s'arriba a un compromís utilitzant temperatures d'entre 400 &deg;C i 450 &deg;C.
 
 ---
 
@@ -313,7 +313,7 @@ En haver-hi menys mols gasosos en els productes (2, davant de 4 en els reactius)
 
 ---
 
-D'altra banda, utilitzar altes pressions té un cost molt elevat, per la qual cosa torna a arribar a un compromís, en aquest cas d'unes 200 atm.
+D'altra banda, utilitzar altes pressions té un cost molt elevat, per la qual cosa es torna a arribar a un compromís, en aquest cas d'unes 200 atm.
 
 ---
 
@@ -424,7 +424,7 @@ L'**efecte de l'ió comú** és una conseqüència del principi de Le Châtelier
 
 ### Solubilitat i temperatura
 
-- [Sòlidos en aigua](#/10/13)
+- [Sòlids en aigua](#/10/13)
 - [Gasos en aigua](#/10/14)
 - [Gasos en dissolvents orgànics](#/10/15)
 
@@ -436,7 +436,7 @@ L'**efecte de l'ió comú** és una conseqüència del principi de Le Châtelier
 
 #### Sòlids en aigua
 
-La **solubilitat** de moltes sals (sòlides) dissoltes en aigua **augmenta** amb la temperatura. Algunes, com el Ce<sub>2</sub>(SOTA<sub>4</sub>)<sub>3</sub>, es tornen menys solubles en augmentar la temperatura, pel fet que la seva dissolució en aigua és exotèrmica.
+La **solubilitat** de moltes sals (sòlides) dissoltes en aigua **augmenta** amb la temperatura. Algunes, com el Ce<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>, es tornen menys solubles en augmentar la temperatura, pel fet que la seva dissolució en aigua és exotèrmica.
 
 ---
 
@@ -464,7 +464,7 @@ La **solubilitat** sol **augmentar** amb la temperatura.
 
 <q>a) Calculi les concentracions molars de cada gas en l'equilibri</q>
 
-Escrivim l'**equilibri** de dissociació ajustat en funció del nombre de moles inicials i del grau de dissociació $\alpha$:
+Escrivim l'**equilibri** de dissociació ajustat en funció del nombre de mols inicials i del grau de dissociació $\alpha$:
 
 ---
 
@@ -486,7 +486,7 @@ Calculem les concentracions de cada gas:
 
 <q>b) Calculi la pressió total i parcial de cada gas.</q>
 
-A partir de la **ecuación de los gases ideales**, $p = cRT$:
+A partir de l'**equació dels gasos ideals**, $p = cRT$:
 \begin{align*}
 p_{\mathrm{SO_3}} &= 0.14\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{atm\thinspace L\thinspace mol^{-1}\thinspace K^{-1}}\cdot 400.15\thinspace \mathrm{K} \\\\
 &= 4.6\thinspace\mathrm{atm} \\\\
@@ -498,7 +498,7 @@ p_{\mathrm{O_2}} &= 0.03\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{atm
 
 ---
 
-D'acord amb la **llei de les pressions parcials de *Dalton**, la **pressió total** és:
+D'acord amb la **llei de les pressions parcials de Dalton**, la **pressió total** és:
 
 $$
 p_\mathrm t = p_{\mathrm{SO_3}} + p_{\mathrm{SO_2}} + p_{\mathrm{O_2}} = 4.6 + 2.0 + 1.0 = 7.6\thinspace\mathrm{atm}
@@ -508,7 +508,7 @@ $$
 
 <q>c) Calculi el valor de les constants $K_\mathrm c$ i $K_\mathrm p$ a 127 &deg;C.</q>
 
-L'expressió de la constant $K_\mathrm c$ es:
+L'expressió de la constant $K_\mathrm c$ és:
 
 $$
 K_\mathrm c  = \frac{\mathrm{[SO_2]^2}\mathrm{[O_2]}}{\mathrm{[SO_3]^2}}
@@ -538,7 +538,7 @@ $$
 K_\mathrm p = \frac{(2.0)^2\cdot 1.0}{(4.6)^2} = 0.19,
 $$
 
-complint-se que $K_\mathrm p = K_\mathrm c\left(RT\right)^{\Delta n_\text{gaseosos}}$.
+complint-se que $K_\mathrm p = K_\mathrm c\left(RT\right)^{\Delta n_\text{gasosos}}$.
 
 ---
 
