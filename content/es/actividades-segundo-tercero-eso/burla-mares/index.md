@@ -8,6 +8,7 @@ authors:
 - miguel-quiroga
 tags:
 - actividades
+- piratas
 - 2º ESO
 - movimiento
 categories:

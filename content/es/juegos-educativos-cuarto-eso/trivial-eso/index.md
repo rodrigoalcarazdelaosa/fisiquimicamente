@@ -2,12 +2,13 @@
 title: Trivial ESO
 url: "/recursos-fisica-quimica/juegos-educativos/4eso/trivial-eso"
 subtitle: Con un total de 51 tarjetas y 255 preguntas
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Con un total de 51 tarjetas y 255 preguntas."
+summary: "Con un total de 51 tarjetas y 255 preguntas."
 breadcrumbs: ["recursos-fisica-quimica","juegos-educativos-4eso"]
 authors:
 - pablo-ortega-rodriguez
 tags:
 - ABJ
+- trivial
 - 2º ESO
 - 3º ESO
 - 4º ESO

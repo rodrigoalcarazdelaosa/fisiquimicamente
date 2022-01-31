@@ -31,7 +31,7 @@ subtitle = ""
 [[feature]]
   icon = "juegos-educativos"
   icon_link = "juegos-educativos/"
-  icon_pack = "tgs"
+  icon_pack = "lottie"
   name = "[Juegos educativos](juegos-educativos)"
   description = "[📗 2.º ESO](juegos-educativos/2eso) · [📘 3.º ESO](juegos-educativos/3eso) · [📙 4.º ESO](juegos-educativos/4eso) <br> [📕 1.º Bach](juegos-educativos/1bach) · [📓 2.º Bach](juegos-educativos/2bach) <br> [📔 Formulación y nomenclatura de Química](juegos-educativos/formulacion-nomenclatura-quimica)"
   
