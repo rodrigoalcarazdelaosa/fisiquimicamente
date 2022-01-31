@@ -206,8 +206,7 @@ plugins_js  = ["footnotes"]
 
   [marketing.analytics]
     google_analytics = ""
-    google_tag_manager = ""
-    cloudflare = ""
+    google_tag_manager = ""    
 
 ############################
 ## Content Management System
