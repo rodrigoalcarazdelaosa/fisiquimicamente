@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/4eso/actividad-cientifica"
 subtitle: La investigación científica, magnitudes escalares y vectoriales, análisis dimensional, errores en la medida y  expresión de resultados
 summary: "La investigación científica. Magnitudes escalares y vectoriales. Análisis dimensional. Errores en la medida. Expresión de resultados."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - apuntes
 - 4º ESO
@@ -28,6 +31,10 @@ links:
   icon: file-download
   name: Póster
   url: actividad-cientifica-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Tablas magnitudes y unidades
+  url: tablas-magnitudes-unidades.pdf  
   
 slides: actividad-cientifica-4ESO
 ---
@@ -132,6 +139,12 @@ Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes funda
 
 #### Ejemplos		
 Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
+
+{{% callout note %}}
+
+Descárgate estas [**tablas-resumen**](tablas-magnitudes-unidades.pdf) para ver más ejemplos de **magnitudes** y sus **unidades**.
+
+{{% /callout %}}
 
 ## Análisis dimensional
 El **análisis dimensional** nos permite **relacionar** las **dimensiones** (unidades) de una **magnitud derivada** con las de las **magnitudes fundamentales** en las que se basa.
