@@ -28,15 +28,16 @@ weight: 1
 external_link: ""
 
 image:
-  caption:
-  focal_point: Smart
+  preview_only: true
 
-links:
-- icon_pack: fas
-  icon: external-link-alt
-  name: Genially
-  url: https://view.genial.ly/5cc9479edecf900f57f5a6ea/interactive-content-jumanji-fisica-y-quimica
+# links:
+# - icon_pack: fas
+#   icon: external-link-alt
+#   name: Genially
+#   url: https://view.genial.ly/5cc9479edecf900f57f5a6ea/interactive-content-jumanji-fisica-y-quimica
 ---
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="2133.3333333333335px" height="1200px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5cc9479edecf900f57f5a6ea" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 ## 🎯 Objetivo
 
@@ -49,7 +50,3 @@ Se organizan cuatro equipos y se elige cuál será el que dé comienzo a la part
 ## 🧑‍🏫 Consejos a tener en cuenta
 
 Decirles que den una respuesta única como equipo, por lo que tienen que debatir y consensuarla.
-
-## 📩 Material necesario
-
-En el botón de arriba puedes acceder al [**Genially**](https://view.genial.ly/5cc9479edecf900f57f5a6ea/interactive-content-jumanji-fisica-y-quimica).

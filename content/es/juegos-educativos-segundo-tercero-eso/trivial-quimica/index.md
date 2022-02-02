@@ -23,15 +23,16 @@ weight: 1
 external_link: ""
 
 image:
-  caption: ""
-  focal_point: Smart
+  preview_only: true
 
-links:
-- icon_pack: fas
-  icon: external-link-alt
-  name: Genially
-  url: https://view.genial.ly/6041e87fbfab4f44fdb613d9/presentation-trivial-de-quimica
+# links:
+# - icon_pack: fas
+#   icon: external-link-alt
+#   name: Genially
+#   url: https://view.genial.ly/6041e87fbfab4f44fdb613d9/presentation-trivial-de-quimica
 ---
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/6041e87fbfab4f44fdb613d9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 ## 🎯 Objetivo
 
@@ -44,7 +45,3 @@ Se organizan cinco grupos en clase y se asigna un avatar (un muñequito) a cada 
 ## 🧑‍🏫 Consejos a tener en cuenta
 
 Para que los turnos no se dilaten demasiado, se puede establecer un límite máximo de dos preguntas por turno. Recordadles también que las respuestas deben ser consensuadas.
-
-## 📩 Material necesario
-
-En el botón de arriba puedes acceder al [**Genially**](https://view.genial.ly/6041e87fbfab4f44fdb613d9/presentation-trivial-de-quimica).

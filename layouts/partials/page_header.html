@@ -322,6 +322,37 @@
       {{ else if eq site.Language.Lang "ca" }}
         <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
       {{ end }}
+      {{else if eq . "juegos-educativos-2eso"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/2eso">📗 2.º ESO</a></li>
+      {{else if eq . "juegos-educativos-3eso"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/3eso">📘 3.º ESO</a></li>
+      {{else if eq . "juegos-educativos-2eso-3eso"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/juegos-educativos/3eso">📘 3.º ESO</a></li>
+      {{else if eq . "juegos-educativos-4eso"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/4eso">📙 4.º ESO</a></li>
+      {{else if eq . "juegos-educativos-1bach"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/1bach">📕 1.º Bach</a></li>
+      {{else if eq . "juegos-educativos-2bach-fisica"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/2bach">📓 2.º Bach</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/2bach/fisica">🧲 Física</a></li>
+      {{else if eq . "juegos-educativos-2bach-quimica"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/2bach">📓 2.º Bach</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/2bach/quimica">⚗️ Química</a></li>
+      {{else if eq . "juegos-educativos-formulacion-nomenclatura-quimica-inorganica"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Inorgánica</li>
+      {{else if eq . "juegos-educativos-formulacion-nomenclatura-quimica-organica"}}
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/">🧩 Juegos educativos</a></li>
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos-educativos/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
+      <li class="breadcrumb-item active" aria-current="page">Orgánica</li>      
     {{ else if eq . "ebau-fisica-examenes-completos" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">🧲 Física</a></li>
