@@ -119,6 +119,11 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="**Cristal** de **cloruro de sodio** (sal común, NaCl). <br> 🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl). <br> https://freesvg.org/sodium-chloride-crystal" lightbox="false" width="100%" >}}
 
 ## Elementos y compuestos de especial interés
+
+{{% callout game %}}
+Si quieres **aprender** cuáles son las **características** y principales **aplicaciones** de algunos de los **compuestos orgánicos e inorgánicos** más habituales, te recomendamos [esta estupenda adaptación del **quién es quién**]({{< relref "/juegos-educativos-segundo-tercero-eso/quien-es-quien" >}}).
+{{% /callout %}}
+
 ### Con aplicaciones industriales 🏭
 #### Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)
 El **ácido sulfúrico** es un líquido incoloro, inodoro y viscoso que es soluble en agua y muy peligroso incluso en concentraciones bajas, debido a su carácter altamente **corrosivo**[^1]. Es el **compuesto químico más producido del mundo** y es incluso un **indicador** de la **capacidad industrial** de un **país**. Su principal uso es para crear [**ácido fosfórico**](https://es.wikipedia.org/wiki/%C3%81cido_fosf%C3%B3rico) que a su vez se emplea en **fertilizantes**.

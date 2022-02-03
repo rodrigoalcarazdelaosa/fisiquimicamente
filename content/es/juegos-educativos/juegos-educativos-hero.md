@@ -12,7 +12,7 @@ cta:
   icon: compass
 cta_alt:
   label: Último juego educativo ➡️
-  url: "/recursos-fisica-quimica/juegos-educativos/4eso/jumanji"
+  url: "/recursos-fisica-quimica/juegos-educativos/2eso-3eso/quien-es-quien"
 cta_note:
   label:
 design:

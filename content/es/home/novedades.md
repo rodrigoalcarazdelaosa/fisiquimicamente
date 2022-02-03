@@ -59,8 +59,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Jumanji
-    cta_url: '/recursos-fisica-quimica/juegos-educativos/4eso/jumanji/'
+    cta_label: ¿Quién es quién?
+    cta_url: '/recursos-fisica-quimica/juegos-educativos/2eso-3eso/quien-es-quien/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades
