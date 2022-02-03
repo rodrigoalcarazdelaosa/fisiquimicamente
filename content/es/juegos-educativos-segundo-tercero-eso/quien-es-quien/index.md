@@ -38,7 +38,7 @@ links:
 
 Cada alumno (o grupo de alumnos) tendrá que adivinar qué compuesto esconde su rival (antes de comenzar la partida, cada alumno anotará en su libreta el compuesto seleccionado). Se elegirá por sorteo quién será el alumno que dé comienzo a la partida y, durante su turno, dirá una de las características de los distintos compuestos para tratar de averiguar de cuál se trata por eliminación, antes de pasar el turno al otro:
 
-- ¿Es sólido?
+- ¿Es líquido?
 - ¿Presenta carbono?
 - ¿Es inflamable?
 - ¿Es más denso que el agua?
