@@ -3,7 +3,7 @@ title: Nanotermometría luminiscente I
 subtitle: De los termómetros de mercurio a los basados en *quantum dots*
 summary: "De los termómetros de mercurio a los basados en *quantum dots*."
 breadcrumbs: ["blog"]
-date: "2022-02-03T00:00:00Z"
+date: "2022-02-05T00:00:00Z"
 authors:
 - manuel-alonso
 tags:
@@ -50,7 +50,9 @@ La radiación IR que emite nuestro cuerpo tiene una longitud de onda de unas 10&
 
 {{< figure src="radiacion-cuerpo-negro-IR.svg" title="[Radiación de cuerpo negro](https://es.wikipedia.org/wiki/Radiación_de_cuerpo_negro) para temperaturas entre 100&thinsp;K y 10&thinsp;000&thinsp;K. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg." lightbox="false" width="100%" >}}
 
-Medir temperaturas en tamaños de unas pocas micras es cada vez más importante. Por ejemplo, en medicina, saber la temperatura intracelular ayuda a entender y controlar mejor sus procesos fisiológicos, incluido el posible desarrollo de un cáncer. Para lograr este objetivo, viene al rescate la [**fotoluminiscencia**](https://es.wikipedia.org/wiki/Fotoluminiscencia). Hay muchas sustancias y muchos materiales que, cuando son excitados por luz de alta energía (ej. una [lámpara UV](https://es.wikipedia.org/wiki/Radiación_ultravioleta#Fuentes_artificiales)) emiten luz que depende de su composición. Un ejemplo que muchos conocimos por [CSI](https://es.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation) es el [**luminol**](https://es.wikipedia.org/wiki/Luminol).
+Medir temperaturas en tamaños de unas pocas micras es cada vez más importante. Por ejemplo, en medicina, saber la temperatura intracelular ayuda a entender y controlar mejor sus procesos fisiológicos, incluido el posible desarrollo de un cáncer. Para lograr este objetivo, viene al rescate la [**fotoluminiscencia**](https://es.wikipedia.org/wiki/Fotoluminiscencia). Hay muchas sustancias y muchos materiales que, cuando son excitados por luz de alta energía (ej. una [lámpara UV](https://es.wikipedia.org/wiki/Radiación_ultravioleta#Fuentes_artificiales)) emiten luz que depende de su composición. Un ejemplo que muchos conocimos por [CSI](https://es.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation) es el [**luminol**](https://es.wikipedia.org/wiki/Luminol)[^3].
+
+[^3]: PIN: 5-amino-2,3-dihidroftalazina-1,4-diona.
 
 {{< spoiler text="Pincha aquí para **interactuar** con la **molécula** de **luminol** en **3D**" >}}
 <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>

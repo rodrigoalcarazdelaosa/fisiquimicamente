@@ -123,8 +123,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: "Fusión nuclear"
-    cta_url: 'blog/2022/01/29/fusion-nuclear/'
+    cta_label: "Nanotermometría luminiscente I"
+    cta_url: 'blog/2022/02/05/nanotermometria-luminiscente-i/'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
 ---    
