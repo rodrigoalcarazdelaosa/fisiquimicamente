@@ -47,7 +47,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:albavalenzuela3@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-  label: Contáctame
+  label: Contacta'm
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FrauValenzuela
