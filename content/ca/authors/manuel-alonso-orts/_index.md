@@ -1,13 +1,13 @@
 ---
 # Display name
-title: "Manuel Alonso"
-url: "/team/manuel-alonso"
+title: "Manuel Alonso Orts"
+url: "/equip/manuel-alonso-orts"
 
 weight: 130
 
 # Username (this should match the folder name)
 authors:
-- manuel-alonso
+- manuel-alonso-orts
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,28 +17,28 @@ role: ✍️ Blog
 
 # Organizations/Affiliations
 organizations:
-- name: "English: C2"
+- name: "Anglès: C2"
   url: ""
-- name: "German: B1"
+- name: "Alemany: B1"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Physicist, specialized in optical properties of semiconductor (nano)materials. Postdoc at [University of Bremen](https://www.uni-bremen.de/en/ifp/research-groups/solid-state-materials-research-group-eickhoff/team-research-group-eickhoff/dr-manuel-alonso-orts) (Germany)."
+bio: "Físic, especialitzat en propietats òptiques de (nano)materials semiconductors. Postdoc a la [Universitat de Bremen](https://www.uni-bremen.de/en/ifp/research-groups/solid-state-materials-research-group-eickhoff/team-research-group-eickhoff/dr-manuel-alonso-orts) (Alemanya)."
 
 interests:
-- 🎶 Music
-- ✈️ Traveling
-- 🧩 Board Games
+- 🎶 Música
+- ✈️ Viatjar
+- 🧩 Jocs de taula
 
 education:
   courses:
-  - course: PhD in Physics
+  - course: Doctor en Física
     institution: Universidad Complutense de Madrid
     year: 2020
-  - course: Master in Nanophysics and Advanced Materials
+  - course: Màster en Nanofísica i Materials Avançats
     institution: Universidad Complutense de Madrid
     year: 2016
-  - course: Degree in Physics
+  - course: Grau en Física
     institution: Universidad Complutense de Madrid
     year: 2015
 
@@ -50,11 +50,11 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ManoloAlonso1
-  label: Follow me on Twitter
+  label: Segueix-me a Twitter
 - icon: envelope
   icon_pack: fas
   link: 'mailto:man.alonso.orts@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-  label: Contact me 
+  label: Contacta'm 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +67,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- FisiQuímicament
 ---
 
-Physicist, specialized in optical properties of semiconductor (nano)materials. After finishing my predoctoral stage in Madrid, I am currently working as a postdoctoral researcher at the [University of Bremen](https://www.uni-bremen.de/en/ifp/research-groups/solid-state-materials-research-group-eickhoff/team-research-group-eickhoff/dr-manuel-alonso-orts) (Germany). I am not only interested in research; I enjoy just as much or more learning, talking and communicating scientific topics that I find interesting.
+Físic, especialitzat en propietats òptiques de (nano)materials semiconductors. Després d'acabar la meva etapa predoctoral a Madrid, actualment treballo com a investigador postdoctoral a la [Universitat de Bremen](https://www.uni-bremen.de/en/ifp/research-groups/solid-state-materials-research-group-eickhoff/team-research-group-eickhoff/dr-manuel-alonso-orts) (Alemanya). No només m'interessa la investigació; gaudeixo igual o més aprenent, parlant i divulgant sobre temes científics que em semblen interessants.

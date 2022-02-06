@@ -1,13 +1,13 @@
 ---
 # Display name
-title: "Manuel Alonso"
-url: "/equipo/manuel-alonso"
+title: "Manuel Alonso Orts"
+url: "/equipo/manuel-alonso-orts"
 
 weight: 130
 
 # Username (this should match the folder name)
 authors:
-- manuel-alonso
+- manuel-alonso-orts
 
 # Is this the primary user of the site?
 superuser: false

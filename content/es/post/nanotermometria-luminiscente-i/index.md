@@ -5,7 +5,7 @@ summary: "De los termómetros de mercurio a los basados en *quantum dots*."
 breadcrumbs: ["blog"]
 date: "2022-02-05T00:00:00Z"
 authors:
-- manuel-alonso
+- manuel-alonso-orts
 tags:
 - blog
 - energía
