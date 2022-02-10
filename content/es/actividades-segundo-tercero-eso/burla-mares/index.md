@@ -2,7 +2,7 @@
 title: La burla de los mares
 url: "/recursos-fisica-quimica/actividades/2eso/burla-mares"
 subtitle: Vive una auténtica aventura de piratas
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Vive una auténtica aventura de piratas."
+summary: "Vive una auténtica aventura de piratas."
 breadcrumbs: ["recursos-fisica-quimica","actividades-2eso"]
 authors:
 - miguel-quiroga

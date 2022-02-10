@@ -43,8 +43,8 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: La burla de los mares
-    cta_url: 'recursos-fisica-quimica/actividades/2eso/burla-mares/'
+    cta_label: El extraño caso del vuelo 1023 de Mole Airlines
+    cta_url: '/recursos-fisica-quimica/actividades/1bach/extrano-caso-vuelo-1023-mole-airlines'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
   - title: 🗞️ Novedades

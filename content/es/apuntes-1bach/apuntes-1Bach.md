@@ -24,6 +24,10 @@ subtitle = "📕 1.º Bach"
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Aspectos cuantitativos de la Química"
+    tag = "aspectos-cuantitativos-química"    
 	
   [[content.filter_button]]
     name = "Disoluciones"

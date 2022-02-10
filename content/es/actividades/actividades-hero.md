@@ -11,7 +11,7 @@ cta:
   icon: compass
 cta_alt:
   label: Última actividad ➡️
-  url: "recursos-fisica-quimica/actividades/2eso/burla-mares/"
+  url: "/recursos-fisica-quimica/actividades/1bach/extrano-caso-vuelo-1023-mole-airlines"
 cta_note:
   label: Si te gustan estas **actividades** no dudes en pasarte por la [excelente **página web** de **Miguel Quiroga**](https://www.miguelquiroga.es).
 design:
