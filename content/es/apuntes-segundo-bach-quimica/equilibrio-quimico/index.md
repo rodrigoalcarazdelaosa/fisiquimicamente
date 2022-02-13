@@ -34,7 +34,7 @@ links:
   url: equilibrio-quimico-ejercicios.pdf
 - icon_pack: fas
   icon: external-link-alt
-  name: Ejercicios
+  name: Más ejercicios
   url: https://drive.google.com/file/d/1zfeoyUiQm46SheaKm-9EKLmlfc9Ao1hI/view
 
 slides: equilibrio-quimico-2Bach-quimica  
