@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/2bach/quimica/equilibrio-quimico"
 subtitle: Ley de acción de masas, constante de equilibrio, principio de Le Chatelier y equilibrios heterogéneos
 summary: "Ley de acción de masas. Constante de equilibrio. Principio de Le Chatelier. Equilibrios heterogéneos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - apuntes
 - 2º Bach
@@ -25,6 +28,10 @@ links:
   icon: file-download
   name: Póster
   url: equilibrio-quimico-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: equilibrio-quimico-ejercicios.pdf
 - icon_pack: fas
   icon: external-link-alt
   name: Ejercicios
