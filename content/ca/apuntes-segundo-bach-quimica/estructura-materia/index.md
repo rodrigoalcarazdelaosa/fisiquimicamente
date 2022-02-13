@@ -90,18 +90,18 @@ Aquest model es basa en **tres postulats fonamentals**:
 
 #### Equació de Rydberg
 
-L'**equació** de **Rydberg** ens dona la **longitud** d'**ona** de les **línies espectrals** de molts elements químics:
+L'**equació** de **Rydberg** ens dona la **longitud** d'**ona** de les **línies espectrals** de molts elements químics. Pel cas de l'**hidrogen**:
 
 $$
-\frac{1}{\lambda} = R\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
+\frac{1}{\lambda} = R_\mathrm H\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
 $$
 
-on $\lambda$ és la longitud d'ona de la radiació emesa en el buit, $R = 1.097\times 10^7\thinspace \mathrm m^{-1}$ és la constant de Rydberg i $n_1$ i $n_2$ són els nombres quàntics principals de les òrbites involucrades en el salt (amb $n_2>n_1$).
+on $\lambda$ és la longitud d'ona de la radiació emesa en el buit, $R_\mathrm H = 1.097\times 10^7\thinspace \mathrm m^{-1}$ és la constant de Rydberg i $n_1$ i $n_2$ són els nombres quàntics principals de les òrbites involucrades en el salt (amb $n_2>n_1$).
 
 Aquesta equació també ens permet calcular el **valor energètic** corresponent a una **transició electrònica** entre dos nivells donats, $\Delta E$:
 
 $$
-\Delta E = hcR\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
+\Delta E = hcR_\mathrm H\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
 $$
 
 on $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ és la velocitat de la llum en el buit.
@@ -149,10 +149,10 @@ $$
 E = -\frac{1}{2}\frac{ke^2}{r} = -\frac{k^2e^4m}{2n^2\hbar^2} = -\frac{\mathrm{cte}}{n^2},
 $$
 
-on $\mathrm{cte} = k^2e^4m/(2\hbar^2)$ pot escriure's com $\mathrm{cte} = hcR$, sent $R$ la **constant** de **Rydberg**. La **variació** d'**energia** entre dos nivells donats és per tant:
+on $\mathrm{cte} = k^2e^4m/(2\hbar^2)$ pot escriure's com $\mathrm{cte} = hcR_\mathrm H$, sent $R_\mathrm H$ la **constant** de **Rydberg**. La **variació** d'**energia** entre dos nivells donats és per tant:
 
 $$
-\Delta E = hcR\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right)
+\Delta E = hcR_\mathrm H\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right)
 $$
 
 {{< /spoiler >}}

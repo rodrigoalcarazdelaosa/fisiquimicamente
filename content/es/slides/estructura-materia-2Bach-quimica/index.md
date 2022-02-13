@@ -113,20 +113,22 @@ Este modelo se basa en **tres postulados fundamentales**:
 
 #### Ecuación de Rydberg
 
-La **ecuación** de **Rydberg** nos da la **longitud** de **onda** de las **líneas espectrales** de muchos elementos químicos:
+La **ecuación** de **Rydberg** nos da la **longitud** de **onda** de las **líneas espectrales** de muchos elementos químicos.
+
+Para el caso del **hidrógeno**:
 
 $$
-\frac{1}{\lambda} = R\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
+\frac{1}{\lambda} = R_\mathrm H\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
 $$
 
-donde $\lambda$ es la longitud de onda de la radiación emitida en el vacío, $R = 1.097\times 10^7\thinspace \mathrm m^{-1}$ es la constante de Rydberg y $n_1$ y $n_2$ son los números cuánticos principales de las órbitas involucradas en el salto (con $n_2>n_1$).
+donde $\lambda$ es la longitud de onda de la radiación emitida en el vacío, $R_\mathrm H = 1.097\times 10^7\thinspace \mathrm m^{-1}$ es la constante de Rydberg y $n_1$ y $n_2$ son los números cuánticos principales de las órbitas involucradas en el salto (con $n_2>n_1$).
 
 ---
 
 Esta ecuación también nos permite calcular el **valor energético** correspondiente a una **transición electrónica** entre dos niveles dados, $\Delta E$:
 
 $$
-\Delta E = hcR\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
+\Delta E = hcR_\mathrm H\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
 $$
 
 donde $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocidad de la luz en el vacío.
