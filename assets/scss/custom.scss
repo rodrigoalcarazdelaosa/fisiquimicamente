@@ -127,7 +127,7 @@ h3#comments {
   padding-top: 0rem;
 }
 
-code {
+code:not(.hljs) {
   background: $nord4;
   color: $nord0;
   border-radius: 0.5em;
@@ -136,7 +136,7 @@ code {
   padding: 0.2em 0.4em
 }
 
-.dark code {
+.dark code:not(.hljs) {
   background: $nord3;
   color: $nord6;
 }

@@ -6,24 +6,6 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[search]`).
 
 ############################
-## Site Features
-############################
-
-# Enable source code highlighting? true/false
-# Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-highlight = true
-highlight_languages = ["latex"]  # Add support for highlighting additional languages
-highlight_style = "nord"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
-
-# Enable LaTeX math rendering? true/false
-#   If false, you can enable math on a per page basis as needed.
-math = true
-
-# Enable diagram rendering? true/false
-#   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
-
-############################
 ## Contact details
 ##
 ## These details power the Contact widget (if enabled).
@@ -121,13 +103,40 @@ plugins_js  = ["footnotes"]
       allow_commercial = true
 
 [features]
+  [features.syntax_highlighter]
+    enable = true
+    extra_languages = ["latex"]  # Add support for highlighting additional languages
+    theme = "nord"
+
+  [features.math]
+    enable = true
+
+  [features.diagram]
+    enable = false
+
+  [features.avatar]  
+    gravatar = false
+    shape = "circle"
+
   [features.privacy_pack]
     enable = true
+
+  [features.comment]
+    provider = "discord"    
   
   [features.map]  
     provider = ""
     api_key = ""
     zoom = 15
+
+  [features.search]  
+    provider = "wowchemy"
+  
+    [features.search.algolia]
+      app_id = ""
+      api_key = ""
+      index_name = ""
+      show_logo = false      
 
 [locale]
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -138,16 +147,6 @@ plugins_js  = ["footnotes"]
 
   # Address format.
   address_format = "es"
-
-# Avatars.
-# An avatar is an image that appears next to a user's name.
-# An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
-[avatar]
-  # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
-
-  # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
 
 # Configuration of publication pages.
 [publications]
@@ -170,30 +169,6 @@ plugins_js  = ["footnotes"]
   talk_view = 2
 
 ############################
-## Comments
-############################
-[comments]
-  provider = "discord"
-
-############################
-## Search
-############################
-[search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  provider = "wowchemy"
-
-  # Configuration of Algolia search engine.
-  # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
-
-############################
 ## Marketing
 ############################
 [marketing]
@@ -206,18 +181,19 @@ plugins_js  = ["footnotes"]
 
   [marketing.analytics]
     google_analytics = ""
-    google_tag_manager = ""    
-
-############################
-## Content Management System
-############################
-[cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
-  publish_mode = "editorial_workflow"
+    google_tag_manager = ""
 
 ############################
 ## Icon Pack Extensions
 ############################
-[extensions.academicons]
-  enable = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+[extensions]
+
+  [extensions.cms]
+    netlify_cms = true
+    publish_mode = "editorial_workflow"      
+
+  [extensions.academicons]
+    enable = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+
+  [extensions.isotope]
+    enable = true

@@ -112,3 +112,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [security]
   _merge = 'deep'
+
+[sitemap]
+  changefreq = 'weekly'

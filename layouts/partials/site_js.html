@@ -16,9 +16,8 @@
 {{ $js := site.Data.assets.js }}
 {{ if not ($scr.Get "use_cdn") }}
   <script src="{{ printf "/js/vendor/%s" ($scr.Get "vendor_js_filename") | relURL }}"></script>
-{{ else }}  
-
-  {{ $require_isotope := .Params.require_isotope | default site.Params.require_isotope | default true }}
+{{ else }}
+  {{ $require_isotope := .Params.require_isotope | default site.Params.extensions.isotope.enable | default false }}
   {{ if $require_isotope }}
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.imagesLoaded.url $js.imagesLoaded.version) $js.imagesLoaded.sri | safeHTML }}
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.isotope.url $js.isotope.version) $js.isotope.sri | safeHTML }}
@@ -29,7 +28,7 @@
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.fancybox.url $js.fancybox.version) $js.fancybox.sri | safeHTML }}
   {{ end }}
 
-  {{ if or .Params.diagram site.Params.diagram }}
+  {{ if or .Params.diagram site.Params.features.diagram.enable }}
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" title=\"mermaid\"></script>" (printf $js.mermaid.url $js.mermaid.version) $js.mermaid.sri | safeHTML }}
   {{ end }}
 
@@ -37,7 +36,7 @@
     {{ $v := $js.highlight.version }}
     {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.highlight.url $v) $js.highlight.sri | safeHTML }}
     {{ $v := $js.highlight_lang.version }}
-    {{ range site.Params.highlight_languages }}
+    {{ range site.Params.features.syntax_highlighter.extra_languages }}
     {{ printf "<script src=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.highlight_lang.url $v .) | safeHTML }}
     {{ end }}
   {{ end }}
@@ -64,7 +63,7 @@
 {{ end }}
 
 {{ $algoliaConfig := dict }}
-{{ $search_provider := lower site.Params.search.provider }}
+{{ $search_provider := lower site.Params.features.search.provider }}
 {{ if eq $search_provider "wowchemy" }}
   {{/* Wowchemy built-in search result template (Fuse). */}}
   <script id="search-hit-fuse-template" type="text/x-template">
@@ -98,7 +97,7 @@
   {{ if ($scr.Get "use_cdn") }}
     {{ printf "<script src=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.instantsearch.url $js.instantsearch.version) | safeHTML }}
   {{ end }}
-  {{ $algoliaConfig = dict "appId" (site.Params.search.algolia.app_id | default "") "apiKey" (site.Params.search.algolia.api_key | default "") "indexName" (site.Params.search.algolia.index_name | default "") "analytics" (site.Params.search.algolia.analytics | default false) "personalization" (site.Params.search.algolia.personalization | default false) }}
+  {{ $algoliaConfig = dict "appId" (site.Params.features.search.algolia.app_id | default "") "apiKey" (site.Params.features.search.algolia.api_key | default "") "indexName" (site.Params.features.search.algolia.index_name | default "") "analytics" (site.Params.features.search.algolia.analytics | default false) "personalization" (site.Params.features.search.algolia.personalization | default false) }}
 {{ end }}
 
 {{/* Charts */}}
@@ -108,16 +107,16 @@
 
 {{/* Disqus Comment Count JS. */}}
   {{/* Note: count can appear both in listing previews and on the content page itself. */}}
-  {{ $comments_provider := trim (site.Params.comments.provider | lower) " " }}
-  {{ if eq $comments_provider "disqus" | and (site.Params.comments.disqus.show_count | default true) }}
-    <script id="dsq-count-scr" src="https://{{site.Params.comments.disqus.shortname}}.disqus.com/count.js" async></script>
+  {{ $comments_provider := trim (site.Params.features.comment.provider | lower) " " }}
+  {{ if eq $comments_provider "disqus" | and (site.Params.features.comment.disqus.show_count | default true) }}
+    <script id="dsq-count-scr" src="https://{{site.Params.features.comment.disqus.shortname}}.disqus.com/count.js" async></script>
 {{end}}
 
 {{ $js_search_params := dict }}
 {{ if in (slice "wowchemy" "algolia") $search_provider }}
   {{/* Configure search engine. */}}
-  {{ $min_length := site.Params.search.wowchemy.min_length | default 1 }}
-  {{ $threshold := site.Params.search.wowchemy.threshold | default 0.3 }}
+  {{ $min_length := site.Params.features.search.wowchemy.min_length | default 1 }}
+  {{ $threshold := site.Params.features.search.wowchemy.threshold | default 0.3 }}
   {{ $search_config := dict "indexURI" ("/index.json" | relLangURL) "threshold" $threshold "minLength" $min_length }}
   {{ $search_i18n := dict "placeholder" (i18n "search_placeholder") "results" (i18n "search_results") "no_results" (i18n "search_no_results") }}
   {{ $content_types := dict "post" (i18n "posts") "project" (i18n "projects") "apuntes-segundo-tercero-eso" (i18n "apuntes-segundo-tercero-eso") "apuntes-cuarto-eso" (i18n "apuntes-cuarto-eso") "apuntes-primero-bach" (i18n "apuntes-primero-bach") "apuntes-segundo-bach-fisica" (i18n "apuntes-segundo-bach-fisica") "apuntes-segundo-bach-quimica" (i18n "apuntes-segundo-bach-quimica") "apuntes-formulacion" (i18n "apuntes-formulacion") "actividades-segundo-tercero-eso" (i18n "actividades-segundo-tercero-eso") "actividades-cuarto-eso" (i18n "actividades-cuarto-eso") "actividades-primero-bach" (i18n "actividades-primero-bach") "actividades-segundo-bach-fisica" (i18n "actividades-segundo-bach-fisica") "actividades-segundo-bach-quimica" (i18n "actividades-segundo-bach-quimica") "actividades-formulacion" (i18n "actividades-formulacion") "juegos-educativos-segundo-tercero-eso" (i18n "juegos-educativos-segundo-tercero-eso") "juegos-educativos-cuarto-eso" (i18n "juegos-educativos-cuarto-eso") "juegos-educativos-primero-bach" (i18n "juegos-educativos-primero-bach") "juegos-educativos-segundo-bach-fisica" (i18n "juegos-educativos-segundo-bach-fisica") "juegos-educativos-segundo-bach-quimica" (i18n "juegos-educativos-segundo-bach-quimica") "juegos-educativos-formulacion" (i18n "juegos-educativos-formulacion") "EBAU-fisica-examenes" ("🎓 EBAU Exámenes Completos Física") "PAU-fisica-examenes" ("🎓 PAU Exámenes Completos Física") "PBAU-fisica-examenes" ("🎓 PBAU Exámenes Completos Física") "EBAU-quimica-examenes" ("🎓 EBAU Exámenes Completos Química") "PAU-quimica-examenes" ("🎓 PAU Exámenes Completos Química") "EBAU-fisica-preguntas" ("🎓 EBAU Preguntas Temas Física") "EBAU-quimica-preguntas" ("🎓 EBAU Preguntas Temas Química") "oposiciones-fisica-ejercicios" ("📝 Oposiciones Ejercicios Resueltos Física") "oposiciones-quimica-ejercicios" ("📝 Oposiciones Ejercicios Resueltos Química") "operador-IIRR-preguntas-examen" ("🧑‍🔧 Operador IIRR Preguntas Examen") "publication" (i18n "publications") "event" (i18n "talks") "slides" (i18n "slides") "authors" (i18n "authors") "tutoriales" (i18n "tutoriales") "enlaces-recursos-online" (i18n "recursos-online") }}
