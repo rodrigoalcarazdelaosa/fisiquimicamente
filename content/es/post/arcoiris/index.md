@@ -108,11 +108,13 @@ $$
 n_\mathrm{agua}(\lambda) = 1.31848+\frac{6.662}{\lambda[\mathrm{nm}]-129.2}
 $$
 
-{{< figure src="n-vs-lambda.svg" title="" lightbox="false" width="100%" >}}
+{{< figure src="n-vs-lambda.svg" title="Índice de refracción del agua, *n*<sub>agua</sub>, en función de la longitud de onda de la luz incidente, λ, según la expresión $n_\mathrm{agua}(\lambda) = 1.31848+\dfrac{6.662}{\lambda[\mathrm{nm}]-129.2}$. Notar la variación tan pequeña (poco más de un 1&thinsp;%)." lightbox="false" width="100%" >}}
 
-Sustituyendo podemos por tanto representar el ángulo mínimo en función de la longtitud de onda, observando así la dispersión de la luz en los distintos colores, aumentando el ángulo desde el violeta hasta el rojo:
+Sustituyendo podemos por tanto representar el ángulo mínimo en función de la longitud de onda, observando así la dispersión de la luz en los distintos colores, aumentando el ángulo desde el violeta hasta el rojo[^3]:
 
-{{< figure src="dispersion-imin.svg" title="" lightbox="false" width="100%" >}}
+[^3]: Notar que, a pesar de que las variaciones tanto en el índice de refracción del agua como del ángulo mínimo son de poco más de un 1&thinsp;%, son suficientes como para provocar la descomposición de la luz blanca.
+
+{{< figure src="dispersion-imin.svg" title="Ángulo mínimo, *i&#770;*<sub>mín</sub>, en función de la longitud de onda de la luz incidente, λ, teniendo en cuenta la expresión $\hat\imath_\mathrm{mín} = \arccos{\sqrt{\dfrac{n^2-1}{3}}}$ y la dispersión del agua." lightbox="false" width="100%" >}}
 
 Tomando $n = 1.333$ obtenemos que el ángulo mínimo es de 59 grados, 24 minutos y 38 segundos de arco. Por eso nunca puedes alcanzar un arcoíris, al acercarte tu posición cambia. El arcoíris siempre estará en el mismo ángulo respecto a ti.
 
