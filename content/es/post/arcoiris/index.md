@@ -7,6 +7,7 @@ date: "2022-02-13T00:00:00Z"
 authors:
 - pilar-palanca
 - juan-docon
+- rodrigo-alcaraz-de-la-osa
 tags:
 - blog
 - óptica
@@ -88,7 +89,7 @@ $$
 \sin\hat\imath = n_2\sin\hat r \rightarrow \hat r = \arcsin{\left(\frac{\sin\hat\imath}{n_2}\right)}
 $$
 
-Por otra parte, también podemos calcular el ángulo mínimo para el cual esto puede darse. No vamos a ahondar en este cálculo, pero os lo dejamos por si os interesa, se trata de ver en qué puntos la derivada se anula.
+Por otra parte, también podemos calcular el ángulo mínimo para el cual esto puede darse. No vamos a ahondar en este cálculo, pero os lo dejamos por si os interesa, se trata de ver en qué puntos la derivada se anula:
 
 \begin{align*}
 \frac{\partial \hat d_\mathrm t}{\partial \hat \imath} &= 0 \\\\
@@ -99,7 +100,21 @@ Por otra parte, también podemos calcular el ángulo mínimo para el cual esto p
 \hat\imath_\mathrm{mín} &= \arccos{\sqrt{\frac{n^2-1}{3}}}
 \end{align*}
 
-Obtenemos que el ángulo mínimo es de 59 grados, 24 minutos y 38 segundos de arco. Por eso nunca puedes alcanzar un arcoíris, al acercarte tu posición cambia. El arcoíris siempre estará en el mismo ángulo respecto a ti.
+A su vez, el índice de refracción del agua depende de la longitud de onda de la luz incidente a través de la expresión[^2] (asumiendo una temperatura de 20 &deg;C):
+
+[^2]: Rol, P. O. (1991). *Optics for transscleral laser applications* (Doctoral dissertation, ETH Zurich). https://www.research-collection.ethz.ch/handle/20.500.11850/140624.
+
+$$
+n_\mathrm{agua}(\lambda) = 1.31848+\frac{6.662}{\lambda[\mathrm{nm}]-129.2}
+$$
+
+{{< figure src="n-vs-lambda.svg" title="" lightbox="false" width="100%" >}}
+
+Sustituyendo podemos por tanto representar el ángulo mínimo en función de la longtitud de onda, observando así la dispersión de la luz en los distintos colores, aumentando el ángulo desde el violeta hasta el rojo:
+
+{{< figure src="dispersion-imin.svg" title="" lightbox="false" width="100%" >}}
+
+Tomando $n = 1.333$ obtenemos que el ángulo mínimo es de 59 grados, 24 minutos y 38 segundos de arco. Por eso nunca puedes alcanzar un arcoíris, al acercarte tu posición cambia. El arcoíris siempre estará en el mismo ángulo respecto a ti.
 
 $$
 n_\mathrm{agua} = 1.333 \rightarrow \hat\imath_\mathrm{mín} = 59^\circ\thinspace 24'\thinspace 38'';\quad \hat d_\mathrm t = 137^\circ\thinspace 55'\thinspace 19''
