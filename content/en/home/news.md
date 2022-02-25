@@ -1,66 +1,57 @@
 ---
 widget: slider
-headless: true  # This file represents a page section.
-active: true
 weight: 6
+active: true
+headless: true
 
-# ... Put Your Section Options Here (section position etc.) ...
+design:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: '500px'
+  is_fullscreen: false
+  # Automatically transition through slides?
+  loop: false
+  # Duration of transition between slides (in ms)
+  interval: 2000
 
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: false
-
-# Minimum slide height.
-# Specify a height to ensure a consistent height for each slide.
-height: 500px
-
-item:
+content:
+  slides:  
   - title: 🗞️ News
     content: '📚 Latest Poster'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/latest-notes.webp  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Periodic Table
-    cta_url: 'physics-chemistry-notes/15-16-year-olds/periodic-table/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/latest-notes.webp
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: Periodic Table
+      url: 'physics-chemistry-notes/15-16-year-olds/periodic-table/'
   - title: 🗞️ News
     content: '👐 Latest Tutorial'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultimo-tutorial.jpg  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Learn $\LaTeX$ in 30 Minutes
-    cta_url: 'tutorials/latex/learn-latex-30-minutes/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap        
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultimo-tutorial.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: Learn $\LaTeX$ in 30 Minutes
+      url: 'tutorials/latex/learn-latex-30-minutes/'
   - title: 🗞️ News
     content: '✍️ Latest Blog Post'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/latest-blog-post.webp  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Scientific School Calendar 2022
-    cta_url: 'blog/2022/01/12/scientific-school-calendar-2022/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap
----    
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/latest-blog-post.webp
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: Scientific School Calendar 2022
+      url: 'blog/2022/01/12/scientific-school-calendar-2022/'  
+---

@@ -6,45 +6,6 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[search]`).
 
 ############################
-## Contact details
-##
-## These details power the Contact widget (if enabled).
-## Additionally, for organizations, these details may be used to enrich search engine results.
-############################
-
-# Enter contact details (optional). To hide a field, clear it to "".
-email = "contacto@fisiquimicamente.com"
-phone = ""
-
-# Address
-# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-# address = {region = "Cantabria", country = "España", country_code = "ES"}
-
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.416645", longitude = "-4.041206"}
-
-# Directions for visitors to locate you.
-directions = ""
-
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = []
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
-
-# Contact links
-#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Síguenos en Twitter", link = "https://twitter.com/fqmente"},
-  {icon = "instagram", icon_pack = "fab", name = "Síguenos en Instagram", link = "https://www.instagram.com/fisiquimicamente/"},
-  {icon = "pinterest", icon_pack = "fab", name = "Síguenos en Pinterest", link = "https://www.pinterest.es/fisiquimicamente/"},
-  {icon = "telegram", icon_pack = "fab", name = "Suscríbete al canal de Telegram", link = "https://t.me/fisiquimicamente"},
-  {icon = "discord", icon_pack = "fab", name = "Únete al servidor de Discord", link = "https://discord.gg/kJqPqTJ"},
-  ]
-
-############################
 ## Social
 ############################
 
@@ -178,6 +139,9 @@ plugins_js  = ["footnotes"]
     org_name = "FisiQuímicamente"
     description = "Recursos de Física y Química, tutoriales y ciencia de actualidad"
     twitter = "fqmente"
+    phone = ""
+    # address = {region = "Cantabria", country = "España", country_code = "ES"}
+    coordinates = {latitude = "43.416645", longitude = "-4.041206"}
 
   [marketing.analytics]
     google_analytics = ""

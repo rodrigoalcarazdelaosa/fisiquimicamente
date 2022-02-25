@@ -1,130 +1,109 @@
 ---
 widget: slider
-headless: true  # This file represents a page section.
-active: true
 weight: 6
+active: true
+headless: true
 
-# ... Put Your Section Options Here (section position etc.) ...
+design:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: '500px'
+  is_fullscreen: false
+  # Automatically transition through slides?
+  loop: false
+  # Duration of transition between slides (in ms)
+  interval: 2000
 
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval: false
-
-# Minimum slide height.
-# Specify a height to ensure a consistent height for each slide.
-height: 500px
-
-item:
+content:
+  slides:  
   - title: 🗞️ Novedades
     content: '📚 Últimos apuntes'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultimos-apuntes.jpg  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: MAS
-    cta_url: 'recursos-fisica-quimica/apuntes/1bach/mas/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultimos-apuntes.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: MAS
+      url: 'recursos-fisica-quimica/apuntes/1bach/mas/'
   - title: 🗞️ Novedades
     content: '🗒️ Última actividad'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultima-actividad.jpg  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: El extraño caso del vuelo 1023 de Mole Airlines
-    cta_url: '/recursos-fisica-quimica/actividades/1bach/extrano-caso-vuelo-1023-mole-airlines'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultima-actividad.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: El extraño caso del vuelo 1023 de Mole Airlines
+      url: '/recursos-fisica-quimica/actividades/1bach/extrano-caso-vuelo-1023-mole-airlines'
   - title: 🗞️ Novedades
     content: '🧩 Último juego educativo'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultimo-juego-educativo.jpg  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: ¿Quién es quién?
-    cta_url: '/recursos-fisica-quimica/juegos-educativos/2eso-3eso/quien-es-quien/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultimo-juego-educativo.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: ¿Quién es quién?
+      url: '/recursos-fisica-quimica/juegos-educativos/2eso-3eso/quien-es-quien/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultimo-ejercicio-oposiciones-fisica.jpg  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Cantabria 2016 Ejercicio 2
-    cta_url: 'recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e2/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultimo-ejercicio-oposiciones-fisica.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: Cantabria 2016 Ejercicio 2
+      url: 'recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e2/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de ⚗️ Química resuelto'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultimo-ejercicio-oposiciones-quimica.webp  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Cantabria 2018 Ejercicio 4 de la Opción 2 
-    cta_url: 'recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o2-e4/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultimo-ejercicio-oposiciones-quimica.webp
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: Cantabria 2018 Ejercicio 4 de la Opción 2
+      url: 'recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o2-e4/'
   - title: 🗞️ Novedades
     content: '👐 Último tutorial'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultimo-tutorial.jpg  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Curso básico de $\LaTeX$
-    cta_url: 'tutoriales/latex/curso-basico/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap        
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultimo-tutorial.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: Curso básico de $\LaTeX$
+      url: 'tutoriales/latex/curso-basico/'
   - title: 🗞️ Novedades
     content: '✍️ Última entrada del blog'
-    # Choose `center`, `left`, or `right` alignment.
     align: center
-    # Overlay a color or image (optional).
-    #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    # overlay_color: '#fffff8'  # An HTML color value.
-    overlay_img: novedades/ultima-entrada-blog.jpg  # Image path relative to your `assets/media/` folder
-    # overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-    # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: "¿Cómo se forma el arcoíris?"
-    cta_url: 'blog/2022/02/13/como-se-forma-el-arcoiris/'
-    # cta_icon_pack: fas
-    # cta_icon: graduation-cap
----    
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultima-entrada-blog.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: "¿Cómo se forma el arcoíris?"
+      url: 'blog/2022/02/13/como-se-forma-el-arcoiris/'
+---

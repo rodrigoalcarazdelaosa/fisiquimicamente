@@ -13,6 +13,25 @@ title: "📬 Contacte"
 subtitle:
 
 content:
+  email: "contacte@fisiquimicament.com"    
+  contact_links:
+    - icon: "twitter"
+      icon_pack: fab
+      name: "Segueix-nos a Twitter"
+      link: "https://twitter.com/fqmente"
+    - icon: "instagram"
+      icon_pack: "fab"
+      name: "Segueix-nos a Instagram"
+      link: "https://www.instagram.com/fisiquimicamente/"
+    - icon: "pinterest"
+      icon_pack: "fab"
+      name: "Segueix-nos a Pinterest"
+      link: "https://www.pinterest.es/fisiquimicamente/"
+    - icon: "discord"
+      icon_pack: "fab"
+      name: "Uneix-te a el servidor d'Discord"
+      link: "https://discord.gg/kJqPqTJ"
+
   # Automatically link email and phone or display as text?
   autolink: true
   
