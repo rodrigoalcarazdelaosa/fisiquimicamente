@@ -35,11 +35,11 @@ subtitle = "📝 Preguntas de examen"
 
   [[content.filter_button]]
     name = "Detección y medida de la radiación"
-    tag = "detección-medida-radiación"
+    tag = "detectores"
 
   [[content.filter_button]]
     name = "Dosimetría de la radiación"
-    tag = "dosimetría-radiación"
+    tag = "dosimetría"
 
   [[content.filter_button]]
     name = "Radiobiología"
