@@ -1,9 +1,8 @@
 ---
 title: Aprendiendo Física con Berto Tomás
-summary: Problemas resueltos de Física de 2.º de Bachillerato para preparar la prueba de acceso a la Universidad.
+summary: Guías, formularios, cuadernos, reglas, juegos, vídeos, tablas, roscos...
 tags:
 - fyq
-- vídeos
 categories:
 - Física
 
@@ -11,9 +10,9 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.youtube.com/channel/UCfia-dHyV2irKw9PrbLDA7g/
+external_link: https://www.aprendiendofisicaconbertotomas.com
 
 image:
-  caption: https://www.youtube.com/channel/UCfia-dHyV2irKw9PrbLDA7g/
+  caption: https://www.aprendiendofisicaconbertotomas.com
   focal_point: Smart
 ---
