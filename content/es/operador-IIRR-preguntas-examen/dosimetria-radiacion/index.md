@@ -168,14 +168,14 @@ La dosis equivalente profunda evaluada con el dosímetro corporal una vez sustra
 1. [x] Muestras de heces
 1. [ ] Ninguna de las anteriores
 
-### Dosimetría interna
+### Haz directo
 
-¿Qué magnitud de las siguientes es propia solamente de dosimetría interna?
+Señala cuál es la afirmación correcta respecto a la medida de dosis en el haz directo:
 
-1. [ ] Dosis equivalente comprometida en aire 
-1. [ ] Tasa de actividad interna 
-1. [x] Dosis efectiva comprometida 
-1. [ ] Dosis absorbida
+1. [ ] Se utilizan fundamentalmente cámaras de ionización y TLDs
+1. [ ] Se realizan para estimar las dosis recibidas por los pacientes
+1. [ ] Permiten la optimización de la protección al paciente
+1. [x] Todas las respuestas son correctas
 
 ### Radionúclidos
 
