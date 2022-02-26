@@ -678,6 +678,10 @@ a.summary-link {
   border: 1px solid $primary;
 }
 
+.dark #search-box #search-query {
+  border: 1px solid $nord6;
+}
+
 input[type="search"]::-webkit-search-cancel-button {  
   color: $nord3;
 }
