@@ -4,7 +4,7 @@
    viewBox="0 0 5344.9517 2271.2871"
    id="svg1439"
    sodipodi:docname="evolucion-universo-cat.svg"
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    width="5344.9517"
    height="2271.2871"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -118,10 +118,10 @@
      id="namedview1441"
      showgrid="false"
      inkscape:zoom="0.10456366"
-     inkscape:cx="2476.9599"
+     inkscape:cx="2476.96"
      inkscape:cy="2008.3459"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="59"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1439"
      fit-margin-top="0"
@@ -767,12 +767,31 @@
        id="path1021"
        style="fill:url(#radialGradient1713)" />
   </g>
-  <path
-     d="m 608.77,641.73541 v 221.68"
-     marker-end="url(#ap)"
-     stroke-width="7"
-     id="path1053"
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.99968;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ExperimentalArrow)" />
+  <g
+     id="path1053">
+    <path
+       style="color:#000000;fill:#000000;stroke-width:6.99968;-inkscape-stroke:none"
+       d="m 608.77,641.73541 v 221.68"
+       id="path1470" />
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       d="m 605.26953,641.73633 v 221.67969 h 7 V 641.73633 Z"
+       id="path1472" />
+    <g
+       id="g1460">
+      <g
+         id="path1462">
+        <path
+           style="color:#000000;fill:#000000;stroke-width:6.99968;-inkscape-stroke:none"
+           d="m 608.77,898.41381 -20.99904,-69.9968 h 41.99808 z"
+           id="path1466" />
+        <path
+           style="color:#000000;fill:#000000;-inkscape-stroke:none"
+           d="m 583.06641,824.91797 25.70312,85.67578 3.35352,-11.17383 22.34961,-74.50195 z m 9.4082,6.99805 h 32.58984 l -16.29492,54.3164 z"
+           id="path1468" />
+      </g>
+    </g>
+  </g>
   <g
      aria-label="0"
      id="text1393"

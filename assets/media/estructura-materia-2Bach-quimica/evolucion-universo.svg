@@ -4,7 +4,7 @@
    viewBox="0 0 5404.9385 2305.9609"
    id="svg1439"
    sodipodi:docname="evolucion-universo.svg"
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    width="5404.9385"
    height="2305.9609"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
-     inkscape:window-height="900"
+     inkscape:window-height="674"
      id="namedview1441"
      showgrid="false"
      inkscape:zoom="0.13348574"
-     inkscape:cx="3266.2666"
-     inkscape:cy="1258.5614"
+     inkscape:cx="2142.551"
+     inkscape:cy="1123.7155"
      inkscape:window-x="1920"
-     inkscape:window-y="75"
+     inkscape:window-y="238"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1439"
      fit-margin-top="0"
@@ -690,12 +690,31 @@
        id="path1021"
        style="fill:url(#radialGradient1713)" />
   </g>
-  <path
-     d="m 608.77,668.6651 v 221.68"
-     marker-end="url(#ap)"
-     stroke-width="7"
-     id="path1053"
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.99968;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ExperimentalArrow)" />
+  <g
+     id="path1053">
+    <path
+       style="color:#000000;fill:#000000;stroke-width:6.99968;-inkscape-stroke:none"
+       d="m 608.77,668.6651 v 221.68"
+       id="path1513" />
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       d="M 605.26953,668.66602 V 890.3457 h 7 V 668.66602 Z"
+       id="path1515" />
+    <g
+       id="g1503">
+      <g
+         id="path1505">
+        <path
+           style="color:#000000;fill:#000000;stroke-width:6.99968;-inkscape-stroke:none"
+           d="m 608.77,925.3435 -20.99904,-69.9968 h 41.99808 z"
+           id="path1509" />
+        <path
+           style="color:#000000;fill:#000000;-inkscape-stroke:none"
+           d="m 583.06641,851.84766 25.70312,85.67578 3.35352,-11.17383 22.34961,-74.50195 z m 9.4082,6.99804 h 32.58984 l -16.29492,54.31641 z"
+           id="path1511" />
+      </g>
+    </g>
+  </g>
   <g
      aria-label="Edad del Universo"
      id="text1283"

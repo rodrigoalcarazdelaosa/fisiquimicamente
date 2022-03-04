@@ -347,6 +347,16 @@ Descubre una interesante curiosidad sobre los [**muones**](https://es.wikipedia.
 <div align="center">
 {{< tweet user="BTeseracto" id="1486036181422903300" >}}
 </div>
+
+O aprende sobre cómo se pueden **detectar** los [**neutrinos**](https://es.wikipedia.org/wiki/Neutrino) y el misterio de los **neutrinos solares desaparecidos** en estos magníficos hilos también de [**BTeseracto**](https://twitter.com/bteseracto):
+
+<div align="center">
+{{< tweet user="BTeseracto" id="1489297648167366656" >}}
+</div>
+
+<div align="center">
+{{< tweet user="BTeseracto" id="1488572890454839298" >}}
+</div>
 	
 ### Evolución del Universo
 
