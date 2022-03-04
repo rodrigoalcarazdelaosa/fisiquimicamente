@@ -54,7 +54,7 @@
     {{ $superuser_role := "" }}
     {{ range first 1 (where (where site.Pages "Section" "authors") "Params.superuser" true) }}
       {{ $superuser_name = .Title }}
-      {{ $superuser_username = path.Base (path.Split .Path).Dir }}
+      {{ $superuser_username = path.Base .File.Dir }}
       {{ $superuser_role = .Params.role }}
     {{ end }}
     {{ $scr.Set "superuser_username" $superuser_username }}{{/* Set superuser globally for page_author.html. */}}
@@ -102,8 +102,15 @@
      {{- $stylesheets = $stylesheets | append (resources.Get (printf "css/libs/%s.css" . ) ) -}}
    {{- end -}}
    {{ $stylesheets = $stylesheets | resources.Concat "css/vendor-bundle.css" | minify }}
+   {{- if eq (getenv "WC_POST_CSS") "true" -}}
+     {{- $stylesheets = $stylesheets | postCSS -}}
+   {{- end -}}
    {{- if hugo.IsProduction -}}
      {{- $stylesheets = $stylesheets | fingerprint "md5" -}}
+   {{- end -}}
+   {{- if eq (getenv "WC_POST_CSS") "true" -}}
+     {{/* PostProcess must be last action in the pipeline */}}
+     {{- $stylesheets = $stylesheets | resources.PostProcess -}}
    {{- end -}}
    <link rel="stylesheet" href="{{$stylesheets.RelPermalink}}" media="print" onload="this.media='all'">
 
