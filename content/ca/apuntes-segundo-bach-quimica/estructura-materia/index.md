@@ -7,8 +7,8 @@ breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - oscar-colomar
-- eduard-cremades
 - alba-lopez-valenzuela
+- eduard-cremades
 tags:
 - apunts
 - 2n Batx
