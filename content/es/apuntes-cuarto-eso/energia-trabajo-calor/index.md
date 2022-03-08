@@ -3355,7 +3355,8 @@ Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su te
 {{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" title="**Junta de dilatación** de un puente. Si estas juntas no se construyesen, la dilatación térmica de los materiales cuando aumentase la temperatura generaría unos esfuerzos tan grandes que fracturarían el puente. Para calcular estas juntas se necesita conocer el **coeficiente de dilatación térmica**. Imagen de [**Kranich17**](https://pixabay.com/es/users/kranich17-11197573/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 Si consideramos una varilla de longitud inicial $l_0$ a una temperatura inicial $T_0$ y elevamos su temperatura hasta $T$, la varilla aumentará su longitud hasta $l$.
-{{< figure library="true" src="energia-trabajo-calor-4ESO/dilatacion.svg" lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="energia-trabajo-calor-4ESO/dilatacion.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg." lightbox="false" width="100%" >}}
 
 El aumento de longitud experimentado, $\Delta l = l-l_0$, es proporcional a la longitud inicial $l_0$ y a la variación de temperatura $\Delta T = T-T_0$:
 $$
