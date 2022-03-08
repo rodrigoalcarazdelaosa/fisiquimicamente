@@ -216,4 +216,4 @@ El **indio** (In) es un metal plateado blando que a menudo se usa para producir 
 #### Diagnóstico y tratamiento de cáncer
 [**Isótopos radiactivos** ☢️](https://es.wikipedia.org/wiki/Radiois%C3%B3topo) como el <sup>60</sup>Co, <sup>99m</sup>Tc, <sup>131</sup>I, <sup>137</sup>Cs o el <sup>192</sup>Ir.
 
-{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/semillas-iodo.jpg" title="***Semillas*** de **iodo-125** (<sup>125</sup>I), utilizadas en [**braquiterapia**](https://es.wikipedia.org/wiki/Braquiterapia) de baja tasa, al lado de una moneda de cinco centavos de dólar (*nickel*). <br> https://thewell.northwell.edu/brachytherapy-right-me" lightbox="true" >}}
+{{< figure library="true" src="elementos-compuestos-2ESO-3ESO/semillas-yodo.jpg" title="***Semillas*** de **yodo-125** (<sup>125</sup>I), utilizadas en [**braquiterapia**](https://es.wikipedia.org/wiki/Braquiterapia) de baja tasa, al lado de una moneda de cinco centavos de dólar (*nickel*). <br> https://thewell.northwell.edu/brachytherapy-right-me" lightbox="true" >}}

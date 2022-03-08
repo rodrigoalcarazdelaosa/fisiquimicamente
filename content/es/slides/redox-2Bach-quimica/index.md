@@ -406,19 +406,19 @@ A menudo es necesario utilizar un **indicador rédox** y/o un **potenciómetro**
 
 #### Iodometría
 
-Generalmente utilizada para analizar la concentración de agentes oxidantes en muestras de agua, implica la valoración indirecta de iodo liberado por reacción con el analito.
+Generalmente utilizada para analizar la concentración de agentes oxidantes en muestras de agua, implica la valoración indirecta de yodo liberado por reacción con el analito.
 
 ---
 					
-El tiosulfato de iodo (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) suele utilizarse como agente reductor.
+El tiosulfato de yodo (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) suele utilizarse como agente reductor.
 
 ---
 					
-La aparición o desaparición de iodo elemental indica el punto final.
+La aparición o desaparición de yodo elemental indica el punto final.
 
 ---
 					
-No confundir con la **iodimetría**, que es una valoración directa utilizando iodo como sustancia valorante.
+No confundir con la **iodimetría**, que es una valoración directa utilizando yodo como sustancia valorante.
 
 ---
 
