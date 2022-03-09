@@ -19,7 +19,7 @@ categories:
 - Física
 image:
   placement: 3
-  caption:
+  caption: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201500753"
 ---
 
 {{% callout note %}}
@@ -49,7 +49,7 @@ Actualmente se están proponiendo distintos micro/nanotermómetros que miden may
 
 ¿Cómo medimos la temperatura con nanohilos como estos? Podríamos calibrarlo a partir de la intensidad, como hacen otros termómetros ópticos, pero la relación no sigue una ley física sencilla y depende de la intensidad del láser incidente, lo que complica en gran medida la calibración del mismo. Así que preparamos un nanohilo donde, además de la emisión que hemos visto en la figura anterior, hay unos picos de emisión de luz que cambian con la temperatura. ¿De dónde vienen? ¿Por qué se desplazan así?
 
-{{< figure src="espectros-nanohilo.png" title="https://onlinelibrary.wiley.com/doi/10.1002/smll.202105355" lightbox="true" >}}
+{{< figure src="espectros-nanohilo.png" lightbox="true" >}}
 
 Se debe a unos *nanoespejos* que hemos fabricado en los nanohilos. Estos reflejan la emisión de luz roja-IR del nanohilo en sus lados. De la misma forma que en una cavidad láser (pero sin llegar a tener emisión estimulada) ciertas longitudes de onda de la luz, aquellas que cumplan la condición de interferencia constructiva entre las ondas emitidas y las reflejadas en los espejos, son favorecidas respecto al resto. A estas longitudes de onda se les denomina longitudes de onda resonantes.
 
@@ -73,10 +73,10 @@ Como hemos visto antes, en nuestro termómetro, al calentar el nanohilo, ya sea 
 
 {{< figure src="calibrado-nanohilo.png" title="https://onlinelibrary.wiley.com/doi/10.1002/smll.202105355" lightbox="true" >}}
 
-Con esta técnica hemos medido temperaturas desde mucho más frías que en el ártico en invierno (150&thinsp;K = –123&thinsp;&deg;C) hasta más calientes que en un horno casero (537&thinsp;K = 264&thinsp;&deg;C). Todo ello con un instrumento unas 1&thinsp;000 veces más pequeño que un pelo humano, lo cual permite reducir mucho la escala a la que puede medir.
+Con esta técnica hemos medido temperaturas desde mucho más frías que en el ártico en invierno (150&thinsp;K = –123&thinsp;&deg;C) hasta más calientes que en un horno casero (537&thinsp;K = 264&thinsp;&deg;C). Todo ello con un instrumento unas 1&thinsp;000 veces más pequeño que un pelo humano, lo cual permite reducir mucho la escala a la que puede medir dichas temperaturas.
 
 {{< figure src="rango-temperatura.png" title="https://onlinelibrary.wiley.com/doi/10.1002/smll.202105355" lightbox="true" >}}
 
-Este pequeño termómetro luminiscente es un ejemplo de muchos. Con ellos vemos que, mediante el desarrollo de distintos nanomateriales y la aplicación de conceptos de física básica, estamos en camino de medir y controlar la temperatura de los elementos básicos de nuestro mundo, desde las células de los seres vivos hasta los chips electrónicos.
+Este pequeño termómetro luminiscente es un ejemplo de muchos nanotermómetros en proceso de investigación. Con ellos vemos que, mediante el desarrollo de distintos nanomateriales y la aplicación de conceptos de física básica, estamos en camino de medir y controlar la temperatura de los elementos básicos de nuestro mundo, desde las células de los seres vivos hasta los chips electrónicos.
 
 <div class="tenor-gif-embed" data-postid="19286031" data-share-method="host" data-aspect-ratio="1.83908" data-width="100%"><a href="https://tenor.com/view/semi-semiconductor-microfluidics-etch-gif-19286031">Semi Semiconductor GIF</a>from <a href="https://tenor.com/search/semi-gifs">Semi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>

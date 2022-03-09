@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "¿Cómo se forma el arcoíris?"
-      url: 'blog/2022/02/13/como-se-forma-el-arcoiris/'
+      text: "Nanotermometría luminiscente II"
+      url: 'blog/2022/03/08/nanotermometria-luminiscente-ii/'
 ---
