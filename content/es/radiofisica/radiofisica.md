@@ -18,7 +18,7 @@ subtitle = ""
   icon = "🧑‍🏫"
   icon_pack = "emoji"
   name = "Ciclos formativos"
-  description = "Radioterapia y Dosimetría<br>Imagen para el Diagnóstico y MN<br>`PRÓXIMAMENTE`"
+  description = "Radioterapia y Dosimetría<br>🩻 Imagen para el Diagnóstico y MN<br>`PRÓXIMAMENTE`"
   
 [[feature]]
   icon = "[🧑‍🔧](operador-IIRR)"
