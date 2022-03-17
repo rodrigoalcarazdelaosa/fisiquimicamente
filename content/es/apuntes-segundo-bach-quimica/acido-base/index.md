@@ -42,7 +42,7 @@ links:
   url: acido-base-tablas.pdf
 - icon_pack: fas
   icon: external-link-alt
-  name: Ejercicios
+  name: Más ejercicios
   url: https://drive.google.com/file/d/1zF1ZXnjcnoOfxCIskCZkVuQLirX01s0L/view
 
 slides: acido-base-2Bach-quimica
