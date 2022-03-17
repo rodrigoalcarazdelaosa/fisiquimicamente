@@ -14,6 +14,8 @@ banner:
 
 breadcrumbs: [""]
 
+show_breadcrumb: false
+
 cascade:
   show_breadcrumb: true
 ---
