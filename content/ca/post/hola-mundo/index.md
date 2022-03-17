@@ -22,13 +22,13 @@ Primera entrada del blog. Comença una aventura que portava molt temps (anys) am
 
 ## Qui som?
 
-[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) és creada per [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) el 2020 com un lloc web on compartir principalment [⚛️&nbsp;<span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) i [👐&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) és creada per [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) el 2020 com un lloc web on compartir principalment [⚛️&nbsp;<span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) i [🤝&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
 
 El 2021 es fa la transició cap a un lloc web més *impersonal*, millor preparat i obert per a futures col·laboracions. [Clica aquí si vols conèixer a l'**equip** que hi ha darrere]({{< ref "/equipo" >}}).
 
 ## Per què aquest blog?
 
-La nostra intenció principal amb aquest lloc web és la de proporcionar [📚&nbsp;<span style="font-variant:small-caps;">**apunts de Física i Química**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) al nostre alumnat i a qui pugui interessar-li, a més de compartir [👐&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) i recopilar [🔗&nbsp;<span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}).
+La nostra intenció principal amb aquest lloc web és la de proporcionar [📚&nbsp;<span style="font-variant:small-caps;">**apunts de Física i Química**</span>]({{< ref "/apuntes" >}}) i [🎓&nbsp;<span style="font-variant:small-caps;">**recursos PAU/PBAU**</span>]({{< ref "/ebau" >}}) al nostre alumnat i a qui pugui interessar-li, a més de compartir [🤝&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}) i recopilar [🔗&nbsp;<span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}).
 
 Creiem que un **blog** és l'afegit perfecte per a poder debatre sobre l'**actualitat** amb un contingut molt més **dinàmic**.
 

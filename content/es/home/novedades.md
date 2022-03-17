@@ -81,7 +81,7 @@ content:
       text: Cantabria 2018 Ejercicio 4 de la Opción 2
       url: 'recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o2-e4/'
   - title: 🗞️ Novedades
-    content: '👐 Último tutorial'
+    content: '🤝 Último tutorial'
     align: center
     background:
       position: center

@@ -1,5 +1,5 @@
 ---
-title: 👐 Tutoriales
+title: 🤝 Tutoriales
 
 # View.
 #   1 = List
@@ -9,8 +9,8 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 banner: 
-  image: "tutoriales-header.webp"
-  caption: "Foto adaptada de [**Alexei Scutari**](https://unsplash.com/@scutal) en [Unsplash](https://unsplash.com)"
+  image: "tutoriales-header.jpg"
+  caption: "Imagen de [**kiquebg**](https://pixabay.com/es/users/kiquebg-5133331/) en [Pixabay](https://pixabay.com/es/)"
 
 breadcrumbs: [""]
 

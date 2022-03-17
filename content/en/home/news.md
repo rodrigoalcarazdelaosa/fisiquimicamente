@@ -29,7 +29,7 @@ content:
       text: Periodic Table
       url: 'physics-chemistry-notes/15-16-year-olds/periodic-table/'
   - title: 🗞️ News
-    content: '👐 Latest Tutorial'
+    content: '🤝 Latest Tutorial'
     align: center
     background:
       position: center

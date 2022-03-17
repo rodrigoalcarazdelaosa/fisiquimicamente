@@ -1,5 +1,5 @@
 ---
-title: 👐 Tutorials
+title: 🤝 Tutorials
 url: tutorials
 
 # View.
@@ -10,8 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 banner: 
-  image: "tutoriales-header.webp"
-  caption: "Photo adapted from [**Alexei Scutari**](https://unsplash.com/@scutal) on [Unsplash](https://unsplash.com)"
+  image: "tutoriales-header.jpg"
+  caption: "Image by [**kiquebg**](https://pixabay.com/es/users/kiquebg-5133331/) on [Pixabay](https://pixabay.com/es/)"
 
 breadcrumbs: [""]
 
