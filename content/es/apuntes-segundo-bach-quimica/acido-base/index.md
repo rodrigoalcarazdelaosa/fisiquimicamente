@@ -29,13 +29,21 @@ links:
   name: Póster
   url: acido-base-poster.pdf
 - icon_pack: fas
-  icon: external-link-alt
+  icon: pencil-ruler
   name: Ejercicios
-  url: https://drive.google.com/file/d/1zF1ZXnjcnoOfxCIskCZkVuQLirX01s0L/view
+  url: acido-base-ejercicios.pdf
 - icon_pack: fas
   icon: file-download
   name: Prácticas de laboratorio
   url: acido-base-practicas.pdf
+- icon_pack: fas
+  icon: table
+  name: Tablas
+  url: acido-base-tablas.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Más ejercicios
+  url: https://drive.google.com/file/d/1zF1ZXnjcnoOfxCIskCZkVuQLirX01s0L/view
 
 slides: acido-base-2Bach-quimica
 
