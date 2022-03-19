@@ -241,23 +241,6 @@ Con la reacción ajustada se pueden realizar todo tipo de **cálculos estequiom�
 
 ---
 
-#### Equivalentes rédox
-Un **equivalente rédox** es la masa de una sustancia que reacciona con un mol de electrones.
-
----
-
-En el punto de equivalencia, el número de equivalentes de oxidante es igual al número de equivalentes de reductor:
-
-<div align="center" style="margin-bottom: 1rem">
-nº eq. oxidante = nº eq. reductor
-
-*M*<sub>o</sub>*n*<sub>o</sub>*V*<sub>o</sub> = *M*<sub>r</sub>*n*<sub>r</sub>*V*<sub>r</sub>
-</div>
-
-donde *M* es la molaridad, *n* representa la valencia iónica, que es el número de electrones intercambiados por mol, y *V* es el volumen.
-
----
-
 Para la reacción:
 
 <div align="center" style="margin-bottom: 1rem">
@@ -390,6 +373,21 @@ Una **valoración/titulación rédox** es un método de análisis químico cuant
 ---
 
 A menudo es necesario utilizar un **indicador rédox** y/o un **potenciómetro** para conocer el **punto de equivalencia**.
+
+---
+
+### Punto de equivalencia
+
+En el punto de equivalencia, el oxidante ha reaccionado con la cantidad equivalente de reductor, por lo que:
+
+<div align="center" style="margin-bottom: 1rem">
+ 
+*c*<sub>r</sub>*n*<sub>o</sub> = *c*<sub>o</sub>*n*<sub>r</sub>
+
+*c*<sub>r</sub>*M*<sub>o</sub>*V*<sub>o</sub> = *c*<sub>o</sub>*M*<sub>r</sub>*V*<sub>r</sub>
+</div>
+
+donde *n* son los moles, *c* representa los coeficientes estequiométricos, *M* es la molaridad y *V* es el volumen.
 
 ---
 
