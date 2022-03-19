@@ -168,32 +168,6 @@ $$
 
 Con la reacción ajustada se pueden realizar todo tipo de **cálculos estequiométricos**.
 
-#### Equivalentes rédox
-
-Un **equivalente rédox** es la masa de una sustancia que reacciona con un mol de electrones. En el punto de equivalencia, el número de equivalentes de oxidante es igual al número de equivalentes de reductor:
-
-<div align="center" style="margin-bottom: 1rem">
-nº eq. oxidante = nº eq. reductor
-
-*M*<sub>o</sub>*n*<sub>o</sub>*V*<sub>o</sub> = *M*<sub>r</sub>*n*<sub>r</sub>*V*<sub>r</sub>
-</div>
-
-donde *M* es la molaridad, *n* representa la valencia iónica, que es el número de electrones intercambiados por mol, y *V* es el volumen.
-
-Para la reacción:
-
-<div align="center" style="margin-bottom: 1rem">
-2 Cl<sup>–</sup> &#10230; Cl<sub>2</sub> + 2 e<sup>–</sup>,
-</div>
-
-la valencia sería 1, mientras que para la reacción del dicromato:
-
-<div align="center" style="margin-bottom: 1rem">
-Cr<sub>2</sub>O<sub>7</sub><sup>2–</sup> + 14 H<sup>+</sup> + 6 e<sup>–</sup> &#10230; 2 Cr<sup>3+</sup> + 7 H<sub>2</sub>O,
-</div>
-
-la valencia sería 6.
-
 ## Pilas galvánicas
 
 Las **pilas galvánicas** (Galvani) o voltaicas (Volta) son celdas electroquímicas en las que se genera **electricidad** a partir de una **reacción rédox espontánea**.
@@ -259,6 +233,19 @@ Una **valoración/titulación rédox** es un método de análisis químico cuant
 {{< figure src="acido-base-2Bach-quimica/volumetria-acido-base.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/quantitative-analysis-of-acids-and-bases/." lightbox="false" width="100%" >}}			
 
 A menudo es necesario utilizar un **indicador rédox** y/o un **potenciómetro** para conocer el **punto de equivalencia**.
+
+#### Punto de equivalencia
+
+En el punto de equivalencia, el oxidante ha reaccionado con la cantidad equivalente de reductor, por lo que:
+
+<div align="center" style="margin-bottom: 1rem">
+ 
+*c*<sub>r</sub>*n*<sub>o</sub> = *c*<sub>o</sub>*n*<sub>r</sub>
+
+*c*<sub>r</sub>*M*<sub>o</sub>*V*<sub>o</sub> = *c*<sub>o</sub>*M*<sub>r</sub>*V*<sub>r</sub>
+</div>
+
+donde *n* son los moles, *c* representa los coeficientes estequiométricos, *M* es la molaridad y *V* es el volumen.
 
 ### Ejemplos
 
