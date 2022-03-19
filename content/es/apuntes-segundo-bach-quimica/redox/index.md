@@ -234,7 +234,7 @@ Una **valoración/titulación rédox** es un método de análisis químico cuant
 
 A menudo es necesario utilizar un **indicador rédox** y/o un **potenciómetro** para conocer el **punto de equivalencia**.
 
-#### Punto de equivalencia
+### Punto de equivalencia
 
 En el punto de equivalencia, el oxidante ha reaccionado con la cantidad equivalente de reductor, por lo que:
 
