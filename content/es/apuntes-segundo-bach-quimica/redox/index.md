@@ -249,15 +249,15 @@ donde *n* son los moles, *c* representa los coeficientes estequiométricos, *M* 
 
 ### Ejemplos
 
-#### Iodometría
+#### Yodometría
 
 Generalmente utilizada para analizar la concentración de agentes oxidantes en muestras de agua, implica la valoración indirecta de yodo liberado por reacción con el analito.
 					
-El tiosulfato de yodo (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) suele utilizarse como agente reductor.
+El tiosulfato de sodio (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) suele utilizarse como agente reductor.
 					
 La aparición o desaparición de yodo elemental indica el punto final.
 					
-No confundir con la **iodimetría**, que es una valoración directa utilizando yodo como sustancia valorante.
+No confundir con la **yodimetría**, que es una valoración directa utilizando yodo como sustancia valorante.
 
 #### Permanganometría
 
