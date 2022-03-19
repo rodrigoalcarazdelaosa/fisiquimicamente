@@ -239,22 +239,6 @@ $$
 
 Con la reacción ajustada se pueden realizar todo tipo de **cálculos estequiométricos**.
 
----
-
-Para la reacción:
-
-<div align="center" style="margin-bottom: 1rem">
-2 Cl<sup>–</sup> &#10230; Cl<sub>2</sub> + 2 e<sup>–</sup>,
-</div>
-
-la valencia sería 1, mientras que para la reacción del dicromato:
-
-<div align="center" style="margin-bottom: 1rem">
-Cr<sub>2</sub>O<sub>7</sub><sup>2–</sup> + 14 H<sup>+</sup> + 6 e<sup>–</sup> &#10230; 2 Cr<sup>3+</sup> + 7 H<sub>2</sub>O,
-</div>
-
-la valencia sería 6.
-
 {{% /section %}}
 
 ---
