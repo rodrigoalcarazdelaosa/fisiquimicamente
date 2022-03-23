@@ -1310,7 +1310,7 @@
   </section>
 {{ end }}
 
-{/* Workaround to make Hugo's .Page.Store.Set cascade up to the parent of headless pages */}}
+{{/* Workaround to make Hugo's .Page.Store.Set cascade up to the parent of headless pages */}}
 {{ if $has_mermaid }}
   {{ .Page.Store.Set "has_mermaid" true }}
 {{ end }}
