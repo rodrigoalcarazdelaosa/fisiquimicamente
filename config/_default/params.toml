@@ -25,9 +25,6 @@ reading_time = true
 section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
-# Enable in-built social sharing buttons? (true/false)
-sharing = true
-
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
 
@@ -155,6 +152,3 @@ plugins_js  = ["footnotes"]
 
   [extensions.academicons]
     enable = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
-
-  [extensions.isotope]
-    enable = true

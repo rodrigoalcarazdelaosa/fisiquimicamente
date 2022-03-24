@@ -118,3 +118,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [sitemap]
   changefreq = 'weekly'
+
+[[cascade]]
+  share = true
