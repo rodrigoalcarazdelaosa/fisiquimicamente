@@ -72,9 +72,6 @@ plugins_js  = ["footnotes"]
   [features.math]
     enable = true
 
-  [features.diagram]
-    enable = false
-
   [features.avatar]  
     gravatar = false
     shape = "circle"
