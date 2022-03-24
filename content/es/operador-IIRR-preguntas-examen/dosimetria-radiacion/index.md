@@ -152,7 +152,7 @@ Qué tipo de radiación vamos a medir principalmente con la bioeliminación:
 
 ### Informe dosimétrico
 
-La dosis equivalente profunda evaluada con el dosímetro corporal una vez sustraída la dosis correspondiente al fondo natural normalizada al período de uso, corresponderá en un informe dosimétrico con: 
+La dosis equivalente profunda evaluada con el dosímetro corporal una vez sustraída la dosis correspondiente al fondo natural normalizada al periodo de uso, corresponderá en un informe dosimétrico con: 
 
 1. [ ] Dosis absorbida
 1. [ ] Dosis eliminada
