@@ -2,7 +2,7 @@
 title: Cantabria 2016
 url: "/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e2"
 subtitle: Ejercicio 2
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Ejercicio 2."
+summary: "Ejercicio 2."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
 authors:
 - enrique-ortega-gonzalez

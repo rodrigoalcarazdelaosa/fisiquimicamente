@@ -65,8 +65,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Cantabria 2016 Ejercicio 2
-      url: 'recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e2/'
+      text: Castilla y León 2018 Ejercicio 1 del Turno 1, 2 y 3
+      url: 'recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-e1/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de ⚗️ Química resuelto'
     align: center
