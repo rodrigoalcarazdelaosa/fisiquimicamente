@@ -48,7 +48,7 @@ Si quieres practicar a **nombrar** y **formular compuestos orgánicos** básicos
 {{% /callout %}}
 
 {{% callout note %}}
-Las **representaciones tridimensionales** son posibles gracias a [**3Dmol.js**](https://3dmol.csb.pitt.edu):
+Las **representaciones tridimensionales de moléculas** son posibles gracias a [**3Dmol.js**](https://3dmol.csb.pitt.edu):
 
 Nicholas Rego and David Koes
 

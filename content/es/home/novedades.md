@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Nanotermometría luminiscente II"
-      url: 'blog/2022/03/08/nanotermometria-luminiscente-ii/'
+      text: "Las diez tecnologías emergentes más importantes del 2021 en Química"
+      url: 'blog/2022/03/22/las-diez-tecnologias-emergentes-mas-importantes-del-2021-en-quimica/'
 ---
