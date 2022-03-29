@@ -1,5 +1,5 @@
 ---
-title: "🙏🏼 THANK YOU! 🙏🏼"
+title: "🙏 THANK YOU! 🙏"
 slug: "thank-you"
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
