@@ -23,64 +23,58 @@ El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja
 {{< tweet user="fqsaja1" id="1280438568318574592" >}}
 </div>
 
-{{% callout thanks %}}
-Gracias al [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) por facilitarme los vídeos originales.
-
-Cuando hayas visto todas las píldoras 💊💊, te invito a que **votes** cuál es tu **favorita** [aquí](https://t.co/fccA9uLua2?amp=1) 😉. ¡Gracias 🙏!
-{{% /callout %}}
-
 {{% toc %}}
 
 ## 1. Espejo de plata
-{{< vimeo 584055638 >}}
+{{< vimeo 690917401 >}}
 
 {{% callout note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=espejo-de-plata).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-espejo-de-plata).
 {{% /callout %}}
 
 ## 2. Espectros a la llama
 > Iones adecuados, metanol, llama 🔥 y... fuegos artificiales 🎆🎇.
 
-{{< vimeo 584055257 >}}
+{{< vimeo 690916797 >}}
 
 {{% callout note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-ii) y [aquí](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-espectros-a-la-llama) y [aquí](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
 {{% /callout %}}
 
 ## 3. Fuente de nitrato y cobre
 > Las reacciones químicas provocan variaciones de concentración, temperatura o presión que permiten generar vistosas fuentes ⛲.
 
-{{< vimeo 584056002 >}}
+{{< vimeo 690916224 >}}
 
 {{% callout note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=nitrato-vs-cobre).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-nitrato-vs-cobre).
 {{% /callout %}}
 
 ## 4. Lluvia de oro
 > Algunos precipitados son de una espectacularidad tal que lo convierten casi en obras de arte.
 
-{{< vimeo 584055823 >}}
+{{< vimeo 690917256 >}}
 
 {{% callout note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=lluvia-de-oro).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-lluvia-de-oro).
 {{% /callout %}}
 
 ## 5. Espectros en tubos de descarga
 > Otra búsqueda del color y de descifrar los códigos de barras escondidos en cada radiación.
 
-{{< vimeo 584055552 >}}
+{{< vimeo 690918333 >}}
 
 {{% callout note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=espectros-atomicos-i).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-espectros-atomicos).
 {{% /callout %}}
 
 ## 6. Luminiscencia
 > ¿Luciérnagas? ¿Algas? Los fenómenos luminiscentes resultan siempre de los más evocador.
 
-{{< vimeo 584055924 >}}
+{{< vimeo 690916039 >}}
 
 {{% callout note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=quimioluminiscencia).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-quimioluminiscencia).
 {{% /callout %}}
 
 ## 7. Termómetro de Galileo
@@ -95,10 +89,10 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=termometro-de-ga
 ## 8. Péndulo de Newton
 > Dispositivo conocidísimo que no por ello provoca cada año nuevos estudios igual de interesantes.
 
-{{< youtube 71Q4u_pWioE >}}
+{{< vimeo 693207953 >}}
 
 {{% callout note %}}
-Más información [aquí](http://www.fqsaja.com/?portfolio_page=pendulo-de-newton).
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-pendulo-de-newton).
 {{% /callout %}}
 
 ## 9. Siempre fuimos nómadas
@@ -113,8 +107,12 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=reflexiones-desd
 ## 10. Instantes
 > Todos esos momentos de emoción que se perdieron con la pandemia se recogen aquí en instantes de otros cursos.
 
-{{< vimeo 584055719 >}}
+{{< vimeo 690916496 >}}
 
 {{% callout note %}}
-Ahora que has visto todas las píldoras 💊💊, **vota** tu **favorita** [aquí](https://t.co/fccA9uLua2?amp=1) 😉. ¡Gracias 🙏!
+Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-instantes).
+{{% /callout %}}
+
+{{% callout note %}}
+Ahora que has visto todas las 💊💊 píldoras, **vota** tu **favorita** [aquí](https://t.co/fccA9uLua2?amp=1) 😉. ¡Gracias 🙏!
 {{% /callout %}}

@@ -1,5 +1,5 @@
 ---
-title: Science 💊💊 Pills
+title: 💊💊 Science Pills
 subtitle: 10 things you can do, study or reflect on in the classroom
 summary: 10 things you can do, study or reflect on in the classroom.
 breadcrumbs: ["blog"]
@@ -23,19 +23,15 @@ The [Department of Physics and Chemistry of IES Valle del Saja](http://www.fqsaj
 {{< tweet user="fqsaja1" id="1280438568318574592" >}}
 </div>
 
-{{% callout thanks %}}
-Thanks to the [Department of Physics and Chemistry of IES Valle del Saja](http://www.fqsaja.com) for providing me with the original videos.
-{{% /callout %}}
-
 {{% toc %}}
 
 ## 1. Silver Mirror
-{{< vimeo 584055638 >}}
+{{< vimeo 690917401 >}}
 
 ## 2. Flame Spectra
 > Suitable ions, methanol, flame 🔥 and... fireworks 🎆🎇.
 
-{{< vimeo 584055257 >}}
+{{< vimeo 690916797 >}}
 
 {{% callout note %}}
 More information [here](https://www.usgs.gov/media/images/what-minerals-produce-colors-fireworks).
@@ -44,22 +40,22 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 ## 3. Copper Nitrate Fountain
 > Chemical reactions cause variations in concentration, temperature or pressure that allow to generate bright and colorful fountains ⛲.
 
-{{< vimeo 584056002 >}}
+{{< vimeo 690916224 >}}
 
 ## 4. Golden Rain
 > Some precipitates are so spectacular that they almost turn them into works of art.
 
-{{< vimeo 584055823 >}}
+{{< vimeo 690917256 >}}
 
 ## 5. Spectra in Discharge Tubes
 > Another search for color and for deciphering the bar codes hidden in each radiation.
 
-{{< vimeo 584055552 >}}
+{{< vimeo 690918333 >}}
 
 ## 6. Luminescence
 > Fireflies? Algae? Luminescent phenomena are always the most evocative.
 
-{{< vimeo 584055924 >}}
+{{< vimeo 690916039 >}}
 
 ## 7. Galilean Thermometer
 > With a design of more than 350 years, just like that. It connects us to the essence of liquid buoyancy and expansion.
@@ -69,7 +65,7 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 ## 8. Newton's Cradle
 > A very well known device that does not prevent new studies every year that are equally interesting.
 
-{{< youtube 71Q4u_pWioE >}}
+{{< vimeo 693207953 >}}
 
 ## 9. Siempre fuimos nómadas (in Spanish)
 > Dramatizing passages of science, like the best Sagan here, is something that usually works very well with students.
@@ -79,4 +75,4 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 ## 10. Instants
 > All those moments of emotion that were lost with the pandemic are collected here in instants of other years.
 
-{{< vimeo 584055719 >}}
+{{< vimeo 690916496 >}}
