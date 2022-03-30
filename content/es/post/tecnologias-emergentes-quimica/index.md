@@ -3,7 +3,7 @@ title: Las diez tecnologías emergentes más importantes del 2021 en Química
 subtitle: Según la IUPAC
 summary: "Las diez tecnologías emergentes más importantes del 2021 en Química según la IUPAC."
 breadcrumbs: ["blog"]
-date: "2022-03-22T00:00:00Z"
+date: "2022-03-30T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
