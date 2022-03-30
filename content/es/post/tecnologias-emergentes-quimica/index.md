@@ -8,8 +8,20 @@ authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
 - blog
-- tecnologías-emergentes
 - iupac
+- blockchain
+- vida-semisintética
+- supermojabilidad
+- humus
+- ARN
+- ADN
+- sonoquímica
+- luminiscencia
+- amoniaco
+- Haber-Bosch
+- TPD
+- PROTAC
+- metabolómica
 categories:
 - Química
 image:
@@ -32,6 +44,8 @@ Nicholas Rego and David Koes
 
 Bioinformatics (2015) 31 (8): 1322–1324 https://doi.org/10.1093/bioinformatics/btu829
 {{% /callout %}}
+
+{{% toc %}}
 
 El objetivo del proyecto de la [**IUPAC**](https://es.wikipedia.org/wiki/Unión_Internacional_de_Qu%C3%ADmica_Pura_y_Aplicada) de las [**Diez Tecnologías Emergentes Más Importantes en Química**](https://iupac.org/what-we-do/top-ten/) es mostrar el valor de la Química e informar al público en general de cómo las ciencias químicas contribuyen al bienestar de la sociedad y a la sostenibilidad del Planeta Tierra. Desde 2019, el Jurado[^1] selecciona las tecnologías emergentes sobre la base de las que se encuentran entre un nuevo descubrimiento científico y una tecnología plenamente comercializada, y las que tienen la mayor capacidad de abrir nuevas oportunidades en la química y más allá.
 
