@@ -34,6 +34,10 @@ links:
   url: tabla-periodica-elementos-configuraciones-electronicas.pdf
 - icon_pack: fas
   icon: file-download
+  name: Versión números de oxidación
+  url: tabla-periodica-elementos-numeros-oxidacion.pdf  
+- icon_pack: fas
+  icon: file-download
   name: Cómic
   url: https://150tpuscsic.wixsite.com/150tp/comic
 ---

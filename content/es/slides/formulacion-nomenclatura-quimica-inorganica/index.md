@@ -56,7 +56,7 @@ En el caso de **compuestos iónicos**, podemos también utilizar los **números 
 
 ---
 
-{{< figure library="true" src="formulacion-nomenclatura-quimica-inorganica/tabla-periodica-elementos.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/inorganica/tabla-periodica-elementos.pdf)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="formulacion-nomenclatura-quimica-inorganica/tabla-periodica-elementos.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-numeros-oxidacion.pdf)." lightbox="false" width="100%" >}}
 
 ---
 
