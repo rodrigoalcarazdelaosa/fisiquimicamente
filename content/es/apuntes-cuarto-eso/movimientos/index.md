@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/4eso/movimientos"
 subtitle: MRU, MRUA y MCU
 summary: MRU, MRUA y MCU.
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - apuntes
 - 4º ESO
@@ -23,7 +26,11 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Póster
-  url: movimientos-poster.pdf  
+  url: movimientos-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios gráficas
+  url: cinematica-graficas-ejercicios.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
