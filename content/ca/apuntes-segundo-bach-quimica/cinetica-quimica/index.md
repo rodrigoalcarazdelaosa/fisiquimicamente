@@ -107,6 +107,7 @@ Definim la **vida mitjana** o **període de semireacció**, $t_{1/2}$, com el te
 
 | Ordre | 0 | 1 | 2 | 3 |
 | :---: | :---: | :---: | :---: | :---: |
+| Integració | &nbsp; &nbsp; $[\mathrm A] = [\mathrm A]_0 - kt$ &nbsp; &nbsp; | $[\mathrm A] = [\mathrm A]_0 \cdot \mathrm e^{-kt}$ | &nbsp; &nbsp; $\displaystyle [\mathrm A] = \frac{[\mathrm A]_0}{1+[\mathrm A]_0 kt}$ &nbsp; &nbsp; | &nbsp; &nbsp; $\displaystyle [\mathrm A] = \frac{[\mathrm A]_0}{\sqrt{1+2[\mathrm A]_0^2 kt}}$ |
 | $t_{1/2}$ | $\displaystyle \frac{[\mathrm A]_0}{2k}$ | $\displaystyle \frac{\ln 2}{k}$ | $\displaystyle \frac{1}{k[A]_0}$ | $\displaystyle \frac{3}{2k[A]_0^2}$
 
 ## Factors que influeixen en la velocitat de reacció
