@@ -11,7 +11,7 @@ cta:
   icon: compass
 cta_alt:
   label: Últims apunts ➡️
-  url: "recursos-fisica-quimica/apunts/2batx/quimica/equilibri-quimic/"
+  url: "recursos-fisica-quimica/apunts/2batx/quimica/cinetica-quimica/"
 cta_note:
   label:
 design:

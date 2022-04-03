@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Equilibri químic
-      url: 'recursos-fisica-quimica/apunts/2batx/quimica/equilibri-quimic/'
+      text: Cinètica química
+      url: 'recursos-fisica-quimica/apunts/2batx/quimica/cinetica-quimica/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
     align: center
