@@ -36,7 +36,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Conceptos previos
 
-- [Números de oxidación/carga](#/2/1)
+- [Estados de oxidación](#/2/1)
 - [Secuencia de los elementos](#/2/4)
 - [Sistemas de nomenclatura IUPAC 2005](#/2/5)
 - [Otras nomenclaturas](#/2/15)
@@ -47,16 +47,16 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
-### Números de oxidación/carga
-Los **números de oxidación** (números romanos) están relacionados con la **capacidad** de un determinado **elemento** para **ceder** (nº oxidación **positivo**) o **captar electrones** (nº oxidación **negativo**).
+### Estados de oxidación
+Los **estados de oxidación** (EO), o números de oxidación, describen el **grado de oxidación** de un **átomo** en un **compuesto químico**.
 
 ---
 
-En el caso de **compuestos iónicos**, podemos también utilizar los **números de carga** (números arábigos seguidos de un signo).
+Están relacionados con la **capacidad** de un determinado **elemento** para **ceder** (EO **positivo**) o **captar electrones** (EO **negativo**).
 
 ---
 
-{{< figure library="true" src="formulacion-nomenclatura-quimica-inorganica/tabla-periodica-elementos.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-numeros-oxidacion.pdf)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="formulacion-nomenclatura-quimica-inorganica/tabla-periodica-elementos-estados-oxidacion.svg" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-estados-oxidacion.pdf)." lightbox="false" width="100%" >}}
 
 ---
 

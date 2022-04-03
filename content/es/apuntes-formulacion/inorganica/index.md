@@ -36,10 +36,8 @@ slides: formulacion-nomenclatura-quimica-inorganica
 
 {{% toc %}}
 
-## Números de oxidación/carga
-Los **números de oxidación** (números romanos) están relacionados con la **capacidad** de un determinado **elemento** para **ceder** (nº oxidación **positivo**) o **captar electrones** (nº oxidación **negativo**).
-
-En el caso de **compuestos iónicos**, podemos también utilizar los **números de carga** (números arábigos seguidos de un signo).
+## Estados de oxidación
+Los **estados de oxidación** (EO), o números de oxidación, describen el **grado de oxidación** de un **átomo** en un **compuesto químico**. Están relacionados con la **capacidad** de un determinado **elemento** para **ceder** (EO **positivo**) o **captar electrones** (EO **negativo**).
 
 <div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>

@@ -34,8 +34,8 @@ links:
   url: tabla-periodica-elementos-configuraciones-electronicas.pdf
 - icon_pack: fas
   icon: file-download
-  name: Versión números de oxidación
-  url: tabla-periodica-elementos-numeros-oxidacion.pdf  
+  name: Versión estados de oxidación
+  url: tabla-periodica-elementos-estados-oxidacion.pdf  
 - icon_pack: fas
   icon: file-download
   name: Cómic
