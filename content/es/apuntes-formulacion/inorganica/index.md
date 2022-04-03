@@ -45,8 +45,8 @@ Los **estados de oxidación** (EO), o números de oxidación, describen el **gra
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-numeros-oxidacion.pdf"}},
-			metaData:{fileName: "tabla-periodica-elementos-numeros-oxidacion.pdf"}
+			content:{location: {url: "https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-estados-oxidacion.pdf"}},
+			metaData:{fileName: "tabla-periodica-elementos-estados-oxidacion.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
