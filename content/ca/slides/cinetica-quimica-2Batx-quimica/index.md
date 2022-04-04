@@ -16,7 +16,7 @@ slides:
 
 # Cinètica química
 
-- [Teoríes de reaccions químiques](#/2)
+- [Teories de reaccions químiques](#/2)
 - [Mecanismes de reacció](#/3)
 - [Velocitat de reacció](#/4)
 - [Equacions cinètiques](#/5)
@@ -234,7 +234,7 @@ Quan els reactius estan en estats diferents, la reacció només pot ocórrer en 
 
 ---
 
-ixò significa que **com més finament dividit** estigui un **reactiu** sòlid o líquid, **major** serà la seva **àrea** de **superfície** per unitat de volum i **major** serà el **contacte** amb l'altre reactiu, per la qual cosa la **reacció** serà **més ràpida**.
+Això significa que **com més finament dividit** estigui un **reactiu** sòlid o líquid, **major** serà la seva **àrea** de **superfície** per unitat de volum i **major** serà el **contacte** amb l'altre reactiu, per la qual cosa la **reacció** serà **més ràpida**.
 
 $$				
 v_\text{gas} > 	v_\text{líquid} > v_\text{sòlid}
