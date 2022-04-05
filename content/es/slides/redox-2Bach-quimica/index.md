@@ -263,7 +263,7 @@ Inventada por John Frederick Daniell en 1836, consiste en dos electrodos de zinc
 
 #### Puente salino
 
-Un **puente salino** es un dispositivo de laboratorio que se utiliza para conectar las semiceldas de oxidación y reducción de una celda galvánica. Mantiene la neutralidad eléctrica dentro del circuito interno.
+Un **puente salino** es un dispositivo de laboratorio que se utiliza para conectar las semiceldas de oxidación y reducción de una celda galvánica, cerrando así el circuito y manteniendo la electroneutralidad de las disoluciones.
 
 ---
 
@@ -271,11 +271,11 @@ Si no hubiera puente salino, la disolución de una semicelda acumularía carga n
 
 ---
 
-Existen principalmente dos tipos de puente salinos: tubo de vidrio (forma de U) y papel de filtro, en los que se utilizan electrolitos relativamente débiles, como combinaciones de iones potasio o amonio y cloruro o nitrato.
+Existen principalmente dos tipos de puentes salinos: tubo de vidrio (forma de U) y papel de filtro, en los que se utilizan electrolitos relativamente débiles (sales inertes solubles), como combinaciones de iones potasio o amonio y cloruro o nitrato.
 
 ---
 
-{{< figure src="redox-2Bach-quimica/pila-daniell.svg" title="Zn(s) | Zn<sup>2+</sup> (1 M) || Cu<sup>2+</sup> (1 M) | Cu(s)." lightbox="false" width="80%" >}}
+{{< figure src="redox-2Bach-quimica/pila-daniell.svg" title="Zn(s) | Zn<sup>2+</sup> (1 M) || Cu<sup>2+</sup> (1 M) | Cu(s)" lightbox="false" width="80%" >}}
 
 {{% /section %}}
 
@@ -434,7 +434,7 @@ MnO<sub>4</sub><sup>–</sup> + e<sup>–</sup> &#10230; MnO<sub>4</sub><sup>2�
 
 ## Electrolisis
 
-La **electrolisis** es una técnica que utiliza corriente eléctrica continua (CC) para impulsar una reacción química no espontánea, separando una sustancia disuelta en sus iones.
+La **electrolisis** es una técnica que utiliza corriente eléctrica continua (CC) para impulsar una reacción química no espontánea.
 
 (continúa hacia abajo)
 
@@ -459,7 +459,7 @@ La **electrolisis** es una técnica que utiliza corriente eléctrica continua (C
 
 ---
 
-- Además, en una cuba electrolítica los dos electrodos están sumergidos en un único electrolito fundido, en vez de estar separados por un puente salino.
+- Además, en una cuba electrolítica los dos electrodos o bien están sumergidos en una disolución del ion del oxidante (por ejemplo, cuando se dan baños metálicos por [electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)) o bien en la disolución del electrolito fundido (como en la electrolisis del NaCl); en lugar de estar separados por un puente salino o por una membrana semipermeable, como es el caso de las pilas.
 
 ---
 
@@ -615,7 +615,7 @@ Proceso electrolítico de *pasivación* que se utiliza para aumentar el grosor d
 		
 #### Galvanoplastia
 
-Es la aplicación tecnológica de la deposición de metales mediante electricidad (electrodeposición), formando un recubrimiento protector, típicamente de zinc sobre hierro o acero (aleación de Fe y C).
+Es la aplicación tecnológica de la deposición de metales mediante electricidad ([electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)), formando un recubrimiento protector, típicamente de zinc sobre hierro o acero (aleación de Fe y C).
 
 ---
 
