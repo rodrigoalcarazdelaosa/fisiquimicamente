@@ -30,6 +30,10 @@ links:
   icon: external-link-alt
   name: Guía IUPAC
   url: https://iupac.org/wp-content/uploads/2016/07/20151106GuiaBreveNQIEspayol.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1ujM1yemLauwmGZMgBjF5mciEySM5PLw1/view
 
 slides: formulacion-nomenclatura-quimica-inorganica
 ---
