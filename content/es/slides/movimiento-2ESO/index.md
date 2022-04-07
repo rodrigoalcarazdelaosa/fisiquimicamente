@@ -16,14 +16,18 @@ slides:
 
 # El movimiento
 
-- [Definiciones](#/1)
-- [Concepto de velocidad](#/2)
-- [Movimiento rectilíneo uniforme (MRU)](#/3)
-- [Concepto de aceleración](#/4)
-- [Gráficas](#/5)
-- [Encuentros](#/6)
+- [Definiciones](#/2)
+- [Concepto de velocidad](#/3)
+- [Movimiento rectilíneo uniforme (MRU)](#/4)
+- [Concepto de aceleración](#/5)
+- [Gráficas](#/6)
+- [Encuentros](#/7)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+
+---
+
+> **Trabaja** los **contenidos** de este **tema** viviendo una auténtica **aventura** de **piratas** con [esta genial **actividad**]({{< relref "/actividades-segundo-tercero-eso/burla-mares" >}}). También te recomendamos esta magnífica [**Escape Room Digital Educativa**](https://fpdual2017.wixsite.com/alquifi).
 
 ---
 
@@ -31,11 +35,11 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Definiciones
 
-- [Sistema de referencia](#/1/1)
-- [Posición](#/1/2)
-- [Trayectoria](#/1/3)
-- [Espacio recorrido](#/1/4)
-- [Desplazamiento](#/1/5)
+- [Sistema de referencia](#/2/1)
+- [Posición](#/2/2)
+- [Trayectoria](#/2/3)
+- [Espacio recorrido](#/2/4)
+- [Desplazamiento](#/2/5)
 
 (continúa hacia abajo)
 
@@ -80,8 +84,8 @@ La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **de
 
 ## Concepto de velocidad
 
-- [Velocidad media](#/2/1)
-- [Velocidad instantánea](#/2/2)
+- [Velocidad media](#/3/1)
+- [Velocidad instantánea](#/3/2)
 
 (continúa hacia abajo)
 
@@ -108,8 +112,8 @@ Es la velocidad que tiene un móvil en un determinado instante de tiempo. Se pue
 {{% section %}}
 
 ## Movimiento rectilíneo uniforme (MRU)
-- [Características](#/3/1)
-- [Ecuación principal](#/3/2)
+- [Características](#/4/1)
+- [Ecuación principal](#/4/2)
 
 (continúa hacia abajo)
 
@@ -207,8 +211,8 @@ v = 0 + 7.86\thinspace\mathrm{m/s^2}\cdot 5\thinspace\mathrm s &= 39.3\thinspace
 {{% section %}}
 
 ## Gráficas
-- [Movimiento uniforme](#/5/1)
-- [Movimiento acelerado](#/5/2)
+- [Movimiento uniforme](#/6/1)
+- [Movimiento acelerado](#/6/2)
 
 (continúa hacia abajo)
 
@@ -322,11 +326,12 @@ donde se ve claramente cómo el coche y la moto se encuentran para $t^* = 1.25\t
 b) Para calcular la **distancia recorrida** por cada uno de ellos, sustituimos el tiempo de encuentro, $t^*=1.25\thinspace\mathrm{h}$, en las ecuaciones de posición del coche y de la moto, teniendo en cuenta las posiciones iniciales de cada uno de ellos:
 
 \begin{align*}
-\Delta x_\mathrm c (t^*) &= x_\mathrm c (t^*) - x_{0_\mathrm c} = 70\cdot 1.25 = 87.5\thinspace\mathrm{km} \\\\
-\Delta x_\mathrm m (t^*) &= x_\mathrm m (t^*) - x_{0_\mathrm m} = 200-90\cdot 1.25 - 200 \\\\
-&= -112.5\thinspace\mathrm{km}
+\Delta x_\mathrm c (t^\*) &= x_\mathrm c (t^\*) - x_{0_\mathrm c} \\\\
+&= 70\cdot 1.25 = 87.5\thinspace\mathrm{km} \\\\
+\Delta x_\mathrm m (t^\*) &= x_\mathrm m (t^\*) - x_{0_\mathrm m} \\\\
+ &= 200-90\cdot 1.25 - 200 = -112.5\thinspace\mathrm{km}
 \end{align*}
 
-donde el signo $-$ indica que la moto ha recorrido esa distancia hacia la izquierda.
+donde el signo – indica que la moto ha recorrido esa distancia hacia la izquierda.
 
 {{% /section %}}

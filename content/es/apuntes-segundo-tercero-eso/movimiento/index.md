@@ -35,8 +35,8 @@ slides: movimiento-2ESO
 
 {{% toc %}}
 
-{{% callout pirates %}}
-**Trabaja** los **contenidos** de este **tema** viviendo una auténtica **aventura** de **piratas** con [esta genial **actividad**]({{< relref "/actividades-segundo-tercero-eso/burla-mares" >}}).
+{{% callout note %}}
+**Trabaja** los **contenidos** de este **tema** viviendo una auténtica **aventura** de **piratas** con [esta genial **actividad**]({{< relref "/actividades-segundo-tercero-eso/burla-mares" >}}). También te recomendamos esta magnífica [**Escape Room Digital Educativa**](https://fpdual2017.wixsite.com/alquifi).
 {{% /callout %}}
 
 ## Definiciones
@@ -223,12 +223,12 @@ donde se ve claramente cómo el coche y la moto se encuentran para $t^* = 1.25\t
 b) Para calcular la **distancia recorrida** por cada uno de ellos, sustituimos el tiempo de encuentro, $t^*=1.25\thinspace\mathrm{h}$, en las ecuaciones de posición del coche y de la moto, teniendo en cuenta las posiciones iniciales de cada uno de ellos:
 
 \begin{align*}
-\Delta x_\mathrm c (t^*) &= x_\mathrm c (t^*) - x_{0_\mathrm c} \\\\
+\Delta x_\mathrm c (t^\*) &= x_\mathrm c (t^\*) - x_{0_\mathrm c} \\\\
 &= 70\cdot 1.25 = 87.5\thinspace\mathrm{km} \\\\
-\Delta x_\mathrm m (t^*) &= x_\mathrm m (t^*) - x_{0_\mathrm m} \\\\
+\Delta x_\mathrm m (t^\*) &= x_\mathrm m (t^\*) - x_{0_\mathrm m} \\\\
  &= 200-90\cdot 1.25 - 200 = -112.5\thinspace\mathrm{km}
 \end{align*}
 
-donde el signo $-$ indica que la moto ha recorrido esa distancia hacia la izquierda.
+donde el signo – indica que la moto ha recorrido esa distancia hacia la izquierda.
   
 {{% /callout %}}
