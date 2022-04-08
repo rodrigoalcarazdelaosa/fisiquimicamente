@@ -72,7 +72,7 @@ Este es solo un ejemplo de cientos sobre el color del animal como representante 
 
 Entonces, ¿qué pigmento colorea a los mandriles de forma tan llamativa? ¡Ninguno! El color lo genera un conjunto periódico de fibras de 100&thinsp;nm (1&thinsp;mm / 10&thinsp;000).
 
-{{< figure src="piel-mandril.jpg" title="[Micrografías electrónicas de transmisión](https://es.wikipedia.org/wiki/Microscopio_electrónico_de_transmisión) de conjuntos de [colágeno](https://es.wikipedia.org/wiki/Colágeno) de la piel de mamíferos coloreada estructuralmente. Fuente: https://journals.biologists.com/jeb/article/207/12/2157/14800/Structural-colouration-of-mammalian-skin." lightbox="true" >}}
+{{< figure src="piel-mandril.jpg" title="[Micrografías electrónicas de transmisión](https://es.wikipedia.org/wiki/Microscopio_electrónico_de_transmisión) de conjuntos de [colágeno](https://es.wikipedia.org/wiki/Colágeno) de la piel de mandriles coloreada estructuralmente. Fuente: https://journals.biologists.com/jeb/article/207/12/2157/14800/Structural-colouration-of-mammalian-skin." lightbox="true" >}}
 
 Este es un ejemplo del **color estructural** en la naturaleza. En otro artículo veremos más sobre el interesante campo de los [**cristales fotónicos**](https://es.wikipedia.org/wiki/Cristal_fotónico). Por ahora nos quedamos con que algunos animales consiguen colores llamativos debido a estructuras periódicas en su piel a escalas muy pequeñas en lugar de debido a pigmentos.
 
