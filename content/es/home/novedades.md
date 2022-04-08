@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "¿Qué determina el color de un ser vivo?"
-      url: 'blog/2022/04/07/que-determina-el-color-de-un-ser-vivo/'
+      text: "Frenesí de la Física: la batalla de las ecuaciones"
+      url: 'blog/2022/04/09/frenesi-de-la-fisica-la-batalla-de-las-ecuaciones/'
 ---
