@@ -33,7 +33,7 @@ links:
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
 
-<!-- https://twitter.com/phetsims/status/1454135524331905028?s=21 -->
+<!-- https://twitter.com/PhETsims/status/1512132655990525968 -->
 
 <!-- https://animagraffs.com/human-eye/ -->
 

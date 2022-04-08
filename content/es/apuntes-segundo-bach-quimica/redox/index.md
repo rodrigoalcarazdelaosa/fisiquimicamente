@@ -178,9 +178,9 @@ Inventada por John Frederick Daniell en 1836, consiste en dos electrodos de zinc
 
 {{< spoiler text="Pincha aquí para conocer mejor las **funciones** del **puente salino**" >}}
 
-Un **puente salino** es un dispositivo de laboratorio que se utiliza para conectar las semiceldas de oxidación y reducción de una celda galvánica. Mantiene la neutralidad eléctrica dentro del circuito interno. Si no hubiera puente salino, la disolución de una semicelda acumularía carga negativa y la disolución de la otra semicelda acumularía carga positiva a medida que se produjera la reacción, lo que impediría rápidamente que se produjera una nueva reacción y, por tanto, la producción de electricidad.
+Un **puente salino** es un dispositivo de laboratorio que se utiliza para conectar las semiceldas de oxidación y reducción de una celda galvánica, cerrando así el circuito y manteniendo la electroneutralidad de las disoluciones. Si no hubiera puente salino, la disolución de una semicelda acumularía carga negativa y la disolución de la otra semicelda acumularía carga positiva a medida que se produjera la reacción, lo que impediría rápidamente que se produjera una nueva reacción y, por tanto, la producción de electricidad.
 
-Existen principalmente dos tipos de puente salinos: tubo de vidrio (forma de U) y papel de filtro, en los que se utilizan electrolitos relativamente débiles, como combinaciones de iones potasio o amonio y cloruro o nitrato.
+Existen principalmente dos tipos de puentes salinos: tubo de vidrio (forma de U) y papel de filtro, en los que se utilizan electrolitos relativamente débiles (sales inertes solubles), como combinaciones de iones potasio o amonio y cloruro o nitrato.
 
 {{< /spoiler >}}
 
@@ -279,13 +279,13 @@ MnO<sub>4</sub><sup>–</sup> + e<sup>–</sup> &#10230; MnO<sub>4</sub><sup>2�
 
 ## Electrolisis
 
-La **electrolisis** es una técnica que utiliza corriente eléctrica continua (CC) para impulsar una reacción química no espontánea, separando una sustancia disuelta en sus iones.
+La **electrolisis** es una técnica que utiliza corriente eléctrica continua (CC) para impulsar una reacción química no espontánea.
 
 ### Celda (o cuba) electrolítica vs. celda galvánica
 
 - En una **celda electrolítica**, igual que en una celda galvánica, la reducción tiene lugar en el cátodo, y la oxidación en el ánodo. Sin embargo, debido a que el flujo de electrones está invertido, la polaridad de los electrodos está también invertida, por lo que el **ánodo** es **positivo** y el **cátodo negativo**.
 - El potencial de la celda es positivo en la pila, negativo en la cuba.
-- Además, en una cuba electrolítica los dos electrodos están sumergidos en un único electrolito fundido, en vez de estar separados por un puente salino.
+- Además, en una cuba electrolítica los dos electrodos o bien están sumergidos en una disolución del ion del oxidante (por ejemplo, cuando se dan baños metálicos por [electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)) o bien en la disolución del electrolito fundido (como en la electrolisis del NaCl); en lugar de estar separados por un puente salino o por una membrana semipermeable, como es el caso de las pilas.
 
 ### Leyes de Faraday
 
@@ -371,6 +371,6 @@ Proceso electrolítico de *pasivación* que se utiliza para aumentar el grosor d
 		
 #### Galvanoplastia
 
-Es la aplicación tecnológica de la deposición de metales mediante electricidad (electrodeposición), formando un recubrimiento protector, típicamente de zinc sobre hierro o acero (aleación de Fe y C).
+Es la aplicación tecnológica de la deposición de metales mediante electricidad ([electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)), formando un recubrimiento protector, típicamente de zinc sobre hierro o acero (aleación de Fe y C).
 
 {{< figure src="redox-2Bach-quimica/galvanizacion.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/corrosion/." lightbox="false" width="100%" >}}

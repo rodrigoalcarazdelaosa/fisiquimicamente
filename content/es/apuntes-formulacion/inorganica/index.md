@@ -30,16 +30,18 @@ links:
   icon: external-link-alt
   name: Guía IUPAC
   url: https://iupac.org/wp-content/uploads/2016/07/20151106GuiaBreveNQIEspayol.pdf
+- icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/1ujM1yemLauwmGZMgBjF5mciEySM5PLw1/view
 
 slides: formulacion-nomenclatura-quimica-inorganica
 ---
 
 {{% toc %}}
 
-## Números de oxidación/carga
-Los **números de oxidación** (números romanos) están relacionados con la **capacidad** de un determinado **elemento** para **ceder** (nº oxidación **positivo**) o **captar electrones** (nº oxidación **negativo**).
-
-En el caso de **compuestos iónicos**, podemos también utilizar los **números de carga** (números arábigos seguidos de un signo).
+## Estados de oxidación
+Los **estados de oxidación** (EO), o números de oxidación, describen el **grado de oxidación** de un **átomo** en un **compuesto químico**. Están relacionados con la **capacidad** de un determinado **elemento** para **ceder** (EO **positivo**) o **captar electrones** (EO **negativo**).
 
 <div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
@@ -47,8 +49,8 @@ En el caso de **compuestos iónicos**, podemos también utilizar los **números 
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-numeros-oxidacion.pdf"}},
-			metaData:{fileName: "tabla-periodica-elementos-numeros-oxidacion.pdf"}
+			content:{location: {url: "https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-estados-oxidacion.pdf"}},
+			metaData:{fileName: "tabla-periodica-elementos-estados-oxidacion.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
