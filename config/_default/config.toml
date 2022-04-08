@@ -117,7 +117,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   _merge = 'deep'
 
 [sitemap]
-  changefreq = 'weekly'
+  _merge = 'deep'
 
 [[cascade]]
   share = true
