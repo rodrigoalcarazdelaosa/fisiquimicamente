@@ -14,6 +14,8 @@ slides:
     hash: true
 ---
 
+<section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="150px" data-background-position="3.629% 5%, 96.371% 5%">
+
 # Cinètica química
 
 - [Teories de reaccions químiques](#/2)
@@ -23,6 +25,8 @@ slides:
 - [Factors que influeixen en la velocitat de reacció](#/6)
 
 Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+
+</section>
 
 ---
 

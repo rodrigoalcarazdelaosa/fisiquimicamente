@@ -14,6 +14,8 @@ slides:
     hash: true
 ---
 
+<section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="150px" data-background-position="3.629% 5%, 96.371% 5%">
+
 # Equilibri químic
 
 - [Llei d'acció de masses](#/3)
@@ -27,6 +29,8 @@ slides:
 - [Exemple](#/11)
 
 Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+
+</section>
 
 ---
 

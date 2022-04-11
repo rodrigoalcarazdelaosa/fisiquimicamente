@@ -14,6 +14,8 @@ slides:
     hash: true
 ---
 
+<section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="150px" data-background-position="3.629% 5%, 96.371% 5%">
+
 # Fluidos
 
 - [Concepto de presión](#/1)
@@ -22,6 +24,8 @@ slides:
 - [Cortometraje-documental](#/4)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+
+</section>
 
 ---
 

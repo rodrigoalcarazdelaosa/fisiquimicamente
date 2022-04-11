@@ -14,6 +14,8 @@ slides:
     hash: true
 ---
 
+<section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="150px" data-background-position="3.629% 5%, 96.371% 5%">
+
 # Sistema periòdic
 
 - [Taula periòdica i configuració electrònica](#/1)
@@ -21,6 +23,8 @@ slides:
 - [Propietats periòdiques](#/3)
 
 Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+
+</section>
 
 ---
 

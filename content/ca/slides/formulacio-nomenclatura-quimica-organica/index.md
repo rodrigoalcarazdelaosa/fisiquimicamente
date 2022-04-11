@@ -14,11 +14,15 @@ slides:
     hash: true
 ---
 
+<section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="150px" data-background-position="3.629% 5%, 96.371% 5%">
+
 <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
 
 # Formulació i nomenclatura de Química Orgànica
 
 Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+
+</section>
 
 ---
 
