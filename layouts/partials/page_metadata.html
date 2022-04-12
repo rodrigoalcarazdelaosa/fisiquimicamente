@@ -59,7 +59,7 @@
   <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-folder mr-1"></i>     -->
-    📁&nbsp; {{- range $index, $value := ($page.GetTerms $taxonomy) -}}
+    📁&nbsp; {{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- end -}}
@@ -71,7 +71,7 @@
   <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-tags mr-1"></i>     -->
-    🏷️&nbsp; {{- range $index, $value := ($page.GetTerms $taxonomy) -}}
+    🏷️&nbsp; {{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- end -}}
