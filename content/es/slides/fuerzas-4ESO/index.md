@@ -14,7 +14,7 @@ slides:
     hash: true
 ---
 
-<section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="150px" data-background-position="3.629% 5%, 96.371% 5%">
+<section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="10%" data-background-position="3.629% 5%, 96.371% 5%">
 
 # Fuerzas
 
