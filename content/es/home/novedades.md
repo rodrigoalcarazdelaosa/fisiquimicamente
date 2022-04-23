@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Frenesí de la Física: la batalla de las ecuaciones"
-      url: 'blog/2022/04/09/frenesi-de-la-fisica-la-batalla-de-las-ecuaciones/'
+      text: "Gastrofísica"
+      url: 'blog/2022/04/23/gastrofisica/'
 ---
