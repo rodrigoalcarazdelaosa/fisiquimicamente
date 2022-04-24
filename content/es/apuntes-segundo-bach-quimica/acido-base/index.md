@@ -133,7 +133,7 @@ Es una medida de la **fuerza** de un **ácido/base** en disolución:
 
 El **agua** es una sustancia **anfiprótica** (puede tanto donar como aceptar un protón H<sup>+</sup>), lo que le permite actuar tanto como ácido o como base (**anfoterismo**). El **equilibrio iónico del agua** hace referencia a la reacción química en la que dos moléculas de agua reaccionan para producir un ion **oxonio** (H<sub>3</sub>O<sup>+</sup>) y un ion **hidróxido** (OH<sup>&ndash;</sup>):
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Autoionizacion-agua.gif" title="$\mathrm{H_2O} + \mathrm{H_2O} &#8652; \mathrm{H_3O^+} + \mathrm{OH^-}$. <br> Fuente: https://commons.wikimedia.org/wiki/File:Autoionizacion-agua.gif" lightbox="false" width="100%" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Autoionizacion-agua.gif" title="$\mathrm{H_2O} + \mathrm{H_2O} &#8652; \mathrm{H_3O^+} + \mathrm{OH^-}$. <br> Fuente: https://commons.wikimedia.org/wiki/File:Autoionizacion-agua.gif" lightbox="true" >}}
 
 La constante de equilibrio, denominada **producto iónico del agua**, y denotada por $K_\mathrm w$, puede aproximarse por el producto:
 

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   viewBox="0 0 375.37 305.25851"
+   version="1.1"
+   sodipodi:docname="tension-superficial.svg"
+   width="375.37"
+   height="305.25851"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview944"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.137967"
+     inkscape:cx="184.53961"
+     inkscape:cy="148.51045"
+     inkscape:window-width="1280"
+     inkscape:window-height="800"
+     inkscape:window-x="1920"
+     inkscape:window-y="213"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs826">
+    <style
+       id="style824">.cls-1{fill:#67b8ff;stroke:#597cc8;stroke-linejoin:round;stroke-width:16.4px;}.cls-2,.cls-4{fill:none;stroke-miterlimit:10;stroke-width:2px;}.cls-2{stroke:red;}.cls-3{fill:red;}.cls-4{stroke:#000;}</style>
+  </defs>
+  <title
+     id="title828">Tension</title>
+  <path
+     id="rect2384"
+     class="cls-1"
+     d="m 9.0499981,305.23153 -0.85,-258.260004 C 126.01,-4.9584739 247.53,-4.9684739 366.86,47.841526 l 0.31,257.390004" />
+  <g
+     id="use3214"
+     transform="translate(36.919998,-43.768474)">
+    <path
+       id="path3177"
+       d="m 91.81,57.55 a 8.49,8.49 0 1 1 -8.69,-8.27 8.49,8.49 0 0 1 8.69,8.27 z" />
+  </g>
+  <line
+     class="cls-2"
+     x1="78.829994"
+     y1="22.391529"
+     x2="102.56"
+     y2="16.961525"
+     id="line833" />
+  <polygon
+     class="cls-3"
+     points="42.94,65.92 45.73,56.95 28.14,69.31 49.35,72.8 "
+     id="polygon835"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-2"
+     x1="138.08"
+     y1="10.291528"
+     x2="162.37999"
+     y2="8.7315264"
+     id="line837" />
+  <polygon
+     class="cls-3"
+     points="124.41,52.57 119.17,44.76 139.55,51.59 120.22,60.99 "
+     id="polygon839"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="134.95"
+     y1="26.281528"
+     x2="153.01999"
+     y2="42.601528"
+     id="line841" />
+  <polygon
+     points="115.31,85.66 117.26,76.46 126.58,95.83 106.36,88.53 "
+     id="polygon843"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="121.24"
+     y1="31.051525"
+     x2="121.24"
+     y2="55.401524"
+     id="line845" />
+  <polygon
+     points="84.32,98.11 92.44,93.39 84.32,113.29 76.19,93.39 "
+     id="polygon847"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="108.12"
+     y1="28.351528"
+     x2="93.989998"
+     y2="48.171528"
+     id="line849" />
+  <polygon
+     points="57.68,91.08 67.04,91.96 48.87,103.44 53.8,82.52 "
+     id="polygon851"
+     transform="translate(36.919998,-43.768474)" />
+  <g
+     id="use3214-2"
+     data-name="use3214"
+     transform="translate(36.919998,-43.768474)">
+    <path
+       id="path3177-2"
+       data-name="path3177"
+       d="m 99.37,214.72 a 8.49,8.49 0 1 1 -8.57,-8.4 8.49,8.49 0 0 1 8.57,8.4 z" />
+  </g>
+  <line
+     class="cls-4"
+     x1="86"
+     y1="171.18152"
+     x2="110.34"
+     y2="171.18152"
+     id="line855" />
+  <polygon
+     points="50.14,214.95 54.86,206.82 34.96,214.95 54.86,223.08 "
+     id="polygon857"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="145.67999"
+     y1="170.92152"
+     x2="170.02"
+     y2="171.27151"
+     id="line859" />
+  <polygon
+     points="132.05,215.02 127.44,206.83 147.22,215.24 127.21,223.09 "
+     id="polygon861"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="142.22"
+     y1="184.62152"
+     x2="160.04999"
+     y2="201.20152"
+     id="line863" />
+  <polygon
+     points="122.35,244.25 124.43,235.08 133.47,254.59 113.36,246.99 "
+     id="polygon865"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="128.39"
+     y1="188.11153"
+     x2="128.03999"
+     y2="212.45152"
+     id="line867" />
+  <polygon
+     points="91.14,255.17 99.33,250.56 90.92,270.34 83.07,250.33 "
+     id="polygon869"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="114.36"
+     y1="185.13152"
+     x2="99.949997"
+     y2="204.75153"
+     id="line871" />
+  <polygon
+     points="63.65,247.67 73,248.68 54.66,259.9 59.9,239.05 "
+     id="polygon873"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="114.2"
+     y1="158.16151"
+     x2="96.369995"
+     y2="141.58153"
+     id="line875" />
+  <polygon
+     points="60.23,186.07 58.15,195.24 49.11,175.74 69.22,183.33 "
+     id="polygon877"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="128.03"
+     y1="154.67152"
+     x2="128.37999"
+     y2="130.33153"
+     id="line879" />
+  <polygon
+     points="91.44,175.16 83.25,179.76 91.66,159.98 99.51,180 "
+     id="polygon881"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="144.06"
+     y1="158.65152"
+     x2="158.47"
+     y2="139.03152"
+     id="line883" />
+  <polygon
+     points="120.93,183.65 111.58,182.65 129.92,171.42 124.69,192.27 "
+     id="polygon885"
+     transform="translate(36.919998,-43.768474)" />
+  <g
+     id="use3214-3"
+     data-name="use3214"
+     transform="translate(36.919998,-43.768474)">
+    <path
+       id="path3177-3"
+       data-name="path3177"
+       d="m 237.37,214.2 a 8.49,8.49 0 1 1 -8.57,-8.4 8.49,8.49 0 0 1 8.57,8.4 z" />
+  </g>
+  <line
+     class="cls-4"
+     x1="223.99001"
+     y1="170.67152"
+     x2="248.34"
+     y2="170.67152"
+     id="line889" />
+  <polygon
+     points="188.13,214.44 192.85,206.31 172.95,214.44 192.85,222.57 "
+     id="polygon891"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="283.66998"
+     y1="170.41151"
+     x2="308.00998"
+     y2="170.76152"
+     id="line893" />
+  <polygon
+     points="270.04,214.51 265.44,206.32 285.21,214.73 265.2,222.57 "
+     id="polygon895"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="280.20999"
+     y1="184.11153"
+     x2="298.03998"
+     y2="200.69153"
+     id="line897" />
+  <polygon
+     points="260.35,243.74 262.42,234.57 271.46,254.07 251.35,246.48 "
+     id="polygon899"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="266.38"
+     y1="187.60152"
+     x2="266.03"
+     y2="211.94153"
+     id="line901" />
+  <polygon
+     points="229.13,254.66 237.32,250.05 228.91,269.83 221.07,249.82 "
+     id="polygon903"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="252.34999"
+     y1="184.62152"
+     x2="237.94"
+     y2="204.24152"
+     id="line905" />
+  <polygon
+     points="201.64,247.16 210.99,248.17 192.66,259.39 197.89,238.54 "
+     id="polygon907"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="252.2"
+     y1="157.65152"
+     x2="234.37"
+     y2="141.07152"
+     id="line909" />
+  <polygon
+     points="198.22,185.56 196.14,194.73 187.1,175.23 207.21,182.82 "
+     id="polygon911"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="266.01999"
+     y1="154.16151"
+     x2="266.37"
+     y2="129.82152"
+     id="line913" />
+  <polygon
+     points="229.44,174.65 221.24,179.25 229.66,159.47 237.5,179.48 "
+     id="polygon915"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="282.04999"
+     y1="158.14153"
+     x2="296.46997"
+     y2="138.52151"
+     id="line917" />
+  <polygon
+     points="258.92,183.14 249.57,182.13 267.91,170.91 262.68,191.76 "
+     id="polygon919"
+     transform="translate(36.919998,-43.768474)" />
+  <g
+     id="use3214-4"
+     data-name="use3214"
+     transform="translate(36.919998,-43.768474)">
+    <path
+       id="path3177-4"
+       data-name="path3177"
+       d="m 230.82,60.83 a 8.49,8.49 0 1 1 -5.73,-10.54 8.49,8.49 0 0 1 5.73,10.54 z" />
+  </g>
+  <line
+     class="cls-2"
+     x1="217.59999"
+     y1="9.9315271"
+     x2="241.84999"
+     y2="12.051526"
+     id="line923" />
+  <polygon
+     class="cls-3"
+     points="181.73,53.79 187.14,46.1 166.61,52.46 185.72,62.3 "
+     id="polygon925"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-2"
+     x1="277.60999"
+     y1="16.821526"
+     x2="300.77997"
+     y2="24.311527"
+     id="line927" />
+  <polygon
+     class="cls-3"
+     points="262.86,67.75 260.86,58.56 277.3,72.41 255.86,74.04 "
+     id="polygon929"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="269.81"
+     y1="30.881527"
+     x2="281.98999"
+     y2="51.951527"
+     id="line931" />
+  <polygon
+     points="244.54,94.81 249.22,86.66 252.13,107.95 235.14,94.79 "
+     id="polygon933"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="255.28999"
+     y1="31.201527"
+     x2="247.81"
+     y2="54.371525"
+     id="line935" />
+  <polygon
+     points="211.22,97.13 220.4,95.14 206.55,111.58 204.93,90.14 "
+     id="polygon937"
+     transform="translate(36.919998,-43.768474)" />
+  <line
+     class="cls-4"
+     x1="243.64"
+     y1="24.601528"
+     x2="224.09999"
+     y2="39.121525"
+     id="line939" />
+  <polygon
+     points="188.03,82.26 196.67,85.97 175.85,91.31 186.97,72.92 "
+     id="polygon941"
+     transform="translate(36.919998,-43.768474)" />
+  <metadata
+     id="metadata1026">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Tension</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
