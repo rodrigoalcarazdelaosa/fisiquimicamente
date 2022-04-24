@@ -3,7 +3,7 @@ title: "Gastrofísica"
 subtitle: 11 experimentos-receta relacionados con la cocina, explicando un principio físico presente
 summary: "11 experimentos-receta relacionados con la cocina, explicando un principio físico presente."
 breadcrumbs: ["blog"]
-date: "2022-04-23T00:00:00Z"
+date: "2022-04-24T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:

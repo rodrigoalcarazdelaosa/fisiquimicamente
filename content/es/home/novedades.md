@@ -105,5 +105,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "Gastrofísica"
-      url: 'blog/2022/04/23/gastrofisica/'
+      url: 'blog/2022/04/24/gastrofisica/'
 ---
