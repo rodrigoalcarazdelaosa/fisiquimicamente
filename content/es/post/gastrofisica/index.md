@@ -29,7 +29,7 @@ links:
 
 {{% callout note %}}
 
-El [**Grupo de Estudiantes de la RSEF (GdeE-RSEF)**](https://estudiantes.rsef.es/index.html) nos presenta su [**Concurso de Divulgación Gastrofísica**](https://estudiantes.rsef.es/Gastrofisica/), con el objetivo de fomentar las actividades divulgativas entre los estudiantes universitarios  y de niveles inferiores. En esta entrada repasamos el [**recetario**](https://estudiantes.rsef.es/ConcursoGastrofisica/Concurso%20Divulgación%20Gastrof%C3%ADsica%20-%20Recetario.pdf) con los **11 experimentos-receta** que nos proponen como guía.
+El [**Grupo de Estudiantes de la RSEF (GdeE-RSEF)**](https://estudiantes.rsef.es/index.html) nos presenta su [**Concurso de Divulgación Gastrofísica**](https://estudiantes.rsef.es/Gastrofisica/), con el objetivo de fomentar las actividades divulgativas entre los estudiantes universitarios  y de niveles inferiores. En esta entrada repasamos el [**recetario**](https://estudiantes.rsef.es/ConcursoGastrofisica/Concurso%20Divulgación%20Gastrof%C3%ADsica%20-%20Recetario.pdf) con los **11 experimentos-receta** que nos proponen como guía, transcribiendo las **instrucciones** y **explicaciones** redactadas por [**Jorge Morón Vidal**](https://es.linkedin.com/in/jorge89386793) y [**Sergio Salvía Fernández**](https://nl.linkedin.com/in/sergio-salvia-fernandez), ambos miembros del GdeE-RSEF.
 
 {{% /callout %}}
 
