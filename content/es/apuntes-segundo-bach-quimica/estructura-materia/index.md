@@ -212,7 +212,7 @@ El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones**
 donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck, $\nu$ es la frecuencia de la radiación incidente, $\nu_0$ es la frecuencia umbral (cuya energía asociada, $\phi = h \nu_0$ se denomina **función** de **trabajo** o trabajo de extracción) y $E_\mathrm c = h\left(\nu-\nu_0\right)$ es la energía cinética máxima de los fotoelectrones, emitidos siempre que se cumpla $\nu \geq \nu_0$.
 
 {{% callout note %}}
-Si quieres aprender más sobre el **efecto fotoeléctrico** te recomiendo echar un vistazo a [esta estupenda **simulación**](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&locale=es).
+Si quieres aprender más sobre el **efecto fotoeléctrico** te recomendamos echar un vistazo a [esta estupenda **simulación**](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&locale=es).
 {{% /callout %}}
 
 ## Mecánica cuántica

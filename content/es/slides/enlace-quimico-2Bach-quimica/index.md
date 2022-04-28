@@ -210,7 +210,7 @@ Surge de la **atracción electrostática** entre los **electrones** de conducci�
 
 ---
 
-También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés):
+También te recomendamos echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés):
 
 {{< youtube LNsSS6Id6bM >}}
 

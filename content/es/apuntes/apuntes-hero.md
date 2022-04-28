@@ -13,7 +13,7 @@ cta_alt:
   label: Últimos apuntes ➡️
   url: "recursos-fisica-quimica/apuntes/1bach/mas/"
 cta_note:
-  label: También te recomiendo echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
+  label: También te recomendamos echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
 design:
   background:
     # color: "#FFFFF8"

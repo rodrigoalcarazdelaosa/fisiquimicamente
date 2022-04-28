@@ -79,5 +79,5 @@ subtitle = "📔 Formulación y nomenclatura de Química"
 +++
 
 {{% callout note %}}
-También te recomiendo echar un vistazo a los **apuntes** de [**FiQuiPedia**](http://www.fiquipedia.es/home/recursos/recursos-apuntes/recursos-apuntes-formulacion#TOC-Apuntes-elaboraci-n-propia), a los de [**FisQuiWeb**](https://fisquiweb.es/Formulacion/index.htm) y a los de [**Nomenclatura química**](https://www.nomenclaturaquimica.com).
+También te recomendamos echar un vistazo a los **apuntes** de [**FiQuiPedia**](http://www.fiquipedia.es/home/recursos/recursos-apuntes/recursos-apuntes-formulacion#TOC-Apuntes-elaboraci-n-propia), a los de [**FisQuiWeb**](https://fisquiweb.es/Formulacion/index.htm) y a los de [**Nomenclatura química**](https://www.nomenclaturaquimica.com).
 {{% /callout %}}

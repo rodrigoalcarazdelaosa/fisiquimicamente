@@ -143,7 +143,7 @@ El **enlace metálico** es el enlace químico que **mantiene unidos** a los **á
 Puedes aprender más sobre la **teoría** de **bandas** y cómo ésta explica la **conductividad eléctrica** en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
 {{% /callout %}}
 
-También te recomiendo echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) donde explican la **diferencia** entre un **metal** y un **aislante**:
+También te recomendamos echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) donde explican la **diferencia** entre un **metal** y un **aislante**:
 
 {{< youtube LNsSS6Id6bM >}}
 
