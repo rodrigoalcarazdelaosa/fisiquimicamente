@@ -39,7 +39,7 @@ links:
   url: hidrocarburos-4eso-ejercicios.pdf
 - icon_pack: fas
   icon: pencil-ruler
-  name: Ejercicios grupos funcionales BACH
+  name: Ejercicios grupos funcionales Bach
   url: grupos-funcionales-ejercicios.pdf
 - icon_pack: fas
   icon: external-link-alt
