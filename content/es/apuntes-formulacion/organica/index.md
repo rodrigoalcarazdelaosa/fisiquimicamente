@@ -38,6 +38,10 @@ links:
   name: Ejercicios hidrocarburos 4.º ESO
   url: hidrocarburos-4eso-ejercicios.pdf
 - icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios grupos funcionales BACH
+  url: grupos-funcionales-ejercicios.pdf
+- icon_pack: fas
   icon: external-link-alt
   name: Más ejercicios
   url: https://drive.google.com/file/d/1ujM1yemLauwmGZMgBjF5mciEySM5PLw1/view
