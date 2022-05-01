@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Gastrofísica"
-      url: 'blog/2022/04/24/gastrofisica/'
+      text: "¿Qué es el espín?"
+      url: 'blog/2022/05/02/que-es-el-espin/'
 ---
