@@ -142,7 +142,7 @@ En cambio, el conjunto de los números naturales, $\mathbb N$, con la suma (+), 
 
 El grupo que nos interesa para resolver este problema es el llamado [**SO(3)**](https://es.wikipedia.org/wiki/Grupo_de_rotación_SO(3)), que contiene las rotaciones en un espacio tridimensional sobre el origen de coordenadas. Está relacionado con el grupo [**SU(2)**](https://es.wikipedia.org/wiki/Grupo_unitario_especial#El_grupo_SU(2)), que tiene las matrices que nos interesan, a través de un [**isomorfismo**](https://es.wikipedia.org/wiki/Isomorfismo):
 
-{{< figure src="isomorfismo.svg" lightbox="false" width="100%" >}}
+{{< figure src="isomorfismo.svg" lightbox="false" width="100%" theme="light" >}}
 
 La importancia de esto es la relación de [**conmutación**](https://es.wikipedia.org/wiki/Conmutatividad) que cumple este grupo. El conmutador es la multiplicación de los operadores en un orden menos su multiplicación en el orden inverso[^1]:
 
