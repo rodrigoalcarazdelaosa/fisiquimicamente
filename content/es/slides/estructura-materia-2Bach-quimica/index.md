@@ -351,9 +351,7 @@ Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$.
 
 ---
 
-Conoce más sobre el espín en este magnífico vídeo de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés):
-
-{{< youtube rg4Fnag4V-E >}}
+> Conoce más sobre el espín en [esta magnífica entrada del **blog**]({{< relref "/post/espin" >}}).
 
 {{% /section %}}
 
