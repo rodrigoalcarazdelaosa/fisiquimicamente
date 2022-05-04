@@ -338,7 +338,7 @@ Cuando el agua fría llega al fondo, empieza a calentarse. Mientras tanto, el ag
 
 {{< figure src="conveccion.gif" title="Una animación que representa las corrientes de [**convección**](https://es.wikipedia.org/wiki/Convección) dada una fuente de calor. Fuente: https://commons.wikimedia.org/wiki/File:Convection.gif." lightbox="true" >}}
 
-Esto es lo que podemos ver en nuestro experimento. El fenómeno de la convección es una de las formas de transmisión del calor, y tiene una enorme relevancia en las corrientes de agua del mar, ¡e incluso en el plasma de una estrella! La convección está en todas partes, y ahora también en tu cocina.
+Esto es lo que podemos ver en nuestro experimento. El fenómeno de la convección es una de las formas de transmisión del calor, y tiene una enorme relevancia en las corrientes de agua del mar, ¡e incluso en el [plasma]({{< relref "/post/plasma" >}}) de una estrella! La convección está en todas partes, y ahora también en tu cocina.
 
 {{< figure library="true" src="energia-2ESO-3ESO/transferencia-calor.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:M%C3%A9todos_de_transferencia_de_calor.svg." lightbox="false" width="100%" >}}
 
@@ -608,7 +608,7 @@ Educación Secundaria.
 
 #### 🧑‍🏫 Explicación
 
-Todos conocemos los tres estados más famosos de la materia: sólido, líquido y gaseoso. Pero, ¿sabías que hay un cuarto estado? ¡El [**plasma**](https://es.wikipedia.org/wiki/Plasma_(estado_de_la_materia))! Se trata de un gas ionizado: las partículas están libres como en un gas, pero algunas de ellas están ionizadas (es decir, algunos electrones se escapan de los átomos, dejando un núcleo positivo). La forma más habitual de producir plasma es calentándolo, lo que da a los electrones suficiente energía para escapar de su atracción al núcleo del átomo. Así es como creamos fuego, uno de los ejemplos más cotidianos de plasma.
+Todos conocemos los tres estados más famosos de la materia: sólido, líquido y gaseoso. Pero, ¿sabías que hay un cuarto estado? ¡El [**plasma**]({{< relref "/post/plasma" >}})! Se trata de un gas ionizado: las partículas están libres como en un gas, pero algunas de ellas están ionizadas (es decir, algunos electrones se escapan de los átomos, dejando un núcleo positivo). La forma más habitual de producir plasma es calentándolo, lo que da a los electrones suficiente energía para escapar de su atracción al núcleo del átomo. Así es como creamos fuego, uno de los ejemplos más cotidianos de plasma.
 
 {{< figure src="fuego.jpg" title="Foto de [Joshua Newton](https://unsplash.com/@joshuanewton) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
   

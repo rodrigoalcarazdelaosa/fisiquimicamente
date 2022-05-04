@@ -1,15 +1,19 @@
 ---
-title: El plasma
+title: Plasma
 subtitle: El cuarto estado de la materia
 summary: "El cuarto estado de la materia."
 breadcrumbs: ["blog"]
-date: "2022-05-03T00:00:00Z"
+date: "2022-05-06T00:00:00Z"
 authors:
 - manuel-alonso-orts
 tags:
 - blog
 - plasma
 - materia
+- auroras
+- ionización
+- viento-solar
+- rayos
 categories:
 - Física
 image:
@@ -28,17 +32,17 @@ Entrada basada en el siguiente 🧵 hilo de Twitter:
 
 Todos conocemos los tres [**estados** de **agregación** de la **materia**]({{< ref "/apuntes-segundo-tercero-eso/materia/index.md#estados-de-agregación" >}}): sólido, líquido y gas. Sin embargo, nos olvidamos de un cuarto estado muy común: el [**plasma**](https://es.wikipedia.org/wiki/Plasma_(estado_de_la_materia)), que representa el 99.9&thinsp;% de la materia observable en el Universo. Qué menos que dedicarle una entrada, ¿no?
 
-La definición sencilla sería: [**gas ionizado**](https://es.wikipedia.org/wiki/Gas_ionizado). En un gas, la mayoría de las moléculas son eléctricamente neutras. Por ejemplo, el átomo de oxígeno tiene 8 protones (+), 8 electrones (–) y neutrones (neutros). Mediante [enlace covalente](https://es.wikipedia.org/wiki/Enlace_covalente) se forma la molécula de O<sub>2</sub>. Para tener un plasma, hay que ionizar algunas (> 1&thinsp;% aprox.) de las moléculas que lo forman; deben perder electrones. ¿Cómo? Proporcionando energía al gas, a partir de un cierto umbral, mediante temperatura, un campo eléctrico, etc.
+La definición sencilla sería: [**gas ionizado**](https://es.wikipedia.org/wiki/Gas_ionizado). En un gas, la mayoría de las moléculas son eléctricamente neutras. Por ejemplo, el átomo de oxígeno tiene 8 protones (+), 8 electrones (–) y neutrones (neutros). Mediante [enlace covalente](https://es.wikipedia.org/wiki/Enlace_covalente) se forma la molécula de O<sub>2</sub>. Para tener un plasma, hay que ionizar algunas (> 1&thinsp;% aprox.) de las moléculas que lo forman: deben perder electrones. ¿Cómo? Proporcionando energía al gas, a partir de un cierto umbral, mediante temperatura, un campo eléctrico, etc.
 
 {{< figure src="increasing-energy.png" title="La generación de plasma: al proporcionar energía a un material, finalmente se produce un gas de electrones e iones (plasma). Fuente: https://www.researchgate.net/figure/The-generation-of-plasma-by-adding-energy-to-material-gas-of-electrons-and-ions-is_fig1_316569885." lightbox="true" >}}
 
-A diferencia de un gas, que es aislante, el plasma es un medio conductor. La interacción dominante entre sus partículas es [electromagnética](https://es.wikipedia.org/wiki/Electromagnetismo). En un plasma las interacciones son a grandes distancias, dando lugar al movimiento colectivo de sus partículas.
+A diferencia de un gas, que es aislante, el **plasma** es un medio [**conductor**](https://es.wikipedia.org/wiki/Conductor_eléctrico). La interacción dominante entre sus partículas es [electromagnética](https://es.wikipedia.org/wiki/Electromagnetismo). En un plasma las interacciones son a grandes distancias, dando lugar al movimiento colectivo de sus partículas.
 
 {{< figure src="MMS.png" title="Representación artística de la [Magnetospheric Multiscale (MMS) Mission](https://en.wikipedia.org/wiki/Magnetospheric_Multiscale_Mission). Fuente: https://commons.wikimedia.org/wiki/File:Artist_depiction_of_MMS_spacecraft_(SVS12239).png." lightbox="true" >}}
 
 ## Plasmas naturales
 
-Gran parte del plasma en el Universo viene de las estrellas. Empezando por el [**Sol**](https://es.wikipedia.org/wiki/Sol), nuestra estrella, que está tan caliente que la mayoría de su gas es en realidad un plasma, formado mayoritariamente por iones de hidrógeno y helio y por electrones.
+Gran parte del plasma en el Universo viene de las **estrellas**. Empezando por el [**Sol**](https://es.wikipedia.org/wiki/Sol), nuestra estrella, que está tan caliente que la mayoría de su gas es en realidad un plasma, formado mayoritariamente por iones de hidrógeno y helio y por electrones.
 
 <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/3ogwG0cKu7x87xU6VG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/feistmusic-century-feist-3ogwG0cKu7x87xU6VG">via GIPHY</a></p>
 
@@ -50,7 +54,7 @@ Cuando el viento solar interacciona con la parte alta de nuestra atmósfera, la 
 
 {{< figure src="viento-solar.jpg" title="https://aurora.live/2020/04/aurora-borealis-colors-explained/" lightbox="true" >}}
 
-Otro plasma natural son los [**rayos**](https://es.wikipedia.org/wiki/Rayo). Como decíamos, los gases, y por tanto nuestra atmósfera, son buenos aislantes eléctricos. Es la generación de un plasma (conductor) la que permite la transferencia de carga entre las nubes y la Tierra en un día de tormenta.
+Otro plasma natural son los [**rayos**](https://es.wikipedia.org/wiki/Rayo). Como decíamos, los gases, y por tanto nuestra atmósfera, son buenos [aislantes eléctricos](https://es.wikipedia.org/wiki/Aislamiento_eléctrico). Es la generación de un plasma (conductor) la que permite la transferencia de carga entre las nubes y la Tierra en un día de tormenta.
 
 {{< figure src="rayo.svg" title="Un diagrama que muestra lo que puede causar un rayo. Algunos científicos creen que es causada por partículas de alta energía que golpean la Tierra desde el espacio. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Lightning.svg." lightbox="false" width="100%" >}}
 
@@ -62,9 +66,9 @@ Hasta ahora hemos visto ejemplos en la naturaleza. También hay ejemplos de **pl
 {{< tweet user="Yosoycorra" id="1494654339641757696" >}}
 </div>
 
-En ciencia de materiales también aprovechamos el plasma. Veamos un ejemplo. La base sobre la que se fabrican dispositivos como los [**chips**](https://es.wikipedia.org/wiki/Circuito_integrado) o las [**células solares**](https://es.wikipedia.org/wiki/Célula_fotoeléctrica) es la oblea de un material semiconductor, como el [**silicio**](https://es.wikipedia.org/wiki/Silicio). En la imagen se ven como espejos, ¿verdad?
+En ciencia de materiales también aprovechamos el plasma. Veamos un ejemplo. La base sobre la que se fabrican dispositivos como los [**chips**](https://es.wikipedia.org/wiki/Circuito_integrado) o las [**células solares**](https://es.wikipedia.org/wiki/Célula_fotoeléctrica) es la [oblea](https://es.wikipedia.org/wiki/Oblea_(electrónica)) de un material semiconductor, como el [**silicio**](https://es.wikipedia.org/wiki/Silicio). En la imagen se ven como espejos, ¿verdad?
 
-{{< figure src="obleas-Si.jpg" title="Obleas pulidas de silicio. Fuente: https://commons.wikimedia.org/wiki/File:Siliziumwafer.JPG." lightbox="true" >}}
+{{< figure src="obleas-Si.jpg" title="[Obleas](https://es.wikipedia.org/wiki/Oblea_(electrónica)) pulidas de [silicio](https://es.wikipedia.org/wiki/Silicio). Fuente: https://commons.wikimedia.org/wiki/File:Siliziumwafer.JPG." lightbox="true" >}}
 
 Eso es porque el fabricante las limpia y pule mediante procesos químicos o mecánicos, hasta tener rugosidades de muy pocos nanómetros. Sin embargo, en estas superficies tan pulidas sigue habiendo residuos orgánicos, que pueden venir mismamente del aire.
 

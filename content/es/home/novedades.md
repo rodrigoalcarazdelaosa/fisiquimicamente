@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "¿Qué es el espín?"
-      url: 'blog/2022/05/02/que-es-el-espin/'
+      text: "Plasma"
+      url: 'blog/2022/05/06/plasma/'
 ---
