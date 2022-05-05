@@ -3,7 +3,7 @@
 
 [build.environment]
   GO_VERSION = "1.18.1"
-  HUGO_VERSION = "0.97.3"
+  HUGO_VERSION = "0.98.0"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
