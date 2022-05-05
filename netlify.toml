@@ -2,8 +2,9 @@
   command = "hugo --gc --minify -b $URL"
 
 [build.environment]
+  GO_VERSION = "1.18.1"
   HUGO_VERSION = "0.97.3"
-  HUGO_ENABLEGITINFO = "true"  
+  HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
