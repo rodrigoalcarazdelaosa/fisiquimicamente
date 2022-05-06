@@ -30,7 +30,7 @@ Entrada basada en el siguiente 🧵 hilo de Twitter:
 
 ## ¿Qué es el plasma?
 
-Todos conocemos los tres [**estados** de **agregación** de la **materia**]({{< ref "/apuntes-segundo-tercero-eso/materia/index.md#estados-de-agregación" >}}): sólido, líquido y gas. Sin embargo, nos olvidamos de un cuarto estado muy común: el [**plasma**](https://es.wikipedia.org/wiki/Plasma_(estado_de_la_materia)), que representa el 99.9&thinsp;% de la materia observable en el Universo. Qué menos que dedicarle una entrada, ¿no?
+Todos conocemos los tres [**estados de agregación de la materia**]({{< ref "/apuntes-segundo-tercero-eso/materia/index.md#estados-de-agregación" >}}): sólido, líquido y gas. Sin embargo, nos olvidamos de un cuarto estado muy común: el [**plasma**](https://es.wikipedia.org/wiki/Plasma_(estado_de_la_materia)), que representa el 99.9&thinsp;% de la materia observable en el Universo. Qué menos que dedicarle una entrada, ¿no?
 
 La definición sencilla sería: [**gas ionizado**](https://es.wikipedia.org/wiki/Gas_ionizado). En un gas, la mayoría de las moléculas son eléctricamente neutras. Por ejemplo, el átomo de oxígeno tiene 8 protones (+), 8 electrones (–) y neutrones (neutros). Mediante [enlace covalente](https://es.wikipedia.org/wiki/Enlace_covalente) se forma la molécula de O<sub>2</sub>. Para tener un plasma, hay que ionizar algunas (> 1&thinsp;% aprox.) de las moléculas que lo forman: deben perder electrones. ¿Cómo? Proporcionando energía al gas, a partir de un cierto umbral, mediante temperatura, un campo eléctrico, etc.
 
