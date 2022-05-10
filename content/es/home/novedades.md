@@ -74,12 +74,12 @@ content:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/ultimo-ejercicio-oposiciones-quimica.webp
+      media: novedades/ultimo-ejercicio-oposiciones-quimica.jpg
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Cantabria 2018 Ejercicio 4 de la Opción 2
-      url: 'recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o2-e4/'
+      text: Ceuta y Melilla 2018 Ejercicio 2
+      url: 'recursos-fisica-quimica/oposiciones/quimica/ceuta-melilla-2018-e2/'
   - title: 🗞️ Novedades
     content: '🤝 Último tutorial'
     align: center
