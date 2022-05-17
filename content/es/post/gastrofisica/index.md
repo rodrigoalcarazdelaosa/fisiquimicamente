@@ -310,7 +310,7 @@ Educación Secundaria.
 1. Llena la bandeja del horno con agua.
 2. Llena dos tazas de agua fría y la tercera con agua caliente. La temperatura del agua fría debe ser como la del frigorífico. El agua caliente debe estar lo suficientemente caliente para observar vapor saliendo de la taza.
 3. Coloca la bandeja sobre las tazas. Para ello, coloca las tazas frías en los extremos y la taza caliente en el centro.
-4. Pon unas gotas de colorante alimentario (suficientes para crear una mancha visible) en el centro de la bandeja (sobre la taza caliente). crea otras dos manchas de otro color sobre las frías.
+4. Pon unas gotas de colorante alimentario (suficientes para crear una mancha visible) en el centro de la bandeja (sobre la taza caliente). Crea otras dos manchas de otro color sobre las frías.
 5. Observa la bandeja desde un lado. ¿Qué ves? Si quieres mejorar el efecto, graba todo con una cámara/smartphone y luego acelera la grabación.
 6. ¿Durará este efecto para siempre? Si no, ¿qué lo hará parar?
 7. Pon algunas gotas de colorante alimenticio en la taza caliente y la misma cantidad en la de agua fría.
@@ -436,10 +436,10 @@ Educación Secundaria.
 
 #### 📋 Instrucciones
 
-1. Prepara la gelatina. procura añadir 3/4 del agua requerida por las instrucciones.
+1. Prepara la gelatina. Procura añadir 3/4 del agua requerida por las instrucciones.
 2. Utiliza las tijeras para cortar el borde del vaso de plástico.
 3. Una vez se haya cuajado la gelatina, corta tres rectángulos usando el cuchillo.
-4. Aprieta el vaso de plástico para hacer un óvalo. luego utilízalo para cortar uno de los rectángulos y obtener una lente convergente de gelatina.
+4. Aprieta el vaso de plástico para hacer un óvalo. Luego utilízalo para cortar uno de los rectángulos y obtener una lente convergente de gelatina.
 5. Utiliza el exterior del vaso de plástico para cortar una lente divergente de otro rectángulo de gelatina.
 6. Coloca una hoja de papel dentro de la funda de plástico.
 7. Enciende los láseres y utiliza las bridas para mantenerlos encendidos.
@@ -540,8 +540,8 @@ Educación Secundaria.
 1. En primer lugar, necesitamos información sobre el horno microondas. Busca una pegatina (normalmente está en la parte trasera) y encuentra la frecuencia de las ondas utilizadas. Estará indicada en megahercios (MHz). ¿Las ondas creadas son ondas viajeras o estacionarias?
 2. Retira el plato giratorio de tu microondas. ¿Por qué es necesario este paso?
 3. Coloca la tableta de chocolate en un plato e introdúcela en el microondas. Caliéntala durante 20 segundos a una potencia media-baja. Ten en cuenta que este paso depende de la potencia del microondas. Necesitamos que se derrita sólo una parte del chocolate, ajusta el tiempo si es necesario.
-4. Con la regla, mide la distancia entre el centro de dos puntos fundidos. esto es la mitad de la longitud de onda (es decir, λ/2), donde λ es la longitud de onda. ¿La posición de las manchas, son nodos o vientres de la onda?
-5. Utiliza la fórmula *c* = *f*&thinsp;·&thinsp;*λ*, donde *f* es la frecuencia de las microondas, λ es la longitud de onda y *c* es la velocidad de la luz.
+4. Con la regla, mide la distancia entre el centro de dos puntos fundidos. esto es la mitad de la longitud de onda (es decir, *λ*/2), donde *λ* es la longitud de onda. ¿La posición de las manchas, son nodos o vientres de la onda?
+5. Utiliza la fórmula *c* = *f*&thinsp;·&thinsp;*λ*, donde *f* es la frecuencia de las microondas, *λ* es la longitud de onda y *c* es la velocidad de la luz.
 6. Compara tu resultado con el original *c* = 299&thinsp;792&thinsp;458&thinsp;m/s. ¿Se aproxima tu resultado?
 7. ¿Podríamos utilizar otro material para medir la velocidad de la luz? ¿Cuál sería la diferencia?
 
