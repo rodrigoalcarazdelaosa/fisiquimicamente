@@ -45,7 +45,7 @@ Puede considerarse la **proyección unidimensional** del **movimiento circular u
 
 Son **ejemplos** de **MAS** el [movimiento de una masa unida a un muelle](#/7/1), un [péndulo simple](#/7/6) o un [*yugo escocés*](https://es.wikipedia.org/wiki/Yugo_escocés):
 
-{{< figure library="true" src="MAS-1Bach/yugo-escoces.gif" title="Animación de un *yugo escocés*." lightbox="false" width="85%">}}
+{{< youtube wSGNvD9cgF0 >}}
 
 ---
 

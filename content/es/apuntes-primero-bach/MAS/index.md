@@ -39,7 +39,7 @@ El **movimiento armónico simple** (MAS) es un tipo especial de **movimiento per
 
 Son **ejemplos** de **MAS** el [movimiento de una masa unida a un muelle](#ley-de-hooke), un [péndulo simple](#péndulo-simple) o un [*yugo escocés*](https://es.wikipedia.org/wiki/Yugo_escocés):
 
-{{< figure library="true" src="MAS-1Bach/yugo-escoces.gif" title="Animación de un *yugo escocés*. <br> Fuente: https://commons.wikimedia.org/wiki/File:Yugo_Escoc%C3%A9s_-_Scotch_yoke_animation.gif" lightbox="false" >}}
+{{< youtube wSGNvD9cgF0 >}}
 
 ## Magnitudes
 
