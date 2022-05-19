@@ -90,6 +90,9 @@
 - id: btn_copy
   translation: Copy
 
+- id: btn_copied
+  translation: Copied
+
 - id: btn_download
   translation: Download
   

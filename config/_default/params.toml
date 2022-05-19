@@ -64,7 +64,7 @@ plugins_js  = ["footnotes"]
   [features.syntax_highlighter]
     enable = true
     extra_languages = ["latex"]  # Add support for highlighting additional languages
-    theme = "nord"
+    # theme = "dracula"
 
   [features.math]
     enable = true

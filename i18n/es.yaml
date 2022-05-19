@@ -65,6 +65,8 @@
   translation: Documento fuente
 - id: btn_copy
   translation: Copiar
+- id: btn_copied
+  translation: Copiado
 - id: btn_download
   translation: Descargar
 - id: btn_text

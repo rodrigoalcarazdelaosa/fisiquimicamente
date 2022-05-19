@@ -54,6 +54,8 @@
   translation: Font
 - id: btn_copy
   translation: Copia
+- id: btn_copied
+  translation: Copiat
 - id: btn_download
   translation: Baixa
 - id: btn_text
