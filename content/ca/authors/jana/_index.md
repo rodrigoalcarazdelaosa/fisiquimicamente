@@ -21,7 +21,7 @@ role: 🐕
 organizations:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soc una mestissa de [mastí](https://ca.wikipedia.org/wiki/Mast%C3%AD) a la qual li encanta que l'acaronin, dormir, jugar, fer passejades i rosegar.
+bio: Soc una mestissa de [mastí](https://ca.wikipedia.org/wiki/Mast%C3%AD) a la qual li encanta que l'acariciïn, dormir, jugar, fer passejades i rosegar.
 
 interests:
 - 🫳 Rebre carícies
@@ -45,4 +45,4 @@ user_groups:
 - FisiQuímicament
 ---
 
-Soc una mestissa de [mastí](https://ca.wikipedia.org/wiki/Mast%C3%AD) a la qual li encanta que l'acaronin, dormir, jugar, fer passejades i rosegar. Em van adoptar a [ASPROAN](https://asproansantander.es) amb 7 mesos i des que vaig arribar a la meva nova llar no he deixat de repartir felicitat 🥰.
+Soc una mestissa de [mastí](https://ca.wikipedia.org/wiki/Mast%C3%AD) a la qual li encanta que l'acariciïn, dormir, jugar, fer passejades i rosegar. Em van adoptar a [ASPROAN](https://asproansantander.es) amb 7 mesos i des que vaig arribar a la meva nova llar no he deixat de repartir felicitat 🥰.
