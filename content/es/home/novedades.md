@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Plasma"
-      url: 'blog/2022/05/06/plasma/'
+      text: "¿Qué determina el color de un ser vivo?"
+      url: 'blog/2022/04/07/que-determina-el-color-de-un-ser-vivo/'
 ---

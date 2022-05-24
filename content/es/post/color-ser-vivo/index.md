@@ -88,7 +88,7 @@ Bien, pasemos al [**aceite**](https://es.wikipedia.org/wiki/Aceite). Es amarillo
 
 No hay reacción química que pueda explicar esta variedad de colores. Lo que hemos visto en la imagen se debe a algo totalmente distinto; es un ejemplo del [**color estructural**](https://es.wikipedia.org/wiki/Coloración_estructural), cuyo origen está relacionado con la [**interferencia**](https://es.wikipedia.org/wiki/Interferencia) de la luz. En una [lámina delgada](https://es.wikipedia.org/wiki/Lámina_delgada), hay interferencia entre la luz que se refleja en la intercara de arriba y la de abajo. El color que vemos se basa en las longitudes de onda que interfieren constructivamente, lo cual depende del grosor de la lámina y del ángulo de observación.
 
-{{< figure src="interferencia-lamina-delgada.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Thin_film_interference.svg." width="100%" lightbox="false" >}}
+{{< figure src="interferencia-lamina-delgada.svg" title="Demostración de la diferencia de longitud de camino óptico para la luz reflejada desde los límites superior e inferior de una película delgada. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Thin_film_interference.svg." width="100%" lightbox="false" >}}
 
 En la foto del aceite, los distintos colores indican distintos espesores de la película. Esas pequeñas variaciones cambian el valor de las longitudes de onda favorecidas por la interferencia. El mismo fenómeno físico se puede ver en las [**pompas de jabón**](https://es.wikipedia.org/wiki/Pompa_de_jabón).
 
@@ -96,7 +96,7 @@ En la foto del aceite, los distintos colores indican distintos espesores de la p
 
 Si, en lugar de una, tenemos varias láminas delgadas apiladas, y todas actúan para reforzar las mismas longitudes de onda, conseguimos reflejar colores todavía “más puros”. Estos reflectores tan específicos se usan en varios sistemas ópticos; por ejemplo, en algunos láseres.
 
-{{< figure src="reflector-bragg.jpg" lightbox="true" >}}
+{{< figure src="reflector-bragg.jpg" title="Reflectores de Bragg o [**espejos dieléctricos**](https://es.wikipedia.org/wiki/Espejo_dieléctrico)." lightbox="true" >}}
 
 ## Cristales fotónicos
 
@@ -112,13 +112,13 @@ Si queremos tener reflectores de ciertos colores en varias direcciones, hay que 
 
 Empecemos con el famoso [**pavo real**](https://es.wikipedia.org/wiki/Pavo_cristatus). De forma análoga al ejemplo del aceite o a la imagen de los [**espejos dieléctricos**](https://es.wikipedia.org/wiki/Espejo_dieléctrico), los distintos colores son un marcador visual del distinto tamaño de las nanoestructuras ordenadas que se encuentran en sus plumas. Con un microscopio se observan distintos patrones periódicos cilíndricos de melanina (puntos negros) en las plumas del pavo real. En la parte que vemos azul, la distancia entre cilindros es de 140&thinsp;nm, en la verde es de 150&thinsp;nm.
 
-{{< figure src="pavo-real.png" title="https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-8-10198&id=315275" lightbox="true" >}}
+{{< figure src="pavo-real.png" title="Caracterización estructural de las plumas de la cola del pavo real. Fuente: https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-8-10198&id=315275." lightbox="true" >}}
 
-Así que, la próxima vez que los veáis, os podéis maravillar no solo de sus colores, también de las diminutas estructuras ordenadas en sus plumas que los causan, mediante interferencia de la luz. Los colores más llamativos los tienen los machos y sirven como selector sexual.
+Así que, la próxima vez que los veáis, os podéis maravillar no solo de sus colores, también de las diminutas estructuras ordenadas en sus plumas que los causan, mediante interferencia de la luz. Los colores más llamativos los tienen los machos y sirven como [selector sexual](https://es.wikipedia.org/wiki/Selección_sexual).
 
-También tenemos estructuras fotónicas periódicas dando lugar a colores iridiscentes en mariposas como las [**morpho azules**](https://es.wikipedia.org/wiki/Morpho), las cuales se pueden identificar a 1&thinsp;km gracias al brillo azul debido a las estructuras ordenadas que veis en la imagen.
+También tenemos estructuras fotónicas periódicas dando lugar a colores iridiscentes en mariposas como las [**morpho azules**](https://es.wikipedia.org/wiki/Morpho), las cuales se pueden identificar a 1&thinsp;km de distancia gracias al brillo azul debido a las estructuras ordenadas que veis en la imagen.
 
-{{< figure src="morpho.jpg" title="https://commons.wikimedia.org/wiki/File:Morpho_sulkowskyi_wings.jpg" lightbox="true" >}}
+{{< figure src="morpho.jpg" title="Los colores iridiscentes de las mariposas morpho se deben a las nanoestructuras específicas de sus alas (imagen SEM en la parte inferior). Fuente: https://commons.wikimedia.org/wiki/File:Morpho_sulkowskyi_wings.jpg." lightbox="true" >}}
 
 Los flamencos no son el único animal que utiliza el color como representante de mayor estatus. El imponente color que aparece en la cara y el trasero de los [**mandriles**](https://es.wikipedia.org/wiki/Mandrillus_sphinx) adultos habla por sí mismo en la manada.
 
@@ -128,7 +128,7 @@ Entonces, ¿qué pigmento colorea a los mandriles de forma tan llamativa? ¡Ning
 
 {{< figure src="piel-mandril.jpg" title="[Micrografías electrónicas de transmisión](https://es.wikipedia.org/wiki/Microscopio_electrónico_de_transmisión) de conjuntos de [colágeno](https://es.wikipedia.org/wiki/Colágeno) de la piel de mandriles coloreada estructuralmente. Fuente: https://journals.biologists.com/jeb/article/207/12/2157/14800/Structural-colouration-of-mammalian-skin." lightbox="true" >}}
 
-Este es un ejemplo de [**color estructural**](https://es.wikipedia.org/wiki/Coloración_estructural) en la naturaleza, originado en **estructuras periódicas** en su piel a escalas muy pequeñas en lugar de debido a pigmentos.
+Estos son algunos ejemplos de [**color estructural**](https://es.wikipedia.org/wiki/Coloración_estructural) en la naturaleza, originado en **estructuras periódicas** a escalas muy pequeñas en lugar de debido a pigmentos.
 
 {{< figure src="pigmentos-vs-estructural.jpg" title="Fuentes de las imágenes: https://www.wonderopolis.org/wonder/why-are-people-all-different-colors y https://www.eudonev.com/portfolio/structural-color/." lightbox="true" >}}
 
@@ -144,24 +144,24 @@ El [**escarabajo hércules**](https://es.wikipedia.org/wiki/Dynastes_hercules) e
 
 {{< figure src="escarabajo-hercules.png" title="https://aip.scitation.org/doi/10.1063/1.3486115" lightbox="true" >}}
 
-Si os interesa el tema de los cristales fotónicos, no dejéis de ver este vídeo de **Andrea espín-órbita**:
+Si os interesa el tema de los [**cristales fotónicos**](https://es.wikipedia.org/wiki/Cristal_fotónico), no dejéis de ver este vídeo de **Andrea espín-órbita**:
 
 {{< youtube wisSG0CZvUY >}}
 
 ## Bioluminiscencia
 
-Los dos tipos de color que hemos visto en animales se basan en la [reflexión](https://es.wikipedia.org/wiki/Reflexión_(f%C3%ADsica)) de ciertas longitudes de onda del sol dependiendo de la química (pigmentos) o física (nanoestructura) en su piel. Sin embargo, hay animales que podemos ver una vez el sol se pone. ¿Cómo lo hacen? Son los animales [luminiscentes](https://es.wikipedia.org/wiki/Luminiscencia). Aquí podemos distinguir dos tipos: aquellos que emiten luz cuando son expuestos a cierto agente externo, como luz de alta energía (UV); y aquellos donde es el propio organismo el que produce la luz mediante reacciones bioquímicas, donde suele intervenir una enzima llamada [**luciferasa**](https://es.wikipedia.org/wiki/Luciferasa). En este último caso, se les añade el prefijo *bio*, es decir, son animales [bioluminiscentes](https://es.wikipedia.org/wiki/Bioluminiscencia).
+Los dos tipos de color que hemos visto en animales se basan en la [reflexión](https://es.wikipedia.org/wiki/Reflexión_(f%C3%ADsica)) de ciertas longitudes de onda del sol dependiendo de la química (pigmentos) o física (nanoestructura) en su piel. Sin embargo, hay animales que podemos ver una vez el sol se pone. ¿Cómo lo hacen? Son los animales [**luminiscentes**](https://es.wikipedia.org/wiki/Luminiscencia). Aquí podemos distinguir dos tipos: aquellos que emiten luz cuando son expuestos a cierto agente externo, como luz de alta energía (UV); y aquellos donde es el propio organismo el que produce la luz mediante reacciones bioquímicas, donde suele intervenir una enzima llamada [**luciferasa**](https://es.wikipedia.org/wiki/Luciferasa). En este último caso, se les añade el prefijo *bio*, es decir, son animales [**bioluminiscentes**](https://es.wikipedia.org/wiki/Bioluminiscencia).
 
 <figure>
 <div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='luciferasa.pdb' data-backgroundalpha='0.0' data-style='cartoon:color=spectrum' data-spin='axis:y'></div>
 <figcaption>Estructura tridimensional de la <strong>luciferasa</strong>.</figcaption>
 </figure>
 
-Empecemos por los del primer tipo. [En un artículo anterior]({{< relref "/post/nanotermometria-luminiscente-i" >}}), vimos el uso de la emisión de luz cuando incidimos con luz ultravioleta para los CSI o en nanotermómetros. Algunos animales como los [escorpiones](https://es.wikipedia.org/wiki/Scorpiones) también brillan al iluminarlos con luz UV, sin necesidad de ninguna reacción bioquímica. Además de para reconocerse más fácilmente por la noche, hay debate en la comunidad científica sobre la utilidad de este brillo de los escorpiones. Muchos lo ven como detector natural de luz UV, que quizá les ayudaría a evitar salidas innecesarias en las noches menos oscuras.
+Empecemos por los del primer tipo. [En un artículo anterior]({{< relref "/post/nanotermometria-luminiscente-i" >}}), vimos el uso de la emisión de luz cuando incidimos con luz ultravioleta para los CSI o en nanotermómetros. Algunos animales como los [**escorpiones**](https://es.wikipedia.org/wiki/Scorpiones) también brillan al iluminarlos con luz UV, sin necesidad de ninguna reacción bioquímica. Además de para reconocerse más fácilmente por la noche, hay debate en la comunidad científica sobre la utilidad de este brillo de los escorpiones. Muchos lo ven como detector natural de luz UV, que quizá les ayudaría a evitar salidas innecesarias en las noches menos oscuras.
 
 {{< youtube x5dbnc57ieU >}}
 
-Pasemos a los animales que emiten luz mediante reacciones bioquímicas. Las [luciérnagas](https://es.wikipedia.org/wiki/Lampyridae) tienen órganos lumínicos especiales, situados debajo de su abdomen. Al absorber oxígeno, éste reacciona con una molécula, la [**luciferina**](https://es.wikipedia.org/wiki/Luciferina_(molécula)), mediante la enzima mencionada anteriormente, la luciferasa, dando como resultado su conocida luz intermitente.
+Pasemos a los animales que emiten luz mediante reacciones bioquímicas. Las [**luciérnagas**](https://es.wikipedia.org/wiki/Lampyridae) tienen órganos lumínicos especiales, situados debajo de su abdomen. Al absorber oxígeno, éste reacciona con una molécula, la [**luciferina**](https://es.wikipedia.org/wiki/Luciferina_(molécula)), mediante la enzima mencionada anteriormente, la luciferasa, dando como resultado su conocida luz intermitente.
 
 <div class="tenor-gif-embed" data-postid="10662715" data-share-method="host" data-aspect-ratio="1.57778" data-width="100%"><a href="https://tenor.com/view/firefly-insect-gif-10662715">Firefly Insect GIF</a>from <a href="https://tenor.com/search/firefly-gifs">Firefly GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
