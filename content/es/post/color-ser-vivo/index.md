@@ -124,7 +124,7 @@ Los flamencos no son el único animal que utiliza el color como representante de
 
 {{< figure src="mandril.jpg" title="Imagen de [seth0s](https://pixabay.com/es/users/seth0s-816508/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
-Entonces, ¿qué pigmento colorea a los mandriles de forma tan llamativa? ¡Ninguno! El color lo genera un conjunto periódico de fibras de 100&thinsp;nm (1&thinsp;mm / 10&thinsp;000).
+Aunque nos pueda parecer que el color del mandril se deba a un pigmento, [similar a los que usan algunas tribus](https://www.dailymail.co.uk/news/article-8364985/Papua-New-Guinea-tribesmen-cover-faces-colourful-dye.html), en realidad proviene de un conjunto periódico de fibras de 100&thinsp;nm (1&thinsp;mm / 10&thinsp;000).
 
 {{< figure src="piel-mandril.jpg" title="[Micrografías electrónicas de transmisión](https://es.wikipedia.org/wiki/Microscopio_electrónico_de_transmisión) de conjuntos de [colágeno](https://es.wikipedia.org/wiki/Colágeno) de la piel de mandriles coloreada estructuralmente. Fuente: https://journals.biologists.com/jeb/article/207/12/2157/14800/Structural-colouration-of-mammalian-skin." lightbox="true" >}}
 
@@ -132,7 +132,7 @@ Estos son algunos ejemplos de [**color estructural**](https://es.wikipedia.org/w
 
 {{< figure src="pigmentos-vs-estructural.jpg" title="Fuentes de las imágenes: https://www.wonderopolis.org/wonder/why-are-people-all-different-colors y https://www.eudonev.com/portfolio/structural-color/." lightbox="true" >}}
 
-La estructura periódica de algunos [**escarabajos**](https://es.wikipedia.org/wiki/Coleoptera) no solo les ayuda en el camuflaje, sino también les permite moverse en entornos húmedos.
+La estructura periódica de algunos [**escarabajos**](https://es.wikipedia.org/wiki/Coleoptera) no solo les ayuda en el camuflaje, sino que también les permite moverse en entornos húmedos. Es decir, aquí la estructura periódica natural tiene un fin más allá del visual.  
 
 {{< figure src="escarabajo.png" title="https://journals.sagepub.com/doi/abs/10.5772/58289" lightbox="true" >}}
 
@@ -169,4 +169,6 @@ Pasemos a los animales que emiten luz mediante reacciones bioquímicas. Las [**l
 
 Las luciérnagas utilizan esta luz como un cortejo nocturno. Además, como las larvas de luciérnaga también son bioluminiscentes, se piensa que la usan como mecanismo de defensa frente a sus depredadores, como se ve en el episodio *Janus* de la serie [*Otras Galaxias* de Netflix](https://www.netflix.com/title/80221410).
 
-Estos son solo algunos de los muchos ejemplos en los que el color o la luz que emiten los animales no solo es algo bonito estéticamente, sino que tienen claras funciones biológicas. Si os habéis quedado con ganas de ver más ejemplos, os recomiendo la miniserie documental [*La vida a todo color, con David Attenborough*, de Netflix](https://www.netflix.com/title/81036559).
+Estos son solo algunos de los muchos ejemplos en los que el color o la luz que emiten los animales no solo es algo bonito estéticamente, sino que tienen claras funciones biológicas.
+
+Con esto, hemos visto muchos ejemplos en la naturaleza donde el color o la luz en la naturaleza no es casual, sino que tiene una función evolutiva. Si os habéis quedado con ganas de ver más ejemplos, os recomiendo la miniserie documental [*La vida a todo color, con David Attenborough*, de Netflix](https://www.netflix.com/title/81036559).
