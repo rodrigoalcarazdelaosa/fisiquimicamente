@@ -100,7 +100,7 @@ Si, en lugar de una, tenemos varias láminas delgadas apiladas, y todas actúan 
 
 ## Cristales fotónicos
 
-Fijaos en esta animación. Hasta ahora, el patrón periódico se repetía en una dirección. Ahora, tenemos lo que se denomina un [**cristal fotónico**](https://es.wikipedia.org/wiki/Cristal_fotónico) en 2D. Como antes, solo refleja algunas frecuencias de la onda, pero ahora tb funciona desde cualquier ángulo.
+Fijaos en esta animación. Hasta ahora, el patrón periódico se repetía en una dirección. Ahora, tenemos lo que se denomina un [**cristal fotónico**](https://es.wikipedia.org/wiki/Cristal_fotónico) en 2D. Como antes, solo refleja algunas frecuencias de la onda, pero ahora también funciona desde cualquier ángulo.
 
 <div align="center">
 {{< tweet user="j_bertolotti" id="1415282156243402758" >}}
