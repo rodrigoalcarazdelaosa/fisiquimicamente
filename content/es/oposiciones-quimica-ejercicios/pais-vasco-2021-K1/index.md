@@ -2,7 +2,7 @@
 title: País Vasco 2021
 url: "/recursos-fisica-quimica/oposiciones/quimica/pais-vasco-2021-k1/"
 subtitle: Ejercicio K1
-summary: "Ejercicio K1."
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Ejercicio K1."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","quimica"]
 tags:
 - oposiciones

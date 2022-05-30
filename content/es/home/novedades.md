@@ -78,8 +78,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Ceuta y Melilla 2018 Ejercicio 2
-      url: 'recursos-fisica-quimica/oposiciones/quimica/ceuta-melilla-2018-e2/'
+      text: País Vasco 2021 Ejercicio K1
+      url: 'recursos-fisica-quimica/oposiciones/quimica/pais-vasco-2021-k1/'
   - title: 🗞️ Novedades
     content: '🤝 Último tutorial'
     align: center
