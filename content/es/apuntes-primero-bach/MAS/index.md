@@ -92,25 +92,26 @@ sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/
 
 ### Ley de Hooke
 
-Aplicando la 2ª ley de Newton a una masa $m$ unida a un extremo de un muelle (resorte) de constante elástica $k$ (obviamos el carácter vectorial al ocurrir todo en una única dimensión):
+Aplicando la \textbf{2ª ley de Newton} a una masa $m$ unida a un extremo de un muelle (resorte) de constante elástica $k$ (obviamos el carácter vectorial al ocurrir todo en una única dimensión):
 		\begin{align*}
 		F &= ma	\\\\
-		-kx &= ma = m\frac{\mathrm d^2 x}{\mathrm d t^2} \rightarrow \frac{\mathrm d^2 x}{\mathrm d t^2}+\frac{k}{m}x = 0
+		-kx &= ma \\\\
+		-kx &= -m\omega^2x
 		\end{align*}
-		cuya solución puede escribirse de la forma:
+		de donde
 		$$
-		x(t) = A\sin\left(\sqrt{\frac{k}{m}}t+\varphi_0\right) = A\sin\left(\omega t+\varphi_0\right)
+		k = m\omega^2
 		$$
-		donde
+		La frecuencia angular, $\omega$, puede calcularse por tanto como:
 		$$
 		\omega = \sqrt{\frac{k}{m}}
 		$$
-		es la frecuencia angular. El periodo, $T$, o la frecuencia, $f$, con la que oscila una masa $m$ unida a un extremo de un resorte de constante elástica $k$ pueden por tanto escribirse como:
+		El periodo, $T$, o la frecuencia, $f$, con la que oscila una masa $m$ unida a un extremo de un resorte de constante elástica $k$ pueden por tanto escribirse como:
 		$$
 		T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{m}{k}};\quad f = \frac{1}{T} = \frac{1}{2\pi}\sqrt{\frac{k}{m}}
 		$$
 
-{{< figure library="true" src="MAS-1Bach/masa-muelle.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-1Bach/masa-muelle.svg" title="Traducida y adaptada de https://www.chegg.com/learn/physics/introduction-to-physics/harmonic-motion." lightbox="false" width="100%" >}}
 
 Puedes aprender más sobre **masas** y **resortes** con este excelente ***laboratorio***:
 
@@ -120,22 +121,21 @@ Puedes aprender más sobre **masas** y **resortes** con este excelente ***labora
 
 Consiste en una masa suspendida de un pivote de forma que puede oscilar libremente.
 
-{{< figure library="true" src="MAS-1Bach/pendulo-simple.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-1Bach/pendulo-simple.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:PendulumForces.svg." lightbox="false" width="100%" >}}
 
-En este caso la **gravedad** actúa como **fuerza recuperadora**, acelerando la masa hacia su posición de equilibrio, provocando la oscilación alrededor de ella.
-		
-La **ecuación diferencial** que representa el movimiento de un **péndulo simple** es:
+En este caso la **componente tangencial** del **peso** actúa como **fuerza recuperadora**, acelerando la masa hacia su posición de equilibrio, provocando la oscilación alrededor de ella:
+\begin{align*}
+	-mg\sin\theta &= ma \\\\
+	-g\sin\theta &= -\omega^2x \\\\
+	-g\sin\theta &= -\omega^2l\theta
+\end{align*}
+- En la **aproximación** para **ángulos pequeños**, $\sin\theta\approx\theta$, por lo que el movimiento se aproxima por un **movimiento armónico simple** de frecuencia angular:
 $$
-\frac{\mathrm d^2 \theta}{\mathrm d t^2} + \frac{g}{l}\sin\theta = 0	
-$$
-
-- En la **aproximación** para **ángulos pequeños**, el movimiento de un péndulo simple se aproxima por un **movimiento armónico simple**, mediante la ecuación diferencial:
-$$
-\frac{\mathrm d^2 \theta}{\mathrm d t^2} + \frac{g}{l}\theta = 0	\rightarrow \omega = \sqrt{\frac{g}{l}}
+\omega = \sqrt{\frac{g}{l}}
 $$
 - El tiempo que tarda la masa en completar una oscilación completa es el **periodo**, que únicamente depende de la longitud del péndulo y de la aceleración de la gravedad, a través de la expresión:
 $$
-T=2\pi\sqrt{\frac{l}{g}}
+T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{l}{g}}
 $$
 - Fuera de la aproximación para ángulos pequeños, el periodo de un péndulo también depende ligeramente de la amplitud de la oscilación.
 
@@ -149,7 +149,7 @@ Puedes estudiar los **factores** que **influyen** en el **periodo** de un **pén
 
 Como la **fuerza elástica** es **conservativa**, definimos la energía potencial asociada:
 $$
-E_\mathrm p = \frac{1}{2}kx^2	
+E_\mathrm p = \frac{1}{2}kx^2,\quad \text{donde $k=m\omega^2$}	
 $$
 Sustituyendo la expresión de la posición, $x = A\sin\left(\omega t + \varphi_0\right)$:
 $$
