@@ -171,23 +171,23 @@ sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/
 
 ### Ley de Hooke
 
-Aplicando la 2ª ley de Newton a una masa $m$ unida a un extremo de un muelle (resorte) de constante elástica $k$ (obviamos el carácter vectorial al ocurrir todo en una única dimensión):
-\begin{align*}
-F &= ma	\\\\
--kx &= ma = m\frac{\mathrm d^2 x}{\mathrm d t^2} \rightarrow \frac{\mathrm d^2 x}{\mathrm d t^2}+\frac{k}{m}x = 0
-\end{align*}
+Aplicando la **2ª ley de Newton** a una masa $m$ unida a un extremo de un muelle (resorte) de constante elástica $k$:
+		\begin{align*}
+		F &= ma	\\\\
+		-kx &= ma \\\\
+		-kx &= -m\omega^2x
+		\end{align*}
+		de donde
+		$$
+		k = m\omega^2
+		$$
 
 ---
 
-cuya solución puede escribirse de la forma:
-$$
-x(t) = A\sin\left(\sqrt{\frac{k}{m}}t+\varphi_0\right) = A\sin\left(\omega t+\varphi_0\right)
-$$
-donde
+La frecuencia angular, $\omega$, puede calcularse por tanto como:
 $$
 \omega = \sqrt{\frac{k}{m}}
 $$
-es la frecuencia angular.
 
 ---
 
@@ -212,31 +212,32 @@ Puedes aprender más sobre **masas** y **resortes** con este excelente ***labora
 
 Consiste en una masa suspendida de un pivote de forma que puede oscilar libremente.
 
-{{< figure library="true" src="MAS-1Bach/pendulo-simple.svg" title="" lightbox="false" width="45%" >}}
+{{< figure library="true" src="MAS-1Bach/pendulo-simple.svg" title="" lightbox="false" width="40%" >}}
 
 ---
 
-En este caso la **gravedad** actúa como **fuerza recuperadora**, acelerando la masa hacia su posición de equilibrio, provocando la oscilación alrededor de ella.
+En este caso la **componente tangencial** del **peso** actúa como **fuerza recuperadora**, acelerando la masa hacia su posición de equilibrio, provocando la oscilación alrededor de ella.
 
 ---
 		
-La **ecuación diferencial** que representa el movimiento de un **péndulo simple** es:
-$$
-\frac{\mathrm d^2 \theta}{\mathrm d t^2} + \frac{g}{l}\sin\theta = 0	
-$$
+\begin{align*}
+	-mg\sin\theta &= ma \\\\
+	-g\sin\theta &= -\omega^2x \\\\
+	-g\sin\theta &= -\omega^2l\theta
+\end{align*}
 
 ---
 
-- En la **aproximación** para **ángulos pequeños**, el movimiento de un péndulo simple se aproxima por un **movimiento armónico simple**, mediante la ecuación diferencial:
+- En la **aproximación** para **ángulos pequeños**, $\sin\theta\approx\theta$, por lo que el movimiento se aproxima por un **movimiento armónico simple** de frecuencia angular:
 $$
-\frac{\mathrm d^2 \theta}{\mathrm d t^2} + \frac{g}{l}\theta = 0	\rightarrow \omega = \sqrt{\frac{g}{l}}
+\omega = \sqrt{\frac{g}{l}}
 $$
 
 ---
 
 - El tiempo que tarda la masa en completar una oscilación completa es el **periodo**, que únicamente depende de la longitud del péndulo y de la aceleración de la gravedad, a través de la expresión:
 $$
-T=2\pi\sqrt{\frac{l}{g}}
+T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{l}{g}}
 $$
 
 ---
@@ -271,7 +272,7 @@ Puedes estudiar los **factores** que **influyen** en el **periodo** de un **pén
 
 Como la **fuerza elástica** es **conservativa**, definimos la energía potencial asociada:
 $$
-E_\mathrm p = \frac{1}{2}kx^2	
+E_\mathrm p = \frac{1}{2}kx^2,\quad \text{donde $k=m\omega^2$}	
 $$
 
 ---
