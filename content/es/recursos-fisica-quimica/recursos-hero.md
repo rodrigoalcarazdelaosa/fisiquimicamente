@@ -27,7 +27,7 @@ advanced:
 
 🧩 **Actividades/juegos**
 
-📜 **Historia de la Ciencia**
+📜 **Historia** de la **Ciencia**
 
 🎓 Recursos **EBAU**
 
