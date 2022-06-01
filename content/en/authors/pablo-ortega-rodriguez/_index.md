@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 🧩 Educational Games
+role: 🧩 Activities/games
 
 # Organizations/Affiliations
 organizations:

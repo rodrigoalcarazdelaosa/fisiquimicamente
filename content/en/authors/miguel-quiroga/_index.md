@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 🗒️ Activities
+role: 🧩 Activities/games
 
 # Organizations/Affiliations
 #organizations:

@@ -29,7 +29,7 @@ content:
       text: MAS
       url: 'recursos-fisica-quimica/apuntes/1bach/mas/'
   - title: 🗞️ Novedades
-    content: '🗒️ Última actividad'
+    content: '🧩 Última actividad/juego'
     align: center
     background:
       position: center
@@ -40,20 +40,20 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: El extraño caso del vuelo 1023 de Mole Airlines
-      url: '/recursos-fisica-quimica/actividades/1bach/extrano-caso-vuelo-1023-mole-airlines'
+      url: '/recursos-fisica-quimica/actividades-juegos/1bach/extrano-caso-vuelo-1023-mole-airlines'
   - title: 🗞️ Novedades
-    content: '🧩 Último juego educativo'
+    content: '📜 Última historia de la ciencia'
     align: center
     background:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/ultimo-juego-educativo.jpg
+      media: novedades/ultima-historia-ciencia.jpg
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: ¿Quién es quién?
-      url: '/recursos-fisica-quimica/juegos-educativos/2eso-3eso/quien-es-quien/'
+      text: Isaac Newton
+      url: '/recursos-fisica-quimica/historia-ciencia/isaac-newton.pdf'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'
     align: center

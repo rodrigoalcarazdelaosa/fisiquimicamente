@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 🧩 Juegos educativos
+role: 🧩 Actividades/juegos
 
 # Organizations/Affiliations
 organizations:

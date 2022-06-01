@@ -16,14 +16,14 @@
   weight = 1
 
 [[main]]
-  name = "🗒️ Actividades"
-  url = "recursos-fisica-quimica/actividades"
+  name = "🧩 Actividades/juegos"
+  url = "recursos-fisica-quimica/actividades-juegos"
   parent = "recursos-fyq"
   weight = 2
 
 [[main]]
-  name = "🧩 Juegos educativos"
-  url = "recursos-fisica-quimica/juegos-educativos"
+  name = "📜 Historia de la Ciencia"
+  url = "recursos-fisica-quimica/historia-ciencia"
   parent = "recursos-fyq"
   weight = 3
 

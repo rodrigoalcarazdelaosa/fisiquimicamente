@@ -179,30 +179,18 @@
   translation: 📚 Apuntes 2.º Bach Química
 - id: apuntes-formulacion
   translation: 📚 Apuntes Formulación Nomenclatura Química 
-- id: actividades-segundo-tercero-eso
-  translation: 🗒️ Actividades 2.º ESO &ndash; 3.º ESO
-- id: actividades-cuarto-eso
-  translation: 🗒️ Actividades 4.º ESO
-- id: actividades-primero-bach
-  translation: 🗒️ Actividades 1.º Bach
-- id: actividades-segundo-bach-fisica
-  translation: 🗒️ Actividades 2.º Bach Física
-- id: actividades-segundo-bach-quimica
-  translation: 🗒️ Actividades 2.º Bach Química
-- id: actividades-formulacion
-  translation: 🗒️ Actividades Formulación Nomenclatura Química 
-- id: juegos-educativos-segundo-tercero-eso
-  translation: 🧩 Juegos Educativos 2.º ESO &ndash; 3.º ESO
-- id: juegos-educativos-cuarto-eso
-  translation: 🧩 Juegos Educativos 4.º ESO
-- id: juegos-educativos-primero-bach
-  translation: 🧩 Juegos Educativos 1.º Bach
-- id: juegos-educativos-segundo-bach-fisica
-  translation: 🧩 Juegos Educativos 2.º Bach Física
-- id: juegos-educativos-segundo-bach-quimica
-  translation: 🧩 Juegos Educativos 2.º Bach Química
-- id: juegos-educativos-formulacion
-  translation: 🧩 Juegos Educativos Formulación Nomenclatura Química
+- id: actividades-juegos-segundo-tercero-eso
+  translation: 🧩 Actividades/juegos 2.º ESO &ndash; 3.º ESO
+- id: actividades-juegos-cuarto-eso
+  translation: 🧩 Actividades/juegos 4.º ESO
+- id: actividades-juegos-primero-bach
+  translation: 🧩 Actividades/juegos 1.º Bach
+- id: actividades-juegos-segundo-bach-fisica
+  translation: 🧩 Actividades/juegos 2.º Bach Física
+- id: actividades-juegos-segundo-bach-quimica
+  translation: 🧩 Actividades/juegos 2.º Bach Química
+- id: actividades-juegos-formulacion
+  translation: 🧩 Actividades/juegos Formulación Nomenclatura Química 
 - id: slides
   translation: 🧑‍🏫 Diapositivas
 - id: authors

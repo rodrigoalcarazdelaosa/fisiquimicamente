@@ -52,7 +52,7 @@ slides: formulacion-nomenclatura-quimica-organica
 <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
 
 {{% callout game %}}
-Si quieres practicar a **nombrar** y **formular compuestos orgánicos** básicos, te recomendamos [este estupendo **juego**]({{< relref "/juegos-educativos-formulacion/formula-con-marvin" >}}) similar al parchís.
+Si quieres practicar a **nombrar** y **formular compuestos orgánicos** básicos, te recomendamos [este estupendo **juego**]({{< relref "/actividades-juegos-formulacion/formula-con-marvin" >}}) similar al parchís.
 {{% /callout %}}
 
 {{% callout note %}}

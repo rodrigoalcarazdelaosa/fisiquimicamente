@@ -34,7 +34,7 @@ slides: elementos-compuestos-2ESO-3ESO
 ## La tabla periódica de los elementos
 
 {{% callout game %}}
-**Aprende química** mientras juegas con [esta genial **baraja** de la **tabla** **periódica**]({{< relref "/juegos-educativos-cuarto-eso/baraja-tabla-periodica" >}}).
+**Aprende química** mientras juegas con [esta genial **baraja** de la **tabla** **periódica**]({{< relref "/actividades-juegos-cuarto-eso/baraja-tabla-periodica" >}}).
 {{% /callout %}}
 
 La **tabla periódica de los elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados por su número atómico $Z$**.
@@ -131,7 +131,7 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 ## Elementos y compuestos de especial interés
 
 {{% callout game %}}
-Si quieres **aprender** cuáles son las **características** y principales **aplicaciones** de algunos de los **compuestos orgánicos e inorgánicos** más habituales, te recomendamos [esta estupenda adaptación del **quién es quién**]({{< relref "/juegos-educativos-segundo-tercero-eso/quien-es-quien" >}}).
+Si quieres **aprender** cuáles son las **características** y principales **aplicaciones** de algunos de los **compuestos orgánicos e inorgánicos** más habituales, te recomendamos [esta estupenda adaptación del **quién es quién**]({{< relref "/actividades-juegos-segundo-tercero-eso/quien-es-quien" >}}).
 {{% /callout %}}
 
 ### Con aplicaciones industriales 🏭

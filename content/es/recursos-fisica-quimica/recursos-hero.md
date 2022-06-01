@@ -25,9 +25,9 @@ advanced:
 
 📚 **Apuntes**
 
-🗒️ **Actividades**
+🧩 **Actividades/juegos**
 
-🧩 **Juegos educativos**
+📜 **Historia de la Ciencia**
 
 🎓 Recursos **EBAU**
 

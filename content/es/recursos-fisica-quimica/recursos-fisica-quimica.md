@@ -22,18 +22,18 @@ subtitle = ""
   description = "[📗 2.º ESO](apuntes/2eso) · [📘 3.º ESO](apuntes/3eso) · [📙 4.º ESO](apuntes/4eso) <br> [📕 1.º Bach](apuntes/1bach) · [📓 2.º Bach](apuntes/2bach) <br> [📔 Formulación y nomenclatura de Química](apuntes/formulacion-nomenclatura-quimica)"
 
 [[feature]]
-  icon = "actividades"
-  icon_link = "actividades/"
-  icon_pack = "tgs"
-  name = "[Actividades](actividades)"
-  description = "[📗 2.º ESO](actividades/2eso) · [📘 3.º ESO](actividades/3eso) · [📙 4.º ESO](actividades/4eso) <br> [📕 1.º Bach](actividades/1bach) · [📓 2.º Bach](actividades/2bach) <br> [📔 Formulación y nomenclatura de Química](actividades/formulacion-nomenclatura-quimica)"
+  icon = "actividades-juegos"
+  icon_link = "actividades-juegos/"
+  icon_pack = "lottie"
+  name = "[Actividades/juegos](actividades-juegos)"
+  description = "[📗 2.º ESO](actividades-juegos/2eso) · [📘 3.º ESO](actividades-juegos/3eso) · [📙 4.º ESO](actividades-juegos/4eso) <br> [📕 1.º Bach](actividades-juegos/1bach) · [📓 2.º Bach](actividades-juegos/2bach) <br> [📔 Formulación y nomenclatura de Química](actividades-juegos/formulacion-nomenclatura-quimica)"
 
 [[feature]]
-  icon = "juegos-educativos"
-  icon_link = "juegos-educativos/"
+  icon = "historia-ciencia"
+  icon_link = "historia-ciencia/"
   icon_pack = "lottie"
-  name = "[Juegos educativos](juegos-educativos)"
-  description = "[📗 2.º ESO](juegos-educativos/2eso) · [📘 3.º ESO](juegos-educativos/3eso) · [📙 4.º ESO](juegos-educativos/4eso) <br> [📕 1.º Bach](juegos-educativos/1bach) · [📓 2.º Bach](juegos-educativos/2bach) <br> [📔 Formulación y nomenclatura de Química](juegos-educativos/formulacion-nomenclatura-quimica)"
+  name = "[Historia de la Ciencia](historia-ciencia)"
+  description = "Biografías y principales contribuciones científicas <br> de los grandes científicos y científicas de la historia"
   
 [[feature]]
   icon = "ebau"
