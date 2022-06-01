@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "📜 Historia de la Ciencia"
-subtitle = "Biografías y principales contribuciones científicas de los grandes científicos y científicas de la historia"
+subtitle = "Biografías y principales contribuciones de los grandes científicos y científicas de la historia"
 
 [content]
   # Page type to display. E.g. project.

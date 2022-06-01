@@ -33,7 +33,7 @@ subtitle = ""
   icon_link = "historia-ciencia/"
   icon_pack = "lottie"
   name = "[Historia de la Ciencia](historia-ciencia)"
-  description = "Biografías y principales contribuciones científicas <br> de los grandes científicos y científicas de la historia"
+  description = "Biografías y principales contribuciones <br> de los grandes científicos y científicas de la historia"
   
 [[feature]]
   icon = "ebau"
