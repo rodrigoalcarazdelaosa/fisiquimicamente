@@ -42,13 +42,13 @@ content:
       text: El extraño caso del vuelo 1023 de Mole Airlines
       url: '/recursos-fisica-quimica/actividades-juegos/1bach/extrano-caso-vuelo-1023-mole-airlines'
   - title: 🗞️ Novedades
-    content: '📜 Última historia de la ciencia'
+    content: '📜 Última biografía científica'
     align: center
     background:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/ultima-historia-ciencia.jpg
+      media: novedades/ultima-biografia-cientifica.jpg
     link:
       #icon: graduation-cap
       #icon_pack: fas
