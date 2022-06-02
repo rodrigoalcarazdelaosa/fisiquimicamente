@@ -293,7 +293,7 @@ blockquote {
 }
 
 .btn-outline-primary:hover, .dark .btn-outline-primary:hover, .btn-outline-primary:focus, .dark .btn-outline-primary:focus, .btn-outline-primary.focus, .dark .btn-outline-primary.focus {
-  color: $nord0;
+  color: $nord0 !important;
   background-color: $nord8;
   border-color: $nord8;
 }
@@ -896,6 +896,14 @@ ul.subscribe li:hover i {
 }
 
 .dark .home-section.light h1 {
+  color: $nord6;
+}
+
+.home-section.light a {
+  color: $primary;
+}
+
+.dark .home-section.light a {
   color: $nord6;
 }
 
