@@ -10,7 +10,7 @@ subtitle = "Biografías y principales contribuciones de los grandes científicos
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "historias-ciencia"
+  page_type = "biografias-cientificas"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

@@ -3,7 +3,7 @@ title: Isaac Newton
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle: 
 summary: ""
-# breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-4eso"]
+# breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 tags:
 - cálculo
 - mecánica
@@ -21,5 +21,15 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "/recursos-fisica-quimica/historia-ciencia/isaac-newton.pdf"
+external_link: ""
+
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Póster
+  url: isaac-newton-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Tríptico
+  url: isaac-newton-triptico.pdf  
 ---
