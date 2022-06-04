@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "¿Qué determina el color de un ser vivo?"
-      url: 'blog/2022/04/07/que-determina-el-color-de-un-ser-vivo/'
+      text: "Antimateria"
+      url: 'blog/2022/06/04/antimateria/'
 ---
