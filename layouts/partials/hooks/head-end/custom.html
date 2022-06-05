@@ -4,18 +4,18 @@
 <link rel="preload" href="{{ "/webfonts/fa-solid-900.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="{{ "/webfonts/fa-brands-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
 
-{{ if eq .Site.Language.Lang "es" }}
+{{ if eq site.Language.Lang "es" }}
   <script async src="https://arc.io/widget.min.js#RqUKm4UN"></script>
-{{ else if eq .Site.Language.Lang "en" }}
+{{ else if eq site.Language.Lang "en" }}
   <script async src="https://arc.io/widget.min.js#qgr6E4gp"></script>
-{{ else if eq .Site.Language.Lang "ca" }}
+{{ else if eq site.Language.Lang "ca" }}
   <script async src="https://arc.io/widget.min.js#VdvpzK5Z"></script>
 {{ end }}
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
 
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-{{ if eq .Site.Language.Lang "es" }}
+{{ if eq site.Language.Lang "es" }}
 <script>
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
@@ -24,7 +24,7 @@
     });
   });
 </script>
-{{ else if eq .Site.Language.Lang "en" }}
+{{ else if eq site.Language.Lang "en" }}
 <script>
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
@@ -33,7 +33,7 @@
     });
   });
 </script>
-{{ else if eq .Site.Language.Lang "ca" }}
+{{ else if eq site.Language.Lang "ca" }}
 <script>
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {

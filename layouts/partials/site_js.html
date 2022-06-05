@@ -194,4 +194,9 @@
        <script src="{{ $js.RelPermalink }}" type="module"></script>
      {{- end -}}
 
-{{ partial "custom_js" . }}
+{{/* EXTENSIBILITY HOOK: BODY-END */}}
+ {{/* Deprecated custom_js hook */}}
+ {{ if templates.Exists "partials/custom_js" }}
+   {{ partial "custom_js" . }}
+ {{ end }}
+ {{ partial "functions/get_hook" (dict "hook" "body-end" "context" .) }}

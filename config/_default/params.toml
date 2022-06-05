@@ -22,7 +22,6 @@ sharing_image_ca = "sharing-ca.png"
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
@@ -64,7 +63,8 @@ plugins_js  = ["footnotes"]
   [features.syntax_highlighter]
     enable = true
     extra_languages = ["latex"]  # Add support for highlighting additional languages
-    # theme = "dracula"
+    theme_light = "nord"
+    theme_dark = "nord"
 
   [features.math]
     enable = true

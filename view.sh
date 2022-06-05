@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-hugo server --renderStaticToDisk --disableFastRender --printI18nWarnings --buildFuture
+hugo server --panicOnWarning --renderStaticToDisk --disableFastRender --printI18nWarnings --buildFuture
