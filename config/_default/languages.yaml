@@ -1,0 +1,37 @@
+# Español
+es:
+  baseURL: 'https://fisiquimicamente.com/'
+  languageCode: es
+  contentDir: content/es
+
+# Inglés
+en:
+  baseURL: 'https://physichemically.com/'
+  languageCode: en
+  contentDir: content/en
+  title: PhysiChemically
+  permalinks:
+    authors: '/author/:slug/'
+    tags: '/tag/:slug/'
+    categories: '/category/:slug/'
+    publication_types: '/publication-type/:slug/'
+    post: '/blog/:year/:month/:day/:slug'
+  params:
+    marketing:
+      seo:
+        org_name: PhysiChemically
+        description: 'Physics and Chemistry Resources, Tutorials and Current Science.'
+        
+# Catalán
+ca:
+  baseURL: 'https://fisiquimicament.com/'
+  languageCode: ca
+  contentDir: content/ca
+  title: FisiQuímicament
+  params:
+    marketing:
+      seo:
+        org_name: FisiQuímicament
+        description: 'Recursos de Física i Química, tutorials i ciència d''actualitat.'
+
+

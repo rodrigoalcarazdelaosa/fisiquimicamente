@@ -1,0 +1,86 @@
+# Configuration of Hugo
+# Guide: https://wowchemy.com/docs/getting-started/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+title: FisiQuímicamente # Website name
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:    
+    share: true
+    reading_time: true
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: es
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+      disable: true
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+
+############################
+## ADVANCED
+############################
+
+enableGitInfo: true
+summaryLength: 30
+paginate: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+permalinks:
+  authors: '/autor/:slug/'
+  tags: '/etiqueta/:slug/'
+  categories: '/categoria/:slug/'
+  publication_types: '/publication-type/:slug/'
+  post: '/blog/:year/:month/:day/:slug'
+disableAliases: true
+outputs:
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  section: [HTML, RSS]
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+timeout: 100000
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+markup:
+  _merge: deep
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: title
+      weight: 20
+    - name: summary
+      weight: 10
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 40
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
+minify:
+  disableHTML: true

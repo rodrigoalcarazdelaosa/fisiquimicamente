@@ -1,0 +1,124 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: nord
+  theme_night: nord
+  font: garamond
+  font_size: XL
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Project
+    local_business_type: ''
+    org_name: 'FisiQuímicamente'
+    description: 'Recursos de Física y Química, tutoriales y ciencia de actualidad.'
+    twitter: 'fqmente'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    show_translations: true
+    highlight_active_link: false
+
+# Site footer
+
+footer:
+  show_translations: true
+  text: '&copy; 2020&ndash;2022 Rodrigo Alcaraz de la Osa'
+  copyright:
+    notice: ''
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: '2006-01-02'
+  time_format: '15:04'
+  address_format: es
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:      
+      - latex
+    theme_light: nord
+    theme_dark: nord
+  math:
+    enable: true
+  privacy_pack:
+    enable: true
+  repository:
+    url: 'https://github.com/rodrigoalcarazdelaosa/fisiquimicamente'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: 'discord'
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: false
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
+
+sharing_image: sharing.png
+sharing_image_en: sharing-en.png
+sharing_image_ca: sharing-ca.png
+
+abstract_length: 135
+
+plugins_js:
+  - footnotes

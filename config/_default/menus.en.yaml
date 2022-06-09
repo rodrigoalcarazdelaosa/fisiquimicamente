@@ -1,0 +1,57 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: 📚 Notes
+    url: physics-chemistry-notes/
+    identifier: apuntes
+    weight: 1
+  - name: 📗 13-14 year-olds
+    url: physics-chemistry-notes/13-14-year-olds
+    parent: apuntes
+    weight: 1
+  - name: 📘 14-15 year-olds
+    url: physics-chemistry-notes/14-15-year-olds
+    parent: apuntes
+    weight: 2
+  - name: 📙 15-16 year-olds
+    url: physics-chemistry-notes/15-16-year-olds
+    parent: apuntes
+    weight: 3
+  - name: 📕 16-17 year-olds
+    url: physics-chemistry-notes/16-17-year-olds
+    parent: apuntes
+    weight: 4
+  - name: 📓 17-18 year-olds
+    url: physics-chemistry-notes/17-18-year-olds
+    parent: apuntes
+    weight: 5 
+  - name: 📔 Nomenclature of Chemistry
+    url: physics-chemistry-notes/nomenclature-chemistry
+    parent: apuntes
+    weight: 6  
+  - name: 🤝 Tutorials
+    url: tutorials/
+    identifier: tutoriales
+    weight: 3
+  - name: $\LaTeX$
+    parent: tutoriales
+    url: tutorials/latex
+    weight: 1
+  - name: Presentation of Information
+    parent: tutoriales
+    url: tutorials/presentation-information
+    weight: 2    
+  - name: 🔗 Online Resources
+    url: online-resources/
+    identifier: enlaces-interes
+    weight: 4  
+  - name: ✍️ Blog
+    url: /blog
+    weight: 5 
+  - name: 👥 Team
+    url: team/
+    identifier: team
+    weight: 6
