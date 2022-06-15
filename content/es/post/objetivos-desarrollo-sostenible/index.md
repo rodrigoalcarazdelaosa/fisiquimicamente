@@ -86,7 +86,7 @@ links:
 ---
 
 {{% callout note %}}
-En esta entrada mostramos un breve **resumen** de la **información** que se encuentra en la excelente [**página oficial** de los **Objetivos de Desarrollo Sostenible (ODS)** de las **Naciones Unidades**](https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/), donde puedes encontrar además **datos destacables** y **metas** de cada uno de los **objetivos**.
+En esta entrada mostramos un breve **resumen** de la **información** que se encuentra en la excelente [**página oficial** de los **Objetivos de Desarrollo Sostenible (ODS)** de las **Naciones Unidades**](https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/), donde puedes encontrar además **datos destacables** y **metas** de cada uno de los **objetivos**. Pinchando en los **botones** que aparecen arriba, puedes descargar **PDFs** sobre **por qué son importantes** cada uno de los **ODS**.
 {{% /callout %}}
 
 {{% toc %}}

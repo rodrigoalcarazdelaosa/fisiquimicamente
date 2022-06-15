@@ -100,10 +100,10 @@ content:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/ultima-entrada-blog.jpg
+      media: novedades/ultima-entrada-blog.jpg      
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Antimateria"
-      url: 'blog/2022/06/04/antimateria/'
+      text: "Objetivos de Desarrollo Sostenible"
+      url: 'blog/2022/06/16/objetivos-de-desarrollo-sostenible/'
 ---
