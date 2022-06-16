@@ -11,6 +11,8 @@ tags:
 - ODS
 - desarrollo-sostenible
 categories:
+- Física
+- Química
 image:
   placement: 3
   caption: "https://www.un.org/sustainabledevelopment/es/news/communications-material/"
