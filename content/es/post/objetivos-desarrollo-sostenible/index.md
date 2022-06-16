@@ -22,7 +22,7 @@ links:
 ---
 
 {{% callout note %}}
-En esta entrada mostramos un breve **resumen** de la **información** que se encuentra en la excelente [**página oficial** de los **Objetivos de Desarrollo Sostenible (ODS)** de las **Naciones Unidades**](https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/), donde puedes encontrar además **datos destacables** y **metas** de cada uno de los **objetivos**. También puedes echar un vistazo a la [**Guía** de los **vagos** para **salvar** el **mundo**](https://www.un.org/sustainabledevelopment/es/takeaction/) (descargable en PDF en el botón de arriba) donde nos recomiendan acciones que podemos llevar a cabo para obtener resultados y poner así nuestro granito de arena.
+En esta entrada mostramos un breve **resumen** de la **información** que se encuentra en la excelente [**página oficial** de los **Objetivos de Desarrollo Sostenible (ODS)** de las **Naciones Unidades**](https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/), donde puedes encontrar además **datos destacables** y **metas** de cada uno de los **objetivos**. También puedes echar un vistazo a la [**Guía** de los **vagos** para **salvar** el **mundo**](https://www.un.org/sustainabledevelopment/es/takeaction/) (descargable en PDF en el botón de arriba) donde nos recomiendan **acciones** que podemos llevar a cabo para **obtener resultados** y poner así nuestro granito de arena.
 {{% /callout %}}
 
 {{% toc %}}
