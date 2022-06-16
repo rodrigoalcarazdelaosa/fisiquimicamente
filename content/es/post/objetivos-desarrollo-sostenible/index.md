@@ -13,11 +13,16 @@ tags:
 categories:
 image:
   placement: 3
-  caption: "https://www.un.org/sustainabledevelopment/es/news/communications-material/"      
+  caption: "https://www.un.org/sustainabledevelopment/es/news/communications-material/"
+links:
+- icon_pack: fas
+  icon: file-download
+  name: Guía de los vagos para salvar el mundo
+  url: https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/04/17-00011_LazyPersonGuide_flyer_Spanish_final.pdf
 ---
 
 {{% callout note %}}
-En esta entrada mostramos un breve **resumen** de la **información** que se encuentra en la excelente [**página oficial** de los **Objetivos de Desarrollo Sostenible (ODS)** de las **Naciones Unidades**](https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/), donde puedes encontrar además **datos destacables** y **metas** de cada uno de los **objetivos**.
+En esta entrada mostramos un breve **resumen** de la **información** que se encuentra en la excelente [**página oficial** de los **Objetivos de Desarrollo Sostenible (ODS)** de las **Naciones Unidades**](https://www.un.org/sustainabledevelopment/es/sustainable-development-goals/), donde puedes encontrar además **datos destacables** y **metas** de cada uno de los **objetivos**. También puedes echar un vistazo a la [**Guía** de los **vagos** para **salvar** el **mundo**](https://www.un.org/sustainabledevelopment/es/takeaction/) (descargable en PDF en el botón de arriba) donde nos recomiendan acciones que podemos llevar a cabo para obtener resultados y poner así nuestro granito de arena.
 {{% /callout %}}
 
 {{% toc %}}
@@ -70,7 +75,7 @@ Pincha [aquí](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/s
 
 ![ODS-5](ODS-5.jpg)
 
-La igualdad entre los géneros no es solo un derecho humano fundamental, sino la base necesaria para conseguir un mundo pacífico, próspero y sostenible.
+La [**igualdad entre** los **géneros**](https://www.un.org/sustainabledevelopment/es/ending-violence-against-women-and-girls/) no es solo un derecho humano fundamental, sino la base necesaria para conseguir un mundo pacífico, próspero y sostenible.
 
 {{% callout note %}}
 Pincha [aquí](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2016/10/5_Spanish_Why_it_Matters.pdf) para descubrir **por qué es importante** este **ODS**.
@@ -150,7 +155,7 @@ Pincha [aquí](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/s
 
 ![ODS-13](ODS-13.jpg)
 
-El cambio climático es un reto global que no respeta las fronteras nacionales.
+El [**cambio climático**](https://www.un.org/sustainabledevelopment/es/climate-action/) es un reto global que no respeta las fronteras nacionales.
 
 {{% callout note %}}
 Pincha [aquí](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2016/10/13-Spanish_Why-it-Matters.pdf) para descubrir **por qué es importante** este **ODS**.
@@ -160,7 +165,7 @@ Pincha [aquí](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/s
 
 ![ODS-14](ODS-14.jpg)
 
-Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos para el desarrollo sostenible.
+Conservar y utilizar en forma sostenible los [**océanos**](https://www.un.org/es/conferences/ocean2022), los mares y los recursos marinos para el desarrollo sostenible.
 
 {{% callout note %}}
 Pincha [aquí](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2016/10/14_Spanish_Why_it_Matters.pdf) para descubrir **por qué es importante** este **ODS**.
