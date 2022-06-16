@@ -1209,6 +1209,14 @@ ul.ul-edu li .description p.institution {
 
 /* Docs TOC nav. */
 
+#TableOfContents {
+  border-left: 1px solid $nord3; 
+}
+
+.dark #TableOfContents {
+  border-left: 1px solid $nord4; 
+}
+
 #TableOfContents li a,
 .toc-top li a {
   color: $nord3;
