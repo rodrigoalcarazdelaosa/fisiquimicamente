@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Objetivos de Desarrollo Sostenible"
-      url: 'blog/2022/06/16/objetivos-de-desarrollo-sostenible/'
+      text: "Conservación del momento angular"
+      url: 'blog/2022/06/22/conservacion-del-momento-angular/'
 ---
