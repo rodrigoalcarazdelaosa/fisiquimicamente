@@ -100,8 +100,4 @@ Lamentablemente, hay otros factores que sí nos deben preocupar respecto a la pr
 
 Finalmente, dejo una pregunta en el aire. Hemos visto que, al derretirse el hielo, el momento angular de nuestro planeta se conserva. Otra ley física de **conservación** bastante conocida es la de la **energía**. En este caso, ¿crees que la [**energía mecánica**](https://es.wikipedia.org/wiki/Energ%C3%ADa_mecánica) de un sistema en rotación cuyos elementos cambian su distancia respecto al eje de rotación, como el planteado en este artículo (o el del bailarín), se conserva?
 
-<div align="center">
-{{< tweet user="ManoloAlonso1" id="1526981716862279682" >}}
-</div>
-
 El ejercicio de este hilo se planteó este año en [mi facultad](https://fisicas.ucm.es) al alumnado de 1.° de Física para Ingeniería. La mayoría acertó, pero recuerdo que un estudiante respondió que el día aumentaría en 24 horas. ¡Vista la [progresiva disminución del hielo en Groenlandia](https://www.nationalgeographic.com.es/ciencia/perdida-hielo-global-alcanza-nuevo-record_16274) y en el resto de las zonas polares debido al cambio climático no sé cómo pudo dormir tranquilo esa noche!
