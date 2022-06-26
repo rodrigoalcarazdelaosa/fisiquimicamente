@@ -47,7 +47,7 @@ Digestión, combustión, fotosíntesis, cocción de alimentos, putrefacción.
 ## La reacción química
 Una **reacción química** es un proceso en el cual unas sustancias (**reactivos**) desaparecen, transformándose en otras sustancias (**productos**), de naturaleza diferente.
 
-{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano-intro.svg" title="Una molécula de metano ($\ce{CH4}$) reacciona con dos moléculas de oxígeno ($\ce{O2}$) para producir una molécula de dióxido de carbono ($\ce{CO2}$) y dos moléculas de agua ($\ce{H2O}$)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano-intro.svg" title="Una molécula de metano ($\ce{CH4}$) reacciona con dos moléculas de oxígeno ($\ce{O2}$) para producir una molécula de dióxido de carbono ($\ce{CO2}$) y dos moléculas de agua ($\ce{H2O}$). Adaptada de https://commons.wikimedia.org/wiki/File:Methane-combustion.svg." lightbox="false" width="100%" >}}
 
 ### Teoría de colisiones
 La **teoría** de **colisiones** nos ayuda a **explicar** el **mecanismo** de una **reacción química**:
