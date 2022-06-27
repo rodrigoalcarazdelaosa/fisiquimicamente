@@ -35,7 +35,11 @@ subtitle = "📓 17--18 year-olds ⚗️ Chemistry"
 	
   [[content.filter_button]]
     name = "Chemical Bond"
-    tag = "chemical-bond"	
+    tag = "chemical-bond"
+
+  [[content.filter_button]]
+    name = "Thermochemistry"
+    tag = "thermochemistry"    	
 	
   [[content.filter_button]]
     name = "Chemical Kinetics"

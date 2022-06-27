@@ -24,6 +24,10 @@ subtitle = "📕 16--17 year-olds"
   [[content.filter_button]]
     name = "All"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Fundamental Chemical Laws"
+    tag = "laws-chemical-combination"    
 	
   [[content.filter_button]]
     name = "Solutions"
@@ -31,11 +35,7 @@ subtitle = "📕 16--17 year-olds"
   
   [[content.filter_button]]
     name = "Chemical Reactions"
-    tag = "chemical-reactions"
-
-  [[content.filter_button]]
-    name = "Thermochemistry"
-    tag = "thermochemistry"
+    tag = "chemical-reactions"  
 	
   [[content.filter_button]]
     name = "Motion"
@@ -44,10 +44,6 @@ subtitle = "📕 16--17 year-olds"
   [[content.filter_button]]
     name = "Forces"
     tag = "forces"			
-	
-  [[content.filter_button]]
-    name = "Gravitation"
-    tag = "gravitation"		
 	
   [[content.filter_button]]
     name = "Energy"

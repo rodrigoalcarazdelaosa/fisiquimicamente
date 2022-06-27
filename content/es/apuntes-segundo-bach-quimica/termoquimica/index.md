@@ -1,19 +1,19 @@
 ---
 title: Termoquímica
-url: "/recursos-fisica-quimica/apuntes/1bach/termoquimica"
+url: "/recursos-fisica-quimica/apuntes/2bach/quimica/termoquimica"
 subtitle: Transformaciones energéticas y espontaneidad de las reacciones químicas
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Transformaciones energéticas y espontaneidad de las reacciones químicas."
-breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 tags:
 - apuntes
-- 1º Bach
+- 2º Bach
 - termoquímica
 categories:
 - Química
-weight: 3
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

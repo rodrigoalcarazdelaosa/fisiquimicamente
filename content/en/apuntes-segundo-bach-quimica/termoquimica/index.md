@@ -1,16 +1,16 @@
 ---
 title: Thermochemistry
-url: "/physics-chemistry-notes/16-17-year-olds/thermochemistry"
+url: "/physics-chemistry-notes/17-18-year-olds/chemistry/thermochemistry"
 subtitle: Energy transformations and spontaneity of chemical reactions
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Energy transformations and spontaneity of chemical reactions."
-breadcrumbs: ["notes","16-17-year-olds"]
+breadcrumbs: ["notes","17-18-year-olds","chemistry"]
 tags:
 - notes
-- 16-17-year-olds
+- 17-18-year-olds
 - thermochemistry
 categories:
 - Chemistry
-weight: 3
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

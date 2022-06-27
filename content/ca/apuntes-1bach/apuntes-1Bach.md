@@ -26,16 +26,16 @@ subtitle = "📕 1r Batx"
     tag = "*"
 	
   [[content.filter_button]]
+    name = "Lleis fonamentals de la Química"
+    tag = "lleis-ponderals"
+
+  [[content.filter_button]]
     name = "Dissolucions"
-    tag = "dissolucions"
+    tag = "dissolucions"    
   
   [[content.filter_button]]
     name = "Reaccions químiques"
-    tag = "reaccions-químiques"
-
-  [[content.filter_button]]
-    name = "Termoquímica"
-    tag = "termoquímica"
+    tag = "reaccions-químiques"  
 	
   [[content.filter_button]]
     name = "Moviment"
@@ -43,11 +43,7 @@ subtitle = "📕 1r Batx"
 	
   [[content.filter_button]]
     name = "Forces"
-    tag = "forces"			
-	
-  [[content.filter_button]]
-    name = "Gravitació"
-    tag = "gravitació"				
+    tag = "forces"				  				
   
   [[content.filter_button]]
     name = "Energia"

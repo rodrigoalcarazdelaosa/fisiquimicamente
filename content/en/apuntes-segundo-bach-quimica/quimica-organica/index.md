@@ -10,7 +10,7 @@ tags:
 - organic
 categories:
 - Chemistry
-weight: 8
+weight: 9
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

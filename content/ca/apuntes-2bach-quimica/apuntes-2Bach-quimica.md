@@ -36,6 +36,10 @@ subtitle = "📓 2n Batx ⚗️ Química"
   [[content.filter_button]]
     name = "Enllaç químic"
     tag = "enllaç-químic"	
+
+  [[content.filter_button]]
+    name = "Termoquímica"
+    tag = "termoquímica"
 	
   [[content.filter_button]]
     name = "Cinètica química"

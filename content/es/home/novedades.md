@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: MAS
-      url: 'recursos-fisica-quimica/apuntes/1bach/mas/'
+      text: Leyes fundamentales de la Química
+      url: 'recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica/'
   - title: 🗞️ Novedades
     content: '🧩 Última actividad/juego'
     align: center

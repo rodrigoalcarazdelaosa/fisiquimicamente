@@ -26,8 +26,8 @@ subtitle = "📕 1.º Bach"
     tag = "*"
 
   [[content.filter_button]]
-    name = "Aspectos cuantitativos de la Química"
-    tag = "aspectos-cuantitativos-química"    
+    name = "Leyes fundamentales de la Química"
+    tag = "leyes-ponderales"    
 	
   [[content.filter_button]]
     name = "Disoluciones"
@@ -36,10 +36,6 @@ subtitle = "📕 1.º Bach"
   [[content.filter_button]]
     name = "Reacciones químicas"
     tag = "reacciones-químicas"
-
-  [[content.filter_button]]
-    name = "Termoquímica"
-    tag = "termoquímica"
 	
   [[content.filter_button]]
     name = "Movimiento"
@@ -47,11 +43,7 @@ subtitle = "📕 1.º Bach"
 	
   [[content.filter_button]]
     name = "Fuerzas"
-    tag = "fuerzas"			
-	
-  [[content.filter_button]]
-    name = "Gravitación"
-    tag = "gravitación"				
+    tag = "fuerzas"	  				
   
   [[content.filter_button]]
     name = "Energía"

@@ -1,16 +1,16 @@
 ---
 title: Termoquímica
-url: "/recursos-fisica-quimica/apunts/1batx/termoquimica"
+url: "/recursos-fisica-quimica/apunts/2batx/quimica/termoquimica"
 subtitle: Transformacions energètiques i espontaneïtat de les reaccions químiques
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Transformacions energètiques i espontaneïtat de les reaccions químiques."
-breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 tags:
 - apunts
-- 1r Batx
+- 2n Batx
 - termoquímica
 categories:
 - Química
-weight: 3
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
