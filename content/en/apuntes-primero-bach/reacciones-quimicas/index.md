@@ -10,7 +10,7 @@ tags:
 - chemical-reactions
 categories:
 - Chemistry
-weight: 2
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

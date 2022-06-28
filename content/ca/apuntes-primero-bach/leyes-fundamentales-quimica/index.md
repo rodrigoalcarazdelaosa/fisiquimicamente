@@ -4,8 +4,6 @@ url: "/recursos-fisica-quimica/apunts/1batx/lleis-fonamentals-quimica"
 subtitle: Lleis ponderals i lleis dels gasos ideals
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Lleis ponderals i lleis dels gasos ideals."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
-authors:
-- rodrigo-alcaraz-de-la-osa
 tags:
 - apunts
 - 1r Batx

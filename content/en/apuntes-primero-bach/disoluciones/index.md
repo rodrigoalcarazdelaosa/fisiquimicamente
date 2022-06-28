@@ -10,7 +10,7 @@ tags:
 - solutions
 categories:
 - Chemistry
-weight: 1
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -22,5 +22,5 @@ image:
 ---
 
 {{% callout soon %}}
-Comingo soon...
+Coming soon...
 {{% /callout %}}
