@@ -50,7 +50,7 @@ También conocida como **ley de Guldberg y Waage**, establece que la velocidad d
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -67,7 +67,7 @@ Como en el equilibrio las concentraciones de reactivos y productos se mantienen 
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -114,7 +114,7 @@ Para poder saber si una reacción ha llegado a su equilibrio, se puede calcular 
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -143,7 +143,7 @@ El **grado de disociación**, $\alpha$, se define como el cociente entre la cant
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -171,7 +171,7 @@ En reacciones en las cuales intervienen **gases**, se puede expresar la constant
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -209,7 +209,7 @@ donde $\Delta n = n_\text{final} - n_\text{inicial}$ es la <strong>variación</s
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -267,7 +267,7 @@ El **amoniaco**, NH<sub>3</sub>, se produce industrialmente a partir de nitróge
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -356,7 +356,7 @@ o conociendo la **importancia** del **proceso** para la **economía** y la **ali
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -434,7 +434,7 @@ El **efecto del ion común** es una consecuencia del principio de Le Châtelier 
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

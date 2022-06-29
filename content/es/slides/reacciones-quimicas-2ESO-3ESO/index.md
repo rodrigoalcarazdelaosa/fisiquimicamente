@@ -39,7 +39,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -74,7 +74,7 @@ Una **reacción química** es un proceso en el cual unas sustancias (**reactivos
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -111,7 +111,7 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -251,7 +251,7 @@ Los **factores** que **influyen** en la **velocidad** de una **reacción** son:
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -301,7 +301,7 @@ Los **gases** de **efecto invernadero**, como el CO<sub>2</sub>, el CH<sub>4</su
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

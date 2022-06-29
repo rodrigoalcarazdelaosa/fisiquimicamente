@@ -32,13 +32,11 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Ley de Boyle-Mariotte
 
+<q>A **temperatura constante**, el volumen de una masa fija de gas es inversamente proporcional a la presión que éste ejerce.</q>
+
 (continúa hacia abajo)
 
-👇🏼
-
----
-
-<q>A **temperatura constante**, el volumen de una masa fija de gas es inversamente proporcional a la presión que éste ejerce.</q>
+👇
   
 ---
 
@@ -56,6 +54,10 @@ donde:
 - $V_1$ es el volumen inicial.
 - $p_2$ es la presión final.
 - $V_2$ es el volumen final.
+
+---
+
+{{< figure library="true" src="leyes-gases-3ESO/boyle.svg" title="**Ley de Boyle-Mariotte**. Al aumentar la presión, disminuye el volumen." width="30%" lightbox="false" >}}
 
 ---
 
@@ -86,13 +88,11 @@ $$
 
 ## Ley de Charles
 
+<q>Para una cierta cantidad de gas a **presión constante**, su volumen es directamente proporcional a su temperatura.</q>
+
 (continúa hacia abajo)
 
-👇🏼
-
----
-
-<q>Para una cierta cantidad de gas a **presión constante**, su volumen es directamente proporcional a su temperatura.</q>
+👇
   
 ---
 
@@ -109,6 +109,10 @@ donde:
 - $T_1$ es la temperatura inicial (¡en K!).
 - $V_2$ es el volumen final.
 - $T_2$ es la temperatura final (¡en K!).
+
+---
+
+{{< figure library="true" src="leyes-gases-3ESO/charles.svg" title="**Ley de Charles**. Al aumentar el volumen, aumenta también la temperatura." width="30%" lightbox="false" >}}
 
 ---
 
@@ -140,13 +144,11 @@ $$
 
 ## Ley de Gay-Lussac
 
+<q>La presión que ejerce un **volumen fijo** de gas es directamente proporcional a su temperatura.</q>
+
 (continúa hacia abajo)
 
-👇🏼
-
----
-
-<q>La presión que ejerce un **volumen fijo** de gas es directamente proporcional a su temperatura.</q>
+👇
   
 ---
 
@@ -163,6 +165,10 @@ donde:
 - $T_1$ es la temperatura inicial (¡en K!).
 - $p_2$ es la presión final.
 - $T_2$ es la temperatura final (¡en K!).
+
+---
+
+{{< figure library="true" src="leyes-gases-3ESO/gay-lussac.svg" title="**Ley de Gay-Lussac**. Al aumentar la presión, aumenta también la temperatura." width="30%" lightbox="false" >}}
 
 ---
 
@@ -196,7 +202,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

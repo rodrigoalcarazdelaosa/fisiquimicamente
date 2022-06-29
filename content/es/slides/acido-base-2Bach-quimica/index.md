@@ -43,7 +43,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -118,7 +118,7 @@ En función de cuan ionizado/a o disociado/a se encuentre un ácido o una base, 
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -507,7 +507,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -540,7 +540,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -551,7 +551,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -583,7 +583,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -624,7 +624,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

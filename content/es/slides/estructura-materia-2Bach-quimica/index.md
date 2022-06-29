@@ -42,7 +42,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -151,7 +151,7 @@ donde $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocid
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -237,7 +237,7 @@ donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -367,7 +367,7 @@ Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$.
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

@@ -43,7 +43,7 @@ La **cinética química** es la **rama** de la **química física** que se ocupa
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -88,7 +88,7 @@ El **mecanismo** de una **reacción** es el conjunto de procesos o reacciones el
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -114,7 +114,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -154,7 +154,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -218,7 +218,7 @@ Definimos la **vida media** o **periodo de semireacción**, $t_{1/2}$, como el t
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

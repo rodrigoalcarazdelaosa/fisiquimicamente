@@ -51,7 +51,7 @@ La **taula periòdica** dels **elements** organitza els **118 elements** conegut
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -123,7 +123,7 @@ Sent l'apantallament total $2<a<3$, pel que $1<Z_\mathrm{eff}<2$.
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 

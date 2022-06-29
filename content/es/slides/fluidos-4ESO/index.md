@@ -40,7 +40,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -63,7 +63,7 @@ En el SI la presión se mide en $\mathrm{N/m^2}$, que recibe el nombre de **pasc
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -292,7 +292,7 @@ Para determinar **densidades** y **fuerzas de empuje**:
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

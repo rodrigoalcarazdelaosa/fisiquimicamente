@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.568436mm"
+   height="72.718079mm"
+   viewBox="0 0 39.568436 72.718079"
+   version="1.1"
+   id="svg2743"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="boyle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2745"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.345839"
+     inkscape:cx="89.906745"
+     inkscape:cy="98.823116"
+     inkscape:window-width="1280"
+     inkscape:window-height="772"
+     inkscape:window-x="1920"
+     inkscape:window-y="241"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2740">
+    <linearGradient
+       id="Beaker_x5F_01_x5F_Body_1_"
+       gradientUnits="userSpaceOnUse"
+       y1="260.793"
+       x2="149.55901"
+       y2="260.793">
+      <stop
+         offset="0"
+         stop-color="#d7d7d7"
+         id="stop876" />
+      <stop
+         offset=".036"
+         stop-color="#d7d7d7"
+         id="stop878" />
+      <stop
+         offset="1"
+         stop-color="#dcdcdc"
+         id="stop880" />
+      <stop
+         offset="1"
+         stop-color="#d7d7d7"
+         id="stop882" />
+    </linearGradient>
+    <radialGradient
+       id="Bottom_Ball_90_"
+       cx="760.85999"
+       cy="763.84802"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop906" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop908" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop910" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop912" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop914" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop916" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_91_"
+       cx="738.646"
+       cy="785.25299"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop922" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop924" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop926" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop928" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop930" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop932" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_92_"
+       cx="736.14001"
+       cy="756.56702"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop938" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop940" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop942" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop944" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop946" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop948" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_93_"
+       cx="706.66901"
+       cy="759.01501"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop954" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop956" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop958" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop960" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop962" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop964" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_94_"
+       cx="721.80499"
+       cy="729.427"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop970" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop972" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop974" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop976" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop978" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop980" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_95_"
+       cx="752.85901"
+       cy="721.11902"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop986" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop988" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop990" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop992" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop994" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop996" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_96_"
+       cx="777.716"
+       cy="735.90802"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop1002" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop1004" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop1006" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop1008" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop1010" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop1012" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_97_"
+       cx="776.82098"
+       cy="705.91602"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop1018" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop1020" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop1022" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop1024" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop1026" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop1028" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_98_"
+       cx="754.86102"
+       cy="687.03802"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop1034" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop1036" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop1038" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop1040" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop1042" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop1044" />
+    </radialGradient>
+    <radialGradient
+       id="Bottom_Ball_99_"
+       cx="735.16901"
+       cy="694.599"
+       r="5.2319999"
+       gradientTransform="rotate(61.875,754.154,-35.054)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#93d2a4"
+         id="stop1050" />
+      <stop
+         offset=".363"
+         stop-color="#90d1a2"
+         id="stop1052" />
+      <stop
+         offset=".57"
+         stop-color="#88cd9b"
+         id="stop1054" />
+      <stop
+         offset=".738"
+         stop-color="#7ac790"
+         id="stop1056" />
+      <stop
+         offset=".884"
+         stop-color="#67bf7f"
+         id="stop1058" />
+      <stop
+         offset=".995"
+         stop-color="#52b66e"
+         id="stop1060" />
+    </radialGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-117.38951,-2.653671)">
+    <g
+       id="Beaker_x5F_01"
+       transform="matrix(0.26458333,0,0,0.26458333,117.38686,-21.391663)">
+      <linearGradient
+         id="linearGradient2548"
+         gradientUnits="userSpaceOnUse"
+         y1="260.793"
+         x2="149.55901"
+         y2="260.793">
+        <stop
+           offset="0"
+           stop-color="#d7d7d7"
+           id="stop2540" />
+        <stop
+           offset=".036"
+           stop-color="#d7d7d7"
+           id="stop2542" />
+        <stop
+           offset="1"
+           stop-color="#dcdcdc"
+           id="stop2544" />
+        <stop
+           offset="1"
+           stop-color="#d7d7d7"
+           id="stop2546" />
+      </linearGradient>
+      <path
+         id="Beaker_x5F_01_x5F_Body"
+         d="m 149.56,155.86 c -2.57,2.4 -4.17,5.71 -4.17,9.36 v 176.8 c 0,9.37 -17.81,23.7 -70.61,23.7 -52.8,0 -70.6,-14.34 -70.6,-23.7 v -176.8 c 0,-3.65 -1.59,-6.96 -4.17,-9.36 z"
+         fill="url(#Beaker_x5F_01_x5F_Body_1_)"
+         style="fill:url(#Beaker_x5F_01_x5F_Body_1_)" />
+      <g
+         id="Beaker_x5F_01_x5F_Mouth">
+        <path
+           id="Beaker_x5F_01_x5F_mouth_x5F_rim_x5F_03"
+           class="st1"
+           d="m 147.22,159.92 c 1.93,-1.53 2.34,-3.05 2.34,-4.06 0,-1.05 -0.43,-2.03 -1.24,-2.93 -9.52,-10.63 -70.72,-10.76 -73.54,-10.76 -29.99,0 -64.02,2.98 -72.44,9.64 -1.93,1.52 -2.33,3.05 -2.33,4.06 0,1.01 0.4,2.54 2.33,4.06 8.42,6.66 42.45,9.64 72.44,9.64 8.03,0 28.03,-1.03 37.69,-1.92 9.83,-0.91 31.67,-5.29 34.75,-7.73 z"
+           style="clip-rule:evenodd;fill:#e8e8e8;fill-rule:evenodd" />
+        <path
+           id="Beaker_x5F_01_x5F_mouth_x5F_rim_x5F_02_1_"
+           class="st2"
+           d="m 74.78,144.35 c 41.01,0 76.63,6.83 67.59,12.13 -1.62,0.96 -1.96,1.44 -15.09,4.51 -5.09,1.19 -15.32,2.62 -28.59,3.36 -7.19,0.4 -15.11,0.67 -23.91,0.67 -41.01,0 -59.76,-3.95 -67.59,-8.55 -9.04,-5.29 26.58,-12.12 67.59,-12.12 z"
+           style="clip-rule:evenodd;fill:#cdcdcd;fill-rule:evenodd" />
+      </g>
+      <path
+         id="Beaker_x5F_01_x5F_Water"
+         class="st3"
+         d="m 140.19,260.98 v 76.85 c 0,8.91 -16.71,22.54 -66.24,22.54 -49.53,0 -66.25,-13.63 -66.25,-22.54 v -76.85"
+         style="fill:#b6e3f2" />
+      <g
+         id="Beaker_x5F_01_x5F_Plunger">
+        <g
+           id="Beaker_x5F_01_x5F_Plunger_x5F_Seal">
+          <path
+             class="st15"
+             d="m 7.66,266.76 c 0,7.63 29.67,13.81 66.26,13.81 36.59,0 66.26,-6.18 66.26,-13.81 V 253.42 L 7.66,252.95 Z"
+             id="path890"
+             style="fill:#bcae80" />
+          <ellipse
+             class="st16"
+             cx="73.93"
+             cy="252.95"
+             rx="66.260002"
+             ry="13.81"
+             id="ellipse892"
+             style="fill:#d8caa4" />
+        </g>
+        <g
+           id="Beaker_x5F_01_x5F_Plunger_x5F_Rod">
+          <path
+             class="st15"
+             d="m 68.61,92.16 v 161.27 c 0,0.71 2.76,1.29 6.17,1.29 3.41,0 6.17,-0.58 6.17,-1.29 V 92.16 Z"
+             id="path895"
+             style="fill:#bcae80" />
+          <g
+             id="g901">
+            <path
+               class="st53"
+               d="m 68.61,169.52 v 83.92 c 0,0.71 2.76,1.29 6.17,1.29 3.41,0 6.17,-0.58 6.17,-1.29 v -83.99 c -2.42,0.07 -4.55,0.12 -6.17,0.12 -2.04,-0.01 -4.1,-0.02 -6.17,-0.05 z"
+               id="path897"
+               style="fill:#c6bca1" />
+            <ellipse
+               class="st53"
+               cx="74.769997"
+               cy="253.41"
+               rx="6.1599998"
+               ry="1.28"
+               id="ellipse899"
+               style="fill:#c6bca1" />
+          </g>
+          <ellipse
+             id="Beaker_x5F_01_x5F_Piston_x5F_Rod_x5F_Top"
+             class="st17"
+             cx="74.790001"
+             cy="92.160004"
+             rx="6.1599998"
+             ry="1.28"
+             style="fill:#d6ccb2" />
+        </g>
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_10">
+        <radialGradient
+           id="radialGradient2577"
+           cx="760.85999"
+           cy="763.84802"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2565" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2567" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2569" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2571" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2573" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2575" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball"
+           cx="52.77"
+           cy="347.48001"
+           r="5.23"
+           fill="url(#Bottom_Ball_90_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_90_)" />
+        <circle
+           id="Top_Shine"
+           transform="rotate(-28.128,54.203,346.71)"
+           class="st5"
+           cx="54.209999"
+           cy="346.70001"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_09">
+        <radialGradient
+           id="radialGradient2594"
+           cx="738.646"
+           cy="785.25299"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2582" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2584" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2586" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2588" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2590" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2592" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_4_"
+           cx="23.42"
+           cy="337.98001"
+           r="5.23"
+           fill="url(#Bottom_Ball_91_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_91_)" />
+        <circle
+           id="Top_Shine_4_"
+           transform="rotate(-28.128,24.853,337.21)"
+           class="st5"
+           cx="24.860001"
+           cy="337.20001"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_08">
+        <radialGradient
+           id="radialGradient2611"
+           cx="736.14001"
+           cy="756.56702"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2599" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2601" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2603" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2605" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2607" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2609" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_5_"
+           cx="47.540001"
+           cy="322.25"
+           r="5.23"
+           fill="url(#Bottom_Ball_92_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_92_)" />
+        <circle
+           id="Top_Shine_5_"
+           transform="rotate(-28.128,48.972,321.477)"
+           class="st5"
+           cx="48.98"
+           cy="321.47"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_07">
+        <radialGradient
+           id="radialGradient2628"
+           cx="706.66901"
+           cy="759.01501"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2616" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2618" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2620" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2622" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2624" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2626" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_6_"
+           cx="31.48"
+           cy="297.41"
+           r="5.23"
+           fill="url(#Bottom_Ball_93_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_93_)" />
+        <circle
+           id="Top_Shine_6_"
+           transform="rotate(-28.128,32.92,296.639)"
+           class="st5"
+           cx="32.93"
+           cy="296.63"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_06">
+        <radialGradient
+           id="radialGradient2645"
+           cx="721.80499"
+           cy="729.427"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2633" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2635" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2637" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2639" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2641" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2643" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_7_"
+           cx="64.709999"
+           cy="296.81"
+           r="5.23"
+           fill="url(#Bottom_Ball_94_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_94_)" />
+        <circle
+           id="Top_Shine_7_"
+           transform="rotate(-28.128,66.15,296.04)"
+           class="st5"
+           cx="66.160004"
+           cy="296.03"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_05">
+        <radialGradient
+           id="radialGradient2662"
+           cx="752.85901"
+           cy="721.11902"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2650" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2652" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2654" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2656" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2658" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2660" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_8_"
+           cx="86.68"
+           cy="320.28"
+           r="5.23"
+           fill="url(#Bottom_Ball_95_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_95_)" />
+        <circle
+           id="Top_Shine_8_"
+           transform="rotate(-28.128,88.117,319.512)"
+           class="st5"
+           cx="88.120003"
+           cy="319.5"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_04">
+        <radialGradient
+           id="radialGradient2679"
+           cx="777.716"
+           cy="735.90802"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2667" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2669" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2671" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2673" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2675" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2677" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_9_"
+           cx="85.360001"
+           cy="349.17999"
+           r="5.23"
+           fill="url(#Bottom_Ball_96_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_96_)" />
+        <circle
+           id="Top_Shine_9_"
+           transform="rotate(-28.128,86.791,348.406)"
+           class="st5"
+           cx="86.800003"
+           cy="348.39001"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_03">
+        <radialGradient
+           id="radialGradient2696"
+           cx="776.82098"
+           cy="705.91602"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2684" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2686" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2688" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2690" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2692" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2694" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_10_"
+           cx="111.38"
+           cy="334.25"
+           r="5.23"
+           fill="url(#Bottom_Ball_97_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_97_)" />
+        <circle
+           id="Top_Shine_10_"
+           transform="rotate(-28.128,112.82,333.478)"
+           class="st5"
+           cx="112.83"
+           cy="333.47"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_02">
+        <radialGradient
+           id="radialGradient2713"
+           cx="754.86102"
+           cy="687.03802"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2701" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2703" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2705" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2707" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2709" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2711" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_11_"
+           cx="117.68"
+           cy="305.98001"
+           r="5.23"
+           fill="url(#Bottom_Ball_98_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_98_)" />
+        <circle
+           id="Top_Shine_11_"
+           transform="rotate(-28.128,119.118,305.211)"
+           class="st5"
+           cx="119.12"
+           cy="305.20001"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Molecule_x5F_01">
+        <radialGradient
+           id="radialGradient2730"
+           cx="735.16901"
+           cy="694.599"
+           r="5.2319999"
+           gradientTransform="rotate(61.875,754.154,-35.054)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop2718" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop2720" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop2722" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop2724" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop2726" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop2728" />
+        </radialGradient>
+        <circle
+           id="Bottom_Ball_12_"
+           cx="101.73"
+           cy="292.17999"
+           r="5.23"
+           fill="url(#Bottom_Ball_99_)"
+           stroke="#47b265"
+           stroke-width="0.189"
+           stroke-miterlimit="10"
+           style="fill:url(#Bottom_Ball_99_)" />
+        <circle
+           id="Top_Shine_12_"
+           transform="rotate(-28.128,103.167,291.41)"
+           class="st5"
+           cx="103.17"
+           cy="291.39999"
+           r="1.1799999"
+           style="fill:#c9e8d2" />
+      </g>
+      <g
+         id="Beaker_x5F_01_x5F_Shine">
+        <path
+           id="Beaker_x5F_01_x5F_mouth_x5F_rim_x5F_01"
+           class="st18"
+           d="m 138.43,158.16 c -2.02,0.61 -5.32,1.47 -11.16,2.83 -5.09,1.19 -15.32,2.62 -28.59,3.36 -7.19,0.4 -15.11,0.67 -23.91,0.67 -35.9,0 -54.74,-3.03 -64.13,-6.87 H 0.71 c 0.35,0.57 0.87,1.16 1.62,1.76 8.42,6.66 42.45,9.64 72.44,9.64 8.03,0 28.03,-1.03 37.69,-1.92 9.64,-0.89 30.79,-5.11 34.54,-7.58 v -1.91 h -8.57 z"
+           style="fill:#e8e8e8" />
+        <path
+           id="Beaker_x5F_01_x5F_Shine_x5F_02"
+           class="st19"
+           d="m 7.66,337.83 c 0,5.21 6,12.22 21,16.99 V 171.64 c -8.65,-1.11 -16.01,-2.59 -21,-4.47 z"
+           style="opacity:0.3;fill:#ffffff" />
+        <path
+           id="Beaker_x5F_01_x5F_Shine_x5F_01"
+           class="st20"
+           d="m 115.34,355.94 c 8,-2.12 14,-4.86 18,-7.77 V 168.89 c -6.12,1.33 -12.97,2.53 -18,3.15 z"
+           style="opacity:0.2;fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

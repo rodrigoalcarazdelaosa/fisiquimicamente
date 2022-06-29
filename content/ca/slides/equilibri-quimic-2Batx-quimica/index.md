@@ -50,7 +50,7 @@ També coneguda com a **llei de Guldberg i Waage**, estableix que la velocitat d
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -67,7 +67,7 @@ Com en l'equilibri les concentracions de reactius i productes es mantenen consta
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -114,7 +114,7 @@ Per a poder saber si una reacció ha arribat al seu equilibri, es pot calcular l
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -143,7 +143,7 @@ El **grau de dissociació**, $\alpha$, es defineix com el quocient entre la quan
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -171,7 +171,7 @@ En reaccions en les quals intervenen **gasos**, es pot expressar la constant d'e
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -209,7 +209,7 @@ on $\Delta n = n_\text{final} - n_\text{inicial}$ és la <strong>variació</stro
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -267,7 +267,7 @@ L'**amoníac**, NH<sub>3</sub>, es produeix industrialment a partir de nitrogen 
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -356,7 +356,7 @@ o coneixent la **importància** del **procés** per a l'**economia** i l'**alime
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -434,7 +434,7 @@ L'**efecte de l'ió comú** és una conseqüència del principi de Le Châtelier
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 

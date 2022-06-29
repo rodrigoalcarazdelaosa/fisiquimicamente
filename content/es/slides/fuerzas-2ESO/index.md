@@ -37,7 +37,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -110,7 +110,7 @@ Una **máquina simple** es un **dispositivo** mecánico que **cambia** la **magn
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -171,7 +171,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

@@ -40,7 +40,7 @@ Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fa
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -111,7 +111,7 @@ Estudia la **polaritat** de **molècules** amb aquesta **simulació**:
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -187,7 +187,7 @@ L'**enllaç metàl·lic** és l'enllaç químic que **manté units** als **àtom
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -235,7 +235,7 @@ També et recomano donar un cop d'ull a aquest magnífic **vídeo** de [Quantum 
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -355,7 +355,7 @@ Les **substàncies covalents cristal·lines** contenen un gran nombre d'**àtoms
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -570,7 +570,7 @@ Les **forces intermoleculars** són les **forces** que existeixen **entre** les 
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 

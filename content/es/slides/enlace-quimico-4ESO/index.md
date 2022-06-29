@@ -39,7 +39,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -57,7 +57,7 @@ Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** d
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -101,7 +101,7 @@ Es un enlace que involucra la **atracción electrostática** entre **iones** de 
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -145,7 +145,7 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -208,7 +208,7 @@ El **enlace metálico** es el enlace químico que **mantiene unidos** a los **á
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -238,7 +238,7 @@ Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las *
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

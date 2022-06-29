@@ -49,7 +49,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -96,7 +96,7 @@ El **estado de oxidación** describe el grado de oxidación (pérdida de electro
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -145,7 +145,7 @@ Ganancia de electrones
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -255,7 +255,7 @@ Las **pilas galvánicas** (Galvani) o voltaicas (Volta) son celdas electroquími
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -315,7 +315,7 @@ Es la tendencia de una especie química a ser reducida en **condiciones estánda
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -386,7 +386,7 @@ donde *n* son los moles, *c* representa los coeficientes estequiométricos, *M* 
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -442,7 +442,7 @@ La **electrolisis** es una técnica que utiliza corriente eléctrica continua (C
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -559,7 +559,7 @@ En condiciones ideales, la cantidad de hidrógeno depositada es el doble que la 
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -591,7 +591,7 @@ A pesar de sus ventajas, aún no se utilizan ampliamente, debido a su coste y ba
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

@@ -43,7 +43,7 @@ La **cinètica química** és la **branca** de la **química física** que s'ocu
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -88,7 +88,7 @@ El **mecanisme** d'una **reacció** és el conjunt de processos o reaccions elem
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -114,7 +114,7 @@ $$
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -154,7 +154,7 @@ $$
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -218,7 +218,7 @@ Definim la **vida mitjana** o **període de semireacció**, $t_{1/2}$, com el te
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 

@@ -50,6 +50,8 @@ donde:
 - $p_2$ es la presión final.
 - $V_2$ es el volumen final.
 
+{{< figure library="true" src="leyes-gases-3ESO/boyle.svg" title="**Ley de Boyle-Mariotte**. Al aumentar la presión, disminuye el volumen. Tomada de https://www.coursehero.com/sg/general-chemistry/ideal-gases/." width="100%" lightbox="false" >}}
+
 ### Ejemplo
 {{% callout example %}}
 <br>
@@ -88,6 +90,8 @@ donde:
 - $T_1$ es la temperatura inicial (¡en K!).
 - $V_2$ es el volumen final.
 - $T_2$ es la temperatura final (¡en K!).
+
+{{< figure library="true" src="leyes-gases-3ESO/charles.svg" title="**Ley de Charles**. Al aumentar el volumen, aumenta también la temperatura. Tomada de https://www.coursehero.com/sg/general-chemistry/ideal-gases/." width="100%" lightbox="false" >}}
 
 ### Ejemplo
 {{% callout example %}}
@@ -128,6 +132,8 @@ donde:
 - $T_1$ es la temperatura inicial (¡en K!).
 - $p_2$ es la presión final.
 - $T_2$ es la temperatura final (¡en K!).
+
+{{< figure library="true" src="leyes-gases-3ESO/gay-lussac.svg" title="**Ley de Gay-Lussac**. Al aumentar la presión, aumenta también la temperatura. Tomada de https://www.coursehero.com/sg/general-chemistry/ideal-gases/." width="100%" lightbox="false" >}}
 
 ### Ejemplo
 {{% callout example %}}

@@ -61,7 +61,7 @@ Son **ejemplos** de **MAS** el [movimiento de una masa unida a un muelle](#/7/1)
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -121,7 +121,7 @@ En el SI se mide en rad.
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -165,7 +165,7 @@ sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -264,7 +264,7 @@ Puedes estudiar los **factores** que **influyen** en el **periodo** de un **pén
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

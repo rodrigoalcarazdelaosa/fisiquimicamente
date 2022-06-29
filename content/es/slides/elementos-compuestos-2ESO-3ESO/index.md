@@ -37,7 +37,7 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -71,7 +71,7 @@ Según sus **propiedades físicas** y **químicas comunes**, los elementos quím
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -154,7 +154,7 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn.
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -227,7 +227,7 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

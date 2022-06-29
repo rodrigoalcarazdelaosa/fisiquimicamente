@@ -37,7 +37,7 @@ La **energía** es la **capacidad** de **producir** transformaciones o **cambios
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -76,13 +76,13 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
 ### Tipos de energía
 
-👇🏼
+👇
 
 ---
 
@@ -149,7 +149,7 @@ Aprende más sobre las **formas** y **cambios** de **energía** con esta **simul
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -181,7 +181,7 @@ Puedes profundizar en el concepto de **temperatura** con ayuda de esta **simulac
 ### Mecanismos de transferencia de energía
 La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
 
-👇🏼
+👇
 
 ---
 
@@ -213,7 +213,7 @@ Por medio de **ondas electromagnéticas** (como la luz), que pueden viajar inclu
 - [Variación de temperatura y/o cambios de estado](#/3/12)
 - [Dilatación](#/3/16)
 
-👇🏼
+👇
 
 ---
 
@@ -264,7 +264,7 @@ Una **fuente** de **energía** es cualquier **fenómeno físico** o **químico**
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

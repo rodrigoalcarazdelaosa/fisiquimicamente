@@ -32,7 +32,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -97,7 +97,7 @@ o con esta excelente **práctica virtual** del [Departamento de Física y Quími
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -243,7 +243,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

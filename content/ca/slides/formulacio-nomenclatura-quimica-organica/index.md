@@ -49,7 +49,7 @@ Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fa
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -133,7 +133,7 @@ Un **grup funcional** és un **àtom** o **grup** d'**àtoms** dins d'una molèc
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -636,7 +636,7 @@ SS'utilitza la **nomenclatura** de **classe funcional**, començant per ***halur
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 

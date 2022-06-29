@@ -42,7 +42,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -85,7 +85,7 @@ Las **propiedades específicas** o **características** de la materia son aquell
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -167,7 +167,7 @@ $$
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -229,7 +229,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 
@@ -285,7 +285,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 (continúa hacia abajo)
 
-👇🏼
+👇
 
 ---
 

@@ -42,7 +42,7 @@ Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fa
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -151,7 +151,7 @@ on $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ és la velocitat
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
@@ -236,7 +236,7 @@ on $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ és la constant de
 - [Principi d'incertesa de Heisenberg](#/3/5)
 
 (continua cap avall)
-👇🏼
+👇
 
 ---
 
@@ -368,7 +368,7 @@ Coneix més sobre l'espín en aquest magnífic vídeo de [Quantum Made Simple](h
 
 (continua cap avall)
 
-👇🏼
+👇
 
 ---
 
