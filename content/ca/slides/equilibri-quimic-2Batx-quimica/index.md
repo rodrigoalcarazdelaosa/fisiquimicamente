@@ -382,7 +382,7 @@ on C representa un catió, A un anió i $n$ i $m$ els seus respectius índexs es
 
 #### Solubilitat
 
-Anomenem **solubilitat**, $s$, a la quantitat de solut que es pot dissoldre en 1 L de dissolució saturada, i es pot expressar com a mol/L o g/L.
+Anomenem **solubilitat**, $s$, a la màxima quantitat de solut que es pot dissoldre a una temperatura donada en un dissolvent. Se sol expressar com a mol/L o g/L.
 
 ---
 

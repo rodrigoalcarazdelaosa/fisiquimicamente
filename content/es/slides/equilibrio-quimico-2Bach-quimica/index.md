@@ -382,7 +382,7 @@ donde C representa un catión, A un anión y $n$ y $m$ sus respectivos índices 
 
 #### Solubilidad
 
-Llamamos **solubilidad**, $s$, a la cantidad de soluto que se puede disolver en 1 L de disolución saturada, y se puede expresar como mol/L o g/L.
+Llamamos **solubilidad**, $s$, a la máxima cantidad de soluto que puede disolverse a una temperatura dada en un disolvente. Se suele expresar como mol/L o g/L.
 
 ---
 
