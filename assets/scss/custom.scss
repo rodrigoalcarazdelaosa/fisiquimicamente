@@ -238,14 +238,14 @@ blockquote {
 }
 
 .dark .btn-primary {
-  color: $nord0;
+  color: $nord0 !important;
   background-color: $nord8;
   border-color: $nord8;
 }
 
 .btn-toolbar .btn.btn-primary:hover, .dark .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus, .btn-toolbar .btn.btn-primary.focus, .dark .btn-toolbar .btn.btn-primary:focus, .dark .btn-toolbar .btn.btn-primary.focus {
-  color: $nord0;
+  color: $nord0 !important;
   background-color: lighten($nord8,10%) !important;
   border-color: lighten($nord8,10%);
 }
