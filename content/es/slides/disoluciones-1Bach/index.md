@@ -150,7 +150,7 @@ La **solubilidad** de los **gases aumenta** al aumentar la presión externa.
 
 ## Preparación de disoluciones
 
-Es una práctica común en los laboratorios preparar una disolución directamente a partir de sus constituyentes.
+Es una práctica común en los laboratorios preparar una disolución o bien directamente a partir de sus constituyentes o bien diluyendo una disolución comercial más concentrada.
 
 - [Midiendo la cantidad necesaria de soluto](#/4/1)
 - [Dilución de disoluciones](#/4/4)

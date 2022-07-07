@@ -109,7 +109,7 @@ La **solubilidad** de los **gases aumenta** al aumentar la presión externa.
 
 ## Preparación de disoluciones
 
-Es una práctica común en los laboratorios preparar una disolución directamente a partir de sus constituyentes.
+Es una práctica común en los laboratorios preparar una disolución o bien directamente a partir de sus constituyentes o bien diluyendo una disolución comercial más concentrada. A grandes rasgos, en el primer caso debemos medir la cantidad necesaria de soluto, mientras que en el segundo debemos añadir disolvente.
 
 ### Midiendo la cantidad necesaria de soluto
 Para **solutos sólidos** disueltos en disolventes líquidos, pesamos la **masa** necesaria con ayuda de una **balanza** y los diluimos hasta el volumen deseado. En el caso de que el **soluto** sea **líquido**, en vez de pesar su masa, tomamos el **volumen** necesario con ayuda por ejemplo de una **pipeta**.

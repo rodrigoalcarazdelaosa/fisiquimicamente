@@ -26,7 +26,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Disoluciones
+      text: Disoluciones | 1.º Bach
       url: 'recursos-fisica-quimica/apuntes/1bach/disoluciones/'
   - title: 🗞️ Novedades
     content: '🧩 Última actividad/juego'
@@ -39,7 +39,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: El extraño caso del vuelo 1023 de Mole Airlines
+      text: El extraño caso del vuelo 1023 de Mole Airlines | 1.º Bach
       url: '/recursos-fisica-quimica/actividades-juegos/1bach/extrano-caso-vuelo-1023-mole-airlines'
   - title: 🗞️ Novedades
     content: '📜 Última biografía científica'
