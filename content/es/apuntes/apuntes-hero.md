@@ -11,7 +11,7 @@ cta:
   icon: compass
 cta_alt:
   label: Últimos apuntes ➡️
-  url: "recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica/"
+  url: "recursos-fisica-quimica/apuntes/1bach/disoluciones/"
 cta_note:
   label: También te recomendamos echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
 design:

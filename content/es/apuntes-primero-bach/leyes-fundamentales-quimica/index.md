@@ -2,7 +2,7 @@
 title: Leyes fundamentales de la Química
 url: "/recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica"
 subtitle: Leyes ponderales y leyes de los gases ideales
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Leyes ponderales y leyes de los gases ideales."
+summary: "Leyes ponderales y leyes de los gases ideales."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - apuntes

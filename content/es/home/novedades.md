@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Leyes fundamentales de la Química
-      url: 'recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica/'
+      text: Disoluciones
+      url: 'recursos-fisica-quimica/apuntes/1bach/disoluciones/'
   - title: 🗞️ Novedades
     content: '🧩 Última actividad/juego'
     align: center
