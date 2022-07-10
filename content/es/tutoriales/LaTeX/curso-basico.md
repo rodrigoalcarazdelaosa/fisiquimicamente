@@ -1,6 +1,7 @@
 ---
 title: Curso básico
 linktitle: Curso básico
+summary: Traducción y adaptación de la excelente guía de Overleaf para aprender LaTeX en 30 minutos.
 toc: true
 type: book
 draft: false
