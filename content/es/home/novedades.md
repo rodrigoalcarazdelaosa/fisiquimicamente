@@ -52,7 +52,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Isaac Newton
+      text: Marie Curie
       url: '/recursos-fisica-quimica/historia-ciencia/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'

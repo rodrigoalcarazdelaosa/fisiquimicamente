@@ -11,6 +11,7 @@ tags:
 - radiofísica
 - física-s-XX
 - radiactividad
+- curie
 categories:
 - Física
 - Química
