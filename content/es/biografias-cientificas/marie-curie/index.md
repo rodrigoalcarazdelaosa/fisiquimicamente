@@ -4,6 +4,8 @@ url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle: 
 summary: ""
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
+authors:
+- jesica-sanchez-mazon
 tags:
 - física-s-XX
 - radiactividad
