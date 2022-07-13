@@ -28,4 +28,8 @@ links:
   icon: file-download
   name: Póster
   url: marie-curie-poster.pdf  
+- icon_pack: fas
+  icon: file-download
+  name: Tríptico
+  url: marie-curie-triptico.pdf    
 ---
