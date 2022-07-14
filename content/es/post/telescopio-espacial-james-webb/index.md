@@ -26,6 +26,10 @@ Esta entrada es una **traducción/adaptación** de la **excelente información**
 Conoce el **estado** de **Webb** en su viaje a la órbita L2 gracias a [**esta página**](https://jwst.nasa.gov/content/webbLaunch/whereIsWebb.html?units=metric), que se **actualiza constantemente** a medida que Webb viaja, se despliega y se enfría hasta alcanzar la temperatura de funcionamiento.
 {{% /callout %}}
 
+{{% callout note %}}
+Echa un vistazo a las [**primeras imágenes de Webb**](https://www.nasa.gov/webbfirstimages) y **compáralas** con las obtenidas por el **Hubble** [con esta **estupenda herramienta**](https://johnedchristensen.github.io/WebbCompare/).
+{{% /callout %}}
+
 {{% toc %}}
 
 ## El principal observatorio de la próxima década
