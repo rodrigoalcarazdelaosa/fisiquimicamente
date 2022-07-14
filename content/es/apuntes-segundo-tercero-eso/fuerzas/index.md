@@ -39,6 +39,11 @@ slides: fuerzas-2ESO
 Una **fuerza** es toda *causa* capaz de producir **cambios** en el **movimiento** o en la **estructura** (**deformaciones**) de un cuerpo. En el **SI** se mide en **newtons** (N).
 
 ### Leyes de Newton
+
+{{% callout note %}}
+Os recomendamos pasaros por la sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/) para echar un vistazo a la **biografía** y **principales contribuciones científicas** de **Isaac Newton** en **formato póster** y **tríptico**.
+{{% /callout %}}
+
 #### 1. Ley de la inercia
 > Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
 

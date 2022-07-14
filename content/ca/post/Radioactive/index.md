@@ -10,6 +10,7 @@ tags:
 - blog
 - física-s-XX
 - radioactivitat
+- curie
 categories:
 - Física
 - Química

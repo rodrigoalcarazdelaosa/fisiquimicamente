@@ -59,6 +59,10 @@ $$
 
 ## 4. Segunda ley de Newton
 
+{{% callout note %}}
+Os recomiendo pasaros por la sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/) para echar un vistazo a la **biografía** y **principales contribuciones científicas** de **Isaac Newton** en **formato póster** y **tríptico**.
+{{% /callout %}}
+
 $$
 \mathbf F = m\mathbf a
 $$
@@ -106,6 +110,10 @@ $$
 > Si la [física cuántica](https://es.wikipedia.org/wiki/Mecánica_cuántica) describe las partículas más pequeñas, y la [relatividad especial](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_relatividad_especial) describe las cosas más rápidas, ¿qué pasa con las partículas diminutas que se mueven rápidamente? Entra la [**ecuación de Dirac**](https://es.wikipedia.org/wiki/Ecuación_de_Dirac), que también predijo la existencia de la [antimateria](https://es.wikipedia.org/wiki/Antimateria).
 
 ## 10. Ley de gravitación universal de Newton
+
+{{% callout note %}}
+Os recomiendo pasaros por la sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/) para echar un vistazo a la **biografía** y **principales contribuciones científicas** de **Isaac Newton** en **formato póster** y **tríptico**.
+{{% /callout %}}
 
 $$
 F = G\frac{m_1 m_2}{r^2}

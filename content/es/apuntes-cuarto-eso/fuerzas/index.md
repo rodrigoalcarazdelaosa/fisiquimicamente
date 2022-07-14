@@ -61,6 +61,10 @@ Puedes prácticar a sumar vectores con la siguiente **simulación**:
 
 ## Leyes de Newton
 
+{{% callout note %}}
+Os recomendamos pasaros por la sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/) para echar un vistazo a la **biografía** y **principales contribuciones científicas** de **Isaac Newton** en **formato póster** y **tríptico**.
+{{% /callout %}}
+
 ### 1ª ley (ley de la inercia)
 > Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
 

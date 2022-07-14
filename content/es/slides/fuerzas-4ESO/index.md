@@ -83,13 +83,17 @@ Puedes prácticar a sumar vectores con la siguiente **simulación**:
 
 ## Leyes de Newton
 
-- [1ª ley (ley de la inercia)](#/2/1)
-- [2ª ley (ley fundamental de la dinámica)](#/2/2)
-- [3ª ley (ley de la acción-reacción)](#/2/3)
+- [1ª ley (ley de la inercia)](#/2/2)
+- [2ª ley (ley fundamental de la dinámica)](#/2/3)
+- [3ª ley (ley de la acción-reacción)](#/2/4)
 
 (continúa hacia abajo)
 
 👇
+
+---
+
+> Os recomendamos pasaros por la sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/) para echar un vistazo a la **biografía** y **principales contribuciones científicas** de **Isaac Newton** en **formato póster** y **tríptico**.
 
 ---
 

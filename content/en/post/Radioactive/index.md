@@ -10,6 +10,7 @@ tags:
 - blog
 - 20th-century-physics
 - radioactivity
+- curie
 categories:
 - Movies
 - Physics
