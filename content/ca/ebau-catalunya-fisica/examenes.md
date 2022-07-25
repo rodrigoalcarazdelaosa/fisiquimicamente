@@ -149,3 +149,7 @@ subtitle = "🧲 Física"
  # CSS class.
  css_class = ""
 +++
+
+{{% callout gdrive %}}
+Descarrega aquí el [**solucionari de la GuiA Física d'Antoni Amengual Colom**](https://drive.google.com/file/d/1K7wxl60RnOx8_20vRe6tbHsTue6646Yb/view), de la mà del gran **Berto Tomás**.
+{{% /callout %}}
