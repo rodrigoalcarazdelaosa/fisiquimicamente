@@ -23,8 +23,8 @@ image:
   caption: "Recreación del reactor de fusión nuclear terminado. Rodeado de toda la maquinaria tenemos el *rosco* que en la imagen aparece abierto en una sección para poder mostrar lo que debería haber dentro.<br>Fuente: [https://www.iter.org/proj/inafewlines](https://www.iter.org/proj/inafewlines)."
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="BTeseracto" id="1487123373729751041" >}}
 </div>

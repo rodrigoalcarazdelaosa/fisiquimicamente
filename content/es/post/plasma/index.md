@@ -21,8 +21,8 @@ image:
   caption: "https://giphy.com/gifs/loop-energy-CyeGh5u6xmhgY"
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="ManoloAlonso1" id="1504142538248228873" >}}
 </div>

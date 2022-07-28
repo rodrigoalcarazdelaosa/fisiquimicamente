@@ -21,8 +21,8 @@ image:
   caption: ""
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="BTeseracto" id="1520085494071238660" >}}
 </div>

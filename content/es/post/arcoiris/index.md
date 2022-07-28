@@ -22,8 +22,8 @@ image:
   caption: "Foto de [**Frans Van Heerden**](https://www.pexels.com/es-es/@frans-van-heerden-201846) en [Pexels](https://www.pexels.com/es-es/)"
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="BTeseracto" id="1492197697956241416" >}}
 </div>

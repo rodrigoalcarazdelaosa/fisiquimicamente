@@ -23,8 +23,8 @@ image:
 
 <script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
 
-{{% callout note %}}
-Entrada basada en los siguientes 🧵 hilos de Twitter:
+{{% callout thread %}}
+Entrada basada en los siguientes hilos de Twitter:
 <div align="center">
 {{< tweet user="ManoloAlonso1" id="1483858105758846983" >}}
 </div>

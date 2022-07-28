@@ -19,8 +19,8 @@ image:
   caption: "Tumba de [**Ludwig Boltzmann**](https://es.wikipedia.org/wiki/Ludwig_Boltzmann) en el [cementerio central de Viena](https://es.wikipedia.org/wiki/Cementerio_central_de_Viena) con la ecuación de la **entropía**.<br>Fuente: [https://commons.wikimedia.org/wiki/File:Zentralfriedhof_Vienna_-_Boltzmann.JPG](https://commons.wikimedia.org/wiki/File:Zentralfriedhof_Vienna_-_Boltzmann.JPG)"
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="BTeseracto" id="1484224720102989828" >}}
 </div>

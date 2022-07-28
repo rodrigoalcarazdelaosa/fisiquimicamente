@@ -22,8 +22,8 @@ image:
   caption: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201500753"
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="ManoloAlonso1" id="1468646024789037056" >}}
 </div>

@@ -19,8 +19,8 @@ image:
   caption: "https://commons.wikimedia.org/wiki/File:Greenland_42.74746W_71.57394N.jpg"
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="ManoloAlonso1" id="1526973721889611777" >}}
 </div>

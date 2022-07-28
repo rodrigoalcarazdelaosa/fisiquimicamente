@@ -19,8 +19,8 @@ image:
   caption: "[https://i.gifer.com/NZrX.gif](https://i.gifer.com/NZrX.gif)"
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="ricestrada" id="1423819006788706308" >}}
 </div>

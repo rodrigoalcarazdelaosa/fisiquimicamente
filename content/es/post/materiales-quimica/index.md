@@ -18,8 +18,8 @@ image:
   caption: "[https://pin.it/HucIw45](https://pin.it/HucIw45)"
 ---
 
-{{% callout note %}}
-Entrada basada en los siguientes 🧵 hilos de Twitter:
+{{% callout thread %}}
+Entrada basada en los siguientes hilos de Twitter:
 <div align="center">
 {{< tweet user="ricestrada" id="1345223357898350594" >}}
 </div>

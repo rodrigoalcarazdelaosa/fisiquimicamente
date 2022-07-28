@@ -19,8 +19,8 @@ image:
   caption: "Foto de [wang binghua](https://unsplash.com/@wangbinghua) en [Unsplash](https://unsplash.com)"  
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="ManoloAlonso1" id="1546547406946418692" >}}
 </div>

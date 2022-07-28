@@ -21,8 +21,8 @@ image:
   caption: "https://onlinelibrary.wiley.com/doi/10.1002/adfm.200990081"
 ---
 
-{{% callout note %}}
-Entrada basada en el siguiente 🧵 hilo de Twitter:
+{{% callout thread %}}
+Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="ManoloAlonso1" id="1466094642391306246" >}}
 </div>
