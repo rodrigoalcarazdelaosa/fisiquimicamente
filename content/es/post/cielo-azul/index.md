@@ -3,7 +3,7 @@ title: ¿Por qué vemos el cielo azul?
 subtitle: Hablemos de luz, color y percepción
 summary: "Hablemos de luz, color y percepción."
 breadcrumbs: ["blog"]
-date: "2022-07-28T00:00:00Z"
+date: "2022-07-29T00:00:00Z"
 authors:
 - manuel-alonso-orts
 tags:
