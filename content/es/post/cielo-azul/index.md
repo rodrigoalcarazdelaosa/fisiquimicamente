@@ -45,7 +45,7 @@ La intensidad de luz esparcida por las partículas mucho más pequeñas que form
 {{< figure src="esparcimiento.jpg" title="Diagrama simplificado del fenómeno del esparcimiento, también llamado [**dispersión de Rayleigh**](https://es.wikipedia.org/wiki/Dispersión_de_Rayleigh). Fuente: https://infobservador.blogspot.com/2010/11/el-efecto-tyndall-y-rayleigh.html." lightbox="true" >}}
 
 {{% callout note %}}
-Si queréis **saber más** sobre la **dispersión de Rayleigh** os recomiendo leer [este magnífico artículo de Alejandro del Mazo Vivar](https://revistas.uca.es/index.php/eureka/article/view/2982/2748).
+Si quieres **saber más** sobre la **dispersión de Rayleigh** te recomiendo leer [este magnífico artículo de Alejandro del Mazo Vivar](https://revistas.uca.es/index.php/eureka/article/view/2982/2748).
 {{% /callout %}}
 
 Profundizar en esa dependencia matemática se sale del objetivo de esta entrada, aunque parece intuitivo que las moléculas de nuestra atmósfera ([nitrógeno](https://es.wikipedia.org/wiki/Nitrógeno), [oxígeno](https://es.wikipedia.org/wiki/Ox%C3%ADgeno), ...), con tamaños inferiores a 1&thinsp;nm, afecten más al azul (450&thinsp;nm) que a la roja (750&thinsp;nm).
@@ -61,7 +61,7 @@ El motivo es que nuestros ojos no son igual de sensibles a todas las frecuencias
 {{< figure src="conos-bastones.jpg" title="Conos (azules) y bastones (verdes) de la retina humana. Imagen al [microscopio SEM](https://es.wikipedia.org/wiki/Microscopio_electrónico_de_barrido). Fuente: https://infomedicos.tumblr.com/post/182274112326/conos-azules-y-bastones-verdes-de-la-retina." lightbox="true" >}}
 
 {{% callout note %}}
-Si queréis **saber más** sobre los **conos** y los **bastones**, y en general sobre el **ojo humano**, os recomiendo echar un vistazo a [esta estupenda página de Luis Monje](https://www.luismonje.com/curiosidades-del-ojo-humano-i/).
+Si quieres **saber más** sobre los **conos** y los **bastones**, y en general sobre el **ojo humano**, te recomiendo echar un vistazo a [esta estupenda página de Luis Monje](https://www.luismonje.com/curiosidades-del-ojo-humano-i/).
 {{% /callout %}}
 
 Los millones de conos de nuestra retina se dividen en tres tipos, según el tipo de proteína fotosensible ([opsina](https://es.wikipedia.org/wiki/Opsina)) que capta la luz. Por su parte, hay una única clase de bastones, los cuales intervienen cuando hay poca luz.
