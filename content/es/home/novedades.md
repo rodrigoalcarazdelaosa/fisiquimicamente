@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Conservación del momento angular"
-      url: 'blog/2022/06/22/conservacion-del-momento-angular/'
+      text: "¿Por qué vemos el cielo azul?"
+      url: 'blog/2022/07/28/por-que-vemos-el-cielo-azul/'
 ---
