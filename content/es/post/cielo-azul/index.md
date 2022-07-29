@@ -16,7 +16,7 @@ categories:
 - Física
 image:
   placement: 3
-  caption: "Foto de [wang binghua](https://unsplash.com/@wangbinghua) en [Unsplash](https://unsplash.com)"  
+  caption: "Foto de [ARTHUR YAO](https://unsplash.com/@fakearthur) en [Unsplash](https://unsplash.com)"  
 ---
 
 {{% callout thread %}}
@@ -58,7 +58,7 @@ Hasta aquí lo que se suele contar en las clases de [Óptica](https://es.wikiped
 
 El motivo es que nuestros ojos no son igual de sensibles a todas las frecuencias. En nuestras retinas, tenemos dos tipos de [células fotorreceptoras](https://es.wikipedia.org/wiki/Fotorreceptor): los [**conos**](https://es.wikipedia.org/wiki/Cono_(célula)) y los [**bastones**](https://es.wikipedia.org/wiki/Bastón_(célula)). Aquí podéis ver una imagen de microscopía electrónica de ambos tipos de células.
 
-{{< figure src="conos-bastones.jpg" title="Conos (azules) y bastones (verdes) de la retina humana. Imagen al [microscopio SEM](https://es.wikipedia.org/wiki/Microscopio_electrónico_de_barrido). Fuente: https://infomedicos.tumblr.com/post/182274112326/conos-azules-y-bastones-verdes-de-la-retina." lightbox="true" >}}
+{{< figure src="conos-bastones.jpg" title="Conos (azules) y bastones (verdes) de la retina humana. Imagen de [falso color](https://es.wikipedia.org/wiki/Falso_color) al [microscopio SEM](https://es.wikipedia.org/wiki/Microscopio_electrónico_de_barrido). Fuente: https://infomedicos.tumblr.com/post/182274112326/conos-azules-y-bastones-verdes-de-la-retina." lightbox="true" >}}
 
 {{% callout note %}}
 Si quieres **saber más** sobre los **conos** y los **bastones**, y en general sobre el **ojo humano**, te recomiendo echar un vistazo a [esta estupenda página de Luis Monje](https://www.luismonje.com/curiosidades-del-ojo-humano-i/).
