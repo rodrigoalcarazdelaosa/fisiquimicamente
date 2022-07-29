@@ -48,7 +48,7 @@ La intensidad de luz esparcida por las partículas mucho más pequeñas que form
 Si quieres **saber más** sobre la **dispersión de Rayleigh** te recomiendo leer [este magnífico artículo de Alejandro del Mazo Vivar](https://revistas.uca.es/index.php/eureka/article/view/2982/2748).
 {{% /callout %}}
 
-Profundizar en esa dependencia matemática se sale del objetivo de esta entrada, aunque parece intuitivo que las moléculas de nuestra atmósfera ([nitrógeno](https://es.wikipedia.org/wiki/Nitrógeno), [oxígeno](https://es.wikipedia.org/wiki/Ox%C3%ADgeno), ...), con tamaños inferiores a 1&thinsp;nm, afecten más al azul (450&thinsp;nm) que a la roja (750&thinsp;nm).
+Profundizar en esa dependencia matemática se sale del objetivo de esta entrada, aunque parece intuitivo que las moléculas de nuestra atmósfera ([nitrógeno](https://es.wikipedia.org/wiki/Nitrógeno), [oxígeno](https://es.wikipedia.org/wiki/Ox%C3%ADgeno), ...), con tamaños inferiores a 1&thinsp;nm, afecten más al azul (450&thinsp;nm) que al rojo (750&thinsp;nm).
 
 {{< figure src="espectro-visible.svg" title="Espectro visible por el ojo humano (luz). Adaptado de https://commons.wikimedia.org/wiki/File:Electromagnetic_spectrum-es.svg." lightbox="false" width="100%" >}}
 
