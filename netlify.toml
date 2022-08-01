@@ -1,5 +1,5 @@
 [build]
-  command = 'hugo --gc --minify -b $URL && npx pagefind -y --source "public"'
+  command = 'hugo --gc --minify -b $URL && npx pagefind --source "public"'
 
 [build.environment]
   GO_VERSION = "1.18.4"
