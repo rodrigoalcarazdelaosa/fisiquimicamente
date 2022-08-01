@@ -9,6 +9,3 @@ public/
 
 # Local Netlify folder
 .netlify
-
-# Pagefind
-static/_pagefind
