@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Disoluciones | 1.º Bach
-      url: 'recursos-fisica-quimica/apuntes/1bach/disoluciones/'
+      text: Movimiento circular | 1.º Bach
+      url: 'recursos-fisica-quimica/apuntes/1bach/movimiento-circular/'
   - title: 🗞️ Novedades
     content: '🧩 Última actividad/juego'
     align: center
