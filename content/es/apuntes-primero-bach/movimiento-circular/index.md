@@ -2,7 +2,7 @@
 title: Movimiento circular
 url: "/recursos-fisica-quimica/apuntes/1bach/movimiento-circular"
 subtitle: Cinemática y dinámica del movimiento circular
-summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Cinemática y dinámica del movimiento circular."
+summary: "Cinemática y dinámica del movimiento circular."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 tags:
 - apuntes
