@@ -365,7 +365,7 @@ Periodo $T$
 : El tiempo que tarda el móvil en completar una vuelta completa se llama **periodo**, $T$.
 
 Frecuencia $f$
-: El número de vueltas que da el móvil en $1\thinspace\mathrm s$ es la **frecuencia**, $f$, y está relacionada con el periodo:
+: El número de vueltas que da el móvil por unidad de tiempo es la **frecuencia**, $f$, y está relacionada con el periodo:
 	$$
 	f = \frac{1}{T}\thinspace \left[\frac{1}{\mathrm{s}} = \mathrm{s^{-1}} = \mathrm{Hz}\right]
 	$$
@@ -384,7 +384,7 @@ Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 ### Aceleración centrípeta $a_\mathrm c$
 También llamada **aceleración normal**, es una aceleración que surge del cambio de dirección de la velocidad. Su módulo es igual a:
 $$
-a_\mathrm c = \frac{v^2}{R}
+a_\mathrm c = \frac{v^2}{R} = \omega^2 R
 $$
 		
 y siempre se dirige hacia el centro de la circunferencia.	

@@ -1,8 +1,8 @@
 ---
-title: MCUA
-url: "/recursos-fisica-quimica/apunts/1batx/mcua"
-subtitle: Moviment circular uniformement accelerat
-summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Moviment circular uniformement accelerat i dinàmica de el moviment circular."
+title: Moviment circular
+url: "/recursos-fisica-quimica/apunts/1batx/moviment-circular"
+subtitle: Cinemàtica i dinàmica del moviment circular
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Cinemàtica i dinàmica del moviment circular."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 tags:
 - apunts
