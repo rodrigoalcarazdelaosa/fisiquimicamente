@@ -86,7 +86,7 @@ $$
 Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 \begin{align*}
 	e &= \varphi R \\\\
-	v &= \omega R
+	v &= \omega R = \frac{2\pi R}{T}
 \end{align*}
 
 ---

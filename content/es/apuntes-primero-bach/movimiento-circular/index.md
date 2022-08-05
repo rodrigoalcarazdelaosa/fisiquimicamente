@@ -68,7 +68,7 @@ $$
 Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 \begin{align*}
 	e &= \varphi R \\\\
-	v &= \omega R
+	v &= \omega R = \frac{2\pi R}{T}
 \end{align*}
 
 ### Aceleración centrípeta $a_\mathrm c$
@@ -93,7 +93,7 @@ a_\mathrm t &= \frac{\mathrm d\thinspace v}{\mathrm d\thinspace t}
 \end{align*}
 donde $v$ representa el módulo de la velocidad instantánea y $r$ es el radio de curvatura.
 
-{{< figure library="true" src="movimiento-circular-1Bach/MCUA.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Nonuniform_circular_motion.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="movimiento-circular-1Bach/MCUA.svg" title="**Componentes intrínsecas de la aceleración**. La componente normal se dirige hacia el centro mientras que la componente tangencial tiene la misma dirección y sentido que la velocidad. Adaptada de https://commons.wikimedia.org/wiki/File:Nonuniform_circular_motion.svg." lightbox="false" width="100%" >}}
 
 La aceleración tangencial se relaciona con la aceleración angular, $\alpha$, a través de la expresión:
 $$
