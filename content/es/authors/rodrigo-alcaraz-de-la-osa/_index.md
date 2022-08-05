@@ -86,6 +86,13 @@ social:
   display:
     header: true
     footer: true
+- icon: newspaper
+  icon_pack: fas
+  link: https://boletin.fisiquimicamente.com
+  label: Suscríbete al boletín de noticias
+  display:
+    header: true
+    footer: true    
 - icon: discord
   icon_pack: fab
   link: https://discord.gg/kJqPqTJ

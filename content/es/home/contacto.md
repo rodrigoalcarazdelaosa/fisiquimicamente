@@ -34,6 +34,10 @@ content:
       icon_pack: fab
       name: "Suscríbete al canal de Telegram"
       link: "https://t.me/fisiquimicamente"
+    - icon: newspaper
+      icon_pack: fas
+      name: "Suscríbete al boletín de noticias"
+      link: https://boletin.fisiquimicamente.com      
     - icon: discord
       icon_pack: fab
       name: "Únete al servidor de Discord"
