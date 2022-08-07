@@ -2,7 +2,7 @@
 title: Disoluciones
 url: "/recursos-fisica-quimica/apuntes/1bach/disoluciones"
 subtitle: Concentración, solubilidad, preparación y propiedades coligativas
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Concentración, solubilidad, preparación y propiedades coligativas."
+summary: "Concentración, solubilidad, preparación y propiedades coligativas."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 authors:
 - rodrigo-alcaraz-de-la-osa
