@@ -18,7 +18,7 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) para tipografías[^2].
 - [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) para iconos.
 - [<img draggable="false" class="icon" alt="onesignal" src="/icon/onesignal.svg"> One Signal](https://onesignal.com/privacy_policy) para las notificaciones *push*.
-- [<img draggable="false" class="icon" alt="revue" src="/icon/revue.svg">](https://www.getrevue.co/privacy?locale=es) para el [boletín de noticias](https://boletin.fisiquimicamente.com).
+- [<img draggable="false" class="icon" alt="revue" src="/icon/revue.svg">](https://www.getrevue.co/privacy?locale=es) para el [boletín de noticias](https://www.getrevue.co/profile/fisiquimicamente).
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) para los *cafés* (donaciones).
 - [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) para el widget de [{{< icon name="discord" pack="fab" >}}Discord](https://discord.gg/kJqPqTJ).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) para acelerar y monetizar[^3] la web (esquina inferior izquierda <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).

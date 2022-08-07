@@ -37,7 +37,7 @@ content:
     - icon: newspaper
       icon_pack: fas
       name: "Suscríbete al boletín de noticias"
-      link: https://boletin.fisiquimicamente.com      
+      link: https://www.getrevue.co/profile/fisiquimicamente      
     - icon: discord
       icon_pack: fab
       name: "Únete al servidor de Discord"

@@ -88,7 +88,7 @@ social:
     footer: true
 - icon: newspaper
   icon_pack: fas
-  link: https://boletin.fisiquimicamente.com
+  link: https://www.getrevue.co/profile/fisiquimicamente
   label: Suscríbete al boletín de noticias
   display:
     header: true
