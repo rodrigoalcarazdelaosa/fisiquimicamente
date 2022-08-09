@@ -52,7 +52,7 @@ Do you know [Discord](https://discord.com/)? [Join the Discord server of <img dr
 
 ### *Coffees* (donations)
 
-If you wish to acknowledge and praise our effort, encouraging us to continue preparing quality materials, [you can buy us a *coffee*](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR) using the [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/home) service. All the *coffees* will be used to pay for and to continue improving [<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/).
+If you wish to acknowledge and praise our effort, encouraging us to continue preparing quality materials, [you can buy us a *coffee*](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR) using the [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/home) service. All the *coffees* will be used to pay for and to continue improving [<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/).
 
 ### Sharing
 You can also <strong>share</strong> all the <strong>blog posts</strong> and [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.
