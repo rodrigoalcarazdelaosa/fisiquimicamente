@@ -53,7 +53,7 @@ Las entradas de este blog van dirigidas a nuestros/as alumnos/as y a todo aquel 
 
 ### *Cafés* (donaciones)
 
-Si deseas reconocer y alabar nuestro esfuerzo, animándonos a seguir preparando materiales de calidad, [puedes invitarnos a un *café*](https://paypal.me/fisiquimicamente) utilizando el servicio [{{< icon name="paypal" pack="fab" >}}PayPal.Me](https://www.paypal.com/es/webapps/mpp/paypal-me). Todos los *cafés* se destinarán a costear y seguir mejorando [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/).
+Si deseas reconocer y alabar nuestro esfuerzo, animándonos a seguir preparando materiales de calidad, [puedes invitarnos a un *café*](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR) utilizando el servicio [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/home). Todos los *cafés* se destinarán a costear y seguir mejorando [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/).
 
 ### Compartiendo
 

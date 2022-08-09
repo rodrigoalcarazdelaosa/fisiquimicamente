@@ -52,7 +52,7 @@ Coneixes [Discord](https://discord.com/)? [Uneix-te al servidor de Discord de <i
 
 ### *Cafès* (donacions)
 
-Si vols reconèixer i lloar el nostre esforç, animant-nos a seguir preparant materials de qualitat, [pots convidar-nos a un cafè](https://paypal.me/fisiquimicamente) utilitzant el servei [{{< icon name="paypal" pack="fab" >}}PayPal.Me](https://www.paypal.com/es/webapps/mpp/paypal-me). Tots els *cafès* es destinaran a pagar i seguir millorant [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/).
+Si vols reconèixer i lloar el nostre esforç, animant-nos a seguir preparant materials de qualitat, [pots convidar-nos a un cafè](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR) utilitzant el servei [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/home). Tots els *cafès* es destinaran a pagar i seguir millorant [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/).
 
 ### Compartint
 
