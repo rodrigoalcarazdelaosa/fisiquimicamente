@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "¿Por qué vemos el cielo azul?"
-      url: 'blog/2022/07/29/por-que-vemos-el-cielo-azul/'
+      text: "Ultrasonidos"
+      url: 'blog/2022/08/11/ultrasonidos/'
 ---
