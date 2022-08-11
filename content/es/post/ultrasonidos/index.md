@@ -13,7 +13,7 @@ tags:
 - delfines
 - sonar
 - murciélagos
-- imagen-médica
+- ecografía
 categories:
 - Física
 image:
