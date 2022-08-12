@@ -19,13 +19,13 @@ role: ☢️ Radiofísica · 📝 Oposiciones
 
 # Organizations/Affiliations
 organizations:
-- name: Clínica Mompía
-  url: "https://clinicamompia.com/"
+- name: Hospital Mompía
+  url: "https://www.hospitalmompia.com/"
 - name: Escuela Técnico Profesional en Ciencias de la Salud
   url: "https://www.escuelaclinicamompia.es/"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy Radiofísica Hospitalaria en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España) y estudiante de Doctorado en Medicina en la [Universidad de Cantabria](https://web.unican.es).
+bio: Soy Radiofísica Hospitalaria en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) y estudiante de Doctorado en Medicina en la [Universidad de Cantabria](https://web.unican.es).
 
 interests:
 - ✈️ Viajar 
@@ -77,4 +77,4 @@ user_groups:
 - FisiQuímicamente
 ---
 
-Soy **Radiofísica Hospitalaria** en la [Clínica Mompía](https://clinicamompia.com/) de Cantabria (España) e imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/). Además, soy **estudiante de Doctorado en Medicina** en la [Universidad de Cantabria](https://web.unican.es).
+Soy **Radiofísica Hospitalaria** en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) e imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/). Además, soy **estudiante de Doctorado en Medicina** en la [Universidad de Cantabria](https://web.unican.es).

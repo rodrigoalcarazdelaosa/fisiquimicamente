@@ -19,13 +19,13 @@ role: ☢️ Medical Physics<br>📝 Examinations
 
 # Organizations/Affiliations
 organizations:
-- name: Mompía Clinic
-  url: "https://clinicamompia.com/"
+- name: Mompía Hospital
+  url: "https://www.hospitalmompia.com/"
 - name: School in Health Sciences
   url: "https://www.escuelaclinicamompia.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Medical Physicist at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and a PhD student in Medicine at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).
+bio: I am a Medical Physicist at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and a PhD student in Medicine at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).
 
 interests:
 - ✈️ Traveling 
@@ -77,4 +77,4 @@ user_groups:
 - PhysiChemically
 ---
 
-I am a **Medical Physicist** at [Mompía Clinic](https://clinicamompia.com/) in Cantabria (Spain) and I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/). I am also a **PhD student in Medicine** at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).
+I am a **Medical Physicist** at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/). I am also a **PhD student in Medicine** at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).

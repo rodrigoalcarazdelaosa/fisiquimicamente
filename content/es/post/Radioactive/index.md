@@ -84,7 +84,7 @@ Cuando se estira un cristal de [cuarzo](https://es.wikipedia.org/wiki/Cuarzo) co
 
 Una vez medidas las intensidades de corriente, se  determina la actividad de  la muestra.
 
-{{< figure src="Radioactive/electrometros.svg" title="a) Dispositivo de cuarzo piezoeléctrico que perteneció al Laboratorio Curie, que data de 1904. Fuente: https://lamethodecurie.fr/en/article13.html. b) Electrómetro [PTW UNIDOS](https://www.ptwdosimetry.com/en/products/unidos-e/) actualmente utilizado en la [Clínica Mompía](https://clinicamompia.com)." lightbox="false" width="100%" >}}
+{{< figure src="Radioactive/electrometros.svg" title="a) Dispositivo de cuarzo piezoeléctrico que perteneció al Laboratorio Curie, que data de 1904. Fuente: https://lamethodecurie.fr/en/article13.html. b) Electrómetro [PTW UNIDOS](https://www.ptwdosimetry.com/en/products/unidos-e/) actualmente utilizado en el [Hospital Mompía](https://www.hospitalmompia.com)." lightbox="false" width="100%" >}}
 
 ### Proceso de medida
 
@@ -169,7 +169,7 @@ Me gustaría aprovechar para citar el fantástico 🧵 hilo de Twitter de [Opera
 
 Los [aceleradores lineales](https://es.wikipedia.org/wiki/Acelerador_lineal) de electrones (LINAC por sus siglas en inglés) son de uso extendido hoy en día en radioterapia. El primer paciente oncológico tratado con un acelerador lineal fue en Londres (UK) en 1953, en el hospital de Hammersmith, con un máquina trabajando a una energía de 8 MeV construida por [Metropolitan-Vickers](https://en.wikipedia.org/wiki/Metropolitan-Vickers) e instalada en 1952 como el primer acelerador lineal de uso médico. Poco después, en 1954, se instaló en Stanford (USA) una máquina similar que comenzó a tratar pacientes en 1956 a una energía de 6 MeV.
 
-{{< figure src="Radioactive/linac.svg" title="a) Imagen histórica mostrando a Gordon Isaacs, el primer paciente tratado con un acelerador linear por retinoblastoma, en 1957 en EE.UU. En este caso se trató con un haz de electrones. Fuente: https://commons.wikimedia.org/wiki/File:External_beam_radiotherapy_retinoblastoma_nci-vol-1924-300.jpg. b) Acelerador linear [Elekta Infinity&trade;](https://www.elekta.com/radiotherapy/treatment-delivery-systems/elekta-infinity/) actualmente en uso en la [Clínica Mompía](https://clinicamompia.com)." lightbox="false" width="100%" >}}
+{{< figure src="Radioactive/linac.svg" title="a) Imagen histórica mostrando a Gordon Isaacs, el primer paciente tratado con un acelerador linear por retinoblastoma, en 1957 en EE.UU. En este caso se trató con un haz de electrones. Fuente: https://commons.wikimedia.org/wiki/File:External_beam_radiotherapy_retinoblastoma_nci-vol-1924-300.jpg. b) Acelerador linear [Elekta Infinity&trade;](https://www.elekta.com/radiotherapy/treatment-delivery-systems/elekta-infinity/) actualmente en uso en el [Hospital Mompía](https://www.hospitalmompia.com)." lightbox="false" width="100%" >}}
 
 ### Inmovilización del paciente
 
