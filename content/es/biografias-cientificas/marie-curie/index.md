@@ -2,7 +2,7 @@
 title: Marie Curie
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle: 
-summary: ""
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 tags:
 - física-s-XX
