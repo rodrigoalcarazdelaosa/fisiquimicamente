@@ -138,13 +138,13 @@ La dosis equivalente en la superficie del abdomen de la trabajadora embarazada, 
 
 ¿De qué color será la señalización las zonas vigiladas?
 
-1. [ ] El trébol será de color gris azulado sobre fondo blanco.
+1. [x] El trébol será de color gris azulado sobre fondo blanco.
 
 1. [ ] El trébol será de color amarillo sobre fondo rojo.
 
 1. [ ] El trébol será de color rojo sobre fondo blanco.
 
-1. [x] El trébol será de color verde sobre fondo blanco.
+1. [ ] El trébol será de color verde sobre fondo blanco.
 
 ### Riesgo zonas controladas
 
