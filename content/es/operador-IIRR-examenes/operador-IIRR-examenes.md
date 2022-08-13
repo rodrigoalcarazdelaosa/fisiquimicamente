@@ -47,7 +47,7 @@ subtitle = "📝 Preguntas de examen"
 
   [[content.filter_button]]
     name = "Protección radiológica"
-    tag = "protección-radiológica"
+    tag = "PR"
 
   [[content.filter_button]]
     name = "Residuos radiactivos"

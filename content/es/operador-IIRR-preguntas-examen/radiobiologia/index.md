@@ -2,7 +2,7 @@
 title: Radiobiología
 url: "/recursos-fisica-quimica/radiofisica/operador-IIRR/preguntas-examen/radiobiologia"
 subtitle: Aspectos generales de la interacción de la radiación con el medio biológico
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Interacción de la radiación con las células, efectos que se producen en el ámbito orgánico, tisular y celular y modelos de respuesta a la radiación."
+summary: "Interacción de la radiación con las células, efectos que se producen en el ámbito orgánico, tisular y celular y modelos de respuesta a la radiación."
 breadcrumbs: ["recursos-fisica-quimica","radiofisica","operador-IIRR-preguntas-examen"]
 authors:
 - jesica-sanchez-mazon
