@@ -1,18 +1,17 @@
 ---
-title: Marie Curie
+title: James Clerk Maxwell
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle: 
-summary: ""
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 tags:
-- física-s-XX
-- radiactividad
-- radiofísica
-- curie
+- electromagnetismo
+- óptica
+- color
+- maxwell
 categories:
 - Física
-- Química
-weight: 1
+weight: 3
 
 image:
   preview_only: true
@@ -27,9 +26,9 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Póster
-  url: marie-curie-poster.pdf  
+  url: james-clerk-maxwell-poster.pdf
 - icon_pack: fas
   icon: file-download
   name: Tríptico
-  url: marie-curie-triptico.pdf    
+  url: james-clerk-maxwell-triptico.pdf  
 ---
