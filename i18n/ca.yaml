@@ -53,7 +53,7 @@
 - id: btn_source
   translation: Font
 - id: btn_copy
-  translation: Copia
+  translation: Copiar
 - id: btn_copied
   translation: Copiat
 - id: btn_download
