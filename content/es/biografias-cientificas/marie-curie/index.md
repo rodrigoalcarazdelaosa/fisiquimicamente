@@ -9,6 +9,8 @@ tags:
 - radiactividad
 - radiofísica
 - curie
+- s XIX
+- s XX
 categories:
 - Física
 - Química

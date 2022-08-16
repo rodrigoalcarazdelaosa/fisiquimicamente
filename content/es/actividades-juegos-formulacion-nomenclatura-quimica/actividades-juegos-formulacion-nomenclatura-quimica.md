@@ -22,7 +22,7 @@ subtitle = "📔 Formulación y nomenclatura de Química"
   filter_default = 0  
 	
   [[content.filter_button]]
-    name = "Todos"
+    name = "Todas"
     tag = "*"
 
   [[content.filter_button]]

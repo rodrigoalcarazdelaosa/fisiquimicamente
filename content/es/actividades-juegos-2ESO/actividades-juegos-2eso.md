@@ -22,7 +22,7 @@ subtitle = "📗 2.º ESO"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "Todos"
+    name = "Todas"
     tag = "2º ESO"	
 	
   [[content.filter_button]]

@@ -10,6 +10,8 @@ tags:
 - óptica
 - gravitación
 - newton
+- s XVII
+- s XVIII
 categories:
 - Física
 weight: 1

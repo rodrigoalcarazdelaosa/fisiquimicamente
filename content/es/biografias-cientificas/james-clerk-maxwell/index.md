@@ -8,7 +8,10 @@ tags:
 - electromagnetismo
 - óptica
 - color
+- gases
+- termodinámica
 - maxwell
+- s XIX
 categories:
 - Física
 weight: 3
