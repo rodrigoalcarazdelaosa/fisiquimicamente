@@ -314,6 +314,6 @@ siendo el **módulo** $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = 26.3
 4. Cambia los **Márgenes** a **Ninguno**.
 5. Activa la opción **Gráficos de fondo**.
 
-El proceso en principio solo funciona con **Google Chrome**.
+El proceso, en principio, solo funciona con **Google Chrome**.
 
 </section>

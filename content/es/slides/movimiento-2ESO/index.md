@@ -352,6 +352,6 @@ donde el signo – indica que la moto ha recorrido esa distancia hacia la izquie
 4. Cambia los **Márgenes** a **Ninguno**.
 5. Activa la opción **Gráficos de fondo**.
 
-El proceso en principio solo funciona con **Google Chrome**.
+El proceso, en principio, solo funciona con **Google Chrome**.
 
 </section>

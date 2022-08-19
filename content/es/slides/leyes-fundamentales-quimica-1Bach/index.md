@@ -167,6 +167,6 @@ donde $\chi_i = n_i/n_\mathrm t$ es la **fracción molar** del gas $i$.
 4. Cambia los **Márgenes** a **Ninguno**.
 5. Activa la opción **Gráficos de fondo**.
 
-El proceso en principio solo funciona con **Google Chrome**.
+El proceso, en principio, solo funciona con **Google Chrome**.
 
 </section>
