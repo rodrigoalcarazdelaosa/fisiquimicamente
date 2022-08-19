@@ -370,8 +370,12 @@ Un **anticiclón** es una zona atmosférica de **alta presión**, en la cual la 
 
 ---
 
+{{% section %}}
+
 ## Cortometraje-documental
 {{< youtube GuCGcOkoK5E >}}
+
+{{% /section %}}
 
 <section id="PDF" data-visibility="uncounted">
 
