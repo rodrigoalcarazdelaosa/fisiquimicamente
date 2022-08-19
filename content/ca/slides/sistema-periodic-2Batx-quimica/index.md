@@ -22,7 +22,7 @@ slides:
 - [Apantallament i càrrega nuclear efectiva](#/2)
 - [Propietats periòdiques](#/3)
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -197,3 +197,19 @@ La **càrrega nuclear efectiva augmenta**, els **electrons** de valència són *
 La **càrrega nuclear efectiva** és **constant** però **augmenta** el **radi**, pel que els **electrons** són **menys atrets** i per tant **disminueixen** l'**energia** d'**ionització**, l'**afinitat electrònica** i l'**electronegativitat**.
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+
+1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
+2. Canvia la **Destinació** a **Guardar com a PDF**.
+3. Canvia el **Disseny** a **Horizontal**.
+4. Canvia els **Marges** a **Cap**.
+5. Activa l'opció **Gràfics de fons**.
+
+El procés en principi només funciona amb **Google Chrome**.
+
+</section>

@@ -20,7 +20,7 @@ slides:
 
 # Formulación y nomenclatura de Química Orgánica
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -769,3 +769,19 @@ No pueden ser nunca el grupo principal. Se nombran añadiendo el **prefijo *nitr
 <div style="height: 600px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/nitroglicerina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+
+1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
+2. Cambia el **Destino** a **Guardar como PDF**.
+3. Cambia el **Diseño** a **Horizontal**.
+4. Cambia los **Márgenes** a **Ninguno**.
+5. Activa la opción **Gráficos de fondo**.
+
+El proceso en principio solo funciona con **Google Chrome**.
+
+</section>

@@ -24,7 +24,7 @@ slides:
 - [Equacions cinètiques](#/5)
 - [Factors que influeixen en la velocitat de reacció](#/6)
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -303,3 +303,19 @@ Les **proteïnes** que actuen com a **catalitzadors** a les **reaccions bioquím
 {{< figure library="true" src="cinetica-quimica-2bach-quimica/catalisis-enzimatica-cat.svg" title="Model d'ajust induït." lightbox="false" width="100%" >}}
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+
+1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
+2. Canvia la **Destinació** a **Guardar com a PDF**.
+3. Canvia el **Disseny** a **Horizontal**.
+4. Canvia els **Marges** a **Cap**.
+5. Activa l'opció **Gràfics de fons**.
+
+El procés en principi només funciona amb **Google Chrome**.
+
+</section>

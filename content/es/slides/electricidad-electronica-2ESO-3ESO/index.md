@@ -21,7 +21,7 @@ slides:
 [Corriente eléctrica](#/1) | [Magnitudes eléctricas](#/2) | [Ley de Ohm](#/3) | [Buenos y malos conductores](#/4) | [Máquinas eléctricas](#/5) | 
 [Circuitos eléctricos](#/6) | [Dispositivos electrónicos](#/7) | [Aspectos industriales de la energía](#/8)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -383,3 +383,19 @@ Los microchips están ahora en prácticamente todos los equipos electrónicos, g
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/distribucion.jpg" lightbox="false" width="45%" >}}
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+
+1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
+2. Cambia el **Destino** a **Guardar como PDF**.
+3. Cambia el **Diseño** a **Horizontal**.
+4. Cambia los **Márgenes** a **Ninguno**.
+5. Activa la opción **Gráficos de fondo**.
+
+El proceso en principio solo funciona con **Google Chrome**.
+
+</section>

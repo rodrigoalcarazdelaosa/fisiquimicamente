@@ -20,7 +20,7 @@ slides:
 
 [Método científico](#/1), [magnitudes](#/2) y [laboratorio escolar](#/3)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -338,3 +338,19 @@ Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsi
 {{< figure src="https://www.reach-compliance.ch/downloads/GHS09_aq-pollut.png" lightbox="false" width="60%" >}}
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+
+1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
+2. Cambia el **Destino** a **Guardar como PDF**.
+3. Cambia el **Diseño** a **Horizontal**.
+4. Cambia los **Márgenes** a **Ninguno**.
+5. Activa la opción **Gráficos de fondo**.
+
+El proceso en principio solo funciona con **Google Chrome**.
+
+</section>

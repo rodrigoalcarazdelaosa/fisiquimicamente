@@ -28,7 +28,7 @@ slides:
 - [Equilibris heterogenis](#/10)
 - [Exemple](#/11)
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -555,3 +555,19 @@ D'acord amb la llei de Boyle-Mariotte, en reduir el volum fins a un terç del se
 D'acord amb el principi de Le Châtelier, el sistema es desplaçarà cap a on hi hagi menys mols gasosos, és a dir, cap a l'esquerra, formant més SO<sub>3</sub> i afavorint, per tant, la seva dissociació.
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+
+1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
+2. Canvia la **Destinació** a **Guardar com a PDF**.
+3. Canvia el **Disseny** a **Horizontal**.
+4. Canvia els **Marges** a **Cap**.
+5. Activa l'opció **Gràfics de fons**.
+
+El procés en principi només funciona amb **Google Chrome**.
+
+</section>

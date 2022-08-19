@@ -18,7 +18,7 @@ slides:
 
 # Movimiento parabólico
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -301,3 +301,19 @@ siendo el **módulo** $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = 26.3
 <iframe src="https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+
+1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
+2. Cambia el **Destino** a **Guardar como PDF**.
+3. Cambia el **Diseño** a **Horizontal**.
+4. Cambia los **Márgenes** a **Ninguno**.
+5. Activa la opción **Gráficos de fondo**.
+
+El proceso en principio solo funciona con **Google Chrome**.
+
+</section>

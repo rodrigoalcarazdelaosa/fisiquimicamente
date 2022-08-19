@@ -25,7 +25,7 @@ slides:
 - [Estructura electrònica](#/5)
 - [Partícules subatòmiques](#/6)
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -451,3 +451,19 @@ Després dels descobriments de **Thomson**, **Rutherford** i **Chadwick** a prin
 {{< figure library="true" src="estructura-materia-2Bach-quimica/evolucion-universo-cat.svg" lightbox="false" width="100%" >}}
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+
+1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
+2. Canvia la **Destinació** a **Guardar com a PDF**.
+3. Canvia el **Disseny** a **Horizontal**.
+4. Canvia els **Marges** a **Cap**.
+5. Activa l'opció **Gràfics de fons**.
+
+El procés en principi només funciona amb **Google Chrome**.
+
+</section>

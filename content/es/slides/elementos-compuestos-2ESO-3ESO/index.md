@@ -23,7 +23,7 @@ slides:
 - [Uniones entre átomos](#/3)
 - [Elementos y compuestos de especial interés](#/4)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -453,3 +453,19 @@ Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **c
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/semillas-yodo.jpg" lightbox="false" >}}
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+
+1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
+2. Cambia el **Destino** a **Guardar como PDF**.
+3. Cambia el **Diseño** a **Horizontal**.
+4. Cambia los **Márgenes** a **Ninguno**.
+5. Activa la opción **Gráficos de fondo**.
+
+El proceso en principio solo funciona con **Google Chrome**.
+
+</section>

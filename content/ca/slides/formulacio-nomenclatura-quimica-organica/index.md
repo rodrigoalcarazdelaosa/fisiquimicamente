@@ -20,7 +20,7 @@ slides:
 
 # Formulació i nomenclatura de Química Orgànica
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](?print-pdf#)
+Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
 
@@ -769,3 +769,19 @@ No poden ser mai el grup principal. S'anomenen afegint el **prefix *nitro--***.
 <div style="height: 600px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/nitroglicerina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
 
 {{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+
+1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
+2. Canvia la **Destinació** a **Guardar com a PDF**.
+3. Canvia el **Disseny** a **Horizontal**.
+4. Canvia els **Marges** a **Cap**.
+5. Activa l'opció **Gràfics de fons**.
+
+El procés en principi només funciona amb **Google Chrome**.
+
+</section>
