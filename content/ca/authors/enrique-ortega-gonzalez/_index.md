@@ -61,4 +61,4 @@ user_groups:
 - FisiQuímicament
 ---
 
-Soc Llicenciat en Química per la Universitat de Valladolid i Professor de Física i Química a l'[IES José del Campo](http://www.josedelcampo.com) d'Ampuero (Cantàbria). Fora de l'àmbit acadèmic sóc secretari del Club de Senderisme Cajiga de Laredo i vocal de la Junta Directiva de l'[Asociación de Amigos del Patrimonio de Laredo](http://amigosdelpatrimoniodelaredo.es).
+Soc Llicenciat en Química per la Universitat de Valladolid i Professor de Física i Química a l'[IES José del Campo](http://www.josedelcampo.com) d'Ampuero (Cantàbria). Fora de l'àmbit acadèmic sóc secretari del Club de Senderisme Cajiga de Laredo i vocal de la Junta Directiva de l'[Asociación de Amigos del Patrimonio de Laredo](https://amigospatrimoniolaredo.es).

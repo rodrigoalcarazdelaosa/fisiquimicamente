@@ -61,4 +61,4 @@ user_groups:
 - FisiQuímicamente
 ---
 
-Soy Licenciado en Química por la Universidad de Valladolid y Profesor de Física y Química en el [IES José del Campo](http://www.josedelcampo.com) de Ampuero (Cantabria). Fuera del ámbito académico soy secretario del Club de Senderismo Cajiga de Laredo y vocal de la Junta Directiva de la [Asociación de Amigos del Patrimonio de Laredo](http://amigosdelpatrimoniodelaredo.es).
+Soy Licenciado en Química por la Universidad de Valladolid y Profesor de Física y Química en el [IES José del Campo](http://www.josedelcampo.com) de Ampuero (Cantabria). Fuera del ámbito académico soy secretario del Club de Senderismo Cajiga de Laredo y vocal de la Junta Directiva de la [Asociación de Amigos del Patrimonio de Laredo](https://amigospatrimoniolaredo.es).
