@@ -405,7 +405,7 @@ $$
 
 #### Lluvia ácida
 
-Causada por la emisión de **óxidos de azufre y nitrógeno**, que, en contacto con el agua, forman **ácido sulfúrico** y **ácido nítrico**, entre otros:
+Causada por la emisión de **óxidos de azufre y nitrógeno** que, en contacto con el agua, forman **ácido sulfúrico** y **ácido nítrico**, entre otros:
 
 <table>
 <thead>
