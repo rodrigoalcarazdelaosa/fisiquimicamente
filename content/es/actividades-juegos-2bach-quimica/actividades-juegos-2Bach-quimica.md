@@ -35,7 +35,11 @@ subtitle = "📓 2.º Bach ⚗️ Química"
 	
   [[content.filter_button]]
     name = "Enlace químico"
-    tag = "enlace-químico"	
+    tag = "enlace-químico"
+
+  [[content.filter_button]]
+    name = "Termoquímica"
+    tag = "termoquímica"    	
 	
   [[content.filter_button]]
     name = "Cinética química"

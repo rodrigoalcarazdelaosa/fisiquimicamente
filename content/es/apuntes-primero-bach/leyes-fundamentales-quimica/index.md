@@ -31,6 +31,10 @@ slides: leyes-fundamentales-quimica-1Bach
 
 {{% toc %}}
 
+{{% callout note %}}
+**Trabaja** los **contenidos** de este **tema** convirtiéndote en **médico forense** y averiguando qué pasó en el **vuelo 1023** con [esta genial **actividad cooperativa**]({{< relref "/actividades-juegos-primero-bach/extrano-caso-vuelo-1023-mole-airlines" >}}).
+{{% /callout %}}
+
 ## Ley de conservación de la masa
 
 También **ley de Lomonósov-Lavoisier**, ya que fue enunciada independientemente por Mijaíl Lomonósov en 1748 y por Antoine Lavoisier en 1785:
@@ -38,6 +42,15 @@ También **ley de Lomonósov-Lavoisier**, ya que fue enunciada independientement
 > En un sistema aislado, durante toda reacción química ordinaria, la masa total en el sistema permanece constante, es decir, la masa consumida de los reactivos es igual a la masa de los productos obtenidos.
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" title="Reacción de **combustión** del **metano**, donde cuatro átomos de hidrógeno, cuatro átomos de oxígeno y uno de carbono están presentes antes y después de la reacción. La masa total después de la reacción es la misma que antes de la reacción. Adaptada de https://commons.wikimedia.org/wiki/File:Methane-combustion.svg." lightbox="false" width="100%" >}}
+
+### Práctica virtual
+Te recomendamos ver este excelente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos proponen una **práctica virtual** para **determinar** la **fórmula** de un **carbonato alcalino**:
+
+{{< youtube A9D4ARMV0WM >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1vbY3zlpiMDH-RMqIduKnndgPNttzQJfh/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
 	
 ## Ley de las proporciones definidas o ley de Proust
 
@@ -46,6 +59,15 @@ Enunciada por Louis Proust en 1799:
 > Cuando se combinan dos o más elementos para dar un determinado compuesto, siempre lo hacen en una relación constante de masas.
 
 {{< figure library="true" src="leyes-fundamentales-quimica-1Bach/ley-proporciones-definidas.svg" title="**Ley de las proporciones definidas** basada en la combustión de hidrógeno en oxígeno (reacción del oxihidrógeno). El hidrógeno y el oxígeno siempre reaccionan en una proporción 2:1. Se producen tantas moléculas de agua como moléculas de hidrógeno reaccionan. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Gesetz_der_multiplen_Proportionen.svg." lightbox="false" width="100%" >}}
+
+### Práctica virtual
+Te recomendamos ver este excelente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos proponen una **práctica virtual** relacionada con la **ley de Proust**:
+
+{{< youtube fPAMzYfUUds >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1amvrMuqu1OUXAC5njaDNjv5WIOq4Vd1v/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
 	
 ## Ley de las proporciones múltiples o ley de Dalton
 
@@ -87,6 +109,15 @@ $$
 d = \frac{pM}{RT}\quad\mathrm{o}\quad M = \frac{dRT}{p},
 $$
 donde $M$ es la masa molar del gas.
+
+#### Práctica virtual
+Te recomendamos ver este excelente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) donde nos proponen una **práctica virtual** para **determinar** la **masa molar** del **oxígeno**:
+
+{{< youtube 9LApku_r5eg >}}
+
+{{% callout gdrive %}}
+[Aquí](https://drive.google.com/file/d/1Q16VZEKu5iUaK1f9rh5beBOoY1Y7TN77/view) puedes descargarte el **guión** de la **práctica**. 
+{{% /callout %}}
 
 ### Ley de las presiones parciales o ley de Dalton
 

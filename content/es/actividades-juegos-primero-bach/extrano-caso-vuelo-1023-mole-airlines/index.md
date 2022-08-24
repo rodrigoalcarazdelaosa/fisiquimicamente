@@ -9,7 +9,7 @@ authors:
 tags:
 - actividades
 - 1º Bach
-- aspectos-cuantitativos-química
+- leyes-ponderales
 categories:
 - Química
 weight: 1
