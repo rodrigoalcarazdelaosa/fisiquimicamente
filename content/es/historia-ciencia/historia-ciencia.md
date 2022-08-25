@@ -27,16 +27,16 @@ subtitle = "Biografías y principales contribuciones de los grandes científicos
 
   [[content.filter_button]]
     name = "S. XVII"
-    tag = "s XVII"
+    filter = ".js-id-newton"
   [[content.filter_button]]
     name = "S. XVIII"
-    tag = "s XVIII"
+    filter = ".js-id-newton"
   [[content.filter_button]]
     name = "S. XIX"
-    tag = "s XIX"
+    filter = ".js-id-maxwell, .js-id-curie"
    [[content.filter_button]]
     name = "S. XX"
-    tag = "s XX"
+    filter = ".js-id-curie"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
