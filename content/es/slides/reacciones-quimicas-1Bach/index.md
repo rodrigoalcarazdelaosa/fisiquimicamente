@@ -1,81 +1,100 @@
 ---
 title: Reacciones químicas
-url: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
-subtitle: Clasificación y estequiometría de las reacciones químicas
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Clasificación y estequiometría de las reacciones químicas."
-breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
-authors:
-- rodrigo-alcaraz-de-la-osa
-- alba-lopez-valenzuela
-tags:
-- apuntes
-- 1º Bach
-- reacciones-químicas
-categories:
-- Química
-weight: 3
+url: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas/diapositivas"
+summary: Clasificación y estequiometría de las reacciones químicas.
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: white
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style:
 
-image:
-  caption: Foto de [**Alex Kondratiev**](https://unsplash.com/@alexkondratiev) en [Unsplash](https://unsplash.com)
-  focal_point: Smart
-
-links:
-- icon_pack: fas
-  icon: file-download
-  name: Póster
-  url: reacciones-quimicas-poster.pdf
-- icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios ajustes
-  url: ajuste-ecuaciones-quimicas-ejercicios.pdf
-- icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
-  url: https://drive.google.com/file/d/1_E6cVuBxyDmBam803B949yPKyHHajLXt/view
-  
-slides: reacciones-quimicas-1Bach
+  reveal_options:
+    hash: true
 ---
 
-{{% toc %}}
+<section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="10%" data-background-position="3.629% 5%, 96.371% 5%">
+
+# Reacciones químicas
+
+- [Clasificación de las reacciones químicas](#/1)
+- [Ajuste de ecuaciones químicas](#/2)
+- [Cálculos masa-masa](#/3)
+- [Reactivo limitante](#/4)
+- [Rendimiento químico](#/5)
+- [Reactivos en disolución](#/6)
+- [Cálculos masa-volumen](#/7)
+- [Ejemplo](#/8)
+
+Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+
+</section>
+
+---
+
+{{% section %}}
 
 ## Clasificación de las reacciones químicas
 
-{{% callout note %}}
+- [Cuatro tipos básicos](#/1/3)
+- [Combustión](#/1/4)
+- [Rédox](#/1/7)
+- [Ácido-base](#/1/10)
 
-Os recomendamos echar un vistazo a las páginas web de [**Beautiful Chemistry**](https://www.beautifulchemistry.net/reaction) y [**Envisioning Chemistry**](https://www.envisioningchemistry.com) para maravillaros con la belleza de la Química a través de preciosos **vídeos** como este:
+(continúa hacia abajo)
+
+👇
+
+---
+
+> Os recomendamos echar un vistazo a las páginas web de [**Beautiful Chemistry**](https://www.beautifulchemistry.net/reaction) y [**Envisioning Chemistry**](https://www.envisioningchemistry.com) para maravillaros con la belleza de la Química a través de preciosos **vídeos** como este:
+
+👇
+
+---
 
 {{< vimeo 107976057 >}}
 
-{{% /callout %}}
+---
 
 ### Cuatro tipos básicos
 
-{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/reacciones-quimicas.svg" title="Representación de cuatro tipos de reacciones básicas: síntesis, descomposición, sustitución y doble sustitución. Adaptada de https://commons.wikimedia.org/wiki/File:Chemical_reactions.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/reacciones-quimicas.svg" title="Representación de cuatro tipos de reacciones básicas: síntesis, descomposición, sustitución y doble sustitución." lightbox="false" width="100%" >}}
+
+---
 
 ### Combustión
 
-En una **combustión**, un elemento o compuesto reacciona con un oxidante, típicamente oxígeno, a menudo produciendo energía en forma de luz y/o calor. En el caso habitual de la combustión de un hidrocarburo (compuesto orgánico formado por H y C), tenemos:
+En una **combustión**, un elemento o compuesto reacciona con un oxidante, típicamente oxígeno, a menudo produciendo energía en forma de luz y/o calor.
+
+---
+
+En el caso habitual de la combustión de un hidrocarburo (compuesto orgánico formado por H y C), tenemos:
 $$
 \ce{HIDROCARBURO + O2 -> CO2 + H2O},
 $$
 razón por la que **quemar combustibles fósiles** libera cantidades ingentes de CO<sub>2</sub> a la atmósfera, gas de **efecto invernadero** responsable del **calentamiento global** y del **cambio climático**.
 
+---
+
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" title="**Combustión** del **metano**. Adaptada de https://commons.wikimedia.org/wiki/File:Methane-combustion.svg." lightbox="false" width="100%" >}}
+
+---
 
 ### Rédox
 
 Se trata de **reacciones** de **transferencia** de **electrones**, en las que una sustancia (el agente reductor) se oxida, liberando electrones que otra sustancia (el agente oxidante) capta, reduciéndose a su vez.
 
+---
+
 Las **reacciones electroquímicas** son especialmente importantes bien para la **producción** de **elementos químicos**, como el cloro o el aluminio, o bien para **producir energía eléctrica**, como se hace en las **pilas**.
 
-{{% callout note %}}
+---
 
-El curso que viene podrás [**aprender más** sobre **reacciones rédox**]({{< relref "apuntes-segundo-bach-quimica/redox" >}}).
+> El curso que viene podrás [**aprender más** sobre **reacciones rédox**]({{< relref "apuntes-segundo-bach-quimica/redox" >}}).
 
-{{% /callout %}}
+---
 
 ### Ácido-base
 
@@ -83,21 +102,31 @@ Son **equilibrios químicos** que involucran una **transferencia** de **protones
 $$
 \mathrm{HA} + \mathrm B &#8652; \mathrm A^- + \mathrm{HB}^+
 $$
+
+---
 		
 Un caso especial es la **neutralización**, una reacción química irreversible en la que un ácido y una base reaccionan en cantidades estequiométricas formando una sal neutra y agua:
 <div align="center" style="margin-bottom: 1rem">
 ÁCIDO + BASE &#10230; SAL + AGUA
 </div>
 
+---
+
 La **lluvia ácida** (formación de ácidos en la atmósfera) y el **esmog** (niebla contaminante) son graves **problemas medioambientales** asociados a las **reacciones ácido-base**.
+
+---
 
 La **oxidación** y la **hidrólisis** (reacción entre iones de sales y agua) son las principales reacciones químicas que afectan a la **estabilidad** de los **fármacos**.
 
-{{% callout note %}}
+---
 
-El curso que viene podrás [**aprender más** sobre **equilibrios ácido-base**]({{< relref "apuntes-segundo-bach-quimica/acido-base" >}}).
+> El curso que viene podrás [**aprender más** sobre **equilibrios ácido-base**]({{< relref "apuntes-segundo-bach-quimica/acido-base" >}}).
 
-{{% /callout %}}
+{{% /section %}}
+
+---
+
+{{% section %}}
 
 ## Ajuste de ecuaciones químicas
 
@@ -106,26 +135,47 @@ La **ley de conservación de la masa** implica dos **principios**:
 1. El número total de átomos antes y después de una reacción no cambia.
 2. El número de átomos de cada tipo es igual antes y después.
 
+---
+
 En una **ecuación química** general:
 
 $$
-\ce{aA + bB -> cC + dD}
+a\mathrm A + b\mathrm B \longrightarrow c\mathrm C + d\mathrm D
 $$
 
+---
+
 - A, B, C y D representan los **símbolos químicos** de los átomos o la **fórmula molecular** de los compuestos que reaccionan (lado izquierdo) y los que se producen (lado derecho).
+
+---
+
 - $a$, $b$, $c$ y $d$ representan los **coeficientes estequiométricos**, que deben ser ajustados según la **ley de conservación de la masa** (comparando de izquierda a derecha átomo por átomo el número que hay de estos a cada lado de la flecha).
+
+---
 
 Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
 
+---
+
 Puedes practicar más el **ajuste** de **ecuaciones químicas** con estas **simulaciones**:
 
-<iframe src="https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://phet.colorado.edu/sims/html/reactants-products-and-leftovers/latest/reactants-products-and-leftovers_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
+
+---
 
 <iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+{{% /section %}}
+
+---
+
+{{% section %}}
 
 ## Cálculos masa-masa
 
 Se trata de situaciones en las que nos dan la masa (típicamente en g) de un compuesto químico y nos piden la masa (también en g) de otro compuesto químico.
+
+---
 
 Seguimos estos **tres pasos**:
 
@@ -133,17 +183,33 @@ Seguimos estos **tres pasos**:
 2. **Relacionar moles** de un compuesto con moles de otro, a partir de los **coeficientes estequiométricos**.
 3. **Pasar de mol a g** utilizando la **masa molar**.
 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Reactivo limitante
 
 El **reactivo limitante** es el reactivo que se agota por completo en una reacción y, por lo tanto, determina cuándo se detiene la reacción.
 
-{{< figure library="true" src="reacciones-quimicas-1Bach/reactivo-limitante.svg" title="Masas iguales de hierro (Fe) y azufre (S) reaccionan para formar sulfuro de hierro(II) (FeS) pero, debido a su mayor peso atómico, el **hierro** es el **reactivo limitante** y, una vez que todo el hierro se consume, algo de azufre queda sin reaccionar. Adaptada de https://commons.wikimedia.org/wiki/File:Reagente_limitante.svg." lightbox="false" width="100%" >}}
+---
+
+{{< figure library="true" src="reacciones-quimicas-1Bach/reactivo-limitante.svg" title="Masas iguales de hierro (Fe) y azufre (S) reaccionan para formar sulfuro de hierro(II) (FeS) pero, debido a su mayor peso atómico, el **hierro** es el **reactivo limitante** y, una vez que todo el hierro se consume, algo de azufre queda sin reaccionar." lightbox="false" width="100%" >}}
+
+---
 
 Para **identificar el reactivo limitante** podemos calcular la cantidad:
 $$
 \frac{\text{moles del reactivo X}}{\text{coeficiente estequiométrico del reactivo X}}	
 $$
 para cada reactivo y el reactivo que tenga el valor más bajo será el reactivo limitante.
+
+{{% /section %}}
+
+---
+
+{{% section %}}
 
 ## Rendimiento químico
 
@@ -153,16 +219,32 @@ $$
 $$
 donde el **rendimiento real** es la cantidad real de producto obtenida en laboratorio y el **rendimiento teórico** es la cantidad de producto que se obtendría si todo el reactivo limitante reaccionara.
 
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Reactivos en disolución
 Cuando los **reactivos** se encuentran en **disolución**, tenemos que relacionar el número de moles, $n$, con el volumen, $V$, a través de la concentración molar o **molaridad**:
+
+---
 
 $$
 c = \frac{n}{V}	\rightarrow n = cV\quad \text{($V$ en L)}
 $$
 
+---
+
 Puedes aprender más con esta excelente **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/molarity/latest/molarity_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+{{% /section %}}
+
+---
+
+{{% section %}}
 
 ## Cálculos masa-volumen
 
@@ -171,6 +253,8 @@ Cuando alguno de los compuestos que intervienen en la reacción es un **gas**, n
 $$
 pV = nRT
 $$
+
+---
 
 - $p$ es la **presión** a la que se encuentra el gas, medida en atm.
 - $V$ es el volumen que ocupa el gas, medido en L.
@@ -181,16 +265,18 @@ $$
 	T(\mathrm K) = T(^\circ\mathrm C) + 273
 	$$
 
-## Ejemplo
+{{% /section %}}
 
-{{% callout example %}}
-<br>
+---
 
-> El amoniaco reacciona con el oxígeno según la siguiente reacción:
-	$$
-	\ce{NH3 + O2 -> NO + H2O}
-	$$
-	En un recipiente cerrado introducimos 200&thinsp;g de amoniaco y 200&thinsp;g de oxígeno.	Determina el volumen de monóxido de nitrógeno, medido en c.n., que se obtiene supuesto un rendimiento de la reacción del 70&thinsp;%.
+{{% section %}}
+
+### Ejemplo
+<q>El amoniaco reacciona con el oxígeno según la siguiente reacción:
+$$
+\ce{NH3 + O2 -> NO + H2O}
+$$
+En un recipiente cerrado introducimos 200&thinsp;g de amoniaco y 200&thinsp;g de oxígeno. Determina el volumen de monóxido de nitrógeno, medido en c.n., que se obtiene supuesto un rendimiento de la reacción del 70&thinsp;%.</q>
 
 ---
 
@@ -247,4 +333,21 @@ Para relacionar la cantidad de monóxido de nitrógeno que se obtiene (medida en
 $$
 pV = nRT \rightarrow V = \frac{nRT}{p} = \frac{3.5 \cdot 0.082\cdot 273}{1} = 78.4\thinspace\mathrm{L_\ce{NO}}
 $$
-{{% /callout %}}
+
+{{% /section %}}
+
+<section id="PDF" data-visibility="uncounted">
+
+## Exportar a PDF
+
+{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+
+1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
+2. Cambia el **Destino** a **Guardar como PDF**.
+3. Cambia el **Diseño** a **Horizontal**.
+4. Cambia los **Márgenes** a **Ninguno**.
+5. Activa la opción **Gráficos de fondo**.
+
+El proceso, en principio, solo funciona con **Google Chrome**.
+
+</section>

@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Movimiento circular | 1.º Bach
-      url: 'recursos-fisica-quimica/apuntes/1bach/movimiento-circular/'
+      text: Reacciones químicas | 1.º Bach
+      url: 'recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas/'
   - title: 🗞️ Novedades
     content: '🧩 Última actividad/juego'
     align: center

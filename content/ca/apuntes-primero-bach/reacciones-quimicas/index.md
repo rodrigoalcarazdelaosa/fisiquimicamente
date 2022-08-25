@@ -1,8 +1,8 @@
 ---
 title: Reaccions químiques
 url: "/recursos-fisica-quimica/apunts/1batx/reaccions-quimiques"
-subtitle: Equacions químiques, estequiometria, reactiu limitant i rendiment
-summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Equacions químiques, estequiometria, reactiu limitant i rendiment."
+subtitle: Classificació i estequiometria de les reaccions químiques
+summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code><br>Classificació i estequiometria de les reaccions químiques."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
 authors:
 - rodrigo-alcaraz-de-la-osa
@@ -38,12 +38,6 @@ links:
 #  name: Póster
 #  url: movimientos_poster.pdf  
 ---
-
-<!-- Añadir práctica virtual del fqsaja: http://www.fqsaja.com/?portfolio_page=practica-virtual-ley-de-proust -->
-
-<!-- Añadir práctica virtual del fqsaja: https://twitter.com/fqsaja1/status/1347458123615916034?s=20-->
-
-<!-- Añadir actividad de Miguel Quiroga: https://www.miguelquiroga.es/la-materia/el-vuelo-1023 -->
 
 {{% callout soon %}}
 Properament...

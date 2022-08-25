@@ -60,6 +60,14 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 
 ### Tipos de reacciones químicas
 
+{{% callout note %}}
+
+Os recomendamos echar un vistazo a las páginas web de [**Beautiful Chemistry**](https://www.beautifulchemistry.net/reaction) y [**Envisioning Chemistry**](https://www.envisioningchemistry.com) para maravillaros con la belleza de la Química a través de preciosos **vídeos** como este:
+
+{{< vimeo 107976057 >}}
+
+{{% /callout %}}
+
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/reacciones-quimicas.svg" title="Representación de cuatro tipos de reacciones básicas: síntesis, descomposición, sustitución y doble sustitución. Adaptada de https://commons.wikimedia.org/wiki/File:Chemical_reactions.svg." lightbox="false" width="100%" >}}
 
 ## Estequiometría
