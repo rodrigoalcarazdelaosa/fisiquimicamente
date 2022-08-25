@@ -47,11 +47,11 @@
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}
   {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
-    {{- if eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/" -}}
+    {{ if and (eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "es") -}}
       {{ $link = "/equipo/rodrigo-alcaraz-de-la-osa/" }}	        
     {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "en") -}}
       {{ $link = "/team/rodrigo-alcaraz-de-la-osa/" }}
-    {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "ca") -}}
+    {{- else if and (eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "ca") -}}
       {{ $link = "/equip/rodrigo-alcaraz-de-la-osa/" }}      
 	  {{- else -}}		  
 	    {{ $link = .RelPermalink }}
