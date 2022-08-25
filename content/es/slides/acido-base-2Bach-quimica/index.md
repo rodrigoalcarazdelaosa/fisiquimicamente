@@ -275,7 +275,7 @@ Una **valoración/titulación ácido-base** es un método de análisis químico 
 
 ---
 
-{{< figure src="acido-base-2Bach-quimica/ph-Vb.svg" title="Curva de valoración/titulación de 25 mL de ácido acético 0.1 M con hidróxido de sodio 0.1 M." lightbox="false" width="100%" >}}
+{{< figure src="acido-base-2Bach-quimica/ph-Vb.svg" title="" lightbox="false" width="85%" >}}
 
 ---
 

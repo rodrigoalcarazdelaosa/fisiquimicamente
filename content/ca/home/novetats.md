@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Cinètica química
-      url: 'recursos-fisica-quimica/apunts/2batx/quimica/cinetica-quimica/'
+      text: Àcid-base
+      url: 'recursos-fisica-quimica/apunts/2batx/quimica/acid-base/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
     align: center
