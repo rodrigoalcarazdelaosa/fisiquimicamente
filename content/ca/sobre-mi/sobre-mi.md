@@ -18,11 +18,12 @@ subtitle = ""
   icon = "[👨‍🎓](interessos-formacio)"
   icon_pack = "emoji"
   name = "[Interessos i formació](interessos-formacio)"
-  description = "[🎸 Guitarra](interessos-formacio/#guitarra)"
+  description = "[🎸 Guitarra](interessos-formacio/#guitarra)"  
   
 [[feature]]
-  icon = "[👣](trayectoria-professional)"
-  icon_pack = "emoji"
+  icon = "pasos"
+  icon_link = "trayectoria-professional/"
+  icon_pack = "tgs"
   name = "[Trajectòria professional](trayectoria-professional)"
   description = ""
   

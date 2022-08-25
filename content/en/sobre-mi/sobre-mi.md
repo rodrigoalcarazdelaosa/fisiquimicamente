@@ -21,8 +21,9 @@ subtitle = ""
   description = "[🎸 Guitar](interests-education/#guitar)"
   
 [[feature]]
-  icon = "[👣](career-path)"
-  icon_pack = "emoji"
+  icon = "pasos"
+  icon_link = "career-path/"
+  icon_pack = "tgs"  
   name = "[Career Path](career-path)"
   description = ""
   

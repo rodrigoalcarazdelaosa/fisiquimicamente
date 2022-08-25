@@ -19,10 +19,13 @@ subtitle = ""
   icon_pack = "emoji"
   name = "[Intereses y formación](intereses-formacion)"
   description = "[🎸 Guitarra](intereses-formacion/#guitarra)"
+
   
-[[feature]]
-  icon = "[👣](trayectoria-profesional)"
-  icon_pack = "emoji"
+  
+[[feature]]  
+  icon = "pasos"
+  icon_link = "trayectoria-profesional/"
+  icon_pack = "tgs"
   name = "[Trayectoria profesional](trayectoria-profesional)"
   description = ""
   
