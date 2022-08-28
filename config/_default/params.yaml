@@ -63,10 +63,7 @@ locale:
 # Site features
 
 features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:      
-      - latex
+  syntax_highlighter:    
     theme_light: nord
     theme_dark: nord
   math:

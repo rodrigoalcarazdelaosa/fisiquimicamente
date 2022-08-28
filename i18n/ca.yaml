@@ -188,4 +188,18 @@
   translation: Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
 # Paypal
 - id: paypal
-  translation: Invítanos a un cafè   
+  translation: Invítanos a un cafè
+
+# Feedback widget
+
+- id: feedback_widget_title
+  translation: Feedback
+
+- id: feedback_widget_question
+  translation: T'ha resultat útil aquesta pàgina?
+
+- id: feedback_widget_answer_positive
+  translation: 😍 Sí
+
+- id: feedback_widget_answer_negative
+  translation: 😡 No  
