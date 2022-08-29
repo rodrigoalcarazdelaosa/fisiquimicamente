@@ -57,7 +57,7 @@ $$
 
 ---
 
-Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
+Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto (o volumen si las sustancias intervinientes son gases en las mismas condiciones de presión y temperatura).
 
 ---
 

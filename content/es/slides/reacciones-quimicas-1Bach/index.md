@@ -153,7 +153,7 @@ $$
 
 ---
 
-Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto.
+Los **coeficientes estequiométricos** indican el número de átomos/moléculas/**moles** que reaccionan/se producen de cada elemento/compuesto (o volumen si las sustancias intervinientes son gases en las mismas condiciones de presión y temperatura).
 
 ---
 
@@ -217,7 +217,7 @@ Es una medida de la cantidad de producto obtenida en una reacción química en r
 $$
 \eta = \frac{\text{rendimiento real}}{\text{rendimiento teórico}}\times 100,	
 $$
-donde el **rendimiento real** es la cantidad real de producto obtenida en laboratorio y el **rendimiento teórico** es la cantidad de producto que se obtendría si todo el reactivo limitante reaccionara.
+donde el **rendimiento real** es la cantidad real (masa, moles o volumen) de producto obtenida en laboratorio y el **rendimiento teórico** es la cantidad de producto que se obtendría si todo el reactivo limitante reaccionara.
 
 {{% /section %}}
 
