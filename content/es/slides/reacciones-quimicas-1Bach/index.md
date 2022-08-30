@@ -22,10 +22,11 @@ slides:
 - [Ajuste de ecuaciones químicas](#/2)
 - [Cálculos masa-masa](#/3)
 - [Reactivo limitante](#/4)
-- [Rendimiento químico](#/5)
-- [Reactivos en disolución](#/6)
-- [Cálculos masa-volumen](#/7)
-- [Ejemplo](#/8)
+- [Pureza química](#/5)
+- [Rendimiento químico](#/6)
+- [Reactivos en disolución](#/7)
+- [Cálculos masa-volumen](#/8)
+- [Ejemplo](#/9)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
@@ -37,10 +38,11 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Clasificación de las reacciones químicas
 
-- [Cuatro tipos básicos](#/1/3)
-- [Combustión](#/1/4)
-- [Rédox](#/1/7)
-- [Ácido-base](#/1/10)
+- [Según el mecanismo de intercambio](#/1/4)
+- [Según el sentido](#/1/5)
+- [Según la energía](#/1/7)
+- [Según la naturaleza de los reactivos/productos](#/1/9)
+- [Según la velocidad](#/1/23)
 
 (continúa hacia abajo)
 
@@ -58,13 +60,48 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
-### Cuatro tipos básicos
-
-{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/reacciones-quimicas.svg" title="Representación de cuatro tipos de reacciones básicas: síntesis, descomposición, sustitución y doble sustitución." lightbox="false" width="100%" >}}
+{{< figure library="true" src="reacciones-quimicas-1Bach/clasificacion-reacciones-quimicas.svg" lightbox="false" width="70%" >}}
 
 ---
 
-### Combustión
+### Según el mecanismo de intercambio
+
+{{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/reacciones-quimicas.svg" title="Representación de cuatro tipos de **reacciones básicas**: síntesis, descomposición, sustitución y doble sustitución." lightbox="false" width="100%" >}}
+
+---
+
+### Según el sentido
+Pueden ser completas (o **irreversibles**) o **reversibles**, en cuyo caso se representan con una doble flecha (&#8652;).
+
+---
+
+> El curso que viene podrás [**aprender más** sobre **equilibrios químicos**]({{< relref "apuntes-segundo-bach-quimica/equilibrio-quimico" >}}).
+
+---
+
+### Según la energía
+Pueden desprender (**exotérmicas**) o absorber energía (**endotérmicas**).
+
+---
+
+> El curso que viene podrás [**aprender más** sobre **termoquímica**]({{< relref "apuntes-segundo-bach-quimica/termoquimica" >}}).
+
+---
+
+### Según la naturaleza de los reactivos/productos
+
+- [Combustión](#/1/10)
+- [Rédox](#/1/13)
+- [Ácido-base](#/1/16)
+- [Precipitación](#/1/21)
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+#### Combustión
 
 En una **combustión**, un elemento o compuesto reacciona con un oxidante, típicamente oxígeno, a menudo produciendo energía en forma de luz y/o calor.
 
@@ -82,7 +119,7 @@ razón por la que **quemar combustibles fósiles** libera cantidades ingentes de
 
 ---
 
-### Rédox
+#### Rédox
 
 Se trata de **reacciones** de **transferencia** de **electrones**, en las que una sustancia (el agente reductor) se oxida, liberando electrones que otra sustancia (el agente oxidante) capta, reduciéndose a su vez.
 
@@ -96,7 +133,7 @@ Las **reacciones electroquímicas** son especialmente importantes bien para la *
 
 ---
 
-### Ácido-base
+#### Ácido-base
 
 Son **equilibrios químicos** que involucran una **transferencia** de **protones** (H<sup>+</sup>) de una especie química (el **ácido**) a otra (la **base**).
 $$
@@ -121,6 +158,25 @@ La **oxidación** y la **hidrólisis** (reacción entre iones de sales y agua) s
 ---
 
 > El curso que viene podrás [**aprender más** sobre **equilibrios ácido-base**]({{< relref "apuntes-segundo-bach-quimica/acido-base" >}}).
+
+---
+
+#### Precipitación
+
+Se trata de **reacciones** de **transferencia** de **iones** entre dos compuestos iónicos en disolución, para formar una **sal insoluble** llamada **precipitado**.
+
+---
+
+> El curso que viene podrás [**aprender más** sobre **reacciones de precipitación**]({{< relref "apuntes-segundo-bach-quimica/equilibrio-quimico#equilibrios-heterogéneos" >}}).
+
+---
+
+### Según la velocidad (criterio cinético)
+Pueden ser **rápidas** o **lentas**.
+
+---
+
+> El curso que viene podrás [**aprender más** sobre **cinética química**]({{< relref "apuntes-segundo-bach-quimica/cinetica-quimica" >}}).
 
 {{% /section %}}
 
@@ -211,13 +267,59 @@ para cada reactivo y el reactivo que tenga el valor más bajo será el reactivo 
 
 {{% section %}}
 
+## Pureza química
+
+Es una medida de la cantidad de **impurezas** que contiene una muestra química.
+
+---
+
+En función de la aplicación (investigación científica, farmacia, alimentación o industria) se utilizan distintos **grados** de **pureza**, siendo los más altos por encima del 95&thinsp;%.
+
+---
+
+Como en la ecuación química aparecen sustancias puras, al realizar los cálculos estequiométricos *eliminaremos* la contribución de las impurezas. En estos cálculos supondremos que las impurezas son inertes, es decir, que no reaccionan.
+
+---
+
+$$
+\text{PUREZA} = \frac{\text{masa sustancia pura}}{\text{masa muestra impura}}\times 100	
+$$
+
+---
+
+> Te recomendamos ir al **blog** para leer [esta magnífica **entrada**]({{< relref "post/pureza-quimica-cobre" >}}) de {{% mention "ricardo-estrada-ramirez" %}} sobre la **pureza química** y el **cobre**.
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
 ## Rendimiento químico
 
-Es una medida de la cantidad de producto obtenida en una reacción química en relación con el reactivo consumido, generalmente expresado en porcentaje y denotado por $\eta$:
+Es una medida de la cantidad de producto obtenida en una reacción química en relación con el reactivo consumido.
+
+---
+
+Generalmente se expresa en porcentaje y se denota por $\eta$:
 $$
 \eta = \frac{\text{rendimiento real}}{\text{rendimiento teórico}}\times 100,	
 $$
 donde el **rendimiento real** es la cantidad real (masa, moles o volumen) de producto obtenida en laboratorio y el **rendimiento teórico** es la cantidad de producto que se obtendría si todo el reactivo limitante reaccionara.
+
+---
+
+El rendimiento es uno de los principales factores que la comunidad científica debe tener en cuenta en los procesos de síntesis química inorgánica y orgánica. 
+
+---
+
+Las principales **razones** por las que una reacción no produce la cantidad teórica (predicha) de producto son:
+
+- Reacciones incompletas en las que algunos reactivos no reaccionan para formar productos.
+- Errores experimentales, como por ejemplo derrames.
+- Reacciones secundarias no deseadas.
+- Reacciones reversibles.
+- Impurezas en los reactivos.
 
 {{% /section %}}
 

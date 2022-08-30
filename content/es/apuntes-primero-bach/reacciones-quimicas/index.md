@@ -51,11 +51,35 @@ Os recomendamos echar un vistazo a las páginas web de [**Beautiful Chemistry**]
 
 {{% /callout %}}
 
-### Cuatro tipos básicos
+{{< figure library="true" src="reacciones-quimicas-1Bach/clasificacion-reacciones-quimicas.svg" lightbox="false" width="100%" >}}
+
+### Según el mecanismo de intercambio
+
+Cuatro tipos de **reacciones básicas**:
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/reacciones-quimicas.svg" title="Representación de cuatro tipos de reacciones básicas: síntesis, descomposición, sustitución y doble sustitución. Adaptada de https://commons.wikimedia.org/wiki/File:Chemical_reactions.svg." lightbox="false" width="100%" >}}
 
-### Combustión
+### Según el sentido
+Pueden ser completas (o **irreversibles**) o **reversibles**, en cuyo caso se representan con una doble flecha (&#8652;).
+
+{{% callout note %}}
+
+El curso que viene podrás [**aprender más** sobre **equilibrios químicos**]({{< relref "apuntes-segundo-bach-quimica/equilibrio-quimico" >}}).
+
+{{% /callout %}}
+
+### Según la energía
+Pueden desprender (**exotérmicas**) o absorber energía (**endotérmicas**).
+
+{{% callout note %}}
+
+El curso que viene podrás [**aprender más** sobre **termoquímica**]({{< relref "apuntes-segundo-bach-quimica/termoquimica" >}}).
+
+{{% /callout %}}
+
+### Según la naturaleza de los reactivos/productos
+
+#### Combustión
 
 En una **combustión**, un elemento o compuesto reacciona con un oxidante, típicamente oxígeno, a menudo produciendo energía en forma de luz y/o calor. En el caso habitual de la combustión de un hidrocarburo (compuesto orgánico formado por H y C), tenemos:
 $$
@@ -65,7 +89,7 @@ razón por la que **quemar combustibles fósiles** libera cantidades ingentes de
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" title="**Combustión** del **metano**. Adaptada de https://commons.wikimedia.org/wiki/File:Methane-combustion.svg." lightbox="false" width="100%" >}}
 
-### Rédox
+#### Rédox
 
 Se trata de **reacciones** de **transferencia** de **electrones**, en las que una sustancia (el agente reductor) se oxida, liberando electrones que otra sustancia (el agente oxidante) capta, reduciéndose a su vez.
 
@@ -77,7 +101,7 @@ El curso que viene podrás [**aprender más** sobre **reacciones rédox**]({{< r
 
 {{% /callout %}}
 
-### Ácido-base
+#### Ácido-base
 
 Son **equilibrios químicos** que involucran una **transferencia** de **protones** (H<sup>+</sup>) de una especie química (el **ácido**) a otra (la **base**).
 $$
@@ -96,6 +120,25 @@ La **oxidación** y la **hidrólisis** (reacción entre iones de sales y agua) s
 {{% callout note %}}
 
 El curso que viene podrás [**aprender más** sobre **equilibrios ácido-base**]({{< relref "apuntes-segundo-bach-quimica/acido-base" >}}).
+
+{{% /callout %}}
+
+#### Precipitación
+
+Se trata de **reacciones** de **transferencia** de **iones** entre dos compuestos iónicos en disolución, para formar una **sal insoluble** llamada **precipitado**.
+
+{{% callout note %}}
+
+El curso que viene podrás [**aprender más** sobre **reacciones de precipitación**]({{< relref "apuntes-segundo-bach-quimica/equilibrio-quimico#equilibrios-heterogéneos" >}}).
+
+{{% /callout %}}
+
+### Según la velocidad (criterio cinético)
+Pueden ser **rápidas** o **lentas**.
+
+{{% callout note %}}
+
+El curso que viene podrás [**aprender más** sobre **cinética química**]({{< relref "apuntes-segundo-bach-quimica/cinetica-quimica" >}}).
 
 {{% /callout %}}
 
@@ -145,13 +188,34 @@ $$
 $$
 para cada reactivo y el reactivo que tenga el valor más bajo será el reactivo limitante.
 
+## Pureza química
+
+Es una medida de la cantidad de **impurezas** que contiene una muestra química. En función de la aplicación (investigación científica, farmacia, alimentación o industria) se utilizan distintos **grados** de **pureza**, siendo los más altos por encima del 95&thinsp;%. Como en la ecuación química aparecen sustancias puras, al realizar los cálculos estequiométricos *eliminaremos* la contribución de las impurezas. En estos cálculos supondremos que las impurezas son inertes, es decir, que no reaccionan.
+$$
+\text{PUREZA} = \frac{\text{masa sustancia pura}}{\text{masa muestra impura}}\times 100	
+$$
+
+{{% callout note %}}
+
+Te recomendamos ir al **blog** para leer [esta magnífica **entrada**]({{< relref "post/pureza-quimica-cobre" >}}) de {{% mention "ricardo-estrada-ramirez" %}} sobre la **pureza química** y el **cobre**.
+
+{{% /callout %}}
+
 ## Rendimiento químico
 
-Es una medida de la cantidad de producto obtenida en una reacción química en relación con el reactivo consumido, generalmente expresado en porcentaje y denotado por $\eta$:
+Es una medida de la cantidad de producto obtenida en una reacción química en relación con el reactivo consumido. Generalmente se expresa en porcentaje y se denota por $\eta$:
 $$
 \eta = \frac{\text{rendimiento real}}{\text{rendimiento teórico}}\times 100,	
 $$
 donde el **rendimiento real** es la cantidad real (masa, moles o volumen) de producto obtenida en laboratorio y el **rendimiento teórico** es la cantidad de producto que se obtendría si todo el reactivo limitante reaccionara.
+
+El rendimiento es uno de los principales factores que la comunidad científica debe tener en cuenta en los procesos de síntesis química inorgánica y orgánica. Las principales **razones** por las que una reacción no produce la cantidad teórica (predicha) de producto son:
+
+- Reacciones incompletas en las que algunos reactivos no reaccionan para formar productos.
+- Errores experimentales, como por ejemplo derrames.
+- Reacciones secundarias no deseadas.
+- Reacciones reversibles.
+- Impurezas en los reactivos.
 
 ## Reactivos en disolución
 Cuando los **reactivos** se encuentran en **disolución**, tenemos que relacionar el número de moles, $n$, con el volumen, $V$, a través de la concentración molar o **molaridad**:
