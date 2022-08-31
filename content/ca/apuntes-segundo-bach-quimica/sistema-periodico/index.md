@@ -44,7 +44,7 @@ slides: sistema-periodic-2Batx-quimica
 La **taula periòdica** dels **elements** organitza els **118 elements** coneguts en **7 períodes** (files) i **18 grups** (columnes), **ordenats** pel seu **nombre atòmic $Z$**.
 
 <div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "04da14cf3537449fb79550f281d2feb4", divId: "adobe-dc-view"});

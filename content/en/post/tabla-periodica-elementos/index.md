@@ -33,7 +33,7 @@ links:
 Here you have a **Periodic Table of Elements** with basic information and in high resolution, where each element is a **link** that takes you to the **Wikipedia** page of the **element**.
 
 <div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "39dd32af74e34012833655746f111947", divId: "adobe-dc-view"});
