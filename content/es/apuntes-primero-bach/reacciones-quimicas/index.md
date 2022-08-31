@@ -239,11 +239,13 @@ $$
 - $p$ es la **presión** a la que se encuentra el gas, medida en atm.
 - $V$ es el volumen que ocupa el gas, medido en L.
 - $n$ es el **número de moles** que tenemos del gas, que lo podemos relacionar con los gramos a través de la **masa molar**.
-- $R=0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}$ es la **constante universal de los gases ideales**.
+- $R=0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}$ es la **constante universal de los gases ideales**[^1].
 - $T$ es la **temperatura** a la que se encuentra el gas, medida en K:
 	$$
 	T(\mathrm K) = T(^\circ\mathrm C) + 273
 	$$
+
+[^1]: En caso de trabajar en el SI, la constante de los gases ideales toma el valor $R=8.314\thinspace\frac{\mathrm{Pa\thinspace m^3}}{\mathrm{mol\thinspace K}}$.
 
 ## Ejemplo
 

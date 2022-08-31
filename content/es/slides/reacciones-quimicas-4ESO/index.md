@@ -209,8 +209,8 @@ $$
 
 ## Cálculos masa-volumen
 
-- [Ecuación de los gases ideales](#/3/1)
-- [Ejemplo](#/3/3)
+- [Ecuación de los gases ideales](#/4/1)
+- [Ejemplo](#/4/4)
 
 (continúa hacia abajo)
 
@@ -235,6 +235,10 @@ $$
 	$$
 	T(\mathrm K) = T(^\circ\mathrm C) + 273
 	$$
+
+---  
+
+En caso de trabajar en el SI, la constante de los gases ideales toma el valor $R=8.314\thinspace\frac{\mathrm{Pa\thinspace m^3}}{\mathrm{mol\thinspace K}}$.	
 	
 ---	
 

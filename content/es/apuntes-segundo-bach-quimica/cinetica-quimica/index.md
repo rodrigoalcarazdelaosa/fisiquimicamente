@@ -144,7 +144,7 @@ $$
 k = A\mathrm e^{-\frac{E_\mathrm a}{RT}},
 $$
 
-donde $A$ es el factor de frecuencia, que refleja la frecuencia de las colisiones, $E_\mathrm a$ es la energía de activación y $R = 8.31\thinspace \mathrm J\thinspace\mathrm{mol}^{-1}\thinspace\mathrm K^{-1}$ es la constante universal de los gases ideales.
+donde $A$ es el factor de frecuencia, que refleja la frecuencia de las colisiones, $E_\mathrm a$ es la energía de activación y $R = 8.314\thinspace \mathrm J\thinspace\mathrm{mol}^{-1}\thinspace\mathrm K^{-1}$ es la constante universal de los gases ideales.
 
 ### Catalizadores
 
