@@ -42,11 +42,11 @@ Proposada pel suec **Svante Arrhenius** al 1884, constitueix la primera definici
 
 #### Àcid
 
-Substància que es disòcia en aigua formant cations hidrogen (H<sup>+</sup>).
+Substància que es dissocia en aigua formant cations hidrogen (H<sup>+</sup>).
 
 #### Base
 
-Substància que es disòcia en aigua formant anions hidròxid (OH<sup>&ndash;</sup>).
+Substància que es dissocia en aigua formant anions hidròxid (OH<sup>&ndash;</sup>).
 
 ### Teoria de Brønsted-Lowry
 
@@ -76,7 +76,7 @@ Aquesta teoria es considera una **generalització** de la teoria de **Arrhenius*
 
 ## Força relativa dels àcids i bases
 
-En funció de com d'ionitzat/a o dissociat/a se trobi un àcid o una base, distingim entre **àcids/bases fortes i febles**, termes que descriuen la **facilitat** per a **conduir** l'**electricitat** (gràcies a la major o menor presència d'ions en la dissolució).
+En funció de com d'ionitzat/da o dissociat/da se trobi un àcid o una base, distingim entre **àcids/bases fortes i febles**, termes que descriuen la **facilitat** per a **conduir** l'**electricitat** (gràcies a la major o menor presència d'ions en la dissolució).
 
 ### Grau d'ionització
 
@@ -97,7 +97,7 @@ Totalment ionitzats/des ($\alpha \approx 1$). Condueixen bé l'electricitat.
 
 #### Àcids i bases febles
 
-Parcialment ionitzats/es: $\alpha < 1$. Condueixen malament l'electricitat.
+Parcialment ionitzats/des: $\alpha < 1$. Condueixen malament l'electricitat.
 
 - Àcids: HF(ac), H<sub>2</sub>S(ac), H<sub>2</sub>CO<sub>3</sub>, H<sub>2</sub>SO<sub>3</sub>, H<sub>3</sub>PO<sub>4</sub>, HNO<sub>2</sub> i àcids orgànics, com el CH<sub>3</sub>COOH.
 - Bases: NH<sub>3</sub> (o NH<sub>4</sub>OH) i bases orgàniques nitrogenades, com les amines.
@@ -208,7 +208,7 @@ Un indicador de pH és un compost químic *halocròmic* (canvia de color ---*vir
 
 ### Tornasol
 
-Mescla soluble en aigua de diferents colorants extrets de **líquenss**. Absorbit en paper de filtre constitueix un dels indicadors de pH més antics utilitzats ($\sim$ 1300).
+Mescla soluble en aigua de diferents colorants extrets de **líquens**. Absorbit en paper de filtre constitueix un dels indicadors de pH més antics utilitzats ($\sim$ 1300).
 
 {{< figure src="acido-base-2Bach-quimica/pH-tornasol.svg" lightbox="false" width="100%" >}}
 
@@ -317,7 +317,7 @@ $$
 \mathrm{[OH^-]} = K_\mathrm b\cdot \frac{\mathrm{[B]}}{\mathrm{[HB^+]}}	
 $$
 
-Prenent logaritmes i canviant de signe arribem a una altra forma de l'equació de Henderson-Hasselbalch**:
+Prenent logaritmes i canviant de signe arribem a una altra forma de l'**equació de Henderson-Hasselbalch**:
 
 $$
 \mathrm{pOH} = \mathrm p K_\mathrm b + \log\frac{[\text{àcid conjugat}]}{[\text{base}]}
@@ -347,13 +347,13 @@ $$
 El compost químic més produït del món, obtingut a base d'hidratar SO<sub>3</sub> concentrat prèviament del SO<sub>2</sub>. El seu principal ús és per crear àcid fosfòric que alhora s'empra en **fertilitzants**.
 
 \begin{align*}
-\mathrm{H_2SO_4} + \mathrm{H_2O} &\longrightarrow \mathrm{HSO_4^-} + \mathrm{H_3O^+}\quad\text{(àcid FORT} \\\\
+\mathrm{H_2SO_4} + \mathrm{H_2O} &\longrightarrow \mathrm{HSO_4^-} + \mathrm{H_3O^+}\quad\text{(àcid FORT)} \\\\
 \mathrm{HSO_4^-} + \mathrm{H_2O} & &#8652; \mathrm{SO_4^{2-}} + \mathrm{H_3O^+}\quad\text{(àcid FEBLE)}
 \end{align*}
 
 #### Àcid nítric (HNO<sub>3</sub>)
 
-Empleat en la producció d'adobs, explosius i colorants:
+Emprat en la producció d'adobs, explosius i colorants:
 $$
 \mathrm{HNO_3} + \mathrm{H_2O} \longrightarrow \mathrm{NO_3^-} + \mathrm{H_3O^+}\quad\text{(àcid FORT)}	
 $$
