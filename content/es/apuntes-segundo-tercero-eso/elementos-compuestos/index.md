@@ -39,17 +39,7 @@ slides: elementos-compuestos-2ESO-3ESO
 
 La **tabla periódica de los elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados por su número atómico $Z$**.
 
-<div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos.pdf"}},
-			metaData:{fileName: "tabla-periodica-elementos.pdf"}
-		}, {embedMode: "IN_LINE"});
-	});
-</script>
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos.pdf" filename="tabla-periodica-elementos.pdf" %}}
 
 ### Propiedades periódicas
 

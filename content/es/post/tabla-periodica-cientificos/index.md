@@ -32,17 +32,7 @@ Inspirados por la [Tabla Periódica <img draggable="false" class="icon" alt="DC"
 Cada imagen es un **enlace** que te lleva a la página de la **Wikipedia** del/a **científico/a**. Además, por detrás (segunda página del PDF) puedes ver tanto el **nombre** de cada **elemento** como el de cada **científico/a** (ambos enlazados a Wikipedia).
 {{% /callout %}}
 
-<div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://fisiquimicamente.com/pdf/periodic-table-scientists.pdf"}},
-			metaData:{fileName: "periodic-table-scientists.pdf"}
-		}, {embedMode: "IN_LINE"});
-	});
-</script>
+{{% embed_pdf url="https://fisiquimicamente.com/pdf/periodic-table-scientists.pdf" filename="periodic-table-scientists.pdf" %}}
 
 ## Notas
 Algunas **notas** sobre la Tabla:

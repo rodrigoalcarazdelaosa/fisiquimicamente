@@ -1,6 +1,7 @@
 {{ $clientID := site.Params.pdf_embed_api_key }}
 {{ $url := .Get "url" }}
-{{ $filename := .Get "filename" }}
+{{ $pathBase := path.Base $url }}
+{{ $filename := .Get "filename" | default $pathBase }}
 
 <div id="adobe-dc-view" style="width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
