@@ -1,8 +1,8 @@
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20220830174745-56994f726e59 h1:ZuhMZOgu+vyDvp4ZCp7BNkqGfYy4vWEtHjFd3cIgers=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20220830174745-56994f726e59/go.mod h1:s40UgLsWfVyCLQ2F4F3dBcNfZOXcPGld7KxsKhZdzvM=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.1-0.20220830174745-56994f726e59 h1:uQ3ykEycRW56u8TmAEXnxoOtWb8Xb2wu+TMHAS9g/n4=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.1-0.20220830174745-56994f726e59/go.mod h1:X1mETJo6Lkv9tEgfU0UYFRiRInf0RbgW+s1RKXB4GMA=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v0.0.0-20220830174745-56994f726e59 h1:44rTRdgeg9zi4jG9AO4Y4sPTHzuQz3bD9X/46tYAEKs=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v0.0.0-20220830174745-56994f726e59/go.mod h1:kxZg+FKof+BAZ/PK7N+NNZJbEcJYN5PCxGrotRKEDSs=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.1-0.20220830174745-56994f726e59 h1:v+5xIX0iG8aYYMAxs901xAThfvbTh/WUyMJovgUfytI=
-github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.1-0.20220830174745-56994f726e59/go.mod h1:EfRfz/zhkliLPRWYdXRatho64juF3EFaJnciCi5YzwA=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20220902185804-1fe36f537464 h1:CMjL65RSf/0gN4BOGq2Sv4oZHcw0hvAWgAZsyu1Iji4=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20220902185804-1fe36f537464/go.mod h1:s40UgLsWfVyCLQ2F4F3dBcNfZOXcPGld7KxsKhZdzvM=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.1-0.20220902185804-1fe36f537464 h1:cDTVo3QQkCAKWF6gGKAODpHuM0Lqn0VGljz6Yf5tYns=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.1-0.20220902185804-1fe36f537464/go.mod h1:X1mETJo6Lkv9tEgfU0UYFRiRInf0RbgW+s1RKXB4GMA=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v0.0.0-20220902185804-1fe36f537464 h1:LKsYAUFhCWm3MsHbO5PPGr5SS7aQgAw7/YkPZ/t+lNQ=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v0.0.0-20220902185804-1fe36f537464/go.mod h1:kxZg+FKof+BAZ/PK7N+NNZJbEcJYN5PCxGrotRKEDSs=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.1-0.20220902185804-1fe36f537464 h1:7AoUo1UpjGhlncPyn0qTMSZ+uJ0Z+ZF7XPhi/aCMRng=
+github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.6.1-0.20220902185804-1fe36f537464/go.mod h1:EfRfz/zhkliLPRWYdXRatho64juF3EFaJnciCi5YzwA=
