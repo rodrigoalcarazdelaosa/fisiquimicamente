@@ -20,6 +20,7 @@ external_link: ""
 image:
   preview_only: true
 
+quizdown: true
 ---
 
 {{< quizdown >}}

@@ -44,9 +44,9 @@
 </script>
 {{ end }}
 
-<script src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/quizdown.js"></script>
-
-<script>  
+{{ if .Params.quizdown }}
+  <script src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/quizdown.js"></script>
+  <script>  
     let config = {
 	    startOnLoad: true,		 // detect and convert all divs with class quizdown
       shuffleAnswers: true,		 // shuffle answers for each question
@@ -58,7 +58,12 @@
       locale: null                 // language of the user interface (auto-detect per default)
     };
     quizdown.init(config);	 
-</script>
+  </script>
+{{ end }}
+
+{{ if .Params.threedmol }}
+  <script src="https://3Dmol.org/build/3Dmol-min.js" async></script>
+{{ end }}
 
 <!-- <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   new Crate({

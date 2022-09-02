@@ -19,6 +19,8 @@ categories:
 image:
   placement: 3
   caption: "https://onlinelibrary.wiley.com/doi/10.1002/adfm.200990081"
+
+threedmol: true  
 ---
 
 {{% callout thread %}}
@@ -55,8 +57,7 @@ Medir temperaturas en tamaños de unas pocas micras es cada vez más importante.
 [^3]: PIN: 5-amino-2,3-dihidroftalazina-1,4-diona.
 
 {{< spoiler text="Pincha aquí para **interactuar** con la **molécula** de **luminol** en **3D**" >}}
-<script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-cid='10638' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_cid="10638" %}}
 
 [**3Dmol.js**](https://3dmol.csb.pitt.edu):
 

@@ -30,9 +30,13 @@ links:
   url: formulacio-nomenclatura-organica-poster.pdf
 
 slides: formulacio-nomenclatura-quimica-organica
+
+threedmol: true
 ---
 
-<script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
+{{% callout note %}}
+Et recomanem fer una ullada a [aquest **projecte** de **Overleaf**](https://www.overleaf.com/read/jgvfsvdnfgcs), el qual alberga el **codi $\LaTeX$** per generar **imatges** de moltes **molècules orgàniques**, cortesia de {{% mention alba-lopez-valenzuela %}}.
+{{% /callout %}}
 
 {{% callout note %}}
 Les **representacions tridimensionals** són possibles gràcies a [**3Dmol.js**](https://3dmol.csb.pitt.edu):
@@ -52,7 +56,7 @@ Bioinformatics (2015) 31 (8): 1322–1324 https://doi.org/10.1093/bioinformatics
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/nomenclatura-sustitucion.svg" lightbox="false" width="100%" >}}
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquesta **molècula** en **3D**" >}}
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/sustitucion.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/sustitucion.sdf" %}}
 {{< /spoiler >}}
 
 | Element | Significat |
@@ -110,16 +114,17 @@ Hidrocarburs en els quals els **enllaços C---C** són tots **simples**. S'anome
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ##### Metà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/metano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/metano.sdf" %}}
 
 ##### Età
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/etano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/etano.sdf" %}}
 
 ##### Propà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/propano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/propano.sdf" %}}
 
 ##### Butà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/butano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/butano.sdf" %}}
 {{< /spoiler >}}
 
 En cas de ser **substituents**, canvien la **terminació** --à per ***--il***.
@@ -131,16 +136,16 @@ S'afegeix el **prefix *ciclo--*** al nom de l'hidrocarbur.
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ##### Ciclopropà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/ciclopropano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclopropano.sdf" %}}
 
 ##### Ciclobutà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/ciclobutano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclobutano.sdf" %}}
 
 ##### Ciclohexà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/ciclohexano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclohexano.sdf" %}}
 
 ##### Ciclodecà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/ciclodecano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclodecano.sdf" %}}
 {{< /spoiler >}}
 
 ### Alquens (C=C) i alquins (C&equiv;C)
@@ -150,13 +155,13 @@ La presència d'**insaturacions** ---**enllaços dobles** (**C=C**) i **triples*
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Buta-1,3-diè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/butadieno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/butadieno.sdf" %}}
 
 #### Pent-1-en-4-í
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/pentino.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/pentino.sdf" %}}
 
 #### Ciclohexa-1,3-diè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/ciclohexadieno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclohexadieno.sdf" %}}
 {{< /spoiler >}}
 
 En cas de ser **substituents**, acaben en ***--enil*** i ***--inil***, respectivament.
@@ -168,16 +173,16 @@ El **benzè**, **C<sub>6</sub>H<sub>6</sub>**, és l'hidrocarbur aromàtic de **
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ##### Benzè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/benceno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/benceno.sdf" %}}
 
 ##### Toluè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/tolueno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/tolueno.sdf" %}}
 
 ##### Etenilbenzè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/etenilbenceno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/etenilbenceno.sdf" %}}
 
 ##### 1,2,4,5-tetrametilbenzè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/dureno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/dureno.sdf" %}}
 {{< /spoiler >}}
 
 En cas de ser **substituent**, es denomina ***fenil***.
@@ -193,13 +198,13 @@ En cas de ser **substituent**, es denomina ***fenil***.
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ##### Naftalè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/naftaleno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/naftaleno.sdf" %}}
 
 ##### Antracè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/antraceno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/antraceno.sdf" %}}
 
 ##### Fenantrè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/fenantreno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/fenantreno.sdf" %}}
 {{< /spoiler >}}
 
 ## Elecció i numeració de la cadena principal
@@ -229,13 +234,13 @@ També coneguda com a nomenclatura ***radicofuncional***, és la **preferida** p
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ### Propanoat de metil
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/propanoato-metilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/propanoato-metilo.sdf" %}}
 
 ### Clorur d'acetil
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/cloruro-acetilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/cloruro-acetilo.sdf" %}}
 
 ### Bromur de benzoïl
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/bromuro-benzoilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/bromuro-benzoilo.sdf" %}}
 {{< /spoiler >}}
 
 ## Representació gràfica (ziga-zaga)
@@ -248,16 +253,16 @@ No poden ser mai el grup principal, per la qual cosa s'anomenen afegint el **pre
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ### 1,1,1,2-tetrafluoroetà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/tetrafluoroetano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/tetrafluoroetano.sdf" %}}
 
 ### 1,1-dicloroetè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/dicloroeteno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/dicloroeteno.sdf" %}}
 
 ### 1,2-dibromobenzè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/dibromobenceno.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/dibromobenceno.sdf" %}}
 
 ### Yodometà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/yodometano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/yodometano.sdf" %}}
 {{< /spoiler >}}
 
 ## Funcions que contenen oxigen (<span style="color: #b50000">O</span>)
@@ -268,13 +273,13 @@ Si són el **grup principal** s'afegeix el **sufix *--ol*** al nom de l'hidrocar
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Etanol
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/etanol.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/etanol.sdf" %}}
 
 #### Fenol
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/fenol.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/fenol.sdf" %}}
 
 #### Àcid 2-hidroxipropanoic
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acido-2-hidroxipropanoico.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acido-2-hidroxipropanoico.sdf" %}}
 {{< /spoiler >}}
 
 ### Aldehids (<span style="color: #b50000">---CHO</span>)
@@ -284,13 +289,13 @@ Si són el **grup principal** s'afegeix el **sufix *--al*** (o ***--carbaldehid*
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Formaldehid
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/formaldehido.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/formaldehido.sdf" %}}
 
 #### Benzaldehid
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/benzaldehido.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/benzaldehido.sdf" %}}
 
 #### Àcid 4-metil-3-formilpent-3-en-1-oic
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acido-formilpentoico.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acido-formilpentoico.sdf" %}}
 {{< /spoiler >}}
 
 ### Cetones (<span style="color: #b50000">=O</span>)
@@ -301,13 +306,13 @@ Si són el **grup principal** s'afegeix el **sufix *--ona*** al nom de l'hidroca
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Propan-2-ona
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acetona.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acetona.sdf" %}}
 
 #### 1-feniletan-1-ona
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acetofenona.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acetofenona.sdf" %}}
 
 #### 2-metil-3-oxo-butanal
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/butanal.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/butanal.sdf" %}}
 {{< /spoiler >}}
 
 ### Èters (<span style="color: #b50000">---OR</span>)
@@ -317,13 +322,13 @@ No poden ser mai el grup principal, per la qual cosa s'anomenen afegint el **pre
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Etoxietà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/etoxietano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/etoxietano.sdf" %}}
 
 #### Anisol
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/anisol.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/anisol.sdf" %}}
 
 #### Furà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/furano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/furano.sdf" %}}
 {{< /spoiler >}}
 
 ### Àcids carboxílics (<span style="color: #b50000">---COOH</span>)
@@ -334,13 +339,13 @@ Si són el **grup principal** s'anomenen començant per ***àcid*** i afegint el
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Àcid acètic
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acido-acetico.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acido-acetico.sdf" %}}
 
 #### Àcid benzoic
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acido-benzoico.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acido-benzoico.sdf" %}}
 
 #### Àcido 2-hidroxipropan-1,2,3-tricarboxílic
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acido-citrico.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acido-citrico.sdf" %}}
 {{< /spoiler >}}
 
 ### Èsters (<span style="color: #b50000">---COOR</span>)
@@ -350,13 +355,13 @@ Deriven d'àcids, en els quals almenys un grup hidroxi, ---OH, se substitueix pe
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Acetat d'etil
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acetato-etilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acetato-etilo.sdf" %}}
 
 #### Benzoat de metil
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/benzoato-metilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/benzoato-metilo.sdf" %}}
 
 #### Àcid 3-(acetiloxi)propanoic
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acido-acetiloxipropanoico.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acido-acetiloxipropanoico.sdf" %}}
 {{< /spoiler >}}
 
 ### Carboxilats (<span style="color: #b50000">---COO<sup>--</sup></span>)
@@ -372,13 +377,13 @@ S'utilitza la **nomenclatura** de **classe funcional**, començant per ***halur 
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Clorur d'acetil
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/cloruro-acetilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/cloruro-acetilo.sdf" %}}
 
 #### Bromur de benzoïl
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/bromuro-benzoilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/bromuro-benzoilo.sdf" %}}
 
 #### Àcid 4-clorocarbonil-3-hidroxi-2-metilpentanoic
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acido-metilpentanoico.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acido-metilpentanoico.sdf" %}}
 {{< /spoiler >}}
 
 ## Funcions que contenen nitrogen (<span style="color: #2a54a9">N</span>)
@@ -389,13 +394,13 @@ Si són el **grup principal** s'afegeix el **sufix *--amina*** al nom de l'hidro
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ##### Prop-1-en-1-amina
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/propenamina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/propenamina.sdf" %}}
 
 ##### Anilina
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/anilina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/anilina.sdf" %}}
 
 ##### 2-(dimetilamino)etanol
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/dimetilaminoetanol.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/dimetilaminoetanol.sdf" %}}
 {{< /spoiler >}}
 
 #### Aminas secundaries i terciaries
@@ -405,13 +410,13 @@ Quan es reemplacen hidrògens del grup ---NH<sub>2</sub> per substituents comple
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ##### *N*-metilmetanamina
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/N-metilmetanamina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/N-metilmetanamina.sdf" %}}
 
 ##### *N*-fenilanilina
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/N-fenilanilina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/N-fenilanilina.sdf" %}}
 
 ##### *N*,*N*-dimetilmetanamina
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/N-N-dimetilmetanamina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/N-N-dimetilmetanamina.sdf" %}}
 {{< /spoiler >}}
 
 ### Amides (<span style="color: #2a54a9">---CONH<sub>2</sub></span>)
@@ -421,13 +426,13 @@ Si són el **grup principal** s'afegeix el **sufix *--amida*** (o ***--carboxami
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 ##### Acetamida
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/acetamida.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/acetamida.sdf" %}}
 
 ##### Benzamida
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/benzamida.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/benzamida.sdf" %}}
 
 ##### Asparagina
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/asparagina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/asparagina.sdf" %}}
 {{< /spoiler >}}
 
 #### Amides secundàries i terciàries
@@ -440,13 +445,13 @@ Si són el **grup principal** s'afegeix el **sufix *--nitril*** (o ***--carbonit
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### Butannitril
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/butanonitrilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/butanonitrilo.sdf" %}}
 
 #### Benzonitril
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/benzonitrilo.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/benzonitrilo.sdf" %}}
 
 #### 2-cianoprop-2-enoat de metil
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/cianoacrilato.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/cianoacrilato.sdf" %}}
 {{< /spoiler >}}
 
 ### Nitrocompostos (<span style="color: #2a54a9">---NO<sub>2</sub></span>)
@@ -456,11 +461,11 @@ No poden ser mai el grup principal. S'anomenen afegint el **prefix *nitro--***.
 
 {{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en **3D**" >}}
 #### 2-nitropropà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/nitropropano.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/nitropropano.sdf" %}}
 
 #### 2,4,6-trinitrotoluè
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/TNT.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/TNT.sdf" %}}
 
 #### 1,2,3-trinitroxipropà
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='/media/formulacion-nomenclatura-quimica-organica/nitroglicerina.sdf' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/nitroglicerina.sdf" %}}
 {{< /spoiler >}}

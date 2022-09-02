@@ -28,9 +28,8 @@ categories:
 image:
   placement: 3
   caption: "https://iupac.org/what-we-do/top-ten/"
+threedmol: true
 ---
-
-<script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
 
 {{% callout note %}}
 Esta entrada es una **traducción/adaptación** del [magnífico **artículo** de **Fernando Gomollón-Bel** publicado en **Chemistry International**](https://www.degruyter.com/document/doi/10.1515/ci-2021-0404/html).
@@ -141,13 +140,13 @@ La [**luminiscencia**](https://es.wikipedia.org/wiki/Luminiscencia) siempre ha f
 [^5]: PIN: 5-amino-2,3-dihidroftalazina-1,4-diona.
 
 {{< spoiler text="Pincha aquí para **interactuar** con la **molécula** de **luminol** en **3D**" >}}
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-cid='10638' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_cid="10638" %}}
 {{< /spoiler >}}
 
 Sin embargo, los científicos se esfuerzan por seguir mejorando las moléculas emisoras de luz para su aplicación en diodos eficientes, señalización de seguridad, estudios biológicos, etc. Recientemente, los investigadores han descubierto sondas quimioluminiscentes de alta eficacia con gran potencial para aplicaciones en biología, biotecnología y medicina. Basadas en [**dioxetanos**](https://es.wikipedia.org/wiki/1,2-dioxetano)&mdash;compuestos heterocíclicos orgánicos con fórmula molecular C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>&mdash;, estas moléculas brillan notablemente en condiciones fisiológicas, a veces miles de veces más que las soluciones anteriores. Y lo que es más importante, los dioxetanos cumplen perfectamente su función en el agua, a diferencia de sus competidores, que necesitan disolventes orgánicos.
 
 {{< spoiler text="Pincha aquí para **interactuar** con la **molécula** del **1,2-dioxoetano** en **3D**" >}}
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-cid='122029' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_cid="122029" %}}
 {{< /spoiler >}}
 
 Esta tecnología emergente se encuentra todavía en una fase inicial, pero ya han surgido muchas aplicaciones interesantes. Entre otras, las sondas de dioxetano resultan muy prometedoras para **detectar** ciertos tipos de **tumores**, e incluso ayudan a diferenciar entre subtipos de cáncer. También permiten la **detección ultrasensible de bacterias patógenas** como la [*Salmonella*](https://es.wikipedia.org/wiki/Salmonella) y la [*Listeria*](https://es.wikipedia.org/wiki/Listeria), vinculadas a graves enfermedades alimentarias que aún hoy causan graves problemas.
@@ -175,7 +174,7 @@ Sin embargo, todo esto tiene un alto coste: la producción de amoniaco emite má
 Para lograrlo, prevén dos estrategias complementarias. Por un lado, buscan inspiración en la naturaleza&mdash;en particular, en las [**nitrogenasas**](https://es.wikipedia.org/wiki/Nitrogenasa) de las [**bacterias**](https://es.wikipedia.org/wiki/Bacteria) y [**cianobacterias**](https://es.wikipedia.org/wiki/Cyanobacteria), que reducen el dinitrógeno gracias a un [**cofactor de hierro y molibdeno**](https://es.wikipedia.org/wiki/Nitrogenasa#Cofactor_FeMo). Los estudios recientes no hacen más que mostrar la sabiduría de la evolución: pocos metales superan el rendimiento de los dos que están presentes de forma natural en las enzimas. Sin embargo, también favorecen la evolución del hidrógeno, una reacción competidora no deseada, y sólo el diseño racional de los [**catalizadores**](https://es.wikipedia.org/wiki/Catálisis) mejorará la selectividad del proceso hacia la reducción del nitrógeno.
 
 {{< spoiler text="Pincha aquí para **interactuar** con la **molécula** de **nitrogenasa** en **3D**" >}}
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='nitrogenasa.pdb' data-backgroundalpha='0.0' data-style='cartoon:color=spectrum' data-spin='axis:y'></div>
+{{% 3Dmol data_href="nitrogenasa.pdb" data_style="cartoon:color=spectrum" %}}
 {{< /spoiler >}}
 
 Por otro lado, los químicos aprovechan el poder de la [**electricidad**](https://es.wikipedia.org/wiki/Electrólisis) para romper el triple enlace nitrógeno-nitrógeno y, al mismo tiempo, cosechar átomos de hidrógeno del agua. Si la energía utilizada procede de [fuentes renovables](https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable)&mdash;eólica, hidroeléctrica, solar&mdash; el proceso se vuelve doblemente sostenible, ya que evita depender del hidrógeno obtenido de la reforma de los combustibles fósiles. El principal reto es reducir el potencial eléctrico necesario, maximizando al mismo tiempo la actividad y la selectividad. Hasta ahora, las soluciones actuales están lejos de superar el atractivo de Haber-Bosch, por lo que varias empresas y organismos de financiación están apoyando la investigación para que la producción de hidrógeno sea más ecológica.

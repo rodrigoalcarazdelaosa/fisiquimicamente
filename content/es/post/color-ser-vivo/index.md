@@ -19,9 +19,9 @@ categories:
 image:
   placement: 3
   caption: "https://tenor.com/view/optical-illusion-colors-colour-color-gif-5338343"
----
 
-<script src="https://3Dmol.csb.pitt.edu/build/3Dmol-min.js"></script>
+threedmol: true
+---
 
 {{% callout thread %}}
 Entrada basada en los siguientes hilos de Twitter:
@@ -62,7 +62,7 @@ Habréis oído también que nuestra piel se oscurece cuando tomamos el sol debid
 [^1]: Existen cinco tipos de melanina, aunque los dos más comunes son la **eumelanina** (marrones oscuros y negros) y la **feomelanina** (desde amarillos hasta rojos), responsable en gran medida del color del pelo rojo.
 
 <figure>
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-cid='6325610' data-backgroundalpha='0.0' data-style='stick;sphere:radius~0.5' data-spin='axis:y'></div>
+{{% 3Dmol data_cid="6325610" %}}
 <figcaption>Estructura tridimensional de la molécula de <strong>melanina</strong>, cuya fórmula química es C<sub>18</sub>H<sub>10</sub>N<sub>2</sub>O<sub>4</sub>.</figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ Si os interesa el tema de los [**cristales fotónicos**](https://es.wikipedia.or
 Los dos tipos de color que hemos visto en animales se basan en la [reflexión](https://es.wikipedia.org/wiki/Reflexión_(f%C3%ADsica)) de ciertas longitudes de onda del sol dependiendo de la química (pigmentos) o física (nanoestructura) en su piel. Sin embargo, hay animales que podemos ver una vez el sol se pone. ¿Cómo lo hacen? Son los animales [**luminiscentes**](https://es.wikipedia.org/wiki/Luminiscencia). Aquí podemos distinguir dos tipos: aquellos que emiten luz cuando son expuestos a cierto agente externo, como luz de alta energía (UV); y aquellos donde es el propio organismo el que produce la luz mediante reacciones bioquímicas, donde suele intervenir una enzima llamada [**luciferasa**](https://es.wikipedia.org/wiki/Luciferasa). En este último caso, se les añade el prefijo *bio*, es decir, son animales [**bioluminiscentes**](https://es.wikipedia.org/wiki/Bioluminiscencia).
 
 <figure>
-<div style="height: 300px; width: 100%; position: relative;" class='viewer_3Dmoljs' data-href='luciferasa.pdb' data-backgroundalpha='0.0' data-style='cartoon:color=spectrum' data-spin='axis:y'></div>
+{{% 3Dmol data_href="luciferasa.pdb" data_style="cartoon:color=spectrum" %}}
 <figcaption>Estructura tridimensional de la <strong>luciferasa</strong>.</figcaption>
 </figure>
 

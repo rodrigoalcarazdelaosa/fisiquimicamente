@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    sodipodi:docname="zigzag.svg"
    id="svg522"
    version="1.2"
    viewBox="0 0 787.184 217.29491"
    height="217.29491pt"
-   width="787.184pt">
+   width="787.184pt"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata526">
     <rdf:RDF>
@@ -30,11 +30,11 @@
   <sodipodi:namedview
      inkscape:current-layer="svg522"
      inkscape:window-maximized="0"
-     inkscape:window-y="0"
+     inkscape:window-y="59"
      inkscape:window-x="0"
-     inkscape:cy="144.86327"
-     inkscape:cx="340.44272"
-     inkscape:zoom="1.0442285"
+     inkscape:cy="211.71906"
+     inkscape:cx="495.53705"
+     inkscape:zoom="0.87379944"
      showgrid="false"
      id="namedview524"
      inkscape:window-height="900"
@@ -47,7 +47,11 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt" />
   <defs
      id="defs117">
     <g
@@ -329,15 +333,6 @@
      width="787.18402"
      y="0"
      x="0" />
-  <g
-     clip-path="url(#clip2)"
-     clip-rule="nonzero"
-     id="g125">
-    <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M -91.015625,2.84375 H 920.10937 V -79.410156 H -91.015625 Z m 0,0"
-       id="path123" />
-  </g>
   <path
      id="path127"
      d="M -91.015625,191.82812 H 920.10937 V -1.613281 H -91.015625 Z m 0,0"

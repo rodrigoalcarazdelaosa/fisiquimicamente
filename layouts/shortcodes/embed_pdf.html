@@ -1,4 +1,4 @@
-{{ $style := .Get "style" | default "width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" }}
+{{ $style := .Get "style" | default "width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" | safeCSS }}
 {{ $clientID := site.Params.pdf_embed_api_key }}
 {{ $url := .Get "url" }}
 {{ $pathBase := path.Base $url }}
