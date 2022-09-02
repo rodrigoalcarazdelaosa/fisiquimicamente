@@ -319,6 +319,10 @@ Es mostren també els **nombres quàntics** de l'**últim electró**:
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/regla-hund-cat.svg" lightbox="false" width="100%" >}}
 
+{{% callout note %}}
+La **configuració electrònica** del **nivell fonamental** compleix que 1) **minimitza** l'**energia** total dels **electrons**, (2) **obeeix** el **principi** d'**exclusió** de **Pauli**, (3) **obeeix** la **regla** d'**Hund** de la **màxima multiplicitat** i (4) **considera** la [**interacció** d'**intercanvi**](https://es.wikipedia.org/wiki/Interacción_de_canje).
+{{% /callout %}}
+
 ## Partícules subatòmiques
 
 Després dels descobriments de **Thomson**, **Rutherford** i **Chadwick** a principis del segle XX, semblava clar que l'àtomo estava format per **protons** i **neutrons** en el seu nucli i una escorça on estaven els **electrons**.

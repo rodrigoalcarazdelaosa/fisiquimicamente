@@ -325,6 +325,10 @@ Se muestran también los **números cuánticos** del **último electrón**:
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/regla-hund.svg" lightbox="false" width="100%" >}}
 
+{{% callout note %}}
+La **configuración electrónica** del **nivel fundamental** cumple que 1) **minimiza** la **energía** total de los **electrones**, (2) **obedece** el **principio** de **exclusión** de **Pauli**, (3) **obedece** la **regla** de **Hund** de la **máxima multiplicidad** y (4) **considera** la [**interacción** de **canje**](https://es.wikipedia.org/wiki/Interacción_de_canje).
+{{% /callout %}}
+
 ## Partículas subatómicas
 
 Tras los descubrimientos de **Thomson**, **Rutherford** y **Chadwick** a principios del siglo XX, parecía claro que el átomo estaba formado por **protones** y **neutrones** en su núcleo y una corteza donde estaban los **electrones**.
