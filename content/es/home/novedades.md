@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Ultrasonidos"
-      url: 'blog/2022/08/11/ultrasonidos/'
+      text: "Perfil de salida LOMLOE"
+      url: 'blog/2022/09/03/perfil-de-salida-lomloe/'
 ---
