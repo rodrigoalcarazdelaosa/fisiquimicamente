@@ -27,6 +27,10 @@ A continuación se presentan [**diagramas** de **Sankey**](https://es.wikipedia.
 
 [^1]: Por separado, en caso de 2.º Bach.
 
+{{% callout note %}}
+En los **diagramas** de **Sankey** que puedes encontrar más abajo, la **anchura** de las **líneas** es **proporcional** al **número** de **conexiones**. Pasando el ratón por encima de cada conexión aparece la **descripción** de cada competencia específica y los descriptores operativos de las competencias clave con los que se asocia.
+{{% /callout %}}
+
 ## ESO
 
 <script type="text/javascript">
