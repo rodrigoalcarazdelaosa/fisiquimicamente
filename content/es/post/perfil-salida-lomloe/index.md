@@ -1,7 +1,7 @@
 ---
 title: Perfil de salida LOMLOE
-subtitle: Conexiones entre las competencias específicas de Física y Química y los descriptores del perfil de salida
-summary: Conexiones entre las competencias específicas de Física y Química y los descriptores del perfil de salida.
+subtitle: Conexiones entre las competencias específicas de Física y Química y los descriptores del perfil de salida LOMLOE
+summary: Conexiones entre las competencias específicas de Física y Química y los descriptores del perfil de salida LOMLOE.
 breadcrumbs: ["blog"]
 date: "2022-09-03T00:00:00Z"
 authors:
@@ -82,7 +82,7 @@ data.addRows([
 // Sets chart options.
 //var colors = ['#d1bbd7', '#ae76a3', '#882e72', '#1965b0', '#5289c7', '#7bafde', '#4eb265', '#90c987', '#cae0ab', '#f7f056', '#f6c141', '#f1932d', '#e8601c', '#dc050c'];
 
-var colors = ['#4477aa','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#EE6677','#228833', '#CCBB44', '#66CCEE', '#AA3377'];
+var colors = ['#77AADD','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#EE8866', '#EEDD88', '#FFAABB', '#99DDFF', '#44BB99'];
 
 var options = {
   sankey: {
@@ -94,8 +94,8 @@ var options = {
       colors: colors
     },
     link: {
-      colorMode: 'gradient',
-      colors: colors
+      colorMode: 'source',
+      //colors: colors
     },
     iterations: 0
   },
@@ -162,7 +162,7 @@ data.addRows([
 // Sets chart options.
 //var colors = ['#d1bbd7', '#ae76a3', '#882e72', '#1965b0', '#5289c7', '#7bafde', '#4eb265', '#90c987', '#cae0ab', '#f7f056', '#f6c141', '#f1932d', '#e8601c', '#dc050c'];
 
-var colors = ['#4477aa','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#EE6677','#228833', '#CCBB44', '#66CCEE', '#AA3377'];
+var colors = ['#77AADD','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#EE8866', '#EEDD88', '#FFAABB', '#99DDFF', '#44BB99'];
 
 var options = {
   sankey: {
@@ -174,8 +174,8 @@ var options = {
       colors: colors
     },
     link: {
-      colorMode: 'gradient',
-      colors: colors
+      colorMode: 'source',
+      //colors: colors
     },
     iterations: 0
   },
@@ -241,7 +241,7 @@ data.addRows([
 // Sets chart options.
 //var colors = ['#d1bbd7', '#ae76a3', '#882e72', '#1965b0', '#5289c7', '#7bafde', '#4eb265', '#90c987', '#cae0ab', '#f7f056', '#f6c141', '#f1932d', '#e8601c', '#dc050c'];
 
-var colors = ['#4477aa','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#EE6677','#228833', '#CCBB44', '#66CCEE', '#AA3377'];
+var colors = ['#77AADD','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#EE8866', '#EEDD88', '#FFAABB', '#99DDFF', '#44BB99'];
 
 var options = {
   sankey: {
@@ -253,8 +253,8 @@ var options = {
       colors: colors
     },
     link: {
-      colorMode: 'gradient',
-      colors: colors
+      colorMode: 'source',
+      //colors: colors
     },
     iterations: 0
   },
@@ -320,7 +320,7 @@ data.addRows([
 // Sets chart options.
 //var colors = ['#d1bbd7', '#ae76a3', '#882e72', '#1965b0', '#5289c7', '#7bafde', '#4eb265', '#90c987', '#cae0ab', '#f7f056', '#f6c141', '#f1932d', '#e8601c', '#dc050c'];
 
-var colors = ['#4477aa','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#bbbbbb','#EE6677','#228833', '#CCBB44', '#66CCEE', '#AA3377'];
+var colors = ['#77AADD','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#2E3440','#EE8866', '#EEDD88', '#FFAABB', '#99DDFF', '#44BB99'];
 
 var options = {
   sankey: {
@@ -332,8 +332,8 @@ var options = {
       colors: colors
     },
     link: {
-      colorMode: 'gradient',
-      colors: colors
+      colorMode: 'source',
+      //colors: colors
     },
     iterations: 0
   },
