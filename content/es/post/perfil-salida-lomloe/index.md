@@ -12,6 +12,7 @@ tags:
 - competencias-clave
 - competencias-específicas
 - perfil-salida
+- sankey
 categories:
 - Física
 - Química
@@ -19,16 +20,33 @@ image:
   preview_only: true  
   placement: 3
   caption:
+links:
+- icon_pack: fas
+  icon: file-download
+  name: ESO
+  url: perfil-salida-LOMLOE-ESO.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Bach
+  url: perfil-salida-LOMLOE-Bach.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Física 2.º Bach
+  url: perfil-salida-LOMLOE-Fisica.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Química 2.º Bach
+  url: perfil-salida-LOMLOE-Quimica.pdf      
 ---
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
-A continuación se presentan [**diagramas** de **Sankey**](https://es.wikipedia.org/wiki/Diagrama_de_Sankey) mostrando las **conexiones** entre las **competencias específicas** de la materia de **Física y Química**[^1] y los **descriptores operativos** de las **competencias clave** en la enseñanza básica y bachillerato, tal y como se recoge en el [R.D. 217/2022, de 29 de marzo (ESO)](https://www.boe.es/eli/es/rd/2022/03/29/217/con) y el [R.D. 243/2022, de 5 de abril (Bach)](https://www.boe.es/eli/es/rd/2022/04/05/243/con), respectivamente.
+A continuación se presentan [**diagramas** de **Sankey**](https://es.wikipedia.org/wiki/Diagrama_de_Sankey) interactivos mostrando las **conexiones** entre las **competencias específicas** de la materia de **Física y Química**[^1] y los **descriptores operativos** de las **competencias clave** en la enseñanza básica y bachillerato, tal y como se recoge en el [R.D. 217/2022, de 29 de marzo (ESO)](https://www.boe.es/eli/es/rd/2022/03/29/217/con) y el [R.D. 243/2022, de 5 de abril (Bach)](https://www.boe.es/eli/es/rd/2022/04/05/243/con), respectivamente.
 
 [^1]: Por separado, en caso de 2.º Bach.
 
 {{% callout note %}}
-En los **diagramas** de **Sankey** que puedes encontrar más abajo, la **anchura** de las **líneas** es **proporcional** al **número** de **descriptores** asociados a cada una de las competencias específicas. Pasando el ratón por encima de cada línea aparece la **descripción** de cada competencia específica y los descriptores operativos de las competencias clave con los que se asocia.
+En los **diagramas** de **Sankey** que puedes encontrar más abajo (o descargar en PDF pinchando en los botones de arriba), la **anchura** de las **líneas** es **proporcional** al **número** de **descriptores** asociados a cada una de las competencias específicas. Pasando el ratón por encima de cada línea aparece la **descripción** de cada competencia específica y los descriptores operativos de las competencias clave con los que se asocia.
 {{% /callout %}}
 
 ## ESO
