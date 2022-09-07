@@ -27,7 +27,7 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Póster Nuevo SI
-  url: https://www.cem.es/sites/default/files/2021-01/Poster%20Nuevo-SI.pdf
+  url: poster-nuevo-SI.pdf
 ---
 
 {{% callout note %}}
@@ -39,6 +39,8 @@ Si quieres ampliar la información mostrada aquí, [@fqsaja1](https://twitter.co
 {{% /callout %}}
 
 El **Sistema Internacional** de **Unidades** (SI) sufrió una [revisión en 2018](https://www.cem.es/sites/default/files/2021-01/cem_revisionsi_edem_18mayo2018.pdf), con la **redefinición** de cuatro de sus siete _unidades de base_, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
+
+{{< youtube nqxHnu4LJ6k >}}
 
 Esta actualización se realizó para conseguir definir todas las unidades **en función de constantes físicas universales**, algo que ya se había conseguido con anterioridad para el segundo (1967) y el metro (1983). La siguiente tabla resume la relación entre cada unidad y la constante universal en la que se basa:
 
