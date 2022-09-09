@@ -2,7 +2,7 @@
   command = "hugo --gc --minify -b $URL"
 
 [build.environment]
-  GO_VERSION = "1.19"
+  GO_VERSION = "1.19.1"
   HUGO_VERSION = "0.101.0"
   HUGO_ENABLEGITINFO = "true"
 
