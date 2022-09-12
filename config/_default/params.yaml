@@ -85,7 +85,7 @@ features:
     commento:
       url: ''
   search:
-    provider: docsearch
+    provider: wowchemy
     docsearch:
       app_id: ''
       api_key: ''
