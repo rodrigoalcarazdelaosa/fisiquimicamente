@@ -244,7 +244,7 @@
 
       {{/* Override: hide search icon if provider is Docsearch so we only show Docsearch once in the docs sidebar. */}}
       {{ $show_search := site.Params.header.navbar.show_search | default true }}
-      {{ if and site.Params.features.search.provider $show_search }}
+      {{ if and site.Params.features.search.provider $show_search | and (ne (lower site.Params.features.search.provider) "docsearch") }}
       <li class="nav-item">
         <a class="nav-link js-search" href="#" aria-label="{{ i18n "search" }}"><i class="fas fa-search" aria-hidden="true" data-toggle="tooltip" title aria-label="search" data-original-title="{{ i18n "search" }}"></i></a>
       </li>
