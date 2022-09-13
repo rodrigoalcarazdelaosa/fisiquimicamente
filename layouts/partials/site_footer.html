@@ -30,140 +30,28 @@
 
   {{ partial "functions/get_hook" (dict "hook" "footer-start" "context" .) }}
 
-  {{ if .IsTranslated | and site.Params.footer.show_translations }}
-     <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
-       <div class="p-2 font-weight-bold">🌐 {{ i18n "languages" }}:</div>
-       <div class="p-2">{{ index site.Data.i18n.languages .Lang }}</div>
-       {{ range .Translations }}
-         <div class="p-2"><a href="{{ .Permalink }}">{{ index site.Data.i18n.languages .Lang }}</a></div>
-       {{ end }}      
-     </div>
-     <p class="powered-by">
-      {{ if eq .Site.Language.Lang "es" }}
-      (Versión en catalán traducida por <a href="https://fisiquimicamente.com/equipo/oscar-colomar/">Òscar Colomar</a> y <a href="https://fisiquimicamente.com/equipo/eduard-cremades/">Eduard Cremades</a>)
-      {{ else if eq .Site.Language.Lang "en" }}
-      (Catalan version translated by <a href="https://physichemically.com/team/oscar-colomar/">Òscar Colomar</a> and <a href="https://physichemically.com/team/eduard-cremades/">Eduard Cremades</a>)
-      {{ else if eq .Site.Language.Lang "ca" }}
-      (Versió en català traduïda per <a href="https://fisiquimicament.com/equip/oscar-colomar/">Òscar Colomar</a> i <a href="https://fisiquimicament.com/equip/eduard-cremades/">Eduard Cremades</a>)
+  {{/* Load footer widget */}}
+  {{ $footer_section_name := site.Params.footer.widget | default "minimal" }}
+  {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
+  {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+    {{ errorf "Check your `params.yaml`. Cannot find footer widget at `layouts/partials/%s`" $footer_section_path }}
+  {{ end }}
+  {{ partial $footer_section_path . }}
+
+  {{/*  <p class="powered-by">
+    {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
+    {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
+    {{ if not (and $is_sponsor $hide_published_with_footer) }}
+      {{ $default := "Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators." }}
+      {{ $i18n_published_with := i18n "published_with" | default $default }}
+      {{ if not (findRE "{wowchemy}" $i18n_published_with) }}
+        {{ warnf "Please attribute Wowchemy using `{wowchemy}` in the `published_with` text." }}
+        {{ $i18n_published_with = $default }}
       {{ end }}
-     </p>
-  {{ end }}
-
-  {{ if or (site.GetPage "/terms.md") (site.GetPage "/privacy.md") }}
-  <p class="powered-by">
-    {{ with site.GetPage "/privacy.md" }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+      {{ $i18n_published_with = replace $i18n_published_with "{wowchemy}" "<a href=\"https://wowchemy.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\">Wowchemy</a>" | safeHTML }}
+      {{ $i18n_published_with = replace $i18n_published_with "{repo_link}" "<a href=\"https://github.com/wowchemy/wowchemy-hugo-themes\" target=\"_blank\" rel=\"noopener\">" | safeHTML }}
+      {{ $i18n_published_with = replace $i18n_published_with "{/repo_link}" "</a>" | safeHTML }}
+      {{ $i18n_published_with | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
     {{ end }}
-    {{ with site.GetPage "/terms.md" }}
-      {{ if site.GetPage "/privacy.md" }} &middot; {{ end }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
-  </p>
-  {{ end }}
-
-  {{/* Display any social links that the superuser chose to display in the footer. */}}
-  {{ $display_icons := false }}
-  {{ range where (where (where site.Pages "Section" "authors") ".Params.superuser" true) ".Params.social" "!=" nil }}
-    {{ range where .Params.social ".display.footer" true }}
-      {{ if not $display_icons }}
-        <div class="d-flex justify-content-center">
-          <ul class="network-icon" aria-hidden="true">
-      {{ end }}
-      {{ $display_icons = true }}
-      {{ $social_link := partial "functions/get_social_link" . }}
-      <li>
-        <a href="{{ $social_link.link | safeURL }}"{{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" title="{{.}}"{{ end }} {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.aria_label }}">
-          <i class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}" aria-hidden="true"></i>
-        </a>
-      </li>
-    {{ end }}
-  {{ end }}
-  {{ if $display_icons }}
-      </ul>
-    </div>
-  {{ end }}  
-
-  {{ with site.Params.footer.text }}
-  <p class="powered-by">
-    {{ . | markdownify | emojify }}
-  </p>
-  {{ end }}
-  
-  {{/* Display copyright license. */}}
-  {{ partial "site_footer_license" . }}
-
-    {{ with site.GetPage "licencia.md" }}
-    <p class="powered-by">
-      {{ printf "<a href=\"%s\">%s <br> %s </a>" .RelPermalink .Title .LinkTitle  | safeHTML }}<br>
-    </p>
-    {{ end }}
-
-  <p class="powered-by">
-	  {{ if eq .Site.Language.Lang "es" }}
-    Publicado con
-	<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.svg"></a> —
-	    el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
-	    de <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg"> código abierto</a> para <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg"></a>
-{{ else if eq .Site.Language.Lang "en" }}
-    Published with
-	<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.svg"></a>  —
-	    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
-        <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg"> open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg"></a>
-  {{ else if eq .Site.Language.Lang "ca" }}
-  Publicat amb
-	<a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.svg"></a> —
-  el constructor de llocs web gratuït i <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
-	    de <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg"> codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg"></a>
-{{ end }}
-  </p>
-  
-  <p class="powered-by">
-    {{ if eq .Site.Language.Lang "es" }}
-    Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><i class='fab fa-github mr-1'></i>GitHub</a><span class="middot-divider"></span>Servido por <a href="https://app.netlify.com/sites/fisiquimicamente/deploys" rel="nofollow"><img draggable="false" class="icon" src="https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status" alt="Netlify Status" data-canonical-src="https://api.netlify.com/api/v1/badges/084c644c-1539-4d00-93bc-dc75f576de30/deploy-status"></a>
-{{ else if eq .Site.Language.Lang "en" }}
-    Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><i class='fab fa-github mr-1'></i>GitHub</a><span class="middot-divider"></span>Served by <a href="https://app.netlify.com/sites/physichemically/deploys" rel="nofollow"><img draggable="false" class="icon" src="https://api.netlify.com/api/v1/badges/ae1fb0d7-cd8e-4f18-bbe1-d6a89b38c0af/deploy-status" alt="Netlify Status" data-canonical-src="https://api.netlify.com/api/v1/badges/ae1fb0d7-cd8e-4f18-bbe1-d6a89b38c0af/deploy-status"></a>
-{{ else if eq .Site.Language.Lang "ca" }}
-Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><i class='fab fa-github mr-1'></i>GitHub</a><span class="middot-divider"></span>Servit per <a href="https://app.netlify.com/sites/fisiquimicament/deploys" rel="nofollow"><img draggable="false" class="icon" src="https://api.netlify.com/api/v1/badges/db0529fe-34b6-40d0-b8cf-9ff3ac279f29/deploy-status" alt="Netlify Status" data-canonical-src="https://api.netlify.com/api/v1/badges/db0529fe-34b6-40d0-b8cf-9ff3ac279f29/deploy-status"></a>
-{{ end }}
-
-</p>
-
-<!-- Menú horizontal -->
-
-<ul id="menu-horizontal" class="site-footer powered-by">
-{{ if eq .Site.Language.Lang "es" }}
-	<li><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
-	<li><a href="/tutoriales/">🤝 Tutoriales</a></li>
-	<li><a href="/enlaces-interes/">🔗 Enlaces de interés</a></li>
-	<li><a href="/blog">✍️ Blog</a></li>
-	<li><a href="/equipo/">👥 Equipo</a></li>
-	<li><a href="/#contacto">📬 Contacto</a></li>
-{{ else if eq .Site.Language.Lang "en" }}
-	<li><a href="/physics-chemistry-notes/">📚 Notes</a></li>
-	<li><a href="/tutorials/">🤝 Tutorials</a></li>
-	<li><a href="/online-resources/">🔗 Online Resources</a></li>
-	<li><a href="/blog">✍️ Blog</a></li>
-	<li><a href="/team/">👥 Team</a></li>
-	<li><a href="/#contact">📬 Contact</a></li>
-{{ else if eq .Site.Language.Lang "ca" }}
-	<li><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
-	<li><a href="/tutorials/">🤝 Tutorials</a></li>
-	<li><a href="/recursos-online/">🔗 Recursos online</a></li>
-	<li><a href="/blog">✍️ Blog</a></li>
-	<li><a href="/equip/">👥 Equip</a></li>
-	<li><a href="/#contacte">📬 Contacte</a></li>  
-{{ end }}
-</ul>
-
+  </p>  */}}
 </footer>
-
-<!-- SiteKit -->
-<!-- <script>
-  (function(d, id) {
-    if (d.getElementById(id)) return;
-    var sc, node = d.getElementsByTagName('script')[0];
-    sc = d.createElement('script'); sc.id = id;
-    sc.src = 'https://sdk.getsitekit.com/static/js/app.js#apiKey=48d0e50fb657c8e66f9a7453904cd0c2';
-    node.parentNode.insertBefore(sc, node);
-  }(document, 'sitekit-sdk'));
-</script> -->

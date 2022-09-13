@@ -43,8 +43,9 @@ header:
 # Site footer
 
 footer:
+  widget: custom
   show_translations: true
-  text: '&copy; 2020&ndash;2022 Rodrigo Alcaraz de la Osa'
+  text: '&copy; 2020&ndash;{year} Rodrigo Alcaraz de la Osa'
   copyright:
     notice: ''
     license:
