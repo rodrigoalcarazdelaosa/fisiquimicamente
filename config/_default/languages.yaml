@@ -20,8 +20,7 @@ en:
     marketing:
       seo:
         org_name: PhysiChemically
-        description: 'Physics and Chemistry Resources, Tutorials and Current Science.'
-    pdf_embed_api_key: 39dd32af74e34012833655746f111947
+        description: 'Physics and Chemistry Resources, Tutorials and Current Science.'    
         
 # Catalán
 ca:
@@ -33,7 +32,6 @@ ca:
     marketing:
       seo:
         org_name: FisiQuímicament
-        description: 'Recursos de Física i Química, tutorials i ciència d''actualitat.'
-    pdf_embed_api_key: 04da14cf3537449fb79550f281d2feb4
+        description: 'Recursos de Física i Química, tutorials i ciència d''actualitat.'    
 
 
