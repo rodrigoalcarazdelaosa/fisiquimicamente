@@ -137,5 +137,5 @@ Los **enlaces** de **hidrógeno** son **responsables** de:
 ## Actividad de repaso/síntesis
 
 {{% callout note %}}
-Estupenda y divertida [actividad de la mano del gran Miguel Quiroga](https://www.miguelquiroga.es/la-materia/quién-es-quién) para repasar el **enlace químico**.
+Estupenda y divertida [actividad de la mano del gran Miguel Quiroga](https://sites.google.com/view/eldelafisicaylaquimica/la-materia/quién-es-quién) para repasar el **enlace químico**.
 {{% /callout %}}
