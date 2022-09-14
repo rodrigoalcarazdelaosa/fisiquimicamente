@@ -169,22 +169,22 @@
 {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
 {{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied") }}
 {{ $js_params := dict "hugoEnvironment" hugo.Environment "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) "i18n" $i18n }}
-{{ $js_academic := resources.Get "js/wowchemy.js" | js.Build (dict "targetPath" (printf "%s/js/wow-core.js" .Lang ) "params" $js_params) }}
+{{ $js_academic := resources.Get "js/wowchemy.js" | js.Build (dict "params" $js_params) }}
 {{ $js_bundle := slice $js_academic }}
 {{ if eq $search_provider "wowchemy" }}
-  {{ $js_academic_search := resources.Get "js/wowchemy-search.js" | js.Build (dict "targetPath" (printf "%s/js/wow-search-built.js" .Lang) "params" $js_search_params) }}
+  {{ $js_academic_search := resources.Get "js/wowchemy-search.js" | js.Build (dict "params" $js_search_params) }}
   {{ $js_bundle = $js_bundle | append $js_academic_search }}
 {{ end }}
 {{ range site.Params.plugins_js }}
   {{ $js_bundle = $js_bundle | append (resources.Get (printf "js/%s.js" .)) }}
 {{ end }}
-{{ $js_bundle = $js_bundle | resources.Concat (printf "%s/js/wowchemy-bundle.js" .Lang) }}
+{{ $js_bundle = $js_bundle | resources.Concat "js/wowchemy-bundle.js" }}
 {{- if hugo.IsProduction -}}
   {{- $js_bundle = $js_bundle | js.Build (dict "format" "iife") | minify -}}
 {{- else -}}
   {{- $js_bundle = $js_bundle | js.Build (dict "format" "iife" "sourceMap" "inline") -}}
 {{- end -}}
-{{ $js_bundle = slice $js_bundle_head $js_bundle | resources.Concat (printf "%s/js/wowchemy.min.js" .Lang) }}
+{{ $js_bundle = slice $js_bundle_head $js_bundle | resources.Concat "js/wowchemy.min.js" }}
 {{- if hugo.IsProduction -}}
   {{ $js_bundle = $js_bundle | fingerprint "md5" }}
 {{- end -}}
