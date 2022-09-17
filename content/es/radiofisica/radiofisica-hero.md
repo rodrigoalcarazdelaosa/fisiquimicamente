@@ -8,7 +8,7 @@ cta:
   label: ¿Qué es la radiofísica?
   url: "recursos-fisica-quimica/radiofisica/#que-es-la-radiofisica"
   icon_pack: fas
-  icon: radiation
+  icon: circle-radiation
 cta_alt:
   label: 
   url:
