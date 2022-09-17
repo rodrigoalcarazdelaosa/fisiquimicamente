@@ -50,12 +50,8 @@ subtitle = "📝 Preguntas de examen"
     tag = "PR"
 
   [[content.filter_button]]
-    name = "Residuos radiactivos"
-    tag = "residuos-radiactivos"
-
-  [[content.filter_button]]
-    name = "Legislación"
-    tag = "legislación"
+    name = "Radioterapia"
+    tag = "radioterapia"  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

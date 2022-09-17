@@ -2,7 +2,7 @@
 title: Protección radiológica
 url: "/recursos-fisica-quimica/radiofisica/operador-IIRR/preguntas-examen/proteccion-radiologica"
 subtitle: Criterios generales en protección radiológica
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Criterios generales en protección radiológica, protección radiológica operacional y gestión y transporte de residuos radiactivos."
+summary: "Criterios generales en protección radiológica, protección radiológica operacional y gestión y transporte de residuos radiactivos."
 breadcrumbs: ["recursos-fisica-quimica","radiofisica","operador-IIRR-preguntas-examen"]
 authors:
 - jesica-sanchez-mazon
