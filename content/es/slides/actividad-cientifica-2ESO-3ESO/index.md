@@ -92,8 +92,8 @@ o con esta excelente **práctica virtual** del [Departamento de Física y Quími
 ## Medidas de magnitudes
 
 - [Sistema Internacional de Unidades (SI)](#/2/2)
-- [Notación científica](#/2/6)
-- [Factores de conversión](#/2/10)
+- [Notación científica](#/2/8)
+- [Factores de conversión](#/2/12)
 
 (continúa hacia abajo)
 
@@ -121,6 +121,14 @@ Una **magnitud** es toda propiedad que se puede medir.
 | Temperatura | Kelvin | K |
 | Cantidad de sustancia | Mol | mol |
 | Intensidad luminosa | Candela | cd |
+
+---
+
+> El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades/index.md" >}}).
+
+---
+
+{{< youtube nqxHnu4LJ6k >}}
 
 ---
 

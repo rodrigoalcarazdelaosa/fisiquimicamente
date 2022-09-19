@@ -185,7 +185,7 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 ## Magnitudes fundamentales y derivadas
 
 - [Magnitudes fundamentales del SI](#/3/1)
-- [Magnitudes derivadas](#/3/3)
+- [Magnitudes derivadas](#/3/5)
 
 (continúa hacia abajo)
 
@@ -207,6 +207,14 @@ El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fund
 | Temperatura | Kelvin | K |
 | Cantidad de sustancia | Mol | mol |
 | Intensidad luminosa | Candela | cd |
+
+---
+
+> El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades/index.md" >}}).
+
+---
+
+{{< youtube nqxHnu4LJ6k >}}
 
 ---
 

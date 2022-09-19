@@ -103,7 +103,7 @@ Tras introducir el concepto de **molécula** como la partícula integrante de lo
 
 ### Mol
 
-Tras la última redefinición del Sistema Internacional (SI), el **mol** se define como:
+Tras la [última redefinición del Sistema Internacional (SI)]({{< relref "/post/actualizacion-unidades" >}}), el **mol** se define como:
 
 > La cantidad de sustancia de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales (átomos, moléculas, iones, electrones, etc.) especificadas.
 
