@@ -151,7 +151,11 @@ Compuestos binarios formados por un **elemento** (E), con nº de oxidación n, e
 
 {{< hl >}}HIDRURO{{< /hl >}} + {{< hl >}}DE{{< /hl >}} + {{< hl >}}ELEMENTO{{< /hl >}} + {{< hl >}}(Nº OXIDACIÓN/CARGA){{< /hl >}}
 
-Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16** o **17**, el orden de los elementos en la fórmula cambia, estando el hidrógeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos (acabando en ***&ndash;uro*** el otro elemento).
+Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16** o **17**, el orden de los elementos en la fórmula cambia, estando el hidrógeno a la izquierda, y por tanto también cambia la forma de nombrar estos compuestos (acabando en ***&ndash;uro*** el otro elemento)[^1].
+
+[^1]: En **disolución acuosa** (ac o aq), estos compuestos se denominan **hidrácidos**, nombrándose con la palabra ácido y el nombre del no metal acabado en *hídrico*. Así, tenemos por ejemplo:
+    - HCl(ac): ácido clorhídrico.
+    - H<sub>2</sub>S(ac): ácido sulfhídrico.
 
 ### Ejemplos
 
@@ -163,9 +167,9 @@ Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16**
 | H<sub>2</sub>S | sulfuro de dihidrógeno | &ndash; |
 
 ### Hidruros progenitores
-Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como **compuestos progenitores**, obteniéndose **derivados** al sustituir los átomos de hidrógeno por otros átomos y/o grupos[^1].
+Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como **compuestos progenitores**, obteniéndose **derivados** al sustituir los átomos de hidrógeno por otros átomos y/o grupos[^2].
 
-[^1]: Los nombres ***oxidano*** y ***azano***, para el **H<sub>2</sub>O** y el **NH<sub>3</sub>**, se proponen únicamente para nombrar **derivados** del **agua** y del **amoniaco**, respectivamente.
+[^2]: Los nombres ***oxidano*** y ***azano***, para el **H<sub>2</sub>O** y el **NH<sub>3</sub>**, se proponen únicamente para nombrar **derivados** del **agua** y del **amoniaco**, respectivamente.
 
 | F | N | F | N | F | N | F | N | F | N |
 | :---: | --- | :---: | --- | :---: | --- | :---: | --- | :---: | --- |
@@ -217,9 +221,9 @@ Los **ácidos** del **cromo** y del **manganeso** ya no tienen nombres *vulgares
 | HMnO<sub>4</sub> | VII | hidrogeno(tetraoxidomanganato) |
 
 ### Ácidos meta y orto
-Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden contener más o menos agua, por lo que para distinguirlos utilizamos los prefijos ***meta&ndash;*** (menos agua) y ***orto&ndash;*** (más agua)[^2].
+Algunos ácidos, como los del **B**, **Si**, **P**, **Te** o **I**, pueden contener más o menos agua, por lo que para distinguirlos utilizamos los prefijos ***meta&ndash;*** (menos agua) y ***orto&ndash;*** (más agua)[^3].
 
-[^2]: Sustituyendo el P por As o Sb tenemos los ácidos **arsénico** (H<sub>3</sub>AsO<sub>4</sub>) y **antimónico** (H<sub>3</sub>SbO<sub>4</sub>), respectivamente.
+[^3]: Sustituyendo el P por As o Sb tenemos los ácidos **arsénico** (H<sub>3</sub>AsO<sub>4</sub>) y **antimónico** (H<sub>3</sub>SbO<sub>4</sub>), respectivamente.
 
 | Elemento | Ácido meta | Ácido + 1$\thinspace$H<sub>2</sub>O | Ácido orto (+2$\thinspace$H<sub>2</sub>O) |
 | :---: | --- | --- | --- |

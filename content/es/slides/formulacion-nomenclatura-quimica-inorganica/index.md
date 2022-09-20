@@ -262,6 +262,14 @@ Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16**
 
 ---
 
+En **disolución acuosa** (ac o aq), estos compuestos se denominan **hidrácidos**, nombrándose con la palabra ácido y el nombre del no metal acabado en *hídrico*.
+
+Así, tenemos por ejemplo:
+- HCl(ac): ácido clorhídrico.
+- H<sub>2</sub>S(ac): ácido sulfhídrico.
+
+---
+
 ### Ejemplos
 
 | Fórmula | Nombre composición | Nombre nº oxidación/carga |
