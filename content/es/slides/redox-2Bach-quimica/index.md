@@ -114,7 +114,7 @@ Ganancia de electrones
 
 ### Reglas para asignar estados de oxidación
 
-> En [esta tabla periódica](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica/inorganica/tabla-periodica-elementos.pdf) puedes ver los posibles **estados de oxidación** de la mayoría de los **elementos químicos**.
+> En [esta tabla periódica](https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-estados-oxidacion.pdf) puedes ver los posibles **estados de oxidación** de la mayoría de los **elementos químicos**.
 
 ---
 
