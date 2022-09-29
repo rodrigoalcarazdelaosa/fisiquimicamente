@@ -13,7 +13,6 @@ tags:
 - movimiento
 categories:
 - Física
-weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -41,21 +40,21 @@ links:
 En esta **actividad** se presenta una **historia** interactiva sobre **piratas**, con la que trabajar los contenidos de **cinemática** en **2.º ESO**.
 {{% /callout %}}
 
-## Descripción de la actividad
+## 📜 Descripción de la actividad
 
 El alumnado comenzará con un único capítulo, el 1, y deberá resolver lo que ahí se plantea para conseguir el 2, y así sucesivamente.
 
 Se dejan también las soluciones de la historia.
 
-## Temporalización
+## ⏱️ Temporalización
 
 Una sola sesión.
 
-## Agrupamientos
+## 👥 Agrupamientos
 
 Pequeño grupo 3–4 personas.
 
-## Materiales necesarios
+## 💼 Materiales necesarios
 
 - Una copia de cada capítulo por equipo.
 - Una copia de los mapas por equipo.

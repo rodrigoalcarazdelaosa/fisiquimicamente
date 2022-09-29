@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: El extraño caso del vuelo 1023 de Mole Airlines | 1.º Bach
-      url: '/recursos-fisica-quimica/actividades-juegos/1bach/extrano-caso-vuelo-1023-mole-airlines'
+      text: ¡Atrápalo! | 2.º ESO – 3.º ESO
+      url: '/recursos-fisica-quimica/actividades-juegos/2eso-3eso/atrapalo'
   - title: 🗞️ Novedades
     content: '📜 Última biografía científica'
     align: center

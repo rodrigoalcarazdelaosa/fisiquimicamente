@@ -67,6 +67,6 @@ Hay que tener en cuenta que los cinco colores corresponden a los cinco bloques d
 
 Como fichas pueden emplearse tapones, en los que se irán colocando los quesitos, que pueden ser bolitas de papel. En el caso de que los grupos respondan correctamente a todas las preguntas, se puede proponer que respondan solamente a una pregunta por turno.
 
-## 📩 Material necesario
+## 💼 Material necesario
 
 En los botones de arriba podéis descargar el [**tablero**](trivial-tablero.pdf), una [**ficha** para recortar y hacer bolitas de distintos colores](trivial-ficha-colores.pdf) y las [**preguntas**](trivial-preguntas.pdf).

@@ -15,7 +15,6 @@ tags:
 categories:
 - Física
 - Química
-weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -52,6 +51,6 @@ Antes de jugar les dejo una [**plantilla** con todos los **instrumentos**](ficha
 
 Que no coloquen la mano encima del montón ni cojan una carta antes de nombrar el instrumento (es prácticamente imposible, este juego es la guerra).
 
-## 📩 Material necesario
+## 💼 Material necesario
 
 En los botones de arriba puedes descargar tanto la [**ficha** de **instrumentos**](ficha-instrumentos.pdf) como las [**fichas** del **juego**](fichas-juego.pdf).

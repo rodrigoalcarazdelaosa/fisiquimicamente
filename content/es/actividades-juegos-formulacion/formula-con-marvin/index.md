@@ -55,6 +55,6 @@ Ganará quien lleve sus dos fichas de instrumento hasta la meta en primer lugar.
 
 Tienen que escribir la fórmula y el nombre correspondiente en la libreta, antes de que el resto de jugadores (o nosotros si fuese necesario) compruebe si es correcto o no.
 
-## 📩 Material necesario
+## 💼 Material necesario
 
 En los botones de arriba puedes descargar tanto el [**tablero** y las **reglas**](tablero-reglas.pdf) como los [**dados**](dados.pdf).

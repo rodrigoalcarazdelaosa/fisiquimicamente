@@ -2,7 +2,7 @@
 title: El extraño caso del vuelo 1023 de Mole Airlines
 url: "/recursos-fisica-quimica/actividades-juegos/1bach/extrano-caso-vuelo-1023-mole-airlines"
 subtitle: Conviértete en médico forense y averigua qué pasó en el vuelo 1023
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Conviértete en médico forense y averigua qué pasó en el vuelo 1023."
+summary: "Conviértete en médico forense y averigua qué pasó en el vuelo 1023."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-1bach"]
 authors:
 - miguel-quiroga

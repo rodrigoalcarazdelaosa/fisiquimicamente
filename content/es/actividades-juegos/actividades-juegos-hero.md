@@ -11,7 +11,7 @@ cta:
   icon: compass
 cta_alt:
   label: Última actividad/juego ➡️
-  url: "/recursos-fisica-quimica/actividades-juegos/1bach/extrano-caso-vuelo-1023-mole-airlines"
+  url: "/recursos-fisica-quimica/actividades-juegos/2eso-3eso/atrapalo"
 cta_note:
   label:
 design:

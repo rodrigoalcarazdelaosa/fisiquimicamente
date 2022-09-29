@@ -14,7 +14,6 @@ tags:
 - tabla-periódica
 categories:
 - Química
-weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -49,6 +48,6 @@ El primer alumno que averigue cuál fue el compuesto seleccionado por su rival s
 
 Hay dos tableros por juego (uno para cada jugador) y cada tablero se forma uniendo dos hojas tamaño A4 (con cinta adhesiva transparente, por ejemplo). Es recomendable imprimir en papel grueso (como de cartulina) y recortar las fichas con un cúter (poned debajo un cartón o un periódico para no marcar la mesa) hasta la altura de la línea discontinua, ya que por ahí es por donde se plegarán.
 
-## 📩 Material necesario
+## 💼 Material necesario
 
 En el botón de arriba puedes descargar los [**tableros** y las **fichas**](tableros-fichas.pdf).

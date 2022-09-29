@@ -62,6 +62,6 @@ El objetivo del juego es agrupar las cartas en tríos, cuartetos o chinchón y t
 
 {{< youtube Dg1SC3jDOIA >}}
 
-## 📩 Material necesario
+## 💼 Material necesario
 
 En los botones de arriba puedes descargar tanto las [**instrucciones**](instrucciones.pdf) como las propias [**cartas** de la **baraja**](cartas.pdf).
