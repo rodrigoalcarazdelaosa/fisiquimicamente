@@ -201,7 +201,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 ### Instrumental
 
 {{% callout game %}}
-Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta genial **adaptación** del juego de cartas **Dobble**]({{< relref "/actividades-juegos-segundo-tercero-eso/dobble-instrumentos-laboratorio" >}}).
+Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta genial **adaptación** del juego de cartas **Dobble**]({{< relref "/actividades-juegos-segundo-tercero-eso/dobble-instrumentos-laboratorio" >}}) o el juego [**¡Atrápalo!**]({{< relref "/actividades-juegos-segundo-tercero-eso/atrapalo" >}})
 {{% /callout %}}
 
 {{< figure src="actividad-cientifica-2ESO-3ESO/instrumental.svg" title="[Iconos creados por Freepik de Flaticon](https://www.flaticon.com/packs/laboratory-equipment)" lightbox="false" width="100%" >}}
