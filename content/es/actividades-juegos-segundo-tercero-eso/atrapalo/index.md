@@ -49,4 +49,4 @@ Si se coge el tótem y el material está mal nombrado, se pierden 2 puntos.
 
 ## 💼 Material necesario
 
-- Un mazo de cartas por grupo.
+- Un mazo de [**cartas**](cartas.pdf) por grupo.
