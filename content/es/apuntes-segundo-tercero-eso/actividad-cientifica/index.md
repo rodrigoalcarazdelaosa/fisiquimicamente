@@ -99,11 +99,15 @@ Puedes poner en práctica el **método científico** estudiando los **factores**
 
 <iframe src="https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-o con esta excelente **práctica virtual** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
+o con estas excelentes **prácticas virtuales** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
 
 {{< youtube 2GDKNIyOCSc >}}
 
 [Aquí](https://drive.google.com/file/d/1owiVZCn_q65ysah9wkTMEPT7nKGVclwe/view) puedes descargarte el **guión** de la **práctica**.
+
+{{< youtube Y9gnmDfAmSw >}}
+
+[Aquí](https://drive.google.com/file/d/1-7Qnann0yZqy3oarmFUROKy72XRPU4fA/view) puedes descargarte el **guión** de la **práctica**.
 
 {{% /callout %}}
 

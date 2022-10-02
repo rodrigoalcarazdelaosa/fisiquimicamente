@@ -79,9 +79,13 @@ Estudia los **factores** que **influyen** en el **periodo** de un **péndulo** c
 
 ---
 
-o con esta excelente **práctica virtual** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
+o con estas excelentes **prácticas virtuales** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
 
 {{< youtube 2GDKNIyOCSc >}}
+
+---
+
+{{< youtube Y9gnmDfAmSw >}}
 
 {{% /section %}}
 
