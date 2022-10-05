@@ -1,16 +1,21 @@
-{{ $ := .root }}
-{{ $page := .page }}
-{{ $columns := $page.Params.design.columns | default "2" }}
+{{/* Wowchemy Blocks: Experience */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $columns := $block.Params.design.columns | default "2" }}
 
 <!-- Experience widget -->
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
-  {{ with $page.Content }}{{ . }}{{ end }}
+  {{ with $block.Content }}{{ . }}{{ end }}
 
-  {{ if $page.Params.experience }}
-  {{ $exp_len := len $page.Params.experience }}
+  {{ if $block.Params.experience }}
+  {{ $exp_len := len $block.Params.experience }}
 
   {{/* Default to user's custom order (as requested in #1761) as Hugo doesn't support multiple sorts on params. */}}
-  {{ range $idx, $key := $page.Params.experience }}
+  {{ range $idx, $key := $block.Params.experience }}
   <div class="row experience">
     <!-- Timeline -->
     <div class="col-auto text-center flex-column d-none d-sm-flex">
@@ -31,26 +36,32 @@
       <div class="card">
         <div class="card-body">
 
-          {{- if .company_logo}}
+          <!-- {{- if .company_logo}}
           {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.png" .company_logo) | default (resources.Get (printf "media/icons/brands/%s.svg" .company_logo)) -}}
           {{ if not $svg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/brands/%s.svg`" .company_logo }}{{end}}
           <div class="d-flex align-content-start">
             <div class="mr-2 mb-2">
               {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-              <img src="{{ $svg_icon.RelPermalink }}" style="width:56px;height:auto" alt="{{.company | plainify}}" loading="lazy">
+              <img src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.company | plainify}}" loading="lazy">
               {{- with .company_url}}</a>{{end -}}
             </div>
             <div>
-          {{ end }}
+          {{ end }} -->
 
               <div class="section-subheading card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</div>
               <div class="section-subheading card-title exp-company text-muted my-0">
+                {{- if .company_logo}}
+                {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.png" .company_logo) | default (resources.Get (printf "media/icons/brands/%s.svg" .company_logo)) -}}                
+                {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}<img src="{{ $svg_icon.RelPermalink }}" alt="{{.company | plainify}}" loading="lazy" style="width:auto;height:56px;vertical-align:middle;margin:0.5ex 0px">
+                    {{- with .company_url}}</a>{{end -}}
+                {{ else }}
                     {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+                {{ end }}
               </div>
               <div class="text-muted exp-meta">
-                {{ (time .date_start) | time.Format ($page.Params.date_format | default "January 2006") }} –
+                {{ (time .date_start) | time.Format ($block.Params.date_format | default "January 2006") }} –
                 {{ if .date_end}}
-                  {{ (time .date_end) | time.Format ($page.Params.date_format | default "January 2006") }}
+                  {{ (time .date_end) | time.Format ($block.Params.date_format | default "January 2006") }}
                 {{else}}
                   {{ i18n "present" | default "Present" }}
                 {{end}}
@@ -60,10 +71,10 @@
                 {{end}}
               </div>
 
-          {{- if .company_logo}}
+          <!-- {{- if .company_logo}}
             </div>
           </div>
-          {{end}}
+          {{end}} -->
 
           {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
         </div>

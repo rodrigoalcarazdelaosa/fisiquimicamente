@@ -1,14 +1,19 @@
-{{ $ := .root }}
-{{ $page := .page }}
-{{ $bg := $page.Params.design.background }}
+{{/* Wowchemy Blocks: Hero */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
 
-{{ if $page.Params.hero_media }}
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $bg := $block.Params.design.background }}
+
+{{ if $block.Params.hero_media }}
 <div class="row">
   <div class="col-12 col-md-6 text-center text-md-left">
 {{ end }}
 
-    {{ with $page.Title }}      
-      {{ if eq $page.Title "FisiQuímicamente" }}
+    {{ with $block.Title }}      
+      {{ if eq $block.Title "FisiQuímicamente" }}
         {{- $logo := resources.Get ("media/logo-fisiquimicamente.svg") -}}        
         <h1 class="hero-title"><img draggable="false" alt="fisiquimicamente" src="{{ $logo.RelPermalink }}" width="100%" id="fisiquimicamente"></h1>        
         <script>
@@ -21,7 +26,7 @@
           }
           });
         </script>
-      {{ else if eq $page.Title "PhysiChemically" }}
+      {{ else if eq $block.Title "PhysiChemically" }}
         {{- $logo := resources.Get ("media/logo-physichemically.svg") -}}
         <h1 class="hero-title"><img draggable="false" alt="physichemically" src="{{ $logo.RelPermalink }}" width="100%" id="physichemically"></h1>
         <script>
@@ -34,7 +39,7 @@
             }
             });
           </script>
-      {{ else if eq $page.Title "FisiQuímicament" }}
+      {{ else if eq $block.Title "FisiQuímicament" }}
         {{- $logo := resources.Get ("media/logo-fisiquimicament.svg") -}}
         <h1 class="hero-title"><img draggable="false" alt="fisiquimicament" src="{{ $logo.RelPermalink }}" width="100%" id="fisiquimicament"></h1>
         <script>
@@ -50,18 +55,18 @@
       {{ end }}
     {{ end }}
 
-    {{ with $page.Content }}
+    {{ with $block.Content }}
       <div class="hero-lead">{{ . }}</div>
     {{ end }}
 
     {{/* Call-to-action link */}}
-    {{ if $page.Params.cta.url }}
-      {{ $pack := or $page.Params.cta.icon_pack "fas" }}
+    {{ if $block.Params.cta.url }}
+      {{ $pack := or $block.Params.cta.icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
       {{ if in (slice "fab" "fas" "far" "fal") $pack }}
         {{ $pack_prefix = "fa" }}
       {{ end }}
-      {{ $link := $page.Params.cta.url }}
+      {{ $link := $block.Params.cta.url }}
       {{ $scheme := (urls.Parse $link).Scheme }}
       {{ $target := "" }}
       {{ if not $scheme }}
@@ -70,11 +75,11 @@
         {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
     <p class="cta-btns">
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg mb-md-1">{{ if $page.Params.cta.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $page.Params.cta.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $page.Params.cta.label | markdownify | emojify | safeHTML }}</a>
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="btn {{if $bg.text_color_light}}btn-light{{else}}btn-primary{{end}} btn-lg mb-md-1">{{ if $block.Params.cta.icon }}<i class="{{ $pack }} {{ $pack_prefix }}-{{ $block.Params.cta.icon }} pr-1" aria-hidden="true"></i>{{end}}{{ $block.Params.cta.label | markdownify | emojify | safeHTML }}</a>
 
       {{/* Alternative Call-to-action link */}}
-      {{ if $page.Params.cta_alt.url }}
-        {{ $link := $page.Params.cta_alt.url }}
+      {{ if $block.Params.cta_alt.url }}
+        {{ $link := $block.Params.cta_alt.url }}
         {{ $scheme := (urls.Parse $link).Scheme }}
         {{ $target := "" }}
         {{ if not $scheme }}
@@ -82,25 +87,25 @@
         {{ else if in (slice "http" "https") $scheme }}
           {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
         {{ end }}
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="hero-cta-alt btn-lg pl-md-4">{{ $page.Params.cta_alt.label | markdownify | emojify | safeHTML }}</a>
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="hero-cta-alt btn-lg pl-md-4">{{ $block.Params.cta_alt.label | markdownify | emojify | safeHTML }}</a>
       {{ end }}
     </p>
     {{ end }}
 
     {{/* Call-to-action note */}}
-    {{ with $page.Params.cta_note }}
+    {{ with $block.Params.cta_note }}
     <p class="hero-note text-muted mb-3 mb-md-1">           
       {{ .label | markdownify | emojify | safeHTML }}
     </p>
     {{ end }}
 
   {{/* Hero image */}}
-  {{ if $page.Params.hero_media }}
+  {{ if $block.Params.hero_media }}
   </div>
-  <div class="col-12 mx-auto col-md-6 {{if $page.Params.design.flip}}order-md-first{{end}} hero-media">    
-    {{- $image := ($page.Parent.Resources.ByType "image").GetMatch $page.Params.hero_media -}}
+  <div class="col-12 mx-auto col-md-6 {{if $block.Params.design.flip}}order-md-first{{end}} hero-media">    
+    {{- $image := ($block.Parent.Resources.ByType "image").GetMatch $block.Params.hero_media -}}
     {{- if not $image -}}
-      {{- $image = resources.Get (path.Join "media" $page.Params.hero_media) -}}
+      {{- $image = resources.Get (path.Join "media" $block.Params.hero_media) -}}
     {{- end -}}
     {{ if $image }}
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
@@ -123,7 +128,7 @@
             });
           </script>
       {{ else if $isSVG -}}
-        <img src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}">
+        <img src="{{ $image.RelPermalink }}" alt="{{ $block.Title }}">
 
       {{- else }}
 
@@ -141,11 +146,11 @@
         {{ end }}
         {{ $img_src_set = delimit $img_src_set "," }}
 
-        <img src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $page.Title }}">
+        <img src="{{ $legacy_img.RelPermalink }}" srcset="{{ $img_src_set }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $block.Title }}">
 
       {{ end }}
     {{ end }}
-    {{ with $page.Params.hero_media_caption }}<span class="hero-media-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+    {{ with $block.Params.hero_media_caption }}<span class="hero-media-caption">{{ . | markdownify | emojify }}</span>{{ end }}
   </div>
 </div>
 {{ end }}
