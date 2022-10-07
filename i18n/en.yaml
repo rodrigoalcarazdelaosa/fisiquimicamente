@@ -171,6 +171,9 @@
 - id: last_updated
   translation: 📆
 
+- id: last_edit
+  translation: "✍️ Last edit: "
+
 - id: event
   translation: Event
 

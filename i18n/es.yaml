@@ -129,6 +129,8 @@
   translation: Fecha
 - id: last_updated
   translation: 📆
+- id: last_edit
+  translation: "✍️ Última edición: "
 - id: event
   translation: Evento
 - id: location

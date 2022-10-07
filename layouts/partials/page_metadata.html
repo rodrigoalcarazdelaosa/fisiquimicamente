@@ -24,6 +24,8 @@
       {{ end }}
     {{ end }}
     {{ $date }}
+    <span class="middot-divider"></span>
+    {{- if $page.GitInfo -}}{{ i18n "last_edit" }}<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ $page.GitInfo.Hash }}" target="_blank" rel="noopener">{{ $page.GitInfo.AbbreviatedHash }}</a>{{- end -}}
   </span>
   {{ end }}
 

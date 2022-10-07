@@ -100,6 +100,8 @@
   translation: Data
 - id: last_updated
   translation: 📆
+- id: last_edit
+  translation: "✍️ Darrera edició: "
 - id: event
   translation: Event
 - id: location
