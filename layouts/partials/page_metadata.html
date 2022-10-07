@@ -13,9 +13,9 @@
   {{ end }}
   {{ end }}
 
-  {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}
+  {{ if (in (slice "post") $page.Type) | and (ne $page.Params.show_date false) }}
   <span class="article-date">
-    {{ $date := $page.Lastmod | time.Format site.Params.locale.date_format }}
+    {{ $date := $page.Date | time.Format site.Params.locale.date_format }}
     {{ if eq $page.Type "publication" }}
       {{ $date = $page.Date | time.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ else }}
@@ -23,8 +23,13 @@
           {{ i18n "last_updated" }}
       {{ end }}
     {{ end }}
-    {{ $date }}
-    <span class="middot-divider"></span>
+    {{ $date }}    
+  </span>
+  <span class="middot-divider"></span>
+  {{ end }}
+
+  {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}  
+  <span class="article-date">
     {{- if $page.GitInfo -}}{{ i18n "last_edit" }}<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ $page.GitInfo.Hash }}" target="_blank" rel="noopener">{{ $page.GitInfo.AbbreviatedHash }}</a>{{- end -}}
   </span>
   {{ end }}
