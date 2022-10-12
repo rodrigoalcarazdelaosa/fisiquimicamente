@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica"
 subtitle: Leyes ponderales y leyes de los gases ideales
 summary: "Leyes ponderales y leyes de los gases ideales."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- miguel-quiroga
 tags:
 - apuntes
 - 1º Bach
@@ -25,6 +28,10 @@ links:
   icon: file-download
   name: Póster
   url: leyes-fundamentales-quimica-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexamen
+  url: leyes-fundamentales-quimica-frikiexamen.pdf  
 
 slides: leyes-fundamentales-quimica-1Bach
 ---
