@@ -14,7 +14,7 @@ cta_alt:
   url:
 cta_note:
   label: >-
-    Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.<br>También os recomendamos echar un vistazo a los [**ejercicios resueltos**](https://drive.google.com/file/d/1GgODfaZJEUiQ0iQlNfmpdhoT3U8HzhPU/view) por **{{% mention "leticia-cabezas" %}}**.
+    Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.<br>También os recomendamos echar un vistazo a los [**ejercicios resueltos**](https://drive.google.com/file/d/1GgODfaZJEUiQ0iQlNfmpdhoT3U8HzhPU/view), [**temas**](https://drive.google.com/file/d/1-A-6JgTeQ7sOyeirs5mvK27zJuBTu-ia/view) y [**programaciones didácticas (LOE)**](https://drive.google.com/drive/folders/1Zk083BTEAAA6KMh7lfqXaiSlF5005ZCj) de **{{% mention "leticia-cabezas" %}}**.
 design:
   background:
     # color: "#FFFFF8"
