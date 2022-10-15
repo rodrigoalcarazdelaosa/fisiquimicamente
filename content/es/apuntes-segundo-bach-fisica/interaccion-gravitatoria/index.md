@@ -36,8 +36,8 @@ links:
   url: https://drive.google.com/file/d/1foYvLMa5Hyc-JgSWDS2EoEiNQe_3ngVw/view
 - icon_pack: fas
   icon: file-download
-  name: Frikiexamen
-  url: interaccion-gravitatoria-frikiexamen.pdf
+  name: Frikiexámenes
+  url: interaccion-gravitatoria-frikiexamenes.pdf
 
 ---
 
