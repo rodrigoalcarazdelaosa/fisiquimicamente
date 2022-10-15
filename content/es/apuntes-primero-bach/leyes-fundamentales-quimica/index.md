@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - miguel-quiroga
+- leticia-cabezas
 tags:
 - apuntes
 - 1º Bach
@@ -30,8 +31,8 @@ links:
   url: leyes-fundamentales-quimica-poster.pdf
 - icon_pack: fas
   icon: file-download
-  name: Frikiexamen
-  url: leyes-fundamentales-quimica-frikiexamen.pdf  
+  name: Frikiexámenes
+  url: leyes-fundamentales-quimica-frikiexamenes.pdf  
 
 slides: leyes-fundamentales-quimica-1Bach
 ---

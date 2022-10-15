@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/2bach/fisica/interaccion-gravitatoria"
 subtitle: Leyes de Kepler, ley de Gravitación Universal y campo gravitatorio
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Leyes de Kepler. Ley de Gravitación Universal. Campo gravitatorio."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- leticia-cabezas
 tags:
 - apuntes
 - 2º Bach
@@ -31,6 +34,10 @@ links:
   icon: external-link-alt
   name: Ejercicios
   url: https://drive.google.com/file/d/1foYvLMa5Hyc-JgSWDS2EoEiNQe_3ngVw/view
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexamen
+  url: interaccion-gravitatoria-frikiexamen.pdf
 
 ---
 

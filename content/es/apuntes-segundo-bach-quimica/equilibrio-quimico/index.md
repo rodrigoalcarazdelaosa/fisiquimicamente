@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- leticia-cabezas
 tags:
 - apuntes
 - 2º Bach
@@ -36,6 +37,10 @@ links:
   icon: external-link-alt
   name: Más ejercicios
   url: https://drive.google.com/file/d/1zfeoyUiQm46SheaKm-9EKLmlfc9Ao1hI/view
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexámenes
+  url: cinetica-equilibrio-frikiexamenes.pdf  
 
 slides: equilibrio-quimico-2Bach-quimica  
 ---

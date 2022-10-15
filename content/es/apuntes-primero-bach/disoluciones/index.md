@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- leticia-cabezas
 tags:
 - apuntes
 - 1º Bach
@@ -35,6 +36,10 @@ links:
   icon: file-download
   name: Prácticas de laboratorio
   url: disoluciones-practicas-laboratorio.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexámenes
+  url: disoluciones-reacciones-quimicas-frikiexamenes.pdf
 
 slides: disoluciones-1Bach
 ---

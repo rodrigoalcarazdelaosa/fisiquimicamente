@@ -27,4 +27,4 @@ advanced:
   css_class: 
 ---
 
-En formato **texto**, **diapositivas** y **póster** (tipo _chuleta_ 🥩). ¡Y también **ejercicios**!
+En formato **texto**, **diapositivas** y **póster** (tipo _chuleta_ 🥩). ¡Y también **ejercicios** y **frikiexámenes**!

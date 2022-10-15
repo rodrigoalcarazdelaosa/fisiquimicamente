@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- miguel-quiroga
 tags:
 - apuntes
 - 4º ESO
@@ -32,6 +33,10 @@ links:
   icon: pencil-ruler
   name: Ejercicios
   url: modelos-atomicos-ejercicios.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexamen
+  url: modelos-atomicos-frikiexamen.pdf
 
 slides: modelos-atomicos-4ESO
 ---

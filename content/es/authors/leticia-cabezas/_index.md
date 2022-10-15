@@ -18,7 +18,7 @@ role: 🧩 Actividades/juegos
 # Organizations/Affiliations
 organizations:
 - name: IES Peñalba
-  url: "http://ies-penalba.centros.castillalamancha.es"
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Profesora de Física y Química de ESO y Bach con alma de adolescente."

@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/2bach/fisica/campo-electrico"
 subtitle: Ley de Coulomb, energía potencial, potencial y flujo eléctrico
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Ley de Coulomb. Energía potencial y potencial eléctrico. Flujo eléctrico."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- leticia-cabezas
 tags:
 - apuntes
 - 2º Bach
@@ -31,6 +34,10 @@ links:
   icon: external-link-alt
   name: Ejercicios
   url: https://drive.google.com/file/d/1A2JmO4UcFPFx_Xr6AOxv_KqjRZBmwLe3/view
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexámenes
+  url: campo-electrico-frikiexamenes.pdf
 
 ---
 

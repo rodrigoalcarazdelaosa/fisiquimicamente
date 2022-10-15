@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- leticia-cabezas
 tags:
 - apuntes
 - 2º Bach
@@ -43,6 +44,10 @@ links:
   icon: external-link-alt
   name: Ejercicios enlace covalente
   url: https://drive.google.com/file/d/1Gvj18n_6YUQMWqUW-ejYUVMO8kl7ydAZ/view
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexamen
+  url: enlace-quimico-frikiexamen.pdf
   
 slides: enlace-quimico-2Bach-quimica
 ---

@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- leticia-cabezas
 tags:
 - apuntes
 - 2º Bach
@@ -33,6 +34,10 @@ links:
   icon: external-link-alt
   name: Más ejercicios
   url: https://drive.google.com/file/d/1jgF2JtIDGkwyYLClBewpQ79JsNewmWnm/view
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexamen
+  url: campo-magnetico-frikiexamen.pdf  
 
 ---
 

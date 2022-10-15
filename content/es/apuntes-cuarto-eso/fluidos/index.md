@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/4eso/fluidos"
 subtitle: Concepto de presión, principios de la hidrostática y física de la atmósfera
 summary: Concepto de presión, principios de la hidrostática y física de la atmósfera.
 breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- leticia-cabezas
 tags:
 - apuntes
 - 4º ESO
@@ -25,6 +28,10 @@ links:
   icon: file-download
   name: Póster
   url: fluidos-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexámenes
+  url: fluidos-energia-calor-frikiexamenes.pdf
   
 slides: fluidos-4ESO
 ---

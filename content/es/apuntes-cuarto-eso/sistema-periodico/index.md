@@ -7,6 +7,8 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- miguel-quiroga
+- leticia-cabezas
 tags:
 - apuntes
 - 4º ESO
@@ -31,6 +33,10 @@ links:
   icon: pencil-ruler
   name: Ejercicios
   url: sistema-periodico-ejercicios.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexámenes
+  url: sistema-periodico-frikiexamenes.pdf  
 
 slides: sistema-periodico-4ESO
 ---

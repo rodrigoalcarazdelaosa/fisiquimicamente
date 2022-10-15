@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- leticia-cabezas
 tags:
 - apuntes
 - 1º Bach
@@ -35,6 +36,10 @@ links:
   icon: external-link-alt
   name: Más ejercicios
   url: https://drive.google.com/file/d/1_E6cVuBxyDmBam803B949yPKyHHajLXt/view
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexámenes
+  url: disoluciones-reacciones-quimicas-frikiexamenes.pdf  
   
 slides: reacciones-quimicas-1Bach
 ---

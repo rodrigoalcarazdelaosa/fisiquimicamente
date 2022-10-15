@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","4eso"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- leticia-cabezas
 tags:
 - apuntes
 - 4º ESO
@@ -31,6 +32,10 @@ links:
   icon: pencil-ruler
   name: Ejercicios gráficas
   url: cinematica-graficas-ejercicios.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexámenes
+  url: movimientos-frikiexamenes.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

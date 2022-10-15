@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/1bach/movimiento-parabolico"
 subtitle: Estudio del tiro parabólico u oblicuo
 summary: Estudio del tiro parabólico u oblicuo.
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- leticia-cabezas
 tags:
 - apuntes
 - 1º Bach
@@ -28,6 +31,10 @@ links:
   icon: external-link-alt
   name: Ejercicios
   url: https://drive.google.com/file/d/146zPEp6BQmpHvasZiyg_b4tTBQLtIVD2/view
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexamen
+  url: movimiento-parabolico-dinamica-frikiexamen.pdf  
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

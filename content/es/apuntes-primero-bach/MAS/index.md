@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/1bach/mas"
 subtitle: Movimiento armónico simple
 summary: "Cinemática, dinámica y energía del movimiento armónico simple."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- leticia-cabezas
 tags:
 - apuntes
 - 1º Bach
@@ -12,7 +15,7 @@ tags:
 - energía
 categories:
 - Física
-weight: 7
+weight: 8
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -26,6 +29,10 @@ links:
   icon: file-download
   name: Póster
   url: MAS-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexamen
+  url: energia-MAS-frikiexamen.pdf  
 
 slides: MAS-1Bach  
 

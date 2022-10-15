@@ -106,3 +106,6 @@ subtitle = "📓 2.º Bach ⚗️ Química"
  css_class = ""
 +++
 
+{{% callout note %}}
+**Repasa** los contenidos de **Química** de **1.º Bach** con estos [**frikiexámenes**](repaso-quimica-1Bach-frikiexamenes.pdf), cortesía de **{{% mention leticia-cabezas %}}**.
+{{% /callout %}}

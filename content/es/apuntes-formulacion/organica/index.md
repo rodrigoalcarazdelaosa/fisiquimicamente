@@ -7,6 +7,8 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","formulacion-nomenclatura-quim
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- miguel-quiroga
+- leticia-cabezas
 tags:
 - apuntes
 - formulación
@@ -45,6 +47,10 @@ links:
   icon: external-link-alt
   name: Más ejercicios
   url: https://drive.google.com/file/d/1ujM1yemLauwmGZMgBjF5mciEySM5PLw1/view
+- icon_pack: fas
+  icon: file-download
+  name: Frikiexámenes
+  url: formulacion-nomenclatura-organica-frikiexamenes.pdf  
 
 slides: formulacion-nomenclatura-quimica-organica
 
