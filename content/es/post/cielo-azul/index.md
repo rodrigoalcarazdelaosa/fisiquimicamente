@@ -24,6 +24,11 @@ Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="ManoloAlonso1" id="1546547406946418692" >}}
 </div>
+
+También te recomiendo echar un vistazo a este otro hilo, que profundiza en algunas cuestiones:
+<div align="center">
+{{< tweet user="Cuent_Cuanticos" id="1581971025046441984" >}}
+</div>
 {{% /callout %}}
 
 ¿Sabes por qué vemos el **cielo azul**? Si has oído hablar de la [**dispersión de Rayleigh**](https://es.wikipedia.org/wiki/Dispersión_de_Rayleigh), entonces ¿por qué no lo vemos [**violeta**](https://es.wikipedia.org/wiki/Violeta_(color)), si ese color tiene asociado una [longitud de onda](https://es.wikipedia.org/wiki/Longitud_de_onda) aún menor que el azul? Hoy hablamos de [**luz**](https://es.wikipedia.org/wiki/Luz), [**color**](https://es.wikipedia.org/wiki/Color) y [**percepción**](https://es.wikipedia.org/wiki/Percepción).
