@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Perfil de salida LOMLOE"
-      url: 'blog/2022/09/03/perfil-de-salida-lomloe/'
+      text: "¿De qué color son los gases?"
+      url: 'blog/2022/10/19/de-que-color-son-los-gases/'
 ---

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="198"
+   height="178"
+   style="display:inline">
+  <defs
+     id="defs5" />
+  <path
+     d="M 200.66313,88.291779 A 78.848808,45.32626 0 1 1 42.965515,88.291779 A 78.848808,45.32626 0 1 1 200.66313,88.291779 z"
+     transform="matrix(1.144748,0,0,1.903135,-40.44668,-79.03117)"
+     id="path1877"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <g
+     id="g1883">
+    <path
+       d="M 15.580902,90.652519 A 6.1379309,6.1379309 0 1 1 3.3050404,90.652519 A 6.1379309,6.1379309 0 1 1 15.580902,90.652519 z"
+       transform="matrix(1.12987,0,0,1.12987,-1.669331,-13.42556)"
+       id="path3649"
+       style="fill:#ffff33;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       x="6"
+       y="93.662689"
+       id="text4536"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="6"
+         y="93.662689"
+         id="tspan4538"
+         style="font-size:18px">-</tspan></text>
+  </g>
+  <g
+     id="g1888">
+    <path
+       d="M 15.580902,90.652519 A 6.1379309,6.1379309 0 1 1 3.3050404,90.652519 A 6.1379309,6.1379309 0 1 1 15.580902,90.652519 z"
+       transform="matrix(1.12987,0,0,1.12987,178.3307,-13.42556)"
+       id="path4542"
+       style="fill:#ffff33;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       x="185.83771"
+       y="93.662689"
+       id="text4544"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="185.83771"
+         y="93.662689"
+         id="tspan4546"
+         style="font-size:18px">-</tspan></text>
+  </g>
+  <g
+     id="g1898">
+    <path
+       d="M 101.51193,85.931038 A 9.4429712,9.4429712 0 1 1 82.625991,85.931038 A 9.4429712,9.4429712 0 1 1 101.51193,85.931038 z"
+       transform="matrix(1.005736,0,0,1.005736,9.444073,-2.910669)"
+       id="path4566"
+       style="fill:#fe5050;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       x="98.679039"
+       y="87.819618"
+       id="text6356"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="98.679039"
+         y="87.819618"
+         id="tspan6358"
+         style="font-size:18px">+</tspan></text>
+  </g>
+  <path
+     d="M 101.51193,85.931038 A 9.4429712,9.4429712 0 1 1 82.625991,85.931038 A 9.4429712,9.4429712 0 1 1 101.51193,85.931038 z"
+     transform="matrix(1.005736,0,0,1.005736,-3.776086,-3.382817)"
+     id="path4568"
+     style="fill:#00ff33;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     d="M 101.51193,85.931038 A 9.4429712,9.4429712 0 1 1 82.625991,85.931038 A 9.4429712,9.4429712 0 1 1 101.51193,85.931038 z"
+     transform="matrix(1.005736,0,0,1.005736,9.444073,10.30949)"
+     id="path4570"
+     style="fill:#00ff33;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <g
+     id="g1893">
+    <path
+       d="M 101.51193,85.931038 A 9.4429712,9.4429712 0 1 1 82.625991,85.931038 A 9.4429712,9.4429712 0 1 1 101.51193,85.931038 z"
+       transform="matrix(1.005736,0,0,1.005736,-5.192532,11.72594)"
+       id="path4572"
+       style="fill:#fe5050;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       x="82.153847"
+       y="104.34483"
+       id="text6352"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="82.153847"
+         y="104.34483"
+         id="tspan6354"
+         style="font-size:18px">+</tspan></text>
+  </g>
+</svg>
