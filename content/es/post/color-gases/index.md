@@ -62,7 +62,7 @@ Aquí podéis ver una **animación** que muestra los **orbitales atómicos**:
 {{< tweet user="QuantumFracture" id="1571840836022722565" >}}
 </div>
 
-, y un **vídeo** donde se explica con más detalle, ambos de [**@QuantumFracture**](https://twitter.com/QuantumFracture):
+, y un **vídeo** donde se explican con más detalle, ambos de [**@QuantumFracture**](https://twitter.com/QuantumFracture):
 
 {{< youtube SOkxbYY5Fao >}}
 
