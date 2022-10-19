@@ -79,6 +79,10 @@ Proposat el **1913** per Niels **Bohr** per **explicar** l'**estabilitat** de la
 
 {{< /spoiler >}}
 
+{{% callout note %}}
+Si vols aprendre més sobre **espectres atòmics** et recomanem llegir [aquesta interessant **entrada** del **blog**](https://fisiquimicamente.com/blog/2022/10/19/de-que-color-son-los-gases/) (en espanyol).
+{{% /callout %}}
+
 #### Postulats
 Aquest model es basa en **tres postulats fonamentals**:
 

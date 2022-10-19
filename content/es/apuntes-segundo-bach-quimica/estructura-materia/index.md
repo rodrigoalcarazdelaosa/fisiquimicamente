@@ -90,6 +90,10 @@ Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de
 
 {{< /spoiler >}}
 
+{{% callout note %}}
+Si quieres aprender más sobre **espectros atómicos** te recomendamos leer [esta interesante **entrada** del **blog**]({{< relref "post/color-gases" >}}).
+{{% /callout %}}
+
 #### Postulados
 Este modelo se basa en **tres postulados fundamentales**:
 

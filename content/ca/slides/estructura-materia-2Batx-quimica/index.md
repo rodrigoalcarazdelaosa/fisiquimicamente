@@ -102,6 +102,10 @@ Com són els **espectres d'emissió** de la resta d’**elements** químics de l
 
 ---
 
+> Si vols aprendre més sobre **espectres atòmics** et recomanem llegir [aquesta interessant **entrada** del **blog**](https://fisiquimicamente.com/blog/2022/10/19/de-que-color-son-los-gases/) (en espanyol).
+
+---
+
 #### Postulats
 Aquest model es basa en **tres postulats fonamentals**:
 
