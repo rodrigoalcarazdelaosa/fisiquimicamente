@@ -49,7 +49,7 @@ Las estructuras de Lewis muestran cada átomo y su posición en la estructura de
 
 {{< spoiler text="Pincha aquí para ver cómo construir <strong>estructuras</strong> de <strong>Lewis</strong> <strong>paso a paso</strong>" >}}
 
-1. Dibujar la molécula de la forma más simétrica posible, colocando los elementos más electronegtivos en los extremos.
+1. Dibujar la molécula de la forma más simétrica posible, colocando los elementos más electronegativos en los extremos.
 2. Rodear cada elemento del número de electrones de valencia ($N_\mathrm v$).
 3. Calcular el número máximo de electrones de valencia cumpliendo la regla del octeto ($N_\mathrm{máx}$).
 4. Calcular el número de electrones enlazantes ($N_\mathrm{e} = N_\mathrm{máx} - N_\mathrm{v}$).
