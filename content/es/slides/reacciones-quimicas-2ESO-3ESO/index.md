@@ -52,6 +52,8 @@ Cualquier cambio en el que la **naturaleza** de la **sustancia no** se **modific
 #### Ejemplos
 Cambios de posición (movimientos), deformaciones, variaciones de temperatura, cambios de estado.
 
+> Si quieres **aprender más** sobre la **naturaleza** de los **cambios** de **estado**, te recomendamos leer [esta **entrada** del **blog** del **IES Valle del Saja**](http://www.fqsaja.com/?p=10513).
+
 ---
 
 ### Cambios químicos

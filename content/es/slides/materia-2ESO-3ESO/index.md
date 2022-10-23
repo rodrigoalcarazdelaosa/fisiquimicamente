@@ -205,6 +205,10 @@ La materia puede **cambiar** de **estado** al **variar** la **presión** o **tem
 
 ---
 
+> Si quieres **aprender más** sobre la **naturaleza** de los **cambios** de **estado**, te recomendamos leer [esta **entrada** del **blog** del **IES Valle del Saja**](http://www.fqsaja.com/?p=10513).
+
+---
+
 Además, **durante** un **cambio** de **estado** la **temperatura** permance **constante**, como se muestra en la siguiente curva de calentamiento de una sustancia pura:
 
 ---
