@@ -10,7 +10,7 @@ tags:
 - optics
 categories:
 - Physics
-weight: 5
+weight: 6
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

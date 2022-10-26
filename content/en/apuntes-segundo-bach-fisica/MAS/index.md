@@ -1,18 +1,19 @@
 ---
 title: Simple Harmonic Motion
-url: "/physics-chemistry-notes/16-17-year-olds/shm"
+url: "/physics-chemistry-notes/17-18-year-olds/physics/shm"
 subtitle: Description and Equations
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Description and Equations."
-breadcrumbs: ["notes","16-17-year-olds"]
+breadcrumbs: ["notes","17-18-year-olds","physics"]
 tags:
 - notes
-- 16-17-year-olds
+- 17-18-year-olds
 - motion
 - forces
 - energy
+- waves
 categories:
 - Physics
-weight: 7
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

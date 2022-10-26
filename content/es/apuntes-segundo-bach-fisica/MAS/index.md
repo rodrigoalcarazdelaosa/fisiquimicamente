@@ -1,21 +1,22 @@
 ---
 title: MAS
-url: "/recursos-fisica-quimica/apuntes/1bach/mas"
+url: "/recursos-fisica-quimica/apuntes/2bach/fisica/mas"
 subtitle: Movimiento armónico simple
 summary: "Cinemática, dinámica y energía del movimiento armónico simple."
-breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
+breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - leticia-cabezas
 tags:
 - apuntes
-- 1º Bach
+- 2º Bach
 - movimiento
 - fuerzas
 - energía
+- ondas
 categories:
 - Física
-weight: 8
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,7 +35,7 @@ links:
   name: Frikiexamen
   url: energia-MAS-frikiexamen.pdf  
 
-slides: MAS-1Bach  
+slides: MAS-2Bach-fisica  
 
 ---
 
@@ -42,7 +43,7 @@ slides: MAS-1Bach
 
 El **movimiento armónico simple** (MAS) es un tipo especial de **movimiento periódico** en el que la **fuerza restauradora** (elástica) sobre el objeto en movimiento es **directamente proporcional** a la magnitud del **desplazamiento** del objeto y actúa hacia su posición de equilibrio. El resultado es una **oscilación** que continúa indefinidamente salvo que sea inhibida por fricción o cualquier otra disipación de energía. Puede considerarse la **proyección unidimensional** del **movimiento circular uniforme** (MCU).
 
-{{< figure library="true" src="MAS-1Bach/MAS-orbita.gif" title="Movimiento armónico simple, mostrado en el espacio real y en el [espacio fásico](https://es.wikipedia.org/wiki/Espacio_fásico). La órbita es periódica. <br> Fuente: https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif" lightbox="false" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/MAS-orbita.gif" title="Movimiento armónico simple, mostrado en el espacio real y en el [espacio fásico](https://es.wikipedia.org/wiki/Espacio_fásico). La órbita es periódica. <br> Fuente: https://commons.wikimedia.org/wiki/File:Simple_Harmonic_Motion_Orbit.gif" lightbox="false" >}}
 
 Son **ejemplos** de **MAS** el [movimiento de una masa unida a un muelle](#ley-de-hooke), un [péndulo simple](#péndulo-simple) o un [*yugo escocés*](https://es.wikipedia.org/wiki/Yugo_escocés):
 
@@ -85,15 +86,15 @@ sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/
 
 ### Posición
 
-{{< figure library="true" src="MAS-1Bach/x-vs-t.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/x-vs-t.svg" title="" lightbox="false" width="100%" >}}
 
 ### Velocidad
 
-{{< figure library="true" src="MAS-1Bach/v-vs-t.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/v-vs-t.svg" title="" lightbox="false" width="100%" >}}
 
 ### Aceleración
 
-{{< figure library="true" src="MAS-1Bach/a-vs-t.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/a-vs-t.svg" title="" lightbox="false" width="100%" >}}
 
 ## Dinámica del MAS
 
@@ -118,7 +119,7 @@ Aplicando la **2ª ley de Newton** a una masa $m$ unida a un extremo de un muell
 		T = \frac{2\pi}{\omega} = 2\pi\sqrt{\frac{m}{k}};\quad f = \frac{1}{T} = \frac{1}{2\pi}\sqrt{\frac{k}{m}}
 		$$
 
-{{< figure library="true" src="MAS-1Bach/masa-muelle.svg" title="Traducida y adaptada de https://www.chegg.com/learn/physics/introduction-to-physics/harmonic-motion." lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/masa-muelle.svg" title="Traducida y adaptada de https://www.chegg.com/learn/physics/introduction-to-physics/harmonic-motion." lightbox="false" width="100%" >}}
 
 Puedes aprender más sobre **masas** y **resortes** con este excelente ***laboratorio***:
 
@@ -128,7 +129,7 @@ Puedes aprender más sobre **masas** y **resortes** con este excelente ***labora
 
 Consiste en una masa suspendida de un pivote de forma que puede oscilar libremente.
 
-{{< figure library="true" src="MAS-1Bach/pendulo-simple.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:PendulumForces.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/pendulo-simple.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:PendulumForces.svg." lightbox="false" width="100%" >}}
 
 En este caso la **componente tangencial** del **peso** actúa como **fuerza recuperadora**, acelerando la masa hacia su posición de equilibrio, provocando la oscilación alrededor de ella:
 \begin{align*}
@@ -181,9 +182,9 @@ $$
 E_\mathrm m = E_\mathrm c + E_\mathrm p = \frac{1}{2}k\left(A^2-x^2\right) + \frac{1}{2}kx^2 = \frac{1}{2}kA^2
 $$
 
-{{< figure library="true" src="MAS-1Bach/energias-vs-x.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/energias-vs-x.svg" title="" lightbox="false" width="100%" >}}
 
-{{< figure library="true" src="MAS-1Bach/energias-vs-t.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/energias-vs-t.svg" title="" lightbox="false" width="100%" >}}
 
 Puedes aprender más sobre la **energía** del **MAS** con este excelente 🧵 **hilo** de [**Rayleigh Lord**](https://twitter.com/RayleighLord) sobre el **oscilador armónico simple**:
 

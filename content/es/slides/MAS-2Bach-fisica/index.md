@@ -1,7 +1,7 @@
 ---
 title: MAS
 summary: "Cinemática, dinámica y energía del movimiento armónico simple."
-url: "/recursos-fisica-quimica/apuntes/1bach/mas/diapositivas"
+url: "/recursos-fisica-quimica/apuntes/2bach/fisica/mas/diapositivas"
 
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
@@ -39,7 +39,7 @@ El resultado es una **oscilación** que continúa indefinidamente salvo que sea 
 
 Puede considerarse la **proyección unidimensional** del **movimiento circular uniforme** (MCU).
 
-{{< figure library="true" src="MAS-1Bach/MAS-orbita.gif" title="Movimiento armónico simple, mostrado en el espacio real y en el [espacio fásico](https://es.wikipedia.org/wiki/Espacio_fásico). La órbita es periódica." lightbox="false" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/MAS-orbita.gif" title="Movimiento armónico simple, mostrado en el espacio real y en el [espacio fásico](https://es.wikipedia.org/wiki/Espacio_fásico). La órbita es periódica." lightbox="false" >}}
 
 ---
 
@@ -138,19 +138,19 @@ sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/
 
 ### Posición
 
-{{< figure library="true" src="MAS-1Bach/x-vs-t.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/x-vs-t.svg" title="" lightbox="false" width="100%" >}}
 
 ---
 
 ### Velocidad
 
-{{< figure library="true" src="MAS-1Bach/v-vs-t.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/v-vs-t.svg" title="" lightbox="false" width="100%" >}}
 
 ---
 
 ### Aceleración
 
-{{< figure library="true" src="MAS-1Bach/a-vs-t.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/a-vs-t.svg" title="" lightbox="false" width="100%" >}}
 
 {{% /section %}}
 
@@ -198,7 +198,7 @@ $$
 
 ---
 
-{{< figure library="true" src="MAS-1Bach/masa-muelle.svg" title="" lightbox="false" width="50%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/masa-muelle.svg" title="" lightbox="false" width="50%" >}}
 
 ---
 
@@ -212,7 +212,7 @@ Puedes aprender más sobre **masas** y **resortes** con este excelente ***labora
 
 Consiste en una masa suspendida de un pivote de forma que puede oscilar libremente.
 
-{{< figure library="true" src="MAS-1Bach/pendulo-simple.svg" title="" lightbox="false" width="40%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/pendulo-simple.svg" title="" lightbox="false" width="40%" >}}
 
 ---
 
@@ -309,11 +309,11 @@ $$
 
 ---
 
-{{< figure library="true" src="MAS-1Bach/energias-vs-x.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/energias-vs-x.svg" title="" lightbox="false" width="100%" >}}
 
 ---
 
-{{< figure library="true" src="MAS-1Bach/energias-vs-t.svg" title="" lightbox="false" width="100%" >}}
+{{< figure library="true" src="MAS-2Bach-fisica/energias-vs-t.svg" title="" lightbox="false" width="100%" >}}
 
 ---
 
