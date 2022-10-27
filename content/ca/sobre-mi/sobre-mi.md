@@ -26,13 +26,13 @@ subtitle = ""
   icon_pack = "tgs"
   name = "[Trajectòria professional](trayectoria-professional)"
   description = ""
-  
+
 [[feature]]
-  icon = "[✈️](estades-recerca)"
-  icon_pack = "emoji"
+  icon = "avion"
+  icon_link = "estades-recerca/"
+  icon_pack = "tgs"
   name = "[Estades de recerca](estades-recerca)"
   description = ""
-   
 
 [design.background]
   # Apply a background color, gradient, or image.

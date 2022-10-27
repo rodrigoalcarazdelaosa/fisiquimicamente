@@ -26,13 +26,13 @@ subtitle = ""
   icon_pack = "tgs"  
   name = "[Career Path](career-path)"
   description = ""
-  
+
 [[feature]]
-  icon = "[✈️](research-stays)"
-  icon_pack = "emoji"
+  icon = "avion"
+  icon_link = "research-stays/"
+  icon_pack = "tgs"  
   name = "[Research Stays](research-stays)"
   description = ""
-   
 
 [design.background]
   # Apply a background color, gradient, or image.

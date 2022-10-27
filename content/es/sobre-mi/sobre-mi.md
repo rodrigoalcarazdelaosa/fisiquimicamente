@@ -20,8 +20,6 @@ subtitle = ""
   name = "[Intereses y formación](intereses-formacion)"
   description = "[🎸 Guitarra](intereses-formacion/#guitarra)"
 
-  
-  
 [[feature]]  
   icon = "pasos"
   icon_link = "trayectoria-profesional/"
@@ -30,8 +28,9 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "[✈️](estancias-investigacion)"
-  icon_pack = "emoji"
+  icon = "avion"
+  icon_link = "estancias-investigacion/"
+  icon_pack = "tgs"
   name = "[Estancias de investigación](estancias-investigacion)"
   description = ""
    
