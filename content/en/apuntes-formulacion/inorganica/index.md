@@ -19,16 +19,11 @@ image:
   caption: https://iupac.org/what-we-do/books/redbook/
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#   icon: file-download
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon: file-download
-#   name: Póster
-#   url: MAS_poster.pdf
+links:
+- icon_pack: fas
+  icon: external-link-alt
+  name: IUPAC Guide
+  url: https://iupac.org/wp-content/uploads/2018/05/Inorganic-Brief-Guide-V1-3.pdf
 
 ---
 
