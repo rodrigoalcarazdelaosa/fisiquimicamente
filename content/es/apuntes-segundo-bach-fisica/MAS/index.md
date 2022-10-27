@@ -6,6 +6,7 @@ summary: "Cinemática, dinámica y energía del movimiento armónico simple."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 - leticia-cabezas
 tags:
 - apuntes
@@ -30,6 +31,10 @@ links:
   icon: file-download
   name: Póster
   url: MAS-poster.pdf
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: MAS-ejercicios.pdf
 - icon_pack: fas
   icon: file-download
   name: Frikiexamen
