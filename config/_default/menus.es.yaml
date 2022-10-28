@@ -16,7 +16,7 @@ main:
     url: recursos-fisica-quimica/actividades-juegos
     parent: recursos-fyq
     weight: 2
-  - name: 📜 Historia de la Ciencia
+  - name: 📖 Historia de la Ciencia
     url: recursos-fisica-quimica/historia-ciencia
     parent: recursos-fyq
     weight: 3

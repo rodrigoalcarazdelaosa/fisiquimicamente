@@ -9,7 +9,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 breadcrumbs: [""]
 ---
 
-Los [📚 <span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [📜 <span style="font-variant:small-caps;">**biografías científicas**</span>]({{< ref "/historia-ciencia" >}}), [📝 <span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}), [🤝 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y entradas del [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) están bajo una [Licencia de Creative Commons Atribución-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
+Los [📚 <span style="font-variant:small-caps;">**apuntes**</span>]({{< ref "/apuntes" >}}), [📖 <span style="font-variant:small-caps;">**biografías científicas**</span>]({{< ref "/historia-ciencia" >}}), [📝 <span style="font-variant:small-caps;">**recursos para oposiciones**</span>]({{< ref "/oposiciones" >}}), [🤝 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}) y entradas del [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) están bajo una [Licencia de Creative Commons Atribución-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
 
 <div align="center" style="margin-bottom: 1rem">
 <i class="fab fa-creative-commons fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-by fa-2x aria-hidden="true" "></i><i class="fab fa-creative-commons-sa fa-2x aria-hidden="true" "></i>

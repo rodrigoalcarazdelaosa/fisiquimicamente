@@ -19,7 +19,7 @@ subtitle = ""
   icon_link = "recursos-fisica-quimica/"
   icon_pack = "lottie"
   name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
-  description = "[📚 Apuntes](recursos-fisica-quimica/apuntes) · [🧩 Actividades/juegos](recursos-fisica-quimica/actividades-juegos) · [📜 Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓 EBAU](recursos-fisica-quimica/ebau) · [📝 Oposiciones](recursos-fisica-quimica/oposiciones) · [☢️ Radiofísica](recursos-fisica-quimica/radiofisica)"  
+  description = "[📚 Apuntes](recursos-fisica-quimica/apuntes) · [🧩 Actividades/juegos](recursos-fisica-quimica/actividades-juegos) · [📖 Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓 EBAU](recursos-fisica-quimica/ebau) · [📝 Oposiciones](recursos-fisica-quimica/oposiciones) · [☢️ Radiofísica](recursos-fisica-quimica/radiofisica)"  
   
 [[feature]]
   icon = "tutoriales"

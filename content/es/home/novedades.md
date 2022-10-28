@@ -42,7 +42,7 @@ content:
       text: ¡Atrápalo! | 2.º ESO – 3.º ESO
       url: '/recursos-fisica-quimica/actividades-juegos/2eso-3eso/atrapalo'
   - title: 🗞️ Novedades
-    content: '📜 Última biografía científica'
+    content: '📖 Última biografía científica'
     align: center
     background:
       position: center

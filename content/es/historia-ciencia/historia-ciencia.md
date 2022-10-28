@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "📜 Historia de la Ciencia"
+title = "📖 Historia de la Ciencia"
 subtitle = "Biografías y principales contribuciones de los grandes científicos y científicas de la historia"
 
 [content]
