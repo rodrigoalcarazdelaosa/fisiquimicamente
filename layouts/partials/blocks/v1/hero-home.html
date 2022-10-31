@@ -119,11 +119,11 @@
           document.addEventListener('wcThemeChange', (e) => {
             // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
             if (e.detail.isDarkTheme()) {
-              const player = document.querySelector("#tgs-home");
-              player.load("/media/lottie/home-dark.tgs");
+              const player = document.querySelector("tgs-player");
+              player.load({{ $image.RelPermalink }}.slice(0, -4).concat("-dark.tgs"));
             } else {
-              const player = document.querySelector("#tgs-home");
-              player.load("/media/lottie/home.tgs");
+              const player = document.querySelector("tgs-player");
+              player.load("{{ $image.RelPermalink }}");
             }
             });
           </script>
