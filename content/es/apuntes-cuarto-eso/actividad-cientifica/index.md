@@ -118,9 +118,9 @@ Son aquellas **magnitudes** que quedan **descritas** por:
 #### Ejemplos
 Posición, desplazamiento, velocidad, aceleración, fuerza...
 
-## Magnitudes fundamentales y derivadas
-### Magnitudes fundamentales del SI
-El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fundamentales**:
+## Magnitudes básicas y derivadas
+### Magnitudes básicas del SI
+El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes básicas**:
 
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | :-------: | 
@@ -139,7 +139,7 @@ El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018.
 {{% /callout %}}
 
 ### Magnitudes derivadas
-Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes fundamentales.
+Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes básicas.
 
 #### Ejemplos		
 Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
@@ -151,7 +151,7 @@ Descárgate estas [**tablas-resumen**](tablas-magnitudes-unidades.pdf) para ver 
 {{% /callout %}}
 
 ## Análisis dimensional
-El **análisis dimensional** nos permite **relacionar** las **dimensiones** (unidades) de una **magnitud derivada** con las de las **magnitudes fundamentales** en las que se basa.
+El **análisis dimensional** nos permite **relacionar** las **dimensiones** (unidades) de una **magnitud derivada** con las de las **magnitudes básicas** en las que se basa.
 
 ### Ecuación de dimensiones
 Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sustituimos las magnitudes físicas por sus dimensiones (unidades). Para denotar las dimensiones de una magnitud utilizamos la notación de **corchetes** $[\ ]$. **Destacamos**:

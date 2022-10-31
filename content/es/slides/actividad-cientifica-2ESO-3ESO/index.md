@@ -115,7 +115,7 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
-#### Magnitudes fundamentales del SI
+#### Magnitudes básicas del SI
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | :-------: | 
 | Tiempo   | Segundo | s |

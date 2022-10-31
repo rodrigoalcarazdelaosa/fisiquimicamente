@@ -1,5 +1,5 @@
 ---
-title: Actualització d'unitats de base de l'SI
+title: Actualització de les unitats bàsiques del SI
 subtitle: Ara totes definides en funció de constants físiques universals 
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Ara totes definides en funció de constants físiques universals."
 breadcrumbs: ["blog"]

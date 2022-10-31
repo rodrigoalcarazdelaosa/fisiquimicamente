@@ -20,7 +20,7 @@ slides:
 
 - [La investigación científica](#/1)
 - [Magnitudes escalares y vectoriales](#/2)
-- [Magnitudes fundamentales y derivadas](#/3)
+- [Magnitudes básicas y derivadas](#/3)
 - [Análisis dimensional](#/4)
 - [Errores en la medida](#/5)
 - [Expresión de resultados](#/6)
@@ -182,9 +182,9 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 
 {{% section %}}
 
-## Magnitudes fundamentales y derivadas
+## Magnitudes básicas y derivadas
 
-- [Magnitudes fundamentales del SI](#/3/1)
+- [Magnitudes básicas del SI](#/3/1)
 - [Magnitudes derivadas](#/3/5)
 
 (continúa hacia abajo)
@@ -193,8 +193,8 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 
 ---
 
-### Magnitudes fundamentales del SI
-El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fundamentales**:
+### Magnitudes básicas del SI
+El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes básicas**:
 
 ---
 
@@ -219,7 +219,7 @@ El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes fund
 ---
 
 ### Magnitudes derivadas
-Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes fundamentales.
+Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes básicas.
 
 ---
 
@@ -233,7 +233,7 @@ Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energ�
 {{% section %}}
 
 ## Análisis dimensional
-El **análisis dimensional** nos permite **relacionar** las **dimensiones** (unidades) de una **magnitud derivada** con las de las **magnitudes fundamentales** en las que se basa.
+El **análisis dimensional** nos permite **relacionar** las **dimensiones** (unidades) de una **magnitud derivada** con las de las **magnitudes básicas** en las que se basa.
 
 (continúa hacia abajo)
 

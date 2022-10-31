@@ -1,5 +1,5 @@
 ---
-title: Actualización de unidades de base del SI
+title: Actualización de las unidades básicas del SI
 subtitle: Ahora todas definidas en función de constantes físicas universales 
 summary: Ahora todas definidas en función de constantes físicas universales.
 breadcrumbs: ["blog"]

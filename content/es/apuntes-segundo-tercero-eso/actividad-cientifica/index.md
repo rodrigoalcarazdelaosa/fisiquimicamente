@@ -115,7 +115,7 @@ o con estas excelentes **prácticas virtuales** del [Departamento de Física y Q
 Una **magnitud** es toda propiedad que se puede medir. **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**.
 
 ### Sistema Internacional de Unidades (SI)
-El Sistema Internacional de Unidades (SI) define siete **magnitudes fundamentales**:
+El Sistema Internacional de Unidades (SI) define siete **magnitudes básicas**:
 
 | Magnitud | Unidad | Símbolo |
 | -------- | ------ | :-------: | 
