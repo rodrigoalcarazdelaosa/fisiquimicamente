@@ -107,5 +107,5 @@ subtitle = "📓 2.º Bach ⚗️ Química"
 +++
 
 {{% callout note %}}
-**Repasa** los contenidos de **Química** de **1.º Bach** con estos [**frikiexámenes**](repaso-quimica-1Bach-frikiexamenes.pdf), cortesía de **{{% mention leticia-cabezas %}}**.
+**Repasa** los contenidos de **Química** de **1.º Bach** con estos [**ejercicios**](repaso-quimica-1Bach-ejercicios.pdf), cortesía de **{{% mention alba-lopez-valenzuela %}}**, o estos [**frikiexámenes**](repaso-quimica-1Bach-frikiexamenes.pdf), cortesía de **{{% mention leticia-cabezas %}}**.
 {{% /callout %}}
