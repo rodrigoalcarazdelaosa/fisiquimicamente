@@ -61,7 +61,7 @@ $$
 
 ### Concentración en masa
 $$
-c = \frac{m_\text{soluto}}{V_\text{disolución}}\cdot 100
+c = \frac{m_\text{soluto}}{V_\text{disolución}}
 $$
 
 Suele expresarse en g/L.
