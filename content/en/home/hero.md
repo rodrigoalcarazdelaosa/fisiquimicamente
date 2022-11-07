@@ -3,7 +3,7 @@ widget: hero-home
 headless: true
 weight: 1
 title: PhysiChemically
-hero_media: lottie/home-halloween.tgs
+hero_media: lottie/home.tgs
 cta:
   label: '**Explore**'
   url: "#explore"
