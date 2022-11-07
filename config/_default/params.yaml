@@ -43,7 +43,7 @@ header:
 # Site footer
 
 footer:
-  widget: custom
+  block: custom
   show_translations: true
   text: '&copy; 2020&ndash;{year} Rodrigo Alcaraz de la Osa'
   copyright:
