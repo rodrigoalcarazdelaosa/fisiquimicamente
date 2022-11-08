@@ -45,6 +45,8 @@ links:
 
 <iframe src="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
 
+<!-- https://twitter.com/fqsaja1/status/1587725310254092289?s=46&t=zkXhrFYWPeJnsLFJHsEc8A -->
+
 Apuntes sobre ondas, en formato texto y póster (tipo _chuleta_).
 
 {{% callout soon %}}
