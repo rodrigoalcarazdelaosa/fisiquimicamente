@@ -106,12 +106,6 @@ extensions:
   academicons:
     enable: false
 
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
-
 sharing_image: sharing.png
 sharing_image_en: sharing-en.png
 sharing_image_ca: sharing-ca.png
