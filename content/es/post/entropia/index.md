@@ -24,6 +24,11 @@ Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="BTeseracto" id="1484224720102989828" >}}
 </div>
+
+Además, en este magnífico hilo [**Cuentos Cuánticos**](https://twitter.com/Cuent_Cuanticos) nos argumenta por qué la **entropía** debería ser **adimensional**:
+<div align="center">
+{{< tweet user="Cuent_Cuanticos" id="1590286557696917506" >}}
+</div>
 {{% /callout %}}
 
 Empecemos proponiendo un caso concreto bastante típico. Tenemos una caja dividida por una pared: una mitad de la caja está llena de un gas, la otra está vacía. ¿Qué pasará si quitamos la pared separadora? La respuesta es bastante intuitiva. El gas se expandirá y llenará todo el espacio, y con ello la [**entropía**](https://es.wikipedia.org/wiki/Entrop%C3%ADa) aumentará. ¿Por qué aumenta? ¿Es porque el sistema ahora es más caótico o está más desordenado? No, como ya hemos dicho, [la entropía no entiende de desorden](https://es.wikipedia.org/wiki/Entrop%C3%ADa#Entrop%C3%ADa_y_desorden).
