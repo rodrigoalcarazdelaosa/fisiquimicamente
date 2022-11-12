@@ -226,6 +226,10 @@ Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes bási
 #### Ejemplos		
 Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
 
+---
+
+> Descárgate estas [**tablas-resumen**](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/4eso/actividad-cientifica/tablas-magnitudes-unidades.pdf) para ver más ejemplos de **magnitudes** y sus **unidades**. También puedes **aprender más** sobre **magnitudes**, **unidades** y **símbolos** de **Química Física** con este [**resumen conciso** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/09/Español-Un-Resumen-Conciso-de-Magnitudes-Unidades-y-Símbolos-en-Química-Física_-20220829.pdf).
+
 {{% /section %}}
 
 ---

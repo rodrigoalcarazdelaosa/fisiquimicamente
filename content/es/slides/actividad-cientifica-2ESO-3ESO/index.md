@@ -149,7 +149,7 @@ Una **magnitud** es toda propiedad que se puede medir.
 
 ---
 
-> **Descubre** las distintas **escalas** del **universo** con [esta excelente **animación interactiva**](https://htwins.net/scale2/).
+> **Descubre** las distintas **escalas** del **universo** con [esta excelente **animación interactiva**](https://htwins.net/scale2/). También puedes **aprender más** sobre **magnitudes**, **unidades** y **símbolos** de **Química Física** con este [**resumen conciso** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/09/Español-Un-Resumen-Conciso-de-Magnitudes-Unidades-y-Símbolos-en-Química-Física_-20220829.pdf).
 
 ---
 

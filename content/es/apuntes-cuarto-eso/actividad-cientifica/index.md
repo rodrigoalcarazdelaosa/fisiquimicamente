@@ -119,6 +119,7 @@ Son aquellas **magnitudes** que quedan **descritas** por:
 Posición, desplazamiento, velocidad, aceleración, fuerza...
 
 ## Magnitudes básicas y derivadas
+
 ### Magnitudes básicas del SI
 El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes básicas**:
 
@@ -146,7 +147,7 @@ Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energ�
 
 {{% callout note %}}
 
-Descárgate estas [**tablas-resumen**](tablas-magnitudes-unidades.pdf) para ver más ejemplos de **magnitudes** y sus **unidades**.
+Descárgate estas [**tablas-resumen**](tablas-magnitudes-unidades.pdf) para ver más ejemplos de **magnitudes** y sus **unidades**. También puedes **aprender más** sobre **magnitudes**, **unidades** y **símbolos** de **Química Física** con este [**resumen conciso** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/09/Español-Un-Resumen-Conciso-de-Magnitudes-Unidades-y-Símbolos-en-Química-Física_-20220829.pdf).
 
 {{% /callout %}}
 
