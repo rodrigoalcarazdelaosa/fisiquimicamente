@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "¿De qué color son los gases?"
-      url: 'blog/2022/10/19/de-que-color-son-los-gases/'
+      text: "Normas de ortografía en Física y Química"
+      url: 'blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/'
 ---

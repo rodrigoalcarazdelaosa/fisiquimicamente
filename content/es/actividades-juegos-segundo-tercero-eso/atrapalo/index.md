@@ -29,7 +29,7 @@ links:
   url: cartas.pdf
 ---
 
-{{% callout note %}}
+{{% callout thanks %}}
 Agradecerle a {{% mention pablo-ortega-rodriguez %}} que me haya cedido las imágenes para hacer el juego.
 {{% /callout %}}
 

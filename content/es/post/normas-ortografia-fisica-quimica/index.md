@@ -11,6 +11,9 @@ tags:
 categories:
 - Física
 - Química
+image:
+  preview_only: true
+  
 links:
 - icon_pack: fas
   icon: file-download
@@ -49,6 +52,10 @@ En esta entrada repasamos 7 **normas** de **ortografía** básicas en **Física*
 <div align="center">
 {{< tweet user="docenteflipado" id="1463938835398725640" >}}
 </div>
+
+{{% callout thanks %}}
+Agradecerle a [OꓷⱯԀԀIꓶℲ](https://twitter.com/docenteflipado) que nos haya cedido los PDFs de cada una de las infografías, que puedes descargar pinchando en los botones de arriba.
+{{% /callout %}}
 
 {{% toc %}}
 
