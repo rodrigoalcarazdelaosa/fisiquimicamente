@@ -588,6 +588,9 @@ Se pueden dar entre **moléculas polares** (dipolo-dipolo, más fuertes cuanto m
 ---
 
 ### Enlaces de hidrógeno
+
+> No confundir con los llamados [**puentes de hidrógeno**]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#3-enlaces-de-hidrógeno-vs-puentes-de-hidrógeno" >}}).
+
 Son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas que contienen átomos de **hidrógeno** unidos a átomos de **nitrógeno** (N), **oxígeno** (O) o **flúor** (F).
 
 ---
