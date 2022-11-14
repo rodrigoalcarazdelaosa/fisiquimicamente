@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: ¡Atrápalo! | 2.º ESO – 3.º ESO
-      url: '/recursos-fisica-quimica/actividades-juegos/2eso-3eso/atrapalo'
+      text: Distancia de seguridad | 4.º ESO
+      url: '/recursos-fisica-quimica/actividades-juegos/4eso/distancia-seguridad/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
