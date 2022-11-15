@@ -30,6 +30,10 @@ links:
   name: Póster
   url: leyes-fundamentales-quimica-poster.pdf
 - icon_pack: fas
+  icon: external-link-alt
+  name: Ejercicios
+  url: https://drive.google.com/file/d/13uu0I91bKV4gfYCmoWBh3wSgCLKbOdNl/view
+- icon_pack: fas
   icon: file-download
   name: Frikiexámenes
   url: leyes-fundamentales-quimica-frikiexamenes.pdf  
