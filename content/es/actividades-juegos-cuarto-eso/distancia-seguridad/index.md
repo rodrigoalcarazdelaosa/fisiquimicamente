@@ -2,7 +2,7 @@
 title: Distancia de seguridad
 url: "/recursos-fisica-quimica/actividades-juegos/4eso/distancia-seguridad"
 subtitle: ¡Seguridad al volante!
-summary: "¡Seguridad al volante!"
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>¡Seguridad al volante!"
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-4eso"]
 tags:
 - actividades

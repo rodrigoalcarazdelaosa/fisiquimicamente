@@ -2,7 +2,7 @@
 title: ¡Atrápalo!
 url: "/recursos-fisica-quimica/actividades-juegos/2eso-3eso/atrapalo"
 subtitle: Material de laboratorio
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Juego educativo con el que enseñar el material de laboratorio a nuestro alumnado."
+summary: "Juego educativo con el que enseñar el material de laboratorio a nuestro alumnado."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso-3eso"]
 authors:
 - miguel-quiroga
