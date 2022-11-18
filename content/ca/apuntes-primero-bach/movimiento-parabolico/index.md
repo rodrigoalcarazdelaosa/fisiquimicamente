@@ -8,6 +8,7 @@ tags:
 - apunts
 - 1r Batx
 - moviment
+- projectils
 categories:
 - Física
 weight: 4

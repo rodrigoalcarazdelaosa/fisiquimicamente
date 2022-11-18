@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Normas de ortografía en Física y Química"
-      url: 'blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/'
+      text: "¿Por qué la Luna no tiene atmósfera?"
+      url: 'blog/2022/11/21/por-que-la-luna-no-tiene-atmosfera/'
 ---

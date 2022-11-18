@@ -8,6 +8,7 @@ tags:
 - notes
 - 16-17-year-olds
 - motion
+- projectiles
 categories:
 - Physics
 weight: 4

@@ -11,6 +11,7 @@ tags:
 - apuntes
 - 1º Bach
 - movimiento
+- proyectiles
 categories:
 - Física
 weight: 4
