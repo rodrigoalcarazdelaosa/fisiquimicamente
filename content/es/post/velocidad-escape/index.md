@@ -52,7 +52,7 @@ Un tema relacionado con esto es el rango de velocidades para poner un objeto en 
 
 Sigamos con nuestra entrada y analicemos la velocidad de escape de nuestro planeta. Para la Tierra obtenemos una velocidad de escape de 11.2&thinsp;km/s, 33 veces la velocidad del sonido en el aire. Cualquier objeto lanzado a menor velocidad caerá de nuevo. Como veis, el valor depende de la masa del planeta, *M*, y de su radio, *R*: hace falta una mayor velocidad a mayor *M* y menor *R*.
 
-![velocidad de escape](velocidad-escape.jpg "Como estamos en la superficie del planeta, lanzamos la pelota desde una distancia de su centro igual al radio de la Tierra (que asumimos esférica), de ahí que se hable del radio del planeta. Adaptada de: https://ualr.edu/tv/2021/05/27/june-2021-black-hole-summer/escape-velocity/")
+![velocidad de escape](velocidad-escape.jpg "Como estamos en la superficie del planeta, lanzamos la pelota desde una distancia de su centro igual al radio de la Tierra (que asumimos esférica), de ahí que se hable del radio del planeta. Adaptada de https://ualr.edu/tv/2021/05/27/june-2021-black-hole-summer/escape-velocity/")
 
 Quizá lo más interesante sea de qué NO depende la velocidad de escape. En este modelo NO depende de la masa del objeto que lanzamos[^2]. Por tanto, en la gráfica de debajo, que ampliaremos más adelante, cada planeta (punto naranja) tiene su velocidad de escape (eje y).
 

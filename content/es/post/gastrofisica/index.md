@@ -279,7 +279,7 @@ Educación Secundaria.
 
 Cuando se derrama una pequeña cantidad de líquido sobre una superficie considerablemente más caliente que su punto de ebullición, el tiempo de evaporación aumenta. Por lo tanto, la vida útil de la gota se alarga. Esto se conoce como el [**efecto Leidenfrost**](https://es.wikipedia.org/wiki/Efecto_Leidenfrost). El fundamento físico del efecto Leidenfrost reside en la capa de vapor que se crea bajo la gota. Esta capa sostiene la gota y la aísla de la superficie caliente.
 
-{{< figure src="efecto-leidenfrost.svg" title="Efecto Leidenfrost en una gota. Adaptada de: https://commons.wikimedia.org/wiki/File:Leidenfrost_droplet_es.svg." lightbox="false" width="100%" >}}
+{{< figure src="efecto-leidenfrost.svg" title="Efecto Leidenfrost en una gota. Adaptada de https://commons.wikimedia.org/wiki/File:Leidenfrost_droplet_es.svg." lightbox="false" width="100%" >}}
 
 La formación y el comportamiento de la capa dependen de muchos parámetros, tanto del líquido como de la rugosidad de la superficie. Dada esta complejidad, no es fácil predecir las condiciones exactas en las que se observa el efecto Leidenfrost.
 
