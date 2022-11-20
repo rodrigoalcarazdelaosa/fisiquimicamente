@@ -3,7 +3,7 @@ title: ¿Por qué la Luna no tiene atmósfera?
 subtitle: Velocidad de escape y atmósferas planetarias
 summary: "Velocidad de escape y atmósferas planetarias."
 breadcrumbs: ["blog"]
-date: "2022-11-21T00:00:00Z"
+date: "2022-11-21T00:00:00+02:00"
 authors:
 - manuel-alonso-orts
 tags:
