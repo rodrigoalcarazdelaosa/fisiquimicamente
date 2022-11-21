@@ -114,13 +114,13 @@ También puedes ver estos excelentes vídeos del [Departamento de Física y Quí
 {{< youtube C-1iJRD-u_I >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1utKM4BKCW5uIAc-9ggCjRFioXHaP1Z7E/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1utKM4BKCW5uIAc-9ggCjRFioXHaP1Z7E/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 {{< youtube 3MXBhRjaIlE >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1oSsmSv0xhd2IH8j-9CubdC6aYFpT8NlV/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1oSsmSv0xhd2IH8j-9CubdC6aYFpT8NlV/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 ## Movimiento rectilíneo uniformemente acelerado (MRUA)
@@ -186,7 +186,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube PhfYb7y8cXY >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1ZC17GJcqX3h8rHlfdS43T9uBSkDrR8Oo/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1ZC17GJcqX3h8rHlfdS43T9uBSkDrR8Oo/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 ## Caída libre/lanzamiento vertical

@@ -117,7 +117,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube x2vUbOPB1W8 >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1NrmIRaarKCZvh8VdIhzvRDOAkJSPEwfK/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1NrmIRaarKCZvh8VdIhzvRDOAkJSPEwfK/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 ### Centrípeta $\vec f_\mathrm c$

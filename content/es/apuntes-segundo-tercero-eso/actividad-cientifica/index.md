@@ -103,11 +103,11 @@ o con estas excelentes **prácticas virtuales** del [Departamento de Física y Q
 
 {{< youtube 2GDKNIyOCSc >}}
 
-[Aquí](https://drive.google.com/file/d/1owiVZCn_q65ysah9wkTMEPT7nKGVclwe/view) puedes descargarte el **guión** de la **práctica**.
+[Aquí](https://drive.google.com/file/d/1owiVZCn_q65ysah9wkTMEPT7nKGVclwe/view) puedes descargarte el **guion** de la **práctica**.
 
 {{< youtube Y9gnmDfAmSw >}}
 
-[Aquí](https://drive.google.com/file/d/1-7Qnann0yZqy3oarmFUROKy72XRPU4fA/view) puedes descargarte el **guión** de la **práctica**.
+[Aquí](https://drive.google.com/file/d/1-7Qnann0yZqy3oarmFUROKy72XRPU4fA/view) puedes descargarte el **guion** de la **práctica**.
 
 {{% /callout %}}
 

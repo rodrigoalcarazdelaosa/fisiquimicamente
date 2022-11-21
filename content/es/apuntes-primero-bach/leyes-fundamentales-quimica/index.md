@@ -61,7 +61,7 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube A9D4ARMV0WM >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1vbY3zlpiMDH-RMqIduKnndgPNttzQJfh/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1vbY3zlpiMDH-RMqIduKnndgPNttzQJfh/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 	
 ## Ley de las proporciones definidas o ley de Proust
@@ -78,7 +78,7 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube fPAMzYfUUds >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1amvrMuqu1OUXAC5njaDNjv5WIOq4Vd1v/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1amvrMuqu1OUXAC5njaDNjv5WIOq4Vd1v/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 	
 ## Ley de las proporciones múltiples o ley de Dalton
@@ -128,7 +128,7 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube 9LApku_r5eg >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1Q16VZEKu5iUaK1f9rh5beBOoY1Y7TN77/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1Q16VZEKu5iUaK1f9rh5beBOoY1Y7TN77/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 ### Ley de las presiones parciales o ley de Dalton

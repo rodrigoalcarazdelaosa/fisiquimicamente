@@ -265,5 +265,5 @@ Te recomendamos ver este precioso vídeo/corto-documental del [Departamento de F
 {{< youtube KFcRVAjuxAM >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1wsDhdlJNQKB2VvzHSoMPOMhqPSKEyVP0/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1wsDhdlJNQKB2VvzHSoMPOMhqPSKEyVP0/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}

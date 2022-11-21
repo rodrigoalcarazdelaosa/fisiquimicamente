@@ -233,7 +233,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube o7v9Kbs6e8Y >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1mPRJVEBM1Fvsm_Q6m0xxHJ4By6MDpdzz/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1mPRJVEBM1Fvsm_Q6m0xxHJ4By6MDpdzz/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 ## Física de la atmósfera

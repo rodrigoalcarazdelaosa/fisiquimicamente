@@ -87,7 +87,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube YQCM7ayoOr4 >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1GhSAU8jutcdpTqWXaXcn9JFY1wRUR5KI/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1GhSAU8jutcdpTqWXaXcn9JFY1wRUR5KI/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 ## Máquinas simples

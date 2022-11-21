@@ -215,7 +215,7 @@ También puedes ver esta excelente **práctica virtual** del [Departamento de F�
 {{< youtube j1N81E1ys34 >}}
 
 {{% callout gdrive %}}
-[Aquí](https://drive.google.com/file/d/1Bycu4IzGGw0OgaXdV7oo5Cko5C4TWa4H/view) puedes descargarte el **guión** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1Bycu4IzGGw0OgaXdV7oo5Cko5C4TWa4H/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 ## Modelo cinético-molecular
