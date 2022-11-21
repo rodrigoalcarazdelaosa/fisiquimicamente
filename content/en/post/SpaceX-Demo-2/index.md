@@ -10,6 +10,7 @@ tags:
 - blog
 - motion
 - gravitation
+- projectiles
 categories:
 - Physics
 

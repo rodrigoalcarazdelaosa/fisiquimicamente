@@ -10,6 +10,7 @@ tags:
 - blog
 - moviment
 - gravitació
+- projectils
 categories:
 - Física
 
