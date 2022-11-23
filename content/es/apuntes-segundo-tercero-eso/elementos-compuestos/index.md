@@ -41,15 +41,6 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 
 {{% embed_pdf url="https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos.pdf" filename="tabla-periodica-elementos.pdf" %}}
 
-### Propiedades periódicas
-
-| Mismo periodo | Mismo grupo |
-| --- | --- |
-| Mismo número de capas electrónicas | Mismo número de e<sup>--</sup> en capa exterior |
-| $Z$ y $A$ aumentan $\rightarrow$ | $Z$ y $A$ aumentan $\downarrow$ |
-| Carácter metálico disminuye $\rightarrow$ | Carácter metálico aumenta $\downarrow$ |
-| Radio atómico disminuye $\rightarrow$ | Radio atómico aumenta $\downarrow$ |
-
 ## Clasificación de los elementos químicos
 Los elementos químicos pueden clasificarse en general en **metales**, **semimetales**, **no metales** y **gases nobles**, según sus **propiedades físicas** y **químicas comunes**.
 

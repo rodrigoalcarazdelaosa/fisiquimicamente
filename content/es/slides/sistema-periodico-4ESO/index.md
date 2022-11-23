@@ -193,6 +193,17 @@ La **tabla periódica de los elementos** organiza los **118 elementos** conocido
 </tbody>
 </table>
 
+---
+
+### Propiedades periódicas
+
+| Mismo periodo | Mismo grupo |
+| --- | --- |
+| Mismo número de capas electrónicas | Mismo número de e<sup>--</sup> en capa exterior |
+| $Z$ y $A$ aumentan $\rightarrow$ | $Z$ y $A$ aumentan $\downarrow$ |
+| Carácter metálico disminuye $\rightarrow$ | Carácter metálico aumenta $\downarrow$ |
+| Radio atómico disminuye $\rightarrow$ | Radio atómico aumenta $\downarrow$ |
+
 {{% /section %}}
 
 ---
