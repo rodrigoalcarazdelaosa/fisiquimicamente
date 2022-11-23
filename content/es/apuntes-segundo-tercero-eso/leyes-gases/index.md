@@ -50,13 +50,13 @@ donde:
 - $p_2$ es la presión final.
 - $V_2$ es el volumen final.
 
-{{< figure library="true" src="leyes-gases-3ESO/boyle.svg" title="**Ley de Boyle-Mariotte**. Al aumentar la presión, disminuye el volumen. Tomada de https://www.coursehero.com/sg/general-chemistry/ideal-gases/." width="100%" lightbox="false" >}}
+{{< figure library="true" src="leyes-gases-3ESO/ley-boyle-mariotte.svg" title="**Ley de Boyle-Mariotte**. Al aumentar la presión, disminuye el volumen." width="100%" lightbox="false" >}}
 
 ### Ejemplo
 {{% callout example %}}
 <br>
 
-> El volumen del aire en los pulmones de una persona es de $615\thinspace\mathrm{mL}$ aproximadamente, a una presión de $1\thinspace\mathrm{atm}$. La inhalación ocurre cuando la presión de los pulmones desciende a $0.989\thinspace\mathrm{atm}$. ¿A qué volumen se expanden los pulmones?
+> El volumen del aire en los pulmones de una persona es de 615&thinsp;mL aproximadamente, a una presión de 1&thinsp;atm. La inhalación ocurre cuando la presión de los pulmones desciende a 0.989&thinsp;atm. ¿A qué volumen se expanden los pulmones?
 
 ---
 
@@ -91,13 +91,13 @@ donde:
 - $V_2$ es el volumen final.
 - $T_2$ es la temperatura final (¡en K!).
 
-{{< figure library="true" src="leyes-gases-3ESO/charles.svg" title="**Ley de Charles**. Al aumentar el volumen, aumenta también la temperatura. Tomada de https://www.coursehero.com/sg/general-chemistry/ideal-gases/." width="100%" lightbox="false" >}}
+{{< figure library="true" src="leyes-gases-3ESO/ley-charles.svg" title="**Ley de Charles**. Al aumentar el volumen, aumenta también la temperatura." width="100%" lightbox="false" >}}
 
 ### Ejemplo
 {{% callout example %}}
 <br>
 
-> Si cierta masa de gas, a presión constante, llena un recipiente de $20\thinspace\mathrm{L}$ de capacidad a la temperatura de $124\thinspace\mathrm{^\circ C}$, ¿qué temperatura alcanzará la misma cantidad de gas a presión constante, si el volumen aumenta a $30\thinspace\mathrm{L}$?
+> Si cierta masa de gas, a presión constante, llena un recipiente de 20&thinsp;L de capacidad a la temperatura de 124&thinsp;&deg;C, ¿qué temperatura alcanzará la misma cantidad de gas a presión constante, si el volumen aumenta a 30&thinsp;L?
 
 ---
 
@@ -133,13 +133,13 @@ donde:
 - $p_2$ es la presión final.
 - $T_2$ es la temperatura final (¡en K!).
 
-{{< figure library="true" src="leyes-gases-3ESO/gay-lussac.svg" title="**Ley de Gay-Lussac**. Al aumentar la presión, aumenta también la temperatura. Tomada de https://www.coursehero.com/sg/general-chemistry/ideal-gases/." width="100%" lightbox="false" >}}
+{{< figure library="true" src="leyes-gases-3ESO/ley-gay-lussac.svg" title="**Ley de Gay-Lussac**. Al aumentar la presión, aumenta también la temperatura." width="100%" lightbox="false" >}}
 
 ### Ejemplo
 {{% callout example %}}
 <br>
 
-> Es peligroso que los envases de aerosoles se expongan al calor. Si una lata de fijador para el cabello a una presión de $4\thinspace\mathrm{atm}$ y a una temperatura ambiente de $27\thinspace\mathrm{^\circ C}$ se arroja al fuego y el envase alcanza los $402\thinspace\mathrm{^\circ C}$, ¿cuál será su nueva presión?
+> Es peligroso que los envases de aerosoles se expongan al calor. Si una lata de fijador para el cabello a una presión de 4&thinsp;atm y a una temperatura ambiente de 27&thinsp;&deg;C se arroja al fuego y el envase alcanza los 402&thinsp;&deg;C, ¿cuál será su nueva presión?
 
 ---
 
