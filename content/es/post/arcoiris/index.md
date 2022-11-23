@@ -104,7 +104,7 @@ Para obtener el ángulo para el cual se forma el arcoíris, necesitamos calcular
 \hat\imath_\mathrm{mín} &= \arccos{\sqrt{\frac{n^2-1}{3}}}
 \end{align*}
 
-Una vez conocemos el ángulo de incidencia que hace que la desviación sea mínima, para conocer a qué ángulo ve el arcoíris un observador terrestre, tenemos que tomar el [ángulo suplementario](https://es.wikipedia.org/wiki/Ángulos_suplementarios) de la desviación mínima $\hat d_\mathrm t$. A su vez, el índice de refracción del agua depende de la longitud de onda de la luz incidente a través de la expresión[^3] (asumiendo una temperatura de 20 &deg;C):
+Una vez conocemos el ángulo de incidencia que hace que la desviación sea mínima, para conocer a qué ángulo ve el arcoíris un observador terrestre, tenemos que tomar el [ángulo suplementario](https://es.wikipedia.org/wiki/Ángulos_suplementarios) de la desviación mínima $\hat d_\mathrm t$. A su vez, el índice de refracción del agua depende de la longitud de onda de la luz incidente a través de la expresión[^3] (asumiendo una temperatura de 20&thinsp;&deg;C):
 
 [^3]: Rol, P. O. (1991). *Optics for transscleral laser applications* (Doctoral dissertation, ETH Zurich). https://www.research-collection.ethz.ch/handle/20.500.11850/140624.
 

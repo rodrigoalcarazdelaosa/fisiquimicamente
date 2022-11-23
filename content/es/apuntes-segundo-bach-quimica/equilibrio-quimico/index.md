@@ -182,7 +182,7 @@ La reacción natural es muy lenta debido sobretodo a la estabilidad de los enlac
 
 #### Temperatura
 
-Al ser exotérmica, según el principio de Le Châtelier, las bajas temperaturas favorecen la formación de amoniaco, pero a su vez ralentizan la reacción, por lo que se llega a un compromiso utilizando  temperaturas de entre 400 &deg;C y 450 &deg;C.
+Al ser exotérmica, según el principio de Le Châtelier, las bajas temperaturas favorecen la formación de amoniaco, pero a su vez ralentizan la reacción, por lo que se llega a un compromiso utilizando  temperaturas de entre 400&thinsp;&deg;C y 450&thinsp;&deg;C.
 
 #### Presión
 
@@ -266,10 +266,10 @@ La **solubilidad** suele **aumentar** con la temperatura.
 {{% callout example %}}
 <br>
 
-> El SO<sub>3</sub>(g) se disocia a 127 &deg;C mediante un proceso endotérmico, en SO<sub>2</sub>(g) y O<sub>2</sub>(g), estableciéndose un equilibrio. En un recipiente de 20 L a 127 &deg;C se introducen 4.0 mol de SO<sub>3</sub> produciéndose una disociación del 30 \%.<br>  
+> El SO<sub>3</sub>(g) se disocia a 127&thinsp;&deg;C mediante un proceso endotérmico, en SO<sub>2</sub>(g) y O<sub>2</sub>(g), estableciéndose un equilibrio. En un recipiente de 20 L a 127&thinsp;&deg;C se introducen 4.0 mol de SO<sub>3</sub> produciéndose una disociación del 30 \%.<br>  
   a) Calcule las concentraciones molares de cada gas en el equilibrio.<br>
   b) Calcule la presión total y parcial de cada gas.<br>
-  c) Calcule el valor de las constantes $K_\mathrm c$ y $K_\mathrm p$ a 127 &deg;C.<br>
+  c) Calcule el valor de las constantes $K_\mathrm c$ y $K_\mathrm p$ a 127&thinsp;&deg;C.<br>
   d) Si estando la mezcla en equilibrio se reduce el volumen del sistema (sin que resulte afectada la temperatura), ¿favorecerá la disociación del SO<sub>3</sub>?
 
 ---

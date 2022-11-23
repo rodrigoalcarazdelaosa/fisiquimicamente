@@ -95,9 +95,9 @@ El **Telescopio Espacial James Webb** es un **observatorio infrarrojo** en órbi
 | **Resolución óptica** | ~ 0.1" |
 | **Cobertura de longitudes de onda** | 0.6–28.5 µm |
 | **Tamaño del parasol** | 21.197 m x 14.162 m |
-| **Temperatura de las capas de protección solar** | Capa 1: temperatura máx. 383 K = aprox. 110 &deg;C. Capa 5: temperatura máx. 221 K = aprox. -52 &deg;C; temperatura mín. 36 K = aprox. -237 &deg;C |
+| **Temperatura de las capas de protección solar** | Capa 1: temperatura máx. 383 K = aprox. 110&thinsp;&deg;C. Capa 5: temperatura máx. 221 K = aprox. -52&thinsp;&deg;C; temperatura mín. 36 K = aprox. -237&thinsp;&deg;C |
 | **Órbita** | A 1.5 millones de km de la Tierra orbitando el [punto L2](#órbita) |
-| **Temperatura de funcionamiento** | Por debajo de 50 K (-223 &deg;C) |
+| **Temperatura de funcionamiento** | Por debajo de 50 K (-223&thinsp;&deg;C) |
 | **Revestimiento de oro:** | Espesor del recubrimiento de oro = 10<sup>-7</sup> m (1000 Å). Superficie = 25 m<sup>2</sup>. Utilizando estas cifras más la densidad del oro a temperatura ambiente (19.3 g/cm<sup>3</sup>), se calcula que el recubrimiento utiliza 48.25 g de oro, aproximadamente igual a la masa de una pelota de golf. |
 
 ### Objetivos de la misión
@@ -303,7 +303,7 @@ La forma hexagonal permite construir un espejo segmentado con un "alto factor de
 
 Webb tiene un gigantesco **parasol** del tamaño de una pista de tenis, hecho de cinco capas muy finas de una película aislante llamada [**Kapton**](https://es.wikipedia.org/wiki/Kapton). ¿Por qué cinco? Un gran y grueso parasol conduciría el calor de abajo hacia arriba más que un parasol con cinco capas separadas por el vacío. Con cinco capas en el parasol, cada una de ellas es más fría que la siguiente. El calor se irradia entre las capas, y el vacío entre ellas es un muy buen aislante. Los estudios realizados al principio del desarrollo de la misión demostraron que cinco capas proporcionaban suficiente refrigeración.  Un mayor número de capas proporcionaría más refrigeración, pero también supondría más masa y complejidad.  Nos decidimos por cinco porque nos dan suficiente refrigeración con cierto "margen" o factor de seguridad, y seis o más no aportarían ningún beneficio adicional. 
 
-Webb dispone de un gran parasol para proteger el telescopio del calentamiento por la luz solar directa, lo que le permite enfriarse hasta una temperatura inferior a 50 Kelvin (-223 &deg;C) irradiando pasivamente su calor al espacio. (Dato curioso: casi se podría hervir agua en el lado caliente del parasol y es lo suficientemente frío como para congelar nitrógeno en el lado frío).
+Webb dispone de un gran parasol para proteger el telescopio del calentamiento por la luz solar directa, lo que le permite enfriarse hasta una temperatura inferior a 50 Kelvin (-223&thinsp;&deg;C) irradiando pasivamente su calor al espacio. (Dato curioso: casi se podría hervir agua en el lado caliente del parasol y es lo suficientemente frío como para congelar nitrógeno en el lado frío).
 
 A continuación, un **vídeo** en **cámara rápida** que muestra las **pruebas** de **despliegue** del **parasol**:
 

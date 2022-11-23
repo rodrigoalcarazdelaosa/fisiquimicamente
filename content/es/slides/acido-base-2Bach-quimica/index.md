@@ -190,7 +190,7 @@ $$
 
 ---
 
-A 25 &deg;C:
+A 25&thinsp;&deg;C:
 
 $$[\mathrm{H_3O^+}] = [\mathrm{OH}^-] = 10^{-7}\thinspace\mathrm M \Rightarrow K_\mathrm w = 10^{-14}	
 $$
@@ -207,7 +207,7 @@ $$
 
 ---
 
-por lo que (suponiendo $T = 25$ &deg;C):
+por lo que (suponiendo $T = 25\thinspace^\circ\mathrm C$):
 
 \begin{align*}
 K_\mathrm a\cdot K_\mathrm b &= K_\mathrm w = 10^{-14} \\\\

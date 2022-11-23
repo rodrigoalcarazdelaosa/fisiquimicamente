@@ -264,7 +264,7 @@ Son las **fuerzas** intermoleculares más **intensas**. Se dan entre moléculas 
 
 Los **enlaces** de **hidrógeno** son **responsables** de:
 
-- Que el **agua** (H<sub>2</sub>O) tenga una **temperatura** de **ebullición anormalmente alta** (100 &deg;C a presión atmosférica).
+- Que el **agua** (H<sub>2</sub>O) tenga una **temperatura** de **ebullición anormalmente alta** (100&thinsp;&deg;C a presión atmosférica).
 - La **estructura** de **proteínas** y **ácidos nucleicos**, como la **doble hélice** del **ADN** 🧬.
 - La **estructura** de **polímeros**.
 

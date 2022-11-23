@@ -170,7 +170,7 @@ La reacció natural és molt lenta degut sobretot a l'estabilitat dels enllaços
 
 #### Temperatura
 
-En ser exotèrmica, segons el principi de Le Châtelier, les baixes temperatures afavoreixen la formació d'amoníac, però al mateix temps alenteixen la reacció, per la qual cosa s'arriba a un compromís utilitzant temperatures d'entre 400 &deg;C i 450 &deg;C.
+En ser exotèrmica, segons el principi de Le Châtelier, les baixes temperatures afavoreixen la formació d'amoníac, però al mateix temps alenteixen la reacció, per la qual cosa s'arriba a un compromís utilitzant temperatures d'entre 400&thinsp;&deg;C i 450&thinsp;&deg;C.
 
 #### Pressió
 
@@ -254,10 +254,10 @@ La **solubilitat** sol **augmentar** amb la temperatura.
 {{% callout example %}}
 <br>
 
-> El SO<sub>3</sub>(g) es dissocia a 127 &deg;C mitjançant un procés endotèrmic, a SO<sub>2</sub>(g) i O<sub>2</sub> (g), establint-se un equilibri. En un recipient de 20 L a 127 &deg;C s'introdueixen 4.0 mol de SO<sub>3</sub> i es produeix una dissociació del 30 \%.<br>  
+> El SO<sub>3</sub>(g) es dissocia a 127&thinsp;&deg;C mitjançant un procés endotèrmic, a SO<sub>2</sub>(g) i O<sub>2</sub> (g), establint-se un equilibri. En un recipient de 20 L a 127&thinsp;&deg;C s'introdueixen 4.0 mol de SO<sub>3</sub> i es produeix una dissociació del 30 \%.<br>  
   a) Calculi les concentracions molars de cada gas en l'equilibri.<br>
   b) Calculi la pressió total i parcial de cada gas.<br>
-  c) Calculi el valor de les constants $K_\mathrm c$ i $K_\mathrm p$ a 127 &deg;C.<br>
+  c) Calculi el valor de les constants $K_\mathrm c$ i $K_\mathrm p$ a 127&thinsp;&deg;C.<br>
   d) Si estant la mescla en equilibri es redueix el volum del sistema (sense que resulti afectada la temperatura), afavorirà la dissociació del SO<sub>3</sub>?
 
 ---

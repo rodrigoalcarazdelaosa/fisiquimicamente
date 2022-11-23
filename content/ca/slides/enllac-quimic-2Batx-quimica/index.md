@@ -599,7 +599,7 @@ Són les **forces** intermoleculars més **intenses**. Es donen entre molècules
 
 Els **enllaços** d'**hidrogen** són **responsables** de:
 
-- Que l'**aigua** (H<sub>2</sub>O) tingui una **temperatura** d'**ebullició anormalment alta** (100 &deg;C a pressió atmosfèrica).
+- Que l'**aigua** (H<sub>2</sub>O) tingui una **temperatura** d'**ebullició anormalment alta** (100&thinsp;&deg;C a pressió atmosfèrica).
 - L'**estructura** de **proteïnes** i **àcids nucleics**, com la **doble hèlix** de l'**ADN** 🧬.
 - L'**estructura** de **polímers**.
 

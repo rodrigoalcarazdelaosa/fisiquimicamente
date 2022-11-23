@@ -307,7 +307,7 @@ Notar que la adición de este catalizador no afecta al equilibrio ni a la cantid
 
 #### Temperatura
 
-Al ser exotérmica, según el principio de Le Châtelier, las bajas temperaturas favorecen la formación de amoniaco, pero a su vez ralentizan la reacción, por lo que se llega a un compromiso utilizando  temperaturas de entre 400 &deg;C y 450 &deg;C.
+Al ser exotérmica, según el principio de Le Châtelier, las bajas temperaturas favorecen la formación de amoniaco, pero a su vez ralentizan la reacción, por lo que se llega a un compromiso utilizando  temperaturas de entre 400&thinsp;&deg;C y 450&thinsp;&deg;C.
 
 ---
 
@@ -462,7 +462,7 @@ La **solubilidad** suele **aumentar** con la temperatura.
 
 ## Ejemplo
 
-<q>El SO<sub>3</sub>(g) se disocia a 127 &deg;C mediante un proceso endotérmico, en SO<sub>2</sub>(g) y O<sub>2</sub>(g), estableciéndose un equilibrio. En un recipiente de 20 L a 127 &deg;C se introducen 4.0 mol de SO<sub>3</sub> produciéndose una disociación del 30 \%.</q>
+<q>El SO<sub>3</sub>(g) se disocia a 127&thinsp;&deg;C mediante un proceso endotérmico, en SO<sub>2</sub>(g) y O<sub>2</sub>(g), estableciéndose un equilibrio. En un recipiente de 20 L a 127&thinsp;&deg;C se introducen 4.0 mol de SO<sub>3</sub> produciéndose una disociación del 30 \%.</q>
 
 ---
 
@@ -510,7 +510,7 @@ $$
 
 ---
 
-<q>c) Calcule el valor de las constantes $K_\mathrm c$ y $K_\mathrm p$ a 127 &deg;C.</q>
+<q>c) Calcule el valor de las constantes $K_\mathrm c$ y $K_\mathrm p$ a 127&thinsp;&deg;C.</q>
 
 La expresión de la constante $K_\mathrm c$ es:
 
