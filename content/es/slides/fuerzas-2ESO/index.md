@@ -171,8 +171,8 @@ $$
 
 - [Rozamiento](#/3/1)
 - [Gravitatoria](#/3/6)
-- [Eléctrica](#/3/11)
-- [Magnética](#/3/17)
+- [Eléctrica](#/3/12)
+- [Magnética](#/3/18)
 
 (continúa hacia abajo)
 
@@ -246,6 +246,12 @@ siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
 | Marte &#9794; | 0.38 | 3.7 |						
 | Mercurio &#9791; | 0.38 | 3.7 |
 | Luna :crescent_moon: | 0.17 | 1.6 |
+
+---
+
+Descubre a qué altura podrías saltar en otros planetas con este genial **vídeo**:
+
+{{< youtube D8H1RNtka6s >}}
 
 ---
 
