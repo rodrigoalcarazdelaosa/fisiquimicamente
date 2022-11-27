@@ -220,7 +220,7 @@ Q = m\cdot c\cdot \Delta T,
 $$
 donde $c$ es el **calor específico** de la sustancia[^2], que representa la cantidad de energía que es necesario suministrar a la unidad de masa de la sustancia para elevar su temperatura en una unidad. En el **SI** se mide en $\mathrm{J\thinspace kg^{-1}\thinspace K^{-1}}$.
 
-[^2]: En [esta tabla](https://es.wikipedia.org/wiki/Calor_espec%C3%ADfico#Tabla_de_calores_espec%C3%ADficos_y_sustancias) puedes ver los **valores** del **calor específico** de diversas sustancias, medido a 25$\thinspace$&deg;C a menos que se indique lo contrario.
+[^2]: En [esta tabla](https://es.wikipedia.org/wiki/Calor_espec%C3%ADfico#Tabla_de_calores_espec%C3%ADficos_y_sustancias) puedes ver los **valores** del **calor específico** de diversas sustancias, medido a 25&thinsp;&deg;C a menos que se indique lo contrario.
 
 {{< spoiler text="¿Sabes que el calor específico depende de la temperatura?" >}}
 La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor específico del oro (Au), hierro (Fe) y carbono (C) con la temperatura, según el [modelo de Debye](https://es.wikipedia.org/wiki/Modelo_de_Debye):
@@ -3357,7 +3357,7 @@ Se observa que, a altas temperaturas, el calor específico se acerca al valor $c
 ### Dilatación
 Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^3].
 
-[^3]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0$\thinspace$&deg;C y 4$\thinspace$&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella. 
+[^3]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0&thinsp;&deg;C y 4&thinsp;&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella. 
 
 {{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" title="**Junta de dilatación** de un puente. Si estas juntas no se construyesen, la dilatación térmica de los materiales cuando aumentase la temperatura generaría unos esfuerzos tan grandes que fracturarían el puente. Para calcular estas juntas se necesita conocer el **coeficiente de dilatación térmica**. Imagen de [**Kranich17**](https://pixabay.com/es/users/kranich17-11197573/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
@@ -3394,7 +3394,7 @@ donde $L$ es el **calor latente**[^5], que representa la cantidad de energía re
 {{% callout example %}}
 <br>
 
-> Para forjar acero es necesario calentarlo a temperaturas de entre 800$\thinspace$&deg;C y 1000$\thinspace$&deg;C. Si tenemos una espada de acero de 1.2$\thinspace$kg de masa y 1$\thinspace$m de longitud a temperatura ambiente (20$\thinspace$&deg;C) y la calentamos hasta los 900$\thinspace$&deg;C, ¿cuál será su nueva longitud?<br>
+> Para forjar acero es necesario calentarlo a temperaturas de entre 800&thinsp;&deg;C y 1000&thinsp;&deg;C. Si tenemos una espada de acero de 1.2$\thinspace$kg de masa y 1$\thinspace$m de longitud a temperatura ambiente (20&thinsp;&deg;C) y la calentamos hasta los 900&thinsp;&deg;C, ¿cuál será su nueva longitud?<br>
 Dato: $\alpha_\text{acero} = 1.2\times 10^{-5}\thinspace\mathrm{^\circ C^{-1}}$.
 
 ---
@@ -3420,7 +3420,7 @@ es decir, se ha alargado 1$\thinspace$cm aproximadamente.
 
 ---
 
-> Si tras calentar la espada la sumergimos en un tanque cilíndrico de 5$\thinspace$cm de radio y 1$\thinspace$m de altura, lleno de agua a temperatura ambiente (20$\thinspace$&deg;C), ¿a qué temperatura se calentará el agua?<br>
+> Si tras calentar la espada la sumergimos en un tanque cilíndrico de 5$\thinspace$cm de radio y 1$\thinspace$m de altura, lleno de agua a temperatura ambiente (20&thinsp;&deg;C), ¿a qué temperatura se calentará el agua?<br>
 Datos: $d_\text{agua} = 1\thinspace\mathrm{kg/L}$; $c_\text{acero} = 0.12\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$; $c_\text{agua} = 1\thinspace\mathrm{kcal\thinspace kg^{-1}\thinspace ^\circ C^{-1}}$.
 
 ---
