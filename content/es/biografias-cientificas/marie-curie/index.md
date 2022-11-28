@@ -17,8 +17,7 @@ weight: 3
 image:
   preview_only: true
 
-_build:
-  list: never
+_build:  
   render: never
 
 # Optional external URL for project (replaces project detail page).
