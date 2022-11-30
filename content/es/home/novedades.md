@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "¿Por qué la Luna no tiene atmósfera?"
-      url: 'blog/2022/11/21/por-que-la-luna-no-tiene-atmosfera/'
+      text: "Tipos de plásticos"
+      url: 'blog/2022/12/01/tipos-de-plasticos/'
 ---

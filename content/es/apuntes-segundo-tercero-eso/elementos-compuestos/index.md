@@ -111,6 +111,10 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 ## Elementos y compuestos de especial interés
 
+{{% callout note %}}
+¿Te gustaría **saber más** sobre los **plásticos** que utilizamos en nuestra vida diaria? Echa un vistazo a [esta interesante **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}).
+{{% /callout %}}
+
 {{% callout game %}}
 Si quieres **aprender** cuáles son las **características** y principales **aplicaciones** de algunos de los **compuestos orgánicos e inorgánicos** más habituales, te recomendamos [esta estupenda adaptación del **quién es quién**]({{< relref "/actividades-juegos-segundo-tercero-eso/quien-es-quien" >}}).
 {{% /callout %}}
@@ -135,12 +139,12 @@ El **hidróxido de sodio**, también conocido como **sosa caústica**, es un com
 
 
 #### Propileno (C<sub>3</sub>H<sub>6</sub>)
-El **propileno**[^3] es un gas incoloro con un ligero olor a petróleo. Es un compuesto enormemente importante para la **industria petroquímica**, donde se utiliza como **combustible** o para la **producción** de **caucho/plástico**.
+El **propileno**[^3] es un gas incoloro con un ligero olor a petróleo. Es un compuesto enormemente importante para la **industria petroquímica**, donde se utiliza como **combustible** o para la **producción** de **caucho/plástico ([polipropileno](https://es.wikipedia.org/wiki/Polipropileno))**.
 
 [^3]: Nombre recomendado por la IUPAC: **propeno**.
 
 #### Nitrógeno (N<sub>2</sub>)
-El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de -195.8$\thinspace$&deg;C. Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**. **Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica. **Líquido** es importante en **investigación médica** y **conservación**.
+El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de –195.8&thinsp;&deg;C. Se utiliza en muchísimos productos, incluidos **fertilizantes**, **tejidos**, **tintes** e incluso **explosivos**. **Gaseoso** también crea una **atmósfera inerte**, útil para preservar alimentos o en la industria electrónica. **Líquido** es importante en **investigación médica** y **conservación**.
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/nitrogeno-liquido.jpg" title="**Nitrógeno líquido**. <br> https://commons.wikimedia.org/wiki/File:Liquidnitrogen.jpg" lightbox="true" >}}
 
@@ -184,7 +188,7 @@ Con una estructura similar a la del silicio, el **galio** (Ga) se utiliza amplia
 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/led.jpg" title="**Luces LED** de colores, fabricadas a partir de compuestos de **galio** (Ga). <br> https://commons.wikimedia.org/wiki/File:RBG-LED.jpg" lightbox="true" >}}
 
-[^4]: Su temperatura de fusión es de 29.8$\thinspace$&deg;C.
+[^4]: Su temperatura de fusión es de 29.8&thinsp;&deg;C.
 
 #### Indio (In)
 El **indio** (In) es un metal plateado blando que a menudo se usa para producir óxido de indio y estaño (**ITO**, por sus siglas en inglés), un ingrediente clave en las **pantallas táctiles**.

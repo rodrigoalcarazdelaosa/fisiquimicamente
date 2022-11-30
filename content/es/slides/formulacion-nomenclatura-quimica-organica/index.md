@@ -43,9 +43,9 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 - [Creación de nombres sistemáticos](#/2/6)
 - [Grupos funcionales --- sufijos y prefijos](#/2/9)
 - [Compuestos padre (hidrocarburos)](#/2/12)
-- [Elección y numeración de la cadena principal](#/2/43)
-- [Nomenclatura de clase funcional](#/2/46)
-- [Representación gráfica (zigzag)](#/2/51)
+- [Elección y numeración de la cadena principal](#/2/44)
+- [Nomenclatura de clase funcional](#/2/47)
+- [Representación gráfica (zigzag)](#/2/52)
 
 (continúa hacia abajo)
 
@@ -127,13 +127,17 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 ---
 
 ### Compuestos padre (hidrocarburos)
-- [Alcanos (C---C)](#/2/15)
-- [Alquenos (C=C) y alquinos (C&equiv;C)](#/2/27)
-- [Aromáticos (arenos)](#/2/32)
+- [Alcanos (C---C)](#/2/16)
+- [Alquenos (C=C) y alquinos (C&equiv;C)](#/2/28)
+- [Aromáticos (arenos)](#/2/33)
 
 (continúa hacia abajo)
 
 👇
+
+---
+
+> ¿Te gustaría **saber más** sobre los **plásticos** que utilizamos en nuestra vida diaria? Echa un vistazo a [esta interesante **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}).
 
 ---
 

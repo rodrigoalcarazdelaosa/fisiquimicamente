@@ -210,9 +210,9 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 ## Elementos y compuestos de especial interés
 
-- [Con aplicaciones industriales 🏭](#/4/1)
-- [Con aplicaciones tecnológicas 💻](#/4/18)
-- [Con aplicaciones biomédicas ⚕️](#/4/36)
+- [Con aplicaciones industriales 🏭](#/4/3)
+- [Con aplicaciones tecnológicas 💻](#/4/20)
+- [Con aplicaciones biomédicas ⚕️](#/4/39)
 
 (continúa hacia abajo)
 
@@ -220,13 +220,21 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 ---
 
+> ¿Te gustaría **saber más** sobre los **plásticos** que utilizamos en nuestra vida diaria? Echa un vistazo a [esta interesante **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}).
+
+---
+
+> Si quieres **aprender** cuáles son las **características** y principales **aplicaciones** de algunos de los **compuestos orgánicos e inorgánicos** más habituales, te recomendamos [esta estupenda adaptación del **quién es quién**]({{< relref "/actividades-juegos-segundo-tercero-eso/quien-es-quien" >}}).
+
+---
+
 ### Con aplicaciones industriales 🏭
 
-- [Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)](#/4/2)
-- [Etileno (C<sub>2</sub>H<sub>4</sub>)](#/4/6)
-- [Hidróxido de sodio (NaOH)](#/4/10)
-- [Propileno (C<sub>3</sub>H<sub>6</sub>)](#/4/12)
-- [Nitrógeno (N<sub>2</sub>)](#/4/13)
+- [Ácido sulfúrico (H<sub>2</sub>SO<sub>4</sub>)](#/4/4)
+- [Etileno (C<sub>2</sub>H<sub>4</sub>)](#/4/8)
+- [Hidróxido de sodio (NaOH)](#/4/12)
+- [Propileno (C<sub>3</sub>H<sub>6</sub>)](#/4/14)
+- [Nitrógeno (N<sub>2</sub>)](#/4/15)
 
 ---
 
@@ -276,12 +284,12 @@ El **hidróxido de sodio**, también conocido como **sosa caústica**, es un com
 ---
 
 #### Propileno (C<sub>3</sub>H<sub>6</sub>)
-El **propileno** es un gas incoloro con un ligero olor a petróleo. Es un compuesto enormemente importante para la **industria petroquímica**, donde se utiliza como **combustible** o para la **producción** de **caucho/plástico**.
+El **propileno** es un gas incoloro con un ligero olor a petróleo. Es un compuesto enormemente importante para la **industria petroquímica**, donde se utiliza como **combustible** o para la **producción** de **caucho/plástico ([polipropileno](https://es.wikipedia.org/wiki/Polipropileno))**.
 
 ---
 
 #### Nitrógeno (N<sub>2</sub>)
-El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de -195.8$\thinspace$&deg;C.
+El **nitrógeno** es un gas incoloro a temperatura ambiente, con una temperatura de ebullición de –195.8&thinsp;&deg;C.
 
 ---
 
@@ -305,14 +313,14 @@ Combinado con hidrógeno forma **amoniaco** (NH<sub>3</sub>), un gas incoloro co
 
 ### Con aplicaciones tecnológicas 💻
 
-- [Litio (Li), cobalto (Co) y níquel (Ni)](#/4/19)
-- [Aluminio (Al)](#/4/20)
-- [Silicio (Si)](#/4/22)
-- [Hierro (Fe)](#/4/23)
-- [Cobre (Cu)](#/4/25)
-- [Galio (Ga)](#/4/28)
-- [Indio (In)](#/4/31)
-- [Tierras raras](#/4/33)
+- [Litio (Li), cobalto (Co) y níquel (Ni)](#/4/21)
+- [Aluminio (Al)](#/4/22)
+- [Silicio (Si)](#/4/24)
+- [Hierro (Fe)](#/4/25)
+- [Cobre (Cu)](#/4/27)
+- [Galio (Ga)](#/4/31)
+- [Indio (In)](#/4/34)
+- [Tierras raras](#/4/36)
 
 ---
 
@@ -416,8 +424,8 @@ Sus **aplicaciones** incluyen la **producción** de **energía limpia**, las **c
 
 ### Con aplicaciones biomédicas ⚕️
 
-- [Aplicaciones quirúrgicas](#/4/37)
-- [Diagnóstico y tratamiento de cáncer](#/4/39)
+- [Aplicaciones quirúrgicas](#/4/40)
+- [Diagnóstico y tratamiento de cáncer](#/4/42)
 
 ---
 

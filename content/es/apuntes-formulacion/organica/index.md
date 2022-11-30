@@ -126,6 +126,11 @@ Un **grupo funcional** es un **átomo** o **grupo** de **átomos** dentro de una
 {{< figure library="true" src="formulacion-nomenclatura-quimica-organica/grupos-funcionales.svg" lightbox="false" width="100%" >}}
 
 ## Compuestos padre (hidrocarburos)
+
+{{% callout note %}}
+¿Te gustaría **saber más** sobre los **plásticos** que utilizamos en nuestra vida diaria? Echa un vistazo a [esta interesante **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}).
+{{% /callout %}}
+
 Compuestos orgánicos formados únicamente por átomos de carbono (C) e hidrógeno (H). Distinguimos entre:
 
 Alifáticos
