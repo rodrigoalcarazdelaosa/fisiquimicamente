@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - leticia-cabezas
+- alba-lopez-valenzuela
 tags:
 - apuntes
 - 2º Bach
@@ -33,6 +34,11 @@ links:
 #   icon: file-download
 #   name: Póster
 #   url: MAS_poster.pdf
+
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: ondas-ejercicios.pdf
 
 - icon_pack: fas
   icon: file-download
