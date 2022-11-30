@@ -6,8 +6,8 @@ summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
-- leticia-cabezas
 - alba-lopez-valenzuela
+- leticia-cabezas
 tags:
 - apuntes
 - 2º Bach
