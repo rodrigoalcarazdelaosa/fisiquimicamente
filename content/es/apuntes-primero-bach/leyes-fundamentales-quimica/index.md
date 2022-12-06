@@ -147,3 +147,9 @@ $$
 donde $\chi_i = n_i/n_\mathrm t$ es la **fracción molar** del gas $i$.
 
 {{< figure library="true" src="leyes-fundamentales-quimica-1Bach/ley-presiones-parciales.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Dalton%27s_law_of_partial_pressures.svg." lightbox="false" width="100%" >}}
+
+### Simulación
+
+Si quieres aprender más sobre las **propiedades** de los **gases** te recomendamos que *enredes* con esta excelente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>

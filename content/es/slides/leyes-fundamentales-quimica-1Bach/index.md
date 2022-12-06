@@ -153,6 +153,14 @@ donde $\chi_i = n_i/n_\mathrm t$ es la **fracción molar** del gas $i$.
 
 {{< figure library="true" src="leyes-fundamentales-quimica-1Bach/ley-presiones-parciales.svg" lightbox="false" width="100%" >}}
 
+---
+
+### Simulación
+
+Si quieres aprender más sobre las **propiedades** de los **gases** te recomendamos esta excelente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
+
 {{% /section %}}
 
 <section id="PDF" data-visibility="uncounted">
