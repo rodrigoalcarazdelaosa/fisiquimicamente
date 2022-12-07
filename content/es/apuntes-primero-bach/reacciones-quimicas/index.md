@@ -250,7 +250,7 @@ $$
 	T(\mathrm K) = T(^\circ\mathrm C) + 273
 	$$
 
-[^1]: En caso de trabajar en el SI, la constante de los gases ideales toma el valor $R=8.314\thinspace\frac{\mathrm{Pa\thinspace m^3}}{\mathrm{mol\thinspace K}}$.
+[^1]: En caso de trabajar en el SI, la constante de los gases ideales toma el valor $R=8.314\thinspace\frac{\mathrm{J}}{\mathrm{mol\thinspace K}} = 8.314\thinspace\frac{\mathrm{kPa\thinspace L}}{\mathrm{mol\thinspace K}}$.
 
 ## Ejemplo
 

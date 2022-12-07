@@ -289,7 +289,7 @@ Existen principalmente dos tipos de puentes salinos: tubo de vidrio (forma de U)
 
 ## Potencial estándar de reducción $E^\circ$
 
-Es la tendencia de una especie química a ser reducida en **condiciones estándar** ($T=25\thinspace^\circ\mathrm C$, $p = 1\thinspace\mathrm{atm}$ y $c = 1\thinspace\mathrm M$). Se puede medir experimentalmente con ayuda del **electrodo estándar de hidrógeno**.
+Es la tendencia de una especie química a ser reducida en su **estado estándar** ($p = 1\thinspace\mathrm{bar} = 10^5\thinspace\mathrm{Pa}$ y $c = 1\thinspace\mathrm M$). Se puede medir experimentalmente con ayuda del **electrodo estándar de hidrógeno**.
 
 ---
 
