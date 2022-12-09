@@ -38,6 +38,10 @@ links:
   icon: file-download
   name: Frikiexámenes
   url: campo-electrico-frikiexamenes.pdf
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-electromagnetica/  
 
 ---
 

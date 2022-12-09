@@ -35,6 +35,10 @@ links:
   icon: external-link-alt
   name: Más ejercicios
   url: https://drive.google.com/file/d/1mMs1acpTRFIFZRf7FlLr10Y9X-Cf6kRF/view
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/optica-geometrica/  
 
 ---
 

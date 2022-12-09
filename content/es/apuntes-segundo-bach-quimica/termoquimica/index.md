@@ -39,7 +39,11 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Frikiexámenes
-  url: termoquimica-frikiexamenes.pdf  
+  url: termoquimica-frikiexamenes.pdf
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/termoquimica/  
   
 ---
 

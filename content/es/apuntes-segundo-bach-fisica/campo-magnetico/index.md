@@ -37,7 +37,11 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Frikiexamen
-  url: campo-magnetico-frikiexamen.pdf  
+  url: campo-magnetico-frikiexamen.pdf
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-electromagnetica/
 
 ---
 

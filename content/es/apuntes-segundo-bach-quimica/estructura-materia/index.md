@@ -45,6 +45,10 @@ links:
   icon: file-download
   name: Frikiexamen
   url: estructura-materia-sistema-periodico-frikiexamen.pdf
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/estructura-materia/
 
 slides: estructura-materia-2Bach-quimica
 ---

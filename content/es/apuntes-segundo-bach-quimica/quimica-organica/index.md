@@ -37,10 +37,12 @@ links:
   icon: file-download
   name: Frikiexámenes
   url: redox-organica-frikiexamenes.pdf
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/quimica-organica/
 
 ---
-
-Apuntes sobre química orgánica, en formato texto y póster (tipo _chuleta_).
 
 {{% callout soon %}}
 Próximamente...

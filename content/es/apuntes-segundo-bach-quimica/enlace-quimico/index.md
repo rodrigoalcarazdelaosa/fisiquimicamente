@@ -48,6 +48,10 @@ links:
   icon: file-download
   name: Frikiexamen
   url: enlace-quimico-frikiexamen.pdf
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/enlace-quimico/  
   
 slides: enlace-quimico-2Bach-quimica
 ---

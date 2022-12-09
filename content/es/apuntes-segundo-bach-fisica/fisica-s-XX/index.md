@@ -34,6 +34,10 @@ links:
   icon: external-link-alt
   name: Ejercicios
   url: https://drive.google.com/file/d/1fTP9rVqtpMHT--uz0Lg6Y-mU7Qk7noy3/view
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/fisica-s-xx/
 
 ---
 

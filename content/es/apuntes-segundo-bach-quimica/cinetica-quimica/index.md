@@ -41,6 +41,10 @@ links:
   icon: file-download
   name: Frikiexámenes
   url: cinetica-equilibrio-frikiexamenes.pdf
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/cinetica-quimica/  
 
 slides: cinetica-quimica-2Bach-quimica
 ---

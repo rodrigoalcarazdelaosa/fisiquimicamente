@@ -48,7 +48,11 @@ links:
 - icon_pack: fas
   icon: file-download
   name: Frikiexámenes
-  url: acido-base-frikiexamenes.pdf  
+  url: acido-base-frikiexamenes.pdf
+- icon_pack: fas
+  icon: graduation-cap
+  name: Ejercicios EBAU
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/acido-base/  
 
 slides: acido-base-2Bach-quimica
 
