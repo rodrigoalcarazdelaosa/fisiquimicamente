@@ -224,7 +224,7 @@ También puedes ver esta excelente **práctica virtual** del [Departamento de F�
 
 - La **materia** está **formada** por **partículas** muy pequeñas, entre las que no existe nada (vacío).
 - Existen **fuerzas** de **atracción** que mantienen unidas a las partículas.
-- Las partículas están en **continuo movimiento**, siendo la **temperatura** una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).
+- Las partículas están en **continuo movimiento**, siendo la **temperatura** una medida de su [**energía cinética**]({{< relref "/apuntes-cuarto-eso/energia-trabajo-calor/index.md#energ%C3%ADa-cinética-e_mathrm-c" >}}) **media** (a mayor temperatura mayor velocidad).
 
 ### Explicación de los estados de agregación
 #### Sólido

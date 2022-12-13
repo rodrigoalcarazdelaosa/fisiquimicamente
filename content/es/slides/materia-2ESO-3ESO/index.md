@@ -242,7 +242,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 <ul>
 	{{% fragment %}} <li>La <strong>materia</strong> está <strong>formada</strong> por <strong>partículas</strong> muy pequeñas, entre las que no existe nada (vacío).</li> {{% /fragment %}}
 	{{% fragment %}} <li>Existen <strong>fuerzas</strong> de <strong>atracción</strong> que mantienen unidas a las partículas.</li> {{% /fragment %}}
-	{{% fragment %}} <li>Las partículas están en <strong>continuo movimiento</strong>, siendo la <strong>temperatura</strong> una medida de la velocidad media a la que se mueven (a mayor temperatura mayor velocidad).</li> {{% /fragment %}}
+	{{% fragment %}} <li>Las partículas están en <strong>continuo movimiento</strong>, siendo la <strong>temperatura</strong> una medida de su <a href="/recursos-fisica-quimica/apuntes/4eso/energia-trabajo-calor/#energía-cinética-e_mathrm-c"><strong>energía cinética</strong></a> <strong>media</strong> (a mayor temperatura mayor velocidad).</li> {{% /fragment %}}
 </ul>
 
 ---
