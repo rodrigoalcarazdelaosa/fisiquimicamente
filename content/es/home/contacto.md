@@ -33,11 +33,7 @@ content:
     - icon: telegram
       icon_pack: fab
       name: "Suscríbete al canal de Telegram"
-      link: "https://t.me/fisiquimicamente"
-    - icon: newspaper
-      icon_pack: fas
-      name: "Suscríbete al boletín de noticias"
-      link: https://www.getrevue.co/profile/fisiquimicamente      
+      link: "https://t.me/fisiquimicamente"    
     - icon: discord
       icon_pack: fab
       name: "Únete al servidor de Discord"
