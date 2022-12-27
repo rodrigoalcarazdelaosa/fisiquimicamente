@@ -243,7 +243,7 @@ La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en lo
 
 ---
 
-La escala **Celsius**, también llamada *centígrada*, es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
+La escala **Celsius**, también llamada [*centígrada*]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#5-escala-celsius" >}}), es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
 
 ---
 

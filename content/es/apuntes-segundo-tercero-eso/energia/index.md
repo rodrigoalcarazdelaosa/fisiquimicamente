@@ -125,7 +125,7 @@ Cuando dos cuerpos se ponen en **contacto térmico**, el que está a mayor tempe
 Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-segundo-tercero-eso/materia/index.md#cambios-de-estado" >}}). Es importante recordar que, **durante** un **cambio** de estado, la **temperatura** del cuerpo permanece **constante**, ya que durante el cambio la energía transferida al cuerpo se emplea en reorganizar las partículas (romper enlaces).
 
 #### Dilatación
-Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^1]. La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en los **termómetros** 🌡️. La escala **Celsius**, también llamada *centígrada*, es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
+Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^1]. La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en los **termómetros** 🌡️. La escala **Celsius**, también llamada [*centígrada*]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#5-escala-celsius" >}}), es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
 
 [^1]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0&thinsp;&deg;C y 4&thinsp;&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella.
 
