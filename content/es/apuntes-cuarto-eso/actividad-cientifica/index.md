@@ -115,6 +115,10 @@ Son aquellas **magnitudes** que quedan **descritas** por:
 
 {{< figure library="true" src="actividad-cientifica-4ESO/vector-fuerza.svg" lightbox="false" width="100%" >}}
 
+{{% callout note %}}
+**Aprende más** sobre la **notación vectorial** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#2-notación-vectorial" >}}).
+{{% /callout %}}
+
 #### Ejemplos
 Posición, desplazamiento, velocidad, aceleración, fuerza...
 

@@ -173,6 +173,10 @@ Son aquellas **magnitudes** que quedan **descritas** por:
 
 ---
 
+> **Aprende más** sobre la **notación vectorial** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#2-notación-vectorial" >}}).
+
+---
+
 #### Ejemplos
 Posición, desplazamiento, velocidad, aceleración, fuerza...
 

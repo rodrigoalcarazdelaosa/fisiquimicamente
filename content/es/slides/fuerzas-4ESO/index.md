@@ -57,6 +57,10 @@ Dado por la punta de la flecha.
 
 ---
 
+> **Aprende más** sobre la **notación vectorial** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#2-notación-vectorial" >}}).
+
+---
+
 ### Suma o resta de vectores
 Gráficamente, dibujando un vector a continuación del otro y uniendo el origen con el punto final:
 
