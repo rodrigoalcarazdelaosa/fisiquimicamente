@@ -38,6 +38,10 @@ La **tabla periódica** de los **elementos** organiza los **118 elementos** cono
 
 {{< figure library="true" src="sistema-periodico-2Bach-quimica/tabla-periodica-elementos.png" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-configuraciones-electronicas.pdf)." lightbox="false" >}}
 
+---
+
+> Consulta [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#7-configuración-electrónica" >}}) las **reglas** que se han de tener en cuenta a la hora de **escribir** la **configuración electrónica** de un átomo o un ion monoatómico.
+
 {{% /section %}}
 
 ---

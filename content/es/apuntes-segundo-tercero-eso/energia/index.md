@@ -91,7 +91,11 @@ Aprende más sobre las **formas** y **cambios** de **energía** con esta **simul
 ## Calor y temperatura
 
 ### Temperatura 🌡️
-De acuerdo al **modelo cinético-molecular**, la materia está formada por partículas que están en continuo movimiento. La **temperatura** es una **medida** de la **agitación** ([energía cinética]({{< relref "/apuntes-cuarto-eso/energia-trabajo-calor/index.md#energ%C3%ADa-cinética-e_mathrm-c" >}})) **media** de las **partículas** que forman un sistema. La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***. En el **SI**, la temperatura absoluta se mide en **kelvin** (K):
+De acuerdo al **modelo cinético-molecular**, la materia está formada por partículas que están en continuo movimiento. La **temperatura** es una **medida** de la **agitación** ([energía cinética]({{< relref "/apuntes-cuarto-eso/energia-trabajo-calor/index.md#energ%C3%ADa-cinética-e_mathrm-c" >}})) **media** de las **partículas** que forman un sistema.
+
+La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***.
+
+En el **SI**, [la temperatura absoluta se mide en **kelvin** (K)]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#4-temperatura-absoluta" >}}):
 
 $$
 T(\mathrm K) = T(^\circ\mathrm C)+273.15
@@ -125,9 +129,9 @@ Cuando dos cuerpos se ponen en **contacto térmico**, el que está a mayor tempe
 Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-segundo-tercero-eso/materia/index.md#cambios-de-estado" >}}). Es importante recordar que, **durante** un **cambio** de estado, la **temperatura** del cuerpo permanece **constante**, ya que durante el cambio la energía transferida al cuerpo se emplea en reorganizar las partículas (romper enlaces).
 
 #### Dilatación
-Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^1]. La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en los **termómetros** 🌡️. La escala **Celsius**, también llamada [*centígrada*]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#5-escala-celsius" >}}), es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
+Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^2]. La **dilatación** de los **líquidos**, como el mercurio (Hg), se utiliza en los **termómetros** 🌡️. La escala **Celsius**, también llamada [*centígrada*]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#5-escala-celsius" >}}), es la escala basada en 0 para el punto de **congelación** y 100 para el punto de **ebullición** del **agua**.
 
-[^1]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0&thinsp;&deg;C y 4&thinsp;&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella.
+[^2]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0&thinsp;&deg;C y 4&thinsp;&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella.
 
 {{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" title="**Junta de dilatación** de un puente. Si estas juntas no se construyesen, la dilatación térmica de los materiales cuando aumentase la temperatura generaría unos esfuerzos tan grandes que fracturarían el puente. Para calcular estas juntas se necesita conocer el **coeficiente de dilatación térmica**. Imagen de [**Kranich17**](https://pixabay.com/es/users/kranich17-11197573/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 

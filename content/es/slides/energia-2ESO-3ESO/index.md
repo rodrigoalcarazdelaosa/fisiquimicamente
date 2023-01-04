@@ -160,7 +160,7 @@ De acuerdo al **modelo cinético-molecular**, la materia está formada por part�
 
 La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***.
 
-En el **SI**, la temperatura absoluta se mide en **kelvin** (K):
+En el **SI**, [la temperatura absoluta se mide en **kelvin** (K)]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#4-temperatura-absoluta" >}}):
 
 $$
 T(\mathrm K) = T(^\circ\mathrm C)+273.15

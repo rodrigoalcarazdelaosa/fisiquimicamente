@@ -279,6 +279,10 @@ Es **adimensional** (suele expresarse en % multiplicándolo por 100).
 ## Expresión de resultados
 Por regla general, las **incertidumbres siempre** se expresan con **una sola cifra significativa**[^2], **redondeando** la **medida** en consecuencia (unidades, decenas, centenas, etc.).
 
+{{% callout note %}}
+**Aprende más** sobre la **escritura** correcta de **magnitudes** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#9-escritura-de-magnitudes" >}}).
+{{% /callout %}}
+
 [^2]: Excepto cuando la primera cifra significativa es un 1, que entonces utilizamos dos.
 
 ### Ejemplos

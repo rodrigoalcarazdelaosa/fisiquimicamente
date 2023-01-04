@@ -46,6 +46,10 @@ slides: sistema-periodico-4ESO
 ## Configuración electrónica
 La **configuración electrónica** es la **distribución** de los **electrones** de un **átomo** en **orbitales atómicos** (s, p, d y f).
 
+{{% callout note %}}
+Consulta [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#7-configuración-electrónica" >}}) las **reglas** que se han de tener en cuenta a la hora de **escribir** la **configuración electrónica** de un átomo o un ion monoatómico.
+{{% /callout %}}
+
 ### Orbitales atómicos
 Se trata de **regiones** del **espacio** donde la **probabilidad** de **encontrar** a los **electrones** es **mayor**.
 

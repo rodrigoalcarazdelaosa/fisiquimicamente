@@ -60,6 +60,10 @@ La **tabla periódica** de los **elementos** organiza los **118 elementos** cono
 
 {{% embed_pdf url="https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos-configuraciones-electronicas.pdf" filename="tabla-periodica-elementos-configuraciones-electronicas.pdf" %}}
 
+{{% callout note %}}
+Consulta [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#7-configuración-electrónica" >}}) las **reglas** que se han de tener en cuenta a la hora de **escribir** la **configuración electrónica** de un átomo o un ion monoatómico.
+{{% /callout %}}
+
 <!-- {{< figure library="true" src="sistema-periodico-2Bach-quimica/tabla-periodica-elementos.png" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/2bach/quimica/sistema-periodico/tabla-periodica-elementos.pdf) (cada **elemento** es un **enlace** que te lleva a su página de la **Wikipedia**)." lightbox="true" >}} -->
 
 ## Apantallamiento y carga nuclear efectiva

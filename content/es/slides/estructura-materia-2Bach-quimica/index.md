@@ -367,7 +367,7 @@ Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$.
 
 - [Principio de exclusión de Pauli](#/5/1)
 - [Orden energético creciente](#/5/3)
-- [Regla de Hund de la máxima multiplicidad](#/5/7)
+- [Regla de Hund de la máxima multiplicidad](#/5/8)
 
 (continúa hacia abajo)
 
@@ -394,6 +394,10 @@ La **configuración electrónica** es la **distribución** de los **electrones**
 
 ---
 
+> Consulta [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#7-configuración-electrónica" >}}) las **reglas** que se han de tener en cuenta a la hora de **escribir** la **configuración electrónica** de un átomo o un ion monoatómico.
+
+---
+
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orden-energetico-creciente.png" lightbox="false" >}}
 
 ---
@@ -417,6 +421,10 @@ El **diagrama** de **Möller** nos ayuda a saber en qué **orden** han de **llen
 Se muestran también los **números cuánticos** del **último electrón**:
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/regla-hund.svg" lightbox="false" width="100%" >}}
+
+---
+
+> La **configuración electrónica** del **nivel fundamental** cumple que 1) **minimiza** la **energía** total de los **electrones**, (2) **obedece** el **principio** de **exclusión** de **Pauli**, (3) **obedece** la **regla** de **Hund** de la **máxima multiplicidad** y (4) **considera** la [**interacción** de **canje**](https://es.wikipedia.org/wiki/Interacción_de_canje).
 
 {{% /section %}}
 

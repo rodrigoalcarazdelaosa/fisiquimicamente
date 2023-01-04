@@ -33,11 +33,11 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 {{% section %}}
 
 ## Configuración electrónica
-- [Orbitales atómicos](#/1/2)
-- [Diagrama de Möller](#/1/7)
-- [Estado fundamental](#/1/9)
-- [Estados excitados](#/1/10)
-- [Estados prohibidos](#/1/11)
+- [Orbitales atómicos](#/1/3)
+- [Diagrama de Möller](#/1/8)
+- [Estado fundamental](#/1/10)
+- [Estados excitados](#/1/11)
+- [Estados prohibidos](#/1/12)
 
 (continúa hacia abajo)
 
@@ -46,6 +46,10 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ---
 
 La **configuración electrónica** es la **distribución** de **electrones** de un **átomo** en **orbitales atómicos** (s, p, d y f).
+
+---
+
+> Consulta [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#7-configuración-electrónica" >}}) las **reglas** que se han de tener en cuenta a la hora de **escribir** la **configuración electrónica** de un átomo o un ion monoatómico.
 
 ---
 

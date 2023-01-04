@@ -474,6 +474,10 @@ Por regla general, las **incertidumbres siempre** se expresan con **una sola cif
 
 ---
 
+> **Aprende más** sobre la **escritura** correcta de **magnitudes** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#9-escritura-de-magnitudes" >}}).
+
+---
+
 ### Ejemplos
 - $t = (5.67\pm 2.00)\thinspace\mathrm s \rightarrow t = (6\pm 2)\thinspace\mathrm s$
 - $l = (1307\pm 202)\thinspace\mathrm{\mu m} \rightarrow l = (1300\pm 200)\thinspace\mathrm{\mu m}$
