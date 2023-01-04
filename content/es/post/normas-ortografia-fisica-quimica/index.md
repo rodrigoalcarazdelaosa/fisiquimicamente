@@ -81,48 +81,48 @@ Agradecerle a [OꓷⱯԀԀIꓶℲ](https://twitter.com/docenteflipado) que nos h
 
 ## 1. Coma decimal
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/coma-decimal.pdf" filename="coma-decimal.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/coma-decimal.pdf" filename="coma-decimal.pdf" divId="coma-decimal" %}}
 
 ## 2. Notación vectorial
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/notacion-vectorial.pdf" filename="notacion-vectorial.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/notacion-vectorial.pdf" filename="notacion-vectorial.pdf" divId="notacion-vectorial" %}}
 
 ## 3. Enlaces de hidrógeno vs. puentes de hidrógeno
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/enlaces-hidrogeno.pdf" filename="enlaces-hidrogeno.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/enlaces-hidrogeno.pdf" filename="enlaces-hidrogeno.pdf" divId="enlaces-hidrogeno" %}}
 
 ## 4. Temperatura absoluta
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/temperatura-absoluta.pdf" filename="temperatura-absoluta.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/temperatura-absoluta.pdf" filename="temperatura-absoluta.pdf" divId="temperatura-absoluta" %}}
 
 ## 5. Escala Celsius
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/escala-celsius.pdf" filename="escala-celsius.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/escala-celsius.pdf" filename="escala-celsius.pdf" divId="escala-celsius" %}}
 
 ## 6. Unidades y porcentajes
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/unidades-porcentajes.pdf" filename="unidades-porcentajes.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/unidades-porcentajes.pdf" filename="unidades-porcentajes.pdf" divId="unidades-porcentajes" %}}
 
 ## 7. Configuración electrónica
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/configuracion-electronica.pdf" filename="configuracion-electronica.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/configuracion-electronica.pdf" filename="configuracion-electronica.pdf" divId="configuracion-electronica" %}}
 
 ## 8. Cantidad de sustancia
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/cantidad-sustancia.pdf" filename="cantidad-sustancia.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/cantidad-sustancia.pdf" filename="cantidad-sustancia.pdf" divId="cantidad-sustancia" %}}
 
 ## 9. Escritura de magnitudes
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/escritura-magnitudes.pdf" filename="escritura-magnitudes.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/escritura-magnitudes.pdf" filename="escritura-magnitudes.pdf" divId="escritura-magnitudes" %}}
 
 ## 10. Nomenclatura de taxones
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/nomenclatura-taxones.pdf" filename="nomenclatura-taxones.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/nomenclatura-taxones.pdf" filename="nomenclatura-taxones.pdf" divId="nomenclatura-taxones" %}}
 
 ## 11. Triedro trirrectángulo
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/triedro-trirrectangulo.pdf" filename="triedro-trirrectangulo.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/triedro-trirrectangulo.pdf" filename="triedro-trirrectangulo.pdf" divId="triedro-trirrectangulo" %}}
 
 ## 12. Hidrógeno
 
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/hidrogeno.pdf" filename="hidrogeno.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2022/11/12/normas-de-ortografia-en-fisica-y-quimica/hidrogeno.pdf" filename="hidrogeno.pdf" divId="hidrogeno" %}}

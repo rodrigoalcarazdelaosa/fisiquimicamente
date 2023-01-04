@@ -30,7 +30,7 @@ Inspired by the [<img draggable="false" class="icon" alt="DC" src="/icon/DC.svg"
 Each image is a **link** that takes you to the scientist's Wikipedia page. In addition, on the back (second page of the PDF) you can see both the **name** of each **element** and that of each **scientist** (both linked to Wikipedia).
 {{% /callout %}}
 
-{{% embed_pdf url="https://physichemically.com/pdf/periodic-table-scientists.pdf" filename="periodic-table-scientists.pdf" %}}
+{{% embed_pdf url="https://physichemically.com/pdf/periodic-table-scientists.pdf" filename="periodic-table-scientists.pdf" locale="en-GB" %}}
 
 ## Notes
 Some **notes** about the Table:
