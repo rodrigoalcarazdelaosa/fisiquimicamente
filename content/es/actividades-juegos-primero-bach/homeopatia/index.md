@@ -1,8 +1,8 @@
 ---
 title: Homeopatía
 url: "/recursos-fisica-quimica/actividades-juegos/1bach/homeopatia"
-subtitle: Concentración de disoluciones, sentido crítico y pseudociencia
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Concentración, sentido crítico y pseudociencia."
+subtitle: Concentración de disoluciones, sentido crítico y pseudociencias
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Concentración, sentido crítico y pseudociencias."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-1bach"]
 tags:
 - actividades
