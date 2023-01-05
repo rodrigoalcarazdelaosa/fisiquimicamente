@@ -11,7 +11,7 @@ cta:
   icon: compass
 cta_alt:
   label: Última actividad/juego ➡️
-  url: "/recursos-fisica-quimica/actividades-juegos/4eso/distancia-seguridad"
+  url: "/recursos-fisica-quimica/actividades-juegos/1bach/homeopatia"
 cta_note:
   label:
 design:

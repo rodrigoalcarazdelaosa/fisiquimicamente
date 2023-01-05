@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Distancia de seguridad | 4.º ESO
-      url: '/recursos-fisica-quimica/actividades-juegos/4eso/distancia-seguridad/'
+      text: Homeopatía | 1.º Bach
+      url: '/recursos-fisica-quimica/actividades-juegos/1bach/homeopatia/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
