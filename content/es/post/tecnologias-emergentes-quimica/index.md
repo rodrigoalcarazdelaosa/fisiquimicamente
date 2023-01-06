@@ -1,7 +1,7 @@
 ---
-title: Las diez tecnologías emergentes más importantes del 2021 en Química
+title: Las diez tecnologías emergentes más importantes en Química
 subtitle: Según la IUPAC
-summary: "Las diez tecnologías emergentes más importantes del 2021 en Química según la IUPAC."
+summary: "Las diez tecnologías emergentes más importantes en Química según la IUPAC."
 breadcrumbs: ["blog"]
 date: "2022-03-30T00:00:00Z"
 authors:
@@ -27,12 +27,12 @@ categories:
 - Química
 image:
   placement: 3
-  caption: "https://iupac.org/what-we-do/top-ten/"
+  caption: "https://iupac.org/what-we-do/top-ten/topten1/"
 threedmol: true
 ---
 
 {{% callout note %}}
-Esta entrada es una **traducción/adaptación** del [magnífico **artículo** de **Fernando Gomollón-Bel** publicado en **Chemistry International**](https://www.degruyter.com/document/doi/10.1515/ci-2021-0404/html).
+Esta entrada es una **traducción/adaptación** de los magníficos **artículos** de **Fernando Gomollón-Bel** publicados en **Chemistry International**: [2019](https://www.degruyter.com/document/doi/10.1515/ci-2019-0203/html), [2020](https://www.degruyter.com/document/doi/10.1515/ci-2020-0402/html), [2021](https://www.degruyter.com/document/doi/10.1515/ci-2021-0404/html) y [2022](https://www.degruyter.com/document/doi/10.1515/ci-2022-0402/html).
 {{% /callout %}}
 
 {{% callout note %}}
@@ -47,13 +47,21 @@ Bioinformatics (2015) 31 (8): 1322–1324 https://doi.org/10.1093/bioinformatics
 
 {{% toc %}}
 
-El objetivo del proyecto de la [**IUPAC**](https://es.wikipedia.org/wiki/Unión_Internacional_de_Qu%C3%ADmica_Pura_y_Aplicada) de las [**Diez Tecnologías Emergentes Más Importantes en Química**](https://iupac.org/what-we-do/top-ten/) es mostrar el valor de la Química e informar al público en general de cómo las ciencias químicas contribuyen al bienestar de la sociedad y a la sostenibilidad del Planeta Tierra. Desde 2019, el Jurado[^1] selecciona las tecnologías emergentes sobre la base de las que se encuentran entre un nuevo descubrimiento científico y una tecnología plenamente comercializada, y las que tienen la mayor capacidad de abrir nuevas oportunidades en la química y más allá.
+El objetivo del proyecto de la [**IUPAC**](https://es.wikipedia.org/wiki/Unión_Internacional_de_Qu%C3%ADmica_Pura_y_Aplicada) de las [**Diez Tecnologías Emergentes Más Importantes en Química**](https://iupac.org/what-we-do/top-ten/) es mostrar el valor de la Química e informar al público en general de cómo las ciencias químicas contribuyen al bienestar de la sociedad y a la sostenibilidad del Planeta Tierra.
 
-[^1]: El jurado de las Diez Tecnologías Emergentes Más Importantes en Química de 2021 estuvo compuesto por las siguientes personas: Presidente, Michael Droescher, (Asociación Alemana para el Avance de la Ciencia y la Medicina), Jorge Alegre-Cebollada (Centro Nacional de Investigaciones Cardiovasculares, España), Sophie Carenco (Centro Nacional de Investigación Científica, Francia), Javier García Martínez (Universidad de Alicante, España), Ehud Keinan (Technion, Israel), Rai Kookana (CSIRO Land & Water, Australia), Greg Russell (University of Canterbury, Nueva Zelanda), Ken Sakai (Kyushu University, Japón), Natalia P. Tarasova (Universidad D. I. Mendeleev de Tecnología Química, Rusia) y Bernard West (Life Sciences Ontario, Canadá).
+Desde 2019, el Jurado selecciona las tecnologías emergentes sobre la base de las que se encuentran entre un nuevo descubrimiento científico y una tecnología plenamente comercializada, y las que tienen la mayor capacidad de abrir nuevas oportunidades en la química y más allá.
+
+## 2022
+
+{{< figure src="2022.png" title="https://iupac.org/iupac-2022-top-ten/" lightbox="true" >}}
+
+## 2021
+
+{{< figure src="2021.png" title="https://iupac.org/iupac-announces-the-2021-top-ten-emerging-technologies-in-chemistry/" lightbox="true" >}}
 
 {{< youtube OeIyUmafemo >}}
 
-## Tecnología de cadena de bloques (*blockchain*)
+### Tecnología de cadena de bloques (*blockchain*)
 
 {{< hl >}}**Avances digitales para una innovación química más reproducible y trazable**{{< /hl >}}
 
@@ -61,7 +69,7 @@ El objetivo del proyecto de la [**IUPAC**](https://es.wikipedia.org/wiki/Unión_
 
 Desde que [Satoshi Nakamoto](https://es.wikipedia.org/wiki/Satoshi_Nakamoto) conceptualizara y diseñara la tecnología *blockchain* en 2008, creando la criptomoneda [{{< icon name="bitcoin" pack="fab" >}}**bitcoin**](https://es.wikipedia.org/wiki/Bitcoin), expertos de diversos campos han adaptado esta tecnología para desarrollar muchas otras aplicaciones. En Química, la tecnología *blockchain* se está utilizando para modernizar las cadenas de suministro, asegurando la trazabilidad y el seguimiento de todas las transacciones, desde las materias primas hasta el producto final. Se espera que la tecnología *blockchain* genere un valor comercial de más de tres billones de dólares para 2030.
 
-## Vida semisintética
+### Vida semisintética
 
 {{< hl >}}**Nuevas letras para ampliar la bioquímica y la terapéutica**{{< /hl >}}
 
@@ -69,7 +77,7 @@ Desde que [Satoshi Nakamoto](https://es.wikipedia.org/wiki/Satoshi_Nakamoto) con
 
 [Los alquimistas soñaban con transformar el plomo en oro](https://es.wikipedia.org/wiki/Alquimia). Hoy en día, los químicos fantasean con **ampliar el código de la vida**, un sistema universal para ocultar la información biológica. Desde que en 2014 un grupo de investigadores de [Scripps](https://es.wikipedia.org/wiki/Scripps_Research_Institute) consiguiera añadir dos letras al alfabeto genético, los científicos han conseguido expandir el alfabeto con nuevas bases, creando [**nucleótidos**](https://es.wikipedia.org/wiki/Nucleótido) **sintéticos** y diseñando sistemas biológicos que interpretan y explotan estas letras no naturales. Se codifican así proteínas inusuales, que también presentan aminoácidos no tradicionales, ampliando los límites de la vida tal y como la conocemos y permitiendo toda una nueva gama de **mejores terapias y soluciones médicas**.
 
-## *Supermojabilidad*
+### *Supermojabilidad*
 
 {{< hl >}}**Un descubrimiento centenario ofrece nuevas oportunidades**{{< /hl >}}
 
@@ -77,13 +85,13 @@ Desde que [Satoshi Nakamoto](https://es.wikipedia.org/wiki/Satoshi_Nakamoto) con
 
 [Thomas Young](https://es.wikipedia.org/wiki/Thomas_Young) fue el primero en dar, en 1805, una definición del término [***mojabilidad***](https://es.wikipedia.org/wiki/Mojabilidad) &mdash;la capacidad de los líquidos para mantener el contacto con una superficie sólida&mdash;, basada en el ángulo de contacto que las gotas de líquido forman en la interfaz líquido-sólido.
 
-Tras siglos de estudio del fenómeno, los científicos actuales son capaces incluso de modificarlo a voluntad, creando **superficies nanoestructuradas**[^2] en metales, polímeros, tejidos y más. La Química es, por supuesto, fundamental para estos diseños, que requieren técnicas de fabricación cuidadosamente controladas.
+Tras siglos de estudio del fenómeno, los científicos actuales son capaces incluso de modificarlo a voluntad, creando **superficies nanoestructuradas**[^1] en metales, polímeros, tejidos y más. La Química es, por supuesto, fundamental para estos diseños, que requieren técnicas de fabricación cuidadosamente controladas.
 
-[^2]: Muchas de ellas inspiradas por estructuras naturales, como las patas de los [*geckos*](https://es.wikipedia.org/wiki/Gekkota) y las ranas, los ojos de los mosquitos y la superficie de los cactus y las rosas.
+[^1]: Muchas de ellas inspiradas por estructuras naturales, como las patas de los [*geckos*](https://es.wikipedia.org/wiki/Gekkota) y las ranas, los ojos de los mosquitos y la superficie de los cactus y las rosas.
 
 La ***supermojabilidad*** encuentra así aplicaciones en sensores, impresoras, dispositivos de almacenamiento de energía, eliminación de la contaminación, recogida de agua, y otras, como tejidos autolimpiables, separación de aceites y refrigeración.
 
-## Humus artificial
+### Humus artificial
 
 {{< hl >}}**Soluciones de ingeniería de carbono negativo para una agricultura sostenible y eficiente**{{< /hl >}}
 
@@ -97,7 +105,7 @@ De entre los distintos enfoques para acelerar la descomposición de la materia o
 
 Aparte de muchas otras ventajas, como la mejora de la fijación del agua y de los fertilizantes o la estimulación de la microbiología del suelo, el **humus artificial** es esencialmente [negativo en cuanto al carbono](https://es.wikipedia.org/wiki/Neutralidad_de_carbono), lo que sin duda allanará el camino hacia procesos agrícolas más sostenibles y eficientes.
 
-## Síntesis química de ARN y ADN
+### Síntesis química de ARN y ADN
 
 {{< hl >}}**El futuro de los ácidos nucleicos en química medicinal después de las vacunas COVID**{{< /hl >}}
 
@@ -105,39 +113,39 @@ Aparte de muchas otras ventajas, como la mejora de la fijación del agua y de lo
 
 El año pasado, la IUPAC destacó el potencial de las [**vacunas de ARN**](https://es.wikipedia.org/wiki/Vacuna_de_ARN) para acabar con la [**COVID-19**](https://es.wikipedia.org/wiki/COVID-19) y, muy probablemente, con muchas otras enfermedades en el futuro, como el [cáncer](https://es.wikipedia.org/wiki/Cáncer), el [VIH/sida](https://es.wikipedia.org/wiki/VIH/sida) y la [gripe](https://es.wikipedia.org/wiki/Gripe).
 
-De las diez tecnologías escogidas, esta es probablemente la más establecida en el mercado[^3], gracias a los avances en la [**síntesis química de ácidos nucleicos**](https://es.wikipedia.org/wiki/S%C3%ADntesis_de_ADN), lo que hace que estas vacunas sean adaptables y versátiles, además de relativamente rápidas de fabricar.
+De las diez tecnologías escogidas, esta es probablemente la más establecida en el mercado[^2], gracias a los avances en la [**síntesis química de ácidos nucleicos**](https://es.wikipedia.org/wiki/S%C3%ADntesis_de_ADN), lo que hace que estas vacunas sean adaptables y versátiles, además de relativamente rápidas de fabricar.
 
-[^3]: A finales de julio de 2021, Estados Unidos había administrado más de 325 millones de dosis de vacunas de ARNm contra el SARS-CoV-2.
+[^2]: A finales de julio de 2021, Estados Unidos había administrado más de 325 millones de dosis de vacunas de ARNm contra el SARS-CoV-2.
 
 Hoy en día, la síntesis de ácidos nucleicos ha avanzado lo suficiente como para obtener resultados que rozan la ciencia ficción, pudiéndose *imprimir* cadenas de ADN de forma directa y precisa en [**microrreactores**](https://en.wikipedia.org/wiki/Microreactor) de silicio &mdash;dispositivos con infinidad de aplicaciones en química, biotecnología y medicina. Compañías como [Microsoft](https://es.wikipedia.org/wiki/Microsoft) o [Western Digital](https://es.wikipedia.org/wiki/Western_Digital) están explorando las posibilidades del ADN sintetizado químicamente para el almacenamiento de datos, con resultados muy prometedores.
 
 El hecho de que desarrollos químicos de hace décadas encuentren aplicaciones tan importantes como el triunfo de las vacunas de [**ARN mensajero**](https://es.wikipedia.org/wiki/ARN_mensajero), demuestra que la financiación de investigación básica es primordial para el progreso.
 
-## Recubrimientos sonoquímicos
+### Recubrimientos sonoquímicos
 
 {{< hl >}}**Materiales más seguros y duraderos con propiedades de valor añadido**{{< /hl >}}
 
 La [**sonoquímica**](https://es.wikipedia.org/wiki/Sonoqu%C3%ADmica) consiste en utilizar [**ultrasonidos**](https://es.wikipedia.org/wiki/Ultrasonido) para **provocar o acelerar reacciones químicas**. Este año la IUPAC destaca el potencial de la sonoquímica en el recubrimiento de superficies, una tecnología que contribuye directamente a varios [**Objetivos de Desarrollo Sostenible**]({{< relref "/post/objetivos-desarrollo-sostenible" >}}) (SDGs por sus siglas en inglés).
 
-De entre las distintas **propiedades** que confieren este tipo de tratamientos a una determinada superficie, como magnetismo o fluorescencia, destaca la **actividad** [**antimicrobiana**](https://es.wikipedia.org/wiki/Antimicrobiano), por su especial relevancia durante la pandemia de COVID-19. Nanopartículas de metales como plata, cobre y zinc pueden ser depositadas sobre textiles mediante recubrimientos sonoquímicos, para reducir así infecciones. Investigadores españoles han desarrollado un **tejido *inteligente*** a base de nanopartículas de [**azul de Prusia**](https://es.wikipedia.org/wiki/Azul_de_Prusia)[^4] que cambia de color al contaminarse con cepas de bacterias patógenas.
+De entre las distintas **propiedades** que confieren este tipo de tratamientos a una determinada superficie, como magnetismo o fluorescencia, destaca la **actividad** [**antimicrobiana**](https://es.wikipedia.org/wiki/Antimicrobiano), por su especial relevancia durante la pandemia de COVID-19. Nanopartículas de metales como plata, cobre y zinc pueden ser depositadas sobre textiles mediante recubrimientos sonoquímicos, para reducir así infecciones. Investigadores españoles han desarrollado un **tejido *inteligente*** a base de nanopartículas de [**azul de Prusia**](https://es.wikipedia.org/wiki/Azul_de_Prusia)[^3] que cambia de color al contaminarse con cepas de bacterias patógenas.
 
 {{< figure src="azul-prusia.jpg" title="Muestra de **azul de Prusia**. Fuente: https://commons.wikimedia.org/wiki/File:Pigment_Berliner_Blau.JPG." lightbox="true" >}}
 
-[^4]: Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>: hexacianoferrato(II) de hierro(III).
+[^3]: Fe<sub>4</sub>[Fe(CN)<sub>6</sub>]<sub>3</sub>: hexacianoferrato(II) de hierro(III).
 
 Los **recubrimientos sonoquímicos** también ofrecen ventajas en los ámbitos de la seguridad alimentaria y la energía: el recubrimiento de fresas con compuestos antibacterianos prolonga su vida útil y el revestimiento de [**baterías de iones de litio**](https://es.wikipedia.org/wiki/Bater%C3%ADa_de_ion_de_litio) proporciona un alto rendimiento y estabilidad.
 
 Como tecnología emergente, los recubrimientos sonoquímicos deberían sobrevivir ahora al *valle de la muerte* y salvar con éxito la brecha con la industria.
 
-## Quimioluminiscencia para uso biológico
+### Quimioluminiscencia para uso biológico
 
 {{< hl >}}**Dioxetanos solubles en agua mejoran la velocidad y la sensibilidad de las pruebas biológicas**{{< /hl >}}
 
 {{< figure src="quimioluminiscencia.jpg" title="[**Quimioluminiscencia**](https://es.wikipedia.org/wiki/Quimioluminiscencia) tras una reacción de [peróxido de hidrógeno (agua oxigenada)](https://es.wikipedia.org/wiki/Peróxido_de_hidrógeno) y [luminol](https://es.wikipedia.org/wiki/Luminol). Fuente: https://commons.wikimedia.org/wiki/File:Chemiluminescence.jpg." lightbox="true" >}}
 
-La [**luminiscencia**](https://es.wikipedia.org/wiki/Luminiscencia) siempre ha fascinado al ser humano. Admirar el brillo verde de las [luciérnagas](https://es.wikipedia.org/wiki/Lampyridae) y el azul de las algas es simplemente mágico. Los científicos han aprendido a aprovechar el poder de estas reacciones químicas: el [**luminol**](https://es.wikipedia.org/wiki/Luminol)[^5] ayuda a los investigadores de la escena del crimen a detectar la sangre y la [**proteína verde fluorescente**](https://es.wikipedia.org/wiki/Prote%C3%ADna_verde_fluorescente) (GFP por sus siglas en inglés), [ganadora del premio Nobel en 2008](https://www.nobelprize.org/prizes/chemistry/2008/summary/), ilumina las muestras biológicas, simplificando la [microscopía](https://es.wikipedia.org/wiki/Microscop%C3%ADa).
+La [**luminiscencia**](https://es.wikipedia.org/wiki/Luminiscencia) siempre ha fascinado al ser humano. Admirar el brillo verde de las [luciérnagas](https://es.wikipedia.org/wiki/Lampyridae) y el azul de las algas es simplemente mágico. Los científicos han aprendido a aprovechar el poder de estas reacciones químicas: el [**luminol**](https://es.wikipedia.org/wiki/Luminol)[^4] ayuda a los investigadores de la escena del crimen a detectar la sangre y la [**proteína verde fluorescente**](https://es.wikipedia.org/wiki/Prote%C3%ADna_verde_fluorescente) (GFP por sus siglas en inglés), [ganadora del premio Nobel en 2008](https://www.nobelprize.org/prizes/chemistry/2008/summary/), ilumina las muestras biológicas, simplificando la [microscopía](https://es.wikipedia.org/wiki/Microscop%C3%ADa).
 
-[^5]: PIN: 5-amino-2,3-dihidroftalazina-1,4-diona.
+[^4]: PIN: 5-amino-2,3-dihidroftalazina-1,4-diona.
 
 {{< spoiler text="Pincha aquí para **interactuar** con la **molécula** de **luminol** en **3D**" >}}
 {{% 3Dmol data_cid="10638" %}}
@@ -159,13 +167,13 @@ Además, los **dioxetanos** brindan interesantes oportunidades en el campo de la
 
 {{< figure src="barras-luminosas.jpg" title="[Barras luminosas](https://es.wikipedia.org/wiki/Barra_luminosa) de diferentes colores para su uso como pulseras. Fuente: https://commons.wikimedia.org/wiki/File:Various_glowsticks_on_a_black_background_in_rings.JPG." lightbox="true" >}}
 
-## Producción sostenible de amoniaco
+### Producción sostenible de amoniaco
 
 {{< hl >}}**Alternativas ecológicas al proceso de Haber-Bosch**{{< /hl >}}
 
-El [**proceso de Haber-Bosch**](https://es.wikipedia.org/wiki/Proceso_de_Haber) para la [**síntesis de amoniaco**]({{< ref "/apuntes-segundo-bach-quimica/equilibrio-quimico/index.md#obtención-industrial-del-amoniaco" >}}) es una de las reacciones químicas más exitosas de todos los tiempos. Permite transformar el nitrógeno atmosférico&mdash;muy inerte, gracias al segundo enlace químico más fuerte de una molécula diatómica[^6]&mdash; en amoniaco y, a continuación, en nitratos y nitritos, que se utilizan en todas las industrias para fabricar fertilizantes, plásticos, fibras, refrigerantes, etc. Esta única reacción catapultó el boom demográfico del siglo XX y actualmente produce más de 200 millones de toneladas métricas de amoniaco al año.
+El [**proceso de Haber-Bosch**](https://es.wikipedia.org/wiki/Proceso_de_Haber) para la [**síntesis de amoniaco**]({{< ref "/apuntes-segundo-bach-quimica/equilibrio-quimico/index.md#obtención-industrial-del-amoniaco" >}}) es una de las reacciones químicas más exitosas de todos los tiempos. Permite transformar el nitrógeno atmosférico&mdash;muy inerte, gracias al segundo enlace químico más fuerte de una molécula diatómica[^5]&mdash; en amoniaco y, a continuación, en nitratos y nitritos, que se utilizan en todas las industrias para fabricar fertilizantes, plásticos, fibras, refrigerantes, etc. Esta única reacción catapultó el boom demográfico del siglo XX y actualmente produce más de 200 millones de toneladas métricas de amoniaco al año.
 
-[^6]: El enlace más fuerte para una especie diatómica es el del [monóxido de carbono (CO)](https://es.wikipedia.org/wiki/Monóxido_de_carbono).
+[^5]: El enlace más fuerte para una especie diatómica es el del [monóxido de carbono (CO)](https://es.wikipedia.org/wiki/Monóxido_de_carbono).
 
 {{< figure src="equilibrio-quimico-2Bach-quimica/Haber-Bosch.svg" title="Diagrama del **proceso de Haber-Bosch**. Adaptada de https://commons.wikimedia.org/wiki/File:Haber-Bosch-es.svg." lightbox="false" width="100%" >}}
 
@@ -185,7 +193,7 @@ Además, el **amoniaco** técnicamente ***almacena*** el **hidrógeno**, un comb
 
 Aunque todavía se están llevando a cabo muchos estudios fundamentales, algunas soluciones para la fabricación de amoniaco verde ya han alcanzado un **alto** [**nivel de madurez tecnológica**](https://es.wikipedia.org/wiki/Nivel_de_madurez_tecnológica) (TRLs por sus siglas en inglés), incluyendo los esfuerzos privados de [Yara](https://es.wikipedia.org/wiki/Yara_International) (Australia), [Hiringa Energy](https://www.hiringa.co.nz) (Nueva Zelanda), [Topsoe](https://www.topsoe.com/?hsLang=en) (Dinamarca) e [Iberdrola](https://es.wikipedia.org/wiki/Iberdrola) (España). Los fertilizantes, los plásticos y los combustibles ecológicos acompañarán al **amoniaco sostenible**, contribuyendo a [**Objetivos de Desarrollo Sostenible**]({{< relref "/post/objetivos-desarrollo-sostenible" >}}) en todos los ámbitos, desde la energía limpia y la agricultura eficiente hasta las ciudades sostenibles y la producción responsable.
 
-## Degradación selectiva de proteínas
+### Degradación selectiva de proteínas
 
 {{< hl >}}**Aprovechar la maquinaria de nuestras células para revolucionar la farmacia**{{< /hl >}}
 
@@ -201,7 +209,7 @@ Las **PROTACs** de diseño racional (así como otras moléculas con efectos simi
 
 Más allá del cáncer, los investigadores exploran las posibilidades de la TPD para tratar enfermedades relacionadas con la acumulación de proteínas, incluidas las **enfermedades neurodegenerativas** como el [**Parkinson**](https://es.wikipedia.org/wiki/Enfermedad_de_Parkinson) y el [**Alzheimer**](https://es.wikipedia.org/wiki/Enfermedad_de_Alzheimer). Los estudios preliminares muestran que la TPD mediada por PROTACs es una buena estrategia para provocar la eliminación de ciertas agregaciones de proteínas&mdash;entre ellas la [proteína tau patógena](https://es.wikipedia.org/wiki/Prote%C3%ADna_tau), vinculada al Alzheimer. El experto en TPD Craig Crews, cofundador de Arvinas, predice que estos resultados son sólo el principio de una nueva revolución en la industria farmacéutica. Desde luego, se trata de una **tecnología emergente y esperanzadora**.
 
-## Metabolómica unicelular
+### Metabolómica unicelular
 
 {{< hl >}}**Análisis de biomoléculas, célula a célula**{{< /hl >}}
 
@@ -214,3 +222,11 @@ En este sentido, la búsqueda de este año reconoce el progreso de la [**metabol
 En la **actualidad**, los investigadores buscan **mejorar** los **límites de detección**, así como **desarrollar herramientas digitales**. Estas servirán para muchos propósitos: desde el enriquecimiento de las bases de datos hasta la aceleración del reconocimiento de metabolitos, pasando por la mejora de los algoritmos para distinguir el ruido y los artefactos de la variabilidad biológica real. En el contexto del pánico de los coronavirus&mdash;y de futuros brotes&mdash; la metabolómica unicelular demostrará sus enormes posibilidades. Varios estudios aprovechan su poder para comprender mejor los procesos de infección y las interacciones entre el virus invasor y nuestras células.
 
 Para algunos expertos, este campo es todavía joven y está lleno de complejos retos por delante. Sin embargo, los científicos resuelven progresivamente estos retos y siguen validando esta tecnología emergente, que podría aportar respuestas sólidas a secretos bioquímicos fundamentales.
+
+## 2020
+
+{{< youtube sAtp7yyw98o >}}
+
+## 2019
+
+{{< youtube K3cIk4C7v3I >}}
