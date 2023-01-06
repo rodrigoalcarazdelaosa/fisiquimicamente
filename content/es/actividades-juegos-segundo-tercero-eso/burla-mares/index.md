@@ -56,5 +56,5 @@ Pequeño grupo 3–4 personas.
 
 ## 💼 Materiales necesarios
 
-- Una copia de cada capítulo por equipo.
-- Una copia de los mapas por equipo.
+- Una copia de cada [capítulo](burla-mares-capitulos.pdf) por equipo.
+- Una copia de los [mapas](burla-mares-mapas.pdf) por equipo.
