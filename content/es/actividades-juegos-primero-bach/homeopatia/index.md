@@ -54,7 +54,7 @@ La duración es de una sesión de 50&thinsp;min.
 Se puede realizar individualmente, en parejas o en pequeños grupos de 3–4 personas.
 
 ## 💼 Material necesario
-La [hoja de trabajo](homeopatia-hoja-trabajo.pdf) que puedes descargar pinchando en el botón de arriba.
+La [**hoja** de **trabajo**](homeopatia-hoja-trabajo.pdf) que puedes descargar pinchando en el botón de arriba.
 
 ## 🤓 Ampliación
 
