@@ -6,6 +6,7 @@ summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code>"
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 - leticia-cabezas
 tags:
 - apuntes
@@ -33,6 +34,10 @@ links:
 #   name: Póster
 #   url: MAS_poster.pdf
 
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: organica-ejercicios.pdf
 - icon_pack: fas
   icon: file-download
   name: Frikiexámenes
