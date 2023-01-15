@@ -94,6 +94,10 @@ En el SI se expresa en mol/kg, en cuyo caso se dice *molal* (m).
 
 Es una magnitud adimensional (mol/mol).
 
+{{% callout note %}}
+Remata el trabajo sobre **concentración** de **disoluciones** y, de paso, sé **crítico/a** con las **pseudociencias** con [esta genial **actividad** sobre **homeopatía**]({{< relref "/actividades-juegos-primero-bach/homeopatia" >}}).
+{{% /callout %}}
+
 ## Solubilidad
 
 Es la máxima cantidad de soluto que puede disolverse a una temperatura dada en un disolvente. Se suele expresar en gramos de soluto por cada 100&thinsp;mL de disolvente.

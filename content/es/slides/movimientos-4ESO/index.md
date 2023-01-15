@@ -30,6 +30,10 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
+> **Aplica** y **relaciona** los **conceptos** estudiados en este tema a una **situación cotidiana** como puede ser el **desplazamiento** en un **vehículo**, con [esta genial **actividad**]({{< relref "/actividades-juegos-cuarto-eso/distancia-seguridad" >}}).
+
+---
+
 {{% section %}}
 
 ## Movimiento rectilíneo uniforme (MRU)
