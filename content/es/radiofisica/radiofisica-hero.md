@@ -5,16 +5,16 @@ weight: 1
 title: ☢️ Radiofísica
 hero_media: "lottie/radiofisica.tgs"
 cta:
-  label: ¿Qué es la radiofísica?
-  url: "recursos-fisica-quimica/radiofisica/#que-es-la-radiofisica"
-  icon_pack: fas
-  icon: circle-radiation
+  label:
+  url:
+  icon_pack:
+  icon:
 cta_alt:
   label: 
   url:
 cta_note:
   label: >-
-    🧑‍🏫 **Ciclos formativos** <br> - Técnico Superior en Radioterapia y Dosimetría <br> - Técnico Superior en Imagen para el Diagnóstico y Medicina Nuclear <br> 🧑‍🔧 **Operador** de **Instalaciones Radiactivas (IIRR)** <br> ☢️ **Acceso** a la **especialidad** de **RFIR**
+    🧑‍🏫 **Ciclos formativos** <br>&emsp;&emsp; 🧬 Radioterapia y Dosimetría <br>&emsp;&emsp; 🩻 Imagen para el Diagnóstico y Medicina Nuclear <br> 🧑‍🔧 **Operador de Instalaciones Radiactivas (IIRR)** <br> 🏥 **Radiofísica Hospitalaria (RFIR)**
 design:
   background:
     # color: "#FFFFF8"

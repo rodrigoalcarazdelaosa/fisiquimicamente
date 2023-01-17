@@ -15,22 +15,23 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "🧑‍🏫"
+  icon = "🧬"
   icon_pack = "emoji"
-  name = "Ciclos formativos"
-  description = "🧬 Radioterapia y Dosimetría<br>🩻 Imagen para el Diagnóstico y Medicina Nuclear<br>`PRÓXIMAMENTE`"
+  name = "Radioterapia (RT)"
+  description = "`PRÓXIMAMENTE`"
   
 [[feature]]
-  icon = "[🧑‍🔧](operador-IIRR)"
-  icon_pack = "emoji"
-  name = "[Operador de IIRR](operador-IIRR)"
-  description = "[📝 Preguntas de examen](operador-IIRR/preguntas-examen) · [💡Consejos](operador-IIRR/consejos)"
+  icon = "MN"
+  icon_link = ""
+  icon_pack = "tgs"
+  name = "Medicina Nuclear (MN)"
+  description = "`PRÓXIMAMENTE`"
   
 [[feature]]
-  icon = "[🏥](RFIR)"
+  icon = "[🛡️](PR)"
   icon_pack = "emoji"
-  name = "[Radiofísica Hospitalaria (RFIR)](RFIR)"
-  description = "🧬 Radioterapia (RT) · 🧪 Medicina Nuclear (MN) · [🛡️ Protección Radiológica (PR)](RFIR/PR)"
+  name = "[Protección Radiológica (PR)](PR)"
+  description = ""
   
   
 [design.background]

@@ -31,7 +31,7 @@ subtitle = ""
 [[feature]]
   icon = "historia-ciencia"
   icon_link = "historia-ciencia/"
-  icon_pack = "lottie"
+  icon_pack = "tgs"
   name = "[Historia de la Ciencia](historia-ciencia)"
   description = "Biografías y principales contribuciones <br> de los grandes científicos y científicas de la historia"
   
@@ -54,7 +54,7 @@ subtitle = ""
   icon_link = "radiofisica/"
   icon_pack = "tgs"
   name = "[Radiofísica](radiofisica)"
-  description = "🧑‍🏫 Ciclos formativos · [🧑‍🔧 Operador de IIRR](radiofisica/operador-IIRR) · ☢️ RFIR"
+  description = "🧑‍🏫 Ciclos formativos · [🧑‍🔧 Operador de IIRR](radiofisica/operador-IIRR) · [🏥 Radiofísica Hospitalaria (RFIR)](radiofisica/RFIR)"
    
 [design]
   columns = "3"

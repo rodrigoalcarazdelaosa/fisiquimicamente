@@ -877,6 +877,43 @@
 	        <li class="breadcrumb-item active" aria-current="page">📝 Preguntas de examen</li>
 	    </ol>
 	    </nav>
+		{{ else if and (eq $block_type "hero-rfir") (eq $block.Params.title "🏥 Radiofísica Hospitalaria (RFIR)") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica/">☢️ Radiofísica</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">🏥 Radiofísica Hospitalaria (RFIR)</li>
+	    </ol>
+	    </nav>
+		{{ else if and (eq $block_type "portfolio") (eq $block.Params.subtitle "🛡️ Protección Radiológica (PR)") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica/">☢️ Radiofísica</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica/RFIR">🏥 Radiofísica Hospitalaria (RFIR)</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">🛡️ Protección Radiológica (PR)</li>
+	    </ol>
+	    </nav>		
     {{ else if and (eq $block_type "features") (eq $block.Title  "🔗 Enlaces de interés") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      

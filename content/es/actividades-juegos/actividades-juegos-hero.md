@@ -4,6 +4,7 @@ headless: true
 weight: 1
 title: 🧩 Actividades y juegos de Física y Química
 hero_media: "lottie/actividades-juegos.json"
+hero_media_caption: "Animación Lottie de [**Leonard Rey Fernandez**](https://lottiefiles.com/14486-puzzle)"
 cta:
   label: '**Explora**'
   url: "recursos-fisica-quimica/actividades-juegos/#actividades-juegos"
