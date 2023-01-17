@@ -18,11 +18,11 @@ slides:
 
 # Movimientos
 
-- [Movimiento rectilíneo uniforme (MRU)](#/1)
-- [Movimiento rectilíneo uniformemente acelerado (MRUA)](#/2)
-- [Caída libre/lanzamiento vertical](#/3)
-- [Encuentros](#/4)
-- [Movimiento circular uniforme (MCU)](#/5)
+- [Movimiento rectilíneo uniforme (MRU)](#/2)
+- [Movimiento rectilíneo uniformemente acelerado (MRUA)](#/3)
+- [Caída libre/lanzamiento vertical](#/4)
+- [Encuentros](#/5)
+- [Movimiento circular uniforme (MCU)](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
@@ -37,10 +37,10 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 {{% section %}}
 
 ## Movimiento rectilíneo uniforme (MRU)
-- [Características](#/1/1)
-- [Ecuación principal](#/1/2)
-- [Gráficas](#/1/3)
-- [Ejemplo](#/1/5)
+- [Características](#/2/1)
+- [Ecuación principal](#/2/2)
+- [Gráficas](#/2/3)
+- [Ejemplo](#/2/5)
 
 (continúa hacia abajo)
 
@@ -120,10 +120,10 @@ $$
 
 ## Movimiento rectilíneo uniformemente acelerado (MRUA)
 
-- [Características](#/2/1)
-- [Ecuaciones principales](#/2/2)
-- [Gráficas](#/2/3)
-- [Ejemplo](#/2/5)
+- [Características](#/3/1)
+- [Ecuaciones principales](#/3/2)
+- [Gráficas](#/3/3)
+- [Ejemplo](#/3/5)
 
 (continúa hacia abajo)
 
@@ -408,10 +408,10 @@ $$
 
 ## Movimiento circular uniforme (MCU)
 
-- [Características](#/5/1)
-- [Ecuación principal](#/5/3)
-- [Aceleración centrípeta $a_\mathrm c$](#/5/7)
-- [Ejemplo](#/5/8)
+- [Características](#/6/1)
+- [Ecuación principal](#/6/3)
+- [Aceleración centrípeta $a_\mathrm c$](#/6/7)
+- [Ejemplo](#/6/8)
 
 (continúa hacia abajo)
 
