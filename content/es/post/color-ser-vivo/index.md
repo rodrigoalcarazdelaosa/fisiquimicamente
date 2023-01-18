@@ -157,7 +157,7 @@ Los dos tipos de color que hemos visto en animales se basan en la [reflexión](h
 <figcaption>Estructura tridimensional de la <strong>luciferasa</strong>.</figcaption>
 </figure>
 
-Empecemos por los del primer tipo. [En un artículo anterior]({{< relref "/post/nanotermometria-luminiscente-i" >}}), vimos el uso de la emisión de luz cuando incidimos con luz ultravioleta para los CSI o en nanotermómetros. Algunos animales como los [**escorpiones**](https://es.wikipedia.org/wiki/Scorpiones) también brillan al iluminarlos con luz UV, sin necesidad de ninguna reacción bioquímica. Además de para reconocerse más fácilmente por la noche, hay debate en la comunidad científica sobre la utilidad de este brillo de los escorpiones. Muchos lo ven como detector natural de luz UV, que quizá les ayudaría a evitar salidas innecesarias en las noches menos oscuras.
+Empecemos por los del primer tipo. [En una entrada anterior]({{< relref "/post/nanotermometria-luminiscente-i" >}}), vimos el uso de la emisión de luz cuando incidimos con luz ultravioleta para los CSI o en nanotermómetros. Algunos animales como los [**escorpiones**](https://es.wikipedia.org/wiki/Scorpiones) también brillan al iluminarlos con luz UV, sin necesidad de ninguna reacción bioquímica. Además de para reconocerse más fácilmente por la noche, hay debate en la comunidad científica sobre la utilidad de este brillo de los escorpiones. Muchos lo ven como detector natural de luz UV, que quizá les ayudaría a evitar salidas innecesarias en las noches menos oscuras.
 
 {{< youtube x5dbnc57ieU >}}
 
