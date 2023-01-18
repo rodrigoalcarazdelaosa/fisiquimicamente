@@ -14,7 +14,7 @@ cta_alt:
   url:
 cta_note:
   label: >-
-    🧑‍🏫 **Ciclos formativos** <br>&emsp;&emsp; 🧬 Radioterapia y Dosimetría <br>&emsp;&emsp; 🩻 Imagen para el Diagnóstico y Medicina Nuclear <br> 🧑‍🔧 **Operador de Instalaciones Radiactivas (IIRR)** <br> 🏥 **Radiofísica Hospitalaria (RFIR)**
+    🧑‍🏫 **Ciclos formativos** <br>&emsp;&emsp; ⚡ Radioterapia y Dosimetría <br>&emsp;&emsp; 🩻 Imagen para el Diagnóstico y Medicina Nuclear <br> 🧑‍🔧 **Operador de Instalaciones Radiactivas (IIRR)** <br> 🏥 **Radiofísica Hospitalaria (RFIR)**
 design:
   background:
     # color: "#FFFFF8"

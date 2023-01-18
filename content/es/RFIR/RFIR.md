@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "🧬"
+  icon = "⚡"
   icon_pack = "emoji"
   name = "Radioterapia (RT)"
   description = "`PRÓXIMAMENTE`"

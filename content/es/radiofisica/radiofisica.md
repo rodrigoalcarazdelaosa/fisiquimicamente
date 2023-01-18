@@ -18,7 +18,7 @@ subtitle = ""
   icon = "🧑‍🏫"
   icon_pack = "emoji"
   name = "Ciclos formativos"
-  description = "🧬 Radioterapia y Dosimetría<br>🩻 Imagen para el Diagnóstico y Medicina Nuclear<br>`PRÓXIMAMENTE`"
+  description = "⚡ Radioterapia y Dosimetría<br>🩻 Imagen para el Diagnóstico y Medicina Nuclear<br>`PRÓXIMAMENTE`"
   
 [[feature]]
   icon = "[🧑‍🔧](operador-IIRR)"
@@ -30,7 +30,7 @@ subtitle = ""
   icon = "[🏥](RFIR)"
   icon_pack = "emoji"
   name = "[Radiofísica Hospitalaria (RFIR)](RFIR)"
-  description = "🧬 Radioterapia (RT) · 🧪 Medicina Nuclear (MN) · [🛡️ Protección Radiológica (PR)](RFIR/PR)"
+  description = "⚡ Radioterapia (RT) · 🧪 Medicina Nuclear (MN) · [🛡️ Protección Radiológica (PR)](RFIR/PR)"
   
   
 [design.background]
