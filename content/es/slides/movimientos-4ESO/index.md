@@ -82,7 +82,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v$ la velocidad, $
   -webkit-transform: scale(-1, 1);
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
-  transform: scale(-1, 1);">🐌</span> recorre en línea recta una distancia de $10.8\thinspace\mathrm m$ en $1.5\thinspace\mathrm h$. ¿Qué distancia recorrerá en $5\thinspace\mathrm{min}$?</q>
+  transform: scale(-1, 1);">🐌</span> recorre en línea recta una distancia de 10.8&thinsp;m en 1.5&thinsp;h. ¿Qué distancia recorrerá en 5&thinsp;min?</q>
 
 ---
 
@@ -170,7 +170,7 @@ donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad 
   -webkit-transform: scale(-1, 1);
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
-  transform: scale(-1, 1);">🚗</span> que circula a $70.2\thinspace\mathrm{km/h}$ disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo. ¿Qué distancia recorrerá hasta detenerse?</q>
+  transform: scale(-1, 1);">🚗</span> que circula a 70.2&thinsp;km/h disminuye su velocidad a razón de 3&thinsp;m/s cada segundo. ¿Qué distancia recorrerá hasta detenerse?</q>
 
 ---
 
@@ -226,7 +226,7 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el
 ---	
 
 ### Ejemplo
-<q>Desde la azotea de un rascacielos de 120 m de altura se lanza una piedra con velocidad de 5 m/s, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.</q>
+<q>Desde la azotea de un rascacielos de 120&thinsp;m de altura se lanza una piedra con velocidad de 5&thinsp;m/s, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.</q>
 
 ---
 
@@ -317,7 +317,7 @@ Seguimos estos **tres pasos**:
   -webkit-transform: scale(-1, 1);
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
-  transform: scale(-1, 1);">🚞</span> con una rapidez constante de $12\thinspace\mathrm{m/s}$. El coche permanece detenido durante $6\thinspace\mathrm s$ y luego arranca con una aceleración constante de $2\thinspace\mathrm{m/s^2}$.</q>
+  transform: scale(-1, 1);">🚞</span> con una rapidez constante de 12&thinsp;m/s. El coche permanece detenido durante 6&thinsp;s y luego arranca con una aceleración constante de 2&thinsp;m/s<sup>2</sup>.</q>
   
 ---
   
@@ -372,7 +372,7 @@ t^* = \frac{24\pm\sqrt{24^2-4\cdot 1\cdot 36}}{2} = \frac{24\pm \sqrt{432}}{2} =
 \end{cases}
 $$
 
-donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los $6\thinspace\mathrm s$ que está parado el coche en el semáforo.
+donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los 6&thinsp;s que está parado el coche en el semáforo.
 
 ---
 
@@ -382,22 +382,22 @@ Podemos comprobar esto representando la gráfica de posición frente a tiempo ($
 
 ---
 
-donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mathrm s$ para después arrancar acelerando (parábola) y alcanzando al tren a los 22.4 s.
+donde se ve claramente cómo el coche está parado los primeros 6&thinsp;s para después arrancar acelerando (parábola) y alcanzando al tren a los 22.4&thinsp;s.
 
 ---
 
-b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^*=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
+b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^{\*}=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
 
 $$
-x_\mathrm c (t^*) = t^{*2}-12t^*+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
+x_{\mathrm c} (t^{\*}) = t^{\*2}-12t^{\*}+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
 $$
 	
 ---
 
-c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^*$:
+c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^\*$:
 
 $$
-v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
+v_\mathrm c(t^\*) = v_{0_\mathrm c} + a_\mathrm c (t^\*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
 $$
 
 {{% /section %}}
@@ -480,7 +480,7 @@ y siempre se dirige hacia el centro de la circunferencia.
 
 ### Ejemplo
 
-<q>Las aspas de un ventilador {{< icon name="fan" pack="fas" >}} giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a $30\thinspace\mathrm{cm}$ del centro; c) el número de vueltas que darán las aspas en $5\thinspace\mathrm{min}$.</q>
+<q>Las aspas de un ventilador {{< icon name="fan" pack="fas" >}} giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a 30&thinsp;cm del centro; c) el número de vueltas que darán las aspas en 5&thinsp;min.</q>
 
 ---
 
