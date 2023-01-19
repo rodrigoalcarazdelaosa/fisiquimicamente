@@ -26,15 +26,19 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ## Índice
 
-- [Componentes de la velocidad](#/6)
-- [Ecuaciones del movimiento](#/7)
-- [Ecuación de la trayectoria](#/8)
-- [Tiempo de vuelo](#/9)
-- [Alcance](#/10)
-- [Altura máxima](#/11)
-- [Ángulo de la trayectoria](#/12)
-- [Ejemplo](#/13)
-- [Simulación](#/14)
+- [Componentes de la velocidad](#/7)
+- [Ecuaciones del movimiento](#/8)
+- [Ecuación de la trayectoria](#/9)
+- [Tiempo de vuelo](#/10)
+- [Alcance](#/11)
+- [Altura máxima](#/12)
+- [Ángulo de la trayectoria](#/13)
+- [Ejemplo](#/14)
+- [Simulación](#/15)
+
+---
+
+> **Reconoce** y **aplica** la **composición** de **movimientos** en **situaciones reales** que te sean familiares con [esta genial **actividad**]({{< relref "/actividades-juegos-primero-bach/tiro-parabolico-vida-real" >}}).
 
 ---
 
@@ -227,7 +231,7 @@ $$
 
 ## Ejemplo
 
-<q>Desde una ventana de una casa que está a $15\thinspace\mathrm{m}$ de altura lanzamos un chorro de agua a $20\thinspace\mathrm{m/s}$ con un ángulo de $40^\circ$. Calcula la distancia a la que caerá el agua y la velocidad con la que llega.</q>
+<q>Desde una ventana de una casa que está a 15&thinsp;m de altura lanzamos un chorro de agua a 20&thinsp;m/s con un ángulo de 40&thinsp;&deg;. Calcula la distancia a la que caerá el agua y la velocidad con la que llegará.</q>
 
 ---
 

@@ -47,6 +47,10 @@ slides: movimiento-parabolico-1Bach
 
 {{% toc %}}
 
+{{% callout note %}}
+**Reconoce** y **aplica** la **composición** de **movimientos** en **situaciones reales** que te sean familiares con [esta genial **actividad**]({{< relref "/actividades-juegos-primero-bach/tiro-parabolico-vida-real" >}}).
+{{% /callout %}}
+
 El **movimiento parabólico**[^1] surge de la **composición** de:
 
 [^1]: También conocido como **tiro oblicuo**, este movimiento está estudiado desde la antigüedad. Se recoge en los libros más antiguos de balística para aumentar la precisión en el tiro de un proyectil.
@@ -174,7 +178,7 @@ $$
 {{% callout example %}}
 <br>
 
-> Desde una ventana de una casa que está a $15\thinspace\mathrm{m}$ de altura lanzamos un chorro de agua a $20\thinspace\mathrm{m/s}$ con un ángulo de $40^\circ$. Calcula la distancia a la que caerá el agua y la velocidad con la que llega.
+> Desde una ventana de una casa que está a 15&thinsp;m de altura lanzamos un chorro de agua a 20&thinsp;m/s con un ángulo de 40&thinsp;&deg;. Calcula la distancia a la que caerá el agua y la velocidad con la que llegará.
 
 ---
 

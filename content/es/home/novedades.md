@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Homeopatía | 1.º Bach
-      url: '/recursos-fisica-quimica/actividades-juegos/1bach/homeopatia/'
+      text: Tiro parábolico en la vida real | 1.º Bach
+      url: '/recursos-fisica-quimica/actividades-juegos/1bach/tiro-parabolico-vida-real/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
