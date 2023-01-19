@@ -24,6 +24,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Tots"
     tag = "*"
+
+  [[content.filter_button]]
+    name = "Simulacions"
+    tag = "simulacions"
 	
   [[content.filter_button]]
     name = "Vídeos"
