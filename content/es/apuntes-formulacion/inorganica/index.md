@@ -274,7 +274,7 @@ Compuestos cuaternarios formados por un **metal**, M, con nº de oxidación n, *
 Un **ion** es una **especie química** con **carga eléctrica**, bien por haber **cedido** (carga positiva &rarr; catión) o **captado** (carga negativa &rarr; anión) **electrones**.
 
 {{% callout note %}}
-En los ejemplos siguientes, todos los nombres deben ir precedidos de la palabra ***ion***.
+En los ejemplos siguientes, todos los nombres deben ir precedidos de la palabra ***ion***. **Aprende más** sobre **cargas** e **iones** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#15-cargas-e-iones" >}}).
 {{% /callout %}}
 
 ### Cationes E<sup>n+</sup>

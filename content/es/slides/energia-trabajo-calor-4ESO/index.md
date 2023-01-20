@@ -181,8 +181,8 @@ E_\text{disipada} & = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B} \\\\
 
 ## Intercambio de energía
 La energía se puede intercambiar/transferir mediante: 
-- [Trabajo $W$](#/5/1)
-- [Calor $Q$](#/5/2)
+- [Trabajo *W*](#/5/2)
+- [Calor *Q*](#/5/4)
 
 (continúa hacia abajo)
 
@@ -190,8 +190,14 @@ La energía se puede intercambiar/transferir mediante:
 
 ---
 
-### Trabajo $W$
+> **Aprende más** sobre el **criterio de signos termodinámico** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#13-calor-y-trabajo" >}}).
+
+---
+
+### Trabajo *W*
 El **trabajo** se transfiere cuando entre dos cuerpos se realizan **fuerzas** que provocan desplazamientos o cambios en sus dimensiones.
+
+---
 
 El trabajo $W$ realizado por una fuerza $\vec F$ constante viene dado por:
 $$
@@ -201,12 +207,14 @@ donde $F$ es el módulo de la fuerza aplicada, $d$ el espacio recorrido y $\cos\
 
 ---
 
-### Calor $Q$
+### Calor *Q*
 El **calor** se transfiere entre dos cuerpos que tienen **diferente temperatura**, de forma que el calor cedido por el cuerpo a mayor temperatura es igual al calor ganado por el que está a menor temperatura:
 
 $$
 Q_\text{cedido} + Q_\text{ganado} = 0
 $$
+
+---
 
 Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
 

@@ -557,7 +557,7 @@ Un **ion** es una **especie química** con **carga eléctrica**, bien por haber 
 
 ---
 
->En los ejemplos siguientes, todos los nombres deben ir precedidos de la palabra ***ion***.
+>En los ejemplos siguientes, todos los nombres deben ir precedidos de la palabra ***ion***. **Aprende más** sobre **cargas** e **iones** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#15-cargas-e-iones" >}}).
 
 ---
 
