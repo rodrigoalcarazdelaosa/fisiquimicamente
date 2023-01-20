@@ -33,7 +33,7 @@ Entrada basada en los siguientes hilos de Twitter:
 </div>
 {{% /callout %}}
 
-Cuando un [**termómetro**](https://es.wikipedia.org/wiki/Termómetro) nos proporciona la [**temperatura**](https://es.wikipedia.org/wiki/Temperatura) de algo, la está deduciendo a partir de otro parámetro relacionado con ella, por ejemplo, la [**dilatación** de un **líquido**]({{< ref "/apuntes-cuarto-eso/energia-trabajo-calor/index.md#dilatación" >}}) en un recipiente. Entonces, ¿Cómo podemos entender la temperatura y cómo medirla en escalas muy pequeñas, como la celular?
+Cuando un [**termómetro**](https://es.wikipedia.org/wiki/Termómetro) nos proporciona la [**temperatura**](https://es.wikipedia.org/wiki/Temperatura) de algún sistema, la está deduciendo a partir de otro parámetro relacionado con ella, por ejemplo, la [**dilatación** de un **líquido**]({{< ref "/apuntes-cuarto-eso/energia-trabajo-calor/index.md#dilatación" >}}) en un recipiente. Entonces, ¿Cómo podemos entender la temperatura y cómo medirla en escalas muy pequeñas, como la celular?
 
 ![Cell Scientists Illustration](Cell-Scientists-Illustration.jpg "Créditos: [Steven H. Lee/graphiko.com](https://www.kurzweilai.net/how-to-measure-and-control-the-temperature-inside-living-cells)")
 
@@ -60,13 +60,9 @@ Desde hace 3 siglos sabemos medir la temperatura a partir del cambio proporciona
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/4ZgLPakqTajjVFOVqw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hot-cold-liquid-4ZgLPakqTajjVFOVqw">via GIPHY</a></p>
 
-El volumen de un líquido no es la única magnitud física que podemos usar. ¿Por qué vemos el sol amarillo (blanco fuera de la Tierra)? ¿Por qué un metal en el horno se pone *al rojo vivo*? Los cuerpos emiten radiación debido a su temperatura. Alrededor de la temperatura ambiente, la emisión térmica es menos energética y cae en el [**infrarrojo** (IR)](https://es.wikipedia.org/wiki/Radiación_infrarroja); por tanto, no la podemos ver. Pero sí la *ven* los [termómetros infrarrojos de pistola](https://es.wikipedia.org/wiki/Termómetro_de_infrarrojos), como los que nos apuntan a la frente en esta pandemia para saber en pocos segundos si tenemos fiebre.
+El volumen de un líquido no es la única magnitud física que podemos usar. ¿Por qué vemos el sol amarillo (blanco fuera de la Tierra)? ¿Por qué un metal en el horno se pone *al rojo vivo*? Los cuerpos emiten radiación debido a su temperatura. Alrededor de la temperatura ambiente, la emisión térmica es menos energética y cae en el [**infrarrojo** (IR)](https://es.wikipedia.org/wiki/Radiación_infrarroja); por tanto, no la podemos ver. Pero sí la *ven* los [termómetros infrarrojos de pistola](https://es.wikipedia.org/wiki/Termómetro_de_infrarrojos), como los que se usaron habitualmente en la entrada de algunos recintos durante la [pandemia de COVID-19](https://es.wikipedia.org/wiki/Pandemia_de_COVID-19) para saber si alguún visitante tenía fiebre en pocos segundos.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/hnlU3NQ0mCqD7Ujjgr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/guavajuice-hot-temperature-fahrenheit-hnlU3NQ0mCqD7Ujjgr">via GIPHY</a></p>
-
-La radiación IR que emite nuestro cuerpo tiene una longitud de onda de unas 10&thinsp;µm (0.01&thinsp;mm). Pero hay que recolectar, enfocar, interpretar... esa radiación. Por ello, este tipo de termómetros de pistola, conocidos como pirómetros de infrarrojo, suelen tener resoluciones máximas de algo menos de 1&thinsp;mm[^2]:
-
-[^2]: Ver, por ejemplo, https://www.calex.co.uk/measuring-small-objects-with-infrared-pyrometers/.
 
 {{< figure src="radiacion-cuerpo-negro-IR.svg" title="[Radiación de cuerpo negro](https://es.wikipedia.org/wiki/Radiación_de_cuerpo_negro) para temperaturas entre 100&thinsp;K y 10&thinsp;000&thinsp;K. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:BlackbodySpectrum_loglog_en.svg." lightbox="false" width="100%" >}}
 
@@ -86,13 +82,17 @@ Cuando en realidad los átomos en un sólido están oscilando en torno a su posi
 
 En ciertos materiales y/o para cierto rango de temperatura, podemos también entender la temperatura como el movimiento promedio de las partículas que lo forman. Cuando se pierde esa definición intuitiva hay que recurrir a conceptos más abstractos como la [**entropía**]({{< relref "/post/entropia" >}}).
 
-Bien, habiendo reflexionado sobre la temperatura, ¿cómo medirla a escalas más pequeñas y en sistemas más delicados? Por ejemplo, en medicina la temperatura intracelular ayuda a entender y controlar mejor sus procesos fisiológicos, incluido el posible desarrollo de un [cáncer](https://es.wikipedia.org/wiki/Cáncer). 
+Bien, habiendo reflexionado sobre la temperatura, ¿cómo medirla a escalas más pequeñas y en sistemas más delicados? Por ejemplo, en medicina la temperatura intracelular ayuda a entender y controlar mejor sus procesos fisiológicos, incluido el posible desarrollo de un [cáncer](https://es.wikipedia.org/wiki/Cáncer).
+
+No cabe duda de que un termómetro de mercurio es demasiado grande para esos sistemas. Respecto a los termómetros IR que hemos comentado anteriormente, hemos visto en la figura de radiación del cuerpo negro que la radiación que emite nuestro cuerpo tiene una longitud de onda de unas 10&thinsp;µm (0.01&thinsp;mm). Pero hay que recolectar, enfocar, interpretar... esa radiación. Por ello, este tipo de termómetros de pistola, conocidos como pirómetros de infrarrojo, suelen tener resoluciones máximas de algo menos de 1&thinsp;mm[^2].
+
+[^2]: Ver, por ejemplo, https://www.calex.co.uk/measuring-small-objects-with-infrared-pyrometers/.
 
 Para eso debemos encontrar un objeto más pequeño que el sistema cuya temperatura queremos medir, donde medir significa relacionar alguna propiedad de nuestro pequeño termómetro con la temperatura del sistema. Vayamos a la nanoescala y hablemos de [**fotoluminiscencia**](https://es.wikipedia.org/wiki/Fotoluminiscencia).
 
 ![escala nanométrica](https://ubuinvestiga.es/wp-content/uploads/2022/04/nanoparticula-min-1280x640.jpg "Fuente: https://ubuinvestiga.es/nanoparticulas-de-donde-vienen-y-adonde-van/.")
 
- Hay muchas sustancias y muchos materiales que, cuando son excitados por luz de alta energía (ej. una [lámpara UV](https://es.wikipedia.org/wiki/Radiación_ultravioleta#Fuentes_artificiales)) emiten luz que depende de su composición. Un ejemplo que muchos conocimos por [CSI](https://es.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation) es el [**luminol**](https://es.wikipedia.org/wiki/Luminol)[^3].
+Hay muchas sustancias y muchos materiales que, cuando son excitados por luz de alta energía (ej. una [lámpara UV](https://es.wikipedia.org/wiki/Radiación_ultravioleta#Fuentes_artificiales)) emiten luz que depende de su composición. Un ejemplo que muchos conocimos por [CSI](https://es.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation) es el [**luminol**](https://es.wikipedia.org/wiki/Luminol)[^3].
 
 [^3]: PIN: 5-amino-2,3-dihidroftalazina-1,4-diona.
 
