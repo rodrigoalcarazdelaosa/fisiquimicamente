@@ -9,6 +9,9 @@ tags:
 - 1º Bach
 - movimiento
 - proyectiles
+- geogebra
+- flipped-classroom
+- ABP
 categories:
 - Física
 weight: 3
