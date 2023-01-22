@@ -158,7 +158,7 @@
 
 	{{- $illes_balears_flag := resources.Get ("media/icons/flag-balearic-islands.svg") -}}
 
-    {{ if and (eq $block_type "hero-lottie") (eq $block.Title  "⚛️ Recursos de Física y Química") }}
+    {{ if and (eq $block_type "features") (eq $block.Title  "⚛️ Recursos de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -174,7 +174,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">⚛️ Recursos FyQ</li>
 	    </ol>
 	    </nav>			
-	{{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "⚛️ Recursos de Física i Química") }}
+	{{ else if and (eq $block_type "features") (eq $block.Title  "⚛️ Recursos de Física i Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg" id="fisiquimicament-breadcrumb"><script>
@@ -190,7 +190,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">⚛️ Recursos FiQ</li>
 	    </ol>
 	    </nav>					
-    {{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "📚 Apuntes de Física y Química") }}
+    {{ else if and (eq $block_type "features") (eq $block.Title  "📚 Apuntes de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -207,7 +207,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apuntes</li>
 	    </ol>
 	    </nav>
-	{{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "🧩 Actividades y juegos de Física y Química") }}
+	{{ else if and (eq $block_type "features") (eq $block.Title  "🧩 Actividades y juegos de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -223,25 +223,8 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">🧩 Actividades/juegos</li>
 	    </ol>
-	    </nav>
-	{{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "📖 Historia de la Ciencia") }}
-	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb breadcrumb-widget">
-	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
-			document.addEventListener('wcThemeChange', (e) => {
-			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-			  if (e.detail.isDarkTheme()) {
-				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
-			  } else {
-				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
-			  }
-			  });
-		</script></a></li>			
-	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
-	        <li class="breadcrumb-item active" aria-current="page">📖 Historia de la Ciencia</li>
-	    </ol>
-	    </nav>
-    {{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "📚 Physics and Chemistry Notes") }}
+	    </nav>	
+    {{ else if and (eq $block_type "features") (eq $block.Title  "📚 Physics and Chemistry Notes") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg" id="physichemically-breadcrumb"><script>
@@ -257,7 +240,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">📚 Notes</li>
 	    </ol>
 		</nav>	
-	{{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "📚 Apunts de Física i Química") }}
+	{{ else if and (eq $block_type "features") (eq $block.Title  "📚 Apunts de Física i Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg" id="fisiquimicament-breadcrumb"><script>
@@ -454,7 +437,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">{{ $block.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>			
-    {{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "🎓 Recursos EBAU <br> (Cantabria)") }}
+    {{ else if and (eq $block_type "features") (eq $block.Title  "🎓 Recursos EBAU <br> (Cantabria)") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -471,7 +454,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">🎓 EBAU</li>
 	    </ol>
 	    </nav>
-	{{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "🎓 Recursos PAU/PBAU") }}
+	{{ else if and (eq $block_type "features") (eq $block.Title  "🎓 Recursos PAU/PBAU") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicament.svg" id="fisiquimicament-breadcrumb"><script>
@@ -770,7 +753,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">💡Consells</li>
 	    </ol>
 	    </nav>			
-    {{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "📝 Oposiciones") }}
+    {{ else if and (eq $block_type "features") (eq $block.Title  "📝 Oposiciones") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -823,7 +806,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
 	    </ol>
 	    </nav>
-	{{ else if and (eq $block_type "hero-lottie") (eq $block.Title  "☢️ Radiofísica") }}
+	{{ else if and (eq $block_type "features") (eq $block.Title  "☢️ Radiofísica") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>

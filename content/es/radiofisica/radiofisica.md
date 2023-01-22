@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "☢️ Radiofísica"
+subtitle = "**Recursos** de **radiofísica** de la mano de [**Jésica Sánchez Mazón**](https://fisiquimicamente.com/equipo/jesica-sanchez-mazon/)"
 
 # Showcase personal skills or business features.
 # 
@@ -58,7 +58,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-top: 0px; padding-bottom: 0px;"
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

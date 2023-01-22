@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "📚 Apuntes de Física y Química"
+subtitle = "En formato **texto**, **diapositivas** y **póster** (tipo _chuleta_ 🥩). ¡Y también **ejercicios** y **frikiexámenes**!"
 
 # Showcase personal skills or business features.
 # 
@@ -75,9 +75,14 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-top: 0px;padding-bottom: 0px;"
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
-
 +++
+
+{{% callout note %}}
+También te recomendamos echar un vistazo a las [***pizarras*** de **FiQuiPedia**](http://www.fiquipedia.es/home/recursos/docencia-contenidos-fisica-y-quimica-por-nivel/pizarras-fisica-y-quimica-por-nivel) y a los [**apuntes** de **FisQuiWeb**](https://fisquiweb.es/Apuntes/apuntes.htm).
+
+Si buscas una **Tabla Periódica de los Elementos** con información básica y en alta resolución, pincha [aquí]({{< relref "/post/tabla-periodica-elementos" >}}).
+{{% /callout %}}

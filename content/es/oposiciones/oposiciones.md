@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "📝 Oposiciones"
+subtitle = "**Ejercicios resueltos** con la ayuda de [**Jésica Sánchez Mazón**](https://fisiquimicamente.com/equipo/jesica-sanchez-mazon/) y [**Enrique Ortega González**](https://fisiquimicamente.com/equipo/enrique-ortega-gonzalez/)"
 
 # Showcase personal skills or business features.
 # 
@@ -54,8 +54,14 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "padding-top: 0px;padding-bottom: 0px;"
+ css_style = "padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""
 +++
+
+{{% callout note %}}
+Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
+
+También os recomendamos echar un vistazo a los [**ejercicios resueltos**](https://drive.google.com/file/d/1GgODfaZJEUiQ0iQlNfmpdhoT3U8HzhPU/view), [**temas**](https://drive.google.com/file/d/1-A-6JgTeQ7sOyeirs5mvK27zJuBTu-ia/view) y [**programaciones didácticas (LOE)**](https://drive.google.com/drive/folders/1Zk083BTEAAA6KMh7lfqXaiSlF5005ZCj) de **{{% mention "leticia-cabezas" %}}**.
+{{% /callout %}}

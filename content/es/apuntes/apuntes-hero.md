@@ -1,4 +1,5 @@
 ---
+active: false
 widget: hero-lottie
 headless: true
 weight: 1
