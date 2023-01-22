@@ -535,7 +535,7 @@ En condiciones ideales, la cantidad de hidrógeno depositada es el doble que la 
 
 ---
 
-- Producción de cloro e hidróxido de sodio, mediante el proceso cloroalcalino.
+- Producción de cloro e hidróxido de sodio, mediante el [**proceso cloroalcalino**](https://es.wikipedia.org/wiki/Proceso_cloroalcalino).
     {{< figure src="redox-2Bach-quimica/cloroalcalino.svg" title="**Proceso cloroalcalino de membrana**." lightbox="false" width="100%" >}}
 
 ---
