@@ -411,7 +411,7 @@ El **diagrama** de **Möller** nos ayuda a saber en qué **orden** han de **llen
 
 ---
 
-> Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en rojo son **excepciones** debido a que los **orbitales d** son **más estables** cuando están **llenos** o **semillenos** por razones de simetría. Ejemplos notables son el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) y el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>).
+> Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en rojo son **excepciones**. Ejemplos notables son el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) y el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>), debido a que los **orbitales d** son **más estables** cuando están **llenos** o **semillenos**, por razones de simetría.
 
 ---
 

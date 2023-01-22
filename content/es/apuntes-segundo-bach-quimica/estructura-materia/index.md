@@ -334,7 +334,7 @@ Consulta [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#7-c
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
 
 {{% callout note %}}
-Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en rojo son **excepciones** debido a que los **orbitales d** son **más estables** cuando están **llenos** o **semillenos** por razones de simetría. Ejemplos notables son el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) y el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>).
+Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en rojo son **excepciones**. Ejemplos notables son el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) y el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>), debido a que los **orbitales d** son **más estables** cuando están **llenos** o **semillenos**, por razones de simetría.
 {{% /callout %}}
 
 ### Regla de Hund de la máxima multiplicidad

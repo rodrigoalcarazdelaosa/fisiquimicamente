@@ -408,7 +408,7 @@ El **diagrama** de **Möller** ens ajuda a saber en quin **ordre** han d’**omp
 
 ---
 
-> Els elements que apareixen [aquí](https://ptable.com/#Electrones/Expanded) en vermell són **excepcions** pel fet que els **orbitals d** són **més estables** quan estan **plens** o **semillens** per raons de simetria. Exemples notables són el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) i el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>).
+> Els elements que apareixen [aquí](https://ptable.com/#Electrones/Expanded) en vermell són **excepcions**. Exemples notables són el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) i el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>), pel fet que els **orbitals d** són **més estables** quan estan **plens** o **semiplens**, per raons de simetria.
 
 ---
 
