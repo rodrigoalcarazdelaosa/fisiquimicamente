@@ -367,7 +367,7 @@ Para un electrón, $s=1/2$, por lo que $m_s = \\{-1/2,1/2\\}$.
 
 - [Principio de exclusión de Pauli](#/5/1)
 - [Orden energético creciente](#/5/3)
-- [Regla de Hund de la máxima multiplicidad](#/5/8)
+- [Regla de Hund de la máxima multiplicidad](#/5/9)
 
 (continúa hacia abajo)
 
@@ -408,6 +408,10 @@ El **diagrama** de **Möller** nos ayuda a saber en qué **orden** han de **llen
 ---
 
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="65%" >}}
+
+---
+
+> Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en rojo son **excepciones** debido a que los **orbitales d** son **más estables** cuando están **llenos** o **semillenos** por razones de simetría. Ejemplos notables son el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) y el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>).
 
 ---
 

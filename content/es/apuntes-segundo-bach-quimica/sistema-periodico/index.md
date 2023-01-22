@@ -62,6 +62,8 @@ La **tabla periódica** de los **elementos** organiza los **118 elementos** cono
 
 {{% callout note %}}
 Consulta [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#7-configuración-electrónica" >}}) las **reglas** que se han de tener en cuenta a la hora de **escribir** la **configuración electrónica** de un átomo o un ion monoatómico.
+
+Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en rojo son **excepciones** debido a que los **orbitales d** son **más estables** cuando están **llenos** o **semillenos** por razones de simetría. Ejemplos notables son el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) y el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>).
 {{% /callout %}}
 
 <!-- {{< figure library="true" src="sistema-periodico-2Bach-quimica/tabla-periodica-elementos.png" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/2bach/quimica/sistema-periodico/tabla-periodica-elementos.pdf) (cada **elemento** es un **enlace** que te lleva a su página de la **Wikipedia**)." lightbox="true" >}} -->

@@ -368,7 +368,7 @@ Coneix més sobre l'espín en aquest magnífic vídeo de [Quantum Made Simple](h
 
 - [Principi d'exclusió de Pauli](#/5/1)
 - [Ordre energètic creixent](#/5/3)
-- [Regla de Hund de la màxima multiplicitat](#/5/7)
+- [Regla de Hund de la màxima multiplicitat](#/5/8)
 
 (continua cap avall)
 
@@ -405,6 +405,10 @@ El **diagrama** de **Möller** ens ajuda a saber en quin **ordre** han d’**omp
 ---
 
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" lightbox="false" width="65%" >}}
+
+---
+
+> Els elements que apareixen [aquí](https://ptable.com/#Electrones/Expanded) en vermell són **excepcions** pel fet que els **orbitals d** són **més estables** quan estan **plens** o **semillens** per raons de simetria. Exemples notables són el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) i el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>).
 
 ---
 

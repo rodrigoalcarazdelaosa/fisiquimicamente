@@ -314,6 +314,10 @@ La **configuració electrònica** és la **distribució** dels **electrons** d'u
 
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
 
+{{% callout note %}}
+Els elements que apareixen [aquí](https://ptable.com/#Electrones/Expanded) en vermell són **excepcions** pel fet que els **orbitals d** són **més estables** quan estan **plens** o **semillens** per raons de simetria. Exemples notables són el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) i el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>).
+{{% /callout %}}
+
 ### Regla de Hund de la màxima multiplicitat
 > En omplir orbitals d'igual energia (per exemple els tres orbitals p) els electrons es distribueixen, sempre que sigui possible, amb els seus espins paral·lels, omplint els orbitals amb una multiplicitat major.
 

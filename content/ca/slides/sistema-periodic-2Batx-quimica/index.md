@@ -38,6 +38,10 @@ La **taula periòdica** dels **elements** organitza els **118 elements** conegut
 
 {{< figure library="true" src="sistema-periodico-2Bach-quimica/taula-periodica-elements.png" title="Descarrega aquesta taula periòdica en PDF d’alta resolució [aquí](https://fisiquimicament.com/recursos-fisica-quimica/apunts/2batx/quimica/sistema-periodic/taula-periodica-elements.pdf)." lightbox="false" >}}
 
+---
+
+> Els elements que apareixen [aquí](https://ptable.com/#Electrones/Expanded) en vermell són **excepcions** pel fet que els **orbitals d** són **més estables** quan estan **plens** o **semillens** per raons de simetria. Exemples notables són el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) i el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>).
+
 {{% /section %}}
 
 ---
