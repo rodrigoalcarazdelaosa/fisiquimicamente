@@ -739,9 +739,9 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 Se observa claramente que la **aceleración no** es **constante**, aumentando hasta el **MECO**, momento en el que toma incluso valores negativos (recordemos que [la velocidad se ve reducida](#velocidad)). Después vuelve a aumentar hasta valores por encima de los 30$\thinspace$m/s<sup>2</sup> (más de tres veces la aceleración de la gravedad en la superficie de la Tierra), hasta el **SECO**, instante en el que la aceleración tangencial desaparece al no haber ya ningún motor que impulse la nave.
 
 ### ¿Y si suponemos que la aceleración es constante?
-Si la aceleración del cohete fuera constante, entonces su ascenso se podría modelar mediante un [**movimiento rectilíneo uniformemente variado**]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniformemente-variado-mruv" >}}) (MRUV). Viendo la anterior gráfica parece un disparate pensar que pueda ser así, pero no está de más intentarlo como ejercicio mental.
+Si la aceleración del cohete fuera constante, entonces su ascenso se podría modelar mediante un [**movimiento rectilíneo uniformemente variado**]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniformemente-acelerado-mrua" >}}) (MRUA). Viendo la anterior gráfica parece un disparate pensar que pueda ser así, pero no está de más intentarlo como ejercicio mental.
 
-La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración constante que tendría suponiendo un MRUV, obtenida como la **media artimética**[^9]:
+La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohete, obtenida mediante derivación numérica a partir de su velocidad, y la aceleración constante que tendría suponiendo un MRUA, obtenida como la **media artimética**[^9]:
 
 [^9]: En realidad se han tomado dos medias distintas, antes y después del **SECO**, debido a la importancia e influencia que tiene ese momento en el movimiento de la nave.
 
@@ -846,7 +846,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-		    label: 'MRUV', 				  
+		    label: 'MRUA', 				  
 		    backgroundColor: '#b50000',
 			borderColor: '#b50000',
 			fill: false,
@@ -982,10 +982,10 @@ El valor promedio resultante de la aceleración antes del **SECO** es de 14.1$\t
 
 [^10]: En realidad habrá sido mucho peor que esto 🤦‍♂️, pero como dato, decir que un paracaidista suele alcanzar la [velocidad límite](https://es.wikipedia.org/wiki/Velocidad_l%C3%ADmite) (en torno a 180$\thinspace$km/h) en tan solo 12 segundos, momento a partir del cual deja de experimentar la sensación de *caer*.
 
-Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUV (teniendo en cuenta que después del **SECO** la aceleración es nula y por tanto la nave se moverá con un [movimiento rectilíneo uniforme]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) o MRU).
+Una vez tenemos nuestro valor de aceleración constante, podemos comparar la altitud y la velocidad *empíricas* con las obtenidas a partir de las expresiones del MRUA (teniendo en cuenta que después del **SECO** la aceleración es nula y por tanto la nave se moverá con un [movimiento rectilíneo uniforme]({{< ref "/apuntes-cuarto-eso/movimientos/index.md#movimiento-rectil%C3%ADneo-uniforme-mru" >}}) o MRU).
 
 #### Altitud
-A partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que las expresiones del MRUV o MRU no son válidas, ya que suponen un aumento indefinido.
+A partir de los cuatro minutos el cohete se mantiene a una altitud prácticamente constante, por lo que las expresiones del MRUA o MRU no son válidas, ya que suponen un aumento indefinido.
 
 Hasta los 4 minutos aproximadamente, la **altitud teórica** la calculamos a partir de la expresión:
 $$
@@ -993,7 +993,7 @@ h(t) = h_0 + v_0 t +\frac{1}{2} a t^2,
 $$
 donde $h_0 = 0$, $v_0 = 0$ y $a = 14.1\thinspace$m/s<sup>2</sup>.
 
-En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calculada suponiendo un MRUV, durante los cuatro primeros minutos del ascenso del Falcon 9:
+En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calculada suponiendo un MRUA, durante los cuatro primeros minutos del ascenso del Falcon 9:
 
 <canvas id="h-t-MRUV"></canvas>
 
@@ -1097,7 +1097,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-		    label: 'MRUV', 				  
+		    label: 'MRUA', 				  
 		    backgroundColor: '#b50000',
 			borderColor: '#b50000',
 			fill: false,
@@ -1235,17 +1235,17 @@ La expresión teórica solo es capaz de modelar el movimiento del cohete durante
 
 La **velocidad teórica** la calculamos a partir de la expresión[^11]:
 
-[^11]: El valor de 26734.6$\thinspace$km/h es la velocidad que tiene la nave, según la expresión teórica del MRUV, justo en el **SECO**.
+[^11]: El valor de 26734.6$\thinspace$km/h es la velocidad que tiene la nave, según la expresión teórica del MRUA, justo en el **SECO**.
 
 $$
 v(t) = \begin{cases}
-v_0 + a t & \text{antes del SECO (MRUV)} \\\\
+v_0 + a t & \text{antes del SECO (MRUA)} \\\\
 26734.6 & \text{después del SECO (MRU)}
 \end{cases}
 $$
 donde $v_0 = 0$ y $a = 14.1\thinspace$m/s<sup>2</sup>.
 
-En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUV y posterior MRU:
+En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUA y posterior MRU:
 	
 <canvas id="v-t-MRUV"></canvas>
 
@@ -1349,7 +1349,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	        x: datum[0],
 	        y: datum[1]
 	      })),
-		    label: 'MRUV', 				  
+		    label: 'MRUA', 				  
 		    backgroundColor: '#b50000',
 			borderColor: '#b50000',
 			fill: false,
@@ -1483,4 +1483,4 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	
 Se observa que la expresión teórica sobreestima la velocidad de la nave antes del **SECO** (con un error relativo máximo de más del 300$\thinspace$%, para $t = 0.2\overline{6}\thinspace$min), y la subestima ligeramente después.
 	
-Aún así, parece que la expresión teórica no se desvía tanto de los valores empíricos, lo que indica que, al menos para estimar la velocidad, no parece tan descabellado modelar el ascenso del cohete mediante un MRUV (y posterior MRU tras el **SECO**).
+Aún así, parece que la expresión teórica no se desvía tanto de los valores empíricos, lo que indica que, al menos para estimar la velocidad, no parece tan descabellado modelar el ascenso del cohete mediante un MRUA (y posterior MRU tras el **SECO**).
