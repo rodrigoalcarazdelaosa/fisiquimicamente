@@ -11,7 +11,7 @@ tags:
 - movimiento
 - gravitación
 - spacex
-- cohete
+- cohetes
 - falcon
 - proyectiles
 categories:
