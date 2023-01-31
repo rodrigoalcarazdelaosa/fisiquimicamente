@@ -248,7 +248,7 @@ Utilizando la ecuación (3)
 	v^2-v_0^2 = 2a\Delta x \tag{3}
 	$$
 	\begin{align*}
-	v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-250)} \\\\
+	v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-120)} \\\\
 	  &= -48.8\thinspace\mathrm{m/s}
 	\end{align*}
 	
