@@ -171,8 +171,8 @@ $$
 
 - [Rozamiento](#/3/1)
 - [Gravitatoria](#/3/6)
-- [Eléctrica](#/3/12)
-- [Magnética](#/3/18)
+- [Eléctrica](#/3/13)
+- [Magnética](#/3/19)
 
 (continúa hacia abajo)
 
@@ -224,6 +224,12 @@ P = m\cdot g,
 $$
 
 siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
+
+---
+
+¿Qué ocurre cuando una bola de bolos y una pluma se dejan caer juntas en las condiciones del espacio exterior? [**Brian Cox**](https://es.wikipedia.org/wiki/Brian_Cox_(f%C3%ADsico)) nos lo enseña en este impresionante **vídeo**:
+
+{{< youtube E43-CfukEgs >}}
 
 ---
 

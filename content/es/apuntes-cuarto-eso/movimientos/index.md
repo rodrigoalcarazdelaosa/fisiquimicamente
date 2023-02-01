@@ -192,6 +192,10 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 ## Caída libre/lanzamiento vertical
 La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el que la aceleración es igual a la aceleración de la **gravedad**. En el caso de la Tierra, $a=-g=-9.8\thinspace\mathrm{m/s^2}$ (el signo $-$ indica que la aceleración de la gravedad apunta, siempre, hacia abajo).
 
+¿Qué ocurre cuando una bola de bolos y una pluma se dejan caer juntas en las condiciones del espacio exterior? [**Brian Cox**](https://es.wikipedia.org/wiki/Brian_Cox_(f%C3%ADsico)) nos lo enseña en este impresionante **vídeo**:
+
+{{< youtube E43-CfukEgs >}}
+
 {{< spoiler text="¿Y cuánto vale la <strong>gravedad</strong> en otros <strong>astros</strong> del <strong>Sistema Solar</strong>? Pincha aquí" >}}
 | Astro | $g$ | $\mathrm{m/s^2}$ |
 | --- | :---: | :---: |
@@ -205,6 +209,11 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el
 | Marte &#9794; | 0.38 | 3.7 |						
 | Mercurio &#9791; | 0.38 | 3.7 |
 | Luna :crescent_moon: | 0.17 | 1.6 |
+
+Descubre a qué altura podrías saltar en otros planetas con este genial **vídeo**:
+
+{{< youtube D8H1RNtka6s >}}
+
 {{< /spoiler >}}	
 
 ### Ejemplo

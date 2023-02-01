@@ -203,6 +203,12 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el
 
 ---
 
+¿Qué ocurre cuando una bola de bolos y una pluma se dejan caer juntas en las condiciones del espacio exterior? [**Brian Cox**](https://es.wikipedia.org/wiki/Brian_Cox_(f%C3%ADsico)) nos lo enseña en este impresionante **vídeo**:
+
+{{< youtube E43-CfukEgs >}}
+
+---
+
 ### ¿Y cuánto vale la gravedad en otros astros del Sistema Solar?
 
 | Astro | $g$ | $\mathrm{m/s^2}$ |
@@ -223,7 +229,13 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el
 | Mercurio &#9791; | 0.38 | 3.7 |
 | Luna :crescent_moon: | 0.17 | 1.6 |
 
----	
+---
+
+Descubre a qué altura podrías saltar en otros planetas con este genial **vídeo**:
+
+{{< youtube D8H1RNtka6s >}}
+
+---
 
 ### Ejemplo
 <q>Desde la azotea de un rascacielos de 120&thinsp;m de altura se lanza una piedra con velocidad de 5&thinsp;m/s, hacia abajo. Calcular: a) Tiempo que tarda en llegar al suelo, b) velocidad con que choca contra el suelo.</q>
