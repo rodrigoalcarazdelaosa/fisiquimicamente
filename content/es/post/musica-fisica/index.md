@@ -108,6 +108,12 @@ El peso de los armónicos también determina el tono de nuestra voz. Si canto y 
 
 {{< youtube 7sx2GhKO5qg >}}
 
+En este 🧵 hilo de Twitter, el gran [**Alberto Aguayo**](https://twitter.com/fqsaja1) analiza la famosa ***voz de helio***, explicando cómo la **clave** está en los **armónicos**:
+
+<div align="center">
+{{< tweet user="fqsaja1" id="1620663639555596289" >}}
+</div>
+
 Terminemos la entrada hablando de las [**quintas**](https://es.wikipedia.org/wiki/Quinta). Hemos visto en la imagen de los armónicos que el tercer armónico de una cuerda no es la nota fundamental más aguda. Sin embargo, tiene una relación muy especial con ella, conocida como su ***quinta justa***. En la imagen veis un ejemplo donde para el Do (C) su quinta justa es el Sol (G). La relación matemática subyacente también tiene implicaciones musicales.
 
 {{< figure src="octavas.svg" title="Tomemos el Do de 130&thinsp;Hz. El segundo armónico es de nuevo un Do, pero de la siguiente octava. El tercer armónico, en cambio, no es el Do de la siguiente octava (ese es el cuarto) sino el Sol de la segunda octava. Es decir, subimos una octava más lo que se denomina una ***quinta justa***, pues el Sol está a cinco grados del Do. Fuente: https://onlinelibrary.wiley.com/doi/10.1002/cae.21967." lightbox="false" width="100%" >}}
