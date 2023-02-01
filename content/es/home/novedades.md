@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Tipos de plásticos"
-      url: 'blog/2022/12/01/tipos-de-plasticos/'
+      text: "Música y física"
+      url: 'blog/2023/02/01/musica-y-fisica/'
 ---
