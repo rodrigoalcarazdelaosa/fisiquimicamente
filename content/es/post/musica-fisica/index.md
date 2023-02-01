@@ -8,7 +8,6 @@ authors:
 - manuel-alonso-orts
 tags:
 - blog
-- música
 - sonido
 - ondas
 - cuerdas
@@ -17,6 +16,7 @@ tags:
 - acordes
 categories:
 - Física
+- Música
 image:
   placement: 3
   caption: "https://partytrickphysicist.com/tag/music-physics/"
