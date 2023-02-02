@@ -56,7 +56,7 @@ $$
 
 ---
 
-Otras unidades de energía son la **caloría** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm J$) o el **kilovatio hora**, $\mathrm{kW\thinspace h}$:
+Otras unidades de energía son la **caloría** ($1\thinspace\mathrm{cal} = 4.19\thinspace\mathrm J$) o el **kilovatio hora**, $\mathrm{kW\thinspace h}$:
 
 $$
 1\thinspace\mathrm{kWh}\cdot \frac{1000\thinspace\mathrm W}{1\thinspace\mathrm{kW}}\cdot \frac{3600\thinspace\mathrm s}{1\thinspace\mathrm{h}} = 3.6\times 10^6\thinspace\mathrm{W\thinspace s} = 3.6\times 10^6\thinspace\mathrm J
@@ -179,7 +179,7 @@ Puedes profundizar en el concepto de **temperatura** con ayuda de esta **simulac
 ---
 
 ### Mecanismos de transferencia de energía
-La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
+La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.19\thinspace\mathrm{J}$).
 
 👇
 

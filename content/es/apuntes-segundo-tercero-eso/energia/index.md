@@ -44,7 +44,7 @@ La **energía** es la **capacidad** de **producir** transformaciones o **cambios
 La energía se puede transferir, almacenar o disipar, pero no crear ni destruir.
 
 ### Unidades
-En el **SI** la energía se mide en **julios** ($1\thinspace\mathrm J = 1\thinspace\mathrm{N\thinspace m} = 1\thinspace\mathrm{kg\thinspace m^2\thinspace s^{-2}}$). Otras unidades de energía son la **caloría** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm J$) o el **kilovatio hora**, $\mathrm{kW\thinspace h}$:
+En el **SI** la energía se mide en **julios** ($1\thinspace\mathrm J = 1\thinspace\mathrm{N\thinspace m} = 1\thinspace\mathrm{kg\thinspace m^2\thinspace s^{-2}}$). Otras unidades de energía son la **caloría** ($1\thinspace\mathrm{cal} = 4.19\thinspace\mathrm J$) o el **kilovatio hora**, $\mathrm{kW\thinspace h}$:
 
 $$
 1\thinspace\mathrm{\cancel{kW}\cancel{h}}\cdot \frac{1000\thinspace\mathrm W}{1\thinspace\mathrm{\cancel{kW}}}\cdot \frac{3600\thinspace\mathrm s}{1\thinspace\mathrm{\cancel h}} = 3.6\times 10^6\thinspace\mathrm{W\thinspace s} = 3.6\times 10^6\thinspace\mathrm J
@@ -108,7 +108,7 @@ Puedes profundizar en el concepto de **temperatura** con ayuda de esta **simulac
 <iframe src="https://phet.colorado.edu/sims/html/gases-intro/latest/gases-intro_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ### Mecanismos de transferencia de energía
-La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$). El calor se puede **transferir** mediante:
+La **energía térmica** que se **transfiere** de un cuerpo a otro se denomina **calor**. Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.19\thinspace\mathrm{J}$). El calor se puede **transferir** mediante:
 
 #### Conducción
 Basado en el **contacto directo** entre los cuerpos.

@@ -154,7 +154,7 @@ $$
 Q_\text{cedido} + Q_\text{ganado} = 0
 $$
 
-Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.18\thinspace\mathrm{J}$).
+Por razones históricas el calor se mide a menudo en **calorías** ($1\thinspace\mathrm{cal} = 4.19\thinspace\mathrm{J}$).
 
 ## Trabajo y potencia
 La **potencia** $P$ es el trabajo $W$ realizado por unidad de tiempo $t$:
