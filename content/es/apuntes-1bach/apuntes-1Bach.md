@@ -47,7 +47,11 @@ subtitle = "📕 1.º Bach"
   
   [[content.filter_button]]
     name = "Energía"
-    tag = "energía"											
+    tag = "energía"
+
+  [[content.filter_button]]
+    name = "Termodinámica"
+    tag = "termodinámica"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

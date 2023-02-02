@@ -47,7 +47,11 @@ subtitle = "📕 1r Batx"
   
   [[content.filter_button]]
     name = "Energia"
-    tag = "energia"											
+    tag = "energia"
+
+  [[content.filter_button]]
+    name = "Termodinàmica"
+    tag = "termodinàmica"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

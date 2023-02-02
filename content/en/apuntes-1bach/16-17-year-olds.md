@@ -47,7 +47,11 @@ subtitle = "📕 16--17 year-olds"
 	
   [[content.filter_button]]
     name = "Energy"
-    tag = "energy"												
+    tag = "energy"
+
+  [[content.filter_button]]
+    name = "Thermodynamics"
+    tag = "thermodynamics"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
