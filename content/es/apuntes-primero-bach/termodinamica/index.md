@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/1bach/termodinamica"
 subtitle: Variables termodinámicas de un sistema en función de las condiciones
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code><br>Variables termodinámicas de un sistema en función de las condiciones."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - apuntes
 - 1º Bach
@@ -19,7 +22,15 @@ image:
   caption: Foto de [**Patrick Hendry**](https://unsplash.com/@worldsbetweenlines) en [Unsplash](https://unsplash.com/photos/-AbeoL252z0)
   focal_point: Smart
 
-#links:
+links:
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: termodinamica-ejercicios.pdf
+- icon_pack: fas
+  icon: table
+  name: Tablas
+  url: termodinamica-tablas.pdf
 #- icon_pack: fas
 #  icon: file-download
 #  name: Frikiexamen
