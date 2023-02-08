@@ -52,7 +52,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sanmaz.j@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sanchezmazonjesica@gmail.con'  # For a direct email link, use "mailto:test@example.org".
   label: Contact me
 - icon: twitter
   icon_pack: fab
