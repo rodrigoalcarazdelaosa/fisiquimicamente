@@ -1,9 +1,10 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
 title: Reaccions químiques
-url: "/recursos-fisica-quimica/apunts/1batx/reaccions-quimiques"
+url: "/recursos-fisica-quimica/apunts/1batx/quimica/reaccions-quimiques"
 subtitle: Classificació i estequiometria de les reaccions químiques
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code><br>Classificació i estequiometria de les reaccions químiques."
-breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+breadcrumbs: ["recursos-fisica-quimica","apunts","1batx-quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela

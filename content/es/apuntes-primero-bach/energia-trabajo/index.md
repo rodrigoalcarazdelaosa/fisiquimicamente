@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/energia-trabajo"
 title: Energía y trabajo
 url: "/recursos-fisica-quimica/apuntes/1bach/energia-trabajo"
 subtitle: Trabajo, potencia y energía

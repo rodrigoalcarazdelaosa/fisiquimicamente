@@ -1,4 +1,5 @@
 ---
+translationKey: /recursos-fisica-quimica/apuntes/1bach/disoluciones
 title: Disoluciones
 url: "/recursos-fisica-quimica/apuntes/1bach/disoluciones"
 subtitle: Concentración, solubilidad, preparación y propiedades coligativas

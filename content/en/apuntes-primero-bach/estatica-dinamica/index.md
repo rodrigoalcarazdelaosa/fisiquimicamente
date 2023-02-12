@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/estatica-dinamica"
 title: Statics and Dynamics
 url: "/physics-chemistry-notes/16-17-year-olds/statics-dynamics"
 subtitle: Statics and dynamics of a particle and a rigid solid

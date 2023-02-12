@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
 title: Reacciones químicas
 url: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
 subtitle: Clasificación y estequiometría de las reacciones químicas

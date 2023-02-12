@@ -1,9 +1,10 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/movimiento-circular"
 title: Moviment circular
-url: "/recursos-fisica-quimica/apunts/1batx/moviment-circular"
+url: "/recursos-fisica-quimica/apunts/1batx/fisica/moviment-circular"
 subtitle: Cinemàtica i dinàmica del moviment circular
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Cinemàtica i dinàmica del moviment circular."
-breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+breadcrumbs: ["recursos-fisica-quimica","apunts","1batx-fisica"]
 tags:
 - apunts
 - 1r Batx

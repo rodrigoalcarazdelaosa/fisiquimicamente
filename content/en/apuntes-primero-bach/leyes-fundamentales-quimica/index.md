@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica"
 title: Fundamental Chemical Laws
 url: "/physics-chemistry-notes/16-17-year-olds/fundamental-chemical-laws"
 subtitle: Laws of chemical combination and ideal gas laws

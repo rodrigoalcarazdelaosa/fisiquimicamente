@@ -1,4 +1,5 @@
 ---
+translationKey: /recursos-fisica-quimica/apuntes/1bach/disoluciones
 title: Solutions
 url: "/physics-chemistry-notes/16-17-year-olds/solutions"
 subtitle: Ways of expressing concentration, preparation and colligative properties

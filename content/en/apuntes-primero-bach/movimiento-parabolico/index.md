@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/movimiento-parabolico"
 title: Projectile Motion
 url: "/physics-chemistry-notes/16-17-year-olds/projectile-motion"
 subtitle: Study of the Parabolic or Oblique Motion

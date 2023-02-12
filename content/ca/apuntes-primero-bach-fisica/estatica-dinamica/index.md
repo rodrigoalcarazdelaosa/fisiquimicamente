@@ -1,9 +1,10 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/estatica-dinamica"
 title: Estàtica i dinàmica
-url: "/recursos-fisica-quimica/apunts/1batx/estatica-dinamica"
+url: "/recursos-fisica-quimica/apunts/1batx/fisica/estatica-dinamica"
 subtitle: Estàtica i dinàmica duna partícula i un sòlid rígid
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code><br>Estàtica i dinàmica duna partícula i un sòlid rígid."
-breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+breadcrumbs: ["recursos-fisica-quimica","apunts","1batx-fisica"]
 tags:
 - apunts
 - 1r Batx

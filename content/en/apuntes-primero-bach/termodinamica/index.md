@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/termodinamica"
 title: Thermodynamics
 url: "/physics-chemistry-notes/16-17-year-olds/thermodynamics"
 subtitle: Thermodynamic variables of a system as a function of conditions

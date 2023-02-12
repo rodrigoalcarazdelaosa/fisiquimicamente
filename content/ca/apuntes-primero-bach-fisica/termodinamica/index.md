@@ -1,9 +1,10 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/termodinamica"
 title: Termodinàmica
-url: "/recursos-fisica-quimica/apunts/1batx/termodinamica"
+url: "/recursos-fisica-quimica/apunts/1batx/fisica/termodinamica"
 subtitle: Variables termodinàmiques d'un sistema en funció de les condicions
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code><br>Variables termodinàmiques d'un sistema en funció de les condicions."
-breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+breadcrumbs: ["recursos-fisica-quimica","apunts","1batx-fisica"]
 tags:
 - apunts
 - 1r Batx

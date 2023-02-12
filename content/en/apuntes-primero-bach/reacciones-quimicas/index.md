@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
 title: Chemical Reactions
 url: "/physics-chemistry-notes/16-17-year-olds/chemical-reactions"
 subtitle: Classification and Stoichiometry of Chemical Reactions

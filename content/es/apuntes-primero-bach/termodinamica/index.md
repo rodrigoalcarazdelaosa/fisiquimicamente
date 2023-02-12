@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/termodinamica"
 title: Termodinámica
 url: "/recursos-fisica-quimica/apuntes/1bach/termodinamica"
 subtitle: Variables termodinámicas de un sistema en función de las condiciones

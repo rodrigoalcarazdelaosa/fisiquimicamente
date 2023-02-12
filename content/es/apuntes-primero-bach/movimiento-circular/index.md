@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/movimiento-circular"
 title: Movimiento circular
 url: "/recursos-fisica-quimica/apuntes/1bach/movimiento-circular"
 subtitle: Cinemática y dinámica del movimiento circular

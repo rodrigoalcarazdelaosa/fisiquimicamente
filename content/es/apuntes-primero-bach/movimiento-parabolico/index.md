@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/movimiento-parabolico"
 title: Movimiento parabólico
 url: "/recursos-fisica-quimica/apuntes/1bach/movimiento-parabolico"
 subtitle: Estudio del tiro parabólico u oblicuo

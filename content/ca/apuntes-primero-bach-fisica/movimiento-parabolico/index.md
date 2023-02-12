@@ -1,9 +1,10 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/movimiento-parabolico"
 title: Moviment parabòlic
-url: "/recursos-fisica-quimica/apunts/1batx/moviment-parabolic"
+url: "/recursos-fisica-quimica/apunts/1batx/fisica/moviment-parabolic"
 subtitle: Estudi de l'tir parabòlic o oblic
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Estudi de l'tir parabòlic o oblic."
-breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+breadcrumbs: ["recursos-fisica-quimica","apunts","1batx-fisica"]
 tags:
 - apunts
 - 1r Batx

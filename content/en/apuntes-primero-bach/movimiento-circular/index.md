@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/movimiento-circular"
 title: Circular Motion
 url: "/physics-chemistry-notes/16-17-year-olds/circular-motion"
 subtitle: Kinetics and Dynamics of the Circular Motion

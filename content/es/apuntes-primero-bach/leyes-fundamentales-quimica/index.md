@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica"
 title: Leyes fundamentales de la Química
 url: "/recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica"
 subtitle: Leyes ponderales y leyes de los gases ideales

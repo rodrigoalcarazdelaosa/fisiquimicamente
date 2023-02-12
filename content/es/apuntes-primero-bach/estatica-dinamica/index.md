@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/estatica-dinamica"
 title: Estática y dinámica
 url: "/recursos-fisica-quimica/apuntes/1bach/estatica-dinamica"
 subtitle: Estática y dinámica de una partícula y un sólido rígido

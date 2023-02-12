@@ -36,7 +36,7 @@ subtitle = "En format **text**, **diapositives** i **pòster**. També **exercic
   icon = "[📕](1batx)"
   icon_pack = "emoji"
   name = "[1r Batx](1batx)"
-  description = ""
+  description = "[🧲 Física](1batx/fisica) · [⚗️ Química](1batx/quimica)"
       
 [[feature]]
   icon = "[📓](2batx)"

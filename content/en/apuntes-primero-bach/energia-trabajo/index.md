@@ -1,4 +1,5 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/energia-trabajo"
 title: Energy and Work
 url: "/physics-chemistry-notes/16-17-year-olds/energy-work"
 subtitle: Work, Power and Energy

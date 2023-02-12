@@ -1,9 +1,10 @@
 ---
+translationKey: /recursos-fisica-quimica/apuntes/1bach/disoluciones
 title: Dissolucions
-url: "/recursos-fisica-quimica/apunts/1batx/dissolucions"
+url: "/recursos-fisica-quimica/apunts/1batx/quimica/dissolucions"
 subtitle: Formes d'expressar la concentració, preparació i propietats col·ligatives
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Formes d'expressar la concentració, preparació i propietats col·ligatives."
-breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+breadcrumbs: ["recursos-fisica-quimica","apunts","1batx-quimica"]
 tags:
 - apunts
 - 1r Batx

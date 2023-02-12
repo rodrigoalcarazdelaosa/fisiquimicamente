@@ -1,9 +1,10 @@
 ---
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/leyes-fundamentales-quimica"
 title: Lleis fonamentals de la Química
-url: "/recursos-fisica-quimica/apunts/1batx/lleis-fonamentals-quimica"
+url: "/recursos-fisica-quimica/apunts/1batx/quimica/lleis-fonamentals-quimica"
 subtitle: Lleis ponderals i lleis dels gasos ideals
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Lleis ponderals i lleis dels gasos ideals."
-breadcrumbs: ["recursos-fisica-quimica","apunts","1batx"]
+breadcrumbs: ["recursos-fisica-quimica","apunts","1batx-quimica"]
 tags:
 - apunts
 - 1r Batx

@@ -167,8 +167,10 @@
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/1bach">📕 1.º Bach</a></li>
     {{else if eq . "16-17-year-olds"}}
   	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/16-17-year-olds">📕 16&ndash;17 year-olds</a></li>	
-    {{else if eq . "1batx"}}
-  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/1batx">📕 1r Batx</a></li>
+    {{ else if and (eq . "1batx-fisica") (eq site.Language.Lang "ca") }}
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/1batx">📕 1r Batx</a></li><li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/1batx/fisica">🧲 Física</a></li>
+    {{ else if and (eq . "1batx-quimica") (eq site.Language.Lang "ca") }}
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/1batx">📕 1r Batx</a></li><li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/1batx/quimica">⚗️ Química</a></li>
     {{else if eq . "2bach"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2bach">📓 2.º Bach</a></li>
     {{else if eq . "17-18-year-olds"}}
