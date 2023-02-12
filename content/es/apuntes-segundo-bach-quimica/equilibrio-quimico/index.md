@@ -59,12 +59,30 @@ En 1803, [Berthollet](https://es.wikipedia.org/wiki/Claude_Louis_Berthollet) des
 También conocida como **ley de Guldberg y Waage**, establece que la velocidad de una reacción es directamente proporcional al producto de las concentraciones de los reactivos. Como en el equilibrio las velocidades de las reacciones directa e inversa son iguales, esto implica que existe una relación constante entre concentraciones de reactivos y productos.
 
 ## Constante de equilibrio
-Como en el equilibrio las concentraciones de reactivos y productos se mantienen constantes, podemos calcular una constante de equilibrio $K_\mathrm c$, que será invariable a una cierta $T$.
+Como en el equilibrio las concentraciones de reactivos y productos se mantienen constantes, podemos calcular una **constante de equilibrio** $K_\mathrm c$, que será invariable a una cierta $T$.
 
-En un caso general:
+En un caso general[^1]:
 $$
 a\thinspace\mathrm A + b\thinspace\mathrm B &#8652; c\thinspace\mathrm C + d\thinspace\mathrm D,
 $$
+
+[^1]: Sea el proceso reversible:
+  $$
+  a\thinspace\mathrm A + b\thinspace\mathrm B &#8652; c\thinspace\mathrm C + d\thinspace\mathrm D
+  $$
+  En este caso, los órdenes parciales de reacción coincidirán con los coeficientes estequiométricos de tal manera que las ecuaciones de la velocidad de reacción de ambos procesos quedan como:
+  $$
+  v_\mathrm d = k_\mathrm d [\mathrm A]^a[\mathrm B]^b;\qquad v_\mathrm i = k_\mathrm i [\mathrm C]^c[\mathrm D]^d,
+  $$
+  donde $k_\mathrm d$ y $k_\mathrm i$ son las constantes cinéticas. Como en el equilibrio las velocidades de las reacciones directa e inversa son iguales:
+  $$
+  k_\mathrm d [\mathrm A]^a[\mathrm B]^b = k_\mathrm i [\mathrm C]^c[\mathrm D]^d
+  $$
+  El cociente de la constante de velocidad del proceso directo y la del proceso inverso se conoce como **constante de equilibrio**, *K*<sub>c</sub>. Despejando de la ecuación anterior viene dada por la siguiente expresión:
+  $$
+  \frac{k_\mathrm d}{k_\mathrm i} = \frac{[\mathrm C]^c[\mathrm D]^d}{[\mathrm A]^a[\mathrm B]^b} = K_\mathrm c
+  $$
+  Esta es la **ley de acción de masas** obtenida de forma experimental por Guldberg y Waage en 1864.
 
 $$
 K_\mathrm c = \frac{[\mathrm C]^c[\mathrm D]^d}{[\mathrm A]^a[\mathrm B]^b}

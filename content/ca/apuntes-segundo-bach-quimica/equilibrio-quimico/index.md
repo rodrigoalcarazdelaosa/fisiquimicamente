@@ -43,12 +43,30 @@ Al 1803, [Berthollet](https://es.wikipedia.org/wiki/Claude_Louis_Berthollet) des
 També coneguda com a **llei de Guldberg i Waage**, estableix que la velocitat d'una reacció és directament proporcional al producte de les concentracions dels reactius. Com en l'equilibri les velocitats de les reaccions directa i inversa són iguals, això implica que existeix una relació constant entre concentracions de reactius i productes.
 
 ## Constant d'equilibri
-Com en l'equilibri les concentracions de reactius i productes es mantenen constants, podem calcular una constant d'equilibri $K_\mathrm c$, que serà invariable a una certa $T$.
+Com en l'equilibri les concentracions de reactius i productes es mantenen constants, podem calcular una **constant d'equilibri** $K_\mathrm c$, que serà invariable a una certa $T$.
 
-En un cas general:
+En un cas general[^1]:
 $$
 a\thinspace\mathrm A + b\thinspace\mathrm B &#8652; c\thinspace\mathrm C + d\thinspace\mathrm D,
 $$
+
+[^1]: Sigui el procés reversible:
+   $$
+   a\thinspace\mathrm A + b\thinspace\mathrm B &#8652; c\thinspace\mathrm C + d\thinspace\mathrm D
+   $$
+   En aquest cas, els ordres parcials de reacció coincidiran amb els coeficients estequiomètrics de manera que les equacions de la velocitat de reacció dels dos processos queden com:
+   $$
+   v_\mathrm d = k_\mathrm d [\mathrm A]^a[\mathrm B]^b;\qquad v_\mathrm i = k_\mathrm i [\mathrm C]^c[\mathrm D]^d,
+   $$
+   on $k_\mathrm d$ i $k_\mathrm i$ són les constants cinètiques. Com en l'equilibri, les velocitats de les reaccions directa i inversa són iguals:
+   $$
+   k_\mathrm d [\mathrm A]^a[\mathrm B]^b = k_\mathrm i [\mathrm C]^c[\mathrm D]^d
+   $$
+   El quocient de la constant de velocitat del procés directe i la del procés invers es coneix com a **constant d'equilibri**, K<sub>c</sub>. Aïllant de l'equació anterior ve donada per la següent expressió:
+   $$
+   \frac{k_\mathrm d}{k_\mathrm i} = \frac{[\mathrm C]^c[\mathrm D]^d}{[\mathrm A]^a[\mathrm B]^b} = K_\mathrm c
+   $$
+   Aquesta és la **llei d'acció de masses** obtinguda de manera experimental per Guldberg i Waage el 1864.
 
 $$
 K_\mathrm c = \frac{[\mathrm C]^c[\mathrm D]^d}{[\mathrm A]^a[\mathrm B]^b}
