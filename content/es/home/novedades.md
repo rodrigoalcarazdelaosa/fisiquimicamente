@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Música y física"
-      url: 'blog/2023/02/01/musica-y-fisica/'
+      text: "Las diez tecnologías emergentes más importantes en Química"
+      url: 'blog/2023/02/15/las-diez-tecnologias-emergentes-mas-importantes-en-quimica/'
 ---
