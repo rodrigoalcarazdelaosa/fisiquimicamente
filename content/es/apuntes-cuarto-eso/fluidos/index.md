@@ -245,7 +245,6 @@ Gracias al **experimento de Torricelli** se midió por primera vez la presión a
 
 {{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" title="Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a aproximadamente 76 cm, creándose un vacío en los 24 cm restantes. Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/53700/53703/53703_torricellian.htm)." lightbox="true" >}}
 
-
 $$
 p_\text{atm} = d_\text{Hg}\cdot g\cdot h = 13534\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} =  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
 $$
@@ -267,9 +266,9 @@ En este otro vídeo, también el [Departamento de Física y Química del IES Val
 
 {{< vimeo 67896094 >}}
 
-Finalmente, el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA0qIZsuzGl09cw) nos muestra un método alternativo que no requiere una bomba de vacío para eliminar el aire del interior de la esfera: 
+Finalmente, el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA0qIZsuzGl09cw) nos muestra cómo la presión atmosférica es capaz de aplastar distintos recipientes, además de un método alternativo que no requiere una bomba de vacío para eliminar el aire del interior de la esfera: 
 
-{{< youtube Q66DxZB6plE >}}
+{{< youtube lDUuB-Mdx0Q >}}
 
 ### Fenómenos meteorológicos
 Las **diferencias** de **presión** entre distintos puntos de la atmósfera es el origen de numerosos **fenómenos meteorológicos**.
