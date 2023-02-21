@@ -63,6 +63,12 @@ $$
 
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario.
 
+{{% callout note %}}
+Durante su estancia a bordo de la [**ISS**](https://es.wikipedia.org/wiki/Estación_Espacial_Internacional), el ex ministro de Ciencia e Innovación de España, [**Pedro Duque**](https://es.wikipedia.org/wiki/Pedro_Duque), fue filmado realizando demostraciones en las que explicaba las **tres leyes del movimiento de Newton**: 
+
+{{< youtube xO70CCH68t8 >}}
+{{% /callout %}}
+
 ### Ley de Hooke
 La **ley** de **Hooke** relaciona el alargamiento o elongación, $\Delta x$, que sufre un muelle o resorte bajo la acción de una cierta fuerza $F$:
 

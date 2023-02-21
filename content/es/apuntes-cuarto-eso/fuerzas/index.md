@@ -72,6 +72,10 @@ Os recomendamos pasaros por la sección de [**Historia de la Ciencia**](https://
 ### 1ª ley (ley de la inercia)
 > Todo cuerpo preserva su estado de reposo o movimiento rectilíneo uniforme salvo que actúe una fuerza sobre él.
 
+En el siguiente vídeo del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) puedes ver un ejemplo de cómo los objetos tienden a mantener su estado de reposo, utilizando un pulsador de bolígrafo y una cámara de alata velocidad:
+
+{{< youtube 1-FP1_oD-zI >}}
+
 ### 2ª ley (ley fundamental de la dinámica)
 > El cambio de movimiento es proporcional a la fuerza ejercida y se hace en la dirección de la línea recta en que se ejerce la fuerza.
 
@@ -86,6 +90,12 @@ En el SI la fuerza se mide en Newton (N): $1\thinspace\mathrm N = 1\thinspace \m
 > Para toda acción siempre hay una reacción igual y opuesta.
 
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario ($\vec F_\text{AB} = -\vec F_\text{BA}$).
+
+{{% callout note %}}
+Durante su estancia a bordo de la [**ISS**](https://es.wikipedia.org/wiki/Estación_Espacial_Internacional), el ex ministro de Ciencia e Innovación de España, [**Pedro Duque**](https://es.wikipedia.org/wiki/Pedro_Duque), fue filmado realizando demostraciones en las que explicaba las **tres leyes del movimiento de Newton**: 
+
+{{< youtube xO70CCH68t8 >}}
+{{% /callout %}}
 
 ## Fuerzas de especial interés
 

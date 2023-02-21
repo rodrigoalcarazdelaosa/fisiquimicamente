@@ -33,7 +33,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 ## Las fuerzas y sus efectos
 
 - [Leyes de Newton](#/1/1)
-- [Ley de Hooke](#/1/6)
+- [Ley de Hooke](#/1/7)
 
 (continúa hacia abajo)
 
@@ -69,6 +69,10 @@ $$
 > Para toda acción siempre hay una reacción igual y opuesta.
 
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario.
+
+---
+
+{{< youtube xO70CCH68t8 >}}
 
 ---
 
