@@ -26,8 +26,12 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Simulacions"
+    name = "Animacions/simulacions"
     tag = "simulacions"
+
+  [[content.filter_button]]
+    name = "FiQ"
+    tag = "fiq"    
 	
   [[content.filter_button]]
     name = "Vídeos"
