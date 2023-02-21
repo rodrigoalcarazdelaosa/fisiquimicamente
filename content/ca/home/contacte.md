@@ -27,6 +27,10 @@ content:
       icon_pack: "fab"
       name: "Segueix-nos a Pinterest"
       link: "https://www.pinterest.es/fisiquimicamente/"
+    - icon: telegram
+      icon_pack: fab
+      name: "Subscriu-te al canal de Telegram"
+      link: "https://t.me/fisiquimicamente"      
     - icon: "discord"
       icon_pack: "fab"
       name: "Uneix-te a el servidor d'Discord"

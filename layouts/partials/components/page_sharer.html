@@ -129,14 +129,12 @@
 			{{ end }}
 		</h3>
 	</div>
-	<ul class=share>
-		{{ if eq .Site.Language.Lang "es" }}
+	<ul class=share>		
 		<li>
 	        <a href="https://t.me/fisiquimicamente" target="_blank" rel="noopener">
 				<i class="fab fa-telegram" data-toggle="tooltip" data-placement="left" title aria-label="Telegram" data-original-title="Telegram"></i>
 			</a>
 		</li>		
-		{{ end }}
 		<li>
 	        <a href="{{ "/index.xml" | absLangURL }}" target="_blank" rel="noopener">
 				<i class="fas fa-rss" data-toggle="tooltip" data-placement="right" title aria-label="RSS" data-original-title="RSS"></i>
@@ -145,11 +143,11 @@
 	</ul>
 	  <p class="kudos">
 	  {{ if eq .Site.Language.Lang "es" }}
-		  Si no quieres perderte ninguna <strong>actualización</strong> considera suscribirte al canal de <i class="fab fa-telegram mr-1"></i><strong>Telegram</strong> o al canal <i class="fas fa-rss mr-1"></i><strong>RSS</strong>.
+		Si no quieres perderte ninguna <strong>actualización</strong> considera suscribirte al canal de <i class="fab fa-telegram mr-1"></i><strong>Telegram</strong> o al canal <i class="fas fa-rss mr-1"></i><strong>RSS</strong>.
 	  {{ else if eq .Site.Language.Lang "en" }}
-		If you don't want to miss any <strong>updates</strong> consider subscribing to the <i class="fas fa-rss mr-1"></i><strong>RSS</strong> channel.
+		If you don't want to miss any <strong>updates</strong> consider subscribing to the <i class="fab fa-telegram mr-1"></i><strong>Telegram</strong> channel (in Spanish) or the <i class="fas fa-rss mr-1"></i><strong>RSS</strong> channel.
 	{{ else if eq .Site.Language.Lang "ca" }}
-		Si no et vols perdre cap <strong>actualització</strong> considera subscriure'ta canal <i class="fas fa-rss mr-1"></i><strong>RSS</strong>.		
+		Si no et vols perdre cap <strong>actualització</strong> considera subscriure'ta canal de <i class="fab fa-telegram mr-1"></i><strong>Telegram</strong> (en espanyol) o al canal <i class="fas fa-rss mr-1"></i><strong>RSS</strong>.		
 	{{ end }}				  
   </p>
 </div>

@@ -78,6 +78,13 @@ social:
   display:
     header: true
     footer: true
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/fisiquimicamente
+  label: Subscribe to the Telegram channel
+  display:
+    header: true
+    footer: true    
 - icon: discord
   icon_pack: fab
   link: https://discord.gg/kJqPqTJ
