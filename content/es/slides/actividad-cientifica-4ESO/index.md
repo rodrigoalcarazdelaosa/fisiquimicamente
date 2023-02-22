@@ -354,7 +354,7 @@ $$
 
 ## Errores en la medida
 - [Errores sistemáticos y aleatorios](#/5/3)
-- [Exactitud y precisión](#/5/11)
+- [Precisión, veracidad y exactitud](#/5/11)
 - [Error absoluto y error relativo](#/5/15)
 
 (continúa hacia abajo)
@@ -363,7 +363,7 @@ $$
 
 ---
 
-**Siempre** que se realiza una **medida experimental** con un instrumento, ésta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales.
+**Siempre** que se realiza una **medida experimental** con un instrumento, esta lleva asociada una **incertidumbre**, que hace que sea imposible obtener dos medidas *exactamente* iguales.
 
 ---
 
@@ -413,9 +413,10 @@ Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas
 
 ---
 
-### Exactitud y precisión
-- [Exactitud](#/5/12)
-- [Precisión](#/5/13)
+### Precisión, veracidad y exactitud
+- [Precisión](#/5/12)
+- [Veracidad](#/5/13)
+- [Exactitud](#/5/14)
 
 (continúa hacia abajo)
 
@@ -423,17 +424,24 @@ Se puede **estimar** comparando medidas y **reducir** promediando muchas medidas
 
 ---
 
-#### Exactitud
-Es la **cercanía** de las **mediciones** al **valor real**. Es una **descripción** de los **errores sistemáticos**.
-
----
-
 #### Precisión
-Es la **cercanía** de las **mediciones entre sí**. Es una **descripción** de los **errores aleatorios**.
+Es la **cercanía** entre los **valores medidos** obtenidos en **mediciones** repetidas bajo condiciones similares. Es una **descripción** de los **errores aleatorios**.
 
 ---
 
-{{< figure library="true" src="actividad-cientifica-4ESO/exactitud-precision.svg" lightbox="false" width="100%" >}}
+#### Veracidad
+Es la **cercanía** entre la media de un número infinito de **valores medidos** repetidos y un **valor de referencia**. Es una **descripción** de los **errores sistemáticos**.
+
+---
+
+#### Exactitud
+Es la **cercanía** entre un **valor medido** y el **valor verdadero** de la magnitud que se pretende medir.
+
+Una alta exactitud es una combinación de alta precisión y alta veracidad.
+
+---
+
+{{< figure library="true" src="actividad-cientifica-4ESO/precision-veracidad-exactitud.svg" title="Los dardos representan medidas. Para la veracidad, el centro de la diana representa el valor de referencia. La precisión describe la proximidad entre las medidas." lightbox="false" width="60%" >}}
 
 ---
 
