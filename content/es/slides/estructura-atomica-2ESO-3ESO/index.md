@@ -92,7 +92,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 
 ---
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono-11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de [burlesonmatthew](https://pixabay.com/es/users/burlesonmatthew-3904514/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" width="50%">}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono–11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza." lightbox="false" width="50%">}}
 
 ---
 
@@ -171,9 +171,9 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 ##### Resultados del experimento
 
 <ul>
-	{{% fragment %}} <li>La mayoría de las partículas atravesaban la lámina de oro sin sufrir ninguna desviación.</li> {{% /fragment %}}
-	{{% fragment %}} <li>Muy pocas (una de cada 10000 aproximadamente) se desviaban un ángulo mayor de unos $10^\circ$.</li> {{% /fragment %}}
-	{{% fragment %}} <li>Algunas partículas (poquísimas) incluso rebotaban.</li> {{% /fragment %}}
+	{{% fragment %}} <li>La **mayoría** de las **partículas atravesaban** la **lámina** de oro sin desviarse.</li> {{% /fragment %}}
+	{{% fragment %}} <li>**Muy pocas** (1/10&thinsp;000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.</li> {{% /fragment %}}
+	{{% fragment %}} <li>**Algunas** partículas (poquísimas) **incluso rebotaban**.</li> {{% /fragment %}}
 </ul>
 
 ---
@@ -216,6 +216,9 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ## Iones e isótopos
 
+- [Iones](#/4/1)
+- [Isótopos](#/4/3)
+
 (continúa hacia abajo)
 
 👇
@@ -230,16 +233,16 @@ Un **ion** es un **átomo cargado** eléctricamente.
 Según su carga eléctrica sea positiva o negativa, distinguimos:
 
 <dl>
-{{% fragment %}}<dt>Catión</dt>{{% /fragment %}}
-{{% fragment %}}<dd>Átomo que ha perdido/cedido electrones, adquiriendo <strong>carga</strong> eléctrica <strong>positiva</strong> al tener menos electrones que protones.</dd>{{% /fragment %}}
-{{% fragment %}}<dt>Anión</dt>{{% /fragment %}}
-{{% fragment %}}<dd>Átomo que ha ganado/captado electrones, adquiriendo <strong>carga</strong> eléctrica <strong>negativa</strong> al tener más electrones que protones.</dd>{{% /fragment %}}
+{{% fragment %}}<dt>Catión</dt>
+<dd>Átomo que ha perdido/cedido electrones, adquiriendo <strong>carga</strong> eléctrica <strong>positiva</strong> al tener menos electrones que protones.</dd>{{% /fragment %}}
+{{% fragment %}}<dt>Anión</dt>
+<dd>Átomo que ha ganado/captado electrones, adquiriendo <strong>carga</strong> eléctrica <strong>negativa</strong> al tener más electrones que protones.</dd>{{% /fragment %}}
 </dl>
 
 ---
 
 ### Isótopos
-Los **isótopos** son **átomos** del **mismo elemento químico** con **distinto número** de **neutrones** en su núcleo, y por tanto **distinto número másico** $A$.
+Concepto introducido en 1913 por el químico inglés [Frederick Soddy](https://es.wikipedia.org/wiki/Frederick_Soddy), se trata de **átomos** del **mismo elemento químico** con **distinto número** de **neutrones** en su núcleo, y por tanto **distinto número másico** $A$.
 
 ---
 
@@ -262,14 +265,14 @@ La **masa** de los **átomos** es **extremadamente pequeña** comparada con las 
 
 ---
 
-Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, $\mathrm u$, la cual se define como:
+Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, u, la cual se define como:
 
-> La unidad de masa atómica, $\mathrm{u}$, se define como la doceava parte de la masa de un átomo de $^{12}\mathrm C$, y es igual a:
+> La unidad de masa atómica, u, se define como la doceava parte de la masa de un átomo de $^{12}\mathrm C$, y es igual a:
 	$$
 	1\thinspace\mathrm u = 1.661\times 10^{-27}\thinspace\mathrm{kg}
 	$$
 	
-De esta forma el isótopo $^{12}\mathrm C$ tiene una masa de $12\thinspace\mathrm u$.
+De esta forma el isótopo $^{12}\mathrm C$ tiene una masa de 12&thinsp;u.
 
 ---
 

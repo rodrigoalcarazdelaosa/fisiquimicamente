@@ -100,7 +100,7 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 ##### Resultados del experimento
 
 - La **mayoría** de las **partículas atravesaban** la **lámina** de oro sin desviarse.
-- **Muy pocas** (1/10000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.
+- **Muy pocas** (1/10&thinsp;000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.
 - **Algunas** partículas (poquísimas) **incluso rebotaban**.
 
 ##### Interpretación del experimento
@@ -132,21 +132,21 @@ Un **ion** es un **átomo cargado** eléctricamente. Según su carga eléctrica 
 Átomo que ha ganado/captado electrones, adquiriendo **carga** eléctrica **negativa** al tener más electrones que protones.
 
 ### Isótopos
-Los **isótopos** son **átomos** del **mismo elemento químico** con **distinto número** de **neutrones** en su núcleo, y por tanto **distinto número másico** $A$.
+Concepto introducido en 1913 por el químico inglés [Frederick Soddy](https://es.wikipedia.org/wiki/Frederick_Soddy), se trata de **átomos** del **mismo elemento químico** con **distinto número** de **neutrones** en su núcleo, y por tanto **distinto número másico** $A$.
 
 #### Isótopos radiactivos
 Los llamados **isótopos radiactivos** son aquellos isótopos que son **inestables** y tienden a **desintegrarse** espontáneamente, **emitiendo radiación** y/o **materia**, transformándose en isótopos estables de otros elementos químicos.
 
 ## Masa atómica
 
-La **masa** de los **átomos** es **extremadamente pequeña** comparada con las masas de los objetos cotidianos. Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, $\mathrm u$, la cual se define como:
+La **masa** de los **átomos** es **extremadamente pequeña** comparada con las masas de los objetos cotidianos. Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, u, la cual se define como:
 
-> La unidad de masa atómica, $\mathrm{u}$, se define como la doceava parte de la masa de un átomo de $\ce{^{12}C}$, y es igual a:
+> La unidad de masa atómica, u, se define como la doceava parte de la masa de un átomo de $\ce{^{12}C}$, y es igual a:
 	$$
 	1\thinspace\mathrm u = 1.661\times 10^{-27}\thinspace\mathrm{kg}
 	$$
 	
-De esta forma el isótopo $\ce{^{12}C}$ tiene una masa de $12\thinspace\mathrm u$.
+De esta forma el isótopo $\ce{^{12}C}$ tiene una masa de 12&thinsp;u.
 
 La masa atómica que encontramos en las tablas periódicas es la media **ponderada** de las masas de los isótopos naturales de cada elemento, teniendo en cuenta su **abundancia**.
 
