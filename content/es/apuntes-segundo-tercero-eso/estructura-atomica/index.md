@@ -26,11 +26,20 @@ links:
   icon: file-download
   name: Póster
   url: estructura-atomica-poster.pdf
+- icon_pack: fas
+  icon: file-download
+  name: Unidad didáctica CERN
+  url: unidad-didactica-CERN.pdf
   
 slides: estructura-atomica-2ESO-3ESO  
 ---
 
 {{% toc %}}
+
+{{% callout note %}}
+Echa un vistazo a la [**unidad didáctica** preparada por el **CERN**](unidad-didactica-CERN.pdf) para introducir la física de partículas y evitar ideas equivocadas en el futuro.
+
+{{% /callout %}}
 
 ## Teoría atómica de Dalton
 En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito. Su **teoría** se basa en:

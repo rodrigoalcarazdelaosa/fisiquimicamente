@@ -21,11 +21,11 @@ image:
   caption: Image by [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) on [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-# links:
-# - icon_pack: fas
-#  icon: file-download
-#  name: Póster
-#  url: estructura-atomica-poster.pdf
+links:
+- icon_pack: fas
+  icon: file-download
+  name: CERN Learning Unit
+  url: https://per.web.cern.ch/sites/default/files/units/JW_ElementaryParticles_LearningUnit.pdf
   
 # slides: estructura-atomica-2ESO-3ESO  
 ---
