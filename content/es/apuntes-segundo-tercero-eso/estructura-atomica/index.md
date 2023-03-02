@@ -37,7 +37,7 @@ slides: estructura-atomica-2ESO-3ESO
 {{% toc %}}
 
 {{% callout note %}}
-Echa un vistazo a la [**unidad didáctica** preparada por el **CERN**](unidad-didactica-CERN.pdf) para introducir la física de partículas y evitar ideas equivocadas en el futuro.
+En estos apuntes hemos incorporado algunas de las **ideas clave** que puedes encontrar en la [excelente **unidad didáctica** escrita y comentada por **Jeff Wiener** para el **CERN**](unidad-didactica-CERN.pdf).
 
 {{% /callout %}}
 
@@ -49,15 +49,15 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 - Los **compuestos químicos** se forman por la **unión** de dos o más **átomos** según una relación numérica sencilla y constante.
 
 ## El átomo
-En la actualidad sabemos que los átomos están compuestos por:
+En la actualidad sabemos que los átomos se dividen en dos zonas:
 
-Núcleo
+Espacio del núcleo
 : Donde se encuentran los: 
-	- **Protones**: partículas con **carga** eléctrica **positiva**.
-	- **Neutrones**: partículas **neutras** (sin carga eléctrica).
+	- **Protones**: sistemas de partículas con **carga** eléctrica **positiva**.
+	- **Neutrones**: sistemas de partículas **neutras** (sin carga eléctrica).
 
-Corteza electrónica
-: Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
+Espacio orbital
+: Donde es probable encontrar los **electrones** (partículas elementales con **carga** eléctrica **negativa**).
 
 La siguiente tabla muestra la masa y carga de las partículas que componen los átomos:
 
@@ -69,7 +69,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 <td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
 <td colspan=3>$q_\text{protón}=-q_\text{electrón}$
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono-11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza. Imagen de [burlesonmatthew](https://pixabay.com/es/users/burlesonmatthew-3904514/) en [Pixabay](https://pixabay.com/es/)." lightbox="false" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/nucleo-orbital.svg" title="Distinción cualitativa de las dos áreas mediante una ilustración tipográfica del modelo atómico." lightbox="false" width="100%" >}}
 
 ### Número atómico $Z$
 El **número atómico**, $Z$, es el número de **protones** que tiene un átomo en su núcleo.

@@ -23,7 +23,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
+  icon: external-link-alt
   name: CERN Learning Unit
   url: https://per.web.cern.ch/sites/default/files/units/JW_ElementaryParticles_LearningUnit.pdf
   

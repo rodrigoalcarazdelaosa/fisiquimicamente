@@ -18,16 +18,20 @@ slides:
 
 # Estructura atómica
 
-- [Teoría atómica de Dalton](#/1)
-- [El átomo](#/2)
-- [Modelos atómicos](#/3)
-- [Iones e isótopos](#/4)
-- [Masa atómica](#/5)
-- [Constructor de átomos](#/6)
+- [Teoría atómica de Dalton](#/2)
+- [El átomo](#/3)
+- [Modelos atómicos](#/4)
+- [Iones e isótopos](#/5)
+- [Masa atómica](#/6)
+- [Constructor de átomos](#/7)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
 </section>
+
+---
+
+> En estos apuntes hemos incorporado algunas de las **ideas clave** que puedes encontrar en la [excelente **unidad didáctica** escrita y comentada por **Jeff Wiener** para el **CERN**](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/2eso-3eso/estructura-atomica/unidad-didactica-CERN.pdf).
 
 ---
 
@@ -59,7 +63,7 @@ Su **teoría** se basa en:
 
 ## El átomo
 
-En la actualidad sabemos que los átomos están compuestos por:
+En la actualidad sabemos que los átomos se dividen en dos zonas:
 
 (continúa hacia abajo)
 
@@ -67,16 +71,16 @@ En la actualidad sabemos que los átomos están compuestos por:
 
 ---
 
-### Núcleo
+### Espacio del núcleo
 Donde se encuentran los: 
 
-- **Protones**: partículas con **carga** eléctrica **positiva**.
-- **Neutrones**: partículas **neutras** (sin carga eléctrica).
+- **Protones**: sistemas de partículas con **carga** eléctrica **positiva**.
+- **Neutrones**: sistemas de partículas **neutras** (sin carga eléctrica).
 
 ---
 
-### Corteza electrónica
-Donde se encuentran los **electrones** (partículas con **carga** eléctrica **negativa**).
+### Espacio orbital
+Donde es probable encontrar los **electrones** (partículas elementales con **carga** eléctrica **negativa**).
 
 ---
 
@@ -92,7 +96,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 
 ---
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/atomo-C.png" title="Representación de un átomo neutro de carbono–11 ($^{11}_6 \mathrm{C}$), con un núcleo con 6 protones (rojos) y 5 neutrones (azules), y 6 electrones en su corteza." lightbox="false" width="50%">}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/nucleo-orbital.svg" lightbox="false" width="80%" >}}
 
 ---
 
@@ -126,8 +130,8 @@ donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el 
 
 ## Modelos atómicos
 
-- [Thomson](#/3/1)
-- [Rutherford](#/3/4)
+- [Thomson](#/4/1)
+- [Rutherford](#/4/4)
 
 (continúa hacia abajo)
 
@@ -171,9 +175,9 @@ En 1911 **Rutherford** lleva a cabo un experimento histórico en el que **descub
 ##### Resultados del experimento
 
 <ul>
-	{{% fragment %}} <li>La **mayoría** de las **partículas atravesaban** la **lámina** de oro sin desviarse.</li> {{% /fragment %}}
-	{{% fragment %}} <li>**Muy pocas** (1/10&thinsp;000 aproximadamente) **se desviaban** un ángulo mayor de unos 10&deg;.</li> {{% /fragment %}}
-	{{% fragment %}} <li>**Algunas** partículas (poquísimas) **incluso rebotaban**.</li> {{% /fragment %}}
+	{{% fragment %}} <li>La <strong>mayoría</strong> de las <strong>partículas atravesaban</strong> la <strong>lámina</strong> de oro sin desviarse.</li> {{% /fragment %}}
+	{{% fragment %}} <li><strong>Muy pocas</strong> (1/10&thinsp;000 aproximadamente) <strong>se desviaban</strong> un ángulo mayor de unos 10&deg;.</li> {{% /fragment %}}
+	{{% fragment %}} <li><strong>Algunas</strong> partículas (poquísimas) <strong>incluso rebotaban</strong>.</li> {{% /fragment %}}
 </ul>
 
 ---
@@ -216,8 +220,8 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ## Iones e isótopos
 
-- [Iones](#/4/1)
-- [Isótopos](#/4/3)
+- [Iones](#/5/1)
+- [Isótopos](#/5/3)
 
 (continúa hacia abajo)
 
