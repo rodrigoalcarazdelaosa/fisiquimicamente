@@ -22,8 +22,8 @@ links:
   url: tabla-periodica-elementos.pdf
 - icon_pack: fas
   icon: file-download
-  name: Versión escala de grises
-  url: tabla-periodica-elementos-escala-grises.pdf
+  name: Versión blanco y negro
+  url: tabla-periodica-elementos-blanco-negro.pdf
 - icon_pack: fas
   icon: file-download
   name: Versión sin nombres

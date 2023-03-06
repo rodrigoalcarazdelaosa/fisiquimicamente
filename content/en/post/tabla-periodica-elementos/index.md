@@ -22,8 +22,8 @@ links:
   url: periodic-table-elements.pdf
 - icon_pack: fas
   icon: file-download
-  name: Greyscale version
-  url: periodic-table-elements-greyscale.pdf
+  name: Black and white version
+  url: periodic-table-elements-black-white.pdf
 - icon_pack: fas
   icon: file-download
   name: Version without names
