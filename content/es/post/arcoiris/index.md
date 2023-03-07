@@ -120,7 +120,7 @@ Sustituyendo podemos por tanto representar el ángulo del arcoíris en función 
 
 {{< figure src="dispersion-angulo-arcoiris.svg" title="Ángulo del arcoíris en función de la longitud de onda de la luz incidente, λ, teniendo en cuenta las expresiones $\hat\imath_\mathrm{mín} = \arccos{\sqrt{\dfrac{n^2-1}{3}}}$, $\hat d_\mathrm t = \pi+2\hat \imath-4\arcsin{\left(\dfrac{\sin\hat\imath}{n_2}\right)}$ y la dispersión del agua." lightbox="false" width="100%" >}}
 
-Tomando $n = 1.333$ obtenemos que el ángulo incidencia para el cual la desviación es mínima es de 59 grados, 24 minutos y 38 segundos de arco, con una desviación mínima de 137 grados, 55 minutos y 19 segundos, formándose el arcoíris a un ángulo de 42 grados, 4 minutos y 41 segundos, que es el ángulo que hay desde la sombra de nuestra cabeza. Por eso nunca puedes alcanzar un arcoíris, al acercarte tu posición cambia. El arcoíris siempre estará en el mismo ángulo respecto a ti.
+Tomando $n = 1.333$ obtenemos que el ángulo de incidencia para el cual la desviación es mínima es de 59 grados, 24 minutos y 38 segundos de arco, con una desviación mínima de 137 grados, 55 minutos y 19 segundos, formándose el arcoíris a un ángulo de 42 grados, 4 minutos y 41 segundos, que es el ángulo que hay desde la sombra de nuestra cabeza. Por eso nunca puedes alcanzar un arcoíris, al acercarte tu posición cambia. El arcoíris siempre estará en el mismo ángulo respecto a ti.
 
 $$
 n_\mathrm{agua} = 1.333 \rightarrow \hat\imath_\mathrm{mín} = 59^\circ\thinspace 24'\thinspace 38'';\quad \hat d_\mathrm t = 137^\circ\thinspace 55'\thinspace 19'';\quad \text{ángulo}_\text{arcoíris} = 42^\circ\thinspace 4'\thinspace 41''
