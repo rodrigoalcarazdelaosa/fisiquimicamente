@@ -2,8 +2,8 @@
   command = "source get_last_commit_hash.sh && hugo --gc --minify -b $URL"
 
 [build.environment]
-  GO_VERSION = "1.20.1"
-  HUGO_VERSION = "0.111.2"
+  GO_VERSION = "1.20.2"
+  HUGO_VERSION = "0.111.3"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
