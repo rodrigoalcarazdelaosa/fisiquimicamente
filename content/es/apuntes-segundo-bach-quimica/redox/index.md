@@ -13,6 +13,7 @@ tags:
 - 2º Bach
 - reacciones-químicas
 - rédox
+- electrolisis
 categories:
 - Química
 weight: 8

@@ -10,6 +10,9 @@ tags:
 - blog
 - hidrógeno
 - energía
+- electrolisis
+- pirólisis
+- termólisis
 categories:
 - Física
 - Química
