@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Las diez tecnologías emergentes más importantes en Química"
-      url: 'blog/2023/02/15/las-diez-tecnologias-emergentes-mas-importantes-en-quimica/'
+      text: "Los colores del hidrógeno"
+      url: 'blog/2023/03/18/los-colores-del-hidrogeno/'
 ---
