@@ -22,7 +22,7 @@ image:
 ---
 
 {{% callout note %}}
-En esta entrada transcribimos la información que nos proporciona [**☢️ RadiactivoMan ☢️**](https://twitter.com/RadiactivoMan) en su hilo 🧵 de Twitter, donde repasa los distintos colores del hidrógeno y su significado, en función de la forma de producirlo:
+En esta entrada transcribimos la información que nos proporciona [**☢️ RadiactivoMan ☢️**](https://twitter.com/RadiactivoMan) en su hilo 🧵 de Twitter, donde repasa los distintos **colores** del **hidrógeno** y su **significado**, en función de la forma de producirlo:
 
 <div align="center">
 {{< tweet user="RadiactivoMan" id="1485722458430881796" >}}
@@ -33,7 +33,7 @@ Para ello, hemos creado **tarjetas** que pueden descargarse en **PDF** y así po
 
 {{% toc %}}
 
-En primer lugar hay que indicar que el hidrógeno es un gas diatómico (H<sub>2</sub>) incoloro que es indistinguible por su procedencia. Es decir, lo que contamina más o menos es la forma de producirlo, pero, una vez obtenido, todos los *colores* del H<sub>2</sub> son iguales.
+En primer lugar hay que indicar que el [**hidrógeno**](https://es.wikipedia.org/wiki/Hidrógeno) es un [**gas diatómico** (H<sub>2</sub>)](https://es.wikipedia.org/wiki/Molécula_diatómica) incoloro que es indistinguible por su procedencia. Es decir, lo que contamina más o menos es la forma de producirlo, pero, una vez obtenido, todos los *colores* del H<sub>2</sub> son iguales.
 
 Decir también que no hay una clasificación oficial ni un consenso internacional en cuanto a los colores del hidrógeno, por lo que es posible que esta información cambie a lo largo del tiempo.
 
