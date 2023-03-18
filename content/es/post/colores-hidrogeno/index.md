@@ -28,7 +28,7 @@ En esta entrada transcribimos la información que nos proporciona [**☢️ Radi
 {{< tweet user="RadiactivoMan" id="1485722458430881796" >}}
 </div>
 
-Para ello, hemos creado ***tarjetas*** que pueden descargarse en **PDF** y así poder utilizarse como **cartas** de un posible **juego**.
+Para ello, hemos creado **tarjetas** que pueden descargarse en **PDF** y así poder utilizarse como ***cartas*** de un posible **juego**.
 {{% /callout %}}
 
 {{% toc %}}
