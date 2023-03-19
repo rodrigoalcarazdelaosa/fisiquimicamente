@@ -75,7 +75,7 @@ En la actualidad sabemos que los átomos se dividen en dos zonas:
 Donde se encuentran los: 
 
 - **Protones**: sistemas de partículas con **carga** eléctrica **positiva**.
-- **Neutrones**: sistemas de partículas **neutras** (sin carga eléctrica).
+- **Neutrones**: sistemas **neutros** (sin carga eléctrica) de partículas.
 
 ---
 
