@@ -81,3 +81,7 @@ Esta forma no es baladí. Pero, para entender su porqué, debemos hablar de aque
 {{< figure src="tokamak-2.jpg" title="Imagen de una sección del reactor, donde se pretende mostrar la forma de este. Fuente: https://www.iter.org/" lightbox="true" >}}
 
 Este es uno de los proyectos en los que se está trabajando con el objetivo de desarrollar los conocimientos y tecnologías necesarios para hacer de la fusión nuclear un método de obtención de energía. Y con esto lograr nuestra particular utopía nuclear.
+
+Echa un vistazo a este magnífico **vídeo** de [**Fusion for Energy**](http://fusionforenergy.europa.eu), la organización de la Unión Europea que gestiona la contribución europea al ITER:
+
+{{< youtube PzWe4uUXIDo >}}
