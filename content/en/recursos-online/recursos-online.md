@@ -27,7 +27,11 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Animations/Simulations"
-    tag = "simulations"    
+    tag = "simulations"
+
+  [[content.filter_button]]
+    name = "Comics"
+    tag = "comics"    
   
   [[content.filter_button]]
     name = "Color"
