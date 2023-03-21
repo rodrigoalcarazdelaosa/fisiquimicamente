@@ -8,6 +8,7 @@ tags:
 - apunts
 - 2n Batx
 - física-s-XX
+- radioactivitat
 categories:
 - Física
 weight: 7

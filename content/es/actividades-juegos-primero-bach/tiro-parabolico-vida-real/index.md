@@ -2,7 +2,7 @@
 title: Tiro parabólico en la vida real
 url: "/recursos-fisica-quimica/actividades-juegos/1bach/tiro-parabolico-vida-real"
 subtitle: Situación de aprendizaje con Geogebra y creación de un vídeo
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Situación de aprendizaje con Geogebra y creación de un vídeo."
+summary: "Situación de aprendizaje con Geogebra y creación de un vídeo."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-1bach"]
 tags:
 - actividades
@@ -12,6 +12,7 @@ tags:
 - geogebra
 - flipped-classroom
 - ABP
+- eXeLearning
 categories:
 - Física
 weight: 3

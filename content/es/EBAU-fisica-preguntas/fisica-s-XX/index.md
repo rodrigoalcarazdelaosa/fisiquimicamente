@@ -9,6 +9,7 @@ authors:
 tags:
 - EBAU
 - física-s-XX
+- radiactividad
 categories:
 - Física
 weight: 5

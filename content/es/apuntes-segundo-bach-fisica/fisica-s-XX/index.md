@@ -8,6 +8,7 @@ tags:
 - apuntes
 - 2º Bach
 - física-s-XX
+- radiactividad
 categories:
 - Física
 weight: 7
