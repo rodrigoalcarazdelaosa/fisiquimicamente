@@ -1,23 +1,35 @@
 <div align="center" class="comments-box">  
   <h3>Discord</h3>  
 </div>
-<widgetbot
-  server="755936234387275888"
-  channel="756101175081828422"
-  width="100%"
-  height="600"
-></widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
-
+{{- $wumpus := resources.Get ("media/lottie/wumpus.json") -}}
 {{ if eq .Site.Language.Lang "es" }}
+<div align="center">
+  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">			
+  	<lottie-player hover loop mode="normal"  src="{{ $wumpus.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Únete al servidor de Discord">
+		</lottie-player>
+	</a>
+</div>
+
   <p class="kudos">
     <strong>Participa</strong> activamente en la web comentando, dando tu opinión, realizando peticiones, sugerencias...
   </p>
 {{ else if eq .Site.Language.Lang "en" }}
+<div align="center">
+  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">			
+  	<lottie-player hover loop mode="normal"  src="{{ $wumpus.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Join the Discord server">
+		</lottie-player>
+	</a>
+</div>
   <p class="kudos">
     Actively <strong>participate</strong> in the website by commenting, giving your opinion, making requests, suggestions...
   </p>
 {{ else if eq .Site.Language.Lang "ca" }}
+<div align="center">
+  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">			
+  	<lottie-player hover loop mode="normal"  src="{{ $wumpus.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Uneix-te a el servidor d'Discord">
+		</lottie-player>
+	</a>
+</div>
   <p class="kudos">
     <strong>Participa</strong> activament a la web comentant, donant la teva opinió, realitzant peticions, suggeriments...
   </p>

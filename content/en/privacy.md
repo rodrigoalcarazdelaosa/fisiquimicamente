@@ -17,7 +17,6 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) for typefaces[^2].
 - [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) for icons.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) for the *coffees* (donations).
-- [<img draggable="false" class="icon" alt="widgetbot" src="/icon/widgetbot.svg"> WidgetBot](https://widgetbot.io/privacy) for the [{{< icon name="discord" pack="fab" >}}Discord](https://discord.gg/kJqPqTJ) widget.
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) to speed up and monetize[^3] the website (bottom left corner <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) for web analytics.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) for the [license](/license).
