@@ -14,36 +14,6 @@
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
 
-<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-{{ if eq site.Language.Lang "es" }}
-<script>
-  window.OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "2098b81f-0f35-4b6f-bd4e-591c8dade2a8",
-    });
-  });
-</script>
-{{ else if eq site.Language.Lang "en" }}
-<script>
-  window.OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "a585b8b5-fdaa-4962-98a7-27a929422768",
-    });
-  });
-</script>
-{{ else if eq site.Language.Lang "ca" }}
-<script>
-  window.OneSignal = window.OneSignal || [];
-  OneSignal.push(function() {
-    OneSignal.init({
-      appId: "6575c239-db33-4df4-86c9-ed8ec3090ec2",
-    });
-  });
-</script>
-{{ end }}
-
 {{ if .Params.quizdown }}
   <script src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/quizdown.js"></script>
   <script>  
