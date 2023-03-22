@@ -78,4 +78,13 @@
   from = "/arc-sw.js"
   to = "https://arc.io/arc-sw.js"
   status = 200
-  force = true    
+  force = true
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"  
+
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"
+
+  [plugins.inputs.settings]
+    locale = "es" # generates Lighthouse reports in Español
