@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Tiro parábolico en la vida real | 1.º Bach
-      url: '/recursos-fisica-quimica/actividades-juegos/1bach/tiro-parabolico-vida-real/'
+      text: Aplicaciones de la física nuclear | Física 2.º Bach
+      url: '/recursos-fisica-quimica/actividades-juegos/2bach/fisica/aplicaciones-fisica-nuclear'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
