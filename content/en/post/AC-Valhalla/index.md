@@ -32,7 +32,7 @@ image:
 > Become Eivor, a Viking raider raised to be a fearless warrior, and lead your clan from icy desolation in Norway to a new home amid the lush farmlands of ninth-century England. Find your settlement and conquer this hostile land by any means to earn a place in Valhalla.
 England in the age of the Vikings is a fractured nation of petty lords and warring kingdoms. Beneath the chaos lies a rich and untamed land waiting for a new conqueror. Will it be you?
 
-This little summary reminds $\infty$ to the series **Vikings** (you can find it in [Netflix](https://www.netflix.com/title/70301870)), which I strongly recommend you to see if you haven't done it.
+This little summary reminds ♾️ to the series **Vikings** (you can find it in [Netflix](https://www.netflix.com/title/70301870)), which I strongly recommend you to see if you haven't done it.
 
 ## Features
 ### Write Your Viking Saga

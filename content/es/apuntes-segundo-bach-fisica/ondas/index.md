@@ -56,8 +56,6 @@ links:
 
 <!-- https://twitter.com/fqsaja1/status/1587725310254092289?s=46&t=zkXhrFYWPeJnsLFJHsEc8A -->
 
-Apuntes sobre ondas, en formato texto y póster (tipo _chuleta_).
-
 {{% callout soon %}}
 Próximamente...
 {{% /callout %}}

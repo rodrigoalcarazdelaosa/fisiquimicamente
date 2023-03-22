@@ -44,6 +44,8 @@ links:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: movimiento-parabolico-1Bach
+
+math: true
 ---
 
 {{% toc %}}

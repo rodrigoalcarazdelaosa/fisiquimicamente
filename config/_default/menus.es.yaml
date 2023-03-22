@@ -36,7 +36,7 @@ main:
     url: tutoriales/  
     identifier: tutoriales
     weight: 2
-  - name: $\LaTeX$
+  - name: LaTeX
     parent: tutoriales
     url: tutoriales/latex
     weight: 1

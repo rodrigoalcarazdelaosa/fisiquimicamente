@@ -56,6 +56,7 @@ links:
 
 slides: acido-base-2Bach-quimica
 
+math: true
 ---
 
 {{% toc %}}

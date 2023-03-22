@@ -20,6 +20,8 @@ categories:
 image:
   placement: 3
   caption: "Foto de [**Frans Van Heerden**](https://www.pexels.com/es-es/@frans-van-heerden-201846) en [Pexels](https://www.pexels.com/es-es/)"
+
+math: true
 ---
 
 {{% callout thread %}}

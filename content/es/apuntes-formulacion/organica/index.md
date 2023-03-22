@@ -62,7 +62,7 @@ Si quieres practicar a **nombrar** y **formular compuestos orgánicos** básicos
 {{% /callout %}}
 
 {{% callout note %}}
-Te recomendamos echar un vistazo a [este **proyecto** de **Overleaf**](https://www.overleaf.com/read/jgvfsvdnfgcs), el cual alberga el **código $\LaTeX$** para generar **imágenes** de muchas **moléculas orgánicas**, cortesía de {{% mention alba-lopez-valenzuela %}}.
+Te recomendamos echar un vistazo a [este **proyecto** de **Overleaf**](https://www.overleaf.com/read/jgvfsvdnfgcs), el cual alberga el **código LaTeX** para generar **imágenes** de muchas **moléculas orgánicas**, cortesía de {{% mention alba-lopez-valenzuela %}}.
 {{% /callout %}}
 
 {{% callout note %}}

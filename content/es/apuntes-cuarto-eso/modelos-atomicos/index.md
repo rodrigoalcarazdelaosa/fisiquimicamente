@@ -69,7 +69,7 @@ Siete años después de su famoso experimento, en **1904**, Thomson postula un m
 ## Descubrimiento del núcleo atómico
 En **1911**, **Geiger** y **Marsden**, dirigidos por Ernest **Rutherford**, llevan a cabo un **experimento histórico** en el que **descubren** la existencia del **núcleo** atómico:
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford.svg" title="**Experimento de Geiger-Marsden**. Las partículas alfa ($\alpha$), procedentes de radio (Ra) radiactivo y con carga positiva, se aceleran y se hacen incidir sobre una lámina de oro muy delgada. Tras atravesar la lámina, las partículas $\alpha$ chocan contra una pantalla fluorescente (ZnS), produciéndose un destello. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Geiger-Marsden_experiment.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/experimento-Rutherford.svg" title="**Experimento de Geiger-Marsden**. Las partículas alfa (&alpha;), procedentes de radio (Ra) radiactivo y con carga positiva, se aceleran y se hacen incidir sobre una lámina de oro muy delgada. Tras atravesar la lámina, las partículas &alpha; chocan contra una pantalla fluorescente (ZnS), produciéndose un destello. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Geiger-Marsden_experiment.svg." lightbox="false" width="100%" >}}
 
 ### Resultados del experimento
 - La **mayoría** de las **partículas atravesaban** la **lámina** de oro sin desviarse.

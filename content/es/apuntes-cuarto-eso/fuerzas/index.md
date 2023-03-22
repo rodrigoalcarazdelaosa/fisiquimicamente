@@ -26,6 +26,8 @@ links:
   url: fuerzas-poster.pdf
 
 slides: fuerzas-4ESO
+
+math: true
 ---
 
 {{% toc %}}

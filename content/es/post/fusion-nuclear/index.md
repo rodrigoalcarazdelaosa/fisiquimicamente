@@ -21,6 +21,8 @@ categories:
 image:
   placement: 3
   caption: "Recreación del reactor de fusión nuclear terminado. Rodeado de toda la maquinaria tenemos el *rosco* que en la imagen aparece abierto en una sección para poder mostrar lo que debería haber dentro.<br>Fuente: [https://www.iter.org/proj/inafewlines](https://www.iter.org/proj/inafewlines)."
+
+math: true
 ---
 
 {{% callout thread %}}

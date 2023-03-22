@@ -26,7 +26,7 @@ subtitle = ""
   icon_link = "tutorials/"
   icon_pack = "tgs"
   name = "[Tutorials](tutorials/)"
-  description = "[$\\LaTeX$](tutorials/latex) · [Presentació d'informació](tutorials/presentacio-informacio)"
+  description = "[LaTeX](tutorials/latex) · [Presentació d'informació](tutorials/presentacio-informacio)"
   
 [[feature]]
   icon = "enlaces-interes"

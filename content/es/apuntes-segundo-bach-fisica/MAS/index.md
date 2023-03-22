@@ -42,6 +42,7 @@ links:
 
 slides: MAS-2Bach-fisica  
 
+math: true
 ---
 
 {{% toc %}}

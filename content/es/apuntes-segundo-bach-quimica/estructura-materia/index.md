@@ -51,6 +51,8 @@ links:
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/estructura-materia/
 
 slides: estructura-materia-2Bach-quimica
+
+math: true
 ---
 
 {{% toc %}}

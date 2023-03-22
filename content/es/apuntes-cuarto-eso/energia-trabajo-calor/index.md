@@ -33,6 +33,8 @@ links:
   url: fluidos-energia-calor-frikiexamenes.pdf  
   
 slides: energia-trabajo-calor-4ESO
+
+math: true
 ---
 
 {{% toc %}}

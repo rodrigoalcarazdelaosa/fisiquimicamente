@@ -36,6 +36,8 @@ links:
   url: estructura-materia-exercicis.pdf
 
 slides: estructura-materia-2Batx-quimica
+
+math: true
 ---
 
 {{% toc %}}

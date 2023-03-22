@@ -32,6 +32,8 @@ links:
   url: energia-poster.pdf
  
 slides: energia-2ESO-3ESO
+
+math: true
 ---
 
 {{% toc %}}

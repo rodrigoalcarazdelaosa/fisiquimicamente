@@ -29,6 +29,7 @@ links:
 
 slides: movimiento-circular-1Bach  
 
+math: true
 ---
 
 {{% toc %}}

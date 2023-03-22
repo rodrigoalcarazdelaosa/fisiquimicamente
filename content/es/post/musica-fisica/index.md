@@ -20,6 +20,8 @@ categories:
 image:
   placement: 3
   caption: "https://partytrickphysicist.com/tag/music-physics/"
+
+math: true
 ---
 
 {{% callout thread %}}

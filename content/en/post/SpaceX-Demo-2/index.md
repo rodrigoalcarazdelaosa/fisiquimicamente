@@ -18,6 +18,8 @@ categories:
 image:
   placement: 3
   caption: "Crédit: **NASA/Bill Ingalls**"
+
+math: true
 ---
 
 After having to be postponed due to bad weather[^1], last Saturday May 30, at 21:22 peninsular time, the [Falcon 9](https://www.spacex.com/vehicles/falcon-9/) rocket from [SpaceX](https://www.spacex.com) launched the second demonstration mission (Demo-2) of [Crew Dragon](https://www.spacex.com/vehicles/dragon/) from the [Launch Complex 39A (LC-39A)](https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39A) at the [John F. Kennedy Space Center](https://en.wikipedia.org/wiki/Kennedy_Space_Center) of [NASA](https://www.nasa.gov) in Florida.

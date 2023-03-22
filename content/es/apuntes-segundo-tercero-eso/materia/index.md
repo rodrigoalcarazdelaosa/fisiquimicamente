@@ -28,6 +28,8 @@ links:
   url: materia-poster.pdf
   
 slides: materia-2ESO-3ESO
+
+math: true
 ---
 
 {{% callout note %}}

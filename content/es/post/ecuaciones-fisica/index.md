@@ -20,6 +20,8 @@ categories:
 image:
   placement: 3
   caption: "https://insidetheperimeter.ca/physics-frenzy-battle-of-the-equations/"
+
+math: true
 ---
 
 {{% callout note %}}

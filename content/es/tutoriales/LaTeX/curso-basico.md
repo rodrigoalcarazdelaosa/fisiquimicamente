@@ -11,49 +11,49 @@ weight: 1
 ---
 
 {{% callout note %}}
-Este tutorial es una traducción y adaptación de la **excelente guía** de <img draggable="false" class="icon" style="margin-bottom: 0px;" alt="overleaf" src="/icon/overleaf.svg"> para [_aprender $\LaTeX$ en 30 minutos_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+Este tutorial es una traducción y adaptación de la **excelente guía** de <img draggable="false" class="icon" style="margin-bottom: 0px;" alt="overleaf" src="/icon/overleaf.svg"> para [_aprender LaTeX en 30 minutos_](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 {{% /callout %}}
 
 {{< toc hide_on="xl" >}}
 
-## ¿Qué es $\LaTeX$?
+## ¿Qué es LaTeX?
 
-$\LaTeX$ (pronunciado LAH-tek) es una herramienta utilizada para crear documentos de aspecto profesional, ampliamente utilizada en la composición de textos científicos. A diferencia de procesadores de texto como Microsoft Word o LibreOffice, tipo `WYSIWYG` (_What You See Is What You Get_), $\LaTeX$ se basa en la idea `WYSIWYM` (_What You See Is What You Mean_). Es decir, cuando escribimos $\LaTeX$ nos centramos en el contenido y su estructura, y es el sistema quien se encarga de formatearlo.
+LaTeX (pronunciado LAH-tek) es una herramienta utilizada para crear documentos de aspecto profesional, ampliamente utilizada en la composición de textos científicos. A diferencia de procesadores de texto como Microsoft Word o LibreOffice, tipo `WYSIWYG` (_What You See Is What You Get_), LaTeX se basa en la idea `WYSIWYM` (_What You See Is What You Mean_). Es decir, cuando escribimos LaTeX nos centramos en el contenido y su estructura, y es el sistema quien se encarga de formatearlo.
 
-## ¿Por qué aprender $\LaTeX$?
-$\LaTeX$ se utiliza en todo el mundo para crear textos científicos, libros así como muchos otros tipos de publicaciones[^1]. Además de poder crear documentos _bellos_, $\LaTeX$ permite abordar muy fácilmente las partes más complicadas de la composición tipográfica, como la introducción de matemáticas, la creación de índices, la referenciación y la creación de bibliografías, y tener un diseño coherente en todas las secciones.
+## ¿Por qué aprender LaTeX?
+LaTeX se utiliza en todo el mundo para crear textos científicos, libros así como muchos otros tipos de publicaciones[^1]. Además de poder crear documentos _bellos_, LaTeX permite abordar muy fácilmente las partes más complicadas de la composición tipográfica, como la introducción de matemáticas, la creación de índices, la referenciación y la creación de bibliografías, y tener un diseño coherente en todas las secciones.
 
-El hecho de que $\LaTeX$ sea **software libre** hace que tenga una enorme comunidad detrás, creando _paquetes_ que añaden aún más funcionalidad o facilitan tareas como la creación de diagramas, tablas, etc.
+El hecho de que LaTeX sea **software libre** hace que tenga una enorme comunidad detrás, creando _paquetes_ que añaden aún más funcionalidad o facilitan tareas como la creación de diagramas, tablas, etc.
 
-Una de las principales razones por las que la gente usa $\LaTeX$ es que separa el contenido de un documento de su estilo. Esto significa que, una vez hemos escrito el contenido de nuestro documento, cambiar su apariencia es muy fácil. Análogamente, podemos crear un estilo y utilizarlo para estandarizar la apariencia de muchos documentos. Así es como muchas revistas crean sus plantillas de publicación. Por supuesto en Internet podemos encontrar [multitud de plantillas distintas](https://www.latextemplates.com).
+Una de las principales razones por las que la gente usa LaTeX es que separa el contenido de un documento de su estilo. Esto significa que, una vez hemos escrito el contenido de nuestro documento, cambiar su apariencia es muy fácil. Análogamente, podemos crear un estilo y utilizarlo para estandarizar la apariencia de muchos documentos. Así es como muchas revistas crean sus plantillas de publicación. Por supuesto en Internet podemos encontrar [multitud de plantillas distintas](https://www.latextemplates.com).
 
-[^1]: En [esta página](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends) tienes una muestra del tipo de documentos que se pueden crear con $\LaTeX$.
+[^1]: En [esta página](https://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends) tienes una muestra del tipo de documentos que se pueden crear con LaTeX.
 
-## ¿Cómo usar $\LaTeX$?
+## ¿Cómo usar LaTeX?
 
 ### <img draggable="false" class="icon" alt="overleaf" src="/icon/overleaf.svg">
 
-Sin duda la **opción recomendada** para poder empezar a escribir $\LaTeX$ sin necesidad de instalar nada localmente en nuestro ordenador. [<img draggable="false" class="icon" alt="overleaf" src="/icon/overleaf.svg">](https://www.overleaf.com/) es un editor de $\LaTeX$ online que nos permite además **colaborar** fácilmente con otras personas.
+Sin duda la **opción recomendada** para poder empezar a escribir LaTeX sin necesidad de instalar nada localmente en nuestro ordenador. [<img draggable="false" class="icon" alt="overleaf" src="/icon/overleaf.svg">](https://www.overleaf.com/) es un editor de LaTeX online que nos permite además **colaborar** fácilmente con otras personas.
 
 ### <img draggable="false" class="icon" alt="windows" src="/icon/windows.svg">
 
 Tenemos principalmente dos opciones:
 
-- [$\TeX$ Live](https://www.tug.org/texlive/): viene del mundo Unix y por defecto instala _todo_.
+- [TeX Live](https://www.tug.org/texlive/): viene del mundo Unix y por defecto instala _todo_.
 
-- [MiK$\TeX$](https://miktex.org): herramienta más <img draggable="false" class="icon" alt="windows" src="/icon/windows.svg">. Por defecto instala unos pocos paquetes y el resto se van instalando según sea necesario.
+- [MiKTeX](https://miktex.org): herramienta más <img draggable="false" class="icon" alt="windows" src="/icon/windows.svg">. Por defecto instala unos pocos paquetes y el resto se van instalando según sea necesario.
 
 ### <img draggable="false" class="icon" alt="apple" src="/icon/apple.svg"> <img draggable="false" class="icon" alt="macOS" src="/icon/macOS.svg">
 
-[Mac$\TeX$](https://tug.org/mactex/) es la versión de [$\TeX$ Live](https://www.tug.org/texlive/) para <img draggable="false" class="icon" alt="apple" src="/icon/apple.svg"> <img draggable="false" class="icon" alt="macOS" src="/icon/macOS.svg">. 
+[MacTeX](https://tug.org/mactex/) es la versión de [TeX Live](https://www.tug.org/texlive/) para <img draggable="false" class="icon" alt="apple" src="/icon/apple.svg"> <img draggable="false" class="icon" alt="macOS" src="/icon/macOS.svg">. 
 
 ### <img draggable="false" class="icon" alt="Tux" src="/icon/Tux.svg"> <img draggable="false" class="icon" alt="unix" src="/icon/unix.svg">
 
-[$\TeX$ Live](https://www.tug.org/texlive/).
+[TeX Live](https://www.tug.org/texlive/).
 
-## Tu primer documento de $\LaTeX$
+## Tu primer documento de LaTeX
 
-Todo documento de $\LaTeX$ comienza con el comando `\documentclass`, que nos permite escoger la _clase_ de documento que vamos a generar. La clase controla la apariencia general de nuestro documento. Las **3 clases básicas** son:
+Todo documento de LaTeX comienza con el comando `\documentclass`, que nos permite escoger la _clase_ de documento que vamos a generar. La clase controla la apariencia general de nuestro documento. Las **3 clases básicas** son:
 
 `article`
 : Para **documentos sencillos**, en los que necesitemos **secciones** (`\section`), **subsecciones** (`\subsection`), etc.
@@ -75,7 +75,7 @@ El **ejemplo más simple** que nos podemos imaginar sería algo así:
 Primer documento. Este es un ejemplo simple, sin incluir ningún parámetro (opción) o paquete extra.
 \end{document}
 ```
-lo que $\LaTeX$ transforma en:
+lo que LaTeX transforma en:
 
 {{< figure library="true" src="LaTeX/curso-basico/primer-documento.svg" lightbox="false" width="100%" >}}
 
@@ -99,7 +99,7 @@ donde:
 : Esta es la codificación del documento. La opción `[utf8]` nos permite escribir **caracteres especiales**, como tildes, eñes, etc., sin hacer nada especial.
 
 `\usepackage[spanish]{babel}`
-: Con la opción `[spanish]` le decimos a $\LaTeX$ que el texto de este documento va a estar escrito en **español**, y de esta forma cargará reglas específicas para este idioma, especialmente a la hora de romper palabras[^2].
+: Con la opción `[spanish]` le decimos a LaTeX que el texto de este documento va a estar escrito en **español**, y de esta forma cargará reglas específicas para este idioma, especialmente a la hora de romper palabras[^2].
 
 [^2]: Junto con la opción `spanish` querremos incluir en muchos casos las opciones `es-tabla` (traduce *table* como *tabla* en lugar de como *cuadro*) y `es-nolists` (no cambia las listas `enumerate` e `itemize`).
 
@@ -144,7 +144,7 @@ Para que esa información aparezca en el documento, tenemos que incluir el coman
 {{< figure library="true" src="LaTeX/curso-basico/primer-documento-maketitle.svg" lightbox="false" width="100%" >}}
 
 ## Añadiendo comentarios
-Como siempre que se escribe código, es muy útil y recomendable incluir **comentarios**. Los comentarios son trozos de texto que se pueden incluir en el propio código pero que no se imprimen ni afectan al documento de ninguna forma. Son útiles para organizar el trabajo, tomar notas, explicar el código o depurarlo comentando ciertas líneas/secciones. Para hacer un comentario en $\LaTeX$, simplemente escribe el símbolo `%` al principio de la línea:
+Como siempre que se escribe código, es muy útil y recomendable incluir **comentarios**. Los comentarios son trozos de texto que se pueden incluir en el propio código pero que no se imprimen ni afectan al documento de ninguna forma. Son útiles para organizar el trabajo, tomar notas, explicar el código o depurarlo comentando ciertas líneas/secciones. Para hacer un comentario en LaTeX, simplemente escribe el símbolo `%` al principio de la línea:
 
 ```latex
 \begin{document}
@@ -163,9 +163,9 @@ Como siempre que se escribe código, es muy útil y recomendable incluir **comen
 ## Negrita, cursiva y subrayado
 Echemos un vistazo a algunos comandos simples para dar formato a nuestro texto:
 
-- **Negrita**: el texto en negrita en $\LaTeX$ se escribe con el comando `\textbf{...}`.
-- _Cursiva_: el texto en cursiva en $\LaTeX$ se escribe con el comando `\textit{...}`.
-- <ins>Subrayado</ins>: el texto subrayado en $\LaTeX$ se escribe con el comando `\underline{...}`.
+- **Negrita**: el texto en negrita en LaTeX se escribe con el comando `\textbf{...}`.
+- _Cursiva_: el texto en cursiva en LaTeX se escribe con el comando `\textit{...}`.
+- <ins>Subrayado</ins>: el texto subrayado en LaTeX se escribe con el comando `\underline{...}`.
 
 A continuación se muestra un ejemplo de cada uno de estos comandos en acción:
 
@@ -190,11 +190,11 @@ Algunos de los mayores \emph{descubrimientos} de la ciencia se hicieron por acci
 {{< figure library="true" src="LaTeX/curso-basico/negrita-cursiva-subrayado-emph.svg" lightbox="false" width="100%" >}}
 
 ## Añadiendo imágenes
-$\LaTeX$ no puede manejar imágenes por sí solo, por lo que necesitamos un _paquete_. Los paquetes se pueden utilizar para cambiar la apariencia por defecto de nuestro documento, o para añadir funcionalidades. En este caso, para añadir imágenes utilizamos el paquete [graphicx](https://ctan.org/pkg/graphicx), que nos proporciona, entre otros, el comando `\includegraphics{...}`[^5].
+LaTeX no puede manejar imágenes por sí solo, por lo que necesitamos un _paquete_. Los paquetes se pueden utilizar para cambiar la apariencia por defecto de nuestro documento, o para añadir funcionalidades. En este caso, para añadir imágenes utilizamos el paquete [graphicx](https://ctan.org/pkg/graphicx), que nos proporciona, entre otros, el comando `\includegraphics{...}`[^5].
 
 [^5]: Este comando también admite opciones (entre corchetes) para especificar, entre otras cosas, el ancho (`width=`) o el alto (`height=`) de la imagen.
 
-Para utilizar este paquete, incluimos la línea `\usepackage{graphicx}` en nuestro preámbulo. Además, cuando se colocan imágenes en un documento $\LaTeX$, siempre debemos ponerlas dentro de un entorno `figure`[^6], para que $\LaTeX$ posicione la imagen de manera que encaje con el resto del texto.
+Para utilizar este paquete, incluimos la línea `\usepackage{graphicx}` en nuestro preámbulo. Además, cuando se colocan imágenes en un documento LaTeX, siempre debemos ponerlas dentro de un entorno `figure`[^6], para que LaTeX posicione la imagen de manera que encaje con el resto del texto.
 
 [^6]: Este entorno admite un parámetro (entre corchetes) para posicionar la imagen, que admite los siguientes valores:
 	
@@ -229,8 +229,8 @@ La figura \ref{fig:leon_CTAN} muestra el león que dibujó Duane Bibby para las 
 
 {{< figure library="true" src="LaTeX/curso-basico/ejemplo-imagen.svg" lightbox="false" width="100%" >}}
 
-## Creando listas en $\LaTeX$
-Es muy fácil crear listas con $\LaTeX$. Tenemos tres *entornos* principales para ello. Los entornos son secciones de nuestro documento que queremos presentar de una manera diferente al resto del documento. Siempre empiezan con el comando `\begin{...}` y terminan con un `\end{...}`[^7].
+## Creando listas en LaTeX
+Es muy fácil crear listas con LaTeX. Tenemos tres *entornos* principales para ello. Los entornos son secciones de nuestro documento que queremos presentar de una manera diferente al resto del documento. Siempre empiezan con el comando `\begin{...}` y terminan con un `\end{...}`[^7].
 
 [^7]: Para [añadir imágenes](#añadiendo-imágenes) hemos utilizado el entorno `figure`.
 
@@ -275,8 +275,8 @@ Las listas de descripción o definición utilizan el entorno `description`. Su s
 
 {{< figure library="true" src="LaTeX/curso-basico/description.svg" lightbox="false" width="100%" >}}
 
-## Añadiendo matemáticas a $\LaTeX$
-Una de las principales ventajas de $\LaTeX$ es la facilidad con la que podemos incluir expresiones matemáticas en nuestros documentos. Existen dos *modos* principales: ***inline*** y ___display___.
+## Añadiendo matemáticas a LaTeX
+Una de las principales ventajas de LaTeX es la facilidad con la que podemos incluir expresiones matemáticas en nuestros documentos. Existen dos *modos* principales: ***inline*** y ___display___.
 
 ### Modo _inline_
 Se utiliza para escribir expresiones que son parte del texto, encerrando la expresión entre `$...$`, como en el siguiente ejemplo:
@@ -307,7 +307,7 @@ E=m
 ### Paquete [amsmath](https://www.ctan.org/pkg/amsmath)[^8]
 [^8]: Desarrollado por la [Sociedad Americana de Matemáticas](https://www.ams.org/home/page), o AMS por sus siglas en inglés.
 
-A la hora de escribir matemáticas en $\LaTeX$, incluir el paquete [amsmath](https://www.ctan.org/pkg/amsmath) es prácticamente **obligatorio**, por la cantidad de comandos que añade.
+A la hora de escribir matemáticas en LaTeX, incluir el paquete [amsmath](https://www.ctan.org/pkg/amsmath) es prácticamente **obligatorio**, por la cantidad de comandos que añade.
 
 A continuación se muestra un ejemplo con algunos de los comandos básicos:
 
@@ -330,11 +330,11 @@ Los operadores matemáticos se prefijan con una barra invertida, como $\sin(\bet
 {{< figure library="true" src="LaTeX/curso-basico/amsmath.svg" lightbox="false" width="100%" >}}
 
 ## Formato básico
-Veamos cómo añadir resúmenes (*abstracts* en inglés) y formatear un documento $\LaTeX$ en capítulos, secciones y párrafos.
+Veamos cómo añadir resúmenes (*abstracts* en inglés) y formatear un documento LaTeX en capítulos, secciones y párrafos.
 
 ### Resúmenes
 
-Especialmente en documentos científicos, es una práctica común incluir una breve reseña del tema principal del documento. En $\LaTeX$ tenemos el entorno `abstract` para esto, el cual pondrá el texto en un formato especial al principio del documento.
+Especialmente en documentos científicos, es una práctica común incluir una breve reseña del tema principal del documento. En LaTeX tenemos el entorno `abstract` para esto, el cual pondrá el texto en un formato especial al principio del documento.
 
 ```latex
 \documentclass[12pt,a4paper]{article}
@@ -355,7 +355,7 @@ documento. Una breve introducción sobre el tema principal.
 
 ### Párrafos y saltos de línea
 
-En general le indicamos a $\LaTeX$ que empezamos un nuevo párrafo dejando una línea en blanco[^9]. Además podemos añadir un párrafo con título con el comando `\paragraph{...}`, como en el siguiente ejemplo:
+En general le indicamos a LaTeX que empezamos un nuevo párrafo dejando una línea en blanco[^9]. Además podemos añadir un párrafo con título con el comando `\paragraph{...}`, como en el siguiente ejemplo:
 
 [^9]: Podemos escribir el comando `\par` al final de un párrafo para conseguir el mismo efecto.
 
@@ -429,7 +429,7 @@ El comando `\section{...}` marca el comienzo de una nueva sección, cuyo título
 `\chapter` solo está disponible en las clases `report` y `book`.
 
 ## Creando tablas
-A continuación puedes ver el ejemplo más sencillo de una tabla en $\LaTeX$:
+A continuación puedes ver el ejemplo más sencillo de una tabla en LaTeX:
 
 ```latex
 \begin{tabular}{ccc}
@@ -441,7 +441,7 @@ A continuación puedes ver el ejemplo más sencillo de una tabla en $\LaTeX$:
 
 {{< figure library="true" src="LaTeX/curso-basico/tabular.svg" lightbox="false" width="100%" >}}
 
-El entorno `tabular` es el método por defecto de $\LaTeX$ para crear tablas. Entre llaves le indicamos cuántas columnas tendrá la tabla y cómo estará justificado el texto. En este caso `{ccc}` indica que habrá tres columnas y que el texto estará centrado (`c`). También se puede utilizar `r` para alinear el texto a la derecha o `l` para alinearlo a la izquierda. El símbolo de alineación `&` se utiliza para especificar los saltos entre columnas[^10] y el símbolo `\\` para especificar los saltos entre filas.
+El entorno `tabular` es el método por defecto de LaTeX para crear tablas. Entre llaves le indicamos cuántas columnas tendrá la tabla y cómo estará justificado el texto. En este caso `{ccc}` indica que habrá tres columnas y que el texto estará centrado (`c`). También se puede utilizar `r` para alinear el texto a la derecha o `l` para alinearlo a la izquierda. El símbolo de alineación `&` se utiliza para especificar los saltos entre columnas[^10] y el símbolo `\\` para especificar los saltos entre filas.
 
 [^10]: Siempre debe haber un símbolo de alineación menos en cada línea que el número de columnas.
 
@@ -486,7 +486,7 @@ La tabla \ref{tab:ejemplo_booktabs} muestra un ejemplo de uso de los comandos de
 {{< figure library="true" src="LaTeX/curso-basico/ejemplo-tabla.svg" lightbox="false" width="100%" >}}
 
 ## Añadiendo un índice
-Crear el índice de un documento es tan fácil como escribir el comando `\tableofcontents` donde queramos incluirlo, y $\LaTeX$ hará todo el trabajo por nosotros, como en el siguiente ejemplo:
+Crear el índice de un documento es tan fácil como escribir el comando `\tableofcontents` donde queramos incluirlo, y LaTeX hará todo el trabajo por nosotros, como en el siguiente ejemplo:
 
 ```latex
 \documentclass[12pt,a4paper]{article}

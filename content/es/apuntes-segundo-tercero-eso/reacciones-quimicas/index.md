@@ -26,7 +26,9 @@ links:
   name: Póster
   url: reacciones-quimicas-poster.pdf
 
-slides: reacciones-quimicas-2ESO-3ESO  
+slides: reacciones-quimicas-2ESO-3ESO
+
+math: true
 ---
 
 {{% toc %}}

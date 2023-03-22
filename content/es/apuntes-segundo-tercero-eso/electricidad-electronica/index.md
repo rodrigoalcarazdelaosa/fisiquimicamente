@@ -31,7 +31,9 @@ links:
   name: Póster
   url: electricidad-electronica-poster.pdf  
   
-slides: electricidad-electronica-2ESO-3ESO  
+slides: electricidad-electronica-2ESO-3ESO
+
+math: true
 ---
 
 {{% toc %}}

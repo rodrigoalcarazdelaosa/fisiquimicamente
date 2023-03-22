@@ -46,7 +46,9 @@ links:
   name: Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/equilibrio-quimico/  
 
-slides: equilibrio-quimico-2Bach-quimica  
+slides: equilibrio-quimico-2Bach-quimica
+
+math: true
 ---
 
 {{% toc %}}

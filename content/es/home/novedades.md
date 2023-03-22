@@ -91,7 +91,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Curso básico de $\LaTeX$
+      text: Curso básico de LaTeX
       url: 'tutoriales/latex/curso-basico/'
   - title: 🗞️ Novedades
     content: '✍️ Última entrada del blog'

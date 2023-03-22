@@ -19,6 +19,8 @@ categories:
 image:
   placement: 3
   caption: "Imagen de la traza dejada por un [**positrón**](https://es.wikipedia.org/wiki/Positrón) en una [**cámara de niebla**](https://es.wikipedia.org/wiki/Cámara_de_niebla).  Sobre un círculo gris aparece una raya negra que la atraviesa de lado a lado con trazas describiendo un arco a lo largo de ella. Fuente: https://commons.wikimedia.org/wiki/File:PositronDiscovery.png"
+
+math: true
 ---
 
 {{% callout thread %}}

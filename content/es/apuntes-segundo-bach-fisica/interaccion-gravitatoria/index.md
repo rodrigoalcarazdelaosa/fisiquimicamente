@@ -53,8 +53,6 @@ links:
 
 <!-- Práctica virtual medida de g: https://twitter.com/fqsaja1/status/1392867297312788481?s=21 -->
 
-Apuntes sobre interacción gravitatoria, en formato texto y póster (tipo _chuleta_).
-
 {{% callout soon %}}
 Próximamente...
 {{% /callout %}}

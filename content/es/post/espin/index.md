@@ -19,6 +19,8 @@ categories:
 image:
   placement: 3
   caption: ""
+
+math: true  
 ---
 
 {{% callout thread %}}

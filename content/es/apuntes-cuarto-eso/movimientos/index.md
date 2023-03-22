@@ -44,6 +44,8 @@ links:
 #   Otherwise, set `slides = ""`.
 
 slides: movimientos-4ESO
+
+math: true
 ---
 
 {{% toc %}}

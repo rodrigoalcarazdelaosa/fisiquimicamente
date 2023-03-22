@@ -47,6 +47,8 @@ links:
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/cinetica-quimica/  
 
 slides: cinetica-quimica-2Bach-quimica
+
+math: true
 ---
 
 {{% toc %}}

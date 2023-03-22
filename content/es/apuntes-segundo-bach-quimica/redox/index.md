@@ -48,6 +48,8 @@ links:
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/redox/  
 
 slides: redox-2Bach-quimica
+
+math: true
 ---
 
 {{% toc %}}

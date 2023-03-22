@@ -35,6 +35,8 @@ links:
   url: sistema-periodic-exercicis.pdf
 
 slides: sistema-periodic-2Batx-quimica
+
+math: true
 ---
 
 {{% toc %}}

@@ -32,6 +32,8 @@ links:
   icon: file-download
   name: Resumen conciso SI
   url: https://www.cem.es/sites/default/files/documentos/2021-07/Resumen%20conciso%20del%20SI%20%289ª%20ed_2019%29_0.pdf
+
+math: true
 ---
 
 {{% callout note %}}

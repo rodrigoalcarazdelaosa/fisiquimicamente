@@ -34,6 +34,8 @@ links:
   url: fluidos-energia-calor-frikiexamenes.pdf
   
 slides: fluidos-4ESO
+
+math: true
 ---
 
 {{% toc %}}

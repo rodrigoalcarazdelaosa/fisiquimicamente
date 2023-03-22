@@ -17,6 +17,8 @@ categories:
 image:
   placement: 3
   caption: "https://commons.wikimedia.org/wiki/File:Greenland_42.74746W_71.57394N.jpg"
+
+math: true
 ---
 
 {{% callout thread %}}

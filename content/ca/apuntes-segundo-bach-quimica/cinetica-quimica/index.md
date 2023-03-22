@@ -36,6 +36,8 @@ links:
   url: cinetica-quimica-exercicis.pdf
 
 slides: cinetica-quimica-2Batx-quimica
+
+math: true
 ---
 
 {{% toc %}}

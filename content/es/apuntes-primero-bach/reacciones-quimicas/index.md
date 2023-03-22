@@ -43,6 +43,8 @@ links:
   url: disoluciones-reacciones-quimicas-frikiexamenes.pdf  
   
 slides: reacciones-quimicas-1Bach
+
+math: true
 ---
 
 {{% toc %}}

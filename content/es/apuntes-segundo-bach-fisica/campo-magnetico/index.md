@@ -45,8 +45,6 @@ links:
 
 ---
 
-Apuntes sobre campo magnético, en formato texto y póster (tipo _chuleta_).
-
 {{% callout soon %}}
 Próximamente...
 {{% /callout %}}

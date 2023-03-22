@@ -31,6 +31,8 @@ links:
   url: movimiento-poster.pdf
   
 slides: movimiento-2ESO
+
+math: true
 ---
 
 {{% toc %}}

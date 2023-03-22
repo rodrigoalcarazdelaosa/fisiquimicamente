@@ -27,6 +27,8 @@ links:
   url: elementos-compuestos-poster.pdf
   
 slides: elementos-compuestos-2ESO-3ESO
+
+math: true
 ---
 
 {{% toc %}}

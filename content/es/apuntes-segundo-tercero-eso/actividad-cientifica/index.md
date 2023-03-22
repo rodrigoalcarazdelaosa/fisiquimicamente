@@ -65,6 +65,8 @@ gallery_item:
   caption: <span style="font-variant:small-caps;">peligro para el medio ambiente</span>            
 
 slides: "actividad-cientifica-2ESO-3ESO"
+
+math: true
 ---
 
 {{% toc %}}

@@ -39,6 +39,8 @@ links:
 #   Otherwise, set `slides = ""`.
 
 slides: reacciones-quimicas-4ESO
+
+math: true
 ---
 
 {{% toc %}}

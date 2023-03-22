@@ -15,6 +15,8 @@ categories:
 image:
   placement: 3  
   caption: Photo by [**Paweł Czerwiński**](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com)
+
+math: true
 ---
 
 {{% callout note %}}

@@ -46,6 +46,8 @@ links:
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/sistema-periodico/
 
 slides: sistema-periodico-2Bach-quimica
+
+math: true
 ---
 
 {{% toc %}}

@@ -18,6 +18,8 @@ categories:
 image:
   placement: 3
   caption: "Imagen de [**Sergio Hernández**](https://pixabay.com/es/users/sergioht87-8948976/) en [Pixabay](https://pixabay.com/es/)"
+
+math: true
 ---
 
 {{% callout thread %}}

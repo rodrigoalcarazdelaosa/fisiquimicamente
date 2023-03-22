@@ -68,7 +68,7 @@ features:
     theme_light: nord
     theme_dark: nord
   math:
-    enable: true
+    enable: false
   privacy_pack:
     enable: true
   repository:

@@ -26,10 +26,12 @@ image:
 #  icon: file-download
 #  name: New SI Poster
 #  url: https://www.cem.es/sites/default/files/files/Poster%20Nuevo-SI.pdf
+
+math: true
 ---
 
 {{% callout note %}}
-If you are not familiar with the **International System of Units (SI)** I recommend you to check out [this page](https://www.bipm.org/en/measurement-units/) of the [_Bureau International des Poids et Mesures_ (BIPM)](https://www.bipm.org/en/about-us/).
+If you are not familiar with the **International System of Units (SI)**, I recommend you to check out [this page](https://www.bipm.org/en/measurement-units/) of the [_Bureau International des Poids et Mesures_ (BIPM)](https://www.bipm.org/en/about-us/). You can also take a look at this fantastic collection of [**school posters**](https://www.npl.co.uk/school-posters) from the [**NPL**](https://www.npl.co.uk).
 {{% /callout %}}
 
 {{% callout note %}}

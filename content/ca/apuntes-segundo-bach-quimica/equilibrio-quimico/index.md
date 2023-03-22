@@ -31,6 +31,8 @@ links:
   url: equilibri-quimic-poster.pdf
 
 slides: equilibri-quimic-2Batx-quimica
+
+math: true
 ---
 
 {{% toc %}}

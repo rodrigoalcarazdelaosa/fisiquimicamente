@@ -37,6 +37,8 @@ links:
   url: tablas-magnitudes-unidades.pdf  
   
 slides: actividad-cientifica-4ESO
+
+math: true
 ---
 
 {{% toc %}}

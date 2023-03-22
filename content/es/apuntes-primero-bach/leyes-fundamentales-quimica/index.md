@@ -40,6 +40,8 @@ links:
   url: leyes-fundamentales-quimica-frikiexamenes.pdf  
 
 slides: leyes-fundamentales-quimica-1Bach
+
+math: true
 ---
 
 {{% toc %}}

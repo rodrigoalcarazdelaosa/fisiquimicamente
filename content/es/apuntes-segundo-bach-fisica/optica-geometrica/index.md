@@ -48,8 +48,6 @@ links:
 
 <!-- https://animagraffs.com/human-eye/ -->
 
-Apuntes sobre óptica geométrica, en formato texto y póster (tipo _chuleta_).
-
 {{% callout soon %}}
 Próximamente...
 {{% /callout %}}

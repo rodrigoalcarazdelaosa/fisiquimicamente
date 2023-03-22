@@ -30,6 +30,8 @@ links:
   url: acid-base-poster.pdf
 
 slides: acid-base-2Batx-quimica
+
+math: true
 ---
 
 {{% toc %}}

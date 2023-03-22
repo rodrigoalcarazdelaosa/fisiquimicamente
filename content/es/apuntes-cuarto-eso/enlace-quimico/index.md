@@ -32,7 +32,9 @@ links:
   name: Frikiexámenes
   url: enlace-quimico-frikiexamenes.pdf  
 
-slides: enlace-quimico-4ESO  
+slides: enlace-quimico-4ESO
+
+math: true
 ---
 
 {{% toc %}}

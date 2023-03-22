@@ -39,6 +39,8 @@ links:
   url: sistema-periodico-frikiexamenes.pdf  
 
 slides: sistema-periodico-4ESO
+
+math: true
 ---
 
 {{% toc %}}

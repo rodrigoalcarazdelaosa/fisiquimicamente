@@ -39,7 +39,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Learn $\LaTeX$ in 30 Minutes
+      text: Learn LaTeX in 30 Minutes
       url: 'tutorials/latex/learn-latex-30-minutes/'
   - title: 🗞️ News
     content: '✍️ Latest Blog Post'

@@ -31,7 +31,9 @@ links:
   name: Unidad didáctica CERN
   url: unidad-didactica-CERN.pdf
   
-slides: estructura-atomica-2ESO-3ESO  
+slides: estructura-atomica-2ESO-3ESO
+
+math: true
 ---
 
 {{% toc %}}

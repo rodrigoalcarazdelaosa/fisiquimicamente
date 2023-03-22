@@ -54,6 +54,8 @@ links:
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/enlace-quimico/  
   
 slides: enlace-quimico-2Bach-quimica
+
+math: true
 ---
 
 {{% toc %}}

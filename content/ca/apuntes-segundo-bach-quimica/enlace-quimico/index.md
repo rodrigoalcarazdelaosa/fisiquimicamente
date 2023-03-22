@@ -35,6 +35,8 @@ links:
   url: enllac-quimic-exercicis.pdf
   
 slides: enllac-quimic-2Batx-quimica
+
+math: true
 ---
 
 {{% toc %}}

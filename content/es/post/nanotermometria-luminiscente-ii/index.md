@@ -20,6 +20,8 @@ categories:
 image:
   placement: 3
   caption: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.201500753"
+
+math: true
 ---
 
 {{% callout thread %}}
