@@ -97,6 +97,10 @@ razón por la que **quemar combustibles fósiles** libera cantidades ingentes de
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" title="**Combustión** del **metano**. Adaptada de https://commons.wikimedia.org/wiki/File:Methane-combustion.svg." lightbox="false" width="100%" >}}
 
+Aprende más sobre el **efecto invernadero** con esta estupenda **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 #### Rédox
 
 Se trata de **reacciones** de **transferencia** de **electrones**, en las que una sustancia (el agente reductor) se oxida, liberando electrones que otra sustancia (el agente oxidante) capta, reduciéndose a su vez.

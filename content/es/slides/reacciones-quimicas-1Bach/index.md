@@ -42,7 +42,7 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 - [Según el sentido](#/1/5)
 - [Según la energía](#/1/7)
 - [Según la naturaleza de los reactivos/productos](#/1/9)
-- [Según la velocidad](#/1/23)
+- [Según la velocidad](#/1/24)
 
 (continúa hacia abajo)
 
@@ -91,9 +91,9 @@ Pueden desprender (**exotérmicas**) o absorber energía (**endotérmicas**).
 ### Según la naturaleza de los reactivos/productos
 
 - [Combustión](#/1/10)
-- [Rédox](#/1/13)
-- [Ácido-base](#/1/16)
-- [Precipitación](#/1/21)
+- [Rédox](#/1/14)
+- [Ácido-base](#/1/17)
+- [Precipitación](#/1/22)
 
 (continúa hacia abajo)
 
@@ -116,6 +116,12 @@ razón por la que **quemar combustibles fósiles** libera cantidades ingentes de
 ---
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" title="**Combustión** del **metano**. Adaptada de https://commons.wikimedia.org/wiki/File:Methane-combustion.svg." lightbox="false" width="100%" >}}
+
+---
+
+Aprende más sobre el **efecto invernadero** con esta estupenda **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/greenhouse-effect/latest/greenhouse-effect_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 ---
 
