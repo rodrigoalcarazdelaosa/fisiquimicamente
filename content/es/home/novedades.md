@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Aplicaciones de la física nuclear | Física 2.º Bach
-      url: '/recursos-fisica-quimica/actividades-juegos/2bach/fisica/aplicaciones-fisica-nuclear'
+      text: Mujeres en ciencia | 2.º ESO – 3.º ESO
+      url: '/recursos-fisica-quimica/actividades-juegos/2eso-3eso/mujeres-en-ciencia'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

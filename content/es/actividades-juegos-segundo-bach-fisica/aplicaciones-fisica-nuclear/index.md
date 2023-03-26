@@ -2,7 +2,7 @@
 title: Aplicaciones de la física nuclear
 url: "/recursos-fisica-quimica/actividades-juegos/2bach/fisica/aplicaciones-fisica-nuclear"
 subtitle: Situación de aprendizaje con casos prácticos
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Situación de aprendizaje con casos prácticos."
+summary: "Situación de aprendizaje con casos prácticos."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2bach-fisica"]
 tags:
 - actividades
