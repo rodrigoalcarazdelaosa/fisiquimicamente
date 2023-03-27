@@ -19,7 +19,6 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) per tipografies[^2].
 - [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) per icones.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions).
-- [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) per accelerar i monetitzar[^3] el web (cantonada inferior esquerra <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) per la [llicència](/llicencia).
 
 [^2]: Actualment la web utilitza les tipografies [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) i [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
