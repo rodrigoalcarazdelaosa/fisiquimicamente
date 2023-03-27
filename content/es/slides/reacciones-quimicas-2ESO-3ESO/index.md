@@ -252,6 +252,10 @@ y la **reacción** queda **ajustada**.
 
 <iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
+---
+
+> [El Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos comparte [este **guion**](https://docs.google.com/document/d/1K9RQooOrRDsAOyb4tpj8vatrLBP3fLLE/edit) para dirigir una **actividad** sobre **ajuste** de **reacciones químicas**.
+
 {{% /section %}}
 
 ---
