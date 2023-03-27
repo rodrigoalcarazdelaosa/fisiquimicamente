@@ -61,6 +61,6 @@ You can also <strong>share</strong> all the <strong>blog posts</strong> and [ðŸ“
 If you don't want to miss any **updates** you can **subscribe** to the [{{< icon name="telegram" pack="fab" >}} **Telegram channel**](https://t.me/fisiquimicamente) (in Spanish) or the [{{< icon name="rss" pack="fas" >}} **RSS** feed](/index.xml).
 
 ### Contacting us
-Also, you can write us either using the [**contact form**]({{< ref "/#contact" >}}), or by writing us directly an [**email**](mailto:contact@physichemically.com) or from [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/fqmente). You can also follow us on [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) or [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
+Also, you can write us either using the [**contact form**]({{< ref "/#contact" >}}) or from [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/fqmente). You can also follow us on [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) or [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
 
 We hope you enjoy this space and that it's useful to you. Feel free to join in whenever you like. We are in touch, my friend.

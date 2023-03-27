@@ -13,7 +13,7 @@ title: "📬 Contacto"
 subtitle:
 
 content:
-  email: "contacto@fisiquimicamente.com"
+  email:
   directions:
   office_hours:
   appointment_url:

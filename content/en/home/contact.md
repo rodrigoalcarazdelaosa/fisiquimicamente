@@ -13,7 +13,7 @@ title: "📬 Contact"
 subtitle:
 
 content:
-  email: "contact@physichemically.com"	  
+  email:
   contact_links:
     - icon: "twitter"
       icon_pack: "fab"
