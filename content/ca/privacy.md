@@ -14,12 +14,12 @@ breadcrumbs: [""]
 [^1]: S'enllacen també les seves respectives polítiques de privacitat.
 
 - [{{< icon name="github" pack="fab" >}}GitHub](https://docs.github.com/es/github/site-policy/github-privacy-statement) per l'allotjament del seu [codi font](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
-- [<img draggable="false" class="icon" alt="netlify" src="/icon/netlify.svg"> Netlify](https://www.netlify.com/privacy/) pel seu desplegament/servei i per al [formulari de contacte](/#contacte).
+- [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) pel seu desplegament/servei i per a les analítiques web.
+- [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy/) per al [formulari de contacte](/#contacte).
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) per tipografies[^2].
 - [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) per icones.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions).
 - [<img draggable="false" class="icon" alt="Arc1" src="/icon/Arc1.svg"> Arc](https://arc.io/about/) per accelerar i monetitzar[^3] el web (cantonada inferior esquerra <img draggable="false" class="icon" alt="Arc2" src="/icon/Arc2.svg">).
-- [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) per a les analítiques web.
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) per la [llicència](/llicencia).
 
 [^2]: Actualment la web utilitza les tipografies [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) i [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
