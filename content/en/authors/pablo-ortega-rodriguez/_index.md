@@ -74,7 +74,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- 🧩 Activities/games
 ---
 
 I am a strong advocate of games as a learning tool and it is the basis from which I put into practice different methodologies and teaching strategies, especially Game-Based Learning (GBL). I currently combine my teaching work with the design of educational board games, collaboration with different publishers and teacher training. And, of course, I share everything I prepare for my classes and try to learn from my colleagues through social networks. Oh!, and I also have a small [educational game design studio](https://www.aprendizajebasadoenjuegos.es/).

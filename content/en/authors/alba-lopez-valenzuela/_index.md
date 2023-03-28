@@ -64,7 +64,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- 📚 Notes
 ---
 
 I have a Degree in Chemistry and I am a self-employed Physics and Chemistry Teacher.

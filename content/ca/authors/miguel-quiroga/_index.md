@@ -75,7 +75,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicament
+- 🧩 Activitats/jocs
 ---
 
 Bàsicament sóc un nen gran a què li encanta experimentar, jugar i explotar coses, així que res millor que ser Professor de Física i Química per a això. Pas els dies ficat al laboratori provant coses noves amb les que sorprendre a classe i divertir-nos, o estripant algun aparell amb molts cables per jugar amb ell.

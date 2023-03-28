@@ -75,7 +75,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicamente
+- 🧩 Actividades/juegos
 ---
 
 Básicamente soy un niño grande al que le encanta experimentar, jugar y explotar cosas, así que nada mejor que ser Profesor de Física y Química para ello. Paso los días metido en el laboratorio probando cosas nuevas con las que sorprender en clase y divertirnos, o destripando algún aparato con muchos cables para jugar con él.

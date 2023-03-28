@@ -70,7 +70,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicament
+- ✍️ Blog
 ---
 
 Soc Mestre en Docència per a l'Educació Mitja Superior i imparteixo classes de Termodinàmica Clàssica (teoria i laboratori) a la [Facultat de Química de la UNAM](https://quimica.unam.mx/). També m'interessa la formació docent en l'àrea de les ciències.

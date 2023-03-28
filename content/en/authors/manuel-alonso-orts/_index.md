@@ -67,7 +67,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- ✍️ Blog
 ---
 
 Physicist, specialized in optical properties of semiconductor (nano)materials. After finishing my predoctoral stage in Madrid, I am currently working as a postdoctoral researcher at the [University of Bremen](https://www.uni-bremen.de/en/ifp/research-groups/solid-state-materials-research-group-eickhoff/team-research-group-eickhoff/dr-manuel-alonso-orts) (Germany). I am not only interested in research; I enjoy just as much or more learning, talking and communicating scientific topics that I find interesting.

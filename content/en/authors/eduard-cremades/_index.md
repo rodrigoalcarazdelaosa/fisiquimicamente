@@ -65,7 +65,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- 📚 Notes
 ---
 
 I have a PhD in Chemistry and I teach Science (mathematics, physics and chemistry) at [Escola Virolai](https://www.virolai.com/es/), Chemistry for over 25 year-olds at [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/es/index.html) and I am an Associate Professor at [Facultat de Química de la Universitat de Barcelona](https://www.ub.edu/portal/web/quimica). I am also Member of the Board of Directors of the [Societat Catalana de Química](https://blogs.iec.cat/scq/). In my spare time I look for relationships between chemistry and popular culture.

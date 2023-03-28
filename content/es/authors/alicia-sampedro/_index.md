@@ -63,7 +63,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicamente
+- 📚 Apuntes
 ---
 
 Soy Profesora de Física y Química bilingüe en el [IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) de Tavera pero también soy una apasionada del uso de las TIC y la robótica en el aula.

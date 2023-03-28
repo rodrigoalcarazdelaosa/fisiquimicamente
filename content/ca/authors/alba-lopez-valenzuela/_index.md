@@ -64,7 +64,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicament
+- 📚 Apunts
 ---
 
 Soc Graduada en Química i Professora de Física i Química per compte propi.

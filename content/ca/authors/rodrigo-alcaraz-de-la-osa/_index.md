@@ -104,7 +104,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicament
+- 🧑‍🔬 Fundadors
 ---
 
 Soc Doctor en Física per la [Universidad de Cantabria](https://web.unican.es) i Professor de Física i Química a [l'IES Peñacastillo](http://portaleducativo.educantabria.es/web/ies-penacastillo) de Cantàbria (Espanya). A més a més, sóc el creador de [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/), on pots trobar [⚛️ <span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), així com diversos [🤝 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}) i entrades en el [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).

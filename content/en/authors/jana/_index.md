@@ -42,7 +42,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- 🧑‍🔬 Founders
 ---
 
 I am a [mastiff](https://en.wikipedia.org/wiki/Mastiff) mongrel who loves to be petted, sleep, play, go for walks and chew. I was adopted from [ASPROAN](https://asproansantander.es) when I was 7 months old and since I arrived to my new home I haven't stopped spreading happiness 🥰.

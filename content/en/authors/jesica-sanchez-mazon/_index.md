@@ -74,7 +74,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- 🧑‍🔬 Founders
 ---
 
 I am a **Medical Physicist** at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Clinic](https://www.escuelaclinicamompia.es/). I am also a **PhD student in Medicine** at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).

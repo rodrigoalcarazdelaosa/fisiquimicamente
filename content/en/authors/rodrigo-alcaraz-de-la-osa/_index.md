@@ -104,7 +104,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- 🧑‍🔬 Founders
 ---
 
 I have a PhD in Physics by the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx) and I teach Physics and Chemistry at [IES Peñacastillo](http://portaleducativo.educantabria.es/web/ies-penacastillo) in Cantabria (Spain). I am also the creator of [<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/), where you can find [📚 <span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) as well as various [🤝 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}) and [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) posts.

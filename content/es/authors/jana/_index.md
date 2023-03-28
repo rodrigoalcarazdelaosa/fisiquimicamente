@@ -42,7 +42,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicamente
+- 🧑‍🔬 Fundadores
 ---
 
 Soy una mestiza de [mastín](https://es.wikipedia.org/wiki/Mast%C3%ADn) a la que le encanta que le acaricien, dormir, jugar, dar paseos y mordisquear. Me adoptaron en [ASPROAN](https://asproansantander.es) con 7 meses y desde que llegué a mi nuevo hogar no he dejado de repartir felicidad 🥰.

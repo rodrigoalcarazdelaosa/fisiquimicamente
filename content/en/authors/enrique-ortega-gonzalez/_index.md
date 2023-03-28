@@ -58,7 +58,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- 🎓 Admission Tests
 ---
 
 I have a Degree in Chemistry and I teach Physics and Chemistry at [IES José del Campo](http://www.josedelcampo.com) in Ampuero (Cantabria). Outside the academic sphere, I am secretary of the Cajiga de Laredo Hiking Club and member of the Board of Directors of the [Asociación de Amigos del Patrimonio de Laredo](https://amigospatrimoniolaredo.es).

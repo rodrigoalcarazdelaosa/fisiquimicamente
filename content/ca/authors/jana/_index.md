@@ -42,7 +42,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicament
+- 🧑‍🔬 Fundadors
 ---
 
 Soc una mestissa de [mastí](https://ca.wikipedia.org/wiki/Mast%C3%AD) a la qual li encanta que l'acariciïn, dormir, jugar, fer passejades i rosegar. Em van adoptar a [ASPROAN](https://asproansantander.es) amb 7 mesos i des que vaig arribar a la meva nova llar no he deixat de repartir felicitat 🥰.

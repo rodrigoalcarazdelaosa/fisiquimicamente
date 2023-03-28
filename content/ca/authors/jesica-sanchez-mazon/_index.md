@@ -74,7 +74,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicament
+- 🧑‍🔬 Fundadors
 ---
 
 Soc **Radiofísica Hospitalària** a a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i imparteixo **docència** en el Cicle Formatiu i Grau en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/). A més a més, sóc **estudiant de Doctorat en Medicina** a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).

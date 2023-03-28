@@ -66,7 +66,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicament
+- ✍️ Blog
 ---
 
 Físic per vocació i formació, programador per obligació i aspirant a divulgador a [*Bajo la sombra del teseracto*](https://twitter.com/BTeseracto).

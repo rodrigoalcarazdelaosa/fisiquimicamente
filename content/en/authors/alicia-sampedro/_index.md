@@ -63,7 +63,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- 📚 Notes
 ---
 
 I am a bilingual Physics and Chemistry Teacher at [IES Cardenal Pardo](http://iescardenalpardotavera.centros.educa.jcyl.es/sitio/index.cgi) in Tavera but I am also passionate about the use of ICT and robotics in the classroom.

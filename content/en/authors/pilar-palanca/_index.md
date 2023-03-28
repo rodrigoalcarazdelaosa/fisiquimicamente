@@ -69,7 +69,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhysiChemically
+- ✍️ Blog
 ---
 
 Eternal student: physics, languages, computer science and whatever comes. Aspiring science communicator at [*Bajo la sombra del teseracto*](https://twitter.com/BTeseracto).

@@ -66,7 +66,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- FisiQuímicament
+- 🧩 Activitats/jocs
 ---
 
 Tinc ànima d'adolescent i crec que per això m'encanta la meva feina com a professora de Física i Química a ESO i Batxillerat i gaudeixo tant amb els xavals a classe. I tinc clar que la narrativa i els jocs enganxen i motiven i que els docents podem aprofitar aquesta tirada a classe. Actualment pertanyo al claustre docent del [Postgrau Especialista en Gamificació i Aprenentatges Lúdics de la Fundació Maecenas](https://www.posgradosmaecenas.com/gamificacion).
