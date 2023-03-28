@@ -8,7 +8,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 breadcrumbs: [""]
 ---
 
-[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is published with [<img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.svg">](https://wowchemy.com/) for [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). Being a [static web page](https://en.wikipedia.org/wiki/Static_web_page), it does not collect or share any personal data with third parties. However, it uses external services to add various functionalities, which are detailed in the following list[^1]:
+[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is published with [<img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.svg">](https://wowchemy.com/) for [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). Being a [static website](https://en.wikipedia.org/wiki/Static_web_page), it does not collect or share any personal data with third parties. However, it uses external services to add various functionalities, which are detailed in the following list[^1]:
 
 [^1]: Their respective privacy policies are also linked.
 
