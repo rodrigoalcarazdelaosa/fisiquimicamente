@@ -25,14 +25,14 @@
     {{ end }}
     {{ $date }}    
   </span>
-  <span class="middot-divider"></span>
+  {{/*  <span class="middot-divider"></span>  */}}
   {{ end }}
 
-  {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}  
+  {{/*  {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}  
   <span class="article-date">
     {{- if $page.GitInfo -}}{{ i18n "last_edit" }}<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ $page.GitInfo.Hash }}" target="_blank" rel="noopener">{{ $page.GitInfo.AbbreviatedHash }}</a>{{- end -}}
   </span>
-  {{ end }}
+  {{ end }}  */}}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
@@ -50,6 +50,7 @@
   <span class="article-reading-time">
     ⏱️ {{ $page.ReadingTime }} {{ i18n "minute_read" }}
   </span>
+  <span class="middot-divider"></span>
   {{ end }}
 
   {{ $comments_provider := trim (site.Params.features.comment.provider | lower) " " }}
@@ -63,7 +64,6 @@
 
   {{ $taxonomy := "categories" }}
   {{ if $page.Param $taxonomy }}
-  <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-folder mr-1"></i>     -->
     📁&nbsp; {{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
