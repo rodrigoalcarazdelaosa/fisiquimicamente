@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "source get_last_commit_hash.sh && hugo --gc --minify -b $URL"
 
 [build.environment]
   NODE_VERSION = "18"
