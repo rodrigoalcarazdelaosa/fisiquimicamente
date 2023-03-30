@@ -163,7 +163,7 @@ $$
 - [Sólido](#/4/2)
 - [Líquido](#/4/3)
 - [Gaseoso](#/4/4)
-- [Cambios de estado](#/4/5)
+- [Cambios de estado](#/4/6)
 
 (continúa hacia abajo)
 
@@ -193,6 +193,10 @@ Los tres principales **estados de agregación** en los que podemos encontrar a l
 - Volumen y forma variables.
 - Se comprimen.
 - Fluyen fácilmente.
+
+---
+
+> ¿En qué **estado** de **agregación** está la **nieve**? Descúbrelo en [esta estupenda **entrada** del **blog**]({{< relref "/post/nieve" >}}).
 
 ---
 

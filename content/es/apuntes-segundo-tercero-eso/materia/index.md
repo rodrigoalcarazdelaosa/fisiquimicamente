@@ -196,6 +196,10 @@ Los tres principales **estados de agregación** en los que podemos encontrar a l
 - Se comprimen.
 - Fluyen fácilmente.
 
+{{% callout note %}}
+¿En qué **estado** de **agregación** está la **nieve**? Descúbrelo en [esta estupenda **entrada** del **blog**]({{< relref "/post/nieve" >}}).
+{{% /callout %}}
+
 ### Cambios de estado
 
 La materia puede **cambiar** de **estado** al **variar** la **presión** o **temperatura**, permaneciendo su masa constante mientras que su volumen varía.
