@@ -18,13 +18,13 @@ jobs:
         include:
           - projectName: 'fisiquimicamente'
             directory: 'public/es'
-            PDFEmbedKey: ${{ secrets.PDF_EMBED_API_KEY_ES }}
+            PDFEmbedKey: PDF_EMBED_API_KEY_ES
           - projectName: 'physichemically'
             directory: 'public/en'
-            PDFEmbedKey: ${{ secrets.PDF_EMBED_API_KEY_EN }}
+            PDFEmbedKey: PDF_EMBED_API_KEY_EN
           - projectName: 'fisiquimicament'
             directory: 'public/ca'
-            PDFEmbedKey: ${{ secrets.PDF_EMBED_API_KEY_CA }}
+            PDFEmbedKey: PDF_EMBED_API_KEY_CA
 
     steps:
       - name: Checkout
@@ -51,7 +51,7 @@ jobs:
       - name: Build site with Hugo
         run: source get_last_commit_hash.sh && hugo --gc --minify
         env:                   
-          HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ matrix.PDFEmbedKey }}
+          HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets[matrix.PDFEmbedKey] }}
           
       - name: Publish to Cloudflare Pages
         uses: cloudflare/pages-action@v1
