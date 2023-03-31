@@ -255,6 +255,12 @@ El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja
 
 {{< vimeo 110619312 >}}
 
+Aprende con este 🧵 hilo de Twitter cómo los [**sifones**](https://es.wikipedia.org/wiki/Sifón) hacen uso de la presión atmosférica para permitirnos rebasar un obstáculo que supera el nivel del fluido, ayudándonos a extraer un líquido de un recipiente no manipulable:
+ 
+<div align="center">
+{{< tweet user="fqsaja1" id="1641449863400550408" >}}
+</div>
+
 ### Hemisferios de Magdeburgo
 En 1654, el científico alemán y burgomaestre de Magdeburgo **Otto von Guericke**, diseñó un par de grandes hemisferios de cobre, que se ajustaban con un anillo de acoplamiento formando una esfera. Tras sellar los bordes con grasa y extraer el aire con una bomba de vacío que él mismo había inventado, sendos tiros de 8 caballos intentaron separar ambos hemisferios, sin éxito, demostrando así el poder de la presión atmosférica.
 
