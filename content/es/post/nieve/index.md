@@ -3,7 +3,7 @@ title: Nieve
 subtitle: ¿Cómo se forma? ¿Es verdad que no hay dos copos iguales?
 summary: "¿Cómo se forma? ¿Es verdad que no hay dos copos iguales?"
 breadcrumbs: ["blog"]
-date: "2023-03-30T00:00:00+02:00"
+date: "2023-03-31T00:00:00+02:00"
 authors:
 - manuel-alonso-orts
 tags:

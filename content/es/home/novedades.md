@@ -105,5 +105,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "Nieve"
-      url: 'blog/2023/03/30/nieve/'
+      url: 'blog/2023/03/31/nieve/'
 ---
