@@ -198,6 +198,12 @@ Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **si
 
 <iframe src="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
+¿Sabías que hemos creado lo más negro que hay en la Tierra? {{% mention "manuel-alonso-orts" %}} nos lo cuenta en este 🧵 hilo de Twitter:
+
+<div align="center">
+{{< tweet user="manoloalonso1" id="1641121356455591963" >}}
+</div>
+
 ### Hipótesis de Planck
 
 > La energía solo puede ser emitida/absorbida en paquetes discretos llamados cuantos o **fotones**, múltiplos de la frecuencia $\nu$ de la radiación electromagnética asociada:

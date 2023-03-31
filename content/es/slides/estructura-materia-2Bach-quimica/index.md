@@ -150,8 +150,8 @@ donde $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocid
 ## Orígenes de la teoría cuántica
 
 - [Radiación de cuerpo negro](#/2/1)
-- [Hipótesis de Planck](#/2/7)
-- [Efecto fotoeléctrico](#/2/8)
+- [Hipótesis de Planck](#/2/8)
+- [Efecto fotoeléctrico](#/2/9)
 
 (continúa hacia abajo)
 
@@ -186,6 +186,14 @@ El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma d
 Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_es.html" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
+
+---
+
+¿Sabías que hemos creado lo más negro que hay en la Tierra? {{% mention "manuel-alonso-orts" %}} nos lo cuenta en este 🧵 hilo:
+
+<div align="center">
+{{< tweet user="manoloalonso1" id="1641121356455591963" >}}
+</div>
 
 ---
 
