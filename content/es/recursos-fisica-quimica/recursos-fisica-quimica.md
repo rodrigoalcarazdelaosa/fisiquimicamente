@@ -15,44 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "apuntes"
-  icon_link = "apuntes/"
-  icon_pack = "tgs"
+  icon = "[📚](apuntes/)"
+  icon_pack = "emoji"
   name = "[Apuntes](apuntes)"
   description = "[📗 2.º ESO](apuntes/2eso) · [📘 3.º ESO](apuntes/3eso) · [📙 4.º ESO](apuntes/4eso) <br> [📕 1.º Bach](apuntes/1bach) · [📓 2.º Bach](apuntes/2bach) <br> [📔 Formulación y nomenclatura de Química](apuntes/formulacion-nomenclatura-quimica)"
 
 [[feature]]
-  icon = "actividades-juegos"
-  icon_link = "actividades-juegos/"
-  icon_pack = "lottie"
+  icon = "[🧩](actividades-juegos/)"
+  icon_pack = "emoji"
   name = "[Actividades/juegos](actividades-juegos)"
   description = "[📗 2.º ESO](actividades-juegos/2eso) · [📘 3.º ESO](actividades-juegos/3eso) · [📙 4.º ESO](actividades-juegos/4eso) <br> [📕 1.º Bach](actividades-juegos/1bach) · [📓 2.º Bach](actividades-juegos/2bach) <br> [📔 Formulación y nomenclatura de Química](actividades-juegos/formulacion-nomenclatura-quimica)"
 
 [[feature]]
-  icon = "historia-ciencia"
-  icon_link = "historia-ciencia/"
-  icon_pack = "tgs"
+  icon = "[📖](historia-ciencia/)"
+  icon_pack = "emoji"
   name = "[Historia de la Ciencia](historia-ciencia)"
   description = "Biografías y principales contribuciones <br> de los grandes científicos y científicas de la historia"
   
 [[feature]]
-  icon = "ebau"
-  icon_link = "ebau/"
-  icon_pack = "tgs"
+  icon = "[🎓](ebau/)"
+  icon_pack = "emoji"
   name = "[EBAU](ebau)"
   description = "[🧲 Física](ebau/fisica) · [⚗️ Química](ebau/quimica) · [💡Consejos](ebau/consejos)"
   
 [[feature]]
-  icon = "oposiciones"
-  icon_link = "oposiciones/"
-  icon_pack = "tgs"
+  icon = "[📝](oposiciones/)"
+  icon_pack = "emoji"
   name = "[Oposiciones](oposiciones)"
   description = "[🧲 Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
 
 [[feature]]
-  icon = "radiofisica"
-  icon_link = "radiofisica/"
-  icon_pack = "tgs"
+  icon = "[☢️](radiofisica/)"
+  icon_pack = "emoji"
   name = "[Radiofísica](radiofisica)"
   description = "🧑‍🏫 Ciclos formativos · [🧑‍🔧 Operador de IIRR](radiofisica/operador-IIRR) · [🏥 Radiofísica Hospitalaria (RFIR)](radiofisica/RFIR)"
    

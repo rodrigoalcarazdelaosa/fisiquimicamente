@@ -15,44 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "recursos"
-  icon_link = "recursos-fisica-quimica/"
-  icon_pack = "lottie"
+  icon = "[⚛️](recursos-fisica-quimica/)"  
+  icon_pack = "emoji"
   name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
   description = "[📚 Apuntes](recursos-fisica-quimica/apuntes) · [🧩 Actividades/juegos](recursos-fisica-quimica/actividades-juegos) · [📖 Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓 EBAU](recursos-fisica-quimica/ebau) · [📝 Oposiciones](recursos-fisica-quimica/oposiciones) · [☢️ Radiofísica](recursos-fisica-quimica/radiofisica)"  
   
 [[feature]]
-  icon = "tutoriales"
-  icon_link = "tutoriales/"
-  icon_pack = "tgs"
+  icon = "[🤝](tutoriales/)"  
+  icon_pack = "emoji"
   name = "[Tutoriales](tutoriales/)"
   description = "[LaTeX](tutoriales/latex) · [Presentación de información](tutoriales/presentacion-informacion)"
   
 [[feature]]
-  icon = "enlaces-interes"
-  icon_link = "enlaces-interes/"
-  icon_pack = "lottie"
+  icon = "[🔗](enlaces-interes/)"  
+  icon_pack = "emoji"
   name = "[Enlaces de interés](enlaces-interes/)"
   description = "[💻 Recursos online](enlaces-interes/recursos-online) · [🤗 Páginas amigas](enlaces-interes/paginas-amigas)"
   
 [[feature]]
-  icon = "blog"
-  icon_link ="blog/"
-  icon_pack = "tgs"
+  icon = "[✍️](blog/)"
+  icon_pack = "emoji"
   name = "[Blog](blog/)"
   description = ""
   
 [[feature]]
-  icon = "equipo"
-  icon_link = "equipo/"
-  icon_pack = "tgs"
+  icon = "[👥](equipo/)"
+  icon_pack = "emoji"
   name = "[Conoce al equipo](equipo/)"
   description = ""
   
 [[feature]]
-  icon = "contacto-sticker"
-  icon_link = "#contacto"
-  icon_pack = "tgs"
+  icon = "[📬](#contacto)"  
+  icon_pack = "emoji"
   name = "[Contacto](#contacto)"
   description = ""  
 

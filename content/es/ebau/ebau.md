@@ -27,9 +27,8 @@ subtitle = "Gracias a [**Enrique Ortega González**](https://fisiquimicamente.co
   description = "[📝 Exámenes completos](quimica/examenes-completos) · [🗂️ Por temas](quimica/por-temas)"
   
 [[feature]]
-  icon = "consejos"
-  icon_link = "consejos"
-  icon_pack = "tgs"
+  icon = "[💡](consejos)"  
+  icon_pack = "emoji"
   name = "[Consejos](consejos)"
   description = ""  
   

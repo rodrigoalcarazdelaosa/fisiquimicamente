@@ -21,9 +21,8 @@ subtitle = ""
   description = "`PRÓXIMAMENTE`"
   
 [[feature]]
-  icon = "MN"
-  icon_link = ""
-  icon_pack = "tgs"
+  icon = "🧪"  
+  icon_pack = "emoji"
   name = "Medicina Nuclear (MN)"
   description = "`PRÓXIMAMENTE`"
   

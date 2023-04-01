@@ -15,16 +15,14 @@ subtitle = "⚗️ Química"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "oposiciones"
-  icon_link = "examenes-completos/"
-  icon_pack = "tgs"
+  icon = "[📝](examenes-completos/)"  
+  icon_pack = "emoji"
   name = "[Exámenes completos](examenes-completos)"
   description = ""
   
 [[feature]]
-  icon = "por-temas"
-  icon_link = "por-temas/"
-  icon_pack = "tgs"
+  icon = "[🗂️](por-temas/)"
+  icon_pack = "emoji"
   name = "[Por temas](por-temas)"
   description = ""
 

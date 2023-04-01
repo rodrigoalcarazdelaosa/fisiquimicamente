@@ -15,16 +15,14 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "apuntes"
-  icon_link = "apunts/"
-  icon_pack = "tgs"
+  icon = "[📚](apunts/)"
+  icon_pack = "emoji"
   name = "[Apunts](apunts)"
   description = "[📗 2n ESO](apunts/2eso) · [📘 3r ESO](apunts/3eso) · [📙 4t ESO](apunts/4eso) <br> [📕 1r Batx](apunts/1batx) · [📓 2n Batx](apunts/2batx) <br> [📔 Formulació i nomenclatura de Química](apunts/formulacio-nomenclatura-quimica)"
   
 [[feature]]
-  icon = "ebau"
-  icon_link = "pau-pbau"
-  icon_pack = "tgs"
+  icon = "[🎓](pau-pbau)"
+  icon_pack = "emoji"
   name = "[PAU/PBAU](pau-pbau)"
   description = "[PAU Catalunya](pau-pbau/catalunya) · [PBAU Illes Balears](pau-pbau/illes-balears) · [💡Consells](pau-pbau/consells)"
 

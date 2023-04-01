@@ -29,9 +29,8 @@ subtitle = "**Exàmens** de **Catalunya** obtinguts de [**Selecat**](https://www
   description = ""
   
 [[feature]]
-  icon = "consejos"
-  icon_link = "consells"
-  icon_pack = "tgs"
+  icon = "[💡](consells)"
+  icon_pack = "emoji"
   name = "[Consells](consells)"
   description = ""  
   

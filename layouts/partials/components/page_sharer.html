@@ -13,26 +13,23 @@
 	</div>
 	<ul class=subscribe>
 		<li>
-		{{- $coffee_tgs := resources.Get ("media/lottie/coffee.tgs") -}}
+		{{- $coffee_image := resources.Get ("media/coffee.svg") -}}
 		{{ if eq .Site.Language.Lang "es" }}
 		<div align="center">
-        <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR" target="_blank" rel="noopener">			
-			<tgs-player hover loop mode="normal" style="width:75%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un café">
-			</tgs-player>
+        <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR" target="_blank" rel="noopener">
+			<img src="{{ $coffee_image.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un café" width="100%">
 		</a>
 		</div>
 		{{ else if eq .Site.Language.Lang "en" }}
 		<div align="center">
         <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR" target="_blank" rel="noopener">			
-			<tgs-player hover loop mode="normal" style="width:75%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Buy us a coffee">
-			</tgs-player>
+			<img src="{{ $coffee_image.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Buy us a coffee" width="100%">
 		</a>
 		</div>
 		{{ else if eq .Site.Language.Lang "ca" }}
 		<div align="center">
         <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR" target="_blank" rel="noopener">			
-			<tgs-player hover loop mode="normal" style="width:75%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un cafè">
-			</tgs-player>
+			<img src="{{ $coffee_image.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un cafè" width="100%">
 		</a>
 		</div>
 		{{ end }}
