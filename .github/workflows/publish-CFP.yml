@@ -1,4 +1,4 @@
-name: Publish to Cloudflare Pages
+name: Publish to Cloudflare Pages and audit URLs using Lighthouse
 
 on:
   push:
@@ -63,6 +63,11 @@ jobs:
           # Optional: Enable this if you want to have GitHub Deployments triggered
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
+  lighthouse:
+    needs: publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v9
         with:
@@ -71,4 +76,4 @@ jobs:
             https://physichemically.com/
             https://fisiquimicament.com/          
           uploadArtifacts: true # save results as an action artifacts
-          temporaryPublicStorage: true # upload lighthouse report to the temporary storage          
+          temporaryPublicStorage: true # upload lighthouse report to the temporary storage             
