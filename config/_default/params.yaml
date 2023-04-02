@@ -70,7 +70,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: true
+    enable: false
   repository:
     url: 'https://github.com/rodrigoalcarazdelaosa/fisiquimicamente'
     content_dir: content
