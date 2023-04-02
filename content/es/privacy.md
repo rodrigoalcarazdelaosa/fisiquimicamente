@@ -16,11 +16,8 @@ breadcrumbs: [""]
 - [{{< icon name="github" pack="fab" >}}GitHub](https://docs.github.com/es/github/site-policy/github-privacy-statement) para el alojamiento de su [código fuente](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) para su despliegue/servicio y para las analíticas web.
 - [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy/) para el [formulario de contacto](/#contacto).
-- [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) para tipografías[^2].
 - [{{< icon name="font-awesome" pack="fab" >}}FontAwesome](https://fontawesome.com/privacy) para iconos.
 - [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) para los *cafés* (donaciones).
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) para la [licencia](/licencia).
-
-[^2]: Actualmente la web utiliza las tipografías [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) e [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
 
 [^3]: Con el fin de cubrir los gastos de la web relacionados con el dominio y el alojamiento.
