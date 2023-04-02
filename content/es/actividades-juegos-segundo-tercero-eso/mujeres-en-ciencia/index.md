@@ -2,7 +2,7 @@
 title: Mujeres en ciencia
 url: "/recursos-fisica-quimica/actividades-juegos/2eso-3eso/mujeres-en-ciencia"
 subtitle: ¡Descubre 52 notables, a menudo desconocidas, Mujeres de la Ciencia!
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>¡Descubre 52 notables, a menudo desconocidas, Mujeres de la Ciencia!"
+summary: "¡Descubre 52 notables, a menudo desconocidas, Mujeres de la Ciencia!"
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso-3eso"]
 tags:
 - ABJ

@@ -59,4 +59,4 @@ El recurso se halla enriquecido con multitud de [**ejemplos** realizados en **Ge
 
 ¿Quieres saber cómo se abordará la metodología [***flipped classroom***](https://es.wikipedia.org/wiki/Aula_invertida), el [**trabajo** por **proyectos**](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_proyectos), el [**diario** de **aprendizaje**](https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/objetivo_y_conocimiento_previo.html#exe-dl-0) y la [**evaluación**](https://cedec.intef.es/rubrica/rubrica-para-evaluar-un-video-con-geogebra/) en este **proyecto**?
 
-![canvas](https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/CANVAS.png "https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/_gua_didctica_.html")
+![canvas](canvas.png "https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/_gua_didctica_.html")

@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Mujeres en ciencia | 2.º ESO – 3.º ESO
-      url: '/recursos-fisica-quimica/actividades-juegos/2eso-3eso/mujeres-en-ciencia'
+      text: ¿Es magia? No, son reacciones químicas | 2.º ESO – 3.º ESO
+      url: '/recursos-fisica-quimica/actividades-juegos/2eso-3eso/magia-reacciones-quimicas'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

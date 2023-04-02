@@ -18,11 +18,11 @@ slides:
 
 # Reacciones químicas
 
-- [Cambios físicos y cambios químicos](#/1)
-- [La reacción química](#/2)
-- [Estequiometría](#/3)
-- [Velocidad de una reacción química](#/4)
-- [La Química en la sociedad y el medio ambiente](#/5)
+- [Cambios físicos y cambios químicos](#/2)
+- [La reacción química](#/3)
+- [Estequiometría](#/4)
+- [Velocidad de una reacción química](#/5)
+- [La Química en la sociedad y el medio ambiente](#/6)
 
 Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
 
@@ -30,12 +30,16 @@ Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >
 
 ---
 
+> Enfréntate al **desafío** de generar un **recurso audiovisual** sobre **reacciones químicas** con **vídeos** de **experimentos** de laboratorio grabados y editados por ti mismo con [esta genial **actividad**]({{< relref "/actividades-juegos-segundo-tercero-eso/magia-reacciones-quimicas" >}}).
+
+---
+
 {{% section %}}
 
 ## Cambios físicos y cambios químicos
 
-- [Cambios físicos](#/1/1)
-- [Cambios químicos](#/1/3)
+- [Cambios físicos](#/2/1)
+- [Cambios químicos](#/2/3)
 
 (continúa hacia abajo)
 
@@ -117,9 +121,9 @@ Para que se rompan los enlaces de los reactivos se han de producir **choques efi
 
 ## Estequiometría
 
-- [Ley de conservación de la masa](#/3/1)
-- [Ajuste de ecuaciones químicas](#/3/9)
-- [Simulaciones](#/3/18)
+- [Ley de conservación de la masa](#/4/1)
+- [Ajuste de ecuaciones químicas](#/4/9)
+- [Simulaciones](#/4/18)
 
 (continúa hacia abajo)
 
