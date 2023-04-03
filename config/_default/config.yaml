@@ -88,3 +88,9 @@ sitemap:
   _merge: deep
 minify:
   disableHTML: true
+privacy:
+  twitter:
+    simple: true
+services:
+  twitter:
+    disableInlineCSS: true
