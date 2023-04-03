@@ -90,6 +90,7 @@ minify:
   disableHTML: true
 privacy:
   twitter:
+    enableDNT: true
     simple: true
 services:
   twitter:
