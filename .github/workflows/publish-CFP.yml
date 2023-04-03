@@ -39,9 +39,9 @@ jobs:
 
       - name: Download Lighthouse artifact
         uses: actions/download-artifact@v3
-          with:
-            name: lighthouse-results
-            path: data          
+        with:
+          name: lighthouse-results
+          path: data
 
       - name: Set up Go
         uses: actions/setup-go@v4
