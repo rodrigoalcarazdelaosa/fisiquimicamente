@@ -18,12 +18,15 @@ jobs:
         include:
           - projectName: 'fisiquimicamente'
             directory: 'public/es'
+            url: 'https://fisiquimicamente.com/'
             PDFEmbedKey: PDF_EMBED_API_KEY_ES
           - projectName: 'physichemically'
             directory: 'public/en'
+            url: 'https://physichemically.com/'
             PDFEmbedKey: PDF_EMBED_API_KEY_EN
           - projectName: 'fisiquimicament'
             directory: 'public/ca'
+            url: 'https://fisiquimicament.com/'
             PDFEmbedKey: PDF_EMBED_API_KEY_CA
 
     steps:
@@ -63,16 +66,10 @@ jobs:
           # Optional: Enable this if you want to have GitHub Deployments triggered
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
-  lighthouse:
-    needs: publish
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v9
         with:
-          urls: |
-            https://fisiquimicamente.com/            
+          urls: ${{ matrix.url }}
           uploadArtifacts: true # save results as an action artifacts
           temporaryPublicStorage: true # upload lighthouse report to the temporary storage
-          runs: 3
+          runs: 3  
