@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 17  # Order that this section will appear.
 
 title = "🎓 Recursos PAU/PBAU"
-subtitle = "**Exàmens** de **Catalunya** obtinguts de [**Selecat**](https://www.selecat.cat) i de **Illes Balears** recopilats per [**Òscar Colomar**](https://fisiquimicament.com/equip/oscar-colomar/)"
+subtitle = "**Exàmens** de **Catalunya** obtinguts de [**Selecat**](https://www.selecat.cat) i de **Illes Balears** recopilats per **{{% mention oscar-colomar %}}**"
 
 # Showcase personal skills or business features.
 # 

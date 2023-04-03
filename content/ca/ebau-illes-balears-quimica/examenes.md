@@ -49,6 +49,10 @@ subtitle = "⚗️ Química"
     name = "2021"
     tag = "2021"
 
+  [[content.filter_button]]
+    name = "2022"
+    tag = "2022"    
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
