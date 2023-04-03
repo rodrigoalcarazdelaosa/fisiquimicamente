@@ -35,13 +35,7 @@ jobs:
         with:
           fetch-depth: 0
           # Fetch **all** history (not just deploy commit) for Hugo's .GitInfo and .Lastmod
-          # See https://discourse.gohugo.io/t/problems-with-gitinfo-in-ci/22480
-
-      - name: Download Lighthouse artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: lighthouse-results
-          path: data
+          # See https://discourse.gohugo.io/t/problems-with-gitinfo-in-ci/22480      
 
       - name: Set up Go
         uses: actions/setup-go@v4
