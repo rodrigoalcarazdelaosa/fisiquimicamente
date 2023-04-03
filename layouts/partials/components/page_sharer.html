@@ -89,10 +89,10 @@
 		</h3>
 	</div>	
   <ul class="share">
-	  <script async defer src="https://teams.microsoft.com/share/launcher.js"></script>
+	  {{/*  <script async defer src="https://teams.microsoft.com/share/launcher.js"></script>
 	  <li data-toggle="tooltip" data-placement="bottom" title="Teams" class="teams-share-button" data-href="{{ $.Permalink }}" data-icon-px-size="30"></li>
 	  <script src="https://apis.google.com/js/platform.js" async defer></script>	  
-	  <li data-toggle="tooltip" data-placement="bottom" title="Classroom"><g:sharetoclassroom url="{{ $.Permalink }}" size="30"></g:sharetoclassroom></li>
+	  <li data-toggle="tooltip" data-placement="bottom" title="Classroom"><g:sharetoclassroom url="{{ $.Permalink }}" size="30"></g:sharetoclassroom></li>  */}}
     {{ range where site.Data.page_sharer.buttons "enable" true }}
       {{ $pack := or .icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
