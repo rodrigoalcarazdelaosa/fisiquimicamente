@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-    "@netlify/plugin-lighthouse": "^4.0.7",
-    "netlify-plugin-hugo-cache-resources": "^0.2.1"
-  }
-}
