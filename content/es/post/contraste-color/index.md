@@ -146,19 +146,19 @@ Una buena **combinación** de **colores primarios** (rojo, verde y azul) sería[
   padding: 48px 16px 16px;
   list-style: none;
   text-align: end; background-color: #e62101; font-family: Inconsolata">
-	  <span style="color:white">#e62101</span><br>rgb(230,33,1)
+	  <span style="color:white">#e62101</span><br><span style="color:black">rgb(230,33,1)</span>
   </li>
   <li style="border-radius: 4px;
   padding: 48px 16px 16px;
   list-style: none;
   text-align: end; background-color: #038901; font-family: Inconsolata">
-	  <span style="color:white">#038901</span><br>rgb(3,137,1)
+	  <span style="color:white">#038901</span><br><span style="color:black">rgb(3,137,1)</span>
   </li>
   <li style="border-radius: 4px;
   padding: 48px 16px 16px;
   list-style: none;
   text-align: end; background-color: #2f72de; font-family: Inconsolata">
-	  <span style="color:white">#2f72de</span><br>rgb(47,114,222)
+	  <span style="color:white">#2f72de</span><br><span style="color:black">rgb(47,114,222)</span>
   </li>    
 </ul>
 
