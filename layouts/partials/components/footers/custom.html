@@ -93,15 +93,18 @@ Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" 
   
 </p>
 
-<p class="powered-by">
+<p class="powered-by">  
 
   <!-- Speedlify -->
 <script src="/js/speedlify-score.js"></script>
-{{ if eq .Site.Language.Lang "es" }}  
+{{ if eq .Site.Language.Lang "es" }}
+  Puntuaciones de <a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="lighthouse" src="/icon/lighthouse.svg"> Lighthouse</a>
   <a href="https://speedlify-fisiquimicamente.netlify.app/fisiquimicamente/" aria-label="Ver todos los resultados en https://speedlify-fisiquimicamente.netlify.app/fisiquimicamente/"><speedlify-score speedlify-url="https://speedlify-fisiquimicamente.netlify.app" hash="9c1b7add"></a>
 {{ else if eq .Site.Language.Lang "en" }}
+<a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="lighthouse" src="/icon/lighthouse.svg"> Lighthouse</a> scores
   <a href="https://speedlify-fisiquimicamente.netlify.app/physichemically/" aria-label="View full results on https://speedlify-fisiquimicamente.netlify.app/physichemically/"><speedlify-score speedlify-url="https://speedlify-fisiquimicamente.netlify.app" hash="7884bdde"></speedlify-score></a>
 {{ else if eq .Site.Language.Lang "ca" }}
+  Puntuacions de <a href="https://developer.chrome.com/docs/lighthouse/overview/" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="lighthouse" src="/icon/lighthouse.svg"> Lighthouse</a>
   <a href="https://speedlify-fisiquimicamente.netlify.app/fisiquimicament/" aria-label="Veure tots els resultats a https://speedlify-fisiquimicamente.netlify.app/fisiquimicament/"><speedlify-score speedlify-url="https://speedlify-fisiquimicamente.netlify.app" hash="af60d138"></speedlify-score>
 {{ end }}
 
