@@ -40,8 +40,8 @@
     {{ $display_icons = true }}
     {{ $social_link := partial "functions/get_social_link" . }}
     <li>
-      <a href="{{ $social_link.link | safeURL }}"{{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" title="{{.}}"{{ end }} {{ $social_link.target | safeHTMLAttr }}>
-        <i class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
+      <a href="{{ $social_link.link | safeURL }}" {{ $social_link.target | safeHTMLAttr }}>
+        <i {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" title="{{.}}"{{ end }} class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
       </a>
     </li>
   {{ end }}
