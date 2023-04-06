@@ -39,7 +39,7 @@
     {{ end }}
     {{ $display_icons = true }}
     {{ $social_link := partial "functions/get_social_link" . }}
-    <li>
+    <li style="margin-right: 20px">
       <a href="{{ $social_link.link | safeURL }}" {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.icon }}">
         <i {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" title="{{$social_link.label}}"{{ end }} class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
       </a>
