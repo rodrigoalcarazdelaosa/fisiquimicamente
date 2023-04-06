@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: ¿Es magia? No, son reacciones químicas | 2.º ESO – 3.º ESO
-      url: '/recursos-fisica-quimica/actividades-juegos/2eso-3eso/magia-reacciones-quimicas'
+      text: Investigando | 2.º ESO
+      url: 'https://cedec.intef.es/situaciones-de-aprendizaje-edia-para-fisica-y-quimica-en-2o-de-eso/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

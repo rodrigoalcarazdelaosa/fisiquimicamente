@@ -2,7 +2,7 @@
 title: ¿Es magia? No, son reacciones químicas
 url: "/recursos-fisica-quimica/actividades-juegos/2eso-3eso/magia-reacciones-quimicas"
 subtitle: Crea un videoblog para aprender y difundir la ciencia
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Crea un videoblog para aprender y difundir la ciencia."
+summary: "Crea un videoblog para aprender y difundir la ciencia."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso-3eso"]
 tags:
 - actividades
