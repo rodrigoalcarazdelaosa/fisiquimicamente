@@ -12,7 +12,7 @@ tags:
 - projectiles
 categories:
 - Physics
-weight: 4
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
