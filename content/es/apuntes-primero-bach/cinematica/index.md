@@ -23,11 +23,11 @@ image:
   caption: Imagen de [**Shutterbug75**](https://pixabay.com/es/users/shutterbug75-2077322/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-#links:
-#- icon_pack: fas
-#  icon: pencil-ruler
-#  name: Ejercicios
-#  url: termodinamica-ejercicios.pdf
+links:
+- icon_pack: fas
+  icon: pencil-ruler
+  name: Ejercicios
+  url: vectores-ejercicios.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
