@@ -1111,6 +1111,14 @@ div.card-text a {
   color: $nord5;
 }
 
+.network-icon.network-icon-footer li {
+  margin-right: 14px;
+}
+
+.network-icon.network-icon-footer li:last-of-type {
+  margin-right: 0;
+}
+
 .network-icon a {
   color: $nord3;
 }

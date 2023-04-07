@@ -35,11 +35,11 @@
   {{ range where .Params.social ".display.footer" true }}
     {{ if not $display_icons }}
       <div class="d-flex justify-content-center">
-        <ul class="network-icon" aria-hidden="true">
+        <ul class="network-icon network-icon-footer" aria-hidden="true">
     {{ end }}
     {{ $display_icons = true }}
     {{ $social_link := partial "functions/get_social_link" . }}
-    <li style="margin-right: 20px">
+    <li>
       <a href="{{ $social_link.link | safeURL }}" {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.icon }}">
         <i {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" title="{{$social_link.label}}"{{ end }} class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
       </a>
