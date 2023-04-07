@@ -26,8 +26,8 @@ image:
 links:
 - icon_pack: fas
   icon: pencil-ruler
-  name: Ejercicios
-  url: vectores-ejercicios.pdf
+  name: Ejercicios repaso vectores
+  url: repaso-vectores-ejercicios.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
