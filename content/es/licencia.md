@@ -22,3 +22,5 @@ Los [📝 <span style="font-variant:small-caps;">**frikiexámenes**</span>]({{< 
 </div>
 
 Las [🧩 <span style="font-variant:small-caps;">**actividades/juegos**</span>]({{< ref "/actividades-juegos" >}}) son cortesía de **{{% mention "miguel-quiroga" %}}** y de **{{% mention "pablo-ortega-rodriguez" %}}** y los [🎓 <span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) son cortesía de **{{% mention "enrique-ortega-gonzalez" %}}**, del [IES José del Campo](http://www.josedelcampo.com) de Ampuero (Cantabria).
+
+&copy; [Steve Francia](https://spf13.com) posee los derechos de autor del logo de <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg"></a>.
