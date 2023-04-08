@@ -3,16 +3,15 @@ name: Publish to Cloudflare Pages
 on:
   push:
     branches:
-      - main
-    # Exclude pull requests from all repositories except yours
-    # See https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#github-context
-    # See https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request
-    if: ${{ github.repository == 'rodrigoalcarazdelaosa/fisiquimicamente' }}
+      - main    
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-
+    # Exclude pull requests from all repositories except yours
+    # See https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#github-context
+    # See https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request
+    if: ${{ github.repository == 'rodrigoalcarazdelaosa/fisiquimicamente' }}
     permissions:
       contents: read
       deployments: write
