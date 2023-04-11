@@ -1,6 +1,6 @@
 ---
 title: Castilla y León 2018
-url: "/recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-e1"
+url: "/recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-E1"
 subtitle: Ejercicio 1 del Turno 1, 2 y 3
 summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code> <br> Ejercicio 1 del Turno 1, 2 y 3."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
