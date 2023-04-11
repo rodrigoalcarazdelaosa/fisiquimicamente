@@ -25,4 +25,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e1/cantabria-2016-E1.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e1/cantabria-2016-E1.pdf" filename="cantabria-2016-E1.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-E1/cantabria-2016-E1.pdf" filename="cantabria-2016-E1.pdf" %}}

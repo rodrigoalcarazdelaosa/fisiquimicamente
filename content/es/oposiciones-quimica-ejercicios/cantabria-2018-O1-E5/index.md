@@ -1,6 +1,6 @@
 ---
 title: Cantabria 2018
-url: "/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o1-e5"
+url: "/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-O1-E5"
 subtitle: Ejercicio 5 de la Opción 1
 summary: "Ejercicio 5 de la Opción 1."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","quimica"]
@@ -25,4 +25,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o1-e5/cantabria-2018-o1-e5.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-o1-e5/cantabria-2018-o1-e5.pdf" filename="cantabria-2018-o1-e5.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/cantabria-2018-O1-E5/cantabria-2018-O1-E5.pdf" filename="cantabria-2018-O1-E5.pdf" %}}

@@ -25,4 +25,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/galicia-2016-e1/galicia-2016-E1.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/galicia-2016-e1/galicia-2016-E1.pdf" filename="galicia-2016-E1.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/galicia-2016-E1/galicia-2016-E1.pdf" filename="galicia-2016-E1.pdf" %}}

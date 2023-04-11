@@ -1,6 +1,6 @@
 ---
 title: Madrid 2018
-url: "/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e1"
+url: "/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-E1"
 subtitle: Ejercicio 1
 summary: Ejercicio 1.
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
@@ -25,4 +25,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e1/madrid-2018-e1.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-e1/madrid-2018-e1.pdf" filename="madrid-2018-e1.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/madrid-2018-E1/madrid-2018-E1.pdf" filename="madrid-2018-E1.pdf" %}}

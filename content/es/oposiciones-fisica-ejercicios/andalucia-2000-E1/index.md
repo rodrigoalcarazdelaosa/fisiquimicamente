@@ -25,4 +25,4 @@ image:
 # external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/andalucia-2000-e1/andalucia-2000-E1.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/andalucia-2000-e1/andalucia-2000-E1.pdf" filename="andalucia-2000-E1.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/andalucia-2000-E1/andalucia-2000-E1.pdf" filename="andalucia-2000-E1.pdf" %}}

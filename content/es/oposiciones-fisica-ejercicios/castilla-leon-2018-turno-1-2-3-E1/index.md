@@ -25,4 +25,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-e3/castilla-leon-2018-turno-1-2-3-e3.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-e1/castilla-leon-2018-turno-1-2-3-e1.pdf" filename="castilla-leon-2018-turno-1-2-3-e1.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-E1/castilla-leon-2018-turno-1-2-3-E1.pdf" filename="castilla-leon-2018-turno-1-2-3-E1.pdf" %}}

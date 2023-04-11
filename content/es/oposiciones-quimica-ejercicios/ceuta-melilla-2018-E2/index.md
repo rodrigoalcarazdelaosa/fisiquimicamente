@@ -1,6 +1,6 @@
 ---
 title: Ceuta y Melilla 2018
-url: "/recursos-fisica-quimica/oposiciones/quimica/ceuta-melilla-2018-e2/"
+url: "/recursos-fisica-quimica/oposiciones/quimica/ceuta-melilla-2018-E2/"
 subtitle: Ejercicio 2
 summary: "Ejercicio 2."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","quimica"]
@@ -26,4 +26,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/pais-vasco-2016-k1/pais-vasco-2016-k1.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/ceuta-melilla-2018-e2/ceuta-melilla-2018-e2.pdf" filename="ceuta-melilla-2018-e2.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/quimica/ceuta-melilla-2018-E2/ceuta-melilla-2018-E2.pdf" filename="ceuta-melilla-2018-E2.pdf" %}}

@@ -1,6 +1,6 @@
 ---
 title: Aragón 2018
-url: "/recursos-fisica-quimica/oposiciones/fisica/aragon-2018-oa-e1"
+url: "/recursos-fisica-quimica/oposiciones/fisica/aragon-2018-OA-E1"
 subtitle: Ejercicio 1 de la Opción A
 summary: Ejercicio 1 de la Opción A.
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
@@ -25,4 +25,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/aragon-2018-oa-e1/aragon-2018-oa-e1.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/aragon-2018-oa-e1/aragon-2018-oa-e1.pdf" filename="aragon-2018-oa-e1.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/aragon-2018-OA-E1/aragon-2018-OA-E1.pdf" filename="aragon-2018-OA-E1.pdf" %}}

@@ -1,6 +1,6 @@
 ---
 title: País Vasco 2018
-url: "/recursos-fisica-quimica/oposiciones/fisica/pais-vasco-2018-f2"
+url: "/recursos-fisica-quimica/oposiciones/fisica/pais-vasco-2018-F2"
 subtitle: Ejercicio F2
 summary: "Ejercicio F2."
 breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
@@ -25,4 +25,4 @@ image:
 #external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/pais-vasco-2018-f2/pais-vasco-2018-f2.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/pais-vasco-2018-f2/pais-vasco-2018-f2.pdf" filename="pais-vasco-2018-f2.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/pais-vasco-2018-F2/pais-vasco-2018-F2.pdf" filename="pais-vasco-2018-F2.pdf" %}}
