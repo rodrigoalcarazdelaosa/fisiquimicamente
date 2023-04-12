@@ -1,12 +1,13 @@
 ---
 title: "Investigando"
-url: "/recursos-fisica-quimica/actividades-juegos/2eso/investigando"
+url: "/recursos-fisica-quimica/actividades-juegos/2eso-3eso/investigando"
 subtitle: Situaciones de aprendizaje basado en retos
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Situaciones de aprendizaje basado en retos."
-breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso"]
+summary: "Situaciones de aprendizaje basado en retos."
+breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso-3eso"]
 tags:
 - actividades
 - 2º ESO
+- 3º ESO
 - actividad-científica
 - materia
 - movimiento

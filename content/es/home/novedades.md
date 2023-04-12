@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Investigando | 2.º ESO
-      url: 'https://cedec.intef.es/situaciones-de-aprendizaje-edia-para-fisica-y-quimica-en-2o-de-eso/'
+      text: ¡La materia nos rodea! | 2.º ESO – 3.º ESO
+      url: 'https://cedec.intef.es/proyecto-edia-recurso-para-ciencias-la-materia-nos-rodea/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
