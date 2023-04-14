@@ -9,7 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 banner: 
-  image: "tutoriales-header.jpg"
+  image: "tutoriales-header.webp"
   caption: "Imagen de [**kiquebg**](https://pixabay.com/es/users/kiquebg-5133331/) en [Pixabay](https://pixabay.com/es/)"
 
 breadcrumbs: [""]

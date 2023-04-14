@@ -22,7 +22,7 @@ content:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/ultims-apunts.jpg
+      media: novedades/ultims-apunts.webp
     link:
       #icon: graduation-cap
       #icon_pack: fas
@@ -35,10 +35,10 @@ content:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/darrera-entrada-blog.webp
+      media: novedades/darrera-entrada-blog.jpg
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Calendari Científic Escolar 2022"
-      url: 'blog/2022/01/12/calendari-cientific-escolar-2022/'  
+      text: "Calendari Científic Escolar"
+      url: 'blog/2023/01/10/calendari-cientific-escolar/'
 ---

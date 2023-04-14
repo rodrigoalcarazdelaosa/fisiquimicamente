@@ -48,10 +48,10 @@ content:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/latest-blog-post.webp
+      media: novedades/latest-blog-post.jpg
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Scientific School Calendar 2022
-      url: 'blog/2022/01/12/scientific-school-calendar-2022/'  
+      text: Scientific School Calendar
+      url: 'blog/2023/01/10/scientific-school-calendar/'
 ---
