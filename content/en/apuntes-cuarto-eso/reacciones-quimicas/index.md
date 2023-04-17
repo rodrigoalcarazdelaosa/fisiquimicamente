@@ -24,8 +24,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Poster
+  icon:
+  name: 📜 Poster
   url: chemical-reactions-poster.pdf
 ---
 

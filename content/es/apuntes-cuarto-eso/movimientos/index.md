@@ -25,16 +25,16 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: movimientos-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios gráficas
+  icon:
+  name: ✏️ Ejercicios gráficas
   url: cinematica-graficas-ejercicios.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: movimientos-frikiexamenes.pdf  
 
 # Slides (optional).
@@ -115,13 +115,13 @@ También puedes ver estos excelentes vídeos del [Departamento de Física y Quí
 
 {{< youtube C-1iJRD-u_I >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1utKM4BKCW5uIAc-9ggCjRFioXHaP1Z7E/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
 {{< youtube 3MXBhRjaIlE >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1oSsmSv0xhd2IH8j-9CubdC6aYFpT8NlV/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
@@ -187,7 +187,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 
 {{< youtube PhfYb7y8cXY >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1ZC17GJcqX3h8rHlfdS43T9uBSkDrR8Oo/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
@@ -414,7 +414,7 @@ y siempre se dirige hacia el centro de la circunferencia.
 {{% callout example %}}
 <br>
 
-> Las aspas de un ventilador {{< icon name="fan" pack="fas" >}} giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a $30\thinspace\mathrm{cm}$ del centro; c) el número de vueltas que darán las aspas en $5\thinspace\mathrm{min}$.
+> Las aspas de un ventilador giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a $30\thinspace\mathrm{cm}$ del centro; c) el número de vueltas que darán las aspas en $5\thinspace\mathrm{min}$.
 
 ---
 

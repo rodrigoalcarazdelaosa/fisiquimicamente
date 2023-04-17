@@ -25,11 +25,11 @@ external_link: ""
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: marie-curie-poster.pdf  
 - icon_pack: fas
-  icon: file-download
-  name: Tríptico
+  icon:
+  name: 📖 Tríptico
   url: marie-curie-triptico.pdf    
 ---

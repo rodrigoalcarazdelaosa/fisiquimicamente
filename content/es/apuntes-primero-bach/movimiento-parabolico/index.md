@@ -26,16 +26,16 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: movimiento-parabolico-poster.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Ejercicios
+  icon:
+  name: 🔗 Ejercicios
   url: https://drive.google.com/file/d/146zPEp6BQmpHvasZiyg_b4tTBQLtIVD2/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexamen
+  icon:
+  name: 📝 Frikiexamen
   url: movimiento-parabolico-dinamica-frikiexamen.pdf  
 
 # Slides (optional).

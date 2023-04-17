@@ -17,28 +17,28 @@ image:
   caption: "[http://www.igm.ule-csic.es/calendario-cientifico](http://www.igm.ule-csic.es/calendario-cientifico)"
 links:
 - icon_pack: fas
-  icon: file-download
-  name: A4 version
+  icon:
+  name: 🗓️ A4 version
   url: https://digital.csic.es/bitstream/10261/285158/3/2023-ENG-Calendar-impresion-A4.pdf
 - icon_pack: fas
-  icon: file-download
-  name: A3 version
+  icon:
+  name: 🗓️ A3 version
   url: https://digital.csic.es/bitstream/10261/285158/4/2023-ENG-Calendario-impresion-A3-folleto.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Accessible version
+  icon:
+  name: ♿ Accessible version
   url: https://digital.csic.es/bitstream/10261/285158/6/2023-ENG-Calendario-formato-accesible.docx
 - icon_pack: fas
-  icon: external-link-alt
-  name: Online version
+  icon:
+  name: 🔗 Online version
   url: https://calendario-cientifico-escolar.gitlab.io/en/en/index.html
 - icon_pack: fas
-  icon: calendar
-  name: iCal
+  icon:
+  name: 📅 iCal
   url: https://digital.csic.es/bitstream/10261/285158/7/2023-ENG-Calendar-online.ical
 - icon_pack: fas
-  icon: file-download
-  name: Didactic guide
+  icon:
+  name: 🗒️ Didactic guide
   url: https://digital.csic.es/bitstream/10261/285158/5/2023-ENG-Didactic-guide.pdf
 ---
 

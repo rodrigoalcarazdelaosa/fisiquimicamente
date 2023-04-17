@@ -28,7 +28,7 @@ slides:
 - [Àcids i bases rellevants](#/8)
 - [Simulació](#/9)
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 
 </section>
 
@@ -707,7 +707,7 @@ Algunes de les **solucions** proposades són:
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+📥 Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
 
 1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
 2. Canvia la **Destinació** a **Desa com a PDF**.

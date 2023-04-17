@@ -20,7 +20,7 @@ threedmol: true
 
 # Formulación y nomenclatura de Química Orgánica
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -779,7 +779,7 @@ No pueden ser nunca el grupo principal. Se nombran añadiendo el **prefijo *nitr
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

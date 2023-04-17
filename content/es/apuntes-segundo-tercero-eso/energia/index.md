@@ -27,8 +27,8 @@ links:
 #  url: movimientos_texto.pdf
   
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: energia-poster.pdf
  
 slides: energia-2ESO-3ESO
@@ -161,12 +161,12 @@ Obtenida a partir del aprovechamiento de la **radiación electromagnética** pro
 ##### Térmica
 **Calentar agua** mediante **depósitos**.
 ##### Fotovoltaica
-**Generar electricidad** mediante paneles solares {{<  icon name="solar-panel" pack="fas" >}}.
+**Generar electricidad** mediante paneles solares.
 
 {{< figure library="true" src="energia-2ESO-3ESO/solar.jpg" title="Granja solar. Foto de [**American Public Power Association**](https://unsplash.com/@publicpowerorg) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 
 #### Energía eólica 💨
-Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
+Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores**.
 
 {{< figure library="true" src="energia-2ESO-3ESO/eolica.jpg" title="Parque eólico. Foto de [**RawFilm**](https://unsplash.com/@rawfilm) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
 

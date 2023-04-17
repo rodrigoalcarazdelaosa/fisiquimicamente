@@ -24,7 +24,7 @@ slides:
 - [Ecuaciones cinéticas](#/5)
 - [Factores que influyen en la velocidad de reacción](#/6)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -308,7 +308,7 @@ Las **proteínas** que actúan como **catalizadores** en las **reacciones bioqu�
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

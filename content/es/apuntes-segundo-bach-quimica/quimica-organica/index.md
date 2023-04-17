@@ -25,26 +25,26 @@ image:
 
 links:
 # - icon_pack: fas
-#   icon: file-download
+#   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
   
 # - icon_pack: fas
-#   icon: file-download
+#   icon:
 #   name: Póster
 #   url: MAS_poster.pdf
 
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: organica-ejercicios.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: redox-organica-frikiexamenes.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/quimica-organica/
 
 ---

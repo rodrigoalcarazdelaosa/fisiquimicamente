@@ -24,12 +24,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: energia-trabajo-calor-poster.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: fluidos-energia-calor-frikiexamenes.pdf  
   
 slides: energia-trabajo-calor-4ESO

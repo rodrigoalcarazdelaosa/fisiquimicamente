@@ -27,8 +27,8 @@ image:
 
 links:  
 - icon_pack: fas
-  icon: file-download
-  name: Pòster
+  icon:
+  name: 📜 Pòster
   url: estructura-materia-poster.pdf
 - icon_pack: fas
   icon: pencil-ruler

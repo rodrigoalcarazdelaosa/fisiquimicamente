@@ -1,0 +1,30 @@
+{{/*
+    Docs: https://wowchemy.com/docs/content/writing-markdown-latex/#inline-image
+
+    Parameters
+    ----------
+    name :
+        Icon name.
+    pack : default "fas"
+        Icon pack.
+    padding_left : default "0"
+        Left padding.
+    padding_right : default "1"
+        Right padding.
+*/}}
+
+{{- if (.Get "name") -}}
+  {{- $icon := .Get "name" -}}
+  {{- $pack := or (.Get "pack") "fas" -}}
+  {{- $pack_prefix := $pack -}}
+  {{- if in (slice "fab" "fas" "far" "fal") $pack -}}
+    {{- $pack_prefix = "fa" -}}
+  {{- end -}}
+  {{- $padding_right := (.Get "padding_right") | default 1 -}}{{/* Defaulting to 1 prevents no spacing when minimizing HTML. */}}
+  {{ if eq $pack "svg" }}
+    {{- $svg_icon := resources.Get (printf "media/icons/%s.png" $icon) | default (resources.Get (printf "media/icons/%s.svg" $icon)) -}}    
+    <img draggable='false' class="icon {{with (.Get "padding_left")}}pl-{{.}}{{end}} {{with $padding_right}}pr-{{.}}{{end}}" alt="{{ $icon }}" src="{{ $svg_icon.RelPermalink }}" loading="lazy">
+  {{ else }}    
+    <i class="{{ $pack }} {{ $pack_prefix }}-{{ $icon }} {{with (.Get "padding_left")}}pl-{{.}}{{end}} {{with $padding_right}}pr-{{.}}{{end}} {{if ne (.Get "fixed_width") "false"}}fa-fw{{end}}"></i>
+  {{ end }}
+{{- end -}}

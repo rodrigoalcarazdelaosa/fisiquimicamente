@@ -48,11 +48,11 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/ManoloAlonso1
   label: Follow me on Twitter
-- icon: envelope
-  icon_pack: fas
+- icon: ✉️
+  icon_pack: emoji
   link: 'mailto:man.alonso.orts@gmail.com'  # For a direct email link, use "mailto:test@example.org".
   label: Contact me 
 # Link to a PDF of your resume/CV from the About widget.

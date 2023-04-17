@@ -25,7 +25,7 @@ slides:
 - [Errores en la medida](#/5)
 - [Expresión de resultados](#/6)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -502,7 +502,7 @@ Por regla general, las **incertidumbres siempre** se expresan con **una sola cif
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

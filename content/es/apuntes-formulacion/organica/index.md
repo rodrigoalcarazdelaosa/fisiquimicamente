@@ -28,28 +28,28 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: formulacion-nomenclatura-organica-poster.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Guía IUPAC
+  icon:
+  name: 🗒️ Guía IUPAC
   url: https://iupac.org/wp-content/uploads/2021/12/Guia-breu_CAT_7es_2_20211215.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios hidrocarburos 4.º ESO
+  icon:
+  name: ✏️ Ejercicios hidrocarburos 4.º ESO
   url: hidrocarburos-4eso-ejercicios.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios grupos funcionales Bach
+  icon:
+  name: ✏️ Ejercicios grupos funcionales Bach
   url: grupos-funcionales-ejercicios.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1ujM1yemLauwmGZMgBjF5mciEySM5PLw1/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: formulacion-nomenclatura-organica-frikiexamenes.pdf  
 
 slides: formulacion-nomenclatura-quimica-organica

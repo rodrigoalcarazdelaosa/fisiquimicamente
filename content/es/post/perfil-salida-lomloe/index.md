@@ -22,20 +22,20 @@ image:
   caption:
 links:
 - icon_pack: fas
-  icon: file-download
-  name: ESO
+  icon:
+  name: 📄 ESO
   url: perfil-salida-LOMLOE-ESO.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Bach
+  icon:
+  name: 📄 Bach
   url: perfil-salida-LOMLOE-Bach.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Física 2.º Bach
+  icon:
+  name: 📄 Física 2.º Bach
   url: perfil-salida-LOMLOE-Fisica.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Química 2.º Bach
+  icon:
+  name: 📄 Química 2.º Bach
   url: perfil-salida-LOMLOE-Quimica.pdf      
 ---
 

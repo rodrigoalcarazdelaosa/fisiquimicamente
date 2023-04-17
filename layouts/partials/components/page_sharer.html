@@ -17,19 +17,19 @@
 		{{ if eq .Site.Language.Lang "es" }}
 		<div align="center">
         <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR" target="_blank" rel="noopener">
-			<img src="{{ $coffee_image.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un café" width="100%">
+			<span data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un café" class="fa-2x">☕</span>
 		</a>
 		</div>
 		{{ else if eq .Site.Language.Lang "en" }}
 		<div align="center">
-        <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR" target="_blank" rel="noopener">			
-			<img src="{{ $coffee_image.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Buy us a coffee" width="100%">
+        <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR" target="_blank" rel="noopener">
+			<span data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Buy us a coffee" class="fa-2x">☕</span>			
 		</a>
 		</div>
 		{{ else if eq .Site.Language.Lang "ca" }}
 		<div align="center">
-        <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR" target="_blank" rel="noopener">			
-			<img src="{{ $coffee_image.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un cafè" width="100%">
+        <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR" target="_blank" rel="noopener">
+			<span data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un cafè" class="fa-2x">☕</span>			
 		</a>
 		</div>
 		{{ end }}
@@ -109,7 +109,14 @@
       {{ end }}
       <li>
         <a href="{{$link|safeURL}}" data-toggle="tooltip" data-placement="bottom" title aria-label="{{.title}}" data-original-title="{{.title}}" target="_blank" rel="noopener" class="share-btn-{{.id}}" aria-label="{{.icon}}">
-          <i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
+		{{ if eq $pack "emoji" }}
+            {{- .icon | markdownify | emojify -}}
+          {{ else if eq $pack "svg" }}
+            {{- $svg_icon := resources.Get (printf "media/icons/%s.png" .icon) | default (resources.Get (printf "media/icons/%s.svg" .icon)) -}}
+            <img src="{{ $svg_icon.RelPermalink }}" alt="{{ .icon }}" class="svg-icon svg-baseline" loading="lazy">
+          {{ else }}
+		  	<i class="{{$pack}} {{$pack_prefix}}-{{.icon}}"></i>
+          {{ end }}
         </a>
       </li>
     {{ end }}
@@ -128,25 +135,25 @@
 			{{ end }}
 		</h3>
 	</div>
-	<ul class=share>		
+	<ul class=share>
 		<li>
 	        <a href="https://t.me/fisiquimicamente" target="_blank" rel="noopener">
-				<i class="fab fa-telegram" data-toggle="tooltip" data-placement="left" title aria-label="Telegram" data-original-title="Telegram"></i>
+				<img data-toggle="tooltip" data-placement="left" title="Telegram" src="/icon/telegram.svg" alt="telegram" class="svg-icon svg-baseline">
 			</a>
 		</li>		
 		<li>
 	        <a href="{{ "/index.xml" | absLangURL }}" target="_blank" rel="noopener">
-				<i class="fas fa-rss" data-toggle="tooltip" data-placement="right" title aria-label="RSS" data-original-title="RSS"></i>
+				<img data-toggle="tooltip" data-placement="right" title="RSS" src="/icon/RSS.svg" alt="RSS" class="svg-icon svg-baseline">
 			</a>
 		</li>
 	</ul>
 	  <p class="kudos">
 	  {{ if eq .Site.Language.Lang "es" }}
-		Si no quieres perderte ninguna <strong>actualización</strong> considera suscribirte al canal de <i class="fab fa-telegram mr-1"></i><strong>Telegram</strong> o al canal <i class="fas fa-rss mr-1"></i><strong>RSS</strong>.
+		Si no quieres perderte ninguna <strong>actualización</strong> considera suscribirte al canal de <img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> <strong>Telegram</strong> o al canal <img draggable="false" class="icon" alt="RSS" src="/icon/RSS.svg"> <strong>RSS</strong>.
 	  {{ else if eq .Site.Language.Lang "en" }}
-		If you don't want to miss any <strong>updates</strong> consider subscribing to the <i class="fab fa-telegram mr-1"></i><strong>Telegram</strong> channel (in Spanish) or the <i class="fas fa-rss mr-1"></i><strong>RSS</strong> channel.
+		If you don't want to miss any <strong>updates</strong> consider subscribing to the <img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> <strong>Telegram</strong> channel (in Spanish) or the <img draggable="false" class="icon" alt="RSS" src="/icon/RSS.svg"> <strong>RSS</strong> channel.
 	{{ else if eq .Site.Language.Lang "ca" }}
-		Si no et vols perdre cap <strong>actualització</strong> considera subscriure'ta canal de <i class="fab fa-telegram mr-1"></i><strong>Telegram</strong> (en espanyol) o al canal <i class="fas fa-rss mr-1"></i><strong>RSS</strong>.		
+		Si no et vols perdre cap <strong>actualització</strong> considera subscriure'ta canal de <img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> <strong>Telegram</strong> (en espanyol) o al canal <img draggable="false" class="icon" alt="RSS" src="/icon/RSS.svg"> <strong>RSS</strong>. 		
 	{{ end }}				  
   </p>
 </div>

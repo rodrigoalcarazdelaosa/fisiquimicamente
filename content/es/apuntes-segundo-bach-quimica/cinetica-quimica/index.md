@@ -26,24 +26,24 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: cinetica-quimica-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: cinetica-quimica-ejercicios.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1vm3lF6xBlj8qzbCdWB5xlXFfyXEkoGmm/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: cinetica-equilibrio-frikiexamenes.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/cinetica-quimica/  
 
 slides: cinetica-quimica-2Bach-quimica

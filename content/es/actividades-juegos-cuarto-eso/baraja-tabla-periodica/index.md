@@ -21,12 +21,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Instrucciones
+  icon:
+  name: 📃 Instrucciones
   url: instrucciones.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Cartas
+  icon:
+  name: 🃏 Cartas
   url: cartas.pdf
 ---
 

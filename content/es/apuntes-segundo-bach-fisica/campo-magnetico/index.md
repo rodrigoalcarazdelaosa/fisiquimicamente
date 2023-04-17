@@ -27,20 +27,20 @@ image:
 
 links:
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: campo-magnetico-ejercicios.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1jgF2JtIDGkwyYLClBewpQ79JsNewmWnm/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexamen
+  icon:
+  name: 📝 Frikiexamen
   url: campo-magnetico-frikiexamen.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-electromagnetica/
 
 ---

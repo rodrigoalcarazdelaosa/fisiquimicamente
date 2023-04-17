@@ -27,24 +27,24 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: redox-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: redox-ejercicios.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1nJA7BYfXzSkU01pSiDQWgCerm6DQGPbq/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: redox-organica-frikiexamenes.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/redox/  
 
 slides: redox-2Bach-quimica

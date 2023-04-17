@@ -17,16 +17,16 @@ image:
 #  caption: Tabla Periódica DC
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Color version
+  icon:
+  name: 📄 Color version
   url: periodic-table-elements.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Black and white version
+  icon:
+  name: 📄 Black and white version
   url: periodic-table-elements-black-white.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Version without names
+  icon:
+  name: 📄 Version without names
   url: periodic-table-elements-without-names.pdf
 ---
 

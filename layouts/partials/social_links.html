@@ -15,7 +15,14 @@
       {{ end }}
       <li>
         <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-          <i data-toggle="tooltip" data-placement="bottom" title="{{.label}}" class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+          {{ if eq $pack "emoji" }}
+            <span data-toggle="tooltip" data-placement="bottom" title="{{ .label }}">{{- .icon | markdownify | emojify -}}</span>
+          {{ else if eq $pack "svg" }}
+            {{- $svg_icon := resources.Get (printf "media/icons/%s.png" .icon) | default (resources.Get (printf "media/icons/%s.svg" .icon)) -}}
+            <img data-toggle="tooltip" data-placement="bottom" title="{{ .label }}" src="{{ $svg_icon.RelPermalink }}" alt="{{ .icon }}" class="svg-icon svg-baseline" loading="lazy">
+          {{ else }}
+            <i data-toggle="tooltip" data-placement="bottom" title="{{.label}}" class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+          {{ end }}
         </a>
       </li>
     {{end}}

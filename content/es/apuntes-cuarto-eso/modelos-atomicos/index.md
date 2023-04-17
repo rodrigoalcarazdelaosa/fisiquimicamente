@@ -26,16 +26,16 @@ image:
 
 links:  
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: modelos-atomicos-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: modelos-atomicos-ejercicios.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexamen
+  icon:
+  name: 📝 Frikiexamen
   url: modelos-atomicos-frikiexamen.pdf
 
 slides: modelos-atomicos-4ESO

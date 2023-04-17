@@ -26,26 +26,26 @@ image:
 
 links:
 # - icon_pack: fas
-#   icon: file-download
+#   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
   
 # - icon_pack: fas
-#   icon: file-download
+#   icon:
 #   name: Póster
 #   url: MAS_poster.pdf
 
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: ondas-ejercicios.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexamen
+  icon:
+  name: 📝 Frikiexamen
   url: ondas-frikiexamen.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/ondas/  
 
 ---

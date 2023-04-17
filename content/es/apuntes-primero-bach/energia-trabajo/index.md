@@ -25,18 +25,18 @@ image:
 
 links:
 # - icon_pack: fas
-#   icon: file-download
+#   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
   
 # - icon_pack: fas
-#   icon: file-download
+#   icon:
 #   name: Póster
 #   url: MAS_poster.pdf
 
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexamen
+  icon:
+  name: 📝 Frikiexamen
   url: energia-MAS-frikiexamen.pdf
 
 ---

@@ -22,7 +22,7 @@ slides:
 - [Máquinas simples](#/2)
 - [Principales fuerzas de la naturaleza](#/3)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -276,7 +276,7 @@ Es la **fuerza** con la que las **cargas** eléctricas se **atraen** (signo opue
 
 ---
 
-La materia cargada {{< icon name="plus-circle" pack="fas" >}} tiene un **defecto** de **electrones**, mientras que la materia cargada {{< icon name="minus-circle" pack="fas" >}} tiene un **exceso** de **electrones**.
+La materia cargada ➕ tiene un **defecto** de **electrones**, mientras que la materia cargada ➖ tiene un **exceso** de **electrones**.
 
 ---
 
@@ -397,7 +397,7 @@ Ambas experiencias pusieron de manifiesto la estrecha **relación** que existe e
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

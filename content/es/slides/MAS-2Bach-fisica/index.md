@@ -23,7 +23,7 @@ slides:
 - [Dinámica del MAS](#/7)
 - [Energía del MAS](#/8)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -329,7 +329,7 @@ Aprende más sobre la **energía** del **MAS** con este excelente 🧵 **hilo** 
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

@@ -43,15 +43,15 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/BTeseracto
   label: Follow me on Twitter
 - icon: youtube
-  icon_pack: fab
+  icon_pack: svg
   link: https://www.youtube.com/channel/UCTcEEF18oHvUfSTfj4Hw3vQ
   label: Subscribe to my Youtube channel
 - icon: facebook
-  icon_pack: fab
+  icon_pack: svg
   link: https://www.facebook.com/Bajo-la-sombra-del-teseracto-1987665438194990/
   label: Follow me on Facebook
 # Link to a PDF of your resume/CV from the About widget.

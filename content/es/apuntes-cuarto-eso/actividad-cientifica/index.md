@@ -28,12 +28,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: actividad-cientifica-poster.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Tablas magnitudes y unidades
+  icon:
+  name: 🔠 Tablas magnitudes y unidades
   url: tablas-magnitudes-unidades.pdf  
   
 slides: actividad-cientifica-4ESO

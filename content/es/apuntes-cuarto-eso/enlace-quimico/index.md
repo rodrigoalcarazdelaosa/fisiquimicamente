@@ -24,12 +24,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: enlace-quimico-poster.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: enlace-quimico-frikiexamenes.pdf  
 
 slides: enlace-quimico-4ESO

@@ -26,12 +26,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Ficha instrumentos
+  icon:
+  name: 🧪 Ficha instrumentos
   url: ficha-instrumentos.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Fichas juego
+  icon:
+  name: 🧩 Fichas juego
   url: fichas-juego.pdf
 ---
 

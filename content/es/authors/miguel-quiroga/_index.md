@@ -52,15 +52,15 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/quirogafyq
   label: Sígueme en Twitter
 - icon: instagram
-  icon_pack: fab
+  icon_pack: svg
   link: https://www.instagram.com/eldelafisicaylaquimica/
   label: Sígueme en Instagram
-- icon: globe
-  icon_pack: fas
+- icon: 🌐
+  icon_pack: emoji
   link: https://sites.google.com/view/eldelafisicaylaquimica
   label: Visita mi página web
 # Link to a PDF of your resume/CV from the About widget.

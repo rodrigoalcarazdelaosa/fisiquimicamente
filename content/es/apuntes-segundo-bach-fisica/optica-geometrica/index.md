@@ -24,20 +24,20 @@ image:
 
 links:
 # - icon_pack: fas
-#   icon: file-download
+#   icon:
 #   name: Póster
 #   url: MAS_poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: optica-ejercicios.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1mMs1acpTRFIFZRf7FlLr10Y9X-Cf6kRF/view
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/optica-geometrica/  
 
 ---

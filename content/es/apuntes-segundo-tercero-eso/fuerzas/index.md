@@ -26,8 +26,8 @@ links:
 #  url: movimientos_texto.pdf
   
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: fuerzas-poster.pdf
   
 slides: fuerzas-2ESO
@@ -94,7 +94,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 
 {{< youtube YQCM7ayoOr4 >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1GhSAU8jutcdpTqWXaXcn9JFY1wRUR5KI/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 
@@ -192,7 +192,7 @@ Puedes aprender más sobre la **fuerza gravitatoria** con esta **simulación**:
 <iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab-basics/latest/gravity-force-lab-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ### Eléctrica
-Es la **fuerza** con la que las **cargas** eléctricas se **atraen** (signo opuesto) o se **repelen** (mismo signo), siendo directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que las separa. La materia cargada {{< icon name="plus-circle" pack="fas" >}} tiene un **defecto** de **electrones**, mientras que la materia cargada {{< icon name="minus-circle" pack="fas" >}} tiene un **exceso** de **electrones**[^1].
+Es la **fuerza** con la que las **cargas** eléctricas se **atraen** (signo opuesto) o se **repelen** (mismo signo), siendo directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que las separa. La materia cargada ➕ tiene un **defecto** de **electrones**, mientras que la materia cargada ➖ tiene un **exceso** de **electrones**[^1].
 
 [^1]: Recuerda [aquí]({{< ref "/apuntes-segundo-tercero-eso/estructura-atomica/index.md#iones" >}}) el concepto de **ion** y la diferencia entre **cationes** y **aniones**.
 

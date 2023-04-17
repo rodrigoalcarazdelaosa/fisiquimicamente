@@ -26,16 +26,16 @@ image:
 
 links:
 - icon_pack: fas
-  icon: external-link
-  name: Recurso (REA)
+  icon:
+  name: 🔗 Recurso (REA)
   url: https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/index.html
 - icon_pack: fas
-  icon: file-code
-  name: Fichero fuente (.elp)
+  icon:
+  name: 📄 Fichero fuente (.elp)
   url: https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/tiro_parabolico.elp
 - icon_pack: fas
-  icon: file-lines
-  name: EPUB
+  icon:
+  name: 📖 EPUB
   url: https://descargas.intef.es/cedec/proyectoedia/matematicas/epubs/tiro_parabolico.epub
 ---
 

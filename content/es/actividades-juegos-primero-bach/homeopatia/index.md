@@ -23,8 +23,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Hoja de trabajo
+  icon:
+  name: 🗒️ Hoja de trabajo
   url: homeopatia-hoja-trabajo.pdf
 ---
 

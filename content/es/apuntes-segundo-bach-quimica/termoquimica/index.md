@@ -25,24 +25,24 @@ image:
 
 links:
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: termoquimica-ejercicios.pdf
 - icon_pack: fas
-  icon: table
-  name: Tablas
+  icon:
+  name: 🔢 Tablas
   url: termoquimica-tablas.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1cHaAZR-RAR_nf_XpYetJt7Z2JK0rFtWm/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: termoquimica-frikiexamenes.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/termoquimica/  
   
 ---

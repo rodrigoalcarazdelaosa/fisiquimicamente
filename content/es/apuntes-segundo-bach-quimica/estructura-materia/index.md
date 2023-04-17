@@ -26,28 +26,28 @@ image:
 
 links:  
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: estructura-materia-poster.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Ejercicios de introducción
+  icon:
+  name: 🔗 Ejercicios de introducción
   url: https://drive.google.com/file/d/1DhwzmVzos5UUcrfO30FFC3Hn921qc42m/view
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: estructura-materia-ejercicios.pdf    
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1T6sY2MVVsoQLeB4xhUlGhRuDy3ixwXna/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexamen
+  icon:
+  name: 📝 Frikiexamen
   url: estructura-materia-sistema-periodico-frikiexamen.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/estructura-materia/
 
 slides: estructura-materia-2Bach-quimica

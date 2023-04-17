@@ -25,8 +25,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Tableros y fichas
+  icon:
+  name: 🧩 Tableros y fichas
   url: tableros-fichas.pdf
 ---
 

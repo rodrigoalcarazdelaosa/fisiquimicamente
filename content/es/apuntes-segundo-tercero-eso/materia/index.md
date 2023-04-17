@@ -23,8 +23,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: materia-poster.pdf
   
 slides: materia-2ESO-3ESO
@@ -220,7 +220,7 @@ También puedes ver esta excelente **práctica virtual** del [Departamento de F�
 
 {{< youtube j1N81E1ys34 >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1Bycu4IzGGw0OgaXdV7oo5Cko5C4TWa4H/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 

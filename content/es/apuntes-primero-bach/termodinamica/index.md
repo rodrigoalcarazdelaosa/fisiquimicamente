@@ -25,15 +25,15 @@ image:
 
 links:
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: termodinamica-ejercicios.pdf
 - icon_pack: fas
-  icon: table
-  name: Tablas
+  icon:
+  name: 🔢 Tablas
   url: termodinamica-tablas.pdf
 #- icon_pack: fas
-#  icon: file-download
+#  icon:
 #  name: Frikiexamen
 #  url: movimiento-parabolico-dinamica-frikiexamen.pdf
 

@@ -26,28 +26,28 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Capítulos 1 y 2
+  icon:
+  name: 📑 Capítulos 1 y 2
   url: extrano-caso-lucia-cap-1-2.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Capítulo 3
+  icon:
+  name: 📑 Capítulo 3
   url: extrano-caso-lucia-cap-3.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Capítulo 4
+  icon:
+  name: 📑 Capítulo 4
   url: extrano-caso-lucia-cap-4.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Capítulo 5
+  icon:
+  name: 📑 Capítulo 5
   url: extrano-caso-lucia-cap-5.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Capítulo final
+  icon:
+  name: 📑 Capítulo final
   url: extrano-caso-lucia-cap-final.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Informe policial
+  icon:
+  name: 📝 Informe policial
   url: extrano-caso-lucia-informe-policial.pdf
 ---
 

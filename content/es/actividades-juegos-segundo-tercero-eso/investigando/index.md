@@ -27,7 +27,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: external-link
-  name: Infografía
+  icon:
+  name: 🔗 Infografía
   url: https://cedec.intef.es/wp-content/uploads/2023/01/esquema_investigando2.pdf
 ---

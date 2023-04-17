@@ -27,16 +27,16 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: leyes-fundamentales-quimica-poster.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Ejercicios
+  icon:
+  name: 🔗 Ejercicios
   url: https://drive.google.com/file/d/13uu0I91bKV4gfYCmoWBh3wSgCLKbOdNl/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: leyes-fundamentales-quimica-frikiexamenes.pdf  
 
 slides: leyes-fundamentales-quimica-1Bach
@@ -63,7 +63,7 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 
 {{< youtube A9D4ARMV0WM >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1vbY3zlpiMDH-RMqIduKnndgPNttzQJfh/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 	
@@ -80,7 +80,7 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 
 {{< youtube fPAMzYfUUds >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1amvrMuqu1OUXAC5njaDNjv5WIOq4Vd1v/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 	
@@ -130,7 +130,7 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 
 {{< youtube 9LApku_r5eg >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1Q16VZEKu5iUaK1f9rh5beBOoY1Y7TN77/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 

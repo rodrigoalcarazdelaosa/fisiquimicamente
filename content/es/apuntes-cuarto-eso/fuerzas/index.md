@@ -21,8 +21,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: fuerzas-poster.pdf
 
 slides: fuerzas-4ESO
@@ -132,7 +132,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 
 {{< youtube x2vUbOPB1W8 >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1NrmIRaarKCZvh8VdIhzvRDOAkJSPEwfK/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 

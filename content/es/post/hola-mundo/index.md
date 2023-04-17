@@ -47,13 +47,13 @@ Las entradas de este blog van dirigidas a nuestros/as alumnos/as y a todo aquel 
 
 ## ¿Cómo puedes participar?
 
-### {{< icon name="discord" pack="fab" >}} Discord
+### {{< icon name="discord" pack="svg" >}} Discord
 
 ¿Conoces [Discord](https://discord.com/)? [Únete al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](https://discord.gg/kJqPqTJ) y comienza a **participar** en la web comentando, dando tu opinión, realizando peticiones, sugerencias, etc.
 
 ### *Cafés* (donaciones)
 
-Si deseas reconocer y alabar nuestro esfuerzo, animándonos a seguir preparando materiales de calidad, [puedes invitarnos a un *café*](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR) utilizando el servicio [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/home). Todos los *cafés* se destinarán a costear y seguir mejorando [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/).
+Si deseas reconocer y alabar nuestro esfuerzo, animándonos a seguir preparando materiales de calidad, [puedes invitarnos a un *café*](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR) utilizando el servicio [{{< icon name="paypal" pack="svg" >}}PayPal](https://www.paypal.com/es/home). Todos los *cafés* se destinarán a costear y seguir mejorando [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/).
 
 ### Compartiendo
 
@@ -61,10 +61,10 @@ También puedes <strong>compartir</strong> todas las <strong>entradas</strong> d
 
 ### Suscribiéndote
 
-Si no quieres perderte ninguna **actualización** puedes **suscribirte** al [**canal** de {{< icon name="telegram" pack="fab" >}} **Telegram**](https://t.me/fisiquimicamente) o al [**canal {{< icon name="rss" pack="fas" >}} RSS**](/index.xml).
+Si no quieres perderte ninguna **actualización** puedes **suscribirte** al [**canal** de {{< icon name="telegram" pack="svg" >}} **Telegram**](https://t.me/fisiquimicamente) o al [**canal {{< icon name="rss" pack="svg" >}} RSS**](/index.xml).
 
 ### Contactándonos
 
-Además, puedes **escribirnos** bien utilizando el [**formulario** de **contacto**]({{< ref "/#contacto" >}}) o bien desde [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/fqmente). También puedes seguirnos en [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
+Además, puedes **escribirnos** bien utilizando el [**formulario** de **contacto**]({{< ref "/#contacto" >}}) o bien desde [{{< icon name="twitter" pack="svg" >}} **Twitter**](https://twitter.com/fqmente). También puedes seguirnos en [{{< icon name="instagram" pack="svg" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="svg" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
 
 Esperamos que disfrutes de este espacio y que te sea de utilidad. Anímate a participar en él siempre que te apetezca. Nos seguimos leyendo amigo/a.

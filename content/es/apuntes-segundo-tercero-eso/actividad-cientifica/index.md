@@ -31,8 +31,8 @@ links:
 #  url: movimientos_texto.pdf
   
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: actividad-cientifica-poster.pdf
   
 gallery_item:

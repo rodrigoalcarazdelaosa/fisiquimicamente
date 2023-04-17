@@ -28,7 +28,7 @@ Entrada basada en el siguiente hilo de Twitter:
 
 Se suele decir que los gases (la mayoría) son incoloros. Entonces, ¿por qué hay lámparas de vapor de distintos colores, y por qué se estudian las líneas espectrales del hidrógeno, el helio, etc.? En esta entrada hablamos de **estructura electrónica**, **luz** y **color**.
 
-Empecemos con los átomos más sencillos, el [hidrógeno (H)](https://es.wikipedia.org/wiki/Hidrógeno) y el [helio (He)](https://es.wikipedia.org/wiki/Helio). En un átomo, los electrones ({{< icon name="circle-minus" pack="fas" >}}) se mantienen ligados al núcleo ({{< icon name="circle-plus" pack="fas" >}}) por [**interacción electromagnética** (EM)](https://es.wikipedia.org/wiki/Electromagnetismo) en niveles de energía bien definida; para el H y el He, tenemos 1 o 2 e<sup>–</sup> en el mismo nivel (n = 1).
+Empecemos con los átomos más sencillos, el [hidrógeno (H)](https://es.wikipedia.org/wiki/Hidrógeno) y el [helio (He)](https://es.wikipedia.org/wiki/Helio). En un átomo, los electrones (➖) se mantienen ligados al núcleo (➕) por [**interacción electromagnética** (EM)](https://es.wikipedia.org/wiki/Electromagnetismo) en niveles de energía bien definida; para el H y el He, tenemos 1 o 2 e<sup>–</sup> en el mismo nivel (n = 1).
 
 {{< figure src="atomo-helio-bohr.svg" title="El átomo de helio: dos electrones en la primera órbita (n = 1) alrededor del núcleo. Esta imagen está basada en el [**modelo** de **Bohr**](https://es.wikipedia.org/wiki/Modelo_atómico_de_Bohr) (también llamado modelo planetario), el cual es muy útil para entender muchos conceptos, pero incompleto. Fuente: https://commons.wikimedia.org/wiki/File:Atom.svg." lightbox="false" width="100%" >}}
 

@@ -50,12 +50,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
+- icon: ✉️
+  icon_pack: emoji
   link: 'mailto:ricardoenlineacad@gmail.com'  # For a direct email link, use "mailto:test@example.org".
   label: Contacta'm
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/ricestrada
   label: Segueix-me a Twitter
 # Link to a PDF of your resume/CV from the About widget.

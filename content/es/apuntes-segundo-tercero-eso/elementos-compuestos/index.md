@@ -22,8 +22,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: elementos-compuestos-poster.pdf
   
 slides: elementos-compuestos-2ESO-3ESO
@@ -52,7 +52,7 @@ Los elementos químicos pueden clasificarse en general en **metales**, **semimet
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/lingotes-Au.jpg" title="**Lingotes** de **oro** (Au). Imagen de [**Steve Bidmead**](https://pixabay.com/es/users/Stevebidmead-249424/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
 #### Formación de iones
-Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon name="plus-circle" pack="fas" >}}).
+Tienden a **ceder electrones**, formando **cationes** (iones con carga ➕).
 
 ##### Ejemplos
 - $\ce{Li} \longrightarrow \ce{Li+} + \ce{1 e-}$
@@ -70,7 +70,7 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/azufre.jpg" title="Muestra de **azufre** (S). <br> https://commons.wikimedia.org/wiki/File:Sulfur-sample.jpg" lightbox="true" >}}
 
 #### Formación de iones
-Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon name="minus-circle" pack="fas" >}}).
+Tienden a **captar electrones**, formando **aniones** (iones con carga ➖).
 
 ##### Ejemplos
 - $\ce{Cl} + \ce{1 e-} \longrightarrow \ce{Cl-}$

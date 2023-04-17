@@ -122,6 +122,6 @@ subtitle = "🧲 Física"
  css_class = ""
 +++
 
-{{% callout gdrive %}}
+{{% callout note %}}
 Descarrega aquí un [**quadern amb 354 problemes amb solució**](https://drive.google.com/file/d/1xu39ypu3u99PbUcn_rIUaFXRaDCPHT77/view), de la mà del gran **Berto Tomás**.
 {{% /callout %}}

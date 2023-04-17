@@ -32,7 +32,7 @@ image:
 
 # links:
 # - icon_pack: fas
-#   icon: external-link-alt
+#   icon:
 #   name: Genially
 #   url: https://view.genial.ly/5cc9479edecf900f57f5a6ea/interactive-content-jumanji-fisica-y-quimica
 ---

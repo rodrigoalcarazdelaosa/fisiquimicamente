@@ -21,8 +21,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: external-link-alt
-  name: IUPAC Guide
+  icon:
+  name: 🔗 IUPAC Guide
   url: https://iupac.org/wp-content/uploads/2021/06/Organic-Brief-Guide-brochure_v1.1_June2021.pdf
 
 ---

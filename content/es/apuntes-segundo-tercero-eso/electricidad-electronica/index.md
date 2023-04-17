@@ -27,8 +27,8 @@ links:
 #  url: movimientos_texto.pdf
   
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: electricidad-electronica-poster.pdf  
   
 slides: electricidad-electronica-2ESO-3ESO

@@ -22,8 +22,8 @@ image:
   caption: "https://estudiantes.rsef.es/Gastrofisica/"
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Recetario
+  icon:
+  name: 🧑‍🍳 Recetario
   url: https://estudiantes.rsef.es/ConcursoGastrofisica/Concurso%20Divulgación%20Gastrof%C3%ADsica%20-%20Recetario.pdf
 ---
 

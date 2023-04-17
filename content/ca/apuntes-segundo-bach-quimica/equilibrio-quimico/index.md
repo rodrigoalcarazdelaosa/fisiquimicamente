@@ -26,8 +26,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Pòster
+  icon:
+  name: 📜 Pòster
   url: equilibri-quimic-poster.pdf
 
 slides: equilibri-quimic-2Batx-quimica

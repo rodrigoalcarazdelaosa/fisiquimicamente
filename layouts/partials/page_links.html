@@ -89,7 +89,7 @@
 {{ if $page.Params.slides }}
   {{ with (site.GetPage (printf "slides/%s" $page.Params.slides)) }}
   <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}" target="_blank">
-    <i class="fas fa-chalkboard-teacher mr-1"></i>{{ i18n "btn_slides" }}
+    <span class="mr-1">🧑‍🏫</span>{{ i18n "btn_slides" }}    
   </a>
   {{ end }}
 {{ else }}

@@ -24,12 +24,12 @@ image:
 
 links:  
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: reacciones-quimicas-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: reacciones-quimicas-ejercicios.pdf
 
 # Slides (optional).
@@ -266,6 +266,6 @@ Te recomendamos ver este precioso vídeo/corto-documental del [Departamento de F
 
 {{< youtube KFcRVAjuxAM >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1wsDhdlJNQKB2VvzHSoMPOMhqPSKEyVP0/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}

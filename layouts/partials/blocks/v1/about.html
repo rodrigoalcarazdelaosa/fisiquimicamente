@@ -77,7 +77,14 @@
         {{ end }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+            {{ if eq $pack "emoji" }}
+            <span data-toggle="tooltip" data-placement="bottom" title="{{ .label }}" class="svg-icon svg-baseline big-icon">{{- .icon | markdownify | emojify -}}</span>
+          {{ else if eq $pack "svg" }}
+            {{- $svg_icon := resources.Get (printf "media/icons/%s.png" .icon) | default (resources.Get (printf "media/icons/%s.svg" .icon)) -}}
+            <img data-toggle="tooltip" data-placement="bottom" title="{{ .label }}" src="{{ $svg_icon.RelPermalink }}" alt="{{ .icon }}" class="svg-icon svg-baseline big-icon" loading="lazy">
+          {{ else }}
             <i data-toggle="tooltip" data-placement="bottom" title="{{.label}}" class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+          {{ end }}
           </a>
         </li>
         {{ end }}
@@ -113,7 +120,7 @@
         <ul class="ul-edu fa-ul mb-0">
           {{ range .courses }}
           <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
+            <span class="fa-li">🎓</span>            
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>

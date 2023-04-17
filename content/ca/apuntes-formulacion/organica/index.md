@@ -25,8 +25,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Pòster
+  icon:
+  name: 📜 Pòster
   url: formulacio-nomenclatura-organica-poster.pdf
 
 slides: formulacio-nomenclatura-quimica-organica

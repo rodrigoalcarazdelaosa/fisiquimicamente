@@ -25,8 +25,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Cartas
+  icon:
+  name: 🃏 Cartas
   url: cartas.pdf
 ---
 

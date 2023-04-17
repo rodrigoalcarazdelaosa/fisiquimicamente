@@ -46,11 +46,11 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/eduardcremades
   label: Follow me on Twitter
 - icon: linkedin
-  icon_pack: fab
+  icon_pack: svg
   link: https://es.linkedin.com/in/eduardcremades
   label: Follow me on LinkedIn  
 # Link to a PDF of your resume/CV from the About widget.

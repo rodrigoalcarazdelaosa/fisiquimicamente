@@ -90,6 +90,6 @@ subtitle = "📓 2.º Bach 🧲 Física"
  css_class = ""
 +++
 
-{{% callout gdrive %}}
+{{% callout note %}}
 También te recomendamos echar un vistazo a las excelentes [**guías** de **Berto Tomás**](https://www.aprendiendofisicaconbertotomas.com/gu%C3%ADas) o a las [***chuletillas*** 🥩 de **Curro**](https://drive.google.com/drive/folders/1OXSG4JKxRwPvIL4U-4N1LtcOyt4LIMmQ).
 {{% /callout %}}

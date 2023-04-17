@@ -23,8 +23,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: movimiento-circular-poster.pdf
 
 slides: movimiento-circular-1Bach  

@@ -26,21 +26,21 @@ image:
 
 links:
 # - icon_pack: fas
-#   icon: file-download
+#   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
   
 - icon_pack: fas
-  icon: external-link-alt
-  name: Ejercicios
+  icon:
+  name: 🔗 Ejercicios
   url: https://drive.google.com/file/d/1A2JmO4UcFPFx_Xr6AOxv_KqjRZBmwLe3/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: campo-electrico-frikiexamenes.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-electromagnetica/  
 
 ---

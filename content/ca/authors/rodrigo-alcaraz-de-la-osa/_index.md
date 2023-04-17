@@ -50,43 +50,43 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
+- icon: ✉️
+  icon_pack: emoji
   link: '/#contacte'  # For a direct email link, use "mailto:test@example.org".
   label: Contacta'ns
   display:
     header: true
     footer: true
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/fqmente
   label: Segueix-nos a Twitter
   display:
     header: true
     footer: true
 - icon: instagram
-  icon_pack: fab
+  icon_pack: svg
   link: https://www.instagram.com/fisiquimicamente/
   label: Segueix-nos a Instagram
   display:
     header: true
     footer: true
 - icon: pinterest
-  icon_pack: fab
+  icon_pack: svg
   link: https://www.pinterest.es/fisiquimicamente/
   label: Segueix-nos a Pinterest
   display:
     header: true
     footer: true
 - icon: telegram
-  icon_pack: fab
+  icon_pack: svg
   link: https://t.me/fisiquimicamente
   label: Subscriu-te al canal de Telegram
   display:
     header: true
     footer: true    
 - icon: discord
-  icon_pack: fab
+  icon_pack: svg
   link: https://discord.gg/kJqPqTJ
   label: Uneix-te a el servidor d'Discord
   display:

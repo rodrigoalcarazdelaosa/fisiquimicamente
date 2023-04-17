@@ -38,16 +38,16 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Tablero
+  icon:
+  name: 🎲 Tablero
   url: trivial-tablero.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Ficha colores
+  icon:
+  name: 🧩 Ficha colores
   url: trivial-ficha-colores.pdf  
 - icon_pack: fas
-  icon: file-download
-  name: Preguntas
+  icon:
+  name: ❓ Preguntas
   url: trivial-preguntas.pdf
 ---
 

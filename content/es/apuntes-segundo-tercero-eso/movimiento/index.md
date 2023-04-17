@@ -26,8 +26,8 @@ links:
 #  url: movimientos_texto.pdf
   
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: movimiento-poster.pdf
   
 slides: movimiento-2ESO

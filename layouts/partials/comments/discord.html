@@ -1,12 +1,12 @@
 {{/*  <div align="center" class="comments-box">  
   <h3>Discord</h3>  
 </div>  */}}
-{{- $discord := resources.Get ("media/discord.svg") -}}
+{{- $discord := resources.Get ("media/discord-comments.svg") -}}
 {{ if eq .Site.Language.Lang "es" }}
 <div align="center">
-  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
-    <img src="{{ $discord.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Únete al servidor de Discord" width="50%">
-	</a>
+  <h3><a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
+    <img src="{{ $discord.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Únete al servidor de Discord" style="height: 1.4em">
+	</a></h3>
 </div>
 
   <p class="kudos">
@@ -14,18 +14,18 @@
   </p>
 {{ else if eq .Site.Language.Lang "en" }}
 <div align="center">
-  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
-    <img src="{{ $discord.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Join the Discord server" width="50%">  	
-	</a>
+  <h3><a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
+    <img src="{{ $discord.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Join the Discord server" style="height: 1.4em">
+	</a></h3>  
 </div>
   <p class="kudos">
     Actively <strong>participate</strong> in the website by commenting, giving your opinion, making requests, suggestions...
   </p>
 {{ else if eq .Site.Language.Lang "ca" }}
 <div align="center">
-  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
-    <img src="{{ $discord.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Uneix-te a el servidor d'Discord" width="50%">  	
-	</a>
+  <h3><a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
+    <img src="{{ $discord.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Uneix-te a el servidor d'Discord" style="height: 1.4em">
+	</a></h3>  
 </div>
   <p class="kudos">
     <strong>Participa</strong> activament a la web comentant, donant la teva opinió, realitzant peticions, suggeriments...

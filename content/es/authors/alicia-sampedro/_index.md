@@ -48,7 +48,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/AliciaInfoFyQ
   label: Sígueme en Twitter
 # Link to a PDF of your resume/CV from the About widget.

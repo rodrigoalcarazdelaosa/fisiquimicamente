@@ -25,12 +25,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: fluidos-poster.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: fluidos-energia-calor-frikiexamenes.pdf
   
 slides: fluidos-4ESO
@@ -234,7 +234,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 
 {{< youtube o7v9Kbs6e8Y >}}
 
-{{% callout gdrive %}}
+{{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1mPRJVEBM1Fvsm_Q6m0xxHJ4By6MDpdzz/view) puedes descargarte el **guion** de la **práctica**. 
 {{% /callout %}}
 

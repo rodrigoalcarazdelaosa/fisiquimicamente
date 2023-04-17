@@ -25,8 +25,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexamen
+  icon:
+  name: 📝 Frikiexamen
   url: movimiento-parabolico-dinamica-frikiexamen.pdf
 
 slides: 

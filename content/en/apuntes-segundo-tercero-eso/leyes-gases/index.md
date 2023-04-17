@@ -22,7 +22,7 @@ image:
 
 # links:
 # - icon_pack: fas
-#  icon: file-download
+#  icon:
 #  name: Póster
 #  url: leyes-gases-poster.pdf  
 

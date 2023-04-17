@@ -25,32 +25,32 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: enlace-quimico-poster.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Ejercicios de introducción
+  icon:
+  name: 🔗 Ejercicios de introducción
   url: https://drive.google.com/file/d/1DhwzmVzos5UUcrfO30FFC3Hn921qc42m/view
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: enlace-quimico-ejercicios.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/19To593bTwLFtvlyMZ9f1w4FjMRR_NoXz/view
 - icon_pack: fas
-  icon: external-link-alt
-  name: Ejercicios enlace covalente
+  icon:
+  name: 🔗 Ejercicios enlace covalente
   url: https://drive.google.com/file/d/1Gvj18n_6YUQMWqUW-ejYUVMO8kl7ydAZ/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexamen
+  icon:
+  name: 📝 Frikiexamen
   url: enlace-quimico-frikiexamen.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/enlace-quimico/  
   
 slides: enlace-quimico-2Bach-quimica

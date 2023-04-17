@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1024pt"
+   height="1024pt"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg143"
+   sodipodi:docname="facebook.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview145"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.17285156"
+     inkscape:cx="682.66667"
+     inkscape:cy="682.66667"
+     inkscape:window-width="1280"
+     inkscape:window-height="456"
+     inkscape:window-x="1938"
+     inkscape:window-y="502"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg143" />
+  <defs
+     id="defs135">
+    <clipPath
+       id="clip-0">
+      <path
+         clip-rule="nonzero"
+         d="M 0.0585938 0.0390625 L 1024 0.0390625 L 1024 1018 L 0.0585938 1018 Z M 0.0585938 0.0390625 "
+         id="path132" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip-0)"
+     id="g139">
+    <path
+       fill-rule="nonzero"
+       fill="rgb(9.399414%, 46.699524%, 94.898987%)"
+       fill-opacity="1"
+       d="M 1024 512 C 1024 229.230469 794.769531 0 512 0 C 229.230469 0 0 229.230469 0 512 C 0 767.554688 187.230469 979.371094 432 1017.78125 L 432 660 L 302 660 L 302 512 L 432 512 L 432 399.199219 C 432 270.878906 508.4375 200 625.390625 200 C 681.40625 200 740 210 740 210 L 740 336 L 675.4375 336 C 611.835938 336 592 375.46875 592 415.957031 L 592 512 L 734 512 L 711.300781 660 L 592 660 L 592 1017.78125 C 836.769531 979.371094 1024 767.554688 1024 512 "
+       id="path137" />
+  </g>
+  <path
+     fill-rule="nonzero"
+     fill="rgb(100%, 100%, 100%)"
+     fill-opacity="1"
+     d="M 711.300781 660 L 734 512 L 592 512 L 592 415.957031 C 592 375.46875 611.835938 336 675.4375 336 L 740 336 L 740 210 C 740 210 681.40625 200 625.390625 200 C 508.4375 200 432 270.878906 432 399.199219 L 432 512 L 302 512 L 302 660 L 432 660 L 432 1017.78125 C 458.066406 1021.871094 484.785156 1024 512 1024 C 539.214844 1024 565.933594 1021.871094 592 1017.78125 L 592 660 L 711.300781 660 "
+     id="path141" />
+</svg>

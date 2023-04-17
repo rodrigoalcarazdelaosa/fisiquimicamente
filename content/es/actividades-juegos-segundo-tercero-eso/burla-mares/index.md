@@ -24,16 +24,16 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Capítulos
+  icon:
+  name: 📑 Capítulos
   url: burla-mares-capitulos.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Mapas
+  icon:
+  name: 🗺️ Mapas
   url: burla-mares-mapas.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Soluciones
+  icon:
+  name: 📋 Soluciones
   url: burla-mares-soluciones.pdf
 ---
 

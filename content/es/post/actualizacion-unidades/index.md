@@ -20,17 +20,17 @@ image:
   caption: "[https://www.cem.es/es/cem/metrologia/sistema-internacional-unidades-si](https://www.cem.es/es/cem/metrologia/sistema-internacional-unidades-si)"
 links:
 - icon_pack: fas
-  icon: file-download
-  name: PDF BOE
+  icon:
+  name: 📄 PDF BOE
   url: https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf
   
 - icon_pack: fas
-  icon: file-download
-  name: Póster Nuevo SI
+  icon: 
+  name: 📜 Póster Nuevo SI
   url: poster-nuevo-SI.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Resumen conciso SI
+  icon:
+  name: 📄 Resumen conciso SI
   url: https://www.cem.es/sites/default/files/documentos/2021-07/Resumen%20conciso%20del%20SI%20%289ª%20ed_2019%29_0.pdf
 
 math: true
@@ -60,7 +60,7 @@ Esta actualización se realizó para conseguir definir todas las unidades **en f
 | Mol (mol)        | Constante de Avogadro ($N_\mathrm A$)                                        |
 | Candela (cd)     | Eficacia luminosa de la radiación de frecuencia $540\times 10^{12}\thinspace\mathrm{Hz}$ ($K_\mathrm{cd}$) |
 
-## R.D. 493/2020, de 28 de abril [{{< icon name="download" pack="fas" >}}PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
+## R.D. 493/2020, de 28 de abril [📄 PDF](https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf)
 
 El 29 de abril de 2020 se publicó en el BOE el _Real Decreto 493/2020, de 28 de abril, por el que se modifica el Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida_.
 

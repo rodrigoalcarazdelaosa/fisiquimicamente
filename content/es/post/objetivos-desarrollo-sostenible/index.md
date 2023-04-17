@@ -18,8 +18,8 @@ image:
   caption: "https://www.un.org/sustainabledevelopment/es/news/communications-material/"
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Guía de los vagos para salvar el mundo
+  icon:
+  name: 🗒️ Guía de los vagos para salvar el mundo
   url: https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2019/04/17-00011_LazyPersonGuide_flyer_Spanish_final.pdf
 ---
 

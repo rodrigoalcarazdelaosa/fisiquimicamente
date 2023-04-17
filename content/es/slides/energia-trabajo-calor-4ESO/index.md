@@ -25,7 +25,7 @@ slides:
 - [Efectos del calor sobre los cuerpos](#/7)
 - [Máquinas térmicas](#/8)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -3663,7 +3663,7 @@ El más utilizado es el de **cuatro tiempos** (gasolina), siendo el **ciclo de O
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

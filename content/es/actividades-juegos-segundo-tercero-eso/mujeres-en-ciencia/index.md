@@ -22,8 +22,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: external-link-alt
-  name: Cartas
+  icon:
+  name: 🔗 Cartas
   url: https://www.luanagames.com/es.pdf
 ---
 

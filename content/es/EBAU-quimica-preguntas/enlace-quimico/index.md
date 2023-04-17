@@ -24,8 +24,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Enunciados
+  icon:
+  name: 📝 Enunciados
   url: enlace-quimico-EBAU-Quimica-enunciados.pdf
 ---
 

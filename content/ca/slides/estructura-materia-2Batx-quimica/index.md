@@ -25,7 +25,7 @@ slides:
 - [Estructura electrònica](#/5)
 - [Partícules subatòmiques](#/6)
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 
 </section>
 
@@ -464,7 +464,7 @@ Després dels descobriments de **Thomson**, **Rutherford** i **Chadwick** a prin
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+📥 Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
 
 1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
 2. Canvia la **Destinació** a **Desa com a PDF**.

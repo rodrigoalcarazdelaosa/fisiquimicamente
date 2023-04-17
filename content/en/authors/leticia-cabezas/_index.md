@@ -47,11 +47,11 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/ProfaDeQuimica
   label: Follow me on Twitter
 - icon: instagram
-  icon_pack: fab
+  icon_pack: svg
   link: https://www.instagram.com/profadequimica/
   label: Follow me on Instagram
 # Link to a PDF of your resume/CV from the About widget.

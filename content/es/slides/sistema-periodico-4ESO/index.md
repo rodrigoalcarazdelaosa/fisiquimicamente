@@ -24,7 +24,7 @@ slides:
 - [La tabla periódica de los elementos](#/4)
 - [Clasificación de los elementos químicos](#/5)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -241,7 +241,7 @@ Según sus **propiedades físicas** y **químicas comunes**, los elementos quím
 ---
 
 #### Formación de iones
-Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon name="plus-circle" pack="fas" >}}).
+Tienden a **ceder electrones**, formando **cationes** (iones con carga ➕).
 
 ---
 
@@ -275,7 +275,7 @@ Tienden a **ceder electrones**, formando **cationes** (iones con carga {{< icon 
 ---
 
 #### Formación de iones
-Tienden a **captar electrones**, formando **aniones** (iones con carga {{< icon name="minus-circle" pack="fas" >}}).
+Tienden a **captar electrones**, formando **aniones** (iones con carga ➖).
 
 ---
 
@@ -301,7 +301,7 @@ He, Ne, Ar, Kr, Xe y ☢️ Rn.
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

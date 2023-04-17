@@ -5,10 +5,10 @@ weight: 1
 title: 🏥 Radiofísica Hospitalaria (RFIR)
 hero_media: "radiofisica/radiofisica.mp4"
 cta:
-  label: 'Descarga el póster'
+  label: '📜 Descarga el póster'
   url: "/media/radiofisica/poster-sefm.pdf"
   icon_pack: fas
-  icon: file-download
+  icon:
 cta_alt:
   label: O en formato tríptico ➡️
   url: "/media/radiofisica/triptico-sefm.pdf"

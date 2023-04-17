@@ -26,32 +26,32 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: acido-base-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios
+  icon:
+  name: ✏️ Ejercicios
   url: acido-base-ejercicios.pdf
 - icon_pack: fas
-  icon: table
-  name: Tablas
+  icon:
+  name: 🔢 Tablas
   url: acido-base-tablas.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Prácticas de laboratorio
+  icon:
+  name: 🥼 Prácticas de laboratorio
   url: acido-base-practicas.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1zF1ZXnjcnoOfxCIskCZkVuQLirX01s0L/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: acido-base-frikiexamenes.pdf
 - icon_pack: fas
-  icon: graduation-cap
-  name: Ejercicios EBAU
+  icon:
+  name: 🎓 Ejercicios EBAU
   url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/acido-base/  
 
 slides: acido-base-2Bach-quimica

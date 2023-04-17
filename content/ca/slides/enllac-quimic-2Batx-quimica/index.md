@@ -26,7 +26,7 @@ slides:
 - [Geometria molecular](#/6)
 - [Forces intermoleculars](#/7)
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 
 </section>
 
@@ -613,7 +613,7 @@ Els **enllaços** d'**hidrogen** són **responsables** de:
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+📥 Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
 
 1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
 2. Canvia la **Destinació** a **Desa com a PDF**.

@@ -17,28 +17,28 @@ image:
 #  caption: Tabla Periódica DC
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Versión color
+  icon:
+  name: 📄 Versión color
   url: tabla-periodica-elementos.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Versión blanco y negro
+  icon:
+  name: 📄 Versión blanco y negro
   url: tabla-periodica-elementos-blanco-negro.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Versión sin nombres
+  icon:
+  name: 📄 Versión sin nombres
   url: tabla-periodica-elementos-sin-nombres.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Versión configuraciones electrónicas
+  icon:
+  name: 📄 Versión configuraciones electrónicas
   url: tabla-periodica-elementos-configuraciones-electronicas.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Versión estados de oxidación
+  icon:
+  name: 📄 Versión estados de oxidación
   url: tabla-periodica-elementos-estados-oxidacion.pdf  
 - icon_pack: fas
-  icon: file-download
-  name: Cómic
+  icon:
+  name: 💬 Cómic
   url: https://150tpuscsic.wixsite.com/150tp/comic
 ---
 

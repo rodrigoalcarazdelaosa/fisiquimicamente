@@ -24,12 +24,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: external-link
-  name: Recurso (REA)
+  icon:
+  name: 🔗 Recurso (REA)
   url: https://descargas.intef.es/recursos_educativos/ODES_SGOA/Bachillerato/FQ/3B.6_-_Fsica_nuclear/index.html
 - icon_pack: fas
-  icon: file-code
-  name: Fichero fuente (.elp)
+  icon:
+  name: 📄 Fichero fuente (.elp)
   url: https://descargas.intef.es/recursos_educativos/ODES_SGOA/Bachillerato/FQ/3B.6_-_Fsica_nuclear/3B.6_-_Fsica_nuclear.elp
 ---
 

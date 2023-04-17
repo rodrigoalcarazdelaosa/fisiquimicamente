@@ -25,12 +25,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Tablero
+  icon:
+  name: 🧩 Tablero
   url: tablero-reglas.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Dados
+  icon:
+  name: 🎲 Dados
   url: dados.pdf
 ---
 

@@ -23,12 +23,12 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: estructura-atomica-poster.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Unidad didáctica CERN
+  icon:
+  name: 🗒️ Unidad didáctica CERN
   url: unidad-didactica-CERN.pdf
   
 slides: estructura-atomica-2ESO-3ESO

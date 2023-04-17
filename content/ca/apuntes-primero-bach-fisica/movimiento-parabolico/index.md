@@ -23,7 +23,7 @@ image:
 
 links:
 #- icon_pack: fas
-#  icon: file-download
+#  icon:
 #  name: Póster
 #  url: movimiento-parabolico-poster.pdf
 

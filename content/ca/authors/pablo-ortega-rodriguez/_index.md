@@ -47,19 +47,19 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
   link: https://twitter.com/pablofcayqca
   label: Segueix-me a Twitter
 - icon: facebook
-  icon_pack: fab
+  icon_pack: svg
   link: https://www.facebook.com/aprendizajebasadoenjuegos
   label: Segueix-me a Facebook
 - icon: instagram
-  icon_pack: fab
+  icon_pack: svg
   link: https://www.instagram.com/pablofcayqca/
   label: Segueix-me a Instagram
-- icon: globe
-  icon_pack: fas
+- icon: 🌐
+  icon_pack: emoji
   link: https://www.aprendizajebasadoenjuegos.es/
   label: Visita el meu estudi (ABJ Ediciones)
 # Link to a PDF of your resume/CV from the About widget.

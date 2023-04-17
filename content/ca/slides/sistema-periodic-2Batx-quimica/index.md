@@ -22,7 +22,7 @@ slides:
 - [Apantallament i càrrega nuclear efectiva](#/2)
 - [Propietats periòdiques](#/3)
 
-Descarrega aquestes diapositives en format PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 
 </section>
 
@@ -206,7 +206,7 @@ La **càrrega nuclear efectiva** és **constant** però **augmenta** el **radi**
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+📥 Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
 
 1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
 2. Canvia la **Destinació** a **Desa com a PDF**.

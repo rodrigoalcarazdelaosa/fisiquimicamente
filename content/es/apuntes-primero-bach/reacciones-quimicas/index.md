@@ -26,20 +26,20 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: reacciones-quimicas-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Ejercicios ajustes
+  icon:
+  name: ✏️ Ejercicios ajustes
   url: ajuste-ecuaciones-quimicas-ejercicios.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Más ejercicios
+  icon:
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1_E6cVuBxyDmBam803B949yPKyHHajLXt/view
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: disoluciones-reacciones-quimicas-frikiexamenes.pdf  
   
 slides: reacciones-quimicas-1Bach

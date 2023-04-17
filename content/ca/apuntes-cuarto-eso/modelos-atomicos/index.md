@@ -26,8 +26,8 @@ image:
 
 links:  
 - icon_pack: fas
-  icon: file-download
-  name: Pòster
+  icon:
+  name: 📜 Pòster
   url: models-atomics-poster.pdf
 - icon_pack: fas
   icon: pencil-ruler

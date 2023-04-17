@@ -26,20 +26,20 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: disoluciones-poster.pdf
 - icon_pack: fas
-  icon: external-link-alt
-  name: Ejercicios
+  icon:
+  name: 🔗 Ejercicios
   url: https://drive.google.com/file/d/1eO4Hd_M8IoPcfWDl0V2215oPCi45xck4/view
 - icon_pack: fas
-  icon: file-download
-  name: Prácticas de laboratorio
+  icon:
+  name: 🥼 Prácticas de laboratorio
   url: disoluciones-practicas-laboratorio.pdf
 - icon_pack: fas
-  icon: file-download
-  name: Frikiexámenes
+  icon:
+  name: 📝 Frikiexámenes
   url: disoluciones-reacciones-quimicas-frikiexamenes.pdf
 
 slides: disoluciones-1Bach

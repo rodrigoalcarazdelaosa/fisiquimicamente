@@ -27,7 +27,7 @@ image:
 
 # links:
 # - icon_pack: fas
-#   icon: external-link-alt
+#   icon:
 #   name: Genially
 #   url: https://view.genial.ly/6041e87fbfab4f44fdb613d9/presentation-trivial-de-quimica
 ---

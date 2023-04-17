@@ -74,7 +74,7 @@
     {{ if site.Menus.main }}
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
-    <span><i class="fas fa-bars"></i></span>
+    <span>☰</span>
     </button>
     {{ end }}
 
@@ -236,7 +236,14 @@
            <!-- <li class="nav-item"> -->
             <li class="nav-item d-none d-lg-inline-flex">
              <a class="nav-link" href="{{ $social_link.link | safeURL }}"{{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="bottom" title="{{.}}"{{ end }} {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.aria_label }}">
-               <i class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}" aria-hidden="true"></i>
+          {{ if eq $social_link.icon_pack "emoji" }}
+              {{- $social_link.icon | markdownify | emojify -}}
+        {{ else if eq $social_link.icon_pack "svg" }}
+            {{- $svg_icon := resources.Get (printf "media/icons/%s.png" .icon) | default (resources.Get (printf "media/icons/%s.svg" .icon)) -}}
+            <img src="{{ $svg_icon.RelPermalink }}" alt="{{ $social_link.icon }}" class="svg-icon svg-baseline" loading="lazy">
+         {{ else }}
+            <i class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}" aria-hidden="true"></i>
+         {{ end }}               
              </a>
            </li>
          {{ end }}
@@ -246,7 +253,7 @@
       {{ $show_search := site.Params.header.navbar.show_search | default true }}
       {{ if and site.Params.features.search.provider $show_search | and (ne (lower site.Params.features.search.provider) "docsearch") }}
       <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label="{{ i18n "search" }}"><i class="fas fa-search" aria-hidden="true" data-toggle="tooltip" title aria-label="search" data-original-title="{{ i18n "search" }}"></i></a>
+        <a class="nav-link js-search" href="#" aria-label="{{ i18n "search" }}"><span data-toggle="tooltip" data-placement="bottom" data-original-title="{{ i18n "search" }}">🔍</span></a>
       </li>
       {{ end }}
 
@@ -255,7 +262,7 @@
       {{ if and $has_day_night_themes $show_day_night }}
       <li class="nav-item dropdown theme-dropdown">
 		<a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="{{ i18n "theme_selector" | default "Display preferences" }}">
-          <i class="fas fa-moon" aria-hidden="true"></i>
+      🌙          
         </a>
         <div class="dropdown-menu">
           <a href="#" class="dropdown-item js-set-theme-light">
@@ -276,7 +283,7 @@
       <li class="nav-item dropdown i18n-dropdown">
         <a href="#" class="nav-link {{ if $show_current_language }}dropdown-toggle{{end}}" data-toggle="dropdown"
             aria-haspopup="true" aria-label="{{ i18n "languages" | default "Languages" }}">
-          <i class="fas fa-globe" aria-hidden="true"></i>
+            🌐
           {{- if $show_current_language -}}
             <span class="d-none d-lg-inline">{{ index site.Data.i18n.languages .Lang }}</span>
           {{- end -}}
@@ -297,11 +304,11 @@
 	  <!-- Paypal -->
     <li class="nav-item">
       {{ if eq .Site.Language.Lang "es" }}
-        <a class="nav-link" href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR" data-target="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR" target="_blank" rel="noopener" aria-label="PayPal"><i class="fas fa-coffee" data-toggle="tooltip" aria-hidden="true" data-original-title="{{ i18n "paypal" }}"></i></a>
+        <a class="nav-link" href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR" data-target="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR" target="_blank" rel="noopener" aria-label="PayPal"><span data-toggle="tooltip" data-placement="bottom" data-original-title="{{ i18n "paypal" }}">☕</span></a>        
       {{ else if eq .Site.Language.Lang "ca" }}
-        <a class="nav-link" href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR" data-target="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR" target="_blank" rel="noopener" aria-label="PayPal"><i class="fas fa-coffee" data-toggle="tooltip" aria-hidden="true" data-original-title="{{ i18n "paypal" }}"></i></a>
+        <a class="nav-link" href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR" data-target="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR" target="_blank" rel="noopener" aria-label="PayPal"><span data-toggle="tooltip" data-placement="bottom" data-original-title="{{ i18n "paypal" }}">☕</span></a>
       {{ else if eq .Site.Language.Lang "en" }}
-        <a class="nav-link" href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR" data-target="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR" target="_blank" rel="noopener" aria-label="PayPal"><i class="fas fa-coffee" data-toggle="tooltip" aria-hidden="true" data-original-title="{{ i18n "paypal" }}"></i></a>
+        <a class="nav-link" href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR" data-target="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR" target="_blank" rel="noopener" aria-label="PayPal"><span data-toggle="tooltip" data-placement="bottom" data-original-title="{{ i18n "paypal" }}">☕</span></a>
       {{ end }}
     </li>
 

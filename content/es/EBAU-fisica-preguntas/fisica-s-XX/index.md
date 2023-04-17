@@ -25,8 +25,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Enunciados
+  icon:
+  name: 📝 Enunciados
   url: fisica-s-XX-EBAU-Fisica-enunciados.pdf
 ---
 

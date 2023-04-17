@@ -21,8 +21,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: external-link-alt
-  name: IUPAC Guide
+  icon:
+  name: 🔗 IUPAC Guide
   url: https://iupac.org/wp-content/uploads/2018/05/Inorganic-Brief-Guide-V1-3.pdf
 
 ---

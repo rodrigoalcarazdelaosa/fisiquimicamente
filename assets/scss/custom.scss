@@ -391,11 +391,21 @@ td[colspan]:not([colspan="1"]) {
  *  Callouts
  **************************************************/
 
+.article-style aside p::before,
+div.alert > div:first-child::before {  
+  content: 'ℹ️';  
+}
+
+div.alert-warning > div:first-child::before {  
+  content: '⚠️';
+  color: $nord0;
+}
+
 .article-style aside a, div.alert a {
   color: currentColor !important;  
 }
 
- div.alert > div:first-child::before {
+div.alert > div:first-child::before {
   color: $primary;
 }
   
@@ -405,10 +415,6 @@ td[colspan]:not([colspan="1"]) {
   border-color: $nord13;
 }
 
-div.alert-warning > div:first-child::before {
-  color: $nord0;
-}
-
 .alert-warning {
   color: $nord0;
   background-color: $nord12;
@@ -416,10 +422,9 @@ div.alert-warning > div:first-child::before {
 }
 
 div.alert-example > div:first-child::before {
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 900;
+  font-family: '';
+  content: '💡';
   color: $nord0;
-  content: '\f0eb';
 }
 
 .alert-example {
@@ -429,29 +434,15 @@ div.alert-example > div:first-child::before {
 }
 
 div.alert-game > div:first-child::before {
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 900;
+  font-family: '';
+  content: '🧩';
   color: $nord0;
-  content: '\f12e';
 }
 
 .alert-game {
   color: $nord0;
   background-color: $nord14;
   border-color: $nord14;
-}
-
-div.alert-gdrive > div:first-child::before {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 900;
-  color: $nord0;
-  content: '\f3aa';
-}
-
-.alert-gdrive {
-  color: $nord0;
-  background-color: $nord13;
-  border-color: $nord13;
 }
 
 div.alert-thanks > div:first-child::before {
@@ -624,6 +615,8 @@ a.summary-link {
 }
   
 .card .card-image.hover-overlay::after {
+  font-family: '';  
+  content: '🔗';
   color: $nord3;
 }
 
@@ -647,6 +640,11 @@ a.summary-link {
 
 .search-modal {
   background-color: $sta-background;
+}
+
+#search-box::before {
+  font-family: '';
+  content: '🔍';
 }
 
 #search-box #search-query {

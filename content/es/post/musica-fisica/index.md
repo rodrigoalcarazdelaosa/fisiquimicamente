@@ -124,7 +124,7 @@ La mayoría de acordes están compuestos de la primera nota (definida por el aco
 
 | | Fundamental | Tercera | Quinta justa |
 | :-: | :-: | :-: | :-: |
-| Acorde de quinta de Do | Do | {{< icon name="xmark" pack="fas" >}} | Sol |
+| Acorde de quinta de Do | Do | ✖️ | Sol |
 | Acorde mayor de Do | Do | Mi | Sol |
 | Acorde menor de Do | Do | Mi♭ | Sol |
 

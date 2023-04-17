@@ -46,13 +46,13 @@ Les entradas d'aquest blog van dirigidas al nostre alumnat i a tots aquells que 
 
 ## Com pots participar?
 
-### {{< icon name="discord" pack="fab" >}} Discord
+### {{< icon name="discord" pack="svg" >}} Discord
 
 Coneixes [Discord](https://discord.com/)? [Uneix-te al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](https://discord.gg/kJqPqTJ) i comença a **participar** a la web comentant, donant la teva opinió, realitzant peticions, suggeriments, etc.
 
 ### *Cafès* (donacions)
 
-Si vols reconèixer i lloar el nostre esforç, animant-nos a seguir preparant materials de qualitat, [pots convidar-nos a un cafè](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR) utilitzant el servei [{{< icon name="paypal" pack="fab" >}}PayPal](https://www.paypal.com/es/home). Tots els *cafès* es destinaran a pagar i seguir millorant [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/).
+Si vols reconèixer i lloar el nostre esforç, animant-nos a seguir preparant materials de qualitat, [pots convidar-nos a un cafè](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR) utilitzant el servei [{{< icon name="paypal" pack="svg" >}}PayPal](https://www.paypal.com/es/home). Tots els *cafès* es destinaran a pagar i seguir millorant [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/).
 
 ### Compartint
 
@@ -60,10 +60,10 @@ També pots <strong>compartir</strong> totes les <strong>entrades</strong> del <
 
 ### Subscrivint-te
 
-Si no et vols perdre cap **actualizació** pots **subscriure't** al [**canal** de {{< icon name="telegram" pack="fab" >}} **Telegram**](https://t.me/fisiquimicamente) (en espanyol) o al [**canal {{< icon name="rss" pack="fas" >}} RSS**](/index.xml).
+Si no et vols perdre cap **actualizació** pots **subscriure't** al [**canal** de {{< icon name="telegram" pack="svg" >}} **Telegram**](https://t.me/fisiquimicamente) (en espanyol) o al [**canal {{< icon name="rss" pack="svg" >}} RSS**](/index.xml).
 
 ### Contactant-nos
 
-A més, pots **escriure'ns** o bé utilizant el [**formulari** de **contacte**]({{< ref "/#contacte" >}}) o bé des de [{{< icon name="twitter" pack="fab" >}} **Twitter**](https://twitter.com/fqmente). També pots seguir-nos a [{{< icon name="instagram" pack="fab" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="fab" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
+A més, pots **escriure'ns** o bé utilizant el [**formulari** de **contacte**]({{< ref "/#contacte" >}}) o bé des de [{{< icon name="twitter" pack="svg" >}} **Twitter**](https://twitter.com/fqmente). També pots seguir-nos a [{{< icon name="instagram" pack="svg" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) o [{{< icon name="pinterest" pack="svg" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).
 
 Esperem que gaudeixis d'aquest espai i que et resulti d'utilitat. Anima't a participar sempre que et vingui de gust. Ens seguim llegint amic/ga.

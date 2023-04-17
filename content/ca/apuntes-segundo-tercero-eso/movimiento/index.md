@@ -24,8 +24,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Pòster
+  icon:
+  name: 📜 Pòster
   url: moviment-poster.pdf
   
 slides:

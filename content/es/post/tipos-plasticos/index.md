@@ -24,8 +24,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: tipos-plasticos-poster.pdf  
 
 quizdown: true

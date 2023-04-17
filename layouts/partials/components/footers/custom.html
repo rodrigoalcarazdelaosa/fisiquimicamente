@@ -1,6 +1,6 @@
 {{ if .IsTranslated | and site.Params.footer.show_translations }}
 <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
-  <div class="p-2 font-weight-bold"><i class="fas fa-globe pr-1" aria-hidden="true"></i>{{ i18n "languages" }}:</div>
+  <div class="p-2 font-weight-bold"><span class="pr-1" aria-hidden="true">🌐</span>{{ i18n "languages" }}:</div>
   <div class="p-2">{{ index site.Data.i18n.languages .Lang }}</div>
   {{ range .Translations }}
   <div class="p-2"><a href="{{ .Permalink }}">{{ index site.Data.i18n.languages .Lang }}</a></div>
@@ -41,8 +41,15 @@
     {{ $social_link := partial "functions/get_social_link" . }}
     <li>
       <a href="{{ $social_link.link | safeURL }}" {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.icon }}">
-        <i {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" title="{{$social_link.label}}"{{ end }} class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
-      </a>
+        {{ if eq $social_link.icon_pack "emoji" }}
+            <span {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }}>{{- $social_link.icon | markdownify | emojify -}}</span>
+        {{ else if eq $social_link.icon_pack "svg" }}
+            {{- $svg_icon := resources.Get (printf "media/icons/%s.png" .icon) | default (resources.Get (printf "media/icons/%s.svg" .icon)) -}}
+            <img {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} src="{{ $svg_icon.RelPermalink }}" alt="{{ $social_link.icon }}" class="svg-icon svg-baseline" loading="lazy">
+         {{ else }}
+            <i {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
+         {{ end }}
+      </a> 
     </li>
   {{ end }}
 {{ end }}
@@ -84,11 +91,11 @@
   
   <p class="powered-by">
     {{ if eq .Site.Language.Lang "es" }}
-    Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><i class='fab fa-github mr-1'></i>GitHub</a><span class="middot-divider"></span>Servido por <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmación:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
+    Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.svg"> GitHub</a><span class="middot-divider"></span>Servido por <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmación:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
 {{ else if eq .Site.Language.Lang "en" }}
-    Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><i class='fab fa-github mr-1'></i>GitHub</a><span class="middot-divider"></span>Served by <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Latest&nbsp;commit:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
+    Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.svg"> GitHub</a><span class="middot-divider"></span>Served by <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Latest&nbsp;commit:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
 {{ else if eq .Site.Language.Lang "ca" }}
-Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><i class='fab fa-github mr-1'></i>GitHub</a><span class="middot-divider"></span>Servit per <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmació:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
+Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.svg"> GitHub</a><span class="middot-divider"></span>Servit per <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmació:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
 {{ end }}
   
 </p>

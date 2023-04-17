@@ -22,8 +22,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: file-download
-  name: Póster
+  icon: 
+  name: 📜 Póster
   url: leyes-gases-poster.pdf  
 
 slides: "leyes-gases-3ESO"

@@ -19,7 +19,7 @@ image:
 #  caption: Tabla Periódica DC
 #links:
 #- icon_pack: fas
-#  icon: file-download
+#  icon:
 #  name: PDF
 #  url: pdf/periodic-table-scientists.pdf
 ---

@@ -21,7 +21,7 @@ slides:
 [Corriente eléctrica](#/1) | [Magnitudes eléctricas](#/2) | [Ley de Ohm](#/3) | [Buenos y malos conductores](#/4) | [Máquinas eléctricas](#/5) | 
 [Circuitos eléctricos](#/6) | [Dispositivos electrónicos](#/7) | [Aspectos industriales de la energía](#/8)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -388,7 +388,7 @@ Los microchips están ahora en prácticamente todos los equipos electrónicos, g
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

@@ -24,7 +24,7 @@ slides:
 - [Encuentros](#/5)
 - [Movimiento circular uniforme (MCU)](#/6)
 
-Descarga estas diapositivas en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
 
@@ -492,7 +492,7 @@ y siempre se dirige hacia el centro de la circunferencia.
 
 ### Ejemplo
 
-<q>Las aspas de un ventilador {{< icon name="fan" pack="fas" >}} giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a 30&thinsp;cm del centro; c) el número de vueltas que darán las aspas en 5&thinsp;min.</q>
+<q>Las aspas de un ventilador giran uniformemente a razón de 90 vueltas por minuto (rpm). Determina: a) su velocidad angular, en rad/s; b) la velocidad lineal de un punto situado a 30&thinsp;cm del centro; c) el número de vueltas que darán las aspas en 5&thinsp;min.</q>
 
 ---
 
@@ -530,7 +530,7 @@ $$
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

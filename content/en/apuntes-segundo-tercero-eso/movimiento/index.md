@@ -26,7 +26,7 @@ image:
 #  url: movimientos_texto.pdf
   
 # - icon_pack: fas
-#  icon: file-download
+#  icon:
 #  name: Póster
 #  url: movimientos_poster.pdf  
 ---

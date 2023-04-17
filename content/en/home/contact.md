@@ -16,23 +16,23 @@ content:
   email:
   contact_links:
     - icon: "twitter"
-      icon_pack: "fab"
+      icon_pack: svg
       name: "Follow us on Twitter"
       link: "https://twitter.com/fqmente"
     - icon: "instagram"
-      icon_pack: "fab"
+      icon_pack: svg
       name: "Follow us on Instagram"
       link: "https://www.instagram.com/fisiquimicamente/"
     - icon: "pinterest"
-      icon_pack: "fab"
+      icon_pack: svg
       name: "Follow us on Pinterest"
       link: "https://www.pinterest.es/fisiquimicamente/"
     - icon: telegram
-      icon_pack: fab
+      icon_pack: svg
       name: "Subscribe to the Telegram channel"
       link: "https://t.me/fisiquimicamente"      
     - icon: "discord"
-      icon_pack: "fab"
+      icon_pack: svg
       name: "Join the Discord server"
       link: "https://discord.gg/kJqPqTJ"    
 
