@@ -56,7 +56,7 @@ pluginOptions = keysToCamelCase(pluginOptions);
 
 //enable menu by default if not set
 if (typeof pluginOptions.menu_enabled === 'undefined') {
-  pluginOptions.menu_enabled = true;
+  pluginOptions.menu_enabled = false;
 }
 
 // configure menu if enabled
