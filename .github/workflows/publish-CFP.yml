@@ -38,7 +38,7 @@ jobs:
         with:
           fetch-depth: 0
           # Fetch **all** history (not just deploy commit) for Hugo's .GitInfo and .Lastmod
-          # See https://discourse.gohugo.io/t/problems-with-gitinfo-in-ci/22480      
+          # See https://discourse.gohugo.io/t/problems-with-gitinfo-in-ci/22480
 
       - name: Set up Go
         uses: actions/setup-go@v4
@@ -53,6 +53,13 @@ jobs:
 
       - name: Install Hugo
         run: sudo dpkg -i hugo*.deb
+
+      - name: Cache Hugo resources
+        id: cache-resources
+        uses: actions/cache@v3
+        with:
+          path: resources
+          key: ${{ runner.os }}-resources
 
       - name: Build site with Hugo
         run: source get_last_commit_hash.sh && hugo --gc --minify
