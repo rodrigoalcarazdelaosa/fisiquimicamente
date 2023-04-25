@@ -126,10 +126,10 @@ Tomado de [aquí](https://en.wikipedia.org/wiki/Electronic_color_code#Color_band
 <thead>
 <tr>
 <th>Color</th>
-<th align="center">1ª cifra</th>
-<th align="center">2º cifra</th>
-<th align="center">Multiplicador</th>
-<th align="center">Tolerancia</th>
+<th class="text-center">1ª cifra</th>
+<th class="text-center">2º cifra</th>
+<th class="text-center">Multiplicador</th>
+<th class="text-center">Tolerancia</th>
 </tr>
 </thead>
 <tbody>

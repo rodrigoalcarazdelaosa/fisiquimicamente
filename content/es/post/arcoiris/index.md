@@ -15,6 +15,7 @@ tags:
 - arcoíris
 - dispersión
 - ley-Snell
+- luz
 categories:
 - Física
 image:
