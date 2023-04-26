@@ -39,7 +39,7 @@ Empecemos con un [haz monocromático](https://es.wikipedia.org/wiki/Luz_monocrom
         allowfullscreen>
 </iframe>
 
-Iluminemos ahora el prisma con luz blanca, como hiciera entre 1670 y 1672 [Newton](https://es.wikipedia.org/wiki/Isaac_Newton) para explicar su revolucionaria teoría del color. La dispersión en colores de la luz blanca refractada en el prisma ya le reveló que la luz blanca se compone de todos los colores del arcoíris.
+Iluminemos ahora el prisma con luz blanca, [como hiciera entre 1666 y 1672 Newton](https://www.jstor.org/stable/531655) para explicar su revolucionaria teoría del color. La dispersión en colores de la luz blanca refractada en el prisma ya le reveló que la luz blanca se compone de todos los colores del arcoíris.
 
 ![newton prisma](https://cdn.shopify.com/s/files/1/0044/3708/2200/files/CT_Blog_1_images_Newton_s_experiment.jpg?v=1641917624 "Fuente: https://copic.too.com/blogs/educational/the-color-wheel-then-and-now")
 
