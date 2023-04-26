@@ -43,7 +43,9 @@ Iluminemos ahora el prisma con luz blanca, como hiciera entre 1670 y 1672 [Newto
 
 ![newton prisma](https://cdn.shopify.com/s/files/1/0044/3708/2200/files/CT_Blog_1_images_Newton_s_experiment.jpg?v=1641917624 "Fuente: https://copic.too.com/blogs/educational/the-color-wheel-then-and-now")
 
-El [índice de refracción](https://es.wikipedia.org/wiki/Índice_de_refracción), de 1.5 en el prisma, cuantifica cuánto se desvía el haz de luz blanco incidente, a partir de la [ley de Snell](https://es.wikipedia.org/wiki/Ley_de_Snell). Haciendo cálculos, se obtiene, por ejemplo, un ángulo de refracción β = 28° para α = 45°. Entonces, ¿acaso se desvía toda la luz blanca exactamente ese mismo ángulo?
+El [índice de refracción](https://es.wikipedia.org/wiki/Índice_de_refracción), de 1.5 en el prisma, cuantifica cuánto se desvía el haz de luz blanco incidente[^1], a partir de la [ley de Snell](https://es.wikipedia.org/wiki/Ley_de_Snell). Haciendo cálculos, se obtiene, por ejemplo, un ángulo de refracción β = 28° para α = 45°. Entonces, ¿acaso se desvía toda la luz blanca exactamente ese mismo ángulo?
+
+[^1]: El índice de refracción, *n*, de un medio, se define como el cociente entre la velocidad de la luz en el vacío, *c*, y la velocidad de la luz en el medio, *v*: *n*&thinsp;=&thinsp;*c/v*.
 
 {{< figure src="desviacion-prisma.svg" title="Diagrama mostrando el desvío de un rayo al entrar en un prisma de vidrio. La ley de Snell nos proporciona el ángulo de refracción (β) para cada posible ángulo de incidencia (α) dado el índice de refracción (*n*) del material, según la expresión: sin&thinsp;α&thinsp;=&thinsp;*n*&thinsp;·&thinsp;sin&thinsp;β. Adaptada de https://www.chegg.com/learn/topic/angle-of-deviation-in-refraction." lightbox="false" width="100%" theme="light" >}}
 
@@ -51,7 +53,9 @@ Según la portada de Pink Floyd, habría dispersión de ángulos en la luz blanc
 
 {{< figure src="dsom.svg" title="https://commons.wikimedia.org/wiki/File:The_Dark_Side_of_the_Moon_Cover.svg" lightbox="false" width="100%" >}}
 
-En realidad, los distintos colores que forman la luz blanca ya se observan dentro del vidrio. Es decir, experimentalmente vemos que la luz no solo se desvía de su trayectoria inicial un cierto ángulo dado por el índice de refracción, sino que esa desviación es distinta según su longitud de onda.
+En realidad, los distintos colores que forman la luz blanca ya se observan dentro del vidrio. Es decir, experimentalmente vemos que la luz no solo se desvía de su trayectoria inicial un cierto ángulo dado por el índice de refracción, sino que esa desviación es distinta según su longitud de onda[^2].
+
+[^2]: Además del error indicado, entre otras cosas, la distribución espacial de colores es también incorrecta, puesto que el naranja es un intervalo muy pequeño mientras que el rojo es un intervalo muy grande.
 
 ![prisma](prisma.jpg "https://www.britannica.com/technology/prism-optics")
 
