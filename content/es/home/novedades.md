@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Nieve"
-      url: 'blog/2023/03/31/nieve/'
+      text: "Dispersión de colores en un prisma"
+      url: 'blog/2023/04/26/dispersion-de-colores-en-un-prisma/'
 ---

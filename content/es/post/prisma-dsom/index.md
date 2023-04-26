@@ -3,7 +3,7 @@ title: Dispersión de colores en un prisma
 subtitle: De Newton a la icónica portada de Pink Floyd
 summary: "De Newton a la icónica portada de Pink Floyd."
 breadcrumbs: ["blog"]
-date: "2023-04-25T00:00:00+02:00"
+date: "2023-04-26T00:00:00+02:00"
 authors:
 - manuel-alonso-orts
 tags:
@@ -45,7 +45,7 @@ Iluminemos ahora el prisma con luz blanca, como hiciera entre 1670 y 1672 [Newto
 
 El [índice de refracción](https://es.wikipedia.org/wiki/Índice_de_refracción), de 1.5 en el prisma, cuantifica cuánto se desvía el haz de luz blanco incidente, a partir de la [ley de Snell](https://es.wikipedia.org/wiki/Ley_de_Snell). Haciendo cálculos, se obtiene, por ejemplo, un ángulo de refracción β = 28° para α = 45°. Entonces, ¿acaso se desvía toda la luz blanca exactamente ese mismo ángulo?
 
-{{< figure src="desviacion-prisma.svg" title="Diagrama mostrando el desvío de un rayo al entrar en un prisma de vidrio. La ley de Snell nos proporciona el ángulo de refracción (β) para cada posible ángulo de incidencia (α) dado el índice de refracción (*n*) del material, según la expresión: sin&thinsp;α&thinsp;=&thinsp;*n*&thinsp;·&thinsp;sin&thinsp;β. Adaptada de https://www.chegg.com/learn/topic/angle-of-deviation-in-refraction." lightbox="false" width="100%" >}}
+{{< figure src="desviacion-prisma.svg" title="Diagrama mostrando el desvío de un rayo al entrar en un prisma de vidrio. La ley de Snell nos proporciona el ángulo de refracción (β) para cada posible ángulo de incidencia (α) dado el índice de refracción (*n*) del material, según la expresión: sin&thinsp;α&thinsp;=&thinsp;*n*&thinsp;·&thinsp;sin&thinsp;β. Adaptada de https://www.chegg.com/learn/topic/angle-of-deviation-in-refraction." lightbox="false" width="100%" theme="light" >}}
 
 Según la portada de Pink Floyd, habría dispersión de ángulos en la luz blanca, es decir, no toda se desviaría el mismo ángulo, pero veríamos luz blanca dentro del prisma. Sería al salir cuando se produciría la dispersión en colores. Ya aviso que la portada es irreprochable artísticamente, pero, físicamente, no es correcta.
 
@@ -61,8 +61,8 @@ Hablar de longitud de onda, a grandes rasgos, es como hablar de color. [Como vim
 
 Esto indica que el índice de refracción del vidrio debe ser ligeramente distinto para cada uno de los colores, es decir, de las longitudes de onda. Si fuera igual para todas, no habría dispersión y solo veríamos un rayo blanco dentro del prisma. Y así es.
 
-<table id="colores-resistencias" class="table">
-<caption style="color: #2E3440">Tabla que muestra el índice de refracción de un tipo de vidrio común (<a href="https://es.wikipedia.org/wiki/Vidrio_crown" target="_blank" rel="noopener"><em>crown</em></a>) dependiendo de la longitud de onda. El índice de refracción es mayor según la longitud de onda es menor (es decir, hacia el violeta), lo que hace que el violeta se desvíe más que el azul, el azul más que el amarillo, etc., dando lugar al patrón de colores característico del prisma. Adaptada de <a href="http://cs-fs-primero.blogspot.com/2015/06/refraccion-velocidad-de-la-luz-y.html" target="_blank" rel="noopener">http://cs-fs-primero.blogspot.com/2015/06/refraccion-velocidad-de-la-luz-y.html</a>.</caption>
+<table id="colores-resistencias">
+<caption>Tabla que muestra el índice de refracción de un tipo de vidrio común (<a href="https://es.wikipedia.org/wiki/Vidrio_crown" target="_blank" rel="noopener"><em>crown</em></a>) dependiendo de la longitud de onda. El índice de refracción es mayor según la longitud de onda es menor (es decir, hacia el violeta), lo que hace que el violeta se desvíe más que el azul, el azul más que el amarillo, etc., dando lugar al patrón de colores característico del prisma. Adaptada de <a href="http://cs-fs-primero.blogspot.com/2015/06/refraccion-velocidad-de-la-luz-y.html" target="_blank" rel="noopener">http://cs-fs-primero.blogspot.com/2015/06/refraccion-velocidad-de-la-luz-y.html</a>.</caption>
 <thead>
 <tr>
 <th class="text-center" colspan=2>Color</th>
@@ -77,25 +77,25 @@ Esto indica que el índice de refracción del vidrio debe ser ligeramente distin
 </tr>
 </thead>
 <tbody>
-<tr style="background-color:red">
+<tr style="color: black; background-color:red">
 <td align="center">670.6</td>
 <td align="center">Rojo</td>
 <td align="center">198&thinsp;144</td>
 <td align="center">1.5130</td>
 </tr>
-<tr style="background-color:yellow">
+<tr style="color: black; background-color:yellow">
 <td align="center">589.3</td>
 <td align="center">Amarillo</td>
 <td align="center">197&thinsp;622</td>
 <td align="center">1.5170</td>
 </tr>
-<tr style="background-color:cyan">
+<tr style="color: black; background-color:cyan">
 <td align="center">486.4</td>
 <td align="center">Cian</td>
 <td align="center">196&thinsp;199</td>
 <td align="center">1.5280</td>
 </tr>
-<tr style="background-color:violet">
+<tr style="color: black; background-color:violet">
 <td align="center">404.7</td>
 <td align="center">Violeta</td>
 <td align="center">195&thinsp;687</td>

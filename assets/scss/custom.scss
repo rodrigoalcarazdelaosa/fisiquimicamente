@@ -771,6 +771,14 @@ mark, .dark mark,
   color: $nord4 !important;
 }
 
+caption {
+  color: $nord0;
+}
+
+.dark caption {
+  color: $nord6;
+}
+
 /*************************************************
  *  Sharing
  **************************************************/

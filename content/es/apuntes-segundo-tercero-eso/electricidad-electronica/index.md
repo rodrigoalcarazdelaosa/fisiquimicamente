@@ -133,98 +133,98 @@ Tomado de [aquí](https://en.wikipedia.org/wiki/Electronic_color_code#Color_band
 </tr>
 </thead>
 <tbody>
-<tr style="background-color:#FFFFF8">
+<tr style="color: black; background-color:#ECEFF4">
 <td>Ninguno</td>
 <td align="center">–</td>
 <td align="center">–</td>
 <td align="center">–</td>
 <td align="center">$\pm 20\thinspace\%$</td>
 </tr>
-<tr style="background-color:#E1A6AD">
+<tr style="color: black; background-color:#E1A6AD">
 <td>Rosa</td>
 <td align="center">–</td>
 <td align="center">–</td>
 <td align="center">$10^{-3}$</td>
 <td align="center">–</td>
 </tr>
-<tr style="background-color:#C0C0C0">
+<tr style="color: black; background-color:#C0C0C0">
 <td>Plateado</td>
 <td align="center">–</td>
 <td align="center">–</td>
 <td align="center">$10^{-2}$</td>
 <td align="center">$\pm 10\thinspace\%$</td>
 </tr>
-<tr style="background-color:#FFD700">
+<tr style="color: black; background-color:#FFD700">
 <td>Dorado</td>
 <td align="center">–</td>
 <td align="center">–</td>
 <td align="center">$10^{-1}$</td>
 <td align="center">$\pm 5\thinspace\%$</td>
 </tr>
-<tr style="color:#FFFFF8;background-color:#0A0A0A">
+<tr style="color: white;background-color:#0A0A0A">
 <td>Negro</td>
 <td align="center">$0$</td>
 <td align="center">$0$</td>
 <td align="center">$10^0$</td>
 <td align="center">–</td>
 </tr>
-<tr style="color:#FFFFF8;background-color:#80542F">
+<tr style="color: white;background-color:#80542F">
 <td>Marrón</td>
 <td align="center">$1$</td>
 <td align="center">$1$</td>
 <td align="center">$10^1$</td>
 <td align="center">$\pm 1\thinspace\%$</td>
 </tr>
-<tr style="color:#FFFFF8;background-color:#AB2524">
+<tr style="color: white;background-color:#AB2524">
 <td>Rojo</td>
 <td align="center">$2$</td>
 <td align="center">$2$</td>
 <td align="center">$10^2$</td>
 <td align="center">$\pm 2\thinspace\%$</td>
 </tr>
-<tr style="background-color:#FA842B">
+<tr style="color: black; background-color:#FA842B">
 <td>Naranja</td>
 <td align="center">$3$</td>
 <td align="center">$3$</td>
 <td align="center">$10^3$</td>
 <td align="center">$\pm 0.05\thinspace\%$</td>
 </tr>
-<tr style="background-color:#EEC900">
+<tr style="color: black; background-color:#EEC900">
 <td>Amarillo</td>
 <td align="center">$4$</td>
 <td align="center">$4$</td>
 <td align="center">$10^4$</td>
 <td align="center">$\pm 0.02\thinspace\%$</td>
 </tr>
-<tr style="background-color:#48A43F">
+<tr style="color: black; background-color:#48A43F">
 <td>Verde</td>
 <td align="center">$5$</td>
 <td align="center">$5$</td>
 <td align="center">$10^5$</td>
 <td align="center">$\pm 0.5\thinspace\%$</td>
 </tr>
-<tr style="color:#fffff8;background-color:#2874B2">
+<tr style="color: white;background-color:#2874B2">
 <td>Azul</td>
 <td align="center">$6$</td>
 <td align="center">$6$</td>
 <td align="center">$10^6$</td>
 <td align="center">$\pm 0.25\thinspace\%$</td>
 </tr>
-<tr style="color:#fffff8;background-color:#83639D">
+<tr style="color: white;background-color:#83639D">
 <td>Violeta</td>
 <td align="center">$7$</td>
 <td align="center">$7$</td>
 <td align="center">$10^7$</td>
 <td align="center">$\pm 0.1\thinspace\%$</td>
 </tr>
-<tr style="background-color:#7E8B92">
+<tr style="color: black; background-color:#7E8B92">
 <td>Gris</td>
 <td align="center">$8$</td>
 <td align="center">$8$</td>
 <td align="center">$10^8$</td>
 <td align="center">$\pm 0.01\thinspace\%$</td>
 </tr>
-<tr style="background-color:#E9E5CE">
+<tr style="color: black; background-color:#E9E5CE">
 <td>Blanco</td>
 <td align="center">$9$</td>
 <td align="center">$9$</td>
