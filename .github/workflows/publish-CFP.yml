@@ -23,13 +23,16 @@ jobs:
       matrix:
         include:
           - projectName: 'fisiquimicamente'
-            directory: 'public/es'            
+            directory: 'public/es'
+            GoogleVerificationCode: GOOGLE_VERIFICATION_CODE_ES
             PDFEmbedKey: PDF_EMBED_API_KEY_ES
           - projectName: 'physichemically'
-            directory: 'public/en'            
+            directory: 'public/en'
+            GoogleVerificationCode: GOOGLE_VERIFICATION_CODE_EN
             PDFEmbedKey: PDF_EMBED_API_KEY_EN
           - projectName: 'fisiquimicament'
-            directory: 'public/ca'            
+            directory: 'public/ca'
+            GoogleVerificationCode: GOOGLE_VERIFICATION_CODE_CA
             PDFEmbedKey: PDF_EMBED_API_KEY_CA
 
     steps:
@@ -63,7 +66,8 @@ jobs:
 
       - name: Build site with Hugo
         run: source get_last_commit_hash.sh && hugo --gc --minify
-        env:                   
+        env:
+          HUGOxPARAMSxMARKETINGxVERIFICATIONxGOOGLE: ${{ secrets[matrix.GoogleVerificationCode] }}
           HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets[matrix.PDFEmbedKey] }}
           
       - name: Publish to Cloudflare Pages
