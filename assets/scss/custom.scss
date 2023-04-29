@@ -119,12 +119,12 @@ code {
 
 #popup-content code {
   color: $nord6;
-  background: $nord3;
+  background: $nord0;
 }
 
 .dark #popup-content code {
   color: $nord0;
-  background: $nord4;
+  background: $nord6;
 }
   
 pre {
@@ -167,11 +167,11 @@ blockquote {
  **************************************************/
 
 .post-nav-item .meta-nav {
-  color: $nord2;
+  color: $nord3;
 }
 
 .dark .post-nav-item .meta-nav {
-  color: $nord5;
+  color: $nord4;
 }
 
 .post-nav-item a {
@@ -587,11 +587,11 @@ ul#menu-horizontal li {
  **************************************************/
 
 a.summary-link {
-  color: $nord2 !important;
+  color: $nord3 !important;
 }
 
 .dark a.summary-link {
-  color: $nord5 !important;
+  color: $nord4 !important;
 }
 
 .card {
@@ -603,15 +603,15 @@ a.summary-link {
 }
 
 .dark .card, .dark .card-simple {
-  background: $nord2;  
+  background: #000;  
 }
 
 .card .card-text p {
-  color: $nord2;
+  color: $nord3;
 }
 
 .dark .card .card-text p {
-  color: $nord5;
+  color: $nord4;
 }
   
 .card .card-image.hover-overlay::after {
@@ -627,7 +627,7 @@ a.summary-link {
 
 .dark .card-body {
   color: $nord6;
-  background: $nord2;
+  background: #000;
 }
 
 /*************************************************
@@ -691,21 +691,21 @@ mark, .dark mark,
 
 .article-style {
   overflow: visible;
-  color: $nord2;
+  color: $nord0;
 }
 
 .dark .article-style {
-  color: $nord5;
+  color: $nord6;  
 }
 
 .page-subtitle {
   font-family: $sta-font-heading, sans-serif;
-  color: $nord2;
+  color: $nord0;
 }
 
 .dark .page-subtitle {
   font-family: $sta-font-heading, sans-serif;
-  color: $nord5;
+  color: $nord6;
 }
   
 .article-header-caption {
@@ -866,11 +866,11 @@ ul.subscribe li:hover i {
 }
 
 .author-card .card-subtitle {
-  color: $nord2;
+  color: $nord3;
 }
 
 .dark .author-card .card-subtitle {
-  color: $nord5;
+  color: $nord4;
 }
 
 .author-card .card-text {
@@ -923,11 +923,11 @@ div.card-text a {
 
 .section-heading p {
   font-family: $sta-font-heading, sans-serif;
-  color: $nord2;
+  color: $nord0;
 }
 
 .dark .section-heading p {  
-  color: $nord5;
+  color: $nord6;
 }
 
 .section-heading a {
@@ -1000,27 +1000,27 @@ div.card-text a {
 }
 
 .hero-lead {
-  color: $nord1;
+  color: $nord0;
 }
 
 .dark .hero-lead {
-  color: $nord5;
+  color: $nord6;
 }
 
 .hero-cta-alt {
-  color: $nord2;
+  color: $nord0;
 }
 
 .dark .hero-cta-alt {
-  color: $nord5;
+  color: $nord6;
 }
 
 .hero-note {
-  color: $nord3;
+  color: $nord0;
 }
 
 .dark .hero-note {
-  color: $nord4;
+  color: $nord6;
 }
 
 /*************************************************
@@ -1110,11 +1110,11 @@ div.card-text a {
  **************************************************/
 
 .portrait-title h3 {
-  color: $nord2;
+  color: $nord3;
 }
 
 .dark .portrait-title h3 {
-  color: $nord5;
+  color: $nord4;
 }
 
 .network-icon.network-icon-footer li {
@@ -1126,11 +1126,11 @@ div.card-text a {
 }
 
 .network-icon a {
-  color: $nord3;
+  color: $nord0;
 }
 
 .dark .network-icon a {
-  color: $nord4;
+  color: $nord6;
 }
 
 .network-icon a:hover {
@@ -1525,6 +1525,10 @@ div#button-load {
   transform: translate3d(-50%, -50%, 0);
   z-index: 100;
 }
+
+/*************************************************
+ *  Speedlify
+ **************************************************/
 
 speedlify-score {
 	display: flex;
