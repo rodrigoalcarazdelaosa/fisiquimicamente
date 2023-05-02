@@ -44,6 +44,8 @@ links:
 
 <!-- https://twitter.com/fqmente/status/1391641158330290177?s=20 -->
 
+<!-- https://twitter.com/avelinoquantum/status/1499030965292875779?s=46&t=D7mGQB9ZXmTxzRwj5Em39g -->
+
 {{% callout soon %}}
 Próximamente...
 {{% /callout %}}
