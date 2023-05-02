@@ -1,5 +1,3 @@
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodrigoalcarazdelaosa/fisiquimicamente) ![visitors](https://visitor-badge.glitch.me/badge?page_id=rodrigoalcarazdelaosa.fisiquimicamente)
-
 # [FisiQuímicamente](https://fisiquimicamente.com/)
 
 Recursos de Física y Química, tutoriales y ciencia de actualidad.
