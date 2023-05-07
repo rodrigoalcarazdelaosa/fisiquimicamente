@@ -5,8 +5,8 @@ subtitle:
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code>"
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
-- rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
+- rodrigo-alcaraz-de-la-osa
 - leticia-cabezas
 tags:
 - apuntes
@@ -24,24 +24,18 @@ image:
   focal_point: Smart
 
 links:
-# - icon_pack: fas
-#   icon:
-#   name: PDF Texto
-#   url: MAS_texto.pdf
-  
-# - icon_pack: fas
-#   icon:
-#   name: Póster
-#   url: MAS_poster.pdf
-
+- icon_pack: fas
+  icon: 
+  name: 📜 Póster
+  url: quimica-organica-poster.pdf
 - icon_pack: fas
   icon:
   name: ✏️ Ejercicios
-  url: organica-ejercicios.pdf
+  url: quimica-organica-ejercicios.pdf
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes
-  url: redox-organica-frikiexamenes.pdf
+  url: redox-quimica-organica-frikiexamenes.pdf
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
