@@ -614,7 +614,7 @@ En el caso de los **alcoholes secundarios**, la oxidación del carbono produce u
 
 La oxidación tiene que darse lugar por pérdida de un hidrógeno unido al carbono que va a oxidarse, por lo que éste debe tener disponible al menos uno. Por este motivo, los **alcoholes terciarios** no dan reacciones de oxidación:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-terciario.svg" lightbox="false" width="90%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-terciario.svg" lightbox="false" width="70%" theme="light" >}}
 
 ---
 
