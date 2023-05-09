@@ -255,11 +255,11 @@ Siendo el primero fundamental en varias rutas del metabolismo celular, destacand
 
 ---
 
-Los alquenos con dobles enlaces conjugados pueden adoptar dos diferentes configuraciones. Por ejemplo, en el **buta–1,3–dieno** los dobles enlaces pueden estar hacia el mismo lado del enlace simple o en lados opuestos.
+Los alquenos con dobles enlaces conjugados pueden adoptar dos diferentes conformaciones. Por ejemplo, en el **buta–1,3–dieno** los dobles enlaces pueden estar hacia el mismo lado del enlace simple o en lados opuestos.
 
 ---
 
-Sería incorrecto referirnos a las dos posibilidades como *cis* y *trans* ya que son *conformaciones* (¡dinámico!) y no configuraciones (estático).
+Sería incorrecto referirnos a las dos posibilidades como *cis* y *trans* ya que son **conformaciones** (¡dinámico!) y no configuraciones (estático).
 
 ---
 
