@@ -198,7 +198,7 @@ Los isómeros *cis* tienen ambos sustituyentes del doble enlace hacia un lado, l
 
 El 1,1–dicloroeteno no puede presentar isomería *cis-trans*:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroeteno.svg" lightbox="false" width="75%" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroeteno.svg" lightbox="false" width="50%" >}}
 
 ---
 
@@ -295,6 +295,10 @@ Un carbono quiral es un carbono que tiene 4 sustituyentes distintos:
 
 ---
 
+> Cuidado porque puede ocurrir que un compuesto tenga dos centros quirales y que no presente isomería óptica.
+
+---
+
 Este es el tipo de esteroisomería que presentan moléculas esenciales para la vida, como los [aminoácidos](https://es.wikipedia.org/wiki/Aminoácido) y los [monosacáridos](https://es.wikipedia.org/wiki/Monosacárido).
 
 ---
@@ -323,13 +327,13 @@ Si el plano de la luz polarizada se desvía a la derecha son sustancias *dextró
 
 ---
 
-##### Proyecciones de Fisher
+##### Proyecciones de Fischer
 
 Con el fin de facilitar la representación en el plano, se utilizan las **proyecciones de Fischer**, ideadas por el químico alemán Hermann Emil Fischer en 1891, para representar la disposición espacial de moléculas en las que uno o más átomos de carbono son quirales:
 
 ---
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fisher.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fischer.svg" lightbox="false" width="100%" >}}
 
 {{% /section %}}
 
@@ -356,7 +360,7 @@ Con el fin de facilitar la representación en el plano, se utilizan las **proyec
 
 En este tipo de reacciones un átomo o grupo de átomos de una molécula es sustituido por otro átomo o grupo de átomos de otra molécula:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/sustitucion.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/sustitucion.svg" lightbox="false" width="50%" theme="light" >}}
 
 ---
 
@@ -368,7 +372,7 @@ Los alcanos experimentan reacciones de sustitución [**radicalarias**](https://e
 
 Se llama **sustitución fotoquímica** y es una reacción en la que la luz rompe la molécula de halógeno X<sub>2</sub> (F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> o I<sub>2</sub>) dando una reacción en cadena con fórmula general:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/radicalaria1.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/radicalaria1.svg" lightbox="false" width="50%" theme="light" >}}
 
 ---
 
@@ -614,7 +618,7 @@ En el caso de los **alcoholes secundarios**, la oxidación del carbono produce u
 
 La oxidación tiene que darse lugar por pérdida de un hidrógeno unido al carbono que va a oxidarse, por lo que éste debe tener disponible al menos uno. Por este motivo, los **alcoholes terciarios** no dan reacciones de oxidación:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-terciario.svg" lightbox="false" width="70%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-terciario.svg" lightbox="false" width="50%" theme="light" >}}
 
 ---
 

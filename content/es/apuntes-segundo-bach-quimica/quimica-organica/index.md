@@ -169,7 +169,7 @@ Los isómeros *cis* tienen ambos sustituyentes del doble enlace hacia un lado, l
 
 El 1,1–dicloroeteno no puede presentar isomería *cis-trans*:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroeteno.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroeteno.svg" lightbox="false" width="50%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con esta **molécula** en **3D**" >}}
 {{% 3Dmol data_cid="6366" %}}
@@ -226,9 +226,13 @@ La isomería óptica se presenta cuando un compuesto no es superponible con su i
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/quiralidad.svg" title="El átomo de carbono negro es un centro quiral porque tiene cuatro sustituyentes diferentes, un átomo de cloro (Cl), un átomo de hidrógeno (H), un átomo de flúor (F) y un átomo de bromo (Br). Las dos estructuras son imágenes especulares la una de la otra que no pueden superponerse. Adaptada de https://www.coursehero.com/sg/general-chemistry/chirality/." lightbox="false" width="100%" >}}
 
-Este es el tipo de esteroisomería que presentan moléculas esenciales para la vida, como los [aminoácidos](https://es.wikipedia.org/wiki/Aminoácido) y los [monosacáridos](https://es.wikipedia.org/wiki/Monosacárido). Los enantiómeros tienen propiedades físicas idénticas[^2], diferenciándose únicamente en su comportamiento frente a la luz polarizada, pues la desvían de manera distinta. Si el plano de la luz polarizada se desvía a la derecha son sustancias *dextrógiras* y si se desvía a la izquierda, *levógiras*:
+{{% callout warning %}}
+Cuidado porque puede ocurrir que un compuesto tenga dos centros quirales y que no presente isomería óptica.
+{{% /callout %}}
 
-[^2]: Lo cual no significa que su reactividad sea igual. Especialmente sonada fue la llamada [***catástrofe** de la **talidomida***](https://www.medigraphic.com/pdfs/cutanea/mc-2018/mc183r.pdf).
+Este es el tipo de esteroisomería que presentan moléculas esenciales para la vida, como los [aminoácidos](https://es.wikipedia.org/wiki/Aminoácido) y los [monosacáridos](https://es.wikipedia.org/wiki/Monosacárido). Los enantiómeros tienen propiedades físicas idénticas[^3], diferenciándose únicamente en su comportamiento frente a la luz polarizada, pues la desvían de manera distinta. Si el plano de la luz polarizada se desvía a la derecha son sustancias *dextrógiras* y si se desvía a la izquierda, *levógiras*:
+
+[^3]: Lo cual no significa que su reactividad sea igual. Especialmente sonada fue la llamada [***catástrofe** de la **talidomida***](https://www.medigraphic.com/pdfs/cutanea/mc-2018/mc183r.pdf).
 
 {{< spoiler text="Pincha aquí para ver **animaciones** de **ondas electromagnéticas circularmente polarizadas**" >}}
 {{< figure library="false" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif" title="Una onda circularmene polarizada hacia la derecha desde el punto de vista del observador. Fuente: https://commons.wikimedia.org/wiki/File:Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif." lightbox="true" >}}
@@ -246,26 +250,26 @@ Este es el tipo de esteroisomería que presentan moléculas esenciales para la v
 {{% 3Dmol data_cid="449619" %}}
 {{< /spoiler >}}
 
-##### Proyecciones de Fisher
+##### Proyecciones de Fischer
 
-Con el fin de facilitar la representación en el plano, se utilizan las **proyecciones de Fischer**, ideadas por el químico alemán Hermann Emil Fischer[^3] en 1891, para representar la disposición espacial de moléculas en las que uno o más átomos de carbono son quirales:
+Con el fin de facilitar la representación en el plano, se utilizan las **proyecciones de Fischer**, ideadas por el químico alemán Hermann Emil Fischer[^4] en 1891, para representar la disposición espacial de moléculas en las que uno o más átomos de carbono son quirales:
 
-[^3]: ![Fisher](quimica-organica-2Bach-quimica/Fisher.jpg "**Hermann Emil Fischer** (1852–1919) fue un químico alemán, descubridor del [**barbital**](https://es.wikipedia.org/wiki/Barbital) (primer sedativo y somnífero del grupo de los [barbitúricos](https://es.wikipedia.org/wiki/Barbitúrico)). Fue galardonado con el **Premio Nobel de Química en 1902**. Fuente: https://commons.wikimedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg.")  
+[^4]: ![Fischer](quimica-organica-2Bach-quimica/Fischer.jpg "**Hermann Emil Fischer** (1852–1919) fue un químico alemán, descubridor del [**barbital**](https://es.wikipedia.org/wiki/Barbital) (primer sedativo y somnífero del grupo de los [barbitúricos](https://es.wikipedia.org/wiki/Barbitúrico)). Fue galardonado con el **Premio Nobel de Química en 1902**. Fuente: https://commons.wikimedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg.")  
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fisher.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fischer.svg" lightbox="false" width="100%" theme="light" >}}
 
 ## Reacciones
 ### Reacciones de sustitución
 
 En este tipo de reacciones un átomo o grupo de átomos de una molécula es sustituido por otro átomo o grupo de átomos de otra molécula:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/sustitucion.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/sustitucion.svg" lightbox="false" width="50%" theme="light" >}}
 
 #### Halogenación de alcanos
 
-Los alcanos experimentan reacciones de sustitución [**radicalarias**](https://es.wikipedia.org/wiki/Reacción_radicalaria)[^4]. Así, se puede conseguir la sustitución de un enlace –C–H por un enlace –C–X por medio de una radiación luminosa.
+Los alcanos experimentan reacciones de sustitución [**radicalarias**](https://es.wikipedia.org/wiki/Reacción_radicalaria)[^5]. Así, se puede conseguir la sustitución de un enlace –C–H por un enlace –C–X por medio de una radiación luminosa.
 
-[^4]: Las reacciones radicalarias son las responsables de la formación y destrucción de la capa de ozono. La formación ocurre a través de la reacción en cadena siguiente:
+[^5]: Las reacciones radicalarias son las responsables de la formación y destrucción de la capa de ozono. La formación ocurre a través de la reacción en cadena siguiente:
   {{< figure library="true" src="quimica-organica-2Bach-quimica/formacion-ozono.svg" lightbox="false" width="100%" theme="dark" >}}
   Reacción global:
   {{< figure library="true" src="quimica-organica-2Bach-quimica/formacion-ozono-global.svg" lightbox="false" width="100%" theme="dark" >}}
@@ -276,7 +280,7 @@ Los alcanos experimentan reacciones de sustitución [**radicalarias**](https://e
 
 Se llama **sustitución fotoquímica** y es una reacción en la que la luz rompe la molécula de halógeno X<sub>2</sub> (F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> o I<sub>2</sub>) dando una reacción en cadena con fórmula general:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/radicalaria1.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/radicalaria1.svg" lightbox="false" width="50%" theme="light" >}}
 
 La reacción puede continuar precisando en cada etapa luz o calor. En cada etapa se forma HX como producto. La siguiente reacción está particularizada para (X = Cl). En cada etapa, además del producto de sustitución, se forma HCl:
 
@@ -434,7 +438,7 @@ En el caso de los **alcoholes secundarios**, la oxidación del carbono produce u
 
 La oxidación tiene que darse lugar por pérdida de un hidrógeno unido al carbono que va a oxidarse, por lo que éste debe tener disponible al menos uno. Por este motivo, los **alcoholes terciarios** no dan reacciones de oxidación:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-terciario.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-terciario.svg" lightbox="false" width="50%" theme="light" >}}
 
 #### Reacciones de combustión
 
