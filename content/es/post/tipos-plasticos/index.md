@@ -9,6 +9,7 @@ authors:
 tags:
 - blog
 - plásticos
+- polímeros
 - PET
 - HDPE
 - PVC

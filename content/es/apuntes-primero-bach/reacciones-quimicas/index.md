@@ -3,7 +3,7 @@ translationKey: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
 title: Reacciones químicas
 url: "/recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas"
 subtitle: Clasificación y estequiometría de las reacciones químicas
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Clasificación y estequiometría de las reacciones químicas."
+summary: "Clasificación y estequiometría de las reacciones químicas."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]
 authors:
 - rodrigo-alcaraz-de-la-osa

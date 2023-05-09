@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 372.19661 228.81729"
+   version="1.1"
+   id="svg569"
+   sodipodi:docname="chirality-diagram-4448535.svg"
+   width="372.19662"
+   height="228.81729"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs573" />
+  <sodipodi:namedview
+     id="namedview571"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.95222726"
+     inkscape:cx="185.88"
+     inkscape:cy="105.01695"
+     inkscape:window-width="1280"
+     inkscape:window-height="800"
+     inkscape:window-x="1920"
+     inkscape:window-y="213"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg569" />
+  <style
+     id="style132">.st6{fill:#e4cac2}.st7{fill:#333}.st10{fill:#f3f3f3}.st13{fill:#adadad}.st17{fill:#f4cca8}.st19{fill:#c9e8d2}.st29{fill:none;stroke:#333;stroke-width:2.5;stroke-miterlimit:10}</style>
+  <g
+     id="Art"
+     transform="translate(-0.00336745,-19.029703)">
+    <g
+       id="Mirror_x5F_art">
+      <linearGradient
+         id="Mirror_1_"
+         gradientUnits="userSpaceOnUse"
+         x1="268.95001"
+         y1="244.94701"
+         x2="268.95001"
+         y2="21.892">
+        <stop
+           offset="0"
+           stop-color="#dbf0f5"
+           id="stop134" />
+        <stop
+           offset=".992"
+           stop-color="#e6f0f1"
+           id="stop136" />
+      </linearGradient>
+      <path
+         id="Mirror"
+         fill="url(#Mirror_1_)"
+         stroke="#a3846f"
+         stroke-width="5.346"
+         stroke-miterlimit="10"
+         d="M 362.42,244.95 175.48,229.89 V 34.56 L 362.42,21.89 Z"
+         style="fill:url(#Mirror_1_)" />
+      <linearGradient
+         id="Shadow_02_1_"
+         gradientUnits="userSpaceOnUse"
+         x1="260.48099"
+         y1="239.142"
+         x2="260.48099"
+         y2="33.824001">
+        <stop
+           offset="0"
+           stop-color="#fff"
+           id="stop140" />
+        <stop
+           offset="1"
+           stop-color="#fff"
+           stop-opacity="0"
+           id="stop142" />
+      </linearGradient>
+      <path
+         id="Shadow_02"
+         opacity="0.4"
+         fill="url(#Shadow_02_1_)"
+         d="m 338.37,239.14 -43.25,-3.41 -112.53,-199.2 39.9,-2.71 z"
+         style="fill:url(#Shadow_02_1_)" />
+      <linearGradient
+         id="Shadow_01_1_"
+         gradientUnits="userSpaceOnUse"
+         x1="232.22701"
+         y1="234.476"
+         x2="232.22701"
+         y2="47.407001">
+        <stop
+           offset="0"
+           stop-color="#fff"
+           id="stop146" />
+        <stop
+           offset="1"
+           stop-color="#fff"
+           stop-opacity="0"
+           id="stop148" />
+      </linearGradient>
+      <path
+         id="Shadow_01"
+         opacity="0.4"
+         fill="url(#Shadow_01_1_)"
+         d="M 285.02,234.48 270.82,232.23 179.48,70.54 179.44,47.41 Z"
+         style="fill:url(#Shadow_01_1_)" />
+      <path
+         id="Outer_darker_shade"
+         fill="#664c3a"
+         d="m 372.2,245.81 -7.62,1.5 v -228 l 7.62,1.25 z" />
+      <g
+         id="Darker_inner_shade">
+        <path
+           fill="#68564a"
+           d="M 359.55,242.87 177.16,228.47 V 36.14 l 182.4,-12.83 v 2.01 L 179.45,37.98 v 188.67 l 180.11,14.23 z"
+           id="path153" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="Structures"
+     transform="translate(-0.00336745,-19.029703)">
+    <g
+       id="S-enantiomer_x5F_structure">
+      <g
+         id="Br_x5F_molecule_1_">
+        <radialGradient
+           id="Br_x5F_molecule_x5F_fill_2_"
+           cx="818.42902"
+           cy="159.799"
+           r="18.386"
+           gradientTransform="matrix(-1.1338,0,0,1.1338,1252.58,7.4)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset=".003"
+             stop-color="#dcbeb4"
+             id="stop158" />
+          <stop
+             offset=".308"
+             stop-color="#dbbcb2"
+             id="stop160" />
+          <stop
+             offset=".482"
+             stop-color="#d8b5a9"
+             id="stop162" />
+          <stop
+             offset=".624"
+             stop-color="#d2a99b"
+             id="stop164" />
+          <stop
+             offset=".747"
+             stop-color="#ca9788"
+             id="stop166" />
+          <stop
+             offset=".859"
+             stop-color="#c0816e"
+             id="stop168" />
+          <stop
+             offset=".961"
+             stop-color="#b4664f"
+             id="stop170" />
+          <stop
+             offset="1"
+             stop-color="#ae5a41"
+             id="stop172" />
+        </radialGradient>
+        <path
+           id="Br_x5F_molecule_x5F_fill_1_"
+           d="m 345.42,190.27 0.05,-0.89 c 0.67,-11.18 -7.93,-20.89 -19.11,-21.56 l -0.89,-0.05 c -11.18,-0.67 -20.89,7.93 -21.56,19.11 l -0.05,0.89 c -0.67,11.18 7.93,20.89 19.11,21.56 l 0.89,0.05 c 11.19,0.68 20.89,-7.92 21.56,-19.11 z"
+           fill="url(#Br_x5F_molecule_x5F_fill_2_)"
+           stroke="#b36959"
+           stroke-width="0.5"
+           stroke-miterlimit="10"
+           style="fill:url(#Br_x5F_molecule_x5F_fill_2_)" />
+        <circle
+           id="Br_x5F_molecule_x5F_shine_1_"
+           class="st6"
+           cx="328.29999"
+           cy="179.97"
+           r="4.9899998" />
+        <g
+           id="Br_1_">
+          <g
+             id="g181">
+            <path
+               class="st7"
+               d="m 317.05,183 h 5.06 c 1.15,0 2.04,0.29 2.62,0.85 0.56,0.51 0.85,1.19 0.85,2.04 0,1.16 -0.63,1.92 -1.83,2.28 v 0.04 c 1.39,0.33 2.28,1.29 2.28,2.7 0,0.99 -0.36,1.77 -0.99,2.31 -0.65,0.6 -1.57,0.93 -2.77,0.93 h -5.22 z m 4.76,4.6 c 1.08,0 1.75,-0.52 1.75,-1.48 0,-0.92 -0.63,-1.46 -1.65,-1.46 h -2.8 v 2.94 z m 0.28,4.86 c 0.63,0 1.11,-0.18 1.41,-0.48 0.29,-0.27 0.45,-0.66 0.45,-1.14 0,-1.14 -0.81,-1.7 -1.92,-1.7 h -2.92 v 3.32 z"
+               id="path177" />
+            <path
+               class="st7"
+               d="m 329.29,194.15 h -1.9 v -8.01 h 1.84 v 1.44 h 0.04 c 0.51,-1.04 1.27,-1.56 2.29,-1.56 0.23,0 0.38,0.02 0.51,0.08 v 1.71 h -0.06 c -0.18,-0.04 -0.33,-0.06 -0.52,-0.06 -1.26,-0.02 -2.21,0.84 -2.21,2.38 v 4.02 z"
+               id="path179" />
+          </g>
+        </g>
+      </g>
+      <linearGradient
+         id="Connector_x5F_01_2_"
+         gradientUnits="userSpaceOnUse"
+         x1="-209.071"
+         y1="1162.359"
+         x2="-203.12801"
+         y2="1162.359"
+         gradientTransform="matrix(-0.3603,1.1085,0.951,0.3091,-898.845,43.486)">
+        <stop
+           offset="0"
+           stop-color="#b3b3b3"
+           id="stop185" />
+        <stop
+           offset=".198"
+           stop-color="#adadad"
+           id="stop187" />
+        <stop
+           offset=".468"
+           stop-color="#9b9b9b"
+           id="stop189" />
+        <stop
+           offset=".777"
+           stop-color="#7f7f7f"
+           id="stop191" />
+        <stop
+           offset="1"
+           stop-color="#666"
+           id="stop193" />
+      </linearGradient>
+      <path
+         id="Connector_x5F_01_1_"
+         d="m 304.96,185.8 c 0,0 1.42,-0.03 2.32,-2.77 0.9,-2.74 -0.24,-3.63 -0.24,-3.63 l -51.6,-16.98 c 0,0 -0.05,1.49 -0.65,3.33 -0.6,1.84 -1.43,3.07 -1.43,3.07 z"
+         fill="url(#Connector_x5F_01_2_)"
+         stroke="#898989"
+         stroke-width="0.35"
+         stroke-miterlimit="10"
+         style="fill:url(#Connector_x5F_01_2_)" />
+      <g
+         id="H_x5F_molecule_1_">
+        <radialGradient
+           id="H_x5F_molecule_x5F_fill_2_"
+           cx="904.60303"
+           cy="175.196"
+           r="12.844"
+           gradientTransform="matrix(-1,0,0,1,1113.061,0)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#f0f0f0"
+             id="stop197" />
+          <stop
+             offset=".333"
+             stop-color="#eee"
+             id="stop199" />
+          <stop
+             offset=".521"
+             stop-color="#e5e5e5"
+             id="stop201" />
+          <stop
+             offset=".674"
+             stop-color="#d7d7d7"
+             id="stop203" />
+          <stop
+             offset=".808"
+             stop-color="#c4c4c4"
+             id="stop205" />
+          <stop
+             offset=".927"
+             stop-color="#aaa"
+             id="stop207" />
+          <stop
+             offset="1"
+             stop-color="#979797"
+             id="stop209" />
+        </radialGradient>
+        <path
+           id="H_x5F_molecule_x5F_fill_1_"
+           d="m 221.25,176.24 0.03,-0.55 C 221.7,168.8 216.4,162.82 209.5,162.4 l -0.55,-0.03 c -6.89,-0.42 -12.87,4.88 -13.29,11.78 l -0.03,0.55 c -0.42,6.89 4.88,12.87 11.78,13.29 l 0.55,0.03 c 6.89,0.41 12.87,-4.89 13.29,-11.78 z"
+           fill="url(#H_x5F_molecule_x5F_fill_2_)"
+           stroke="#979797"
+           stroke-width="0.5"
+           stroke-miterlimit="10"
+           style="fill:url(#H_x5F_molecule_x5F_fill_2_)" />
+        <circle
+           id="H_x5F_molecule_x5F_shine_1_"
+           class="st10"
+           cx="210.69"
+           cy="169.89"
+           r="3.0699999" />
+        <g
+           id="H_1_">
+          <g
+             id="g216">
+            <path
+               class="st7"
+               d="m 210.93,175.83 h -4.94 v 4.95 h -2.07 v -11.16 h 2.07 v 4.49 h 4.94 v -4.49 h 2.08 v 11.16 h -2.08 z"
+               id="path214" />
+          </g>
+        </g>
+      </g>
+      <linearGradient
+         id="Connector_x5F_02_2_"
+         gradientUnits="userSpaceOnUse"
+         x1="-177.38901"
+         y1="-331.04599"
+         x2="-171.502"
+         y2="-331.04599"
+         gradientTransform="matrix(-0.3615,-1.1081,-0.9507,0.3101,-145.913,76.711)">
+        <stop
+           offset="0"
+           stop-color="#b3b3b3"
+           id="stop220" />
+        <stop
+           offset=".198"
+           stop-color="#adadad"
+           id="stop222" />
+        <stop
+           offset=".468"
+           stop-color="#9b9b9b"
+           id="stop224" />
+        <stop
+           offset=".777"
+           stop-color="#7f7f7f"
+           id="stop226" />
+        <stop
+           offset="1"
+           stop-color="#666"
+           id="stop228" />
+      </linearGradient>
+      <path
+         id="Connector_x5F_02_1_"
+         d="m 218.33,168.16 c 0,0 -0.64,0.71 0.26,3.46 0.9,2.75 1.83,2.94 1.83,2.94 l 25.78,-8.27 c 0,0 -0.84,-1.23 -1.44,-3.07 -0.6,-1.84 -0.65,-3.33 -0.65,-3.33 z"
+         fill="url(#Connector_x5F_02_2_)"
+         stroke="#898989"
+         stroke-width="0.35"
+         stroke-miterlimit="10"
+         style="fill:url(#Connector_x5F_02_2_)" />
+      <g
+         id="C_x5F_molecule_1_">
+        <radialGradient
+           id="C_x5F_molecule_x5F_fill_2_"
+           cx="1553.9091"
+           cy="162.879"
+           r="16.391001"
+           gradientTransform="translate(-1308.157)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#969696"
+             id="stop232" />
+          <stop
+             offset=".392"
+             stop-color="#949494"
+             id="stop234" />
+          <stop
+             offset=".614"
+             stop-color="#8b8b8b"
+             id="stop236" />
+          <stop
+             offset=".794"
+             stop-color="#7e7e7e"
+             id="stop238" />
+          <stop
+             offset=".951"
+             stop-color="#6a6a6a"
+             id="stop240" />
+          <stop
+             offset="1"
+             stop-color="#626262"
+             id="stop242" />
+        </radialGradient>
+        <path
+           id="C_x5F_molecule_x5F_fill_1_"
+           d="m 229.43,164.21 -0.04,-0.7 c -0.53,-8.8 6.23,-16.42 15.03,-16.95 l 0.7,-0.04 c 8.8,-0.53 16.42,6.23 16.95,15.03 l 0.04,0.7 c 0.53,8.8 -6.23,16.42 -15.03,16.95 l -0.7,0.04 c -8.79,0.53 -16.42,-6.23 -16.95,-15.03 z"
+           fill="url(#C_x5F_molecule_x5F_fill_2_)"
+           stroke="#717171"
+           stroke-width="0.5"
+           stroke-miterlimit="10"
+           style="fill:url(#C_x5F_molecule_x5F_fill_2_)" />
+        <circle
+           id="C_x5F_molecule_x5F_shine_1_"
+           class="st13"
+           cx="248.61"
+           cy="156.11"
+           r="3.9200001" />
+        <g
+           id="C_5_">
+          <g
+             id="g249">
+            <path
+               class="st7"
+               d="m 240.67,163.13 c 0,-3.31 2.07,-5.82 5.38,-5.82 1.27,0 2.32,0.33 3.09,0.92 0.9,0.71 1.44,1.71 1.57,2.88 h -2.07 c -0.19,-1.2 -1.14,-2.04 -2.61,-2.04 -2.13,0 -3.25,1.74 -3.25,4.06 0,2.37 1.27,4.04 3.27,4.04 1.67,0 2.58,-1.11 2.7,-2.46 h 2.08 c -0.04,1.11 -0.57,2.24 -1.35,2.99 -0.81,0.81 -1.95,1.23 -3.45,1.23 -3.22,-0.01 -5.36,-2.45 -5.36,-5.8 z"
+               id="path247" />
+          </g>
+        </g>
+      </g>
+      <linearGradient
+         id="Connector_x5F_03_2_"
+         gradientUnits="userSpaceOnUse"
+         x1="-608.71503"
+         y1="426.73801"
+         x2="-602.77197"
+         y2="426.73801"
+         gradientTransform="matrix(-1.1953,-0.00203,-0.0017,1,-477.54,-307.648)">
+        <stop
+           offset="0"
+           stop-color="#b3b3b3"
+           id="stop253" />
+        <stop
+           offset=".198"
+           stop-color="#adadad"
+           id="stop255" />
+        <stop
+           offset=".468"
+           stop-color="#9b9b9b"
+           id="stop257" />
+        <stop
+           offset=".777"
+           stop-color="#7f7f7f"
+           id="stop259" />
+        <stop
+           offset="1"
+           stop-color="#666"
+           id="stop261" />
+      </linearGradient>
+      <path
+         id="Connector_x5F_03_1_"
+         d="m 242.2,147.06 c 0,0 0.49,0.83 3.45,0.83 2.96,0.01 3.45,-0.82 3.45,-0.82 l 0.29,-54.32 c 0,0 -1.47,0.41 -3.45,0.41 -1.99,0 -3.45,-0.42 -3.45,-0.42 z"
+         fill="url(#Connector_x5F_03_2_)"
+         stroke="#898989"
+         stroke-width="0.35"
+         stroke-miterlimit="10"
+         style="fill:url(#Connector_x5F_03_2_)" />
+      <linearGradient
+         id="Connector_x5F_04_2_"
+         gradientUnits="userSpaceOnUse"
+         x1="563.65399"
+         y1="751.39697"
+         x2="569.54102"
+         y2="751.39697"
+         gradientTransform="matrix(1.0435,0.5193,0.4455,-0.8953,-690.502,562.57)">
+        <stop
+           offset="0"
+           stop-color="#b3b3b3"
+           id="stop265" />
+        <stop
+           offset=".198"
+           stop-color="#adadad"
+           id="stop267" />
+        <stop
+           offset=".468"
+           stop-color="#9b9b9b"
+           id="stop269" />
+        <stop
+           offset=".777"
+           stop-color="#7f7f7f"
+           id="stop271" />
+        <stop
+           offset="1"
+           stop-color="#666"
+           id="stop273" />
+      </linearGradient>
+      <path
+         id="Connector_x5F_04_1_"
+         d="m 244.19,174.32 c 0,0 0.36,-1.89 -2.22,-3.17 -2.58,-1.29 -3.8,0.18 -3.8,0.18 l -12.18,24.18 c 0,0 1.46,0.27 3.2,1.13 1.73,0.86 2.83,1.87 2.83,1.87 z"
+         fill="url(#Connector_x5F_04_2_)"
+         stroke="#898989"
+         stroke-width="0.35"
+         stroke-miterlimit="10"
+         style="fill:url(#Connector_x5F_04_2_)" />
+      <g
+         id="F_x5F_molecule_1_">
+        <radialGradient
+           id="F_x5F_molecule_x5F_fill_2_"
+           cx="904.11902"
+           cy="170.17999"
+           r="13.924"
+           gradientTransform="matrix(-1.1338,0,0,1.1338,1252.58,7.4)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#f0c8a0"
+             id="stop277" />
+          <stop
+             offset=".298"
+             stop-color="#f0c79e"
+             id="stop279" />
+          <stop
+             offset=".467"
+             stop-color="#eec595"
+             id="stop281" />
+          <stop
+             offset=".603"
+             stop-color="#ecc187"
+             id="stop283" />
+          <stop
+             offset=".723"
+             stop-color="#e8bc74"
+             id="stop285" />
+          <stop
+             offset=".831"
+             stop-color="#e4b55a"
+             id="stop287" />
+          <stop
+             offset=".93"
+             stop-color="#dfac3b"
+             id="stop289" />
+          <stop
+             offset="1"
+             stop-color="#daa520"
+             id="stop291" />
+        </radialGradient>
+        <path
+           id="F_x5F_molecule_x5F_fill_1_"
+           d="m 243.23,201.63 0.04,-0.67 c 0.51,-8.47 -6,-15.82 -14.47,-16.33 l -0.67,-0.04 c -8.47,-0.51 -15.82,6 -16.33,14.47 l -0.04,0.67 c -0.51,8.47 6,15.82 14.47,16.33 l 0.67,0.04 c 8.48,0.51 15.82,-6 16.33,-14.47 z"
+           fill="url(#F_x5F_molecule_x5F_fill_2_)"
+           stroke="#daa520"
+           stroke-width="0.817"
+           stroke-miterlimit="10"
+           style="fill:url(#F_x5F_molecule_x5F_fill_2_)" />
+        <circle
+           id="F_x5F_molecule_x5F_shine_1_"
+           class="st17"
+           cx="230.27"
+           cy="193.82001"
+           r="3.78" />
+        <g
+           id="F_1_">
+          <g
+             id="g298">
+            <path
+               class="st7"
+               d="m 225.43,201.14 v 4.78 h -2.07 v -11.16 h 7.92 v 1.79 h -5.85 v 2.86 h 4.88 v 1.73 z"
+               id="path296" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="Cl_x5F_molecule_1_">
+        <radialGradient
+           id="Cl_x5F_molecule_x5F_fill_2_"
+           cx="887.995"
+           cy="66.041"
+           r="17.263"
+           gradientTransform="matrix(-1.1338,0,0,1.1338,1252.58,7.4)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop302" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop304" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop306" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop308" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop310" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop312" />
+        </radialGradient>
+        <path
+           id="Cl_x5F_molecule_x5F_fill_1_"
+           d="m 265.28,83.87 0.05,-0.84 c 0.63,-10.5 -7.44,-19.61 -17.94,-20.24 l -0.84,-0.05 c -10.5,-0.63 -19.61,7.44 -20.24,17.94 l -0.05,0.84 c -0.63,10.5 7.44,19.61 17.94,20.24 l 0.84,0.05 c 10.5,0.63 19.61,-7.44 20.24,-17.94 z"
+           fill="url(#Cl_x5F_molecule_x5F_fill_2_)"
+           stroke="#47b265"
+           stroke-width="0.5"
+           stroke-miterlimit="10"
+           style="fill:url(#Cl_x5F_molecule_x5F_fill_2_)" />
+        <circle
+           id="Cl_x5F_molecule_x5F_shine_1_"
+           class="st19"
+           cx="249.2"
+           cy="74.190002"
+           r="4.6799998" />
+        <g
+           id="Cl_1_">
+          <g
+             id="g321">
+            <path
+               class="st7"
+               d="m 238.9,82.29 c 0,-3.31 2.07,-5.82 5.38,-5.82 1.27,0 2.32,0.33 3.09,0.92 0.9,0.71 1.44,1.71 1.57,2.88 h -2.07 c -0.19,-1.2 -1.14,-2.04 -2.61,-2.04 -2.13,0 -3.25,1.74 -3.25,4.06 0,2.37 1.27,4.04 3.27,4.04 1.67,0 2.58,-1.11 2.7,-2.46 h 2.08 c -0.04,1.11 -0.57,2.24 -1.35,2.99 -0.81,0.81 -1.95,1.23 -3.45,1.23 -3.22,-0.01 -5.36,-2.46 -5.36,-5.8 z"
+               id="path317" />
+            <path
+               class="st7"
+               d="m 250.48,76.68 h 1.92 v 11.16 h -1.92 z"
+               id="path319" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="R-enantiomer_x5F_structure">
+      <g
+         id="H_x5F_molecule">
+        <radialGradient
+           id="H_x5F_molecule_x5F_fill_3_"
+           cx="975.75598"
+           cy="175.196"
+           r="12.844"
+           gradientTransform="matrix(-1,0,0,1,1113.061,0)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#f0f0f0"
+             id="stop326" />
+          <stop
+             offset=".333"
+             stop-color="#eee"
+             id="stop328" />
+          <stop
+             offset=".521"
+             stop-color="#e5e5e5"
+             id="stop330" />
+          <stop
+             offset=".674"
+             stop-color="#d7d7d7"
+             id="stop332" />
+          <stop
+             offset=".808"
+             stop-color="#c4c4c4"
+             id="stop334" />
+          <stop
+             offset=".927"
+             stop-color="#aaa"
+             id="stop336" />
+          <stop
+             offset="1"
+             stop-color="#979797"
+             id="stop338" />
+        </radialGradient>
+        <path
+           id="H_x5F_molecule_x5F_fill"
+           d="m 150.09,176.24 0.03,-0.55 c 0.42,-6.89 -4.88,-12.87 -11.78,-13.29 l -0.55,-0.03 c -6.89,-0.42 -12.87,4.88 -13.29,11.78 l -0.03,0.55 c -0.42,6.89 4.88,12.87 11.78,13.29 l 0.55,0.03 c 6.9,0.41 12.88,-4.89 13.29,-11.78 z"
+           fill="url(#H_x5F_molecule_x5F_fill_3_)"
+           stroke="#979797"
+           stroke-width="0.5"
+           stroke-miterlimit="10"
+           style="fill:url(#H_x5F_molecule_x5F_fill_3_)" />
+        <circle
+           id="H_x5F_molecule_x5F_shine"
+           class="st10"
+           cx="139.53999"
+           cy="169.89"
+           r="3.0699999" />
+        <g
+           id="H">
+          <g
+             id="g345">
+            <path
+               class="st7"
+               d="m 139.77,175.83 h -4.94 v 4.95 h -2.07 v -11.16 h 2.07 v 4.49 h 4.94 v -4.49 h 2.08 v 11.16 h -2.08 z"
+               id="path343" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="Br_x5F_molecule">
+        <radialGradient
+           id="Br_x5F_molecule_x5F_fill_3_"
+           cx="1086.184"
+           cy="159.799"
+           r="18.386"
+           gradientTransform="matrix(-1.1338,0,0,1.1338,1252.58,7.4)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset=".003"
+             stop-color="#dcbeb4"
+             id="stop349" />
+          <stop
+             offset=".308"
+             stop-color="#dbbcb2"
+             id="stop351" />
+          <stop
+             offset=".482"
+             stop-color="#d8b5a9"
+             id="stop353" />
+          <stop
+             offset=".624"
+             stop-color="#d2a99b"
+             id="stop355" />
+          <stop
+             offset=".747"
+             stop-color="#ca9788"
+             id="stop357" />
+          <stop
+             offset=".859"
+             stop-color="#c0816e"
+             id="stop359" />
+          <stop
+             offset=".961"
+             stop-color="#b4664f"
+             id="stop361" />
+          <stop
+             offset="1"
+             stop-color="#ae5a41"
+             id="stop363" />
+        </radialGradient>
+        <path
+           id="Br_x5F_molecule_x5F_fill"
+           d="m 41.85,190.27 0.05,-0.89 C 42.57,178.2 33.97,168.49 22.79,167.82 L 21.9,167.77 C 10.72,167.1 1.01,175.7 0.34,186.88 l -0.05,0.89 c -0.67,11.18 7.93,20.89 19.11,21.56 l 0.89,0.05 c 11.18,0.68 20.89,-7.92 21.56,-19.11 z"
+           fill="url(#Br_x5F_molecule_x5F_fill_3_)"
+           stroke="#b36959"
+           stroke-width="0.5"
+           stroke-miterlimit="10"
+           style="fill:url(#Br_x5F_molecule_x5F_fill_3_)" />
+        <circle
+           id="Br_x5F_molecule_x5F_shine"
+           class="st6"
+           cx="24.73"
+           cy="179.97"
+           r="4.9899998" />
+        <g
+           id="Br">
+          <g
+             id="g372">
+            <path
+               class="st7"
+               d="m 13.48,183 h 5.06 c 1.15,0 2.04,0.29 2.62,0.85 0.56,0.51 0.85,1.19 0.85,2.04 0,1.16 -0.63,1.92 -1.83,2.28 v 0.04 c 1.39,0.33 2.28,1.29 2.28,2.7 0,0.99 -0.36,1.77 -0.99,2.31 -0.65,0.6 -1.57,0.93 -2.77,0.93 h -5.22 z m 4.75,4.6 c 1.08,0 1.75,-0.52 1.75,-1.48 0,-0.92 -0.63,-1.46 -1.65,-1.46 h -2.8 v 2.94 z m 0.29,4.86 c 0.63,0 1.11,-0.18 1.41,-0.48 0.29,-0.27 0.45,-0.66 0.45,-1.14 0,-1.14 -0.81,-1.7 -1.92,-1.7 h -2.92 v 3.32 z"
+               id="path368" />
+            <path
+               class="st7"
+               d="m 25.72,194.15 h -1.9 v -8.01 h 1.84 v 1.44 h 0.04 c 0.51,-1.04 1.27,-1.56 2.29,-1.56 0.23,0 0.38,0.02 0.51,0.08 v 1.71 h -0.06 c -0.18,-0.04 -0.33,-0.06 -0.52,-0.06 -1.26,-0.02 -2.21,0.84 -2.21,2.38 v 4.02 z"
+               id="path370" />
+          </g>
+        </g>
+      </g>
+      <linearGradient
+         id="Connector_x5F_01_3_"
+         gradientUnits="userSpaceOnUse"
+         x1="-65.637001"
+         y1="647.98901"
+         x2="-59.694"
+         y2="647.98901"
+         gradientTransform="matrix(0.3603,1.1085,-0.951,0.3091,703.75,43.486)">
+        <stop
+           offset="0"
+           stop-color="#b3b3b3"
+           id="stop376" />
+        <stop
+           offset=".198"
+           stop-color="#adadad"
+           id="stop378" />
+        <stop
+           offset=".468"
+           stop-color="#9b9b9b"
+           id="stop380" />
+        <stop
+           offset=".777"
+           stop-color="#7f7f7f"
+           id="stop382" />
+        <stop
+           offset="1"
+           stop-color="#666"
+           id="stop384" />
+      </linearGradient>
+      <path
+         id="Connector_x5F_01"
+         d="m 40.8,185.8 c 0,0 -1.42,-0.03 -2.32,-2.77 -0.9,-2.74 0.24,-3.63 0.24,-3.63 l 51.6,-16.98 c 0,0 0.05,1.49 0.65,3.33 0.6,1.84 1.43,3.07 1.43,3.07 z"
+         fill="url(#Connector_x5F_01_3_)"
+         stroke="#898989"
+         stroke-width="0.35"
+         stroke-miterlimit="10"
+         style="fill:url(#Connector_x5F_01_3_)" />
+      <linearGradient
+         id="Connector_x5F_02_3_"
+         gradientUnits="userSpaceOnUse"
+         x1="-33.480999"
+         y1="183.145"
+         x2="-27.594999"
+         y2="183.145"
+         gradientTransform="matrix(0.3615,-1.1081,0.9507,0.3101,-49.182,76.711)">
+        <stop
+           offset="0"
+           stop-color="#b3b3b3"
+           id="stop388" />
+        <stop
+           offset=".198"
+           stop-color="#adadad"
+           id="stop390" />
+        <stop
+           offset=".468"
+           stop-color="#9b9b9b"
+           id="stop392" />
+        <stop
+           offset=".777"
+           stop-color="#7f7f7f"
+           id="stop394" />
+        <stop
+           offset="1"
+           stop-color="#666"
+           id="stop396" />
+      </linearGradient>
+      <path
+         id="Connector_x5F_02"
+         d="m 127.44,168.16 c 0,0 0.64,0.71 -0.26,3.46 -0.89,2.74 -1.83,2.94 -1.83,2.94 l -25.78,-8.27 c 0,0 0.84,-1.23 1.44,-3.07 0.6,-1.84 0.65,-3.33 0.65,-3.33 z"
+         fill="url(#Connector_x5F_02_3_)"
+         stroke="#898989"
+         stroke-width="0.35"
+         stroke-miterlimit="10"
+         style="fill:url(#Connector_x5F_02_3_)" />
+      <g
+         id="C_x5F_molecule">
+        <radialGradient
+           id="C_x5F_molecule_x5F_fill_3_"
+           cx="1013.051"
+           cy="162.879"
+           r="16.391001"
+           gradientTransform="matrix(-1,0,0,1,1113.061,0)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#969696"
+             id="stop400" />
+          <stop
+             offset=".392"
+             stop-color="#949494"
+             id="stop402" />
+          <stop
+             offset=".614"
+             stop-color="#8b8b8b"
+             id="stop404" />
+          <stop
+             offset=".794"
+             stop-color="#7e7e7e"
+             id="stop406" />
+          <stop
+             offset=".951"
+             stop-color="#6a6a6a"
+             id="stop408" />
+          <stop
+             offset="1"
+             stop-color="#626262"
+             id="stop410" />
+        </radialGradient>
+        <path
+           id="C_x5F_molecule_x5F_fill"
+           d="m 116.33,164.21 0.04,-0.7 c 0.53,-8.8 -6.23,-16.42 -15.03,-16.95 l -0.7,-0.04 c -8.8,-0.53 -16.42,6.23 -16.95,15.03 l -0.04,0.7 c -0.53,8.8 6.23,16.42 15.03,16.95 l 0.7,0.04 c 8.79,0.53 16.42,-6.23 16.95,-15.03 z"
+           fill="url(#C_x5F_molecule_x5F_fill_3_)"
+           stroke="#717171"
+           stroke-width="0.5"
+           stroke-miterlimit="10"
+           style="fill:url(#C_x5F_molecule_x5F_fill_3_)" />
+        <circle
+           id="C_x5F_molecule_x5F_shine"
+           class="st13"
+           cx="102.87"
+           cy="156.11"
+           r="3.9200001" />
+        <g
+           id="C_15_">
+          <g
+             id="g417">
+            <path
+               class="st7"
+               d="m 94.93,163.13 c 0,-3.31 2.07,-5.82 5.38,-5.82 1.27,0 2.32,0.33 3.09,0.92 0.9,0.71 1.44,1.71 1.57,2.88 h -2.07 c -0.19,-1.2 -1.14,-2.04 -2.61,-2.04 -2.13,0 -3.25,1.74 -3.25,4.06 0,2.37 1.27,4.04 3.27,4.04 1.67,0 2.58,-1.11 2.7,-2.46 h 2.08 c -0.04,1.11 -0.57,2.24 -1.35,2.99 -0.81,0.81 -1.95,1.23 -3.45,1.23 -3.22,-0.01 -5.36,-2.45 -5.36,-5.8 z"
+               id="path415" />
+          </g>
+        </g>
+      </g>
+      <linearGradient
+         id="Connector_x5F_03_3_"
+         gradientUnits="userSpaceOnUse"
+         x1="-156.23801"
+         y1="427.65701"
+         x2="-150.295"
+         y2="427.65701"
+         gradientTransform="matrix(1.1953,-0.00203,0.0017,1,282.444,-307.648)">
+        <stop
+           offset="0"
+           stop-color="#b3b3b3"
+           id="stop421" />
+        <stop
+           offset=".198"
+           stop-color="#adadad"
+           id="stop423" />
+        <stop
+           offset=".468"
+           stop-color="#9b9b9b"
+           id="stop425" />
+        <stop
+           offset=".777"
+           stop-color="#7f7f7f"
+           id="stop427" />
+        <stop
+           offset="1"
+           stop-color="#666"
+           id="stop429" />
+      </linearGradient>
+      <path
+         id="Connector_x5F_03"
+         d="m 103.56,147.06 c 0,0 -0.49,0.83 -3.45,0.83 -2.96,0.01 -3.45,-0.82 -3.45,-0.82 L 96.37,92.75 c 0,0 1.47,0.41 3.45,0.41 1.98,0 3.45,-0.42 3.45,-0.42 z"
+         fill="url(#Connector_x5F_03_3_)"
+         stroke="#898989"
+         stroke-width="0.35"
+         stroke-miterlimit="10"
+         style="fill:url(#Connector_x5F_03_3_)" />
+      <g
+         id="Cl_x5F_molecule">
+        <radialGradient
+           id="Cl_x5F_molecule_x5F_fill_3_"
+           cx="1016.58"
+           cy="66.041"
+           r="17.263"
+           gradientTransform="matrix(-1.1338,0,0,1.1338,1252.58,7.4)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#93d2a4"
+             id="stop433" />
+          <stop
+             offset=".363"
+             stop-color="#90d1a2"
+             id="stop435" />
+          <stop
+             offset=".57"
+             stop-color="#88cd9b"
+             id="stop437" />
+          <stop
+             offset=".738"
+             stop-color="#7ac790"
+             id="stop439" />
+          <stop
+             offset=".884"
+             stop-color="#67bf7f"
+             id="stop441" />
+          <stop
+             offset=".995"
+             stop-color="#52b66e"
+             id="stop443" />
+        </radialGradient>
+        <path
+           id="Cl_x5F_molecule_x5F_fill"
+           d="m 119.5,83.87 0.05,-0.84 c 0.63,-10.5 -7.44,-19.61 -17.94,-20.24 l -0.84,-0.05 C 90.27,62.11 81.16,70.18 80.53,80.68 l -0.05,0.84 c -0.63,10.5 7.44,19.61 17.94,20.24 l 0.84,0.05 c 10.49,0.63 19.6,-7.44 20.24,-17.94 z"
+           fill="url(#Cl_x5F_molecule_x5F_fill_3_)"
+           stroke="#47b265"
+           stroke-width="0.5"
+           stroke-miterlimit="10"
+           style="fill:url(#Cl_x5F_molecule_x5F_fill_3_)" />
+        <circle
+           id="Cl_x5F_molecule_x5F_shine"
+           class="st19"
+           cx="103.42"
+           cy="74.190002"
+           r="4.6799998" />
+        <g
+           id="Cl">
+          <g
+             id="g452">
+            <path
+               class="st7"
+               d="m 93.11,82.29 c 0,-3.31 2.07,-5.82 5.38,-5.82 1.27,0 2.32,0.33 3.09,0.92 0.9,0.71 1.44,1.71 1.57,2.88 h -2.07 c -0.19,-1.2 -1.14,-2.04 -2.61,-2.04 -2.13,0 -3.25,1.74 -3.25,4.06 0,2.37 1.27,4.04 3.27,4.04 1.67,0 2.58,-1.11 2.7,-2.46 h 2.08 c -0.04,1.11 -0.57,2.24 -1.35,2.99 -0.81,0.81 -1.95,1.23 -3.45,1.23 -3.21,-0.01 -5.36,-2.46 -5.36,-5.8 z"
+               id="path448" />
+            <path
+               class="st7"
+               d="m 104.69,76.68 h 1.92 v 11.16 h -1.92 z"
+               id="path450" />
+          </g>
+        </g>
+      </g>
+      <linearGradient
+         id="Connector_x5F_04_3_"
+         gradientUnits="userSpaceOnUse"
+         x1="148.22099"
+         y1="510.439"
+         x2="154.108"
+         y2="510.439"
+         gradientTransform="matrix(-1.0435,0.5193,-0.4455,-0.8953,495.407,562.57)">
+        <stop
+           offset="0"
+           stop-color="#b3b3b3"
+           id="stop456" />
+        <stop
+           offset=".198"
+           stop-color="#adadad"
+           id="stop458" />
+        <stop
+           offset=".468"
+           stop-color="#9b9b9b"
+           id="stop460" />
+        <stop
+           offset=".777"
+           stop-color="#7f7f7f"
+           id="stop462" />
+        <stop
+           offset="1"
+           stop-color="#666"
+           id="stop464" />
+      </linearGradient>
+      <path
+         id="Connector_x5F_04"
+         d="m 101.57,174.32 c 0,0 -0.36,-1.89 2.22,-3.17 2.58,-1.29 3.8,0.18 3.8,0.18 l 12.18,24.18 c 0,0 -1.46,0.27 -3.2,1.13 -1.74,0.86 -2.83,1.87 -2.83,1.87 z"
+         fill="url(#Connector_x5F_04_3_)"
+         stroke="#898989"
+         stroke-width="0.35"
+         stroke-miterlimit="10"
+         style="fill:url(#Connector_x5F_04_3_)" />
+      <g
+         id="F_x5F_molecule">
+        <radialGradient
+           id="F_x5F_molecule_x5F_fill_3_"
+           cx="1000.495"
+           cy="170.17999"
+           r="13.924"
+           gradientTransform="matrix(-1.1338,0,0,1.1338,1252.58,7.4)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             stop-color="#f0c8a0"
+             id="stop468" />
+          <stop
+             offset=".298"
+             stop-color="#f0c79e"
+             id="stop470" />
+          <stop
+             offset=".467"
+             stop-color="#eec595"
+             id="stop472" />
+          <stop
+             offset=".603"
+             stop-color="#ecc187"
+             id="stop474" />
+          <stop
+             offset=".723"
+             stop-color="#e8bc74"
+             id="stop476" />
+          <stop
+             offset=".831"
+             stop-color="#e4b55a"
+             id="stop478" />
+          <stop
+             offset=".93"
+             stop-color="#dfac3b"
+             id="stop480" />
+          <stop
+             offset="1"
+             stop-color="#daa520"
+             id="stop482" />
+        </radialGradient>
+        <path
+           id="F_x5F_molecule_x5F_fill"
+           d="m 133.97,201.63 0.04,-0.67 c 0.51,-8.47 -6,-15.82 -14.47,-16.33 l -0.67,-0.04 c -8.47,-0.51 -15.82,6 -16.33,14.47 l -0.04,0.67 c -0.51,8.47 6,15.82 14.47,16.33 l 0.67,0.04 c 8.47,0.51 15.82,-6 16.33,-14.47 z"
+           fill="url(#F_x5F_molecule_x5F_fill_3_)"
+           stroke="#daa520"
+           stroke-width="0.817"
+           stroke-miterlimit="10"
+           style="fill:url(#F_x5F_molecule_x5F_fill_3_)" />
+        <circle
+           id="F_x5F_molecule_x5F_shine"
+           class="st17"
+           cx="121"
+           cy="193.82001"
+           r="3.78" />
+        <g
+           id="F">
+          <g
+             id="g489">
+            <path
+               class="st7"
+               d="m 116.16,201.14 v 4.78 h -2.07 v -11.16 h 7.92 v 1.79 h -5.85 v 2.86 h 4.88 v 1.73 z"
+               id="path487" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="Arrows"
+     transform="translate(-0.00336745,-19.029703)">
+    <g
+       id="Arrow_x5F_02">
+      <g
+         id="g501">
+        <path
+           class="st29"
+           d="m 69.31,49.98 c 7.96,-7.34 18.59,-11.82 30.27,-11.82 23.97,0 43.53,18.88 44.64,42.57"
+           id="path495" />
+        <g
+           id="g499">
+          <path
+             class="st7"
+             d="m 137.88,78.71 5.86,10.99 6.6,-10.58 z"
+             id="path497" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="Arrow_x5F_01">
+      <g
+         id="g510">
+        <path
+           class="st29"
+           d="m 276.36,49.98 c -7.96,-7.34 -18.59,-11.82 -30.27,-11.82 -23.97,0 -43.53,18.88 -44.64,42.57"
+           id="path504" />
+        <g
+           id="g508">
+          <path
+             class="st7"
+             d="m 195.34,79.12 6.59,10.58 5.86,-10.99 z"
+             id="path506" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
