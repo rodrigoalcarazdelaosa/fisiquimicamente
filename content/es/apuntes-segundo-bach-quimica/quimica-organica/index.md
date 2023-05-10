@@ -312,7 +312,7 @@ La [**hidrólisis**](https://es.wikipedia.org/wiki/Hidrólisis) de un haloalcano
 
 Una molécula incorpora a su estructura otra molécula. Ocurren con sustratos con dobles o triples enlaces originando un producto con un mayor grado de saturación.
 
-> La adición en alquenos asimétricos ocurre según la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov) que establece que la adición de un reactivo de tipo HX (H<sub>2</sub>O, HCl, ...) a un doble enlace da lugar a un producto mayoritario en el que el hidrógeno se une al carbono menos sustituido (con más H). El otro producto posible también se forma, pero en menor proporción.
+> La adición en alquenos asimétricos ocurre según la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov), que establece que la adición de un reactivo de tipo HX (H<sub>2</sub>O, HCl, ...) a un doble enlace da lugar a un producto mayoritario en el que el hidrógeno se une al carbono menos sustituido (con más H). El otro producto posible también se forma, pero en menor proporción.
 
 #### Hidrogenación catalítica de alquenos
 
@@ -370,7 +370,7 @@ El agua H<sub>2</sub>O también se añade al enlace múltiple siguiendo la [**re
 
 Una molécula pierde átomos en posiciones adyacentes y origina una molécula con un enlace doble o triple. Las reacciones de eliminación son las reacciones inversas a las de adición a un doble enlace.
 
-> En las reacciones de eliminación, se pierden átomos de dos carbonos vecinales produciéndose mayoritariamente el **doble enlace más sustituido** según lo que se conoce como [**regla de Záitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev).
+> En las reacciones de eliminación se pierden átomos de dos carbonos vecinales produciéndose mayoritariamente el **doble enlace más sustituido**, según lo que se conoce como [**regla de Záitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev).
 
 #### Deshidrogenación
 
@@ -477,7 +477,7 @@ El amoniaco, las aminas primarias y las aminas secundarias reaccionan con los á
 Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados macromoléculas) son moléculas muy grandes formadas a partir de la repetición de unidades más pequeñas llamadas [**monómeros**](https://es.wikipedia.org/wiki/Monómero).
 
 {{% callout note %}}
-Echa un vistazo a [esta interesante **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}), donde analizamos las principales **propiedades** y **usos** de los seis **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
+En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los seis **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
 {{% /callout %}}
 
 #### Clasificación de los polímeros

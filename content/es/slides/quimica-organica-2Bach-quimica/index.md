@@ -420,7 +420,7 @@ Una molécula incorpora a su estructura otra molécula. Ocurren con sustratos co
 
 ---
 
-> La adición en alquenos asimétricos ocurre según la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov) que establece que la adición de un reactivo de tipo HX (H<sub>2</sub>O, HCl, ...) a un doble enlace da lugar a un producto mayoritario en el que el hidrógeno se une al carbono menos sustituido (con más H). El otro producto posible también se forma, pero en menor proporción.
+> La adición en alquenos asimétricos ocurre según la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov), que establece que la adición de un reactivo de tipo HX (H<sub>2</sub>O, HCl, ...) a un doble enlace da lugar a un producto mayoritario en el que el hidrógeno se une al carbono menos sustituido (con más H). El otro producto posible también se forma, pero en menor proporción.
 
 ---
 
@@ -508,7 +508,7 @@ Una molécula pierde átomos en posiciones adyacentes y origina una molécula co
 
 ---
 
-> En las reacciones de eliminación, se pierden átomos de dos carbonos vecinales produciéndose mayoritariamente el **doble enlace más sustituido** según lo que se conoce como [**regla de Záitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev).
+> En las reacciones de eliminación se pierden átomos de dos carbonos vecinales produciéndose mayoritariamente el **doble enlace más sustituido**, según lo que se conoce como [**regla de Záitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev).
 
 ---
 
@@ -690,7 +690,7 @@ Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados
 
 ---
 
-> Echa un vistazo a [esta interesante **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}), donde analizamos las principales **propiedades** y **usos** de los seis **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
+> En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los seis **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
 
 ---
 
