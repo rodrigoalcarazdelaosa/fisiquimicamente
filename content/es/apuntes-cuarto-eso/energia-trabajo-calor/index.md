@@ -108,13 +108,13 @@ Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta ve
 \end{align*}
 
 \begin{align*}
-E_{\mathrm{m}_\mathrm A} & = \frac{1}{2}mv_\mathrm A^2 + mgh_\mathrm A \\\\
+E_{\mathrm{m}\_\mathrm A} & = \frac{1}{2}mv\_\mathrm A^2 + mgh\_\mathrm A \\\\
 & = \frac{1}{2}\cdot 50\cdot 5^2 + 50\cdot 9.8\cdot 30 \\\\
 & = 625 + 14700 = 15325\thinspace\mathrm J
 \end{align*}
 
 \begin{align*}
-E_{\mathrm{m}_\mathrm B} & = \frac{1}{2}mv_\mathrm B^2 + mgh_\mathrm B \\\\
+E_{\mathrm{m}\_\mathrm B} & = \frac{1}{2}mv\_\mathrm B^2 + mgh\_\mathrm B \\\\
 & = \frac{1}{2}\cdot 50\cdot 3.2^2 + 50\cdot 9.8\cdot 20 \\\\
 & = 256 + 9800 = 10056\thinspace\mathrm J
 \end{align*}
@@ -123,7 +123,7 @@ E_{\mathrm{m}_\mathrm B} & = \frac{1}{2}mv_\mathrm B^2 + mgh_\mathrm B \\\\
 
 b) La energía perdida por rozamiento (en forma de calor) es igual a la diferencia entre la energía inicial (A) y la final (B):
 \begin{align*}
-E_\text{disipada} & = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B} \\\\
+E\_\text{disipada} & = E\_{\mathrm{m}\_\mathrm A} - E\_{\mathrm{m}\_\mathrm B} \\\\
 & = 15325 - 10056 = 5269\thinspace\mathrm J
 \end{align*}
 

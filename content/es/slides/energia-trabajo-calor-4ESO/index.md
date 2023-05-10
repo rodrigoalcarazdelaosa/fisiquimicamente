@@ -147,13 +147,13 @@ Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta ve
 ---
 
 \begin{align*}
-E_{\mathrm{m}_\mathrm A} & = \frac{1}{2}mv_\mathrm A^2 + mgh_\mathrm A \\\\
+E_{\mathrm{m}\_\mathrm A} & = \frac{1}{2}mv\_\mathrm A^2 + mgh\_\mathrm A \\\\
 & = \frac{1}{2}\cdot 50\cdot 5^2 + 50\cdot 9.8\cdot 30 \\\\
 & = 625 + 14700 = 15325\thinspace\mathrm J
 \end{align*}
 
 \begin{align*}
-E_{\mathrm{m}_\mathrm B} & = \frac{1}{2}mv_\mathrm B^2 + mgh_\mathrm B \\\\
+E_{\mathrm{m}\_\mathrm B} & = \frac{1}{2}mv\_\mathrm B^2 + mgh\_\mathrm B \\\\
 & = \frac{1}{2}\cdot 50\cdot 3.2^2 + 50\cdot 9.8\cdot 20 \\\\
 & = 256 + 9800 = 10056\thinspace\mathrm J
 \end{align*}
@@ -162,7 +162,7 @@ E_{\mathrm{m}_\mathrm B} & = \frac{1}{2}mv_\mathrm B^2 + mgh_\mathrm B \\\\
 
 b) La energía perdida por rozamiento (en forma de calor) es igual a la diferencia entre la energía inicial (A) y la final (B):
 \begin{align*}
-E_\text{disipada} & = E_{\mathrm{m}_\mathrm A} - E_{\mathrm{m}_\mathrm B} \\\\
+E\_\text{disipada} & = E\_{\mathrm{m}\_\mathrm A} - E\_{\mathrm{m}\_\mathrm B} \\\\
 & = 15325 - 10056 = 5269\thinspace\mathrm J
 \end{align*}
 
@@ -238,10 +238,13 @@ $$
 
 En el **SI** la potencia se mide en **vatios** o ***watts*** ($1\thinspace\mathrm W = 1\thinspace\mathrm{J/s}$), siendo el **caballo de vapor** ($1\thinspace\mathrm{CV} \approx 735\thinspace\mathrm{W}$) otra unidad de uso común.
 
+---
+
 El **kilovatio hora**, $\mathrm{kW}\thinspace\mathrm h$, es una unidad de **energía** muy utilizada en la facturación para la energía entregada a los consumidores por las compañías eléctricas:
-$$
-1\thinspace\mathrm{kW}\thinspace\mathrm h\cdot \frac{1000\thinspace\mathrm{W}}{1\thinspace\mathrm{kW}}\cdot \frac{3600\thinspace\mathrm{s}}{1\thinspace\mathrm{h}} = 3.6\times 10^6\thinspace\mathrm{W\cdot s} = 3.6\times 10^6\thinspace\mathrm J
-$$
+\begin{align*}
+1\thinspace\mathrm{kW}\thinspace\mathrm h\cdot \frac{1000\thinspace\mathrm{W}}{1\thinspace\mathrm{kW}}\cdot \frac{3600\thinspace\mathrm{s}}{1\thinspace\mathrm{h}} &= 3.6\times 10^6\thinspace\mathrm{W\cdot s} \\\\
+&= 3.6\times 10^6\thinspace\mathrm J
+\end{align*}
 
 ---
 
