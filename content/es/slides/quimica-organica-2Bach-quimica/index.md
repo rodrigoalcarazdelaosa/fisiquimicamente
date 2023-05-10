@@ -71,10 +71,10 @@ Se presenta en compuestos que difieren en el **esqueleto** de la **cadena carbon
 ---
 
 ##### Butano
-{{% 3Dmol data_cid="7843" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/butano.sdf" %}}
 
 ##### Metilpropano (isobutano)
-{{% 3Dmol data_cid="6360" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/isobutano.mol" %}}
 
 ---
 
@@ -99,18 +99,18 @@ Se presenta en compuestos que difieren en la **posición** de su **grupo funcion
 ---
 
 ##### But–2–eno
-{{% 3Dmol data_cid="533465" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/but-2-eno.mol" %}}
 
 ##### But–1–eno
-{{% 3Dmol data_cid="7844" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/but-1-eno.mol" %}}
 
 ---
 
 ##### Butan–2–ol
-{{% 3Dmol data_cid="6568" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-2-ol.mol" %}}
 
 ##### Butan–1–ol
-{{% 3Dmol data_cid="263" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 
 ---
 
@@ -131,26 +131,26 @@ aunque existen otras muchas posibilidades.
 ---
 
 ##### Metil propil éter (metoxipropano)
-{{% 3Dmol data_cid="11182" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/metoxipropano.mol" %}}
 
 ##### Butan–1–ol
-{{% 3Dmol data_cid="263" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 
 ---
 
 ##### Propanal
-{{% 3Dmol data_cid="527" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/propanal.mol" %}}
 
 ##### Propanona (acetona)
-{{% 3Dmol data_cid="180" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acetona.sdf" %}}
 
 ---
 
 ##### Ácido propanoico
-{{% 3Dmol data_cid="1032" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-propanoico.mol" %}}
 
 ##### Etanoato/acetato de metilo
-{{% 3Dmol data_cid="6584" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acetato-metilo.mol" %}}
 
 ---
 
@@ -159,8 +159,8 @@ aunque existen otras muchas posibilidades.
 En este caso, la estructura de las sustancias es la misma pero se **diferencian** en su **orientación espacial**.
 
 - [Isomería geométrica (*cis-trans*)](#/2/14)
-- [Isomería conformacional](#/2/28)
-- [Isomería óptica](#/2/35)
+- [Isomería conformacional](#/2/29)
+- [Isomería óptica](#/2/36)
 
 (continúa hacia abajo)
 
@@ -189,10 +189,10 @@ Los isómeros *cis* tienen ambos sustituyentes del doble enlace hacia un lado, l
 ---
 
 ##### *cis*–1,2–dicloroeteno
-{{% 3Dmol data_cid="643833" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/cis-12-dicloroeteno.mol" %}}
 
 ##### *trans*–1,2–dicloroeteno
-{{% 3Dmol data_cid="638186" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/trans-12-dicloroeteno.mol" %}}
 
 ---
 
@@ -202,7 +202,7 @@ El 1,1–dicloroeteno no puede presentar isomería *cis-trans*:
 
 ---
 
-{{% 3Dmol data_cid="6366" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/11-dicloroeteno.mol" %}}
 
 ---
 
@@ -231,6 +231,14 @@ El isómero Z será el que tenga los dos sustituyentes de mayor jerarquía del m
 
 ---
 
+###### (Z)–1–bromo–1–cloro–2–metilbut–1–eno
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/Z-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
+
+###### (E)–1–bromo–1–cloro–2–metilbut–1–eno
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/E-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
+
+---
+
 Un ejemplo de lo diferentes que pueden llegar a ser dos isómeros *cis-trans* lo tenemos con los **ácidos [fumárico](https://es.wikipedia.org/wiki/Ácido_fumárico)** y **[maleico](https://es.wikipedia.org/wiki/Ácido_cis-butenodioico)**:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/fumarico-maleico.svg" lightbox="false" width="100%" >}}
@@ -238,10 +246,10 @@ Un ejemplo de lo diferentes que pueden llegar a ser dos isómeros *cis-trans* lo
 ---
 
 ##### Ácido fumárico
-{{% 3Dmol data_cid="444972" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-fumarico.mol" %}}
 
 ##### Ácido maleico
-{{% 3Dmol data_cid="444266" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-maleico.mol" %}}
 
 ---
 
@@ -320,10 +328,10 @@ Si el plano de la luz polarizada se desvía a la derecha son sustancias *dextró
 ---
 
 ##### <span style="font-variant:small-caps">d</span>-Alanina
-{{% 3Dmol data_cid="71080" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/D-alanina.mol" %}}
 
 ##### <span style="font-variant:small-caps">l</span>-Alanina
-{{% 3Dmol data_cid="449619" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/L-alanina.mol" %}}
 
 ---
 

@@ -74,10 +74,10 @@ Se presenta en compuestos que difieren en el **esqueleto** de la **cadena carbon
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
 ##### Butano
-{{% 3Dmol data_cid="7843" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/butano.sdf" %}}
 
 ##### Metilpropano (isobutano)
-{{% 3Dmol data_cid="6360" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/isobutano.mol" %}}
 {{< /spoiler >}}
 
 En la siguiente tabla puedes ver el número de isómeros que presentan los hidrocarburos lineales saturados:
@@ -103,16 +103,16 @@ Se presenta en compuestos que difieren en la **posición** de su **grupo funcion
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
 ##### But–2–eno
-{{% 3Dmol data_cid="533465" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/but-2-eno.mol" %}}
 
 ##### But–1–eno
-{{% 3Dmol data_cid="7844" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/but-1-eno.mol" %}}
 
 ##### Butan–2–ol
-{{% 3Dmol data_cid="6568" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-2-ol.mol" %}}
 
 ##### Butan–1–ol
-{{% 3Dmol data_cid="263" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 {{< /spoiler >}}
 
 #### Isomería de función
@@ -129,22 +129,22 @@ aunque existen otras muchas posibilidades.
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
 ##### Metil propil éter (metoxipropano)
-{{% 3Dmol data_cid="11182" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/metoxipropano.mol" %}}
 
 ##### Butan–1–ol
-{{% 3Dmol data_cid="263" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 
 ##### Propanal
-{{% 3Dmol data_cid="527" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/propanal.mol" %}}
 
 ##### Propanona (acetona)
-{{% 3Dmol data_cid="180" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acetona.sdf" %}}
 
 ##### Ácido propanoico
-{{% 3Dmol data_cid="1032" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-propanoico.mol" %}}
 
 ##### Etanoato/acetato de metilo
-{{% 3Dmol data_cid="6584" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acetato-metilo.mol" %}}
 {{< /spoiler >}}
 
 ### Estereoisomería
@@ -161,10 +161,10 @@ Los isómeros *cis* tienen ambos sustituyentes del doble enlace hacia un lado, l
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
 ##### *cis*–1,2–dicloroeteno
-{{% 3Dmol data_cid="643833" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/cis-12-dicloroeteno.mol" %}}
 
 ##### *trans*–1,2–dicloroeteno
-{{% 3Dmol data_cid="638186" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/trans-12-dicloroeteno.mol" %}}
 {{< /spoiler >}}
 
 El 1,1–dicloroeteno no puede presentar isomería *cis-trans*:
@@ -172,7 +172,7 @@ El 1,1–dicloroeteno no puede presentar isomería *cis-trans*:
 {{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroeteno.svg" lightbox="false" width="50%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con esta **molécula** en **3D**" >}}
-{{% 3Dmol data_cid="6366" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/11-dicloroeteno.mol" %}}
 {{< /spoiler >}}
 
 Este tipo de isomería se da también en compuestos con un plano de simetría, debido a la imposibilidad de rotación:
@@ -190,16 +190,24 @@ En cada carbono del doble enlace, el sustituyente de mayor número atómico tien
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/E-Z.svg" lightbox="false" width="100%" theme="light" >}}
 
+{{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
+###### (Z)–1–bromo–1–cloro–2–metilbut–1–eno
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/Z-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
+
+###### (E)–1–bromo–1–cloro–2–metilbut–1–eno
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/E-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
+{{< /spoiler >}}
+
 Un ejemplo de lo diferentes que pueden llegar a ser dos isómeros *cis-trans* lo tenemos con los **ácidos [fumárico](https://es.wikipedia.org/wiki/Ácido_fumárico)** y **[maleico](https://es.wikipedia.org/wiki/Ácido_cis-butenodioico)**:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/fumarico-maleico.svg" lightbox="false" width="100%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
 ##### Ácido fumárico
-{{% 3Dmol data_cid="444972" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-fumarico.mol" %}}
 
 ##### Ácido maleico
-{{% 3Dmol data_cid="444266" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-maleico.mol" %}}
 {{< /spoiler >}}
 
 Siendo el primero fundamental en varias rutas del metabolismo celular, destacando su participación en el [ciclo de Krebs](https://es.wikipedia.org/wiki/Ciclo_de_Krebs); y el segundo tóxico. Sus propiedades físicas son muy diferentes.
@@ -244,10 +252,10 @@ Este es el tipo de esteroisomería que presentan moléculas esenciales para la v
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
 ##### <span style="font-variant:small-caps">d</span>-Alanina
-{{% 3Dmol data_cid="71080" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/D-alanina.mol" %}}
 
 ##### <span style="font-variant:small-caps">l</span>-Alanina
-{{% 3Dmol data_cid="449619" %}}
+{{% 3Dmol data_href="/media/quimica-organica-2Bach/L-alanina.mol" %}}
 {{< /spoiler >}}
 
 ##### Proyecciones de Fischer
