@@ -56,6 +56,16 @@ threedmol: true
 **Repasa** la **formulación** y la **nomenclatura** de **Química Orgánica** con estos [**apuntes**]({{< relref "apuntes-formulacion/organica" >}}) actualizados a las últimas recomendaciones de la IUPAC de 2013.
 {{% /callout %}}
 
+{{% callout note %}}
+Las **representaciones tridimensionales de moléculas** son posibles gracias a [**3Dmol.js**](https://3dmol.csb.pitt.edu):
+
+Nicholas Rego and David Koes
+
+3Dmol.js: molecular visualization with WebGL
+
+Bioinformatics (2015) 31 (8): 1322–1324 https://doi.org/10.1093/bioinformatics/btu829
+{{% /callout %}}
+
 ## Isomería
 
 Dos compuestos son **isómeros**[^1] entre sí si tienen el mismo número y tipo de átomos, es decir, si tienen la **misma fórmula molecular**. Dos compuestos isómeros tienen el **mismo número** de **insaturaciones**.
