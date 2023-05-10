@@ -247,9 +247,10 @@ Gracias al **experimento de Torricelli** se midió por primera vez la presión a
 
 {{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" title="Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a aproximadamente 76 cm, creándose un vacío en los 24 cm restantes. Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/53700/53703/53703_torricellian.htm)." lightbox="true" >}}
 
-$$
-p_\text{atm} = d_\text{Hg}\cdot g\cdot h = 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} =  101325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
-$$
+\begin{align*}
+p_\text{atm} = d_\text{Hg}\cdot g\cdot h &= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\\\
+&= 101\thinspace325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
+\end{align*}
 
 El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos muestra esta célebre experiencia en el siguiente vídeo:
 
