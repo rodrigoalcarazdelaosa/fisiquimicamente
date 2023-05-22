@@ -97,6 +97,8 @@
 {{ else if eq .Site.Language.Lang "ca" }}
 Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.svg"> GitHub</a><span class="middot-divider"></span>Servit per <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmació:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
 {{ end }}
+
+<br><a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml/badge.svg"></a>
   
 </p>
 

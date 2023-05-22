@@ -1,3 +1,5 @@
+![publish-CFP](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml/badge.svg)
+
 # [FisiQuímicamente](https://fisiquimicamente.com/)
 
 Recursos de Física y Química, tutoriales y ciencia de actualidad.
