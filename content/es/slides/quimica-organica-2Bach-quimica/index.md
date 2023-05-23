@@ -702,6 +702,10 @@ Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados
 
 ---
 
+> Aprende a **nombrar polímeros** con [esta **guía breve** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/02/Brief-Guide-to-Polymer-Nomenclature_Espanol-20220214.pdf).
+
+---
+
 #### Clasificación de los polímeros
 
 Existen polímeros **naturales** como los polisacáridos, las proteínas o el caucho (natural) y otros [**sintéticos**](https://es.wikipedia.org/wiki/Polímeros_sintéticos): polietileno (PE), nylon, poliéster, PVC, PET...

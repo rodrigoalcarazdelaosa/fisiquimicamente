@@ -496,6 +496,8 @@ Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados
 
 {{% callout note %}}
 En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los seis **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
+
+Aprende a **nombrar polímeros** con [esta **guía breve** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/02/Brief-Guide-to-Polymer-Nomenclature_Espanol-20220214.pdf).
 {{% /callout %}}
 
 #### Clasificación de los polímeros
