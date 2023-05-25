@@ -1,4 +1,4 @@
-![publish-CFP](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml/badge.svg)
+<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml/badge.svg"></a>
 
 # [FisiQuímicamente](https://fisiquimicamente.com/)
 
