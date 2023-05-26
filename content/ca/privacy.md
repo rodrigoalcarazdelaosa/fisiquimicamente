@@ -16,7 +16,6 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="github" src="/icon/github.svg"> GitHub](https://docs.github.com/es/github/site-policy/github-privacy-statement) per l'allotjament del seu [codi font](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) pel seu desplegament/servei i per a les analítiques web.
 - [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy/) per al [formulari de contacte](/#contacte).
-- [<img draggable="false" class="icon" alt="fontawesome" src="/icon/fontawesome.svg"> FontAwesome](https://fontawesome.com/privacy) per icones.
 - [<img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> Paypal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions).
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) per la [llicència](/llicencia).
 
