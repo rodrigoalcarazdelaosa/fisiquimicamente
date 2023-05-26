@@ -1,12 +1,14 @@
 # Español
 es:
   baseURL: 'https://fisiquimicamente.com/'
+  weight: 1
   languageCode: es
-  contentDir: content/es
+  contentDir: content/es  
 
 # Inglés
 en:
   baseURL: 'https://physichemically.com/'
+  weight: 2
   languageCode: en
   contentDir: content/en
   title: PhysiChemically
@@ -25,6 +27,7 @@ en:
 # Catalán
 ca:
   baseURL: 'https://fisiquimicament.com/'
+  weight: 3
   languageCode: ca
   contentDir: content/ca
   title: FisiQuímicament
