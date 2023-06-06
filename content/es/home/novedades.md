@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Dispersión de colores en un prisma"
-      url: 'blog/2023/04/26/dispersion-de-colores-en-un-prisma/'
+      text: "La física de los loops de las montañas rusas"
+      url: 'blog/2023/06/06/la-fisica-de-los-loops-de-las-montanas-rusas/'
 ---
