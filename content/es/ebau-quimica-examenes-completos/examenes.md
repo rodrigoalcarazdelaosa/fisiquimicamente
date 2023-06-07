@@ -73,9 +73,13 @@ subtitle = "📝 Exámenes completos"
     name = "2021"
     tag = "2021"
 
-[[content.filter_button]]
+  [[content.filter_button]]
     name = "2022"
-    tag = "2022"    
+    tag = "2022"
+
+  [[content.filter_button]]
+    name = "2023"
+    tag = "2023"    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
