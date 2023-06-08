@@ -105,5 +105,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "La física de los loops de las montañas rusas"
-      url: 'blog/2023/06/06/la-fisica-de-los-loops-de-las-montanas-rusas/'
+      url: 'blog/2023/06/08/la-fisica-de-los-loops-de-las-montanas-rusas/'
 ---
