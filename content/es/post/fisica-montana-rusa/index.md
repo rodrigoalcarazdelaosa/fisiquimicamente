@@ -27,7 +27,7 @@ Esta entrada es una **traducción/adaptación** de este magnífico **vídeo** de
 
 {{< youtube 4q2W5SJc5j4 >}}
 
-🙏 Quisiera agradecer personalmente a [**James St.Onge**](https://twitter.com/aoEngineering), el autor del vídeo, por su valiosa ayuda a la hora de reproducir los cálculos mostrados en el vídeo.
+🙏 Quisiera agradecer personalmente a [**James St.Onge**](https://twitter.com/aoEngineering), el autor del vídeo, y a [**Marcelo Mazón García**](https://es.linkedin.com/in/marcelo-mazón-garcía-48bb16227), por su valiosa ayuda a la hora de reproducir los cálculos mostrados en el vídeo.
 
 {{% /callout %}}
 
