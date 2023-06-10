@@ -22,10 +22,12 @@ organizations:
 - name: Hospital Mompía
   url: "https://www.hospitalmompia.com/"
 - name: Escuela Técnico Profesional en Ciencias de la Salud
-  url: "https://www.escuelaclinicamompia.es/"  
+  url: "https://www.escuelahospitalmompia.es"
+- name: Universidad Católica de Ávila
+  url: "https://www.ucavila.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy Radiofísica Hospitalaria en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) y estudiante de Doctorado en Medicina en la [Universidad de Cantabria](https://web.unican.es).
+bio: Soy Radiofísica Hospitalaria en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) y estudiante de Doctorado en Medicina y Ciencias de la Salud en la [Universidad de Cantabria](https://web.unican.es).
 
 interests:
 - ✈️ Viajar 
@@ -77,4 +79,4 @@ user_groups:
 - 🧑‍🔬 Fundadores
 ---
 
-Soy **Radiofísica Hospitalaria** en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) e imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/). Además, soy **estudiante de Doctorado en Medicina** en la [Universidad de Cantabria](https://web.unican.es).
+Soy **Radiofísica Hospitalaria** en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) e imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es). Además, soy **estudiante de Doctorado en Medicina y Ciencias de la Salud** en la [Universidad de Cantabria](https://web.unican.es).

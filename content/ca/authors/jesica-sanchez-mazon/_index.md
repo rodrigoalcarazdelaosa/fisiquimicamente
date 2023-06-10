@@ -22,10 +22,12 @@ organizations:
 - name: Hospital Mompía
   url: "https://www.hospitalmompia.com/"
 - name: Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía
-  url: "https://www.escuelaclinicamompia.es/"
+  url: "https://www.escuelahospitalmompia.es"
+- name: Universidad Católica de Ávila
+  url: "https://www.ucavila.es"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soc Radiofísica Hospitalària a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i una estudiant de Doctorat en Medicina a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
+bio: Soc Radiofísica Hospitalària a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i una estudiant de Doctorat en Medicina i Ciències de la Salut a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
 
 interests:
 - ✈️ Viatjar 
@@ -77,4 +79,4 @@ user_groups:
 - 🧑‍🔬 Fundadors
 ---
 
-Soc **Radiofísica Hospitalària** a a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i imparteixo **docència** en el Cicle Formatiu i Grau en la [Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía](https://www.escuelaclinicamompia.es/). A més a més, sóc **estudiant de Doctorat en Medicina** a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
+Soc **Radiofísica Hospitalària** a a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i imparteixo **docència** en el Cicle Formatiu i Grau en la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es). A més a més, sóc **estudiant de Doctorat en Medicina i Ciències de la Salut** a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
