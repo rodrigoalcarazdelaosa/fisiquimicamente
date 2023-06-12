@@ -273,7 +273,7 @@ Materiales *magnetizados*.
 Demostró que las **corrientes eléctricas crean campos magnéticos**.
 
 #### Experiencia de Faraday-Henry
-{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. https://www.freepng.es/png-8st7vt/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. Fuente: https://www.chegg.com/learn/topic/faradays-experiment." lightbox="false" width="100%" >}}
 
 Demostró que los **campos magnéticos pueden crear corrientes eléctricas**. Puedes aprender más *jugando* con esta **simulación**:
 

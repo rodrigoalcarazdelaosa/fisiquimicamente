@@ -375,7 +375,7 @@ Demostró que las **corrientes eléctricas crean campos magnéticos**.
 ---
 
 #### Experiencia de Faraday-Henry
-{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja." lightbox="false" width="80%" >}}
+{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja." lightbox="false" width="75%" >}}
 
 ---
 
