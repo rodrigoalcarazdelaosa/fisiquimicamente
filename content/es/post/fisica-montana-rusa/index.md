@@ -142,7 +142,7 @@ Dado que el radio es ahora una función en lugar de una constante, resulta más 
 
 Introducimos nuestra expresión de $r$ en la primera ecuación y resolvemos el sistema numéricamente[^4] para trazar la forma del loop. Podemos también generar un gráfico de fuerza g a lo largo de la trayectoria como hicimos antes para el loop circular:
 
-[^4]: En este caso se ha utilizado el solver `ode45` de [MATLAB](https://es.mathworks.com/products/matlab.html).
+[^4]: En este caso se ha utilizado el solver [`ode45`](https://es.mathworks.com/help/matlab/ref/ode45.html) de [MATLAB](https://es.mathworks.com/products/matlab.html).
 
 {{< figure src="constant-ac.svg" title="Estos loops en particular fueron diseñados para dar aceleraciones centrípetas constantes de 2*g*, 3*g* y 4*g*, respectivamente, cuando el tren tiene una velocidad inicial de 20&thinsp;m/s." lightbox="false" width="100%" theme="light" >}}
 
