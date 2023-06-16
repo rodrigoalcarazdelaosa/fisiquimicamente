@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: ¡La materia nos rodea! | 2.º ESO – 3.º ESO
-      url: 'https://cedec.intef.es/proyecto-edia-recurso-para-ciencias-la-materia-nos-rodea/'
+      text: El misterioso envenenamiento del señor Lafarge | 3.º ESO
+      url: 'https://descargas.intef.es/recursos_educativos/ODES_SGOA/ESO/FQ/3B.1_-_El_misterioso_envenenamiento/index.html'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

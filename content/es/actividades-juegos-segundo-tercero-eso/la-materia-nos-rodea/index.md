@@ -2,7 +2,7 @@
 title: "¡La materia nos rodea!"
 url: "/recursos-fisica-quimica/actividades-juegos/2eso-3eso/la-materia-nos-rodea"
 subtitle: Estudia las propiedades de la materia aplicando el método científico
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Estudia las propiedades de la materia aplicando el método científico."
+summary: "Estudia las propiedades de la materia aplicando el método científico."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso-3eso"]
 tags:
 - actividades
