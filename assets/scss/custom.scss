@@ -600,6 +600,7 @@ a.summary-link {
 
 .card-simple {
   background-color: #fff;
+  border-radius: 8px;
 }
 
 .dark .card, .dark .card-simple {
@@ -1584,4 +1585,27 @@ speedlify-score > :not(.speedlify-score) {
 }
 speedlify-score > :first-child {
 	margin-left: 0;
+}
+
+details p {
+  margin-left: 0;
+  padding-left: 0;
+  border-left: none;
+}
+
+.dark details p {
+  border-left: none;
+}
+
+.spoiler {
+  background-color: $nord4;  
+  border: 1px solid transparent;
+  border-radius: 8px;
+  border-color: $nord0;
+  padding: 16px 16px 8px;
+}
+
+.dark .spoiler {
+  background-color: $nord3;
+  border-color: $nord6;
 }
