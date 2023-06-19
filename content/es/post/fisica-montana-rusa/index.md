@@ -1,5 +1,5 @@
 ---
-title: "La física de los loops de las montañas rusas"
+title: "La física de los loops de las montañas rusas 🎢"
 subtitle: Un vistazo a los principios físicos y los cálculos que utilizan los ingenieros para diseñar los loops de las montañas rusas
 summary: "Un vistazo a los principios físicos y los cálculos que utilizan los ingenieros para diseñar los loops de las montañas rusas."
 breadcrumbs: ["blog"]
