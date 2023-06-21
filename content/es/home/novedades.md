@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "La física de los loops de las montañas rusas 🎢"
-      url: 'blog/2023/06/08/la-fisica-de-los-loops-de-las-montanas-rusas/'
+      text: "12 principios de la enseñanza guiada por la evidencia"
+      url: 'blog/2023/06/21/12-principios-de-la-ensenanza-guiada-por-la-evidencia/'
 ---
