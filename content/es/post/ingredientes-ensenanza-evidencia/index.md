@@ -22,7 +22,7 @@ image:
 
 ---
 
-{{% embed_pdf url="https://www.fecyt.es/sites/default/files/divulgacion/12_ingredientes_final.pdf" filename="12_ingredientes_final.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/blog/2023/06/21/12-principios-de-la-ensenanza-guiada-por-la-evidencia/infografia.pdf" filename="infografia.pdf" %}}
 
 {{% callout note %}}
 
