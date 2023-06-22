@@ -15,14 +15,15 @@ tags:
 - carga-cognitiva
 - evaluación-formativa
 categories:
-image:
-  preview_only: true
+image:  
   placement: 3
   caption: https://www.fecyt.es/es/FECYTedu/12-principios-de-la-ensenanza-guiada-por-la-evidencia
-
+links:
+- icon_pack: fas
+  icon:
+  name: 📜 Infografía
+  url: https://www.fecyt.es/sites/default/files/divulgacion/12_ingredientes_final.pdf
 ---
-
-{{% embed_pdf url="https://fisiquimicamente.com/blog/2023/06/21/12-principios-de-la-ensenanza-guiada-por-la-evidencia/infografia.pdf" filename="infografia.pdf" %}}
 
 {{% callout note %}}
 
