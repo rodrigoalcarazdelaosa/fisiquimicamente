@@ -105,5 +105,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "12 principios de la enseñanza guiada por la evidencia"
-      url: 'blog/2023/06/21/12-principios-de-la-ensenanza-guiada-por-la-evidencia/'
+      url: 'blog/2023/06/30/12-principios-de-la-ensenanza-guiada-por-la-evidencia/'
 ---

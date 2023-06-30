@@ -3,7 +3,7 @@ title: 12 principios de la enseñanza guiada por la evidencia
 subtitle: No hay una receta infalible en clase, pero existen ingredientes clave que contribuyen a promover el aprendizaje significativo
 summary: No hay una receta infalible en clase, pero existen ingredientes clave que contribuyen a promover el aprendizaje significativo.
 breadcrumbs: ["blog"]
-date: "2023-06-21T00:00:00Z"
+date: "2023-06-30T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -27,7 +27,7 @@ links:
 
 {{% callout note %}}
 
-[Entrada original](https://www.fecyt.es/es/FECYTedu/12-principios-de-la-ensenanza-guiada-por-la-evidencia) de [**Héctor Ruiz Martín**](https://twitter.com/hruizmartin/) dentro del **proyecto #FECYTedu #coNprueba** de la [**Fundación Española para la Ciencia y la Tecnología (FECYT)**](https://www.fecyt.es/es).
+[Entrada original](https://www.fecyt.es/es/FECYTedu/12-principios-de-la-ensenanza-guiada-por-la-evidencia) de [**Héctor Ruiz Martín**](https://twitter.com/hruizmartin/) para el **proyecto #FECYTedu #coNprueba** de la [**Fundación Española para la Ciencia y la Tecnología (FECYT)**](https://www.fecyt.es/es).
 
 {{% /callout %}}
 
