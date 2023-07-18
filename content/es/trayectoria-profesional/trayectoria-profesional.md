@@ -20,7 +20,7 @@ date_format = "2006"
 [[experience]]
   title = "Profesor de Física y Química"
   company = "IES Peñacastillo"
-  company_url = "http://portaleducativo.educantabria.es/web/ies-penacastillo"
+  company_url = "https://www.educantabria.es/web/ies-penacastillo"
   company_logo = "penacastillo"
   location = "Santander, Cantabria (España)"
   date_start = "2021-09-01"

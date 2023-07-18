@@ -20,10 +20,10 @@ role: ⚛️ · 🤝 · 🔗 · ✍️
 # Organizations/Affiliations
 organizations:
 - name: IES Peñacastillo
-  url: "http://portaleducativo.educantabria.es/web/ies-penacastillo"
+  url: "https://www.educantabria.es/web/ies-penacastillo"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy Doctor en Física y Profesor de Física y Química en el [IES Peñacastillo](http://portaleducativo.educantabria.es/web/ies-penacastillo) de Cantabria (España).
+bio: Soy Doctor en Física y Profesor de Física y Química en el [IES Peñacastillo](https://www.educantabria.es/web/ies-penacastillo) de Cantabria (España).
 
 interests:
 - ✈️ Viajar
@@ -108,4 +108,4 @@ user_groups:
 - 🧑‍🔬 Fundadores
 ---
 
-Soy Doctor en Física por la [Universidad de Cantabria](https://web.unican.es) y Profesor de Física y Química en el [IES Peñacastillo](http://portaleducativo.educantabria.es/web/ies-penacastillo) de Cantabria (España). Además, soy el creador de [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/), donde puedes encontrar [⚛️ <span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), así como diversos [🤝 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) y entradas en el [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
+Soy Doctor en Física por la [Universidad de Cantabria](https://web.unican.es) y Profesor de Física y Química en el [IES Peñacastillo](https://www.educantabria.es/web/ies-penacastillo) de Cantabria (España). Además, soy el creador de [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/), donde puedes encontrar [⚛️ <span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), así como diversos [🤝 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) y entradas en el [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).

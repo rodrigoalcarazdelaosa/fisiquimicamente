@@ -19,10 +19,10 @@ role: 📚 · 🤝 · 🔗 · ✍️
 # Organizations/Affiliations
 organizations:
 - name: IES Peñacastillo
-  url: "http://portaleducativo.educantabria.es/web/ies-penacastillo"
+  url: "https://www.educantabria.es/web/ies-penacastillo"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have a PhD in Physics and I teach Physics and Chemistry at [IES Peñacastillo](http://portaleducativo.educantabria.es/web/ies-penacastillo) in Cantabria (Spain).
+bio: I have a PhD in Physics and I teach Physics and Chemistry at [IES Peñacastillo](https://www.educantabria.es/web/ies-penacastillo) in Cantabria (Spain).
 
 interests:
 - ✈️ Traveling
@@ -107,4 +107,4 @@ user_groups:
 - 🧑‍🔬 Founders
 ---
 
-I have a PhD in Physics by the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx) and I teach Physics and Chemistry at [IES Peñacastillo](http://portaleducativo.educantabria.es/web/ies-penacastillo) in Cantabria (Spain). I am also the creator of [<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/), where you can find [📚 <span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) as well as various [🤝 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}) and [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) posts.
+I have a PhD in Physics by the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx) and I teach Physics and Chemistry at [IES Peñacastillo](https://www.educantabria.es/web/ies-penacastillo) in Cantabria (Spain). I am also the creator of [<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/), where you can find [📚 <span style="font-variant:small-caps;">**Physics and Chemistry notes**</span>]({{< ref "/apuntes" >}}) as well as various [🤝 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**online resources**</span>]({{< ref "/recursos-online" >}}) and [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}) posts.
