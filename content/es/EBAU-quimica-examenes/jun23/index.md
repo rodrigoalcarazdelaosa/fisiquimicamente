@@ -2,7 +2,7 @@
 title: Junio 2023
 url: "recursos-fisica-quimica/ebau/quimica/examenes-completos/junio-2023"
 subtitle: Examen completo
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Examen completo de EBAU Química."  # Add a page description.
+summary: "Examen completo de EBAU Química."  # Add a page description.
 breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-examenes-completos"]
 authors:
 - enrique-ortega-gonzalez
