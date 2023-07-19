@@ -287,13 +287,17 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ---
 
-Te recomiendo echar un vistazo a [esta estupenda infografía](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [ECHA](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre:
+Os recomiendamos echar un vistazo a [esta estupenda **infografía**](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [**ECHA**](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre:
 
 <ul>
 {{% fragment %}}<li><strong>qué significa</strong> cada pictograma,</li>{{% /fragment %}}
 {{% fragment %}}<li><strong>qué hacer</strong> en caso de tener que manipular productos químicos con una determinada etiqueta y</li>{{% /fragment %}}
 {{% fragment %}}<li><strong>dónde se utiliza</strong> cada pictorgrama.</li>{{% /fragment %}}
 </ul>
+
+---
+
+También os recomendamos los magníficos [**pósters de Berto Tomás**](https://drive.google.com/drive/folders/1NDRYYRO93xZiSHmhS1hx6tb1MpbMWmWp).
 
 ---
 

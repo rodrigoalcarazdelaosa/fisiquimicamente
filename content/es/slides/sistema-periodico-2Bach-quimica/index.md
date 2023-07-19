@@ -46,6 +46,12 @@ La **tabla periódica** de los **elementos** organiza los **118 elementos** cono
 
 > Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en rojo son **excepciones**. Ejemplos notables son el **Cu** ([Ar] 4s<sup>1</sup> 3d<sup>10</sup>) y el **Cr** ([Ar] 4s<sup>1</sup> 3d<sup>5</sup>), debido a que los **orbitales d** son **más estables** cuando están **llenos** o **semillenos**, por razones de simetría.
 
+---
+
+### Origen de la tabla periódica
+
+> Os recomendamos [este magnífico **póster**](https://drive.google.com/file/d/1hh5wz8oVDqZ_Gzc5AYdxphLKHj7gjIMI/view?usp=share_link) de **Berto Tomás**, en colaboración con el [**Dr. Pep Antón Vieta**](https://twitter.com/pquimic).
+
 {{% /section %}}
 
 ---

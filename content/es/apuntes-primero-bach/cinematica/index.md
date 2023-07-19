@@ -1,7 +1,7 @@
 ---
-translationKey: "/recursos-fisica-quimica/apuntes/1bach/cinematica"
-title: Cinemática
-url: "/recursos-fisica-quimica/apuntes/1bach/cinematica"
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/cinematica-vectorial"
+title: Cinemática vectorial
+url: "/recursos-fisica-quimica/apuntes/1bach/cinematica-vectorial"
 subtitle: Magnitudes cinemáticas y movimientos rectilíneos
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code><br>Magnitudes cinemáticas y movimientos rectilíneos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","1bach"]

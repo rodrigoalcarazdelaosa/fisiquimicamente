@@ -70,6 +70,12 @@ Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en r
 
 <!-- {{< figure library="true" src="sistema-periodico-2Bach-quimica/tabla-periodica-elementos.png" title="Descárgate esta **tabla periódica** en PDF de alta resolución [aquí](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/2bach/quimica/sistema-periodico/tabla-periodica-elementos.pdf) (cada **elemento** es un **enlace** que te lleva a su página de la **Wikipedia**)." lightbox="true" >}} -->
 
+### Origen de la tabla periódica
+
+{{% callout note %}}
+Os recomendamos [este magnífico **póster**](https://drive.google.com/file/d/1hh5wz8oVDqZ_Gzc5AYdxphLKHj7gjIMI/view?usp=share_link) de **Berto Tomás**, en colaboración con el [**Dr. Pep Antón Vieta**](https://twitter.com/pquimic).
+{{% /callout %}}
+
 ## Apantallamiento y carga nuclear efectiva
 
 ### Apantallamiento

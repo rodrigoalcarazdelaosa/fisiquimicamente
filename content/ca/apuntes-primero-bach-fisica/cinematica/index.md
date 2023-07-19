@@ -1,7 +1,7 @@
 ---
-translationKey: "/recursos-fisica-quimica/apuntes/1bach/cinematica"
-title: Cinemàtica
-url: "/recursos-fisica-quimica/apunts/1batx/fisica/cinematica"
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/cinematica-vectorial"
+title: Cinemàtica vectorial
+url: "/recursos-fisica-quimica/apunts/1batx/fisica/cinematica-vectorial"
 subtitle: Magnituds cinemàtiques i moviments rectilinis
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code><br>Magnituds cinemàtiques i moviments rectilinis."
 breadcrumbs: ["recursos-fisica-quimica","apunts","1batx-fisica"]

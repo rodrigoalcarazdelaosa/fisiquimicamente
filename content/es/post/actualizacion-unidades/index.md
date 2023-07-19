@@ -38,6 +38,8 @@ math: true
 
 {{% callout note %}}
 Si no estás familiarizado con el **Sistema Internacional** de **Unidades** (SI) te recomiendo consultar [esta página](https://www.cem.es/es/cem/metrologia/sistema-internacional-unidades-si) del [Centro Español de Metrología (CEM)](https://www.cem.es), en particular el [**resumen conciso del SI**](https://www.cem.es/sites/default/files/documentos/2021-07/Resumen%20conciso%20del%20SI%20%289ª%20ed_2019%29_0.pdf).
+
+Te recomiendo también [este magnífico **póster**](https://drive.google.com/file/d/1RzJO2jgjKt5LKy2RZhDuhVWmCVjbjaxr/view?usp=sharing) de **Berto Tomás**.
 {{% /callout %}}
 
 {{% callout note %}}

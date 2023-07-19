@@ -224,11 +224,10 @@ gallery_item:
 </div>
 
 {{% callout note %}}
-En esta entrada recorro los distintos pósters, todos ellos **impresionantes**. Pinchando en cada una de las imágenes encontrarás su descripción traducida y un enlace para descargar el póster correspondiente en formato PDF de alta resolución.
+En esta entrada recorro los distintos **pósters**, todos ellos **impresionantes**. Pinchando en cada una de las imágenes encontrarás su descripción traducida y un enlace para descargar el póster correspondiente en formato **PDF** de alta resolución.
 
-Cuando hayas visto todos los pósters, te invito a que **votes** cuál es tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
+Si deseas consultar **datos** como masas, tamaños, periodos, etc. de cada planeta, te recomiendo [este magnífico **póster** de **Berto Tomás**](https://drive.google.com/file/d/10Ro1orLbzO47gjqsopk2W-6JcIbepE_K/view?usp=sharing).
 {{% /callout %}}
-
 {{% toc %}}
 
 ## El Sistema Solar
@@ -284,7 +283,3 @@ Cuando hayas visto todos los pósters, te invito a que **votes** cuál es tu **f
 {{< gallery album="cometas" >}}
 ## Más allá del Sistema Solar
 {{< gallery album="mas-alla" >}}
-
-{{% callout note %}}
-Ahora que has visto todos los pósters, **vota** tu **favorito** [aquí](https://t.co/gUgELhDtpo?amp=1) 😉. ¡Gracias 🙏!
-{{% /callout %}}

@@ -1,7 +1,7 @@
 ---
-translationKey: "/recursos-fisica-quimica/apuntes/1bach/cinematica"
-title: Kinematics
-url: "/physics-chemistry-notes/16-17-year-olds/kinematics"
+translationKey: "/recursos-fisica-quimica/apuntes/1bach/cinematica-vectorial"
+title: Vector Kinematics
+url: "/physics-chemistry-notes/16-17-year-olds/vector-kinematics"
 subtitle: Kinematic quantities and rectilinear motions
 summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code><br>Kinematic quantities and rectilinear motions."
 breadcrumbs: ["notes","16-17-year-olds"]
