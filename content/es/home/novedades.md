@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "12 principios de la enseñanza guiada por la evidencia"
-      url: 'blog/2023/06/30/12-principios-de-la-ensenanza-guiada-por-la-evidencia/'
+      text: "El origen del color del oro"
+      url: 'blog/2023/07/20/el-origen-del-color-del-oro/'
 ---
