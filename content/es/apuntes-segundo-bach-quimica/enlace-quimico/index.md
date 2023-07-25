@@ -151,10 +151,12 @@ El **enlace metálico** es el enlace químico que **mantiene unidos** a los **á
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/teoria-bandas.svg" title="Comparación de la **estructura** de **bandas** electrónicas de un **metal**, un **semiconductor** y un **aislante**. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Isolator-metal.svg." lightbox="false" width="100%" >}}
 
 {{% callout note %}}
-Puedes aprender más sobre la **teoría** de **bandas** y cómo ésta explica la **conductividad eléctrica** en [este excelente artículo](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
+Puedes aprender más sobre la **teoría** de **bandas** y cómo ésta explica la **conductividad eléctrica** en [este excelente **artículo**](https://culturacientifica.com/2020/04/21/la-teoria-de-bandas-explica-la-conduccion-electrica/).
+
+También os invitamos a leer [esta magnífica **entrada** de Manuel]({{< relref "/post/color-metales" >}}), donde se explica el **origen** del **color** del **oro** haciendo uso de la **mecánica cuántica** y la teoría de la **relatividad**.
 {{% /callout %}}
 
-También te recomendamos echar un vistazo a este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) donde explican la **diferencia** entre un **metal** y un **aislante**:
+Este magnífico **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) explica la **diferencia** entre un **metal** y un **aislante**:
 
 {{< youtube LNsSS6Id6bM >}}
 

@@ -105,5 +105,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "El origen del color del oro"
-      url: 'blog/2023/07/20/el-origen-del-color-del-oro/'
+      url: 'blog/2023/07/25/el-origen-del-color-del-oro/'
 ---
