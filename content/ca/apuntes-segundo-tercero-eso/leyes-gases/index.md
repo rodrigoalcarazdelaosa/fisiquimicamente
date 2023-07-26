@@ -6,6 +6,7 @@ summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br
 breadcrumbs: ["recursos-fisica-quimica","apunts","3reso"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 - oscar-colomar
 tags:
 - apunts
