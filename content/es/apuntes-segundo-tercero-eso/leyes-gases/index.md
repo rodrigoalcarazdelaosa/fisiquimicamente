@@ -4,6 +4,9 @@ url: "/recursos-fisica-quimica/apuntes/3eso/leyes-gases"
 subtitle: Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac
 summary: "Ley de Boyle-Mariotte, ley de Charles y ley de Gay-Lussac."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","3eso"]
+authors:
+- rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 tags:
 - apuntes
 - 3º ESO
@@ -35,7 +38,7 @@ math: true
 
 ## Ley de Boyle-Mariotte
 
-> A **temperatura constante**, el volumen de una masa fija de gas es inversamente proporcional a la presión que éste ejerce.
+> A **temperatura constante**, el volumen ocupado por una masa de gas es inversamente proporcional a la presión que ejerce.
 
 **Matemáticamente**:
 
@@ -77,7 +80,7 @@ $$
 
 ## Ley de Charles
 
-> Para una cierta cantidad de gas a **presión constante**, su volumen es directamente proporcional a su temperatura.
+> A **presión constante**, el volumen ocupado por una masa de gas es directamente proporcional a la temperatura absoluta.
 
 **Matemáticamente**:
 \begin{align*}
@@ -89,9 +92,9 @@ $$
 donde:		
 
 - $V_1$ es el volumen inicial.
-- $T_1$ es la temperatura inicial (¡en K!).
+- $T_1$ es la temperatura absoluta inicial (¡en K!).
 - $V_2$ es el volumen final.
-- $T_2$ es la temperatura final (¡en K!).
+- $T_2$ es la temperatura absoluta final (¡en K!).
 
 {{< figure library="true" src="leyes-gases-3ESO/ley-charles.svg" title="**Ley de Charles**. Al aumentar el volumen, aumenta también la temperatura." width="100%" lightbox="false" >}}
 
@@ -119,7 +122,7 @@ $$
 
 ## Ley de Gay-Lussac
 
-> La presión que ejerce un **volumen fijo** de gas es directamente proporcional a su temperatura.
+> A **volumen constante**, la presión ejercida por una masa de gas es directamente proporcional a la temperatura absoluta.
 
 **Matemáticamente**:
 \begin{align*}
@@ -131,9 +134,9 @@ $$
 donde:		
 
 - $p_1$ es la presión inicial.
-- $T_1$ es la temperatura inicial (¡en K!).
+- $T_1$ es la temperatura absoluta inicial (¡en K!).
 - $p_2$ es la presión final.
-- $T_2$ es la temperatura final (¡en K!).
+- $T_2$ es la temperatura absoluta final (¡en K!).
 
 {{< figure library="true" src="leyes-gases-3ESO/ley-gay-lussac.svg" title="**Ley de Gay-Lussac**. Al aumentar la presión, aumenta también la temperatura." width="100%" lightbox="false" >}}
 

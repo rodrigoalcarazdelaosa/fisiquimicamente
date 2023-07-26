@@ -32,7 +32,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ## Ley de Boyle-Mariotte
 
-<q>A **temperatura constante**, el volumen de una masa fija de gas es inversamente proporcional a la presión que éste ejerce.</q>
+<q>A **temperatura constante**, el volumen ocupado por una masa de gas es inversamente proporcional a la presión que ejerce.</q>
 
 (continúa hacia abajo)
 
@@ -88,7 +88,7 @@ $$
 
 ## Ley de Charles
 
-<q>Para una cierta cantidad de gas a **presión constante**, su volumen es directamente proporcional a su temperatura.</q>
+<q>A **presión constante**, el volumen ocupado por una masa de gas es directamente proporcional a la temperatura absoluta.</q>
 
 (continúa hacia abajo)
 
@@ -106,9 +106,9 @@ $$
 donde:		
 
 - $V_1$ es el volumen inicial.
-- $T_1$ es la temperatura inicial (¡en K!).
+- $T_1$ es la temperatura absoluta inicial (¡en K!).
 - $V_2$ es el volumen final.
-- $T_2$ es la temperatura final (¡en K!).
+- $T_2$ es la temperatura absoluta final (¡en K!).
 
 ---
 
@@ -144,7 +144,7 @@ $$
 
 ## Ley de Gay-Lussac
 
-<q>La presión que ejerce un **volumen fijo** de gas es directamente proporcional a su temperatura.</q>
+<q>A **volumen constante**, la presión ejercida por una masa de gas es directamente proporcional a la temperatura absoluta.</q>
 
 (continúa hacia abajo)
 
@@ -162,9 +162,9 @@ $$
 donde:		
 
 - $p_1$ es la presión inicial.
-- $T_1$ es la temperatura inicial (¡en K!).
+- $T_1$ es la temperatura absoluta inicial (¡en K!).
 - $p_2$ es la presión final.
-- $T_2$ es la temperatura final (¡en K!).
+- $T_2$ es la temperatura absoluta final (¡en K!).
 
 ---
 
