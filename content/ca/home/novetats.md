@@ -39,6 +39,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Calendari Científic Escolar"
-      url: 'blog/2023/01/10/calendari-cientific-escolar/'
+      text: "Women in Science"
+      url: 'blog/2023/07/31/women-in-science/'
 ---

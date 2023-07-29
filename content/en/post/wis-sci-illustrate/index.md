@@ -3,7 +3,7 @@ title: Women in Science
 subtitle: Stories about Women in Science who have changed the world, who persevered for the sake of knowledge
 summary: Stories about Women in Science who have changed the world, who persevered for the sake of knowledge.
 breadcrumbs: ["blog"]
-date: "2023-07-26T00:00:00Z"
+date: "2023-07-31T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -16,7 +16,7 @@ image:
   caption: https://www.sci-illustrate.com/wispostcards
 ---
 
-**Women in Science (WIS), [Sci-Illustrate Stories](https://medium.com/sci-illustrate-stories)** is an initiative of [**Sci-Illustrate**](https://www.sci-illustrate.com). In this post we echo 45 of their **beautiful illustrations**[^1] (many of them **animated**), summarising the main contributions of Women in Science who have changed the world, persevering for the sake of knowledge.
+**Women in Science (WIS), [Sci-Illustrate Stories](https://medium.com/sci-illustrate-stories)** is an initiative of [**Sci-Illustrate**](https://www.sci-illustrate.com). In this post we echo **45** of their **beautiful illustrations**[^1] (many of them **animated**), summarising the main contributions of Women in Science who have changed the world, persevering for the sake of knowledge.
 
 [^1]: Sorted alphabetically by last name.
 

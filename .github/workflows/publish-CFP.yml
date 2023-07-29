@@ -3,7 +3,7 @@ name: Publish to Cloudflare Pages
 on:
   push:
     branches:
-      - main    
+      - main
 
 jobs:
   publish:
@@ -65,7 +65,7 @@ jobs:
           key: ${{ runner.os }}-hugo-resources
 
       - name: Build site with Hugo
-        run: source get_last_commit_hash.sh && hugo --gc --minify
+        run: source get_last_commit_hash.sh && hugo --buildFuture --gc --minify
         env:
           HUGOxPARAMSxMARKETINGxVERIFICATIONxGOOGLE: ${{ secrets[matrix.GoogleVerificationCode] }}
           HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets[matrix.PDFEmbedKey] }}

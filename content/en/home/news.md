@@ -52,6 +52,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Scientific School Calendar
-      url: 'blog/2023/01/10/scientific-school-calendar/'
+      text: "Women in Science"
+      url: 'blog/2023/07/31/women-in-science/'
 ---
