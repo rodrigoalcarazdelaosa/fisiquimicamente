@@ -8,6 +8,7 @@ tags:
 - ABJ
 - 2º ESO
 - 3º ESO
+- mujeres-científicas
 categories:
 - Física
 - Química
@@ -27,7 +28,7 @@ links:
   url: https://www.luanagames.com/es.pdf
 ---
 
-“Mujeres en Ciencia”, una [idea original de Anouk Charles y Benoit Fries](https://www.luanagames.com/index.html), es un juego de cartas que familiariza a los/as jugadores/as con cientíﬁcas sobresalientes y frecuentemente desconocidas. De esta forma, el juego ofrece modelos que pueden servirles de inspiración a los/las niños/as.
+***Mujeres en Ciencia***, una [idea original de Anouk Charles y Benoit Fries](https://www.luanagames.com/index.html), es un juego de cartas que familiariza a los/as jugadores/as con cientíﬁcas sobresalientes y frecuentemente desconocidas. De esta forma, el juego ofrece modelos que pueden servirles de inspiración a los/las niños/as.
 
 ## 🎯 Objetivo
 

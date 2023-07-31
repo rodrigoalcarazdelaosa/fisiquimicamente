@@ -16,10 +16,10 @@ image:
   caption: https://www.sci-illustrate.com/wispostcards
 ---
 
-**Women in Science (WIS), [Sci-Illustrate Stories](https://medium.com/sci-illustrate-stories)** és una iniciativa de [**Sci-Illustrate**](https://www.sci-illustrate.com). En aquesta entrada ens fem ressò de **45** de les seves **precioses il·lustracions**[^1] (moltes d'elles **animades**), resumint les principals aportacions de dones científiques que han canviat el món, perseverant pel bé del coneixement[^2].
+**Women in Science (WIS), [Sci-Illustrate Stories](https://medium.com/sci-illustrate-stories)** és una iniciativa de [**Sci-Illustrate**](https://www.sci-illustrate.com). En aquesta entrada ens fem ressò de **45** de les seves **precioses il·lustracions**[^1] (moltes d'elles **animades**), resumint les principals aportacions de **dones científiques** que han canviat el món, perseverant pel bé del coneixement[^2].
 
 [^1]: Ordenades alfabèticament per cognom.
-[^2]: A banda de la font original de Sci-Illustrate Stories, hem inclòs l'**efemèride** corresponent de [***Mujeres con ciencia***](https://mujeresconciencia.com) (en espanyol) sempre que ha estat possible.
+[^2]: A banda de la font original de [**Sci-Illustrate Stories**](https://medium.com/sci-illustrate-stories), hem inclòs l'**efemèride** corresponent de [***Mujeres con ciencia***](https://mujeresconciencia.com) (en espanyol) sempre que ha estat possible.
 
 Pots **conèixer més** sobre la **història darrere de WIS** en aquests **vídeos**:
 

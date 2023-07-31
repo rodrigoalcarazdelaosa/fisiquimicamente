@@ -16,7 +16,7 @@ image:
   caption: https://www.sci-illustrate.com/wispostcards
 ---
 
-**Women in Science (WIS), [Sci-Illustrate Stories](https://medium.com/sci-illustrate-stories)** is an initiative of [**Sci-Illustrate**](https://www.sci-illustrate.com). In this post we echo **45** of their **beautiful illustrations**[^1] (many of them **animated**), summarising the main contributions of Women in Science who have changed the world, persevering for the sake of knowledge.
+**Women in Science (WIS), [Sci-Illustrate Stories](https://medium.com/sci-illustrate-stories)** is an initiative of [**Sci-Illustrate**](https://www.sci-illustrate.com). In this post we echo **45** of their **beautiful illustrations**[^1] (many of them **animated**), summarising the main contributions of **Women in Science** who have changed the world, persevering for the sake of knowledge.
 
 [^1]: Sorted alphabetically by last name.
 
@@ -31,6 +31,8 @@ You can **learn more** about the **story behind WIS** in these **videos**:
 If you like the illustrations, we highly **recommend** their [**postcard box set**](https://www.sci-illustrate.com/wispostcards), an exclusive box set of **30 square postcards** telling the **stories** of **30 inspiring Women in Science** from all over the world through **art**.
 
 In [this **link**](https://medium.com/sci-illustrate-stories/iwis/home) you can also have a look at more **illustrations** and **stories** of **Indian Women in Science**.
+
+And you can **play** the [***Women in Science***](https://www.luanagames.com/index.html) **card game** too, from Luana Games.
 
 {{% /callout %}}
 

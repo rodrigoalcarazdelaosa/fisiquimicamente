@@ -16,10 +16,10 @@ image:
   caption: https://www.sci-illustrate.com/wispostcards
 ---
 
-**Women in Science (WIS), [Sci-Illustrate Stories](https://medium.com/sci-illustrate-stories)** es una iniciativa de [**Sci-Illustrate**](https://www.sci-illustrate.com). En esta entrada nos hacemos eco de **45** de sus **preciosas ilustraciones**[^1] (muchas de ellas **animadas**), resumiendo las principales aportaciones de mujeres científicas que han cambiado el mundo, perseverando por el bien del conocimiento[^2].
+**Women in Science (WIS), [Sci-Illustrate Stories](https://medium.com/sci-illustrate-stories)** es una iniciativa de [**Sci-Illustrate**](https://www.sci-illustrate.com). En esta entrada nos hacemos eco de **45** de sus **preciosas ilustraciones**[^1] (muchas de ellas **animadas**), resumiendo las principales aportaciones de **mujeres científicas** que han cambiado el mundo, perseverando por el bien del conocimiento[^2].
 
 [^1]: Ordenadas alfabéticamente por apellido.
-[^2]: Aparte de la fuente original de Sci-Illustrate Stories, hemos incluido la **efeméride** correspondiente de [***Mujeres con ciencia***](https://mujeresconciencia.com) siempre que ha sido posible.
+[^2]: Aparte de la fuente original de [**Sci-Illustrate Stories**](https://medium.com/sci-illustrate-stories), hemos incluido la **efeméride** correspondiente de [***Mujeres con ciencia***](https://mujeresconciencia.com) siempre que ha sido posible.
 
 Puedes **conocer más** sobre la **historia detrás de WIS** en estos **vídeos**:
 
@@ -32,6 +32,8 @@ Puedes **conocer más** sobre la **historia detrás de WIS** en estos **vídeos*
 Si te gustan las ilustraciones, te **recomendamos** encarecidamente su [**set de postales**](https://www.sci-illustrate.com/wispostcards), un exclusivo estuche de **30 postales** cuadradas que cuentan las **historias** (en inglés) de **30 inspiradoras mujeres científicas** de todo el mundo a través del **arte**.
 
 En [este **enlace**](https://medium.com/sci-illustrate-stories/iwis/home) (en inglés) también puedes echar un vistazo a más **ilustraciones** e **historias** de **mujeres científicas indias**.
+
+Incluso puedes **jugar** al juego de **cartas** [***Mujeres en ciencia***]({{< relref "/actividades-juegos-segundo-tercero-eso/mujeres-en-ciencia" >}}).
 
 {{% /callout %}}
 
