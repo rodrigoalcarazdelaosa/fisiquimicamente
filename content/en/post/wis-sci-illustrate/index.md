@@ -302,7 +302,9 @@ And you can **play** the [***Women in Science***](https://www.luanagames.com/ind
 
 ### Youyou Tu
 
-> Known as the 3NOs professor and because it must be very confusing to sing her the happy birthday song. Also, first Chinese female scientist to be awarded the Nobel Prize for the discovery of Artemisinin.
+> Known as the 3NOs[^2] professor and because it must be very confusing to sing her the happy birthday song. Also, first Chinese female scientist to be awarded the Nobel Prize for the discovery of Artemisinin.
+
+[^2]: Youyou Tu is often referred to as the *3 NOs professor*: no doctorate, no affiliation with national academies and no abroad working experience.
 
 ![Youyou Tu](https://miro.medium.com/v2/resize:fit:720/format:webp/1*r4ueG8K3mBXyLx3yOCDb9g.png "[https://medium.com/sci-illustrate-stories/youyou-tu-4bb7cecbfc29](https://medium.com/sci-illustrate-stories/youyou-tu-4bb7cecbfc29?source=friends_link&sk=13471183b61641350d711a7721813418)")
 

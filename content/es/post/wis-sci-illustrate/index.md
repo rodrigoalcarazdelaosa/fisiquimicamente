@@ -303,7 +303,9 @@ Incluso puedes **jugar** al juego de **cartas** [***Mujeres en ciencia***]({{< r
 
 ### Youyou Tu
 
-> Conocida como la profesora de los 3NOs y porque debe ser muy confuso cantarle el cumpleaños feliz. Además, primera científica china femenina galardonada con el Premio Nobel por el descubrimiento de la artemisinina.
+> Conocida como la profesora de los 3NOs[^3] y porque debe ser muy confuso cantarle el cumpleaños feliz (🎶 *Happy Birthday to You* 🎶). Además, primera científica china femenina galardonada con el Premio Nobel por el descubrimiento de la artemisinina.
+
+[^3]: A Youyou Tu se le suele llamar la *profesora de los 3 NOs*: sin doctorado, sin afiliación a academias nacionales y sin experiencia laboral en el extranjero.
 
 ![Youyou Tu](https://miro.medium.com/v2/resize:fit:720/format:webp/1*r4ueG8K3mBXyLx3yOCDb9g.png "[**Efeméride** en ***Mujeres con ciencia***](https://mujeresconciencia.com/2015/12/30/youyou-tu-quimica-farmaceutica/). Fuente original: [https://medium.com/sci-illustrate-stories/youyou-tu-4bb7cecbfc29](https://medium.com/sci-illustrate-stories/youyou-tu-4bb7cecbfc29?source=friends_link&sk=13471183b61641350d711a7721813418).")
 

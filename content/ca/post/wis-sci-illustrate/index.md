@@ -6,6 +6,8 @@ breadcrumbs: ["blog"]
 date: "2023-07-31T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
+- oscar-colomar
+- eduard-cremades
 tags:
 - blog
 - dones-científiques
@@ -115,7 +117,7 @@ Fins i tot pots **jugar** al joc de **cartes** [***Mujeres en ciencia***](https:
 
 ### Margaret Hamilton
 
-> Margaret Hamilton és una pionera informàtica i enginyera de programari nord-americà que va tenir un paper clau en la creació del programari de la NASA que va fer possible l'allunatge.
+> Margaret Hamilton és una pionera informàtica i enginyera de programari nord-americana que va tenir un paper clau en la creació del programari de la NASA que va fer possible l'allunatge.
 
 ![Margaret Hamilton](https://miro.medium.com/v2/resize:fit:720/1*ZOrllGpw1sZNkRZVXwI1xA.gif "[**Efemèride** a ***Mujeres con ciencia***](https://mujeresconciencia.com/2016/08/17/margaret-hamilton-informatica/). Font original: [https://medium.com/sci-illustrate-stories/margaret-hamilton-3239ec4527d5](https://medium.com/sci-illustrate-stories/margaret-hamilton-3239ec4527d5?source=friends_link&sk=8211d703c19603ff4e636d358b5d7c0b).")
 
@@ -133,13 +135,13 @@ Fins i tot pots **jugar** al joc de **cartes** [***Mujeres en ciencia***](https:
 
 ### Barbara McClintock
 
-> Citogenetista nord-americà que va descobrir els centròmers, els telòmers i els transposons, per la qual cosa va ser guardonada amb el Premi Nobel de Fisiologia o Medicina el 1983, convertint-se en l'única dona a guanyar-ho sense compartir-ho!
+> Citogenetista nord-americana que va descobrir els centròmers, els telòmers i els transposons, per la qual cosa va ser guardonada amb el Premi Nobel de Fisiologia o Medicina el 1983, convertint-se en l'única dona a guanyar-ho sense compartir-ho!
 
 ![Barbara McClintock](https://miro.medium.com/v2/resize:fit:720/1*YauWjZdWHEZ2VraadK3Oxw.gif "[**Efemèride** a ***Mujeres con ciencia***](https://mujeresconciencia.com/2014/06/16/barbara-mcclintock/). Font original: [https://medium.com/sci-illustrate-stories/barbara-mcclintock-14f4bb656fd5](https://medium.com/sci-illustrate-stories/barbara-mcclintock-14f4bb656fd5?source=friends_link&sk=7c92dc0ad8a5d938a9443cc35e852227).")
 
 ### Ynés Mexia
 
-> Inés Mexia va ser una reconeguda botànica i intrèpida exploradora que va catalogar i va identificar valuosos exemplars de plantes d'Amèrica del Nord i del Sud.
+> Ynés Mexia va ser una reconeguda botànica i intrèpida exploradora que va catalogar i va identificar valuosos exemplars de plantes d'Amèrica del Nord i del Sud.
 
 ![Ynés Mexia](https://miro.medium.com/v2/resize:fit:720/1*VPCHUHCOInei5Rd8prrAjQ.gif "[**Efemèride** a ***Mujeres con ciencia***](https://mujeresconciencia.com/2015/05/24/ynes-mexia-botanica/). Font original: [https://medium.com/sci-illustrate-stories/ynés-mexia-18f5d54fa180](https://medium.com/sci-illustrate-stories/ynés-mexia-18f5d54fa180?source=friends_link&sk=e611d9645a8fe77e9a3e49010a930d37).")
 
@@ -189,7 +191,7 @@ Fins i tot pots **jugar** al joc de **cartes** [***Mujeres en ciencia***](https:
 
 ### Alice Augusta Ball
 
-> Una química i farmacèutica afroamericana que va desenvolupar un tractament eficaç i injectable contra la lepra (malaltia de Hansen), la seva història oblidada durant molt de temps.
+> Una química i farmacèutica afroamericana que va desenvolupar un tractament eficaç i injectable contra la lepra (malaltia de Hansen), la seva història va ser oblidada durant molt de temps.
 
 ![Alice Augusta Ball](https://miro.medium.com/v2/resize:fit:720/1*6X2XhgjqI1z6KFSCAqvVoQ.gif "[**Efemèride** a ***Mujeres con ciencia***](https://mujeresconciencia.com/2017/07/24/alice-ball-quimica/). Font original: [https://medium.com/sci-illustrate-stories/alice-augusta-ball-946152cfab4b](https://medium.com/sci-illustrate-stories/alice-augusta-ball-946152cfab4b?source=friends_link&sk=bc0b3794599f24200dac618659e040cc).")
 
@@ -243,7 +245,7 @@ Fins i tot pots **jugar** al joc de **cartes** [***Mujeres en ciencia***](https:
 
 ### Katherine Johnson
 
-> La matemàtica afroamericana (i probablement l'única persona de la història) que es considerava més precís i més fiable que els ordinadors.
+> La matemàtica afroamericana (i probablement l'única persona de la història) que es considerava més precisa i més fiable que els ordinadors.
 
 ![Katherine Johnson](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Gt4rDrOpWpApsKBUcz_QNA.jpeg "[**Efemèride** a ***Mujeres con ciencia***](https://mujeresconciencia.com/2016/08/26/katherine-johnson-fisica/). Font original: [https://medium.com/sci-illustrate-stories/katherine-johnson-32a256fdf690](https://medium.com/sci-illustrate-stories/katherine-johnson-32a256fdf690?source=friends_link&sk=bc4e348c2a6a46d56b96526d159c690a).")
 
@@ -261,13 +263,13 @@ Fins i tot pots **jugar** al joc de **cartes** [***Mujeres en ciencia***](https:
 
 ### Rita Levi-Montalcini
 
-> Una de les científiques més tenaços del segle XX, Premi Nobel pel descobriment del factor de creixement nerviós (NGF per les sigles en anglès).
+> Una de les científiques més tenaces del segle XX, Premi Nobel pel descobriment del factor de creixement nerviós (NGF per les sigles en anglès).
 
 ![Rita Levi-Montalcini](https://miro.medium.com/v2/resize:fit:720/format:webp/1*HaR1GR6MvucfSgFJaDWQ3A.png "[**Efemèride** a ***Mujeres con ciencia***](https://mujeresconciencia.com/2015/04/22/rita-levi-montalcini-neurologa/). Font original: [https://medium.com/sci-illustrate-stories/rita-levi-montalcini-6f6861b70277](https://medium.com/sci-illustrate-stories/rita-levi-montalcini-6f6861b70277?source=friends_link&sk=36674e4d85958dd0ddc7e13b6ac5d2ed).")
 
 ### Lise Meitner
 
-> Lise Meitner (1878–1968) va ser una física austríac-sueca que va donar la primera explicació teòrica de la fissió nuclear.
+> Lise Meitner (1878–1968) va ser una física austríaca-sueca que va donar la primera explicació teòrica de la fissió nuclear.
 
 ![Lise Meitner](https://miro.medium.com/v2/resize:fit:720/1*_oKpAty7sTU27YkvbE9CIA.gif "[**Efemèride** a ***Mujeres con ciencia***](https://mujeresconciencia.com/2014/11/07/lise-meitner-fisica-nuclear/). Font original: [https://medium.com/sci-illustrate-stories/lise-meitner-67ec593fa144](https://medium.com/sci-illustrate-stories/lise-meitner-67ec593fa144?source=friends_link&sk=414896c367c7ead1cdc1ef3542c4c43d).")
 
@@ -303,7 +305,9 @@ Fins i tot pots **jugar** al joc de **cartes** [***Mujeres en ciencia***](https:
 
 ### Youyou Tu
 
-> Coneguda com la professora dels 3NOs i perquè ha de ser molt confús cantar-li l'aniversari feliç. A més, primera científica xinesa femenina guardonada amb el premi Nobel pel descobriment de l'artemisinina.
+> Coneguda com la professora dels 3NOs[^3] i perquè ha de ser molt confús cantar-li l’aniversari feliç (🎶 *Happy Birthday to You* 🎶). A més, va ser la primera científica xinesa femenina guardonada amb el premi Nobel pel descobriment de l’artemisinina.
+
+[^3]: A Youyou Tu se'l sol anomenar la *professora dels 3 NOs*: sense doctorat, sense afiliació a acadèmies nacionals i sense experiència laboral a l'estranger.
 
 ![Youyou Tu](https://miro.medium.com/v2/resize:fit:720/format:webp/1*r4ueG8K3mBXyLx3yOCDb9g.png "[**Efemèride** a ***Mujeres con ciencia***](https://mujeresconciencia.com/2015/12/30/youyou-tu-quimica-farmaceutica/). Font original: [https://medium.com/sci-illustrate-stories/youyou-tu-4bb7cecbfc29](https://medium.com/sci-illustrate-stories/youyou-tu-4bb7cecbfc29?source=friends_link&sk=13471183b61641350d711a7721813418).")
 
