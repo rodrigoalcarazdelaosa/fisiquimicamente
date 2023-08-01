@@ -52,7 +52,7 @@ jobs:
         run: wget https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb -O hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb
         # 0.103.0 began new naming convention
         env:
-          HUGO_VERSION: 0.116
+          HUGO_VERSION: 0.116.0
 
       - name: Install Hugo
         run: sudo dpkg -i hugo*.deb
