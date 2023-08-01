@@ -64,6 +64,10 @@ social:
   icon_pack: svg
   link: https://www.instagram.com/motherofphotons
   label: Segueix-me a Instagram
+- icon: linkedin
+  icon_pack: svg
+  link: https://es.linkedin.com/in/jesicasanchezmazon
+  label: Segueix-me a LinkedIn
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
