@@ -8,9 +8,9 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://magiadigital.net
+external_link: https://magiayedicion.blogspot.com
 
 image:
-  caption: http://magiadigital.net
+  caption: https://magiayedicion.blogspot.com
   focal_point: Smart
 ---
