@@ -51,6 +51,10 @@ social:
   icon_pack: svg
   link: https://twitter.com/ManoloAlonso1
   label: Segueix-me a Twitter
+- icon: mastodon
+  icon_pack: svg
+  link: https://mstdn.social/@manuelalonso
+  label: Segueix-me a Mastodon  
 - icon: ✉️
   icon_pack: emoji
   link: 'mailto:man.alonso.orts@gmail.com'  # For a direct email link, use "mailto:test@example.org".
