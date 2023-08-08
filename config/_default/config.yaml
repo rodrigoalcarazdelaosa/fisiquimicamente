@@ -90,10 +90,6 @@ minify:
   disableHTML: true
 privacy:
   twitter:
-    enableDNT: true
-    simple: true
-  vimeo:
     enableDNT: true    
-services:
-  twitter:
-    disableInlineCSS: true
+  vimeo:
+    enableDNT: true
