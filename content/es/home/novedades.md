@@ -105,5 +105,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "La espectroscopía Raman"
-      url: 'blog/2023/08/08/la-espectroscopia-raman/'
+      url: 'blog/2023/08/09/la-espectroscopia-raman/'
 ---
