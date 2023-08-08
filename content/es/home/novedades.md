@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Women in Science"
-      url: 'blog/2023/07/31/women-in-science/'
+      text: "La espectroscopía Raman"
+      url: 'blog/2023/08/08/la-espectroscopia-raman/'
 ---
