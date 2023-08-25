@@ -17,7 +17,7 @@ featured: true
 
 {{% lottie src="lottie/hello.tgs" width="75%" %}}
 
-First blog. Here begins an adventure that I had been wanting to start for a long time (years).
+First blog post. Here begins an adventure that I had been wanting to start for a long time (years).
 
 ## Who are we?
 
