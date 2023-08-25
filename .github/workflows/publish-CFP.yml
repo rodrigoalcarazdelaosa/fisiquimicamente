@@ -57,12 +57,12 @@ jobs:
       - name: Install Hugo
         run: sudo dpkg -i hugo*.deb
 
-      # - name: Cache Hugo resources
-      #   id: cache-hugo-resources
-      #   uses: actions/cache@v3
-      #   with:
-      #     path: resources
-      #     key: ${{ runner.os }}-hugo-resources
+      - name: Cache Hugo resources
+        id: cache-hugo-resources
+        uses: actions/cache@v3
+        with:
+          path: resources
+          key: ${{ runner.os }}-hugo-resources
 
       - name: Build site with Hugo
         run: source get_last_commit_hash.sh && hugo --buildFuture --gc --minify
