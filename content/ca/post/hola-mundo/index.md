@@ -60,7 +60,7 @@ També pots <strong>compartir</strong> totes les <strong>entrades</strong> del <
 
 ### Subscrivint-te
 
-Si no et vols perdre cap **actualizació** pots **subscriure't** al [**canal** de {{< icon name="telegram" pack="svg" >}} **Telegram**](https://t.me/fisiquimicamente) (en espanyol) o al [**canal {{< icon name="rss" pack="svg" >}} RSS**](/index.xml).
+Si no et vols perdre cap **actualizació** pots **subscriure't** al [**canal** de {{< icon name="telegram" pack="svg" >}} **Telegram**](https://t.me/fisiquimicamente) (en espanyol) o al [**canal {{< icon name="RSS" pack="svg" >}} RSS**](/index.xml).
 
 ### Contactant-nos
 
