@@ -83,3 +83,6 @@ subtitle = "Biografías y principales contribuciones de los grandes científicos
  css_class = ""
 +++
 
+{{% callout note %}}
+Echa un vistazo a [esta **entrada** del **blog**]({{< relref "/post/wis-sci-illustrate" >}}) para conocer **historias** de **mujeres científicas** que han cambiado el mundo, que perseveraron por el bien del conocimiento.
+{{% /callout %}}
