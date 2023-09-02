@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: El misterioso envenenamiento del señor Lafarge | 3.º ESO
-      url: 'https://descargas.intef.es/recursos_educativos/ODES_SGOA/ESO/FQ/3B.1_-_El_misterioso_envenenamiento/index.html'
+      text: La Tierra y la Luna
+      url: 'recursos-fisica-quimica/actividades-juegos/2eso-3eso/la-tierra-y-la-luna/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
