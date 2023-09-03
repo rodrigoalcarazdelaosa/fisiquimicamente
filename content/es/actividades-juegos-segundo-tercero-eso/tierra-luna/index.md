@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso-3eso"]
 authors:
 - miguel-quiroga
 tags:
+- actividades
 - 2º ESO
 - 3º ESO
 - 4º ESO
