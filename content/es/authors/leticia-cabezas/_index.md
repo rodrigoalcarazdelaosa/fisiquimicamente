@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 🧩 Actividades/juegos
+role: 📚 Apuntes
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🧩 Actividades/juegos
+- 📚 Apuntes
 ---
 
 Tengo alma adolescente y creo que por eso me encanta mi trabajo como profesora de Física y Química en ESO y Bachillerato y disfruto tanto con los chavales en clase. Y tengo claro que la narrativa y los juegos enganchan y motivan y que los docentes podemos aprovechar ese tirón en clase. En la actualidad pertenezco al claustro docente del [Posgrado Especialista en Gamificación y Aprendizajes Lúdicos de la Fundación Maecenas](https://www.posgradosmaecenas.com/gamificacion).

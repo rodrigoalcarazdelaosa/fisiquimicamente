@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 🧩 Activities/games
+role: 📚 Notes
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🧩 Activities/games
+- 📚 Notes
 ---
 
 I have a teenage soul and I think that's why I love my job as a high school Physics and Chemistry teacher and I enjoy so much with the kids in class. And it is clear to me that storytelling and games are engaging and motivating and that we teachers can take advantage of that in the classroom. I currently belong to the teaching staff of the [Postgraduate Specialist in Gamification and Gamified Learning of the Maecenas Foundation](https://www.posgradosmaecenas.com/gamificacion).
