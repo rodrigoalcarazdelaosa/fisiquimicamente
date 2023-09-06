@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: La Tierra y la Luna
-      url: 'recursos-fisica-quimica/actividades-juegos/2eso-3eso/la-tierra-y-la-luna/'
+      text: Serpientes y escaleras
+      url: 'recursos-fisica-quimica/actividades-juegos/2eso/serpientes-y-escaleras/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

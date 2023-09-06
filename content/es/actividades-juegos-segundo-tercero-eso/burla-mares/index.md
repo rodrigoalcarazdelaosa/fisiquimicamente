@@ -1,8 +1,8 @@
 ---
 title: La burla de los mares
 url: "/recursos-fisica-quimica/actividades-juegos/2eso/burla-mares"
-subtitle: Vive una auténtica aventura de piratas
-summary: "Vive una auténtica aventura de piratas."
+subtitle: 🏴‍☠️ Vive una auténtica aventura de piratas
+summary: "🏴‍☠️ Vive una auténtica aventura de piratas."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso"]
 authors:
 - miguel-quiroga
@@ -38,7 +38,7 @@ links:
 ---
 
 {{% callout note %}}
-En esta **actividad** se presenta una **historia** interactiva sobre **piratas**, con la que trabajar los contenidos de **cinemática** en **2.º ESO**.
+En esta **actividad** se presenta una **historia** interactiva sobre 🏴‍☠️ **piratas**, con la que trabajar los contenidos de **cinemática** en **2.º ESO**.
 {{% /callout %}}
 
 ## 📜 Descripción de la actividad

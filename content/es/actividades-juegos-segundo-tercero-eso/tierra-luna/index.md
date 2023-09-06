@@ -2,7 +2,7 @@
 title: La Tierra y la Luna
 url: "/recursos-fisica-quimica/actividades-juegos/2eso-3eso/la-tierra-y-la-luna"
 subtitle: Actividad para trabajar la comprensión lectora y la relación entre las artes y las ciencias
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Actividad para trabajar la comprensión lectora y la relación entre las artes y las ciencias."
+summary: "Actividad para trabajar la comprensión lectora y la relación entre las artes y las ciencias."
 breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso-3eso"]
 authors:
 - miguel-quiroga
@@ -15,7 +15,7 @@ tags:
 categories:
 - Física
 - Química
-weight: 11
+weight: 13
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
