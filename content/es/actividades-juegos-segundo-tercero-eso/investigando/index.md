@@ -7,11 +7,6 @@ breadcrumbs: ["recursos-fisica-quimica","actividades-juegos-2eso"]
 tags:
 - actividades
 - 2º ESO
-- actividad-científica
-- materia
-- movimiento
-- fuerzas
-- energía
 - eXeLearning
 categories:
 - Física
