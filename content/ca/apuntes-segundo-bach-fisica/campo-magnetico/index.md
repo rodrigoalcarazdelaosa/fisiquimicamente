@@ -27,8 +27,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Exercicis
+  icon:
+  name: ✏️ Exercicis
   url: camp-magnetic-exercicis.pdf
   
 # - icon_pack: fas

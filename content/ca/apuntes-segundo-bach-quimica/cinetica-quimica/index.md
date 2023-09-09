@@ -31,8 +31,8 @@ links:
   name: 📜 Pòster
   url: cinetica-quimica-poster.pdf 
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Exercicis
+  icon:
+  name: ✏️ Exercicis
   url: cinetica-quimica-exercicis.pdf
 
 slides: cinetica-quimica-2Batx-quimica

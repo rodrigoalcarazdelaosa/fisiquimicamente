@@ -22,12 +22,12 @@ content:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/ultims-apunts.webp
+      media: novedades/ultims-apunts.jpg
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Àcid-base
-      url: 'recursos-fisica-quimica/apunts/2batx/quimica/acid-base/'
+      text: Redox
+      url: 'recursos-fisica-quimica/apunts/2batx/quimica/redox/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
     align: center

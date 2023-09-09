@@ -29,8 +29,8 @@ links:
   name: 📜 Pòster
   url: sistema-periodic-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Exercicis
+  icon:
+  name: ✏️ Exercicis
   url: sistema-periodic-exercicis.pdf
 
 slides: 

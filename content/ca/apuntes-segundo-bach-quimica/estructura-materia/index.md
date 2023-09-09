@@ -31,8 +31,8 @@ links:
   name: 📜 Pòster
   url: estructura-materia-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Exercicis
+  icon:
+  name: ✏️ Exercicis
   url: estructura-materia-exercicis.pdf
 
 slides: estructura-materia-2Batx-quimica

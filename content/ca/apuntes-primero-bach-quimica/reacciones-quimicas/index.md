@@ -26,8 +26,8 @@ image:
 
 links:
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Exercicis ajustos
+  icon:
+  name: ✏️ Exercicis ajustos
   url: ajust-equacions-quimiques-exercicis.pdf
 # - icon_pack: fas
 # icon: download

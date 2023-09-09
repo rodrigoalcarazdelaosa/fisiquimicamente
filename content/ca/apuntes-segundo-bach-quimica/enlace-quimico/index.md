@@ -30,8 +30,8 @@ links:
   name: 📜 Pòster
   url: enllac-quimic-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Exercicis
+  icon:
+  name: ✏️ Exercicis
   url: enllac-quimic-exercicis.pdf
   
 slides: enllac-quimic-2Batx-quimica

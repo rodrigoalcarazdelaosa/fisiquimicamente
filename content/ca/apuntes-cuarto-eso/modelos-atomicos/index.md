@@ -30,8 +30,8 @@ links:
   name: 📜 Pòster
   url: models-atomics-poster.pdf
 - icon_pack: fas
-  icon: pencil-ruler
-  name: Exercicis
+  icon:
+  name: ✏️ Exercicis
   url: models-atomics-exercicis.pdf
 
 slides: 
