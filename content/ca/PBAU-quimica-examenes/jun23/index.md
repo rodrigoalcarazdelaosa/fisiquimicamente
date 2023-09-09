@@ -2,7 +2,7 @@
 title: Juny 2023
 url: "recursos-fisica-quimica/pau-pbau/illes-balears/quimica/juny-2023"
 subtitle: Examen complet
-summary: "Examen complet de PBAU Química."  # Add a page description.
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVETAT</code> <br>Examen complet de PBAU Química."  # Add a page description.
 breadcrumbs: ["recursos-fisica-quimica","pbau-quimica"]
 tags:
 - PBAU
