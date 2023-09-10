@@ -165,8 +165,8 @@ Emprat a reaccions redox que ocorren en **dissolució** (àcida o bàsica).
 				
 #### Passes
 
-1. Ajustar àtoms diferents d'O e H.
-2. Ajustar els àtoms d'O e H.
+1. Ajustar àtoms diferents d'O i H.
+2. Ajustar els àtoms d'O i H.
     - Medi àcid: afegir 1 H<sub>2</sub>O per cada O que falti i compensar amb H<sup>+</sup> a l'altre costat de l'equació.
     - Medi bàsic: afegir 1 H<sub>2</sub>O per cada O que excedeixi i compensar amb OH<sup>–</sup> a l'altre costat de l'equació.
 
@@ -189,8 +189,8 @@ $$
 
 Escrivim les **semireaccions** d'oxidació (&#8593; núm. ox.) i reducció (&#8595; núm. ox.):
 \begin{align*}
-\text{oxidación (Cu: $0\rightarrow +2$): } \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
-\text{reducción (N: $+5 \rightarrow +2$): } \mathrm{NO_3^-} &\longrightarrow \mathrm{NO}
+\text{oxidació (Cu: $0\rightarrow +2$): } \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
+\text{reducció (N: $+5 \rightarrow +2$): } \mathrm{NO_3^-} &\longrightarrow \mathrm{NO}
 \end{align*}
 
 ---
@@ -261,7 +261,7 @@ Les **piles galvàniques** (Galvani) o voltaiques (Volta) són cel·les electroq
 
 ### Pila Daniell
 
-Inventada per John Frederick Daniell al 1836, consisteix en dos elèctrodes de zinc i coure, immersos en dues dissolucions que contenen els seus ions (Zn<sup>2+</sup> i Cu<sup>2+</sup>), connectades per un pont salí, que permet el flux d'ions entre totes dues dissolucions. Els electrons flueixen entre tots dos elèctrodes gràcies al fil conductor que els connecta.
+Inventada per John Frederick Daniell al 1836, consisteix en dos elèctrodes de zinc i coure, submergits en dues dissolucions que contenen els seus ions (Zn<sup>2+</sup> i Cu<sup>2+</sup>), connectades per un pont salí, que permet el flux d'ions entre totes dues dissolucions. Els electrons flueixen entre tots dos elèctrodes gràcies al fil conductor que els connecta.
 
 ---
 
@@ -285,7 +285,7 @@ Existeixen principalment dos tipus de ponts salins: tub de vidre (forma d'U) i p
 
 ## Potencial estàndard de reducció $E^\circ$
 
-És la tendència d'una espècie química a ser reduïda en en el seu **estat estàndard** ($p = 1\thinspace\mathrm{bar} = 10^5\thinspace\mathrm{Pa}$ y $c = 1\thinspace\mathrm M$). Es pot mesurar experimentalment amb ajuda de l'**elèctrode estàndard d'hidrogen**.
+És la tendència d'una espècie química a ser reduïda en en el seu **estat estàndard** ($p = 1\thinspace\mathrm{bar} = 10^5\thinspace\mathrm{Pa}$ i $c = 1\thinspace\mathrm M$). Es pot mesurar experimentalment amb ajuda de l'**elèctrode estàndard d'hidrogen**.
 
 ---
 
