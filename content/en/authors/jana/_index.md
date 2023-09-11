@@ -21,7 +21,7 @@ role: 🐕
 organizations:
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a [mastiff](https://en.wikipedia.org/wiki/Mastiff) mongrel who loves to be petted, sleep, play, go for walks and chew.
+bio: I am a [mastiff](https://en.wikipedia.org/wiki/Mastiff) mongrel who loves to be petted, sleeping, playing, going for walks and chewing.
 
 interests:
 - 🫳 Be petted
@@ -45,4 +45,4 @@ user_groups:
 - 🧑‍🔬 Founders
 ---
 
-I am a [mastiff](https://en.wikipedia.org/wiki/Mastiff) mongrel who loves to be petted, sleep, play, go for walks and chew. I was adopted from [ASPROAN](https://asproansantander.es) when I was 7 months old and since I arrived to my new home I haven't stopped spreading happiness 🥰.
+I am a [mastiff](https://en.wikipedia.org/wiki/Mastiff) mongrel who loves to be petted, sleeping, playing, going for walks and chewing. I was adopted from [ASPROAN](https://asproansantander.es) when I was 7 months old and since I arrived to my new home I haven't stopped spreading happiness 🥰.
