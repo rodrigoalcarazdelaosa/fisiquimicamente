@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "La espectroscopía Raman"
-      url: 'blog/2023/08/09/la-espectroscopia-raman/'
+      text: "Insignias de las Misiones Apolo"
+      url: 'blog/2023/09/13/insignias-de-las-misiones-apolo/'
 ---
