@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Insignias de las Misiones Apolo"
-      url: 'blog/2023/09/13/insignias-de-las-misiones-apolo/'
+      text: "Misiones Apolo"
+      url: 'blog/2023/09/13/misiones-apolo/'
 ---

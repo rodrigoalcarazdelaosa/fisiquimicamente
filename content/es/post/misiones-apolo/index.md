@@ -1,7 +1,7 @@
 ---
-title: Insignias de las Misiones Apolo
-subtitle: Colección de parches de las misiones del Programa Apolo
-summary: Colección de parches de las misiones del Programa Apolo.
+title: Misiones Apolo
+subtitle: Colección de insignias de las misiones tripuladas del Programa Apolo
+summary: Colección de insignias de las misiones tripuladas del Programa Apolo.
 breadcrumbs: ["blog"]
 date: "2023-09-13T00:00:00Z"
 authors:
@@ -18,7 +18,7 @@ image:
 ---
 
 {{% callout note %}}
-En esta entrada compartimos las **insignias** de las **misiones Apolo** junto con sus **descripciones** (traducidas), tal y como aparecen en [esta página de la NASA](https://solarsystem.nasa.gov/resources/2293/apollo-mission-patches/). En el pie de cada insignia hay un **enlace** para descargar la imagen en **alta resolución** y encontrar **más información** sobre cada una de las misiones.
+En esta entrada compartimos una colección de **insignias** de las **misiones tripuladas** del [**Programa Apolo**](https://es.wikipedia.org/wiki/Programa_Apolo) junto con sus **descripciones** (traducidas), tal y como aparecen en [esta página de la NASA](https://solarsystem.nasa.gov/resources/2293/apollo-mission-patches/). En el pie de cada insignia hay un **enlace** para descargar la imagen en **alta resolución** y encontrar **más información** sobre cada una de las misiones.
 {{% /callout %}}
 
 {{% toc %}}
