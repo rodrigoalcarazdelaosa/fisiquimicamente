@@ -31,7 +31,7 @@ date_format = "2006"
 [[experience]]
   title = "Physics and Chemistry Teacher"
   company = "IES Ría San Martín"
-  company_url = "http://portaleducativo.educantabria.es/web/iesriasanmartin"
+  company_url = "https://www.educantabria.es/web/ies-ria-san-martin"
   company_logo = "rsm"
   location = "Suances, Cantabria (Spain)"
   date_start = "2018-03-01"
