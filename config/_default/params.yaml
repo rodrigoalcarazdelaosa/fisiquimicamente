@@ -73,7 +73,7 @@ features:
     enable: false
   repository:
     url: 'https://github.com/rodrigoalcarazdelaosa/fisiquimicamente'
-    content_dir: content
+    content_dir: content/es
     branch: main
   avatar:
     gravatar: false

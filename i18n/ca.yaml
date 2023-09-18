@@ -23,7 +23,7 @@
 - id: figure
   translation: 'Figura %d:'
 - id: edit_page
-  translation: Edit this page
+  translation: Edita aquesta pàgina
 - id: theme_selector
   translation: Display preferences
 - id: theme_light

@@ -22,7 +22,10 @@ en:
     marketing:
       seo:
         org_name: PhysiChemically
-        description: 'Physics and Chemistry Resources, Tutorials and Current Science.'    
+        description: 'Physics and Chemistry Resources, Tutorials and Current Science.'
+    features:
+      repository:
+        content_dir: content/en
         
 # Catalán
 ca:
@@ -35,6 +38,9 @@ ca:
     marketing:
       seo:
         org_name: FisiQuímicament
-        description: 'Recursos de Física i Química, tutorials i ciència d''actualitat.'    
+        description: 'Recursos de Física i Química, tutorials i ciència d''actualitat.'
+    features:
+      repository:
+        content_dir: content/ca
 
 
