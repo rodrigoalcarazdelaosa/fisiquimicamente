@@ -163,8 +163,8 @@ Cuando el **hidrógeno** se **combina** con un **elemento** de los **grupos 16**
 | :---: | --- | --- |
 | LiH | <s>mono</s>hidruro de litio | hidruro de litio |
 | AlH<sub>3</sub> | trihidruro de aluminio | hidruro de aluminio |
-| HCl | cloruro de hidrógeno | &ndash; |
-| H<sub>2</sub>S | sulfuro de dihidrógeno | &ndash; |
+| HCl | cloruro de hidrógeno | cloruro de hidrógeno |
+| H<sub>2</sub>S | sulfuro de dihidrógeno | sulfuro de hidrógeno |
 
 ### Hidruros progenitores
 Los **hidruros** de los **elementos** de los **grupos 13 a 17** se utilizan como **compuestos progenitores**, obteniéndose **derivados** al sustituir los átomos de hidrógeno por otros átomos y/o grupos[^2].

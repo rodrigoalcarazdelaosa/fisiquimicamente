@@ -276,8 +276,8 @@ Así, tenemos por ejemplo:
 | :---: | --- | --- |
 | LiH | <s>mono</s>hidruro de litio | hidruro de litio |
 | AlH<sub>3</sub> | trihidruro de aluminio | hidruro de aluminio |
-| HCl | cloruro de hidrógeno | &ndash; |
-| H<sub>2</sub>S | sulfuro de dihidrógeno | &ndash; |
+| HCl | cloruro de hidrógeno | cloruro de hidrógeno |
+| H<sub>2</sub>S | sulfuro de dihidrógeno | sulfuro de hidrógeno |
 
 ---
 
