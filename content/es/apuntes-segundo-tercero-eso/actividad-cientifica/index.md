@@ -109,13 +109,13 @@ o con estas excelentes **prácticas virtuales** del [Departamento de Física y Q
 
 {{< youtube Y9gnmDfAmSw >}}
 
-[Aquí](https://drive.google.com/file/d/1-7Qnann0yZqy3oarmFUROKy72XRPU4fA/view) puedes descargarte el **guion** de la **práctica**.
+[Aquí](https://drive.google.com/file/d/1BoNVZ23gxw2arh25ruFEr00die9ojz-o/view) puedes descargarte el **guion** de la **práctica**.
 
 {{% /callout %}}
 
 ## Medidas de magnitudes
 
-Una **magnitud** es toda propiedad que se puede medir. **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**.
+Una **magnitud** es toda propiedad que se puede **medir**. **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**.
 
 ### Sistema Internacional de Unidades (SI)
 El Sistema Internacional de Unidades (SI) define siete **magnitudes básicas**:

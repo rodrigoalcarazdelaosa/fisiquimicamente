@@ -105,7 +105,7 @@ o con estas excelentes **prácticas virtuales** del [Departamento de Física y Q
 
 ---
 
-Una **magnitud** es toda propiedad que se puede medir.
+Una **magnitud** es toda propiedad que se puede **medir**.
 
 {{% fragment %}} **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**. {{% /fragment %}}
 
