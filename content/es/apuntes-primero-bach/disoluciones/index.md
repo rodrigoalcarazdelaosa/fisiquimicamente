@@ -58,6 +58,9 @@ Es una **medida** de la **cantidad** de **soluto** en una cantidad dada de disol
 {{< figure library="true" src="disoluciones-1Bach/concentracion.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:Ejemplo_de_concentraci%C3%B3n_en_disoluci%C3%B3n.svg." lightbox="false" width="100%" >}}
 
 ### Porcentaje en masa
+
+Se define como la masa en gramos de soluto que hay por cada 100&thinsp;g de disolución.
+
 $$
 c = \frac{m_\text{soluto}}{m_\text{disolución}}\cdot 100
 $$
