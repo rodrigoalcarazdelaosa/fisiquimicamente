@@ -46,6 +46,8 @@ Es una **medida** de la **cantidad** de **soluto** en una cantidad dada de disol
 ---
 
 ### Porcentaje en masa
+
+Se define como la masa en gramos de soluto que hay por cada 100 g de disolución.
 $$
 c = \frac{m_\text{soluto}}{m_\text{disolución}}\cdot 100
 $$
