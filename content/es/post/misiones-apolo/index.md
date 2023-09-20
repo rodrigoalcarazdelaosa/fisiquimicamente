@@ -99,3 +99,11 @@ En esta entrada compartimos una colección de **insignias** de las **misiones tr
 > La insignia estaba dominada por la imagen de [Apolo](https://es.wikipedia.org/wiki/Apolo), el dios griego del Sol. Suspendida en el espacio detrás de la cabeza de Apolo había un águila americana de diseño contemporáneo, las barras rojas del ala del águila representaban las barras de la bandera estadounidense; las tres estrellas blancas simbolizaban a los tres tripulantes astronautas. El fondo era el espacio azul profundo y en él se veían la Luna, el planeta Saturno y una galaxia espiral o nebulosa. La Luna estaba parcialmente recubierta por el ala del águila, lo que sugería que se trataba de un cuerpo celeste que el hombre había visitado y, en ese sentido, conquistado. La inclinación del águila y la mirada de Apolo hacia la derecha, hacia Saturno y la galaxia, daban a entender que los objetivos del hombre en el espacio incluirían algún día los planetas y tal vez las estrellas. Los colores del emblema eran rojo, blanco y azul, los colores de la bandera estadounidense; con el añadido del dorado, para simbolizar la edad de oro de los vuelos espaciales que comenzaría con este alunizaje del Apolo 17. La imagen de Apolo utilizada en esta insignia fue la escultura [Apolo de Belvedere](https://es.wikipedia.org/wiki/Apolo_de_Belvedere) que se encontraba en la [Galería Vaticana de Roma](https://es.wikipedia.org/wiki/Museos_Vaticanos). Este emblema fue diseñado por el artista [Robert T. McCall](https://en.wikipedia.org/wiki/Robert_McCall_(artist)) en colaboración con los astronautas.
 
 ![Apolo 17](Apolo17.jpg "Imagen en alta resolución [aquí](https://solarsystem.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3BoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10b9b6572bf33067d876277756316ba733a2c469/Apollo17.jpg?disposition=inline). Más información [aquí](https://es.wikipedia.org/wiki/Apolo_17).")
+
+{{% callout note %}}
+
+Si te ha gustado la entrada, te encantará este diseño de **taza** de **Berto Tomás**:
+
+{{< figure src="taza.webp" title="Consíguelo [aquí](https://www.aprendiendofisicaconbertotomas.com/tazas), junto con otros muchos más." >}}
+
+{{% /callout %}}

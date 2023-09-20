@@ -172,3 +172,11 @@ L = 4\pi R^2\sigma T^4
 $$
 
 > La luz de las estrellas, el brillo de las estrellas, la primera estrella que ves esta noche... pueden describirse mediante [esta **ecuación**](https://es.wikipedia.org/wiki/Ley_de_Stefan-Boltzmann), que relaciona la [luminosidad](https://es.wikipedia.org/wiki/Luminosidad) de una [estrella](https://es.wikipedia.org/wiki/Estrella) con su [temperatura](https://es.wikipedia.org/wiki/Temperatura) y su [radio](https://es.wikipedia.org/wiki/Radio_(geometr%C3%ADa)).
+
+{{% callout note %}}
+
+Si te ha gustado la entrada, te encantará este diseño de **taza** de **Berto Tomás**:
+
+{{< figure src="taza.webp" title="Consíguelo [aquí](https://www.aprendiendofisicaconbertotomas.com/tazas), junto con otros muchos más." >}}
+
+{{% /callout %}}
