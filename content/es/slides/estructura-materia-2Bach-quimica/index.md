@@ -305,7 +305,7 @@ El **principio** de **incertidumbre** de **Heisenberg** implica que, aunque se e
 
 ## Orbitales atómicos
 
-Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y la **orientación** de las **regiones** del **espacio** donde es **más probable encontrar** al **electrón**.
+Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y la **orientación** de las **regiones** del **espacio** donde es **posible encontrar** al **electrón**.
 
 ---
 

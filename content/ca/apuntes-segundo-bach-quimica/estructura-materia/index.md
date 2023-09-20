@@ -251,7 +251,11 @@ El **principi** d'**incertesa** de **Heisenberg** implica que, encara que s'espe
 
 ## Orbitals atòmics
 
-Són **funcions matemàtiques** que **descriuen** la **mida**, la **forma** i l'**orientació** de les **regions** de l'**espai** on és **més probable trobar** l'**electró**.
+Són **funcions matemàtiques**[^3] que **descriuen** la **mida**, la **forma** i l'**orientació** de les **regions** de l'**espai** on és **possible trobar** l'**electró**[^4].
+
+[^3]: Solucions [complexes](https://ca.wikipedia.org/wiki/Nombre_complex) de l'[equació de Schrödinger](https://ca.wikipedia.org/wiki/Equació_de_Schrödinger) per a un electró lligat a un àtom.
+
+[^4]: El quadrat de l'amplitud d'aquestes funcions està relacionat amb la probabilitat de trobar un electró qualsevol d'un àtom en una regió específica al voltant del nucli d'aquest àtom. Això és el que es coneix com a [norma de Born](https://ca.wikipedia.org/wiki/Norma_de_Born), dins de la [interpretació de Copenhaguen](https://ca.wikipedia.org/wiki/Interpretació_de_Copenhaguen ).
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos-cat.svg" title="Orbitals s ($l=0$), p ($l=1$), d ($l=2$) i f ($l=3$). Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
 

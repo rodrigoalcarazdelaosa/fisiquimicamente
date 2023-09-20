@@ -296,7 +296,7 @@ El **principi** d’**incertesa** de **Heisenberg** implica que, encara que s'es
 
 ## Orbitals atòmics
 
-Són **funcions matemàtiques** que **descriuen** la **mida**, la **forma** i l’**orientació** de les **regions** de l’**espai** on és **més probable trobar** a l’**electró**.
+Són **funcions matemàtiques** que **descriuen** la **mida**, la **forma** i l’**orientació** de les **regions** de l’**espai** on és **possible trobar** a l’**electró**.
 
 ---
 

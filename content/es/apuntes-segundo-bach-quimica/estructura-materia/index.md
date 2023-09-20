@@ -272,7 +272,11 @@ El **principio** de **incertidumbre** de **Heisenberg** implica que, aunque se e
 
 ## Orbitales atómicos
 
-Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y la **orientación** de las **regiones** del **espacio** donde es **más probable encontrar** al **electrón**.
+Son **funciones matemáticas**[^3] que **describen** el **tamaño**, la **forma** y la **orientación** de las **regiones** del **espacio** donde es **posible encontrar** al **electrón**[^4].
+
+[^3]: Soluciones [complejas](https://es.wikipedia.org/wiki/Número_complejo) de la [ecuación de Schrödinger](https://es.wikipedia.org/wiki/Ecuación_de_Schrödinger) para un electrón ligado a un átomo.
+
+[^4]: El cuadrado de la amplitud de estas funciones está relacionado con la probabilidad de encontrar a un electrón cualquiera de un átomo en una región específica alrededor del núcleo de dicho átomo. Esto es lo que se conoce como [regla de Born](https://es.wikipedia.org/wiki/Regla_de_Born), dentro de la [interpretación de Copenhague](https://es.wikipedia.org/wiki/Interpretación_de_Copenhague).
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos.svg" title="Orbitales s ($l=0$), p ($l=1$), d ($l=2$) y f ($l=3$). Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
 
