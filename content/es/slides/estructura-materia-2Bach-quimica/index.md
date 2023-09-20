@@ -315,6 +315,10 @@ Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y 
 
 ### Números cuánticos y su interpretación
 
+> En [esta magnífica **entrada**](https://fisicatabu.com/son-tan-raros-los-numeros-cuanticos/), **Adrián Castelo** nos propone una forma de **introducir** los **números cuánticos**, estableciendo una **analogía** con el **sonido**.
+
+---
+
 Los **números cuánticos** describen **valores** de **magnitudes físicas** que se **conservan** en la dinámica de un sistema cuántico, tales como la **energía** o el **momento angular**, las cuales están **cuantizadas** y por tanto toman **valores discretos**.
 
 ---
