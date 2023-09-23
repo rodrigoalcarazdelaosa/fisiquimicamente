@@ -31,10 +31,10 @@ links:
   icon:
   name: 🗺️ Mapas
   url: burla-mares-mapas.pdf
-- icon_pack: fas
-  icon:
-  name: 📋 Soluciones
-  url: burla-mares-soluciones.pdf
+# - icon_pack: fas
+#   icon:
+#   name: 📋 Soluciones
+#   url: burla-mares-soluciones.pdf
 ---
 
 {{% callout note %}}

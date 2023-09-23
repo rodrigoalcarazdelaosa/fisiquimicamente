@@ -26,10 +26,10 @@ links:
   icon:
   name: 🗒️ Hoja de trabajo
   url: extrano-caso-vuelo-1023-mole-airlines-hoja-trabajo.pdf
-- icon_pack: fas
-  icon:
-  name: 📋 Solucionario
-  url: extrano-caso-vuelo-1023-mole-airlines-solucionario.pdf
+# - icon_pack: fas
+#   icon:
+#   name: 📋 Solucionario
+#   url: extrano-caso-vuelo-1023-mole-airlines-solucionario.pdf
 ---
 
 {{% callout note %}}
