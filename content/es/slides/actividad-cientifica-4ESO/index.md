@@ -355,7 +355,7 @@ $$
 ## Errores en la medida
 - [Errores sistemáticos y aleatorios](#/5/3)
 - [Precisión, veracidad y exactitud](#/5/11)
-- [Error absoluto y error relativo](#/5/15)
+- [Error absoluto y error relativo](#/5/16)
 
 (continúa hacia abajo)
 
@@ -446,8 +446,8 @@ Una alta exactitud es una combinación de alta precisión y alta veracidad.
 ---
 
 ### Error absoluto y error relativo
-- [Error absoluto](#/5/16)
-- [Error relativo](#/5/17)
+- [Error absoluto](#/5/17)
+- [Error relativo](#/5/18)
 
 (continúa hacia abajo)
 
