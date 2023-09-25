@@ -32,7 +32,7 @@ Entrada basada en los siguientes hilos de Twitter:
 {{< tweet user="ManoloAlonso1" id="1516116048877170702" >}}
 </div>
 
-Si queréis **aprender más** sobre el tema, en [este **artículo**](http://revistadefisica.es/index.php/ref/article/view/2744) presentamos una forma atractiva de introducir [**iridiscencia**](https://es.wikipedia.org/wiki/Iridiscencia) y [**cristales fotónicos**](https://es.wikipedia.org/wiki/Cristal_fotónico) en el aula.
+Si queréis **aprender más** sobre el tema, en [este **artículo**](http://revistadefisica.es/index.php/ref/article/view/2744) (premiado como la [Mejor Contribución de Enseñanza en las publicaciones de la RSEF en 2023](https://rsef.es/images/Fisica/ListaPremiosmotivacion_PdF2023.pdf)) presentamos una forma atractiva de introducir [**iridiscencia**](https://es.wikipedia.org/wiki/Iridiscencia) y [**cristales fotónicos**](https://es.wikipedia.org/wiki/Cristal_fotónico) en el aula.
 {{% /callout %}}
 
 {{% callout note %}}
@@ -144,9 +144,13 @@ El [**escarabajo hércules**](https://es.wikipedia.org/wiki/Dynastes_hercules) e
 
 {{< figure src="escarabajo-hercules.png" title="https://aip.scitation.org/doi/10.1063/1.3486115" lightbox="true" >}}
 
-Si os interesa el tema de los [**cristales fotónicos**](https://es.wikipedia.org/wiki/Cristal_fotónico), no dejéis de ver este vídeo de **Andrea espín-órbita**:
+Si os interesa el tema de los [**cristales fotónicos**](https://es.wikipedia.org/wiki/Cristal_fotónico), no dejéis de ver este **vídeo** de **Andrea espín-órbita**:
 
 {{< youtube wisSG0CZvUY >}}
+
+o esta **charla** con [**Sherezade MR**](http://www.sherezademr.com):
+
+{{< youtube hMJEutUClkI >}}
 
 ## Bioluminiscencia
 
