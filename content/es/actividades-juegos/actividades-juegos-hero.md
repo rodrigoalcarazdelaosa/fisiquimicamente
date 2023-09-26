@@ -12,7 +12,7 @@ cta:
   icon_pack: fas
   icon: compass
 cta_alt:
-  label: Última actividad/juego ➡️
+  label: Última actividad/juego 👉
   url: "/recursos-fisica-quimica/actividades-juegos/1bach/tiro-parabolico-vida-real"
 cta_note:
   label:

@@ -10,7 +10,7 @@ cta:
   icon_pack: fas
   icon:
 cta_alt:
-  label: 🗞️ News ➡️
+  label: 🗞️ News 👉
   url: "#news"
 cta_note:
   label: >-

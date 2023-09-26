@@ -208,7 +208,7 @@ blockquote {
  * Buttons
  **************************************************/  
 .btn-primary {
-  color: $nord0;
+  color: $nord0 !important;
   background-color: $nord8;
   border-color: $nord8;
 }

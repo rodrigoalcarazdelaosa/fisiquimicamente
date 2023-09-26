@@ -10,7 +10,7 @@ cta:
   icon_pack: fas
   icon:
 cta_alt:
-  label: O en formato tríptico ➡️
+  label: O en formato tríptico 👉
   url: "/media/radiofisica/triptico-sefm.pdf"
 cta_note:
   label:        

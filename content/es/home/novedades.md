@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Serpientes y escaleras
-      url: 'recursos-fisica-quimica/actividades-juegos/2eso/serpientes-y-escaleras/'
+      text: Investigación aeroespacial aplicada al aula | 4.º ESO
+      url: 'recursos-fisica-quimica/actividades-juegos/4eso/investigacion-aeroespacial-aplicada-al-aula/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

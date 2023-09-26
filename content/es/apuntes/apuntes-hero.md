@@ -11,7 +11,7 @@ cta:
   icon_pack: fas
   icon: compass
 cta_alt:
-  label: Últimos apuntes ➡️
+  label: Últimos apuntes 👉
   url: "recursos-fisica-quimica/apuntes/1bach/reacciones-quimicas/"
 cta_note:
   label: |2-

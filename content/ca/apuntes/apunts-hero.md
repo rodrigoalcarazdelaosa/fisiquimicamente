@@ -11,7 +11,7 @@ cta:
   icon_pack: fas
   icon: compass
 cta_alt:
-  label: Últims apunts ➡️
+  label: Últims apunts 👉
   url: "recursos-fisica-quimica/apunts/2batx/quimica/acid-base/"
 cta_note:
   label:
