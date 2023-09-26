@@ -65,7 +65,7 @@ jobs:
           key: ${{ matrix.projectName }}-hugo-resources
 
       - name: Build site with Hugo
-        run: source get_last_commit_hash.sh && hugo --buildFuture --gc
+        run: source get_last_commit_hash.sh && hugo
         env:
           HUGOxPARAMSxMARKETINGxVERIFICATIONxGOOGLE: ${{ secrets[matrix.GoogleVerificationCode] }}
           HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets[matrix.PDFEmbedKey] }}
