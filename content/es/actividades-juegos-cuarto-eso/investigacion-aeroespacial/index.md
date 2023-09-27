@@ -32,14 +32,14 @@ Este conjunto de **situaciones de aprendizaje** ha sido elaborado por **José Ma
 
 ## ¿Pasaremos nuestras vacaciones en el espacio?
 
-En esta situación analizaremos las posibilidades de los **distintos edificios y las condiciones en la tierra**, para posteriormente extrapolarlo al espacio que en el futuro visitaremos en **nuestras vacaciones**. Todo esto mediante la metodología [**STEAM**](https://es.wikipedia.org/wiki/STEAM) diseñando mediante software libre de diseño 3D e imprimiéndolo con una impresora 3D. Además, mostraremos concurso y materiales de [**ESERO**](https://esero.es) relacionados con la temática.
+En esta situación analizaremos las posibilidades de los **distintos edificios y las condiciones en la Tierra**, para posteriormente extrapolarlo al espacio que en el futuro visitaremos en **nuestras vacaciones**. Todo esto mediante la metodología [**STEAM**](https://es.wikipedia.org/wiki/STEAM) diseñando mediante software libre de diseño 3D e imprimiéndolo con una impresora 3D. Además, mostraremos concurso y materiales de [**ESERO**](https://esero.es) relacionados con la temática.
 
 {{< cta cta_text="REA alumnado" cta_link="https://lajunta.es/4139h" cta_new_tab="true" cta_alt_text="Guía docente" cta_alt_link="https://lajunta.es/4139i" cta_alt_new_tab="true" >}}
 
 
 ## ¿Cómo enviamos cohetes y satélites al espacio?
 
-En esta situación analizaremos los **distintos tipos de cohetes** que se han enviado a lo largo de la historia al espacio, analizaremos **los cálculos** que hay que realizar para lanzarlos, replicaremos estos lanzamientos desde la tierra y **utilizaremos una carcasa para nuestro lanzamiento**. Todo esto mediante la metodología [**STEAM**](https://es.wikipedia.org/wiki/STEAM) diseñando mediante software libre de diseño 3D e imprimiéndolo con una impresora 3D. Además, mostraremos concurso y materiales de [**ESERO**](https://esero.es) relacionados con la temática.
+En esta situación analizaremos los **distintos tipos de cohetes** que se han enviado a lo largo de la historia al espacio, analizaremos **los cálculos** que hay que realizar para lanzarlos, replicaremos estos lanzamientos desde la Tierra y **utilizaremos una carcasa para nuestro lanzamiento**. Todo esto mediante la metodología [**STEAM**](https://es.wikipedia.org/wiki/STEAM) diseñando mediante software libre de diseño 3D e imprimiéndolo con una impresora 3D. Además, mostraremos concurso y materiales de [**ESERO**](https://esero.es) relacionados con la temática.
 
 {{< cta cta_text="REA alumnado" cta_link="https://lajunta.es/3ued7" cta_new_tab="true" cta_alt_text="Guía docente" cta_alt_link="https://lajunta.es/3w3nn" cta_alt_new_tab="true" >}}
 
