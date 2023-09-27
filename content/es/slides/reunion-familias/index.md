@@ -310,8 +310,8 @@ Es necesario que duerman todos los días al menos ocho horas (si llevan las cosa
 
 ## Calendario escolar 2023/2024
 
-{{% embed_pdf url="https://www.educantabria.es/documents/39930/271203/Calendario+escolar+2023-24.pdf/7292305d-899b-09a9-ff0b-fec3998d0241?t=1686729166524" filename="calendario-escolar-2023-2024.pdf" %}}
+{{% embed_pdf url="https://www.educantabria.es/documents/39930/271203/Calendario+escolar+2023-24.pdf" filename="calendario-escolar-2023-2024.pdf" %}}
 
-<!-- {{< figure src="calendario-escolar-2023-2024.svg" lightbox="false" width="75%" >}} -->
+<!-- {{< figure src="calendario-escolar-2023-2024.svg" title="Disponible en PDF [aquí]()." lightbox="false" width="70%" >}} -->
 
 {{% /section %}}
