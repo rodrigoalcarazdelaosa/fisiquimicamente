@@ -16,12 +16,12 @@ slides:
 # Reunión *familiar*
 
 - [Presentación](#/1)
-- [Asignaturas, profesorado y horarios](#/2)
-- [Características del grupo](#/3)
+- [Características del grupo](#/2)
+- [Asignaturas, profesorado y horarios](#/3)
 - [Evaluación, promoción y titulación](#/4)
 - [Normas de convivencia y asistencia](#/5)
-- [Departamento de Orientación](#/6)
-- [Posibilidades de colaboración y participación](#/7)
+- [Posibilidades de colaboración y participación](#/6)
+- [Departamento de Orientación](#/7)
 
 </section>
 
@@ -310,8 +310,6 @@ Es necesario que duerman todos los días al menos ocho horas (si llevan las cosa
 
 ## Calendario escolar 2023/2024
 
-{{% embed_pdf url="https://fisiquimicamente.com/reunion-familias/calendario-escolar-2023-2024.pdf" filename="calendario-escolar-2023-2024.pdf" %}}
-
-<!-- {{< figure src="calendario-escolar-2023-2024.svg" title="Disponible en PDF [aquí]()." lightbox="false" width="70%" >}} -->
+{{< figure src="calendario-escolar-2023-2024.svg" lightbox="false" width="71%" >}}
 
 {{% /section %}}
