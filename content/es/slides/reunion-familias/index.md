@@ -33,6 +33,12 @@ slides:
 
 ## Presentación
 
+<div align="center">
+{{% lottie src="hola.tgs" width="40%" %}}
+</div>
+
+(continúa hacia abajo)
+
 👇
 
 ---
@@ -55,6 +61,10 @@ Funciones de **coordinador del equipo educativo**.
 ---
 
 ### ¿Pasamos lista?
+
+<div align="center">
+{{% lottie src="pasar-lista.tgs" width="60%" %}}
+</div>
 
 {{% /section %}}
 
@@ -81,6 +91,12 @@ Funciones de **coordinador del equipo educativo**.
 {{% section %}}
 
 ## Asignaturas, profesorado y horarios
+
+<div align="center">
+{{% lottie src="libros.tgs" width="40%" %}}
+</div>
+
+(continúa hacia abajo)
 
 👇
 
@@ -110,7 +126,7 @@ Cada profesor/a dispone de una hora de atención a familias (*Seguimiento ➡️
 
 ---
 
-### Agenda
+### 📅 Agenda
 
 Además de ser una herramienta de trabajo, es un elemento fundamental en el intercambio de información entre profesorado y familias, por lo que conviene **revisarla todos los días**.
 
@@ -122,11 +138,17 @@ Además de ser una herramienta de trabajo, es un elemento fundamental en el inte
 
 ## Evaluación, promoción y titulación
 
+<div align="center">
+{{% lottie src="graficas.tgs" width="40%" %}}
+</div>
+
+(continúa hacia abajo)
+
 👇
 
 ---
 
-### Evaluación
+### 📊 Evaluación
 
 La evaluación será continua y, con carácter general, se enviará información en las siguientes **fechas**:
 
@@ -137,7 +159,7 @@ La evaluación será continua y, con carácter general, se enviará información
 
 ---
 
-### Promoción
+### 📈 Promoción
 
 **Promocionan** de un curso de ESO al siguiente:
 
@@ -166,13 +188,23 @@ Solo se podrá repetir una vez el mismo curso y un total de dos veces a lo largo
 
 ## Normas de convivencia y asistencia
 
-Las **normas de convivencia son las habituales** en cualquier comunidad educativa. Todas ellas están recogidas en el Reglamento del Instituto y en las agendas de los/as alumnos/as.
+<div align="center">
+{{% lottie src="normas.tgs" width="40%" %}}
+</div>
+
+(continúa hacia abajo)
 
 👇
 
 ---
 
-### Móvil 📵
+Las **normas de convivencia son las habituales** en cualquier comunidad educativa.
+
+Todas ellas están recogidas en el Reglamento del Instituto y en las agendas de los/as alumnos/as.
+
+---
+
+### 📵 Móvil
 
 En caso de uso del **móvil**:
 -	1ª vez: se les requisa y lo pueden recoger al final de la jornada en Jefatura de Estudios.
@@ -198,7 +230,7 @@ En caso de uso del **móvil**:
 
 ---
 
-### Puntualidad
+### ⌚ Puntualidad
 
 Con relación a los **retrasos**, cuidado porque:
 
@@ -227,7 +259,11 @@ Vigilancia de profesorado y sin poder salir del centro. Se organizan **recreos a
 
 ## Posibilidades de colaboración y participación de las familias
 
-Os invitamos a participar a través del **Consejo Escolar** y la **AMPA**.
+<div align="center">
+{{% lottie src="handshake.tgs" width="40%" %}}
+</div>
+
+(continúa hacia abajo)
 
 👇
 
@@ -235,6 +271,7 @@ Os invitamos a participar a través del **Consejo Escolar** y la **AMPA**.
 
 Además, podéis **participar** en la marcha del proceso educativo de vuestros/as hijos/as de **varias formas**:
 
+- A través del **Consejo Escolar** y la **AMPA**.
 - Acudiendo al centro para informaros o para aportar información sobre la marcha de vuestros/as hijos/as: concertando entrevistas con profesores/as, tutores/as y Departamento de Orientación, etc.
 - Participando activamente en el centro cuando así se requiera.
 
@@ -242,23 +279,25 @@ Además, podéis **participar** en la marcha del proceso educativo de vuestros/a
 
 ### Recomendaciones
 
-👇
+<div align="center">
+{{% lottie src="tick.tgs" width="60%" %}}
+</div>
 
 ---
 
-#### Vigilancia de los hábitos de alimentación
+#### 🥣 Vigilancia de los hábitos de alimentación
 
 Sobre todo que desayunen fuerte, y que a media mañana tomen un bocadillo o fruta (🚫 cafetería).
 
 ---
 
-#### Hábitos de sueño
+#### 😴 Hábitos de sueño
 
 Es necesario que duerman todos los días al menos **ocho horas** (si llevan las cosas al día y no se acuestan tarde viendo la TV o utilizando el móvil se puede conseguir fácilmente).
 
 ---
 
-#### Control del móvil y medios informáticos
+#### 📴 Control del móvil y medios informáticos
 
 - Se requiere un control activo de las horas que pasan enganchados al móvil (apagarlo por la noche, por ejemplo), así como de los contenidos a los que acceden.
 
@@ -268,7 +307,7 @@ Es necesario que duerman todos los días al menos **ocho horas** (si llevan las 
 
 ---
 
-#### Hábitos de estudio y trabajo
+#### 📚 Hábitos de estudio y trabajo
 
 - **Todos los días tienen que estudiar y/o hacer deberes**. Se debe hacer hincapié en la evaluación continua, la importancia de llevar los trabajos al día.
 - **Es necesario tener un sitio adecuado para estudiar y/o hacer los deberes**. Una mesa, una silla recta (no un sofá), siempre en el mismo sitio, con todos los materiales al alcance para no tener que levantarse cada poco tiempo, buena iluminación.
@@ -276,7 +315,7 @@ Es necesario que duerman todos los días al menos **ocho horas** (si llevan las 
 
 ---
 
-#### Hábitos informáticos y TIC
+#### 💻 Hábitos informáticos y TIC
 
 - Dependencia del móvil, Internet, etc.
 
@@ -292,7 +331,7 @@ Es necesario que duerman todos los días al menos **ocho horas** (si llevan las 
 
 ## Departamento de Orientación
 
--	Una de las funciones de este departamento es proporcionar **asesoramiento y apoyo psicopedagógico** tanto a los/as alumnos/as como a las familias.
+-	Una de las funciones de este departamento es proporcionar **asesoramiento y apoyo psicopedagógico** tanto al alumnado como a las familias.
 
 -	El sistema para solicitar este servicio es mediante **cita previa**. De esta forma se garantiza una atención personalizada.
 
@@ -302,7 +341,15 @@ Es necesario que duerman todos los días al menos **ocho horas** (si llevan las 
 
 {{% section %}}
 
-## ¿Preguntas? ¿Comentarios?
+## ¿Preguntas?
+
+## ¿Comentarios?
+
+## ¿Dudas?
+
+<div align="center">
+{{% lottie src="preguntas.tgs" width="40%" %}}
+</div>
 
 {{% /section %}}
 
