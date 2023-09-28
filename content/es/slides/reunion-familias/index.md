@@ -13,6 +13,8 @@ slides:
     hash: true
 ---
 
+<section data-background-image="consejeria-educacion.svg, /media/icons/brands/penacastillo.svg" data-background-size="12%" data-background-position="3.629% 5%, 96.371% 5%">
+
 # Reunión *familiar*
 
 - [Presentación](#/1)
@@ -39,8 +41,8 @@ slides:
 
 #### Rodrigo Alcaraz de la Osa
 
-- Profesor de Física y Química.
-- Tutor del grupo 3.2.
+- Profesor de **Física y Química**.
+- **Tutor** del grupo.
 
 ---
 
@@ -66,9 +68,9 @@ Funciones de **coordinador del equipo educativo**.
 
 11 bilingües. 14 no bilingües.
 
-13 cursan Religión, 12 cursan Atención Educativa.
+13 cursan Religión, 12 Atención Educativa.
 
-✅ **Buen** grupo, buenas relaciones en general, buena disposición para trabajar.
+✅ **Buen grupo**, buenas relaciones en general, buena disposición para trabajar.
 
 ❌ Un poco *habladoras*.
 
@@ -128,10 +130,10 @@ Además de ser una herramienta de trabajo, es un elemento fundamental en el inte
 
 La evaluación será continua y, con carácter general, se enviará información en las siguientes **fechas**:
 
-- **Evaluación inicial**: 27 de octubre. Se dará información **cualitativa** respecto al rendimiento y a la actitud en clase, sin calificaciones.
-- **1ª evaluación**: 22 de diciembre.
-- **2ª evaluación**: 22 de marzo.
-- **3ª evaluación**: junio, según instrucciones de la Consejería.
+- **Evaluación inicial:** 27 de octubre. Se dará información **cualitativa** respecto al rendimiento y a la actitud en clase, sin calificaciones.
+- **1ª evaluación:** 22 de diciembre.
+- **2ª evaluación:** 22 de marzo.
+- **3ª evaluación:** junio, según instrucciones de la Consejería.
 
 ---
 
@@ -146,11 +148,11 @@ La evaluación será continua y, con carácter general, se enviará información
 
 #### Promoción con pendientes
 
-Recuperación a lo largo del curso.
+**Recuperación** a lo largo del curso.
 
-Se les da información por escrito desde los departamentos (actividades que deben realizar, fechas de examen, etc.).
+Se os dará información por escrito desde los departamentos (actividades que deben realizar, fechas de examen, etc.).
 
-La familia debe firmar el “Recibí” de esta información, que el alumno devolverá al/a profesor/a que se lo ha entregado.
+Debéis firmar el “Recibí” de esta información, que el/la alumno/a devolverá al/a profesor/a que se lo ha entregado.
 
 ---
 
@@ -172,7 +174,7 @@ Las **normas de convivencia son las habituales** en cualquier comunidad educativ
 
 ### Móvil 📵
 
-En caso de uso del móvil:
+En caso de uso del **móvil**:
 -	1ª vez: se les requisa y lo pueden recoger al final de la jornada en Jefatura de Estudios.
 -	2ª vez: se les requisa y tiene que venir la padres a recogerlo a Jefatura de Estudios.
 
@@ -180,7 +182,7 @@ En caso de uso del móvil:
 
 ### Salidas del instituto
 
--	Prohibido salir del instituto durante el horario (incluidos los recreos) en el caso de menores de 18 años.
+-	🔞 Prohibido salir del instituto durante el horario (incluidos los recreos) en el caso de menores de 18 años.
 
 -	Cuando un/a alumno/a tenga que salir del instituto durante el horario escolar, debe traer justificación por escrito, informar al/a profesor/a de la clase que falta y, **antes de salir, pasar por Jefatura de Estudios**.
 
@@ -190,9 +192,9 @@ En caso de uso del móvil:
 
 ### Faltas de asistencia
 
--	Podéis consultar las faltas de asistencia de vuestro/a hijo/a a través de Yedra (*Seguimiento del curso ➡️ Faltas de asistencia ➡️ Consulta*). Además, desde la propia plataforma se puede activar la posibilidad de recibir un SMS cuando vuestro/a hijo/a falta.
+-	Podéis consultar las faltas de asistencia de vuestro/a hijo/a a través de Yedra (*Seguimiento del curso ➡️ Faltas de asistencia ➡️ Consulta*). 🔔 **Notificaciones**.
 
--	La justificación de las faltas se puede hacer a través de Yedra (*Seguimiento del curso ➡️ Faltas de asistencia ➡️ Notificación*), enviando un mensaje desde la plataforma o a través de la agenda escolar. El plazo establecido es de un máximo de tres días desde que se produce la misma.
+-	La **justificación** de las faltas se puede hacer a través de Yedra (*Seguimiento del curso ➡️ Faltas de asistencia ➡️ Notificación*), enviando un mensaje desde la plataforma o a través de la agenda escolar. El plazo establecido es de un máximo de **tres días** desde que se produce la misma.
 
 ---
 
@@ -215,7 +217,7 @@ En caso de que no pudiera ser, el/la alumno/a tiene obligación de acudir al IES
 
 ### Recreos
 
-Vigilancia de profesorado y sin poder salir del centro. Se organizan recreos activos: deportivos, musicales y ajedrez y juegos de mesa.
+Vigilancia de profesorado y sin poder salir del centro. Se organizan **recreos activos**: deportivos, musicales y ajedrez y juegos de mesa.
 
 {{% /section %}}
 
@@ -252,7 +254,7 @@ Sobre todo que desayunen fuerte, y que a media mañana tomen un bocadillo o frut
 
 #### Hábitos de sueño
 
-Es necesario que duerman todos los días al menos ocho horas (si llevan las cosas al día y no se acuestan tarde viendo la TV o utilizando el móvil se puede conseguir fácilmente).
+Es necesario que duerman todos los días al menos **ocho horas** (si llevan las cosas al día y no se acuestan tarde viendo la TV o utilizando el móvil se puede conseguir fácilmente).
 
 ---
 
@@ -290,7 +292,7 @@ Es necesario que duerman todos los días al menos ocho horas (si llevan las cosa
 
 ## Departamento de Orientación
 
--	Una de las funciones de este departamento es proporcionar asesoramiento y apoyo psicopedagógico tanto a los/as alumnos/as como a las familias. En este sentido se proporciona atención individualizada para consulta de temas que afectan directamente al proceso de enseñanza-aprendizaje y al proceso de toma de decisiones personal-académico-profesional.
+-	Una de las funciones de este departamento es proporcionar **asesoramiento y apoyo psicopedagógico** tanto a los/as alumnos/as como a las familias.
 
 -	El sistema para solicitar este servicio es mediante **cita previa**. De esta forma se garantiza una atención personalizada.
 
