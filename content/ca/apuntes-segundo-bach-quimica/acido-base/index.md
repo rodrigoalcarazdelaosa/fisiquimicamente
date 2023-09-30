@@ -2,7 +2,7 @@
 title: Àcid-base
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/acid-base"
 subtitle: Equilibris àcid-base
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVETAT</code> <br>Teories àcid-base. Força relativa dels àcids i bases. Equilibri iònic de l'aigua. Concepte de pH. Volumetries de neutralització àcid-base. Indicadors àcid-base. Hidròlisi de sals. Dissolucions reguladores. Àcids i bases rellevants."
+summary: "Teories àcid-base. Força relativa dels àcids i bases. Equilibri iònic de l'aigua. Concepte de pH. Volumetries de neutralització àcid-base. Indicadors àcid-base. Hidròlisi de sals. Dissolucions reguladores. Àcids i bases rellevants."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa

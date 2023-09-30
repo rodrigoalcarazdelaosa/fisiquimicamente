@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Redox
-      url: 'recursos-fisica-quimica/apunts/2batx/quimica/redox/'
+      text: Química orgànica
+      url: 'recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
     align: center

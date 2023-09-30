@@ -14,6 +14,7 @@ tags:
 - 2n Batx
 - reaccions-químiques
 - redox
+- electròlisi
 categories:
 - Química
 weight: 8
