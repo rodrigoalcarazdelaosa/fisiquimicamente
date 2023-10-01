@@ -24,8 +24,8 @@ main:
     url: recursos-fisica-quimica/ebau
     parent: recursos-fyq
     weight: 4
-  - name: 📝 Oposiciones
-    url: recursos-fisica-quimica/oposiciones
+  - name: 🧑‍🏫 Formación del profesorado
+    url: recursos-fisica-quimica/formacion-profesorado
     parent: recursos-fyq
     weight: 5
   - name: ☢️ Radiofísica

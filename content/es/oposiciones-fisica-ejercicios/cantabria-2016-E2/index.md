@@ -1,9 +1,9 @@
 ---
 title: Cantabria 2016
-url: "/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-E2"
+url: "/recursos-fisica-quimica/formacion-profesorado/oposiciones/fisica/cantabria-2016-E2"
 subtitle: Ejercicio 2
 summary: "Ejercicio 2."
-breadcrumbs: ["recursos-fisica-quimica","oposiciones","fisica"]
+breadcrumbs: ["recursos-fisica-quimica","formacion-profesorado","oposiciones","fisica"]
 authors:
 - enrique-ortega-gonzalez
 - rodrigo-alcaraz-de-la-osa
@@ -22,7 +22,7 @@ image:
 #  render: never
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-e1/cantabria-2016-E1.pdf"
+#external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/formacion-profesorado/oposiciones/fisica/cantabria-2016-e1/cantabria-2016-E1.pdf"
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/oposiciones/fisica/cantabria-2016-E2/cantabria-2016-E2.pdf" filename="cantabria-2016-E2.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/formacion-profesorado/oposiciones/fisica/cantabria-2016-E2/cantabria-2016-E2.pdf" filename="cantabria-2016-E2.pdf" %}}

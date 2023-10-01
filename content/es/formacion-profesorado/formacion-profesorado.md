@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "🧑‍🏫 Formación del profesorado"
-subtitle = "📝 Oposiciones"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -15,16 +15,16 @@ subtitle = "📝 Oposiciones"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[🧲](fisica)"
+  icon = "[🎓](master)"
   icon_pack = "emoji"
-  name = "[Física](fisica)"
+  name = "[Máster](master)"
   description = ""
   
 [[feature]]
-  icon = "[⚗️](quimica)"
+  icon = "[📝](oposiciones)"
   icon_pack = "emoji"
-  name = "[Química](quimica)"
-  description = ""
+  name = "[Oposiciones](oposiciones)"
+  description = "[🧲 Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
   
 [design]
   columns = "2"
@@ -59,11 +59,3 @@ subtitle = "📝 Oposiciones"
  # CSS class.
  css_class = ""
 +++
-
-**Ejercicios resueltos** con la ayuda de [**Jésica Sánchez Mazón**](https://fisiquimicamente.com/equipo/jesica-sanchez-mazon/) y [**Enrique Ortega González**](https://fisiquimicamente.com/equipo/enrique-ortega-gonzalez/)
-
-{{% callout note %}}
-Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
-
-También os recomendamos echar un vistazo a los [**ejercicios resueltos**](https://drive.google.com/file/d/1GgODfaZJEUiQ0iQlNfmpdhoT3U8HzhPU/view), [**temas**](https://drive.google.com/file/d/1-A-6JgTeQ7sOyeirs5mvK27zJuBTu-ia/view) y [**programaciones didácticas (LOE)**](https://drive.google.com/drive/folders/1Zk083BTEAAA6KMh7lfqXaiSlF5005ZCj) de **{{% mention "leticia-cabezas" %}}**.
-{{% /callout %}}

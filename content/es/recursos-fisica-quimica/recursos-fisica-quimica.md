@@ -39,10 +39,10 @@ subtitle = ""
   description = "[🧲 Física](ebau/fisica) · [⚗️ Química](ebau/quimica) · [💡Consejos](ebau/consejos)"
   
 [[feature]]
-  icon = "[📝](oposiciones/)"
+  icon = "[🧑‍🏫](formacion-profesorado/)"
   icon_pack = "emoji"
-  name = "[Oposiciones](oposiciones)"
-  description = "[🧲 Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
+  name = "[Formación del profesorado](formacion-profesorado)"
+  description = "[🎓 Máster](formacion-profesorado/master) · [📝 Oposiciones](formacion-profesorado/oposiciones)"
 
 [[feature]]
   icon = "[☢️](radiofisica/)"

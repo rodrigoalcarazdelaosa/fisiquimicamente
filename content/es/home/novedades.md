@@ -66,7 +66,7 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: Castilla y León 2018 Ejercicio 1 del Turno 1, 2 y 3
-      url: 'recursos-fisica-quimica/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-e1/'
+      url: 'recursos-fisica-quimica/formacion-profesorado/oposiciones/fisica/castilla-leon-2018-turno-1-2-3-e1/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de ⚗️ Química resuelto'
     align: center
@@ -79,7 +79,7 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: País Vasco 2021 Ejercicio K1
-      url: 'recursos-fisica-quimica/oposiciones/quimica/pais-vasco-2021-k1/'
+      url: 'recursos-fisica-quimica/formacion-profesorado/oposiciones/quimica/pais-vasco-2021-k1/'
   - title: 🗞️ Novedades
     content: '🤝 Último tutorial'
     align: center

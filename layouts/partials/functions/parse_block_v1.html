@@ -758,8 +758,8 @@
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">💡Consells</li>
 	    </ol>
-	    </nav>			
-    {{ else if and (eq $block_type "features") (eq $block.Title  "📝 Oposiciones") }}
+	    </nav>		
+	{{ else if and (eq $block_type "features") (eq $block.Params.subtitle  "🎓 Máster") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -773,6 +773,25 @@
 			  });
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado">🧑‍🏫 Formación del profesorado</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">🎓 Máster</li>
+	    </ol>
+	    </nav>		
+    {{ else if and (eq $block_type "features") (eq $block.Params.subtitle  "📝 Oposiciones") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado">🧑‍🏫 Formación del profesorado</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">📝 Oposiciones</li>
 	    </ol>
 	    </nav>	
@@ -790,7 +809,8 @@
 			  });
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
-	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones">📝 Oposiciones</a></li>			
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado">🧑‍🏫 Formación del profesorado</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado/oposiciones">📝 Oposiciones</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 	    </ol>
 	    </nav>	
@@ -808,13 +828,14 @@
 			  });
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
-	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/oposiciones">📝 Oposiciones</a></li>			
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado">🧑‍🏫 Formación del profesorado</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado/oposiciones">📝 Oposiciones</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>
 	    </ol>
 	    </nav>
-	{{ else if and (eq $block_type "features") (eq $block.Title  "☢️ Radiofísica") }}
+		{{ else if and (eq $block_type "features") (eq $block.Title  "🧑‍🏫 Formación del profesorado") }}
 	    <nav aria-label="breadcrumb">
-	    <ol class="breadcrumb breadcrumb-widget">      
+	    <ol class="breadcrumb breadcrumb-widget">			
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
 			document.addEventListener('wcThemeChange', (e) => {
 			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
@@ -826,9 +847,9 @@
 			  });
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
-	        <li class="breadcrumb-item active" aria-current="page">☢️ Radiofísica</li>
+			<li class="breadcrumb-item active" aria-current="page">🧑‍🏫 Formación del profesorado</li>	        
 	    </ol>
-	    </nav>
+		</nav>				
 	{{ else if and (eq $block_type "features") (eq $block.Params.subtitle "🧑‍🔧 Operador de IIRR") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
@@ -866,6 +887,23 @@
 	        <li class="breadcrumb-item active" aria-current="page">📝 Preguntas de examen</li>
 	    </ol>
 	    </nav>
+		{{ else if and (eq $block_type "features") (eq $block.Title  "☢️ Radiofísica") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">☢️ Radiofísica</li>
+	    </ol>
+	    </nav>		
 		{{ else if and (eq $block_type "hero-rfir") (eq $block.Params.title "🏥 Radiofísica Hospitalaria (RFIR)") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      

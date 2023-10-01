@@ -18,7 +18,7 @@ subtitle = ""
   icon = "[⚛️](recursos-fisica-quimica/)"  
   icon_pack = "emoji"
   name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
-  description = "[📚&nbsp;Apuntes](recursos-fisica-quimica/apuntes) · [🧩&nbsp;Actividades/juegos](recursos-fisica-quimica/actividades-juegos) · [📖&nbsp;Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓&nbsp;EBAU](recursos-fisica-quimica/ebau) · [📝&nbsp;Oposiciones](recursos-fisica-quimica/oposiciones) · [☢️&nbsp;Radiofísica](recursos-fisica-quimica/radiofisica)"  
+  description = "[📚&nbsp;Apuntes](recursos-fisica-quimica/apuntes) · [🧩&nbsp;Actividades/juegos](recursos-fisica-quimica/actividades-juegos) · [📖&nbsp;Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓&nbsp;EBAU](recursos-fisica-quimica/ebau) · [🧑‍🏫&nbsp;Formación del profesorado](recursos-fisica-quimica/formacion-profesorado) · [☢️&nbsp;Radiofísica](recursos-fisica-quimica/radiofisica)"  
   
 [[feature]]
   icon = "[🤝](tutoriales/)"  

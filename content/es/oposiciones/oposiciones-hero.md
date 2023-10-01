@@ -7,7 +7,7 @@ title: 📝 Oposiciones
 hero_media: "lottie/oposiciones.tgs"
 cta:
   label: '**Explora**'
-  url: "recursos-fisica-quimica/oposiciones/#oposiciones"
+  url: "recursos-fisica-quimica/formacion-profesorado/oposiciones/#oposiciones"
   icon_pack: fas
   icon: compass
 cta_alt:
