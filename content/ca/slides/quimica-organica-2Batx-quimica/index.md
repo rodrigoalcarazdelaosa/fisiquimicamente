@@ -337,7 +337,7 @@ Si el pla de la llum polaritzada es desvia a la dreta són substàncies *dextrò
 
 ##### Projeccions de Fischer
 
-Amb la finalitat de facilitar la representació en el pla, s'utilitzen les **projeccions de Fischer**, ideades pel químic alemany Hermann Emil Fischer en 1891, per a representar la disposició espacial de molècules en les quals un o més àtoms de carboni són quirals:
+Amb la finalitat de facilitar la representació en el pla, s'utilitzen les **projeccions de Fischer**, ideades pel químic alemany Hermann Emil Fischer al 1891, per a representar la disposició espacial de molècules en les quals un o més àtoms de carboni són quirals:
 
 ---
 
@@ -374,7 +374,7 @@ A aquest tipus de reaccions un àtom o grup d'àtoms d'una molècula és substit
 
 #### Halogenació d'alcans
 
-Els alcans experimenten reaccions de substitució [**radicalaries**](https://es.wikipedia.org/wiki/Reacción_radicalaria)[^5]. Així, es pot aconseguir la substitució d'un enllaç –C–H per un enllaç –C–X mitjançant radiació lluminosa.
+Els alcans experimenten reaccions de substitució [**radicalaries**](https://es.wikipedia.org/wiki/Reacción_radicalaria). Així, es pot aconseguir la substitució d'un enllaç –C–H per un enllaç –C–X mitjançant radiació lluminosa.
 
 ---
 

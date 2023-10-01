@@ -258,7 +258,7 @@ Aquest és el tipus d'esteroisomeria que presenten molècules essencials per a l
 
 ##### Projeccions de Fischer
 
-Amb la finalitat de facilitar la representació en el pla, s'utilitzen les **projeccions de Fischer**, ideades pel químic alemany Hermann Emil Fischer[^4] en 1891, per a representar la disposició espacial de molècules en les quals un o més àtoms de carboni són quirals:
+Amb la finalitat de facilitar la representació en el pla, s'utilitzen les **projeccions de Fischer**, ideades pel químic alemany Hermann Emil Fischer[^4] al 1891, per a representar la disposició espacial de molècules en les quals un o més àtoms de carboni són quirals:
 
 [^4]: ![Fischer](quimica-organica-2Bach-quimica/Fischer.jpg "**Hermann Emil Fischer** (1852–1919) va ser un químic alemany, descobridor del [**barbital**](https://es.wikipedia.org/wiki/Barbital) (primer sedatiu i somnífer del grup dels [barbitúrics](https://es.wikipedia.org/wiki/Barbitúrico)). Va ser guardonat amb el **Premi Nobel de Química en 1902**. Font: https://commons.wikimedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg.")  
 
@@ -358,7 +358,7 @@ L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple seguint la [**regla de Mar
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-etino-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
-#### Hidratació de alquens
+#### Hidratació d'alquens
 
 L'aigua H<sub>2</sub>O també s'afegeix a l'enllaç múltiple seguint la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
 
