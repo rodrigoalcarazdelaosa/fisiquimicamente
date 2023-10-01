@@ -213,18 +213,18 @@ Sent el primer fonamental en diverses rutes del metabolisme cel·lular, destacan
 #### Isomeria conformacional
 
 {{% callout note %}}
-La [**isomeria conformacional**](https://es.wikipedia.org/wiki/Isomería_conformacional) no és matèria de batxillerat ni de PBAU.
+La [**isomeria conformacional**](https://ca.wikipedia.org/wiki/Isomerisme_conformacional) no és matèria de batxillerat ni de PBAU.
 {{% /callout %}}
 
 Els alquens amb dobles enllaços conjugats poden adoptar dues diferents conformacions. Per exemple, en el **buta–1,3–diè** els dobles enllaços poden estar cap al mateix costat de l'enllaç simple o en costats oposats. Seria incorrecte referir-nos a les dues possibilitats com *cis i trans* ja que són **conformacions** (dinàmic!) i no configuracions (estàtic). És a dir, la molècula pot girar entorn de l'enllaç senzill i interconvertir-se d'una conformació a una altra, cosa que no pot ocórrer amb els isòmers *cis* i *trans* a causa de la rigidesa del doble enllaç o del cicle.
             
 Aquests [**confòrmers**](https://es.wikipedia.org/wiki/Isomería_conformacional) s'anomenen amb el prefix "s" (de "sigma", o de "simple" si preferiu).
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/conformeros.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/conformers.svg" lightbox="false" width="100%" theme="light" >}}
 
-Com hauràs estudiat en Biologia, [els anells de 6 membres poden adoptar dues diferents conformacions: forma de cadira i forma de pot](https://es.wikipedia.org/wiki/Conformación_del_ciclohexano). La forma de cadira és més estable, però la diferència d'estabilitat entre les dues és molt petita, per la qual cosa es converteixen fàcilment l'una en l'altra. Aquestes estructures presenten isomeria conformacional.
+Com hauràs estudiat en Biologia, [els anells de 6 membres poden adoptar dues diferents conformacions: forma de cadira i forma de pot](https://ca.wikipedia.org/wiki/Conformació_en_ciclohexà). La forma de cadira és més estable, però la diferència d'estabilitat entre les dues és molt petita, per la qual cosa es converteixen fàcilment l'una en l'altra. Aquestes estructures presenten isomeria conformacional.
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/glucopiranosa.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/glucopiranosa-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Isomeria òptica
 
@@ -277,7 +277,7 @@ Els alcans experimenten reaccions de substitució [**radicalaries**](https://es.
 
 [^5]: Les reaccions radicalaries són les responsables de la formació i destrucció de la capa d'ozó. La formació ocorre a través de la reacció en cadena següent:
   {{< figure library="true" src="quimica-organica-2Bach-quimica/formacion-ozono.svg" lightbox="false" width="100%" theme="dark" >}}
-  Reacción global:
+  Reacció global:
   {{< figure library="true" src="quimica-organica-2Bach-quimica/formacion-ozono-global.svg" lightbox="false" width="100%" theme="dark" >}}
   La destrucció d'ozó (O<sub>3</sub>) ocorre a través d'una reacció en cadena que necessita un catalitzador X:
   {{< figure library="true" src="quimica-organica-2Bach-quimica/destruccion-ozono.svg" lightbox="false" width="100%" theme="dark" >}}
@@ -286,33 +286,33 @@ Els alcans experimenten reaccions de substitució [**radicalaries**](https://es.
 
 S'anomena **substitució fotoquímica** i és una reacció en la qual la llum trenca la molècula d'halogen X<sub>2</sub> (F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> o I<sub>2</sub>) donant una reacció en cadena amb fórmula general:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/radicalaria1.svg" lightbox="false" width="50%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/radicalaria1-cat.svg" lightbox="false" width="50%" theme="light" >}}
 
 La reacció pot continuar precisant a cada etapa llum o calor. A cada etapa es forma HX com a producte. La següent reacció està particularitzada per a (X = Cl). A cada etapa, a més del producte de substitució, es forma HCl:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/radicalaria2.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/radicalaria2-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Substitució d'un halogen per un altre
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/sustitucion-halogenos.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/sustitucion-halogenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Transformació d'un derivat halogenat en un alcohol
 
 La [**hidròlisis**](https://es.wikipedia.org/wiki/Hidrólisis) d'un haloalcà es duu a terme amb NaOH que dona la substitució de l'halogen pel grup –OH, donant l'alcohol:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-alcohol.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-alcohol-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Transformació d'un derivat halogenat en un èter
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-eter.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-eter-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Transformació d'un derivat halogenat en una amina primària
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-amina-primaria.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-amina-primaria-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Transformació d'un derivat halogenat en una amina secundària (o terciària)
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-amina-secundaria.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-amina-secundaria-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ### Reaccions d'addició
 
@@ -324,53 +324,53 @@ Una molècula incorpora a la seva estructura una altra molècula. Ocorren amb su
 
 Es realitza amb hidrogen molecular en presència d'un catalitzador, normalment platí. És un procés exotèrmic. La reacció transcorre de manera que cada àtom d'hidrogen de la molècula H<sub>2</sub> s'afegeix a un dels dos carbonis que formen l'enllaç múltiple en el reactiu, saturant la molècula:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrogenacion-alquenos.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrogenacion-alquenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Hidrogenació d'un alquí
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrogenacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrogenacion-etino-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Halogenació d'alquens
 
 De manera anàloga a la hidrogenació, l'halogen X<sub>2</sub> afegeix un àtom d'halogen a cada carboni que forma l'enllaç múltiple formant un dihalogen veïnal:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/halogenacion-alquenos.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/halogenacion-alquenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Halogenació d'un alquè
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/halogenacion-eteno.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/halogenacion-eteno-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Halogenació d'un alquí
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/halogenacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/halogenacion-etino-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Hidrohalogenació d'alquens
 
 L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple seguint la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-alquenos.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-alquenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Hidrohalogenació d'un alquè
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-propeno.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-propeno-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Hidrohalogenació d'un alquí
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-etino-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Hidratació de alquens
 
 L'aigua H<sub>2</sub>O també s'afegeix a l'enllaç múltiple seguint la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-alquenos.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-alquenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Hidratació d'un alquè
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-propeno.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-propeno-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Hidratació d'un alquí
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-etino-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ### Reaccions d'eliminació
 
@@ -382,25 +382,25 @@ Una molècula perd àtoms en posicions adjacents i origina una molècula amb un 
 
 És la reacció inversa a la hidrogenació, i es dona amb un catalitzador i calor, donant l'alquè:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/deshidrogenacion.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/deshidrogenacio.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Deshidrohalogenació d'halurs d'alquil
 
 És la reacció inversa a la hidrohalogenació, es produeix en presència de KOH i alcohol en la qual s'elimina KX i H<sub>2</sub>O, originant un doble enllaç. La deshidrohalogenació produeix majoritàriament el producte amb el doble enllaç més substituït segons la [**regla de Zaitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev):
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/deshidrohalogenacion-haluros-alquilo.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/deshidrohalogenacion-haluros-alquilo-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Deshidrohalogenació de dihalurs veïnals
 
 Com al cas anterior, s'eliminen molècules d'HX, en aquest cas 2 molècules HX, originant un enllaç triple. Aquesta reacció es produeix en presència d'un catalitzador:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/deshidrohalogenacion-dihaluros-vecinales.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/deshidrohalogenacion-dihaluros-vecinales-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Deshidratació d'alcohols
 
 És la reacció inversa a la hidratació d'alcohols. Es produeix en medi àcid, generalment H<sub>2</sub>SO<sub>4</sub>, i calor. La deshidratació (pèrdua d'una molècula d'aigua) produeix, majoritàriament, el doble enllaç més substituït seguint la [**regla de Zaitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev):
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/deshidratacion-alcoholes.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/deshidratacion-alcoholes-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Eliminació vs. substitució
 
@@ -420,7 +420,7 @@ Substrat
 : Si el substrat és un derivat halogenat primari es dona favorablement la substitució. Si el substrat és un derivat halogenat secundari o terciari es veu afavorida l'eliminació.
 
 Condicions
-: Si el reactiu és una base forta NaOH, NaOCH<sub>2</sub>CH<sub>3</sub>) i el dissolvent és molt polar (H<sub>2</sub>O), es produeix la substitució. Si el reactiu és una base feble (H<sub>2</sub>O) i el dissolvent és apolar es dona l'eliminació.
+: Si el reactiu és una base forta (NaOH, NaOCH<sub>2</sub>CH<sub>3</sub>) i el dissolvent és molt polar (H<sub>2</sub>O), es produeix la substitució. Si el reactiu és una base feble (H<sub>2</sub>O) i el dissolvent és apolar es dona l'eliminació.
 
 ### Reaccions d'oxidació-reducció (redox)
 
@@ -432,7 +432,7 @@ La reacció inversa a l'oxidació és la **reducció**. Com a substància reduct
 
 Com en els **alcohols primaris** el grup –OH està unit a un carboni terminal, en oxidar-se produeix un carbonil terminal donant lloc a un **aldehid**, –CHO. Si l'oxidació continua l'aldehid s'oxida a **àcid carboxílic**:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-primario.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-primario-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Alcohols secundaris
 
@@ -462,7 +462,7 @@ Les reaccions de combustió són reaccions exotèrmiques. Si el compost té altr
 
 L'**esterificació** és la reacció de **condensació** entre un àcid carboxílic i un alcohol, per pèrdua d'aigua, produint-se un èster:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/esterificacion.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/esterificacio.svg" lightbox="false" width="100%" theme="light" >}}
 
 La **saponificació** és la reacció inversa a l'esterificació. La hidròlisi de l'èster dona l'àcid carboxílic i l'alcohol. S'entén per saponificació la reacció que produeix la formació de sabons. La principal causa és la dissociació dels greixos en un medi alcalí, separant-se glicerina i àcids grassos. Aquests últims s'associen immediatament amb els àlcalis constituint les sals sòdiques dels àcids grassos: el sabó.
 
@@ -470,13 +470,13 @@ La **saponificació** és la reacció inversa a l'esterificació. La hidròlisi 
 
 La formació de l'èter competeix amb l'eliminació d'aigua per a donar l'alquè. Les condicions de reacció determinaran quina és la reacció majoritària:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-alcoholes.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-alcoholes-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Reacció de condensació per a donar amides
 
 L'amoníac, les amines primàries i les amines secundàries reaccionen amb els àcids carboxílics per a donar amides. És una reacció de condensació en la qual s'allibera aigua. La seva inversa, la reacció d'hidròlisi, permet obtenir l'amina i l'àcid corresponent:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-amidas.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-amidas-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ### Reaccions de polimerització
 
@@ -519,4 +519,4 @@ La reacció global quedaria com:
 
 S'obtenen per reacció entre dos monòmers, cadascun dels quals té, almenys, dos grups funcionals, amb eliminació d'alguna molècula (per exemple aigua). Els polièsters són polímers de condensació que s'obtenen a partir de diols i àcids dicarboxílics, que donen lloc als grups èster característics del polímer:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-etapas.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-etapas-cat.svg" lightbox="false" width="100%" theme="light" >}}
