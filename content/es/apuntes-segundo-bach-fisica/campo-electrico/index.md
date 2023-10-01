@@ -6,6 +6,7 @@ summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- alba-lopez-valenzuela
 - leticia-cabezas
 tags:
 - apuntes
@@ -29,7 +30,10 @@ links:
 #   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
-  
+- icon_pack: fas
+  icon:
+  name: ✏️ Ejercicios
+  url: campo-electrico-ejercicios.pdf
 - icon_pack: fas
   icon:
   name: 🔗 Ejercicios
