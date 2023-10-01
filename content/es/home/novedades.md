@@ -26,7 +26,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Química Orgánica 2.º Bach
+      text: Química orgánica | 2.º Bach
       url: 'recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica/'
   - title: 🗞️ Novedades
     content: '🧩 Última actividad/juego'

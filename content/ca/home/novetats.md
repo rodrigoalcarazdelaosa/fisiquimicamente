@@ -26,7 +26,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Química orgànica
+      text: Química orgànica | 2n Batx
       url: 'recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
