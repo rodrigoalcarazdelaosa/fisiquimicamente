@@ -269,7 +269,7 @@ Vigilancia de profesorado y sin poder salir del centro. Se organizan **recreos a
 
 ---
 
-Además, podéis **participar** en la marcha del proceso educativo de vuestros/as hijos/as de **varias formas**:
+Podéis **participar** en la marcha del proceso educativo de vuestros/as hijos/as de **varias formas**:
 
 - A través del **Consejo Escolar** y la **AMPA**.
 - Acudiendo al centro para informaros o para aportar información sobre la marcha de vuestros/as hijos/as: concertando entrevistas con profesores/as, tutores/as y Departamento de Orientación, etc.
