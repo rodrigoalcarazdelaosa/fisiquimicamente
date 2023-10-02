@@ -36,7 +36,7 @@ links:
   url: campo-electrico-ejercicios.pdf
 - icon_pack: fas
   icon:
-  name: 🔗 Ejercicios
+  name: 🔗 Más ejercicios
   url: https://drive.google.com/file/d/1A2JmO4UcFPFx_Xr6AOxv_KqjRZBmwLe3/view
 - icon_pack: fas
   icon:
