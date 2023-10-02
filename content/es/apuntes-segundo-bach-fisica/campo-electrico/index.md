@@ -32,12 +32,12 @@ links:
 #   url: MAS_texto.pdf
 - icon_pack: fas
   icon:
-  name: ✏️ Ejercicios
-  url: campo-electrico-ejercicios.pdf
-- icon_pack: fas
-  icon:
   name: 📋 Formulario
   url: campo-electrico-formulario.pdf
+- icon_pack: fas
+  icon:
+  name: ✏️ Ejercicios
+  url: campo-electrico-ejercicios.pdf
 - icon_pack: fas
   icon:
   name: 🔗 Más ejercicios
