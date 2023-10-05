@@ -3,7 +3,7 @@ module github.com/rodrigoalcarazdelaosa/fisiquimicamente
 go 1.21
 
 require (
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20231002212530-4ed36f73f51b // indirect
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.1-0.20231004195133-7b92ad1fbe49 // indirect
 	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v0.0.0-20220925210429-230d4a35ce73 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.8.2-0.20231002212530-4ed36f73f51b // indirect
+	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.8.2-0.20231004195133-7b92ad1fbe49 // indirect
 )
