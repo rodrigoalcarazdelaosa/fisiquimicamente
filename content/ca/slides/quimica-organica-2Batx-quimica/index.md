@@ -1,6 +1,6 @@
 ---
 title: Química orgànica
-summary: "Isomeria i reaccions."
+summary: "Isomeria, reactivitat i polímers."
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica/diapositives"
 
 slides:
@@ -21,7 +21,8 @@ threedmol: true
 # Química orgànica
 
 - [Isomeria](#/2)
-- [Reaccions](#/3)
+- [Reactivitat](#/3)
+- [Polímers](#/4)
 
 Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 
@@ -349,14 +350,13 @@ Amb la finalitat de facilitar la representació en el pla, s'utilitzen les **pro
 
 {{% section %}}
 
-## Reaccions
+## Reactivitat
 
 - [Reaccions de substitució](#/3/1)
 - [Reaccions d'addició](#/3/10)
 - [Reaccions d'eliminació](#/3/24)
 - [Reaccions d'oxidació-reducció (redox)](#/3/38)
 - [Reaccions de condensació i hidròlisi](#/3/47)
-- [Reaccions de polimerització](#/3/53)
 
 (continua cap avall)
 
@@ -690,9 +690,13 @@ La seva inversa, la reacció d'hidròlisi, permet obtenir l'amina i l'àcid corr
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-amidas-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
+{{% /section %}}
+
 ---
 
-### Reaccions de polimerització
+{{% section %}}
+
+## Polímers
 
 Els [**polímers**](https://es.wikipedia.org/wiki/Polímero) (també anomenats macromolècules) són molècules molt grans formades a partir de la repetició d'unitats més petites anomenades [**monòmers**](https://es.wikipedia.org/wiki/Monómero).
 
@@ -706,7 +710,7 @@ Els [**polímers**](https://es.wikipedia.org/wiki/Polímero) (també anomenats m
 
 ---
 
-#### Classificació dels polímers
+### Classificació dels polímers
 
 Existeixen polímers **naturals** com els polisacàrids, les proteïnes o el cautxú (natural) i altres [**sintètics**](https://es.wikipedia.org/wiki/polímeros_sintéticos): polietilè (PE), niló, polièster, PVC, PET...
 
@@ -728,34 +732,34 @@ Respecte als tipus d'unitats repetitives, si totes són del mateix tipus és un 
 
 ---
 
-#### Síntesi de polímers
+### Síntesi de polímers
 
 Els polímers es poden sintetitzar per dues rutes: reacció [**en cadena**](https://es.wikipedia.org/wiki/polimerización_en_cadena) (polimerització per addició) o reacció [**per etapes**](https://es.wikipedia.org/wiki/polimerización_por_etapas) (polimerització per condensació).
 
 ---
 
-##### Polímers per creixement en cadena o polímers d'addició
+#### Polímers per creixement en cadena o polímers d'addició
 
 S'obtenen a partir de la formació de llargues cadenes de monòmers que s'uneixen unes a altres sense que existeixi pèrdua de cap molècula en el procés:
 
 ---
 
-###### Iniciació
+##### Iniciació
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-iniciacion.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---  
 
-###### Creixement
+##### Creixement
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-crecimiento.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 
-###### Terminació
+##### Terminació
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-global.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 
-##### Polímers per creixement per etapes o polímers de condensació
+#### Polímers per creixement per etapes o polímers de condensació
 
 S'obtenen per reacció entre dos monòmers, cadascun dels quals té, almenys, dos grups funcionals, amb eliminació d'alguna molècula (per exemple aigua).
 

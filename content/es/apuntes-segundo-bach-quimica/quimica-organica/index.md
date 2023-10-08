@@ -1,8 +1,8 @@
 ---
 title: Química orgánica
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica"
-subtitle: Isomería y reacciones
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Isomería y reacciones."
+subtitle: Isomería, reactividad y polímeros
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Isomería, reactividad y polímeros."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - alba-lopez-valenzuela
@@ -30,8 +30,12 @@ image:
 links:
 - icon_pack: fas
   icon: 
-  name: 📜 Póster
+  name: 📜 Póster isomería y reactividad
   url: quimica-organica-poster.pdf
+- icon_pack: fas
+  icon: 
+  name: 📜 Póster polímeros
+  url: https://fisiquimicamente.com/blog/2022/12/01/tipos-de-plasticos/tipos-plasticos-poster.pdf
 - icon_pack: fas
   icon:
   name: ✏️ Ejercicios
@@ -276,7 +280,7 @@ Con el fin de facilitar la representación en el plano, se utilizan las **proyec
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fischer.svg" lightbox="false" width="100%" theme="light" >}}
 
-## Reacciones
+## Reactividad
 ### Reacciones de sustitución
 
 En este tipo de reacciones un átomo o grupo de átomos de una molécula es sustituido por otro átomo o grupo de átomos de otra molécula:
@@ -490,7 +494,7 @@ El amoniaco, las aminas primarias y las aminas secundarias reaccionan con los á
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-amidas.svg" lightbox="false" width="100%" theme="light" >}}
 
-### Reacciones de polimerización
+## Polímeros
 
 Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados macromoléculas) son moléculas muy grandes formadas a partir de la repetición de unidades más pequeñas llamadas [**monómeros**](https://es.wikipedia.org/wiki/Monómero).
 
@@ -500,7 +504,7 @@ En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) anali
 Aprende a **nombrar polímeros** con [esta **guía breve** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/02/Brief-Guide-to-Polymer-Nomenclature_Espanol-20220214.pdf).
 {{% /callout %}}
 
-#### Clasificación de los polímeros
+### Clasificación de los polímeros
 
 Existen polímeros **naturales** como los polisacáridos, las proteínas o el caucho (natural) y otros [**sintéticos**](https://es.wikipedia.org/wiki/Polímeros_sintéticos): polietileno (PE), nylon, poliéster, PVC, PET...
 
@@ -508,11 +512,11 @@ Con respecto al comportamiento a temperaturas elevadas, los polímeros se clasif
 
 Con respecto a los tipos de unidades repetitivas, si todas son del mismo tipo es un **homopolímero** y si contiene dos o más tipos de unidades repetitivas es un [**copolímero**](https://es.wikipedia.org/wiki/Copolímero).
 
-#### Síntesis de polímeros
+### Síntesis de polímeros
 
 Los polímeros se pueden sintetizar por dos rutas: reacción [**en cadena**](https://es.wikipedia.org/wiki/Polimerización_en_cadena) (polimerización por adición) o reacción [**por etapas**](https://es.wikipedia.org/wiki/Polimerización_por_etapas) (polimerización por condensación).
 
-##### Polímeros por crecimiento en cadena o polímeros de adición
+#### Polímeros por crecimiento en cadena o polímeros de adición
 
 Se obtienen a partir de la formación de largas cadenas de monómeros que se unen unas a otras sin que exista pérdida de ninguna molécula en el proceso:
 
@@ -527,7 +531,7 @@ La reacción global quedaría como:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-global.svg" lightbox="false" width="100%" theme="light" >}}
 
-##### Polímeros por crecimiento por etapas o polímeros de condensación
+#### Polímeros por crecimiento por etapas o polímeros de condensación
 
 Se obtienen por reacción entre dos monómeros, cada uno de los cuales tiene, al menos, dos grupos funcionales, con eliminación de alguna molécula (por ejemplo agua). Los poliésteres son polímeros de condensación que se obtienen a partir de dioles y ácidos dicarboxílicos, que dan lugar a los grupos éster característicos del polímero:
 

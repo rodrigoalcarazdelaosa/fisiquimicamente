@@ -1,8 +1,8 @@
 ---
 title: Química orgànica
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica"
-subtitle: Isomeria i reaccions
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVETAT</code><br>Isomeria i reaccions."
+subtitle: Isomeria, reactivitat i polímers
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVETAT</code><br>Isomeria, reactivitat i polímers."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - alba-lopez-valenzuela
@@ -264,7 +264,7 @@ Amb la finalitat de facilitar la representació en el pla, s'utilitzen les **pro
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fischer.svg" lightbox="false" width="100%" theme="light" >}}
 
-## Reaccions
+## Reactivitat
 ### Reaccions de substitució
 
 En aquest tipus de reaccions un àtom o grup d'àtoms d'una molècula és substituït per un altre àtom o grup d'àtoms d'una altra molècula:
@@ -478,7 +478,7 @@ L'amoníac, les amines primàries i les amines secundàries reaccionen amb els �
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-amidas-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
-### Reaccions de polimerització
+## Polímers
 
 Els [**polímers**](https://es.wikipedia.org/wiki/Polímero) (també anomenats macromolècules) són molècules molt grans formades a partir de la repetició d'unitats més petites anomenades [**monòmers**](https://es.wikipedia.org/wiki/Monómero).
 
@@ -488,7 +488,7 @@ A [aquesta **entrada** del **blog**](https://fisiquimicamente.com/blog/2022/12/0
 Aprèn a **anomenar polímers** amb [aquesta **guia breu** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/02/Brief-Guide-to-Polymer-Nomenclature_Espanol-20220214.pdf).
 {{% /callout %}}
 
-#### Classificació dels polímers
+### Classificació dels polímers
 
 Existeixen polímers **naturals** com els polisacàrids, les proteïnes o el cautxú (natural) i altres [**sintètics**](https://es.wikipedia.org/wiki/polímeros_sintéticos): polietilè (PE), niló, polièster, PVC, PET...
 
@@ -496,11 +496,11 @@ Respecte al comportament a temperatures elevades, els polímers es classifiquen 
 
 Respecte als tipus d'unitats repetitives, si totes són del mateix tipus és un **homopolímer** i si conté dos o més tipus d'unitats repetitives és un [**copolímer**](https://es.wikipedia.org/wiki/copolímero).
 
-#### Síntesi de polímers
+### Síntesi de polímers
 
 Els polímers es poden sintetitzar per dues rutes: reacció [**en cadena**](https://es.wikipedia.org/wiki/polimerización_en_cadena) (polimerització per addició) o reacció [**per etapes**](https://es.wikipedia.org/wiki/polimerización_por_etapas) (polimerització per condensació).
 
-##### Polímers per creixement en cadena o polímers d'addició
+#### Polímers per creixement en cadena o polímers d'addició
 
 S'obtenen a partir de la formació de llargues cadenes de monòmers que s'uneixen unes a altres sense que existeixi pèrdua de cap molècula en el procés:
 
@@ -515,7 +515,7 @@ La reacció global quedaria com:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-global.svg" lightbox="false" width="100%" theme="light" >}}
 
-##### Polímers per creixement per etapes o polímers de condensació
+#### Polímers per creixement per etapes o polímers de condensació
 
 S'obtenen per reacció entre dos monòmers, cadascun dels quals té, almenys, dos grups funcionals, amb eliminació d'alguna molècula (per exemple aigua). Els polièsters són polímers de condensació que s'obtenen a partir de diols i àcids dicarboxílics, que donen lloc als grups èster característics del polímer:
 

@@ -1,6 +1,6 @@
 ---
 title: Química orgánica
-summary: "Isomería y reacciones."
+summary: "Isomería, reactividad y polímeros."
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica/diapositivas"
 
 slides:
@@ -21,7 +21,8 @@ threedmol: true
 # Química orgánica
 
 - [Isomería](#/2)
-- [Reacciones](#/3)
+- [Reactividad](#/3)
+- [Polímeros](#/4)
 
 Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
@@ -349,14 +350,13 @@ Con el fin de facilitar la representación en el plano, se utilizan las **proyec
 
 {{% section %}}
 
-## Reacciones
+## Reactividad
 
 - [Reacciones de sustitución](#/3/1)
 - [Reacciones de adición](#/3/10)
 - [Reacciones de eliminación](#/3/24)
 - [Reacciones de oxidación-reducción (rédox)](#/3/38)
 - [Reacciones de condensación e hidrólisis](#/3/47)
-- [Reacciones de polimerización](#/3/53)
 
 (continúa hacia abajo)
 
@@ -690,9 +690,13 @@ Su inversa, la reacción de hidrólisis, permite obtener la amina y el ácido co
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-amidas.svg" lightbox="false" width="100%" theme="light" >}}
 
+{{% /section %}}
+
 ---
 
-### Reacciones de polimerización
+{{% section %}}
+
+## Polímeros
 
 Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados macromoléculas) son moléculas muy grandes formadas a partir de la repetición de unidades más pequeñas llamadas [**monómeros**](https://es.wikipedia.org/wiki/Monómero).
 
@@ -706,7 +710,7 @@ Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados
 
 ---
 
-#### Clasificación de los polímeros
+### Clasificación de los polímeros
 
 Existen polímeros **naturales** como los polisacáridos, las proteínas o el caucho (natural) y otros [**sintéticos**](https://es.wikipedia.org/wiki/Polímeros_sintéticos): polietileno (PE), nylon, poliéster, PVC, PET...
 
@@ -728,29 +732,29 @@ Con respecto a los tipos de unidades repetitivas, si todas son del mismo tipo es
 
 ---
 
-#### Síntesis de polímeros
+### Síntesis de polímeros
 
 Los polímeros se pueden sintetizar por dos rutas: reacción [**en cadena**](https://es.wikipedia.org/wiki/Polimerización_en_cadena) (polimerización por adición) o reacción [**por etapas**](https://es.wikipedia.org/wiki/Polimerización_por_etapas) (polimerización por condensación).
 
 ---
 
-##### Polímeros por crecimiento en cadena o polímeros de adición
+#### Polímeros por crecimiento en cadena o polímeros de adición
 
 Se obtienen a partir de la formación de largas cadenas de monómeros que se unen unas a otras sin que exista pérdida de ninguna molécula en el proceso:
 
 ---
 
-###### Iniciación
+##### Iniciación
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-iniciacion.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---  
 
-###### Crecimiento
+##### Crecimiento
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-crecimiento.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 
-###### Terminación
+##### Terminación
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-terminacion.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---  
@@ -761,7 +765,7 @@ La reacción global quedaría como:
 
 ---
 
-##### Polímeros por crecimiento por etapas o polímeros de condensación
+#### Polímeros por crecimiento por etapas o polímeros de condensación
 
 Se obtienen por reacción entre dos monómeros, cada uno de los cuales tiene, al menos, dos grupos funcionales, con eliminación de alguna molécula (por ejemplo agua).
 
