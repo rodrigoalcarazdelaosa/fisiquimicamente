@@ -14,7 +14,7 @@ tags:
 - actividad-científica
 categories:
 - Química
-weight: 5
+weight: 6
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://descargas.intef.es/recursos_educativos/ODES_SGOA/ESO/FQ/SA3_-_Bebidas_alcohlicas/index.html"

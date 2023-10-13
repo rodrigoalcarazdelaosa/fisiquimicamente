@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Investigación aeroespacial aplicada al aula | 4.º ESO
-      url: 'recursos-fisica-quimica/actividades-juegos/4eso/investigacion-aeroespacial-aplicada-al-aula/'
+      text: Notación científica | 2.º ESO · 3.º ESO
+      url: 'recursos-fisica-quimica/actividades-juegos/2eso-3eso/notacion-cientifica/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

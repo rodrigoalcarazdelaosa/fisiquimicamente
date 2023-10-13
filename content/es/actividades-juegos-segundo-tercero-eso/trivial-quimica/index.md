@@ -17,7 +17,7 @@ tags:
 - reacciones-químicas
 categories:
 - Química
-weight: 10
+weight: 11
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
