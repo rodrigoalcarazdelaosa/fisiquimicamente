@@ -51,8 +51,8 @@ donde $1 \leq a<10$ y $n$ puede ser cualquier número entero (positivo o negativ
 
 En [esta **ficha de actividades**](https://drive.google.com/file/d/131KZwULBePwglJCLzO9_-9lpJ-_wvGQ9/view?usp=sharing), [**Ivanquifis**](https://twitter.com/ivanquifis) nos propone dos **ejercicios**, uno con **coevaluación**:
 
-{{< figure src="coevaluacion.svg" lightbox="false" width="100%" >}}
+{{< figure src="coevaluacion.svg" lightbox="false" width="100%" theme="light" >}}
 
 y otro **gamificado** en formato 🧩 **puzzle**:
 
-{{< figure src="puzzle.svg" lightbox="false" width="100%" >}}
+{{< figure src="puzzle.svg" lightbox="false" width="100%" theme="light" >}}
