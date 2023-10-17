@@ -20,6 +20,6 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> Paypal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions)[^3].
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) per la [llicència](/llicencia).
 
-[^2]: Actualment la web utilitza les tipografies [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) i [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
+[^2]: Actualment la web utilitza les tipografies [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) i [Inconsolata](https://fonts.google.com/specimen/Inconsolata). A més, [Cloudflare Fonts](https://www.cloudflare.com/es-es/cloudflare-fonts/) està activat.
 
 [^3]: Per tal de cobrir les despeses del web relacionats amb el domini i l'allotjament.

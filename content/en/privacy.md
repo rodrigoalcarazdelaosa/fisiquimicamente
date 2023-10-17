@@ -19,6 +19,6 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> Paypal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) for the *coffees* (donations)[^3].
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) for the [license](/license).
 
-[^2]: Currently the website uses the typefaces [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) and [Inconsolata](https://fonts.google.com/specimen/Inconsolata).
+[^2]: Currently the website uses the typefaces [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) and [Inconsolata](https://fonts.google.com/specimen/Inconsolata). In addition, [Cloudflare Fonts](https://www.cloudflare.com/cloudflare-fonts/) is enabled.
 
 [^3]: In order to cover the costs of the website related to domain and hosting.
