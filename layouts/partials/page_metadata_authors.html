@@ -10,11 +10,11 @@
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
 	  {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
 	  {{- if .RelPermalink -}}
-		  {{- if eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/" -}}
+		  {{- if and (eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "es") -}}
 	        <a href="/equipo/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
 		  {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "en") -}}
 	        <a href="/team/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
-      {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "ca") -}}
+      {{- else if and (eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "ca") -}}
       <a href="/equip/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>          
 		  {{- else -}}		  
 	        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
