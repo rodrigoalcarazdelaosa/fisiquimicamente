@@ -84,6 +84,13 @@ social:
   label: Subscriu-te al canal de Telegram
   display:
     header: true
+    footer: true
+- icon: whatsapp
+  icon_pack: svg
+  link: https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f
+  label: Subscriu-te al canal de Whatsapp
+  display:
+    header: true
     footer: true    
 - icon: discord
   icon_pack: svg

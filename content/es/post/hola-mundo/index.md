@@ -61,7 +61,7 @@ También puedes <strong>compartir</strong> todas las <strong>entradas</strong> d
 
 ### Suscribiéndote
 
-Si no quieres perderte ninguna **actualización** puedes **suscribirte** al [**canal** de {{< icon name="telegram" pack="svg" >}} **Telegram**](https://t.me/fisiquimicamente) o al [**canal {{< icon name="RSS" pack="svg" >}} RSS**](/index.xml).
+Si no quieres perderte ninguna **actualización** puedes **suscribirte** al [**canal** de {{< icon name="telegram" pack="svg" >}} **Telegram**](https://t.me/fisiquimicamente), al [**canal** de {{< icon name="whatsapp" pack="svg" >}} **Whatsapp**](https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f) o al [**canal {{< icon name="RSS" pack="svg" >}} RSS**](/index.xml).
 
 ### Contactándonos
 

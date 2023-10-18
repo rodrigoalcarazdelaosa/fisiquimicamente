@@ -58,7 +58,7 @@ If you wish to acknowledge and praise our effort, encouraging us to continue pre
 You can also <strong>share</strong> all the <strong>blog posts</strong> and [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.
 
 ### Subscribing
-If you don't want to miss any **updates** you can **subscribe** to the [{{< icon name="telegram" pack="svg" >}} **Telegram channel**](https://t.me/fisiquimicamente) (in Spanish) or the [{{< icon name="RSS" pack="svg" >}} **RSS** feed](/index.xml).
+If you don't want to miss any **updates** you can **subscribe** to the [{{< icon name="telegram" pack="svg" >}} **Telegram channel**](https://t.me/fisiquimicamente) (in Spanish), the [{{< icon name="whatsapp" pack="svg" >}} **Whatsapp channel**](https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f) (in Spanish) or the [{{< icon name="RSS" pack="svg" >}} **RSS** feed](/index.xml).
 
 ### Contacting us
 Also, you can write us either using the [**contact form**]({{< ref "/#contact" >}}) or from [{{< icon name="twitter" pack="svg" >}} **Twitter**](https://twitter.com/fqmente). You can also follow us on [{{< icon name="instagram" pack="svg" >}} **Instagram**](https://www.instagram.com/fisiquimicamente/) or [{{< icon name="pinterest" pack="svg" >}} **Pinterest**](https://www.pinterest.es/fisiquimicamente/).

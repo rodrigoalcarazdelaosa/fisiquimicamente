@@ -30,7 +30,11 @@ content:
     - icon: telegram
       icon_pack: svg
       name: "Subscriu-te al canal de Telegram"
-      link: "https://t.me/fisiquimicamente"      
+      link: "https://t.me/fisiquimicamente"
+    - icon: whatsapp
+      icon_pack: svg
+      name: "Subscriu-te al canal de Whatsapp"
+      link: "https://whatsapp.com/channel/0029VaCbtJCIt5s4EryJFG3f"
     - icon: "discord"
       icon_pack: svg
       name: "Uneix-te a el servidor d'Discord"
