@@ -18,8 +18,10 @@
 
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
 
-{{ if eq $animation_type "json" }}  
-  <lottie-player autoplay loop mode="normal" src="{{ $destination }}" style="width: {{ .Get "width" }}; height:auto"></lottie-player>
+{{ $display := .Get "display" | default "block" | safeCSS }}
+
+{{ if eq $animation_type "json" }}
+  <lottie-player autoplay loop mode="normal" src="{{ $destination }}" style="width: {{ .Get "width" }}; height:auto; display: {{ $display }}"></lottie-player>
 {{ else if eq $animation_type "tgs" }}  
-  <tgs-player autoplay loop mode="normal" src="{{ $destination }}" style="width: {{ .Get "width" }}; height:auto"></tgs-player>
+  <tgs-player autoplay loop mode="normal" src="{{ $destination }}" style="width: {{ .Get "width" }}; height:auto; display: {{ $display }}"></tgs-player>
 {{ end }}
