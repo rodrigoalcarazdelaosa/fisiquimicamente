@@ -16,8 +16,6 @@
 
 {{ $animation_type := strings.TrimPrefix "." (path.Ext $destination) | lower }}
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
-
 {{ $display := .Get "display" | default "block" | safeCSS }}
 
 {{ if eq $animation_type "json" }}

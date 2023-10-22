@@ -13,8 +13,7 @@
 {{ end }}
 
     {{ with $block.Title }}
-      {{ if eq $block.Title "FisiQuímicamente" }}
-        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
+      {{ if eq $block.Title "FisiQuímicamente" }}        
         {{- $F := resources.Get ("media/lottie/zombie-letters/F.tgs") -}}
         {{- $I := resources.Get ("media/lottie/zombie-letters/I.tgs") -}}
         {{- $S := resources.Get ("media/lottie/zombie-letters/S.tgs") -}}
@@ -154,11 +153,9 @@
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
       {{ $animation_type := strings.TrimPrefix "." (path.Ext $image.RelPermalink) | lower }}      
 
-      {{ if eq $animation_type "json" }}
-        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
+      {{ if eq $animation_type "json" }}        
         <lottie-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></lottie-player>
       {{ else if eq $animation_type "tgs" }}        
-        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
         <tgs-player autoplay loop mode="normal" style="width: 100%; height:auto" id="tgs-home"></tgs-player>
         <script>
           document.addEventListener('wcThemeChange', (e) => {
