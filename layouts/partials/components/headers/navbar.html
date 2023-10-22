@@ -25,7 +25,7 @@
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
         {{- if $has_logo -}}        
-        <tgs-player autoplay loop mode="normal" src="/media/lottie/home-halloween-dark.tgs" style="width: 70px; height:70px"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="/media/lottie/home-halloween-dark.tgs" style="width: 61.6px; height:61.6px"></tgs-player>
           {{/*  <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
           {{with site.Params.header.image.height}}height="{{.}}"{{end}} id="logo">  */}}
@@ -75,144 +75,9 @@
     {{ if site.Menus.main }}
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
-    <span>☰</span>
+          <tgs-player autoplay loop mode="normal" src="/media/lottie/home-halloween-dark.tgs" style="width: 44px; height: 44px"></tgs-player>
     </button>
     {{ end }}
-
-    {{if $show_logo}}
-    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
-      {{- if $has_logo -}}
-      {{ if eq .Site.Language.Lang "es" }}
-        {{- $F := resources.Get ("media/lottie/zombie-letters/F.tgs") -}}
-        {{- $I := resources.Get ("media/lottie/zombie-letters/I.tgs") -}}
-        {{- $S := resources.Get ("media/lottie/zombie-letters/S.tgs") -}}
-        {{- $Q := resources.Get ("media/lottie/zombie-letters/Q.tgs") -}}
-        {{- $U := resources.Get ("media/lottie/zombie-letters/U.tgs") -}}
-        {{- $M := resources.Get ("media/lottie/zombie-letters/M.tgs") -}}
-        {{- $C := resources.Get ("media/lottie/zombie-letters/C.tgs") -}}
-        {{- $A := resources.Get ("media/lottie/zombie-letters/A.tgs") -}}
-        {{- $E := resources.Get ("media/lottie/zombie-letters/E.tgs") -}}
-        {{- $N := resources.Get ("media/lottie/zombie-letters/N.tgs") -}}
-        {{- $T := resources.Get ("media/lottie/zombie-letters/T.tgs") -}}
-        <tgs-player autoplay loop mode="normal" src="{{ $F.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $S.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $Q.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $U.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $C.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $A.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $E.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $N.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $T.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        <tgs-player autoplay loop mode="normal" src="{{ $E.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        {{/*  {{ $logo = resources.Get "media/logo-mob.svg" }}
-        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-           {{with site.Params.header.image.height}}height="{{.}}"{{end}} id="logo-mob">
-           <script>
-            document.addEventListener('wcThemeChange', (e) => {
-              // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-              if (e.detail.isDarkTheme()) {
-                document.getElementById("logo-mob").src="/media/logo-mob-dark.svg";
-              } else {
-                document.getElementById("logo-mob").src="/media/logo-mob.svg";
-              }
-              });
-            </script>  */}}
-      {{ else if eq .Site.Language.Lang "en" }}
-      {{- $P := resources.Get ("media/lottie/zombie-letters/P.tgs") -}}
-      {{- $H := resources.Get ("media/lottie/zombie-letters/H.tgs") -}}
-      {{- $Y := resources.Get ("media/lottie/zombie-letters/Y.tgs") -}}
-      {{- $S := resources.Get ("media/lottie/zombie-letters/S.tgs") -}}
-      {{- $I := resources.Get ("media/lottie/zombie-letters/I.tgs") -}}
-      {{- $C := resources.Get ("media/lottie/zombie-letters/C.tgs") -}}
-      {{- $E := resources.Get ("media/lottie/zombie-letters/E.tgs") -}}
-      {{- $M := resources.Get ("media/lottie/zombie-letters/M.tgs") -}}
-      {{- $A := resources.Get ("media/lottie/zombie-letters/A.tgs") -}}
-      {{- $L := resources.Get ("media/lottie/zombie-letters/L.tgs") -}}      
-      <tgs-player autoplay loop mode="normal" src="{{ $P.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $H.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $Y.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $S.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $C.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $H.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $E.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $C.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $A.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $L.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $L.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $Y.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        {{/*  {{ $logo = resources.Get "media/logo-mob-en.svg" }}
-        <img style="max-height: 14px" src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-           {{with site.Params.header.image.height}}height="{{.}}"{{end}} id="logo-mob">
-           <script>
-            document.addEventListener('wcThemeChange', (e) => {
-              // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-              if (e.detail.isDarkTheme()) {
-                document.getElementById("logo-mob").src="/media/logo-mob-en-dark.svg";
-              } else {
-                document.getElementById("logo-mob").src="/media/logo-mob-en.svg";
-              }
-              });
-            </script>  */}}
-      {{ else if eq .Site.Language.Lang "ca" }}
-      {{- $F := resources.Get ("media/lottie/zombie-letters/F.tgs") -}}
-      {{- $I := resources.Get ("media/lottie/zombie-letters/I.tgs") -}}
-      {{- $S := resources.Get ("media/lottie/zombie-letters/S.tgs") -}}
-      {{- $Q := resources.Get ("media/lottie/zombie-letters/Q.tgs") -}}
-      {{- $U := resources.Get ("media/lottie/zombie-letters/U.tgs") -}}
-      {{- $M := resources.Get ("media/lottie/zombie-letters/M.tgs") -}}
-      {{- $C := resources.Get ("media/lottie/zombie-letters/C.tgs") -}}
-      {{- $A := resources.Get ("media/lottie/zombie-letters/A.tgs") -}}
-      {{- $E := resources.Get ("media/lottie/zombie-letters/E.tgs") -}}
-      {{- $N := resources.Get ("media/lottie/zombie-letters/N.tgs") -}}
-      {{- $T := resources.Get ("media/lottie/zombie-letters/T.tgs") -}}
-      <tgs-player autoplay loop mode="normal" src="{{ $F.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $S.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $Q.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $U.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $C.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $A.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $E.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $N.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-      <tgs-player autoplay loop mode="normal" src="{{ $T.RelPermalink }}" style="width: 16px; height: 16px; display: inline-block"></tgs-player>
-        {{/*  {{ $logo = resources.Get "media/logo-mob-ca.svg" }}
-        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-           {{with site.Params.header.image.height}}height="{{.}}"{{end}} id="logo-mob">
-           <script>
-            document.addEventListener('wcThemeChange', (e) => {
-              // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-              if (e.detail.isDarkTheme()) {
-                document.getElementById("logo-mob").src="/media/logo-mob-ca-dark.svg";
-              } else {
-                document.getElementById("logo-mob").src="/media/logo-mob-ca.svg";
-              }
-              });
-            </script>  */}}
-      {{ end }}                
-      {{- else -}}
-        {{- site.Title -}}
-      {{- end -}}
-      </a>
-    </div>
-    {{end}}
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     {{ $align_menu := site.Params.header.navbar.align | default "l" }}
