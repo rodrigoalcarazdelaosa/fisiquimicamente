@@ -6,7 +6,7 @@ Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
 &copy; 2020&ndash;2023 Rodrigo Alcaraz de la Osa.
 
-Con stickers animados de <a href="https://telegram.org/blog/animated-stickers/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
+Con stickers y emojis animados de <a href="https://telegram.org/blog/animated-stickers/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
 Publicado con <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
     el constructor de sitios web gratuito y <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
@@ -20,7 +20,7 @@ Physics and Chemistry Resources, Tutorials and Current Science.
 
 &copy; 2020&ndash;2023 Rodrigo Alcaraz de la Osa.
 
-With animated stickers from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
+With animated stickers and emojis from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
 Published with <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">
@@ -34,7 +34,7 @@ Recursos de Física i Química, tutorials i ciència d'actualitat.
 
 &copy; 2020&ndash;2023 Rodrigo Alcaraz de la Osa.
 
-Amb stickers animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
+Amb stickers i emojis animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
 Publicat amb <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a> —
     el constructor de llocs web gratuït i <a href="https://github.com/wowchemy/wowchemy-hugo-themes" target="_blank" rel="noopener">

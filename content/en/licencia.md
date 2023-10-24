@@ -14,6 +14,6 @@ The [📚 <span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apu
 
 {{< figure src="/icon/by-sa.svg" lightbox="false" width="50%" >}}
 
-With animated stickers from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.
+With animated stickers and emojis from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.
 
 The <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg"></a> logo is copyright &copy; [Steve Francia](https://spf13.com).
