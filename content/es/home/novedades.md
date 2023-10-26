@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Misiones Apolo"
-      url: 'blog/2023/09/13/misiones-apolo/'
+      text: "Las 88 constelaciones de la Unión Astronómica Internacional"
+      url: '/blog/2023/10/26/las-88-constelaciones-de-la-union-astronomica-internacional/'
 ---
