@@ -15,8 +15,9 @@ subtitle = "**Recursos** de **radiofísica** de la mano de [**Jésica Sánchez M
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "🧑‍🏫"
-  icon_pack = "emoji"
+  icon = "profesor"
+  icon_link = ""
+  icon_pack = "tgs"
   name = "Ciclos formativos"
   description = "⚡ Radioterapia y Dosimetría<br>🩻 Imagen para el Diagnóstico y Medicina Nuclear<br>`PRÓXIMAMENTE`"
   

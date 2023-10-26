@@ -15,38 +15,44 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[⚛️](recursos-fisica-quimica/)"  
-  icon_pack = "emoji"
+  icon = "recursos"
+  icon_link = "recursos-fisica-quimica/"
+  icon_pack = "lottie"
   name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
   description = "[📚&nbsp;Apuntes](recursos-fisica-quimica/apuntes) · [🧩&nbsp;Actividades/juegos](recursos-fisica-quimica/actividades-juegos) · [📖&nbsp;Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓&nbsp;EBAU](recursos-fisica-quimica/ebau) · [🧑‍🏫&nbsp;Formación del profesorado](recursos-fisica-quimica/formacion-profesorado) · [☢️&nbsp;Radiofísica](recursos-fisica-quimica/radiofisica)"  
   
 [[feature]]
-  icon = "[🤝](tutoriales/)"  
-  icon_pack = "emoji"
+  icon = "tutoriales"
+  icon_link = "tutoriales/"
+  icon_pack = "tgs"
   name = "[Tutoriales](tutoriales/)"
   description = "[LaTeX](tutoriales/latex) · [Presentación de información](tutoriales/presentacion-informacion)"
   
 [[feature]]
-  icon = "[🔗](enlaces-interes/)"  
-  icon_pack = "emoji"
+  icon = "enlaces-interes"
+  icon_link = "enlaces-interes/"
+  icon_pack = "lottie"
   name = "[Enlaces de interés](enlaces-interes/)"
   description = "[💻&nbsp;Recursos online](enlaces-interes/recursos-online) · [🤗&nbsp;Páginas amigas](enlaces-interes/paginas-amigas)"
   
 [[feature]]
-  icon = "[✍️](blog/)"
-  icon_pack = "emoji"
+  icon = "blog"
+  icon_link ="blog/"
+  icon_pack = "tgs"
   name = "[Blog](blog/)"
   description = ""
   
 [[feature]]
-  icon = "[👥](equipo/)"
-  icon_pack = "emoji"
+  icon = "equipo"
+  icon_link = "equipo/"
+  icon_pack = "tgs"
   name = "[Conoce al equipo](equipo/)"
   description = ""
   
 [[feature]]
-  icon = "[📬](#contacto)"  
-  icon_pack = "emoji"
+  icon = "contacto-sticker"
+  icon_link = "#contacto"
+  icon_pack = "tgs"
   name = "[Contacto](#contacto)"
   description = ""  
 

@@ -15,14 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[🎓](master)"
-  icon_pack = "emoji"
+  icon = "ebau"
+  icon_link = "master"
+  icon_pack = "tgs"
   name = "[Máster](master)"
   description = ""
   
 [[feature]]
-  icon = "[📝](oposiciones)"
-  icon_pack = "emoji"
+  icon = "oposiciones"
+  icon_link = "oposiciones"
+  icon_pack = "tgs"
   name = "[Oposiciones](oposiciones)"
   description = "[🧲 Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
   

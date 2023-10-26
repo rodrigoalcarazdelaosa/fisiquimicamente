@@ -41,8 +41,8 @@
 
   <div class="col-12 mx-auto col-md-6 hero-media">
 
-    {{- $404_image := resources.Get ("media/404.svg") -}}    
-    <img src="{{ $404_image.RelPermalink }}" alt="{{ i18n "page_not_found" }}" width="100%">
+    {{- $404_tgs := resources.Get ("media/lottie/404.tgs") -}}    
+    <tgs-player autoplay loop mode="normal" src="{{ $404_tgs.RelPermalink }}" style="width: 100%; height:auto"></tgs-player>
   </div>
 
 </div>  

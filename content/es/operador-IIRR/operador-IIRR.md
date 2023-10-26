@@ -15,14 +15,16 @@ subtitle = "🧑‍🔧 Operador de IIRR"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📝](preguntas-examen/)"  
-  icon_pack = "emoji"
+  icon = "oposiciones"
+  icon_link = "preguntas-examen/"
+  icon_pack = "tgs"
   name = "[Preguntas de examen](preguntas-examen)"
   description = ""
   
 [[feature]]
-  icon = "[💡](consejos/)"
-  icon_pack = "emoji"
+  icon = "consejos"
+  icon_link = "consejos/"
+  icon_pack = "tgs"
   name = "[Consejos](consejos)"
   description = ""
 

@@ -15,14 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "⚡"
-  icon_pack = "emoji"
+  icon = "rayo"
+  icon_link = ""
+  icon_pack = "tgs"
   name = "Radioterapia (RT)"
   description = "`PRÓXIMAMENTE`"
   
 [[feature]]
-  icon = "🧪"  
-  icon_pack = "emoji"
+  icon = "MN"
+  icon_link = ""
+  icon_pack = "tgs"
   name = "Medicina Nuclear (MN)"
   description = "`PRÓXIMAMENTE`"
   

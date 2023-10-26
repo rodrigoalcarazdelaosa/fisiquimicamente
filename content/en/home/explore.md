@@ -15,38 +15,44 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "[📚](physics-chemistry-notes/)"  
-  icon_pack = "emoji"
+  icon = "apuntes"
+  icon_link = "physics-chemistry-notes/"
+  icon_pack = "tgs"
   name = "[Physics and Chemistry Notes](physics-chemistry-notes/)"
   description = "[📗 13--14 year-olds](physics-chemistry-notes/13-14-year-olds) · [📘 14--15 year-olds](physics-chemistry-notes/14-15-year-olds) · [📙 15--16 year-olds](physics-chemistry-notes/15-16-year-olds) · [📕 16--17 year-olds](physics-chemistry-notes/16-17-year-olds) · [📓 17--18 year-olds](physics-chemistry-notes/17-18-year-olds) <br> [📔 Nomenclature of Chemistry](physics-chemistry-notes/nomenclature-chemistry)"  
   
 [[feature]]
-  icon = "[🤝](tutorials/)"  
-  icon_pack = "emoji"
+  icon = "tutoriales"
+  icon_link = "tutorials/"
+  icon_pack = "tgs"
   name = "[Tutorials](tutorials/)"
   description = "[LaTeX](tutorials/latex) · [Presentation of Information](tutorials/presentation-information)"
   
 [[feature]]
-  icon = "[🔗](online-resources/)"
-  icon_pack = "emoji"
+  icon = "enlaces-interes"
+  icon_link = "online-resources/"
+  icon_pack = "lottie"
   name = "[Online Resources](online-resources/)"
   description = ""
   
 [[feature]]
-  icon = "[✍️](blog/)"
-  icon_pack = "emoji"
+  icon = "blog"
+  icon_link = "blog/"
+  icon_pack = "tgs"
   name = "[Blog](blog/)"
   description = ""
   
 [[feature]]
-  icon = "[👥](team/)"  
-  icon_pack = "emoji"
+  icon = "equipo"
+  icon_link = "team/"
+  icon_pack = "tgs"
   name = "[Meet the Team](team/)"
   description = ""
   
 [[feature]]
-  icon = "[📬](#contact)"
-  icon_pack = "emoji"
+  icon = "contacto-sticker"
+  icon_link = "#contact"
+  icon_pack = "tgs"
   name = "[Contact](#contact)"
   description = ""  
   

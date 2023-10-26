@@ -21,14 +21,16 @@ subtitle = ""
   description = "[🎸 Guitarra](interessos-formacio/#guitarra)"  
   
 [[feature]]
-  icon = "[👣](trayectoria-professional/)"  
-  icon_pack = "emoji"
+  icon = "pasos"
+  icon_link = "trayectoria-professional/"
+  icon_pack = "tgs"
   name = "[Trajectòria professional](trayectoria-professional)"
   description = ""
 
 [[feature]]
-  icon = "[✈️](estades-recerca/)"
-  icon_pack = "emoji"
+  icon = "avion"
+  icon_link = "estades-recerca/"
+  icon_pack = "tgs"
   name = "[Estades de recerca](estades-recerca)"
   description = ""
 
