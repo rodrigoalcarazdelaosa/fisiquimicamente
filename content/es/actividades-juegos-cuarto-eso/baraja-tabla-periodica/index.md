@@ -42,19 +42,19 @@ Esta baraja es fruto de una colaboración entre SM, Carmen Arribas (ETSIAE-UPM) 
 
 En las **72 cartas** se representan tanto los **elementos químicos** de la tabla periódica como **científicos** y **científicas** que han tenido un papel relevante en la química. Las cartas están **diferenciadas** por **colores**, de manera que tenemos **infinitas posibilidades** para jugar con ellas. En las [**instrucciones**](instrucciones.pdf) podemos encontrar **normas** para jugar a las siguientes **variantes**:
 
-### Uno químico {{< hl >}}Dificultad baja{{< /hl >}}
+### Uno químico <code style='color: #2E3440;background:#88C0D0'>Dificultad baja</code>
 
 El objetivo de cada jugador es deshacerse de todas las cartas antes que los demás o, en el caso de acabar la partida sin haberse deshecho de ellas, tener la mínima puntuación con las cartas que le queden.
 
-### Familias químicas {{< hl >}}Dificultad media{{< /hl >}}
+### Familias químicas <code style='color: #2E3440;background:#88C0D0'>Dificultad media</code>
 
 El objetivo del juego es reunir el máximo número de familias. Una vez reunidas, se retiran y se sigue jugando con las cartas que quedan. Gana la partida el jugador que reúne más familias.
 
-### Todas para mí {{< hl >}}Dificultad media{{< /hl >}}
+### Todas para mí <code style='color: #2E3440;background:#88C0D0'>Dificultad media</code>
 
 El objetivo del juego es obtener las cartas de los otros jugadores en cada jugada de la partida. Solo se usan las cartas de los elementos químicos; no se utilizan las de los personajes ni los comodines.
 
-### Chinchón químico {{< hl >}}Dificultad alta{{< /hl >}}
+### Chinchón químico <code style='color: #2E3440;background:#88C0D0'>Dificultad alta</code>
 
 El objetivo del juego es agrupar las cartas en tríos, cuartetos o chinchón y tener la menor puntuación posible. Los jugadores deben tener visible la lista de periodos que aparece en las instrucciones. El número máximo de jugadores para este juego es de 6. No se usan las cartas de metales de transición ni de tierras raras.
 
