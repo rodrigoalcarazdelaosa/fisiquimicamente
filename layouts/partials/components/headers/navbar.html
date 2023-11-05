@@ -87,15 +87,15 @@
     {{ if site.Menus.main }}
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
-          <tgs-player id="tgs-nav" autoplay loop mode="normal" style="width: 44px; height: 44px"></tgs-player>
+          <tgs-player id="tgs-nav-mobile" autoplay loop mode="normal" style="width: 44px; height: 44px"></tgs-player>
           <script>
             document.addEventListener('wcThemeChange', (e) => {
               // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
               if (e.detail.isDarkTheme()) {
-                const player = document.querySelector("#tgs-nav");
+                const player = document.getElementById("tgs-nav-mobile");
                 player.load("/media/lottie/home.tgs");
               } else {
-                const player = document.querySelector("#tgs-nav");
+                const player = document.getElementById("tgs-nav-mobile");
                 player.load("/media/lottie/home-dark.tgs");
               }
             });
