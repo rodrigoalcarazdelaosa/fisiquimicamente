@@ -11,7 +11,7 @@
 {{ $logo := "" }}
 {{ if $has_logo }}
   {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
-    {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
+    {{ $logo = (partial "wowchemy-core/functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
   {{ else if eq .Site.Language.Lang "en" }}
     {{ $logo = resources.Get "media/logo-en.svg" }}
   {{ end }}

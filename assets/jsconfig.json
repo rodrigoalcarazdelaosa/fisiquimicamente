@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5@v5.8.2-0.20231029093521-ed188eb822c9/assets/*"
+    "../../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-bootstrap/v5@v5.9.4-0.20231105163242-f9b227c335c7/assets/*"
    ]
   }
  }
