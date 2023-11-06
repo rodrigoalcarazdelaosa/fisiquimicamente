@@ -195,7 +195,9 @@ La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples**
 {{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclohexadieno.sdf" %}}
 {{< /spoiler >}}
 
-En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
+En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente, si se unen mediante un enlace sencillo, o en ***–ilideno*** e ***–ilidino***[^1] si se unen por un doble o triple enlace, respectivamente.
+
+[^1]: El sufijo ***–ilidino*** solo se utiliza en el caso de que el sustituyente esté unido a un **heteroátomo**, como por ejemplo P o Si.
 
 ### Aromáticos (arenos)
 El **benceno**, **C<sub>6</sub>H<sub>6</sub>**, es el hidrocarburo aromático de **referencia**.

@@ -250,7 +250,9 @@ La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples**
 
 ---
 
-En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente.
+En caso de ser **sustituyentes**, terminan en ***--enil(o)*** e ***--inil(o)***, respectivamente, si se unen mediante un enlace sencillo, o en ***–ilideno*** e ***–ilidino*** si se unen por un doble o triple enlace, respectivamente.
+
+> El sufijo ***–ilidino*** solo se utiliza en el caso de que el sustituyente esté unido a un **heteroátomo**, como por ejemplo P o Si.
 
 ---
 

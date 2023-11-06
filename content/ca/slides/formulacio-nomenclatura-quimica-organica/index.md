@@ -246,7 +246,9 @@ La presència d'**insaturacions** ---**enllaços dobles** (**C=C**) i **triples*
 
 ---
 
-En caso de ser **sustituyentes**, acaben en ***--enil(o)*** e ***--inil(o)***, respectivamente.
+En cas de ser **substituents**, acaben en ***--enil*** i ***--inil***, respectivament, si s'uneixen mitjançant un enllaç senzill, o en ***–ilidè*** i ***–ilidí*** si s'uneixen per un doble o un triple enllaç, respectivament.
+
+> El sufix ***–ilidí*** només s'utilitza en el cas que el substituent estigui unit a un **heteroàtom**, com ara P o Si.
 
 ---
 

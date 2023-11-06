@@ -164,7 +164,9 @@ La presència d'**insaturacions** ---**enllaços dobles** (**C=C**) i **triples*
 {{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclohexadieno.sdf" %}}
 {{< /spoiler >}}
 
-En cas de ser **substituents**, acaben en ***--enil*** i ***--inil***, respectivament.
+En cas de ser **substituents**, acaben en ***--enil*** i ***--inil***, respectivament, si s'uneixen mitjançant un enllaç senzill, o en ***–ilidè*** i ***–ilidí***[^1] si s'uneixen per un doble o un triple enllaç, respectivament.
+
+[^1]: El sufix ***–ilidí*** només s'utilitza en el cas que el substituent estigui unit a un **heteroàtom**, com ara P o Si.
 
 ### Aromàtics (arens)
 El **benzè**, **C<sub>6</sub>H<sub>6</sub>**, és l'hidrocarbur aromàtic de **referència**.
