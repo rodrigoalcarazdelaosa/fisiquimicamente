@@ -11,9 +11,9 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://sites.google.com/view/eldelafisicaylaquimica/
+external_link: https://miguelquiroga.es/
 
 image:
-  caption: https://sites.google.com/view/eldelafisicaylaquimica/
+  caption: https://miguelquiroga.es/
   focal_point: Smart
 ---

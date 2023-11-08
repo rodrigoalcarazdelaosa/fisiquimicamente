@@ -61,7 +61,7 @@ social:
   label: Sígueme en Instagram
 - icon: 🌐
   icon_pack: emoji
-  link: https://sites.google.com/view/eldelafisicaylaquimica
+  link: https://miguelquiroga.es
   label: Visita mi página web
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
