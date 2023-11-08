@@ -104,6 +104,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Las 88 constelaciones de la Unión Astronómica Internacional"
-      url: '/blog/2023/10/26/las-88-constelaciones-de-la-union-astronomica-internacional/'
+      text: "Cambio climático y aumento del nivel del mar"
+      url: '/blog/2023/11/09/cambio-climatico-y-aumento-del-nivel-del-mar/'
 ---
