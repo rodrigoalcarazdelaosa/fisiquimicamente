@@ -10,14 +10,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Wowchemy {{with site.Data.wowchemy.version}}{{.}}{{end}} for Hugo">
+  <meta name="generator" content="Hugo Blox Builder {{with site.Data.hugoblox.version}}{{.}}{{end}}">
 
   {{ with site.Home.OutputFormats.Get "WebAppManifest" }}
      <link rel="manifest" href="{{ .RelPermalink }}">
   {{ end }}
   
-  <link rel="icon" type="image/png" href="{{(partial "wowchemy-core/functions/get_icon" 32).RelPermalink}}">
-  <link rel="apple-touch-icon" type="image/png" href="{{(partial "wowchemy-core/functions/get_icon" 192).RelPermalink}}">
+  <link rel="icon" type="image/png" href="{{(partial "blox-core/functions/get_icon" 32).RelPermalink}}">
+  <link rel="apple-touch-icon" type="image/png" href="{{(partial "blox-core/functions/get_icon" 192).RelPermalink}}">
 
   <link rel="canonical" href="{{ .Permalink }}">
 

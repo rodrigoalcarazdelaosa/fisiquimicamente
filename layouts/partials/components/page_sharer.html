@@ -103,7 +103,7 @@
         {{ $pack_prefix = "fa" }}
       {{ end }}
       {{/* Utilise `urlquery` over `htmlEscape` to encode sharing URL */}}
-      {{/* See https://github.com/wowchemy/wowchemy-hugo-themes/pull/2726 */}}
+      {{/* See https://github.com/HugoBlox/hugo-blox-builder/pull/2726 */}}
       {{ $link := replace .url "{url}" ($.Permalink | urlquery) }}
       {{ $link = replace $link "{title}" ($.Title | urlquery) }}
       {{/* Workaround `urlquery` encoding for mailto as `urlquery` encodes `+` as `%2B` and ` ` (space) as `+` */}}

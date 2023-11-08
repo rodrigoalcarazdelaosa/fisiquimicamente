@@ -9,7 +9,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 breadcrumbs: [""]
 ---
 
-[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) està publicada amb [<img draggable="false" class="icon" alt="wowchemy" src="/icon/wowchemy.svg">](https://wowchemy.com/) per [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). En ser una [lloc web estàtic](https://es.wikipedia.org/wiki/Página_web_estática), no recull ni comparteix amb tercers cap dada personal. No obstant això, utilitza serveis externs per afegir diverses funcionalitats, les quals es detallen a la següent llista:[^1]:
+[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) està publicada amb [Hugo Blox](https://hugoblox.com) per [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). En ser una [lloc web estàtic](https://es.wikipedia.org/wiki/Página_web_estática), no recull ni comparteix amb tercers cap dada personal. No obstant això, utilitza serveis externs per afegir diverses funcionalitats, les quals es detallen a la següent llista:[^1]:
 
 [^1]: S'enllacen també les seves respectives polítiques de privacitat.
 

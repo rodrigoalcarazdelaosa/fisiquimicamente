@@ -232,7 +232,7 @@
 # Published with
 
 - id: published_with
-  translation: Publicado con {wowchemy} — el constructor de sitios web gratuito y {repo_link}de código abierto{/repo_link} para {hugo}.
+  translation: Publicado con {hugoblox} — el constructor de sitios web gratuito y {repo_link}de código abierto{/repo_link} para {hugo}.
 
 # Paypal
 - id: paypal

@@ -6,11 +6,11 @@
   {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
   {{ $hide_generator := site.Params.power_ups.hide_generator | default false }}
   {{ if not (and $is_sponsor $hide_generator) }}
-    <meta name="generator" content="Wowchemy {{ site.Data.wowchemy.version }} for Hugo" />
+    <meta name="generator" content="Hugo Blox Builder {{ site.Data.hugoblox.version }}" />
   {{ end }}
 
   {{/* EXTENSIBILITY HOOK: HEAD-START */}}
-  {{ partial "wowchemy-core/functions/get_hook" (dict "hook" "head-start" "context" .) }}
+  {{ partial "blox-core/functions/get_hook" (dict "hook" "head-start" "context" .) }}
 
   {{/* Parse theme and font */}}
   {{ partial "functions/parse_theme" . }}
@@ -27,7 +27,7 @@
       {{/* If `google_fonts` starts with "family=", use API v2 (https://developers.google.com/fonts/docs/css2) */}}      
       <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }} media="print" onload="this.media='all'">
     {{ else }}
-      {{ errorf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://wowchemy.com/docs/customization/#custom-font" }}
+      {{ errorf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://hugoblox.com/docs/customization/#custom-font" }}
     {{ end }}
   {{ end }}
 
@@ -135,9 +135,9 @@
   {{ end }}
 
   {{/* Load WC style */}}
-  {{ $license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
+  {{ $license := printf "/*! Hugo Blox Builder v%s | https://hugoblox.com/ */\n" site.Data.hugoblox.version }}
   {{ $license := $license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
-  {{ $license := $license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */\n" }}
+  {{ $license := $license | printf "%s/*! License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */\n" }}
   {{ $css_bundle_head := $license | resources.FromString "css/bundle-head.css" }}
   {{ $css_options := dict "targetPath" "css/wowchemy.css" }}
   {{- if hugo.IsProduction -}}
@@ -194,10 +194,10 @@
   {{ end }}
 
   {{/* Load SEO module */}}
-  {{ partial "wowchemy_seo" . }}
+  {{ partial "blox_seo" . }}
 
   {{/* Netlify Identity integration. */}}
-  {{ $use_cms := templates.Exists "wowchemycms/single.wowchemycms_config.yml" | default (site.Params.extensions.cms.enable | default false) }}
+  {{ $use_cms := templates.Exists "decap_cms/single.decap_cms_config.yml" | default (site.Params.extensions.decap_cms.enable | default false) }}
   {{ if .IsHome | and $use_cms }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
@@ -209,7 +209,7 @@
 
   {{ partial "cookie_consent" . }}
 
-  {{ $title := partial "wowchemy-core/functions/get_page_title" . }}
+  {{ $title := partial "blox-core/functions/get_page_title" . }}
   <title>{{$title}}</title>
 
   {{/* EXTENSIBILITY HOOK: HEAD-END */}}
@@ -217,5 +217,5 @@
   {{ if templates.Exists "partials/custom_head.html" }}
     {{ partial "custom_head" . }}
   {{ end }}
-  {{ partial "wowchemy-core/functions/get_hook" (dict "hook" "head-end" "context" .) }}
+  {{ partial "blox-core/functions/get_hook" (dict "hook" "head-end" "context" .) }}
 </head>

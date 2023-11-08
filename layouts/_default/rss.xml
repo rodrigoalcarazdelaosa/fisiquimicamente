@@ -15,7 +15,7 @@
       {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end -}}
     <description>{{ .Title | default site.Title }}</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator>
     {{- with site.LanguageCode }}<language>{{.}}</language>{{end -}}
     {{- with site.Copyright }}<copyright>{{ replace (replace . "{year}" now.Year) "&copy;" "©" | plainify }}</copyright>{{end -}}
     {{- if not .Lastmod.IsZero }}<lastBuildDate>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end -}}

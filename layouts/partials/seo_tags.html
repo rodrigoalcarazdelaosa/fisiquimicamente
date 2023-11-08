@@ -16,7 +16,7 @@
   {{ $superuser_role = .Params.role }}
 {{ end }}
 
-{{/* Set superuser globally for `wowchemy` module's `page_author.html`. */}}
+{{/* Set superuser globally for `blox-tailwind/blox-bootstrap` module's `page_author.html`. */}}
 {{ $scr.Set "superuser_username" $superuser_username }}
 
 {{ with $superuser_name }}
@@ -52,8 +52,8 @@
 
 {{/* Progressive Web App (PWA) Icon */}}
 {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
-  <link rel="icon" type="image/png" href="{{ (partial "wowchemy-core/functions/get_icon" 32).RelPermalink }}" />
-  <link rel="apple-touch-icon" type="image/png" href="{{ (partial "wowchemy-core/functions/get_icon" 180).RelPermalink }}" />
+  <link rel="icon" type="image/png" href="{{ (partial "blox-core/functions/get_icon" 32).RelPermalink }}" />
+  <link rel="apple-touch-icon" type="image/png" href="{{ (partial "blox-core/functions/get_icon" 180).RelPermalink }}" />
 {{ else if eq .Site.Language.Lang "en" }}
     {{ $icon_tmp := resources.GetMatch "media/icon-en.png" }}
     {{ $icon := $icon_tmp.Fill "32x32" }}
@@ -69,7 +69,7 @@
 {{ $sharing_image_en := resources.GetMatch (path.Join "media" "sharing-en.*") }}
 {{ $sharing_image_ca := resources.GetMatch (path.Join "media" "sharing-ca.*") }}
 {{/* Search for an image "*featured*" in post folder */}}
-{{ $featured_image := partial "wowchemy-core/functions/get_featured_image.html" . }}
+{{ $featured_image := partial "blox-core/functions/get_featured_image.html" . }}
 {{ $avatar_image := (.Resources.ByType "image").GetMatch "avatar*" }}
 {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
 {{ $og_image := "" }}
@@ -89,15 +89,15 @@
         {{ $og_image = $sharing_image_ca.Permalink }}        
     {{ end }}
 {{ else if $has_logo }}
-  {{ $og_image = (partial "wowchemy-core/functions/get_logo" (dict "constraint" "fit" "size" 300)).Permalink }}
+  {{ $og_image = (partial "blox-core/functions/get_logo" (dict "constraint" "fit" "size" 300)).Permalink }}
   {{ $twitter_card = "summary" }}
 {{ else }}
-  {{ $og_image = (partial "wowchemy-core/functions/get_icon" 512).Permalink }}
+  {{ $og_image = (partial "blox-core/functions/get_icon" 512).Permalink }}
   {{ $twitter_card = "summary" }}
 {{ end }}
 {{ $scr.Set "og_image" $og_image }}{{/* Set `og_image` globally for `rss.xml`. */}}
 
-{{ $title := partial "wowchemy-core/functions/get_page_title" . }}
+{{ $title := partial "blox-core/functions/get_page_title" . }}
 
 {{/* Twitter metadata. */}}
 <meta property="twitter:card" content="{{ $twitter_card }}" />

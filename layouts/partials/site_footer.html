@@ -28,7 +28,7 @@
 
 <footer class="site-footer">
 
-  {{ partial "wowchemy-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+  {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
 
   {{/* Load footer block */}}
   {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
@@ -42,13 +42,13 @@
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
     {{ if not (and $is_sponsor $hide_published_with_footer) }}
-      {{ $default := "Published with {wowchemy} — the free, {repo_link}open source{/repo_link} website builder that empowers creators." }}
+      {{ $default := "Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators." }}
       {{ $i18n_published_with := i18n "published_with" | default $default }}
-      {{ if not (findRE "{wowchemy}" $i18n_published_with) }}
-        {{ warnf "Please attribute Wowchemy using `{wowchemy}` in the `published_with` text." }}
+      {{ if not (findRE "{hugoblox}" $i18n_published_with) }}
+        {{ warnf "Please attribute Wowchemy using `{hugoblox}` in the `published_with` text." }}
         {{ $i18n_published_with = $default }}
       {{ end }}
-      {{ $i18n_published_with = replace $i18n_published_with "{wowchemy}" "<a href=\"https://wowchemy.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\">Wowchemy</a>" | safeHTML }}
+      {{ $i18n_published_with = replace $i18n_published_with "{hugoblox}" "<a href=\"https://wowchemy.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\">Wowchemy</a>" | safeHTML }}
       {{ $i18n_published_with = replace $i18n_published_with "{repo_link}" "<a href=\"https://github.com/wowchemy/wowchemy-hugo-themes\" target=\"_blank\" rel=\"noopener\">" | safeHTML }}
       {{ $i18n_published_with = replace $i18n_published_with "{/repo_link}" "</a>" | safeHTML }}
       {{ $i18n_published_with | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
