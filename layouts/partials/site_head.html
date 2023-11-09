@@ -27,7 +27,7 @@
       {{/* If `google_fonts` starts with "family=", use API v2 (https://developers.google.com/fonts/docs/css2) */}}      
       <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }} media="print" onload="this.media='all'">
     {{ else }}
-      {{ errorf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://hugoblox.com/docs/customization/#custom-font" }}
+      {{ errorf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://docs.hugoblox.com/customization/#custom-font" }}
     {{ end }}
   {{ end }}
 
