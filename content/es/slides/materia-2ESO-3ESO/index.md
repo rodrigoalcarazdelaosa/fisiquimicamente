@@ -233,7 +233,7 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 - [Postulados](#/5/1)
 - [Explicación de los estados de agregación](#/5/2)
-- [Simulación](#/5/6)
+- [Simulación](#/5/7)
 
 (continúa hacia abajo)
 
@@ -273,11 +273,23 @@ Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan
 
 ---
 
+##### Simulación de aire
+
+{{< youtube j9JvX58aRfg >}}
+
+---
+
 ### Simulación
 
 ---
 
 <iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+---
+
+#### Simulación de la congelación del agua en hielo
+
+{{< youtube pYClU2f85H4 >}}
 
 {{% /section %}}
 

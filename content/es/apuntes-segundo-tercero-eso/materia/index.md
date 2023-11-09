@@ -245,10 +245,18 @@ También puedes ver esta excelente **práctica virtual** del [Departamento de F�
 
 {{< figure library="true" src="materia-2ESO-3ESO/gas.png" title="En un **gas** las partículas **apenas interactúan** entre sí y éstas se **mueven aleatoriamente** en todas las direcciones." lightbox="true" >}}
 
+Mira esta **simulación** de **aire** por el Dr. Michael Kuiper, jefe de equipo del grupo de Modelización Molecular y de Materiales del [proyecto Data61 de la CSIRO](https://research.csiro.au/data61/):
+
+{{< youtube j9JvX58aRfg >}}
+
 ### Simulación
 Puedes conocer mejor las **propiedades** de los **estados de agregación** con la siguiente **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+o ver esta **simulación** de la **congelación** del **agua** en **hielo** por el Dr. Michael Kuiper, jefe de equipo del grupo de Modelización Molecular y de Materiales del [proyecto Data61 de la CSIRO](https://research.csiro.au/data61/):
+
+{{< youtube pYClU2f85H4 >}}
 
 ## Mezclas
 Al mezclarse dos o más sustancias distintas, no se obtiene una nueva sustancia, ya que las sustancias que forman la mezcla **conservan** sus **propiedades** y **pueden separarse** mediante procedimientos físico-químicos.
