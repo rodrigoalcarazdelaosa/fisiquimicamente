@@ -17,7 +17,11 @@
         {{ if eq $sec "apun" }}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>📚 {{ .Title }}</a>
         {{ else if eq $sec "acti" }}
-        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🧩 {{ .Title }}</a>                
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🗒️ {{ .Title }}</a>
+        {{ else if eq $sec "jueg" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🧩 {{ .Title }}</a>
+        {{ else if eq $sec "prac" }}
+        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🧪 {{ .Title }}</a>        
         {{ else if eq $sec "EBAU" }}
         <a href="{{$link}}" {{ $target | safeHTMLAttr }}>🎓 {{ .Title }}</a>
         {{ else if eq $sec "opos" }}

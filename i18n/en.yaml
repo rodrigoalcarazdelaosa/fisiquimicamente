@@ -241,23 +241,59 @@
 - id: apuntes-formulacion
   translation: 📚 Notes Nomenclature Chemistry  
 
-- id: actividades-juegos-segundo-tercero-eso
-  translation: 🧩 Activities/games 13&ndash;15 year-olds
+- id: actividades-segundo-tercero-eso
+  translation: 🗒️ Activities 13&ndash;15 year-olds
 
-- id: actividades-juegos-cuarto-eso
-  translation: 🧩 Activities/games 15&ndash;16 year-olds
+- id: actividades-cuarto-eso
+  translation: 🗒️ Activities 15&ndash;16 year-olds
 
-- id: actividades-juegos-primero-bach
-  translation: 🧩 Activities/games 16&ndash;17 year-olds 
+- id: actividades-primero-bach
+  translation: 🗒️ Activities 16&ndash;17 year-olds 
   
-- id: actividades-juegos-segundo-bach-fisica
-  translation: 🧩 Activities/games 17&ndash;18 year-olds Physics
+- id: actividades-segundo-bach-fisica
+  translation: 🗒️ Activities 17&ndash;18 year-olds Physics
   
-- id: actividades-juegos-segundo-bach-quimica
-  translation: 🧩 Activities/games 17&ndash;18 year-olds Chemistry
+- id: actividades-segundo-bach-quimica
+  translation: 🗒️ Activities 17&ndash;18 year-olds Chemistry
   
-- id: actividades-juegos-formulacion
-  translation: 🧩 Activities/games Nomenclature Chemistry
+- id: actividades-formulacion
+  translation: 🗒️ Activities Nomenclature Chemistry  
+
+- id: juegos-segundo-tercero-eso
+  translation: 🧩 Games 13&ndash;15 year-olds
+
+- id: juegos-cuarto-eso
+  translation: 🧩 Games 15&ndash;16 year-olds
+
+- id: juegos-primero-bach
+  translation: 🧩 Games 16&ndash;17 year-olds 
+  
+- id: juegos-segundo-bach-fisica
+  translation: 🧩 Games 17&ndash;18 year-olds Physics
+  
+- id: juegos-segundo-bach-quimica
+  translation: 🧩 Games 17&ndash;18 year-olds Chemistry
+  
+- id: juegos-formulacion
+  translation: 🧩 Games Nomenclature Chemistry
+
+- id: practicas-segundo-tercero-eso
+  translation: 🧪 Practices 13&ndash;15 year-olds
+
+- id: practicas-cuarto-eso
+  translation: 🧪 Practices 15&ndash;16 year-olds
+
+- id: practicas-primero-bach
+  translation: 🧪 Practices 16&ndash;17 year-olds 
+  
+- id: practicas-segundo-bach-fisica
+  translation: 🧪 Practices 17&ndash;18 year-olds Physics
+  
+- id: practicas-segundo-bach-quimica
+  translation: 🧪 Practices 17&ndash;18 year-olds Chemistry
+  
+- id: practicas-formulacion
+  translation: 🧪 Practices Nomenclature Chemistry  
 
 - id: slides
   translation: 🧑‍🏫 Slides

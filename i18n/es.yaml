@@ -179,18 +179,42 @@
   translation: 📚 Apuntes 2.º Bach Química
 - id: apuntes-formulacion
   translation: 📚 Apuntes Formulación Nomenclatura Química 
-- id: actividades-juegos-segundo-tercero-eso
-  translation: 🧩 Actividades/juegos 2.º ESO &ndash; 3.º ESO
-- id: actividades-juegos-cuarto-eso
-  translation: 🧩 Actividades/juegos 4.º ESO
-- id: actividades-juegos-primero-bach
-  translation: 🧩 Actividades/juegos 1.º Bach
-- id: actividades-juegos-segundo-bach-fisica
-  translation: 🧩 Actividades/juegos 2.º Bach Física
-- id: actividades-juegos-segundo-bach-quimica
-  translation: 🧩 Actividades/juegos 2.º Bach Química
-- id: actividades-juegos-formulacion
-  translation: 🧩 Actividades/juegos Formulación Nomenclatura Química 
+- id: actividades-segundo-tercero-eso
+  translation: 🗒️ Actividades 2.º ESO &ndash; 3.º ESO
+- id: actividades-cuarto-eso
+  translation: 🗒️ Actividades 4.º ESO
+- id: actividades-primero-bach
+  translation: 🗒️ Actividades 1.º Bach
+- id: actividades-segundo-bach-fisica
+  translation: 🗒️ Actividades 2.º Bach Física
+- id: actividades-segundo-bach-quimica
+  translation: 🗒️ Actividades 2.º Bach Química
+- id: actividades-formulacion
+  translation: 🗒️ Actividades Formulación Nomenclatura Química   
+- id: juegos-segundo-tercero-eso
+  translation: 🧩 Juegos 2.º ESO &ndash; 3.º ESO
+- id: juegos-cuarto-eso
+  translation: 🧩 Juegos 4.º ESO
+- id: juegos-primero-bach
+  translation: 🧩 Juegos 1.º Bach
+- id: juegos-segundo-bach-fisica
+  translation: 🧩 Juegos 2.º Bach Física
+- id: juegos-segundo-bach-quimica
+  translation: 🧩 Juegos 2.º Bach Química
+- id: juegos-formulacion
+  translation: 🧩 Juegos Formulación Nomenclatura Química 
+- id: practicas-segundo-tercero-eso
+  translation: 🧪 Prácticas 2.º ESO &ndash; 3.º ESO
+- id: practicas-cuarto-eso
+  translation: 🧪 Prácticas 4.º ESO
+- id: practicas-primero-bach
+  translation: 🧪 Prácticas 1.º Bach
+- id: practicas-segundo-bach-fisica
+  translation: 🧪 Prácticas 2.º Bach Física
+- id: practicas-segundo-bach-quimica
+  translation: 🧪 Prácticas 2.º Bach Química
+- id: practicas-formulacion
+  translation: 🧪 Prácticas Formulación Nomenclatura Química   
 - id: slides
   translation: 🧑‍🏫 Diapositivas
 - id: authors
