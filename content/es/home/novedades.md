@@ -55,6 +55,19 @@ content:
       text: 🐍🪜 Serpientes y escaleras | 2.º ESO
       url: 'recursos-fisica-quimica/juegos/2eso/serpientes-y-escaleras/'      
   - title: 🗞️ Novedades
+    content: '🧪 Última práctica de laboratorio'
+    align: center
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultima-practica.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: Disoluciones | 1.º Bach
+      url: 'recursos-fisica-quimica/practicas-laboratorio/1bach/disoluciones/'
+  - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
     background:
