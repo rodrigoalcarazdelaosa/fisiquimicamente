@@ -1,7 +1,11 @@
 - query: Pósters resumen tipo 🥩
   link: /recursos-fisica-quimica/apuntes
-- query: 🧩 Actividades/juegos
-  link: /recursos-fisica-quimica/actividades-juegos
+- query: 🗒️ Actividades
+  link: /recursos-fisica-quimica/actividades
+- query: 🧩 Juegos
+  link: /recursos-fisica-quimica/juegos
+- query: 🧪 Prácticas de laboratorio
+  link: /recursos-fisica-quimica/practicas-laboratorio
 - query: 📖 Historia de la Ciencia
   link: /recursos-fisica-quimica/historia-ciencia  
 - query: 🎓 Recursos EBAU
