@@ -155,7 +155,7 @@ Una **magnitud** es toda propiedad que se puede **medir**.
 
 ### Notación científica
 
-> **Practica** la [**notación científica**](https://es.wikipedia.org/wiki/Notación_científica) con [esta genial **ficha de actividades**]({{< ref "/actividades-juegos-segundo-tercero-eso/notacion-cientifica" >}}) de la mano de [**Ivanquifis**](https://twitter.com/ivanquifis).
+> **Practica** la [**notación científica**](https://es.wikipedia.org/wiki/Notación_científica) con [esta genial **ficha de actividades**]({{< ref "/actividades-segundo-tercero-eso/notacion-cientifica" >}}) de la mano de [**Ivanquifis**](https://twitter.com/ivanquifis).
 
 ---
 

@@ -34,7 +34,7 @@ math: true
 {{% toc %}}
 
 {{% callout note %}}
-Enfréntate al **desafío** de generar un **recurso audiovisual** sobre **reacciones químicas** con **vídeos** de **experimentos** de laboratorio grabados y editados por ti mismo con [esta genial **actividad**]({{< relref "/actividades-juegos-segundo-tercero-eso/magia-reacciones-quimicas" >}}).
+Enfréntate al **desafío** de generar un **recurso audiovisual** sobre **reacciones químicas** con **vídeos** de **experimentos** de laboratorio grabados y editados por ti mismo con [esta genial **actividad**]({{< relref "/actividades-segundo-tercero-eso/magia-reacciones-quimicas" >}}).
 {{% /callout %}}
 
 ## Cambios físicos y cambios químicos

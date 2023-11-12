@@ -39,7 +39,7 @@ links:
   url: acido-base-tablas.pdf
 - icon_pack: fas
   icon:
-  name: 🥼 Prácticas de laboratorio
+  name: 🧪 Prácticas de laboratorio
   url: acido-base-practicas.pdf
 - icon_pack: fas
   icon:

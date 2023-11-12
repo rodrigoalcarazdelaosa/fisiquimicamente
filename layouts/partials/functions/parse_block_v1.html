@@ -207,7 +207,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">📚 Apuntes</li>
 	    </ol>
 	    </nav>
-	{{ else if and (eq $block_type "features") (eq $block.Title  "🧩 Actividades y juegos de Física y Química") }}
+	{{ else if and (eq $block_type "features") (eq $block.Title  "🗒️ Actividades de Física y Química") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -221,9 +221,43 @@
 			  });
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
-	        <li class="breadcrumb-item active" aria-current="page">🧩 Actividades/juegos</li>
+	        <li class="breadcrumb-item active" aria-current="page">🗒️ Actividades</li>
 	    </ol>
 	    </nav>	
+		{{ else if and (eq $block_type "features") (eq $block.Title  "🧩 Juegos de Física y Química") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">🧩 Juegos</li>
+	    </ol>
+	    </nav>	
+		{{ else if and (eq $block_type "features") (eq $block.Title  "🧪 Prácticas de laboratorio de Física y Química") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">🧪 Prácticas de laboratorio</li>
+	    </ol>
+	    </nav>					
     {{ else if and (eq $block_type "features") (eq $block.Title  "📚 Physics and Chemistry Notes") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
@@ -328,7 +362,7 @@
 			{{ end }}
 	    </ol>
 		</nav>	
-	{{ else if and (eq $block_type "portfolio") (eq $block.Title  "🧩 Actividades/juegos") }}
+	{{ else if and (eq $block_type "portfolio") (eq $block.Title  "🗒️ Actividades") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">			
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -342,19 +376,73 @@
 			  });
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
-	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades-juegos/">🧩 Actividades/juegos</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
 			
 			{{ if eq $block.Params.subtitle "📓 2.º Bach 🧲 Física" }}
-				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades-juegos/2bach/">📓 2.º Bach</a></li>		
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach/">📓 2.º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
 			{{ else if eq $block.Params.subtitle "📓 2.º Bach ⚗️ Química" }}
-				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades-juegos/2bach/">📓 2.º Bach</a></li>		
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach/">📓 2.º Bach</a></li>		
 				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>											
 			{{ else }}
 				<li class="breadcrumb-item active" aria-current="page">{{ $block.Params.subtitle | markdownify | emojify }}</li>
 			{{ end }}
 	    </ol>
 		</nav>
+		{{ else if and (eq $block_type "portfolio") (eq $block.Title  "🧩 Juegos") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
+			
+			{{ if eq $block.Params.subtitle "📓 2.º Bach 🧲 Física" }}
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2bach/">📓 2.º Bach</a></li>		
+				<li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
+			{{ else if eq $block.Params.subtitle "📓 2.º Bach ⚗️ Química" }}
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2bach/">📓 2.º Bach</a></li>		
+				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>											
+			{{ else }}
+				<li class="breadcrumb-item active" aria-current="page">{{ $block.Params.subtitle | markdownify | emojify }}</li>
+			{{ end }}
+	    </ol>
+		</nav>	
+		{{ else if and (eq $block_type "portfolio") (eq $block.Title  "🧪 Prácticas de laboratorio") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">			
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
+			
+			{{ if eq $block.Params.subtitle "📓 2.º Bach 🧲 Física" }}
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/">📓 2.º Bach</a></li>		
+				<li class="breadcrumb-item active" aria-current="page">🧲 Física</li>
+			{{ else if eq $block.Params.subtitle "📓 2.º Bach ⚗️ Química" }}
+				<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/">📓 2.º Bach</a></li>		
+				<li class="breadcrumb-item active" aria-current="page">⚗️ Química</li>											
+			{{ else }}
+				<li class="breadcrumb-item active" aria-current="page">{{ $block.Params.subtitle | markdownify | emojify }}</li>
+			{{ end }}
+	    </ol>
+		</nav>				
 	{{ else if and (eq $block_type "portfolio") (eq $block.Title  "📖 Historia de la Ciencia") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">			
@@ -390,7 +478,7 @@
 	        <li class="breadcrumb-item active" aria-current="page">{{ $block.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>
-	{{ else if and (eq $block_type "features") (eq $block.Title  "🧩 Actividades/juegos") }}
+	{{ else if and (eq $block_type "features") (eq $block.Title  "🗒️ Actividades") }}
 		<nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget"> 
 	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
@@ -404,10 +492,46 @@
 			  });
 		</script></a></li>			
 	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
-			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades-juegos/">🧩 Actividades/juegos</a></li>			
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>			
 	        <li class="breadcrumb-item active" aria-current="page">{{ $block.Params.subtitle | markdownify | emojify }}</li>
 	    </ol>
 		</nav>		
+		{{ else if and (eq $block_type "features") (eq $block.Title  "🧩 Juegos") }}
+		<nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget"> 
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">{{ $block.Params.subtitle | markdownify | emojify }}</li>
+	    </ol>
+		</nav>	
+		{{ else if and (eq $block_type "features") (eq $block.Title  "🧪 Prácticas de laboratorio") }}
+		<nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget"> 
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>			
+	        <li class="breadcrumb-item active" aria-current="page">{{ $block.Params.subtitle | markdownify | emojify }}</li>
+	    </ol>
+		</nav>						
 	{{ else if and (eq $block_type "features") (eq $block.Title  "📚 Notes") }}
 		<nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget"> 

@@ -51,7 +51,7 @@ math: true
 {{% toc %}}
 
 {{% callout note %}}
-**Aplica** y **relaciona** los **conceptos** estudiados en este tema a una **situación cotidiana** como puede ser el **desplazamiento** en un **vehículo**, con [esta genial **actividad**]({{< relref "/actividades-juegos-cuarto-eso/distancia-seguridad" >}}).
+**Aplica** y **relaciona** los **conceptos** estudiados en este tema a una **situación cotidiana** como puede ser el **desplazamiento** en un **vehículo**, con [esta genial **actividad**]({{< relref "/actividades-cuarto-eso/distancia-seguridad" >}}).
 {{% /callout %}}
 
 ## Movimiento rectilíneo uniforme (MRU)

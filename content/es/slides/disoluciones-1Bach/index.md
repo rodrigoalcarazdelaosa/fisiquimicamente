@@ -99,7 +99,7 @@ Es una magnitud adimensional (mol/mol).
 
 ---
 
-> Remata el trabajo sobre **concentración** de **disoluciones** y, de paso, sé **crítico/a** con las **pseudociencias** con [esta genial **actividad** sobre **homeopatía**]({{< relref "/actividades-juegos-primero-bach/homeopatia" >}}).
+> Remata el trabajo sobre **concentración** de **disoluciones** y, de paso, sé **crítico/a** con las **pseudociencias** con [esta genial **actividad** sobre **homeopatía**]({{< relref "/actividades-primero-bach/homeopatia" >}}).
 
 {{% /section %}}
 

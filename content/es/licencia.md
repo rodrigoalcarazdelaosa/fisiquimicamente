@@ -17,7 +17,7 @@ Los [📝 <span style="font-variant:small-caps;">**frikiexámenes**</span>]({{< 
 
 {{< figure src="/icon/by-nc-nd.eu.svg" lightbox="false" width="50%" >}}
 
-Las [🧩 <span style="font-variant:small-caps;">**actividades/juegos**</span>]({{< ref "/actividades-juegos" >}}) son cortesía de **{{% mention "miguel-quiroga" %}}** y de **{{% mention "pablo-ortega-rodriguez" %}}** y los [🎓 <span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) son cortesía de **{{% mention "enrique-ortega-gonzalez" %}}**, del [IES José del Campo](http://www.josedelcampo.com) de Ampuero (Cantabria).
+Las [🗒️ <span style="font-variant:small-caps;">**actividades**</span>]({{< ref "/actividades" >}}) y las [🧪 <span style="font-variant:small-caps;">**prácticas de laboratorio**</span>]({{< ref "/practicas-laboratorio" >}}) son cortesía de **{{% mention "miguel-quiroga" %}}**, los [🧩 <span style="font-variant:small-caps;">**juegos**</span>]({{< ref "/juegos" >}}) son cortesía de **{{% mention "pablo-ortega-rodriguez" %}}** y los [🎓 <span style="font-variant:small-caps;">**recursos EBAU**</span>]({{< ref "/ebau" >}}) son cortesía de **{{% mention "enrique-ortega-gonzalez" %}}**, del [IES José del Campo](http://www.josedelcampo.com) de Ampuero (Cantabria).
 
 Con stickers y emojis animados de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.
 

@@ -35,7 +35,7 @@ Si us agraden les il·lustracions, us **recomanem** encaridament el vostre [**se
 
 A [aquest **enllaç**](https://medium.com/sci-illustrate-stories/iwis/home) (en anglès) també pots fer una ullada a més **il·lustracions** i **històries** de **dones científiques índies**.
 
-Fins i tot pots **jugar** al joc de **cartes** [***Mujeres en ciencia***](https://fisiquimicamente.com/recursos-fisica-quimica/actividades-juegos/2eso-3eso/mujeres-en-ciencia/) (en espanyol).
+Fins i tot pots **jugar** al joc de **cartes** [***Mujeres en ciencia***](https://fisiquimicamente.com/recursos-fisica-quimica/juegos/2eso-3eso/mujeres-en-ciencia/) (en espanyol).
 
 {{% /callout %}}
 

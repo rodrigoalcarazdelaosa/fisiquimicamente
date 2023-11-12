@@ -55,7 +55,7 @@ math: true
 ## Tabla periódica y configuración electrónica
 
 {{% callout game %}}
-**Aprende química** mientras juegas con [esta genial **baraja** de la **tabla** **periódica**]({{< relref "/actividades-juegos-cuarto-eso/baraja-tabla-periodica" >}}).
+**Aprende química** mientras juegas con [esta genial **baraja** de la **tabla** **periódica**]({{< relref "/juegos-cuarto-eso/baraja-tabla-periodica" >}}).
 {{% /callout %}}
 
 La **tabla periódica** de los **elementos** organiza los **118 elementos** conocidos en **7 periodos** (filas) y **18 grupos** (columnas), **ordenados** por su **número atómico $Z$**.

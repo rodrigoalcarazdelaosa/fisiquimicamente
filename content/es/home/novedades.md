@@ -29,7 +29,7 @@ content:
       text: Química orgánica | 2.º Bach
       url: 'recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica/'
   - title: 🗞️ Novedades
-    content: '🧩 Última actividad/juego'
+    content: '🗒️ Última actividad'
     align: center
     background:
       position: center
@@ -40,7 +40,20 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: Notación científica | 2.º ESO · 3.º ESO
-      url: 'recursos-fisica-quimica/actividades-juegos/2eso-3eso/notacion-cientifica/'
+      url: 'recursos-fisica-quimica/actividades/2eso-3eso/notacion-cientifica/'
+  - title: 🗞️ Novedades
+    content: '🧩 Último juego'
+    align: center
+    background:
+      position: center
+      #color: '#333'
+      #brightness: 0.5
+      media: novedades/ultimo-juego.jpg
+    link:
+      #icon: graduation-cap
+      #icon_pack: fas
+      text: 🐍🪜 Serpientes y escaleras | 2.º ESO
+      url: 'recursos-fisica-quimica/juegos/2eso/serpientes-y-escaleras/'      
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

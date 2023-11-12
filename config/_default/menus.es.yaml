@@ -12,26 +12,34 @@ main:
     url: recursos-fisica-quimica/apuntes
     parent: recursos-fyq
     weight: 1
-  - name: 🧩 Actividades/juegos
-    url: recursos-fisica-quimica/actividades-juegos
+  - name: 🗒️ Actividades
+    url: recursos-fisica-quimica/actividades
     parent: recursos-fyq
     weight: 2
+  - name: 🧩 Juegos
+    url: recursos-fisica-quimica/juegos
+    parent: recursos-fyq
+    weight: 3
+  - name: 🧪 Prácticas de laboratorio
+    url: recursos-fisica-quimica/practicas-laboratorio
+    parent: recursos-fyq
+    weight: 4
   - name: 📖 Historia de la Ciencia
     url: recursos-fisica-quimica/historia-ciencia
     parent: recursos-fyq
-    weight: 3
+    weight: 5
   - name: 🎓 EBAU
     url: recursos-fisica-quimica/ebau
     parent: recursos-fyq
-    weight: 4
+    weight: 6
   - name: 🧑‍🏫 Formación del profesorado
     url: recursos-fisica-quimica/formacion-profesorado
     parent: recursos-fyq
-    weight: 5
+    weight: 7
   - name: ☢️ Radiofísica
     url: recursos-fisica-quimica/radiofisica
     parent: recursos-fyq
-    weight: 6
+    weight: 8
   - name: 🤝 Tutoriales
     url: tutoriales/  
     identifier: tutoriales

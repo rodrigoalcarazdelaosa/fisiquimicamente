@@ -224,7 +224,7 @@ Son materiales **sólidos** cuyos **constituyentes** (**átomos**, **moléculas*
 
 ---
 
-> Si quieres **aprender** cuáles son las **características** y principales **aplicaciones** de algunos de los **compuestos orgánicos e inorgánicos** más habituales, te recomendamos [esta estupenda adaptación del **quién es quién**]({{< relref "/actividades-juegos-segundo-tercero-eso/quien-es-quien" >}}).
+> Si quieres **aprender** cuáles son las **características** y principales **aplicaciones** de algunos de los **compuestos orgánicos e inorgánicos** más habituales, te recomendamos [esta estupenda adaptación del **quién es quién**]({{< relref "/juegos-segundo-tercero-eso/quien-es-quien" >}}).
 
 ---
 

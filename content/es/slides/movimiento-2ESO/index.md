@@ -31,7 +31,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ---
 
-> **Trabaja** los **contenidos** de este **tema** viviendo una auténtica **aventura** de **piratas** con [esta genial **actividad**]({{< relref "/actividades-juegos-segundo-tercero-eso/burla-mares" >}}). También te recomendamos esta magnífica [**Escape Room Digital Educativa**](https://fpdual2017.wixsite.com/el-viaje).
+> **Trabaja** los **contenidos** de este **tema** viviendo una auténtica **aventura** de **piratas** con [esta genial **actividad**]({{< relref "/actividades-segundo-tercero-eso/burla-mares" >}}). También te recomendamos esta magnífica [**Escape Room Digital Educativa**](https://fpdual2017.wixsite.com/el-viaje).
 
 ---
 

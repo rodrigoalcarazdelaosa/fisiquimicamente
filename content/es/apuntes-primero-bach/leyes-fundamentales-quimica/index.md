@@ -47,7 +47,7 @@ math: true
 {{% toc %}}
 
 {{% callout note %}}
-**Trabaja** los **contenidos** de este **tema** convirtiéndote en **médico forense** y averiguando qué pasó en el **vuelo 1023** con [esta genial **actividad cooperativa**]({{< relref "/actividades-juegos-primero-bach/extrano-caso-vuelo-1023-mole-airlines" >}}).
+**Trabaja** los **contenidos** de este **tema** convirtiéndote en **médico forense** y averiguando qué pasó en el **vuelo 1023** con [esta genial **actividad cooperativa**]({{< relref "/actividades-primero-bach/extrano-caso-vuelo-1023-mole-airlines" >}}).
 {{% /callout %}}
 
 ## Ley de conservación de la masa

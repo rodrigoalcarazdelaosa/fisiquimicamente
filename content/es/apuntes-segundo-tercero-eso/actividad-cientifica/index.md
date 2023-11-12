@@ -156,7 +156,7 @@ La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
 ### Notación científica
 
 {{% callout note %}}
-**Practica** la [**notación científica**](https://es.wikipedia.org/wiki/Notación_científica) con [esta genial **ficha de actividades**]({{< ref "/actividades-juegos-segundo-tercero-eso/notacion-cientifica" >}}) de la mano de [**Ivanquifis**](https://twitter.com/ivanquifis).
+**Practica** la [**notación científica**](https://es.wikipedia.org/wiki/Notación_científica) con [esta genial **ficha de actividades**]({{< ref "/actividades-segundo-tercero-eso/notacion-cientifica" >}}) de la mano de [**Ivanquifis**](https://twitter.com/ivanquifis).
 {{% /callout %}}
 
 Consiste en escribir un número de la forma:
@@ -212,7 +212,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 ### Instrumental
 
 {{% callout game %}}
-Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta genial **adaptación** del juego de cartas **Dobble**]({{< relref "/actividades-juegos-segundo-tercero-eso/dobble-instrumentos-laboratorio" >}}) o el juego [**¡Atrápalo!**]({{< relref "/actividades-juegos-segundo-tercero-eso/atrapalo" >}})
+Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta genial **adaptación** del juego de cartas **Dobble**]({{< relref "/juegos-segundo-tercero-eso/dobble-instrumentos-laboratorio" >}}) o el juego [**¡Atrápalo!**]({{< relref "/juegos-segundo-tercero-eso/atrapalo" >}})
 {{% /callout %}}
 
 {{< figure src="actividad-cientifica-2ESO-3ESO/instrumental.svg" title="[Iconos creados por Freepik de Flaticon](https://www.flaticon.com/packs/laboratory-equipment)" lightbox="false" width="100%" >}}

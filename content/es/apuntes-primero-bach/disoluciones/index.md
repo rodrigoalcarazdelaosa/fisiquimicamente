@@ -35,7 +35,7 @@ links:
   url: https://drive.google.com/file/d/1eO4Hd_M8IoPcfWDl0V2215oPCi45xck4/view
 - icon_pack: fas
   icon:
-  name: 🥼 Prácticas de laboratorio
+  name: 🧪 Prácticas de laboratorio
   url: disoluciones-practicas-laboratorio.pdf
 - icon_pack: fas
   icon:
@@ -101,7 +101,7 @@ En el SI se expresa en mol/kg, en cuyo caso se dice *molal* (m).
 Es una magnitud adimensional (mol/mol).
 
 {{% callout note %}}
-Remata el trabajo sobre **concentración** de **disoluciones** y, de paso, sé **crítico/a** con las **pseudociencias** con [esta genial **actividad** sobre **homeopatía**]({{< relref "/actividades-juegos-primero-bach/homeopatia" >}}).
+Remata el trabajo sobre **concentración** de **disoluciones** y, de paso, sé **crítico/a** con las **pseudociencias** con [esta genial **actividad** sobre **homeopatía**]({{< relref "/actividades-primero-bach/homeopatia" >}}).
 {{% /callout %}}
 
 ## Solubilidad

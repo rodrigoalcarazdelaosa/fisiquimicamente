@@ -22,11 +22,23 @@ subtitle = ""
   description = "[📗 2.º ESO](apuntes/2eso) · [📘 3.º ESO](apuntes/3eso) · [📙 4.º ESO](apuntes/4eso) <br> [📕 1.º Bach](apuntes/1bach) · [📓 2.º Bach](apuntes/2bach) <br> [📔 Formulación y nomenclatura de Química](apuntes/formulacion-nomenclatura-quimica)"
 
 [[feature]]
-  icon = "actividades-juegos"
-  icon_link = "actividades-juegos/"
-  icon_pack = "lottie"
-  name = "[Actividades/juegos](actividades-juegos)"
-  description = "[📗 2.º ESO](actividades-juegos/2eso) · [📘 3.º ESO](actividades-juegos/3eso) · [📙 4.º ESO](actividades-juegos/4eso) <br> [📕 1.º Bach](actividades-juegos/1bach) · [📓 2.º Bach](actividades-juegos/2bach) <br> [📔 Formulación y nomenclatura de Química](actividades-juegos/formulacion-nomenclatura-quimica)"
+  icon = "[🗒️](actividades)"
+  icon_pack = "emoji"
+  name = "[Actividades](actividades)"
+  description = "[📗 2.º ESO](actividades/2eso) · [📘 3.º ESO](actividades/3eso) · [📙 4.º ESO](actividades/4eso) <br> [📕 1.º Bach](actividades/1bach) · [📓 2.º Bach](actividades/2bach) <br> [📔 Formulación y nomenclatura de Química](actividades/formulacion-nomenclatura-quimica)"
+
+[[feature]]
+  icon = "[🧩](juegos)"
+  icon_pack = "emoji"
+  name = "[Juegos](juegos)"
+  description = "[📗 2.º ESO](juegos/2eso) · [📘 3.º ESO](juegos/3eso) · [📙 4.º ESO](juegos/4eso) <br> [📕 1.º Bach](juegos/1bach) · [📓 2.º Bach](juegos/2bach) <br> [📔 Formulación y nomenclatura de Química](juegos/formulacion-nomenclatura-quimica)"
+
+[[feature]]
+  icon = "practicas-laboratorio"
+  icon_link = "practicas-laboratorio/"
+  icon_pack = "tgs"
+  name = "[Prácticas de laboratorio](practicas-laboratorio)"
+  description = "[📗 2.º ESO](practicas-laboratorio/2eso) · [📘 3.º ESO](practicas-laboratorio/3eso) · [📙 4.º ESO](practicas-laboratorio/4eso) <br> [📕 1.º Bach](practicas-laboratorio/1bach) · [📓 2.º Bach](practicas-laboratorio/2bach) <br> [📔 Formulación y nomenclatura de Química](practicas-laboratorio/formulacion-nomenclatura-quimica)"    
 
 [[feature]]
   icon = "historia-ciencia"
@@ -57,7 +69,7 @@ subtitle = ""
   description = "🧑‍🏫 Ciclos formativos · [🧑‍🔧 Operador de IIRR](radiofisica/operador-IIRR) · [🏥 Radiofísica Hospitalaria (RFIR)](radiofisica/RFIR)"
    
 [design]
-  columns = "3"
+  columns = "4"
 
 [design.background]
   # Apply a background color, gradient, or image.

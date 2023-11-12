@@ -38,7 +38,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ---
 
-> **Reconoce** y **aplica** la **composición** de **movimientos** en **situaciones reales** que te sean familiares con [esta genial **actividad**]({{< relref "/actividades-juegos-primero-bach/tiro-parabolico-vida-real" >}}).
+> **Reconoce** y **aplica** la **composición** de **movimientos** en **situaciones reales** que te sean familiares con [esta genial **actividad**]({{< relref "/actividades-primero-bach/tiro-parabolico-vida-real" >}}).
 
 ---
 

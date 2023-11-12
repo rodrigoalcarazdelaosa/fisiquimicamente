@@ -58,7 +58,7 @@ threedmol: true
 ---
 
 {{% callout game %}}
-Si quieres practicar a **nombrar** y **formular compuestos orgánicos** básicos, te recomendamos [este estupendo **juego**]({{< relref "/actividades-juegos-formulacion/formula-con-marvin" >}}) similar al parchís.
+Si quieres practicar a **nombrar** y **formular compuestos orgánicos** básicos, te recomendamos [este estupendo **juego**]({{< relref "/juegos-formulacion/formula-con-marvin" >}}) similar al parchís.
 {{% /callout %}}
 
 {{% callout note %}}

@@ -33,7 +33,7 @@ Si te gustan las ilustraciones, te **recomendamos** encarecidamente su [**set de
 
 En [este **enlace**](https://medium.com/sci-illustrate-stories/iwis/home) (en inglés) también puedes echar un vistazo a más **ilustraciones** e **historias** de **mujeres científicas indias**.
 
-Incluso puedes **jugar** al juego de **cartas** [***Mujeres en ciencia***]({{< relref "/actividades-juegos-segundo-tercero-eso/mujeres-en-ciencia" >}}).
+Incluso puedes **jugar** al juego de **cartas** [***Mujeres en ciencia***]({{< relref "/juegos-segundo-tercero-eso/mujeres-en-ciencia" >}}).
 
 {{% /callout %}}
 
