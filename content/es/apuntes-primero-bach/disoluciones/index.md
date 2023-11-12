@@ -36,7 +36,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🧪 Prácticas de laboratorio
-  url: disoluciones-practicas-laboratorio.pdf
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/practicas-laboratorio/1bach/disoluciones/
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes

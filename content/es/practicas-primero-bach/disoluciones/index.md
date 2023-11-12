@@ -1,8 +1,8 @@
 ---
 title: Disoluciones
 url: "/recursos-fisica-quimica/practicas-laboratorio/1bach/disoluciones"
-subtitle: Disoluciones sólido-líquido y diluciones
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Disoluciones sólido-líquido y diluciones."
+subtitle: Disoluciones sólido-líquido, diluciones y mezclas de disoluciones
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Disoluciones sólido-líquido, diluciones y mezclas de disoluciones."
 breadcrumbs: ["recursos-fisica-quimica","practicas-1bach"]
 authors:
 - alba-lopez-valenzuela

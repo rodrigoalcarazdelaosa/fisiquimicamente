@@ -40,7 +40,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🧪 Prácticas de laboratorio
-  url: acido-base-practicas.pdf
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/practicas-laboratorio/2bach/quimica/acido-base/
 - icon_pack: fas
   icon:
   name: 🔗 Más ejercicios
