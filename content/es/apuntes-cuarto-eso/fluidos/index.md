@@ -174,6 +174,10 @@ Puedes explorar con más detalle la **relación** entre la **presión**, la **de
 
 ### Principio de Arquímedes
 
+{{% callout note %}}
+Echa un vistazo a [esta estupenda **entrada** del **blog**]({{< relref "post/hielo-nivel-mar" >}}), de la mano de **{{% mention manuel-alonso-orts %}}**, para saber más sobre el **principio** de **Arquímedes** y los **motivos** por los que está **subiendo** el **nivel** del **mar**.
+{{% /callout %}}
+
 > Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado:
 \begin{align*}					
 E &= P_\text{fluido desalojado} \\\\

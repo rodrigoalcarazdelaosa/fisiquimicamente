@@ -207,6 +207,10 @@ En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se dist
 
 ### Principio de Arquímedes
 
+> Echa un vistazo a [esta estupenda **entrada** del **blog**]({{< relref "post/hielo-nivel-mar" >}}), de la mano de **{{% mention manuel-alonso-orts %}}**, para saber más sobre el **principio** de **Arquímedes** y los **motivos** por los que está **subiendo** el **nivel** del **mar**.
+
+---
+
 > Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado.
 
 ---
