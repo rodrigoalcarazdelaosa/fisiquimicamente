@@ -210,7 +210,7 @@ La materia puede **cambiar** de **estado** al **variar** la **presión** o **tem
 Si quieres **aprender más** sobre la **naturaleza** de los **cambios** de **estado**, te recomendamos leer [esta **entrada** del **blog** del **IES Valle del Saja**](http://www.fqsaja.com/?p=10513).
 {{% /callout %}}
 
-Además, **durante** un **cambio** de **estado** la **temperatura** permance **constante**, como se muestra en la siguiente curva de calentamiento (temperatura$-$tiempo) de una sustancia pura:
+Además, **durante** un **cambio** de **estado** la **temperatura** permanece **constante**, como se muestra en la siguiente curva de calentamiento (temperatura$-$tiempo) de una sustancia pura:
 
 {{< figure library="true" src="materia-2ESO-3ESO/grafica-calentamiento.svg" title="La sustancia comienza en estado sólido, calentándose hasta los 3&thinsp;&deg;C, su **temperatura de fusión**. Una vez se ha fundido completamente, sigue calentándose, en estado líquido, hasta los 113&thinsp;&deg;C, su **temperatura de ebullición**. A partir de esa temperatura la sustancia se encuentra en estado gaseoso y puede seguir calentándose *indefinidamente* (a partir de una cierta temperatura, la materia pasa a otro estado conocido como [*plasma*](https://fisiquimicamente.com/blog/2022/05/06/plasma/) &mdash;gas ionizado)." lightbox="false" width="100%" >}}
 
