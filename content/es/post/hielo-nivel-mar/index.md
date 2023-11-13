@@ -100,7 +100,7 @@ Primero, el hielo marino se encuentra sobre agua salada. Ésta es más densa que
 
 [^3]: Repitiendo los cálculos mostrados anteriormente se obtiene que el volumen sumergido es aproximadamente el 89&thinsp;% del volumen total.
 
-Por tanto, de 100&thinsp;m<sup>3</sup> de hielo, 89.3&thinsp;m<sup>3</sup> está sumergido en el agua salada. El cálculo anterior para el volumen de agua que genera ese hielo sigue valiendo. Al derretirse, genera 91.7&thinsp;m<sup>3</sup> de agua, algo más que el volumen de agua que estaba desplazando en el mar. Es decir, en el agua salada sí hay un aumento de volumen cuando se derrite el hielo; unos 2.4&thinsp;m<sup>3</sup> por cada 100&thinsp;m<sup>3</sup> de hielo, pero es un aumento pequeño.
+Por tanto, de 100&thinsp;m<sup>3</sup> de hielo, 89.3&thinsp;m<sup>3</sup> están sumergidos en el agua salada. El cálculo anterior para el volumen de agua que genera ese hielo sigue valiendo. Al derretirse, genera 91.7&thinsp;m<sup>3</sup> de agua, algo más que el volumen de agua que estaba desplazando en el mar. Es decir, en el agua salada sí hay un aumento de volumen cuando se derrite el hielo; unos 2.4&thinsp;m<sup>3</sup> por cada 100&thinsp;m<sup>3</sup> de hielo, pero es un aumento pequeño.
 
 Con este cálculo, el problema de la subida nivel del mar apenas debería preocuparnos. ¿Le damos entonces la razón a los negacionistas cuando hablan de catastrofismo con este tema? Ojalá.
 
