@@ -131,5 +131,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "Cambio climático y aumento del nivel del mar"
-      url: '/blog/2023/11/09/cambio-climatico-y-aumento-del-nivel-del-mar/'
+      url: '/blog/2023/11/13/cambio-climatico-y-aumento-del-nivel-del-mar/'
 ---

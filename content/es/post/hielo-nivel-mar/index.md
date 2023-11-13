@@ -3,7 +3,7 @@ title: Cambio climático y aumento del nivel del mar
 subtitle: El principio de Arquímedes y los motivos por los que está subiendo el nivel del mar
 summary: "El principio de Arquímedes y los motivos por los que está subiendo el nivel del mar."
 breadcrumbs: ["blog"]
-date: "2023-11-09T00:00:00+02:00"
+date: "2023-11-13T00:00:00+02:00"
 authors:
 - manuel-alonso-orts
 tags:
