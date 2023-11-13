@@ -18,7 +18,7 @@ content:
   user_groups:
   - 🧑‍🔬 Founders
   - 📚 Notes
-  - 🧩 Activities/games
+  - 🗒️ Activities / 🧩 Games / 🧪 Laboratory practices
   - 🎓 Admission Tests
   - ✍️ Blog
 design:

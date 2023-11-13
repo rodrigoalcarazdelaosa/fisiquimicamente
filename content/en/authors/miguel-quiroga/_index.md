@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 🧩 Activities/games
+role: 🗒️ Activities · 🧪 Laboratory practices
 
 # Organizations/Affiliations
 #organizations:
@@ -75,7 +75,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🧩 Activities/games
+- 🗒️ Activities / 🧩 Games / 🧪 Laboratory practices
 ---
 
 Basically I'm a big kid who loves to experiment, play and explode things, so nothing better than being a Physics and Chemistry Teacher for that. I spend my days in the lab trying out new things to surprise the class with and have fun with, or gutting some gadget with lots of wires to play with.

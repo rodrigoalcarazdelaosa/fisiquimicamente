@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 🧩 Actividades/juegos
+role: 🧩 Juegos
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🧩 Actividades/juegos
+- 🗒️ Actividades / 🧩 Juegos / 🧪 Prácticas de laboratorio
 ---
 
 Soy un firme defensor del juego como herramienta de aprendizaje y es la base desde la que pongo en práctica diferentes metodologías y estrategias didácticas, especialmente el [Aprendizaje Basado en Juegos (ABJ)](https://es.wikipedia.org/wiki/Aprendizaje_basado_en_juegos). Actualmente compagino mi labor docente con el diseño de juegos de mesa educativos, la colaboración con distintas editoriales y la formación docente. Y, cómo no, comparto todo lo que preparo para mis clases e intento aprender de mis compañeros a través de las redes sociales. ¡Ah!, y también tengo un pequeño [estudio de diseño de juegos educativos](https://www.aprendizajebasadoenjuegos.es/).

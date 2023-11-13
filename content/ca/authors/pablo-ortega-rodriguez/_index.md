@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 🧩 Activitats/jocs
+role: 🧩 Jocs
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,7 @@ email:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 🧩 Activitats/jocs
+- 🗒️ Activitats / 🧩 Jocs / 🧪 Pràctiques de laboratori
 ---
 
 Soc un ferm defensor del joc com a eina d'aprenentatge i és la base des de la qual poso en pràctica diferents metodologies i estratègies didàctiques, especialment l'[Aprenentatge Basat en el Joc (ABJ)](https://ca.wikipedia.org/wiki/Aprenentatge_basat_en_el_joc). Actualment compagino la meva tasca docent amb el disseny de jocs de taula educatius, la col·laboració amb diferents editorials i la formació docent. I, és clar, comparteixo tot el que preparo per a les meves classes i intento aprendre dels meus companys a través de les xarxes socials. Ah!, i també tinc un petit [estudi de disseny de jocs educatius](https://www.aprendizajebasadoenjuegos.es/).

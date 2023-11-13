@@ -18,7 +18,7 @@ content:
   user_groups:
   - 🧑‍🔬 Fundadors
   - 📚 Apunts
-  - 🧩 Activitats/jocs
+  - 🗒️ Activitats / 🧩 Jocs / 🧪 Pràctiques de laboratori
   - 🎓 EBAU
   - ✍️ Blog
 design:
