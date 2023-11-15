@@ -61,3 +61,7 @@ subtitle = "⚗️ Química"
  # CSS class.
  css_class = ""    
 +++
+
+{{% callout note %}}
+Echa también un vistazo a las [**soluciones** de **Alba**](https://drive.google.com/drive/folders/17Wcg_Ydqfmnzygo32_KUBp6FiItNYYSO) de los **exámenes** de **Química** de **Extremadura**.
+{{% /callout %}}

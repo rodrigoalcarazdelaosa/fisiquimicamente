@@ -61,3 +61,7 @@ subtitle = "🧲 Física"
  # CSS class.
  css_class = ""  
 +++
+
+{{% callout note %}}
+También te recomendamos echar un vistazo a las excelentes [**soluciones** de **Berto Tomás**](https://drive.google.com/drive/folders/1fNpyfNiunGeeSJcT-MuvekLb-v69odcm) de los **exámenes** de **Física** de 2021 de todas las Comunidades Autónomas.
+{{% /callout %}}
