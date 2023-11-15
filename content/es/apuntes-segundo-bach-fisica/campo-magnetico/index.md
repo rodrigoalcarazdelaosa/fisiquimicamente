@@ -28,6 +28,10 @@ image:
 links:
 - icon_pack: fas
   icon:
+  name: 📋 Formulario
+  url: campo-magnetico-formulario.pdf
+- icon_pack: fas
+  icon:
   name: ✏️ Ejercicios
   url: campo-magnetico-ejercicios.pdf
 - icon_pack: fas
