@@ -14,20 +14,29 @@ subtitle = "🎓 Máster"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-# [[feature]]
-#   icon = "[🧲](fisica)"
-#   icon_pack = "emoji"
-#   name = "[Física](fisica)"
-#   description = ""
+[[feature]]
+  icon = "apuntes"
+  icon_link = "curriculum"
+  icon_pack = "tgs"
+  name = "[Currículum](curriculum)"
+  description = ""
   
-# [[feature]]
-#   icon = "[⚗️](quimica)"
-#   icon_pack = "emoji"
-#   name = "[Química](quimica)"
-#   description = ""
+[[feature]]
+  icon = "historia-ciencia"
+  icon_link = ""
+  icon_pack = "tgs"
+  name = "Aprendizaje"
+  description = "`PRÓXIMAMENTE`"
+  
+[[feature]]
+  icon = "proyectos"
+  icon_link = ""
+  icon_pack = "tgs"
+  name = "Proyectos"
+  description = "`PRÓXIMAMENTE`"
   
 [design]
-  columns = "2"
+  columns = "3"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -59,9 +68,3 @@ subtitle = "🎓 Máster"
  # CSS class.
  css_class = ""
 +++
-
-
-
-{{% callout soon %}}
-Próximamente...
-{{% /callout %}}
