@@ -26,7 +26,10 @@ subtitle = "📚 Currículum"
     tag = "*"
   [[content.filter_button]]
     name = "Fuentes curriculares"
-    tag = "fuentes"    
+    tag = "fuentes"
+  [[content.filter_button]]
+    name = "Evolución histórica"
+    tag = "evolución-histórica"
   [[content.filter_button]]
     name = "LOMLOE"
     tag = "LOMLOE"

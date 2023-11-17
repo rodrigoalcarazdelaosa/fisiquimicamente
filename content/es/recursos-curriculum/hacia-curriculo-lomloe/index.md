@@ -5,7 +5,7 @@ summary: "Orientaciones para su implantación. Adaptación del [documento propor
 tags:
 - LOMLOE
 categories:
-weight: 2
+weight: 3
 
 image:
   preview_only: true

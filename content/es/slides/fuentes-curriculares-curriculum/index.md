@@ -13,8 +13,6 @@ slides:
     hash: true
 ---
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
-
 <section data-background-image="/media/logo-diapositivas.svg, logo-uc.svg" data-background-size="10%" data-background-position="3.629% 5%, 96.371% 5%">
 
 # Fuentes curriculares
