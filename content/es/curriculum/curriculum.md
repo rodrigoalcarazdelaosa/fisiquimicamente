@@ -33,6 +33,9 @@ subtitle = "📚 Currículum"
   [[content.filter_button]]
     name = "LOMLOE"
     tag = "LOMLOE"
+  [[content.filter_button]]
+    name = "PISA"
+    tag = "PISA"    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
