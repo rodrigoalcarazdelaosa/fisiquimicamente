@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="719.71pt"
+   height="719.72pt"
+   viewBox="0 0 719.71 719.72"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="bottle.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.24592898"
+     inkscape:cx="479.81331"
+     inkscape:cy="477.78021"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip-0">
+      <path
+         clip-rule="nonzero"
+         d="M 0 0 L 719.710938 0 L 719.710938 719.71875 L 0 719.71875 Z M 0 0 "
+         id="path1" />
+    </clipPath>
+  </defs>
+  <path
+     fill-rule="nonzero"
+     fill="rgb(6.30188%, 5.761719%, 5.056763%)"
+     fill-opacity="1"
+     d="M 187.863281 389.144531 C 193.140625 408.808594 207.097656 422.144531 219.039062 418.941406 L 452.433594 356.300781 C 459.765625 354.335938 464.621094 346.566406 466.066406 336.3125 L 466.070312 336.332031 C 466.84375 331.105469 470.625 326.578125 476.042969 325.121094 L 525.472656 311.828125 C 530.976562 310.351562 533.9375 303.558594 532.085938 296.664062 C 530.238281 289.769531 524.277344 285.386719 518.777344 286.863281 L 469.347656 300.132812 C 463.882812 301.601562 458.308594 299.535156 455.035156 295.335938 L 455.039062 295.355469 C 448.679688 287.277344 440.625 283.039062 433.324219 285 L 199.929688 347.726562 C 187.988281 350.941406 182.589844 369.480469 187.863281 389.144531 "
+     id="path2" />
+  <g
+     clip-path="url(#clip-0)"
+     id="g3">
+    <path
+       fill-rule="nonzero"
+       fill="rgb(93.605042%, 18.151855%, 19.448853%)"
+       fill-opacity="1"
+       d="M 662.6875 359.90625 C 637.75 384.84375 384.789062 637.8125 359.851562 662.75 C 334.914062 637.8125 81.957031 384.84375 57.019531 359.90625 C 81.957031 334.9375 334.914062 81.910156 359.851562 56.972656 C 384.785156 81.910156 637.75 334.9375 662.6875 359.90625 Z M 0 359.90625 L 359.851562 719.773438 L 719.707031 359.90625 L 359.851562 -0.0507812 L 0 359.90625 "
+       id="path3" />
+  </g>
+</svg>

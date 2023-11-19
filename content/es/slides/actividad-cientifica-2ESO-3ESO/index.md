@@ -305,55 +305,55 @@ También os recomendamos los magníficos [**pósters de Berto Tomás**](https://
 
 #### Explosivo
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS01_explos.png" lightbox="false" width="60%" >}}
+{{< figure src="explos.svg" lightbox="false" width="60%" >}}
 
 ---
 
 #### Inflamable
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS02_flamme.png" lightbox="false" width="60%" >}}
+{{< figure src="flamme.svg" lightbox="false" width="60%" >}}
 
 ---
 
 #### Comburente
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS03_rondflam.png" lightbox="false" width="60%" >}}
+{{< figure src="rondflam.svg" lightbox="false" width="60%" >}}
 
 ---
 
 #### Gas a presión
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS04_bottle.png" lightbox="false" width="60%" >}}
+{{< figure src="bottle.svg" lightbox="false" width="60%" >}}
 
 ---
 
 #### Corrosivo
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS05_acid_red.png" lightbox="false" width="60%" >}}
+{{< figure src="acid_red.svg" lightbox="false" width="60%" >}}
 
 ---
 
 #### Toxicidad aguda
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS06_skull.png" lightbox="false" width="60%" >}}
+{{< figure src="skull.svg" lightbox="false" width="60%" >}}
 
 ---
 
 #### Peligro para la salud
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS07_exclam.png" lightbox="false" width="60%" >}}
+{{< figure src="exclam.svg" lightbox="false" width="60%" >}}
 
 ---
 
 #### Peligro grave para la salud
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS08_silhouete.png" lightbox="false" width="60%" >}}
+{{< figure src="silhouete.svg" lightbox="false" width="60%" >}}
 
 ---
 
 #### Peligro para el medio ambiente
 
-{{< figure src="https://www.reach-compliance.ch/downloads/GHS09_aq-pollut.png" lightbox="false" width="60%" >}}
+{{< figure src="aquatic-pollut-red.svg" lightbox="false" width="60%" >}}
 
 {{% /section %}}
 
