@@ -220,7 +220,6 @@ chart.draw(data, options);
 
 ---
 
-- Fuentes de energía en Cantabria: contextualización en Cantabria de las plantas de producción de energía eléctrica y empresas vinculadas
 - Efectos del calor sobre la materia: análisis de los efectos y aplicación en situaciones cotidianas.
 - Naturaleza eléctrica de la materia: electrización de los cuerpos, circuitos eléctricos y la obtención de energía eléctrica. Concienciación sobre la necesidad del ahorro energético y la conservación sostenible del medio ambiente.
 
@@ -282,7 +281,6 @@ chart.draw(data, options);
 
 - Estrategias de interpretación y producción de información científica en diferentes formatos y a partir de diferentes medios: desarrollo del criterio propio basado en lo que el pensamiento científico aporta a la mejora de la sociedad para hacerla más justa, equitativa e igualitaria.
 - Valoración de la cultura científica y del papel de científicos y científicas en los principales hitos históricos y actuales de la física y la química para el avance y la mejora de la sociedad.
-- Valoración y divulgación de instituciones, empresas y personas vinculadas a la ciencia en el ámbito de nuestra Comunidad.
 
 ---
 
