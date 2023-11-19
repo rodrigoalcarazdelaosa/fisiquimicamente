@@ -252,7 +252,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 ## Laboratorio escolar
 
 - [Instrumental](#/3/1)
-- [Normas básicas de seguridad](#/3/2)
+- [Normas básicas de seguridad](#/3/3)
 - [Pictogramas de peligro](#/3/5)
 
 (continúa hacia abajo)
@@ -263,13 +263,15 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ### Instrumental
 
+> Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta genial **adaptación** del juego de cartas **Dobble**]({{< relref "/juegos-segundo-tercero-eso/dobble-instrumentos-laboratorio" >}}), el juego [**¡Atrápalo!**]({{< relref "/juegos-segundo-tercero-eso/atrapalo" >}}) o las [**tarjetas**](https://drive.google.com/drive/folders/1fXglHz9nq0EfVzLDEIRKqPGG9VOWL_Pb) de [Berto Tomás](https://twitter.com/af_bertotomas), en colaboración con el [Dr. Vieta](https://twitter.com/pquimic).
+
+---
+
 {{< figure library="true" src="actividad-cientifica-2ESO-3ESO/instrumental.svg" lightbox="false" width="70%" >}}
 
 ---
 
 ### Normas básicas de seguridad
-
----
 
 {{< youtube BRDApYgvDqQ >}}
 

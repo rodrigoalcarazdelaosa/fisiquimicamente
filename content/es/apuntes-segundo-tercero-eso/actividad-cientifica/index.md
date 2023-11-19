@@ -212,7 +212,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 ### Instrumental
 
 {{% callout game %}}
-Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta genial **adaptación** del juego de cartas **Dobble**]({{< relref "/juegos-segundo-tercero-eso/dobble-instrumentos-laboratorio" >}}) o el juego [**¡Atrápalo!**]({{< relref "/juegos-segundo-tercero-eso/atrapalo" >}})
+Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta genial **adaptación** del juego de cartas **Dobble**]({{< relref "/juegos-segundo-tercero-eso/dobble-instrumentos-laboratorio" >}}), el juego [**¡Atrápalo!**]({{< relref "/juegos-segundo-tercero-eso/atrapalo" >}}) o las [**tarjetas**](https://drive.google.com/drive/folders/1fXglHz9nq0EfVzLDEIRKqPGG9VOWL_Pb) de [Berto Tomás](https://twitter.com/af_bertotomas), en colaboración con el [Dr. Vieta](https://twitter.com/pquimic).
 {{% /callout %}}
 
 {{< figure src="actividad-cientifica-2ESO-3ESO/instrumental.svg" title="[Iconos creados por Freepik de Flaticon](https://www.flaticon.com/packs/laboratory-equipment)" lightbox="false" width="100%" >}}
