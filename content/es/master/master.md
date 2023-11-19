@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "🧑‍🏫 Formación del profesorado"
-subtitle = "🎓 Máster"
+title = "🎓 Máster"
+subtitle = "Recursos para el [Máster Universitario en Formación del Profesorado de Secundaria](https://web.unican.es/centros/educacion/másteres/master-en-formacion-del-profesorado-de-secundaria) de la [UC](https://web.unican.es)"
 
 # Showcase personal skills or business features.
 # 

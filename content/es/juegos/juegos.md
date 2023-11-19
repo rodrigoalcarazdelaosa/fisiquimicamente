@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "🧩 Juegos de Física y Química"
-subtitle = "Geniales **juegos educativos (ABJ)** que sintetizan los contenidos de los currículos de Física y Química, organizadas por niveles y temas"
+subtitle = "Geniales **juegos educativos (ABJ)** que sintetizan los contenidos de los currículos de Física y Química, organizados por niveles y temas"
 
 # Showcase personal skills or business features.
 # 

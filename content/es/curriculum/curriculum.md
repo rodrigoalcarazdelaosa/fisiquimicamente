@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "🎓 Máster en Formación del Profesorado de Secundaria"
-subtitle = "📚 Currículum"
+title = "📚 Currículum"
+subtitle = "Recursos para la asignatura [***Las Materias de Física y Química, y de Tecnología en el Currículum de Secundaria***](https://web.unican.es/centros/educacion/estudios/detalle-asignatura?c=968&pi=75&a=2023)"
 
 [content]
   # Page type to display. E.g. project.
@@ -81,10 +81,6 @@ subtitle = "📚 Currículum"
  # CSS class.
  css_class = ""
 +++
-
-{{% callout note %}}
-Recursos para la asignatura [***Las Materias de Física y Química, y de Tecnología en el Currículum de Secundaria***](https://web.unican.es/centros/educacion/estudios/detalle-asignatura?c=968&pi=75&a=2023), del [Máster Universitario en Formación del Profesorado de Secundaria](https://web.unican.es/centros/educacion/másteres/master-en-formacion-del-profesorado-de-secundaria) de la [UC](https://web.unican.es).
-{{% /callout %}}
 
 {{% callout note %}}
 En [esta **página**](https://www.tuprogramacionaldia.com), creada por el gran **{{% mention "pablo-ortega-rodriguez" %}}**, tienes muchos **recursos** para poder **diseñar** una **programación extraordinaria**.

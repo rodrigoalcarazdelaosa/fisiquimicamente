@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "🎓 Recursos EBAU <br> (Cantabria)"
+title = "🎓 Recursos EBAU<br>(Cantabria)"
 subtitle = "Gracias a [**Enrique Ortega González**](https://fisiquimicamente.com/equipo/enrique-ortega-gonzalez/) del [IES José del Campo](http://www.josedelcampo.com) de Ampuero"
 
 # Showcase personal skills or business features.

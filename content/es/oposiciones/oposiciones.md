@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "🧑‍🏫 Formación del profesorado"
-subtitle = "📝 Oposiciones"
+title = "📝 Oposiciones"
+subtitle = "**Ejercicios resueltos** con la ayuda de [**Jésica Sánchez Mazón**](https://fisiquimicamente.com/equipo/jesica-sanchez-mazon/) y [**Enrique Ortega González**](https://fisiquimicamente.com/equipo/enrique-ortega-gonzalez/)"
 
 # Showcase personal skills or business features.
 # 
@@ -59,8 +59,6 @@ subtitle = "📝 Oposiciones"
  # CSS class.
  css_class = ""
 +++
-
-**Ejercicios resueltos** con la ayuda de [**Jésica Sánchez Mazón**](https://fisiquimicamente.com/equipo/jesica-sanchez-mazon/) y [**Enrique Ortega González**](https://fisiquimicamente.com/equipo/enrique-ortega-gonzalez/)
 
 {{% callout note %}}
 Accede [aquí](http://www.fiquipedia.es/home/recursos/recursos-para-oposiciones#TOC-Problemas-del-pr-ctico-y-resoluci-n-de-elaboraci-n-propia) a muchos más **enunciados** y **soluciones** recopilados por **FiQuiPedia**.
