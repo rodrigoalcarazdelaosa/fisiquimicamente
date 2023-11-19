@@ -1,7 +1,7 @@
 ---
 title: Evolución de la Educación en España
-subtitle: Un repaso histórico sobre las leyes reguladoras del Sistema Educativo Español
-summary: "Un repaso histórico sobre las leyes reguladoras del Sistema Educativo Español."
+subtitle: Un repaso histórico por las leyes reguladoras del Sistema Educativo Español
+summary: "Un repaso histórico por las leyes reguladoras del Sistema Educativo Español."
 tags:
 - evolución-histórica
 categories:

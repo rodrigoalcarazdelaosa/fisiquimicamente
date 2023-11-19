@@ -17,7 +17,7 @@ slides:
 
 # Evolución de la Educación en España
 
-## Un repaso histórico sobre las leyes reguladoras del Sistema Educativo Español
+## Un repaso histórico por las leyes reguladoras del Sistema Educativo Español
 
 María del Carmen García Alonso
 
