@@ -223,6 +223,14 @@ Además, **durante** un **cambio** de **estado** la **temperatura** permanece **
 
 Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan con la presión) son, al igual que la densidad, **propiedades características** de la materia.
 
+---
+
+#### Gráfica de enfriamiento del naftaleno
+
+{{< youtube j1N81E1ys34 >}}
+
+[Aquí](https://drive.google.com/file/d/1Bycu4IzGGw0OgaXdV7oo5Cko5C4TWa4H/view) puedes descargarte el **guion** de la **práctica**.
+
 {{% /section %}}
 
 ---
