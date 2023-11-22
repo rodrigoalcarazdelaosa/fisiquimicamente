@@ -59,7 +59,7 @@ social:
   icon_pack: svg
   link: https://www.instagram.com/eldelafisicaylaquimica/
   label: Sígueme en Instagram
-- icon: 🌐
+- icon: 🏠
   icon_pack: emoji
   link: https://miguelquiroga.es
   label: Visita mi página web

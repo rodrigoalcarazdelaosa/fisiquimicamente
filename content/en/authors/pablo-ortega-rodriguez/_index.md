@@ -58,7 +58,7 @@ social:
   icon_pack: svg
   link: https://www.instagram.com/pablofcayqca/
   label: Follow me on Instagram
-- icon: 🌐
+- icon: 🏠
   icon_pack: emoji
   link: https://www.aprendizajebasadoenjuegos.es/
   label: Visit my studio (ABJ Ediciones)
