@@ -13,7 +13,7 @@ slides:
     hash: true
 ---
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js" async></script>
 
 <section data-background-image="consejeria-educacion.svg, /media/icons/brands/penacastillo.svg" data-background-size="12%" data-background-position="3.629% 5%, 96.371% 5%">
 
