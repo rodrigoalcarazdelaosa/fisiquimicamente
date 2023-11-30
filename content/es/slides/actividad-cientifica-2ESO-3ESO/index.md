@@ -95,9 +95,9 @@ o con estas excelentes **prácticas virtuales** del [Departamento de Física y Q
 
 ## Medidas de magnitudes
 
-- [Sistema Internacional de Unidades (SI)](#/2/2)
-- [Notación científica](#/2/8)
-- [Factores de conversión](#/2/12)
+- [Sistema Internacional de Unidades (SI)](#/2/3)
+- [Notación científica](#/2/9)
+- [Factores de conversión](#/2/13)
 
 (continúa hacia abajo)
 
@@ -108,6 +108,10 @@ o con estas excelentes **prácticas virtuales** del [Departamento de Física y Q
 Una **magnitud** es toda propiedad que se puede **medir**.
 
 {{% fragment %}} **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**. {{% /fragment %}}
+
+---
+
+> Puedes **aprender más** sobre **magnitudes**, **unidades** y **símbolos** de **Química Física** con este [**resumen conciso** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/09/Español-Un-Resumen-Conciso-de-Magnitudes-Unidades-y-Símbolos-en-Química-Física_-20220829.pdf).
 
 ---
 
@@ -149,7 +153,7 @@ Una **magnitud** es toda propiedad que se puede **medir**.
 
 ---
 
-> **Descubre** las distintas **escalas** del **universo** con [esta excelente **animación interactiva**](https://htwins.net/scale2/). También puedes **aprender más** sobre **magnitudes**, **unidades** y **símbolos** de **Química Física** con este [**resumen conciso** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/09/Español-Un-Resumen-Conciso-de-Magnitudes-Unidades-y-Símbolos-en-Química-Física_-20220829.pdf).
+> **Descubre** las distintas **escalas** del **universo** con [esta excelente **animación interactiva**](https://htwins.net/scale2/). También te recomendamos echar un vistazo a [este magnífico **póster** del **NPL**](https://drive.google.com/file/d/1qxSGkbnnlalpDPRvRWlhh_WdcmXG0-J_/view).
 
 ---
 

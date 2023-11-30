@@ -117,6 +117,10 @@ o con estas excelentes **prácticas virtuales** del [Departamento de Física y Q
 
 Una **magnitud** es toda propiedad que se puede **medir**. **Medir** consiste en **comparar** una cantidad con otra de la misma magnitud, que tomamos como referencia, y a la cual denominamos **unidad**.
 
+{{% callout note %}}
+Puedes **aprender más** sobre **magnitudes**, **unidades** y **símbolos** de **Química Física** con este [**resumen conciso** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/09/Español-Un-Resumen-Conciso-de-Magnitudes-Unidades-y-Símbolos-en-Química-Física_-20220829.pdf).
+{{% /callout %}}
+
 ### Sistema Internacional de Unidades (SI)
 El Sistema Internacional de Unidades (SI) define siete **magnitudes básicas**:
 
@@ -150,7 +154,7 @@ La siguiente tabla muestra los **prefijos** (múltiplos y submúltiplos) del SI:
 | deca | da | $10^{1}$ | deci | d | $10^{-1}$ |
 
 {{% callout note %}}
-**Descubre** las distintas **escalas** del **universo** con [esta excelente **animación interactiva**](https://htwins.net/scale2/). También puedes **aprender más** sobre **magnitudes**, **unidades** y **símbolos** de **Química Física** con este [**resumen conciso** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/09/Español-Un-Resumen-Conciso-de-Magnitudes-Unidades-y-Símbolos-en-Química-Física_-20220829.pdf).
+**Descubre** las distintas **escalas** del **universo** con [esta excelente **animación interactiva**](https://htwins.net/scale2/). También te recomendamos echar un vistazo a [este magnífico **póster** del **NPL**](https://drive.google.com/file/d/1qxSGkbnnlalpDPRvRWlhh_WdcmXG0-J_/view).
 {{% /callout %}}
 
 ### Notación científica
