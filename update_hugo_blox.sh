@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Hugo Blox Updater
-# Helps update Hugo modules and the compatible Hugo version for Netlify.
+# Helps update Hugo modules.
 # https://docs.hugoblox.com/reference/update/
 #
 # Command: bash ./update_hugo_blox.sh
