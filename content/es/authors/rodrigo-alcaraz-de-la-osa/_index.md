@@ -100,6 +100,13 @@ social:
   display:
     header: true
     footer: true
+- icon: ☕️
+  icon_pack: emoji
+  link: https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR
+  label: Invítanos a un café
+  display:
+    header: false
+    footer: true
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -98,6 +98,13 @@ social:
   label: Join the Discord server
   display:
     header: true
+    footer: true
+- icon: ☕️
+  icon_pack: emoji
+  link: https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR
+  label: Buy us a coffee
+  display:
+    header: false
     footer: true    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -98,6 +98,13 @@ social:
   label: Uneix-te a el servidor d'Discord
   display:
     header: true
+    footer: true
+- icon: ☕️
+  icon_pack: emoji
+  link: https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR
+  label: Invítanos a un cafè
+  display:
+    header: false
     footer: true    
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
