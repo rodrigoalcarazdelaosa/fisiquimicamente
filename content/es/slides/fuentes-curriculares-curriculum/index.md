@@ -50,7 +50,7 @@ María del Carmen García Alonso
 
 Hemos de considerar los **aspectos** que **inciden** en la **realidad educativa**:
 
-- socioculturales.
+- Socioculturales.
 - Proceso de enseñanza-aprendizaje.
 - Conocimientos que tiene sentido enseñar.
 
@@ -58,7 +58,7 @@ Hemos de considerar los **aspectos** que **inciden** en la **realidad educativa*
 
 Esta consideración nos remite a las **fuentes** del **currículo**:
 
-- sociocultural.
+- Sociocultural.
 - Psicopedagógica.
 - Epistemológica.
 
