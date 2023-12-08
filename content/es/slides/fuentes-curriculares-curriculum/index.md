@@ -84,7 +84,7 @@ Esta consideración nos remite a las **fuentes** del **currículo**:
 
 ---
 
-- Desde esta perspectiva la escuela asume las intenciones educativas de una sociedad para un determinado momento de su desarrollo y, por consiguiente, el curriículum se convierte en la instancia mediadora entre la institución y la sociedad para el logro de estos propósitos.
+- Desde esta perspectiva la escuela asume las intenciones educativas de una sociedad para un determinado momento de su desarrollo y, por consiguiente, el currículum se convierte en la instancia mediadora entre la institución y la sociedad para el logro de estos propósitos.
 
 ---
 
@@ -153,7 +153,7 @@ Lo anterior se debe ver reflejado en los **contenidos curriculares** de manera q
 
 ---
 
-- Proponer situaciones de aprendizaje que incluyan formular hipótesis, elaborar conclusiones, analizar datos , organizar ideas orales y escritas.
+- Proponer situaciones de aprendizaje que incluyan formular hipótesis, elaborar conclusiones, analizar datos, organizar ideas orales y escritas.
 - Hacer reflexionar al alumno sobre sus propio proceso de aprendizaje.
 
 ---
