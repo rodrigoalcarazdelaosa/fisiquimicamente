@@ -227,6 +227,10 @@ Surge de la **atracción electrostática** entre los **electrones** de conducci�
 - **Tienden** a **ceder** (perder) **electrones** al reaccionar con otras sustancias.
 - La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
 
+---
+
+> Construye un **detector** de **conductividad** con [esta genial **práctica** de la mano de **Miguel Quiroga**]({{< relref "/practicas-cuarto-eso/detector-conductividad" >}}).
+
 {{% /section %}}
 
 ---

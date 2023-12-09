@@ -238,6 +238,10 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 - Son sustancias muy **duras** aunque **frágiles**.
 - Suelen ser **malos conductores** (no así el grafito o el grafeno).
 
+{{% callout note %}}
+Construye un **detector** de **conductividad** con [esta genial **práctica** de la mano de **Miguel Quiroga**]({{< relref "/practicas-cuarto-eso/detector-conductividad" >}}).
+{{% /callout %}}
+
 ## Geometría molecular
 
 ### TRPECV

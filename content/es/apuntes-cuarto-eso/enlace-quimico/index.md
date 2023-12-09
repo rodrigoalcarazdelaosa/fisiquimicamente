@@ -127,6 +127,10 @@ El **enlace metálico** es el enlace químico que **mantiene unidos** a los **á
 - **Tienden** a **ceder** (perder) **electrones** al reaccionar con otras sustancias.
 - La mayoría son **sólidos** a temperatura ambiente (**Hg** es 💧).
 
+{{% callout note %}}
+Construye un **detector** de **conductividad** con [esta genial **práctica** de la mano de **Miguel Quiroga**]({{< relref "/practicas-cuarto-eso/detector-conductividad" >}}).
+{{% /callout %}}
+
 ## Fuerzas intermoleculares
 Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las **moléculas**, incluyendo las fuerzas de atracción o repulsión que actúan entre las moléculas y otros tipos de partículas vecinas, por ejemplo, átomos o iones. Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas intramoleculares** (las que mantienen unida una molécula).
 

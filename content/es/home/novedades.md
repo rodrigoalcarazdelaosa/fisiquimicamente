@@ -65,8 +65,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Disoluciones | 1.º Bach
-      url: 'recursos-fisica-quimica/practicas-laboratorio/1bach/disoluciones/'
+      text: Detector de conductividad | 4.º ESO
+      url: 'recursos-fisica-quimica/practicas-laboratorio/4eso/detector-de-conductividad/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
