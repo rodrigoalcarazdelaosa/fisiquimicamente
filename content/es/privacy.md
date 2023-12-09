@@ -9,9 +9,9 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 breadcrumbs: [""]
 ---
 
-[<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/) está publicada con [**Hugo Blox**](https://hugoblox.com)[^1] para [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). Al ser un [sitio web estático](https://es.wikipedia.org/wiki/Página_web_estática), no recoge ni comparte con terceros ningún dato personal. Sin embargo, utiliza servicios externos para añadir diversas funcionalidades, las cuales se detallan en la siguiente lista[^2]:
+[<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/) está publicada con [**Hugo Blox**](https://hugoblox.com?aff=K4VGj)[^1] para [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). Al ser un [sitio web estático](https://es.wikipedia.org/wiki/Página_web_estática), no recoge ni comparte con terceros ningún dato personal. Sin embargo, utiliza servicios externos para añadir diversas funcionalidades, las cuales se detallan en la siguiente lista[^2]:
 
-[^1]: <a href="https://hugoblox.lemonsqueezy.com?aff=K4VGj">Únete a <strong><em>All Access</em></strong> para desbloquear blox y plantillas exclusivas</a>.
+[^1]: <a href="https://hugoblox.com/sponsor/?aff=K4VGj">Únete a <strong><em>All Access</em></strong> para desbloquear blox y plantillas exclusivas</a>.
 
 [^2]: Se enlazan también sus respectivas políticas de privacidad.
 

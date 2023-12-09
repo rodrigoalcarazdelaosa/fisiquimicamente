@@ -8,9 +8,9 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 breadcrumbs: [""]
 ---
 
-[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is published with [**Hugo Blox**](https://hugoblox.com)[^1] for [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). Being a [static website](https://en.wikipedia.org/wiki/Static_web_page), it does not collect or share any personal data with third parties. However, it uses external services to add various functionalities, which are detailed in the following list[^2]:
+[<img draggable="false" class="icon" alt="physichemically" src="/icon/logo-physichemically.svg">](/) is published with [**Hugo Blox**](https://hugoblox.com?aff=K4VGj)[^1] for [<img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg">](https://gohugo.io). Being a [static website](https://en.wikipedia.org/wiki/Static_web_page), it does not collect or share any personal data with third parties. However, it uses external services to add various functionalities, which are detailed in the following list[^2]:
 
-[^1]: <a href="https://hugoblox.lemonsqueezy.com?aff=K4VGj">Join <strong><em>All Access</em></strong> to unlock exclusive blox and templates</a>.
+[^1]: <a href="https://hugoblox.com/sponsor/?aff=K4VGj">Join <strong><em>All Access</em></strong> to unlock exclusive blox and templates</a>.
 
 [^2]: Their respective privacy policies are also linked.
 
