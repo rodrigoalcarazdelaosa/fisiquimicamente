@@ -154,7 +154,7 @@ Lo anterior se debe ver reflejado en los **contenidos curriculares** de manera q
 ---
 
 - Proponer situaciones de aprendizaje que incluyan formular hipótesis, elaborar conclusiones, analizar datos, organizar ideas orales y escritas.
-- Hacer reflexionar al alumno sobre sus propio proceso de aprendizaje.
+- Hacer reflexionar al alumno sobre su propio proceso de aprendizaje.
 
 ---
 
