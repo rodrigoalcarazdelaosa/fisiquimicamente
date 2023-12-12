@@ -66,7 +66,7 @@ María del Carmen García Alonso
 
 - Establece dos etapas: Elemental y Superior.
 - Obligatoriedad de los 6 a los 9 años.
-- Gratuidad relativa para los que no puedan pegar los estudios.
+- Gratuidad relativa para los que no puedan pagar los estudios.
 
 Ordenó el sistema educativo español desde mediados del siglo XIX hasta bien iniciado el segundo tercio del siglo XX.
 
