@@ -62,13 +62,13 @@ La **cinética química** es la **rama** de la **química física** que se ocupa
 ### Teoría de colisiones
 La **teoría de colisiones**, propuesta por Lewis en 1918, explica una reacción desde el punto de vista dinámico. Nos dice que las reacciones se producen a partir de choques entre las moléculas de los reactivos. Para que estos choques sean **eficaces**, las moléculas han de tener suficiente energía (**energía de activación**) y una orientación adecuada.
 
-{{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-colisiones.svg" title="Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-colisiones.svg" title="Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" theme="light" >}}
 
 ### Teoría del estado de transición o del complejo activado
 
 La **teoría del estado de transición**, propuesta por Henry Eyring en 1935, explica una reacción química desde el punto de vista energético. Cuando las moléculas de los reactivos chocan, dan lugar a un **estado de transición**, muy inestable, donde se forma un **complejo activado**, en el que unos enlaces se están formando y otros rompiendo.
 
-{{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-estado-transicion.svg" title="Cuanto menor sea la energía de activación, más rápida será la reacción química. <br> Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-estado-transicion.svg" title="Cuanto menor sea la energía de activación, más rápida será la reacción química. <br> Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" theme="light" >}}
 
 ## Mecanismos de reacción
 
@@ -112,7 +112,7 @@ donde $k$ es la constante de velocidad (${\uparrow}k\rightarrow {\uparrow} v$); 
 
 [^3]: La **molecularidad** es el número de moléculas que intervienen en una reacción elemental, y es igual a la suma de los coeficientes estequiométricos de los reactivos.
 
-{{< figure library="true" src="cinetica-quimica-2bach-quimica/orden-reaccion.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="cinetica-quimica-2bach-quimica/orden-reaccion.svg" lightbox="false" width="100%" theme="light" >}}
 
 ### Vida media o periodo de semireacción $t_{1/2}$
 
@@ -175,4 +175,4 @@ Distinguimos también  entre **catálisis homogénea** o **heterogénea** depend
 
 Las **proteínas** que actúan como **catalizadores** en las **reacciones bioquímicas** se llaman **enzimas**.
 
-{{< figure library="true" src="cinetica-quimica-2bach-quimica/catalisis-enzimatica.svg" title="Modelo de llave y cerradura. <br> Adaptada de https://commons.wikimedia.org/wiki/File:Induced_fit_diagram_es.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="cinetica-quimica-2bach-quimica/catalisis-enzimatica.svg" title="Modelo de llave y cerradura. <br> Adaptada de https://commons.wikimedia.org/wiki/File:Induced_fit_diagram_es.svg" lightbox="false" width="100%" theme="light" >}}

@@ -51,13 +51,13 @@ La **cinètica química** és la **branca** de la **química física** que s'ocu
 ### Teoria de col·lisions
 La **teoria de col·lisions**, proposada per Lewis al 1918, explica una reacció des del punt de vista dinàmic. Ens diu que les reaccions es produeixen a partir de xocs entre les molècules dels reactius. Perquè aquests xocs siguin **eficaços**, les molècules han de tenir suficient energia (**energia d'activació**) i una orientació adequada.
 
-{{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-colisiones-cat.svg" title="Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-colisiones-cat.svg" title="Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" theme="light" >}}
 
 ### Teoria de l'estat de transició o del complex activat
 
 La **teoria de l'estat de transició**, proposada per Henry Eyring en 1935, explica una reacció química des del punt de vista energètic. Quan les molècules dels reactius xoquen, donen lloc a un **estat de transició**, molt inestable, on es forma un **complex activat**, en el qual uns enllaços s'estan formant i altres trencant.
 
-{{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-estado-transicion-cat.svg" title="Quant menor sigui l'energia d'activació, més ràpida serà la reacció química. <br> Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-estado-transicion-cat.svg" title="Quant menor sigui l'energia d'activació, més ràpida serà la reacció química. <br> Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" theme="light" >}}
 
 ## Mecanismes de reacció
 
@@ -101,7 +101,7 @@ on $k$ és la constant de velocitat (${\uparrow}k\rightarrow {\uparrow} v$); [A]
 
 [^3]: La **molecularitat** és el nombre de molècules que intervenen en una reacció elemental, i és igual a la suma dels coeficients estequiomètrics dels reactius.
 
-{{< figure library="true" src="cinetica-quimica-2bach-quimica/orden-reaccion-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="cinetica-quimica-2bach-quimica/orden-reaccion-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ### Vida mitjana o període de semireacció $t_{1/2}$
 
@@ -164,5 +164,5 @@ Distingim també entre **catàlisi homogènia** o **heterogènia** depenent de s
 
 Les **proteïnes** que actuen com a **catalitzadors** a les **reaccions bioquímiques** es diuen **enzims**.
 
-{{< figure library="true" src="cinetica-quimica-2bach-quimica/catalisis-enzimatica-cat.svg" title="Model d'ajust induït. <br> Adaptada de https://commons.wikimedia.org/wiki/File:Induced_fit_diagram_es.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="cinetica-quimica-2bach-quimica/catalisis-enzimatica-cat.svg" title="Model d'ajust induït. <br> Adaptada de https://commons.wikimedia.org/wiki/File:Induced_fit_diagram_es.svg" lightbox="false" width="100%" theme="light" >}}
 
