@@ -118,7 +118,11 @@ Es la máxima cantidad de soluto que puede disolverse a una temperatura dada en 
 ---
 
 ### Saturación y sobresaturación
-Una **disolución saturada** es aquella en la que ya no se puede disolver más soluto, a una temperaturada dada. La **sobresaturación** ocurre cuando la concentración de soluto excede el límite de solubilidad, típicamente a altas temperaturas, dando lugar a un estado metaestable que encontrará el equilibrio precipitando el exceso de soluto.
+Una **disolución saturada** es aquella en la que ya no se puede disolver más soluto, a una temperaturada dada.
+
+---
+
+La **sobresaturación** ocurre cuando la concentración de soluto excede el límite de solubilidad, típicamente a altas temperaturas, dando lugar a un estado metaestable que encontrará el equilibrio precipitando el exceso de soluto.
 
 ---
 
