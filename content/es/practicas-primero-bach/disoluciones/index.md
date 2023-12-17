@@ -7,7 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","practicas-1bach"]
 authors:
 - alba-lopez-valenzuela
 tags:
-- prácticas
+- prácticas-laboratorio
 - 1º Bach
 - disoluciones
 categories:

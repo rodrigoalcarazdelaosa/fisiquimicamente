@@ -65,8 +65,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Detector de conductividad | 4.º ESO
-      url: 'recursos-fisica-quimica/practicas-laboratorio/4eso/detector-de-conductividad/'
+      text: Tinta invisible con cúrcuma | 4.º ESO
+      url: 'recursos-fisica-quimica/practicas-laboratorio/4eso/tinta-invisible-con-curcuma/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

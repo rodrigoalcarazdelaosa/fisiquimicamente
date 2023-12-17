@@ -2,12 +2,12 @@
 title: Detector de conductividad
 url: "/recursos-fisica-quimica/practicas-laboratorio/4eso/detector-de-conductividad"
 subtitle: Construimos un instrumento que nos permite detectar si una sustancia conduce o no la corriente eléctrica
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Construimos un instrumento que nos permite detectar si una sustancia conduce o no la corriente eléctrica."
+summary: "Construimos un instrumento que nos permite detectar si una sustancia conduce o no la corriente eléctrica."
 breadcrumbs: ["recursos-fisica-quimica","practicas-4eso"]
 authors:
 - miguel-quiroga
 tags:
-- prácticas
+- prácticas-laboratorio
 - 4º ESO
 - conductividad
 - enlace-químico
