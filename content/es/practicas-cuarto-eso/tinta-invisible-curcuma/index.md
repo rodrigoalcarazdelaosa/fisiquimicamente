@@ -69,6 +69,9 @@ La cúrcuma es una especia que se utiliza en la cocina de muchas culturas del mu
 La **cúrcuma** es un pigmento amarillo que se encuentra en la raíz de la planta [***Curcuma longa***](https://es.wikipedia.org/wiki/Curcuma_longa). La cúrcuma es soluble en alcohol, pero no en agua.
 La cúrcuma presenta un compuesto químico, la [**curcumina**](https://es.wikipedia.org/wiki/Curcumina), que es sensible al pH. En soluciones **ácidas** y **neutras**, la curcumina se vuelve amarilla, mientras que en soluciones **alcalinas** (básicas), la curcumina se vuelve marrón.
 
+{{< figure src="curcumina.svg" caption="[Tautomería ceto-enol](https://es.wikipedia.org/wiki/Tautómero#La_tautomería_ceto-enol) de la curcumina. Adaptada de https://commons.wikimedia.org/wiki/File:Curcumin_tautomerism.svg." lightbox="false" width="100%" >}}
+
+{{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
 <figure>
 {{% 3Dmol data_cid="969516" %}}
 <figcaption>Estructura <em>ceto</em> (medio ácido) de la molécula de <strong>curcumina</strong>, cuya fórmula química es C<sub>21</sub>H<sub>20</sub>O<sub>6</sub>.</figcaption>
@@ -78,6 +81,7 @@ La cúrcuma presenta un compuesto químico, la [**curcumina**](https://es.wikipe
 {{% 3Dmol data_href="curcumina-enol.mol" %}}
 <figcaption>Estructura <em>enol</em> (medio básico) de la molécula de <strong>curcumina</strong>, cuya fórmula química es C<sub>21</sub>H<sub>20</sub>O<sub>6</sub>.</figcaption>
 </figure>
+{{< /spoiler >}}
 
 ## Procedimiento
 
