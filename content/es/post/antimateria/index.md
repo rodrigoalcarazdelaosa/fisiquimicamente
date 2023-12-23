@@ -34,7 +34,7 @@ Hoy queremos hablar de esa materia que *aparece* como conclusión inevitable de 
 
 Retrocedamos un poco en el tiempo, al año 1928, cuando [**Paul Dirac**](https://es.wikipedia.org/wiki/Paul_Dirac) intentaba encontrar una ecuación que combinase la [**mecánica cuántica**](https://es.wikipedia.org/wiki/Mecánica_cuántica) con la [**relatividad especial**](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_relatividad_especial) para poder describir el movimiento de los electrones a velocidades próximas a las de la luz. El resultado fue la famosa [**ecuación de Dirac**](https://es.wikipedia.org/wiki/Ecuación_de_Dirac)[^1]:
 
-[^1]: La ecuación de Dirac es una de las 16 ecuaciones, que según el [Perimeter Institute](https://perimeterinstitute.ca) de Canada, [definen la Física](https://fisiquimicamente.com/blog/2022/04/09/frenesi-de-la-fisica-la-batalla-de-las-ecuaciones/).
+[^1]: La ecuación de Dirac es una de las 16 ecuaciones que, según el [Perimeter Institute](https://perimeterinstitute.ca) de Canada, [definen la Física](https://fisiquimicamente.com/blog/2022/04/09/frenesi-de-la-fisica-la-batalla-de-las-ecuaciones/).
 
 $$
 i\hbar\gamma^\mu\partial_\mu\psi-mc\psi = 0
