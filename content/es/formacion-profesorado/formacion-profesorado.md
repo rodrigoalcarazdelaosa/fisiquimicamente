@@ -19,7 +19,7 @@ subtitle = ""
   icon_link = "master"
   icon_pack = "tgs"
   name = "[Máster](master)"
-  description = "[📚 Currículum](master/curriculum) · 📖 Aprendizaje · 💼 Proyectos"
+  description = "[📚 Currículum](master/curriculum) · 📖 Aprendizaje · [💼 Proyectos](master/proyectos)"
   
 [[feature]]
   icon = "oposiciones"

@@ -919,7 +919,26 @@
 			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado/master">🎓 Máster</a></li>
 	        <li class="breadcrumb-item active" aria-current="page">📚 Currículum</li>
 	    </ol>
-	    </nav>				
+	    </nav>	
+		{{ else if and (eq $block_type "portfolio") (eq $block.Title  "💼 Proyectos") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">      
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>			
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado">🧑‍🏫 Formación del profesorado</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado/master">🎓 Máster</a></li>
+	        <li class="breadcrumb-item active" aria-current="page">💼 Proyectos</li>
+	    </ol>
+	    </nav>						
     {{ else if and (eq $block_type "features") (eq $block.Title  "📝 Oposiciones") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">      
