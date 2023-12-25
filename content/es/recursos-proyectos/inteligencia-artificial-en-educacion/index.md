@@ -5,7 +5,7 @@ summary: "Ideas y recursos para la integración de la inteligencia artificial en
 tags:
 - IA
 categories:
-weight: 5
+weight: 20
 
 image:
   preview_only: true

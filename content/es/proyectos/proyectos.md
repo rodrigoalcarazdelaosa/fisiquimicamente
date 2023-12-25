@@ -25,6 +25,9 @@ subtitle = "Recursos para la asignatura [***Proyectos y Propuestas de Innovació
     name = "Todos"
     tag = "*"
   [[content.filter_button]]
+    name = "Simulaciones"
+    tag = "simulaciones"
+  [[content.filter_button]]
     name = "IA"
     tag = "IA"
 
