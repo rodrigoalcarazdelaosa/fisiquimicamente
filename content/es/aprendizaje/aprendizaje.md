@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "💼 Proyectos"
-subtitle = "Recursos para la asignatura [***Proyectos y Propuestas de Innovación Curricular en Física y Química, y en Tecnología***](https://web.unican.es/centros/educacion/estudios/detalle-asignatura?c=977&pi=75&a=2023)"
+title = "📖 Aprendizaje"
+subtitle = "Recursos para la asignatura [***Aprendizaje y Enseñanza de las Materias de Física y Química, y de Tecnología***](https://web.unican.es/centros/educacion/estudios/detalle-asignatura?c=932&pi=75&a=2023)"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "recursos-proyectos"
+  page_type = "recursos-aprendizaje"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -24,12 +24,6 @@ subtitle = "Recursos para la asignatura [***Proyectos y Propuestas de Innovació
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
-  [[content.filter_button]]
-    name = "Simulaciones"
-    tag = "simulaciones"
-  [[content.filter_button]]
-    name = "IA"
-    tag = "IA"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

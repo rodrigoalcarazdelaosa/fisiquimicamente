@@ -23,9 +23,9 @@ subtitle = "Recursos para el [Máster Universitario en Formación del Profesorad
   
 [[feature]]
   icon = "historia-ciencia"
-  icon_link = ""
+  icon_link = "aprendizaje"
   icon_pack = "tgs"
-  name = "Aprendizaje"
+  name = "[Aprendizaje](aprendizaje)"
   description = "`EN CONSTRUCCIÓN`"
   
 [[feature]]
