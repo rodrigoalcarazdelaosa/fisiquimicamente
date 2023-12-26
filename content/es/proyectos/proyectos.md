@@ -75,7 +75,3 @@ subtitle = "Recursos para la asignatura [***Proyectos y Propuestas de Innovació
  # CSS class.
  css_class = ""
 +++
-
-{{% callout construction %}}
-En construcción...
-{{% /callout %}}

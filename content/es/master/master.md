@@ -33,7 +33,7 @@ subtitle = "Recursos para el [Máster Universitario en Formación del Profesorad
   icon_link = "proyectos"
   icon_pack = "tgs"
   name = "[Proyectos](proyectos)"
-  description = "`EN CONSTRUCCIÓN`"
+  description = ""
   
 [design]
   columns = "3"
