@@ -24,6 +24,12 @@ subtitle = "Recursos para la asignatura [***Aprendizaje y Enseñanza de las Mate
   [[content.filter_button]]
     name = "Todos"
     tag = "*"
+  [[content.filter_button]]
+    name = "Metodología"
+    tag = "metodología"
+  [[content.filter_button]]
+    name = "Evaluación"
+    tag = "evaluación"    
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -34,7 +40,7 @@ subtitle = "Recursos para la asignatura [***Aprendizaje y Enseñanza de las Mate
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = "masonry"
+  view = "community/masonry-lottie"
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

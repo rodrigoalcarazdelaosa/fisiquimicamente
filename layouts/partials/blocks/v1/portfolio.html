@@ -62,7 +62,7 @@
     {{ end }}
   {{ end }}
 
-  <div class="{{ if or $block.Params.content.filter_button (in (slice "masonry" "community/masonry-historia-ciencia" 3) $view) }}isotope projects-container{{end}} {{if in (slice "masonry" "community/masonry-historia-ciencia" 3) $view}}js-layout-masonry{{else}}row js-layout-row{{end}} {{ if eq $view "showcase" }}project-showcase{{end}}">
+  <div class="{{ if or $block.Params.content.filter_button (in (slice "masonry" "community/masonry-historia-ciencia" "community/masonry-lottie" 3) $view) }}isotope projects-container{{end}} {{if in (slice "masonry" "community/masonry-historia-ciencia" "community/masonry-lottie" 3) $view}}js-layout-masonry{{else}}row js-layout-row{{end}} {{ if eq $view "showcase" }}project-showcase{{end}}">
 
     {{/* Query */}}
     {{ $query := site.Pages }}
@@ -94,7 +94,7 @@
 
     {{ range $index, $item := $query }}
       {{ $js_tag_classes := delimit (apply (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") "lower" ".") " " }}
-        {{ if in (slice "masonry" "community/masonry-historia-ciencia" 3) $view }}
+        {{ if in (slice "masonry" "community/masonry-historia-ciencia" "community/masonry-lottie" 3) $view }}
           <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
         {{else}}
           <div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
