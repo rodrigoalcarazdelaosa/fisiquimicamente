@@ -40,7 +40,7 @@ subtitle = "Recursos para la asignatura [***Proyectos y Propuestas de Innovació
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = "masonry"
+  view = "community/masonry-lottie"
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
