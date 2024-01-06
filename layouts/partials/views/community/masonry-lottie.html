@@ -22,7 +22,7 @@
 
 <div class="card">
   {{ with $featured_tgs }}  
-  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay" style="min-height: 400px">    
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay" style="min-height: 350px">    
     <tgs-player autoplay loop mode="normal" src="{{ $featured_tgs.RelPermalink }}" style="width: 100%; height: 100%" class="img-responsive" loading="lazy"></tgs-player>
   </a>
   {{ end }}
