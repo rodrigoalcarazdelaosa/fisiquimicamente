@@ -32,6 +32,10 @@ links:
   icon: 
   name: 📜 Pòster
   url: quimica-organica-poster.pdf
+- icon_pack: fas
+  icon:
+  name: ✏️ Exercicis
+  url: quimica-organica-exercicis.pdf
 
 slides: quimica-organica-2Batx-quimica
 
