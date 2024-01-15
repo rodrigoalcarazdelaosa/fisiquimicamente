@@ -294,7 +294,7 @@ La forma de cadira és més estable, però la diferència d'estabilitat entre le
 
 #### Isomeria òptica
 
-La isomeria òptica es presenta quan un compost no és superponible amb la seva imatge especular, i en aquest cas es diu que són **enantiòmers**. Perquè això ocorri, la molècula ha de posseir almenys un carboni amb **hibridació sp<sup>3</sup>** i **quiral**.
+La isomeria òptica es presenta quan un compost no és superponible amb la seva imatge especular, i en aquest cas es diu que són **enantiòmers**. Perquè això ocorri, la molècula ha de posseir almenys un carboni **quiral**.
 
 ---
 

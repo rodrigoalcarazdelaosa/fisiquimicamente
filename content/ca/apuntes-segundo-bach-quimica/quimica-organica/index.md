@@ -232,7 +232,7 @@ Com hauràs estudiat en Biologia, [els anells de 6 membres poden adoptar dues di
 
 #### Isomeria òptica
 
-La isomeria òptica es presenta quan un compost no és superponible amb la seva imatge especular, i en aquest cas es diu que són **enantiòmers**. Perquè això ocorri, la molècula ha de posseir almenys un carboni amb **hibridació sp<sup>3</sup>** i **quiral**. Un carboni quiral és un carboni que té 4 substituents diferents:
+La isomeria òptica es presenta quan un compost no és superponible amb la seva imatge especular, i en aquest cas es diu que són **enantiòmers**. Perquè això ocorri, la molècula ha de posseir almenys un carboni **quiral**. Un carboni quiral és un carboni que té 4 substituents diferents:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/quiralidad.svg" title="L'àtom de carboni negre és un centre quiral perquè té quatre substituents diferents, un àtom de clor (Cl), un àtom d'hidrogen (H), un àtom de fluor (F) i un àtom de brom (Br). Les dues estructures són imatges especulars l'una de l'altra que no poden superposar-se. Adaptada de https://www.coursehero.com/sg/general-chemistry/chirality/." lightbox="false" width="100%" >}}
 
