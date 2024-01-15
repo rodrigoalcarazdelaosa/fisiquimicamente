@@ -1,7 +1,7 @@
 ---
-title: Evaluar para aprender, evaluar para calificar
-subtitle: La evaluación desde un enfoque formativo
-summary: "La evaluación desde un enfoque formativo."
+title: Evaluación formativa
+subtitle: Evaluar para aprender, evaluar para calificar. La evaluación desde un enfoque formativo
+summary: "Evaluar para aprender, evaluar para calificar. La evaluación desde un enfoque formativo."
 tags:
 - evaluación
 categories:

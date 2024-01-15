@@ -1,5 +1,5 @@
 ---
-title: Evaluar para aprender, evaluar para calificar
+title: Evaluación formativa
 url: "recursos-fisica-quimica/formacion-profesorado/master/aprendizaje/evaluacion-formativa"
 
 slides:
@@ -13,11 +13,15 @@ slides:
     hash: true
 ---
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"></script>
+
 <section data-background-image="/media/logo-diapositivas.svg, logo-uc.svg" data-background-size="10%, 10%" data-background-position="3.629% 5%, 96.371% 5%">
 
-# Evaluar para aprender, evaluar para calificar
+<div align="center">
+{{% lottie src="featured.tgs" width="30%" %}}
+</div>
 
-## La evaluación desde un enfoque formativo
+# Evaluación formativa
 
 María del Carmen García Alonso
 
