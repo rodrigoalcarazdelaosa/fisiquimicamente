@@ -173,7 +173,7 @@ L'1,1–dicloroetè no pot presentar isomeria *cis-trans*:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroete.svg" lightbox="false" width="50%" theme="light" >}}
 
-{{< spoiler text="Punxa aquí per a **interactuar** amb aquestes **molècules** en  **3D**" >}}
+{{< spoiler text="Punxa aquí per a **interactuar** amb aquesta **molècula** en **3D**" >}}
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/11-dicloroeteno.mol" %}}
 {{< /spoiler >}}
 
