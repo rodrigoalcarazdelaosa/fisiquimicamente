@@ -29,6 +29,10 @@ links:
   icon:
   name: 📜 Pòster
   url: equilibri-quimic-poster.pdf
+- icon_pack: fas
+  icon:
+  name: ✏️ Exercicis
+  url: equilibri-quimic-exercicis.pdf
 
 slides: equilibri-quimic-2Batx-quimica
 
