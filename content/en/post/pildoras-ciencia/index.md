@@ -17,11 +17,7 @@ image:
   caption: "https://twitter.com/fqsaja1/status/1268079331424731136"
 ---
 
-The [Department of Physics and Chemistry of IES Valle del Saja](http://www.fqsaja.com) recently delighted us with an excellent thread 🧵 about "*10 things you can do, study or reflect on in the classroom*":
-
-<div align="center">
-{{< tweet user="fqsaja1" id="1280438568318574592" >}}
-</div>
+The [Department of Physics and Chemistry of IES Valle del Saja](http://www.fqsaja.com) recently delighted us with [an excellent thread 🧵 about "*10 things you can do, study or reflect on in the classroom*"](https://twitter.com/fqsaja1/status/1280438568318574592).
 
 {{% toc %}}
 
@@ -45,7 +41,7 @@ More information [here](https://www.usgs.gov/media/images/what-minerals-produce-
 ## 4. Golden Rain
 > Some precipitates are so spectacular that they almost turn them into works of art.
 
-{{< vimeo 690917256 >}}
+{{< vimeo 584055823 >}}
 
 ## 5. Spectra in Discharge Tubes
 > Another search for color and for deciphering the bar codes hidden in each radiation.

@@ -17,11 +17,7 @@ image:
   caption: "https://twitter.com/fqsaja1/status/1268079331424731136"
 ---
 
-El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos deleitaba recientemente con un magnífico hilo 🧵 sobre "*10 cosas que puedes hacer, estudiar o reflexionar en el aula*":
-
-<div align="center">
-{{< tweet user="fqsaja1" id="1280438568318574592" >}}
-</div>
+El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos deleitaba recientemente con [un magnífico hilo 🧵 sobre "*10 cosas que puedes hacer, estudiar o reflexionar en el aula*"](https://twitter.com/fqsaja1/status/1280438568318574592).
 
 {{% toc %}}
 
@@ -53,7 +49,7 @@ Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-nitrato-
 ## 4. Lluvia de oro
 > Algunos precipitados son de una espectacularidad tal que lo convierten casi en obras de arte.
 
-{{< vimeo 690917256 >}}
+{{< vimeo 584055823 >}}
 
 {{% callout note %}}
 Más información [aquí](http://www.fqsaja.com/?portfolio_page=pildora-lluvia-de-oro).
