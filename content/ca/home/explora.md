@@ -31,7 +31,7 @@ subtitle = ""
 [[feature]]
   icon = "enlaces-interes"
   icon_link = "recursos-online/"
-  icon_pack = "lottie"
+  icon_pack = "tgs"
   name = "[Recursos online](recursos-online/)"
   description = ""
   
