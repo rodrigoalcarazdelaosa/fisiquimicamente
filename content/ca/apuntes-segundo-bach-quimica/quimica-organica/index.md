@@ -240,7 +240,7 @@ La isomeria òptica es presenta quan un compost no és superponible amb la seva 
 Compte perquè pot ocórrer que un compost tingui dos centres quirals i que no presenti isomeria òptica.
 {{% /callout %}}
 
-Aquest és el tipus d'esteroisomeria que presenten molècules essencials per a la vida, com els [aminoàcids](https://es.wikipedia.org/wiki/Aminoácido) i els [monosacàrids](https://es.wikipedia.org/wiki/Monosacárido). Els enantiòmers tenen propietats físiques idèntiques[^3], diferenciant-se únicament en el seu comportament enfront de la llum polaritzada, perquè la desvien de manera diferent. Si el pla de la llum polaritzada es desvia a la dreta són substàncies *dextrògires* i si es desvia a l'esquerra, *levògires*:
+Aquest és el tipus d'esteroisomeria que presenten molècules essencials per a la vida, com els [aminoàcids](https://es.wikipedia.org/wiki/Aminoácido) i els [monosacàrids](https://es.wikipedia.org/wiki/Monosacárido). Els enantiòmers tenen propietats físiques idèntiques[^3], diferenciant-se únicament en el seu comportament enfront de la llum polaritzada, perquè la desvien de manera diferent (mesurable amb un [polarímetre](https://ca.wikipedia.org/wiki/Polarímetre)). Si el pla de la llum polaritzada es desvia a la dreta són substàncies *dextrògires* i si es desvia a l'esquerra, *levògires*:
 
 [^3]: La qual cosa no significa que la seva reactivitat sigui igual. Especialment sonada va ser l'anomenada [***catàstrofe** de la **talidomida***](https://www.medigraphic.com/pdfs/cutanea/mc-2018/mc183r.pdf).
 

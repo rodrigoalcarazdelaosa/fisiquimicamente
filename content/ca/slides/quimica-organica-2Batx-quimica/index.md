@@ -312,7 +312,7 @@ Aquest és el tipus d'esteroisomeria que presenten molècules essencials per a l
 
 ---
 
-Els enantiòmers tenen propietats físiques idèntiques, diferenciant-se únicament en el seu comportament enfront de la llum polaritzada, perquè la desvien de manera diferent.
+Els enantiòmers tenen propietats físiques idèntiques, diferenciant-se únicament en el seu comportament enfront de la llum polaritzada, perquè la desvien de manera diferent (mesurable amb un [polarímetre](https://ca.wikipedia.org/wiki/Polarímetre)).
 
 ---
 
