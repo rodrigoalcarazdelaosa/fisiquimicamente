@@ -242,7 +242,7 @@ Compte perquè pot ocórrer que un compost tingui dos centres quirals i que no p
 
 Aquest és el tipus d'esteroisomeria que presenten molècules essencials per a la vida, com els [aminoàcids](https://es.wikipedia.org/wiki/Aminoácido) i els [monosacàrids](https://es.wikipedia.org/wiki/Monosacárido). Els enantiòmers tenen propietats físiques idèntiques[^3], diferenciant-se únicament en el seu comportament enfront de la llum polaritzada, perquè la desvien de manera diferent (mesurable amb un [polarímetre](https://ca.wikipedia.org/wiki/Polarímetre)). Si el pla de la llum polaritzada es desvia a la dreta són substàncies *dextrògires* i si es desvia a l'esquerra, *levògires*:
 
-[^3]: La qual cosa no significa que la seva reactivitat sigui igual. Especialment sonada va ser l'anomenada [***catàstrofe** de la **talidomida***](https://www.medigraphic.com/pdfs/cutanea/mc-2018/mc183r.pdf).
+[^3]: La qual cosa no significa que la seva reactivitat sigui igual. Especialment sonada va ser l'anomenada [***catàstrofe** de la **talidomida***](https://publicacions.iec.cat/repository/pdf/00000173/00000015.pdf).
 
 {{< spoiler text="Punx aquí per veure **animacions** d'**ones electromagnètiques circularment polaritzades**" >}}
 {{< figure library="false" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif" title="Una ona circularment polaritzada cap a la dreta des del punt de vista de l'observador. Font: https://commons.wikimedia.org/wiki/File:Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif." lightbox="true" >}}
