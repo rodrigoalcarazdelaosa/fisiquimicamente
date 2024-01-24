@@ -8,6 +8,7 @@ authors:
 - alba-lopez-valenzuela
 - rodrigo-alcaraz-de-la-osa
 - oscar-colomar
+- eduard-cremades
 tags:
 - apunts
 - 2n Batx
