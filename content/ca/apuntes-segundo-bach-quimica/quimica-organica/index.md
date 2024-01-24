@@ -30,8 +30,12 @@ image:
 links:
 - icon_pack: fas
   icon: 
-  name: 📜 Pòster
+  name: 📜 Pòster isomeria i reactivitat
   url: quimica-organica-poster.pdf
+- icon_pack: fas
+  icon: 
+  name: 📜 Pòster polímers
+  url: polimers-poster.pdf
 - icon_pack: fas
   icon:
   name: ✏️ Exercicis
