@@ -1,11 +1,12 @@
 ---
 title: Tipos de plásticos
-subtitle: Principales propiedades y usos de los seis plásticos básicos
-summary: "Principales propiedades y usos de los seis plásticos básicos."
+subtitle: Principales propiedades y usos de los plásticos básicos
+summary: "Principales propiedades y usos de los plásticos básicos."
 breadcrumbs: ["blog"]
 date: "2022-12-01T00:00:00+01:00"
 authors:
 - rodrigo-alcaraz-de-la-osa
+- eduard-cremades
 tags:
 - blog
 - plásticos
@@ -16,6 +17,8 @@ tags:
 - LDPE
 - PP
 - PS
+- PA
+- nailon
 - orgánica
 categories:
 - Química
@@ -33,7 +36,7 @@ quizdown: true
 ---
 
 {{% callout note %}}
-En esta entrada analizamos las principales **propiedades** y **usos** de los seis **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés), en contraposición a los conocidos como [**plásticos** de **ingeniería**](https://es.wikipedia.org/wiki/Plásticos_de_ingenier%C3%ADa) o [**plásticos** de **alto rendimiento**](https://en.wikipedia.org/wiki/High-performance_plastics).
+En esta entrada analizamos las principales **propiedades** y **usos** de los **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés), en contraposición a los conocidos como [**plásticos** de **ingeniería**](https://es.wikipedia.org/wiki/Plásticos_de_ingenier%C3%ADa) o [**plásticos** de **alto rendimiento**](https://en.wikipedia.org/wiki/High-performance_plastics).
 
 Tras leer la entrada, te animamos a que intentes responder las preguntas que encontrarás en el [**cuestionario autocorregible**](#cuestionario-autocorregible).
 {{% /callout %}}
@@ -50,7 +53,7 @@ El [**tereftalato de polietileno**](https://es.wikipedia.org/wiki/Tereftalato_de
 #### Fórmula molecular
 El PET está formado por unidades de (C<sub>10</sub>H<sub>8</sub>O<sub>4</sub>) repetidas:
 
-{{< figure src="PET.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-etapas-cat.svg" title="Los poliésteres son polímeros de condensación que se obtienen a partir de dioles y ácidos dicarboxílicos, que dan lugar a los grupos éster característicos del polímero." lightbox="false" width="100%" theme="light" >}}
 
 #### Propiedades
 
@@ -74,7 +77,7 @@ Actualmente solo las **botellas** de PET [**se reciclan**](https://es.wikipedia.
 [^1]: La mayor parte se recicla de nuevo en botellas, el resto se destina a fibras, películas, envases termoformados y [flejes](https://es.wikipedia.org/wiki/Fleje).
 
 ## &#x2674; HDPE
-El [**polietileno de alta densidad**](https://es.wikipedia.org/wiki/Polietileno_de_alta_densidad) (HDPE o PE-HD, por sus siglas en inglés) es un [**polímero**](https://es.wikipedia.org/wiki/Pol%C3%ADmero) [**termoplástico**](https://es.wikipedia.org/wiki/Termoplástico) producido a partir del monómero [**etileno**](https://es.wikipedia.org/wiki/Etileno).
+El [**polietileno de alta densidad**](https://es.wikipedia.org/wiki/Polietileno_de_alta_densidad) (HDPE o PE-HD, por sus siglas en inglés) es un [**polímero**](https://es.wikipedia.org/wiki/Pol%C3%ADmero) [**termoplástico**](https://es.wikipedia.org/wiki/Termoplástico) producido a partir del monómero [**etileno** o **eteno**](https://es.wikipedia.org/wiki/Etileno) (CH<sub>2</sub>=CH<sub>2</sub>).
 
 #### Fórmula molecular
 El HDPE está formado por unidades de (CH<sub>2</sub>–CH<sub>2</sub>) repetidas:
@@ -101,7 +104,7 @@ El HDPE se suele **reciclar**, siendo el &#x2674; su [**código de identificaci�
 
 ## &#x2675; PVC
 
-El [**cloruro de polivinilo**](https://es.wikipedia.org/wiki/Policloruro_de_vinilo) (PVC o V, por sus siglas en inglés) es el tercer [**polímero**](https://es.wikipedia.org/wiki/Pol%C3%ADmero) sintético de [**plástico**](https://es.wikipedia.org/wiki/Plástico) más producido en el mundo (después del [polietileno](https://es.wikipedia.org/wiki/Polietileno) y el [polipropileno](#x2677-pp)).
+El [**cloruro de polivinilo**](https://es.wikipedia.org/wiki/Policloruro_de_vinilo) (PVC o V, por sus siglas en inglés) es el tercer [**polímero**](https://es.wikipedia.org/wiki/Pol%C3%ADmero) sintético de [**plástico**](https://es.wikipedia.org/wiki/Plástico) más producido en el mundo (después del [polietileno](https://es.wikipedia.org/wiki/Polietileno) y el [polipropileno](#x2677-pp)). Se obtiene a partir de monómero [**cloruro de vinilo**](https://es.wikipedia.org/wiki/Cloruro_de_vinilo) (H<sub>2</sub>C=CHCl).
 
 #### Fórmula molecular
 El PVC está formado por unidades de (C<sub>2</sub>H<sub>3</sub>Cl) repetidas:
@@ -138,7 +141,7 @@ Un problema importante en el reciclaje del PVC es el alto contenido de cloro (57
 
 ## &#x2676; LDPE
 
-El [**polietileno de baja densidad**](https://es.wikipedia.org/wiki/Polietileno_de_baja_densidad) (LDPE o PE-LD, por sus siglas en inglés) es un [**polímero**](https://es.wikipedia.org/wiki/Pol%C3%ADmero) [**termoplástico**](https://es.wikipedia.org/wiki/Termoplástico) producido a partir del monómero [**etileno**](https://es.wikipedia.org/wiki/Etileno). Fue el primer grado del [**polietileno**](https://es.wikipedia.org/wiki/Polietileno), producido en 1933, aunque continúa siendo un plástico importante a pesar de la competencia de polímeros más modernos.
+El [**polietileno de baja densidad**](https://es.wikipedia.org/wiki/Polietileno_de_baja_densidad) (LDPE o PE-LD, por sus siglas en inglés) es un [**polímero**](https://es.wikipedia.org/wiki/Pol%C3%ADmero) [**termoplástico**](https://es.wikipedia.org/wiki/Termoplástico) producido a partir del monómero [**etileno** o **eteno**](https://es.wikipedia.org/wiki/Etileno) (CH<sub>2</sub>=CH<sub>2</sub>). Fue el primer grado del [**polietileno**](https://es.wikipedia.org/wiki/Polietileno), producido en 1933, aunque continúa siendo un plástico importante a pesar de la competencia de polímeros más modernos.
 
 #### Fórmula molecular
 El LDPE está formado por unidades de (CH<sub>2</sub>–CH<sub>2</sub>) repetidas:
@@ -164,7 +167,7 @@ El LDPE se puede **reciclar**[^4], siendo el &#x2676; su [**código de identific
 
 ## &#x2677; PP
 
-El [**polipropileno**](https://es.wikipedia.org/wiki/Polipropileno) (PP, por sus siglas en inglés) es el segundo [**polímero**](https://es.wikipedia.org/wiki/Pol%C3%ADmero) más producido en el mundo (después del [polietileno](https://es.wikipedia.org/wiki/Polietileno)).
+El [**polipropileno**](https://es.wikipedia.org/wiki/Polipropileno) (PP, por sus siglas en inglés) es el segundo [**polímero**](https://es.wikipedia.org/wiki/Pol%C3%ADmero) más producido en el mundo (después del [polietileno](https://es.wikipedia.org/wiki/Polietileno)). Se obtiene a partir del monómero [**propileno** o **propeno**](https://es.wikipedia.org/wiki/Propileno) (H<sub>2</sub>C=CH–CH<sub>3</sub>).
 
 #### Fórmula molecular
 El PP está formado por unidades de (CH<sub>3</sub>CH–CH<sub>2</sub>) repetidas:
@@ -205,7 +208,7 @@ El [**poliestireno**](https://es.wikipedia.org/wiki/Poliestireno) (PS, por sus s
 #### Fórmula molecular
 El PS está formado por unidades de (C<sub>8</sub>H<sub>8</sub>) repetidas:
 
-{{< figure src="PS.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure src="PS-polimerizacion.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Propiedades
 
@@ -225,6 +228,32 @@ Entre sus usos se encuentran **embalajes** de **protección**, **contenedores**,
 
 #### ♻️ Reciclaje
 La **mayoría** de los productos de poliestireno **no se reciclan** actualmente debido a la falta de incentivos para invertir en las compactadoras y los sistemas logísticos necesarios. El &#x2678; es su [**código de identificación de resina**](https://es.wikipedia.org/wiki/Código_identificador_de_resina) (RIC por sus siglas en inglés, ver nota al final de la entrada).
+
+## &#9849; PA
+
+Las [**poliamidas**](https://es.wikipedia.org/wiki/Poliamida) (PA, por sus siglas en inglès) agrupan todos aquellos **polímeros** [**termoplásticos**](https://es.wikipedia.org/wiki/Termoplástico) que contienen un enlace tipo [amida](https://es.wikipedia.org/wiki/Amida), como por ejemplo el [**nailon**](https://es.wikipedia.org/wiki/Nailon) o el [**kevlar**](https://es.wikipedia.org/wiki/Kevlar).
+
+#### Fórmula molecular
+		
+En el caso del [**nailon 66**](https://es.wikipedia.org/wiki/Nylon_6,6) (o simplemente **nailon**) este se obtiene por la policondensación del [**ácido adípico**](https://es.wikipedia.org/wiki/Ácido_adípico) y la [**hexametilendiamina**](https://es.wikipedia.org/wiki/1,6-hexanodiamina), dos monómeros cada uno de 6 carbonos:
+
+{{< figure src="nailon66.svg" title="Obtención del **nailon 66** a partir de la policondensación de sus monómeros: el **ácido adípico** y la **hexametilendiamina**. Adaptada de https://commons.wikimedia.org/wiki/File:Nylon66.svg." lightbox="false" width="100%" theme="light" >}}
+
+#### Propiedades
+
+- **Buena resistencia mecánica**, dureza, rigidez y tenacidad. Es ligero.
+- **Buena resistencia química**: es estable frente a aceites, grasas, combustibles y disolventes. Absorbe poco la humedad.
+- **Buena resistencia a la temperatura**, al desgaste y alta tasa de recuperación elástica.        
+
+#### Usos principales
+- **Su alta resistencia mecánica** hace que sea ideal para componentes de automóviles y maquinaria industrial.
+- **Su alta resistencia química** hace que sea útil para industrias donde es común la exposición a substancias químicas corrosivas como la industria de la automoción, la química o la relacionada con el petróleo y gas.
+- **Su resistencia a la temperatura** y su poca absorción de la humedad hace que se utilize para hacer piezas de motor, conectores eléctricos y utensilios de cocina o de lavabo.
+- **Su resistencia al desgaste** hace que se use en la industria téxtil para hacer mochilas, equipaje y piezas de trabajo y deporte resistentes. También en material de uso médico.        
+
+#### ♻️ Reciclaje
+
+Las **poliamidas** son reciclables, pero desgraciadamente solo se reciclan esas que se encuentran en forma de fibra téxtil y en este caso, de todas las fibras sintéticas, estas solo son un 5&thinsp;%. Es por esto que en 2019 de todas las **poliamidas** sintetizadas (5,58 millones de toneladas) solo un 2&thinsp;% provinieron de su reciclaje.
 
 {{% callout note %}}
 Tras la revisión de 2013 del [estándar ASTM D7611/D7611M-21](https://www.astm.org/d7611_d7611m-21.html), las flechas que forman el [símbolo de reciclaje](https://es.wikipedia.org/wiki/S%C3%ADmbolo_del_reciclaje) universal han sido reemplazadas por un triángulo equilátero, para evitar confusiones sobre su reciclabilidad.
