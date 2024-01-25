@@ -702,7 +702,7 @@ Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados
 
 ---
 
-> En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los seis **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
+> En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
 
 ---
 
