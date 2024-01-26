@@ -53,7 +53,7 @@ El [**tereftalato de polietileno**](https://es.wikipedia.org/wiki/Tereftalato_de
 #### Fórmula molecular
 El PET está formado por unidades de (C<sub>10</sub>H<sub>8</sub>O<sub>4</sub>) repetidas:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-etapas-cat.svg" title="Los poliésteres son polímeros de condensación que se obtienen a partir de dioles y ácidos dicarboxílicos, que dan lugar a los grupos éster característicos del polímero." lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-etapas.svg" title="Los poliésteres son polímeros de condensación que se obtienen a partir de dioles y ácidos dicarboxílicos, que dan lugar a los grupos éster característicos del polímero." lightbox="false" width="100%" theme="light" >}}
 
 #### Propiedades
 
