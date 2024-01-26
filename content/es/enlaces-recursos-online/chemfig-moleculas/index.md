@@ -10,7 +10,7 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.overleaf.com/read/jgvfsvdnfgcs
+external_link: https://www.overleaf.com/read/jgvfsvdnfgcs#18f632
 
 image:
   caption: https://www.ctan.org/pkg/chemfig
