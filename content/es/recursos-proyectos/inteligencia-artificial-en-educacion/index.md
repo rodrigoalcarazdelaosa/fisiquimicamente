@@ -1,11 +1,11 @@
 ---
 title: Inteligencia artificial en educación
-subtitle: Ideas y recursos para la integración de la inteligencia artificial en la educación
-summary: "Ideas y recursos para la integración de la inteligencia artificial en la educación."
+subtitle: REA del Proyecto EDIA con ideas y recursos para la integración de la inteligencia artificial en la educación
+summary: "REA del Proyecto EDIA con ideas y recursos para la integración de la inteligencia artificial en la educación."
 tags:
 - IA
 categories:
-weight: 20
+weight: 30
 
 image:
   preview_only: true
