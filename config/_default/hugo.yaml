@@ -55,6 +55,21 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:    
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - \[
+              - \]
+            - - $$
+              - $$
+          inline:
+            - - \(
+              - \)
+            - - $
+              - $
   highlight:
     lineNos: false
 related:
