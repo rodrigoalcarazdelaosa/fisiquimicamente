@@ -1,7 +1,8 @@
 ---
 title: Enseñando ciencia con ciencia
 subtitle: Una guía docente de la ciencia desde la ciencia
-summary: "Una guía docente de la ciencia desde la ciencia. Enlace al **manual** realizado por **FECYT** en colaboración con la **Fundación Lilly**."
+summary: "Una guía docente de la ciencia desde la ciencia. **Manual** realizado por **FECYT** en colaboración con la **Fundación Lilly**."
+url: recursos-fisica-quimica/formacion-profesorado/master/aprendizaje/
 tags:
 - metodología
 categories:
@@ -14,5 +15,5 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.fecyt.es/es/system/files/publications/attachments/2020/11/ensenando-ciencia-con-ciencia-web.pdf"
+external_link: "ensenando-ciencia-con-ciencia.pdf"
 ---
