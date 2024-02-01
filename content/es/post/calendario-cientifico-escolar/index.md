@@ -3,7 +3,7 @@ title: Calendario Científico Escolar
 subtitle: 365 efemérides de aniversarios científicos y tecnológicos
 summary: 365 efemérides de aniversarios científicos y tecnológicos.
 breadcrumbs: ["blog"]
-date: "2023-01-10T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -18,40 +18,30 @@ image:
 links:
 - icon_pack: fas
   icon:
-  name: 🗓️ Versión A4
-  url: https://digital.csic.es/bitstream/10261/285100/3/2023-CAS-Calendario-impresion-A4.pdf
+  name: 🗓️ Formato PDF
+  url: https://digital.csic.es/bitstream/10261/341343/7/Calendario%20Científico%20Escolar%202024.pdf
 - icon_pack: fas
   icon:
-  name: 🗓️ Versión A3
-  url: https://digital.csic.es/bitstream/10261/285100/4/2023-CAS-Calendario-impresion-A3-folleto.pdf
-- icon_pack: fas
-  icon:
-  name: ♿ Versión accesible
-  url: https://digital.csic.es/bitstream/10261/285100/6/2023-CAS-Calendario-formato-accesible.docx
-- icon_pack: fas
-  icon:
-  name: 🔗 Versión online
-  url: https://calendario-cientifico-escolar.gitlab.io/es/es/index.html
+  name: ♿ Formato accesible
+  url: https://digital.csic.es/bitstream/10261/341343/8/Formato%20accesible_CAS.docx
 - icon_pack: fas
   icon:
   name: 📅 iCal
-  url: https://digital.csic.es/bitstream/10261/285100/7/2023-CAS-Calendario-online.ical
+  url: https://digital.csic.es/bitstream/10261/341343/9/castellano.ical
 - icon_pack: fas
   icon:
-  name: 🗒️ Guía didáctica
-  url: https://digital.csic.es/bitstream/10261/285100/5/2023-CAS-Guia-didactica.pdf
+  name: 🗒️ Propuesta de actividades
+  url: https://digital.csic.es/bitstream/10261/341343/6/Propuesta%20de%20actividades%202024.pdf
 ---
 
 El [Instituto de Ganadería de Montaña (IGM)](http://www.igm.ule-csic.es), centro mixto del [Consejo Superior de Investigaciones Científicas (CSIC)](https://www.csic.es/es) y la [Universidad de León](https://www.unileon.es), impulsa este proyecto, con el que se pretende acercar la cultura científica a la población más joven y ofrecer referentes cercanos, diversos y actuales de la ciencia.
 
-El [***Calendario Científico Escolar***](http://www.igm.ule-csic.es/calendario-cientifico) está dirigido principalmente al alumnado de educación primaria y secundaria obligatoria. Cada día se ha recogido un **aniversario científico o tecnológico** como, por ejemplo, nacimientos de personas de estos ámbitos o conmemoraciones de hallazgos destacables.
+El [***Calendario Científico Escolar***](https://eventociencia.es/calendario-cientifico-escolar/) está dirigido principalmente al alumnado de educación primaria y secundaria obligatoria. Cada día se ha recogido un **aniversario científico o tecnológico** como, por ejemplo, nacimientos de personas de estos ámbitos o conmemoraciones de hallazgos destacables.
 
-Además, el calendario se acompaña de una [**guía didáctica**](https://digital.csic.es/bitstream/10261/285100/5/2023-CAS-Guia-didactica.pdf) con orientaciones para su aprovechamiento educativo transversal en las clases, incluyendo actividades adaptadas a cada rango de edad y al alumnado con necesidades especiales.
+Además, el calendario se acompaña de [propuestas con **actividades**](https://digital.csic.es/bitstream/10261/341343/6/Propuesta%20de%20actividades%202024.pdf) adaptables a distintas asignaturas y niveles de educación reglada y no reglada. Cada edición ofrece contenidos renovados y traducidos a varios idiomas.
 
-También puedes suscribirte[^1] al [**calendario online**](https://digital.csic.es/bitstream/10261/285100/7/2023-CAS-Calendario-online.ical) para que los aniversarios aparezcan directamente en tu aplicación de calendario.
-
-[^1]: Aprende [aquí](https://schulichmeds.com/sites/default/files/Documents/Calendar%20Subscription%20Instructions.pdf) cómo suscribirte a un calendario online en distintas plataformas (en inglés).
+También puedes suscribirte al [**calendario online**](https://digital.csic.es/bitstream/10261/341343/9/castellano.ical) para que los aniversarios aparezcan directamente en tu aplicación de calendario.
 
 {{% callout note %}}
-Más información y acceso a ediciones anteriores en la [**página oficial del proyecto**](http://www.igm.ule-csic.es/calendario-cientifico).
+Más información y acceso a ediciones anteriores en la [**página oficial del proyecto**](https://eventociencia.es/calendario-cientifico-escolar/).
 {{% /callout %}}
