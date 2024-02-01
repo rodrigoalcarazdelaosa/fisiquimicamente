@@ -5,7 +5,7 @@ summary: "¿Cómo elaborar una rúbrica?"
 tags:
 - evaluación
 categories:
-weight: 80
+weight: 90
 
 image:
   preview_only: true

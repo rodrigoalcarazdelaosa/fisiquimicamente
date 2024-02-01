@@ -5,7 +5,7 @@ tags:
 - metodología
 - evocación
 categories:
-weight: 60
+weight: 70
 
 image:
   preview_only: true
