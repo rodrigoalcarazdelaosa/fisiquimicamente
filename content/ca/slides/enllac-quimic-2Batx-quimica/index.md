@@ -613,7 +613,7 @@ Els **enllaços** d'**hidrogen** són **responsables** de:
 
 ## Exportar a PDF
 
-📥 Fes clic [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+📥 Fes clic [**aquí**](?view=print#) i segueix aquestes **instruccions**:
 
 1. Obre el diàleg d'**Impressió** (Control-P si ets al Windows).
 2. Canvia la **Destinació** a **Desa com a PDF**.

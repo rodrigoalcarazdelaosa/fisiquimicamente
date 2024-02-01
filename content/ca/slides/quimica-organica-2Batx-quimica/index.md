@@ -775,7 +775,7 @@ Els polièsters són polímers de condensació que s'obtenen a partir de diols i
 
 ## Exportar a PDF
 
-📥 Punxa [**aquí**](?print-pdf#) i segueix aquestes **instruccions**:
+📥 Punxa [**aquí**](?view=print#) i segueix aquestes **instruccions**:
 
 1. Obre el diàleg d'**Impressió** (Control-P si estàs en Windows).
 2. Canvia el **Destí** a **Guardar com PDF**.

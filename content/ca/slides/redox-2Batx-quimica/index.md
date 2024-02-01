@@ -627,7 +627,7 @@ Procés electrolític de *passivació* que s'utilitza per a augmentar el gruix d
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Punxa [**aquí**](?print-pdf#) i sigueix aquestes **instruccions**:
+{{< icon name="download" pack="fas" >}} Punxa [**aquí**](?view=print#) i sigueix aquestes **instruccions**:
 
 1. Obre el diàleg de **Impressió** (Control-P si estàs en Windows).
 2. Canvia el **Destí** a **Guardar com PDF**.

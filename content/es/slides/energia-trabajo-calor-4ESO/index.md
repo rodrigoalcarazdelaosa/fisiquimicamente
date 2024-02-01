@@ -3666,7 +3666,7 @@ El más utilizado es el de **cuatro tiempos** (gasolina), siendo el **ciclo de O
 
 ## Exportar a PDF
 
-📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?view=print#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.

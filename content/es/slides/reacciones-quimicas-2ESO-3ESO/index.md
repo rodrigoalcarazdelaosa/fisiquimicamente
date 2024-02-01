@@ -341,7 +341,7 @@ Aprende más sobre el **efecto invernadero** con esta estupenda **simulación**:
 
 ## Exportar a PDF
 
-📥 Pincha [**aquí**](?print-pdf#) y sigue estas **instrucciones**:
+📥 Pincha [**aquí**](?view=print#) y sigue estas **instrucciones**:
 
 1. Abre el diálogo de **Impresión** (Control-P si estás en Windows).
 2. Cambia el **Destino** a **Guardar como PDF**.
