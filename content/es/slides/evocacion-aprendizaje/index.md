@@ -55,7 +55,7 @@ Héctor Ruiz Martín
 
 ## Cuestionario
 
-Hacer un cuestionario al final de la lección (con [Kahoot!](https://kahoot.com) o tarjetas q los alumnos levantan para responder &mdash;[Plickers](https://get.plickers.com)).
+Hacer un cuestionario al final de la lección (con [Kahoot!](https://kahoot.com) o tarjetas que los alumnos levantan para responder &mdash;[Plickers](https://get.plickers.com)).
 
 ---
 
@@ -107,7 +107,7 @@ Detenerse tras leer unos párrafos de un texto y autoexplicarse lo leído.
 
 ---
 
-Revisar lo q no se recuerde.
+Revisar lo que no se recuerde.
 
 {{% /section %}}
 
@@ -117,7 +117,7 @@ Revisar lo q no se recuerde.
 
 ## *Flashcards*
 
-Crearse *flashcards* con preguntas y respuestas (hay aplicaciones gratuitas q no solo permiten crearlas, sino q te ayudan a administrarlas en función de tu desempeño).
+Crearse *flashcards* con preguntas y respuestas (hay aplicaciones gratuitas que no solo permiten crearlas, sino que te ayudan a administrarlas en función de tu desempeño).
 
 ---
 
