@@ -117,3 +117,7 @@ Este modelo se basa en **tres postulados fundamentales**:
 3. El **electrón** solo **emite** o **absorbe energía** en los **saltos** de una órbita permitida a otra, siendo la energía emitida/absorbida la diferencia de energía entre ambos niveles.
 
 {{< figure library="true" src="modelos-atomicos-4ESO/Bohr.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Bohr_atom_model_English.svg." lightbox="false" width="100%" >}}
+
+{{% callout note %}}
+En [esta **práctica** de **laboratorio**]({{< relref "practicas-cuarto-eso/bengalas-colores" >}}), **{{% mention miguel-quiroga %}}** nos propone **experimentar** haciendo **bengalas** de diferentes **colores** para poder ver las **llamas** de diferentes **metales**.
+{{% /callout %}}

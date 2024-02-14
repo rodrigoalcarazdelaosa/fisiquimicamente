@@ -49,8 +49,6 @@ En este experimento, construiremos un instrumento que nos permita detectar si un
 - Destornillador
 - Adaptador de pila
 
-<iframe src="https://app.Lumi.education/api/v1/run/SglXXg/embed" width="100%" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
-
 ## Fundamento científico
 
 La conductividad eléctrica es la capacidad de una sustancia para transportar la corriente eléctrica. Las sustancias que conducen la corriente eléctrica se denominan [**conductores eléctricos**](https://es.wikipedia.org/wiki/Conductor_eléctrico). Las sustancias que no conducen la corriente eléctrica se denominan [**aislantes eléctricos**](https://es.wikipedia.org/wiki/Aislamiento_eléctrico).

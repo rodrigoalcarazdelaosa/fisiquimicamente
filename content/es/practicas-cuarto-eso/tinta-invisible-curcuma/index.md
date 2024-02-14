@@ -2,7 +2,7 @@
 title: Tinta invisible con cúrcuma
 url: "/recursos-fisica-quimica/practicas-laboratorio/4eso/tinta-invisible-con-curcuma"
 subtitle: ¿Alguna vez has querido escribir un mensaje secreto que solo tú puedas leer? Con la cúrcuma, puedes hacerlo
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>¿Alguna vez has querido escribir un mensaje secreto que solo tú puedas leer? Con la cúrcuma, puedes hacerlo."
+summary: "¿Alguna vez has querido escribir un mensaje secreto que solo tú puedas leer? Con la cúrcuma, puedes hacerlo."
 breadcrumbs: ["recursos-fisica-quimica","practicas-4eso"]
 authors:
 - miguel-quiroga
@@ -61,8 +61,6 @@ La cúrcuma es una especia que se utiliza en la cocina de muchas culturas del mu
 - Agua
 - Papel grueso
 - Pinceles
-
-<iframe src="https://app.Lumi.education/api/v1/run/tWdfzF/embed" width="100%" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Fundamento científico
 
