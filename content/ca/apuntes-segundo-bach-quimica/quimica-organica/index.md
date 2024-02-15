@@ -69,7 +69,7 @@ Dos compostos són **isòmers**[^1] entre si si tenen el mateix número i tipus 
 
 [^1]: La paraula **isòmer** és un neologisme encunyat pel químic suec [Jöns Jacob Berzelius (1779–1848)](https://ca.wikipedia.org/wiki/Jöns_Jacob_Berzelius), formada del grec ισo (isos = igual) i μ𝜀ρo𝜍 (meros = part, porció).
 
-### Isomería estructural
+### Isomeria estructural
 
 Es deu a **diferències** en l'**estructura** dels **compostos**, és a dir, canvia com estan units els àtoms. Dins d'aquest tipus, hi ha tres subtipus d'isomeria:
 
