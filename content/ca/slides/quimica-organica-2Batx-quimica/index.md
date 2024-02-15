@@ -40,7 +40,7 @@ Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 
 Dos compostos són **isòmers** entre si si tenen el mateix número i tipus d'àtoms, és a dir, si tenen la **mateixa fórmula molecular**. Dos compostos isòmers tenen el **mateix nombre** d'**insaturacions**.
 
-- [Isomeria estructural](#/2/1)
+- [Isomeria constitucional](#/2/1)
 - [Estereoisomeria](#/2/13)
 
 (continua cap avall)
@@ -49,9 +49,9 @@ Dos compostos són **isòmers** entre si si tenen el mateix número i tipus d'à
 
 ---
 
-### Isomeria estructural
+### Isomeria constitucional
 
-Es deu a **diferències** en l'**estructura** dels **compostos**, és a dir, canvia com estan units els àtoms. Dins d'aquest tipus, hi ha tres subtipus d'isomeria:
+Es deu a **diferències** en l'**estructura** dels **compostos**, és a dir, canvia com estan units els àtoms (tenen diferent connectivitat). Dins d'aquest tipus, hi ha tres subtipus d'isomeria:
 
 - [Isomeria de cadena](#/2/2)
 - [Isomeria de posició](#/2/5)
@@ -157,7 +157,7 @@ encara que existeixen moltes altres possibilitats.
 
 ### Estereoisomeria
 
-En aquest cas, l'estructura de les substàncies és la mateixa però es **diferencien** en la seva **orientació espacial**.
+En aquest cas, l'estructura de les substàncies és la mateixa (igual connectivitat entre àtoms) però es **diferencien** en la seva **orientació espacial**.
 
 - [Isomeria geomètrica (*cis-trans*)](#/2/14)
 - [Isomeria conformacional](#/2/29)
@@ -215,7 +215,7 @@ Aquest tipus d'isomeria es dona també en compostos amb un pla de simetria, a ca
 
 ##### Notació E-Z
 
-Quan existeixen diversos substituents diferents, la nomenclatura *cis-trans* pot resultar ambigua. En aquests casos s'adopta la nomenclatura E-Z. En alemany:
+Quan existeixen diversos substituents diferents, la nomenclatura *cis-trans* en alquens pot resultar ambigua. En aquests casos s'adopta la nomenclatura E-Z. En alemany:
 
 - E de *entgegen* (separats).
 - Z de *zusammen* (junts).
@@ -354,9 +354,9 @@ Amb la finalitat de facilitar la representació en el pla, s'utilitzen les **pro
 
 - [Reaccions de substitució](#/3/1)
 - [Reaccions d'addició](#/3/10)
-- [Reaccions d'eliminació](#/3/24)
-- [Reaccions d'oxidació-reducció (redox)](#/3/38)
-- [Reaccions de condensació i hidròlisi](#/3/47)
+- [Reaccions d'eliminació](#/3/22)
+- [Reaccions d'oxidació-reducció (redox)](#/3/30)
+- [Reaccions de condensació i hidròlisi](#/3/39)
 
 (continua cap avall)
 
@@ -428,10 +428,6 @@ Una molècula incorpora a la seva estructura una altra molècula. Ocorren amb su
 
 ---
 
-> L'addició en alquens asimètrics ocorre segons la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov), que estableix que l'addició d'un reactiu de tipus HX (H<sub>2</sub>O, HCl, ...) a un doble enllaç dona lloc a un producte majoritari en el qual l'hidrogen s'uneix al carboni menys substituït (amb més H). L'altre producte possible també es forma, però en menor proporció.
-
----
-
 #### Hidrogenació catalítica d'alquens
 
 Es realitza amb hidrogen molecular en presència d'un catalitzador, normalment platí. És un procés exotèrmic. 
@@ -472,7 +468,7 @@ De manera anàloga a la hidrogenació, l'halogen X<sub>2</sub> afegeix un àtom 
 
 #### Hidrohalogenació d'alquens
 
-L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple seguint la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
+L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-alquenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -492,7 +488,7 @@ L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple seguint la [**regla de Mar
 
 #### Hidratació d'alquens
 
-L'aigua H<sub>2</sub>O també s'afegeix a l'enllaç múltiple seguint la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
+La reacció succeeix en el tractament de l'alquè amb aigua i un catalitzador àcid fort, com el H<sub>2</sub>SO</sub>4</sub>, per un mecanisme similar al de l'addició de HX. L'aigua H<sub>2</sub>O també s'afegeix a l'enllaç múltiple:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-alquenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -504,19 +500,13 @@ L'aigua H<sub>2</sub>O també s'afegeix a l'enllaç múltiple seguint la [**regl
 
 ---
 
-##### Hidratació d'un alquí
-
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-etino-cat.svg" lightbox="false" width="100%" theme="light" >}}
-
----
-
 ### Reaccions d'eliminació
 
 Una molècula perd àtoms en posicions adjacents i origina una molècula amb un enllaç doble o triple. Les reaccions d'eliminació són les reaccions inverses a les d'addició a un doble enllaç.
 
 ---
 
-> A les reaccions d'eliminació es perden àtoms de dos carbonis veïnals produint-se majoritàriament el **doble enllaç més substituït**, segons el que es coneix com [**regla de Zaitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev).
+> A les reaccions d'eliminació es perden àtoms de dos carbonis veïnals produint-se majoritàriament el **doble enllaç més substituït**.
 
 ---
 
@@ -534,7 +524,7 @@ Una molècula perd àtoms en posicions adjacents i origina una molècula amb un 
 
 ---
 
-La deshidrohalogenació produeix majoritàriament el producte amb el doble enllaç més substituït segons la [**regla de Zaitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev):
+La deshidrohalogenació produeix majoritàriament el producte amb el doble enllaç més substituït:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/deshidrohalogenacion-haluros-alquilo-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -554,41 +544,9 @@ Com al cas anterior, s'eliminen molècules de HX, en aquest cas 2 molècules HX,
 
 ---
 
-La deshidratació (pèrdua d'una molècula d'aigua) produeix, majoritàriament, el doble enllaç més substituït seguint la [**regla de Zaitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev):
+La deshidratació (pèrdua d'una molècula d'aigua) produeix, majoritàriament, el doble enllaç més substituït:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/deshidratacion-alcoholes-cat.svg" lightbox="false" width="100%" theme="light" >}}
-
----
-
-#### Eliminació vs. substitució
-
-Un mateix substrat pot donar reacció de substitució o una eliminació:
-
----
-
-##### Eliminació
-
-{{< figure library="true" src="quimica-organica-2Bach-quimica/eliminacion-vs.svg" lightbox="false" width="100%" theme="light" >}}
-
----
-
-##### Substitució
-
-{{< figure library="true" src="quimica-organica-2Bach-quimica/sustitucion-vs.svg" lightbox="false" width="100%" theme="light" >}}
-
----
-
-Que es doni l'una o l'altra depèn de les característiques del **substrat** i de les **condicions de reacció**:
-
----
-
-Substrat
-: Si el substrat és un derivat halogenat primari es dona favorablement la substitució. Si el substrat és un derivat halogenat secundari o terciari es veu afavorida l'eliminació.
-
----
-
-Condicions
-: Si el reactiu és una base forta (NaOH, NaOCH<sub>2</sub>CH<sub>3</sub>) i el dissolvent és molt polar (H<sub>2</sub>O), es produeix la substitució. Si el reactiu és una base feble (H<sub>2</sub>O) i el dissolvent és apolar es dona l'eliminació.
 
 ---
 
@@ -650,9 +608,9 @@ Les reaccions de combustió són reaccions exotèrmiques. Si el compost té altr
 
 ### Reaccions de condensació i hidròlisi
 
-- [Reacció d'esterificació i saponificació](#/3/48)
-- [Reacció de condensació d'alcohols](#/3/50)
-- [Reacció de condensació per donar amides](#/3/51)
+- [Reacció d'esterificació i saponificació](#/3/40)
+- [Reacció de condensació d'alcohols](#/3/42)
+- [Reacció de condensació per donar amides](#/3/43)
 
 (continua cap avall)
 

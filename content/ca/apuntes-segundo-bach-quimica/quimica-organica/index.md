@@ -69,9 +69,9 @@ Dos compostos són **isòmers**[^1] entre si si tenen el mateix número i tipus 
 
 [^1]: La paraula **isòmer** és un neologisme encunyat pel químic suec [Jöns Jacob Berzelius (1779–1848)](https://ca.wikipedia.org/wiki/Jöns_Jacob_Berzelius), formada del grec ισo (isos = igual) i μ𝜀ρo𝜍 (meros = part, porció).
 
-### Isomeria estructural
+### Isomeria constitucional
 
-Es deu a **diferències** en l'**estructura** dels **compostos**, és a dir, canvia com estan units els àtoms. Dins d'aquest tipus, hi ha tres subtipus d'isomeria:
+Es deu a **diferències** en l'**estructura** dels **compostos**, és a dir, canvia com estan units els àtoms (tenen diferent connectivitat). Dins d'aquest tipus, hi ha tres subtipus d'isomeria:
 
 #### Isomeria de cadena
 
@@ -156,7 +156,7 @@ encara que existeixen moltes altres possibilitats.
 
 ### Estereoisomeria
 
-En aquest cas, l'estructura de les substàncies és la mateixa però es **diferencien** en la seva **orientació espacial**.
+En aquest cas, l'estructura de les substàncies és la mateixa (igual connectivitat entre àtoms) però es **diferencien** en la seva **orientació espacial**.
 
 #### Isomeria geomètrica (*cis-trans*)
 
@@ -188,7 +188,7 @@ Aquest tipus d'isomeria es dona també en compostos amb un pla de simetria, a ca
 
 ##### Notació E-Z
 
-Quan existeixen diversos substituents diferents, la nomenclatura *cis-trans* pot resultar ambigua. En aquests casos s'adopta la nomenclatura E-Z. En alemany:
+Quan existeixen diversos substituents diferents, la nomenclatura *cis-trans* en alquens pot resultar ambigua. En aquests casos s'adopta la nomenclatura E-Z. En alemany:
 
 - E de *entgegen* (separats).
 - Z de *zusammen* (junts).
@@ -327,8 +327,6 @@ La [**hidròlisis**](https://es.wikipedia.org/wiki/Hidrólisis) d'un haloalcà e
 
 Una molècula incorpora a la seva estructura una altra molècula. Ocorren amb substrats amb dobles o triples enllaços originant un producte amb un major grau de saturació.
 
-> L'addició en alquens asimètrics ocorre segons la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov), que estableix que l'addició d'un reactiu de tipus HX (H<sub>2</sub>O, HCl, ...) a un doble enllaç dona lloc a un producte majoritari en el qual l'hidrogen s'uneix al carboni menys substituït (amb més H). L'altre producte possible també es forma, però en menor proporció.
-
 #### Hidrogenació catalítica d'alquens
 
 Es realitza amb hidrogen molecular en presència d'un catalitzador, normalment platí. És un procés exotèrmic. La reacció transcorre de manera que cada àtom d'hidrogen de la molècula H<sub>2</sub> s'afegeix a un dels dos carbonis que formen l'enllaç múltiple en el reactiu, saturant la molècula:
@@ -355,7 +353,7 @@ De manera anàloga a la hidrogenació, l'halogen X<sub>2</sub> afegeix un àtom 
 
 #### Hidrohalogenació d'alquens
 
-L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple seguint la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
+L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-alquenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -369,7 +367,7 @@ L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple seguint la [**regla de Mar
 
 #### Hidratació d'alquens
 
-L'aigua H<sub>2</sub>O també s'afegeix a l'enllaç múltiple seguint la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
+La reacció succeeix en el tractament de l'alquè amb aigua i un catalitzador àcid fort, com el H<sub>2</sub>SO</sub>4</sub>, per un mecanisme similar al de l'addició de HX. L'aigua H<sub>2</sub>O també s'afegeix a l'enllaç múltiple:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-alquenos-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -377,15 +375,11 @@ L'aigua H<sub>2</sub>O també s'afegeix a l'enllaç múltiple seguint la [**regl
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-propeno-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
-##### Hidratació d'un alquí
-
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-etino-cat.svg" lightbox="false" width="100%" theme="light" >}}
-
 ### Reaccions d'eliminació
 
 Una molècula perd àtoms en posicions adjacents i origina una molècula amb un enllaç doble o triple. Les reaccions d'eliminació són les reaccions inverses a les d'addició a un doble enllaç.
 
-> A les reaccions d'eliminació es perden àtoms de dos carbonis veïnals produint-se majoritàriament el **doble enllaç més substituït**, segons el que es coneix com [**regla de Zaitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev).
+> A les reaccions d'eliminació es perden àtoms de dos carbonis veïnals produint-se majoritàriament el **doble enllaç més substituït**.
 
 #### Deshidrogenació
 
@@ -395,7 +389,7 @@ Una molècula perd àtoms en posicions adjacents i origina una molècula amb un 
 
 #### Deshidrohalogenació d'halurs d'alquil
 
-És la reacció inversa a la hidrohalogenació, es produeix en presència de KOH i alcohol en la qual s'elimina KX i H<sub>2</sub>O, originant un doble enllaç. La deshidrohalogenació produeix majoritàriament el producte amb el doble enllaç més substituït segons la [**regla de Zaitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev):
+És la reacció inversa a la hidrohalogenació, es produeix en presència de KOH i alcohol en la qual s'elimina KX i H<sub>2</sub>O, originant un doble enllaç. La deshidrohalogenació produeix majoritàriament el producte amb el doble enllaç més substituït:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/deshidrohalogenacion-haluros-alquilo-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -407,29 +401,9 @@ Com al cas anterior, s'eliminen molècules d'HX, en aquest cas 2 molècules HX, 
 
 #### Deshidratació d'alcohols
 
-És la reacció inversa a la hidratació d'alcohols. Es produeix en medi àcid, generalment H<sub>2</sub>SO<sub>4</sub>, i calor. La deshidratació (pèrdua d'una molècula d'aigua) produeix, majoritàriament, el doble enllaç més substituït seguint la [**regla de Zaitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev):
+És la reacció inversa a la hidratació d'alcohols. Es produeix en medi àcid, generalment H<sub>2</sub>SO<sub>4</sub>, i calor. La deshidratació (pèrdua d'una molècula d'aigua) produeix, majoritàriament, el doble enllaç més substituït:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/deshidratacion-alcoholes-cat.svg" lightbox="false" width="100%" theme="light" >}}
-
-#### Eliminació vs. substitució
-
-Un mateix substrat pot donar reacció de substitució o una eliminació:
-
-##### Eliminació
-
-{{< figure library="true" src="quimica-organica-2Bach-quimica/eliminacion-vs.svg" lightbox="false" width="100%" theme="light" >}}
-
-##### Substitució
-
-{{< figure library="true" src="quimica-organica-2Bach-quimica/sustitucion-vs.svg" lightbox="false" width="100%" theme="light" >}}
-
-Que es doni l'una o l'altra depèn de les característiques del **substrat** i de les **condicions de reacció**:
-
-Substrat
-: Si el substrat és un derivat halogenat primari es dona favorablement la substitució. Si el substrat és un derivat halogenat secundari o terciari es veu afavorida l'eliminació.
-
-Condicions
-: Si el reactiu és una base forta (NaOH, NaOCH<sub>2</sub>CH<sub>3</sub>) i el dissolvent és molt polar (H<sub>2</sub>O), es produeix la substitució. Si el reactiu és una base feble (H<sub>2</sub>O) i el dissolvent és apolar es dona l'eliminació.
 
 ### Reaccions d'oxidació-reducció (redox)
 

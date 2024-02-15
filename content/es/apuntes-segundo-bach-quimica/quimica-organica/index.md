@@ -76,9 +76,9 @@ Dos compuestos son **isómeros**[^1] entre sí si tienen el mismo número y tipo
 
 [^1]: La palabra **isómero** es un neologismo acuñado por el químico sueco [Jöns Jacob Berzelius (1779–1848)](https://es.wikipedia.org/wiki/Jöns_Jacob_Berzelius), formada del griego ισo (isos = igual) y μ𝜀ρo𝜍 (meros = parte, porción).
 
-### Isomería estructural
+### Isomería constitucional
 
-Se debe a **diferencias** en la **estructura** de los **compuestos**, es decir, cambia cómo están unidos los átomos. Dentro de este tipo, hay tres subtipos de isomería:
+Se debe a **diferencias** en la **estructura** de los **compuestos**, es decir, cambia cómo están unidos los átomos (tienen diferente conectividad). Dentro de este tipo, hay tres subtipos de isomería:
 
 #### Isomería de cadena
 
@@ -163,7 +163,7 @@ aunque existen otras muchas posibilidades.
 
 ### Estereoisomería
 
-En este caso, la estructura de las sustancias es la misma pero se **diferencian** en su **orientación espacial**.
+En este caso, la estructura de las sustancias es la misma (igual conectividad entre átomos) pero se **diferencian** en su **orientación espacial**.
 
 #### Isomería geométrica (*cis-trans*)
 
@@ -195,7 +195,7 @@ Este tipo de isomería se da también en compuestos con un plano de simetría, d
 
 ##### Notación E-Z
 
-Cuando existen varios sustituyentes distintos, la nomenclatura *cis-trans* puede resultar ambigua. En estos casos se adopta la nomenclatura E-Z. En alemán:
+Cuando existen varios sustituyentes distintos, la nomenclatura *cis-trans* en alquenos puede resultar ambigua. En estos casos se adopta la nomenclatura E-Z. En alemán:
 
 - E de *entgegen* (separados).
 - Z de *zusammen* (juntos).
@@ -376,7 +376,7 @@ El haluro de hidrógeno HX se añade al enlace múltiple siguiendo la [**regla d
 
 #### Hidratación de alquenos
 
-El agua H<sub>2</sub>O también se añade al enlace múltiple siguiendo la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
+La reacción sucede en el tratamiento del alqueno con agua y un catalizador ácido fuerte, como el H<sub>2</sub>SO<sub>4</sub>, por un mecanismo similar al de la adición de HX. El agua H<sub>2</sub>O también se añade al enlace múltiple siguiendo la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-alquenos.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -386,7 +386,13 @@ El agua H<sub>2</sub>O también se añade al enlace múltiple siguiendo la [**re
 
 ##### Hidratación de un alquino
 
+Ya que los alquinos no reaccionan directamente con ácidos acuosos, uno de los métodos utilizados para la hidratación de alquinos utiliza ion mercurio(2+) como catalizador:
+
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+
+La hidratación de un alquino da un *enol*[^6]. Es interesante que el producto real que se aísla de la hidratación de un alquino no es el alcohol vinílico, o enol, sino que en su lugar es una cetona. Aunque el enol es un intermediario en la reacción, se rearregla inmediatamente a una cetona a través de un proceso llamado [**tautomería cetoenólica**](https://es.wikipedia.org/wiki/Tautómero#La_tautomería_ceto-enol). El equilibrio está muy desplazado a la derecha.
+
+[^6]: Se dice que las formas *ceto* y *enol* individuales son [**tautómeros**](https://es.wikipedia.org/wiki/Tautómero), una palabra utilizada para describir dos isómeros constitucionales que rápidamente se interconvierten acompañados por el cambio de posición de un hidrógeno.
 
 ### Reacciones de eliminación
 

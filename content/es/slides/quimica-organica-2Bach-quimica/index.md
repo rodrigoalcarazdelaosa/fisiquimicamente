@@ -40,7 +40,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 Dos compuestos son **isómeros** entre sí si tienen el mismo número y tipo de átomos, es decir, si tienen la **misma fórmula molecular**. Dos compuestos isómeros tienen el **mismo número** de **insaturaciones**.
 
-- [Isomería estructural](#/2/1)
+- [Isomería constitucional](#/2/1)
 - [Estereoisomería](#/2/13)
 
 (continúa hacia abajo)
@@ -49,9 +49,9 @@ Dos compuestos son **isómeros** entre sí si tienen el mismo número y tipo de 
 
 ---
 
-### Isomería estructural
+### Isomería constitucional
 
-Se debe a **diferencias** en la **estructura** de los **compuestos**, es decir, cambia cómo están unidos los átomos. Dentro de este tipo, hay tres subtipos de isomería:
+Se debe a **diferencias** en la **estructura** de los **compuestos**, es decir, cambia cómo están unidos los átomos (tienen diferente conectividad). Dentro de este tipo, hay tres subtipos de isomería:
 
 - [Isomería de cadena](#/2/2)
 - [Isomería de posición](#/2/5)
@@ -157,7 +157,7 @@ aunque existen otras muchas posibilidades.
 
 ### Estereoisomería
 
-En este caso, la estructura de las sustancias es la misma pero se **diferencian** en su **orientación espacial**.
+En este caso, la estructura de las sustancias es la misma (igual conectividad entre átomos) pero se **diferencian** en su **orientación espacial**.
 
 - [Isomería geométrica (*cis-trans*)](#/2/14)
 - [Isomería conformacional](#/2/29)
@@ -215,7 +215,7 @@ Este tipo de isomería se da también en compuestos con un plano de simetría, d
 
 ##### Notación E-Z
 
-Cuando existen varios sustituyentes distintos, la nomenclatura *cis-trans* puede resultar ambigua. En estos casos se adopta la nomenclatura E-Z. En alemán:
+Cuando existen varios sustituyentes distintos, la nomenclatura *cis-trans* en alquenos puede resultar ambigua. En estos casos se adopta la nomenclatura E-Z. En alemán:
 
 - E de *entgegen* (separados).
 - Z de *zusammen* (juntos).
@@ -354,9 +354,9 @@ Con el fin de facilitar la representación en el plano, se utilizan las **proyec
 
 - [Reacciones de sustitución](#/3/1)
 - [Reacciones de adición](#/3/10)
-- [Reacciones de eliminación](#/3/24)
-- [Reacciones de oxidación-reducción (rédox)](#/3/38)
-- [Reacciones de condensación e hidrólisis](#/3/47)
+- [Reacciones de eliminación](#/3/26)
+- [Reacciones de oxidación-reducción (rédox)](#/3/40)
+- [Reacciones de condensación e hidrólisis](#/3/49)
 
 (continúa hacia abajo)
 
@@ -492,7 +492,7 @@ El haluro de hidrógeno HX se añade al enlace múltiple siguiendo la [**regla d
 
 #### Hidratación de alquenos
 
-El agua H<sub>2</sub>O también se añade al enlace múltiple siguiendo la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
+La reacción sucede en el tratamiento del alqueno con agua y un catalizador ácido fuerte, como el H<sub>2</sub>SO<sub>4</sub>, por un mecanismo similar al de la adición de HX. El agua H<sub>2</sub>O también se añade al enlace múltiple siguiendo la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov):
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-alquenos.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -506,7 +506,19 @@ El agua H<sub>2</sub>O también se añade al enlace múltiple siguiendo la [**re
 
 ##### Hidratación de un alquino
 
+Ya que los alquinos no reaccionan directamente con ácidos acuosos, uno de los métodos utilizados para la hidratación de alquinos utiliza ion mercurio(2+) como catalizador:
+
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+
+---
+
+La hidratación de un alquino da un *enol*.
+
+> Se dice que las formas *ceto* y *enol* individuales son [**tautómeros**](https://es.wikipedia.org/wiki/Tautómero), una palabra utilizada para describir dos isómeros constitucionales que rápidamente se interconvierten acompañados por el cambio de posición de un hidrógeno.
+
+---
+
+Es interesante que el producto real que se aísla de la hidratación de un alquino no es el alcohol vinílico, o enol, sino que en su lugar es una cetona. Aunque el enol es un intermediario en la reacción, se rearregla inmediatamente a una cetona a través de un proceso llamado [**tautomería cetoenólica**](https://es.wikipedia.org/wiki/Tautómero#La_tautomería_ceto-enol). El equilibrio está muy desplazado a la derecha.
 
 ---
 
@@ -650,9 +662,9 @@ Las reacciones de combustión son reacciones exotérmicas. Si el compuesto tiene
 
 ### Reacciones de condensación e hidrólisis
 
-- [Reacción de esterificación y saponificación](#/3/48)
-- [Reacción de condensación de alcoholes](#/3/50)
-- [Reacción de condensación para dar amidas](#/3/51)
+- [Reacción de esterificación y saponificación](#/3/50)
+- [Reacción de condensación de alcoholes](#/3/52)
+- [Reacción de condensación para dar amidas](#/3/53)
 
 (continúa hacia abajo)
 
