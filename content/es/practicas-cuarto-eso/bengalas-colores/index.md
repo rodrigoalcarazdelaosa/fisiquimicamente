@@ -1,8 +1,8 @@
 ---
 title: Bengalas de colores
 url: "/recursos-fisica-quimica/practicas-laboratorio/4eso/bengalas-de-colores"
-subtitle: Experimentamos haciendo bengalas de diferentes colores para poder ver las llamas de diferentes metales
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Experimentamos haciendo bengalas de diferentes colores para poder ver las llamas de diferentes metales."
+subtitle: Experimentamos haciendo bengalas de colores para poder ver las llamas de diferentes metales
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Experimentamos haciendo bengalas de colores para poder ver las llamas de diferentes metales."
 breadcrumbs: ["recursos-fisica-quimica","practicas-4eso"]
 authors:
 - miguel-quiroga
@@ -32,13 +32,13 @@ math: true
 
 ## Introducción
 
-En esta actividad los participantes experimentarán haciendo [**bengalas**](https://es.wikipedia.org/wiki/Bengala_(pirotecnia)) de diferentes colores para poder ver las [**llamas** de diferentes **metales**](https://es.wikipedia.org/wiki/Ensayo_a_la_llama).
+En esta actividad los participantes experimentarán haciendo [**bengalas**](https://es.wikipedia.org/wiki/Bengala_(pirotecnia)) de colores para poder ver las [**llamas** de diferentes **metales**](https://es.wikipedia.org/wiki/Ensayo_a_la_llama).
 
 ## Objetivos
 
 1. Entender cómo las diferentes sales afectan al color de la llama.
-2. Visualizar llamas de diferentes colores mediante la fabricación de bengalas.
-3. Comparar los diferentes colores de la llama producidas por sales de boro, cobre y sodio.
+2. Visualizar llamas de distintos colores mediante la fabricación de bengalas.
+3. Comparar los colores de la llama producidas por sales de boro, cobre y sodio.
 
 ## Materiales
 
