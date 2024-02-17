@@ -132,7 +132,7 @@ $$
 
 Dado que el radio es ahora una función en lugar de una constante, resulta más difícil definir la trayectoria del loop, para lo que tendremos que resolver un sistema de ecuaciones diferenciales dado por[^3]:
 
-[^3]: Quien esté interesado en los detalles, vienen explicados en el minuto 8:45 del [vídeo enlazado al principio de esta entrada](https://www.youtube.com/watch?v=4q2W5SJc5j4).
+[^3]: Quien esté interesado en los detalles, vienen explicados en el [minuto 8:46 del vídeo enlazado al principio de esta entrada](https://www.youtube.com/watch?v=4q2W5SJc5j4&t=526s).
 
 \begin{align*}
 \frac{\partial\theta}{\partial s} &= \frac{1}{r} \\\\
