@@ -28,14 +28,14 @@ image:
 math: true
 ---
 
-{{% toc %}}
-
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
 {{< tweet user="BTeseracto" id="1740055006831583258" >}}
 </div>
 {{% /callout %}}
+
+{{% toc %}}
 
 Cerca del 27&thinsp;% de lo que hay en nuestro universo es [**materia oscura**](https://es.wikipedia.org/wiki/Materia_oscura). Eso es más de 5 veces la cantidad de materia "normal" que nos compone a nosotros y todo lo demás. Aunque seguimos sin saber qué es. Veamos cómo se ha llegado a esta conclusión y qué barajamos que podría ser.
 
