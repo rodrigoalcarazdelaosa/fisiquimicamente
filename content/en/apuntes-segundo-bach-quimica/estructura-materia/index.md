@@ -8,6 +8,7 @@ tags:
 - notes
 - 17-18-year-olds
 - atomic-structure
+- standard-model
 categories:
 - Physics
 - Chemistry

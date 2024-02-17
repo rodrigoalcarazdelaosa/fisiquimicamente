@@ -13,6 +13,7 @@ tags:
 - apunts
 - 2n Batx
 - estructura-atòmica
+- model-estàndard
 categories:
 - Física
 - Química

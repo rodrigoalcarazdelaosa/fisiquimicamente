@@ -130,6 +130,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Calendario Científico Escolar"
-      url: '/blog/2024/02/01/calendario-cientifico-escolar/'
+      text: "Materia oscura"
+      url: '/blog/2024/02/17/materia-oscura/'
 ---

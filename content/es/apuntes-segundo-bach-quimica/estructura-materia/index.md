@@ -12,6 +12,7 @@ tags:
 - apuntes
 - 2º Bach
 - estructura-atómica
+- modelo-estándar
 categories:
 - Física
 - Química
