@@ -3,7 +3,7 @@ title: Materia oscura
 subtitle: Evidencias de su existencia, qué puede ser y cómo encontrarla
 summary: "Evidencias de su existencia, qué puede ser y cómo encontrarla."
 breadcrumbs: ["blog"]
-date: "2024-02-17T00:00:00"
+date: "2024-02-19T00:00:00"
 authors:
 - pilar-palanca
 - juan-docon
