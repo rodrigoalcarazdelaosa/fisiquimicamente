@@ -80,7 +80,7 @@ El contenido generado puede incluir, entre otros, textos, código de software, i
 #### Herramientas de IAG de imagen
 
 - [Midjourney](https://www.midjourney.com/home)
-- [DALL·E](https://openai.com/dall-e-2)
+- [DALL·E](https://openai.com/dall-e-3)
 - [Dream](https://dream.ai/create)
 
 ---
@@ -89,6 +89,7 @@ El contenido generado puede incluir, entre otros, textos, código de software, i
 
 - [Runway](https://runwayml.com)
 - [HeyGen](https://www.heygen.com)
+- [Sora](https://openai.com/sora)
 
 ---
 
@@ -280,23 +281,41 @@ pensamiento crítico.
 
 - Fomente el pensamiento crítico y otras competencias cognitivas superiores.
   - Partiendo de una respuesta inicial generada a través de herramientas de IAG, pida al alumnado que argumente en qué medida los contenidos objeto de estudio sustentan o no la respuesta ofrecida por la IAG.
-  - Empleando herramientas de IAG genere múltiples respuestas a una pregunta abierta y, posteriormente, solicite al estudiante que sintetice y analice críticamente las respuestas dadas por la IAG, con el objetivo de construir su propia respuesta.
+
 ---
+
 <ul>
     <ul>
       <li>
-      Pida al alumnado que, partiendo de una respuesta inicial proporcionada por una herramienta de IAG a una pregunta abierta, vaya refinando gradualmente las instrucciones en diferentes intentos hasta obtener una respuesta que abarque todas las consideraciones especificadas en la tarea.
-      </li>
-      <li>
-        Emplee herramientas basadas en IAG para diseñar un escenario ficticio en el que los/las estudiantes puedan aplicar los contenidos objeto de estudio.
+      Empleando herramientas de IAG genere múltiples respuestas a una pregunta abierta y, posteriormente, solicite al estudiante que sintetice y analice críticamente las respuestas dadas por la IAG, con el objetivo de construir su propia respuesta.
       </li>
     </ul>
 </ul>
 
 ---
 
+<ul>
+    <ul>
+      <li>
+      Pida al alumnado que, partiendo de una respuesta inicial proporcionada por una herramienta de IAG a una pregunta abierta, vaya refinando gradualmente las instrucciones en diferentes intentos hasta obtener una respuesta que abarque todas las consideraciones especificadas en la tarea.
+      </li>
+    </ul>
+</ul>
+
+---
+
+<ul>
+    <ul>
+      <li>
+        Emplee herramientas basadas en IAG para diseñar un escenario ficticio en el que los/las estudiantes puedan aplicar los contenidos objeto de estudio.
+      </li>
+  </ul>
+</ul>
+
+---
+
 - Promueva la evaluación procesual y no finalista de las actividades.
-- Incorpore presentaciones y defensas orales de los resultados, con preguntas de oro.
+- Incorpore presentaciones y defensas orales de los resultados.
 - Organice debates.
 - Solicite al alumnado que incorpore un apartado de autorreflexión sobre cómo ha sido su proceso de aprendizaje durante la elaboración de un determinado trabajo.
 
