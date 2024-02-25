@@ -89,7 +89,9 @@
         {{ else if eq $sec "jueg" }}
         <a href="{{ .Permalink }}">🧩 {{ .Title }}</a>
         {{ else if eq $sec "prac" }}
-        <a href="{{ .Permalink }}">🧪 {{ .Title }}</a>                                
+        <a href="{{ .Permalink }}">🧪 {{ .Title }}</a>
+        {{ else if eq $sec "biog" }}
+        <a href="{{ .Permalink }}">📖 {{ .Title }}</a>                                        
         {{ else if eq $sec "EBAU" }}
         <a href="{{ .Permalink }}">🎓 {{ .Title }}</a>
         {{ else if eq $sec "opos" }}

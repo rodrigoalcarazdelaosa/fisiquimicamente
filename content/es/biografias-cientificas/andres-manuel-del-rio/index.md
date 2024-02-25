@@ -1,9 +1,11 @@
 ---
 title: Andrés Manuel del Río
 url: "/recursos-fisica-quimica/historia-ciencia/"
-subtitle: 
+subtitle:
 summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
+authors:
+- luis-moreno-martinez
 tags:
 - tabla-periódica
 - vanadio
@@ -16,7 +18,7 @@ image:
   preview_only: true
 
 _build:  
-  render: never
+  render: link
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

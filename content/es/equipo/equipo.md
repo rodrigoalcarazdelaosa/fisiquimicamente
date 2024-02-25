@@ -19,6 +19,7 @@ content:
   - 🧑‍🔬 Fundadores
   - 📚 Apuntes
   - 🗒️ Actividades / 🧩 Juegos / 🧪 Prácticas de laboratorio
+  - 📖 Historia de la Ciencia
   - 🎓 EBAU
   - ✍️ Blog
 design:

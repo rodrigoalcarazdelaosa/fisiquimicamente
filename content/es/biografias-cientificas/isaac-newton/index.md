@@ -18,7 +18,7 @@ image:
   preview_only: true
 
 _build:  
-  render: never
+  render: link
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
