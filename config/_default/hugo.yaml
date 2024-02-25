@@ -53,6 +53,7 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+capitalizeListTitles: false  
 markup:
   _merge: deep
   goldmark:    
