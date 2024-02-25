@@ -78,7 +78,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: James Clerk Maxwell
+      text: Andrés Manuel del Río
       url: '/recursos-fisica-quimica/historia-ciencia/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'

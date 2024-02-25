@@ -2,7 +2,7 @@
 title: James Clerk Maxwell
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle: 
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
+summary: ""
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 tags:
 - electromagnetismo
@@ -13,7 +13,7 @@ tags:
 - maxwell
 categories:
 - Física
-weight: 2
+weight: 30
 
 image:
   preview_only: true

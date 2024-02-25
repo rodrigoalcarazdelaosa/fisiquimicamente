@@ -1,18 +1,16 @@
 ---
-title: Marie Curie
+title: Andrés Manuel del Río
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle: 
-summary: ""
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 tags:
-- física-s-XX
-- radiactividad
-- radiofísica
-- curie
+- tabla-periódica
+- vanadio
+- andrés
 categories:
-- Física
 - Química
-weight: 40
+weight: 20
 
 image:
   preview_only: true
@@ -27,9 +25,9 @@ links:
 - icon_pack: fas
   icon: 
   name: 📜 Póster
-  url: marie-curie-poster.pdf  
+  url: andres-manuel-del-rio-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: marie-curie-triptico.pdf    
+  url: andres-manuel-del-rio-triptico.pdf  
 ---

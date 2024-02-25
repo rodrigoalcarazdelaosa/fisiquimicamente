@@ -12,7 +12,7 @@ tags:
 - newton
 categories:
 - Física
-weight: 1
+weight: 10
 
 image:
   preview_only: true
