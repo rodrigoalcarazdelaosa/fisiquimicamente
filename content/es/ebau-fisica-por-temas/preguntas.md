@@ -10,7 +10,7 @@ subtitle = "🗂️ Por temas"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "EBAU-fisica-preguntas"
+  page_type = "ebau-fisica-preguntas"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.

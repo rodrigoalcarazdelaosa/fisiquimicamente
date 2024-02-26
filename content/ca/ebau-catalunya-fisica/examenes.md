@@ -10,7 +10,7 @@ subtitle = "🧲 Física"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "PAU-fisica-examenes"
+  page_type = "pau-fisica-examenes"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
