@@ -23,6 +23,10 @@ image:
   focal_point: Smart
 
 links:
+- icon_pack: fas
+  icon:
+  name: 📋 Formulario
+  url: optica-formulario.pdf
 # - icon_pack: fas
 #   icon:
 #   name: Póster
