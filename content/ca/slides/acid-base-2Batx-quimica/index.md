@@ -138,7 +138,7 @@ Sol expressar-se en tant per cent (\%).
 
 Totalment ionitzats/des ($\alpha \approx 1$). Condueixen bé l'electricitat.
 
-- Àcids: HClO<sub>4</sub>, HI(ac), HBr(ac), HCl(ac), H<sub>2</sub>SO<sub>4</sub> (1ª ionització) i HNO<sub>3</sub>.
+- Àcids: HClO<sub>4</sub>, HI(aq), HBr(aq), HCl(aq), H<sub>2</sub>SO<sub>4</sub> (1ª ionització) i HNO<sub>3</sub>.
 - Bases: Hidròxids de metalls alcalins i alcalinoterris.
 
 ---
@@ -147,7 +147,7 @@ Totalment ionitzats/des ($\alpha \approx 1$). Condueixen bé l'electricitat.
 
 Parcialment ionitzats/des: $\alpha < 1$. Condueixen malament l'electricitat.
 
-- Àcids: HF(ac), H<sub>2</sub>S(ac), H<sub>2</sub>CO<sub>3</sub>, H<sub>2</sub>SO<sub>3</sub>, H<sub>3</sub>PO<sub>4</sub>, HNO<sub>2</sub> i àcids orgànics, com el CH<sub>3</sub>COOH.
+- Àcids: HF(aq), H<sub>2</sub>S(aq), H<sub>2</sub>CO<sub>3</sub>, H<sub>2</sub>SO<sub>3</sub>, H<sub>3</sub>PO<sub>4</sub>, HNO<sub>2</sub> i àcids orgànics, com el CH<sub>3</sub>COOH.
 - Bases: NH<sub>3</sub> (o NH<sub>4</sub>OH) i bases orgàniques nitrogenades, com les amines.
 
 ---
@@ -384,7 +384,7 @@ En el cas que hi hagi excés d'alguna de les substàncies, el pH resultant queda
 
 Quan els ions en què es dissocia una sal provenen d'àcids/bases fortes, no reaccionen amb aigua (hidrolitzen), ja que tendeixen a estar completament ionitzats:
 
-{{< figure src="acido-base-2Bach-quimica/sal-acido-fuerte-base-fuerte.svg" lightbox="false" width="100%" >}}
+{{< figure src="acido-base-2Bach-quimica/sal-acido-fuerte-base-fuerte-cat.svg" lightbox="false" width="100%" >}}
 
 La **dissolució** resultant és **neutra** (pH = 7).
 
@@ -394,7 +394,7 @@ La **dissolució** resultant és **neutra** (pH = 7).
 
 En aquest cas l'ió provinent de l'àcid feble sí que s'hidrolitza:
 
-{{< figure src="acido-base-2Bach-quimica/sal-acido-debil-base-fuerte.svg" lightbox="false" width="100%" >}}
+{{< figure src="acido-base-2Bach-quimica/sal-acido-debil-base-fuerte-cat.svg" lightbox="false" width="100%" >}}
 
 La **dissolució** resultant és **bàsica** (pH $>$ 7).
 
@@ -404,7 +404,7 @@ La **dissolució** resultant és **bàsica** (pH $>$ 7).
 
 En aquest cas l'ió provinent de la base feble sí que s'hidrolitza:
 
-{{< figure src="acido-base-2Bach-quimica/sal-acido-fuerte-base-debil.svg" lightbox="false" width="100%" >}}
+{{< figure src="acido-base-2Bach-quimica/sal-acido-fuerte-base-debil-cat.svg" lightbox="false" width="100%" >}}
 
 La **dissolució** resultant és **àcid** (pH $<$ 7).
 
@@ -414,7 +414,7 @@ La **dissolució** resultant és **àcid** (pH $<$ 7).
 
 En aquest cas tots dos ions s'hidrolitzen:
 
-{{< figure src="acido-base-2Bach-quimica/sal-acido-debil-base-debil.svg" lightbox="false" width="100%" >}}
+{{< figure src="acido-base-2Bach-quimica/sal-acido-debil-base-debil-cat.svg" lightbox="false" width="100%" >}}
 
 ---
 
