@@ -130,6 +130,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Materia oscura"
-      url: '/blog/2024/02/19/materia-oscura/'
+      text: "El color de las joyas: impurezas en cristales"
+      url: 'blog/2024/02/25/el-color-de-las-joyas-impurezas-en-cristales/'
 ---
