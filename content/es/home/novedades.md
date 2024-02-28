@@ -131,5 +131,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "El color de las joyas: impurezas en cristales"
-      url: 'blog/2024/02/25/el-color-de-las-joyas-impurezas-en-cristales/'
+      url: 'blog/2024/02/28/el-color-de-las-joyas-impurezas-en-cristales/'
 ---
