@@ -111,5 +111,7 @@ El motivo del color del **ópalo** lo podéis encontrar en [esta entrada, en el 
 Espero que os haya deslumbrado esta entrada sobre la base física-química del color de las piedras preciosas.
 
 {{% callout note %}}
-Parte de la información científica la he obtenido de [este artículo](https://onlinelibrary.wiley.com/doi/10.1002/col.5080120105) (también publicado como libro).
+Parte de la información científica la he obtenido de [este **artículo**](https://onlinelibrary.wiley.com/doi/10.1002/col.5080120105) (también publicado como libro).
+
+Te recomiendo también echar un vistazo a [esta magnífica **entrada**](https://yoquierosercientifico.blogspot.com/2018/01/yo-quiero-ser-gemologa-victoria-lopez.html) de **Victoria López-Acevedo**, gemóloga y Profesora Titular en la Universidad Complutense de Madrid.
 {{% /callout %}}
