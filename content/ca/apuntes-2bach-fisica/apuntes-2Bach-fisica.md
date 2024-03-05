@@ -38,7 +38,7 @@ subtitle = "📓 2n Batx 🧲 Física"
     tag = "ones"
 	
   [[content.filter_button]]
-    name = "Òptica geomètrica"
+    name = "Òptica"
     tag = "òptica"
 	
   [[content.filter_button]]

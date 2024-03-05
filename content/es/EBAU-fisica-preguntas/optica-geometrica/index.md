@@ -1,6 +1,6 @@
 ---
-title: Óptica geométrica
-url: "recursos-fisica-quimica/ebau/fisica/por-temas/optica-geometrica"
+title: Óptica
+url: "recursos-fisica-quimica/ebau/fisica/por-temas/optica"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
 breadcrumbs: ["recursos-fisica-quimica","ebau-fisica-por-temas"]
@@ -26,7 +26,7 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Enunciados
-  url: optica-geometrica-EBAU-Fisica-enunciados.pdf
+  url: optica-EBAU-Fisica-enunciados.pdf
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/optica-geometrica/optica-geometrica-EBAU-Fisica.pdf" filename="optica-geometrica-EBAU-Fisica.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/optica/optica-EBAU-Fisica.pdf" filename="optica-EBAU-Fisica.pdf" %}}

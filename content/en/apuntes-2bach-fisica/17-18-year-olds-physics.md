@@ -38,7 +38,7 @@ subtitle = "📓 17--18 year-olds 🧲 Physics"
     tag = "waves"							
 	
   [[content.filter_button]]
-    name = "Geometric Optics"
+    name = "Optics"
     tag = "optics"	
 	
   [[content.filter_button]]

@@ -38,7 +38,7 @@ subtitle = "📓 2.º Bach 🧲 Física"
     tag = "ondas"
 	
   [[content.filter_button]]
-    name = "Óptica geométrica"
+    name = "Óptica"
     tag = "óptica"
 	
   [[content.filter_button]]

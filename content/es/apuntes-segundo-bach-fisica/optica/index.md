@@ -1,6 +1,6 @@
 ---
-title: Óptica geométrica
-url: "/recursos-fisica-quimica/apuntes/2bach/fisica/optica-geometrica"
+title: Óptica
+url: "/recursos-fisica-quimica/apuntes/2bach/fisica/optica"
 subtitle: Leyes de la óptica geométrica y sistemas ópticos
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Leyes de la óptica geométrica. Sistemas ópticos. El ojo humano. Instrumentos ópticos."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
@@ -42,7 +42,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/optica-geometrica/  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/optica/  
 
 ---
 
