@@ -1,8 +1,8 @@
 ---
 title: Optics
 url: "/physics-chemistry-notes/17-18-year-olds/physics/optics"
-subtitle: Laws of Optics and Optical Systems
-summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Laws of Optics. Optical Systems. The Human Eye. Optical Instruments."
+subtitle: Laws of Geometric Optics and Optical Systems
+summary: "<code style='color: #2E3440;background:#88C0D0'>COMING SOON</code> <br> Laws of Geometric Optics. Optical Systems. The Human Eye. Optical Instruments."
 breadcrumbs: ["notes","17-18-year-olds","physics"]
 tags:
 - notes
