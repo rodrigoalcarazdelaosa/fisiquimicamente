@@ -46,13 +46,13 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
-          go-version: 1.22.0
+          go-version: 1.22.1
 
       - name: Download Hugo
         run: wget https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb -O hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb
         # 0.103.0 began new naming convention
         env:
-          HUGO_VERSION: 0.123.7
+          HUGO_VERSION: 0.123.8
 
       - name: Install Hugo
         run: sudo dpkg -i hugo*.deb
