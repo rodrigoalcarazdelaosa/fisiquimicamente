@@ -35,7 +35,7 @@ Además, en este magnífico hilo [**Cuentos Cuánticos**](https://twitter.com/Cu
 
 Empecemos proponiendo un caso concreto bastante típico. Tenemos una caja dividida por una pared: una mitad de la caja está llena de un gas, la otra está vacía. ¿Qué pasará si quitamos la pared separadora? La respuesta es bastante intuitiva. El gas se expandirá y llenará todo el espacio, y con ello la [**entropía**](https://es.wikipedia.org/wiki/Entrop%C3%ADa) aumentará. ¿Por qué aumenta? ¿Es porque el sistema ahora es más caótico o está más desordenado? No, como ya hemos dicho, [la entropía no entiende de desorden](https://es.wikipedia.org/wiki/Entrop%C3%ADa#Entrop%C3%ADa_y_desorden).
 
-{{< figure src="entropie.svg" title="https://commons.wikimedia.org/wiki/File:Entropie.svg" lightbox="false" width="100%" >}}
+{{< figure src="entropie.svg" title="https://commons.wikimedia.org/wiki/File:Entropie.svg" lightbox="false" width="100%" theme="light" >}}
 
 Este ejemplo nos será útil más adelante, pero antes hablemos de la propia entropía. Este concepto tiene su origen en la [**Revolución Industrial**](https://es.wikipedia.org/wiki/Revolución_Industrial), cuando se percataron de que las máquinas térmicas estaban muy lejos de ser óptimas. Siempre se perdía energía. Mucha energía.
 
@@ -45,9 +45,9 @@ Este ejemplo nos será útil más adelante, pero antes hablemos de la propia ent
 
 Esta cuestión provocó muchos dolores de cabeza durante largo tiempo, hasta que llegaron a la conclusión de que en cualquier proceso [**irreversible**](https://es.wikipedia.org/wiki/Irreversibilidad) una parte de la energía del sistema se perdía. Con esto acuñaron el término de [**entropía**](https://es.wikipedia.org/wiki/Entrop%C3%ADa), una nueva magnitud termodinámica definida como:
 
-> La cantidad de energía que no puede ser utilizada para producir trabajo. 
+> La cantidad de energía que no puede ser utilizada para producir trabajo.
 
-Cuando la entropía de un sistema es máxima se acaba su capacidad de producir trabajo.	La entropía del universo o de cualquier sistema cerrado siempre aumenta, no hay forma de que disminuya y es lo que define que un proceso sea irreversible. Si el universo no termina antes, se estima que este será su final. Un estado de máxima entropía. Pero para eso aún quedan más años de los que somos capaces de contar y es una historia para otro día.
+Cuando la entropía de un sistema es máxima se acaba su capacidad de producir trabajo. La entropía del universo o de cualquier sistema aislado siempre aumenta, no hay forma de que disminuya y es lo que define que un proceso sea irreversible. Si el universo no termina antes, se estima que este será su final. Un estado de máxima entropía. Pero para eso aún quedan más años de los que somos capaces de contar y es una historia para otro día.
 
 ## Ecuación de Boltzmann
 
@@ -63,7 +63,7 @@ Esta ecuación nos dice que la entropía (*S*) de un sistema es proporcional a l
 
 Y aquí es cuando nos decís “*mu bonito todo, pero un ejemplo vendría bien*” y tendríais toda la razón del mundo. El demonio está en los detalles y puede que en este tema más que nunca, así que se nos ha ocurrido un ejemplo numérico (esperemos que ilustrativo y correcto). Pongamos que tenemos números enteros entre –100 y 100, y sumamos de manera aleatoria dos pares de ellos en orden. En este ejemplo tenemos un resultado igual a cero, y sabemos que hay 200 combinaciones de números que sumados dan cero.
 
-{{< figure src="microestados.svg" lightbox="false" width="100%" >}}
+{{< figure src="microestados.svg" lightbox="false" width="100%" theme="light" >}}
 
 Cada una de esas combinaciones es un microestado para este sistema, y ese resultado igual a cero sería el macroestado. Aunque este ejemplo carece de significado físico, nos sirve para ilustrar cómo las combinaciones de posiciones y velocidades de las partículas (microestados) dan como resultado unas condiciones de temperatura y presión (macroestado). Aquí es donde sale a relucir la ecuación de Boltzmann: la entropía es proporcional a la cantidad de microestados posibles compatibles con un estado macroscópico final. Este fue su gran logro, conseguir dar una explicación a la entropía y hallar una forma de calcularla. 
 
@@ -73,8 +73,12 @@ La respuesta con lo que ya sabemos también es obvia, la cantidad de microestado
 
 Suponiendo que todos los microestados son igualmente probables, es evidente que la configuración más probable, de forma aplastante, es la del gas completamente expandido. La entropía siempre aumenta por el simple hecho de que el estado final es infinitamente más probable. Si el número de microestados compatibles con la situación inicial es de miles y el número de microestados compatibles con el gas expandido ocuparía media galaxia, la probabilidad de que el gas caiga en un microestado con éste completamente expandido es aplastante. 
 
-Pero, ¿puede suceder que el gas se quede en su posición inicial? Sobre el papel, sí. Existe la posibilidad de que una fluctuación espontánea lleve al sistema a su estado inicial. Pero su probabilidad es, a efectos prácticos, nula. Esto mismo se puede aplicar a cualquier proceso irreversible en un sistema cerrado. La cantidad de microestados compatibles con la configuración final es aplastantemente más alta, lo que se traduce en que el sistema siempre evoluciona hacía un estado de máxima entropía.
+Pero, ¿puede suceder que el gas se quede en su posición inicial? Sobre el papel, sí. Existe la posibilidad de que una fluctuación espontánea lleve al sistema a su estado inicial. Pero su probabilidad es, a efectos prácticos, nula. Esto mismo se puede aplicar a cualquier proceso irreversible en un sistema aislado. La cantidad de microestados compatibles con la configuración final es aplastantemente más alta, lo que se traduce en que el sistema siempre evoluciona hacía un estado de máxima entropía.
 
 La naturaleza, a diferencia de tu casa después de una semana complicada en la que no has podido recoger, no entiende de desorden. Entiende de [**probabilidad**](https://es.wikipedia.org/wiki/Entrop%C3%ADa_(termodinámica_estad%C3%ADstica)).
 
 {{< figure src="habitacion.jpg" title="Imagen de [Bill Kasman](https://pixabay.com/es/users/kasman-45293) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
+
+{{% callout note %}}
+Si te ha gustado esta entrada, te recomendamos echar un vistazo a [este **trabajo docente**](https://pubs.aip.org/aapt/pte/article-abstract/57/7/454/1016319/Entropy-as-Disorder-History-of-a-Misconception), recomendado por [**JFernandoPascualS**](https://twitter.com/jfpas).
+{{% /callout %}}
