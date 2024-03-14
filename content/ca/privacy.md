@@ -24,4 +24,4 @@ breadcrumbs: [""]
 
 [^3]: Actualment la web utilitza les tipografies [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) i [Inconsolata](https://fonts.google.com/specimen/Inconsolata). A més, [Cloudflare Fonts](https://www.cloudflare.com/es-es/cloudflare-fonts/) està activat.
 
-[^4]: Per tal de cobrir les despeses del web relacionats amb el domini i l'allotjament.
+[^4]: Per tal de cobrir les despeses del web relacionats amb el domini i l'allotjament. FisiQuímicament funciona sense anuncis.

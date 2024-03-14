@@ -23,4 +23,4 @@ breadcrumbs: [""]
 
 [^3]: Currently the website uses the typefaces [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) and [Inconsolata](https://fonts.google.com/specimen/Inconsolata). In addition, [Cloudflare Fonts](https://www.cloudflare.com/cloudflare-fonts/) is enabled.
 
-[^4]: In order to cover the costs of the website related to domain and hosting.
+[^4]: In order to cover the costs of the website related to domain and hosting. PhysiChemically runs ad-free.

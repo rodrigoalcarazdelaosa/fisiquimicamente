@@ -24,4 +24,4 @@ breadcrumbs: [""]
 
 [^3]: Actualmente la web utiliza las tipografías [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) e [Inconsolata](https://fonts.google.com/specimen/Inconsolata). Además, [Cloudflare Fonts](https://www.cloudflare.com/es-es/cloudflare-fonts/) está activado.
 
-[^4]: Con el fin de cubrir los gastos de la web relacionados con el dominio y el alojamiento.
+[^4]: Con el fin de cubrir los gastos de la web relacionados con el dominio y el alojamiento. FisiQuímicamente funciona sin anuncios.
