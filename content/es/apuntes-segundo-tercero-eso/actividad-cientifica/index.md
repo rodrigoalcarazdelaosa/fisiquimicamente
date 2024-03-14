@@ -211,7 +211,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 \end{align*}
 {{% /callout %}}
 
-## Laboratorio
+## Laboratorio escolar
 
 ### Instrumental
 
