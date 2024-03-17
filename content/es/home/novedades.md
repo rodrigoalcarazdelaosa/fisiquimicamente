@@ -65,8 +65,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Bengalas de colores | 4.º ESO
-      url: 'recursos-fisica-quimica/practicas-laboratorio/4eso/bengalas-de-colores/'
+      text: Detección de vitamina C | Química 2.º Bach
+      url: 'recursos-fisica-quimica/practicas-laboratorio/2bach/quimica/deteccion-vitamina-C/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center

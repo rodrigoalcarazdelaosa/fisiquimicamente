@@ -2,7 +2,7 @@
 title: Bengalas de colores
 url: "/recursos-fisica-quimica/practicas-laboratorio/4eso/bengalas-de-colores"
 subtitle: Experimentamos haciendo bengalas de colores para poder ver las llamas de diferentes metales
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Experimentamos haciendo bengalas de colores para poder ver las llamas de diferentes metales."
+summary: "Experimentamos haciendo bengalas de colores para poder ver las llamas de diferentes metales."
 breadcrumbs: ["recursos-fisica-quimica","practicas-4eso"]
 authors:
 - miguel-quiroga
