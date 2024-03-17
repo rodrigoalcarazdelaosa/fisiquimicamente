@@ -81,3 +81,7 @@ subtitle = "Propuestas de laboratorio con actividades y experimentos"
  css_class = ""
 
 +++
+
+{{% callout note %}}
+También te recomendamos echar un vistazo a las [**prácticas virtuales**](http://www.fqsaja.com/?page_id=7430) del **Departamento de Física y Química del IES Valle del Saja**.
+{{% /callout %}}
