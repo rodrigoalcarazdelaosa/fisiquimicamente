@@ -44,13 +44,15 @@ La [**vitamina C**](https://es.wikipedia.org/wiki/Vitamina_C) es muy importante 
 
 - Fuente de [yodo](https://es.wikipedia.org/wiki/Yodo) ([Betadine<sup>&reg;</sup>](https://es.wikipedia.org/wiki/Iodopovidona))
 - Agua
-- Papel [adsorbente](https://es.wikipedia.org/wiki/Agente_adsorbente)
+- Papel [adsorbente](https://es.wikipedia.org/wiki/Agente_adsorbente)[^1]
 - Vasos
 - Sustancias a analizar
   - Limón
   - Naranja
   - Zumo comercial
   - Pastillas de vitamina C
+
+[^1]: Por ejemplo papel para acuarela. No confundir con [papel absorbente](https://es.wikipedia.org/wiki/Papel_absorbente) como papel de cocina, ya que este puede absorber demasiado y acabar rompiéndose.
 
 ## Fundamento científico
 
