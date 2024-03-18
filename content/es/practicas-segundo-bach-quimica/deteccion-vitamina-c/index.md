@@ -1,6 +1,6 @@
 ---
 title: Detección de vitamina C
-url: "/recursos-fisica-quimica/practicas-laboratorio/2bach/quimica/deteccion-vitamina-c"
+url: "/recursos-fisica-quimica/practicas-laboratorio/2bach/quimica/deteccion-de-vitamina-c"
 subtitle: Elabora un papel reactivo capaz de detectar la presencia de vitamina C
 summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Elabora un papel reactivo capaz de detectar la presencia de vitamina C."
 breadcrumbs: ["recursos-fisica-quimica","practicas-2bach-quimica"]

@@ -66,7 +66,7 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: Detección de vitamina C | Química 2.º Bach
-      url: 'recursos-fisica-quimica/practicas-laboratorio/2bach/quimica/deteccion-vitamina-c/'
+      url: 'recursos-fisica-quimica/practicas-laboratorio/2bach/quimica/deteccion-de-vitamina-c/'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
