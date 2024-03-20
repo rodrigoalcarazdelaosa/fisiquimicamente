@@ -78,7 +78,7 @@ Proposat el **1913** per Niels **Bohr** per **explicar** l'**estabilitat** de la
 
 {{< spoiler text="Vols veure com són els <strong>espectres d'emissió</strong> de la resta d'<strong>elements</strong> químics de la taula periòdica? Clica aquí" >}}
 
-{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.jpg" title="https://www.fieldtestedsystems.com/ptable/" lightbox="true" >}}
+{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.png" title="https://www.aprendiendofisicaconbertotomas.com/tablas" lightbox="true" >}}
 
 {{< /spoiler >}}
 

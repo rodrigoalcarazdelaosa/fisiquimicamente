@@ -98,7 +98,7 @@ Proposat al **1913** per Niels **Bohr** per a **explicar** l’**estabilitat** d
 
 Com són els **espectres d'emissió** de la resta d’**elements** químics de la taula periòdica?
 
-{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.jpg" lightbox="false" >}}
+{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.png" lightbox="false" width="80%" >}}
 
 ---
 
