@@ -552,7 +552,7 @@ De acuerdo a la ley de Boyle-Mariotte, al reducir el volumen hasta un tercio de 
 
 ---
 
-De acuerdo al principio de Le Châtelier, el sistema se desplazará hacia donde haya menos moles gaseosos, es decir, hacia la izquierda, formando más SO<sub>3</sub> y favoreciendo por tanto su disociación.
+De acuerdo al principio de Le Châtelier, el sistema se desplazará hacia donde haya menos moles gaseosos, es decir, hacia la izquierda, formando más SO<sub>3</sub> y desfavoreciendo por tanto su disociación.
 
 {{% /section %}}
 

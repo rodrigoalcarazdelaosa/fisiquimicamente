@@ -339,6 +339,6 @@ $$
 
 complint-se que $K_\mathrm p = K_\mathrm c\left(RT\right)^{\Delta n_\text{gasosos}}$.
 
-d) D'acord amb la llei de Boyle-Mariotte, en reduir el volum fins a un terç del seu valor inicial, la pressió es triplica. D'acord amb el principi de Le Châtelier, el sistema es desplaçarà cap a on hi hagi menys mols gasosos, és a dir, cap a l'esquerra, formant més SO<sub>3</sub> i afavorint, per tant, la seva dissociació.
+d) D'acord amb la llei de Boyle-Mariotte, en reduir el volum fins a un terç del seu valor inicial, la pressió es triplica. D'acord amb el principi de Le Châtelier, el sistema es desplaçarà cap a on hi hagi menys mols gasosos, és a dir, cap a l'esquerra, formant més SO<sub>3</sub> i desfavorint, per tant, la seva dissociació.
 
 {{% /callout %}}
