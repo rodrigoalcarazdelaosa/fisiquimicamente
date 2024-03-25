@@ -2,7 +2,7 @@
 title: Notación científica
 url: "/recursos-fisica-quimica/actividades/2eso-3eso/notacion-cientifica"
 subtitle: Ficha de actividades con dos ejercicios, uno con coevaluación, y otro gamificado en formato puzzle
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Ficha de actividades con dos ejercicios, uno con coevaluación, y otro gamificado en formato puzzle."
+summary: "Ficha de actividades con dos ejercicios, uno con coevaluación, y otro gamificado en formato puzzle."
 breadcrumbs: ["recursos-fisica-quimica","actividades-2eso-3eso"]
 tags:
 - actividades
