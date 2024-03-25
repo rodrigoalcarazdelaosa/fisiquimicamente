@@ -10,9 +10,9 @@ tags:
 - materia
 - reacciones-químicas
 - eXeLearning
+- tabla-periódica
 categories:
 - Química
-weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://descargas.intef.es/recursos_educativos/ODES_SGOA/ESO/FQ/3B.1_-_El_misterioso_envenenamiento/index.html"

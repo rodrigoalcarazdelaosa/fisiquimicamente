@@ -15,7 +15,6 @@ tags:
 categories:
 - Física
 - Química
-weight: 15
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -11,7 +11,6 @@ tags:
 - electromagnetismo
 categories:
 - Física
-weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://descargas.intef.es/recursos_educativos/ODES_SGOA/Bachillerato/FQ/3B.7_-_Campos_elctricos/index.html"

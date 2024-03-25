@@ -13,7 +13,6 @@ tags:
 - polímeros
 categories:
 - Química
-weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://descargas.intef.es/recursos_educativos/ODES_SGOA/Bachillerato/FQ/3B.5_-_El_desafo_de_los_plsticos/index.html"

@@ -12,7 +12,6 @@ tags:
 - actividad-científica
 categories:
 - Física
-weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://descargas.intef.es/recursos_educativos/ODES_SGOA/ESO/FQ/SA5_-_Eficiencia_energtica/index.html"

@@ -12,7 +12,6 @@ tags:
 - actividad-científica
 categories:
 - Química
-weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://descargas.intef.es/recursos_educativos/ODES_SGOA/ESO/FQ/3B.2_-_Elementos_qumicos/index.html"

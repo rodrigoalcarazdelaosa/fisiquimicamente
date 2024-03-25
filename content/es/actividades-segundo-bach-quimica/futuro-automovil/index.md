@@ -15,7 +15,6 @@ tags:
 - litio
 categories:
 - Química
-weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://descargas.intef.es/recursos_educativos/ODES_SGOA/Bachillerato/FQ/SA8_-_Futuro_del_automvil_PS/index.html"

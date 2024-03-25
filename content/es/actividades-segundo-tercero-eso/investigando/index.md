@@ -11,7 +11,6 @@ tags:
 categories:
 - Física
 - Química
-weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://cedec.intef.es/situaciones-de-aprendizaje-edia-para-fisica-y-quimica-en-2o-de-eso/"
