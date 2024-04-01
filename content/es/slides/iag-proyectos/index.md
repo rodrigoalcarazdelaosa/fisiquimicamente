@@ -35,6 +35,7 @@ slides:
 - [Diseño de *prompts*](#/2)
 - [Ejemplos de *prompts* útiles para la docencia](#/3)
 - [Ejemplos de *prompts* para el estudio](#/4)
+- [El lienzo de los roles educai.tivos](#/5)
 
 </section>
 
@@ -51,9 +52,9 @@ slides:
 ---
 
 - [¿Qué son las herramientas basadas en Inteligencia Artificial Generativa?](#/1/2)
-- [¿Cuál es el valor de integrar las herramientas basadas en Inteligencia Artificial Generativa en el proceso de enseñanza y aprendizaje?](#/1/8)
-- [Limitaciones técnicas y legales de las tecnologías basadas en IAG](#/1/16)
-- [La evaluación ante la irrupción de las herramientas de IAG](#/1/28)
+- [¿Cuál es el valor de integrar las herramientas basadas en Inteligencia Artificial Generativa en el proceso de enseñanza y aprendizaje?](#/1/9)
+- [Limitaciones técnicas y legales de las tecnologías basadas en IAG](#/1/17)
+- [La evaluación ante la irrupción de las herramientas de IAG](#/1/29)
 
 ---
 
@@ -100,10 +101,18 @@ El contenido generado puede incluir, entre otros, textos, código de software, i
 
 ---
 
+#### Colecciones de herramientas de IA
+
+> Mantente al día con las últimas herramientas de IA gracias a [**Ares Almanac**](https://www.pantheon.international/almanac), una iniciativa lanzada por investigadores del **MIT** y **Pantheon Technologies**.
+
+> Descubre [**La Encicloped.IA**](https://start.me/p/L1yydO/la-encicloped-ia), una colección de recursos sobre IA en la educación, cortesía de [**Aulas Inteligentes**](https://twitter.com/AulasInteligent).
+
+---
+
 ### ¿Cuál es el valor de integrar las herramientas basadas en Inteligencia Artificial Generativa en el proceso de enseñanza y aprendizaje?
 
-- [¿Cómo pueden ayudar las herramientas basadas en  IAG  al  profesorado  para  mejorar  sus  prácticas  de enseñanza?](#/1/9)
-- [¿Cómo  pueden  las  herramientas  basadas  en  IAG  ayudar al estudiantado en su aprendizaje?](#/1/12)
+- [¿Cómo pueden ayudar las herramientas basadas en  IAG  al  profesorado  para  mejorar  sus  prácticas  de enseñanza?](#/1/10)
+- [¿Cómo  pueden  las  herramientas  basadas  en  IAG  ayudar al estudiantado en su aprendizaje?](#/1/13)
 
 ---
 
@@ -157,8 +166,8 @@ Entre las utilidades asociadas al uso de las herramientas basadas en IAG para me
 
 ### Limitaciones técnicas y legales de las tecnologías basadas en IAG
 
-- [Limitaciones](#/1/17)
-- [Implicaciones legales](#/1/23)
+- [Limitaciones](#/1/18)
+- [Implicaciones legales](#/1/24)
 
 ---
 
@@ -465,5 +474,17 @@ un ejemplo de muestra.
 ---
 
 {{< figure src="clarificacion-conceptos-2.svg" title="Fuente: [UNED](https://www.uned.es/universidad/inicio/institucional/areas-direccion/vicerrectorados/innovacion/iaeducativa.html)" lightbox="false" width="100%" >}}
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+## El lienzo de roles educAI.tivos
+
+> Propuesta de 12 estrategias prácticas para un uso efectivo de la IA con alumnado.
+
+[**Infografía** en **PDF**](https://drive.google.com/file/d/10-P5vHzDdOFoBkaySUcatZZJzNTNio8N/view?usp=sharing), complementada por [**Broch.IA**](https://huggingface.co/chat/assistant/66021129049b431eef0ccd16), un ***chatbot*** de acceso **libre** y **gratuito** en [**Hugging Face**](https://huggingface.co), cortesía de [**Aulas Inteligentes**](https://twitter.com/AulasInteligent).
 
 {{% /section %}}
