@@ -11,7 +11,6 @@ tags:
 - tabla-periódica
 categories:
 - Química
-weight: 8
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

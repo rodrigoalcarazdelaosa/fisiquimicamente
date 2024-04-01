@@ -1,8 +1,8 @@
 ---
 title: 🐍🪜 Serpientes y escaleras
 url: "/recursos-fisica-quimica/juegos/2eso/serpientes-y-escaleras"
-subtitle: Actividad muy divertida para hacer un repaso del tema de energía
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Actividad muy divertida para hacer un repaso del tema de energía."
+subtitle: Juego muy divertido para hacer un repaso del tema de energía
+summary: "Juego muy divertido para hacer un repaso del tema de energía."
 breadcrumbs: ["recursos-fisica-quimica","juegos-2eso"]
 authors:
 - miguel-quiroga
@@ -14,7 +14,6 @@ tags:
 - escaleras
 categories:
 - Física
-weight: 13
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,7 +39,7 @@ links:
 {{< figure src="tablero.svg" lightbox="false" width="100%" >}}
 
 {{% callout note %}}
-Actividad muy divertida para hacer un repaso del tema de **energía**. La actividad está basada en el juego [**serpientes y escaleras**](https://es.wikipedia.org/wiki/Serpientes_y_escaleras). La mecánica es muy sencilla.
+Juego muy divertido para hacer un repaso del tema de **energía**. Basado en el juego [**serpientes y escaleras**](https://es.wikipedia.org/wiki/Serpientes_y_escaleras), con una mecánica muy sencilla.
 {{% /callout %}}
 
 ## 📜 Instrucciones
