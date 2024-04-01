@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Hundir la flota periódica | 2.º ESO – 3.º ESO
-      url: 'http://radicalbarbatilo.blogspot.com/2021/02/hundir-la-flota-periodica.html'
+      text: Descubriendo los secretos del átomo | 3.º ESO
+      url: 'https://cedec.intef.es/proyecto-edia-recurso-de-fisica-y-quimica-para-3o-de-secundaria-descubriendo-los-secretos-del-atomo/'
   - title: 🗞️ Novedades
     content: '🧩 Último juego'
     align: center
