@@ -13,7 +13,7 @@ tags:
 - maxwell
 categories:
 - Física
-weight: 30
+weight: 40
 
 image:
   preview_only: true

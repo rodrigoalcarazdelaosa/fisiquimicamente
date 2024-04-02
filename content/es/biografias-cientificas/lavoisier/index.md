@@ -1,18 +1,16 @@
 ---
-title: Andrés Manuel del Río
+title: Antoine Laurent Lavoisier
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle:
-summary: ""
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 authors:
 - luis-moreno-martinez
 tags:
-- tabla-periódica
-- vanadio
-- andrés
+- lavoisier
 categories:
 - Química
-weight: 30
+weight: 20
 
 image:
   preview_only: true
@@ -27,9 +25,9 @@ links:
 - icon_pack: fas
   icon: 
   name: 📜 Póster
-  url: andres-manuel-del-rio-poster.pdf
+  url: antoine-laurent-lavoisier-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: andres-manuel-del-rio-triptico.pdf  
+  url: antoine-laurent-lavoisier-triptico.pdf  
 ---
