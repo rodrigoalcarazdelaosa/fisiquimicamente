@@ -150,6 +150,10 @@ S'afegeix el **prefix *ciclo--*** al nom de l'hidrocarbur.
 {{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclodecano.sdf" %}}
 {{< /spoiler >}}
 
+#### Hidrocarburs i productes petrolífers
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/hidrocarburos-petroleo-cat.svg" lightbox="false" width="100%" theme="light" >}}
+
 ### Alquens (C=C) i alquins (C&equiv;C)
 La presència d'**insaturacions** ---**enllaços dobles** (**C=C**) i **triples** (**C&equiv;C**)--- s'indica mitjançant les **terminacions *--è*** i ***--í***, respectivament, i **localitzadors** definint les seves posicions.
 

@@ -43,9 +43,9 @@ Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 - [Creació de noms sistemàtics](#/2/6)
 - [Grups funcionals --- sufixos i prefixos](#/2/9)
 - [Compostos pare (hidrocarburs)](#/2/12)
-- [Elecció i numeració de la cadena principal](#/2/43)
-- [Nomenclatura de classe funcional](#/2/46)
-- [Representació gràfica (ziga-zaga)](#/2/51)
+- [Elecció i numeració de la cadena principal](#/2/44)
+- [Nomenclatura de classe funcional](#/2/47)
+- [Representació gràfica (ziga-zaga)](#/2/52)
 
 (continua cap avall)
 
@@ -128,8 +128,8 @@ Un **grup funcional** és un **àtom** o **grup** d'**àtoms** dins d'una molèc
 
 ### Compostos pare (hidrocarburs)
 - [Alcans (C---C)](#/2/15)
-- [Alquens (C=C) i alquins (C&equiv;C)](#/2/27)
-- [Aromàtics (arens)](#/2/32)
+- [Alquens (C=C) i alquins (C&equiv;C)](#/2/28)
+- [Aromàtics (arens)](#/2/33)
 
 (continua cap avall)
 
@@ -218,6 +218,12 @@ S'afegeix el **prefix *ciclo--*** al nom de l'hidrocarbur.
 ###### Ciclodecà
 
 {{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclodecano.sdf" style="height: 600px; width: 100%; position: relative;" %}}
+
+---
+
+##### Hidrocarburs i productes petrolífers
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/hidrocarburos-petroleo-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 

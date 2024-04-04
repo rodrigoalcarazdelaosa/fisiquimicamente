@@ -13,7 +13,7 @@ slides:
   reveal_options:
     hash: true
 
-threedmol: true    
+threedmol: true
 ---
 
 <section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="10%" data-background-position="3.629% 5%, 96.371% 5%">
@@ -43,9 +43,9 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 - [Creación de nombres sistemáticos](#/2/6)
 - [Grupos funcionales --- sufijos y prefijos](#/2/9)
 - [Compuestos padre (hidrocarburos)](#/2/12)
-- [Elección y numeración de la cadena principal](#/2/44)
-- [Nomenclatura de clase funcional](#/2/47)
-- [Representación gráfica (zigzag)](#/2/52)
+- [Elección y numeración de la cadena principal](#/2/45)
+- [Nomenclatura de clase funcional](#/2/48)
+- [Representación gráfica (zigzag)](#/2/53)
 
 (continúa hacia abajo)
 
@@ -128,8 +128,8 @@ La siguiente tabla muestra la fórmula, sufijo (si es principal) y prefijo de ca
 
 ### Compuestos padre (hidrocarburos)
 - [Alcanos (C---C)](#/2/16)
-- [Alquenos (C=C) y alquinos (C&equiv;C)](#/2/28)
-- [Aromáticos (arenos)](#/2/33)
+- [Alquenos (C=C) y alquinos (C&equiv;C)](#/2/29)
+- [Aromáticos (arenos)](#/2/34)
 
 (continúa hacia abajo)
 
@@ -222,6 +222,12 @@ Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
 ###### Ciclodecano
 
 {{% 3Dmol data_href="/media/formulacion-nomenclatura-quimica-organica/ciclodecano.sdf" style="height: 600px; width: 100%; position: relative;" %}}
+
+---
+
+##### Hidrocarburos y productos petrolíferos
+
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/hidrocarburos-petroleo.svg" lightbox="false" width="100%" >}}
 
 ---
 
