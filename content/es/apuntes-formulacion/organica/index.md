@@ -183,7 +183,7 @@ Se añade el **prefijo *ciclo--*** al nombre del hidrocarburo.
 
 #### Hidrocarburos y productos petrolíferos
 
-{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/hidrocarburos-petroleo.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="formulacion-nomenclatura-quimica-organica/hidrocarburos-petroleo.svg" title="[**PDF**](/media/formulacion-nomenclatura-quimica-organica/hidrocarburos-petroleo.pdf)" lightbox="false" width="100%" theme="light" >}}
 
 ### Alquenos (C=C) y alquinos (C&equiv;C)
 La presencia de **insaturaciones** ---**enlaces dobles** (**C=C**) y **triples** (**C&equiv;C**)--- se indica mediante las **terminaciones *--eno*** e ***--ino***, respectivamente, y **localizadores** definiendo sus posiciones.
