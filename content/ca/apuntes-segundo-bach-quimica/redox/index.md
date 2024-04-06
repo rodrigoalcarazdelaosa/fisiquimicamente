@@ -48,10 +48,10 @@ slides: redox-2Batx-quimica
 ## Oxidació-reducció
 
 ### Oxidació
-*Pèrdua* d'*electrons* o *augment* de l'*estat* d'*oxidació* d'un àtom.
+**Pèrdua** d'**electrons** o **augment** de l'**estat** d'**oxidació** d'un àtom.
 
 ### Reducció
-*Guany* d'*electrons* o *disminució* de l'*estat* d'*oxidació* d'un àtom.
+**Guany** d'**electrons** o **disminució** de l'**estat** d'**oxidació** d'un àtom.
 
 ### Oxidants i reductors
 El parell d'un agent oxidant i un altre reductor que intervé en una determinada reacció es denomina **parell redox**.
@@ -106,7 +106,7 @@ Emprat a reaccions redox que ocorren en **dissolució** (àcida o bàsica).
 #### Passes
 
 1. Ajustar àtoms diferents d'O i H.
-2. Ajustar els àtoms d'O i H.
+2. Ajustar els àtoms d'O i H:
  - Medi àcid: afegir 1 H<sub>2</sub>O per cada O que falti i compensar amb H<sup>+</sup> a l'altre costat de l'equació.
  - Medi bàsic: afegir 1 H<sub>2</sub>O per cada O que excedeixi i compensar amb OH<sup>–</sup> a l'altre costat de l'equació.
 3. Ajustar les càrregues afegint electrons a la part més positiva.
@@ -189,7 +189,7 @@ Existeixen principalment dos tipus de ponts salins: tub de vidre (forma d'U) i p
 
 ## Potencial estàndard de reducció $E^\circ$
 
-És la tendència d'una espècie química a ser reduïda en en el seu **estat estàndard** ($p = 1\thinspace\mathrm{bar} = 10^5\thinspace\mathrm{Pa}$ i $c = 1\thinspace\mathrm M$). Es pot mesurar experimentalment amb ajuda de l'**elèctrode estàndard d'hidrogen**.
+És la tendència d'una espècie química a ser reduïda a una temperatura de 25&thinsp;&deg;C, una pressió de 1&thinsp;atm i en una dissolució aquosa amb una concentració 1&thinsp;M. Es pot mesurar experimentalment amb ajuda de l'**elèctrode estàndard d'hidrogen**.
 
 {{< spoiler text="Punxa aquí per a conèixer més sobre l'**elèctrode estàndard d'hidrogen**" >}}
 

@@ -59,10 +59,10 @@ math: true
 ## Oxidación-reducción
 
 ### Oxidación
-*Pérdida* de *electrones* o *aumento* del *estado* de *oxidación* de un átomo.
+**Pérdida** de **electrones** o **aumento** del **estado** de **oxidación** de un átomo.
 
 ### Reducción
-*Ganancia* de *electrones* o *disminución* del *estado* de *oxidación* de un átomo.
+**Ganancia** de **electrones** o **disminución** del **estado** de **oxidación** de un átomo.
 
 ### Oxidantes y reductores
 El par de un agente oxidante y otro reductor que interviene en una determinada reacción se denomina **par rédox**.
@@ -117,7 +117,7 @@ Empleado en reacciones rédox que ocurren en **disolución** (ácida o básica).
 #### Pasos
 
 1. Ajustar átomos distintos de O e H.
-2. Ajustar los átomos de O e H.
+2. Ajustar los átomos de O e H:
     - Medio ácido: añadir 1 H<sub>2</sub>O por cada O que falte y compensar con H<sup>+</sup> al otro lado de la ecuación.
     - Medio básico: añadir 1 H<sub>2</sub>O por cada O que exceda y compensar con OH<sup>–</sup> al otro lado de la ecuación.
 3. Ajustar las cargas añadiendo electrones a la parte más positiva.
@@ -200,7 +200,7 @@ Existen principalmente dos tipos de puentes salinos: tubo de vidrio (forma de U)
 
 ## Potencial estándar de reducción $E^\circ$
 
-Es la tendencia de una especie química a ser reducida en su **estado estándar** ($p = 1\thinspace\mathrm{bar} = 10^5\thinspace\mathrm{Pa}$ y $c = 1\thinspace\mathrm M$). Se puede medir experimentalmente con ayuda del **electrodo estándar de hidrógeno**.
+Es la tendencia de una especie química a ser reducida a una temperatura de 25&thinsp;&deg;C, una presión de 1&thinsp;atm y en una disolución acuosa con una concentración 1&thinsp;M. Se puede medir experimentalmente con ayuda del **electrodo estándar de hidrógeno**.
 
 {{< spoiler text="Pincha aquí para conocer más sobre el **electrodo estándar de hidrógeno**" >}}
 
