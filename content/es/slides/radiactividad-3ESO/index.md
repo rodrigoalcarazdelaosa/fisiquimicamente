@@ -238,6 +238,10 @@ El núcleo compuesto se escinde en varios fragmentos asimétricos, emitiendo neu
 
 ### Fusión nuclear
 
+> **Aprende más** sobre **fusión nuclear** con [esta excelente **extrada** del **blog**]({{< relref "post/fusion-nuclear" >}}) de la mano de [***Bajo la sombra del teseracto***](https://twitter.com/BTeseracto).
+
+---
+
 Varios núcleos ligeros se unen para formar otro más pesado.
 
 ---

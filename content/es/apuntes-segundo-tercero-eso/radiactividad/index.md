@@ -127,6 +127,10 @@ El núcleo compuesto se escinde en varios fragmentos asimétricos, emitiendo neu
 
 ### Fusión nuclear
 
+{{% callout note %}}
+**Aprende más** sobre **fusión nuclear** con [esta excelente **extrada** del **blog**]({{< relref "post/fusion-nuclear" >}}) de la mano de [***Bajo la sombra del teseracto***](https://twitter.com/BTeseracto).
+{{% /callout %}}
+
 Varios núcleos ligeros se unen para formar otro más pesado.
 
 {{< figure library="true" src="radiactividad-3ESO/fusion-sol.svg" title="La cadena protón-protón, rama I, para convertir el hidrógeno en helio, domina en estrellas del tamaño del Sol o menores. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Fusion_in_the_Sun.svg." lightbox="false" width="100%" >}}
