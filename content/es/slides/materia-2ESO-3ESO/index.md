@@ -196,7 +196,7 @@ Los tres principales **estados de agregación** en los que podemos encontrar a l
 
 ---
 
-> ¿En qué **estado** de **agregación** está la **nieve**? Descúbrelo en [esta estupenda **entrada** del **blog**]({{< relref "/post/nieve" >}}).
+> ¿En qué **estado** de **agregación** está la **nieve**? Descúbrelo en [esta estupenda **entrada** del **blog**]({{< relref "/post/nieve" >}}).<br><br>También puedes **aprender más** sobre el cuarto estado de la materia, el **plasma**, [aquí]({{< relref "/post/plasma" >}}).
 
 ---
 

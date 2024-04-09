@@ -198,6 +198,8 @@ Los tres principales **estados de agregación** en los que podemos encontrar a l
 
 {{% callout note %}}
 ¿En qué **estado** de **agregación** está la **nieve**? Descúbrelo en [esta estupenda **entrada** del **blog**]({{< relref "/post/nieve" >}}).
+
+También puedes **aprender más** sobre el cuarto estado de la materia, el **plasma**, [aquí]({{< relref "/post/plasma" >}}).
 {{% /callout %}}
 
 ### Cambios de estado
@@ -212,7 +214,7 @@ Si quieres **aprender más** sobre la **naturaleza** de los **cambios** de **est
 
 Además, **durante** un **cambio** de **estado** la **temperatura** permanece **constante**, como se muestra en la siguiente curva de calentamiento (temperatura$-$tiempo) de una sustancia pura:
 
-{{< figure library="true" src="materia-2ESO-3ESO/grafica-calentamiento.svg" title="La sustancia comienza en estado sólido, calentándose hasta los 3&thinsp;&deg;C, su **temperatura de fusión**. Una vez se ha fundido completamente, sigue calentándose, en estado líquido, hasta los 113&thinsp;&deg;C, su **temperatura de ebullición**. A partir de esa temperatura la sustancia se encuentra en estado gaseoso y puede seguir calentándose *indefinidamente* (a partir de una cierta temperatura, la materia pasa a otro estado conocido como [*plasma*](https://fisiquimicamente.com/blog/2022/05/06/plasma/) &mdash;gas ionizado)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="materia-2ESO-3ESO/grafica-calentamiento.svg" title="La sustancia comienza en estado sólido, calentándose hasta los 3&thinsp;&deg;C, su **temperatura de fusión**. Una vez se ha fundido completamente, sigue calentándose, en estado líquido, hasta los 113&thinsp;&deg;C, su **temperatura de ebullición**. A partir de esa temperatura la sustancia se encuentra en estado gaseoso y puede seguir calentándose *indefinidamente* (a partir de una cierta temperatura, la materia pasa a otro estado conocido como [**plasma**](https://fisiquimicamente.com/blog/2022/05/06/plasma/) &mdash;gas ionizado)." lightbox="false" width="100%" >}}
 
 Las **temperaturas** (o puntos) de **fusión** y **ebullición** (ambas aumentan con la presión) son, al igual que la densidad, **propiedades características** de la materia.
 
