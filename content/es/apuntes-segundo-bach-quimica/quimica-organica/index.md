@@ -2,7 +2,7 @@
 title: Química orgánica
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica"
 subtitle: Isomería, reactividad y polímeros
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Isomería, reactividad y polímeros."
+summary: "Isomería, reactividad y polímeros."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - alba-lopez-valenzuela

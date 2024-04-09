@@ -2,7 +2,7 @@
 title: Radiactividad
 url: "/recursos-fisica-quimica/apuntes/3eso/radiactividad"
 subtitle: Breve historia, tipos de desintegraciones y reacciones nucleares
-summary: "Breve historia, tipos de desintegraciones y reacciones nucleares."
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Breve historia, tipos de desintegraciones y reacciones nucleares."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","3eso"]
 authors:
 - jesica-sanchez-mazon
