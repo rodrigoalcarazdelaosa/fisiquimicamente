@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Química orgánica | 2.º Bach
-      url: 'recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica/'
+      text: Radiactividad | 3.º ESO
+      url: 'recursos-fisica-quimica/apuntes/3eso/radiactividad/'
   - title: 🗞️ Novedades
     content: '🗒️ Última actividad'
     align: center
