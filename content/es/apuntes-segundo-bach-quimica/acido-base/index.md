@@ -232,7 +232,7 @@ Aprende más sobre la **importancia** de las **reacciones ácido-base** para el 
 ## Indicadores ácido-base
 
 {{% callout note %}}
-Aprende a utiliza la [**cúrcuma**](https://es.wikipedia.org/wiki/Curcuma_longa) como indicador de pH y crea [**tinta invisible**](https://es.wikipedia.org/wiki/Tinta_invisible) con [esta genial **práctica** de la mano de **Miguel Quiroga**]({{< relref "/practicas-cuarto-eso/tinta-invisible-curcuma" >}}).
+Aprende a utilizar la [**cúrcuma**](https://es.wikipedia.org/wiki/Curcuma_longa) como indicador de pH y crea [**tinta invisible**](https://es.wikipedia.org/wiki/Tinta_invisible) con [esta genial **práctica** de la mano de **Miguel Quiroga**]({{< relref "/practicas-cuarto-eso/tinta-invisible-curcuma" >}}).
 {{% /callout %}}
 
 Un **indicador** de pH es un compuesto químico *halocrómico* (cambia de color ---*vira*--- ante cambios de pH) que se añade en pequeñas cantidades a una disolución para poder determinar visualmente su pH (acidez o basicidad). El cambio de color se denomina **viraje**.

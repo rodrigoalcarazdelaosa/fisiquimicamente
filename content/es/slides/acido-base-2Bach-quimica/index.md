@@ -324,7 +324,7 @@ Según sea el valorante un ácido o base fuerte, el pH en el punto de equivalenc
 
 ### Indicadores ácido-base
 
-> Aprende a utiliza la [**cúrcuma**](https://es.wikipedia.org/wiki/Curcuma_longa) como indicador de pH y crea [**tinta invisible**](https://es.wikipedia.org/wiki/Tinta_invisible) con [esta genial **práctica** de la mano de **Miguel Quiroga**]({{< relref "/practicas-cuarto-eso/tinta-invisible-curcuma" >}}).
+> Aprende a utilizar la [**cúrcuma**](https://es.wikipedia.org/wiki/Curcuma_longa) como indicador de pH y crea [**tinta invisible**](https://es.wikipedia.org/wiki/Tinta_invisible) con [esta genial **práctica** de la mano de **Miguel Quiroga**]({{< relref "/practicas-cuarto-eso/tinta-invisible-curcuma" >}}).
 
 ---
 
