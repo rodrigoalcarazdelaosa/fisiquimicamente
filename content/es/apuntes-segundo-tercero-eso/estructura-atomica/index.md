@@ -148,6 +148,11 @@ Concepto introducido en 1913 por el químico inglés [Frederick Soddy](https://e
 #### Isótopos radiactivos
 Los llamados **isótopos radiactivos** son aquellos isótopos que son **inestables** y tienden a **desintegrarse** espontáneamente, **emitiendo radiación** y/o **materia**, transformándose en isótopos estables de otros elementos químicos.
 
+{{% callout note %}}
+**Aprende más** sobre **radiactividad** [aquí]({{< relref "apuntes-segundo-tercero-eso/radiactividad" >}}).
+
+{{% /callout %}}
+
 ## Masa atómica
 
 La **masa** de los **átomos** es **extremadamente pequeña** comparada con las masas de los objetos cotidianos. Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica**, u, la cual se define como:
