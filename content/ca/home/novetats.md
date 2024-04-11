@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Química orgànica | 2n Batx
-      url: 'recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica/'
+      text: Radioactivitat | 3r ESO
+      url: 'recursos-fisica-quimica/apunts/3eso/radioactivitat/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
     align: center

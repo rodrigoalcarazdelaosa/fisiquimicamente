@@ -14,7 +14,7 @@ tags:
 - electricitat-electrònica
 categories:
 - Física
-weight: 10
+weight: 11
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
