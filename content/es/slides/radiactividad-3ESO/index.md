@@ -32,6 +32,10 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ---
 
+> Si quieres **ampliar** esta **información**, te recomendamos la [excelente **guía didáctica** del **CSN**](https://www.csn.es/documents/10182/914813/OFC-04-06%20Radiación%20y%20protección%20radiológica%20%28Guía%20didáctica%20para%20Educación%20Secundaria%29) sobre **radiación** y **protección radiológica**.
+
+---
+
 La **radiactividad** consiste en la **emisión** de **partículas** o **radiación electromagnética de alta energía** (rayos X y rayos gamma) debido a la **inestabilidad** de los **núcleos atómicos**.
 
 ---
