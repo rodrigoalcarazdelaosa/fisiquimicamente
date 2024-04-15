@@ -101,7 +101,7 @@ social:
     footer: true
 - icon: ☕️
   icon_pack: emoji
-  link: https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR
+  link: /donatius
   label: Invítanos a un cafè
   display:
     header: false

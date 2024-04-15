@@ -102,7 +102,7 @@ social:
     footer: true
 - icon: ☕️
   icon_pack: emoji
-  link: https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR
+  link: /donativos
   label: Invítanos a un café
   display:
     header: false

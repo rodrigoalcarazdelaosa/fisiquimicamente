@@ -16,21 +16,21 @@
 		{{- $coffee_tgs := resources.Get ("media/lottie/coffee.tgs") -}}
 		{{ if eq .Site.Language.Lang "es" }}
 		<div align="center">
-		<a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR" target="_blank" rel="noopener">			
+		<a href="https://fisiquimicamente.com/donativos" target="_blank" rel="noopener">			
 		<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un café">
 		</tgs-player>
 		</a>
 		</div>
 		{{ else if eq .Site.Language.Lang "en" }}
 		<div align="center">
-        <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR" target="_blank" rel="noopener">
+        <a href="https://physichemically.com/donations" target="_blank" rel="noopener">
 			<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Buy us a coffee">
 			</tgs-player>			
 		</a>
 		</div>
 		{{ else if eq .Site.Language.Lang "ca" }}
 		<div align="center">
-        <a href="https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR" target="_blank" rel="noopener">
+        <a href="https://fisiquimicament.com/donatius" target="_blank" rel="noopener">
 			<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un cafè">
 			</tgs-player>
 		</a>
@@ -40,7 +40,7 @@
 	</ul>
 	  <p class="kudos">
 	  {{ if eq .Site.Language.Lang "es" }}
-	  <strong>Invitándonos a un café</strong> estás reconociendo y alabando nuestro esfuerzo, animándonos a seguir preparando materiales de calidad. FisiQuímicamente funciona sin anuncios; todos los <em>cafés</em> se destinarán a costearla y seguir mejorándola.
+	  <strong>Invitándonos a un café</strong> estás reconociendo nuestro esfuerzo, animándonos a seguir preparando materiales de calidad. FisiQuímicamente funciona sin anuncios; todos los <em>cafés</em> se destinarán a costearla y seguir mejorándola.
 		<script>
 			document.addEventListener('wcThemeChange', (e) => {
 			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
@@ -52,7 +52,7 @@
 			  });
 		</script>
 	  {{ else if eq .Site.Language.Lang "en" }}
-	  <strong>Inviting us to a coffee</strong> you are acknowledging and praising our effort, encouraging us to continue preparing quality materials. PhysiChemically runs ad-free; all the <em>coffees</em> will be used to pay for it and to continue improving it.
+	  <strong>Inviting us to a coffee</strong> you are acknowledging our effort, encouraging us to continue preparing quality materials. PhysiChemically runs ad-free; all the <em>coffees</em> will be used to pay for it and to continue improving it.
 		<script>
 			document.addEventListener('wcThemeChange', (e) => {
 			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
@@ -64,7 +64,7 @@
 			  });
 		</script>
 	{{ else if eq .Site.Language.Lang "ca" }}
-	<strong>Convidant-nos a un cafè</strong> estàs reconeixent i lloant el nostre esforç, animant-nos a seguir preparant materials de qualitat. FisiQuímicament funciona sense anuncis; tots els <em>cafès</em> es destinaran a costejar-la i continuar millorant-la.
+	<strong>Convidant-nos a un cafè</strong> estàs reconeixent el nostre esforç, animant-nos a seguir preparant materials de qualitat. FisiQuímicament funciona sense anuncis; tots els <em>cafès</em> es destinaran a costejar-la i continuar millorant-la.
 	<script>
 		document.addEventListener('wcThemeChange', (e) => {
 		  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());

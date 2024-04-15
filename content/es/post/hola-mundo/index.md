@@ -51,9 +51,9 @@ Las entradas de este blog van dirigidas a nuestros/as alumnos/as y a todo aquel 
 
 ¿Conoces [Discord](https://discord.com/)? [Únete al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](https://discord.gg/kJqPqTJ) y comienza a **participar** en la web comentando, dando tu opinión, realizando peticiones, sugerencias, etc.
 
-### *Cafés* (donaciones)
+### *Cafés* (donativos)
 
-Si deseas reconocer y alabar nuestro esfuerzo, animándonos a seguir preparando materiales de calidad, [puedes invitarnos a un *café*](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=¡Gracias%21+Con+tu+contribución+estás+ayudando+a+que+FisiQu%C3%ADmicamente+siga+mejorando.&currency_code=EUR) utilizando el servicio [{{< icon name="paypal" pack="svg" >}}PayPal](https://www.paypal.com/es/home). FisiQuímicamente funciona sin anuncios; todos los *cafés* se destinarán a costearla y seguir mejorándola.
+Si deseas reconocer nuestro esfuerzo, animándonos a seguir preparando materiales de calidad, [puedes invitarnos a un *café*](/donativos) utilizando el servicio [{{< icon name="paypal" pack="svg" >}}PayPal](https://www.paypal.com/es/home). FisiQuímicamente funciona sin anuncios; todos los *cafés* se destinarán a costearla y seguir mejorándola.
 
 ### Compartiendo
 

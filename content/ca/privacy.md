@@ -19,9 +19,9 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) pel seu desplegament/servei i per a les analítiques web.
 - [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy/) per al [formulari de contacte](/#contacte).
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) per tipografies[^3].
-- [<img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> Paypal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donacions)[^4].
+- [<img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> Paypal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) per als *cafès* (donatius)[^4].
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) per la [llicència](/llicencia).
 
 [^3]: Actualment la web utilitza les tipografies [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) i [Inconsolata](https://fonts.google.com/specimen/Inconsolata). A més, [Cloudflare Fonts](https://www.cloudflare.com/es-es/cloudflare-fonts/) està activat.
 
-[^4]: Per tal de cobrir les despeses del web relacionats amb el domini i l'allotjament. FisiQuímicament funciona sense anuncis.
+[^4]: Per tal de cobrir les despeses de la web relacionats amb el domini i l'allotjament. FisiQuímicament funciona sense anuncis.

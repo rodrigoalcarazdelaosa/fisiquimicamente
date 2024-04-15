@@ -50,9 +50,9 @@ Les entradas d'aquest blog van dirigidas al nostre alumnat i a tots aquells que 
 
 Coneixes [Discord](https://discord.com/)? [Uneix-te al servidor de Discord de <img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](https://discord.gg/kJqPqTJ) i comença a **participar** a la web comentant, donant la teva opinió, realitzant peticions, suggeriments, etc.
 
-### *Cafès* (donacions)
+### *Cafès* (donatius)
 
-Si vols reconèixer i lloar el nostre esforç, animant-nos a seguir preparant materials de qualitat, [pots convidar-nos a un cafè](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Gr%C3%A0cies%21+Amb+la+teva+contribuci%C3%B3+est%C3%A0s+ajudant+que+FisiQu%C3%ADmicament+segueixi+millorant.&currency_code=EUR) utilitzant el servei [{{< icon name="paypal" pack="svg" >}}PayPal](https://www.paypal.com/es/home). FisiQuímicament funciona sense anuncis; tots els *cafès* es destinaran a costejar-la i continuar millorant-la.
+Si vols reconèixer el nostre esforç, animant-nos a seguir preparant materials de qualitat, [pots convidar-nos a un cafè](/donatius) utilitzant el servei [{{< icon name="paypal" pack="svg" >}}PayPal](https://www.paypal.com/es/home). FisiQuímicament funciona sense anuncis; tots els *cafès* es destinaran a costejar-la i continuar millorant-la.
 
 ### Compartint
 

@@ -101,7 +101,7 @@ social:
     footer: true
 - icon: ☕️
   icon_pack: emoji
-  link: https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR
+  link: /donations
   label: Buy us a coffee
   display:
     header: false

@@ -52,7 +52,7 @@ Do you know [Discord](https://discord.com/)? [Join the Discord server of <img dr
 
 ### *Coffees* (donations)
 
-If you wish to acknowledge and praise our effort, encouraging us to continue preparing quality materials, [you can buy us a *coffee*](https://www.paypal.com/donate/?business=5DYE3DLPRQTQG&no_recurring=0&item_name=Thank+you%21+With+your+contribution+you+are+helping+PhysiChemically+continue+to+improve.&currency_code=EUR) using the [{{< icon name="paypal" pack="svg" >}}PayPal](https://www.paypal.com/es/home) service. PhysiChemically runs ad-free; all the *coffees* will be used to pay for it and to continue improving it.
+If you wish to acknowledge our effort, encouraging us to continue preparing quality materials, [you can buy us a *coffee*](/donations) using the [{{< icon name="paypal" pack="svg" >}}PayPal](https://www.paypal.com/es/home) service. PhysiChemically runs ad-free; all the *coffees* will be used to pay for it and to continue improving it.
 
 ### Sharing
 You can also <strong>share</strong> all the <strong>blog posts</strong> and [📚&nbsp;<span style="font-variant:small-caps;">**notes**</span>]({{< ref "/apuntes" >}}) on your favorite **social networks**.

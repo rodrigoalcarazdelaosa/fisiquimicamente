@@ -1610,3 +1610,16 @@ details p {
   background-color: $nord3;
   border-color: $nord6;
 }
+
+.progress {
+  background-color: $nord4;
+}
+
+.dark .progress {
+  background-color: $nord3;
+}
+
+.progress-bar {
+  background-color: $nord8;
+  color: $nord0;
+}
