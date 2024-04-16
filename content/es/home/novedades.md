@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Descubriendo los secretos del átomo | 3.º ESO
-      url: 'https://cedec.intef.es/proyecto-edia-recurso-de-fisica-y-quimica-para-3o-de-secundaria-descubriendo-los-secretos-del-atomo/'
+      text: El arte de formular | 3.º ESO
+      url: 'https://descargas.intef.es/cedec/proyectoedia/fisica_quimica/contenidos/arte_formular/index.html'
   - title: 🗞️ Novedades
     content: '🧩 Último juego'
     align: center

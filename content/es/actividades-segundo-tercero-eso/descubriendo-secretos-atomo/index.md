@@ -2,7 +2,7 @@
 title: Descubriendo los secretos de los átomos
 url: "/recursos-fisica-quimica/actividades/3eso/descubriendo-los-secretos-de-los-atomos"
 subtitle: Estudia la evolución de los modelos atómicos a lo largo del tiempo hasta llegar al modelo atómico actual
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Estudia la evolución de los modelos atómicos a lo largo del tiempo hasta llegar al modelo atómico actual."
+summary: "Estudia la evolución de los modelos atómicos a lo largo del tiempo hasta llegar al modelo atómico actual."
 breadcrumbs: ["recursos-fisica-quimica","actividades-3eso"]
 tags:
 - actividades
