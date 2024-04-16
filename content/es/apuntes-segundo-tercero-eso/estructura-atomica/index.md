@@ -51,6 +51,7 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 - Los **compuestos químicos** se forman por la **unión** de dos o más **átomos** según una relación numérica sencilla y constante.
 
 ## El átomo
+
 En la actualidad sabemos que los átomos se dividen en dos zonas:
 
 Espacio del núcleo
@@ -72,6 +73,10 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 <td colspan=3>$q_\text{protón}=-q_\text{electrón}$
 
 {{< figure library="true" src="estructura-atomica-2ESO-3ESO/nucleo-orbital.svg" title="Distinción cualitativa de las dos áreas mediante una ilustración tipográfica del modelo atómico." lightbox="false" width="100%" >}}
+
+Esta **animación** del [**CERN**](https://home.cern) muestra la **estructura** de la **materia** a escalas cada vez más pequeñas. Al acercarnos a un cabello humano, pasamos por las células ciliadas, las estructuras fibrilares, las moléculas de [queratina](https://es.wikipedia.org/wiki/Queratina), los átomos de carbono, los núcleos, los neutrones, los protones y, por último, los [cuarks](https://es.wikipedia.org/wiki/Cuark):
+
+{{< youtube 7WhRJV_bAiE >}}
 
 ### Número atómico $Z$
 El **número atómico**, $Z$, es el número de **protones** que tiene un átomo en su núcleo.

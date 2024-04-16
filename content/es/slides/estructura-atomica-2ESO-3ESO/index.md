@@ -100,6 +100,12 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 
 ---
 
+Esta **animación** del [**CERN**](https://home.cern) muestra la **estructura** de la **materia** a escalas cada vez más pequeñas:
+
+{{< youtube 7WhRJV_bAiE >}}
+
+---
+
 ### Número atómico $Z$
 El **número atómico**, $Z$, es el número de **protones** que tiene un átomo en su núcleo.
 
