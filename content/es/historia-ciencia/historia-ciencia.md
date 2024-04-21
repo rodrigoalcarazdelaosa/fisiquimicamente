@@ -36,7 +36,7 @@ subtitle = "Biografías y principales contribuciones de los grandes científicos
     filter = ".js-id-maxwell, .js-id-curie, .js-id-andrés"
    [[content.filter_button]]
     name = "S. XX"
-    filter = ".js-id-curie"
+    filter = ".js-id-curie, .js-id-perey"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

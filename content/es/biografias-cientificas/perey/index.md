@@ -1,16 +1,17 @@
 ---
-title: Antoine-Laurent Lavoisier
+title: Marguerite Perey
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle:
-summary: ""
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 authors:
 - luis-moreno-martinez
 tags:
-- lavoisier
+- perey
 categories:
+- Física
 - Química
-weight: 20
+weight: 60
 
 image:
   preview_only: true
@@ -25,9 +26,9 @@ links:
 - icon_pack: fas
   icon: 
   name: 📜 Póster
-  url: antoine-laurent-lavoisier-poster.pdf
+  url: marguerite-perey-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: antoine-laurent-lavoisier-triptico.pdf  
+  url: marguerite-perey-triptico.pdf  
 ---
