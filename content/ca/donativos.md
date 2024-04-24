@@ -18,8 +18,8 @@ breadcrumbs: [""]
 </a>
 </div>
 
-A dia d'avui estem a prop de **cobrir** les **despeses** de la web relacionats amb el domini i l'allotjament per al **2024**:
+A dia d'avui estem molt a prop de **cobrir** les **despeses** de la web relacionats amb el domini i l'allotjament per al **2024**:
 
 <div class="progress" style="height: 2rem; font-size: 1.5rem">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%">95&thinsp;%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100" style="width: 99%">99&thinsp;%</div>
 </div>

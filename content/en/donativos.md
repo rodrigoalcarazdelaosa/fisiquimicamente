@@ -18,8 +18,8 @@ breadcrumbs: [""]
 </a>
 </div>
 
-As of today, we are close to **covering** the website **costs** related to the domain and hosting for **2024**:
+As of today, we are very close to **covering** the website **costs** related to the domain and hosting for **2024**:
 
 <div class="progress" style="height: 2rem; font-size: 1.5rem">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%">95&thinsp;%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100" style="width: 99%">99&thinsp;%</div>
 </div>
