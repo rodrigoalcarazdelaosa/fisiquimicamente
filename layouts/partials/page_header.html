@@ -296,14 +296,14 @@
   <div style="position: relative">
     {{ $lightest := index (sort $image.Colors "Luminance" "desc") 0 }}
     {{ $darkest := index (sort $image.Colors "Luminance") 0 }}
-    <img id="featured-image" data-light = "{{ $lightest }}" data-dark = "{{ $darkest }}" style = "border: 5px solid {{ $lightest }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
+    <img id="featured-image" data-light = "{{ $darkest }}" data-dark = "{{ $lightest }}" style = "border: 5px solid {{ $darkest }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
     <script>
 			document.addEventListener('wcThemeChange', (e) => {
 			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
 			  if (e.detail.isDarkTheme()) {
-				  document.getElementById("featured-image").style.border = "5px solid " +  document.getElementById("featured-image").dataset.light;
-			  } else {
 				  document.getElementById("featured-image").style.border = "5px solid " +  document.getElementById("featured-image").dataset.dark;
+			  } else {
+				  document.getElementById("featured-image").style.border = "5px solid " +  document.getElementById("featured-image").dataset.light;
 			  }
 			  });
 		</script>
