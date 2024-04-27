@@ -22,7 +22,7 @@ categories:
 - Química
 image:
   placement: 3
-  caption: "Imagen generada por [Micosoft Designer](https://designer.microsoft.com), con tecnología de [DALL·E 3](https://openai.com/dall-e-3)"
+  caption: "Imagen generada por [**Micosoft Designer**](https://designer.microsoft.com), con tecnología de [**DALL·E 3**](https://openai.com/dall-e-3)"
 ---
 
 {{% callout thread %}}

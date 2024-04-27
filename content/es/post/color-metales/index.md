@@ -20,7 +20,7 @@ categories:
 - Física
 image:
   placement: 3
-  caption: "Foto de [Hassan OUAJBIR](https://unsplash.com/@hazardos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/es/fotos/251hbdY3M4E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  caption: "Foto de [**Hassan OUAJBIR**](https://unsplash.com/@hazardos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/es/fotos/251hbdY3M4E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 
 math: true
 ---
@@ -129,7 +129,7 @@ Espero que la entrada os haya mostrado lo bonita y compleja que puede llegar a s
 {{% callout note %}}
 Fuentes:
 - Hiroshi Tatewaki, Shigeyoshi Yamamoto, and Yasuyo Hatano
-*ACS Omega* **2017** *2*(9), 6072–6080. 
+*ACS Omega* **2017** *2*(9), 6072–6080.
 https://doi.org/10.1021/acsomega.7b00802
 - Pyykkö, P. (2004), Theoretical Chemistry of Gold. Angewandte Chemie International Edition, 43: 4412–4456. https://doi.org/10.1002/anie.200300624
 {{% /callout %}}
