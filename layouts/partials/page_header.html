@@ -60,7 +60,7 @@
 {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
 
 <div class="article-container pt-3">
-  
+
   {{ with $page.Params.breadcrumbs }}
   <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
@@ -74,7 +74,7 @@
 				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
 			  }
 			  });
-		</script></a></li>    
+		</script></a></li>
 	{{ else if eq site.Language.Lang "en" }}
   	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg" id="physichemically-breadcrumb"><script>
 			document.addEventListener('wcThemeChange', (e) => {
@@ -114,46 +114,46 @@
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2eso">📗 2.º ESO</a></li>
     {{else if eq . "juegos-2eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2eso">📗 2.º ESO</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2eso">📗 2.º ESO</a></li>
     {{else if eq . "practicas-2eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2eso">📗 2.º ESO</a></li>        
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2eso">📗 2.º ESO</a></li>
     {{else if eq . "actividades-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/3eso">📘 3.º ESO</a></li>
     {{else if eq . "juegos-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/3eso">📘 3.º ESO</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/3eso">📘 3.º ESO</a></li>
     {{else if eq . "practicas-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/3eso">📘 3.º ESO</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/3eso">📘 3.º ESO</a></li>
     {{else if eq . "actividades-2eso-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/actividades/3eso">📘 3.º ESO</a></li>
     {{else if eq . "juegos-2eso-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/juegos/3eso">📘 3.º ESO</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/juegos/3eso">📘 3.º ESO</a></li>
     {{else if eq . "practicas-2eso-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/practicas-laboratorio/3eso">📘 3.º ESO</a></li>        
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/practicas-laboratorio/3eso">📘 3.º ESO</a></li>
     {{else if eq . "actividades-4eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/4eso">📙 4.º ESO</a></li>
     {{else if eq . "juegos-4eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/4eso">📙 4.º ESO</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/4eso">📙 4.º ESO</a></li>
     {{else if eq . "practicas-4eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/4eso">📙 4.º ESO</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/4eso">📙 4.º ESO</a></li>
     {{else if eq . "actividades-1bach"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/1bach">📕 1.º Bach</a></li>
     {{else if eq . "juegos-1bach"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/1bach">📕 1.º Bach</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/1bach">📕 1.º Bach</a></li>
     {{else if eq . "practicas-1bach"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/1bach">📕 1.º Bach</a></li>        
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/1bach">📕 1.º Bach</a></li>
     {{else if eq . "actividades-2bach-fisica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach">📓 2.º Bach</a></li>
@@ -165,7 +165,7 @@
     {{else if eq . "practicas-2bach-fisica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach">📓 2.º Bach</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/fisica">🧲 Física</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/fisica">🧲 Física</a></li>
     {{else if eq . "actividades-2bach-quimica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach">📓 2.º Bach</a></li>
@@ -177,7 +177,7 @@
     {{else if eq . "practicas-2bach-quimica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach">📓 2.º Bach</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/quimica">⚗️ Química</a></li>        
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/quimica">⚗️ Química</a></li>
     {{else if eq . "actividades-formulacion-nomenclatura-quimica-inorganica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
@@ -185,7 +185,7 @@
     {{else if eq . "juegos-formulacion-nomenclatura-quimica-inorganica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Inorgánica</li>    
+    <li class="breadcrumb-item active" aria-current="page">Inorgánica</li>
     {{else if eq . "practicas-formulacion-nomenclatura-quimica-inorganica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
@@ -197,11 +197,11 @@
     {{else if eq . "juegos-formulacion-nomenclatura-quimica-organica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Orgánica</li>    
+    <li class="breadcrumb-item active" aria-current="page">Orgánica</li>
     {{else if eq . "practicas-formulacion-nomenclatura-quimica-organica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Orgánica</li>    
+    <li class="breadcrumb-item active" aria-current="page">Orgánica</li>
     {{else if eq . "2eso"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2eso">📗 2.º ESO</a></li>
     {{else if eq . "13-14-year-olds"}}
@@ -215,7 +215,7 @@
     {{else if eq . "3reso"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/3eso">📘 3r ESO</a></li>
     {{else if eq . "2eso-3eso"}}
-  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/apuntes/3eso">📘 3.º ESO</a></li>	
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/apuntes/3eso">📘 3.º ESO</a></li>
     {{else if eq . "13-15-year-olds"}}
   	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/13-14-year-olds">📗 13&ndash;14 year-olds</a> · <a href="/physics-chemistry-notes/14-15-year-olds">📘 14&ndash;15 year-olds</a></li>
     {{else if eq . "2neso-3reso"}}
@@ -223,13 +223,13 @@
     {{else if eq . "4eso"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/4eso">📙 4.º ESO</a></li>
     {{else if eq . "15-16-year-olds"}}
-  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/15-16-year-olds">📙 15&ndash;16 year-olds</a></li>	
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/15-16-year-olds">📙 15&ndash;16 year-olds</a></li>
     {{else if eq . "4teso"}}
-  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/4eso">📙 4t ESO</a></li>	
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/4eso">📙 4t ESO</a></li>
     {{else if eq . "1bach"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/1bach">📕 1.º Bach</a></li>
     {{else if eq . "16-17-year-olds"}}
-  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/16-17-year-olds">📕 16&ndash;17 year-olds</a></li>	
+  	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/16-17-year-olds">📕 16&ndash;17 year-olds</a></li>
     {{ else if and (eq . "1batx-fisica") (eq site.Language.Lang "ca") }}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/1batx">📕 1r Batx</a></li><li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/1batx/fisica">🧲 Física</a></li>
     {{ else if and (eq . "1batx-quimica") (eq site.Language.Lang "ca") }}
@@ -251,7 +251,7 @@
     {{else if eq . "chemistry"}}
   	<li class="breadcrumb-item"><a href="/physics-chemistry-notes/17-18-year-olds/chemistry">⚗️ Chemistry</a></li>
     {{ else if and (eq . "quimica") (eq site.Language.Lang "ca") }}
-  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx/quimica">⚗️ Química</a></li>	
+  	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/2batx/quimica">⚗️ Química</a></li>
     {{else if eq . "formulacion-nomenclatura-quimica"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apuntes/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
     {{else if eq . "nomenclature-chemistry"}}
@@ -259,7 +259,7 @@
     {{else if eq . "formulacio-nomenclatura-quimica"}}
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/apunts/formulacio-nomenclatura-quimica">📔 Formulació i nomenclatura de Química</a></li>
     {{else if eq . "blog"}}
-  	<li class="breadcrumb-item"><a href="/blog/">✍️ Blog</a></li>	  
+  	<li class="breadcrumb-item"><a href="/blog/">✍️ Blog</a></li>
     {{ end }}
     {{ end }}
 	{{ if eq $title "Formulación y nomenclatura de Química Inorgánica"}}
@@ -267,20 +267,20 @@
 	{{ else if eq $title "Nomenclature of Inorganic Chemistry"}}
       <li class="breadcrumb-item active" aria-current="page">Inorganic</li>
   {{ else if eq $title "Formulació i nomenclatura de Química Inorgànica"}}
-      <li class="breadcrumb-item active" aria-current="page">Inorgànica</li>      	
+      <li class="breadcrumb-item active" aria-current="page">Inorgànica</li>
 	{{ else if eq $title "Formulación y nomenclatura de Química Orgánica"}}
       <li class="breadcrumb-item active" aria-current="page">Orgánica</li>
 	{{ else if eq $title "Nomenclature of Organic Chemistry"}}
-      <li class="breadcrumb-item active" aria-current="page">Organic</li>	  
+      <li class="breadcrumb-item active" aria-current="page">Organic</li>
   {{ else if eq $title "Formulació i nomenclatura de Química Orgànica"}}
-      <li class="breadcrumb-item active" aria-current="page">Orgànica</li>      
-	{{ else }}		
+      <li class="breadcrumb-item active" aria-current="page">Orgànica</li>
+	{{ else }}
       <li class="breadcrumb-item active" aria-current="page">{{ $title }}</li>
 	{{ end }}
   </ol>
   </nav>
   {{ end }}
-	
+
   <h1>{{ $title }}</h1>
 
   {{ with $page.Params.subtitle }}
@@ -294,7 +294,19 @@
 {{/* Featured image */}}
 <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
   <div style="position: relative">
-    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
+    {{ $lightest := index (sort $image.Colors "Luminance" "desc") 0 }}
+    {{ $darkest := index (sort $image.Colors "Luminance") 0 }}
+    <img id="featured-image" data-light = "{{ $lightest }}" data-dark = "{{ $darkest }}" style = "border: 5px solid {{ $lightest }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
+    <script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				  document.getElementById("featured-image").style.border = "5px solid " +  document.getElementById("featured-image").dataset.light;
+			  } else {
+				  document.getElementById("featured-image").style.border = "5px solid " +  document.getElementById("featured-image").dataset.dark;
+			  }
+			  });
+		</script>
     {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
   </div>
 </div>
@@ -325,7 +337,7 @@
 				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
 			  }
 			  });
-		</script></a></li>    
+		</script></a></li>
 	{{ else if eq site.Language.Lang "en" }}
   	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-physichemically.svg" id="physichemically-breadcrumb"><script>
 			document.addEventListener('wcThemeChange', (e) => {
@@ -364,7 +376,7 @@
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2eso">📗 2.º ESO</a></li>
     {{else if eq . "practicas-2eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2eso">📗 2.º ESO</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2eso">📗 2.º ESO</a></li>
     {{else if eq . "actividades-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/3eso">📘 3.º ESO</a></li>
@@ -373,7 +385,7 @@
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/3eso">📘 3.º ESO</a></li>
     {{else if eq . "practicas-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/3eso">📘 3.º ESO</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/3eso">📘 3.º ESO</a></li>
     {{else if eq . "actividades-2eso-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/actividades/3eso">📘 3.º ESO</a></li>
@@ -382,7 +394,7 @@
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/juegos/3eso">📘 3.º ESO</a></li>
     {{else if eq . "practicas-2eso-3eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/practicas-laboratorio/3eso">📘 3.º ESO</a></li>        
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2eso">📗 2.º ESO</a> · <a href="/recursos-fisica-quimica/practicas-laboratorio/3eso">📘 3.º ESO</a></li>
     {{else if eq . "actividades-4eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/4eso">📙 4.º ESO</a></li>
@@ -391,7 +403,7 @@
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/4eso">📙 4.º ESO</a></li>
     {{else if eq . "practicas-4eso"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/4eso">📙 4.º ESO</a></li>        
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/4eso">📙 4.º ESO</a></li>
     {{else if eq . "actividades-1bach"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/1bach">📕 1.º Bach</a></li>
@@ -400,7 +412,7 @@
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/1bach">📕 1.º Bach</a></li>
     {{else if eq . "practicas-1bach"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/1bach">📕 1.º Bach</a></li>            
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/1bach">📕 1.º Bach</a></li>
     {{else if eq . "actividades-2bach-fisica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach">📓 2.º Bach</a></li>
@@ -408,11 +420,11 @@
     {{else if eq . "juegos-2bach-fisica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2bach">📓 2.º Bach</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2bach/fisica">🧲 Física</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2bach/fisica">🧲 Física</a></li>
     {{else if eq . "practicas-2bach-fisica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach">📓 2.º Bach</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/fisica">🧲 Física</a></li>        
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/fisica">🧲 Física</a></li>
     {{else if eq . "actividades-2bach-quimica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/2bach">📓 2.º Bach</a></li>
@@ -420,11 +432,11 @@
     {{else if eq . "juegos-2bach-quimica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2bach">📓 2.º Bach</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2bach/quimica">⚗️ Química</a></li>    
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/2bach/quimica">⚗️ Química</a></li>
     {{else if eq . "practicas-2bach-quimica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach">📓 2.º Bach</a></li>
-    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/quimica">⚗️ Química</a></li>            
+    <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/2bach/quimica">⚗️ Química</a></li>
     {{else if eq . "actividades-formulacion-nomenclatura-quimica-inorganica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
@@ -432,11 +444,11 @@
     {{else if eq . "juegos-formulacion-nomenclatura-quimica-inorganica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Inorgánica</li>  
+    <li class="breadcrumb-item active" aria-current="page">Inorgánica</li>
     {{else if eq . "practicas-formulacion-nomenclatura-quimica-inorganica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Inorgánica</li>        
+    <li class="breadcrumb-item active" aria-current="page">Inorgánica</li>
     {{else if eq . "actividades-formulacion-nomenclatura-quimica-organica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/">🗒️ Actividades</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/actividades/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
@@ -444,15 +456,15 @@
     {{else if eq . "juegos-formulacion-nomenclatura-quimica-organica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/">🧩 Juegos</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/juegos/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Orgánica</li>  
+    <li class="breadcrumb-item active" aria-current="page">Orgánica</li>
     {{else if eq . "practicas-formulacion-nomenclatura-quimica-organica"}}
     <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/">🧪 Prácticas de laboratorio</a></li>
   	<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/practicas-laboratorio/formulacion-nomenclatura-quimica">📔 Formulación y nomenclatura de Química</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Orgánica</li>    
+    <li class="breadcrumb-item active" aria-current="page">Orgánica</li>
     {{ else if eq . "ebau-fisica-examenes-completos" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">🧲 Física</a></li>
-      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica/examenes-completos">📝 Exámenes completos</a></li>  
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica/examenes-completos">📝 Exámenes completos</a></li>
     {{ else if eq . "ebau-fisica-por-temas" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/fisica">🧲 Física</a></li>
@@ -460,24 +472,24 @@
     {{ else if eq . "ebau-quimica-examenes-completos" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>
-      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica/examenes-completos">📝 Exámenes completos</a></li>       
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica/examenes-completos">📝 Exámenes completos</a></li>
     {{ else if eq . "ebau-quimica-por-temas" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau">🎓 EBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica">⚗️ Química</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/ebau/quimica/por-temas">🗂️ Por temas</a></li>
-    {{ else if eq . "pau-fisica" }}    
+    {{ else if eq . "pau-fisica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya"><img draggable="false" class="icon" alt="catalunya" src="{{ $catalunya_flag.RelPermalink }}"> Catalunya</a></li>
-      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya/fisica">🧲 Física</a></li> 
-    {{ else if eq . "pau-quimica" }}    
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya/fisica">🧲 Física</a></li>
+    {{ else if eq . "pau-quimica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya"><img draggable="false" class="icon" alt="catalunya" src="{{ $catalunya_flag.RelPermalink }}"> Catalunya</a></li>
-      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya/quimica">⚗️ Química</a></li>            
-    {{ else if eq . "pbau-fisica" }}    
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/catalunya/quimica">⚗️ Química</a></li>
+    {{ else if eq . "pbau-fisica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears"><img draggable="false" class="icon" alt="illes balears" src="{{ $illes_balears_flag.RelPermalink }}"> Illes Balears</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears/fisica">🧲 Física</a></li>
-    {{ else if eq . "pbau-quimica" }}    
+    {{ else if eq . "pbau-quimica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/">🎓 PAU/PBAU</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears"><img draggable="false" class="icon" alt="illes balears" src="{{ $illes_balears_flag.RelPermalink }}"> Illes Balears</a></li>
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/pau-pbau/illes-balears/quimica">⚗️ Química</a></li>
@@ -486,7 +498,7 @@
     {{ else if eq . "oposiciones" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado/oposiciones">📝 Oposiciones</a></li>
     {{ else if eq . "fisica" }}
-      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado/oposiciones/fisica">🧲 Física</a></li>                
+      <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado/oposiciones/fisica">🧲 Física</a></li>
     {{ else if eq . "quimica" }}
       <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/formacion-profesorado/oposiciones/quimica">⚗️ Química</a></li>
     {{ else if eq . "radiofisica" }}
