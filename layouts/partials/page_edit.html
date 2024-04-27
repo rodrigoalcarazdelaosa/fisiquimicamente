@@ -11,7 +11,7 @@
   {{ $content_dir = cond site.IsMultiLingual (cond (ne .Site.LanguagePrefix "") (printf "%s%s" $content_dir .Site.LanguagePrefix) $content_dir) $content_dir }}
 {{end}}
 <p class="edit-page">
-  <a href="https://vscode.dev/github/rodrigoalcarazdelaosa/fisiquimicamente/blob/main/{{$content_dir}}/{{.File.Path}}" class="btn btn-primary btn-lg mb-md-1">
+  <a href="https://github.dev/rodrigoalcarazdelaosa/fisiquimicamente/blob/main/{{$content_dir}}/{{.File.Path}}" class="btn btn-primary btn-lg mb-md-1">
     ✏️&nbsp;{{ i18n "edit_page" | default "Edit this page" }}
   </a>
 </p>
