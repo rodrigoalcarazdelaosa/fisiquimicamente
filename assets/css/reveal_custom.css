@@ -2,20 +2,24 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #ECEFF4;
-  background-color: #ECEFF4; }
+  background: #eceff4;
+  background-color: #eceff4;
+}
 
 .reveal {
   font-family: "EB Garamond", serif;
-  color: #2E3440; }
+  color: #2e3440;
+}
 
 ::selection {
-  color: #ECEFF4;
-  background: #2E3440; }
+  color: #eceff4;
+  background: #2e3440;
+}
 
 ::-moz-selection {
-  color: #ECEFF4;
-  background: #2E3440; }
+  color: #eceff4;
+  background: #2e3440;
+}
 
 /*********************************************
  * HEADERS
@@ -26,80 +30,95 @@ body {
 .reveal h4,
 .reveal h5,
 .reveal h6 {
-  color: #2E3440;
-  font-family: "Cabin Sketch", sans-serif; 
-  text-transform: none; }
+  color: #2e3440;
+  font-family: "Cabin Sketch", sans-serif;
+  text-transform: none;
+}
 
 /*********************************************
  * OTHER
  *********************************************/
 .reveal blockquote {
-background: #EBCB8B;}
-  
+  background: #ebcb8b;
+}
+
 .reveal pre {
-  font-family: "Inconsolata", monospace; }
+  font-family: "Inconsolata", monospace;
+}
 
 .reveal code {
-  font-family: "Inconsolata", monospace; }
-  
+  font-family: "Inconsolata", monospace;
+}
+
 .reveal table > thead > tr > th {
-  color: #2E3440; }
+  color: #2e3440;
+}
 
 .reveal table th,
 .reveal table td {
-border-bottom: 0px solid; }
+  border-bottom: 0px solid;
+}
 
 .reveal table > thead {
-  border-top: 2px solid #2E3440; }
-  
+  border-top: 2px solid #2e3440;
+}
+
 .reveal table > thead > tr > th {
-  border-bottom: 1px solid #2E3440; }  
+  border-bottom: 1px solid #2e3440;
+}
 
 .reveal table tbody tr:last-child th,
 .reveal table tbody tr:last-child td {
-border-bottom: 2px solid #2E3440; }
+  border-bottom: 2px solid #2e3440;
+}
 
 /* Table Striped */
 .reveal table > tbody > tr:nth-child(odd) > td,
 .reveal table > tbody > tr:nth-child(odd) > th {
-background-color: #D8DEE9; }
+  background-color: #d8dee9;
+}
 
 /* Table Hover */
 .reveal table > tbody > tr:hover > td,
 .reveal table > tbody > tr:hover > th {
-color: #ECEFF4;
-background-color: #2E3440; }
+  color: #eceff4;
+  background-color: #2e3440;
+}
 
 .reveal td[colspan]:not([colspan="1"]) {
-    text-align: center;
+  text-align: center;
 }
 
 .reveal mark {
   padding: 0.2em;
-  background-color: #88C0D0;
-  color: #2E3440;
+  background-color: #88c0d0;
+  color: #2e3440;
 }
 
 /*********************************************
  * LINKS
  *********************************************/
 .reveal a {
-  color: #5E81AC; }
+  color: #5e81ac;
+}
 
 .reveal a:hover {
-  color: #BF616A;
-  text-decoration: underline; }
+  color: #bf616a;
+  text-decoration: underline;
+}
 
 .reveal .roll span:after {
-  color: #ECEFF4;
-  background: #2E3440; }
-  
+  color: #eceff4;
+  background: #2e3440;
+}
+
 /*********************************************
 * IMAGES
 *********************************************/
 .reveal section img {
-border: 0;
-box-shadow: none; }
+  border: 0;
+  box-shadow: none;
+}
 
 .reveal img {
   height: auto;
@@ -109,15 +128,17 @@ box-shadow: none; }
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #2E3440; }
+  color: #2e3440;
+}
 
 /*********************************************
  * PROGRESS BAR
  *********************************************/
 .reveal .progress {
-  color: #2E3440; }
-  
+  color: #2e3440;
+}
+
 .reveal i {
-	font-family: 'FontAwesome';
-    font-style: normal;
+  font-family: "FontAwesome";
+  font-style: normal;
 }

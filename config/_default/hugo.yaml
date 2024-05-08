@@ -9,9 +9,9 @@ title: FisiQuímicamente # Website name
 ## PAGE OPTIONS
 ############################
 
-cascade:    
-    share: true
-    reading_time: true
+cascade:
+  share: true
+  reading_time: true
 
 ############################
 ## LANGUAGE
@@ -34,11 +34,11 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/autor/:slug/'
-  tags: '/etiqueta/:slug/'
-  categories: '/categoria/:slug/'
-  publication_types: '/publication-type/:slug/'
-  post: '/blog/:year/:month/:day/:slug'
+  authors: "/autor/:slug/"
+  tags: "/etiqueta/:slug/"
+  categories: "/categoria/:slug/"
+  publication_types: "/publication-type/:slug/"
+  post: "/blog/:year/:month/:day/:slug"
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -53,10 +53,10 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
-capitalizeListTitles: false  
+capitalizeListTitles: false
 markup:
   _merge: deep
-  goldmark:    
+  goldmark:
     extensions:
       passthrough:
         enable: true
@@ -94,6 +94,6 @@ minify:
   disableHTML: true
 privacy:
   twitter:
-    enableDNT: true    
+    enableDNT: true
   vimeo:
     enableDNT: true

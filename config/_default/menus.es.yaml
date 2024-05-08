@@ -41,7 +41,7 @@ main:
     parent: recursos-fyq
     weight: 8
   - name: 🤝 Tutoriales
-    url: tutoriales/  
+    url: tutoriales/
     identifier: tutoriales
     weight: 2
   - name: LaTeX
@@ -51,9 +51,9 @@ main:
   - name: Presentación de información
     parent: tutoriales
     url: tutoriales/presentacion-informacion
-    weight: 2    
+    weight: 2
   - name: 🔗 Enlaces de interés
-    url: enlaces-interes/  
+    url: enlaces-interes/
     identifier: enlaces-interes
     weight: 3
   - name: 💻 Recursos online

@@ -1,46 +1,44 @@
 # Español
 es:
-  baseURL: 'https://fisiquimicamente.com/'
+  baseURL: "https://fisiquimicamente.com/"
   weight: 1
   languageCode: es
-  contentDir: content/es  
+  contentDir: content/es
 
 # Inglés
 en:
-  baseURL: 'https://physichemically.com/'
+  baseURL: "https://physichemically.com/"
   weight: 2
   languageCode: en
   contentDir: content/en
   title: PhysiChemically
   permalinks:
-    authors: '/author/:slug/'
-    tags: '/tag/:slug/'
-    categories: '/category/:slug/'
-    publication_types: '/publication-type/:slug/'
-    post: '/blog/:year/:month/:day/:slug'
-  params:     
+    authors: "/author/:slug/"
+    tags: "/tag/:slug/"
+    categories: "/category/:slug/"
+    publication_types: "/publication-type/:slug/"
+    post: "/blog/:year/:month/:day/:slug"
+  params:
     marketing:
       seo:
         org_name: PhysiChemically
-        description: 'Physics and Chemistry Resources, Tutorials and Current Science.'
+        description: "Physics and Chemistry Resources, Tutorials and Current Science."
     features:
       repository:
         content_dir: content/en
-        
+
 # Catalán
 ca:
-  baseURL: 'https://fisiquimicament.com/'
+  baseURL: "https://fisiquimicament.com/"
   weight: 3
   languageCode: ca
   contentDir: content/ca
   title: FisiQuímicament
-  params:    
+  params:
     marketing:
       seo:
         org_name: FisiQuímicament
-        description: 'Recursos de Física i Química, tutorials i ciència d''actualitat.'
+        description: "Recursos de Física i Química, tutorials i ciència d'actualitat."
     features:
       repository:
         content_dir: content/ca
-
-

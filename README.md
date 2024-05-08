@@ -8,9 +8,8 @@ Recursos de Física y Química, tutoriales y ciencia de actualidad.
 
 Con stickers y emojis animados de <a href="https://telegram.org/blog/animated-stickers/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
-Publicado con <a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a> —
-    el constructor de sitios web gratuito y <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
-    de código abierto</a> para <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+Publicado con <a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a>&mdash;el constructor de sitios web gratuito y <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
+de código abierto</a> para <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
 <a href="https://hugoblox.com/sponsor/?aff=K4VGj">Únete a <strong><em>All Access</em></strong> para desbloquear blox y plantillas exclusivas</a>.
 
@@ -24,9 +23,8 @@ Physics and Chemistry Resources, Tutorials and Current Science.
 
 With animated stickers and emojis from <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
-Published with <a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a>  —
-    the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
-    open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+Published with <a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a>&mdash;the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
+open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
 <a href="https://hugoblox.com/sponsor/?aff=K4VGj">Join <strong><em>All Access</em></strong> to unlock exclusive blox and templates</a>.
 
@@ -40,9 +38,8 @@ Recursos de Física i Química, tutorials i ciència d'actualitat.
 
 Amb stickers i emojis animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram">Telegram</a>.
 
-Publicat amb <a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a> —
-    el constructor de llocs web gratuït i <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
-    de codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+Publicat amb <a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a>&mdash;el constructor de llocs web gratuït i <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
+de codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
 <a href="https://hugoblox.com/sponsor/?aff=K4VGj">Uneix-te a <strong><em>All Access</em></strong> per desbloquejar blox i plantilles exclusives</a>.
 

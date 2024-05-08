@@ -4,22 +4,22 @@
  *  Definiciones de colores basadas en https://www.nordtheme.com
  **************************************************/
 
-$nord0: #2E3440;
-$nord1: #3B4252;
-$nord2: #434C5E;
-$nord3: #4C566A;
-$nord4: #D8DEE9;
-$nord5: #E5E9F0;
-$nord6: #ECEFF4;
-$nord7: #8FBCBB;
-$nord8: #88C0D0;
-$nord9: #81A1C1;
-$nord10: #5E81AC;
-$nord11: #BF616A;
-$nord12: #D08770;
-$nord13: #EBCB8B;
-$nord14: #A3BE8C;
-$nord15: #B48EAD;
+$nord0: #2e3440;
+$nord1: #3b4252;
+$nord2: #434c5e;
+$nord3: #4c566a;
+$nord4: #d8dee9;
+$nord5: #e5e9f0;
+$nord6: #eceff4;
+$nord7: #8fbcbb;
+$nord8: #88c0d0;
+$nord9: #81a1c1;
+$nord10: #5e81ac;
+$nord11: #bf616a;
+$nord12: #d08770;
+$nord13: #ebcb8b;
+$nord14: #a3be8c;
+$nord15: #b48ead;
 
 /*************************************************
  *  Wowchemy's Core Style
@@ -62,15 +62,14 @@ body.dark {
   }
 }
 
- .breadcrumb {
+.breadcrumb {
   margin-top: -0.5rem;
   margin-bottom: -0.5rem;
 
-   @include media-breakpoint-down(md) {
-      margin-top: -0.5rem;
-      margin-bottom: -0.5rem;
-   }
-
+  @include media-breakpoint-down(md) {
+    margin-top: -0.5rem;
+    margin-bottom: -0.5rem;
+  }
 }
 
 .breadcrumb.breadcrumb-widget {
@@ -91,11 +90,21 @@ body.dark {
 }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6, {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: $nord0;
 }
 
-.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6, {
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
   color: $nord6;
 }
 
@@ -107,9 +116,9 @@ code {
   background: $nord4;
   color: $nord0;
   border-radius: 0.5em;
-//  border: 1px solid $primary;
+  //  border: 1px solid $primary;
   overflow-x: auto;
-  padding: 0.2em 0.4em
+  padding: 0.2em 0.4em;
 }
 
 .dark code {
@@ -133,33 +142,64 @@ pre {
 
 hr {
   background: $nord0;
-  background-image: linear-gradient(to right, $nord6, $nord3, $nord2, $nord1, $nord0, $nord1, $nord2, $nord3, $nord6);
+  background-image: linear-gradient(
+    to right,
+    $nord6,
+    $nord3,
+    $nord2,
+    $nord1,
+    $nord0,
+    $nord1,
+    $nord2,
+    $nord3,
+    $nord6
+  );
 }
 
 .dark hr {
   background: $nord6;
-  background-image: linear-gradient(to right, $nord0, $nord4, $nord5, $nord6, $nord5, $nord4, $nord0);
+  background-image: linear-gradient(
+    to right,
+    $nord0,
+    $nord4,
+    $nord5,
+    $nord6,
+    $nord5,
+    $nord4,
+    $nord0
+  );
 }
 
 .alert-example hr {
   background: $nord0;
-  background-image: linear-gradient(to right, $nord14, $nord3, $nord2, $nord1, $nord0, $nord1, $nord2, $nord3, $nord14);
+  background-image: linear-gradient(
+    to right,
+    $nord14,
+    $nord3,
+    $nord2,
+    $nord1,
+    $nord0,
+    $nord1,
+    $nord2,
+    $nord3,
+    $nord14
+  );
 }
 
 /* Quotes */
 blockquote {
   color: $nord3;
-  border-left: .25rem solid $nord3;
+  border-left: 0.25rem solid $nord3;
 }
 
 .dark blockquote {
   color: $nord4;
-  border-left: .25rem solid $nord4;
+  border-left: 0.25rem solid $nord4;
 }
 
 .dark .alert-example blockquote {
   color: $nord3;
-  border-left: .25rem solid $nord3;
+  border-left: 0.25rem solid $nord3;
 }
 
 /*************************************************
@@ -188,21 +228,25 @@ blockquote {
 
 .badge-light {
   color: $nord0;
-  background: $nord4; }
+  background: $nord4;
+}
 
 .dark .badge-light {
   color: $nord6;
-  background: $nord3; }
+  background: $nord3;
+}
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
   color: $nord6;
-  background: $nord0; }
+  background: $nord0;
+}
 
 .dark .badge-light[href]:focus,
 .dark .badge-light[href]:hover {
   color: $nord0;
-  background: $nord6; }
+  background: $nord6;
+}
 
 /*************************************************
  * Buttons
@@ -219,43 +263,62 @@ blockquote {
   border-color: $nord8;
 }
 
-.btn-toolbar .btn.btn-primary:hover, .dark .btn-toolbar .btn.btn-primary:hover,
-.btn-toolbar .btn.btn-primary:focus, .btn-toolbar .btn.btn-primary.focus, .dark .btn-toolbar .btn.btn-primary:focus, .dark .btn-toolbar .btn.btn-primary.focus {
+.btn-toolbar .btn.btn-primary:hover,
+.dark .btn-toolbar .btn.btn-primary:hover,
+.btn-toolbar .btn.btn-primary:focus,
+.btn-toolbar .btn.btn-primary.focus,
+.dark .btn-toolbar .btn.btn-primary:focus,
+.dark .btn-toolbar .btn.btn-primary.focus {
   color: $nord0 !important;
-  background-color: lighten($nord8,10%) !important;
-  border-color: lighten($nord8,10%);
+  background-color: lighten($nord8, 10%) !important;
+  border-color: lighten($nord8, 10%);
 }
 
-.btn.btn-primary:hover, .dark .btn.btn-primary:hover,
-.btn.btn-primary:focus, .btn.btn-primary.focus, .dark .btn.btn-primary:focus, .dark .btn.btn-primary.focus {
+.btn.btn-primary:hover,
+.dark .btn.btn-primary:hover,
+.btn.btn-primary:focus,
+.btn.btn-primary.focus,
+.dark .btn.btn-primary:focus,
+.dark .btn.btn-primary.focus {
   color: $nord0;
-  background-color: lighten($nord8,10%) !important;
-  border-color: lighten($nord8,10%);
+  background-color: lighten($nord8, 10%) !important;
+  border-color: lighten($nord8, 10%);
 }
 
-.btn-toolbar .btn.btn-primary:focus, .btn-toolbar .btn.btn-primary.focus, .dark .btn-toolbar .btn.btn-primary:focus, .dark .btn-toolbar .btn.btn-primary.focus {
-  box-shadow: 0 0 0 0.2rem lighten($nord8,10%);
+.btn-toolbar .btn.btn-primary:focus,
+.btn-toolbar .btn.btn-primary.focus,
+.dark .btn-toolbar .btn.btn-primary:focus,
+.dark .btn-toolbar .btn.btn-primary.focus {
+  box-shadow: 0 0 0 0.2rem lighten($nord8, 10%);
 }
 
-.btn.btn-primary:focus, .btn.btn-primary.focus, .dark .btn.btn-primary:focus, .dark .btn.btn-primary.focus {
-  box-shadow: 0 0 0 0.2rem lighten($nord8,10%);
+.btn.btn-primary:focus,
+.btn.btn-primary.focus,
+.dark .btn.btn-primary:focus,
+.dark .btn.btn-primary.focus {
+  box-shadow: 0 0 0 0.2rem lighten($nord8, 10%);
 }
 
-.btn-toolbar .btn.btn-primary:not(:disabled):not(.disabled):active, .btn-toolbar .btn.btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+.btn-toolbar .btn.btn-primary:not(:disabled):not(.disabled):active,
+.btn-toolbar .btn.btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
   color: $nord0;
-  background-color: darken($nord8,10%);
-  border-color: darken($nord8,10%);
-  }
+  background-color: darken($nord8, 10%);
+  border-color: darken($nord8, 10%);
+}
 
-.btn.btn-primary:not(:disabled):not(.disabled):active, .btn.btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
-    color: $nord0;
-    background-color: darken($nord8,10%);
-    border-color: darken($nord8,10%);
-    }
+.btn.btn-primary:not(:disabled):not(.disabled):active,
+.btn.btn-primary:not(:disabled):not(.disabled).active,
+.show > .btn-primary.dropdown-toggle {
+  color: $nord0;
+  background-color: darken($nord8, 10%);
+  border-color: darken($nord8, 10%);
+}
 
-.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
-  background-color: darken($nord8,10%) !important;
-  border-color: darken($nord8,10%) !important;
+.btn-toolbar .btn.btn-primary:active,
+.btn-toolbar .btn.btn-primary.active {
+  background-color: darken($nord8, 10%) !important;
+  border-color: darken($nord8, 10%) !important;
 }
 
 .btn-outline-primary {
@@ -268,21 +331,29 @@ blockquote {
   border-color: $nord6;
 }
 
-.btn-outline-primary:hover, .dark .btn-outline-primary:hover, .btn-outline-primary:focus, .dark .btn-outline-primary:focus, .btn-outline-primary.focus, .dark .btn-outline-primary.focus {
+.btn-outline-primary:hover,
+.dark .btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.dark .btn-outline-primary:focus,
+.btn-outline-primary.focus,
+.dark .btn-outline-primary.focus {
   color: $nord0 !important;
   background-color: $nord8;
   border-color: $nord8;
 }
 
-.btn-outline-primary:focus, .btn-outline-primary.focus {
+.btn-outline-primary:focus,
+.btn-outline-primary.focus {
   box-shadow: 0 0 0 0.2rem $nord8;
 }
 
-.btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active, .show > .btn-outline-primary.dropdown-toggle {
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.show > .btn-outline-primary.dropdown-toggle {
   color: $nord0;
   background-color: $nord8;
   border-color: $nord8;
-  }
+}
 
 /*************************************************
  *  Tables
@@ -393,15 +464,16 @@ td[colspan]:not([colspan="1"]) {
 
 .article-style aside p::before,
 div.alert > div:first-child::before {
-  content: 'ℹ️';
+  content: "ℹ️";
 }
 
 div.alert-warning > div:first-child::before {
-  content: '⚠️';
+  content: "⚠️";
   color: $nord0;
 }
 
-.article-style aside a, div.alert a {
+.article-style aside a,
+div.alert a {
   color: currentColor !important;
 }
 
@@ -422,8 +494,8 @@ div.alert > div:first-child::before {
 }
 
 div.alert-example > div:first-child::before {
-  font-family: '';
-  content: '💡';
+  font-family: "";
+  content: "💡";
   color: $nord0;
 }
 
@@ -434,8 +506,8 @@ div.alert-example > div:first-child::before {
 }
 
 div.alert-game > div:first-child::before {
-  font-family: '';
-  content: '🧩';
+  font-family: "";
+  content: "🧩";
   color: $nord0;
 }
 
@@ -447,7 +519,7 @@ div.alert-game > div:first-child::before {
 
 div.alert-thanks > div:first-child::before {
   color: $nord0;
-  content: '🙏';
+  content: "🙏";
 }
 
 .alert-thanks {
@@ -458,7 +530,7 @@ div.alert-thanks > div:first-child::before {
 
 div.alert-soon > div:first-child::before {
   color: $nord0;
-  content: '🔜';
+  content: "🔜";
 }
 
 .alert-soon {
@@ -469,7 +541,7 @@ div.alert-soon > div:first-child::before {
 
 div.alert-construction > div:first-child::before {
   color: $nord0;
-  content: '🚧';
+  content: "🚧";
 }
 
 .alert-construction {
@@ -480,7 +552,7 @@ div.alert-construction > div:first-child::before {
 
 div.alert-thread > div:first-child::before {
   color: $nord0;
-  content: '🧵';
+  content: "🧵";
 }
 
 .alert-thread {
@@ -508,14 +580,14 @@ summary {
 img.emoji {
   height: 1em;
   width: 1em;
-  margin: 0 .05em 0 .1em;
+  margin: 0 0.05em 0 0.1em;
   vertical-align: -0.1em;
   display: inline-flex;
 }
 
 img.icon {
   height: 1em;
-  margin: 0 .05em 0 .1em;
+  margin: 0 0.05em 0 0.1em;
   vertical-align: -0.1em;
   display: inline-flex;
 }
@@ -530,7 +602,7 @@ p svg {
   align-self: center;
   height: 1em;
   width: 1em;
-  margin: 0 .05em 0 .1em;
+  margin: 0 0.05em 0 0.1em;
   vertical-align: -0.1em;
 }
 
@@ -548,7 +620,7 @@ span#visits {
 }
 
 footer {
-	margin-top: 2rem;
+  margin-top: 2rem;
 }
 
 .site-footer {
@@ -603,7 +675,8 @@ a.summary-link {
   border-radius: 8px;
 }
 
-.dark .card, .dark .card-simple {
+.dark .card,
+.dark .card-simple {
   background: $nord3;
 }
 
@@ -616,8 +689,8 @@ a.summary-link {
 }
 
 .card .card-image.hover-overlay::after {
-  font-family: '';
-  content: '🔗';
+  font-family: "";
+  content: "🔗";
   color: $nord3;
 }
 
@@ -644,8 +717,8 @@ a.summary-link {
 }
 
 #search-box::before {
-  font-family: '';
-  content: '🔍';
+  font-family: "";
+  content: "🔍";
 }
 
 #search-box #search-query {
@@ -664,14 +737,17 @@ input[type="search"]::-webkit-search-cancel-button {
   color: $nord4;
 }
 
-.search-hit em, .dark .search-hit em {
+.search-hit em,
+.dark .search-hit em {
   background-color: $nord8;
   color: $nord0;
   border-bottom: 1px solid $nord8;
 }
 
-mark, .dark mark,
-.mark, .dark .mark {
+mark,
+.dark mark,
+.mark,
+.dark .mark {
   background-color: $nord8;
   color: $nord0;
 }
@@ -801,7 +877,8 @@ ul.share li a {
 }
 
 .subscribe-box {
-  margin-top: 0.7rem; }
+  margin-top: 0.7rem;
+}
 
 ul.subscribe {
   display: flex;
@@ -962,7 +1039,7 @@ div.card-text p a {
  *  Hero Widget
  **************************************************/
 
- .hero-media-caption {
+.hero-media-caption {
   position: absolute;
   bottom: 0;
   right: 0;
@@ -1029,7 +1106,8 @@ div.card-text p a {
  *  Slider widget
  **************************************************/
 
-.wg-hero.dark .hero-title, .wg-hero.dark .hero-lead {
+.wg-hero.dark .hero-title,
+.wg-hero.dark .hero-lead {
   color: $nord0;
 }
 
@@ -1047,17 +1125,20 @@ div.card-text p a {
   border-color: lighten($nord8, 10%);
 }
 
-.btn-light:focus, .btn-light.focus {
+.btn-light:focus,
+.btn-light.focus {
   background-color: lighten($nord8, 10%);
   border-color: lighten($nord8, 10%);
   box-shadow: 0 0 0 0.2rem lighten($nord8, 10%);
 }
 
-.btn-light:not(:disabled):not(.disabled):active, .btn-light:not(:disabled):not(.disabled).active, .show > .btn-light.dropdown-toggle {
+.btn-light:not(:disabled):not(.disabled):active,
+.btn-light:not(:disabled):not(.disabled).active,
+.show > .btn-light.dropdown-toggle {
   color: $nord0;
-  background-color: darken($nord8,10%);
-  border-color: darken($nord8,10%);
-  }
+  background-color: darken($nord8, 10%);
+  border-color: darken($nord8, 10%);
+}
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -1076,8 +1157,8 @@ div.card-text p a {
 .carousel-indicators {
   li {
     width: 90px;
-	  height: 9px;
-	  background-color: $primary;
+    height: 9px;
+    background-color: $primary;
   }
 }
 
@@ -1092,7 +1173,7 @@ div.card-text p a {
  **************************************************/
 
 .featurette-icon {
-   font-size: 6rem;
+  font-size: 6rem;
 }
 
 .featurette-icon span {
@@ -1247,7 +1328,8 @@ ul.ul-edu li .description p.institution {
   border: 1px solid $nord6 !important;
 }
 
-.page-link:hover, .dark .page-link:hover {
+.page-link:hover,
+.dark .page-link:hover {
   color: $nord0 !important;
   text-decoration: none;
   background-color: $nord8 !important;
@@ -1364,9 +1446,9 @@ p.kudos {
   display: none;
   max-width: 720px;
   margin: 0 auto;
-//  background-color: $primary;
-//  color: #ffffff;
-//  border-top: 3px solid $primary;
+  //  background-color: $primary;
+  //  color: #ffffff;
+  //  border-top: 3px solid $primary;
 }
 
 //#popup-index {
@@ -1395,15 +1477,20 @@ p.kudos {
   hyphens: auto;
 }
 
-#popup-content a, #popup-content a:link, #popup-content a:visited {
+#popup-content a,
+#popup-content a:link,
+#popup-content a:visited {
   color: $nord8;
 }
 
-.dark #popup-content a, .dark #popup-content a:link, .dark #popup-content a:visited {
+.dark #popup-content a,
+.dark #popup-content a:link,
+.dark #popup-content a:visited {
   color: $nord10;
 }
 
-a.footnote-ref, .dark a.footnote-ref {
+a.footnote-ref,
+.dark a.footnote-ref {
   position: relative;
   top: 0;
   left: 0;
@@ -1411,18 +1498,20 @@ a.footnote-ref, .dark a.footnote-ref {
   color: $nord0;
   background-color: $nord8;
   border-radius: 50%;
-  padding:0.2em 0.5em 0.2em
+  padding: 0.2em 0.5em 0.2em;
 }
 
-a.footnote-ref:hover, .dark a.footnote-ref:hover {
+a.footnote-ref:hover,
+.dark a.footnote-ref:hover {
   border: none;
   color: $nord0;
-  background-color: lighten($nord8,10%);
+  background-color: lighten($nord8, 10%);
   text-decoration: none;
   transition: none;
 }
 
-a.footnote-backref, .dark a.footnote-backref {
+a.footnote-backref,
+.dark a.footnote-backref {
   position: relative;
   top: -0.2em;
   font-weight: bold;
@@ -1431,25 +1520,28 @@ a.footnote-backref, .dark a.footnote-backref {
   font-size: 0.8em;
   border-radius: 0.4em;
   padding: 0.2em 0.4em 0;
-  border:none
+  border: none;
 }
 
-a.footnote-backref:hover, .dark a.footnote-backref:hover {
+a.footnote-backref:hover,
+.dark a.footnote-backref:hover {
   border: none;
   color: $nord0;
-  background-color: lighten($nord8,10%);
+  background-color: lighten($nord8, 10%);
   text-decoration: none;
   transition: none;
 }
 
-#popup-content a.footnote-backref, .dark #popup-content a.footnote-backref {
+#popup-content a.footnote-backref,
+.dark #popup-content a.footnote-backref {
   color: $nord0 !important;
   background-color: $nord8;
 }
 
-#popup-content a.footnote-backref:hover, .dark #popup-content a.footnote-backref:hover {
+#popup-content a.footnote-backref:hover,
+.dark #popup-content a.footnote-backref:hover {
   color: $nord0;
-  background-color: lighten($nord8,10%);
+  background-color: lighten($nord8, 10%);
 }
 
 /*************************************************
@@ -1483,10 +1575,11 @@ a.cc-btn.cc-dismiss:hover {
   color: $nord0;
 }
 
-a.cc-link:active, a.cc-link:hover, a.cc-link:visited {
+a.cc-link:active,
+a.cc-link:hover,
+a.cc-link:visited {
   color: $nord8 !important;
 }
-
 
 /*************************************************
  *  Tooltips
@@ -1520,7 +1613,7 @@ div#button-load {
   display: inline-block;
   padding: 10px 18px 9px 40px;
   font-weight: 500;
-  box-shadow: 0 0 8px rgba(0,0,0,.2), 0 0 4px rgba(0,0,0,.25);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2), 0 0 4px rgba(0, 0, 0, 0.25);
   position: absolute;
   left: 50%;
   top: 50%;

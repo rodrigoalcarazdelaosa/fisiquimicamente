@@ -1,2 +1,2 @@
 # Address formats.
-es = {order = ['region', 'country'], delimiters = [', ', '']}
+es = { order = ['region', 'country'], delimiters = [', ', ''] }

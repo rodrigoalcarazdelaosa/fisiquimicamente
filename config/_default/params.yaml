@@ -16,16 +16,16 @@ appearance:
 marketing:
   seo:
     site_type: Project
-    local_business_type: ''
-    org_name: 'FisiQuímicamente'
-    description: 'Recursos de Física y Química, tutoriales y ciencia de actualidad.'
-    twitter: 'fqmente'
+    local_business_type: ""
+    org_name: "FisiQuímicamente"
+    description: "Recursos de Física y Química, tutoriales y ciencia de actualidad."
+    twitter: "fqmente"
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: ""
+    baidu_tongji: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 
@@ -45,9 +45,9 @@ header:
 footer:
   block: custom
   show_translations: true
-  text: '&copy; 2020&ndash;{year} Rodrigo Alcaraz de la Osa'
+  text: "&copy; 2020&ndash;{year} Rodrigo Alcaraz de la Osa"
   copyright:
-    notice: ''
+    notice: ""
     license:
       enable: false
       allow_derivatives: false
@@ -57,14 +57,14 @@ footer:
 # Localization
 
 locale:
-  date_format: '2006-01-02'
-  time_format: '15:04'
+  date_format: "2006-01-02"
+  time_format: "15:04"
   address_format: es
 
 # Site features
 
 features:
-  syntax_highlighter:    
+  syntax_highlighter:
     theme_light: nord
     theme_dark: nord
   math:
@@ -72,29 +72,29 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/rodrigoalcarazdelaosa/fisiquimicamente'
+    url: "https://github.com/rodrigoalcarazdelaosa/fisiquimicamente"
     content_dir: content/es
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: 'discord'
+    provider: "discord"
     disqus:
-      shortname: ''
+      shortname: ""
       show_count: true
     commento:
-      url: ''
+      url: ""
   search:
     provider: wowchemy
     docsearch:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: ""
+      api_key: ""
+      index_name: ""
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: ""
+    api_key: ""
     zoom: 15
 
 # Extensions

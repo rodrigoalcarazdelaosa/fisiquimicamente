@@ -1,10 +1,10 @@
 {
- "compilerOptions": {
-  "baseUrl": ".",
-  "paths": {
-   "*": [
-    "../../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/blox-bootstrap/v5@v5.9.8-0.20240507194415-7d5cbf3ce7a1/assets/*"
-   ]
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "../../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/blox-bootstrap/v5@v5.9.8-0.20240507194415-7d5cbf3ce7a1/assets/*"
+      ]
+    }
   }
- }
 }

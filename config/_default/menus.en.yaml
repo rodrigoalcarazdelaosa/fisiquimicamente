@@ -27,11 +27,11 @@ main:
   - name: 📓 17-18 year-olds
     url: physics-chemistry-notes/17-18-year-olds
     parent: apuntes
-    weight: 5 
+    weight: 5
   - name: 📔 Nomenclature of Chemistry
     url: physics-chemistry-notes/nomenclature-chemistry
     parent: apuntes
-    weight: 6  
+    weight: 6
   - name: 🤝 Tutorials
     url: tutorials/
     identifier: tutoriales
@@ -43,14 +43,14 @@ main:
   - name: Presentation of Information
     parent: tutoriales
     url: tutorials/presentation-information
-    weight: 2    
+    weight: 2
   - name: 🔗 Online Resources
     url: online-resources/
     identifier: enlaces-interes
-    weight: 4  
+    weight: 4
   - name: ✍️ Blog
     url: /blog
-    weight: 5 
+    weight: 5
   - name: 👥 Team
     url: team/
     identifier: team

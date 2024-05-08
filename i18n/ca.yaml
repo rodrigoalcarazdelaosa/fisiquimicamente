@@ -21,7 +21,7 @@
 - id: next
   translation: Següent
 - id: figure
-  translation: 'Figura %d:'
+  translation: "Figura %d:"
 - id: edit_page
   translation: Edita aquesta pàgina
 - id: theme_selector
@@ -59,7 +59,7 @@
 - id: btn_download
   translation: Baixa
 - id: btn_text
-  translation: Text  
+  translation: Text
 - id: interests
   translation: Interessos
 - id: education
@@ -143,7 +143,7 @@
 - id: apuntes-segundo-bach-quimica
   translation: 📚 Apunts 2n Batx Química
 - id: apuntes-formulacion
-  translation: 📚 Apunts Formulació Nomenclatura Química  
+  translation: 📚 Apunts Formulació Nomenclatura Química
 - id: actividades-segundo-tercero-eso
   translation: 🗒️ Activitats 2n ESO &ndash; 3r ESO
 - id: actividades-cuarto-eso
@@ -155,7 +155,7 @@
 - id: actividades-segundo-bach-quimica
   translation: 🗒️ Activitats 2n Batx Química
 - id: actividades-formulacion
-  translation: 🗒️ Activitats Formulació Nomenclatura Química  
+  translation: 🗒️ Activitats Formulació Nomenclatura Química
 - id: juegos-segundo-tercero-eso
   translation: 🧩 Jocs 2n ESO &ndash; 3r ESO
 - id: juegos-cuarto-eso
@@ -179,7 +179,7 @@
 - id: practicas-segundo-bach-quimica
   translation: 🧪 Pràctiques 2n Batx Química
 - id: practicas-formulacion
-  translation: 🧪 Pràctiques Formulació Nomenclatura Química  
+  translation: 🧪 Pràctiques Formulació Nomenclatura Química
 - id: slides
   translation: 🧑‍🏫 Diapositives
 - id: authors
@@ -226,4 +226,4 @@
   translation: 😍 Sí
 
 - id: feedback_widget_answer_negative
-  translation: 😡 No  
+  translation: 😡 No
