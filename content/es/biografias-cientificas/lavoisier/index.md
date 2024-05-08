@@ -10,12 +10,12 @@ tags:
 - lavoisier
 categories:
 - Química
-weight: 20
+weight: 30
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: link
 
 # Optional external URL for project (replaces project detail page).
@@ -23,11 +23,11 @@ external_link: ""
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: antoine-laurent-lavoisier-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: antoine-laurent-lavoisier-triptico.pdf  
+  url: antoine-laurent-lavoisier-triptico.pdf
 ---

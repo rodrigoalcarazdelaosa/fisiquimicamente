@@ -14,7 +14,7 @@ design:
   interval: 2000
 
 content:
-  slides:  
+  slides:
   - title: 🗞️ Novedades
     content: '📚 Últimos apuntes'
     align: center
@@ -78,7 +78,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Marguerite Perey
+      text: Galileo Galilei
       url: '/recursos-fisica-quimica/historia-ciencia/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'
@@ -126,7 +126,7 @@ content:
       position: center
       #color: '#333'
       #brightness: 0.5
-      media: novedades/ultima-entrada-blog.jpg      
+      media: novedades/ultima-entrada-blog.jpg
     link:
       #icon: graduation-cap
       #icon_pack: fas

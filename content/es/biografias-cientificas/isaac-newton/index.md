@@ -1,7 +1,7 @@
 ---
 title: Isaac Newton
 url: "/recursos-fisica-quimica/historia-ciencia/"
-subtitle: 
+subtitle:
 summary: ""
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 tags:
@@ -12,12 +12,12 @@ tags:
 - newton
 categories:
 - Física
-weight: 10
+weight: 20
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: link
 
 # Optional external URL for project (replaces project detail page).
@@ -25,11 +25,11 @@ external_link: ""
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: isaac-newton-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: isaac-newton-triptico.pdf  
+  url: isaac-newton-triptico.pdf
 ---

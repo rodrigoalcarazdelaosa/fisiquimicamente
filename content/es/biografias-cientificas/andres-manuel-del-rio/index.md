@@ -12,12 +12,12 @@ tags:
 - andrés
 categories:
 - Química
-weight: 30
+weight: 40
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: link
 
 # Optional external URL for project (replaces project detail page).
@@ -25,11 +25,11 @@ external_link: ""
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: andres-manuel-del-rio-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: andres-manuel-del-rio-triptico.pdf  
+  url: andres-manuel-del-rio-triptico.pdf
 ---
