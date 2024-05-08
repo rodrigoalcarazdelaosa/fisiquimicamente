@@ -26,7 +26,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: movimiento-parabolico-poster.pdf
 - icon_pack: fas
@@ -36,7 +36,7 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Frikiexamen
-  url: movimiento-parabolico-dinamica-frikiexamen.pdf  
+  url: movimiento-parabolico-dinamica-frikiexamen.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -165,7 +165,7 @@ $$
 Despejando el tiempo $t=v_0\sin\alpha_0/g$ y sustituyendo en $y(t)$:
 $$
 y_\text{máx} = h+v_0\sin\alpha_0\cdot \frac{v_0\sin\alpha_0}{g}-\frac{1}{2}g\left(\frac{v_0\sin\alpha_0}{g}\right)^2 = h+\frac{v_0^2\sin^2\alpha_0}{2g},
-$$		
+$$
 
 obteniéndose su valor máximo para $\alpha_0 = 90^\circ$ (lanzamiento vertical).
 
@@ -194,7 +194,7 @@ Vamos a escribir las **ecuaciones del movimiento**, por **componentes**:
 \begin{align*}
 	\text{Componente $x$}\rightarrow x(t) &= x_0 + v_x t = 0 + v_0\cos\alpha_0 \cdot t = \left(20\cos 40^\circ\cdot t\right)\thinspace\mathrm{m} \\\\
 	\text{Componente $y$}\rightarrow y(t) &= y_0 + v_{0y}t + \frac{1}{2}at^2 = h + v_0\sin\alpha_0\cdot t -\frac{1}{2}gt^2 \\\\
-	&= \left(15 + 20\sin40^\circ\cdot t - 4.9t^2\right)\thinspace\mathrm{m} 
+	&= \left(15 + 20\sin40^\circ\cdot t - 4.9t^2\right)\thinspace\mathrm{m}
 \end{align*}
 
 ---
@@ -222,14 +222,14 @@ $$
 
 Para calcular la velocidad con la que llega al suelo, escribimos primero la **ecuación de la velocidad**:
 $$
-\begin{split}				
+\begin{split}
 \vec v(t) = v_x\ihat + v_y(t)\jhat &= \left(v_0\cos\alpha_0\right)\ihat + \left(v_0\sin\alpha_0 - gt\right)\jhat \\\\
 &= \left[\left(20\cos 40^\circ\right)\ihat + \left(20\sin 40^\circ-9.8t\right)\jhat\right]\thinspace\mathrm{m/s}
-\end{split}			
+\end{split}
 $$
 Sustituyendo el **tiempo de vuelo** obtenemos la **velocidad** con la que llega al suelo, $\vec v(t_\text{vuelo})$:
 $$
-\begin{split}				
+\begin{split}
 \vec v(t_\text{vuelo}) &= \left(20\cos 40^\circ\right)\ihat + \left(20\sin 40^\circ-9.8\cdot t_\text{vuelo}\right)\jhat \\\\
 &= 15.3\ihat + \left(20\sin 40^\circ-9.8\cdot 3.5\right)\jhat = \left(15.3\ihat - 21.4\jhat\right)\thinspace\mathrm{m/s}
 \end{split}
@@ -238,8 +238,10 @@ $$
 siendo el **módulo** $v = \lvert\vec v\rvert = \sqrt{15.3^2 + (-21.4)^2} = 26.3\thinspace\mathrm{m/s}$ (**teorema de Pitágoras**).
 {{% /callout %}}
 
-## Simulación
+## Simulaciones
 
-Si te apetece, puedes *jugar* con esta **simulación**:
+Si te apetece, puedes *jugar* con estas **simulaciones**:
 
 <iframe src="https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
+<iframe src="https://phet.colorado.edu/sims/html/projectile-data-lab/latest/projectile-data-lab_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
