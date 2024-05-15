@@ -5,12 +5,12 @@ summary: "Claves del Método de Implementación de Tareas para Casa (MITCA)."
 tags:
 - metodología
 categories:
-weight: 60
+weight: 40
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

@@ -5,12 +5,12 @@ summary: "¿Cómo elaborar una rúbrica?"
 tags:
 - evaluación
 categories:
-weight: 90
+weight: 70
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

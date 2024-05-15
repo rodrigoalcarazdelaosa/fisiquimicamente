@@ -5,12 +5,12 @@ tags:
 - metodología
 - evocación
 categories:
-weight: 70
+weight: 50
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

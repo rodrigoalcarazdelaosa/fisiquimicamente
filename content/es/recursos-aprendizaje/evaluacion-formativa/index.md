@@ -5,12 +5,12 @@ summary: "Evaluar para aprender, evaluar para calificar. La evaluación desde un
 tags:
 - evaluación
 categories:
-weight: 80
+weight: 60
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
