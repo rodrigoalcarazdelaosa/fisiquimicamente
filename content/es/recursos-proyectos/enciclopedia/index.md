@@ -10,9 +10,9 @@ weight: 60
 image:
   preview_only: true
 
-_build:  
+_build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://start.me/p/L1yydO/la-encicloped-ia"
+external_link: "https://start.me/p/xjMEMn/la-encicloped-ia"
 ---
