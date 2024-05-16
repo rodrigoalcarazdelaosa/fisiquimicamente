@@ -65,8 +65,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Detección de vitamina C | Química 2.º Bach
-      url: 'recursos-fisica-quimica/practicas-laboratorio/2bach/quimica/deteccion-de-vitamina-c/'
+      text: Experimentos de óptica para todos los bolsillos | Física 2.º Bach
+      url: 'https://www.sedoptica.es/storage/docs/20240516084634_Libro-Exxperimentos-de-Optica-para-todos-los-bolsillos_compressed.pdf'
   - title: 🗞️ Novedades
     content: '📖 Última biografía científica'
     align: center
