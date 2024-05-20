@@ -19,19 +19,19 @@ weight: 9
 external_link: ""
 
 image:
-  caption: Imagen de [**Hans Braxmeier**](https://pixabay.com/es/users/hans-2/) en [Pixabay](https://pixabay.com/es/)
+  caption: https://depositphotos.com/photo/wind-turbines-farm-at-sunset-8610489.html
   focal_point: Smart
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: energia-trabajo-calor-poster.pdf
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes
-  url: fluidos-energia-calor-frikiexamenes.pdf  
-  
+  url: fluidos-energia-calor-frikiexamenes.pdf
+
 slides: energia-trabajo-calor-4ESO
 
 math: true
@@ -230,7 +230,7 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 
 {{< spoiler text="¿Sabes que el calor específico depende de la temperatura?" >}}
 La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor específico del oro (Au), hierro (Fe) y carbono (C) con la temperatura, según el [modelo de Debye](https://es.wikipedia.org/wiki/Modelo_de_Debye):
- 
+
 <canvas id="c-t"></canvas>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
@@ -2243,7 +2243,7 @@ La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor espec
 [998.00000000,  19.67612213],
 [999.00000000,  19.68500117],
 [1000.00000000,  19.69385929],
-	];	
+	];
 	const cOro = [
 [  0.00000000,   0.00000000],
 [  1.00000000,   0.00039562],
@@ -3246,9 +3246,9 @@ La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor espec
 [998.00000000,  24.90585168],
 [999.00000000,  24.90592393],
 [1000.00000000,  24.90599598],
-	];		
+	];
 	new Chart(c, {
-	  type: 'line',		
+	  type: 'line',
 	  data: {
 	    datasets: [
 			{
@@ -3265,7 +3265,7 @@ La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor espec
 //	      showLine: false // no line shown
 	    },
 			{
-	      data: cHierro.map(datum => ({	  
+	      data: cHierro.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -3289,7 +3289,7 @@ La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor espec
 		  pointRadius: 0,
 	      //              pointHoverRadius: 15,
 //	      showLine: false // no line shown
-	    },				
+	    },
 	]
 	  },
 	  options: {
@@ -3347,23 +3347,23 @@ La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor espec
 	    },
         legend: {
   		  labels: {
-  			  boxWidth: 10,	  
+  			  boxWidth: 10,
   			  fontSize: 18,
   			  fontFamily: 'Cabin Sketch',
   			  fontColor: '#111111'
-  		  }				  
+  		  }
         },
 	  }
 	});
 </script>
-	
+
 Se observa que, a altas temperaturas, el calor específico se acerca al valor $c = 25\thinspace\mathrm{J/(mol\cdot K)}$, resultado que se conoce como la [ley de Dulong y Petit](https://es.wikipedia.org/wiki/Ley_de_Dulong-Petit).
 {{< /spoiler >}}
 
 ### Dilatación
 Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura[^3].
 
-[^3]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0&thinsp;&deg;C y 4&thinsp;&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella. 
+[^3]: Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0&thinsp;&deg;C y 4&thinsp;&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella.
 
 {{< figure library="true" src="energia-trabajo-calor-4ESO/junta-dilatacion.jpg" title="**Junta de dilatación** de un puente. Si estas juntas no se construyesen, la dilatación térmica de los materiales cuando aumentase la temperatura generaría unos esfuerzos tan grandes que fracturarían el puente. Para calcular estas juntas se necesita conocer el **coeficiente de dilatación térmica**. Imagen de [**Kranich17**](https://pixabay.com/es/users/kranich17-11197573/) en [Pixabay](https://pixabay.com/es/)." lightbox="true" >}}
 
@@ -3381,7 +3381,7 @@ donde $\alpha$ es el llamado **coeficiente de dilatación lineal**[^4], cuyas un
 
 $$
 \Delta S = 2\alpha \cdot S_0\cdot \Delta T;\quad \Delta V = 3\alpha \cdot V_0\cdot \Delta T
-$$  
+$$
 
 ### Cambios de estado
 Al transferir calor a un cuerpo, su temperatura aumenta. Al variar la temperatura de un cuerpo, éste puede [**cambiar** su **estado** de agregación]({{< ref "/apuntes-segundo-tercero-eso/materia/index.md#cambios-de-estado" >}}).

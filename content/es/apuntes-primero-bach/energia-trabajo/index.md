@@ -20,7 +20,7 @@ weight: 8
 external_link: ""
 
 image:
-  caption: Foto de [**Gonz DDL**](https://unsplash.com/@gonz_ddl) en [Unsplash](https://unsplash.com)
+  caption: https://depositphotos.com/photo/wind-turbines-farm-at-sunset-8610489.html
   focal_point: Smart
 
 links:
@@ -28,7 +28,7 @@ links:
 #   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
-  
+
 # - icon_pack: fas
 #   icon:
 #   name: Póster

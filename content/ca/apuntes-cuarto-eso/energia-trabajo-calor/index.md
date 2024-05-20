@@ -19,16 +19,16 @@ weight: 9
 external_link: ""
 
 image:
-  caption: Imatge de [**Hans Braxmeier**](https://pixabay.com/es/users/hans-2/) en [Pixabay](https://pixabay.com/es/)
+  caption: https://depositphotos.com/photo/wind-turbines-farm-at-sunset-8610489.html
   focal_point: Smart
 
 links:
 - icon_pack: fas
   icon:
   name: 📜 Pòster
-  url: energia-treball-calor-poster.pdf  
-  
-slides: 
+  url: energia-treball-calor-poster.pdf
+
+slides:
 ---
 
 {{% callout soon %}}
