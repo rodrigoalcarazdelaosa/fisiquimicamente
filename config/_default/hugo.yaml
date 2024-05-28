@@ -71,6 +71,16 @@ markup:
               - \)
             - - $
               - $
+      extras:
+        # Enable subscript, superscript, and highlighting with ~,^, and == wrappers
+        insert:
+          enable: false
+        mark:
+          enable: true
+        subscript:
+          enable: true
+        superscript:
+          enable: true
   highlight:
     lineNos: false
 related:
