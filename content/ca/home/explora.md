@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "recursos-fisica-quimica"
   icon_link = "recursos-fisica-quimica/"
-  icon_pack = "lottie"
+  icon_pack = "tgs"
   name = "[Recursos de Física i Química](recursos-fisica-quimica/)"
   description = "[📚 Apunts](recursos-fisica-quimica/apunts) · [🎓 PAU/PBAU](recursos-fisica-quimica/pau-pbau)"
 

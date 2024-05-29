@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "recursos-fisica-quimica"
   icon_link = "recursos-fisica-quimica/"
-  icon_pack = "lottie"
+  icon_pack = "tgs"
   name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
   description = "[📚&nbsp;Apuntes](recursos-fisica-quimica/apuntes) · [🗒️&nbsp;Actividades](recursos-fisica-quimica/actividades) · [🧩&nbsp;Juegos](recursos-fisica-quimica/juegos) · [🧪&nbsp;Prácticas de laboratorio](recursos-fisica-quimica/practicas-laboratorio) · [📖&nbsp;Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓&nbsp;EBAU](recursos-fisica-quimica/ebau) · [🧑‍🏫&nbsp;Formación del profesorado](recursos-fisica-quimica/formacion-profesorado) · [☢️&nbsp;Radiofísica](recursos-fisica-quimica/radiofisica)"
 
