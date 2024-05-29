@@ -9,66 +9,66 @@ title = ""
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "recursos"
+  icon = "recursos-fisica-quimica"
   icon_link = "recursos-fisica-quimica/"
   icon_pack = "lottie"
   name = "[Recursos de Física y Química](recursos-fisica-quimica/)"
-  description = "[📚&nbsp;Apuntes](recursos-fisica-quimica/apuntes) · [🗒️&nbsp;Actividades](recursos-fisica-quimica/actividades) · [🧩&nbsp;Juegos](recursos-fisica-quimica/juegos) · [🧪&nbsp;Prácticas de laboratorio](recursos-fisica-quimica/practicas-laboratorio) · [📖&nbsp;Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓&nbsp;EBAU](recursos-fisica-quimica/ebau) · [🧑‍🏫&nbsp;Formación del profesorado](recursos-fisica-quimica/formacion-profesorado) · [☢️&nbsp;Radiofísica](recursos-fisica-quimica/radiofisica)"  
-  
+  description = "[📚&nbsp;Apuntes](recursos-fisica-quimica/apuntes) · [🗒️&nbsp;Actividades](recursos-fisica-quimica/actividades) · [🧩&nbsp;Juegos](recursos-fisica-quimica/juegos) · [🧪&nbsp;Prácticas de laboratorio](recursos-fisica-quimica/practicas-laboratorio) · [📖&nbsp;Historia de la Ciencia](recursos-fisica-quimica/historia-ciencia) · [🎓&nbsp;EBAU](recursos-fisica-quimica/ebau) · [🧑‍🏫&nbsp;Formación del profesorado](recursos-fisica-quimica/formacion-profesorado) · [☢️&nbsp;Radiofísica](recursos-fisica-quimica/radiofisica)"
+
 [[feature]]
   icon = "tutoriales"
   icon_link = "tutoriales/"
   icon_pack = "tgs"
   name = "[Tutoriales](tutoriales/)"
   description = "[LaTeX](tutoriales/latex) · [Presentación de información](tutoriales/presentacion-informacion)"
-  
+
 [[feature]]
   icon = "enlaces-interes"
   icon_link = "enlaces-interes/"
   icon_pack = "tgs"
   name = "[Enlaces de interés](enlaces-interes/)"
   description = "[💻&nbsp;Recursos online](enlaces-interes/recursos-online) · [🤗&nbsp;Páginas amigas](enlaces-interes/paginas-amigas)"
-  
+
 [[feature]]
   icon = "blog"
   icon_link ="blog/"
   icon_pack = "tgs"
   name = "[Blog](blog/)"
   description = ""
-  
+
 [[feature]]
   icon = "equipo"
   icon_link = "equipo/"
   icon_pack = "tgs"
   name = "[Conoce al equipo](equipo/)"
   description = ""
-  
+
 [[feature]]
   icon = "contacto-sticker"
   icon_link = "#contacto"
   icon_pack = "tgs"
   name = "[Contacto](#contacto)"
-  description = ""  
+  description = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+
   # Background color.
   # # color = "#fffff8"
-  
+
   # Background gradient.
   # gradient_start = "#FFFFF8"
   # gradient_end = "#BBCCEE"
-  
+
   # Background image.
   # image = "home.jpg"  # Name of image in `static/media/`.
   image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -77,12 +77,12 @@ subtitle = ""
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  # text_color_light = true    
+  # text_color_light = true
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = "padding-top: 0px"
- 
+
  # CSS class.
  css_class = ""
 +++

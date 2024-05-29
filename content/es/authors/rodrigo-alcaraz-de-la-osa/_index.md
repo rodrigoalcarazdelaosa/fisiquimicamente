@@ -15,7 +15,7 @@ superuser: true
 highlight_name: false
 
 # Role/position
-role: ⚛️ · 🤝 · 🔗 · ✍️
+role: 💼 · 🤝 · 🔗 · ✍️
 
 # Organizations/Affiliations
 organizations:
@@ -92,7 +92,7 @@ social:
   label: Suscríbete al canal de Whatsapp
   display:
     header: true
-    footer: true    
+    footer: true
 - icon: discord
   icon_pack: svg
   link: https://discord.gg/kJqPqTJ
@@ -122,4 +122,4 @@ user_groups:
 - 🧑‍🔬 Fundadores
 ---
 
-Soy Doctor en Física por la [Universidad de Cantabria](https://web.unican.es) y Profesor de Física y Química en el [IES Peñacastillo](https://www.educantabria.es/web/ies-penacastillo) de Cantabria (España). Además, soy el creador de [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/), donde puedes encontrar [⚛️ <span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), así como diversos [🤝 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) y entradas en el [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
+Soy Doctor en Física por la [Universidad de Cantabria](https://web.unican.es) y Profesor de Física y Química en el [IES Peñacastillo](https://www.educantabria.es/web/ies-penacastillo) de Cantabria (España). Además, soy el creador de [<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/), donde puedes encontrar [💼 <span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), así como diversos [🤝 <span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**enlaces de interés**</span>]({{< ref "/enlaces-interes" >}}) y entradas en el [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).

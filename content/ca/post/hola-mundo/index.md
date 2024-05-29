@@ -13,7 +13,7 @@ image:
   preview_only: true
   placement: 3
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) a [Unsplash](https://unsplash.com)
-featured: true  
+featured: true
 ---
 
 {{% lottie src="lottie/hello.tgs" width="75%" %}}
@@ -22,7 +22,7 @@ Primera entrada del blog. Comença una aventura que portava molt temps (anys) am
 
 ## Qui som?
 
-[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) és creada per [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) el 2020 com un lloc web on compartir principalment [⚛️&nbsp;<span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) i [🤝&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/) és creada per [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) el 2020 com un lloc web on compartir principalment [💼&nbsp;<span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) i [🤝&nbsp;<span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}).
 
 El 2021 es fa la transició cap a un lloc web més *impersonal*, millor preparat i obert per a futures col·laboracions. [Clica aquí si vols conèixer a l'**equip** que hi ha darrere]({{< ref "/equipo" >}}).
 

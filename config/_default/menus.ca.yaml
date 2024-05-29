@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: ⚛️ Recursos FiQ
+  - name: 💼 Recursos FiQ
     url: recursos-fisica-quimica/
     identifier: recursos-fiq
     weight: 1

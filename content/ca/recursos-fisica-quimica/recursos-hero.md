@@ -3,7 +3,7 @@ active: false
 widget: hero-lottie
 headless: true
 weight: 1
-title: ⚛️ Recursos de Física i Química
+title: 💼 Recursos de Física i Química
 hero_media: "lottie/recursos.json"
 hero_media_caption: "Animació Lottie de [**vik4graphic**](https://lottiefiles.com/6594-atom)"
 cta:
@@ -22,7 +22,7 @@ design:
     # color: "#FFFFF8"
 advanced:
   css_style: "padding-bottom: 0px"
-  css_class: 
+  css_class:
 ---
 
 📚 **Apunts** de Física i Química

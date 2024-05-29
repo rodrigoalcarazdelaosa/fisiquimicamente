@@ -14,7 +14,7 @@ superuser: true
 highlight_name: false
 
 # Role/position
-role: ⚛️ · 🤝 · 🔗 · ✍️
+role: 💼 · 🤝 · 🔗 · ✍️
 
 # Organizations/Affiliations
 organizations:
@@ -91,7 +91,7 @@ social:
   label: Subscriu-te al canal de Whatsapp
   display:
     header: true
-    footer: true    
+    footer: true
 - icon: discord
   icon_pack: svg
   link: https://discord.gg/kJqPqTJ
@@ -105,7 +105,7 @@ social:
   label: Invítanos a un cafè
   display:
     header: false
-    footer: true    
+    footer: true
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -121,4 +121,4 @@ user_groups:
 - 🧑‍🔬 Fundadors
 ---
 
-Soc Doctor en Física per la [Universidad de Cantabria](https://web.unican.es) i Professor de Física i Química a [l'IES Peñacastillo](https://www.educantabria.es/web/ies-penacastillo) de Cantàbria (Espanya). A més a més, sóc el creador de [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/), on pots trobar [⚛️ <span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), així com diversos [🤝 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}) i entrades en el [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).
+Soc Doctor en Física per la [Universidad de Cantabria](https://web.unican.es) i Professor de Física i Química a [l'IES Peñacastillo](https://www.educantabria.es/web/ies-penacastillo) de Cantàbria (Espanya). A més a més, sóc el creador de [<img draggable="false" class="icon" alt="fisiquimicament" src="/icon/logo-fisiquimicament.svg">](/), on pots trobar [💼 <span style="font-variant:small-caps;">**recursos de Física i Química**</span>]({{< ref "/recursos-fisica-quimica" >}}), així com diversos [🤝 <span style="font-variant:small-caps;">**tutorials**</span>]({{< ref "/tutoriales" >}}), [🔗 <span style="font-variant:small-caps;">**recursos online**</span>]({{< ref "/recursos-online" >}}) i entrades en el [✍️ <span style="font-variant:small-caps;">**blog**</span>]({{< ref "/post" >}}).

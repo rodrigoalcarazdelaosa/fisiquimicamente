@@ -49,18 +49,18 @@
          {{ else }}
             <i {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
          {{ end }}
-      </a> 
+      </a>
     </li>
   {{ end }}
 {{ end }}
 {{ if $display_icons }}
     </ul>
   </div>
-{{ end }} 
+{{ end }}
 
 {{ with site.Params.footer.text }}
 <p class="powered-by">
-  {{ . | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}  
+  {{ . | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
 </p>
 {{ end }}
 
@@ -88,7 +88,7 @@
 	    de <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg" loading="lazy"> codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg" loading="lazy"></a><br><a href="https://hugoblox.com/sponsor/?aff=K4VGj">Uneix-te a <strong><em>All Access</em></strong> per desbloquejar blox i plantilles exclusives</a>
 {{ end }}
   </p>
-  
+
   <p class="powered-by">
     {{ if eq .Site.Language.Lang "es" }}
     Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.svg" loading="lazy"> GitHub</a><span class="middot-divider"></span>Servido por <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg" loading="lazy"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmación:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
@@ -99,10 +99,10 @@ Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" 
 {{ end }}
 
 <br><a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml/badge.svg" loading="lazy"></a>
-  
+
 </p>
 
-{{/*  <p class="powered-by">  
+{{/*  <p class="powered-by">
 
   <!-- Speedlify -->
 <script src="/js/speedlify-score.js"></script>
@@ -123,7 +123,7 @@ Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" 
 
 <ul id="menu-horizontal" class="site-footer powered-by">
 {{ if eq .Site.Language.Lang "es" }}
-	<li><a href="/recursos-fisica-quimica/">⚛️ Recursos FyQ</a></li>
+	<li><a href="/recursos-fisica-quimica/">💼 Recursos FyQ</a></li>
 	<li><a href="/tutoriales/">🤝 Tutoriales</a></li>
 	<li><a href="/enlaces-interes/">🔗 Enlaces de interés</a></li>
 	<li><a href="/blog">✍️ Blog</a></li>
@@ -137,11 +137,11 @@ Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" 
 	<li><a href="/team/">👥 Team</a></li>
 	<li><a href="/#contact">📬 Contact</a></li>
 {{ else if eq .Site.Language.Lang "ca" }}
-	<li><a href="/recursos-fisica-quimica/">⚛️ Recursos FiQ</a></li>
+	<li><a href="/recursos-fisica-quimica/">💼 Recursos FiQ</a></li>
 	<li><a href="/tutorials/">🤝 Tutorials</a></li>
 	<li><a href="/recursos-online/">🔗 Recursos online</a></li>
 	<li><a href="/blog">✍️ Blog</a></li>
 	<li><a href="/equip/">👥 Equip</a></li>
-	<li><a href="/#contacte">📬 Contacte</a></li>  
+	<li><a href="/#contacte">📬 Contacte</a></li>
 {{ end }}
 </ul>

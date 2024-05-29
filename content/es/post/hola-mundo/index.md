@@ -12,7 +12,7 @@ image:
   preview_only: true
   placement: 3
   caption: Foto de [**Jon Tyson**](https://unsplash.com/@jontyson) en [Unsplash](https://unsplash.com)
-featured: true  
+featured: true
 ---
 
 {{% lottie src="lottie/hello.tgs" width="75%" %}}
@@ -21,7 +21,7 @@ Primera entrada del blog. Comienza una aventura que llevaba mucho tiempo (años)
 
 ## ¿Quiénes somos?
 
-[<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/) es creada por [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) en 2020 como un sitio web donde compartir principalmente [⚛️&nbsp;<span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) y [🤝&nbsp;<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}).
+[<img draggable="false" class="icon" alt="fisiquimicamente" src="/icon/logo-fisiquimicamente.svg">](/) es creada por [Rodrigo Alcaraz de la Osa]({{< ref "/sobre-mi" >}}) en 2020 como un sitio web donde compartir principalmente [💼&nbsp;<span style="font-variant:small-caps;">**recursos de Física y Química**</span>]({{< ref "/recursos-fisica-quimica" >}}) y [🤝&nbsp;<span style="font-variant:small-caps;">**tutoriales**</span>]({{< ref "/tutoriales" >}}).
 
 En 2021 hace la transición hacia un sitio web más *impersonal*, mejor preparado y abierto para futuras colaboraciones. [Pincha aquí si quieres conocer al **equipo** que está detrás]({{< ref "/equipo" >}}).
 
