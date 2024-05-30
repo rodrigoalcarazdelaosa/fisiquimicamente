@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: El arte de formular | 3.º ESO
-      url: 'https://descargas.intef.es/cedec/proyectoedia/fisica_quimica/contenidos/arte_formular/index.html'
+      text: El abecedario de la Química | 3.º ESO
+      url: 'https://descargas.intef.es/cedec/proyectoedia/fisica_quimica/contenidos/abecedario_quimica/index.html'
   - title: 🗞️ Novedades
     content: '🧩 Último juego'
     align: center
@@ -131,5 +131,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "Grafeno"
-      url: 'blog/2024/05/29/grafeno/'
+      url: 'blog/2024/05/30/grafeno/'
 ---
