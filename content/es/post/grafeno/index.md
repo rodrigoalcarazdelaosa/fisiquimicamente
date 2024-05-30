@@ -3,7 +3,7 @@ title: "Grafeno"
 subtitle: Mitos y realidades
 summary: "Mitos y realidades."
 breadcrumbs: ["blog"]
-date: "2024-05-29T00:00:00Z"
+date: "2024-05-30T00:00:00Z"
 authors:
 - manuel-alonso-orts
 tags:
@@ -30,13 +30,13 @@ Entrada basada en el siguiente hilo de Twitter:
 
 El [**grafeno**](https://es.wikipedia.org/wiki/Grafeno) es quizá el material más famoso de este siglo. Desde que [**Geim**](https://es.wikipedia.org/wiki/Andre_Geim) y [**Novosiólov**](https://es.wikipedia.org/wiki/Konstantín_Novosiólov) lo aislaron en 2004, dando lugar al [**Nobel** de **Física** de **2010**](https://www.nobelprize.org/prizes/physics/2010/summary/), hemos leído de todo; desde que se forma con cinta aislante hasta que revolucionará la electrónica. 20 años después, ¿es para tanto?
 
-En entrada analizaremos 10 afirmaciones habituales sobre el grafeno. Algunas son ciertas y otras pecan de sensacionalistas, o confunden conceptos. La idea es que, para cada afirmación, primero votéis "realidad o mito" solo con lo que os diga vuestro instinto, para después leer mi explicación. Empecemos.
+En entrada analizaremos 10 afirmaciones habituales sobre el grafeno. Algunas son ciertas y otras pecan de sensacionalistas, o confunden conceptos. La idea es que, para cada afirmación, primero votéis "mito o realidad" solo con lo que os diga vuestro instinto, para después leer mi explicación. Empecemos.
 
 ## 1. El grafeno es una capa atómica de grafito
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Se puede separar este material 2D gracias a que los enlaces entre capas (van der Waals) son mucho más débiles que los que unen los átomos de carbono en cada capa.
 
@@ -57,7 +57,7 @@ Se puede separar este material 2D gracias a que los enlaces entre capas (van der
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 A partir de un lápiz, cuya punta es de grafito, y usando cinta aislante, se puede obtener grafeno.
 
@@ -76,7 +76,7 @@ A partir de un lápiz, cuya punta es de grafito, y usando cinta aislante, se pue
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Vale, no se puede aislar grafeno de la punta de un lápiz, pero los investigadores y premios Nobel A. Geim y K. Novosiólov sí lograron obtener grafeno empleando cinta aislante para separarlo de un material 3D, ¿no?
 
@@ -99,7 +99,7 @@ También se puede fabricar grafeno por deposición química de vapor, por exfoli
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Vayamos a las propiedades. Igual habéis leído que los electrones en el grafeno tienen una dinámica parecida a los fotones de luz y viajan a toda pastilla; casi a un 1&thinsp;% de la velocidad de la luz en el aire...
 
@@ -120,7 +120,7 @@ Vayamos a las propiedades. Igual habéis leído que los electrones en el grafeno
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Al tener electrones tan veloces, en años o décadas, cuando se logre sintetizar láminas grandes de grafeno de mejor calidad, el grafeno irá sustituyendo al silicio hasta convertirse en el nuevo material electrónico por excelencia.
 
@@ -147,7 +147,7 @@ Eso no quiere decir que el grafeno no se use en electrónica. Se está trabajand
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Si electrones viajan muy rápido y se comportan como la luz, en vez de un SEMIconductor el grafeno monocapa será un SUPERconductor, es decir, que puede conducir electricidad sin resistencia a través de su capa 2D.
 
@@ -174,7 +174,7 @@ Por cierto, en este hilo que tanto os gustó mencioné un tipo especial de defec
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Aunque habitualmente el grafeno no sea un superconductor, si cogemos dos láminas de grafeno y las colocamos una encima de otra rotadas entre sí en un ángulo especial, el grafeno bicapa sí es un superconductor.
 
@@ -195,7 +195,7 @@ Aunque habitualmente el grafeno no sea un superconductor, si cogemos dos lámina
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Puede soportar unas 100 veces mayores tensiones que el acero y unas 30 veces mayores que el Kevlar (el material de los chalecos antibalas).
 
@@ -216,7 +216,7 @@ Puede soportar unas 100 veces mayores tensiones que el acero y unas 30 veces may
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Desde 2004 se vendió el grafeno como la gran revolución, pero, hoy en día, no hay ninguna empresa cuyos productos aprovechen esas llamativas propiedades del grafeno. Será interesante desde el punto de vista científico, pero ha sido una estafa para la sociedad.
 
@@ -239,7 +239,7 @@ Sería un error invertir solo en aquello con aplicaciones predecibles. La superc
 
 {{< quizdown >}}
 
-## Realidad o mito
+###  Mito o realidad
 
 Para terminar, ¿es cierto que las vacunas del COVID tienen óxido de grafeno, como publicó un científico español en redes, y terminó siendo “vox populi” entre escépticos y negacionistas de la vacunación?
 
