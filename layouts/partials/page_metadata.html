@@ -23,12 +23,12 @@
           {{ i18n "last_updated" }}
       {{ end }}
     {{ end }}
-    {{ $date }}    
+    {{ $date }}
   </span>
   <span class="middot-divider"></span>
   {{ end }}
 
-  {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}  
+  {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}
   <span class="article-date">
     {{- if $page.GitInfo -}}{{ i18n "last_edit" }}<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ $page.GitInfo.Hash }}" target="_blank" rel="noopener">{{ $page.GitInfo.AbbreviatedHash }}</a>{{- end -}}
   </span>
@@ -48,14 +48,14 @@
   {{ if and (eq $page.Type "post") (not (or (eq site.Params.reading_time false) (eq $page.Params.reading_time false))) }}
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    ⏱️ {{ $page.ReadingTime }} {{ i18n "minute_read" }}
+    ⏱️&nbsp;{{ $page.ReadingTime }} {{ i18n "minute_read" }}
   </span>
   {{ end }}
 
   {{ $comments_provider := trim (site.Params.features.comment.provider | lower) " " }}
   {{ $commentable_page := $page.Params.commentable }}
 
-  {{/* Show Disqus comment count if enabled. */}}  
+  {{/* Show Disqus comment count if enabled. */}}
   {{ if (eq $comments_provider "disqus") | and (site.Params.features.comment.disqus.show_count | default true) | and $commentable_page }}
     <span class="middot-divider"></span>
     <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
@@ -66,19 +66,19 @@
   <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-folder mr-1"></i>     -->
-    📁&nbsp; {{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
+    📁&nbsp;{{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- end -}}
   </span>
   {{ end }}
-  
+
   {{ $taxonomy := "tags" }}
   {{ if $page.Param $taxonomy }}
   <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-tags mr-1"></i>     -->
-    🏷️&nbsp; {{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
+    🏷️&nbsp;{{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- end -}}
