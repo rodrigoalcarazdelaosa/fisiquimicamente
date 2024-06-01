@@ -24,7 +24,7 @@ image:
   caption: Imatge de [**vubp**](https://pixabay.com/es/users/vubp-6000785/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-links:  
+links:
 - icon_pack: fas
   icon:
   name: 📜 Pòster
@@ -61,7 +61,7 @@ L'**efecte pantalla** o **apantallament**, $a$, consisteix en l'**atenuació** d
 {{< figure library="true" src="sistema-periodico-2Bach-quimica/apantallamiento-cat.svg" title="Traduïda de https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_110A%3A_Physical_Chemistry__I/UCD_Chem_110A%3A_Physical_Chemistry_I_(Koski)/Text/07%3A_Approximation_Methods/7.2%3A_The_Variational_Method." lightbox="false" width="100%" >}}
 
 ### Càrrega nuclear efectiva
-Es tracta de la **càrrega positiva neta**, $Z\_\mathrm{eff}$, que experimenta un electró degut a l'apantallament. La càrrega nuclear efectiva **augmenta** d'esquerra a dreta al llarg d'un **període** i és **constant** al llarg d'un **grup**.
+Es tracta de la **càrrega positiva neta**, $Z_\mathrm{eff}$, que experimenta un electró degut a l'apantallament. La càrrega nuclear efectiva **augmenta** d'esquerra a dreta al llarg d'un **període** i és **constant** al llarg d'un **grup**.
 
 Les [**regles** de **Slater**](https://es.wikipedia.org/wiki/Reglas_de_Slater) ens permeten calcular-la, d'acord amb l'expressió:
 
@@ -127,10 +127,10 @@ L'**afinitat electrònica** és l'**energia alliberada** quan un àtom neutre, X
 
 $$
 \mathrm{X(g)} + 1\thinspace\mathrm e^- \longrightarrow \mathrm{X^-(g)} + E_\mathrm{ea}
-$$	
+$$
 
 ### Electronegativitat $\chi$
-L'**electronegativitat** és una **mesura** de la **tendència** d'un àtom a **atreure** un parell d'**electrons** que comparteix amb un altre àtom al qual està unit mitjançant un enllaç químic. 
+L'**electronegativitat** és una **mesura** de la **tendència** d'un àtom a **atreure** un parell d'**electrons** que comparteix amb un altre àtom al qual està unit mitjançant un enllaç químic.
 
 #### Al llarg d'un període
 La **càrrega nuclear efectiva augmenta**, els **electrons** de valència són **més atrets** pel nucli i per tant **augmenten** l'**energia** d'**ionització**, l'**afinitat electrònica** i l'**electronegativitat**.
