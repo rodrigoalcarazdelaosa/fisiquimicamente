@@ -23,15 +23,15 @@ image:
   caption: Imagen de [**vubp**](https://pixabay.com/es/users/vubp-6000785/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-links:  
+links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: sistema-periodico-poster.pdf
 - icon_pack: fas
   icon:
   name: ✏️ Ejercicios
-  url: sistema-periodico-ejercicios.pdf   
+  url: sistema-periodico-ejercicios.pdf
 - icon_pack: fas
   icon:
   name: 🔗 Más ejercicios
@@ -39,7 +39,7 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Frikiexamen
-  url: estructura-materia-sistema-periodico-frikiexamen.pdf  
+  url: estructura-materia-sistema-periodico-frikiexamen.pdf
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
@@ -84,7 +84,7 @@ El **efecto pantalla** o **apantallamiento**, $a$, consiste en la **atenuación*
 {{< figure library="true" src="sistema-periodico-2Bach-quimica/apantallamiento.svg" title="Traducida de https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_110A%3A_Physical_Chemistry__I/UCD_Chem_110A%3A_Physical_Chemistry_I_(Koski)/Text/07%3A_Approximation_Methods/7.2%3A_The_Variational_Method." lightbox="false" width="100%" >}}
 
 ### Carga nuclear efectiva
-Se trata de la **carga positiva neta**, $Z\_\mathrm{eff}$, que experimenta un electrón debido al apantallamiento. La carga nuclear efectiva **aumenta** de izquierda a derecha a lo largo de un **periodo** y es **constante** a lo largo de un **grupo**.
+Se trata de la **carga positiva neta**, $Z_\mathrm{eff}$, que experimenta un electrón debido al apantallamiento. La carga nuclear efectiva **aumenta** de izquierda a derecha a lo largo de un **periodo** y es **constante** a lo largo de un **grupo**.
 
 Las [**reglas** de **Slater**](https://es.wikipedia.org/wiki/Reglas_de_Slater) nos permiten calcularla, de acuerdo a la expresión:
 
@@ -150,10 +150,10 @@ La **afinidad electrónica** es la **energía liberada** cuando un átomo neutro
 
 $$
 \mathrm{X(g)} + 1\thinspace\mathrm e^- \longrightarrow \mathrm{X^-(g)} + E_\mathrm{ea}
-$$	
+$$
 
 ### Electronegatividad $\chi$
-La **electronegativad** es una **medida** de la **tendencia** de un átomo a **atraer** un par de **electrones** que comparte con otro átomo al que está unido mediante un enlace químico. 
+La **electronegativad** es una **medida** de la **tendencia** de un átomo a **atraer** un par de **electrones** que comparte con otro átomo al que está unido mediante un enlace químico.
 
 #### A lo largo de un periodo
 La **carga nuclear efectiva aumenta**, los **electrones** de valencia son **más atraídos** por el núcleo y por tanto **aumentan** la **energía** de **ionización**, la **afinidad electrónica** y la **electronegatividad**.

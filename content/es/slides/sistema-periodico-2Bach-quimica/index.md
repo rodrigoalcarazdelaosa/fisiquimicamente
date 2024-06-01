@@ -79,7 +79,7 @@ El **efecto pantalla** o **apantallamiento**, $a$, consiste en la **atenuación*
 ---
 
 ### Carga nuclear efectiva
-Se trata de la **carga positiva neta**, $Z\_\mathrm{eff}$, que experimenta un electrón debido al apantallamiento. La carga nuclear efectiva **aumenta** de izquierda a derecha a lo largo de un **periodo** y es **constante** a lo largo de un **grupo**.
+Se trata de la **carga positiva neta**, $Z_\mathrm{eff}$, que experimenta un electrón debido al apantallamiento. La carga nuclear efectiva **aumenta** de izquierda a derecha a lo largo de un **periodo** y es **constante** a lo largo de un **grupo**.
 
 ---
 
