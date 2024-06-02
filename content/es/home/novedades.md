@@ -78,7 +78,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Galileo Galilei
+      text: Marie-Anne P. Paulze-Lavoisier
       url: '/recursos-fisica-quimica/historia-ciencia/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'

@@ -33,10 +33,10 @@ subtitle = "Biografías y principales contribuciones de los grandes científicos
     filter = ".js-id-galileo, .js-id-newton"
   [[content.filter_button]]
     name = "S. XVIII"
-    filter = ".js-id-newton, .js-id-lavoisier, .js-id-andrés"
+    filter = ".js-id-newton, .js-id-lavoisier, .js-id-marie-lavoisier, .js-id-andrés"
   [[content.filter_button]]
     name = "S. XIX"
-    filter = ".js-id-maxwell, .js-id-curie, .js-id-andrés"
+    filter = ".js-id-marie-lavoisier, .js-id-andrés, .js-id-maxwell, .js-id-curie"
    [[content.filter_button]]
     name = "S. XX"
     filter = ".js-id-curie, .js-id-perey"

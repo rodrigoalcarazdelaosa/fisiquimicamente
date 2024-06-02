@@ -1,17 +1,16 @@
 ---
-title: Marguerite Perey
+title: Marie-Anne P. Paulze-Lavoisier
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle:
-summary: ""
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 authors:
 - luis-moreno-martinez
 tags:
-- perey
+- marie-lavoisier
 categories:
-- Física
 - Química
-weight: 80
+weight: 40
 
 image:
   preview_only: true
@@ -26,9 +25,9 @@ links:
 - icon_pack: fas
   icon:
   name: 📜 Póster
-  url: marguerite-perey-poster.pdf
+  url: marie-anne-paulze-lavoisier-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: marguerite-perey-triptico.pdf
+  url: marie-anne-paulze-lavoisier-triptico.pdf
 ---
