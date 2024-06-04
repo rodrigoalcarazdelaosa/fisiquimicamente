@@ -25,14 +25,14 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: fluidos-poster.pdf
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes
   url: fluidos-energia-calor-frikiexamenes.pdf
-  
+
 slides: fluidos-4ESO
 
 math: true
@@ -158,7 +158,7 @@ h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\math
 &= 90.8\thinspace\mathrm{m}
 \end{align*}
 
-Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente. 
+Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente.
 
 {{% /callout %}}
 
@@ -179,7 +179,7 @@ Echa un vistazo a [esta estupenda **entrada** del **blog**]({{< relref "post/hie
 {{% /callout %}}
 
 > Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado:
-\begin{align*}					
+\begin{align*}
 E &= P_\text{fluido desalojado} \\\\
 &= m_\text{fluido desalojado}\cdot g \\\\
 &= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\\\
@@ -189,13 +189,8 @@ E &= P_\text{fluido desalojado} \\\\
 {{< figure library="true" src="fluidos-4ESO/flotacion.svg" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="false" width="100%" >}}
 
 #### Flotación
-$$
-\begin{cases}
-	E<P_\text{cuerpo} & \text{se hunde} \\\\
-	E=P_\text{cuerpo} & \text{flota} \Rightarrow \dfrac{V_\text{sumergido}}{V_\text{cuerpo}} = \dfrac{d_\text{cuerpo}}{d_\text{fluido}} \\\\
-	E>P_\text{cuerpo} & \text{fuerza ascensional}
-\end{cases}
-$$
+
+{{< figure library="true" src="fluidos-4ESO/casos.svg" lightbox="false" width="100%" >}}
 
 El peso aparente de un objeto puede calcularse como:
 $$
@@ -226,10 +221,12 @@ $$
 
 Despejamos el $V_\text{sumergido}$:
 
-\begin{align*}
-V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{\cancel{kg}}}{1025\thinspace\mathrm{\cancel{kg}/m^3}} \\\\
- &= 4685.85\thinspace\mathrm{m^3}
-\end{align*}
+$$
+\begin{aligned}
+V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{\cancel{kg}}}{1025\thinspace\mathrm{\cancel{kg}/m^3}} \\
+&= 4685.85\thinspace\mathrm{m^3}
+\end{aligned}
+$$
 
 {{% /callout %}}
 
@@ -239,7 +236,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube o7v9Kbs6e8Y >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1mPRJVEBM1Fvsm_Q6m0xxHJ4By6MDpdzz/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1mPRJVEBM1Fvsm_Q6m0xxHJ4By6MDpdzz/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
 
 ## Física de la atmósfera
@@ -261,7 +258,7 @@ El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja
 {{< vimeo 110619312 >}}
 
 Aprende con este 🧵 hilo de Twitter cómo los [**sifones**](https://es.wikipedia.org/wiki/Sifón) hacen uso de la presión atmosférica para permitirnos rebasar un obstáculo que supera el nivel del fluido, ayudándonos a extraer un líquido de un recipiente no manipulable:
- 
+
 <div align="center">
 {{< tweet user="fqsaja1" id="1641449863400550408" >}}
 </div>
@@ -279,7 +276,7 @@ En este otro vídeo, también el [Departamento de Física y Química del IES Val
 
 {{< vimeo 67896094 >}}
 
-Finalmente, el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA0qIZsuzGl09cw) nos muestra cómo la presión atmosférica es capaz de aplastar distintos recipientes, además de un método alternativo que no requiere una bomba de vacío para eliminar el aire del interior de la esfera: 
+Finalmente, el gran [**Bruce Yeany**](https://www.youtube.com/channel/UCNk3CeLpCA0qIZsuzGl09cw) nos muestra cómo la presión atmosférica es capaz de aplastar distintos recipientes, además de un método alternativo que no requiere una bomba de vacío para eliminar el aire del interior de la esfera:
 
 {{< youtube lDUuB-Mdx0Q >}}
 

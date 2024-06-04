@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="-47 -108 210 210"
+   id="svg15"
+   sodipodi:docname="Cartesian_diver.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.1238095"
+     inkscape:cx="104.55508"
+     inkscape:cy="105"
+     inkscape:window-width="1376"
+     inkscape:window-height="449"
+     inkscape:window-x="1925"
+     inkscape:window-y="250"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg15" />
+  <title
+     id="title1">Cartesian diver</title>
+  <desc
+     id="desc1">Principle of operation of a Cartesian diver toy made from a drinking straw, paperclip and plastic bottle by CMG Lee. 1. The trapped air in the straw makes the diver slightly buoyant, and it thus floats. 2. Squeezing the bottle increases the water pressure; as the bubble shrinks, the diver's density increases and it sinks.</desc>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="grad_water">
+      <stop
+         offset="10%"
+         stop-color="#cceeff"
+         id="stop1" />
+      <stop
+         offset="80%"
+         stop-color="#99ccff"
+         id="stop2" />
+    </linearGradient>
+    <g
+       id="diver"
+       fill="none">
+      <path
+         d="M 1,0 v -40 a 1,1 0 0 0 -2,0 v 40 M -7,0 v -40 q 2,-3 2,-5 q 3,0 5,-2 q 2,2 5,2 q 0,2 2,5 v 40"
+         fill="#99ccff"
+         stroke="#ff0000"
+         id="path2" />
+      <path
+         d="M 3,5 v -15 a 3,3 0 0 0 -6,0 v 15 a 4,4 0 0 0 8,0 v -20 a 5,5 0 0 0 -10,0 v 20"
+         stroke="#000000"
+         id="path3" />
+    </g>
+    <g
+       id="common">
+      <path
+         id="half"
+         d="M 0,95 C 10,95 10,100 20,100 Q 40,100 40,0 C 40,-70 10,-70 10,-88 H 13 V -90 H 10 V -100 H -0.2"
+         stroke="#0000ff" />
+      <use
+         xlink:href="#half"
+         transform="scale(-1,1)"
+         id="use3" />
+      <rect
+         x="-12"
+         y="-105"
+         width="24"
+         height="12"
+         rx="3"
+         ry="3"
+         fill="#0000cc"
+         id="rect3" />
+    </g>
+    <path
+       id="arrow"
+       d="M -16,0 H 0 l -7,-4 l 7,4 l -7,4"
+       fill="none"
+       stroke-width="2" />
+    <g
+       id="arrows"
+       stroke="#ff0000">
+      <use
+         xlink:href="#arrow"
+         transform="translate(-40,  0)"
+         id="use4" />
+      <use
+         xlink:href="#arrow"
+         transform="translate(-40, 20)"
+         id="use5" />
+      <use
+         xlink:href="#arrow"
+         transform="translate(-40, 40)"
+         id="use6" />
+    </g>
+  </defs>
+  <g
+     font-family="Helvetica,Arial,sans-serif"
+     font-size="20"
+     text-anchor="middle"
+     fill="#000000"
+     stroke-linejoin="round"
+     id="g15">
+    <g
+       id="g9">
+      <text
+         x="-35"
+         y="-90"
+         id="text6">1.</text>
+      <use
+         xlink:href="#common"
+         fill="#cceeff"
+         id="use7" />
+      <g
+         transform="translate(0,-45)"
+         id="g8">
+        <use
+           xlink:href="#diver"
+           id="use8" />
+        <path
+           d="M 4,-25 V -40 a 4,4 0 0 0 -8,0 V -25"
+           fill="none"
+           stroke="#ffffff"
+           stroke-width="4"
+           id="path8" />
+      </g>
+    </g>
+    <g
+       transform="translate(105,0)"
+       id="g14">
+      <text
+         x="-40"
+         y="-90"
+         id="text9">2.</text>
+      <use
+         xlink:href="#arrows"
+         id="use9" />
+      <use
+         xlink:href="#arrows"
+         transform="scale( -1,1)"
+         id="use10" />
+      <use
+         xlink:href="#common"
+         fill="url(#grad_water)"
+         id="use11" />
+      <g
+         transform="translate(0,60)"
+         id="g13">
+        <use
+           xlink:href="#arrow"
+           transform="translate(0,30) rotate(90)"
+           stroke="#0000ff"
+           id="use12" />
+        <use
+           xlink:href="#diver"
+           id="use13" />
+        <path
+           d="M 4,-35 V -40 a 4,4 0 0 0 -8,0 V -35"
+           fill="none"
+           stroke="#ffffff"
+           stroke-width="4"
+           id="path13" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Cartesian diver</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

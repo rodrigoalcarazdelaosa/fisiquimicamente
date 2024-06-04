@@ -41,11 +41,13 @@ links:
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-gravitatoria/  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-gravitatoria/
 
 ---
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/gravity-force-lab/latest/gravity-force-lab_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
+
+<!-- https://phet.colorado.edu/es/simulations/keplers-laws -->
 
 <!-- <iframe src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_es.html" width="800" height="600" scrolling="no" allowfullscreen></iframe> -->
 

@@ -182,7 +182,7 @@ h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\math
 &= 90.8\thinspace\mathrm{m}
 \end{align*}
 
-Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente. 
+Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente.
 
 ---
 
@@ -194,7 +194,7 @@ La **paradoja hidrostática** consiste en que la presión que ejerce un fluido s
 
 ##### Vasos comunicantes
 
-En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se distribuye hasta alcanzar el mismo nivel. 
+En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se distribuye hasta alcanzar el mismo nivel.
 
 {{< figure library="true" src="fluidos-4ESO/vasos-comunicantes.svg" lightbox="false" width="100%" >}}
 
@@ -215,7 +215,7 @@ En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se dist
 
 ---
 
-\begin{align*}					
+\begin{align*}
 E &= P_\text{fluido desalojado} \\\\
 &= m_\text{fluido desalojado}\cdot g \\\\
 &= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\\\
@@ -229,13 +229,8 @@ E &= P_\text{fluido desalojado} \\\\
 ---
 
 #### Flotación
-$$
-\begin{cases}
-	E<P_\text{cuerpo} & \text{se hunde} \\\\
-	E=P_\text{cuerpo} & \text{flota} \Rightarrow \dfrac{V_\text{sumergido}}{V_\text{cuerpo}} = \dfrac{d_\text{cuerpo}}{d_\text{fluido}} \\\\
-	E>P_\text{cuerpo} & \text{fuerza ascensional}
-\end{cases}
-$$
+
+{{< figure library="true" src="fluidos-4ESO/casos.svg" lightbox="false" width="100%" >}}
 
 El peso aparente de un objeto puede calcularse como:
 $$
@@ -269,10 +264,12 @@ $$
 
 Despejamos el $V_\text{sumergido}$:
 
-\begin{align*}
-V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{kg}}{1025\thinspace\mathrm{kg/m^3}} \\\\
+$$
+\begin{aligned}
+V_\text{sumergido} = \frac{m_\text{barco}}{d_\text{fluido}} &= \frac{4.803\times 10^6\thinspace\mathrm{kg}}{1025\thinspace\mathrm{kg/m^3}} \\
  &= 4685.85\thinspace\mathrm{m^3}
-\end{align*}
+\end{aligned}
+$$
 
 ---
 
