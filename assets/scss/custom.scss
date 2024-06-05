@@ -750,6 +750,10 @@ mark,
 .dark .mark {
   background-color: $nord8;
   color: $nord0;
+  border-radius: 0.5em;
+  //  border: 1px solid $primary;
+  overflow-x: auto;
+  padding: 0.2em 0.4em;
 }
 
 .form-control:focus {

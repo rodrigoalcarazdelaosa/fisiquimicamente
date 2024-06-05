@@ -50,7 +50,7 @@ En esta entrada recorremos las **16 experiencias** seleccionadas, aportando en a
 
 {{% toc %}}
 
-## 1. Lengua española <code style='color: #2E3440;background:#88C0D0'>PRESIÓN</code>
+## 1. Lengua española {{< hl >}}PRESIÓN{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 20 >}}
 
@@ -67,7 +67,7 @@ lo que nos permite explicar el famoso refrán, pues efectivamente a mayor superf
 **Aprende más** sobre el concepto de **presión** con nuestros [**apuntes** de **fluidos** para **4.º ESO**]({{< relref "apuntes-cuarto-eso/fluidos" >}}).
 {{% /callout %}}
 
-## 2. Inglés <code style='color: #2E3440;background:#88C0D0'>DISPERSIÓN</code>
+## 2. Inglés {{< hl >}}DISPERSIÓN{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 134 >}}
 
@@ -77,7 +77,7 @@ En este capítulo se nos presenta la importante diferencia entre la [**dispersi�
 
 <iframe src="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-## 3. Filosofía <code style='color: #2E3440;background:#88C0D0'>HORROR VACUI</code>
+## 3. Filosofía {{< hl >}}HORROR VACUI{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 272 >}}
 
@@ -103,7 +103,7 @@ y en Ivoox:
 <iframe src="https://www.ivoox.com/player_es_podcast_905431_zp_1.html" width="100%" style="border: 1px solid #FFFFFF;" height="400" frameborder="0" allowfullscreen="0" scrolling="no" loading="lazy"></iframe>
 {{< /spoiler >}}
 
-## 4. Música <code style='color: #2E3440;background:#88C0D0'>TIMBRE</code>
+## 4. Música {{< hl >}}TIMBRE{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 485 >}}
 
@@ -113,7 +113,7 @@ Este capítulo detalla la importancia del [**timbre**](https://es.wikipedia.org/
 **Aprende más** sobre la **relación** entre la **música** y la **física** con [esta magnífica **entrada** de **blog**]({{< relref "post/musica-fisica" >}}) de la mano de **{{% mention manuel-alonso-orts %}}**.
 {{% /callout %}}
 
-## 5. Dibujo <code style='color: #2E3440;background:#88C0D0'>ELIPSES</code>
+## 5. Dibujo {{< hl >}}ELIPSES{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 616 >}}
 
@@ -129,7 +129,7 @@ Este capítulo trata sobre las [**secciones cónicas**](https://es.wikipedia.org
 
 <iframe src="https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-## 6. Educación Física <code style='color: #2E3440;background:#88C0D0'>EQUILIBRIO</code>
+## 6. Educación Física {{< hl >}}EQUILIBRIO{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 734 >}}
 
@@ -141,7 +141,7 @@ Capítulo dedicado al [**equilibrio**](https://es.wikipedia.org/wiki/Equilibrio_
 
 <iframe src="https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-## 7. Latín/griego <code style='color: #2E3440;background:#88C0D0'>BRAQUISTÓCRONA</code>
+## 7. Latín/griego {{< hl >}}BRAQUISTÓCRONA{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 905 >}}
 
@@ -198,7 +198,7 @@ Puede demostrarse que la curva braquistócrona se trata también de una [curva *
 
 {{< figure src="tautocrona.gif" title="Aquí, cuatro puntos en posiciones diferentes alcanzan el fondo al mismo tiempo. En el gráfico, *s* representa la longitud del arco, *t* representa el tiempo y las flechas azules representan la aceleración a lo largo de la trayectoria. A medida que los puntos alcanzan la horizontal, la velocidad se hace constante, siendo la longitud de arco lineal al tiempo. Adaptada de https://commons.wikimedia.org/wiki/File:Tautochrone_curve.gif." lightbox="false" width="100%" >}}
 
-## 8. Matemáticas <code style='color: #2E3440;background:#88C0D0'>TRIGONOMETRÍA</code>
+## 8. Matemáticas {{< hl >}}TRIGONOMETRÍA{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 1082 >}}
 
@@ -216,7 +216,7 @@ involucran [funciones trigonométricas](https://es.wikipedia.org/wiki/Función_t
 **Aprende más** sobre el **movimiento armónico simple (MAS)** con nuestros [**apuntes** para **2.º Bach**]({{< relref "apuntes-segundo-bach-fisica/mas" >}}).
 {{% /callout %}}
 
-## 9. Francés <code style='color: #2E3440;background:#88C0D0'>PASCAL</code>
+## 9. Francés {{< hl >}}PASCAL{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 1206 >}}
 
@@ -232,7 +232,7 @@ Además, con esta **simulación** puedes comprobar cómo la presión que ejerce 
 **Aprende más** sobre la **paradoja hidrostática** y el **principio** de **Pascal** con nuestros [**apuntes** de **fluidos** para **4.º ESO**]({{< relref "apuntes-cuarto-eso/fluidos" >}}).
 {{% /callout %}}
 
-## 10. Tecnología <code style='color: #2E3440;background:#88C0D0'>ÓPTICA</code>
+## 10. Tecnología {{< hl >}}ÓPTICA{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 1381 >}}
 
@@ -240,7 +240,7 @@ Aprende a explicar cómo se forma una **imagen** mediante una **lente** converge
 
 <iframe src="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-## 11. Orientación <code style='color: #2E3440;background:#88C0D0'>MAGNETISMO</code>
+## 11. Orientación {{< hl >}}MAGNETISMO{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 1495 >}}
 
@@ -248,7 +248,7 @@ Este capítulo nos recuerda la **experiencia** de **Ørsted**, que demostró que
 
 {{< figure library="true" src="fuerzas-2ESO/experimento-Oersted.png" title="Una corriente eléctrica desvía una aguja imantada. https://commons.wikimedia.org/wiki/File:Oersted_experiment.png." lightbox="true" >}}
 
-## 12. Economía <code style='color: #2E3440;background:#88C0D0'>ELECTRICIDAD</code>
+## 12. Economía {{< hl >}}ELECTRICIDAD{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 1632 >}}
 
@@ -262,7 +262,7 @@ Puedes aprender más *jugando* con esta **simulación**:
 
 Ambas experiencias (Ørsted y Faraday-Henry) pusieron de manifiesto la estrecha **relación** que existe entre los **fenómenos eléctricos** y **magnéticos**, dando origen al <span style="font-variant:small-caps;">**electromagnetismo**</span>.
 
-## 13. Geografía <code style='color: #2E3440;background:#88C0D0'>CAMBIO CLIMÁTICO</code>
+## 13. Geografía {{< hl >}}CAMBIO CLIMÁTICO{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 1779 >}}
 
@@ -272,7 +272,7 @@ Ambas experiencias (Ørsted y Faraday-Henry) pusieron de manifiesto la estrecha 
 **Aprende más** sobre el **principio** de **Arquímedes** con nuestros [**apuntes** de **fluidos** para **4.º ESO**]({{< relref "apuntes-cuarto-eso/fluidos/index.md#principio-de-arquímedes" >}}).
 {{% /callout %}}
 
-## 14. Física <code style='color: #2E3440;background:#88C0D0'>PÉNDULO DE NEWTON</code>
+## 14. Física {{< hl >}}PÉNDULO DE NEWTON{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 1939 >}}
 
@@ -286,7 +286,7 @@ Fue diseñado por el físico francés del siglo XVII [Edme Mariotte](https://es.
 
 <iframe src="https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-## 15. Química <code style='color: #2E3440;background:#88C0D0'>BUZO DE DESCARTES</code>
+## 15. Química {{< hl >}}BUZO DE DESCARTES{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 2131 >}}
 
@@ -298,7 +298,7 @@ Este capítulo nos presenta el conocido como [**buzo** de **Descartes**](https:/
 En [este **artículo**](https://personales.unican.es/lopezqm/IFE/elmenu/teoria/08IES(Cartesian).pdf), el profesor de la Universidad de Cantabria, **Julio Güémez**, presenta un modelo del buzo de Descartes basado en el principio de Arquímedes, el principio de Pascal y la ley de Boyle, poniendo en evidencia la profundidad de *no retorno* a partir de la cual el buzo es incapaz de volver a la superficie.
 {{% /callout %}}
 
-## 16. Biología <code style='color: #2E3440;background:#88C0D0'>ROBERT HOOKE</code>
+## 16. Biología {{< hl >}}ROBERT HOOKE{{< /hl >}}
 
 {{< youtube tLj-HV-XY8g 2302 >}}
 
