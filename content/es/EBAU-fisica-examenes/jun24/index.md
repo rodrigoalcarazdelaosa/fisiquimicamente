@@ -2,7 +2,7 @@
 title: Junio 2024
 url: "recursos-fisica-quimica/ebau/fisica/examenes-completos/junio-2024"
 subtitle: Examen completo
-summary: "Examen completo de EBAU Física."  # Add a page description.
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Examen completo de EBAU Física."  # Add a page description.
 breadcrumbs: ["recursos-fisica-quimica","ebau-fisica-examenes-completos"]
 authors:
 - enrique-ortega-gonzalez
