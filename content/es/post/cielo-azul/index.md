@@ -16,7 +16,7 @@ categories:
 - Física
 image:
   placement: 3
-  caption: "Foto de [ARTHUR YAO](https://unsplash.com/@fakearthur) en [Unsplash](https://unsplash.com)"  
+  caption: "Foto de [ARTHUR YAO](https://unsplash.com/@fakearthur) en [Unsplash](https://unsplash.com)"
 ---
 
 {{% callout thread %}}
@@ -66,7 +66,7 @@ El motivo es que nuestros ojos no son igual de sensibles a todas las frecuencias
 {{< figure src="conos-bastones.jpg" title="Conos (azules) y bastones (verdes) de la retina humana. Imagen de [falso color](https://es.wikipedia.org/wiki/Falso_color) al [microscopio SEM](https://es.wikipedia.org/wiki/Microscopio_electrónico_de_barrido). Fuente: https://infomedicos.tumblr.com/post/182274112326/conos-azules-y-bastones-verdes-de-la-retina." lightbox="true" >}}
 
 {{% callout note %}}
-Si quieres **saber más** sobre los **conos** y los **bastones**, y en general sobre el **ojo humano**, te recomiendo echar un vistazo a [esta estupenda página de Luis Monje](https://www.luismonje.com/curiosidades-del-ojo-humano-i/).
+Si quieres **saber más** sobre los **conos** y los **bastones**, y en general sobre el **ojo humano**, te recomiendo echar un vistazo a [esta estupenda **página** de **Luis Monje**](https://www.luismonje.com/curiosidades-del-ojo-humano-i/) o a [las fantásticas **animaciones** de **Animagraffs**](https://animagraffs.com/human-eye/).
 {{% /callout %}}
 
 Los millones de conos de nuestra retina se dividen en tres tipos, según el tipo de proteína fotosensible ([opsina](https://es.wikipedia.org/wiki/Opsina)) que capta la luz. Por su parte, hay una única clase de bastones, los cuales intervienen cuando hay poca luz.

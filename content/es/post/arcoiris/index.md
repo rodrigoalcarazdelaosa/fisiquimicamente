@@ -98,14 +98,16 @@ $$
 
 Para obtener el ángulo para el cual se forma el arcoíris, necesitamos calcular el llamado **ángulo de desviación mínima**, calculando el ángulo de incidencia para el cual la desviación producida es mínima (donde se concentra la mayor parte de los rayos desviados), que denotamos por *i&#770;*<sub>mín</sub>. No vamos a ahondar en este cálculo, pero os lo dejamos por si os interesa, se trata de ver en qué puntos la derivada se anula:
 
-\begin{align*}
+$$
+\begin{aligned}
 \frac{\partial \hat d_\mathrm t}{\partial \hat \imath} &= 0 \\\\
 2-\frac{4\cos\hat\imath}{n}\cdot \frac{1}{\sqrt{1-\left(\dfrac{\sin\hat\imath}{n}\right)^2}} &= 0 \\\\
 \frac{2n\cos\hat\imath}{n}\cdot\frac{1}{\sqrt{n^2-\sin^2\hat\imath}} &= 1 \\\\
 \cos\hat\imath &= \sqrt{\frac{n^2-\sin^2\hat\imath}{4}} \\\\
 \cos^2\hat\imath &= \frac{n^2-1+\cos^2\hat\imath}{4}\rightarrow 3\cos^2\hat\imath = n^2-1 \\\\
 \hat\imath_\mathrm{mín} &= \arccos{\sqrt{\frac{n^2-1}{3}}}
-\end{align*}
+\end{aligned}
+$$
 
 Una vez conocemos el ángulo de incidencia que hace que la desviación sea mínima, para conocer a qué ángulo ve el arcoíris un observador terrestre, tenemos que tomar el [ángulo suplementario](https://es.wikipedia.org/wiki/Ángulos_suplementarios) de la desviación mínima $\hat d_\mathrm t$. A su vez, el índice de refracción del agua depende de la longitud de onda de la luz incidente a través de la expresión[^3] (asumiendo una temperatura de 20&thinsp;&deg;C):
 
@@ -129,6 +131,6 @@ $$
 n_\mathrm{agua} = 1.333 \rightarrow \hat\imath_\mathrm{mín} = 59^\circ\thinspace 24'\thinspace 38'';\quad \hat d_\mathrm t = 137^\circ\thinspace 55'\thinspace 19'';\quad \text{ángulo}_\text{arcoíris} = 42^\circ\thinspace 4'\thinspace 41''
 $$
 
-Por último, os dejamos este magnífico **vídeo** de un **aspersor** de agua **pintando** el **arcoíris**, grabado por el profesor [**Pedro J. Valle**](https://web.unican.es/portal-investigador/personal-investigador/detalle-investigador?i=27271A6F6E551FBB) de la Universidad de Cantabria, en uno de los campos de hockey del [Complejo Municipal de Deportes Ruth Beitia](https://www.santanderdeportes.com/static.php?c=8) de Santander: 
+Por último, os dejamos este magnífico **vídeo** de un **aspersor** de agua **pintando** el **arcoíris**, grabado por el profesor [**Pedro J. Valle**](https://web.unican.es/portal-investigador/personal-investigador/detalle-investigador?i=27271A6F6E551FBB) de la Universidad de Cantabria, en uno de los campos de hockey del [Complejo Municipal de Deportes Ruth Beitia](https://www.santanderdeportes.com/static.php?c=8) de Santander:
 
 {{< youtube p3FxtrudN6M >}}
