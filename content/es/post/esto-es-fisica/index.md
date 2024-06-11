@@ -75,7 +75,7 @@ En este capítulo se nos presenta la importante diferencia entre la [**dispersi�
 
 **Aprende más** sobre la **reflexión** y la **refracción** de la **luz** con esta excelente **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## 3. Filosofía {{< hl >}}HORROR VACUI{{< /hl >}}
 
@@ -96,11 +96,11 @@ El propio **Departamento de Física y Química del IES Valle del Saja**, junto c
 
 Disponible en Spotify:
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2lXf93QkCbsEcF6oBdPyLU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe loading=lazy style="border-radius:12px" src="https://open.spotify.com/embed/show/2lXf93QkCbsEcF6oBdPyLU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 y en Ivoox:
 
-<iframe src="https://www.ivoox.com/player_es_podcast_905431_zp_1.html" width="100%" style="border: 1px solid #FFFFFF;" height="400" frameborder="0" allowfullscreen="0" scrolling="no" loading="lazy"></iframe>
+<iframe loading=lazy src="https://www.ivoox.com/player_es_podcast_905431_zp_1.html" width="100%" style="border: 1px solid #FFFFFF;" height="400" frameborder="0" allowfullscreen="0" scrolling="no" loading="lazy"></iframe>
 {{< /spoiler >}}
 
 ## 4. Música {{< hl >}}TIMBRE{{< /hl >}}
@@ -123,11 +123,11 @@ Este capítulo trata sobre las [**secciones cónicas**](https://es.wikipedia.org
 
 **Aprende más** sobre **gravedad** y **órbitas**, el **Sistema Solar** o las **leyes** de **Kepler** con las siguientes **simulaciones** de **PhET Colorado**:
 
-<iframe src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-<iframe src="https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-<iframe src="https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## 6. Educación Física {{< hl >}}EQUILIBRIO{{< /hl >}}
 
@@ -139,7 +139,7 @@ Capítulo dedicado al [**equilibrio**](https://es.wikipedia.org/wiki/Equilibrio_
 
 **Aprende más** sobre la **ley** del **equilibrio** con esta excelente **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/balancing-act/latest/balancing-act_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## 7. Latín/griego {{< hl >}}BRAQUISTÓCRONA{{< /hl >}}
 
@@ -204,11 +204,11 @@ Puede demostrarse que la curva braquistócrona se trata también de una [curva *
 
 En este capítulo se nos muestra cómo distintos fenómenos cotidianos, como las **oscilaciones** de un [**péndulo**](https://es.wikipedia.org/wiki/Péndulo):
 
-<iframe src="https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 o las [**vibraciones** de una **cuerda**](https://es.wikipedia.org/wiki/Cuerda_vibrante) atada por los dos extremos:
 
-<iframe src="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 involucran [funciones trigonométricas](https://es.wikipedia.org/wiki/Función_trigonométrica), haciendo hincapié en la [función **seno**](https://es.wikipedia.org/wiki/Seno_(trigonometría)).
 
@@ -226,7 +226,7 @@ En este **cortometraje-documental** del propio [Departamento de Física y Quími
 
 Además, con esta **simulación** puedes comprobar cómo la presión que ejerce un fluido depende únicamente de la profundidad a la que nos encontremos, algo que se conoce como la **paradoja hidrostática**:
 
-<iframe src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/under-pressure/latest/under-pressure_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% callout note %}}
 **Aprende más** sobre la **paradoja hidrostática** y el **principio** de **Pascal** con nuestros [**apuntes** de **fluidos** para **4.º ESO**]({{< relref "apuntes-cuarto-eso/fluidos" >}}).
@@ -238,7 +238,7 @@ Además, con esta **simulación** puedes comprobar cómo la presión que ejerce 
 
 Aprende a explicar cómo se forma una **imagen** mediante una **lente** convergente/divergente o un **espejo** utilizando **diagramas** de **rayos**, gracias a esta excelente **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## 11. Orientación {{< hl >}}MAGNETISMO{{< /hl >}}
 
@@ -258,7 +258,7 @@ En este caso se nos presenta la **experiencia** de **Faraday-Henry**, que demost
 
 Puedes aprender más *jugando* con esta **simulación**:
 
-<iframe src="https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 Ambas experiencias (Ørsted y Faraday-Henry) pusieron de manifiesto la estrecha **relación** que existe entre los **fenómenos eléctricos** y **magnéticos**, dando origen al <span style="font-variant:small-caps;">**electromagnetismo**</span>.
 
@@ -284,7 +284,7 @@ Fue diseñado por el físico francés del siglo XVII [Edme Mariotte](https://es.
 
 **Aprende más** sobre **colisiones** con este excelente **laboratorio virtual**:
 
-<iframe src="https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/collision-lab/latest/collision-lab_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## 15. Química {{< hl >}}BUZO DE DESCARTES{{< /hl >}}
 
@@ -314,6 +314,6 @@ donde $k$ es la llamada **constante de elasticidad** del muelle. Como se puede v
 
 Puedes aprender más sobre **masas**, **resortes** y la **ley** de **Hooke** con las siguientes **simulaciones**:
 
-<iframe src="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/masses-and-springs-basics/latest/masses-and-springs-basics_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-<iframe src="https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe loading=lazy src="https://phet.colorado.edu/sims/html/hookes-law/latest/hookes-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
