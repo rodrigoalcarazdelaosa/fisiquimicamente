@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode | default "es" }}">
 <head>
-  
+
   {{/* Asset versions */}}
-  {{ $cdn_url_reveal := "https://cdn.jsdelivr.net/npm/reveal.js@5.0.4" }}
+  {{ $cdn_url_reveal := "https://cdn.jsdelivr.net/npm/reveal.js@5.1.0" }}
   {{ $mermaid_version := "9.1.3" }}
-  {{ $mermaid_sri := "sha256-TIYL00Rhw/8WaoUhYTLX9SKIEFdXxg+yMWSLVUbhiLg=" }}  
+  {{ $mermaid_sri := "sha256-TIYL00Rhw/8WaoUhYTLX9SKIEFdXxg+yMWSLVUbhiLg=" }}
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,7 +15,7 @@
   {{ with site.Home.OutputFormats.Get "WebAppManifest" }}
      <link rel="manifest" href="{{ .RelPermalink }}">
   {{ end }}
-  
+
   <link rel="icon" type="image/png" href="{{(partial "blox-core/functions/get_icon" 32).RelPermalink}}">
   <link rel="apple-touch-icon" type="image/png" href="{{(partial "blox-core/functions/get_icon" 192).RelPermalink}}">
 
@@ -47,7 +47,7 @@
    {{ end }}
 
   <meta name="format-detection" content="telephone=no">
-	
+
   <link href="https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
 
   {{ if .Params.threedmol }}
