@@ -130,6 +130,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Esto es física"
-      url: 'blog/2024/06/03/esto-es-fisica/'
+      text: "Esto es Física"
+      url: 'blog/2024/06/13/esto-es-fisica/'
 ---

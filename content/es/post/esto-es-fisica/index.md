@@ -3,7 +3,7 @@ title: Esto es Física
 subtitle: Proyecto de divulgación de la Física realizado desde todos los departamentos didácticos del IES Valle del Saja
 summary: Proyecto de divulgación de la Física realizado desde todos los departamentos didácticos del IES Valle del Saja.
 breadcrumbs: ["blog"]
-date: "2024-06-03T00:00:00Z"
+date: "2024-06-13T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -145,9 +145,7 @@ Capítulo dedicado al [**equilibrio**](https://es.wikipedia.org/wiki/Equilibrio_
 
 {{< youtube tLj-HV-XY8g 905 >}}
 
-Este capítulo nos presenta el famoso problema de encontrar la curva que minimiza el tiempo de caída de un objeto entre dos puntos no alineados, bajo la única influencia de la gravedad (sin rozamiento). Esta curva recibe el nombre de [**braquistócrona**](https://es.wikipedia.org/wiki/Curva_braquistócrona).
-
-El problema de la braquistócrona fue uno de los primeros problemas planteados en el [**cálculo** de **variaciones**](https://es.wikipedia.org/wiki/Cálculo_de_variaciones), siendo **resuelto** por [**Newton**](https://es.wikipedia.org/wiki/Isaac_Newton) en **1697**.
+Este capítulo nos presenta el famoso problema de encontrar la curva que minimiza el tiempo de caída de un objeto entre dos puntos no alineados, bajo la única influencia de la gravedad (sin rozamiento). Esta curva recibe el nombre de [**braquistócrona**](https://es.wikipedia.org/wiki/Curva_braquistócrona), que fue uno de los primeros problemas planteados en el [**cálculo** de **variaciones**](https://es.wikipedia.org/wiki/Cálculo_de_variaciones), siendo **resuelto** por [**Newton**](https://es.wikipedia.org/wiki/Isaac_Newton) en **1697**.
 
 El tiempo que se tarda en viajar de un punto $P_1$ a otro $P_2$ viene dado por la integral:
 
@@ -196,7 +194,7 @@ que resultan ser las ecuaciones de una [**cicloide**](https://es.wikipedia.org/w
 
 Puede demostrarse que la curva braquistócrona se trata también de una [curva **tautócrona** o **isócrona**](https://es.wikipedia.org/wiki/Tautócrona), lo que significa que el tiempo que tarda el objeto en llegar hasta su punto más bajo es independiente de su punto de partida:
 
-{{< figure src="tautocrona.gif" title="Aquí, cuatro puntos en posiciones diferentes alcanzan el fondo al mismo tiempo. En el gráfico, *s* representa la longitud del arco, *t* representa el tiempo y las flechas azules representan la aceleración a lo largo de la trayectoria. A medida que los puntos alcanzan la horizontal, la velocidad se hace constante, siendo la longitud de arco lineal al tiempo. Adaptada de https://commons.wikimedia.org/wiki/File:Tautochrone_curve.gif." lightbox="false" width="100%" >}}
+{{< figure src="tautocrona.gif" title="Aquí, cuatro puntos en posiciones diferentes alcanzan el fondo al mismo tiempo. En el gráfico, *s* representa la longitud del arco, *t* representa el tiempo y las flechas azules representan la aceleración a lo largo de la trayectoria. A medida que los puntos alcanzan la horizontal, la velocidad se hace constante, siendo la longitud de arco lineal al tiempo. Código fuente (Python) para generar la animación [aquí](tautocrona.py), adaptado de https://commons.wikimedia.org/wiki/File:Tautochrone_curve.gif." lightbox="false" width="100%" >}}
 
 ## 8. Matemáticas {{< hl >}}TRIGONOMETRÍA{{< /hl >}}
 
@@ -280,7 +278,7 @@ Este capítulo explora el conocido como [**péndulo** o cuna de **Newton**](http
 
 {{< figure src="cuna-newton.svg" title="https://iconspng.com/image/98970/newtons-cradle" lightbox="false" width="100%" >}}
 
-Fue diseñado por el físico francés del siglo XVII [Edme Mariotte](https://es.wikipedia.org/wiki/Edme_Mariotte), y en sus [*Principia*](https://es.wikipedia.org/wiki/Philosophiæ_naturalis_principia_mathematica), el propio Isaac Newton menciona los experimentos realizados por el físico francés.
+Fue diseñado por el físico francés del siglo XVII [Edme Mariotte](https://es.wikipedia.org/wiki/Edme_Mariotte) y, en sus [*Principia*](https://es.wikipedia.org/wiki/Philosophiæ_naturalis_principia_mathematica), el propio Isaac Newton menciona los experimentos realizados por el físico francés.
 
 **Aprende más** sobre **colisiones** con este excelente **laboratorio virtual**:
 
