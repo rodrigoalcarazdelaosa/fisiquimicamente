@@ -26,7 +26,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: equilibrio-quimico-poster.pdf
 - icon_pack: fas
@@ -44,7 +44,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/equilibrio-quimico/  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/equilibrio-quimico/
 
 slides: equilibrio-quimico-2Bach-quimica
 
@@ -143,6 +143,10 @@ $$
 donde $\Delta n = n_\text{final} - n_\text{inicial}$ es la <strong>variación</strong> de <strong>moles gaseosos</strong>.
 
 {{< figure src="equilibrio-quimico-2Bach-quimica/equilibrio-quimico.svg" title="https://www.chegg.com/learn/chemistry/introduction-to-chemistry/chemical-equilibrium" lightbox="false" width="100%" >}}
+
+{{% callout note %}}
+**¿Tiene(n) unidades la(s) constante(s) de equilibrio?** Averígualo en [este excelente **artículo** de **Ana Quílez-Díaz** y **Juan Quílez-Pardo**](https://analesdequimica.es/index.php/AnalesQuimica/article/view/80/79).
+{{% /callout %}}
 
 ## Factores que afectan al estado de equilibrio
 
@@ -290,7 +294,7 @@ La **solubilidad** suele **aumentar** con la temperatura.
 {{% callout example %}}
 <br>
 
-> El SO<sub>3</sub>(g) se disocia a 127&thinsp;&deg;C mediante un proceso endotérmico, en SO<sub>2</sub>(g) y O<sub>2</sub>(g), estableciéndose un equilibrio. En un recipiente de 20 L a 127&thinsp;&deg;C se introducen 4.0 mol de SO<sub>3</sub> produciéndose una disociación del 30 \%.<br>  
+> El SO<sub>3</sub>(g) se disocia a 127&thinsp;&deg;C mediante un proceso endotérmico, en SO<sub>2</sub>(g) y O<sub>2</sub>(g), estableciéndose un equilibrio. En un recipiente de 20 L a 127&thinsp;&deg;C se introducen 4.0 mol de SO<sub>3</sub> produciéndose una disociación del 30 \%.<br>
   a) Calcule las concentraciones molares de cada gas en el equilibrio.<br>
   b) Calcule la presión total y parcial de cada gas.<br>
   c) Calcule el valor de las constantes $K_\mathrm c$ y $K_\mathrm p$ a 127&thinsp;&deg;C.<br>

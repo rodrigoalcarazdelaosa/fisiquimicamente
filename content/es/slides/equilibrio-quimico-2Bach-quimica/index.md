@@ -46,7 +46,7 @@ En 1803, [Berthollet](https://es.wikipedia.org/wiki/Claude_Louis_Berthollet) des
 
 ## Ley de acción de masas
 
-También conocida como **ley de Guldberg y Waage**, establece que la velocidad de una reacción es directamente proporcional al producto de las concentraciones de los reactivos. 
+También conocida como **ley de Guldberg y Waage**, establece que la velocidad de una reacción es directamente proporcional al producto de las concentraciones de los reactivos.
 
 (continúa hacia abajo)
 
@@ -152,7 +152,7 @@ $$
 $$
 Suele expresarse en tanto por ciento (\%).
 
----    
+---
 
 Electrolitos, ácidos y bases fuertes
 : $\alpha \approx 1$
@@ -193,6 +193,10 @@ donde $\Delta n = n_\text{final} - n_\text{inicial}$ es la <strong>variación</s
 ---
 
 {{< figure src="equilibrio-quimico-2Bach-quimica/equilibrio-quimico.svg" title="https://www.chegg.com/learn/chemistry/introduction-to-chemistry/chemical-equilibrium" lightbox="false" width="100%" >}}
+
+---
+
+> **¿Tiene(n) unidades la(s) constante(s) de equilibrio?** Averígualo en [este excelente **artículo** de **Ana Quílez-Díaz** y **Juan Quílez-Pardo**](https://analesdequimica.es/index.php/AnalesQuimica/article/view/80/79).
 
 {{% /section %}}
 
