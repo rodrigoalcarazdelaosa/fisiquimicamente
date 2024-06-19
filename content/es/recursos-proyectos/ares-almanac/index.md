@@ -5,12 +5,12 @@ summary: "Mantente al día con las **últimas herramientas** de **IA** gracias a
 tags:
 - IA
 categories:
-weight: 50
+weight: 60
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

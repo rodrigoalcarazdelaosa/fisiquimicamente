@@ -5,12 +5,12 @@ summary: "Propuesta de 12 estrategias prácticas para un uso efectivo de la IA c
 tags:
 - IA
 categories:
-weight: 40
+weight: 50
 
 image:
   preview_only: true
 
-_build:  
+_build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

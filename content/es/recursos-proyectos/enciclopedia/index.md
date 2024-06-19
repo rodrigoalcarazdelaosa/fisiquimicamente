@@ -5,7 +5,7 @@ summary: "Descubre **La Encicloped.IA**, una colección de recursos sobre IA en 
 tags:
 - IA
 categories:
-weight: 60
+weight: 70
 
 image:
   preview_only: true
