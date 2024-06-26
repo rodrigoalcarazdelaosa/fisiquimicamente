@@ -104,8 +104,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: País Vasco 2021 Ejercicio K1
-      url: 'recursos-fisica-quimica/formacion-profesorado/oposiciones/quimica/pais-vasco-2021-k1/'
+      text: Castilla y León 2024 Ejercicio E1
+      url: 'recursos-fisica-quimica/formacion-profesorado/oposiciones/quimica/castilla-leon-2024-e1/'
   - title: 🗞️ Novedades
     content: '🤝 Último tutorial'
     align: center
