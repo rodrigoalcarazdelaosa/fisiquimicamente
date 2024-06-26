@@ -105,7 +105,7 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: Castilla y León 2024 Ejercicio E1
-      url: 'recursos-fisica-quimica/formacion-profesorado/oposiciones/quimica/castilla-leon-2024-e1/'
+      url: 'recursos-fisica-quimica/formacion-profesorado/oposiciones/quimica/castilla-leon-2024-E1/'
   - title: 🗞️ Novedades
     content: '🤝 Último tutorial'
     align: center
