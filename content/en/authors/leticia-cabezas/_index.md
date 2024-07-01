@@ -36,10 +36,10 @@ education:
     year: 2014
   - course: Certificate of Pedagogical Aptitude (CAP)
     institution: University of Extremadura
-    year: 2009  
+    year: 2009
   - course: Degree in Chemical Engineering
     institution: University of Castilla-La Mancha
-    year: 2007  
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +69,4 @@ user_groups:
 - 📚 Notes
 ---
 
-I have a teenage soul and I think that's why I love my job as a high school Physics and Chemistry teacher and I enjoy so much with the kids in class. And it is clear to me that storytelling and games are engaging and motivating and that we teachers can take advantage of that in the classroom. I currently belong to the teaching staff of the [Postgraduate Specialist in Gamification and Gamified Learning of the Maecenas Foundation](https://www.posgradosmaecenas.com/gamificacion).
+I have a teenage soul and I think that's why I love my job as a high school Physics and Chemistry teacher and I enjoy so much with the kids in class. And it is clear to me that storytelling and games are engaging and motivating and that we teachers can take advantage of that in the classroom. I currently belong to the teaching staff of the [Postgraduate Specialist in Gamification and Gamified Learning of the Maecenas Foundation](https://www.fundacionmaecenas.com/gamificacion).

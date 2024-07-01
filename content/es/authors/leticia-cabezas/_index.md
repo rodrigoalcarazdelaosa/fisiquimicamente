@@ -36,10 +36,10 @@ education:
     year: 2014
   - course: Certificado de Aptitud Pedagógica (CAP)
     institution: Universidad de Extremadura
-    year: 2009  
+    year: 2009
   - course: Licenciada en Ingeniería Química
     institution: Universidad de Castilla-La Mancha
-    year: 2007  
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +69,4 @@ user_groups:
 - 📚 Apuntes
 ---
 
-Tengo alma adolescente y creo que por eso me encanta mi trabajo como profesora de Física y Química en ESO y Bachillerato y disfruto tanto con los chavales en clase. Y tengo claro que la narrativa y los juegos enganchan y motivan y que los docentes podemos aprovechar ese tirón en clase. En la actualidad pertenezco al claustro docente del [Posgrado Especialista en Gamificación y Aprendizajes Lúdicos de la Fundación Maecenas](https://www.posgradosmaecenas.com/gamificacion).
+Tengo alma adolescente y creo que por eso me encanta mi trabajo como profesora de Física y Química en ESO y Bachillerato y disfruto tanto con los chavales en clase. Y tengo claro que la narrativa y los juegos enganchan y motivan y que los docentes podemos aprovechar ese tirón en clase. En la actualidad pertenezco al claustro docente del [Posgrado Especialista en Gamificación y Aprendizajes Lúdicos de la Fundación Maecenas](https://www.fundacionmaecenas.com/gamificacion).

@@ -36,10 +36,10 @@ education:
     year: 2014
   - course: Certificat d'Aptitud Pedagògica (CAP)
     institution: Universidad de Extremadura
-    year: 2009  
+    year: 2009
   - course: Llicenciada en Enginyeria Química
     institution: Universidad de Castilla-La Mancha
-    year: 2007  
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,4 +69,4 @@ user_groups:
 - 📚 Apunts
 ---
 
-Tinc ànima d'adolescent i crec que per això m'encanta la meva feina com a professora de Física i Química a ESO i Batxillerat i gaudeixo tant amb els xavals a classe. I tinc clar que la narrativa i els jocs enganxen i motiven i que els docents podem aprofitar aquesta tirada a classe. Actualment pertanyo al claustre docent del [Postgrau Especialista en Gamificació i Aprenentatges Lúdics de la Fundació Maecenas](https://www.posgradosmaecenas.com/gamificacion).
+Tinc ànima d'adolescent i crec que per això m'encanta la meva feina com a professora de Física i Química a ESO i Batxillerat i gaudeixo tant amb els xavals a classe. I tinc clar que la narrativa i els jocs enganxen i motiven i que els docents podem aprofitar aquesta tirada a classe. Actualment pertanyo al claustre docent del [Postgrau Especialista en Gamificació i Aprenentatges Lúdics de la Fundació Maecenas](https://www.fundacionmaecenas.com/gamificacion).
