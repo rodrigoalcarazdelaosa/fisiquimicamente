@@ -96,7 +96,7 @@ También llamada **aceleración normal**, es una aceleración que surge del camb
 $$
 a_\mathrm c = \frac{v^2}{R} = \omega^2 R
 $$
-		
+
 y siempre se dirige hacia el centro de la circunferencia.
 
 {{% /section %}}
@@ -120,7 +120,7 @@ y siempre se dirige hacia el centro de la circunferencia.
 ### Componentes intrínsecas de la aceleración
 La aceleración puede descomponerse en sus **componentes intrínsecas**, una normal (centrípeta) y otra tangencial, debida a la variación del módulo de la velocidad:
 $$
-\vec a = \vec a_n + \vec a_t \rightarrow a = \sqrt{a_\mathrm n^2 + a_\mathrm t^2},
+\vec a = \vec a_\mathrm n + \vec a_\mathrm t \rightarrow a = \sqrt{a_\mathrm n^2 + a_\mathrm t^2},
 $$
 
 ---
@@ -140,19 +140,19 @@ donde $v$ representa el módulo de la velocidad instantánea y $r$ es el radio d
 
 La aceleración tangencial se relaciona con la aceleración angular, $\alpha$, a través de la expresión:
 $$
-a_\mathrm t = \alpha R	
+a_\mathrm t = \alpha R
 $$
 
 ---
 
 ### Características
 Las **características** del **movimiento circular uniformemente acelerado (MCUA)** son:
-  
+
 - Trayectoria circular.
 - Aceleración tangencial, $a_\mathrm t$, constante (velocidad angular $\omega$ variable).
 
 ---
-				
+
 ### Ecuaciones principales
 La **ecuaciones principales** del MCUA son:
 \begin{align*}
@@ -191,7 +191,7 @@ La **fuerza centrípeta** (que busca el centro) es una fuerza que hace que un cu
 
 Su dirección es siempre perpendicular al movimiento del cuerpo y hacia el centro de curvatura de la trayectoria.
 $$
-F_\mathrm c = ma_\mathrm c = \frac{mv^2}{r}	
+F_\mathrm c = ma_\mathrm c = \frac{mv^2}{r}
 $$
 
 ---
@@ -208,17 +208,17 @@ Un **péndulo cónico** está formado por una masa $m$ suspendida de un hilo de 
 
 - La componente horizontal de la tensión actúa como fuerza centrípeta:
   $$
-	T\sin\theta = \frac{mv^2}{r}	
+	T\sin\theta = \frac{mv^2}{r}
   $$
 
 ---
 
 - La componente vertical de la tensión se compensa con el peso:
   $$
-  T\cos\theta = mg	
+  T\cos\theta = mg
   $$
 
----  
+---
 
 - Resolviendo el sistema y despejando la velocidad:
   $$
@@ -241,7 +241,7 @@ Un **péndulo cónico** está formado por una masa $m$ suspendida de un hilo de 
 #### Sin peralte
 La única fuerza que mantiene al vehículo girando en su trayectoria es el **rozamiento**, que ha de ser suficientemente grande como para proporcionar la **fuerza centrípeta** necesaria:
 $$
-\mu m g > \frac{mv^2}{r} \Rightarrow v < \sqrt{\mu r g}	
+\mu m g > \frac{mv^2}{r} \Rightarrow v < \sqrt{\mu r g}
 $$
 
 ---
@@ -257,14 +257,14 @@ Los bordes inclinados añaden una fuerza adicional (la normal) que mantiene el v
 
 - La componente horizontal de la fuerza normal actúa como fuerza centrípeta:
   $$
-  N\sin\theta = \frac{mv^2}{r}	
+  N\sin\theta = \frac{mv^2}{r}
   $$
 
 ---
 
 - La componente vertical de la normal se compensa con el peso:
   $$
-  N\cos\theta = mg	
+  N\cos\theta = mg
   $$
 
 ---
