@@ -2,7 +2,7 @@
 title: Radiactividad
 url: "/recursos-fisica-quimica/apuntes/3eso/radiactividad"
 subtitle: Breve historia, tipos de desintegraciones y reacciones nucleares
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Breve historia, tipos de desintegraciones y reacciones nucleares."
+summary: "Breve historia, tipos de desintegraciones y reacciones nucleares."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","3eso"]
 authors:
 - jesica-sanchez-mazon
@@ -30,14 +30,14 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: radiactividad-poster.pdf
 - icon_pack: fas
-  icon: 
+  icon:
   name: 🔗 Unidad didáctica CSN
   url: https://www.csn.es/documents/10182/914813/OFC-04-06%20Radiación%20y%20protección%20radiológica%20%28Guía%20didáctica%20para%20Educación%20Secundaria%29
-  
+
 slides: radiactividad-3ESO
 
 math: true
@@ -96,7 +96,7 @@ Es **más penetrante** que las partículas $\alpha$: una lámina de aluminio o u
 ### Naturaleza
 
 Se trata de **energía** (ondas electromagnéticas).
-		
+
 ### Masa y carga
 
 No tiene **ni masa ni carga**.

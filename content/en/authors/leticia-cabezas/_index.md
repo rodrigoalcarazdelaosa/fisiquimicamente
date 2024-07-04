@@ -3,7 +3,7 @@
 title: "Leticia Cabezas"
 url: "/team/leticia-cabezas"
 
-weight: 140
+weight: 70
 
 # Username (this should match the folder name)
 authors:

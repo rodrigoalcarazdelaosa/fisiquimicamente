@@ -1,0 +1,6 @@
+<figure>
+    {{ readFile (print (index .Params 0)) | safeHTML }}
+    <figcaption>
+        {{ index .Params 1 | markdownify | emojify }}
+    </figcaption>
+</figure>

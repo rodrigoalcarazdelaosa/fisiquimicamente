@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Radiactividad | 3.º ESO
-      url: 'recursos-fisica-quimica/apuntes/3eso/radiactividad/'
+      text: Interacción gravitatoria | Física 2.º Bach
+      url: 'recursos-fisica-quimica/apuntes/2bach/fisica/interaccion-gravitatoria/'
   - title: 🗞️ Novedades
     content: '🗒️ Última actividad'
     align: center
