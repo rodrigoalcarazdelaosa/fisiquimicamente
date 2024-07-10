@@ -9,14 +9,14 @@
 </div>
 {{ end }}
 
-<section id="profile-page" class="home-section">  
+<section id="profile-page" class="home-section">
   <div class="container">
 
     {{/* Breadcrumbs. */}}
 
     <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
-        {{ if eq .Site.Language.Lang "es" }}      
+        {{ if eq .Site.Language.Lang "es" }}
 	    	  <li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
             document.addEventListener('wcThemeChange', (e) => {
               // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
@@ -57,7 +57,7 @@
         {{ else if eq .Site.Language.Lang "ca" }}
           <li class="breadcrumb-item"><a href="/equip">👥 Equip</a></li>
         {{ end }}
-	        <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>			
+	        <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
 	    </ol>
 		</nav>
 
@@ -71,9 +71,6 @@
     {{end}}
 
     {{ $query := where .Pages ".IsNode" false }}
-    {{ range .Translations }}
-      {{ $query = $query | lang.Merge .Pages }}
-    {{ end }}
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
@@ -91,7 +88,7 @@
         {{ else if eq $sec "prac" }}
         <a href="{{ .Permalink }}">🧪 {{ .Title }}</a>
         {{ else if eq $sec "biog" }}
-        <a href="{{ .Permalink }}">📖 {{ .Title }}</a>                                        
+        <a href="{{ .Permalink }}">📖 {{ .Title }}</a>
         {{ else if eq $sec "EBAU" }}
         <a href="{{ .Permalink }}">🎓 {{ .Title }}</a>
         {{ else if eq $sec "opos" }}
@@ -106,7 +103,7 @@
         <a href="{{ .Permalink }}">✍️ {{ .Title }}</a>
         {{ else }}
         <a href="{{ .Permalink }}">{{ .Title }}</a>
-        {{ end }}          
+        {{ end }}
           <p class="search-hit-description">
             {{ .Summary | plainify | emojify }}
           </p>
