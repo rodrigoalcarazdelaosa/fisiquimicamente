@@ -57,7 +57,7 @@ Una de las cosas que más ha intrigado a la humanidad desde los comienzos de la 
 {{< spoiler text="Pincha aquí para saber más sobre el **movimiento aparente**" >}}
 Aparentemente, todos los objetos celestes giran en torno a la [estrella polar](https://es.wikipedia.org/wiki/Estrella_polar) a lo largo de la noche.
 
-VÍDEO
+{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/movimiento-aparente.jpg" title="https://depositphotos.com/photo/bright-traces-stars-revolving-polar-star-form-circular-tracks-glow-201868948.html" >}}
 
 Si observáis alguna estrella que no titila, se trata de un [planeta](https://es.wikipedia.org/wiki/Planeta), del griego πλανήτης (errante). Los que más brillan son [Venus](<https://es.wikipedia.org/wiki/Venus_(planeta)>) y [Júpiter](<https://es.wikipedia.org/wiki/Júpiter_(planeta)>) (con prismáticos pueden verse incluso 4 de sus [lunas](https://es.wikipedia.org/wiki/Satélites_de_Júpiter)). Se ven mejor al amanecer o al atardecer, de ahí el nombre [_lucero del alba_](https://es.wikipedia.org/wiki/Lucero_del_alba) o _estrella de la mañana_ para Venus. Los planetas que se observan se sitúan sobre una misma línea, conocida como la [eclíptica](https://es.wikipedia.org/wiki/Eclíptica), y las constelaciones que pasan por la eclíptica son las del [zodiaco](https://es.wikipedia.org/wiki/Zodiaco).
 {{< /spoiler >}}
@@ -87,7 +87,7 @@ No se suele mencionar pero fue el [**primer modelo heliocéntrico**](https://es.
 
 - [**Paralaje**](https://es.wikipedia.org/wiki/Paralaje) de las **estrellas fijas**: deberían verse en diferente posición dependiendo de la época del año. Aristarco lo justificó de forma esencialmente correcta: dado que la distancia a las estrellas es mucho mayor que el diámetro de la órbita terrestre, no se aprecia paralaje.
 
-- **Implicaciones mecánicas** del movimiento de **rotación terrestre**. Si arrojamos una piedra desde una torre, no debería caer en su base, sino a cierta distancia, pero las observaciones no se correspondían. Esto era una afirmación claramente errónea, pero para comprenderlo se necesitaba conocer el [principio de inercia (1ª ley de Newton)]({{< relref "apuntes-cuarto-eso/fuerzas/index.md#1ª-ley-ley-de-la-inercia" >}}) desconocido para los griegos.
+- **Implicaciones mecánicas** del movimiento de **rotación terrestre**. Si arrojamos una piedra desde una torre, no debería caer en su base, sino a cierta distancia, pero las observaciones no se correspondían. Esto era una afirmación claramente errónea, pero para comprenderlo se necesitaba conocer el principio de inercia de Galileo (lo que más tarde sería la [1ª ley de Newton]({{< relref "apuntes-cuarto-eso/fuerzas/index.md#1ª-ley-ley-de-la-inercia" >}})), desconocido para los griegos.
 
 ### Ptolomeo (100 d. C.)
 
@@ -121,6 +121,10 @@ Perfeccionó el [telescopio](https://es.wikipedia.org/wiki/Telescopio) y esto pe
 ### Kepler (s. XVI–XVII)
 
 Estableció las [tres leyes](#leyes-de-kepler) que llevan su nombre, con las que fue de capaz de explicar a la perfección las observaciones.
+
+En este **vídeo**, [**Timothy Rowe**](https://www.youtube.com/@_TimothyRowe/) nos explica (en inglés) los fundamentos y problemas de la astronomía ptolemaica, así como la propuesta de Copérnico (basada en la de Aristarco) y la ayuda de Kepler (órbitas elípticas):
+
+{{< youtube F3Ycj1VbB_k >}}
 
 ## Leyes de Kepler
 
@@ -219,18 +223,22 @@ $$
 
 Una magnitud se conserva cuando permanece constante, es decir, no cambia con el tiempo. Estudiemos la variación de $\vec L$ con el tiempo para ver en qué circunstancias se conserva:
 
+{{< math >}}
 $$
 \frac{\mathrm d \vec L}{\mathrm d t} = \frac{\mathrm d}{\mathrm d t}\left(\vec r\times m\vec v\right) = \frac{\mathrm d \vec r}{\mathrm d t}\times m\vec v + \vec r\times m\frac{\mathrm d \vec v}{\mathrm d t} = \cancelto{0}{\vec v \times m \vec v} + \vec r\times m\vec a = \vec r\times \vec F
 $$
+{{< /math >}}
 
 $\vec L$ se conserva si su variación con el tiempo es cero:
 
+{{< math >}}
 $$
 \frac{\mathrm d \vec L}{\mathrm d t} = \vec r\times \vec F = 0 \Leftrightarrow \begin{cases}
 \vec F = 0 & \text{La fuerza neta que actúa sobre el cuerpo es cero.} \\
 \vec r\parallel \vec F & \text{Sucede en fuerzas centrales.}
 \end{cases}
 $$
+{{< /math >}}
 
 ### Movimientos planetarios
 
@@ -268,7 +276,7 @@ La conservación de $\vec L$ también explica la [2ª ley de Kepler](#2ª-ley-le
 
 La ley de gravitación universal introdujo la idea de [acción a distancia](https://es.wikipedia.org/wiki/Acción_a_distancia). ¿Cómo puede un objeto influenciar a otro sin estar en contacto con él? Hubo varios intentos de explicar cómo se producía la interacción a distancia. Algunos científicos afirmaban que existía una sustancia llamada [éter](<https://es.wikipedia.org/wiki/Éter_(elemento)>) que llenaba el vacío (_fluido_) y era la responsable de transmitir la interacción. Este éter no se sabía de qué estaba hecho y su existencia no podía demostrarse experimentalmente, pero se mantuvo durante algún tiempo.
 
-Científico posteriores demostraron que la interacción a distancia se producía también en el vacío, por lo que la existencia del éter no era necesaria. Finalmente, [Einstein](https://es.wikipedia.org/wiki/Albert_Einstein) justificó la acción a distancia por una perturbación en el [espacio-tiempo](https://es.wikipedia.org/wiki/Espacio-tiempo) debida a la presencia de una masa. Dicha perturbación se denominó [**campo gravitatorio**](https://es.wikipedia.org/wiki/Campo_gravitatorio).
+Científicos posteriores demostraron que la interacción a distancia se producía también en el vacío, por lo que la existencia del éter no era necesaria. Finalmente, [Einstein](https://es.wikipedia.org/wiki/Albert_Einstein) justificó la acción a distancia por una perturbación en el [espacio-tiempo](https://es.wikipedia.org/wiki/Espacio-tiempo) debida a la presencia de una masa. Dicha perturbación se denominó [**campo gravitatorio**](https://es.wikipedia.org/wiki/Campo_gravitatorio).
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/espacio-tiempo.jpg" title="Representación artística que visualiza el espacio-tiempo como una superficie bidimensional simplificada, que está siendo distorsionada por la presencia de tres cuerpos masivos, representados como esferas de colores. La distorsión causada por cada esfera es proporcional a su masa. Fuente: https://www.esa.int/ESA_Multimedia/Images/2015/09/Spacetime_curvature." >}}
 
@@ -303,9 +311,11 @@ expresión que coincide con la [**ley de gravitación universal de Newton**](#le
 ### Potencial gravitatorio
 
 Como la **fuerza gravitatoria** es [**conservativa**](https://es.wikipedia.org/wiki/Fuerza_conservativa), el campo gravitatorio $\vec g$ puede expresarse en función de un [potencial gravitatorio](https://es.wikipedia.org/wiki/Potencial_gravitatorio) $V$, definido como el trabajo por unidad de masa que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
+{{< math >}}
 \[
 V = \frac{W_{\infty\rightarrow P}}{m} = \frac{1}{m}\int_\infty^P \vec F\cdot \mathrm d \vec r = \frac{1}{m}\int_\infty^P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GM}{r}
 \]
+{{< /math >}}
 tal que $\vec g = -\nabla V$.
 
 #### Distribución de masas puntuales
@@ -316,10 +326,12 @@ V_\mathrm t = \sum_{i=1}^n V_i = \sum_{i=1}^n \left(-\frac{GM_i}{r_i}\right)
 
 ### Energía potencial gravitatoria
 
-La energía potencial gravitatoria, $E_\mathrm p$, es la energía que adquiere una masa $m$ en el seno de un campo gravitatorio $\vec g$. Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
+La energía potencial gravitatoria, $E_\mathrm p$, es la energía que adquiere una masa $m$ dentro de un campo gravitatorio $\vec g$. Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
+{{< math >}}
 \[
 E_\mathrm p = W_{\infty\rightarrow P} = \int_\infty^P \vec F\cdot \mathrm d \vec r = \int_\infty^P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}
 \]
+{{< /math >}}
 
 También se puede calcular a partir del potencial gravitatorio:
 \[
@@ -330,13 +342,16 @@ El signo $-$ indica que la masa está ligada al campo gravitatorio (si $E_\mathr
 ### Trabajo realizado por la fuerza gravitatoria
 
 Cuando una masa $m$ se mueve libremente dentro de un campo gravitatorio, se realiza un trabajo $W_{1\rightarrow 2}$ tal que:
+{{< math >}}
 \[
 \begin{aligned}
 W_{1\rightarrow 2} = \int_1^2 \vec F\cdot \mathrm d \vec r = \int_1^2 -F\,\mathrm d r &= \int_1^2 -\frac{GMm}{r^2}\,\mathrm d r \\
 &= \left. GMm\frac{1}{r}\right |_1^2 = \frac{GMm}{r_2} - \frac{GMm}{r_1} =-\symup\Delta E_\mathrm p = -m\symup\Delta V,
 \end{aligned}
 \]
+{{< /math >}}
 que solo depende de las posiciones inicial y final, lo que significa que $\vec F_\mathrm g$ es **conservativa**.
+{{< math >}}
 \[
 \begin{cases}
 W=0 & \text{La masa $m$ describe una trayectoria cerrada (o se mueve por una superficie equipotencial).}     \\
@@ -344,6 +359,7 @@ W>0 & \text{La masa $m$ se acerca a $M$, desplazándose hacia $V$ decrecientes (
 W<0 & \text{La masa $m$ se aleja de $M$ (proceso no espontáneo, se requiere una $\vec F_\mathrm{externa}$).}
 \end{cases}
 \]
+{{< /math >}}
 
 ### Representación del campo gravitatorio
 
@@ -389,26 +405,26 @@ Una esfera que solo tiene masa en su superficie:
 Una esfera con densidad homogénea $\rho$:
 
 - Para $r \leq R$:
-  $$
+  {{< math >}}
   \left.\begin{aligned}
   \Phi &= \oint_S \vec g \cdot \mathrm d \vec s = -g\oint_S \mathrm d s = -g\cdot 4\pi r^2 \\
   \Phi &= -4\pi G\cdot M_\mathrm{encerrada} = -4\pi G\rho\cdot\frac{4}{3}\pi r^3
   \end{aligned}\right\rbrace \vec g = -\dfrac{4\pi G\rho}{3}r\,\hat{\mathrm u}_\mathrm r\ (\text{proporcional al radio $r$})
-  $$
+  {{< /math >}}
 
 - Para $r \geq R$:
-  $$
+  {{< math >}}
   \left.\begin{aligned}
   \Phi &= \oint_S \vec g \cdot \mathrm d \vec s = -g\oint_S \mathrm d s = -g\cdot 4\pi r^2 \\
   \Phi &= -4\pi G\cdot M
   \end{aligned}\right\rbrace \vec g = -\frac{GM}{r^2}\,\hat{\mathrm u}_\mathrm r\ (\text{igual que masa puntual})
-  $$
+  {{< /math >}}
 
 ### Campo gravitatorio terrestre
 
 Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra[^4]:
 $$
-\vec g = -\frac{GM_\mathrm T}{r^2}\,\hat{\mathrm u}_\mathrm r \qquad \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
+\vec g = -\frac{GM_\mathrm T}{r^2}\,\hat{\mathrm u}_\mathrm r \quad \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
 $$
 
 [^4]: La realidad es un poco más complicada. A día de hoy tenemos el llamado [Modelo de Referencia Preliminar](https://es.wikipedia.org/wiki/Modelo_de_referencia_preliminar_de_la_Tierra) (PREM por sus siglás en inglés):
@@ -430,9 +446,11 @@ g_0 = \frac{GM_\mathrm T}{R_\mathrm T^2}
 $$
 
 A una altura $h$ sobre la superficie:
+{{< math >}}
 $$
 g = \frac{GM_\mathrm T}{\left(R_\mathrm T+h\right)^2} = g_0\frac{R_\mathrm T^2}{\left(R_\mathrm T+h\right)^2} = g_0\frac{1}{\left(1+\dfrac{h}{R_\mathrm T}\right)^2}
 $$
+{{< /math >}}
 
 #### Variación de $\vec g$ con la latitud
 
@@ -446,12 +464,14 @@ $$
 $$
 donde $a_{\mathrm{cf}_\mathrm r} = a_\mathrm{cf}\cos\varphi = \omega^2 r \cos\varphi = \omega^2R_\mathrm T\cos^2\varphi$.
 El punto P siente una gravedad efectiva inferior ya que la componente radial algo contrarresta:
+{{< math >}}
 $$
 g_\mathrm{efectiva} = g-a_{\mathrm{cf}_\mathrm r} = g-\omega^2R_\mathrm T\cos^2\varphi = \begin{cases}
-							      g-\omega^2 R_\mathrm T & \varphi=0&deg;\ (\text{ecuador}) \\
-							      g                      & \varphi=90&deg;\ (\text{polos})
+							      g-\omega^2 R_\mathrm T & \varphi=0°\ (\text{ecuador}) \\
+							      g                      & \varphi=90°\ (\text{polos})
 						      \end{cases}
 $$
+{{< /math >}}
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/variacion-g-altura-latitud.svg" title="Variación de la aceleración de la gravedad con la altura y la latitud. Se ve claramente cómo disminuye con la altura y es mínima en el ecuador ($\varphi = 0&deg;$) y máxima en los polos $\varphi = 90&deg;$." width="100%" lightbox="false" theme="light" >}}
 
@@ -490,21 +510,26 @@ de donde podemos obtener:
 
 ### Satélites geoestacionarios
 Son aquellos cuyo periodo coincide con el [periodo de rotación terrestre](https://es.wikipedia.org/wiki/Día), de forma que orbitan manteniéndose siempre en la misma vertical (aparentemente no se mueven). Se colocan en el plano del ecuador para que $\vec g$ no varíe con la latitud. Despejando de la [3ª ley de Kepler](#3ª-ley-ley-de-los-periodos):
+{{< math >}}
 $$
 \frac{T^2}{r^3} = \frac{4\pi^2}{GM_\mathrm T} \rightarrow r = \sqrt[3]{\frac{GM_\mathrm T}{4\pi^2}} \rightarrow h = r-\mathrm R_T \approx 35\,800\,\mathrm{km}
 $$
+{{< /math >}}
 
 ### Energía de los satélites
 
 Cuando describe una órbita, la energía mecánica de un satélite viene dada por:
+{{< math >}}
 \[
 E = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 - \frac{GMm}{r} = \frac{1}{2}\frac{GMm}{r} - \frac{GMm}{r} = -\frac{1}{2}\frac{GMm}{r} = \frac{E_\mathrm p}{2}
 \]
+{{< /math >}}
 
 Si tenemos en cuenta que todas las **fuerzas** que actúan son **conservativas**, la **energía mecánica se conserva**. Así, es posible calcular:
 
 Velocidad de lanzamiento
 : Es la velocidad que hay que comunicar a un satélite para colocarlo en su órbita, suponiendo que se lanza desde la superficie terrestre:
+{{< math >}}
 $$
 \begin{aligned}
 E_1                                                                  & = E_2                                                                                                                      \\
@@ -512,6 +537,7 @@ E_{\mathrm c_1} + E_{\mathrm p_1}                                    & = \frac{E
 \frac{1}{2}\cancel mv^2 - \frac{GM_\mathrm T \cancel m}{R_\mathrm T} & = -\frac{GM_\mathrm T \cancel m}{2r} \rightarrow v = \sqrt{2GM_\mathrm T\left(\frac{1}{R_\mathrm T}-\frac{1}{2r}\right)}
 \end{aligned}
 $$
+{{< /math >}}
 
 Velocidad de escape
 : Si en el lanzamiento proporcionamos al satélite una velocidad suficientemente elevada, este puede llegar a escapar del campo gravitatorio terrestre. A esta (mínima) velocidad se le denomina [**velocidad de escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape). Imponiendo la condición de que el objeto se aleje hasta una distancia infinita y quede en reposo ($E=0$):
@@ -536,9 +562,11 @@ Se cree que la mayoría de las galaxias giran en torno a un agujero negro superm
 
 Trabajo para pasar de una órbita a otra
 : Supongamos que queremos pasar un satélite de una órbita 1 a otra órbita 2. Será necesario realizar un trabajo tal que:
+{{< math >}}
 \[
 E_1+W = E_2 \rightarrow W = E_2-E_1 = - \frac{GM_\mathrm T m}{2r_2}-\left(- \frac{GM_\mathrm T m}{2r_1}\right) = \frac{GM_\mathrm T m}{2}\left(\frac{1}{r_1}-\frac{1}{r_2}\right)
 \]
+{{< /math >}}
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/orbita-hohmann.svg" title="La [**órbita de transferencia de Hohmann**](https://es.wikipedia.org/wiki/Órbita_de_transferencia_de_Hohmann) es una maniobra orbital que traslada a una nave espacial desde una órbita circular a otra utilizando dos impulsos de su motor. El nombre proviene del científico alemán [Walter Hohmann](https://es.wikipedia.org/wiki/Walter_Hohmann) que publicó su teoría en 1925. Adaptada de https://commons.wikimedia.org/wiki/File:TransferOrbit.svg." width="100%" lightbox="false" theme="light" >}}
 
@@ -550,19 +578,23 @@ E = \overbrace{\frac{1}{2}mv^2}^{+}\overbrace{-\frac{GMm}{r}}^{-}
 \]
 
 $E<0$ Ligado al campo (órbitas cerradas):
+{{< math >}}
 $$
 \begin{cases}
 E_\mathrm c = 0    & \text{El satélite cae por atracción gravitatoria.}                                  \\
 E_\mathrm c \neq 0 & \text{Describe una órbita cerrada (circular o elíptica). Ej. satélites o planetas.}
 \end{cases}
 $$
+{{< /math >}}
 $E\geq 0$ No ligado al campo (órbitas abiertas):
+{{< math >}}
 \[
 \begin{cases}
 E = 0 & \text{Órbita parabólica: $E_\mathrm c = -E_\mathrm p$. Ej. cometas.}    \\
 E > 0 & \text{Órbita hiperbólica: $E_\mathrm c > E_\mathrm p$. Ej. asteroides.}
 \end{cases}
 \]
+{{< /math >}}
 
 **Explora** la **relación** entre la **gravedad** y las **órbitas** con estas excelentes **simulaciones**:
 
