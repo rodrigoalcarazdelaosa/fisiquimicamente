@@ -161,7 +161,7 @@ $$
 Teniendo en cuenta las leyes de Kepler, Newton llegó a la conclusión de que el movimiento de los planetas era debido a una fuerza de atracción proporcional a la masa del planeta ($m$) y del Sol ($M$) e inversamente proporcional al cuadrado de la distancia que los separa ($r$):
 
 $$
-\vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm u}_\mathrm r,
+\vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm r},
 $$
 
 donde $G = 6.67\times 10^{11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
@@ -285,7 +285,7 @@ Científicos posteriores demostraron que la interacción a distancia se producí
 El campo gravitatorio $\vec g$ creado por una [masa puntual](https://es.wikipedia.org/wiki/Masa_puntual) $M$ en un punto cualquiera que se encuentra a una distancia $r$ de ella viene dado por:
 
 $$
-\vec g = -\frac{GM}{r^2}\,\hat{\mathrm u}_\mathrm r
+\vec g = -\frac{GM}{r^2}\,\hat{\mathrm r}
 $$
 
 y se mide en N/kg o m/s^2^ en el SI.
@@ -294,7 +294,7 @@ y se mide en N/kg o m/s^2^ en el SI.
 
 Cuando en una misma región del espacio existen varias ($n$) masas puntuales, el campo gravitatorio total es la suma vectorial de los campos creados por cada una de las masas, resultado que se conoce como [**principio de superposición**](https://es.wikipedia.org/wiki/Principio_de_superposición):
 \[
-\vec g_\mathrm t = \sum_{i=1}^n \vec g_i = \sum_{i=1}^n \left(-\frac{GM_i}{r_i^2}\,\hat{\mathrm u}_{\mathrm r_i}\right)
+\vec g_\mathrm t = \sum_{i=1}^n \vec g_i = \sum_{i=1}^n \left(-\frac{GM_i}{r_i^2}\,\hat{\mathrm r}_i\right)
 \]
 
 ### Relación fuerza-campo
@@ -305,7 +305,7 @@ La fuerza $\vec F_\mathrm g$ que actúa sobre una masa $m$ colocada en un punto 
 \]
 expresión que coincide con la [**ley de gravitación universal de Newton**](#ley-de-gravitación-universal-de-newton):
 \[
-\vec F_\mathrm g = m\vec g = -m\frac{GM}{r^2}\,\hat{\mathrm u}_\mathrm r = -\frac{GMm}{r^2}\,\hat{\mathrm u}_\mathrm r
+\vec F_\mathrm g = m\vec g = -m\frac{GM}{r^2}\,\hat{\mathrm r} = -\frac{GMm}{r^2}\,\hat{\mathrm r}
 \]
 
 ### Potencial gravitatorio
@@ -409,7 +409,7 @@ Una esfera con densidad homogénea $\rho$:
   \left.\begin{aligned}
   \Phi &= \oint_S \vec g \cdot \mathrm d \vec s = -g\oint_S \mathrm d s = -g\cdot 4\pi r^2 \\
   \Phi &= -4\pi G\cdot M_\mathrm{encerrada} = -4\pi G\rho\cdot\frac{4}{3}\pi r^3
-  \end{aligned}\right\rbrace \vec g = -\dfrac{4\pi G\rho}{3}r\,\hat{\mathrm u}_\mathrm r\ (\text{proporcional al radio $r$})
+  \end{aligned}\right\rbrace \vec g = -\dfrac{4\pi G\rho}{3}r\,\hat{\mathrm r}\ (\text{proporcional al radio $r$})
   {{< /math >}}
 
 - Para $r \geq R$:
@@ -417,14 +417,14 @@ Una esfera con densidad homogénea $\rho$:
   \left.\begin{aligned}
   \Phi &= \oint_S \vec g \cdot \mathrm d \vec s = -g\oint_S \mathrm d s = -g\cdot 4\pi r^2 \\
   \Phi &= -4\pi G\cdot M
-  \end{aligned}\right\rbrace \vec g = -\frac{GM}{r^2}\,\hat{\mathrm u}_\mathrm r\ (\text{igual que masa puntual})
+  \end{aligned}\right\rbrace \vec g = -\frac{GM}{r^2}\,\hat{\mathrm r}\ (\text{igual que masa puntual})
   {{< /math >}}
 
 ### Campo gravitatorio terrestre
 
 Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra[^4]:
 $$
-\vec g = -\frac{GM_\mathrm T}{r^2}\,\hat{\mathrm u}_\mathrm r \quad \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
+\vec g = -\frac{GM_\mathrm T}{r^2}\,\hat{\mathrm r} \quad \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
 $$
 
 [^4]: La realidad es un poco más complicada. A día de hoy tenemos el llamado [Modelo de Referencia Preliminar](https://es.wikipedia.org/wiki/Modelo_de_referencia_preliminar_de_la_Tierra) (PREM por sus siglás en inglés):
@@ -460,7 +460,7 @@ Al igual que con la altura, la gravedad varía con la latitud. Consideremos un p
 
 El punto P gira debido a la rotación de la Tierra, describiendo una circunferencia de radio $r$. Al ser un [sistema de referencia no inercial](https://es.wikipedia.org/wiki/Sistema_de_referencia_no_inercial), aparece una aceleración [centrífuga](https://es.wikipedia.org/wiki/Fuerza_centrífuga) ([ficticia](https://es.wikipedia.org/wiki/Fuerza_ficticia)), la cual resulta conveniente descomponer en ejes radial y tangencial:
 $$
-\vec a_\mathrm{cf} =  a_{\mathrm{cf}_\mathrm r}\,\hat{\mathrm u}_\mathrm r + a_{\mathrm{cf}_\mathrm t}\,\hat{\mathrm u}_\mathrm t,
+\vec a_\mathrm{cf} =  a_{\mathrm{cf}_\mathrm r}\,\hat{\mathrm r} + a_{\mathrm{cf}_\mathrm t}\,\hat{\mathrm t},
 $$
 donde $a_{\mathrm{cf}_\mathrm r} = a_\mathrm{cf}\cos\varphi = \omega^2 r \cos\varphi = \omega^2R_\mathrm T\cos^2\varphi$.
 El punto P siente una gravedad efectiva inferior ya que la componente radial algo contrarresta:
