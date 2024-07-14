@@ -212,6 +212,8 @@ $$
 \frac{T^2}{r^3} = \text{constante}
 $$
 
+donde $r\rightarrow a$ (semieje mayor) si la órbita es elíptica.
+
 ---
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/leyes-kepler.svg" width="65%" lightbox="false" >}}
@@ -238,7 +240,7 @@ $$
 \vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm r},
 $$
 
-donde $G = 6.67\times 10^{11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
+donde $\hat{\mathrm r}$ es el [vector unitario](https://es.wikipedia.org/wiki/Vector_unitario) que va de $M$ a $m$ y $G = 6.67\times 10^{11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
 
 ---
 
@@ -374,7 +376,9 @@ La conservación de $\vec L$ implica:
 
   En órbitas circulares: $r_1 = r_2; \theta_1 = \theta_2 = 90&deg;\Rightarrow v_1 = v_2$ ($v$ constante).
 
-  En órbitas elípticas: $r_\mathrm pv_\mathrm p = r_\mathrm av_\mathrm a$ (p $\rightarrow$ perihelio, a $\rightarrow$ afelio).
+  En órbitas elípticas: $r_\mathrm pv_\mathrm p = r_\mathrm av_\mathrm a$ (p $\rightarrow$ [periastro](https://es.wikipedia.org/wiki/Periastro), a $\rightarrow$ [apoastro](https://es.wikipedia.org/wiki/Apoastro)).
+
+  {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/periastro-apoastro.svg" width="75%" lightbox="false" >}}
 
 ---
 
@@ -494,7 +498,7 @@ V = \frac{W_{\infty\rightarrow P}}{m} = \frac{1}{m}\int_\infty^P \vec F\cdot \ma
 \]
 {{< /math >}}
 
-tal que $\vec g = -\nabla V$.
+tal que $\vec g = -\dfrac{\mathrm d V}{\mathrm d r}\,\hat{\mathrm r}$ (en general $\vec g = -\nabla V$, siendo $\nabla$ el operador diferencial vectorial [nabla](https://es.wikipedia.org/wiki/Nabla)).
 
 ---
 
@@ -811,7 +815,7 @@ $$
 Cuando describe una órbita, la energía mecánica de un satélite viene dada por:
 {{< math width="100%" >}}
 \[
-E = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 - \frac{GMm}{r} = \frac{1}{2}\frac{GMm}{r} - \frac{GMm}{r} = -\frac{1}{2}\frac{GMm}{r} = \frac{E_\mathrm p}{2}
+E = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 - \frac{GMm}{r} = \frac{1}{2}\frac{GMm}{r} - \frac{GMm}{r} = -\frac{1}{2}\frac{GMm}{r} = \frac{E_\mathrm p}{2}\left(=-\frac{GMm}{2a}\text{ si órbita elíptica}\right)
 \]
 {{< /math >}}
 

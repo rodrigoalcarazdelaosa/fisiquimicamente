@@ -150,6 +150,8 @@ $$
 \frac{T^2}{r^3} = \text{constante}
 $$
 
+donde $r\rightarrow a$ (semieje mayor) si la órbita es elíptica.
+
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/leyes-kepler.svg" title="Diagrama que ilustra las **leyes de Kepler**. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Kepler_laws_diagram.svg." width="100%" lightbox="false" >}}
 
 **Explora** las **leyes** de **Kepler** con esta magnífica **simulación**:
@@ -164,7 +166,7 @@ $$
 \vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm r},
 $$
 
-donde $G = 6.67\times 10^{11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
+donde $\hat{\mathrm r}$ es el [vector unitario](https://es.wikipedia.org/wiki/Vector_unitario) que va de $M$ a $m$ y $G = 6.67\times 10^{11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
 
 {{< spoiler text="Pincha aquí si quieres **saber más** sobre la **medida experimental** de $G$" >}}
 La constante de gravitación universal, $G$, fue determinada experimentalmente 100 años después de Newton por el científico británico y francés [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish). Para ello, empleó una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión):
@@ -257,7 +259,9 @@ La conservación de $\vec L$ implica:
 
   En órbitas circulares: $r_1 = r_2; \theta_1 = \theta_2 = 90&deg;\Rightarrow v_1 = v_2$ ($v$ constante).
 
-  En órbitas elípticas: $r_\mathrm pv_\mathrm p = r_\mathrm av_\mathrm a$ (p $\rightarrow$ perihelio, a $\rightarrow$ afelio).
+  En órbitas elípticas: $r_\mathrm pv_\mathrm p = r_\mathrm av_\mathrm a$ (p $\rightarrow$ [periastro](https://es.wikipedia.org/wiki/Periastro), a $\rightarrow$ [apoastro](https://es.wikipedia.org/wiki/Apoastro)).
+
+  {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/periastro-apoastro.svg" title="En una órbita elíptica, el [periastro](https://es.wikipedia.org/wiki/Periastro) es el punto donde la distancia entre los cuerpos es mínima, mientras que el [apoastro](https://es.wikipedia.org/wiki/Apoastro) es el punto más alejado de su centro gravitatorio. Adaptada de https://commons.wikimedia.org/wiki/File:Apogee_(PSF)_mul.svg." width="100%" lightbox="false" theme="light" >}}
 
 ### 2ª ley de Kepler
 
@@ -316,7 +320,7 @@ Como la **fuerza gravitatoria** es [**conservativa**](https://es.wikipedia.org/w
 V = \frac{W_{\infty\rightarrow P}}{m} = \frac{1}{m}\int_\infty^P \vec F\cdot \mathrm d \vec r = \frac{1}{m}\int_\infty^P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GM}{r}
 \]
 {{< /math >}}
-tal que $\vec g = -\nabla V$.
+tal que $\vec g = -\dfrac{\mathrm d V}{\mathrm d r}\,\hat{\mathrm r}$ (en general $\vec g = -\nabla V$, siendo $\nabla$ el operador diferencial vectorial [nabla](https://es.wikipedia.org/wiki/Nabla)).
 
 #### Distribución de masas puntuales
 El potencial generado por una distribución de masas puntuales en un punto es la suma de los potenciales generados por cada una de las masas en dicho punto:
@@ -379,7 +383,7 @@ Son regiones en las que el potencial gravitatorio tiene el mismo valor. Cumplen 
 - Nunca se cortan.
 - Siempre son perpendiculares a las líneas de campo.
 
-{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/campo-tierra-luna.svg" title="Campo gravitatorio de la Tierra y la Luna (no a escala). Campo vectorial (líneas de campo en azul) y su campo potencial escalar asociado (rojo). El punto P entre la Tierra y la Luna es el punto libre de fuerzas. Adaptada de https://commons.wikimedia.org/wiki/File:Earth-moon-field.svg." width="100%" lightbox="false" >}}
+{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/campo-tierra-luna.svg" title="Campo gravitatorio de la Tierra y la Luna (no a escala). Campo vectorial (líneas de campo en azul) y su campo potencial escalar asociado (rojo). Se observan los [lóbulos de Roche](https://es.wikipedia.org/wiki/Lóbulo_de_Roche), característicos de [sistemas binarios](https://es.wikipedia.org/wiki/Estrella_binaria). El punto P entre la Tierra y la Luna es el punto libre de fuerzas ([punto de Lagrange L<sub>1</sub>](https://es.wikipedia.org/wiki/Puntos_de_Lagrange)), donde las líneas equipotenciales se acercan mucho, pero no se cortan, pues en realidad las superficies equipotenciales en tres dimensiones están casi tangentes entre sí. Adaptada de https://commons.wikimedia.org/wiki/File:Earth-moon-field.svg." width="100%" lightbox="false" >}}
 
 ### Campo gravitatorio creado por distribuciones esféricas de masa
 
@@ -521,7 +525,7 @@ $$
 Cuando describe una órbita, la energía mecánica de un satélite viene dada por:
 {{< math >}}
 \[
-E = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 - \frac{GMm}{r} = \frac{1}{2}\frac{GMm}{r} - \frac{GMm}{r} = -\frac{1}{2}\frac{GMm}{r} = \frac{E_\mathrm p}{2}
+E = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 - \frac{GMm}{r} = \frac{1}{2}\frac{GMm}{r} - \frac{GMm}{r} = -\frac{1}{2}\frac{GMm}{r} = \frac{E_\mathrm p}{2}\left(=-\frac{GMm}{2a}\text{ si órbita elíptica}\right)
 \]
 {{< /math >}}
 
