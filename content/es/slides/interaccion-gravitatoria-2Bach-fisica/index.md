@@ -494,7 +494,7 @@ Como la **fuerza gravitatoria** es [**conservativa**](https://es.wikipedia.org/w
 Este se define como el trabajo por unidad de masa que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
 {{< math width="100%" >}}
 \[
-V = \frac{W_{\infty\rightarrow P}}{m} = \frac{1}{m}\int_\infty^P \vec F\cdot \mathrm d \vec r = \frac{1}{m}\int_\infty^P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GM}{r}
+V = \frac{W_{\infty\rightarrow \mathrm P}}{m} = \frac{1}{m}\int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \frac{1}{m}\int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GM}{r}
 \]
 {{< /math >}}
 
@@ -519,7 +519,7 @@ La energía potencial gravitatoria, $E_\mathrm p$, es la energía que adquiere u
 Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
 {{< math width="100%" >}}
 \[
-E_\mathrm p = W_{\infty\rightarrow P} = \int_\infty^P \vec F\cdot \mathrm d \vec r = \int_\infty^P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}
+E_\mathrm p = W_{\infty\rightarrow \mathrm P} = \int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}
 \]
 {{< /math >}}
 

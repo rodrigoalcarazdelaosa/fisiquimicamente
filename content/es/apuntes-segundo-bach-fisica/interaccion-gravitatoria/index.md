@@ -317,7 +317,7 @@ expresión que coincide con la [**ley de gravitación universal de Newton**](#le
 Como la **fuerza gravitatoria** es [**conservativa**](https://es.wikipedia.org/wiki/Fuerza_conservativa), el campo gravitatorio $\vec g$ puede expresarse en función de un [potencial gravitatorio](https://es.wikipedia.org/wiki/Potencial_gravitatorio) $V$, definido como el trabajo por unidad de masa que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
 {{< math >}}
 \[
-V = \frac{W_{\infty\rightarrow P}}{m} = \frac{1}{m}\int_\infty^P \vec F\cdot \mathrm d \vec r = \frac{1}{m}\int_\infty^P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GM}{r}
+V = \frac{W_{\infty\rightarrow \mathrm P}}{m} = \frac{1}{m}\int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \frac{1}{m}\int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GM}{r}
 \]
 {{< /math >}}
 tal que $\vec g = -\dfrac{\mathrm d V}{\mathrm d r}\,\hat{\mathrm r}$ (en general $\vec g = -\nabla V$, siendo $\nabla$ el operador diferencial vectorial [nabla](https://es.wikipedia.org/wiki/Nabla)).
@@ -333,7 +333,7 @@ V_\mathrm t = \sum_{i=1}^n V_i = \sum_{i=1}^n \left(-\frac{GM_i}{r_i}\right)
 La energía potencial gravitatoria, $E_\mathrm p$, es la energía que adquiere una masa $m$ dentro de un campo gravitatorio $\vec g$. Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
 {{< math >}}
 \[
-E_\mathrm p = W_{\infty\rightarrow P} = \int_\infty^P \vec F\cdot \mathrm d \vec r = \int_\infty^P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}
+E_\mathrm p = W_{\infty\rightarrow \mathrm P} = \int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}
 \]
 {{< /math >}}
 
