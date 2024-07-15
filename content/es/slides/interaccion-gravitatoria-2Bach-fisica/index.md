@@ -592,7 +592,7 @@ Son regiones en las que el potencial gravitatorio tiene el mismo valor. Cumplen 
 
 ---
 
-{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/campo-tierra-luna.svg" width="100%" lightbox="false" >}}
+{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/representacion-g.svg" width="100%" lightbox="false" >}}
 
 ---
 
