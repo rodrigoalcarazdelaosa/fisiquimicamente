@@ -516,7 +516,7 @@ La energía potencial gravitatoria, $E_\mathrm p$, es la energía que adquiere u
 
 ---
 
-Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
+Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $E_\mathrm p=0$ por convenio) hasta un punto P, a velocidad constante:
 {{< math width="100%" >}}
 \[
 E_\mathrm p = W_{\infty\rightarrow \mathrm P} = \int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}

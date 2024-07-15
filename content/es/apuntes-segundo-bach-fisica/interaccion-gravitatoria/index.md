@@ -330,7 +330,7 @@ V_\mathrm t = \sum_{i=1}^n V_i = \sum_{i=1}^n \left(-\frac{GM_i}{r_i}\right)
 
 ### Energía potencial gravitatoria
 
-La energía potencial gravitatoria, $E_\mathrm p$, es la energía que adquiere una masa $m$ dentro de un campo gravitatorio $\vec g$. Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
+La energía potencial gravitatoria, $E_\mathrm p$, es la energía que adquiere una masa $m$ dentro de un campo gravitatorio $\vec g$. Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $E_\mathrm p=0$ por convenio) hasta un punto P, a velocidad constante:
 {{< math >}}
 \[
 E_\mathrm p = W_{\infty\rightarrow \mathrm P} = \int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}
