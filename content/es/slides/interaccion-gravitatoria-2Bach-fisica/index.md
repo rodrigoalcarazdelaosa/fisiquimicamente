@@ -578,8 +578,9 @@ Existen dos maneras de representar el campo gravitatorio:
 
 Son tangentes al campo gravitatorio en cada punto. Cumplen que:
 
-- Nunca se cortan (supondría que en un mismo punto habría dos valores de campo, lo que es imposible).
 - El número de líneas es proporcional a la intensidad del campo gravitatorio.
+- Son siempre abiertas.
+- Nunca se cortan (supondría que en un mismo punto habría dos valores de campo, lo que es imposible).
 
 ---
 
