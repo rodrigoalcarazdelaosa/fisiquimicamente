@@ -612,7 +612,7 @@ En ese caso, para el cálculo de $\vec g$ se requiere emplear un teorema matemá
 
 ---
 
-Antes de enunciar el teorema hay que definir el [**flujo**](https://es.wikipedia.org/wiki/Flujo) $\symup\Phi = \oint_S \vec g \cdot \mathrm d \vec s$, como el número de líneas de campo que atraviesa una superficie.
+Antes de enunciar el teorema hay que definir el [**flujo**](https://es.wikipedia.org/wiki/Flujo) $\symup\Phi = \oint_S \vec g \cdot \mathrm d \vec S$, como el número de líneas de campo que atraviesa una superficie.
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/flujo.svg" width="75%" lightbox="false" >}}
 
@@ -640,7 +640,7 @@ Una esfera con densidad homogénea $\rho$:
 - Para $r \leq R$:
   {{< math width="100%" >}}
   \left.\begin{aligned}
-  \Phi &= \oint_S \vec g \cdot \mathrm d \vec s = -g\oint_S \mathrm d s = -g\cdot 4\pi r^2 \\
+  \Phi &= \oint_S \vec g \cdot \mathrm d \vec S = -g\oint_S \mathrm d S = -g\cdot 4\pi r^2 \\
   \Phi &= -4\pi G\cdot M_\mathrm{encerrada} = -4\pi G\rho\cdot\frac{4}{3}\pi r^3
   \end{aligned}\right\rbrace \vec g = -\dfrac{4\pi G\rho}{3}r\,\hat{\mathrm r}\ (\text{proporcional al radio $r$})
   {{< /math >}}
@@ -649,7 +649,7 @@ Una esfera con densidad homogénea $\rho$:
 
   {{< math width="100%" >}}
   \left.\begin{aligned}
-  \Phi &= \oint_S \vec g \cdot \mathrm d \vec s = -g\oint_S \mathrm d s = -g\cdot 4\pi r^2 \\
+  \Phi &= \oint_S \vec g \cdot \mathrm d \vec S = -g\oint_S \mathrm d S = -g\cdot 4\pi r^2 \\
   \Phi &= -4\pi G\cdot M
   \end{aligned}\right\rbrace \vec g = -\frac{GM}{r^2}\,\hat{\mathrm r}\ (\text{igual que masa puntual})
   {{< /math >}}

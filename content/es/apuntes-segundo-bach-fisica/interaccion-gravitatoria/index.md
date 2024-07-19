@@ -391,7 +391,7 @@ Son regiones en las que el potencial gravitatorio tiene el mismo valor. Cumplen 
 
 Hasta ahora hemos visto el campo creado por masas puntuales, sin extensión. Podemos aproximar que una masa es puntual cuando sus dimensiones son mucho menores que la distancia considerada. Es decir, cuando trabajamos en regiones del campo que están alejadas de la masa que lo genera; por ejemplo, en el Sistema Solar. Cuando las dimensiones no son despreciables frente a la distancia, hay que considerar el tamaño y la geometría del objeto. Esto sucede, por ejemplo, cuando consideramos el campo en la superficie de terrestre o en sus proximidades.
 
-En ese caso, para el cálculo de $\vec g$ se requiere emplear un teorema matemático: el [**teorema de Gauss**](https://es.wikipedia.org/wiki/Ley_de_Gauss). Antes de enunciar el teorema hay que definir el [**flujo**](https://es.wikipedia.org/wiki/Flujo) $\symup\Phi = \oint_S \vec g \cdot \mathrm d \vec s$, como el número de líneas de campo que atraviesa una superficie.
+En ese caso, para el cálculo de $\vec g$ se requiere emplear un teorema matemático: el [**teorema de Gauss**](https://es.wikipedia.org/wiki/Ley_de_Gauss). Antes de enunciar el teorema hay que definir el [**flujo**](https://es.wikipedia.org/wiki/Flujo) $\symup\Phi = \oint_S \vec g \cdot \mathrm d \vec S$, como el número de líneas de campo que atraviesa una superficie.
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/flujo.svg" title="Las líneas de campo de un campo vectorial **F** a través de una superficie con vector unitario normal **n**, el ángulo de **n** con respecto a **F** es *θ*. El flujo es una medida de la cantidad de campo que pasa a través de una superficie determinada. **F** se descompone en componentes perpendicular (⊥) y (‖) paralela a **n**. Solo la componente paralela contribuye al flujo, dado que es la extensión máxima del campo que pasa a través de la superficie en un punto, y la componente perpendicular no contribuye. Adaptada de https://commons.wikimedia.org/wiki/File:General_flux_diagram.svg." width="100%" lightbox="false" >}}
 
@@ -413,7 +413,7 @@ Una esfera con densidad homogénea $\rho$:
 - Para $r \leq R$:
   {{< math >}}
   \left.\begin{aligned}
-  \Phi &= \oint_S \vec g \cdot \mathrm d \vec s = -g\oint_S \mathrm d s = -g\cdot 4\pi r^2 \\
+  \Phi &= \oint_S \vec g \cdot \mathrm d \vec S = -g\oint_S \mathrm d S = -g\cdot 4\pi r^2 \\
   \Phi &= -4\pi G\cdot M_\mathrm{encerrada} = -4\pi G\rho\cdot\frac{4}{3}\pi r^3
   \end{aligned}\right\rbrace \vec g = -\dfrac{4\pi G\rho}{3}r\,\hat{\mathrm r}\ (\text{proporcional al radio $r$})
   {{< /math >}}
@@ -421,7 +421,7 @@ Una esfera con densidad homogénea $\rho$:
 - Para $r \geq R$:
   {{< math >}}
   \left.\begin{aligned}
-  \Phi &= \oint_S \vec g \cdot \mathrm d \vec s = -g\oint_S \mathrm d s = -g\cdot 4\pi r^2 \\
+  \Phi &= \oint_S \vec g \cdot \mathrm d \vec S = -g\oint_S \mathrm d S = -g\cdot 4\pi r^2 \\
   \Phi &= -4\pi G\cdot M
   \end{aligned}\right\rbrace \vec g = -\frac{GM}{r^2}\,\hat{\mathrm r}\ (\text{igual que masa puntual})
   {{< /math >}}
