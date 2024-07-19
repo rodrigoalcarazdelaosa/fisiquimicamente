@@ -237,7 +237,7 @@ Teniendo en cuenta las leyes de Kepler, Newton llegó a la conclusión de que el
 ---
 
 $$
-\vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm r},\quad\text{Unidad en el SI: $\si{N}$ (newton)}
+\vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm r}\quad\text{Unidad en el SI: N (newton)}
 $$
 
 donde $\hat{\mathrm r}$ es el [vector unitario](https://es.wikipedia.org/wiki/Vector_unitario) que va de $M$ a $m$ y $G = 6.67\times 10^{11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
@@ -494,7 +494,7 @@ Como la **fuerza gravitatoria** es [**conservativa**](https://es.wikipedia.org/w
 Este se define como el trabajo por unidad de masa que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $V=0$ por convenio) hasta un punto P, a velocidad constante:
 {{< math width="100%" >}}
 \[
-V = \frac{W_{\infty\rightarrow \mathrm P}}{m} = \frac{1}{m}\int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \frac{1}{m}\int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GM}{r}
+V = \frac{W_{\infty\rightarrow \mathrm P}}{m} = \frac{1}{m}\int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \frac{1}{m}\int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GM}{r}\quad\text{Unidad en el SI: J/kg}
 \]
 {{< /math >}}
 
@@ -520,7 +520,7 @@ La energía potencial gravitatoria, $E_\mathrm p$, es la energía que adquiere u
 Se define como el trabajo que debe realizar una fuerza para traer un cuerpo desde el infinito (donde $E_\mathrm p=0$ por convenio) hasta un punto P, a velocidad constante:
 {{< math width="100%" >}}
 \[
-E_\mathrm p = W_{\infty\rightarrow \mathrm P} = \int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}
+E_\mathrm p = W_{\infty\rightarrow \mathrm P} = \int_\infty^\mathrm P \vec F\cdot \mathrm d \vec r = \int_\infty^\mathrm P \frac{GMm}{r^2}\,\mathrm d r = -\frac{GMm}{r}\quad\text{Unidad en el SI: J}
 \]
 {{< /math >}}
 
