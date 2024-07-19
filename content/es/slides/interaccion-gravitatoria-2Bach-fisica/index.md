@@ -237,7 +237,7 @@ Teniendo en cuenta las leyes de Kepler, Newton llegó a la conclusión de que el
 ---
 
 $$
-\vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm r},
+\vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm r},\quad\text{Unidad en el SI: $\si{N}$ (newton)}
 $$
 
 donde $\hat{\mathrm r}$ es el [vector unitario](https://es.wikipedia.org/wiki/Vector_unitario) que va de $M$ a $m$ y $G = 6.67\times 10^{11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
@@ -507,6 +507,7 @@ El potencial generado por una distribución de masas puntuales en un punto es la
 \[
 V_\mathrm t = \sum_{i=1}^n V_i = \sum_{i=1}^n \left(-\frac{GM_i}{r_i}\right)
 \]
+El potencial gravitatorio generado por varias masas puntuales nunca puede ser nulo ($V<0$ siempre).
 
 ---
 
@@ -816,7 +817,7 @@ $$
 Cuando describe una órbita, la energía mecánica de un satélite viene dada por:
 {{< math width="100%" >}}
 \[
-E = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 - \frac{GMm}{r} = \frac{1}{2}\frac{GMm}{r} - \frac{GMm}{r} = -\frac{1}{2}\frac{GMm}{r} = \frac{E_\mathrm p}{2}\left(=-\frac{GMm}{2a}\text{ si órbita elíptica}\right)
+E = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 - \frac{GMm}{r} = \frac{1}{2}\frac{GMm}{r} - \frac{GMm}{r} = -\frac{1}{2}\frac{GMm}{r} = \frac{E_\mathrm p}{2}\ \left(=-\frac{GMm}{2a}\text{ si órbita elíptica}\right)
 \]
 {{< /math >}}
 
