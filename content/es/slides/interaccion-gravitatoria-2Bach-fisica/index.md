@@ -184,7 +184,7 @@ Estableció las [tres leyes](#leyes-de-kepler) que llevan su nombre, con las que
 
 ---
 
-Constituyen una descripción cinemática del Sistema Solar y consiguen explicar de forma muy precisa todas las observaciones relativas no solo al movimiento de planetas, sino también [asteroides](https://es.wikipedia.org/wiki/Asteroide), [cometas](https://es.wikipedia.org/wiki/Cometa) y [satélites](https://es.wikipedia.org/wiki/Satélite_natural) (incluso [artificales](https://es.wikipedia.org/wiki/Satélite_artificial)).
+Constituyen una descripción cinemática del Sistema Solar y consiguen explicar de forma muy precisa todas las observaciones relativas no solo al movimiento de planetas, sino también de [asteroides](https://es.wikipedia.org/wiki/Asteroide), [cometas](https://es.wikipedia.org/wiki/Cometa) y [satélites](https://es.wikipedia.org/wiki/Satélite_natural) (incluso [artificiales](https://es.wikipedia.org/wiki/Satélite_artificial)).
 
 ---
 
@@ -325,7 +325,7 @@ Cuando las fuerzas son centrales, existe una magnitud, llamada [**momento angula
 Recordando que el momento lineal $\vec p = m\vec v$ representa la _inercia_ en un movimiento de traslación, se define el momento angular como la magnitud análoga para la rotación:
 
 $$
-\vec L = \vec r\times \vec p = \vec r\times m\vec v
+\vec L = \vec r\times \vec p = \vec r\times m\vec v\quad\text{Unidad en el SI: $\mathrm{kg\,m^2/s}$}
 $$
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/momento-angular.svg" width="60%" lightbox="false" >}}
@@ -635,24 +635,9 @@ Una esfera que solo tiene masa en su superficie:
 
 #### Campo creado por una esfera maciza homogénea
 
-Una esfera con densidad homogénea $\rho$:
+Una esfera con densidad homogénea $\rho=M/V=3M/(4\pi R^3)$:
 
-- Para $r \leq R$:
-  {{< math width="100%" >}}
-  \left.\begin{aligned}
-  \Phi &= \oint_S \vec g \cdot \mathrm d \vec S = -g\oint_S \mathrm d S = -g\cdot 4\pi r^2 \\
-  \Phi &= -4\pi G\cdot M_\mathrm{encerrada} = -4\pi G\rho\cdot\frac{4}{3}\pi r^3
-  \end{aligned}\right\rbrace \vec g = -\dfrac{4\pi G\rho}{3}r\,\hat{\mathrm r}\ (\text{proporcional al radio $r$})
-  {{< /math >}}
-
-- Para $r \geq R$:
-
-  {{< math width="100%" >}}
-  \left.\begin{aligned}
-  \Phi &= \oint_S \vec g \cdot \mathrm d \vec S = -g\oint_S \mathrm d S = -g\cdot 4\pi r^2 \\
-  \Phi &= -4\pi G\cdot M
-  \end{aligned}\right\rbrace \vec g = -\frac{GM}{r^2}\,\hat{\mathrm r}\ (\text{igual que masa puntual})
-  {{< /math >}}
+{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/esfera-maciza.svg" width="100%" lightbox="false" theme="light" >}}
 
 ---
 
@@ -793,7 +778,7 @@ $$
 de donde podemos obtener:
 
 - Velocidad orbital: $\displaystyle v = \sqrt{\frac{GM}{R+h}}$
-- Periodo de revolución: $\displaystyle T = 2\pi\sqrt{\frac{\left(R+h\right)^3}{GM}}$
+- Periodo de revolución: $\displaystyle T = \frac{2\pi r}{v} = 2\pi\sqrt{\frac{\left(R+h\right)^3}{GM}}$
 - Frecuencia: $f=1/T$
 
 ---

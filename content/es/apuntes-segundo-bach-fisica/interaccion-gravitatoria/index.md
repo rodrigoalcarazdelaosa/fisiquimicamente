@@ -128,7 +128,7 @@ En este **vídeo**, [**Timothy Rowe**](https://www.youtube.com/@_TimothyRowe/) n
 
 ## Leyes de Kepler
 
-Constituyen una descripción cinemática del Sistema Solar y consiguen explicar de forma muy precisa todas las observaciones relativas no solo al movimiento de planetas, sino también [asteroides](https://es.wikipedia.org/wiki/Asteroide), [cometas](https://es.wikipedia.org/wiki/Cometa) y [satélites](https://es.wikipedia.org/wiki/Satélite_natural) (incluso [artificales](https://es.wikipedia.org/wiki/Satélite_artificial)).
+Constituyen una descripción cinemática del Sistema Solar y consiguen explicar de forma muy precisa todas las observaciones relativas no solo al movimiento de planetas, sino también de [asteroides](https://es.wikipedia.org/wiki/Asteroide), [cometas](https://es.wikipedia.org/wiki/Cometa) y [satélites](https://es.wikipedia.org/wiki/Satélite_natural) (incluso [artificiales](https://es.wikipedia.org/wiki/Satélite_artificial)).
 
 ### 1ª ley: órbitas elípticas
 
@@ -216,7 +216,7 @@ $$
 Newton demostró que la fuerza gravitatoria es una [**fuerza central**](https://es.wikipedia.org/wiki/Fuerza_central), ya que está dirigida hacia un centro fijo (como el Sol) y depende únicamente de la distancia al mismo. Cuando las fuerzas son centrales, existe una magnitud, llamada [**momento angular**](https://es.wikipedia.org/wiki/Momento_angular), que se conserva, lo que facilita enormemente la descripción de muchos fenómenos asociados. Recordando que el momento lineal $\vec p = m\vec v$ representa la _inercia_ en un movimiento de traslación, se define el momento angular como la magnitud análoga para la rotación:
 
 $$
-\vec L = \vec r\times \vec p = \vec r\times m\vec v
+\vec L = \vec r\times \vec p = \vec r\times m\vec v\quad\text{Unidad en el SI: $\mathrm{kg\,m^2/s}$}
 $$
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/momento-angular.svg" title="Adaptada de https://tikz.net/dynamics_angular_momentum/." width="100%" lightbox="false" >}}
@@ -408,32 +408,18 @@ Una esfera que solo tiene masa en su superficie:
 
 #### Campo creado por una esfera maciza homogénea
 
-Una esfera con densidad homogénea $\rho$:
+Una esfera con densidad homogénea $\rho=M/V=3M/(4\pi R^3)$:
 
-- Para $r \leq R$:
-  {{< math >}}
-  \left.\begin{aligned}
-  \Phi &= \oint_S \vec g \cdot \mathrm d \vec S = -g\oint_S \mathrm d S = -g\cdot 4\pi r^2 \\
-  \Phi &= -4\pi G\cdot M_\mathrm{encerrada} = -4\pi G\rho\cdot\frac{4}{3}\pi r^3
-  \end{aligned}\right\rbrace \vec g = -\dfrac{4\pi G\rho}{3}r\,\hat{\mathrm r}\ (\text{proporcional al radio $r$})
-  {{< /math >}}
-
-- Para $r \geq R$:
-  {{< math >}}
-  \left.\begin{aligned}
-  \Phi &= \oint_S \vec g \cdot \mathrm d \vec S = -g\oint_S \mathrm d S = -g\cdot 4\pi r^2 \\
-  \Phi &= -4\pi G\cdot M
-  \end{aligned}\right\rbrace \vec g = -\frac{GM}{r^2}\,\hat{\mathrm r}\ (\text{igual que masa puntual})
-  {{< /math >}}
+{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/esfera-maciza.svg" title="Adaptada de https://tikz.net/electric_field_sphere/." width="100%" lightbox="false" theme="light" >}}
 
 ### Campo gravitatorio terrestre
 
-Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra[^4]:
+Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra[^2]:
 $$
 \vec g = -\frac{GM_\mathrm T}{r^2}\,\hat{\mathrm r} \quad \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
 $$
 
-[^4]: La realidad es un poco más complicada. A día de hoy tenemos el llamado [Modelo de Referencia Preliminar](https://es.wikipedia.org/wiki/Modelo_de_referencia_preliminar_de_la_Tierra) (PREM por sus siglás en inglés):
+[^2]: La realidad es un poco más complicada. A día de hoy tenemos el llamado [Modelo de Referencia Preliminar](https://es.wikipedia.org/wiki/Modelo_de_referencia_preliminar_de_la_Tierra) (PREM por sus siglás en inglés):
     {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/g-tierra.svg" title="Se incluyen dos modelos para una Tierra esféricamente simétrica para comparación. La línea recta verde oscura es para una densidad constante igual a la densidad promedio de la Tierra. La línea curva de color verde claro es para una densidad que disminuye linealmente desde el centro a la superficie. La densidad en el centro es la misma que en la PREM, pero la densidad de la superficie se elige de modo que la masa de la esfera sea igual a la masa de la Tierra real. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:EarthGravityPREM.svg." width="100%" lightbox="false" >}}
 
 En esta **práctica virtual** diseñada para 1.º de Bachillerato, el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos propone dos métodos bien diferentes pero igual de eficaces para **determinar** el valor de la **aceleración** de la **gravedad terrestre**:
@@ -511,7 +497,7 @@ $$
 de donde podemos obtener:
 
 - Velocidad orbital: $\displaystyle v = \sqrt{\frac{GM}{R+h}}$
-- Periodo de revolución: $\displaystyle T = 2\pi\sqrt{\frac{\left(R+h\right)^3}{GM}}$
+- Periodo de revolución: $\displaystyle T = \frac{2\pi r}{v} = 2\pi\sqrt{\frac{\left(R+h\right)^3}{GM}}$
 - Frecuencia: $f=1/T$
 
 ### Satélites geoestacionarios
@@ -546,7 +532,10 @@ $$
 {{< /math >}}
 
 Velocidad de escape
-: Si en el lanzamiento proporcionamos al satélite una velocidad suficientemente elevada, este puede llegar a escapar del campo gravitatorio terrestre. A esta (mínima) velocidad se le denomina [**velocidad de escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape). Imponiendo la condición de que el objeto se aleje hasta una distancia infinita y quede en reposo ($E=0$):
+: Si en el lanzamiento[^3] proporcionamos al satélite una velocidad suficientemente elevada, este puede llegar a escapar del campo gravitatorio terrestre. A esta (mínima) velocidad se le denomina [**velocidad de escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape). Imponiendo la condición de que el objeto se aleje hasta una distancia infinita y quede en reposo ($E=0$):
+
+[^3]: Suponiendo de nuevo que se lanza desde la superficie terrestre.
+
 $$
 \begin{aligned}
 E                                                              & = 0                                                                    \\
