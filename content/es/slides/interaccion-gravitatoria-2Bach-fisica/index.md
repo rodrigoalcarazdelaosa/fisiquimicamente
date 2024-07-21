@@ -829,7 +829,7 @@ $$
 ---
 
 Velocidad de escape
-: Si en el lanzamiento proporcionamos al satélite una velocidad suficientemente elevada, este puede llegar a escapar del campo gravitatorio terrestre. A esta (mínima) velocidad se le denomina [**velocidad de escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape).
+: Si en el lanzamiento (supuesto de nuevo desde la superficie terrestre) proporcionamos al satélite una velocidad suficientemente elevada, este puede llegar a escapar del campo gravitatorio terrestre. A esta (mínima) velocidad se le denomina [**velocidad de escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape).
 
 ---
 
