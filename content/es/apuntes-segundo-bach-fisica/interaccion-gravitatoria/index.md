@@ -2,7 +2,7 @@
 title: Interacción gravitatoria
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/interaccion-gravitatoria"
 subtitle: Modelos cosmológicos, leyes de Kepler, ley de gravitación universal, momento angular y campo gravitatorio
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Modelos cosmológicos. Leyes de Kepler. Ley de gravitación universal. Momento angular. Campo gravitatorio."
+summary: "Modelos cosmológicos. Leyes de Kepler. Ley de gravitación universal. Momento angular. Campo gravitatorio."
 breadcrumbs: ["recursos-fisica-quimica", "apuntes", "2bach", "fisica"]
 authors:
   - marta-rada-arias
