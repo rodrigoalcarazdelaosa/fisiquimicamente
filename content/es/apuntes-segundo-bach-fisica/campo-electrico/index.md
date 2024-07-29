@@ -169,7 +169,7 @@ La constante $k$ fue determinada experimentalmente por el propio [Coulomb](https
 
 {{< /spoiler >}}
 
-{{< figure library="true" src="campo-electrico-2Bach-fisica/ley-Coulomb.svg" title="**Ley de Coulomb**. Cumple el [principio de acción-reacción](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/4eso/fuerzas/#3ª-ley-ley-de-la-acción-reacción): $\vec F_{21}=-\vec F_{12}$. Adaptada de https://tikz.net/coulomb_force/." width="100%" lightbox="false" >}}
+{{< figure library="true" src="campo-electrico-2Bach-fisica/ley-coulomb.svg" title="**Ley de Coulomb**. Cumple el [principio de acción-reacción](https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/4eso/fuerzas/#3ª-ley-ley-de-la-acción-reacción): $\vec F_{21}=-\vec F_{12}$. Adaptada de https://tikz.net/coulomb_force/." width="100%" lightbox="false" >}}
 
 
 Cumple también el [**principio de superposición**](https://es.wikipedia.org/wiki/Principio_de_superposición), por lo que en una distribución de cargas puntuales:
@@ -315,7 +315,7 @@ Hasta ahora hemos considerado el campo eléctrico creado por cargas puntuales. P
 $$
 \symup\Phi = \oint_S \vec E \cdot \mathrm d \vec S\quad \left(\symup\Phi = ES\cos\theta\text{ si $\vec E$ es constante}\right)
 $$
-como el número de líneas de campo que atraviesa la superficie $S$. $\mathrm d \vec S$ es el vector de área normal a la superficie (dirigido hacia fuera). La unidad de $\symup\Phi$ en el SI es el voltio metro (V&thinsp;m), equivalente a N&thinsp;m^2^&thinsp;C<sup>–1</sup>.
+como el número de líneas de campo que atraviesa la superficie $S$. $\mathrm d \vec S$ es el vector de área normal a la superficie (dirigido hacia fuera). La unidad de $\symup\Phi$ en el SI es el voltio metro (V&thinsp;m), equivalente a <span style="white-space: nowrap">N&thinsp;m^2^&thinsp;C<sup>–1</sup></span>.
 
 ### Teorema de Gauss
 
@@ -335,7 +335,7 @@ Al proporcionar cargas a un material [**aislante**](https://es.wikipedia.org/wik
 
 ### Hilo conductor infinito cargado uniformemente
 
-El flujo eléctrico, $\symup\Phi$, puede dividirse en tres contribuciones, dos de ellas para las tapas y otra para la pared. En las tapas, el campo eléctrico es perpendicular al vector diferencial de superficie, mientras que en la pared $\vec E$ es paralelo a $\mathrm d \vec S$ y constante, pues todos los puntos de la pared están a la misma distancia del hilo.
+Para calcular el campo eléctrico generado, se escoge una superficie gaussiana cilíndrica. Así, el flujo eléctrico, $\symup\Phi$, puede dividirse en tres contribuciones, dos de ellas para las tapas y otra para la pared. En las tapas, el campo eléctrico es perpendicular al vector diferencial de superficie, mientras que en la pared $\vec E$ es paralelo a $\mathrm d \vec S$ y constante, pues todos los puntos de la pared están a la misma distancia del hilo.
 
 {{< figure library="true" src="campo-electrico-2Bach-fisica/hilo-infinito.svg" title="Un hilo conductor infinito con densidad de carga lineal $\lambda = Q/l$. Por simetría, se escoge una superficie de Gauss cilíndrica (en verde). Adaptada de https://tikz.net/electric_field_rod/." width="100%" lightbox="false" >}}
 
