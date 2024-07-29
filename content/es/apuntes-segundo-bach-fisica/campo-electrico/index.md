@@ -160,7 +160,9 @@ La [**ley de Coulomb**](https://es.wikipedia.org/wiki/Ley_de_Coulomb) afirma:
 $$
 \vec F_\mathrm e = k\frac{q_1q_2}{r^2}\hat{\mathrm r}\quad\text{Unidad en el SI: N (newton)}
 $$
-donde $\hat{\mathrm r}$ es el vector unitario que va de $q_1$ a $q_2$ y $k=1/\left(4\pi\varepsilon\right)\left(\approx 9\times 10^9\,\mathrm{N}\,\mathrm{m^2}\,\mathrm{C^{-2}}\text{ en el vacío}\right)$ es la constante de Coulomb, siendo $\varepsilon$ la permitividad eléctrica o constante dieléctrica del medio.
+donde $\hat{\mathrm r}$ es el vector unitario que va de $q_1$ a $q_2$ y $k=1/\left(4\pi\varepsilon\right)\left(\approx 9\times 10^9\,\mathrm{N}\,\mathrm{m^2}\,\mathrm{C^{-2}}\text{ en el vacío}\right)$ es la constante de Coulomb, siendo $\varepsilon$ la permitividad eléctrica o constante dieléctrica del medio[^1].
+
+[^1]: En [esta **tabla**](https://es.wikipedia.org/wiki/Constante_dieléctrica#Constante_dieléctrica_para_diferentes_materiales) puedes consultar los **valores** de la **constante dieléctrica** para **diferentes materiales**.
 
 {{< spoiler text="Pincha aquí si quieres **saber más** sobre la **medida experimental** de $k$" >}}
 La constante $k$ fue determinada experimentalmente por el propio [Coulomb](https://es.wikipedia.org/wiki/Charles-Augustin_de_Coulomb). Para ello, empleó una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión):
