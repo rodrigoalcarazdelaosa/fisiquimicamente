@@ -413,10 +413,10 @@ El área barrida en $\mathrm d t$ se puede aproximar por el área de un triángu
 - [Relación fuerza-campo](#/5/9)
 - [Potencial gravitatorio](#/5/11)
 - [Energía potencial gravitatoria](#/5/14)
-- [Trabajo realizado por la fuerza gravitatoria](#/5/17)
-- [Representación del campo gravitatorio](#/5/19)
-- [Campo gravitatorio creado por distribuciones esféricas de masa](#/5/23)
-- [Campo gravitatorio terrestre](#/5/30)
+- [Trabajo realizado por la fuerza gravitatoria](#/5/19)
+- [Representación del campo gravitatorio](#/5/21)
+- [Campo gravitatorio creado por distribuciones esféricas de masa](#/5/25)
+- [Campo gravitatorio terrestre](#/5/32)
 
 (continúa hacia abajo)
 
@@ -534,6 +534,24 @@ El signo $-$ indica que la masa está ligada al campo gravitatorio (si $E_\mathr
 
 ---
 
+> Pero entonces, ¿por qué en cursos anteriores $E_\mathrm p = mgh$?
+
+Esta expresión representa la variación de energía potencial cuando se eleva un cuerpo desde la superficie de la Tierra hasta una cierta altura $h\ll R_\mathrm T$, de forma que el campo gravitatorio puede considerarse constante.
+
+---
+
+La variación de energía potencial gravitatoria viene dada por:
+$$
+\Delta E_\mathrm p = GM_\mathrm Tm\left(\frac{1}{R_\mathrm T}-\frac{1}{R_\mathrm T + h}\right) = GM_\mathrm Tm\frac{h}{R_\mathrm T\left(R_\mathrm T+h\right)}
+$$
+
+Imponiendo $h\ll R_\mathrm T \rightarrow R_\mathrm T+h \approx R_\mathrm T$ y con $g_0 = GM_\mathrm T/R_\mathrm T^2$:
+$$
+\Delta E_\mathrm p \approx GM_\mathrm T m \frac{h}{R_\mathrm T^2} = m g_0 h
+$$
+
+---
+
 ### Trabajo realizado por la fuerza gravitatoria
 
 Cuando una masa $m$ se mueve libremente dentro de un campo gravitatorio, se realiza un trabajo $W_{1\rightarrow 2}$ tal que:
@@ -566,8 +584,8 @@ W<0 & \text{La masa $m$ se aleja de $M$ (proceso no espontáneo, se requiere una
 
 Existen dos maneras de representar el campo gravitatorio:
 
-- [Líneas de campo](#/5/20)
-- [Superficies equipotenciales](#/5/21)
+- [Líneas de campo](#/5/22)
+- [Superficies equipotenciales](#/5/23)
 
 (continúa hacia abajo)
 
@@ -719,9 +737,9 @@ $$
 
 #### ¿Cómo se clasifican las órbitas de los satélites que giran en torno a la Tierra?
 
-- [En función de la latitud](#/5/41)
-- [En función de su forma](#/5/42)
-- [En función de la altura sobre la superficie](#/5/43)
+- [En función de la latitud](#/5/43)
+- [En función de su forma](#/5/44)
+- [En función de la altura sobre la superficie](#/5/45)
 
 (continúa hacia abajo)
 

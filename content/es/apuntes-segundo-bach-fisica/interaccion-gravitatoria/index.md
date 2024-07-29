@@ -344,6 +344,20 @@ E_\mathrm p = mV = -\frac{GMm}{r}
 \]
 El signo $-$ indica que la masa está ligada al campo gravitatorio (si $E_\mathrm p > 0$ estaría fuera del campo).
 
+{{< spoiler text="Pero entonces, ¿por qué en cursos anteriores $E_\mathrm p = mgh$?" >}}
+
+Esta expresión representa la variación de energía potencial cuando se eleva un cuerpo desde la superficie de la Tierra hasta una cierta altura $h\ll R_\mathrm T$, de forma que el campo gravitatorio puede considerarse constante. La variación de energía potencial gravitatoria viene dada por:
+$$
+\Delta E_\mathrm p = GM_\mathrm Tm\left(\frac{1}{R_\mathrm T}-\frac{1}{R_\mathrm T + h}\right) = GM_\mathrm Tm\frac{h}{R_\mathrm T\left(R_\mathrm T+h\right)}
+$$
+
+Imponiendo $h\ll R_\mathrm T \rightarrow R_\mathrm T+h \approx R_\mathrm T$ y con $g_0 = GM_\mathrm T/R_\mathrm T^2$:
+$$
+\Delta E_\mathrm p \approx GM_\mathrm T m \frac{h}{R_\mathrm T^2} = m g_0 h
+$$
+
+{{< /spoiler >}}
+
 ### Trabajo realizado por la fuerza gravitatoria
 
 Cuando una masa $m$ se mueve libremente dentro de un campo gravitatorio, se realiza un trabajo $W_{1\rightarrow 2}$ tal que:
