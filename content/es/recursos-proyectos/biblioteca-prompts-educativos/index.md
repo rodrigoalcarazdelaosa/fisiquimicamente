@@ -5,7 +5,7 @@ summary: "Gran cantidad de prompts educativos muy cuidados."
 tags:
 - IA
 categories:
-weight: 40
+weight: 50
 
 image:
   preview_only: true

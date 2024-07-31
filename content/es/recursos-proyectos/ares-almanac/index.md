@@ -5,7 +5,7 @@ summary: "Mantente al día con las **últimas herramientas** de **IA** gracias a
 tags:
 - IA
 categories:
-weight: 60
+weight: 70
 
 image:
   preview_only: true

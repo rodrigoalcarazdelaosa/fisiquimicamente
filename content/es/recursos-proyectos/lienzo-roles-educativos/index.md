@@ -5,7 +5,7 @@ summary: "Propuesta de 12 estrategias prácticas para un uso efectivo de la IA c
 tags:
 - IA
 categories:
-weight: 50
+weight: 60
 
 image:
   preview_only: true
