@@ -24,12 +24,12 @@ links:
 # icon: download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
-  
+
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: fuerzas-poster.pdf
-  
+
 slides: fuerzas-2ESO
 
 math: true
@@ -66,7 +66,7 @@ $$
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario.
 
 {{% callout note %}}
-Durante su estancia a bordo de la [**ISS**](https://es.wikipedia.org/wiki/Estación_Espacial_Internacional), el ex ministro de Ciencia e Innovación de España, [**Pedro Duque**](https://es.wikipedia.org/wiki/Pedro_Duque), fue filmado realizando demostraciones en las que explicaba las **tres leyes del movimiento de Newton**: 
+Durante su estancia a bordo de la [**ISS**](https://es.wikipedia.org/wiki/Estación_Espacial_Internacional), el ex ministro de Ciencia e Innovación de España, [**Pedro Duque**](https://es.wikipedia.org/wiki/Pedro_Duque), fue filmado realizando demostraciones en las que explicaba las **tres leyes del movimiento de Newton**:
 
 {{< youtube xO70CCH68t8 >}}
 {{% /callout %}}
@@ -95,7 +95,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube YQCM7ayoOr4 >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1GhSAU8jutcdpTqWXaXcn9JFY1wRUR5KI/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1GhSAU8jutcdpTqWXaXcn9JFY1wRUR5KI/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
 
 ## Máquinas simples
@@ -176,8 +176,8 @@ siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
 | Saturno &#9796; | 1.07 | 10.4 |
 | Tierra &#9793; | 1 | 9.8 |
 | Venus &#9792; | 0.90 | 8.9 |
-| Urano &#9797; | 0.89 | 8.7 |	
-| Marte &#9794; | 0.38 | 3.7 |						
+| Urano &#9797; | 0.89 | 8.7 |
+| Marte &#9794; | 0.38 | 3.7 |
 | Mercurio &#9791; | 0.38 | 3.7 |
 | Luna :crescent_moon: | 0.17 | 1.6 |
 
@@ -273,7 +273,7 @@ Materiales *magnetizados*.
 Demostró que las **corrientes eléctricas crean campos magnéticos**.
 
 #### Experiencia de Faraday-Henry
-{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. Fuente: https://www.chegg.com/learn/topic/faradays-experiment." lightbox="false" width="100%" >}}
+{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. Adaptada de https://www.chegg.com/learn/topic/faradays-experiment." lightbox="false" width="100%" >}}
 
 Demostró que los **campos magnéticos pueden crear corrientes eléctricas**. Puedes aprender más *jugando* con esta **simulación**:
 

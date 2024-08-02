@@ -252,7 +252,7 @@ Este capítulo nos recuerda la **experiencia** de **Ørsted**, que demostró que
 
 En este caso se nos presenta la **experiencia** de **Faraday-Henry**, que demostró que los **campos magnéticos pueden crear corrientes eléctricas**:
 
-{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. Fuente: https://www.chegg.com/learn/topic/faradays-experiment." lightbox="false" width="100%" >}}
+{{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="Al acercar un imán a una espira en esta se origina una corriente que invierte su sentido cuando el imán se aleja. Adaptada de https://www.chegg.com/learn/topic/faradays-experiment." lightbox="false" width="100%" >}}
 
 Puedes aprender más *jugando* con esta **simulación**:
 
