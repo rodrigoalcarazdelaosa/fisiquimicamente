@@ -27,7 +27,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: leyes-fundamentales-quimica-poster.pdf
 - icon_pack: fas
@@ -37,7 +37,7 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes
-  url: leyes-fundamentales-quimica-frikiexamenes.pdf  
+  url: leyes-fundamentales-quimica-frikiexamenes.pdf
 
 slides: leyes-fundamentales-quimica-1Bach
 
@@ -53,7 +53,7 @@ math: true
 ## Ley de conservación de la masa
 
 También **ley de Lomonósov-Lavoisier**, ya que fue enunciada independientemente por Mijaíl Lomonósov en 1748 y por Antoine Lavoisier en 1785:
-		
+
 > En un sistema aislado, durante toda reacción química ordinaria, la masa total en el sistema permanece constante, es decir, la masa consumida de los reactivos es igual a la masa de los productos obtenidos.
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano.svg" title="Reacción de **combustión** del **metano**, donde cuatro átomos de hidrógeno, cuatro átomos de oxígeno y uno de carbono están presentes antes y después de la reacción. La masa total después de la reacción es la misma que antes de la reacción. Adaptada de https://commons.wikimedia.org/wiki/File:Methane-combustion.svg." lightbox="false" width="100%" >}}
@@ -64,9 +64,9 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube A9D4ARMV0WM >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1vbY3zlpiMDH-RMqIduKnndgPNttzQJfh/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1vbY3zlpiMDH-RMqIduKnndgPNttzQJfh/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
-	
+
 ## Ley de las proporciones definidas o ley de Proust
 
 Enunciada por Louis Proust en 1799:
@@ -81,9 +81,9 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube fPAMzYfUUds >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1amvrMuqu1OUXAC5njaDNjv5WIOq4Vd1v/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1amvrMuqu1OUXAC5njaDNjv5WIOq4Vd1v/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
-	
+
 ## Ley de las proporciones múltiples o ley de Dalton
 
 Enunciada por John Dalton en 1803:
@@ -93,7 +93,7 @@ Enunciada por John Dalton en 1803:
 {{< figure library="true" src="leyes-fundamentales-quimica-1Bach/ley-proporciones-multiples.svg" title="El carbono puede formar dos compuestos diferentes con el oxígeno. Adaptada de https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Introductory_Chemistry_(CK-12)/04%3A_Atomic_Structure/4.03%3A_Law_of_Multiple_Proportions." lightbox="false" width="100%" >}}
 
 ## Ley de los volúmenes de combinación o ley de Gay-Lussac
-		
+
 Enunciada por Gay-Lussac en 1808:
 
 > Cuando los gases se combinan a temperatura y presión constantes, los volúmenes implicados están siempre en la relación de números enteros simples.
@@ -106,13 +106,13 @@ Tras introducir el concepto de **molécula** como la partícula integrante de lo
 
 ### Mol
 
-Tras la [última redefinición del Sistema Internacional (SI)]({{< relref "/post/actualizacion-unidades" >}}), el **mol** se define como:
+Tras la [última redefinición del Sistema Internacional (SI)]({{< relref "/post/actualizacion-unidades-SI" >}}), el **mol** se define como:
 
 > La [cantidad de sustancia]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#8-cantidad-de-sustancia" >}}) de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales (átomos, moléculas, iones, electrones, etc.) especificadas.
-			
+
 ## Gases ideales
 
-{{< figure library="true" src="leyes-fundamentales-quimica-1Bach/ley-gases-ideales.svg" title="Relación entre las leyes de Boyle, Charles, Gay-Lussac, Avogadro, combinada e ideal, donde $k_\mathrm B = R/N_\mathrm A = nR/N$ es la constante de Boltzmann. En cada ley, las magnitudes resaltadas son variables, mientras que las otras se mantienen constantes. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Ideal_gas_law_relationships.svg." lightbox="false" width="100%" >}}			
+{{< figure library="true" src="leyes-fundamentales-quimica-1Bach/ley-gases-ideales.svg" title="Relación entre las leyes de Boyle, Charles, Gay-Lussac, Avogadro, combinada e ideal, donde $k_\mathrm B = R/N_\mathrm A = nR/N$ es la constante de Boltzmann. En cada ley, las magnitudes resaltadas son variables, mientras que las otras se mantienen constantes. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Ideal_gas_law_relationships.svg." lightbox="false" width="100%" >}}
 
 ### Densidad de un gas ideal
 
@@ -131,18 +131,18 @@ Te recomendamos ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube 9LApku_r5eg >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1Q16VZEKu5iUaK1f9rh5beBOoY1Y7TN77/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1Q16VZEKu5iUaK1f9rh5beBOoY1Y7TN77/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
 
 ### Ley de las presiones parciales o ley de Dalton
 
 Enunciada por John Dalton en 1802:
-		
+
 > En una mezcla de gases que no reaccionan, la presión total ejercida es igual a la suma de las presiones parciales que ejercerían los gases individuales si ocuparan ellos solos todo el volumen de la mezcla.
 
 $$
 p_\mathrm t = \sum_{i=1}^{n} p_i = p_1 + p_2 + p_3 + \dots + p_n,
-$$		
+$$
 donde $p_i$ representa la **presión parcial** del gas $i$:
 $$
 p_i = \chi_i\cdot p_\mathrm t,

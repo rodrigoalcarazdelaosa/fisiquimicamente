@@ -23,10 +23,10 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: materia-poster.pdf
-  
+
 slides: materia-2ESO-3ESO
 
 math: true
@@ -65,7 +65,7 @@ En el SI se mide en $\mathrm{m^3}$, aunque también se puede medir en L ($1\thin
 Las **propiedades específicas** o **características** de la materia son aquellas que nos permiten distinguir una sustancia de otra.
 
 ### Densidad
-La **densidad** $d$ de un objeto se define como la relación (cociente) entre su masa $m$ y su volumen $V$:		
+La **densidad** $d$ de un objeto se define como la relación (cociente) entre su masa $m$ y su volumen $V$:
 $$
 d = \frac{m}{V}
 $$
@@ -174,7 +174,7 @@ A partir de la expresión de la densidad, despejamos el volumen $V$:
 
 $$
 d = \frac{m}{V}\rightarrow V = \frac{m}{d} = \frac{0.390\thinspace\cancel{\mathrm{kg}}}{2390\thinspace\mathrm{\cancel{kg}/m^3}} = 1.632\times 10^{-4}\thinspace\mathrm{m^3} = 163.2\thinspace\mathrm{cm^3}
-$$	
+$$
 
 {{% /callout %}}
 
@@ -223,7 +223,7 @@ También puedes ver esta excelente **práctica virtual** del [Departamento de F�
 {{< youtube j1N81E1ys34 >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1Bycu4IzGGw0OgaXdV7oo5Cko5C4TWa4H/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1Bycu4IzGGw0OgaXdV7oo5Cko5C4TWa4H/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
 
 ## Modelo cinético-molecular
@@ -287,13 +287,13 @@ Expresa el número de gramos de soluto por cada litro de disolución:
 $$
 c\thinspace(\mathrm{g/L}) = \frac{m_\text{soluto}\thinspace (\mathrm{g})}{V_\text{disolución}\thinspace (\mathrm{L})}
 $$
-	
+
 ##### % en masa
 Expresa el número de gramos de soluto por cada $100\thinspace\mathrm g$ de disolución:
 $$
 c\thinspace(\\%\thinspace m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolvente}}\times 100
 $$
-	
+
 ##### % en volumen
 Expresa el número de litros de soluto por cada $100\thinspace\mathrm L$ de disolución:
 $$
@@ -304,7 +304,7 @@ $$
 
 Puedes aprender más con esta **simulación**, donde se expresa la concentración en mol/L, es decir, cuántos moles[^2] de soluto hay por cada litro de disolución:
 
-[^2]: El mol es la unidad de [cantidad de sustancia]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#8-cantidad-de-sustancia" >}}) en el SI. Se suele decir que el mol es *la docena del químico*, pues, al igual que una docena indica que tenemos 12 elementos, un mol indica que tenemos la constante de Avogadro ($6.02214076\times 10^{23}$) de elementos (puedes aprender más sobre cómo están definidas cada una de las unidades del SI [aquí]({{< ref "/post/actualizacion-unidades/index.md" >}})). 
+[^2]: El mol es la unidad de [cantidad de sustancia]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#8-cantidad-de-sustancia" >}}) en el SI. Se suele decir que el mol es *la docena del químico*, pues, al igual que una docena indica que tenemos 12 elementos, un mol indica que tenemos la constante de Avogadro ($6.02214076\times 10^{23}$) de elementos (puedes aprender más sobre cómo están definidas cada una de las unidades del SI [aquí]({{< ref "/post/actualizacion-unidades-SI/index.md" >}})).
 
 <iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 

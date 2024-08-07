@@ -121,7 +121,7 @@ Una **magnitud** es toda propiedad que se puede **medir**.
 
 #### Magnitudes básicas del SI
 | Magnitud | Unidad | Símbolo |
-| -------- | ------ | :-------: | 
+| -------- | ------ | :-------: |
 | Tiempo   | Segundo | s |
 | Longitud | Metro | m |
 | Masa | Kilogramo | kg |
@@ -132,7 +132,7 @@ Una **magnitud** es toda propiedad que se puede **medir**.
 
 ---
 
-> El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades/index.md" >}}).
+> El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades-SI/index.md" >}}).
 
 ---
 
@@ -179,10 +179,10 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 	30000000 &\rightarrow 3\times 10^7 \\\\
 	500 000 000 000 000 &\rightarrow 5\times 10^{14} \\\\
 	7 000 000 000 000 000 000 000 000 &\rightarrow 7\times 10^{24}
-\end{align*}	
+\end{align*}
 
 ---
-\begin{align*}	
+\begin{align*}
 	0.05 &\rightarrow 5\times 10^{-2} \\\\
 	0.052 &\rightarrow 5.2\times 10^{-2} \\\\
 	0.0004 &\rightarrow 4\times 10^{-4} \\\\
@@ -199,7 +199,7 @@ donde $1 \leq a<10$ y $b$ puede ser cualquier número entero (positivo o negativ
 
 Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
-{{% fragment %}} En el caso de unidades de superficie (volumen), los factores de conversión van elevados al cuadrado (cubo). {{% /fragment %}} 
+{{% fragment %}} En el caso de unidades de superficie (volumen), los factores de conversión van elevados al cuadrado (cubo). {{% /fragment %}}
 
 ---
 

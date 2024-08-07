@@ -36,7 +36,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 ## Ley de conservación de la masa
 
 También **ley de Lomonósov-Lavoisier**, ya que fue enunciada independientemente por Mijaíl Lomonósov en 1748 y por Antoine Lavoisier en 1785:
-		
+
 > En un sistema aislado, durante toda reacción química ordinaria, la masa total en el sistema permanece constante, es decir, la masa consumida de los reactivos es igual a la masa de los productos obtenidos.
 
 ---
@@ -48,7 +48,7 @@ También **ley de Lomonósov-Lavoisier**, ya que fue enunciada independientement
 ---
 
 {{% section %}}
-	
+
 ## Ley de las proporciones definidas o ley de Proust
 
 Enunciada por Louis Proust en 1799:
@@ -64,7 +64,7 @@ Enunciada por Louis Proust en 1799:
 ---
 
 {{% section %}}
-	
+
 ## Ley de las proporciones múltiples o ley de Dalton
 
 Enunciada por John Dalton en 1803:
@@ -82,7 +82,7 @@ Enunciada por John Dalton en 1803:
 {{% section %}}
 
 ## Ley de los volúmenes de combinación o ley de Gay-Lussac
-		
+
 Enunciada por Gay-Lussac en 1808:
 
 > Cuando los gases se combinan a temperatura y presión constantes, los volúmenes implicados están siempre en la relación de números enteros simples.
@@ -103,7 +103,7 @@ Tras introducir el concepto de **molécula** como la partícula integrante de lo
 
 ### Mol
 
-Tras la [última redefinición del Sistema Internacional (SI)]({{< relref "/post/actualizacion-unidades" >}}), el **mol** se define como:
+Tras la [última redefinición del Sistema Internacional (SI)]({{< relref "/post/actualizacion-unidades-SI" >}}), el **mol** se define como:
 
 > La [cantidad de sustancia]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#8-cantidad-de-sustancia" >}}) de un sistema que contiene $6.02214076\times 10^{23}$ entidades elementales (átomos, moléculas, iones, electrones, etc.) especificadas.
 
@@ -112,7 +112,7 @@ Tras la [última redefinición del Sistema Internacional (SI)]({{< relref "/post
 ---
 
 {{% section %}}
-			
+
 ## Gases ideales
 
 {{< figure library="true" src="leyes-fundamentales-quimica-1Bach/ley-gases-ideales.svg" lightbox="false" width="100%" >}}
@@ -135,14 +135,14 @@ donde $M$ es la masa molar del gas.
 ### Ley de las presiones parciales o ley de Dalton
 
 Enunciada por John Dalton en 1802:
-		
+
 > En una mezcla de gases que no reaccionan, la presión total ejercida es igual a la suma de las presiones parciales que ejercerían los gases individuales si ocuparan ellos solos todo el volumen de la mezcla.
 
 ---
 
 $$
 p_\mathrm t = \sum_{i=1}^{n} p_i = p_1 + p_2 + p_3 + \dots + p_n,
-$$		
+$$
 donde $p_i$ representa la **presión parcial** del gas $i$:
 $$
 p_i = \chi_i\cdot p_\mathrm t,

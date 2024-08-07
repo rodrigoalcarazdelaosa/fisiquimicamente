@@ -18,7 +18,7 @@ weight: 3
 external_link: ""
 
 image:
-  caption: Photo by [**Jen Theodore**](https://unsplash.com/@jentheodore) on [Unsplash](https://unsplash.com)
+  caption: https://commons.wikimedia.org/wiki/File:Metal_shavings_around_bar_magnet_(close-up).jpg
   focal_point: Smart
 
 # links:
@@ -26,7 +26,7 @@ image:
 #   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
-  
+
 # - icon_pack: fas
 #   icon:
 #   name: Póster

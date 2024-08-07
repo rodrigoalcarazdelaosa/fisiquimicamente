@@ -29,19 +29,19 @@ links:
 # icon: download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
-  
+
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: actividad-cientifica-poster.pdf
-  
+
 gallery_item:
 - album: pictogramas-peligro
   image: explos.png
   caption: <span style="font-variant:small-caps;">explosivo</span>
 - album: pictogramas-peligro
   image: flame.png
-  caption: <span style="font-variant:small-caps;">inflamable</span>  
+  caption: <span style="font-variant:small-caps;">inflamable</span>
 - album: pictogramas-peligro
   image: flame-O.png
   caption: <span style="font-variant:small-caps;">comburente</span>
@@ -62,7 +62,7 @@ gallery_item:
   caption: <span style="font-variant:small-caps;">peligro grave para la salud</span>
 - album: pictogramas-peligro
   image: aqpol.png
-  caption: <span style="font-variant:small-caps;">peligro para el medio ambiente</span>            
+  caption: <span style="font-variant:small-caps;">peligro para el medio ambiente</span>
 
 slides: "actividad-cientifica-2ESO-3ESO"
 
@@ -125,7 +125,7 @@ Puedes **aprender más** sobre **magnitudes**, **unidades** y **símbolos** de *
 El Sistema Internacional de Unidades (SI) define siete **magnitudes básicas**:
 
 | Magnitud | Unidad | Símbolo |
-| -------- | ------ | :-------: | 
+| -------- | ------ | :-------: |
 | Tiempo   | Segundo | s |
 | Longitud | Metro | m |
 | Masa | Kilogramo | kg |
@@ -135,7 +135,7 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes básicas**:
 | Intensidad luminosa | Candela | cd |
 
 {{% callout note %}}
-El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades/index.md" >}}).
+El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades-SI/index.md" >}}).
 
 {{< youtube nqxHnu4LJ6k >}}
 {{% /callout %}}

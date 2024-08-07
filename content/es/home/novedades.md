@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Campo eléctrico | Física 2.º Bach
-      url: 'recursos-fisica-quimica/apuntes/2bach/fisica/campo-electrico/'
+      text: Campo magnético | Física 2.º Bach
+      url: 'recursos-fisica-quimica/apuntes/2bach/fisica/campo-magnetico/'
   - title: 🗞️ Novedades
     content: '🗒️ Última actividad'
     align: center

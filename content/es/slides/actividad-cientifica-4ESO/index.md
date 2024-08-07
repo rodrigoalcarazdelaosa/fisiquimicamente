@@ -203,7 +203,7 @@ El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes bás
 ---
 
 | Magnitud | Unidad | Símbolo |
-| -------- | ------ | :-------: | 
+| -------- | ------ | :-------: |
 | Tiempo   | Segundo | s |
 | Longitud | Metro | m |
 | Masa | Kilogramo | kg |
@@ -214,7 +214,7 @@ El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes bás
 
 ---
 
-> El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades/index.md" >}}).
+> El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades-SI/index.md" >}}).
 
 ---
 
@@ -227,7 +227,7 @@ Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes bási
 
 ---
 
-#### Ejemplos		
+#### Ejemplos
 Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
 
 ---
@@ -282,14 +282,14 @@ y la energía potencial gravitatoria,
 $$
 E_\mathrm p = mgh,
 $$
-tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.</q>		
+tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.</q>
 
 ---
 
 Analizamos las **dimensiones** de la **energía cinética** $E_\mathrm c$:
 
 $$
-\left[E_\mathrm c\right] = 
+\left[E_\mathrm c\right] =
 \left[\frac{1}{2}mv^2\right] = \left[m\right]\cdot \left[v^2\right] = \mathsf{M}\cdot \left[v\right]^2,
 $$
 

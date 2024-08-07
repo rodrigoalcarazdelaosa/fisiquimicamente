@@ -2,7 +2,7 @@
 title: Campo eléctrico
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/campo-electrico"
 subtitle: Naturaleza eléctrica de la materia, electrostática, ley de Coulomb, campo eléctrico y movimiento de cargas
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Naturaleza eléctrica de la materia, electrostática, ley de Coulomb, campo eléctrico y movimiento de cargas."
+summary: "Naturaleza eléctrica de la materia, electrostática, ley de Coulomb, campo eléctrico y movimiento de cargas."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - marta-rada-arias

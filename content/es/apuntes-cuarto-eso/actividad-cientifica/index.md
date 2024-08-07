@@ -28,14 +28,14 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: actividad-cientifica-poster.pdf
 - icon_pack: fas
   icon:
   name: 🔠 Tablas magnitudes y unidades
-  url: tablas-magnitudes-unidades.pdf  
-  
+  url: tablas-magnitudes-unidades.pdf
+
 slides: actividad-cientifica-4ESO
 
 math: true
@@ -130,7 +130,7 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes básicas**:
 
 | Magnitud | Unidad | Símbolo |
-| -------- | ------ | :-------: | 
+| -------- | ------ | :-------: |
 | Tiempo   | Segundo | s |
 | Longitud | Metro | m |
 | Masa | Kilogramo | kg |
@@ -140,7 +140,7 @@ El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes bás
 | Intensidad luminosa | Candela | cd |
 
 {{% callout note %}}
-El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades/index.md" >}}).
+El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades-SI/index.md" >}}).
 
 {{< youtube nqxHnu4LJ6k >}}
 {{% /callout %}}
@@ -148,7 +148,7 @@ El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018.
 ### Magnitudes derivadas
 Las **magnitudes derivadas** se obtienen a partir de dos o más magnitudes básicas.
 
-#### Ejemplos		
+#### Ejemplos
 Superficie, volumen, densidad, velocidad, aceleración, fuerza, presión, energía...
 
 {{% callout note %}}
@@ -188,14 +188,14 @@ y la energía potencial gravitatoria,
 $$
 E_\mathrm p = mgh,
 $$
-tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.	Utiliza el resultado para definir la unidad de energía en el SI, el julio (J), en función de las unidades de masa, longitud y tiempo del SI.		
+tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.	Utiliza el resultado para definir la unidad de energía en el SI, el julio (J), en función de las unidades de masa, longitud y tiempo del SI.
 
 ---
 
 Analizamos las **dimensiones** de la **energía cinética** $E_\mathrm c$:
 
 $$
-\left[E_\mathrm c\right] = 
+\left[E_\mathrm c\right] =
 \left[\frac{1}{2}mv^2\right] = \left[m\right]\cdot \left[v^2\right] = \mathsf{M}\cdot \left[v\right]^2,
 $$
 

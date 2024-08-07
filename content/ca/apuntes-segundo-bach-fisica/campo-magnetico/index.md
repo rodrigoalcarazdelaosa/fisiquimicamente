@@ -22,7 +22,7 @@ weight: 3
 external_link: ""
 
 image:
-  caption: Foto de [**Jen Theodore**](https://unsplash.com/@jentheodore) en [Unsplash](https://unsplash.com)
+  caption: https://commons.wikimedia.org/wiki/File:Metal_shavings_around_bar_magnet_(close-up).jpg
   focal_point: Smart
 
 links:
@@ -30,12 +30,12 @@ links:
   icon:
   name: ✏️ Exercicis
   url: camp-magnetic-exercicis.pdf
-  
+
 # - icon_pack: fas
 #   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
-  
+
 # - icon_pack: fas
 #   icon:
 #   name: Póster
