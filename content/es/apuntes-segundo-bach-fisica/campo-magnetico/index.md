@@ -460,7 +460,7 @@ Si integramos a todo el hilo obtendremos la $\vec F_\mathrm m$ total que se ejer
 
 ### Hilo conductor rectilíneo
 
-{{< figure library="true" src="campo-magnetico-2Bach-fisica/ley-laplace.svg" title="Adaptada de https://tikz.net/magnetic_force_current/." lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="campo-magnetico-2Bach-fisica/ley-Laplace.svg" title="Adaptada de https://tikz.net/magnetic_force_current/." lightbox="false" width="100%" theme="light" >}}
 
 $$
 \vec F_\mathrm m = \int_L I\mathrm d \vec \ell\times\vec B = I\vec L\times\vec B,
