@@ -215,7 +215,7 @@ Si integramos la ley de Biot y Savart a la corriente completa, se obtiene el cam
 Vamos a aplicarlo a dos casos concretos:
 
 - [Campo creado por un hilo conductor infinito](#/2/6)
-- [Campo creado por una espira de corriente en su eje](#/2/15)
+- [Campo creado por una espira de corriente en su eje](#/2/17)
 
 (continúa hacia abajo)
 
@@ -704,10 +704,10 @@ Si integramos a todo el hilo obtendremos la $\vec F_\mathrm m$ total que se ejer
 
 ---
 
-Lo aplicaremos a dos casos
+Lo aplicaremos a dos casos:
 
 - [Hilo conductor rectilíneo](#/6/5)
-- [Espira de corriente]()
+- Espira de corriente
 
 (continúa hacia abajo)
 
