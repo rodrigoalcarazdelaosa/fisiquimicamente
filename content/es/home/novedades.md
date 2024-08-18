@@ -130,6 +130,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Esto es Física"
-      url: 'blog/2024/06/13/esto-es-fisica/'
+      text: "Las diez tecnologías emergentes más importantes en Química en 2023"
+      url: 'blog/2024/08/18/las-diez-tecnologias-emergentes-mas-importantes-en-quimica/'
 ---

@@ -3,7 +3,7 @@ title: Las diez tecnologías emergentes más importantes en Química
 subtitle: Según la IUPAC
 summary: "Las diez tecnologías emergentes más importantes en Química según la IUPAC."
 breadcrumbs: ["blog"]
-date: "2023-02-15T00:00:00Z"
+date: "2024-08-18T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -23,6 +23,27 @@ image:
 El objetivo del proyecto de la [**IUPAC**](https://es.wikipedia.org/wiki/Unión_Internacional_de_Qu%C3%ADmica_Pura_y_Aplicada) de las [**Diez Tecnologías Emergentes Más Importantes en Química**](https://iupac.org/what-we-do/top-ten/) es mostrar el valor de la Química e informar al público en general de cómo las ciencias químicas contribuyen al bienestar de la sociedad y a la sostenibilidad del Planeta Tierra.
 
 Desde 2019, el Jurado selecciona las tecnologías emergentes sobre la base de las que se encuentran entre un nuevo descubrimiento científico y una tecnología plenamente comercializada, y las que tienen la mayor capacidad de abrir nuevas oportunidades en la química y más allá.
+
+## 2023
+
+{{< figure src="2023.png" title="https://iupac.org/iupac-2023-top-ten/" lightbox="true" >}}
+
+Las **tecnologías finalistas** de **2023** fueron (en orden alfabético):
+
+- [Despolimerización](https://es.wikipedia.org/wiki/Despolimerización)
+- [Electroquímica](https://es.wikipedia.org/wiki/Electroquímica) sintética
+- [Eliminación de CO<sub>2</sub>](https://es.wikipedia.org/wiki/Extracción_de_dióxido_de_carbono) oceánico mediada por cloruros
+- [Fagoterapia](https://es.wikipedia.org/wiki/Fagoterapia)
+- Hidrógeno [fotocatalítico](https://es.wikipedia.org/wiki/Fotocatálisis)
+- [Modelos de lenguaje GPT](https://es.wikipedia.org/wiki/Modelo_de_lenguaje_grande) en química
+- [Músculos artificiales](https://en.wikipedia.org/wiki/Artificial_muscle)
+- Reciclado biológico del [PET](https://es.wikipedia.org/wiki/Tereftalato_de_polietileno)
+- Sensores [*vestibles*](https://es.wikipedia.org/wiki/Tecnología_vestible)
+- Vacunación baja en azúcar
+
+{{% callout note %}}
+Más información en el [magnífico **artículo** de **Fernando Gomollón-Bel** publicado en **Chemistry Science**](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc06815c).
+{{% /callout %}}
 
 ## 2022
 
