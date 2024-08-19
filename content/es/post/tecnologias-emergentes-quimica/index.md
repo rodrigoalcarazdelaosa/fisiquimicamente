@@ -42,7 +42,7 @@ Las **tecnologías finalistas** de **2023** fueron (en orden alfabético):
 - Vacunación baja en azúcar
 
 {{% callout note %}}
-Más información en el [magnífico **artículo** de **Fernando Gomollón-Bel** publicado en **Chemistry Science**](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d3sc06815c).
+Más información en el [magnífico **artículo** de **Fernando Gomollón-Bel** publicado en **Chemistry International**](https://www.degruyter.com/document/doi/10.1515/ci-2023-0403/html).
 {{% /callout %}}
 
 ## 2022
