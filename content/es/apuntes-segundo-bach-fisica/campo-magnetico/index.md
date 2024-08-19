@@ -60,7 +60,11 @@ math: true
 
 {{% toc %}}
 
-El [**campo magnético**](https://es.wikipedia.org/wiki/Campo_magnético) es una **perturbación** en el **espacio** producida por la **presencia** de [**corrientes eléctricas**](https://es.wikipedia.org/wiki/Corriente_eléctrica). Se trata de una [**magnitud vectorial**](https://es.wikipedia.org/wiki/Vector) definida en cada punto del espacio perturbado. Se denota por $\vec B$ y su **unidad** en el **SI** es el [**tesla** (T)](https://es.wikipedia.org/wiki/Tesla_(unidad)).
+El [**campo magnético**](https://es.wikipedia.org/wiki/Campo_magnético) es una **perturbación** en el **espacio** producida por la **presencia** de [**corrientes eléctricas**](https://es.wikipedia.org/wiki/Corriente_eléctrica). Se trata de una [**magnitud vectorial**](https://es.wikipedia.org/wiki/Vector) definida en cada punto del espacio perturbado. Se denota por $\vec B$ y su **unidad** en el **SI** es el [**tesla** (T)](https://es.wikipedia.org/wiki/Tesla_(unidad)), equivalente a V&thinsp;s/m^2^.
+
+{{% callout note %}}
+El tesla es una unidad muy *grande*, por lo que en ocasiones se utiliza también el [gauss (G)](https://es.wikipedia.org/wiki/Gauss_(unidad)), cuya equivalencia es: 1&thinsp;T = 10^4^&thinsp;G.
+{{% /callout %}}
 
 ## Introducción
 
@@ -123,7 +127,9 @@ Todos estos hechos pusieron de manifiesto la íntima relación entre la electric
 
 ### Magnetismo
 
-Posteriormente, [**Ampère**](https://es.wikipedia.org/wiki/André-Marie_Ampère) sentó las bases del [**magnetismo**](https://es.wikipedia.org/wiki/Magnetismo), proponiendo un modelo según el cual la fuente del campo magnético no son los imanes, sino las corrientes eléctricas. Según su teoría, el magnetismo de los imanes se debe a la existencia de pequeñas corrientes eléctricas a escala atómica, debidas al movimiento de electrones. Estas corrientes están orientadas de forma que sus efectos se suman ([ferromagnetismo](https://es.wikipedia.org/wiki/Ferromagnetismo)) o se cancelan ([diamagnetismo](https://es.wikipedia.org/wiki/Diamagnetismo)) (en los materiales [paramagnéticos](https://es.wikipedia.org/wiki/Paramagnetismo) los [dipolos](https://es.wikipedia.org/wiki/Dipolo_magnético) solo se alinean si existe un campo externo).
+Posteriormente, [**Ampère**](https://es.wikipedia.org/wiki/André-Marie_Ampère) sentó las bases del [**magnetismo**](https://es.wikipedia.org/wiki/Magnetismo), proponiendo un modelo según el cual la fuente del campo magnético no son los imanes, sino las corrientes eléctricas. Según su teoría, el magnetismo de los imanes se debe a la existencia de pequeñas corrientes eléctricas a escala atómica, debidas al movimiento de electrones[^1]. Estas corrientes están orientadas de forma que sus efectos se suman ([ferromagnetismo](https://es.wikipedia.org/wiki/Ferromagnetismo)) o se cancelan ([diamagnetismo](https://es.wikipedia.org/wiki/Diamagnetismo)) (en los materiales [paramagnéticos](https://es.wikipedia.org/wiki/Paramagnetismo) los [dipolos](https://es.wikipedia.org/wiki/Dipolo_magnético) solo se alinean si existe un campo externo).
+
+[^1]: Hoy sabemos que el magnetismo de los imanes es debido principalmente al [momento magnético de espín](https://es.wikipedia.org/wiki/Momento_magnético#Momento_magnético_de_espín) de los electrones, además de su propio movimiento como postuló Ampère.
 
 {{< figure library="true" src="campo-magnetico-2Bach-fisica/magnetizacion.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -308,9 +314,9 @@ Según la ley de Ampère:
 $$
 BL = \mu NI \rightarrow B = \mu NI/L = \mu nI,
 $$
-con $n = N/L$ el número de espiras por unidad de longitud. Así, el campo magnético generado por un solenoide en su interior[^1]:
+con $n = N/L$ el número de espiras por unidad de longitud. Así, el campo magnético generado por un solenoide en su interior[^2]:
 
-[^1]: Esto solo es válido en su centro.
+[^2]: Esto solo es válido en su centro.
   {{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/0d/VFPt_Solenoid_correct2.svg" title="https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg" lightbox="false" width="100%" theme="dark" >}}
 
 - Es **uniforme** y su módulo $B = \mu nI$.
@@ -526,9 +532,9 @@ $$
 $$
 {{< /math >}}
 
-Las **corrientes se atraen**[^2] con una fuerza por unidad de longitud (N/m):
+Las **corrientes se atraen**[^3] con una fuerza por unidad de longitud (N/m):
 
-[^2]: **Se repelen** si circulan en **sentidos opuestos**.
+[^3]: **Se repelen** si circulan en **sentidos opuestos**.
 
 $$
 \frac{F}{L} = \frac{\mu I_1 I_2}{2\pi d},

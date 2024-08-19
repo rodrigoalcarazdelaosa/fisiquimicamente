@@ -29,7 +29,9 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ---
 
-El [**campo magnético**](https://es.wikipedia.org/wiki/Campo_magnético) es una **perturbación** en el **espacio** producida por la **presencia** de [**corrientes eléctricas**](https://es.wikipedia.org/wiki/Corriente_eléctrica). Se trata de una [**magnitud vectorial**](https://es.wikipedia.org/wiki/Vector) definida en cada punto del espacio perturbado. Se denota por $\vec B$ y su **unidad** en el **SI** es el [**tesla** (T)](https://es.wikipedia.org/wiki/Tesla_(unidad)).
+El [**campo magnético**](https://es.wikipedia.org/wiki/Campo_magnético) es una **perturbación** en el **espacio** producida por la **presencia** de [**corrientes eléctricas**](https://es.wikipedia.org/wiki/Corriente_eléctrica). Se trata de una [**magnitud vectorial**](https://es.wikipedia.org/wiki/Vector) definida en cada punto del espacio perturbado. Se denota por $\vec B$ y su **unidad** en el **SI** es el [**tesla** (T)](https://es.wikipedia.org/wiki/Tesla_(unidad)), equivalente a V&thinsp;s/m^2^.
+
+> El tesla es una unidad muy *grande*, por lo que en ocasiones se utiliza también el [gauss (G)](https://es.wikipedia.org/wiki/Gauss_(unidad)), cuya equivalencia es: 1&thinsp;T = 10^4^&thinsp;G.
 
 </section>
 
