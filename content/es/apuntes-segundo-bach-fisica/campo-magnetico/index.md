@@ -127,11 +127,13 @@ Todos estos hechos pusieron de manifiesto la íntima relación entre la electric
 
 ### Magnetismo
 
-Posteriormente, [**Ampère**](https://es.wikipedia.org/wiki/André-Marie_Ampère) sentó las bases del [**magnetismo**](https://es.wikipedia.org/wiki/Magnetismo), proponiendo un modelo según el cual la fuente del campo magnético no son los imanes, sino las corrientes eléctricas. Según su teoría, el magnetismo de los imanes se debe a la existencia de pequeñas corrientes eléctricas a escala atómica, debidas al movimiento de electrones[^1]. Estas corrientes están orientadas de forma que sus efectos se suman ([ferromagnetismo](https://es.wikipedia.org/wiki/Ferromagnetismo)) o se cancelan ([diamagnetismo](https://es.wikipedia.org/wiki/Diamagnetismo)) (en los materiales [paramagnéticos](https://es.wikipedia.org/wiki/Paramagnetismo) los [dipolos](https://es.wikipedia.org/wiki/Dipolo_magnético) solo se alinean si existe un campo externo).
-
-[^1]: Hoy sabemos que el magnetismo de los imanes es debido principalmente al [momento magnético de espín](https://es.wikipedia.org/wiki/Momento_magnético#Momento_magnético_de_espín) de los electrones, además de su propio movimiento como postuló Ampère.
+Posteriormente, [**Ampère**](https://es.wikipedia.org/wiki/André-Marie_Ampère) sentó las bases del [**magnetismo**](https://es.wikipedia.org/wiki/Magnetismo), proponiendo un modelo según el cual las fuentes del campo magnético no son los imanes, sino las corrientes eléctricas. Según su teoría, el magnetismo de los imanes se debe a la existencia de pequeñas corrientes eléctricas a escala atómica, debidas al movimiento de electrones. Estas corrientes están orientadas de forma que sus efectos se suman ([ferromagnetismo](https://es.wikipedia.org/wiki/Ferromagnetismo)) o se cancelan ([diamagnetismo](https://es.wikipedia.org/wiki/Diamagnetismo)) (en los materiales [paramagnéticos](https://es.wikipedia.org/wiki/Paramagnetismo) los [dipolos](https://es.wikipedia.org/wiki/Dipolo_magnético) solo se alinean si existe un campo externo).
 
 {{< figure library="true" src="campo-magnetico-2Bach-fisica/magnetizacion.svg" lightbox="false" width="100%" theme="light" >}}
+
+{{% callout note %}}
+Hoy sabemos que el magnetismo de los imanes es debido principalmente al [**momento magnético de espín**](https://es.wikipedia.org/wiki/Momento_magnético#Momento_magnético_de_espín) de los electrones, además de su propio movimiento como postuló Ampère.
+{{% /callout %}}
 
 ## Campo magnético generado por una corriente eléctrica: ley de Biot y Savart
 
