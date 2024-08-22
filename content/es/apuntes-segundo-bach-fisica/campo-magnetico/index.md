@@ -488,10 +488,10 @@ Si integramos a todo el hilo obtendremos la $\vec F_\mathrm m$ total que se ejer
 {{< figure library="true" src="campo-magnetico-2Bach-fisica/ley-Laplace.svg" title="Adaptada de https://tikz.net/magnetic_force_current/." lightbox="false" width="100%" theme="light" >}}
 
 $$
-\vec F_\mathrm m = \int_L I\mathrm d \vec \ell\times\vec B = I\vec L\times\vec B,
+\vec F_\mathrm m = I\vec L\times\vec B,
 $$
 
-donde $\vec L = \int_L\mathrm d \vec \ell$ es un vector que tiene la misma dirección que el hilo y su sentido es el de la corriente.
+donde $\vec L$ es un vector que tiene la misma dirección que el hilo y su sentido es el de la corriente.
 
 Módulo
 : $F_\mathrm m = ILB\sin\theta$
