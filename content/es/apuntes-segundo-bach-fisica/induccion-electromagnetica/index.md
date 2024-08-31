@@ -54,7 +54,7 @@ En este tema estudiaremos este fenómeno conocido como [**inducción electromagn
 ### 1ª experiencia
 Se dispone de una espira conectada a un [galvanómetro](https://es.wikipedia.org/wiki/Galvanómetro) (dispositivo que mide, en este caso, el paso de corriente eléctrica *I*). Se observa que si se aleja o se acerca un imán a la espira se produce en ella una corriente inducida, cuyo sentido depende del polo del imán que se emplee y si este se acerca o se aleja de la espira.
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/experiencia-1-faraday.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/experiencia-1-faraday.svg" lightbox="false" width="100%" >}}
 
 ### 2ª experiencia
 Emplea un montaje similar sustituyendo la espira por un [solenoide](https://es.wikipedia.org/wiki/Solenoide). Se observa lo mismo pero de forma más acusada (resulta más fácil medir la *I* inducida en el solenoide).
@@ -62,17 +62,17 @@ Emplea un montaje similar sustituyendo la espira por un [solenoide](https://es.w
 ### 3ª experiencia
 Se dispone de un solenoide conectado a una fuente con un interruptor. Paralelo a él hay otro solenoide conectado a un galvanómetro.
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/experiencia-3-faraday.svg" title="Al abrir y cerrar el interruptor del primer circuito se genera de forma instantánea una corriente inducida en el segundo circuito, la cual aparece únicamente en el instante en el que se abre o se cierra el interruptor; si permanece abierto o cerrado no se detecta corriente inducida. Adaptada de https://commons.wikimedia.org/wiki/File:Induction-by-a-changing-magnetic-field.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/experiencia-3-faraday.svg" title="Al abrir y cerrar el interruptor del primer circuito se genera de forma instantánea una corriente inducida en el segundo circuito, la cual aparece únicamente en el instante en el que se abre o se cierra el interruptor; si permanece abierto o cerrado no se detecta corriente inducida. Adaptada de https://commons.wikimedia.org/wiki/File:Induction-by-a-changing-magnetic-field.svg." lightbox="false" width="100%" >}}
 
 ## Experiencia de Henry
 
 Henry descubrió que, cuando un conductor se movía perpendicularmente a un campo magnético, entre sus extremos aparecía una diferencia de potencial. Si el condcutor forma parte de un circuito, en él aparece una corriente inducida.
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/experiencia-henry.svg" title="Adaptada de http://physics-schooluk.com/magnetism_motor_effect.html." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/experiencia-henry.svg" title="Adaptada de http://physics-schooluk.com/magnetism_motor_effect.html." lightbox="false" width="100%" >}}
 
 Existen otras muchas experiencias de inducción electromagnética. Por ejemplo, para generar [**corrientes alternas**](https://es.wikipedia.org/wiki/Corriente_alterna) (aquellas cuyo sentido de circulación es variable), se utiliza:
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/motor-ac.svg" title="Se hace girar una espira (o solenoide) que se encuentra en un campo magnético uniforme y se observa que, al girar, aparece una corriente inducida cuyo sentido varía cada media vuelta. Adaptada de https://www.nagwa.com/en/explainers/357172034271/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/motor-ac.svg" title="Se hace girar una espira (o solenoide) que se encuentra en un campo magnético uniforme y se observa que, al girar, aparece una corriente inducida cuyo sentido varía cada media vuelta. Adaptada de https://www.nagwa.com/en/explainers/357172034271/." lightbox="false" width="100%" >}}
 
 ## Flujo magnético
 
@@ -84,7 +84,7 @@ $$
 
 donde $\mathrm d \vec S$ es el vector superficie cuya dirección es perpendicular a la superficie y cuyo sentido es hacia afuera, $\vec B$ es el campo magnético, $\theta$ es el ángulo entre $\vec B$ y $\mathrm d \vec S$. Su **unidad** en el **SI** es el [**weber**](https://es.wikipedia.org/wiki/Weber_(unidad)) (Wb&thinsp;≡&thinsp;V&thinsp;s).
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/flujo-magnetico.svg" title="Adaptada de https://gpg.geosci.xyz/content/electromagnetics/electromagnetic_basic_principles.html." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/flujo-magnetico.svg" title="Adaptada de https://gpg.geosci.xyz/content/electromagnetics/electromagnetic_basic_principles.html." lightbox="false" width="100%" >}}
 
 ### Inducción electromagnética
 
@@ -103,7 +103,7 @@ Además, de las anteriores experiencias se deduce el sentido de la **corriente i
 
 Para comprender bien por qué al variar el flujo magnético se produce una corriente inducida, consideraremos la [**experiencia de Henry**](#experiencia-de-henry):
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/fem-inducida-1.svg" title="Adaptada de https://tikz.net/magnetic_field_lenzs_law/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/fem-inducida-1.svg" title="Adaptada de https://tikz.net/magnetic_field_lenzs_law/." lightbox="false" width="100%" >}}
 
 Supongamos que el conductor tiene una longitud $\ell$ y se mueve con velocidad $\vec v$ en una región en la que existe un $\vec B$ uniforme ($\vec v\perp\vec B$). Los electrones del conductor, debido a $\vec B$, se verán sometidos a una fuerza magnética $\vec F_\mathrm m$ dada por la [**ley de Lorentz**]({{< relref "apuntes-segundo-bach-fisica/campo-magnetico/index.md#efecto-del-campo-magnético-sobre-una-carga-en-movimiento-ley-de-lorentz" >}}):
 
@@ -119,7 +119,7 @@ A medida que avanza el proceso, prácticamente instantáneo, se produce una sepa
 
 Se alcanza el equilibrio en el que $F_\mathrm e = F_\mathrm m \Rightarrow E=vB$. El campo eléctrico permanece constante siempre que el conductor se mueva con velocidad constante. Si conectamos el conductor a un circuito:
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/fem-inducida-2.svg" title="Por convenio, el sentido de $I$ se elige como sentido de movimiento de cargas positivas. Adaptada de https://tikz.net/magnetic_field_lenzs_law/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/fem-inducida-2.svg" title="Por convenio, el sentido de $I$ se elige como sentido de movimiento de cargas positivas. Adaptada de https://tikz.net/magnetic_field_lenzs_law/." lightbox="false" width="100%" >}}
 
 Para que la $I_\mathrm{ind}$ se mantenga es necesario mantener la $\symup\Delta V$ o equivalentemente la separación entre cargas. En nuestro caso la responsable es la velocidad del conductor, que hace que $\vec F_\mathrm m \neq \vec 0$ y los electrones comiencen a moverse. Para que se mueva el conductor debemos aplicar un $W_\mathrm{ext}$. Así, podemos definir la [**fuerza electromotriz fem**](https://es.wikipedia.org/wiki/Fuerza_electromotriz) ($\mathcal{E}$) como el trabajo realizado por unidad de carga para mantener la diferencia de potencial:
 
@@ -153,7 +153,7 @@ Si $\symup\Phi$ disminuye con $t$, la $I_\mathrm{ind}$ genera un $\vec B_\mathrm
 
 #### Ejemplos
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/ejemplos-lenz.svg" title="Adaptada de https://tikz.net/magnetic_field_lenzs_law/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/ejemplos-lenz.svg" title="Adaptada de https://tikz.net/magnetic_field_lenzs_law/." lightbox="false" width="100%" >}}
 
 Una vez hemos calculado la fem inducida, podemos calcular la [**ley de Ohm**]({{< relref "apuntes-segundo-tercero-eso/electricidad-electronica/index.md#ley-de-ohm" >}}):
 
@@ -166,7 +166,7 @@ donde $R$ se mide en [ohmios](https://es.wikipedia.org/wiki/Ohmio) ($\symup\Omeg
 
 La [**autoinducción**](https://es.wikipedia.org/wiki/Autoinducción) consiste en la inducción de una corriente sobre sí misma. Para que se produzca, es necesario que la corriente que recorre un circuito varíe con el tiempo. Consideremos un solenoide de longitud $\ell$ y radio $R$ formado por $N$ espiras. El solenoide forma parte de un circuito en el que existe un generador de corriente continua y cuya resistencia es $r$.
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/autoinduccion.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/autoinduccion.svg" lightbox="false" width="100%" >}}
 
 El campo generado por el solenoide, $\vec B$, es paralelo a su eje y en su interior toma un valor constante:
 
@@ -202,7 +202,7 @@ Solenoide 1
 Solenoide 2
 : $N_2$ espiras, longitud $\ell_2$, unido a un circuito en el que hay un galvanómetro que permite medir el paso de la corriente $I_2$.
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/induccion-mutua.svg" title="Supongamos que la superficie de las espiras es la misma en ambos ($S$) y $\ell_1=\ell_2=\ell$." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/induccion-mutua.svg" title="Supongamos que la superficie de las espiras es la misma en ambos ($S$) y $\ell_1=\ell_2=\ell$." lightbox="false" width="100%" >}}
 
 Cuando aparece $I_1$ en el solenoide 1 se genera $B_1$ tal que:
 
@@ -236,7 +236,7 @@ Es fácil demostrar que $M_{12} = M_{21} = M = \mu N_1 N_2 S/\ell$.
 
 Se entiende por [**corriente alterna**](https://es.wikipedia.org/wiki/Corriente_alterna) aquella cuyo **sentido** de circulación es **variable**, dinstinguiéndose así de la corriente continua. La **generación** de **corrientes alternas** se basa en la **inducción electromagnética**, específicamente en la **variación** de un **flujo magnético**.
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/generador.svg" title="**Generador de corriente alterna**, basado en la variación del ángulo formado entre el campo magnético y la superficie de una bobina, que gira en su seno con velocidad angular constante. Adaptada de https://www.nagwa.com/en/explainers/357172034271/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/generador.svg" title="**Generador de corriente alterna**, basado en la variación del ángulo formado entre el campo magnético y la superficie de una bobina, que gira en su seno con velocidad angular constante. Adaptada de https://www.nagwa.com/en/explainers/357172034271/." lightbox="false" width="100%" >}}
 
 Suponiendo una espira que gira con velocidad angular $\omega$, el flujo magnético que la atraviesa viene dado por:
 
@@ -268,13 +268,13 @@ I = \frac{\mathcal{E}}{r} = I_0\sin\omega t\quad\text{con }I_0=\frac{\mathcal{E}
 
 Un [**generador eléctrico**](https://es.wikipedia.org/wiki/Generador_eléctrico) es un dispositivo que **transforma** la **energía mecánica** en **energía eléctrica**. Los generadores más sencillos están constituidos por un bobinado que gira en el seno de un campo magnético uniforme, aunque esta configuración no es útil cuando se requieren potencias elevadas. Es por eso que los [**alternadores**](https://es.wikipedia.org/wiki/Alternador) actuales se construyen de forma que la parte que gira es el electroimán ([rotor](https://es.wikipedia.org/wiki/Rotor_(máquina_eléctrica))) y la parte que permanece fija es el bobinado ([estator](https://es.wikipedia.org/wiki/Estator)).
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/alternador.svg" title="**Alternador**. El estator es una pieza de hierro fija con varios salientes que son polos. Es en el estator donde se arrollan los bobinados, uno en cada polo, de forma que cada bobinado tenga sentido opuesto al adyacente. En el centro del estator se ubica el rotor, provisto de tantos polos como el estator, que gira con una velocidad angular determinada. Cuanto mayor sea el número de polos del rotor y el estator, mayor será la frecuencia de la coriente alterna inducida, puesto que en una vuelta del rotor se completarán más ciclos completos. Adaptada de https://commons.wikimedia.org/wiki/File:Alternador.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/alternador.svg" title="**Alternador**. El estator es una pieza de hierro fija con varios salientes que son polos. Es en el estator donde se arrollan los bobinados, uno en cada polo, de forma que cada bobinado tenga sentido opuesto al adyacente. En el centro del estator se ubica el rotor, provisto de tantos polos como el estator, que gira con una velocidad angular determinada. Cuanto mayor sea el número de polos del rotor y el estator, mayor será la frecuencia de la coriente alterna inducida, puesto que en una vuelta del rotor se completarán más ciclos completos. Adaptada de https://commons.wikimedia.org/wiki/File:Alternador.svg." lightbox="false" width="100%" >}}
 
 ### Motores
 
 Los [**motores de corriente alterna**](https://es.wikipedia.org/wiki/Motor_de_corriente_alterna) **transforman energía eléctrica** en **energía mecánica**, justo al contrario de lo que sucede en los alternadores. En la siguiente figura se esquematiza su funcionamiento:
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/motor.svg" title="El estator está provisto de bobinado arrollado de forma que al paso de corriente da lugar a dos polos magnéticos. En el interior se sitúa el rotor, que es un imán con sus polos N y S. El bobinado se alimenta con corriente alterna. Cuando el valor de la corriente aumenta, el imán sufre la repulsión provocada por polos iguales enfrentados, y gira hasta que se orienta según el campo generado por los polos del estator. Justo antes de que se invierta el sentido de la corriente alterna, no hay campo, y el rotor se desplaza debido a la inercia. Una vez se invierte el sentido de la corriente, también lo hacen los polos del estator y el campo que generan. Por lo tanto, el rotor, debido a la repulsión continúa girando hasta orientarse de nuevo, y así sucesivamente." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/motor.svg" title="El estator está provisto de bobinado arrollado de forma que al paso de corriente da lugar a dos polos magnéticos. En el interior se sitúa el rotor, que es un imán con sus polos N y S. El bobinado se alimenta con corriente alterna. Cuando el valor de la corriente aumenta, el imán sufre la repulsión provocada por polos iguales enfrentados, y gira hasta que se orienta según el campo generado por los polos del estator. Justo antes de que se invierta el sentido de la corriente alterna, no hay campo, y el rotor se desplaza debido a la inercia. Una vez se invierte el sentido de la corriente, también lo hacen los polos del estator y el campo que generan. Por lo tanto, el rotor, debido a la repulsión continúa girando hasta orientarse de nuevo, y así sucesivamente." lightbox="false" width="100%" >}}
 
 ### Transformadores
 
@@ -282,7 +282,7 @@ La importancia de las corrientes alternas reside en la eficiencia con la que per
 
 Esto se consigue con la ayuda de [**transformadores**](https://es.wikipedia.org/wiki/Transformador), dispositivos capaces de **transmitir** la **energía eléctrica** de un circuito de corriente alterna a otro, sin modificar su frecuencia. Esta transmisión va acompañada de un cambio de voltaje de forma que cuando el transformador devuelve una tensión más alta, se denomina elevador, y cuando devuelve una tensión más baja, se dice que es un reductor.
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/transformador.svg" title="**Transformador** reductor. Consta de un núcleo de hierro (Fe) en torno al cual se disponen dos bobinados de hilo de cobre. La corriente alterna llega a uno de los bobinados, denominado primario, dando lugar a un flujo magnético variable en el núcleo de Fe, que atraviesa el segundo bobinado, denominado secundario. Según Faraday, se generará en el secundario una fem inducida que se opone a la variación del flujo. Si el arrollamiento primario tiene más espiras que el secundario, el transformador es un reductor de tensión. En caso contrario, elevador de tensión. Adaptada de https://commons.wikimedia.org/wiki/File:Transformer3d_col3_es.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/transformador.svg" title="**Transformador** reductor. Consta de un núcleo de hierro (Fe) en torno al cual se disponen dos bobinados de hilo de cobre. La corriente alterna llega a uno de los bobinados, denominado primario, dando lugar a un flujo magnético variable en el núcleo de Fe, que atraviesa el segundo bobinado, denominado secundario. Según Faraday, se generará en el secundario una fem inducida que se opone a la variación del flujo. Si el arrollamiento primario tiene más espiras que el secundario, el transformador es un reductor de tensión. En caso contrario, elevador de tensión. Adaptada de https://commons.wikimedia.org/wiki/File:Transformer3d_col3_es.svg." lightbox="false" width="100%" >}}
 
 Así, la energía eléctrica se transfiere del primario al secundario, cumpliéndose:
 
@@ -306,7 +306,7 @@ Esta sección, dedicada al estudio de **campos eléctricos y magnéticos dependi
 
 El estudio del [**electromagnetismo**](https://es.wikipedia.org/wiki/Electromagnetismo) usualmente comienza analizando por separado el [**campo eléctrico**]({{< relref "apuntes-segundo-bach-fisica/campo-electrico" >}}), cuya fuente son las cargas eléctricas, y el [**campo magnético**]({{< relref "apuntes-segundo-bach-fisica/campo-magnetico" >}}), generado por corrientes eléctricas.
 
-Sin embargo, ambos campos están íntimamente relacionados, tal y como acabamos de ver en los fenómenos de **inducción electromagnética**. Es este apartado veremos cómo los campos eléctrico y magnético, cuando son variables en el tiempo, constituyen respectivamente fuentes de campo magnético y eléctrico, respectivamente.
+Sin embargo, ambos campos están íntimamente relacionados, tal y como acabamos de ver en los fenómenos de **inducción electromagnética**. En este apartado veremos cómo los campos eléctrico y magnético, cuando son variables en el tiempo, constituyen respectivamente fuentes de campo magnético y eléctrico, respectivamente.
 
 ### Campos magnéticos dependientes del tiempo
 
@@ -372,7 +372,7 @@ Maxwell encontró que las leyes experimentales de la electricidad y el magnetism
 
 A continuación se expresan las cuatro leyes de Maxwell en su forma integral y diferencial:
 
-{{< figure library="true" src="induccion-electromagnetica-2bach-fisica/ecuaciones-maxwell.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/ecuaciones-maxwell.svg" lightbox="false" width="100%" theme="light" >}}
 
 1. La primera ecuación relaciona el campo eléctrico con sus fuentes escalares, que son las cargás eléctricas caracterizadas por $\rho$ (densidad de carga).
 
