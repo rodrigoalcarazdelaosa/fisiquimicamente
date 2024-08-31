@@ -15,7 +15,7 @@ tags:
 - ondas
 categories:
 - Física
-weight: 5
+weight: 6
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,7 +29,7 @@ links:
 #   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
-  
+
 # - icon_pack: fas
 #   icon:
 #   name: Póster
@@ -46,7 +46,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/ondas/  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/ondas/
 
 ---
 

@@ -17,7 +17,7 @@ tags:
 - ondas
 categories:
 - Física
-weight: 4
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -28,7 +28,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: MAS-poster.pdf
 - icon_pack: fas
@@ -38,9 +38,9 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Frikiexamen
-  url: energia-MAS-frikiexamen.pdf  
+  url: energia-MAS-frikiexamen.pdf
 
-slides: MAS-2Bach-fisica  
+slides: MAS-2Bach-fisica
 
 math: true
 ---
@@ -163,7 +163,7 @@ Puedes estudiar los **factores** que **influyen** en el **periodo** de un **pén
 
 Como la **fuerza elástica** es **conservativa**, definimos la energía potencial asociada:
 $$
-E_\mathrm p = \frac{1}{2}kx^2,\quad \text{donde $k=m\omega^2$}	
+E_\mathrm p = \frac{1}{2}kx^2,\quad \text{donde $k=m\omega^2$}
 $$
 Sustituyendo la expresión de la posición, $x = A\sin\left(\omega t + \varphi_0\right)$:
 $$

@@ -13,7 +13,7 @@ tags:
 - waves
 categories:
 - Physics
-weight: 4
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,7 +27,7 @@ image:
 #   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
-  
+
 # - icon_pack: fas
 #   icon:
 #   name: Póster

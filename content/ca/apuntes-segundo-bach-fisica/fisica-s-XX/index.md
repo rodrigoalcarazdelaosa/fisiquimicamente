@@ -11,7 +11,7 @@ tags:
 - radioactivitat
 categories:
 - Física
-weight: 7
+weight: 8
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -25,7 +25,7 @@ image:
 #   icon:
 #   name: PDF Texto
 #   url: MAS_texto.pdf
-  
+
 # - icon_pack: fas
 #   icon:
 #   name: Póster

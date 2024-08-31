@@ -2,7 +2,7 @@
 title: Campo magnético
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/campo-magnetico"
 subtitle: Ley de Biot y Savart, ley de Ampère, ley de Lorentz y ley de Laplace
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Ley de Biot y Savart, ley de Ampère, ley de Lorentz y ley de Laplace."
+summary: "Ley de Biot y Savart, ley de Ampère, ley de Lorentz y ley de Laplace."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - marta-rada-arias

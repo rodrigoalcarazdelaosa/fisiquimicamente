@@ -13,7 +13,7 @@ tags:
 - óptica
 categories:
 - Física
-weight: 6
+weight: 7
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -42,7 +42,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/optica/  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/optica/
 
 ---
 
