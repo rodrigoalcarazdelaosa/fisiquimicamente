@@ -1,8 +1,8 @@
 ---
 title: Inducción electromagnética
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/induccion-electromagnetica"
-subtitle: Experiencias de Faraday y Henry, flujo magnético, fem inducida, leyes de Faraday-Henry y Lenz, autoinducción, inducción mutua y aplicaciones
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Experiencias de Faraday y Henry, flujo magnético, fem inducida, leyes de Faraday-Henry y Lenz, autoinducción, inducción mutua y aplicaciones."
+subtitle: Experiencias de Faraday y de Henry, flujo magnético, fem inducida, leyes de Faraday-Henry y de Lenz, autoinducción, inducción mutua y aplicaciones
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Experiencias de Faraday y de Henry, flujo magnético, fem inducida, leyes de Faraday-Henry y de Lenz, autoinducción, inducción mutua y aplicaciones."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - marta-rada-arias
@@ -45,7 +45,7 @@ En el [anterior tema]({{< relref "apuntes-segundo-bach-fisica/campo-magnetico" >
 
 {{< figure library="true" src="fuerzas-2ESO/experimento-Oersted.png" title="**Experiencia de Ørsted**. Fuente: https://commons.wikimedia.org/wiki/File:Oersted_experiment.png." lightbox="true" >}}
 
-Poco después, el físico [**Michael Faraday**](https://es.wikipedia.org/wiki/Michael_Faraday) (1791--1867) llevó a cabo una serie de [experiencias](#experiencias-de-faraday) que le permitieron afirmar que la variación de un campo magnético puede inducir una corriente eléctrica (el proceso opuesto a Ørsted). Simuláneamente, otro científico estadounidense llamado [**Joseph Henry**](https://es.wikipedia.org/wiki/Joseph_Henry) (1797--1878) llegó a la misma conclusión, aunque publicó sus resultados algo más tarde que Faraday.
+Poco después, el físico [**Michael Faraday**](https://es.wikipedia.org/wiki/Michael_Faraday) (1791--1867) llevó a cabo una serie de [experiencias](#experiencias-de-faraday) que le permitieron afirmar que la variación de un campo magnético puede inducir una corriente eléctrica (el proceso opuesto a Ørsted). Simultáneamente, otro científico estadounidense llamado [**Joseph Henry**](https://es.wikipedia.org/wiki/Joseph_Henry) (1797--1878) llegó a la misma conclusión, aunque publicó sus resultados algo más tarde que Faraday.
 
 En este tema estudiaremos este fenómeno conocido como [**inducción electromagnética**](https://es.wikipedia.org/wiki/Inducción_electromagnética): producción de una corriente eléctrica por la acción de un flujo magnético variable en el tiempo.
 
@@ -66,7 +66,7 @@ Se dispone de un solenoide conectado a una fuente con un interruptor. Paralelo a
 
 ## Experiencia de Henry
 
-Henry descubrió que, cuando un conductor se movía perpendicularmente a un campo magnético, entre sus extremos aparecía una diferencia de potencial. Si el condcutor forma parte de un circuito, en él aparece una corriente inducida.
+**Henry** descubrió que, cuando un conductor se movía perpendicularmente a un campo magnético, entre sus extremos aparecía una diferencia de potencial. Si el conductor forma parte de un circuito, en él aparece una corriente inducida.
 
 {{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/experiencia-henry.svg" title="Adaptada de http://physics-schooluk.com/magnetism_motor_effect.html." lightbox="false" width="100%" >}}
 
@@ -142,7 +142,7 @@ En las diferentes experiencias hemos visto que aparece una corriente inducida cu
 
 ### Ley de Lenz
 
-> El sentido de la corriente inducida es tal que se opone al efecto que la produce:''
+> El sentido de la corriente inducida es tal que se opone al efecto que la produce:
   \[
 	\mathcal{E} = -\frac{\mathrm d\symup\Phi}{\mathrm d t}
 	\]
@@ -166,7 +166,7 @@ donde $R$ se mide en [ohmios](https://es.wikipedia.org/wiki/Ohmio) ($\symup\Omeg
 
 La [**autoinducción**](https://es.wikipedia.org/wiki/Autoinducción) consiste en la inducción de una corriente sobre sí misma. Para que se produzca, es necesario que la corriente que recorre un circuito varíe con el tiempo. Consideremos un solenoide de longitud $\ell$ y radio $R$ formado por $N$ espiras. El solenoide forma parte de un circuito en el que existe un generador de corriente continua y cuya resistencia es $r$.
 
-{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/autoinduccion.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/autoinduccion.svg" lightbox="false" width="100%" theme="light" >}}
 
 El campo generado por el solenoide, $\vec B$, es paralelo a su eje y en su interior toma un valor constante:
 
@@ -202,7 +202,7 @@ Solenoide 1
 Solenoide 2
 : $N_2$ espiras, longitud $\ell_2$, unido a un circuito en el que hay un galvanómetro que permite medir el paso de la corriente $I_2$.
 
-{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/induccion-mutua.svg" title="Supongamos que la superficie de las espiras es la misma en ambos ($S$) y $\ell_1=\ell_2=\ell$." lightbox="false" width="100%" >}}
+{{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/induccion-mutua.svg" title="Supongamos que la superficie de las espiras es la misma en ambos ($S$) y $\ell_1=\ell_2=\ell$." lightbox="false" width="100%" theme="light" >}}
 
 Cuando aparece $I_1$ en el solenoide 1 se genera $B_1$ tal que:
 
