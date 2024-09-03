@@ -109,6 +109,10 @@ El campo magnético terrestre interacciona con el [viento solar](https://es.wiki
         allowfullscreen>
 </iframe>
 
+También te recomendamos echar un vistazo a este **vídeo** del [**Departamento de Física y Química del IES Valle del Saja**](http://www.fqsaja.com) sobre **magnetismo inducido**:
+
+{{< vimeo 133033134 >}}
+
 ### Experiencias de Ørsted y de Faraday-Henry
 
 Los fenómenos eléctricos y magnéticos están íntimamente relacionados, pero la conexión entre ambos no se hizo hasta comienzos del s. XIX, cuando [**Ørsted**](https://es.wikipedia.org/wiki/Hans_Christian_Ørsted) descubrió que las corrientes eléctricas eran capaces de influir sobre la aguja de una brújula, modificando el magnetismo.
@@ -134,6 +138,14 @@ Posteriormente, [**Ampère**](https://es.wikipedia.org/wiki/André-Marie_Ampère
 {{% callout note %}}
 Hoy sabemos que el magnetismo de los imanes es debido principalmente al [**momento magnético de espín**](https://es.wikipedia.org/wiki/Momento_magnético#Momento_magnético_de_espín) de los electrones, además de su propio movimiento como postuló Ampère.
 {{% /callout %}}
+
+El [**diamagnetismo**](https://es.wikipedia.org/wiki/Diamagnetismo) da lugar a un fenómeno conocido como [**levitación magnética**](https://es.wikipedia.org/wiki/Levitación_magnética), demostrado en estos **vídeos** del [**Departamento de Física y Química del IES Valle del Saja**](http://www.fqsaja.com):
+
+{{< youtube lCDcoy3pKxs >}}
+
+{{< vimeo 104845362 >}}
+
+{{< youtube -2fzzk6BM9U >}}
 
 ## Campo magnético generado por una corriente eléctrica: ley de Biot y Savart
 

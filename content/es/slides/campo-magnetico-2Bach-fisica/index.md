@@ -43,8 +43,8 @@ El [**campo magnético**](https://es.wikipedia.org/wiki/Campo_magnético) es una
 
 - [Pierre de Maricourt](#/1/4)
 - [El descubrimiento de la brújula](#/1/7)
-- [Experiencias de Ørsted y de Faraday-Henry](#/1/17)
-- [Magnetismo](#/1/22)
+- [Experiencias de Ørsted y de Faraday-Henry](#/1/18)
+- [Magnetismo](#/1/23)
 
 (continúa hacia abajo)
 
@@ -129,6 +129,12 @@ El campo magnético terrestre interacciona con el [viento solar](https://es.wiki
 
 ---
 
+También te recomendamos echar un vistazo a este **vídeo** del [**Departamento de Física y Química del IES Valle del Saja**](http://www.fqsaja.com) sobre **magnetismo inducido**:
+
+{{< vimeo 133033134 >}}
+
+---
+
 ### Experiencias de Ørsted y de Faraday-Henry
 
 Los fenómenos eléctricos y magnéticos están íntimamente relacionados, pero la conexión entre ambos no se hizo hasta comienzos del s. XIX, cuando [**Ørsted**](https://es.wikipedia.org/wiki/Hans_Christian_Ørsted) descubrió que las corrientes eléctricas eran capaces de influir sobre la aguja de una brújula, modificando el magnetismo.
@@ -172,6 +178,22 @@ Estas corrientes están orientadas de forma que sus efectos se suman ([ferromagn
 ---
 
 > Hoy sabemos que el magnetismo de los imanes es debido principalmente al [**momento magnético de espín**](https://es.wikipedia.org/wiki/Momento_magnético#Momento_magnético_de_espín) de los electrones, además de su propio movimiento como postuló Ampère.
+
+---
+
+El [**diamagnetismo**](https://es.wikipedia.org/wiki/Diamagnetismo) da lugar a un fenómeno conocido como [**levitación magnética**](https://es.wikipedia.org/wiki/Levitación_magnética), demostrado en estos **vídeos** del [**Departamento de Física y Química del IES Valle del Saja**](http://www.fqsaja.com):
+
+---
+
+{{< youtube lCDcoy3pKxs >}}
+
+---
+
+{{< vimeo 104845362 >}}
+
+---
+
+{{< youtube -2fzzk6BM9U >}}
 
 {{% /section %}}
 
