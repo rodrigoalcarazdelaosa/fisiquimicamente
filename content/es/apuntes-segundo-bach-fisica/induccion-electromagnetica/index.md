@@ -176,9 +176,11 @@ B = \frac{\mu NI}{\ell}
 
 Por lo tanto, el flujo que atraviesa el solenoide:
 
+{{< math >}}
 \[
 \symup\Phi = BS\cos\theta = BS = \frac{\mu NI}{\ell}\cdot N\pi R^2 = \frac{\mu N^2\pi R^2}{\ell}I = LI,
 \]
+{{< /math >}}
 
 donde $L = \mu N^2 \pi R^2/\ell$ es el **coeficiente de autoinducción**, constante definida por las características del solenoide, cuyas **unidades** en el **SI** son los [**henrios**](https://es.wikipedia.org/wiki/Henrio) (H). Solo aparecerá corriente inducida si $I$ es variable (p. ej. corriente alterna). En ese caso aparecerá en el solenoide otra intensidad, $I_\mathrm{autoind}$, que se opone a la variación del flujo. La fem autoinducida correspondiente, $\mathcal{E}'$, vendrá dada por:
 
