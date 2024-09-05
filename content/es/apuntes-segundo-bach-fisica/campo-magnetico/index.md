@@ -77,13 +77,13 @@ Durante mucho tiempo, el estudio del magnetismo se limitó a estudiar estos iman
 ### Pierre de Maricourt
 En 1269, [**Pierre de Maricourt**](https://es.wikipedia.org/wiki/Peter_Peregrinus_de_Maricourt) observó que todos los imanes, independientemente de su forma, poseían dos polos (N y S) en los que la fuerza ejercida por el imán presentaba su máxima intensidad. Descubrió además que al aproximar polos iguales se repelían. Por el contrario, si se aproximaban polos opuestos se atraían. Observó también que los polos nunca se encuentran aislados.
 
-{{< figure src="campo-magnetico-2Bach-fisica/monopolo.svg" title="Si se parte un imán en dos trozos, se obtienen dos nuevos imanes, ambos con sus dos polos N y S (constituye una diferencia esencial con las cargas eléctricas). Fuente: https://commons.wikimedia.org/wiki/File:Repeated-cutting-a-magnet.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="campo-magnetico-2Bach-fisica/monopolo.svg" title="Si se parte un imán en dos trozos, se obtienen dos nuevos imanes, ambos con sus dos polos N y S (constituye una diferencia esencial con las cargas eléctricas). Fuente: https://commons.wikimedia.org/wiki/File:Repeated-cutting-a-magnet.svg." lightbox="false" width="100%" >}}
 
 ### El descubrimiento de la brújula
 
 El descubrimiento de todos estos fenómenos magnéticos hizo posible el desarrollo de la [**brújula**](https://es.wikipedia.org/wiki/Brújula), que se atribuye a los chinos en el s. XI, aunque en Europa no comenzó a utilizarse hasta el s. XII.
 
-{{< figure src="campo-magnetico-2Bach-fisica/brujula.jpg" title="Maqueta de un cucharón o *sinan* de la [dinastía Han](https://es.wikipedia.org/wiki/Dinastía_Han) (206 a.C. – 220 d.C.) hecho de [piedras de imán](https://es.wikipedia.org/wiki/Piedra_de_imán). Fuente: https://commons.wikimedia.org/wiki/File:Model_Si_Nan_of_Han_Dynasty.jpg." lightbox="true" >}}
+{{< figure library="true" src="campo-magnetico-2Bach-fisica/brujula.jpg" title="Maqueta de un cucharón o *sinan* de la [dinastía Han](https://es.wikipedia.org/wiki/Dinastía_Han) (206 a.C. – 220 d.C.) hecho de [piedras de imán](https://es.wikipedia.org/wiki/Piedra_de_imán). Fuente: https://commons.wikimedia.org/wiki/File:Model_Si_Nan_of_Han_Dynasty.jpg." lightbox="true" >}}
 
 En 1600, el inglés [**William Gilbert**](https://es.wikipedia.org/wiki/William_Gilbert), científico y médico de la [Reina Isabel I de Inglaterra](https://es.wikipedia.org/wiki/Isabel_I_de_Inglaterra), explicó el comportamiento de las brújulas suponiendo que la Tierra era un gigantesco imán con el polo Sur magnético en el polo Norte geográfico (los polos magnéticos de la Tierra no coinciden exactamente con los geográficos. Entre ellos existe un ángulo denominado [declinación magnética](https://es.wikipedia.org/wiki/Declinación_magnética) que varía en el tiempo y en el espacio).
 
@@ -562,3 +562,50 @@ Antes de la [redefinición de 2019]({{< relref "post/actualizacion-unidades-SI" 
 > Un amperio es la intensidad de una corriente constante que, manteniéndose en dos conductores paralelos, rectilíneos, de longitud infinita, de sección circular despreciable y situados a una distancia de un metro uno del otro, en el vacío, produciría entre esos conductores una fuerza igual a $2\times 10^{-7}\,\mathrm{N/m}$.
 
 Actualmente se define a partir de la [carga elemental](https://es.wikipedia.org/wiki/Carga_eléctrica#Carga_eléctrica_elemental), de tal forma que un amperio es la corriente eléctrica correspondiente al flujo de $1/(1.602\,176\,634\times 10^{-19}) = 6.241\,509\,074\times 10^{18}$ cargas elementales por segundo.
+
+### Espira de corriente
+
+Consideraremos el caso más simple de una espira rectangular de lados $a$ y $b$ por la que circula una corriente $I$, tal y como indica la figura:
+
+{{< figure library="true" src="campo-magnetico-2Bach-fisica/espira-corriente.svg" lightbox="false" width="100%" >}}
+
+La espira se encuentra en un campo magnético $\vec B$ en el sentido positivo del eje $z$. Aplicando la ley de Laplace a los tramos de longitud $a$, actúan dos fuerzas iguales y opuestas cuyo módulo es:
+
+$$
+F_a = IaB
+$$
+
+Lo mismo sucede en los lados de longitud $b$:
+
+$$
+F_b = IbB
+$$
+
+En consecuencia, las fuerzas se cancelan dos a dos y la fuerza total $\vec F_\mathrm t$:
+
+$$
+\vec F_\mathrm t = \sum_i \vec F_i = \vec 0
+$$
+
+**La espira no se mueve**.
+
+Supongamos ahora que inclinamos la espira de forma que su vector superficie forma un ángulo $\theta$ con $\vec B$:
+
+{{< figure library="true" src="campo-magnetico-2Bach-fisica/espira-corriente-rotada.svg" lightbox="false" width="100%" >}}
+
+Las fuerzas que actúan sobre los lados de longitud $a$ se cancelan porque actúan sobre la misma línea (misma $z$). Pero esto no sucede con los lados de longitud $b$. Las fuerzas no se encuentran sobre la misma línea y forman un [**par de fuerzas**](https://es.wikipedia.org/wiki/Par_de_fuerzas) que hace girar la espira. Podemos calcular el momento del par:
+
+$$
+\begin{aligned}
+\vec M &= \left(\vec r\times\vec F_b\right) + \left(-\vec r\times-\vec F_b\right) = 2\left(\vec r\times\vec F_b\right) \\
+M &= 2\frac{a}{2}IbB\sin\theta = ISB\sin\theta
+\end{aligned}
+$$
+
+$$
+\vec M = I\vec S\times\vec B
+$$
+
+Si $\vec B\parallel\vec S\Rightarrow \vec M = \vec 0\rightarrow$ la espira no gira.
+
+Si $\vec B\perp\vec S\Rightarrow \vec M$ es máximo.

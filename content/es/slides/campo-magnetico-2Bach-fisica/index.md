@@ -735,7 +735,7 @@ Si integramos a todo el hilo obtendremos la $\vec F_\mathrm m$ total que se ejer
 Lo aplicaremos a dos casos:
 
 - [Hilo conductor rectilíneo](#/6/5)
-- Espira de corriente
+- [Espira de corriente](#/6/14)
 
 (continúa hacia abajo)
 
@@ -824,6 +824,68 @@ Antes de la [redefinición de 2019]({{< relref "post/actualizacion-unidades-SI" 
 ---
 
 Actualmente se define a partir de la [carga elemental](https://es.wikipedia.org/wiki/Carga_eléctrica#Carga_eléctrica_elemental), de tal forma que un amperio es la corriente eléctrica correspondiente al flujo de $1/(1.602\,176\,634\times 10^{-19}) = 6.241\,509\,074\times 10^{18}$ cargas elementales por segundo.
+
+
+---
+
+### Espira de corriente
+
+Consideraremos el caso más simple de una espira rectangular de lados $a$ y $b$ por la que circula una corriente $I$, tal y como indica la figura:
+
+{{< figure library="true" src="campo-magnetico-2Bach-fisica/espira-corriente.svg" lightbox="false" width="90%" >}}
+
+---
+
+La espira se encuentra en un campo magnético $\vec B$ en el sentido positivo del eje $z$. Aplicando la ley de Laplace a los tramos de longitud $a$, actúan dos fuerzas iguales y opuestas cuyo módulo es:
+
+$$
+F_a = IaB
+$$
+
+---
+
+Lo mismo sucede en los lados de longitud $b$:
+
+$$
+F_b = IbB
+$$
+
+En consecuencia, las fuerzas se cancelan dos a dos y la fuerza total $\vec F_\mathrm t$:
+
+$$
+\vec F_\mathrm t = \sum_i \vec F_i = \vec 0
+$$
+
+**La espira no se mueve**.
+
+---
+
+Supongamos ahora que inclinamos la espira de forma que su vector superficie forma un ángulo $\theta$ con $\vec B$:
+
+{{< figure library="true" src="campo-magnetico-2Bach-fisica/espira-corriente-rotada.svg" lightbox="false" width="100%" >}}
+
+---
+
+Las fuerzas que actúan sobre los lados de longitud $a$ se cancelan porque actúan sobre la misma línea (misma $z$). Pero esto no sucede con los lados de longitud $b$. Las fuerzas no se encuentran sobre la misma línea y forman un [**par de fuerzas**](https://es.wikipedia.org/wiki/Par_de_fuerzas) que hace girar la espira.
+
+---
+
+Podemos calcular el momento del par:
+
+$$
+\begin{aligned}
+\vec M &= \left(\vec r\times\vec F_b\right) + \left(-\vec r\times-\vec F_b\right) = 2\left(\vec r\times\vec F_b\right) \\
+M &= 2\frac{a}{2}IbB\sin\theta = ISB\sin\theta
+\end{aligned}
+$$
+
+$$
+\vec M = I\vec S\times\vec B
+$$
+
+Si $\vec B\parallel\vec S\Rightarrow \vec M = \vec 0\rightarrow$ la espira no gira.
+
+Si $\vec B\perp\vec S\Rightarrow \vec M$ es máximo.
 
 {{% /section %}}
 
