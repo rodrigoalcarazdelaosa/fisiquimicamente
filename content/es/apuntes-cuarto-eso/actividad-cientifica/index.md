@@ -171,10 +171,12 @@ Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las 
 
 #### Ejemplos
 
-\begin{gather*}
-[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3}; \\\\
+$$
+\begin{gathered}
+[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3}; \\
 [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}
-\end{gather*}
+\end{gathered}
+$$
 
 #### Ejemplo resuelto
 {{% callout example %}}
@@ -216,17 +218,21 @@ $$
 
 Analizamos ahora las **dimensiones** de la **energía potencial gravitatoria** $E_\mathrm p$:
 
-\begin{align*}
+$$
+\begin{aligned}
 \left[E_\mathrm p\right] = \left[mgh\right] &= \left[m\right]\cdot \left[g\right]\cdot \left[h\right] \\\\
 &= \mathsf{M}\cdot\left[g\right]\cdot\mathsf{L}
-\end{align*}
+\end{aligned}
+$$
 
 Necesitamos conocer las **dimensiones** de la **aceleración** $g$:
 
-\begin{align*}
+$$
+\begin{aligned}
 g\equiv a = \frac{\Delta v}{\Delta t} \rightarrow \left[g\right] = \frac{\left[\Delta v\right]}{\left[\Delta t\right]} &= \frac{\mathsf{L}\mathsf{T}^{-1}}{\mathsf{T}} \\\\
 &= \mathsf{L}\mathsf{T}^{-2}
-\end{align*}
+\end{aligned}
+$$
 
 Por lo que llegamos a:
 
@@ -267,7 +273,7 @@ Es la **cercanía** entre un **valor medido** y el **valor verdadero** de la mag
 
 Una alta exactitud es una combinación de alta precisión y alta veracidad.
 
-{{< figure library="true" src="actividad-cientifica-4ESO/precision-veracidad-exactitud.svg" title="Los dardos representan medidas. Para la veracidad, el centro de la diana representa el valor de referencia. La precisión describe la proximidad entre las medidas. Traducida y adaptada del [NPL](https://www.npl.co.uk/getmedia/10e33275-dcb4-4203-943d-6edf2bbf79ac/ACCURACY_PRECISION_TRUENESS_2023.pdf.aspx)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="actividad-cientifica-4ESO/precision-veracidad-exactitud.svg" title="Los dardos representan medidas. Para la veracidad, el centro de la diana representa el valor de referencia. La precisión describe la proximidad entre las medidas. Traducida y adaptada del [NPL](https://www.npl.co.uk/getmedia/52c4d2e1-bb4e-4401-bbdc-319251cc7830/ACCURACY_PRECISION_TRUENESS_2023.pdf.aspx)." lightbox="false" width="100%" >}}
 
 ### Error absoluto y error relativo
 #### Error absoluto

@@ -266,10 +266,12 @@ Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las 
 
 #### Ejemplos
 
-\begin{gather*}
+$$
+\begin{gathered}
 [S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3}; \\\\
 [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}
-\end{gather*}
+\end{gathered}
+$$
 
 ---
 
@@ -469,9 +471,11 @@ Tiene las **mismas dimensiones** que la **magnitud medida**.
 #### Error relativo
 Es el **cociente** entre el **error absoluto** y el **valor real**:
 
+{{% math width="100%" %}}
 $$
 \text{error relativo} = \frac{\text{error absoluto}}{\text{valor real}} = \frac{\lvert\text{valor medido} - \text{valor real}\rvert}{\text{valor real}}
 $$
+{{% /math %}}
 
 Es **adimensional** (suele expresarse en % multiplicándolo por 100).
 
