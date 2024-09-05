@@ -25,9 +25,9 @@ image:
   caption: Imagen de [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-links:  
+links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: estructura-materia-poster.pdf
 - icon_pack: fas
@@ -37,7 +37,7 @@ links:
 - icon_pack: fas
   icon:
   name: ✏️ Ejercicios
-  url: estructura-materia-ejercicios.pdf    
+  url: estructura-materia-ejercicios.pdf
 - icon_pack: fas
   icon:
   name: 🔗 Más ejercicios
@@ -61,7 +61,7 @@ math: true
 ## Modelos atómicos
 ### Dalton
 Basándose en las ideas de **Demócrito**, John **Dalton** propuso este modelo a principios del siglo XIX, considerando al **átomo** como una **esfera maciza indivisible**.
- 
+
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" title="El **átomo** de **Dalton** es una **esfera maciza indivisible**." lightbox="false" width="100%" >}}
 
 Los **descubrimientos** de la **radiactividad natural** por **Becquerel** (1896) y el **electrón** por **Thomson** (1897) hicieron necesaria la revisión de este modelo.
@@ -135,17 +135,22 @@ $$
 E = E_\mathrm c + E_\mathrm p,
 $$
 donde $E_\mathrm c$ es la energía cinética y $E_\mathrm p$ la energía potencial eléctrica del electrón:
-\begin{align*}
+
+$$
+\begin{aligned}
 E_\mathrm c &= \frac{1}{2}mv^2 \\\\
 E_\mathrm p &= -\frac{ke^2}{r}
-\end{align*}
+\end{aligned}
+$$
 
 La única fuerza a la que está sometido el electrón es la **fuerza** de **atracción eléctrica** por parte del núcleo. Esta fuerza por tanto actuará como **fuerza centrípeta**:
 
-\begin{align}
+$$
+\begin{aligned}
 \lvert F_\mathrm e\rvert &= \lvert f_\mathrm c\rvert \\\\
 \frac{ke^2}{r^2} &= \frac{mv^2}{r} \rightarrow mv^2 = \frac{ke^2}{r}
-\end{align}
+\end{aligned}
+$$
 
 Por lo que podemos escribir la energía total como:
 
@@ -154,17 +159,22 @@ E = \frac{1}{2}\frac{ke^2}{r}-\frac{ke^2}{r} = -\frac{1}{2}\frac{ke^2}{r}
 $$
 
 El **segundo postulado** del **modelo** de **Bohr** impone una condición para las **órbitas permitidas**, lo que significa que el **radio** de la **órbita**, $r$, está **cuantizado**:
-\begin{align*}
+
+$$
+\begin{aligned}
 mvr &= n\hbar \\\\
 v &= \frac{n\hbar}{mr} \rightarrow v^2 = \frac{n^2\hbar^2}{m^2r^2}
-\end{align*}
+\end{aligned}
+$$
 
 Sustituyendo en la anterior relación obtenida a partir de la fuerza centrípeta:
 
-\begin{align*}
+$$
+\begin{aligned}
 mv^2 &= \frac{ke^2}{r} \\\\
 \frac{n^2\hbar^2}{mr^2} &= \frac{ke^2}{r} \rightarrow r = \frac{n^2\hbar^2}{ke^2m}
-\end{align*}
+\end{aligned}
+$$
 
 Por lo que podemos escribir la energía total como:
 $$
@@ -251,17 +261,17 @@ A partir de **experimentos** de **difracción** de **electrones**, **Louis de Br
 	\lambda = \frac{h}{mv},
 	$$
 	siendo $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ la constante de Planck.
-	
+
 En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en inglés) puedes aprender más sobre la **dualidad onda-corpúsculo**:
 
-{{< youtube qCmtegdqOOA >}}	
-	
+{{< youtube qCmtegdqOOA >}}
+
 ### Principio de incertidumbre de Heisenberg
 
 > Existen ciertos pares de magnitudes físicas (aquellas cuyo producto tiene dimensiones de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no pueden ser determinadas simultáneamente con total exactitud, pues el producto de sus incertidumbres ha de ser mayor o igual que $h/(4\pi) = \hbar/2$.
 
 **Ejemplos** de tales magnitudes son:
-	
+
 \begin{align*}
 	\text{Posición $x$ y momento lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
 	\text{Energía $E$ y tiempo $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
@@ -376,7 +386,7 @@ Tras los descubrimientos de **Thomson**, **Rutherford** y **Chadwick** a princip
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutrón | $1.675\times 10^{-27}$ | $0$ |
 | Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
+<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>
 <td colspan=3>$q_\text{protón}=-q_\text{electrón}$
 
 ### Modelo estándar
@@ -399,7 +409,7 @@ O aprende sobre cómo se pueden **detectar** los [**neutrinos**](https://es.wiki
 <div align="center">
 {{< tweet user="BTeseracto" id="1488572890454839298" >}}
 </div>
-	
+
 ### Evolución del Universo
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/evolucion-universo.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:History_of_the_Universe.svg. Iconos diseñados por [Freepik](https://www.freepik.com/) de https://www.flaticon.es/." lightbox="false" width="100%" >}}
