@@ -24,13 +24,13 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: enlace-quimico-poster.pdf
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes
-  url: enlace-quimico-frikiexamenes.pdf  
+  url: enlace-quimico-frikiexamenes.pdf
 
 slides: enlace-quimico-4ESO
 
@@ -151,9 +151,3 @@ Los **enlaces** de **hidrógeno** son **responsables** de:
 - Que el **agua** (H<sub>2</sub>O) tenga una **temperatura** de **ebullición anormalmente alta** (100&thinsp;&deg;C a presión atmosférica).
 - La **estructura** de **proteínas** y **ácidos nucleicos**, como la **doble hélice** del **ADN** 🧬.
 - La **estructura** de **polímeros**.
-
-## Actividad de repaso/síntesis
-
-{{% callout note %}}
-Estupenda y divertida [actividad de la mano del gran Miguel Quiroga](https://sites.google.com/view/eldelafisicaylaquimica/la-materia/quién-es-quién) para repasar el **enlace químico**.
-{{% /callout %}}
