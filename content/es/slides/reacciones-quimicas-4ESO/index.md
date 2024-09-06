@@ -128,10 +128,10 @@ Seguimos estos **tres pasos**:
 3. **Pasar de mol a g** utilizando la **masa molar**.
 
 ---
-	
+
 ### Ejemplo
 <q>El clorato de potasio, KClO<sub>3</sub>, se descompone en cloruro de potasio, KCl, y oxígeno. Calcula la masa de oxígeno que se obtiene al descomponerse 86.8 g de clorato de potasio por la acción del calor.
-	
+
 $M(\mathrm{K}) = 39.1\thinspace\mathrm{g/mol}$; $M(\mathrm{Cl}) = 35.5\thinspace\mathrm{g/mol}$; $M(\mathrm{O}) = 16\thinspace\mathrm{g/mol}$.</q>
 
 ---
@@ -151,11 +151,16 @@ $$
 ---
 
 Calculamos las **masas molares** de todos los compuestos químicos involucrados, en este caso el KClO<sub>3</sub> y el O<sub>2</sub>:
-\begin{align*}
+
+{{% math width="100%" %}}
+$$
+\begin{aligned}
 	M(\mathrm{KClO_3}) &= M(\mathrm{K}) + M(\mathrm{Cl}) + 3\cdot M(\mathrm{O}) \\\\
 	&= 39.1\thinspace\mathrm{g/mol} + 35.5\thinspace\mathrm{g/mol} + 3\cdot 16\thinspace\mathrm{g/mol} = 122.6\thinspace\mathrm{g/mol} \\\\
 	M(\mathrm{O_2}) &= 2\cdot M(\mathrm{O}) = 2\cdot 16\thinspace\mathrm{g/mol} = 32\thinspace\mathrm{g/mol}
-\end{align*}
+\end{aligned}
+$$
+{{% /math %}}
 
 ---
 
@@ -236,11 +241,11 @@ $$
 	T(\mathrm K) = T(^\circ\mathrm C) + 273
 	$$
 
----  
+---
 
-En caso de trabajar en el SI, la constante de los gases ideales toma el valor $R=8.314\thinspace\frac{\mathrm{J}}{\mathrm{mol\thinspace K}} = 8.314\thinspace\frac{\mathrm{kPa\thinspace L}}{\mathrm{mol\thinspace K}}$.	
-	
----	
+En caso de trabajar en el SI, la constante de los gases ideales toma el valor $R=8.314\thinspace\frac{\mathrm{J}}{\mathrm{mol\thinspace K}} = 8.314\thinspace\frac{\mathrm{kPa\thinspace L}}{\mathrm{mol\thinspace K}}$.
+
+---
 
 ### Ejemplo
 <q>Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
@@ -260,9 +265,9 @@ La ecuación nos la dan ya **escrita** y **ajustada**. Notar las letras entre pa
 
 ---
 
-Calculamos lo primero las **masas molares** de los compuestos involucrados:	
+Calculamos lo primero las **masas molares** de los compuestos involucrados:
 \begin{align*}
-	M(\mathrm{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (me lo daban como dato)} \\\\		
+	M(\mathrm{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (me lo daban como dato)} \\\\
 	M(\mathrm{H_2}) &= 2\cdot M(\mathrm{H}) = 2\cdot 1\thinspace\mathrm{g/mol} = 2\thinspace\mathrm{g/mol}
 \end{align*}
 
@@ -294,7 +299,7 @@ T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\\\
 Despejamos el volumen $V$:
 $$
 V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{mol} \cdot 0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}\cdot 298\thinspace\mathrm{K}}{0.98\thinspace\mathrm{atm}} = 22.4\thinspace\mathrm{L_\mathrm{H_2}}
-$$	
+$$
 
 {{% /section %}}
 

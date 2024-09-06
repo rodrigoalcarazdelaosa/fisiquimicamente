@@ -22,9 +22,9 @@ image:
   caption: Foto de [**Alex Kondratiev**](https://unsplash.com/@alexkondratiev) en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
-links:  
+links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: reacciones-quimicas-poster.pdf
 - icon_pack: fas
@@ -68,9 +68,11 @@ Los **coeficientes estequiométricos** indican el número de átomos/moléculas/
 <br>
 
 > Se desea ajustar la siguiente ecuación química:
+{{% math %}}
 $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + H2O}
 $$
+{{% /math %}}
 
 ---
 
@@ -80,17 +82,21 @@ Comenzamos por el $\ce{Mn}$: vemos que a la izquierda hay 1 átomo de $\ce{Mn}$ 
 
 Después miramos el $\ce{O}$: vemos que a la izquierda hay 2 átomos de $\ce{O}$ y a la derecha solo hay 1. Por tanto debemos poner un 2 en la molécula de agua:
 
+{{% math %}}
 $$
 \ce{MnO2 + HCl -> MnCl2 + Cl2 + 2H2O}
 $$
+{{% /math %}}
 
 ---
 
 Seguimos con el $\ce{H}$: a la izquierda hay 1 solo átomo mientras que a la derecha hay $2\times 2=4$ átomos. Por lo tanto debemos colocar un 4 en el $\ce{HCl}$:
 
+{{% math %}}
 $$
 \ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
 $$
+{{% /math %}}
 
 ---
 
@@ -100,9 +106,11 @@ Finalmente el $\ce{Cl}$: como hemos puesto 4 moléculas de $\ce{HCl}$ hay 4 áto
 
 La **reacción ajustada** queda así:
 
+{{% math %}}
 $$
 \ce{MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O}
 $$
+{{% /math %}}
 
 {{% /callout %}}
 
@@ -121,7 +129,7 @@ Seguimos estos **tres pasos**:
 1. **Pasar de g a mol** utilizando la **masa molar**.
 2. **Relacionar moles** de un compuesto con moles de otro, a partir de los **coeficientes estequiométricos**.
 3. **Pasar de mol a g** utilizando la **masa molar**.
-	
+
 ### Ejemplo
 {{% callout example %}}
 <br>
@@ -146,18 +154,27 @@ $$
 ---
 
 Calculamos las **masas molares** de todos los compuestos químicos involucrados, en este caso el $\ce{KClO3}$ y el $\ce{O2}$:
-\begin{align*}
+
+{{% math %}}
+$$
+\begin{aligned}
 	M(\ce{KClO3}) &= M(\ce{K}) + M(\ce{Cl}) + 3\cdot M(\ce{O}) \\\\
 	&= 39.1\thinspace\mathrm{g/mol} + 35.5\thinspace\mathrm{g/mol} + 3\cdot 16\thinspace\mathrm{g/mol} = 122.6\thinspace\mathrm{g/mol} \\\\
 	M(\ce{O2}) &= 2\cdot M(\ce{O}) = 2\cdot 16\thinspace\mathrm{g/mol} = 32\thinspace\mathrm{g/mol}
-\end{align*}
+\end{aligned}
+$$
+{{% /math %}}
 
 ---
 
 Para relacionar los gramos de clorato de potasio con los gramos de oxígeno utilizamos los tres pasos del **cálculo masa-masa**:
+
+{{% math %}}
 $$
 86.8\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}\cdot \frac{1\thinspace\mathrm{\cancel{mol_{\ce{KClO3}}}}}{122.6\thinspace\mathrm{\cancel{g_{\ce{KClO3}}}}}\cdot \frac{3\thinspace\mathrm{\cancel{mol_{\ce{O2}}}}}{2\thinspace\mathrm{\cancel{mol_{\ce{KClO3}}}}}\cdot \frac{32\thinspace\mathrm{g_{\ce{O2}}}}{1\thinspace\mathrm{\cancel{mol_{\ce{O2}}}}} = 34.0\thinspace\mathrm{g_\ce{O2}}
 $$
+{{% /math %}}
+
 {{% /callout %}}
 
 ## Reactivos en disolución
@@ -176,16 +193,24 @@ Puedes aprender más con esta excelente **simulación**:
 <br>
 
 > El ácido clorhídrico reacciona con el hidróxido de calcio para producir cloruro de calcio y agua. Calcula el volumen de ácido clorhídrico 0.25 M que se necesita para reaccionar con 50 mL de hidróxido de calcio 0.5 M.
+
+{{% math %}}
 $$
 \ce{2HCl(ac) + Ca(OH)2(ac) -> CaCl2(ac) +  2H2O(l)}
 $$
+{{% /math %}}
 
 ---
 
-\begin{align*}
+{{% math %}}
+$$
+\begin{aligned}
 50\thinspace\mathrm{\cancel{mL_{\ce{Ca(OH)2}}}} & \cdot \frac{1\thinspace\mathrm{\cancel{L_{\ce{Ca(OH)2}}}}}{1000\thinspace\mathrm{\cancel{mL_{\ce{Ca(OH)2}}}}} \cdot \frac{0.5\thinspace\mathrm{\cancel{mol_{\ce{Ca(OH)2}}}}}{1\thinspace\mathrm{\cancel{L_{\ce{Ca(OH)2}}}}} \\\\
 & \cdot \frac{2\thinspace\mathrm{\cancel{mol_{\ce{HCl}}}}}{1\thinspace\mathrm{\cancel{mol_{\ce{Ca(OH)2}}}}}\cdot \frac{1\thinspace\mathrm{L_{\ce{HCl}}}}{0.25\thinspace\mathrm{\cancel{mol_{\ce{HCl}}}}} = 0.2\thinspace\mathrm{L_{\ce{HCl}}}
-\end{align*}
+\end{aligned}
+$$
+{{% /math %}}
+
 {{% /callout %}}
 
 ## Cálculos masa-volumen
@@ -212,9 +237,11 @@ $$
 <br>
 
 > Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
+{{% math %}}
 $$
 \ce{2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)}
 $$
+{{% /math %}}
 $M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.
 
 ---
@@ -228,19 +255,26 @@ La ecuación nos la dan ya **escrita** y **ajustada**. Notar las letras entre pa
 
 ---
 
-Calculamos lo primero las **masas molares** de los compuestos involucrados:	
-\begin{align*}
-	M(\ce{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (me lo daban como dato)} \\\\		
+Calculamos lo primero las **masas molares** de los compuestos involucrados:
+
+{{% math %}}
+$$
+\begin{aligned}
+	M(\ce{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (me lo daban como dato)} \\\\
 	M(\ce{H2}) &= 2\cdot M(\ce{H}) = 2\cdot 1\thinspace\mathrm{g/mol} = 2\thinspace\mathrm{g/mol}
-\end{align*}
+\end{aligned}
+$$
+{{% /math %}}
 
 ---
 
 A partir de los gramos de $\ce{Na}$ calculamos los moles de $\ce{H2}$ que se desprenderán, utilizando los dos primeros pasos del **cálculo masa-masa**:
 
+{{% math %}}
 $$
 41.4\thinspace\mathrm{\cancel{g_{\ce{Na}}}}\cdot \frac{1\thinspace\mathrm{\cancel{mol_{\ce{Na}}}}}{23\thinspace\mathrm{\cancel{g_{\ce{Na}}}}}\cdot \frac{1\thinspace\mathrm{mol_{\ce{H2}}}}{2\thinspace\mathrm{\cancel{mol_{\ce{Na}}}}} = 0.9\thinspace\mathrm{mol_\ce{H2}}
 $$
+{{% /math %}}
 
 ---
 
@@ -256,9 +290,13 @@ T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\\\
 \end{align*}
 
 Despejamos el volumen $V$:
+
+{{% math %}}
 $$
 V = \frac{nRT}{p} = \frac{0.9\thinspace\mathrm{\cancel{mol}} \cdot 0.082\thinspace\frac{\mathrm{\cancel{atm}\thinspace L}}{\mathrm{\cancel{mol}\thinspace \cancel{K}}}\cdot 298\thinspace\mathrm{\cancel{K}}}{0.98\thinspace\mathrm{\cancel{atm}}} = 22.4\thinspace\mathrm{L_\ce{H2}}
-$$	
+$$
+{{% /math %}}
+
 {{% /callout %}}
 
 ## Práctica virtual
@@ -267,5 +305,5 @@ Te recomendamos ver este precioso vídeo/corto-documental del [Departamento de F
 {{< youtube KFcRVAjuxAM >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1wsDhdlJNQKB2VvzHSoMPOMhqPSKEyVP0/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1wsDhdlJNQKB2VvzHSoMPOMhqPSKEyVP0/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
