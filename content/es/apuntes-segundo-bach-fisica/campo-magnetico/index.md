@@ -593,12 +593,12 @@ Supongamos ahora que inclinamos la espira de forma que su vector superficie form
 
 {{< figure library="true" src="campo-magnetico-2Bach-fisica/espira-corriente-rotada.svg" lightbox="false" width="100%" >}}
 
-Las fuerzas que actúan sobre los lados de longitud $a$ se cancelan porque actúan sobre la misma línea (misma $z$). Pero esto no sucede con los lados de longitud $b$. Las fuerzas no se encuentran sobre la misma línea y forman un [**par de fuerzas**](https://es.wikipedia.org/wiki/Par_de_fuerzas) que hace girar la espira. Podemos calcular el momento del par:
+Las fuerzas que actúan sobre los lados de longitud $b$ se cancelan porque actúan sobre la misma línea (misma $z$). Pero esto no sucede con los lados de longitud $a$. Las fuerzas no se encuentran sobre la misma línea y forman un [**par de fuerzas**](https://es.wikipedia.org/wiki/Par_de_fuerzas) que hace girar la espira. Podemos calcular el momento del par:
 
 $$
 \begin{aligned}
-\vec M &= \left(\vec r\times\vec F_b\right) + \left(-\vec r\times-\vec F_b\right) = 2\left(\vec r\times\vec F_b\right) \\
-M &= 2\frac{a}{2}IbB\sin\theta = ISB\sin\theta
+\vec M &= \left(\vec r\times\vec F_a\right) + \left(-\vec r\times-\vec F_a\right) = 2\left(\vec r\times\vec F_a\right) \\
+M &= 2\frac{b}{2}IaB\sin\theta = ISB\sin\theta
 \end{aligned}
 $$
 
