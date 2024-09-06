@@ -150,19 +150,19 @@ L'**anàlisi dimensional** ens permet **relacionar** les **dimensions** (unitats
 ### Equació de dimensions
 Les **equacions** de **dimensions** són expressions algebraiques en les quals substituïm les magnituds físiques per les seves dimensions (unitats). Per a denotar les dimensions d'una magnitud utilitzem la notació de **claudàtors** $[\ ]$. **Destaquem**:
 \begin{align*}
-[\text{Masa}] &= \mathsf M \\\\
+[\text{Massa}] &= \mathsf M \\\\
 [\text{Longitud}] &= \mathsf L \\\\
-[\text{Tiempo}] &= \mathsf T
+[\text{Temps}] &= \mathsf T
 \end{align*}
 Sempre que treballem amb equacions de dimensions tractarem d'expressar les dimensions de les magnituds físiques que ens trobem en funció de $\mathsf M$, $\mathsf L$ i $\mathsf T$.
 
 #### Exemples
 
 $$
-\begin{gathered}
-[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3}; \\\\
+[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3};
+$$
+$$
 [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}
-\end{gathered}
 $$
 
 #### Exemple resolt

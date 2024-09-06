@@ -267,24 +267,24 @@ Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las 
 #### Ejemplos
 
 $$
-\begin{gathered}
-[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3}; \\\\
+[S] = \mathsf{L}^2; [V] = \mathsf{L}^3; [d] = \mathsf{M}\mathsf{L}^{-3};
+$$
+$$
 [v] = \mathsf{L}\mathsf{T}^{-1}; [a] = \mathsf{L}\mathsf{T}^{-2}; [F] = \mathsf{M}\mathsf{L}\mathsf{T}^{-2}
-\end{gathered}
 $$
 
 ---
 
 #### Ejemplo resuelto
-<q>Demuestra que la energía cinética,
-$$
-E_\mathrm c = \frac{1}{2} m v^2,
-$$
-y la energía potencial gravitatoria,
-$$
-E_\mathrm p = mgh,
-$$
-tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.</q>
+> Demuestra que la energía cinética,
+  $$
+  E_\mathrm c = \frac{1}{2} m v^2,
+  $$
+  y la energía potencial gravitatoria,
+  $$
+  E_\mathrm p = mgh,
+  $$
+  tienen las mismas dimensiones, donde $m$ es masa, $v$ es velocidad, $g$ es la aceleración de la gravedad y $h$ es altura.
 
 ---
 
