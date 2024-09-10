@@ -213,7 +213,7 @@ L'**enllaç metàl·lic** és l'enllaç químic que **manté units** als **àtom
 
 ---
 
-Sorgeix de la **atracció electroestàtica** entre els **electrons** de conducció i els **cations** metàl·lics.
+Sorgeix de l'**atracció electroestàtica** entre els **electrons** de conducció i els **cations** metàl·lics.
 
 ---
 

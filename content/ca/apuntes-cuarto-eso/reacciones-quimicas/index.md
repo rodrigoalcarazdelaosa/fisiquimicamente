@@ -57,7 +57,7 @@ $$
 - A, B, C i D representen els **símbols químics** dels àtoms o la **fórmula molecular** dels compostos que reaccionen (costat esquerre) i els que es produeixen (costat dret).
 - $a$, $b$, $c$ i $d$ representen els **coeficients estequiomètrics**, que han de ser ajustats segons la **llei de conservació de la massa** (comparant d'esquerra a dreta àtom per àtom el nombre que hi ha d'aquests a cada costat de la fletxa).
 
-Els **coeficients estequiomètrics** indiquen el nombre d'àtoms/molècules/**mols** que reaccionen/es produeixen de cada element/compost (o volum si les substancies que intervenen són gasos en les mateixes condicions de pressió i temperatura).
+Els **coeficients estequiomètrics** indiquen el nombre d'àtoms/molècules/**mols** que reaccionen/es produeixen de cada element/compost (o volum si les substàncies que intervenen són gasos en les mateixes condicions de pressió i temperatura).
 
 ### Exemple
 {{% callout example %}}
@@ -73,7 +73,7 @@ $$
 
 ---
 
-Comencem pel $\ce{Mn}$: veiem que a l'esquerra hi ha 1 àtom de Mn $\ce{Mn}$ i a la dreta hi ha també 1 àtom, està **ajustat**.
+Comencem pel $\ce{Mn}$: veiem que a l'esquerra hi ha 1 àtom de $\ce{Mn}$ i a la dreta hi ha també 1 àtom, està **ajustat**.
 
 ---
 
@@ -191,7 +191,7 @@ Pots aprendre més amb aquesta excel·lent **simulació**:
 
 {{% math %}}
 $$
-\ce{2HCl(ac) + Ca(OH)2(ac) -> CaCl2(ac) +  2H2O(l)}
+\ce{2HCl(aq) + Ca(OH)2(aq) -> CaCl2(aq) +  2H2O(l)}
 $$
 {{% /math %}}
 
@@ -219,7 +219,7 @@ $$
 - $V$ és el volum que ocupa el gas, mesurat en L.
 - $n$ és el **nombre de mols** que tenim del gas, que el podem relacionar amb els grams a través de la **massa molar**.
 - $R=0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}$ és la **constant universal dels gasos ideals**[^1].
-- $T$ és la **temperatura** a la qual es troba el gas, mesura en K:
+- $T$ és la **temperatura** a la qual es troba el gas, mesurada en K:
 	$$
 	T(\mathrm K) = T(^\circ\mathrm C) + 273
 	$$

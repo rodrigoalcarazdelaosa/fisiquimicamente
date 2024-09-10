@@ -113,7 +113,7 @@ Les **substàncies covalents cristal·lines** contenen un gran nombre d'**àtoms
 - Solen ser **mals conductors** (no així el grafit o el grafè).
 
 ## Enllaç metàl·lic
-El **enllaç metàl·lic** és l'enllaç químic que **manté units** als **àtoms** d'un **metall** entre si. Sorgeix de la **atracció electroestàtica** entre els **electrons** de conducció i els **cations** metàl·lics.
+El **enllaç metàl·lic** és l'enllaç químic que **manté units** als **àtoms** d'un **metall** entre si. Sorgeix de l'**atracció electroestàtica** entre els **electrons** de conducció i els **cations** metàl·lics.
 
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-metalico.svg" title="Esquema de l'**enllaç metàl·lic**, amb els **cations** en **posicions fixes** i els **electrons movent-se lliurement** en un ***núvol***. Font: https://commons.wikimedia.org/wiki/File:Metalic_bond_model.svg." lightbox="false" width="100%" >}}
 

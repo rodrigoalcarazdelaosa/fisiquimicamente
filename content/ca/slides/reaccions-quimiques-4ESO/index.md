@@ -57,7 +57,7 @@ $$
 
 ---
 
-Els **coeficients estequiomètrics** indiquen el nombre d'àtoms/molècules/**mols** que reaccionen/es produeixen de cada element/compost (o volum si les substancies que intervenen són gasos en les mateixes condicions de pressió i temperatura).
+Els **coeficients estequiomètrics** indiquen el nombre d'àtoms/molècules/**mols** que reaccionen/es produeixen de cada element/compost (o volum si les substàncies que intervenen són gasos en les mateixes condicions de pressió i temperatura).
 
 ---
 
@@ -196,7 +196,7 @@ Pots aprendre més amb aquesta excel·lent **simulació**:
 
 <q>L'àcid clorhídric reacciona amb l'hidròxid de calci per a produir clorur de calci i aigua. Calcula el volum d'àcid clorhídric 0.25 M que es necessita per a reaccionar amb 50 ml d'hidròxid de calci 0.5 M.</q>
 $$
-2\thinspace \mathrm{HCl(ac)} + \mathrm{Ca(OH)_2(ac)} \longrightarrow \mathrm{CaCl_2(ac)} +  2\thinspace \mathrm{H_2O(l)}
+2\thinspace \mathrm{HCl(aq)} + \mathrm{Ca(OH)_2(aq)} \longrightarrow \mathrm{CaCl_2(aq)} +  2\thinspace \mathrm{H_2O(l)}
 $$
 
 ---
@@ -235,8 +235,8 @@ $$
 - $p$ és la **pressió** a la qual es troba el gas, mesurada en atm.
 - $V$ és el volum que ocupa el gas, mesurat en L.
 - $n$ és el **nombre de mols** que tenim del gas, que el podem relacionar amb els grams a través de la **massa molar**.
-- $R=0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}$ és la **constant universal dels gasos ideals**[^1].
-- $T$ és la **temperatura** a la qual es troba el gas, mesura en K:
+- $R=0.082\thinspace\frac{\mathrm{atm\thinspace L}}{\mathrm{mol\thinspace K}}$ és la **constant universal dels gasos ideals**.
+- $T$ és la **temperatura** a la qual es troba el gas, mesurada en K:
   $$
   T(\mathrm K) = T(^\circ\mathrm C) + 273
   $$
