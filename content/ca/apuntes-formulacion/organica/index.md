@@ -37,7 +37,7 @@ threedmol: true
 {{% callout note %}}
 Et recomanem fer una ullada a [aquest **projecte** de **Overleaf**](https://www.overleaf.com/read/jgvfsvdnfgcs#18f632), el qual alberga el **codi LaTeX** per generar **imatges** de moltes **molècules orgàniques**, cortesia de **{{% mention alba-lopez-valenzuela %}}**.
 
-**Berto Tomás** també ens comparteix [aquest **document**](https://docs.google.com/document/d/1RV1fCLFnO_TVD4Om59ooWrVxHadEqc-7/edit?usp=share_link&ouid=112044728092771218148&rtpof=true&sd=true) amb un **banc** de **compostos orgànics editables**.
+**Berto Tomás** també ens comparteix [aquest **document**](https://docs.google.com/document/d/1RV1fCLFnO_TVD4Om59ooWrVxHadEqc-7/edit) amb un **banc** de **compostos orgànics editables**.
 {{% /callout %}}
 
 {{% callout note %}}
@@ -225,7 +225,7 @@ La **cadena principal** es **tria** aplicant els següents **criteris**:
 4. Conté més àtoms.
 5. Conté més enllaços múltiples (dobles en cas d'empat).
 6. Conté més substituents.
-								
+
 ### Numeració
 La **cadena principal** es **numera** aplicant els següents **criteris**:
 
