@@ -27,6 +27,10 @@ links:
   icon:
   name: 📝 Enunciados
   url: interaccion-electromagnetica-EBAU-Fisica-enunciados.pdf
+- icon_pack: fas
+  icon:
+  name: 🔗 Más ejercicios
+  url: https://drive.google.com/file/d/1-0iVp_bDq28Bt5AP3hVSJsX0VRwHyWr0/view
 ---
 
 {{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-electromagnetica/interaccion-electromagnetica-EBAU-Fisica.pdf" filename="interaccion-electromagnetica-EBAU-Fisica.pdf" %}}

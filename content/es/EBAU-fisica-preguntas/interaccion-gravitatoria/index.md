@@ -27,6 +27,10 @@ links:
   icon:
   name: 📝 Enunciados
   url: interaccion-gravitatoria-EBAU-Fisica-enunciados.pdf
+- icon_pack: fas
+  icon:
+  name: 🔗 Más ejercicios
+  url: https://drive.google.com/file/d/106vGQ-P64nhPD6EchjUk5VeRZgDzdneK/view
 ---
 
 {{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-gravitatoria/interaccion-gravitatoria-EBAU-Fisica.pdf" filename="interaccion-gravitatoria-EBAU-Fisica.pdf" %}}
