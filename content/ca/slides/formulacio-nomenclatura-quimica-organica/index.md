@@ -13,7 +13,7 @@ slides:
   reveal_options:
     hash: true
 
-threedmol: true    
+threedmol: true
 ---
 
 <section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="10%" data-background-position="3.629% 5%, 96.371% 5%">
@@ -141,7 +141,7 @@ Compostos orgànics formats únicament per àtoms de carboni (C) i hidrogen (H).
 
 ---
 
-DDistingim entre:
+Distingim entre:
 
 Alifàtics
 : Poden ser de **cadena oberta** (acíclics) o **tancada** (cíclics).
@@ -337,7 +337,7 @@ La **cadena principal** es **tria** aplicant els següents **criteris**:
 6. Conté més substituents.
 
 ---
-								
+
 #### Numeració
 La **cadena principal** es **numera** aplicant els següents **criteris**:
 
