@@ -189,7 +189,7 @@ Posición, desplazamiento, velocidad, aceleración, fuerza...
 ## Magnitudes básicas y derivadas
 
 - [Magnitudes básicas del SI](#/3/1)
-- [Magnitudes derivadas](#/3/5)
+- [Magnitudes derivadas](#/3/6)
 
 (continúa hacia abajo)
 
@@ -215,6 +215,10 @@ El **Sistema Internacional** de **Unidades** (SI) define **siete magnitudes bás
 ---
 
 > El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades-SI/index.md" >}}).
+
+---
+
+{{< youtube rdhybZKx6Ug >}}
 
 ---
 

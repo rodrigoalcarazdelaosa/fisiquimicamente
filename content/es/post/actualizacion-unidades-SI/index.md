@@ -1,6 +1,6 @@
 ---
 title: Actualización de las unidades básicas del SI
-subtitle: Ahora todas definidas en función de constantes físicas universales 
+subtitle: Ahora todas definidas en función de constantes físicas universales
 summary: Ahora todas definidas en función de constantes físicas universales.
 breadcrumbs: ["blog"]
 date: "2020-04-30T00:00:00Z"
@@ -23,9 +23,9 @@ links:
   icon:
   name: 📄 PDF BOE
   url: https://www.boe.es/boe/dias/2020/04/29/pdfs/BOE-A-2020-4707.pdf
-  
+
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster Nuevo SI
   url: poster-nuevo-SI.pdf
 - icon_pack: fas
@@ -47,6 +47,8 @@ Si quieres ampliar la información mostrada aquí, [@fqsaja1](https://twitter.co
 {{% /callout %}}
 
 El **Sistema Internacional** de **Unidades** (SI) sufrió una [revisión en 2018](https://www.cem.es/sites/default/files/2021-01/cem_revisionsi_edem_18mayo2018.pdf), con la **redefinición** de cuatro de sus siete _unidades de base_, en concreto el kilogramo (kg), el amperio (A), el kelvin (K) y el mol.
+
+{{< youtube rdhybZKx6Ug >}}
 
 {{< youtube nqxHnu4LJ6k >}}
 

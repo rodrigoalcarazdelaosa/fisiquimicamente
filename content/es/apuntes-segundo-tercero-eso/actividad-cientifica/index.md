@@ -137,6 +137,8 @@ El Sistema Internacional de Unidades (SI) define siete **magnitudes básicas**:
 {{% callout note %}}
 El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades-SI/index.md" >}}).
 
+{{< youtube rdhybZKx6Ug >}}
+
 {{< youtube nqxHnu4LJ6k >}}
 {{% /callout %}}
 

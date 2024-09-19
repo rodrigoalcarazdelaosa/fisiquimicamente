@@ -96,8 +96,8 @@ o con estas excelentes **prácticas virtuales** del [Departamento de Física y Q
 ## Medidas de magnitudes
 
 - [Sistema Internacional de Unidades (SI)](#/2/3)
-- [Notación científica](#/2/9)
-- [Factores de conversión](#/2/13)
+- [Notación científica](#/2/10)
+- [Factores de conversión](#/2/14)
 
 (continúa hacia abajo)
 
@@ -133,6 +133,10 @@ Una **magnitud** es toda propiedad que se puede **medir**.
 ---
 
 > El **Sistema Internacional** de **Unidades** (SI) sufrió una revisión en 2018. Puedes leer más sobre ello [**aquí**]({{< ref "/post/actualizacion-unidades-SI/index.md" >}}).
+
+---
+
+{{< youtube rdhybZKx6Ug >}}
 
 ---
 
