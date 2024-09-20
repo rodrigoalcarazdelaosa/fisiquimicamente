@@ -50,7 +50,7 @@ Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 Basant-se en les idees de **Demòcrit**, John **Dalton** va proposar aquest model a principis del segle XIX, considerant l’**àtom** com una **esfera massissa indivisible**.
 
 ---
- 
+
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" lightbox="false" width="70%" >}}
 
 ---
@@ -177,7 +177,7 @@ Té un espectre molt característic, inversament relacionat amb la intensitat, q
 
 ---
 
-La **fallida** de la **teoria clàssica** vigent a l'hora d'explicar la forma d'aquest espectre es coneix com la **catàstrofe ultraviolada**.
+La **fallida** de la **teoria clàssica** vigent a l'hora d'explicar la forma d'aquest espectre es coneix com la [**catàstrofe ultraviolada**](https://ca.wikipedia.org/wiki/Catàstrofe_ultraviolada).
 
 **Max Planck** va ser qui va aconseguir, en 1900, explicar l'espectre del cos negre, donant així **origen** a la **teoria quàntica**.
 
@@ -196,7 +196,7 @@ Aprèn més sobre la **radiació** de **cos negre** amb aquesta excel·lent **si
 	E = h \nu,
 	$$
 	on $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ és la constant de Planck.
-	
+
 ---
 
 ### Efecte fotoelèctric
@@ -267,8 +267,8 @@ En el següent **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/e
 
 {{< youtube qCmtegdqOOA >}}
 
----	
-	
+---
+
 ### Principi d'incertesa de Heisenberg
 
 > Existeixen uns certs parells de magnituds físiques (aquelles el producte de les quals té dimensions de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no poden ser determinades simultàniament amb total exactitud, perquè el producte de les seves incerteses ha de ser major o igual que $h/(4\pi) = \hbar/2$.
@@ -276,7 +276,7 @@ En el següent **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/e
 ---
 
 **Exemples** de tals magnituds són:
-	
+
 \begin{align*}
 	\text{Posició $x$ i moment linial $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
 	\text{Energia $E$ i temps $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
@@ -440,7 +440,7 @@ Després dels descobriments de **Thomson**, **Rutherford** i **Chadwick** a prin
 | Protó | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutró | $1.675\times 10^{-27}$ | $0$ |
 | Electró | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
+<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>
 <td colspan=3>$q_\text{protón}=-q_\text{electrón}$
 
 ---
@@ -453,7 +453,7 @@ Després dels descobriments de **Thomson**, **Rutherford** i **Chadwick** a prin
 {{< figure library="true" src="estructura-materia-2Bach-quimica/modelo-estandar-cat.svg" lightbox="false" width="80%" >}}
 
 ---
-	
+
 ### Evolució de l'Univers
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/evolucion-universo-cat.svg" lightbox="false" width="100%" >}}

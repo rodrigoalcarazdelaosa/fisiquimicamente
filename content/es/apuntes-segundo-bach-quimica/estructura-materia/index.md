@@ -199,9 +199,9 @@ Es la **radiación electromagnética re-emitida** por un cuerpo ideal que absorb
 
 Tiene un espectro muy característico, inversamente relacionado con la intensidad, que depende únicamente de la temperatura del cuerpo.
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro.svg" title="Espectros de cuerpos negros a distintas temperaturas, comparados con la predicción clásica (catástrofe ultravioleta)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro.svg" title="Espectros de cuerpos negros a distintas temperaturas, comparados con la predicción clásica ([catástrofe ultravioleta](https://es.wikipedia.org/wiki/Catástrofe_ultravioleta))." lightbox="false" width="100%" >}}
 
-El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma de este espectro se conoce como la **catástrofe ultravioleta**.
+El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma de este espectro se conoce como la [**catástrofe ultravioleta**](https://es.wikipedia.org/wiki/Catástrofe_ultravioleta).
 
 **Max Planck** fue quien consiguió, en 1900, explicar el espectro del cuerpo negro, dando así **origen** a la **teoría cuántica**.
 

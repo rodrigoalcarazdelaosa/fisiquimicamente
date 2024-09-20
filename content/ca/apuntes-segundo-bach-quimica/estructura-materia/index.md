@@ -26,7 +26,7 @@ image:
   caption: Imatge de [**LoveYouAll**](https://pixabay.com/es/users/loveyouall-3307648/) en [Pixabay](https://pixabay.com/es/)
   focal_point: Smart
 
-links:  
+links:
 - icon_pack: fas
   icon:
   name: 📜 Pòster
@@ -46,7 +46,7 @@ math: true
 ## Models atòmics
 ### Dalton
 Basant-se en les idees de **Demòcrit**, John **Dalton** proposà aquest model a principis del segle XIX, considerant l'**àtom** com a una **esfera massissa indivisible**.
- 
+
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" title="L'**àtom** de **Dalton** és una **esfera massissa indivisible**." lightbox="false" width="100%" >}}
 
 Els **descobriments** de la **radioactivitat natural** per **Becquerel** (1896) i l'**electró** per **Thomson** (1897) van fer necessària la revisió d'aquest model.
@@ -174,9 +174,9 @@ $$
 
 Té un espectre molt característic, inversament relacionat amb la intensitat, que depèn únicament de la temperatura del cos.
 
-{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro-cat.svg" title="Espectres de cossos negres a diferents temperatures, comparats amb la predicció clàssica (catàstrofe ultraviolada)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="estructura-materia-2Bach-quimica/radiacion-cuerpo-negro-cat.svg" title="Espectres de cossos negres a diferents temperatures, comparats amb la predicció clàssica ([catàstrofe ultraviolada](https://ca.wikipedia.org/wiki/Catàstrofe_ultraviolada))." lightbox="false" width="100%" >}}
 
-La **incapacitat** de la **teoria clàssica** vigent a l'hora d'explicar la forma d'aquest espectre es coneix com a **catàstrofe ultraviolada**.
+La **incapacitat** de la **teoria clàssica** vigent a l'hora d'explicar la forma d'aquest espectre es coneix com a [**catàstrofe ultraviolada**](https://ca.wikipedia.org/wiki/Catàstrofe_ultraviolada).
 
 **Max Planck** fou qui conseguí, el 1900, explicar l'espectre del cos negre, donant així **origen** a la **teoria quàntica**.
 
@@ -230,17 +230,17 @@ A partir d'**experiments** de **difracció** d'**electrons**, **Louis de Broglie
 	\lambda = \frac{h}{mv},
 	$$
 	sent $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ la constant de Planck.
-	
+
 En el següent **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/en/) (en anglès) pots aprende més sobre la **dualitat ona-corpuscle**:
 
-{{< youtube qCmtegdqOOA >}}	
-	
+{{< youtube qCmtegdqOOA >}}
+
 ### Principi d'incertesa de Heisenberg
 
 > Existeixen certs parells de magnituds físiques (aquelles el producto del qual tenen dimensions de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no poden ser determinades simultàniament amb total exactitud, ja que el producte de les seves incerteses ha de ser major o igual que $h/(4\pi) = \hbar/2$.
 
 **Exemples** de tals magnituds són:
-	
+
 \begin{align*}
 	\text{Posició $x$ i moment lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
 	\text{Energia $E$ i temps $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
@@ -347,14 +347,14 @@ Després dels descobriments de **Thomson**, **Rutherford** i **Chadwick** a prin
 | Protó | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutró | $1.675\times 10^{-27}$ | $0$ |
 | Electró | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protó}\simeq m_\text{neutró}\sim 2000m_\text{electró}$<br>	
+<td colspan=3>$m_\text{protó}\simeq m_\text{neutró}\sim 2000m_\text{electró}$<br>
 <td colspan=3>$q_\text{protó}=-q_\text{electró}$
 
 ### Model estàndard
 És la teoria que **descriu tres de les quatre interaccions fonamentals** de la naturalesa conegudes (electromagnètica, nuclear forta i nuclear dèbil), a més a més de **classificar** totes les **partícules elementals** conegudes.
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/modelo-estandar-cat.svg" title="Traduïda i adaptada de https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles.svg." lightbox="false" width="100%" >}}
-	
+
 ### Evolució de l'Univers
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/evolucion-universo-cat.svg" title="Traduïda i adaptada de https://commons.wikimedia.org/wiki/File:History_of_the_Universe.svg. Icones dissenyades per [Freepik](https://www.freepik.com/) de https://www.flaticon.es/." lightbox="false" width="100%" >}}

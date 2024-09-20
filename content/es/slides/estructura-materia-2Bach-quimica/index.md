@@ -50,7 +50,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 Basándose en las ideas de **Demócrito**, John **Dalton** propuso este modelo a principios del siglo XIX, considerando al **átomo** como una **esfera maciza indivisible**.
 
 ---
- 
+
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" lightbox="false" width="70%" >}}
 
 ---
@@ -177,7 +177,7 @@ Tiene un espectro muy característico, inversamente relacionado con la intensida
 
 ---
 
-El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma de este espectro se conoce como la **catástrofe ultravioleta**.
+El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma de este espectro se conoce como la [**catástrofe ultravioleta**](https://es.wikipedia.org/wiki/Catástrofe_ultravioleta).
 
 **Max Planck** fue quien consiguió, en 1900, explicar el espectro del cuerpo negro, dando así **origen** a la **teoría cuántica**.
 
@@ -204,7 +204,7 @@ Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **si
 	E = h \nu,
 	$$
 	donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck.
-	
+
 ---
 
 ### Efecto fotoeléctrico
@@ -276,8 +276,8 @@ En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/
 
 {{< youtube qCmtegdqOOA >}}
 
----	
-	
+---
+
 ### Principio de incertidumbre de Heisenberg
 
 > Existen ciertos pares de magnitudes físicas (aquellas cuyo producto tiene dimensiones de $\mathsf{M}\mathsf{L}^2\mathsf{T}^{-1}$), que no pueden ser determinadas simultáneamente con total exactitud, pues el producto de sus incertidumbres ha de ser mayor o igual que $h/(4\pi) = \hbar/2$.
@@ -285,7 +285,7 @@ En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/
 ---
 
 **Ejemplos** de tales magnitudes son:
-	
+
 \begin{align*}
 	\text{Posición $x$ y momento lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
 	\text{Energía $E$ y tiempo $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
@@ -459,7 +459,7 @@ Tras los descubrimientos de **Thomson**, **Rutherford** y **Chadwick** a princip
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutrón | $1.675\times 10^{-27}$ | $0$ |
 | Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
+<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>
 <td colspan=3>$q_\text{protón}=-q_\text{electrón}$
 
 ---
@@ -494,7 +494,7 @@ O aprende sobre cómo se pueden **detectar** los [**neutrinos**](https://es.wiki
 </div>
 
 ---
-	
+
 ### Evolución del Universo
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/evolucion-universo.svg" lightbox="false" width="100%" >}}
