@@ -25,7 +25,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: movimientos-poster.pdf
 - icon_pack: fas
@@ -35,7 +35,7 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes
-  url: movimientos-frikiexamenes.pdf  
+  url: movimientos-frikiexamenes.pdf
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -116,13 +116,13 @@ También puedes ver estos excelentes vídeos del [Departamento de Física y Quí
 {{< youtube C-1iJRD-u_I >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1utKM4BKCW5uIAc-9ggCjRFioXHaP1Z7E/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1utKM4BKCW5uIAc-9ggCjRFioXHaP1Z7E/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
 
 {{< youtube 3MXBhRjaIlE >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1oSsmSv0xhd2IH8j-9CubdC6aYFpT8NlV/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1oSsmSv0xhd2IH8j-9CubdC6aYFpT8NlV/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
 
 ## Movimiento rectilíneo uniformemente acelerado (MRUA)
@@ -137,14 +137,14 @@ Las **características** del **movimiento rectilíneo uniformemente acelerado (M
 ### Ecuaciones principales
 
 La **ecuaciones principales** del MRUA son:
-\begin{align*}
-	\label{eq:1}
-	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \tag{1} \\\\
-	\label{eq:2}
-	\text{Ecuación de la velocidad: } v(t) &= v_0 + a(t-t_0) \tag{2} \\\\
-	\label{eq:v2}
-	v^2-v_0^2 &= 2a\Delta x \tag{3}
-\end{align*}
+
+$$
+\begin{aligned}
+	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \\
+	\text{Ecuación de la velocidad: } v(t) &= v_0 + a(t-t_0) \\
+	v^2-v_0^2 &= 2a\Delta x
+\end{aligned}
+$$
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $v$ la velocidad final, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
 
@@ -188,7 +188,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube PhfYb7y8cXY >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1ZC17GJcqX3h8rHlfdS43T9uBSkDrR8Oo/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1ZC17GJcqX3h8rHlfdS43T9uBSkDrR8Oo/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
 
 ## Caída libre/lanzamiento vertical
@@ -207,8 +207,8 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el
 | Saturno &#9796; | 1.07 | 10.4 |
 | Tierra &#9793; | 1 | 9.8 |
 | Venus &#9792; | 0.90 | 8.9 |
-| Urano &#9797; | 0.89 | 8.7 |	
-| Marte &#9794; | 0.38 | 3.7 |						
+| Urano &#9797; | 0.89 | 8.7 |
+| Marte &#9794; | 0.38 | 3.7 |
 | Mercurio &#9791; | 0.38 | 3.7 |
 | Luna :crescent_moon: | 0.17 | 1.6 |
 
@@ -216,7 +216,7 @@ Descubre a qué altura podrías saltar en otros planetas con este genial **víde
 
 {{< youtube D8H1RNtka6s >}}
 
-{{< /spoiler >}}	
+{{< /spoiler >}}
 
 ### Ejemplo
 {{% callout example %}}
@@ -236,14 +236,17 @@ y(t) = 120 - 5t + \frac{1}{2}\cdot (-9.8)\cdot t^2 = 120-5t-4.9t^2
 $$
 
 a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
-\begin{gather*}
-	0 = 120 - 5t -4.9t^2 \\\\
-	4.9t^2+5t-120=0 \\\\
+
+$$
+\begin{gathered}
+	0 = 120 - 5t -4.9t^2 \\
+	4.9t^2+5t-120=0 \\
 	t = \frac{-5\pm \sqrt{5^2-4\cdot 4.9\cdot (-120)}}{2\cdot 4.9} = \frac{-5\pm \sqrt{2377}}{9.8} =  \begin{cases}
-4.5\thinspace\mathrm s \\\\
+4.5\thinspace\mathrm s \\
 \xcancel{-5.5\thinspace\mathrm s}
 \end{cases}
-\end{gather*}
+\end{gathered}
+$$
 
 b) Para calcular la velocidad con que choca contra el suelo podemos utilizar la ecuación (2) o la (3):
 
@@ -262,7 +265,7 @@ Utilizando la ecuación (3)
 	v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-120)} \\\\
 	  &= -48.8\thinspace\mathrm{m/s}
 	\end{align*}
-	
+
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="false" width="100%" >}}
 
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical-posicion-tiempo.svg" title="Gráfica de la posición de la piedra en función del tiempo." lightbox="false" width="100%" >}}
@@ -309,26 +312,33 @@ a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada 
 \end{align*}
 
 **Particularizamos** para nuestro caso:
-\begin{gather*}
-x_{0_\mathrm c}=x_{0_\mathrm t}=0 \\\\
-v_{0_\mathrm c}=0;\quad v_\mathrm t = 12\thinspace\mathrm{m/s} \\\\
-a_\mathrm c = 2\thinspace\mathrm{m/s^2} \\\\
-t_{0_\mathrm c}=6\thinspace\mathrm s;\quad t_{0_\mathrm t} = 0
-\end{gather*}
 
-\begin{align*}
-	\text{Coche (MRUA): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\\\
-	 &= (t-6)^2 = t^2-12t+36 \\\\
+$$
+\begin{gathered}
+x_{0_\mathrm c}=x_{0_\mathrm t}=0 \\
+v_{0_\mathrm c}=0;\quad v_\mathrm t = 12\thinspace\mathrm{m/s} \\
+a_\mathrm c = 2\thinspace\mathrm{m/s^2} \\
+t_{0_\mathrm c}=6\thinspace\mathrm s;\quad t_{0_\mathrm t} = 0
+\end{gathered}
+$$
+
+$$
+\begin{aligned}
+	\text{Coche (MRUA): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\
+	 &= (t-6)^2 = t^2-12t+36 \\
 	\text{Tren (MRU): } x_\mathrm t &= 0 + 12\cdot(t-0) = 12t
-\end{align*}
+\end{aligned}
+$$
 
 A continuación imponemos la **condición de encuentro**:
 
-\begin{align*}		
-x_\mathrm c &= x_\mathrm t \\\\
-t^2-12t+36 &= 12t \\\\
+$$
+\begin{aligned}
+x_\mathrm c &= x_\mathrm t \\
+t^2-12t+36 &= 12t \\
 t^2-24t+36 &= 0
-\end{align*}
+\end{aligned}
+$$
 
 Despejamos el **tiempo de encuentro** $t^*$:
 
@@ -350,15 +360,15 @@ donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mat
 b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^*=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
 
 $$
-x_{\mathrm c} (t^{\*}) = t^{\*2}-12t^{\*}+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
+x_{\mathrm c} (t^{*}) = t^{*2}-12t^{*}+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
 $$
-	
+
 ---
 
 c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^*$:
 
 $$
-v_\mathrm c(t^\*) = v_{0_\mathrm c} + a_\mathrm c (t^\*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
+v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
 $$
 
 {{% /callout %}}
@@ -407,8 +417,8 @@ También llamada **aceleración normal**, es una aceleración que surge del camb
 $$
 a_\mathrm c = \frac{v^2}{R} = \omega^2 R
 $$
-		
-y siempre se dirige hacia el centro de la circunferencia.	
+
+y siempre se dirige hacia el centro de la circunferencia.
 
 ### Ejemplo
 {{% callout example %}}

@@ -143,14 +143,13 @@ Las **características** del **movimiento rectilíneo uniformemente acelerado (M
 ### Ecuaciones principales
 
 La **ecuaciones principales** del MRUA son:
-\begin{align*}
-	\label{eq:1}
-	\text{Posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \tag{1} \\\\
-	\label{eq:2}
-	\text{Velocidad: } v(t) &= v_0 + a(t-t_0) \tag{2} \\\\
-	\label{eq:v2}
-	v^2-v_0^2 &= 2a\Delta x \tag{3}
-\end{align*}
+$$
+\begin{aligned}
+	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \\
+	\text{Ecuación de la velocidad: } v(t) &= v_0 + a(t-t_0) \\
+	v^2-v_0^2 &= 2a\Delta x
+\end{aligned}
+$$
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $v$ la velocidad final, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
 
@@ -224,8 +223,8 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el
 | Astro | $g$ | $\mathrm{m/s^2}$ |
 | --- | :---: | :---: |
 | Venus &#9792; | 0.90 | 8.9 |
-| Urano &#9797; | 0.89 | 8.7 |	
-| Marte &#9794; | 0.38 | 3.7 |						
+| Urano &#9797; | 0.89 | 8.7 |
+| Marte &#9794; | 0.38 | 3.7 |
 | Mercurio &#9791; | 0.38 | 3.7 |
 | Luna :crescent_moon: | 0.17 | 1.6 |
 
@@ -254,14 +253,16 @@ $$
 ---
 
 a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
-\begin{gather*}
-	0 = 120 - 5t -4.9t^2 \\\\
-	4.9t^2+5t-120=0 \\\\
+$$
+\begin{gathered}
+	0 = 120 - 5t -4.9t^2 \\
+	4.9t^2+5t-120=0 \\
 	t = \frac{-5\pm \sqrt{5^2-4\cdot 4.9\cdot (-120)}}{2\cdot 4.9} = \frac{-5\pm \sqrt{2377}}{9.8} =  \begin{cases}
-4.5\thinspace\mathrm s \\\\
--5.5\thinspace\mathrm s\text{ (NO)}
+4.5\thinspace\mathrm s \\
+\xcancel{-5.5\thinspace\mathrm s}
 \end{cases}
-\end{gather*}
+\end{gathered}
+$$
 
 ---
 
@@ -272,8 +273,8 @@ Utilizando la ecuación (2)
 	$$
 	v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = -48.8\thinspace\mathrm{m/s}
 	$$
-	
----	
+
+---
 
 Utilizando la ecuación (3)
 : Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = -120\thinspace\mathrm{m}$, e imponiendo el signo $-$ al despejar $v$:
@@ -284,9 +285,9 @@ Utilizando la ecuación (3)
 	v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-120)} \\\\
 	  &= -48.8\thinspace\mathrm{m/s}
 	\end{align*}
-	
----	
-	
+
+---
+
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" lightbox="false" width="25%" >}}
 
 ---
@@ -330,9 +331,9 @@ Seguimos estos **tres pasos**:
   -o-transform: scale(-1, 1);
   -ms-transform: scale(-1, 1);
   transform: scale(-1, 1);">🚞</span> con una rapidez constante de 12&thinsp;m/s. El coche permanece detenido durante 6&thinsp;s y luego arranca con una aceleración constante de 2&thinsp;m/s<sup>2</sup>.</q>
-  
+
 ---
-  
+
 <q>Determinar: <br>
 a) El tiempo que emplea el coche en alcanzar al tren, medido desde el instante en que se detuvo ante el semáforo.<br>
 b) La distancia que recorrió el coche desde el semáforo hasta que alcanzó al tren. <br>
@@ -350,28 +351,34 @@ a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada 
 ---
 
 **Particularizamos** para nuestro caso:
-\begin{gather*}
-x_{0_\mathrm c}=x_{0_\mathrm t}=0 \\\\
-v_{0_\mathrm c}=0;\quad v_\mathrm t = 12\thinspace\mathrm{m/s} \\\\
-a_\mathrm c = 2\thinspace\mathrm{m/s^2} \\\\
+$$
+\begin{gathered}
+x_{0_\mathrm c}=x_{0_\mathrm t}=0 \\
+v_{0_\mathrm c}=0;\quad v_\mathrm t = 12\thinspace\mathrm{m/s} \\
+a_\mathrm c = 2\thinspace\mathrm{m/s^2} \\
 t_{0_\mathrm c}=6\thinspace\mathrm s;\quad t_{0_\mathrm t} = 0
-\end{gather*}
+\end{gathered}
+$$
 
-\begin{align*}
-	\text{Coche (MRUA): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\\\
-	 &= (t-6)^2 = t^2-12t+36 \\\\
+$$
+\begin{aligned}
+	\text{Coche (MRUA): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\
+	 &= (t-6)^2 = t^2-12t+36 \\
 	\text{Tren (MRU): } x_\mathrm t &= 0 + 12\cdot(t-0) = 12t
-\end{align*}
+\end{aligned}
+$$
 
 ---
 
 A continuación imponemos la **condición de encuentro**:
 
-\begin{align*}		
-x_\mathrm c &= x_\mathrm t \\\\
-t^2-12t+36 &= 12t \\\\
+$$
+\begin{aligned}
+x_\mathrm c &= x_\mathrm t \\
+t^2-12t+36 &= 12t \\
 t^2-24t+36 &= 0
-\end{align*}
+\end{aligned}
+$$
 
 ---
 
@@ -380,7 +387,7 @@ Despejamos el **tiempo de encuentro** $t^*$:
 $$
 t^* = \frac{24\pm\sqrt{24^2-4\cdot 1\cdot 36}}{2} = \frac{24\pm \sqrt{432}}{2} =  \begin{cases}
 	22.4\thinspace\mathrm s \\\\
-	1.6\thinspace\mathrm s\text{ (NO)}
+	\xcancel{1.6\thinspace\mathrm s}
 \end{cases}
 $$
 
@@ -398,18 +405,18 @@ donde se ve claramente cómo el coche está parado los primeros 6&thinsp;s para 
 
 ---
 
-b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^{\*}=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
+b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^{*}=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
 
 $$
-x_{\mathrm c} (t^{\*}) = t^{\*2}-12t^{\*}+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
+x_{\mathrm c} (t^{*}) = t^{*2}-12t^{*}+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
 $$
-	
+
 ---
 
-c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^\*$:
+c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^*$:
 
 $$
-v_\mathrm c(t^\*) = v_{0_\mathrm c} + a_\mathrm c (t^\*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
+v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
 $$
 
 {{% /section %}}
@@ -485,7 +492,7 @@ También llamada **aceleración normal**, es una aceleración que surge del camb
 $$
 a_\mathrm c = \frac{v^2}{R} = \omega^2 R
 $$
-		
+
 y siempre se dirige hacia el centro de la circunferencia.
 
 ---
