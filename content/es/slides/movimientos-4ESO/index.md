@@ -143,6 +143,8 @@ Las **características** del **movimiento rectilíneo uniformemente acelerado (M
 ### Ecuaciones principales
 
 La **ecuaciones principales** del MRUA son:
+
+{{% math width="100%" %}}
 $$
 \begin{aligned}
 	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \\
@@ -150,6 +152,7 @@ $$
 	v^2-v_0^2 &= 2a\Delta x
 \end{aligned}
 $$
+{{% /math %}}
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $v$ la velocidad final, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
 
@@ -253,6 +256,8 @@ $$
 ---
 
 a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
+
+{{% math width="100%" %}}
 $$
 \begin{gathered}
 	0 = 120 - 5t -4.9t^2 \\
@@ -263,6 +268,7 @@ $$
 \end{cases}
 \end{gathered}
 $$
+{{% /math %}}
 
 ---
 
@@ -278,13 +284,17 @@ Utilizando la ecuación (2)
 
 Utilizando la ecuación (3)
 : Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = -120\thinspace\mathrm{m}$, e imponiendo el signo $-$ al despejar $v$:
-	$$
-	v^2-v_0^2 = 2a\Delta x \tag{3}
-	$$
-	\begin{align*}
-	v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-120)} \\\\
-	  &= -48.8\thinspace\mathrm{m/s}
-	\end{align*}
+
+$$
+v^2-v_0^2 = 2a\Delta x \tag{3}
+$$
+
+$$
+\begin{aligned}
+v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-120)} \\
+&= -48.8\thinspace\mathrm{m/s}
+\end{aligned}
+$$
 
 ---
 

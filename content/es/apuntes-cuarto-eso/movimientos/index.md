@@ -105,9 +105,11 @@ $$
 $$
 
 La distancia recorrida en $5\thinspace\mathrm{min}$ será por tanto:
+{{% math %}}
 $$
 \Delta x (5\thinspace\mathrm{min}) = x(5\thinspace\mathrm{min}) - x_0 =  0.12\thinspace\mathrm{m/\cancel{min}} \cdot 5\thinspace\cancel{\mathrm{min}} = 0.6\thinspace\mathrm m
 $$
+{{% /math %}}
 {{% /callout %}}
 
 ### Prácticas virtuales
@@ -138,6 +140,7 @@ Las **características** del **movimiento rectilíneo uniformemente acelerado (M
 
 La **ecuaciones principales** del MRUA son:
 
+{{% math %}}
 $$
 \begin{aligned}
 	\text{Ecuación de la posición: } x(t) &= x_0 +v_0(t-t_0) +\frac{1}{2}a(t-t_0)^2 \\
@@ -145,6 +148,7 @@ $$
 	v^2-v_0^2 &= 2a\Delta x
 \end{aligned}
 $$
+{{% /math %}}
 
 donde $x$ es la posición final, $x_0$ la posición inicial, $v_0$ la velocidad inicial, $v$ la velocidad final, $a$ la aceleración, $t$ el tiempo final, $t_0$ el tiempo inicial y $\Delta x = x-x_0$ es la distancia o espacio recorrido.
 
@@ -168,9 +172,12 @@ Agudiza tu comprensión de la **posición**, la **velocidad** y la **aceleració
 ---
 
 Lo primero pasamos la **velocidad inicial** $v_0$ a m/s:
+
+{{% math %}}
 $$
 v_0 = 70.2\thinspace\frac{\cancel{\mathrm{km}}}{\cancel{\mathrm{h}}}\cdot \frac{1000\thinspace\mathrm m}{1\thinspace\cancel{\mathrm{km}}} \cdot \frac{1\thinspace\cancel{\mathrm h}}{3600\thinspace\mathrm s} = 19.5\thinspace\mathrm{m/s}
 $$
+{{% /math %}}
 
 La frase "*disminuye su velocidad a razón de $3\thinspace\mathrm{m/s}$ cada segundo*" la tenemos que interpretar como que su **aceleración** $a=-3\thinspace\mathrm{m/s^2}$ (el signo $-$ es porque su velocidad disminuye, y la velocidad la tomamos positiva). Como no me dan información sobre tiempo ni me piden ningún tiempo (sino distancia recorrida $\Delta x$), utilizo la ecuación (3):
 $$
@@ -231,12 +238,16 @@ $$
 y(t) = y_0 + v_0 t + \frac{1}{2}at^2, \tag{1}
 $$
 donde $y_0 = 120\thinspace\mathrm m$, $v_0 = -5\thinspace\mathrm{m/s}$ (hacia abajo) y $a=-g=-9.8\thinspace\mathrm{m/s^2}$, de forma que la ecuación particularizada queda:
+
+{{% math %}}
 $$
 y(t) = 120 - 5t + \frac{1}{2}\cdot (-9.8)\cdot t^2 = 120-5t-4.9t^2
 $$
+{{% /math %}}
 
 a) De la ecuación (1) podemos despejar el tiempo que tarda en llegar al suelo, sabiendo que cuando llega al suelo, $y=0$:
 
+{{% math %}}
 $$
 \begin{gathered}
 	0 = 120 - 5t -4.9t^2 \\
@@ -247,24 +258,34 @@ $$
 \end{cases}
 \end{gathered}
 $$
+{{% /math %}}
 
 b) Para calcular la velocidad con que choca contra el suelo podemos utilizar la ecuación (2) o la (3):
 
 Utilizando la ecuación (2)
 : Sustituyendo el tiempo por el tiempo de llegada al suelo:
-	$$
-	v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = -48.8\thinspace\mathrm{m/s}
-	$$
+{{% math %}}
+$$
+v(t) = v_0 + at = -5-9.8t = -5-9.8\cdot 4.5 = -48.8\thinspace\mathrm{m/s}
+$$
+{{% /math %}}
 
 Utilizando la ecuación (3)
 : Teniendo cuidado al calcular $\Delta x = x-x_0 = 0-120 = -120\thinspace\mathrm{m}$, e imponiendo el signo $-$ al despejar $v$:
-	$$
-	v^2-v_0^2 = 2a\Delta x \tag{3}
-	$$
-	\begin{align*}
-	v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-120)} \\\\
-	  &= -48.8\thinspace\mathrm{m/s}
-	\end{align*}
+
+{{% math %}}
+$$
+v^2-v_0^2 = 2a\Delta x \tag{3}
+$$
+{{% /math %}}
+{{% math %}}
+$$
+\begin{aligned}
+v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-120)} \\
+&= -48.8\thinspace\mathrm{m/s}
+\end{aligned}
+$$
+{{% /math %}}
 
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" title="Representación gráfica del lanzamiento vertical, donde se observa cómo en los primeros intervalos de tiempo la distancia recorrida es menor que en los intervalos finales, debido al incremento de la velocidad." lightbox="false" width="100%" >}}
 
@@ -306,10 +327,14 @@ c) La rapidez del coche en el instante que alcanza al tren.
 
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 
-\begin{align*}
-	\text{Coche (MRUA): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
+{{% math %}}
+$$
+\begin{aligned}
+	\text{Coche (MRUA): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\
 	\text{Tren (MRU): } x_\mathrm t &= x_{0_\mathrm t} + v_\mathrm t(t-t_{0_\mathrm t})
-\end{align*}
+\end{aligned}
+$$
+{{% /math %}}
 
 **Particularizamos** para nuestro caso:
 
@@ -322,6 +347,7 @@ t_{0_\mathrm c}=6\thinspace\mathrm s;\quad t_{0_\mathrm t} = 0
 \end{gathered}
 $$
 
+{{% math %}}
 $$
 \begin{aligned}
 	\text{Coche (MRUA): } x_\mathrm c &= 0 + 0\cdot(t-6)+\frac{1}{2}\cdot 2\cdot(t-6)^2 \\
@@ -329,6 +355,7 @@ $$
 	\text{Tren (MRU): } x_\mathrm t &= 0 + 12\cdot(t-0) = 12t
 \end{aligned}
 $$
+{{% /math %}}
 
 A continuación imponemos la **condición de encuentro**:
 
@@ -342,12 +369,14 @@ $$
 
 Despejamos el **tiempo de encuentro** $t^*$:
 
+{{% math %}}
 $$
 t^* = \frac{24\pm\sqrt{24^2-4\cdot 1\cdot 36}}{2} = \frac{24\pm \sqrt{432}}{2} =  \begin{cases}
 	22.4\thinspace\mathrm s \\\\
 	\xcancel{1.6\thinspace\mathrm s}
 \end{cases}
 $$
+{{% /math %}}
 
 donde descartamos la solución $t=1.6\thinspace\mathrm s$ por ser menor que los $6\thinspace\mathrm s$ que está parado el coche en el semáforo. Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:
 
@@ -359,17 +388,21 @@ donde se ve claramente cómo el coche está parado los primeros $6\thinspace\mat
 
 b) Para calcular la **distancia recorrida** por el coche solo tenemos que sustituir el tiempo de encuentro, $t^*=22.4\thinspace\mathrm s$, en su ecuación de posición, ya que comienza en $x_0 = 0$:
 
+{{% math %}}
 $$
 x_{\mathrm c} (t^{*}) = t^{*2}-12t^{*}+36 = 22.4^2-12\cdot 22.4 + 36 = 268.7\thinspace\mathrm m
 $$
+{{% /math %}}
 
 ---
 
 c) La **rapidez** del coche cuando alcanza al tren la podemos calcular utilizando la **ecuación de la velocidad** del coche, sustituyendo $t=t^*$:
 
+{{% math %}}
 $$
 v_\mathrm c(t^*) = v_{0_\mathrm c} + a_\mathrm c (t^*-t_0) = 0 + 2\cdot(22.4-6) = 32.8\thinspace\mathrm{m/s}
 $$
+{{% /math %}}
 
 {{% /callout %}}
 
@@ -430,16 +463,21 @@ y siempre se dirige hacia el centro de la circunferencia.
 
 a) Utilizamos factores de conversión:
 
+{{% math %}}
 $$
 \omega = 90\thinspace\mathrm{rpm} = 90\thinspace\frac{\cancel{\mathrm{rev}}}{\cancel{\mathrm{min}}} \cdot \frac{2\pi\thinspace\mathrm{rad}}{1\thinspace\cancel{\mathrm{rev}}} \cdot \frac{1\thinspace\cancel{\mathrm{min}}}{60\thinspace\mathrm{s}} = 3\pi\thinspace\mathrm{rad/s} \approx 9.4\thinspace\mathrm{rad/s}
 $$
+{{% /math %}}
 
 ---
 
 b) Utilizamos la relación entre las velocidades lineal y angular, con $R=30\thinspace\mathrm{cm} = 0.3\thinspace\mathrm{m}$:
+
+{{% math %}}
 $$
 v = \omega R = 3\pi\thinspace\mathrm{rad/s}\cdot 0.3\thinspace\mathrm{m} = 0.9\pi\thinspace\mathrm{m/s} \approx 2.8\thinspace\mathrm{m/s}
 $$
+{{% /math %}}
 
 ---
 
