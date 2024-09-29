@@ -73,7 +73,7 @@ Los elementos que aparecen [aquí](https://ptable.com/#Electrones/Expanded) en r
 ### Origen de la tabla periódica
 
 {{% callout note %}}
-Os recomendamos [este magnífico **póster**](https://drive.google.com/file/d/1hh5wz8oVDqZ_Gzc5AYdxphLKHj7gjIMI/view?usp=share_link) de **Berto Tomás**, en colaboración con el [**Dr. Pep Antón Vieta**](https://twitter.com/pquimic).
+Os recomendamos [este magnífico **póster**](https://drive.google.com/file/d/1hh5wz8oVDqZ_Gzc5AYdxphLKHj7gjIMI/view?usp=share_link) de **Berto Tomás**, en colaboración con el [**Dr. Pep Antón Vieta**](https://twitter.com/pquimic), o [este **artículo**](https://biblioteca.ucm.es/qui/historia-de-la-tabla-periodica) de la [**Universidad Complutense de Madrid**](https://www.ucm.es).
 {{% /callout %}}
 
 ## Apantallamiento y carga nuclear efectiva
