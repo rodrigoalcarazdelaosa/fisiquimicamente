@@ -2,7 +2,7 @@
 title: Química orgànica
 url: "/recursos-fisica-quimica/apunts/2batx/quimica/quimica-organica"
 subtitle: Isomeria, reactivitat i polímers
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVETAT</code><br>Isomeria, reactivitat i polímers."
+summary: "Isomeria, reactivitat i polímers."
 breadcrumbs: ["recursos-fisica-quimica","apunts","2batx","quimica"]
 authors:
 - alba-lopez-valenzuela
@@ -30,11 +30,11 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Pòster isomeria i reactivitat
   url: quimica-organica-poster.pdf
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Pòster polímers
   url: polimers-poster.pdf
 - icon_pack: fas
@@ -65,7 +65,7 @@ Bioinformatics (2015) 31 (8): 1322–1324 https://doi.org/10.1093/bioinformatics
 
 ## Isomeria
 
-Dos compostos són **isòmers**[^1] entre si si tenen el mateix número i tipus d'àtoms, és a dir, si tenen la **mateixa fórmula molecular**. Dos compostos isòmers tenen el **mateix nombre** d'**insaturacions**. 
+Dos compostos són **isòmers**[^1] entre si si tenen el mateix número i tipus d'àtoms, és a dir, si tenen la **mateixa fórmula molecular**. Dos compostos isòmers tenen el **mateix nombre** d'**insaturacions**.
 
 [^1]: La paraula **isòmer** és un neologisme encunyat pel químic suec [Jöns Jacob Berzelius (1779–1848)](https://ca.wikipedia.org/wiki/Jöns_Jacob_Berzelius), formada del grec ισo (isos = igual) i μ𝜀ρo𝜍 (meros = part, porció).
 
@@ -125,10 +125,10 @@ Es presenta en compostos que difereixen en la **posició** del seu **grup funcio
 #### Isomeria de funció
 
 Es presenta en compostos que tenen **grups funcionals diferents**. Solen ser isòmers de funció entre si:
-				
+
 - alcohols-èters,
 - aldehids-cetones,
-- i àcids carboxílics-èsters,	
+- i àcids carboxílics-èsters,
 
 encara que existeixen moltes altres possibilitats.
 
@@ -226,7 +226,7 @@ La [**isomeria conformacional**](https://ca.wikipedia.org/wiki/Isomerisme_confor
 {{% /callout %}}
 
 Els alquens amb dobles enllaços conjugats poden adoptar dues diferents conformacions. Per exemple, en el **buta–1,3–diè** els dobles enllaços poden estar cap al mateix costat de l'enllaç simple o en costats oposats. Seria incorrecte referir-nos a les dues possibilitats com *cis i trans* ja que són **conformacions** (dinàmic!) i no configuracions (estàtic). És a dir, la molècula pot girar entorn de l'enllaç senzill i interconvertir-se d'una conformació a una altra, cosa que no pot ocórrer amb els isòmers *cis* i *trans* a causa de la rigidesa del doble enllaç o del cicle.
-            
+
 Aquests [**confòrmers**](https://es.wikipedia.org/wiki/Isomería_conformacional) s'anomenen amb el prefix "s" (de "sigma", o de "simple" si preferiu).
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/conformers.svg" lightbox="false" width="100%" theme="light" >}}
@@ -269,7 +269,7 @@ Aquest és el tipus d'esteroisomeria que presenten molècules essencials per a l
 
 Amb la finalitat de facilitar la representació en el pla, s'utilitzen les **projeccions de Fischer**, ideades pel químic alemany Hermann Emil Fischer[^4] al 1891, per a representar la disposició espacial de molècules en les quals un o més àtoms de carboni són quirals:
 
-[^4]: ![Fischer](quimica-organica-2Bach-quimica/Fischer.jpg "**Hermann Emil Fischer** (1852–1919) va ser un químic alemany, descobridor del [**barbital**](https://es.wikipedia.org/wiki/Barbital) (primer sedatiu i somnífer del grup dels [barbitúrics](https://es.wikipedia.org/wiki/Barbitúrico)). Va ser guardonat amb el **Premi Nobel de Química en 1902**. Font: https://commons.wikimedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg.")  
+[^4]: ![Fischer](quimica-organica-2Bach-quimica/Fischer.jpg "**Hermann Emil Fischer** (1852–1919) va ser un químic alemany, descobridor del [**barbital**](https://es.wikipedia.org/wiki/Barbital) (primer sedatiu i somnífer del grup dels [barbitúrics](https://es.wikipedia.org/wiki/Barbitúrico)). Va ser guardonat amb el **Premi Nobel de Química en 1902**. Font: https://commons.wikimedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg.")
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fischer.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -436,7 +436,7 @@ La reacció de combustió d'un compost orgànic en atmosfera rica en oxigen dona
 <div align="center">
 C<sub>3</sub>H<sub>8</sub>O + 9/2&thinsp;O<sub>2</sub> &xrarr; 3&thinsp;CO<sub>3</sub> + 4&thinsp;H<sub>2</sub>O
 </div>
- 
+
 Les reaccions de combustió són reaccions exotèrmiques. Si el compost té altres elements, com a N o S, també habituals en química orgànica, s'obtenen els òxids d'aquests.
 
 ### Reaccions de condensació i hidròlisi

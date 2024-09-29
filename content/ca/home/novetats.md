@@ -14,7 +14,7 @@ design:
   interval: 2000
 
 content:
-  slides:  
+  slides:
   - title: 🗞️ Novetats
     content: '📚 Últims apunts'
     align: center
@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Radioactivitat | 3r ESO
-      url: 'recursos-fisica-quimica/apunts/3eso/radioactivitat/'
+      text: Moviments | 4t ESO
+      url: 'recursos-fisica-quimica/apunts/4eso/moviments/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
     align: center
