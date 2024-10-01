@@ -304,7 +304,7 @@ Se trata de multiplicar por fracciones utilizando la conversión entre unidades.
 
 ---
 
-Os recomiendamos echar un vistazo a [esta estupenda **infografía**](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [**ECHA**](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre:
+Os recomiendamos echar un vistazo a [esta estupenda **infografía**](https://echa.europa.eu/es/pictograms-infographic) de la [**ECHA**](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre:
 
 <ul>
 {{% fragment %}}<li><strong>qué significa</strong> cada pictograma,</li>{{% /fragment %}}

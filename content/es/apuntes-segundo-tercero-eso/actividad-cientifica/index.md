@@ -240,7 +240,7 @@ Juega a **identificar** el **instrumental** básico de **laboratorio** con [esta
 ### Pictogramas de peligro
 
 {{% callout note %}}
-Os recomendamos echar un vistazo a [esta estupenda **infografía**](https://chemicalsinourlife.echa.europa.eu/es/pictograms-infographic) de la [**ECHA**](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre **qué significa** cada pictograma, **qué hacer** en caso de tener que manipular productos químicos con una determinada etiqueta y **dónde se utiliza** cada pictograma.
+Os recomendamos echar un vistazo a [esta estupenda **infografía**](https://echa.europa.eu/es/pictograms-infographic) de la [**ECHA**](https://echa.europa.eu/es/home) (Agencia Europea de Sustancias y Mezclas Químicas), donde puedes aprender más sobre **qué significa** cada pictograma, **qué hacer** en caso de tener que manipular productos químicos con una determinada etiqueta y **dónde se utiliza** cada pictograma.
 
 También os recomendamos los magníficos [**pósters de Berto Tomás**](https://drive.google.com/drive/folders/1NDRYYRO93xZiSHmhS1hx6tb1MpbMWmWp).
 {{% /callout %}}
