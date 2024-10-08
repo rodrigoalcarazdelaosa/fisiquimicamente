@@ -12,7 +12,7 @@ tags:
 categories:
 - Física
 - Química
-weight: 70
+weight: 80
 
 image:
   preview_only: true

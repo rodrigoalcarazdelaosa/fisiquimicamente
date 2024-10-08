@@ -1,17 +1,16 @@
 ---
-title: Marguerite Perey
+title: John Dalton
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle:
-summary: ""
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 authors:
 - luis-moreno-martinez
 tags:
-- perey
+- dalton
 categories:
-- Física
 - Química
-weight: 90
+weight: 60
 
 image:
   preview_only: true
@@ -26,9 +25,13 @@ links:
 - icon_pack: fas
   icon:
   name: 📜 Póster
-  url: marguerite-perey-poster.pdf
+  url: john-dalton-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: marguerite-perey-triptico.pdf
+  url: john-dalton-triptico.pdf
+- icon_pack: fas
+  icon:
+  name: 🔠 Símbolos daltonianos
+  url: john-dalton-simbolos.pdf
 ---

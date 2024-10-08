@@ -78,7 +78,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Marie-Anne P. Paulze-Lavoisier
+      text: John Dalton
       url: '/recursos-fisica-quimica/historia-ciencia/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'

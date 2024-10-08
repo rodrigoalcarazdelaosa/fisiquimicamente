@@ -2,7 +2,7 @@
 title: Marie-Anne P. Paulze-Lavoisier
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle:
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
+summary: ""
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 authors:
 - luis-moreno-martinez
