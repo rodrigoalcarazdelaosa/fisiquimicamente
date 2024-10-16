@@ -39,11 +39,15 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ## Teoría atómica de Dalton
 
-En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito.
+> **Aprende más** sobre **John Dalton** echando un vistazo a su **biografía científica** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
 
 (continúa hacia abajo)
 
 👇
+
+---
+
+En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito.
 
 ---
 
@@ -72,7 +76,7 @@ En la actualidad sabemos que los átomos se dividen en dos zonas:
 ---
 
 ### Espacio del núcleo
-Donde se encuentran los: 
+Donde se encuentran los:
 
 - **Protones**: sistemas de partículas con **carga** eléctrica **positiva**.
 - **Neutrones**: sistemas **neutros** (sin carga eléctrica) de partículas.
@@ -91,7 +95,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutrón | $1.675\times 10^{-27}$ | $0$ |
 | Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
+<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>
 <td colspan=3>$q_\text{protón}=-q_\text{electrón}$
 
 ---
@@ -114,7 +118,7 @@ El **número atómico**, $Z$, es el número de **protones** que tiene un átomo 
 ---
 
 ### Número másico $A$
-El **número másico**, $A$, es la **suma** de **protones** y **neutrones**, cumpliéndose por tanto:		
+El **número másico**, $A$, es la **suma** de **protones** y **neutrones**, cumpliéndose por tanto:
 $$
 A = Z + N,
 $$
@@ -216,7 +220,7 @@ Puedes entender mejor las **conclusiones** del **experimento** de **Rutherford**
 
 ---
 
-{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.svg" title="Modelo de Rutherford, también conocido como modelo *planetario*." lightbox="false" width="50%" >}}	
+{{< figure library="true" src="estructura-atomica-2ESO-3ESO/Rutherford.svg" title="Modelo de Rutherford, también conocido como modelo *planetario*." lightbox="false" width="50%" >}}
 
 {{% /section %}}
 
@@ -285,7 +289,7 @@ Es por eso que utilizamos una unidad especial, llamada **unidad de masa atómica
 	$$
 	1\thinspace\mathrm u = 1.661\times 10^{-27}\thinspace\mathrm{kg}
 	$$
-	
+
 De esta forma el isótopo $^{12}\mathrm C$ tiene una masa de 12&thinsp;u.
 
 ---

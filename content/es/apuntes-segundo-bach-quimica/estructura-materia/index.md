@@ -60,6 +60,11 @@ math: true
 
 ## Modelos atómicos
 ### Dalton
+
+{{% callout note %}}
+**Aprende más** sobre **John Dalton** echando un vistazo a su **biografía científica** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
+{{% /callout %}}
+
 Basándose en las ideas de **Demócrito**, John **Dalton** propuso este modelo a principios del siglo XIX, considerando al **átomo** como una **esfera maciza indivisible**.
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Dalton.svg" title="El **átomo** de **Dalton** es una **esfera maciza indivisible**." lightbox="false" width="100%" >}}

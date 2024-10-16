@@ -23,14 +23,14 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: estructura-atomica-poster.pdf
 - icon_pack: fas
   icon:
   name: 🗒️ Unidad didáctica CERN
   url: unidad-didactica-CERN.pdf
-  
+
 slides: estructura-atomica-2ESO-3ESO
 
 math: true
@@ -44,6 +44,11 @@ En estos apuntes hemos incorporado algunas de las **ideas clave** que puedes enc
 {{% /callout %}}
 
 ## Teoría atómica de Dalton
+
+{{% callout note %}}
+**Aprende más** sobre **John Dalton** echando un vistazo a su **biografía científica** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
+{{% /callout %}}
+
 En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Demócrito. Su **teoría** se basa en:
 
 - La **materia** está **formada** por partículas muy pequeñas e indivisibles, llamadas **átomos**.
@@ -55,7 +60,7 @@ En 1808, John Dalton retoma las ideas *atomistas* de Leucipo y su discípulo Dem
 En la actualidad sabemos que los átomos se dividen en dos zonas:
 
 Espacio del núcleo
-: Donde se encuentran los: 
+: Donde se encuentran los:
 	- **Protones**: sistemas de partículas con **carga** eléctrica **positiva**.
 	- **Neutrones**: sistemas **neutros** (sin carga eléctrica) de partículas.
 
@@ -69,7 +74,7 @@ La siguiente tabla muestra la masa y carga de las partículas que componen los �
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutrón | $1.675\times 10^{-27}$ | $0$ |
 | Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>	
+<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>
 <td colspan=3>$q_\text{protón}=-q_\text{electrón}$
 
 {{< figure library="true" src="estructura-atomica-2ESO-3ESO/nucleo-orbital.svg" title="Distinción cualitativa de las dos áreas mediante una ilustración tipográfica del modelo atómico." lightbox="false" width="100%" >}}
@@ -84,7 +89,7 @@ El **número atómico**, $Z$, es el número de **protones** que tiene un átomo 
 Todos los **átomos** de un **mismo elemento químico** tienen el **mismo número** de **protones** en su núcleo y por tanto el **mismo número atómico** $Z$.
 
 ### Número másico $A$
-El **número másico**, $A$, es la **suma** de **protones** y **neutrones**, cumpliéndose por tanto:		
+El **número másico**, $A$, es la **suma** de **protones** y **neutrones**, cumpliéndose por tanto:
 $$
 A = Z + N,
 $$
@@ -166,7 +171,7 @@ La **masa** de los **átomos** es **extremadamente pequeña** comparada con las 
 	$$
 	1\thinspace\mathrm u = 1.661\times 10^{-27}\thinspace\mathrm{kg}
 	$$
-	
+
 De esta forma el isótopo $\ce{^{12}C}$ tiene una masa de 12&thinsp;u.
 
 La masa atómica que encontramos en las tablas periódicas es la media **ponderada** de las masas de los isótopos naturales de cada elemento, teniendo en cuenta su **abundancia**.
