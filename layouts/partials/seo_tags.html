@@ -36,7 +36,7 @@
 {{ else }}
   {{ $desc = $superuser_role }}
 {{ end }}
-<meta name="description" content="{{ $desc }}" />
+<meta name="description" content="{{ $desc | plainify }}" />
 
 {{/* Get all URL variations for the page. */}}
 {{ range .Translations }}
@@ -60,7 +60,7 @@
     {{ $icon_at := $icon_tmp.Fill "180x180" }}
     <link rel="icon" type="image/png" href="{{ $icon.RelPermalink }}" />
     <link rel="apple-touch-icon" type="image/png" href="{{ $icon_at.RelPermalink }}" />
-{{ end }}    
+{{ end }}
 {{ $theme_color := ($scr.Get "primary") | default site.Params.appearance.primary_color | default "#fff" }}
 <meta name="theme-color" content="{{ $theme_color }}" />
 
@@ -86,7 +86,7 @@
     {{ else if eq .Site.Language.Lang "en" }}
         {{ $og_image = $sharing_image_en.Permalink }}
     {{ else if eq .Site.Language.Lang "ca" }}
-        {{ $og_image = $sharing_image_ca.Permalink }}        
+        {{ $og_image = $sharing_image_ca.Permalink }}
     {{ end }}
 {{ else if $has_logo }}
   {{ $og_image = (partial "blox-core/functions/get_logo" (dict "constraint" "fit" "size" 300)).Permalink }}
