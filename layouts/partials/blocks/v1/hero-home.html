@@ -10,49 +10,91 @@
 {{ if $block.Params.hero_media }}
 <div class="row justify-content-center">
   {{ with $block.Title }}
-    {{ if eq $block.Title "FisiQuímicamente" }}        
-    {{- $logo := resources.Get ("media/logo-fisiquimicamente.svg") -}}
-      <img draggable="false" alt="fisiquimicamente" src="{{ $logo.RelPermalink }}" width="100%" id="fisiquimicamente">
-      <script>
-        document.addEventListener('wcThemeChange', (e) => {
-        // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-        if (e.detail.isDarkTheme()) {
-          document.getElementById("fisiquimicamente").src="/icon/logo-fisiquimicamente-dark.svg";
-        } else {
-          document.getElementById("fisiquimicamente").src="/icon/logo-fisiquimicamente.svg";
-        }
-        });
-      </script>
+    {{ if eq $block.Title "FisiQuímicamente" }}
+    {{- $F := resources.Get ("media/lottie/spooky-letters/F.tgs") -}}
+        {{- $I := resources.Get ("media/lottie/spooky-letters/I.tgs") -}}
+        {{- $S := resources.Get ("media/lottie/spooky-letters/S.tgs") -}}
+        {{- $Q := resources.Get ("media/lottie/spooky-letters/Q.tgs") -}}
+        {{- $U := resources.Get ("media/lottie/spooky-letters/U.tgs") -}}
+        {{- $M := resources.Get ("media/lottie/spooky-letters/M.tgs") -}}
+        {{- $C := resources.Get ("media/lottie/spooky-letters/C.tgs") -}}
+        {{- $A := resources.Get ("media/lottie/spooky-letters/A.tgs") -}}
+        {{- $E := resources.Get ("media/lottie/spooky-letters/E.tgs") -}}
+        {{- $N := resources.Get ("media/lottie/spooky-letters/N.tgs") -}}
+        {{- $T := resources.Get ("media/lottie/spooky-letters/T.tgs") -}}
+        <tgs-player autoplay loop mode="normal" src="{{ $F.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $S.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $Q.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $U.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $C.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $A.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $E.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $N.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $T.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
+        <tgs-player autoplay loop mode="normal" src="{{ $E.RelPermalink }}" style="width: 5.5%; height:auto; display: inline-block"></tgs-player>
       {{ else if eq $block.Title "PhysiChemically" }}
-      {{- $logo := resources.Get ("media/logo-physichemically.svg") -}}
-      <img draggable="false" alt="physichemically" src="{{ $logo.RelPermalink }}" width="100%" id="physichemically">
-      <script>
-        document.addEventListener('wcThemeChange', (e) => {
-        // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-        if (e.detail.isDarkTheme()) {
-          document.getElementById("physichemically").src="/icon/logo-physichemically-dark.svg";
-        } else {
-          document.getElementById("physichemically").src="/icon/logo-physichemically.svg";
-        }
-        });
-      </script>
+      {{- $P := resources.Get ("media/lottie/spooky-letters/P.tgs") -}}
+      {{- $H := resources.Get ("media/lottie/spooky-letters/H.tgs") -}}
+      {{- $Y := resources.Get ("media/lottie/spooky-letters/Y.tgs") -}}
+      {{- $S := resources.Get ("media/lottie/spooky-letters/S.tgs") -}}
+      {{- $I := resources.Get ("media/lottie/spooky-letters/I.tgs") -}}
+      {{- $C := resources.Get ("media/lottie/spooky-letters/C.tgs") -}}
+      {{- $E := resources.Get ("media/lottie/spooky-letters/E.tgs") -}}
+      {{- $M := resources.Get ("media/lottie/spooky-letters/M.tgs") -}}
+      {{- $A := resources.Get ("media/lottie/spooky-letters/A.tgs") -}}
+      {{- $L := resources.Get ("media/lottie/spooky-letters/L.tgs") -}}
+      <tgs-player autoplay loop mode="normal" src="{{ $P.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $H.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $Y.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $S.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $C.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $H.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $E.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $C.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $A.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $L.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $L.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $Y.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
       {{ else if eq $block.Title "FisiQuímicament" }}
-      {{- $logo := resources.Get ("media/logo-fisiquimicament.svg") -}}
-      <img draggable="false" alt="fisiquimicament" src="{{ $logo.RelPermalink }}" width="100%" id="fisiquimicament">
-      <script>
-        document.addEventListener('wcThemeChange', (e) => {
-        // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-        if (e.detail.isDarkTheme()) {
-          document.getElementById("fisiquimicament").src="/icon/logo-fisiquimicament-dark.svg";
-        } else {
-          document.getElementById("fisiquimicament").src="/icon/logo-fisiquimicament.svg";
-        }
-        });
-      </script>
+      {{- $F := resources.Get ("media/lottie/spooky-letters/F.tgs") -}}
+      {{- $I := resources.Get ("media/lottie/spooky-letters/I.tgs") -}}
+      {{- $S := resources.Get ("media/lottie/spooky-letters/S.tgs") -}}
+      {{- $Q := resources.Get ("media/lottie/spooky-letters/Q.tgs") -}}
+      {{- $U := resources.Get ("media/lottie/spooky-letters/U.tgs") -}}
+      {{- $M := resources.Get ("media/lottie/spooky-letters/M.tgs") -}}
+      {{- $C := resources.Get ("media/lottie/spooky-letters/C.tgs") -}}
+      {{- $A := resources.Get ("media/lottie/spooky-letters/A.tgs") -}}
+      {{- $E := resources.Get ("media/lottie/spooky-letters/E.tgs") -}}
+      {{- $N := resources.Get ("media/lottie/spooky-letters/N.tgs") -}}
+      {{- $T := resources.Get ("media/lottie/spooky-letters/T.tgs") -}}
+      <tgs-player autoplay loop mode="normal" src="{{ $F.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $S.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $Q.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $U.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $I.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $C.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $A.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $M.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $E.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $N.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
+      <tgs-player autoplay loop mode="normal" src="{{ $T.RelPermalink }}" style="width: 5.9%; height:auto; display: inline-block"></tgs-player>
       {{ end }}
     {{ end }}
   <div class="col-12 col-md-6 text-center text-md-left">
-{{ end }}    
+{{ end }}
 
     {{ with $block.Content }}
       <div class="hero-lead">{{ . }}</div>
@@ -93,7 +135,7 @@
 
     {{/* Call-to-action note */}}
     {{ with $block.Params.cta_note }}
-    <p class="hero-note text-muted mb-3 mb-md-1">           
+    <p class="hero-note text-muted mb-3 mb-md-1">
       {{ .label | markdownify | emojify | safeHTML }}
     </p>
     {{ end }}
@@ -101,18 +143,18 @@
   {{/* Hero image */}}
   {{ if $block.Params.hero_media }}
   </div>
-  <div class="col-12 mx-auto col-md-6 {{if $block.Params.design.flip}}order-md-first{{end}} hero-media">    
+  <div class="col-12 mx-auto col-md-6 {{if $block.Params.design.flip}}order-md-first{{end}} hero-media">
     {{- $image := ($block.Parent.Resources.ByType "image").GetMatch $block.Params.hero_media -}}
     {{- if not $image -}}
       {{- $image = resources.Get (path.Join "media" $block.Params.hero_media) -}}
     {{- end -}}
     {{ if $image }}
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
-      {{ $animation_type := strings.TrimPrefix "." (path.Ext $image.RelPermalink) | lower }}      
+      {{ $animation_type := strings.TrimPrefix "." (path.Ext $image.RelPermalink) | lower }}
 
-      {{ if eq $animation_type "json" }}        
+      {{ if eq $animation_type "json" }}
         <lottie-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></lottie-player>
-      {{ else if eq $animation_type "tgs" }}        
+      {{ else if eq $animation_type "tgs" }}
         <tgs-player autoplay loop mode="normal" style="width: 70%; height:auto" id="tgs-home"></tgs-player>
         <script>
           document.addEventListener('wcThemeChange', (e) => {

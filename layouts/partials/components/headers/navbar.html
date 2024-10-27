@@ -24,17 +24,17 @@
     {{if $show_logo}}
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
-        {{- if $has_logo -}}        
+        {{- if $has_logo -}}
         <tgs-player id="tgs-nav" autoplay loop mode="normal" style="width: 61.6px; height:61.6px"></tgs-player>
         <script>
           document.addEventListener('wcThemeChange', (e) => {
             // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
             if (e.detail.isDarkTheme()) {
               const player = document.querySelector("#tgs-nav");
-              player.load("/media/lottie/home.tgs");
+              player.load("/media/lottie/home-halloween.tgs");
             } else {
               const player = document.querySelector("#tgs-nav");
-              player.load("/media/lottie/home-dark.tgs");
+              player.load("/media/lottie/home-halloween-dark.tgs");
             }
           });
         </script>
@@ -79,7 +79,7 @@
       <span class="navbar-brand py-0"><img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"></span>
     {{- else -}}
       <span><i class="fas fa-bars"></i></span>
-    {{- end -}}      
+    {{- end -}}
     {{ end }}
     </button>
     {{ end }} -->
@@ -93,10 +93,10 @@
               // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
               if (e.detail.isDarkTheme()) {
                 const player = document.getElementById("tgs-nav-mobile");
-                player.load("/media/lottie/home.tgs");
+                player.load("/media/lottie/home-halloween.tgs");
               } else {
                 const player = document.getElementById("tgs-nav-mobile");
-                player.load("/media/lottie/home-dark.tgs");
+                player.load("/media/lottie/home-halloween-dark.tgs");
               }
             });
           </script>
@@ -211,7 +211,7 @@
             <img src="{{ $svg_icon.RelPermalink }}" alt="{{ $social_link.icon }}" class="svg-icon svg-baseline" loading="lazy">
          {{ else }}
             <i class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}" aria-hidden="true"></i>
-         {{ end }}               
+         {{ end }}
              </a>
            </li>
          {{ end }}
@@ -230,7 +230,7 @@
       {{ if and $has_day_night_themes $show_day_night }}
       <li class="nav-item dropdown theme-dropdown">
 		<a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="{{ i18n "theme_selector" | default "Display preferences" }}">
-      🌙          
+      🌙
         </a>
         <div class="dropdown-menu">
           <a href="#" class="dropdown-item js-set-theme-light">
@@ -268,11 +268,11 @@
         </div>
       </li>
       {{ end }}
-	  
+
 	  <!-- Paypal -->
     <li class="nav-item">
       {{ if eq .Site.Language.Lang "es" }}
-        <a class="nav-link" href="https://fisiquimicamente.com/donativos" data-target="https://fisiquimicamente.com/donativos" target="_blank" rel="noopener" aria-label="PayPal"><span data-toggle="tooltip" data-placement="bottom" data-original-title="{{ i18n "paypal" }}">☕</span></a>        
+        <a class="nav-link" href="https://fisiquimicamente.com/donativos" data-target="https://fisiquimicamente.com/donativos" target="_blank" rel="noopener" aria-label="PayPal"><span data-toggle="tooltip" data-placement="bottom" data-original-title="{{ i18n "paypal" }}">☕</span></a>
       {{ else if eq .Site.Language.Lang "ca" }}
         <a class="nav-link" href="https://fisiquimicament.com/donatius" data-target="https://fisiquimicament.com/donatius" target="_blank" rel="noopener" aria-label="PayPal"><span data-toggle="tooltip" data-placement="bottom" data-original-title="{{ i18n "paypal" }}">☕</span></a>
       {{ else if eq .Site.Language.Lang "en" }}

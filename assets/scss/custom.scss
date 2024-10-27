@@ -97,6 +97,7 @@ h4,
 h5,
 h6 {
   color: $nord0;
+  text-shadow: #E66C2C 1px 0 10px;
 }
 
 .dark h1,
@@ -993,10 +994,12 @@ div.card-text p a {
 
 .section-subheading {
   color: $primary;
+  text-shadow: #E66C2C 1px 0 10px;
 }
 
 .dark .section-subheading {
   color: $nord6;
+  text-shadow: #E66C2C 1px 0 10px;
 }
 
 .dark .card .section-subheading a {
@@ -1084,10 +1087,12 @@ div.card-text p a {
 .hero-lead {
   color: $nord0;
   font-family: $sta-font-heading, sans-serif;
+  text-shadow: #E66C2C 1px 0 10px;
 }
 
 .dark .hero-lead {
   color: $nord6;
+  text-shadow: #E66C2C 1px 0 10px;
 }
 
 .hero-cta-alt {
