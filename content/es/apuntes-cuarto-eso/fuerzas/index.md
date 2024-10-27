@@ -21,7 +21,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: fuerzas-poster.pdf
 
@@ -45,7 +45,7 @@ Dirección
 Sentido
 : Dado por la punta de la flecha.
 
-{{< figure library="true" src="fuerzas-4ESO/vector.svg" title="En dos dimensiones, un vector se puede escribir como $\newcommand{\ihat}{\hat{\imath}}\newcommand{\jhat}{\hat{\jmath}}\vec a = a_x \ihat + a_y \jhat$, donde $\ihat$ y $\jhat$ son vectores unitarios ($\text{módulo} = 1$) a lo largo de los ejes $x$ e $y$. El módulo de $\vec a$, $|\vec a|$, se calcula como (teorema de Pitágoras) $|\vec a| = \sqrt{a_x^2+a_y^2}$." lightbox="false" width="100%" >}}
+{{< figure library="true" src="fuerzas-4ESO/vector.svg" title="En dos dimensiones, un vector se puede escribir como $\newcommand{\ihat}{\hat{\imath}}\newcommand{\jhat}{\hat{\jmath}}\vec a = a_x \ihat + a_y \jhat$, donde $\ihat$ y $\jhat$ son vectores unitarios (módulo = 1) a lo largo de los ejes $x$ e $y$. El módulo de $\vec a$, $|\vec a|$, se calcula como (teorema de Pitágoras) $|\vec a| = \sqrt{a_x^2+a_y^2}$." lightbox="false" width="100%" >}}
 
 {{% callout note %}}
 **Aprende más** sobre la **notación vectorial** [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#2-notación-vectorial" >}}).
@@ -94,7 +94,7 @@ En el SI la fuerza se mide en Newton (N): $1\thinspace\mathrm N = 1\thinspace \m
 Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A una fuerza igual y de sentido contrario ($\vec F_\text{AB} = -\vec F_\text{BA}$).
 
 {{% callout note %}}
-Durante su estancia a bordo de la [**ISS**](https://es.wikipedia.org/wiki/Estación_Espacial_Internacional), el ex ministro de Ciencia e Innovación de España, [**Pedro Duque**](https://es.wikipedia.org/wiki/Pedro_Duque), fue filmado realizando demostraciones en las que explicaba las **tres leyes del movimiento de Newton**: 
+Durante su estancia a bordo de la [**ISS**](https://es.wikipedia.org/wiki/Estación_Espacial_Internacional), el ex ministro de Ciencia e Innovación de España, [**Pedro Duque**](https://es.wikipedia.org/wiki/Pedro_Duque), fue filmado realizando demostraciones en las que explicaba las **tres leyes del movimiento de Newton**:
 
 {{< youtube xO70CCH68t8 >}}
 {{% /callout %}}
@@ -133,7 +133,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{< youtube x2vUbOPB1W8 >}}
 
 {{% callout note %}}
-[Aquí](https://drive.google.com/file/d/1NrmIRaarKCZvh8VdIhzvRDOAkJSPEwfK/view) puedes descargarte el **guion** de la **práctica**. 
+[Aquí](https://drive.google.com/file/d/1NrmIRaarKCZvh8VdIhzvRDOAkJSPEwfK/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
 
 ### Centrípeta $\vec f_\mathrm c$
@@ -153,7 +153,7 @@ $$
 Lo primero hacemos un dibujo representando la situación:
 
 {{< figure library="true" src="fuerzas-4ESO/plano-inclinado.svg" lightbox="false" width="100%" >}}
-				
+
 Las **fuerzas** que actúan son:
 
 - Peso $\vec P = -P_x\ihat - P_y\jhat$, donde:
@@ -171,15 +171,17 @@ Escribimos la **2ª ley de Newton** para cada **componente**:
 \end{align}
 
 Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
-\begin{gather*}		  	
-0.2\cdot 4.9\sqrt{3}\cancel{m} - 4.9\cancel{m} = \cancel{m}a \rightarrow a = -3.2\thinspace\mathrm{m/s^2}\\\\
+$$
+\begin{gathered}
+0.2\cdot 4.9\sqrt{3}\cancel{m} - 4.9\cancel{m} = \cancel{m}a \rightarrow a = -3.2\thinspace\mathrm{m/s^2}\\
 \vec a = -3.2\ihat\thinspace\mathrm{m/s^2}
-\end{gather*}
+\end{gathered}
+$$
 
 ---
 
 La **velocidad** que llevará a los $5\thinspace\mathrm s$ la calculamos con la **ecuación de la velocidad**:
-\begin{gather*}		  	
+\begin{gather*}
 v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\\\
 \vec v = -16.0\ihat\thinspace\mathrm{m/s}
 \end{gather*}

@@ -53,7 +53,7 @@ Dado por la punta de la flecha.
 
 ---
 
-{{< figure library="true" src="fuerzas-4ESO/vector.svg" title="En dos dimensiones, un vector se puede escribir como $\newcommand{\ihat}{\hat{\imath}}\newcommand{\jhat}{\hat{\jmath}}\vec a = a_x \ihat + a_y \jhat$, donde $\ihat$ y $\jhat$ son vectores unitarios ($\text{módulo} = 1$) a lo largo de los ejes $x$ e $y$. El módulo de $\vec a$, $|\vec a|$, se calcula como (teorema de Pitágoras) $|\vec a| = \sqrt{a_x^2+a_y^2}$." lightbox="false" width="50%" >}}
+{{< figure library="true" src="fuerzas-4ESO/vector.svg" title="En dos dimensiones, un vector se puede escribir como $\newcommand{\ihat}{\hat{\imath}}\newcommand{\jhat}{\hat{\jmath}}\vec a = a_x \ihat + a_y \jhat$, donde $\ihat$ y $\jhat$ son vectores unitarios (módulo = 1) a lo largo de los ejes $x$ e $y$. El módulo de $\vec a$, $|\vec a|$, se calcula como (teorema de Pitágoras) $|\vec a| = \sqrt{a_x^2+a_y^2}$." lightbox="false" width="50%" >}}
 
 ---
 
@@ -226,7 +226,7 @@ Lo primero hacemos un dibujo representando la situación:
 {{< figure library="true" src="fuerzas-4ESO/plano-inclinado.svg" lightbox="false" width="70%" >}}
 
 ---
-				
+
 Las **fuerzas** que actúan son:
 
 - Peso $\vec P = -P_x\ihat - P_y\jhat$, donde:
@@ -248,15 +248,17 @@ Escribimos la **2ª ley de Newton** para cada **componente**:
 ---
 
 Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
-\begin{gather*}		  	
-0.2\cdot 4.9\sqrt{3}m - 4.9m = ma \rightarrow a = -3.2\thinspace\mathrm{m/s^2}\\\\
+$$
+\begin{gathered}
+0.2\cdot 4.9\sqrt{3}m - 4.9m = ma \rightarrow a = -3.2\thinspace\mathrm{m/s^2}\\
 \vec a = -3.2\ihat\thinspace\mathrm{m/s^2}
-\end{gather*}
+\end{gathered}
+$$
 
 ---
 
 La **velocidad** que llevará a los $5\thinspace\mathrm s$ la calculamos con la **ecuación de la velocidad**:
-\begin{gather*}		  	
+\begin{gather*}
 v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\\\
 \vec v = -16.0\ihat\thinspace\mathrm{m/s}
 \end{gather*}

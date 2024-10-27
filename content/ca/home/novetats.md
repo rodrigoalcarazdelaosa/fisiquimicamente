@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Moviments | 4t ESO
-      url: 'recursos-fisica-quimica/apunts/4eso/moviments/'
+      text: Forces | 4t ESO
+      url: 'recursos-fisica-quimica/apunts/4eso/forces/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
     align: center
