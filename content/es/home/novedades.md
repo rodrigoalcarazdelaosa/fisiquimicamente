@@ -131,5 +131,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "RadicalZ"
-      url: 'blog/2024/10/27/radicalz/'
+      url: 'blog/2024/10/28/radicalz/'
 ---
