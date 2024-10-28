@@ -118,7 +118,7 @@ Al SI la força es mesura en  Newton (N): $1\thinspace\mathrm N = 1\thinspace \m
 
 ---
 
-### 3ª ley (ley de la acción-reacción)
+### 3a llei (llei de l'acció-reacció)
 > Per a tota acció sempre hi ha una reacció igual i oposada.
 
 Si un cos A exerceix una força sobre un altre cos B, aquest exercirà sobre A una força igual i de sentit contrari ($\vec F_\text{AB} = -\vec F_\text{BA}$).
@@ -146,7 +146,7 @@ Si un cos A exerceix una força sobre un altre cos B, aquest exercirà sobre A u
 
 ---
 
-### Peso $\vec P$
+### Pes $\vec P$
 El **pes** és la força amb què la Terra atrau un objecte. Es calcula com:
 $$
 \vec P = m\vec g,
