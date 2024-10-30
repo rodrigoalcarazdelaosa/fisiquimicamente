@@ -1303,6 +1303,11 @@ ul.ul-edu li .description p.institution {
 
 /* Docs TOC nav. */
 
+/* Docs links. */
+.dark .docs-toggle {
+  color: $nord6;
+  }
+
 #TableOfContents {
   border-left: 1px solid $nord3;
 }
