@@ -22,5 +22,5 @@ breadcrumbs: [""]
 A día de hoy **hemos cubierto** los **gastos** de la web relacionados con el dominio y el alojamiento para **2024**:
 
 <div class="progress" style="height: 2rem; font-size: 1.5rem">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="138" aria-valuemin="0" aria-valuemax="100" style="width: 100%">138&thinsp;% ¡GRACIAS!</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="153" aria-valuemin="0" aria-valuemax="100" style="width: 100%">153&thinsp;% ¡GRACIAS!</div>
 </div>
