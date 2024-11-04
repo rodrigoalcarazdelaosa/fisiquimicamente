@@ -12,6 +12,7 @@ tags:
 - energía
 categories:
 - Física
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://descargas.intef.es/recursos_educativos/ODES_SGOA/Bachillerato/FQ/3B.4_-_Pirmides_de_Egipto/index.html"

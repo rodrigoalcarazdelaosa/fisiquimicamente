@@ -12,6 +12,7 @@ tags:
 - pseudociencias
 categories:
 - Química
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
