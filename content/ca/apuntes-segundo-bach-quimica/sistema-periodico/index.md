@@ -87,7 +87,7 @@ Electrons de core $\mathrm{1s^2}$
 Electrons de valència $\mathrm{2s^1}$
 : $a<1$.
 
-Sent l'apantallament total $2<a<3$, pel que $1<Z_\mathrm{eff}<2$.
+Sent l'apantallament total $2 < a < 3$, pel que $1 < Z_\mathrm{eff} < 2$.
 
 ## Propietats periòdiques
 

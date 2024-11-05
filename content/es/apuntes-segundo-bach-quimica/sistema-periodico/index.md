@@ -110,7 +110,7 @@ Electrones de core $\mathrm{1s^2}$
 Electrones de valencia $\mathrm{2s^1}$
 : $a<1$.
 
-Siendo el apantallamiento total $2<a<3$, por lo que $1<Z_\mathrm{eff}<2$.
+Siendo el apantallamiento total $2 < a < 3$, por lo que $1 < Z_\mathrm{eff} < 2$.
 
 ## Propiedades periódicas
 

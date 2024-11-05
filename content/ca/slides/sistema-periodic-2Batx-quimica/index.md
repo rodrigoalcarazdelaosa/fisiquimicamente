@@ -109,7 +109,7 @@ Electrons de valència $\mathrm{2s^1}$
 
 ---
 
-Sent l'apantallament total $2<a<3$, pel que $1<Z_\mathrm{eff}<2$.
+Sent l'apantallament total $2 < a < 3$, pel que $1 < Z_\mathrm{eff} < 2$.
 
 {{% /section %}}
 
