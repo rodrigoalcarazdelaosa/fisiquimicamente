@@ -280,7 +280,7 @@ Disolvente
 : El componente que está en mayor proporción.
 
 #### Concentración
-Podemos expresar la **concentración** de una disolución de varias formas distintas, entre ellas:
+Es una **medida** de la **cantidad** de **soluto** en una cantidad dada de disolvente. Podemos expresarla de varias formas distintas, entre ellas:
 
 ##### g/L
 Expresa el número de gramos de soluto por cada litro de disolución:
@@ -291,13 +291,13 @@ $$
 ##### % en masa
 Expresa el número de gramos de soluto por cada $100\thinspace\mathrm g$ de disolución:
 $$
-c\thinspace(\\%\thinspace m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolvente}}\times 100
+c\thinspace(\%\thinspace m) = \frac{m_\text{soluto}}{m_\text{soluto}+m_\text{disolvente}}\times 100
 $$
 
 ##### % en volumen
 Expresa el número de litros de soluto por cada $100\thinspace\mathrm L$ de disolución:
 $$
-c\thinspace(\\%\thinspace V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolvente}}\times 100
+c\thinspace(\%\thinspace V) = \frac{V_\text{soluto}}{V_\text{soluto}+V_\text{disolvente}}\times 100
 $$
 
 ##### Simulación
