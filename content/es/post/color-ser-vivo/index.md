@@ -100,13 +100,7 @@ Si, en lugar de una, tenemos varias láminas delgadas apiladas, y todas actúan 
 
 ## Cristales fotónicos
 
-Fijaos en esta animación. Hasta ahora, el patrón periódico se repetía en una dirección. Ahora, tenemos lo que se denomina un [**cristal fotónico**](https://es.wikipedia.org/wiki/Cristal_fotónico) en 2D. Como antes, solo refleja algunas frecuencias de la onda, pero ahora también funciona desde cualquier ángulo.
-
-<div align="center">
-{{< tweet user="j_bertolotti" id="1415282156243402758" >}}
-</div>
-
-Si queremos tener reflectores de ciertos colores en varias direcciones, hay que fabricar estructuras con diminutos materiales intercalados, que se repitan de forma periódica en esas direcciones. ¿Complicado? No pasa nada; la biología nos puede echar una mano.
+Hasta ahora, el patrón periódico se repetía en una dirección. Un [**cristal fotónico**](https://es.wikipedia.org/wiki/Cristal_fotónico) en 2D, como antes, solo refleja algunas frecuencias de la onda, pero ahora también funciona desde cualquier ángulo. Si queremos tener reflectores de ciertos colores en varias direcciones, hay que fabricar estructuras con diminutos materiales intercalados, que se repitan de forma periódica en esas direcciones. ¿Complicado? No pasa nada; la biología nos puede echar una mano.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/1Symb7K1gS8Zkz6ye0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bbc-dance-dancing-1Symb7K1gS8Zkz6ye0">via GIPHY</a></p>
 
@@ -132,7 +126,7 @@ Estos son algunos ejemplos de [**color estructural**](https://es.wikipedia.org/w
 
 {{< figure src="pigmentos-vs-estructural.jpg" title="Fuentes de las imágenes: https://www.wonderopolis.org/wonder/why-are-people-all-different-colors y https://www.eudonev.com/portfolio/structural-color/." lightbox="true" >}}
 
-La estructura periódica de algunos [**escarabajos**](https://es.wikipedia.org/wiki/Coleoptera) no solo les ayuda en el camuflaje, sino que también les permite moverse en entornos húmedos. Es decir, aquí la estructura periódica natural tiene un fin más allá del visual.  
+La estructura periódica de algunos [**escarabajos**](https://es.wikipedia.org/wiki/Coleoptera) no solo les ayuda en el camuflaje, sino que también les permite moverse en entornos húmedos. Es decir, aquí la estructura periódica natural tiene un fin más allá del visual.
 
 {{< figure src="escarabajo.png" title="https://journals.sagepub.com/doi/abs/10.5772/58289" lightbox="true" >}}
 
