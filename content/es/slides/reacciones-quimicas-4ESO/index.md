@@ -194,7 +194,8 @@ Puedes aprender más con esta excelente **simulación**:
 
 ### Ejemplo
 
-<q>El ácido clorhídrico reacciona con el hidróxido de calcio para producir cloruro de calcio y agua. Calcula el volumen de ácido clorhídrico 0.25 M que se necesita para reaccionar con 50 mL de hidróxido de calcio 0.5 M.</q>
+> El ácido clorhídrico reacciona con el hidróxido de calcio para producir cloruro de calcio y agua. Calcula el volumen de ácido clorhídrico 0.25 M que se necesita para reaccionar con 50 mL de hidróxido de calcio 0.5 M.
+
 $$
 2\thinspace \mathrm{HCl(ac)} + \mathrm{Ca(OH)_2(ac)} \longrightarrow \mathrm{CaCl_2(ac)} +  2\thinspace \mathrm{H_2O(l)}
 $$
