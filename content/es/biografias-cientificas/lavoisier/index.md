@@ -10,7 +10,7 @@ tags:
 - lavoisier
 categories:
 - Química
-weight: 30
+weight: 1743
 
 image:
   preview_only: true

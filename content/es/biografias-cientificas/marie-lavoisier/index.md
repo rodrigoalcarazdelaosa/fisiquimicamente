@@ -10,7 +10,7 @@ tags:
 - marie-lavoisier
 categories:
 - Química
-weight: 40
+weight: 1758
 
 image:
   preview_only: true

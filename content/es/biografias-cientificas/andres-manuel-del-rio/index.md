@@ -12,7 +12,7 @@ tags:
 - andrés
 categories:
 - Química
-weight: 50
+weight: 1764
 
 image:
   preview_only: true

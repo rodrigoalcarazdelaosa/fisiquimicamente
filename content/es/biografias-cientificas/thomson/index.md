@@ -1,18 +1,17 @@
 ---
-title: Isaac Newton
+title: Joseph John Thomson
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle:
 summary: ""
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
+authors:
+- luis-moreno-martinez
 tags:
-- cálculo
-- mecánica
-- óptica
-- gravitación
-- newton
+- thomson
 categories:
 - Física
-weight: 1643
+- Química
+weight: 1856
 
 image:
   preview_only: true
@@ -27,9 +26,9 @@ links:
 - icon_pack: fas
   icon:
   name: 📜 Póster
-  url: isaac-newton-poster.pdf
+  url: joseph-john-thomson-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: isaac-newton-triptico.pdf
+  url: joseph-john-thomson-triptico.pdf
 ---
