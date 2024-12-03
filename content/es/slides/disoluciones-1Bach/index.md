@@ -69,7 +69,7 @@ $$
 Suele expresarse en g/L.
 
 ---
-		
+
 ### Molaridad
 $$
 M = \frac{\text{cantidad de soluto (moles)}}{\text{volumen de disolución}}
@@ -128,9 +128,9 @@ La **sobresaturación** ocurre cuando la concentración de soluto excede el lím
 
 ### Solubilidad y temperatura
 
-- [Sólidos en agua](#/3/3)
-- [Gases en agua](#/3/4)
-- [Gases en disolventes orgánicos](#/3/5)
+- [Sólidos en agua](#/3/4)
+- [Gases en agua](#/3/5)
+- [Gases en disolventes orgánicos](#/3/6)
 
 ---
 
@@ -172,7 +172,7 @@ Es una práctica común en los laboratorios preparar una disolución o bien dire
 ---
 
 ### Midiendo la cantidad necesaria de soluto
-Para **solutos sólidos** disueltos en disolventes líquidos, pesamos la **masa** necesaria con ayuda de una **balanza** y los diluimos hasta el volumen deseado. 
+Para **solutos sólidos** disueltos en disolventes líquidos, pesamos la **masa** necesaria con ayuda de una **balanza** y los diluimos hasta el volumen deseado.
 
 ---
 
@@ -191,7 +191,7 @@ Es el proceso mediante el cual se disminuye la concentración de una disolución
 
 Se cumple que:
 $$
-c_0V_0 = cV,	
+c_0V_0 = cV,
 $$
 
 donde $c$ representa concentración, $V$ volumen de disolución y el subíndice 0 hace referencia a la disolución inicial.
@@ -304,7 +304,7 @@ donde $\Delta T_\mathrm e = T_\mathrm e-T_\mathrm e^0$ es el aumento del punto d
 
 ---
 
-### Presión osmótica		
+### Presión osmótica
 
 La **presión osmótica** de una disolución, $\Pi$, es la **diferencia** de **presión** entre la **disolución** y el **disolvente puro** cuando ambos están en equilibrio a través de una membrana semipermeable, que permite el paso de moléculas del disolvente pero no del soluto.
 
