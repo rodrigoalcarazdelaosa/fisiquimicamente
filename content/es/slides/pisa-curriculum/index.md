@@ -282,6 +282,6 @@ Situaciones y áreas en las que el alumnado tiene que aplicar sus conocimientos 
 - [Web Ministerio](https://www.educacionyfp.gob.es/inee/evaluaciones-internacionales/pisa.html)
 - [Pruebas internacionales](http://www.bnm.me.gov.ar/giga1/documentos/EL001340.pdf)
 - [¿Cómo puede contribuir el proyecto PISA a la mejora de la enseñanza de las ciencias (y de otras áreas de conocimiento)?](https://www.educacionyfp.gob.es/dam/jcr:86efe164-97dd-41c9-851a-6ddb548ceb76/re200617-pdf.pdf)
-- [Estímulos liberados](http://recursostic.educacion.es/inee/pisa/)
+- [Estímulos liberados](https://www.educacionfpydeportes.gob.es/inee/publicaciones/items-liberados/pisa-ocde.html)
 
 {{% /section %}}
