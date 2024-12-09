@@ -99,8 +99,8 @@ Lo anterior se debe ver reflejado en los **contenidos curriculares** de manera q
 ### Organizaciones supranacionales a considerar
 
 - Unión Europea, a través de la [**Comisión Europea**](https://commission.europa.eu/index_es).
-- [**UNESCO**](https://www.unesco.org/sdg4education2030/es).
-- [**OCDE**](https://www.oecd.org/pisa/pisa-es/).
+- [**UNESCO**](https://www.unesco.org/es/education).
+- [**OCDE**](https://www.oecd.org/en/about/programmes/pisa.html).
 
 {{% /section %}}
 
