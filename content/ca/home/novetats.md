@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Forces | 4t ESO
-      url: 'recursos-fisica-quimica/apunts/4eso/forces/'
+      text: Fluids | 4t ESO
+      url: 'recursos-fisica-quimica/apunts/4eso/fluids/'
   - title: 🗞️ Novetats
     content: '✍️ Darrera entrada del blog'
     align: center

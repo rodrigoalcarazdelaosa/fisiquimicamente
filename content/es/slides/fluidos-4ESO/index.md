@@ -34,6 +34,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 ## Concepto de presión
 
 La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
+
 $$
 p = \frac{F}{A}
 $$
@@ -103,11 +104,14 @@ F_2 = m\cdot g &= 1500\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} \\\\
 
 Aplicando el **principio de Pascal**:
 
-\begin{align*}
-p_1 &= p_2 \\\\
-\frac{F_1}{A_1} &= \frac{F_2}{A_2} \\\\
-\frac{F_1}{\pi r_1^2} &= \frac{F_2}{\pi r_2^2}
-\end{align*}
+$$
+\begin{aligned}
+p_1 &= p_2 \\
+\frac{F_1}{A_1} &= \frac{F_2}{A_2} \\
+\frac{F_1}{\cancel{\pi} r_1^2} &= \frac{F_2}{\cancel{\pi} r_2^2}
+\end{aligned}
+$$
+
 donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$, $F_2 = 14700\thinspace\mathrm{N}$ y $r_2$ es lo que nos piden.
 
 ---
@@ -138,6 +142,7 @@ $$
 ---
 
 En el caso de que la superficie esté sometida a una presión $p_0$ (presión atmosférica por ejemplo), la presión total a una profundidad $h$ será:
+
 $$
 p = p_0 + dgh,
 $$
@@ -233,6 +238,7 @@ E &= P_\text{fluido desalojado} \\\\
 {{< figure library="true" src="fluidos-4ESO/casos.svg" lightbox="false" width="100%" >}}
 
 El peso aparente de un objeto puede calcularse como:
+
 $$
 P_\text{aparente} = P_\text{real} - E
 $$
@@ -256,6 +262,7 @@ d_\text{fluido}\cdot V_\text{sumergido}\cdot g &= m_\text{barco}\cdot g
 ---
 
 Pasamos la masa del barco a kg:
+
 $$
 4803\thinspace\mathrm{t}\cdot \frac{10^3\thinspace\mathrm{kg}}{1\thinspace\mathrm{t}} = 4.803\times 10^6\thinspace\mathrm{kg}
 $$

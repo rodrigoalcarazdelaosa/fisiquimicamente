@@ -41,7 +41,9 @@ math: true
 {{% toc %}}
 
 ## Concepto de presión
+
 La **presión**, $p$, es una magnitud escalar que relaciona la fuerza $F$ (ejercida perpendicularmente) con la superficie $A$ sobre la que actúa:
+
 $$
 p = \frac{F}{A}
 $$
@@ -87,26 +89,32 @@ $$
 
 La fuerza que debemos superar es el peso del coche:
 
-\begin{align*}
-F_2 = m\cdot g &= 1500\thinspace\mathrm{\cancel{kg}}\cdot 9.8\thinspace\mathrm{N/\cancel{kg}} \\\\
+$$
+\begin{aligned}
+F_2 = m\cdot g &= 1500\thinspace\mathrm{\cancel{kg}}\cdot 9.8\thinspace\mathrm{N/\cancel{kg}} \\
 &= 14700\thinspace\mathrm{N}
-\end{align*}
+\end{aligned}
+$$
 
 Aplicando el **principio de Pascal**:
 
-\begin{align*}
-p_1 &= p_2 \\\\
-\frac{F_1}{A_1} &= \frac{F_2}{A_2} \\\\
+$$
+\begin{aligned}
+p_1 &= p_2 \\
+\frac{F_1}{A_1} &= \frac{F_2}{A_2} \\
 \frac{F_1}{\cancel{\pi} r_1^2} &= \frac{F_2}{\cancel{\pi} r_2^2}
-\end{align*}
+\end{aligned}
+$$
 donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspace\mathrm{m}$, $F_2 = 14700\thinspace\mathrm{N}$ y $r_2$ es lo que nos piden.
 
 Despejando $r_2$:
 
-\begin{align*}
-r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{\cancel{N}}}{500\thinspace\mathrm{\cancel{N}}}} \\\\
+$$
+\begin{aligned}
+r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{\cancel{N}}}{500\thinspace\mathrm{\cancel{N}}}} \\
 &= 0.434\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
-\end{align*}
+\end{aligned}
+$$
 
 {{% /callout %}}
 
@@ -115,12 +123,15 @@ En el siguiente vídeo el [Departamento de Física y Química del IES Valle del 
 {{< vimeo 209053495 >}}
 
 ### Principio fundamental de la hidrostática
+
 > La presión ejercida por un fluido de densidad $d$ en un punto situado a una profundidad $h$ de la superficie es numéricamente igual a la presión ejercida por una columna de fluido de altura $h$:
+
 $$
 p = \frac{F}{A} = \frac{m\cdot g}{A} = \frac{d\cdot V\cdot g}{A} = \frac{d\cdot \bcancel{A}\cdot h\cdot g}{\bcancel{A}} = d\cdot g \cdot h
 $$
 
 En el caso de que la superficie esté sometida a una presión $p_0$ (presión atmosférica por ejemplo), la presión total a una profundidad $h$ será:
+
 $$
 p = p_0 + dgh,
 $$
@@ -143,7 +154,7 @@ Haciendo uso de la ecuación fundamental de la hidrostática podemos relacionar 
 $$
 p = p_0 + dgh,
 $$
-donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la presión atmosférica a nivel del mar, $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar ([https://es.wikipedia.org/wiki/Agua_de_mar](https://es.wikipedia.org/wiki/Agua_de_mar)), $g = 9.8\thinspace\mathrm{N/kg}$ es la aceleración de la gravedad y $h$ es lo que nos piden.
+donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la presión atmosférica a nivel del mar, $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del [agua del mar](https://es.wikipedia.org/wiki/Agua_de_mar), $g = 9.8\thinspace\mathrm{N/kg}$ es la aceleración de la gravedad y $h$ es lo que nos piden.
 
 Convertimos todo al SI:
 \begin{align*}
@@ -190,9 +201,10 @@ E &= P_\text{fluido desalojado} \\\\
 
 #### Flotación
 
-{{< figure library="true" src="fluidos-4ESO/casos.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="fluidos-4ESO/casos.svg" lightbox="false" width="100%" theme="light" >}}
 
 El peso aparente de un objeto puede calcularse como:
+
 $$
 P_\text{aparente} = P_\text{real} - E
 $$
@@ -201,7 +213,7 @@ $$
 {{% callout example %}}
 <br>
 
-> El Pont Aven es el ferry 🛳️ que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar ([https://es.wikipedia.org/wiki/Agua_de_mar](https://es.wikipedia.org/wiki/Agua_de_mar)), ¿qué volumen del barco se encuentra sumergido?
+> El Pont Aven es el ferry 🛳️ que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del [agua del mar](https://es.wikipedia.org/wiki/Agua_de_mar), ¿qué volumen del barco se encuentra sumergido?
 
 {{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" title="[https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven](https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven)" lightbox="true" >}}
 
@@ -215,6 +227,7 @@ d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \
 \end{align*}
 
 Pasamos la masa del barco a kg:
+
 $$
 4803\thinspace\mathrm{\cancel{t}}\cdot \frac{10^3\thinspace\mathrm{kg}}{1\thinspace\mathrm{\cancel{t}}} = 4.803\times 10^6\thinspace\mathrm{kg}
 $$
