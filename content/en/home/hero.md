@@ -3,7 +3,7 @@ widget: hero-home
 headless: true
 weight: 1
 title: PhysiChemically
-hero_media: lottie/home.tgs
+hero_media: lottie/home-navidad.tgs
 cta:
   label: '🧭 **Explore**'
   url: "#explore"
