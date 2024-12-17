@@ -249,11 +249,13 @@ En caso de trabajar en el SI, la constante de los gases ideales toma el valor $R
 ---
 
 ### Ejemplo
-<q>Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
+
+> Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
+
 $$
 2\thinspace\mathrm{Na(s)} + 2\thinspace\mathrm{H_2O(l)} \longrightarrow 2\thinspace\mathrm{NaOH(aq)} + \mathrm{H_2(g)}
 $$
-$M(\mathrm{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\mathrm{H}) = 1\thinspace\mathrm{g/mol}$; $M(\mathrm{O}) = 16\thinspace\mathrm{g/mol}$.</q>
+$M(\mathrm{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\mathrm{H}) = 1\thinspace\mathrm{g/mol}$; $M(\mathrm{O}) = 16\thinspace\mathrm{g/mol}$.
 
 ---
 

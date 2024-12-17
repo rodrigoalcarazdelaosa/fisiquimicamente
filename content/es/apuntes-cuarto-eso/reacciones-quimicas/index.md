@@ -178,6 +178,7 @@ $$
 {{% /callout %}}
 
 ## Reactivos en disolución
+
 Cuando los **reactivos** se encuentran en **disolución**, tenemos que relacionar el número de moles, $n$, con el volumen, $V$, a través de la concentración molar o **molaridad**:
 
 $$
@@ -215,6 +216,7 @@ $$
 
 ## Cálculos masa-volumen
 ### Ecuación de los gases ideales
+
 Cuando alguno de los compuestos que intervienen en la reacción es un **gas**, necesitamos hacer uso de la **ecuación de los gases ideales**:
 
 $$
@@ -237,11 +239,11 @@ $$
 <br>
 
 > Calcula el volumen de hidrógeno, medido a $25\thinspace\mathrm{^\circ\mathrm C}$ y $0.98\thinspace\mathrm{atm}$, que se desprende al hacer reaccionar $41.4\thinspace\mathrm g$ de sodio en agua:
-{{% math %}}
+
 $$
 \ce{2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)}
 $$
-{{% /math %}}
+
 $M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.
 
 ---
