@@ -21,6 +21,11 @@ image:
   caption: https://depositphotos.com/photo/inductor-detail-38932251.html
   focal_point: Smart
 
+links:
+- icon_pack: fas
+  icon:
+  name: 📜 Pòster
+  url: induccio-electromagnetica-poster.pdf
 ---
 
 {{% callout soon %}}
