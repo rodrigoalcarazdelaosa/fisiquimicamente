@@ -89,15 +89,21 @@ El **número atómico**, $Z$, es el número de **protones** que tiene un átomo 
 Todos los **átomos** de un **mismo elemento químico** tienen el **mismo número** de **protones** en su núcleo y por tanto el **mismo número atómico** $Z$.
 
 ### Número másico $A$
+
 El **número másico**, $A$, es la **suma** de **protones** y **neutrones**, cumpliéndose por tanto:
+
 $$
 A = Z + N,
 $$
+
 donde $N=A-Z$ es el número de neutrones.
+
 En general un átomo se representa con la siguiente **notación**:
+
 $$
 ^{A}_{Z}\mathrm X^{\mathrm c \pm},
 $$
+
 donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el símbolo del elemento químico y $\mathrm c$ es la carga eléctrica del átomo (se omite en caso de ser cero ---átomo neutro).
 
 ## Modelos atómicos
