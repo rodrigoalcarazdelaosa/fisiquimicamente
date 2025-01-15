@@ -130,6 +130,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "RadicalZ"
-      url: 'blog/2024/10/28/radicalz/'
+      text: "Calendario Científico Escolar"
+      url: 'blog/2025/01/15/calendario-cientifico-escolar/'
 ---
