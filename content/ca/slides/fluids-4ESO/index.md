@@ -248,7 +248,7 @@ $$
 
 ---
 
-Si el vaixell sura ha de complir-se que la força resultant neta sobre ell ha de ser zero, o el que és el mateix, l'embranzida ha d'igualar al pes. Aplicant el **principi d'Arquimedes**:
+Si el vaixell sura ha de complir-se que la força resultant neta sobre ell ha de ser zero, o el que és el mateix, l'empenyment ha d'igualar al pes. Aplicant el **principi d'Arquimedes**:
 
 \begin{align*}
 E &= P_\text{vaixell} \\\\
@@ -362,7 +362,7 @@ Després de segellar les vores amb greix i extreure l'aire amb una bomba de buit
 ---
 
 ### Fenòmens meteorològics
-Les **diferències** de *pressió** entre diferents punts de l'atmosfera són l'origen de nombrosos **fenòmens meteorològics**.
+Les **diferències** de **pressió** entre diferents punts de l'atmosfera són l'origen de nombrosos **fenòmens meteorològics**.
 
 ---
 
