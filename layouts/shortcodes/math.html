@@ -1,7 +1,7 @@
-{{- /* Last modified: 2024-05-07T07:11:34-07:00 */}}
+{{- /* Last modified: 2025-01-08T18:31:25-08:00 */}}
 
 {{- /*
-Copyright 2023 Veriphor LLC
+Copyright 2025 Veriphor, LLC
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License. You may obtain a copy of
@@ -48,13 +48,13 @@ References:
 */}}
 
 {{- /* Verify minimum required version. */}}
-{{- $minHugoVersion := "0.125.6" }}
+{{- $minHugoVersion := "0.141.0" }}
 {{- if lt hugo.Version $minHugoVersion }}
-  {{- errorf "The %s shortcode requires Hugo v%s or later." .Name $minHugoVersion }}
+  {{- errorf "The %q shortcode requires Hugo v%s or later." .Name $minHugoVersion }}
 {{- end }}
 
 {{- /* Get context. */}}
-{{- $inner := trim .Inner "\n\r" }}
+{{- $inner := .Inner | strings.TrimSpace }}
 {{- $name := .Name }}
 {{- $ordinal := .Ordinal }}
 {{- $position := .Position }}
@@ -102,14 +102,14 @@ References:
 
 {{- /* Get image. */}}
 {{- $url := printf "%s?%s" $apiEndpoint $qs }}
-{{- with resources.GetRemote $url }}
+{{- with try (resources.GetRemote $url) }}
   {{- with .Err }}
     {{- errorf "The %q shortcode was unable to get the remote image. See %s. %s" $name $position . }}
-  {{- else }}
+  {{- else with .Value }}
     {{- $url = .RelPermalink }}
+  {{- else }}
+    {{- errorf "The %q shortcode was unable to get the remote image. See %s" $name $position }}
   {{- end }}
-{{- else }}
-  {{- errorf "The %q shortcode was unable to get the remote image. See %s" $name $position }}
 {{- end }}
 
 {{- /* Render. */}}
@@ -122,6 +122,6 @@ References:
   {{- end }}
 {{- end -}}
 >
-  <img src="{{ $url }}" alt="mathematical expression or equation" width="{{ (.Get "width") }}">
+  <img src="{{ $url }}" alt="mathematical expression or equation">
 </span>
 {{- /**/ -}}
