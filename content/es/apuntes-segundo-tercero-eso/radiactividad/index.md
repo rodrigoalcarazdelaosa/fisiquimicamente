@@ -35,7 +35,7 @@ links:
   url: radiactividad-poster.pdf
 - icon_pack: fas
   icon:
-  name: 🔗 Unidad didáctica CSN
+  name: 🔗 Guía didáctica CSN
   url: https://www.csn.es/documents/10182/914813/OFC-04-06%20Radiación%20y%20protección%20radiológica%20%28Guía%20didáctica%20para%20Educación%20Secundaria%29
 
 slides: radiactividad-3ESO
