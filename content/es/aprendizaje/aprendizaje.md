@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "📖 Aprendizaje"
-subtitle = "Recursos para la asignatura [***Aprendizaje y Enseñanza de las Materias de Física y Química, y de Tecnología***](https://web.unican.es/centros/educacion/estudios/detalle-asignatura?c=932&pi=75&a=2023)"
+subtitle = "Recursos para la asignatura [***Aprendizaje y Enseñanza de las Materias de Física y Química, y de Tecnología***](https://web.unican.es/centros/educacion/estudios/detalle-asignatura?c=932&pi=75)"
 
 [content]
   # Page type to display. E.g. project.
