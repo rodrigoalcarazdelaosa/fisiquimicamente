@@ -30,7 +30,7 @@ Os recomiendo pasaros por la sección de [**Historia de la Ciencia**](https://fi
 {{% toc %}}
 
 No cabe duda de que [**Madame Curie**](https://es.wikipedia.org/wiki/Marie_Curie) ha sido una de las científicas con más renombre de la historia. Se convirtió en la primera mujer en ganar un Premio Nobel y la primera persona en hacerlo dos veces.
-[*Radioactive*](https://es.wikipedia.org/wiki/Radioactive_(pel%C3%ADcula)) (en España *Madame Curie*) es una película biográfica  estrenada en 2020 y basada en la novela [*A Tale of Love and Fallout* de Lauren Redniss](http://laurenredniss.com/radioactive/). 
+[*Radioactive*](https://es.wikipedia.org/wiki/Radioactive_(pel%C3%ADcula)) (en España *Madame Curie*) es una película biográfica  estrenada en 2020 y basada en la novela [*A Tale of Love and Fallout* de Lauren Redniss](http://laurenredniss.com/radioactive/).
 
 Personalmente, como radiofísica de vocación y mujer, Marie Curie siempre ha representado un referente para mí. Es por eso que me hace especial ilusión presentaros este análisis. Espero que lo disfrutéis tanto como yo.
 
@@ -41,7 +41,7 @@ Personalmente, como radiofísica de vocación y mujer, Marie Curie siempre ha re
 La película comienza mostrando los últimos días de Marie Curie, cuyas manos presentan una especie de sarpullido rojo, que clínicamente tiene un nombre concreto: **radiodermitis**.
 
 > La radiodermitis es el conjunto de lesiones cutáneas que aparecen tras la exposición de la piel a [radiaciones ionizantes](https://es.wikipedia.org/wiki/Radiación_ionizante), bien con fines terapéuticos o de forma accidental.
- 
+
 Su aparición es bastante común en algunos tratamientos de [radioterapia](https://es.wikipedia.org/wiki/Radioterapia), como por ejemplo en [cáncer de mama](https://es.wikipedia.org/wiki/Cáncer_de_mama), donde tratamos la mama con fotones aproximadamente de 6 [MeV](https://es.wikipedia.org/wiki/Electronvoltio) de energía, depositando su máximo de dosis en torno a los 1.5 cm de profundidad, quedando la superficie de la mama o axila (piel típicamente sensible y fina) enrojecida y teniendo en algunos casos que suspender el tratamiento temporalmente (efectos tempranos de la radiación).
 
 ## El experimento de los Curie
@@ -95,7 +95,7 @@ El texto que se encuentra a continuación ha sido tomado de la excelente [recrea
 {{% /callout %}}
 
 {{< figure src="Radioactive/esquema_exp_curie.jpg" title="**Esquema del experimento de los Curie**. Sobre la mesa experimental están situados los seis elementos que intervienen: la cámara de ionización (CI), la batería de polarización (B2), el generador de corriente piezoeléctrico (GP), el electrómetro de cuadrantes (EC), el interruptor (IN) y el cronómetro. <br> Fuente: http://museovirtual.csic.es/csic75/laboratorios/lab1/lab1c.html." >}}
- 
+
 Antes de comenzar el experimento se coloca la cantidad de material radiactivo sobre la placa inferior de la cámara y se carga el cuarzo piezoeléctrico con una masa de 300 gramos suspendida en el platillo que estira el cristal. Cuando se inicia el experimento, se enciende el interruptor y simultáneamente el cronómetro. La corriente de ionización en la cámara produce una disminución de la carga en ambas armaduras. Los iones positivos que llegan a la placa inferior de la cámara neutralizan su carga negativa, pero ésta es sustituida inmediatamente por electrones provenientes de la batería.
 
 Simultáneamente, los electrones que llegan a la placa positiva de la cámara van neutralizando las cargas positivas iniciales y su potencial se hace negativo; esto hace que se mueva la aguja del electrómetro en la dirección correspondiente. En el experimento de los Curie, como se observa en la película, lo que se desvía es el punto de luz reflejado sobre la regla traslúcida.
@@ -141,7 +141,7 @@ Cabe decir aquí que, al contrario de lo que dice la creencia popular, las susta
 Por tanto, el responsable del brillo tan característico del radio, no es su propia radiactividad, sino otro fenómenos físico denominado [**radioluminiscencia**](https://es.wikipedia.org/wiki/Radioluminiscencia).
 
 ### ¿Qué es la radioluminiscencia?
- 
+
 > Es el fenómeno por el cual se emite luz en un material mediante el bombardeo con radiación ionizante (alfa, beta o gamma).
 
 La partícula  choca con un átomo o molécula, excitando un electrón orbital a un nivel de energía más alto. El electrón vuelve a su nivel de energía de base mediante la emisión de la energía adicional en la forma de un fotón de luz. El fotón de luz liberado es por lo general un fotón invisible para el ojo humano. En el caso del radio, por tanto, no observaremos ninguna luz a priori. Lo que se ha hecho tradicionalmente es añadir algún material adecuado para conseguir que esos fotones sean visibles, como por ejemplo el fósforo o el zinc, liberando dicho material un brillo de un color determinado.
@@ -160,7 +160,7 @@ Se han dado usos totalmente disparatados. Hacen referencia, por ejemplo, a sales
 Me gustaría aprovechar para citar el fantástico 🧵 hilo de Twitter de [Operador Nuclear](https://twitter.com/OperadorNuclear), donde podéis curiosear sobre otros usos que se le han dado al radio a lo largo de la historia:
 
 <div align="center">
-{{< tweet user="OperadorNuclear" id="1246409811471806464" >}}
+{{< x user="OperadorNuclear" id="1246409811471806464" >}}
 </div>
 
 ## Radioterapia
@@ -233,17 +233,17 @@ Este Premio no estuvo exento de controversia, ya que meses antes corría como la
 El **discurso** decía así:
 
 > “*Podría decir muchas cosas sobre el radio y la radiactividad pero me tomaría demasiado tiempo. Y como no podemos hacerlo, déjenme solamente darles una pequeña muestra de mi trabajo con el radio. El radio ya ha dejado de ser un elemento nuevo, ya tiene más de veinte años, pero las condiciones de su descubrimiento fueron de alguna manera peculiares, y por lo tanto no está de más recordarlo y explicarlo un poco.*
-> 
+>
 > *Nos debemos remontar al año 1897. El Profesor Curie y yo trabajamos juntos en el laboratorio de la escuela de Física y Química donde el Profesor Curie daba sus clases. Yo estaba trabajando con la radiación del uranio que había sido descubierta dos años atrás por el Profesor Becquerel.*
 >
 > *Empleé algún tiempo estudiando la manera de hacer buenas medidas de los rayos del uranio, y entonces deseé conocer si había algún otro elemento que tuviera el mismo comportamiento. Por lo tanto empleé mi trabajo a conocer todos los elementos y sus compuestos, y encontré que los compuestos de uranio son activos. Lo mismo sucedía con los compuestos de torio.*
-> 
+>
 > *Entonces tomé medidas de minerales y encontré que varios de aquellos que contenían uranio o torio eran ambos radiactivos. Pero entonces la radiactividad no fue la que esperaba, era mucho mayor.*
-> 
+>
 > *Entonces pensé que en los minerales debería haber algún elemento desconocido que tuviera una radiactividad mucho mayor a la del uranio o a la del torio. Deseaba encontrarlo y separar aquel elemento. El Profesor Curie y yo nos pusimos a la tarea de descubrir este elemento. Pensamos que lo debríamos encontrar en semanas o en meses, pero no fue tan fácil. Nos llevó varios años de duro trabajo acabar aquella tarea. No había un único nuevo elemento, había varios. Pero el más importante era el radio, el cual se pudo separar en estado puro.*
-> 
+>
 > *Ahora, el interés especial del radio consiste en la intensidad de sus rayos que son millones de veces más intensos que los del uranio. Y son los efectos de los rayos los que hacen al radio tan importante. Si tomamos un punto de vista práctico, la propiedad más importante de los rayos es la producción de efectos fisiológicos en las células del organismo. Estos efectos podrían ser usados para la cura de varias enfermedades. Se han obtenido buenos resultados en varios casos. Lo que particularmente está considerado muy importante es su utilidad para el tratamiento del cáncer. La utilización médica del radio tener suficientes cantidades del elemento. Una fábrica de radio ha empezado a producir en Francia, y otra más tarde en América donde una gran cantidad ya está disponible.*
-> 
+>
 > *No debemos olvidar que cuando el radio fue descubierto, nadie se imaginaba que acabaría teniendo una utilidad tan importante en los hospitales. Su descubrimiento fue un trabajo puramente científico. Y es por eso que el trabajo científico no debe nunca considerarse como un trabajo inútil. La ciencia es bella y es por esa belleza que debemos trabajar en ella, y quizás, algún día, un descubrimiento científico como el radio, puede ser un descubrimiento que beneficie a toda la humanidad.*"
 
 ## Radiactividad artificial

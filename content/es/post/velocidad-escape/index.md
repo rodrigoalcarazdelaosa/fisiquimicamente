@@ -25,19 +25,19 @@ math: true
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1587857963389276168" >}}
+{{< x user="ManoloAlonso1" id="1587857963389276168" >}}
 </div>
 {{% /callout %}}
 
 {{% callout note %}}
-La **fuente principal** con la que he preparado esta entrada ha sido [un **artículo** de Manuel Alonso Sánchez, Salvador Martínez y Jaime Carrascosa sobre la velocidad de escape](http://rsefalicante.umh.es/TemasCampo_gravitatorio/Documentos/Articulo_velocidad_de_escape.pdf), publicado en la **revista Alambique**, Didáctica de las Ciencias Experimentales en julio de este año. 
+La **fuente principal** con la que he preparado esta entrada ha sido [un **artículo** de Manuel Alonso Sánchez, Salvador Martínez y Jaime Carrascosa sobre la velocidad de escape](http://rsefalicante.umh.es/TemasCampo_gravitatorio/Documentos/Articulo_velocidad_de_escape.pdf), publicado en la **revista Alambique**, Didáctica de las Ciencias Experimentales en julio de este año.
 {{% /callout %}}
 
 ¿Por qué la **Luna** no tiene **atmósfera**, si se encuentra casi a la misma distancia del Sol que la Tierra? Para responder a esta pregunta, vamos a ver un modelo de física básica que primero nos dará la velocidad a la que hay que lanzar una pelota para que escape de nuestro planeta. Empecemos con la segunda cuestión, en la que aprenderemos de qué depende que algo escape de su planeta o satélite. Para responder a esa pregunta, debemos relacionar la velocidad a la que lo lancemos con la atracción gravitatoria del planeta.
 
 {{% lottie src="cohete.tgs" width="100%" %}}
 
-Como en [mi entrada del hielo y la rotación de la Tierra]({{< relref "/post/conservacion-momento-angular" >}}), hay que hacer aproximaciones de [vaca esférica](https://es.wikipedia.org/wiki/Vaca_esférica) para simplificar el problema. Asumimos que la Tierra es una esfera homogénea y no tenemos en cuenta el rozamiento del aire ni la rotación del planeta sobre sí mismo. Para obtener la [**velocidad** de **escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape) igualamos la energía cinética de la pelota con su energía gravitatoria[^1]: 
+Como en [mi entrada del hielo y la rotación de la Tierra]({{< relref "/post/conservacion-momento-angular" >}}), hay que hacer aproximaciones de [vaca esférica](https://es.wikipedia.org/wiki/Vaca_esférica) para simplificar el problema. Asumimos que la Tierra es una esfera homogénea y no tenemos en cuenta el rozamiento del aire ni la rotación del planeta sobre sí mismo. Para obtener la [**velocidad** de **escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape) igualamos la energía cinética de la pelota con su energía gravitatoria[^1]:
 
 [^1]: Dependiendo de la velocidad de lanzamiento del proyectil, la energía total del sistema que forman la Tierra y el proyectil puede ser positiva o negativa. Si es negativa el sistema estará ligado, en el sentido de que el proyectil no podrá escapar del campo gravitatorio de la Tierra, y si es positiva el proyectil escapará de dicho campo gravitatorio terrestre. El caso frontera, en el que la energía total del sistema Tierra-proyectil es igual a cero, corresponde a que éste inicie su movimiento a la velocidad de escape. Nota: El lanzamiento se produce desde la superficie de la Tierra (*r* = *R*<sub>T</sub>).
 
@@ -49,7 +49,7 @@ E_\mathrm{sist} = 0 \Rightarrow v_\mathrm{escape} = \sqrt{\frac{2GM_\mathrm T}{R
 Un tema relacionado con esto es el rango de velocidades para poner un objeto en órbita en torno a su planeta. En este hilo, [Antonio J. Cuesta](https://twitter.com/aj_cuesta) lo explica de forma intuitiva:
 
 <div align="center">
-{{< tweet user="aj_cuesta" id="1586292455133315072" >}}
+{{< x user="aj_cuesta" id="1586292455133315072" >}}
 </div>
 
 Sigamos con nuestra entrada y analicemos la velocidad de escape de nuestro planeta. Para la Tierra obtenemos una velocidad de escape de 11.2&thinsp;km/s, 33 veces la velocidad del sonido en el aire. Cualquier objeto lanzado a menor velocidad caerá de nuevo. Como veis, el valor depende de la masa del planeta, *M*, y de su radio, *R*: hace falta una mayor velocidad a mayor *M* y menor *R*.

@@ -331,7 +331,7 @@ p_\text{atm} &= d_\text{Hg}\cdot g\cdot h \\\\
 #### Sifons
 
 <div align="center">
-{{< tweet user="fqsaja1" id="1641449863400550408" >}}
+{{< x user="fqsaja1" id="1641449863400550408" >}}
 </div>
 
 ---

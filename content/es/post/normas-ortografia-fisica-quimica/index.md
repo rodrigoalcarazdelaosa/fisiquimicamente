@@ -12,7 +12,7 @@ categories:
 - Física
 - Química
 image:
-  preview_only: true 
+  preview_only: true
 ---
 
 {{% lottie src="lottie/inspect.tgs" width="100%" %}}
@@ -20,7 +20,7 @@ image:
 En esta entrada repasamos distintas **normas** de **ortografía** básicas en **Física** y **Química**, gracias a las magníficas **infografías** creadas por [**OꓷⱯԀԀIꓶℲ**](https://twitter.com/docenteflipado):
 
 <div align="center">
-{{< tweet user="docenteflipado" id="1463938835398725640" >}}
+{{< x user="docenteflipado" id="1463938835398725640" >}}
 </div>
 
 {{% callout thanks %}}

@@ -31,7 +31,7 @@ links:
 {{% callout note %}}
 [**Mestre Molar**](https://twitter.com/MestreMolar) nos comparte esta **actividad** sobre [**homeopatía**](https://es.wikipedia.org/wiki/Homeopat%C3%ADa) para rematar el trabajo sobre **concentración** de **disoluciones** y, de paso, ser **críticos** con las [**pseudociencias**](https://es.wikipedia.org/wiki/Pseudociencia).
 <div align="center">
-{{< tweet user="MestreMolar" id="1603688743327502337" >}}
+{{< x user="MestreMolar" id="1603688743327502337" >}}
 </div>
 {{% /callout %}}
 
@@ -42,7 +42,7 @@ Se comienza leyendo el origen y la definición de esta práctica, sacando la inf
 En la actividad se hace especial hincapié en la peculiar manera de indicar la **concentración** de [**principio activo**](https://es.wikipedia.org/wiki/Principio_activo) en un [***medicamento homeopático***](https://es.wikipedia.org/wiki/Homeopat%C3%ADa). No emplean gramos/litro, molaridad ni ninguna de las [medidas de concentración vistas en clase]({{< relref "/apuntes-primero-bach/disoluciones/index.md#concentración" >}}), sino que indican cuántas [**diluciones centesimales**](https://es.wikipedia.org/wiki/Dilución_homeopática) han hecho.
 
 <div align="center">
-{{< tweet user="MestreMolar" id="1603688771978919940" >}}
+{{< x user="MestreMolar" id="1603688771978919940" >}}
 </div>
 
 ## ⏱️ Temporalización

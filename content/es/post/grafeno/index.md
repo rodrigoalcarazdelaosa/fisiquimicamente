@@ -22,7 +22,7 @@ quizdown: true
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1782440708638413043" >}}
+{{< x user="ManoloAlonso1" id="1782440708638413043" >}}
 </div>
 {{% /callout %}}
 
@@ -165,7 +165,7 @@ Si electrones viajan muy rápido y se comportan como la luz, en vez de un SEMIco
 Por cierto, en este hilo que tanto os gustó mencioné un tipo especial de defecto cristalino en el grafeno, que de alguna forma está relacionado con algunas celdas en los paneles de las abejas que no son hexagonales:
 
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1714316614101778626" >}}
+{{< x user="ManoloAlonso1" id="1714316614101778626" >}}
 </div>
 
 {{< /spoiler >}}
@@ -253,7 +253,7 @@ Para terminar, ¿es cierto que las vacunas del COVID tienen óxido de grafeno, c
 **Mito**. No encontraréis grafeno ni óxido de grafeno en la lista de componentes de las vacunas ni ningún estudio serio que lo avale. Si aún desconfiáis, echad un vistazo a este hilo; entre otras cosas, las vacunas tendrían otro color si tuvieran algo de grafeno:
 
 <div align="center">
-{{< tweet user="MatSciMatt" id="1414023195041140737" >}}
+{{< x user="MatSciMatt" id="1414023195041140737" >}}
 </div>
 
 {{< /spoiler >}}

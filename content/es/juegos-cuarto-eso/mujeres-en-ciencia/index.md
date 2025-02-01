@@ -57,7 +57,7 @@ Si no hay más cartas en la baraja al principio de un turno, dicho/a jugador/a p
 
 Las cartas también pueden utilizarse para cualquier otro juego de baraja francesa (corazones &hearts;, diamantes &diams;, tréboles &clubs; y picas &spades;).
 
-Los colores que permiten formar los laboratorios son cinco y representan a diferentes disciplinas de la ciencia &mdash;los laboratorios se forman con científicas que pueden colaborar entre ellas: amarillo (enfermería, medicina, salud), fucsia (educación, psiquiatría, psicología), lila (informática, matemáticas), naranja (física, inventos) y verde (biología, geología, química). 
+Los colores que permiten formar los laboratorios son cinco y representan a diferentes disciplinas de la ciencia &mdash;los laboratorios se forman con científicas que pueden colaborar entre ellas: amarillo (enfermería, medicina, salud), fucsia (educación, psiquiatría, psicología), lila (informática, matemáticas), naranja (física, inventos) y verde (biología, geología, química).
 
 ## 💼 Material necesario
 
@@ -68,7 +68,7 @@ En el botón de arriba puedes descargar las [**cartas**](https://www.luanagames.
 Como **alternativa**, os proponemos echar un vistazo al **juego** creado por el gran **{{% mention "pablo-ortega-rodriguez" %}}** que recientemente compartió en Twitter:
 
 <div align="center">
-{{< tweet user="pablofcayqca" id="1633200732424765441" >}}
+{{< x user="pablofcayqca" id="1633200732424765441" >}}
 </div>
 
 o al videojuego [**WoMen in Science**](https://store.steampowered.com/app/1097210/WoMen_in_Science/), un simulador de granja con ciencia y robots.

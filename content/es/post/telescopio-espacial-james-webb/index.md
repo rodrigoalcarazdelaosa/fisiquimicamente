@@ -14,7 +14,7 @@ tags:
 categories:
 - Física
 image:
-  placement: 3  
+  placement: 3
   caption: "[https://www.esa.int/Space_in_Member_States/Spain/Actualizacion_sobre_el_telescopio_espacial_James_Webb_revision_de_la_nueva_ventana_de_lanzamiento](https://www.esa.int/Space_in_Member_States/Spain/Actualizacion_sobre_el_telescopio_espacial_James_Webb_revision_de_la_nueva_ventana_de_lanzamiento)"
 ---
 
@@ -143,9 +143,9 @@ Al observar el universo en longitudes de onda infrarrojas, Webb nos mostrará co
 
 **Los objetivos principales de Webb** son estudiar la formación de galaxias, estrellas y planetas en el universo. Para ver las primeras estrellas y galaxias que se formaron en el universo primitivo, tenemos que mirar en lo más profundo del espacio para mirar hacia atrás en el tiempo (como la luz tarda tiempo en viajar desde allí hasta aquí, cuanto más lejos miremos, más atrás estaremos en el tiempo).
 
-**El universo se expande** y, por tanto, cuanto más lejos miremos, más rápido se alejan los objetos de nosotros, desplazando la luz hacia el rojo. El desplazamiento al rojo significa que la luz que se emite en el ultravioleta o en el visible se desplaza cada vez más hacia longitudes de onda más rojas, hacia la parte del infrarrojo cercano y medio del espectro electromagnético para desplazamientos al rojo muy altos. Por lo tanto, para estudiar la formación más temprana de estrellas y galaxias en el universo, tenemos que observar la luz infrarroja y utilizar un telescopio e instrumentos optimizados para esta luz. 
+**El universo se expande** y, por tanto, cuanto más lejos miremos, más rápido se alejan los objetos de nosotros, desplazando la luz hacia el rojo. El desplazamiento al rojo significa que la luz que se emite en el ultravioleta o en el visible se desplaza cada vez más hacia longitudes de onda más rojas, hacia la parte del infrarrojo cercano y medio del espectro electromagnético para desplazamientos al rojo muy altos. Por lo tanto, para estudiar la formación más temprana de estrellas y galaxias en el universo, tenemos que observar la luz infrarroja y utilizar un telescopio e instrumentos optimizados para esta luz.
 
-**La formación de estrellas y planetas** en el universo local tiene lugar en los centros de nubes densas y polvorientas, ocultas a nuestros ojos en las longitudes de onda visibles normales. La luz infrarroja cercana, con su mayor longitud de onda, se ve menos obstaculizada por las pequeñas partículas de polvo, lo que permite que la luz infrarroja cercana escape de las nubes de polvo. Al observar la luz emitida en el infrarrojo cercano podemos penetrar en el polvo y ver los procesos que conducen a la formación de estrellas y planetas. 
+**La formación de estrellas y planetas** en el universo local tiene lugar en los centros de nubes densas y polvorientas, ocultas a nuestros ojos en las longitudes de onda visibles normales. La luz infrarroja cercana, con su mayor longitud de onda, se ve menos obstaculizada por las pequeñas partículas de polvo, lo que permite que la luz infrarroja cercana escape de las nubes de polvo. Al observar la luz emitida en el infrarrojo cercano podemos penetrar en el polvo y ver los procesos que conducen a la formación de estrellas y planetas.
 
 **Los objetos con una temperatura similar a la de la Tierra emiten la mayor parte de su radiación en longitudes de onda del infrarrojo medio**. Estas temperaturas también se encuentran en las regiones polvorientas que forman estrellas y planetas, por lo que con la radiación infrarroja media podemos ver el brillo de la formación de estrellas y planetas que se está produciendo. Un telescopio optimizado para el infrarrojo nos permite penetrar en las nubes de polvo para ver los lugares de nacimiento de las estrellas y los planetas.
 
@@ -175,7 +175,7 @@ La [**zona habitable**](https://es.wikipedia.org/wiki/Zona_de_habitabilidad) es 
 
 #### ¿Cómo se compara Webb con el Satélite de Sondeo de Exoplanetas en Tránsito (TESS)?
 
-Webb es un observatorio muy grande diseñado para abordar una variedad de preguntas en muchas áreas de la astrofísica, mientras que [**TESS**](https://es.wikipedia.org/wiki/Satélite_de_Sondeo_de_Exoplanetas_en_Tránsito) se concentra en la identificación de una gran muestra de pequeños planetas donde las observaciones de seguimiento son factibles con los telescopios actuales y previstos. TESS identificará planetas pequeños y medirá su tamaño. Mediante observaciones de seguimiento, podremos determinar las masas de algunos de estos planetas. Con las mediciones de la masa y el tamaño, podremos determinar las densidades de los planetas y empezar a entender de qué están hechos. Este trabajo proporcionará una base para futuras misiones en la búsqueda de planetas potencialmente habitables. 
+Webb es un observatorio muy grande diseñado para abordar una variedad de preguntas en muchas áreas de la astrofísica, mientras que [**TESS**](https://es.wikipedia.org/wiki/Satélite_de_Sondeo_de_Exoplanetas_en_Tránsito) se concentra en la identificación de una gran muestra de pequeños planetas donde las observaciones de seguimiento son factibles con los telescopios actuales y previstos. TESS identificará planetas pequeños y medirá su tamaño. Mediante observaciones de seguimiento, podremos determinar las masas de algunos de estos planetas. Con las mediciones de la masa y el tamaño, podremos determinar las densidades de los planetas y empezar a entender de qué están hechos. Este trabajo proporcionará una base para futuras misiones en la búsqueda de planetas potencialmente habitables.
 
 TESS ampliará el censo de exoplanetas de la misión Kepler de la NASA centrándose en estrellas más cercanas y brillantes, en las que es más fácil realizar observaciones de seguimiento. Las estrellas que estudie TESS serán, por término medio, entre 30 y 100 veces más brillantes que las estrellas que ya estudió Kepler.
 
@@ -243,16 +243,16 @@ En la primera semana
 : La segunda maniobra de corrección de la trayectoria tendrá lugar a los 2.5 días del lanzamiento. Justo después se iniciará la secuencia de despliegue mayor. Los primeros despliegues son las paletas del parasol de proa y de popa, seguidas de la liberación de los bloqueos de lanzamiento de los subsistemas restantes. El siguiente despliegue es el del telescopio, en el que el telescopio y el autobús espacial se separan el uno del otro unos 2 metros cuando se extiende el conjunto de la torre desplegable. Entonces se puede iniciar el despliegue completo del parasol con el despliegue y tensado de las membranas. A los 6 días se despliega el espejo secundario, seguido de las alas laterales del espejo primario.
 
 En el primer mes
-: Mientras el telescopio se enfría a la sombra del parasol desplegado, encenderemos la electrónica de calentamiento e inicializaremos el software de vuelo. Al final del primer mes, realizaremos la corrección de rumbo media que asegura que Webb alcanzará su órbita final alrededor de L2. Aunque el telescopio se enfría hasta casi su temperatura de funcionamiento, el ISIM se calienta con calentadores eléctricos para evitar la condensación en los instrumentos, ya que el agua residual atrapada en los materiales que componen el observatorio escapa al vacío del espacio. 
+: Mientras el telescopio se enfría a la sombra del parasol desplegado, encenderemos la electrónica de calentamiento e inicializaremos el software de vuelo. Al final del primer mes, realizaremos la corrección de rumbo media que asegura que Webb alcanzará su órbita final alrededor de L2. Aunque el telescopio se enfría hasta casi su temperatura de funcionamiento, el ISIM se calienta con calentadores eléctricos para evitar la condensación en los instrumentos, ya que el agua residual atrapada en los materiales que componen el observatorio escapa al vacío del espacio.
 
 En el segundo mes
-: A los 33 días del lanzamiento encenderemos y pondremos en funcionamiento el Sensor de Orientación Fina, luego NIRCam y NIRSpec. La primera imagen de NIRCam será de un campo estelar abarrotado para asegurarnos de que la luz atraviesa el telescopio y llega a los instrumentos. Dado que los segmentos del espejo primario aún no estarán alineados, la imagen seguirá estando desenfocada. A los 44 días del lanzamiento comenzaremos el proceso de ajuste de los segmentos del espejo primario, identificando primero cada segmento del espejo con su imagen de una estrella en la cámara. También enfocaremos el espejo secundario. 
+: A los 33 días del lanzamiento encenderemos y pondremos en funcionamiento el Sensor de Orientación Fina, luego NIRCam y NIRSpec. La primera imagen de NIRCam será de un campo estelar abarrotado para asegurarnos de que la luz atraviesa el telescopio y llega a los instrumentos. Dado que los segmentos del espejo primario aún no estarán alineados, la imagen seguirá estando desenfocada. A los 44 días del lanzamiento comenzaremos el proceso de ajuste de los segmentos del espejo primario, identificando primero cada segmento del espejo con su imagen de una estrella en la cámara. También enfocaremos el espejo secundario.
 
 En el tercer mes
-: De 60 a 90 días después del lanzamiento alinearemos los segmentos del espejo primario para que puedan trabajar juntos como una única superficie óptica. También encenderemos y haremos funcionar el MIRI. A finales del tercer mes podremos tomar las primeras imágenes de calidad científica. También para esta época, Webb completará su viaje hasta su posición orbital L2. 
+: De 60 a 90 días después del lanzamiento alinearemos los segmentos del espejo primario para que puedan trabajar juntos como una única superficie óptica. También encenderemos y haremos funcionar el MIRI. A finales del tercer mes podremos tomar las primeras imágenes de calidad científica. También para esta época, Webb completará su viaje hasta su posición orbital L2.
 
 Del cuarto al sexto mes
-: Alrededor de 85 días después del lanzamiento habremos completado la optimización de la imagen del telescopio en el NIRCam. Durante el próximo mes y medio optimizaremos la imagen de los demás instrumentos. Probaremos y calibraremos todas las capacidades de los instrumentos observando objetivos científicos representativos. 
+: Alrededor de 85 días después del lanzamiento habremos completado la optimización de la imagen del telescopio en el NIRCam. Durante el próximo mes y medio optimizaremos la imagen de los demás instrumentos. Probaremos y calibraremos todas las capacidades de los instrumentos observando objetivos científicos representativos.
 
 Después de seis meses
 : Webb comenzará su misión científica y empezará a realizar operaciones científicas de rutina.
@@ -293,7 +293,7 @@ Este **vídeo** en [**cámara rápida**](https://es.wikipedia.org/wiki/Cámara_r
 
 #### ¿Por qué los espejos son hexagonales?
 
-La forma **hexagonal** permite construir un espejo segmentado sin huecos que puede tener una forma aproximadamente circular y sólo necesita 3 variaciones en la prescripción. 
+La forma **hexagonal** permite construir un espejo segmentado sin huecos que puede tener una forma aproximadamente circular y sólo necesita 3 variaciones en la prescripción.
 
 La forma hexagonal permite construir un espejo segmentado con un "alto factor de llenado y una simetría séxtuple". Un alto factor de llenado significa que los segmentos encajan entre sí sin huecos. Si tuviéramos segmentos circulares, habría huecos entre ellos. La simetría es buena porque sólo necesitamos 3 prescripciones ópticas diferentes para los 18 segmentos, (6 de cada prescripción). Por último, queremos una forma general de espejo aproximadamente circular porque eso enfoca la luz en la región más compacta de los detectores. Un espejo ovalado, por ejemplo, daría imágenes alargadas en una dirección. Un espejo cuadrado enviaría gran parte de la luz fuera de la región central.
 
@@ -301,7 +301,7 @@ La forma hexagonal permite construir un espejo segmentado con un "alto factor de
 
 #### ¿Por qué el parasol tiene cinco capas?
 
-Webb tiene un gigantesco **parasol** del tamaño de una pista de tenis, hecho de cinco capas muy finas de una película aislante llamada [**Kapton**](https://es.wikipedia.org/wiki/Kapton). ¿Por qué cinco? Un gran y grueso parasol conduciría el calor de abajo hacia arriba más que un parasol con cinco capas separadas por el vacío. Con cinco capas en el parasol, cada una de ellas es más fría que la siguiente. El calor se irradia entre las capas, y el vacío entre ellas es un muy buen aislante. Los estudios realizados al principio del desarrollo de la misión demostraron que cinco capas proporcionaban suficiente refrigeración.  Un mayor número de capas proporcionaría más refrigeración, pero también supondría más masa y complejidad.  Nos decidimos por cinco porque nos dan suficiente refrigeración con cierto "margen" o factor de seguridad, y seis o más no aportarían ningún beneficio adicional. 
+Webb tiene un gigantesco **parasol** del tamaño de una pista de tenis, hecho de cinco capas muy finas de una película aislante llamada [**Kapton**](https://es.wikipedia.org/wiki/Kapton). ¿Por qué cinco? Un gran y grueso parasol conduciría el calor de abajo hacia arriba más que un parasol con cinco capas separadas por el vacío. Con cinco capas en el parasol, cada una de ellas es más fría que la siguiente. El calor se irradia entre las capas, y el vacío entre ellas es un muy buen aislante. Los estudios realizados al principio del desarrollo de la misión demostraron que cinco capas proporcionaban suficiente refrigeración.  Un mayor número de capas proporcionaría más refrigeración, pero también supondría más masa y complejidad.  Nos decidimos por cinco porque nos dan suficiente refrigeración con cierto "margen" o factor de seguridad, y seis o más no aportarían ningún beneficio adicional.
 
 Webb dispone de un gran parasol para proteger el telescopio del calentamiento por la luz solar directa, lo que le permite enfriarse hasta una temperatura inferior a 50 Kelvin (-223&thinsp;&deg;C) irradiando pasivamente su calor al espacio. (Dato curioso: casi se podría hervir agua en el lado caliente del parasol y es lo suficientemente frío como para congelar nitrógeno en el lado frío).
 
@@ -408,7 +408,7 @@ Es por esto que el telescopio estará en el segundo punto de Lagrange.
 Te recomiendo echar un 🧐 a este fantástico 🧵 **hilo** de [**Rayleigh Lord**](https://twitter.com/RayleighLord):
 
 <div align="center">
-{{< tweet user="RayleighLord" id="1476170607100370947" >}}
+{{< x user="RayleighLord" id="1476170607100370947" >}}
 </div>
 
 #### Webb en L2

@@ -26,7 +26,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: acido-base-poster.pdf
 - icon_pack: fas
@@ -52,7 +52,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/acido-base/  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/acido-base/
 
 slides: acido-base-2Bach-quimica
 
@@ -153,7 +153,7 @@ $$
 
 A 25&thinsp;&deg;C:
 
-$$[\mathrm{H_3O^+}] = [\mathrm{OH}^-] = 10^{-7}\thinspace\mathrm M \Rightarrow K_\mathrm w = 10^{-14}	
+$$[\mathrm{H_3O^+}] = [\mathrm{OH}^-] = 10^{-7}\thinspace\mathrm M \Rightarrow K_\mathrm w = 10^{-14}
 $$
 
 ### Relación entre $K_\mathrm a$ y $K_\mathrm b$
@@ -266,7 +266,7 @@ Indicador de pH incoloro en medio ácido que vira a rosa en **medio básico**:
 Daviid, desde Twitter, nos invita a un interesante debate sobre la necesidad de introducir siquiera el concepto de hidrólisis en la disociación de sales:
 
 <div align="center">
-{{< tweet user="DaviidMPB" id="1378985803846717445" >}}
+{{< x user="DaviidMPB" id="1378985803846717445" >}}
 </div>
 
 {{< figure src="acido-base-2Bach-quimica/sal-ionizada.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/solutions-are-in-equilibrium/." lightbox="false" width="100%" >}}
@@ -345,7 +345,7 @@ K_\mathrm b = \frac{\mathrm{[HB^+][OH^-]}}{\mathrm{[B]}},
 $$
 podemos despejar la concentración de iones hidróxido, OH<sup>&ndash;</sup>:
 $$
-\mathrm{[OH^-]} = K_\mathrm b\cdot \frac{\mathrm{[B]}}{\mathrm{[HB^+]}}	
+\mathrm{[OH^-]} = K_\mathrm b\cdot \frac{\mathrm{[B]}}{\mathrm{[HB^+]}}
 $$
 
 Tomando logaritmos y cambiando de signo llegamos a otra forma de la **ecuación de Henderson-Hasselbalch**:
@@ -386,7 +386,7 @@ El compuesto químico más producido del mundo, obtenido a base de hidratar SO<s
 
 Empleado en la producción de abonos, explosivos y colorantes:
 $$
-\mathrm{HNO_3} + \mathrm{H_2O} \longrightarrow \mathrm{NO_3^-} + \mathrm{H_3O^+}\quad\text{(ácido FUERTE)}	
+\mathrm{HNO_3} + \mathrm{H_2O} \longrightarrow \mathrm{NO_3^-} + \mathrm{H_3O^+}\quad\text{(ácido FUERTE)}
 $$
 
 ### A nivel de consumo
@@ -395,8 +395,8 @@ $$
 
 Presente en el vinagre, aunque principalmente usado en la fabricación de **fibras textiles**.
 
-$$					
-\mathrm{CH_3COOH} + \mathrm{H_2O} &#8652; \mathrm{CH_3COO^-} + \mathrm{H_3O^+}\quad\text{(ácido DÉBIL)}	
+$$
+\mathrm{CH_3COOH} + \mathrm{H_2O} &#8652; \mathrm{CH_3COO^-} + \mathrm{H_3O^+}\quad\text{(ácido DÉBIL)}
 $$
 
 #### Amoniaco (NH<sub>3</sub>)
@@ -404,7 +404,7 @@ $$
 Empleado principalmente en la producción de **fertilizantes**.
 
 $$
-\mathrm{NH_3} + \mathrm{H_2O} &#8652; \mathrm{NH_4^+} + \mathrm{OH^-}\quad\text{(base DÉBIL)}	
+\mathrm{NH_3} + \mathrm{H_2O} &#8652; \mathrm{NH_4^+} + \mathrm{OH^-}\quad\text{(base DÉBIL)}
 $$
 
 #### Hidróxido de sodio (NaOH)
@@ -412,7 +412,7 @@ $$
 Empleado sobre todo en la fabricación de papel, tejidos y agentes de limpieza.
 
 $$
-\mathrm{NaOH} \longrightarrow \mathrm{Na^+} + \mathrm{OH^-}\quad\text{(base FUERTE)}	
+\mathrm{NaOH} \longrightarrow \mathrm{Na^+} + \mathrm{OH^-}\quad\text{(base FUERTE)}
 $$
 
 ### Problemas medioambientales

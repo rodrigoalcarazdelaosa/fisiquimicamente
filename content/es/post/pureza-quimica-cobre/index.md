@@ -22,7 +22,7 @@ image:
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ricestrada" id="1423819006788706308" >}}
+{{< x user="ricestrada" id="1423819006788706308" >}}
 </div>
 {{% /callout %}}
 

@@ -128,7 +128,7 @@ $$
 
 A 25&thinsp;&deg;C:
 
-$$[\mathrm{H_3O^+}] = [\mathrm{OH}^-] = 10^{-7}\thinspace\mathrm M \Rightarrow K_\mathrm w = 10^{-14}	
+$$[\mathrm{H_3O^+}] = [\mathrm{OH}^-] = 10^{-7}\thinspace\mathrm M \Rightarrow K_\mathrm w = 10^{-14}
 $$
 
 ### Relació entre $K_\mathrm a$ i $K_\mathrm b$
@@ -237,7 +237,7 @@ Indicador de pH incolor en medi àcid que vira a rosa en **medi bàsic**:
 Daviid, des de Twitter, ens convida a un interessant debat (en espanyol) sobre la necessitat d'introduir si més no el concepte d'hidròlisi a la dissociació de sals:
 
 <div align="center">
-{{< tweet user="DaviidMPB" id="1378985803846717445" >}}
+{{< x user="DaviidMPB" id="1378985803846717445" >}}
 </div>
 
 {{< figure src="acido-base-2Bach-quimica/sal-ionizada-cat.svg" title="Traduïda i adaptada de https://www.coursehero.com/sg/general-chemistry/solutions-are-in-equilibrium/." lightbox="false" width="100%" >}}
@@ -316,7 +316,7 @@ K_\mathrm b = \frac{\mathrm{[HB^+][OH^-]}}{\mathrm{[B]}},
 $$
 podem aïllar la concentració d'ions hidròxid, OH<sup>&ndash;</sup>:
 $$
-\mathrm{[OH^-]} = K_\mathrm b\cdot \frac{\mathrm{[B]}}{\mathrm{[HB^+]}}	
+\mathrm{[OH^-]} = K_\mathrm b\cdot \frac{\mathrm{[B]}}{\mathrm{[HB^+]}}
 $$
 
 Prenent logaritmes i canviant de signe arribem a una altra forma de l'**equació de Henderson-Hasselbalch**:
@@ -357,7 +357,7 @@ El compost químic més produït del món, obtingut a base d'hidratar SO<sub>3</
 
 Emprat en la producció d'adobs, explosius i colorants:
 $$
-\mathrm{HNO_3} + \mathrm{H_2O} \longrightarrow \mathrm{NO_3^-} + \mathrm{H_3O^+}\quad\text{(àcid FORT)}	
+\mathrm{HNO_3} + \mathrm{H_2O} \longrightarrow \mathrm{NO_3^-} + \mathrm{H_3O^+}\quad\text{(àcid FORT)}
 $$
 
 ### A nivell de consum
@@ -366,8 +366,8 @@ $$
 
 Present al vinagre, encara que principalment usat en la fabricació de **fibres tèxtils**.
 
-$$					
-\mathrm{CH_3COOH} + \mathrm{H_2O} &#8652; \mathrm{CH_3COO^-} + \mathrm{H_3O^+}\quad\text{(àcid FEBLE)}	
+$$
+\mathrm{CH_3COOH} + \mathrm{H_2O} &#8652; \mathrm{CH_3COO^-} + \mathrm{H_3O^+}\quad\text{(àcid FEBLE)}
 $$
 
 #### Amoníac (NH<sub>3</sub>)
@@ -375,7 +375,7 @@ $$
 Emprat principalment en la producció de **fertilitzants**.
 
 $$
-\mathrm{NH_3} + \mathrm{H_2O} &#8652; \mathrm{NH_4^+} + \mathrm{OH^-}\quad\text{(base FEBLE)}	
+\mathrm{NH_3} + \mathrm{H_2O} &#8652; \mathrm{NH_4^+} + \mathrm{OH^-}\quad\text{(base FEBLE)}
 $$
 
 #### Hidròxid de sodi (NaOH)
@@ -383,7 +383,7 @@ $$
 Emprat sobretot en la fabricació de paper, teixits i productes de neteja.
 
 $$
-\mathrm{NaOH} \longrightarrow \mathrm{Na^+} + \mathrm{OH^-}\quad\text{(base FORTA)}	
+\mathrm{NaOH} \longrightarrow \mathrm{Na^+} + \mathrm{OH^-}\quad\text{(base FORTA)}
 $$
 
 ### Problemes mediambientals

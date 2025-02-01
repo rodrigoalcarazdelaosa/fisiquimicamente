@@ -24,12 +24,12 @@ math: true
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="BTeseracto" id="1484224720102989828" >}}
+{{< x user="BTeseracto" id="1484224720102989828" >}}
 </div>
 
 Además, en este magnífico hilo [**Cuentos Cuánticos**](https://twitter.com/Cuent_Cuanticos) nos argumenta por qué la **entropía** debería ser **adimensional**:
 <div align="center">
-{{< tweet user="Cuent_Cuanticos" id="1590286557696917506" >}}
+{{< x user="Cuent_Cuanticos" id="1590286557696917506" >}}
 </div>
 {{% /callout %}}
 
@@ -65,13 +65,13 @@ Y aquí es cuando nos decís “*mu bonito todo, pero un ejemplo vendría bien*�
 
 {{< figure src="microestados.svg" lightbox="false" width="100%" theme="light" >}}
 
-Cada una de esas combinaciones es un microestado para este sistema, y ese resultado igual a cero sería el macroestado. Aunque este ejemplo carece de significado físico, nos sirve para ilustrar cómo las combinaciones de posiciones y velocidades de las partículas (microestados) dan como resultado unas condiciones de temperatura y presión (macroestado). Aquí es donde sale a relucir la ecuación de Boltzmann: la entropía es proporcional a la cantidad de microestados posibles compatibles con un estado macroscópico final. Este fue su gran logro, conseguir dar una explicación a la entropía y hallar una forma de calcularla. 
+Cada una de esas combinaciones es un microestado para este sistema, y ese resultado igual a cero sería el macroestado. Aunque este ejemplo carece de significado físico, nos sirve para ilustrar cómo las combinaciones de posiciones y velocidades de las partículas (microestados) dan como resultado unas condiciones de temperatura y presión (macroestado). Aquí es donde sale a relucir la ecuación de Boltzmann: la entropía es proporcional a la cantidad de microestados posibles compatibles con un estado macroscópico final. Este fue su gran logro, conseguir dar una explicación a la entropía y hallar una forma de calcularla.
 
 ## Pero, ¿por qué aumenta la entropía al quitar la pared separadora?
 
 La respuesta con lo que ya sabemos también es obvia, la cantidad de microestados compatibles con el resultado final es mucho mayor que la inicial. Expliquemos este punto. Se puede calcular en qué medida han aumentado y la respuesta es espectacular. Suponiendo que pudiésemos escribir 500 ceros por metro, harían falta 38&thinsp;000 [años luz](https://es.wikipedia.org/wiki/Año_luz) de longitud. Es decir, un uno seguido del radio de la [Vía Láctea](https://es.wikipedia.org/wiki/V%C3%ADa_Láctea) en ceros. Esos son muchos microestados.
 
-Suponiendo que todos los microestados son igualmente probables, es evidente que la configuración más probable, de forma aplastante, es la del gas completamente expandido. La entropía siempre aumenta por el simple hecho de que el estado final es infinitamente más probable. Si el número de microestados compatibles con la situación inicial es de miles y el número de microestados compatibles con el gas expandido ocuparía media galaxia, la probabilidad de que el gas caiga en un microestado con éste completamente expandido es aplastante. 
+Suponiendo que todos los microestados son igualmente probables, es evidente que la configuración más probable, de forma aplastante, es la del gas completamente expandido. La entropía siempre aumenta por el simple hecho de que el estado final es infinitamente más probable. Si el número de microestados compatibles con la situación inicial es de miles y el número de microestados compatibles con el gas expandido ocuparía media galaxia, la probabilidad de que el gas caiga en un microestado con éste completamente expandido es aplastante.
 
 Pero, ¿puede suceder que el gas se quede en su posición inicial? Sobre el papel, sí. Existe la posibilidad de que una fluctuación espontánea lleve al sistema a su estado inicial. Pero su probabilidad es, a efectos prácticos, nula. Esto mismo se puede aplicar a cualquier proceso irreversible en un sistema aislado. La cantidad de microestados compatibles con la configuración final es aplastantemente más alta, lo que se traduce en que el sistema siempre evoluciona hacía un estado de máxima entropía.
 

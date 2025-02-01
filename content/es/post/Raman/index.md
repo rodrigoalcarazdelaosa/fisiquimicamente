@@ -23,7 +23,7 @@ image:
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1679530424660287496" >}}
+{{< x user="ManoloAlonso1" id="1679530424660287496" >}}
 </div>
 {{% /callout %}}
 
@@ -62,7 +62,7 @@ Resumida su historia, veamos cómo aprovechamos este efecto hoy en día. Hace me
 [^1]: Prefiero no trasladar conclusiones precipitadas que van más allá de mi campo, solo diré que parece que la explicación de vida antigua no es la única posible. En [este hilo](https://twitter.com/MarGomezH/status/1679440835027390465), Mar Gómez explica con detalle la mencionada noticia.
 
 <div align="center">
-{{< tweet user="materia_ciencia" id="1679143941705220101" >}}
+{{< x user="materia_ciencia" id="1679143941705220101" >}}
 </div>
 
 El [rover **Perseverance**](https://es.wikipedia.org/wiki/Perseverance), la mayor misión a Marte de la historia, aterrizó en el [cráter Jezero](https://es.wikipedia.org/wiki/Jezero_(cráter)) hace 2.5 años para explorar el delta del antiguo río que parece que hubo allí. El equipo publicó recientemente la detección de compuestos orgánicos complejos. Dejo los detalles para quien sepa de [astrobiología](https://es.wikipedia.org/wiki/Astrobiología); aquí os voy a mostrar la base de la [espectroscopía Raman](https://es.wikipedia.org/wiki/Espectroscopia_Raman) usada. El Perseverance lleva un equipo llamado [SHERLOC](https://es.wikipedia.org/wiki/Scanning_Habitable_Environments_with_Raman_and_Luminescence_for_Organics_and_Chemicals) acoplado a una cámara llamada WATSON (todo muy [Conan-Doyle](https://es.wikipedia.org/wiki/Arthur_Conan_Doyle)):

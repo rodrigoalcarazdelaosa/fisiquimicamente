@@ -27,7 +27,7 @@ math: true
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1615789245456596993" >}}
+{{< x user="ManoloAlonso1" id="1615789245456596993" >}}
 </div>
 {{% /callout %}}
 
@@ -44,7 +44,7 @@ Cuando tocamos una cuerda sujeta por ambos extremos, su longitud de onda es dos 
 
 ![nodos y antinodos](nodos-antinodos.jpg "Editada de https://www.khanacademy.org/science/in-in-class11th-physics/in-in-11th-physics-waves/in-in-class11-standing-waves/a/standing-waves-review-ap.")
 
-¿Cómo llega el sonido a nuestro oído? A través de las moléculas de aire que hay entre el instrumento y nosotros; el instrumento las hace vibrar a la frecuencia a la que está siendo tocado y esa vibración (no las moléculas en sí) se propaga hacia nosotros longitudinalmente. 
+¿Cómo llega el sonido a nuestro oído? A través de las moléculas de aire que hay entre el instrumento y nosotros; el instrumento las hace vibrar a la frecuencia a la que está siendo tocado y esa vibración (no las moléculas en sí) se propaga hacia nosotros longitudinalmente.
 
 <figure>
 <div class="tenor-gif-embed" data-postid="25371774" data-share-method="host" data-aspect-ratio="2.14765" data-width="100%"><a href="https://tenor.com/view/sound-wave-gif-25371774">Sound Wave GIF</a>from <a href="https://tenor.com/search/sound+wave-gifs">Sound Wave GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
@@ -90,10 +90,10 @@ Sin embargo, falta algo para completar esta explicación. En este vídeo podéis
 
 {{< youtube xGXYFJmvIvk >}}
 
-En realidad, cuando tocamos una cuerda, esta no solo vibra con el modo fundamental, correspondiente p. ej. a 440&thinsp;Hz en el ejemplo anterior; hay otras soluciones de frecuencia superior que cumplen las condiciones de contorno de una cuerda sujeta por ambos extremos. Aquí veis los 8 primeros armónicos de dicha cuerda (vía [@Rayleighlord](https://twitter.com/rayleighlord)). 
+En realidad, cuando tocamos una cuerda, esta no solo vibra con el modo fundamental, correspondiente p. ej. a 440&thinsp;Hz en el ejemplo anterior; hay otras soluciones de frecuencia superior que cumplen las condiciones de contorno de una cuerda sujeta por ambos extremos. Aquí veis los 8 primeros armónicos de dicha cuerda (vía [@Rayleighlord](https://twitter.com/rayleighlord)).
 
 <div align="center">
-{{< tweet user="RayleighLord" id="1335530645737648128" >}}
+{{< x user="RayleighLord" id="1335530645737648128" >}}
 </div>
 
 Si os fijáis en la animación anterior, esos armónicos superiores que acompañan en menor intensidad al fundamental al tocar la cuerda corresponden al doble, al triple, etc. de frecuencia. La mayoría (2*f*, 4*f*, 8*f*, ...) por sí solas las reconoceríamos como la misma nota más aguda. Luego veremos qué ocurre con algunos otros armónicos como el tercero.
@@ -113,7 +113,7 @@ El peso de los armónicos también determina el tono de nuestra voz. Si canto y 
 En este 🧵 hilo de Twitter, el gran [**Alberto Aguayo**](https://twitter.com/fqsaja1) analiza la famosa ***voz de helio***, explicando cómo la **clave** está en los **armónicos**:
 
 <div align="center">
-{{< tweet user="fqsaja1" id="1620663639555596289" >}}
+{{< x user="fqsaja1" id="1620663639555596289" >}}
 </div>
 
 Terminemos la entrada hablando de las [**quintas**](https://es.wikipedia.org/wiki/Quinta). Hemos visto en la imagen de los armónicos que el tercer armónico de una cuerda no es la nota fundamental más aguda. Sin embargo, tiene una relación muy especial con ella, conocida como su ***quinta justa***. En la imagen veis un ejemplo donde para el Do (C) su quinta justa es el Sol (G). La relación matemática subyacente también tiene implicaciones musicales.

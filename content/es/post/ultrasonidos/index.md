@@ -19,13 +19,13 @@ categories:
 - Física
 image:
   placement: 3
-  caption: "https://creation.com/dolphin-double-sonar"  
+  caption: "https://creation.com/dolphin-double-sonar"
 ---
 
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1537134220983812097" >}}
+{{< x user="ManoloAlonso1" id="1537134220983812097" >}}
 </div>
 {{% /callout %}}
 
@@ -91,4 +91,4 @@ Una última curiosidad. Al pegar el [transductor](https://es.wikipedia.org/wiki/
 
 La [**impedancia acústica**](https://es.wikipedia.org/wiki/Impedancia_acústica) es el producto de la densidad del medio y la velocidad de la onda. La densidad del aire es unas mil veces menor que la del transductor de ultrasonidos y los componentes de nuestro cuerpo. Sin gel, el aire entre el transductor y el cuerpo refleja toda la onda.
 
-Con esto termina esta entrada, en la que hemos ido aumentando la frecuencia desde los pitidos incómodos hasta las ondas acústicas que no podemos oír pero que sí usamos, y que forman parte del día a día de animales como los delfines. 
+Con esto termina esta entrada, en la que hemos ido aumentando la frecuencia desde los pitidos incómodos hasta las ondas acústicas que no podemos oír pero que sí usamos, y que forman parte del día a día de animales como los delfines.

@@ -266,7 +266,7 @@ El [Departament de Física i Química de l'IES Valle del Saja](http://www.fqsaja
 Aprèn amb aquest 🧵 fil de Twitter com els [*sifons*](https://es.wikipedia.org/wiki/sifón) fan ús de la pressió atmosfèrica per a permetre'ns depassar un obstacle que supera el nivell del fluid, ajudant-nos a extreure un líquid d'un recipient no manipulable:
 
 <div align="center">
-{{< tweet user="fqsaja1" id="1641449863400550408" >}}
+{{< x user="fqsaja1" id="1641449863400550408" >}}
 </div>
 
 ### Hemisferis de Magdeburg

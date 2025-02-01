@@ -17,14 +17,14 @@ tags:
 categories:
 - Física
 image:
-  placement: 3  
+  placement: 3
   caption: "https://in-the-sky.org/data/constellations_map.php"
 ---
 
 Recientemente, mi tocayo [**Rodrigo González Peinado**](https://twitter.com/rodrigogpeinado) compartía en X una **curiosidad** por cada una de las **8️⃣8️⃣ constelaciones oficiales** de la [**Unión Astronómica Internacional**](https://es.wikipedia.org/wiki/Unión_Astronómica_Internacional):
 
 <div align="center">
-{{< tweet user="rodrigogpeinado" id="1705513128807547057" >}}
+{{< x user="rodrigogpeinado" id="1705513128807547057" >}}
 </div>
 
 {{% callout note %}}
@@ -194,7 +194,7 @@ Se trata de la constelación más pequeña de entre las del [zodiaco](https://es
 Junto con [Puppis](#68-puppis-la-popa) y [Vela](#85-vela-la-vela), formaba la ya extinta macroconstelación de [Argo Navis](https://es.wikipedia.org/wiki/Argo_Navis). Conoce la historia de esta antigua constelación en este hilo:
 
 <div align="center">
-{{< tweet user="rodrigogpeinado" id="1308777295071641600" >}}
+{{< x user="rodrigogpeinado" id="1308777295071641600" >}}
 </div>
 
 ## 1️⃣8️⃣ Cassiopeia (Casiopea)
@@ -324,7 +324,7 @@ Su estrella más brillante, [Deneb](https://es.wikipedia.org/wiki/Deneb), es una
 Sus dos estrellas más brillantes, [Rotanev](https://es.wikipedia.org/wiki/Rotanev) y [Sualocin](https://es.wikipedia.org/wiki/Sualocin), esconden un juego de palabras muy curioso que Rodrigo explicó en su primer hilo de Twitter:
 
 <div align="center">
-{{< tweet user="rodrigogpeinado" id="1293902447501611008" >}}
+{{< x user="rodrigogpeinado" id="1293902447501611008" >}}
 </div>
 
 ## 3️⃣3️⃣ Dorado (La dorada)
@@ -739,7 +739,7 @@ Es conocida por albergar la [galaxia del Triángulo (Messier 33)](https://es.wik
 
 ![Triangulum Australe](http://www.allthesky.com/constellations/big/triangulumaustrale28vm-b.jpg "http://www.allthesky.com/constellations/visualconstellations.html")
 
-Es una de las varias constelaciones representadas en la [bandera de Brasil](https://es.wikipedia.org/wiki/Bandera_de_Brasil): 
+Es una de las varias constelaciones representadas en la [bandera de Brasil](https://es.wikipedia.org/wiki/Bandera_de_Brasil):
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" title="https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg" lightbox="false" width="100%" >}}
 

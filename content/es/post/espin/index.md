@@ -20,13 +20,13 @@ image:
   placement: 3
   caption: ""
 
-math: true  
+math: true
 ---
 
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="BTeseracto" id="1520085494071238660" >}}
+{{< x user="BTeseracto" id="1520085494071238660" >}}
 </div>
 {{% /callout %}}
 

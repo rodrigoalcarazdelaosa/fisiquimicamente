@@ -197,7 +197,7 @@ Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **si
 ¿Sabías que hemos creado lo más negro que hay en la Tierra? {{% mention "manuel-alonso-orts" %}} nos lo cuenta en este 🧵 hilo:
 
 <div align="center">
-{{< tweet user="manoloalonso1" id="1641121356455591963" >}}
+{{< x user="manoloalonso1" id="1641121356455591963" >}}
 </div>
 
 ---
@@ -481,7 +481,7 @@ Es la teoría que **describe tres de las cuatro interacciones fundamentales** de
 Descubre una interesante curiosidad sobre los [**muones**](https://es.wikipedia.org/wiki/Muon) en este magnífico hilo de [**BTeseracto**](https://twitter.com/bteseracto):
 
 <div align="center">
-{{< tweet user="BTeseracto" id="1486036181422903300" >}}
+{{< x user="BTeseracto" id="1486036181422903300" >}}
 </div>
 
 ---
@@ -489,13 +489,13 @@ Descubre una interesante curiosidad sobre los [**muones**](https://es.wikipedia.
 O aprende sobre cómo se pueden **detectar** los [**neutrinos**](https://es.wikipedia.org/wiki/Neutrino) y el misterio de los **neutrinos solares desaparecidos** en estos magníficos hilos también de [**BTeseracto**](https://twitter.com/bteseracto):
 
 <div align="center">
-{{< tweet user="BTeseracto" id="1489297648167366656" >}}
+{{< x user="BTeseracto" id="1489297648167366656" >}}
 </div>
 
 ---
 
 <div align="center">
-{{< tweet user="BTeseracto" id="1488572890454839298" >}}
+{{< x user="BTeseracto" id="1488572890454839298" >}}
 </div>
 
 ---

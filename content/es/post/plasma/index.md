@@ -24,7 +24,7 @@ image:
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1504142538248228873" >}}
+{{< x user="ManoloAlonso1" id="1504142538248228873" >}}
 </div>
 {{% /callout %}}
 
@@ -63,7 +63,7 @@ Otro plasma natural son los [**rayos**](https://es.wikipedia.org/wiki/Rayo). Com
 Hasta ahora hemos visto ejemplos en la naturaleza. También hay ejemplos de **plasma artificial**, generado por el ser humano. Empezando por las [**lámparas de vapor de sodio**](https://es.wikipedia.org/wiki/Lámpara_de_vapor_de_sodio), que aún se usan en algunas ciudades, como contó **Jorge Corrales** en este precioso **hilo**:
 
 <div align="center">
-{{< tweet user="Yosoycorra" id="1494654339641757696" >}}
+{{< x user="Yosoycorra" id="1494654339641757696" >}}
 </div>
 
 En ciencia de materiales también aprovechamos el plasma. Veamos un ejemplo. La base sobre la que se fabrican dispositivos como los [**chips**](https://es.wikipedia.org/wiki/Circuito_integrado) o las [**células solares**](https://es.wikipedia.org/wiki/Célula_fotoeléctrica) es la [oblea](https://es.wikipedia.org/wiki/Oblea_(electrónica)) de un material semiconductor, como el [**silicio**](https://es.wikipedia.org/wiki/Silicio). En la imagen se ven como espejos, ¿verdad?
@@ -84,15 +84,15 @@ En muchos de estos dispositivos sabemos que el plasma se ha activado por el colo
 
 Para ver un plasma en casa, se puede usar un [microondas y uvas]({{< ref "/post/gastrofisica/index.md#11-uva-de-plasma" >}}), pero puede ser peligroso. Así que, si vivís en Madrid, os recomiendo que hagáis como Javier Santaolalla y os acerquéis al Laboratorio de Física de Materiales de la [Facultad de Físicas de la UCM](https://fisicas.ucm.es). Ahí, [Carlos Romero](https://www.ucm.es/fisicamateriales/directorio?id=6366) os puede enseñar un plasma violeta que consigue generar en un tubo, simplemente reduciendo la cantidad de gas en su interior y metiéndolo en el microondas[^1].
 
-[^1]: [Alberto Aguayo](https://twitter.com/fqsaja1) nos recomienda [este artículo](https://www.technologyreview.es/s/10414/como-crear-plasma-con-cualquier-microondas-de-cocina) donde se explica la generación de plasma en un recipiente a baja presión en el microondas.  
+[^1]: [Alberto Aguayo](https://twitter.com/fqsaja1) nos recomienda [este artículo](https://www.technologyreview.es/s/10414/como-crear-plasma-con-cualquier-microondas-de-cocina) donde se explica la generación de plasma en un recipiente a baja presión en el microondas.
 
 {{< youtube YhQXSI6553Q >}}
 
 También nos pueden pillar cerca de casa las [**lámparas de plasma**](https://es.wikipedia.org/wiki/Lámpara_de_plasma) que hay en algunos museos de ciencia. Estas esferas de plasma sirven como una buena analogía a los rayos. El electrodo en el centro y nuestras manos cumplen el papel de las nubes y la Tierra, respectivamente, generándose *rayos* naturales de plasma entre ambos. Mirad las cosas que hacen con ellas Darek Dewey y Joe Cossette:
 
 <div align="center">
-{{< tweet user="DarekDewey" id="1468590730239262729" >}}
-{{< tweet user="cossettej" id="1469061276936683523" >}}
+{{< x user="DarekDewey" id="1468590730239262729" >}}
+{{< x user="cossettej" id="1469061276936683523" >}}
 </div>
 
 ## ¿Sables láser o sables de plasma?

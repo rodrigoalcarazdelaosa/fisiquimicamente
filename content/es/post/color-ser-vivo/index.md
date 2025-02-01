@@ -26,10 +26,10 @@ threedmol: true
 {{% callout thread %}}
 Entrada basada en los siguientes hilos de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1483858105758846983" >}}
+{{< x user="ManoloAlonso1" id="1483858105758846983" >}}
 </div>
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1516116048877170702" >}}
+{{< x user="ManoloAlonso1" id="1516116048877170702" >}}
 </div>
 
 Si queréis **aprender más** sobre el tema, en [este **artículo**](http://revistadefisica.es/index.php/ref/article/view/2744) (premiado como la [Mejor Contribución de Enseñanza en las publicaciones de la RSEF en 2023](https://rsef.es/images/Fisica/ListaPremiosmotivacion_PdF2023.pdf)) presentamos una forma atractiva de introducir [**iridiscencia**](https://es.wikipedia.org/wiki/Iridiscencia) y [**cristales fotónicos**](https://es.wikipedia.org/wiki/Cristal_fotónico) en el aula.

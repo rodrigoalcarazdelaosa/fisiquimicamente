@@ -22,7 +22,7 @@ image:
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1576973341302214665" >}}
+{{< x user="ManoloAlonso1" id="1576973341302214665" >}}
 </div>
 {{% /callout %}}
 
@@ -59,7 +59,7 @@ Físicamente, ¿qué quiere decir "*excitar al electrón a niveles de energía s
 {{% callout note %}}
 Aquí podéis ver una **animación** que muestra los **orbitales atómicos**:
 <div align="center">
-{{< tweet user="QuantumFracture" id="1571840836022722565" >}}
+{{< x user="QuantumFracture" id="1571840836022722565" >}}
 </div>
 
 , y un **vídeo** donde se explican con más detalle, ambos de [**@QuantumFracture**](https://twitter.com/QuantumFracture):
@@ -73,7 +73,7 @@ Aquí vamos a centrarnos en la relación entre esos estados del hidrógeno y la 
 {{< figure src="desexcitaciones-electronicas-H.png" title="Desexcitaciones electrónicas visibles y color asociado. Si el electrón cae de niveles superiores al nivel n = 2 del hidrógeno, sus longitudes de onda son equivalentes a colores que detecta nuestro ojo. También llamada [**serie** de **Balmer**](https://es.wikipedia.org/wiki/L%C3%ADneas_de_Balmer). En este ejemplo, el electrón había pasado al nivel n = 6 y la luz emitida sería la de 410&thinsp;nm; las demás ocurren cuando el electrón pasa por los niveles correspondientes.  Las emisiones entre niveles superiores y el nivel n = 1 (no mostradas aquí) dan lugar a radiación ultravioleta. Para emitir alguna de esas longitudes de onda, el átomo debe haber previamente absorbido [una energía por encima de 12&thinsp;eV](#figure-energia-excitaciones)." lightbox="true" >}}
 
 Esas longitudes de onda (colores) emitidas por el hidrógeno no solo se pueden calcular, sino también medir en un laboratorio. Para darle suficiente energía para activar esas transiciones electrónicas, se somete al gas a una corriente eléctrica.
- 
+
 {{< figure src="tubo-descarga-H.jpg" title="En esta imagen puede verse un tubo de descarga de hidrógeno (izquierda) y el espectro de emisión del hidrógeno (derecha), representado teóricamente a partir de cálculos del modelo de Bohr (arriba) y tomado experimentalmente en el [Museo Didáctico de Orihuela](https://mudic.es) (abajo) mediante un [espectroscopio](https://es.wikipedia.org/wiki/Espectrómetro) que se puede fabricar en un laboratorio casero. Para más información, pincha [aquí](http://rsefalicante.umh.es/TemasColor/cuantica_profesor.pdf). Vemos que modelo teórico cuadra maravillosamente con el experimento." lightbox="true" >}}
 
 El experimento anterior es análogo al prisma de Newton, donde se vio que la luz blanca está compuesta de muchas longitudes de onda (colores del [arcoíris]({{< relref "/post/arcoiris" >}})). Pero aquí solo hay cuatro:  una roja (más intensa), dos azules y una violeta, que combinadas dan lugar al color rosa del tubo de hidrógeno.
@@ -97,7 +97,7 @@ Esta es la base de las [**lámparas de descarga**](https://es.wikipedia.org/wiki
 Si quieres profundizar en este tema te recomiendo este 🧵 hilo de Twitter de [@Yosoycorra](https://twitter.com/Yosoycorra):
 
 <div align="center">
-{{< tweet user="Yosoycorra" id="1494654339641757696" >}}
+{{< x user="Yosoycorra" id="1494654339641757696" >}}
 </div>
 
 {{% /callout %}}

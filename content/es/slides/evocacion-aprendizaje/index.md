@@ -30,7 +30,7 @@ Héctor Ruiz Martín
 ---
 
 <div align="center">
-{{< tweet user="hruizmartin" id="1162291749387165696" >}}
+{{< x user="hruizmartin" id="1162291749387165696" >}}
 </div>
 
 ---

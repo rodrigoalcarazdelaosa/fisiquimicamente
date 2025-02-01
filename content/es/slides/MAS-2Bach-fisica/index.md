@@ -219,7 +219,7 @@ Consiste en una masa suspendida de un pivote de forma que puede oscilar libremen
 En este caso la **componente tangencial** del **peso** actúa como **fuerza recuperadora**, acelerando la masa hacia su posición de equilibrio, provocando la oscilación alrededor de ella.
 
 ---
-		
+
 \begin{align*}
 	-mg\sin\theta &= ma \\\\
 	-g\sin\theta &= -\omega^2x \\\\
@@ -272,7 +272,7 @@ Puedes estudiar los **factores** que **influyen** en el **periodo** de un **pén
 
 Como la **fuerza elástica** es **conservativa**, definimos la energía potencial asociada:
 $$
-E_\mathrm p = \frac{1}{2}kx^2,\quad \text{donde $k=m\omega^2$}	
+E_\mathrm p = \frac{1}{2}kx^2,\quad \text{donde $k=m\omega^2$}
 $$
 
 ---
@@ -320,7 +320,7 @@ $$
 Aprende más sobre la **energía** del **MAS** con este excelente 🧵 **hilo** sobre el **oscilador armónico simple**:
 
 <div align="center">
-{{< tweet user="RayleighLord" id="1345689336549941248" >}}
+{{< x user="RayleighLord" id="1345689336549941248" >}}
 </div>
 
 {{% /section %}}

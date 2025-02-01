@@ -18,14 +18,14 @@ categories:
 - Química
 image:
   placement: 3
-  caption: "http://global.chinadaily.com.cn/a/202111/18/WS6195ab5ba310cdd39bc75fe7.html" 
+  caption: "http://global.chinadaily.com.cn/a/202111/18/WS6195ab5ba310cdd39bc75fe7.html"
 ---
 
 {{% callout note %}}
 En esta entrada transcribimos la información que nos proporciona [**☢️ RadiactivoMan ☢️**](https://twitter.com/RadiactivoMan) en su hilo 🧵 de Twitter, donde repasa los distintos **colores** del **hidrógeno** y su **significado**, en función de la forma de producirlo:
 
 <div align="center">
-{{< tweet user="RadiactivoMan" id="1485722458430881796" >}}
+{{< x user="RadiactivoMan" id="1485722458430881796" >}}
 </div>
 
 Para ello, hemos creado **tarjetas** que pueden descargarse en **PDF** y así poder utilizarse como ***cartas*** de un posible **juego**.

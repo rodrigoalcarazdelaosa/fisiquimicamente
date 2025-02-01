@@ -31,7 +31,7 @@ math: true
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="BTeseracto" id="1740055006831583258" >}}
+{{< x user="BTeseracto" id="1740055006831583258" >}}
 </div>
 {{% /callout %}}
 

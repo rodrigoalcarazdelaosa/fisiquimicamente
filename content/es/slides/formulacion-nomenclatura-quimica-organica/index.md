@@ -299,7 +299,7 @@ En caso de ser **sustituyente**, se denomina ***fenil(o)***.
 
 ##### ¿Cómo es mejor representar el benceno?
 <div align="center">
-{{< tweet user="fqmente" id="1316297800607563778" >}}
+{{< x user="fqmente" id="1316297800607563778" >}}
 </div>
 
 ---
@@ -341,7 +341,7 @@ La **cadena principal** se **elige** aplicando los siguientes **criterios**:
 6. Contiene más sustituyentes.
 
 ---
-								
+
 #### Numeración
 La **cadena principal** se **numera** aplicando los siguientes **criterios**:
 

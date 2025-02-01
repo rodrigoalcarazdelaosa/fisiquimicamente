@@ -20,7 +20,7 @@ image:
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1634233709925924870" >}}
+{{< x user="ManoloAlonso1" id="1634233709925924870" >}}
 </div>
 
 completando la información con ayuda del [magnífico **artículo**](https://www.divulgameteo.es/fotos/meteoroteca/Teoría-unificada-copos-nieve.pdf) traducido por [**José Miguel Viñas**](https://twitter.com/Divulgameteo).

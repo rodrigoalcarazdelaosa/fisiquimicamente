@@ -25,7 +25,7 @@ math: true
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1701629559794286630" >}}
+{{< x user="ManoloAlonso1" id="1701629559794286630" >}}
 </div>
 {{% /callout %}}
 
@@ -38,7 +38,7 @@ Todos hemos oído hablar del aumento de los niveles del océano que estamos sufr
 Imagina que todo el hielo que hay flotando en los océanos ártico y antártico se fundiese, convirtiéndose en agua líquida. ¿Qué le ocurrirá al nivel del mar?
 
 1. [x] No subirá nada.
-1. [ ] Subirá menos de un metro. 
+1. [ ] Subirá menos de un metro.
 1. [ ] Subirá más de un metro.
 
 {{< /quizdown >}}
@@ -89,7 +89,7 @@ V_\mathrm a &= 0.92 V_\mathrm h
 [Isabel Moreno](https://twitter.com/IsabelIsamoren) y [Alberto Aguayo](https://twitter.com/fqsaja1) reflexionan sobre esto mismo en sendos posts:
 
 <div align="center">
-{{< tweet user="fqsaja1" id="1701691046613119274" >}}
+{{< x user="fqsaja1" id="1701691046613119274" >}}
 </div>
 
 Con este ejemplo, podéis ver en internet algunos mensajes negacionistas del cambio climático, explicando que, de la misma forma, el nivel del mar no puede subir por mucho que se esté derritiendo el hielo marino. Esta afirmación tiene muchos matices, como vamos a ver a continuación.

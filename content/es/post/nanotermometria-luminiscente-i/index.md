@@ -20,16 +20,16 @@ image:
   placement: 3
   caption: "https://onlinelibrary.wiley.com/doi/10.1002/adfm.200990081"
 
-threedmol: true  
+threedmol: true
 ---
 
 {{% callout thread %}}
 Entrada basada en los siguientes hilos de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1466094642391306246" >}}
+{{< x user="ManoloAlonso1" id="1466094642391306246" >}}
 </div>
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1600554123967008769" >}}
+{{< x user="ManoloAlonso1" id="1600554123967008769" >}}
 </div>
 {{% /callout %}}
 
@@ -53,7 +53,7 @@ En un termómetro de contacto, como los de líquido (antes [mercurio](https://es
 
 Aquí podéis ver el hilo de [@RayleighLord](https://twitter.com/RayleighLord) donde se profundiza más en este tema:
 <div align="center">
-{{< tweet user="RayleighLord" id="1485208401898614785" >}}
+{{< x user="RayleighLord" id="1485208401898614785" >}}
 </div>
 
 Desde hace 3 siglos sabemos medir la temperatura a partir del cambio proporcional del volumen del mercurio en un bulbo.
@@ -122,9 +122,9 @@ Lo que nos interesa en nanotermometría es que la cantidad de luz que emiten los
 
 {{< figure src="del-rosal.png" title="Terapia fototérmica controlada por temperatura con puntos cuánticos de PbS/CdS/ZnS. Fuente: https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201600508." lightbox="true" >}}
 
-Como podéis ver en el ejemplo de la figura anterior, una vez los QDs han sido inyectados, para saber la temperatura no hace falta tocar con el sensor al ser vivo, solo iluminarlo con luz. Esta es la gran ventaja de la termometría luminiscente respecto a muchas otras; es una termometría sin contacto. 
+Como podéis ver en el ejemplo de la figura anterior, una vez los QDs han sido inyectados, para saber la temperatura no hace falta tocar con el sensor al ser vivo, solo iluminarlo con luz. Esta es la gran ventaja de la termometría luminiscente respecto a muchas otras; es una termometría sin contacto.
 
-No solo los QDs; otros nanotermómetros ligeramente más grandes, como las nanopartículas de diamante[^7], son muy prometedores. Ahora bien, en todas estas investigaciones, se debe tener cuidado con los cambios en la emisión de luz por factores no-térmicos. Por ejemplo, si hacemos intensidad de luz de los QDs -> temperatura, pero esa intensidad depende también de la fuente de excitación o del número de QDs en esa zona, todo se complica. Este es un ejemplo de la complejidad a la que se enfrentan los investigadores para lograr un nanotermómetro reproducible y fiable, además de biocompatible para nuestro organismo. Por ello, aún queda trabajo pendiente de investigación y desarrollo hasta que podamos utilizar este tipo de nanotermómetros en nuestros hospitales, aunque cada vez estamos más cerca de lograrlo. 
+No solo los QDs; otros nanotermómetros ligeramente más grandes, como las nanopartículas de diamante[^7], son muy prometedores. Ahora bien, en todas estas investigaciones, se debe tener cuidado con los cambios en la emisión de luz por factores no-térmicos. Por ejemplo, si hacemos intensidad de luz de los QDs -> temperatura, pero esa intensidad depende también de la fuente de excitación o del número de QDs en esa zona, todo se complica. Este es un ejemplo de la complejidad a la que se enfrentan los investigadores para lograr un nanotermómetro reproducible y fiable, además de biocompatible para nuestro organismo. Por ello, aún queda trabajo pendiente de investigación y desarrollo hasta que podamos utilizar este tipo de nanotermómetros en nuestros hospitales, aunque cada vez estamos más cerca de lograrlo.
 
 [^7]: Sotoma, S., Zhong, C., Kah, J., Yamashita, H., Plakhotnik, T., Harada, Y., & Suzuki, M. (2021). In situ measurements of intracellular thermal conductivity using heater-thermometer hybrid diamond nanosensors. Science Advances, 7(3). doi: 10.1126/sciadv.abd7888.
 

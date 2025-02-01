@@ -21,16 +21,16 @@ image:
 {{% callout thread %}}
 Entrada basada en los siguientes hilos de Twitter:
 <div align="center">
-{{< tweet user="ricestrada" id="1345223357898350594" >}}
+{{< x user="ricestrada" id="1345223357898350594" >}}
 </div>
 <div align="center">
-{{< tweet user="ricestrada" id="1349947519804067842" >}}
+{{< x user="ricestrada" id="1349947519804067842" >}}
 </div>
 <div align="center">
-{{< tweet user="ricestrada" id="1350608970717814789" >}}
+{{< x user="ricestrada" id="1350608970717814789" >}}
 </div>
 <div align="center">
-{{< tweet user="ricestrada" id="1356283372398649346" >}}
+{{< x user="ricestrada" id="1356283372398649346" >}}
 </div>
 {{% /callout %}}
 
@@ -101,7 +101,7 @@ El **pensamiento químico** moderno es de gran utilidad para dar respuesta a pre
 2. ¿Cómo lo hago? (**síntesis**)
 3. ¿Cómo lo cambio? (**transformación**) y
 4. ¿Cómo lo explico o predigo? (**modelaje**).
-  
+
 El pensamiento químico, entendido como una forma de pensar que incluye conocimientos, modelos, estrategias e instrumentos de la Química, nos ayuda a abordar problemáticas de importancia central en nuestras vidas, particularmente en cuatro áreas: ambiente, vida y salud, fuentes de energía y diseño de materiales. En este sentido, los docentes de Química pre-universitaria tenemos una oportunidad y una responsabilidad.
 
 {{< figure src="chemical-thinking.png" title="https://www.chemedx.org/article/chemical-thinking" >}}

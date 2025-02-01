@@ -25,7 +25,7 @@ image:
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1630256806097215488" >}}
+{{< x user="ManoloAlonso1" id="1630256806097215488" >}}
 </div>
 {{% /callout %}}
 

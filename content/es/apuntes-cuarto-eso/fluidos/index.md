@@ -273,7 +273,7 @@ El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja
 Aprende con este 🧵 hilo de Twitter cómo los [**sifones**](https://es.wikipedia.org/wiki/Sifón) hacen uso de la presión atmosférica para permitirnos rebasar un obstáculo que supera el nivel del fluido, ayudándonos a extraer un líquido de un recipiente no manipulable:
 
 <div align="center">
-{{< tweet user="fqsaja1" id="1641449863400550408" >}}
+{{< x user="fqsaja1" id="1641449863400550408" >}}
 </div>
 
 ### Hemisferios de Magdeburgo

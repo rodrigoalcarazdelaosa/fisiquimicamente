@@ -28,7 +28,7 @@ image:
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1722307896204013915" >}}
+{{< x user="ManoloAlonso1" id="1722307896204013915" >}}
 </div>
 {{% /callout %}}
 
@@ -73,7 +73,7 @@ Es el ejemplo paradigmático de diamante azul (grisáceo). Obtiene su color de i
 Recientemente en [@orbitalaika_tve](https://twitter.com/orbitalaika_tve) dedicaron un programa a la ciencia del lujo #LaikaLujo. Por ejemplo, aquí podéis ver la curiosa explicación de la formación de los diamantes de [@geologoenapuros](https://twitter.com/geologoenapuros):
 
 <div align="center">
-{{< tweet user="orbitalaika_tve" id="1721997511164879277" >}}
+{{< x user="orbitalaika_tve" id="1721997511164879277" >}}
 </div>
 
 ## Esmeralda 💚

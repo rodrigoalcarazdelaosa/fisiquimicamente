@@ -22,12 +22,12 @@ image:
 {{% callout thread %}}
 Entrada basada en el siguiente hilo de Twitter:
 <div align="center">
-{{< tweet user="ManoloAlonso1" id="1546547406946418692" >}}
+{{< x user="ManoloAlonso1" id="1546547406946418692" >}}
 </div>
 
 También te recomiendo echar un vistazo a este otro hilo, que profundiza en algunas cuestiones:
 <div align="center">
-{{< tweet user="Cuent_Cuanticos" id="1581971025046441984" >}}
+{{< x user="Cuent_Cuanticos" id="1581971025046441984" >}}
 </div>
 {{% /callout %}}
 
