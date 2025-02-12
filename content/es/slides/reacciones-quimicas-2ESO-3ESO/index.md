@@ -146,14 +146,17 @@ La **ley de conservación de la masa** implica dos **principios**:
 #### Ejemplo resuelto 1
 
 <q>12 g de carbono reaccionan con 32 g de oxígeno y como resultado de la reacción se obtiene dióxido de carbono:</q>
+
 $$
 \mathrm C + \mathrm O_2 \longrightarrow \mathrm{CO_2}
 $$
+
 <q>¿Cuántos gramos de dióxido de carbono se obtienen?</q>
 
 ---
 
 Según la ley de Lavoisier:
+
 $$
 m_\text{reactivos} = m_\text{productos}
 $$
@@ -171,10 +174,12 @@ m_\mathrm{CO_2} &= 44\thinspace\mathrm g
 
 #### Ejemplo resuelto 2
 
-<q>El agua oxigenada, H<sub>2</sub>O<sub>2</sub>, se descompone en H<sub>2</sub>O y O<sub>2</sub> en una reacción muy lenta.</q>
+<q>El agua oxigenada, H<sub>2</sub>O<sub>2</sub>, se descompone en H<sub>2</sub>O y O<sub>2</sub> en una reacción muy lenta:</q>
+
 $$
 \mathrm{2H_2O_2(l)} \longrightarrow \mathrm{2H_2O(l)} + \mathrm{O_2(g)}
 $$
+
 <q>A partir de 340 g de agua oxigenada obtenemos solo 180 g de agua. ¿Por qué?</q>
 
 ---
@@ -184,6 +189,7 @@ La razón es porque hay dos productos en la reacción, uno es el agua y otro el 
 ---
 
 La masa de este producto la podemos calcular aplicando la ley de Lavoisier:
+
 \begin{align*}
 m_\text{reactivos} &= m_\text{productos} \\\\
 340 &= 180 + m_\mathrm{O_2} \\\\

@@ -22,7 +22,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: reacciones-quimicas-poster.pdf
 
@@ -95,14 +95,17 @@ La **ley de conservación de la masa** implica dos **principios**:
 <br>
 
 > 12 g de carbono reaccionan con 32 g de oxígeno y como resultado de la reacción se obtiene dióxido de carbono:
+
 $$
 \ce{C + O2 -> CO2}
 $$
+
 ¿Cuántos gramos de dióxido de carbono se obtienen?
 
 ---
 
 Según la ley de Lavoisier:
+
 $$
 m_\text{reactivos} = m_\text{productos}
 $$
@@ -120,10 +123,12 @@ m_\mathrm{CO_2} &= 44\thinspace\mathrm g
 {{% callout example %}}
 <br>
 
-> El agua oxigenada, H<sub>2</sub>O<sub>2</sub>, se descompone en H<sub>2</sub>O y O<sub>2</sub> en una reacción muy lenta.
+> El agua oxigenada, H<sub>2</sub>O<sub>2</sub>, se descompone en H<sub>2</sub>O y O<sub>2</sub> en una reacción muy lenta:
+
 $$
 \ce{2H2O2(l) -> 2H2O(l) + O2(g)}
 $$
+
 A partir de 340 g de agua oxigenada obtenemos solo 180 g de agua. ¿Por qué?
 
 ---
