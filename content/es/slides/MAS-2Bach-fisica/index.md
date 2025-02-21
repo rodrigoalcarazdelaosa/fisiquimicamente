@@ -220,11 +220,13 @@ En este caso la **componente tangencial** del **peso** actúa como **fuerza recu
 
 ---
 
-\begin{align*}
-	-mg\sin\theta &= ma \\\\
-	-g\sin\theta &= -\omega^2x \\\\
+$$
+\begin{aligned}
+	-mg\sin\theta &= ma \\
+	-g\sin\theta &= -\omega^2x \\
 	-g\sin\theta &= -\omega^2l\theta
-\end{align*}
+\end{aligned}
+$$
 
 ---
 

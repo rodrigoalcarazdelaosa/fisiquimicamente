@@ -138,11 +138,15 @@ Consiste en una masa suspendida de un pivote de forma que puede oscilar libremen
 {{< figure library="true" src="MAS-2Bach-fisica/pendulo-simple.svg" title="Adaptada de https://commons.wikimedia.org/wiki/File:PendulumForces.svg." lightbox="false" width="100%" >}}
 
 En este caso la **componente tangencial** del **peso** actúa como **fuerza recuperadora**, acelerando la masa hacia su posición de equilibrio, provocando la oscilación alrededor de ella:
-\begin{align*}
-	-mg\sin\theta &= ma \\\\
-	-g\sin\theta &= -\omega^2x \\\\
+
+$$
+\begin{aligned}
+	-mg\sin\theta &= ma \\
+	-g\sin\theta &= -\omega^2x \\
 	-g\sin\theta &= -\omega^2l\theta
-\end{align*}
+\end{aligned}
+$$
+
 - En la **aproximación** para **ángulos pequeños**, $\sin\theta\approx\theta$, por lo que el movimiento se aproxima por un **movimiento armónico simple** de frecuencia angular:
 $$
 \omega = \sqrt{\frac{g}{l}}
