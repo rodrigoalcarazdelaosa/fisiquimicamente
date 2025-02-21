@@ -104,7 +104,7 @@ sitemap:
 minify:
   disableHTML: true
 privacy:
-  twitter:
+  x:
     enableDNT: true
   vimeo:
     enableDNT: true
