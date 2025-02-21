@@ -18,13 +18,13 @@ slides:
 
 # Radiactividad
 
-- [Breve historia](#/2)
-- [Desintegración alfa ($\alpha$)](#/3)
-- [Desintegración beta ($\beta$)](#/4)
-- [Desintegración gamma ($\gamma$)](#/5)
-- [Penetración de los distintos tipos de radiación](#/6)
-- [Espectro electromagnético](#/7)
-- [Reacciones nucleares](#/8)
+- [Breve historia](#/3)
+- [Desintegración alfa ($\alpha$)](#/4)
+- [Desintegración beta ($\beta$)](#/5)
+- [Desintegración gamma ($\gamma$)](#/6)
+- [Penetración de los distintos tipos de radiación](#/7)
+- [Espectro electromagnético](#/8)
+- [Reacciones nucleares](#/9)
 
 Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
@@ -54,9 +54,9 @@ La **radiactividad** consiste en la **emisión** de **partículas** o **radiaci�
 
 ## Desintegración alfa ($\alpha$)
 
-- [Naturaleza](#/3/1)
-- [Masa y carga](#/3/2)
-- [Poder de penetración](#/3/3)
+- [Naturaleza](#/4/1)
+- [Masa y carga](#/4/2)
+- [Poder de penetración](#/4/3)
 
 (continúa hacia abajo)
 
@@ -94,9 +94,9 @@ Es **poco penetrante**: una hoja de papel o unos centímetros de aire la frenan.
 
 ## Desintegración beta ($\beta$)
 
-- [Naturaleza](#/4/1)
-- [Masa y carga](#/4/2)
-- [Poder de penetración](#/4/3)
+- [Naturaleza](#/5/1)
+- [Masa y carga](#/5/2)
+- [Poder de penetración](#/5/3)
 
 (continúa hacia abajo)
 
@@ -134,9 +134,9 @@ Es **más penetrante** que las partículas $\alpha$: una lámina de aluminio o u
 
 ## Desintegración gamma ($\gamma$)
 
-- [Naturaleza](#/5/1)
-- [Masa y carga](#/5/2)
-- [Poder de penetración](#/5/3)
+- [Naturaleza](#/6/1)
+- [Masa y carga](#/6/2)
+- [Poder de penetración](#/6/3)
 
 (continúa hacia abajo)
 
@@ -149,7 +149,7 @@ Es **más penetrante** que las partículas $\alpha$: una lámina de aluminio o u
 Se trata de **energía** (ondas electromagnéticas).
 
 ---
-		
+
 ### Masa y carga
 
 No tiene **ni masa ni carga**.
@@ -214,9 +214,9 @@ Cuando la radiación ionizante interactúa con las células, puede dañarlas y d
 
 ## Reacciones nucleares
 
-- [Radiactividad artificial](#/8/1)
-- [Fisión nuclear](#/8/2)
-- [Fusión nuclear](#/8/4)
+- [Radiactividad artificial](#/9/1)
+- [Fisión nuclear](#/9/2)
+- [Fusión nuclear](#/9/4)
 
 (continúa hacia abajo)
 
