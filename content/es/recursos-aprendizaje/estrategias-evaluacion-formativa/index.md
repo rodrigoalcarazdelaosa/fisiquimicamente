@@ -1,8 +1,8 @@
 ---
 title: Estrategias de evaluación formativa
 url: "recursos-fisica-quimica/formacion-profesorado/master/aprendizaje/estrategias-evaluacion-formativa/"
-subtitle: Prever con éxito los problemas de aprendizaje requiere estrategias adecuadas de evaluación formativa
-summary: "Prever con éxito los problemas de aprendizaje requiere estrategias adecuadas de evaluación formativa. Recomendamos también [esta **guía**](https://drive.google.com/file/d/1qToin6o9HgLAlHook0hpyf1PsuSIWhDn/view) de la **Agencia de Calidad de la Educación de Chile**."
+subtitle: Guía de la Agencia de Calidad de la Educación de Chile
+summary: "**Guía** de la **Agencia de Calidad de la Educación de Chile**."
 tags:
 - evaluación
 categories:
@@ -14,6 +14,12 @@ image:
 _build:
   render: never
 
+links:
+- icon_pack: fas
+  icon:
+  name: 📜 Infografía Alex Quigley
+  url: estrategias-evaluacion-formativa-infografia.pdf
+
 # Optional external URL for project (replaces project detail page).
-external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/formacion-profesorado/master/aprendizaje/estrategias-evaluacion-formativa/estrategias-evaluacion-formativa.pdf"
+external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/formacion-profesorado/master/aprendizaje/estrategias-evaluacion-formativa/estrategias-evaluacion-formativa-chile.pdf"
 ---
