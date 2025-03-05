@@ -295,8 +295,8 @@ Para determinar **densidades** y **fuerzas de empuje**:
 
 - [Presión atmosférica](#/3/1)
 - [Experimento de Torricelli](#/3/2)
-- [Hemisferios de Magdeburgo](#/3/7)
-- [Fenómenos meteorológicos](#/3/13)
+- [Hemisferios de Magdeburgo](#/3/8)
+- [Fenómenos meteorológicos](#/3/14)
 
 (continúa hacia abajo)
 
@@ -337,6 +337,10 @@ p_\text{atm} &= d_\text{Hg}\cdot g\cdot h \\\\
 <div align="center">
 {{< x user="fqsaja1" id="1641449863400550408" >}}
 </div>
+
+---
+
+{{< youtube t1XJlqm7l1s >}}
 
 ---
 
