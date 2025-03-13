@@ -69,6 +69,7 @@ Gráficamente, dibujando un vector a continuación del otro y uniendo el origen 
 ---
 
 O analíticamente, componente a componente:
+
 $$
 \vec a + \vec b = (a_x+b_x)\ihat + (a_y+b_y)\jhat
 $$
@@ -114,6 +115,7 @@ Puedes prácticar a sumar vectores con la siguiente **simulación**:
 > El cambio de movimiento es proporcional a la fuerza ejercida y se hace en la dirección de la línea recta en que se ejerce la fuerza.
 
 Matemáticamente, se escribe como
+
 $$
 \sum\vec F = m\vec a\quad \text{(la aceleración es proporcional a la fuerza neta)}
 $$
@@ -152,6 +154,7 @@ Si un cuerpo A ejerce una fuerza sobre otro cuerpo B, éste ejercerá sobre A un
 
 ### Peso $\vec P$
 El **peso** es la fuerza con la que la Tierra atrae a un objeto. Se calcula como:
+
 $$
 \vec P = m\vec g,
 $$
@@ -176,6 +179,7 @@ La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en con
 ---
 
 La fuerza de rozamiento es proporcional a la normal $N$:
+
 $$
 f_\mathrm r = \mu N,
 $$
@@ -205,6 +209,7 @@ Se llama **fuerza centrípeta** a la fuerza o a la componente de la fuerza que a
 ---
 
 Su módulo se calcula a partir de la **aceleración centrípeta**, haciendo uso de la **2ª ley de Newton**:
+
 $$
 f_\mathrm c = m a_\mathrm c = m\cdot \frac{v^2}{R} = \frac{mv^2}{R}
 $$
@@ -248,6 +253,7 @@ Escribimos la **2ª ley de Newton** para cada **componente**:
 ---
 
 Despejando $N=P_y=4.9\sqrt{3}m$ de (2) y sustituyendo en (1), utilizando además que $f_\mathrm r = 0.2 N$ y que $P_x = 4.9m$:
+
 $$
 \begin{gathered}
 0.2\cdot 4.9\sqrt{3}m - 4.9m = ma \rightarrow a = -3.2\thinspace\mathrm{m/s^2}\\
@@ -266,6 +272,7 @@ v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\\\
 ---
 
 Para el **espacio recorrido** podemos utilizar la **ecuación del movimiento**:
+
 $$
 \Delta x = \left\lvert x - x_0\right\rvert = \left\lvert v_0\cdot t + \frac{1}{2}at^2\right\rvert = \left\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\right\rvert = 40.0\thinspace\mathrm m
 $$

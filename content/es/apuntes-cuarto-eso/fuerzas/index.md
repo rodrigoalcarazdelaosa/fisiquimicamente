@@ -57,6 +57,7 @@ Gráficamente, dibujando un vector a continuación del otro y uniendo el origen 
 {{< figure library="true" src="fuerzas-4ESO/suma-vectores.svg" lightbox="false" width="100%" >}}
 
 O analíticamente, componente a componente:
+
 $$
 \vec a + \vec b = (a_x+b_x)\ihat + (a_y+b_y)\jhat
 $$
@@ -82,6 +83,7 @@ En el siguiente vídeo del [Departamento de Física y Química del IES Valle del
 > El cambio de movimiento es proporcional a la fuerza ejercida y se hace en la dirección de la línea recta en que se ejerce la fuerza.
 
 Matemáticamente, se escribe como
+
 $$
 \sum\vec F = m\vec a\quad \text{(la aceleración es proporcional a la fuerza neta)}
 $$
@@ -103,9 +105,11 @@ Durante su estancia a bordo de la [**ISS**](https://es.wikipedia.org/wiki/Estaci
 
 ### Peso $\vec P$
 El **peso** es la fuerza con la que la Tierra atrae a un objeto. Se calcula como:
+
 $$
 \vec P = m\vec g,
 $$
+
 donde $m$ es la masa del objeto y $\vec g$ es la aceleración de la gravedad. Siempre se dirige hacia el centro de la Tierra (hacia abajo en la mayoría de los casos).
 
 ### Normal $\vec N$
@@ -115,9 +119,11 @@ También llamada fuerza de **reacción**, se define como la fuerza que ejerce un
 
 ### Rozamiento $\vec f_\mathrm r$
 La **fuerza de rozamiento** es la fuerza que existe entre dos superficies en contacto, oponiéndose siempre al movimiento relativo entre ambas superficies. La fuerza de rozamiento es proporcional a la normal $N$:
+
 $$
 f_\mathrm r = \mu N,
 $$
+
 donde $\mu$ es el coeficiente de rozamiento[^1].
 
 [^1]: En [esta tabla, tomada de la entrada sobre fricción en la versión inglesa de la Wikipedia](https://en.wikipedia.org/wiki/Friction#Approximate_coefficients_of_friction), puedes ver coeficientes de rozamiento aproximados entre dos materiales dados.
@@ -138,6 +144,7 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 
 ### Centrípeta $\vec f_\mathrm c$
 Se llama **fuerza centrípeta** a la fuerza o a la componente de la fuerza que actúa sobre un objeto en movimiento sobre una trayectoria curvilínea y que está dirigida hacia el centro de curvatura de la trayectoria. Su módulo se calcula a partir de la **aceleración centrípeta**, haciendo uso de la **2ª ley de Newton**:
+
 $$
 f_\mathrm c = m a_\mathrm c = m\cdot \frac{v^2}{R} = \frac{mv^2}{R}
 $$
@@ -189,6 +196,7 @@ v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\\\
 ---
 
 Para el **espacio recorrido** podemos utilizar la **ecuación del movimiento**:
+
 $$
 \Delta x = \left\lvert x - x_0\right\rvert = \left\lvert v_0\cdot t + \frac{1}{2}at^2\right\rvert = \left\lvert 0 - \frac{1}{2}\cdot 3.2\cdot 5^2\right\rvert = 40.0\thinspace\mathrm m
 $$
