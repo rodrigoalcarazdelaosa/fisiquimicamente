@@ -28,7 +28,7 @@ math: true
 ---
 
 {{% callout note %}}
-[**Experimento** publicado originalmente](https://miguelquiroga.es/laboratorio/deteccin-de-vitamina-c) en la magnífica **página web** de **{{% mention miguel-quiroga %}}**.
+[**Experimento** publicado originalmente](https://miguelquiroga.es/laboratorio/deteccion-de-vitamina-c) en la magnífica **página web** de **{{% mention miguel-quiroga %}}**.
 {{% /callout %}}
 
 ## Introducción

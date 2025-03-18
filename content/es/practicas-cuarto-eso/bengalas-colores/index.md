@@ -21,13 +21,13 @@ external_link: ""
 
 image:
   caption: Foto de [**Erwan Hesry**](https://unsplash.com/es/@erwanhesry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) en [Unsplash](https://unsplash.com/es/fotos/ilustracion-de-fuegos-artificiales-WPTHZkA-M4I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-  focal_point: Smart  
+  focal_point: Smart
 
 math: true
 ---
 
 {{% callout note %}}
-[**Experimento** publicado originalmente](https://miguelquiroga.es/laboratorio/laboratorio/bengalas-de-colores) en la magnífica **página web** de **{{% mention miguel-quiroga %}}**.
+[**Experimento** publicado originalmente](https://miguelquiroga.es/laboratorio/bengalas-de-colores) en la magnífica **página web** de **{{% mention miguel-quiroga %}}**.
 {{% /callout %}}
 
 ## Introducción

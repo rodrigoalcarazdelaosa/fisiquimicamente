@@ -26,7 +26,7 @@ image:
 ---
 
 {{% callout note %}}
-[**Experimento** publicado originalmente](https://miguelquiroga.es/laboratorio/laboratorio/detector-de-conductividad) en la magnífica **página web** de **{{% mention miguel-quiroga %}}**.
+[**Experimento** publicado originalmente](https://miguelquiroga.es/laboratorio/detector-de-conductividad) en la magnífica **página web** de **{{% mention miguel-quiroga %}}**.
 {{% /callout %}}
 
 ## Introducción

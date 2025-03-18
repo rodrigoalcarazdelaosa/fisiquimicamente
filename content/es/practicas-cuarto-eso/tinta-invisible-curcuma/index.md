@@ -27,7 +27,7 @@ threedmol: true
 ---
 
 {{% callout note %}}
-[**Experimento** publicado originalmente](https://miguelquiroga.es/laboratorio/laboratorio/tinta-invisible-con-crcuma) en la magnífica **página web** de **{{% mention miguel-quiroga %}}**.
+[**Experimento** publicado originalmente](https://miguelquiroga.es/laboratorio/tinta-invisible-con-curcuma) en la magnífica **página web** de **{{% mention miguel-quiroga %}}**.
 {{% /callout %}}
 
 {{% callout note %}}
