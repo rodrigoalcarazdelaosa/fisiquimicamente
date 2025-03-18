@@ -130,6 +130,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Calendario Científico Escolar"
-      url: 'blog/2025/01/15/calendario-cientifico-escolar/'
+      text: "Las diez tecnologías emergentes más importantes en Química"
+      url: 'blog/2025/03/18/las-diez-tecnologias-emergentes-mas-importantes-en-quimica/'
 ---

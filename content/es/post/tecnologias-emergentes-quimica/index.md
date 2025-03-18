@@ -3,7 +3,7 @@ title: Las diez tecnologías emergentes más importantes en Química
 subtitle: Según la IUPAC
 summary: "Las diez tecnologías emergentes más importantes en Química según la IUPAC."
 breadcrumbs: ["blog"]
-date: "2024-08-18T00:00:00Z"
+date: "2025-03-18T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -23,6 +23,27 @@ image:
 El objetivo del proyecto de la [**IUPAC**](https://es.wikipedia.org/wiki/Unión_Internacional_de_Qu%C3%ADmica_Pura_y_Aplicada) de las [**Diez Tecnologías Emergentes Más Importantes en Química**](https://iupac.org/what-we-do/top-ten/) es mostrar el valor de la Química e informar al público en general de cómo las ciencias químicas contribuyen al bienestar de la sociedad y a la sostenibilidad del Planeta Tierra.
 
 Desde 2019, el Jurado selecciona las tecnologías emergentes sobre la base de las que se encuentran entre un nuevo descubrimiento científico y una tecnología plenamente comercializada, y las que tienen la mayor capacidad de abrir nuevas oportunidades en la química y más allá.
+
+## 2024
+
+{{< figure src="2024.webp" title="https://iupac.org/iupac-2024-top-ten-emerging-technologies/" lightbox="true" >}}
+
+Las **tecnologías finalistas** de **2024** fueron (en orden alfabético):
+
+- [Adsorción](https://es.wikipedia.org/wiki/Adsorción) activa
+- [Aptámeros](https://es.wikipedia.org/wiki/Aptámero)
+- [Ciclo electroquímico del nitrógeno](https://es.wikipedia.org/wiki/Ciclo_del_nitrógeno)
+- [Inhibidores de KRAS](https://www.cancer.gov/espanol/noticias/temas-y-relatos-blog/2021/fda-sotorasib-kras-cancer-pulmon)
+- [Iontrónica nanofluídica bioinspirada](https://es.wikipedia.org/wiki/Circuito_nanofluídico)
+- [Lubricación](https://es.wikipedia.org/wiki/Lubricación) por [hidratación](https://es.wikipedia.org/wiki/Reacción_de_hidratación)
+- [MXenes](https://en.wikipedia.org/wiki/MXenes)
+- Nanogeneradores [triboeléctricos](https://es.wikipedia.org/wiki/Efecto_triboeléctrico)
+- [Pares de Lewis frustrados](https://es.wikipedia.org/wiki/Par_de_Lewis_frustrado)
+- Potenciales de [red neuronal](https://es.wikipedia.org/wiki/Red_neuronal_artificial)
+
+{{% callout note %}}
+Más información en el [magnífico **artículo** de **Fernando Gomollón-Bel** publicado en **Chemistry International**](https://www.degruyter.com/document/doi/10.1515/ci-2024-0403/html).
+{{% /callout %}}
 
 ## 2023
 
