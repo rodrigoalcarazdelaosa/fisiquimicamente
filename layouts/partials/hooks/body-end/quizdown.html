@@ -1,0 +1,16 @@
+{{ if .Params.quizdown }}
+  <script src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/quizdown.js"></script>
+  <script>
+    let config = {
+	    startOnLoad: true,		 // detect and convert all divs with class quizdown
+      shuffleAnswers: true,		 // shuffle answers for each question
+      shuffleQuestions: false,    // shuffle questions for each quiz
+      nQuestions: 20,
+      primaryColor: '#88C0D0',  // primary CSS color
+      secondaryColor: '#EBCB8B',  // secondary CSS color
+      textColor: 'black',         // text color of some elements
+      locale: null                 // language of the user interface (auto-detect per default)
+    };
+    quizdown.init(config);
+  </script>
+{{ end }}
