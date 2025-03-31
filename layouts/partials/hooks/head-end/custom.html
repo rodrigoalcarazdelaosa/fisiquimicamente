@@ -3,3 +3,34 @@
 {{/*  <!-- Preload FontAwesome fonts in use for even faster loading -->
 <link rel="preload" href="{{ "/webfonts/fa-solid-900.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="{{ "/webfonts/fa-brands-400.woff2" | relURL }}" as="font" type="font/woff2" crossorigin="anonymous">  */}}
+
+{{/*  Counterscale analytics */}}
+
+{{ if eq .Site.Language.Lang "es" }}
+
+<script
+    id="counterscale-script"
+    data-site-id="fisiquimicamente"
+    src="https://counterscale.fisiquimicamente.workers.dev/tracker.js"
+    defer
+></script>
+
+{{ else if eq .Site.Language.Lang "en" }}
+
+<script
+    id="counterscale-script"
+    data-site-id="physichemically"
+    src="https://counterscale.fisiquimicamente.workers.dev/tracker.js"
+    defer
+></script>
+
+{{ else if eq .Site.Language.Lang "ca" }}
+
+<script
+    id="counterscale-script"
+    data-site-id="fisiquimicament"
+    src="https://counterscale.fisiquimicamente.workers.dev/tracker.js"
+    defer
+></script>
+
+{{ end }}
