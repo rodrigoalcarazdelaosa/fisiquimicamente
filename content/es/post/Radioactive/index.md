@@ -207,13 +207,13 @@ No cabe duda de que la repentina muerte de Pierre Curie supuso un duro golpe par
 
 Siete meses después de que Pierre falleciera, el 15 de Noviembre de 1906,  Marie Curie daba su primera clase en La Sorbona de París. Ante un auditorio tan abarrotado como expectante, pronunciaba la primera lección impartida por una profesora (mujer) de la reputada universidad parisina. Fue recibida por un largo aplauso y comenzó su ponencia enunciando su teoría de la radiactividad y la obra de Becquerel y sus consecuencias, citando por supuesto a *Monsieur Curie* y su investigación trágicamente interrumpida.
 
-{{< figure src="https://virginiagasull.com/nicole/wp-content/uploads/2019/05/CTB4WwYWwAAtJRJ.jpg" title="Marie Curie impartiendo su primera clase tras el fallecimiento de su esposo Pierre. Fuente: https://virginiagasull.com/nicole/index.php/2019/05/10/marie-curie-primera-clase-en-la-sorbona-1916/." >}}
+{{< figure src="Radioactive/madame-curie-sorbona.jpg" title="Marie Curie impartiendo su primera clase tras el fallecimiento de su esposo Pierre. Fuente: https://mujeresconciencia.com/2015/11/18/el-diario-de-manya/madame-curie-sorbonne-6/." >}}
 
 El diario francés [L'Illustration](https://es.wikipedia.org/wiki/L%27Illustration) recogió en sus páginas:
 
 > “*Terminó su clase, y después de haber dado una visión del pequeño resplandor azul del radio, Madame Curie se retiró como había aparecido, modesta y sencilla, insensible a los aplausos y ovaciones de su público.*”
 
-{{< figure src="https://virginiagasull.com/nicole/wp-content/uploads/2019/05/DN2jdMcX0AAdPwT.jpg" title="Portada del diario L'Illustration del 10 de noviembre de 1906. Fuente: https://virginiagasull.com/nicole/index.php/2019/05/10/marie-curie-primera-clase-en-la-sorbona-1916/." >}}
+{{< figure src="Radioactive/portada-lillustration.jpg" title="Portada del diario L'Illustration del 10 de noviembre de 1906. Fuente: https://musee.curie.fr/decouvrir/documentation/les-fiches-images-de-l-ecole-du-louvre/marie-curie-faisant-la-une-de-l-illustration." >}}
 
 Cabe destacar también en el clip de la película la tabla periódica de los elementos que se ve detrás de Curie mientras expone su clase. Tabla periódica en la que aún faltan elementos. En el año 1906 se habían descubierto aproximadamente el 73<span style="white-space:nowrap">&thinsp;</span>% de los elementos de la tabla periódica, aunque ya se había predicho la existencia de muchos otros, razón por la que se observan algunos huecos.
 
