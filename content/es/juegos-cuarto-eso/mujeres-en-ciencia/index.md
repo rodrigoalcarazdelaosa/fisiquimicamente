@@ -22,11 +22,11 @@ image:
 links:
 - icon_pack: fas
   icon:
-  name: 🔗 Cartas
-  url: https://www.luanagames.com/es.pdf
+  name: 🃏 Cartas
+  url: cartas.pdf
 ---
 
-***Mujeres en Ciencia***, una [idea original de Anouk Charles y Benoit Fries](https://www.luanagames.com/index.html), es un juego de cartas que familiariza a los/as jugadores/as con cientíﬁcas sobresalientes y frecuentemente desconocidas. De esta forma, el juego ofrece modelos que pueden servirles de inspiración a los/las niños/as.
+***Mujeres en Ciencia***, una idea original de Anouk Charles y Benoit Fries, es un juego de cartas que familiariza a los/as jugadores/as con cientíﬁcas sobresalientes y frecuentemente desconocidas. De esta forma, el juego ofrece modelos que pueden servirles de inspiración a los/las niños/as.
 
 ## 🎯 Objetivo
 
@@ -61,7 +61,7 @@ Los colores que permiten formar los laboratorios son cinco y representan a difer
 
 ## 💼 Material necesario
 
-En el botón de arriba puedes descargar las [**cartas**](https://www.luanagames.com/es.pdf), cortesía de [**Luana Games**](https://www.luanagames.com/index.es.html).
+En el botón de arriba puedes descargar las [**cartas**](cartas.pdf), cortesía de [**Luana Games**](https://luanagames.itch.io).
 
 {{% callout note %}}
 
