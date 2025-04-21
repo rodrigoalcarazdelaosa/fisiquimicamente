@@ -12,3 +12,5 @@ public/
 
 # Node
 node_modules/
+
+_vendor/
