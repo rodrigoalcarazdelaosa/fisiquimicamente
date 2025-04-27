@@ -31,7 +31,7 @@ links:
 ---
 
 {{% callout note %}}
-Esta baraja es fruto de una colaboración entre SM, Carmen Arribas (ETSIAE-UPM) y Bernardo Herradón (IQOG-CSIC), miembros de la junta de gobierno de la sección territorial de Madrid de la Real Sociedad Española de Química (RSEQ-STM), con motivo del 150 aniversario de la Tabla Periódica.​ Más información [aquí](https://www.grupo-sm.com/es/post/tabla-periodica). También os recomendamos echar un vistazo a [este artículo](https://analesdequimica.es/index.php/AnalesQuimica/article/view/1783/2308) donde analizan su **potencial** como **herramienta educativa**. 
+Esta baraja es fruto de una colaboración entre SM, Carmen Arribas (ETSIAE-UPM) y Bernardo Herradón (IQOG-CSIC), miembros de la junta de gobierno de la sección territorial de Madrid de la Real Sociedad Española de Química (RSEQ-STM), con motivo del 150 aniversario de la Tabla Periódica.​ También os recomendamos echar un vistazo a [este artículo](https://analesdequimica.es/index.php/AnalesQuimica/article/view/1783/2308) donde analizan su **potencial** como **herramienta educativa**.
 {{% /callout %}}
 
 ## 🎯 Objetivo
