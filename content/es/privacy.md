@@ -19,7 +19,7 @@ breadcrumbs: [""]
 - [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) para su despliegue/servicio y para las analíticas web.
 - [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy/) para el [formulario de contacto](/#contacto).
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) para tipografías[^3].
-- [<img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> Paypal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) para los *cafés* (donativos)[^4].
+- [<img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> Paypal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) para los *cafés* ([donativos](/donativos))[^4].
 - [<img draggable="false" class="icon" alt="cc" src="/icon/cc.svg"> Creative Commons](https://creativecommons.org/privacy/) para la [licencia](/licencia).
 
 [^3]: Actualmente la web utiliza las tipografías [Cabin Sketch](https://fonts.google.com/specimen/Cabin+Sketch), [EB Garamond](https://fonts.google.com/specimen/EB+Garamond) e [Inconsolata](https://fonts.google.com/specimen/Inconsolata). Además, [Cloudflare Fonts](https://www.cloudflare.com/es-es/cloudflare-fonts/) está activado.
