@@ -47,6 +47,7 @@ Las **características** del **movimiento circular uniforme (MCU)** son:
 ### Ecuación principal
 
 La **ecuación principal** del MCU es:
+
 $$
 \varphi(t) = \varphi_0 + \omega (t-t_0),
 $$
@@ -63,11 +64,13 @@ Frecuencia $f$
 	$$
 
 La frecuencia o velocidad angular, $\omega$, está relacionada con el periodo y la frecuencia a través de las expresiones:
+
 $$
 \omega = \frac{\Delta \varphi}{\Delta t} = \frac{2\pi}{T} = 2\pi f
 $$
 
 Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
+
 \begin{align*}
 	e &= \varphi R \\\\
 	v &= \omega R = \frac{2\pi R}{T}
@@ -75,6 +78,7 @@ Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 
 ### Aceleración centrípeta $a_\mathrm c$
 También llamada **aceleración normal**, es una aceleración que surge del cambio de dirección de la velocidad. Su módulo es igual a:
+
 $$
 a_\mathrm c = \frac{v^2}{R} = \omega^2 R
 $$
@@ -85,19 +89,24 @@ y siempre se dirige hacia el centro de la circunferencia.
 
 ### Componentes intrínsecas de la aceleración
 La aceleración puede descomponerse en sus **componentes intrínsecas**, una normal (centrípeta) y otra tangencial, debida a la variación del módulo de la velocidad:
+
 $$
 \vec a = \vec a_\mathrm n + \vec a_\mathrm t \rightarrow a = \sqrt{a_\mathrm n^2 + a_\mathrm t^2},
 $$
+
 con
+
 \begin{align*}
 a_\mathrm n &= \frac{v^2}{r} \\\\
 a_\mathrm t &= \frac{\mathrm d\thinspace v}{\mathrm d\thinspace t}
 \end{align*}
+
 donde $v$ representa el módulo de la velocidad instantánea y $r$ es el radio de curvatura.
 
 {{< figure library="true" src="movimiento-circular-1Bach/MCUA.svg" title="**Componentes intrínsecas de la aceleración**. La componente normal se dirige hacia el centro mientras que la componente tangencial tiene la misma dirección y sentido que la velocidad. Adaptada de https://commons.wikimedia.org/wiki/File:Nonuniform_circular_motion.svg." lightbox="false" width="100%" >}}
 
 La aceleración tangencial se relaciona con la aceleración angular, $\alpha$, a través de la expresión:
+
 $$
 a_\mathrm t = \alpha R
 $$
@@ -110,11 +119,14 @@ Las **características** del **movimiento circular uniformemente acelerado (MCUA
 
 ### Ecuaciones principales
 La **ecuaciones principales** del MCUA son:
-\begin{align*}
-\text{Posición angular: } \varphi(t) &= \varphi_0 + \omega_0(t-t_0) +\frac{1}{2}\alpha(t-t_0)^2 \tag{1} \\\\
-\text{Velocidad angular: } \omega(t) &= \omega_0 + \alpha(t-t_0) \tag{2} \\\\
-\omega^2-\omega_0^2 &= 2\alpha\symup\Delta \varphi \tag{3}
-\end{align*}
+
+$$
+\begin{aligned}
+\text{Posición angular: } \varphi(t) &= \varphi_0 + \omega_0(t-t_0) +\frac{1}{2}\alpha(t-t_0)^2 \\
+\text{Velocidad angular: } \omega(t) &= \omega_0 + \alpha(t-t_0) \\
+\omega^2-\omega_0^2 &= 2\alpha\symup\Delta \varphi
+\end{aligned}
+$$
 
 donde $\varphi$ es la posición angular final, $\varphi_0$ la posición angular inicial, $\omega_0$ la velocidad angular inicial, $\omega$ la velocidad angular final, $\alpha$ la aceleración angular, $t$ el tiempo final, $t_0$ el tiempo inicial y $\symup\Delta \varphi = \varphi-\varphi_0$ es la distancia angular o espacio angular recorrido.
 
@@ -123,6 +135,7 @@ donde $\varphi$ es la posición angular final, $\varphi_0$ la posición angular 
 ### Fuerza centrípeta
 
 La **fuerza centrípeta** (que busca el centro) es una fuerza que hace que un cuerpo siga una trayectoria curva. Su dirección es siempre perpendicular al movimiento del cuerpo y hacia el centro de curvatura de la trayectoria.
+
 $$
 F_\mathrm c = ma_\mathrm c = \frac{mv^2}{r}
 $$
@@ -150,6 +163,7 @@ Un **péndulo cónico** está formado por una masa $m$ suspendida de un hilo de 
 
 ####	Sin peralte
 La única fuerza que mantiene al vehículo girando en su trayectoria es el **rozamiento**, que ha de ser suficientemente grande como para proporcionar la **fuerza centrípeta** necesaria:
+
 $$
 \mu m g > \frac{mv^2}{r} \Rightarrow v < \sqrt{\mu r g}
 $$
