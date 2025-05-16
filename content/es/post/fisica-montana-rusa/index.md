@@ -57,10 +57,12 @@ A medida que el tren sube, va ganando energía potencial gravitatoria de acuerdo
 
 [^1]: Despreciamos la disipación de energía por rozamiento entre el tren y la vía y/o el aire.
 
-\begin{align*}
-E_\mathrm p &= E_\mathrm c + E_\mathrm p \\\\
+$$
+\begin{aligned}
+E_\mathrm p &= E_\mathrm c + E_\mathrm p \\
 mgh_0 &= \frac{1}{2}mv^2 + mgh \Rightarrow v = \sqrt{2g(h_0-h)}
-\end{align*}
+\end{aligned}
+$$
 
 La velocidad con la que entra el tren al loop, $v_0$, se obtiene imponiendo $h=0$, por lo que:
 $$
@@ -69,10 +71,12 @@ $$
 
 En el momento en el que el tren entra en el loop, comienza a sufrir una aceleración centrípeta dada por $a_\mathrm c = v^2/r$. La fuerza normal y la componente radial del peso, $P\cos\theta$, con $\theta$ el ángulo que forma la pista con la horizontal en un punto cualquiera, actúan como fuerzas centrípetas, por lo que podemos escribir la segunda ley de Newton como:
 
-\begin{align*}
-F_\mathrm T &= ma \\\\
+$$
+\begin{aligned}
+F_\mathrm T &= ma \\
 N-mg\cos\theta &= \frac{mv^2}{r} \Rightarrow N = \frac{mv^2}{r} + mg\cos\theta
-\end{align*}
+\end{aligned}
+$$
 
 ### Fuerza g
 
@@ -83,28 +87,32 @@ G = \frac{N}{mg} = \frac{v^2}{rg}+\cos\theta
 $$
 
 Sustituyendo $v = \sqrt{2g(h_0-h)}$ obtenemos:
+
 $$
 G = \frac{2(h_0-h)}{r}+\cos\theta
 $$
 
 Podemos escribir $h$ en función de $\theta$:
+
 $$
 h = r-r\cos\theta = r(1-\cos\theta)
 $$
 
 Sustituyendo y simplificando:
+
 $$
 G = \frac{2h_0}{r}+3\cos\theta-2 = \frac{v_0^2}{rg}+3\cos\theta-2
 $$
 
 Sustituyendo $\theta = s/r$, donde $s$ es la longitud de arco, o la longitud de vía que el tren ha recorrido alrededor del loop:
+
 $$
 G = \frac{v_0^2}{rg}+3\cos(s/r)-2
 $$
 
 {{< figure src="G-vs-s.svg" title="Dependencia de la fuerza g, $G$, respecto a la longitud de vía que el tren ha recorrido alrededor del loop, $s$. $v_0^2=4rg$ representa la situación en la que el tren tiene justo la energía suficiente para dar toda la vuelta al loop, mientras que $v_0^2=5rg$ representa la situación en la que los pasajeros del tren sienten ingravidez (0*g*) cuando pasan por arriba." lightbox="false" width="100%" theme="light" >}}
 
-Podemos ver rápidamente el problema fundamental de los loops circulares. Independientemente del radio del círculo y de la velocidad inicial, siempre habrá una diferencia de 6*g* entre la parte inferior y la parte superior: 
+Podemos ver rápidamente el problema fundamental de los loops circulares. Independientemente del radio del círculo y de la velocidad inicial, siempre habrá una diferencia de 6*g* entre la parte inferior y la parte superior:
 
 - Si el tren tiene la energía suficiente para dar toda la vuelta, entonces la velocidad del tren será exactamente cero en la parte superior del loop, y los pasajeros experimentarán –1*g*. En la parte inferior del loop, los pasajeros experimentarán +5*g*, y este valor será aún mayor si el tren viaja más rápido.
 
@@ -134,11 +142,13 @@ Dado que el radio es ahora una función en lugar de una constante, resulta más 
 
 [^3]: Quien esté interesado en los detalles, vienen explicados en el [minuto 8:46 del vídeo enlazado al principio de esta entrada](https://www.youtube.com/watch?v=4q2W5SJc5j4&t=526s).
 
-\begin{align*}
-\frac{\partial\theta}{\partial s} &= \frac{1}{r} \\\\
-\cos\theta &= \frac{\partial x}{\partial s} \\\\
+$$
+\begin{aligned}
+\frac{\partial\theta}{\partial s} &= \frac{1}{r} \\
+\cos\theta &= \frac{\partial x}{\partial s} \\
 \sin\theta &= \frac{\partial y}{\partial s}
-\end{align*}
+\end{aligned}
+$$
 
 Introducimos nuestra expresión de $r$ en la primera ecuación y resolvemos el sistema numéricamente[^4] para trazar la forma del loop. Podemos también generar un gráfico de fuerza g a lo largo de la trayectoria como hicimos antes para el loop circular:
 
@@ -178,6 +188,7 @@ Los loops de aceleración centrípeta constante y fuerza g constante son buenas 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/68/Cornu_Spiral.svg" title="Espiral de Cornu. Fuente: https://commons.wikimedia.org/wiki/File:Cornu_Spiral.svg." lightbox="false" width="100%" theme="light" >}}
 
 La expresión matemática usual es:
+
 $$
 r\cdot s = A^2,
 $$
@@ -190,7 +201,7 @@ donde $A$ es el parámetro de la clotoide (un factor de escala). Las clotoides s
 
 Observamos cómo, independientemente de la velocidad del tren o del factor de escala, la fuerza g al principio y al final del loop es exactamente igual a 1*g*, para coincidir con la vía horizontal a ambos lados. Si un ingeniero quiere diseñar un loop utilizando curvas clotoides, pero no le gustan las fuerzas g generadas por un loop clotoide completo[^6], entonces puede optar por mezclar y combinar segmentos de diferentes formas de loop[^7].
 
-[^6]: Como se puede ver en la figura, la fuerza g decae bastante en lo alto del loop, además de existir un pequeño *bache* que probablemente no sea siquiera perceptible. 
+[^6]: Como se puede ver en la figura, la fuerza g decae bastante en lo alto del loop, además de existir un pequeño *bache* que probablemente no sea siquiera perceptible.
 
 [^7]: Por ejemplo, podemos tomar la parte inferior de un loop clotoideo y añadir la parte superior de un loop de fuerza g constante, lo que eliminará
 la caída de la fuerza g que se produce en una clotoide completa. Podemos incluso convertir un loop circular en un buen diseño sustituyendo la parte inferior por dos curvas clotoides. Este diseño es similar a los loops utilizados en montañas rusas reales, como la [Blue Fire de Europa-Park](https://www.europapark.de/en/theme-park/attractions/blue-fire-megacoaster), construida por [Mack Rides](https://mack-rides.com) en 2009.
