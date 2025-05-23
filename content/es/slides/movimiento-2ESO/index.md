@@ -99,6 +99,7 @@ La siguiente figura muestra la **diferencia** entre **espacio recorrido** y **de
 
 ### Velocidad media
 La **velocidad media** de un cuerpo es la relación entre el espacio recorrido y el tiempo invertido:
+
 $$
 v_\text{m} = \frac{\Delta x}{\Delta t},
 $$
@@ -158,9 +159,11 @@ donde $x$ y $x_0$ son las posiciones final e inicial, respectivamente; $v$ la ve
 ---
 
 La **aceleración**, $a$, mide cómo cambia la velocidad de un móvil respecto al tiempo:
+
 $$
 a = \frac{\Delta v}{\Delta t} = \frac{v-v_0}{\Delta t} \Rightarrow v = v_0 + a\cdot \Delta t,
 $$
+
 donde $v$ y $v_0$ son las velocidades final e inicial, respectivamente; y $\Delta t$ es el tiempo transcurrido. En el **SI** se mide en m/s<sup>2</sup>.
 
 ---
@@ -303,7 +306,7 @@ v_\mathrm c=70\thinspace\mathrm{km/h};\quad v_\mathrm m = -90\thinspace\mathrm{k
 ---
 
 A continuación imponemos la **condición de encuentro**:
-\begin{align*}		
+\begin{align*}
 x_\mathrm c &= x_\mathrm m \\\\
 70t &= 200-90t \\\\
 160 t &= 200
@@ -319,7 +322,7 @@ $$
 
 ---
 
-Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
+Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:
 {{< figure library="true" src="movimiento-2ESO/encuentro-graficas.svg" lightbox="false" width="45%" >}}
 
 

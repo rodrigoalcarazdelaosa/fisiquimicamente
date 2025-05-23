@@ -24,12 +24,12 @@ links:
 # icon: download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
-  
+
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: movimiento-poster.pdf
-  
+
 slides: movimiento-2ESO
 
 math: true
@@ -66,6 +66,7 @@ La **velocidad** mide cómo cambia la posición de un móvil respecto al tiempo.
 
 ### Velocidad media
 La **velocidad media** de un cuerpo es la relación entre el espacio recorrido y el tiempo invertido:
+
 $$
 v_\text{m} = \frac{\Delta x}{\Delta t},
 $$
@@ -94,6 +95,7 @@ donde $x$ y $x_0$ son las posiciones final e inicial, respectivamente; $v$ la ve
 
 ## Concepto de aceleración
 La **aceleración**, $a$, mide cómo cambia la velocidad de un móvil respecto al tiempo:
+
 $$
 a = \frac{\Delta v}{\Delta t} = \frac{v-v_0}{\Delta t} \Rightarrow v = v_0 + a\cdot \Delta t,
 $$
@@ -202,7 +204,7 @@ v_\mathrm c=70\thinspace\mathrm{km/h};\quad v_\mathrm m = -90\thinspace\mathrm{k
 \end{align*}
 
 A continuación imponemos la **condición de encuentro**:
-\begin{align*}		
+\begin{align*}
 x_\mathrm c &= x_\mathrm m \\\\
 70t &= 200-90t \\\\
 160 t &= 200
@@ -214,7 +216,7 @@ $$
 t^* = \frac{200\thinspace\mathrm{\cancel{km}}}{160\thinspace\mathrm{\cancel{km}/h}} = 1.25\thinspace\mathrm{h}
 $$
 
-Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:	
+Podemos comprobar esto representando la gráfica de posición frente a tiempo ($x-t$) para cada móvil:
 {{< figure library="true" src="movimiento-2ESO/encuentro-graficas.svg" lightbox="false" width="100%" >}}
 
 
@@ -232,5 +234,5 @@ b) Para calcular la **distancia recorrida** por cada uno de ellos, sustituimos e
 \end{align*}
 
 donde el signo – indica que la moto ha recorrido esa distancia hacia la izquierda.
-  
+
 {{% /callout %}}
