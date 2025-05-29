@@ -28,13 +28,13 @@ slides:
 - [Electròlisi](#/9)
 - [Aplicacions i repercusions de les reaccions redox](#/10)
 
-Descarrega aquestes diapositives en formato PDF[{{< icon name="download" pack="fas" >}}](#/PDF)
+Descarrega aquestes diapositives en formato PDF [📥](#/PDF)
 
 </section>
 
 ---
 
-**Redox** (reducció-oxidació) és un tipus de **reacció química** en la qual l'**estat d'oxidació** dels àtoms **canvia**, a causa d'una **transferència** d'**electrons**. 
+**Redox** (reducció-oxidació) és un tipus de **reacció química** en la qual l'**estat d'oxidació** dels àtoms **canvia**, a causa d'una **transferència** d'**electrons**.
 
 ---
 
@@ -157,12 +157,12 @@ Per a descriure la reacció electroquímica global d'un procés redox és necess
 Emprat sobretot a reaccions redox en **fase gasosa**, consisteix a calcular la **variació** de l'**estat** d'**oxidació** a cadascuna de les semireaccions i igualar-les multiplicant per coeficients adequats.
 
 ---
-				
+
 ### Mètode de l'ió-electró
 Emprat a reaccions redox que ocorren en **dissolució** (àcida o bàsica).
 
 ---
-				
+
 #### Passes
 
 1. Ajustar àtoms diferents d'O i H.
@@ -177,7 +177,7 @@ Emprat a reaccions redox que ocorren en **dissolució** (àcida o bàsica).
 5. Sumar les semireaccions cancel·lant els electrons i termes comuns.
 
 ---
-   
+
 ### Exemple
 
 > Ajustar la següent equació en medi àcid:
@@ -233,7 +233,7 @@ Igualem el nombre d'electrons multiplicant per coeficients adequats:
 
 Sumem les semireaccions per a obtenir l'equació global:
 
-$$				
+$$
 \boxed{3\thinspace\mathrm{Cu} + 8\thinspace\mathrm{HNO_3} \longrightarrow 3\thinspace\mathrm{Cu(NO_3)_2} + 2\thinspace\mathrm{NO} + 4\thinspace\mathrm{H_2O}}
 $$
 
@@ -337,7 +337,7 @@ on $n$ és el nombre d'electrons transferits en la reacció i $F \approx 96485\t
 Una **reacció redox espontània** es caracteritza per un valor **negatiu** de $\symup\Delta G^\circ$, la qual cosa correspon a un valor **positiu** de $E_\text{pila}^\circ$.
 
 $$
-\text{reacció redox espontània} \Leftrightarrow E_\text{pila}^\circ > 0	
+\text{reacció redox espontània} \Leftrightarrow E_\text{pila}^\circ > 0
 $$
 
 {{% /section %}}
@@ -365,7 +365,7 @@ Sovint és necessari utilitzar un **indicador redox** i/o un **potenciòmetre** 
 En el punt d'equivalència, l'oxidant ha reaccionat amb la quantitat equivalent de reductor, per la qual cosa:
 
 <div align="center" style="margin-bottom: 1rem">
- 
+
 *c*<sub>r</sub>*n*<sub>o</sub> = *c*<sub>o</sub>*n*<sub>r</sub>
 
 *c*<sub>r</sub>*M*<sub>o</sub>*V*<sub>o</sub> = *c*<sub>o</sub>*M*<sub>r</sub>*V*<sub>r</sub>
@@ -391,15 +391,15 @@ on *n* són els mols, *c* representa els coeficients estequiomètrics, *M* és l
 Generalment utilitzada per a analitzar la concentració d'agents oxidants en mostres d'aigua, implica la valoració indirecta de iode alliberat per reacció amb l'anàlit.
 
 ---
-					
+
 El tiosulfat de sodi (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) sol utilitzar-se com a agent reductor.
 
 ---
-					
+
 L'aparició o desaparició de iode elemental indica el punt final.
 
 ---
-					
+
 No confondre amb la **iodimetria**, que és una valoració directa utilitzant iode com a substància valorant.
 
 ---
@@ -471,7 +471,7 @@ Són **expressions quantitatives** que relacionen **magnituds electroquímiques*
 
 1. La massa de substància dipositada a un elèctrode, $m$, és directament proporcional a la càrrega elèctrica transferida a aquest elèctrode, $Q$:
     $$
-		m \propto Q	
+		m \propto Q
 		$$
 
 ---
@@ -481,7 +481,7 @@ Són **expressions quantitatives** que relacionen **magnituds electroquímiques*
     m \propto E	= \frac{M}{n}
 		$$
 
----    
+---
 
 Totes dues lleis es poden combinar en una sola expressió matemàtica donada per:
 
@@ -607,12 +607,12 @@ L'oxigen atmosfèric és el càtode (oxidant) més comú en les reaccions redox 
 
 ---
 
-#### Anodització		
+#### Anodització
 
 Procés electrolític de *passivació* que s'utilitza per a augmentar el gruix de la capa d'òxid natural a la superfície de peces metàl·liques, especialment d'alumini (Al).
 
 ---
-		
+
 #### Galvanoplastia
 
 És l'aplicació tecnològica de la deposició de metalls mitjançant electricitat ([electrodeposició](https://ca.wikipedia.org/wiki/Refinació_electrolítica)), formant un recobriment protector, típicament de zinc sobre ferro o acer (aliatge de Fe i C).
@@ -627,7 +627,7 @@ Procés electrolític de *passivació* que s'utilitza per a augmentar el gruix d
 
 ## Exportar a PDF
 
-{{< icon name="download" pack="fas" >}} Punxa [**aquí**](?view=print#) i sigueix aquestes **instruccions**:
+📥 Punxa [**aquí**](?view=print#) i sigueix aquestes **instruccions**:
 
 1. Obre el diàleg de **Impressió** (Control-P si estàs en Windows).
 2. Canvia el **Destí** a **Guardar com PDF**.

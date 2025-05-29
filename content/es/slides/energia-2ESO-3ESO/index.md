@@ -311,7 +311,7 @@ Distinguimos entre energía solar:
 ---
 
 ##### Fotovoltaica
-**Generar electricidad** mediante paneles solares {{<  icon name="solar-panel" pack="fas" >}}.
+**Generar electricidad** mediante paneles solares.
 
 ---
 
@@ -320,7 +320,7 @@ Distinguimos entre energía solar:
 ---
 
 #### Energía eólica 💨
-Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores** {{<  icon name="fan" pack="fas" >}}.
+Obtenida del **viento**, aprovechando la **energía mecánica** del **aire** mediante enormes **aerogeneradores**.
 
 {{< figure library="true" src="energia-2ESO-3ESO/eolica.jpg" lightbox="false" width="85%" >}}
 
