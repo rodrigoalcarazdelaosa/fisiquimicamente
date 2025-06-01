@@ -130,6 +130,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Las diez tecnologías emergentes más importantes en Química"
-      url: 'blog/2025/03/18/las-diez-tecnologias-emergentes-mas-importantes-en-quimica/'
+      text: "Astronomía, astrofísica y cosmología"
+      url: 'blog/2025/06/01/astronomia-astrofisica-y-cosmologia/'
 ---
