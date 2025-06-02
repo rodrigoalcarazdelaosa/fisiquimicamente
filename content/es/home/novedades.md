@@ -131,5 +131,5 @@ content:
       #icon: graduation-cap
       #icon_pack: fas
       text: "Astronomía, astrofísica y cosmología"
-      url: 'blog/2025/06/01/astronomia-astrofisica-y-cosmologia/'
+      url: 'blog/2025/06/02/astronomia-astrofisica-y-cosmologia/'
 ---

@@ -3,7 +3,7 @@ title: Astronomía, astrofísica y cosmología
 subtitle: 10 cuestiones básicas de astronomía, astrofísica y cosmología que todo el mundo debería conocer
 summary: 10 cuestiones básicas de astronomía, astrofísica y cosmología que todo el mundo debería conocer.
 breadcrumbs: ["blog"]
-date: "2025-06-01T00:00:00Z"
+date: "2025-06-02T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -83,7 +83,7 @@ Además, tan solo observamos las más cercanas al Sol, la gran mayoría en un ra
 
 ### 8️⃣ El "Camino de Santiago" es nuestra galaxia
 
-Ese gran arco blanquecino que atraviesa el firmamento es la visión que tenemos de nuestra galaxia, la Vía Láctea, desde su interior.
+Ese gran arco blanquecino que atraviesa el firmamento es la visión que tenemos de nuestra galaxia, la [Vía Láctea](https://es.wikipedia.org/wiki/Vía_Láctea), desde su interior.
 
 ![Vía Láctea](via-lactea.jpg "https://commons.wikimedia.org/wiki/File:ESO-VLT-Laser-phot-33a-07.jpg")
 
@@ -109,7 +109,7 @@ Independientemente de lo cerca o lejos que esté un objeto de nosotros, siempre 
 
 ### 2️⃣ La luz visible es solo una ínfima porción de la radiación que podemos observar
 
-Estudiar los astros en diferentes longitudes de onda (rayos X, microondas...) nos aporta una visión mucho más completa y rica sobre los mismos: temperatura, composición...
+Estudiar los astros en diferentes longitudes de onda ([rayos X](https://es.wikipedia.org/wiki/Rayos_X), [microondas](https://es.wikipedia.org/wiki/Microondas)...) nos aporta una visión mucho más completa y rica sobre los mismos: temperatura, composición...
 
 ![radiacion](radiacion.jpg "https://www.flickr.com/photos/angelrls/52963930930")
 
@@ -145,19 +145,19 @@ Estrellas muy masivas evolucionan rápidamente y viven poco tiempo hasta explota
 
 ### 8️⃣ La mayoría de estrellas son invisibles a nuestros ojos
 
-Se denominan enanas rojas y forman casi el 75&thinsp;% de estrellas en la Vía Láctea. Son tan pequeñas y frías que su brillo es imperceptible por el ojo humano.
+Se denominan enanas rojas y forman casi el 75&thinsp;% de estrellas en la [Vía Láctea](https://es.wikipedia.org/wiki/Vía_Láctea). Son tan pequeñas y frías que su brillo es imperceptible por el ojo humano.
 
 ![enanas rojas](enanas-rojas.jpg "https://youtu.be/N6p0paZ2noA")
 
 ### 9️⃣ Somos polvo de estrellas
 
-La gran mayoría de los elementos químicos de los que estamos hechos se forman en procesos que involucran a las estrellas. Esta es sin duda la mayor aportación de la astrofísica a la humanidad.
+La gran mayoría de los elementos químicos de los que estamos hechos se forman en procesos que involucran a las estrellas. Esta es sin duda la mayor aportación de la [astrofísica](https://es.wikipedia.org/wiki/Astrofísica) a la humanidad.
 
 ![origen-elementos](origen-elementos.jpg "https://svs.gsfc.nasa.gov/13873/")
 
 ### 1️⃣0️⃣ La importancia de la espectroscopía
 
-Nada de este hilo ni de la astrofísica sería posible sin la espectroscopía. Esta técnica nos permite obtener la huella propia de cada astro, su espectro, y gracias él, muchísima información.
+Nada de esta entrada ni de la [astrofísica](https://es.wikipedia.org/wiki/Astrofísica) sería posible sin la [espectroscopía](https://es.wikipedia.org/wiki/Espectroscopia). Esta técnica nos permite obtener la huella propia de cada astro, su espectro, y gracias a él, muchísima información.
 
 ![espectro-solar](espectro-solar.jpg "https://noirlab.edu/public/es/images/noao-sun/")
 
@@ -165,31 +165,31 @@ Nada de este hilo ni de la astrofísica sería posible sin la espectroscopía. E
 
 ### 1️⃣ Las galaxias, su dinámica y distancia son los objetos primarios de estudio de la cosmología
 
-Se agrupan formando cúmulos, supercúmulos y filamentos galácticos y vacíos cósmicos, conformando la estructura a gran escala del universo.
+Se agrupan formando [cúmulos](https://es.wikipedia.org/wiki/Agrupación_galáctica), [supercúmulos](https://es.wikipedia.org/wiki/Supercúmulo) y [filamentos galácticos](https://es.wikipedia.org/wiki/Filamento_galáctico) y [vacíos cósmicos](https://es.wikipedia.org/wiki/Vacío_(astronomía)), conformando la estructura a gran escala del universo.
 
 ![Deep Field](deep-field.jpg "https://commons.wikimedia.org/wiki/File:Webb%27s_First_Deep_Field_(adjusted).jpg")
 
 ### 2️⃣ Cuando hablamos de universo, lo hacemos (casi) siempre del universo observable
 
-Es decir, la región del universo centrada en nosotros de la cual nos llega radiación y podemos estudiar. Inferimos que el universo total es mucho mayor que el universo observable.
+Es decir, la región del universo centrada en nosotros de la cual nos llega radiación y podemos estudiar. Inferimos que el universo total es mucho mayor que el [universo observable](https://es.wikipedia.org/wiki/Universo_observable).
 
 ![universo observable](universo-observable.jpg "https://www.open.edu/openlearn/mod/oucontent/view.php?id=140372&section=_unit5.4")
 
 ### 3️⃣ Las medidas de distancias a galaxias lejanas son fundamentales en cosmología
 
-Para ello se utilizan, entre otras, las llamadas candelas estándar, eventos u objetos de gran luminosidad a partir de las cuales se establece una escalera de distancias cósmicas.
+Para ello se utilizan, entre otras, las llamadas [candelas estándar](https://es.wikipedia.org/wiki/Candela_estándar), eventos u objetos de gran luminosidad a partir de las cuales se establece una [escalera de distancias cósmicas](https://es.wikipedia.org/wiki/Escalera_de_distancias_cósmicas).
 
 ![escalera-cosmica](escalera-cosmica.jpg "https://commons.wikimedia.org/wiki/File:Cosmic_distance_ladder.jpg")
 
 ### 4️⃣ A escalas lo suficientemente grandes, consideramos al universo como homogéneo e isótropo
 
-Esto significa, en pocas palabras, que no existe un punto privilegiado sobre otros ni un centro. Es lo que se conoce como el principio cosmológico.
+Esto significa, en pocas palabras, que no existe un punto privilegiado sobre otros ni un centro. Es lo que se conoce como el [principio cosmológico](https://es.wikipedia.org/wiki/Principio_cosmológico).
 
 ![redshift](redshift.png "https://commons.wikimedia.org/wiki/File:2dfgrs.png")
 
 ### 5️⃣ A distancias cosmológicas, el universo se expande, es decir, el espacio entre galaxias aumenta
 
-Esto indica que en el pasado las galaxias estaban todas más cerca unas de otras. Además, desde 1998 sabemos que esta expansión es acelerada.
+Esto indica que en el pasado las galaxias estaban todas más cerca unas de otras. Además, desde 1998 sabemos que [esta expansión es acelerada](https://es.wikipedia.org/wiki/Expansión_acelerada_del_universo).
 
 ![expansion](expansion.webp "https://www.astronomy.com/science/what-is-the-universe-expanding-into/")
 
@@ -207,13 +207,13 @@ Se trata de una radiación que permea todo el universo, liberada 380&thinsp;000 
 
 ### 8️⃣ El modelo ΛCDM (Lambda-Cold Dark Matter) pone números a la teoría del Big Bang
 
-Establece que el universo se compone de energía y materia oscuras, materia bariónica u ordinaria y radiación. Sus proporciones determinan la forma y evolución del universo.
+Establece que el universo se compone de [energía](https://es.wikipedia.org/wiki/Energía_oscura) y [materia oscuras](https://es.wikipedia.org/wiki/Materia_oscura), [materia bariónica u ordinaria](https://es.wikipedia.org/wiki/Barión) y [radiación electromagnética](https://es.wikipedia.org/wiki/Radiación_electromagnética). Sus proporciones determinan la forma y evolución del universo.
 
 ![lambda](lambda.jpg "https://www.esa.int/ESA_Multimedia/Images/2018/06/The_cosmic_budget_of_ordinary_matter")
 
 ### 9️⃣ Energía y materia oscuras son conceptos diferentes
 
-Mientras que la materia oscura explicaría algunas observaciones gravitatorias de origen desconocido, la energía oscura actuaría como una "antigravedad", responsable de la expansión acelerada del universo.
+Mientras que la [materia oscura](https://es.wikipedia.org/wiki/Materia_oscura) explicaría algunas observaciones gravitatorias de origen desconocido, la [energía oscura](https://es.wikipedia.org/wiki/Energía_oscura) actuaría como una "antigravedad", responsable de la [expansión acelerada del universo](https://es.wikipedia.org/wiki/Expansión_acelerada_del_universo).
 
 ![telescopios](telescopios.jpg "https://noirlab.edu/public/es/images/iotw2124a/")
 
