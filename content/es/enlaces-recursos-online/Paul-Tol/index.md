@@ -9,9 +9,9 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://personal.sron.nl/~pault/
+external_link: https://sronpersonalpages.nl/~pault/
 
 image:
-  caption: https://personal.sron.nl/~pault/
+  caption: https://sronpersonalpages.nl/~pault/
   focal_point: Smart
 ---
