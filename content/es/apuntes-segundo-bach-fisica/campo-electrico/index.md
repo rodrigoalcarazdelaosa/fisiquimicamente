@@ -6,6 +6,7 @@ summary: "Naturaleza eléctrica de la materia, electrostática, ley de Coulomb, 
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - marta-rada-arias
+- rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 - leticia-cabezas
 tags:

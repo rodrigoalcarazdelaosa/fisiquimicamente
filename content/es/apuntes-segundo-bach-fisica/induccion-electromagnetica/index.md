@@ -6,6 +6,7 @@ summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Expe
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - marta-rada-arias
+- rodrigo-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 tags:
 - apuntes

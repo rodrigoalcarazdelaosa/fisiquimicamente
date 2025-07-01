@@ -6,6 +6,7 @@ summary: "Modelos cosmológicos. Leyes de Kepler. Ley de gravitación universal.
 breadcrumbs: ["recursos-fisica-quimica", "apuntes", "2bach", "fisica"]
 authors:
   - marta-rada-arias
+  - rodrigo-alcaraz-de-la-osa
   - leticia-cabezas
 tags:
   - apuntes
