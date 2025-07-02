@@ -39,8 +39,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: El abecedario de la Química | 3.º ESO
-      url: 'https://descargas.intef.es/cedec/proyectoedia/fisica_quimica/contenidos/abecedario_quimica/index.html'
+      text: Newton, El Principito y el asteroide B-612 | Física 2.º Bach
+      url: '/recursos-fisica-quimica/actividades/2bach/fisica/newton-el-principito-y-el-asteroide-B-612'
   - title: 🗞️ Novedades
     content: '🧩 Último juego'
     align: center

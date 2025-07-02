@@ -1,6 +1,6 @@
 ---
 title: El abecedario de la Química
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Estudia la Tabla Periódica y sus elementos de una manera atractiva, conectando la química con su historia y nuestro entorno."
+summary: "Estudia la Tabla Periódica y sus elementos de una manera atractiva, conectando la química con su historia y nuestro entorno."
 breadcrumbs: ["recursos-fisica-quimica","actividades-3eso"]
 tags:
 - actividades
