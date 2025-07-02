@@ -1,16 +1,17 @@
 ---
-title: John Dalton
+title: Niels Bohr
 url: "/recursos-fisica-quimica/historia-ciencia/"
 subtitle:
-summary: ""
+summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code>"
 # breadcrumbs: ["recursos-fisica-quimica","historia-ciencia"]
 authors:
 - luis-moreno-martinez
 tags:
-- dalton
+- estructura-atómica
+- bohr
 categories:
-- Química
-weight: 1766
+- Física
+weight: 1885
 
 image:
   preview_only: true
@@ -25,13 +26,9 @@ links:
 - icon_pack: fas
   icon:
   name: 📜 Póster
-  url: john-dalton-poster.pdf
+  url: niels-bohr-poster.pdf
 - icon_pack: fas
   icon:
   name: 📖 Tríptico
-  url: john-dalton-triptico.pdf
-- icon_pack: fas
-  icon:
-  name: 🔠 Símbolos daltonianos
-  url: john-dalton-simbolos.pdf
+  url: niels-bohr-triptico.pdf
 ---

@@ -78,7 +78,7 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: John Dalton
+      text: Niels Bohr
       url: '/recursos-fisica-quimica/historia-ciencia/'
   - title: 🗞️ Novedades
     content: '📝 Último ejercicio de oposiciones de 🧲 Física resuelto'
