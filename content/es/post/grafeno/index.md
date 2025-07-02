@@ -250,11 +250,7 @@ Para terminar, ¿es cierto que las vacunas del COVID tienen óxido de grafeno, c
 
 {{< spoiler text="**Explicación**" >}}
 
-**Mito**. No encontraréis grafeno ni óxido de grafeno en la lista de componentes de las vacunas ni ningún estudio serio que lo avale. Si aún desconfiáis, echad un vistazo a este hilo; entre otras cosas, las vacunas tendrían otro color si tuvieran algo de grafeno:
-
-<div align="center">
-{{< x user="MatSciMatt" id="1414023195041140737" >}}
-</div>
+**Mito**. No encontraréis grafeno ni óxido de grafeno en la lista de componentes de las vacunas ni ningún estudio serio que lo avale.
 
 {{< /spoiler >}}
 
