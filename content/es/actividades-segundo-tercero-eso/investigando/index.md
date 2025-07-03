@@ -8,6 +8,11 @@ tags:
 - actividades
 - 2º ESO
 - eXeLearning
+- actividad-científica
+- materia
+- movimiento
+- fuerzas
+- energía
 categories:
 - Física
 - Química
