@@ -2,7 +2,7 @@
 title: La Tierra y la Luna
 url: "/recursos-fisica-quimica/actividades/1bach/la-tierra-y-la-luna"
 subtitle: Actividad para trabajar la comprensión lectora y la relación entre las artes y las ciencias
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Actividad para trabajar la comprensión lectora y la relación entre las artes y las ciencias."
+summary: "Actividad para trabajar la comprensión lectora y la relación entre las artes y las ciencias."
 breadcrumbs: ["recursos-fisica-quimica","actividades-1bach"]
 authors:
 - miguel-quiroga
