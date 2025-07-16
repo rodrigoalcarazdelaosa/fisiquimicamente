@@ -2,7 +2,7 @@
 title: Inducción electromagnética
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/induccion-electromagnetica"
 subtitle: Experiencias de Faraday y de Henry, flujo magnético, fem inducida, leyes de Faraday-Henry y de Lenz, autoinducción, inducción mutua y aplicaciones
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Experiencias de Faraday y de Henry, flujo magnético, fem inducida, leyes de Faraday-Henry y de Lenz, autoinducción, inducción mutua y aplicaciones."
+summary: "Experiencias de Faraday y de Henry, flujo magnético, fem inducida, leyes de Faraday-Henry y de Lenz, autoinducción, inducción mutua y aplicaciones."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - marta-rada-arias

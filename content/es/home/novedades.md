@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Inducción electromagnética | Física 2.º Bach
-      url: 'recursos-fisica-quimica/apuntes/2bach/fisica/induccion-electromagnetica/'
+      text: Ondas | Física 2.º Bach
+      url: 'recursos-fisica-quimica/apuntes/2bach/fisica/ondas/'
   - title: 🗞️ Novedades
     content: '🗒️ Última actividad'
     align: center
