@@ -75,8 +75,15 @@ Para comprender mejor esto consideremos el siguiente **ejemplo**. Dejamos caer u
 
 #### Según la dirección de propagación
 
+En el ejemplo del estanque hemos visto que las partículas del agua viran en torno a sus posiciones de equilibrio (arriba y abajo) pero no avanzan con la onda. Teniendo en cuenta la dirección de vibración por un lado y la dirección de propagación de la onda por otro, podemos diferenciar dos tipos de ondas:
+
 - Longitudinales: la vibración es paralela a la propagación (ej. sonido).
+
+{{< youtube fMJrtheQfZw >}}
+
 - Transversales: la vibración es perpendicular a la propagación (ej. ondas electromagnéticas).
+
+{{< youtube g8GcMn7K0u4 >}}
 
 #### Según su naturaleza
 
@@ -94,7 +101,7 @@ Supongamos que se produce una perturbación en la partícula A (foco), que comie
 ## Ondas armónicas
 ### Definición y ecuación general de una onda armónica
 
-Una **onda armónica** es una onda que se propaga en un medio elástico y cuya perturbación es armónica, es decir, que se puede describir mediante una función **sinusoidal** (la fuente que genera la onda describe un [**MAS**]({{< relref "apuntes-segundo-bach-fisica/mas/" >}})) con periodo $T$).
+Una **onda armónica** es una onda que se propaga en un medio elástico y cuya perturbación es armónica, es decir, que se puede describir mediante una función **sinusoidal** (la fuente que genera la onda describe un [**MAS**]({{< relref "apuntes-segundo-bach-fisica/mas/" >}}) con periodo $T$).
 
 La **ecuación general** de una onda armónica unidimensional (propagándose en el eje $x$) es:
 
@@ -105,9 +112,7 @@ y(x,t) & = A \sin\left[2\pi\left(\frac{t}{T} \pm \frac{x}{\lambda}\right) + \var
 \end{align*}
 $$
 
-Esta ecuación nos dice dónde se encuentra cada punto $x$ del medio en cada instante de tiempo $t$. Si consideramos cierto instante de tiempo $t$ (equivalente a sacar una foto de la onda):
-
-{{< figure library="true" src="ondas-2Bach-fisica/y-vs-x.svg" width="100%" lightbox="false" theme="light" >}}
+Esta ecuación nos dice dónde se encuentra cada punto $x$ del medio en cada instante de tiempo $t$.
 
 ### Magnitudes características
 
@@ -127,6 +132,10 @@ y(x+n\lambda,t) & = A \sin[\omega t \pm k(x+n\lambda) + \varphi_0] \\
 \end{align*}
 $$
 
+Si consideramos cierto instante de tiempo $t$ (equivalente a sacar una foto de la onda):
+
+{{< figure library="true" src="ondas-2Bach-fisica/y-vs-x.svg" width="100%" lightbox="false" theme="light" >}}
+
 Temporal
 : Representada por el **periodo** $T$, tiempo que tarda cada punto en realizar una oscilación completa. En el SI se mide en segundos (s). Debe cumplirse que $y(x,t+nT) = y(x,t)$, es decir, que la perturbación en un punto $x$ se repite cada $T$ segundos:
 
@@ -138,6 +147,10 @@ y(x,t+nT) & = A \sin[\omega(t+nT) \pm kx + \varphi_0] \\
 &= A \sin(\omega t \pm kx + \varphi_0) = y(x,t)
 \end{align*}
 $$
+
+Si consideramos un punto $x$:
+
+{{< figure library="true" src="ondas-2Bach-fisica/y-vs-t.svg" width="100%" lightbox="false" theme="light" >}}
 
 #### Frecuencia
 
@@ -151,7 +164,7 @@ Es característica del foco e independiente del medio por el que se propaga la o
 
 #### Pulsación
 
-Número de oscilaciones de cada punto en $2\pi$&thinsp;s. Coincide con el número de ondas que pasan por un punto en $2\pi$&thinsp;s.
+Número de oscilaciones de cada punto en $2\pi$&thinsp;s. Coincide con el número de ondas que pasan por un punto en $2\pi$&thinsp;s. Se mide en radianes por segundo (rad/s).
 
 $$
 \omega = \frac{2\pi}{T} = 2\pi f
@@ -167,11 +180,13 @@ $$
 
 #### Fase
 
-Ángulo que representa el estado de vibración de un punto en la onda. Se mide en radianes (rad). $\varphi_0$ es la fase inicial.
+Ángulo que representa el estado de vibración de un punto en la onda. Se mide en radianes (rad).
 
 $$
-\varphi = \omega t \pm kx + \varphi_0
+\varphi = \omega t \pm kx + \varphi_0,
 $$
+
+siendo $\varphi_0$ la fase inicial.
 
 #### Amplitud *A*
 
@@ -184,6 +199,42 @@ Velocidad a la que se propaga la perturbación en el medio. Se mide en m/s.
 $$
 v = \frac{\lambda}{T} = \lambda f = \frac{\omega}{k}
 $$
+
+{{< spoiler text="Pincha aquí para averiguar cómo se calcula la **velocidad** de **propagación** de una **onda mecánica**" >}}
+
+- **Ondas transversales** en una **cuerda**:
+
+$$
+v = \sqrt{\frac{T}{\mu}},
+$$
+
+donde $T$ es la tensión de la cuerda y $\mu$ su densidad lineal de masa.
+
+- **Ondas longitudinales** en **sólidos**:
+
+$$
+v = \sqrt{\frac{E}{\rho}},
+$$
+
+donde $E$ es el [módulo de Young](https://es.wikipedia.org/wiki/Módulo_de_Young) y $\rho$ la densidad del sólido.
+
+- **Ondas longitudinales** en **líquidos**:
+
+$$
+v = \sqrt{\frac{K}{\rho}},
+$$
+
+donde $K$ es el [módulo de (in)compresibilidad](https://es.wikipedia.org/wiki/Módulo_de_incompresibilidad) y $\rho$ la densidad del líquido.
+
+- **Ondas longitudinales** en **gases**:
+
+$$
+v = \sqrt{\frac{\gamma RT}{M}},
+$$
+
+donde $\gamma$ es el [coeficiente adiabático](https://es.wikipedia.org/wiki/Coeficiente_de_dilatación_adiabática) del gas (1.4 para el aire), $R$ es la constante de los gases ideales, $T$ es la temperatura del gas en kelvin y $M$ la masa molar del gas.
+
+{{< /spoiler >}}
 
 Es importante diferenciar la velocidad de propagación de la velocidad de vibración de las partículas del medio, $v(x,t)$, calculada derivando la ecuación de la onda:
 
@@ -213,7 +264,7 @@ Se adopta el siguiente **criterio**:
 {{% callout warning %}}
 Hemos visto la **notación** más empleada pero también nos podemos encontrar:
 
-- En lugar de $\sin$ aparece $\cos$: todo es equivalente salvo en la fase inicial $\varphi_0$.
+- En lugar de $\sin$ aparece $\cos$: todo es equivalente salvo en la fase inicial, pues están desfasadas $\pi/2$, ya que $\cos\varphi = \sin(\varphi+\pi/2)$.
 - Normalmente el $\pm$ acompaña a la parte espacial ($\pm kx$) pero los anglosajones se lo ponen a la parte temporal ($\pm \omega t$). En cualquier caso, si hay $-$ se desplaza hacia la derecha.
 {{% /callout %}}
 
@@ -384,6 +435,10 @@ $$
 
 <iframe loading=lazy src="https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
+En este **vídeo-demostración**, el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) recupera un instrumento clásico como es el [**tubo** de **Kundt**](https://es.wikipedia.org/wiki/Tubo_de_Kundt) para **determinar** la **velocidad** del **sonido** (unos 343&thinsp;m/s a 20&thinsp;&deg;C):
+
+{{< youtube JD7vWX6y0zk >}}
+
 ### Cualidades del sonido
 
 #### Intensidad
@@ -430,21 +485,27 @@ Es la cualidad que permite distinguir dos sonidos de igual intensidad y tono, pr
 
 <iframe loading=lazy src="https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-### Sensación sonora
+{{% callout note %}}
+**Aprende más** sobre la **relación** entre la **música** y la **física** en [esta excelente **entrada** del **blog**]({{< ref "/post/musica-fisica/index.md" >}}).
+{{% /callout %}}
 
-El sonido que percibe el oído depende tanto de la intensidad de la onda sonora como de su frecuencia. Por eso es necesario definir una nueva magnitud que tenga esto en cuenta. La **sensación sonora** o **nivel de intensidad sonora** $S$ representa la intensidad percibida y se define como:
+### Nivel de intensidad sonora
+
+El sonido que percibe el oído depende tanto de la intensidad de la onda sonora como de su frecuencia. Por eso es necesario definir una nueva magnitud que tenga esto en cuenta. El **nivel de intensidad sonora** $S$ representa la intensidad percibida y se define como:
 
 $$
 S = 10 \log_{10} \left(\frac{I}{I_0}\right),
 $$
 
-donde $I$ es la intensidad del sonido que llega hasta nosotros y $I_0$ es la intensidad umbral (10<sup>-12</sup>&thinsp;W/m<sup>2</sup> para 1000&thinsp;Hz). La sensación sonora tiene un valor para cada frecuencia y se expresa en **decibelios** (dB), que es una unidad logarítmica, lo que implica que un aumento de 10&thinsp;dB significa que la intensidad del sonido se multiplica por 10.
+donde $I$ es la intensidad del sonido que llega hasta nosotros y $I_0$ es la intensidad umbral (10<sup>-12</sup>&thinsp;W/m<sup>2</sup> para 1000&thinsp;Hz). El nivel de intensidad sonora tiene un valor para cada frecuencia y se expresa en **decibelios** (dB), que es una unidad logarítmica, lo que implica que un aumento de 10&thinsp;dB significa que la intensidad del sonido se multiplica por 10.
 
 {{% callout note %}}
 IMPORTANTE: Si hay dos o más ondas, se suman las intensidades de cada una de ellas, no los dB.
 {{% /callout %}}
 
 {{< figure library="true" src="ondas-2Bach-fisica/escala-decibelios.svg" title="Escala de decibelios. Traducida y adaptada de https://tikz.net/wave_decibel_scale/." width="100%" lightbox="false" >}}
+
+{{< figure library="true" src="ondas-2Bach-fisica/curvas-isofonicas.svg" title="[Curvas isofónicas](https://es.wikipedia.org/wiki/Curva_isofónica) según la norma [ISO 223:2003](https://www.iso.org/es/contents/data/standard/08/31/83117.html)." width="100%" lightbox="false" theme="light" >}}
 
 ### Fenómenos sonoros
 
@@ -456,7 +517,7 @@ Somos capaces de diferenciar el sonido incidente del reflejado. La distancia del
 #### Reverberación
 La superficie de separación está próxima al foco/receptor, lo que provoca que el sonido reflejado se superponga al incidente. En este caso los sonidos no pueden ser completamente diferenciados, por lo que se perciben como un único sonido prolongado.
 
-Observa y escucha a **Armin Küpper** tocando un saxofón y usando una tubería como retardo natural y reverberación:
+Observa y escucha a [**Armin Küpper**](https://www.armins-art.de) tocando un saxofón y usando una tubería como retardo natural y reverberación:
 
 {{< youtube p8GcHoSIPDg >}}
 
@@ -478,7 +539,7 @@ Puede considerarse la evolución del sonar. El ecógrafo envía ultrasonidos a d
 
 #### Litotricia
 
-Se emplea la energía de los ultrasonidos para destruir cálculos biliares o renales. También se emplea para tratar dolores musculares o para limpiar material quirúrgico o de laboratorio.
+Se emplea la energía de los ultrasonidos para destruir cálculos biliares o renales. También se emplea para tratar dolores musculares, limpiar material quirúrgico o de laboratorio e incluso eliminar el sarro dental.
 
 #### Usos industriales
 
@@ -671,6 +732,8 @@ $$
 
 Los nodos no vibran.
 
+La distancia entre dos vientres/nodos consecutivos es $\lambda/2$ y entre un vientre y un nodo consecutivo es $\lambda/4$.
+
 #### Diferencia entre onda viajera y onda estacionaria
 
 La principal diferencia radica en que en el caso de las ondas estacionarias la energía no se propaga por el medio, como sucede con las ondas viajeras. Por el contrario, queda *confinada* entre los nodos de la onda.
@@ -712,13 +775,29 @@ $$
 
 <iframe loading=lazy src="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
-{{% callout note %}}
-**Aprende más** sobre la **relación** entre la **música** y la **física** en [esta excelente **entrada** del **blog**]({{< ref "/post/musica-fisica/index.md" >}}).
-{{% /callout %}}
+o este **vídeo** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
 
-Observa la **rotura** de una **copa** por **resonancia** en este magnífico **vídeo** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
+{{< youtube LmMu5m6Rb2c >}}
+
+##### Fenómenos de resonancia
+
+Os dejamos aquí unos cuantos **vídeos** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
+
+- [**Tubo** de **Rubens**](https://es.wikipedia.org/wiki/Tubo_de_Rubens):
+
+{{< youtube 3SrfEV3ajw4 >}}
+
+- La **física** de los **tubos sonoros**:
+
+{{< youtube -AIvSnvnQpc >}}
+
+- **Rotura** de una **copa** por **resonancia**
 
 {{< youtube tqSuJpJT8j0 >}}
+
+- [**Placas** de **Chladni**](https://es.wikipedia.org/wiki/Figuras_de_Chladni)
+
+{{< youtube t-Bg8GiTW8M >}}
 
 ### Difracción
 

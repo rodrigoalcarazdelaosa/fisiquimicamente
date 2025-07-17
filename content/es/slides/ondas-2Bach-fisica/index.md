@@ -35,7 +35,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 - [Definición de onda](#/1/1)
 - [Clasificación de las ondas](#/1/3)
-- [Definición de medio elástico](#/1/7)
+- [Definición de medio elástico](#/1/9)
 
 (continúa hacia abajo)
 
@@ -56,7 +56,7 @@ Para comprender mejor esto consideremos el siguiente **ejemplo**. Dejamos caer u
 
 - [Si se consideran las dimensiones de propagación](#/1/4)
 - [Según la dirección de propagación](#/1/5)
-- [Según su naturaleza](#/1/6)
+- [Según su naturaleza](#/1/8)
 
 (continúa hacia abajo)
 
@@ -74,8 +74,21 @@ Para comprender mejor esto consideremos el siguiente **ejemplo**. Dejamos caer u
 
 #### Según la dirección de propagación
 
+En el ejemplo del estanque hemos visto que las partículas del agua viran en torno a sus posiciones de equilibrio (arriba y abajo) pero no avanzan con la onda.
+
+Teniendo en cuenta la dirección de vibración por un lado y la dirección de propagación de la onda por otro, podemos diferenciar dos tipos de ondas:
+
+---
+
 - Longitudinales: la vibración es paralela a la propagación (ej. sonido).
+
+{{< youtube fMJrtheQfZw >}}
+
+---
+
 - Transversales: la vibración es perpendicular a la propagación (ej. ondas electromagnéticas).
+
+{{< youtube g8GcMn7K0u4 >}}
 
 ---
 
@@ -105,13 +118,13 @@ Supongamos que se produce una perturbación en la partícula A (foco), que comie
 ## Ondas armónicas
 
 - [Definición y ecuación general de una onda armónica](#/2/1)
-- [Magnitudes características](#/2/4)
-- [Criterio de signos](#/2/16)
-- [Fase y desfase en una onda armónica](#/2/18)
-- [Energía asociada a una onda armónica](#/2/22)
-- [Potencia de una onda armónica](#/2/25)
-- [Intensidad de una onda armónica](#/2/26)
-- [Atenuación y absorción de ondas](#/2/28)
+- [Magnitudes características](#/2/3)
+- [Criterio de signos](#/2/22)
+- [Fase y desfase en una onda armónica](#/2/24)
+- [Energía asociada a una onda armónica](#/2/28)
+- [Potencia de una onda armónica](#/2/31)
+- [Intensidad de una onda armónica](#/2/32)
+- [Atenuación y absorción de ondas](#/2/34)
 
 (continúa hacia abajo)
 
@@ -121,7 +134,7 @@ Supongamos que se produce una perturbación en la partícula A (foco), que comie
 
 ### Definición y ecuación general de una onda armónica
 
-Una **onda armónica** es una onda que se propaga en un medio elástico y cuya perturbación es armónica, es decir, que se puede describir mediante una función **sinusoidal** (la fuente que genera la onda describe un [**MAS**]({{< relref "apuntes-segundo-bach-fisica/mas/" >}})) con periodo $T$).
+Una **onda armónica** es una onda que se propaga en un medio elástico y cuya perturbación es armónica, es decir, que se puede describir mediante una función **sinusoidal** (la fuente que genera la onda describe un [**MAS**]({{< relref "apuntes-segundo-bach-fisica/mas/" >}}) con periodo $T$).
 
 ---
 
@@ -138,21 +151,15 @@ Esta ecuación nos dice dónde se encuentra cada punto $x$ del medio en cada ins
 
 ---
 
-Si consideramos cierto instante de tiempo $t$ (equivalente a sacar una foto de la onda):
-
-{{< figure library="true" src="ondas-2Bach-fisica/y-vs-x.svg" width="100%" lightbox="false" theme="light" >}}
-
----
-
 ### Magnitudes características
 
-- [Periodicidad espacial y temporal](#/2/5)
-- [Frecuencia](#/2/8)
-- [Pulsación](#/2/9)
-- [Número de onda](#/2/10)
-- [Fase](#/2/11)
-- [Amplitud *A*](#/2/12)
-- [Velocidad de propagación](#/2/13)
+- [Periodicidad espacial y temporal](#/2/4)
+- [Frecuencia](#/2/9)
+- [Pulsación](#/2/10)
+- [Número de onda](#/2/11)
+- [Fase](#/2/12)
+- [Amplitud *A*](#/2/13)
+- [Velocidad de propagación](#/2/14)
 
 (continúa hacia abajo)
 
@@ -182,6 +189,12 @@ $$
 
 ---
 
+Si consideramos cierto instante de tiempo $t$ (equivalente a sacar una foto de la onda):
+
+{{< figure library="true" src="ondas-2Bach-fisica/y-vs-x.svg" width="100%" lightbox="false" theme="light" >}}
+
+---
+
 Temporal
 : Representada por el **periodo** $T$, tiempo que tarda cada punto en realizar una oscilación completa. En el SI se mide en segundos (s). Debe cumplirse que $y(x,t+nT) = y(x,t)$, es decir, que la perturbación en un punto $x$ se repite cada $T$ segundos:
 
@@ -193,6 +206,12 @@ y(x,t+nT) & = A \sin[\omega(t+nT) \pm kx + \varphi_0] \\
 &= A \sin(\omega t \pm kx + \varphi_0) = y(x,t)
 \end{align*}
 $$
+
+---
+
+Si consideramos un punto $x$:
+
+{{< figure library="true" src="ondas-2Bach-fisica/y-vs-t.svg" width="100%" lightbox="false" theme="light" >}}
 
 ---
 
@@ -210,7 +229,7 @@ Es característica del foco e independiente del medio por el que se propaga la o
 
 #### Pulsación
 
-Número de oscilaciones de cada punto en $2\pi$&thinsp;s. Coincide con el número de ondas que pasan por un punto en $2\pi$&thinsp;s.
+Número de oscilaciones de cada punto en $2\pi$&thinsp;s. Coincide con el número de ondas que pasan por un punto en $2\pi$&thinsp;s. Se mide en radianes por segundo (rad/s).
 
 $$
 \omega = \frac{2\pi}{T} = 2\pi f
@@ -230,11 +249,13 @@ $$
 
 #### Fase
 
-Ángulo que representa el estado de vibración de un punto en la onda. Se mide en radianes (rad). $\varphi_0$ es la fase inicial.
+Ángulo que representa el estado de vibración de un punto en la onda. Se mide en radianes (rad).
 
 $$
-\varphi = \omega t \pm kx + \varphi_0
+\varphi = \omega t \pm kx + \varphi_0,
 $$
+
+siendo $\varphi_0$ la fase inicial.
 
 ---
 
@@ -251,6 +272,59 @@ Velocidad a la que se propaga la perturbación en el medio. Se mide en m/s.
 $$
 v = \frac{\lambda}{T} = \lambda f = \frac{\omega}{k}
 $$
+
+---
+
+##### Velocidad de propagación de una onda mecánica
+
+- [Ondas transversales en una cuerda](#/2/16)
+- [Ondas longitudinales en sólidos](#/2/17)
+- [Ondas longitudinales en líquidos](#/2/18)
+- [Ondas longitudinales en gases](#/2/19)
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+- **Ondas transversales** en una **cuerda**:
+
+$$
+v = \sqrt{\frac{T}{\mu}},
+$$
+
+donde $T$ es la tensión de la cuerda y $\mu$ su densidad lineal de masa.
+
+---
+
+- **Ondas longitudinales** en **sólidos**:
+
+$$
+v = \sqrt{\frac{E}{\rho}},
+$$
+
+donde $E$ es el [módulo de Young](https://es.wikipedia.org/wiki/Módulo_de_Young) y $\rho$ la densidad del sólido.
+
+---
+
+- **Ondas longitudinales** en **líquidos**:
+
+$$
+v = \sqrt{\frac{K}{\rho}},
+$$
+
+donde $K$ es el [módulo de (in)compresibilidad](https://es.wikipedia.org/wiki/Módulo_de_incompresibilidad) y $\rho$ la densidad del líquido.
+
+---
+
+- **Ondas longitudinales** en **gases**:
+
+$$
+v = \sqrt{\frac{\gamma RT}{M}},
+$$
+
+donde $\gamma$ es el [coeficiente adiabático](https://es.wikipedia.org/wiki/Coeficiente_de_dilatación_adiabática) del gas (1.4 para el aire), $R$ es la constante de los gases ideales, $T$ es la temperatura del gas en kelvin y $M$ la masa molar del gas.
 
 ---
 
@@ -287,7 +361,7 @@ Se adopta el siguiente **criterio**:
 
 Hemos visto la **notación** más empleada pero también nos podemos encontrar:
 
-- En lugar de $\sin$ aparece $\cos$: todo es equivalente salvo en la fase inicial $\varphi_0$.
+- En lugar de $\sin$ aparece $\cos$: todo es equivalente salvo en la fase inicial, pues están desfasadas $\pi/2$, ya que $\cos\varphi = \sin(\varphi+\pi/2)$.
 - Normalmente el $\pm$ acompaña a la parte espacial ($\pm kx$) pero los anglosajones se lo ponen a la parte temporal ($\pm \omega t$). En cualquier caso, si hay $-$ se desplaza hacia la derecha.
 
 ---
@@ -399,8 +473,8 @@ La potencia y la intensidad también son proporcionales al cuadrado de la frecue
 
 ### Atenuación y absorción de ondas
 
-- [Atenuación](#/2/29)
-- [Absorción](#/2/33)
+- [Atenuación](#/2/35)
+- [Absorción](#/2/39)
 
 (continúa hacia abajo)
 
@@ -478,11 +552,11 @@ $$
 
 - [Introducción](#/3/1)
 - [Formación de ondas sonoras](#/3/2)
-- [Cualidades del sonido](#/3/9)
-- [Sensación sonora](#/3/22)
-- [Fenómenos sonoros](#/3/27)
-- [Aplicaciones del sonido](#/3/32)
-- [Contaminación acústica](#/3/38)
+- [Cualidades del sonido](#/3/11)
+- [Nivel de intensidad sonora](#/3/25)
+- [Fenómenos sonoros](#/3/31)
+- [Aplicaciones del sonido](#/3/36)
+- [Contaminación acústica](#/3/42)
 
 (continúa hacia abajo)
 
@@ -538,11 +612,19 @@ $$
 
 ---
 
+En este **vídeo-demostración**, el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) recupera un instrumento clásico como es el [**tubo** de **Kundt**](https://es.wikipedia.org/wiki/Tubo_de_Kundt) para **determinar** la **velocidad** del **sonido** (unos 343&thinsp;m/s a 20&thinsp;&deg;C):
+
+---
+
+{{< youtube JD7vWX6y0zk >}}
+
+---
+
 ### Cualidades del sonido
 
-- [Intensidad](#/3/10)
-- [Tono](#/3/13)
-- [Timbre](#/3/19)
+- [Intensidad](#/3/12)
+- [Tono](#/3/15)
+- [Timbre](#/3/21)
 
 (continúa hacia abajo)
 
@@ -620,13 +702,17 @@ Está relacionado con la **forma** de las **ondas sonoras**.
 
 ---
 
-### Sensación sonora
+> **Aprende más** sobre la **relación** entre la **música** y la **física** en [esta excelente **entrada** del **blog**]({{< ref "/post/musica-fisica/index.md" >}}).
+
+---
+
+### Nivel de intensidad sonora
 
 El sonido que percibe el oído depende tanto de la intensidad de la onda sonora como de su frecuencia. Por eso es necesario definir una nueva magnitud que tenga esto en cuenta.
 
 ---
 
-La **sensación sonora** o **nivel de intensidad sonora** $S$ representa la intensidad percibida y se define como:
+El **nivel de intensidad sonora** $S$ representa la intensidad percibida y se define como:
 
 $$
 S = 10 \log_{10} \left(\frac{I}{I_0}\right),
@@ -636,7 +722,7 @@ donde $I$ es la intensidad del sonido que llega hasta nosotros y $I_0$ es la int
 
 ---
 
-La sensación sonora tiene un valor para cada frecuencia y se expresa en **decibelios** (dB), que es una unidad logarítmica, lo que implica que un aumento de 10&thinsp;dB significa que la intensidad del sonido se multiplica por 10.
+El nivel de intensidad sonora tiene un valor para cada frecuencia y se expresa en **decibelios** (dB), que es una unidad logarítmica, lo que implica que un aumento de 10&thinsp;dB significa que la intensidad del sonido se multiplica por 10.
 
 ---
 > IMPORTANTE: Si hay dos o más ondas, se suman las intensidades de cada una de ellas, no los dB.
@@ -644,6 +730,10 @@ La sensación sonora tiene un valor para cada frecuencia y se expresa en **decib
 ---
 
 {{< figure library="true" src="ondas-2Bach-fisica/escala-decibelios.svg" title="Escala de decibelios. Traducida y adaptada de https://tikz.net/wave_decibel_scale/." width="100%" lightbox="false" >}}
+
+---
+
+{{< figure library="true" src="ondas-2Bach-fisica/curvas-isofonicas.svg" title="[Curvas isofónicas](https://es.wikipedia.org/wiki/Curva_isofónica) según la norma [ISO 223:2003](https://www.iso.org/es/contents/data/standard/08/31/83117.html)." width="75%" lightbox="false" theme="light" >}}
 
 ---
 
@@ -655,8 +745,8 @@ Al igual que el resto de las ondas, uno de los fenómenos que experimenta el son
 
 El oído humano solo puede distinguir sonidos separados como mínimo 0.1&thinsp;s. Teniendo esto en cuenta, se diferencia:
 
-- [Eco](#/3/29)
-- [Reverberación](#/3/30)
+- [Eco](#/3/33)
+- [Reverberación](#/3/34)
 
 ---
 
@@ -670,7 +760,7 @@ La superficie de separación está próxima al foco/receptor, lo que provoca que
 
 ---
 
-Observa y escucha a **Armin Küpper** tocando un saxofón y usando una tubería como retardo natural y reverberación:
+Observa y escucha a [**Armin Küpper**](https://www.armins-art.de) tocando un saxofón y usando una tubería como retardo natural y reverberación:
 
 {{< youtube p8GcHoSIPDg >}}
 
@@ -678,10 +768,10 @@ Observa y escucha a **Armin Küpper** tocando un saxofón y usando una tubería 
 
 ### Aplicaciones del sonido
 
-- [Sonar](#/3/33)
-- [Ecografía](#/3/35)
-- [Litotricia](#/3/36)
-- [Usos industriales](#/3/37)
+- [Sonar](#/3/37)
+- [Ecografía](#/3/39)
+- [Litotricia](#/3/40)
+- [Usos industriales](#/3/41)
 
 (continúa hacia abajo)
 
@@ -713,7 +803,7 @@ Puede considerarse la evolución del sonar. El ecógrafo envía ultrasonidos a d
 
 #### Litotricia
 
-Se emplea la energía de los ultrasonidos para destruir cálculos biliares o renales. También se emplea para tratar dolores musculares o para limpiar material quirúrgico o de laboratorio.
+Se emplea la energía de los ultrasonidos para destruir cálculos biliares o renales. También se emplea para tratar dolores musculares, limpiar material quirúrgico o de laboratorio e incluso eliminar el sarro dental.
 
 ---
 
@@ -766,9 +856,9 @@ En muchas ocasiones es necesario emplear simultáneamente ambos tipos de medidas
 - [Refracción](#/4/10)
 - [Interferencias](#/4/17)
 - [Ondas estacionarias](#/4/24)
-- [Difracción](#/4/43)
-- [Efecto Doppler](#/4/54)
-- [Polarización](#/4/62)
+- [Difracción](#/4/48)
+- [Efecto Doppler](#/4/59)
+- [Polarización](#/4/67)
 
 (continúa hacia abajo)
 
@@ -1003,6 +1093,10 @@ Los nodos no vibran.
 
 ---
 
+La distancia entre dos vientres/nodos consecutivos es $\lambda/2$ y entre un vientre y un nodo consecutivo es $\lambda/4$.
+
+---
+
 #### Diferencia entre onda viajera y onda estacionaria
 
 La principal diferencia radica en que en el caso de las ondas estacionarias la energía no se propaga por el medio, como sucede con las ondas viajeras. Por el contrario, queda *confinada* entre los nodos de la onda.
@@ -1065,13 +1159,40 @@ $$
 <iframe loading=lazy src="https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html?locale=es" width="100%" height="500" scrolling="no" allowfullscreen></iframe>
 
 ---
-> **Aprende más** sobre la **relación** entre la **música** y la **física** en [esta excelente **entrada** del **blog**]({{< ref "/post/musica-fisica/index.md" >}}).
+
+o este **vídeo** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
+
+{{< youtube LmMu5m6Rb2c >}}
 
 ---
 
-Observa la **rotura** de una **copa** por **resonancia** en este magnífico **vídeo**:
+##### Fenómenos de resonancia
+
+Os dejamos aquí unos cuantos **vídeos** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
+
+---
+
+- [**Tubo** de **Rubens**](https://es.wikipedia.org/wiki/Tubo_de_Rubens):
+
+{{< youtube 3SrfEV3ajw4 >}}
+
+---
+
+- La **física** de los **tubos sonoros**:
+
+{{< youtube -AIvSnvnQpc >}}
+
+---
+
+- **Rotura** de una **copa** por **resonancia**
 
 {{< youtube tqSuJpJT8j0 >}}
+
+---
+
+- [**Placas** de **Chladni**](https://es.wikipedia.org/wiki/Figuras_de_Chladni)
+
+{{< youtube t-Bg8GiTW8M >}}
 
 ---
 

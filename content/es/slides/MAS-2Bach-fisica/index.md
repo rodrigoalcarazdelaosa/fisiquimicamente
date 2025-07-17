@@ -18,10 +18,10 @@ slides:
 
 # MAS
 
-- [Magnitudes](#/5)
-- [Ecuaciones](#/6)
-- [Dinámica del MAS](#/7)
-- [Energía del MAS](#/8)
+- [Magnitudes](#/6)
+- [Ecuaciones](#/7)
+- [Dinámica del MAS](#/8)
+- [Energía del MAS](#/9)
 
 Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
@@ -49,15 +49,21 @@ Son **ejemplos** de **MAS** el [movimiento de una masa unida a un muelle](#/7/1)
 
 ---
 
+Aquí el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos lo demuestra con esta máquina que dibuja ondas:
+
+{{< youtube W1qVW-Gvj7U >}}
+
+---
+
 {{% section %}}
 
 ## Magnitudes
 
-- [Amplitud *A*](#/5/1)
-- [Periodo *T*](#/5/2)
-- [Frecuencia *f*](#/5/3)
-- [Frecuencia angular *ω*](#/5/4)
-- [Fase inicial](#/5/5)
+- [Amplitud *A*](#/6/1)
+- [Periodo *T*](#/6/2)
+- [Frecuencia *f*](#/6/3)
+- [Frecuencia angular *ω*](#/6/4)
+- [Fase inicial](#/6/5)
 
 (continúa hacia abajo)
 
@@ -115,9 +121,9 @@ En el SI se mide en rad.
 
 ## Ecuaciones
 
-- [Posición](#/6/1)
-- [Velocidad](#/6/2)
-- [Aceleración](#/6/3)
+- [Posición](#/7/2)
+- [Velocidad](#/7/3)
+- [Aceleración](#/7/4)
 
 (continúa hacia abajo)
 
@@ -160,8 +166,8 @@ sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/
 
 ## Dinámica del MAS
 
-- [Ley de Hooke](#/7/1)
-- [Péndulo simple](#/7/6)
+- [Ley de Hooke](#/8/1)
+- [Péndulo simple](#/8/6)
 
 (continúa hacia abajo)
 
@@ -260,9 +266,9 @@ Puedes estudiar los **factores** que **influyen** en el **periodo** de un **pén
 
 ## Energía del MAS
 
-- [Energía potencial elástica](#/8/1)
-- [Energía cinética](#/8/3)
-- [Energía mecánica](#/8/5)
+- [Energía potencial elástica](#/9/1)
+- [Energía cinética](#/9/3)
+- [Energía mecánica](#/9/5)
 
 (continúa hacia abajo)
 

@@ -55,6 +55,10 @@ Son **ejemplos** de **MAS** el [movimiento de una masa unida a un muelle](#ley-d
 
 {{< youtube wSGNvD9cgF0 >}}
 
+Aquí el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos lo demuestra con esta máquina que dibuja ondas:
+
+{{< youtube W1qVW-Gvj7U >}}
+
 ## Magnitudes
 
 ### Amplitud *A*
