@@ -264,7 +264,7 @@ Se adopta el siguiente **criterio**:
 {{% callout warning %}}
 Hemos visto la **notación** más empleada pero también nos podemos encontrar:
 
-- En lugar de $\sin$ aparece $\cos$: todo es equivalente salvo en la fase inicial, pues están desfasadas $\pi/2$, ya que $\cos\varphi = \sin(\varphi+\pi/2)$.
+- En lugar de $\sin$ aparece $\cos$: todo es equivalente salvo en la fase inicial, pues están desfasadas $\pi/2$, ya que $\sin\varphi = \cos(\varphi-\pi/2); \cos\varphi = \sin(\varphi+\pi/2)$.
 - Normalmente el $\pm$ acompaña a la parte espacial ($\pm kx$) pero los anglosajones se lo ponen a la parte temporal ($\pm \omega t$). En cualquier caso, si hay $-$ se desplaza hacia la derecha.
 {{% /callout %}}
 
