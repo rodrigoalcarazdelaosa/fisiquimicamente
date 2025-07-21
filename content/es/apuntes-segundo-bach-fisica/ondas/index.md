@@ -121,7 +121,7 @@ Esta ecuación nos dice dónde se encuentra cada punto $x$ del medio en cada ins
 Las ondas armónicas presentan una **doble periodicidad**:
 
 Espacial
-: Representada por la **longitud de onda** $\lambda$. Es la distancia entre dos puntos  que se encuentran en el mismo estado de vibración (*en fase*). En el SI se mide en metros (m). Debe cumplirse que $y(x+n\lambda,t) = y(x,t)$, es decir, que la perturbación en un punto $x$ se repite cada $\lambda$ metros:
+: Representada por la **longitud de onda** $\lambda$. Es la distancia entre dos puntos  consecutivos que se encuentran en el mismo estado de vibración (*en fase*). En el SI se mide en metros (m). Debe cumplirse que $y(x+n\lambda,t) = y(x,t)$, es decir, que la perturbación en un punto $x$ se repite cada $\lambda$ metros:
 
 $$
 \begin{align*}
