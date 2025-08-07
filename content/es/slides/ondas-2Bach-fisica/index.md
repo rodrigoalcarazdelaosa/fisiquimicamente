@@ -856,9 +856,9 @@ En muchas ocasiones es necesario emplear simultáneamente ambos tipos de medidas
 - [Refracción](#/4/10)
 - [Interferencias](#/4/17)
 - [Ondas estacionarias](#/4/24)
-- [Difracción](#/4/48)
-- [Efecto Doppler](#/4/59)
-- [Polarización](#/4/67)
+- [Difracción](#/4/49)
+- [Efecto Doppler](#/4/60)
+- [Polarización](#/4/68)
 
 (continúa hacia abajo)
 
@@ -1163,6 +1163,14 @@ $$
 o este **vídeo** del [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com):
 
 {{< youtube LmMu5m6Rb2c >}}
+
+---
+
+El [***rolling shutter***](https://es.wikipedia.org/wiki/Rolling_shutter) nos permite ver los diferentes **modos** de **vibración** de las **cuerdas** de una **guitarra**:
+
+<div align="center">
+{{< x user="h_eecham" id="1829140685599191273" >}}
+</div>
 
 ---
 
