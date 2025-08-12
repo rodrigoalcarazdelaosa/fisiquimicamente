@@ -3,10 +3,10 @@
 widget = "features"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "☢️ Radiofísica"
-subtitle = "**Recursos** de **radiofísica** de la mano de [**Jésica Sánchez Mazón**](https://fisiquimicamente.com/equipo/jesica-sanchez-mazon/)"
+subtitle = "🧑‍🏫 Ciclos formativos"
 
 # Showcase personal skills or business features.
 #
@@ -15,24 +15,20 @@ subtitle = "**Recursos** de **radiofísica** de la mano de [**Jésica Sánchez M
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "profesor"
-  icon_link = "ciclos-formativos"
+  icon = "rayo"
+  icon_link = "radioterapia-dosimetria"
   icon_pack = "tgs"
-  name = "Ciclos formativos"
-  description = "[⚡ Radioterapia y Dosimetría](ciclos-formativos/radioterapia-dosimetria)<br>[🩻 Imagen para el Diagnóstico y Medicina Nuclear](ciclos-formativos/imagen-diagnostico-medicina-nuclear)"
+  name = "Radioterapia y Dosimetría"
+  description = ""
 
 [[feature]]
-  icon = "[🧑‍🔧](operador-IIRR)"
+  icon = "[🩻](imagen-diagnostico-medicina-nuclear)"
   icon_pack = "emoji"
-  name = "[Operador de IIRR](operador-IIRR)"
-  description = "[📝 Preguntas de examen](operador-IIRR/preguntas-examen) · [💡Consejos](operador-IIRR/consejos)"
+  name = "[Imagen para el Diagnóstico y Medicina Nuclear](imagen-diagnostico-medicina-nuclear)"
+  description = ""
 
-[[feature]]
-  icon = "[🏥](RFIR)"
-  icon_pack = "emoji"
-  name = "[Radiofísica Hospitalaria (RFIR)](RFIR)"
-  description = "⚡ Radioterapia (RT) · 🧪 Medicina Nuclear (MN) · [🛡️&nbsp;Protección Radiológica (PR)](RFIR/PR)"
-
+[design]
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.

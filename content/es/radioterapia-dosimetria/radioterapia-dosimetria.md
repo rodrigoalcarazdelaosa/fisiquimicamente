@@ -3,10 +3,10 @@
 widget = "features"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "☢️ Radiofísica"
-subtitle = "**Recursos** de **radiofísica** de la mano de [**Jésica Sánchez Mazón**](https://fisiquimicamente.com/equipo/jesica-sanchez-mazon/)"
+title = "🧑‍🏫 Ciclos formativos"
+subtitle = "⚡️ Radioterapia y Dosimetría"
 
 # Showcase personal skills or business features.
 #
@@ -15,24 +15,34 @@ subtitle = "**Recursos** de **radiofísica** de la mano de [**Jésica Sánchez M
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "profesor"
-  icon_link = "ciclos-formativos"
+  icon = "apuntes"
+  icon_link = "fundamentos-fisicos-equipos/"
   icon_pack = "tgs"
-  name = "Ciclos formativos"
-  description = "[⚡ Radioterapia y Dosimetría](ciclos-formativos/radioterapia-dosimetria)<br>[🩻 Imagen para el Diagnóstico y Medicina Nuclear](ciclos-formativos/imagen-diagnostico-medicina-nuclear)"
+  name = "[Fundamentos Físicos y Equipos](fundamentos-fisicos-equipos/)"
+  description = ""
 
 [[feature]]
-  icon = "[🧑‍🔧](operador-IIRR)"
+  icon = "[🌐](ingles-profesional)"
   icon_pack = "emoji"
-  name = "[Operador de IIRR](operador-IIRR)"
-  description = "[📝 Preguntas de examen](operador-IIRR/preguntas-examen) · [💡Consejos](operador-IIRR/consejos)"
+  name = "[Inglés Profesional](ingles-profesional)"
+  description = ""
 
 [[feature]]
-  icon = "[🏥](RFIR)"
-  icon_pack = "emoji"
-  name = "[Radiofísica Hospitalaria (RFIR)](RFIR)"
-  description = "⚡ Radioterapia (RT) · 🧪 Medicina Nuclear (MN) · [🛡️&nbsp;Protección Radiológica (PR)](RFIR/PR)"
+  icon = "radiofisica"
+  icon_link = "dosimetria-fisica-clinica/"
+  icon_pack = "tgs"
+  name = "[Dosimetría Física y Clínica](dosimetria-fisica-clinica/)"
+  description = ""
 
+[[feature]]
+  icon = "digitalizacion"
+  icon_link = "digitalizacion-aplicada-sectores-productivos/"
+  icon_pack = "tgs"
+  name = "[Digitalización Aplicada a los Sectores Productivos](digitalizacion-aplicada-sectores-productivos/)"
+  description = ""
+
+[design]
+  columns = "4"
 
 [design.background]
   # Apply a background color, gradient, or image.
