@@ -14,7 +14,7 @@ _build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://fisiquimicamente.com/recursos-fisica-quimica/radiofisica/ciclos-formativos/radioterapia-dosimetria/fundamentos-fisicos-equipos/TEMA1.pdf"
+external_link: "http://fisiquimicamente.com/recursos-fisica-quimica/radiofisica/ciclos-formativos/radioterapia-dosimetria/fundamentos-fisicos-equipos/TEMA1.pptx"
 
 links:
 - icon_pack: fas
