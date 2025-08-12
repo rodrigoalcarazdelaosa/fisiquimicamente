@@ -1,5 +1,6 @@
 ---
 title: Caracterización de las radiaciones y las ondas
+url: "/recursos-fisica-quimica/radiofisica/ciclos-formativos/radioterapia-dosimetria/fundamentos-fisicos-equipos/"
 summary: ""
 tags:
 - caracterización-radiaciones-ondas
