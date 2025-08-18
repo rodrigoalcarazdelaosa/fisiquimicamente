@@ -3,11 +3,11 @@ title: The Slow Mo Guys
 summary: Gav and Dan take on the world in Slow Motion!
 tags:
 - videos
-categories: 
+categories:
 - Physics
 - Chemistry
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

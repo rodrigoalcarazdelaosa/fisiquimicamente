@@ -3,10 +3,10 @@ title: MinutePhysics
 summary: "Simply put: cool physics and other sweet science."
 tags:
 - videos
-categories: 
+categories:
 - Physics
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

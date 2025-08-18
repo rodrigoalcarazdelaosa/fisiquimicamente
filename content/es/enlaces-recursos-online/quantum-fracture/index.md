@@ -3,10 +3,10 @@ title: QuantumFracture
 summary: ¡Ciencia! ¡y con animaciones! El lado más loco (y real) del Universo.
 tags:
 - vídeos
-categories: 
+categories:
 - Física
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

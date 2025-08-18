@@ -4,10 +4,10 @@ summary: Project whose goal is to bring the beauty of chemistry to the general p
 tags:
 - pac
 - videos
-categories: 
+categories:
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

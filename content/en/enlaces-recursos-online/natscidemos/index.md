@@ -8,7 +8,7 @@ categories:
 - "Physics"
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

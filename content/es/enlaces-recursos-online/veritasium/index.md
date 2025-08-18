@@ -3,11 +3,11 @@ title: Veritasium en español
 summary: Un elemento de la verdad. Doblaje de videos de ciencias e ingeniería.
 tags:
 - vídeos
-categories: 
+categories:
 - Física
 - Química
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

@@ -4,11 +4,11 @@ summary: Imágenes GIF animadas de experimentos científicos.
 tags:
 - fyq
 - gifs
-categories: 
+categories:
 - "Física"
 - "Química"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

@@ -4,10 +4,10 @@ summary: "Tabla Periódica interactiva con vídeos sobre cada elemento químico.
 tags:
 - tabla-periódica
 - vídeos
-categories: 
+categories:
 - "Química"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

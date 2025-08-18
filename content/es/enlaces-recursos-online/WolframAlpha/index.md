@@ -2,9 +2,9 @@
 title: Wolfram|Alpha
 summary: Inteligencia computacional.
 tags:
-categories: 
+categories:
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

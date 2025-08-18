@@ -3,10 +3,10 @@ title: MinutodeFísica
 summary: "En pocas palabras: física genial y ciencia interesante."
 tags:
 - vídeos
-categories: 
+categories:
 - Física
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

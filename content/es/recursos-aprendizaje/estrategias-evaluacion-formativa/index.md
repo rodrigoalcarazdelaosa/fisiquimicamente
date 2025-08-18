@@ -11,7 +11,7 @@ weight: 70
 image:
   preview_only: true
 
-_build:
+build:
   render: never
 
 links:

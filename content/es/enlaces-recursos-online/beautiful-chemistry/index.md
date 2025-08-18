@@ -4,10 +4,10 @@ summary: Proyecto cuyo objetivo es llevar la belleza de la química al público 
 tags:
 - fyq
 - vídeos
-categories: 
+categories:
 - "Química"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

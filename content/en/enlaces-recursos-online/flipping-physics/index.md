@@ -4,10 +4,10 @@ summary: A repository of Animated GIFs by Flipping Physics.
 tags:
 - pac
 - gifs
-categories: 
+categories:
 - "Physics"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

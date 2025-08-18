@@ -4,10 +4,10 @@ summary: A large collection of GIF animations and QuickTime movies designed to d
 tags:
 - pac
 - gifs
-categories: 
+categories:
 - "Physics"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

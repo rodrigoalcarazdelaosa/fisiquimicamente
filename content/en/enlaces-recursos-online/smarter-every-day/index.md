@@ -3,11 +3,11 @@ title: Smarter Every Day
 summary: Explore the world using science.
 tags:
 - videos
-categories: 
+categories:
 - Physics
 - Chemistry
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

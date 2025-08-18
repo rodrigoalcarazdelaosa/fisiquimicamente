@@ -3,9 +3,9 @@ title: Colorable
 summary: Take a set color palette and get contrast values for every possible combination.
 tags:
 - color
-categories: 
+categories:
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

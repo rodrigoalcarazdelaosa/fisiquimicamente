@@ -3,10 +3,10 @@ title: Tabla Periódica interactiva de la RSEQ
 summary: 'Tabla Periódica de los Elementos Químicos con enlaces a artículos publicados en la revista Anales de Química.'
 tags:
 - tabla-periódica
-categories: 
+categories:
 - "Química"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

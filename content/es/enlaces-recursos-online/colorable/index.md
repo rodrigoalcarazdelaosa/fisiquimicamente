@@ -3,9 +3,9 @@ title: Colorable
 summary: Comprueba el contraste de combinaciones de colores.
 tags:
 - color
-categories: 
+categories:
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

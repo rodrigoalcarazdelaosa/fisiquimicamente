@@ -3,11 +3,11 @@ title: Veritasium
 summary: An element of truth -- videos about science, education, and anything else I find interesting.
 tags:
 - videos
-categories: 
+categories:
 - Physics
 - Chemistry
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

@@ -3,11 +3,11 @@ title: brusspup
 summary: "Il·lusions òptiques, ciència i molt més!"
 tags:
 - vídeos
-categories: 
+categories:
 - Física
 - Química
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

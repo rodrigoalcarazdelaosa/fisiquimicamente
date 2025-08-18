@@ -3,10 +3,10 @@ title: Date un Voltio
 summary: Si tienes una mente curiosa, eres un friki de The Big Bang Theory  o quieres aprender Física y resolver tus dudas sobre esta materia, ¡este es tu canal!
 tags:
 - vídeos
-categories: 
+categories:
 - Física
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

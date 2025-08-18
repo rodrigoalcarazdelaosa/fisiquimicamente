@@ -3,11 +3,11 @@ title: Veritasium Català
 summary: Versió en català del canal oficial de Veritasium, canal de YouTube dedicat a la difusió científica creat per Derek Muller.
 tags:
 - vídeos
-categories: 
+categories:
 - Física
 - Química
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

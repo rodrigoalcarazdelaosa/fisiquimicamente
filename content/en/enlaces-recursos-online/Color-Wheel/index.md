@@ -3,9 +3,9 @@ title: Color Calculator
 summary: Your Handy Interactive Color Wheel.
 tags:
 - color
-categories: 
+categories:
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

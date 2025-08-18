@@ -3,11 +3,11 @@ title: Bruce Yeany
 summary: "Collection of classroom tested ideas, suggestions, projects, and experiments."
 tags:
 - videos
-categories: 
+categories:
 - Physics
 - Chemistry
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

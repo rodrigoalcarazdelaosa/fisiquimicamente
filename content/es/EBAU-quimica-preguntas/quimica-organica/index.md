@@ -1,6 +1,6 @@
 ---
 title: Química orgánica
-url: "recursos-fisica-quimica/ebau/quimica/por-temas/quimica-organica" 
+url: "recursos-fisica-quimica/ebau/quimica/por-temas/quimica-organica"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
 breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
@@ -16,7 +16,7 @@ weight: 9
 image:
   preview_only: true
 
-#_build:
+#build:
 #  render: never
 
 # Optional external URL for project (replaces project detail page).

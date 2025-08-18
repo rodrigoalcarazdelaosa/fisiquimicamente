@@ -3,10 +3,10 @@ title: Ptable
 summary: 'Ptable: The Interactive Periodic Table.'
 tags:
 - periodic-table
-categories: 
+categories:
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

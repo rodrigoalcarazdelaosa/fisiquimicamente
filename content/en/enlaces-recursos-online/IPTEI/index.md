@@ -3,10 +3,10 @@ title: IPTEI
 summary: IUPAC Periodic Table of the Elements and Isotopes.
 tags:
 - periodic-table
-categories: 
+categories:
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

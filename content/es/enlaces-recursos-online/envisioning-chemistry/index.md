@@ -4,10 +4,10 @@ summary: Exposición en línea que celebra la belleza de la química. Secuela de
 tags:
 - fyq
 - vídeos
-categories: 
+categories:
 - "Química"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

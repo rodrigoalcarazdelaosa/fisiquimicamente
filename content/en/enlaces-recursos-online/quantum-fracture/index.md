@@ -3,10 +3,10 @@ title: TheQuantumFracture
 summary: Physics! And explained with motion graphics! The craziest (and the realest) part of the Universe... Every 2 weeks..
 tags:
 - videos
-categories: 
+categories:
 - Physics
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

@@ -4,10 +4,10 @@ summary: Online exhibition that celebrates the beauty of chemistry. Sequel to th
 tags:
 - pac
 - videos
-categories: 
+categories:
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

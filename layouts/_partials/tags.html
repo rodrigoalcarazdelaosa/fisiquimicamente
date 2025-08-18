@@ -1,10 +1,10 @@
 <div class="article-tags">
-  {{ if .Param "categories" }}
+  {{ if .Params.categories }}
   📁&nbsp; {{ range $index, $value := sort (.GetTerms "categories") ".Page.Title" "asc" }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
   {{ end }}
-  {{ if .Param "tags" }}
+  {{ if .Params.tags }}
   🏷️&nbsp; {{ range $index, $value := sort (.GetTerms "tags") ".Page.Title" "asc" }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}

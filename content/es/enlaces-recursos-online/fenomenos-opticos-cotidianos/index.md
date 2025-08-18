@@ -4,10 +4,10 @@ summary: Imágenes de fenómenos ópticos cotidianos como apoyo de la docencia e
 tags:
 - fyq
 - óptica
-categories: 
+categories:
 - "Física"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

@@ -3,9 +3,9 @@ title: DeepL
 summary: Traductor basado en inteligencia artificial.
 tags:
 - traductor
-categories: 
+categories:
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

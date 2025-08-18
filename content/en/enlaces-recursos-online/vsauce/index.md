@@ -3,11 +3,11 @@ title: Vsauce
 summary: Our World is Amazing.
 tags:
 - videos
-categories: 
+categories:
 - Physics
 - Chemistry
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

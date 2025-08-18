@@ -3,10 +3,10 @@ title: Physics Girl
 summary: YouTube channel created by Dianna Cowern that adventures into the physical sciences with experiments, demonstrations, and cool new discoveries.
 tags:
 - videos
-categories: 
+categories:
 - Physics
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

@@ -3,11 +3,11 @@ title: Bruce Yeany
 summary: "Col·lecció d'idees, suggeriments, projectes i experiments provats a classe."
 tags:
 - vídeos
-categories: 
+categories:
 - Física
 - Química
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

@@ -3,10 +3,10 @@ title: Ptable
 summary: 'Ptable: La Tabla Periódica Interactiva.'
 tags:
 - tabla-periódica
-categories: 
+categories:
 - "Química"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

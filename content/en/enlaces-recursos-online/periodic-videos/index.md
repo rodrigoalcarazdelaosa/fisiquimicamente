@@ -4,10 +4,10 @@ summary: Short videos about every element on the periodic table, plus other cool
 tags:
 - periodic-table
 - videos
-categories: 
+categories:
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

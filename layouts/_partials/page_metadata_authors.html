@@ -1,24 +1,23 @@
 {{/* Display author list. */}}
 
-{{- $taxonomy := "authors" }}
-{{ if .Param $taxonomy }}
-👥{{ range $index, $value := (.GetTerms $taxonomy) }}
+{{ if .Params.authors }}
+👥{{ range $index, $value := (.GetTerms "authors") }}
       {{- /* Highlight the author's name? */ -}}
       {{- $highlight_name := .Page.Params.highlight_name | default false -}}
-	  
+
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
-	  {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
+	  {{/* Effectively check the page's `build` option as `build` is not exposed in Hugo's Page object. */}}
 	  {{- if .RelPermalink -}}
 		  {{- if and (eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "es") -}}
 	        <a href="/equipo/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
 		  {{- else if and (eq .RelPermalink "/author/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "en") -}}
 	        <a href="/team/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
       {{- else if and (eq .RelPermalink "/autor/rodrigo-alcaraz-de-la-osa/") (eq site.Language.Lang "ca") -}}
-      <a href="/equip/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>          
-		  {{- else -}}		  
+      <a href="/equip/rodrigo-alcaraz-de-la-osa/">{{.LinkTitle}}</a>
+		  {{- else -}}
 	        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
-		  {{- end -}}		
+		  {{- end -}}
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}

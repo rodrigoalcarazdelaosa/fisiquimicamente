@@ -16,7 +16,7 @@ weight: 1856
 image:
   preview_only: true
 
-_build:
+build:
   render: link
 
 # Optional external URL for project (replaces project detail page).

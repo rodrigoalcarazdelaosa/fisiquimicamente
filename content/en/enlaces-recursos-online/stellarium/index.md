@@ -4,10 +4,10 @@ summary: An online planetarium running in your web browser.
 tags:
 - gravitation
 - pac
-categories: 
+categories:
 - "Physics"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

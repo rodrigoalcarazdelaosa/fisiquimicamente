@@ -4,10 +4,10 @@ summary: Videos cortos sobre cada elemento de la Tabla Periódica, además de ot
 tags:
 - tabla-periódica
 - vídeos
-categories: 
+categories:
 - "Química"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

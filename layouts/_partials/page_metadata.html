@@ -61,24 +61,22 @@
     <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
   {{ end }}
 
-  {{ $taxonomy := "categories" }}
-  {{ if $page.Param $taxonomy }}
+  {{ if $page.Params.categories }}
   <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-folder mr-1"></i>     -->
-    📁&nbsp;{{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
+    📁&nbsp;{{- range $index, $value := sort ($page.GetTerms "categories") ".Page.Title" "asc" -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- end -}}
   </span>
   {{ end }}
 
-  {{ $taxonomy := "tags" }}
-  {{ if $page.Param $taxonomy }}
+  {{ if $page.Params.tags }}
   <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-tags mr-1"></i>     -->
-    🏷️&nbsp;{{- range $index, $value := sort ($page.GetTerms $taxonomy) ".Page.Title" "asc" -}}
+    🏷️&nbsp;{{- range $index, $value := sort ($page.GetTerms "tags") ".Page.Title" "asc" -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- end -}}

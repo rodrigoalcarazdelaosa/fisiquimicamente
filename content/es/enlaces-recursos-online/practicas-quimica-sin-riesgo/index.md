@@ -3,10 +3,10 @@ title: Prácticas de química sin riesgo
 summary: 'Promoción de la ciencia y la química en los centros de enseñanza de ESO y FP Básica.'
 tags:
 - fyq
-categories: 
+categories:
 - "Química"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

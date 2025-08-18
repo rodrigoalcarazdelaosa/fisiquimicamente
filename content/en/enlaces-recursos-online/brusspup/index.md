@@ -3,11 +3,11 @@ title: brusspup
 summary: "Optical illusions, Science and more!"
 tags:
 - videos
-categories: 
+categories:
 - Physics
 - Chemistry
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

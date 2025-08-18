@@ -5,10 +5,10 @@ tags:
 - fyq
 - juegos
 - vídeos
-categories: 
+categories:
 - "Física"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

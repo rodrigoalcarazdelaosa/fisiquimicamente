@@ -3,10 +3,10 @@ title: 3D Periodic Table
 summary: 'Interactive 3D Periodic Table by Google.'
 tags:
 - periodic-table
-categories: 
+categories:
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

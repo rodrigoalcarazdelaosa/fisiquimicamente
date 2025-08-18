@@ -3,10 +3,10 @@ title: ¡Un vídeo, Galileo!
 summary: Vídeos con experiencias de Física dirigidas especialmente a docentes de Educación Primaria y Secundaria como material útil para sus clases.
 tags:
 - vídeos
-categories: 
+categories:
 - Física
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

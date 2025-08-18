@@ -4,10 +4,10 @@ summary: Una gran colección de animaciones GIF y películas QuickTime diseñada
 tags:
 - fyq
 - gifs
-categories: 
+categories:
 - "Física"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

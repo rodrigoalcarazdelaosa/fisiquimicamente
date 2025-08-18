@@ -4,11 +4,11 @@ summary: Animated GIF Images of Science Experiments.
 tags:
 - pac
 - gifs
-categories: 
+categories:
 - "Physics"
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

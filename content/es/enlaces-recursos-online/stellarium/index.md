@@ -4,10 +4,10 @@ summary: Un planetario en línea que funciona en el navegador.
 tags:
 - gravitación
 - fyq
-categories: 
+categories:
 - "Física"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).

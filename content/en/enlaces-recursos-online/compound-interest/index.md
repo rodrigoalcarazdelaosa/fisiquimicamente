@@ -3,10 +3,10 @@ title: Compound Interest
 summary: Explorations of everyday chemical compounds. Especially interesting are its **infographics**.
 tags:
 - pac
-categories: 
+categories:
 - "Chemistry"
 
-_build:
+build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
