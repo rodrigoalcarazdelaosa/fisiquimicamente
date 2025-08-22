@@ -1088,6 +1088,26 @@
 			<li class="breadcrumb-item active" aria-current="page">📚 Fundamentos Físicos y Equipos</li>
 	    </ol>
 	    </nav>
+		{{ else if and (eq $block_type "portfolio") (eq $block.Params.subtitle "☢️ Dosimetría Física y Clínica") }}
+	    <nav aria-label="breadcrumb">
+	    <ol class="breadcrumb breadcrumb-widget">
+	    	<li class="breadcrumb-item"><a href="/"><img draggable="false" class="icon" alt="logo" src="/icon/logo-fisiquimicamente.svg" id="fisiquimicamente-breadcrumb"><script>
+			document.addEventListener('wcThemeChange', (e) => {
+			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
+			  if (e.detail.isDarkTheme()) {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente-dark.svg";
+			  } else {
+				document.getElementById("fisiquimicamente-breadcrumb").src="/icon/logo-fisiquimicamente.svg";
+			  }
+			  });
+		</script></a></li>
+	        <li class="breadcrumb-item"><a href="/recursos-fisica-quimica/">💼 Recursos FyQ</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica/">☢️ Radiofísica</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica/ciclos-formativos/">🧑‍🏫 Ciclos formativos</a></li>
+			<li class="breadcrumb-item"><a href="/recursos-fisica-quimica/radiofisica/ciclos-formativos/radioterapia-dosimetria">⚡️ Radioterapia y Dosimetría</a></li>
+			<li class="breadcrumb-item active" aria-current="page">☢️ Dosimetría Física y Clínica</li>
+	    </ol>
+	    </nav>
 		{{ else if and (eq $block_type "features") (eq $block.Params.subtitle "🩻 Imagen para el Diagnóstico y Medicina Nuclear") }}
 	    <nav aria-label="breadcrumb">
 	    <ol class="breadcrumb breadcrumb-widget">
