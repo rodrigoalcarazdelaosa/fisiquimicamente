@@ -240,7 +240,7 @@ $$
 \vec F_\mathrm g = -\frac{GMm}{r^2}\,\hat{\mathrm r}\quad\text{Unidad en el SI: N (newton)}
 $$
 
-donde $\hat{\mathrm r}$ es el [vector unitario](https://es.wikipedia.org/wiki/Vector_unitario) que va de $M$ a $m$ y $G = 6.67\times 10^{11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
+donde $\hat{\mathrm r}$ es el [vector unitario](https://es.wikipedia.org/wiki/Vector_unitario) que va de $M$ a $m$ y $G = 6.67\times 10^{-11}\,\mathrm N \,\mathrm m^2\,\mathrm{kg}^{-2}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), determinada experimentalmente por [Henry Cavendish](https://es.wikipedia.org/wiki/Henry_Cavendish) en 1798 utilizando una [balanza de torsión](https://es.wikipedia.org/wiki/Balanza_de_torsión).
 
 ---
 
