@@ -131,7 +131,7 @@ $$
 \Delta E = hcR_\mathrm H\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
 $$
 
-donde $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocidad de la luz en el vacío.
+donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck y $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocidad de la luz en el vacío.
 
 {{< spoiler text="¿Te gustan las <strong>matemáticas</strong> y quieres saber más sobre el <strong>modelo</strong> de <strong>Bohr</strong>, llegando a <strong>deducir</strong> la <strong>ecuación</strong> de <strong>Rydberg</strong>? Pincha aquí" >}}
 

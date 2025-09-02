@@ -139,7 +139,7 @@ $$
 \Delta E = hcR_\mathrm H\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
 $$
 
-on $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ és la velocitat de la llum en el buit.
+on $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ és la constant de Planck i $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ és la velocitat de la llum en el buit.
 
 {{% /section %}}
 
