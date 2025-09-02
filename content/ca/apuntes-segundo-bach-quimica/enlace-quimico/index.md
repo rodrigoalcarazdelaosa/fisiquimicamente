@@ -33,7 +33,7 @@ links:
   icon:
   name: ✏️ Exercicis
   url: enllac-quimic-exercicis.pdf
-  
+
 slides: enllac-quimic-2Batx-quimica
 
 math: true
@@ -103,7 +103,7 @@ $$
 U_\mathrm R = -\frac{N_\mathrm A M z^+ z^- e^2}{4\pi\epsilon_0 r_0}\left(1-\frac{1}{n}\right),
 $$
 
-on $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ és la constant d'Avogadro; $M$ és la constant de Madelung, relacionada amb la geometria del cristall; $z^+$ i $z^-$ són els números de càrrega del catió i de l'anió, respectivament; $e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5<n<12$ és l'exponent de Born (experimental).
+on $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ és la constant d'Avogadro; $M$ és la constant de Madelung, relacionada amb la geometria del cristall; $z^+$ i $z^-$ són els números de càrrega del catió i de l'anió, respectivament; $e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5 < n < 12$ és l'exponent de Born (experimental).
 
 Es comprova que el mòdul de l'**energia** de **xarxa** és:
 
@@ -195,7 +195,7 @@ Es tracta d'enllaços en els quals un sol element (***donador***) aporta el pare
 
 La **ressonància** és una manera de descriure l'enllaç en unes certes molècules mitjançant la combinació de diverses **estructures ressonants** el conjunt de les quals es coneix com un **híbrid** de **ressonància**. És especialment útil per a descriure els **electrons deslocalitzats** (enllaços $=$ en diferents posicions) en unes certes molècules o ions poliatòmics.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia-cat.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Benzene_delocalization.svg." lightbox="false" width="100%" >}}		
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia-cat.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Benzene_delocalization.svg." lightbox="false" width="100%" >}}
 
 ### Propietats de les substàncies covalents moleculars
 

@@ -87,7 +87,7 @@ Angle format per tres àtoms enllaçats consecutivament.
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad-cat.svg" lightbox="false" width="100%" >}}
 
 ---
-		
+
 Una molècula serà polar si el moment dipolar total (suma vectorial) és diferent de zero.
 
 ---
@@ -153,7 +153,7 @@ on $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ és la constan
 
 ---
 
-$e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5<n<12$ és l'exponent de Born (experimental).
+$e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5 < n < 12$ és l'exponent de Born (experimental).
 
 ---
 
@@ -305,7 +305,7 @@ La **ressonància** és una manera de descriure l'enllaç en unes certes molècu
 
 És especialment útil per a descriure els **electrons deslocalitzats** (enllaços $=$ en diferents posicions) en unes certes molècules o ions poliatòmics.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia-cat.svg" lightbox="false" width="100%" >}}		
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia-cat.svg" lightbox="false" width="100%" >}}
 
 ---
 
@@ -566,7 +566,7 @@ Explora les **formes moleculars** mitjançant la **construcció** de **molècule
 {{% section %}}
 
 ## Forces intermoleculars
-Les **forces intermoleculars** són les **forces** que existeixen **entre** les **molècules**, incloent les forces d'atracció o repulsió que actuen entre les molècules i altres tipus de partícules veïnes, per exemple, àtoms o ions. 
+Les **forces intermoleculars** són les **forces** que existeixen **entre** les **molècules**, incloent les forces d'atracció o repulsió que actuen entre les molècules i altres tipus de partícules veïnes, per exemple, àtoms o ions.
 
 (continua cap avall)
 

@@ -86,7 +86,7 @@ Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a u
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" lightbox="false" width="100%" >}}
 
 ---
-		
+
 Una molécula será polar si el momento dipolar total (suma vectorial) es distinto de cero.
 
 ---
@@ -152,7 +152,7 @@ donde $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ es la const
 
 ---
 
-$e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ es la carga elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ es la permitividad eléctrica del vacío; $r_0$ es la distancia al ion más cercano; y $5<n<12$ es el exponente de Born.
+$e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ es la carga elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ es la permitividad eléctrica del vacío; $r_0$ es la distancia al ion más cercano; y $5 < n < 12$ es el exponente de Born.
 
 ---
 
@@ -304,7 +304,7 @@ La **resonancia** es una forma de describir el enlace en ciertas moléculas medi
 
 Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas o iones poliatómicos.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia.svg" lightbox="false" width="100%" >}}		
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia.svg" lightbox="false" width="100%" >}}
 
 ---
 
