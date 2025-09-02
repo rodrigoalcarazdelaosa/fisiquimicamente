@@ -107,18 +107,20 @@ donde $\sin\phi$ y  $\cos\phi$ son el seno y el coseno del ángulo $\phi$ de rot
 Como ya hemos dicho, aquí ya no sirve nuestra intuición física. Debemos recurrir a las matemáticas, más concretamente a la [**teoría de grupos**](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_grupos). Pero antes de nada, ¿qué es un [**grupo**](https://es.wikipedia.org/wiki/Grupo_(matemática))? Un grupo es una estructura algebraica formada por un conjunto cualquiera con una ley de composición interna. Una ley de composición interna es una aplicación que asocia una pareja de elementos de un conjunto a un único valor de ese conjunto. El conjunto tiene que cumplir **tres condiciones**:
 
 1. Tiene que ser [**asociativo**](https://es.wikipedia.org/wiki/Asociatividad_(álgebra)), lo que significa que puedes operar en cualquier orden sin cambiar el resultado:
+
   $$
-  x\*(y\*z) = (x\*y)\*z\quad \forall x,y,z\in G
+  x*(y*z) = (x*y)*z\quad \forall x,y,z\in G
   $$
+
   donde $*$ representa la aplicación (operación).
 2. Que su [**elemento neutro**](https://es.wikipedia.org/wiki/Elemento_neutro) no lo cambie: cualquier elemento del grupo operado por el elemento neutro da como resultado el mismo elemento:
   $$
-  e\*x = x\*e = x,
+  e*x = x*e = x,
   $$
   donde $e$ es el elemento neutro.
 3. Que la aplicación por su [**simétrico**](https://es.wikipedia.org/wiki/Elemento_simétrico) dé el elemento neutro: cualquier elemento del grupo operado por su simétrico da el elemento neutro:
   $$
-  x\*x^{-1} = x^{-1}\*x = e,
+  x*x^{-1} = x^{-1}*x = e,
   $$
   donde $x^{-1}$ es el elemento inverso de $x$.
 
@@ -183,6 +185,7 @@ $$
 
 Como puede verse, los conmutadores entre los diferentes operadores del espín son no nulos, lo que implica que son incompatibles: la medida de uno te rompe la del otro. Igual que pasa con la posición y el momento, es algo que [sucede con frecuencia en mecánica cuántica](https://es.wikipedia.org/wiki/Relación_de_indeterminación_de_Heisenberg).
 
+$$
 \begin{align*}
 \left[S_x,S_z\right] &= \begin{pmatrix}
 0 & \dfrac{\hbar}{2} \\\\
@@ -215,6 +218,7 @@ Como puede verse, los conmutadores entre los diferentes operadores del espín so
 \dfrac{i\hbar}{2} & 0
 \end{pmatrix}
 \end{align*}
+$$
 
 Estos operadores nos van a describir la rotación del espacio de los espínes y, por tanto, es lo que necesitamos para trabajar con ellos. En el caso del electrón (espín ½) las matrices son dos por dos, si el espín fuese 1 la matriz sería tres por tres, y así sucesivamente.
 
