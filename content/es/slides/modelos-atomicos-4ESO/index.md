@@ -177,7 +177,9 @@ Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de
 
 ---
 
-{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H-em.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H-abs.svg" title="**Espectro** discreto de **absorción** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
 
 ---
 

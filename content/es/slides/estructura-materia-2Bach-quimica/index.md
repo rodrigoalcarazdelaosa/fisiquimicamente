@@ -97,7 +97,65 @@ Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de
 
 ---
 
-{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
+#### Espectros atómicos
+
+- [Emisión](#/1/13)
+- [Absorción](#/1/18)
+
+(continúa hacia abajo)
+
+👇
+
+---
+
+##### Emisión
+
+El espectro de emisión atómica de un elemento es único y está formado por un conjunto
+de líneas luminosas correspondientes a las ondas electromagnéticas emitidas por átomos
+de ese elemento, cuando se le comunica energía.
+
+---
+
+Una muestra gaseosa de átomos de un
+elemento contenidos en un tubo de vacío, se excita mediante una descarga eléctrica o
+calor. Cuando los átomos excitados de dicho elemento vuelven a su estado fundamental,
+emiten la energía absorbida en forma de radiación electromagnética.
+
+---
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/espectro-em.svg" title="Dispositivo experimental para observar el **espectro** discreto de **emisión** de un elemento químico." lightbox="false" width="100%" >}}
+
+---
+
+{{< vimeo 690918333 >}}
+
+---
+
+{{< vimeo 690916797 >}}
+
+---
+
+##### Absorción
+
+El espectro de absorción atómica de un elemento es único y corresponde a un conjunto
+de líneas negras correspondientes a las ondas electromagnéticas que han sido absorbidas
+por átomos de ese elemento, cuando se irradia la muestra con un haz de luz blanca.
+
+---
+
+Se hace incidir dicha luz sobre átomos en estado gaseoso contenidos en un tubo de vacío. La
+energía absorbida es empleada por el átomo para realizar transiciones electrónicas de los
+electrones desde el estado fundamental hacia estados excitados de mayor energía.
+
+---
+
+{{< figure library="true" src="estructura-materia-2Bach-quimica/espectro-abs.svg" title="Dispositivo experimental para observar el **espectro** discreto de **absorción** de un elemento químico." lightbox="false" width="100%" >}}
+
+---
+
+{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H-em.svg" title="**Espectro** discreto de **emisión** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H-abs.svg" title="**Espectro** discreto de **absorción** del **hidrógeno** (H)." lightbox="false" width="100%" >}}
 
 ---
 

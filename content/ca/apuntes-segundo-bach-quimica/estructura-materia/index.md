@@ -74,7 +74,9 @@ La **integritat** del **nucli**[^1] i la **inestabilitat** de les **òrbites ele
 
 Proposat el **1913** per Niels **Bohr** per **explicar** l'**estabilitat** de la **matèria** i els **característics espectres** d'emissió i absorció dels **gasos**.
 
-{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H.svg" title="**Espectre** discret d'**emissió** de l'**hidrogen** (H)." lightbox="false" width="100%" >}}
+{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H-em.svg" title="**Espectre** discret d'**emissió** de l'**hidrogen** (H)." lightbox="false" width="100%" >}}
+
+{{< figure library="true" src="modelos-atomicos-4ESO/espectro-H-abs.svg" title="**Espectre** discret d'**absorció** de l'**hidrogen** (H)." lightbox="false" width="100%" >}}
 
 {{< spoiler text="Vols veure com són els <strong>espectres d'emissió</strong> de la resta d'<strong>elements</strong> químics de la taula periòdica? Clica aquí" >}}
 
