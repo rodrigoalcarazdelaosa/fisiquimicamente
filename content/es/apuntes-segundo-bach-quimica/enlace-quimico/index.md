@@ -185,8 +185,8 @@ Las estructuras de Lewis muestran cada átomo y su posición en la estructura de
 1. Dibujar la molécula de la forma más simétrica posible, colocando los elementos más electronegativos en los extremos.
 2. Rodear cada elemento del número de electrones de valencia ($N_\mathrm v$).
 3. Calcular el número máximo de electrones de valencia cumpliendo la regla del octeto ($N_\mathrm{máx}$).
-4. Calcular el número de electrones enlazantes ($N_\mathrm{e} = N_\mathrm{máx} - N_\mathrm{v}$).
-5. Calcular el número de electrones no enlazantes ($N_\mathrm{ne} = N_\mathrm{v} - N_\mathrm{e}$).
+4. Calcular el número de electrones enlazados ($N_\mathrm{e} = N_\mathrm{máx} - N_\mathrm{v}$).
+5. Calcular el número de electrones no enlazados ($N_\mathrm{ne} = N_\mathrm{v} - N_\mathrm{e}$).
 
 {{< /spoiler >}}
 
