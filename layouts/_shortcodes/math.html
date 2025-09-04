@@ -1,4 +1,4 @@
-{{- /* Last modified: 2025-01-08T18:31:25-08:00 */}}
+{{- /* Last modified: 2025-04-25T11:05:22-07:00 */}}
 
 {{- /*
 Copyright 2025 Veriphor, LLC
@@ -48,7 +48,7 @@ References:
 */}}
 
 {{- /* Verify minimum required version. */}}
-{{- $minHugoVersion := "0.141.0" }}
+{{- $minHugoVersion := "0.147.0" }}
 {{- if lt hugo.Version $minHugoVersion }}
   {{- errorf "The %q shortcode requires Hugo v%s or later." .Name $minHugoVersion }}
 {{- end }}

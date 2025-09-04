@@ -236,6 +236,8 @@ Tiene un espectro muy característico, inversamente relacionado con la intensida
 
 El **fallo** de la **teoría clásica** vigente a la hora de explicar la forma de este espectro se conoce como la [**catástrofe ultravioleta**](https://es.wikipedia.org/wiki/Catástrofe_ultravioleta).
 
+{{< youtube tqoum6xr-FA >}}
+
 **Max Planck** fue quien consiguió, en 1900, explicar el espectro del cuerpo negro, dando así **origen** a la **teoría cuántica**.
 
 Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **simulación**:
@@ -275,6 +277,8 @@ El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones**
 \end{align*}
 
 donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck, $\nu$ es la frecuencia de la radiación incidente, $\nu_0$ es la frecuencia umbral (cuya energía asociada, $\phi = h \nu_0$ se denomina **función** de **trabajo** o trabajo de extracción) y $E_\mathrm c = h\left(\nu-\nu_0\right)$ es la energía cinética máxima de los fotoelectrones, emitidos siempre que se cumpla $\nu \geq \nu_0$.
+
+{{< youtube 5CLj9uJPQKg >}}
 
 {{% callout note %}}
 Si quieres aprender más sobre el **efecto fotoeléctrico** te recomendamos echar un vistazo a [esta estupenda **simulación**](https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&locale=es).
