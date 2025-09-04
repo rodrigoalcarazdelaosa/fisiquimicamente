@@ -48,6 +48,10 @@ Al **1897**, J.J. **Thomson** duu a terme el seu famós **experiment** del **tub
 
 ---
 
+{{< youtube F0I-11R_IHg >}}
+
+---
+
 ### Resultats de l'experiment
 
 - Els **raigs catòdics** s'**originaven** al **càtode** i viatjaven cap a l'ànode.

@@ -46,6 +46,8 @@ Al **1897**, J.J. **Thomson** duu a terme el seu famós **experiment** del **tub
 
 {{< figure library="true" src="modelos-atomicos-4ESO/experimento-rayos-catodicos-cat.svg" title="Thomson va aplicar un **alt voltatge** als elèctrodes d'un **tub** de **descàrrega** que contenia **gas** a **baixa pressió**. En col·locar una **pantalla fluorescent** a l'ànode (elèctrode positiu), va observar **centelleigs verds**, produïts pels anomenats **raigs catòdics** (originats al càtode). Traduïda i adaptada de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/electron-in-chemistry." lightbox="false" width="100%" >}}
 
+{{< youtube F0I-11R_IHg >}}
+
 ### Resultats de l'experiment
 Els **resultats** de l'**experiment** van ser:
 
