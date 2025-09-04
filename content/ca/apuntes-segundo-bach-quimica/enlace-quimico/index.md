@@ -173,15 +173,15 @@ Les estructures de Lewis mostren cada àtom i la seva posició en l'estructura d
 
 ##### Aigua (H<sub>2</sub>O)
 
-{{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-H2O.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Oxigen (O<sub>2</sub>)
 
-{{< figure library="true" src="enlace-quimico-4ESO/Lewis-O2.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-O2.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Diòxid de carboni (CO<sub>2</sub>)
 
-{{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/Lewis-CO2.svg" lightbox="false" width="100%" theme="light" >}}
 
 ### Enllaç covalent coordinat o datiu
 
@@ -189,13 +189,13 @@ Es tracta d'enllaços en els quals un sol element (***donador***) aporta el pare
 
 [^1]: A tots els **aquo-complexes metàl·lics**, [M(H<sub>2</sub>O)<sub>*n*</sub>]<sup>*m*+</sup>, l'enllaç entre l'aigua i el catió metàl·lic es descriu com un **enllaç covalent coordinat**.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/enlace-coordinado-cat.svg" title="El catió H<sup>+</sup> no té electrons per a compartir, per la qual cosa el N i l'O aporten el parell d'electrons. L'enllaç covalent coordinat o datiu es representa amb una fletxa &#8594;, que va des de l'àtom donador a l'àtom acceptor." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/enlace-coordinado-cat.svg" title="El catió H<sup>+</sup> no té electrons per a compartir, per la qual cosa el N i l'O aporten el parell d'electrons. L'enllaç covalent coordinat o datiu es representa amb una fletxa &#8594;, que va des de l'àtom donador a l'àtom acceptor." lightbox="false" width="100%" theme="light" >}}
 
 ### Ressonància
 
 La **ressonància** és una manera de descriure l'enllaç en unes certes molècules mitjançant la combinació de diverses **estructures ressonants** el conjunt de les quals es coneix com un **híbrid** de **ressonància**. És especialment útil per a descriure els **electrons deslocalitzats** (enllaços $=$ en diferents posicions) en unes certes molècules o ions poliatòmics.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia-cat.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Benzene_delocalization.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia-cat.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Benzene_delocalization.svg." lightbox="false" width="100%" theme="light" >}}
 
 ### Propietats de les substàncies covalents moleculars
 
@@ -229,53 +229,53 @@ La **Teoria de Repulsió de Parells d'Electrons de la Capa de València** (TRPEC
 
 ##### Lineal
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-lineal-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-lineal-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Trigonal plana
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-trigonal-plana-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-trigonal-plana-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Angular
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-angular-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-angular-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Tetraèdrica
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-tetraedrica-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-tetraedrica-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Piramidal trigonal
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-piramidal-trigonal-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-piramidal-trigonal-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Bipiramidal trigonal
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-bipiramidal-trigonal-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-bipiramidal-trigonal-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Balancí
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-balancin-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-balancin-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Forma de T
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-forma-T-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-forma-T-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Octaèdrica
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-octaedrica-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-octaedrica-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Piramidal quadrada
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-piramidal-cuadrada-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-piramidal-cuadrada-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ##### Quadrada plana
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-cuadrada-plana-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-TRPECV-cuadrada-plana-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ### TEV
 
 La **Teoria de l'Enllaç de València** (TEV) es basa en el fet que els e<sup>&ndash;</sup> compartits es troben en una zona de **solapament orbital**:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV-cat.svg" title="També es pot donar un solapament frontal entre orbitals s, p i qualsevol de les seves hibridacions (sp, sp<sup>2</sup> i sp<sup>3</sup>). Imatges adaptades de https://www.coursehero.com/sg/general-chemistry/valence-bond-theory/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV-cat.svg" title="També es pot donar un solapament frontal entre orbitals s, p i qualsevol de les seves hibridacions (sp, sp<sup>2</sup> i sp<sup>3</sup>). Imatges adaptades de https://www.coursehero.com/sg/general-chemistry/valence-bond-theory/." lightbox="false" width="100%" theme="light" >}}
 
 #### Promoció electrònica
 
@@ -295,7 +295,7 @@ Consisteix a aportar energia extra als electrons aparellats de la capa de valèn
 
 La **hibridació** consisteix a combinar orbitals atòmics de l'àtom central per a formar **orbitals híbrids** energèticament iguals i orientats en la direcció de l'enllaç.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-cat.svg" title="Imatges preses de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-cat.svg" title="Imatges preses de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/." lightbox="false" width="100%" theme="light" >}}
 
 #### Exemples
 
@@ -303,25 +303,25 @@ La **hibridació** consisteix a combinar orbitals atòmics de l'àtom central pe
 
 El beril·li no té electrons desaparellats pel que es produeix promoció electrònica i hibridació perquè pugui formar dos enllaços Be&mdash;Cl. Cadascun d'aquests **híbrids sp** se solapa frontalment amb un orbital p del clor, formant dos enllaços sigma:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BeCl2.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BeCl2.svg" lightbox="false" width="100%" theme="light" >}}
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-BeCl2.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-BeCl2.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" theme="light" >}}
 
 ##### sp<sup>2</sup>: BF<sub>3</sub>
 
 El bor només té un electró desaparellat però necessita tres, per la qual cosa es produeix promoció electrònica i hibridació perquè pugui formar tres enllaços B&mdash;F. Cadascun d'aquests **híbrids sp<sup>2</sup>** se solapa frontalment amb un orbital p del fluor, formant tres enllaços sigma:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BF3.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-BF3.svg" lightbox="false" width="100%" theme="light" >}}
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-BF3.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-BF3.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" theme="light" >}}
 
 ##### sp<sup>3</sup>: CH<sub>4</sub>
 
 El carboni només té dos electrons desaparellats però necessita quatre, per la qual cosa es produeix promoció electrònica i hibridació perquè pugui formar quatre enllaços C&mdash;H. Cadascun d'aquests **híbrids sp<sup>3</sup>** se solapa frontalment amb un orbital s de l'hidrogen, formant quatre enllaços sigma:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-CH4.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-CH4.svg" lightbox="false" width="100%" theme="light" >}}
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-CH4.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-CH4.svg" title="Adaptada de http://www.organicmystery.com/MolecularStructure/Hybridisation.php." lightbox="false" width="100%" theme="light" >}}
 
 ##### Enllaços múltiples
 
@@ -329,17 +329,17 @@ El carboni només té dos electrons desaparellats però necessita quatre, per la
 
 Cada carboni necessita formar un enllaç doble (amb l'altre C) i dos enllaços simples (amb H), per la qual cosa es necessita promoció electrònica i una hibridació sp<sup>2</sup> per a tenir també un orbital pur p amb el qual formar un enllaç $\pi$ (solapament lateral).
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-eteno.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-eteno.svg" lightbox="false" width="100%" theme="light" >}}
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-eteno-cat.svg" title="Cada orbital sp<sup>2</sup> del carboni solapa frontalment ($\sigma$) amb dos orbitals s de l'H i l'orbital sp<sup>2</sup> de l'altre carboni. A més a més, els orbitals p<sub><em>z</em></sub> de cada carboni solapan lateralment entre si ($\pi$) per formar el doble enllaç C=C. Adaptada de https://chem.libretexts.org/Courses/Colorado_State_University/Chem_476%3A_Physical_Chemistry_II_(Levinger)/Chapters/10%3A_Bonding_in_Polyatomic_Molecules/10.5%3A_The_Pi-Electron_Approximation_of_Conjugated_Hydrocarbons." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-eteno-cat.svg" title="Cada orbital sp<sup>2</sup> del carboni solapa frontalment ($\sigma$) amb dos orbitals s de l'H i l'orbital sp<sup>2</sup> de l'altre carboni. A més a més, els orbitals p<sub><em>z</em></sub> de cada carboni solapan lateralment entre si ($\pi$) per formar el doble enllaç C=C. Adaptada de https://chem.libretexts.org/Courses/Colorado_State_University/Chem_476%3A_Physical_Chemistry_II_(Levinger)/Chapters/10%3A_Bonding_in_Polyatomic_Molecules/10.5%3A_The_Pi-Electron_Approximation_of_Conjugated_Hydrocarbons." lightbox="false" width="100%" theme="light" >}}
 
 ###### Acetilè (CH&equiv;CH)
 
 Cada carboni necessita formar un enllaç triple (amb l'altre C) i un enllaç simple (amb H), per la qual cosa es necessita promoció electrònica i una hibridació sp per a tenir dos orbitals purs p amb els quals formar dos enllaços $\pi$ (solapament lateral).
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-acetileno.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/ejemplos-hibridacion-acetileno.svg" lightbox="false" width="100%" theme="light" >}}
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-acetileno-cat.svg" title="L'enllaç triple de l'acetilè consisteix en un enllaç $\sigma$ (sp&ndash;s) i dos enllaços $\pi$ (p&ndash;p). Adaptada de https://www.coursehero.com/sg/organic-chemistry/structure-of-alkynes/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-acetileno-cat.svg" title="L'enllaç triple de l'acetilè consisteix en un enllaç $\sigma$ (sp&ndash;s) i dos enllaços $\pi$ (p&ndash;p). Adaptada de https://www.coursehero.com/sg/organic-chemistry/structure-of-alkynes/." lightbox="false" width="100%" theme="light" >}}
 
 ### Simulació
 
@@ -353,7 +353,7 @@ Les **forces intermoleculars** són les **forces** que existeixen **entre** les 
 
 ### Forces de van der Waals
 
-{{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares-cat.svg" title="**Atracció intermolecular** entre molècules de **clorur d'hidrogen**, HCl. Traduïda i adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-4ESO/fuerzas-intermoleculares-cat.svg" title="**Atracció intermolecular** entre molècules de **clorur d'hidrogen**, HCl. Traduïda i adaptada de https://www.coursehero.com/sg/organic-chemistry/intermolecular-forces/." lightbox="false" width="100%" theme="light" >}}
 
 Es poden donar entre **molècules polars** (dipol-dipol, més fortes com més gran sigui la polaritat de la molècula), i **apolars** (anomenades **forces** de **dispersió** de **London**, més fortes com més grans i massives són les molècules involucrades).
 
@@ -369,4 +369,4 @@ Els **enllaços** d'**hidrogen** són **responsables** de:
 - L'**estructura** de **proteïnes** i **àcids nucleics**, com la **doble hèlix** de l'**ADN** 🧬.
 - L'**estructura** de **polímers**.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/comparacion-fortaleza-enlaces-cat.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/comparacion-fortaleza-enlaces-cat.svg" lightbox="false" width="100%" theme="light" >}}
