@@ -59,11 +59,12 @@ math: true
 {{% toc %}}
 
 ## Modelos atómicos
-### Dalton
 
 {{% callout note %}}
-**Aprende más** sobre **John Dalton** echando un vistazo a su **biografía científica** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
+**Aprende más** sobre **John Dalton**, **J.J. Thomson**, **Ernest Rutherford** y **Niels Bohr** echando un vistazo a sus **biografías científicas** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
 {{% /callout %}}
+
+### Dalton
 
 Basándose en las ideas de **Demócrito**, John **Dalton** propuso este modelo a principios del siglo XIX, considerando al **átomo** como una **esfera maciza indivisible**.
 

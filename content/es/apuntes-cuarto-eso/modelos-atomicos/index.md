@@ -43,6 +43,10 @@ slides: modelos-atomicos-4ESO
 
 {{% toc %}}
 
+{{% callout note %}}
+**Aprende más** sobre **J.J. Thomson**, **Ernest Rutherford** y **Niels Bohr** echando un vistazo a sus **biografías científicas** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
+{{% /callout %}}
+
 ## Descubrimiento del electrón
 En **1897**, J.J. **Thomson** lleva a cabo su famoso **experimento** del **tubo** de **rayos catódicos**, con el que **descubre** el **electrón**, la **partícula elemental** con **carga** eléctrica **negativa**.
 

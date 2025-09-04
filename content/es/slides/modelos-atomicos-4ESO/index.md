@@ -18,15 +18,19 @@ slides:
 
 # Modelos atómicos
 
-- [Descubrimiento del electrón](#/1)
-- [Modelo de Thomson](#/2)
-- [Descubrimiento del núcleo atómico](#/3)
-- [Modelo de Rutherford](#/4)
-- [Modelo de Bohr](#/5)
+- [Descubrimiento del electrón](#/2)
+- [Modelo de Thomson](#/3)
+- [Descubrimiento del núcleo atómico](#/4)
+- [Modelo de Rutherford](#/5)
+- [Modelo de Bohr](#/6)
 
 Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 </section>
+
+---
+
+> **Aprende más** sobre **J.J. Thomson**, **Ernest Rutherford** y **Niels Bohr** echando un vistazo a sus **biografías científicas** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
 
 ---
 

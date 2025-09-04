@@ -107,8 +107,14 @@ $$
 donde $A$ es el número másico, $Z$ es el número atómico, $\mathrm{X}$ es el símbolo del elemento químico y $\mathrm c$ es la carga eléctrica del átomo (se omite en caso de ser cero ---átomo neutro).
 
 ## Modelos atómicos
+
 ### Modelo de Thomson
-En 1897, **Thomson descubre** la existencia del **electrón**, la partícula elemental con **carga** eléctrica **negativa**. Postula un modelo que se conoce como el modelo del *pastel de pasas*:
+
+{{% callout note %}}
+**Aprende más** sobre **J.J. Thomson** echando un vistazo a su **biografía científica** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
+{{% /callout %}}
+
+En 1897, [**Thomson descubre** la existencia del **electrón**]({{< relref "apuntes-cuarto-eso/modelos-atomicos/index.md#descubrimiento-del-electrón" >}}), la partícula elemental con **carga** eléctrica **negativa**. Postula un modelo que se conoce como el modelo del *pastel de pasas*:
 
 - El **átomo** está formado por una ***nube*** esférica con **carga positiva**.
 - Los **electrones**, con carga negativa, se encuentran **incrustados** por toda la **esfera**, como las **pasas** en un **pastel**.
@@ -117,6 +123,10 @@ En 1897, **Thomson descubre** la existencia del **electrón**, la partícula ele
 {{< figure library="true" src="estructura-atomica-2ESO-3ESO/Thomson.svg" title="Modelo de Thomson, también conocido como modelo del *pastel de pasas*." lightbox="false" width="100%" >}}
 
 ### Modelo de Rutherford
+
+{{% callout note %}}
+**Aprende más** sobre **Ernest Rutherford** echando un vistazo a su **biografía científica** en nuestra sección de [**Historia de la Ciencia**](https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/).
+{{% /callout %}}
 
 #### Experimento de la lámina de oro
 
