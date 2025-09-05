@@ -337,7 +337,7 @@ Consiste en que el comportamiento de los **objetos cuánticos** no puede ser des
 
 ---
 
-A partir de **experimentos** de **difracción** de **electrones**, **Louis de Broglie** fue el primero que propuso la siguiente **hipótesis**:
+A partir de **experimentos** de **difracción** de **electrones**, [**Louis de Broglie**](https://es.wikipedia.org/wiki/Louis-Victor_de_Broglie) fue el primero que propuso la siguiente **hipótesis**:
 
 > Toda partícula de masa $m$ moviéndose a una velocidad $v$ tiene asociada una onda cuya longitud de onda, $\lambda$, viene dada por
 	$$

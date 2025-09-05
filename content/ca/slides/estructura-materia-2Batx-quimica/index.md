@@ -255,7 +255,7 @@ Consisteix en el fet que el comportament dels **objectes quàntics** no pot ser 
 
 ---
 
-A partir d’**experiments** de **difracció** d’**electrons**, **Louis de Broglie** va ser el primer que va proposar la següent **hipòtesi**:
+A partir d’**experiments** de **difracció** d’**electrons**, [**Louis de Broglie**](https://ca.wikipedia.org/wiki/Louis-Victor_de_Broglie) va ser el primer que va proposar la següent **hipòtesi**:
 
 > Tota partícula de massa $m$ movent-se a una velocitat $v$ té associada una ona la longitud d'ona de la qual, $\lambda$, és
 	$$

@@ -225,7 +225,7 @@ Consisteix en què el comportament dels **objectes quàntics** no pot ser descri
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/difraccion-electrones-cat.svg" title="**Electrons** mostrant un **comportament** clarament **ondulatori**, gràcies al famós **experiment** de la **doble escletxa**. Traduïda de https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Map%3A_Physical_Chemistry_(McQuarrie_and_Simon)/01%3A_The_Dawn_of_the_Quantum_Theory/1.07%3A_de_Broglie_Waves_can_be_Experimentally_Observed." lightbox="false" width="100%" >}}
 
-A partir d'**experiments** de **difracció** d'**electrons**, **Louis de Broglie** va ser el primer que va proposar la següent **hipòtesi**:
+A partir d'**experiments** de **difracció** d'**electrons**, [**Louis de Broglie**](https://ca.wikipedia.org/wiki/Louis-Victor_de_Broglie) va ser el primer que va proposar la següent **hipòtesi**:
 
 > Tota partícula de massa $m$ movient-se a una velocitat $v$ té associada una ona (*de matèria*) la longitud d'ona de la qual, $\lambda$, ve donada per
 	$$
