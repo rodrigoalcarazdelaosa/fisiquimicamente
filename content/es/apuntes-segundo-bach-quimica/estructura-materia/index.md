@@ -387,13 +387,15 @@ Gracias a este principio podemos determinar el **número máximo** de **electron
 | **Número máximo de e**<sup>**&ndash;**</sup> | 2 | 6 | 10 | 14 |
 
 ### Orden energético creciente
-La **configuración electrónica** es la **distribución** de los **electrones** de un **átomo** en **orbitales atómicos** (s, p, d y f). El **diagrama** de **Möller** nos ayuda a saber en qué **orden** han de **llenarse** los distintos **orbitales**, siguiendo las **flechas** (orden energético creciente).
+La **configuración electrónica** es la **distribución** de los **electrones** de un **átomo** en **orbitales atómicos** (s, p, d y f).
 
 {{% callout note %}}
 Consulta [aquí]({{< relref "/post/normas-ortografia-fisica-quimica/index.md#7-configuración-electrónica" >}}) las **reglas** que se han de tener en cuenta a la hora de **escribir** la **configuración electrónica** de un átomo o un ion monoatómico.
 {{% /callout %}}
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orden-energetico-creciente.png" lightbox="true" >}}
+
+El **diagrama** de **Möller** nos ayuda a saber en qué **orden** han de **llenarse** los distintos **orbitales**, siguiendo las **flechas** (orden energético creciente).
 
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
 

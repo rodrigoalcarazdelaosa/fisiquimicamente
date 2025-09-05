@@ -317,9 +317,11 @@ Gràcies a aquest principi podem determinar el **nombre màxim** d'**electrons**
 | **Nombre màxim d'e**<sup>**&ndash;**</sup> | 2 | 6 | 10 | 14 |
 
 ### Ordre energètic creixent
-La **configuració electrònica** és la **distribució** dels **electrons** d'un **àtom** en **orbitals atòmics** (s, p, d i f). El **diagrama** de **Möller** ens ajuda a saber en quin **ordre** han d'**omplir-se** els diferents **orbitals**, seguint les **fletxes** (ordre energètic creixent).
+La **configuració electrònica** és la **distribució** dels **electrons** d'un **àtom** en **orbitals atòmics** (s, p, d i f).
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orden-energetico-creciente-cat.png" lightbox="true" >}}
+
+El **diagrama** de **Möller** ens ajuda a saber en quin **ordre** han d'**omplir-se** els diferents **orbitals**, seguint les **fletxes** (ordre energètic creixent).
 
 {{< figure library="true" src="sistema-periodico-4ESO/diagrama-Moller.svg" title="**Diagrama de Möller**. Adaptada de https://commons.wikimedia.org/wiki/File:Diagrama_de_Configuraci%C3%B3n_electr%C3%B3nica.svg." lightbox="false" width="100%" >}}
 
