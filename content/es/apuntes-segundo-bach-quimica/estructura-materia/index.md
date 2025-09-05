@@ -293,7 +293,7 @@ Consiste en que el comportamiento de los **objetos cuánticos** no puede ser des
 
 A partir de **experimentos** de **difracción** de **electrones**, [**Louis de Broglie**](https://es.wikipedia.org/wiki/Louis-Victor_de_Broglie) fue el primero que propuso la siguiente **hipótesis**:
 
-> Toda partícula de masa $m$ moviéndose a una velocidad $v$ tiene asociada una onda (*de materia*) cuya longitud de onda, $\lambda$, viene dada por
+> Toda partícula de masa $m$ moviéndose a una velocidad $v$ tiene asociada una onda ([*de materia*](https://es.wikipedia.org/wiki/Ondas_de_materia)) cuya longitud de onda, $\lambda$, viene dada por
 	$$
 	\lambda = \frac{h}{mv},
 	$$

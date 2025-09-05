@@ -227,7 +227,7 @@ Consisteix en què el comportament dels **objectes quàntics** no pot ser descri
 
 A partir d'**experiments** de **difracció** d'**electrons**, [**Louis de Broglie**](https://ca.wikipedia.org/wiki/Louis-Victor_de_Broglie) va ser el primer que va proposar la següent **hipòtesi**:
 
-> Tota partícula de massa $m$ movient-se a una velocitat $v$ té associada una ona (*de matèria*) la longitud d'ona de la qual, $\lambda$, ve donada per
+> Tota partícula de massa $m$ movient-se a una velocitat $v$ té associada una ona ([*de matèria*](https://ca.wikipedia.org/wiki/Ona_de_matèria)) la longitud d'ona de la qual, $\lambda$, ve donada per
 	$$
 	\lambda = \frac{h}{mv},
 	$$
