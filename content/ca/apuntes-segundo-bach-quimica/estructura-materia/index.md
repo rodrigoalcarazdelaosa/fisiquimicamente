@@ -221,7 +221,7 @@ Si vols aprendre més sobre l'**efecte fotoelèctric** et recomano fer una ullad
 ## Mecànica quàntica
 
 ### Dualitat ona-corpuscle
-Consisteix en què el comportament dels **objectes quàntics** no pot ser descrit considerant a aquests com a partícules o ones, sinó que tenen una **naturalesa dual**.
+Consisteix en què el comportament dels **objectes quàntics** no pot ser descrit considerant a aquests com a partícules o ones, sinó que tenen una [**naturalesa dual**](https://ca.wikipedia.org/wiki/Dualitat_ona-partícula).
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/difraccion-electrones-cat.svg" title="**Electrons** mostrant un **comportament** clarament **ondulatori**, gràcies al famós **experiment** de la **doble escletxa**. Traduïda de https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Map%3A_Physical_Chemistry_(McQuarrie_and_Simon)/01%3A_The_Dawn_of_the_Quantum_Theory/1.07%3A_de_Broglie_Waves_can_be_Experimentally_Observed." lightbox="false" width="100%" >}}
 

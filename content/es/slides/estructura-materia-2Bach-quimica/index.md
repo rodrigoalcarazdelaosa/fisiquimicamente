@@ -329,7 +329,7 @@ donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante
 ---
 
 ### Dualidad onda-corpúsculo
-Consiste en que el comportamiento de los **objetos cuánticos** no puede ser descrito considerando a estos como partículas u ondas, sino que tienen una **naturaleza dual**.
+Consiste en que el comportamiento de los **objetos cuánticos** no puede ser descrito considerando a estos como partículas u ondas, sino que tienen una [**naturaleza dual**](https://es.wikipedia.org/wiki/Dualidad_onda_corpúsculo).
 
 ---
 

@@ -247,7 +247,7 @@ on $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ és la constant de
 ---
 
 ### Dualitat ona-corpuscle
-Consisteix en el fet que el comportament dels **objectes quàntics** no pot ser descrit considerant a aquests com a partícules o ones, sinó que tenen una **naturalesa dual**.
+Consisteix en el fet que el comportament dels **objectes quàntics** no pot ser descrit considerant a aquests com a partícules o ones, sinó que tenen una [**naturalesa dual**](https://ca.wikipedia.org/wiki/Dualitat_ona-partícula).
 
 ---
 
