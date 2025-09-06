@@ -562,6 +562,17 @@ div.alert-thread > div:first-child::before {
   border-color: $nord13;
 }
 
+div.alert-heart > div:first-child::before {
+  color: $nord0;
+  content: "❤️";
+}
+
+.alert-heart {
+  color: $nord0;
+  background-color: $nord13;
+  border-color: $nord13;
+}
+
 /*************************************************
  *  Shortcodes
  **************************************************/
