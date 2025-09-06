@@ -9,7 +9,7 @@ authors:
 tags:
 - actividades
 - 2º Bach
-- termoquímica
+- termodinámica-química
 categories:
 - Química
 

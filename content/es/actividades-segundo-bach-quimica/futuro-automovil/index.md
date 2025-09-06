@@ -8,7 +8,7 @@ tags:
 - actividades
 - 2º Bach
 - rédox
-- termoquímica
+- termodinámica-química
 - eXeLearning
 - baterías
 - hidrógeno

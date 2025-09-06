@@ -11,55 +11,55 @@ subtitle = "📓 2.º Bach ⚗️ Química"
 [content]
   # Page type to display. E.g. project.
   page_type = "practicas-segundo-bach-quimica"
-  
+
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-  
+
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  
+
   [[content.filter_button]]
     name = "Todas"
-    tag = "*"	
-	
+    tag = "*"
+
   [[content.filter_button]]
     name = "Estructura de la materia"
     tag = "estructura-atómica"
-	
+
   [[content.filter_button]]
     name = "Sistema periódico"
     tag = "tabla-periódica"
-	
+
   [[content.filter_button]]
     name = "Enlace químico"
     tag = "enlace-químico"
 
   [[content.filter_button]]
-    name = "Termoquímica"
-    tag = "termoquímica"    	
-	
+    name = "Termodinámica química"
+    tag = "termodinámica-química"
+
   [[content.filter_button]]
     name = "Cinética química"
-    tag = "cinética-química"				
-	
+    tag = "cinética-química"
+
   [[content.filter_button]]
     name = "Equilibrio químico"
-    tag = "equilibrio-químico"			
-	
+    tag = "equilibrio-químico"
+
   [[content.filter_button]]
     name = "Ácido-base"
-    tag = "ácido-base"			
-	
+    tag = "ácido-base"
+
   [[content.filter_button]]
     name = "Rédox"
-    tag = "rédox"				
-	
+    tag = "rédox"
+
   [[content.filter_button]]
     name = "Química orgánica"
-    tag = "orgánica"		
+    tag = "orgánica"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -83,25 +83,25 @@ subtitle = "📓 2.º Bach ⚗️ Química"
 
   # Background color.
   color = "FFFFF8"
-  
+
   # Background gradient.
   # gradient_start = "#BBCCEE"
   # gradient_end = "#FFFFF8"
-  
+
   # Background image.
   # image = "apuntes.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = false
-  
+
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = "padding-bottom: 0px;"
- 
+
  # CSS class.
  css_class = ""
 +++

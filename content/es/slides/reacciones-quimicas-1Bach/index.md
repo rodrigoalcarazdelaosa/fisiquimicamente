@@ -84,7 +84,7 @@ Pueden desprender (**exotérmicas**) o absorber energía (**endotérmicas**).
 
 ---
 
-> El curso que viene podrás [**aprender más** sobre **termoquímica**]({{< relref "apuntes-segundo-bach-quimica/termoquimica" >}}).
+> El curso que viene podrás [**aprender más** sobre **termodinámica química**]({{< relref "apuntes-segundo-bach-quimica/termodinamica-quimica" >}}).
 
 ---
 
@@ -147,7 +147,7 @@ $$
 $$
 
 ---
-		
+
 Un caso especial es la **neutralización**, una reacción química irreversible en la que un ácido y una base reaccionan en cantidades estequiométricas formando una sal neutra y agua:
 <div align="center" style="margin-bottom: 1rem">
 ÁCIDO + BASE &#10230; SAL + AGUA
@@ -263,7 +263,7 @@ El **reactivo limitante** es el reactivo que se agota por completo en una reacci
 
 Para **identificar el reactivo limitante** podemos calcular la cantidad:
 $$
-\frac{\text{moles del reactivo X}}{\text{coeficiente estequiométrico del reactivo X}}	
+\frac{\text{moles del reactivo X}}{\text{coeficiente estequiométrico del reactivo X}}
 $$
 para cada reactivo y el reactivo que tenga el valor más bajo será el reactivo limitante.
 
@@ -288,7 +288,7 @@ Como en la ecuación química aparecen sustancias puras, al realizar los cálcul
 ---
 
 $$
-\text{PUREZA} = \frac{\text{masa sustancia pura}}{\text{masa muestra impura}}\times 100	
+\text{PUREZA} = \frac{\text{masa sustancia pura}}{\text{masa muestra impura}}\times 100
 $$
 
 ---
@@ -309,13 +309,13 @@ Es una medida de la cantidad de producto obtenida en una reacción química en r
 
 Generalmente se expresa en porcentaje y se denota por $\eta$:
 $$
-\eta = \frac{\text{rendimiento real}}{\text{rendimiento teórico}}\times 100,	
+\eta = \frac{\text{rendimiento real}}{\text{rendimiento teórico}}\times 100,
 $$
 donde el **rendimiento real** es la cantidad real (masa, moles o volumen) de producto obtenida en laboratorio y el **rendimiento teórico** es la cantidad de producto que se obtendría si todo el reactivo limitante reaccionara.
 
 ---
 
-El rendimiento es uno de los principales factores que la comunidad científica debe tener en cuenta en los procesos de síntesis química inorgánica y orgánica. 
+El rendimiento es uno de los principales factores que la comunidad científica debe tener en cuenta en los procesos de síntesis química inorgánica y orgánica.
 
 ---
 
@@ -373,7 +373,7 @@ $$
 	T(\mathrm K) = T(^\circ\mathrm C) + 273
 	$$
 
----  
+---
 
 En caso de trabajar en el SI, la constante de los gases ideales toma el valor $R=8.314\thinspace\frac{\mathrm{J}}{\mathrm{mol\thinspace K}} = 8.314\thinspace\frac{\mathrm{kPa\thinspace L}}{\mathrm{mol\thinspace K}}$.
 
@@ -403,11 +403,11 @@ A continuación **calculamos** las **masas molares** de todos los compuestos qu�
 \begin{align*}
 M(\ce{NH3}) &= M(\ce{N}) + 3\cdot M(\ce{H}) = 14&thinsp;\mathrm{g/mol} + 3\cdot 1&thinsp;\mathrm{g/mol} = 17&thinsp;\mathrm{g/mol} \\\\
 M(\ce{O2}) &= 2\cdot M(\ce{O}) = 2\cdot 16&thinsp;\mathrm{g/mol} = 32&thinsp;\mathrm{g/mol} \\\\
-M(\ce{NO}) &= M(\ce{N}) + M(\ce{O}) = 14&thinsp;\mathrm{g/mol} + 16&thinsp;\mathrm{g/mol} = 30&thinsp;\mathrm{g/mol}	
+M(\ce{NO}) &= M(\ce{N}) + M(\ce{O}) = 14&thinsp;\mathrm{g/mol} + 16&thinsp;\mathrm{g/mol} = 30&thinsp;\mathrm{g/mol}
 \end{align*}
 
 ---
-	
+
 Identificamos el **reactivo limitante** calculando la cantidad
 $$
 \frac{\text{moles del reactivo X}}{\text{coeficiente estequiométrico del reactivo X}}

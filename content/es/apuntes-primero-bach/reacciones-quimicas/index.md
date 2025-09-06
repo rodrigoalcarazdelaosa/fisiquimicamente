@@ -26,7 +26,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: reacciones-quimicas-poster.pdf
 - icon_pack: fas
@@ -40,8 +40,8 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes
-  url: disoluciones-reacciones-quimicas-frikiexamenes.pdf  
-  
+  url: disoluciones-reacciones-quimicas-frikiexamenes.pdf
+
 slides: reacciones-quimicas-1Bach
 
 math: true
@@ -81,7 +81,7 @@ Pueden desprender (**exotérmicas**) o absorber energía (**endotérmicas**).
 
 {{% callout note %}}
 
-El curso que viene podrás [**aprender más** sobre **termoquímica**]({{< relref "apuntes-segundo-bach-quimica/termoquimica" >}}).
+El curso que viene podrás [**aprender más** sobre **termodinámica química**]({{< relref "apuntes-segundo-bach-quimica/termodinamica-quimica" >}}).
 
 {{% /callout %}}
 
@@ -119,7 +119,7 @@ Son **equilibrios químicos** que involucran una **transferencia** de **protones
 $$
 \mathrm{HA} + \mathrm B &#8652; \mathrm A^- + \mathrm{HB}^+
 $$
-		
+
 Un caso especial es la **neutralización**, una reacción química irreversible en la que un ácido y una base reaccionan en cantidades estequiométricas formando una sal neutra y agua:
 <div align="center" style="margin-bottom: 1rem">
 ÁCIDO + BASE &#10230; SAL + AGUA
@@ -196,7 +196,7 @@ El **reactivo limitante** es el reactivo que se agota por completo en una reacci
 
 Para **identificar el reactivo limitante** podemos calcular la cantidad:
 $$
-\frac{\text{moles del reactivo X}}{\text{coeficiente estequiométrico del reactivo X}}	
+\frac{\text{moles del reactivo X}}{\text{coeficiente estequiométrico del reactivo X}}
 $$
 para cada reactivo y el reactivo que tenga el valor más bajo será el reactivo limitante.
 
@@ -204,7 +204,7 @@ para cada reactivo y el reactivo que tenga el valor más bajo será el reactivo 
 
 Es una medida de la cantidad de **impurezas** que contiene una muestra química. En función de la aplicación (investigación científica, farmacia, alimentación o industria) se utilizan distintos **grados** de **pureza**, siendo los más altos por encima del 95&thinsp;%. Como en la ecuación química aparecen sustancias puras, al realizar los cálculos estequiométricos *eliminaremos* la contribución de las impurezas. En estos cálculos supondremos que las impurezas son inertes, es decir, que no reaccionan.
 $$
-\text{PUREZA} = \frac{\text{masa sustancia pura}}{\text{masa muestra impura}}\times 100	
+\text{PUREZA} = \frac{\text{masa sustancia pura}}{\text{masa muestra impura}}\times 100
 $$
 
 {{% callout note %}}
@@ -217,7 +217,7 @@ Te recomendamos ir al **blog** para leer [esta magnífica **entrada**]({{< relre
 
 Es una medida de la cantidad de producto obtenida en una reacción química en relación con el reactivo consumido. Generalmente se expresa en porcentaje y se denota por $\eta$:
 $$
-\eta = \frac{\text{rendimiento real}}{\text{rendimiento teórico}}\times 100,	
+\eta = \frac{\text{rendimiento real}}{\text{rendimiento teórico}}\times 100,
 $$
 donde el **rendimiento real** es la cantidad real (masa, moles o volumen) de producto obtenida en laboratorio y el **rendimiento teórico** es la cantidad de producto que se obtendría si todo el reactivo limitante reaccionara.
 
@@ -283,11 +283,11 @@ A continuación **calculamos** las **masas molares** de todos los compuestos qu�
 \begin{align*}
 M(\ce{NH3}) &= M(\ce{N}) + 3\cdot M(\ce{H}) = 14&thinsp;\mathrm{g/mol} + 3\cdot 1&thinsp;\mathrm{g/mol} = 17&thinsp;\mathrm{g/mol} \\\\
 M(\ce{O2}) &= 2\cdot M(\ce{O}) = 2\cdot 16&thinsp;\mathrm{g/mol} = 32&thinsp;\mathrm{g/mol} \\\\
-M(\ce{NO}) &= M(\ce{N}) + M(\ce{O}) = 14&thinsp;\mathrm{g/mol} + 16&thinsp;\mathrm{g/mol} = 30&thinsp;\mathrm{g/mol}	
+M(\ce{NO}) &= M(\ce{N}) + M(\ce{O}) = 14&thinsp;\mathrm{g/mol} + 16&thinsp;\mathrm{g/mol} = 30&thinsp;\mathrm{g/mol}
 \end{align*}
 
 ---
-	
+
 Identificamos el **reactivo limitante** calculando la cantidad
 $$
 \frac{\text{moles del reactivo X}}{\text{coeficiente estequiométrico del reactivo X}}

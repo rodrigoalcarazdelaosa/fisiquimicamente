@@ -1,6 +1,6 @@
 ---
-title: Termoquímica
-url: "/recursos-fisica-quimica/apuntes/2bach/quimica/termoquimica"
+title: Termodinámica química
+url: "/recursos-fisica-quimica/apuntes/2bach/quimica/termodinamica-quimica"
 subtitle: Transformaciones energéticas y espontaneidad de las reacciones químicas
 summary: "<code style='color: #2E3440;background:#88C0D0'>PRÓXIMAMENTE</code> <br> Transformaciones energéticas y espontaneidad de las reacciones químicas."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
@@ -11,7 +11,7 @@ authors:
 tags:
 - apuntes
 - 2º Bach
-- termoquímica
+- termodinámica-química
 categories:
 - Química
 weight: 4
@@ -27,11 +27,11 @@ links:
 - icon_pack: fas
   icon:
   name: ✏️ Ejercicios
-  url: termoquimica-ejercicios.pdf
+  url: termodinamica-quimica-ejercicios.pdf
 - icon_pack: fas
   icon:
   name: 🔢 Tablas
-  url: termoquimica-tablas.pdf
+  url: termodinamica-quimica-tablas.pdf
 - icon_pack: fas
   icon:
   name: 🔗 Más ejercicios
@@ -39,12 +39,12 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Frikiexámenes
-  url: termoquimica-frikiexamenes.pdf
+  url: termodinamica-quimica-frikiexamenes.pdf
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/termoquimica/  
-  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/termodinamica-quimica/
+
 ---
 
 {{% callout soon %}}

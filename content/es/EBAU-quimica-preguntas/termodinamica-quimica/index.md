@@ -1,6 +1,6 @@
 ---
-title: Termoquímica
-url: "recursos-fisica-quimica/ebau/quimica/por-temas/termoquimica"
+title: Termodinámica química
+url: "recursos-fisica-quimica/ebau/quimica/por-temas/termodinamica-quimica"
 subtitle: Ejercicios de EBAU resueltos
 summary: Ejercicios de EBAU resueltos.
 breadcrumbs: ["recursos-fisica-quimica","ebau-quimica-por-temas"]
@@ -8,7 +8,7 @@ authors:
 - enrique-ortega-gonzalez
 tags:
 - EBAU
-- termoquímica
+- termodinámica-química
 categories:
 - Química
 weight: 4
@@ -26,7 +26,7 @@ links:
 - icon_pack: fas
   icon:
   name: 📝 Enunciados
-  url: termoquimica-EBAU-Quimica-enunciados.pdf
+  url: termodinamica-quimica-EBAU-Quimica-enunciados.pdf
 ---
 
-{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/termoquimica/termoquimica-EBAU-Quimica.pdf" filename="termoquimica-EBAU-Quimica.pdf" %}}
+{{% embed_pdf url="https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/termodinamica-quimica/termodinamica-quimica-EBAU-Quimica.pdf" filename="termodinamica-quimica-EBAU-Quimica.pdf" %}}

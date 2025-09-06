@@ -11,7 +11,7 @@ tags:
 - oposiciones
 - cantabria
 - 2018
-- termoquímica
+- termodinámica-química
 categories:
 - Química
 
