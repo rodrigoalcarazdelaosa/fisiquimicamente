@@ -39,6 +39,14 @@ math: true
 ## Regla de l'octet
 > La **configuració més estable** per a qualsevol àtom és comptar amb **vuit electrons** a la **capa exterior**.
 
+### Excepcions
+
+Existeixen **tres excepcions generals** a la regla de l'octet:
+
+1. Molècules amb un nombre imparell d'electrons, com el nitrogen a NO o NO<sub>2</sub> (7&thinsp;e<sup>&ndash;</sup>).
+2. Molècules en què un o més àtoms posseeixen més de vuit electrons, com el fòsfor a PCl<sub>5</sub> (10&thinsp;e<sup>&ndash;</sup>) o el sofre a SF<sub>6</sub> (12&thinsp;e<sup>&ndash;</sup>).
+3. Molècules en què un o més àtoms posseeixen menys de vuit electrons, com el hidrogen a H<sub>2</sub> (2&thinsp;e<sup>&ndash;</sup>), el beril·li a BeH<sub>2</sub> (4&thinsp;e<sup>&ndash;</sup>) o el bor a BH<sub>3</sub>, BF<sub>3</sub> o BCl<sub>3</sub> (6&thinsp;e<sup>&ndash;</sup>).
+
 Els elements tendiran a **unir-se** per a completar la seva capa exterior, **intercanviant** (cedint/captant $\rightarrow$ enllaç **iònic**) o **compartint electrons** (enllaç **covalent**), i així **guanyar estabilitat**.
 
 ## Estructures de Lewis

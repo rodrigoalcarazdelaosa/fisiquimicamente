@@ -50,7 +50,7 @@ Existen **tres excepciones generales** a la regla del octeto:
 
 1. Moléculas con un número impar de electrones, como el nitrógeno en NO o NO<sub>2</sub> (7&thinsp;e<sup>&ndash;</sup>).
 2. Moléculas en las que uno o más átomos poseen más de ocho electrones, como el fósforo en PCl<sub>5</sub> (10&thinsp;e<sup>&ndash;</sup>) o el azufre en SF<sub>6</sub> (12&thinsp;e<sup>&ndash;</sup>).
-3. Moléculas en las que uno o más átomos poseen menos de ocho electrones, como el berilio en BeH<sub>2</sub> (4&thinsp;e<sup>&ndash;</sup>) o el boro en BH<sub>3</sub>, BF<sub>3</sub> o BCl<sub>3</sub> (6&thinsp;e<sup>&ndash;</sup>).
+3. Moléculas en las que uno o más átomos poseen menos de ocho electrones, como el hidrógeno (2&thinsp;e<sup>&ndash;</sup>), el berilio en BeH<sub>2</sub> (4&thinsp;e<sup>&ndash;</sup>) o el boro en BH<sub>3</sub>, BF<sub>3</sub> o BCl<sub>3</sub> (6&thinsp;e<sup>&ndash;</sup>).
 
 ---
 
