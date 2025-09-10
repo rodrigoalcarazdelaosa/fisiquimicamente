@@ -60,7 +60,7 @@ Basándose en las ideas de **Demócrito**, John **Dalton** propuso este modelo a
 
 ---
 
-Los **descubrimientos** de la **radiactividad natural** por **Becquerel** (1896) y el **electrón** por **Thomson** (1897) hicieron necesaria la revisión de este modelo.
+Los **descubrimientos** de la **radiactividad natural** por **Becquerel** (1896) y [el **electrón** por **Thomson**]({{< relref "slides/modelos-atomicos-4ESO/index.md#descubrimiento-del-electrón" >}}) (1897) hicieron necesaria la revisión de este modelo.
 
 ---
 
