@@ -31,6 +31,14 @@ links:
   icon:
   name: 📜 Póster
   url: induccion-electromagnetica-poster.pdf
+- icon_pack: fas
+  icon:
+  name: 📋 Formulario
+  url: induccion-magnetica-formulario.pdf
+- icon_pack: fas
+  icon:
+  name: ✏️ Ejercicios
+  url: induccion-magnetica-ejercicios.pdf
 
 slides: induccion-electromagnetica-2Bach-fisica
 
