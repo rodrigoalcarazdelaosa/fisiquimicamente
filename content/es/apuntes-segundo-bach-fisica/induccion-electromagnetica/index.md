@@ -34,11 +34,11 @@ links:
 - icon_pack: fas
   icon:
   name: 📋 Formulario
-  url: induccion-magnetica-formulario.pdf
+  url: induccion-electromagnetica-formulario.pdf
 - icon_pack: fas
   icon:
   name: ✏️ Ejercicios
-  url: induccion-magnetica-ejercicios.pdf
+  url: induccion-electromagnetica-ejercicios.pdf
 
 slides: induccion-electromagnetica-2Bach-fisica
 
