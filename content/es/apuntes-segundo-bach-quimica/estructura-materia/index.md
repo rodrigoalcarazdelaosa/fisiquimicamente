@@ -78,7 +78,7 @@ También conocido como el modelo del *pastel de pasas*, fue propuesto en 1904 po
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/Thomson.svg" title="El **átomo** de **Thomson** es una ***nube*** esférica con **carga positiva** en donde se encuentran **incrustados** los **electrones**, con carga negativa, como las **pasas** en un **pastel**." lightbox="false" width="100%" >}}
 
-Los **descubrimientos** del **núcleo atómico** y del **protón** por **Rutherford** (1911 y 1919, respectivamente) llevaron a la revisión de este modelo.
+Los [**descubrimientos** del **núcleo atómico**]({{< relref "apuntes-cuarto-eso/modelos-atomicos/index.md#descubrimiento-del-núcleo-atómico" >}}) y del **protón** por **Rutherford** (1911 y 1919, respectivamente) llevaron a la revisión de este modelo.
 
 ### Rutherford
 Gracias a su famoso **experimento** de la **lámina** de **oro** (Au), Ernest **Rutherford** propuso, en 1911, un modelo de **átomo** formado por un **núcleo**, muy pequeño comparado con el tamaño del átomo, con **carga positiva** y donde se concentra casi toda su **masa**. Los **electrones**, con carga negativa, **giran alrededor** del **núcleo** como lo hacen los planetas alrededor del Sol.
@@ -87,7 +87,7 @@ Gracias a su famoso **experimento** de la **lámina** de **oro** (Au), Ernest **
 
 La **integridad** del **núcleo**[^1] y la **inestabilidad** de las **órbitas electrónicas**[^2] desde un punto de vista clásico hicieron necesaria la revisión de este modelo.
 
-[^1]: Si el núcleo estuviera formado únicamente por protones con carga positiva, su repulsión haría que se *desintegrara*. En 1932 **Chadwick** descubre el **neutrón**, partícula sin carga encargada de mantener unidos entre sí a los protones mediante la **fuerza nuclear fuerte**.
+[^1]: Si el núcleo estuviera formado únicamente por protones con carga positiva, su repulsión haría que se *desintegrara*. En 1932 [**Chadwick**](https://es.wikipedia.org/wiki/James_Chadwick) descubre el [**neutrón**](https://es.wikipedia.org/wiki/Neutrón), partícula sin carga encargada de mantener unidos entre sí a los protones mediante la **fuerza nuclear fuerte**.
 
 [^2]: La **física clásica** predice que una **partícula cargada y acelerada**, como sería el caso de los electrones *orbitando* alrededor del núcleo, **emite radiación electromagnética**, perdiendo energía y *colapsando* contra el núcleo.
 
@@ -252,15 +252,19 @@ Aprende más sobre la **radiación** de **cuerpo negro** con esta excelente **si
 
 ### Hipótesis de Planck
 
-> La energía solo puede ser emitida/absorbida en paquetes discretos llamados cuantos o **fotones**, múltiplos de la frecuencia $\nu$ de la radiación electromagnética asociada:
+En 1900, [**Planck**](https://es.wikipedia.org/wiki/Max_Planck) propuso que la energía emitida, $E$, estaba relacionada con la frecuencia de oscilación de los átomos, $\nu$, según esta **hipótesis**:
+
+> La **energía** está **cuantizada** y solo puede ser emitida/absorbida en paquetes discretos llamados cuantos o **fotones**, múltiplos de la frecuencia $\nu$ de la radiación electromagnética asociada:
 	$$
-	E = h \nu,
+	E = h \nu = \frac{hc}{\lambda},
 	$$
 	donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck.
 
 ### Efecto fotoeléctrico
 
-El **efecto fotoeléctrico** consiste en la **emisión** de **(foto)electrones** cuando radiación electromagnética, como por ejemplo luz ultravioleta, incide sobre un material, típicamente metálico.
+El **efecto fotoeléctrico**, observado por primera vez en 1887 por [**Hertz**](https://es.wikipedia.org/wiki/Heinrich_Rudolf_Hertz), consiste en la **emisión** de **(foto)electrones** cuando radiación electromagnética, como por ejemplo luz ultravioleta, incide sobre un material, típicamente metálico.
+
+En 1905, [**Einstein**](https://es.wikipedia.org/wiki/Albert_Einstein) aplica la **hipótesis de Planck** para explicar el fenómeno, recibiendo el **Premio Nobel** de **Física** en **1921** por ello. Explicó que la luz está constituida por ***fotones*** cuya energía viene dada por la [**relación** de **Planck-Einstein**]({{< relref "/post/ecuaciones-fisica/index.md#13-relación-de-planck-einstein" >}}).
 
 #### Características
 
