@@ -19,7 +19,7 @@ slides:
 # Inducción electromagnética
 
 - [Experiencias de Faraday y de Henry](#/1)
-- [Flujo eléctrico y fem inducida](#/2)
+- [Flujo magnético y fem inducida](#/2)
 - [Ley de Faraday-Henry y ley de Lenz](#/3)
 - [Autoinducción e inducción mutua](#/4)
 - [Generación de corrientes alternas y aplicaciones](#/5)
@@ -137,7 +137,7 @@ Por ejemplo, para generar [**corrientes alternas**](https://es.wikipedia.org/wik
 ## Flujo magnético y fem inducida
 
 - [Flujo magnético](#/2/1)
-- [Fuerza electromotriz (fem) inducida](#/2/6)
+- [Fuerza electromotriz (fem) inducida](#/2/8)
 
 (continúa hacia abajo)
 
@@ -151,17 +151,25 @@ Para poder explicar los fenómenos de inducción electromagnética, resulta impr
 
 ---
 
-Viene dado por:
+Para calcular el flujo magnético que atraviesa su superficie $S$ se divide esta en trozos infinitesimales de superficie $\mathrm d S$, de tal manera que el flujo que atravesará $\mathrm d S$ será $\mathrm d\symup\Phi = \vec B \cdot \mathrm d \vec S$.
+
+---
+
+Se obtiene el flujo total *sumando* todos los diferenciales de flujo, es decir, integrando:
 
 $$
 \symup\Phi = \int_S \vec B\cdot \mathrm d \vec S = \int_S B\mathrm d S\cos\theta,
 $$
 
-donde $\mathrm d \vec S$ es el vector superficie cuya dirección es perpendicular a la superficie y cuyo sentido es hacia afuera, $\vec B$ es el campo magnético, $\theta$ es el ángulo entre $\vec B$ y $\mathrm d \vec S$. Su **unidad** en el **SI** es el [**weber**](https://es.wikipedia.org/wiki/Weber_(unidad)) (Wb&thinsp;≡&thinsp;V&thinsp;s).
+donde $\mathrm d \vec S$ es el vector diferencial de superficie cuya dirección es perpendicular a la superficie y cuyo sentido es hacia afuera, $\vec B$ es el campo magnético, $\theta$ es el ángulo entre $\vec B$ y $\mathrm d \vec S$. Su **unidad** en el **SI** es el [**weber**](https://es.wikipedia.org/wiki/Weber_(unidad)) (Wb&thinsp;≡&thinsp;V&thinsp;s).
 
 ---
 
 {{< figure library="true" src="induccion-electromagnetica-2Bach-fisica/flujo-magnetico.svg" lightbox="false" width="80%" >}}
+
+---
+
+Si el campo *entra* en la superficie el flujo es negativo porque $\cos 180&deg;=-1$ y si *sale* es positivo porque $\cos 0&deg;=1$. Además, para un campo $\vec B$ uniforme y una superficie plana $S$, ambos vectores son paralelos y la integral se resuelve como $\symup\Phi = BS$.
 
 ---
 
@@ -246,7 +254,7 @@ Normalmente, es proporcionada por un [generador eléctrico](https://es.wikipedia
 
 ## Ley de Faraday-Henry y ley de Lenz
 
-En las diferentes experiencias hemos visto que aparece una corriente inducida cuando el flujo magnético varía con el tiempo, y que se debe a la fem. Además, depende también de la resistencia del conductor.
+En las diferentes experiencias hemos visto que aparece una corriente inducida cuando el flujo magnético varía con el tiempo, y que se debe a la fem (que a su vez genera un campo magnético inducido que se opone a la variación del flujo que la produce). Además, depende también de la resistencia del conductor.
 
 ---
 
@@ -268,6 +276,8 @@ Para calcular y relacionar estas magnitudes se tienen en cuenta las siguientes l
 	\mathcal{E} = \frac{\mathrm d\symup\Phi}{\mathrm d t}
 	\]
 
+En otras palabras, es la **rapidez** con la que **cambia** el **flujo magnético**.
+
 ---
 
 ### Ley de Lenz
@@ -279,9 +289,9 @@ Para calcular y relacionar estas magnitudes se tienen en cuenta las siguientes l
 
 ---
 
-Si $\symup\Phi$ aumenta con $t$, la $I_\mathrm{ind}$ genera un $\vec B_\mathrm{ind}$ opuesto al $\vec B_\mathrm{inicial}$.
+Si $\symup\Phi$ aumenta con $t$, la $I_\mathrm{ind}$ genera un $\vec B_\mathrm{ind}$ en sentido opuesto a $\vec B_\mathrm{inicial}$.
 
-Si $\symup\Phi$ disminuye con $t$, la $I_\mathrm{ind}$ genera un $\vec B_\mathrm{ind}$ igual al $\vec B_\mathrm{inicial}$.
+Si $\symup\Phi$ disminuye con $t$, la $I_\mathrm{ind}$ genera un $\vec B_\mathrm{ind}$ en el mismo sentido que $\vec B_\mathrm{inicial}$.
 
 ---
 
@@ -327,7 +337,7 @@ Consideremos un solenoide de longitud $\ell$ y radio $R$ formado por $N$ espiras
 
 ---
 
-El campo generado por el solenoide, $\vec B$, es paralelo a su eje y en su interior toma un valor constante:
+El campo generado por el solenoide, $\vec B$, es paralelo a su eje y en su interior (centro) toma un valor constante:
 
 \[
 B = \frac{\mu NI}{\ell}
