@@ -197,18 +197,20 @@ Si no hay variación de moles (gaseosos), $\symup\Delta n = 0\Rightarrow Q_p=Q_V
 
 Una **ecuación termoquímica** es una ecuación química que indica, además, el calor (entalpía) que interviene en el proceso:
 
-$$
+{{< math >}}
 \begin{align*}
 \ce{
-CH4(g) + 2O2(g) & -> CO2(g) + 2H2O(g)\qquad\text{$\symup\Delta \mathit H = -890.4$&thinsp;kJ/mol} \\
-CH4(g) + 2O2(g) & -> CO2(g) + 2H2O(g) + 890.4&thinsp;kJ/mol
+CH4(g) + 2O2(g) & -> CO2(g) + 2H2O(g)\qquad\text{$\symup\Delta \mathit H = -890.4\,\mathrm{kJ/mol}$} \\
+CH4(g) + 2O2(g) & -> CO2(g) + 2H2O(g) + 890.4\,\mathrm{kJ/mol}
 }
 \end{align*}
-$$
+{{< /math >}}
 
+{{< math >}}
 $$
-\frac{-890.4&thinsp;\mathrm{kJ/mol}}{1&thinsp;\mathrm{mol}_{\ce{CH4}}}\quad\frac{-890.4&thinsp;\mathrm{kJ/mol}}{2&thinsp;\mathrm{mol}_{\ce{O2}}}\quad\frac{-890.4&thinsp;\mathrm{kJ/mol}}{1&thinsp;\mathrm{mol}_{\ce{CO2}}}\quad\frac{-890.4&thinsp;\mathrm{kJ/mol}}{2&thinsp;\mathrm{mol}_{\ce{H2O}}}
+\frac{-890.4\,\mathrm{kJ}}{1\,\mathrm{mol}_{\ce{CH4}}}\quad\frac{-890.4\,\mathrm{kJ}}{2\,\mathrm{mol}_{\ce{O2}}}\quad\frac{-890.4\,\mathrm{kJ}}{1\,\mathrm{mol}_{\ce{CO2}}}\quad\frac{-890.4\,\mathrm{kJ}}{2\,\mathrm{mol}_{\ce{H2O}}}
 $$
+{{< /math >}}
 
 ### Entalpía estándar de reacción
 
@@ -230,13 +232,17 @@ Dado que la **entalpía** es **función de estado**:
 
 La **ley de Hess** también se puede aplicar a la entropía[^2] y a la energía de Gibbs[^3], puesto que estas son funciones de estado igualmente. Otra manera de enunciar la ley de Hess es:
 
-[^2]: $$
+[^2]: {{< math >}}
+      $$
       \symup{\Delta}_\mathrm r S^⦵ = \sum n S_\mathrm f^⦵(\text{productos}) - \sum m S_\mathrm f^⦵(\text{reactivos}),
       $$
+      {{< /math >}}
 
-[^3]: $$
+[^3]: {{< math >}}
+      $$
       \symup{\Delta}_\mathrm r G^⦵ = \sum n G_\mathrm f^⦵(\text{productos}) - \sum m G_\mathrm f^⦵(\text{reactivos}),
       $$
+      {{< /math >}}
 
 > La variación de entalpía en una reacción química es constante, con independencia de que la reacción se realice en una o varias etapas.
 
@@ -250,9 +256,11 @@ La **entalpía estándar de formación**, $\symup{\Delta}_\mathrm f H^⦵$, es l
 
 Para el cálculo de la entalpía estándar de reacción, $\symup{\Delta}_\mathrm r H^⦵$, a partir de las entalpías estándar de formación, $\symup{\Delta}_\mathrm f H^⦵$:
 
+{{< math >}}
 $$
 \symup{\Delta}_\mathrm r H^⦵ = \sum n \symup{\Delta}_\mathrm f H^⦵(\text{productos}) - \sum m \symup{\Delta}_\mathrm f H^⦵(\text{reactivos}),
 $$
+{{< /math >}}
 
 siendo $n$ y $m$ los coeficientes estequiométricos de los productos y reactivos, respectivamente.
 
@@ -264,7 +272,11 @@ $$
 \ce{C(s) + O2(g) -> CO2(g) + 393.5&thinsp;kJ/mol}
 $$
 
-$\symup\Delta_\mathrm c H^⦵ \text{(C,grafito)} = \symup\Delta_\mathrm f H^⦵ (\mathrm{CO}_2,\mathrm g) = -393.5&thinsp;\mathrm{kJ/mol}$.
+{{< math >}}
+$$
+\symup\Delta_\mathrm c H^⦵ \text{(C,grafito)} = \symup\Delta_\mathrm f H^⦵ (\mathrm{CO}_2,\mathrm g) = -393.5\,\mathrm{kJ/mol}
+$$
+{{< /math >}}
 
 Lo mismo pasa con la combustión del H<sub>2</sub> y la formación del agua líquida (notar que ajustamos la ecuación de forma que el coeficiente estequiométrico del compuesto de interés, H<sub>2</sub>O en este caso, sea 1):
 
@@ -272,7 +284,11 @@ $$
 \ce{H2(g) + \frac{1}{2}O2(g) -> H2O(l) + 285.8&thinsp;kJ/mol}
 $$
 
-$\symup\Delta_\mathrm c H^⦵ (\mathrm H_2,\mathrm g) = \symup\Delta_\mathrm f H^⦵ (\mathrm{H_2O},\mathrm l) = -285.8&thinsp;\mathrm{kJ/mol}$.
+{{< math >}}
+$$
+\symup\Delta_\mathrm c H^⦵ (\mathrm H_2,\mathrm g) = \symup\Delta_\mathrm f H^⦵ (\mathrm{H_2O},\mathrm l) = -285.8\,\mathrm{kJ/mol}
+$$
+{{< /math >}}
 
 ### Energías de enlace
 Una reacción química supone la ruptura de los enlaces de los reactivos y la formación de nuevos enlaces para dar lugar a los productos de reacción. Teniendo en cuenta que para romper un enlace hay que suministrar energía, y que al formarse se desprende, podremos calcular la entalpía de una reacción si conocemos el coste energético de cada uno de los enlaces que se rompe y forma, según la ecuación:
@@ -307,6 +323,7 @@ donde $H$ es la entalpía, $T$ es la temperatura en Kelvin y $S$ es la entropía
 
 La variación de la energía de Gibbs, $\symup\Delta G$, determina la **espontaneidad**:
 
+{{< math >}}
 $$
 \symup\Delta G = \symup\Delta H - T\symup\Delta S \quad\Rightarrow\quad
 \begin{cases}
@@ -315,14 +332,10 @@ $$
 \symup\Delta G > 0 & \textbf{proceso no espontáneo}
 \end{cases}
 $$
+{{< /math >}}
 
 {{< figure src="termodinamica-quimica-2Bach-quimica/espontaneo.svg" lightbox="false" width="100%" >}}
 
 A la hora de evaluar la espontaneidad, si al calcular la temperatura de equilibrio esta nos sale negativa, significa que la reacción es o bien siempre espontánea o bien siempre no espontánea. Para averiguarlo nos fijamos en los signos de $\Delta H$ y $\Delta S$. Si sale positiva, por ejemplo 1000&thinsp;K, hay que ir de nuevo a la ecuación y mirar si es espontánea para $T>1000\thinspace\mathrm K$ o $T<1000\thinspace\mathrm K$.
 
-| $\Delta H$ | $\Delta S$ | Tendencia de $\Delta G$ | Ejemplo de reacción/proceso |
-| :---: | :---: | :---: | :---: |
-| $+$ | $+$ | Espontáneo subiendo $T$ | $\ce{H2(g) + I2(s) -> 2HI(g)}$ / fusión del hielo a 25&#8239;&deg;C |
-| $+$ | $-$ | No espontáneo a cualquier $T$ | $\ce{3O2(g) -> 2O3(g)}$ / compresión espontánea de un gas |
-| $-$ | $+$ | Espontáneo a cualquier $T$ | $\ce{2H2O2(l) -> 2H2O(l) + O2(g)}$ / combustión |
-| $-$ | $-$ | Espontáneo bajando $T$ | $\ce{NH3(g) + HCl(g) -> NH4Cl(s)}$ / solidificación del agua a –20&#8239;&deg;C |
+{{< figure src="termodinamica-quimica-2Bach-quimica/espontaneidad.svg" lightbox="false" width="100%" theme="light" >}}
