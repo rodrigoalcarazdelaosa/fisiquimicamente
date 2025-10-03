@@ -26,8 +26,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Ondas | Física 2.º Bach
-      url: 'recursos-fisica-quimica/apuntes/2bach/fisica/ondas/'
+      text: Termodinámica química | Química 2.º Bach
+      url: 'recursos-fisica-quimica/apuntes/2bach/quimica/termodinamica-quimica/'
   - title: 🗞️ Novedades
     content: '🗒️ Última actividad'
     align: center

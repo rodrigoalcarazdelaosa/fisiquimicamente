@@ -2,7 +2,7 @@
 title: Ondas
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/ondas"
 subtitle: Ondas armónicas, sonido y fenómenos ondulatorios
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Ondas armónicas, sonido y fenómenos ondulatorios."
+summary: "Ondas armónicas, sonido y fenómenos ondulatorios."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
 authors:
 - marta-rada-arias
