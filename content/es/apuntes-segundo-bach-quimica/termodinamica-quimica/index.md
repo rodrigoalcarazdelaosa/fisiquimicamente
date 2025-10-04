@@ -56,13 +56,15 @@ math: true
 
 {{% toc %}}
 
-## Sistemas termodinámicos
+## Introducción a la termodinámica
+
+### Sistemas termodinámicos
 
 Un **sistema termodinámico** es una porción de materia delimitada para su estudio. En relación con el **entorno**, los sistemas termodinámicos se clasifican en:
 
 {{< figure src="termodinamica-quimica-2Bach-quimica/sistemas.svg" title="Adaptada de https://www.nagwa.com/en/explainers/259104205403/." lightbox="false" width="100%" >}}
 
-## Variables termodinámicas
+### Variables termodinámicas
 
 Las **variables termodinámicas** son las **propiedades** que **definen** el **estado** de un **sistema termodinámico**. Pueden ser:
 
@@ -72,23 +74,23 @@ Intensivas
 Extensivas
 : Dependen de la cantidad de materia (masa, volumen, energía interna, entalpía, entropía, etc.).
 
-### Funciones de estado
+#### Funciones de estado
 
 Algunas variables termodinámicas reciben el nombre de **funciones de estado** porque su valor depende únicamente de los estados inicial y final del sistema y no del camino seguido para pasar de un estado a otro. Son **funciones de estado** el **volumen**, la **presión**, la **temperatura**, la **energía interna**, la **entalpía**, la **entropía** y la **energía de Gibbs**. El **calor** y el **trabajo no** son **funciones de estado**.
 
 {{< figure src="termodinamica-quimica-2Bach-quimica/funcion-estado.svg" title="**Metáfora útil**: la altura de una montaña (función de estado) depende de la base (estado inicial) y la cima (estado final), no de la ruta que tomes. El esfuerzo para subir (trabajo, calor) depende de la senda que sigas. Fuente: https://depositphotos.com/vector/mountain-climbing-route-top-rock-red-flag-peak-business-journey-785336924.html." lightbox="false" width="100%" >}}
 
-## Procesos termodinámicos
+### Procesos termodinámicos
 
 Un **proceso termodinámico** es la **transformación** que experimenta un sistema termodinámico al pasar de un estado inicial a un estado final. Los procesos termodinámicos pueden ser **reversibles** o **irreversibles**, dependiendo de si es posible revertir el proceso sin dejar cambios en el entorno. Según las **condiciones** en las que se realicen, tenemos procesos:
 
 {{< figure src="termodinamica-quimica-2Bach-quimica/procesos.svg" lightbox="false" width="100%" theme="light" >}}
 
-## Intercambios de energía entre sistemas: calor y trabajo
+### Intercambios de energía entre sistemas: calor y trabajo
 
 La **energía** se puede **intercambiar/transferir** mediante **calor** o **trabajo**. En el SI se mide en julios (J), aunque por razones históricas en química es habitual medirla en calorías (1&thinsp;cal = 4.18&thinsp;J). Otra unidad habitual es la atmósfera-litro (1&thinsp;atm&thinsp;L = 101.3&thinsp;J).
 
-### Calor *Q*
+#### Calor *Q*
 
 El **calor** se transfiere entre dos cuerpos que tienen **diferente temperatura** y siempre fluye del cuerpo con mayor temperatura al de menor temperatura, hasta que ambos alcanzan el **equilibrio térmico**[^1]. La **ecuación calorimétrica** explica cómo varía la temperatura según la masa $m$, el calor específico $c$ y el calor intercambiado $Q$:
 
@@ -100,11 +102,11 @@ $$
 Q = m c \symup\Delta T
 $$
 
-### Trabajo *W*
+#### Trabajo *W*
 
 El **trabajo** se transfiere cuando entre dos cuerpos se realizan **fuerzas** que provocan desplazamientos o cambios en sus dimensiones.
 
-#### Trabajo de expansión a presión constante
+##### Trabajo de expansión a presión constante
 
 Supongamos que el gas que está dentro del cilindro se expande contra una presión exterior constante $p$:
 
@@ -118,7 +120,7 @@ W & = \vec F\cdot \symup\Delta\vec r = - p\cdot A\cdot h = - p\cdot \symup \Delt
 \end{align*}
 $$
 
-## Primer principio de la termodinámica
+### Primer principio de la termodinámica
 
 Todo sistema, a una determinada presión y temperatura, posee una **energía interna** $U$, que es la suma de la energía cinética de todas sus partículas y de la energía potencial debida a las interacciones entre ellas. El **primer principio de la termodinámica** establece que:
 
@@ -228,19 +230,19 @@ Atendiendo al calor puesto en juego en el proceso, las reacciones químicas pued
 
 Dado que la **entalpía** es **función de estado**:
 
-> La variación de entalpía en una reacción química sólo depende de los estados inicial y final y es independiente de las etapas en las que se produzca la reacción
+> La variación de entalpía en una reacción química sólo depende de los estados inicial y final y es independiente de las etapas en las que se produzca la reacción.
 
 La **ley de Hess** también se puede aplicar a la entropía[^2] y a la energía de Gibbs[^3], puesto que estas son funciones de estado igualmente. Otra manera de enunciar la ley de Hess es:
 
-[^2]: {{< math >}}
+[^2]: {{< math color="white" >}}
       $$
-      \symup{\Delta}_\mathrm r S^⦵ = \sum n S_\mathrm f^⦵(\text{productos}) - \sum m S_\mathrm f^⦵(\text{reactivos}),
+      \symup{\Delta}_\mathrm r S^⦵ = \sum n S_\mathrm f^⦵(\text{productos}) - \sum m S_\mathrm f^⦵(\text{reactivos})
       $$
       {{< /math >}}
 
-[^3]: {{< math >}}
+[^3]: {{< math color="white" >}}
       $$
-      \symup{\Delta}_\mathrm r G^⦵ = \sum n G_\mathrm f^⦵(\text{productos}) - \sum m G_\mathrm f^⦵(\text{reactivos}),
+      \symup{\Delta}_\mathrm r G^⦵ = \sum n G_\mathrm f^⦵(\text{productos}) - \sum m G_\mathrm f^⦵(\text{reactivos})
       $$
       {{< /math >}}
 
@@ -297,11 +299,11 @@ $$
 \symup\Delta H = \sum \left|E_{\text{enlaces rotos}}\right| - \sum \left|E_{\text{enlaces formados}}\right|
 $$
 
-## Entropía
+## Entropía y segundo principio de la termodinámica
 
 La **entropía**, $S$, es una magnitud termodinámica fuertemente relacionada con la **espontaneidad** e **irreversibilidad** de los procesos termodinámicos. Es una **función de estado** que mide el grado de **dispersión** o **desorden** de la **energía** en un sistema. Es una magnitud extensiva y su unidad en el SI es J/K (en química J&thinsp;mol<sup>–1</sup>&thinsp;K<sup>–1</sup>). En los procesos espontáneos, la energía tiende a distribuirse entre más microestados accesibles, aumentando $S$ (ejemplo: la disolución/difusión de tinta en agua). El signo de la variación de entropía, $\symup\Delta S$, puede predecirse en función del cambio en el desorden relacionado con $\symup\Delta n(\mathrm g)$.
 
-## Segundo principio de la termodinámica
+### Segundo principio de la termodinámica
 
 El **segundo principio de la termodinámica** es el responsable, entre otras cosas, de que el calor siempre fluya de manera espontánea desde cuerpos calientes a cuerpos fríos, o de la degradación de la energía en cualquier proceso cíclico (no toda la energía puede convertirse en trabajo útil).
 
