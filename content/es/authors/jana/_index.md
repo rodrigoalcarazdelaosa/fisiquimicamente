@@ -3,7 +3,7 @@
 title: "Jana"
 url: "/equipo/jana"
 
-weight: 30
+weight: 40
 
 # Username (this should match the folder name)
 authors:

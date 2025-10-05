@@ -7,6 +7,7 @@ breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - alba-lopez-valenzuela
 - rodrigo-alcaraz-de-la-osa
+- angela-alcaraz-de-la-osa
 - leticia-cabezas
 tags:
 - apuntes
@@ -29,11 +30,11 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster isomería y reactividad
   url: quimica-organica-poster.pdf
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster polímeros
   url: https://fisiquimicamente.com/blog/2022/12/01/tipos-de-plasticos/tipos-plasticos-poster.pdf
 - icon_pack: fas
@@ -132,10 +133,10 @@ Se presenta en compuestos que difieren en la **posición** de su **grupo funcion
 #### Isomería de función
 
 Se presenta en compuestos que tienen **grupos funcionales distintos**. Suelen ser isómeros de función entre sí:
-				
+
 - alcoholes-éteres,
 - aldehídos-cetonas,
-- y ácidos carboxílicos-ésteres,	
+- y ácidos carboxílicos-ésteres,
 
 aunque existen otras muchas posibilidades.
 
@@ -233,7 +234,7 @@ La [**isomería conformacional**](https://es.wikipedia.org/wiki/Isomería_confor
 {{% /callout %}}
 
 Los alquenos con dobles enlaces conjugados pueden adoptar dos diferentes conformaciones. Por ejemplo, en el **buta–1,3–dieno** los dobles enlaces pueden estar hacia el mismo lado del enlace simple o en lados opuestos. Sería incorrecto referirnos a las dos posibilidades como *cis* y *trans* ya que son **conformaciones** (¡dinámico!) y no configuraciones (estático). Es decir, la molécula puede rotar en torno al enlace sencillo e interconvertirse de una conformación a otra, cosa que no puede ocurrir con los isómeros *cis* y *trans* debido a la rigidez del doble enlace o del ciclo.
-            
+
 Estos [**confórmeros**](https://es.wikipedia.org/wiki/Isomería_conformacional) se nombran con el prefijo "s" (de "sigma", o de "simple" si prefieres).
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/conformeros.svg" lightbox="false" width="100%" theme="light" >}}
@@ -276,7 +277,7 @@ Este es el tipo de esteroisomería que presentan moléculas esenciales para la v
 
 Con el fin de facilitar la representación en el plano, se utilizan las **proyecciones de Fischer**, ideadas por el químico alemán Hermann Emil Fischer[^4] en 1891, para representar la disposición espacial de moléculas en las que uno o más átomos de carbono son quirales:
 
-[^4]: ![Fischer](quimica-organica-2Bach-quimica/Fischer.jpg "**Hermann Emil Fischer** (1852–1919) fue un químico alemán, descubridor del [**barbital**](https://es.wikipedia.org/wiki/Barbital) (primer sedativo y somnífero del grupo de los [barbitúricos](https://es.wikipedia.org/wiki/Barbitúrico)). Fue galardonado con el **Premio Nobel de Química en 1902**. Fuente: https://commons.wikimedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg.")  
+[^4]: ![Fischer](quimica-organica-2Bach-quimica/Fischer.jpg "**Hermann Emil Fischer** (1852–1919) fue un químico alemán, descubridor del [**barbital**](https://es.wikipedia.org/wiki/Barbital) (primer sedativo y somnífero del grupo de los [barbitúricos](https://es.wikipedia.org/wiki/Barbitúrico)). Fue galardonado con el **Premio Nobel de Química en 1902**. Fuente: https://commons.wikimedia.org/wiki/File:Hermann_Emil_Fischer_c1895.jpg.")
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fischer.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -475,7 +476,7 @@ La reacción de combustión de un compuesto orgánico en atmósfera rica en oxí
 <div align="center">
 C<sub>3</sub>H<sub>8</sub>O + 9/2&thinsp;O<sub>2</sub> &xrarr; 3&thinsp;CO<sub>3</sub> + 4&thinsp;H<sub>2</sub>O
 </div>
- 
+
 Las reacciones de combustión son reacciones exotérmicas. Si el compuesto tiene otros elementos, como N o S, también habituales en química orgánica, se obtienen los óxidos de éstos.
 
 ### Reacciones de condensación e hidrólisis

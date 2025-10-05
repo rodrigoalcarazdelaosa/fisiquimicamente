@@ -6,6 +6,7 @@ summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Prin
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- angela-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 - leticia-cabezas
 tags:

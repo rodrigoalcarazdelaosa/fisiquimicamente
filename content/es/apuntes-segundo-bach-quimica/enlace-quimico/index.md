@@ -6,6 +6,7 @@ summary: "Enlace iónico, covalente y metálico. Geometría molecular. Fuerzas i
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- angela-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 - leticia-cabezas
 tags:

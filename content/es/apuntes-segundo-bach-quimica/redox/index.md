@@ -6,6 +6,7 @@ summary: "Equilibrio rédox. Ajuste rédox. Pilas galvánicas. Electrolisis."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- angela-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 - leticia-cabezas
 tags:
@@ -27,7 +28,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: redox-poster.pdf
 - icon_pack: fas
@@ -45,7 +46,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/redox/  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/redox/
 
 slides: redox-2Bach-quimica
 
@@ -54,7 +55,7 @@ math: true
 
 {{% toc %}}
 
-**Rédox** (reducción-oxidación) es un tipo de **reacción química** en la que el **estado de oxidación** de los átomos **cambia**, debido a una **transferencia** de **electrones**. 
+**Rédox** (reducción-oxidación) es un tipo de **reacción química** en la que el **estado de oxidación** de los átomos **cambia**, debido a una **transferencia** de **electrones**.
 
 ## Oxidación-reducción
 
@@ -110,10 +111,10 @@ Para describir la reacción electroquímica global de un proceso redox es necesa
 
 ### Método del estado de oxidación
 Empleado sobre todo en reacciones rédox en **fase gaseosa**, consiste en calcular la **variación** del **estado** de **oxidación** en cada una de las semirreacciones e igualarlas multiplicando por coeficientes adecuados.
-				
+
 ### Método del ion-electrón
 Empleado en reacciones rédox que ocurren en **disolución** (ácida o básica).
-				
+
 #### Pasos
 
 1. Ajustar átomos distintos de O e H.
@@ -123,7 +124,7 @@ Empleado en reacciones rédox que ocurren en **disolución** (ácida o básica).
 3. Ajustar las cargas añadiendo electrones a la parte más positiva.
 4. Igualar el número de electrones multiplicando por coeficientes adecuados.
 5. Sumar las semirreacciones cancelando los electrones y términos comunes.
-   
+
 ### Ejemplo
 {{% callout example %}}
 <br>
@@ -171,7 +172,7 @@ Igualamos el número de electrones multiplicando por coeficientes adecuados:
 
 Sumamos las semirreacciones para obtener la ecuación global:
 
-$$				
+$$
 \boxed{3\thinspace\mathrm{Cu} + 8\thinspace\mathrm{HNO_3} \longrightarrow 3\thinspace\mathrm{Cu(NO_3)_2} + 2\thinspace\mathrm{NO} + 4\thinspace\mathrm{H_2O}}
 $$
 {{% /callout %}}
@@ -235,14 +236,14 @@ donde $n$ es el número de electrones transferidos en la reacción y $F \approx 
 Una **reacción rédox espontánea** se caracteriza por un valor **negativo** de $\symup\Delta G^\circ$, lo que corresponde a un valor **positivo** de $E_\text{pila}^\circ$.
 
 $$
-\text{reacción rédox espontánea} \Leftrightarrow E_\text{pila}^\circ > 0	
+\text{reacción rédox espontánea} \Leftrightarrow E_\text{pila}^\circ > 0
 $$
 
 ## Volumetrías rédox
 
 Una **valoración/titulación rédox** es un método de análisis químico cuantitativo para determinar la concentración de un oxidante o reductor identificado (***analito***), que sufre una reacción rédox con una disolución estándar de reductor u oxidante de concentración conocida (**valorante**).
 
-{{< figure src="acido-base-2Bach-quimica/volumetria-acido-base.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/quantitative-analysis-of-acids-and-bases/." lightbox="false" width="100%" >}}			
+{{< figure src="acido-base-2Bach-quimica/volumetria-acido-base.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/quantitative-analysis-of-acids-and-bases/." lightbox="false" width="100%" >}}
 
 A menudo es necesario utilizar un **indicador rédox** y/o un **potenciómetro** para conocer el **punto de equivalencia**.
 
@@ -251,7 +252,7 @@ A menudo es necesario utilizar un **indicador rédox** y/o un **potenciómetro**
 En el punto de equivalencia, el oxidante ha reaccionado con la cantidad equivalente de reductor, por lo que:
 
 <div align="center" style="margin-bottom: 1rem">
- 
+
 *c*<sub>r</sub>*n*<sub>o</sub> = *c*<sub>o</sub>*n*<sub>r</sub>
 
 *c*<sub>r</sub>*M*<sub>o</sub>*V*<sub>o</sub> = *c*<sub>o</sub>*M*<sub>r</sub>*V*<sub>r</sub>
@@ -264,11 +265,11 @@ donde *n* son los moles, *c* representa los coeficientes estequiométricos, *M* 
 #### Yodometría
 
 Generalmente utilizada para analizar la concentración de agentes oxidantes en muestras de agua, implica la valoración indirecta de yodo liberado por reacción con el analito.
-					
+
 El tiosulfato de sodio (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) suele utilizarse como agente reductor.
-					
+
 La aparición o desaparición de yodo elemental indica el punto final.
-					
+
 No confundir con la **yodimetría**, que es una valoración directa utilizando yodo como sustancia valorante.
 
 #### Permanganometría
@@ -305,12 +306,12 @@ Son **expresiones cuantitativas** que relacionan **magnitudes electroquímicas**
 
 1. La masa de sustancia depositada en un electrodo, $m$, es directamente proporcional a la carga eléctrica transferida a ese electrodo, $Q$:
     $$
-		m \propto Q	
+		m \propto Q
 		$$
 2. Para una determinada cantidad de carga eléctrica, la masa de sustancia depositada en un electrodo, $m$, es directamente proporcional a su *masa equivalente*, $E$, que no es más que su masa molar, $M$, dividida por su valencia iónica (electrones por ion), $n$:
     $$
     m \propto E	= \frac{M}{n}
-		$$			
+		$$
 
 Ambas leyes se pueden combinar en una sola expresión matemática dada por:
 
@@ -377,10 +378,10 @@ El oxígeno atmosférico es el cátodo (oxidante) más común en las reacciones 
 
 {{< figure src="redox-2Bach-quimica/corrosion.svg" title="Traducida y adaptada de https://www.coursehero.com/sg/general-chemistry/corrosion/." lightbox="false" width="100%" >}}
 
-#### Anodización		
+#### Anodización
 
 Proceso electrolítico de *pasivación* que se utiliza para aumentar el grosor de la capa de óxido natural en la superficie de piezas metálicas, especialmente de aluminio (Al).
-		
+
 #### Galvanoplastia
 
 Es la aplicación tecnológica de la deposición de metales mediante electricidad ([electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)), formando un recubrimiento protector, típicamente de zinc sobre hierro o acero (aleación de Fe y C).

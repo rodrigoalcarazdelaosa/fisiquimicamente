@@ -6,6 +6,7 @@ summary: "Ley de acción de masas. Constante de equilibrio. Principio de Le Chat
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- angela-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 - leticia-cabezas
 tags:

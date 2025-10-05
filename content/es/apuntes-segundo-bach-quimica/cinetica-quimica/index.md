@@ -6,6 +6,7 @@ summary: "Velocidad de reacción. Ecuaciones cinéticas. Orden de reacción. Mec
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
+- angela-alcaraz-de-la-osa
 - alba-lopez-valenzuela
 - leticia-cabezas
 tags:
@@ -26,7 +27,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: cinetica-quimica-poster.pdf
 - icon_pack: fas
@@ -44,7 +45,7 @@ links:
 - icon_pack: fas
   icon:
   name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/cinetica-quimica/  
+  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/cinetica-quimica/
 
 slides: cinetica-quimica-2Bach-quimica
 
@@ -133,7 +134,7 @@ La **naturaleza** y la **fuerza** de los **enlaces** en las moléculas **reactiv
 
 Cuando los reactivos están en estados distintos, la reacción sólo puede ocurrir en su área de contacto. Esto significa que **cuanto más finamente dividido** esté un **reactivo** sólido o líquido, **mayor** será su **área** de **superficie** por unidad de volumen y **mayor** será el **contacto** con el otro reactivo, por lo que la **reacción** será **más rápida**.
 
-$$				
+$$
 v_\text{gas} > 	v_\text{líquido} > v_\text{sólido}
 $$
 
