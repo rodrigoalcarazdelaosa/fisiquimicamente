@@ -117,11 +117,13 @@ Esto es lo que se conoce como el [**principio cero de la termodinámica**](https
 
 ---
 
-La **ecuación calorimétrica** explica cómo varía la temperatura según la masa $m$, el calor específico $c$ y el calor intercambiado $Q$:
+El **calor transferido**, $Q$, viene dado por:
 
-$$
-Q = m c \symup\Delta T
-$$
+| Sin cambio de estado | Con cambio de estado |
+| :---: | :---: |
+$Q = m c \symup\Delta T$ | $Q = m L$ |
+
+donde $m$ es la masa del cuerpo, $c$ el [calor específico](https://es.wikipedia.org/wiki/Calor_específico), $\symup\Delta T$ la variación de temperatura y $L$ el [calor latente](https://es.wikipedia.org/wiki/Calor_latente) (de fusión o de vaporización).
 
 ---
 

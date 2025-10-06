@@ -93,15 +93,17 @@ La **energía** se puede **intercambiar/transferir** mediante **calor** o **trab
 
 #### Calor *Q*
 
-El **calor** se transfiere entre dos cuerpos que tienen **diferente temperatura** y siempre fluye del cuerpo con mayor temperatura al de menor temperatura, hasta que ambos alcanzan el **equilibrio térmico**[^1]. La **ecuación calorimétrica** explica cómo varía la temperatura según la masa $m$, el calor específico $c$ y el calor intercambiado $Q$:
+El **calor** se transfiere entre dos cuerpos que tienen **diferente temperatura** y siempre fluye del cuerpo con mayor temperatura al de menor temperatura, hasta que ambos alcanzan el **equilibrio térmico**[^1]. El **calor transferido**, $Q$, viene dado por:
 
 [^1]: Esto es lo que se conoce como el [**principio cero de la termodinámica**](https://es.wikipedia.org/wiki/Principio_cero_de_la_termodinámica), que también puede enunciarse como: "*Si dos cuerpos A y B están en equilibrio térmico con un tercer cuerpo C, entonces A y B están también en equilibrio entre sí.*"
 
     {{< figure src="termodinamica-quimica-2Bach-quimica/principio-cero.svg" title="Adaptada de https://tikz.net/heat_baths/." lightbox="false" width="100%" >}}
 
-$$
-Q = m c \symup\Delta T
-$$
+| Sin cambio de estado | Con cambio de estado |
+| :---: | :---: |
+$Q = m c \symup\Delta T$ | $Q = m L$ |
+
+donde $m$ es la masa del cuerpo, $c$ el [calor específico](https://es.wikipedia.org/wiki/Calor_específico), $\symup\Delta T$ la variación de temperatura y $L$ el [calor latente](https://es.wikipedia.org/wiki/Calor_latente) (de fusión o de vaporización).
 
 #### Trabajo *W*
 
