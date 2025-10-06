@@ -152,7 +152,14 @@ $$
 \frac{1}{\lambda} = R_\mathrm H\cdot\left(\frac{1}{n_1^2}-\frac{1}{n_2^2}\right),
 $$
 
-donde $\lambda$ es la longitud de onda de la radiación emitida en el vacío, $R_\mathrm H = 1.097\times 10^7\thinspace \mathrm m^{-1}$ es la constante de Rydberg y $n_1$ y $n_2$ son los números cuánticos principales de las órbitas involucradas en el salto (con $n_2>n_1$).
+donde $\lambda$ es la longitud de onda de la radiación emitida en el vacío, $R_\mathrm H = 1.097\times 10^7\thinspace \mathrm m^{-1}$ es la constante de Rydberg y $n_1$ y $n_2$ son los números cuánticos principales de las órbitas involucradas en el salto (con $n_2>n_1$)[^3].
+
+[^3]: Según cuál sea el nivel de energía al que vuelve el electrón excitado, tenemos diferentes series de bandas en el espectro:
+    - $n_1 = 1 \rightarrow$ [Lyman](https://es.wikipedia.org/wiki/Serie_de_Lyman) (UV).
+    - $n_1 = 2 \rightarrow$ [Balmer](https://es.wikipedia.org/wiki/Líneas_de_Balmer) (Vis).
+    - $n_1 = 3 \rightarrow$ [Paschen](https://es.wikipedia.org/wiki/Serie_de_Paschen) (IR).
+    - $n_1 = 4 \rightarrow$ Brackett (IR).
+    - $n_1 = 5 \rightarrow$ [Pfund](https://es.wikipedia.org/wiki/Serie_de_Pfund) (IR).
 
 Esta ecuación también nos permite calcular el **valor energético** correspondiente a una **transición electrónica** entre dos niveles dados, $\Delta E$:
 
@@ -206,7 +213,7 @@ Sustituyendo en la anterior relación obtenida a partir de la fuerza centrípeta
 $$
 \begin{aligned}
 mv^2 &= \frac{ke^2}{r} \\\\
-\frac{n^2\hbar^2}{mr^2} &= \frac{ke^2}{r} \rightarrow r = \frac{n^2\hbar^2}{ke^2m}
+\frac{n^2\hbar^2}{mr^2} &= \frac{ke^2}{r} \rightarrow r = \frac{n^2\hbar^2}{ke^2m} = a_0 n^2\ (a_0\approx 0.529\,\mathrm{\mathring{A}})
 \end{aligned}
 $$
 
@@ -321,15 +328,15 @@ En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/
 
 donde $\Delta$ denota la  incertidumbre asociada y $\hbar = h/(2\pi)$.
 
-El **principio** de **incertidumbre** de **Heisenberg** implica que, aunque se especifiquen todas las condiciones iniciales, no es posible predecir el valor de una cantidad con total certeza, dando así paso a una **interpretación probabilística** de la **mecánica cuántica**.
+El **principio** de **incertidumbre** de **Heisenberg** implica que, aunque se especifiquen todas las condiciones iniciales, no es posible predecir el valor de una cantidad con total certeza, dando así paso a una [**interpretación probabilística** de la **mecánica cuántica**](https://es.wikipedia.org/wiki/Interpretación_de_Copenhague) y el concepto de [**orbital atómico**](https://es.wikipedia.org/wiki/Orbital_atómico).
 
 ## Orbitales atómicos
 
-Son **funciones matemáticas**[^3] que **describen** el **tamaño**, la **forma** y la **orientación** de las **regiones** del **espacio** donde es **posible encontrar** al **electrón**[^4].
+Son **funciones matemáticas**[^4] que **describen** el **tamaño**, la **forma** y la **orientación** de las **regiones** del **espacio** donde es **posible encontrar** al **electrón**[^5].
 
-[^3]: Soluciones [complejas](https://es.wikipedia.org/wiki/Número_complejo) de la [ecuación de Schrödinger](https://es.wikipedia.org/wiki/Ecuación_de_Schrödinger) para un electrón ligado a un átomo.
+[^4]: Soluciones [complejas](https://es.wikipedia.org/wiki/Número_complejo) de la [ecuación de Schrödinger](https://es.wikipedia.org/wiki/Ecuación_de_Schrödinger) para un electrón ligado a un átomo.
 
-[^4]: El cuadrado de la amplitud de estas funciones está relacionado con la probabilidad de encontrar a un electrón cualquiera de un átomo en una región específica alrededor del núcleo de dicho átomo. Esto es lo que se conoce como [regla de Born](https://es.wikipedia.org/wiki/Regla_de_Born), dentro de la [interpretación de Copenhague](https://es.wikipedia.org/wiki/Interpretación_de_Copenhague).
+[^5]: El cuadrado de la amplitud de estas funciones está relacionado con la probabilidad de encontrar a un electrón cualquiera de un átomo en una región específica alrededor del núcleo de dicho átomo. Esto es lo que se conoce como [regla de Born](https://es.wikipedia.org/wiki/Regla_de_Born), dentro de la [interpretación de Copenhague](https://es.wikipedia.org/wiki/Interpretación_de_Copenhague).
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos.svg" title="Orbitales s ($l=0$), p ($l=1$), d ($l=2$) y f ($l=3$). Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
 

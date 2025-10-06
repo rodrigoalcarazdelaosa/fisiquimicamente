@@ -154,7 +154,7 @@ $$
 $$
 
 ### Electronegatividad $\chi$
-La **electronegativad** es una **medida** de la **tendencia** de un átomo a **atraer** un par de **electrones** que comparte con otro átomo al que está unido mediante un enlace químico.
+La **electronegativad** es una **medida** de la **tendencia** de un átomo a **atraer** un par de **electrones** que comparte con otro átomo al que está unido mediante un enlace químico. Junto con el potencial de ionización, la electronegatividad determina el **carácter metálico** (baja $E_\mathrm i$ y $\chi$) o no metálico (alta $E_\mathrm i$ y $\chi$) de un elemento químico.
 
 #### A lo largo de un periodo
 La **carga nuclear efectiva aumenta**, los **electrones** de valencia son **más atraídos** por el núcleo y por tanto **aumentan** la **energía** de **ionización**, la **afinidad electrónica** y la **electronegatividad**.
