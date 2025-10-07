@@ -219,7 +219,9 @@ $$
 
 ### Entalpía estándar de reacción
 
-Como la mayoría de las reacciones químicas ocurren a presión constante, ese calor coincide con la variación de entalpía de la reacción, magnitud que depende de las condiciones del sistema, por lo que es preciso definir un **estado estándar** ($p = 1&thinsp;\mathrm{bar} = 10^5&thinsp;\mathrm{Pa}$ y $T=25&thinsp;\mathrm{&degC} = 298&thinsp;\mathrm K$). La **entalpía estándar de reacción**, $\symup{\Delta}_\mathrm r H^⦵$, es por tanto la variación de entalpía en una reacción química en la que los reactivos en estado estándar se transforman en productos en estado estándar. Suele medirse en kJ/mol.
+Como la mayoría de las reacciones químicas ocurren a presión constante, ese calor coincide con la variación de entalpía de la reacción, magnitud que depende de las condiciones del sistema, por lo que es preciso definir un **estado estándar** ($p = 1&thinsp;\mathrm{bar} = 10^5&thinsp;\mathrm{Pa}$)[^2]. La **entalpía estándar de reacción**, $\symup{\Delta}_\mathrm r H^⦵$, es por tanto la variación de entalpía en una reacción química en la que los reactivos en estado estándar se transforman en productos en estado estándar. Suele medirse en kJ/mol.
+
+[^2]: Aunque la temperatura no forma parte de la definición del estado estándar, la mayoría de las tablas de magnitudes termodinámicas contienen medidas a una temperatura concreta, habitualmente $T=25&thinsp;\mathrm{&degC} = 298&thinsp;\mathrm K$.
 
 ### Procesos endotérmicos y exotérmicos
 
@@ -235,15 +237,15 @@ Dado que la **entalpía** es **función de estado**:
 
 > La variación de entalpía en una reacción química sólo depende de los estados inicial y final y es independiente de las etapas en las que se produzca la reacción.
 
-La **ley de Hess** también se puede aplicar a la entropía[^2] y a la energía de Gibbs[^3], puesto que estas son funciones de estado igualmente. Otra manera de enunciar la ley de Hess es:
+La **ley de Hess** también se puede aplicar a la entropía[^3] y a la energía de Gibbs[^4], puesto que estas son funciones de estado igualmente. Otra manera de enunciar la ley de Hess es:
 
-[^2]: {{< math color="white" >}}
+[^3]: {{< math color="white" >}}
       $$
       \symup{\Delta}_\mathrm r S^⦵ = \sum n S_\mathrm f^⦵(\text{productos}) - \sum m S_\mathrm f^⦵(\text{reactivos})
       $$
       {{< /math >}}
 
-[^3]: {{< math color="white" >}}
+[^4]: {{< math color="white" >}}
       $$
       \symup{\Delta}_\mathrm r G^⦵ = \sum n G_\mathrm f^⦵(\text{productos}) - \sum m G_\mathrm f^⦵(\text{reactivos})
       $$
@@ -322,7 +324,7 @@ $$
 G = H - TS
 $$
 
-donde $H$ es la entalpía, $T$ es la temperatura en Kelvin y $S$ es la entropía. En caso de trabajar a una temperatura distinta de 25&thinsp;&deg;C (no estándar), supondremos que $H$ y $S$ no cambian con la temperatura.
+donde $H$ es la entalpía, $T$ es la temperatura en Kelvin y $S$ es la entropía. En caso de trabajar a una temperatura distinta de 25&thinsp;&deg;C, supondremos que $H$ y $S$ no cambian con la temperatura.
 
 ### Espontaneidad
 
@@ -344,3 +346,7 @@ $$
 A la hora de evaluar la espontaneidad, si al calcular la temperatura de equilibrio esta nos sale negativa, significa que la reacción es o bien siempre espontánea o bien siempre no espontánea. Para averiguarlo nos fijamos en los signos de $\Delta H$ y $\Delta S$. Si sale positiva, por ejemplo 1000&thinsp;K, hay que ir de nuevo a la ecuación y mirar si es espontánea para $T>1000\thinspace\mathrm K$ o $T<1000\thinspace\mathrm K$.
 
 {{< figure src="termodinamica-quimica-2Bach-quimica/espontaneidad.svg" lightbox="false" width="100%" theme="light" >}}
+
+{{% callout note %}}
+Para **describir** completamente un **proceso químico** es **necesario conocer** el **balance** de **masas** (estequiometría), el **balance** de **energía** y su **velocidad**. Y tenemos que tener en cuenta que, aunque un proceso sea termodinámicamente viable (espontáneo), no quiere decir que vaya a ser rápido. De este último aspecto, fundamental también a nivel industrial, se encarga la [**cinética química**]({{< relref "apuntes-segundo-bach-quimica/cinetica-quimica" >}}).
+{{% /callout %}}

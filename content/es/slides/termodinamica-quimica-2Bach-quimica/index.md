@@ -284,7 +284,11 @@ $$
 
 ### Entalpía estándar de reacción
 
-Como la mayoría de las reacciones químicas ocurren a presión constante, ese calor coincide con la variación de entalpía de la reacción, magnitud que depende de las condiciones del sistema, por lo que es preciso definir un **estado estándar** ($p = 1&thinsp;\mathrm{bar} = 10^5&thinsp;\mathrm{Pa}$ y $T=25&thinsp;\mathrm{&degC} = 298&thinsp;\mathrm K$).
+Como la mayoría de las reacciones químicas ocurren a presión constante, ese calor coincide con la variación de entalpía de la reacción, magnitud que depende de las condiciones del sistema, por lo que es preciso definir un **estado estándar** ($p = 1&thinsp;\mathrm{bar} = 10^5&thinsp;\mathrm{Pa}$).
+
+---
+
+Aunque la temperatura no forma parte de la definición del estado estándar, la mayoría de las tablas de magnitudes termodinámicas contienen medidas a una temperatura concreta, habitualmente $T=25&thinsp;\mathrm{&degC} = 298&thinsp;\mathrm K$.
 
 ---
 
@@ -455,7 +459,7 @@ donde $H$ es la entalpía, $T$ es la temperatura en Kelvin y $S$ es la entropía
 
 ---
 
-En caso de trabajar a una temperatura distinta de 25&thinsp;&deg;C (no estándar), supondremos que $H$ y $S$ no cambian con la temperatura.
+En caso de trabajar a una temperatura distinta de 25&thinsp;&deg;C, supondremos que $H$ y $S$ no cambian con la temperatura.
 
 ---
 
@@ -485,6 +489,10 @@ Para averiguarlo nos fijamos en los signos de $\Delta H$ y $\Delta S$. Si sale p
 ---
 
 {{< figure src="termodinamica-quimica-2Bach-quimica/espontaneidad.svg" lightbox="false" width="100%" theme="light" >}}
+
+---
+
+> Para **describir** completamente un **proceso químico** es **necesario conocer** el **balance** de **masas** (estequiometría), el **balance** de **energía** y su **velocidad**. Y tenemos que tener en cuenta que, aunque un proceso sea termodinámicamente viable (espontáneo), no quiere decir que vaya a ser rápido. De este último aspecto, fundamental también a nivel industrial, se encarga la [**cinética química**]({{< relref "slides/cinetica-quimica-2Bach-quimica" >}}).
 
 {{% /section %}}
 
