@@ -77,15 +77,15 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 
 ## Parámetros moleculares
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/parametros-moleculares.svg" title="Traducida y adaptada de https://ch301.cm.utexas.edu/section2.php?target=atomic/bonding/covalent-bonding.html." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/parametros-moleculares.svg" title="[**Potencial de Morse**](https://es.wikipedia.org/wiki/Potencial_de_Morse): representa la energía frente a la distancia entre átomos. Según estos se van aproximando, se ponen de manifiesto fuerzas atractivas, pero si se acercan demasiado actúan fuerzas repulsivas. Traducida y adaptada de https://ch301.cm.utexas.edu/section2.php?target=atomic/bonding/covalent-bonding.html." lightbox="false" width="100%" >}}
 
 ### Energía de enlace
 
-Es una medida de la **fortaleza** de un **enlace químico**.
+Es la energía desprendida al formar el enlace desde la separación *infinita* hasta alcanzar la longitud de enlace. Es una medida de la **fortaleza** de un **enlace químico** (cuanto mayor sea esta energía, más fuerte será el enlace).
 
 ### Longitud de enlace
 
-Distancia media entre los núcleos de dos átomos enlazados.
+Distancia media entre los núcleos de dos átomos enlazados. Se trata de la distancia óptima en la que la atracción es máxima y la repulsión mínima.
 
 ### Ángulo de enlace
 
@@ -93,7 +93,7 @@ Distancia media entre los núcleos de dos átomos enlazados.
 
 ### Polaridad de enlace
 
-Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
+Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su **polaridad**:
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" title="Imágenes adaptadas de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/bond-polarity-and-dipole-moments." lightbox="false" width="100%" >}}
 
@@ -107,21 +107,21 @@ Estudia la **polaridad** de **moléculas** con esta excelente **simulación**:
 
 ## Enlace iónico
 
-Es un enlace que involucra la **atracción electrostática** entre **iones** de **signo opuesto**. El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones, convirtiéndose en cationes) **y no metales** (tienden a captar electrones, convirtiéndose en aniones). Los compuestos iónicos forman **redes cristalinas** compactas y **neutras** con diferentes geometrías según el tipo de iones que las forman.
+Es un enlace que involucra la **atracción electrostática** entre **iones** de **signo opuesto**. El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones, convirtiéndose en cationes) **y no metales** (tienden a captar electrones, convirtiéndose en aniones). Cada ion tiende a rodearse de un número determinado de iones de signo opuesto ([**número de coordinación**](https://es.wikipedia.org/wiki/Número_de_coordinación)). Se forman así **redes cristalinas** compactas y **neutras** con diferentes geometrías según el tipo de iones que las forman.
 
 {{< figure library="true" src="enlace-quimico-4ESO/enlace-ionico.svg" title="Representación de la **unión iónica** entre el **litio** (Li) y el **flúor** (F) para formar el **fluoruro de litio** (LiF). El litio cede fácilmente su único electrón de valencia a un átomo de flúor, que acepta el electrón donado.<br>Adaptada de https://commons.wikimedia.org/wiki/File:Ionic_bonding.svg." lightbox="false" width="100%" >}}
 
 {{< figure library="true" src="enlace-quimico-4ESO/Lewis-LiF.svg" lightbox="false" width="100%" >}}
 
-### Energía de red $U_\mathrm R$
+### Energía de red o energía reticular $U_\mathrm R$
 
-Es la **energía liberada** al **formar** la **red** a partir de sus iones en estado gaseoso.
+Es la **energía liberada** (proceso exotérmico) al **formar** la **red** a partir de sus iones en estado gaseoso. Cuanto mayor sea su valor más estable es la red y mayor será el punto de fusión y menor su solubilidad. El cálculo de esta energía se puede hacer mediante el [**ciclo de Born-Haber**](#ciclo-de-born-haber) (método indirecto) o la [**ecuación de Born-Landé**](#ecuación-de-born-landé) (método directo).
 
 #### Ciclo de Born-Haber
 
 Formación de un compuesto iónico a partir de sus elementos.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber.svg" title="Ciclo de Born-Haber para la formación del fluoruro de litio (LiF). Basada en https://commons.wikimedia.org/wiki/File:Born-haber_cycle_LiF.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber.svg" title="Ciclo de Born-Haber para la formación de un mol de fluoruro de litio (LiF). Basada en https://commons.wikimedia.org/wiki/File:Born-haber_cycle_LiF.svg." lightbox="false" width="100%" >}}
 
 #### Ecuación de Born-Landé
 
@@ -145,6 +145,7 @@ Se comprueba que el módulo de la **energía** de **red** es:
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/cristal.svg" title="**Cristal** de **cloruro de sodio** (sal común, NaCl). <br> 🔵 $\rightarrow$ sodio (Na); 🟢 $\rightarrow$ cloro (Cl). <br> https://freesvg.org/sodium-chloride-crystal" lightbox="false" width="100%" >}}
 
 - Ante **golpes**, el **alineamiento** de los **iones** positivos y negativos **puede perderse**, por lo que son muy **frágiles**, aunque también muy **duros**.
+- Son **solubles en disolventes polares** (serán más solubles cuanto menor sea $U_\mathrm R$).
 - **Fundidos** o en **disolución**, **conducen** la **corriente eléctrica**.
 
 ## Enlace metálico
@@ -185,7 +186,9 @@ Es un enlace químico que implica la **compartición** de **pares** de **electro
 
 ### Estructuras de Lewis
 
-Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula.
+Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** de una **molécula** y los **pares solitarios** de **electrones** que pueden existir en la molécula[^1].
+
+[^1]: Las **estructuras** de **Lewis** **no informan** sobre la **geometría real** de la **molécula**.
 
 Las estructuras de Lewis muestran cada átomo y su posición en la estructura de la molécula usando su símbolo químico. Se dibujan líneas entre los átomos que están unidos entre sí (se pueden utilizar pares de puntos en lugar de líneas). El exceso de electrones que forman pares solitarios se representan como pares de puntos, y se colocan junto a los átomos.
 
@@ -215,15 +218,15 @@ Las estructuras de Lewis muestran cada átomo y su posición en la estructura de
 
 ### Enlace covalente coordinado o dativo
 
-Se trata de enlaces en los que un solo elemento (***dador***) aporta el par de electrones, el cual es aceptado por otro elemento que tiene un orbital vacío (***aceptor***). Es un enlace muy común[^1] y clave para entender el concepto **ácido-base de Lewis**, en el que el ácido es la especie que acepta el par de electrones (aceptor) y la base la especie que lo cede (dador).
+Se trata de enlaces en los que un solo elemento (***dador***) aporta el par de electrones, el cual es aceptado por otro elemento que tiene un orbital vacío (***aceptor***). Es un enlace muy común[^2] y clave para entender el concepto **ácido-base de Lewis**, en el que el ácido es la especie que acepta el par de electrones (aceptor) y la base la especie que lo cede (dador).
 
-[^1]: En todos los **aquo-complejos metálicos**, [M(H<sub>2</sub>O)<sub>*n*</sub>]<sup>*m*+</sup>, el enlace entre el agua y el catión metálico se describe como un **enlace covalente coordinado**.
+[^2]: En todos los **aquo-complejos metálicos**, [M(H<sub>2</sub>O)<sub>*n*</sub>]<sup>*m*+</sup>, el enlace entre el agua y el catión metálico se describe como un **enlace covalente coordinado**.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/enlace-coordinado.svg" title="El catión H<sup>+</sup> no tiene electrones para compartir, por lo que el N y el O aportan el par de electrones. El enlace covalente coordinado o dativo se representa con una flecha &#8594;, que va desde el átomo dador al átomo aceptor." lightbox="false" width="100%" theme="light" >}}
 
 ### Resonancia
 
-La **resonancia** es una forma de describir el enlace en ciertas moléculas mediante la combinación de varias **estructuras resonantes** cuyo conjunto se conoce como un **híbrido** de **resonancia**. Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas o iones poliatómicos.
+La **resonancia** es una forma de describir el enlace en ciertas moléculas mediante la combinación de varias **estructuras resonantes** cuyo conjunto se conoce como un **híbrido** de **resonancia**. Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas (O<sub>3</sub>, SO<sub>2</sub>) o iones poliatómicos (NO<sup>–</sup>, NO<sub>2</sub><sup>–</sup>).
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia.svg" title="Basada en https://commons.wikimedia.org/wiki/File:Benzene_delocalization.svg." lightbox="false" width="100%" theme="light" >}}
 
@@ -232,7 +235,8 @@ La **resonancia** es una forma de describir el enlace en ciertas moléculas medi
 {{< figure library="true" src="elementos-compuestos-2ESO-3ESO/molecula.svg" title="Representación esquemática en 3D de una **molécula** de **sacarosa**. <br> ⚫ $\rightarrow$ carbono (C); 🔴 $\rightarrow$ oxígeno (O); ⚪ $\rightarrow$ hidrógeno (H). <br>Fuente: https://commons.wikimedia.org/wiki/File:Sucrose_molecule.svg" lightbox="false" width="100%" >}}
 
 - Debido a las **débiles interacciones entre moléculas** covalentes, suelen tener **temperaturas** de **fusión** y **ebullición bajas** (muchos compuestos covalentes son **líquidos** o **gases** a **temperatura ambiente**).
-- En estado sólido son compuestos **blandos** y **frágiles**.
+- Son **solubles** en **disolventes polares y apolares** (*semejante disuelve a semejante*).
+- En estado **sólido** son compuestos **blandos** y **frágiles**.
 - Son **malos conductores** del **calor** y de la **electricidad**.
 
 ### Propiedades de las sustancias covalentes cristalinas
@@ -245,6 +249,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 - Debido a los **fuertes enlaces covalentes** entre los átomos, suelen tener **temperaturas** de **fusión** y **ebullición altas**, por lo que son **sólidos** a **temperatura ambiente**.
 - Son sustancias muy **duras** aunque **frágiles**.
+- Son **insolubles**.
 - Suelen ser **malos conductores** (no así el grafito o el grafeno).
 
 {{% callout note %}}
@@ -255,9 +260,9 @@ Construye un **detector** de **conductividad** con [esta genial **práctica** de
 
 ### TRPECV
 
-La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPECV) se basa en que, como los electrones de valencia se repelen unos a otros, éstos tienden a adoptar una disposición espacial que minimiza dicha repulsión.
+La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPECV) se basa en que, como los electrones de valencia se repelen unos a otros, estos tienden a adoptar una disposición espacial que minimiza dicha repulsión.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" title="Imágenes adaptadas de https://www.sigmaaldrich.com/technical-documents/articles/chemistry/vsepr-chart-valence-shell-electron-pair-repulsion-theory.html." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" title="Partiendo de las estructuras de Lewis, se determinan las **densidades electrónicas** o direcciones de enlace, teniendo en cuenta que, para ver la repulsión, tanto los enlaces sencillos, dobles y triples así como los pares solitarios afectan como una única densidad electrónica (dirección de enlace). Imágenes adaptadas de https://www.sigmaaldrich.com/technical-documents/articles/chemistry/vsepr-chart-valence-shell-electron-pair-repulsion-theory.html." lightbox="false" width="100%" >}}
 
 #### Ejemplos
 
@@ -383,7 +388,7 @@ Explora las **formas moleculares** mediante la **construcción** de **moléculas
 
 ## Fuerzas intermoleculares
 
-Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las **moléculas**, incluyendo las fuerzas de atracción o repulsión que actúan entre las moléculas y otros tipos de partículas vecinas, por ejemplo, átomos o iones. Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas intramoleculares** (las que mantienen unida una molécula).
+Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las **moléculas**, incluyendo las fuerzas de atracción o repulsión que actúan entre las moléculas y otros tipos de partículas vecinas, por ejemplo, átomos o iones. Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas intramoleculares** (las que mantienen unida una molécula). Son además **responsables** del **estado de agregación**, ya que su fortaleza está relacionada con las temperaturas de fusión y ebullición de la sustancia.
 
 ### Fuerzas de van der Waals
 

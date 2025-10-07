@@ -64,22 +64,24 @@ Los elementos tenderán a **unirse** para completar su capa exterior, **intercam
 
 ## Parámetros moleculares
 
-- [Energía de enlace](#/2/1)
-- [Longitud de enlace](#/2/2)
-- [Ángulo de enlace](#/2/3)
-- [Polaridad de enlace](#/2/4)
+- [Energía de enlace](#/2/2)
+- [Longitud de enlace](#/2/3)
+- [Ángulo de enlace](#/2/4)
+- [Polaridad de enlace](#/2/5)
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/parametros-moleculares.svg" title="[**Potencial de Morse**](https://es.wikipedia.org/wiki/Potencial_de_Morse): representa la energía frente a la distancia entre átomos. Según se van aproximando, se ponen de manifiesto fuerzas atractivas, pero si se acercan demasiado actúan fuerzas repulsivas." lightbox="false" width="60%" >}}
 
 ---
 
 ### Energía de enlace
-Es una medida de la **fortaleza** de un **enlace químico**.
-
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/parametros-moleculares.svg" lightbox="false" width="85%" >}}
+Es la energía desprendida al formar el enlace desde la separación *infinita* hasta alcanzar la longitud de enlace. Es una medida de la **fortaleza** de un **enlace químico** (cuanto mayor sea esta energía, más fuerte será el enlace).
 
 ---
 
 ### Longitud de enlace
-Distancia media entre los núcleos de dos átomos enlazados.
+Distancia media entre los núcleos de dos átomos enlazados. Se trata de la distancia óptima en la que la atracción es máxima y la repulsión mínima.
 
 ---
 
@@ -89,7 +91,7 @@ Distancia media entre los núcleos de dos átomos enlazados.
 ---
 
 ### Polaridad de enlace
-Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su polaridad:
+Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su **polaridad**:
 
 ---
 
@@ -128,7 +130,7 @@ El **enlace iónico** suele darse **entre metales** (tienden a ceder electrones,
 
 ---
 
-Los compuestos iónicos forman **redes cristalinas** compactas y **neutras** con diferentes geometrías según el tipo de iones que las forman.
+Cada ion tiende a rodearse de un número determinado de iones de signo opuesto ([**número de coordinación**](https://es.wikipedia.org/wiki/Número_de_coordinación)). Se forman así **redes cristalinas** compactas y **neutras** con diferentes geometrías según el tipo de iones que las forman.
 
 ---
 
@@ -140,9 +142,13 @@ Los compuestos iónicos forman **redes cristalinas** compactas y **neutras** con
 
 ---
 
-### Energía de red $U_\mathrm R$
+### Energía de red o energía reticular $U_\mathrm R$
 
-Es la **energía liberada** al **formar** la **red** a partir de sus iones en estado gaseoso.
+Es la **energía liberada** (proceso exotérmico) al **formar** la **red** a partir de sus iones en estado gaseoso. Cuanto mayor sea su valor más estable es la red y mayor será el punto de fusión y menor su solubilidad.
+
+---
+
+El cálculo de esta energía se puede hacer mediante el [**ciclo de Born-Haber**](#ciclo-de-born-haber) (método indirecto) o la [**ecuación de Born-Landé**](#ecuación-de-born-landé) (método directo).
 
 ---
 
@@ -183,6 +189,7 @@ Se comprueba que el módulo de la **energía** de **red** es:
 ---
 
 - Ante **golpes**, el **alineamiento** de los **iones** positivos y negativos **puede perderse**, por lo que son muy **frágiles**, aunque también muy **duros**.
+- Son **solubles en disolventes polares** (serán más solubles cuanto menor sea $U_\mathrm R$).
 - **Fundidos** o en **disolución**, **conducen** la **corriente eléctrica**.
 
 {{% /section %}}
@@ -262,6 +269,10 @@ Se trata de **diagramas** que **muestran** la **unión** entre los **átomos** d
 
 ---
 
+Las **estructuras** de **Lewis** **no informan** sobre la **geometría real** de la **molécula**.
+
+---
+
 Las estructuras de Lewis muestran cada átomo y su posición en la estructura de la molécula usando su símbolo químico.
 
 ---
@@ -312,7 +323,7 @@ La **resonancia** es una forma de describir el enlace en ciertas moléculas medi
 
 ---
 
-Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas o iones poliatómicos.
+Es especialmente útil para describir los **electrones deslocalizados** (enlaces $=$ en distintas posiciones) en ciertas moléculas (O<sub>3</sub>, SO<sub>2</sub>) o iones poliatómicos (NO<sup>–</sup>, NO<sub>2</sub><sup>–</sup>).
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/resonancia.svg" lightbox="false" width="100%" >}}
 
@@ -324,7 +335,8 @@ Es especialmente útil para describir los **electrones deslocalizados** (enlaces
 ---
 
 - Debido a las **débiles interacciones entre moléculas** covalentes, suelen tener **temperaturas** de **fusión** y **ebullición bajas** (muchos compuestos covalentes son **líquidos** o **gases** a **temperatura ambiente**).
-- En estado sólido son compuestos **blandos** y **frágiles**.
+- Son **solubles** en **disolventes polares y apolares** (*semejante disuelve a semejante*).
+- En estado **sólido** son compuestos **blandos** y **frágiles**.
 - Son **malos conductores** del **calor** y de la **electricidad**.
 
 ---
@@ -348,6 +360,7 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 
 - Debido a los **fuertes enlaces covalentes** entre los átomos, suelen tener **temperaturas** de **fusión** y **ebullición altas**, por lo que son **sólidos** a **temperatura ambiente**.
 - Son sustancias muy **duras** aunque **frágiles**.
+- Son **insolubles**.
 - Suelen ser **malos conductores** (no así el grafito o el grafeno).
 
 ---
@@ -363,8 +376,8 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 ## Geometría molecular
 
 - [TRPECV](#/6/1)
-- [TEV](#/6/15)
-- [Simulación](#/6/40)
+- [TEV](#/6/16)
+- [Simulación](#/6/41)
 
 (continúa hacia abajo)
 
@@ -373,11 +386,15 @@ Las **sustancias covalentes cristalinas** contienen un gran número de **átomos
 ---
 
 ### TRPECV
-La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPECV) se basa en que, como los electrones de valencia se repelen unos a otros, éstos tienden a adoptar una disposición espacial que minimiza dicha repulsión.
+La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPECV) se basa en que, como los electrones de valencia se repelen unos a otros, estos tienden a adoptar una disposición espacial que minimiza dicha repulsión.
 
 ---
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" lightbox="false" width="90%" >}}
+Partiendo de las estructuras de Lewis, se determinan las **densidades electrónicas** o direcciones de enlace, teniendo en cuenta que, para ver la repulsión, tanto los enlaces sencillos, dobles y triples así como los pares solitarios afectan como una única densidad electrónica (dirección de enlace).
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/TRPECV.svg" lightbox="false" width="100%" >}}
 
 ---
 
@@ -588,6 +605,10 @@ Las **fuerzas intermoleculares** son las **fuerzas** que existen **entre** las *
 ---
 
 Las fuerzas intermoleculares son **débiles en relación con** las **fuerzas intramoleculares** (las que mantienen unida una molécula).
+
+---
+
+Son además **responsables** del **estado de agregación**, ya que su fortaleza está relacionada con las temperaturas de fusión y ebullición de la sustancia.
 
 ---
 
