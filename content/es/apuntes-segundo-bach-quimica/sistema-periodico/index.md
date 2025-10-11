@@ -147,7 +147,7 @@ $$
 $$
 
 ### Afinidad electrónica $E_\mathrm{ea}$
-La **afinidad electrónica** es la **energía liberada** cuando un átomo neutro, X, en estado gaseoso y en su estado fundamental, **capta** un **electrón**, formando un anión X<sup>--</sup>.
+La **afinidad electrónica** es la **energía intercambiada** (generalmente liberada) cuando un átomo neutro, X, en estado gaseoso y en su estado fundamental, **capta** un **electrón**, formando un anión X<sup>--</sup>.
 
 $$
 \mathrm{X(g)} + 1\thinspace\mathrm e^- \longrightarrow \mathrm{X^-(g)} + E_\mathrm{ea}

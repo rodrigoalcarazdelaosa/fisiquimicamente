@@ -123,7 +123,7 @@ $$
 $$
 
 ### Afinitat electrònica $E_\mathrm{ea}$
-L'**afinitat electrònica** és l'**energia alliberada** quan un àtom neutre, X, en estat gasós i en el seu estat fonamental, **capta** un **electró**, formant un anió X<sup>--</sup>.
+L'**afinitat electrònica** és l'**energia intercanviada** (generalment alliberada) quan un àtom neutre, X, en estat gasós i en el seu estat fonamental, **capta** un **electró**, formant un anió X<sup>--</sup>.
 
 $$
 \mathrm{X(g)} + 1\thinspace\mathrm e^- \longrightarrow \mathrm{X^-(g)} + E_\mathrm{ea}

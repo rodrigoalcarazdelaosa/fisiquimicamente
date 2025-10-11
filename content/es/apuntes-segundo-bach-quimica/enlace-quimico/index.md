@@ -121,7 +121,7 @@ Es la **energía liberada** (proceso exotérmico) al **formar** la **red** a par
 
 Formación de un compuesto iónico a partir de sus elementos.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber.svg" title="Ciclo de Born-Haber para la formación de un mol de fluoruro de litio (LiF). Basada en https://commons.wikimedia.org/wiki/File:Born-haber_cycle_LiF.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber.svg" title="Ciclo de Born-Haber para la formación de un mol de fluoruro de litio (LiF). Cada energía tendrá su signo según sea desprendida ($<0$) o absorbida ($>0$). Basada en https://commons.wikimedia.org/wiki/File:Born-haber_cycle_LiF.svg." lightbox="false" width="100%" >}}
 
 #### Ecuación de Born-Landé
 
