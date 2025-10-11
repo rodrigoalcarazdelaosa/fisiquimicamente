@@ -22,7 +22,7 @@ subtitle = "☢️ Técnicas de Radiofarmacia"
   filter_default = 0
 
   [[content.filter_button]]
-    name = "Todas"
+    name = "Todos"
     tag = "*"
 
   [[content.filter_button]]
@@ -32,6 +32,10 @@ subtitle = "☢️ Técnicas de Radiofarmacia"
 [[content.filter_button]]
     name = "Procedimiento de obtención de los radiofármacos"
     tag = "obtención-radiofármacos"
+
+[[content.filter_button]]
+    name = "El activímetro y el control de calidad del generador"
+    tag = "activímetro"
 
 [[content.filter_button]]
     name = "Determinación del procedimiento de marcaje del radiofármaco"
