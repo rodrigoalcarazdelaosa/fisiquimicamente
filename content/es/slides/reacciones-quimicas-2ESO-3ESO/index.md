@@ -88,8 +88,8 @@ Una **reacción química** es un proceso en el cual unas sustancias (**reactivos
 
 ---
 
-### Teoría de colisiones
-La **teoría** de **colisiones** nos ayuda a **explicar** el **mecanismo** de una **reacción química**:
+### Teoría de las colisiones
+La **teoría** de las **colisiones** nos ayuda a **explicar** el **mecanismo** de una **reacción química**:
 
 1. Se **rompen** los **enlaces** de los **reactivos**.
 2. Se **reordenan** los **átomos**.

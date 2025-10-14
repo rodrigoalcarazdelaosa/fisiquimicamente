@@ -59,8 +59,8 @@ Una **reacción química** es un proceso en el cual unas sustancias (**reactivos
 
 {{< figure library="true" src="reacciones-quimicas-2ESO-3ESO/combustion-metano-intro.svg" title="Una molécula de metano ($\ce{CH4}$) reacciona con dos moléculas de oxígeno ($\ce{O2}$) para producir una molécula de dióxido de carbono ($\ce{CO2}$) y dos moléculas de agua ($\ce{H2O}$). Adaptada de https://commons.wikimedia.org/wiki/File:Methane-combustion.svg." lightbox="false" width="100%" >}}
 
-### Teoría de colisiones
-La **teoría** de **colisiones** nos ayuda a **explicar** el **mecanismo** de una **reacción química**:
+### Teoría de las colisiones
+La **teoría** de las **colisiones** nos ayuda a **explicar** el **mecanismo** de una **reacción química**:
 
 1. Se **rompen** los **enlaces** de los **reactivos**.
 2. Se **reordenan** los **átomos**.

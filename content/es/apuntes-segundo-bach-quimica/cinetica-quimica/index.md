@@ -60,24 +60,20 @@ La **cinética química** es la **rama** de la **química física** que se ocupa
 
 ## Teorías de reacciones químicas
 
-### Teoría de colisiones
-La **teoría de colisiones**, propuesta por Lewis en 1918, explica una reacción desde el punto de vista dinámico. Nos dice que las reacciones se producen a partir de choques entre las moléculas de los reactivos. Para que estos choques sean **eficaces**, las moléculas han de tener suficiente energía (**energía de activación**) y una orientación adecuada.
+### Teoría de las colisiones
+La **teoría de las colisiones**, propuesta por Lewis en 1918, explica una reacción desde el **punto de vista dinámico**. Nos dice que las reacciones se producen a partir de choques entre las moléculas de los reactivos. Para que estos choques sean **eficaces**, las moléculas han de tener suficiente energía ([**energía de activación**](https://es.wikipedia.org/wiki/Energía_de_activación)) y una orientación adecuada.
 
 {{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-colisiones.svg" title="Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" theme="light" >}}
 
 ### Teoría del estado de transición o del complejo activado
 
-La **teoría del estado de transición**, propuesta por Henry Eyring en 1935, explica una reacción química desde el punto de vista energético. Cuando las moléculas de los reactivos chocan, dan lugar a un **estado de transición**, muy inestable, donde se forma un **complejo activado**, en el que unos enlaces se están formando y otros rompiendo.
+La **teoría del estado de transición**, propuesta por Henry Eyring en 1935, explica una reacción química desde el **punto de vista energético**. Cuando las moléculas de los reactivos chocan, dan lugar a un **estado de transición**, muy inestable, donde se forma un **complejo activado**, en el que unos enlaces se están formando y otros rompiendo.
 
 {{< figure library="true" src="cinetica-quimica-2bach-quimica/teoria-estado-transicion.svg" title="Cuanto menor sea la energía de activación, más rápida será la reacción química. <br> Adaptada de https://www.coursehero.com/sg/general-chemistry/collision-theory/." lightbox="false" width="100%" theme="light" >}}
 
 ## Mecanismos de reacción
 
-El **mecanismo** de una **reacción** es el conjunto de procesos o reacciones elementales por los que se produce el cambio químico global.
-
-Las especies que no aparecen en la reacción global se denominan **intermedios de reacción**, ya que se producen en un proceso elemental pero se consumen en otro.
-
-La velocidad de una reacción viene determinada por la reacción elemental más lenta, llamada **etapa limitante** o **controlante** de la **velocidad**.
+El **mecanismo** de una **reacción** es el conjunto de procesos o reacciones elementales por los que se produce el cambio químico global. Las especies que no aparecen en la reacción global se denominan **intermedios de reacción**, ya que se producen en un proceso elemental pero se consumen en otro. La velocidad de una reacción viene determinada por la reacción elemental más lenta, llamada **etapa limitante** o **controlante** de la **velocidad**.
 
 ## Velocidad de reacción
 
@@ -99,7 +95,15 @@ $$
 v = - \frac{1}{a} \frac{\mathrm d [\mathrm A]}{\mathrm d t} = - \frac{1}{b} \frac{\mathrm d [\mathrm B]}{\mathrm d t} = \frac{1}{c} \frac{\mathrm d [\mathrm C]}{\mathrm d t} = \frac{1}{d} \frac{\mathrm d [\mathrm D]}{\mathrm d t},
 $$
 
-donde [ ] representa **concentración**, medida en mol/L. En general, la velocidad de una reacción química disminuye con el tiempo y se determina experimentalmente, midiendo la concentración a intervalos de tiempo conocidos. Notar que la velocidad referida a los reactivos (A y B) presenta un signo menos (–), para transformar la variación (negativa) de la concentración de éstos en una velocidad positiva.
+donde [ ] representa **concentración**[^3], medida en mol/L. En general, la velocidad de una reacción química disminuye con el tiempo y se determina experimentalmente, midiendo la concentración a intervalos de tiempo conocidos. Notar que la velocidad referida a los reactivos (A y B) presenta un signo menos (–), para transformar la variación (negativa) de la concentración de estos en una velocidad positiva.
+
+[^3]: Si se trabaja con gases a temperatura constante, podemos utilizar presiones parciales en lugar de concentraciones:
+    $$
+    \begin{align*}
+    pV &= nRT \\
+    \frac{p}{RT} &= \frac{n}{V} \Rightarrow p = [\ ]RT
+    \end{align*}
+    $$
 
 ## Ecuaciones cinéticas
 
@@ -109,9 +113,9 @@ $$
 v = k[\mathrm A]^n[\mathrm B]^m,
 $$
 
-donde $k$ es la constante de velocidad (${\uparrow}k\rightarrow {\uparrow} v$); [A] y [B] las concentraciones (molares) de los reactivos; y $n$ y $m$ son los órdenes de reacción parciales ($\text{orden total} = n+m$). En el caso de **reacciones elementales** (una sola etapa), los órdenes parciales coinciden con los coeficientes estequiométricos, por lo que el orden total coincide con la **molecularidad**[^3].
+donde $k$ es la constante de velocidad (${\uparrow}k\rightarrow {\uparrow} v$, notar que [$k$ aumenta exponencialmente con la temperatura](#temperatura)); [A] y [B] las concentraciones (molares) de los reactivos; y $n$ y $m$ son los órdenes de reacción parciales, determinados experimentalmente ($\text{orden total} = n+m$). En el caso de **reacciones elementales** (una sola etapa), los órdenes parciales coinciden con los coeficientes estequiométricos, por lo que el orden total coincide con la **molecularidad**[^4].
 
-[^3]: La **molecularidad** es el número de moléculas que intervienen en una reacción elemental, y es igual a la suma de los coeficientes estequiométricos de los reactivos.
+[^4]: La **molecularidad** es el número de moléculas que intervienen en una reacción elemental, y es igual a la suma de los coeficientes estequiométricos de los reactivos.
 
 {{< figure library="true" src="cinetica-quimica-2bach-quimica/orden-reaccion.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -121,7 +125,7 @@ Definimos la **vida media** o **periodo de semireacción**, $t_{1/2}$, como el t
 
 | Orden | 0 | 1 | 2 | 3 |
 | :---: | :---: | :---: | :---: | :---: |
-| Integración | &nbsp; &nbsp; $[\mathrm A] = [\mathrm A]_0 - kt$ &nbsp; &nbsp; | $[\mathrm A] = [\mathrm A]_0 \cdot \mathrm e^{-kt}$ | &nbsp; &nbsp; $\displaystyle [\mathrm A] = \frac{[\mathrm A]_0}{1+[\mathrm A]_0 kt}$ &nbsp; &nbsp; | &nbsp; &nbsp; $\displaystyle [\mathrm A] = \frac{[\mathrm A]_0}{\sqrt{1+2[\mathrm A]_0^2 kt}}$ |
+| Integración | $[\mathrm A] = [\mathrm A]_0 - kt$ | $[\mathrm A] = [\mathrm A]_0 \cdot \mathrm e^{-kt}$ | $\displaystyle [\mathrm A] = \frac{[\mathrm A]_0}{1+[\mathrm A]_0 kt}$ | $\displaystyle [\mathrm A] = \frac{[\mathrm A]_0}{\sqrt{1+2[\mathrm A]_0^2 kt}}$ |
 | $t_{1/2}$ | $\displaystyle \frac{[\mathrm A]_0}{2k}$ | $\displaystyle \frac{\ln 2}{k}$ | $\displaystyle \frac{1}{k[A]_0}$ | $\displaystyle \frac{3}{2k[A]_0^2}$
 
 ## Factores que influyen en la velocidad de reacción
@@ -150,10 +154,10 @@ $$
 
 ### Temperatura
 
-A **mayor temperatura**, las moléculas tienen más energía térmica y son más susceptibles de chocar eficazmente, **aumentando** la **velocidad** de **reacción**. La **ecuación de Arrhenius** relaciona la constante de velocidad $k$ con la temperatura $T$:
+A **mayor temperatura**, las moléculas tienen más energía térmica y son más susceptibles de chocar eficazmente, **aumentando** la **velocidad** de **reacción**. La [**ecuación de Arrhenius**](https://es.wikipedia.org/wiki/Ecuación_de_Arrhenius) relaciona la constante de velocidad $k$ con la temperatura $T$ (dependencia exponencial):
 
 $$
-k = A\mathrm e^{-\frac{E_\mathrm a}{RT}},
+k = A\mathrm e^{-E_\mathrm a/(RT)},
 $$
 
 donde $A$ es el factor de frecuencia, que refleja la frecuencia de las colisiones, $E_\mathrm a$ es la energía de activación y $R = 8.314\thinspace \mathrm J\thinspace\mathrm{mol}^{-1}\thinspace\mathrm K^{-1}$ es la constante universal de los gases ideales.

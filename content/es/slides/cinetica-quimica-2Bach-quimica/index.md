@@ -38,7 +38,7 @@ La **cinética química** es la **rama** de la **química física** que se ocupa
 
 ## Teorías de reacciones químicas
 
-- [Teoría de colisiones](#/2/1)
+- [Teoría de las colisiones](#/2/1)
 - [Teoría del estado de transición o del complejo activado](#/2/5)
 
 (continúa hacia abajo)
@@ -47,8 +47,8 @@ La **cinética química** es la **rama** de la **química física** que se ocupa
 
 ---
 
-### Teoría de colisiones
-La **teoría de colisiones**, propuesta por Lewis en 1918, explica una reacción desde el punto de vista dinámico.
+### Teoría de las colisiones
+La **teoría de las colisiones**, propuesta por Lewis en 1918, explica una reacción desde el **punto de vista dinámico**.
 
 ---
 
@@ -56,7 +56,7 @@ Nos dice que las reacciones se producen a partir de choques entre las moléculas
 
 ---
 
-Para que estos choques sean **eficaces**, las moléculas han de tener suficiente energía (**energía de activación**) y una orientación adecuada.
+Para que estos choques sean **eficaces**, las moléculas han de tener suficiente energía ([**energía de activación**](https://es.wikipedia.org/wiki/Energía_de_activación)) y una orientación adecuada.
 
 ---
 
@@ -66,7 +66,7 @@ Para que estos choques sean **eficaces**, las moléculas han de tener suficiente
 
 ### Teoría del estado de transición o del complejo activado
 
-La **teoría del estado de transición**, propuesta por Henry Eyring en 1935, explica una reacción química desde el punto de vista energético.
+La **teoría del estado de transición**, propuesta por Henry Eyring en 1935, explica una reacción química desde el **punto de vista energético**.
 
 ---
 
@@ -132,6 +132,17 @@ donde [ ] representa **concentración**, medida en mol/L.
 
 ---
 
+Si se trabaja con gases a temperatura constante, podemos utilizar presiones parciales en lugar de concentraciones:
+
+$$
+\begin{align*}
+pV &= nRT \\
+\frac{p}{RT} &= \frac{n}{V} \Rightarrow p = [\ ]RT
+\end{align*}
+$$
+
+---
+
 En general, la velocidad de una reacción química disminuye con el tiempo y se determina experimentalmente, midiendo la concentración a intervalos de tiempo conocidos.
 
 ---
@@ -158,7 +169,7 @@ $$
 
 ---
 
-donde $k$ es la constante de velocidad (${\uparrow}k\rightarrow {\uparrow} v$); [A] y [B] las concentraciones (molares) de los reactivos; y $n$ y $m$ son los órdenes de reacción parciales ($\text{orden total} = n+m$).
+donde $k$ es la constante de velocidad (${\uparrow}k\rightarrow {\uparrow} v$, notar que [$k$ aumenta exponencialmente con la temperatura](#temperatura)); [A] y [B] las concentraciones (molares) de los reactivos; y $n$ y $m$ son los órdenes de reacción parciales, determinados experimentalmente ($\text{orden total} = n+m$).
 
 ---
 
@@ -240,7 +251,7 @@ Cuando los reactivos están en estados distintos, la reacción sólo puede ocurr
 
 Esto significa que **cuanto más finamente dividido** esté un **reactivo** sólido o líquido, **mayor** será su **área** de **superficie** por unidad de volumen y **mayor** será el **contacto** con el otro reactivo, por lo que la **reacción** será **más rápida**.
 
-$$				
+$$
 v_\text{gas} > 	v_\text{líquido} > v_\text{sólido}
 $$
 
@@ -264,10 +275,10 @@ A **mayor temperatura**, las moléculas tienen más energía térmica y son más
 
 ---
 
-La **ecuación de Arrhenius** relaciona la constante de velocidad $k$ con la temperatura $T$:
+La [**ecuación de Arrhenius**](https://es.wikipedia.org/wiki/Ecuación_de_Arrhenius) relaciona la constante de velocidad $k$ con la temperatura $T$ (dependencia exponencial):
 
 $$
-k = A\mathrm e^{-\frac{E_\mathrm a}{RT}},
+k = A\mathrm e^{-E_\mathrm a/(RT)},
 $$
 
 donde $A$ es el factor de frecuencia, que refleja la frecuencia de las colisiones, $E_\mathrm a$ es la energía de activación y $R = 8.314\thinspace \mathrm J\thinspace\mathrm{mol}^{-1}\thinspace\mathrm K^{-1}$ es la constante universal de los gases ideales.
