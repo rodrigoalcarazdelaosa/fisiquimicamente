@@ -220,6 +220,16 @@ donde $r\rightarrow a$ (semieje mayor) si la órbita es elíptica.
 
 ---
 
+La 3ª ley de Kepler nos permite estimar la distancia media al Sol para cuerpos que giran a su alrededor:
+
+$$
+a \simeq T^{2/3},
+$$
+
+donde $T$ está en años y $a$ en unidades astronómicas (ua, unidad de longitud igual, por definición, a <span style="white-space:nowrap">149&thinsp;597&thinsp;870&thinsp;700&thinsp;m</span>, que equivale aproximadamente a la distancia media entre la Tierra y el Sol.)
+
+---
+
 **Explora** las **leyes** de **Kepler** con esta magnífica **simulación**:
 
 <iframe loading=lazy src="https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
@@ -662,8 +672,12 @@ Una esfera con densidad homogénea $\rho=M/V=3M/(4\pi R^3)$:
 ### Campo gravitatorio terrestre
 
 Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra:
+
 $$
-\vec g = -\frac{GM_\mathrm T}{r^2}\,\hat{\mathrm r} \quad \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
+\vec g = \begin{cases}
+-\dfrac{GM_\mathrm T}{R_\mathrm T^3}r\,\hat{\mathrm r} & \mathrm{para}\ r\leq R_\mathrm T \\ \\
+-\dfrac{GM_\mathrm T}{r^2}\,\hat{\mathrm r} & \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
+\end{cases}
 $$
 
 ---
@@ -774,8 +788,8 @@ $$
 ## Movimiento de los satélites en órbitas
 
 - [Satélites geoestacionarios](#/6/3)
-- [Energía de los satélites](#/6/5)
-- [Energía de los satélites y tipo de órbita](#/6/12)
+- [Energía de los satélites](#/6/7)
+- [Energía de los satélites y tipo de órbita](#/6/14)
 
 (continúa hacia abajo)
 
@@ -802,16 +816,26 @@ de donde podemos obtener:
 ---
 
 ### Satélites geoestacionarios
-Son aquellos cuyo periodo coincide con el [periodo de rotación terrestre](https://es.wikipedia.org/wiki/Día), de forma que orbitan manteniéndose siempre en la misma vertical (aparentemente no se mueven). Se colocan en el plano del ecuador para que $\vec g$ no varíe con la latitud.
+Son aquellos cuyo periodo coincide con el [periodo de rotación terrestre](https://es.wikipedia.org/wiki/Día) ($\approx 24\,\mathrm h = 86400\,\mathrm s$), de forma que orbitan manteniéndose siempre en la misma vertical (aparentemente no se mueven). Se colocan en el plano del ecuador para que $\vec g$ no varíe con la latitud.
 
 ---
 
 Despejando de la [3ª ley de Kepler](#3ª-ley-ley-de-los-periodos):
 {{< math width="100%" >}}
 $$
-\frac{T^2}{r^3} = \frac{4\pi^2}{GM_\mathrm T} \rightarrow r = \sqrt[3]{\frac{GM_\mathrm T}{4\pi^2}} \rightarrow h = r-\mathrm R_T \approx 35\,800\,\mathrm{km}
+\frac{T^2}{r^3} = \frac{4\pi^2}{GM_\mathrm T} \rightarrow r = \sqrt[3]{\frac{GM_\mathrm T T^2}{4\pi^2}} \rightarrow h = r-\mathrm R_T \approx 35\,800\,\mathrm{km}
 $$
 {{< /math >}}
+
+Su velocidad orbital es de aproximadamente $3070\,\mathrm{m/s} \approx 11050\,\mathrm{km/h}$.
+
+---
+
+Los [**satélites meteorológicos**](https://es.wikipedia.org/wiki/Satélite_meteorológico) son un tipo de satélite artificial que se utilizan principalmente para supervisar el tiempo atmosférico y el clima de la Tierra. Existen principalmente dos tipos de satélites: los de órbita polar (que cubren toda la Tierra de forma asíncrona) y los geoestacionarios (que se mantienen sobre el mismo punto del ecuador).
+
+---
+
+{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/satelites-meteorologicos.jpg" title="Satélites meteorológicos a nivel global." width="100%" lightbox="true" >}}
 
 ---
 
@@ -832,7 +856,7 @@ Si tenemos en cuenta que todas las **fuerzas** que actúan son **conservativas**
 
 Así, es posible calcular:
 
-Velocidad de lanzamiento
+Velocidad de lanzamiento desde la superficie terrestre
 : Es la velocidad que hay que comunicar a un satélite para colocarlo en su órbita, suponiendo que se lanza desde la superficie terrestre:
 {{< math width="100%" >}}
 $$
@@ -846,7 +870,7 @@ $$
 
 ---
 
-Velocidad de escape
+Velocidad de escape desde la superficie terrestre
 : Si en el lanzamiento (supuesto de nuevo desde la superficie terrestre) proporcionamos al satélite una velocidad suficientemente elevada, este puede llegar a escapar del campo gravitatorio terrestre. A esta (mínima) velocidad se le denomina [**velocidad de escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape).
 
 ---

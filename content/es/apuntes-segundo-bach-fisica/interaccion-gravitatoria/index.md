@@ -155,6 +155,16 @@ donde $r\rightarrow a$ (semieje mayor) si la órbita es elíptica.
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/leyes-kepler.svg" title="Diagrama que ilustra las **leyes de Kepler**. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Kepler_laws_diagram.svg." width="100%" lightbox="false" >}}
 
+La 3ª ley de Kepler nos permite estimar la distancia media al Sol para cuerpos que giran a su alrededor:
+
+$$
+a \simeq T^{2/3},
+$$
+
+donde $T$ está en años y $a$ en unidades astronómicas (ua)[^2].
+
+[^2]: La [unidad astronómica](https://es.wikipedia.org/wiki/Unidad_astronómica) es una unidad de longitud igual, por definición, a <span style="white-space:nowrap">149&thinsp;597&thinsp;870&thinsp;700&thinsp;m</span>, que equivale aproximadamente a la distancia media entre la Tierra y el Sol.
+
 **Explora** las **leyes** de **Kepler** con esta magnífica **simulación**:
 
 <iframe loading=lazy src="https://phet.colorado.edu/sims/html/keplers-laws/latest/keplers-laws_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
@@ -429,12 +439,16 @@ Una esfera con densidad homogénea $\rho=M/V=3M/(4\pi R^3)$:
 
 ### Campo gravitatorio terrestre
 
-Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra[^2]:
+Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra[^3]:
+
 $$
-\vec g = -\frac{GM_\mathrm T}{r^2}\,\hat{\mathrm r} \quad \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
+\vec g = \begin{cases}
+-\dfrac{GM_\mathrm T}{R_\mathrm T^3}r\,\hat{\mathrm r} & \mathrm{para}\ r\leq R_\mathrm T \\ \\
+-\dfrac{GM_\mathrm T}{r^2}\,\hat{\mathrm r} & \mathrm{para}\ r=R_\mathrm T+h\geq R_\mathrm T\ (h\geq 0)
+\end{cases}
 $$
 
-[^2]: La realidad es un poco más complicada. A día de hoy tenemos el llamado [Modelo de Referencia Preliminar](https://es.wikipedia.org/wiki/Modelo_de_referencia_preliminar_de_la_Tierra) (PREM por sus siglás en inglés):
+[^3]: La realidad es un poco más complicada. A día de hoy tenemos el llamado [Modelo de Referencia Preliminar](https://es.wikipedia.org/wiki/Modelo_de_referencia_preliminar_de_la_Tierra) (PREM por sus siglás en inglés):
     {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/g-tierra.svg" title="Se incluyen dos modelos para una Tierra esféricamente simétrica para comparación. La línea recta verde oscura es para una densidad constante igual a la densidad promedio de la Tierra. La línea curva de color verde claro es para una densidad que disminuye linealmente desde el centro a la superficie. La densidad en el centro es la misma que en el PREM, pero la densidad de la superficie se elige de modo que la masa de la esfera sea igual a la masa de la Tierra real. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:EarthGravityPREM.svg." width="100%" lightbox="false" >}}
 
 En esta **práctica virtual** diseñada para 1.º de Bachillerato, el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos propone dos métodos bien diferentes pero igual de eficaces para **determinar** el valor de la **aceleración** de la **gravedad terrestre**:
@@ -516,12 +530,18 @@ de donde podemos obtener:
 - Frecuencia: $f=1/T$
 
 ### Satélites geoestacionarios
-Son aquellos cuyo periodo coincide con el [periodo de rotación terrestre](https://es.wikipedia.org/wiki/Día), de forma que orbitan manteniéndose siempre en la misma vertical (aparentemente no se mueven). Se colocan en el plano del ecuador para que $\vec g$ no varíe con la latitud. Despejando de la [3ª ley de Kepler](#3ª-ley-ley-de-los-periodos):
+Son aquellos cuyo periodo coincide con el [periodo de rotación terrestre](https://es.wikipedia.org/wiki/Día) ($\approx 24\,\mathrm h = 86400\,\mathrm s$), de forma que orbitan manteniéndose siempre en la misma vertical (aparentemente no se mueven). Se colocan en el plano del ecuador para que $\vec g$ no varíe con la latitud. Despejando de la [3ª ley de Kepler](#3ª-ley-ley-de-los-periodos):
 {{< math >}}
 $$
-\frac{T^2}{r^3} = \frac{4\pi^2}{GM_\mathrm T} \rightarrow r = \sqrt[3]{\frac{GM_\mathrm T}{4\pi^2}} \rightarrow h = r-\mathrm R_T \approx 35\,800\,\mathrm{km}
+\frac{T^2}{r^3} = \frac{4\pi^2}{GM_\mathrm T} \rightarrow r = \sqrt[3]{\frac{GM_\mathrm T T^2}{4\pi^2}} \rightarrow h = r-\mathrm R_T \approx 35\,800\,\mathrm{km}
 $$
 {{< /math >}}
+
+Su velocidad orbital es de aproximadamente $3070\,\mathrm{m/s} \approx 11050\,\mathrm{km/h}$.
+
+Los [**satélites meteorológicos**](https://es.wikipedia.org/wiki/Satélite_meteorológico) son un tipo de satélite artificial que se utilizan principalmente para supervisar el tiempo atmosférico y el clima de la Tierra. Existen principalmente dos tipos de satélites: los de órbita polar (que cubren toda la Tierra de forma asíncrona) y los geoestacionarios (que se mantienen sobre el mismo punto del ecuador).
+
+{{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/satelites-meteorologicos.jpg" title="Satélites meteorológicos a nivel global. Fuente: https://commons.wikimedia.org/wiki/File:Global_Weather_Satellites_%2829832071145%29.jpg." width="100%" lightbox="true" >}}
 
 ### Energía de los satélites
 
@@ -534,7 +554,7 @@ E = E_\mathrm c + E_\mathrm p = \frac{1}{2}mv^2 - \frac{GMm}{r} = \frac{1}{2}\fr
 
 Si tenemos en cuenta que todas las **fuerzas** que actúan son **conservativas**, la **energía mecánica se conserva**. Así, es posible calcular:
 
-Velocidad de lanzamiento
+Velocidad de lanzamiento desde la superficie terrestre
 : Es la velocidad que hay que comunicar a un satélite para colocarlo en su órbita, suponiendo que se lanza desde la superficie terrestre:
 {{< math >}}
 $$
@@ -546,10 +566,10 @@ E_{\mathrm c_1} + E_{\mathrm p_1}                                    & = \frac{E
 $$
 {{< /math >}}
 
-Velocidad de escape
-: Si en el lanzamiento[^3] proporcionamos al satélite una velocidad suficientemente elevada, este puede llegar a escapar del campo gravitatorio terrestre. A esta (mínima) velocidad se le denomina [**velocidad de escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape). Imponiendo la condición de que el objeto se aleje hasta una distancia infinita y quede en reposo ($E=0$):
+Velocidad de escape desde la superficie terrestre
+: Si en el lanzamiento[^4] proporcionamos al satélite una velocidad suficientemente elevada, este puede llegar a escapar del campo gravitatorio terrestre. A esta (mínima) velocidad se le denomina [**velocidad de escape**](https://es.wikipedia.org/wiki/Velocidad_de_escape). Imponiendo la condición de que el objeto se aleje hasta una distancia infinita y quede en reposo ($E=0$):
 
-[^3]: Suponiendo de nuevo que se lanza desde la superficie terrestre.
+[^4]: Suponiendo de nuevo que se lanza desde la superficie terrestre.
 
 $$
 \begin{aligned}
