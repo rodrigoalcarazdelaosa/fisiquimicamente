@@ -5,7 +5,7 @@ summary: ""
 tags:
 - procedimiento-realizar-dosimetria-fisica-RT
 categories:
-weight: 1
+weight: 2
 
 image:
   preview_only: true
