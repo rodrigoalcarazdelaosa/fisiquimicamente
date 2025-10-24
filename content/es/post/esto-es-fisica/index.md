@@ -121,7 +121,7 @@ Este capítulo trata sobre las [**secciones cónicas**](https://es.wikipedia.org
 
 {{< figure src="secciones-conicas.svg" title="Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Conic_Sections.svg." lightbox="false" width="100%" theme="light" >}}
 
-**Aprende más** sobre **gravedad** y **órbitas**, el **Sistema Solar** o las **leyes** de **Kepler** con las siguientes **simulaciones** de **PhET Colorado**:
+**Aprende más** sobre **gravedad** y **órbitas**, el **sistema solar** o las **leyes** de **Kepler** con las siguientes **simulaciones** de **PhET Colorado**:
 
 <iframe loading=lazy src="https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 

@@ -1,5 +1,5 @@
 ---
-title: Pósters del Sistema Solar
+title: Pósters del sistema solar
 subtitle: Mostrando la belleza de nuestro sistema solar y más allá
 summary: Mostrando la belleza de nuestro sistema solar y más allá.
 breadcrumbs: ["blog"]
@@ -230,7 +230,7 @@ Si deseas consultar **datos** como masas, tamaños, periodos, etc. de cada plane
 {{% /callout %}}
 {{% toc %}}
 
-## El Sistema Solar
+## El sistema solar
 {{< figure src="2283_poster_ss_front_a_web.jpg" title="Esta representación artística muestra los ocho planetas principales de nuestro sistema solar alineados como si estuvieran transitando por el Sol. Aunque tal vista no sería posible en la realidad, el gráfico pretende mostrar la escala exacta de los planetas, en relación a cada uno de ellos y al Sol. <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/2854_SSE_A_PDF.zip)" lightbox="true" >}}
 
 ## El Sol
@@ -281,5 +281,5 @@ Si deseas consultar **datos** como masas, tamaños, periodos, etc. de cada plane
 {{< gallery album="pluton" >}}
 ## Cometas
 {{< gallery album="cometas" >}}
-## Más allá del Sistema Solar
+## Más allá del sistema solar
 {{< gallery album="mas-alla" >}}

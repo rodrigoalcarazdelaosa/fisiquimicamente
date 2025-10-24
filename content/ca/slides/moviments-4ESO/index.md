@@ -204,7 +204,7 @@ Què passa quan una bola de bitlles i una ploma es deixen caure juntes a les con
 
 ---
 
-### I quant val la gravetat en altres astres del Sistema Solar?
+### I quant val la gravetat en altres astres del sistema solar?
 
 | Astre | $g$ | $\mathrm{m/s^2}$ |
 | --- | :---: | :---: |

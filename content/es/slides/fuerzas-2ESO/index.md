@@ -197,7 +197,7 @@ La fuerza de **rozamiento** está asociada al **contacto** entre **superficies**
 	- La **naturaleza** y el **estado** de las **superficies**.
 	- La **fuerza** que **ejerce** un **cuerpo** sobre otro.
 
----	
+---
 
 {{< figure library="true" src="fuerzas-2ESO/rozamiento.svg" lightbox="false" width="100%" >}}
 
@@ -237,7 +237,7 @@ siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
 
 ---
 
-##### ¿Y cuánto vale la gravedad en otros astros del Sistema Solar?
+##### ¿Y cuánto vale la gravedad en otros astros del sistema solar?
 
 | Astro | $g$ | $\mathrm{m/s^2}$ |
 | --- | :---: | :---: |
@@ -252,8 +252,8 @@ siendo $g$ la aceleración de la gravedad (9.8$\thinspace$N/kg en la Tierra).
 | Astro | $g$ | $\mathrm{m/s^2}$ |
 | --- | :---: | :---: |
 | Venus &#9792; | 0.90 | 8.9 |
-| Urano &#9797; | 0.89 | 8.7 |	
-| Marte &#9794; | 0.38 | 3.7 |						
+| Urano &#9797; | 0.89 | 8.7 |
+| Marte &#9794; | 0.38 | 3.7 |
 | Mercurio &#9791; | 0.38 | 3.7 |
 | Luna :crescent_moon: | 0.17 | 1.6 |
 

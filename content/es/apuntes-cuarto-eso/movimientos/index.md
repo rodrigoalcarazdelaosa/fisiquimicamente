@@ -205,7 +205,7 @@ La **caída libre** o **lanzamiento vertical** es un caso especial de MRUA en el
 
 {{< youtube E43-CfukEgs >}}
 
-{{< spoiler text="¿Y cuánto vale la <strong>gravedad</strong> en otros <strong>astros</strong> del <strong>Sistema Solar</strong>? Pincha aquí" >}}
+{{< spoiler text="¿Y cuánto vale la <strong>gravedad</strong> en otros <strong>astros</strong> del <strong>sistema solar</strong>? Pincha aquí" >}}
 | Astro | $g$ | $\mathrm{m/s^2}$ |
 | --- | :---: | :---: |
 | Sol :sunny: | 28.02 | 274.8 |

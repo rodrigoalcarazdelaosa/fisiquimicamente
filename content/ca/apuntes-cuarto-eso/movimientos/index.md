@@ -185,7 +185,7 @@ Què passa quan una bola de bitlles i una ploma es deixen caure juntes a les con
 
 {{< youtube E43-CfukEgs >}}
 
-{{< spoiler text="I quant val la <strong>gravetat</strong> en altres <strong>astres</strong> del <strong>Sistema Solar</strong>? Fes clic aquí" >}}
+{{< spoiler text="I quant val la <strong>gravetat</strong> en altres <strong>astres</strong> del <strong>sistema solar</strong>? Fes clic aquí" >}}
 | Astre | $g$ | $\mathrm{m/s^2}$ |
 | --- | :---: | :---: |
 | Sol :sunny: | 28.02 | 274.8 |

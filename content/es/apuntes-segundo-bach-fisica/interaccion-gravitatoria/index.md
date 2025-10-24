@@ -129,7 +129,7 @@ En este **vídeo**, [**Timothy Rowe**](https://www.youtube.com/@_TimothyRowe/) n
 
 ## Leyes de Kepler
 
-Constituyen una descripción cinemática del Sistema Solar y consiguen explicar de forma muy precisa todas las observaciones relativas no solo al movimiento de planetas, sino también de [asteroides](https://es.wikipedia.org/wiki/Asteroide), [cometas](https://es.wikipedia.org/wiki/Cometa) y [satélites](https://es.wikipedia.org/wiki/Satélite_natural) (incluso [artificiales](https://es.wikipedia.org/wiki/Satélite_artificial)).
+Constituyen una descripción cinemática del sistema solar y consiguen explicar de forma muy precisa todas las observaciones relativas no solo al movimiento de planetas, sino también de [asteroides](https://es.wikipedia.org/wiki/Asteroide), [cometas](https://es.wikipedia.org/wiki/Cometa) y [satélites](https://es.wikipedia.org/wiki/Satélite_natural) (incluso [artificiales](https://es.wikipedia.org/wiki/Satélite_artificial)).
 
 ### 1ª ley: órbitas elípticas
 
@@ -155,15 +155,17 @@ donde $r\rightarrow a$ (semieje mayor) si la órbita es elíptica.
 
 {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/leyes-kepler.svg" title="Diagrama que ilustra las **leyes de Kepler**. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Kepler_laws_diagram.svg." width="100%" lightbox="false" >}}
 
-La 3ª ley de Kepler nos permite estimar la distancia media al Sol para cuerpos que giran a su alrededor:
+La 3ª ley de Kepler nos permite estimar la distancia media al Sol para cuerpos que giran a su alrededor[^2]:
+
+[^2]: En el caso de **órbitas elípticas**, la distancia media se calcula como el promedio de las distancias al perihelio (punto más cercano) y al afelio (punto más lejano). Esta media es también la longitud del semieje mayor de la órbita elíptica.
 
 $$
 a \simeq T^{2/3},
 $$
 
-donde $T$ está en años y $a$ en unidades astronómicas (ua)[^2].
+donde $T$ está en años y $a$ en unidades astronómicas (ua)[^3].
 
-[^2]: La [unidad astronómica](https://es.wikipedia.org/wiki/Unidad_astronómica) es una unidad de longitud igual, por definición, a <span style="white-space:nowrap">149&thinsp;597&thinsp;870&thinsp;700&thinsp;m</span>, que equivale aproximadamente a la distancia media entre la Tierra y el Sol.
+[^3]: La [unidad astronómica](https://es.wikipedia.org/wiki/Unidad_astronómica) es una unidad de longitud igual, por definición, a <span style="white-space:nowrap">149&thinsp;597&thinsp;870&thinsp;700&thinsp;m</span>, que equivale aproximadamente a la distancia media entre la Tierra y el Sol.
 
 **Explora** las **leyes** de **Kepler** con esta magnífica **simulación**:
 
@@ -414,7 +416,7 @@ Son regiones en las que el potencial gravitatorio tiene el mismo valor. Cumplen 
 
 ### Campo gravitatorio creado por distribuciones esféricas de masa
 
-Hasta ahora hemos visto el campo creado por masas puntuales, sin extensión. Podemos aproximar que una masa es puntual cuando sus dimensiones son mucho menores que la distancia considerada. Es decir, cuando trabajamos en regiones del campo que están alejadas de la masa que lo genera; por ejemplo, en el Sistema Solar. Cuando las dimensiones no son despreciables frente a la distancia, hay que considerar el tamaño y la geometría del objeto. Esto sucede, por ejemplo, cuando consideramos el campo en la superficie de terrestre o en sus proximidades.
+Hasta ahora hemos visto el campo creado por masas puntuales, sin extensión. Podemos aproximar que una masa es puntual cuando sus dimensiones son mucho menores que la distancia considerada. Es decir, cuando trabajamos en regiones del campo que están alejadas de la masa que lo genera; por ejemplo, en el sistema solar. Cuando las dimensiones no son despreciables frente a la distancia, hay que considerar el tamaño y la geometría del objeto. Esto sucede, por ejemplo, cuando consideramos el campo en la superficie de terrestre o en sus proximidades.
 
 En ese caso, para el cálculo de $\vec g$ se requiere emplear un teorema matemático: el [**teorema de Gauss**](https://es.wikipedia.org/wiki/Ley_de_Gauss). Antes de enunciar el teorema hay que definir el [**flujo**](https://es.wikipedia.org/wiki/Flujo) $\symup\Phi = \oint_S \vec g \cdot \mathrm d \vec S$, como el número de líneas de campo que atraviesa una superficie.
 
@@ -439,7 +441,7 @@ Una esfera con densidad homogénea $\rho=M/V=3M/(4\pi R^3)$:
 
 ### Campo gravitatorio terrestre
 
-Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra[^3]:
+Lo que acabamos de ver para una esfera maciza homogénea también es aplicable a esferas con capas homogéneas concéntricas, por lo que podemos aplicarlo a la Tierra[^5]:
 
 $$
 \vec g = \begin{cases}
@@ -448,7 +450,7 @@ $$
 \end{cases}
 $$
 
-[^3]: La realidad es un poco más complicada. A día de hoy tenemos el llamado [Modelo de Referencia Preliminar](https://es.wikipedia.org/wiki/Modelo_de_referencia_preliminar_de_la_Tierra) (PREM por sus siglás en inglés):
+[^5]: La realidad es un poco más complicada. A día de hoy tenemos el llamado [Modelo de Referencia Preliminar](https://es.wikipedia.org/wiki/Modelo_de_referencia_preliminar_de_la_Tierra) (PREM por sus siglás en inglés):
     {{< figure library="true" src="interaccion-gravitatoria-2Bach-fisica/g-tierra.svg" title="Se incluyen dos modelos para una Tierra esféricamente simétrica para comparación. La línea recta verde oscura es para una densidad constante igual a la densidad promedio de la Tierra. La línea curva de color verde claro es para una densidad que disminuye linealmente desde el centro a la superficie. La densidad en el centro es la misma que en el PREM, pero la densidad de la superficie se elige de modo que la masa de la esfera sea igual a la masa de la Tierra real. Traducida y adaptada de https://commons.wikimedia.org/wiki/File:EarthGravityPREM.svg." width="100%" lightbox="false" >}}
 
 En esta **práctica virtual** diseñada para 1.º de Bachillerato, el [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos propone dos métodos bien diferentes pero igual de eficaces para **determinar** el valor de la **aceleración** de la **gravedad terrestre**:

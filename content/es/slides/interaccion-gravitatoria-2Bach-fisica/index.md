@@ -184,7 +184,7 @@ Estableció las [tres leyes](#leyes-de-kepler) que llevan su nombre, con las que
 
 ---
 
-Constituyen una descripción cinemática del Sistema Solar y consiguen explicar de forma muy precisa todas las observaciones relativas no solo al movimiento de planetas, sino también de [asteroides](https://es.wikipedia.org/wiki/Asteroide), [cometas](https://es.wikipedia.org/wiki/Cometa) y [satélites](https://es.wikipedia.org/wiki/Satélite_natural) (incluso [artificiales](https://es.wikipedia.org/wiki/Satélite_artificial)).
+Constituyen una descripción cinemática del sistema solar y consiguen explicar de forma muy precisa todas las observaciones relativas no solo al movimiento de planetas, sino también de [asteroides](https://es.wikipedia.org/wiki/Asteroide), [cometas](https://es.wikipedia.org/wiki/Cometa) y [satélites](https://es.wikipedia.org/wiki/Satélite_natural) (incluso [artificiales](https://es.wikipedia.org/wiki/Satélite_artificial)).
 
 ---
 
@@ -227,6 +227,10 @@ a \simeq T^{2/3},
 $$
 
 donde $T$ está en años y $a$ en unidades astronómicas (ua, unidad de longitud igual, por definición, a <span style="white-space:nowrap">149&thinsp;597&thinsp;870&thinsp;700&thinsp;m</span>, que equivale aproximadamente a la distancia media entre la Tierra y el Sol.)
+
+---
+
+En el caso de **órbitas elípticas**, la distancia media se calcula como el promedio de las distancias al perihelio (punto más cercano) y al afelio (punto más lejano). Esta media es también la longitud del semieje mayor de la órbita elíptica.
 
 ---
 
@@ -628,7 +632,7 @@ Son regiones en las que el potencial gravitatorio tiene el mismo valor. Cumplen 
 
 ### Campo gravitatorio creado por distribuciones esféricas de masa
 
-Hasta ahora hemos visto el campo creado por masas puntuales, sin extensión. Podemos aproximar que una masa es puntual cuando sus dimensiones son mucho menores que la distancia considerada. Es decir, cuando trabajamos en regiones del campo que están alejadas de la masa que lo genera; por ejemplo, en el Sistema Solar.
+Hasta ahora hemos visto el campo creado por masas puntuales, sin extensión. Podemos aproximar que una masa es puntual cuando sus dimensiones son mucho menores que la distancia considerada. Es decir, cuando trabajamos en regiones del campo que están alejadas de la masa que lo genera; por ejemplo, en el sistema solar.
 
 ---
 

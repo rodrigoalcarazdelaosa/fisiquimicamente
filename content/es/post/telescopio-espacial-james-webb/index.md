@@ -40,7 +40,7 @@ En este **vídeo** puedes ver la **transmisión oficial** de la **NASA** del **l
 
 {{< youtube 7nT7JGZMbtM >}}
 
-**Webb**[^1] será el **principal observatorio** de la **próxima década**, al servicio de miles de astrónomos de todo el mundo. Estudiará cada fase de la historia de nuestro Universo, desde los primeros resplandores luminosos tras el Big Bang, pasando por la formación de sistemas solares capaces de albergar vida en planetas como la Tierra, hasta la evolución de nuestro propio Sistema Solar.
+**Webb**[^1] será el **principal observatorio** de la **próxima década**, al servicio de miles de astrónomos de todo el mundo. Estudiará cada fase de la historia de nuestro Universo, desde los primeros resplandores luminosos tras el Big Bang, pasando por la formación de sistemas solares capaces de albergar vida en planetas como la Tierra, hasta la evolución de nuestro propio sistema solar.
 
 [^1]: Webb era conocido anteriormente como "Telescopio Espacial de Nueva Generación" (NGST por sus siglas en inglés); fue rebautizado en septiembre de 2002 en honor a un antiguo administrador de la NASA, [James Webb](https://es.wikipedia.org/wiki/James_E._Webb).
 
@@ -105,7 +105,7 @@ El **Telescopio Espacial James Webb** es un **observatorio infrarrojo** en órbi
 - [Buscar las primeras galaxias u objetos luminosos formados después del Big Bang](https://jwst.nasa.gov/content/science/firstLight.html)
 - [Determinar cómo evolucionaron las galaxias desde su formación hasta ahora](https://jwst.nasa.gov/content/science/galaxies.html)
 - [Observar la formación de estrellas desde las primeras etapas hasta la formación de sistemas planetarios](https://jwst.nasa.gov/content/science/birth.html)
-- [Medir las propiedades físicas y químicas de los sistemas planetarios, incluido nuestro propio Sistema Solar, e investigar el potencial de vida en esos sistemas](https://jwst.nasa.gov/content/science/origins.html)
+- [Medir las propiedades físicas y químicas de los sistemas planetarios, incluido nuestro propio sistema solar, e investigar el potencial de vida en esos sistemas](https://jwst.nasa.gov/content/science/origins.html)
 
 ### Instrumentos
 
@@ -201,15 +201,15 @@ También dispone de instrumentos infrarrojos con mayor cobertura de longitudes d
 
 #### ¿Qué nos dirá Webb sobre los exoplanetas? ¿Tomará fotos de los exoplanetas?
 
-Webb podrá indicarnos la composición de las atmósferas de los **exoplanetas**. Observará las atmósferas planetarias mediante la técnica del tránsito. El tránsito se produce cuando un planeta atraviesa el disco de su estrella madre.  Webb también llevará [**coronógrafos**](https://es.wikipedia.org/wiki/Coronógrafo) para poder fotografiar exoplanetas cerca de estrellas brillantes (si son grandes y brillantes y están lejos de la estrella), pero serán sólo "puntos", no grandes panorámicas.  Pensemos en lo lejos que están los exoplanetas de nosotros, ¡y lo pequeños que son en comparación con esta distancia! Ni siquiera sabíamos cómo era realmente Plutón hasta que pudimos enviar un observatorio a volar justo cerca de él, ¡y Plutón está en nuestro propio Sistema Solar!
+Webb podrá indicarnos la composición de las atmósferas de los **exoplanetas**. Observará las atmósferas planetarias mediante la técnica del tránsito. El tránsito se produce cuando un planeta atraviesa el disco de su estrella madre.  Webb también llevará [**coronógrafos**](https://es.wikipedia.org/wiki/Coronógrafo) para poder fotografiar exoplanetas cerca de estrellas brillantes (si son grandes y brillantes y están lejos de la estrella), pero serán sólo "puntos", no grandes panorámicas.  Pensemos en lo lejos que están los exoplanetas de nosotros, ¡y lo pequeños que son en comparación con esta distancia! Ni siquiera sabíamos cómo era realmente Plutón hasta que pudimos enviar un observatorio a volar justo cerca de él, ¡y Plutón está en nuestro propio sistema solar!
 
-{{< figure src="webb-trappist.png" title="Este concepto artístico muestra los siete exoplanetas rocosos del sistema [**TRAPPIST-1**](https://es.wikipedia.org/wiki/TRAPPIST-1), situado a 40 años luz de la Tierra. Los astrónomos observarán estos mundos con Webb en un esfuerzo por detectar la primera atmósfera de un planeta del tamaño de la Tierra más allá de nuestro Sistema Solar. Fuente: https://www.nasa.gov/feature/goddard/2020/nasa-s-webb-will-seek-atmospheres-around-potentially-habitable-exoplanets." lightbox="true" width="100%" >}}
+{{< figure src="webb-trappist.png" title="Este concepto artístico muestra los siete exoplanetas rocosos del sistema [**TRAPPIST-1**](https://es.wikipedia.org/wiki/TRAPPIST-1), situado a 40 años luz de la Tierra. Los astrónomos observarán estos mundos con Webb en un esfuerzo por detectar la primera atmósfera de un planeta del tamaño de la Tierra más allá de nuestro sistema solar. Fuente: https://www.nasa.gov/feature/goddard/2020/nasa-s-webb-will-seek-atmospheres-around-potentially-habitable-exoplanets." lightbox="true" width="100%" >}}
 
-#### ¿Podremos tomar imágenes de objetos de nuestro propio Sistema Solar?
+#### ¿Podremos tomar imágenes de objetos de nuestro propio sistema solar?
 
 Sí. Webb podrá observar los planetas en la órbita de Marte o más allá, los satélites, los cometas, los asteroides y los objetos del [Cinturón de Kuiper](https://es.wikipedia.org/wiki/Cinturón_de_Kuiper). Muchas moléculas, hielos y minerales importantes tienen fuertes huellas características en las longitudes de onda que Webb puede observar. Webb también vigilará el clima de los planetas y sus lunas.
 
-{{< figure src="cinturon-kuiper.png" title="Esta ilustración artística muestra un objeto del Cinturón de Kuiper situado en el borde exterior de nuestro Sistema Solar, a unos 6&thinsp;000 millones de kilómetros del Sol. Fuente: https://webbtelescope.org/resource-gallery/articles/pagecontent/filter-articles/how-does-webb-study-our-solar-system.html." lightbox="true" width="100%" >}}
+{{< figure src="cinturon-kuiper.png" title="Esta ilustración artística muestra un objeto del Cinturón de Kuiper situado en el borde exterior de nuestro sistema solar, a unos 6&thinsp;000 millones de kilómetros del Sol. Fuente: https://webbtelescope.org/resource-gallery/articles/pagecontent/filter-articles/how-does-webb-study-our-solar-system.html." lightbox="true" width="100%" >}}
 
 Dado que el telescopio y los instrumentos deben mantenerse fríos, el parasol protector de Webb bloqueará la visión del sistema solar interior. Esto significa que no podrán observarse el Sol, la Tierra, la Luna, Mercurio y Venus y, por supuesto, los cometas que se alimentan del Sol y muchos objetos conocidos cercanos a la Tierra.
 

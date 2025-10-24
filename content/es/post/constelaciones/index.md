@@ -253,7 +253,7 @@ En el año 185, los astrónomos chinos observaron en ella una [supernova](https:
 
 ![Columba](http://www.allthesky.com/constellations/big/columba28vm-b.jpg "http://www.allthesky.com/constellations/visualconstellations.html")
 
-Esta constelación alberga el [antápex solar](https://es.wikipedia.org/wiki/Ápex_solar), es decir, el punto celeste del cual el Sistema Solar parece alejarse con respecto al sistema de reposo local:
+Esta constelación alberga el [antápex solar](https://es.wikipedia.org/wiki/Ápex_solar), es decir, el punto celeste del cual el sistema solar parece alejarse con respecto al sistema de reposo local:
 
 ![solar antapex](solar-antapex-2.png "https://commons.wikimedia.org/wiki/File:Solar_antapex.png")
 

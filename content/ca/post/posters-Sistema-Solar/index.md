@@ -1,5 +1,5 @@
 ---
-title: Pòsters de el Sistema Solar
+title: Pòsters del sistema solar
 subtitle: Ara es mostren la bellesa del nostre sistema solar i més enllà
 summary: "<code style='color: #2E3440;background:#88C0D0'>PROPERAMENT</code> <br> Ara es mostren la bellesa del nostre sistema solar i més enllà."
 breadcrumbs: ["blog"]
@@ -58,7 +58,7 @@ gallery_item:
   caption: "En 2002, científicos de la NASA _cosieron_ tiras de [imágenes en color natural de la Tierra](https://solarsystem.nasa.gov/resources/786/blue-marble-2002/), recogidas durante cuatro meses desde el instrumento MODIS a bordo del satélite Terra de la NASA. Crédito: El Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1457_Earth_D_PDF.zip)"
 - album: tierra
   image: "995_poster_earth_front_e.jpg"
-  caption: "El satélite Terra de la NASA captó un vistazo de las columnas que se elevan de los [volcanes](https://solarsystem.nasa.gov/resources/1040/plumes-over-the-kamchatka-peninsula/) de la Península de Kamchatka en enero de 2018. Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1461_Earth_E_PDF.zip)"          
+  caption: "El satélite Terra de la NASA captó un vistazo de las columnas que se elevan de los [volcanes](https://solarsystem.nasa.gov/resources/1040/plumes-over-the-kamchatka-peninsula/) de la Península de Kamchatka en enero de 2018. Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1461_Earth_E_PDF.zip)"
 - album: tierra
   image: "996_poster_earth_front_f.jpg"
   caption: "En esta imagen del satélite Landsat 8 de la NASA, [varios glaciares fluyen hacia el Valle Shimshal](https://solarsystem.nasa.gov/resources/819/when-glaciers-and-rivers-collide/). Crédito: Observatorio de la Tierra de la NASA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1465_Earth_F_PDF.zip)"
@@ -103,7 +103,7 @@ gallery_item:
   caption: "[Esta vista del asteroide 243 Ida](https://solarsystem.nasa.gov/resources/777/asteroid-ida-five-frame-mosaic/) fue adquirida por la nave espacial Galileo de la NASA el 28 de agosto de 1993, unos 3 minutos y medio antes de que la nave espacial pasara al lado de Ida. Crédito: NASA/JPL <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1285_Asteroids_A_PDF.zip)"
 - album: asteroides
   image: "923_poster_asteroids_front_b.jpg"
-  caption: "La nave espacial Dawn de la NASA obtuvo [esta imagen del protoplaneta Vesta](https://solarsystem.nasa.gov/resources/414/a-last-look-back-at-vesta/) en 2012, mirando hacia el polo norte de Vesta cuando la nave espacial estaba partiendo. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"  
+  caption: "La nave espacial Dawn de la NASA obtuvo [esta imagen del protoplaneta Vesta](https://solarsystem.nasa.gov/resources/414/a-last-look-back-at-vesta/) en 2012, mirando hacia el polo norte de Vesta cuando la nave espacial estaba partiendo. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1289_Asteroid_B_PDF.zip)"
 - album: ceres
   image: "984_poster_ceres_front_a.jpg"
   caption: "El planeta enano Ceres se muestra en una [representación de color falso](https://solarsystem.nasa.gov/resources/846/ceres-rotation-and-occator-crater/), que destaca las diferencias en los materiales de la superficie. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1421_Ceres_A_PDF.zip)"
@@ -112,7 +112,7 @@ gallery_item:
   caption: "Esta vista de Ceres, tomada por la nave espacial Dawn de la NASA en diciembre de 2015, muestra un [área en el hemisferio sur del planeta enano](https://solarsystem.nasa.gov/resources/625/dawns-lowest-orbit-near-south-pole/?category=planets/dwarf-planets_ceres). Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1425_Ceres_B_PDF.zip)"
 - album: ceres
   image: "986_poster_ceres_front_c.jpg"
-  caption: "Esta [imagen de Ceres](https://solarsystem.nasa.gov/resources/792/dawn-rc3-image-3/) es parte de una secuencia tomada por la nave espacial Dawn de la NASA en 2015. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"    
+  caption: "Esta [imagen de Ceres](https://solarsystem.nasa.gov/resources/792/dawn-rc3-image-3/) es parte de una secuencia tomada por la nave espacial Dawn de la NASA en 2015. Crédito: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1429_Ceres_C_PDF.zip)"
 - album: io
   image: "999_poster_io_front_a_v2.jpg"
   caption: "La nave espacial Galileo de la NASA adquirió [esta vista de Io](https://solarsystem.nasa.gov/resources/808/global-image-of-io-true-color/) en julio de 1999, y se aproxima a lo que el ojo humano vería. Crédito: NASA/JPL-Caltech/Universidad de Arizona <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1477_Io_A_PDF.zip)"
@@ -214,7 +214,7 @@ gallery_item:
   caption: "RCW 108 es una región donde las estrellas se están formando activamente dentro de la Vía Láctea a unos 4.000 años luz de la Tierra. [Esta imagen](https://solarsystem.nasa.gov/resources/762/massive-young-stars-trigger-stellar-birth/) es una composición de datos de rayos X del Observatorio de Rayos X Chandra de la NASA (azul) y la emisión infrarroja detectada por el Telescopio Espacial Spitzer de la NASA (rojo y naranja). Crédito: NASA/JPL-Caltech/CXO/CfA <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1337_Beyond_E_PDF.zip)"
 - album: mas-alla
   image: "944_poster_beyond_front_f.jpg"
-  caption: "El cúmulo estelar NGC 281, conocido informalmente como la _Nebulosa de Pacman_, está situado a unos 6.500 años luz de la Tierra. [Esta imagen](https://solarsystem.nasa.gov/resources/763/the-pacman-nebula/) proviene de datos del telescopio espacial Chandra de la NASA, en morado, con observaciones en infrarrojo del telescopio espacial Spitzer de la NASA. Crédito: Rayos X: NASA/CXC/CfA/S.Wolk; IR: NASA/JPL/CfA/S.Wolk <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1341_Beyond_F_PDF.zip)"          
+  caption: "El cúmulo estelar NGC 281, conocido informalmente como la _Nebulosa de Pacman_, está situado a unos 6.500 años luz de la Tierra. [Esta imagen](https://solarsystem.nasa.gov/resources/763/the-pacman-nebula/) proviene de datos del telescopio espacial Chandra de la NASA, en morado, con observaciones en infrarrojo del telescopio espacial Spitzer de la NASA. Crédito: Rayos X: NASA/CXC/CfA/S.Wolk; IR: NASA/JPL/CfA/S.Wolk <br> ⬇️ PDF de alta resolución [aquí](https://solarsystem.nasa.gov/system/downloadable_items/1341_Beyond_F_PDF.zip)"
 ---
 
 {{% callout soon %}}
