@@ -1,7 +1,7 @@
 ---
 title: Hola Món
-subtitle: Preguntes i respostes
-summary: Preguntes i respostes.
+subtitle: Preguntes i respostes sobre aquest lloc web
+summary: Preguntes i respostes sobre aquest lloc web.
 breadcrumbs: ["blog"]
 date: "2020-04-28T00:00:00Z"
 authors:

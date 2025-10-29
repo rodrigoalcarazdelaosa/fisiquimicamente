@@ -1,7 +1,7 @@
 ---
 title: Hola Mundo
-subtitle: Preguntas y respuestas
-summary: Preguntas y respuestas.
+subtitle: Preguntas y respuestas sobre este sitio web
+summary: Preguntas y respuestas sobre este sitio web.
 breadcrumbs: ["blog"]
 date: "2020-04-28T00:00:00Z"
 authors:
