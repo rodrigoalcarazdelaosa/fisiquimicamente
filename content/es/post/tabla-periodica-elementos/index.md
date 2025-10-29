@@ -35,7 +35,7 @@ links:
 - icon_pack: fas
   icon:
   name: 📄 Versión estados de oxidación
-  url: tabla-periodica-elementos-estados-oxidacion.pdf  
+  url: tabla-periodica-elementos-estados-oxidacion.pdf
 - icon_pack: fas
   icon:
   name: 💬 Cómic
@@ -47,5 +47,5 @@ Aquí tienes una **Tabla Periódica de los Elementos** con información básica 
 {{% embed_pdf url="https://fisiquimicamente.com/blog/2020/08/23/tabla-periodica-de-los-elementos/tabla-periodica-elementos.pdf" filename="tabla-periodica-elementos.pdf" %}}
 
 {{% callout note %}}
-También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, con [**científicos**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}), [**imágenes**](https://diagramscience.blogspot.com/2019/10/tabla-periodica-de-los-elementos-con.html) o **personajes** de [<img draggable="false" class="icon" alt="DC" src="/icon/DC.svg">]({{< ref "/post/tabla-periodica-DC/index.md" >}}), [<img draggable="false" class="icon" alt="marvel" src="/icon/marvel.svg">](https://marvelperiodictable.blogspot.com/2020/07/1.html), [<img draggable="false" class="icon" alt="disney" src="/icon/disney.svg">](https://kitchapman.co.uk/a-disney-periodic-table/), [<img draggable="false" class="icon" alt="asterix" src="/icon/asterix.svg">](http://www.ndietrich.com/archives/950) o [<img draggable="false" class="icon" alt="simpsons" src="/icon/simpsons.svg">](http://www.ndietrich.com/archives/955).
+También puedes echar un vistazo a otras **Tablas Periódicas *especiales***, con [**científicos**]({{< ref "/post/tabla-periodica-cientificos/index.md" >}}), [**imágenes**](https://diagramscience.blogspot.com/2019/10/tabla-periodica-de-los-elementos-con.html) o **personajes** de [<img draggable="false" class="icon" alt="DC" src="/icon/DC.svg">]({{< ref "/post/tabla-periodica-DC/index.md" >}}), [<img draggable="false" class="icon" alt="marvel" src="/icon/marvel.svg">](https://marvelperiodictable.blogspot.com/2020/07/1.html), [<img draggable="false" class="icon" alt="disney" src="/icon/disney.svg">](https://kitchapman.co.uk/a-disney-periodic-table/), [<img draggable="false" class="icon" alt="asterix" src="/icon/asterix.svg">](http://www.ndietrich.com/archives/950) o [<img draggable="false" class="icon" alt="simpsons" src="/icon/simpsons.svg">](http://www.ndietrich.com/archives/955). O nuestra flamante [**Tabla Periódica Colaborativa**]({{< ref "/post/tabla-periodica-colaborativa" >}}).
 {{% /callout %}}

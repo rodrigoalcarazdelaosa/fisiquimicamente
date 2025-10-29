@@ -130,6 +130,6 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: "Astronomía, astrofísica y cosmología"
-      url: 'blog/2025/06/02/astronomia-astrofisica-y-cosmologia/'
+      text: "Tabla Periódica Colaborativa"
+      url: 'blog/2025/10/29/tabla-periodica-colaborativa/'
 ---
