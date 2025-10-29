@@ -1,10 +1,11 @@
-<div align="center" class="comments-box">  
-  <h3>Discord</h3>  
+{{ if ne .Params.share false }}
+<div align="center" class="comments-box">
+  <h3>Discord</h3>
 </div>
 {{- $wumpus := resources.Get ("media/lottie/wumpus.json") -}}
 {{ if eq .Site.Language.Lang "es" }}
 <div align="center">
-  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">			
+  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
   	<lottie-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $wumpus.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Únete al servidor de Discord">
 		</lottie-player>
 	</a>
@@ -15,7 +16,7 @@
   </p>
 {{ else if eq .Site.Language.Lang "en" }}
 <div align="center">
-  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">			
+  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
   	<lottie-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $wumpus.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Join the Discord server">
 		</lottie-player>
 	</a>
@@ -25,7 +26,7 @@
   </p>
 {{ else if eq .Site.Language.Lang "ca" }}
 <div align="center">
-  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">			
+  <a href="https://discord.gg/kJqPqTJ" target="_blank" rel="noopener">
   	<lottie-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $wumpus.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="Discord" data-original-title="Uneix-te a el servidor d'Discord">
 		</lottie-player>
 	</a>
@@ -34,3 +35,4 @@
     <strong>Participa</strong> activament a la web comentant, donant la teva opinió, realitzant peticions, suggeriments...
   </p>
 {{ end }}
+{{ end}}
