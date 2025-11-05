@@ -312,13 +312,15 @@ La **Teoría de Repulsión de Pares de Electrones de la Capa de Valencia** (TRPE
 
 ### TEV
 
-La **Teoría del Enlace de Valencia** (TEV) se basa en que los e<sup>&ndash;</sup> compartidos se encuentran en una zona de **solapamiento orbital**:
+Según la **Teoría del Enlace de Valencia (TEV)**, un enlace covalente se forma cuando dos orbitales atómicos, cada uno con un electrón desapareado, se solapan de manera eficaz y los electrones de espines opuestos quedan compartidos entre ambos núcleos. Este solapamiento origina un par electrónico enlazante, responsable de la unión entre los átomos:
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/TEV.svg" title="También se puede dar un solapamiento frontal entre orbitales s, p y cualquiera de sus hibridaciones (sp, sp<sup>2</sup> y sp<sup>3</sup>). Imágenes adaptadas de https://www.coursehero.com/sg/general-chemistry/valence-bond-theory/." lightbox="false" width="100%" theme="light" >}}
 
+El número máximo de enlaces que un átomo puede formar depende, por tanto, del número de electrones desapareados que posea en la capa de valencia. En algunos casos, como el del carbono, este número puede aumentarse mediante [**promoción electrónica**](#promoción-electrónica), lo que facilita la formación de un mayor número de enlaces equivalentes.
+
 #### Promoción electrónica
 
-Consiste en aportar energía extra a los electrones apareados de la capa de valencia para que ocupen un orbital de mayor energía (se *exciten*) y permitan al átomo tener más electrones solitarios con los que formar los enlaces que necesite.
+En el marco de la TEV, se asume que un electrón apareado de la capa de valencia puede *excitarse* a un orbital de mayor energía para aumentar el número de electrones desapareados, que son los que participan en la formación de enlaces. Este proceso no debe interpretarse como una etapa física previa, sino como un recurso conceptual para explicar la capacidad de enlace de átomos como el carbono.
 
 {{< spoiler text="Pincha aquí para ver en detalle cómo aplicar la TEV" >}}
 
@@ -332,7 +334,7 @@ Consiste en aportar energía extra a los electrones apareados de la capa de vale
 
 #### Hibridación
 
-La **hibridación** consiste en combinar orbitales atómicos del átomo central para formar **orbitales híbridos** energéticamente iguales y orientados en la dirección del enlace.
+La **hibridación** es un modelo de la TEV en el que los orbitales atómicos del átomo central se reformulan matemáticamente para dar lugar a **orbitales híbridos equivalentes** (en energía y geometría) que permiten explicar la orientación espacial y la equivalencia de los enlaces en muchas moléculas.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes tomadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/." lightbox="false" width="100%" theme="light" >}}
 
