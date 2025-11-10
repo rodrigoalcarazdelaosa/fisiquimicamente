@@ -14,11 +14,19 @@ build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://fisiquimicamente.com/recursos-fisica-quimica/radiofisica/ciclos-formativos/imagen-diagnostico-medicina-nuclear/tecnicas-radiofarmacia/TEMA4.pdf"
+external_link: ""
 
 links:
 - icon_pack: fas
   icon:
-  name: 🗒️ Actividad
-  url: actividad-tema4.pdf
+  name: 📚 Parte 1
+  url: TEMA4-parte1.pdf
+- icon_pack: fas
+  icon:
+  name: 📚 Parte 2
+  url: TEMA4-parte2.pdf
+- icon_pack: fas
+  icon:
+  name: 🗒️ Actividad RF tecneciados
+  url: actividad-RF-tecneciados.pdf
 ---
