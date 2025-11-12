@@ -16,5 +16,5 @@ build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://fisiquimicamente.com/recursos-fisica-quimica/formacion-profesorado/master/aprendizaje/monografico-anales-quimica/monografico-anales-quimica.pdf"
+external_link: "https://analesdequimica.es/index.php/AnalesQuimica/issue/view/111/93"
 ---
