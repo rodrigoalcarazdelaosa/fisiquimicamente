@@ -289,7 +289,13 @@ La **Teoria de l'Enllaç de València** (TEV) es basa en el fet que els e<sup>&n
 
 Consisteix a aportar energia extra als electrons aparellats de la capa de valència perquè ocupin un orbital de major energia (s'*excitin*) i permetin a l'àtom tenir més electrons solitaris amb els quals formar els enllaços que necessiti.
 
-{{< spoiler text="Punxa aquí per a veure detalladament com aplicar la TEV" >}}
+#### Hibridació
+
+La **hibridació** consisteix a combinar orbitals atòmics de l'àtom central per a formar **orbitals híbrids** energèticament iguals i orientats en la direcció de l'enllaç.
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-cat.svg" title="Imatges preses de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/." lightbox="false" width="100%" theme="light" >}}
+
+{{< spoiler text="Punxa aquí per a veure detalladament com **aplicar** la **TEV**" >}}
 
 1. Es tria l'àtom central.
 2. S'estableix el nombre d'enllaços que ha de formar, mitjançant l'estructura de Lewis corresponent.
@@ -298,12 +304,6 @@ Consisteix a aportar energia extra als electrons aparellats de la capa de valèn
 5. Se solapen els orbitals híbrids amb els orbitals dels altres àtoms amb els quals forma enllaç, tenint en compte la TRPECV per a determinar la geometria final de la molècula.
 
 {{< /spoiler >}}
-
-#### Hibridació
-
-La **hibridació** consisteix a combinar orbitals atòmics de l'àtom central per a formar **orbitals híbrids** energèticament iguals i orientats en la direcció de l'enllaç.
-
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion-cat.svg" title="Imatges preses de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/." lightbox="false" width="100%" theme="light" >}}
 
 #### Exemples
 

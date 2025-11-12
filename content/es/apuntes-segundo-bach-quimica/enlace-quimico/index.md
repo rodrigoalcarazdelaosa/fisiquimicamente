@@ -322,7 +322,13 @@ El número máximo de enlaces que un átomo puede formar depende, por tanto, del
 
 En el marco de la TEV, se asume que un electrón apareado de la capa de valencia puede *excitarse* a un orbital de mayor energía para aumentar el número de electrones desapareados, que son los que participan en la formación de enlaces. Este proceso no debe interpretarse como una etapa física previa, sino como un recurso conceptual para explicar la capacidad de enlace de átomos como el carbono.
 
-{{< spoiler text="Pincha aquí para ver en detalle cómo aplicar la TEV" >}}
+#### Hibridación
+
+La **hibridación** es un modelo de la TEV en el que los orbitales atómicos del átomo central se reformulan matemáticamente para dar lugar a **orbitales híbridos equivalentes** (en energía y geometría) que permiten explicar la orientación espacial y la equivalencia de los enlaces en muchas moléculas.
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes tomadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/." lightbox="false" width="100%" theme="light" >}}
+
+{{< spoiler text="Pincha aquí para ver en detalle cómo **aplicar** la **TEV**" >}}
 
 1. Se escoge el átomo central.
 2. Se establece el número de enlaces que debe formar, mediante la estructura de Lewis correspondiente.
@@ -331,12 +337,6 @@ En el marco de la TEV, se asume que un electrón apareado de la capa de valencia
 5. Se solapan los orbitales híbridos con los orbitales de los otros átomos con los que forma enlace, teniendo en cuenta la TRPECV para determinar la geometría final de la molécula.
 
 {{< /spoiler >}}
-
-#### Hibridación
-
-La **hibridación** es un modelo de la TEV en el que los orbitales atómicos del átomo central se reformulan matemáticamente para dar lugar a **orbitales híbridos equivalentes** (en energía y geometría) que permiten explicar la orientación espacial y la equivalencia de los enlaces en muchas moléculas.
-
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/hibridacion.svg" title="Imágenes tomadas de https://www.coursehero.com/sg/general-chemistry/types-of-hybrid-orbitals/." lightbox="false" width="100%" theme="light" >}}
 
 #### Ejemplos
 
