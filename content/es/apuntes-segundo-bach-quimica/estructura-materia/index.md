@@ -230,6 +230,10 @@ $$
 
 {{< /spoiler >}}
 
+**Explora** los distintos **modelos atómicos del hidrógeno** y su relación con los **espectros** con esta magnífica **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 ## Orígenes de la teoría cuántica
 
 ### Radiación de cuerpo negro

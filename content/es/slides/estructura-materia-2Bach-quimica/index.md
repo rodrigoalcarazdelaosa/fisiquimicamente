@@ -216,6 +216,12 @@ $$
 
 donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck y $c = 299\thinspace 792\thinspace 458\thinspace \mathrm{m/s}$ es la velocidad de la luz en el vacío.
 
+---
+
+**Explora** los **modelos atómicos del hidrógeno** y su relación con los **espectros** con esta magnífica **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+
 {{% /section %}}
 
 ---
