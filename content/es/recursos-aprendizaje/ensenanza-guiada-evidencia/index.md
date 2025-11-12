@@ -4,8 +4,8 @@ subtitle: No hay una receta infalible en clase, pero existen ingredientes clave 
 summary: "No hay una receta infalible en clase, pero existen ingredientes clave que contribuyen a promover el aprendizaje significativo."
 tags:
 - metodología
+- didáctica
 categories:
-weight: 20
 
 image:
   preview_only: true

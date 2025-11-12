@@ -5,8 +5,8 @@ summary: "Una guía docente de la ciencia desde la ciencia. **Manual** realizado
 url: recursos-fisica-quimica/formacion-profesorado/master/aprendizaje/
 tags:
 - metodología
+- didáctica
 categories:
-weight: 10
 
 image:
   preview_only: true

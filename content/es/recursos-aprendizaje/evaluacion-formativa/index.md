@@ -5,7 +5,6 @@ summary: "Evaluar para aprender, evaluar para calificar. La evaluación desde un
 tags:
 - evaluación
 categories:
-weight: 60
 
 image:
   preview_only: true

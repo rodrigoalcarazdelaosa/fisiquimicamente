@@ -3,9 +3,9 @@ title: Evocación
 summary: "Estrategias concretas para practicar la evocación. Por H. Ruiz Martín."
 tags:
 - metodología
+- didáctica
 - evocación
 categories:
-weight: 50
 
 image:
   preview_only: true

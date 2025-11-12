@@ -8,7 +8,6 @@ tags:
 - DUA
 - Bloom
 categories:
-weight: 40
 
 image:
   preview_only: true

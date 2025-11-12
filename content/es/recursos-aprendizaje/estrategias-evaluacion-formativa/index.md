@@ -6,7 +6,6 @@ summary: "**Guía** de la **Agencia de Calidad de la Educación de Chile**."
 tags:
 - evaluación
 categories:
-weight: 70
 
 image:
   preview_only: true

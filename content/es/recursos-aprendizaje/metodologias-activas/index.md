@@ -4,7 +4,6 @@ summary: "**PedagoTIC**, un kit básico sobre **metodologías activas** que se v
 tags:
 - metodología
 categories:
-weight: 30
 
 image:
   preview_only: true

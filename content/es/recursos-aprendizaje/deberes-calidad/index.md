@@ -5,7 +5,6 @@ summary: "Claves del Método de Implementación de Tareas para Casa (MITCA)."
 tags:
 - metodología
 categories:
-weight: 60
 
 image:
   preview_only: true

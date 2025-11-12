@@ -4,7 +4,6 @@ summary: "Genially de la mano de [Pablo Ortega Rodríguez](https://fisiquimicame
 tags:
 - situaciones
 categories:
-weight: 90
 
 image:
   preview_only: true
