@@ -176,10 +176,10 @@ El **primer principio de la termodinámica** establece que:
 
 En función de las **condiciones** en las que se lleva a cabo el proceso, el **primer principio de la termodinámica** puede tomar **distintas formas**:
 
-| Proceso isocórico ($V$ cte) | Proceso isobárico ($p$ cte) |
+| Proceso isocórico<br>($V$ cte) | Proceso isobárico ($p$ cte) |
 | :---: | :---: |
 | $\symup\Delta U = Q_V$ | $\symup\Delta U = Q_p-p\symup\Delta V$ |
-| **Proceso isotermo ($T$ cte)** | **Proceso adiabático ($Q=0$)** |
+| **Proceso isotermo<br>($T$ cte)** | **Proceso adiabático ($Q=0$)** |
 | $\symup\Delta U = 0$ | $\symup\Delta U = W = -p\symup\Delta V$ |
 
 {{% /section %}}
