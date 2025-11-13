@@ -123,6 +123,25 @@ Formación de un compuesto iónico a partir de sus elementos.
 
 {{< figure library="true" src="enlace-quimico-2Bach-quimica/Born-Haber.svg" title="Ciclo de Born-Haber para la formación de un mol de fluoruro de litio (LiF). Cada energía tendrá su signo según sea desprendida ($<0$) o absorbida ($>0$). Basada en https://commons.wikimedia.org/wiki/File:Born-haber_cycle_LiF.svg." lightbox="false" width="100%" >}}
 
+{{< spoiler text="¿En qué **estado** están los **elementos más comunes** de la tabla periódica a **temperatura ambiente**? Pincha aquí para averiguarlo" >}}
+
+| Elemento | Estado a *T* ambiente | Forma |
+| -------- | ------ | :-------: |
+| Metales (salvo Hg) | Sólido | Atómica |
+| Hg | Líquido | Atómica |
+| C | Sólido | C (grafito) |
+| N | Gas | N<sub>2</sub> |
+| O | Gas | O<sub>2</sub> |
+| F | Gas | F<sub>2</sub> |
+| P | Sólido | P<sub>4</sub> (fósforo blanco) |
+| S | Sólido | S<sub>8</sub> (amarillo) |
+| Cl | Gas | Cl<sub>2</sub> |
+| Se | Sólido | Se (gris) |
+| Br | Líquido | Br<sub>2</sub> |
+| I | Sólido | I<sub>2</sub> |
+
+{{< /spoiler >}}
+
 #### Ecuación de Born-Landé
 
 Permite calcular la **energía de red** $U_\mathrm R$:

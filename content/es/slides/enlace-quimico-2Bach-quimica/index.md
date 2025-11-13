@@ -157,6 +157,30 @@ El cálculo de esta energía se puede hacer mediante el [**ciclo de Born-Haber**
 
 ---
 
+##### ¿En qué **estado** están los **elementos más comunes** de la tabla periódica a **temperatura ambiente**?"
+
+| Elemento | Estado a *T* ambiente | Forma |
+| -------- | ------ | :-------: |
+| Metales (salvo Hg) | Sólido | Atómica |
+| Hg | Líquido | Atómica |
+| C | Sólido | C (grafito) |
+| N | Gas | N<sub>2</sub> |
+| O | Gas | O<sub>2</sub> |
+
+---
+
+| Elemento | Estado a *T* ambiente | Forma |
+| -------- | ------ | :-------: |
+| F | Gas | F<sub>2</sub> |
+| P | Sólido | P<sub>4</sub> (fósforo blanco) |
+| S | Sólido | S<sub>8</sub> (amarillo) |
+| Cl | Gas | Cl<sub>2</sub> |
+| Se | Sólido | Se (gris) |
+| Br | Líquido | Br<sub>2</sub> |
+| I | Sólido | I<sub>2</sub> |
+
+---
+
 #### Ecuación de Born-Landé
 Permite calcular la **energía de red** $U_\mathrm R$:
 
