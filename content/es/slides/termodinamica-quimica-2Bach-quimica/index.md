@@ -18,12 +18,12 @@ slides:
 
 # Termodinámica química
 
-- [Introducción a la termodinámica](#/1)
-- [Transferencias de calor en procesos químicos](#/2)
-- [Ecuaciones termoquímicas](#/3)
-- [Ley de Hess](#/4)
-- [Entropía y segundo principio de la termodinámica](#/5)
-- [Energía de Gibbs y espontaneidad](#/6)
+- [Introducción a la termodinámica](#/2)
+- [Transferencias de calor en procesos químicos](#/3)
+- [Ecuaciones termoquímicas](#/4)
+- [Ley de Hess](#/5)
+- [Entropía y segundo principio de la termodinámica](#/6)
+- [Energía de Gibbs y espontaneidad](#/7)
 
 Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
@@ -31,15 +31,19 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ---
 
+La **termodinámica química** es la **ciencia** que **estudia** la **interrelación** entre el **calor** y el **trabajo** con las **reacciones químicas** o con los cambios físicos de estado dentro de los límites de las [leyes de la termodinámica](https://es.wikipedia.org/wiki/Principios_de_la_termodinámica).
+
+---
+
 {{% section %}}
 
 ## Introducción a la termodinámica
 
-- [Sistemas termodinámicos](#/1/1)
-- [Variables termodinámicas](#/1/2)
-- [Procesos termodinámicos](#/1/6)
-- [Intercambios de energía entre sistemas: calor y trabajo](#/1/9)
-- [Primer principio de la termodinámica](#/1/16)
+- [Sistemas termodinámicos](#/2/1)
+- [Variables termodinámicas](#/2/2)
+- [Procesos termodinámicos](#/2/6)
+- [Intercambios de energía entre sistemas: calor y trabajo](#/2/9)
+- [Primer principio de la termodinámica](#/2/16)
 
 (continúa hacia abajo)
 
@@ -190,8 +194,8 @@ En función de las **condiciones** en las que se lleva a cabo el proceso, el **p
 
 ## Transferencia de calor en procesos químicos
 
-- [A volumen constante](#/2/1)
-- [A presión constante: entalpía](#/2/2)
+- [A volumen constante](#/3/1)
+- [A presión constante: entalpía](#/3/2)
 
 (continúa hacia abajo)
 

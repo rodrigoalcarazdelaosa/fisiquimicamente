@@ -57,6 +57,8 @@ math: true
 
 {{% toc %}}
 
+La **termodinámica química** es la **ciencia** que **estudia** la **interrelación** entre el **calor** y el **trabajo** con las **reacciones químicas** o con los cambios físicos de estado dentro de los límites de las [leyes de la termodinámica](https://es.wikipedia.org/wiki/Principios_de_la_termodinámica).
+
 ## Introducción a la termodinámica
 
 ### Sistemas termodinámicos
