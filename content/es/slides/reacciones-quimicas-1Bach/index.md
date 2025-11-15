@@ -441,9 +441,9 @@ $$
 
 ---
 
-Para relacionar la cantidad de monóxido de nitrógeno que se obtiene (medida en mol) con el volumen (medido en L), utilizamos la **ecuación de los gases ideales**, despejando el volumen y sustituyendo c.n. ($T = 0\thinspace\mathrm{&deg;C} = 273\thinspace\mathrm K$ y $p = 1\thinspace\mathrm{atm}$):
+Para relacionar la cantidad de monóxido de nitrógeno que se obtiene (medida en mol) con el volumen (medido en L), utilizamos la **ecuación de los gases ideales**, despejando el volumen y sustituyendo c.n. ($T = 0\thinspace\mathrm{&deg;C} = 273\thinspace\mathrm K$ y $p = 1\thinspace\mathrm{bar}$):
 $$
-pV = nRT \rightarrow V = \frac{nRT}{p} = \frac{3.5 \cdot 0.082\cdot 273}{1} = 78.4\thinspace\mathrm{L_\ce{NO}}
+pV = nRT \rightarrow V = \frac{nRT}{p} = \frac{3.5 \cdot 8.314\cdot 273}{100} = 79.4\thinspace\mathrm{L_\ce{NO}}
 $$
 
 {{% /section %}}
