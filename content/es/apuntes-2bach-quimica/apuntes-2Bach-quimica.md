@@ -39,7 +39,7 @@ subtitle = "📓 2.º Bach ⚗️ Química"
 
   [[content.filter_button]]
     name = "Termodinámica química"
-    tag = "termodinámica-química"
+    tag = "termodinámica"
 
   [[content.filter_button]]
     name = "Cinética química"
