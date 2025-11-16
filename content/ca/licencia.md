@@ -14,6 +14,6 @@ Els [📚 <span style="font-variant:small-caps;">**apunts**</span>]({{< ref "/ap
 
 {{< figure src="/icon/by-sa.svg" lightbox="false" width="50%" >}}
 
-Amb stickers i emojis animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a>.
+Amb stickers i emojis animats de <a href="https://telegram.org/blog/animated-stickers" target="_blank" rel="noopener" title="Telegram"><img draggable="false" class="icon" alt="telegram" src="/icon/telegram.svg"> Telegram</a> i imatges de <a href="https://depositphotos.com/?ref=87801288&utm_source=linkCopy&utm_medium=referral" target="_blank" rel="noopener" title="depositphotos"><img draggable="false" class="icon" alt="depositphotos" src="/icon/depositphotos.svg"></a>.
 
 &copy; [Steve Francia](https://spf13.com) posseeix el copyright del logotip de <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg"></a>.
