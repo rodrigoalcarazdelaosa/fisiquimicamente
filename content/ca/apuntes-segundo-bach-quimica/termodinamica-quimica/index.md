@@ -19,6 +19,15 @@ image:
   caption: Foto de [**Patrick Hendry**](https://unsplash.com/@worldsbetweenlines) a [Unsplash](https://unsplash.com/photos/-AbeoL252z0)
   focal_point: Smart
 
+links:
+- icon_pack: fas
+  icon:
+  name: ✏️ Exercicis
+  url: termodinamica-quimica-exercicis.pdf
+- icon_pack: fas
+  icon:
+  name: 🔢 Taules
+  url: termodinamica-quimica-taules.pdf
 ---
 
 {{% callout soon %}}
