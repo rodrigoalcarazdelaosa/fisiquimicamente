@@ -169,6 +169,10 @@ $$
 
 La **entropía**, $S$, es una magnitud termodinámica fuertemente relacionada con la **espontaneidad** e **irreversibilidad** de los procesos termodinámicos. Es una **función de estado** que mide el grado de **dispersión** o **desorden** de la **energía** en un sistema. Es una magnitud extensiva y su unidad en el SI es J/K (en química J&thinsp;mol<sup>–1</sup>&thinsp;K<sup>–1</sup>). En los procesos espontáneos, la energía tiende a distribuirse entre más microestados accesibles, aumentando $S$ (ejemplo: la disolución/difusión de tinta en agua). El signo de la variación de entropía, $\symup\Delta S$, puede predecirse en función del cambio en el desorden relacionado con $\symup\Delta n(\mathrm g)$.
 
+{{% callout note %}}
+Si quieres **saber más** sobre la **entropía** te recomendamos [esta excelente **entrada** del **blog**]({{< relref "/post/entropia" >}}).
+{{% /callout %}}
+
 ### Segundo principio de la termodinámica
 
 El **segundo principio de la termodinámica** es el responsable, entre otras cosas, de que el calor siempre fluya de manera espontánea desde cuerpos calientes a cuerpos fríos, o de la degradación de la energía en cualquier proceso cíclico (no toda la energía puede convertirse en trabajo útil).

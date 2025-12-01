@@ -203,6 +203,10 @@ En los procesos espontáneos, la energía tiende a distribuirse entre más micro
 
 ---
 
+> Si quieres **saber más** sobre la **entropía** te recomendamos [esta excelente **entrada** del **blog**]({{< relref "/post/entropia" >}}).
+
+---
+
 ### Segundo principio de la termodinámica
 
 El **segundo principio de la termodinámica** es el responsable, entre otras cosas, de que el calor siempre fluya de manera espontánea desde cuerpos calientes a cuerpos fríos, o de la degradación de la energía en cualquier proceso cíclico (no toda la energía puede convertirse en trabajo útil).
