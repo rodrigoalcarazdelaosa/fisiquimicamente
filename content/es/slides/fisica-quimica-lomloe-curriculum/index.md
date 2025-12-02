@@ -36,7 +36,7 @@ slides:
 
 - [Competencias específicas](#/1/1)
 - [2.º ESO – 3.º ESO](#/1/8)
-- [4.º ESO](#/1/20)
+- [4.º ESO](#/1/22)
 
 (continúa hacia abajo)
 
@@ -129,7 +129,7 @@ var colors = ['#77AADD','#555555','#555555','#555555','#555555','#555555','#5555
 
 var options = {
   sankey: {
-    node: {      
+    node: {
       label: {
         fontName: 'EB Garamond',
         fontSize: 24
@@ -142,11 +142,11 @@ var options = {
     },
     iterations: 0
   },
-  tooltip: {    
+  tooltip: {
     isHtml: true,
     textStyle: {
-      fontName: 'EB Garamond'      
-    }    
+      fontName: 'EB Garamond'
+    }
   }
 };
 
@@ -165,14 +165,25 @@ chart.draw(data, options);
 
 ### 2.º ESO – 3.º ESO
 
+- [Criterios de evaluación](#/1/9)
+- [Saberes básicos](#/1/10)
+
+---
+
+#### Criterios de evaluación
+
+[Enlace a **educagob**](https://educagob.educacionfpydeportes.gob.es/curriculo/curriculo-lomloe/menu-curriculos-basicos/ed-secundaria-obligatoria/materias/fisica-quimica/criterios-eval-primer-tercer-curso.html)
+
+---
+
 #### Saberes básicos
 
 <ol style="list-style-type: upper-alpha">
-<li><a href="#/1/9">Las destrezas científicas básicas</a></li>
-<li><a href="#/1/12">La materia</a></li>
-<li><a href="#/1/14">La energía</a></li>
-<li><a href="#/1/16">La interacción</a></li>
-<li><a href="#/1/18">El cambio</a></li>
+<li><a href="#/1/11">Las destrezas científicas básicas</a></li>
+<li><a href="#/1/14">La materia</a></li>
+<li><a href="#/1/16">La energía</a></li>
+<li><a href="#/1/18">La interacción</a></li>
+<li><a href="#/1/20">El cambio</a></li>
 </ol>
 
 (continúa hacia abajo)
@@ -251,14 +262,25 @@ chart.draw(data, options);
 
 ### 4.º ESO
 
+- [Criterios de evaluación](#/1/23)
+- [Saberes básicos](#/1/24)
+
+---
+
+#### Criterios de evaluación
+
+[Enlace a **educagob**](https://educagob.educacionfpydeportes.gob.es/curriculo/curriculo-lomloe/menu-curriculos-basicos/ed-secundaria-obligatoria/materias/fisica-quimica/criterios-eval-cuarto-curso.html)
+
+---
+
 #### Saberes básicos
 
 <ol style="list-style-type: upper-alpha">
-<li><a href="#/1/21">Las destrezas científicas básicas</a></li>
-<li><a href="#/1/24">La materia</a></li>
-<li><a href="#/1/27">La energía</a></li>
-<li><a href="#/1/29">La interacción</a></li>
-<li><a href="#/1/32">El cambio</a></li>
+<li><a href="#/1/25">Las destrezas científicas básicas</a></li>
+<li><a href="#/1/28">La materia</a></li>
+<li><a href="#/1/31">La energía</a></li>
+<li><a href="#/1/33">La interacción</a></li>
+<li><a href="#/1/36">El cambio</a></li>
 </ol>
 
 (continúa hacia abajo)
@@ -348,8 +370,8 @@ chart.draw(data, options);
 ## Física y Química en el Bachillerato
 
 - [Física y Química 1.º Bach](#/2/1)
-- [Física 2.º Bach](#/2/19)
-- [Química 2.º Bach](#/2/38)
+- [Física 2.º Bach](#/2/20)
+- [Química 2.º Bach](#/2/40)
 
 (continúa hacia abajo)
 
@@ -360,7 +382,8 @@ chart.draw(data, options);
 ### Física y Química 1.º Bach
 
 - [Competencias específicas](#/2/2)
-- [Saberes básicos](#/2/9)
+- [Criterios de evaluación](#/2/9)
+- [Saberes básicos](#/2/10)
 
 (continúa hacia abajo)
 
@@ -437,7 +460,7 @@ var colors = ['#77AADD','#555555','#555555','#555555','#555555','#555555','#5555
 
 var options = {
   sankey: {
-    node: {      
+    node: {
       label: {
         fontName: 'EB Garamond',
         fontSize: 24
@@ -450,11 +473,11 @@ var options = {
     },
     iterations: 0
   },
-  tooltip: {    
+  tooltip: {
     isHtml: true,
     textStyle: {
-      fontName: 'EB Garamond'      
-    }    
+      fontName: 'EB Garamond'
+    }
   }
 };
 
@@ -470,15 +493,21 @@ chart.draw(data, options);
 
 ---
 
+#### Criterios de evaluación
+
+[Enlace a **educagob**](https://educagob.educacionfpydeportes.gob.es/curriculo/curriculo-lomloe/menu-curriculos-basicos/bachillerato/materias/fisica-quimica/criterios-eval-primer-curso.html)
+
+---
+
 #### Saberes básicos
 
 <ol style="list-style-type: upper-alpha">
-<li><a href="#/2/10">Enlace químico y estructura de la materia</a></li>
-<li><a href="#/2/12">Reacciones químicas</a></li>
-<li><a href="#/2/14">Química orgánica</a></li>
-<li><a href="#/2/15">Cinemática</a></li>
-<li><a href="#/2/16">Estática y dinámica</a></li>
-<li><a href="#/2/17">Energía</a></li>
+<li><a href="#/2/11">Enlace químico y estructura de la materia</a></li>
+<li><a href="#/2/13">Reacciones químicas</a></li>
+<li><a href="#/2/15">Química orgánica</a></li>
+<li><a href="#/2/16">Cinemática</a></li>
+<li><a href="#/2/17">Estática y dinámica</a></li>
+<li><a href="#/2/18">Energía</a></li>
 </ol>
 
 (continúa hacia abajo)
@@ -547,8 +576,9 @@ chart.draw(data, options);
 
 ### Física 2.º Bach
 
-- [Competencias específicas](#/2/20)
-- [Saberes básicos](#/2/27)
+- [Competencias específicas](#/2/21)
+- [Criterios de evaluación](#/2/28)
+- [Saberes básicos](#/2/29)
 
 (continúa hacia abajo)
 
@@ -626,7 +656,7 @@ var colors = ['#77AADD','#555555','#555555','#555555','#555555','#555555','#5555
 
 var options = {
   sankey: {
-    node: {      
+    node: {
       label: {
         fontName: 'EB Garamond',
         fontSize: 24
@@ -639,11 +669,11 @@ var options = {
     },
     iterations: 0
   },
-  tooltip: {    
+  tooltip: {
     isHtml: true,
     textStyle: {
-      fontName: 'EB Garamond'      
-    }    
+      fontName: 'EB Garamond'
+    }
   }
 };
 
@@ -659,13 +689,19 @@ chart.draw(data, options);
 
 ---
 
+#### Criterios de evaluación
+
+[Enlace a **educagob**](https://educagob.educacionfpydeportes.gob.es/curriculo/curriculo-lomloe/menu-curriculos-basicos/bachillerato/materias/fisica/criterios-eval-segundo-curso.html)
+
+---
+
 #### Saberes básicos
 
 <ol style="list-style-type: upper-alpha">
-<li><a href="#/2/28">Campo gravitatorio</a></li>
-<li><a href="#/2/31">Campo electromagnético</a></li>
-<li><a href="#/2/34">Vibraciones y ondas</a></li>
-<li><a href="#/2/36">Física relativista, cuántica, nuclear y de partículas</a></li>
+<li><a href="#/2/30">Campo gravitatorio</a></li>
+<li><a href="#/2/33">Campo electromagnético</a></li>
+<li><a href="#/2/36">Vibraciones y ondas</a></li>
+<li><a href="#/2/38">Física relativista, cuántica, nuclear y de partículas</a></li>
 </ol>
 
 (continúa hacia abajo)
@@ -734,8 +770,9 @@ chart.draw(data, options);
 
 ### Química 2.º Bach
 
-- [Competencias específicas](#/2/39)
-- [Saberes básicos](#/2/46)
+- [Competencias específicas](#/2/41)
+- [Criterios de evaluación](#/2/48)
+- [Saberes básicos](#/2/49)
 
 (continúa hacia abajo)
 
@@ -813,7 +850,7 @@ var colors = ['#77AADD','#555555','#555555','#555555','#555555','#555555','#5555
 
 var options = {
   sankey: {
-    node: {      
+    node: {
       label: {
         fontName: 'EB Garamond',
         fontSize: 24
@@ -829,8 +866,8 @@ var options = {
   tooltip: {
     isHtml: true,
     textStyle: {
-      fontName: 'EB Garamond'      
-    }    
+      fontName: 'EB Garamond'
+    }
   }
 };
 
@@ -846,12 +883,18 @@ chart.draw(data, options);
 
 ---
 
+#### Criterios de evaluación
+
+[Enlace a **educagob**](https://educagob.educacionfpydeportes.gob.es/curriculo/curriculo-lomloe/menu-curriculos-basicos/bachillerato/materias/quimica/criterios-eval-segundo-curso.html)
+
+---
+
 #### Saberes básicos
 
 <ol style="list-style-type: upper-alpha">
-<li><a href="#/2/47">Enlace químico y estructura de la materia</a></li>
-<li><a href="#/2/52">Reacciones químicas</a></li>
-<li><a href="#/2/60">Química orgánica</a></li>
+<li><a href="#/2/50">Enlace químico y estructura de la materia</a></li>
+<li><a href="#/2/55">Reacciones químicas</a></li>
+<li><a href="#/2/63">Química orgánica</a></li>
 </ol>
 
 (continúa hacia abajo)
