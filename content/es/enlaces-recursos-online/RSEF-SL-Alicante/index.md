@@ -1,6 +1,6 @@
 ---
-title: RSEF SL-Alicante
-summary: Materiales para la enseñanza y divulgación de la Física.
+title: DEDF
+summary: División de enseñanza y divulgación de la Física de la RSEF.
 tags:
 - sociedades
 - fyq
@@ -11,9 +11,9 @@ build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://rsefalicante.umh.es/fisica.htm
+external_link: https://www.dedfisica-rsef.com
 
 image:
-  caption: http://rsefalicante.umh.es/fisica.htm
+  caption: https://www.dedfisica-rsef.com
   focal_point: Smart
 ---
