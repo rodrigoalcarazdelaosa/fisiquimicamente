@@ -132,6 +132,14 @@ donde [ ] representa **concentración**, medida en mol/L.
 
 ---
 
+La **velocidad media de reacción** se define como la variación de la concentración de una especie, $\Delta [A]$, en un intervalo de tiempo, $\Delta t$, dado:
+
+$$
+v_\mathrm m = - \frac{1}{a} \frac{\Delta [\mathrm A]}{\Delta t} = - \frac{1}{b} \frac{\Delta [\mathrm B]}{\Delta t} = \frac{1}{c} \frac{\Delta [\mathrm C]}{\Delta t} = \frac{1}{d} \frac{\Delta [\mathrm D]}{\Delta t}
+$$
+
+---
+
 Si se trabaja con gases a temperatura constante, podemos utilizar presiones parciales en lugar de concentraciones:
 
 $$
