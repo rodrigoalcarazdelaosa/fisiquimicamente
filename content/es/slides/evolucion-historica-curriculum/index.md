@@ -47,7 +47,7 @@ María del Carmen García Alonso
 
 ### Ley Moyano (1857)
 
-{{< figure src="https://s1.eestatic.com/2017/03/03/actualidad/actualidad_197991215_30210976_1706x1729.jpg" width="60%" >}}
+{{< figure src="moyano.jpg" width="65%" >}}
 
 ---
 
@@ -108,7 +108,7 @@ Ordenó el sistema educativo español desde mediados del siglo XIX hasta bien in
 
 ---
 
-- Hasta el momento presente  se han elaborado hasta once leyes orgánicas de educación, algunas de ellas actualmente derogadas o modificadas ampliamente y, sólo una de ellas, la primera que se elaboró y publicó, no llegó nunca a entrar en vigor. 
+- Hasta el momento presente  se han elaborado hasta once leyes orgánicas de educación, algunas de ellas actualmente derogadas o modificadas ampliamente y, sólo una de ellas, la primera que se elaboró y publicó, no llegó nunca a entrar en vigor.
 
 ---
 
