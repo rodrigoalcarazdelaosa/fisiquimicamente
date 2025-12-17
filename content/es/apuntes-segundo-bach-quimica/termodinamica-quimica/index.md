@@ -158,6 +158,8 @@ $$
 $$
 {{< /math >}}
 
+{{< figure src="termodinamica-quimica-2Bach-quimica/entalpia-combustion-alcanos.svg" title="Entalpía estándar de combustión de los primeros alcanos. Se representa la energía liberada por mol (eje vertical izquierdo) y por unidad de masa (eje vertical derecho). Se observa una dependencia casi lineal de la entalpía de combustión molar con el tamaño de la cadena, mientras que la entalpía de combustión por gramo varía mucho menos, disminuyendo ligeramente al aumentar el número de carbonos. Esto se debe a que el incremento de masa molar es proporcionalmente mayor que el incremento de energía liberada." lightbox="false" width="100%" theme="light" >}}
+
 ### Energías de enlace
 Una reacción química supone la ruptura de los enlaces de los reactivos y la formación de nuevos enlaces para dar lugar a los productos de reacción. Teniendo en cuenta que para romper un enlace hay que suministrar energía, y que al formarse se desprende, podremos calcular la entalpía de una reacción si conocemos el coste energético de cada uno de los enlaces que se rompe y forma, según la ecuación:
 

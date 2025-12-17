@@ -172,6 +172,10 @@ $$
 
 ---
 
+{{< figure src="termodinamica-quimica-2Bach-quimica/entalpia-combustion-alcanos.svg" lightbox="false" width="85%" theme="light" >}}
+
+---
+
 ### Energías de enlace
 Una reacción química supone la ruptura de los enlaces de los reactivos y la formación de nuevos enlaces para dar lugar a los productos de reacción.
 
