@@ -69,7 +69,7 @@ $$
 a\thinspace\mathrm A + b\thinspace\mathrm B &#8652; c\thinspace\mathrm C + d\thinspace\mathrm D,
 $$
 
-[^1]: Sea el proceso reversible:
+[^1]: Sea el proceso reversible elemental:
   $$
   a\thinspace\mathrm A + b\thinspace\mathrm B &#8652; c\thinspace\mathrm C + d\thinspace\mathrm D
   $$
