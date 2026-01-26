@@ -104,6 +104,6 @@ En esta entrada compartimos una colección de **insignias** de las **misiones tr
 
 Si te ha gustado la entrada, te encantará este diseño de **taza** de **Berto Tomás**:
 
-{{< figure src="taza.webp" title="Consíguelo [aquí](https://www.aprendiendofisicaconbertotomas.com/tazas), junto con otros muchos más." >}}
+{{< figure src="taza.webp" title="Consíguelo [aquí](https://aprendiendofisicac.wixsite.com/my-site/tazas), junto con otros muchos más." >}}
 
 {{% /callout %}}

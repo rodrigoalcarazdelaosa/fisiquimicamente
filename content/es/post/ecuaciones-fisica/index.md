@@ -106,7 +106,7 @@ $$
 ## 9. Ecuación de Dirac
 
 $$
-i \hbar \gamma^\mu \partial_\mu\psi - mc\psi = 0 
+i \hbar \gamma^\mu \partial_\mu\psi - mc\psi = 0
 $$
 
 > Si la [física cuántica](https://es.wikipedia.org/wiki/Mecánica_cuántica) describe las partículas más pequeñas, y la [relatividad especial](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_relatividad_especial) describe las cosas más rápidas, ¿qué pasa con las partículas diminutas que se mueven rápidamente? Entra la [**ecuación de Dirac**](https://es.wikipedia.org/wiki/Ecuación_de_Dirac), que también predijo la existencia de la [antimateria](https://es.wikipedia.org/wiki/Antimateria).
@@ -177,6 +177,6 @@ $$
 
 Si te ha gustado la entrada, te encantará este diseño de **taza** de **Berto Tomás**:
 
-{{< figure src="taza.webp" title="Consíguelo [aquí](https://www.aprendiendofisicaconbertotomas.com/tazas), junto con otros muchos más." >}}
+{{< figure src="taza.webp" title="Consíguelo [aquí](https://aprendiendofisicac.wixsite.com/my-site/tazas), junto con otros muchos más." >}}
 
 {{% /callout %}}

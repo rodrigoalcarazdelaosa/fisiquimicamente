@@ -10,9 +10,9 @@ build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.aprendiendofisicaconbertotomas.com
+external_link: https://aprendiendofisicac.wixsite.com/my-site
 
 image:
-  caption: https://www.aprendiendofisicaconbertotomas.com
+  caption: https://aprendiendofisicac.wixsite.com/my-site
   focal_point: Smart
 ---

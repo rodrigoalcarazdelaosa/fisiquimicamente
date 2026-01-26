@@ -91,5 +91,5 @@ subtitle = "📓 2.º Bach 🧲 Física"
 +++
 
 {{% callout note %}}
-También te recomendamos echar un vistazo a las excelentes [**guías** de **Berto Tomás**](https://www.aprendiendofisicaconbertotomas.com/gu%C3%ADas) o a las [***chuletillas*** 🥩 de **Curro**](https://www.currofisico.es/materiales).
+También te recomendamos echar un vistazo a las excelentes [**guías** de **Berto Tomás**](https://aprendiendofisicac.wixsite.com/my-site/gu%C3%ADas) o a las [***chuletillas*** 🥩 de **Curro**](https://www.currofisico.es/materiales).
 {{% /callout %}}

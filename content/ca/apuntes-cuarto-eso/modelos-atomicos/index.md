@@ -103,7 +103,7 @@ Proposat al **1913** per Niels **Bohr** per a **explicar** l'**estabilitat** de 
 
 {{< spoiler text="Vols veure com són els <strong>espectres d'emissió</strong> de la resta d'elements <strong></strong> químics de la taula periòdica? Punxa aquí" >}}
 
-{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.png" title="https://www.aprendiendofisicaconbertotomas.com/tablas" lightbox="true" >}}
+{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.png" title="https://aprendiendofisicac.wixsite.com/my-site/tablas" lightbox="true" >}}
 
 {{< /spoiler >}}
 

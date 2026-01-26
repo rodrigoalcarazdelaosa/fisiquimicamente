@@ -109,7 +109,7 @@ Propuesto en **1913** por Niels **Bohr** para **explicar** la **estabilidad** de
 
 {{< spoiler text="¿Quieres ver cómo son los <strong>espectros de emisión</strong> del resto de <strong>elementos</strong> químicos de la tabla periódica? Pincha aquí" >}}
 
-{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.png" title="https://www.aprendiendofisicaconbertotomas.com/tablas" lightbox="true" >}}
+{{< figure library="true" src="modelos-atomicos-4ESO/tabla-periodica-espectros.png" title="https://aprendiendofisicac.wixsite.com/my-site/tablas" lightbox="true" >}}
 
 {{< /spoiler >}}
 
