@@ -67,7 +67,7 @@ Sustancia que se disocia en agua formando aniones hidróxido (OH<sup>&ndash;</su
 
 ### Teoría de Brønsted-Lowry
 
-Propuesta en 1923 independientemente por el danés **Johannes Nicolaus Brønsted** y el inglés **Martin Lowry**, se basa en la idea de **pares de ácido-base conjugados**. 
+Propuesta en 1923 independientemente por el danés **Johannes Nicolaus Brønsted** y el inglés **Martin Lowry**, se basa en la idea de **pares de ácido-base conjugados**.
 
 ---
 
@@ -192,7 +192,7 @@ $$
 
 A 25&thinsp;&deg;C:
 
-$$[\mathrm{H_3O^+}] = [\mathrm{OH}^-] = 10^{-7}\thinspace\mathrm M \Rightarrow K_\mathrm w = 10^{-14}	
+$$[\mathrm{H_3O^+}] = [\mathrm{OH}^-] = 10^{-7}\thinspace\mathrm M \Rightarrow K_\mathrm w = 10^{-14}
 $$
 
 ---
@@ -240,12 +240,13 @@ $$
 
 A partir de la expresión del **producto iónico del agua**, $K_\mathrm w$, tomando <strong>logaritmos</strong>:
 
-\begin{align*}
+$$\begin{align*}
 [\mathrm{H_3O^+}][\mathrm{OH^-}] &= K_\mathrm w \\\\
 \log [\mathrm{H_3O^+}] + \log [\mathrm{OH^-}] &= \log K_\mathrm w \\\\
 -\mathrm{pH} - \mathrm{pOH} &= -14 \\\\
 \mathrm{pH} + \mathrm{pOH} &= 14
 \end{align*}
+$$
 
 ---
 
@@ -464,11 +465,14 @@ $$
 ---
 
 Tomando logaritmos y cambiando de signo:
+
+$$
 \begin{align*}
 -\log\mathrm{[H_3O^+]} &= -\log K_\mathrm a - \log\frac{\mathrm{[HA]}}{\mathrm{[A^-]}}	\\\\
 \mathrm{pH} &= \mathrm p K_\mathrm a - \log\frac{\mathrm{[HA]}}{\mathrm{[A^-]}} \\\\
 \mathrm{pH} &= \mathrm p K_\mathrm a + \log\frac{[\text{base conjugada}]}{[\text{ácido}]}
 \end{align*}
+$$
 
 expresión que se conoce como **ecuación de Henderson-Hasselbalch**.
 
@@ -491,7 +495,7 @@ $$
 
 podemos despejar la concentración de iones hidróxido, OH<sup>&ndash;</sup>:
 $$
-\mathrm{[OH^-]} = K_\mathrm b\cdot \frac{\mathrm{[B]}}{\mathrm{[HB^+]}}	
+\mathrm{[OH^-]} = K_\mathrm b\cdot \frac{\mathrm{[B]}}{\mathrm{[HB^+]}}
 $$
 
 ---
@@ -563,10 +567,12 @@ $$
 
 El compuesto químico más producido del mundo, obtenido a base de hidratar SO<sub>3</sub> concentrado previamente del SO<sub>2</sub>. Su principal uso es para crear ácido fosfórico que a su vez se emplea en **fertilizantes**.
 
+$$
 \begin{align*}
 \mathrm{H_2SO_4} + \mathrm{H_2O} &\longrightarrow \mathrm{HSO_4^-} + \mathrm{H_3O^+}\quad\text{(ácido FUERTE)} \\\\
 \mathrm{HSO_4^-} + \mathrm{H_2O} & &#8652; \mathrm{SO_4^{2-}} + \mathrm{H_3O^+}\quad\text{(ácido DÉBIL)}
 \end{align*}
+$$
 
 ---
 
@@ -574,7 +580,7 @@ El compuesto químico más producido del mundo, obtenido a base de hidratar SO<s
 
 Empleado en la producción de abonos, explosivos y colorantes:
 $$
-\mathrm{HNO_3} + \mathrm{H_2O} \longrightarrow \mathrm{NO_3^-} + \mathrm{H_3O^+}\quad\text{(ácido FUERTE)}	
+\mathrm{HNO_3} + \mathrm{H_2O} \longrightarrow \mathrm{NO_3^-} + \mathrm{H_3O^+}\quad\text{(ácido FUERTE)}
 $$
 
 ---
@@ -595,8 +601,8 @@ $$
 
 Presente en el vinagre, aunque principalmente usado en la fabricación de **fibras textiles**.
 
-$$					
-\mathrm{CH_3COOH} + \mathrm{H_2O} &#8652; \mathrm{CH_3COO^-} + \mathrm{H_3O^+}\quad\text{(ácido DÉBIL)}	
+$$
+\mathrm{CH_3COOH} + \mathrm{H_2O} &#8652; \mathrm{CH_3COO^-} + \mathrm{H_3O^+}\quad\text{(ácido DÉBIL)}
 $$
 
 ---
@@ -606,7 +612,7 @@ $$
 Empleado principalmente en la producción de **fertilizantes**.
 
 $$
-\mathrm{NH_3} + \mathrm{H_2O} &#8652; \mathrm{NH_4^+} + \mathrm{OH^-}\quad\text{(base DÉBIL)}	
+\mathrm{NH_3} + \mathrm{H_2O} &#8652; \mathrm{NH_4^+} + \mathrm{OH^-}\quad\text{(base DÉBIL)}
 $$
 
 ---
@@ -616,7 +622,7 @@ $$
 Empleado sobre todo en la fabricación de papel, tejidos y agentes de limpieza.
 
 $$
-\mathrm{NaOH} \longrightarrow \mathrm{Na^+} + \mathrm{OH^-}\quad\text{(base FUERTE)}	
+\mathrm{NaOH} \longrightarrow \mathrm{Na^+} + \mathrm{OH^-}\quad\text{(base FUERTE)}
 $$
 
 ---

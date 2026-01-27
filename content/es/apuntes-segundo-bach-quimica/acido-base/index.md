@@ -188,12 +188,14 @@ $$
 
 A partir de la expresión del **producto iónico del agua**, $K_\mathrm w$, tomando <strong>logaritmos</strong>:
 
+$$
 \begin{align*}
 [\mathrm{H_3O^+}][\mathrm{OH^-}] &= K_\mathrm w \\\\
 \log [\mathrm{H_3O^+}] + \log [\mathrm{OH^-}] &= \log K_\mathrm w \\\\
 -\mathrm{pH} - \mathrm{pOH} &= -14 \\\\
 \mathrm{pH} + \mathrm{pOH} &= 14
 \end{align*}
+$$
 
 ### Escala de pH
 
@@ -327,11 +329,14 @@ $$
 \mathrm{[H_3O^+]} = K_\mathrm a\cdot \frac{\mathrm{[HA]}}{\mathrm{[A^-]}}
 $$
 Tomando logaritmos y cambiando de signo:
+
+$$
 \begin{align*}
 -\log\mathrm{[H_3O^+]} &= -\log K_\mathrm a - \log\frac{\mathrm{[HA]}}{\mathrm{[A^-]}}	\\\\
 \mathrm{pH} &= \mathrm p K_\mathrm a - \log\frac{\mathrm{[HA]}}{\mathrm{[A^-]}} \\\\
 \mathrm{pH} &= \mathrm p K_\mathrm a + \log\frac{[\text{base conjugada}]}{[\text{ácido}]}
 \end{align*}
+$$
 
 expresión que se conoce como **ecuación de Henderson-Hasselbalch**.
 
@@ -378,10 +383,12 @@ $$
 
 El compuesto químico más producido del mundo, obtenido a base de hidratar SO<sub>3</sub> concentrado previamente del SO<sub>2</sub>. Su principal uso es para crear ácido fosfórico que a su vez se emplea en **fertilizantes**.
 
+$$
 \begin{align*}
 \mathrm{H_2SO_4} + \mathrm{H_2O} &\longrightarrow \mathrm{HSO_4^-} + \mathrm{H_3O^+}\quad\text{(ácido FUERTE)} \\\\
 \mathrm{HSO_4^-} + \mathrm{H_2O} & &#8652; \mathrm{SO_4^{2-}} + \mathrm{H_3O^+}\quad\text{(ácido DÉBIL)}
 \end{align*}
+$$
 
 #### Ácido nítrico (HNO<sub>3</sub>)
 
