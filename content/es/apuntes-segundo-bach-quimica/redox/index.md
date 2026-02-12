@@ -137,6 +137,7 @@ $$
 ---
 
 Escribimos las **semirreacciones** de oxidación (&#8593; nº ox.) y reducción (&#8595; nº ox.):
+
 \begin{align*}
 \text{oxidación (Cu: $0\rightarrow +2$): } \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
 \text{reducción (N: $+5 \rightarrow +2$): } \mathrm{NO_3^-} &\longrightarrow \mathrm{NO}
@@ -151,24 +152,30 @@ Ajustamos los oxígenos añadiendo moléculas de agua:
 
 Ajustamos los H añadiendo H<sup>+</sup>:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
 4\thinspace\mathrm H^+ + \mathrm{NO_3^-} &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 Ajustamos las cargas añadiendo electrones:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} + 2\thinspace\mathrm e^- \\\\
 4\thinspace\mathrm H^+ + \mathrm{NO_3^-} + 3\thinspace\mathrm e^- &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 Igualamos el número de electrones multiplicando por coeficientes adecuados:
 
+$$
 \begin{align*}
 (\mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} + 2\thinspace\mathrm e^-)\times 3 \\\\
 (4\thinspace\mathrm H^+ + \mathrm{NO_3^-} + 3\thinspace\mathrm e^- &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O})\times 2
 \end{align*}
+$$
 
 Sumamos las semirreacciones para obtener la ecuación global:
 

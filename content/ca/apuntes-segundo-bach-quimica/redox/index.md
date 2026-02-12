@@ -43,7 +43,7 @@ slides: redox-2Batx-quimica
 
 {{% toc %}}
 
-**Redox** (reducció-oxidació) és un tipus de **reacció química** en la qual l'**estat d'oxidació** dels àtoms **canvia**, a causa d'una **transferència** d'**electrons**. 
+**Redox** (reducció-oxidació) és un tipus de **reacció química** en la qual l'**estat d'oxidació** dels àtoms **canvia**, a causa d'una **transferència** d'**electrons**.
 
 ## Oxidació-reducció
 
@@ -99,10 +99,10 @@ Per a descriure la reacció electroquímica global d'un procés redox és necess
 
 ### Mètode de l'estat d'oxidació
 Emprat sobretot a reaccions redox en **fase gasosa**, consisteix a calcular la **variació** de l'**estat** d'**oxidació** a cadascuna de les semireaccions i igualar-les multiplicant per coeficients adequats.
-				
+
 ### Mètode de l'ió-electró
 Emprat a reaccions redox que ocorren en **dissolució** (àcida o bàsica).
-				
+
 #### Passes
 
 1. Ajustar àtoms diferents d'O i H.
@@ -112,7 +112,7 @@ Emprat a reaccions redox que ocorren en **dissolució** (àcida o bàsica).
 3. Ajustar les càrregues afegint electrons a la part més positiva.
 4. Igualar el nombre d'electrons multiplicant per coeficients adequats.
 5. Sumar les semireaccions cancel·lant els electrons i termes comuns.
-   
+
 ### Exemple
 {{% callout example %}}
 <br>
@@ -132,35 +132,43 @@ Escrivim les **semireaccions** d'oxidació (&#8593; núm. ox.) i reducció (&#85
 
 Ajustem els oxígens afegint molècules d'aigua:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
 \mathrm{NO_3^-} &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 Ajustem els H afegint H<sup>+</sup>:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
 4\thinspace\mathrm H^+ + \mathrm{NO_3^-} &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 Ajustem les càrregues afegint electrons:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} + 2\thinspace\mathrm e^- \\\\
 4\thinspace\mathrm H^+ + \mathrm{NO_3^-} + 3\thinspace\mathrm e^- &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 Igualem el nombre d'electrons multiplicant per coeficients adequats:
 
+$$
 \begin{align*}
 (\mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} + 2\thinspace\mathrm e^-)\times 3 \\\\
 (4\thinspace\mathrm H^+ + \mathrm{NO_3^-} + 3\thinspace\mathrm e^- &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O})\times 2
 \end{align*}
+$$
 
 Sumem les semireaccions per a obtenir l'equació global:
 
-$$				
+$$
 \boxed{3\thinspace\mathrm{Cu} + 8\thinspace\mathrm{HNO_3} \longrightarrow 3\thinspace\mathrm{Cu(NO_3)_2} + 2\thinspace\mathrm{NO} + 4\thinspace\mathrm{H_2O}}
 $$
 {{% /callout %}}
@@ -224,14 +232,14 @@ on $n$ és el nombre d'electrons transferits en la reacció i $F \approx 96485\t
 Una **reacció redox espontània** es caracteritza per un valor **negatiu** de $\symup\Delta G^\circ$, la qual cosa correspon a un valor **positiu** de $E_\text{pila}^\circ$.
 
 $$
-\text{reacció redox espontània} \Leftrightarrow E_\text{pila}^\circ > 0	
+\text{reacció redox espontània} \Leftrightarrow E_\text{pila}^\circ > 0
 $$
 
 ## Volumetries redox
 
 Una **valoració/titulació redox** és un mètode d'anàlisi química quantitativa per a determinar la concentració d'un oxidant o reductor identificat (***anàlit***), que pateix una reacció redox amb una dissolució estàndard de reductor o oxidant de concentració coneguda (**valorant**).
 
-{{< figure src="acido-base-2Bach-quimica/volumetria-acido-base-cat.svg" title="Traduïda i adaptada de https://www.coursehero.com/sg/general-chemistry/quantitative-analysis-of-acids-and-bases/." lightbox="false" width="100%" >}}			
+{{< figure src="acido-base-2Bach-quimica/volumetria-acido-base-cat.svg" title="Traduïda i adaptada de https://www.coursehero.com/sg/general-chemistry/quantitative-analysis-of-acids-and-bases/." lightbox="false" width="100%" >}}
 
 Sovint és necessari utilitzar un **indicador redox** i/o un **potenciòmetre** per a conèixer el **punt d'equivalència**.
 
@@ -240,7 +248,7 @@ Sovint és necessari utilitzar un **indicador redox** i/o un **potenciòmetre** 
 En el punt d'equivalència, l'oxidant ha reaccionat amb la quantitat equivalent de reductor, per la qual cosa:
 
 <div align="center" style="margin-bottom: 1rem">
- 
+
 *c*<sub>r</sub>*n*<sub>o</sub> = *c*<sub>o</sub>*n*<sub>r</sub>
 
 *c*<sub>r</sub>*M*<sub>o</sub>*V*<sub>o</sub> = *c*<sub>o</sub>*M*<sub>r</sub>*V*<sub>r</sub>
@@ -253,11 +261,11 @@ on *n* són els mols, *c* representa els coeficients estequiomètrics, *M* és l
 #### Iodometria
 
 Generalment utilitzada per a analitzar la concentració d'agents oxidants en mostres d'aigua, implica la valoració indirecta de iode alliberat per reacció amb l'anàlit.
-					
+
 El tiosulfat de sodi (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) sol utilitzar-se com a agent reductor.
-					
+
 L'aparició o desaparició de iode elemental indica el punt final.
-					
+
 No confondre amb la **iodimetria**, que és una valoració directa utilitzant iode com a substància valorante.
 
 #### Permanganometria
@@ -294,12 +302,12 @@ Són **expressions quantitatives** que relacionen **magnituds electroquímiques*
 
 1. La massa de substància dipositada a un elèctrode, $m$, és directament proporcional a la càrrega elèctrica transferida a aquest elèctrode, $Q$:
     $$
-		m \propto Q	
+		m \propto Q
 		$$
 2. Per a una determinada quantitat de càrrega elèctrica, la massa de substància dipositada en un elèctrode, $m$, és directament proporcional a la seva *massa equivalent*, $E$, que no és més que la seva massa molar, $M$, dividida per la seva valència iònica (electrons per ió), $n$:
     $$
     m \propto E	= \frac{M}{n}
-		$$			
+		$$
 
 Totes dues lleis es poden combinar en una sola expressió matemàtica donada per:
 
@@ -366,10 +374,10 @@ L'oxigen atmosfèric és el càtode (oxidant) més comú en les reaccions redox 
 
 {{< figure src="redox-2Bach-quimica/corrosion-cat.svg" title="Traduïda i adaptada de https://www.coursehero.com/sg/general-chemistry/corrosion/." lightbox="false" width="100%" >}}
 
-#### Anodització		
+#### Anodització
 
 Procés electrolític de *passivació* que s'utilitza per a augmentar el gruix de la capa d'òxid natural a la superfície de peces metàl·liques, especialment d'alumini (Al).
-		
+
 #### Galvanoplàstia
 
 És l'aplicació tecnològica de la deposició de metalls mitjançant electricitat ([electrodeposició](https://ca.wikipedia.org/wiki/Refinació_electrolítica)), formant un recobriment protector, típicament de zinc sobre ferro o acer (aliatge de Fe i C).

@@ -197,37 +197,45 @@ Escrivim les **semireaccions** d'oxidació (&#8593; núm. ox.) i reducció (&#85
 
 Ajustem els oxígens afegint molècules d'aigua:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
 \mathrm{NO_3^-} &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 ---
 
 Ajustem els H afegint H<sup>+</sup>:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
 4\thinspace\mathrm H^+ + \mathrm{NO_3^-} &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 ---
 
 Ajustem les càrregues afegint electrons:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} + 2\thinspace\mathrm e^- \\\\
 4\thinspace\mathrm H^+ + \mathrm{NO_3^-} + 3\thinspace\mathrm e^- &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 ---
 
 Igualem el nombre d'electrons multiplicant per coeficients adequats:
 
+$$
 \begin{align*}
 (\mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} + 2\thinspace\mathrm e^-)\times 3 \\\\
 (4\thinspace\mathrm H^+ + \mathrm{NO_3^-} + 3\thinspace\mathrm e^- &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O})\times 2
 \end{align*}
+$$
 
 ---
 

@@ -34,7 +34,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ---
 
-**Rédox** (reducción-oxidación) es un tipo de **reacción química** en la que el **estado de oxidación** de los átomos **cambia**, debido a una **transferencia** de **electrones**. 
+**Rédox** (reducción-oxidación) es un tipo de **reacción química** en la que el **estado de oxidación** de los átomos **cambia**, debido a una **transferencia** de **electrones**.
 
 ---
 
@@ -157,12 +157,12 @@ Para describir la reacción electroquímica global de un proceso redox es necesa
 Empleado sobre todo en reacciones rédox en **fase gaseosa**, consiste en calcular la **variación** del **estado** de **oxidación** en cada una de las semirreacciones e igualarlas multiplicando por coeficientes adecuados.
 
 ---
-				
+
 ### Método del ion-electrón
 Empleado en reacciones rédox que ocurren en **disolución** (ácida o básica).
 
 ---
-				
+
 #### Pasos
 
 1. Ajustar átomos distintos de O e H.
@@ -177,7 +177,7 @@ Empleado en reacciones rédox que ocurren en **disolución** (ácida o básica).
 5. Sumar las semirreacciones cancelando los electrones y términos comunes.
 
 ---
-   
+
 ### Ejemplo
 
 > Ajustar la siguiente ecuación en medio ácido:
@@ -206,34 +206,40 @@ Ajustamos los oxígenos añadiendo moléculas de agua:
 
 Ajustamos los H añadiendo H<sup>+</sup>:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
 4\thinspace\mathrm H^+ + \mathrm{NO_3^-} &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 ---
 
 Ajustamos las cargas añadiendo electrones:
 
+$$
 \begin{align*}
 \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} + 2\thinspace\mathrm e^- \\\\
 4\thinspace\mathrm H^+ + \mathrm{NO_3^-} + 3\thinspace\mathrm e^- &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 ---
 
 Igualamos el número de electrones multiplicando por coeficientes adecuados:
 
+$$
 \begin{align*}
 (\mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} + 2\thinspace\mathrm e^-)\times 3 \\\\
 (4\thinspace\mathrm H^+ + \mathrm{NO_3^-} + 3\thinspace\mathrm e^- &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O})\times 2
 \end{align*}
+$$
 
 ---
 
 Sumamos las semirreacciones para obtener la ecuación global:
 
-$$				
+$$
 \boxed{3\thinspace\mathrm{Cu} + 8\thinspace\mathrm{HNO_3} \longrightarrow 3\thinspace\mathrm{Cu(NO_3)_2} + 2\thinspace\mathrm{NO} + 4\thinspace\mathrm{H_2O}}
 $$
 
@@ -341,7 +347,7 @@ donde $n$ es el número de electrones transferidos en la reacción y $F \approx 
 Una **reacción rédox espontánea** se caracteriza por un valor **negativo** de $\Delta G^\circ$, lo que corresponde a un valor **positivo** de $E_\text{pila}^\circ$.
 
 $$
-\text{reacción rédox espontánea} \Leftrightarrow E_\text{pila}^\circ > 0	
+\text{reacción rédox espontánea} \Leftrightarrow E_\text{pila}^\circ > 0
 $$
 
 {{% /section %}}
@@ -369,7 +375,7 @@ A menudo es necesario utilizar un **indicador rédox** y/o un **potenciómetro**
 En el punto de equivalencia, el oxidante ha reaccionado con la cantidad equivalente de reductor, por lo que:
 
 <div align="center" style="margin-bottom: 1rem">
- 
+
 *c*<sub>r</sub>*n*<sub>o</sub> = *c*<sub>o</sub>*n*<sub>r</sub>
 
 *c*<sub>r</sub>*M*<sub>o</sub>*V*<sub>o</sub> = *c*<sub>o</sub>*M*<sub>r</sub>*V*<sub>r</sub>
@@ -395,15 +401,15 @@ donde *n* son los moles, *c* representa los coeficientes estequiométricos, *M* 
 Generalmente utilizada para analizar la concentración de agentes oxidantes en muestras de agua, implica la valoración indirecta de yodo liberado por reacción con el analito.
 
 ---
-					
+
 El tiosulfato de sodio (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) suele utilizarse como agente reductor.
 
 ---
-					
+
 La aparición o desaparición de yodo elemental indica el punto final.
 
 ---
-					
+
 No confundir con la **yodimetría**, que es una valoración directa utilizando yodo como sustancia valorante.
 
 ---
@@ -475,7 +481,7 @@ Son **expresiones cuantitativas** que relacionan **magnitudes electroquímicas**
 
 1. La masa de sustancia depositada en un electrodo, $m$, es directamente proporcional a la carga eléctrica transferida a ese electrodo, $Q$:
     $$
-		m \propto Q	
+		m \propto Q
 		$$
 
 ---
@@ -485,7 +491,7 @@ Son **expresiones cuantitativas** que relacionan **magnitudes electroquímicas**
     m \propto E	= \frac{M}{n}
 		$$
 
----    
+---
 
 Ambas leyes se pueden combinar en una sola expresión matemática dada por:
 
@@ -611,12 +617,12 @@ El oxígeno atmosférico es el cátodo (oxidante) más común en las reacciones 
 
 ---
 
-#### Anodización		
+#### Anodización
 
 Proceso electrolítico de *pasivación* que se utiliza para aumentar el grosor de la capa de óxido natural en la superficie de piezas metálicas, especialmente de aluminio (Al).
 
 ---
-		
+
 #### Galvanoplastia
 
 Es la aplicación tecnológica de la deposición de metales mediante electricidad ([electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)), formando un recubrimiento protector, típicamente de zinc sobre hierro o acero (aleación de Fe y C).
