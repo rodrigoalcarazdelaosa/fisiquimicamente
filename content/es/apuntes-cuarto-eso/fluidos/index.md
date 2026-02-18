@@ -213,7 +213,7 @@ $$
 {{% callout example %}}
 <br>
 
-> El Pont Aven es el ferry 🛳️ que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del [agua del mar](https://es.wikipedia.org/wiki/Agua_de_mar), ¿qué volumen del barco se encuentra sumergido?
+> El Pont Aven es el ferry 🛳️ que navega, entre otras rutas, desde Santander hasta Plymouth. Tiene un [*tonelaje de peso muerto*](https://es.wikipedia.org/wiki/Tonelaje_de_peso_muerto) de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del [agua del mar](https://es.wikipedia.org/wiki/Agua_de_mar), ¿qué volumen del barco se encuentra sumergido?
 
 {{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" title="[https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven](https://www.brittanyferries.es/la-flota/ferries-desde-espana/pont-aven)" lightbox="true" >}}
 
@@ -251,6 +251,12 @@ También puedes ver este excelente vídeo del [Departamento de Física y Químic
 {{% callout note %}}
 [Aquí](https://drive.google.com/file/d/1mPRJVEBM1Fvsm_Q6m0xxHJ4By6MDpdzz/view) puedes descargarte el **guion** de la **práctica**.
 {{% /callout %}}
+
+#### Simulación
+
+Puedes explorar con más detalle la **relación** entre el **principio de Arquímedes** y la **flotabilidad** con la siguiente **simulación**:
+
+<iframe src="https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 ## Física de la atmósfera
 ### Presión atmosférica

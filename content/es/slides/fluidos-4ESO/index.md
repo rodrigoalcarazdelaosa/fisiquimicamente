@@ -246,7 +246,7 @@ $$
 ---
 
 #### Ejemplo
-<q>El Pont Aven es el ferry que navega desde Santander hasta Plymouth. Tiene un *tonelaje de peso muerto* de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar, ¿qué volumen del barco se encuentra sumergido?</q>
+<q>El Pont Aven es el ferry que navega desde Santander hasta Plymouth. Tiene un [*tonelaje de peso muerto*](https://es.wikipedia.org/wiki/Tonelaje_de_peso_muerto) de 4803 toneladas. Si $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del agua del mar, ¿qué volumen del barco se encuentra sumergido?</q>
 
 {{< figure library="true" src="fluidos-4ESO/Pont-Aven.jpg" lightbox="false" width="50%" >}}
 
@@ -284,6 +284,12 @@ $$
 Para determinar **densidades** y **fuerzas de empuje**:
 
 {{< youtube o7v9Kbs6e8Y >}}
+
+---
+
+#### Simulación
+
+<iframe src="https://phet.colorado.edu/sims/html/buoyancy/latest/buoyancy_all.html?locale=es" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
 {{% /section %}}
 
