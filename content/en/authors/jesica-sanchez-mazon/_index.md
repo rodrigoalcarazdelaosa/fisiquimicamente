@@ -86,4 +86,4 @@ user_groups:
 - 🧑‍🔬 Founders
 ---
 
-I am a **Medical Physicist** at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and I hold a **PhD in Medicine and Health Sciences** from the [University of Cantabria](https://web.unican.es). In addition, I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Hospital](https://www.escuelahospitalmompia.es).
+I am a **Medical Physicist** at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and I hold a **PhD in Medicine and Health Sciences** from the [University of Cantabria](https://web.unican.es). In addition, I am a **Radioactive Facilities Supervisor** accredited by the CSN and I **teach** in **TVET** and **Degree** at the [School in Health Sciences of the Mompía Hospital](https://www.escuelahospitalmompia.es).

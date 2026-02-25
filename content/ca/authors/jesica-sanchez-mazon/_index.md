@@ -86,4 +86,4 @@ user_groups:
 - 🧑‍🔬 Fundadors
 ---
 
-Soc **Radiofísica Hospitalària** a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i **Doctora en Medicina i Ciències de la Salut** per la [Universidad de Cantabria](https://web.unican.es). A més, imparteixo **docència** en Cicle Formatiu i Grau a la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es).
+Soc **Radiofísica Hospitalària** a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i **Doctora en Medicina i Ciències de la Salut** per la [Universidad de Cantabria](https://web.unican.es). A més, soc **Supervisora d'Instal·lacions Radioactives** acreditada pel CSN i imparteixo **docència** en **Cicle Formatiu** i **Grau** a la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es).

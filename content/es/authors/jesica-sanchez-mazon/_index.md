@@ -86,4 +86,4 @@ user_groups:
 - 🧑‍🔬 Fundadores
 ---
 
-Soy **Radiofísica Hospitalaria** en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) y **Doctora en Medicina y Ciencias de la Salud** por la [Universidad de Cantabria](https://web.unican.es). Además, imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es).
+Soy **Radiofísica Hospitalaria** en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) y **Doctora en Medicina y Ciencias de la Salud** por la [Universidad de Cantabria](https://web.unican.es). Además, soy **Supervisora de Instalaciones Radiactivas** acreditada por el CSN e imparto **docencia** en **Ciclo Formativo** y **Grado** en la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es).
