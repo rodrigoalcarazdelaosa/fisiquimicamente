@@ -27,16 +27,19 @@ organizations:
   url: "https://www.ucavila.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soy Radiofísica Hospitalaria en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) y estudiante de Doctorado en Medicina y Ciencias de la Salud en la [Universidad de Cantabria](https://web.unican.es).
+bio: Soy Radiofísica Hospitalaria en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) y Doctora en Medicina y Ciencias de la Salud por la [Universidad de Cantabria](https://web.unican.es).
 
 interests:
-- ✈️ Viajar 
+- ✈️ Viajar
 - 🥾 Senderismo
-- 🍳 Cocinar 
+- 🍳 Cocinar
 - ☢️ Radiaciones ionizantes
 
 education:
   courses:
+  - course: Doctora en Medicina y Ciencias de la Salud
+    institution: Universidad de Cantabria
+    year: 2026
   - course: Máster en Formación del Profesorado
     institution: UNIR
     year: 2020
@@ -83,4 +86,4 @@ user_groups:
 - 🧑‍🔬 Fundadores
 ---
 
-Soy **Radiofísica Hospitalaria** en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) e imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es). Además, soy **estudiante de Doctorado en Medicina y Ciencias de la Salud** en la [Universidad de Cantabria](https://web.unican.es).
+Soy **Radiofísica Hospitalaria** en el [Hospital Mompía](https://www.hospitalmompia.com/) de Cantabria (España) y **Doctora en Medicina y Ciencias de la Salud** por la [Universidad de Cantabria](https://web.unican.es). Además, imparto **docencia** en Ciclo Formativo y Grado en la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es).

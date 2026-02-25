@@ -24,19 +24,22 @@ organizations:
 - name: Escuela Técnico Profesional en Ciencias de la Salud
   url: "https://www.escuelahospitalmompia.es"
 - name: Universidad Católica de Ávila
-  url: "https://www.ucavila.es"  
+  url: "https://www.ucavila.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Medical Physicist at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and a PhD student in Medicine and Health Sciences at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).
+bio: I am a Medical Physicist at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and I hold a PhD in Medicine and Health Sciences from the [University of Cantabria](https://web.unican.es).
 
 interests:
-- ✈️ Traveling 
+- ✈️ Traveling
 - 🥾 Hiking
-- 🍳 Cooking 
+- 🍳 Cooking
 - ☢️ Ionizing Radiation
 
 education:
   courses:
+  - course: PhD in Medicine and Health Sciences
+    institution: University of Cantabria
+    year: 2026
   - course: Master's Degree in Teacher Training
     institution: UNIR
     year: 2020
@@ -67,7 +70,7 @@ social:
 - icon: linkedin
   icon_pack: svg
   link: https://es.linkedin.com/in/jesicasanchezmazon
-  label: Follow me on LinkedIn  
+  label: Follow me on LinkedIn
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -83,4 +86,4 @@ user_groups:
 - 🧑‍🔬 Founders
 ---
 
-I am a **Medical Physicist** at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Hospital](https://www.escuelahospitalmompia.es). I am also a **PhD student in Medicine and Health Sciences** at the [University of Cantabria](https://web.unican.es/en/Pages/default.aspx).
+I am a **Medical Physicist** at [Mompía Hospital](https://www.hospitalmompia.com/) in Cantabria (Spain) and I hold a **PhD in Medicine and Health Sciences** from the [University of Cantabria](https://web.unican.es). In addition, I **teach** in TVET and Degree at the [School in Health Sciences of the Mompía Hospital](https://www.escuelahospitalmompia.es).

@@ -21,22 +21,25 @@ role: ☢️ Radiofísica · 📝 Oposicions
 organizations:
 - name: Hospital Mompía
   url: "https://www.hospitalmompia.com/"
-- name: Escuela Técnico Profesional en Ciencias de la Salud de la Clínica Mompía
+- name: Escuela Técnico Profesional en Ciencias de la Salud
   url: "https://www.escuelahospitalmompia.es"
 - name: Universidad Católica de Ávila
-  url: "https://www.ucavila.es"  
+  url: "https://www.ucavila.es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Soc Radiofísica Hospitalària a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i una estudiant de Doctorat en Medicina i Ciències de la Salut a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
+bio: Soc Radiofísica Hospitalària a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i Doctora en Medicina i Ciències de la Salut per la [Universidad de Cantabria](https://web.unican.es).
 
 interests:
-- ✈️ Viatjar 
+- ✈️ Viatjar
 - 🥾 Senderisme
-- 🍳 Cuinar 
+- 🍳 Cuinar
 - ☢️ Radiacions ionitzants
 
 education:
   courses:
+  - course: Doctora en Medicina i Ciències de la Salut
+    institution: Universidad de Cantabria
+    year: 2026
   - course: Màster en Formació del Professorat
     institution: UNIR
     year: 2020
@@ -83,4 +86,4 @@ user_groups:
 - 🧑‍🔬 Fundadors
 ---
 
-Soc **Radiofísica Hospitalària** a a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i imparteixo **docència** en el Cicle Formatiu i Grau en la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es). A més a més, sóc **estudiant de Doctorat en Medicina i Ciències de la Salut** a la [Universidad de Cantabria](https://web.unican.es/en/Pages/default.aspx).
+Soc **Radiofísica Hospitalària** a l'[Hospital Mompía](https://www.hospitalmompia.com/) de Cantàbria (Espanya) i **Doctora en Medicina i Ciències de la Salut** per la [Universidad de Cantabria](https://web.unican.es). A més, imparteixo **docència** en Cicle Formatiu i Grau a la [Escuela Técnico Profesional en Ciencias de la Salud del Hospital Mompía](https://www.escuelahospitalmompia.es).
