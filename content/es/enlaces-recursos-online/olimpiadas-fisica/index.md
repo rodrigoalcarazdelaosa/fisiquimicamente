@@ -11,5 +11,5 @@ build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://rsef.es/problemas-de-la-oef
+external_link: https://rsef.es/problemas-y-soluciones/
 ---
