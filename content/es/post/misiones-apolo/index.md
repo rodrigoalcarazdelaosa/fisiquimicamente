@@ -19,6 +19,8 @@ image:
 
 {{% callout note %}}
 En esta entrada compartimos una colección de **insignias** de las **misiones tripuladas** del [**Programa Apolo**](https://es.wikipedia.org/wiki/Programa_Apolo) junto con sus **descripciones** (traducidas), tal y como aparecen en [esta página de la NASA](https://solarsystem.nasa.gov/resources/2293/apollo-mission-patches/). En el pie de cada insignia hay un **enlace** para descargar la imagen en **alta resolución** y encontrar **más información** sobre cada una de las misiones.
+
+En [este **enlace**](https://www.nasa.gov/gallery/human-spaceflight-mission-patches/) puedes acceder a las **insignias** del **resto** de **programas** de **misiones tripuladas**.
 {{% /callout %}}
 
 {{% toc %}}
