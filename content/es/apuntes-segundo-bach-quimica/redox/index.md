@@ -305,7 +305,7 @@ La **electrolisis** es una técnica que utiliza corriente eléctrica continua (C
 
 - En una **celda electrolítica**, igual que en una celda galvánica, la reducción tiene lugar en el cátodo, y la oxidación en el ánodo. Sin embargo, debido a que el flujo de electrones está invertido, la polaridad de los electrodos está también invertida, por lo que el **ánodo** es **positivo** y el **cátodo negativo**.
 - El potencial de la celda es positivo en la pila, negativo en la cuba.
-- Además, en una cuba electrolítica los dos electrodos o bien están sumergidos en una disolución del ion del oxidante (por ejemplo, cuando se dan baños metálicos por [electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)) o bien en la disolución del electrolito fundido (como en la electrolisis del NaCl); en lugar de estar separados por un puente salino o por una membrana semipermeable, como es el caso de las pilas.
+- Además, en una cuba electrolítica los dos electrodos o bien están sumergidos en una disolución del ion del oxidante (por ejemplo, cuando se dan baños metálicos por [electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)) o bien sumergidos en el electrolito fundido (como en la electrolisis del NaCl); en lugar de estar separados por un puente salino o por una membrana semipermeable, como es el caso de las pilas.
   {{< callout note >}}
   **¿Qué sustancia se transforma (descarga) en cada electrodo?** Depende de si trabajamos con **electrolito fundido** o en **disolución**:
 
@@ -320,13 +320,19 @@ La **electrolisis** es una técnica que utiliza corriente eléctrica continua (C
 
   *Cátodo (reducción)*
 
-  - Si el metal es más reactivo que el hidrógeno (alcalinos o alcalinotérreos), se reduce el agua formándose H<sub>2</sub>.
+  - Si el metal es más reactivo que el hidrógeno (alcalinos o alcalinotérreos), se reduce el agua formándose H<sub>2</sub>:
+  $$
+  \ce{2H2O + 2 e- -> H2(g) + 2OH-(ac)}
+  $$
   - Si el metal es menos reactivo que el hidrógeno, se reduce (deposita) el metal.
 
   *Ánodo (oxidación)*
 
   - Si hay haluros (salvo F<sup>–</sup>), se oxidan formando halógenos.
-  - Si no hay haluros, se oxida el agua formándose oxígeno (O<sub>2</sub>).
+  - Si no hay haluros, se oxida el agua formándose oxígeno (O<sub>2</sub>):
+  $$
+  \ce{2H2O -> O2(g) + 4H+(ac) + 4e-}
+  $$
 
   {{< /callout >}}
 

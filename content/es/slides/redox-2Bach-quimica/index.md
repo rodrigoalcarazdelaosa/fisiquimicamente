@@ -469,7 +469,7 @@ La **electrolisis** es una técnica que utiliza corriente eléctrica continua (C
 
 ---
 
-- Además, en una cuba electrolítica los dos electrodos o bien están sumergidos en una disolución del ion del oxidante (por ejemplo, cuando se dan baños metálicos por [electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)) o bien en la disolución del electrolito fundido (como en la electrolisis del NaCl); en lugar de estar separados por un puente salino o por una membrana semipermeable, como es el caso de las pilas.
+- Además, en una cuba electrolítica los dos electrodos o bien están sumergidos en una disolución del ion del oxidante (por ejemplo, cuando se dan baños metálicos por [electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)) o bien sumergidos en el electrolito fundido (como en la electrolisis del NaCl); en lugar de estar separados por un puente salino o por una membrana semipermeable, como es el caso de las pilas.
 
 ---
 
@@ -494,7 +494,10 @@ Depende de si trabajamos con **electrolito fundido** o en **disolución**:
 
 ###### Cátodo (reducción)
 
-- Si el metal es más reactivo que el hidrógeno (alcalinos o alcalinotérreos), se reduce el agua formándose H<sub>2</sub>.
+- Si el metal es más reactivo que el hidrógeno (alcalinos o alcalinotérreos), se reduce el agua formándose H<sub>2</sub>:
+  $$
+  \ce{2H2O + 2 e- -> H2(g) + 2OH-(ac)}
+  $$
 - Si el metal es menos reactivo que el hidrógeno, se reduce (deposita) el metal.
 
 ---
@@ -503,6 +506,9 @@ Depende de si trabajamos con **electrolito fundido** o en **disolución**:
 
 - Si hay haluros (salvo F<sup>–</sup>), se oxidan formando halógenos.
 - Si no hay haluros, se oxida el agua formándose oxígeno (O<sub>2</sub>).
+  $$
+  \ce{2H2O -> O2(g) + 4H+(ac) + 4e-}
+  $$
 
 ---
 
