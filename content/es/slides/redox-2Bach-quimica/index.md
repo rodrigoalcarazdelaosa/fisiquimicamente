@@ -453,9 +453,9 @@ La **electrolisis** es una técnica que utiliza corriente eléctrica continua (C
 ---
 
 - [Celda (o cuba) electrolítica vs. celda galvánica](#/9/2)
-- [Leyes de Faraday](#/9/5)
-- [Electrolisis del agua](#/9/10)
-- [Aplicaciones](#/9/14)
+- [Leyes de Faraday](#/9/10)
+- [Electrolisis del agua](#/9/15)
+- [Aplicaciones](#/9/19)
 
 ---
 
@@ -470,6 +470,39 @@ La **electrolisis** es una técnica que utiliza corriente eléctrica continua (C
 ---
 
 - Además, en una cuba electrolítica los dos electrodos o bien están sumergidos en una disolución del ion del oxidante (por ejemplo, cuando se dan baños metálicos por [electrodeposición](https://es.wikipedia.org/wiki/Electrodeposición)) o bien en la disolución del electrolito fundido (como en la electrolisis del NaCl); en lugar de estar separados por un puente salino o por una membrana semipermeable, como es el caso de las pilas.
+
+---
+
+#### ¿Qué sustancia se transforma (descarga) en cada electrodo?
+
+Depende de si trabajamos con **electrolito fundido** o en **disolución**:
+
+---
+
+##### Electrolito fundido
+
+- Solo hay iones del compuesto.
+- No hay agua.
+- Se descargan directamente: los **cationes** se **reducen** en el **cátodo** y los **aniones** se **oxidan** en el **ánodo**.
+
+---
+
+##### Disolución
+- El **agua compite** con los **iones**.
+
+---
+
+###### Cátodo (reducción)
+
+- Si el metal es más reactivo que el hidrógeno (alcalinos o alcalinotérreos), se reduce el agua formándose H<sub>2</sub>.
+- Si el metal es menos reactivo que el hidrógeno, se reduce (deposita) el metal.
+
+---
+
+###### Ánodo (oxidación)
+
+- Si hay haluros (salvo F<sup>–</sup>), se oxidan formando halógenos.
+- Si no hay haluros, se oxida el agua formando oxígeno (O<sub>2</sub>).
 
 ---
 
