@@ -502,7 +502,7 @@ Depende de si trabajamos con **electrolito fundido** o en **disolución**:
 ###### Ánodo (oxidación)
 
 - Si hay haluros (salvo F<sup>–</sup>), se oxidan formando halógenos.
-- Si no hay haluros, se oxida el agua formando oxígeno (O<sub>2</sub>).
+- Si no hay haluros, se oxida el agua formándose oxígeno (O<sub>2</sub>).
 
 ---
 
