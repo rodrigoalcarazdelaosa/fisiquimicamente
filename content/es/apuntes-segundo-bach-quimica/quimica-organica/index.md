@@ -53,6 +53,7 @@ links:
 slides: quimica-organica-2Bach-quimica
 
 threedmol: true
+math: true
 ---
 
 {{% toc %}}
@@ -73,9 +74,19 @@ Bioinformatics (2015) 31 (8): 1322–1324 https://doi.org/10.1093/bioinformatics
 
 ## Isomería
 
-Dos compuestos son **isómeros**[^1] entre sí si tienen el mismo número y tipo de átomos, es decir, si tienen la **misma fórmula molecular**. Dos compuestos isómeros tienen el **mismo número** de **insaturaciones**.
+Dos compuestos son **isómeros**[^1] entre sí si tienen el mismo número y tipo de átomos, es decir, si tienen la **misma fórmula molecular**.
 
 [^1]: La palabra **isómero** es un neologismo acuñado por el químico sueco [Jöns Jacob Berzelius (1779–1848)](https://es.wikipedia.org/wiki/Jöns_Jacob_Berzelius), formada del griego ισo (isos = igual) y μ𝜀ρo𝜍 (meros = parte, porción).
+
+### Grado de insaturación (GI)
+
+Dos compuestos isómeros tienen el **mismo número** de **insaturaciones** (enlaces dobles/triples o anillos), las cuales pueden determinarse calculando el **grado de insaturación**:
+
+$$
+\mathrm{GI} = 1 + C - \left(\frac{H+X-N}{2}\right),
+$$
+
+donde $C$ es el número de átomos de carbono, $H$ es el número de átomos de hidrógeno, $X$ es el número de átomos de halógenos y $N$ es el número de átomos de nitrógeno.
 
 ### Isomería constitucional
 

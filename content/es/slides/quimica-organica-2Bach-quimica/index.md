@@ -38,10 +38,11 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ## Isomería
 
-Dos compuestos son **isómeros** entre sí si tienen el mismo número y tipo de átomos, es decir, si tienen la **misma fórmula molecular**. Dos compuestos isómeros tienen el **mismo número** de **insaturaciones**.
+Dos compuestos son **isómeros** entre sí si tienen el mismo número y tipo de átomos, es decir, si tienen la **misma fórmula molecular**.
 
-- [Isomería constitucional](#/2/1)
-- [Estereoisomería](#/2/13)
+- [Grado de insaturación](#/2/1)
+- [Isomería constitucional](#/2/2)
+- [Estereoisomería](#/2/14)
 
 (continúa hacia abajo)
 
@@ -49,13 +50,25 @@ Dos compuestos son **isómeros** entre sí si tienen el mismo número y tipo de 
 
 ---
 
+### Grado de insaturación (GI)
+
+Dos compuestos isómeros tienen el **mismo número** de **insaturaciones** (enlaces dobles/triples o anillos), las cuales pueden determinarse calculando el **grado de insaturación**:
+
+$$
+\mathrm{GI} = 1 + C - \left(\frac{H+X-N}{2}\right),
+$$
+
+donde $C$ es el número de átomos de carbono, $H$ es el número de átomos de hidrógeno, $X$ es el número de átomos de halógenos y $N$ es el número de átomos de nitrógeno.
+
+---
+
 ### Isomería constitucional
 
 Se debe a **diferencias** en la **estructura** de los **compuestos**, es decir, cambia cómo están unidos los átomos (tienen diferente conectividad). Dentro de este tipo, hay tres subtipos de isomería:
 
-- [Isomería de cadena](#/2/2)
-- [Isomería de posición](#/2/5)
-- [Isomería de función](#/2/8)
+- [Isomería de cadena](#/2/3)
+- [Isomería de posición](#/2/6)
+- [Isomería de función](#/2/9)
 
 (continúa hacia abajo)
 
@@ -118,10 +131,10 @@ Se presenta en compuestos que difieren en la **posición** de su **grupo funcion
 #### Isomería de función
 
 Se presenta en compuestos que tienen **grupos funcionales distintos**. Suelen ser isómeros de función entre sí:
-				
+
 - alcoholes-éteres,
 - aldehídos-cetonas,
-- y ácidos carboxílicos-ésteres,	
+- y ácidos carboxílicos-ésteres,
 
 aunque existen otras muchas posibilidades.
 
@@ -159,9 +172,9 @@ aunque existen otras muchas posibilidades.
 
 En este caso, la estructura de las sustancias es la misma (igual conectividad entre átomos) pero se **diferencian** en su **orientación espacial**.
 
-- [Isomería geométrica (*cis-trans*)](#/2/14)
-- [Isomería conformacional](#/2/29)
-- [Isomería óptica](#/2/36)
+- [Isomería geométrica (*cis-trans*)](#/2/15)
+- [Isomería conformacional](#/2/30)
+- [Isomería óptica](#/2/37)
 
 (continúa hacia abajo)
 
@@ -275,7 +288,7 @@ Sería incorrecto referirnos a las dos posibilidades como *cis* y *trans* ya que
 Es decir, la molécula puede rotar en torno al enlace sencillo e interconvertirse de una conformación a otra, cosa que no puede ocurrir con los isómeros *cis* y *trans* debido a la rigidez del doble enlace o del ciclo.
 
 ---
-            
+
 Estos [**confórmeros**](https://es.wikipedia.org/wiki/Isomería_conformacional) se nombran con el prefijo "s" (de "sigma", o de "simple" si prefieres).
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/conformeros.svg" lightbox="false" width="100%" >}}
@@ -655,7 +668,7 @@ C<sub>3</sub>H<sub>8</sub>O + 9/2&thinsp;O<sub>2</sub> &xrarr; 3&thinsp;CO<sub>3
 </div>
 
 ---
- 
+
 Las reacciones de combustión son reacciones exotérmicas. Si el compuesto tiene otros elementos, como N o S, también habituales en química orgánica, se obtienen los óxidos de éstos.
 
 ---
@@ -759,7 +772,7 @@ Se obtienen a partir de la formación de largas cadenas de monómeros que se une
 ##### Iniciación
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-iniciacion.svg" lightbox="false" width="100%" theme="light" >}}
 
----  
+---
 
 ##### Crecimiento
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-crecimiento.svg" lightbox="false" width="100%" theme="light" >}}
@@ -769,7 +782,7 @@ Se obtienen a partir de la formación de largas cadenas de monómeros que se une
 ##### Terminación
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-terminacion.svg" lightbox="false" width="100%" theme="light" >}}
 
----  
+---
 
 La reacción global quedaría como:
 
