@@ -66,7 +66,7 @@ donde $C$ es el número de átomos de carbono, $H$ es el número de átomos de h
 |:---:|-------------------------------|----------------------------|----------------------------------|
 | 0 | Alcano                        | Alcohol, éter              | Diol, éter-alcohol               |
 | 1 | Alqueno (C=C) o ciclo               | Aldehído o cetona (C=O)    | Ácido carboxílico o éster        |
-| 2 | Alquino (C&equiv;C), dieno, ciclo + doble | Enona, alquenol            | Diácido, diéster, ácido + doble  |
+| 2 | Alquino (C&equiv;C), dieno, ciclo + doble | Enona, alquinol            | Dicetona, cetoaldehído, ácido + doble  |
 
 ---
 
