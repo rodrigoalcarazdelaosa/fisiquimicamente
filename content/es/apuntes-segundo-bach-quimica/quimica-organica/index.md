@@ -88,6 +88,16 @@ $$
 
 donde $C$ es el número de átomos de carbono, $H$ es el número de átomos de hidrógeno, $X$ es el número de átomos de halógenos y $N$ es el número de átomos de nitrógeno.
 
+| GI | Sin O (hidrocarburos)          | Con 1 O                    | Con 2 O                          |
+|:---:|-------------------------------|----------------------------|----------------------------------|
+| 0 | Alcano                        | Alcohol, éter              | Diol, éter-alcohol               |
+| 1 | Alqueno (C=C) o ciclo               | Aldehído o cetona (C=O)    | Ácido carboxílico o éster        |
+| 2 | Alquino (C&equiv;C), dieno, ciclo + doble | Enona, alquenol            | Diácido, diéster, ácido + doble  |
+
+Para $\mathrm{GI} \geq 3$ existen múltiples combinaciones de enlaces dobles, triples y ciclos.
+
+$\mathrm{GI} = 4$ suele indicar la presencia de **benceno** y sus derivados.
+
 ### Isomería constitucional
 
 Se debe a **diferencias** en la **estructura** de los **compuestos**, es decir, cambia cómo están unidos los átomos (tienen diferente conectividad). Dentro de este tipo, hay tres subtipos de isomería:
@@ -109,7 +119,7 @@ Se presenta en compuestos que difieren en el **esqueleto** de la **cadena carbon
 En la siguiente tabla puedes ver el número de isómeros que presentan los hidrocarburos lineales saturados:
 
 | nº C | Nombre | Isómeros |
-| :---: | :---: | :---: |
+| :---: | --- | :---: |
 | 1 | Metano | 1 |
 | 2 | Etano | 1 |
 | 3 | Propano | 1 |
