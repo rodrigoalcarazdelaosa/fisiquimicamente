@@ -88,15 +88,25 @@ $$
 
 donde $C$ es el número de átomos de carbono, $H$ es el número de átomos de hidrógeno, $X$ es el número de átomos de halógenos y $N$ es el número de átomos de nitrógeno.
 
+{{% callout note %}}
+La siguiente tabla es una **guía rápida** con casos frecuentes en 2.º Bach: **no es exhaustiva**.
+{{% /callout %}}
+
 | GI | Sin O (hidrocarburos)          | Con 1 O                    | Con 2 O                          |
 |:---:|-------------------------------|----------------------------|----------------------------------|
 | 0 | Alcano                        | Alcohol, éter              | Diol, éter-alcohol               |
 | 1 | Alqueno (C=C) o ciclo               | Aldehído o cetona (C=O)    | Ácido carboxílico o éster        |
-| 2 | Alquino (C&equiv;C), dieno, ciclo + doble | Enona, alquinol            | Dicetona, cetoaldehído, ácido + doble  |
+| 2 | Alquino (C&equiv;C), dieno, ciclo + doble, 2 ciclos | Enona, alquinol, aldehído/cetona + ciclo | Dialdehído, dicetona, cetoaldehído, ácido + doble |
 
 Para $\mathrm{GI} \geq 3$ existen múltiples combinaciones de enlaces dobles, triples y ciclos.
 
 $\mathrm{GI} = 4$ suele indicar la presencia de **benceno** y sus derivados.
+
+Para usar el GI sin perderse en todas las posibilidades:
+
+1. Calcula GI con la fórmula.
+2. Cuenta heteroátomos (O, N, X) para acotar familias funcionales.
+3. Úsalo como **cribado** y confirma con reactividad, nombre o datos experimentales.
 
 ### Isomería constitucional
 
@@ -303,6 +313,7 @@ Con el fin de facilitar la representación en el plano, se utilizan las **proyec
 {{< figure library="true" src="quimica-organica-2Bach-quimica/proyecciones-fischer.svg" lightbox="false" width="100%" theme="light" >}}
 
 ## Reactividad
+
 ### Reacciones de sustitución
 
 En este tipo de reacciones un átomo o grupo de átomos de una molécula es sustituido por otro átomo o grupo de átomos de otra molécula:
@@ -351,6 +362,14 @@ La [**hidrólisis**](https://es.wikipedia.org/wiki/Hidrólisis) de un haloalcano
 #### Transformación de un derivado halogenado en una amina secundaria (o terciaria)
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/halogeno-amina-secundaria.svg" lightbox="false" width="100%" theme="light" >}}
+
+#### Transformación de un derivado halogenado en un nitrilo
+
+El ion cianuro, CN<sup>–</sup>, puede sustituir al halógeno de un haloalcano, originando un **nitrilo**. Esta transformación es muy útil porque permite **aumentar en un carbono** la cadena carbonada:
+
+<div align="center">
+R–X + KCN &xrarr; R–C&equiv;N + KX
+</div>
 
 ### Reacciones de adición
 
@@ -416,6 +435,14 @@ La hidratación de un alquino da un *enol*[^6]. Es interesante que el producto r
 
 [^6]: Se dice que las formas *ceto* y *enol* individuales son [**tautómeros**](https://es.wikipedia.org/wiki/Tautómero), una palabra utilizada para describir dos isómeros constitucionales que rápidamente se interconvierten acompañados por el cambio de posición de un hidrógeno.
 
+{{% callout note %}}
+¿Cómo **predecir** el **producto mayoritario**?
+
+- En alquenos simétricos solo hay un producto.
+- En alquenos asimétricos, con HX o H<sub>2</sub>O/H<sup>+</sup>, se aplica la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov).
+{{% /callout %}}
+
+
 ### Reacciones de eliminación
 
 Una molécula pierde átomos en posiciones adyacentes y origina una molécula con un enlace doble o triple. Las reacciones de eliminación son las reacciones inversas a las de adición a un doble enlace.
@@ -446,6 +473,10 @@ Es la reacción inversa a la hidratación de alcoholes. Se produce en medio áci
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/deshidratacion-alcoholes.svg" lightbox="false" width="100%" theme="light" >}}
 
+{{% callout warning %}}
+Si pueden formarse varios alquenos, el producto mayoritario suele ser el que presenta el doble enlace más sustituido ([**regla de Záitsev**](https://es.wikipedia.org/wiki/Regla_de_Záitsev)).
+{{% /callout %}}
+
 #### Eliminación vs. sustitución
 
 Un mismo sustrato puede dar reacción de sustitución o una eliminación:
@@ -461,10 +492,14 @@ Un mismo sustrato puede dar reacción de sustitución o una eliminación:
 Que se dé una u otra depende de las características del **sustrato** y de las **condiciones de reacción**.
 
 Sustrato
-: Si el sustrato es un derivado halogenado primario se da favorablemente la sustitución. Si el sustrato es un derivado halogenado secundario o terciario se ve favorecida la eliminación.
+: - Si el sustrato es un derivado halogenado primario se da favorablemente la sustitución.
+  - Si el sustrato es un derivado halogenado secundario  puede dar sustitución o eliminación según condiciones.
+  - Si el sustrato es un halogenado terciario se ve favorecida la eliminación.
 
 Condiciones
-: Si el reactivo es una base fuerte (NaOH, NaOCH<sub>2</sub>CH<sub>3</sub>) y el disolvente es muy polar (H<sub>2</sub>O), se produce la sustitución. Si el reactivo es una base débil (H<sub>2</sub>O) y el disolvente es apolar se da la eliminación.
+: - Medio acuoso con OH<sup>–</sup>: suele favorecer sustitución.
+  - Medio alcohólico y calor: suele favorecer eliminación.
+  - Bases fuertes y/o voluminosas: favorecen eliminación.
 
 ### Reacciones de oxidación-reducción (rédox)
 
@@ -495,7 +530,7 @@ La oxidación tiene que darse lugar por pérdida de un hidrógeno unido al carbo
 La reacción de combustión de un compuesto orgánico en atmósfera rica en oxígeno da lugar a los óxidos de sus elementos. Si el compuesto es un hidrocarburo, oxigenado o no, los productos de la reacción son dióxido de carbono y agua, que son los óxidos del carbono y del hidrógeno:
 
 <div align="center">
-C<sub>3</sub>H<sub>8</sub>O + 9/2&thinsp;O<sub>2</sub> &xrarr; 3&thinsp;CO<sub>3</sub> + 4&thinsp;H<sub>2</sub>O
+C<sub>3</sub>H<sub>8</sub>O + 9/2&thinsp;O<sub>2</sub> &xrarr; 3&thinsp;CO<sub>2</sub> + 4&thinsp;H<sub>2</sub>O
 </div>
 
 Las reacciones de combustión son reacciones exotérmicas. Si el compuesto tiene otros elementos, como N o S, también habituales en química orgánica, se obtienen los óxidos de éstos.
@@ -521,6 +556,31 @@ La formación del éter compite con la eliminación de agua para dar el alqueno.
 El amoniaco, las aminas primarias y las aminas secundarias reaccionan con los ácidos carboxílicos para dar amidas. Es una reacción de condensación en la que se libera agua. Su inversa, la reacción de hidrólisis, permite obtener la amina y el ácido correspondiente:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/condensacion-amidas.svg" lightbox="false" width="100%" theme="light" >}}
+
+### Reacciones en compuestos aromáticos
+
+El anillo aromático (benceno y derivados) reacciona preferentemente mediante **sustitución**, no por adición.
+
+#### Reacciones típicas
+
+- Nitración: HNO<sub>3</sub> / H<sub>2</sub>SO<sub>4</sub> &rarr; nitrobenceno
+- Halogenación: Cl<sub>2</sub> / FeCl<sub>3</sub> &rarr; clorobenceno
+- Alquilación ([Friedel–Crafts](https://es.wikipedia.org/wiki/Reacción_de_Friedel-Crafts)): R–Cl / AlCl<sub>3</sub> &rarr; alquilbenceno
+
+{{% callout note %}}
+A este nivel basta con reconocer los **reactivos**, el **tipo de reacción** (sustitución) y el **producto principal**.
+{{% /callout %}}
+
+### Resumen operativo
+
+- Haloalcano + NaOH acuoso &rarr; **sustitución** &rarr; alcohol.
+- Haloalcano + KOH en etanol y calor &rarr; **eliminación** &rarr; alqueno.
+- Alqueno + HX &rarr; **adición** (en alquenos asimétricos, siguiendo la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov)).
+- Alqueno + H<sub>2</sub>O/H<sup>+</sup> &rarr; **hidratación**.
+- Alqueno o alquino + H<sub>2</sub>/Pt &rarr; **hidrogenación**.
+- Alcohol primario o secundario + [Ox] &rarr; **oxidación**.
+- Ácido carboxílico + alcohol &rarr; **esterificación**.
+- Éster + agua &rarr; **hidrólisis**.
 
 ## Polímeros
 
