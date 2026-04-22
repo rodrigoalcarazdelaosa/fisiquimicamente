@@ -25,4 +25,8 @@ links:
   icon:
   name: 📋 Actividad instrucciones
   url: actividad-instrucciones.pdf
+- icon_pack: fas
+  icon:
+  name: 💻 Proyecto final
+  url: proyecto-final.pdf
 ---
