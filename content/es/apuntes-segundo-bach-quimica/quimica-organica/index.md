@@ -371,6 +371,16 @@ El ion cianuro, CN<sup>–</sup>, puede sustituir al halógeno de un haloalcano,
 R–X + KCN &xrarr; R–C&equiv;N + KX
 </div>
 
+#### Transformación de un alcohol en un derivado halogenado
+
+Los alcoholes pueden transformarse en haloalcanos mediante reacción con haluros de hidrógeno (HX):
+
+<div align="center">
+R–OH + HX &xrarr; R–X + H<sub>2</sub>O
+</div>
+
+Esta reacción es un caso de sustitución en la que el grupo –OH es reemplazado por un halógeno.
+
 ### Reacciones de adición
 
 Una molécula incorpora a su estructura otra molécula. Ocurren con sustratos con dobles o triples enlaces originando un producto con un mayor grado de saturación.
@@ -479,7 +489,7 @@ Si pueden formarse varios alquenos, el producto mayoritario suele ser el que pre
 
 #### Eliminación vs. sustitución
 
-Un mismo sustrato puede dar reacción de sustitución o una eliminación:
+En muchos casos (especialmente haluros secundarios), un mismo sustrato puede dar reacción de sustitución o una eliminación:
 
 ##### Eliminación
 
@@ -503,13 +513,13 @@ Condiciones
 
 ### Reacciones de oxidación-reducción (rédox)
 
-En las **reacciones de oxidación**, el carbono que tiene unido un hidroxilo (–OH) se oxida. Esta oxidación tiene lugar por pérdida de un hidrógeno unido al C y del hidrógeno del grupo –OH, formándose un doble enlace C=O conocido como grupo carbonilo. Como sustancia oxidante [Ox] puede usarse dicromato de potasio K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> o permanganato de potasio KMnO<sub>4</sub> en medio ácido.
+En las **reacciones de oxidación**, el carbono que tiene unido un hidroxilo (–OH) se oxida. Esta oxidación tiene lugar por pérdida de un hidrógeno unido al C y del hidrógeno del grupo –OH, formándose un doble enlace C=O conocido como grupo carbonilo. Como sustancia oxidante [Ox] puede usarse el [PCC](https://es.wikipedia.org/wiki/Clorocromato_de_piridinio) (suave), el dicromato de potasio K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> o el permanganato de potasio KMnO<sub>4</sub> (fuertes).
 
 La reacción inversa a la oxidación es la **reducción**. Como sustancia reductora [Red] suele usarse tetrahidruro de aluminio-litio, LiAlH<sub>4</sub>.
 
 #### Alcoholes primarios
 
-Como en los **alcoholes primarios** el grupo –OH está unido a un carbono terminal, al oxidarse produce un carbonilo terminal dando lugar a un **aldehído**, –CHO. Si la oxidación continúa el aldehído se oxida a **ácido carboxílico**:
+Como en los **alcoholes primarios** el grupo –OH está unido a un carbono terminal, al oxidarse produce un carbonilo terminal dando lugar a un **aldehído**, –CHO. Si el oxidante es fuerte (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> o KMnO<sub>4</sub>) y la oxidación continúa, el aldehído se oxida a **ácido carboxílico**:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-primario.svg" lightbox="false" width="100%" theme="light" >}}
 

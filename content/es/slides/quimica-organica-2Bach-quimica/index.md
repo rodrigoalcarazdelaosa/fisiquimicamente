@@ -392,12 +392,12 @@ Con el fin de facilitar la representación en el plano, se utilizan las **proyec
 ## Reactividad
 
 - [Reacciones de sustitución](#/3/1)
-- [Reacciones de adición](#/3/11)
-- [Reacciones de eliminación](#/3/28)
-- [Reacciones de oxidación-reducción (rédox)](#/3/43)
-- [Reacciones de condensación e hidrólisis](#/3/52)
-- [Reacciones en compuestos aromáticos](#/3/58)
-- [Resumen operativo](#/3/61)
+- [Reacciones de adición](#/3/12)
+- [Reacciones de eliminación](#/3/29)
+- [Reacciones de oxidación-reducción (rédox)](#/3/44)
+- [Reacciones de condensación e hidrólisis](#/3/53)
+- [Reacciones en compuestos aromáticos](#/3/59)
+- [Resumen operativo](#/3/62)
 
 (continúa hacia abajo)
 
@@ -470,6 +470,18 @@ El ion cianuro, CN<sup>–</sup>, puede sustituir al halógeno de un haloalcano,
 <div align="center">
 R–X + KCN &xrarr; R–C&equiv;N + KX
 </div>
+
+---
+
+#### Transformación de un alcohol en un derivado halogenado
+
+Los alcoholes pueden transformarse en haloalcanos mediante reacción con haluros de hidrógeno (HX):
+
+<div align="center">
+R–OH + HX &xrarr; R–X + H<sub>2</sub>O
+</div>
+
+Esta reacción es un caso de sustitución en la que el grupo –OH es reemplazado por un halógeno.
 
 ---
 
@@ -636,7 +648,7 @@ La deshidratación (pérdida de una molécula de agua) produce, mayoritariamente
 
 #### Eliminación vs. sustitución
 
-Un mismo sustrato puede dar reacción de sustitución o una eliminación:
+En muchos casos (especialmente haluros secundarios), un mismo sustrato puede dar reacción de sustitución o una eliminación:
 
 ---
 
@@ -676,7 +688,7 @@ En las **reacciones de oxidación**, el carbono que tiene unido un hidroxilo (�
 
 ---
 
-Como sustancia oxidante [Ox] puede usarse dicromato de potasio K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> o permanganato de potasio KMnO<sub>4</sub> en medio ácido.
+Como sustancia oxidante [Ox] puede usarse el [PCC](https://es.wikipedia.org/wiki/Clorocromato_de_piridinio) (suave), el dicromato de potasio K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> o el permanganato de potasio KMnO<sub>4</sub> (fuertes).
 
 ---
 
@@ -686,7 +698,7 @@ La reacción inversa a la oxidación es la **reducción**. Como sustancia reduct
 
 #### Alcoholes primarios
 
-Como en los **alcoholes primarios** el grupo –OH está unido a un carbono terminal, al oxidarse produce un carbonilo terminal dando lugar a un **aldehído**, –CHO. Si la oxidación continúa el aldehído se oxida a **ácido carboxílico**:
+Como en los **alcoholes primarios** el grupo –OH está unido a un carbono terminal, al oxidarse produce un carbonilo terminal dando lugar a un **aldehído**, –CHO. Si el oxidante es fuerte (K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> o KMnO<sub>4</sub>) y la oxidación continúa, el aldehído se oxida a **ácido carboxílico**:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/alcohol-primario.svg" lightbox="false" width="100%" theme="light" >}}
 
@@ -728,9 +740,9 @@ Las reacciones de combustión son reacciones exotérmicas. Si el compuesto tiene
 
 ### Reacciones de condensación e hidrólisis
 
-- [Reacción de esterificación y saponificación](#/3/53)
-- [Reacción de condensación de alcoholes](#/3/55)
-- [Reacción de condensación para dar amidas](#/3/56)
+- [Reacción de esterificación y saponificación](#/3/54)
+- [Reacción de condensación de alcoholes](#/3/56)
+- [Reacción de condensación para dar amidas](#/3/57)
 
 (continúa hacia abajo)
 
