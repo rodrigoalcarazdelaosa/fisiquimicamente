@@ -20,5 +20,5 @@ links:
 - icon_pack: fas
   icon:
   name: 💻 Proyecto final
-  url: proyecto-final.pdf
+  url: proyecto-final-UT4.pdf
 ---
