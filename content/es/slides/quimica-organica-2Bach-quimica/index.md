@@ -571,7 +571,7 @@ La reacción sucede en el tratamiento del alqueno con agua y un catalizador áci
 
 Ya que los alquinos no reaccionan directamente con ácidos acuosos, uno de los métodos utilizados para la hidratación de alquinos utiliza ion mercurio(2+) como catalizador:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-propino.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 

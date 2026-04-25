@@ -439,7 +439,7 @@ La reacción sucede en el tratamiento del alqueno con agua y un catalizador áci
 
 Ya que los alquinos no reaccionan directamente con ácidos acuosos, uno de los métodos utilizados para la hidratación de alquinos utiliza ion mercurio(2+) como catalizador:
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-propino.svg" lightbox="false" width="100%" theme="light" >}}
 
 La hidratación de un alquino da un *enol*[^6]. Es interesante que el producto real que se aísla de la hidratación de un alquino no es el alcohol vinílico, o enol, sino que en su lugar es una cetona. Aunque el enol es un intermediario en la reacción, se rearregla inmediatamente a una cetona a través de un proceso llamado [**tautomería cetoenólica**](https://es.wikipedia.org/wiki/Tautómero#La_tautomería_ceto-enol). El equilibrio está muy desplazado a la derecha.
 
