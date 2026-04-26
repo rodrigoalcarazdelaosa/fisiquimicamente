@@ -66,11 +66,11 @@ donde $C$ es el número de átomos de carbono, $H$ es el número de átomos de h
 
 ---
 
-| GI | Sin O          | Con 1 O                    | Con 2 O                          |
-|:---:|-------------------------------|----------------------------|----------------------------------|
-| 0 | Alcano                        | Alcohol, éter              | Diol, éter-alcohol               |
-| 1 | Alqueno (C=C) o ciclo               | Aldehído o cetona (C=O)    | Ácido carboxílico o éster        |
-| 2 | Alquino (C&equiv;C), dieno, ciclo + doble, 2 ciclos | Enona, alquinol, aldehído/cetona + ciclo | Dialdehído, dicetona, cetoaldehído, ácido + doble |
+| GI  | Sin O                                               | Con 1 O                                  | Con 2 O                                           |
+| :-: | --------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- |
+|  0  | Alcano                                              | Alcohol, éter                            | Diol, éter-alcohol                                |
+|  1  | Alqueno (C=C) o ciclo                               | Aldehído o cetona (C=O)                  | Ácido carboxílico o éster                         |
+|  2  | Alquino (C&equiv;C), dieno, ciclo + doble, 2 ciclos | Enona, alquinol, aldehído/cetona + ciclo | Dialdehído, dicetona, cetoaldehído, ácido + doble |
 
 ---
 
@@ -111,22 +111,24 @@ Se presenta en compuestos que difieren en el **esqueleto** de la **cadena carbon
 ---
 
 ##### Butano
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butano.sdf" %}}
 
 ##### Metilpropano (isobutano)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/isobutano.mol" %}}
 
 ---
 
 En la siguiente tabla puedes ver el número de isómeros que presentan los hidrocarburos lineales saturados:
 
-| nº C | Nombre | Isómeros | nº C | Nombre | Isómeros |
-| :---: | --- | :---: | :---: | --- | :---: |
-| 1 | Metano | 1 | 6 | Hexano | 5 |
-| 2 | Etano | 1 | 7 | Heptano | 9 |
-| 3 | Propano | 1 | 8 | Octano | 18 |
-| 4 | Butano | 2 | 9 | Nonano | 35 |
-| 5 | Pentano | 3 | 10 | Decano | 75 |
+| nº C | Nombre  | Isómeros | nº C | Nombre  | Isómeros |
+| :--: | ------- | :------: | :--: | ------- | :------: |
+|  1   | Metano  |    1     |  6   | Hexano  |    5     |
+|  2   | Etano   |    1     |  7   | Heptano |    9     |
+|  3   | Propano |    1     |  8   | Octano  |    18    |
+|  4   | Butano  |    2     |  9   | Nonano  |    35    |
+|  5   | Pentano |    3     |  10  | Decano  |    75    |
 
 ---
 
@@ -139,17 +141,21 @@ Se presenta en compuestos que difieren en la **posición** de su **grupo funcion
 ---
 
 ##### But–2–eno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/but-2-eno.mol" %}}
 
 ##### But–1–eno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/but-1-eno.mol" %}}
 
 ---
 
 ##### Butan–2–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-2-ol.mol" %}}
 
 ##### Butan–1–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 
 ---
@@ -171,25 +177,31 @@ aunque existen otras muchas posibilidades.
 ---
 
 ##### Metil propil éter (metoxipropano)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/metoxipropano.mol" %}}
 
 ##### Butan–1–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 
 ---
 
 ##### Propanal
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/propanal.mol" %}}
 
 ##### Propanona (acetona)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acetona.sdf" %}}
 
 ---
 
 ##### Ácido propanoico
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-propanoico.mol" %}}
 
 ##### Etanoato/acetato de metilo
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acetato-metilo.mol" %}}
 
 ---
@@ -198,7 +210,7 @@ aunque existen otras muchas posibilidades.
 
 En este caso, la estructura de las sustancias es la misma (igual conectividad entre átomos) pero se **diferencian** en su **orientación espacial**.
 
-- [Isomería geométrica (*cis-trans*)](#/2/19)
+- [Isomería geométrica (_cis-trans_)](#/2/19)
 - [Isomería conformacional](#/2/34)
 - [Isomería óptica](#/2/41)
 
@@ -208,13 +220,13 @@ En este caso, la estructura de las sustancias es la misma (igual conectividad en
 
 ---
 
-#### Isomería geométrica (*cis-trans*)
+#### Isomería geométrica (_cis-trans_)
 
-La isomería *cis-trans* se presenta en algunos alquenos, debido a la incapacidad de rotación del doble enlace.
+La isomería _cis-trans_ se presenta en algunos alquenos, debido a la incapacidad de rotación del doble enlace.
 
 ---
 
-Para que un doble enlace presente isomería *cis-trans*, no puede haber sobre cualquiera de los dos carbonos del doble enlace dos sustituyentes iguales.
+Para que un doble enlace presente isomería _cis-trans_, no puede haber sobre cualquiera de los dos carbonos del doble enlace dos sustituyentes iguales.
 
 ---
 
@@ -222,21 +234,23 @@ Dos compuestos con este tipo de isomería geométrica son **diastereoisómeros**
 
 ---
 
-Los isómeros *cis* tienen ambos sustituyentes del doble enlace hacia un lado, los *trans* hacia lados opuestos:
+Los isómeros _cis_ tienen ambos sustituyentes del doble enlace hacia un lado, los _trans_ hacia lados opuestos:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/cis-trans.svg" lightbox="false" width="100%" >}}
 
 ---
 
-##### *cis*–1,2–dicloroeteno
+##### _cis_–1,2–dicloroeteno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/cis-12-dicloroeteno.mol" %}}
 
-##### *trans*–1,2–dicloroeteno
+##### _trans_–1,2–dicloroeteno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/trans-12-dicloroeteno.mol" %}}
 
 ---
 
-El 1,1–dicloroeteno no puede presentar isomería *cis-trans*:
+El 1,1–dicloroeteno no puede presentar isomería _cis-trans_:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroeteno.svg" lightbox="false" width="50%" >}}
 
@@ -254,10 +268,10 @@ Este tipo de isomería se da también en compuestos con un plano de simetría, d
 
 ##### Notación E-Z
 
-Cuando existen varios sustituyentes distintos, la nomenclatura *cis-trans* en alquenos puede resultar ambigua. En estos casos se adopta la nomenclatura E-Z. En alemán:
+Cuando existen varios sustituyentes distintos, la nomenclatura _cis-trans_ en alquenos puede resultar ambigua. En estos casos se adopta la nomenclatura E-Z. En alemán:
 
-- E de *entgegen* (separados).
-- Z de *zusammen* (juntos).
+- E de _entgegen_ (separados).
+- Z de _zusammen_ (juntos).
 
 ---
 
@@ -272,23 +286,27 @@ El isómero Z será el que tenga los dos sustituyentes de mayor jerarquía del m
 ---
 
 ###### (Z)–1–bromo–1–cloro–2–metilbut–1–eno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/Z-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
 
 ###### (E)–1–bromo–1–cloro–2–metilbut–1–eno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/E-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
 
 ---
 
-Un ejemplo de lo diferentes que pueden llegar a ser dos isómeros *cis-trans* lo tenemos con los **ácidos [fumárico](https://es.wikipedia.org/wiki/Ácido_fumárico)** y **[maleico](https://es.wikipedia.org/wiki/Ácido_cis-butenodioico)**:
+Un ejemplo de lo diferentes que pueden llegar a ser dos isómeros _cis-trans_ lo tenemos con los **ácidos [fumárico](https://es.wikipedia.org/wiki/Ácido_fumárico)** y **[maleico](https://es.wikipedia.org/wiki/Ácido_cis-butenodioico)**:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/fumarico-maleico.svg" lightbox="false" width="100%" >}}
 
 ---
 
 ##### Ácido fumárico
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-fumarico.mol" %}}
 
 ##### Ácido maleico
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-maleico.mol" %}}
 
 ---
@@ -307,11 +325,11 @@ Los alquenos con dobles enlaces conjugados pueden adoptar dos diferentes conform
 
 ---
 
-Sería incorrecto referirnos a las dos posibilidades como *cis* y *trans* ya que son **conformaciones** (¡dinámico!) y no configuraciones (estático).
+Sería incorrecto referirnos a las dos posibilidades como _cis_ y _trans_ ya que son **conformaciones** (¡dinámico!) y no configuraciones (estático).
 
 ---
 
-Es decir, la molécula puede rotar en torno al enlace sencillo e interconvertirse de una conformación a otra, cosa que no puede ocurrir con los isómeros *cis* y *trans* debido a la rigidez del doble enlace o del ciclo.
+Es decir, la molécula puede rotar en torno al enlace sencillo e interconvertirse de una conformación a otra, cosa que no puede ocurrir con los isómeros _cis_ y _trans_ debido a la rigidez del doble enlace o del ciclo.
 
 ---
 
@@ -355,7 +373,7 @@ Los enantiómeros tienen propiedades físicas idénticas, diferenciándose únic
 
 ---
 
-Si el plano de la luz polarizada se desvía a la derecha son sustancias *dextrógiras* y si se desvía a la izquierda, *levógiras*:
+Si el plano de la luz polarizada se desvía a la derecha son sustancias _dextrógiras_ y si se desvía a la izquierda, _levógiras_:
 
 {{< figure library="false" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif" lightbox="true" >}}
 
@@ -368,9 +386,11 @@ Si el plano de la luz polarizada se desvía a la derecha son sustancias *dextró
 ---
 
 ##### <span style="font-variant:small-caps">d</span>-Alanina
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/D-alanina.mol" %}}
 
 ##### <span style="font-variant:small-caps">l</span>-Alanina
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/L-alanina.mol" %}}
 
 ---
@@ -549,7 +569,7 @@ El haluro de hidrógeno HX se añade al enlace múltiple siguiendo la [**regla d
 
 ##### Hidrohalogenación de un alquino
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-propino.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 
@@ -575,9 +595,9 @@ Ya que los alquinos no reaccionan directamente con ácidos acuosos, uno de los m
 
 ---
 
-La hidratación de un alquino da un *enol*.
+La hidratación de un alquino da un _enol_.
 
-> Se dice que las formas *ceto* y *enol* individuales son [**tautómeros**](https://es.wikipedia.org/wiki/Tautómero), una palabra utilizada para describir dos isómeros constitucionales que rápidamente se interconvierten acompañados por el cambio de posición de un hidrógeno.
+> Se dice que las formas _ceto_ y _enol_ individuales son [**tautómeros**](https://es.wikipedia.org/wiki/Tautómero), una palabra utilizada para describir dos isómeros constitucionales que rápidamente se interconvierten acompañados por el cambio de posición de un hidrógeno.
 
 ---
 
@@ -670,15 +690,17 @@ Que se dé una u otra depende de las características del **sustrato** y de las 
 
 Sustrato
 : - Si el sustrato es un derivado halogenado primario se da favorablemente la sustitución.
-  - Si el sustrato es un derivado halogenado secundario puede dar sustitución o eliminación según condiciones.
-  - Si el sustrato es un halogenado terciario se ve favorecida la eliminación.
+
+- Si el sustrato es un derivado halogenado secundario puede dar sustitución o eliminación según condiciones.
+- Si el sustrato es un halogenado terciario se ve favorecida la eliminación.
 
 ---
 
 Condiciones
 : - Medio acuoso con OH<sup>–</sup>: suele favorecer sustitución.
-  - Medio alcohólico y calor: suele favorecer eliminación.
-  - Bases fuertes y/o voluminosas: favorecen eliminación.
+
+- Medio alcohólico y calor: suele favorecer eliminación.
+- Bases fuertes y/o voluminosas: favorecen eliminación.
 
 ---
 
@@ -823,7 +845,7 @@ Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados
 
 ---
 
-> En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
+> En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los **plásticos básicos** o de **consumo** ([**_commodity plastics_**](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
 
 ---
 
@@ -866,16 +888,19 @@ Se obtienen a partir de la formación de largas cadenas de monómeros que se une
 ---
 
 ##### Iniciación
+
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-iniciacion.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 
 ##### Crecimiento
+
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-crecimiento.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 
 ##### Terminación
+
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-terminacion.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---

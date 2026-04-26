@@ -3,22 +3,22 @@ title: Química orgánica
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/quimica-organica"
 subtitle: Isomería, reactividad y polímeros
 summary: "Isomería, reactividad y polímeros."
-breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
+breadcrumbs: ["recursos-fisica-quimica", "apuntes", "2bach", "quimica"]
 authors:
-- alba-lopez-valenzuela
-- rodrigo-alcaraz-de-la-osa
-- angela-alcaraz-de-la-osa
-- leticia-cabezas
+  - alba-lopez-valenzuela
+  - rodrigo-alcaraz-de-la-osa
+  - angela-alcaraz-de-la-osa
+  - leticia-cabezas
 tags:
-- apuntes
-- 2º Bach
-- orgánica
-- reacciones-químicas
-- rédox
-- isomería
-- polímeros
+  - apuntes
+  - 2º Bach
+  - orgánica
+  - reacciones-químicas
+  - rédox
+  - isomería
+  - polímeros
 categories:
-- Química
+  - Química
 weight: 9
 
 # Optional external URL for project (replaces project detail page).
@@ -29,26 +29,26 @@ image:
   focal_point: Smart
 
 links:
-- icon_pack: fas
-  icon:
-  name: 📜 Póster isomería y reactividad
-  url: quimica-organica-poster.pdf
-- icon_pack: fas
-  icon:
-  name: 📜 Póster polímeros
-  url: https://fisiquimicamente.com/blog/2022/12/01/tipos-de-plasticos/tipos-plasticos-poster.pdf
-- icon_pack: fas
-  icon:
-  name: ✏️ Ejercicios
-  url: quimica-organica-ejercicios.pdf
-- icon_pack: fas
-  icon:
-  name: 📝 Frikiexámenes
-  url: redox-quimica-organica-frikiexamenes.pdf
-- icon_pack: fas
-  icon:
-  name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/quimica-organica/
+  - icon_pack: fas
+    icon:
+    name: 📜 Póster isomería y reactividad
+    url: quimica-organica-poster.pdf
+  - icon_pack: fas
+    icon:
+    name: 📜 Póster polímeros
+    url: https://fisiquimicamente.com/blog/2022/12/01/tipos-de-plasticos/tipos-plasticos-poster.pdf
+  - icon_pack: fas
+    icon:
+    name: ✏️ Ejercicios
+    url: quimica-organica-ejercicios.pdf
+  - icon_pack: fas
+    icon:
+    name: 📝 Frikiexámenes
+    url: redox-quimica-organica-frikiexamenes.pdf
+  - icon_pack: fas
+    icon:
+    name: 🎓 Ejercicios EBAU
+    url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/quimica/por-temas/quimica-organica/
 
 slides: quimica-organica-2Bach-quimica
 
@@ -92,11 +92,11 @@ donde $C$ es el número de átomos de carbono, $H$ es el número de átomos de h
 La siguiente tabla es una **guía rápida** con casos frecuentes en 2.º Bach: **no es exhaustiva**.
 {{% /callout %}}
 
-| GI | Sin O (hidrocarburos)          | Con 1 O                    | Con 2 O                          |
-|:---:|-------------------------------|----------------------------|----------------------------------|
-| 0 | Alcano                        | Alcohol, éter              | Diol, éter-alcohol               |
-| 1 | Alqueno (C=C) o ciclo               | Aldehído o cetona (C=O)    | Ácido carboxílico o éster        |
-| 2 | Alquino (C&equiv;C), dieno, ciclo + doble, 2 ciclos | Enona, alquinol, aldehído/cetona + ciclo | Dialdehído, dicetona, cetoaldehído, ácido + doble |
+| GI  | Sin O (hidrocarburos)                               | Con 1 O                                  | Con 2 O                                           |
+| :-: | --------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- |
+|  0  | Alcano                                              | Alcohol, éter                            | Diol, éter-alcohol                                |
+|  1  | Alqueno (C=C) o ciclo                               | Aldehído o cetona (C=O)                  | Ácido carboxílico o éster                         |
+|  2  | Alquino (C&equiv;C), dieno, ciclo + doble, 2 ciclos | Enona, alquinol, aldehído/cetona + ciclo | Dialdehído, dicetona, cetoaldehído, ácido + doble |
 
 Para $\mathrm{GI} \geq 3$ existen múltiples combinaciones de enlaces dobles, triples y ciclos.
 
@@ -119,27 +119,30 @@ Se presenta en compuestos que difieren en el **esqueleto** de la **cadena carbon
 {{< figure library="true" src="quimica-organica-2Bach-quimica/isomeros-cadena.svg" lightbox="false" width="100%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
+
 ##### Butano
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butano.sdf" %}}
 
 ##### Metilpropano (isobutano)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/isobutano.mol" %}}
 {{< /spoiler >}}
 
 En la siguiente tabla puedes ver el número de isómeros que presentan los hidrocarburos lineales saturados:
 
-| nº C | Nombre | Isómeros |
-| :---: | --- | :---: |
-| 1 | Metano | 1 |
-| 2 | Etano | 1 |
-| 3 | Propano | 1 |
-| 4 | Butano | 2 |
-| 5 | Pentano | 3 |
-| 6 | Hexano | 5 |
-| 7 | Heptano | 9 |
-| 8 | Octano | 18 |
-| 9 | Nonano | 35 |
-| 10 | Decano | 75 |
+| nº C | Nombre  | Isómeros |
+| :--: | ------- | :------: |
+|  1   | Metano  |    1     |
+|  2   | Etano   |    1     |
+|  3   | Propano |    1     |
+|  4   | Butano  |    2     |
+|  5   | Pentano |    3     |
+|  6   | Hexano  |    5     |
+|  7   | Heptano |    9     |
+|  8   | Octano  |    18    |
+|  9   | Nonano  |    35    |
+|  10  | Decano  |    75    |
 
 #### Isomería de posición
 
@@ -148,16 +151,21 @@ Se presenta en compuestos que difieren en la **posición** de su **grupo funcion
 {{< figure library="true" src="quimica-organica-2Bach-quimica/isomeros-posicion.svg" lightbox="false" width="100%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
+
 ##### But–2–eno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/but-2-eno.mol" %}}
 
 ##### But–1–eno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/but-1-eno.mol" %}}
 
 ##### Butan–2–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-2-ol.mol" %}}
 
 ##### Butan–1–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 {{< /spoiler >}}
 
@@ -174,22 +182,29 @@ aunque existen otras muchas posibilidades.
 {{< figure library="true" src="quimica-organica-2Bach-quimica/isomeros-funcion.svg" lightbox="false" width="100%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
+
 ##### Metil propil éter (metoxipropano)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/metoxipropano.mol" %}}
 
 ##### Butan–1–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 
 ##### Propanal
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/propanal.mol" %}}
 
 ##### Propanona (acetona)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acetona.sdf" %}}
 
 ##### Ácido propanoico
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-propanoico.mol" %}}
 
 ##### Etanoato/acetato de metilo
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acetato-metilo.mol" %}}
 {{< /spoiler >}}
 
@@ -197,23 +212,26 @@ aunque existen otras muchas posibilidades.
 
 En este caso, la estructura de las sustancias es la misma (igual conectividad entre átomos) pero se **diferencian** en su **orientación espacial**.
 
-#### Isomería geométrica (*cis-trans*)
+#### Isomería geométrica (_cis-trans_)
 
-La isomería *cis-trans* se presenta en algunos alquenos, debido a la incapacidad de rotación del doble enlace. Para que un doble enlace presente isomería *cis-trans*, no puede haber sobre cualquiera de los dos carbonos del doble enlace dos sustituyentes iguales. Dos compuestos con este tipo de isomería geométrica son **diastereoisómeros**, siendo sus propiedades físicas diferentes.
+La isomería _cis-trans_ se presenta en algunos alquenos, debido a la incapacidad de rotación del doble enlace. Para que un doble enlace presente isomería _cis-trans_, no puede haber sobre cualquiera de los dos carbonos del doble enlace dos sustituyentes iguales. Dos compuestos con este tipo de isomería geométrica son **diastereoisómeros**, siendo sus propiedades físicas diferentes.
 
-Los isómeros *cis* tienen ambos sustituyentes del doble enlace hacia un lado, los *trans* hacia lados opuestos:
+Los isómeros _cis_ tienen ambos sustituyentes del doble enlace hacia un lado, los _trans_ hacia lados opuestos:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/cis-trans.svg" lightbox="false" width="100%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
-##### *cis*–1,2–dicloroeteno
+
+##### _cis_–1,2–dicloroeteno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/cis-12-dicloroeteno.mol" %}}
 
-##### *trans*–1,2–dicloroeteno
+##### _trans_–1,2–dicloroeteno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/trans-12-dicloroeteno.mol" %}}
 {{< /spoiler >}}
 
-El 1,1–dicloroeteno no puede presentar isomería *cis-trans*:
+El 1,1–dicloroeteno no puede presentar isomería _cis-trans_:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroeteno.svg" lightbox="false" width="50%" theme="light" >}}
 
@@ -227,32 +245,38 @@ Este tipo de isomería se da también en compuestos con un plano de simetría, d
 
 ##### Notación E-Z
 
-Cuando existen varios sustituyentes distintos, la nomenclatura *cis-trans* en alquenos puede resultar ambigua. En estos casos se adopta la nomenclatura E-Z. En alemán:
+Cuando existen varios sustituyentes distintos, la nomenclatura _cis-trans_ en alquenos puede resultar ambigua. En estos casos se adopta la nomenclatura E-Z. En alemán:
 
-- E de *entgegen* (separados).
-- Z de *zusammen* (juntos).
+- E de _entgegen_ (separados).
+- Z de _zusammen_ (juntos).
 
 En cada carbono del doble enlace, el sustituyente de mayor número atómico tiene mayor jerarquía. En caso de empate, se sigue el mismo criterio con los átomos unidos a ellos, hasta desempatar. El isómero Z será el que tenga los dos sustituyentes de mayor jerarquía del mismo lado del doble enlace y el isómero E será el que los tenga a distinto lado:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/E-Z.svg" lightbox="false" width="100%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
+
 ###### (Z)–1–bromo–1–cloro–2–metilbut–1–eno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/Z-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
 
 ###### (E)–1–bromo–1–cloro–2–metilbut–1–eno
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/E-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
 {{< /spoiler >}}
 
-Un ejemplo de lo diferentes que pueden llegar a ser dos isómeros *cis-trans* lo tenemos con los **ácidos [fumárico](https://es.wikipedia.org/wiki/Ácido_fumárico)** y **[maleico](https://es.wikipedia.org/wiki/Ácido_cis-butenodioico)**:
+Un ejemplo de lo diferentes que pueden llegar a ser dos isómeros _cis-trans_ lo tenemos con los **ácidos [fumárico](https://es.wikipedia.org/wiki/Ácido_fumárico)** y **[maleico](https://es.wikipedia.org/wiki/Ácido_cis-butenodioico)**:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/fumarico-maleico.svg" lightbox="false" width="100%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
+
 ##### Ácido fumárico
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-fumarico.mol" %}}
 
 ##### Ácido maleico
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-maleico.mol" %}}
 {{< /spoiler >}}
 
@@ -264,7 +288,7 @@ Siendo el primero fundamental en varias rutas del metabolismo celular, destacand
 La [**isomería conformacional**](https://es.wikipedia.org/wiki/Isomería_conformacional) no es materia de bachillerato ni de EBAU.
 {{% /callout %}}
 
-Los alquenos con dobles enlaces conjugados pueden adoptar dos diferentes conformaciones. Por ejemplo, en el **buta–1,3–dieno** los dobles enlaces pueden estar hacia el mismo lado del enlace simple o en lados opuestos. Sería incorrecto referirnos a las dos posibilidades como *cis* y *trans* ya que son **conformaciones** (¡dinámico!) y no configuraciones (estático). Es decir, la molécula puede rotar en torno al enlace sencillo e interconvertirse de una conformación a otra, cosa que no puede ocurrir con los isómeros *cis* y *trans* debido a la rigidez del doble enlace o del ciclo.
+Los alquenos con dobles enlaces conjugados pueden adoptar dos diferentes conformaciones. Por ejemplo, en el **buta–1,3–dieno** los dobles enlaces pueden estar hacia el mismo lado del enlace simple o en lados opuestos. Sería incorrecto referirnos a las dos posibilidades como _cis_ y _trans_ ya que son **conformaciones** (¡dinámico!) y no configuraciones (estático). Es decir, la molécula puede rotar en torno al enlace sencillo e interconvertirse de una conformación a otra, cosa que no puede ocurrir con los isómeros _cis_ y _trans_ debido a la rigidez del doble enlace o del ciclo.
 
 Estos [**confórmeros**](https://es.wikipedia.org/wiki/Isomería_conformacional) se nombran con el prefijo "s" (de "sigma", o de "simple" si prefieres).
 
@@ -284,9 +308,9 @@ La isomería óptica se presenta cuando un compuesto no es superponible con su i
 Cuidado porque puede ocurrir que un compuesto tenga dos centros quirales y que no presente isomería óptica.
 {{% /callout %}}
 
-Este es el tipo de esteroisomería que presentan moléculas esenciales para la vida, como los [aminoácidos](https://es.wikipedia.org/wiki/Aminoácido) y los [monosacáridos](https://es.wikipedia.org/wiki/Monosacárido). Los enantiómeros tienen propiedades físicas idénticas[^3], diferenciándose únicamente en su comportamiento frente a la luz polarizada, pues la desvían de manera distinta. Si el plano de la luz polarizada se desvía a la derecha son sustancias *dextrógiras* y si se desvía a la izquierda, *levógiras*:
+Este es el tipo de esteroisomería que presentan moléculas esenciales para la vida, como los [aminoácidos](https://es.wikipedia.org/wiki/Aminoácido) y los [monosacáridos](https://es.wikipedia.org/wiki/Monosacárido). Los enantiómeros tienen propiedades físicas idénticas[^3], diferenciándose únicamente en su comportamiento frente a la luz polarizada, pues la desvían de manera distinta. Si el plano de la luz polarizada se desvía a la derecha son sustancias _dextrógiras_ y si se desvía a la izquierda, _levógiras_:
 
-[^3]: Lo cual no significa que su reactividad sea igual. Especialmente sonada fue la llamada [***catástrofe** de la **talidomida***](https://www.medigraphic.com/pdfs/cutanea/mc-2018/mc183r.pdf).
+[^3]: Lo cual no significa que su reactividad sea igual. Especialmente sonada fue la llamada [**\*catástrofe** de la **talidomida\***](https://www.medigraphic.com/pdfs/cutanea/mc-2018/mc183r.pdf).
 
 {{< spoiler text="Pincha aquí para ver **animaciones** de **ondas electromagnéticas circularmente polarizadas**" >}}
 {{< figure library="false" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif" title="Una onda circularmene polarizada hacia la derecha desde el punto de vista del observador. Fuente: https://commons.wikimedia.org/wiki/File:Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif." lightbox="true" >}}
@@ -297,10 +321,13 @@ Este es el tipo de esteroisomería que presentan moléculas esenciales para la v
 {{< figure library="true" src="quimica-organica-2Bach-quimica/alanina.svg" lightbox="false" width="100%" theme="light" >}}
 
 {{< spoiler text="Pincha aquí para **interactuar** con estas **moléculas** en **3D**" >}}
+
 ##### <span style="font-variant:small-caps">d</span>-Alanina
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/D-alanina.mol" %}}
 
 ##### <span style="font-variant:small-caps">l</span>-Alanina
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/L-alanina.mol" %}}
 {{< /spoiler >}}
 
@@ -324,14 +351,15 @@ En este tipo de reacciones un átomo o grupo de átomos de una molécula es sust
 
 Los alcanos experimentan reacciones de sustitución [**radicalarias**](https://es.wikipedia.org/wiki/Reacción_radicalaria)[^5]. Así, se puede conseguir la sustitución de un enlace –C–H por un enlace –C–X por medio de una radiación luminosa.
 
-[^5]: Las reacciones radicalarias son las responsables de la formación y destrucción de la capa de ozono. La formación ocurre a través de la reacción en cadena siguiente:
-  {{< figure library="true" src="quimica-organica-2Bach-quimica/formacion-ozono.svg" lightbox="false" width="100%" theme="dark" >}}
-  Reacción global:
-  {{< figure library="true" src="quimica-organica-2Bach-quimica/formacion-ozono-global.svg" lightbox="false" width="100%" theme="dark" >}}
-  La destrucción de ozono (O<sub>3</sub>) ocurre a través de una reacción en cadena que necesita un catalizador X:
-  {{< figure library="true" src="quimica-organica-2Bach-quimica/destruccion-ozono.svg" lightbox="false" width="100%" theme="dark" >}}
-  Reacción global:
-  {{< figure library="true" src="quimica-organica-2Bach-quimica/destruccion-ozono-global.svg" lightbox="false" width="100%" theme="dark" >}}
+[^5]:
+    Las reacciones radicalarias son las responsables de la formación y destrucción de la capa de ozono. La formación ocurre a través de la reacción en cadena siguiente:
+    {{< figure library="true" src="quimica-organica-2Bach-quimica/formacion-ozono.svg" lightbox="false" width="100%" theme="dark" >}}
+    Reacción global:
+    {{< figure library="true" src="quimica-organica-2Bach-quimica/formacion-ozono-global.svg" lightbox="false" width="100%" theme="dark" >}}
+    La destrucción de ozono (O<sub>3</sub>) ocurre a través de una reacción en cadena que necesita un catalizador X:
+    {{< figure library="true" src="quimica-organica-2Bach-quimica/destruccion-ozono.svg" lightbox="false" width="100%" theme="dark" >}}
+    Reacción global:
+    {{< figure library="true" src="quimica-organica-2Bach-quimica/destruccion-ozono-global.svg" lightbox="false" width="100%" theme="dark" >}}
 
 Se llama **sustitución fotoquímica** y es una reacción en la que la luz rompe la molécula de halógeno X<sub>2</sub> (F<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> o I<sub>2</sub>) dando una reacción en cadena con fórmula general:
 
@@ -423,7 +451,7 @@ El haluro de hidrógeno HX se añade al enlace múltiple siguiendo la [**regla d
 
 ##### Hidrohalogenación de un alquino
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-etino.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-propino.svg" lightbox="false" width="100%" theme="light" >}}
 
 #### Hidratación de alquenos
 
@@ -441,17 +469,16 @@ Ya que los alquinos no reaccionan directamente con ácidos acuosos, uno de los m
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/hidratacion-propino.svg" lightbox="false" width="100%" theme="light" >}}
 
-La hidratación de un alquino da un *enol*[^6]. Es interesante que el producto real que se aísla de la hidratación de un alquino no es el alcohol vinílico, o enol, sino que en su lugar es una cetona. Aunque el enol es un intermediario en la reacción, se rearregla inmediatamente a una cetona a través de un proceso llamado [**tautomería cetoenólica**](https://es.wikipedia.org/wiki/Tautómero#La_tautomería_ceto-enol). El equilibrio está muy desplazado a la derecha.
+La hidratación de un alquino da un _enol_[^6]. Es interesante que el producto real que se aísla de la hidratación de un alquino no es el alcohol vinílico, o enol, sino que en su lugar es una cetona. Aunque el enol es un intermediario en la reacción, se rearregla inmediatamente a una cetona a través de un proceso llamado [**tautomería cetoenólica**](https://es.wikipedia.org/wiki/Tautómero#La_tautomería_ceto-enol). El equilibrio está muy desplazado a la derecha.
 
-[^6]: Se dice que las formas *ceto* y *enol* individuales son [**tautómeros**](https://es.wikipedia.org/wiki/Tautómero), una palabra utilizada para describir dos isómeros constitucionales que rápidamente se interconvierten acompañados por el cambio de posición de un hidrógeno.
+[^6]: Se dice que las formas _ceto_ y _enol_ individuales son [**tautómeros**](https://es.wikipedia.org/wiki/Tautómero), una palabra utilizada para describir dos isómeros constitucionales que rápidamente se interconvierten acompañados por el cambio de posición de un hidrógeno.
 
 {{% callout note %}}
 ¿Cómo **predecir** el **producto mayoritario**?
 
 - En alquenos simétricos solo hay un producto.
 - En alquenos asimétricos, con HX o H<sub>2</sub>O/H<sup>+</sup>, se aplica la [**regla de Markovnikov**](https://es.wikipedia.org/wiki/Regla_de_Markovnikov).
-{{% /callout %}}
-
+  {{% /callout %}}
 
 ### Reacciones de eliminación
 
@@ -503,13 +530,15 @@ Que se dé una u otra depende de las características del **sustrato** y de las 
 
 Sustrato
 : - Si el sustrato es un derivado halogenado primario se da favorablemente la sustitución.
-  - Si el sustrato es un derivado halogenado secundario  puede dar sustitución o eliminación según condiciones.
-  - Si el sustrato es un halogenado terciario se ve favorecida la eliminación.
+
+- Si el sustrato es un derivado halogenado secundario puede dar sustitución o eliminación según condiciones.
+- Si el sustrato es un halogenado terciario se ve favorecida la eliminación.
 
 Condiciones
 : - Medio acuoso con OH<sup>–</sup>: suele favorecer sustitución.
-  - Medio alcohólico y calor: suele favorecer eliminación.
-  - Bases fuertes y/o voluminosas: favorecen eliminación.
+
+- Medio alcohólico y calor: suele favorecer eliminación.
+- Bases fuertes y/o voluminosas: favorecen eliminación.
 
 ### Reacciones de oxidación-reducción (rédox)
 
@@ -597,7 +626,7 @@ A este nivel basta con reconocer los **reactivos**, el **tipo de reacción** (su
 Los [**polímeros**](https://es.wikipedia.org/wiki/Polímero) (también llamados macromoléculas) son moléculas muy grandes formadas a partir de la repetición de unidades más pequeñas llamadas [**monómeros**](https://es.wikipedia.org/wiki/Monómero).
 
 {{% callout note %}}
-En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los **plásticos básicos** o de **consumo** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
+En [esta **entrada** del **blog**]({{< relref "/post/tipos-plasticos" >}}) analizamos las principales **propiedades** y **usos** de los **plásticos básicos** o de **consumo** ([**_commodity plastics_**](https://en.wikipedia.org/wiki/Commodity_plastics) en inglés).
 
 Aprende a **nombrar polímeros** con [esta **guía breve** de la **IUPAC**](https://iupac.org/wp-content/uploads/2022/02/Brief-Guide-to-Polymer-Nomenclature_Espanol-20220214.pdf).
 {{% /callout %}}
