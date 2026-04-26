@@ -13,7 +13,7 @@ slides:
   reveal_options:
     hash: true
 
-threedmol: true    
+threedmol: true
 ---
 
 <section data-background-image="/media/logo-diapositivas.svg, qrcode.svg" data-background-size="10%" data-background-position="3.629% 5%, 96.371% 5%">
@@ -72,22 +72,24 @@ Es presenta en compostos que difereixen en l'**esquelet** de la **cadena carbona
 ---
 
 ##### Butà
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butano.sdf" %}}
 
 ##### Metilpropà (isobutà)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/isobutano.mol" %}}
 
 ---
 
 A la següent taula pots veure el nombre d'isòmers que presenten els hidrocarburs lineals saturats:
 
-| núm. C | Nom | Isòmers | núm. C | Nom | Isòmers |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Metà | 1 | 6 | Hexà | 5 |
-| 2 | Età | 1 | 7 | Heptà | 9 |
-| 3 | Propà | 1 | 8 | Octà | 18 |
-| 4 | Butà | 2 | 9 | Nonà | 35 |
-| 5 | Pentà | 3 | 10 | Decà | 75 |
+| núm. C |  Nom  | Isòmers | núm. C |  Nom  | Isòmers |
+| :----: | :---: | :-----: | :----: | :---: | :-----: |
+|   1    | Metà  |    1    |   6    | Hexà  |    5    |
+|   2    |  Età  |    1    |   7    | Heptà |    9    |
+|   3    | Propà |    1    |   8    | Octà  |   18    |
+|   4    | Butà  |    2    |   9    | Nonà  |   35    |
+|   5    | Pentà |    3    |   10   | Decà  |   75    |
 
 ---
 
@@ -100,17 +102,21 @@ Es presenta en compostos que difereixen en la **posició** del seu **grup funcio
 ---
 
 ##### But–2–è
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/but-2-eno.mol" %}}
 
 ##### But–1–è
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/but-1-eno.mol" %}}
 
 ---
 
 ##### Butan–2–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-2-ol.mol" %}}
 
 ##### Butan–1–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 
 ---
@@ -118,10 +124,10 @@ Es presenta en compostos que difereixen en la **posició** del seu **grup funcio
 #### Isomeria de funció
 
 Es presenta en compostos que tenen **grups funcionals diferents**. Solen ser isòmers de funció entre si:
-				
+
 - alcohols-èters,
 - aldehids-cetones,
-- i àcids carboxílics-èsters,	
+- i àcids carboxílics-èsters,
 
 encara que existeixen moltes altres possibilitats.
 
@@ -132,25 +138,31 @@ encara que existeixen moltes altres possibilitats.
 ---
 
 ##### Metil propil èter (metoxipropà)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/metoxipropano.mol" %}}
 
 ##### Butan–1–ol
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/butan-1-ol.mol" %}}
 
 ---
 
 ##### Propanal
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/propanal.mol" %}}
 
 ##### Propanona (acetona)
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acetona.sdf" %}}
 
 ---
 
 ##### Àcid propanoic
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-propanoico.mol" %}}
 
 ##### Etanoat/acetat de metil
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acetato-metilo.mol" %}}
 
 ---
@@ -159,7 +171,7 @@ encara que existeixen moltes altres possibilitats.
 
 En aquest cas, l'estructura de les substàncies és la mateixa (igual connectivitat entre àtoms) però es **diferencien** en la seva **orientació espacial**.
 
-- [Isomeria geomètrica (*cis-trans*)](#/2/14)
+- [Isomeria geomètrica (_cis-trans_)](#/2/14)
 - [Isomeria conformacional](#/2/29)
 - [Isomeria òptica](#/2/36)
 
@@ -169,13 +181,13 @@ En aquest cas, l'estructura de les substàncies és la mateixa (igual connectivi
 
 ---
 
-#### Isomería geométrica (*cis-trans*)
+#### Isomería geométrica (_cis-trans_)
 
-La isomeria *cis-trans* es presenta en alguns alquens, a causa de la incapacitat de rotació del doble enllaç.
+La isomeria _cis-trans_ es presenta en alguns alquens, a causa de la incapacitat de rotació del doble enllaç.
 
 ---
 
-Perquè un doble enllaç present isomeria *cis-trans*, no pot haver-hi sobre qualsevol dels dos carbonis del doble enllaç dos substituents iguals.
+Perquè un doble enllaç present isomeria _cis-trans_, no pot haver-hi sobre qualsevol dels dos carbonis del doble enllaç dos substituents iguals.
 
 ---
 
@@ -183,21 +195,23 @@ Dos compostos amb aquesta mena d'isomeria geomètrica són **diastereoisòmers**
 
 ---
 
-Els isòmers *cis* tenen tots dos substituents del doble enllaç cap a un costat, els *trans* cap a costats oposats:
+Els isòmers _cis_ tenen tots dos substituents del doble enllaç cap a un costat, els _trans_ cap a costats oposats:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/cis-trans-cat.svg" lightbox="false" width="100%" >}}
 
 ---
 
-##### *cis*–1,2–dicloroetè
+##### _cis_–1,2–dicloroetè
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/cis-12-dicloroeteno.mol" %}}
 
-##### *trans*–1,2–dicloroetè
+##### _trans_–1,2–dicloroetè
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/trans-12-dicloroeteno.mol" %}}
 
 ---
 
- L'1,1–dicloroetè no pot presentar isomeria *cis-trans*:
+L'1,1–dicloroetè no pot presentar isomeria _cis-trans_:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/11-dicloroete.svg" lightbox="false" width="50%" >}}
 
@@ -215,10 +229,10 @@ Aquest tipus d'isomeria es dona també en compostos amb un pla de simetria, a ca
 
 ##### Notació E-Z
 
-Quan existeixen diversos substituents diferents, la nomenclatura *cis-trans* en alquens pot resultar ambigua. En aquests casos s'adopta la nomenclatura E-Z. En alemany:
+Quan existeixen diversos substituents diferents, la nomenclatura _cis-trans_ en alquens pot resultar ambigua. En aquests casos s'adopta la nomenclatura E-Z. En alemany:
 
-- E de *entgegen* (separats).
-- Z de *zusammen* (junts).
+- E de _entgegen_ (separats).
+- Z de _zusammen_ (junts).
 
 ---
 
@@ -233,23 +247,27 @@ L'isòmer Z serà el que tingui els dos substituents de major jerarquia del mate
 ---
 
 ###### (Z)–1–bromo–1–cloro–2–metilbut–1–è
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/Z-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
 
 ###### (E)–1–bromo–1–cloro–2–metilbut–1–è
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/E-1-bromo-1-cloro-2-metilbut-1-eno.mol" %}}
 
 ---
 
-Un exemple del diferents que poden arribar a ser dos isòmers *cis-trans* ho tenim amb els **àcids [fumàric](https://es.wikipedia.org/wiki/Ácido_fumárico)** i **[maleic](https://es.wikipedia.org/wiki/Ácido_cis-butenodioico)**:
+Un exemple del diferents que poden arribar a ser dos isòmers _cis-trans_ ho tenim amb els **àcids [fumàric](https://es.wikipedia.org/wiki/Ácido_fumárico)** i **[maleic](https://es.wikipedia.org/wiki/Ácido_cis-butenodioico)**:
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/fumaric-maleic.svg" lightbox="false" width="100%" >}}
 
 ---
 
 ##### Àcid fumàric
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-fumarico.mol" %}}
 
 ##### Àcid maleic
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/acido-maleico.mol" %}}
 
 ---
@@ -268,14 +286,14 @@ Els alquens amb dobles enllaços conjugats poden adoptar dues diferents conforma
 
 ---
 
-Seria incorrecte referir-nos a les dues possibilitats com *cis* i *trans* ja que són **conformacions** (dinàmic!) i no configuracions (estàtic).
+Seria incorrecte referir-nos a les dues possibilitats com _cis_ i _trans_ ja que són **conformacions** (dinàmic!) i no configuracions (estàtic).
 
 ---
 
-És a dir, la molècula pot girar entorn de l'enllaç senzill i interconvertir-se d'una conformació a una altra, cosa que no pot ocórrer amb els isòmers *cis* i *trans* a causa de la rigidesa del doble enllaç o del cicle.
+És a dir, la molècula pot girar entorn de l'enllaç senzill i interconvertir-se d'una conformació a una altra, cosa que no pot ocórrer amb els isòmers _cis_ i _trans_ a causa de la rigidesa del doble enllaç o del cicle.
 
 ---
-            
+
 Aquests [**confòrmers**](https://es.wikipedia.org/wiki/Isomería_conformacional) s'anomenen amb el prefix "s" (de "sigma", o de "simple" si preferiu).
 
 {{< figure library="true" src="quimica-organica-2Bach-quimica/conformers.svg" lightbox="false" width="100%" >}}
@@ -316,7 +334,7 @@ Els enantiòmers tenen propietats físiques idèntiques, diferenciant-se únicam
 
 ---
 
-Si el pla de la llum polaritzada es desvia a la dreta són substàncies *dextrògires* i si es desvia a l'esquerra, *levògires*:
+Si el pla de la llum polaritzada es desvia a la dreta són substàncies _dextrògires_ i si es desvia a l'esquerra, _levògires_:
 
 {{< figure library="false" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Circular.Polarization.Circularly.Polarized.Light_Right.Handed.Animation.305x190.255Colors.gif" lightbox="true" >}}
 
@@ -329,9 +347,11 @@ Si el pla de la llum polaritzada es desvia a la dreta són substàncies *dextrò
 ---
 
 ##### <span style="font-variant:small-caps">d</span>-Alanina
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/D-alanina.mol" %}}
 
 ##### <span style="font-variant:small-caps">l</span>-Alanina
+
 {{% 3Dmol data_href="/media/quimica-organica-2Bach/L-alanina.mol" %}}
 
 ---
@@ -430,7 +450,7 @@ Una molècula incorpora a la seva estructura una altra molècula. Ocorren amb su
 
 #### Hidrogenació catalítica d'alquens
 
-Es realitza amb hidrogen molecular en presència d'un catalitzador, normalment platí. És un procés exotèrmic. 
+Es realitza amb hidrogen molecular en presència d'un catalitzador, normalment platí. És un procés exotèrmic.
 
 ---
 
@@ -482,7 +502,7 @@ L'halur d'hidrogen HX s'afegeix a l'enllaç múltiple:
 
 ##### Hidrohalogenació d'un alquí
 
-{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-etino-cat.svg" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="quimica-organica-2Bach-quimica/hidrohalogenacion-propino-cat.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 
@@ -518,7 +538,7 @@ Una molècula perd àtoms en posicions adjacents i origina una molècula amb un 
 
 ---
 
-####  Deshidrohalogenació d'halurs d'alquil
+#### Deshidrohalogenació d'halurs d'alquil
 
 És la reacció inversa a la hidrohalogenació, es produeix en presència de KOH i alcohol en la qual s'elimina KX i H<sub>2</sub>O, originant un doble enllaç.
 
@@ -552,7 +572,7 @@ La deshidratació (pèrdua d'una molècula d'aigua) produeix, majoritàriament, 
 
 ### Reaccions de oxidació-reducció (redox)
 
-A les **reaccions d'oxidació**, el carboni que té unit un hidroxil (–OH) s'oxida. Aquesta oxidació té lloc per pèrdua d'un hidrogen unit al C i de l'hidrogen del grup –OH, formant-se un doble enllaç C=O conegut com a grup carbonil. 
+A les **reaccions d'oxidació**, el carboni que té unit un hidroxil (–OH) s'oxida. Aquesta oxidació té lloc per pèrdua d'un hidrogen unit al C i de l'hidrogen del grup –OH, formant-se un doble enllaç C=O conegut com a grup carbonil.
 
 ---
 
@@ -601,7 +621,7 @@ C<sub>3</sub>H<sub>8</sub>O + 9/2&thinsp;O<sub>2</sub> &xrarr; 3&thinsp;CO<sub>3
 </div>
 
 ---
- 
+
 Les reaccions de combustió són reaccions exotèrmiques. Si el compost té altres elements, com a N o S, també habituals en química orgànica, s'obtenen els òxids d'aquests.
 
 ---
@@ -660,7 +680,7 @@ Els [**polímers**](https://es.wikipedia.org/wiki/Polímero) (també anomenats m
 
 ---
 
-> A [aquesta **entrada** del **blog**](https://fisiquimicamente.com/blog/2022/12/01/tipos-de-plasticos/) (en espanyol) analitzem les principals **propietats** i **usos** dels sis **plàstics bàsics** o de **consum** ([***commodity plastics***](https://en.wikipedia.org/wiki/Commodity_plastics) en anglès).
+> A [aquesta **entrada** del **blog**](https://fisiquimicamente.com/blog/2022/12/01/tipos-de-plasticos/) (en espanyol) analitzem les principals **propietats** i **usos** dels sis **plàstics bàsics** o de **consum** ([**_commodity plastics_**](https://en.wikipedia.org/wiki/Commodity_plastics) en anglès).
 
 ---
 
@@ -674,7 +694,7 @@ Existeixen polímers **naturals** com els polisacàrids, les proteïnes o el cau
 
 ---
 
-Respecte al comportament a temperatures elevades, els polímers es classifiquen com a termoplàstics o termoestables.  
+Respecte al comportament a temperatures elevades, els polímers es classifiquen com a termoplàstics o termoestables.
 
 ---
 
@@ -703,16 +723,19 @@ S'obtenen a partir de la formació de llargues cadenes de monòmers que s'uneixe
 ---
 
 ##### Iniciació
+
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-iniciacion.svg" lightbox="false" width="100%" theme="light" >}}
 
----  
+---
 
 ##### Creixement
+
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-crecimiento.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
 
 ##### Terminació
+
 {{< figure library="true" src="quimica-organica-2Bach-quimica/polimeros-global.svg" lightbox="false" width="100%" theme="light" >}}
 
 ---
