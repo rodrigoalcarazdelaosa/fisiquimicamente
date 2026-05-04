@@ -3,21 +3,21 @@ title: Campo magnético
 url: "/recursos-fisica-quimica/apuntes/2bach/fisica/campo-magnetico"
 subtitle: Ley de Biot y Savart, ley de Ampère, ley de Lorentz y ley de Laplace
 summary: "Ley de Biot y Savart, ley de Ampère, ley de Lorentz y ley de Laplace."
-breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","fisica"]
+breadcrumbs: ["recursos-fisica-quimica", "apuntes", "2bach", "fisica"]
 authors:
-- marta-rada-arias
-- rodrigo-alcaraz-de-la-osa
-- alba-lopez-valenzuela
-- leticia-cabezas
+  - marta-rada-arias
+  - rodrigo-alcaraz-de-la-osa
+  - alba-lopez-valenzuela
+  - leticia-cabezas
 tags:
-- apuntes
-- 2º Bach
-- electromagnetismo
-- fuerzas
-- energía
-- movimiento
+  - apuntes
+  - 2º Bach
+  - electromagnetismo
+  - fuerzas
+  - energía
+  - movimiento
 categories:
-- Física
+  - Física
 weight: 3
 
 # Optional external URL for project (replaces project detail page).
@@ -28,43 +28,42 @@ image:
   focal_point: Smart
 
 links:
-- icon_pack: fas
-  icon:
-  name: 📜 Póster
-  url: campo-magnetico-poster.pdf
-- icon_pack: fas
-  icon:
-  name: 📋 Formulario
-  url: campo-magnetico-formulario.pdf
-- icon_pack: fas
-  icon:
-  name: ✏️ Ejercicios
-  url: campo-magnetico-ejercicios.pdf
-- icon_pack: fas
-  icon:
-  name: 🔗 Más ejercicios
-  url: https://drive.google.com/file/d/1jgF2JtIDGkwyYLClBewpQ79JsNewmWnm/view
-- icon_pack: fas
-  icon:
-  name: 📝 Frikiexamen
-  url: campo-magnetico-frikiexamen.pdf
-- icon_pack: fas
-  icon:
-  name: 🎓 Ejercicios EBAU
-  url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-electromagnetica/
+  - icon_pack: fas
+    icon:
+    name: 📜 Póster
+    url: campo-magnetico-poster.pdf
+  - icon_pack: fas
+    icon:
+    name: 📋 Formulario
+    url: campo-magnetico-formulario.pdf
+  - icon_pack: fas
+    icon:
+    name: ✏️ Ejercicios
+    url: campo-magnetico-ejercicios.pdf
+  - icon_pack: fas
+    icon:
+    name: 🔗 Más ejercicios
+    url: https://drive.google.com/file/d/1jgF2JtIDGkwyYLClBewpQ79JsNewmWnm/view
+  - icon_pack: fas
+    icon:
+    name: 📝 Frikiexamen
+    url: campo-magnetico-frikiexamen.pdf
+  - icon_pack: fas
+    icon:
+    name: 🎓 Ejercicios EBAU
+    url: https://fisiquimicamente.com/recursos-fisica-quimica/ebau/fisica/por-temas/interaccion-electromagnetica/
 
 slides: campo-magnetico-2Bach-fisica
 
 math: true
-
 ---
 
 {{% toc %}}
 
-El [**campo magnético**](https://es.wikipedia.org/wiki/Campo_magnético) es una **perturbación** en el **espacio** producida por la **presencia** de [**corrientes eléctricas**](https://es.wikipedia.org/wiki/Corriente_eléctrica). Se trata de una [**magnitud vectorial**](https://es.wikipedia.org/wiki/Vector) definida en cada punto del espacio perturbado. Se denota por $\vec B$ y su **unidad** en el **SI** es el [**tesla** (T)](https://es.wikipedia.org/wiki/Tesla_(unidad)), equivalente a V&thinsp;s/m^2^.
+El [**campo magnético**](https://es.wikipedia.org/wiki/Campo_magnético) es una **perturbación** en el **espacio** producida por la **presencia** de [**corrientes eléctricas**](https://es.wikipedia.org/wiki/Corriente_eléctrica). Se trata de una [**magnitud vectorial**](https://es.wikipedia.org/wiki/Vector) definida en cada punto del espacio perturbado. Se denota por $\vec B$ y su **unidad** en el **SI** es el [**tesla** (T)](<https://es.wikipedia.org/wiki/Tesla_(unidad)>), equivalente a V&thinsp;s/m^2^.
 
 {{% callout note %}}
-El tesla es una unidad muy *grande*, por lo que en ocasiones se utiliza también el [gauss (G)](https://es.wikipedia.org/wiki/Gauss_(unidad)), cuya equivalencia es: 1&thinsp;T = 10^4^&thinsp;G.
+El tesla es una unidad muy _grande_, por lo que en ocasiones se utiliza también el [gauss (G)](<https://es.wikipedia.org/wiki/Gauss_(unidad)>), cuya equivalencia es: 1&thinsp;T = 10^4^&thinsp;G.
 {{% /callout %}}
 
 ## Introducción
@@ -76,6 +75,7 @@ Los [imanes](https://es.wikipedia.org/wiki/Imán) naturales eran ya conocidos en
 Durante mucho tiempo, el estudio del magnetismo se limitó a estudiar estos imanes naturales.
 
 ### Pierre de Maricourt
+
 En 1269, [**Pierre de Maricourt**](https://es.wikipedia.org/wiki/Peter_Peregrinus_de_Maricourt) observó que todos los imanes, independientemente de su forma, poseían dos polos (N y S) en los que la fuerza ejercida por el imán presentaba su máxima intensidad. Descubrió además que al aproximar polos iguales se repelían. Por el contrario, si se aproximaban polos opuestos se atraían. Observó también que los polos nunca se encuentran aislados.
 
 {{< figure library="true" src="campo-magnetico-2Bach-fisica/monopolo.svg" title="Si se parte un imán en dos trozos, se obtienen dos nuevos imanes, ambos con sus dos polos N y S (constituye una diferencia esencial con las cargas eléctricas). Fuente: https://commons.wikimedia.org/wiki/File:Repeated-cutting-a-magnet.svg." lightbox="false" width="100%" >}}
@@ -124,7 +124,7 @@ Pocos años después, [**Faraday**](https://es.wikipedia.org/wiki/Michael_Farada
 
 {{< figure library="true" src="fuerzas-2ESO/experimento-Faraday.svg" title="**Experiencia de Faraday-Henry**. Adaptada de https://www.chegg.com/learn/topic/faradays-experiment." lightbox="false" width="100%" >}}
 
-Puedes aprender más *jugando* con esta **simulación**:
+Puedes aprender más _jugando_ con esta **simulación**:
 
 <iframe src="https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_es.html" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 
@@ -219,22 +219,24 @@ Consideremos **dos casos**, siguiendo la notación de [esta figura](#figure-acci
 
 **1. Corrientes circulan en el mismo sentido**<br>Dado que, en la región entre los dos hilos, los campos creados por cada hilo tienen sentidos opuestos, existe un punto en el que el campo magnético total se anula. Tomando $y=0$ la posición del hilo 1 (el hilo 2 estaría situado en $y=d$):
 
-  {{< math >}}
-  \begin{aligned}
-  \vec B_\mathrm t = \vec B_1 + \vec B_2 &= \frac{\mu I_1}{2\pi y}\hat{\mathrm k}-\frac{\mu I_2}{2\pi \left(d-y\right)}\hat{\mathrm k} = \vec 0 \\
-  &\Updownarrow \\
-  B_1 &= B_2 \\
-  \frac{\mu I_1}{2\pi y} &= \frac{\mu I_2}{2\pi \left(d-y\right)} \rightarrow y = \frac{I_1}{I_1+I_2}d
-  \end{aligned}
-  {{< /math >}}
+{{< math >}}
+\begin{aligned}
+\vec B\_\mathrm t = \vec B_1 + \vec B_2 &= \frac{\mu I_1}{2\pi y}\hat{\mathrm k}-\frac{\mu I_2}{2\pi \left(d-y\right)}\hat{\mathrm k} = \vec 0 \\
+&\Updownarrow \\
+B_1 &= B_2 \\
+\frac{\mu I_1}{2\pi y} &= \frac{\mu I_2}{2\pi \left(d-y\right)} \rightarrow y = \frac{I_1}{I_1+I_2}d
+\end{aligned}
+{{< /math >}}
 
-  Si $I_1=I_2$, entonces el punto donde el campo magnético total se anula está en el medio de ambos hilos ($y=d/2$).
+Si $I_1=I_2$, entonces el punto donde el campo magnético total se anula está en el medio de ambos hilos ($y=d/2$).
 
-  **2. Corrientes circulan en sentidos opuestos**<br>Puede demostrarse que, en el caso de que las corrientes circulen en sentidos opuestos, el punto donde el campo magnético se anula está fuera del espacio entre los hilos, hacia el exterior del hilo con la corriente menor ($I_2$ en este caso), a una distancia:
-  $$
-  y = \frac{I_1}{I_1-I_2}d,\quad\text{con }I_1>I_2
-  $$
-  Si $I_1=I_2$, las distancias adicionales hacen que no haya un punto donde los campos se cancelen exactamente debido a la geometría y la distancia involucrada.
+**2. Corrientes circulan en sentidos opuestos**<br>Puede demostrarse que, en el caso de que las corrientes circulen en sentidos opuestos, el punto donde el campo magnético se anula está fuera del espacio entre los hilos, hacia el exterior del hilo con la corriente menor ($I_2$ en este caso), a una distancia:
+
+$$
+y = \frac{I_1}{I_1-I_2}d,\quad\text{con }I_1>I_2
+$$
+
+Si $I_1=I_2$, las distancias adicionales hacen que no haya un punto donde los campos se cancelen exactamente debido a la geometría y la distancia involucrada.
 
 {{< /spoiler >}}
 
@@ -256,18 +258,22 @@ $$
 Por geometría, si se consideran $\mathrm d B_y$ generados por todos los elementos de corriente de la espira, estos se cancelan. Así, solo quedan componentes $\mathrm d B_z$:
 
 {{< math >}}
+
 $$
 \begin{aligned}
 \mathrm d B_z & = \mathrm d B\cos\phi = \frac{\mu}{4\pi}\frac{I\mathrm d \ell \sin\theta}{z^2+R^2}\frac{R}{\sqrt{z^2+R^2}} = \frac{\mu IR}{4\pi}\frac{\mathrm d \ell}{\left(z^2+R^2\right)^{3/2}} \\
 B_z           & = \int \mathrm d B_z = \frac{\mu I}{4\pi}\frac{R}{\left(z^2+R^2\right)^{3/2}}\int\mathrm d \ell = \frac{\mu I R^2}{2\left(z^2+R^2\right)^{3/2}}
 \end{aligned}
 $$
+
 {{< /math >}}
 
 {{< math >}}
+
 $$
 B_z(z=0) = \frac{\mu I}{2R}\quad\text{(campo en el centro de la espira)}
 $$
+
 {{< /math >}}
 
 {{< figure library="true" src="campo-magnetico-2Bach-fisica/norte-sur.svg" title="Dirección ($\perp$ al plano de la espira) y sentido (regla de la mano derecha) de $\vec B$. Las espiras se comportan como imanes, con su cara norte y su cara sur. Adaptada de https://tikz.net/magnetic_field_wire/." lightbox="false" width="100%" theme="light" >}}
@@ -280,20 +286,24 @@ $$
 
 ## Campo magnético generado por agrupaciones de corrientes: ley de Ampère
 
-Para calcular el campo generado por una agrupación de corrientes se emplea la [**ley de Ampère**](https://es.wikipedia.org/wiki/Ley_de_Ampère). Antes de enunciar esta ley resulta necesario definir la [**circulación**](https://es.wikipedia.org/wiki/Circulación_(aerodinámica)) de un campo vectorial $\vec A$:
+Para calcular el campo generado por una agrupación de corrientes se emplea la [**ley de Ampère**](https://es.wikipedia.org/wiki/Ley_de_Ampère). Antes de enunciar esta ley resulta necesario definir la [**circulación**](<https://es.wikipedia.org/wiki/Circulación_(aerodinámica)>) de un campo vectorial $\vec A$:
 
 {{< math >}}
+
 $$
 \oint \vec A\cdot \mathrm d \vec \ell,\quad \text{con $\mathrm d \vec \ell$ tangente a la línea cerrada en cada punto}
 $$
+
 {{< /math >}}
 
 En los [campos conservativos](https://es.wikipedia.org/wiki/Campo_vectorial_conservativo), como $\vec g$ o $\vec E$, esta circulación se hace cero puesto que existe un potencial:
 
 {{< math >}}
+
 $$
 \oint \vec E\cdot \mathrm d \vec \ell = -\oint \frac{\mathrm d V}{\mathrm d\vec \ell}\cdot \mathrm d \vec \ell = - \oint \mathrm d V = 0\quad\text{($V_\mathrm i = V_\mathrm f\rightarrow \mathrm d V = 0$)}
 $$
+
 {{< /math >}}
 
 Pero el **campo magnético** es **no conservativo**:
@@ -305,9 +315,10 @@ Pero el **campo magnético** es **no conservativo**:
 La **ley de Ampère** generaliza este resultado para cualquier agrupación de corrientes:
 
 > La circulación de $\vec B$ a lo largo de una línea cerrada es la suma de las intensidades que atraviesan la superficie determinada por dicha línea, multiplicada por la permeabilidad magnética:
-  $$
-  \oint \vec B\cdot \mathrm d \vec \ell = \mu \sum_i I_i
-  $$
+
+$$
+\oint \vec B\cdot \mathrm d \vec \ell = \mu \sum_i I_i
+$$
 
 ### Campo creado en el interior de un solenoide
 
@@ -316,12 +327,14 @@ Un [**solenoide**](https://es.wikipedia.org/wiki/Solenoide) o bobina está forma
 {{< figure library="true" src="campo-magnetico-2Bach-fisica/solenoide.svg" title="Adaptada de https://tikz.net/magnetic_field_solenoid/." lightbox="false" width="100%" >}}
 
 {{< math >}}
+
 $$
 \begin{multline*}
 						\oint \vec B\cdot \mathrm d \vec \ell  = \oint_1 \vec B\cdot \mathrm d \vec \ell + \cancelto{0\ \left(\vec B\perp\mathrm d \vec \ell\right)}{\oint_2 \vec B\cdot \mathrm d \vec \ell} \\
 						+ \cancelto{0\ \left(\vec B_\mathrm{ext}=0\right)}{\oint_3 \vec B\cdot \mathrm d \vec \ell} + \cancelto{0\ \left(\vec B\perp\mathrm d \vec \ell\right)}{\oint_4 \vec B\cdot \mathrm d \vec \ell} = \oint_1 B\mathrm d \ell = BL
 \end{multline*}
 $$
+
 {{< /math >}}
 
 Según la ley de Ampère:
@@ -329,10 +342,12 @@ Según la ley de Ampère:
 $$
 BL = \mu NI \rightarrow B = \mu NI/L = \mu nI,
 $$
+
 con $n = N/L$ el número de espiras por unidad de longitud. Así, el campo magnético generado por un solenoide en su interior[^2]:
 
-[^2]: Esto solo es válido en su centro.
-  {{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/0d/VFPt_Solenoid_correct2.svg" title="https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg" lightbox="false" width="100%" theme="dark" >}}
+[^2]:
+    Esto solo es válido en su centro.
+    {{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/0d/VFPt_Solenoid_correct2.svg" title="https://commons.wikimedia.org/wiki/File:VFPt_Solenoid_correct2.svg" lightbox="false" width="100%" theme="dark" >}}
 
 - Es **uniforme** y su módulo $B = \mu nI$.
 - Dirección la del eje del solenoide.
@@ -466,20 +481,22 @@ El [**ciclotrón**](https://es.wikipedia.org/wiki/Ciclotrón) es un dispositivo 
 
 El ciclotrón está formado por dos recipientes metálicos en forma de "D", dentro de una cámara de vacío y en el interior de un campo magnético uniforme.
 
-{{< figure library="true" src="campo-magnetico-2Bach-fisica/ciclotron.svg" title="Las partículas cargadas se inyectan en \"D\" con una velocidad baja *v*<sub>0</sub>. Debido a *B*, describen una semicircunferencia y llegan al espacio entre las dos \"des\", donde se aceleran debido a *E* y alcanzan la otra \"D\" con una velocidad mayor. En la otra \"D\" describen de nuevo una semicircunferencia de mayor radio (pues llevan mayor velocidad) y alcanzan el espacio entre las dos \"des\", donde se aceleran de nuevo (*E* es alterno con $T/2$ del ciclotrón) y así sucesivamente. Fuente: https://commons.wikimedia.org/wiki/File:Zyclotron.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="campo-magnetico-2Bach-fisica/ciclotron.svg" title="Las partículas cargadas se inyectan en \"D\" con una velocidad baja *v*<sub>0</sub>. Debido a *B*, describen una semicircunferencia y llegan al espacio entre las dos \"des\", donde se aceleran debido a *E* y alcanzan la otra \"D\" con una velocidad mayor. En la otra \"D\" describen de nuevo una semicircunferencia de mayor radio (pues llevan mayor velocidad) y alcanzan el espacio entre las dos \"des\", donde se aceleran de nuevo y así sucesivamente. Fuente: https://commons.wikimedia.org/wiki/File:Zyclotron.svg." lightbox="false" width="100%" >}}
 
-Entre las dos "des" se aplica una diferencia de potencial $\symup\Delta V$ que da lugar a un campo eléctrico en el espacio que las separa. Esta $\symup\Delta V$ se alterna con un periodo $T'$ que coincide con la mitad del periodo del ciclotrón:
+Entre las dos "des" se aplica una diferencia de potencial $\symup\Delta V$ que da lugar a un campo eléctrico en el espacio que las separa. Esta $\symup\Delta V$ se alterna cada media vuelta, de forma que el periodo de la señal alterna, $T'$, coincide con el periodo del ciclotrón, $T$:
 
 $$
-T' = \frac{T}{2} = \frac{\pi m}{qB}
+T' = T = \frac{\pi m}{qB}
 $$
 
 Cuando emergen del ciclotrón, las partículas han alcanzado $v_\mathrm{máx} = qBR_\mathrm{ciclotrón}/m \gg v_0$ y por tanto una energía cinética mucho mayor, dada por:
 
 {{< math >}}
+
 $$
 E_\mathrm c = \frac{1}{2}mv_\mathrm{máx}^2 = \frac{1}{2}m\left(\frac{qBR_\mathrm{ciclotrón}}{m}\right)^2 = \frac{q^2B^2R_\mathrm{ciclotrón}^2}{2m},
 $$
+
 {{< /math >}}
 
 donde $R_\mathrm{ciclotrón}$ es el radio del ciclotrón (radio de la última semicircunferencia descrita en el ciclotrón).
@@ -542,9 +559,11 @@ $$
 $I_1$ se ve sometida a una fuerza $\vec F_{21}$:
 
 {{< math >}}
+
 $$
 \vec F_{21} = I_1\vec L\times\vec B_2 = \frac{\mu I_1 I_2 L}{2\pi d}\hat{\jmath} = - \vec F_{12}\quad\text{(ACCIÓN-REACCIÓN)}
 $$
+
 {{< /math >}}
 
 Las **corrientes se atraen**[^3] con una fuerza por unidad de longitud (N/m):
@@ -558,6 +577,7 @@ $$
 que es mayor cuanto mayores son $I_1$ e $I_2$ y cuanto menor es la distancia $d$ que las separa.
 
 ##### Definición de amperio
+
 Antes de la [redefinición de 2019]({{< relref "post/actualizacion-unidades-SI" >}}), el [**amperio**](https://es.wikipedia.org/wiki/Amperio) se definía a partir de la situación que acabamos de describir:
 
 > Un amperio es la intensidad de una corriente constante que, manteniéndose en dos conductores paralelos, rectilíneos, de longitud infinita, de sección circular despreciable y situados a una distancia de un metro uno del otro, en el vacío, produciría entre esos conductores una fuerza igual a $2\times 10^{-7}\,\mathrm{N/m}$.
