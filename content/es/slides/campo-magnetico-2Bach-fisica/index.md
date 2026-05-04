@@ -700,7 +700,7 @@ Entre las dos "des" se aplica una diferencia de potencial $\symup\Delta V$ que d
 Esta $\symup\Delta V$ se alterna cada media vuelta, de forma que el periodo de la señal alterna, $T'$, coincide con el periodo del ciclotrón, $T$:
 
 $$
-T' = T = \frac{\pi m}{qB}
+T' = T = \frac{2\pi m}{qB}
 $$
 
 ---

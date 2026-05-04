@@ -486,7 +486,7 @@ El ciclotrón está formado por dos recipientes metálicos en forma de "D", dent
 Entre las dos "des" se aplica una diferencia de potencial $\symup\Delta V$ que da lugar a un campo eléctrico en el espacio que las separa. Esta $\symup\Delta V$ se alterna cada media vuelta, de forma que el periodo de la señal alterna, $T'$, coincide con el periodo del ciclotrón, $T$:
 
 $$
-T' = T = \frac{\pi m}{qB}
+T' = T = \frac{2\pi m}{qB}
 $$
 
 Cuando emergen del ciclotrón, las partículas han alcanzado $v_\mathrm{máx} = qBR_\mathrm{ciclotrón}/m \gg v_0$ y por tanto una energía cinética mucho mayor, dada por:
