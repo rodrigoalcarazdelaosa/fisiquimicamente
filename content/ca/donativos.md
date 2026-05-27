@@ -1,15 +1,15 @@
 ---
 title: "☕️ Donatius"
 slug: donatius
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
-editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+reading_time: false # Show estimated reading time?
+share: false # Show social sharing links?
+profile: false # Show author profile?
+commentable: false # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 breadcrumbs: [""]
 ---
 
-**FisiQuímicament** funciona **sense anuncis**. Si vols reconèixer el nostre esforç, animant-nos a seguir preparant materials de qualitat, pots **convidar-nos a un *cafè*** fent click aquí[^1]:
+**FisiQuímicament** funciona **sense anuncis**. Si vols reconèixer el nostre esforç, animant-nos a seguir preparant materials de qualitat, pots **convidar-nos a un _cafè_** fent click aquí[^1]:
 
 [^1]: Utilitzant el servei <img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> **Paypal**.
 
@@ -21,5 +21,5 @@ breadcrumbs: [""]
 </div>
 
 <div class="progress" style="height: 2rem; font-size: 1.5rem">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">10&thinsp;% GRÀCIES!</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100" style="width: 17%">17&thinsp;% GRÀCIES!</div>
 </div>

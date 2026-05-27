@@ -1,14 +1,14 @@
 ---
 title: "☕️ Donativos"
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
-editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+reading_time: false # Show estimated reading time?
+share: false # Show social sharing links?
+profile: false # Show author profile?
+commentable: false # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 breadcrumbs: [""]
 ---
 
-**FisiQuímicamente** funciona **sin anuncios**. Si deseas reconocer nuestro esfuerzo, animándonos a seguir preparando materiales de calidad, puedes **invitarnos a un *café*** haciendo click aquí[^1]:
+**FisiQuímicamente** funciona **sin anuncios**. Si deseas reconocer nuestro esfuerzo, animándonos a seguir preparando materiales de calidad, puedes **invitarnos a un _café_** haciendo click aquí[^1]:
 
 [^1]: Utilizando el servicio <img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> **Paypal**.
 
@@ -20,5 +20,5 @@ breadcrumbs: [""]
 </div>
 
 <div class="progress" style="height: 2rem; font-size: 1.5rem">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">10&thinsp;% ¡GRACIAS!</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100" style="width: 17%">17&thinsp;% ¡GRACIAS!</div>
 </div>

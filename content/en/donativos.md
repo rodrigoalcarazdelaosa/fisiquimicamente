@@ -1,15 +1,15 @@
 ---
 title: "☕️ Donations"
 slug: donations
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
-editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
+reading_time: false # Show estimated reading time?
+share: false # Show social sharing links?
+profile: false # Show author profile?
+commentable: false # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
+editable: false # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 breadcrumbs: [""]
 ---
 
-**PhysiChemically** runs **ad-free**. If you wish to acknowledge our effort, encouraging us to continue preparing quality materials, you can **buy us a *coffee*** by clicking here[^1]:
+**PhysiChemically** runs **ad-free**. If you wish to acknowledge our effort, encouraging us to continue preparing quality materials, you can **buy us a _coffee_** by clicking here[^1]:
 
 [^1]: Using the <img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> **Paypal** service.
 
@@ -21,5 +21,5 @@ breadcrumbs: [""]
 </div>
 
 <div class="progress" style="height: 2rem; font-size: 1.5rem">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100" style="width: 10%">10&thinsp;% THANK YOU!</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100" style="width: 17%">17&thinsp;% THANK YOU!</div>
 </div>
