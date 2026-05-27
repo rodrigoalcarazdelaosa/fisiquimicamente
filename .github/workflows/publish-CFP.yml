@@ -46,7 +46,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v6
         with:
-          go-version: 1.26.2
+          go-version: 1.26.3
 
       - name: Download Hugo
         run: wget https://github.com/gohugoio/hugo/releases/download/v${{
@@ -74,7 +74,7 @@ jobs:
           HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets[matrix.PDFEmbedKey] }}
 
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
