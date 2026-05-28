@@ -227,10 +227,11 @@ Estrategias de puntuación
 
 ## E-rúbricas, herramientas Web para elaborarlas
 
-Cuando las rúbricas se elaboran con **herramientas digitales** para utilizarse en entornos virtuales o en línea, se denominan ***e-rúbricas***.
+Cuando las rúbricas se elaboran con **herramientas digitales** para utilizarse en entornos virtuales o en línea, se denominan **_e-rúbricas_**.
 
 ---
 
+- [Rúbrica interactiva](https://bilateria.org/app/utils_clas/rubrica-interactiva.html)
 - [Rubistar](http://rubistar.4teachers.org/index.php?skin=es&lang=es)
 - [Rubrik](https://edtk.co/rubrik/)
 - [Rubrik Maker](https://rubric-maker.com)
