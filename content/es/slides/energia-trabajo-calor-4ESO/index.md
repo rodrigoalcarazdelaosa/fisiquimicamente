@@ -74,7 +74,7 @@ donde $h\ll R_\mathrm T$ (con $R_\mathrm T$ el radio de la Tierra) y $g$ es el v
 ---
 
 ### Energía mecánica $E_\mathrm m$
-Es la **suma** de la energía **cinética** $E\_\mathrm{c}$ y la energía **potencial** $E_\mathrm{p}$:
+Es la **suma** de la energía **cinética** $E_\mathrm{c}$ y la energía **potencial** $E_\mathrm{p}$:
 $$
 E_\mathrm m = E_\mathrm c + E_\mathrm p
 $$
@@ -133,6 +133,7 @@ $$
 
 Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta velocidad) y potencial gravitatoria (está a una cierta altura).
 
+$$
 \begin{align*}
 \text{Punto A} & \begin{cases}
 	v_\mathrm A = 5\thinspace\mathrm{m/s} \\\\
@@ -143,20 +144,25 @@ Tanto en A como en B el carro tiene energía cinética (se mueve a una cierta ve
 	h_\mathrm B = 20\thinspace\mathrm{m}
 \end{cases}
 \end{align*}
+$$
 
 ---
 
+$$
 \begin{align*}
-E_{\mathrm{m}\_\mathrm A} & = \frac{1}{2}mv\_\mathrm A^2 + mgh\_\mathrm A \\\\
+E_{\mathrm{m}_\mathrm A} & = \frac{1}{2}mv_\mathrm A^2 + mgh_\mathrm A \\\\
 & = \frac{1}{2}\cdot 50\cdot 5^2 + 50\cdot 9.8\cdot 30 \\\\
 & = 625 + 14700 = 15325\thinspace\mathrm J
 \end{align*}
+$$
 
+$$
 \begin{align*}
-E_{\mathrm{m}\_\mathrm B} & = \frac{1}{2}mv\_\mathrm B^2 + mgh\_\mathrm B \\\\
+E_{\mathrm{m}_\mathrm B} & = \frac{1}{2}mv_\mathrm B^2 + mgh_\mathrm B \\\\
 & = \frac{1}{2}\cdot 50\cdot 3.2^2 + 50\cdot 9.8\cdot 20 \\\\
 & = 256 + 9800 = 10056\thinspace\mathrm J
 \end{align*}
+$$
 
 ---
 
@@ -180,7 +186,7 @@ E\_\text{disipada} & = E\_{\mathrm{m}\_\mathrm A} - E\_{\mathrm{m}\_\mathrm B} \
 {{% section %}}
 
 ## Intercambio de energía
-La energía se puede intercambiar/transferir mediante: 
+La energía se puede intercambiar/transferir mediante:
 - [Trabajo *W*](#/5/2)
 - [Calor *Q*](#/5/4)
 
@@ -241,10 +247,13 @@ En el **SI** la potencia se mide en **vatios** o ***watts*** ($1\thinspace\mathr
 ---
 
 El **kilovatio hora**, $\mathrm{kW}\thinspace\mathrm h$, es una unidad de **energía** muy utilizada en la facturación para la energía entregada a los consumidores por las compañías eléctricas:
+
+$$
 \begin{align*}
 1\thinspace\mathrm{kW}\thinspace\mathrm h\cdot \frac{1000\thinspace\mathrm{W}}{1\thinspace\mathrm{kW}}\cdot \frac{3600\thinspace\mathrm{s}}{1\thinspace\mathrm{h}} &= 3.6\times 10^6\thinspace\mathrm{W\cdot s} \\\\
 &= 3.6\times 10^6\thinspace\mathrm J
 \end{align*}
+$$
 
 ---
 
@@ -2336,7 +2345,7 @@ donde $c$ es el **calor específico** de la sustancia, que representa la cantida
 [998.00000000,  19.67612213],
 [999.00000000,  19.68500117],
 [1000.00000000,  19.69385929],
-	];	
+	];
 	const cOro = [
 [  0.00000000,   0.00000000],
 [  1.00000000,   0.00039562],
@@ -3339,9 +3348,9 @@ donde $c$ es el **calor específico** de la sustancia, que representa la cantida
 [998.00000000,  24.90585168],
 [999.00000000,  24.90592393],
 [1000.00000000,  24.90599598],
-	];		
+	];
 	new Chart(c, {
-	  type: 'line',		
+	  type: 'line',
 	  data: {
 	    datasets: [
 			{
@@ -3358,7 +3367,7 @@ donde $c$ es el **calor específico** de la sustancia, que representa la cantida
 //	      showLine: false // no line shown
 	    },
 			{
-	      data: cHierro.map(datum => ({	  
+	      data: cHierro.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -3382,7 +3391,7 @@ donde $c$ es el **calor específico** de la sustancia, que representa la cantida
 		  pointRadius: 0,
 	      //              pointHoverRadius: 15,
 //	      showLine: false // no line shown
-	    },				
+	    },
 	]
 	  },
 	  options: {
@@ -3440,22 +3449,22 @@ donde $c$ es el **calor específico** de la sustancia, que representa la cantida
 	    },
         legend: {
   		  labels: {
-  			  boxWidth: 10,	  
+  			  boxWidth: 10,
   			  fontSize: 18,
   			  fontFamily: 'Cabin Sketch',
   			  fontColor: '#111111'
-  		  }				  
+  		  }
         },
 	  }
 	});
 </script>
-	
+
 ---
 
 ### Dilatación
 Como regla general, un cuerpo aumenta su volumen (*se dilata*) al aumentar su temperatura.
 
-> Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0&thinsp;&deg;C y 4&thinsp;&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella. 
+> Una **excepción** notable es la **dilatación anómala del agua**, ya que entre 0&thinsp;&deg;C y 4&thinsp;&deg;C el agua se contrae debido a que, *sorprendentemente*, el hielo es menos denso que el agua líquida, razón por la que flota sobre ella.
 
 ---
 
@@ -3571,10 +3580,13 @@ $$
 V_\text{agua} = \pi r^2 h\text{ (cilindro)},
 $$
 donde $r = 5\thinspace\mathrm{cm} = 0.05\thinspace\mathrm{m}$ y $h = 1\thinspace\mathrm m$:
+
+$$
 \begin{align*}
 V_\text{agua} = \pi r^2 h = \pi\cdot 0.05^2\cdot 1 &= 0.0079\thinspace\mathrm{m^3} \\\\
 & = 7.9\thinspace\mathrm{L}
 \end{align*}
+$$
 
 ---
 
