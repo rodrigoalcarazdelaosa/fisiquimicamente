@@ -3522,7 +3522,7 @@ donde $r = 5\thinspace\mathrm{cm} = 0.05\thinspace\mathrm{m}$ y $h = 1\thinspace
 
 $$
 \begin{align*}
-V\_\text{agua} = \pi r^2 h = \pi\cdot 0.05^2\cdot 1 &= 0.0079\thinspace\mathrm{m^3} \\\\
+V_\text{agua} = \pi r^2 h = \pi\cdot 0.05^2\cdot 1 &= 0.0079\thinspace\mathrm{m^3} \\\\
 & = 7.9\thinspace\mathrm{L}
 \end{align*}
 $$
@@ -3542,7 +3542,7 @@ $$
 Imponiendo la **conservación de la energía**:
 \begin{align*}
 Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
-0.144T*\mathrm e - 129.6 + 7.9T*\mathrm e - 157.1 &= 0
+0.144T_\mathrm e - 129.6 + 7.9T_\mathrm e - 157.1 &= 0
 \end{align*}
 
 de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
