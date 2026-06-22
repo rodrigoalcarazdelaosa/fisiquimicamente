@@ -45,7 +45,7 @@ Cerca del 27&thinsp;% de lo que hay en nuestro universo es [**materia oscura**](
 
 Los indicios de que algo se nos escapaba venían de lejos. Ya en 1933 [Zwicky](https://es.wikipedia.org/wiki/Fritz_Zwicky) vio que las velocidades de las galaxias en el [cúmulo de Coma](https://es.wikipedia.org/wiki/Cúmulo_de_Coma) eran muy superiores de lo que su supuesta masa podía explicar.
 
-![Coma](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ssc2007-10a1.jpg/1180px-Ssc2007-10a1.jpg "Imagen del cúmulo de galaxias. Sobre fondo negro tenemos un montón de luces que son las diferentes galaxias del cúmulo. Fuente: https://commons.wikimedia.org/wiki/File:Ssc2007-10a1.jpg.")
+![Coma](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ssc2007-10a1.jpg/1280px-Ssc2007-10a1.jpg "Imagen del cúmulo de galaxias. Sobre fondo negro tenemos un montón de luces que son las diferentes galaxias del cúmulo. Fuente: https://commons.wikimedia.org/wiki/File:Ssc2007-10a1.jpg.")
 
 Su conclusión fue que, de confirmarse el resultado, esta materia que no se podía ver (ya la llamó materia oscura) sería mucho más abundante que la materia que sí podemos percibir. Unos años después, en 1936, [Sinclair Smith](https://en.wikipedia.org/wiki/Sinclair_Smith_(astronomer)) tuvo un resultado igualmente desconcertante al tratar de medir la masa de las galaxias en el [cúmulo de Virgo](https://es.wikipedia.org/wiki/Cúmulo_de_Virgo) y obtener un resultado 200 veces superior al que esperaba.
 
