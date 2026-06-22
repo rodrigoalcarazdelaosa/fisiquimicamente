@@ -1,0 +1,24 @@
+{{/*
+    Inline TOC for article content.
+
+    Keep it visible below the desktop sidebar breakpoint by default. Pages can
+    still override this with `hide_on` or `show_on`.
+*/}}
+
+{{ if or (.Get "hide_on") (.Get "show_on") }}
+  {{ $classes := slice "toc-inpage" "d-print-none" }}
+  {{ with .Get "hide_on" }}
+    {{ $classes = $classes | append (printf "d-%s-none" .) }}
+  {{ end }}
+  {{ with .Get "show_on" }}
+    {{ $classes = $classes | append "d-none" (printf "d-%s-block" .) }}
+  {{ end }}
+
+  {{ $toc := partial "functions/clean_toc.html" $.Page.TableOfContents }}
+  {{ $toc = replace $toc `id="TableOfContents"` `id="TableOfContentsInPage"` }}
+
+  <details class="{{ delimit $classes " " }}" open>
+    <summary class="font-weight-bold">{{ i18n "table_of_contents" }}</summary>
+    {{ $toc | safeHTML }}
+  </details>
+{{ end }}

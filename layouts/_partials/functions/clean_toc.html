@@ -1,0 +1,3 @@
+{{ $toc := printf "%s" . }}
+{{ $toc = replaceRE `(>[^<]*)HAHAHUGOSHORTCODE[0-9A-Za-z]+([^<]*<)` `${1}${2}` $toc }}
+{{ return $toc }}

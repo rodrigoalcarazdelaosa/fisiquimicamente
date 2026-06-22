@@ -782,6 +782,211 @@ mark,
  *  Page content
  **************************************************/
 
+.article-with-toc {
+  position: relative;
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.article-with-toc > .article-container {
+  margin: 0 auto;
+}
+
+.article-toc {
+  position: absolute;
+  top: 0;
+  left: calc(100% + 2rem);
+  width: 240px;
+  height: 100%;
+  font-size: 0.875rem;
+}
+
+.article-toc-inner {
+  padding-top: 0.35rem;
+  padding-bottom: 1.5rem;
+}
+
+@supports ((position: -webkit-sticky) or (position: sticky)) {
+  .article-toc-inner {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 1rem;
+    max-height: calc(100vh - 1rem);
+    overflow-y: auto;
+  }
+}
+
+@include media-breakpoint-down(lg) {
+  .article-with-toc {
+    max-width: 760px;
+  }
+}
+
+.article-mobile-toc {
+  position: fixed;
+  right: 1rem;
+  bottom: calc(1rem + env(safe-area-inset-bottom));
+  z-index: 1040;
+}
+
+.article-mobile-toc summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 3rem;
+  height: 3rem;
+  padding: 0;
+  margin-left: auto;
+  color: $nord6;
+  background: $nord0;
+  border: 0;
+  border-radius: 50%;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+  appearance: none;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.dark .article-mobile-toc summary {
+  color: $nord0;
+  background: $nord6;
+}
+
+.article-mobile-toc summary::-webkit-details-marker {
+  display: none;
+}
+
+.article-mobile-toc-icon,
+.article-mobile-toc-icon::before,
+.article-mobile-toc-icon::after {
+  display: block;
+  width: 1.15rem;
+  height: 2px;
+  background: currentColor;
+  border-radius: 999px;
+}
+
+.article-mobile-toc-icon {
+  position: relative;
+}
+
+.article-mobile-toc-icon::before,
+.article-mobile-toc-icon::after {
+  position: absolute;
+  left: 0;
+  content: "";
+}
+
+.article-mobile-toc-icon::before {
+  top: -0.36rem;
+}
+
+.article-mobile-toc-icon::after {
+  top: 0.36rem;
+}
+
+.article-mobile-toc-panel {
+  position: absolute;
+  right: 0;
+  bottom: 3.75rem;
+  width: calc(100vw - 2rem);
+  max-width: 20rem;
+  max-height: 70vh;
+  padding: 1rem 0;
+  overflow-y: auto;
+  background: $sta-background;
+  border: 1px solid $nord4;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.22);
+}
+
+.dark .article-mobile-toc-panel {
+  background: $nord0;
+  border-color: $nord3;
+}
+
+.article-mobile-toc-title {
+  padding: 0 1rem 0.5rem;
+  font-family: $sta-font-heading, sans-serif;
+  font-weight: 700;
+  color: $nord0;
+}
+
+.dark .article-mobile-toc-title {
+  color: $nord6;
+}
+
+.article-mobile-toc #TableOfContentsMobile {
+  padding-left: 0;
+  border-left: 0;
+}
+
+.article-mobile-toc #TableOfContentsMobile ul {
+  padding-left: 0;
+}
+
+.article-mobile-toc #TableOfContentsMobile ul ul {
+  padding-left: 0.8rem;
+}
+
+.article-mobile-toc #TableOfContentsMobile li {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.article-mobile-toc #TableOfContentsMobile li a {
+  display: block;
+  padding: 0.25rem 1rem;
+  color: $nord3;
+  line-height: 1.5;
+}
+
+.dark .article-mobile-toc #TableOfContentsMobile li a {
+  color: $nord4;
+}
+
+.article-mobile-toc #TableOfContentsMobile li a:hover {
+  color: $sta-primary;
+  text-decoration: none;
+}
+
+#TableOfContentsInPage {
+  padding-left: 0;
+  border-left: 1px solid #eee;
+}
+
+#TableOfContentsInPage ul {
+  padding-left: 0;
+}
+
+#TableOfContentsInPage ul ul {
+  padding-left: 0.8rem;
+}
+
+#TableOfContentsInPage li {
+  display: block;
+  margin-bottom: 8px;
+}
+
+#TableOfContentsInPage li a {
+  display: block;
+  padding: 0 1.5rem;
+  color: rgba(0, 0, 0, 0.65);
+  line-height: 1.75;
+  font-size: 16px;
+}
+
+.dark #TableOfContentsInPage li a {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+#TableOfContentsInPage li a:hover {
+  color: $sta-primary;
+  text-decoration: none;
+}
+
 .article-style {
   overflow: visible;
   color: $nord0;

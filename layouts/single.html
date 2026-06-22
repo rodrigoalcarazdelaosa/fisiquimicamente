@@ -1,0 +1,67 @@
+{{- define "main" -}}
+
+{{ $toc := partial "functions/clean_toc.html" .TableOfContents }}
+{{ $has_toc := and (ne .Params.toc false) (in $toc "<li") }}
+
+<article class="article">
+
+  {{ partial "page_header" . }}
+
+  {{ if $has_toc }}
+  <div class="{{ if $has_toc }}article-with-toc{{ end }}">
+    <aside class="article-toc d-none d-xl-block" aria-labelledby="article-toc-title">
+      <div class="article-toc-inner">
+        {{ partial "blox-core/functions/get_hook" (dict "hook" "toc-start" "context" .) }}
+        <ul class="nav toc-top">
+          <li><a href="#" id="article-toc-title" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
+        </ul>
+        {{ $toc | safeHTML }}
+        {{ partial "blox-core/functions/get_hook" (dict "hook" "toc-end" "context" .) }}
+      </div>
+    </aside>
+
+    <details class="article-mobile-toc d-xl-none d-print-none">
+      <summary aria-label="{{ i18n "table_of_contents" }}">
+        <span class="article-mobile-toc-icon" aria-hidden="true"></span>
+      </summary>
+      <div class="article-mobile-toc-panel">
+        <div class="article-mobile-toc-title">{{ i18n "on_this_page" }}</div>
+        {{ replaceRE `TableOfContents` `TableOfContentsMobile` $toc | safeHTML }}
+      </div>
+    </details>
+    <script>
+      document.addEventListener('click', function (event) {
+        const link = event.target.closest('.article-mobile-toc-panel a');
+        if (!link) return;
+
+        const toc = link.closest('.article-mobile-toc');
+        if (toc) toc.open = false;
+      });
+    </script>
+
+    <div class="article-container">
+
+      <div class="article-style">
+        {{ .Content }}
+      </div>
+
+    </div>
+  </div>
+
+  <div class="article-container">
+    {{ partial "page_footer" . }}
+  </div>
+  {{ else }}
+  <div class="article-container">
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    {{ partial "page_footer" . }}
+
+  </div>
+  {{ end }}
+</article>
+
+{{- end -}}
