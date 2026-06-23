@@ -54,20 +54,7 @@
         {{- end -}}
       {{- else if eq $pack "tgs" -}}
         {{- $tgs_sticker := resources.Get (printf "media/lottie/%s.tgs" .) -}}
-        {{- if $tgs_sticker -}}<span><a {{if $link}}href="{{$link}}"{{end}}><tgs-player autoplay loop mode="normal" src="{{ $tgs_sticker.RelPermalink }}" class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></tgs-player></a></span>
-        <script>
-          document.addEventListener('wcThemeChange', (e) => {
-            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-            if (e.detail.isDarkTheme()) {
-              const player = document.querySelector("#{{ printf "%s" . }}");
-              player.load({{ $tgs_sticker.RelPermalink }}.slice(0, -4).concat("-dark.tgs"));
-            } else {
-              const player = document.querySelector("#{{ printf "%s" . }}");
-              player.load("{{ $tgs_sticker.RelPermalink }}");
-            }
-          });
-        </script>
-        {{- end -}}
+        {{- if $tgs_sticker -}}<span><a {{if $link}}href="{{$link}}"{{end}}><tgs-player autoplay loop mode="normal" data-src="{{ $tgs_sticker.RelPermalink }}" data-src-dark="{{ strings.TrimSuffix ".tgs" $tgs_sticker.RelPermalink }}-dark.tgs" class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></tgs-player></a></span>{{- end -}}
       {{- else -}}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
       {{- end -}}

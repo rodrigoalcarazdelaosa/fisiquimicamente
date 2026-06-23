@@ -1,1 +1,83 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js" defer></script>
+<script>
+  (function () {
+    const selector = 'tgs-player';
+    const players = Array.from(document.querySelectorAll(selector));
+
+    if (!players.length) {
+      return;
+    }
+
+    players.forEach((player) => {
+      if (player.hasAttribute('src') && !player.dataset.src) {
+        player.dataset.src = player.getAttribute('src');
+        player.removeAttribute('src');
+      }
+    });
+
+    function currentSource(player) {
+      const isDark = document.documentElement.classList.contains('dark') ||
+        document.body.classList.contains('dark');
+
+      return isDark && player.dataset.srcDark ? player.dataset.srcDark : player.dataset.src;
+    }
+
+    function loadPlayer(player) {
+      const src = currentSource(player);
+      if (!src) return;
+
+      if (typeof player.load === 'function') {
+        player.load(src);
+      } else if (player.getAttribute('src') !== src) {
+        player.setAttribute('src', src);
+      }
+
+      if (typeof player.play === 'function') {
+        player.play();
+      }
+    }
+
+    function initLazyTgsPlayers() {
+      const pendingPlayers = Array.from(document.querySelectorAll(selector)).filter((player) => {
+        return player.dataset.src && !player.dataset.tgsLoaded;
+      });
+
+      if (!('IntersectionObserver' in window)) {
+        pendingPlayers.forEach((player) => {
+          player.dataset.tgsLoaded = 'true';
+          loadPlayer(player);
+        });
+        return;
+      }
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+
+          const player = entry.target;
+          player.dataset.tgsLoaded = 'true';
+          loadPlayer(player);
+          observer.unobserve(player);
+        });
+      }, {
+        rootMargin: '300px 0px',
+      });
+
+      pendingPlayers.forEach((player) => observer.observe(player));
+    }
+
+    window.addEventListener('wcThemeChange', () => {
+      document.querySelectorAll(selector).forEach((player) => {
+        if (player.dataset.tgsLoaded) {
+          loadPlayer(player);
+        }
+      });
+    });
+
+    window.initLazyTgsPlayers = initLazyTgsPlayers;
+
+    if (window.customElements && window.customElements.get('tgs-player')) {
+      initLazyTgsPlayers();
+    }
+  }());
+</script>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js" defer onload="window.initLazyTgsPlayers && window.initLazyTgsPlayers()"></script>
