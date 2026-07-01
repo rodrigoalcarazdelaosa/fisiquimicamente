@@ -178,8 +178,8 @@ Indica la unidad en el Sistema Internacional (SI) del kerma
 
 1. [ ] Es el número de transformaciones nucleares espontáneas que se producen en una cantidad de radionúclido en la unidad de tiempo
 1. [ ] Es la suma de las dosis equivalentes en los tejidos y órganos del cuerpo irradiados, ponderados por los factores de ponderación de los tejidos
-1. [x] Es el cociente entre la energía comunicada por la radiación ionizante a la materia de un elemento por unidad de masa
-1. [ ] Ninguna respuesta es correcta
+1. [ ] Es el cociente entre la energía comunicada por la radiación ionizante a la materia de un elemento por unidad de masa
+1. [x] Ninguna respuesta es correcta
 
 ### Dosis absorbida 2
 
@@ -207,5 +207,5 @@ Llamamos periodo de semidesintegración de un radionúclido a:
 1. [x] El tiempo requerido para que reduzca, a la mitad, su actividad
 1. [ ] El valor promedio de la vida de sus átomos
 1. [ ] El tiempo medio en que se absorbe su radiación en la materia
-  
+
 {{< /quizdown >}}
