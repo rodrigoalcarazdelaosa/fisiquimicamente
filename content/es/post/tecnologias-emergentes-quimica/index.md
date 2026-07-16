@@ -3,7 +3,7 @@ title: Las diez tecnologías emergentes más importantes en Química
 subtitle: Según la IUPAC
 summary: "Las diez tecnologías emergentes más importantes en Química según la IUPAC."
 breadcrumbs: ["blog"]
-date: "2025-03-18T00:00:00Z"
+date: "2026-07-16T00:00:00Z"
 authors:
 - rodrigo-alcaraz-de-la-osa
 tags:
@@ -23,6 +23,27 @@ image:
 El objetivo del proyecto de la [**IUPAC**](https://es.wikipedia.org/wiki/Unión_Internacional_de_Qu%C3%ADmica_Pura_y_Aplicada) de las [**Diez Tecnologías Emergentes Más Importantes en Química**](https://iupac.org/what-we-do/top-ten/) es mostrar el valor de la Química e informar al público en general de cómo las ciencias químicas contribuyen al bienestar de la sociedad y a la sostenibilidad del Planeta Tierra.
 
 Desde 2019, el Jurado selecciona las tecnologías emergentes sobre la base de las que se encuentran entre un nuevo descubrimiento científico y una tecnología plenamente comercializada, y las que tienen la mayor capacidad de abrir nuevas oportunidades en la química y más allá.
+
+## 2025
+
+{{< figure src="2025.png" title="https://iupac.org/iupac-announces-the-2025-top-ten-emerging-technologies-in-chemistry/" lightbox="true" >}}
+
+Las **tecnologías finalistas** de **2025** fueron (en orden alfabético):
+
+- [Fabricación aditiva (impresión 3D)](https://es.wikipedia.org/wiki/Impresión_3D)
+- [Puntos de carbono](https://en.wikipedia.org/wiki/Carbon_quantum_dot)
+- [Captura directa del aire](https://es.wikipedia.org/wiki/Captura_directa_del_aire)
+- [Captura y conversión electroquímica de carbono](https://es.wikipedia.org/wiki/Captura_y_almacenamiento_de_carbono)
+- Modelos de base [multimodales](https://en.wikipedia.org/wiki/Multimodal_learning) para la elucidación de estructuras
+- [Biosensores](https://es.wikipedia.org/wiki/Biosensor) de nanocadenas
+- [Catálisis](https://es.wikipedia.org/wiki/Catálisis) de un solo átomo
+- [Células artificiales](https://es.wikipedia.org/wiki/Célula_artificial)
+- [Polímeros](https://es.wikipedia.org/wiki/Polímero) termogelificantes
+- [Xolografía](https://xolo3d.com/xolography/)
+
+{{% callout note %}}
+Más información en el [magnífico **artículo** de **Fernando Gomollón-Bel** publicado en **Chemistry International**](https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0402/html).
+{{% /callout %}}
 
 ## 2024
 
