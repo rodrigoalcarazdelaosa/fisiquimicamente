@@ -2,7 +2,7 @@
 title: Termodinámica química
 url: "/recursos-fisica-quimica/apuntes/2bach/quimica/termodinamica-quimica"
 subtitle: Ecuaciones termoquímicas, ley de Hess y espontaneidad de las reacciones químicas
-summary: "<code style='color: #2E3440;background:#88C0D0'>NOVEDAD</code><br>Ecuaciones termoquímicas, ley de Hess y espontaneidad de las reacciones químicas."
+summary: "Ecuaciones termoquímicas, ley de Hess y espontaneidad de las reacciones químicas."
 breadcrumbs: ["recursos-fisica-quimica","apuntes","2bach","quimica"]
 authors:
 - rodrigo-alcaraz-de-la-osa
