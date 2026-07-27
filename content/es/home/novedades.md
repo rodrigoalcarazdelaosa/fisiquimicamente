@@ -52,8 +52,8 @@ content:
     link:
       #icon: graduation-cap
       #icon_pack: fas
-      text: Hundir la flota periódica | 2.º ESO – 3.º ESO
-      url: 'http://radicalbarbatilo.blogspot.com/2021/02/hundir-la-flota-periodica.html'
+      text: FormuDados | Formulación y nomenclatura de Química Inorgánica
+      url: 'https://elprofedelabata.github.io/formudados/'
   - title: 🗞️ Novedades
     content: '🧪 Última práctica de laboratorio'
     align: center
