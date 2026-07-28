@@ -643,13 +643,13 @@ Antes de aprender a trazar los rayos y las trayectorias seguidas por la luz y es
 
 #### Sistema óptico
 
-Está formada por el eje óptico y las diferentes superficies centradas en él.
+Está formado por el eje óptico y las diferentes superficies centradas en él.
 
 ---
 
 #### Objeto *O*
 
-Fuente de la que proceden los rayos de luz que atraviesan el sistema y dan lugar a la imagen *O*'.
+Fuente de la que proceden los rayos de luz que atraviesan el sistema y dan lugar a la imagen *O'*.
 
 ---
 
@@ -658,7 +658,7 @@ Fuente de la que proceden los rayos de luz que atraviesan el sistema y dan lugar
  Pueden darse dos casos:
 
 - Imagen real: los rayos a la salida del sistema convergen en un punto.
-- Imagen virtual: los rayos a la salida del sistema divergen. Sus prolongaciones sí se cortan y dan lugar a *O*'.
+- Imagen virtual: los rayos a la salida del sistema divergen. Sus prolongaciones sí se cortan y dan lugar a *O'*.
 
 ---
 
@@ -999,6 +999,10 @@ Por eso, será:
 - Negativa en lentes divergentes.
 
 Para expresar la potencia de una lente se emplea la [**dioptría**](https://es.wikipedia.org/wiki/Dioptría), $D$, que es la potencia de una lente cuya distancia focal imagen es de 1&thinsp;m.
+
+---
+
+{{< figure library="true" src="optica-2Bach-fisica/potencia-lente.svg" title="Ilustración de la relación entre la potencia óptica en dioptrías y la distancia focal en metros." width="75%" lightbox="false" theme="light" >}}
 
 {{% /section %}}
 

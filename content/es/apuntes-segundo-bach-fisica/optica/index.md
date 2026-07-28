@@ -26,6 +26,10 @@ image:
 links:
 - icon_pack: fas
   icon:
+  name: 📜 Póster óptica geométrica
+  url: optica-geometrica-poster.pdf
+- icon_pack: fas
+  icon:
   name: 📋 Formulario
   url: optica-formulario.pdf
 # - icon_pack: fas
@@ -423,18 +427,18 @@ Antes de aprender a trazar los rayos y las trayectorias seguidas por la luz y es
 
 #### Sistema óptico
 
-Está formada por el eje óptico y las diferentes superficies centradas en él.
+Está formado por el eje óptico y las diferentes superficies centradas en él.
 
 #### Objeto *O*
 
-Fuente de la que proceden los rayos de luz que atraviesan el sistema y dan lugar a la imagen *O*'.
+Fuente de la que proceden los rayos de luz que atraviesan el sistema y dan lugar a la imagen *O'*.
 
 #### Imagen *O'*
 
  Pueden darse dos casos:
 
 - Imagen real: los rayos a la salida del sistema convergen en un punto.
-- Imagen virtual: los rayos a la salida del sistema divergen. Sus prolongaciones sí se cortan y dan lugar a *O*'.
+- Imagen virtual: los rayos a la salida del sistema divergen. Sus prolongaciones sí se cortan y dan lugar a *O'*.
 
 Las imágenes, además de reales y virtuales, pueden ser derechas/invertidas o aumentadas/reducidas:
 
@@ -647,6 +651,8 @@ Es la inversa de la distancia focal imagen y tiene su mismo signo. Por eso, ser�
 - Negativa en lentes divergentes.
 
 Para expresar la potencia de una lente se emplea la [**dioptría**](https://es.wikipedia.org/wiki/Dioptría), $D$, que es la potencia de una lente cuya distancia focal imagen es de 1&thinsp;m.
+
+{{< figure library="true" src="optica-2Bach-fisica/potencia-lente.svg" title="Ilustración de la relación entre la potencia óptica en dioptrías y la distancia focal en metros. Adaptada de https://commons.wikimedia.org/wiki/File:Optical_power_of_a_lens.svg." width="100%" lightbox="false" theme="light" >}}
 
 ## El ojo y los defectos de la visión
 
