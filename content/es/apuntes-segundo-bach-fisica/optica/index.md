@@ -30,6 +30,10 @@ links:
   url: optica-geometrica-poster.pdf
 - icon_pack: fas
   icon:
+  name: 📜 Póster instrumentos ópticos
+  url: instrumentos-opticos-poster.pdf
+- icon_pack: fas
+  icon:
   name: 📋 Formulario
   url: optica-formulario.pdf
 # - icon_pack: fas
