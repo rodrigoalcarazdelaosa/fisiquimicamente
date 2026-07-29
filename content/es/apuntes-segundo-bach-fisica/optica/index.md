@@ -412,10 +412,10 @@ $$
 Generalizando, si tenemos varias capas paralelas con distintos índices $n_i$ y en cada una la luz se propaga a $v_i$, el tiempo que tarda en atravesarlas:
 
 $$
-t = \sum_i{\frac{l_i}{v_i}} = \frac{1}{c}\sum_i{l_in_i} = \frac{L}{c},\quad\text{con } L = \sum_i{l_in_i}\text{ (camino óptico)}
+t = \sum_i{\frac{l_i}{v_i}} = \frac{1}{c}\sum_i{l_in_i} = \frac{L}{c},
 $$
 
-Si el medio no fuera homogéneo, los sumatorios se reemplazarían por integrales. A la vista de lo anterior, puede reformularse el principio de Fermat:
+con  $L = \sum_i{l_in_i}$ (camino óptico). Si el medio no fuera homogéneo, los sumatorios se reemplazarían por integrales. A la vista de lo anterior, puede reformularse el principio de Fermat:
 
 > El camino seguido por la luz entre dos puntos es aquel en el que el camino óptico es menor.
 
