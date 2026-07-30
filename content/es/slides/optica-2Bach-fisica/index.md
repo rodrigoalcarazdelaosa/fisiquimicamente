@@ -125,7 +125,7 @@ Además, comenzaron a hacerse nuevos experimentos que solo podían explicarse su
 
 La difracción es un fenómeno que se produce cuando una onda de longitud de onda $\lambda$ atraviesa un obstáculo cuyo tamaño $d$ es comparable a $\lambda$:
 
-{{< figure library="true" src="ondas-2Bach-fisica/difraccion-una-rendija.svg" title="Adaptada de https://tikz.net/optics_diffraction/." width="100%" lightbox="false" theme="light" >}}
+{{< figure library="true" src="ondas-2Bach-fisica/difraccion-una-rendija.svg" width="100%" lightbox="false" theme="light" >}}
 
 ---
 

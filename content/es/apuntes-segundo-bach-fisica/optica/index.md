@@ -26,6 +26,10 @@ image:
 links:
 - icon_pack: fas
   icon:
+  name: 📜 Póster naturaleza y propagación de la luz
+  url: naturaleza-propagacion-luz-poster.pdf
+- icon_pack: fas
+  icon:
   name: 📜 Póster óptica geométrica
   url: optica-geometrica-poster.pdf
 - icon_pack: fas
@@ -99,7 +103,7 @@ Ambas teorías convivieron hasta el s. XIX, cuando al fin pudo demostrarse exper
 
 La difracción es un fenómeno que se produce cuando una onda de longitud de onda $\lambda$ atraviesa un obstáculo cuyo tamaño $d$ es comparable a $\lambda$:
 
-{{< figure library="true" src="ondas-2Bach-fisica/difraccion-una-rendija.svg" title="Adaptada de https://tikz.net/optics_diffraction/." width="100%" lightbox="false" theme="light" >}}
+{{< figure library="true" src="ondas-2Bach-fisica/difraccion-una-rendija.svg" title="Al contrario que con el caso de un haz de partículas, en el que solo alcanzan la pantalla las partículas que atraviesan la rendija, aparece un patrón de difracción que no tiene nada que ver con orificio iluminado y resto oscuro. Adaptada de https://tikz.net/optics_diffraction/." width="100%" lightbox="false" theme="light" >}}
 
 ##### Predicciones
 
