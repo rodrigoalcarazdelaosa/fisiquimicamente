@@ -30,6 +30,10 @@ links:
   url: optica-geometrica-poster.pdf
 - icon_pack: fas
   icon:
+  name: 📜 Póster ojo y defectos de la visión
+  url: ojo-defectos-vision-poster.pdf
+- icon_pack: fas
+  icon:
   name: 📜 Póster instrumentos ópticos
   url: instrumentos-opticos-poster.pdf
 - icon_pack: fas
