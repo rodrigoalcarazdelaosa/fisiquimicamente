@@ -115,7 +115,7 @@ Al realizar la experiencia, se obtuvo la predicción de Fresnel. Era muy poco in
 
 Se trata de un fenómeno en el que se emiten electrones desde una superficie conductora cuando se hace incidir luz sobre ella. Se estudia mediante un dispositivo del tipo:
 
-{{< figure library="true" src="optica-2Bach-fisica/efecto-fotoelectrico.svg" title="Se hace vacío en un tubo con dos electrodos conectados a un circuito. Cuando incide luz sobre un electrodo se desprenden electrones que se desplazan hacia el otro electrodo, dando lugar a una corriente.Traducida y adaptada de https://chem.libretexts.org/@go/page/13383" lightbox="false" width="100%" theme="light" >}}
+{{< figure library="true" src="optica-2Bach-fisica/efecto-fotoelectrico.svg" title="Se hace vacío en un tubo con dos electrodos conectados a un circuito. Cuando incide luz sobre un electrodo se desprenden electrones que se desplazan hacia el otro electrodo, dando lugar a una corriente. Traducida y adaptada de https://chem.libretexts.org/@go/page/13383" lightbox="false" width="100%" theme="light" >}}
 
 Se obtienen los siguientes **resultados**:
 
