@@ -370,7 +370,7 @@ Es el proceso en el que un haz de luz incide sobre la superficie de separación 
 ##### Leyes de la reflexión
 
 - El rayo incidente, el rayo reflejado y la normal están en el mismo plano.
-- El ángulo de incidencia y el de reflexión son iguales:
+- El ángulo de incidencia y el de reflexión son iguales.
 
 ---
 

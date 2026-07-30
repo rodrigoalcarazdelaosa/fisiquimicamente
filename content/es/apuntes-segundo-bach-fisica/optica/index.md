@@ -265,7 +265,7 @@ Es el proceso en el que un haz de luz incide sobre la superficie de separación 
 ##### Leyes de la reflexión
 
 - El rayo incidente, el rayo reflejado y la normal están en el mismo plano.
-- El ángulo de incidencia y el de reflexión son iguales:
+- El ángulo de incidencia y el de reflexión son iguales.
 
 Para que se aprecie la reflexión, la superficie de separación debe ser especular (sus irregularidades pequeñas en comparación con la longitud de onda de la luz incidente). En ese caso los rayos reflejados son paralelos y la reflexión es especular. Cuando, por el contrario, las irregularidades son comparables a la longitud de onda de la luz incidente, se produce una reflexión difusa (los rayos reflejados tienen distintas direcciones; no son paralelos entre sí). Esta reflexión es la que nos permite diferenciar los bordes de los objetos y apreciar así su forma.
 
