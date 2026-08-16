@@ -20,7 +20,7 @@ role: 🗒️ Activitats · 🧪 Pràctiques de laboratori
 #- name: "Inglés: C1"
 #  url: ""
 #- name: "Italiano: B2"
-#  url: ""  
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Un nen gran a què li encanta experimentar, jugar i explotar coses."
@@ -44,7 +44,7 @@ education:
     year: 2012
   - course: Llicenciat en Química
     institution: Universitat de Santiago de Compostela
-    year: 2011  
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,7 +62,7 @@ social:
 - icon: 🏠
   icon_pack: emoji
   link: https://miguelquiroga.es
-  label: Visita el meu lloc web
+  label: Visita la meva pàgina web
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

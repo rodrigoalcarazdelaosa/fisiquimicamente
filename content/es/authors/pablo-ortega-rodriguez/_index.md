@@ -20,7 +20,7 @@ organizations:
 - name: "Inglés: B2"
   url: ""
 - name: "Francés: B1"
-  url: ""  
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Compartiendo experiencias lúdicas en el aula, siempre aprendiendo."
@@ -36,10 +36,10 @@ education:
   courses:
   - course: Certificado de Aptitud Pedagógica (CAP)
     institution: Universidad de Granada
-    year: 2005  
+    year: 2005
   - course: Licenciado en Química
     institution: Universidad de Málaga
-    year: 2004  
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,8 +60,8 @@ social:
   label: Sígueme en Instagram
 - icon: 🏠
   icon_pack: emoji
-  link: https://www.aprendizajebasadoenjuegos.es/
-  label: Visita mi estudio (ABJ Ediciones)
+  link: https://www.pablofisicayquimica.es
+  label: Visita mi página web
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
