@@ -344,6 +344,10 @@ Son **funciones matemáticas**[^4] que **describen** el **tamaño**, la **forma*
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/orbitales-atomicos.svg" title="Orbitales s ($l=0$), p ($l=1$), d ($l=2$) y f ($l=3$). Adaptada de https://www.coursehero.com/sg/general-chemistry/quantum-theory/." lightbox="false" width="100%" >}}
 
+{{% callout note %}}
+**Visualiza** la **función** de **densidad** de **probabilidad** de los diferentes autoestados del **átomo** de **hidrógeno** con [esta excelente **app interactiva**](https://rayleighlord.github.io/HydrogenAtomSpectrum/) de la mano de **RayleighLord**.
+{{% /callout %}}
+
 ### Números cuánticos y su interpretación
 
 {{% callout note %}}

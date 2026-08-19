@@ -415,6 +415,10 @@ Son **funciones matemáticas** que **describen** el **tamaño**, la **forma** y 
 
 ---
 
+> **Visualiza** la **función** de **densidad** de **probabilidad** de los diferentes autoestados del **átomo** de **hidrógeno** con [esta excelente **app interactiva**](https://rayleighlord.github.io/HydrogenAtomSpectrum/) de la mano de **RayleighLord**.
+
+---
+
 ### Números cuánticos y su interpretación
 
 > En [esta magnífica **entrada**](https://fisicatabu.com/son-tan-raros-los-numeros-cuanticos/), **Adrián Castelo** nos propone una forma de **introducir** los **números cuánticos**, estableciendo una **analogía** con el **sonido**.
