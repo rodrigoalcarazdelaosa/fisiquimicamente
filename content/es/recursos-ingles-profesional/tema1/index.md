@@ -16,9 +16,4 @@ build:
 # Optional external URL for project (replaces project detail page).
 external_link: "http://fisiquimicamente.com/recursos-fisica-quimica/radiofisica/ciclos-formativos/radioterapia-dosimetria/ingles-profesional/TEMA1.pdf"
 
-links:
-- icon_pack: fas
-  icon:
-  name: 🗒️ Actividad
-  url: actividad-tema1.pdf
 ---
