@@ -88,6 +88,10 @@ Donde es probable encontrar los **electrones** (partículas elementales con **ca
 
 ---
 
+> Utiliza [esta **simulación interactiva**](https://www.pablofisicayquimica.es/recursos/actividades-para-clase/tamano-del-atomo/), de la mano de **{{% mention "pablo-ortega-rodriguez" %}}**, para saber **qué tamaño tiene un átomo**.
+
+---
+
 La siguiente tabla muestra la masa y carga de las partículas que componen los átomos:
 
 | Partícula | Masa/kg | Carga/C |
