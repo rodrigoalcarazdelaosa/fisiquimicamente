@@ -28,6 +28,14 @@ slides:
 
 Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
+---
+
+> Explora el [**Triángulo de Van Arkel-Ketelaar**](https://es.wikipedia.org/wiki/Triángulo_de_Van_Arkel-Ketelaar) y descubre cómo cambia el **carácter** del **enlace** según las **electronegatividades** de los elementos.
+
+---
+
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/van-arkel-ketelaar.svg" lightbox="false" width="80%" >}}
+
 </section>
 
 ---

@@ -59,6 +59,12 @@ slides: enlace-quimico-2Bach-quimica
 math: true
 ---
 
+{{% callout note %}}
+Explora el [**Triángulo de Van Arkel-Ketelaar**](https://es.wikipedia.org/wiki/Triángulo_de_Van_Arkel-Ketelaar) y descubre cómo cambia el **carácter** del **enlace** según las **electronegatividades** de los elementos:
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/van-arkel-ketelaar.svg" title="Versión interactiva: https://www.educaplus.org/game/triangulo-de-van-arkel-ketelaar." lightbox="false" width="100%" >}}
+
+{{% /callout %}}
+
 {{% toc %}}
 
 ## Regla del octeto
