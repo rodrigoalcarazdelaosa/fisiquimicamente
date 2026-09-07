@@ -57,6 +57,10 @@ slides: formulacion-nomenclatura-quimica-organica
 threedmol: true
 ---
 
+{{% callout note %}}
+Te recomendamos [esta **aplicación web**](https://foqo.fiquipedia.es) creada por Enrique García (FiQuiPedia) para practicar nomenclatura y formulación de compuestos orgánicos revisada con normas IUPAC 2013.
+{{% /callout %}}
+
 {{% callout game %}}
 Si quieres practicar a **nombrar** y **formular compuestos orgánicos** básicos, te recomendamos [este estupendo **juego**]({{< relref "/juegos-formulacion/formula-con-marvin" >}}) similar al parchís.
 {{% /callout %}}
