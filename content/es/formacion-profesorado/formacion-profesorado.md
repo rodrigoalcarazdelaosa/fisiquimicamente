@@ -9,9 +9,9 @@ title = "🧑‍🏫 Formación del profesorado"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
@@ -19,15 +19,15 @@ subtitle = ""
   icon_link = "master"
   icon_pack = "tgs"
   name = "[Máster](master)"
-  description = "[📚 Currículum](master/curriculum) · [📖 Aprendizaje](master/aprendizaje) · [💼 Proyectos](master/proyectos)"
-  
+  description = "[📚 Currículum](master/curriculum) · [💼 Proyectos](master/proyectos) · [📖 Aprendizaje](master/aprendizaje)"
+
 [[feature]]
   icon = "oposiciones"
   icon_link = "oposiciones"
   icon_pack = "tgs"
   name = "[Oposiciones](oposiciones)"
   description = "[🧲 Física](oposiciones/fisica) · [⚗️ Química](oposiciones/quimica)"
-  
+
 [design]
   columns = "2"
 
@@ -36,14 +36,14 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+
   # Background color.
   color = "FFFFF8"
-  
+
   # Background gradient.
   # gradient_start = "#BBCCEE"
   # gradient_end = "#FFFFF8"
-  
+
   # Background image.
   # image = "ebau.jpg"  # Name of image in `static/media/`.
   image_darken = 0.0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -52,12 +52,12 @@ subtitle = ""
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  # text_color_light = true    
+  # text_color_light = true
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = "padding-bottom: 0px;"
- 
+
  # CSS class.
  css_class = ""
 +++
