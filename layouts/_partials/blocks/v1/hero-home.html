@@ -10,6 +10,7 @@
 {{ if $block.Params.hero_media }}
 <div class="row justify-content-center">
   {{ with $block.Title }}
+  <div class="col-12 px-md-0">
   {{ if eq $block.Title "FisiQuímicamente" }}
   {{- $logo := resources.Get ("media/logo-fisiquimicamente.svg") -}}
     <img draggable="false" alt="fisiquimicamente" src="{{ $logo.RelPermalink }}" width="100%" id="fisiquimicamente">
@@ -50,6 +51,7 @@
         });
       </script>
       {{ end }}
+  </div>
     {{ end }}
   <div class="col-12 col-md-6 text-center text-md-left">
 {{ end }}
