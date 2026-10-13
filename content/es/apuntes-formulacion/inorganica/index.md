@@ -38,10 +38,6 @@ links:
 slides: formulacion-nomenclatura-quimica-inorganica
 ---
 
-{{% callout note %}}
-Te recomendamos [esta **aplicación web**](https://foqa.fiquipedia.es) creada por Enrique García (FiQuiPedia) para practicar nomenclatura y formulación de compuestos inorgánicos revisada con normas IUPAC 2005.
-{{% /callout %}}
-
 {{% toc %}}
 
 ## Estados de oxidación
