@@ -112,7 +112,7 @@ El campo magnético terrestre interacciona con el [viento solar](https://es.wiki
 
 También te recomendamos echar un vistazo a este **vídeo** del [**Departamento de Física y Química del IES Valle del Saja**](http://www.fqsaja.com) sobre **magnetismo inducido**:
 
-{{< vimeo 133033134 >}}
+{{< youtube XGKyOQv2A-g >}}
 
 ### Experiencias de Ørsted y de Faraday-Henry
 
