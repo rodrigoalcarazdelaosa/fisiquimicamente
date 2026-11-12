@@ -803,3 +803,16 @@ En su versión más sencilla, una [**cámara fotográfica**](https://es.wikipedi
 - Sensor fotográfico: se recoge la intensidad de luz y se procesa la imagen.
 
 {{< figure library="true" src="optica-2Bach-fisica/camara.svg" title="Diagrama de una cámara réflex de objetivo único. Adaptada de https://commons.wikimedia.org/wiki/File:Reflex_camera_simple_labels-es.svg." width="100%" lightbox="false" theme="light" >}}
+
+<iframe
+  src="./transporte-de-luz.html"
+  title="Simulador interactivo de transporte de luz"
+  loading="lazy"
+  style="display:block; width:100%; height:85vh; min-height:540px; border:0;"
+></iframe>
+
+<p>
+  <a href="./transporte-de-luz.html" target="_blank" rel="noopener">
+    Abrir el simulador en una pestaña nueva
+  </a>
+</p>

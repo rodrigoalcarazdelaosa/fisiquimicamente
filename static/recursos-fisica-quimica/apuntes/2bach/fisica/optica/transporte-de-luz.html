@@ -1,0 +1,1281 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Transporte de luz · Laboratorio de transferencia radiativa</title>
+<style>
+:root{color-scheme:light;--ink:#102737;--muted:#516671;--paper:#f1f5f5;--card:#fff;--border:#d7e2e4;--teal:#0b6e68;--mint:#8ff0d5;--navy:#102b3b;--orange:#a35121;--blue:#31649f;--purple:#775f98}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 "Instrument Sans","Avenir Next",system-ui,sans-serif}button,input,select{font:inherit;color:inherit}a{color:var(--teal)}button{cursor:pointer}button:disabled{cursor:default;opacity:.55}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #278c82;outline-offset:3px}
+header{background:var(--navy);color:#f5fafa;border-bottom:3px solid #4eb69d}.wrap{max-width:1450px;margin:auto;padding-inline:clamp(14px,3vw,46px)}.mast{padding-block:28px 22px;display:flex;align-items:center;justify-content:space-between;gap:24px}.mast h1{margin:0;font-size:clamp(32px,5vw,62px);letter-spacing:-.065em;line-height:1.05;font-weight:650}.mast p{margin:10px 0 0;color:#bfd2db}.mast small{color:var(--mint);white-space:nowrap;letter-spacing:.04em}.tabs{display:flex;gap:6px;flex-wrap:wrap}.tabs button{border:0;background:none;color:#bfd2db;border-bottom:3px solid transparent;padding:10px 15px;margin-bottom:-3px}.tabs button[aria-pressed=true]{color:white;border-color:var(--mint)}
+main{padding-block:22px 42px}.layout{display:grid;grid-template-columns:minmax(315px,355px) minmax(0,1fr);gap:19px;align-items:start}.card{background:var(--card);border:1px solid var(--border);border-radius:15px;padding:17px;min-width:0}.sidebar,.sidebar form{display:grid;gap:13px}.sidebar .card{padding:15px}.result{display:grid;gap:14px;min-width:0}h2,h3,p{margin:0}h2{font-size:20px;letter-spacing:-.025em}h3{font-size:15px}p+p{margin-top:9px}.muted,small{color:var(--muted)}small{font-size:12px}.stack{display:grid;gap:10px}.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.between{justify-content:space-between}.fields{display:grid;grid-template-columns:1fr 1fr;gap:9px}.fields.three{grid-template-columns:repeat(3,minmax(0,1fr))}label{display:grid;gap:3px;font-size:12px;color:var(--muted)}input[type=number],select{width:100%;background:#f8fafa;border:1px solid #bfcfd3;padding:6px 7px;border-radius:7px;min-height:35px}input[type=checkbox]{accent-color:var(--teal)}.check{display:flex;align-items:center;gap:6px}.layer{border:1px solid var(--border);background:#f7faf9;border-radius:10px;padding:9px;display:grid;gap:7px}.layer+.layer{margin-top:7px}.layers{display:grid}.btn{border:1px solid #c4d4d6;border-radius:8px;background:#fff;padding:7px 11px;font-size:13px;font-weight:650}.primary{background:var(--teal);color:#fff;border-color:var(--teal)}.run{display:grid;grid-template-columns:1fr auto;gap:7px}.run button{min-height:42px}.result-head{display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:8px}.status{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}.metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(105px,1fr));gap:12px}.metric{border-top:3px solid var(--series);padding-top:6px;min-width:0}.metric strong{display:block;font-size:clamp(20px,2.4vw,30px);letter-spacing:-.045em;font-variant-numeric:tabular-nums;line-height:1.22}.balance{height:8px;border-radius:5px;display:flex;overflow:hidden;background:var(--paper)}.balance span{height:100%}.charts{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:14px}.chart-head{min-height:43px}.chart-head p{font-size:12px;color:var(--muted)}canvas{width:100%;height:258px;display:block;touch-action:pan-y}.full canvas{height:300px}.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--muted)}.key{display:inline-flex;align-items:center;gap:5px}.key::before{content:"";width:16px;height:3px;background:var(--series);display:inline-block}.key.dashed::before{background:repeating-linear-gradient(90deg,var(--series) 0 4px,transparent 4px 7px)}.readout{font-size:12px;color:var(--muted);min-height:19px;font-variant-numeric:tabular-nums}.scale{height:8px;border-radius:5px;background:linear-gradient(90deg,#172947,#265b89,#208e94,#5dbc8f,#f6df87);margin-top:6px}.scalelabel{display:flex;justify-content:space-between}.notice{color:#83481b;font-size:13px}.comparison{max-width:1100px}.comparison section+section{margin-top:22px}.table-wrap{overflow:auto}table{border-collapse:collapse;width:100%;font-size:13px}td,th{text-align:left;padding:9px 7px;border-bottom:1px solid var(--border);vertical-align:top}th{color:var(--muted);font-weight:650}td.num{font-variant-numeric:tabular-nums;white-space:nowrap}.pass{color:#146348}.fail{color:#a22c28}.formula{font-family:Georgia,serif;font-size:17px;overflow-wrap:anywhere}.context{max-width:85ch}.context a{overflow-wrap:anywhere}[hidden]{display:none!important}
+@media(max-width:1080px){.charts{grid-template-columns:1fr}.chart-head{min-height:0}}
+@media(max-width:760px){.layout{grid-template-columns:1fr}.sidebar{grid-template-columns:1fr 1fr}.sidebar form{display:contents}.sidebar .runbox{grid-column:1/-1}.mast small{display:none}}
+@media(max-width:520px){.sidebar{grid-template-columns:1fr}.card{padding:13px}.mast{padding-top:23px}.tabs button{padding:8px 10px}.metrics{grid-template-columns:repeat(2,1fr)}}
+.swatches{display:grid;grid-template-columns:1fr 1fr;gap:14px}.swatch{height:68px;border-radius:9px;border:1px solid var(--border);margin:4px 0 8px}.runbox{position:sticky;bottom:9px;z-index:1;box-shadow:0 3px 16px #10273712}.parts{display:flex;flex-wrap:wrap;gap:5px 13px;font-size:13px}.model-controls{align-content:start}.model-controls input[type=range]{width:100%;accent-color:var(--teal)}.model-controls fieldset{margin:0;padding:8px;border:1px solid var(--border);border-radius:7px;min-width:0}.model-controls legend{font-size:12px;color:var(--muted)}.checks-card{max-width:1100px}.table-wrap:focus-visible{outline:2px solid var(--teal)}
+@media(max-width:760px){.runbox{position:static}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="mast"><div><h1>Transporte de luz</h1><p>Transferencia radiativa en losas estratificadas y bloques finitos</p></div><small>Óptica · Espacio, tiempo y espectro</small></div>
+    <nav class="tabs" aria-label="Secciones"><button type="button" data-page="sim" aria-pressed="true">Monte Carlo</button><button type="button" data-page="fluxes" aria-pressed="false">Dos y cuatro flujos</button><button type="button" data-page="spectral" aria-pressed="false">Espectro y color</button><button type="button" data-page="checks" aria-pressed="false">Validación</button><button type="button" data-page="methods" aria-pressed="false">Métodos y supuestos</button></nav>
+  </div>
+</header>
+<main class="wrap">
+<section id="sim" class="layout" aria-label="Simulador">
+  <aside class="sidebar">
+    <form id="controls">
+      <div class="card stack">
+        <div class="row between"><h2>Escenario</h2></div>
+        <label>Caso de partida<select id="preset"><option value="layered">Dos capas dispersivas</option><option value="absorption">Absorción pura</option><option value="diffusion">Régimen difusivo</option><option value="thin">Losa delgada</option><option value="block">Bloque con haz estrecho</option><option value="substrate">Losa sobre sustrato absorbente</option><option value="pulse">Pulso en dos recubrimientos (2019)</option><option value="custom">Configuración personalizada</option></select></label>
+        <label>Geometría<select id="geo"><option value="slab">Losa infinita lateralmente</option><option value="box">Bloque estratificado de base cuadrada</option></select></label>
+        <div class="fields"><label>Incidencia θ₀ (°)<input id="theta" type="number" min="0" max="89" step="any" required></label><label>Historias Monte Carlo<select id="count"><option value="5000">5 000</option><option value="20000">20 000</option><option value="80000">80 000</option><option value="250000">250 000</option></select></label></div>
+        <div class="fields" id="box-fields" hidden><label>Ancho de la base (cm)<input id="width" type="number" min="0.02" max="1000" step="any" required></label><label>Ancho del haz (cm)<input id="beam" type="number" min="0" max="1000" step="any" required></label></div>
+        <div class="fields"><label>Luz difusa incidente (%)<input id="diffuse" type="number" min="0" max="100" step="any" required></label><label>Ventana temporal (ps)<input id="timeMax" type="number" min="0.1" max="1e8" step="any" required></label></div>
+        <label>Semilla<input id="seed" type="number" min="0" max="4294967295" step="1" required></label>
+        <small id="source-note">Haz colimado uniforme en la cara de entrada.</small>
+      </div>
+      <div class="card stack">
+        <div class="row between"><h2>Capas</h2><button class="btn" type="button" id="add">Añadir capa</button></div>
+        <div id="layer-list"></div>
+        <small>μₐ y μₛ en cm⁻¹. g es el coseno medio de dispersión.</small>
+      </div>
+      <div class="card stack">
+        <h2>Interfaces</h2>
+        <div class="fields three"><label>n superior<input id="top" type="number" min="1" max="4" step="any" required></label><label>n inferior<input id="bottom" type="number" min="1" max="4" step="any" required></label><label id="side-label" hidden>n lateral<input id="side" type="number" min="1" max="4" step="any" required></label></div>
+        <label class="check"><input id="fresnel" type="checkbox"> Reflexión parcial de Fresnel</label>
+        <small>Snell y reflexión interna total se aplican en interfaces refractivas.</small>
+        <label class="check"><input id="substrate" type="checkbox"> Sustrato efectivo en la base</label>
+        <div class="fields" id="substrate-fields" hidden><label>R<sub>g</sub> (fracción)<input id="base-r" type="number" value="0.1" min="0" max="1" step="any" required></label><label>T<sub>g</sub> (fracción)<input id="base-t" type="number" value="0.1" min="0" max="1" step="any" required></label></div>
+        <small id="substrate-note" hidden>El sustrato sustituye la interfaz inferior. La reflexión de retorno es lambertiana y A<sub>g</sub> = 1 − R<sub>g</sub> − T<sub>g</sub>.</small>
+      </div>
+      <div class="card stack runbox">
+        <div class="run"><button id="run-sim" type="submit" class="btn primary">Simular</button><button type="button" class="btn" id="stop" disabled>Detener</button></div>
+        <small id="input-status" role="status"></small>
+      </div>
+    </form>
+  </aside>
+  <div class="result">
+    <div class="card stack">
+      <div class="result-head"><div><h2>Balance de energía</h2><p id="run-geometry" class="muted"></p></div><div id="status" class="status" role="status"></div></div>
+      <div id="metrics" class="metrics"></div>
+      <div id="balance" class="balance" aria-hidden="true"></div>
+      <small id="balance-note"></small>
+      <div id="components" class="parts"></div>
+      <details><summary>Absorción por capa</summary><div id="layer-abs" class="table-wrap"></div></details>
+      <div id="p1-summary" class="status" hidden></div>
+      <p id="residual" class="notice" hidden></p>
+    </div>
+    <div class="charts">
+      <section class="card stack"><div class="chart-head"><h3>Fluencia por profundidad</h3><p id="profile-note"></p></div><canvas id="profile" role="img" aria-label="Perfil de fluencia en función de la profundidad"></canvas><div class="row between"><div class="legend" id="profile-legend"></div><label class="check"><input id="profile-split" type="checkbox"> Separar directa y difusa</label></div></section>
+      <section class="card stack"><div class="chart-head"><h3>Energía saliente por ángulo</h3><p id="exit-note">Fracción incidente por grado. 0° apunta según la normal saliente.</p></div><canvas id="out-angle" role="img" aria-label="Distribución angular de energía por cara"></canvas><div class="row between"><div class="legend" id="exit-legend"></div><label class="check"><input id="scattered" type="checkbox"> Solo componente difusa</label></div></section>
+    </div>
+    <section class="card stack full">
+      <div class="result-head"><div><h3>Tiempo de vuelo</h3><p class="muted">Respuesta a un pulso ideal. Cada tramo aporta nℓ/c.</p></div><label>Salida<select id="time-face"><option value="0">Superior</option><option value="1" selected>Inferior</option><option value="2">Lateral</option></select></label></div>
+      <canvas id="tof" role="img" aria-label="Histograma temporal de la energía saliente"></canvas>
+      <div class="legend" id="time-legend"></div><small id="time-note"></small>
+    </section>
+    <section class="card stack full">
+      <div class="result-head"><div><h3 id="map-title">Fluencia angular interna</h3><p class="muted" id="map-note"></p></div><label id="map-choice" hidden>Vista<select id="map-mode"><option value="space">Mapa x–z</option><option value="angle">Mapa cos θz–z</option></select></label></div>
+      <canvas id="map" role="img" aria-label="Mapa de fluencia dentro del medio"></canvas>
+      <div><div class="scale"></div><small class="scalelabel"><span id="scale-min"></span><span id="scale-max"></span></small></div>
+      <div id="map-readout" class="readout"></div>
+    </section>
+  </div>
+</section>
+<section id="fluxes" class="layout" hidden aria-label="Modelos de flujo">
+  <div class="sidebar">
+    <form id="km-form" class="card stack model-controls">
+      <h2>Muestra y sustrato</h2>
+      <label>Modelo<select id="flux-model"><option value="km">Kubelka–Munk · dos flujos</option><option value="four">Cuatro flujos · normal y difusa</option></select></label>
+      <div id="km-controls" class="stack">
+        <label>Referencia de 2016<select id="km-preset"><option value="0">Sustrato casi transparente</option><option value="1">Sustrato casi negro</option><option value="custom">Configuración personalizada</option></select></label>
+        <label>Profundidad de dispersión SX<input id="km-sx" type="number" min="0.00001" max="1000" step="any" value="0.1" required></label>
+        <label id="km-ks-label">K/S <output id="km-ks-value"></output><input id="km-ks" type="range" min="-2" max="2" step="0.001" value="0" aria-label="Logaritmo decimal de K/S"></label>
+        <div class="fields"><label>R<sub>g</sub><input id="km-r" type="number" min="0" max="1" step="any" value="0.1" required></label><label>T<sub>g</sub><input id="km-t" type="number" min="0" max="1" step="any" value="0.8" required></label></div>
+      </div>
+      <div id="ff-controls" class="stack" hidden>
+        <div class="fields"><label>μₐ (cm⁻¹)<input id="ff-a" type="number" min="0" max="500" step="any" value="0.8" required></label><label>μₛ (cm⁻¹)<input id="ff-s" type="number" min="0" max="500" step="any" value="2" required></label></div>
+        <div class="fields"><label>Espesor (cm)<input id="ff-d" type="number" min="0.001" max="1000" step="any" value="1" required></label><label>Luz colimada (%)<input id="ff-f" type="number" min="0" max="100" step="any" value="50" required></label></div>
+        <div class="fields"><label>n exterior<input id="ff-n1" type="number" min="1" max="4" step="any" value="1" required></label><label>n de la muestra<input id="ff-n2" type="number" min="1" max="4" step="any" value="1.5" required></label></div>
+        <div class="fields three"><label>Camino ξ<input id="ff-xi" type="number" min="1" max="10" step="any" value="2" required></label><label>σ<sub>c</sub><input id="ff-sc" type="number" min="0" max="1" step="any" value="0.5" required></label><label>σ<sub>d</sub><input id="ff-sd" type="number" min="0" max="1" step="any" value="0.5" required></label></div>
+        <fieldset class="fields"><legend>Sustrato para luz colimada</legend><label>R<sub>g,c</sub><input id="ff-rc" type="number" min="0" max="1" step="any" value="0.1" required></label><label>T<sub>g,c</sub><input id="ff-tc" type="number" min="0" max="1" step="any" value="0.1" required></label></fieldset>
+        <fieldset class="fields"><legend>Sustrato para luz difusa</legend><label>R<sub>g,d</sub><input id="ff-rd" type="number" min="0" max="1" step="any" value="0.1" required></label><label>T<sub>g,d</sub><input id="ff-td" type="number" min="0" max="1" step="any" value="0.1" required></label></fieldset>
+      </div>
+      <p class="notice" id="flux-error" role="status" hidden></p>
+    </form>
+  </div>
+  <div class="result">
+    <section class="card stack">
+      <div><h2 id="flux-title">Reparto de absorción</h2><p class="muted" id="flux-subtitle"></p></div>
+      <div id="flux-metrics" class="metrics"></div><div id="flux-parts" class="parts"></div>
+    </section>
+    <section class="card stack full"><h3 id="flux-chart-title">Absorción frente a K/S</h3>
+      <canvas id="flux-chart" role="img" aria-label="Balance de energía del modelo de flujos"></canvas>
+      <div id="flux-legend" class="legend"></div><small id="flux-chart-note"></small>
+    </section>
+    <div class="card stack context">
+      <p id="flux-description"></p>
+      <p><a href="https://doi.org/10.1364/JOSAA.33.002053" target="_blank" rel="noopener">Alcaraz de la Osa et al. (2016)</a> · <a href="https://doi.org/10.1364/JOSAA.36.000292" target="_blank" rel="noopener">De la Hoz et al. (2019)</a></p>
+    </div>
+  </div>
+</section>
+<section id="spectral" class="layout" hidden aria-label="Espectro y color">
+  <div class="sidebar"><form id="spectral-form" class="card stack model-controls">
+    <h2>Espectro</h2>
+    <label>Datos<select id="spectral-source"><option value="mie">Coloide de oro en agua</option><option value="archive1">Archivo RTA · paso de 1 nm</option><option value="archive0">Archivo RTA · paso de 5 nm</option></select></label>
+    <div id="mie-controls" class="stack">
+      <label>Radio de esfera (nm)<select id="mie-radius"></select></label>
+      <div class="fields"><label>Fracción en volumen (ppm)<input id="mie-fraction" type="number" min="0.001" max="100" step="any" value="1" required></label><label>Espesor (cm)<input id="mie-depth" type="number" min="0.005" max="100" step="any" value="1" required></label></div>
+    </div>
+    <div class="fields"><label>Iluminante<select id="illuminant"><option>D65</option><option>A</option></select></label><label>Observador<select id="observer"><option value="2">CIE 1931 · 2°</option><option value="10">CIE 1964 · 10°</option></select></label></div>
+    <label>Longitud de onda (nm)<input id="spectral-wavelength" type="range" min="380" max="780" step="5" value="550"></label>
+    <div class="stack" id="mie-transfer"><button type="button" class="btn" id="apply-mie">Simular esta longitud de onda</button><small>Abre el motor angular con μₐ, μₛ y g obtenidos de las secciones eficaces de Mie. El haz entra en una muestra con índices igualados.</small></div>
+  </form></div>
+  <div class="result">
+    <section class="card stack full"><div><h2>Reflectancia, transmitancia y absorción</h2><p id="spectral-value" class="muted"></p></div>
+      <canvas id="spectral-chart" role="img" aria-label="Fracciones de energía según la longitud de onda"></canvas>
+      <div class="legend" id="spectral-legend"></div><small id="spectral-note"></small>
+    </section>
+    <section class="card stack"><h3>Color en reflexión y transmisión</h3><div class="swatches" id="color-cards"></div>
+      <small>CIELAB usa el blanco del iluminante elegido. La previsualización se adapta a D65 para sRGB y recorta colores fuera de gama.</small>
+    </section>
+    <div class="card stack context">
+      <p>El coloide usa secciones eficaces de Mie precalculadas para esferas de oro en agua (n = 1,33), con dispersión independiente. El espectro rápido usa la parametrización Kubelka–Munk del archivo, K = 2μₐ y S = ¾μₛ(1 − g), con contornos igualados. El simulador angular usa μₐ y μₛ directamente. El índice del oro procede del conjunto Babar archivado.</p>
+      <p><a href="https://doi.org/10.1007/s40828-019-0097-0" target="_blank" rel="noopener">Alcaraz de la Osa et al., ChemTexts (2020)</a></p>
+    </div>
+  </div>
+</section>
+
+<section id="checks" class="card comparison" hidden aria-label="Validación">
+  <div class="row between"><h2>Pruebas de referencia</h2><button id="verify" class="btn primary" type="button">Ejecutar pruebas</button></div>
+  <p class="muted">Los casos de Monte Carlo usan 80 000 historias con semilla fija. La tolerancia es el mayor valor entre 5 errores estándar y 0,2 puntos porcentuales. Las pruebas deterministas usan tolerancias específicas.</p>
+  <p id="check-status" class="status" role="status"></p>
+  <div class="table-wrap"><table><thead><tr><th>Caso</th><th>Magnitud</th><th>Referencia</th><th>Cálculo</th><th>Error abs.</th><th>Resultado</th></tr></thead><tbody id="check-rows"></tbody></table></div>
+  <p><small>B es la transmisión por la cara inferior del haz colimado sin dispersión. En el caso conservativo se verifica A = 0 y R + T = 1. Las referencias balísticas prueban atenuación, rebotes y geometría. La prueba conservativa verifica el balance energético.</small></p>
+</section>
+<section id="methods" class="card comparison context" hidden aria-label="Métodos y supuestos">
+  <section class="stack"><h2>Modelo de transporte</h2>
+    <p>Cada simulación de Monte Carlo usa luz monocromática y escalar, sin emisión y con dispersión elástica. La tasa de fluencia corresponde al régimen estacionario. Cada capa es homogénea. El haz entra por z = 0 y, si es oblicuo, se inclina hacia +x. En el bloque el haz tiene una sección cuadrada uniforme sobre la cara superior, centrada en x = y = 0. Un ancho cero representa un haz puntual.</p>
+    <p class="formula">Ω · ∇L + (μₐ + μₛ)L = μₛ ∫₄π p(Ω′ · Ω)L(Ω′) dΩ′</p>
+    <p>L es la radiancia. La fluencia en las gráficas es la tasa de fluencia Φ = ∫₄π L dΩ normalizada por la irradiancia incidente en la losa o por la potencia incidente en el bloque. El mapa x–z promedia sobre todo el ancho en y. El mapa angular interno integra el azimut y muestra dΦ/d cos θz, con θz medido desde +z. Las distribuciones salientes integran azimut y superficie. Sus áreas dan las fracciones de energía por cara.</p>
+    <p>Monte Carlo muestrea tramos exponenciales con tasa μₛ y direcciones de Henyey–Greenstein. El peso decae como exp(−μₐs) a lo largo de cada tramo. La fluencia se estima integrando ese peso dentro de cada celda. Las interfaces refractivas son planas y especulares. Se usa la reflectancia de Fresnel promediada en polarización en cada encuentro. El modelo omite la coherencia, la evolución de la polarización y la rugosidad. <a href="https://omlc.org/software/mc/mcml/" target="_blank" rel="noopener">Wang, Jacques y Zheng</a> · <a href="https://articles.adsabs.harvard.edu/pdf/1941ApJ....93...70H" target="_blank" rel="noopener">Henyey y Greenstein</a></p>
+  </section>
+  <section class="stack"><h2>Comparación de métodos</h2>
+    <div class="table-wrap"><table><thead><tr><th>Método</th><th>Qué resuelve bien</th><th>Límite práctico</th></tr></thead><tbody>
+    <tr><td>Analítico / características</td><td>Atenuación balística y trayectorias especulares en medios simples.</td><td>La dispersión múltiple general exige resolver el acoplamiento angular.</td></tr>
+    <tr><td>Kubelka–Munk / cuatro flujos</td><td>Losa plana y balance por hemisferio. Cuatro flujos separa componentes colimadas y difusas.</td><td>Los flujos integrados requieren cierres para caminos medios, dispersión angular y condiciones de contorno.</td></tr><tr><td>Difusión / P1</td><td>Fluencia y flujo neto cuando la dispersión ha casi isotropizado la radiancia.</td><td>El haz directo, las capas delgadas y las regiones próximas a interfaces requieren tratamiento de transporte.</td></tr>
+    <tr><td>Ordenadas discretas (Sₙ)</td><td>Radiancia angular determinista. DISORT es una referencia para estratificación plana.</td><td>Hay que comprobar la convergencia angular y espacial, sobre todo con haces estrechos o dispersión hacia delante.</td></tr>
+    <tr><td>Adición y duplicación</td><td>Reflexión y transmisión de capas planas, componiendo operadores angulares de subcapas.</td><td>La discretización angular y la geometría plano-paralela condicionan el resultado.</td></tr>
+    <tr><td>Monte Carlo</td><td>Geometrías finitas, múltiples interfaces y distribución espacial o angular.</td><td>Ruido en celdas con pocas historias. El error estándar decrece como N⁻¹ᐟ² a varianza fija.</td></tr>
+    </tbody></table></div>
+    <p><a href="https://doi.org/10.1364/AO.27.002502" target="_blank" rel="noopener">Stamnes et al., DISORT</a> · <a href="https://omlc.org/~prahl/pubs/abs/prahl93a.html" target="_blank" rel="noopener">Prahl et al., adición y duplicación</a> · <a href="https://arxiv.org/abs/2110.15775" target="_blank" rel="noopener">Límites de P1 en losas</a></p>
+  </section>
+  <section class="stack"><h2>Validez e incertidumbre</h2>
+    <p>La superposición P1 está disponible para incidencia colimada y una sola capa con g = 0 e índices igualados, sin sustrato efectivo. Separa el haz balístico de la fluencia difusa. Para esta última resuelve −DΦ″ + μₐΦ = μₛΦ<sub>bal</sub> con D = 1/[3(μₐ + μₛ)] y condición de corriente parcial Φ + 2D∂<sub>n</sub>Φ = 0. Para dispersión anisótropa, la estimación habitual de escala usa μₛ′ = μₛ(1 − g). P1 suele funcionar mejor cuando μₐ ≪ μₛ′ y a varias longitudes de transporte 1/(μₐ + μₛ′) de fuentes e interfaces. La curva de la herramienta incluye la contribución balística. <a href="https://escholarship.org/uc/item/6b0567k2" target="_blank" rel="noopener">Haskell et al., condiciones de contorno</a></p>
+    <p>Para incidencia difusa se muestrea una radiancia lambertiana en la cara de entrada. La categoría difusa incluye la luz que ya llega difusa y la luz redirigida por dispersión en el volumen o por el sustrato lambertiano. El histograma temporal acumula el peso de salida por intervalo. Supone medios sin dispersión cromática de velocidad y un sustrato efectivo de respuesta instantánea. El ángulo tras el sustrato efectivo queda indeterminado.</p>
+    <p>Las barras ± indican un error estándar estimado por historia para las fracciones integradas. Los mapas muestran medias por celda. El extremo inferior de su escala logarítmica está cuatro décadas por debajo del máximo de cada cálculo. Los ceros aparecen en gris. Para interpretar rasgos débiles, aumenta el número de historias y comprueba si persisten con otra semilla.</p>
+    <p>Las historias se cortan a 8 000 eventos o cuando el peso cae por debajo de 10⁻¹¹. El balance muestra el peso restante como «Residual». Una fracción residual apreciable limita la interpretación, aunque el balance total cierre.</p>
+  </section>
+  <section class="stack"><h2>Referencias analíticas de validación</h2>
+    <p>Para índices iguales y sin dispersión, T = exp[−Σ μₐᵢ dᵢ / cos θ₀], R = 0 y A = 1 − T. Dentro de cada celda se compara con el promedio de la fluencia balística. Para el haz no dispersado con μₛ &gt; 0 se usa μₐ + μₛ en la exponencial.</p>
+    <p>En una losa sin dispersión, con incidencia normal y el mismo índice exterior a ambos lados, r es la reflectancia de una interfaz y b = exp(−μₐd). La suma de rebotes da T = (1 − r)²b/(1 − r²b²) y R = r + (1 − r)²rb²/(1 − r²b²). Las otras pruebas trazan un camino de longitud conocida con escape lateral o reflexión interna total.</p>
+  </section>
+</section>
+</main>
+<script id="solver">
+const clamp = (x, a, b) => Math.max(a, Math.min(b, x));
+const nz = 64, nx = 52, nm = 48, na = 30;
+const rad = Math.PI / 180;
+const fields = ['R','T','A','L','B','U','Rc','Rd','Tc','Td','Ag'];
+const cCmPs = 0.0299792458;
+const nt = 200;
+
+function lambert(rng, sign = 1) {
+  const c = Math.sqrt(rng());
+  const s = Math.sqrt(1-c*c);
+  const phi = 2*Math.PI*rng();
+  return [s*Math.cos(phi), s*Math.sin(phi), sign*c];
+}
+
+function random(seed) {
+  return () => {
+    seed = (seed + 0x6D2B79F5) | 0;
+    let v = Math.imul(seed ^ (seed >>> 15), seed | 1);
+    v ^= v + Math.imul(v ^ (v >>> 7), v | 61);
+    return ((v ^ (v >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function fresnel(c, n1, n2, enabled) {
+  const eta = n1 / n2;
+  const sin2 = eta * eta * Math.max(0, 1 - c * c);
+  if (n1 === n2) return [0, c, 1];
+  if (sin2 >= 1) return [1, 0, eta];
+  const t = Math.sqrt(1 - sin2);
+  const rs = (n1 * c - n2 * t) / (n1 * c + n2 * t);
+  const rp = (n2 * c - n1 * t) / (n2 * c + n1 * t);
+  return [enabled ? (rs * rs + rp * rp) / 2 : 0, t, eta];
+}
+
+function scatter(u, g, rng) {
+  const q = rng();
+  const c = Math.abs(g) < 1e-7 ? 2 * q - 1 :
+    clamp((1 + g * g - ((1 - g * g) / (1 - g + 2 * g * q)) ** 2) / (2 * g), -1, 1);
+  const phi = 2 * Math.PI * rng();
+  const s = Math.sqrt(1 - c * c);
+  const [x, y, z] = u;
+  const p = Math.hypot(x, y);
+  const a = s * Math.cos(phi), b = s * Math.sin(phi);
+  const v = p > 1e-12
+    ? [c*x + (a*x*z - b*y)/p, c*y + (a*y*z + b*x)/p, c*z - a*p]
+    : [a, b, Math.sign(z) * c];
+  const norm = Math.hypot(...v);
+  return v.map(component => component / norm);
+}
+
+function experiment(p) {
+  const box = p.geo === 'box';
+  const substrate = p.substrate;
+  const timeMax = p.timeMax ?? 1000;
+  const time = Array.from({length: 6}, () => new Float64Array(nt));
+  const late = new Float64Array(6);
+  const layerAbs = new Float64Array(p.layers.length);
+  const layerAbs2 = new Float64Array(p.layers.length);
+  const absorbed = new Float64Array(p.layers.length);
+  const half = p.width / 2;
+  const dx = p.width / nx;
+  const z = [0], edges = [0], offsets = [];
+  const depth = p.layers.reduce((sum, layer) => sum + layer.d, 0);
+  const dz = [];
+  for (const m of p.layers) {
+    const count = Math.max(3, Math.round(nz * m.d / depth));
+    offsets.push(edges.length - 1);
+    dz.push(m.d / count);
+    const start = z.at(-1);
+    for (let i = 1; i <= count; i++) edges.push(start + m.d * i / count);
+    z.push(edges.at(-1));
+  }
+  const rows = edges.length - 1;
+  const f = new Float64Array(rows), direct = new Float64Array(rows), direction = new Float64Array(rows * nm);
+  const spatial = new Float64Array(box ? rows * nx : 0);
+  const angle = Array.from({length: 3}, () => new Float64Array(na));
+  const angleScattered = Array.from({length: 3}, () => new Float64Array(na));
+  const sums = Object.fromEntries(fields.map(key => [key, 0]));
+  const squares = {...sums};
+  let n = 0;
+  const rng = random(p.seed);
+  const incoming = Math.cos(p.theta * rad);
+  const [entryR, entryZ, ratio] = fresnel(incoming, p.top, p.layers[0].n, p.fresnel);
+  const entryX = ratio * Math.sin(p.theta * rad);
+
+  function tallyExit(face, cos, weight, scattered, tof) {
+    const series = 2*face + Number(scattered);
+    const tbin = Math.floor(tof/timeMax*nt);
+    if (tbin < nt) time[series][tbin] += weight;
+    else late[series] += weight;
+    if (cos === null) return;
+    const bin = clamp(Math.floor(Math.acos(clamp(cos, 0, 1)) / (Math.PI / 2) * na), 0, na-1);
+    angle[face][bin] += weight;
+    if (scattered) angleScattered[face][bin] += weight;
+  }
+
+  function track(pos, u, length, layer, w, diffuse) {
+    const m = p.layers[layer];
+    const base = offsets[layer];
+    const last = (offsets[layer + 1] ?? rows) - 1;
+    const dir = clamp(Math.floor((u[2] + 1) / 2 * nm), 0, nm-1);
+    let j = clamp(base + Math.floor((pos[2] - z[layer]) / dz[layer]), base, last);
+    let i = clamp(Math.floor((pos[0] + half) / dx), 0, nx-1);
+    let walked = 0;
+    while (walked < length) {
+      const nextZ = u[2] > 0 && j < last ? (edges[j+1] - pos[2]) / u[2] :
+        u[2] < 0 && j > base ? (edges[j] - pos[2]) / u[2] : Infinity;
+      const nextX = box && u[0] > 0 && i < nx-1 ? ((i+1)*dx-half-pos[0])/u[0] :
+        box && u[0] < 0 && i > 0 ? (i*dx-half-pos[0])/u[0] : Infinity;
+      const end = Math.max(walked, Math.min(length, nextX, nextZ));
+      const segment = end - walked;
+      const loss = -Math.expm1(-m.a * segment);
+      const integral = w * (m.a ? loss / m.a : segment);
+      f[j] += integral;
+      if (!diffuse) direct[j] += integral;
+      direction[j*nm + dir] += integral;
+      if (box) spatial[j*nx + i] += integral;
+      w *= 1 - loss;
+      walked = end;
+      if (end >= length) break;
+      if (nextZ <= end) j += Math.sign(u[2]);
+      if (nextX <= end) i += Math.sign(u[0]);
+    }
+    return w;
+  }
+
+  function run(count) {
+    for (let k = 0; k < count; k++) {
+      let scattered = p.diffuse > 0 && rng() < p.diffuse;
+      let reflected = entryR, cosEntry = incoming, u = [entryX, 0, entryZ];
+      if (scattered) {
+        const ray = lambert(rng);
+        cosEntry = ray[2];
+        const [r, ct, eta] = fresnel(cosEntry, p.top, p.layers[0].n, p.fresnel);
+        reflected = r;
+        u = [ray[0]*eta, ray[1]*eta, ct];
+      }
+      const out = {R:reflected,T:0,A:0,L:0,B:0,U:0,Rc:scattered ? 0 : reflected,
+        Rd:scattered ? reflected : 0,Tc:0,Td:0,Ag:0};
+      tallyExit(0, cosEntry, reflected, scattered, 0);
+      absorbed.fill(0);
+      let w = 1 - reflected, layer = 0, tof = 0;
+      const pos = box ? [p.beam * (rng() - 0.5), p.beam * (rng() - 0.5), 0] : [0,0,0];
+      for (let event = 0; event < 8000 && w > 1e-11; event++) {
+        const m = p.layers[layer];
+        const next = layer + (u[2] > 0 ? 1 : -1);
+        let axis = 2;
+        let plane = u[2] > 0 ? z[layer+1] : z[layer];
+        let distance = u[2] ? Math.max(0, (plane - pos[2])/u[2]) : Infinity;
+        if (box) for (let a = 0; a < 2; a++) {
+          if (!u[a]) continue;
+          const wall = Math.sign(u[a]) * half;
+          const d = Math.max(0, (wall - pos[a])/u[a]);
+          if (d < distance) {
+            axis = a; distance = d; plane = wall;
+          }
+        }
+        const flight = m.s ? -Math.log(1-rng()) / m.s : Infinity;
+        const length = Math.min(distance, flight);
+        if (!Number.isFinite(length)) {
+          if (m.a > 0) {
+            out.A += w;
+            absorbed[layer] += w;
+          } else out.U += w;
+          w = 0;
+          break;
+        }
+        const after = track(pos, u, length, layer, w, scattered);
+        out.A += w - after;
+        absorbed[layer] += w - after;
+        w = after;
+        tof += m.n * length / cCmPs;
+        for (let a = 0; a < 3; a++) pos[a] += length * u[a];
+        if (flight < distance) {
+          u = scatter(u, m.g, rng);
+          scattered = true;
+          continue;
+        }
+        pos[axis] = plane;
+        const side = axis !== 2;
+        if (!side && next >= p.layers.length && substrate) {
+          const q = rng();
+          if (q < substrate.r) {
+            u = lambert(rng, -1);
+            scattered = true;
+            continue;
+          }
+          if (q < substrate.r + substrate.t) {
+            out.T += w;
+            out[scattered ? 'Td' : 'Tc'] += w;
+            tallyExit(1, null, w, scattered, tof);
+          } else {
+            out.A += w;
+            out.Ag += w;
+          }
+          w = 0;
+          break;
+        }
+        const target = side ? p.side : next < 0 ? p.top : next >= p.layers.length ? p.bottom : p.layers[next].n;
+        const [r, ct, eta] = fresnel(Math.abs(u[axis]), m.n, target, p.fresnel);
+        if (r >= 1 || (r > 0 && rng() < r)) {
+          u[axis] *= -1;
+          continue;
+        }
+        if (side || next < 0 || next >= p.layers.length) {
+          const face = side ? 2 : next < 0 ? 0 : 1;
+          out[['R', 'T', 'L'][face]] += w;
+          tallyExit(face, ct, w, scattered, tof);
+          if (face === 0) out[scattered ? 'Rd' : 'Rc'] += w;
+          if (face === 1) {
+            out[scattered ? 'Td' : 'Tc'] += w;
+            if (!scattered) out.B += w;
+          }
+          w = 0;
+          break;
+        }
+        const normal = Math.sign(u[axis]) * ct;
+        u = u.map((component, a) => a === axis ? normal : eta * component);
+        layer = next;
+      }
+      out.U += w;
+      for (let i = 0; i < absorbed.length; i++) {
+        layerAbs[i] += absorbed[i];
+        layerAbs2[i] += absorbed[i] ** 2;
+      }
+      for (const key of fields) {
+        sums[key] += out[key];
+        squares[key] += out[key] ** 2;
+      }
+      n++;
+    }
+  }
+
+  function results() {
+    function estimate(sum, square) {
+      const mean = sum / n;
+      return {mean,se:Math.sqrt(Math.max(0, square/n - mean*mean) / Math.max(1,n-1))};
+    }
+    const stats = Object.fromEntries(fields.map(key => [key, estimate(sums[key],squares[key])]));
+    const volume = j => (edges[j+1] - edges[j]) * (box ? p.width ** 2 : 1);
+    return {p, n, depth, edges, z, stats, timeMax, late:late.map(v => v/n),
+      time:time.map(a => a.map(v => v/n)),
+      absorption:Array.from(layerAbs,(v,i) => estimate(v,layerAbs2[i])),
+      direct:direct.map((val,j) => val / (n * volume(j))),
+      profile: f.map((val,j) => val / (n * volume(j))),
+      direction: direction.map((val,i) => val / (n * volume(Math.floor(i / nm)) * (2/nm))),
+      spatial: spatial.map((val,i) => val / (n * volume(Math.floor(i / nx)) / nx)),
+      angle: angle.map(a => a.map(val => val / (n * 90 / na))),
+      angleScattered: angleScattered.map(a => a.map(val => val / (n * 90 / na)))};
+  }
+  return {run, results};
+}
+
+function p1(result) {
+  const {p, edges, depth} = result;
+  const m = p.layers[0];
+  if (p.substrate || p.diffuse || p.geo !== 'slab' || p.layers.length !== 1 || m.g !== 0 || !m.s || p.top !== m.n || p.bottom !== m.n) return null;
+  const c = Math.cos(p.theta * rad), mt = m.a + m.s;
+  const D = 1 / (3 * mt), k = mt / c;
+  const N = 1024, h = depth / N, coupling = D / h, boundary = D / (2*D + h/2);
+  const upper = new Float64Array(N), phi = new Float64Array(N);
+  const sourceFactor = m.s / mt * -Math.expm1(-k*h);
+  for (let i = 0; i < N; i++) {
+    const lower = i ? -coupling : 0;
+    const right = i < N-1 ? -coupling : 0;
+    const diagonal = m.a*h - lower - right + (i === 0 || i === N-1 ? boundary : 0);
+    const denom = diagonal - (i ? lower * upper[i-1] : 0);
+    upper[i] = right / denom;
+    phi[i] = (sourceFactor * Math.exp(-k*i*h) - (i ? lower * phi[i-1] : 0)) / denom;
+  }
+  for (let i = N-2; i >= 0; i--) phi[i] -= upper[i] * phi[i+1];
+  const R = boundary*phi[0], T = boundary*phi[N-1] + Math.exp(-k*depth);
+  const A = m.a * (phi.reduce((a,b) => a+b, 0)*h - Math.expm1(-k*depth)/mt);
+  const profile = edges.slice(1).map((b,i) => {
+    const a = edges[i];
+    let total = Math.exp(-k*a) * -Math.expm1(-k*(b-a)) / mt;
+    for (let j = Math.floor(a/h); j < N && j*h < b; j++) {
+      total += phi[j] * Math.max(0, Math.min(b,(j+1)*h) - Math.max(a,j*h));
+    }
+    return total / (b-a);
+  });
+  return {R, T, A, profile};
+}
+
+function beerProfile(result) {
+  const {p, edges, z} = result;
+  if (p.substrate || p.diffuse || p.geo !== 'slab' || p.layers.some(m => m.n !== p.top || m.s) || p.bottom !== p.top) return null;
+  const c = Math.cos(p.theta * rad);
+  let atten = 1, layer = 0;
+  return edges.slice(1).map((b, i) => {
+    if (edges[i] >= z[layer+1]) layer++;
+    const a = p.layers[layer].a, width = b - edges[i];
+    const x = a*width/c;
+    const value = atten / c * (x ? -Math.expm1(-x)/x : 1);
+    atten *= Math.exp(-x);
+    return value;
+  });
+}
+
+const defaults = {geo:'slab', width:8, beam:1.5, theta:0, top:1, bottom:1, side:1,
+  fresnel:true, diffuse:0, timeMax:2500, substrate:null, seed:12345, count:20000, layers:[{d:4,a:0.08,s:3,g:0.8,n:1.37},{d:6,a:0.18,s:2,g:0.5,n:1.42}]};
+
+function benchmarks() {
+  const equal = {...defaults, layers:[{d:3,a:0.3,s:0,g:0,n:1}]};
+  const multi = {...equal, theta:37, layers:[equal.layers[0],{d:1.5,a:0.14,s:0,g:0,n:1}]};
+  const t1 = Math.exp(-(0.3*3+0.14*1.5)/Math.cos(37*rad));
+  const r = ((1.5-1)/(1.5+1))**2, b = Math.exp(-0.25*2);
+  const t2 = (1-r)**2*b/(1-r*r*b*b);
+  const r2 = r+(1-r)**2*r*b*b/(1-r*r*b*b);
+  const t3 = Math.exp(-(0.07+0.65)*2);
+  const sub = {...equal,substrate:{r:0,t:0.7}};
+  const bSub = Math.exp(-0.9);
+  return [
+    {name:'Sustrato con Rg = 0 (Beer–Lambert)',p:sub,ref:{T:0.7*bSub,Ag:0.3*bSub,A:1-0.7*bSub}},
+    {name:'Tiempo de vuelo por longitud óptica',p:{...equal,top:1.5,bottom:1.5,timeMax:1000,layers:[{d:3,a:0,s:0,g:0,n:1.5}]},
+      ref:{T:1},time:4.5/cCmPs},
+    {name:'Beer–Lambert, 2 capas a 37°', p:multi, ref:{R:0,T:t1,A:1-t1}, profile:true},
+    {name:'Fresnel y rebotes incoherentes', p:{...equal,layers:[{d:2,a:0.25,s:0,g:0,n:1.5}]}, ref:{R:r2,T:t2,A:1-r2-t2}},
+    {name:'Transmisión sin dispersión (g = 0,75)', p:{...equal,layers:[{d:2,a:0.07,s:0.65,g:0.75,n:1}]}, ref:{B:t3}},
+    {name:'Dispersión conservativa', p:{...equal,layers:[{d:3,a:0,s:2,g:0,n:1}]}, ref:{A:0}, conservative:true},
+    {name:'Escape lateral en un bloque', p:{...equal,geo:'box',width:2,beam:0,theta:45,layers:[{d:3,a:0.3,s:0,g:0,n:1}]},
+      ref:{R:0,T:0,L:Math.exp(-0.3*Math.SQRT2),A:1-Math.exp(-0.3*Math.SQRT2)}},
+    {name:'Reflexión interna total a 50°', p:{...equal,top:1.5,theta:50,layers:[{d:2,a:0.2,s:0,g:0,n:1.5}]},
+      ref:{R:Math.exp(-0.8/Math.cos(50*rad)),T:0,A:1-Math.exp(-0.8/Math.cos(50*rad))}}
+  ];
+}
+
+// Symmetric two-flux slab, terminated by a substrate of known R and T.
+function kubelka(k, s, d, rg, tg) {
+  const lambda = Math.sqrt(k*(k+2*s));
+  let r, t;
+  if (lambda === 0) {
+    t = 1/(1+s*d);
+    r = s*d*t;
+  } else {
+    const twice = -Math.expm1(-2*lambda*d);
+    const den = 2*lambda + (k+s-lambda)*twice;
+    r = s*twice/den;
+    t = 2*lambda*Math.exp(-lambda*d)/den;
+  }
+  const inner = t/(1-r*rg);
+  const R = r+t*rg*inner, T = tg*inner, Ag = Math.max(0,1-rg-tg)*inner;
+  return {R,T,Ag,Af:Math.max(0,1-R-T-Ag)};
+}
+
+const eye2 = [1,0,0,1];
+const matAdd = (a,b) => a.map((v,i) => v+b[i]);
+const matNeg = a => a.map(v => -v);
+const mat2 = ([a,b,c,d],[e,f,g,h]) => [a*e+b*g,a*f+b*h,c*e+d*g,c*f+d*h];
+const inv2 = ([a,b,c,d]) => [d,-b,-c,a].map(v => v/(a*d-b*c));
+const diag2 = (a,b) => [a,0,0,b];
+const apply2 = ([a,b,c,d],[x,y]) => [a*x+b*y,c*x+d*y];
+
+function joinFlux(left,right) {
+  // Close the feedback loop between the two internal faces.
+  const forward = inv2(matAdd(eye2,matNeg(mat2(left.rb,right.rt))));
+  const x = mat2(forward,left.td);
+  const y = mat2(mat2(forward,left.rb),right.tu);
+  const back = matAdd(right.tu,mat2(right.rt,y));
+  return {
+    rt:matAdd(left.rt,mat2(mat2(left.tu,right.rt),x)),
+    td:mat2(right.td,x),
+    tu:mat2(left.tu,back),
+    rb:matAdd(right.rb,mat2(right.td,y))
+  };
+}
+
+function fluxSlab(a,s,d,xi,sc,sd) {
+  const mt = a+s, scatterBack = xi*(1-sd)*s, loss = xi*a+scatterBack;
+  const generator = [-mt,0,0,0, sc*s,-loss,(1-sc)*s,scatterBack,
+    0,0,mt,0, -(1-sc)*s,-scatterBack,-sc*s,loss];
+  const doubles = Math.max(0,Math.ceil(Math.log2(d*mt*(xi+1)/0.125)));
+  const step = d/2**doubles;
+  const identity = Array.from({length:16},(_,i) => i%5 === 0 ? 1 : 0);
+  const scaled = generator.map(v => v*step);
+  let term = identity, exponential = identity;
+  for (let n=1;n<=13;n++) {
+    term = term.map((_,i) => {
+      let sum = 0;
+      for (let j=0;j<4;j++) sum += term[i-i%4+j]*scaled[4*j+i%4];
+      return sum/n;
+    });
+    exponential = matAdd(exponential,term);
+  }
+  const A = [0,1,4,5].map(i => exponential[i]), B = [2,3,6,7].map(i => exponential[i]);
+  const C = [8,9,12,13].map(i => exponential[i]), D = [10,11,14,15].map(i => exponential[i]);
+  const tu = inv2(D);
+  const rt = matNeg(mat2(tu,C));
+  let scatter = {rt,tu,td:matAdd(A,mat2(B,rt)),rb:mat2(B,tu)};
+  for (let n=0;n<doubles;n++) {
+    scatter = joinFlux(scatter,scatter);
+    if (a === 0) {
+      // Preserve the conservative column sums through repeated feedback.
+      for (const [r,t] of [[scatter.rt,scatter.td],[scatter.rb,scatter.tu]]) {
+        r[2] = Math.max(0,1-r[0]-t[0]-t[2]);
+        r[3] = Math.max(0,1-r[1]-t[1]-t[3]);
+      }
+    }
+  }
+  return scatter;
+}
+
+function hemisphericFresnel(n1,n2) {
+  if (n1 === n2) return 0;
+  const critical2 = Math.max(0,1-(n2/n1)**2);
+  const n = 1024;
+  let r = 0;
+  for (let i=0;i<n;i++) r += fresnel(Math.sqrt(critical2+(1-critical2)*(i+0.5)/n),n1,n2,true)[0];
+  return critical2+(1-critical2)*r/n;
+}
+
+function fourFlux({a,s,d,xi,sc,sd,f,n1,n2,rc,tc,rd,td}) {
+  const topR = fresnel(1,n1,n2,true)[0];
+  const from = diag2(topR,hemisphericFresnel(n1,n2));
+  const to = diag2(topR,hemisphericFresnel(n2,n1));
+  const film = joinFlux({rt:from,rb:to,td:matAdd(eye2,matNeg(from)),tu:matAdd(eye2,matNeg(to))},
+    fluxSlab(a,s,d,xi,sc,sd));
+  const substrateR = diag2(rc,rd);
+  const incident = [f,1-f];
+  const inSub = apply2(mat2(inv2(matAdd(eye2,matNeg(mat2(film.rb,substrateR)))),film.td),incident);
+  const [Rc,Rd] = matAdd(apply2(film.rt,incident),apply2(film.tu,apply2(substrateR,inSub)));
+  const [Tc,Td] = apply2(diag2(tc,td),inSub);
+  const Ag = Math.max(0,1-rc-tc)*inSub[0]+Math.max(0,1-rd-td)*inSub[1];
+  return {Rc,Rd,Tc,Td,R:Rc+Rd,T:Tc+Td,Ag,Af:Math.max(0,1-Rc-Rd-Tc-Td-Ag)};
+}
+
+function labColor(rows,observer,illuminant,channel) {
+  const white = [0,0,0], xyz = [0,0,0];
+  for (let i=0;i<observer.length;i++) {
+    const [lambda,...matching] = observer[i];
+    const weight = illuminant[i] * ((i===0 || i===observer.length-1) ? 0.5 : 1);
+    const index = Math.round((lambda-rows[0][0])/(rows[1][0]-rows[0][0]));
+    for (let j=0;j<3;j++) {
+      white[j] += weight*matching[j];
+      xyz[j] += weight*matching[j]*rows[index][channel];
+    }
+  }
+  const f = v => v > (6/29)**3 ? Math.cbrt(v) : v/(3*(6/29)**2)+4/29;
+  const [x,y,z] = xyz.map((v,i) => f(v/white[i]));
+  return {lab:[116*y-16,500*(x-y),200*(y-z)],xyz:xyz.map(v => v*100/white[1])};
+}
+
+</script>
+<script id="archive-data">
+const archiveData = {"observer":{"2":[[380.0,0.001368,3.9e-05,0.00645],[385.0,0.002236,6.4e-05,0.01055],[390.0,0.004243,0.00012,0.02005],[395.0,0.00765,0.000217,0.03621],[400.0,0.01431,0.000396,0.06785],[405.0,0.02319,0.00064,0.1102],[410.0,0.04351,0.00121,0.2074],[415.0,0.07763,0.00218,0.3713],[420.0,0.13438,0.004,0.6456],[425.0,0.21477,0.0073,1.03905],[430.0,0.2839,0.0116,1.3856],[435.0,0.3285,0.01684,1.62296],[440.0,0.34828,0.023,1.74706],[445.0,0.34806,0.0298,1.7826],[450.0,0.3362,0.038,1.77211],[455.0,0.3187,0.048,1.7441],[460.0,0.2908,0.06,1.6692],[465.0,0.2511,0.0739,1.5281],[470.0,0.19536,0.09098,1.28764],[475.0,0.1421,0.1126,1.0419],[480.0,0.09564,0.13902,0.81295],[485.0,0.05795,0.1693,0.6162],[490.0,0.03201,0.20802,0.46518],[495.0,0.0147,0.2586,0.3533],[500.0,0.0049,0.323,0.272],[505.0,0.0024,0.4073,0.2123],[510.0,0.0093,0.503,0.1582],[515.0,0.0291,0.6082,0.1117],[520.0,0.06327,0.71,0.07825],[525.0,0.1096,0.7932,0.05725],[530.0,0.1655,0.862,0.04216],[535.0,0.22575,0.91485,0.02984],[540.0,0.2904,0.954,0.0203],[545.0,0.3597,0.9803,0.0134],[550.0,0.43345,0.99495,0.00875],[555.0,0.51205,1.0,0.00575],[560.0,0.5945,0.995,0.0039],[565.0,0.6784,0.9786,0.00275],[570.0,0.7621,0.952,0.0021],[575.0,0.8425,0.9154,0.0018],[580.0,0.9163,0.87,0.00165],[585.0,0.9786,0.8163,0.0014],[590.0,1.0263,0.757,0.0011],[595.0,1.0567,0.6949,0.001],[600.0,1.0622,0.631,0.0008],[605.0,1.0456,0.5668,0.0006],[610.0,1.0026,0.503,0.00034],[615.0,0.9384,0.4412,0.00024],[620.0,0.85445,0.381,0.00019],[625.0,0.7514,0.321,0.0001],[630.0,0.6424,0.265,5e-05],[635.0,0.5419,0.217,3e-05],[640.0,0.4479,0.175,2e-05],[645.0,0.3608,0.1382,1e-05],[650.0,0.2835,0.107,0.0],[655.0,0.2187,0.0816,0.0],[660.0,0.1649,0.061,0.0],[665.0,0.1212,0.04458,0.0],[670.0,0.0874,0.032,0.0],[675.0,0.0636,0.0232,0.0],[680.0,0.04677,0.017,0.0],[685.0,0.0329,0.01192,0.0],[690.0,0.0227,0.00821,0.0],[695.0,0.01584,0.005723,0.0],[700.0,0.011359,0.004102,0.0],[705.0,0.008111,0.002929,0.0],[710.0,0.00579,0.002091,0.0],[715.0,0.004109,0.001484,0.0],[720.0,0.002899,0.001047,0.0],[725.0,0.002049,0.00074,0.0],[730.0,0.00144,0.00052,0.0],[735.0,0.001,0.000361,0.0],[740.0,0.00069,0.000249,0.0],[745.0,0.000476,0.000172,0.0],[750.0,0.000332,0.00012,0.0],[755.0,0.000235,8.5e-05,0.0],[760.0,0.000166,6e-05,0.0],[765.0,0.000117,4.2e-05,0.0],[770.0,8.3e-05,3e-05,0.0],[775.0,5.9e-05,2.1e-05,0.0],[780.0,4.2e-05,1.5e-05,0.0]],"10":[[380.0,0.00016,1.7e-05,0.000705],[385.0,0.000662,7.2e-05,0.002928],[390.0,0.002362,0.000253,0.010482],[395.0,0.007242,0.000769,0.032344],[400.0,0.01911,0.002004,0.086011],[405.0,0.0434,0.004509,0.19712],[410.0,0.084736,0.008756,0.389366],[415.0,0.140638,0.014456,0.65676],[420.0,0.204492,0.021391,0.972542],[425.0,0.264737,0.029497,1.2825],[430.0,0.314679,0.038676,1.55348],[435.0,0.357719,0.049602,1.7985],[440.0,0.383734,0.062077,1.96728],[445.0,0.386726,0.074704,2.0273],[450.0,0.370702,0.089456,1.9948],[455.0,0.342957,0.106256,1.9007],[460.0,0.302273,0.128201,1.74537],[465.0,0.254085,0.152761,1.5549],[470.0,0.195618,0.18519,1.31756],[475.0,0.132349,0.21994,1.0302],[480.0,0.080507,0.253589,0.772125],[485.0,0.041072,0.297665,0.57006],[490.0,0.016172,0.339133,0.415254],[495.0,0.005132,0.395379,0.302356],[500.0,0.003816,0.460777,0.218502],[505.0,0.015444,0.53136,0.159249],[510.0,0.037465,0.606741,0.112044],[515.0,0.071358,0.68566,0.082248],[520.0,0.117749,0.761757,0.060709],[525.0,0.172953,0.82333,0.04305],[530.0,0.236491,0.875211,0.030451],[535.0,0.304213,0.92381,0.020584],[540.0,0.376772,0.961988,0.013676],[545.0,0.451584,0.9822,0.007918],[550.0,0.529826,0.991761,0.003988],[555.0,0.616053,0.99911,0.001091],[560.0,0.705224,0.99734,0.0],[565.0,0.793832,0.98238,0.0],[570.0,0.878655,0.955552,0.0],[575.0,0.951162,0.915175,0.0],[580.0,1.01416,0.868934,0.0],[585.0,1.0743,0.825623,0.0],[590.0,1.11852,0.777405,0.0],[595.0,1.1343,0.720353,0.0],[600.0,1.12399,0.658341,0.0],[605.0,1.0891,0.593878,0.0],[610.0,1.03048,0.527963,0.0],[615.0,0.95074,0.461834,0.0],[620.0,0.856297,0.398057,0.0],[625.0,0.75493,0.339554,0.0],[630.0,0.647467,0.283493,0.0],[635.0,0.53511,0.228254,0.0],[640.0,0.431567,0.179828,0.0],[645.0,0.34369,0.140211,0.0],[650.0,0.268329,0.107633,0.0],[655.0,0.2043,0.081187,0.0],[660.0,0.152568,0.060281,0.0],[665.0,0.11221,0.044096,0.0],[670.0,0.081261,0.0318,0.0],[675.0,0.05793,0.022602,0.0],[680.0,0.040851,0.015905,0.0],[685.0,0.028623,0.01113,0.0],[690.0,0.019941,0.007749,0.0],[695.0,0.013842,0.005375,0.0],[700.0,0.009577,0.003718,0.0],[705.0,0.006605,0.002565,0.0],[710.0,0.004553,0.001768,0.0],[715.0,0.003145,0.001222,0.0],[720.0,0.002175,0.000846,0.0],[725.0,0.001506,0.000586,0.0],[730.0,0.001045,0.000407,0.0],[735.0,0.000727,0.000284,0.0],[740.0,0.000508,0.000199,0.0],[745.0,0.000356,0.00014,0.0],[750.0,0.000251,9.8e-05,0.0],[755.0,0.000178,7e-05,0.0],[760.0,0.000126,5e-05,0.0],[765.0,9e-05,3.6e-05,0.0],[770.0,6.5e-05,2.5e-05,0.0],[775.0,4.6e-05,1.8e-05,0.0],[780.0,3.3e-05,1.3e-05,0.0]]},"light":{"A":[9.7951,10.8996,12.0853,13.3543,14.708,16.148,17.6753,19.2907,20.995,22.7883,24.6709,26.6425,28.7027,30.8508,33.0859,35.4068,37.8121,40.3002,42.8693,45.5174,48.2423,51.0418,53.9132,56.8539,59.8611,62.932,66.0635,69.2525,72.4959,75.7903,79.1326,82.5193,85.947,89.4124,92.912,96.4423,100.0,103.582,107.184,110.803,114.436,118.08,121.731,125.386,129.043,132.697,136.346,139.988,143.618,147.235,150.836,154.418,157.979,161.516,165.028,168.51,171.963,175.383,178.769,182.118,185.429,188.701,191.931,195.118,198.261,201.359,204.409,207.411,210.365,213.268,216.12,218.92,221.667,224.361,227.0,229.585,232.115,234.589,237.008,239.37,241.675],"D65":[49.9755,52.3118,54.6482,68.7015,82.7549,87.1204,91.486,92.4589,93.4318,90.057,86.6823,95.7736,104.865,110.936,117.008,117.41,117.812,116.336,114.861,115.392,115.923,112.367,108.811,109.082,109.354,108.578,107.802,106.296,104.79,106.239,107.689,106.047,104.405,104.225,104.046,102.023,100.0,98.1671,96.3342,96.0611,95.788,92.2368,88.6856,89.3459,90.0062,89.8026,89.5991,88.6489,87.6987,85.4936,83.2886,83.4939,83.6992,81.863,80.0268,80.1207,80.2146,81.2462,82.2778,80.281,78.2842,74.0027,69.7213,70.6652,71.6091,72.979,74.349,67.9765,61.604,65.7448,69.8856,72.4863,75.087,69.3398,63.5927,55.0054,46.4182,56.6118,66.8054,65.0941,63.3828]},"archive":[[[380.0,0.22123,0.38467,0.3941],[385.0,0.206022,0.344085,0.449893],[390.0,0.188045,0.299327,0.512628],[395.0,0.167552,0.246533,0.585915],[400.0,0.145,0.186667,0.668333],[405.0,0.120131,0.124341,0.755528],[410.0,0.093413,0.066716,0.839871],[415.0,0.069415,0.02364,0.906945],[420.0,0.04784,0.003917,0.948243],[425.0,0.030747,0.000134,0.969119],[430.0,0.02019,0.0,0.97981],[435.0,0.016774,0.0,0.983226],[440.0,0.020278,1e-06,0.979721],[445.0,0.030859,0.000143,0.968998],[450.0,0.047623,0.003851,0.948526],[455.0,0.068893,0.023232,0.907875],[460.0,0.093539,0.065057,0.841404],[465.0,0.119087,0.122606,0.758307],[470.0,0.142868,0.183168,0.673964],[475.0,0.165742,0.239515,0.594743],[480.0,0.184639,0.290113,0.525248],[485.0,0.201615,0.333001,0.465384],[490.0,0.215949,0.368732,0.415319],[495.0,0.227123,0.399708,0.373169],[500.0,0.236417,0.423659,0.339924],[505.0,0.244347,0.443016,0.312637],[510.0,0.248921,0.458044,0.293035],[515.0,0.254781,0.469318,0.275901],[520.0,0.257104,0.475677,0.267219],[525.0,0.258047,0.479849,0.262104],[530.0,0.258411,0.477867,0.263722],[535.0,0.256285,0.472026,0.271689],[540.0,0.251359,0.460851,0.28779],[545.0,0.243025,0.441573,0.315402],[550.0,0.231097,0.410977,0.357926],[555.0,0.214145,0.366309,0.419546],[560.0,0.188504,0.299428,0.512068],[565.0,0.154573,0.211228,0.634199],[570.0,0.114584,0.112396,0.77302],[575.0,0.080872,0.041967,0.877161],[580.0,0.067877,0.021643,0.91048],[585.0,0.081054,0.042118,0.876828],[590.0,0.115071,0.114298,0.770631],[595.0,0.155411,0.215605,0.628984],[600.0,0.191848,0.307421,0.500731],[605.0,0.21853,0.378016,0.403454],[610.0,0.238231,0.429721,0.332048],[615.0,0.252692,0.464595,0.282713],[620.0,0.262346,0.489553,0.248101],[625.0,0.269786,0.507753,0.222461],[630.0,0.274159,0.520014,0.205827],[635.0,0.277846,0.528707,0.193447],[640.0,0.280401,0.532674,0.186925],[645.0,0.280348,0.5347,0.184952],[650.0,0.279991,0.533818,0.186191],[655.0,0.279307,0.529331,0.191362],[660.0,0.275522,0.523887,0.200591],[665.0,0.271912,0.513568,0.21452],[670.0,0.266703,0.500562,0.232735],[675.0,0.259246,0.4816,0.259154],[680.0,0.249261,0.4571,0.293639],[685.0,0.236689,0.423005,0.340306],[690.0,0.220016,0.381155,0.398829],[695.0,0.197964,0.324898,0.477138],[700.0,0.170539,0.253592,0.575869],[705.0,0.137419,0.168271,0.69431],[710.0,0.102459,0.08265,0.814891],[715.0,0.068919,0.023026,0.908055],[720.0,0.045727,0.003028,0.951245],[725.0,0.037624,0.00075,0.961626],[730.0,0.045998,0.003171,0.950831],[735.0,0.068646,0.023381,0.907973],[740.0,0.101836,0.083528,0.814636],[745.0,0.138562,0.170136,0.691302],[750.0,0.171817,0.257523,0.57066],[755.0,0.20087,0.332932,0.466198],[760.0,0.223993,0.391308,0.384699],[765.0,0.242929,0.436435,0.320636],[770.0,0.25572,0.473949,0.270331],[775.0,0.267624,0.501689,0.230687],[780.0,0.277016,0.525133,0.197851]],[[380.0,0.3284,0.6644,0.0072],[381.0,0.3347,0.6594,0.0059],[382.0,0.3271,0.6662,0.0067],[383.0,0.3358,0.656,0.0082],[384.0,0.3377,0.656,0.0063],[385.0,0.3275,0.6652,0.0073],[386.0,0.3484,0.6434,0.0082],[387.0,0.335,0.6567,0.0083],[388.0,0.3334,0.6576,0.009],[389.0,0.3277,0.6633,0.009],[390.0,0.3279,0.665,0.0071],[391.0,0.3243,0.6652,0.0105],[392.0,0.3284,0.6618,0.0098],[393.0,0.3195,0.6697,0.0108],[394.0,0.3278,0.6625,0.0097],[395.0,0.3356,0.6533,0.0111],[396.0,0.3322,0.6565,0.0113],[397.0,0.3362,0.6526,0.0112],[398.0,0.3353,0.6545,0.0102],[399.0,0.3276,0.6602,0.0122],[400.0,0.3289,0.6589,0.0122],[401.0,0.3283,0.6582,0.0135],[402.0,0.3346,0.6507,0.0147],[403.0,0.3272,0.656,0.0168],[404.0,0.3254,0.6566,0.018],[405.0,0.3374,0.6468,0.0158],[406.0,0.3268,0.6546,0.0186],[407.0,0.3268,0.6539,0.0193],[408.0,0.3292,0.6493,0.0215],[409.0,0.3232,0.657,0.0198],[410.0,0.3215,0.6555,0.023],[411.0,0.3238,0.6531,0.0231],[412.0,0.3251,0.6514,0.0235],[413.0,0.3296,0.6418,0.0286],[414.0,0.3258,0.6441,0.0301],[415.0,0.3177,0.646,0.0363],[416.0,0.3268,0.6383,0.0349],[417.0,0.3239,0.6398,0.0363],[418.0,0.3295,0.6313,0.0392],[419.0,0.3218,0.6356,0.0426],[420.0,0.3224,0.6285,0.0491],[421.0,0.3208,0.6244,0.0548],[422.0,0.3237,0.6121,0.0642],[423.0,0.304,0.6274,0.0686],[424.0,0.3078,0.6197,0.0725],[425.0,0.3142,0.6062,0.0796],[426.0,0.3083,0.6084,0.0833],[427.0,0.3173,0.5889,0.0938],[428.0,0.3091,0.5893,0.1016],[429.0,0.2949,0.5904,0.1147],[430.0,0.3028,0.5751,0.1221],[431.0,0.297,0.5761,0.1269],[432.0,0.295,0.5717,0.1333],[433.0,0.2977,0.5616,0.1407],[434.0,0.2895,0.5637,0.1468],[435.0,0.2924,0.5586,0.149],[436.0,0.2939,0.564,0.1421],[437.0,0.2877,0.566,0.1463],[438.0,0.2948,0.5612,0.144],[439.0,0.2918,0.5787,0.1295],[440.0,0.3007,0.5764,0.1229],[441.0,0.3077,0.5811,0.1112],[442.0,0.3095,0.5896,0.1009],[443.0,0.31,0.596,0.094],[444.0,0.3141,0.6037,0.0822],[445.0,0.3084,0.616,0.0756],[446.0,0.3187,0.6104,0.0709],[447.0,0.32,0.6178,0.0622],[448.0,0.3166,0.6233,0.0601],[449.0,0.3244,0.6205,0.0551],[450.0,0.3175,0.6343,0.0482],[451.0,0.3197,0.6288,0.0515],[452.0,0.3306,0.6267,0.0427],[453.0,0.3292,0.6302,0.0406],[454.0,0.326,0.6377,0.0363],[455.0,0.3284,0.6362,0.0354],[456.0,0.3278,0.6421,0.0301],[457.0,0.3291,0.642,0.0289],[458.0,0.3222,0.6481,0.0297],[459.0,0.3233,0.6509,0.0258],[460.0,0.324,0.65,0.026],[461.0,0.3334,0.6426,0.024],[462.0,0.3225,0.6564,0.0211],[463.0,0.3306,0.6463,0.0231],[464.0,0.3326,0.6496,0.0178],[465.0,0.3286,0.6545,0.0169],[466.0,0.3295,0.654,0.0165],[467.0,0.3273,0.6547,0.018],[468.0,0.3313,0.6497,0.019],[469.0,0.3217,0.6626,0.0157],[470.0,0.331,0.6522,0.0168],[471.0,0.3286,0.6573,0.0141],[472.0,0.3258,0.6576,0.0166],[473.0,0.3225,0.6626,0.0149],[474.0,0.3299,0.6565,0.0136],[475.0,0.3297,0.6569,0.0134],[476.0,0.3288,0.6569,0.0143],[477.0,0.3304,0.6567,0.0129],[478.0,0.3284,0.6593,0.0123],[479.0,0.3364,0.6513,0.0123],[480.0,0.3254,0.6628,0.0118],[481.0,0.3289,0.66,0.0111],[482.0,0.3344,0.6538,0.0118],[483.0,0.3329,0.6578,0.0093],[484.0,0.3289,0.6606,0.0105],[485.0,0.3328,0.6568,0.0104],[486.0,0.3284,0.6602,0.0114],[487.0,0.3335,0.6544,0.0121],[488.0,0.3303,0.6593,0.0104],[489.0,0.3304,0.6614,0.0082],[490.0,0.3237,0.6657,0.0106],[491.0,0.3236,0.6656,0.0108],[492.0,0.3264,0.6637,0.0099],[493.0,0.3254,0.6643,0.0103],[494.0,0.3317,0.6585,0.0098],[495.0,0.3228,0.6675,0.0097],[496.0,0.3275,0.6582,0.0143],[497.0,0.3331,0.6564,0.0105],[498.0,0.3356,0.6556,0.0088],[499.0,0.3251,0.6649,0.01],[500.0,0.323,0.6676,0.0094],[501.0,0.3395,0.6508,0.0097],[502.0,0.33,0.6594,0.0106],[503.0,0.3322,0.6585,0.0093],[504.0,0.3354,0.655,0.0096],[505.0,0.3391,0.6507,0.0102],[506.0,0.3266,0.6636,0.0098],[507.0,0.3272,0.6624,0.0104],[508.0,0.3316,0.658,0.0104],[509.0,0.331,0.6608,0.0082],[510.0,0.3273,0.6614,0.0113],[511.0,0.3261,0.6603,0.0136],[512.0,0.3319,0.657,0.0111],[513.0,0.3342,0.6563,0.0095],[514.0,0.326,0.6625,0.0115],[515.0,0.3337,0.6545,0.0118],[516.0,0.3357,0.6535,0.0108],[517.0,0.3282,0.6601,0.0117],[518.0,0.3245,0.6638,0.0117],[519.0,0.3256,0.6612,0.0132],[520.0,0.3255,0.6609,0.0136],[521.0,0.3314,0.6539,0.0147],[522.0,0.3301,0.6579,0.012],[523.0,0.3308,0.655,0.0142],[524.0,0.3244,0.6606,0.015],[525.0,0.3214,0.6649,0.0137],[526.0,0.3362,0.6499,0.0139],[527.0,0.3282,0.6571,0.0147],[528.0,0.3316,0.6532,0.0152],[529.0,0.3464,0.6393,0.0143],[530.0,0.3294,0.6573,0.0133],[531.0,0.3278,0.6554,0.0168],[532.0,0.3263,0.6576,0.0161],[533.0,0.3311,0.6496,0.0193],[534.0,0.3264,0.6571,0.0165],[535.0,0.3312,0.6509,0.0179],[536.0,0.3281,0.6542,0.0177],[537.0,0.3303,0.6508,0.0189],[538.0,0.3355,0.6451,0.0194],[539.0,0.3213,0.6606,0.0181],[540.0,0.3325,0.6453,0.0222],[541.0,0.3281,0.6478,0.0241],[542.0,0.3276,0.648,0.0244],[543.0,0.3333,0.6434,0.0233],[544.0,0.3267,0.6474,0.0259],[545.0,0.3275,0.6424,0.0301],[546.0,0.3309,0.6423,0.0268],[547.0,0.323,0.6492,0.0278],[548.0,0.3345,0.6337,0.0318],[549.0,0.3203,0.6457,0.034],[550.0,0.3306,0.6353,0.0341],[551.0,0.3273,0.6383,0.0344],[552.0,0.3222,0.6437,0.0341],[553.0,0.3221,0.6385,0.0394],[554.0,0.3174,0.6378,0.0448],[555.0,0.3256,0.628,0.0464],[556.0,0.3199,0.6306,0.0495],[557.0,0.3255,0.6233,0.0512],[558.0,0.3123,0.6358,0.0519],[559.0,0.3227,0.6188,0.0585],[560.0,0.3175,0.6191,0.0634],[561.0,0.3208,0.6086,0.0706],[562.0,0.3112,0.6172,0.0716],[563.0,0.3154,0.6052,0.0794],[564.0,0.3144,0.5974,0.0882],[565.0,0.3115,0.5972,0.0913],[566.0,0.2997,0.5943,0.106],[567.0,0.2991,0.5843,0.1166],[568.0,0.2956,0.5811,0.1233],[569.0,0.295,0.5704,0.1346],[570.0,0.2874,0.5696,0.143],[571.0,0.2885,0.5488,0.1627],[572.0,0.2817,0.5464,0.1719],[573.0,0.2774,0.5308,0.1918],[574.0,0.2736,0.5212,0.2052],[575.0,0.2692,0.501,0.2298],[576.0,0.2708,0.489,0.2402],[577.0,0.2637,0.4803,0.256],[578.0,0.2568,0.4907,0.2525],[579.0,0.2574,0.4743,0.2683],[580.0,0.2592,0.4664,0.2744],[581.0,0.2601,0.4667,0.2732],[582.0,0.2543,0.4861,0.2596],[583.0,0.2615,0.4825,0.256],[584.0,0.2726,0.4897,0.2377],[585.0,0.2634,0.5147,0.2219],[586.0,0.2728,0.5182,0.209],[587.0,0.2755,0.531,0.1935],[588.0,0.2812,0.5375,0.1813],[589.0,0.2916,0.5495,0.1589],[590.0,0.2885,0.5628,0.1487],[591.0,0.3009,0.5619,0.1372],[592.0,0.2952,0.5861,0.1187],[593.0,0.2998,0.5865,0.1137],[594.0,0.2994,0.5965,0.1041],[595.0,0.2962,0.608,0.0958],[596.0,0.3083,0.6058,0.0859],[597.0,0.3059,0.6094,0.0847],[598.0,0.3169,0.6078,0.0753],[599.0,0.3207,0.6055,0.0738],[600.0,0.3135,0.6152,0.0713],[601.0,0.3196,0.62,0.0604],[602.0,0.3176,0.6295,0.0529],[603.0,0.3203,0.626,0.0537],[604.0,0.3146,0.6353,0.0501],[605.0,0.319,0.6315,0.0495],[606.0,0.3199,0.6372,0.0429],[607.0,0.3264,0.6326,0.041],[608.0,0.313,0.6491,0.0379],[609.0,0.3293,0.6321,0.0386],[610.0,0.3203,0.6438,0.0359],[611.0,0.3207,0.6423,0.037],[612.0,0.3271,0.6362,0.0367],[613.0,0.3103,0.6574,0.0323],[614.0,0.3271,0.6418,0.0311],[615.0,0.3261,0.6464,0.0275],[616.0,0.3225,0.65,0.0275],[617.0,0.3209,0.6525,0.0266],[618.0,0.3324,0.6412,0.0264],[619.0,0.327,0.6471,0.0259],[620.0,0.3385,0.641,0.0205],[621.0,0.3243,0.6509,0.0248],[622.0,0.3329,0.6451,0.022],[623.0,0.3293,0.6477,0.023],[624.0,0.334,0.6448,0.0212],[625.0,0.334,0.6448,0.0212],[626.0,0.3324,0.6467,0.0209],[627.0,0.3266,0.6513,0.0221],[628.0,0.3363,0.643,0.0207],[629.0,0.3314,0.6476,0.021],[630.0,0.3248,0.6575,0.0177],[631.0,0.323,0.6563,0.0207],[632.0,0.3313,0.6492,0.0195],[633.0,0.3246,0.657,0.0184],[634.0,0.3311,0.6512,0.0177],[635.0,0.3299,0.6534,0.0167],[636.0,0.3253,0.6583,0.0164],[637.0,0.336,0.6473,0.0167],[638.0,0.3295,0.6518,0.0187],[639.0,0.3336,0.6498,0.0166],[640.0,0.3323,0.6489,0.0188],[641.0,0.3302,0.6531,0.0167],[642.0,0.3251,0.6587,0.0162],[643.0,0.3264,0.6577,0.0159],[644.0,0.3208,0.6628,0.0164],[645.0,0.3293,0.6535,0.0172],[646.0,0.3247,0.6559,0.0194],[647.0,0.3253,0.6558,0.0189],[648.0,0.3343,0.6494,0.0163],[649.0,0.3257,0.657,0.0173],[650.0,0.3237,0.6575,0.0188],[651.0,0.3315,0.6497,0.0188],[652.0,0.3251,0.6569,0.018],[653.0,0.3349,0.6466,0.0185],[654.0,0.3368,0.6428,0.0204],[655.0,0.3247,0.6565,0.0188],[656.0,0.3303,0.6502,0.0195],[657.0,0.3231,0.6555,0.0214],[658.0,0.3281,0.6541,0.0178],[659.0,0.3284,0.6535,0.0181],[660.0,0.3313,0.6496,0.0191],[661.0,0.3225,0.6576,0.0199],[662.0,0.3235,0.6566,0.0199],[663.0,0.3332,0.6446,0.0222],[664.0,0.3293,0.6487,0.022],[665.0,0.3313,0.6485,0.0202],[666.0,0.3313,0.6474,0.0213],[667.0,0.3288,0.6503,0.0209],[668.0,0.3389,0.639,0.0221],[669.0,0.3326,0.6429,0.0245],[670.0,0.3299,0.6493,0.0208],[671.0,0.3257,0.6486,0.0257],[672.0,0.3336,0.6419,0.0245],[673.0,0.3202,0.656,0.0238],[674.0,0.3265,0.6486,0.0249],[675.0,0.3216,0.6493,0.0291],[676.0,0.3251,0.646,0.0289],[677.0,0.3377,0.6341,0.0282],[678.0,0.327,0.6428,0.0302],[679.0,0.3259,0.6395,0.0346],[680.0,0.3253,0.643,0.0317],[681.0,0.3217,0.6451,0.0332],[682.0,0.3208,0.6454,0.0338],[683.0,0.3268,0.6372,0.036],[684.0,0.3263,0.636,0.0377],[685.0,0.3177,0.6403,0.042],[686.0,0.3211,0.6378,0.0411],[687.0,0.3208,0.6369,0.0423],[688.0,0.3221,0.6303,0.0476],[689.0,0.3257,0.624,0.0503],[690.0,0.3182,0.6323,0.0495],[691.0,0.3202,0.6278,0.052],[692.0,0.3111,0.6303,0.0586],[693.0,0.3187,0.6274,0.0539],[694.0,0.3114,0.628,0.0606],[695.0,0.3125,0.6181,0.0694],[696.0,0.3132,0.6176,0.0692],[697.0,0.3099,0.6211,0.069],[698.0,0.3088,0.6145,0.0767],[699.0,0.3068,0.6102,0.083],[700.0,0.3079,0.6031,0.089],[701.0,0.3122,0.6005,0.0873],[702.0,0.3002,0.6045,0.0953],[703.0,0.2972,0.5971,0.1057],[704.0,0.3057,0.5866,0.1077],[705.0,0.2978,0.5851,0.1171],[706.0,0.2932,0.5772,0.1296],[707.0,0.2976,0.5622,0.1402],[708.0,0.2871,0.557,0.1559],[709.0,0.2903,0.5474,0.1623],[710.0,0.2803,0.5395,0.1802],[711.0,0.2777,0.5257,0.1966],[712.0,0.2694,0.52,0.2106],[713.0,0.2696,0.5036,0.2268],[714.0,0.2699,0.4855,0.2446],[715.0,0.2651,0.4725,0.2624],[716.0,0.2505,0.4575,0.292],[717.0,0.2474,0.4383,0.3143],[718.0,0.2347,0.4284,0.3369],[719.0,0.226,0.4105,0.3635],[720.0,0.2121,0.3932,0.3947],[721.0,0.2143,0.378,0.4077],[722.0,0.2081,0.3567,0.4352],[723.0,0.2086,0.3471,0.4443],[724.0,0.2079,0.3395,0.4526],[725.0,0.2025,0.345,0.4525],[726.0,0.2052,0.3393,0.4555],[727.0,0.21,0.3514,0.4386],[728.0,0.2086,0.3649,0.4265],[729.0,0.2154,0.3775,0.4071],[730.0,0.2257,0.385,0.3893],[731.0,0.2352,0.4005,0.3643],[732.0,0.234,0.4284,0.3376],[733.0,0.2434,0.4434,0.3132],[734.0,0.2441,0.4506,0.3053],[735.0,0.2513,0.4776,0.2711],[736.0,0.2657,0.4907,0.2436],[737.0,0.2674,0.5069,0.2257],[738.0,0.2754,0.5156,0.209],[739.0,0.2792,0.5329,0.1879],[740.0,0.2879,0.5386,0.1735],[741.0,0.29,0.5457,0.1643],[742.0,0.2925,0.5594,0.1481],[743.0,0.2924,0.5656,0.142],[744.0,0.2923,0.5768,0.1309],[745.0,0.3025,0.5747,0.1228],[746.0,0.3056,0.5781,0.1163],[747.0,0.3006,0.5937,0.1057],[748.0,0.3009,0.6066,0.0925],[749.0,0.3097,0.5999,0.0904],[750.0,0.3097,0.6029,0.0874],[751.0,0.3141,0.6051,0.0808],[752.0,0.3155,0.6095,0.075],[753.0,0.3075,0.6219,0.0706],[754.0,0.3251,0.6129,0.062],[755.0,0.3207,0.6187,0.0606],[756.0,0.3167,0.6255,0.0578],[757.0,0.3178,0.6267,0.0555],[758.0,0.3151,0.6308,0.0541],[759.0,0.3095,0.6384,0.0521],[760.0,0.3177,0.6305,0.0518],[761.0,0.3212,0.6323,0.0465],[762.0,0.3193,0.638,0.0427],[763.0,0.3204,0.6398,0.0398],[764.0,0.3279,0.6335,0.0386],[765.0,0.3224,0.6406,0.037],[766.0,0.3269,0.636,0.0371],[767.0,0.329,0.634,0.037],[768.0,0.3226,0.6449,0.0325],[769.0,0.3289,0.6374,0.0337],[770.0,0.3236,0.6452,0.0312],[771.0,0.3211,0.6533,0.0256],[772.0,0.3374,0.6341,0.0285],[773.0,0.3301,0.6426,0.0273],[774.0,0.3304,0.6451,0.0245],[775.0,0.3195,0.6549,0.0256],[776.0,0.3314,0.6463,0.0223],[777.0,0.3325,0.6417,0.0258],[778.0,0.3305,0.6485,0.021],[779.0,0.3229,0.6555,0.0216],[780.0,0.3301,0.6503,0.0196]]],"mie":[[10.0,[[0.5183411757,0.004643408224,0.005033810265],[0.5131593121,0.004454102795,0.004866635949],[0.5069794221,0.004264907524,0.004713813182],[0.5009063986,0.004085223279,0.004567717351],[0.4949399058,0.00391453453,0.004427955317],[0.4878584716,0.003695340549,0.004343138347],[0.4833586417,0.003523632632,0.004232875406],[0.4798478767,0.003368185556,0.004121621614],[0.475986826,0.003205587136,0.004028904278],[0.4746452105,0.003069384659,0.00392539279],[0.4734949531,0.00294195495,0.003824913518],[0.4723507959,0.002821498813,0.003728324074],[0.4717439784,0.002725711989,0.003618664386],[0.4717112838,0.002626389281,0.003522077621],[0.4723611737,0.00252078211,0.003441168904],[0.4659325813,0.002360939101,0.00341371095],[0.4593107318,0.002198428382,0.003398032584],[0.4602630773,0.002042755206,0.003386984562],[0.4659669895,0.001923742742,0.003349013406],[0.4790977634,0.001853837432,0.003279772171],[0.5084254626,0.001910927059,0.003140193762],[0.5517401906,0.002088277596,0.002973381114],[0.6143425379,0.002487386956,0.00273802871],[0.6956967146,0.003101953217,0.002481766617],[0.7946191925,0.003948463558,0.002242849743],[0.9212556642,0.005196993925,0.002006662124],[1.073371035,0.006939196784,0.001740519017],[1.262092258,0.009486265553,0.001452392615],[1.434843769,0.01252120179,0.001133872835],[1.505009114,0.01525304219,0.0008364320975],[1.407147419,0.01643756558,0.0005958938696],[1.176279767,0.01562068776,0.0004011366918],[0.9203443815,0.01388104969,0.0002314787264],[0.7308624072,0.01211667489,0.0001037399653],[0.5711912901,0.01045645352,-2.060079392e-05],[0.4493646098,0.008986626252,-0.0001374258917],[0.3549107698,0.007746749769,-0.0002521366795],[0.2832521935,0.006729078727,-0.0003630142737],[0.232227942,0.005916246862,-0.0004639555634],[0.1910917203,0.005233287234,-0.0005647161925],[0.1577335792,0.004651013569,-0.000666423687],[0.1305963517,0.004155118111,-0.0007685051639],[0.1083958356,0.003732594934,-0.0008702360384],[0.09078605464,0.00337950344,-0.0009666302378],[0.07615747979,0.003074109776,-0.001061910148],[0.06396436221,0.002807721473,-0.001156377353],[0.05651775573,0.002577266761,-0.001244097384],[0.05009755787,0.002374039004,-0.001331146254],[0.04453504513,0.002193903996,-0.001417481213],[0.03881188549,0.002033337553,-0.001504529178],[0.03384771378,0.001889647605,-0.001590768457],[0.02952676508,0.001760551768,-0.001676179162],[0.02652423509,0.001648913593,-0.001750972411],[0.02400974052,0.001548269492,-0.001822774188],[0.02175973478,0.001456319755,-0.00189372162],[0.01974999483,0.001371941611,-0.001964183947],[0.01795244609,0.001294326844,-0.002034205637],[0.01633327762,0.00122292304,-0.002103382134],[0.01487178021,0.001157085601,-0.002171718511],[0.01325480299,0.001097648105,-0.002234438371],[0.01177624265,0.001042527324,-0.002296052844],[0.01043728046,0.0009912480085,-0.002356845944],[0.00936233347,0.0009434247952,-0.002416807066],[0.008844197088,0.0008986754243,-0.002475907927],[0.008363737067,0.0008568819405,-0.0025342449],[0.007917546317,0.0008177914427,-0.002591828363],[0.007502889295,0.000781189138,-0.002648587248],[0.00711740938,0.0007468851331,-0.002704410619],[0.006757877188,0.0007146660793,-0.002759513826],[0.006422124249,0.0006843680524,-0.002813907741],[0.006109938983,0.0006559068502,-0.002866988724],[0.005829826633,0.0006295194046,-0.002914789684],[0.005566473782,0.00060457685,-0.002961943777],[0.005318638326,0.0005809778201,-0.003008462298],[0.005085188129,0.000558629634,-0.003054356395],[0.004866250546,0.0005374878128,-0.003099088014],[0.004660063406,0.0005174450921,-0.003142982755],[0.004465246188,0.0004984120654,-0.003186290813],[0.004281023822,0.0004803237935,-0.003229022696],[0.004106684287,0.0004631204342,-0.003271188731],[0.003949687754,0.0004470144777,-0.003307794313]]],[10.0,[[0.5183411757,0.004643408224,0.005033810265],[0.5131593121,0.004454102795,0.004866635949],[0.5069794221,0.004264907524,0.004713813182],[0.5009063986,0.004085223279,0.004567717351],[0.4949399058,0.00391453453,0.004427955317],[0.4878584716,0.003695340549,0.004343138347],[0.4833586417,0.003523632632,0.004232875406],[0.4798478767,0.003368185556,0.004121621614],[0.475986826,0.003205587136,0.004028904278],[0.4746452105,0.003069384659,0.00392539279],[0.4734949531,0.00294195495,0.003824913518],[0.4723507959,0.002821498813,0.003728324074],[0.4717439784,0.002725711989,0.003618664386],[0.4717112838,0.002626389281,0.003522077621],[0.4723611737,0.00252078211,0.003441168904],[0.4659325813,0.002360939101,0.00341371095],[0.4593107318,0.002198428382,0.003398032584],[0.4602630773,0.002042755206,0.003386984562],[0.4659669895,0.001923742742,0.003349013406],[0.4790977634,0.001853837432,0.003279772171],[0.5084254626,0.001910927059,0.003140193762],[0.5517401906,0.002088277596,0.002973381114],[0.6143425379,0.002487386956,0.00273802871],[0.6956967146,0.003101953217,0.002481766617],[0.7946191925,0.003948463558,0.002242849743],[0.9212556642,0.005196993925,0.002006662124],[1.073371035,0.006939196784,0.001740519017],[1.262092258,0.009486265553,0.001452392615],[1.434843769,0.01252120179,0.001133872835],[1.505009114,0.01525304219,0.0008364320975],[1.407147419,0.01643756558,0.0005958938696],[1.176279767,0.01562068776,0.0004011366918],[0.9203443815,0.01388104969,0.0002314787264],[0.7308624072,0.01211667489,0.0001037399653],[0.5711912901,0.01045645352,-2.060079392e-05],[0.4493646098,0.008986626252,-0.0001374258917],[0.3549107698,0.007746749769,-0.0002521366795],[0.2832521935,0.006729078727,-0.0003630142737],[0.232227942,0.005916246862,-0.0004639555634],[0.1910917203,0.005233287234,-0.0005647161925],[0.1577335792,0.004651013569,-0.000666423687],[0.1305963517,0.004155118111,-0.0007685051639],[0.1083958356,0.003732594934,-0.0008702360384],[0.09078605464,0.00337950344,-0.0009666302378],[0.07615747979,0.003074109776,-0.001061910148],[0.06396436221,0.002807721473,-0.001156377353],[0.05651775573,0.002577266761,-0.001244097384],[0.05009755787,0.002374039004,-0.001331146254],[0.04453504513,0.002193903996,-0.001417481213],[0.03881188549,0.002033337553,-0.001504529178],[0.03384771378,0.001889647605,-0.001590768457],[0.02952676508,0.001760551768,-0.001676179162],[0.02652423509,0.001648913593,-0.001750972411],[0.02400974052,0.001548269492,-0.001822774188],[0.02175973478,0.001456319755,-0.00189372162],[0.01974999483,0.001371941611,-0.001964183947],[0.01795244609,0.001294326844,-0.002034205637],[0.01633327762,0.00122292304,-0.002103382134],[0.01487178021,0.001157085601,-0.002171718511],[0.01325480299,0.001097648105,-0.002234438371],[0.01177624265,0.001042527324,-0.002296052844],[0.01043728046,0.0009912480085,-0.002356845944],[0.00936233347,0.0009434247952,-0.002416807066],[0.008844197088,0.0008986754243,-0.002475907927],[0.008363737067,0.0008568819405,-0.0025342449],[0.007917546317,0.0008177914427,-0.002591828363],[0.007502889295,0.000781189138,-0.002648587248],[0.00711740938,0.0007468851331,-0.002704410619],[0.006757877188,0.0007146660793,-0.002759513826],[0.006422124249,0.0006843680524,-0.002813907741],[0.006109938983,0.0006559068502,-0.002866988724],[0.005829826633,0.0006295194046,-0.002914789684],[0.005566473782,0.00060457685,-0.002961943777],[0.005318638326,0.0005809778201,-0.003008462298],[0.005085188129,0.000558629634,-0.003054356395],[0.004866250546,0.0005374878128,-0.003099088014],[0.004660063406,0.0005174450921,-0.003142982755],[0.004465246188,0.0004984120654,-0.003186290813],[0.004281023822,0.0004803237935,-0.003229022696],[0.004106684287,0.0004631204342,-0.003271188731],[0.003949687754,0.0004470144777,-0.003307794313]]],[10.0,[[0.5183411757,0.004643408224,0.005033810265],[0.5131593121,0.004454102795,0.004866635949],[0.5069794221,0.004264907524,0.004713813182],[0.5009063986,0.004085223279,0.004567717351],[0.4949399058,0.00391453453,0.004427955317],[0.4878584716,0.003695340549,0.004343138347],[0.4833586417,0.003523632632,0.004232875406],[0.4798478767,0.003368185556,0.004121621614],[0.475986826,0.003205587136,0.004028904278],[0.4746452105,0.003069384659,0.00392539279],[0.4734949531,0.00294195495,0.003824913518],[0.4723507959,0.002821498813,0.003728324074],[0.4717439784,0.002725711989,0.003618664386],[0.4717112838,0.002626389281,0.003522077621],[0.4723611737,0.00252078211,0.003441168904],[0.4659325813,0.002360939101,0.00341371095],[0.4593107318,0.002198428382,0.003398032584],[0.4602630773,0.002042755206,0.003386984562],[0.4659669895,0.001923742742,0.003349013406],[0.4790977634,0.001853837432,0.003279772171],[0.5084254626,0.001910927059,0.003140193762],[0.5517401906,0.002088277596,0.002973381114],[0.6143425379,0.002487386956,0.00273802871],[0.6956967146,0.003101953217,0.002481766617],[0.7946191925,0.003948463558,0.002242849743],[0.9212556642,0.005196993925,0.002006662124],[1.073371035,0.006939196784,0.001740519017],[1.262092258,0.009486265553,0.001452392615],[1.434843769,0.01252120179,0.001133872835],[1.505009114,0.01525304219,0.0008364320975],[1.407147419,0.01643756558,0.0005958938696],[1.176279767,0.01562068776,0.0004011366918],[0.9203443815,0.01388104969,0.0002314787264],[0.7308624072,0.01211667489,0.0001037399653],[0.5711912901,0.01045645352,-2.060079392e-05],[0.4493646098,0.008986626252,-0.0001374258917],[0.3549107698,0.007746749769,-0.0002521366795],[0.2832521935,0.006729078727,-0.0003630142737],[0.232227942,0.005916246862,-0.0004639555634],[0.1910917203,0.005233287234,-0.0005647161925],[0.1577335792,0.004651013569,-0.000666423687],[0.1305963517,0.004155118111,-0.0007685051639],[0.1083958356,0.003732594934,-0.0008702360384],[0.09078605464,0.00337950344,-0.0009666302378],[0.07615747979,0.003074109776,-0.001061910148],[0.06396436221,0.002807721473,-0.001156377353],[0.05651775573,0.002577266761,-0.001244097384],[0.05009755787,0.002374039004,-0.001331146254],[0.04453504513,0.002193903996,-0.001417481213],[0.03881188549,0.002033337553,-0.001504529178],[0.03384771378,0.001889647605,-0.001590768457],[0.02952676508,0.001760551768,-0.001676179162],[0.02652423509,0.001648913593,-0.001750972411],[0.02400974052,0.001548269492,-0.001822774188],[0.02175973478,0.001456319755,-0.00189372162],[0.01974999483,0.001371941611,-0.001964183947],[0.01795244609,0.001294326844,-0.002034205637],[0.01633327762,0.00122292304,-0.002103382134],[0.01487178021,0.001157085601,-0.002171718511],[0.01325480299,0.001097648105,-0.002234438371],[0.01177624265,0.001042527324,-0.002296052844],[0.01043728046,0.0009912480085,-0.002356845944],[0.00936233347,0.0009434247952,-0.002416807066],[0.008844197088,0.0008986754243,-0.002475907927],[0.008363737067,0.0008568819405,-0.0025342449],[0.007917546317,0.0008177914427,-0.002591828363],[0.007502889295,0.000781189138,-0.002648587248],[0.00711740938,0.0007468851331,-0.002704410619],[0.006757877188,0.0007146660793,-0.002759513826],[0.006422124249,0.0006843680524,-0.002813907741],[0.006109938983,0.0006559068502,-0.002866988724],[0.005829826633,0.0006295194046,-0.002914789684],[0.005566473782,0.00060457685,-0.002961943777],[0.005318638326,0.0005809778201,-0.003008462298],[0.005085188129,0.000558629634,-0.003054356395],[0.004866250546,0.0005374878128,-0.003099088014],[0.004660063406,0.0005174450921,-0.003142982755],[0.004465246188,0.0004984120654,-0.003186290813],[0.004281023822,0.0004803237935,-0.003229022696],[0.004106684287,0.0004631204342,-0.003271188731],[0.003949687754,0.0004470144777,-0.003307794313]]],[10.0,[[0.5183411757,0.004643408224,0.005033810265],[0.5131593121,0.004454102795,0.004866635949],[0.5069794221,0.004264907524,0.004713813182],[0.5009063986,0.004085223279,0.004567717351],[0.4949399058,0.00391453453,0.004427955317],[0.4878584716,0.003695340549,0.004343138347],[0.4833586417,0.003523632632,0.004232875406],[0.4798478767,0.003368185556,0.004121621614],[0.475986826,0.003205587136,0.004028904278],[0.4746452105,0.003069384659,0.00392539279],[0.4734949531,0.00294195495,0.003824913518],[0.4723507959,0.002821498813,0.003728324074],[0.4717439784,0.002725711989,0.003618664386],[0.4717112838,0.002626389281,0.003522077621],[0.4723611737,0.00252078211,0.003441168904],[0.4659325813,0.002360939101,0.00341371095],[0.4593107318,0.002198428382,0.003398032584],[0.4602630773,0.002042755206,0.003386984562],[0.4659669895,0.001923742742,0.003349013406],[0.4790977634,0.001853837432,0.003279772171],[0.5084254626,0.001910927059,0.003140193762],[0.5517401906,0.002088277596,0.002973381114],[0.6143425379,0.002487386956,0.00273802871],[0.6956967146,0.003101953217,0.002481766617],[0.7946191925,0.003948463558,0.002242849743],[0.9212556642,0.005196993925,0.002006662124],[1.073371035,0.006939196784,0.001740519017],[1.262092258,0.009486265553,0.001452392615],[1.434843769,0.01252120179,0.001133872835],[1.505009114,0.01525304219,0.0008364320975],[1.407147419,0.01643756558,0.0005958938696],[1.176279767,0.01562068776,0.0004011366918],[0.9203443815,0.01388104969,0.0002314787264],[0.7308624072,0.01211667489,0.0001037399653],[0.5711912901,0.01045645352,-2.060079392e-05],[0.4493646098,0.008986626252,-0.0001374258917],[0.3549107698,0.007746749769,-0.0002521366795],[0.2832521935,0.006729078727,-0.0003630142737],[0.232227942,0.005916246862,-0.0004639555634],[0.1910917203,0.005233287234,-0.0005647161925],[0.1577335792,0.004651013569,-0.000666423687],[0.1305963517,0.004155118111,-0.0007685051639],[0.1083958356,0.003732594934,-0.0008702360384],[0.09078605464,0.00337950344,-0.0009666302378],[0.07615747979,0.003074109776,-0.001061910148],[0.06396436221,0.002807721473,-0.001156377353],[0.05651775573,0.002577266761,-0.001244097384],[0.05009755787,0.002374039004,-0.001331146254],[0.04453504513,0.002193903996,-0.001417481213],[0.03881188549,0.002033337553,-0.001504529178],[0.03384771378,0.001889647605,-0.001590768457],[0.02952676508,0.001760551768,-0.001676179162],[0.02652423509,0.001648913593,-0.001750972411],[0.02400974052,0.001548269492,-0.001822774188],[0.02175973478,0.001456319755,-0.00189372162],[0.01974999483,0.001371941611,-0.001964183947],[0.01795244609,0.001294326844,-0.002034205637],[0.01633327762,0.00122292304,-0.002103382134],[0.01487178021,0.001157085601,-0.002171718511],[0.01325480299,0.001097648105,-0.002234438371],[0.01177624265,0.001042527324,-0.002296052844],[0.01043728046,0.0009912480085,-0.002356845944],[0.00936233347,0.0009434247952,-0.002416807066],[0.008844197088,0.0008986754243,-0.002475907927],[0.008363737067,0.0008568819405,-0.0025342449],[0.007917546317,0.0008177914427,-0.002591828363],[0.007502889295,0.000781189138,-0.002648587248],[0.00711740938,0.0007468851331,-0.002704410619],[0.006757877188,0.0007146660793,-0.002759513826],[0.006422124249,0.0006843680524,-0.002813907741],[0.006109938983,0.0006559068502,-0.002866988724],[0.005829826633,0.0006295194046,-0.002914789684],[0.005566473782,0.00060457685,-0.002961943777],[0.005318638326,0.0005809778201,-0.003008462298],[0.005085188129,0.000558629634,-0.003054356395],[0.004866250546,0.0005374878128,-0.003099088014],[0.004660063406,0.0005174450921,-0.003142982755],[0.004465246188,0.0004984120654,-0.003186290813],[0.004281023822,0.0004803237935,-0.003229022696],[0.004106684287,0.0004631204342,-0.003271188731],[0.003949687754,0.0004470144777,-0.003307794313]]],[10.0,[[0.5183411757,0.004643408224,0.005033810265],[0.5131593121,0.004454102795,0.004866635949],[0.5069794221,0.004264907524,0.004713813182],[0.5009063986,0.004085223279,0.004567717351],[0.4949399058,0.00391453453,0.004427955317],[0.4878584716,0.003695340549,0.004343138347],[0.4833586417,0.003523632632,0.004232875406],[0.4798478767,0.003368185556,0.004121621614],[0.475986826,0.003205587136,0.004028904278],[0.4746452105,0.003069384659,0.00392539279],[0.4734949531,0.00294195495,0.003824913518],[0.4723507959,0.002821498813,0.003728324074],[0.4717439784,0.002725711989,0.003618664386],[0.4717112838,0.002626389281,0.003522077621],[0.4723611737,0.00252078211,0.003441168904],[0.4659325813,0.002360939101,0.00341371095],[0.4593107318,0.002198428382,0.003398032584],[0.4602630773,0.002042755206,0.003386984562],[0.4659669895,0.001923742742,0.003349013406],[0.4790977634,0.001853837432,0.003279772171],[0.5084254626,0.001910927059,0.003140193762],[0.5517401906,0.002088277596,0.002973381114],[0.6143425379,0.002487386956,0.00273802871],[0.6956967146,0.003101953217,0.002481766617],[0.7946191925,0.003948463558,0.002242849743],[0.9212556642,0.005196993925,0.002006662124],[1.073371035,0.006939196784,0.001740519017],[1.262092258,0.009486265553,0.001452392615],[1.434843769,0.01252120179,0.001133872835],[1.505009114,0.01525304219,0.0008364320975],[1.407147419,0.01643756558,0.0005958938696],[1.176279767,0.01562068776,0.0004011366918],[0.9203443815,0.01388104969,0.0002314787264],[0.7308624072,0.01211667489,0.0001037399653],[0.5711912901,0.01045645352,-2.060079392e-05],[0.4493646098,0.008986626252,-0.0001374258917],[0.3549107698,0.007746749769,-0.0002521366795],[0.2832521935,0.006729078727,-0.0003630142737],[0.232227942,0.005916246862,-0.0004639555634],[0.1910917203,0.005233287234,-0.0005647161925],[0.1577335792,0.004651013569,-0.000666423687],[0.1305963517,0.004155118111,-0.0007685051639],[0.1083958356,0.003732594934,-0.0008702360384],[0.09078605464,0.00337950344,-0.0009666302378],[0.07615747979,0.003074109776,-0.001061910148],[0.06396436221,0.002807721473,-0.001156377353],[0.05651775573,0.002577266761,-0.001244097384],[0.05009755787,0.002374039004,-0.001331146254],[0.04453504513,0.002193903996,-0.001417481213],[0.03881188549,0.002033337553,-0.001504529178],[0.03384771378,0.001889647605,-0.001590768457],[0.02952676508,0.001760551768,-0.001676179162],[0.02652423509,0.001648913593,-0.001750972411],[0.02400974052,0.001548269492,-0.001822774188],[0.02175973478,0.001456319755,-0.00189372162],[0.01974999483,0.001371941611,-0.001964183947],[0.01795244609,0.001294326844,-0.002034205637],[0.01633327762,0.00122292304,-0.002103382134],[0.01487178021,0.001157085601,-0.002171718511],[0.01325480299,0.001097648105,-0.002234438371],[0.01177624265,0.001042527324,-0.002296052844],[0.01043728046,0.0009912480085,-0.002356845944],[0.00936233347,0.0009434247952,-0.002416807066],[0.008844197088,0.0008986754243,-0.002475907927],[0.008363737067,0.0008568819405,-0.0025342449],[0.007917546317,0.0008177914427,-0.002591828363],[0.007502889295,0.000781189138,-0.002648587248],[0.00711740938,0.0007468851331,-0.002704410619],[0.006757877188,0.0007146660793,-0.002759513826],[0.006422124249,0.0006843680524,-0.002813907741],[0.006109938983,0.0006559068502,-0.002866988724],[0.005829826633,0.0006295194046,-0.002914789684],[0.005566473782,0.00060457685,-0.002961943777],[0.005318638326,0.0005809778201,-0.003008462298],[0.005085188129,0.000558629634,-0.003054356395],[0.004866250546,0.0005374878128,-0.003099088014],[0.004660063406,0.0005174450921,-0.003142982755],[0.004465246188,0.0004984120654,-0.003186290813],[0.004281023822,0.0004803237935,-0.003229022696],[0.004106684287,0.0004631204342,-0.003271188731],[0.003949687754,0.0004470144777,-0.003307794313]]],[10.0,[[0.5183411757,0.004643408224,0.005033810265],[0.5131593121,0.004454102795,0.004866635949],[0.5069794221,0.004264907524,0.004713813182],[0.5009063986,0.004085223279,0.004567717351],[0.4949399058,0.00391453453,0.004427955317],[0.4878584716,0.003695340549,0.004343138347],[0.4833586417,0.003523632632,0.004232875406],[0.4798478767,0.003368185556,0.004121621614],[0.475986826,0.003205587136,0.004028904278],[0.4746452105,0.003069384659,0.00392539279],[0.4734949531,0.00294195495,0.003824913518],[0.4723507959,0.002821498813,0.003728324074],[0.4717439784,0.002725711989,0.003618664386],[0.4717112838,0.002626389281,0.003522077621],[0.4723611737,0.00252078211,0.003441168904],[0.4659325813,0.002360939101,0.00341371095],[0.4593107318,0.002198428382,0.003398032584],[0.4602630773,0.002042755206,0.003386984562],[0.4659669895,0.001923742742,0.003349013406],[0.4790977634,0.001853837432,0.003279772171],[0.5084254626,0.001910927059,0.003140193762],[0.5517401906,0.002088277596,0.002973381114],[0.6143425379,0.002487386956,0.00273802871],[0.6956967146,0.003101953217,0.002481766617],[0.7946191925,0.003948463558,0.002242849743],[0.9212556642,0.005196993925,0.002006662124],[1.073371035,0.006939196784,0.001740519017],[1.262092258,0.009486265553,0.001452392615],[1.434843769,0.01252120179,0.001133872835],[1.505009114,0.01525304219,0.0008364320975],[1.407147419,0.01643756558,0.0005958938696],[1.176279767,0.01562068776,0.0004011366918],[0.9203443815,0.01388104969,0.0002314787264],[0.7308624072,0.01211667489,0.0001037399653],[0.5711912901,0.01045645352,-2.060079392e-05],[0.4493646098,0.008986626252,-0.0001374258917],[0.3549107698,0.007746749769,-0.0002521366795],[0.2832521935,0.006729078727,-0.0003630142737],[0.232227942,0.005916246862,-0.0004639555634],[0.1910917203,0.005233287234,-0.0005647161925],[0.1577335792,0.004651013569,-0.000666423687],[0.1305963517,0.004155118111,-0.0007685051639],[0.1083958356,0.003732594934,-0.0008702360384],[0.09078605464,0.00337950344,-0.0009666302378],[0.07615747979,0.003074109776,-0.001061910148],[0.06396436221,0.002807721473,-0.001156377353],[0.05651775573,0.002577266761,-0.001244097384],[0.05009755787,0.002374039004,-0.001331146254],[0.04453504513,0.002193903996,-0.001417481213],[0.03881188549,0.002033337553,-0.001504529178],[0.03384771378,0.001889647605,-0.001590768457],[0.02952676508,0.001760551768,-0.001676179162],[0.02652423509,0.001648913593,-0.001750972411],[0.02400974052,0.001548269492,-0.001822774188],[0.02175973478,0.001456319755,-0.00189372162],[0.01974999483,0.001371941611,-0.001964183947],[0.01795244609,0.001294326844,-0.002034205637],[0.01633327762,0.00122292304,-0.002103382134],[0.01487178021,0.001157085601,-0.002171718511],[0.01325480299,0.001097648105,-0.002234438371],[0.01177624265,0.001042527324,-0.002296052844],[0.01043728046,0.0009912480085,-0.002356845944],[0.00936233347,0.0009434247952,-0.002416807066],[0.008844197088,0.0008986754243,-0.002475907927],[0.008363737067,0.0008568819405,-0.0025342449],[0.007917546317,0.0008177914427,-0.002591828363],[0.007502889295,0.000781189138,-0.002648587248],[0.00711740938,0.0007468851331,-0.002704410619],[0.006757877188,0.0007146660793,-0.002759513826],[0.006422124249,0.0006843680524,-0.002813907741],[0.006109938983,0.0006559068502,-0.002866988724],[0.005829826633,0.0006295194046,-0.002914789684],[0.005566473782,0.00060457685,-0.002961943777],[0.005318638326,0.0005809778201,-0.003008462298],[0.005085188129,0.000558629634,-0.003054356395],[0.004866250546,0.0005374878128,-0.003099088014],[0.004660063406,0.0005174450921,-0.003142982755],[0.004465246188,0.0004984120654,-0.003186290813],[0.004281023822,0.0004803237935,-0.003229022696],[0.004106684287,0.0004631204342,-0.003271188731],[0.003949687754,0.0004470144777,-0.003307794313]]],[14.968393,[[0.5328646209,0.01562952377,0.01140912564],[0.5276162502,0.0150039842,0.01102648993],[0.5213854798,0.01437836538,0.01067554077],[0.515241338,0.01378295574,0.01034032995],[0.5091859268,0.01321625544,0.01001991909],[0.501598788,0.01247524001,0.009822397968],[0.4966979754,0.01189550695,0.009570452329],[0.4927793582,0.01136977032,0.009317367642],[0.48840927,0.01081763803,0.009105830115],[0.4865302084,0.01035310112,0.008872199954],[0.484860489,0.009918585215,0.008645490764],[0.4832176028,0.009508110558,0.00842748594],[0.4822817084,0.009183832555,0.008180352491],[0.4817911524,0.008845138829,0.007962966902],[0.4818050472,0.008482239965,0.007781228443],[0.4746887037,0.007938022306,0.007715678381],[0.4672680692,0.007383726628,0.007677056646],[0.4666532462,0.006841241295,0.007654322015],[0.4705815202,0.006420946783,0.007573875805],[0.4814796622,0.006161076744,0.007426624413],[0.508017527,0.006318364157,0.007125824393],[0.5474954351,0.006861272103,0.006766019164],[0.6066294788,0.008137113138,0.006249634971],[0.6840053563,0.01010936444,0.005683900947],[0.7771755554,0.01280718075,0.005154904062],[0.8954089166,0.01675966811,0.004628709516],[1.040083159,0.02232202321,0.004026275328],[1.223108397,0.03053823089,0.003365283025],[1.410291799,0.04091144969,0.002626266318],[1.524842624,0.05140778473,0.0019376455],[1.480353134,0.05755099035,0.001388715075],[1.277175904,0.05646068678,0.0009539633899],[1.018827322,0.05116113794,0.000581501435],[0.8145943545,0.04496637628,0.000303727741],[0.637727133,0.03887310865,3.463065753e-05],[0.50069094,0.03334087823,-0.0002173898025],[0.3940006022,0.02863479044,-0.0004647629955],[0.3130878713,0.02476425183,-0.0007040768769],[0.2555483002,0.0216749806,-0.0009223224634],[0.2093739668,0.0190888716,-0.001140474571],[0.1721069072,0.01689312826,-0.00136090012],[0.141940397,0.01503152688,-0.001582373483],[0.1173855446,0.0134526438,-0.001803329145],[0.09799580282,0.01213903679,-0.00201306188],[0.08195992989,0.01100763807,-0.002220566733],[0.06864846795,0.01002465325,-0.002426458923],[0.06050059692,0.009176801452,-0.00261785705],[0.05350200448,0.008431946749,-0.00280792116],[0.04745930215,0.00777405215,-0.002996537632],[0.04127986329,0.007189705004,-0.003186797789],[0.03593568991,0.006668336589,-0.003375366138],[0.03129673027,0.006201233999,-0.003562186938],[0.02807280576,0.005798301454,-0.003726209142],[0.02537708006,0.00543591561,-0.003883811553],[0.02297009966,0.005105584971,-0.004039580062],[0.02082434265,0.004803102051,-0.004194300054],[0.01890864087,0.004525427658,-0.004348061758],[0.0171861264,0.004270466119,-0.004499993029],[0.01563395303,0.004035810182,-0.004650100493],[0.01392249643,0.00382436383,-0.00478814971],[0.0123599078,0.00362858622,-0.004923797857],[0.01094675142,0.00344672756,-0.005057651187],[0.009812815769,0.003277362206,-0.005189673788],[0.009263992582,0.00311907791,-0.00531977682],[0.008755729785,0.002971450466,-0.005448206574],[0.008284294569,0.002833550624,-0.005574983911],[0.007846680973,0.002704589284,-0.005699955017],[0.007440299022,0.002583869766,-0.00582288069],[0.007061669221,0.002470616759,-0.005944222539],[0.006708434899,0.002364232847,-0.006064003251],[0.006380284571,0.002264403785,-0.006180926215],[0.006085948415,0.002171944279,-0.006286473443],[0.005809458804,0.002084630349,-0.006390592892],[0.005549472695,0.00200209495,-0.006493308759],[0.005304767858,0.001924003011,-0.006594644991],[0.005075429256,0.001850189432,-0.006693446446],[0.004859593334,0.001780270456,-0.00679041238],[0.004655797938,0.001713926111,-0.006886080165],[0.004463210837,0.00165092295,-0.006980472596],[0.004281068497,0.00159104613,-0.007073612113],[0.004117018273,0.001535030399,-0.007154776408]]],[19.966425,[[0.5396353838,0.0363269615,0.02086126266],[0.5349507952,0.03494622386,0.02014664709],[0.5293207355,0.03356107684,0.01948845456],[0.52371278,0.03223621379,0.01886073817],[0.5181340974,0.03096930816,0.01826162586],[0.5105118153,0.02926016339,0.01788034917],[0.5055624873,0.02792396853,0.01740933073],[0.5015202487,0.02670729178,0.01693953324],[0.4968877835,0.02541941055,0.01654415461],[0.4945927098,0.02432750771,0.01611494058],[0.4925085485,0.02330530476,0.01569903129],[0.4904645142,0.02233946787,0.01529922854],[0.4893171973,0.02158348591,0.01484884909],[0.4884185452,0.02078436728,0.01445270884],[0.48776138,0.01991748463,0.01412138691],[0.4801183311,0.01863212994,0.01398872132],[0.4720084315,0.01731762531,0.01390541579],[0.4694699953,0.01599062993,0.0138627583],[0.4710808798,0.01494455263,0.01372415642],[0.4788983878,0.01425835074,0.01347505981],[0.501252544,0.01451694897,0.01296385723],[0.5349018476,0.01562098119,0.01235397936],[0.5880542687,0.01839414481,0.01146074041],[0.6580410114,0.02269496108,0.01047498526],[0.7407790902,0.02850369456,0.009550418218],[0.8438413514,0.03690029806,0.008624149654],[0.9719903651,0.04877071962,0.007539404974],[1.135929144,0.06636471282,0.006325601006],[1.3229942,0.08991119363,0.004940559156],[1.478401157,0.1169038859,0.00364663403],[1.510200163,0.137827812,0.002631234021],[1.373440983,0.142612939,0.001850639637],[1.13973548,0.134473879,0.001198828734],[0.9286612431,0.1204687728,0.000720603091],[0.7340775941,0.1051651222,0.0002614780456],[0.5774822652,0.09038155178,-0.0001656514153],[0.4535462558,0.07747356002,-0.0005841673482],[0.3589522414,0.06672970843,-0.0009892026851],[0.2915125765,0.05810982532,-0.001359219123],[0.2375905557,0.05090583112,-0.001729682567],[0.1942705411,0.04480885352,-0.00210444791],[0.1593989583,0.0396627567,-0.002481504282],[0.1311855761,0.03532047294,-0.002858228515],[0.1090320429,0.03172654395,-0.003216678514],[0.09081512422,0.0286470682,-0.003571777267],[0.07577449293,0.0259849072,-0.003924479035],[0.06653707615,0.02369636263,-0.004252681706],[0.05864327642,0.02169613992,-0.004578920846],[0.05186010575,0.01993790334,-0.004902952292],[0.04498231331,0.01838403764,-0.005230092487],[0.03905843487,0.01700325169,-0.00555451013],[0.03393590905,0.01577090321,-0.005876080108],[0.0303752158,0.01471136512,-0.006159377038],[0.02740436898,0.01376156853,-0.006431915348],[0.02475977808,0.01289850524,-0.006701387826],[0.02240867722,0.01211053798,-0.006969091367],[0.02031505304,0.01138922791,-0.007235164107],[0.01843732482,0.01072869524,-0.007498136458],[0.01674931734,0.01012231594,-0.007758008759],[0.01489736254,0.009577388257,-0.007997710155],[0.01321016935,0.009073955329,-0.008233323209],[0.01168727692,0.008607291834,-0.008465853382],[0.01046613661,0.008173514856,-0.008695191333],[0.009871401348,0.007768775149,-0.008921079808],[0.009321619313,0.007392008566,-0.00914408867],[0.008812553193,0.007040712159,-0.009364249053],[0.008340778689,0.006712761321,-0.00958129973],[0.007903345593,0.006406283911,-0.009794836796],[0.007496391088,0.006119222569,-0.01000563211],[0.007117269744,0.005849986234,-0.01021372183],[0.006765515043,0.005597712565,-0.01041693013],[0.006450190303,0.005364402252,-0.0106009722],[0.00615434387,0.005144368705,-0.01078252954],[0.005876478932,0.004936643156,-0.01096164236],[0.005615236255,0.004740343133,-0.01113835068],[0.005370635812,0.004555019089,-0.01131071745],[0.005140660888,0.004379674408,-0.01147991546],[0.004923726027,0.004213477828,-0.01164684615],[0.004718912629,0.004055819326,-0.01181154816],[0.004525379438,0.003906138519,-0.01197405962],[0.004351056021,0.003766255442,-0.01211640257]]],[29.886529,[[0.4949291008,0.1008880798,0.05216358702],[0.4938939264,0.09801603599,0.05025262699],[0.4921325162,0.09508083935,0.04847666056],[0.4901937995,0.09220695675,0.04678924475],[0.4880896538,0.08939709603,0.04518468473],[0.483393539,0.08511626302,0.04406154593],[0.4806238007,0.08176215392,0.04278383174],[0.478331772,0.07864791285,0.04153213821],[0.4752119466,0.07523609814,0.04045347976],[0.4735864764,0.07226032607,0.03933355598],[0.4720608736,0.06944906711,0.03825441942],[0.4705251879,0.06677423471,0.03721998398],[0.4700450491,0.06473427148,0.03608635043],[0.4693307977,0.06248284595,0.0350835165],[0.4682366895,0.05993423107,0.03423512502],[0.461489697,0.05622825455,0.03378928802],[0.4538769777,0.05236269931,0.03346344968],[0.4483464786,0.04810328677,0.03329258371],[0.4455347705,0.04460136436,0.03294936634],[0.4465852948,0.0420326996,0.0324116865],[0.4582322277,0.04202754565,0.03136431874],[0.476787102,0.04415927012,0.03014729332],[0.5120074935,0.05086479757,0.02829450321],[0.5587150342,0.06128019627,0.02622376151],[0.6103255446,0.07475853796,0.02427943259],[0.6700763971,0.0933433027,0.02231214349],[0.7452382932,0.1192723393,0.01985502258],[0.8385684629,0.1565743442,0.01694284198],[0.960995289,0.2095637839,0.01335000319],[1.100370094,0.2805904472,0.009872110442],[1.217060248,0.3597271527,0.007184748609],[1.260060443,0.425045567,0.005251394507],[1.205410462,0.4629707131,0.003756737579],[1.088413456,0.4601722596,0.002724675263],[0.9311877073,0.4351575699,0.001772016792],[0.7692938363,0.3929644304,0.0009140513526],[0.6210397124,0.3463614424,8.476277225e-05],[0.4974560856,0.3020060659,-0.0007140430606],[0.4044883017,0.2633525794,-0.001443865006],[0.3284547368,0.2298704341,-0.002176592589],[0.2667063012,0.200936494,-0.002919191927],[0.2169193532,0.1762940437,-0.003668523806],[0.1768161928,0.1554731208,-0.004419927703],[0.1455441699,0.1382919309,-0.005139448129],[0.1200710058,0.1236564174,-0.00585468399],[0.09925251475,0.1110967665,-0.006567029059],[0.08631796139,0.1003163552,-0.007229965181],[0.07539749936,0.09100182694,-0.007890949572],[0.06612129763,0.0829045272,-0.008549198542],[0.05692008878,0.07584091477,-0.009216216994],[0.04907551556,0.069623185,-0.009878834362],[0.04235807795,0.06412437368,-0.01053662864],[0.03768474882,0.05943200452,-0.01112106202],[0.03380772531,0.05525995782,-0.01168510949],[0.0303843119,0.05149936909,-0.0122435085],[0.02736319138,0.04809212219,-0.01279858812],[0.02469159344,0.04499580541,-0.01335052918],[0.02231203899,0.04218029012,-0.01389650589],[0.02018690688,0.0396129093,-0.01443645069],[0.01788893618,0.03732326613,-0.01493877634],[0.01580820175,0.03522020405,-0.01543305122],[0.01394037042,0.03328141065,-0.01592109914],[0.01244533439,0.03148797344,-0.01640227034],[0.011703177,0.02982089606,-0.0168750862],[0.01102056372,0.02827713952,-0.01734209411],[0.01039152911,0.02684492853,-0.01780332599],[0.009811218848,0.02551428524,-0.01825826113],[0.009275456015,0.02427646338,-0.01870611045],[0.008779090322,0.02312213521,-0.01914832544],[0.008318504296,0.02204403052,-0.01958496031],[0.007892697185,0.02103794347,-0.0200118619],[0.007511769225,0.02011123001,-0.02040183388],[0.007155589596,0.01924042435,-0.02078661554],[0.006822150953,0.01842120397,-0.02116627866],[0.006509640701,0.01764965349,-0.02154089575],[0.006217858961,0.01692362673,-0.02190677714],[0.005944289254,0.01623885164,-0.02226615369],[0.005686943903,0.01559176343,-0.02262074078],[0.005444621933,0.01497971046,-0.0229706122],[0.005216228706,0.01440026843,-0.0233158415],[0.005010598088,0.01386032041,-0.02362221007]]],[39.865811,[[0.3808272795,0.1539456121,0.1096417274],[0.3830018837,0.1517414125,0.1053923539],[0.3848911885,0.1493960055,0.1014055829],[0.3866520515,0.1470001146,0.09762242747],[0.3882798436,0.1445605907,0.09403034251],[0.3882877886,0.1397450705,0.09127372534],[0.3890572352,0.1359855599,0.08834645056],[0.3898989272,0.1323709411,0.0855193048],[0.3901009419,0.1281282743,0.08301632509],[0.3907930073,0.1242608044,0.0805161573],[0.391436608,0.120524739,0.07811899066],[0.391990654,0.1169000361,0.07582694442],[0.3932519089,0.1142504634,0.07340003534],[0.3940879681,0.111089349,0.07122771167],[0.3942991627,0.1072417401,0.06935090952],[0.3912801887,0.1016315423,0.06810428619],[0.3872675796,0.09554121478,0.06709145814],[0.3824962193,0.0880226267,0.06647148912],[0.378617642,0.08152722678,0.06564061482],[0.3760498839,0.07632282979,0.06458549587],[0.3791401542,0.07512929696,0.06282653866],[0.3852157112,0.07715941204,0.06091898854],[0.4026145561,0.08654263214,0.05797683258],[0.4258707922,0.1010594276,0.05469816934],[0.4490793515,0.1188904014,0.05168561103],[0.4730717645,0.1421125365,0.0486924376],[0.503181828,0.173389569,0.04459910323],[0.5369003286,0.2156647231,0.03934188422],[0.5818380536,0.2743269245,0.03183075177],[0.6337567392,0.3529993857,0.02378122785],[0.6852625703,0.4475160989,0.0172895619],[0.7302310717,0.5496504417,0.01275131204],[0.7581943182,0.6545976677,0.009525921005],[0.7623735578,0.7279416972,0.007500896453],[0.7412284688,0.7850539531,0.005777576863],[0.6954673636,0.8072096866,0.004341816211],[0.629396471,0.799128277,0.00301626428],[0.5529861674,0.7653940405,0.001772899656],[0.4804004262,0.7138599679,0.0006550503587],[0.409861854,0.6552346797,-0.0004631209065],[0.3447165204,0.5936559562,-0.001592854343],[0.2870637208,0.5335776422,-0.002733447091],[0.2374781113,0.4777710626,-0.003880597412],[0.1970545584,0.428548451,-0.004986906635],[0.1631410892,0.3846527274,-0.006090857281],[0.1348878905,0.345736841,-0.007193756809],[0.1168305184,0.3109476832,-0.008214058565],[0.1015389744,0.280682161,-0.009236293263],[0.08854921588,0.2542851462,-0.01025861059],[0.07582135823,0.2313813321,-0.01130254848],[0.06500330003,0.211205596,-0.01234237591],[0.05578069141,0.1933827457,-0.01337708541],[0.04933533663,0.1781674157,-0.01430484848],[0.04400422463,0.1646887353,-0.01520390503],[0.03932570867,0.1525987845,-0.01609581739],[0.03522144655,0.141700125,-0.01698353553],[0.03161369265,0.1318483457,-0.01786711264],[0.02842086258,0.1229399961,-0.01874246875],[0.02558748612,0.1148624154,-0.0196093314],[0.02257423367,0.1077201021,-0.02042557311],[0.01986345067,0.1011924846,-0.0212300391],[0.0174444429,0.09520367175,-0.02202506322],[0.015511012,0.08968510066,-0.02280827007],[0.01452691028,0.08456464461,-0.02357429151],[0.01362682338,0.07984950866,-0.02433164762],[0.01280186179,0.07549879145,-0.0250803028],[0.01204474877,0.07147787269,-0.02581944059],[0.01134922818,0.06775651904,-0.02654786842],[0.0107079746,0.06430323768,-0.02726760764],[0.01011572635,0.06109333696,-0.02797868813],[0.009570569813,0.05811180853,-0.02867512207],[0.00908429841,0.05537871242,-0.02931792668],[0.008631488943,0.05282125317,-0.02995250978],[0.008209275444,0.05042506768,-0.03057895215],[0.007815083708,0.04817721098,-0.03119733904],[0.007448340386,0.04607016361,-0.03180236772],[0.007105694622,0.04409022627,-0.03239722067],[0.006784487588,0.04222597131,-0.03298434565],[0.006483046651,0.04046880021,-0.03356384059],[0.006199854585,0.03881088779,-0.03413580494],[0.00594523659,0.03727158821,-0.03465118112]]],[50.199651,[[0.2758884113,0.1641712048,0.2080484032],[0.2776542035,0.1636050616,0.2000601764],[0.279412962,0.1629301334,0.1924578159],[0.2812093926,0.1621860507,0.1852044021],[0.2830368995,0.1613732358,0.1782849389],[0.2844698768,0.1583342735,0.1725702221],[0.2861385549,0.1560835873,0.1667685818],[0.2878467384,0.1538400378,0.1612017616],[0.289356589,0.1508884658,0.1561484226],[0.2909928502,0.1480819306,0.1512269392],[0.2926002814,0.1452915973,0.1465103206],[0.2941637159,0.1425110206,0.1419950932],[0.2960121018,0.1406585434,0.137342429],[0.297650166,0.1381405982,0.1331173381],[0.2989398278,0.1347245063,0.1293825735],[0.298973175,0.1295245191,0.126464558],[0.298378194,0.1235617541,0.1239429624],[0.2965422781,0.1152507351,0.1222179688],[0.2944972914,0.1076831146,0.1203208308],[0.2922881607,0.1011964405,0.1182741233],[0.2921336118,0.09901160796,0.1155170932],[0.2927935751,0.100362766,0.1128383002],[0.2997817876,0.1100763796,0.1089328844],[0.3094219998,0.12495535,0.1047884249],[0.3181610113,0.1424832281,0.101297495],[0.3263572577,0.1642986575,0.09822854554],[0.3368852885,0.1924954628,0.09346583074],[0.347043467,0.2283262371,0.08671299195],[0.3577026354,0.2751092363,0.07421719655],[0.3638029081,0.3338017498,0.05782988388],[0.3647935231,0.4008109267,0.04253041981],[0.3644705959,0.4732851837,0.03101529325],[0.3626952614,0.5522318654,0.02299010609],[0.3618462002,0.6188218542,0.01828961551],[0.3582588154,0.6880801937,0.01467581348],[0.3527311714,0.7494665074,0.01200891599],[0.3431135335,0.8033630295,0.009791510588],[0.3292968174,0.845277702,0.007874185412],[0.3138796337,0.8687257511,0.006256075485],[0.2943529915,0.8795535441,0.004689564805],[0.2714563661,0.8763156894,0.003146665226],[0.2462092016,0.8599033594,0.001611158591],[0.2197797108,0.8324893855,7.66066538e-05],[0.1944422433,0.7975033656,-0.001405658433],[0.1699703729,0.7568976395,-0.002884720388],[0.1470398519,0.7127060136,-0.004362784564],[0.1316292877,0.6631622566,-0.005702895906],[0.1174992209,0.6153719066,-0.007054069724],[0.1046866869,0.5700209886,-0.008413020617],[0.0912870816,0.5286040382,-0.009819646482],[0.07938988061,0.4897867018,-0.01122533901],[0.06888415636,0.4537146211,-0.01262835099],[0.0613840501,0.4214007599,-0.01389606593],[0.055051147,0.3918557058,-0.01513013261],[0.04939384605,0.3647029374,-0.01635813534],[0.04435913873,0.3397199034,-0.01758285172],[0.03988231112,0.3167525354,-0.01880396686],[0.03588470895,0.2957032647,-0.02001656046],[0.03231252504,0.276406538,-0.021219959],[0.02850852828,0.2593150736,-0.02237078921],[0.02507413844,0.2435671296,-0.02350756905],[0.02200174321,0.2290181856,-0.02463249477],[0.01953718526,0.2155063876,-0.02573921799],[0.01826070827,0.2028290785,-0.0268134187],[0.01709250649,0.1911391664,-0.0278773015],[0.01602173149,0.1803443356,-0.02893063524],[0.01503938315,0.1703652663,-0.02997226427],[0.01413760671,0.1611314937,-0.03100059319],[0.01330706051,0.152567313,-0.03201793439],[0.01254098828,0.1446132839,-0.03302420655],[0.01183685537,0.1372339889,-0.03401204317],[0.01120947218,0.1304838312,-0.03493404376],[0.01062626309,0.1241758598,-0.0358451802],[0.01008346376,0.1182744731,-0.03674548741],[0.009577677568,0.1127473821,-0.03763501298],[0.009108024548,0.1075759725,-0.03850726341],[0.008670130753,0.1027255299,-0.0393660583],[0.008260514878,0.09816709006,-0.04021433435],[0.007876945485,0.09387885585,-0.04105217842],[0.007517395447,0.08984093763,-0.04187968353],[0.007194503359,0.08610228779,-0.04263713564]]],[59.672712,[[0.2202886581,0.1531359867,0.3306116586],[0.2209094931,0.1531357064,0.3195556902],[0.2215305405,0.153086264,0.3087764731],[0.2221986107,0.1530209243,0.2982987081],[0.2229167527,0.1529370746,0.2881329084],[0.2236098063,0.1511650722,0.2791777483],[0.2244572468,0.1500049162,0.2702512087],[0.2253839067,0.1488490476,0.2616401182],[0.2263058351,0.1471277319,0.2536163847],[0.227352068,0.1454856834,0.2458694396],[0.2284231378,0.1438301013,0.2384010795],[0.229508567,0.1421545778,0.2312049646],[0.2307098625,0.1412197385,0.2239054164],[0.2318887979,0.1396983879,0.2171611366],[0.2329820748,0.1373660157,0.2110594665],[0.2335724426,0.1335306995,0.205774813],[0.2339015816,0.1289286153,0.2010343164],[0.2335892104,0.1219330049,0.1975316386],[0.232913536,0.1153239178,0.193974855],[0.2317951322,0.1094388543,0.1904182562],[0.2313428238,0.1073598673,0.1863785853],[0.231012537,0.1085693313,0.1827804774],[0.2343735137,0.1175879232,0.1783286226],[0.2393285305,0.1311513914,0.1741693859],[0.2438794118,0.1467963442,0.1713221313],[0.2484450832,0.1658101836,0.1698051013],[0.2548181022,0.1895489023,0.1669734602],[0.261457323,0.2185504829,0.1625899529],[0.2668635145,0.2541948893,0.1496117272],[0.2644705418,0.2957748285,0.1266146504],[0.252304707,0.3397835074,0.09894851997],[0.2350956992,0.3845406328,0.07357730323],[0.2172418057,0.4316622591,0.05405170378],[0.20478958,0.4715424594,0.042163106],[0.193275205,0.5139609226,0.0333073526],[0.1841258733,0.5544246217,0.02716986151],[0.1757486382,0.5943354698,0.02254758431],[0.1679227185,0.6320719834,0.01896174088],[0.1616328067,0.6637434857,0.01623532153],[0.154794877,0.6929464941,0.01380924789],[0.1473672898,0.7184344691,0.01158713771],[0.1392461433,0.7393348749,0.009493326096],[0.1303939626,0.7550464468,0.007479280701],[0.1214213701,0.7648476022,0.005577124513],[0.1119971453,0.7690044976,0.003713417344],[0.1023232178,0.7673430904,0.001876617131],[0.09649427957,0.7542572876,0.0002822294598],[0.0905179026,0.7373232307,-0.001327142658],[0.08449335889,0.7171267164,-0.002948683077],[0.07698994743,0.6963220898,-0.004652931911],[0.06972036637,0.673055235,-0.006356477066],[0.06276470762,0.6479609115,-0.008057982028],[0.05771384133,0.6219385645,-0.009599088724],[0.05322457777,0.5955370782,-0.01110327566],[0.04896655355,0.5690750702,-0.01260357986],[0.04497156528,0.5427600156,-0.01410207826],[0.04124707286,0.5168433466,-0.01559817442],[0.03777387256,0.4916194979,-0.0170869555],[0.03454803818,0.4672297973,-0.01856738186],[0.03090958485,0.4449533307,-0.02000622801],[0.02752305807,0.4235210424,-0.02143030905],[0.02441344701,0.4029250942,-0.02284107565],[0.02188101708,0.3830193062,-0.02422599635],[0.02060502931,0.3634791907,-0.02555673549],[0.01941253296,0.3450202588,-0.02687734947],[0.01829888303,0.3276029893,-0.02818732834],[0.0172601158,0.3111893876,-0.02948519678],[0.01629242866,0.2957394703,-0.03076902581],[0.01538935442,0.2811880771,-0.03204109966],[0.014546564,0.2674866593,-0.03330115879],[0.01376399422,0.2546213697,-0.03454112033],[0.01306143275,0.2427426818,-0.03570977485],[0.01240285995,0.2315324212,-0.0368661211],[0.01178534911,0.2209519642,-0.03801009826],[0.01120613932,0.210964191,-0.03914166864],[0.01066523074,0.2015546904,-0.04025373937],[0.01015830705,0.1926740549,-0.04135035389],[0.009681943427,0.1842809701,-0.0424346182],[0.009234070485,0.1763457246,-0.04350656885],[0.008812758759,0.1688403015,-0.04456625496],[0.00843349148,0.1618727857,-0.04554899968]]],[75.140811,[[0.1687107126,0.1349547366,0.5083065925],[0.1693323503,0.1348501498,0.5000755662],[0.1698916891,0.1346966362,0.491614936],[0.1703998469,0.1345395788,0.4828913974],[0.1708588165,0.1343823634,0.4739248072],[0.1712255084,0.1330377693,0.465352867],[0.1716106147,0.1321979271,0.4563476165],[0.1719866901,0.1314086437,0.4471922645],[0.1723165118,0.1302543521,0.4381215583],[0.1726895319,0.1292280462,0.4289715209],[0.1730530327,0.128225199,0.419796766],[0.1734060517,0.1272362769,0.4106273174],[0.1737979692,0.1267913284,0.4012414859],[0.1741815991,0.1259716983,0.3921270135],[0.1745414602,0.124616776,0.3833905276],[0.1746191839,0.1221452814,0.3750422057],[0.1746039572,0.1191379698,0.3670547389],[0.1744059226,0.1144595366,0.360120398],[0.1740054879,0.1099998757,0.3531415512],[0.1732845532,0.1060371156,0.3460919976],[0.1727250055,0.1050427295,0.3387978488],[0.1720047844,0.1067792587,0.3320429418],[0.1734221889,0.1146590365,0.3261783285],[0.1759218606,0.1260580236,0.3219442911],[0.1783258655,0.1390863179,0.319690688],[0.1809408894,0.1547176812,0.3198225182],[0.1853718667,0.1735301908,0.3212792497],[0.1910549325,0.1960622769,0.3243793354],[0.1988982149,0.2225587454,0.3246066002],[0.2051655366,0.2520666519,0.317035826],[0.2044832903,0.2807102974,0.2967256274],[0.1932329584,0.3049527247,0.261975349],[0.1729670921,0.3254723926,0.2190503199],[0.1528676966,0.3393996488,0.1812979458],[0.1324516788,0.3530405128,0.1467042236],[0.1150090971,0.3655310566,0.1187445935],[0.1003048461,0.378419113,0.09659695167],[0.08841550863,0.3915729443,0.0796432163],[0.079715284,0.4038010004,0.0673195456],[0.07230685794,0.4165454645,0.05745727008],[0.06594516341,0.4295176003,0.04947706976],[0.06038044768,0.4425320551,0.04290533295],[0.05539560935,0.4554297048,0.0373714722],[0.0510637439,0.4677286857,0.0327119118],[0.04705069429,0.4795747762,0.02861119657],[0.04330289504,0.4907665981,0.02493785817],[0.04154838975,0.4982213562,0.02211235068],[0.03987708638,0.5048949478,0.01943430399],[0.03826609433,0.5107004018,0.01687044548],[0.03596220414,0.5168021868,0.01422536371],[0.0337076508,0.5218474782,0.01167639968],[0.03149543504,0.5257750984,0.009205379971],[0.03006998233,0.5278332024,0.007014358165],[0.02881735456,0.5287227412,0.004911503501],[0.02757048751,0.5286020211,0.002843135594],[0.0263422354,0.5274225806,0.0008038146465],[0.02513506457,0.5251879813,-0.001210193264],[0.02393716289,0.5219728681,-0.003199472582],[0.02275109096,0.5178112468,-0.00516563682],[0.02111972096,0.5138292122,-0.007120140435],[0.01949397909,0.509007646,-0.009046695822],[0.01790522831,0.5033326095,-0.0109461757],[0.01659533777,0.4965346167,-0.01279101569],[0.0161310068,0.4879599011,-0.01451680424],[0.01566417005,0.4788772743,-0.01622925489],[0.01519654069,0.4693526321,-0.01792808695],[0.01473028879,0.4594574362,-0.01961202916],[0.01426767784,0.4492643915,-0.02127931175],[0.01380889005,0.4388206006,-0.02293223119],[0.01335530052,0.4281853567,-0.02457059723],[0.01291143542,0.4174556907,-0.02618651017],[0.01249844773,0.4069393332,-0.02772949296],[0.01209177194,0.3963670892,-0.02925742379],[0.01169230828,0.3857818293,-0.0307702841],[0.01130083956,0.3752227313,-0.03226806672],[0.01092044385,0.364756817,-0.03374374742],[0.0105500579,0.3543949858,-0.03520132767],[0.01018905062,0.344151027,-0.0366438992],[0.009837788678,0.3340495223,-0.0380715057],[0.009496548392,0.3241117468,-0.03948419968],[0.009183309696,0.3145932782,-0.04081726851]]],[90.355783,[[0.130795161,0.1198622053,0.5812181802],[0.1314255293,0.1200265747,0.5767807867],[0.1320784454,0.120131065,0.5724436705],[0.1327454699,0.1202102731,0.5680955495],[0.1334219739,0.1202641326,0.5637059576],[0.1341703812,0.1193475491,0.5602621002],[0.1348789395,0.1188030538,0.5561479131],[0.1355725775,0.1182716316,0.5517901083],[0.1362588365,0.117418949,0.5475218685],[0.1369147544,0.116655686,0.5428264621],[0.1375428935,0.1158925729,0.5378829121],[0.1381422498,0.1151248077,0.5327038547],[0.1387253987,0.1147820301,0.5269924111],[0.139276091,0.1141362847,0.5212528499],[0.1397728719,0.113067472,0.5155147304],[0.1401636807,0.1110531337,0.5102878678],[0.140436999,0.1086201761,0.5049530158],[0.1403730215,0.1049709058,0.4993688645],[0.1400197118,0.1015693662,0.4928219318],[0.139241301,0.09866615229,0.4850061208],[0.1382567368,0.09830378652,0.4753829384],[0.1368503248,0.1003135478,0.464773775],[0.1368332579,0.107299987,0.4552919488],[0.137409743,0.11713607,0.4473411314],[0.1376451077,0.1283170143,0.4406091644],[0.1376148639,0.1415906616,0.4352624273],[0.1386404127,0.1572008994,0.4321555922],[0.1398734895,0.1756538665,0.430602539],[0.1424715362,0.1972046658,0.4307127838],[0.1450849685,0.2219383461,0.4310110149],[0.146941907,0.2480000862,0.4299769268],[0.1475929081,0.2732142698,0.4255511966],[0.1452153661,0.2969168356,0.415437774],[0.1402287297,0.3124826938,0.4000313943],[0.1311686566,0.3242446212,0.3778321836],[0.1192633003,0.3296853999,0.3499583906],[0.1054233085,0.3309242743,0.317945895],[0.09145009879,0.3294413961,0.2845501043],[0.07943088734,0.3263703801,0.2532251777],[0.06850474858,0.3236262139,0.2235246998],[0.05892590296,0.3215815706,0.1962842157],[0.05072535199,0.3205454316,0.1720181186],[0.04377619026,0.3206043541,0.1508112373],[0.038114286,0.3216355806,0.1328218834],[0.03330729837,0.3235001314,0.1172904867],[0.02921326017,0.3260231139,0.1038871519],[0.02691447681,0.3277906295,0.09346899734],[0.02493395111,0.3300146246,0.08430828157],[0.02321120866,0.3325789295,0.07619508959],[0.02124389414,0.3359388734,0.06858388392],[0.01947995096,0.3394491399,0.06176100972],[0.0178825683,0.3430397419,0.05559573261],[0.01685238567,0.3462434771,0.05035646507],[0.01599699406,0.3493548517,0.04560205928],[0.01520608027,0.3524240003,0.04118551064],[0.01447663367,0.3553961453,0.03705949835],[0.01380087102,0.3582351661,0.03318319805],[0.01316371845,0.3609306923,0.02952172701],[0.01255946726,0.3634557951,0.02604694367],[0.01171890158,0.3662905025,0.02265324113],[0.01089289915,0.3689410416,0.01941279742],[0.01009328404,0.3713573576,0.01631237531],[0.009453949396,0.3733184769,0.01339323077],[0.009304394935,0.3743201631,0.01076839526],[0.009158762699,0.3750655256,0.008219439392],[0.009016138116,0.3755440502,0.005739306777],[0.00887598858,0.3757491771,0.003322815781],[0.008738004632,0.3756775294,0.0009660734526],[0.008601051551,0.375318851,-0.001337703199],[0.008464697435,0.3746697868,-0.003592475183],[0.008330254289,0.3737467217,-0.005794805222],[0.008207919505,0.3726701742,-0.007902733708],[0.00808482192,0.3713088751,-0.009970533569],[0.007960822544,0.3696650336,-0.01200060853],[0.007835832517,0.3677423671,-0.01399509262],[0.007711175023,0.3655636665,-0.01594956083],[0.00758600556,0.363125829,-0.01786926771],[0.007459747432,0.3604288964,-0.01975848809],[0.00733246084,0.35748168,-0.02161859629],[0.007204232342,0.3542940684,-0.0234508315],[0.007086579243,0.3510432667,-0.02519746389]]],[100.230755,[[0.1139758387,0.1101559783,0.6111783872],[0.1143326178,0.1103829557,0.606460607],[0.1147066507,0.1105705387,0.6019432184],[0.115097938,0.1107514102,0.5975598918],[0.115508967,0.110923889,0.5933068323],[0.1160401275,0.1102955075,0.5903974121],[0.1165512525,0.1099884215,0.5869986833],[0.1170767371,0.1096954724,0.5835834314],[0.1176422802,0.1091284349,0.5805595929],[0.1182037536,0.1086348884,0.5773048093],[0.1187666918,0.1081322193,0.573981403],[0.1193291495,0.1076145825,0.570583832],[0.1198721346,0.1074511625,0.5666621938],[0.1204225573,0.107017188,0.5629150849],[0.1209642563,0.1062048354,0.5593705554],[0.121522349,0.1045455119,0.5567845097],[0.1220172607,0.1024990188,0.5542570195],[0.1222252167,0.09937814379,0.5515449034],[0.12211289,0.09646640561,0.5474996091],[0.1215277593,0.09400475143,0.5415774222],[0.1205260913,0.09383003671,0.5324998553],[0.1189867483,0.0958131195,0.5212211005],[0.1183866164,0.1021938221,0.5097692198],[0.1181443495,0.1110629609,0.4991027324],[0.1175546736,0.1210823041,0.489221381],[0.1166698843,0.1328647702,0.4801629277],[0.1165717045,0.1464990405,0.4730868324],[0.1164718777,0.162357706,0.4668617971],[0.1168122113,0.1804791588,0.461472125],[0.1158251441,0.2009033622,0.4554277404],[0.1132463794,0.22235947,0.4494926699],[0.1103447353,0.2439173175,0.445125839],[0.1072356254,0.26609529,0.4416404013],[0.1049542716,0.2837075307,0.438542674],[0.1017510887,0.3006874578,0.4338262685],[0.09777270332,0.313869195,0.4267016629],[0.0922950681,0.3233508076,0.4161262038],[0.08547019322,0.3283843555,0.4018772549],[0.0783907075,0.3284492945,0.3848529654],[0.07053384061,0.3256419802,0.3646689672],[0.06240459199,0.3205900083,0.3419032997],[0.05447077377,0.3143349437,0.3174885298],[0.0470680529,0.307825978,0.2924189363],[0.04062847282,0.3018185157,0.2680693218],[0.03494223504,0.2965535874,0.2445704563],[0.03000540192,0.2921708079,0.2223648941],[0.02696913263,0.2877907698,0.203235018],[0.02434565997,0.2844572767,0.1856082481],[0.02207870294,0.282045924,0.1694795779],[0.01969311429,0.2808114614,0.1542820189],[0.01761249582,0.2802282975,0.1404866206],[0.01578812356,0.2801965501,0.127977405],[0.0145620281,0.2804263701,0.1172312093],[0.01355092091,0.2809859434,0.1075405671],[0.01264646894,0.2818531137,0.09866633988],[0.0118385218,0.2829584542,0.09052053701],[0.01111402957,0.2842518553,0.08302274129],[0.0104551491,0.2857043683,0.07609905932],[0.009852389992,0.2872777262,0.06968388848],[0.009091321488,0.289265635,0.06358936338],[0.008367732985,0.2913274415,0.05790193938],[0.007687008445,0.2934190093,0.05258409141],[0.007147559537,0.2953845806,0.04767864406],[0.006993496064,0.2968774533,0.04333314624],[0.006851118352,0.2983475459,0.03921413405],[0.006718861944,0.2997780606,0.03529839565],[0.006595536805,0.3011548748,0.03156644772],[0.006480189249,0.3024659336,0.02800167207],[0.006371359558,0.3036958265,0.0245860528],[0.006268151973,0.3048330009,0.02130572494],[0.006170916828,0.3058764786,0.0181550156],[0.006086077096,0.3068811518,0.01516544051],[0.006004350035,0.3077684384,0.01227807417],[0.005925248122,0.3085303769,0.009484571202],[0.005848341374,0.3091597668,0.006777489502],[0.005774175108,0.3096599302,0.004156042508],[0.005701850753,0.3100201127,0.001610950488],[0.005630669826,0.3102311243,-0.0008656597255],[0.00556038015,0.3102886515,-0.003278565765],[0.00549076254,0.3101890949,-0.005632065028],[0.005429443183,0.3100286958,-0.007875936081]]],[124.765955,[[0.08552896174,0.09150043892,0.6702579588],[0.08590015598,0.09169591093,0.6670348083],[0.08628079743,0.0918474556,0.6638333757],[0.08665653134,0.09198707546,0.6605466955],[0.08702370283,0.09211601326,0.6571625464],[0.08746420525,0.09167363175,0.6548599657],[0.08784173571,0.09147995855,0.6518653085],[0.08819557661,0.09131040865,0.6486908593],[0.08855530118,0.09095761136,0.6457855587],[0.0888781336,0.09068803946,0.6425954405],[0.08918315971,0.09042546892,0.639322886],[0.08947344577,0.09016430353,0.6360007065],[0.08972921441,0.09015947547,0.6321625077],[0.08998714956,0.08998531942,0.6286303777],[0.09024721038,0.08956845565,0.6255312892],[0.09056397967,0.08852846557,0.6236654254],[0.0908704365,0.08722932441,0.6222695405],[0.09104788907,0.08524880176,0.6216899253],[0.09101082843,0.0834303858,0.620241448],[0.09061713564,0.08196134694,0.6172332082],[0.08976032782,0.08220224555,0.610348667],[0.08836393001,0.08409629489,0.6002855916],[0.08738231318,0.08916065903,0.5876643498],[0.08656317105,0.09599698343,0.5747717102],[0.0855090476,0.1036505772,0.5625518097],[0.08426542706,0.1125322285,0.5510980278],[0.08373355065,0.1225203244,0.5418532171],[0.08351736871,0.133914599,0.5342602567],[0.08444458206,0.1464804794,0.5283401213],[0.08531421734,0.1600897804,0.5207920166],[0.08445873193,0.1734154369,0.5080600498],[0.08048217753,0.1851631311,0.4884478169],[0.07326167742,0.1956995313,0.4644725368],[0.06599324545,0.2034049889,0.4447450529],[0.0585540902,0.2112468409,0.4280931562],[0.05229874882,0.2186649033,0.4167962706],[0.04707920661,0.2263250778,0.4096682425],[0.04288276126,0.2340421941,0.4058552361],[0.03987214239,0.241053933,0.4047107096],[0.03724153439,0.2480623044,0.4047135376],[0.03488254565,0.2547860879,0.405414615],[0.03267706395,0.2609975908,0.4063621222],[0.03052816211,0.2664868933,0.4071807417],[0.02849648449,0.2709417365,0.4076347323],[0.02644150823,0.2743168367,0.4074573116],[0.02436274513,0.2764427048,0.4064601111],[0.0232310583,0.2757840419,0.4050763346],[0.02204183575,0.2740382083,0.4025437476],[0.02080632928,0.2712934348,0.3987958908],[0.01915427389,0.2682170109,0.393556457],[0.01751400548,0.2643427915,0.3870593988],[0.01590904064,0.2598553543,0.3793320424],[0.01474178812,0.2549013976,0.3709539724],[0.01369099333,0.2497655223,0.3616678772],[0.01268041999,0.2446037673,0.3514708771],[0.01172359719,0.2395136929,0.3404768972],[0.01082640256,0.2345928696,0.3288187939],[0.009986214404,0.2299377191,0.3166454999],[0.009204245838,0.2255992574,0.3040975164],[0.008297613662,0.2219153449,0.2912691873],[0.007450864653,0.2185678633,0.2783084627],[0.00667139942,0.2155501732,0.2653323642],[0.006042900659,0.212788647,0.2525524737],[0.005759333958,0.2101108053,0.2403278455],[0.005497650078,0.2077785861,0.2283451661],[0.005256477569,0.2057696177,0.2166589421],[0.005034551652,0.2040615997,0.2053133853],[0.004830635772,0.2026321961,0.1943420068],[0.004642934595,0.2014551201,0.1837604889],[0.004470127098,0.2005079676,0.1735815408],[0.004311860749,0.1997759549,0.163822994],[0.004172294181,0.1992781356,0.1545572788],[0.004043290444,0.1989444695,0.1456831368],[0.003923958477,0.198758502,0.137193283],[0.003813472418,0.1987048924,0.1290775698],[0.00371168859,0.1987740884,0.1213320645],[0.003617485169,0.1989498347,0.1139372215],[0.00352994738,0.1992178727,0.1068745576],[0.003448496034,0.1995669666,0.1001288096],[0.003372601041,0.1999867148,0.09368444006],[0.003306384364,0.2005059507,0.08758758335]]],[150.029332,[[0.06698485625,0.0770951811,0.7011232388],[0.06719775545,0.07728673272,0.6981284847],[0.06741237458,0.07744929341,0.6952343076],[0.06762034016,0.07761088115,0.6923660391],[0.06782409391,0.07777185886,0.689539116],[0.0681140526,0.07751419078,0.6880872072],[0.06835911627,0.0774518834,0.6860611016],[0.06860055227,0.07741172241,0.6840069923],[0.06887390108,0.07723313934,0.6824118413],[0.06912887028,0.07712161338,0.6806057846],[0.06938586747,0.07701085261,0.6787896254],[0.06964626067,0.07689506465,0.6769682708],[0.06987952361,0.07696617855,0.6745940356],[0.07013003304,0.07690649092,0.6725345268],[0.07039528504,0.0766614198,0.6708765902],[0.07076311794,0.07591467276,0.6705800018],[0.07113085443,0.07496718881,0.6706449624],[0.07136579411,0.07355072739,0.6712118924],[0.07138645125,0.07229093575,0.6706522709],[0.07106469758,0.0713474221,0.6682687424],[0.07024711026,0.0717677472,0.6615612856],[0.06889934013,0.07350018508,0.6512314784],[0.06772816211,0.07760225097,0.6377489398],[0.06658573994,0.08302256136,0.623581405],[0.06519901556,0.08905212755,0.6097838954],[0.06357251468,0.09598023033,0.5963437154],[0.06241399755,0.103632291,0.5851263094],[0.06132928117,0.1122477109,0.5753535265],[0.06084816607,0.1216269762,0.5681819673],[0.06004950174,0.1318753137,0.5619577947],[0.05858887309,0.142446818,0.5564005848],[0.05701657296,0.1529465947,0.5520804514],[0.05539503568,0.1637040963,0.5478630099],[0.05418827226,0.1721708291,0.5431796053],[0.05237312562,0.1801236945,0.5355053871],[0.04988519041,0.1859257766,0.5240936557],[0.04634183474,0.1896778848,0.5083772648],[0.04198565164,0.1913274447,0.4894348414],[0.03762903844,0.1910995997,0.4699531977],[0.03316800554,0.1902847292,0.4504711645],[0.02894121555,0.1893562953,0.4324448324],[0.02515155431,0.1887416183,0.4168895163],[0.02186369727,0.1886675839,0.4042128832],[0.01915912239,0.1891567401,0.3945841259],[0.01686139861,0.190162716,0.3874171357],[0.01490918216,0.1915818552,0.3823540659],[0.01385097315,0.192595232,0.3801237831],[0.01295007583,0.1938497739,0.3789943316],[0.01217263196,0.1952506752,0.3787053351],[0.01125462561,0.1970312332,0.3786794577],[0.01042360396,0.1987989418,0.3791651531],[0.009659970897,0.200488848,0.3800015332],[0.009177458853,0.2018355021,0.3812842193],[0.008773306998,0.2029805876,0.3826844303],[0.008389380919,0.2039333497,0.3840626221],[0.008024481897,0.2046489171,0.3853482666],[0.007674987666,0.205098074,0.3864710534],[0.007333458796,0.2052730659,0.3873619287],[0.006997818322,0.2051600235,0.3879636324],[0.006521316556,0.2050520082,0.388114023],[0.006044101021,0.2046587852,0.3878953825],[0.005574833932,0.2039657797,0.3872685104],[0.00518881375,0.2028824863,0.3862510729],[0.005065277373,0.2011998463,0.3849449472],[0.004938412249,0.1993057446,0.3831125413],[0.004808674014,0.1972268844,0.3807359302],[0.004676784214,0.1949940481,0.3778044492],[0.004543602498,0.1926402334,0.3743147963],[0.004409499725,0.1901929538,0.3702653725],[0.004275220513,0.1876831719,0.3656637752],[0.004142400796,0.1851511448,0.3605350586],[0.004017250904,0.1826893738,0.3549749191],[0.003893392027,0.1802419647,0.3489280122],[0.0037714128,0.1778313493,0.3424233114],[0.003651836758,0.1754773037,0.3354942009],[0.003535775287,0.1732045516,0.328188941],[0.003423161435,0.1710220295,0.3205412485],[0.003314005654,0.168937745,0.3125880448],[0.003208549397,0.166960689,0.3043723277],[0.003106969587,0.1650975056,0.2959375524],[0.003014189991,0.1634077309,0.2874279775]]],[200.12498,[[0.04571823687,0.05830577136,0.7352529656],[0.045865725,0.05846393836,0.7331575381],[0.04602090084,0.0585976568,0.7311537621],[0.04617225451,0.05872838807,0.7291378803],[0.04631910754,0.05885684355,0.7271159595],[0.04653326448,0.05871343783,0.7264613995],[0.04670026167,0.05870316132,0.7251409243],[0.04685621197,0.05871118526,0.7237416304],[0.04703256374,0.05863168794,0.7227886138],[0.04718389215,0.05860654708,0.7215822485],[0.04733283083,0.05858493717,0.7203621807],[0.04748191176,0.0585624025,0.7191448081],[0.04760523334,0.05866067296,0.7173577558],[0.0477411668,0.05868153823,0.7159187192],[0.04789037903,0.05859209437,0.7149351709],[0.04814286129,0.05816156189,0.7154868061],[0.04840547016,0.05760833216,0.7164971662],[0.0485793426,0.05681175287,0.7181605172],[0.04859593686,0.05614836457,0.7187301698],[0.04835328957,0.05573452464,0.717438985],[0.04768025684,0.05624825646,0.7113570658],[0.04656332042,0.05764362358,0.701118863],[0.04543286041,0.06050016074,0.6867167067],[0.04425073683,0.06416438111,0.6710797778],[0.0428772717,0.06820360107,0.6556028764],[0.04130368098,0.0727850909,0.6402388205],[0.04004820819,0.07772365771,0.6271536035],[0.03886051671,0.0831876834,0.6156756658],[0.03823982613,0.08898775083,0.6075901447],[0.03764866316,0.09522859338,0.6013647997],[0.03677962392,0.1016141042,0.596260536],[0.03588529943,0.1079373772,0.5922870588],[0.03498020799,0.1144303331,0.588016402],[0.03428557351,0.1195387676,0.5827479712],[0.03309031443,0.1242846919,0.5738588422],[0.03126747208,0.1276759557,0.5610745519],[0.02863643258,0.1298978617,0.5449680007],[0.02554043262,0.1311664025,0.5281164674],[0.02265805771,0.1317873205,0.5139116225],[0.01995979148,0.1325479595,0.5025854938],[0.01760825296,0.1336221118,0.4946813895],[0.01563479415,0.1350810194,0.4899635268],[0.01399251937,0.1368903051,0.4877913038],[0.01266940772,0.1389026868,0.4875294036],[0.01153688184,0.1410449451,0.4884489556],[0.01054582384,0.1431891487,0.4900600215],[0.01008347591,0.1445873765,0.4926927965],[0.009663203031,0.145789181,0.4950746366],[0.009264902047,0.1467115821,0.496966788],[0.00869704567,0.1475567509,0.4979107977],[0.008131204827,0.1479909371,0.498027285],[0.007562315185,0.1479830713,0.4971720634],[0.00716735534,0.1474176557,0.4955588633],[0.006800453102,0.1464565057,0.4929458373],[0.006424442472,0.1451725459,0.4892712056],[0.006046155051,0.1436153821,0.4845799922],[0.005670577463,0.1418555305,0.4789603497],[0.005299592124,0.1399799049,0.4725418309],[0.004937962072,0.1380613118,0.4654810631],[0.004490971802,0.1363497259,0.4578612996],[0.004061389459,0.1347003366,0.4499327021],[0.003657202052,0.1331467446,0.4418734763],[0.003327563367,0.1316730474,0.4339497259],[0.003182363621,0.130194296,0.426566556],[0.00304676075,0.1289009773,0.4194758299],[0.002920940095,0.1277920215,0.4127648037],[0.002804878798,0.126861576,0.4064981313],[0.002698355947,0.1261000605,0.4007187442],[0.002600691833,0.1254929314,0.3954464734],[0.00251133093,0.1250259144,0.3906883167],[0.002430139687,0.1246878343,0.3864437464],[0.002359317864,0.1244865071,0.3827255851],[0.00229453029,0.1243780627,0.379468743],[0.002235233351,0.1243490363,0.3766471826],[0.002180902948,0.1243865729,0.3742314444],[0.002131375268,0.1244814161,0.3721927661],[0.002085960822,0.124620429,0.3704965511],[0.002044078764,0.1247917685,0.3691090049],[0.002005331787,0.1249856242,0.3679980011],[0.001969353856,0.1251929153,0.3671321621],[0.00193839156,0.1254312167,0.3664999876]]],[249.113003,[[0.03431841998,0.04679230435,0.7518791663],[0.03441337709,0.0469233589,0.7501611533],[0.03451879336,0.04703520745,0.7485657479],[0.03462458407,0.04714437168,0.746973047],[0.03472978428,0.04725112428,0.7453794755],[0.03489436857,0.04716040997,0.7451879173],[0.03501834359,0.04716802614,0.744285346],[0.03513210646,0.04718971411,0.7432789922],[0.03526228096,0.04714806551,0.7427126708],[0.03536776821,0.04714969511,0.741856126],[0.03546958715,0.04715466889,0.7409726087],[0.03557006595,0.0471596237,0.7400841641],[0.03564703982,0.04725178539,0.7386049365],[0.03573301547,0.04729091767,0.7374790261],[0.03582934557,0.0472544978,0.7368233793],[0.03601934079,0.04696419208,0.7377962177],[0.03622033353,0.04658872568,0.7392641917],[0.03635193611,0.04606578972,0.7414206072],[0.03635898866,0.04565593901,0.7424777922],[0.03615852911,0.04544994726,0.7416331357],[0.03559102048,0.04593528735,0.7357493244],[0.03465101535,0.04706920905,0.7254340307],[0.0336359662,0.04921569968,0.7104717624],[0.03254586482,0.05191993685,0.6939933339],[0.0312983451,0.05488402422,0.6775473327],[0.02988027517,0.05821887213,0.6610591358],[0.02869484792,0.06175794642,0.646836095],[0.0275591487,0.06562646133,0.6342316775],[0.02691252046,0.06965925166,0.6253887652],[0.02642324609,0.07394910601,0.6189901276],[0.02586860058,0.07831214651,0.6141693277],[0.02536720962,0.08261738311,0.6104639304],[0.02484944295,0.0870223625,0.6060112059],[0.02435966783,0.09044924636,0.6000244094],[0.02334282398,0.09358456802,0.5902060505],[0.02172868194,0.09585016986,0.5775570569],[0.01958429394,0.09757457601,0.5642302583],[0.01735103233,0.09906281579,0.5533362908],[0.01552536532,0.1004507754,0.5469190703],[0.01399060617,0.1021346753,0.5437684158],[0.01275388992,0.1040749614,0.5431675689],[0.01175390232,0.1061827546,0.5441204344],[0.01091037624,0.1083310994,0.5456822509],[0.01019338416,0.1103186579,0.5471230377],[0.009510056271,0.1120409216,0.5477807921],[0.008826205612,0.1133412345,0.5471702931],[0.008465798764,0.1135736315,0.5456498289],[0.008058691442,0.1132940185,0.5423588759],[0.007605630156,0.1125411817,0.537372088],[0.006977477631,0.1116018161,0.5306043315],[0.00633985551,0.11038296,0.5227586668],[0.005713670784,0.1090330283,0.5143294492],[0.005251642006,0.1076431403,0.5063630365],[0.004844069148,0.1063653797,0.4988483096],[0.004466835505,0.1052701831,0.4919839657],[0.004125180334,0.1043809373,0.4859864205],[0.003819600362,0.1037036216,0.4809703339],[0.003546297838,0.1032331024,0.4769584392],[0.003302485421,0.102947069,0.4739126199],[0.003016920664,0.1029267135,0.4715397305],[0.002753555165,0.1030342918,0.4699508096],[0.002512454426,0.1032359729,0.4690476238],[0.002323717046,0.1034640583,0.4688103374],[0.00226405788,0.1035930477,0.4693288568],[0.002211061704,0.1037429077,0.4701402982],[0.002163436643,0.1038920669,0.4711475731],[0.002120089573,0.1040218933,0.472261244],[0.00208008573,0.1041165232,0.4733994844],[0.002042419081,0.1041609768,0.4744869841],[0.002006341143,0.1041437902,0.4754554173],[0.001971573634,0.1040595151,0.4762456017],[0.001939828022,0.1039251099,0.4768235967],[0.001907980014,0.1037115321,0.4771254935],[0.001875713965,0.1034173504,0.4771098155],[0.001842801502,0.1030435568,0.476742078],[0.001809388695,0.102596861,0.4759997145],[0.001775225832,0.1020807581,0.4748618539],[0.0017401813,0.10150094,0.4733153929],[0.001704312972,0.1008660916,0.4713572368],[0.001667729016,0.1001860521,0.4689925151],[0.001632977905,0.09950199509,0.4662911818]]]],"km":{"sim":[[0.01,9.238,0.107,9.131,73.176,0.108,73.068],[0.027825594,9.616,0.335,9.281,73.543,0.305,73.238],[0.077426368,9.874,0.756,9.118,73.685,0.848,72.837],[0.21544347,11.118,2.234,8.884,74.155,2.285,71.87],[0.59948425,14.986,6.342,8.644,75.375,6.354,69.021],[1.6681005,24.279,16.554,7.725,78.655,16.58,62.075],[4.6415888,44.771,38.99,5.781,84.823,39.001,45.822],[12.915497,75.959,73.516,2.443,93.498,73.164,20.334],[35.938137,96.663,96.436,0.227,98.415,96.385,2.03],[100.0,99.509,99.509,0.0,99.518,99.514,0.004]],"teo":[[0.01,9.2741416,0.10910865,9.165033,73.429372,0.10910865,73.320264],[0.010974988,9.2838684,0.11973959,9.1641288,73.43277,0.11973959,73.31303],[0.012045035,9.2945421,0.13140559,9.1631366,73.436498,0.13140559,73.305092],[0.013219411,9.306255,0.14420729,9.1620477,73.440589,0.14420729,73.296382],[0.014508288,9.3191079,0.15825505,9.1608528,73.445078,0.15825505,73.286823],[0.015922828,9.3332116,0.17366995,9.1595417,73.450003,0.17366995,73.276333],[0.017475284,9.3486876,0.19058476,9.1581029,73.455408,0.19058476,73.264823],[0.019179103,9.3656692,0.20914511,9.1565241,73.461338,0.20914511,73.252193],[0.021049041,9.3843023,0.22951069,9.1547917,73.467844,0.22951069,73.238333],[0.023101297,9.4047473,0.25185662,9.1528907,73.474982,0.25185662,73.223126],[0.025353645,9.4271798,0.27637489,9.1508049,73.482814,0.27637489,73.206439],[0.027825594,9.4517923,0.30327603,9.1485163,73.491406,0.30327603,73.18813],[0.030538555,9.4787959,0.33279078,9.1460051,73.500832,0.33279078,73.168041],[0.033516027,9.5084221,0.36517211,9.14325,73.511172,0.36517211,73.146],[0.036783798,9.5409245,0.40069723,9.1402272,73.522515,0.40069723,73.121818],[0.040370173,9.5765808,0.43966994,9.1369109,73.534957,0.43966994,73.095287],[0.044306215,9.6156957,0.48242309,9.1332726,73.548604,0.48242309,73.066181],[0.048626016,9.6586027,0.52932134,9.1292813,73.563572,0.52932134,73.034251],[0.053366992,9.705667,0.58076407,9.1249029,73.579987,0.58076407,72.999223],[0.058570208,9.7572887,0.63718866,9.1201,73.597989,0.63718866,72.9608],[0.064280731,9.8139058,0.69907397,9.1148319,73.617729,0.69907397,72.918655],[0.070548023,9.8759977,0.76694413,9.1090536,73.639373,0.76694413,72.872429],[0.077426368,9.944089,0.84137271,9.1027162,73.663103,0.84137271,72.82173],[0.084975344,10.018753,0.9229872,9.0957661,73.689116,0.9229872,72.766129],[0.093260335,10.100618,1.0124738,9.0881446,73.717631,1.0124738,72.705157],[0.1023531,10.19037,1.1105827,9.0797874,73.748882,1.1105827,72.6383],[0.1123324,10.288758,1.2181339,9.0706244,73.783129,1.2181339,72.564996],[0.12328467,10.396602,1.3360228,9.0605788,73.820654,1.3360228,72.484631],[0.13530478,10.514794,1.4652274,9.0495668,73.861762,1.4652274,72.396534],[0.14849683,10.644311,1.6068147,9.0374967,73.906788,1.6068147,72.299974],[0.16297508,10.786217,1.7619487,9.0242686,73.956098,1.7619487,72.194149],[0.17886495,10.941671,1.931898,9.0097734,74.010085,1.931898,72.078187],[0.19630407,11.111936,2.1180444,8.993892,74.069181,2.1180444,71.951136],[0.21544347,11.298387,2.3218921,8.976495,74.133852,2.3218921,71.81196],[0.23644894,11.502518,2.5450767,8.957441,74.204604,2.5450767,71.659528],[0.25950242,11.725952,2.7893752,8.9365764,74.281987,2.7893752,71.492611],[0.28480359,11.970451,3.0567166,8.9137343,74.366591,3.0567166,71.309875],[0.31257158,12.237925,3.3491921,8.8887333,74.459058,3.3491921,71.109866],[0.34304693,12.530442,3.6690657,8.8613765,74.560078,3.6690657,70.891012],[0.37649358,12.850237,4.0187859,8.8314507,74.670391,4.0187859,70.651605],[0.41320124,13.199721,4.4009956,8.798725,74.790795,4.4009956,70.3898],[0.45348785,13.581493,4.8185432,8.7629501,74.922144,4.8185432,70.1036],[0.49770236,13.99835,5.2744927,8.7238568,75.065347,5.2744927,69.790854],[0.54622772,14.453288,5.7721326,8.6811553,75.221375,5.7721326,69.449243],[0.59948425,14.949518,6.3149839,8.6345343,75.391258,6.3149839,69.076274],[0.65793322,15.490466,6.9068066,8.5836597,75.576084,6.9068066,68.669277],[0.7220809,16.079778,7.5516035,8.5281743,75.776998,7.5516035,68.225394],[0.7924829,16.721319,8.2536214,8.4676972,75.995199,8.2536214,67.741578],[0.869749,17.419172,9.0173483,8.4018235,76.231937,9.0173483,67.214588],[0.95454846,18.177631,9.8475063,8.3301244,76.488502,9.8475063,66.640995],[1.0476158,19.001186,10.749039,8.2521475,76.766219,10.749039,66.01718],[1.149757,19.894508,11.72709,8.1674183,77.066436,11.72709,65.339346],[1.2618569,20.862419,12.786978,8.0754411,77.390507,12.786978,64.603529],[1.3848864,21.909859,13.934157,7.9757023,77.739775,13.934157,63.805618],[1.5199111,23.04184,15.174167,7.867673,78.115551,15.174167,62.941384],[1.6681005,24.263389,16.512576,7.7508137,78.519085,16.512576,62.006509],[1.8307383,25.579478,17.954898,7.62458,78.951537,17.954898,60.99664],[2.009233,26.994934,19.506505,7.4884296,79.413942,19.506505,59.907437],[2.2051307,28.514345,21.172513,7.3418314,79.907164,21.172513,58.734651],[2.4201283,30.141931,22.957656,7.1842753,80.431858,22.957656,57.474202],[2.6560878,31.881415,24.866129,7.0152857,80.988415,24.866129,56.122286],[2.9150531,33.735857,26.901421,6.8344359,81.576908,26.901421,54.675487],[3.1992671,35.707484,29.066119,6.6413652,82.19704,29.066119,53.130921],[3.5111917,37.797495,31.361697,6.4357984,82.848084,31.361697,51.486387],[3.8535286,40.005852,33.788285,6.2175679,83.528828,33.788285,49.740544],[4.2292429,42.331061,36.344424,5.9866374,84.237523,36.344424,47.893099],[4.6415888,44.769947,39.02682,5.7431277,84.971841,39.02682,45.945022],[5.094138,47.317433,41.830088,5.4873442,85.728842,41.830088,43.898753],[5.5908102,49.966326,44.746521,5.2198042,86.504955,44.746521,41.758433],[6.1359073,52.707135,47.765871,4.9412642,87.295985,47.765871,39.530114],[6.7341507,55.527924,50.875178,4.6527452,88.09714,50.875178,37.221962],[7.390722,58.414213,54.058659,4.3555536,88.903088,54.058659,34.844429],[8.1113083,61.348965,57.297667,4.0512972,89.708045,57.297667,32.410378],[8.9021509,64.31265,60.570758,3.7418919,90.505893,60.570758,29.935135],[9.7700996,67.283425,63.853867,3.4295582,91.290332,63.853867,27.436466],[10.722672,70.237435,67.120631,3.1168032,92.055057,67.120631,24.934426],[11.76812,73.149241,70.342855,2.8063869,92.79395,70.342855,22.451095],[12.915497,75.992401,73.491131,2.5012691,93.501284,73.491131,20.010152],[14.174742,78.740166,76.535629,2.204537,94.171925,76.535629,17.636296],[15.556761,81.366319,79.447006,1.9193128,94.801508,79.447006,15.354502],[17.073526,83.846093,82.19745,1.6486427,95.386592,82.19745,13.189141],[18.738174,86.157153,84.761781,1.3953719,95.924756,84.761781,11.162975],[20.565123,88.280579,87.118567,1.1620117,96.414661,87.118567,9.296094],[22.570197,90.201787,89.251179,0.95060808,96.856044,89.251179,7.6048647],[24.770764,91.911316,91.148694,0.76262151,97.249666,91.148694,6.1009721],[27.185882,93.405387,92.806554,0.59883287,97.597217,92.806554,4.7906629],[29.836472,94.686183,94.226897,0.45928561,97.901182,94.226897,3.6742849],[32.745492,95.761761,95.418485,0.34327613,98.164694,95.418485,2.7462091],[35.938137,96.645579,96.396181,0.24939832,98.391367,96.396181,1.9951866],[39.442061,97.355628,97.179985,0.17564324,98.58513,97.179985,1.4051459],[43.287613,97.913229,97.793682,0.11954709,98.750059,97.793682,0.95637671],[47.508102,98.341596,98.263223,0.078373522,98.890211,98.263223,0.62698818],[52.140083,98.664308,98.614998,0.049309953,99.009477,98.614998,0.39447962],[57.223677,98.903862,98.874208,0.029654591,99.111445,98.874208,0.23723673],[62.802914,99.080487,99.063516,0.016971836,99.19929,99.063516,0.13577468],[68.926121,99.211322,99.202123,0.0091991174,99.275716,99.202123,0.073592939],[75.646333,99.310046,99.305348,0.0046972137,99.342926,99.305348,0.037577709],[83.021757,99.386923,99.384677,0.0022463792,99.402648,99.384677,0.017971033],[91.116276,99.449194,99.448194,0.00099976914,99.456192,99.448194,0.0079981531],[100.0,99.501649,99.501238,0.00041119246,99.504527,99.501238,0.0032895397]]}};
+
+</script>
+<script>
+const get = id => document.getElementById(id);
+const number = new Intl.NumberFormat('es-ES');
+const fmt = (v, digits = 3) => v.toLocaleString('es-ES',{maximumFractionDigits:digits});
+const sci = v => v === 0 ? '0' : Math.abs(v) < 0.001 || Math.abs(v) >= 10000 ? v.toExponential(2).replace('.',',') : fmt(v,4);
+const pct = v => fmt(100*v, 2) + ' %';
+const colors = {R:'#0b6e68',T:'#31649f',A:'#a35121',L:'#775f98',U:'#6b7680',B:'#31649f'};
+const names = {R:'Reflectancia',T:'Transmitancia inferior',A:'Absorción',L:'Escape lateral',U:'Residual',B:'Transmisión sin dispersión'};
+const presets = {
+  layered:defaults,
+  absorption:benchmarks().find(test => test.profile).p,
+  substrate:{...defaults,diffuse:50,substrate:{r:0.1,t:0.1},layers:[{d:1,a:0.2,s:0.7,g:0,n:1}]},
+  pulse:{...defaults,timeMax:65,layers:[{d:0.1,a:1,s:1,g:0,n:1.5},{d:0.1,a:10,s:10,g:0,n:1.8},{d:0.2,a:0,s:0,g:0,n:1.5}]},
+  diffusion:{...defaults,layers:[{d:10,a:0.04,s:5,g:0,n:1}]},
+  thin:{...defaults,layers:[{d:0.35,a:0.3,s:1,g:0,n:1}]},
+  block:{...defaults,geo:'box',theta:18,layers:[{d:4,a:0.1,s:2,g:0.65,n:1.36},{d:3,a:0.25,s:2.8,g:0.75,n:1.43}]}
+};
+const globalFields = ['geo','theta','count','seed','width','beam','top','bottom','side','diffuse','timeMax'];
+const layerFields = [
+  ['d','Espesor (cm)',0.005,1000], ['a','μₐ',0,500], ['s','μₛ',0,500], ['g','g',-0.99,0.99], ['n','n',1,4]
+];
+let worker = null, data = null, approximation = null, analytic = null, lastMap = null;
+let verification = false;
+const directColors = ['#0b6e68','#775f98'];
+
+function geometryControls() {
+  const box = get('geo').value === 'box';
+  get('box-fields').hidden = get('side-label').hidden = !box;
+  get('source-note').textContent = box ? 'Huella cuadrada centrada. Ancho cero para una fuente puntual.' : 'Iluminación uniforme sobre la cara de entrada.';
+  const useSubstrate = get('substrate').checked;
+  get('substrate-fields').hidden = get('substrate-note').hidden = !useSubstrate;
+  for (const id of ['base-r','base-t']) get(id).disabled = !useSubstrate;
+  get('bottom').disabled = useSubstrate;
+  get('bottom').parentElement.hidden = useSubstrate;
+}
+
+function refreshLayerButtons() {
+  const rows = [...get('layer-list').children];
+  rows.forEach((row,i) => {
+    row.querySelector('h3').textContent = 'Capa ' + (i+1);
+    row.querySelector('button').disabled = rows.length === 1;
+    row.querySelector('button').setAttribute('aria-label','Quitar capa ' + (i+1));
+  });
+  get('add').disabled = rows.length >= 6;
+}
+
+function addLayer(layer) {
+  const row = document.createElement('section');
+  row.className = 'layer';
+  row.innerHTML = '<div class="row between"><h3></h3><button type="button" class="btn">Quitar</button></div><div class="fields three">' +
+    layerFields.map(([id,label,min,max]) => '<label>' + label + '<input type="number" required step="any" min="' +
+      min + '" max="' + max + '" data-key="' + id + '" value="' + layer[id] + '"></label>').join('') + '</div>';
+  get('layer-list').append(row);
+  row.querySelector('button').onclick = () => {
+    row.remove();
+    refreshLayerButtons();
+    markDirty();
+  };
+  refreshLayerButtons();
+}
+
+function load(p) {
+  for (const key of globalFields) get(key).value = p[key];
+  get('fresnel').checked = p.fresnel;
+  get('substrate').checked = !!p.substrate;
+  get('base-r').value = p.substrate?.r ?? 0.1;
+  get('base-t').value = p.substrate?.t ?? 0.1;
+  get('layer-list').replaceChildren();
+  p.layers.forEach(addLayer);
+  geometryControls();
+}
+
+function markDirty(setCustom = true) {
+  if (setCustom) get('preset').value = 'custom';
+  get('input-status').textContent = 'Hay cambios pendientes. Pulsa Simular para aplicarlos.';
+}
+
+function parameters() {
+  const p = {};
+  for (const key of globalFields) p[key] = key === 'geo' ? get(key).value : +get(key).value;
+  p.fresnel = get('fresnel').checked;
+  p.diffuse /= 100;
+  if (get('substrate').checked) {
+    p.substrate = {r:+get('base-r').value,t:+get('base-t').value};
+    if (p.substrate.r+p.substrate.t > 1+1e-12) {
+      get('input-status').textContent = 'La suma Rg + Tg debe ser menor o igual a 1.';
+      get('base-t').focus();
+      return null;
+    }
+  }
+  p.layers = [...get('layer-list').children].map(row => Object.fromEntries([...row.querySelectorAll('input')].map(input => [input.dataset.key,+input.value])));
+  if (p.geo === 'box' && p.beam > p.width) {
+    get('input-status').textContent = 'El ancho del haz debe ser menor o igual al ancho de la base.';
+    get('beam').focus();
+    return null;
+  }
+  return p;
+}
+
+function workerMain() {
+  onmessage = ({data:msg}) => {
+    if (msg.type === 'sim') {
+      const p = msg.p;
+      const exp = experiment(p);
+      let done = 0;
+      let last = 0;
+      while (done < p.count) {
+        const batch = Math.min(256,p.count-done);
+        exp.run(batch);
+        done += batch;
+        if (done === p.count || performance.now() - last > 240) {
+          postMessage({type:'sim',result:exp.results(),done:done === p.count});
+          last = performance.now();
+        }
+      }
+    } else {
+      for (const test of benchmarks()) {
+        const exp = experiment(test.p);
+        exp.run(80000);
+        const result = exp.results();
+        const rows = Object.entries(test.ref).map(([key, ref]) => {
+          const {mean,se} = result.stats[key];
+          return {key,ref,mean,err:Math.abs(mean-ref),tol:Math.max(0.002,5*se),exact:false};
+        });
+        if (test.profile) {
+          const profile = beerProfile(result);
+          const err = Math.max(...profile.map((v,i) => Math.abs(v-result.profile[i])));
+          rows.push({key:'Perfil Φ (error máximo)',ref:0,mean:err,err,tol:1e-9,exact:true});
+        }
+        if (test.time !== undefined) {
+          const bin = Math.floor(test.time/result.timeMax*nt);
+          const mean = result.time[2][bin];
+          rows.push({key:'Energía en el intervalo de nℓ/c',ref:1,mean,err:Math.abs(mean-1),tol:1e-10,exact:false});
+        }
+        if (test.conservative) {
+          const mean = result.stats.R.mean+result.stats.T.mean;
+          rows.push({key:'R + T',ref:1,mean,err:Math.abs(mean-1),tol:0.002,exact:false});
+        }
+        postMessage({type:'check',name:test.name,rows});
+      }
+      const standard = {a:0.3,s:0.7,d:2,xi:2,sc:0.5,sd:0.5,f:0,n1:1,n2:1,rc:0.1,tc:0.8,rd:0.1,td:0.8};
+      const four = fourFlux(standard);
+      const km = kubelka(2*standard.a,standard.s,standard.d,standard.rd,standard.td);
+      const errors = Object.keys(km).map(key => ({key,ref:km[key],mean:four[key],err:Math.abs(km[key]-four[key]),tol:1e-10,exact:false}));
+      postMessage({type:'check',name:'Cuatro flujos → dos flujos, luz difusa',rows:errors});
+      const atlasError = Math.max(...archiveData.km.teo.map(([ratio,...values]) => Math.max(...[0.8,0.1].flatMap((tg,i) => {
+        const v = kubelka(ratio,1,0.1,0.1,tg);
+        return [v.Af+v.Ag,v.Af,v.Ag].map((x,j) => Math.abs(x-values[3*i+j]/100));
+      }))));
+      postMessage({type:'check',name:'Figura 5 de 2016 (100 puntos por sustrato)',
+        rows:[{key:'Error máximo de absorción',ref:0,mean:atlasError,err:atlasError,tol:1e-7,exact:true}]});
+      const white = archiveData.observer['2'].map(([l]) => [l,1]);
+      const neutral = labColor(white,archiveData.observer['2'],archiveData.light.D65,1).lab;
+      const colorError = Math.max(...neutral.map((value,i) => Math.abs(value-(i===0 ? 100 : 0))));
+      postMessage({type:'check',name:'CIELAB · reflector ideal',rows:[{key:'Error máximo de L*, a*, b*',
+        ref:0,mean:colorError,err:colorError,tol:1e-10,exact:true}]});
+      postMessage({type:'verified'});
+    }
+  };
+}
+
+function stop() {
+  if (!worker) return;
+  worker.terminate();
+  worker = null;
+  get('stop').disabled = true;
+  get('verify').disabled = false;
+  get('run-sim').disabled = false;
+  verification = false;
+  if (!get('spectral').hidden) drawSpectral();
+}
+
+function startWorker(msg) {
+  stop();
+  const blob = new Blob([get('solver').textContent,msg.type === 'verify' ? get('archive-data').textContent : '','\n(',workerMain.toString(),')();'],{type:'text/javascript'});
+  const url = URL.createObjectURL(blob);
+  worker = new Worker(url);
+  URL.revokeObjectURL(url);
+  worker.onerror = event => {
+    stop();
+    const target = msg.type === 'sim' ? 'status' : 'check-status';
+    get(target).textContent = 'El cálculo se interrumpió. ' + event.message;
+  };
+  worker.onmessage = ({data:message}) => {
+    if (message.type === 'sim') {
+      data = message.result;
+      approximation = p1(data);
+      analytic = beerProfile(data);
+      showResults();
+      get('status').textContent = number.format(data.n) + ' / ' + number.format(data.p.count) + ' historias' +
+        (message.done ? '' : ' · Calculando');
+      if (message.done) stop();
+    } else if (message.type === 'check') {
+      displayCheck(message);
+    } else {
+      stop();
+      const failures = get('check-rows').querySelectorAll('.fail').length;
+      get('check-status').textContent = failures ? failures + ' comparaciones fuera de tolerancia.' : 'Todas las comparaciones dentro de tolerancia.';
+    }
+  };
+  get('verify').disabled = true;
+  verification = msg.type === 'verify';
+  get('run-sim').disabled = verification;
+  if (!verification) get('stop').disabled = false;
+  worker.postMessage(msg);
+}
+
+function run() {
+  if (verification) return;
+  const p = parameters();
+  if (!p) return;
+  get('input-status').textContent = '';
+  get('status').textContent = 'Calculando…';
+  startWorker({type:'sim',p});
+}
+
+function displayCheck({name,rows}) {
+  rows.forEach(({key,ref,mean,err,tol,exact},i) => {
+    const pass = err <= tol;
+    const tr = document.createElement('tr');
+    tr.innerHTML = '<td>' + (i ? '' : name) + '</td><td>' + key + '</td><td class="num">' + (exact ? sci(ref) : pct(ref)) +
+      '</td><td class="num">' + (exact ? sci(mean) : pct(mean)) + '</td><td class="num">' + (exact ? sci(err) : sci(err*100) + ' pp') +
+      '</td><td class="' + (pass ? 'pass' : 'fail') + '">' + (pass ? 'Dentro' : 'Fuera') + '</td>';
+    get('check-rows').append(tr);
+  });
+}
+
+function key(label,color,dashed = false) {
+  return '<span class="key' + (dashed ? ' dashed' : '') + '" style="--series:' + color + '">' + label + '</span>';
+}
+
+function showResults() {
+  const {p,depth,stats} = data;
+  const box = p.geo === 'box';
+  get('run-geometry').textContent = (box ? 'Bloque de ' + fmt(p.width) + ' × ' + fmt(p.width) + ' cm' : 'Losa plana') +
+    ' · ' + fmt(depth) + ' cm de profundidad · ' + p.layers.length + (p.layers.length === 1 ? ' capa' : ' capas');
+  const codes = box ? ['R','T','A','L'] : ['R','T','A'];
+  if (stats.U.mean > 0.00001) codes.push('U');
+  get('metrics').innerHTML = codes.map(code => '<div class="metric" style="--series:' + colors[code] + '"><small>' + names[code] +
+    '</small><strong>' + pct(stats[code].mean) + '</strong><small>± ' + fmt(100*stats[code].se,3) + ' pp</small></div>').join('');
+  get('balance').innerHTML = codes.map(code => '<span style="width:' + (100*stats[code].mean) + '%;background:' + colors[code] + '"></span>').join('');
+  const sum = ['R','T','A','L','U'].reduce((v,code) => v+stats[code].mean,0);
+  get('balance-note').textContent = 'Balance ' + pct(sum) + (p.substrate ? ' · Sustrato efectivo' : '');
+  get('components').innerHTML = ['Rc','Rd','Tc','Td'].map(code => '<span>' + code[0] + '<sub>' + code[1] +
+    '</sub> ' + pct(stats[code].mean) + '</span>').join('');
+  const deposits = data.absorption.map((estimate,i) => ['Capa ' + (i+1),estimate]);
+  if (p.substrate) deposits.push(['Sustrato',stats.Ag]);
+  get('layer-abs').innerHTML = '<table><thead><tr><th>Región</th><th>Absorción</th><th>Error estándar (pp)</th></tr></thead><tbody>' +
+    deposits.map(([label,value]) => '<tr><td>' + label + '</td><td>' + pct(value.mean) + '</td><td>' + fmt(100*value.se,3) + '</td></tr>').join('') +
+    '</tbody></table>';
+  get('exit-note').textContent = p.substrate ? 'Fracción por grado. El sustrato efectivo carece de salida angular definida.' :
+    'Fracción incidente por grado. 0° apunta según la normal saliente.';
+  get('time-face').options[2].disabled = !box;
+  if (!box && get('time-face').value==='2') get('time-face').value='1';
+  get('residual').hidden = stats.U.mean <= 0.00001;
+  get('residual').textContent = 'Parte del peso quedó sin resolver por el límite de seguimiento. Revisa la fracción residual al interpretar las curvas.';
+  get('p1-summary').hidden = !approximation;
+  if (approximation) get('p1-summary').textContent = 'P1 · R ' + pct(approximation.R) + ' · T ' + pct(approximation.T) + ' · A ' + pct(approximation.A);
+  get('profile-note').textContent = box ? 'Promedio transversal por potencia incidente (cm⁻²).' : 'Normalizada por la irradiancia incidente (Φ/F₀).';
+  get('map-choice').hidden = !box;
+  get('exit-legend').innerHTML = key('Superior',colors.R) + (p.substrate ? '' : key('Inferior',colors.T,true)) + (box ? key('Laterales',colors.L) : '');
+  draw();
+}
+
+function canvas(id) {
+  const el = get(id);
+  const w = el.clientWidth, h = el.clientHeight;
+  if (!w || !h) return null;
+  const dpi = window.devicePixelRatio || 1;
+  el.width = w*dpi;
+  el.height = h*dpi;
+  const ctx = el.getContext('2d');
+  ctx.scale(dpi,dpi);
+  ctx.font = '11px system-ui';
+  return {ctx,w,h};
+}
+
+function textAt(ctx,text,x,y,align='center') {
+  ctx.fillStyle = '#516671';
+  ctx.textAlign = align;
+  ctx.fillText(text,x,y);
+}
+
+function grid(plot,xmax,ymax,xlabel,yformat = sci,xformat = v => fmt(v,2)) {
+  const {ctx,w,h} = plot;
+  const left = 57, right = w-13, top = 10, bottom = h-38;
+  const X = x => left+(right-left)*x/xmax, Y = y => bottom-(bottom-top)*y/ymax;
+  ctx.lineWidth = 1;
+  for (let i=0;i<=4;i++) {
+    const y=Y(ymax*i/4);
+    ctx.strokeStyle='#deeaeb';
+    ctx.beginPath();ctx.moveTo(left,y);ctx.lineTo(right,y);ctx.stroke();
+    textAt(ctx,yformat(ymax*i/4),left-7,y+3,'right');
+  }
+  for (let i=0;i<=4;i++) textAt(ctx,xformat(xmax*i/4),X(xmax*i/4),bottom+16);
+  textAt(ctx,xlabel,(left+right)/2,h-4);
+  return {X,Y,top,bottom};
+}
+
+function line(ctx,points,color,dashed=false) {
+  ctx.beginPath();
+  ctx.strokeStyle=color;ctx.lineWidth=2;
+  ctx.setLineDash(dashed ? [6,4] : []);
+  points.forEach(([x,y],i) => i ? ctx.lineTo(x,y) : ctx.moveTo(x,y));
+  ctx.stroke();ctx.setLineDash([]);
+}
+
+function profilePlot() {
+  const plot = canvas('profile');
+  if (!plot) return;
+  const {ctx} = plot;
+  const series = [[data.profile,colors.R,false,'Monte Carlo']];
+  if (approximation) series.push([approximation.profile,colors.A,true,'P1 + haz directo']);
+  if (analytic) series.push([analytic,colors.T,true,'Beer–Lambert']);
+  if (get('profile-split').checked) {
+    series.push([data.direct,colors.T,true,'Directa']);
+    series.push([data.profile.map((v,i) => Math.max(0,v-data.direct[i])),colors.L,true,'Difusa']);
+  }
+  get('profile-legend').innerHTML = series.map(([,color,dashed,label]) => key(label,color,dashed)).join('');
+  const ymax = Math.max(1e-12, ...series.flatMap(([values]) => [...values]))*1.04;
+  const {X,Y,top,bottom} = grid(plot,data.depth,ymax,'Profundidad z (cm)');
+  for (const z of data.z.slice(1,-1)) line(ctx,[[X(z),top],[X(z),bottom]],'#c4d4d6',true);
+  for (const [values,color,dashed] of series) line(ctx,Array.from(values,(v,i) => [X((data.edges[i]+data.edges[i+1])/2),Y(v)]),color,dashed);
+}
+
+function exitPlot() {
+  const plot = canvas('out-angle');
+  if (!plot) return;
+  const {ctx} = plot;
+  const values = (get('scattered').checked ? data.angleScattered : data.angle).slice(0,data.p.geo === 'box' ? 3 : 2);
+  const ymax = Math.max(0.00001,...values.flatMap(a => [...a]))*1.08;
+  const {X,Y} = grid(plot,90,ymax,'Ángulo de salida (°)');
+  const width = 90/na;
+  values.forEach((a,k) => {
+    if (k===1 && data.p.substrate) return;
+    const points = [...a].flatMap((v,i) => [[X(i*width),Y(v)],[X((i+1)*width),Y(v)]]);
+    line(ctx,points,[colors.R,colors.T,colors.L][k],k===1);
+  });
+}
+
+const palette = [[23,41,71],[38,91,137],[32,142,148],[93,188,143],[246,223,135]];
+function mapColor(value,floor,max) {
+  if (!value || !max) return '#e4eaeb';
+  const f = clamp((Math.log10(value)-Math.log10(floor))/4,0,1)*(palette.length-1);
+  const i = Math.min(palette.length-2, Math.floor(f)), r = f-i;
+  return 'rgb(' + palette[i].map((a,k) => Math.round(a+(palette[i+1][k]-a)*r)).join(',') + ')';
+}
+
+function mapPlot() {
+  const plot = canvas('map');
+  if (!plot) return;
+  const {ctx,w,h} = plot;
+  const space = data.p.geo === 'box' && get('map-mode').value === 'space';
+  const values = space ? data.spatial : data.direction;
+  const cols = space ? nx : nm;
+  const xmin = space ? -data.p.width/2 : -1, xmax = -xmin;
+  const max = Math.max(0,...values), floor = max/10000;
+  const left=55,right=w-15,top=10,bottom=h-39, cw=(right-left)/cols;
+  const Y = z => top+(bottom-top)*z/data.depth;
+  for (let j=0;j<data.profile.length;j++) {
+    const y1=Y(data.edges[j]), y2=Y(data.edges[j+1]);
+    for (let i=0;i<cols;i++) {
+      ctx.fillStyle=mapColor(values[j*cols+i],floor,max);
+      ctx.fillRect(Math.floor(left+i*cw),Math.floor(y1),Math.ceil(left+(i+1)*cw)-Math.floor(left+i*cw),Math.ceil(y2)-Math.floor(y1));
+    }
+  }
+  for (const z of data.z.slice(1,-1)) line(ctx,[[left,Y(z)],[right,Y(z)]],'#d2e4e8',true);
+  for (let i=0;i<=4;i++) {
+    textAt(ctx,fmt(data.depth*i/4,2),left-6,Y(data.depth*i/4)+3,'right');
+    textAt(ctx,fmt(xmin+(xmax-xmin)*i/4,2),left+(right-left)*i/4,bottom+16);
+  }
+  ctx.save();ctx.translate(12,(top+bottom)/2);ctx.rotate(-Math.PI/2);textAt(ctx,'z (cm)',0,0);ctx.restore();
+  textAt(ctx,space?'Posición x (cm)':'cos θz',(left+right)/2,h-4);
+  get('map-title').textContent = space ? 'Mapa espacial de fluencia' : 'Fluencia angular interna';
+  get('map-note').textContent = space ? 'Promedio en y por potencia incidente (cm⁻²).' :
+    '−1 hacia la entrada, +1 hacia el fondo. Azimut integrado' + (data.p.geo === 'box' ? ' (cm⁻²).' : ' (normalizado por F₀).');
+  get('scale-min').textContent = max ? '≤ ' + sci(floor) : '0';
+  get('scale-max').textContent = sci(max);
+  get('map-readout').textContent = 'Escala logarítmica · gris = cero';
+  lastMap = {space,values,cols,xmin,xmax,left,right,top,bottom,edges:data.edges,depth:data.depth};
+}
+
+function timePlot() {
+  const plot = canvas('tof');
+  if (!plot || !data) return;
+  const face = +get('time-face').value;
+  const duration = data.timeMax;
+  const pair = data.time.slice(2*face,2*face+2);
+  const width = duration/nt;
+  const max = Math.max(0.00001,...pair.flatMap(values => [...values]));
+  const {ctx} = plot;
+  const {X,Y} = grid(plot,duration,max*1.05,'Tiempo de vuelo (ps)',pct);
+  pair.forEach((values,k) => {
+    const points = [...values].flatMap((v,i) => [[X(i*width),Y(v)],[X((i+1)*width),Y(v)]]);
+    line(ctx,points,directColors[k],k===1);
+  });
+  get('time-legend').innerHTML = key('Colimada',directColors[0]) + key('Difusa',directColors[1],true);
+  const overflow = data.late[2*face]+data.late[2*face+1];
+  get('time-note').textContent = 'Fracción de la energía incidente por intervalo de ' + sci(width) + ' ps. Fuera de ventana: ' + pct(overflow) +
+    (data.p.substrate && face===1 ? ' · El sustrato efectivo aporta retardo cero.' : '');
+}
+
+function draw() {
+  if (!get('fluxes').hidden) return drawFlux();
+  if (!get('spectral').hidden) return drawSpectral();
+  if (!data || get('sim').hidden) return;
+  profilePlot();exitPlot();timePlot();mapPlot();
+}
+
+get('map').addEventListener('pointermove', event => {
+  if (!lastMap) return;
+  const {space,values,cols,xmin,xmax,left,right,top,bottom,edges,depth} = lastMap;
+  const rect = event.currentTarget.getBoundingClientRect(), x=event.clientX-rect.left, y=event.clientY-rect.top;
+  if (x<left || x>=right || y<top || y>=bottom) return;
+  const i=clamp(Math.floor((x-left)/(right-left)*cols),0,cols-1);
+  const z=(y-top)/(bottom-top)*depth;
+  const j=edges.findIndex(edge=>edge>z)-1;
+  if (j<0) return;
+  const step=(xmax-xmin)/cols, lower=xmin+i*step;
+  get('map-readout').textContent = (space?'x':'cos θz') + ' ' + fmt(lower) + ' a ' + fmt(lower+step) +
+    (space?' cm':'') + ' · z ' + fmt(edges[j]) + ' a ' + fmt(edges[j+1]) + ' cm · ' + sci(values[j*cols+i]);
+});
+get('map').addEventListener('pointerleave', () => {get('map-readout').textContent='Escala logarítmica · gris = cero';});
+
+for (const button of document.querySelectorAll('[data-page]')) button.onclick = () => {
+  for (const other of document.querySelectorAll('[data-page]')) {
+    const current = other === button;
+    other.setAttribute('aria-pressed', current);
+    get(other.dataset.page).hidden = !current;
+  }
+  draw();
+};
+get('controls').addEventListener('submit', event => {event.preventDefault();run();});
+get('controls').addEventListener('input', event => {
+  if (event.target === get('preset')) return;
+  if (['geo','substrate'].includes(event.target.id)) geometryControls();
+  markDirty();
+});
+get('preset').addEventListener('change', () => {
+  const name=get('preset').value;
+  if (presets[name]) {
+    load(presets[name]);
+    markDirty(false);
+    if (name==='block') get('map-mode').value='space';
+  }
+});
+get('add').onclick = () => {addLayer({d:2,a:0.1,s:2,g:0.6,n:1.35});markDirty();};
+get('stop').onclick = () => {
+  stop();
+  get('status').textContent = 'Detenido' + (data ? ' · ' + number.format(data.n) + ' historias en el resultado visible' : '');
+};
+get('verify').onclick = () => {
+  get('check-rows').replaceChildren();
+  get('check-status').textContent = 'Comprobando…';
+  startWorker({type:'verify'});
+};
+get('map-mode').onchange = mapPlot;
+get('scattered').onchange = exitPlot;
+get('profile-split').onchange = profilePlot;
+get('time-face').onchange = timePlot;
+window.addEventListener('resize',draw);
+function metrics(container,values) {
+  get(container).innerHTML = values.map(([label,value,color]) =>
+    '<div class="metric" style="--series:'+color+'"><small>'+label+'</small><strong>'+pct(value)+'</strong></div>').join('');
+}
+
+function modelValue(id) {
+  const input = get(id);
+  return input.validity.valid ? +input.value : NaN;
+}
+
+function usablePair(r,t) {
+  return Number.isFinite(r) && Number.isFinite(t) && r+t <= 1+1e-12;
+}
+
+function drawFlux() {
+  const useFour = get('flux-model').value === 'four';
+  get('km-controls').hidden = useFour;
+  get('ff-controls').hidden = !useFour;
+  get('flux-title').textContent = useFour ? 'Balance de cuatro flujos' : 'Reparto de absorción';
+  get('flux-subtitle').textContent = useFour ? 'Una muestra plana bajo incidencia normal y difusa' : 'Una muestra plana bajo iluminación difusa';
+  get('flux-chart-title').textContent = useFour ? 'Balance según la fracción colimada' : 'Absorción frente a K/S';
+  get('flux-description').textContent = useFour ?
+    'ξ es la razón entre el camino difuso medio y el colimado. σc y σd son las fracciones dispersadas hacia delante. La entrada usa Fresnel normal y hemisférico. Los coeficientes del sustrato son efectivos desde la muestra y conservan la clase colimada o difusa.' :
+    'K y S son los coeficientes de absorción y retrodispersión del modelo de dos flujos. La solución incorpora rebotes entre muestra y sustrato y permite variar SX y K/S. Los puntos proceden del Monte Carlo unidimensional del trabajo de 2016.';
+  const plot = canvas('flux-chart');
+  if (!plot) return;
+  const error = get('flux-error');
+  error.hidden = true;
+  let v, series, archiveIndex = -1, x, xLabel, xFormat, xmax;
+  if (useFour) {
+    const p = Object.fromEntries(['a','s','d','xi','sc','sd','f','n1','n2','rc','tc','rd','td'].map(k => [k,modelValue('ff-'+k)]));
+    if (Object.values(p).every(Number.isFinite) && usablePair(p.rc,p.tc) && usablePair(p.rd,p.td)) {
+      p.f /= 100;
+      v = fourFlux(p);
+      x = p.f;
+      xmax = 1;
+      xLabel = 'Fracción colimada incidente';
+      xFormat = pct;
+      const diffuse = fourFlux({...p,f:0}), col = fourFlux({...p,f:1});
+      series = [['Rc','R colimada',colors.R,false],['Rd','R difusa',colors.R,true],
+        ['Tc','T colimada',colors.T,false],['Td','T difusa',colors.T,true],
+        ['Af','Absorción de la muestra',colors.A,false],['Ag','Absorción del sustrato',colors.L,false]]
+        .map(([k,label,color,dash]) => ({label,color,dash,points:[[0,diffuse[k]],[1,col[k]]]}));
+    }
+  } else {
+    const sx = modelValue('km-sx'), r = modelValue('km-r'), t = modelValue('km-t');
+    const log = +get('km-ks').value;
+    get('km-ks-value').value = fmt(10**log,3);
+    if (Number.isFinite(sx) && usablePair(r,t)) {
+      v = kubelka(10**log,1,sx,r,t);
+      x = log+2;
+      xmax = 4;
+      xLabel = 'K/S (escala logarítmica)';
+      xFormat = z => fmt(10**(z-2),2);
+      archiveIndex = sx===0.1 && r===0.1 ? t===0.8 ? 0 : t===0.1 ? 1 : -1 : -1;
+      const samples = Array.from({length:181},(_,i) => {
+        const q=4*i/180;
+        return [q,kubelka(10**(q-2),1,sx,r,t)];
+      });
+      series = [['Absorción total',colors.R,o => o.Af+o.Ag],
+        ['Muestra',colors.A,o => o.Af],['Sustrato',colors.L,o => o.Ag]]
+        .map(([label,color,fn]) => ({label,color,points:samples.map(([q,o]) => [q,fn(o)])}));
+    }
+  }
+  if (!v || Object.values(v).some(value => !Number.isFinite(value))) {
+    error.textContent = 'Revisa los valores de entrada. Cada par Rg + Tg debe sumar como máximo 1.';
+    error.hidden = false;
+    for (const id of ['flux-metrics','flux-parts','flux-legend','flux-chart-note']) get(id).replaceChildren();
+    return;
+  }
+  metrics('flux-metrics',[['Reflectancia',v.R,colors.R],['Transmitancia',v.T,colors.T],
+    ['Absorción de la muestra',v.Af,colors.A],['Absorción del sustrato',v.Ag,colors.L]]);
+  get('flux-parts').innerHTML = useFour ? ['Rc','Rd','Tc','Td'].map(k => '<span>'+k[0]+'<sub>'+k[1]+'</sub> '+pct(v[k])+'</span>').join('') : '';
+  const {ctx} = plot;
+  const {X,Y,top,bottom} = grid(plot,xmax,1,xLabel,pct,xFormat);
+  line(ctx,[[X(x),top],[X(x),bottom]],'#9bafb5',true);
+  series.forEach(({points,color,dash}) => line(ctx,points.map(([a,b]) => [X(a),Y(b)]),color,dash));
+  if (archiveIndex>=0) {
+    for (const row of archiveData.km.sim) series.forEach(({color},i) => {
+      ctx.strokeStyle=color;
+      ctx.lineWidth=1.5;
+      ctx.beginPath();
+      ctx.arc(X(Math.log10(row[0])+2),Y(row[1+3*archiveIndex+i]/100),3.5,0,2*Math.PI);
+      ctx.stroke();
+    });
+  }
+  get('flux-legend').innerHTML = series.map(({label,color,dash}) => key(label,color,dash)).join('');
+  get('flux-chart-note').textContent = useFour ? 'La línea vertical indica la incidencia seleccionada.' :
+    archiveIndex>=0 ? 'Círculos: simulaciones de la figura 5 (2016). La línea vertical indica el K/S seleccionado.' :
+      'La línea vertical indica el K/S seleccionado.';
+}
+
+const mul3 = (m,v) => m.map(row => row.reduce((sum,a,i) => sum+a*v[i],0));
+function colorPreview(xyz,white) {
+  const bradford = [[0.8951,0.2664,-0.1614],[-0.7502,1.7135,0.0367],[0.0389,-0.0685,1.0296]];
+  const inverse = [[0.9869929,-0.1470543,0.1599627],[0.4323053,0.5183603,0.0492912],[-0.0085287,0.0400428,0.9684867]];
+  const source = mul3(bradford,white), target = mul3(bradford,[95.047,100,108.883]);
+  const adjusted = mul3(inverse,mul3(bradford,xyz).map((v,i) => v*target[i]/source[i]/100));
+  const rgb = mul3([[3.2404542,-1.5371385,-0.4985314],[-0.969266,1.8760108,0.041556],[0.0556434,-0.2040259,1.0572252]],adjusted)
+    .map(v => Math.round(255*clamp(v<=0.0031308 ? 12.92*v : 1.055*v**(1/2.4)-0.055,0,1)));
+  return 'rgb('+rgb.join(',')+')';
+}
+
+function spectralInputs() {
+  const source = get('spectral-source').value;
+  const isMie = source==='mie';
+  const [radius,coeffs] = archiveData.mie[+get('mie-radius').value];
+  return {isMie,source,radius,coeffs,fraction:modelValue('mie-fraction'),depth:modelValue('mie-depth')};
+}
+
+function drawSpectral() {
+  const {isMie,source,radius,coeffs,fraction,depth} = spectralInputs();
+  get('mie-controls').hidden = get('mie-transfer').hidden = !isMie;
+  const plot = canvas('spectral-chart');
+  if (!plot) return;
+  if (isMie && (!Number.isFinite(fraction) || !Number.isFinite(depth))) {
+    get('spectral-value').textContent = 'Revisa la fracción en volumen y el espesor.';
+    for (const id of ['spectral-note','spectral-legend','color-cards']) get(id).replaceChildren();
+    get('apply-mie').disabled = true;
+    return;
+  }
+  const rows = isMie ? coeffs.map(([a,s,g],i) => {
+    const v = kubelka(2*a*fraction,0.75*s*(1-g)*fraction,depth,0,1);
+    return [380+5*i,v.R,v.T,v.Af];
+  }) : archiveData.archive[+source.at(-1)];
+  const wavelength = get('spectral-wavelength');
+  const step = rows[1][0]-rows[0][0];
+  wavelength.step = step;
+  const selected = Math.round((+wavelength.value-380)/step);
+  const [lambda,r,t,a] = rows[selected];
+  get('spectral-value').textContent = lambda+' nm · R '+pct(r)+' · T '+pct(t)+' · A '+pct(a);
+  const series = [['Reflectancia',colors.R],['Transmitancia',colors.T],['Absorción',colors.A]];
+  const {ctx} = plot;
+  const {X,Y,top,bottom} = grid(plot,400,1,'Longitud de onda (nm)',pct,v => v+380);
+  line(ctx,[[X(lambda-380),top],[X(lambda-380),bottom]],'#9bafb5',true);
+  series.forEach(([,color],i) => line(ctx,rows.map(row => [X(row[0]-380),Y(row[i+1])]),color,i===1));
+  get('spectral-legend').innerHTML = series.map(([label,color],i) => key(label,color,i===1)).join('');
+  get('spectral-note').textContent = isMie ? 'Radio '+fmt(radius,3)+' nm · '+fmt(fraction)+' ppm · '+fmt(depth)+' cm' :
+    'Espectro archivado RTA · 380 a 780 nm · '+rows.length+' muestras';
+  const observer = archiveData.observer[get('observer').value];
+  const light = archiveData.light[get('illuminant').value];
+  const white = labColor(observer.map(([l]) => [l,1]),observer,light,1).xyz;
+  get('color-cards').innerHTML = ['Reflexión','Transmisión'].map((label,i) => {
+    const {lab,xyz} = labColor(rows,observer,light,i+1);
+    return '<div><strong>'+label+'</strong><div class="swatch" aria-hidden="true" style="background:'+colorPreview(xyz,white)+'"></div>'+
+      '<small>L* '+fmt(lab[0],2)+' · a* '+fmt(lab[1],2)+' · b* '+fmt(lab[2],2)+'</small></div>';
+  }).join('');
+  const limits = isMie && coeffs[selected].slice(0,2).some(v => v*fraction>500);
+  get('apply-mie').disabled = limits || verification;
+  if (limits) get('spectral-note').textContent += ' · Los coeficientes a esta longitud de onda superan el rango del motor angular.';
+}
+
+get('km-form').addEventListener('submit',event => event.preventDefault());
+get('km-form').addEventListener('input',event => {
+  if (event.target.id==='km-preset') {
+    const k=event.target.value;
+    if (k!=='custom') {
+      get('km-sx').value = 0.1;
+      get('km-r').value = 0.1;
+      get('km-t').value = k==='0' ? 0.8 : 0.1;
+    }
+  } else if (['km-sx','km-r','km-t'].includes(event.target.id)) get('km-preset').value='custom';
+  drawFlux();
+});
+get('spectral-form').addEventListener('submit',event => event.preventDefault());
+get('spectral-form').addEventListener('input',drawSpectral);
+get('mie-radius').innerHTML = archiveData.mie.map(([r],i) => '<option value="'+i+'">'+fmt(r,3)+'</option>').join('');
+get('mie-radius').value = '8';
+get('apply-mie').onclick = () => {
+  const {coeffs,fraction,depth} = spectralInputs();
+  const index = (+get('spectral-wavelength').value-380)/5;
+  const [a,s,g] = coeffs[index];
+  const indexWater = 1.33;
+  load({...defaults,top:indexWater,bottom:indexWater,layers:[{d:depth,a:a*fraction,s:s*fraction,g:clamp(g,-0.99,0.99),n:indexWater}]});
+  get('preset').value='custom';
+  document.querySelector('[data-page="sim"]').click();
+  run();
+};
+
+load(defaults);
+run();
+
+</script>
+</body>
+</html>
