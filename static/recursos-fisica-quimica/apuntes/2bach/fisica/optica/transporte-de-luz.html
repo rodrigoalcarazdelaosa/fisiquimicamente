@@ -2,72 +2,311 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Transporte de luz · Laboratorio de transferencia radiativa</title>
 <style>
-:root{color-scheme:light;--ink:#102737;--muted:#516671;--paper:#f1f5f5;--card:#fff;--border:#d7e2e4;--teal:#0b6e68;--mint:#8ff0d5;--navy:#102b3b;--orange:#a35121;--blue:#31649f;--purple:#775f98}
-*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 "Instrument Sans","Avenir Next",system-ui,sans-serif}button,input,select{font:inherit;color:inherit}a{color:var(--teal)}button{cursor:pointer}button:disabled{cursor:default;opacity:.55}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #278c82;outline-offset:3px}
-header{background:var(--navy);color:#f5fafa;border-bottom:3px solid #4eb69d}.wrap{max-width:1450px;margin:auto;padding-inline:clamp(14px,3vw,46px)}.mast{padding-block:28px 22px;display:flex;align-items:center;justify-content:space-between;gap:24px}.mast h1{margin:0;font-size:clamp(32px,5vw,62px);letter-spacing:-.065em;line-height:1.05;font-weight:650}.mast p{margin:10px 0 0;color:#bfd2db}.mast small{color:var(--mint);white-space:nowrap;letter-spacing:.04em}.tabs{display:flex;gap:6px;flex-wrap:wrap}.tabs button{border:0;background:none;color:#bfd2db;border-bottom:3px solid transparent;padding:10px 15px;margin-bottom:-3px}.tabs button[aria-pressed=true]{color:white;border-color:var(--mint)}
-main{padding-block:22px 42px}.layout{display:grid;grid-template-columns:minmax(315px,355px) minmax(0,1fr);gap:19px;align-items:start}.card{background:var(--card);border:1px solid var(--border);border-radius:15px;padding:17px;min-width:0}.sidebar,.sidebar form{display:grid;gap:13px}.sidebar .card{padding:15px}.result{display:grid;gap:14px;min-width:0}h2,h3,p{margin:0}h2{font-size:20px;letter-spacing:-.025em}h3{font-size:15px}p+p{margin-top:9px}.muted,small{color:var(--muted)}small{font-size:12px}.stack{display:grid;gap:10px}.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.between{justify-content:space-between}.fields{display:grid;grid-template-columns:1fr 1fr;gap:9px}.fields.three{grid-template-columns:repeat(3,minmax(0,1fr))}label{display:grid;gap:3px;font-size:12px;color:var(--muted)}input[type=number],select{width:100%;background:#f8fafa;border:1px solid #bfcfd3;padding:6px 7px;border-radius:7px;min-height:35px}input[type=checkbox]{accent-color:var(--teal)}.check{display:flex;align-items:center;gap:6px}.layer{border:1px solid var(--border);background:#f7faf9;border-radius:10px;padding:9px;display:grid;gap:7px}.layer+.layer{margin-top:7px}.layers{display:grid}.btn{border:1px solid #c4d4d6;border-radius:8px;background:#fff;padding:7px 11px;font-size:13px;font-weight:650}.primary{background:var(--teal);color:#fff;border-color:var(--teal)}.run{display:grid;grid-template-columns:1fr auto;gap:7px}.run button{min-height:42px}.result-head{display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:8px}.status{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}.metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(105px,1fr));gap:12px}.metric{border-top:3px solid var(--series);padding-top:6px;min-width:0}.metric strong{display:block;font-size:clamp(20px,2.4vw,30px);letter-spacing:-.045em;font-variant-numeric:tabular-nums;line-height:1.22}.balance{height:8px;border-radius:5px;display:flex;overflow:hidden;background:var(--paper)}.balance span{height:100%}.charts{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:14px}.chart-head{min-height:43px}.chart-head p{font-size:12px;color:var(--muted)}canvas{width:100%;height:258px;display:block;touch-action:pan-y}.full canvas{height:300px}.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--muted)}.key{display:inline-flex;align-items:center;gap:5px}.key::before{content:"";width:16px;height:3px;background:var(--series);display:inline-block}.key.dashed::before{background:repeating-linear-gradient(90deg,var(--series) 0 4px,transparent 4px 7px)}.readout{font-size:12px;color:var(--muted);min-height:19px;font-variant-numeric:tabular-nums}.scale{height:8px;border-radius:5px;background:linear-gradient(90deg,#172947,#265b89,#208e94,#5dbc8f,#f6df87);margin-top:6px}.scalelabel{display:flex;justify-content:space-between}.notice{color:#83481b;font-size:13px}.comparison{max-width:1100px}.comparison section+section{margin-top:22px}.table-wrap{overflow:auto}table{border-collapse:collapse;width:100%;font-size:13px}td,th{text-align:left;padding:9px 7px;border-bottom:1px solid var(--border);vertical-align:top}th{color:var(--muted);font-weight:650}td.num{font-variant-numeric:tabular-nums;white-space:nowrap}.pass{color:#146348}.fail{color:#a22c28}.formula{font-family:Georgia,serif;font-size:17px;overflow-wrap:anywhere}.context{max-width:85ch}.context a{overflow-wrap:anywhere}[hidden]{display:none!important}
-@media(max-width:1080px){.charts{grid-template-columns:1fr}.chart-head{min-height:0}}
-@media(max-width:760px){.layout{grid-template-columns:1fr}.sidebar{grid-template-columns:1fr 1fr}.sidebar form{display:contents}.sidebar .runbox{grid-column:1/-1}.mast small{display:none}}
-@media(max-width:520px){.sidebar{grid-template-columns:1fr}.card{padding:13px}.mast{padding-top:23px}.tabs button{padding:8px 10px}.metrics{grid-template-columns:repeat(2,1fr)}}
-.swatches{display:grid;grid-template-columns:1fr 1fr;gap:14px}.swatch{height:68px;border-radius:9px;border:1px solid var(--border);margin:4px 0 8px}.runbox{position:sticky;bottom:9px;z-index:1;box-shadow:0 3px 16px #10273712}.parts{display:flex;flex-wrap:wrap;gap:5px 13px;font-size:13px}.model-controls{align-content:start}.model-controls input[type=range]{width:100%;accent-color:var(--teal)}.model-controls fieldset{margin:0;padding:8px;border:1px solid var(--border);border-radius:7px;min-width:0}.model-controls legend{font-size:12px;color:var(--muted)}.checks-card{max-width:1100px}.table-wrap:focus-visible{outline:2px solid var(--teal)}
-@media(max-width:760px){.runbox{position:static}}
+:root {
+  color-scheme: light;
+  --ink: #142c3c;
+  --muted: #506572;
+  --paper: #f2f6f7;
+  --card: #fff;
+  --field: #f7fafb;
+  --border: #d6e1e5;
+  --teal: #076d64;
+  --teal-hover: #05564f;
+  --soft-teal: #eaf5f1;
+  --mint: #a1ecd6;
+  --navy: #102d3e;
+  --radius: 16px;
+  --gap: clamp(12px, 1.45vw, 22px);
+  --gutter: clamp(12px, 3vw, 42px);
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 15px/1.5 "Instrument Sans", "Avenir Next", system-ui, sans-serif;
+}
+button, input, select { font: inherit; color: inherit; }
+button, summary { cursor: pointer; }
+button:disabled { cursor: default; opacity: .54; }
+a { color: var(--teal); text-underline-offset: .17em; }
+:focus-visible { outline: 3px solid #247f75; outline-offset: 3px; }
+[hidden] { display: none !important; }
+
+.wrap { width: min(100%, 1490px); margin-inline: auto; padding-inline: max(var(--gutter), env(safe-area-inset-left)) max(var(--gutter), env(safe-area-inset-right)); }
+.site-head { background: var(--navy); color: white; }
+.mast { padding-block: clamp(19px, 2.6vw, 33px) clamp(13px, 1.7vw, 23px); }
+.mast h1 { margin: 0; font-size: clamp(32px, 4.7vw, 56px); font-weight: 670; line-height: 1; letter-spacing: -.065em; }
+.mast p { margin-top: 9px; max-width: 54ch; color: #c9dce4; font-size: clamp(13px, 1.45vw, 17px); }
+.nav-shell { background: var(--card); border-bottom: 1px solid var(--border); }
+.tabs { display: flex; flex-wrap: wrap; gap: 4px; padding-block: 6px; }
+.tabs button {
+  min-height: 44px; padding: 8px 13px; border: 0; border-radius: 8px;
+  background: transparent; color: var(--muted); font-size: 14px; font-weight: 650;
+}
+.tabs button[aria-selected=true] { background: var(--soft-teal); color: #07554d; }
+.tabs button:not([aria-selected=true]):hover { background: var(--field); color: var(--ink); }
+
+main { padding-block: var(--gap) 42px; }
+.layout { display: grid; grid-template-columns: minmax(285px, 326px) minmax(0, 1fr); gap: var(--gap); align-items: start; }
+.sidebar, .sidebar form, .result { display: grid; gap: var(--gap); min-width: 0; }
+.sidebar form { gap: 10px; }
+.card {
+  min-width: 0; background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: clamp(13px, 1.55vw, 21px);
+}
+.stack { display: grid; gap: 11px; min-width: 0; }
+.row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.between { justify-content: space-between; }
+h2, h3, p { margin: 0; }
+h2 { font-size: clamp(19px, 1.75vw, 24px); line-height: 1.2; letter-spacing: -.035em; }
+h3 { font-size: 16px; line-height: 1.3; letter-spacing: -.015em; }
+p + p { margin-top: 10px; }
+.muted, small { color: var(--muted); }
+small { font-size: 12px; }
+.fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; min-width: 0; }
+.fields.three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+label { display: grid; align-content: start; gap: 4px; min-width: 0; font-size: 13px; font-weight: 550; color: var(--muted); }
+label span { min-width: 0; }
+input[type=number], select {
+  width: 100%; min-width: 0; min-height: 40px; padding: 6px 8px;
+  color: var(--ink); background: var(--field); border: 1px solid #bdcdd4; border-radius: 8px;
+  font-size: 15px; font-weight: 500; font-variant-numeric: tabular-nums;
+}
+input[type=number]:focus, select:focus { background: var(--card); }
+input[type=checkbox], input[type=range] { accent-color: var(--teal); }
+input[type=range] { width: 100%; min-height: 30px; margin: 0; }
+.check { display: flex; align-items: center; gap: 8px; min-height: 34px; cursor: pointer; }
+.check input { flex: none; width: 17px; height: 17px; margin: 0; }
+fieldset { min-width: 0; margin: 0; padding: 9px; border: 1px solid var(--border); border-radius: 8px; }
+legend { padding-inline: 5px; color: var(--muted); font-size: 13px; }
+
+.settings-card { padding-block: 5px; }
+.settings-card > summary, .absorption-details > summary {
+  display: flex; align-items: center; gap: 8px; min-height: 42px; list-style: none; font-weight: 670;
+}
+summary::-webkit-details-marker { display: none; }
+.settings-card > summary::after, .advanced > summary::after, .absorption-details > summary::after {
+  content: ""; width: 7px; height: 7px; margin: 0 4px 4px auto;
+  border: solid currentColor; border-width: 0 1.5px 1.5px 0; transform: rotate(45deg);
+}
+details[open] > summary::after { transform: rotate(225deg); margin-bottom: -3px; }
+.summary-meta { margin-left: auto; color: var(--muted); font-size: 12px; font-weight: 500; text-align: right; }
+.settings-card > summary:has(.summary-meta)::after { margin-left: 2px; }
+.settings-card > .stack { padding-block: 7px 13px; }
+.layer {
+  display: grid; gap: 7px; padding: 9px 10px 11px;
+  background: var(--field); border: 1px solid var(--border); border-radius: 10px;
+}
+.layer + .layer { margin-top: 8px; }
+.layer input { background: var(--card); }
+.btn {
+  min-height: 38px; padding: 7px 12px; border: 1px solid #bdcdd4; border-radius: 8px;
+  background: var(--card); font-size: 13px; font-weight: 680;
+}
+.btn:hover:not(:disabled) { background: var(--field); }
+.btn.primary { color: white; background: var(--teal); border-color: var(--teal); }
+.btn.primary:hover:not(:disabled) { background: var(--teal-hover); }
+.layer .btn { min-height: 32px; background: transparent; }
+.runbox {
+  position: sticky; top: 8px; z-index: 2; padding: 10px; gap: 5px;
+  box-shadow: 0 5px 24px #14334719;
+}
+.run { display: grid; grid-template-columns: 1fr auto; gap: 7px; }
+.run .btn { min-height: 44px; }
+.runbox small:empty { display: none; }
+.runbox small { overflow-wrap: anywhere; }
+.results-jump { display: none; }
+.result-head { display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 7px 13px; }
+.result-head > div { min-width: 0; }
+.result-head h2 + p, .result-head h3 + p, .chart-head h3 + p { margin-top: 4px; }
+.status { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+#balance-panel { scroll-margin-top: 12px; }
+#balance-panel:focus { outline: none; }
+#balance-panel:focus-visible { outline: 3px solid #247f75; }
+#run-progress { width: 100%; height: 5px; border: 0; border-radius: 9px; accent-color: var(--teal); }
+.metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 123px), 1fr)); gap: 8px; }
+.metric {
+  display: grid; align-content: start; gap: 1px; min-width: 0; padding: 9px 10px;
+  border-top: 3px solid var(--series); border-radius: 7px 7px 10px 10px; background: var(--field);
+}
+.metric small { overflow-wrap: anywhere; }
+.metric strong { font-size: clamp(21px, 2.5vw, 32px); letter-spacing: -.05em; line-height: 1.22; font-variant-numeric: tabular-nums; }
+.balance { display: flex; height: 7px; overflow: hidden; border-radius: 5px; background: var(--paper); }
+.balance span { height: 100%; }
+.parts { display: flex; flex-wrap: wrap; gap: 5px 14px; font-size: 13px; font-variant-numeric: tabular-nums; }
+.absorption-details { border-top: 1px solid var(--border); }
+.absorption-details > summary { color: var(--teal); font-size: 14px; }
+
+.charts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--gap); }
+.chart-head p { font-size: 13px; color: var(--muted); }
+canvas { display: block; width: 100%; height: 244px; touch-action: pan-y; }
+.full canvas { height: 288px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12px; color: var(--muted); }
+.key { display: inline-flex; align-items: center; gap: 5px; }
+.key::before { content: ""; width: 17px; height: 3px; background: var(--series); }
+.key.dashed::before { background: repeating-linear-gradient(90deg,var(--series) 0 4px,transparent 4px 7px); }
+.scale { height: 8px; border-radius: 5px; background: linear-gradient(90deg,#172947,#265b89,#208e94,#5dbc8f,#f6df87); }
+.scalelabel { display: flex; justify-content: space-between; margin-top: 3px; }
+.readout { min-height: 1.5em; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+#map { cursor: crosshair; }
+.notice { color: #803e18; font-size: 13px; }
+.comparison { max-width: 1100px; }
+.comparison section + section { margin-top: 24px; }
+.context { max-width: 85ch; overflow-wrap: anywhere; }
+.formula { font-family: Georgia, serif; font-size: 17px; overflow-wrap: anywhere; }
+.table-wrap { max-width: 100%; overflow: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.wide-table table { min-width: 570px; }
+td, th { padding: 8px 9px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
+th { background: var(--field); color: var(--muted); font-weight: 670; }
+td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.pass { color: #146348; }
+.fail { color: #a22c28; }
+.check-status:empty { display: none; }
+.table-hint { display: none; }
+.model-controls { align-content: start; }
+.model-controls output { display: inline; color: var(--ink); font-weight: 670; }
+.swatches { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px; }
+.swatch { height: 65px; margin: 4px 0 7px; border: 1px solid var(--border); border-radius: 8px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+
+@media (min-width: 1081px) {
+  .charts .card { grid-template-rows: minmax(48px, auto) 1fr auto; }
+}
+@media (max-width: 1080px) {
+  .charts { grid-template-columns: 1fr; }
+}
+@media (max-width: 760px) {
+  .layout { grid-template-columns: minmax(0,1fr); }
+  #sim { padding-bottom: calc(92px + env(safe-area-inset-bottom)); }
+  .runbox {
+    position: fixed; top: auto;
+    left: max(var(--gutter), env(safe-area-inset-left)); right: max(var(--gutter), env(safe-area-inset-right));
+    bottom: max(8px, env(safe-area-inset-bottom));
+    border-radius: 12px; background: var(--card);
+  }
+  .run { grid-template-columns: minmax(0,1fr) auto auto; }
+  .results-jump { display: inline-block; }
+  .btn, .layer .btn, input[type=number], select, .check { min-height: 44px; }
+  input[type=number], select { font-size: 16px; }
+  .settings-card > summary, .absorption-details > summary { min-height: 44px; }
+  .full canvas { height: 257px; }
+  .table-hint { display: block; }
+}
+@media (max-width: 520px) {
+  .tabs { display: grid; grid-template-columns: repeat(6,minmax(0,1fr)); gap: 3px; }
+  .tabs button { grid-column: span 2; padding: 5px 4px; font-size: 12px; line-height: 1.2; }
+  .tabs button:nth-last-child(-n+2) { grid-column: span 3; min-height: 42px; }
+  .metrics { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  #metrics:has(.metric:nth-child(3):last-child) .metric:last-child { grid-column: 1 / -1; }
+  .result-head > label { width: 100%; }
+  canvas { height: 216px; }
+  .full canvas { height: 235px; }
+}
+@media (max-width: 355px) {
+  .fields.three { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .run .btn { padding-inline: 8px; }
+  .card { border-radius: 12px; }
+}
+.map-frame { position: relative; }
+#map-marker {
+  position: absolute; min-width: 3px; min-height: 3px; pointer-events: none;
+  outline: 1px solid white; box-shadow: 0 0 0 2px #102d3e; z-index: 1;
+}
 </style>
 </head>
 <body>
-<header>
-  <div class="wrap">
-    <div class="mast"><div><h1>Transporte de luz</h1><p>Transferencia radiativa en losas estratificadas y bloques finitos</p></div><small>Óptica · Espacio, tiempo y espectro</small></div>
-    <nav class="tabs" aria-label="Secciones"><button type="button" data-page="sim" aria-pressed="true">Monte Carlo</button><button type="button" data-page="fluxes" aria-pressed="false">Dos y cuatro flujos</button><button type="button" data-page="spectral" aria-pressed="false">Espectro y color</button><button type="button" data-page="checks" aria-pressed="false">Validación</button><button type="button" data-page="methods" aria-pressed="false">Métodos y supuestos</button></nav>
+<header class="site-head">
+  <div class="wrap mast">
+    <h1>Transporte de luz</h1>
+    <p>Transferencia radiativa en losas estratificadas y bloques finitos</p>
   </div>
 </header>
+<div class="nav-shell">
+  <nav class="wrap tabs" role="tablist" aria-label="Secciones del simulador">
+      <button type="button" id="tab-sim" data-page="sim" role="tab" aria-controls="sim" aria-selected="true" tabindex="0">Monte Carlo</button>
+      <button type="button" id="tab-fluxes" data-page="fluxes" role="tab" aria-controls="fluxes" aria-selected="false" tabindex="-1">Dos y cuatro flujos</button>
+      <button type="button" id="tab-spectral" data-page="spectral" role="tab" aria-controls="spectral" aria-selected="false" tabindex="-1">Espectro y color</button>
+      <button type="button" id="tab-checks" data-page="checks" role="tab" aria-controls="checks" aria-selected="false" tabindex="-1">Validación</button>
+      <button type="button" id="tab-methods" data-page="methods" role="tab" aria-controls="methods" aria-selected="false" tabindex="-1">Métodos y supuestos</button>
+  </nav>
+</div>
 <main class="wrap">
-<section id="sim" class="layout" aria-label="Simulador">
+<section id="sim" role="tabpanel" aria-labelledby="tab-sim" class="layout">
   <aside class="sidebar">
     <form id="controls">
-      <div class="card stack">
-        <div class="row between"><h2>Escenario</h2></div>
+      <section class="card stack" aria-labelledby="setup-title">
+        <h2 id="setup-title">Configuración</h2>
         <label>Caso de partida<select id="preset"><option value="layered">Dos capas dispersivas</option><option value="absorption">Absorción pura</option><option value="diffusion">Régimen difusivo</option><option value="thin">Losa delgada</option><option value="block">Bloque con haz estrecho</option><option value="substrate">Losa sobre sustrato absorbente</option><option value="pulse">Pulso en dos recubrimientos (2019)</option><option value="custom">Configuración personalizada</option></select></label>
+      </section>
+      <div class="card stack runbox">
+        <div class="run">
+          <button id="run-sim" type="submit" class="btn primary">Simular</button>
+          <button type="button" class="btn" id="stop" disabled>Detener</button>
+          <button type="button" class="btn results-jump" id="results-jump">Resultados</button>
+        </div>
+        <small id="input-status" role="status"></small>
+      </div>
+      <details class="card settings-card" id="source-settings" open>
+        <summary>Geometría e iluminación</summary>
+        <div class="stack">
         <label>Geometría<select id="geo"><option value="slab">Losa infinita lateralmente</option><option value="box">Bloque estratificado de base cuadrada</option></select></label>
-        <div class="fields"><label>Incidencia θ₀ (°)<input id="theta" type="number" min="0" max="89" step="any" required></label><label>Historias Monte Carlo<select id="count"><option value="5000">5 000</option><option value="20000">20 000</option><option value="80000">80 000</option><option value="250000">250 000</option></select></label></div>
+        <div class="fields">
+          <label>Incidencia θ₀ (°)<input id="theta" type="number" min="0" max="89" step="any" required></label>
+          <label>Luz difusa incidente (%)<input id="diffuse" type="number" min="0" max="100" step="any" required></label>
+        </div>
         <div class="fields" id="box-fields" hidden><label>Ancho de la base (cm)<input id="width" type="number" min="0.02" max="1000" step="any" required></label><label>Ancho del haz (cm)<input id="beam" type="number" min="0" max="1000" step="any" required></label></div>
-        <div class="fields"><label>Luz difusa incidente (%)<input id="diffuse" type="number" min="0" max="100" step="any" required></label><label>Ventana temporal (ps)<input id="timeMax" type="number" min="0.1" max="1e8" step="any" required></label></div>
-        <label>Semilla<input id="seed" type="number" min="0" max="4294967295" step="1" required></label>
-        <small id="source-note">Haz colimado uniforme en la cara de entrada.</small>
-      </div>
-      <div class="card stack">
-        <div class="row between"><h2>Capas</h2><button class="btn" type="button" id="add">Añadir capa</button></div>
-        <div id="layer-list"></div>
-        <small>μₐ y μₛ en cm⁻¹. g es el coseno medio de dispersión.</small>
-      </div>
-      <div class="card stack">
-        <h2>Interfaces</h2>
+          <small id="source-note"></small>
+        </div>
+      </details>
+      <details class="card settings-card" id="layer-settings" open>
+        <summary>Capas <span class="summary-meta" id="layer-count"></span></summary>
+        <div class="stack">
+          <div id="layer-list"></div>
+          <small>μₐ y μₛ en cm⁻¹. g es el coseno medio de dispersión.</small>
+          <button class="btn" type="button" id="add">Añadir capa</button>
+        </div>
+      </details>
+      <details class="card settings-card" id="interface-settings" open>
+        <summary>Interfaces</summary>
+        <div class="stack">
         <div class="fields three"><label>n superior<input id="top" type="number" min="1" max="4" step="any" required></label><label>n inferior<input id="bottom" type="number" min="1" max="4" step="any" required></label><label id="side-label" hidden>n lateral<input id="side" type="number" min="1" max="4" step="any" required></label></div>
         <label class="check"><input id="fresnel" type="checkbox"> Reflexión parcial de Fresnel</label>
         <small>Snell y reflexión interna total se aplican en interfaces refractivas.</small>
         <label class="check"><input id="substrate" type="checkbox"> Sustrato efectivo en la base</label>
-        <div class="fields" id="substrate-fields" hidden><label>R<sub>g</sub> (fracción)<input id="base-r" type="number" value="0.1" min="0" max="1" step="any" required></label><label>T<sub>g</sub> (fracción)<input id="base-t" type="number" value="0.1" min="0" max="1" step="any" required></label></div>
+        <div class="fields" id="substrate-fields" hidden><label><span>R<sub>g</sub> (fracción)</span><input id="base-r" type="number" value="0.1" min="0" max="1" step="any" required></label><label><span>T<sub>g</sub> (fracción)</span><input id="base-t" type="number" value="0.1" min="0" max="1" step="any" required></label></div>
         <small id="substrate-note" hidden>El sustrato sustituye la interfaz inferior. La reflexión de retorno es lambertiana y A<sub>g</sub> = 1 − R<sub>g</sub> − T<sub>g</sub>.</small>
-      </div>
-      <div class="card stack runbox">
-        <div class="run"><button id="run-sim" type="submit" class="btn primary">Simular</button><button type="button" class="btn" id="stop" disabled>Detener</button></div>
-        <small id="input-status" role="status"></small>
-      </div>
+        </div>
+      </details>
+      <details class="card settings-card" id="calculation-settings">
+        <summary>Ajustes de cálculo</summary>
+        <div class="stack">
+          <label>Historias Monte Carlo<select id="count"><option value="5000">5 000</option><option value="20000">20 000</option><option value="80000">80 000</option><option value="250000">250 000</option></select></label>
+          <div class="fields">
+            <label>Ventana temporal (ps)<input id="timeMax" type="number" min="0.1" max="1e8" step="any" required></label>
+            <label>Semilla<input id="seed" type="number" min="0" max="4294967295" step="1" required></label>
+          </div>
+        </div>
+      </details>
     </form>
   </aside>
   <div class="result">
-    <div class="card stack">
-      <div class="result-head"><div><h2>Balance de energía</h2><p id="run-geometry" class="muted"></p></div><div id="status" class="status" role="status"></div></div>
+    <section class="card stack" id="balance-panel" tabindex="-1" aria-labelledby="balance-title">
+      <div class="result-head"><div><h2 id="balance-title">Balance de energía</h2><p id="run-geometry" class="muted"></p></div><div id="status" class="status"></div></div>
+      <progress id="run-progress" value="0" max="1" aria-label="Progreso de la simulación" hidden></progress>
+      <p id="run-announcement" class="sr-only" role="status"></p>
       <div id="metrics" class="metrics"></div>
       <div id="balance" class="balance" aria-hidden="true"></div>
       <small id="balance-note"></small>
       <div id="components" class="parts"></div>
-      <details><summary>Absorción por capa</summary><div id="layer-abs" class="table-wrap"></div></details>
+      <details class="absorption-details"><summary>Absorción por capa</summary><div id="layer-abs" class="table-wrap"></div></details>
       <div id="p1-summary" class="status" hidden></div>
       <p id="residual" class="notice" hidden></p>
-    </div>
+    </section>
     <div class="charts">
       <section class="card stack"><div class="chart-head"><h3>Fluencia por profundidad</h3><p id="profile-note"></p></div><canvas id="profile" role="img" aria-label="Perfil de fluencia en función de la profundidad"></canvas><div class="row between"><div class="legend" id="profile-legend"></div><label class="check"><input id="profile-split" type="checkbox"> Separar directa y difusa</label></div></section>
       <section class="card stack"><div class="chart-head"><h3>Energía saliente por ángulo</h3><p id="exit-note">Fracción incidente por grado. 0° apunta según la normal saliente.</p></div><canvas id="out-angle" role="img" aria-label="Distribución angular de energía por cara"></canvas><div class="row between"><div class="legend" id="exit-legend"></div><label class="check"><input id="scattered" type="checkbox"> Solo componente difusa</label></div></section>
@@ -79,13 +318,17 @@ main{padding-block:22px 42px}.layout{display:grid;grid-template-columns:minmax(3
     </section>
     <section class="card stack full">
       <div class="result-head"><div><h3 id="map-title">Fluencia angular interna</h3><p class="muted" id="map-note"></p></div><label id="map-choice" hidden>Vista<select id="map-mode"><option value="space">Mapa x–z</option><option value="angle">Mapa cos θz–z</option></select></label></div>
-      <canvas id="map" role="img" aria-label="Mapa de fluencia dentro del medio"></canvas>
-      <div><div class="scale"></div><small class="scalelabel"><span id="scale-min"></span><span id="scale-max"></span></small></div>
-      <div id="map-readout" class="readout"></div>
+      <div class="map-frame">
+        <canvas id="map" tabindex="0" role="img" aria-label="Mapa de fluencia dentro del medio" aria-describedby="map-help"></canvas>
+        <span id="map-marker" aria-hidden="true" hidden></span>
+      </div>
+      <div><div class="scale"></div><small class="scalelabel" aria-label="Escala logarítmica"><span id="scale-min"></span><span id="scale-max"></span></small></div>
+      <small id="map-help">Toca el mapa o usa las flechas para consultar una celda. Escala logarítmica. Gris = cero.</small>
+      <div id="map-readout" class="readout" role="status"></div>
     </section>
   </div>
 </section>
-<section id="fluxes" class="layout" hidden aria-label="Modelos de flujo">
+<section id="fluxes" role="tabpanel" aria-labelledby="tab-fluxes" class="layout" hidden>
   <div class="sidebar">
     <form id="km-form" class="card stack model-controls">
       <h2>Muestra y sustrato</h2>
@@ -93,16 +336,16 @@ main{padding-block:22px 42px}.layout{display:grid;grid-template-columns:minmax(3
       <div id="km-controls" class="stack">
         <label>Referencia de 2016<select id="km-preset"><option value="0">Sustrato casi transparente</option><option value="1">Sustrato casi negro</option><option value="custom">Configuración personalizada</option></select></label>
         <label>Profundidad de dispersión SX<input id="km-sx" type="number" min="0.00001" max="1000" step="any" value="0.1" required></label>
-        <label id="km-ks-label">K/S <output id="km-ks-value"></output><input id="km-ks" type="range" min="-2" max="2" step="0.001" value="0" aria-label="Logaritmo decimal de K/S"></label>
-        <div class="fields"><label>R<sub>g</sub><input id="km-r" type="number" min="0" max="1" step="any" value="0.1" required></label><label>T<sub>g</sub><input id="km-t" type="number" min="0" max="1" step="any" value="0.8" required></label></div>
+        <label id="km-ks-label"><span>K/S <output id="km-ks-value"></output></span><input id="km-ks" type="range" min="-2" max="2" step="0.001" value="0" aria-label="Logaritmo decimal de K/S"></label>
+        <div class="fields"><label><span>R<sub>g</sub></span><input id="km-r" type="number" min="0" max="1" step="any" value="0.1" required></label><label><span>T<sub>g</sub></span><input id="km-t" type="number" min="0" max="1" step="any" value="0.8" required></label></div>
       </div>
       <div id="ff-controls" class="stack" hidden>
         <div class="fields"><label>μₐ (cm⁻¹)<input id="ff-a" type="number" min="0" max="500" step="any" value="0.8" required></label><label>μₛ (cm⁻¹)<input id="ff-s" type="number" min="0" max="500" step="any" value="2" required></label></div>
         <div class="fields"><label>Espesor (cm)<input id="ff-d" type="number" min="0.001" max="1000" step="any" value="1" required></label><label>Luz colimada (%)<input id="ff-f" type="number" min="0" max="100" step="any" value="50" required></label></div>
         <div class="fields"><label>n exterior<input id="ff-n1" type="number" min="1" max="4" step="any" value="1" required></label><label>n de la muestra<input id="ff-n2" type="number" min="1" max="4" step="any" value="1.5" required></label></div>
-        <div class="fields three"><label>Camino ξ<input id="ff-xi" type="number" min="1" max="10" step="any" value="2" required></label><label>σ<sub>c</sub><input id="ff-sc" type="number" min="0" max="1" step="any" value="0.5" required></label><label>σ<sub>d</sub><input id="ff-sd" type="number" min="0" max="1" step="any" value="0.5" required></label></div>
-        <fieldset class="fields"><legend>Sustrato para luz colimada</legend><label>R<sub>g,c</sub><input id="ff-rc" type="number" min="0" max="1" step="any" value="0.1" required></label><label>T<sub>g,c</sub><input id="ff-tc" type="number" min="0" max="1" step="any" value="0.1" required></label></fieldset>
-        <fieldset class="fields"><legend>Sustrato para luz difusa</legend><label>R<sub>g,d</sub><input id="ff-rd" type="number" min="0" max="1" step="any" value="0.1" required></label><label>T<sub>g,d</sub><input id="ff-td" type="number" min="0" max="1" step="any" value="0.1" required></label></fieldset>
+        <div class="fields three"><label>Camino ξ<input id="ff-xi" type="number" min="1" max="10" step="any" value="2" required></label><label><span>σ<sub>c</sub></span><input id="ff-sc" type="number" min="0" max="1" step="any" value="0.5" required></label><label><span>σ<sub>d</sub></span><input id="ff-sd" type="number" min="0" max="1" step="any" value="0.5" required></label></div>
+        <fieldset class="fields"><legend>Sustrato para luz colimada</legend><label><span>R<sub>g,c</sub></span><input id="ff-rc" type="number" min="0" max="1" step="any" value="0.1" required></label><label><span>T<sub>g,c</sub></span><input id="ff-tc" type="number" min="0" max="1" step="any" value="0.1" required></label></fieldset>
+        <fieldset class="fields"><legend>Sustrato para luz difusa</legend><label><span>R<sub>g,d</sub></span><input id="ff-rd" type="number" min="0" max="1" step="any" value="0.1" required></label><label><span>T<sub>g,d</sub></span><input id="ff-td" type="number" min="0" max="1" step="any" value="0.1" required></label></fieldset>
       </div>
       <p class="notice" id="flux-error" role="status" hidden></p>
     </form>
@@ -122,7 +365,7 @@ main{padding-block:22px 42px}.layout{display:grid;grid-template-columns:minmax(3
     </div>
   </div>
 </section>
-<section id="spectral" class="layout" hidden aria-label="Espectro y color">
+<section id="spectral" role="tabpanel" aria-labelledby="tab-spectral" class="layout" hidden>
   <div class="sidebar"><form id="spectral-form" class="card stack model-controls">
     <h2>Espectro</h2>
     <label>Datos<select id="spectral-source"><option value="mie">Coloide de oro en agua</option><option value="archive1">Archivo RTA · paso de 1 nm</option><option value="archive0">Archivo RTA · paso de 5 nm</option></select></label>
@@ -149,14 +392,15 @@ main{padding-block:22px 42px}.layout{display:grid;grid-template-columns:minmax(3
   </div>
 </section>
 
-<section id="checks" class="card comparison" hidden aria-label="Validación">
+<section id="checks" role="tabpanel" aria-labelledby="tab-checks" class="card comparison" hidden>
   <div class="row between"><h2>Pruebas de referencia</h2><button id="verify" class="btn primary" type="button">Ejecutar pruebas</button></div>
   <p class="muted">Los casos de Monte Carlo usan 80 000 historias con semilla fija. La tolerancia es el mayor valor entre 5 errores estándar y 0,2 puntos porcentuales. Las pruebas deterministas usan tolerancias específicas.</p>
-  <p id="check-status" class="status" role="status"></p>
-  <div class="table-wrap"><table><thead><tr><th>Caso</th><th>Magnitud</th><th>Referencia</th><th>Cálculo</th><th>Error abs.</th><th>Resultado</th></tr></thead><tbody id="check-rows"></tbody></table></div>
+  <p id="check-status" class="status check-status" role="status"></p>
+  <small class="table-hint">Desliza la tabla para ver todas las columnas.</small>
+  <div class="table-wrap wide-table" tabindex="0" role="region" aria-label="Resultados de las pruebas"><table><thead><tr><th>Caso</th><th>Magnitud</th><th>Referencia</th><th>Cálculo</th><th>Error abs.</th><th>Resultado</th></tr></thead><tbody id="check-rows"></tbody></table></div>
   <p><small>B es la transmisión por la cara inferior del haz colimado sin dispersión. En el caso conservativo se verifica A = 0 y R + T = 1. Las referencias balísticas prueban atenuación, rebotes y geometría. La prueba conservativa verifica el balance energético.</small></p>
 </section>
-<section id="methods" class="card comparison context" hidden aria-label="Métodos y supuestos">
+<section id="methods" role="tabpanel" aria-labelledby="tab-methods" class="card comparison context" hidden>
   <section class="stack"><h2>Modelo de transporte</h2>
     <p>Cada simulación de Monte Carlo usa luz monocromática y escalar, sin emisión y con dispersión elástica. La tasa de fluencia corresponde al régimen estacionario. Cada capa es homogénea. El haz entra por z = 0 y, si es oblicuo, se inclina hacia +x. En el bloque el haz tiene una sección cuadrada uniforme sobre la cara superior, centrada en x = y = 0. Un ancho cero representa un haz puntual.</p>
     <p class="formula">Ω · ∇L + (μₐ + μₛ)L = μₛ ∫₄π p(Ω′ · Ω)L(Ω′) dΩ′</p>
@@ -164,7 +408,8 @@ main{padding-block:22px 42px}.layout{display:grid;grid-template-columns:minmax(3
     <p>Monte Carlo muestrea tramos exponenciales con tasa μₛ y direcciones de Henyey–Greenstein. El peso decae como exp(−μₐs) a lo largo de cada tramo. La fluencia se estima integrando ese peso dentro de cada celda. Las interfaces refractivas son planas y especulares. Se usa la reflectancia de Fresnel promediada en polarización en cada encuentro. El modelo omite la coherencia, la evolución de la polarización y la rugosidad. <a href="https://omlc.org/software/mc/mcml/" target="_blank" rel="noopener">Wang, Jacques y Zheng</a> · <a href="https://articles.adsabs.harvard.edu/pdf/1941ApJ....93...70H" target="_blank" rel="noopener">Henyey y Greenstein</a></p>
   </section>
   <section class="stack"><h2>Comparación de métodos</h2>
-    <div class="table-wrap"><table><thead><tr><th>Método</th><th>Qué resuelve bien</th><th>Límite práctico</th></tr></thead><tbody>
+    <small class="table-hint">Desliza la tabla para ver todas las columnas.</small>
+    <div class="table-wrap wide-table" tabindex="0" role="region" aria-label="Comparación de métodos"><table><thead><tr><th>Método</th><th>Qué resuelve bien</th><th>Límite práctico</th></tr></thead><tbody>
     <tr><td>Analítico / características</td><td>Atenuación balística y trayectorias especulares en medios simples.</td><td>La dispersión múltiple general exige resolver el acoplamiento angular.</td></tr>
     <tr><td>Kubelka–Munk / cuatro flujos</td><td>Losa plana y balance por hemisferio. Cuatro flujos separa componentes colimadas y difusas.</td><td>Los flujos integrados requieren cierres para caminos medios, dispersión angular y condiciones de contorno.</td></tr><tr><td>Difusión / P1</td><td>Fluencia y flujo neto cuando la dispersión ha casi isotropizado la radiancia.</td><td>El haz directo, las capas delgadas y las regiones próximas a interfaces requieren tratamiento de transporte.</td></tr>
     <tr><td>Ordenadas discretas (Sₙ)</td><td>Radiancia angular determinista. DISORT es una referencia para estratificación plana.</td><td>Hay que comprobar la convergencia angular y espacial, sobre todo con haces estrechos o dispersión hacia delante.</td></tr>
@@ -636,6 +881,8 @@ const archiveData = {"observer":{"2":[[380.0,0.001368,3.9e-05,0.00645],[385.0,0.
 <script>
 const get = id => document.getElementById(id);
 const number = new Intl.NumberFormat('es-ES');
+const compactLayout = window.matchMedia('(max-width: 760px)');
+const tabs = [...document.querySelectorAll('[role=tab]')];
 const fmt = (v, digits = 3) => v.toLocaleString('es-ES',{maximumFractionDigits:digits});
 const sci = v => v === 0 ? '0' : Math.abs(v) < 0.001 || Math.abs(v) >= 10000 ? v.toExponential(2).replace('.',',') : fmt(v,4);
 const pct = v => fmt(100*v, 2) + ' %';
@@ -656,6 +903,8 @@ const layerFields = [
 ];
 let worker = null, data = null, approximation = null, analytic = null, lastMap = null;
 let verification = false;
+let mapSelection = null;
+let simulationPending = false;
 const directColors = ['#0b6e68','#775f98'];
 
 function geometryControls() {
@@ -677,6 +926,7 @@ function refreshLayerButtons() {
     row.querySelector('button').setAttribute('aria-label','Quitar capa ' + (i+1));
   });
   get('add').disabled = rows.length >= 6;
+  get('layer-count').textContent = rows.length + (rows.length === 1 ? ' capa' : ' capas');
 }
 
 function addLayer(layer) {
@@ -719,6 +969,7 @@ function parameters() {
     p.substrate = {r:+get('base-r').value,t:+get('base-t').value};
     if (p.substrate.r+p.substrate.t > 1+1e-12) {
       get('input-status').textContent = 'La suma Rg + Tg debe ser menor o igual a 1.';
+      revealField(get('base-t'));
       get('base-t').focus();
       return null;
     }
@@ -726,6 +977,7 @@ function parameters() {
   p.layers = [...get('layer-list').children].map(row => Object.fromEntries([...row.querySelectorAll('input')].map(input => [input.dataset.key,+input.value])));
   if (p.geo === 'box' && p.beam > p.width) {
     get('input-status').textContent = 'El ancho del haz debe ser menor o igual al ancho de la base.';
+    revealField(get('beam'));
     get('beam').focus();
     return null;
   }
@@ -799,6 +1051,7 @@ function stop() {
   worker.terminate();
   worker = null;
   get('stop').disabled = true;
+  get('run-progress').hidden = true;
   get('verify').disabled = false;
   get('run-sim').disabled = false;
   verification = false;
@@ -814,17 +1067,23 @@ function startWorker(msg) {
   worker.onerror = event => {
     stop();
     const target = msg.type === 'sim' ? 'status' : 'check-status';
-    get(target).textContent = 'El cálculo se interrumpió. ' + event.message;
+    get(target).textContent = 'El cálculo se interrumpió.' + (event.message ? ' ' + event.message : '');
+    if (msg.type === 'sim') get('run-announcement').textContent = get(target).textContent;
   };
   worker.onmessage = ({data:message}) => {
     if (message.type === 'sim') {
       data = message.result;
+      simulationPending = false;
       approximation = p1(data);
       analytic = beerProfile(data);
       showResults();
       get('status').textContent = number.format(data.n) + ' / ' + number.format(data.p.count) + ' historias' +
         (message.done ? '' : ' · Calculando');
-      if (message.done) stop();
+      get('run-progress').value = data.n / data.p.count;
+      if (message.done) {
+        get('run-announcement').textContent = 'Simulación completada. ' + get('status').textContent + '.';
+        stop();
+      }
     } else if (message.type === 'check') {
       displayCheck(message);
     } else {
@@ -840,13 +1099,32 @@ function startWorker(msg) {
   worker.postMessage(msg);
 }
 
-function run() {
+function revealField(field) {
+  const group = field.closest('details');
+  if (group) group.open = true;
+}
+
+function goToResults() {
+  const panel = get('balance-panel');
+  panel.focus({preventScroll:true});
+  panel.scrollIntoView({block:'start'});
+}
+
+function run(showResults = false) {
   if (verification) return;
   const p = parameters();
   if (!p) return;
   get('input-status').textContent = '';
+  mapSelection = null;
+  updateMapSelection();
   get('status').textContent = 'Calculando…';
+  get('run-announcement').textContent = 'Simulación iniciada.';
+  simulationPending = true;
   startWorker({type:'sim',p});
+  const progress = get('run-progress');
+  progress.value = 0;
+  progress.hidden = false;
+  if (showResults && compactLayout.matches) goToResults();
 }
 
 function displayCheck({name,rows}) {
@@ -906,7 +1184,7 @@ function canvas(id) {
   el.height = h*dpi;
   const ctx = el.getContext('2d');
   ctx.scale(dpi,dpi);
-  ctx.font = '11px system-ui';
+  ctx.font = '12px system-ui';
   return {ctx,w,h};
 }
 
@@ -918,16 +1196,28 @@ function textAt(ctx,text,x,y,align='center') {
 
 function grid(plot,xmax,ymax,xlabel,yformat = sci,xformat = v => fmt(v,2)) {
   const {ctx,w,h} = plot;
-  const left = 57, right = w-13, top = 10, bottom = h-38;
-  const X = x => left+(right-left)*x/xmax, Y = y => bottom-(bottom-top)*y/ymax;
+  const ticks = w < 290 ? 2 : 4;
+  const yTicks = [0,1,2,3,4].map(i => ymax*i/4);
+  const yLabels = yTicks.map(yformat);
+  const left = Math.ceil(Math.max(...yLabels.map(label => ctx.measureText(label).width))) + 11;
+  const right = w - Math.max(9, Math.ceil(ctx.measureText(xformat(xmax)).width/2)+2);
+  const top = 11, bottom = h-39;
+  const X = x => left+(right-left)*x/xmax;
+  const Y = y => bottom-(bottom-top)*y/ymax;
   ctx.lineWidth = 1;
-  for (let i=0;i<=4;i++) {
-    const y=Y(ymax*i/4);
-    ctx.strokeStyle='#deeaeb';
-    ctx.beginPath();ctx.moveTo(left,y);ctx.lineTo(right,y);ctx.stroke();
-    textAt(ctx,yformat(ymax*i/4),left-7,y+3,'right');
+  yTicks.forEach((value,i) => {
+    const y = Y(value);
+    ctx.strokeStyle = '#dde7eb';
+    ctx.beginPath();
+    ctx.moveTo(left,y);
+    ctx.lineTo(right,y);
+    ctx.stroke();
+    textAt(ctx,yLabels[i],left-7,y+4,'right');
+  });
+  for (let i=0;i<=ticks;i++) {
+    const value = xmax*i/ticks;
+    textAt(ctx,xformat(value),X(value),bottom+17);
   }
-  for (let i=0;i<=4;i++) textAt(ctx,xformat(xmax*i/4),X(xmax*i/4),bottom+16);
   textAt(ctx,xlabel,(left+right)/2,h-4);
   return {X,Y,top,bottom};
 }
@@ -1011,8 +1301,8 @@ function mapPlot() {
     '−1 hacia la entrada, +1 hacia el fondo. Azimut integrado' + (data.p.geo === 'box' ? ' (cm⁻²).' : ' (normalizado por F₀).');
   get('scale-min').textContent = max ? '≤ ' + sci(floor) : '0';
   get('scale-max').textContent = sci(max);
-  get('map-readout').textContent = 'Escala logarítmica · gris = cero';
   lastMap = {space,values,cols,xmin,xmax,left,right,top,bottom,edges:data.edges,depth:data.depth};
+  updateMapSelection();
 }
 
 function timePlot() {
@@ -1042,30 +1332,81 @@ function draw() {
   profilePlot();exitPlot();timePlot();mapPlot();
 }
 
-get('map').addEventListener('pointermove', event => {
-  if (!lastMap) return;
+function updateMapSelection() {
+  const marker = get('map-marker');
+  const readout = get('map-readout');
+  marker.hidden = !lastMap || !mapSelection;
+  if (marker.hidden) {
+    readout.textContent = '';
+    return;
+  }
   const {space,values,cols,xmin,xmax,left,right,top,bottom,edges,depth} = lastMap;
-  const rect = event.currentTarget.getBoundingClientRect(), x=event.clientX-rect.left, y=event.clientY-rect.top;
-  if (x<left || x>=right || y<top || y>=bottom) return;
-  const i=clamp(Math.floor((x-left)/(right-left)*cols),0,cols-1);
-  const z=(y-top)/(bottom-top)*depth;
-  const j=edges.findIndex(edge=>edge>z)-1;
-  if (j<0) return;
-  const step=(xmax-xmin)/cols, lower=xmin+i*step;
-  get('map-readout').textContent = (space?'x':'cos θz') + ' ' + fmt(lower) + ' a ' + fmt(lower+step) +
-    (space?' cm':'') + ' · z ' + fmt(edges[j]) + ' a ' + fmt(edges[j+1]) + ' cm · ' + sci(values[j*cols+i]);
-});
-get('map').addEventListener('pointerleave', () => {get('map-readout').textContent='Escala logarítmica · gris = cero';});
+  const i = clamp(mapSelection.i,0,cols-1);
+  const j = clamp(mapSelection.j,0,edges.length-2);
+  const cellWidth = (right-left)/cols, cellHeight = (bottom-top)/depth;
+  marker.style.left = (left+i*cellWidth) + 'px';
+  marker.style.top = (top+edges[j]*cellHeight) + 'px';
+  marker.style.width = cellWidth + 'px';
+  marker.style.height = (edges[j+1]-edges[j])*cellHeight + 'px';
+  const step = (xmax-xmin)/cols, lower = xmin+i*step;
+  readout.textContent = (space ? 'x' : 'cos θz') + ' ' + fmt(lower) + ' a ' + fmt(lower+step) +
+    (space ? ' cm' : '') + ' · z ' + fmt(edges[j]) + ' a ' + fmt(edges[j+1]) + ' cm · Fluencia ' + sci(values[j*cols+i]);
+}
 
-for (const button of document.querySelectorAll('[data-page]')) button.onclick = () => {
-  for (const other of document.querySelectorAll('[data-page]')) {
-    const current = other === button;
-    other.setAttribute('aria-pressed', current);
-    get(other.dataset.page).hidden = !current;
+function selectMapCell(event) {
+  if (!lastMap) return;
+  const {cols,left,right,top,bottom,edges,depth} = lastMap;
+  const rect = event.currentTarget.getBoundingClientRect();
+  const x = event.clientX-rect.left, y = event.clientY-rect.top;
+  if (x<left || x>=right || y<top || y>=bottom) return;
+  const i = Math.floor((x-left)/(right-left)*cols);
+  const z = (y-top)/(bottom-top)*depth;
+  const j = edges.findIndex(edge => edge>z)-1;
+  if (j<0) return;
+  mapSelection = {i,j};
+  updateMapSelection();
+}
+
+get('map').addEventListener('click',selectMapCell);
+get('map').addEventListener('pointermove',event => {
+  if (event.pointerType === 'mouse') selectMapCell(event);
+});
+get('map').addEventListener('keydown',event => {
+  const move = {ArrowLeft:[-1,0],ArrowRight:[1,0],ArrowUp:[0,-1],ArrowDown:[0,1]}[event.key];
+  if (!move || !lastMap) return;
+  event.preventDefault();
+  const {i,j} = mapSelection ?? {i:Math.floor(lastMap.cols/2),j:0};
+  mapSelection = {i:clamp(i+move[0],0,lastMap.cols-1),j:clamp(j+move[1],0,lastMap.edges.length-2)};
+  updateMapSelection();
+});
+
+function selectTab(selected) {
+  for (const tab of tabs) {
+    const current = tab === selected;
+    tab.setAttribute('aria-selected',current);
+    tab.tabIndex = current ? 0 : -1;
+    get(tab.dataset.page).hidden = !current;
   }
   draw();
-};
-get('controls').addEventListener('submit', event => {event.preventDefault();run();});
+}
+
+tabs.forEach((tab,index) => {
+  tab.addEventListener('click',() => selectTab(tab));
+  tab.addEventListener('keydown',event => {
+    const next = {ArrowLeft:(index+tabs.length-1)%tabs.length,ArrowRight:(index+1)%tabs.length,Home:0,End:tabs.length-1}[event.key];
+    if (next === undefined) return;
+    event.preventDefault();
+    tabs[next].focus();
+    selectTab(tabs[next]);
+  });
+});
+
+get('controls').addEventListener('submit',event => {
+  event.preventDefault();
+  run(true);
+});
+get('controls').addEventListener('invalid',event => revealField(event.target),true);
+get('results-jump').onclick = goToResults;
 get('controls').addEventListener('input', event => {
   if (event.target === get('preset')) return;
   if (['geo','substrate'].includes(event.target.id)) geometryControls();
@@ -1082,18 +1423,26 @@ get('preset').addEventListener('change', () => {
 get('add').onclick = () => {addLayer({d:2,a:0.1,s:2,g:0.6,n:1.35});markDirty();};
 get('stop').onclick = () => {
   stop();
-  get('status').textContent = 'Detenido' + (data ? ' · ' + number.format(data.n) + ' historias en el resultado visible' : '');
+  get('status').textContent = 'Detenido' + (data && !simulationPending ? ' · ' + number.format(data.n) + ' historias' : '');
+  get('run-announcement').textContent = get('status').textContent;
 };
 get('verify').onclick = () => {
   get('check-rows').replaceChildren();
   get('check-status').textContent = 'Comprobando…';
   startWorker({type:'verify'});
 };
-get('map-mode').onchange = mapPlot;
+get('map-mode').onchange = () => {
+  mapSelection = null;
+  mapPlot();
+};
 get('scattered').onchange = exitPlot;
 get('profile-split').onchange = profilePlot;
 get('time-face').onchange = timePlot;
-window.addEventListener('resize',draw);
+let resizeFrame;
+window.addEventListener('resize',() => {
+  cancelAnimationFrame(resizeFrame);
+  resizeFrame = requestAnimationFrame(draw);
+});
 function metrics(container,values) {
   get(container).innerHTML = values.map(([label,value,color]) =>
     '<div class="metric" style="--series:'+color+'"><small>'+label+'</small><strong>'+pct(value)+'</strong></div>').join('');
@@ -1270,9 +1619,12 @@ get('apply-mie').onclick = () => {
   load({...defaults,top:indexWater,bottom:indexWater,layers:[{d:depth,a:a*fraction,s:s*fraction,g:clamp(g,-0.99,0.99),n:indexWater}]});
   get('preset').value='custom';
   document.querySelector('[data-page="sim"]').click();
-  run();
+  run(true);
 };
 
+if (compactLayout.matches) {
+  for (const id of ['source-settings','layer-settings','interface-settings']) get(id).open = false;
+}
 load(defaults);
 run();
 
