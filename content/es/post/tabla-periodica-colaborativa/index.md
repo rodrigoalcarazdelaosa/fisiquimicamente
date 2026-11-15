@@ -22,7 +22,7 @@ featured: true
 La **tabla periódica** que encontrarás aquí no es una más: está pensada como un **recurso interactivo y colaborativo** en el que estudiantes y docentes pueden construir juntos el conocimiento químico.
 {{% /callout %}}
 
-Cada elemento comienza en gris, con un simple signo de interrogación. Al hacer clic, se abre un **formulario** en el que es posible rellenar sus **principales datos**: número atómico, símbolo, nombre, masa atómica, configuración electrónica, clasificación, estado a temperatura ambiente, así como información histórica[^1], propiedades físicas, aplicaciones, riesgos y curiosidades.
+Cada elemento comienza en gris, con su número atómico y un simple signo de interrogación. Al hacer clic, se abre un **formulario** en el que es posible rellenar sus **principales datos**: número atómico, símbolo, nombre, masa atómica, configuración electrónica, clasificación, estado a temperatura ambiente, así como información histórica[^1], propiedades físicas, aplicaciones, riesgos y curiosidades.
 
 [^1]: Año y persona que descubrió el elemento.
 
