@@ -147,9 +147,8 @@ canvas { display: block; width: 100%; height: 244px; touch-action: pan-y; }
 .full canvas { height: 288px; }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12px; color: var(--muted); }
 .key { display: inline-flex; align-items: center; gap: 5px; }
-.key::before { content: ""; width: 17px; height: 3px; background: var(--series); }
-.key.dashed::before { background: repeating-linear-gradient(90deg,var(--series) 0 4px,transparent 4px 7px); }
-.scale { height: 8px; border-radius: 5px; background: linear-gradient(90deg,#172947,#265b89,#208e94,#5dbc8f,#f6df87); }
+.key svg { flex: none; }
+.scale { height: 8px; border-radius: 5px; background: linear-gradient(90deg,#00224e,#123570,#3b496c,#575d6d,#707173,#8a8678,#a59c74,#c3b369,#e1cc55,#fee838); }
 .scalelabel { display: flex; justify-content: space-between; margin-top: 3px; }
 .readout { min-height: 1.5em; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
 #map { cursor: crosshair; }
@@ -175,7 +174,7 @@ td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 
 @media (min-width: 1081px) {
-  .charts .card { grid-template-rows: minmax(48px, auto) 1fr auto; }
+  .charts .card { align-content: start; }
 }
 @media (max-width: 1080px) {
   .charts { grid-template-columns: 1fr; }
@@ -217,6 +216,30 @@ td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
   position: absolute; min-width: 3px; min-height: 3px; pointer-events: none;
   outline: 1px solid white; box-shadow: 0 0 0 2px #102d3e; z-index: 1;
 }
+/* A shared numerical scale, with separate symbols for clipped and empty cells. */
+.plot-controls { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+.time-extent { align-self: center; color: var(--muted); font-size: 13px; }
+.time-extent output { display: block; color: var(--ink); font-weight: 670; }
+.plot-controls .check { font-size: 12px; }
+.band-key { display: inline-flex; gap: 6px; align-items: center; }
+.band-key::before { content: ""; background: #16685829; width: 18px; height: 9px; border: 1px solid #769b91; }
+.scalelabel { font-size: 12px; font-variant-numeric: tabular-nums; }
+.map-scale .scale { margin-top: 4px; }
+.map-state { display: inline-flex; align-items: center; gap: 5px; }
+.map-state i { width: 13px; height: 13px; border: 1px solid #8293a0; position: relative; }
+.map-state i { display: grid; place-items: center; line-height: 1; font-style: normal; color: #34445d; }
+.absorption-bars { display: grid; gap: 10px; padding-block: 0 10px; }
+.abs-row { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: baseline; gap: 4px; font-size: 13px; }
+.abs-track { grid-column: 1/-1; height: 11px; position: relative; background: var(--field); border-radius: 2px; }
+.abs-track i { display: block; height: 100%; background: #a35121; border-radius: 2px; }
+.abs-track b { position: absolute; top: 4px; border-top: 2px solid var(--ink); min-width: 1px; }
+.abs-track b::before, .abs-track b::after { content: ""; position: absolute; top: -4px; height: 6px; border-left: 1px solid var(--ink); }
+.abs-track b::before { left: 0; }
+.abs-track b::after { right: 0; }
+#map-lock[aria-pressed=true] { background: var(--soft-teal); color: var(--teal); }
+#flux-small-multiples canvas { height: 173px; }
+#flux-small-multiples > section + section { border-top: 1px solid var(--border); padding-top: 8px; }
+.gamut-note { display: block; margin-top: 4px; }
 </style>
 </head>
 <body>
@@ -308,22 +331,57 @@ td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
       <p id="residual" class="notice" hidden></p>
     </section>
     <div class="charts">
-      <section class="card stack"><div class="chart-head"><h3>Fluencia por profundidad</h3><p id="profile-note"></p></div><canvas id="profile" role="img" aria-label="Perfil de fluencia en función de la profundidad"></canvas><div class="row between"><div class="legend" id="profile-legend"></div><label class="check"><input id="profile-split" type="checkbox"> Separar directa y difusa</label></div></section>
-      <section class="card stack"><div class="chart-head"><h3>Energía saliente por ángulo</h3><p id="exit-note">Fracción incidente por grado. 0° apunta según la normal saliente.</p></div><canvas id="out-angle" role="img" aria-label="Distribución angular de energía por cara"></canvas><div class="row between"><div class="legend" id="exit-legend"></div><label class="check"><input id="scattered" type="checkbox"> Solo componente difusa</label></div></section>
+      <section class="card stack">
+        <div class="chart-head"><h3>Fluencia por profundidad</h3><p id="profile-note"></p></div>
+        <div class="plot-controls">
+          <label class="check"><input id="profile-log" type="checkbox"> Escala logarítmica</label>
+          <label class="check"><input id="profile-band" type="checkbox" checked> Banda de error</label>
+          <label class="check"><input id="profile-split" type="checkbox"> Separar directa y difusa</label>
+        </div>
+        <canvas id="profile" role="img" aria-label="Perfil de fluencia en función de la profundidad"></canvas>
+        <div class="legend" id="profile-legend"></div>
+        <small id="profile-scale-note"></small>
+      </section>
+      <section class="card stack">
+        <div class="chart-head"><h3>Energía saliente por ángulo</h3><p id="exit-note"></p></div>
+        <div class="fields">
+          <label>Cara<select id="angle-face"><option value="all">Todas</option><option value="0">Superior</option><option value="1">Inferior</option><option value="2">Laterales</option></select></label>
+          <label>Componente<select id="angle-component"><option value="both">Directa y difusa</option><option value="diffuse">Solo difusa</option><option value="direct">Solo directa</option></select></label>
+        </div>
+        <canvas id="out-angle" role="img" aria-label="Distribución angular de energía por cara"></canvas>
+        <div class="legend" id="exit-legend"></div>
+        <small id="angle-note"></small>
+      </section>
     </div>
     <section class="card stack full">
       <div class="result-head"><div><h3>Tiempo de vuelo</h3><p class="muted">Respuesta a un pulso ideal. Cada tramo aporta nℓ/c.</p></div><label>Salida<select id="time-face"><option value="0">Superior</option><option value="1" selected>Inferior</option><option value="2">Lateral</option></select></label></div>
+      <p class="muted" id="time-overflow"></p>
+      <div class="fields">
+        <label>Componente<select id="time-component"><option value="both">Directa y difusa</option><option value="diffuse">Solo difusa</option><option value="direct">Solo directa</option></select></label>
+        <label>Amplitud de la ventana<input type="range" id="time-zoom" min="1" max="100" step="0.5" value="100"></label>
+        <label>Desplazar la ventana<input type="range" id="time-start" min="0" max="100" value="0" disabled></label>
+        <div class="time-extent">Intervalo visible <output id="time-extent"></output></div>
+      </div>
       <canvas id="tof" role="img" aria-label="Histograma temporal de la energía saliente"></canvas>
       <div class="legend" id="time-legend"></div><small id="time-note"></small>
     </section>
     <section class="card stack full">
       <div class="result-head"><div><h3 id="map-title">Fluencia angular interna</h3><p class="muted" id="map-note"></p></div><label id="map-choice" hidden>Vista<select id="map-mode"><option value="space">Mapa x–z</option><option value="angle">Mapa cos θz–z</option></select></label></div>
+      <div class="plot-controls">
+        <button id="map-lock" class="btn" type="button" aria-pressed="false">Fijar escala</button>
+        <label class="check"><input id="map-noise" type="checkbox"> Marcar celdas ruidosas</label>
+      </div>
       <div class="map-frame">
         <canvas id="map" tabindex="0" role="img" aria-label="Mapa de fluencia dentro del medio" aria-describedby="map-help"></canvas>
         <span id="map-marker" aria-hidden="true" hidden></span>
       </div>
-      <div><div class="scale"></div><small class="scalelabel" aria-label="Escala logarítmica"><span id="scale-min"></span><span id="scale-max"></span></small></div>
-      <small id="map-help">Toca el mapa o usa las flechas para consultar una celda. Escala logarítmica. Gris = cero.</small>
+      <div class="map-scale">
+        <small id="map-scale-label"></small>
+        <div class="scale"></div>
+        <div id="map-scale-ticks" class="scalelabel"></div>
+      </div>
+      <div id="map-states" class="legend"></div>
+      <small id="map-help">Toca el mapa o usa las flechas para consultar una celda. La escala fija se conserva para cada vista durante la sesión.</small>
       <div id="map-readout" class="readout" role="status"></div>
     </section>
   </div>
@@ -356,7 +414,13 @@ td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
       <div id="flux-metrics" class="metrics"></div><div id="flux-parts" class="parts"></div>
     </section>
     <section class="card stack full"><h3 id="flux-chart-title">Absorción frente a K/S</h3>
+      <label class="check" id="flux-panel-control" hidden><input id="flux-panels" type="checkbox"> Separar reflexión, transmisión y absorción</label>
       <canvas id="flux-chart" role="img" aria-label="Balance de energía del modelo de flujos"></canvas>
+      <div id="flux-small-multiples" class="stack" hidden>
+        <section><h3>Reflexión</h3><canvas id="flux-reflected" role="img" aria-label="Componentes de reflexión"></canvas></section>
+        <section><h3>Transmisión</h3><canvas id="flux-transmitted" role="img" aria-label="Componentes de transmisión"></canvas></section>
+        <section><h3>Absorción</h3><canvas id="flux-absorbed" role="img" aria-label="Absorción de muestra y sustrato"></canvas></section>
+      </div>
       <div id="flux-legend" class="legend"></div><small id="flux-chart-note"></small>
     </section>
     <div class="card stack context">
@@ -421,7 +485,7 @@ td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
   <section class="stack"><h2>Validez e incertidumbre</h2>
     <p>La superposición P1 está disponible para incidencia colimada y una sola capa con g = 0 e índices igualados, sin sustrato efectivo. Separa el haz balístico de la fluencia difusa. Para esta última resuelve −DΦ″ + μₐΦ = μₛΦ<sub>bal</sub> con D = 1/[3(μₐ + μₛ)] y condición de corriente parcial Φ + 2D∂<sub>n</sub>Φ = 0. Para dispersión anisótropa, la estimación habitual de escala usa μₛ′ = μₛ(1 − g). P1 suele funcionar mejor cuando μₐ ≪ μₛ′ y a varias longitudes de transporte 1/(μₐ + μₛ′) de fuentes e interfaces. La curva de la herramienta incluye la contribución balística. <a href="https://escholarship.org/uc/item/6b0567k2" target="_blank" rel="noopener">Haskell et al., condiciones de contorno</a></p>
     <p>Para incidencia difusa se muestrea una radiancia lambertiana en la cara de entrada. La categoría difusa incluye la luz que ya llega difusa y la luz redirigida por dispersión en el volumen o por el sustrato lambertiano. El histograma temporal acumula el peso de salida por intervalo. Supone medios sin dispersión cromática de velocidad y un sustrato efectivo de respuesta instantánea. El ángulo tras el sustrato efectivo queda indeterminado.</p>
-    <p>Las barras ± indican un error estándar estimado por historia para las fracciones integradas. Los mapas muestran medias por celda. El extremo inferior de su escala logarítmica está cuatro décadas por debajo del máximo de cada cálculo. Los ceros aparecen en gris. Para interpretar rasgos débiles, aumenta el número de historias y comprueba si persisten con otra semilla.</p>
+    <p>Las barras ± indican un error estándar estimado por historia para las fracciones integradas. Los mapas muestran medias por celda. La escala automática de los mapas cubre cuatro décadas y redondea el máximo a la década superior. Las celdas sin contribuciones tienen estimación cero. La banda de fluencia y el mapa estiman el error estándar con las contribuciones acumuladas por historia. Para interpretar rasgos débiles, aumenta el número de historias y comprueba si persisten con otra semilla.</p>
     <p>Las historias se cortan a 8 000 eventos o cuando el peso cae por debajo de 10⁻¹¹. El balance muestra el peso restante como «Residual». Una fracción residual apreciable limita la interpretación, aunque el balance total cierre.</p>
   </section>
   <section class="stack"><h2>Referencias analíticas de validación</h2>
@@ -481,6 +545,33 @@ function scatter(u, g, rng) {
   return v.map(component => component / norm);
 }
 
+// Square the total deposited by each history in a bin, not its individual segments.
+function secondMoments(length) {
+  const history = new Float64Array(length);
+  const squares = new Float64Array(length);
+  const touched = [];
+  return {
+    add(i,value) {
+      if (value<=0) return;
+      if (history[i]===0) touched.push(i);
+      history[i] += value;
+    },
+    endHistory() {
+      for (const i of touched) {
+        squares[i] += history[i]**2;
+        history[i] = 0;
+      }
+      touched.length = 0;
+    },
+    error(sum,i,n) {
+      const mean = sum/n;
+      const moment = squares[i]/n;
+      const variance = moment-mean**2;
+      return variance > 2e-12*moment ? Math.sqrt(variance/Math.max(1,n-1)) : 0;
+    }
+  };
+}
+
 function experiment(p) {
   const box = p.geo === 'box';
   const substrate = p.substrate;
@@ -506,6 +597,9 @@ function experiment(p) {
   const rows = edges.length - 1;
   const f = new Float64Array(rows), direct = new Float64Array(rows), direction = new Float64Array(rows * nm);
   const spatial = new Float64Array(box ? rows * nx : 0);
+  const profileMoments = secondMoments(rows);
+  const directionMoments = secondMoments(direction.length);
+  const spatialMoments = secondMoments(spatial.length);
   const angle = Array.from({length: 3}, () => new Float64Array(na));
   const angleScattered = Array.from({length: 3}, () => new Float64Array(na));
   const sums = Object.fromEntries(fields.map(key => [key, 0]));
@@ -546,8 +640,15 @@ function experiment(p) {
       const integral = w * (m.a ? loss / m.a : segment);
       f[j] += integral;
       if (!diffuse) direct[j] += integral;
-      direction[j*nm + dir] += integral;
-      if (box) spatial[j*nx + i] += integral;
+      profileMoments.add(j,integral);
+      const angularBin = j*nm+dir;
+      direction[angularBin] += integral;
+      directionMoments.add(angularBin,integral);
+      if (box) {
+        const spatialBin = j*nx+i;
+        spatial[spatialBin] += integral;
+        spatialMoments.add(spatialBin,integral);
+      }
       w *= 1 - loss;
       walked = end;
       if (end >= length) break;
@@ -660,6 +761,9 @@ function experiment(p) {
         sums[key] += out[key];
         squares[key] += out[key] ** 2;
       }
+      profileMoments.endHistory();
+      directionMoments.endHistory();
+      spatialMoments.endHistory();
       n++;
     }
   }
@@ -676,6 +780,9 @@ function experiment(p) {
       absorption:Array.from(layerAbs,(v,i) => estimate(v,layerAbs2[i])),
       direct:direct.map((val,j) => val / (n * volume(j))),
       profile: f.map((val,j) => val / (n * volume(j))),
+      profileSE: f.map((v,j) => profileMoments.error(v,j,n)/volume(j)),
+      directionSE: direction.map((v,i) => directionMoments.error(v,i,n)/volume(Math.floor(i/nm))/(2/nm)),
+      spatialSE: spatial.map((v,i) => spatialMoments.error(v,i,n)/volume(Math.floor(i/nx))*nx),
       direction: direction.map((val,i) => val / (n * volume(Math.floor(i / nm)) * (2/nm))),
       spatial: spatial.map((val,i) => val / (n * volume(Math.floor(i / nx)) / nx)),
       angle: angle.map(a => a.map(val => val / (n * 90 / na))),
@@ -885,8 +992,9 @@ const compactLayout = window.matchMedia('(max-width: 760px)');
 const tabs = [...document.querySelectorAll('[role=tab]')];
 const fmt = (v, digits = 3) => v.toLocaleString('es-ES',{maximumFractionDigits:digits});
 const sci = v => v === 0 ? '0' : Math.abs(v) < 0.001 || Math.abs(v) >= 10000 ? v.toExponential(2).replace('.',',') : fmt(v,4);
-const pct = v => fmt(100*v, 2) + ' %';
-const colors = {R:'#0b6e68',T:'#31649f',A:'#a35121',L:'#775f98',U:'#6b7680',B:'#31649f'};
+const pct = v => fmt(100*v,2)+' %';
+const densityPct = v => sci(100*v)+' %';
+const colors = {R:'#126551',T:'#245fa7',A:'#a35121',L:'#794081',U:'#525b67'};
 const names = {R:'Reflectancia',T:'Transmitancia inferior',A:'Absorción',L:'Escape lateral',U:'Residual',B:'Transmisión sin dispersión'};
 const presets = {
   layered:defaults,
@@ -905,7 +1013,8 @@ let worker = null, data = null, approximation = null, analytic = null, lastMap =
 let verification = false;
 let mapSelection = null;
 let simulationPending = false;
-const directColors = ['#0b6e68','#775f98'];
+const componentColors = ['#263748','#9a3b83'];
+const modelColor = '#176656';
 
 function geometryControls() {
   const box = get('geo').value === 'box';
@@ -1138,8 +1247,11 @@ function displayCheck({name,rows}) {
   });
 }
 
-function key(label,color,dashed = false) {
-  return '<span class="key' + (dashed ? ' dashed' : '') + '" style="--series:' + color + '">' + label + '</span>';
+function key(label,color,dash = false) {
+  const pattern = Array.isArray(dash) ? dash : dash ? [6,4] : [];
+  const dashAttr = pattern.length ? ' stroke-dasharray="'+pattern.join(' ')+'"' : '';
+  return '<span class="key"><svg width="24" height="10" aria-hidden="true"><path d="M0 5h24" fill="none" stroke="'+color+
+    '" stroke-width="2"'+dashAttr+'/></svg>'+label+'</span>';
 }
 
 function showResults() {
@@ -1148,21 +1260,29 @@ function showResults() {
   get('run-geometry').textContent = (box ? 'Bloque de ' + fmt(p.width) + ' × ' + fmt(p.width) + ' cm' : 'Losa plana') +
     ' · ' + fmt(depth) + ' cm de profundidad · ' + p.layers.length + (p.layers.length === 1 ? ' capa' : ' capas');
   const codes = box ? ['R','T','A','L'] : ['R','T','A'];
-  if (stats.U.mean > 0.00001) codes.push('U');
+  if (stats.U.mean > 1e-5) codes.push('U');
   get('metrics').innerHTML = codes.map(code => '<div class="metric" style="--series:' + colors[code] + '"><small>' + names[code] +
     '</small><strong>' + pct(stats[code].mean) + '</strong><small>± ' + fmt(100*stats[code].se,3) + ' pp</small></div>').join('');
   get('balance').innerHTML = codes.map(code => '<span style="width:' + (100*stats[code].mean) + '%;background:' + colors[code] + '"></span>').join('');
   const sum = ['R','T','A','L','U'].reduce((v,code) => v+stats[code].mean,0);
-  get('balance-note').textContent = 'Balance ' + pct(sum) + (p.substrate ? ' · Sustrato efectivo' : '');
+  get('balance-note').textContent = 'Energía contabilizada: '+pct(sum)+' · Resuelta: '+pct(sum-stats.U.mean) +
+    ' · Residual: '+sci(100*stats.U.mean)+' %'+(p.substrate ? ' · Sustrato efectivo' : '');
   get('components').innerHTML = ['Rc','Rd','Tc','Td'].map(code => '<span>' + code[0] + '<sub>' + code[1] +
     '</sub> ' + pct(stats[code].mean) + '</span>').join('');
   const deposits = data.absorption.map((estimate,i) => ['Capa ' + (i+1),estimate]);
   if (p.substrate) deposits.push(['Sustrato',stats.Ag]);
-  get('layer-abs').innerHTML = '<table><thead><tr><th>Región</th><th>Absorción</th><th>Error estándar (pp)</th></tr></thead><tbody>' +
-    deposits.map(([label,value]) => '<tr><td>' + label + '</td><td>' + pct(value.mean) + '</td><td>' + fmt(100*value.se,3) + '</td></tr>').join('') +
-    '</tbody></table>';
+  const layerMax = 1;
+  get('layer-abs').innerHTML = '<div class="absorption-bars"><small>Fracción de la energía incidente · eje común de 0 a '+pct(layerMax)+'</small>' +
+    deposits.map(([label,v]) => {
+      const pos = 100*v.mean/layerMax;
+      const low = Math.max(0,100*(v.mean-v.se)/layerMax);
+      const high = Math.min(100,100*(v.mean+v.se)/layerMax);
+      return '<div class="abs-row"><span>'+label+'</span><strong>'+pct(v.mean)+' <small>± '+fmt(100*v.se,3)+' pp</small></strong>'+
+        '<div class="abs-track" aria-hidden="true"><i style="width:'+pos+'%"></i>'+
+        '<b style="left:'+low+'%;width:'+(high-low)+'%"></b></div></div>';
+    }).join('')+'</div>';
   get('exit-note').textContent = p.substrate ? 'Fracción por grado. El sustrato efectivo carece de salida angular definida.' :
-    'Fracción incidente por grado. 0° apunta según la normal saliente.';
+    '0° apunta según la normal saliente.';
   get('time-face').options[2].disabled = !box;
   if (!box && get('time-face').value==='2') get('time-face').value='1';
   get('residual').hidden = stats.U.mean <= 0.00001;
@@ -1171,7 +1291,10 @@ function showResults() {
   if (approximation) get('p1-summary').textContent = 'P1 · R ' + pct(approximation.R) + ' · T ' + pct(approximation.T) + ' · A ' + pct(approximation.A);
   get('profile-note').textContent = box ? 'Promedio transversal por potencia incidente (cm⁻²).' : 'Normalizada por la irradiancia incidente (Φ/F₀).';
   get('map-choice').hidden = !box;
-  get('exit-legend').innerHTML = key('Superior',colors.R) + (p.substrate ? '' : key('Inferior',colors.T,true)) + (box ? key('Laterales',colors.L) : '');
+  const angleFace = get('angle-face');
+  angleFace.querySelector('[value="1"]').disabled = !!p.substrate;
+  angleFace.querySelector('[value="2"]').disabled = !box;
+  if (angleFace.selectedOptions[0].disabled) angleFace.value = 'all';
   draw();
 }
 
@@ -1194,10 +1317,9 @@ function textAt(ctx,text,x,y,align='center') {
   ctx.fillText(text,x,y);
 }
 
-function grid(plot,xmax,ymax,xlabel,yformat = sci,xformat = v => fmt(v,2)) {
+function grid(plot,xmax,ymax,xlabel,yformat = sci,xformat = v => fmt(v,2),yTicks = [0,1,2,3,4].map(i => ymax*i/4)) {
   const {ctx,w,h} = plot;
   const ticks = w < 290 ? 2 : 4;
-  const yTicks = [0,1,2,3,4].map(i => ymax*i/4);
   const yLabels = yTicks.map(yformat);
   const left = Math.ceil(Math.max(...yLabels.map(label => ctx.measureText(label).width))) + 11;
   const right = w - Math.max(9, Math.ceil(ctx.measureText(xformat(xmax)).width/2)+2);
@@ -1222,107 +1344,257 @@ function grid(plot,xmax,ymax,xlabel,yformat = sci,xformat = v => fmt(v,2)) {
   return {X,Y,top,bottom};
 }
 
-function line(ctx,points,color,dashed=false) {
+function line(ctx,points,color,dash=false) {
   ctx.beginPath();
-  ctx.strokeStyle=color;ctx.lineWidth=2;
-  ctx.setLineDash(dashed ? [6,4] : []);
-  points.forEach(([x,y],i) => i ? ctx.lineTo(x,y) : ctx.moveTo(x,y));
-  ctx.stroke();ctx.setLineDash([]);
+  ctx.strokeStyle=color;
+  ctx.lineWidth=2;
+  ctx.setLineDash(Array.isArray(dash) ? dash : dash ? [6,4] : []);
+  let connected = false;
+  for (const [x,y] of points) {
+    if (!Number.isFinite(x) || !Number.isFinite(y)) {
+      connected = false;
+      continue;
+    }
+    if (connected) ctx.lineTo(x,y);
+    else ctx.moveTo(x,y);
+    connected = true;
+  }
+  ctx.stroke();
+  ctx.setLineDash([]);
+}
+
+function steps(edges, values, X, Y) {
+  return Array.from(values, (value,i) => [[X(edges[i]), Y(value)], [X(edges[i+1]), Y(value)]]).flat();
 }
 
 function profilePlot() {
   const plot = canvas('profile');
-  if (!plot) return;
+  if (!plot || !data) return;
   const {ctx} = plot;
-  const series = [[data.profile,colors.R,false,'Monte Carlo']];
-  if (approximation) series.push([approximation.profile,colors.A,true,'P1 + haz directo']);
-  if (analytic) series.push([analytic,colors.T,true,'Beer–Lambert']);
-  if (get('profile-split').checked) {
-    series.push([data.direct,colors.T,true,'Directa']);
-    series.push([data.profile.map((v,i) => Math.max(0,v-data.direct[i])),colors.L,true,'Difusa']);
+  const split = get('profile-split').checked, log = get('profile-log').checked;
+  const band = get('profile-band').checked;
+  const series = [[data.profile,modelColor,false,'Monte Carlo']];
+  if (approximation) series.push([approximation.profile,'#7c4286',[7,4],'P1 + haz directo']);
+  if (analytic) series.push([analytic,'#3c5265',[2,4],'Beer–Lambert']);
+  if (split) {
+    series.push([data.direct,componentColors[0],[9,3,2,3],'Directa']);
+    series.push([data.profile.map((v,i) => Math.max(0,v-data.direct[i])),componentColors[1],[4,4],'Difusa']);
   }
-  get('profile-legend').innerHTML = series.map(([,color,dashed,label]) => key(label,color,dashed)).join('');
-  const ymax = Math.max(1e-12, ...series.flatMap(([values]) => [...values]))*1.04;
-  const {X,Y,top,bottom} = grid(plot,data.depth,ymax,'Profundidad z (cm)');
-  for (const z of data.z.slice(1,-1)) line(ctx,[[X(z),top],[X(z),bottom]],'#c4d4d6',true);
-  for (const [values,color,dashed] of series) line(ctx,Array.from(values,(v,i) => [X((data.edges[i]+data.edges[i+1])/2),Y(v)]),color,dashed);
+  get('profile-legend').innerHTML = series.map(([,color,dash,label]) => key(label,color,dash)).join('') +
+    (band ? '<span class="band-key">Monte Carlo ± 1 error estándar</span>' : '');
+  const upper = data.profile.map((v,i) => v+data.profileSE[i]);
+  const lower = data.profile.map((v,i) => Math.max(0,v-data.profileSE[i]));
+  const values = series.flatMap(([a]) => [...a]);
+  const positive = values.filter(v => v > 0);
+  const maximum = Math.max(1e-12,...values,...(band ? upper : []));
+  const logScale = log && positive.length > 0;
+  const low = logScale ? Math.floor(Math.log10(Math.min(...positive))) : 0;
+  const high = logScale ? Math.max(low+1,Math.ceil(Math.log10(maximum))) : maximum*1.04;
+  const format = logScale ? v => sci(10**(v+low)) : sci;
+  const every = Math.max(1,Math.ceil((high-low)/5));
+  const decades = logScale ? Array.from({length:Math.floor((high-low)/every)+1},(_,i) => i*every) : undefined;
+  if (decades && decades.at(-1)!==high-low) decades.push(high-low);
+  const {X,Y: y,top,bottom} = grid(plot,data.depth,high-low,'Profundidad z (cm)',format,sci,decades);
+  const Y = v => logScale ? (v>0 ? y(Math.log10(Math.max(10**low,v))-low) : NaN) : y(v);
+  for (const z of data.z.slice(1,-1)) line(ctx,[[X(z),top],[X(z),bottom]],'#a9bdc7',true);
+  if (band) {
+    ctx.fillStyle = '#16685829';
+    for (let i=0;i<upper.length;i++) {
+      if (!data.profile[i] && logScale) continue;
+      const topEdge = Y(upper[i]);
+      const bottomEdge = logScale && lower[i] < 10**low ? bottom : Y(lower[i]);
+      ctx.fillRect(X(data.edges[i]),topEdge,X(data.edges[i+1])-X(data.edges[i]),bottomEdge-topEdge);
+    }
+  }
+  // Draw references over the total so an exact match stays visible.
+  for (const [a,color,dash] of series) line(ctx,steps(data.edges,a,X,Y),color,dash);
+  let note = 'Valores medios por celda. Las líneas verticales marcan las interfaces.';
+  if (logScale) note += ' En escala logarítmica se omiten los ceros.' + (band ? ' La banda se recorta en el límite inferior.' : '');
+  if (log && !logScale) note += ' Sin valores positivos para la escala logarítmica.';
+  get('profile-scale-note').textContent = note;
 }
+
+const faces = ['Superior','Inferior','Laterales'];
+const faceColors = [colors.R,colors.T,colors.L];
+const faceDashes = [false,[7,4],[2,4]];
 
 function exitPlot() {
   const plot = canvas('out-angle');
-  if (!plot) return;
+  if (!plot || !data) return;
   const {ctx} = plot;
-  const values = (get('scattered').checked ? data.angleScattered : data.angle).slice(0,data.p.geo === 'box' ? 3 : 2);
-  const ymax = Math.max(0.00001,...values.flatMap(a => [...a]))*1.08;
-  const {X,Y} = grid(plot,90,ymax,'Ángulo de salida (°)');
+  const selected = get('angle-face').value;
+  const component = get('angle-component').value;
   const width = 90/na;
-  values.forEach((a,k) => {
-    if (k===1 && data.p.substrate) return;
-    const points = [...a].flatMap((v,i) => [[X(i*width),Y(v)],[X((i+1)*width),Y(v)]]);
-    line(ctx,points,[colors.R,colors.T,colors.L][k],k===1);
-  });
+  const edges = Array.from({length:na+1},(_,i) => i*width);
+  const series = [];
+  for (let i=0;i<(data.p.geo==='box' ? 3 : 2);i++) {
+    if ((i===1 && data.p.substrate) || (selected!=='all' && i!==+selected)) continue;
+    const diffuse = data.angleScattered[i];
+    const direct = data.angle[i].map((v,k) => Math.max(0,v-diffuse[k]));
+    if (component!=='direct') series.push({a:diffuse,face:i,stem:false});
+    if (component!=='diffuse') series.push({a:direct,face:i,stem:true});
+  }
+  const max = Math.max(1e-9,...series.flatMap(s => [...s.a]));
+  const {X,Y} = grid(plot,90,max*1.08,'Ángulo con la normal saliente (°)',densityPct);
+  drawDistributions(ctx,series.map(s => ({...s,color:faceColors[s.face],dash:faceDashes[s.face]})),edges,X,Y);
+  get('exit-legend').innerHTML = [...new Set(series.map(s => s.face))].map(i => key(faces[i],faceColors[i],faceDashes[i])).join('');
+  get('angle-note').textContent = 'Energía incidente por grado · intervalos de '+fmt(width)+'°.' +
+    (component==='both' ? ' Escalones: difusa. Marcadores: directa.' :
+      component==='direct' ? ' Cada marcador se sitúa en el centro de su intervalo.' : '');
 }
 
-const palette = [[23,41,71],[38,91,137],[32,142,148],[93,188,143],[246,223,135]];
-function mapColor(value,floor,max) {
-  if (!value || !max) return '#e4eaeb';
-  const f = clamp((Math.log10(value)-Math.log10(floor))/4,0,1)*(palette.length-1);
-  const i = Math.min(palette.length-2, Math.floor(f)), r = f-i;
-  return 'rgb(' + palette[i].map((a,k) => Math.round(a+(palette[i+1][k]-a)*r)).join(',') + ')';
-}
-
-function mapPlot() {
-  const plot = canvas('map');
-  if (!plot) return;
-  const {ctx,w,h} = plot;
-  const space = data.p.geo === 'box' && get('map-mode').value === 'space';
-  const values = space ? data.spatial : data.direction;
-  const cols = space ? nx : nm;
-  const xmin = space ? -data.p.width/2 : -1, xmax = -xmin;
-  const max = Math.max(0,...values), floor = max/10000;
-  const left=55,right=w-15,top=10,bottom=h-39, cw=(right-left)/cols;
-  const Y = z => top+(bottom-top)*z/data.depth;
-  for (let j=0;j<data.profile.length;j++) {
-    const y1=Y(data.edges[j]), y2=Y(data.edges[j+1]);
-    for (let i=0;i<cols;i++) {
-      ctx.fillStyle=mapColor(values[j*cols+i],floor,max);
-      ctx.fillRect(Math.floor(left+i*cw),Math.floor(y1),Math.ceil(left+(i+1)*cw)-Math.floor(left+i*cw),Math.ceil(y2)-Math.floor(y1));
+function drawDistributions(ctx, series, edges, X, Y) {
+  for (const {a,color,dash,stem} of series) {
+    if (!stem) {
+      line(ctx,steps(edges,a,X,Y),color,dash);
+      continue;
     }
+    a.forEach((v,i) => {
+      if (v<=0) return;
+      const x = X((edges[i]+edges[i+1])/2);
+      line(ctx,[[x,Y(0)],[x,Y(v)]],color,dash);
+      dot(ctx,x,Y(v),color,3.5);
+    });
   }
-  for (const z of data.z.slice(1,-1)) line(ctx,[[left,Y(z)],[right,Y(z)]],'#d2e4e8',true);
-  for (let i=0;i<=4;i++) {
-    textAt(ctx,fmt(data.depth*i/4,2),left-6,Y(data.depth*i/4)+3,'right');
-    textAt(ctx,fmt(xmin+(xmax-xmin)*i/4,2),left+(right-left)*i/4,bottom+16);
-  }
-  ctx.save();ctx.translate(12,(top+bottom)/2);ctx.rotate(-Math.PI/2);textAt(ctx,'z (cm)',0,0);ctx.restore();
-  textAt(ctx,space?'Posición x (cm)':'cos θz',(left+right)/2,h-4);
-  get('map-title').textContent = space ? 'Mapa espacial de fluencia' : 'Fluencia angular interna';
-  get('map-note').textContent = space ? 'Promedio en y por potencia incidente (cm⁻²).' :
-    '−1 hacia la entrada, +1 hacia el fondo. Azimut integrado' + (data.p.geo === 'box' ? ' (cm⁻²).' : ' (normalizado por F₀).');
-  get('scale-min').textContent = max ? '≤ ' + sci(floor) : '0';
-  get('scale-max').textContent = sci(max);
-  lastMap = {space,values,cols,xmin,xmax,left,right,top,bottom,edges:data.edges,depth:data.depth};
-  updateMapSelection();
+}
+
+function dot(ctx,x,y,color,radius=3) {
+  ctx.fillStyle = color;
+  ctx.strokeStyle = '#fff';
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  ctx.arc(x,y,radius,0,2*Math.PI);
+  ctx.fill();
+  ctx.stroke();
 }
 
 function timePlot() {
   const plot = canvas('tof');
   if (!plot || !data) return;
   const face = +get('time-face').value;
-  const duration = data.timeMax;
-  const pair = data.time.slice(2*face,2*face+2);
-  const width = duration/nt;
-  const max = Math.max(0.00001,...pair.flatMap(values => [...values]));
-  const {ctx} = plot;
-  const {X,Y} = grid(plot,duration,max*1.05,'Tiempo de vuelo (ps)',pct);
-  pair.forEach((values,k) => {
-    const points = [...values].flatMap((v,i) => [[X(i*width),Y(v)],[X((i+1)*width),Y(v)]]);
-    line(ctx,points,directColors[k],k===1);
-  });
-  get('time-legend').innerHTML = key('Colimada',directColors[0]) + key('Difusa',directColors[1],true);
-  const overflow = data.late[2*face]+data.late[2*face+1];
-  get('time-note').textContent = 'Fracción de la energía incidente por intervalo de ' + sci(width) + ' ps. Fuera de ventana: ' + pct(overflow) +
-    (data.p.substrate && face===1 ? ' · El sustrato efectivo aporta retardo cero.' : '');
+  const component = get('time-component').value;
+  const total = data.stats[['R','T','L'][face]].mean;
+  const width = data.timeMax/nt;
+  const count = Math.round(+get('time-zoom').value*nt/100);
+  const offset = Math.round((nt-count)*(+get('time-start').value/100));
+  const duration = count*width;
+  const start = offset*width;
+  const visible = data.time.slice(2*face,2*face+2);
+  const remaining = visible.reduce((sum,a) => sum+a.reduce((subtotal,v,i) => i<offset || i>=offset+count ? subtotal+v : subtotal,0),0);
+  const late = data.late[2*face]+data.late[2*face+1];
+  const selected = component==='direct' ? [0] : component==='diffuse' ? [1] : [0,1];
+  const series = selected.map(k => ({a:visible[k].slice(offset,offset+count),color:componentColors[k],stem:k===0,dash:k===1}));
+  const max = Math.max(1e-9,...series.flatMap(s => [...s.a]));
+  const {X,Y} = grid(plot,duration,max*1.09,'Tiempo de vuelo (ps)',densityPct,sci);
+  const edges = Array.from({length:count+1},(_,i) => i*width);
+  drawDistributions(plot.ctx,series,edges,X,Y);
+  get('time-start').disabled = count===nt;
+  get('time-extent').textContent = sci(start)+' a '+sci(start+duration)+' ps';
+  get('time-legend').innerHTML = selected.map(k => key(k===0 ? 'Directa · marcadores' : 'Difusa · escalones',componentColors[k],k===1)).join('');
+  const tail = total>0 ? pct(late/total)+' de la salida de esta cara ('+pct(late)+' de la incidente)' : 'sin energía de salida en esta cara';
+  get('time-overflow').textContent = 'Tras la ventana simulada: '+tail+'.' +
+    (remaining>0 && total>0 ? ' El zoom oculta otro '+pct(remaining/total)+' de la salida.' : '');
+  get('time-note').textContent = 'Energía incidente por intervalo de '+sci(width)+' ps. Los marcadores indican centros de intervalo.' +
+    (data.p.substrate && face===1 ? ' El sustrato efectivo aporta retardo cero.' : '');
+}
+
+// Cividis samples as distributed by Plotly. See doi:10.1371/journal.pone.0199239.
+const palette = ['00224e','123570','3b496c','575d6d','707173','8a8678','a59c74','c3b369','e1cc55','fee838']
+  .map(hex => hex.match(/../g).map(channel => parseInt(channel,16)));
+const lockedRanges = new Map();
+const mapStates = {
+  zero:{color:'#eef1f3',label:'Cero estimado',mark:'×'},
+  low:{color:'#d4ddeb',label:'Por debajo del rango',mark:'·'},
+  high:{color:'#f3c79d',label:'Por encima del rango',mark:'+'}
+};
+
+function mapColor(logFraction) {
+  const x = clamp(logFraction,0,1)*(palette.length-1);
+  const i = Math.min(palette.length-2,Math.floor(x));
+  const rgb = palette[i].map((a,k) => Math.round(a+(palette[i+1][k]-a)*(x-i)));
+  return 'rgb('+rgb.join(',')+')';
+}
+
+function mapState(value, floor, ceiling) {
+  return value===0 ? mapStates.zero : value<floor ? mapStates.low : value>ceiling ? mapStates.high : null;
+}
+
+function mapPlot() {
+  const plot = canvas('map');
+  if (!plot || !data) return;
+  const {ctx,w,h} = plot;
+  const space = data.p.geo==='box' && get('map-mode').value==='space';
+  const values = space ? data.spatial : data.direction;
+  const errors = space ? data.spatialSE : data.directionSE;
+  const rangeKey = data.p.geo + (space ? '-space' : '-angle');
+  const locked = lockedRanges.get(rangeKey);
+  const xmax = space ? data.p.width/2 : 1, xmin = -xmax;
+  const cols = space ? nx : nm;
+  const maximum = Math.max(0,...values);
+  const topLog = locked?.topLog ?? (maximum>0 ? Math.ceil(Math.log10(maximum)) : 0);
+  const ceiling = 10**topLog, floor = 10**(topLog-4);
+  const uncertain = get('map-noise').checked;
+  const left = Math.max(45,Math.ceil(ctx.measureText(sci(data.depth)).width)+22);
+  const right=w-19,top=11,bottom=h-39,cw=(right-left)/cols;
+  const Y = z => top+(bottom-top)*z/data.depth;
+  const seen = new Set();
+  const dpi = ctx.getTransform().a;
+  const snap = pixel => Math.round(pixel*dpi)/dpi;
+  for (let j=0;j<data.profile.length;j++) {
+    const y1=snap(Y(data.edges[j])), y2=snap(Y(data.edges[j+1]));
+    if (y2===y1) continue;
+    for (let i=0;i<cols;i++) {
+      const index = j*cols+i, value = values[index];
+      const state = mapState(value,floor,ceiling);
+      const x = snap(left+i*cw), end = snap(left+(i+1)*cw);
+      ctx.fillStyle = state?.color ?? mapColor((Math.log10(value)-(topLog-4))/4);
+      ctx.fillRect(x,y1,end-x,y2-y1);
+      if (state) seen.add(state);
+      if (state || (uncertain && errors[index] > 0.3*value)) {
+        const cx=(x+end)/2, cy=(y1+y2)/2;
+        const size=Math.min(1.25,(end-x)/3,(y2-y1)/3);
+        ctx.fillStyle = state ? '#34445d' : '#fff';
+        if (!state || state===mapStates.low) ctx.fillRect(cx-size/2,cy-size/2,size,size);
+        else {
+          const diagonal = state===mapStates.zero;
+          ctx.strokeStyle = '#34445d';
+          ctx.lineWidth = 0.8;
+          ctx.beginPath();
+          ctx.moveTo(cx-size,cy-(diagonal ? size : 0));
+          ctx.lineTo(cx+size,cy+(diagonal ? size : 0));
+          ctx.moveTo(cx+(diagonal ? size : 0),cy-size);
+          ctx.lineTo(cx-(diagonal ? size : 0),cy+size);
+          ctx.stroke();
+        }
+      }
+    }
+  }
+  for (const z of data.z.slice(1,-1)) line(ctx,[[left,Y(z)],[right,Y(z)]],'#cdd8e2',true);
+  const nTicks = w<300 ? 2 : 4;
+  for (let i=0;i<=nTicks;i++) {
+    const t = i/nTicks;
+    textAt(ctx,sci(data.depth*t),left-6,Y(data.depth*t)+4,'right');
+    textAt(ctx,sci(xmin+(xmax-xmin)*t),left+(right-left)*t,bottom+16);
+  }
+  ctx.save();
+  ctx.translate(9,(top+bottom)/2);
+  ctx.rotate(-Math.PI/2);
+  textAt(ctx,'z (cm)',0,0);
+  ctx.restore();
+  textAt(ctx,space?'Posición x (cm)':'cos θz',(left+right)/2,h-4);
+  get('map-title').textContent = space ? 'Mapa espacial de fluencia' : 'Fluencia angular interna';
+  get('map-note').textContent = space ? 'Promedio en y por potencia incidente.' : '−1 hacia la entrada, +1 hacia el fondo. Azimut integrado.';
+  get('map-scale-label').textContent = 'Escala logarítmica · '+(space ? 'Φ/P₀ (cm⁻²)' :
+    data.p.geo==='box' ? 'd(Φ/P₀)/d cos θz (cm⁻²)' : 'd(Φ/F₀)/d cos θz');
+  get('map-scale-ticks').innerHTML = Array.from({length:5},(_,i) => '<span>'+sci(10**(topLog-4+i))+'</span>').join('');
+  get('map-states').innerHTML = [...Object.values(mapStates)].filter(state => seen.has(state))
+    .map(({color,label,mark}) => '<span class="map-state"><i aria-hidden="true" style="background:'+color+'">'+mark+'</i>'+label+'</span>').join('') +
+    (uncertain ? '<span>· Error estándar relativo &gt; 30 % en celdas de la escala</span>' : '');
+  get('map-lock').textContent = locked ? 'Liberar escala' : 'Fijar escala';
+  get('map-lock').setAttribute('aria-pressed',!!locked);
+  get('map-lock').disabled = !locked && maximum===0;
+  lastMap = {space,values,errors,cols,xmin,xmax,left,right,top,bottom,edges:data.edges,depth:data.depth,rangeKey,topLog,floor,ceiling};
+  updateMapSelection();
 }
 
 function draw() {
@@ -1340,7 +1612,7 @@ function updateMapSelection() {
     readout.textContent = '';
     return;
   }
-  const {space,values,cols,xmin,xmax,left,right,top,bottom,edges,depth} = lastMap;
+  const {space,values,errors,cols,xmin,xmax,left,right,top,bottom,edges,depth,floor,ceiling} = lastMap;
   const i = clamp(mapSelection.i,0,cols-1);
   const j = clamp(mapSelection.j,0,edges.length-2);
   const cellWidth = (right-left)/cols, cellHeight = (bottom-top)/depth;
@@ -1349,8 +1621,11 @@ function updateMapSelection() {
   marker.style.width = cellWidth + 'px';
   marker.style.height = (edges[j+1]-edges[j])*cellHeight + 'px';
   const step = (xmax-xmin)/cols, lower = xmin+i*step;
+  const value = values[j*cols+i];
+  const error = errors[j*cols+i];
+  const state = mapState(value,floor,ceiling);
   readout.textContent = (space ? 'x' : 'cos θz') + ' ' + fmt(lower) + ' a ' + fmt(lower+step) +
-    (space ? ' cm' : '') + ' · z ' + fmt(edges[j]) + ' a ' + fmt(edges[j+1]) + ' cm · Fluencia ' + sci(values[j*cols+i]);
+    (space ? ' cm' : '') + ' · z ' + fmt(edges[j]) + ' a ' + fmt(edges[j+1]) + ' cm · '+sci(value)+(value ? ' ± '+sci(error)+' (1 EE)' : '')+(state ? ' · '+state.label : '');
 }
 
 function selectMapCell(event) {
@@ -1435,9 +1710,17 @@ get('map-mode').onchange = () => {
   mapSelection = null;
   mapPlot();
 };
-get('scattered').onchange = exitPlot;
-get('profile-split').onchange = profilePlot;
-get('time-face').onchange = timePlot;
+get('map-lock').onclick = () => {
+  if (!lastMap) return;
+  const {rangeKey,topLog} = lastMap;
+  if (lockedRanges.has(rangeKey)) lockedRanges.delete(rangeKey);
+  else lockedRanges.set(rangeKey,{topLog});
+  mapPlot();
+};
+get('map-noise').onchange = mapPlot;
+for (const id of ['angle-face','angle-component']) get(id).onchange = exitPlot;
+for (const id of ['profile-split','profile-log','profile-band']) get(id).onchange = profilePlot;
+for (const id of ['time-face','time-component','time-zoom','time-start']) get(id).oninput = timePlot;
 let resizeFrame;
 window.addEventListener('resize',() => {
   cancelAnimationFrame(resizeFrame);
@@ -1467,11 +1750,15 @@ function drawFlux() {
   get('flux-description').textContent = useFour ?
     'ξ es la razón entre el camino difuso medio y el colimado. σc y σd son las fracciones dispersadas hacia delante. La entrada usa Fresnel normal y hemisférico. Los coeficientes del sustrato son efectivos desde la muestra y conservan la clase colimada o difusa.' :
     'K y S son los coeficientes de absorción y retrodispersión del modelo de dos flujos. La solución incorpora rebotes entre muestra y sustrato y permite variar SX y K/S. Los puntos proceden del Monte Carlo unidimensional del trabajo de 2016.';
-  const plot = canvas('flux-chart');
-  if (!plot) return;
+  const panels = useFour && get('flux-panels').checked;
+  get('flux-panel-control').hidden = !useFour;
+  get('flux-chart').hidden = panels;
+  get('flux-small-multiples').hidden = !panels;
+  const charts = (panels ? ['flux-reflected','flux-transmitted','flux-absorbed'] : ['flux-chart']).map(canvas);
+  if (charts.some(plot => !plot)) return;
   const error = get('flux-error');
   error.hidden = true;
-  let v, series, archiveIndex = -1, x, xLabel, xFormat, xmax;
+  let v, series, archiveIndex = -1, x, xLabel, xFormat, xmax, cursorValues;
   if (useFour) {
     const p = Object.fromEntries(['a','s','d','xi','sc','sd','f','n1','n2','rc','tc','rd','td'].map(k => [k,modelValue('ff-'+k)]));
     if (Object.values(p).every(Number.isFinite) && usablePair(p.rc,p.tc) && usablePair(p.rd,p.td)) {
@@ -1482,6 +1769,7 @@ function drawFlux() {
       xLabel = 'Fracción colimada incidente';
       xFormat = pct;
       const diffuse = fourFlux({...p,f:0}), col = fourFlux({...p,f:1});
+      cursorValues = [v.Rc,v.Rd,v.Tc,v.Td,v.Af,v.Ag];
       series = [['Rc','R colimada',colors.R,false],['Rd','R difusa',colors.R,true],
         ['Tc','T colimada',colors.T,false],['Td','T difusa',colors.T,true],
         ['Af','Absorción de la muestra',colors.A,false],['Ag','Absorción del sustrato',colors.L,false]]
@@ -1502,9 +1790,10 @@ function drawFlux() {
         const q=4*i/180;
         return [q,kubelka(10**(q-2),1,sx,r,t)];
       });
-      series = [['Absorción total',colors.R,o => o.Af+o.Ag],
-        ['Muestra',colors.A,o => o.Af],['Sustrato',colors.L,o => o.Ag]]
-        .map(([label,color,fn]) => ({label,color,points:samples.map(([q,o]) => [q,fn(o)])}));
+      cursorValues = [v.Af+v.Ag,v.Af,v.Ag];
+      series = [['Absorción total',colors.A,false,o => o.Af+o.Ag],
+        ['Muestra',colors.A,[7,4],o => o.Af],['Sustrato',colors.L,[2,4],o => o.Ag]]
+        .map(([label,color,dash,fn]) => ({label,color,dash,points:samples.map(([q,o]) => [q,fn(o)])}));
     }
   }
   if (!v || Object.values(v).some(value => !Number.isFinite(value))) {
@@ -1516,19 +1805,23 @@ function drawFlux() {
   metrics('flux-metrics',[['Reflectancia',v.R,colors.R],['Transmitancia',v.T,colors.T],
     ['Absorción de la muestra',v.Af,colors.A],['Absorción del sustrato',v.Ag,colors.L]]);
   get('flux-parts').innerHTML = useFour ? ['Rc','Rd','Tc','Td'].map(k => '<span>'+k[0]+'<sub>'+k[1]+'</sub> '+pct(v[k])+'</span>').join('') : '';
-  const {ctx} = plot;
-  const {X,Y,top,bottom} = grid(plot,xmax,1,xLabel,pct,xFormat);
-  line(ctx,[[X(x),top],[X(x),bottom]],'#9bafb5',true);
-  series.forEach(({points,color,dash}) => line(ctx,points.map(([a,b]) => [X(a),Y(b)]),color,dash));
-  if (archiveIndex>=0) {
-    for (const row of archiveData.km.sim) series.forEach(({color},i) => {
-      ctx.strokeStyle=color;
-      ctx.lineWidth=1.5;
-      ctx.beginPath();
-      ctx.arc(X(Math.log10(row[0])+2),Y(row[1+3*archiveIndex+i]/100),3.5,0,2*Math.PI);
-      ctx.stroke();
-    });
-  }
+  charts.forEach(({ctx,w,h},k) => {
+    const {X,Y,top,bottom} = grid({ctx,w,h},xmax,1,xLabel,pct,xFormat);
+    line(ctx,[[X(x),top],[X(x),bottom]],'#9bafb5',true);
+    const start = panels ? 2*k : 0;
+    const shown = panels ? series.slice(start,start+2) : series;
+    shown.forEach(({points,color,dash}) => line(ctx,points.map(([a,b]) => [X(a),Y(b)]),color,dash));
+    if (archiveIndex>=0) {
+      for (const row of archiveData.km.sim) series.forEach(({color},i) => {
+        ctx.strokeStyle=color;
+        ctx.lineWidth=1.5;
+        ctx.beginPath();
+        ctx.arc(X(Math.log10(row[0])+2),Y(row[1+3*archiveIndex+i]/100),3.5,0,2*Math.PI);
+        ctx.stroke();
+      });
+    }
+    shown.forEach(({color},i) => dot(ctx,X(x),Y(cursorValues[start+i]),color));
+  });
   get('flux-legend').innerHTML = series.map(({label,color,dash}) => key(label,color,dash)).join('');
   get('flux-chart-note').textContent = useFour ? 'La línea vertical indica la incidencia seleccionada.' :
     archiveIndex>=0 ? 'Círculos: simulaciones de la figura 5 (2016). La línea vertical indica el K/S seleccionado.' :
@@ -1541,9 +1834,10 @@ function colorPreview(xyz,white) {
   const inverse = [[0.9869929,-0.1470543,0.1599627],[0.4323053,0.5183603,0.0492912],[-0.0085287,0.0400428,0.9684867]];
   const source = mul3(bradford,white), target = mul3(bradford,[95.047,100,108.883]);
   const adjusted = mul3(inverse,mul3(bradford,xyz).map((v,i) => v*target[i]/source[i]/100));
-  const rgb = mul3([[3.2404542,-1.5371385,-0.4985314],[-0.969266,1.8760108,0.041556],[0.0556434,-0.2040259,1.0572252]],adjusted)
-    .map(v => Math.round(255*clamp(v<=0.0031308 ? 12.92*v : 1.055*v**(1/2.4)-0.055,0,1)));
-  return 'rgb('+rgb.join(',')+')';
+  const channels = mul3([[3.2404542,-1.5371385,-0.4985314],[-0.969266,1.8760108,0.041556],[0.0556434,-0.2040259,1.0572252]],adjusted);
+  const clipped = channels.some(v => v < -1e-6 || v > 1+1e-6);
+  const rgb = channels.map(v => Math.round(255*clamp(v<=0.0031308 ? 12.92*v : 1.055*v**(1/2.4)-0.055,0,1)));
+  return {css:'rgb('+rgb.join(',')+')',clipped};
 }
 
 function spectralInputs() {
@@ -1579,6 +1873,7 @@ function drawSpectral() {
   const {X,Y,top,bottom} = grid(plot,400,1,'Longitud de onda (nm)',pct,v => v+380);
   line(ctx,[[X(lambda-380),top],[X(lambda-380),bottom]],'#9bafb5',true);
   series.forEach(([,color],i) => line(ctx,rows.map(row => [X(row[0]-380),Y(row[i+1])]),color,i===1));
+  series.forEach(([,color],i) => dot(ctx,X(lambda-380),Y(rows[selected][i+1]),color));
   get('spectral-legend').innerHTML = series.map(([label,color],i) => key(label,color,i===1)).join('');
   get('spectral-note').textContent = isMie ? 'Radio '+fmt(radius,3)+' nm · '+fmt(fraction)+' ppm · '+fmt(depth)+' cm' :
     'Espectro archivado RTA · 380 a 780 nm · '+rows.length+' muestras';
@@ -1587,14 +1882,17 @@ function drawSpectral() {
   const white = labColor(observer.map(([l]) => [l,1]),observer,light,1).xyz;
   get('color-cards').innerHTML = ['Reflexión','Transmisión'].map((label,i) => {
     const {lab,xyz} = labColor(rows,observer,light,i+1);
-    return '<div><strong>'+label+'</strong><div class="swatch" aria-hidden="true" style="background:'+colorPreview(xyz,white)+'"></div>'+
-      '<small>L* '+fmt(lab[0],2)+' · a* '+fmt(lab[1],2)+' · b* '+fmt(lab[2],2)+'</small></div>';
+    const preview = colorPreview(xyz,white);
+    return '<div><strong>'+label+'</strong><div class="swatch" aria-hidden="true" style="background:'+preview.css+'"></div>'+
+      '<small>L* '+fmt(lab[0],2)+' · a* '+fmt(lab[1],2)+' · b* '+fmt(lab[2],2)+'</small>'+
+      (preview.clipped ? '<small class="notice gamut-note">Fuera de gama sRGB</small>' : '')+'</div>';
   }).join('');
   const limits = isMie && coeffs[selected].slice(0,2).some(v => v*fraction>500);
   get('apply-mie').disabled = limits || verification;
   if (limits) get('spectral-note').textContent += ' · Los coeficientes a esta longitud de onda superan el rango del motor angular.';
 }
 
+get('flux-panels').onchange = drawFlux;
 get('km-form').addEventListener('submit',event => event.preventDefault());
 get('km-form').addEventListener('input',event => {
   if (event.target.id==='km-preset') {
