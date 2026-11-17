@@ -124,6 +124,14 @@ body {
   height: auto;
 }
 
+.reveal figcaption {
+  margin-top: 0.75em;
+  margin-bottom: 1.65rem;
+  line-height: 1.4;
+  font-size: 0.76em;
+  text-align: center;
+}
+
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/

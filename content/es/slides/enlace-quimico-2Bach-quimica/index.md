@@ -99,11 +99,11 @@ Distancia media entre los núcleos de dos átomos enlazados. Se trata de la dist
 ---
 
 ### Polaridad de enlace
-Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su **polaridad**:
+Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace permite estimar su **polaridad**:
 
 ---
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" title="Esta clasificación es aproximada. Los enlaces entre elementos diferentes con electronegatividades muy similares, como C–H, P–H o C–S, pueden considerarse prácticamente apolares." lightbox="false" width="100%" >}}
 
 ---
 

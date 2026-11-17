@@ -99,13 +99,13 @@ Distancia media entre los núcleos de dos átomos enlazados. Se trata de la dist
 
 ### Polaridad de enlace
 
-Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace determina su **polaridad**:
+Es la separación de cargas eléctricas a lo largo de un enlace, dando lugar a un **momento dipolar eléctrico**. La diferencia de electronegatividad, $\Delta \chi$, entre los átomos de un enlace permite estimar su **polaridad**:
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" title="Imágenes adaptadas de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/bond-polarity-and-dipole-moments." lightbox="false" width="100%" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/polaridad.svg" title="Esta clasificación es aproximada. Los enlaces entre elementos diferentes con electronegatividades muy similares, como C–H, P–H o C–S, pueden considerarse prácticamente apolares.<br>Imágenes adaptadas de https://www.chegg.com/learn/chemistry/introduction-to-chemistry/bond-polarity-and-dipole-moments." lightbox="false" width="100%" >}}
 
 Una molécula será polar si el momento dipolar total (suma vectorial) es distinto de cero.
 
-{{< figure library="true" src="enlace-quimico-2Bach-quimica/BF3.png" title="La molécula de BF<sub>3</sub> tiene tres enlaces polares pero debido a su geometría trigonal plana el momento dipolar resultante es nulo.  Fuente: https://commons.wikimedia.org/wiki/File:Boron-trifluoride-elpot-3D-vdW.png." lightbox="true" >}}
+{{< figure library="true" src="enlace-quimico-2Bach-quimica/BF3.png" title="La molécula de BF<sub>3</sub> tiene tres enlaces polares pero debido a su geometría trigonal plana el momento dipolar resultante es nulo. Fuente: https://commons.wikimedia.org/wiki/File:Boron-trifluoride-elpot-3D-vdW.png." lightbox="true" >}}
 
 Estudia la **polaridad** de **moléculas** con esta excelente **simulación**:
 
