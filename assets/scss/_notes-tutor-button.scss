@@ -50,15 +50,19 @@
   .notes-tutor {
     // Use the margin beside the 760px article, leaving a 24px gap and 16px at the viewport edge.
     --notes-tutor-width: clamp(360px, calc(50vw - 420px), 560px);
+    // Keep controls outside the article when the minimum-width panel would overlap it.
+    --notes-tutor-control-inset: max(0px, calc(780px - 50vw));
     top: 7rem;
     bottom: auto;
     left: unquote("max(16px, calc(50vw - 380px - var(--notes-tutor-width) - 24px))");
     width: var(--notes-tutor-width);
   }
   .notes-tutor-toggle {
-    display: inline-flex;
-    width: auto;
+    display: flex;
+    width: fit-content;
     height: auto;
+    margin-left: auto;
+    margin-right: var(--notes-tutor-control-inset);
     gap: 0.6rem;
     padding: 0.65rem 0.9rem;
     color: $nord0;
@@ -68,6 +72,12 @@
     box-shadow: 0 3px 14px rgba($nord0, 0.08);
 
     .notes-tutor-toggle-label { display: inline; }
+  }
+  .notes-tutor-load-status {
+    box-sizing: border-box;
+    max-width: calc(100% - var(--notes-tutor-control-inset));
+    margin-left: auto;
+    margin-right: var(--notes-tutor-control-inset);
   }
 }
 

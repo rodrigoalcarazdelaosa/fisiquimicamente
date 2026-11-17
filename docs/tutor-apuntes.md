@@ -4,6 +4,8 @@ El tutor se incorpora desde `layouts/single.html` a las páginas individuales de
 las secciones `apuntes-*`. En escritorio el botón abre un panel de entre 360 y
 560 px, según el espacio disponible en el margen izquierdo. En una ventana de
 1920 px ocupa 540 px, dejando 24 px de separación respecto a los apuntes.
+El botón se alinea con el borde derecho del panel, cerca de la zona de lectura.
+En ventanas más estrechas se desplaza lo necesario para no tapar los apuntes.
 Si el margen es más estrecho, el panel se superpone a los
 apuntes mientras está abierto. El contenido conserva su posición central y el
 índice permanece a la derecha.
