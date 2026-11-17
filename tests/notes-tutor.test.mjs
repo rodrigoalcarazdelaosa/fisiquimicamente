@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import initNotesTutor from '../assets/js/notes-tutor.mjs';
+import initNotesTutor, { readTutorStream } from '../assets/js/notes-tutor.mjs';
 
 function setup(options = {}) {
   let activeElement;
@@ -75,7 +75,8 @@ function setup(options = {}) {
     endpoint: options.endpoint || '', language: 'es', url: 'https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/ondas/', tags: ['2º Bach'],
     strings: { selected: 'Fragmento seleccionado', pending: 'Próximamente', pin: 'Fijar apartado', unpin: 'Seguir lectura',
       suggest_simple: 'Explícalo más fácil', suggest_example: 'Ponme un ejemplo', you: 'Tú', assistant: 'Tutor',
-      rate_limit: 'Espera un minuto', thinking: 'Pensando', error: 'Error', truncated: 'Puedes pedir al tutor que continúe.' },
+      rate_limit: 'Espera un minuto', thinking: 'Pensando', error: 'Error', truncated: 'Puedes pedir al tutor que continúe.',
+      interrupted: 'Respuesta interrumpida; puedes pedir que continúe.', unavailable: 'No disponible' },
   };
   window.getSelection = () => selection;
   window.matchMedia = () => mobile;
@@ -104,6 +105,7 @@ function setup(options = {}) {
   elements['.notes-tutor-panel'].hidden = true;
   const fetch = async (url, request) => {
     calls.push(JSON.parse(request.body));
+    if (options.fetch) return options.fetch(url, request);
     return { ok: options.status ? options.status === 200 : true, status: options.status || 200,
       json: async () => ({ answer: options.answer || 'Explicación de prueba.', truncated: options.truncated }) };
   };
@@ -292,4 +294,111 @@ test('rate limiting preserves the draft for retrying', async () => {
   assert.equal(ui.elements.textarea.value, 'Mi pregunta');
   assert.equal(ui.elements['.notes-tutor-status'].textContent, 'Espera un minuto');
   assert.equal(ui.elements['.notes-tutor-messages'].childElementCount, 0);
+});
+
+function streamingResponse() {
+  let controller;
+  let cancelled = false;
+  const encoder = new TextEncoder();
+  const body = new ReadableStream({ start(value) { controller = value; }, cancel() { cancelled = true; } });
+  return {
+    response: new Response(body, { headers: { 'Content-Type': 'application/x-ndjson' } }),
+    send: (event) => controller.enqueue(encoder.encode(JSON.stringify(event) + '\n')),
+    close: () => controller.close(),
+    cancelled: () => cancelled,
+  };
+}
+
+const settle = () => new Promise((resolve) => setImmediate(resolve));
+
+test('streaming displays text before completion and typesets math only at the end', async () => {
+  const stream = streamingResponse();
+  const ui = setup({ endpoint: '/api/tutor', math: true, fetch: async (_url, request) => {
+    assert.match(request.headers.Accept, /application\/x-ndjson/);
+    return stream.response;
+  } });
+  await ui.submit('Explícame la fuerza');
+  stream.send({ type: 'delta', text: '**Fuerza**\n\n' });
+  await settle();
+  assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('Fuerza'));
+  assert.equal(ui.elements.textarea.disabled, true);
+  assert.equal(ui.typeset.length, 0);
+  stream.send({ type: 'delta', text: '\\(F = ma\\)' });
+  stream.send({ type: 'done', truncated: false });
+  stream.close();
+  await settle(); ui.flush(); await settle();
+  assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('\\(F = ma\\)'));
+  assert.equal(ui.elements.textarea.disabled, false);
+  assert.equal(ui.elements.textarea.value, '');
+  assert.equal(ui.typeset.length, 1);
+});
+
+test('stream truncation preserves the response and shows the length notice', async () => {
+  const stream = streamingResponse();
+  const ui = setup({ endpoint: '/api/tutor', fetch: async () => stream.response });
+  await ui.submit('Explícalo');
+  stream.send({ type: 'delta', text: 'La energía depende de' });
+  stream.send({ type: 'done', truncated: true }); stream.close();
+  await settle();
+  assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('La energía depende de'));
+  assert.equal(ui.elements['.notes-tutor-status'].textContent, 'Puedes pedir al tutor que continúe.');
+});
+
+test('an interrupted stream keeps received text and its history for a follow-up', async () => {
+  for (const explicitError of [true, false]) {
+    const stream = streamingResponse();
+    let requests = 0;
+    const ui = setup({ endpoint: '/api/tutor', fetch: async () => ++requests === 1 ? stream.response
+      : Response.json({ answer: 'La velocidad al cuadrado.', truncated: false }) });
+    await ui.submit('Explícalo');
+    stream.send({ type: 'delta', text: 'La energía depende de' });
+    if (explicitError) stream.send({ type: 'error', error: 'unavailable' });
+    stream.close(); await settle();
+    assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('La energía depende de'));
+    assert.equal(ui.elements['.notes-tutor-status'].textContent, 'Respuesta interrumpida; puedes pedir que continúe.');
+    assert.equal(ui.elements.textarea.value, 'Explícalo');
+    assert.equal(ui.elements.textarea.disabled, false);
+    await ui.submit('Continúa');
+    assert.equal(ui.calls[1].history[1].content, 'La energía depende de');
+  }
+});
+
+test('a stream error before any answer preserves the question without empty messages', async () => {
+  const stream = streamingResponse();
+  const ui = setup({ endpoint: '/api/tutor', fetch: async () => stream.response });
+  await ui.submit('Explícalo');
+  stream.send({ type: 'error', error: 'unavailable' }); stream.close();
+  await settle();
+  assert.equal(ui.elements.textarea.value, 'Explícalo');
+  assert.equal(ui.elements['.notes-tutor-messages'].childElementCount, 0);
+  assert.equal(ui.elements['.notes-tutor-status'].textContent, 'No disponible');
+});
+
+test('clearing a streaming conversation cancels consumption and ignores queued rendering', async () => {
+  const stream = streamingResponse();
+  const ui = setup({ endpoint: '/api/tutor', fetch: async () => stream.response });
+  await ui.submit('Explícalo');
+  stream.send({ type: 'delta', text: 'Una explicación' }); await settle();
+  stream.send({ type: 'delta', text: ' que sigue' }); await settle();
+  ui.elements['.notes-tutor-reset'].dispatchEvent(new Event('click'));
+  stream.send({ type: 'delta', text: ' después de borrar' }); await settle();
+  ui.flush();
+  assert.equal(stream.cancelled(), true);
+  assert.equal(ui.elements['.notes-tutor-messages'].childElementCount, 0);
+  assert.equal(ui.elements.textarea.disabled, false);
+});
+
+test('the browser decodes JSON lines fragmented inside accented text and formulas', async () => {
+  const answer = 'Energía: \\(E = mc^2\\).';
+  const bytes = new TextEncoder().encode(JSON.stringify({ type: 'delta', text: answer }) + '\n'
+    + JSON.stringify({ type: 'done', truncated: false }) + '\n');
+  let offset = 0;
+  const body = new ReadableStream({ pull(controller) {
+    if (offset === bytes.length) return controller.close();
+    controller.enqueue(bytes.slice(offset, ++offset));
+  } });
+  const fragments = [];
+  const result = await readTutorStream(new Response(body), (delta) => fragments.push(delta));
+  assert.deepEqual(result, { answer, truncated: false });
+  assert.equal(fragments.join(''), answer);
 });

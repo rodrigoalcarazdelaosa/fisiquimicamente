@@ -268,6 +268,8 @@
   translation: "L’explicació està trigant massa. Torna-ho a provar."
 - id: notes_tutor_truncated
   translation: "La resposta ha arribat al límit d’extensió. Pots demanar al tutor que continuï."
+- id: notes_tutor_interrupted
+  translation: "La resposta s’ha interromput. Es conserva el text rebut; pots demanar al tutor que continuï."
 - id: notes_tutor_you
   translation: "Tu"
 - id: notes_tutor_assistant

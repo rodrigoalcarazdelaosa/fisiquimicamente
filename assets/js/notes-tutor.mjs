@@ -239,7 +239,7 @@ export default function initNotesTutor(root, data, environment = globalThis) {
   }
   prepareMath().catch(() => {}); // Preserve readable TeX when the engine is unavailable.
 
-  function addMessage(role, text) {
+  function addMessage(role, text, streaming = false) {
     const message = document.createElement('div');
     message.className = `notes-tutor-message notes-tutor-message-${role}`;
     const label = document.createElement('strong');
@@ -248,7 +248,7 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     body.className = 'notes-tutor-message-content';
     if (role === 'assistant') {
       formatReply(body, text);
-      pendingMath.add(body);
+      if (!streaming) pendingMath.add(body);
     } else {
       body.textContent = text;
     }
@@ -343,13 +343,35 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     const requestGeneration = generation;
     const requestController = new AbortController();
     controller = requestController;
-    const timeout = setTimeout(() => requestController.abort(), 45000);
+    let timeout;
+    const refreshTimeout = () => {
+      clearTimeout(timeout);
+      timeout = setTimeout(() => requestController.abort(), 45000);
+    };
+    refreshTimeout();
+    let answer = '';
+    let assistantMessage = null;
+    let receiving = true;
+    let renderQueued = false;
+    const renderAnswer = (complete = false) => {
+      const follow = !assistantMessage || scrollBody.scrollHeight - scrollBody.scrollTop - scrollBody.clientHeight < 64;
+      if (!assistantMessage) assistantMessage = addMessage('assistant', '', true);
+      const body = assistantMessage.childNodes[1];
+      body.replaceChildren();
+      formatReply(body, answer);
+      if (complete) { pendingMath.add(body); flushMath(); }
+      if (follow) scrollBody.scrollTop = scrollBody.scrollHeight;
+    };
+    const rememberAnswer = () => {
+      history.push({ role: 'user', content: text }, { role: 'assistant', content: answer.slice(-6000) });
+      history = history.slice(-6);
+    };
     setBusy(true);
     status.textContent = strings.thinking;
     try {
       const response = await fetch(endpoint, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', Accept: 'application/x-ndjson, application/json' },
         credentials: 'omit',
         signal: requestController.signal,
         body: JSON.stringify({
@@ -366,21 +388,45 @@ export default function initNotesTutor(root, data, environment = globalThis) {
         error.status = response.status;
         throw error;
       }
-      const result = await response.json();
+      const result = response.headers?.get('Content-Type')?.includes('application/x-ndjson')
+        ? await readTutorStream(response, (delta) => {
+          if (requestGeneration !== generation) return false;
+          refreshTimeout();
+          answer += delta;
+          status.textContent = '';
+          if (!assistantMessage) renderAnswer();
+          else if (!renderQueued) {
+            renderQueued = true;
+            window.requestAnimationFrame(() => {
+              renderQueued = false;
+              if (receiving && requestGeneration === generation) renderAnswer();
+            });
+          }
+        })
+        : await response.json(); // Supports an older Worker during deployment.
       if (typeof result.answer !== 'string' || !result.answer.trim()) throw new Error('Empty answer');
       if (requestGeneration !== generation) return;
-      addMessage('assistant', result.answer);
-      history.push({ role: 'user', content: text }, { role: 'assistant', content: result.answer.slice(-6000) });
-      history = history.slice(-6);
+      answer = result.answer;
+      receiving = false;
+      renderAnswer(true);
+      rememberAnswer();
       question.value = '';
       status.textContent = result.truncated ? strings.truncated : '';
     } catch (error) {
       if (requestGeneration !== generation) return;
-      message.remove();
-      reset.hidden = !log.childElementCount;
-      status.textContent = error.name === 'AbortError' ? strings.timeout
-        : error.status === 429 ? strings.rate_limit
-        : [404, 502, 503].includes(error.status) ? strings.unavailable : strings.error;
+      receiving = false;
+      if (answer.trim()) {
+        renderAnswer(true);
+        rememberAnswer();
+        status.textContent = strings.interrupted;
+      } else {
+        assistantMessage?.remove();
+        message.remove();
+        reset.hidden = !log.childElementCount;
+        status.textContent = error.name === 'AbortError' ? strings.timeout
+          : error.status === 429 ? strings.rate_limit
+          : [404, 502, 503].includes(error.status) ? strings.unavailable : strings.error;
+      }
     } finally {
       clearTimeout(timeout);
       if (requestGeneration === generation) {
@@ -396,4 +442,39 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     open: (savedSelection) => setOpen(true, savedSelection),
     toggle: () => setOpen(panel.hidden),
   };
+}
+
+export async function readTutorStream(response, onDelta) {
+  const reader = response.body?.getReader();
+  if (!reader) throw new Error('Missing response stream');
+  const decoder = new TextDecoder();
+  let buffer = '';
+  let answer = '';
+  try {
+    while (true) {
+      const { value, done } = await reader.read();
+      buffer += decoder.decode(value, { stream: !done });
+      let end;
+      while ((end = buffer.indexOf('\n')) !== -1) {
+        const line = buffer.slice(0, end).trim();
+        buffer = buffer.slice(end + 1);
+        if (!line) continue;
+        const event = JSON.parse(line);
+        if (event.type === 'delta' && typeof event.text === 'string') {
+          answer += event.text;
+          if (onDelta(event.text) === false) throw new Error('Cancelled response');
+        } else if (event.type === 'done') {
+          return { answer, truncated: event.truncated === true };
+        } else {
+          const error = new Error('Interrupted response');
+          error.status = 503;
+          throw error;
+        }
+      }
+      if (done) throw new Error('Incomplete response');
+    }
+  } finally {
+    await reader.cancel().catch(() => {});
+    reader.releaseLock();
+  }
 }

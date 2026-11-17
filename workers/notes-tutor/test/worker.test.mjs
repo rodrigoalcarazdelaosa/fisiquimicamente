@@ -147,3 +147,80 @@ test('reports token exhaustion without an automatic extra inference', async () =
     assert.equal(calls, 1);
   }
 });
+
+function providerStream(packets, fragmentBytes = Infinity) {
+  const text = packets.map((packet) => `data: ${typeof packet === 'string' ? packet : JSON.stringify(packet)}\r\n\r\n`).join('');
+  const bytes = new TextEncoder().encode(text);
+  let offset = 0;
+  return new ReadableStream({ pull(controller) {
+    if (offset === bytes.length) return controller.close();
+    controller.enqueue(bytes.slice(offset, offset + fragmentBytes));
+    offset = Math.min(bytes.length, offset + fragmentBytes);
+  } });
+}
+
+const streamingHeaders = { Accept: 'application/x-ndjson' };
+const events = async (response) => (await response.text()).trim().split('\n').map((line) => JSON.parse(line));
+
+test('streaming handles fragmented UTF-8 and SSE and omits provider reasoning', async () => {
+  const upstream = providerStream([
+    { choices: [{ delta: { reasoning_content: 'Privado', content: '<th' } }] },
+    { choices: [{ delta: { content: 'ink>Secreto</thi' } }] },
+    { choices: [{ delta: { content: 'nk>La energía ' } }] },
+    { choices: [{ delta: { content: 'es \\(E = mc^2\\).' }, finish_reason: 'length' }] },
+    '[DONE]',
+  ], 1);
+  const { env, request } = setup({ AI: { run: async (_model, options) => {
+    assert.equal(options.stream, true);
+    assert.equal(options.max_tokens, 3072);
+    return upstream;
+  } } });
+  const response = await worker.fetch(request(input(), { headers: streamingHeaders }), env);
+  assert.match(response.headers.get('Content-Type'), /application\/x-ndjson/);
+  assert.equal(response.headers.get('Access-Control-Allow-Origin'), origin);
+  assert.equal(response.headers.get('Cache-Control'), 'no-store');
+  const result = await events(response);
+  assert.equal(result.filter((event) => event.type === 'delta').map((event) => event.text).join(''), 'La energía es \\(E = mc^2\\).');
+  assert.deepEqual(result.at(-1), { type: 'done', truncated: true });
+  assert.ok(!JSON.stringify(result).includes('Secreto'));
+  assert.ok(!JSON.stringify(result).includes('Privado'));
+});
+
+test('streaming forwards the first fragment while the model is still generating and cancels upstream', async () => {
+  let controller;
+  let cancelled = false;
+  const upstream = new ReadableStream({ start(value) { controller = value; }, cancel() { cancelled = true; } });
+  const { env, request } = setup({ AI: { run: async () => upstream } });
+  const response = await worker.fetch(request(input(), { headers: streamingHeaders }), env);
+  controller.enqueue(new TextEncoder().encode('data: {"response":"Primera frase."}\n\n'));
+  const reader = response.body.getReader();
+  const first = await reader.read();
+  assert.deepEqual(JSON.parse(new TextDecoder().decode(first.value)), { type: 'delta', text: 'Primera frase.' });
+  await reader.cancel();
+  assert.equal(cancelled, true);
+});
+
+test('a provider stream ending unexpectedly or failing returns a sanitized error event', async () => {
+  for (const packets of [
+    [{ response: 'Respuesta parcial' }],
+    [{ response: 'Respuesta parcial' }, { error: 'secret upstream information' }],
+    [{ choices: [{ delta: { content: 'Respuesta parcial' }, finish_reason: 'error' }] }],
+    [{ response: '<think>Privado' }, '[DONE]'],
+  ]) {
+    const { env, request } = setup({ AI: { run: async () => providerStream(packets) } });
+    const result = await events(await worker.fetch(request(input(), { headers: streamingHeaders }), env));
+    assert.deepEqual(result.at(-1), { type: 'error', error: 'unavailable' });
+    assert.ok(!JSON.stringify(result).includes('secret'));
+    assert.ok(!JSON.stringify(result).includes('Privado'));
+    assert.ok(!result.some((event) => event.type === 'done'));
+  }
+});
+
+test('a completed stream ends normally without requiring the optional DONE sentinel', async () => {
+  const { env, request } = setup({ AI: { run: async () => providerStream([
+    { choices: [{ delta: { content: 'Explicación completa.' } }] },
+    { choices: [{ delta: {}, finish_reason: 'stop' }] },
+  ]) } });
+  const result = await events(await worker.fetch(request(input(), { headers: streamingHeaders }), env));
+  assert.deepEqual(result, [{ type: 'delta', text: 'Explicación completa.' }, { type: 'done', truncated: false }]);
+});

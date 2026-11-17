@@ -43,14 +43,15 @@ apuntes. En las demás páginas solo se descarga al abrir el tutor. Los estilos 
 panel se compilan por separado; los colores compartidos están en
 `assets/scss/_nord.scss`.
 
-## Estado inicial
+## Configuración actual
 
-No hay un modelo elegido ni un servicio activado. En `config/_default/params.yaml`:
+El modelo configurado es `@cf/google/gemma-4-26b-a4b-it`. El Worker está habilitado
+en `workers/notes-tutor/wrangler.jsonc`. En `config/_default/params.yaml`:
 
 ```yaml
 notes_tutor:
   enabled: true
-  endpoint: ""
+  endpoint: "https://fisiquimicamente-notes-tutor.fisiquimicamente.workers.dev/api/tutor"
 ```
 
 Con el endpoint vacío, el panel muestra «El tutor estará disponible pronto» y el
@@ -59,7 +60,7 @@ pero no se envían consultas ni se consume Workers AI.
 Para ocultarlo en toda la web, cambia `enabled` a `false`. Para ocultarlo en una
 página, añade `tutor: false` a su front matter.
 
-## Activación cuando se elija el modelo
+## Publicación o cambio de modelo
 
 1. Comprueba en Cloudflare que la cuenta utiliza Workers Free y que el modelo
    elegido admite la cuota gratuita. El código no puede comprobar el plan de
@@ -95,6 +96,12 @@ de bots. Para un lanzamiento con mucho tráfico puede añadirse Turnstile.
 
 Cada pregunta envía título, URL, idioma, etiquetas, apartado, hasta 12 000 caracteres
 de contexto, hasta 4000 caracteres seleccionados y los últimos seis mensajes.
+El contexto es texto extraído por Hugo con `.Plain | htmlUnescape`, no el Markdown
+original. Conserva las fórmulas TeX y el texto visible, pero no el marcado original
+ni los archivos de imagen. La URL de la página se envía como metadato: el Worker
+no visita esa URL ni descarga sus imágenes. El modelo recibe instrucciones para
+pedir una descripción si una pregunta depende de una figura que no puede ver.
+
 La pregunta admite 1200 caracteres y la generación está limitada a 3072 tokens.
 Se piden explicaciones de unas 150–250 palabras por defecto, con margen para
 desarrollar los pasos necesarios. Los modelos pueden consumir parte del límite
@@ -103,6 +110,26 @@ Si el proveedor indica que ha agotado los tokens (`finish_reason: length`), se
 muestra un aviso traducido para que el usuario pueda pedir que continúe. No se
 hacen consultas adicionales automáticamente. Para acotar el historial enviado,
 se conservan hasta los últimos 6000 caracteres de cada respuesta, incluido su final.
+
+## Respuestas en streaming
+
+El navegador solicita `application/x-ndjson`. El Worker activa `stream: true` en
+Workers AI y transforma los eventos SSE del proveedor en líneas JSON: `delta`
+con el texto nuevo, `done` con el indicador de límite y `error` con un error
+genérico. Solo se transmite la explicación pública; se descartan los campos de
+razonamiento y los bloques `<think>`, aunque sus etiquetas lleguen fragmentadas.
+El Worker mantiene la respuesta JSON anterior para navegadores que aún no se
+hayan actualizado. El navegador también acepta JSON si el Worker sigue en su
+versión anterior; se pueden desplegar ambos componentes por separado.
+
+La explicación aparece mientras se genera, con el formato actualizado como
+máximo una vez por fotograma. MathJax renderiza las fórmulas al terminar para
+evitar procesar expresiones incompletas. La espera se cancela después de 45
+segundos sin recibir texto nuevo. Si la conexión se interrumpe, se conserva la
+respuesta parcial y la pregunta, y aparece un aviso traducido. La respuesta
+parcial se añade al historial para que se pueda pedir que continúe. Borrar la
+conversación cancela la lectura; el Worker propaga esa cancelación al flujo del
+proveedor. No se reintenta automáticamente ni se cambia el modo de razonamiento.
 
 El historial vive en memoria de la pestaña y se pierde al recargar. Se puede borrar
 desde el panel, incluso mientras se espera una respuesta. El código no almacena
@@ -128,10 +155,11 @@ node --check assets/js/notes-tutor-loader.mjs
 hugo --buildFuture
 ```
 
-Las pruebas del Worker usan una respuesta simulada y no llaman a Workers AI.
-Antes de activarlo, comprueba el modelo real con dudas de los apuntes, unidades,
-ecuaciones y preguntas con premisas equivocadas. Revisa también el consumo en
-Cloudflare. La integración con un modelo real queda pendiente de su elección.
+Las pruebas del Worker usan respuestas simuladas y no llaman a Workers AI.
+Comprueban fragmentos UTF-8, entrega progresiva, filtrado del razonamiento,
+cancelación, errores y avisos de límite. Después de publicar cambios, comprueba
+el modelo real con dudas de los apuntes, unidades, ecuaciones y preguntas con
+premisas equivocadas. Revisa también el consumo en Cloudflare.
 
 Referencias: [Workers AI bindings](https://developers.cloudflare.com/workers-ai/configuration/bindings/),
 [cuota y facturación](https://developers.cloudflare.com/workers-ai/platform/pricing/),
