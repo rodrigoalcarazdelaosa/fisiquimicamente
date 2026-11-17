@@ -370,10 +370,10 @@ export default function initNotesTutor(root, data, environment = globalThis) {
       if (typeof result.answer !== 'string' || !result.answer.trim()) throw new Error('Empty answer');
       if (requestGeneration !== generation) return;
       addMessage('assistant', result.answer);
-      history.push({ role: 'user', content: text }, { role: 'assistant', content: result.answer.slice(0, 6000) });
+      history.push({ role: 'user', content: text }, { role: 'assistant', content: result.answer.slice(-6000) });
       history = history.slice(-6);
       question.value = '';
-      status.textContent = '';
+      status.textContent = result.truncated ? strings.truncated : '';
     } catch (error) {
       if (requestGeneration !== generation) return;
       message.remove();

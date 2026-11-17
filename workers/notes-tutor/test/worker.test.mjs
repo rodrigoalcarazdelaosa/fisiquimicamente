@@ -35,7 +35,7 @@ test('sends page context and bounded history to the server-selected model', asyn
   assert.equal(response.headers.get('Cache-Control'), 'no-store');
   assert.equal(response.headers.get('Access-Control-Allow-Origin'), origin);
   assert.equal(calls[0][0], env.AI_MODEL);
-  assert.equal(calls[0][1].max_tokens, 1024);
+  assert.equal(calls[0][1].max_tokens, 3072);
   assert.match(calls[0][1].messages[1].content, /sin transportar materia/);
   assert.equal(calls[0][1].messages.at(-1).content, body.question);
   assert.match((await response.json()).answer, /equilibrio/);
@@ -124,4 +124,26 @@ test('accepts chat-completion responses and excludes reasoning', () => {
   assert.equal(extractAnswer({ response: '<think>Razonamiento</think>Explicación' }), 'Explicación');
   assert.equal(extractAnswer({ response: '<think>Incompleto' }), '');
   assert.equal(extractAnswer({ response: null }), '');
+});
+
+test('preserves complete answers longer than the former character limit', async () => {
+  const answer = 'Una explicación con sus unidades. '.repeat(200) + '\\[E = mc^2\\]';
+  const { env, request } = setup({ AI: { run: async () => ({ choices: [{ message: { content: answer }, finish_reason: 'stop' }] }) } });
+  const response = await worker.fetch(request(), env);
+  assert.equal(response.status, 200);
+  assert.deepEqual(await response.json(), { answer, truncated: false });
+});
+
+test('reports token exhaustion without an automatic extra inference', async () => {
+  for (const result of [
+    { choices: [{ message: { content: 'La energía depende de' }, finish_reason: 'length' }] },
+    { response: 'La energía depende de', finish_reason: 'length' },
+  ]) {
+    let calls = 0;
+    const { env, request } = setup({ AI: { run: async () => { calls++; return result; } } });
+    const response = await worker.fetch(request(), env);
+    assert.equal(response.status, 200);
+    assert.deepEqual(await response.json(), { answer: 'La energía depende de', truncated: true });
+    assert.equal(calls, 1);
+  }
 });

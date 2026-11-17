@@ -180,6 +180,7 @@
     position: relative;
     bottom: auto;
     width: 100%;
+    max-width: none;
     height: unquote("min(680px, calc(100dvh - 12rem))");
     margin-top: 0.6rem;
   }

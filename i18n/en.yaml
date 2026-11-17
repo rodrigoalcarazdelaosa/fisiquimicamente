@@ -404,6 +404,8 @@
   translation: "You have asked several questions in a row. Wait a minute before asking again."
 - id: notes_tutor_timeout
   translation: "The explanation is taking too long. Please try again."
+- id: notes_tutor_truncated
+  translation: "The response has reached its length limit. You can ask the tutor to continue."
 - id: notes_tutor_you
   translation: "You"
 - id: notes_tutor_assistant
