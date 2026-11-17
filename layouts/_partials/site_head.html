@@ -39,9 +39,13 @@
   {{ $js := site.Data.assets.js }}
 
   {{/* Config LaTeX math rendering. */}}
+  {{ $has_notes_tutor := partial "functions/has_notes_tutor.html" . }}
   {{ if or .Params.math site.Params.features.math.enable }}
     {{ $mathjax_config := resources.Get "js/mathjax-config.js" }}
     <script src="{{ $mathjax_config.RelPermalink }}"></script>
+    {{ if $has_notes_tutor }}
+    <script>window.MathJax.loader.load.push('ui/safe');</script>
+    {{ end }}
   {{ end }}
 
   {{/* Attempt to load local vendor CSS, otherwise load from CDN. */}}

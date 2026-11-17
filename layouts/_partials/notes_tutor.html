@@ -1,0 +1,57 @@
+{{ $strings := dict }}
+{{ range slice "title" "close" "intro" "reading" "selected" "clear_selection" "conversation" "question" "placeholder" "send" "privacy" "reset" "pending" "thinking" "error" "unavailable" "rate_limit" "timeout" "you" "assistant" "pin" "unpin" "suggest_simple" "suggest_example" "privacy_title" }}
+  {{ $strings = merge $strings (dict . (i18n (printf "notes_tutor_%s" .))) }}
+{{ end }}
+{{ $endpoint := site.Params.notes_tutor.endpoint | default "" }}
+{{ $data := dict "endpoint" $endpoint "title" .Title "url" .Permalink "language" .Lang "tags" (.Params.tags | default slice) "content" (.Plain | htmlUnescape) "strings" $strings }}
+{{ $context := resources.FromString (printf "tutor/%s/%s.json" .Lang (md5 .RelPermalink)) ($data | jsonify) | fingerprint }}
+{{ $script := resources.Get "js/notes-tutor.mjs" | minify | fingerprint }}
+{{ $styles := resources.Get "scss/_notes-tutor.scss" | toCSS (dict "targetPath" "css/notes-tutor.css" "outputStyle" "compressed") | minify | fingerprint }}
+{{ $mathConfig := resources.Get "js/mathjax-config.js" }}
+{{ $math := site.Data.assets.js.mathJax }}
+<aside class="notes-tutor d-print-none" aria-label="{{ $strings.title }}" data-script-url="{{ $script.RelPermalink }}" data-context-url="{{ $context.RelPermalink }}" data-styles-url="{{ $styles.RelPermalink }}" data-math-config-url="{{ $mathConfig.RelPermalink }}" data-mathjax-url="{{ printf $math.url $math.version }}" data-page-math="{{ or .Params.math site.Params.features.math.enable }}" data-loading-label="{{ i18n "notes_tutor_loading" }}" data-error-label="{{ i18n "notes_tutor_load_error" }}" hidden>
+  <button class="notes-tutor-toggle" type="button" aria-label="{{ $strings.title }}" aria-expanded="false" aria-controls="notes-tutor-panel">
+    <span class="notes-tutor-icon" aria-hidden="true">🤖</span>
+    <span class="notes-tutor-toggle-label">{{ $strings.title }}</span>
+  </button>
+  <span class="notes-tutor-load-status" role="status" hidden></span>
+  <section class="notes-tutor-panel" id="notes-tutor-panel" aria-labelledby="notes-tutor-title" hidden>
+    <div class="notes-tutor-header">
+      <h2 id="notes-tutor-title">{{ $strings.title }}</h2>
+      <button class="notes-tutor-close" type="button" aria-label="{{ $strings.close }}">×</button>
+    </div>
+    <div class="notes-tutor-body">
+      <p class="notes-tutor-intro">{{ $strings.intro }}</p>
+      <div class="notes-tutor-context">
+        <span class="notes-tutor-context-label">{{ $strings.reading }}</span>
+        <strong class="notes-tutor-section">{{ .Title }}</strong>
+        <button class="notes-tutor-pin" type="button" aria-pressed="false">{{ $strings.pin }}</button>
+        <details class="notes-tutor-selection-details" hidden>
+          <summary>{{ $strings.selected }}</summary>
+          <blockquote class="notes-tutor-selection"></blockquote>
+        </details>
+        <button class="notes-tutor-clear-selection" type="button" hidden>{{ $strings.clear_selection }}</button>
+      </div>
+      <div class="notes-tutor-suggestions">
+        <button type="button" data-tutor-suggestion="suggest_simple">{{ $strings.suggest_simple }}</button>
+        <button type="button" data-tutor-suggestion="suggest_example">{{ $strings.suggest_example }}</button>
+      </div>
+      <div class="notes-tutor-messages" role="log" aria-label="{{ $strings.conversation }}" aria-live="polite" aria-relevant="additions text"></div>
+    </div>
+    <div class="notes-tutor-composer">
+      <p class="notes-tutor-status" role="status"></p>
+      <form class="notes-tutor-form">
+        <label for="notes-tutor-question">{{ $strings.question }}</label>
+        <textarea id="notes-tutor-question" rows="2" maxlength="1200" placeholder="{{ $strings.placeholder }}" aria-describedby="notes-tutor-privacy" required></textarea>
+        <button class="notes-tutor-send" type="submit" disabled>{{ $strings.send }}</button>
+      </form>
+      <details class="notes-tutor-privacy-details">
+        <summary>{{ $strings.privacy_title }}</summary>
+        <p class="notes-tutor-privacy" id="notes-tutor-privacy">{{ $strings.privacy }}</p>
+      </details>
+      <button class="notes-tutor-reset" type="button" hidden>{{ $strings.reset }}</button>
+    </div>
+  </section>
+</aside>
+{{ $bootstrap := resources.Get "js/notes-tutor-loader.mjs" | minify | fingerprint }}
+<script src="{{ $bootstrap.RelPermalink }}" type="module"></script>

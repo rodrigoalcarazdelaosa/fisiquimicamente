@@ -365,3 +365,60 @@
 
 - id: feedback_widget_answer_negative
   translation: 😡 No
+
+# Notes tutor
+
+- id: notes_tutor_title
+  translation: "AI tutor"
+- id: notes_tutor_close
+  translation: "Close tutor"
+- id: notes_tutor_intro
+  translation: "Is something unclear? Ask about these notes or select a passage from the text."
+- id: notes_tutor_reading
+  translation: "You are reading"
+- id: notes_tutor_selected
+  translation: "Selected passage"
+- id: notes_tutor_clear_selection
+  translation: "Return to the section"
+- id: notes_tutor_conversation
+  translation: "Conversation with the tutor"
+- id: notes_tutor_question
+  translation: "Your question"
+- id: notes_tutor_placeholder
+  translation: "How does… work?"
+- id: notes_tutor_send
+  translation: "Ask"
+- id: notes_tutor_privacy
+  translation: "Asking sends your question, context from the notes and recent messages to Cloudflare. Avoid including personal information. AI can make mistakes."
+- id: notes_tutor_reset
+  translation: "Clear conversation"
+- id: notes_tutor_pending
+  translation: "The tutor will be available soon."
+- id: notes_tutor_thinking
+  translation: "Preparing an explanation…"
+- id: notes_tutor_error
+  translation: "The explanation could not be retrieved. Please try again later."
+- id: notes_tutor_unavailable
+  translation: "The tutor is currently unavailable. Please try again later."
+- id: notes_tutor_rate_limit
+  translation: "You have asked several questions in a row. Wait a minute before asking again."
+- id: notes_tutor_timeout
+  translation: "The explanation is taking too long. Please try again."
+- id: notes_tutor_you
+  translation: "You"
+- id: notes_tutor_assistant
+  translation: "Tutor"
+- id: notes_tutor_pin
+  translation: "Pin section"
+- id: notes_tutor_unpin
+  translation: "Follow reading"
+- id: notes_tutor_suggest_simple
+  translation: "Explain it more simply"
+- id: notes_tutor_suggest_example
+  translation: "Give me an example"
+- id: notes_tutor_privacy_title
+  translation: "Privacy and limitations"
+- id: notes_tutor_loading
+  translation: "Loading tutor…"
+- id: notes_tutor_load_error
+  translation: "The tutor could not be opened. Press again to retry."
