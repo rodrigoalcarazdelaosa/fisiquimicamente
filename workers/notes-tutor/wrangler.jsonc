@@ -1,0 +1,21 @@
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "fisiquimicamente-notes-tutor",
+  "main": "src/index.mjs",
+  "compatibility_date": "2026-11-17",
+  "workers_dev": true,
+  "ai": { "binding": "AI" },
+  "ratelimits": [
+    {
+      "name": "TUTOR_IP_LIMITER",
+      "namespace_id": "41001",
+      "simple": { "limit": 5, "period": 60 }
+    }
+  ],
+  "vars": {
+    "ENABLED": "true",
+    "AI_MODEL": "@cf/google/gemma-4-26b-a4b-it",
+    "ALLOWED_ORIGINS": "https://fisiquimicamente.com,https://physichemically.com,https://fisiquimicament.com"
+  },
+  "observability": { "enabled": false }
+}

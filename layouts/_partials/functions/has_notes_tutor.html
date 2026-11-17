@@ -1,0 +1,1 @@
+{{ return (and .IsPage (hasPrefix .Section "apuntes-") (ne .Params.tutor false) (ne site.Params.notes_tutor.enabled false)) }}

@@ -275,3 +275,60 @@
 
 - id: feedback_widget_answer_negative
   translation: 😡 No
+
+# Notes tutor
+
+- id: notes_tutor_title
+  translation: "Tutor IA"
+- id: notes_tutor_close
+  translation: "Cerrar tutor"
+- id: notes_tutor_intro
+  translation: "¿Hay algo que no entiendes? Pregunta sobre estos apuntes o selecciona un fragmento del texto."
+- id: notes_tutor_reading
+  translation: "Estás consultando"
+- id: notes_tutor_selected
+  translation: "Fragmento seleccionado"
+- id: notes_tutor_clear_selection
+  translation: "Volver al apartado"
+- id: notes_tutor_conversation
+  translation: "Conversación con el tutor"
+- id: notes_tutor_question
+  translation: "Tu pregunta"
+- id: notes_tutor_placeholder
+  translation: "¿Cómo se explica…?"
+- id: notes_tutor_send
+  translation: "Preguntar"
+- id: notes_tutor_privacy
+  translation: "Al preguntar se enviarán a Cloudflare tu consulta, el contexto de los apuntes y los últimos mensajes. Evita incluir datos personales. La IA puede equivocarse."
+- id: notes_tutor_reset
+  translation: "Borrar conversación"
+- id: notes_tutor_pending
+  translation: "El tutor estará disponible pronto."
+- id: notes_tutor_thinking
+  translation: "Preparando la explicación…"
+- id: notes_tutor_error
+  translation: "No se ha podido obtener la explicación. Inténtalo de nuevo más tarde."
+- id: notes_tutor_unavailable
+  translation: "El tutor no está disponible en este momento. Vuelve a intentarlo más tarde."
+- id: notes_tutor_rate_limit
+  translation: "Has realizado varias consultas seguidas. Espera un minuto antes de volver a preguntar."
+- id: notes_tutor_timeout
+  translation: "La explicación está tardando demasiado. Inténtalo de nuevo."
+- id: notes_tutor_you
+  translation: "Tú"
+- id: notes_tutor_assistant
+  translation: "Tutor"
+- id: notes_tutor_pin
+  translation: "Fijar apartado"
+- id: notes_tutor_unpin
+  translation: "Seguir lectura"
+- id: notes_tutor_suggest_simple
+  translation: "Explícalo más fácil"
+- id: notes_tutor_suggest_example
+  translation: "Ponme un ejemplo"
+- id: notes_tutor_privacy_title
+  translation: "Privacidad y límites"
+- id: notes_tutor_loading
+  translation: "Cargando tutor…"
+- id: notes_tutor_load_error
+  translation: "No se ha podido abrir el tutor. Pulsa de nuevo para reintentarlo."

@@ -227,3 +227,60 @@
 
 - id: feedback_widget_answer_negative
   translation: 😡 No
+
+# Notes tutor
+
+- id: notes_tutor_title
+  translation: "Tutor IA"
+- id: notes_tutor_close
+  translation: "Tancar el tutor"
+- id: notes_tutor_intro
+  translation: "Hi ha alguna cosa que no entens? Pregunta sobre aquests apunts o selecciona un fragment del text."
+- id: notes_tutor_reading
+  translation: "Estàs consultant"
+- id: notes_tutor_selected
+  translation: "Fragment seleccionat"
+- id: notes_tutor_clear_selection
+  translation: "Tornar a l’apartat"
+- id: notes_tutor_conversation
+  translation: "Conversa amb el tutor"
+- id: notes_tutor_question
+  translation: "La teva pregunta"
+- id: notes_tutor_placeholder
+  translation: "Com s’explica…?"
+- id: notes_tutor_send
+  translation: "Preguntar"
+- id: notes_tutor_privacy
+  translation: "En preguntar s’enviaran a Cloudflare la consulta, el context dels apunts i els darrers missatges. Evita incloure-hi dades personals. La IA es pot equivocar."
+- id: notes_tutor_reset
+  translation: "Esborrar la conversa"
+- id: notes_tutor_pending
+  translation: "El tutor estarà disponible aviat."
+- id: notes_tutor_thinking
+  translation: "Preparant l’explicació…"
+- id: notes_tutor_error
+  translation: "No s’ha pogut obtenir l’explicació. Torna-ho a provar més tard."
+- id: notes_tutor_unavailable
+  translation: "El tutor no està disponible en aquest moment. Torna-ho a provar més tard."
+- id: notes_tutor_rate_limit
+  translation: "Has fet diverses consultes seguides. Espera un minut abans de tornar a preguntar."
+- id: notes_tutor_timeout
+  translation: "L’explicació està trigant massa. Torna-ho a provar."
+- id: notes_tutor_you
+  translation: "Tu"
+- id: notes_tutor_assistant
+  translation: "Tutor"
+- id: notes_tutor_pin
+  translation: "Fixar l’apartat"
+- id: notes_tutor_unpin
+  translation: "Seguir la lectura"
+- id: notes_tutor_suggest_simple
+  translation: "Explica-ho més fàcil"
+- id: notes_tutor_suggest_example
+  translation: "Posa’m un exemple"
+- id: notes_tutor_privacy_title
+  translation: "Privacitat i límits"
+- id: notes_tutor_loading
+  translation: "Carregant el tutor…"
+- id: notes_tutor_load_error
+  translation: "No s’ha pogut obrir el tutor. Prem de nou per tornar-ho a provar."

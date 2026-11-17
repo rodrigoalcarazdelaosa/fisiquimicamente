@@ -1,0 +1,95 @@
+// Critical styles for the visible tutor button; the panel stylesheet loads on demand.
+.notes-tutor {
+  display: none;
+  position: fixed;
+  left: 1rem;
+  bottom: calc(1rem + env(safe-area-inset-bottom) + var(--tutor-keyboard-offset, 0px));
+  width: 3rem;
+  z-index: 1040;
+  --notes-tutor-background: #{$sta-background};
+  font-family: $sta-font-body, sans-serif;
+  font-size: 16px;
+  line-height: 1.45;
+  color: $nord0;
+
+  &:not([hidden]) { display: block; }
+  [hidden] { display: none !important; }
+  button, textarea { font: inherit; }
+  button, summary { cursor: pointer; }
+  button:focus-visible, textarea:focus-visible, summary:focus-visible {
+    outline: 3px solid $nord10;
+    outline-offset: 3px;
+  }
+}
+
+.notes-tutor-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 3rem;
+  height: 3rem;
+  padding: 0;
+  color: $nord6;
+  background: $nord0;
+  border: 0;
+  border-radius: 50%;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+
+  .notes-tutor-icon {
+    flex-shrink: 0;
+    font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+    font-size: 24px;
+    line-height: 1;
+  }
+  .notes-tutor-toggle-label { display: none; }
+  &[aria-expanded="true"] { color: $nord0; background: $nord8; }
+}
+
+@include media-breakpoint-up(xl) {
+  .notes-tutor {
+    top: 7rem;
+    bottom: auto;
+    left: unquote("max(16px, calc(50vw - 380px - 360px - 24px))");
+    width: 360px;
+  }
+  .notes-tutor-toggle {
+    display: inline-flex;
+    width: auto;
+    height: auto;
+    gap: 0.6rem;
+    padding: 0.65rem 0.9rem;
+    color: $nord0;
+    background: $nord6;
+    border: 1px solid $nord4;
+    border-radius: 0.6rem;
+    box-shadow: 0 3px 14px rgba($nord0, 0.08);
+
+    .notes-tutor-toggle-label { display: inline; }
+  }
+}
+
+.dark .notes-tutor {
+  color: $nord6;
+  .notes-tutor-toggle { color: $nord6; background: $nord1; border-color: $nord3; }
+  .notes-tutor-toggle[aria-expanded="true"] { color: $nord0; background: $nord8; }
+  @include media-breakpoint-down(lg) {
+    .notes-tutor-toggle, .notes-tutor-toggle[aria-expanded="true"] { color: $nord0; background: $nord6; }
+  }
+}
+
+.notes-tutor-load-status {
+  display: block;
+  width: 260px;
+  margin-top: 0.4rem;
+  padding: 0.5rem;
+  color: $nord0;
+  background: $nord6;
+  border: 1px solid $nord4;
+  border-radius: 0.3rem;
+  font-size: 0.85em;
+}
+.dark .notes-tutor-load-status { color: $nord6; background: $nord1; border-color: $nord3; }
+@include media-breakpoint-down(lg) {
+  .notes-tutor-load-status { position: absolute; bottom: 3.75rem; left: 0; }
+}

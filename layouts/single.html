@@ -7,6 +7,10 @@
 
   {{ partial "page_header" . }}
 
+  {{ if partial "functions/has_notes_tutor.html" . }}
+    {{ partial "notes_tutor.html" . }}
+  {{ end }}
+
   {{ if $has_toc }}
   <div class="{{ if $has_toc }}article-with-toc{{ end }}">
     <aside class="article-toc d-none d-xl-block" aria-labelledby="article-toc-title">

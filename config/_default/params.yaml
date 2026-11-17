@@ -113,3 +113,8 @@ sharing_image_ca: sharing-ca.png
 abstract_length: 135
 
 pdf_embed_api_key:
+
+# Tutor on individual notes pages. Leave endpoint empty until the Worker is ready.
+notes_tutor:
+  enabled: true
+  endpoint: "https://fisiquimicamente-notes-tutor.fisiquimicamente.workers.dev/api/tutor"
