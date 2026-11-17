@@ -36,6 +36,7 @@ test('sends page context and bounded history to the server-selected model', asyn
   assert.equal(response.headers.get('Access-Control-Allow-Origin'), origin);
   assert.equal(calls[0][0], env.AI_MODEL);
   assert.equal(calls[0][1].max_tokens, 3072);
+  assert.equal(Object.hasOwn(calls[0][1], 'chat_template_kwargs'), false);
   assert.match(calls[0][1].messages[1].content, /sin transportar materia/);
   assert.equal(calls[0][1].messages.at(-1).content, body.question);
   assert.match((await response.json()).answer, /equilibrio/);
@@ -223,4 +224,21 @@ test('a completed stream ends normally without requiring the optional DONE senti
   ]) } });
   const result = await events(await worker.fetch(request(input(), { headers: streamingHeaders }), env));
   assert.deepEqual(result, [{ type: 'delta', text: 'Explicación completa.' }, { type: 'done', truncated: false }]);
+});
+
+test('Gemma selects thinking on the server for both streaming and JSON with one inference', async () => {
+  for (const accept of ['application/json', 'application/x-ndjson']) {
+    for (const [question, thinking] of [
+      ['¿Qué es un enlace covalente?', false],
+      ['Calcula el pH de una disolución de ácido débil', true],
+    ]) {
+      const { env, calls, request } = setup({ AI_MODEL: '@cf/google/gemma-4-26b-a4b-it' });
+      const body = { ...input(), question, chat_template_kwargs: { enable_thinking: !thinking } };
+      const response = await worker.fetch(request(body, { headers: { Accept: accept } }), env);
+      assert.equal(response.status, 200);
+      assert.equal(calls.length, 1);
+      assert.deepEqual(calls[0][1].chat_template_kwargs, { enable_thinking: thinking });
+      assert.equal(Boolean(calls[0][1].stream), accept === 'application/x-ndjson');
+    }
+  }
 });

@@ -1,6 +1,6 @@
 // Normalize provider SSE into JSON lines containing only the public answer.
 // Reasoning fields and provider errors never reach the browser.
-export function streamAnswer(source) {
+export function streamAnswer(source, metrics) {
   const reader = source.getReader();
   const encoder = new TextEncoder();
   const decoder = new TextDecoder();
@@ -8,7 +8,7 @@ export function streamAnswer(source) {
   return new ReadableStream({
     async start(controller) {
       const send = (event) => controller.enqueue(encoder.encode(JSON.stringify(event) + '\n'));
-      const filter = reasoningFilter();
+      const filter = reasoningFilter(() => metrics?.reasoning());
       let buffer = '';
       let completed = false;
       let finishReason = '';
@@ -21,17 +21,26 @@ export function streamAnswer(source) {
         const packet = JSON.parse(data);
         if (packet.error || packet.errors?.length) throw new Error('Provider stream failed');
         const choice = packet.choices?.[0];
+        metrics?.usage(packet.usage);
+        const reasoning = choice?.delta?.reasoning_content || choice?.delta?.reasoning
+          || packet.reasoning_content || packet.reasoning;
+        if (typeof reasoning === 'string' && reasoning.trim()) metrics?.reasoning();
         finishReason = choice?.finish_reason || packet.finish_reason || finishReason;
         if (finishReason === 'error') throw new Error('Provider stream failed');
         const delta = choice?.delta?.content ?? packet.response;
+        if (delta || reasoning) metrics?.modelToken();
         if (typeof delta === 'string') {
           const text = filter(delta);
-          if (text) { hasAnswer = true; send({ type: 'delta', text }); }
+          if (text) {
+            if (text.trim()) { hasAnswer = true; metrics?.visible(); }
+            send({ type: 'delta', text });
+          }
         }
       };
       try {
         while (!completed && !cancelled) {
           const { value, done } = await reader.read();
+          if (value?.byteLength) metrics?.firstChunk();
           buffer = (buffer + decoder.decode(value, { stream: !done })).replace(/\r\n/g, '\n');
           let end;
           while ((end = buffer.indexOf('\n\n')) !== -1) {
@@ -48,9 +57,13 @@ export function streamAnswer(source) {
         if ((!completed && !['stop', 'length', 'eos_token'].includes(finishReason)) || !hasAnswer) {
           throw new Error('Incomplete provider stream');
         }
+        metrics?.finish(finishReason === 'length' ? 'truncated' : 'complete', finishReason);
         send({ type: 'done', truncated: finishReason === 'length' });
       } catch {
-        if (!cancelled) send({ type: 'error', error: 'unavailable' });
+        if (!cancelled) {
+          metrics?.finish('error');
+          send({ type: 'error', error: 'unavailable' });
+        }
       } finally {
         if (!cancelled) controller.close();
         await reader.cancel().catch(() => {});
@@ -59,30 +72,47 @@ export function streamAnswer(source) {
     },
     cancel(reason) {
       cancelled = true;
+      metrics?.finish('cancelled');
       return reader.cancel(reason);
     },
   });
 }
 
-function reasoningFilter() {
+export function stripReasoning(text, onReasoning = () => {}) {
+  return reasoningFilter(onReasoning)(text).trim();
+}
+
+function reasoningFilter(onReasoning) {
+  const openings = { '<think>': '</think>', '<|channel>thought': '<channel|>' };
   let pending = '';
-  let thinking = false;
+  let closing = null;
   return (chunk) => {
     pending += chunk;
     let output = '';
     while (pending) {
-      const tag = thinking ? '</think>' : '<think>';
+      const tags = closing ? [closing] : Object.keys(openings);
       const lower = pending.toLowerCase();
-      const index = lower.indexOf(tag);
+      let index = -1;
+      let matched;
+      for (const tag of tags) {
+        const found = lower.indexOf(tag);
+        if (found !== -1 && (index === -1 || found < index)) { index = found; matched = tag; }
+      }
       if (index !== -1) {
-        if (!thinking) output += pending.slice(0, index);
-        pending = pending.slice(index + tag.length);
-        thinking = !thinking;
+        if (!closing) output += pending.slice(0, index);
+        else if (pending.slice(0, index).trim()) onReasoning();
+        pending = pending.slice(index + matched.length);
+        closing = closing ? null : openings[matched];
       } else {
         // Hold a possible split tag instead of briefly displaying it.
-        let held = Math.min(tag.length - 1, pending.length);
-        while (held && !tag.startsWith(lower.slice(-held))) held--;
-        if (!thinking) output += pending.slice(0, pending.length - held);
+        let held = 0;
+        for (const tag of tags) {
+          for (let size = Math.min(tag.length - 1, pending.length); size > held; size--) {
+            if (lower.endsWith(tag.slice(0, size))) { held = size; break; }
+          }
+        }
+        if (!closing) output += pending.slice(0, pending.length - held);
+        else if (pending.slice(0, pending.length - held).trim()) onReasoning();
         pending = pending.slice(pending.length - held);
         break;
       }

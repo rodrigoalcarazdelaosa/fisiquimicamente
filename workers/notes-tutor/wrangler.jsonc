@@ -15,7 +15,12 @@
   "vars": {
     "ENABLED": "true",
     "AI_MODEL": "@cf/google/gemma-4-26b-a4b-it",
+    "PERFORMANCE_LOGS": "true",
     "ALLOWED_ORIGINS": "https://fisiquimicamente.com,https://physichemically.com,https://fisiquimicament.com"
   },
-  "observability": { "enabled": false }
+  "observability": {
+    "enabled": true,
+    "logs": { "enabled": true, "invocation_logs": false },
+    "traces": { "enabled": false }
+  }
 }
