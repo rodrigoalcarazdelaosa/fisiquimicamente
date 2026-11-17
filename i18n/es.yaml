@@ -314,6 +314,8 @@
   translation: "Has realizado varias consultas seguidas. Espera un minuto antes de volver a preguntar."
 - id: notes_tutor_timeout
   translation: "La explicación está tardando demasiado. Inténtalo de nuevo."
+- id: notes_tutor_truncated
+  translation: "La respuesta ha alcanzado el límite de extensión. Puedes pedir al tutor que continúe."
 - id: notes_tutor_you
   translation: "Tú"
 - id: notes_tutor_assistant

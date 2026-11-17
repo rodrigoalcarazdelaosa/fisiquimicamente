@@ -75,7 +75,7 @@ function setup(options = {}) {
     endpoint: options.endpoint || '', language: 'es', url: 'https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/ondas/', tags: ['2º Bach'],
     strings: { selected: 'Fragmento seleccionado', pending: 'Próximamente', pin: 'Fijar apartado', unpin: 'Seguir lectura',
       suggest_simple: 'Explícalo más fácil', suggest_example: 'Ponme un ejemplo', you: 'Tú', assistant: 'Tutor',
-      rate_limit: 'Espera un minuto', thinking: 'Pensando', error: 'Error' },
+      rate_limit: 'Espera un minuto', thinking: 'Pensando', error: 'Error', truncated: 'Puedes pedir al tutor que continúe.' },
   };
   window.getSelection = () => selection;
   window.matchMedia = () => mobile;
@@ -105,7 +105,7 @@ function setup(options = {}) {
   const fetch = async (url, request) => {
     calls.push(JSON.parse(request.body));
     return { ok: options.status ? options.status === 200 : true, status: options.status || 200,
-      json: async () => ({ answer: options.answer || 'Explicación de prueba.' }) };
+      json: async () => ({ answer: options.answer || 'Explicación de prueba.', truncated: options.truncated }) };
   };
   const api = initNotesTutor(root, data, { window, document, fetch, AbortController, setTimeout, clearTimeout });
   return {
@@ -232,6 +232,26 @@ test('paragraphs, emphasis, lists and TeX render without interpreting HTML', asy
   assert.ok(log.textContent.includes('<img src=x onerror=alert(1)>'));
   assert.ok(!nodes.some((node) => node.tagName === 'IMG'));
   assert.equal(ui.typeset.length, 1);
+});
+
+test('long answers remain visible and follow-ups include their ending', async () => {
+  const answer = 'Esta explicación continúa. '.repeat(250) + 'Conclusión completa.';
+  const ui = setup({ endpoint: '/api/tutor', answer });
+  await ui.submit('Explícalo');
+  assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes(answer));
+  assert.equal(ui.elements['.notes-tutor-status'].textContent, '');
+  await ui.submit('Continúa');
+  assert.equal(ui.calls[1].history[1].content, answer.slice(-6000));
+});
+
+test('token exhaustion shows a translated notice and allows a follow-up', async () => {
+  const ui = setup({ endpoint: '/api/tutor', answer: 'La energía depende de', truncated: true });
+  await ui.submit('Explícalo');
+  assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('La energía depende de'));
+  assert.equal(ui.elements['.notes-tutor-status'].textContent, 'Puedes pedir al tutor que continúe.');
+  assert.equal(ui.calls.length, 1);
+  await ui.submit('Continúa');
+  assert.equal(ui.calls.length, 2);
 });
 
 test('multiline display math remains in one paragraph before the following list', async () => {

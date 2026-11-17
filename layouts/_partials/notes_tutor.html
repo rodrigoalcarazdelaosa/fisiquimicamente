@@ -1,5 +1,5 @@
 {{ $strings := dict }}
-{{ range slice "title" "close" "intro" "reading" "selected" "clear_selection" "conversation" "question" "placeholder" "send" "privacy" "reset" "pending" "thinking" "error" "unavailable" "rate_limit" "timeout" "you" "assistant" "pin" "unpin" "suggest_simple" "suggest_example" "privacy_title" }}
+{{ range slice "title" "close" "intro" "reading" "selected" "clear_selection" "conversation" "question" "placeholder" "send" "privacy" "reset" "pending" "thinking" "error" "unavailable" "rate_limit" "timeout" "truncated" "you" "assistant" "pin" "unpin" "suggest_simple" "suggest_example" "privacy_title" }}
   {{ $strings = merge $strings (dict . (i18n (printf "notes_tutor_%s" .))) }}
 {{ end }}
 {{ $endpoint := site.Params.notes_tutor.endpoint | default "" }}

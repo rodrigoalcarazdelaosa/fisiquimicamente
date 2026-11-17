@@ -266,6 +266,8 @@
   translation: "Has fet diverses consultes seguides. Espera un minut abans de tornar a preguntar."
 - id: notes_tutor_timeout
   translation: "L’explicació està trigant massa. Torna-ho a provar."
+- id: notes_tutor_truncated
+  translation: "La resposta ha arribat al límit d’extensió. Pots demanar al tutor que continuï."
 - id: notes_tutor_you
   translation: "Tu"
 - id: notes_tutor_assistant

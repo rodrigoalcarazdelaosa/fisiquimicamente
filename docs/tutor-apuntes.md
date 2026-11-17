@@ -1,8 +1,10 @@
 # Tutor de los apuntes
 
 El tutor se incorpora desde `layouts/single.html` a las páginas individuales de
-las secciones `apuntes-*`. En escritorio el botón abre un panel de 360 px en el
-margen izquierdo. Si el margen es más estrecho, el panel se superpone a los
+las secciones `apuntes-*`. En escritorio el botón abre un panel de entre 360 y
+560 px, según el espacio disponible en el margen izquierdo. En una ventana de
+1920 px ocupa 540 px, dejando 24 px de separación respecto a los apuntes.
+Si el margen es más estrecho, el panel se superpone a los
 apuntes mientras está abierto. El contenido conserva su posición central y el
 índice permanece a la derecha.
 
@@ -93,9 +95,14 @@ de bots. Para un lanzamiento con mucho tráfico puede añadirse Turnstile.
 
 Cada pregunta envía título, URL, idioma, etiquetas, apartado, hasta 12 000 caracteres
 de contexto, hasta 4000 caracteres seleccionados y los últimos seis mensajes.
-La pregunta admite 1200 caracteres y la generación está limitada a 1024 tokens.
-Los modelos pueden consumir parte de ese límite en razonamiento; al elegir uno
-hay que comprobar que entrega respuestas completas y adaptar su configuración.
+La pregunta admite 1200 caracteres y la generación está limitada a 3072 tokens.
+Se piden explicaciones de unas 150–250 palabras por defecto, con margen para
+desarrollar los pasos necesarios. Los modelos pueden consumir parte del límite
+en razonamiento. La respuesta se muestra completa, sin recortarla por caracteres.
+Si el proveedor indica que ha agotado los tokens (`finish_reason: length`), se
+muestra un aviso traducido para que el usuario pueda pedir que continúe. No se
+hacen consultas adicionales automáticamente. Para acotar el historial enviado,
+se conservan hasta los últimos 6000 caracteres de cada respuesta, incluido su final.
 
 El historial vive en memoria de la pestaña y se pierde al recargar. Se puede borrar
 desde el panel, incluso mientras se espera una respuesta. El código no almacena

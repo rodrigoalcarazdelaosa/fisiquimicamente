@@ -48,10 +48,12 @@
 
 @include media-breakpoint-up(xl) {
   .notes-tutor {
+    // Use the margin beside the 760px article, leaving a 24px gap and 16px at the viewport edge.
+    --notes-tutor-width: clamp(360px, calc(50vw - 420px), 560px);
     top: 7rem;
     bottom: auto;
-    left: unquote("max(16px, calc(50vw - 380px - 360px - 24px))");
-    width: 360px;
+    left: unquote("max(16px, calc(50vw - 380px - var(--notes-tutor-width) - 24px))");
+    width: var(--notes-tutor-width);
   }
   .notes-tutor-toggle {
     display: inline-flex;

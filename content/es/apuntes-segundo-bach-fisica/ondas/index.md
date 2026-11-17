@@ -781,9 +781,7 @@ o este **vídeo** del [Departamento de Física y Química del IES Valle del Saja
 
 El [***rolling shutter***](https://es.wikipedia.org/wiki/Rolling_shutter) nos permite ver los diferentes **modos** de **vibración** de las **cuerdas** de una **guitarra**:
 
-<div align="center">
-{{< x user="h_eecham" id="1829140685599191273" >}}
-</div>
+{{< youtube v_HLjB8Wlsg >}}
 
 ##### Fenómenos de resonancia
 
