@@ -1,4 +1,6 @@
-import { streamAnswer } from './stream.mjs';
+import { streamAnswer, stripReasoning } from './stream.mjs';
+import { selectReasoning } from './reasoning.mjs';
+import { createPerformance } from './performance.mjs';
 
 const MAX_BODY_BYTES = 96 * 1024;
 const MAX_OUTPUT_TOKENS = 3072;
@@ -94,15 +96,16 @@ No solicites datos personales. Limita la conversación al aprendizaje de Física
   ];
 }
 
-export function extractAnswer(result) {
+export function extractAnswer(result, onReasoning) {
   const text = result?.response || result?.choices?.[0]?.message?.content;
   if (typeof text !== 'string') return '';
   // Never return a model's separate reasoning field or an unfinished thinking block.
-  return text.replace(/<think>[\s\S]*?<\/think>/gi, '').replace(/<think>[\s\S]*$/gi, '').trim();
+  return stripReasoning(text, onReasoning);
 }
 
 export default {
   async fetch(request, env) {
+    const receivedAt = performance.now();
     const origin = request.headers.get('Origin');
     const allowed = (env.ALLOWED_ORIGINS || '').split(',').map((value) => value.trim()).filter(Boolean);
     if (!origin || !allowed.includes(origin)) return reply(403, { error: 'forbidden' });
@@ -133,25 +136,46 @@ export default {
       return reply(error.message === 'body_limit' ? 413 : 400, { error: 'invalid_request' }, origin);
     }
     if (!validInput(input, origin)) return reply(400, { error: 'invalid_request' }, origin);
+    let metrics;
     try {
       const { success } = await env.TUTOR_IP_LIMITER.limit({ key: request.headers.get('CF-Connecting-IP') || 'unknown' });
       if (!success) return reply(429, { error: 'rate_limited' }, origin, { 'Retry-After': '60' });
       const streaming = request.headers.get('Accept')?.includes('application/x-ndjson');
+      const gemma = env.AI_MODEL === '@cf/google/gemma-4-26b-a4b-it';
+      const classifyAt = performance.now();
+      const decision = gemma ? selectReasoning(input)
+        : { mode: 'provider_default', reason: 'other_model', score: null };
+      const classifierMs = performance.now() - classifyAt;
+      const messages = buildMessages(input);
+      metrics = createPerformance({ receivedAt, model: env.AI_MODEL, decision, classifierMs,
+        enabled: env.PERFORMANCE_LOGS === 'true' });
+      metrics.modelStart();
       const result = await env.AI.run(env.AI_MODEL, {
-        messages: buildMessages(input),
+        messages,
         max_tokens: MAX_OUTPUT_TOKENS,
+        ...(gemma ? { chat_template_kwargs: { enable_thinking: decision.enableThinking } } : {}),
         ...(streaming ? { stream: true } : {}),
       });
       if (streaming && typeof result?.getReader === 'function') {
-        return new Response(streamAnswer(result), {
+        return new Response(streamAnswer(result, metrics), {
           headers: responseHeaders(origin, { 'Content-Type': 'application/x-ndjson; charset=utf-8' }),
         });
       }
-      const answer = extractAnswer(result);
-      if (!answer) return reply(502, { error: 'empty_answer' }, origin);
-      const truncated = (result?.choices?.[0]?.finish_reason || result?.finish_reason) === 'length';
+      metrics.firstChunk();
+      const raw = result?.response || result?.choices?.[0]?.message?.content;
+      const reasoning = result?.choices?.[0]?.message?.reasoning_content || result?.reasoning_content;
+      if (raw || reasoning) metrics.modelToken();
+      if (reasoning) metrics.reasoning();
+      metrics.usage(result?.usage);
+      const answer = extractAnswer(result, () => metrics.reasoning());
+      if (!answer) { metrics.finish('error'); return reply(502, { error: 'empty_answer' }, origin); }
+      metrics.visible();
+      const finishReason = result?.choices?.[0]?.finish_reason || result?.finish_reason;
+      const truncated = finishReason === 'length';
+      metrics.finish(truncated ? 'truncated' : 'complete', finishReason);
       return reply(200, { answer, truncated }, origin);
     } catch {
+      metrics?.finish('error');
       // Keep provider errors, credentials and conversation content out of responses/logs.
       return reply(503, { error: 'unavailable' }, origin);
     }

@@ -113,13 +113,40 @@ muestra un aviso traducido para que el usuario pueda pedir que continúe. No se
 hacen consultas adicionales automáticamente. Para acotar el historial enviado,
 se conservan hasta los últimos 6000 caracteres de cada respuesta, incluido su final.
 
+## Razonamiento adaptativo
+
+`workers/notes-tutor/src/reasoning.mjs` decide el modo antes de llamar al modelo.
+Solo para `@cf/google/gemma-4-26b-a4b-it`, el Worker envía
+`chat_template_kwargs.enable_thinking` como `false` o `true`, según la consulta.
+No se hacen llamadas de clasificación a otra IA ni se añaden dependencias.
+
+Las definiciones, las comparaciones directas y las explicaciones conceptuales
+claras usan el modo rápido. Por ejemplo, «¿Qué es un enlace covalente?» y
+«Explica por qué el agua es polar». Los cálculos, las deducciones, la interpretación
+de datos y las relaciones entre varios conceptos mantienen el razonamiento.
+«Calcula el pH de un ácido débil» lo activa aunque falten los datos: el modelo
+debe pedirlos. El nombre de un tema, como equilibrio o termodinámica, no suma
+puntos por sí solo. La decisión combina intención, magnitudes, datos, cambios
+de condiciones y referencias a otros pasos; los casos inciertos conservan el
+razonamiento.
+
+Los seguimientos consultan las preguntas recientes y, cuando se alude a un
+ejercicio seleccionado, su contexto. «Ponme un ejemplo» después de una definición
+puede ir al modo rápido; después de un problema mantiene el razonamiento.
+Una nueva definición no hereda la complejidad de un ejercicio anterior. Las
+reglas cubren español, inglés y catalán. Son heurísticas conservadoras: no
+constituyen una evaluación semántica completa ni garantizan la corrección de
+las respuestas. El parámetro de modo se fija en el servidor; un visitante no
+puede cambiarlo en el cuerpo de su petición.
+
 ## Respuestas en streaming
 
 El navegador solicita `application/x-ndjson`. El Worker activa `stream: true` en
 Workers AI y transforma los eventos SSE del proveedor en líneas JSON: `delta`
 con el texto nuevo, `done` con el indicador de límite y `error` con un error
 genérico. Solo se transmite la explicación pública; se descartan los campos de
-razonamiento y los bloques `<think>`, aunque sus etiquetas lleguen fragmentadas.
+razonamiento, los bloques `<think>` y los canales `<|channel>thought` de Gemma,
+aunque sus etiquetas lleguen fragmentadas.
 El Worker mantiene la respuesta JSON anterior para navegadores que aún no se
 hayan actualizado. El navegador también acepta JSON si el Worker sigue en su
 versión anterior; se pueden desplegar ambos componentes por separado.
@@ -131,7 +158,43 @@ segundos sin recibir texto nuevo. Si la conexión se interrumpe, se conserva la
 respuesta parcial y la pregunta, y aparece un aviso traducido. La respuesta
 parcial se añade al historial para que se pueda pedir que continúe. Borrar la
 conversación cancela la lectura; el Worker propaga esa cancelación al flujo del
-proveedor. No se reintenta automáticamente ni se cambia el modo de razonamiento.
+proveedor. No se reintenta automáticamente.
+
+## Medición de rendimiento
+
+Cada llamada al modelo genera un registro JSON `notes_tutor_performance` al
+terminar, fallar o cancelarse. `PERFORMANCE_LOGS: "true"` activa estos registros.
+La configuración de Wrangler activa Workers Logs y desactiva los registros
+automáticos de invocación y las trazas. Los registros propios contienen modelo,
+modo, regla del clasificador, tiempos, resultado y contadores de tokens cuando
+el proveedor los facilita. No incluyen preguntas, respuestas, URL, cabeceras,
+direcciones IP ni mensajes originales de error.
+
+| Campo | Qué mide |
+| --- | --- |
+| `classifier_ms` | Duración local de la selección del modo. |
+| `pre_model_ms` | Desde la recepción hasta iniciar la llamada, incluida la preparación y el limitador. |
+| `first_chunk_ms` | Hasta leer el primer fragmento bruto del proveedor, aunque solo contenga metadatos. |
+| `first_model_token_ms` | Hasta procesar el primer fragmento de contenido del modelo, público o de razonamiento. |
+| `first_visible_ms` | Hasta enviar el primer contenido público no vacío al navegador. |
+| `total_ms` | Desde la recepción hasta el final de la generación, error o cancelación. |
+| `generation_ms` | Desde la llamada al modelo hasta ese final. |
+| `reasoning_observed` | Si se ha recibido razonamiento oculto o un contador positivo de tokens de razonamiento. |
+| `reasoning_tokens`, `output_tokens` | Contadores del proveedor; `null` si no los proporciona. |
+
+Los tiempos se expresan en milisegundos. `first_visible_ms` es una medida del
+servidor: no incluye la red entre Worker y navegador ni el repintado de la
+pantalla. En respuestas JSON antiguas solo se puede medir la recepción completa.
+Un contador ausente o `reasoning_observed: false` no demuestra que no haya habido
+razonamiento: el proveedor puede no mostrarlo. El tiempo anterior al primer
+fragmento también puede incluir cola, red y preparación del modelo.
+
+En Cloudflare, abre el Worker → Observability → Logs y filtra por el evento
+`notes_tutor_performance`. Compara mediana y percentil 95 de `first_visible_ms`
+entre modos con las mismas preguntas y contextos. Conserva también los errores
+y los cortes por límite; excluirlos podría ocultar una regresión de calidad.
+Para diagnosticar la espera, compara `pre_model_ms`, `first_chunk_ms` y
+`first_visible_ms`: no atribuyas toda la diferencia al razonamiento sin datos.
 
 El historial vive en memoria de la pestaña y se pierde al recargar. Se puede borrar
 desde el panel, incluso mientras se espera una respuesta. El código no almacena
@@ -150,7 +213,7 @@ está disponible y conserva la pregunta para volver a intentarlo.
 ## Verificación
 
 ```sh
-node --test workers/notes-tutor/test/worker.test.mjs
+node --test workers/notes-tutor/test/*.test.mjs
 node --test tests/notes-tutor*.test.mjs
 node --check assets/js/notes-tutor.mjs
 node --check assets/js/notes-tutor-loader.mjs
@@ -159,10 +222,47 @@ hugo --buildFuture
 
 Las pruebas del Worker usan respuestas simuladas y no llaman a Workers AI.
 Comprueban fragmentos UTF-8, entrega progresiva, filtrado del razonamiento,
-cancelación, errores y avisos de límite. Después de publicar cambios, comprueba
+cancelación, errores, avisos de límite, selección del modo e instrumentación.
+Una prueba recorre el Worker y el código del navegador con un flujo controlado
+y comprueba que el primer texto aparece antes de que termine la generación.
+Después de publicar cambios, comprueba
 el modelo real con dudas de los apuntes, unidades, ecuaciones y preguntas con
 premisas equivocadas. Revisa también el consumo en Cloudflare.
 
+La evaluación local del clasificador y de la preparación de mensajes no consume
+neuronas:
+
+```sh
+node workers/notes-tutor/tools/evaluate-reasoning.mjs
+```
+
+`test/reasoning-cases.mjs` incluye las ocho preguntas de referencia y casos
+adicionales, con criterios de revisión científica para la evaluación real.
+Para comparar con razonamiento siempre activado, el evaluador admite llamadas
+reales mediante la API oficial, usando `CLOUDFLARE_ACCOUNT_ID` y
+`CLOUDFLARE_API_TOKEN` ya presentes en el entorno:
+
+```sh
+node workers/notes-tutor/tools/evaluate-reasoning.mjs --live --case=water --repeat=3
+```
+
+Esta opción sí consume cuota. No guarda credenciales ni las imprime. Alterna el
+orden de los modos en las repeticiones y usa los mismos mensajes y límite de
+tokens. En los casos complejos ambos modos activan el razonamiento: se reutiliza
+una única inferencia por repetición. La salida contiene respuestas sintéticas,
+referencias para revisarlas y mediciones; no puntúa automáticamente su precisión.
+El tiempo de red de esta prueba procede de la máquina que la ejecuta, por lo que
+no debe mezclarse con los tiempos de producción del Worker.
+
+Revisa cada respuesta frente al criterio del caso y compara varias repeticiones.
+La prueba `acid-numeric` debe dar un pH aproximado de 2,88 y `ice-numeric` unas
+concentraciones de 0,222 M para H₂ e I₂ y 1,556 M para HI. Si alguna explicación
+del modo rápido pierde precisión, añade el caso a las pruebas y ajusta la regla
+afectada. La mejora real de TTFT y la precisión del modelo requieren esta
+evaluación después de desplegar; las pruebas simuladas no las demuestran.
+
 Referencias: [Workers AI bindings](https://developers.cloudflare.com/workers-ai/configuration/bindings/),
 [cuota y facturación](https://developers.cloudflare.com/workers-ai/platform/pricing/),
+[configuración de Gemma](https://developers.cloudflare.com/workers-ai/get-started/workers-wrangler/),
+[Workers Logs](https://developers.cloudflare.com/workers/observability/logs/workers-logs/),
 [limitador de peticiones](https://developers.cloudflare.com/workers/runtime-apis/bindings/rate-limit/).

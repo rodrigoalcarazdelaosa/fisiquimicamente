@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import initNotesTutor, { readTutorStream } from '../assets/js/notes-tutor.mjs';
+import tutorWorker from '../workers/notes-tutor/src/index.mjs';
 
 function setup(options = {}) {
   let activeElement;
@@ -401,4 +402,33 @@ test('the browser decodes JSON lines fragmented inside accented text and formula
   const result = await readTutorStream(new Response(body), (delta) => fragments.push(delta));
   assert.deepEqual(result, { answer, truncated: false });
   assert.equal(fragments.join(''), answer);
+});
+
+test('adaptive Worker and browser stream an answer end to end before inference finishes', async () => {
+  let provider;
+  let inferenceCalls = 0;
+  const source = new ReadableStream({ start(controller) { provider = controller; } });
+  const env = {
+    ENABLED: 'true', AI_MODEL: '@cf/google/gemma-4-26b-a4b-it', ALLOWED_ORIGINS: 'https://fisiquimicamente.com',
+    TUTOR_IP_LIMITER: { limit: async () => ({ success: true }) },
+    AI: { run: async (_model, options) => {
+      inferenceCalls++;
+      assert.equal(options.chat_template_kwargs.enable_thinking, false);
+      assert.equal(options.stream, true);
+      return source;
+    } },
+  };
+  const ui = setup({ endpoint: 'https://tutor.example/api/tutor', fetch: async (url, request) =>
+    tutorWorker.fetch(new Request(url, { ...request, headers: { ...request.headers, Origin: 'https://fisiquimicamente.com' } }), env) });
+  const emit = (packet) => provider.enqueue(new TextEncoder().encode(`data: ${JSON.stringify(packet)}\n\n`));
+  await ui.submit('¿Qué es un enlace covalente?');
+  emit({ choices: [{ delta: { content: 'Dos átomos comparten ' } }] });
+  await settle();
+  assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('Dos átomos comparten'));
+  assert.equal(ui.elements.textarea.disabled, true);
+  emit({ choices: [{ delta: { content: 'electrones.' }, finish_reason: 'stop' }] });
+  provider.close(); await settle(); ui.flush();
+  assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('Dos átomos comparten electrones.'));
+  assert.equal(ui.elements.textarea.disabled, false);
+  assert.equal(inferenceCalls, 1);
 });
