@@ -406,6 +406,8 @@
   translation: "The explanation is taking too long. Please try again."
 - id: notes_tutor_truncated
   translation: "The response has reached its length limit. You can ask the tutor to continue."
+- id: notes_tutor_interrupted
+  translation: "The response was interrupted. The text received has been kept; you can ask the tutor to continue."
 - id: notes_tutor_you
   translation: "You"
 - id: notes_tutor_assistant

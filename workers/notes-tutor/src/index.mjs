@@ -1,19 +1,22 @@
+import { streamAnswer } from './stream.mjs';
+
 const MAX_BODY_BYTES = 96 * 1024;
 const MAX_OUTPUT_TOKENS = 3072;
 const LANGUAGES = { es: 'español', en: 'English', ca: 'català' };
 const NOTES_PATHS = { es: '/recursos-fisica-quimica/apuntes/', en: '/physics-chemistry-notes/', ca: '/recursos-fisica-quimica/apunts/' };
 
+function responseHeaders(origin, extraHeaders = {}) {
+  return {
+    'Cache-Control': 'no-store',
+    'X-Content-Type-Options': 'nosniff',
+    'Vary': 'Origin',
+    ...(origin ? { 'Access-Control-Allow-Origin': origin } : {}),
+    ...extraHeaders,
+  };
+}
+
 function reply(status, body, origin, extraHeaders = {}) {
-  return Response.json(body, {
-    status,
-    headers: {
-      'Cache-Control': 'no-store',
-      'X-Content-Type-Options': 'nosniff',
-      'Vary': 'Origin',
-      ...(origin ? { 'Access-Control-Allow-Origin': origin } : {}),
-      ...extraHeaders,
-    },
-  });
+  return Response.json(body, { status, headers: responseHeaders(origin, extraHeaders) });
 }
 
 function isText(value, min, max) {
@@ -68,6 +71,7 @@ export function buildMessages(input) {
       content: `Eres el tutor de Física y Química de FisiQuímicamente. Responde en ${LANGUAGES[input.page.language]}.
 Ayuda a comprender los apuntes y adapta la explicación al nivel indicado en los metadatos.
 Prioriza los apuntes. Identifica como ampliación cualquier explicación que vaya más allá de ellos.
+Solo recibes texto: no puedes ver las imágenes de los apuntes ni abrir la URL de la página. Si una pregunta depende de una figura que no está descrita en el contexto, pide que la describan.
 Comprueba las unidades, los signos y los pasos de los cálculos. Corrige las premisas equivocadas con una explicación.
 Si faltan datos, solicita una aclaración. Si no sabes la respuesta, dilo. No inventes citas ni enlaces.
 Responde normalmente en unas 150–250 palabras y añade un ejemplo cuando ayude. Amplía la explicación si la pregunta lo requiere, sin repetir ideas. Termina siempre las frases y los pasos que empieces. Usa párrafos, listas cortas y negrita cuando faciliten la lectura. No uses HTML ni tablas Markdown. Escribe las fórmulas en LaTeX entre \\( y \\) o entre \\[ y \\].
@@ -132,10 +136,17 @@ export default {
     try {
       const { success } = await env.TUTOR_IP_LIMITER.limit({ key: request.headers.get('CF-Connecting-IP') || 'unknown' });
       if (!success) return reply(429, { error: 'rate_limited' }, origin, { 'Retry-After': '60' });
+      const streaming = request.headers.get('Accept')?.includes('application/x-ndjson');
       const result = await env.AI.run(env.AI_MODEL, {
         messages: buildMessages(input),
         max_tokens: MAX_OUTPUT_TOKENS,
+        ...(streaming ? { stream: true } : {}),
       });
+      if (streaming && typeof result?.getReader === 'function') {
+        return new Response(streamAnswer(result), {
+          headers: responseHeaders(origin, { 'Content-Type': 'application/x-ndjson; charset=utf-8' }),
+        });
+      }
       const answer = extractAnswer(result);
       if (!answer) return reply(502, { error: 'empty_answer' }, origin);
       const truncated = (result?.choices?.[0]?.finish_reason || result?.finish_reason) === 'length';
