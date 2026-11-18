@@ -111,12 +111,12 @@ $$
 U_\mathrm R = -\frac{N_\mathrm A M z^+ z^- e^2}{4\pi\epsilon_0 r_0}\left(1-\frac{1}{n}\right),
 $$
 
-on $N_\mathrm A = 6.022\times 10^{23}\thinspace\mathrm{mol^{-1}}$ és la constant d'Avogadro; $M$ és la constant de Madelung, relacionada amb la geometria del cristall; $z^+$ i $z^-$ són els números de càrrega del catió i de l'anió, respectivament; $e = 1.6\times 10^{-19}\thinspace\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\thinspace\mathrm{C^2N^{-1}m^{-2}}$ és la permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5 < n < 12$ és l'exponent de Born (experimental).
+on $N_\mathrm A = 6.022\times 10^{23}\,\mathrm{mol^{-1}}$ és la constant d'Avogadro; $M$ és la constant de Madelung, relacionada amb la geometria del cristall; $z^+$ i $z^-$ són els números de càrrega del catió i de l'anió, respectivament; $e = 1.6\times 10^{-19}\,\mathrm{C}$ és la càrrega elemental, $\epsilon_0 = 8.85\times 10^{-12}\,\mathrm{C^2\,N^{-1}\,m^{-2}}$ és la permitivitat elèctrica al buit; $r_0$ és la distància a l'ió més pròxim; i $5 < n < 12$ és l'exponent de Born (experimental).
 
 Es comprova que el mòdul de l'**energia** de **xarxa** és:
 
 - **Directament proporcional** al **producte** de les **càrregues** dels ions.
-- **Inversament proporcional** a la **distància** interiònica.
+- **Inversament proporcional** a la **distància** interiònica i, per tant, al **mida** dels **ions**.
 
 ### Propietats de les substàncies iòniques
 
