@@ -1,0 +1,12 @@
+{{- $css := . -}}
+{{- $postCSS := eq (getenv "WC_POST_CSS") "true" -}}
+{{- if $postCSS -}}
+  {{- $css = $css | postCSS -}}
+{{- end -}}
+{{- if hugo.IsProduction -}}
+  {{- $css = $css | minify | fingerprint -}}
+{{- end -}}
+{{- if $postCSS -}}
+  {{- $css = $css | resources.PostProcess -}}
+{{- end -}}
+{{- return $css.RelPermalink -}}

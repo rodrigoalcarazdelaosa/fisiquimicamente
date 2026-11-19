@@ -2,7 +2,6 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
   {{ $hide_generator := site.Params.power_ups.hide_generator | default false }}
   {{ if not (and $is_sponsor $hide_generator) }}
@@ -15,16 +14,8 @@
   {{/* Parse theme and font */}}
   {{ partial "functions/parse_theme" . }}
 
-  {{/* Pre-connect to Google Fonts if the site's Font Theme uses them. */}}
-  {{/*  {{ with ($scr.Get "google_fonts") }}
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  {{ end }}  */}}
-
-  {{/* Load Google Fonts if the site's Font Theme uses them. */}}
-  {{/* Note: we cannot use SRI with Google Fonts because the CSS is dynamically generated according to the user agent. */}}
   {{ with ($scr.Get "google_fonts") }}
     {{ if hasPrefix . "family=" }}
-      {{/* If `google_fonts` starts with "family=", use API v2 (https://developers.google.com/fonts/docs/css2) */}}
       <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }} media="print" onload="this.media='all'">
     {{ else }}
       {{ errorf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://docs.hugoblox.com/customization/#custom-font" }}
@@ -38,7 +29,6 @@
   {{ $css := site.Data.assets.css }}
   {{ $js := site.Data.assets.js }}
 
-  {{/* Config LaTeX math rendering. */}}
   {{ $has_notes_tutor := partial "functions/has_notes_tutor.html" . }}
   {{ if or .Params.math site.Params.features.math.enable }}
     {{ $mathjax_config := resources.Get "js/mathjax-config.js" }}
@@ -48,153 +38,66 @@
     {{ end }}
   {{ end }}
 
-  {{/* Attempt to load local vendor CSS, otherwise load from CDN. */}}
+  {{ $icons := resources.Get "css/libs/fontawesome/all.min.css" | resources.Copy "css/icons.css" }}
+  <link rel="stylesheet" href="{{ partial "functions/stylesheet.html" $icons }}" media="print" onload="this.media='all'">
 
-  {{/* Only load non-essential CSS in this media-swapping way */}}
-  {{- $stylesheets := slice -}}
-  {{- $lib_names := slice "fontawesome/all.min" -}}
-  {{- range $lib_names -}}
-    {{- $stylesheets = $stylesheets | append (resources.Get (printf "css/libs/%s.css" . ) ) -}}
-  {{- end -}}
-  {{ $stylesheets = $stylesheets | resources.Concat "css/vendor-bundle.css" | minify }}
-  {{- if eq (getenv "WC_POST_CSS") "true" -}}
-    {{- $stylesheets = $stylesheets | postCSS -}}
-  {{- end -}}
-  {{- if hugo.IsProduction -}}
-    {{- $stylesheets = $stylesheets | fingerprint "md5" -}}
-  {{- end -}}
-  {{- if eq (getenv "WC_POST_CSS") "true" -}}
-    {{/* PostProcess must be last action in the pipeline */}}
-    {{- $stylesheets = $stylesheets | resources.PostProcess -}}
-  {{- end -}}
-  <link rel="stylesheet" href="{{$stylesheets.RelPermalink}}" media="print" onload="this.media='all'">
+  {{ if site.Params.extensions.academicons.enable }}
+    <link rel="stylesheet" href="{{ printf $css.academicons.url $css.academicons.version }}" integrity="{{ $css.academicons.sri }}" crossorigin="anonymous" media="print" onload="this.media='all'">
+  {{ end }}
 
-  {{ $scr.Set "vendor_css_filename" "main.min.css" }}
-  {{ $scr.Set "vendor_js_filename" "main.min.js" }}
-  {{ if and (fileExists (printf "static/css/vendor/%s" ($scr.Get "vendor_css_filename"))) (fileExists (printf "static/js/vendor/%s" ($scr.Get "vendor_js_filename"))) }}
-    {{ $scr.Set "use_cdn" 0 }}
-    <link rel="stylesheet" href="{{ printf "/css/vendor/%s" ($scr.Get "vendor_css_filename") | relURL }}" />
-  {{ else }}
-    {{ $scr.Set "use_cdn" 1 }}
-    {{ if site.Params.extensions.academicons.enable }}
-      {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" media=\"print\" onload=\"this.media='all'\">" (printf $css.academicons.url $css.academicons.version) $css.academicons.sri | safeHTML }}
-    {{ end }}
-
-    {{/* Workaround `.HasShortcode "gallery"` not parsing page resources (widget page sections) */}}
-    {{ $has_gallery := false }}
-    {{/* Note: unless there is a root `/index.md` with `type: widget_page`, Hugo treats homepage as `page` type. */}}
-    {{ if (eq .Type "widget_page") | or (and .IsHome (eq .Type "page")) }}
-      {{/* Check if widget page sections use a gallery */}}
-      {{ $page := "/home/index.md" }}
-      {{ $context := cond .IsHome (site.GetPage $page) . }}
-      {{ range $context.Resources.ByType "page" }}
-        {{ if .HasShortcode "gallery" }}
-          {{ $has_gallery = true }}
-        {{ end }}
-      {{ end }}
-    {{ else }}
-      {{/* Single page */}}
-      {{ if .HasShortcode "gallery" | or ($.Page.Store.Get "has_gallery") }}
-        {{ $has_gallery = true }}
-      {{ end }}
-    {{ end }}
-    {{ if (eq .Type "landing") }}
-      {{ range $index, $block := .Params.sections }}
-        {{ if (gt (len (findRE `\{\{< gallery` $block.content.text 1)) 0) }}
-          {{ $.Page.Store.Set "has_gallery" true }}
-          {{ $has_gallery = true }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-    {{ if $has_gallery | or site.Params.require_fancybox }}
-      {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" media=\"print\" onload=\"this.media='all'\">" (printf $css.fancybox.url $css.fancybox.version) $css.fancybox.sri | safeHTML }}
-    {{ end }}
-
-    {{/* Maps CSS. */}}
-    {{ $map_provider := lower site.Params.features.map.provider }}
-    {{ if in (slice "mapnik" "mapbox") $map_provider }}
-      {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" media=\"print\" onload=\"this.media='all'\">" (printf $css.leaflet.url $css.leaflet.version) $css.leaflet.sri | safeHTML }}
-    {{ end }}
-
-    {{ if eq (lower site.Params.features.search.provider) "algolia" }}
-      {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.instantsearch.url $css.instantsearch.version) $css.instantsearch.sri | safeHTML }}
-    {{ else if eq (lower site.Params.features.search.provider) "docsearch" }}
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
-    {{ end }}
-
-    {{/* Load async scripts. */}}
-    {{ range $k, $v := site.Data.assets.js }}
-      {{/* TODO: investigate why `where ... "async" true` does not work. */}}
-      {{ $load := $v.async }}
-
-      {{/* Only load MathJax if required. */}}
-      {{ if (eq $k "mathJax") | and (not (or $.Params.math site.Params.features.math.enable)) }}
-        {{ $load = false }}
-      {{ end }}
-
-      {{ if $load }}
-        {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" async></script>" (printf $v.url $v.version) $v.sri | safeHTML }}
+  {{ $has_gallery := or (.HasShortcode "gallery") (.Page.Store.Get "has_gallery") }}
+  {{ if or (eq .Type "widget_page") .IsHome }}
+    {{ with (cond .IsHome (site.GetPage "/home/index.md") .) }}
+      {{ range .Resources.ByType "page" }}
+        {{ if .HasShortcode "gallery" }}{{ $has_gallery = true }}{{ end }}
       {{ end }}
     {{ end }}
   {{ end }}
-
-  {{/* Load WC style */}}
-  {{ $license := printf "/*! Hugo Blox Builder v%s | https://hugoblox.com/ */\n" site.Data.hugoblox.version }}
-  {{ $license := $license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
-  {{ $license := $license | printf "%s/*! License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */\n" }}
-  {{ $css_bundle_head := $license | resources.FromString "css/bundle-head.css" }}
-  {{ $css_options := dict "targetPath" "css/wowchemy.css" }}
-  {{- if hugo.IsProduction -}}
-    {{- $css_options = merge $css_options (dict "outputStyle" "compressed") -}}
-  {{- end -}}
-  {{ $sass_template := resources.Get "scss/main.scss" }}
-  {{ $style := $sass_template | resources.ExecuteAsTemplate "main_parsed.scss" . | toCSS $css_options }}
-  {{- if hugo.IsProduction -}}
-    {{- $style = $style | minify -}}
-  {{- end -}}
-  {{ $style := slice $css_bundle_head $style | resources.Concat "css/wowchemy.css" }}
-  {{- if eq (getenv "WC_POST_CSS") "true" -}}
-    {{- $style = $style | postCSS -}}
-  {{- end -}}
-  {{- if hugo.IsProduction -}}
-    {{- $style = $style | fingerprint "md5" -}}
-  {{- end -}}
-  {{- if eq (getenv "WC_POST_CSS") "true" -}}
-    {{/* PostProcess must be last action in the pipeline */}}
-    {{- $style = $style | resources.PostProcess -}}
-  {{- end -}}
-  <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
-
-  {{/* Load WC community block styles */}}
-  {{ $wc_block_styles := resources.Match "scss/blocks/**.scss" }}
-  {{ with $wc_block_styles }}
-    {{ $wc_block_styles = $wc_block_styles | resources.Concat "css/wowchemy-blocks.scss" | resources.ToCSS }}
-    {{- if eq (getenv "WC_POST_CSS") "true" -}}
-      {{- $wc_block_styles = $wc_block_styles | postCSS -}}
-    {{- end -}}
-    {{- if hugo.IsProduction -}}
-      {{- $wc_block_styles = $wc_block_styles | minify | fingerprint "md5" -}}
-    {{- end -}}
-    {{- if eq (getenv "WC_POST_CSS") "true" -}}
-      {{/* PostProcess must be last action in the pipeline */}}
-      {{- $wc_block_styles = $wc_block_styles | resources.PostProcess -}}
-    {{- end -}}
-    <link rel="stylesheet" href="{{ $wc_block_styles.RelPermalink }}" />
+  {{ if eq .Type "landing" }}
+    {{ range .Params.sections }}
+      {{ with .content.text }}
+        {{ if findRE `\{\{<\s*gallery\b` . 1 }}{{ $has_gallery = true }}{{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if or $has_gallery site.Params.require_fancybox }}
+    {{ .Page.Store.Set "has_gallery" true }}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.min.css" integrity="sha384-CKeYI6jsYBV4DV34zRfxht32qlPolZvokUknVb7SnE4PCoiTTqCN47Tr+hQAKkXY" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ (resources.Get "css/gallery.css" | minify | fingerprint).RelPermalink }}">
   {{ end }}
 
-  {{/* Hugo Chroma Syntax Highlighter Initialization */}}
-  {{/* TODO: optimize to only include the Chroma CSS themes when the page has code blocks. */}}
-  {{ $hl_theme_light := site.Params.features.syntax_highlighter.theme_light | default "github-light" }}
-  {{ $hl_theme_dark := site.Params.features.syntax_highlighter.theme_dark | default "dracula" }}
-  {{ $hl_theme_light_path := printf "css/libs/chroma/%s.css" $hl_theme_light }}
-  {{ $hl_theme_dark_path := printf "css/libs/chroma/%s.css" $hl_theme_dark }}
-  {{ if not (fileExists (printf "assets/%s" $hl_theme_light_path)) | or (not (fileExists (printf "assets/%s" $hl_theme_dark_path))) }}
-    {{ errorf "Hugo Chroma themes %s.css and %s.css not found in `css/libs/chroma/`. See https://gohugo.io/commands/hugo_gen_chromastyles/" $hl_theme_light $hl_theme_dark }}
+  {{ if in (slice "mapnik" "mapbox") (lower site.Params.features.map.provider) }}
+    <link rel="stylesheet" href="{{ printf $css.leaflet.url $css.leaflet.version }}" crossorigin="anonymous">
+  {{ end }}
+  {{ if eq (lower site.Params.features.search.provider) "algolia" }}
+    <link rel="stylesheet" href="{{ printf $css.instantsearch.url $css.instantsearch.version }}" integrity="{{ $css.instantsearch.sri }}" crossorigin="anonymous">
+  {{ else if eq (lower site.Params.features.search.provider) "docsearch" }}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
+  {{ end }}
+
+  {{ range $name, $asset := $js }}
+    {{ if and $asset.async (or (ne (lower $name) "mathjax") $.Params.math site.Params.features.math.enable) }}
+      <script src="{{ printf $asset.url $asset.version }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>
+    {{ end }}
+  {{ end }}
+
+  {{ $sass := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "main_parsed.scss" . }}
+  {{ $style := $sass | toCSS (dict "targetPath" "css/site.css") }}
+  <link rel="stylesheet" href="{{ partial "functions/stylesheet.html" $style }}">
+  {{ with resources.Match "scss/blocks/**.scss" }}
+    {{ $blocks := . | resources.Concat "css/blocks.scss" | toCSS }}
+    <link rel="stylesheet" href="{{ partial "functions/stylesheet.html" $blocks }}">
+  {{ end }}
+
+  {{ $light := site.Params.features.syntax_highlighter.theme_light | default "github-light" }}
+  {{ $dark := site.Params.features.syntax_highlighter.theme_dark | default "dracula" }}
+  {{ $lightCSS := resources.Get (printf "css/libs/chroma/%s.css" $light) | minify }}
+  {{ if eq $light $dark }}
+    <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}" media="print" onload="this.media='all'">
   {{ else }}
-    {{ $hl_theme_light_css := resources.Get $hl_theme_light_path | minify }}
-    {{ $hl_theme_dark_css := resources.Get $hl_theme_dark_path | minify }}
-    <link rel="stylesheet" href="{{ $hl_theme_light_css.RelPermalink }}" title="hl-light" media="print" onload="this.media='all'" {{ if ne ($scr.Get "light") true }}disabled{{end}}>
-    <link rel="stylesheet" href="{{ $hl_theme_dark_css.RelPermalink }}" title="hl-dark" media="print" onload="this.media='all'" {{ if eq ($scr.Get "light") true }}disabled{{end}}>
+    {{ $darkCSS := resources.Get (printf "css/libs/chroma/%s.css" $dark) | minify }}
+    <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}" title="hl-light" media="print" onload="this.media='all'" {{ if not ($scr.Get "light") }}disabled{{ end }}>
+    <link rel="stylesheet" href="{{ $darkCSS.RelPermalink }}" title="hl-dark" media="print" onload="this.media='all'" {{ if $scr.Get "light" }}disabled{{ end }}>
   {{ end }}
 
   {{/* Load SEO module */}}
