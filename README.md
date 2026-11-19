@@ -56,4 +56,4 @@ source get_last_commit_hash.sh && hugo --minify
 node --test tests/*.test.mjs workers/notes-tutor/test/*.test.mjs
 ```
 
-La compilación genera `public/es/`, `public/en/` y `public/ca/`. El despliegue a Cloudflare Pages se activa al subir cambios a `main`.
+La compilación genera `public/es/`, `public/en/` y `public/ca/`. Cada subida a `main` publica las tres ediciones en producción. Cada subida a `dev` publica la edición española en [dev.fisiquimicamente.com](https://dev.fisiquimicamente.com/).
