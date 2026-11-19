@@ -28,6 +28,7 @@ jobs:
       - name: Compilar la vista previa
         env:
           HUGOxLANGUAGESxESxBASEURL: https://dev.fisiquimicamente.com/
+          HUGOxPARAMSxNOTES_TUTORxENABLED: "false"
           HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets.PDF_EMBED_API_KEY_ES }}
         run: |
           source get_last_commit_hash.sh
