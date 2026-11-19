@@ -1,0 +1,31 @@
+// The logo artwork and the section dividers differ by language and theme.
+@each $brand in fisiquimicamente, physichemically, fisiquimicament {
+  body.dark .brand-#{$brand} {
+    content: url('/icon/logo-#{$brand}-dark.svg');
+  }
+}
+
+.theme-divider {
+  --divider-image: url('/media/divider.svg');
+  background-image: var(--divider-image);
+}
+
+body.dark .theme-divider {
+  --divider-image: url('/media/divider-dark.svg');
+}
+
+html:lang(en) .theme-divider {
+  --divider-image: url('/media/divider-en.svg');
+}
+
+html:lang(en) body.dark .theme-divider {
+  --divider-image: url('/media/divider-en-dark.svg');
+}
+
+#featured-image {
+  border: 5px solid var(--border-light, currentColor);
+}
+
+body.dark #featured-image {
+  border-color: var(--border-dark, currentColor);
+}

@@ -44,6 +44,21 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+mediaTypes:
+  text/netlify:
+    delimiter: ''
+    suffixes: ['']
+outputFormats:
+  headers:
+    baseName: _headers
+    isPlainText: true
+    mediatype: text/netlify
+    notAlternative: true
+  redirects:
+    baseName: _redirects
+    isPlainText: true
+    mediatype: text/netlify
+    notAlternative: true
 imaging:
   resampleFilter: lanczos
   quality: 75
@@ -56,8 +71,13 @@ taxonomies:
   author: authors
 capitalizeListTitles: false
 markup:
-  _merge: deep
   goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+        title: true
     extensions:
       passthrough:
         enable: true
@@ -82,8 +102,14 @@ markup:
           enable: true
         superscript:
           enable: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 3
   highlight:
     lineNos: false
+    lineNumbersInTable: false
+    noClasses: false
+    guessSyntax: true
 related:
   threshold: 80
   includeNewer: true
@@ -98,9 +124,10 @@ related:
     - name: categories
       weight: 40
 security:
-  _merge: deep
+  funcs:
+    getenv: [^HUGO_, ^WC_]
 sitemap:
-  _merge: deep
+  changefreq: weekly
 minify:
   disableHTML: true
 privacy:

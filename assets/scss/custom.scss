@@ -50,11 +50,6 @@ body.dark {
 .breadcrumb {
   margin-top: -0.5rem;
   margin-bottom: -0.5rem;
-
-  @include media-breakpoint-down(md) {
-    margin-top: -0.5rem;
-    margin-bottom: -0.5rem;
-  }
 }
 
 .breadcrumb.breadcrumb-widget {
@@ -82,7 +77,7 @@ h4,
 h5,
 h6 {
   color: $nord0;
-  // text-shadow: #E66C2C 1px 0 10px;
+
 }
 
 h2 {
@@ -122,7 +117,7 @@ code {
   background: $nord4;
   color: $nord0;
   border-radius: 0.5em;
-  //  border: 1px solid $primary;
+
   overflow-x: auto;
   padding: 0.2em 0.4em;
 }
@@ -365,97 +360,31 @@ blockquote {
  *  Tables
  **************************************************/
 
-/* Based on Bootstrap's `table-responsive` style. */
-table > thead > tr > th {
-  color: $primary;
-}
-
-.dark table > thead > tr > th {
-  color: $nord6;
-}
-
-table > thead > tr > th,
-table > tbody > tr > th,
-table > tfoot > tr > th,
-table > thead > tr > td,
-table > tbody > tr > td,
-table > tfoot > tr > td {
-  border-top: 0px solid $primary;
-}
-
-.dark table > thead > tr > th,
-.dark table > tbody > tr > th,
-.dark table > tfoot > tr > th,
-.dark table > thead > tr > td,
-.dark table > tbody > tr > td,
-.dark table > tfoot > tr > td {
-  border-top: 0px solid $nord6;
-}
-
 // Bordes estilo booktabs
-table > thead {
-  border-top: 2px solid $primary;
+@mixin table-colors($rule, $stripe, $hover-text) {
+  > thead { border-top: 2px solid $rule; }
+  > thead > tr > th {
+    color: $rule;
+    border-bottom: 1px solid $rule;
+  }
+  > tbody { border-bottom: 2px solid $rule; }
+  > tbody + tbody { border-top: 2px solid $rule; }
+  > :is(thead, tbody, tfoot) > tr > :is(th, td) { border-top: 0 solid $rule; }
+  > tbody > tr:nth-child(odd) > :is(td, th) { background-color: $stripe; }
+  > tbody > tr:hover > :is(td, th) {
+    color: $hover-text;
+    background-color: $rule;
+  }
 }
 
-.dark table > thead {
-  border-top: 2px solid $nord6;
-}
+table { @include table-colors($primary, $nord4, $sta-background); }
+.dark table { @include table-colors($nord6, $nord3, $nord0); }
 
-table > thead > tr > th {
-  border-bottom: 1px solid $primary;
-}
-
-.dark table > thead > tr > th {
-  border-bottom: 1px solid $nord6;
-}
-
-table > tbody {
-  border-bottom: 2px solid $primary;
-}
-
-.dark table > tbody {
-  border-bottom: 2px solid $nord6;
-}
-
-table > tbody + tbody {
-  border-top: 2px solid $primary;
-}
-
-.dark table > tbody + tbody {
-  border-top: 2px solid $nord6;
-}
-
-/* Table Striped */
-table > tbody > tr:nth-child(odd) > td,
-table > tbody > tr:nth-child(odd) > th {
-  background-color: $nord4;
-}
-
-.dark table > tbody > tr:nth-child(odd) > td,
-.dark table > tbody > tr:nth-child(odd) > th {
-  background-color: $nord3;
-}
-
-table#colores-resistencias > tbody > tr:nth-child(odd) > td,
-table#colores-resistencias > tbody > tr:nth-child(odd) > th {
+table#colores-resistencias > tbody > tr:nth-child(odd) > :is(td, th) {
   background-color: initial;
 }
 
-/* Table Hover */
-table > tbody > tr:hover > td,
-table > tbody > tr:hover > th {
-  color: $sta-background;
-  background-color: $primary;
-}
-
-.dark table > tbody > tr:hover > td,
-.dark table > tbody > tr:hover > th {
-  color: $nord0;
-  background-color: $nord6;
-}
-
-table#colores-resistencias > tbody > tr:hover > td,
-table#colores-resistencias > tbody > tr:hover > th {
+table#colores-resistencias > tbody > tr:hover > :is(td, th) {
   color: $sta-background;
   background-color: $primary;
 }
@@ -768,7 +697,7 @@ mark,
   background-color: $nord8;
   color: $nord0;
   border-radius: 0.5em;
-  //  border: 1px solid $primary;
+
   overflow-x: auto;
   padding: 0.2em 0.4em;
 }
@@ -1209,22 +1138,19 @@ ul.subscribe li:hover i {
   color: $nord6;
 }
 
-div.card-text p a {
-  text-decoration: underline;
-}
-
+div.card-text p a,
 .dark div.card-text p a {
   text-decoration: underline;
 }
 
 .section-subheading {
   color: $primary;
-  // text-shadow: #E66C2C 1px 0 10px;
+
 }
 
 .dark .section-subheading {
   color: $nord6;
-  // text-shadow: #E66C2C 1px 0 10px;
+
 }
 
 .dark .card .section-subheading a {
@@ -1312,12 +1238,12 @@ div.card-text p a {
 .hero-lead {
   color: $nord0;
   font-family: $sta-font-heading, sans-serif;
-  // text-shadow: #E66C2C 1px 0 10px;
+
 }
 
 .dark .hero-lead {
   color: $nord6;
-  // text-shadow: #E66C2C 1px 0 10px;
+
 }
 
 .hero-cta-alt {
@@ -1341,10 +1267,7 @@ div.card-text p a {
  **************************************************/
 
 .wg-hero.dark .hero-title,
-.wg-hero.dark .hero-lead {
-  color: $nord0;
-}
-
+.wg-hero.dark .hero-lead,
 .wg-hero.dark .btn {
   color: $nord0;
 }
@@ -1518,10 +1441,7 @@ ul.ul-edu li .description p.institution {
   color: $nord6;
 }
 
-.docs-sidebar .nav > .active > a {
-  color: $nord8;
-}
-
+.docs-sidebar .nav > .active > a,
 .docs-sidebar .nav > .active > a:hover {
   color: $nord8;
 }
@@ -1531,7 +1451,7 @@ ul.ul-edu li .description p.institution {
 /* Docs links. */
 .dark .docs-toggle {
   color: $nord6;
-  }
+}
 
 #TableOfContents {
   border-left: 1px solid $nord3;
@@ -1685,25 +1605,10 @@ p.kudos {
   display: none;
   max-width: 720px;
   margin: 0 auto;
-  //  background-color: $primary;
-  //  color: #ffffff;
-  //  border-top: 3px solid $primary;
+
+
+
 }
-
-//#popup-index {
-//  padding: 1.25rem 0 0 0;
-//}
-
-//#popup-close {
-//  padding: 1.25rem 0 0 1.25rem;
-//  margin-left: auto;
-//  cursor: pointer;
-//  color: #f7f056;
-//}
-
-//#popup-close:hover {
-//  background-color: $primary;
-//}
 
 #popup-content {
   max-width: 720px;
@@ -1860,66 +1765,6 @@ div#button-load {
   z-index: 100;
 }
 
-/*************************************************
- *  Speedlify
- **************************************************/
-
-// speedlify-score {
-// 	display: flex;
-// 	align-items: center;
-//   justify-content: center;
-// }
-// /* The Lighthouse scoring circles */
-// .speedlify-score {
-// 	font-size: 0.8125em; /* 13px /16 */
-// 	min-width: 2.6em;
-// 	height: 2.6em;
-// 	line-height: 1;
-// 	display: inline-flex;
-// 	align-items: center;
-// 	justify-content: center;
-// 	border-radius: 50%;
-// 	//border: 2px solid #038901;
-// 	color: black;
-//   background-color: $nord14;
-// 	margin-left: 0.4615384615385em; /* 6px /13 */
-// }
-// .speedlify-score-ok {
-// 	background-color: $nord13;
-// 	//border-color: currentColor;
-// }
-// .speedlify-score-bad {
-// 	background-color: $nord11;
-// 	//border-color: currentColor;
-// }
-// .speedlify-rank:before {
-// 	content: "Rank #";
-// }
-// .speedlify-rank-change {
-// 	font-size: 0.8125em; /* 13px /16 */
-// }
-// .speedlify-rank-change:before {
-// 	line-height: 1;
-// }
-// .speedlify-rank-change.up {
-// 	color: green;
-// }
-// .speedlify-rank-change.up:before {
-// 	content: "⬆";
-// }
-// .speedlify-rank-change.down {
-// 	color: red;
-// }
-// .speedlify-rank-change.down:before {
-// 	content: "⬇";
-// }
-// speedlify-score > :not(.speedlify-score) {
-// 	margin-left: 0.625em; /* 10px /16 */
-// }
-// speedlify-score > :first-child {
-// 	margin-left: 0;
-// }
-
 details p {
   margin-left: 0;
   padding-left: 0;
@@ -1932,9 +1777,8 @@ details p {
 
 .spoiler {
   background-color: $nord4;
-  border: 1px solid transparent;
+  border: 1px solid $nord0;
   border-radius: 8px;
-  border-color: $nord0;
   padding: 16px 16px 8px;
 }
 
@@ -1955,3 +1799,5 @@ details p {
   background-color: $nord8;
   color: $nord0;
 }
+
+@import "theme-images";

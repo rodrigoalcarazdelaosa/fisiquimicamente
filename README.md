@@ -44,3 +44,16 @@ de codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener"
 <a href="https://hugoblox.com/sponsor/?aff=K4VGj">Uneix-te a <strong><em>All Access</em></strong> per desbloquejar blox i plantilles exclusives</a>.
 
 Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener">GitHub</a> · Servit per <a href="https://pages.cloudflare.com" target="_blank" rel="noopener">Cloudflare Pages</a>.
+
+
+## Desarrollo local
+
+Usa Hugo Extended 0.152.2, la versión indicada en `.hvm` y en el flujo de publicación. Las plantillas y los *shortcodes* derivados de Hugo Blox se mantienen en `layouts/`, y sus estilos y scripts en `assets/`. Hugo puede compilar las tres ediciones desde un clon limpio. Las bibliotecas especializadas, entre ellas MathJax y Reveal.js, se cargan desde sus CDN.
+
+```sh
+bash view.sh                # Vista previa
+source get_last_commit_hash.sh && hugo --minify
+node --test tests/*.test.mjs workers/notes-tutor/test/*.test.mjs
+```
+
+La compilación genera `public/es/`, `public/en/` y `public/ca/`. El despliegue a Cloudflare Pages se activa al subir cambios a `main`.
