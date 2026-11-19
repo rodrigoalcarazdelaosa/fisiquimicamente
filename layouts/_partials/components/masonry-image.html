@@ -1,0 +1,8 @@
+{{ $image := .image }}
+{{ $is_svg := eq $image.MediaType.Type "image/svg+xml" }}
+{{ if not $is_svg }}
+  {{ $image = $image.Resize "550x" }}
+  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+{{ end }}
+<img src="{{ $image.RelPermalink }}" {{ if $is_svg }}width="550"{{ else }}height="{{ $image.Height }}" width="{{ $image.Width }}"{{ end }}
+     alt="{{ .alt }}" class="img-responsive" loading="lazy">

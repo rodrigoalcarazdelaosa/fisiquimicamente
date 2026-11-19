@@ -64,7 +64,7 @@
 {{ $theme_color := ($scr.Get "primary") | default site.Params.appearance.primary_color | default "#fff" }}
 <meta name="theme-color" content="{{ $theme_color }}" />
 
-{{/* Get page image for social sharing. */}}
+{{/* Get the page image for social sharing. Pages with SVGs use the site's sharing image. */}}
 {{ $sharing_image := resources.GetMatch (path.Join "media" "sharing.*") }}
 {{ $sharing_image_en := resources.GetMatch (path.Join "media" "sharing-en.*") }}
 {{ $sharing_image_ca := resources.GetMatch (path.Join "media" "sharing-ca.*") }}
@@ -78,7 +78,7 @@
   {{/* Match image processing in About widget to prevent generating more images than necessary. */}}
   {{ $og_image = ($avatar_image.Fill "270x270 Center").Permalink }}
   {{ $twitter_card = "summary" }}
-{{ else if $featured_image }}
+{{ else if and $featured_image (ne $featured_image.MediaType.Type "image/svg+xml") }}
   {{ $og_image = $featured_image.Permalink }}
 {{ else if $sharing_image }}
     {{ if eq .Site.Language.Lang "es" }}

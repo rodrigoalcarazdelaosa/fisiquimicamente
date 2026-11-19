@@ -28,11 +28,8 @@
   </a>
   {{ end }}
   {{ with $resource }}
-  {{ $image := .Resize "550x" }}
-  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
   <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
-    <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-         alt="{{ $item.Title }}" class="img-responsive" loading="lazy">
+    {{ partial "components/masonry-image.html" (dict "image" . "alt" $item.Title) }}
   </a>
   {{ end }}
   <div class="card-text">
