@@ -16,7 +16,7 @@ breadcrumbs: [""]
 [^2]: Se enlazan también sus respectivas políticas de privacidad.
 
 - [<img draggable="false" class="icon" alt="github" src="/icon/github.svg"> GitHub](https://docs.github.com/es/github/site-policy/github-privacy-statement) para el alojamiento de su [código fuente](https://github.com/rodrigoalcarazdelaosa/fisiquimicamente).
-- [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) para su despliegue/servicio y para las analíticas web.
+- [<img draggable="false" class="icon" alt="cloudflare" src="/icon/cloudflare.svg"> Cloudflare](https://www.cloudflare.com/es-es/privacypolicy/) para su despliegue/servicio, el tutor IA y las analíticas web.
 - [<img draggable="false" class="icon" alt="formspree" src="/icon/formspree.svg"> Formspree](https://formspree.io/legal/privacy-policy/) para el [formulario de contacto](/#contacto).
 - [<img draggable="false" class="icon" alt="google-fonts" src="/icon/google-fonts.svg"> Google Fonts](https://policies.google.com/privacy) para tipografías[^3].
 - [<img draggable="false" class="icon" alt="paypal" src="/icon/paypal.svg"> Paypal](https://www.paypal.com/es/webapps/mpp/ua/privacy-full) para los *cafés* ([donativos](/donativos))[^4].
