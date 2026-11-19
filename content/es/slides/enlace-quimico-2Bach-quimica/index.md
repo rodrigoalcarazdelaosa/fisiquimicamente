@@ -165,7 +165,7 @@ El cálculo de esta energía se puede hacer mediante el [**ciclo de Born-Haber**
 
 ---
 
-##### ¿En qué **estado** están los **elementos más comunes** de la tabla periódica a **temperatura ambiente**?"
+##### ¿En qué **estado** están los **elementos más comunes** de la tabla periódica a **temperatura ambiente**?
 
 | Elemento | Estado a *T* ambiente | Forma |
 | -------- | ------ | :-------: |
