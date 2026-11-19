@@ -202,14 +202,15 @@ En el **laboratorio**, es habitual tener que obtener una disolución de menor co
 
 ---
 
-Dada la densidad, $d_0$, y la riqueza (concentración), $c_0$, de la disolución comercial, podemos calcular el volumen de disolución comercial, $V_0$, necesario para obtener un volumen $V>V_0$ de disolución diluida con una concentración $c<c_0$:
+Dada la densidad, $d_0$, y la riqueza (concentración), $c_0$, de la disolución comercial, podemos calcular el volumen de disolución comercial, $V_0$, necesario para obtener un volumen $V>V_0$ de disolución diluida con una concentración $c < c_0$:
 
 ---
 
 1. Obtenemos la cantidad de soluto necesaria a partir del volumen, $V$, y de la concentración, $c$, de la disolución deseada. Suponiendo $c$ expresada como molaridad:
   $$
-  c = \frac{n_\mathrm s}{V} \rightarrow n_\mathrm s = c\cdot V \rightarrow m_\mathrm s = n_\mathrm s\cdot M_\mathrm s\text{ (masa molar del soluto)}
+  c = \frac{n_\mathrm s}{V} \rightarrow n_\mathrm s = c\cdot V \rightarrow m_\mathrm s = n_\mathrm s\cdot M_\mathrm s,
 	$$
+  siendo $M_\mathrm s$ la masa molar del soluto.
 
 ---
 

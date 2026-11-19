@@ -26,7 +26,7 @@ image:
 
 links:
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: disoluciones-poster.pdf
 - icon_pack: fas
@@ -76,7 +76,7 @@ c = \frac{m_\text{soluto}}{V_\text{disolución}}
 $$
 
 Suele expresarse en g/L.
-		
+
 ### Molaridad
 $$
 M = \frac{\text{cantidad de soluto (moles)}}{\text{volumen de disolución}}
@@ -136,15 +136,16 @@ Para **solutos sólidos** disueltos en disolventes líquidos, pesamos la **masa*
 ### Dilución de disoluciones
 Es el proceso mediante el cual se disminuye la concentración de una disolución, típicamente añadiendo más disolvente (aumentando el volumen total). Se cumple que:
 $$
-c_0V_0 = cV,	
+c_0V_0 = cV,
 $$
 
-donde $c$ representa concentración, $V$ volumen de disolución y el subíndice 0 hace referencia a la disolución inicial. En el **laboratorio**, es habitual tener que obtener una disolución de menor concentración a partir de una disolución comercial más concentrada. Dada la densidad, $d_0$, y la riqueza (concentración), $c_0$, de la disolución comercial, podemos calcular el volumen de disolución comercial, $V_0$, necesario para obtener un volumen $V>V_0$ de disolución diluida con una concentración $c<c_0$:
+donde $c$ representa concentración, $V$ volumen de disolución y el subíndice 0 hace referencia a la disolución inicial. En el **laboratorio**, es habitual tener que obtener una disolución de menor concentración a partir de una disolución comercial más concentrada. Dada la densidad, $d_0$, y la riqueza (concentración), $c_0$, de la disolución comercial, podemos calcular el volumen de disolución comercial, $V_0$, necesario para obtener un volumen $V>V_0$ de disolución diluida con una concentración $c < c_0$:
 
 1. Obtenemos la cantidad de soluto necesaria a partir del volumen, $V$, y de la concentración, $c$, de la disolución deseada. Suponiendo $c$ expresada como molaridad:
   $$
-  c = \frac{n_\mathrm s}{V} \rightarrow n_\mathrm s = c\cdot V \rightarrow m_\mathrm s = n_\mathrm s\cdot M_\mathrm s\text{ (masa molar del soluto)}
+  c = \frac{n_\mathrm s}{V} \rightarrow n_\mathrm s = c\cdot V \rightarrow m_\mathrm s = n_\mathrm s\cdot M_\mathrm s,
 	$$
+  siendo $M_\mathrm s$ la masa molar del soluto.
 2. Obtenemos la cantidad de disolución comercial necesaria a partir de la riqueza, $c_0$. Suponiendo la riqueza expresada en porcentaje en masa:
   $$
   c_0 = \frac{m_\mathrm s}{m_0}\cdot 100 \rightarrow m_0 = \frac{m_\mathrm s}{c_0}\cdot 100
@@ -168,7 +169,7 @@ Propiedades que dependen únicamente de la concentración de soluto, y no de su 
 
 Se define la **presión de vapor** como la presión ejercida por un vapor en equilibrio termodinámico con sus fases condensadas (líquida o sólida) a una temperatura determinada en un sistema cerrado. En 1887, el químico francés François-Marie **Raoult** propone que la presión parcial de cada componente de una disolución ideal de líquidos, $p$, es igual a la presión de vapor del componente puro, $p^0$, multiplicada por su fracción molar, $\chi$.
 
-{{< figure library="true" src="disoluciones-1Bach/ley-raoult.svg" title="Traducida y adaptada de https://psiberg.com/colligative-properties-of-solutions/." lightbox="false" width="100%" >}}			
+{{< figure library="true" src="disoluciones-1Bach/ley-raoult.svg" title="Traducida y adaptada de https://psiberg.com/colligative-properties-of-solutions/." lightbox="false" width="100%" >}}
 
 En consecuencia, la disminución relativa de la presión de vapor de una disolución diluida de un soluto no volátil es igual a la fracción molar del soluto en la disolución:
 $$
@@ -192,12 +193,12 @@ $$
 
 donde $\Delta T_\mathrm e = T_\mathrm e-T_\mathrm e^0$ es el aumento del punto de ebullición, $K_\mathrm e$ es la constante ebulloscópica (característica de cada disolvente) y $m$ es la molalidad (mol/kg).
 
-### Presión osmótica		
+### Presión osmótica
 
 La **presión osmótica** de una disolución, $\Pi$, es la **diferencia** de **presión** entre la **disolución** y el **disolvente puro** cuando ambos están en equilibrio a través de una membrana semipermeable, que permite el paso de moléculas del disolvente pero no del soluto. Las **leyes** que gobiernan la **osmosis** fueron descubiertas por [**Pfeffer**](https://es.wikipedia.org/wiki/Wilhelm_Friedrich_Philipp_Pfeffer) y [**van 't Hoff**](https://es.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff):
 
 1. La presión osmótica de una disolución a temperatura constante es directamente proporcional a su concentración.
-2. La presión osmótica de una disolución es directamente proporcional a su temperatura absoluta.				
+2. La presión osmótica de una disolución es directamente proporcional a su temperatura absoluta.
 
 {{< figure library="true" src="disoluciones-1Bach/presion-osmotica.svg" title="Traducida y adaptada de https://psiberg.com/colligative-properties-of-solutions/." lightbox="false" width="100%" >}}
 
