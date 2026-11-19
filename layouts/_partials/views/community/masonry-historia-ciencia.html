@@ -22,10 +22,7 @@
 
 <div class="card">
   {{ with $resource }}
-  {{ $image := .Resize "550x" }}
-  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-    <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-         alt="{{ $item.Title }}" class="img-responsive" loading="lazy">  
+    {{ partial "components/masonry-image.html" (dict "image" . "alt" $item.Title) }}
   {{ end }}
   <div class="card-text">
     <h4>{{ $item.Title | markdownify | emojify }}</h4>

@@ -40,24 +40,23 @@
 {{/* Featured image layout */}}
 {{ if and $featured (not .Params.image.preview_only) }}
 
-{{/* Fit image within max size. */}}
 {{ $image := $featured }}
+{{ $is_svg := eq $image.MediaType.Type "image/svg+xml" }}
 
-{{/* Determine image placement. */}}
-{{ $placement := .Params.image.placement | default 1 }}{{/* Default to full column width. */}}
-{{/* Fit image to container's max width */}}
-{{ $image_container := "" }}
-{{ if eq $placement 2}}
+{{ $placement := .Params.image.placement | default 1 }}
+{{ $image_container := "article-container" }}
+{{ $max_width := 720 }}
+{{ if eq $placement 2 }}
   {{ $image_container = "container" }}
-  {{ $image = $featured.Fit "1200x2500" }}
-{{else if eq $placement 3}}
+  {{ $max_width = 1200 }}
+{{ else if eq $placement 3 }}
   {{ $image_container = "container-fluid" }}
-  {{ $image := $featured.Fit "2560x2560" }}
-{{else}}
-  {{ $image_container = "article-container" }}
-  {{ $image = $featured.Fit "720x2500" }}
-{{end}}
-{{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+  {{ $max_width = 2560 }}
+{{ end }}
+{{ if not $is_svg }}
+  {{ if ne $placement 3 }}{{ $image = $image.Fit (printf "%dx2500" $max_width) }}{{ end }}
+  {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+{{ end }}
 
 <div class="article-container pt-3">
 
@@ -292,11 +291,19 @@
 </div>
 
 {{/* Featured image */}}
-<div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
+<div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4"
+     style="{{ if $is_svg }}max-width: {{ $max_width }}px;{{ else }}max-width: {{ $image.Width }}px; max-height: {{ $image.Height }}px;{{ end }}">
   <div style="position: relative">
-    {{ $lightest := index (sort $image.Colors "Luminance" "desc") 0 }}
-    {{ $darkest := index (sort $image.Colors "Luminance") 0 }}
-    <img id="featured-image" data-light = "{{ $darkest }}" data-dark = "{{ $lightest }}" style = "border: 5px solid {{ $darkest }}" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
+    <img id="featured-image" src="{{ $image.RelPermalink }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image"
+      {{ if $is_svg }}
+        style="border: 5px solid currentColor"
+      {{ else }}
+        {{ $lightest := index (sort $image.Colors "Luminance" "desc") 0 }}
+        {{ $darkest := index (sort $image.Colors "Luminance") 0 }}
+        data-light="{{ $darkest }}" data-dark="{{ $lightest }}" style="border: 5px solid {{ $darkest }}"
+        width="{{ $image.Width }}" height="{{ $image.Height }}"
+      {{ end }}>
+    {{ if not $is_svg }}
     <script>
 			document.addEventListener('wcThemeChange', (e) => {
 			  // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
@@ -307,6 +314,7 @@
 			  }
 			  });
 		</script>
+    {{ end }}
     {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
   </div>
 </div>
