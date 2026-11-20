@@ -50,6 +50,8 @@ Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" 
 
 Instala Hugo estándar (la versión indicada en `.hvm`) y Dart Sass 1.98.0 para compilar los estilos. Los ejecutables `hugo` y `sass` deben estar en el `PATH`. Puedes comprobar las versiones con `hugo version` y `sass --embedded --version`.
 
+Si usas otra versión de Hugo en otros proyectos, puedes guardar el ejecutable de este sitio en `.local/bin/hugo` y ejecutar `PATH="$PWD/.local/bin:$PATH" bash view.sh` desde la raíz.
+
 Las plantillas y los *shortcodes* derivados de Hugo Blox se mantienen en `layouts/`, y sus estilos y scripts en `assets/`. Hugo puede compilar las tres ediciones desde un clon limpio. Las bibliotecas especializadas, entre ellas MathJax y Reveal.js, se cargan desde sus CDN.
 
 ```sh

@@ -76,7 +76,7 @@
   <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-tags mr-1"></i>     -->
-    🏷️&nbsp;{{- range $index, $value := sort ($page.GetTerms "tags") ".Page.Title" "asc" -}}
+    🏷️&nbsp;{{- range $index, $value := partial "functions/sorted_tags.html" $page -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- end -}}
