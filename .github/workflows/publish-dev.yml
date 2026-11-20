@@ -19,11 +19,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Instalar Hugo Extended
-        run: |
-          version=$(cat .hvm)
-          curl -fsSL "https://github.com/gohugoio/hugo/releases/download/${version}/hugo_extended_${version#v}_linux-amd64.deb" -o "$RUNNER_TEMP/hugo.deb"
-          sudo dpkg -i "$RUNNER_TEMP/hugo.deb"
+      - name: Instalar Hugo y Dart Sass
+        run: bash .github/scripts/install-hugo.sh
 
       - name: Compilar la vista previa
         env:

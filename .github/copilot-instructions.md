@@ -1,7 +1,7 @@
 # Copilot instructions for this repo
 
 ## Big picture
-- Static site built with Hugo Extended with local templates based on Hugo Blox. Multi‑lingual: Spanish (es), English (en), Catalan (ca).
+- Static site built with standard Hugo and Dart Sass, using local templates based on Hugo Blox. Multi‑lingual: Spanish (es), English (en), Catalan (ca).
 - Key config in `config/_default/*.yaml`.
 - Custom theming/overrides live in `assets/` (SCSS/JS) and `layouts/` (partials, components). Content per language in `content/{es,en,ca}`.
 - Output is generated to `public/` with language subfolders (`public/es`, `public/en`, `public/ca`).
@@ -11,7 +11,7 @@
   - `view.sh` (desktop): exports last git hash and runs `hugo server --renderStaticToDisk --disableFastRender --printI18nWarnings --buildFuture`.
   - `view_mobile.sh` (LAN/mobile): binds to local IP and sets `--baseURL`.
   - Both source `get_last_commit_hash.sh` to set `HUGOxPARAMSxGITxLAST_COMMIT*` env vars for templates.
-- Build (CI parity): `hugo --gc --minify` (CI pins Hugo to 0.152.2).
+- Build (CI parity): `hugo --gc --minify`. CI installs the Hugo version in `.hvm` and the Dart Sass version in `.github/scripts/install-hugo.sh`.
 
 ## Deployment
 - GitHub Actions: `.github/workflows/publish-CFP.yml` runs on `push` to `main`.
@@ -47,7 +47,7 @@
 - Preserve multilingual behavior and menus; update all three `menus.*.yaml` if changing navigation.
 - When editing partials, keep compatibility with Blox helpers (`partial "blox-core/functions/..."`) and existing params (`site.Params.header.*`).
 - Prefer `assets/` for CSS/JS so Hugo pipelines fingerprint/minify in production.
-- Validate locally with `view.sh`. If CI fails locally, pin your Hugo version to 0.152.2 for parity.
+- Validate locally with `view.sh` using the same Hugo and Dart Sass versions as CI.
 - Verify that all three language sites build in `public/{es,en,ca}`.
 
 ## Key files
