@@ -48,7 +48,9 @@ Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" 
 
 ## Desarrollo local
 
-Usa Hugo Extended 0.152.2, la versión indicada en `.hvm` y en el flujo de publicación. Las plantillas y los *shortcodes* derivados de Hugo Blox se mantienen en `layouts/`, y sus estilos y scripts en `assets/`. Hugo puede compilar las tres ediciones desde un clon limpio. Las bibliotecas especializadas, entre ellas MathJax y Reveal.js, se cargan desde sus CDN.
+Instala Hugo estándar (la versión indicada en `.hvm`) y Dart Sass 1.98.0 para compilar los estilos. Los ejecutables `hugo` y `sass` deben estar en el `PATH`. Puedes comprobar las versiones con `hugo version` y `sass --embedded --version`.
+
+Las plantillas y los *shortcodes* derivados de Hugo Blox se mantienen en `layouts/`, y sus estilos y scripts en `assets/`. Hugo puede compilar las tres ediciones desde un clon limpio. Las bibliotecas especializadas, entre ellas MathJax y Reveal.js, se cargan desde sus CDN.
 
 ```sh
 bash view.sh                # Vista previa
