@@ -53,13 +53,6 @@
       {{ end }}
     {{ end }}
   {{ end }}
-  {{ if eq .Type "landing" }}
-    {{ range .Params.sections }}
-      {{ with .content.text }}
-        {{ if findRE `\{\{<\s*gallery\b` . 1 }}{{ $has_gallery = true }}{{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
   {{ if or $has_gallery site.Params.require_fancybox }}
     {{ .Page.Store.Set "has_gallery" true }}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.min.css" integrity="sha384-CKeYI6jsYBV4DV34zRfxht32qlPolZvokUknVb7SnE4PCoiTTqCN47Tr+hQAKkXY" crossorigin="anonymous">

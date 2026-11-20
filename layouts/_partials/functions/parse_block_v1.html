@@ -112,7 +112,7 @@
 {{end}}
 
 {{ $columns := $block.Params.design.columns | default "2" }}
-{{ $use_cols := in (slice "collection" "experience" "experience-estancias" "experience-trayectoria" "accomplishments" "contact" "markdown" "tag_cloud" "portfolio") $block_type }}
+{{ $use_cols := in (slice "collection" "experience-estancias" "experience-trayectoria" "contact" "markdown" "portfolio") $block_type }}
 
 {{/* Dedicated child div for bg prevents parallax 100% height issue within new CSS grid page wrapper. */}}
 <section id="{{$hash_id}}" class="home-section {{$widget_class}} {{if $bg.text_color_light}}dark{{else if (eq $bg.text_color_light false)}}light{{end}} {{with $css_classes}}{{.}}{{end}}" {{with $style}}style="{{. | safeCSS}}"{{end}} {{print $extra_attributes | safeHTMLAttr}}>
