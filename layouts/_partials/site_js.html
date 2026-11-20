@@ -48,8 +48,6 @@
       </div>
     </div>
   </template>
-  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.fuse.url $js.fuse.version) $js.fuse.sri | safeHTML }}
-  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.mark.url $js.mark.version) $js.mark.sri | safeHTML }}
 {{ else if eq $search_provider "algolia" }}
   {{/* Algolia search result template. */}}
   <script id="search-hit-algolia-template" type="text/html">
@@ -147,11 +145,14 @@
 {{ end -}}
 
 {{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied") }}
-{{ $js_params := dict "hugoEnvironment" hugo.Environment "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) "i18n" $i18n }}
+{{ $js_params := dict "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) "i18n" $i18n }}
 {{ $main := resources.Get "js/wowchemy.js" | js.Build (dict "params" $js_params "minify" hugo.IsProduction) }}
 {{ $bundle := slice $main }}
 {{ if eq $search_provider "wowchemy" }}
-  {{ $search := resources.Get "js/wowchemy-search.js" | js.Build (dict "params" $js_search_params "minify" hugo.IsProduction) }}
+  {{ $libraries := dict
+    "fuse" (dict "url" (printf $js.fuse.url $js.fuse.version) "integrity" $js.fuse.sri)
+    "mark" (dict "url" (printf $js.mark.url $js.mark.version) "integrity" $js.mark.sri) }}
+  {{ $search := resources.Get "js/wowchemy-search.js" | js.Build (dict "params" (merge $js_search_params (dict "libraries" $libraries)) "minify" hugo.IsProduction) }}
   {{ $bundle = $bundle | append $search }}
 {{ end }}
 {{ range site.Params.plugins_js }}

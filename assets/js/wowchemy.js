@@ -5,7 +5,6 @@ import {scrollParentToChild} from './wowchemy-utils';
 import {initNavigation, scrollToAnchor} from './wowchemy-navigation';
 import {initCarousels} from './wowchemy-carousel';
 import {initTooltips} from './tooltips';
-import {showLatestReleases} from './wowchemy-github';
 import {changeThemeModeClick, initThemeVariation, renderThemeVariation, onMediaQueryListEvent} from './wowchemy-theming';
 
 function initSearchDialog() {
@@ -128,8 +127,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const sidebar = document.querySelector('.docs-links');
   const current = sidebar?.querySelector('.active');
   if (current) scrollParentToChild(sidebar, current);
-
-  showLatestReleases();
 });
 
 window.addEventListener('load', () => {
