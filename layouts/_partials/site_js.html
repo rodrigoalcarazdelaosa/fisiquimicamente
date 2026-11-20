@@ -74,11 +74,6 @@
   {{ printf "<script>docsearch(%s);</script>" ($docsearch_config | jsonify) | safeHTML }}
 {{ end }}
 
-{{/* Charts */}}
-{{ if .HasShortcode "chart" }}
-  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.plotly.url $js.plotly.version) $js.plotly.sri | safeHTML }}
-{{ end }}
-
 {{/* Disqus Comment Count JS. */}}
 {{/* Note: count can appear both in listing previews and on the content page itself. */}}
 {{ $comments_provider := trim (site.Params.features.comment.provider | lower) " " }}

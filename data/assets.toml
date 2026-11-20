@@ -51,10 +51,6 @@
   version = "3.1.1"
   sri = "sha512-yXXqOFjdjHNH1GND+1EO0jbvvebABpzGKD66djnUfiKlYME5HGMUJHoCaeE4D5PTG2YsSJf6dwqyUUvQvS0vaA=="
   url = "https://cdn.jsdelivr.net/gh/osano/cookieconsent@%s/build/cookieconsent.min.js"
-[js.plotly]
-  version = "1.55.2"
-  sri = "sha512-gttPT9uTUiaLBj6XZdcB0ydKXiDaBwstInkN4Qvp1Nz3iwXNc8TTQplIEPIGxyJBDqERjwkKxf2OyO47/0EHbQ=="
-  url = "https://cdn.jsdelivr.net/gh/plotly/plotly.js@v%s/dist/plotly.min.js"
 
 # CSS
 
