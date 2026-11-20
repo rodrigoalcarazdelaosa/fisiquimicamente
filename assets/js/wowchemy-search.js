@@ -1,18 +1,46 @@
-import {search_config, i18n, content_type} from '@params';
+import {search_config, i18n, content_type, libraries} from '@params';
 
 const input = document.querySelector('#search-query');
 const hits = document.querySelector('#search-hits');
 const suggestions = document.querySelector('#search-common-queries');
 const template = document.querySelector('#search-hit-fuse-template');
+const scriptLoads = new Map();
 let engine;
 let timer;
 let generation = 0;
 
+function loadScript({url, integrity}) {
+  if (scriptLoads.has(url)) return scriptLoads.get(url);
+  const loading = new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+    script.src = url;
+    script.integrity = integrity;
+    script.crossOrigin = 'anonymous';
+    script.onload = resolve;
+    script.onerror = () => {
+      script.remove();
+      scriptLoads.delete(url);
+      reject(new Error('Could not load ' + url));
+    };
+    document.head.append(script);
+  });
+  scriptLoads.set(url, loading);
+  return loading;
+}
+
+async function loadIndex() {
+  const response = await fetch(search_config.indexURI);
+  if (!response.ok) throw new Error('Search index: ' + response.status);
+  return response.json();
+}
+
 function loadEngine() {
   if (!engine) {
-    engine = fetch(search_config.indexURI).then(async response => {
-      if (!response.ok) throw new Error('Search index: ' + response.status);
-      return new Fuse(await response.json(), {
+    engine = Promise.all([
+      loadIndex(),
+      loadScript(libraries.fuse),
+    ]).then(([index]) => {
+      return new window.Fuse(index, {
         shouldSort: true, tokenize: true, threshold: search_config.threshold, location: 0,
         distance: 100, maxPatternLength: 32, minMatchCharLength: search_config.minLength,
         keys: [
@@ -24,6 +52,10 @@ function loadEngine() {
     }).catch(error => { engine = null; throw error; });
   }
   return engine;
+}
+
+function loadHighlighter() {
+  return loadScript(libraries.mark).then(() => window.Mark).catch(console.warn);
 }
 
 async function search(force = false) {
@@ -38,7 +70,8 @@ async function search(force = false) {
   if (!query || (!force && query.length < search_config.minLength)) return;
   try {
     const fuse = await loadEngine();
-    if (current !== generation || !document.body.classList.contains('searching')) return;
+    const isCurrent = () => current === generation && document.body.classList.contains('searching');
+    if (!isCurrent()) return;
     const results = fuse.search(query);
     const header = document.createElement(results.length ? 'h3' : 'div');
     header.className = results.length ? 'mt-0' : 'search-no-results';
@@ -53,17 +86,24 @@ async function search(force = false) {
       link.textContent = item.title;
       hit.querySelector('.search-hit-type').textContent = content_type[item.section] ?? item.section;
       hit.querySelector('.search-hit-description').textContent = item.summary;
-      if (window.Mark) new Mark(hit).mark(query);
       fragment.append(hit);
     });
+    const entries = fragment.querySelectorAll('.search-hit');
     hits.replaceChildren(fragment);
+    if (entries.length) {
+      const Mark = await loadHighlighter();
+      if (Mark && isCurrent()) new Mark(entries).mark(query);
+    }
   } catch (error) {
     console.error('Search unavailable', error);
   }
 }
 
 if (input) {
-  input.addEventListener('focus', () => { loadEngine().catch(console.error); });
+  input.addEventListener('focus', () => {
+    loadEngine().catch(console.error);
+    loadHighlighter();
+  });
   input.addEventListener('input', () => {
     ++generation;
     clearTimeout(timer);
