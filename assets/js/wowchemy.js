@@ -116,7 +116,7 @@ function initPortfolio(container) {
   }
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+function initPage() {
   if (document.querySelector('a.footnote-ref')) {
     import(footnotesURL).catch(error => console.error('Could not load footnotes', error));
   }
@@ -149,7 +149,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const sidebar = document.querySelector('.docs-links');
   const current = sidebar?.querySelector('.active');
   if (current) scrollParentToChild(sidebar, current);
-});
+}
+
+// The deferred bundle runs after parsing. Rocket Loader can postpone DOMContentLoaded listeners.
+initPage();
 
 window.addEventListener('load', () => {
   const portfolios = [...document.querySelectorAll('.projects-container.js-layout-masonry')];

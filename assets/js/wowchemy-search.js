@@ -118,6 +118,6 @@ if (input) {
   const initial = new URLSearchParams(location.search).get('q');
   if (initial) {
     input.value = initial;
-    document.addEventListener('DOMContentLoaded', () => search(true));
+    search(true);
   }
 }
