@@ -51,7 +51,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
-[tabindex="-1"]:focus:not(:focus-visible) { outline: 0 !important; }
+[tabindex="-1"]:focus:not(:focus-visible) { outline: 0; }
 
 abbr[title], abbr[data-original-title] {
   text-decoration: underline;

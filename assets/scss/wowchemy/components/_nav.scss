@@ -36,8 +36,8 @@
   font-size: 1rem;
   text-align: left;
   list-style: none;
-  background-color: theme.$menu-primary !important;
-  color: theme.$menu-text !important;
+  background-color: theme.$menu-primary;
+  color: theme.$menu-text;
   z-index: 1032; // I18n dropdown over mobile expanded menu.
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.15);
@@ -50,11 +50,18 @@
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: 400;
-  background-color: theme.$menu-primary !important;
-  color: theme.$menu-text !important;
+  background-color: theme.$menu-primary;
   text-align: inherit;
   white-space: nowrap;
   border: 0;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  color: theme.$menu-text;
+}
+
+.dark .navbar .dropdown-menu .dropdown-item {
+  color: theme.$dark-menu-text;
 }
 
 .dropdown-item:hover,
@@ -190,7 +197,7 @@ html:has(.page-header #navbar-main) {
   }
 
   .navbar-expand-lg .navbar-collapse {
-    display: flex !important;
+    display: flex;
     flex-basis: auto;
   }
 
@@ -239,8 +246,8 @@ html:has(.page-header #navbar-main) {
       }
 
       &.active {
-        font-weight: bold !important;
-        color: theme.$menu-text-active !important;
+        font-weight: bold;
+        color: theme.$menu-text-active;
       }
     }
   }
@@ -251,9 +258,9 @@ html:has(.page-header #navbar-main) {
 
   // Note: dedicated `dropdown-item-active` class to prevent ScrollSpy removing `active` class from language chooser.
   .dropdown-item.active,
-  .dropdown-item-active {
+  .dropdown-item.dropdown-item-active {
     font-weight: bold;
-    color: theme.$menu-text-active !important;
+    color: theme.$menu-text-active;
   }
 }
 
@@ -272,15 +279,15 @@ html:has(.page-header #navbar-main) {
       }
 
       &.active {
-        font-weight: bold !important;
-        color: theme.$dark-menu-text-active !important;
+        font-weight: bold;
+        color: theme.$dark-menu-text-active;
       }
     }
   }
 
   .dropdown-item.active,
-  .dropdown-item-active {
-    color: theme.$dark-menu-text-active !important;
+  .dropdown-item.dropdown-item-active {
+    color: theme.$dark-menu-text-active;
   }
 }
 
@@ -290,7 +297,7 @@ html:has(.page-header #navbar-main) {
   line-height: 1;
   background-color: transparent;
   border-radius: 0.25rem;
-  border: 0 !important;
+  border: 0;
   position: relative; // For z-index clickable mobile logo.
   z-index: 1030;
 }
@@ -301,8 +308,8 @@ html:has(.page-header #navbar-main) {
 
 .navbar-toggler:focus,
 .navbar-toggler:active {
-  outline: none !important;
-  box-shadow: none !important;
+  outline: none;
+  box-shadow: none;
 }
 
 @include breakpoints.down(md) {
@@ -364,28 +371,28 @@ html:has(.page-header #navbar-main) {
   max-width: fit-content; // Must override default responsive image style.
 }
 
-#navbar-main .main-menu-item ul li .nav-link {
+#navbar-main .main-menu-item ul li .nav-link:not(.active) {
   color: theme.$menu-text;
 }
 
-.dark #navbar-main .main-menu-item ul li .nav-link {
+.dark #navbar-main .main-menu-item ul li .nav-link:not(.active) {
   color: theme.$dark-menu-text;
 }
 
 @include breakpoints.down(md) {
   #navbar-main .main-menu-item {
-    text-align: left !important;
+    text-align: left;
     padding-left: 0;
   }
 
   .navbar-collapse {
-    z-index: 1031 !important; // Appear just over navbar.
+    z-index: 1031; // Appear just over navbar.
     position: absolute;
     left: 0;
     top: var(--navbar-height);
     width: 100%;
     background-color: theme.$menu-primary;
-    text-align: center !important;
+    text-align: center;
   }
 
   .dark .navbar-collapse {
@@ -393,22 +400,22 @@ html:has(.page-header #navbar-main) {
   }
 
   #navbar-main .main-menu-item .nav-item {
-    padding: 10px 15px !important;
+    padding: 10px 15px;
   }
 
   #navbar-main .main-menu-item .nav-item .nav-link {
-    padding: 5px 15px !important;
+    padding: 5px 15px;
   }
 }
 
-ul.nav-icons {
+.nav-icons {
   list-style-type: none;
   font-size: 18px;
   padding: 0.5rem 0;
   margin: 0;
 }
 
-ul.nav-icons li {
+.nav-icons :where(li) {
   display: inline;
   padding-right: 1rem;
 }
@@ -422,13 +429,12 @@ ul.nav-icons li.nav-item a.nav-link {
 }
 
 .dark .dropdown-menu {
-  background-color: theme.$dark-menu-primary !important;
-  color: theme.$dark-menu-text !important;
+  background-color: theme.$dark-menu-primary;
+  color: theme.$dark-menu-text;
 }
 
 .dark .dropdown-item {
-  background-color: theme.$dark-menu-primary !important;
-  color: theme.$dark-menu-text !important;
+  background-color: theme.$dark-menu-primary;
 }
 
 /* Navigation bar text */

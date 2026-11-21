@@ -38,7 +38,7 @@ body {
 }
 
 body.no-navbar {
-  margin-top: 0 !important;
+  margin-top: 0;
 }
 
 // PAGE LAYOUT
@@ -180,8 +180,7 @@ a:focus {
   color: theme.$link-hover;
 }
 
-.dark a,
-.dark h3.article-title a:hover {
+.dark a {
   color: theme.$dark-link;
 }
 

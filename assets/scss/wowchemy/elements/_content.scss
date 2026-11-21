@@ -436,10 +436,6 @@ article .article-metadata {
   transition: color 0.6s ease;
 }
 
-.dark .article-title a {
-  color: nord.$nord6 !important;
-}
-
 .article-style a {
   color: nord.$nord10;
 }
@@ -456,12 +452,17 @@ article .article-metadata {
   color: nord.$nord13;
 }
 
+.dark .article-title a,
+.dark .article-title a:is(:hover, :focus) {
+  color: nord.$nord6;
+}
+
 .article-metadata a,
-.article-metadata a:hover {
-  color: nord.$nord3 !important;
+.article-metadata a:is(:hover, :focus) {
+  color: nord.$nord3;
 }
 
 .dark .article-metadata a,
-.dark .article-metadata a:hover {
-  color: nord.$nord4 !important;
+.dark .article-metadata a:is(:hover, :focus) {
+  color: nord.$nord4;
 }

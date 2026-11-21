@@ -167,8 +167,8 @@
 }
 
 @media (min-width: 768px) {
-  .docs-links {
-    display: block !important;
+  .docs-links.collapse {
+    display: block;
   }
 }
 

@@ -27,8 +27,9 @@
 }
 
 /* In page listings, display the linked summaries as normal text except for the hover cursor. */
-a.summary-link {
-  color: nord.$nord3 !important;
+a.summary-link,
+a.summary-link:is(:hover, :focus) {
+  color: nord.$nord3;
   text-decoration: none;
 }
 
@@ -163,8 +164,9 @@ a.summary-link {
   color: #fff;
 }
 
-.dark a.summary-link {
-  color: nord.$nord4 !important;
+.dark a.summary-link,
+.dark a.summary-link:is(:hover, :focus) {
+  color: nord.$nord4;
 }
 
 .dark .card,
