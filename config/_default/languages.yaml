@@ -2,14 +2,14 @@
 es:
   baseURL: "https://fisiquimicamente.com/"
   weight: 1
-  languageCode: es
+  locale: es
   contentDir: content/es
 
 # Inglés
 en:
   baseURL: "https://physichemically.com/"
   weight: 2
-  languageCode: en
+  locale: en
   contentDir: content/en
   title: PhysiChemically
   permalinks:
@@ -30,7 +30,7 @@ en:
 ca:
   baseURL: "https://fisiquimicament.com/"
   weight: 3
-  languageCode: ca
+  locale: ca
   contentDir: content/ca
   title: FisiQuímicament
   params:

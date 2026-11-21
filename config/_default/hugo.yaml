@@ -60,8 +60,13 @@ outputFormats:
     notAlternative: true
 imaging:
   resampleFilter: lanczos
-  quality: 75
   anchor: smart
+  avif:
+    quality: 75
+  jpeg:
+    quality: 75
+  webp:
+    quality: 75
 timeout: 100000
 taxonomies:
   tag: tags
