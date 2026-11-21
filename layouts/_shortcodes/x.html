@@ -1,0 +1,28 @@
+{{- $privacy := site.Config.Privacy.X -}}
+{{- if not $privacy.Disable -}}
+  {{- if $privacy.Simple -}}
+    {{- template "_shortcodes/x_simple.html" . -}}
+  {{- else -}}
+    {{- $id := .Get "id" -}}
+    {{- $user := .Get "user" -}}
+    {{- if not (and $id $user) -}}
+      {{- errorf "The x shortcode requires user and id at %s" .Position -}}
+    {{- else -}}
+      {{- $url := printf "https://x.com/%v/status/%v" $user $id -}}
+      {{- $request := printf "https://publish.x.com/oembed?%s" (querify "url" $url "dnt" $privacy.EnableDNT) -}}
+      {{- $result := try (resources.GetRemote $request) -}}
+      {{- with $result.Value -}}
+        {{- $html := (. | transform.Unmarshal).html -}}
+        {{- if in $html `class="twitter-tweet"` -}}
+          {{- $.Page.Store.Set "has_deferred_embeds" true -}}
+          {{- $html = replace $html `class="twitter-tweet"` `data-x-post` -}}
+          {{- $html = replaceRE `(?is)<script\s+[^>]*src="https://platform\.twitter\.com/widgets\.js"[^>]*>\s*</script>` "" $html -}}
+        {{- end -}}
+        {{- $html | safeHTML -}}
+      {{- else -}}
+        {{- warnidf "shortcode-x-getremote" "Unable to retrieve the X post at %s: %v" .Position $result.Err -}}
+        <a href="{{ $url }}">@{{ $user }}</a>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

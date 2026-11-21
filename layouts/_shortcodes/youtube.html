@@ -1,2 +1,2 @@
-<script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1/lite-youtube.min.js"></script>
+{{- .Page.Store.Set "has_lite_youtube" true -}}
 <lite-youtube videoid="{{ .Get 0 }}" videoStartAt="{{ .Get 1 | default 0 }}"></lite-youtube>
