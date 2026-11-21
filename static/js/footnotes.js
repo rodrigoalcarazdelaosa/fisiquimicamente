@@ -1,9 +1,14 @@
 (() => {
-  const references = document.querySelectorAll('sup a.footnote-ref');
+  const references = document.querySelectorAll('a.footnote-ref');
   if (!references.length) return;
 
-  const popup = document.getElementById('popup-wrapper');
-  const content = document.getElementById('popup-content');
+  const panel = document.createElement('div');
+  panel.id = 'bottom-panel';
+  panel.className = 'bottom-panel';
+  panel.innerHTML = '<div class="popup-wrapper" id="popup-wrapper"><div id="popup-content"></div></div>';
+  document.body.append(panel);
+  const popup = panel.firstElementChild;
+  const content = popup.firstElementChild;
   document.querySelectorAll('a.footnote-return').forEach(link => link.remove());
 
   for (const link of references) {
