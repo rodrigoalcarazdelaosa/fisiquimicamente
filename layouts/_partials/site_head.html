@@ -32,10 +32,10 @@
   {{ $has_notes_tutor := partial "functions/has_notes_tutor.html" . }}
   {{ if or .Params.math site.Params.features.math.enable }}
     {{ $mathjax_config := resources.Get "js/mathjax-config.js" }}
-    <script src="{{ $mathjax_config.RelPermalink }}"></script>
-    {{ if $has_notes_tutor }}
-    <script>window.MathJax.loader.load.push('ui/safe');</script>
-    {{ end }}
+    <script data-cfasync="false">
+      {{ $mathjax_config.Content | safeJS }}
+      {{ if $has_notes_tutor }}window.MathJax.loader.load.push('ui/safe');{{ end }}
+    </script>
   {{ end }}
 
   {{ $icons := resources.Get "css/libs/fontawesome/all.min.css" | resources.Copy "css/icons.css" }}
@@ -55,8 +55,6 @@
   {{ end }}
   {{ if or $has_gallery site.Params.require_fancybox }}
     {{ .Page.Store.Set "has_gallery" true }}
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.min.css" integrity="sha384-CKeYI6jsYBV4DV34zRfxht32qlPolZvokUknVb7SnE4PCoiTTqCN47Tr+hQAKkXY" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ (resources.Get "css/gallery.css" | minify | fingerprint).RelPermalink }}">
   {{ end }}
 
   {{ if in (slice "mapnik" "mapbox") (lower site.Params.features.map.provider) }}
@@ -70,7 +68,7 @@
 
   {{ range $name, $asset := $js }}
     {{ if and $asset.async (or (ne (lower $name) "mathjax") $.Params.math site.Params.features.math.enable) }}
-      <script src="{{ printf $asset.url $asset.version }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>
+      <script {{ if eq (lower $name) "mathjax" }}data-cfasync="false"{{ end }} src="{{ printf $asset.url $asset.version }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>
     {{ end }}
   {{ end }}
 

@@ -7,8 +7,8 @@
 
 {{/* Workaround `.HasShortcode "gallery"` detection issue on `home/` WidgetPage v1 */}}
 {{ if (.Page.Store.Get "has_gallery") | or site.Params.require_fancybox }}
-  <script defer src="https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/umd/photoswipe.umd.min.js" integrity="sha384-k8EKyYcONphQ7zH4cQ0888JapXwrLTXQl/Ue1/jYgjVYahln1NWpnt2S4IC56LNh" crossorigin="anonymous"></script>
-  <script defer src="{{ (resources.Get "js/gallery.js" | minify | fingerprint).RelPermalink }}"></script>
+  {{ $gallery_styles := resources.Get "css/gallery.css" | minify | fingerprint }}
+  <script data-cfasync="false" defer src="{{ (resources.Get "js/gallery.js" | minify | fingerprint).RelPermalink }}" data-gallery-styles="{{ $gallery_styles.RelPermalink }}"></script>
 {{ end }}
 
 {{ if .Page.Store.Get "has_mermaid" }}
