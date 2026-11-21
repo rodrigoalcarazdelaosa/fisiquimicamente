@@ -1,9 +1,8 @@
 {{ $provider := trim (site.Params.features.comment.provider | lower) " " }}
 
 {{ if $provider }}
-  {{ $provider_tpl := printf "_partials/comments/%s.html" $provider }}
-  {{ $provider_exists := templates.Exists $provider_tpl }}
-  {{ if not $provider_exists }}
+  {{ $provider_tpl := printf "comments/%s.html" $provider }}
+  {{ if not (templates.Exists (printf "_partials/%s" $provider_tpl)) }}
     {{ errorf "The '%s' comment provider was not found." $provider }}
   {{ end }}
 
