@@ -7,10 +7,12 @@
  **************************************************/
 
 html {
-  font-family: theme.$font-body, sans-serif;
+  font-family: theme.$font-body, serif;
   font-size: #{theme.$font-size-small}px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   overflow-x: clip;
 }
 @media screen and (min-width: 58em) {
@@ -20,10 +22,13 @@ html {
 }
 
 body {
+  margin: 0;
   font-family: inherit;
   font-size: 1rem;
+  font-weight: 400;
   line-height: inherit;
-  color: inherit;
+  text-align: left;
+  color: nord.$nord0;
   background-color: theme.$background;
   padding-top: 0;
   counter-reset: captions;
@@ -125,7 +130,7 @@ h6 {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   line-height: 1.25;
-  color: #313131;
+  color: nord.$nord0;
   text-rendering: optimizelegibility;
 
   /* Ensure long words do not overflow into content. */
@@ -144,21 +149,30 @@ h1 {
 }
 
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 
 h3 {
   font-weight: 700;
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 h4,
 h5,
 h6 {
   font-weight: 700;
-  margin-top: 1rem;
+}
+
+h4 {
+  font-size: 1.3rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+h6 {
   font-size: 1rem;
 }
 
@@ -190,16 +204,23 @@ code {
 }
 
 pre {
+  display: block;
+  overflow: auto;
+  -ms-overflow-style: scrollbar;
   margin: 0 0 1rem;
+  color: #212529;
 
   /* Match bg of default highlight theme. */
   border-color: rgb(248, 248, 248);
-  font-size: 0.7rem;
+  font-size: 0.875rem;
   border-radius: 4px;
   padding: 5px;
 }
 
 pre code {
+  font-size: inherit;
+  color: inherit;
+  word-break: normal;
   white-space: pre; /* Override Bootstrap to preserve line breaks in code. */
   overflow-x: auto;
 }
@@ -224,18 +245,33 @@ pre:hover .btn-copy-code {
 }
 
 hr {
+  box-sizing: content-box;
+  overflow: visible;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   border: 0;
   height: 1px;
-  background: #333;
-  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  background: nord.$nord0;
+  background-image: linear-gradient(
+    to right,
+    nord.$nord6,
+    nord.$nord3,
+    nord.$nord2,
+    nord.$nord1,
+    nord.$nord0,
+    nord.$nord1,
+    nord.$nord2,
+    nord.$nord3,
+    nord.$nord6
+  );
 }
 
 /* Quotes */
 blockquote {
   padding: 0.5rem 1rem;
   margin: 0.8rem 0;
-  color: #7a7a7a;
-  border-left: 0.25rem solid #e5e5e5;
+  color: nord.$nord3;
+  border-left: 0.25rem solid nord.$nord3;
 }
 
 blockquote p:last-child {
@@ -280,6 +316,7 @@ mark,
 small,
 .small {
   font-size: 0.75em;
+  font-weight: 400;
 }
 
 .responsive-wrap iframe {
@@ -287,7 +324,7 @@ small,
 }
 
 body.dark {
-  color: rgb(248, 248, 242);
+  color: nord.$nord6;
   background: theme.$dark-background;
 }
 
@@ -302,50 +339,7 @@ body.dark {
   background: rgba(233, 231, 245, 0.2);
 }
 
-html {
-  font-family: theme.$font-body, serif;
-}
-
-body {
-  color: nord.$nord0;
-  background-color: theme.$background;
-}
-
-body.dark {
-  color: nord.$nord6;
-}
-
 /* Headings */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: nord.$nord0;
-
-}
-
-h2 {
-  font-size: 1.75rem;
-}
-
-h3 {
-  font-size: 1.5rem;
-}
-
-h4 {
-  font-size: 1.3rem;
-}
-
-h5 {
-  font-size: 1.15rem;
-}
-
-h6 {
-  font-size: 1rem;
-}
-
 .dark h1,
 .dark h2,
 .dark h3,
@@ -356,6 +350,8 @@ h6 {
 }
 
 code {
+  font-size: 87.5%;
+  word-wrap: break-word;
   background: nord.$nord4;
   color: nord.$nord0;
   border-radius: 0.5em;
@@ -367,26 +363,6 @@ code {
 .dark code {
   background: nord.$nord3;
   color: nord.$nord6;
-}
-
-pre {
-  font-size: 0.875rem;
-}
-
-hr {
-  background: nord.$nord0;
-  background-image: linear-gradient(
-    to right,
-    nord.$nord6,
-    nord.$nord3,
-    nord.$nord2,
-    nord.$nord1,
-    nord.$nord0,
-    nord.$nord1,
-    nord.$nord2,
-    nord.$nord3,
-    nord.$nord6
-  );
 }
 
 .dark hr {
@@ -404,11 +380,6 @@ hr {
 }
 
 /* Quotes */
-blockquote {
-  color: nord.$nord3;
-  border-left: 0.25rem solid nord.$nord3;
-}
-
 .dark blockquote {
   color: nord.$nord4;
   border-left: 0.25rem solid nord.$nord4;

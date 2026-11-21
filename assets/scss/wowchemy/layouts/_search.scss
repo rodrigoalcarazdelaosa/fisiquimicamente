@@ -112,11 +112,6 @@
   font-size: 0.8rem;
 }
 
-.form-control:focus {
-  border-color: theme.$primary;
-  box-shadow: 0 0 0 0.2rem theme.$primary-light;
-}
-
 // Search result items
 
 .search-hit em {
