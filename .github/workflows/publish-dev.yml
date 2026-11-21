@@ -1,0 +1,46 @@
+name: Publicar vista previa en Cloudflare Pages
+
+on:
+  push:
+    branches: [dev]
+
+concurrency:
+  group: pages-dev
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    if: github.repository == 'rodrigoalcarazdelaosa/fisiquimicamente'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Instalar Hugo y Dart Sass
+        run: bash .github/scripts/install-hugo.sh
+
+      - name: Guardar y restaurar recursos de Hugo
+        uses: actions/cache@v6
+        with:
+          path: resources
+          key: fisiquimicamente-dev-hugo-resources-${{ hashFiles('.hvm', '.github/scripts/install-hugo.sh') }}
+
+      - name: Compilar la vista previa
+        env:
+          HUGOxLANGUAGESxESxBASEURL: https://dev.fisiquimicamente.com/
+          HUGOxPARAMSxNOTES_TUTORxENABLED: "false"
+          HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets.PDF_EMBED_API_KEY_ES }}
+        run: |
+          source get_last_commit_hash.sh
+          hugo --gc --minify
+          printf '\n/*\n  X-Robots-Tag: noindex\n' >> public/es/_headers
+
+      - name: Publicar la edición española de dev
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public/es --project-name fisiquimicamente --branch dev --commit-dirty=true

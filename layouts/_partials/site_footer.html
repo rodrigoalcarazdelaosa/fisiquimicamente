@@ -1,29 +1,5 @@
 <section class="home-section wg-blank" style="padding: 40px 0px 40px 0px; margin-top: 2rem">
-  {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
-   <div class="home-section-bg  bg-image" style="background-image: url('{{ "media/divider.svg" | absURL }}');background-size: contain;background-position: center;" id="divider"></div>
-   <script>
-    document.addEventListener('wcThemeChange', (e) => {
-      // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-      if (e.detail.isDarkTheme()) {
-        document.getElementById("divider").style="background-image: url('{{ "media/divider-dark.svg" | absURL }}');background-size: contain;background-position: center;";
-      } else {
-        document.getElementById("divider").style="background-image: url('{{ "media/divider.svg" | absURL }}');background-size: contain;background-position: center;";
-      }
-      });
-    </script>
-   {{ else if eq .Site.Language.Lang "en" }}
-   <div class="home-section-bg  bg-image" style="background-image: url('{{ "media/divider-en.svg" | absURL }}');background-size: contain;background-position: center;" id="divider"></div>
-   <script>
-    document.addEventListener('wcThemeChange', (e) => {
-      // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-      if (e.detail.isDarkTheme()) {
-        document.getElementById("divider").style="background-image: url('{{ "media/divider-en-dark.svg" | absURL }}');background-size: contain;background-position: center;";
-      } else {
-        document.getElementById("divider").style="background-image: url('{{ "media/divider-en.svg" | absURL }}');background-size: contain;background-position: center;";
-      }
-      });
-    </script>
-   {{ end }}
+  <div class="home-section-bg bg-image theme-divider" id="divider" style="background-size: contain; background-position: center"></div>
 </section>
 
 <footer class="site-footer">
@@ -31,7 +7,7 @@
   {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
 
   {{/* Load footer block */}}
-  {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
+  {{ $footer_section_name := site.Params.footer.block | default "custom" }}
   {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
   {{ if not (templates.Exists (printf "_partials/%s" $footer_section_path)) }}
     {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/_partials/%s`" $footer_section_path }}

@@ -1,4 +1,4 @@
-{{ $divId := .Get "divId" | default "adobe-dc-view" }}
+{{ $divId := .Get "divId" | default (printf "adobe-dc-view-%d" .Ordinal) }}
 {{ $style := .Get "style" | default "width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw;" | safeCSS }}
 {{ $clientID := site.Params.pdf_embed_api_key }}
 {{ $locale := .Get "locale" | default "es-ES" }}
@@ -7,14 +7,8 @@
 {{ $filename := .Get "filename" | default $pathBase }}
 {{ $embedMode := .Get "embedMode" | default "IN_LINE" }}
 
-<div id="{{ $divId }}" style="{{ $style }}"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "{{ $clientID }}", divId: "{{ $divId }}", locale: "{{ $locale }}"});
-		adobeDCView.previewFile({
-			content:{location: {url: "{{ $url }}"}},
-			metaData:{fileName: "{{ $filename }}"}
-		}, {embedMode: "{{ $embedMode }}"});
-	});
-</script>
+{{ .Page.Store.Set "has_deferred_embeds" true }}
+<div id="{{ $divId }}" style="{{ $style }}" data-pdf-url="{{ $url }}" data-pdf-client-id="{{ $clientID }}"
+     data-pdf-filename="{{ $filename }}" data-pdf-locale="{{ $locale }}" data-pdf-mode="{{ $embedMode }}"
+     data-pdf-fallback="{{ i18n "btn_download" }}"></div>
+<noscript><a href="{{ $url }}">{{ i18n "btn_download" }} {{ $filename }}</a></noscript>

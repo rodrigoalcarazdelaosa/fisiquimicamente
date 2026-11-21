@@ -1,0 +1,49 @@
+# Versioning and Subresource Integrity (SRI) for Academic's JavaScript and CSS dependencies
+
+# When updating the version of an asset below, please also update the corresponding SRI.
+# How to update the SRI for an entry:
+#   echo -n "sha512-" && curl --silent "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML" | openssl dgst -sha512 -binary | openssl enc -base64 -A
+# Or, the SRI for the appropriate asset can be copied from https://cdnjs.com/ .
+
+# JavaScript
+
+[js.mathJax]
+  version = "3.2.2"
+  sri = ""  # No SRI as dynamically generated.
+  url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-chtml.js"
+  async = true
+[js.isotope]
+  version = "3.0.6"
+  sri = "sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew=="
+  url = "https://cdn.jsdelivr.net/gh/metafizzy/isotope@v%s/dist/isotope.pkgd.min.js"
+[js.imagesLoaded]
+  version = "5.0.0"
+  sri = "sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc="
+  url = "https://cdn.jsdelivr.net/npm/imagesloaded@%s/imagesloaded.pkgd.min.js"
+[js.fuse]
+  version = "7.5.0"
+  sri = "sha256-WrUk0SSSuyM1aOlgAEbhqqliPTbr5olYkUT33Jsdpvc="
+  url = "https://cdn.jsdelivr.net/npm/fuse.js@%s/dist/fuse.min.mjs"
+[js.mark]
+  version = "8.11.1"
+  sri = "sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww=="
+  url = "https://cdn.jsdelivr.net/npm/mark.js@%s/dist/mark.min.js"
+[js.anchor]
+  version = "5.0.0"
+  sri = "sha256-aQmOEF2ZD4NM/xt4hthzREIo/2PFkOX/g01WjxEV7Ys="
+  url = "https://cdn.jsdelivr.net/npm/anchor-js@%s/anchor.min.js"
+[js.cookieconsent]
+  version = "3.1.1"
+  sri = "sha512-yXXqOFjdjHNH1GND+1EO0jbvvebABpzGKD66djnUfiKlYME5HGMUJHoCaeE4D5PTG2YsSJf6dwqyUUvQvS0vaA=="
+  url = "https://cdn.jsdelivr.net/gh/osano/cookieconsent@%s/build/cookieconsent.min.js"
+
+# CSS
+
+[css.academicons]
+  version = "1.9.4"
+  sri = "sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw=="
+  url = "https://cdn.jsdelivr.net/gh/jpswalsh/academicons@%s/css/academicons.min.css"
+[css.cookieconsent]
+  version = "3.1.1"
+  sri = "sha512-LQ97camar/lOliT/MqjcQs5kWgy6Qz/cCRzzRzUCfv0fotsCTC9ZHXaPQmJV8Xu/PVALfJZ7BDezl5lW3/qBxg=="
+  url = "https://cdn.jsdelivr.net/gh/osano/cookieconsent@%s/build/cookieconsent.min.css"

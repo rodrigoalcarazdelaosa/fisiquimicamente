@@ -1,0 +1,4 @@
+{{/* Keep exam years after alphabetical tags. */}}
+{{ $tags := sort (.GetTerms "tags") "Title" }}
+{{ $years := where $tags "Title" "like" "^[0-9]{4}$" }}
+{{ return (append $years (complement $years $tags)) }}

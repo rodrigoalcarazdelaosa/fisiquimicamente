@@ -5,17 +5,9 @@
 {{ $highlight_active_link := site.Params.header.navbar.highlight_active_link | default true }}
 {{ $show_current_language := site.Params.header.navbar.show_language | default false }}
 
-{{/* Get site logo. */}}
 {{ $show_logo := site.Params.header.navbar.show_logo | default true }}
-{{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
-{{ $logo := "" }}
-{{ if $has_logo }}
-  {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
-    {{ $logo = (partial "blox-core/functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
-  {{ else if eq .Site.Language.Lang "en" }}
-    {{ $logo = resources.Get "media/logo-en.svg" }}
-  {{ end }}
-{{ end }}
+{{ $square_logo := cond (eq .Lang "en") "logo-original-en" "logo-original" }}
+{{ $wordmark := printf "icon/logo-%s" (urlize site.Title) }}
 
 <header>
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
@@ -23,59 +15,22 @@
 
     {{if $show_logo}}
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="{{ site.Home.RelPermalink }}">
-        {{- if $has_logo -}}
-        <tgs-player id="tgs-nav" autoplay loop mode="normal" data-src="/media/lottie/home-dark.tgs" data-src-dark="/media/lottie/home.tgs" style="width: 61.6px; height:61.6px"></tgs-player>
-          {{/*  <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
-          {{with site.Params.header.image.width}}width="{{.}}"{{end}}
-          {{with site.Params.header.image.height}}height="{{.}}"{{end}} id="logo">  */}}
-          {{/*  {{ if or (eq .Site.Language.Lang "es") (eq .Site.Language.Lang "ca") }}
-          <script>
-            document.addEventListener('wcThemeChange', (e) => {
-              // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-              if (e.detail.isDarkTheme()) {
-                document.getElementById("logo").src="/media/logo-dark.svg";
-              } else {
-                document.getElementById("logo").src="/media/logo.svg";
-              }
-              });
-            </script>
-          {{ else if eq .Site.Language.Lang "en" }}
-          <script>
-            document.addEventListener('wcThemeChange', (e) => {
-              // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-              if (e.detail.isDarkTheme()) {
-                document.getElementById("logo").src="/media/logo-en-dark.svg";
-              } else {
-                document.getElementById("logo").src="/media/logo-en.svg";
-              }
-              });
-            </script>
-          {{ end }}  */}}
-        {{- else -}}
-          {{- site.Title -}}
-        {{- end -}}
+      <a class="navbar-brand" href="{{ site.Home.RelPermalink }}" aria-label="{{ site.Title }}">
+        {{ with resources.Get (printf "media/%s.svg" $square_logo) }}
+        <span class="navbar-logo" aria-hidden="true"
+              style="--logo-light: url('{{ .RelPermalink }}'); --logo-dark: url('{{ printf "media/%s-dark.svg" $square_logo | relURL }}')"></span>
+        {{ else }}
+          {{ site.Title }}
+        {{ end }}
       </a>
     </div>
-    {{end}}
-
-    <!-- {{ if site.Menus.main }}
-    <button type="button" class="navbar-toggler" data-toggle="collapse"
-      data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
-    {{if $show_logo}}
-    {{- if $has_logo -}}
-      <span class="navbar-brand py-0"><img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"></span>
-    {{- else -}}
-      <span><i class="fas fa-bars"></i></span>
-    {{- end -}}
     {{ end }}
-    </button>
-    {{ end }} -->
 
     {{ if site.Menus.main }}
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
-          <tgs-player id="tgs-nav-mobile" autoplay loop mode="normal" data-src="/media/lottie/home-dark.tgs" data-src-dark="/media/lottie/home.tgs" style="width: 44px; height: 44px"></tgs-player>
+      <span class="navbar-logo navbar-wordmark" aria-hidden="true"
+            style="--logo-light: url('{{ printf "%s-dark.svg" $wordmark | relURL }}'); --logo-dark: url('{{ printf "%s.svg" $wordmark | relURL }}')"></span>
     </button>
     {{ end }}
 
@@ -193,9 +148,8 @@
          {{ end }}
        {{ end }}
 
-      {{/* Override: hide search icon if provider is Docsearch so we only show Docsearch once in the docs sidebar. */}}
       {{ $show_search := site.Params.header.navbar.show_search | default true }}
-      {{ if and site.Params.features.search.provider $show_search | and (ne (lower site.Params.features.search.provider) "docsearch") }}
+      {{ if and (eq (lower site.Params.features.search.provider) "wowchemy") $show_search }}
       <li class="nav-item">
         <a class="nav-link js-search" href="#" aria-label="{{ i18n "search" }}"><span data-toggle="tooltip" data-placement="bottom" data-original-title="{{ i18n "search" }}">🔍</span></a>
       </li>
