@@ -53,7 +53,17 @@
                   {{ $data_filter = printf ".js-id-%s" (lower (replace .tag " " "-")) }}
                 {{ end }}
               {{ end }}
-              <a href="#" data-filter="{{ $data_filter | safeHTMLAttr }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}">{{ .name }}</a>
+              {{ $href := "#" }}
+              {{ $category := "" }}
+              {{ $is_default := eq $idx $filter_default }}
+              {{ if not $masonry }}
+                {{ $href = $page.RelPermalink }}
+                {{ if not $is_default }}
+                  {{ $category = strings.TrimPrefix ".js-id-" $data_filter }}
+                  {{ $href = printf "%s?categoria=%s" $href (urlquery $category) }}
+                {{ end }}
+              {{ end }}
+              <a href="{{ $href }}" data-filter="{{ $data_filter | safeHTMLAttr }}"{{ if not $masonry }} data-category="{{ $category }}"{{ if $is_default }} aria-current="true"{{ end }}{{ end }} class="btn btn-primary btn-lg{{ if $is_default }} active{{ end }}">{{ .name }}</a>
             {{ end }}
           </div>
         </div>
