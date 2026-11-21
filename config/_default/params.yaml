@@ -46,14 +46,6 @@ footer:
   block: custom
   show_translations: true
   text: "&copy; 2020&ndash;{year} Rodrigo Alcaraz de la Osa"
-  copyright:
-    notice: ""
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
 # Localization
 
 locale:
@@ -62,6 +54,9 @@ locale:
   address_format: es
 
 # Site features
+
+seasonal:
+  bats: false
 
 features:
   syntax_highlighter:
@@ -80,23 +75,8 @@ features:
     shape: circle
   comment:
     provider: "discord"
-    disqus:
-      shortname: ""
-      show_count: true
-    commento:
-      url: ""
   search:
     provider: wowchemy
-    docsearch:
-      app_id: ""
-      api_key: ""
-      index_name: ""
-      show_logo: false
-  map:
-    provider: ""
-    api_key: ""
-    zoom: 15
-
 # Extensions
 
 extensions:

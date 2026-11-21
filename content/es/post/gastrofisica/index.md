@@ -65,7 +65,7 @@ Se recomienda supervisión.
 4. Coge el bol de agua, el de mezcla de maicena y agua y el bote de miel y golpea con una cuchara la superficie de los tres líquidos. ¿Reaccionan igual? ¿Qué diferencias observas?
 5. Si cuentas con supervisión, calienta la miel y reporta si aprecias cambios en sus propiedades.
 6. Después de explorar un poco la bibliografía... ¿Cuáles de estos líquidos son newtonianos? ¿Qué diferencia los unos de los otros?
- 
+
 
 #### 📖 Bibliografía y otros recursos
 
@@ -266,7 +266,7 @@ Educación Secundaria.
 1. Pon la sartén en el fuego y pon unas gotas de agua (o etanol) con la jeringa mientras se calienta. Después de unos minutos las gotas desaparecen. ¿Por qué?
 2. Ahora, deja que la sartén se caliente durante 5 minutos. Una vez está caliente, pon un poco de agua (o etanol). ¿Qué observas? ¿Es diferente a lo que observaste antes?
 3. Intenta observar este último efecto con diferentes líquidos (por ejemplo, agua y etanol a diferentes concentraciones) y diferentes tamaños de gota.
- 
+
 #### 📖 Bibliografía y otros recursos
 
 1. https://es.wikipedia.org/wiki/Efecto_Leidenfrost
@@ -315,7 +315,7 @@ Educación Secundaria.
 6. ¿Durará este efecto para siempre? Si no, ¿qué lo hará parar?
 7. Pon algunas gotas de colorante alimenticio en la taza caliente y la misma cantidad en la de agua fría.
 8. Algunos de los puntos o manchas crecen más rápido que otros. ¿Por qué?
- 
+
 #### 📖 Bibliografía y otros recursos
 
 1. {{< youtube 0mUU69ParFM >}}
@@ -328,7 +328,7 @@ Educación Secundaria.
 
 La [**densidad**]({{< ref "/apuntes-segundo-tercero-eso/materia/index.md#densidad" >}}) de un líquido se define como la relación entre su masa y el volumen que ocupa. La densidad es una variable importante en la [**mecánica de fluidos**](https://es.wikipedia.org/wiki/Mecánica_de_fluidos) porque puede determinar la posición de los fluidos: los menos densos tienden a fluir por encima de los fluidos más densos. Esto es lo que ocurre cuando intentamos mezclar aceite y agua: la densidad del aceite es menor que la del agua, por lo que el aceite "flota" sobre el agua.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Artsy_density_column.png/207px-Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
 Un mismo fluido puede tener diferentes densidades si cambiamos la temperatura. Cuando la temperatura aumenta, la vibración de las moléculas del fluido también lo hace, haciendo que el líquido ocupe un mayor volumen. Recuerda: la densidad es la relación entre la masa y el volumen, como la masa no ha cambiado y el volumen ha aumentado, ¡la densidad es menor! En resumen: los líquidos calientes son menos densos que los fríos.
 
@@ -387,7 +387,7 @@ Educación Secundaria.
 5. Separa la yema y la clara del cuarto huevo. Añade un poco de sal y bate vigorosamente la clara con el batidor de varillas. ¿Qué ves?
 6. ¿Son reversibles estos cambios en las propiedades mecánicas y ópticas del huevo?
 7. ¿Qué puedes decir sobre la reversibilidad del cambio en las propiedades mecánicas y ópticas del agua que está en la olla?
- 
+
 #### 📖 Bibliografía y otros recursos
 
 https://www.exploratorium.edu/food/explorable-water-drop
@@ -449,7 +449,7 @@ Educación Secundaria.
 11. ¿Puedes combinar tus dos lentes para obtener tres
 rayos de luz paralelos después de haber cruzado las dos lentes?
 12. Apunta con uno de los punteros láser a un rectángulo de gelatina no cortado utilizando diferentes ángulos. ¿Puedes ver una reflexión? ¿Y difracción? ¿Hay alguna forma de obtener una reflexión total?
- 
+
 #### 📖 Bibliografía y otros recursos
 
 {{< youtube DFR-pypxR0E >}}
@@ -599,7 +599,7 @@ Educación Secundaria.
 4. Introduce el plato en el microondas y enciéndelo a máxima potencia. Páralo cuando empiece a hacer chispas.
 5. Coge dos uvas enteras, ponlas en el plato tocándose y cúbrelas con el vaso.
 6. Repite el paso 4.
- 
+
 #### 📖 Bibliografía y otros recursos
 
 1. {{< youtube wCrtk-pyP0I >}}
@@ -611,7 +611,7 @@ Educación Secundaria.
 Todos conocemos los tres estados más famosos de la materia: sólido, líquido y gaseoso. Pero, ¿sabías que hay un cuarto estado? ¡El [**plasma**]({{< relref "/post/plasma" >}})! Se trata de un gas ionizado: las partículas están libres como en un gas, pero algunas de ellas están ionizadas (es decir, algunos electrones se escapan de los átomos, dejando un núcleo positivo). La forma más habitual de producir plasma es calentándolo, lo que da a los electrones suficiente energía para escapar de su atracción al núcleo del átomo. Así es como creamos fuego, uno de los ejemplos más cotidianos de plasma.
 
 {{< figure src="fuego.jpg" title="Foto de [Joshua Newton](https://unsplash.com/@joshuanewton) en [Unsplash](https://unsplash.com)." lightbox="true" >}}
-  
+
 El [microondas](https://es.wikipedia.org/wiki/Horno_de_microondas) utiliza un [**magnetrón**](https://es.wikipedia.org/wiki/Magnetrón) para producir ondas electromagnéticas llamadas "[**microondas**](https://es.wikipedia.org/wiki/Microondas)", que son reflejadas por las paredes metálicas del horno y absorbidas por los alimentos. Al ser absorbidas, las microondas hacen vibrar las moléculas de agua de los alimentos aumentando su temperatura.
 
 {{< figure src="magnetron.jpg" title="Magnetrón seccionado, pudiéndose ver sus cavidades. Fuente: https://commons.wikimedia.org/wiki/File:Magnetron2.jpg." lightbox="true" >}}

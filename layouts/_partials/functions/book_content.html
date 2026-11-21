@@ -1,0 +1,23 @@
+{{- $content := replace .Content `<nav id="TableOfContents">` `<nav id="TableOfContentsInPage">` -}}
+{{- $toc := .TableOfContents -}}
+{{- if in $toc `href="#"` -}}
+  {{- /* Goldmark can omit the anchor for headings that consist of a raw HTML image. */ -}}
+  {{- $anchors := dict -}}
+  {{- range findRESubmatch `(<h[1-6])>(<img\s[^>]*\salt="([^"]+)"[^>]*>)(</h[1-6]>)` $content -}}
+    {{- $alt := index . 3 -}}
+    {{- $anchor := anchorize $alt -}}
+    {{- $id := printf `id="%s"` $anchor -}}
+    {{- if and $anchor (not (in $content $id)) -}}
+      {{- $content = replace $content (index . 0) (printf `%s %s>%s%s` (index . 1) $id (index . 2) (index . 4)) 1 -}}
+      {{- $anchors = merge $anchors (dict $alt $anchor) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range $match := findRESubmatch `<a href="#">(<img\s[^>]*\salt="([^"]+)"[^>]*>)` $toc -}}
+    {{- with index $anchors (index $match 2) -}}
+      {{- $link := printf `<a href="#%s">%s` . (index $match 1) -}}
+      {{- $toc = replace $toc (index $match 0) $link 1 -}}
+      {{- $content = replace $content (index $match 0) $link -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "content" ($content | safeHTML) "toc" ($toc | safeHTML)) -}}

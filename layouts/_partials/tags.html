@@ -5,7 +5,7 @@
   {{ end }}
   {{ end }}
   {{ if .Params.tags }}
-  🏷️&nbsp; {{ range $index, $value := sort (.GetTerms "tags") ".Page.Title" "asc" }}
+  🏷️&nbsp; {{ range $index, $value := partial "functions/sorted_tags.html" . }}
   <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
   {{ end }}
   {{ end }}

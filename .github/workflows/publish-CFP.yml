@@ -43,29 +43,15 @@ jobs:
           # Fetch **all** history (not just deploy commit) for Hugo's .GitInfo and .Lastmod
           # See https://discourse.gohugo.io/t/problems-with-gitinfo-in-ci/22480
 
-      - name: Set up Go
-        uses: actions/setup-go@v7
-        with:
-          go-version: 1.27.1
-
-      - name: Download Hugo
-        run: wget https://github.com/gohugoio/hugo/releases/download/v${{
-          env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION
-          }}_linux-amd64.deb -O hugo_extended_${{ env.HUGO_VERSION
-          }}_linux-amd64.deb
-        # 0.103.0 began new naming convention
-        env:
-          HUGO_VERSION: 0.152.2
-
-      - name: Install Hugo
-        run: sudo dpkg -i hugo*.deb
+      - name: Install Hugo and Dart Sass
+        run: bash .github/scripts/install-hugo.sh
 
       - name: Cache Hugo resources
         id: cache-hugo-resources
         uses: actions/cache@v6
         with:
           path: resources
-          key: ${{ matrix.projectName }}-hugo-resources
+          key: ${{ matrix.projectName }}-hugo-resources-${{ hashFiles('.hvm', '.github/scripts/install-hugo.sh') }}
 
       - name: Build site with Hugo
         run: source get_last_commit_hash.sh && hugo --gc --minify

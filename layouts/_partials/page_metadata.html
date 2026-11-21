@@ -1,4 +1,3 @@
-{{ $is_list := .is_list }}
 {{ $page := .page }}
 
 <div class="article-metadata">
@@ -16,32 +15,15 @@
   {{ if (in (slice "post") $page.Type) | and (ne $page.Params.show_date false) }}
   <span class="article-date">
     {{ $date := $page.Date | time.Format site.Params.locale.date_format }}
-    {{ if eq $page.Type "publication" }}
-      {{ $date = $page.Date | time.Format (site.Params.publications.date_format | default "January, 2006") }}
-    {{ else }}
-      {{ if ne $page.Params.Lastmod $page.Params.Date }}
-          {{ i18n "last_updated" }}
-      {{ end }}
-    {{ end }}
+    {{ if ne $page.Params.Lastmod $page.Params.Date }}{{ i18n "last_updated" }}{{ end }}
     {{ $date }}
   </span>
   <span class="middot-divider"></span>
   {{ end }}
 
-  {{ if not (in (slice "event" "page") $page.Type) | and (ne $page.Params.show_date false) }}
+  {{ if ne $page.Type "page" | and (ne $page.Params.show_date false) }}
   <span class="article-date">
     {{- if $page.GitInfo -}}{{ i18n "last_edit" }}<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ $page.GitInfo.Hash }}" target="_blank" rel="noopener">{{ $page.GitInfo.AbbreviatedHash }}</a>{{- end -}}
-  </span>
-  {{ end }}
-
-  {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    {{ if $page.Params.publication_short }}
-      {{ $page.Params.publication_short | markdownify }}
-    {{ else if $page.Params.publication }}
-      {{ $page.Params.publication | markdownify }}
-    {{ end }}
   </span>
   {{ end }}
 
@@ -50,15 +32,6 @@
   <span class="article-reading-time">
     ⏱️&nbsp;{{ $page.ReadingTime }} {{ i18n "minute_read" }}
   </span>
-  {{ end }}
-
-  {{ $comments_provider := trim (site.Params.features.comment.provider | lower) " " }}
-  {{ $commentable_page := $page.Params.commentable }}
-
-  {{/* Show Disqus comment count if enabled. */}}
-  {{ if (eq $comments_provider "disqus") | and (site.Params.features.comment.disqus.show_count | default true) | and $commentable_page }}
-    <span class="middot-divider"></span>
-    <a href="{{ $page.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
   {{ end }}
 
   {{ if $page.Params.categories }}
@@ -76,7 +49,7 @@
   <span class="middot-divider"></span>
   <span class="article-categories">
     <!-- <i class="fas fa-tags mr-1"></i>     -->
-    🏷️&nbsp;{{- range $index, $value := sort ($page.GetTerms "tags") ".Page.Title" "asc" -}}
+    🏷️&nbsp;{{- range $index, $value := partial "functions/sorted_tags.html" $page -}}
       {{- if gt $index 0 }}, {{ end -}}
       <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
     {{- end -}}

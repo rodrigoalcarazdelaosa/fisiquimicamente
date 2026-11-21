@@ -1,5 +1,6 @@
-{{/*  <script async src="/js/jsbat.js"></script>
-<script async src="/js/jsbat.js"></script>
-<script async src="/js/jsbat.js"></script>
-<script async src="/js/jsbat.js"></script>
-<script async src="/js/jsbat.js"></script>  */}}
+{{ if site.Params.seasonal.bats }}
+  {{ $bats := resources.Get "js/jsbat.js" | minify | fingerprint }}
+  {{ range seq 5 }}
+    <script async src="{{ $bats.RelPermalink }}"></script>
+  {{ end }}
+{{ end }}
