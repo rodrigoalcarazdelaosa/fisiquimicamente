@@ -5,7 +5,7 @@
   {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
   {{ $hide_generator := site.Params.power_ups.hide_generator | default false }}
   {{ if not (and $is_sponsor $hide_generator) }}
-    <meta name="generator" content="Hugo Blox Builder {{ site.Data.hugoblox.version }}" />
+    <meta name="generator" content="Hugo Blox Builder {{ hugo.Data.hugoblox.version }}" />
   {{ end }}
 
   {{/* EXTENSIBILITY HOOK: HEAD-START */}}
@@ -26,8 +26,8 @@
     <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
   {{- end -}}
 
-  {{ $css := site.Data.assets.css }}
-  {{ $js := site.Data.assets.js }}
+  {{ $css := hugo.Data.assets.css }}
+  {{ $js := hugo.Data.assets.js }}
 
   {{ $has_notes_tutor := partial "functions/has_notes_tutor.html" . }}
   {{ if or .Params.math site.Params.features.math.enable }}

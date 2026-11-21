@@ -37,7 +37,7 @@
       {{ partial $widget $params }}
     {{end}}
 
-    {{ $query := where .Pages ".IsNode" false }}
+    {{ $query := where .Pages ".IsBranch" false }}
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">

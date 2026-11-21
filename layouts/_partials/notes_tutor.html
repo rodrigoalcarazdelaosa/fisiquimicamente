@@ -8,7 +8,7 @@
 {{ $script := resources.Get "js/notes-tutor.mjs" | minify | fingerprint }}
 {{ $styles := resources.Get "scss/_notes-tutor.scss" | toCSS (dict "targetPath" "css/notes-tutor.css" "outputStyle" "compressed") | minify | fingerprint }}
 {{ $mathConfig := resources.Get "js/mathjax-config.js" }}
-{{ $math := site.Data.assets.js.mathJax }}
+{{ $math := hugo.Data.assets.js.mathJax }}
 <aside class="notes-tutor d-print-none" aria-label="{{ $strings.title }}" data-script-url="{{ $script.RelPermalink }}" data-context-url="{{ $context.RelPermalink }}" data-styles-url="{{ $styles.RelPermalink }}" data-math-config-url="{{ $mathConfig.RelPermalink }}" data-mathjax-url="{{ printf $math.url $math.version }}" data-page-math="{{ or .Params.math site.Params.features.math.enable }}" data-loading-label="{{ i18n "notes_tutor_loading" }}" data-error-label="{{ i18n "notes_tutor_load_error" }}" hidden>
   <button class="notes-tutor-toggle" type="button" aria-label="{{ $strings.title }}" aria-expanded="false" aria-controls="notes-tutor-panel">
     <span class="notes-tutor-icon" aria-hidden="true">🤖</span>
