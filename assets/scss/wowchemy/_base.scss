@@ -7,14 +7,7 @@ html {
   font-size: #{$sta-font-size-small}px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65;
-
-  // Offset anchor scrolling by height of desktop fixed header.
-  // scroll-padding-top: 70px;
-
-  @include media-breakpoint-down(md) {
-    // Offset anchor scrolling by height of mobile fixed header.
-    // scroll-padding-top: 50px;
-  }
+  overflow-x: clip;
 }
 @media screen and (min-width: 58em) {
   html {
@@ -31,41 +24,22 @@ body {
   padding-top: 0;
   counter-reset: captions;
 
-  // Prevent horizontal scrollbar in case a site admin adds fixed width content without applying `max-width: 100%`.
-  overflow-x: hidden;
-
-  // Offset body content by fixed navbar height.
-  // margin-top: 70px;
-
-  @include media-breakpoint-down(md) {
-    // Offset body content by fixed navbar height.
-    // margin-top: 50px;
-  }
+  // Clip horizontal overflow without creating a scroll container for the sticky header.
+  overflow-x: clip;
 }
 
 body.no-navbar {
   margin-top: 0 !important;
-  scroll-padding-top: 0 !important;
 }
 
 // PAGE LAYOUT
 // Designed to push footer to bottom of viewport for short pages.
 
 .page-wrapper {
-  // Min height = viewport height - navbar height
-  min-height: calc(100vh - 70px);
+  min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns: 100%;
-}
-@include media-breakpoint-down(md) {
-  .page-wrapper {
-    min-height: calc(100vh - 50px);
-  }
-}
-
-.page-wrapper.no-navbar {
-  min-height: 100vh;
 }
 
 .page-header,

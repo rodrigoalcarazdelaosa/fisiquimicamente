@@ -103,29 +103,6 @@
 <script src="{{ $js_algolia_search.RelPermalink }}" type="module"></script>
 {{ end }}
 
-{{ $use_headroom := not (.IsHome | or (eq .Type "book")) }}
-
-{{/* Check for the global site parameter `header.on_scroll` */}}
-{{ if site.Params.header.on_scroll }}
-  {{ $use_headroom = eq site.Params.header.on_scroll "disappear" }}
-{{ end }}
-
-{{/* Check for the page parameter `header.on_scroll` */}}
-{{ if .Params.header.on_scroll }}
-  {{ $use_headroom = eq .Params.header.on_scroll "disappear" }}
-{{ end }}
-
-{{/* Output `use_headroom` variable for Headroom initialization in Hugo Blox JS */}}
-{{ printf "<script id=\"page-data\" type=\"application/json\">%s</script>" (dict "use_headroom" $use_headroom | jsonify) | safeHTML}}
-
-{{ if $use_headroom }}
-  {{ $headroom := resources.Get "js/wowchemy-headroom.js" | js.Build (dict "format" "esm" "minify" true) }}
-  {{- if hugo.IsProduction -}}
-    {{- $headroom = $headroom | fingerprint "md5" -}}
-  {{- end -}}
-  <script src="{{ $headroom.RelPermalink }}" type="module"></script>
-{{- end -}}
-
 {{/* Mindmaps */}}
 {{ if .Page.Store.Get "has_markmap" -}}
   <style>
@@ -150,7 +127,9 @@
 {{ end -}}
 
 {{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied") }}
-{{ $js_params := dict "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) "i18n" $i18n }}
+{{ $footnotes := resources.Get "js/footnotes.js" | minify | fingerprint }}
+{{ $zoom := resources.Get "js/vendor/medium-zoom.esm.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+{{ $js_params := dict "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) "i18n" $i18n "footnotesURL" $footnotes.RelPermalink "zoomURL" $zoom.RelPermalink }}
 {{ $main := resources.Get "js/wowchemy.js" | js.Build (dict "params" $js_params "minify" hugo.IsProduction) }}
 {{ $bundle := slice $main }}
 {{ if eq $search_provider "wowchemy" }}

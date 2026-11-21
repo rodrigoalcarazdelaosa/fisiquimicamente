@@ -8,7 +8,11 @@
 
 {{ $show_navbar := ((site.Params.header.navbar.enable | default true) | and (ne .Params.header.navbar.enable false)) | or .Params.header.navbar.enable }}
 {{- $highlight_active_link := site.Params.header.navbar.highlight_active_link | default true -}}
-<body id="top" data-spy="scroll" {{ if $show_navbar }}data-offset="70"{{end}} data-target="{{ if or .IsHome (eq .Type "widget_page") | and $highlight_active_link }}#navbar-main{{else}}#TableOfContents{{end}}" class="page-wrapper {{with .Params.design.css_class}}{{.}}{{end}} {{ if not (.Scratch.Get "light") }}dark{{end}} {{ if not $show_navbar }}no-navbar{{end}}" {{with .File}}data-wc-page-id="{{.UniqueID}}"{{end}} {{with .Params.design.css_style}}style="{{. | safeCSS}}"{{end}}>
+{{- $hide_header := not (or .IsHome (eq .Type "book")) -}}
+{{- with (.Params.header.on_scroll | default site.Params.header.on_scroll) -}}
+  {{- $hide_header = eq . "disappear" -}}
+{{- end -}}
+<body id="top" data-target="{{ if or .IsHome (eq .Type "widget_page") | and $highlight_active_link }}#navbar-main{{else}}#TableOfContents{{end}}" class="page-wrapper {{with .Params.design.css_class}}{{.}}{{end}} {{ if not (.Scratch.Get "light") }}dark{{end}} {{ if not $show_navbar }}no-navbar{{end}}" {{with .File}}data-wc-page-id="{{.UniqueID}}"{{end}} {{with .Params.design.css_style}}style="{{. | safeCSS}}"{{end}}>
 
   {{/* Initialise Hugo Blox. */}}
   {{ $js_license := printf "/*! Hugo Blox Builder v%s | https://hugoblox.com/ */\n" site.Data.hugoblox.version }}
@@ -36,7 +40,7 @@
     {{ partial "components/announcement_bar" . }}
   {{ end -}}
 
-  <div class="page-header header--fixed">
+  <div class="page-header header--fixed"{{ if and $show_navbar $hide_header }} data-hide-on-scroll{{ end }}>
   {{/* Load header block */}}
   {{ $block_name := .Params.header.navbar.block | default site.Params.header.navbar.block | default "navbar" }}
   {{ $block_path := printf "components/headers/%s.html" $block_name }}

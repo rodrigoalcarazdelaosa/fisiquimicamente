@@ -38,9 +38,6 @@
     </script>
   {{ end }}
 
-  {{ $icons := resources.Get "css/libs/fontawesome/all.min.css" | resources.Copy "css/icons.css" }}
-  <link rel="stylesheet" href="{{ partial "functions/stylesheet.html" $icons }}" media="print" onload="this.media='all'">
-
   {{ if site.Params.extensions.academicons.enable }}
     <link rel="stylesheet" href="{{ printf $css.academicons.url $css.academicons.version }}" integrity="{{ $css.academicons.sri }}" crossorigin="anonymous" media="print" onload="this.media='all'">
   {{ end }}

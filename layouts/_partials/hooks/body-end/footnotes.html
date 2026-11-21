@@ -1,8 +1,0 @@
-{{ $version := readFile "static/js/footnotes.js" | crypto.SHA256 | truncate 12 "" }}
-<script>
-  if (document.querySelector('a.footnote-ref')) {
-    const script = document.createElement('script');
-    script.src = {{ printf "%s?v=%s" ("js/footnotes.js" | relURL) $version }};
-    document.body.append(script);
-  }
-</script>

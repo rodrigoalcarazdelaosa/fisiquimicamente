@@ -12,15 +12,11 @@
 
 html {
   font-family: $sta-font-body, serif;
-  height: 100vh; /* set viewport constraint */
-  min-height: 100%; /* enforce height */
 }
 
 body {
   color: $nord0;
   background-color: $sta-background;
-  height: 100vh; /* set viewport constraint */
-  min-height: 100%; /* enforce height */
 }
 
 body.dark {
@@ -422,13 +418,7 @@ td[colspan]:not([colspan="1"]) {
  *  Callouts
  **************************************************/
 
-.article-style aside p::before,
-div.alert > div:first-child::before {
-  content: "ℹ️";
-}
-
 div.alert-warning > div:first-child::before {
-  content: "⚠️";
   color: $nord0;
 }
 
@@ -660,8 +650,6 @@ a.summary-link {
 }
 
 .card .card-image.hover-overlay::after {
-  font-family: "";
-  content: "🔗";
   color: $nord3;
 }
 
@@ -685,11 +673,6 @@ a.summary-link {
 
 .search-modal {
   background-color: $sta-background;
-}
-
-#search-box::before {
-  font-family: "";
-  content: "🔍";
 }
 
 #search-box #search-query {
@@ -772,8 +755,8 @@ mark,
   .article-toc-inner {
     position: -webkit-sticky;
     position: sticky;
-    top: 1rem;
-    max-height: calc(100vh - 1rem);
+    top: calc(var(--navbar-scroll-offset, 0px) + 1rem);
+    max-height: calc(100vh - var(--navbar-scroll-offset, 0px) - 1rem);
     overflow-y: auto;
   }
 }
@@ -953,6 +936,10 @@ mark,
 .article-style {
   overflow: visible;
   color: $nord0;
+}
+
+.article-style mjx-container[display="true"] {
+  overflow-x: auto;
 }
 
 .dark .article-style {
