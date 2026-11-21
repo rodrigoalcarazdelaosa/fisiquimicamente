@@ -3,7 +3,8 @@
   font-size: 16px;
 }
 
-#announcement.alert {
+#announcement.alert,
+.article-style aside#announcement {
   // Reduced BS padding
   padding: 0.1rem 1.25rem;
 }

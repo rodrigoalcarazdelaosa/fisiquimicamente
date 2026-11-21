@@ -1,3 +1,6 @@
+@use "../../theme";
+@use "../../breakpoints";
+
 /*************************************************
  *  Documentation layout
  **************************************************/
@@ -43,14 +46,14 @@
   margin-left: -15px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 
-  @include media-breakpoint-down(sm) {
+  @include breakpoints.down(sm) {
     padding: 0.8rem 15px;
   }
 }
 
 .docs-search .form-control:focus {
-  border-color: $sta-primary;
-  box-shadow: 0 0 0 3px $sta-primary-light;
+  border-color: theme.$primary;
+  box-shadow: 0 0 0 3px theme.$primary-light;
 }
 
 /* Docs sidebar. */
@@ -132,7 +135,7 @@
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: $sta-primary;
+  color: theme.$primary;
   background-color: transparent;
 }
 
@@ -141,7 +144,7 @@
 .docs-toggle {
   line-height: 1.5;
   font-size: 1.2rem;
-  color: $sta-primary;
+  color: theme.$primary;
   background-color: transparent;
 }
 
@@ -265,13 +268,13 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: $sta-primary;
+  color: theme.$primary;
   text-decoration: none;
 }
 
 /* ScrollSpy active link style. */
 #TableOfContents li a.active {
-  color: $sta-primary;
+  color: theme.$primary;
   font-weight: 700;
 }
 
@@ -279,11 +282,11 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: $sta-primary-dark;
+  color: theme.$primary-dark;
   transition: color 0.16s linear;
 }
 
 .anchorjs-link:hover {
-  color: $sta-primary;
+  color: theme.$primary;
   text-decoration: none;
 }

@@ -1,31 +1,31 @@
 @charset "UTF-8";
 
-/**************************************************
- *  Definiciones de colores basadas en https://www.nordtheme.com
- **************************************************/
-
-@import "nord";
+@use "sass:color";
+@use "sass:meta";
+@use "theme";
+@use "nord";
+@use "breakpoints";
 
 /*************************************************
  *  Wowchemy's Core Style
  **************************************************/
 
 html {
-  font-family: $sta-font-body, serif;
+  font-family: theme.$font-body, serif;
 }
 
 body {
-  color: $nord0;
-  background-color: $sta-background;
+  color: nord.$nord0;
+  background-color: theme.$background;
 }
 
 body.dark {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: $sta-font-nav, serif;
+  font-family: theme.$font-nav, serif;
 }
 
 .navbar-logo {
@@ -39,7 +39,7 @@ body.dark {
   background-image: var(--logo-dark);
 }
 
-@include media-breakpoint-down(md) {
+@include breakpoints.down(md) {
   .navbar-toggler {
     flex: 1;
     max-width: 440px;
@@ -79,15 +79,15 @@ body.dark {
 }
 
 .dark .breadcrumb-item a {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .breadcrumb-item.active {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .breadcrumb-item.active {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 /* Headings */
@@ -97,7 +97,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $nord0;
+  color: nord.$nord0;
 
 }
 
@@ -127,7 +127,7 @@ h6 {
 .dark h4,
 .dark h5,
 .dark h6 {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 h3#comments {
@@ -135,8 +135,8 @@ h3#comments {
 }
 
 code {
-  background: $nord4;
-  color: $nord0;
+  background: nord.$nord4;
+  color: nord.$nord0;
   border-radius: 0.5em;
 
   overflow-x: auto;
@@ -144,18 +144,18 @@ code {
 }
 
 .dark code {
-  background: $nord3;
-  color: $nord6;
+  background: nord.$nord3;
+  color: nord.$nord6;
 }
 
 #popup-content code {
-  color: $nord0;
-  background: $nord6;
+  color: nord.$nord0;
+  background: nord.$nord6;
 }
 
 .dark #popup-content code {
-  color: $nord6;
-  background: $nord0;
+  color: nord.$nord6;
+  background: nord.$nord0;
 }
 
 pre {
@@ -163,65 +163,65 @@ pre {
 }
 
 hr {
-  background: $nord0;
+  background: nord.$nord0;
   background-image: linear-gradient(
     to right,
-    $nord6,
-    $nord3,
-    $nord2,
-    $nord1,
-    $nord0,
-    $nord1,
-    $nord2,
-    $nord3,
-    $nord6
+    nord.$nord6,
+    nord.$nord3,
+    nord.$nord2,
+    nord.$nord1,
+    nord.$nord0,
+    nord.$nord1,
+    nord.$nord2,
+    nord.$nord3,
+    nord.$nord6
   );
 }
 
 .dark hr {
-  background: $nord6;
+  background: nord.$nord6;
   background-image: linear-gradient(
     to right,
-    $nord0,
-    $nord4,
-    $nord5,
-    $nord6,
-    $nord5,
-    $nord4,
-    $nord0
+    nord.$nord0,
+    nord.$nord4,
+    nord.$nord5,
+    nord.$nord6,
+    nord.$nord5,
+    nord.$nord4,
+    nord.$nord0
   );
 }
 
 .alert-example hr {
-  background: $nord0;
+  background: nord.$nord0;
   background-image: linear-gradient(
     to right,
-    $nord14,
-    $nord3,
-    $nord2,
-    $nord1,
-    $nord0,
-    $nord1,
-    $nord2,
-    $nord3,
-    $nord14
+    nord.$nord14,
+    nord.$nord3,
+    nord.$nord2,
+    nord.$nord1,
+    nord.$nord0,
+    nord.$nord1,
+    nord.$nord2,
+    nord.$nord3,
+    nord.$nord14
   );
 }
 
 /* Quotes */
 blockquote {
-  color: $nord3;
-  border-left: 0.25rem solid $nord3;
+  color: nord.$nord3;
+  border-left: 0.25rem solid nord.$nord3;
 }
 
 .dark blockquote {
-  color: $nord4;
-  border-left: 0.25rem solid $nord4;
+  color: nord.$nord4;
+  border-left: 0.25rem solid nord.$nord4;
 }
 
 .dark .alert-example blockquote {
-  color: $nord3;
-  border-left: 0.25rem solid $nord3;
+  color: nord.$nord3;
+  border-left: 0.25rem solid nord.$nord3;
 }
 
 /*************************************************
@@ -229,19 +229,19 @@ blockquote {
  **************************************************/
 
 .post-nav-item .meta-nav {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .post-nav-item .meta-nav {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .post-nav-item a {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .post-nav-item a {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 /*************************************************
@@ -249,40 +249,40 @@ blockquote {
  **************************************************/
 
 .badge-light {
-  color: $nord0;
-  background: $nord4;
+  color: nord.$nord0;
+  background: nord.$nord4;
 }
 
 .dark .badge-light {
-  color: $nord6;
-  background: $nord3;
+  color: nord.$nord6;
+  background: nord.$nord3;
 }
 
 .badge-light[href]:focus,
 .badge-light[href]:hover {
-  color: $nord6;
-  background: $nord0;
+  color: nord.$nord6;
+  background: nord.$nord0;
 }
 
 .dark .badge-light[href]:focus,
 .dark .badge-light[href]:hover {
-  color: $nord0;
-  background: $nord6;
+  color: nord.$nord0;
+  background: nord.$nord6;
 }
 
 /*************************************************
  * Buttons
  **************************************************/
 .btn-primary {
-  color: $nord0 !important;
-  background-color: $nord8;
-  border-color: $nord8;
+  color: nord.$nord0 !important;
+  background-color: nord.$nord8;
+  border-color: nord.$nord8;
 }
 
 .dark .btn-primary {
-  color: $nord0 !important;
-  background-color: $nord8;
-  border-color: $nord8;
+  color: nord.$nord0 !important;
+  background-color: nord.$nord8;
+  border-color: nord.$nord8;
 }
 
 .btn-toolbar .btn.btn-primary:hover,
@@ -291,9 +291,9 @@ blockquote {
 .btn-toolbar .btn.btn-primary.focus,
 .dark .btn-toolbar .btn.btn-primary:focus,
 .dark .btn-toolbar .btn.btn-primary.focus {
-  color: $nord0 !important;
-  background-color: lighten($nord8, 10%) !important;
-  border-color: lighten($nord8, 10%);
+  color: nord.$nord0 !important;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl) !important;
+  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
 .btn.btn-primary:hover,
@@ -302,55 +302,55 @@ blockquote {
 .btn.btn-primary.focus,
 .dark .btn.btn-primary:focus,
 .dark .btn.btn-primary.focus {
-  color: $nord0;
-  background-color: lighten($nord8, 10%) !important;
-  border-color: lighten($nord8, 10%);
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl) !important;
+  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
 .btn-toolbar .btn.btn-primary:focus,
 .btn-toolbar .btn.btn-primary.focus,
 .dark .btn-toolbar .btn.btn-primary:focus,
 .dark .btn-toolbar .btn.btn-primary.focus {
-  box-shadow: 0 0 0 0.2rem lighten($nord8, 10%);
+  box-shadow: 0 0 0 0.2rem color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
 .btn.btn-primary:focus,
 .btn.btn-primary.focus,
 .dark .btn.btn-primary:focus,
 .dark .btn.btn-primary.focus {
-  box-shadow: 0 0 0 0.2rem lighten($nord8, 10%);
+  box-shadow: 0 0 0 0.2rem color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
 .btn-toolbar .btn.btn-primary:not(:disabled):not(.disabled):active,
 .btn-toolbar .btn.btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
-  color: $nord0;
-  background-color: darken($nord8, 10%);
-  border-color: darken($nord8, 10%);
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
+  border-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):active,
 .btn.btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
-  color: $nord0;
-  background-color: darken($nord8, 10%);
-  border-color: darken($nord8, 10%);
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
+  border-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: darken($nord8, 10%) !important;
-  border-color: darken($nord8, 10%) !important;
+  background-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl) !important;
+  border-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl) !important;
 }
 
 .btn-outline-primary {
-  color: $nord0;
-  border-color: $nord0;
+  color: nord.$nord0;
+  border-color: nord.$nord0;
 }
 
 .dark .btn-outline-primary {
-  color: $nord6;
-  border-color: $nord6;
+  color: nord.$nord6;
+  border-color: nord.$nord6;
 }
 
 .btn-outline-primary:hover,
@@ -359,22 +359,22 @@ blockquote {
 .dark .btn-outline-primary:focus,
 .btn-outline-primary.focus,
 .dark .btn-outline-primary.focus {
-  color: $nord0 !important;
-  background-color: $nord8;
-  border-color: $nord8;
+  color: nord.$nord0 !important;
+  background-color: nord.$nord8;
+  border-color: nord.$nord8;
 }
 
 .btn-outline-primary:focus,
 .btn-outline-primary.focus {
-  box-shadow: 0 0 0 0.2rem $nord8;
+  box-shadow: 0 0 0 0.2rem nord.$nord8;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
-  color: $nord0;
-  background-color: $nord8;
-  border-color: $nord8;
+  color: nord.$nord0;
+  background-color: nord.$nord8;
+  border-color: nord.$nord8;
 }
 
 /*************************************************
@@ -398,16 +398,16 @@ blockquote {
   }
 }
 
-table { @include table-colors($primary, $nord4, $sta-background); }
-.dark table { @include table-colors($nord6, $nord3, $nord0); }
+table { @include table-colors(theme.$primary, nord.$nord4, theme.$background); }
+.dark table { @include table-colors(nord.$nord6, nord.$nord3, nord.$nord0); }
 
 table#colores-resistencias > tbody > tr:nth-child(odd) > :is(td, th) {
   background-color: initial;
 }
 
 table#colores-resistencias > tbody > tr:hover > :is(td, th) {
-  color: $sta-background;
-  background-color: $primary;
+  color: theme.$background;
+  background-color: theme.$primary;
 }
 
 td[colspan]:not([colspan="1"]) {
@@ -419,7 +419,7 @@ td[colspan]:not([colspan="1"]) {
  **************************************************/
 
 div.alert-warning > div:first-child::before {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .article-style aside a,
@@ -428,98 +428,98 @@ div.alert a {
 }
 
 div.alert > div:first-child::before {
-  color: $primary;
+  color: theme.$primary;
 }
 
 .alert-note {
-  color: $nord0;
-  background-color: $nord13;
-  border-color: $nord13;
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
 }
 
 .alert-warning {
-  color: $nord0;
-  background-color: $nord12;
-  border-color: $nord12;
+  color: nord.$nord0;
+  background-color: nord.$nord12;
+  border-color: nord.$nord12;
 }
 
 div.alert-example > div:first-child::before {
   font-family: "";
   content: "💡";
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .alert-example {
-  color: $nord0;
-  background-color: $nord14;
-  border-color: $nord14;
+  color: nord.$nord0;
+  background-color: nord.$nord14;
+  border-color: nord.$nord14;
 }
 
 div.alert-game > div:first-child::before {
   font-family: "";
   content: "🧩";
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .alert-game {
-  color: $nord0;
-  background-color: $nord14;
-  border-color: $nord14;
+  color: nord.$nord0;
+  background-color: nord.$nord14;
+  border-color: nord.$nord14;
 }
 
 div.alert-thanks > div:first-child::before {
-  color: $nord0;
+  color: nord.$nord0;
   content: "🙏";
 }
 
 .alert-thanks {
-  color: $nord0;
-  background-color: $nord13;
-  border-color: $nord13;
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
 }
 
 div.alert-soon > div:first-child::before {
-  color: $nord0;
+  color: nord.$nord0;
   content: "🔜";
 }
 
 .alert-soon {
-  color: $nord0;
-  background-color: $nord13;
-  border-color: $nord13;
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
 }
 
 div.alert-construction > div:first-child::before {
-  color: $nord0;
+  color: nord.$nord0;
   content: "🚧";
 }
 
 .alert-construction {
-  color: $nord0;
-  background-color: $nord12;
-  border-color: $nord12;
+  color: nord.$nord0;
+  background-color: nord.$nord12;
+  border-color: nord.$nord12;
 }
 
 div.alert-thread > div:first-child::before {
-  color: $nord0;
+  color: nord.$nord0;
   content: "🧵";
 }
 
 .alert-thread {
-  color: $nord0;
-  background-color: $nord13;
-  border-color: $nord13;
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
 }
 
 div.alert-heart > div:first-child::before {
-  color: $nord0;
+  color: nord.$nord0;
   content: "❤️";
 }
 
 .alert-heart {
-  color: $nord0;
-  background-color: $nord13;
-  border-color: $nord13;
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
 }
 
 /*************************************************
@@ -527,11 +527,11 @@ div.alert-heart > div:first-child::before {
  **************************************************/
 
 summary {
-  color: $primary;
+  color: theme.$primary;
 }
 
 .dark summary {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 /*************************************************
@@ -573,11 +573,11 @@ p svg {
 
 span#visits {
   font-weight: bold;
-  color: $primary;
+  color: theme.$primary;
 }
 
 .dark span#visits {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 footer {
@@ -585,11 +585,11 @@ footer {
 }
 
 .site-footer {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .site-footer {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 ul#menu-horizontal {
@@ -620,11 +620,11 @@ ul#menu-horizontal li {
  **************************************************/
 
 a.summary-link {
-  color: $nord3 !important;
+  color: nord.$nord3 !important;
 }
 
 .dark a.summary-link {
-  color: $nord4 !important;
+  color: nord.$nord4 !important;
 }
 
 .card {
@@ -638,29 +638,29 @@ a.summary-link {
 
 .dark .card,
 .dark .card-simple {
-  background: $nord3;
+  background: nord.$nord3;
 }
 
 .card .card-text p {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .card .card-text p {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .card .card-image.hover-overlay::after {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .card-body {
-  color: $nord0;
+  color: nord.$nord0;
   background: #fff;
 }
 
 .dark .card-body {
-  color: $nord6;
-  background: $nord3;
+  color: nord.$nord6;
+  background: nord.$nord3;
 }
 
 /*************************************************
@@ -668,42 +668,42 @@ a.summary-link {
  **************************************************/
 
 .search-header {
-  background-color: $sta-background;
+  background-color: theme.$background;
 }
 
 .search-modal {
-  background-color: $sta-background;
+  background-color: theme.$background;
 }
 
 #search-box #search-query {
-  border: 1px solid $primary;
+  border: 1px solid theme.$primary;
 }
 
 .dark #search-box #search-query {
-  border: 1px solid $nord6;
+  border: 1px solid nord.$nord6;
 }
 
 input[type="search"]::-webkit-search-cancel-button {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark input[type="search"]::-webkit-search-cancel-button {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .search-hit em,
 .dark .search-hit em {
-  background-color: $nord8;
-  color: $nord0;
-  border-bottom: 1px solid $nord8;
+  background-color: nord.$nord8;
+  color: nord.$nord0;
+  border-bottom: 1px solid nord.$nord8;
 }
 
 mark,
 .dark mark,
 .mark,
 .dark .mark {
-  background-color: $nord8;
-  color: $nord0;
+  background-color: nord.$nord8;
+  color: nord.$nord0;
   border-radius: 0.5em;
 
   overflow-x: auto;
@@ -711,21 +711,21 @@ mark,
 }
 
 .form-control:focus {
-  border-color: $primary;
-  box-shadow: 0 0 0 0.2rem $primary;
+  border-color: theme.$primary;
+  box-shadow: 0 0 0 0.2rem theme.$primary;
 }
 
 .dark .form-control:focus {
-  border-color: $nord6;
-  box-shadow: 0 0 0 0.2rem $nord6;
+  border-color: nord.$nord6;
+  box-shadow: 0 0 0 0.2rem nord.$nord6;
 }
 
 /*************************************************
  *  Page content
  **************************************************/
 
-// Optional tutor in the desktop margin of individual notes pages.
-@import "notes-tutor-button";
+// Keep the tutor button styles in this position in the cascade.
+@include meta.load-css("notes-tutor-button");
 
 .article-with-toc {
   position: relative;
@@ -761,7 +761,7 @@ mark,
   }
 }
 
-@include media-breakpoint-down(lg) {
+@include breakpoints.down(lg) {
   .article-with-toc {
     max-width: 760px;
   }
@@ -784,8 +784,8 @@ mark,
   height: 3rem;
   padding: 0;
   margin: 0 0 0 auto;
-  color: $nord6;
-  background: $nord0;
+  color: nord.$nord6;
+  background: nord.$nord0;
   border: 0;
   border-radius: 50%;
   box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
@@ -796,8 +796,8 @@ mark,
 }
 
 .dark .article-mobile-toc summary {
-  color: $nord0;
-  background: $nord6;
+  color: nord.$nord0;
+  background: nord.$nord6;
 }
 
 .article-mobile-toc summary::-webkit-details-marker {
@@ -842,26 +842,26 @@ mark,
   max-height: 70vh;
   padding: 1rem 0;
   overflow-y: auto;
-  background: $sta-background;
-  border: 1px solid $nord4;
+  background: theme.$background;
+  border: 1px solid nord.$nord4;
   border-radius: 0.5rem;
   box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.22);
 }
 
 .dark .article-mobile-toc-panel {
-  background: $nord0;
-  border-color: $nord3;
+  background: nord.$nord0;
+  border-color: nord.$nord3;
 }
 
 .article-mobile-toc-title {
   padding: 0 1rem 0.5rem;
-  font-family: $sta-font-heading, sans-serif;
+  font-family: theme.$font-heading, sans-serif;
   font-weight: 700;
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark .article-mobile-toc-title {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .article-mobile-toc #TableOfContentsMobile {
@@ -885,16 +885,16 @@ mark,
 .article-mobile-toc #TableOfContentsMobile li a {
   display: block;
   padding: 0.25rem 1rem;
-  color: $nord3;
+  color: nord.$nord3;
   line-height: 1.5;
 }
 
 .dark .article-mobile-toc #TableOfContentsMobile li a {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .article-mobile-toc #TableOfContentsMobile li a:hover {
-  color: $sta-primary;
+  color: theme.$primary;
   text-decoration: none;
 }
 
@@ -929,13 +929,13 @@ mark,
 }
 
 #TableOfContentsInPage li a:hover {
-  color: $sta-primary;
+  color: theme.$primary;
   text-decoration: none;
 }
 
 .article-style {
   overflow: visible;
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .article-style mjx-container[display="true"] {
@@ -943,22 +943,22 @@ mark,
 }
 
 .dark .article-style {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .page-subtitle {
-  font-family: $sta-font-heading, sans-serif;
-  color: $nord0;
+  font-family: theme.$font-heading, sans-serif;
+  color: nord.$nord0;
 }
 
 .dark .page-subtitle {
-  font-family: $sta-font-heading, sans-serif;
-  color: $nord6;
+  font-family: theme.$font-heading, sans-serif;
+  color: nord.$nord6;
 }
 
 .article-header-caption {
-  color: $nord6;
-  background: $nord0;
+  color: nord.$nord6;
+  background: nord.$nord0;
 }
 
 .article-header-caption a {
@@ -966,27 +966,27 @@ mark,
 }
 
 .article-title a {
-  color: $primary;
+  color: theme.$primary;
 }
 
 .dark .article-title a {
-  color: $nord6 !important;
+  color: nord.$nord6 !important;
 }
 
 .article-style a {
-  color: $nord10;
+  color: nord.$nord10;
 }
 
 .dark .article-style a {
-  color: $nord8;
+  color: nord.$nord8;
 }
 
 .article-style a:hover {
-  color: $nord11;
+  color: nord.$nord11;
 }
 
 .dark .article-style a:hover {
-  color: $nord13;
+  color: nord.$nord13;
 }
 
 .article-categories {
@@ -994,37 +994,37 @@ mark,
 }
 
 .text-muted {
-  color: $nord3 !important;
+  color: nord.$nord3 !important;
 }
 
 .dark .text-muted {
-  color: $nord4 !important;
+  color: nord.$nord4 !important;
 }
 
 .article-metadata {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .article-metadata {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .article-metadata a,
 .article-metadata a:hover {
-  color: $nord3 !important;
+  color: nord.$nord3 !important;
 }
 
 .dark .article-metadata a,
 .dark .article-metadata a:hover {
-  color: $nord4 !important;
+  color: nord.$nord4 !important;
 }
 
 caption {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark caption {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 /*************************************************
@@ -1032,7 +1032,7 @@ caption {
  **************************************************/
 
 ul.share li a {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 /*************************************************
@@ -1040,11 +1040,11 @@ ul.share li a {
 **************************************************/
 
 .comments-box h3 {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .comments-box h3 {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .subscribe-box {
@@ -1083,11 +1083,11 @@ ul.subscribe li i {
 
 ul.subscribe li a {
   text-decoration: none !important;
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark ul.subscribe li a {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 ul.subscribe li:hover i {
@@ -1095,11 +1095,11 @@ ul.subscribe li:hover i {
 }
 
 .subscribe-box h3 {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .subscribe-box h3 {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 /*************************************************
@@ -1107,27 +1107,27 @@ ul.subscribe li:hover i {
 **************************************************/
 
 .author-card .card-title a {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark .author-card .card-title a {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .author-card .card-subtitle {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .author-card .card-subtitle {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .author-card .card-text {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .author-card .card-text {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 /*************************************************
@@ -1135,19 +1135,19 @@ ul.subscribe li:hover i {
  **************************************************/
 
 .home-section.light h1 {
-  color: $primary;
+  color: theme.$primary;
 }
 
 .dark .home-section.light h1 {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .home-section.light a {
-  color: $primary;
+  color: theme.$primary;
 }
 
 .dark .home-section.light a {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 div.card-text p a,
@@ -1156,26 +1156,26 @@ div.card-text p a,
 }
 
 .section-subheading {
-  color: $primary;
+  color: theme.$primary;
 
 }
 
 .dark .section-subheading {
-  color: $nord6;
+  color: nord.$nord6;
 
 }
 
 .dark .card .section-subheading a {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .section-heading p {
-  font-family: $sta-font-heading, sans-serif;
-  color: $nord0;
+  font-family: theme.$font-heading, sans-serif;
+  color: nord.$nord0;
 }
 
 .dark .section-heading p {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .section-heading a {
@@ -1185,24 +1185,24 @@ div.card-text p a,
 }
 
 .card .section-subheading a:hover {
-  color: $nord0;
-  border-bottom: solid 1px $nord0;
+  color: nord.$nord0;
+  border-bottom: solid 1px nord.$nord0;
   text-decoration: none;
 }
 
 .dark .card .section-subheading a:hover {
-  color: $nord6;
-  border-bottom: solid 1px $nord6;
+  color: nord.$nord6;
+  border-bottom: solid 1px nord.$nord6;
   text-decoration: none;
 }
 
 .dark .experience .m-2 .border,
 .dark .experience .col.border-right {
-  border-color: $nord6 !important;
+  border-color: nord.$nord6 !important;
 }
 
 .dark .experience .m-2 .border.exp-fill {
-  background-color: $nord6 !important;
+  background-color: nord.$nord6 !important;
 }
 
 /*************************************************
@@ -1215,9 +1215,9 @@ div.card-text p a,
   right: 0;
   margin: 0 15px 0 auto;
   padding: 2px 5px;
-  color: $nord6;
+  color: nord.$nord6;
   font-size: 0.7em;
-  background: $nord0;
+  background: nord.$nord0;
   text-align: right;
   z-index: 5;
   opacity: 0.65;
@@ -1230,17 +1230,17 @@ div.card-text p a,
 }
 
 .dark .hero-media-caption {
-  color: $nord0;
-  background: $nord6;
+  color: nord.$nord0;
+  background: nord.$nord6;
 }
 
 .hero-media-caption a {
-  color: $nord13;
+  color: nord.$nord13;
   text-decoration: none;
 }
 
 .dark .hero-media-caption a {
-  color: $nord11;
+  color: nord.$nord11;
 }
 
 .hero-title {
@@ -1248,30 +1248,30 @@ div.card-text p a,
 }
 
 .hero-lead {
-  color: $nord0;
-  font-family: $sta-font-heading, sans-serif;
+  color: nord.$nord0;
+  font-family: theme.$font-heading, sans-serif;
 
 }
 
 .dark .hero-lead {
-  color: $nord6;
+  color: nord.$nord6;
 
 }
 
 .hero-cta-alt {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark .hero-cta-alt {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .hero-note {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark .hero-note {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 /*************************************************
@@ -1281,32 +1281,32 @@ div.card-text p a,
 .wg-hero.dark .hero-title,
 .wg-hero.dark .hero-lead,
 .wg-hero.dark .btn {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .btn-light {
-  background-color: $nord8;
-  border-color: $nord8;
+  background-color: nord.$nord8;
+  border-color: nord.$nord8;
 }
 
 .btn-light:hover {
-  background-color: lighten($nord8, 10%);
-  border-color: lighten($nord8, 10%);
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
+  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
 .btn-light:focus,
 .btn-light.focus {
-  background-color: lighten($nord8, 10%);
-  border-color: lighten($nord8, 10%);
-  box-shadow: 0 0 0 0.2rem lighten($nord8, 10%);
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
+  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
+  box-shadow: 0 0 0 0.2rem color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
 .btn-light:not(:disabled):not(.disabled):active,
 .btn-light:not(:disabled):not(.disabled).active,
 .show > .btn-light.dropdown-toggle {
-  color: $nord0;
-  background-color: darken($nord8, 10%);
-  border-color: darken($nord8, 10%);
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
+  border-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
 }
 
 .carousel-control-prev-icon,
@@ -1327,7 +1327,7 @@ div.card-text p a,
   li {
     width: 90px;
     height: 9px;
-    background-color: $primary;
+    background-color: theme.$primary;
   }
 }
 
@@ -1362,11 +1362,11 @@ div.card-text p a,
  **************************************************/
 
 .portrait-title h3 {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .portrait-title h3 {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .network-icon.network-icon-footer li {
@@ -1378,19 +1378,19 @@ div.card-text p a,
 }
 
 .network-icon a {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark .network-icon a {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .network-icon a:hover {
-  color: $nord11;
+  color: nord.$nord11;
 }
 
 .dark .network-icon a:hover {
-  color: $nord13;
+  color: nord.$nord13;
 }
 
 ul.ul-interests {
@@ -1400,11 +1400,11 @@ ul.ul-interests {
 }
 
 ul.ul-edu li .description p.institution {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark ul.ul-edu li .description p.institution {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 /*************************************************
@@ -1414,73 +1414,73 @@ ul.ul-edu li .description p.institution {
 /* Documentation: article footer. */
 
 .docs .body-footer {
-  border-top: 1px solid $nord3;
-  color: $nord3;
+  border-top: 1px solid nord.$nord3;
+  color: nord.$nord3;
 }
 
 .dark .docs .body-footer {
-  border-top: 1px solid $nord4;
-  color: $nord4;
+  border-top: 1px solid nord.$nord4;
+  color: nord.$nord4;
 }
 
 /* Docs sidebar li>a. */
 
 .docs-toc-link:hover {
-  color: $nord8;
+  color: nord.$nord8;
 }
 
 .docs-sidebar .nav > li > a {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .docs-sidebar .nav > .dark li > .dark a {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 .docs-sidebar .nav > li > a:hover {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark .docs-sidebar .nav > .dark li > .dark a:hover {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .docs-sidebar .docs-toc-item a.active {
-  color: $nord0;
+  color: nord.$nord0;
 }
 
 .dark .docs-sidebar .docs-toc-item a.active {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .docs-sidebar .nav > .active > a,
 .docs-sidebar .nav > .active > a:hover {
-  color: $nord8;
+  color: nord.$nord8;
 }
 
 /* Docs TOC nav. */
 
 /* Docs links. */
 .dark .docs-toggle {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 #TableOfContents {
-  border-left: 1px solid $nord3;
+  border-left: 1px solid nord.$nord3;
 }
 
 .dark #TableOfContents {
-  border-left: 1px solid $nord4;
+  border-left: 1px solid nord.$nord4;
 }
 
 #TableOfContents li a,
 .toc-top li a {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark #TableOfContents li a,
 .dark .toc-top li a {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 /*************************************************
@@ -1488,82 +1488,82 @@ ul.ul-edu li .description p.institution {
  **************************************************/
 
 .page-link {
-  color: $primary;
-  background-color: $sta-background;
-  border: 1px solid $primary;
+  color: theme.$primary;
+  background-color: theme.$background;
+  border: 1px solid theme.$primary;
 }
 
 .dark .page-link {
-  color: $nord6;
-  background-color: $nord0 !important;
-  border: 1px solid $nord6 !important;
+  color: nord.$nord6;
+  background-color: nord.$nord0 !important;
+  border: 1px solid nord.$nord6 !important;
 }
 
 .page-link:hover,
 .dark .page-link:hover {
-  color: $nord0 !important;
+  color: nord.$nord0 !important;
   text-decoration: none;
-  background-color: $nord8 !important;
-  border-color: $nord8 !important;
+  background-color: nord.$nord8 !important;
+  border-color: nord.$nord8 !important;
 }
 
 /*************************************************
  *  Forms
  **************************************************/
 .form-control {
-  color: $primary;
-  background-color: $sta-background;
-  border: 1px solid $primary;
+  color: theme.$primary;
+  background-color: theme.$background;
+  border: 1px solid theme.$primary;
 }
 
 .dark .form-control {
-  color: $nord6;
-  background-color: $nord0;
-  border: 1px solid $nord6;
+  color: nord.$nord6;
+  background-color: nord.$nord0;
+  border: 1px solid nord.$nord6;
 }
 
 .form-control:-moz-focusring {
-  text-shadow: 0 0 0 $nord0;
+  text-shadow: 0 0 0 nord.$nord0;
 }
 
 .dark .form-control:-moz-focusring {
-  text-shadow: 0 0 0 $nord6;
+  text-shadow: 0 0 0 nord.$nord6;
 }
 
 .form-control:focus {
-  color: $nord0;
-  background-color: $sta-background;
-  border-color: $primary;
+  color: nord.$nord0;
+  background-color: theme.$background;
+  border-color: theme.$primary;
 }
 
 .dark .form-control:focus {
-  color: $nord6;
-  background-color: $nord0;
-  border-color: $nord6;
+  color: nord.$nord6;
+  background-color: nord.$nord0;
+  border-color: nord.$nord6;
 }
 
 .form-control::placeholder {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .form-control::placeholder {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 select.form-control:focus::-ms-value {
-  color: $primary;
+  color: theme.$primary;
 }
 
 .dark select.form-control:focus::-ms-value {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 .form-control-plaintext {
-  color: $primary;
+  color: theme.$primary;
 }
 
 .dark .form-control-plaintext {
-  color: $nord6;
+  color: nord.$nord6;
 }
 
 /*************************************************
@@ -1571,26 +1571,26 @@ select.form-control:focus::-ms-value {
  **************************************************/
 
 .share-box h3 {
-  color: $nord3;
+  color: nord.$nord3;
 }
 
 .dark .share-box h3 {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 p.sharing {
-  color: $nord3;
+  color: nord.$nord3;
   text-align: center;
 }
 
 p.kudos {
   font-size: 0.8rem;
-  color: $nord3;
+  color: nord.$nord3;
   text-align: center;
 }
 
 .dark p.kudos {
-  color: $nord4;
+  color: nord.$nord4;
 }
 
 /*************************************************
@@ -1603,14 +1603,14 @@ p.kudos {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: $nord0;
-  color: $nord6;
+  background-color: nord.$nord0;
+  color: nord.$nord6;
   z-index: 9999999999999999999;
 }
 
 .dark .bottom-panel {
-  color: $nord0;
-  background-color: $nord6;
+  color: nord.$nord0;
+  background-color: nord.$nord6;
 }
 
 .popup-wrapper {
@@ -1636,13 +1636,13 @@ p.kudos {
 #popup-content a,
 #popup-content a:link,
 #popup-content a:visited {
-  color: $nord8;
+  color: nord.$nord8;
 }
 
 .dark #popup-content a,
 .dark #popup-content a:link,
 .dark #popup-content a:visited {
-  color: $nord10;
+  color: nord.$nord10;
 }
 
 a.footnote-ref,
@@ -1651,8 +1651,8 @@ a.footnote-ref,
   top: 0;
   left: 0;
   font-weight: bold;
-  color: $nord0;
-  background-color: $nord8;
+  color: nord.$nord0;
+  background-color: nord.$nord8;
   border-radius: 50%;
   padding: 0.2em 0.5em 0.2em;
 }
@@ -1660,8 +1660,8 @@ a.footnote-ref,
 a.footnote-ref:hover,
 .dark a.footnote-ref:hover {
   border: none;
-  color: $nord0;
-  background-color: lighten($nord8, 10%);
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
   text-decoration: none;
   transition: none;
 }
@@ -1671,8 +1671,8 @@ a.footnote-backref,
   position: relative;
   top: -0.2em;
   font-weight: bold;
-  color: $nord0;
-  background-color: $nord8;
+  color: nord.$nord0;
+  background-color: nord.$nord8;
   font-size: 0.8em;
   border-radius: 0.4em;
   padding: 0.2em 0.4em 0;
@@ -1682,22 +1682,22 @@ a.footnote-backref,
 a.footnote-backref:hover,
 .dark a.footnote-backref:hover {
   border: none;
-  color: $nord0;
-  background-color: lighten($nord8, 10%);
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
   text-decoration: none;
   transition: none;
 }
 
 #popup-content a.footnote-backref,
 .dark #popup-content a.footnote-backref {
-  color: $nord0 !important;
-  background-color: $nord8;
+  color: nord.$nord0 !important;
+  background-color: nord.$nord8;
 }
 
 #popup-content a.footnote-backref:hover,
 .dark #popup-content a.footnote-backref:hover {
-  color: $nord0;
-  background-color: lighten($nord8, 10%);
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
 /*************************************************
@@ -1709,32 +1709,32 @@ a.footnote-backref:hover,
 }
 
 .dark .cc-window {
-  color: $nord0 !important;
-  background-color: $nord6 !important;
+  color: nord.$nord0 !important;
+  background-color: nord.$nord6 !important;
 }
 
 .cc-message {
-  font-family: $sta-font-nav, serif;
+  font-family: theme.$font-nav, serif;
 }
 
 a.cc-btn.cc-dismiss {
-  font-family: $sta-font-nav, serif;
+  font-family: theme.$font-nav, serif;
 }
 
 .dark a.cc-btn.cc-dismiss {
-  color: $nord6;
-  background-color: $nord0;
+  color: nord.$nord6;
+  background-color: nord.$nord0;
 }
 
 a.cc-btn.cc-dismiss:hover {
-  background-color: $nord8;
-  color: $nord0;
+  background-color: nord.$nord8;
+  color: nord.$nord0;
 }
 
 a.cc-link:active,
 a.cc-link:hover,
 a.cc-link:visited {
-  color: $nord8 !important;
+  color: nord.$nord8 !important;
 }
 
 /*************************************************
@@ -1742,7 +1742,7 @@ a.cc-link:visited {
  **************************************************/
 
 .tooltip-inner {
-  font-family: $sta-font-nav, serif;
+  font-family: theme.$font-nav, serif;
 }
 
 div#lazy-load-poster {
@@ -1782,34 +1782,33 @@ details p {
   padding-left: 0;
   border-left: none;
 }
-
 .dark details p {
   border-left: none;
 }
 
 .spoiler {
-  background-color: $nord4;
-  border: 1px solid $nord0;
+  background-color: nord.$nord4;
+  border: 1px solid nord.$nord0;
   border-radius: 8px;
   padding: 16px 16px 8px;
 }
 
 .dark .spoiler {
-  background-color: $nord3;
-  border-color: $nord6;
+  background-color: nord.$nord3;
+  border-color: nord.$nord6;
 }
 
 .progress {
-  background-color: $nord4;
+  background-color: nord.$nord4;
 }
 
 .dark .progress {
-  background-color: $nord3;
+  background-color: nord.$nord3;
 }
 
 .progress-bar {
-  background-color: $nord8;
-  color: $nord0;
+  background-color: nord.$nord8;
+  color: nord.$nord0;
 }
 
 @media (scripting: none) {
@@ -1817,5 +1816,3 @@ details p {
     display: none;
   }
 }
-
-@import "theme-images";

@@ -1,13 +1,15 @@
+@use "../../theme";
+
 /*************************************************
  *  Modals.
  **************************************************/
 
 .modal-content {
-  background: $sta-background;
+  background: theme.$background;
 }
 
 .dark .modal-content {
-  background: $sta-dark-background;
+  background: theme.$dark-background;
 }
 
 .modal-title {

@@ -1,3 +1,6 @@
+@use "../../theme";
+@use "../../breakpoints";
+
 /*************************************************
  *  Navigation bar
  **************************************************/
@@ -5,7 +8,7 @@
 html {
   --navbar-height: 70px;
 
-  @include media-breakpoint-down(md) {
+  @include breakpoints.down(md) {
     --navbar-height: 50px;
   }
 }
@@ -34,16 +37,16 @@ html:has(.page-header #navbar-main) {
 }
 
 .dropdown-menu {
-  background-color: $sta-menu-primary !important;
-  color: $sta-menu-text !important;
+  background-color: theme.$menu-primary !important;
+  color: theme.$menu-text !important;
   z-index: 1032; // I18n dropdown over mobile expanded menu.
 }
 
 .navbar {
   height: var(--navbar-height);
-  background: $sta-menu-primary;
+  background: theme.$menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
-  font-size: #{$sta-font-size-small}px;
+  font-size: #{theme.$font-size-small}px;
 
   // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
@@ -53,7 +56,7 @@ html:has(.page-header #navbar-main) {
     // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.
     position: relative;
   }
-  @include media-breakpoint-down(md) {
+  @include breakpoints.down(md) {
     .navbar-nav-scroll {
       width: 100%;
       overflow: hidden;
@@ -70,57 +73,57 @@ html:has(.page-header #navbar-main) {
     display: flex;
 
     .nav-link {
-      color: rgba($sta-menu-text, 0.85);
+      color: rgba(theme.$menu-text, 0.85);
 
       &.active,
       &:hover,
       &:focus {
-        color: $sta-menu-text;
+        color: theme.$menu-text;
       }
 
       &.active {
         font-weight: bold !important;
-        color: $sta-menu-text-active !important;
+        color: theme.$menu-text-active !important;
       }
     }
   }
 
   .dropdown-menu {
-    font-size: #{$sta-font-size-small}px;
+    font-size: #{theme.$font-size-small}px;
   }
 
   // Note: dedicated `dropdown-item-active` class to prevent ScrollSpy removing `active` class from language chooser.
   .dropdown-item.active,
   .dropdown-item-active {
     font-weight: bold;
-    color: $sta-menu-text-active !important;
+    color: theme.$menu-text-active !important;
   }
 }
 
 .dark .navbar {
-  background: $sta-dark-menu-primary;
+  background: theme.$dark-menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, 0.11);
 
   .navbar-nav {
     .nav-link {
-      color: rgba($sta-dark-menu-text, 0.85);
+      color: rgba(theme.$dark-menu-text, 0.85);
 
       &.active,
       &:hover,
       &:focus {
-        color: $sta-dark-menu-text-active;
+        color: theme.$dark-menu-text-active;
       }
 
       &.active {
         font-weight: bold !important;
-        color: $sta-dark-menu-text-active !important;
+        color: theme.$dark-menu-text-active !important;
       }
     }
   }
 
   .dropdown-item.active,
   .dropdown-item-active {
-    color: $sta-dark-menu-text-active !important;
+    color: theme.$dark-menu-text-active !important;
   }
 }
 
@@ -132,7 +135,7 @@ html:has(.page-header #navbar-main) {
 }
 
 .dark .navbar-toggler {
-  color: $sta-dark-menu-text;
+  color: theme.$dark-menu-text;
 }
 
 .navbar-toggler:focus,
@@ -141,7 +144,7 @@ html:has(.page-header #navbar-main) {
   box-shadow: none !important;
 }
 
-@include media-breakpoint-down(md) {
+@include breakpoints.down(md) {
   /* Match breakpoint for i18n dropdown in navbar.html. */
   .i18n-dropdown .nav-link::after {
     // Remove dropdown arrow on small devices (when language name isn't displayed).
@@ -180,7 +183,7 @@ html:has(.page-header #navbar-main) {
 }
 
 .dark .navbar-brand {
-  color: $sta-dark-menu-title;
+  color: theme.$dark-menu-title;
 }
 
 // Dynamically fit logo image to space available.
@@ -197,14 +200,14 @@ html:has(.page-header #navbar-main) {
 }
 
 #navbar-main .main-menu-item ul li .nav-link {
-  color: $sta-menu-text;
+  color: theme.$menu-text;
 }
 
 .dark #navbar-main .main-menu-item ul li .nav-link {
-  color: $sta-dark-menu-text;
+  color: theme.$dark-menu-text;
 }
 
-@include media-breakpoint-down(md) {
+@include breakpoints.down(md) {
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {
     position: absolute;
@@ -236,12 +239,12 @@ html:has(.page-header #navbar-main) {
     left: 0;
     top: var(--navbar-height);
     width: 100%;
-    background-color: $sta-menu-primary;
+    background-color: theme.$menu-primary;
     text-align: center !important;
   }
 
   .dark .navbar-collapse {
-    background-color: $sta-dark-menu-primary;
+    background-color: theme.$dark-menu-primary;
   }
 
   #navbar-main .main-menu-item .nav-item {
@@ -274,16 +277,16 @@ ul.nav-icons li.nav-item a.nav-link {
 }
 
 .dark .dropdown-menu {
-  background-color: $sta-dark-menu-primary !important;
-  color: $sta-dark-menu-text !important;
+  background-color: theme.$dark-menu-primary !important;
+  color: theme.$dark-menu-text !important;
 }
 
 .dropdown-item {
-  background-color: $sta-menu-primary !important;
-  color: $sta-menu-text !important;
+  background-color: theme.$menu-primary !important;
+  color: theme.$menu-text !important;
 }
 
 .dark .dropdown-item {
-  background-color: $sta-dark-menu-primary !important;
-  color: $sta-dark-menu-text !important;
+  background-color: theme.$dark-menu-primary !important;
+  color: theme.$dark-menu-text !important;
 }

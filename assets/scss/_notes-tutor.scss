@@ -1,4 +1,5 @@
-@import "nord";
+@use "sass:string";
+@use "nord";
 
 .notes-tutor-panel {
   position: absolute;
@@ -9,12 +10,12 @@
   box-sizing: border-box;
   width: calc(100vw - 2rem);
   max-width: 420px;
-  height: unquote("min(680px, calc(var(--tutor-viewport-height, 100dvh) - 5.5rem - env(safe-area-inset-bottom)))");
+  height: string.unquote("min(680px, calc(var(--tutor-viewport-height, 100dvh) - 5.5rem - env(safe-area-inset-bottom)))");
   overflow: hidden;
   background: var(--notes-tutor-background, #eceff4);
-  border: 1px solid $nord4;
+  border: 1px solid nord.$nord4;
   border-radius: 0.6rem;
-  box-shadow: 0 8px 28px rgba($nord0, 0.18);
+  box-shadow: 0 8px 28px rgba(nord.$nord0, 0.18);
 }
 
 .notes-tutor-header {
@@ -24,7 +25,7 @@
   gap: 0.4rem;
   padding: 0.65rem 0.8rem;
   flex-shrink: 0;
-  border-bottom: 1px solid $nord4;
+  border-bottom: 1px solid nord.$nord4;
 
   h2 { margin: 0; font-size: 1.1em; }
 }
@@ -53,11 +54,11 @@
 .notes-tutor-context {
   padding: 0.6rem;
   margin-bottom: 0.7rem;
-  background: rgba($nord8, 0.14);
+  background: rgba(nord.$nord8, 0.14);
   border-radius: 0.35rem;
   overflow-wrap: anywhere;
 }
-.notes-tutor-context-label { display: block; font-size: 0.8em; color: $nord3; }
+.notes-tutor-context-label { display: block; font-size: 0.8em; color: nord.$nord3; }
 .notes-tutor-section { display: block; font-size: 0.9em; }
 
 .notes-tutor-selection-details {
@@ -65,19 +66,19 @@
   margin-bottom: 0;
   font-size: 0.85em;
 
-  summary { color: $nord10; }
+  summary { color: nord.$nord10; }
 }
 .notes-tutor-selection {
   margin: 0.5rem 0;
   padding: 0 0 0 0.5rem;
   font-size: 1em;
-  border-left: 2px solid $nord9;
+  border-left: 2px solid nord.$nord9;
 }
 
 .notes-tutor-clear-selection, .notes-tutor-reset, .notes-tutor-pin {
   padding: 0.25rem 0;
   border: 0;
-  color: $nord10;
+  color: nord.$nord10;
   background: transparent;
   text-align: left;
   text-decoration: underline;
@@ -93,9 +94,9 @@
 
   button {
     padding: 0.35rem 0.55rem;
-    color: $nord0;
+    color: nord.$nord0;
     background: transparent;
-    border: 1px solid $nord9;
+    border: 1px solid nord.$nord9;
     border-radius: 0.8rem;
     font-size: 0.85em;
   }
@@ -106,7 +107,7 @@
   padding: 0.65rem;
   margin-bottom: 0.6rem;
   border-radius: 0.35rem;
-  background: $nord6;
+  background: nord.$nord6;
   font-size: 0.95em;
 
   > strong { display: block; margin-bottom: 0.3rem; font-size: 0.85em; }
@@ -118,7 +119,7 @@
   mjx-container[display="true"] { max-width: 100%; overflow-x: auto; overflow-y: hidden; }
 }
 .notes-tutor-message-user {
-  background: rgba($nord8, 0.18);
+  background: rgba(nord.$nord8, 0.18);
 
   .notes-tutor-message-content { white-space: pre-wrap; }
 }
@@ -126,7 +127,7 @@
 .notes-tutor-composer {
   flex-shrink: 0;
   padding: 0.65rem 0.8rem;
-  border-top: 1px solid $nord4;
+  border-top: 1px solid nord.$nord4;
 }
 .notes-tutor-status { margin: 0 0 0.5rem; font-size: 0.85em; }
 .notes-tutor-status:empty, .notes-tutor-messages:empty { display: none; }
@@ -139,7 +140,7 @@
     padding: 0.5rem;
     color: inherit;
     background: transparent;
-    border: 1px solid $nord4;
+    border: 1px solid nord.$nord4;
     border-radius: 0.3rem;
     resize: none;
     font-size: 16px; // Avoid automatic input zoom in iOS.
@@ -153,15 +154,15 @@
   margin-top: 0.4rem;
   border: 0;
   border-radius: 0.3rem;
-  color: $nord6;
-  background: $nord10;
+  color: nord.$nord6;
+  background: nord.$nord10;
 }
 .notes-tutor button:disabled { opacity: 0.6; cursor: default; }
 .notes-tutor-privacy-details {
   margin-top: 0.4rem;
   margin-bottom: 0;
   font-size: 0.78em;
-  color: $nord3;
+  color: nord.$nord3;
 
 }
 .notes-tutor-privacy { margin: 0.4rem 0; }
@@ -181,19 +182,19 @@
     bottom: auto;
     width: 100%;
     max-width: none;
-    height: unquote("min(680px, calc(100dvh - 12rem))");
+    height: string.unquote("min(680px, calc(100dvh - 12rem))");
     margin-top: 0.6rem;
   }
 }
 
 .dark .notes-tutor {
-  color: $nord6;
+  color: nord.$nord6;
 
-  .notes-tutor-panel { background: $nord0; border-color: $nord3; }
-  .notes-tutor-header, .notes-tutor-composer { border-color: $nord3; }
+  .notes-tutor-panel { background: nord.$nord0; border-color: nord.$nord3; }
+  .notes-tutor-header, .notes-tutor-composer { border-color: nord.$nord3; }
   .notes-tutor-header h2 { color: inherit; }
-  .notes-tutor-message-assistant { background: $nord1; }
-  .notes-tutor-context-label, .notes-tutor-privacy-details { color: $nord4; }
-  .notes-tutor-clear-selection, .notes-tutor-reset, .notes-tutor-pin, .notes-tutor-selection-details summary { color: $nord8; }
-  .notes-tutor-suggestions button { color: $nord6; }
+  .notes-tutor-message-assistant { background: nord.$nord1; }
+  .notes-tutor-context-label, .notes-tutor-privacy-details { color: nord.$nord4; }
+  .notes-tutor-clear-selection, .notes-tutor-reset, .notes-tutor-pin, .notes-tutor-selection-details summary { color: nord.$nord8; }
+  .notes-tutor-suggestions button { color: nord.$nord6; }
 }

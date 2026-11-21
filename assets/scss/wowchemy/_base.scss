@@ -1,17 +1,19 @@
+@use "../theme";
+
 /*************************************************
  *  Hugo Blox Builder's Core Style
  **************************************************/
 
 html {
-  font-family: $sta-font-body, sans-serif;
-  font-size: #{$sta-font-size-small}px;
+  font-family: theme.$font-body, sans-serif;
+  font-size: #{theme.$font-size-small}px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65;
   overflow-x: clip;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: #{$sta-font-size}px;
+    font-size: #{theme.$font-size}px;
   }
 }
 
@@ -20,7 +22,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: $sta-background;
+  background-color: theme.$background;
   padding-top: 0;
   counter-reset: captions;
 
@@ -103,7 +105,7 @@ ul.task-list li input[type='checkbox'] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: $sta-font-nav, sans-serif;
+  font-family: theme.$font-nav, sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizelegibility;
@@ -116,7 +118,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $sta-font-heading, sans-serif;
+  font-family: theme.$font-heading, sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -160,29 +162,29 @@ h6 {
 
 a,
 h3.article-title a:hover {
-  color: $sta-link;
+  color: theme.$link;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: $sta-link-hover;
+  color: theme.$link-hover;
 }
 
 .dark a,
 .dark h3.article-title a:hover {
-  color: $sta-dark-link;
+  color: theme.$dark-link;
 }
 
 .dark a:not(.btn):hover,
 .dark a:not(.btn):focus {
-  color: $sta-dark-link-hover;
+  color: theme.$dark-link-hover;
 }
 
 pre,
 code {
-  font-family: $sta-font-mono, monospace;
+  font-family: theme.$font-mono, monospace;
 }
 
 pre {

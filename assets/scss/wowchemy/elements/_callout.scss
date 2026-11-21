@@ -1,10 +1,5 @@
 // Callout styles for the Callout shortcode
 
-/* Style asides as Bootstrap alerts. */
-.article-style aside {
-  @extend .alert;
-}
-
 /* Asides use <p> block element whereas alerts use <div>. */
 .article-style aside p,
 div.alert > div {

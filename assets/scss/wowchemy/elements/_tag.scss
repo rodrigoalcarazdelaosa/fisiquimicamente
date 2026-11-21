@@ -1,3 +1,5 @@
+@use "../../theme";
+
 /**************************************************
  *  Tags/Labels
  **************************************************/
@@ -40,12 +42,12 @@ a.badge:hover {
 .tag-cloud a:active,
 .tag-cloud a:focus,
 .tag-cloud a:hover {
-  color: $sta-primary-dark;
+  color: theme.$primary-dark;
   transform: scale(1.2);
 }
 
 .dark .tag-cloud a:active,
 .dark .tag-cloud a:focus,
 .dark .tag-cloud a:hover {
-  color: $sta-primary-light;
+  color: theme.$primary-light;
 }
