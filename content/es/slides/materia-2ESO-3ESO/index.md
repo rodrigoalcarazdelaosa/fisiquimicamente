@@ -103,7 +103,7 @@ En [esta tabla, tomada de la entrada sobre densidad en la versión inglesa de la
 
 ---
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Artsy_density_column.png/207px-Artsy_density_column.png" width="20%" lightbox="true" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" width="20%" lightbox="true" >}}
 
 ---
 
