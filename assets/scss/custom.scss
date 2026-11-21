@@ -32,6 +32,22 @@ body.dark {
   font-family: $sta-font-nav, serif;
 }
 
+.navbar-logo {
+  display: block;
+  width: 61.6px;
+  height: 61.6px;
+  background: var(--logo-light) center / contain no-repeat;
+}
+
+.dark .navbar-logo {
+  background-image: var(--logo-dark);
+}
+
+.navbar-wordmark {
+  width: 112px;
+  height: 44px;
+}
+
 @include media-breakpoint-down(md) {
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {

@@ -1,13 +1,19 @@
 (() => {
-  const players = document.querySelectorAll('tgs-player');
+  const players = document.querySelectorAll('tgs-player, lottie-player');
   if (!players.length) return;
   const visible = new Set();
   const loading = new Set();
+  let playerScript;
   for (const player of players) {
-    if (player.hasAttribute('src') && !player.dataset.src) {
-      player.dataset.src = player.getAttribute('src');
+    // Give the unregistered element the same display as the player so it can be observed.
+    if (getComputedStyle(player).display === 'inline') player.style.display = 'block';
+    if (player.localName !== 'tgs-player') continue;
+    if (player.hasAttribute('src')) {
+      player.dataset.src ||= player.getAttribute('src');
       player.removeAttribute('src');
     }
+    // The player starts autoplay when the animation finishes rendering.
+    player.addEventListener('play', () => pauseOutsideViewport(player));
   }
 
   function pauseOutsideViewport(player) {
@@ -19,9 +25,14 @@
 
   async function update(player) {
     if (!visible.has(player) || document.hidden) {
-      pauseOutsideViewport(player);
+      if (player.localName === 'tgs-player') pauseOutsideViewport(player);
       return;
     }
+    if (!customElements.get(player.localName)) {
+      loadPlayerScript();
+      return;
+    }
+    if (player.localName !== 'tgs-player') return;
     if (loading.has(player)) return;
     const dark = document.documentElement.classList.contains('dark') || document.body.classList.contains('dark');
     const src = (dark && player.dataset.srcDark) || player.dataset.src;
@@ -45,32 +56,36 @@
     update(player);
   }
 
-  customElements.whenDefined('tgs-player').then(() => {
-    if ('IntersectionObserver' in window) {
-      const observer = new IntersectionObserver(entries => {
-        for (const entry of entries) {
-          if (entry.isIntersecting) {
-            visible.add(entry.target);
-          } else {
-            visible.delete(entry.target);
-          }
-          update(entry.target);
-        }
-      });
-      players.forEach(player => observer.observe(player));
-    } else {
-      players.forEach(player => visible.add(player));
-    }
-    // The player starts autoplay when the animation finishes rendering.
-    players.forEach(player => player.addEventListener('play', () => pauseOutsideViewport(player)));
-    const updateVisible = () => visible.forEach(update);
-    document.addEventListener('wcThemeChange', updateVisible);
-    document.addEventListener('visibilitychange', updateVisible);
-    updateVisible();
-  });
-  if (!customElements.get('tgs-player')) {
-    const script = document.createElement('script');
-    script.src = 'https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js';
-    document.head.append(script);
+  const updateVisible = () => visible.forEach(update);
+
+  function loadPlayerScript() {
+    if (playerScript) return;
+    playerScript = document.createElement('script');
+    playerScript.src = 'https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js';
+    playerScript.onload = updateVisible;
+    playerScript.onerror = () => {
+      playerScript.remove();
+      playerScript = null;
+    };
+    document.body.append(playerScript);
   }
+
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver(entries => {
+      for (const entry of entries) {
+        if (entry.isIntersecting) {
+          visible.add(entry.target);
+        } else {
+          visible.delete(entry.target);
+        }
+        update(entry.target);
+      }
+    });
+    players.forEach(player => observer.observe(player));
+  } else {
+    players.forEach(player => visible.add(player));
+    updateVisible();
+  }
+  document.addEventListener('wcThemeChange', updateVisible);
+  document.addEventListener('visibilitychange', updateVisible);
 })();
