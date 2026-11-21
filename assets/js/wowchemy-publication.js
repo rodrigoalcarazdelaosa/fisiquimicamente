@@ -1,15 +1,16 @@
 const publications = document.getElementById('container-publications');
-if (publications && window.Isotope) {
+if (publications) {
   const search = document.querySelector('.filter-search');
   const selects = [...document.querySelectorAll('.pub-filters')];
   const type = document.querySelector('.pubtype-select');
-  const layout = new Isotope(publications, {
-    itemSelector: '.isotope-item', percentPosition: true, masonry: {columnWidth: '.grid-sizer'},
-  });
+  const items = publications.querySelectorAll('.isotope-item');
   function filter() {
     const term = search?.value.trim().toLocaleLowerCase() || '';
-    layout.arrange({filter: item => item.textContent.toLocaleLowerCase().includes(term)
-      && selects.every(select => !select.value || item.matches(select.value))});
+    for (const item of items) {
+      const matches = item.textContent.toLocaleLowerCase().includes(term)
+        && selects.every(select => !select.value || item.matches(select.value));
+      item.classList.toggle('d-none', !matches);
+    }
   }
   function readHash() {
     if (type) type.value = location.hash ? '.pubtype-' + location.hash.slice(1) : '*';

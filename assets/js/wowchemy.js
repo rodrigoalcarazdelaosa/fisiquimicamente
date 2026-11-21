@@ -94,17 +94,21 @@ function prepareContent() {
 
 function initPortfolio(container) {
   const section = container.closest('section');
-  const layout = section.querySelector('.isotope').classList.contains('js-layout-row') ? 'fitRows' : 'masonry';
-  const isotope = new Isotope(container, {
-    itemSelector: '.isotope-item',
-    layoutMode: layout,
-    masonry: {gutter: 20},
-    filter: section.querySelector('.default-project-filter')?.textContent || '*',
-  });
+  const initialFilter = section.querySelector('.default-project-filter')?.textContent || '*';
+  const masonry = container.classList.contains('js-layout-masonry') && window.Isotope;
+  const isotope = masonry ? new Isotope(container, {
+    itemSelector: '.isotope-item', masonry: {gutter: 20}, filter: initialFilter,
+  }) : null;
+  const items = container.querySelectorAll('.isotope-item');
+  function applyFilter(selector) {
+    if (isotope) isotope.arrange({filter: selector});
+    else for (const item of items) item.classList.toggle('d-none', !item.matches(selector));
+  }
+  if (!isotope) applyFilter(initialFilter);
   for (const filter of section.querySelectorAll('.project-filters a')) {
     filter.addEventListener('click', event => {
       event.preventDefault();
-      isotope.arrange({filter: filter.dataset.filter});
+      applyFilter(filter.dataset.filter);
       for (const sibling of filter.parentElement.children) {
         sibling.classList.toggle('active', sibling === filter);
         if (sibling !== filter) sibling.classList.remove('all');
@@ -122,6 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initTooltips();
   initCarousels();
   initSearchDialog();
+  document.querySelectorAll('.projects-container.js-layout-row').forEach(initPortfolio);
 
   const {isDarkTheme, themeMode} = initThemeVariation();
   renderThemeVariation(isDarkTheme, themeMode, true);
@@ -148,9 +153,8 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 window.addEventListener('load', () => {
-  const portfolios = [...document.querySelectorAll('.projects-container')];
+  const portfolios = [...document.querySelectorAll('.projects-container.js-layout-masonry')];
   const loaded = portfolios.map(container => new Promise(resolve => {
-    if (!window.Isotope) return resolve();
     if (window.imagesLoaded) imagesLoaded(container, () => { initPortfolio(container); resolve(); });
     else { initPortfolio(container); resolve(); }
   }));

@@ -80,6 +80,7 @@
   {{/* Initialize slides. */}}
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" (dict "slides" $.Params.slides) "minify" hugo.IsProduction) | fingerprint }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
+  {{ partial "embed_scripts.html" . }}
 
 </body>
 </html>
