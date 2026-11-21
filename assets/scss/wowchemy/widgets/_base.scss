@@ -1,3 +1,5 @@
+@use "../../nord";
+
 @use "../../theme";
 @use "../../breakpoints";
 
@@ -242,5 +244,67 @@
 
 .course .card-subtitle a:hover {
   border-bottom: solid 1px;
+  text-decoration: none;
+}
+
+.dark .card .section-subheading a {
+  color: theme.$primary;
+  border-bottom: solid 1px transparent;
+}
+
+.home-section.light h1 {
+  color: theme.$primary;
+}
+
+.dark .home-section.light h1 {
+  color: nord.$nord6;
+}
+
+.home-section.light a {
+  color: theme.$primary;
+}
+
+.dark .home-section.light a {
+  color: nord.$nord6;
+}
+
+.section-subheading {
+  color: theme.$primary;
+
+}
+
+.dark .section-subheading {
+  color: nord.$nord6;
+
+}
+
+.dark .card .section-subheading a {
+  color: nord.$nord6;
+}
+
+.section-heading p {
+  font-family: theme.$font-heading, sans-serif;
+  color: nord.$nord0;
+}
+
+.dark .section-heading p {
+  color: nord.$nord6;
+}
+
+.section-heading a {
+  color: currentColor;
+  text-decoration: none;
+  border-bottom: solid 1px currentColor;
+}
+
+.card .section-subheading a:hover {
+  color: nord.$nord0;
+  border-bottom: solid 1px nord.$nord0;
+  text-decoration: none;
+}
+
+.dark .card .section-subheading a:hover {
+  color: nord.$nord6;
+  border-bottom: solid 1px nord.$nord6;
   text-decoration: none;
 }

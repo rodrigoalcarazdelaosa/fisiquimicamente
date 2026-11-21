@@ -1,3 +1,6 @@
+@use "../../nord";
+@use "../../theme";
+
 // Callout styles for the Callout shortcode
 
 /* Asides use <p> block element whereas alerts use <div>. */
@@ -55,4 +58,129 @@ div.alert a {
   color: #cd0930;
   background-color: #fff5f7;
   border-color: #ff3860;
+}
+
+.alert-example hr {
+  background: nord.$nord0;
+  background-image: linear-gradient(
+    to right,
+    nord.$nord14,
+    nord.$nord3,
+    nord.$nord2,
+    nord.$nord1,
+    nord.$nord0,
+    nord.$nord1,
+    nord.$nord2,
+    nord.$nord3,
+    nord.$nord14
+  );
+}
+
+.dark .alert-example blockquote {
+  color: nord.$nord3;
+  border-left: 0.25rem solid nord.$nord3;
+}
+
+div.alert-warning > div:first-child::before {
+  color: nord.$nord0;
+}
+
+.article-style aside a,
+div.alert a {
+  color: currentColor !important;
+}
+
+div.alert > div:first-child::before {
+  color: theme.$primary;
+}
+
+.alert-note {
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
+}
+
+.alert-warning {
+  color: nord.$nord0;
+  background-color: nord.$nord12;
+  border-color: nord.$nord12;
+}
+
+div.alert-example > div:first-child::before {
+  font-family: "";
+  content: "💡";
+  color: nord.$nord0;
+}
+
+.alert-example {
+  color: nord.$nord0;
+  background-color: nord.$nord14;
+  border-color: nord.$nord14;
+}
+
+div.alert-game > div:first-child::before {
+  font-family: "";
+  content: "🧩";
+  color: nord.$nord0;
+}
+
+.alert-game {
+  color: nord.$nord0;
+  background-color: nord.$nord14;
+  border-color: nord.$nord14;
+}
+
+div.alert-thanks > div:first-child::before {
+  color: nord.$nord0;
+  content: "🙏";
+}
+
+.alert-thanks {
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
+}
+
+div.alert-soon > div:first-child::before {
+  color: nord.$nord0;
+  content: "🔜";
+}
+
+.alert-soon {
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
+}
+
+div.alert-construction > div:first-child::before {
+  color: nord.$nord0;
+  content: "🚧";
+}
+
+.alert-construction {
+  color: nord.$nord0;
+  background-color: nord.$nord12;
+  border-color: nord.$nord12;
+}
+
+div.alert-thread > div:first-child::before {
+  color: nord.$nord0;
+  content: "🧵";
+}
+
+.alert-thread {
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
+}
+
+div.alert-heart > div:first-child::before {
+  color: nord.$nord0;
+  content: "❤️";
+}
+
+.alert-heart {
+  color: nord.$nord0;
+  background-color: nord.$nord13;
+  border-color: nord.$nord13;
 }

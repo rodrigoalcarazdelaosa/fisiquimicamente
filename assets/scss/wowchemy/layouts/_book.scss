@@ -1,3 +1,5 @@
+@use "../../nord";
+
 @use "../../theme";
 @use "../../breakpoints";
 
@@ -289,4 +291,86 @@ ul.toc-top {
 .anchorjs-link:hover {
   color: theme.$primary;
   text-decoration: none;
+}
+
+.dark .docs-toc-link {
+  color: rgb(248, 248, 242);
+  background: theme.$dark-background;
+}
+
+.dark .docs-sidebar .nav > li:not(.active) > a {
+  color: rgb(248, 248, 242);
+  background: theme.$dark-background;
+}
+
+/* Documentation: article footer. */
+
+.docs .body-footer {
+  border-top: 1px solid nord.$nord3;
+  color: nord.$nord3;
+}
+
+.dark .docs .body-footer {
+  border-top: 1px solid nord.$nord4;
+  color: nord.$nord4;
+}
+
+/* Docs sidebar li>a. */
+
+.docs-toc-link:hover {
+  color: nord.$nord8;
+}
+
+.docs-sidebar .nav > li > a {
+  color: nord.$nord3;
+}
+
+.dark .docs-sidebar .nav > .dark li > .dark a {
+  color: nord.$nord4;
+}
+
+.docs-sidebar .nav > li > a:hover {
+  color: nord.$nord0;
+}
+
+.dark .docs-sidebar .nav > .dark li > .dark a:hover {
+  color: nord.$nord6;
+}
+
+.docs-sidebar .docs-toc-item a.active {
+  color: nord.$nord0;
+}
+
+.dark .docs-sidebar .docs-toc-item a.active {
+  color: nord.$nord6;
+}
+
+.docs-sidebar .nav > .active > a,
+.docs-sidebar .nav > .active > a:hover {
+  color: nord.$nord8;
+}
+
+/* Docs TOC nav. */
+
+/* Docs links. */
+.dark .docs-toggle {
+  color: nord.$nord6;
+}
+
+#TableOfContents {
+  border-left: 1px solid nord.$nord3;
+}
+
+.dark #TableOfContents {
+  border-left: 1px solid nord.$nord4;
+}
+
+#TableOfContents li a,
+.toc-top li a {
+  color: nord.$nord3;
+}
+
+.dark #TableOfContents li a,
+.dark .toc-top li a {
+  color: nord.$nord4;
 }

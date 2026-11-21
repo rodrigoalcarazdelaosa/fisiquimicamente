@@ -30,3 +30,19 @@
   font-size: 3rem;
   text-align: center;
 }
+
+.featurette-icon {
+  font-size: 6rem;
+}
+
+.featurette-icon span {
+  display: inline-block;
+}
+
+.featurette-icon span:hover {
+  transform: scale(1.2);
+}
+
+.featurette-icon span a:hover {
+  text-decoration: none;
+}

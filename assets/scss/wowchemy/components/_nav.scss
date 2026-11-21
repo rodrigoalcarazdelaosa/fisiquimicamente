@@ -290,3 +290,48 @@ ul.nav-icons li.nav-item a.nav-link {
   background-color: theme.$dark-menu-primary !important;
   color: theme.$dark-menu-text !important;
 }
+
+/* Navigation bar text */
+.navbar-light {
+  font-family: theme.$font-nav, serif;
+}
+
+.navbar-logo {
+  display: block;
+  width: 61.6px;
+  height: 61.6px;
+  background: var(--logo-light) center / contain no-repeat;
+}
+
+.dark .navbar-logo {
+  background-image: var(--logo-dark);
+}
+
+@include breakpoints.down(md) {
+  .navbar-toggler {
+    flex: 1;
+    max-width: 440px;
+    min-width: 0;
+    margin-inline-end: 0.75rem;
+    padding: 0;
+  }
+
+  .navbar-wordmark {
+    width: 100%;
+    height: 44px;
+    background-position: left center;
+  }
+
+  // Used in conjunction with mobile .navbar-brand to center logo on mobile.
+  .navbar-brand-mobile-wrapper {
+    position: relative;
+  }
+  .navbar-brand {
+    // Center logo in mobile navbar.
+    margin: auto;
+    padding-left: 0.5rem;
+  }
+  .navbar-brand img {
+    max-height: 0.9rem;
+  }
+}

@@ -15,3 +15,7 @@ div.chart {
   // Add horizontal scroll on mobile since Plotly
   overflow-x: auto;
 }
+
+.dark #MathJax_Zoom {
+  background-color: rgb(68, 71, 90) !important;
+}

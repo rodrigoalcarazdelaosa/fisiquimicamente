@@ -1,3 +1,5 @@
+@use "../../nord";
+
 @use "../../theme";
 
 /*************************************************
@@ -45,4 +47,13 @@
 
 .experience .m-2 .border.exp-fill {
   background-color: theme.$primary !important;
+}
+
+.dark .experience .m-2 .border,
+.dark .experience .col.border-right {
+  border-color: nord.$nord6 !important;
+}
+
+.dark .experience .m-2 .border.exp-fill {
+  background-color: nord.$nord6 !important;
 }

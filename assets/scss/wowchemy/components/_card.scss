@@ -1,3 +1,5 @@
+@use "../../nord";
+
 /*************************************************
  *  Card component
  **************************************************/
@@ -120,4 +122,61 @@ a.summary-link {
 
 .card:hover .card-image.hover-overlay::after {
   opacity: 0.6;
+}
+
+.dark .card .card-image.hover-overlay::before {
+  background: #666;
+}
+
+.dark .card .card-image.hover-overlay::after {
+  color: #fff;
+}
+
+a.summary-link {
+  color: nord.$nord3 !important;
+}
+
+.dark a.summary-link {
+  color: nord.$nord4 !important;
+}
+
+.card {
+  background: #fff;
+}
+
+.card-simple {
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.dark .card,
+.dark .card-simple {
+  background: nord.$nord3;
+}
+
+.card .card-text p {
+  color: nord.$nord3;
+}
+
+.dark .card .card-text p {
+  color: nord.$nord4;
+}
+
+.card .card-image.hover-overlay::after {
+  color: nord.$nord3;
+}
+
+.card-body {
+  color: nord.$nord0;
+  background: #fff;
+}
+
+.dark .card-body {
+  color: nord.$nord6;
+  background: nord.$nord3;
+}
+
+div.card-text p a,
+.dark div.card-text p a {
+  text-decoration: underline;
 }
