@@ -2,17 +2,6 @@
 @use "../../nord";
 @use "../../theme";
 
-/*************************************************
- *  Button size override
- *************************************************/
-
-.btn {
-  padding: 0.5rem;
-  font-size: 0.8rem;
-  line-height: 0.9; // Anything less and multiline button text may overlap.
-  border-radius: 0.3rem;
-}
-
 .btn-links .btn {
   padding: 5px 0.5rem;
   line-height: 1;
@@ -90,10 +79,7 @@
 .btn-toolbar .btn.btn-primary:focus,
 .btn-toolbar .btn.btn-primary.focus,
 .dark .btn-toolbar .btn.btn-primary:focus,
-.dark .btn-toolbar .btn.btn-primary.focus {
-  box-shadow: 0 0 0 0.2rem color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
-}
-
+.dark .btn-toolbar .btn.btn-primary.focus,
 .btn.btn-primary:focus,
 .btn.btn-primary.focus,
 .dark .btn.btn-primary:focus,
@@ -103,12 +89,6 @@
 
 .btn-toolbar .btn.btn-primary:not(:disabled):not(.disabled):active,
 .btn-toolbar .btn.btn-primary:not(:disabled):not(.disabled).active,
-.show > .btn-primary.dropdown-toggle {
-  color: nord.$nord0;
-  background-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
-  border-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
-}
-
 .btn.btn-primary:not(:disabled):not(.disabled):active,
 .btn.btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
