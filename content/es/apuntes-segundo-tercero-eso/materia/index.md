@@ -132,7 +132,7 @@ En [esta tabla, tomada de la entrada sobre densidad en la versión inglesa de la
 	| Iridio (Ir) | 22420 |  |
 	| Osmio (Os) | 22570 |  | -->
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Artsy_density_column.png/207px-Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/71/Artsy_density_column.png" title="Una probeta graduada llena de varios líquidos (de abajo a arriba: jarabe de arce, jabón lavavajillas, agua, vino, aceite vegetal y aceite de oliva) para ilustrar la densidad. <br> [Kelvinsong](https://commons.wikimedia.org/wiki/User:Kelvinsong) / [CC BY](https://creativecommons.org/licenses/by/3.0)" lightbox="true" >}}
 
 Puedes aprender más sobre la **densidad** *jugando* con esta **simulación**:
 
