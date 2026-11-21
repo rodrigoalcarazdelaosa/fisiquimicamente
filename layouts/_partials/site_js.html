@@ -20,7 +20,7 @@
 
 {{ if .Page.Store.Get "has_mermaid" }}
   {{/* Title attribute is used by wowchemy-theming.js to detect Mermaid */}}
-  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" title=\"mermaid\"></script>" (printf $js.mermaid.url $js.mermaid.version) $js.mermaid.sri | safeHTML }}
+  <script data-cfasync="false" defer src="{{ printf $js.mermaid.url $js.mermaid.version }}" integrity="{{ $js.mermaid.sri }}" crossorigin="anonymous" title="mermaid"></script>
 {{ end }}
 
 {{/* Maps JS. */}}
@@ -145,7 +145,7 @@
   {{ $bundle = $bundle | append (resources.Get (printf "js/%s.js" .)) }}
 {{ end }}
 {{ $script := $bundle | resources.Concat (printf "js/site-%s.js" .Lang) | fingerprint }}
-<script defer src="{{ $script.RelPermalink }}"></script>
+<script data-cfasync="false" defer src="{{ $script.RelPermalink }}"></script>
 
 {{/* Maps */}}
 {{ if site.Params.features.map.provider }}

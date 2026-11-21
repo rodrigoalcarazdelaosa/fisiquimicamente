@@ -94,7 +94,7 @@
   {{/* Netlify Identity integration. */}}
   {{ $use_cms := templates.Exists "decap_cms/single.decap_cms_config.yml" | default (site.Params.extensions.decap_cms.enable | default false) }}
   {{ if .IsHome | and $use_cms }}
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script data-cfasync="false" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
 
   {{/* RSS Feed */}}
