@@ -56,18 +56,6 @@ html:has(.page-header #navbar-main) {
     // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.
     position: relative;
   }
-  @include breakpoints.down(md) {
-    .navbar-nav-scroll {
-      width: 100%;
-      overflow: hidden;
-
-      .navbar-nav {
-        overflow-x: auto;
-        white-space: nowrap;
-        -webkit-overflow-scrolling: touch;
-      }
-    }
-  }
 
   .navbar-nav {
     display: flex;
@@ -158,7 +146,6 @@ html:has(.page-header #navbar-main) {
   /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
   position: absolute;
 
-  /* Below style from .dropdown-menu-right to prevent dropdown going off page. */
   right: 0;
   left: auto;
 }
