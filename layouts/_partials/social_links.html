@@ -1,29 +1,39 @@
-<ul class="network-icon" aria-hidden="true">
-    {{ range .Params.social }}
-      {{ $pack := or .icon_pack "fas" }}
-      {{ $pack_prefix := $pack }}
-      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-        {{ $pack_prefix = "fa" }}
+{{ $large := .large | default false }}
+{{ $image_class := cond $large "svg-icon svg-baseline big-icon" "svg-icon svg-baseline" }}
+{{ $emoji_class := cond $large "svg-icon svg-baseline big-icon" "" }}
+{{ $legacy_emoji := dict "envelope" "✉️" "google-scholar" "🎓" "cv" "📄" }}
+<ul class="network-icon">
+  {{ range .page.Params.social }}
+    {{ $link := partial "functions/get_social_link" . }}
+    {{ $pack := $link.icon_pack }}
+    {{ $icon := $link.icon | default "" }}
+    {{ if or (in (slice "fas" "fab" "far" "fal") $pack) (and (eq $pack "ai") (not site.Params.extensions.academicons.enable)) }}
+      {{ $pack = "svg" }}
+      {{ with index $legacy_emoji $icon }}
+        {{ $pack = "emoji" }}
+        {{ $icon = . }}
       {{ end }}
-      {{ $link := .link }}
-      {{ $scheme := (urls.Parse $link).Scheme }}
-      {{ $target := "" }}
-      {{ if not $scheme }}
-        {{ $link = .link | relLangURL }}
-      {{ else if in (slice "http" "https") $scheme }}
-        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+    {{ end }}
+    {{ $src := "" }}
+    {{ if eq $pack "svg" }}
+      {{ if eq $icon "github" }}
+        {{ $src = "icon/github.svg" | relURL }}
+      {{ else }}
+        {{ with (resources.Get (printf "media/icons/%s.png" $icon) | default (resources.Get (printf "media/icons/%s.svg" $icon))) }}
+          {{ $src = .RelPermalink }}
+        {{ end }}
       {{ end }}
-      <li>
-        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-          {{ if eq $pack "emoji" }}
-            <span data-toggle="tooltip" data-placement="bottom" title="{{ .label }}">{{- .icon | markdownify | emojify -}}</span>
-          {{ else if eq $pack "svg" }}
-            {{- $svg_icon := resources.Get (printf "media/icons/%s.png" .icon) | default (resources.Get (printf "media/icons/%s.svg" .icon)) -}}
-            <img data-toggle="tooltip" data-placement="bottom" title="{{ .label }}" src="{{ $svg_icon.RelPermalink }}" alt="{{ .icon }}" class="svg-icon svg-baseline" loading="lazy">
-          {{ else }}
-            <i data-toggle="tooltip" data-placement="bottom" title="{{.label}}" class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
-          {{ end }}
-        </a>
-      </li>
-    {{end}}
-  </ul>
+    {{ end }}
+    <li>
+      <a href="{{ $link.link | safeURL }}" {{ $link.target | safeHTMLAttr }} aria-label="{{ $link.aria_label | default $link.link }}">
+        {{ if $src }}
+          <img data-toggle="tooltip" data-placement="bottom" title="{{ $link.tooltip }}" src="{{ $src }}" alt="" class="{{ $image_class }}" loading="lazy">
+        {{ else if and (eq $pack "ai") site.Params.extensions.academicons.enable }}
+          <i data-toggle="tooltip" data-placement="bottom" title="{{ $link.tooltip }}" class="ai ai-{{ $icon }}{{ if $large }} big-icon{{ end }}" aria-hidden="true"></i>
+        {{ else }}
+          <span data-toggle="tooltip" data-placement="bottom" title="{{ $link.tooltip }}"{{ with $emoji_class }} class="{{ . }}"{{ end }} aria-hidden="true">{{ if eq $pack "emoji" }}{{ $icon | markdownify | emojify }}{{ else }}🔗{{ end }}</span>
+        {{ end }}
+      </a>
+    </li>
+  {{ end }}
+</ul>

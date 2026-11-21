@@ -30,7 +30,7 @@
       <h5 class="card-title">{{if $profile_url}}<a href="{{$profile_url}}">{{end}}{{$author_page.Title}}{{if $profile_url}}</a>{{end}}</h5>
       {{ with $author_page.Params.role }}<h6 class="card-subtitle">{{. | markdownify | emojify}}</h6>{{end}}
       {{ with $author_page.Params.bio }}<p class="card-text">{{. | markdownify | emojify}}</p>{{end}}
-      {{ partial "social_links" $author_page }}
+      {{ partial "social_links" (dict "page" $author_page) }}
     </div>
   </div>
 {{end}}{{/* Profile page block */}}
