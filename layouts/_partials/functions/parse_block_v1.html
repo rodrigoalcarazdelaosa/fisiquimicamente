@@ -16,9 +16,6 @@
 {{ end }}
 
 {{/* Workaround to make Hugo's .Page.Store.Set cascade up to the parent of headless pages */}}
-{{ if $block.Page.Store.Get "has_mermaid" }}
-  {{ $page.Page.Store.Set "has_mermaid" true }}
-{{ end }}
 
 {{/* Begin widget styling */}}
 {{ $bg := $block.Params.design.background }}

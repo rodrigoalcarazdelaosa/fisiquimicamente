@@ -38,10 +38,6 @@
   {{ $archive_page = site.GetPage (printf "categories/%s" (urlize $block.Params.content.filters.category)) }}
   {{ $query = $query | intersect $archive_page.Pages }}
 {{ end }}
-{{ if $block.Params.content.filters.publication_type }}
-  {{ $archive_page = site.GetPage (printf "publication_types/%s" $block.Params.content.filters.publication_type) }}
-  {{ $query = $query | intersect $archive_page.Pages }}
-{{ end }}
 {{ if $block.Params.content.filters.author }}
   {{ $archive_page = site.GetPage (printf "authors/%s" (urlize $block.Params.content.filters.author)) }}
   {{ $query = $query | intersect $archive_page.Pages }}
@@ -100,10 +96,6 @@
     {{ $i18n := "" }}
     {{ if eq $items_type "post" }}
       {{ $i18n = "more_posts" }}
-    {{ else if eq $items_type "event" }}
-      {{ $i18n = "more_talks" }}
-    {{ else if eq $items_type "publication" }}
-      {{ $i18n = "more_publications" }}
     {{ else }}
       {{ $i18n = "more_pages" }}
     {{ end }}

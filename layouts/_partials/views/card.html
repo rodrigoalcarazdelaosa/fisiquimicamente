@@ -22,24 +22,7 @@
 
 <div class="card-simple view-card">
 
-  {{ if eq $item.Type "event" }}
-  <div class="article-metadata">
-    {{ if $item.Params.authors }}
-    <div>
-      {{ partial "page_metadata_authors" $item }}
-    </div>
-    {{ end }}
-    <span>
-      {{ partial "functions/get_event_dates" $item }}
-    </span>
-    {{ with $item.Params.location }}
-    <span class="middot-divider"></span>
-    <span>{{ . }}</span>
-    {{ end }}
-  </div>
-  {{ else }}
     {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-  {{ end }}
 
   {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
   {{ $anchor := $item.Params.image.focal_point | default "Smart" }}

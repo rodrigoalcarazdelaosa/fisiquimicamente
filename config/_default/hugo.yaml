@@ -38,7 +38,6 @@ permalinks:
   authors: "/autor/:slug/"
   tags: "/etiqueta/:slug/"
   categories: "/categoria/:slug/"
-  publication_types: "/publication-type/:slug/"
   post: "/blog/:year/:month/:day/:slug"
 disableAliases: true
 outputs:
@@ -67,7 +66,6 @@ timeout: 100000
 taxonomies:
   tag: tags
   category: categories
-  publication_type: publication_types
   author: authors
 capitalizeListTitles: false
 markup:

@@ -42,3 +42,9 @@ Los siguientes 13 *shortcodes* tampoco tienen invocaciones en el contenido ni en
 Se usó Hugo 0.170.1 con `--minify --templateMetrics` en los tres idiomas. Se repitió la compilación con `--buildDrafts --buildFuture --buildExpired`. Las compilaciones de referencia y de comprobación usaron el mismo reloj, la misma revisión para la información de Git y carpetas de salida distintas.
 
 Las métricas se contrastaron con las invocaciones de *shortcodes*, los campos de los archivos de contenido, los arquetipos, la configuración y los nombres que las plantillas construyen al seleccionar widgets, vistas, hooks y proveedores. Para consultar un archivo retirado, se puede usar desde la raíz `git show 5f9235cd9:layouts/_shortcodes/chart.html`, sustituyendo la ruta por la del archivo que interese.
+
+## Revisión posterior a los ajustes de JavaScript
+
+La compilación de los tres idiomas, incluidos borradores y páginas futuras o caducadas, confirmó la ausencia de publicaciones, eventos y proyectos. Se retiraron sus plantillas y arquetipos, junto con la taxonomía vacía de tipos de publicación.
+
+También se retiraron los diagramas de Mermaid y Markmap, las integraciones de mapas, el bloque de avisos, el pie mínimo, las vistas de lista, cita y escaparate, los comentarios de Disqus, Giscus y Commento, y las variantes de búsqueda Algolia y DocSearch. `hero-lottie` sigue referenciado por secciones que están desactivadas. El shortcode `3Dmol` aparece en las métricas como `3dmol.html`.

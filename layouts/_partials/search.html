@@ -1,6 +1,6 @@
-{{/* Partial for built-in search and Algolia search. */}}
+{{/* Local search dialog. */}}
 {{ $search_provider := lower site.Params.features.search.provider }}
-{{ if in (slice "wowchemy" "algolia") $search_provider }}
+{{ if eq $search_provider "wowchemy" }}
 <aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
@@ -15,13 +15,9 @@
       </div>
 
       <div id="search-box">
-        {{ if eq $search_provider "wowchemy" }}
         <input name="q" id="search-query" placeholder="{{i18n "search_placeholder"}}" autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
         aria-label="{{i18n "search_placeholder"}}">
-        {{ else }}
-        <!-- Search box will appear here -->
-        {{ end }}
       </div>
 
       {{ $search_queries := false }}

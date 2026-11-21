@@ -16,7 +16,6 @@ en:
     authors: "/author/:slug/"
     tags: "/tag/:slug/"
     categories: "/category/:slug/"
-    publication_types: "/publication-type/:slug/"
     post: "/blog/:year/:month/:day/:slug"
   params:
     marketing:

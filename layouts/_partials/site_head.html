@@ -54,15 +54,6 @@
     {{ .Page.Store.Set "has_gallery" true }}
   {{ end }}
 
-  {{ if in (slice "mapnik" "mapbox") (lower site.Params.features.map.provider) }}
-    <link rel="stylesheet" href="{{ printf $css.leaflet.url $css.leaflet.version }}" crossorigin="anonymous">
-  {{ end }}
-  {{ if eq (lower site.Params.features.search.provider) "algolia" }}
-    <link rel="stylesheet" href="{{ printf $css.instantsearch.url $css.instantsearch.version }}" integrity="{{ $css.instantsearch.sri }}" crossorigin="anonymous">
-  {{ else if eq (lower site.Params.features.search.provider) "docsearch" }}
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
-  {{ end }}
-
   {{ range $name, $asset := $js }}
     {{ if and $asset.async (or (ne (lower $name) "mathjax") $.Params.math site.Params.features.math.enable) }}
       <script {{ if eq (lower $name) "mathjax" }}data-cfasync="false"{{ end }} src="{{ printf $asset.url $asset.version }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>

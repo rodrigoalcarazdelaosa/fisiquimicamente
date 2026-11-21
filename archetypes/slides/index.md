@@ -16,11 +16,6 @@ slides:
   #   Use lower case names and replace space with hyphen '-'
   highlight_style: dracula
 
-  diagram: true
-  diagram_options:
-    # Mermaid diagram themes include: default,base,dark,neutral,forest
-    theme: base
-
   # RevealJS slide options.
   # Options are named using the snake case equivalent of those in the RevealJS docs.
   reveal_options:

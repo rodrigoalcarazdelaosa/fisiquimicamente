@@ -1,5 +1,5 @@
 {{ if .Page.Store.Get "has_lite_youtube" }}
-  <script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1/lite-youtube.min.js"></script>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.9.0/lite-youtube.min.js" integrity="sha256-tvIhTU3/TUD+qe+JjzSJ0BhcvZI0IMRkdNSHM1Udvzk=" crossorigin="anonymous"></script>
 {{ end }}
 {{ if .Page.Store.Get "has_deferred_embeds" }}
   {{ $embeds := resources.Get "js/deferred-embeds.js" | minify | fingerprint }}
