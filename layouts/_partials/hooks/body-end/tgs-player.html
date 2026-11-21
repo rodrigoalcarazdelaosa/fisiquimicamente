@@ -1,2 +1,0 @@
-{{ $player := resources.Get "js/tgs-players.js" | minify | fingerprint }}
-<script defer src="{{ $player.RelPermalink }}"></script>

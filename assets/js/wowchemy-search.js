@@ -34,21 +34,47 @@ async function loadIndex() {
   return response.json();
 }
 
+async function loadFuse() {
+  const {url, integrity} = libraries.fuse;
+  const link = document.createElement('link');
+  if (link.relList.supports('modulepreload')) {
+    link.rel = 'modulepreload';
+    link.href = url;
+    link.integrity = integrity;
+    link.crossOrigin = 'anonymous';
+    await new Promise((resolve, reject) => {
+      link.onload = resolve;
+      link.onerror = () => {
+        link.remove();
+        reject(new Error('Could not load Fuse'));
+      };
+      document.head.append(link);
+    });
+  }
+  return (await import(url)).default;
+}
+
 function loadEngine() {
   if (!engine) {
-    engine = Promise.all([
-      loadIndex(),
-      loadScript(libraries.fuse),
-    ]).then(([index]) => {
-      return new window.Fuse(index, {
-        shouldSort: true, tokenize: true, threshold: search_config.threshold, location: 0,
-        distance: 100, maxPatternLength: 32, minMatchCharLength: search_config.minLength,
+    engine = Promise.all([loadIndex(), loadFuse()]).then(([index, Fuse]) => {
+      const options = {
+        ignoreDiacritics: true,
+        threshold: search_config.threshold,
+        minMatchCharLength: search_config.minLength,
         keys: [
           {name: 'title', weight: 0.99}, {name: 'summary', weight: 0.6},
           {name: 'authors', weight: 0.5}, {name: 'content', weight: 0.2},
           {name: 'tags', weight: 0.5}, {name: 'categories', weight: 0.5},
         ],
-      });
+      };
+      const phrases = new Fuse(index, options);
+      let words;
+      return query => {
+        const matches = phrases.search(query);
+        if (matches.length || !/\s/.test(query)) return matches;
+        words ??= new Fuse(index, {...options, useTokenSearch: true});
+        return words.search(query);
+      };
     }).catch(error => { engine = null; throw error; });
   }
   return engine;
@@ -69,16 +95,16 @@ async function search(force = false) {
   if (suggestions) suggestions.hidden = !!query;
   if (!query || (!force && query.length < search_config.minLength)) return;
   try {
-    const fuse = await loadEngine();
+    const find = await loadEngine();
     const isCurrent = () => current === generation && document.body.classList.contains('searching');
     if (!isCurrent()) return;
-    const results = fuse.search(query);
+    const results = find(query);
     const header = document.createElement(results.length ? 'h3' : 'div');
     header.className = results.length ? 'mt-0' : 'search-no-results';
     header.textContent = results.length ? results.length + ' ' + i18n.results : i18n.no_results;
     const fragment = document.createDocumentFragment();
     fragment.append(header);
-    results.forEach((item, index) => {
+    results.forEach(({item}, index) => {
       const hit = template.content.firstElementChild.cloneNode(true);
       hit.id = 'summary-' + index;
       const link = hit.querySelector('a');

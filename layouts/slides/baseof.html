@@ -4,8 +4,6 @@
 
   {{/* Asset versions */}}
   {{ $cdn_url_reveal := "https://cdn.jsdelivr.net/npm/reveal.js@5.2.1" }}
-  {{ $mermaid_version := "9.1.3" }}
-  {{ $mermaid_sri := "sha256-TIYL00Rhw/8WaoUhYTLX9SKIEFdXxg+yMWSLVUbhiLg=" }}
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,9 +48,7 @@
 
   <link href="https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
 
-  {{ if .Params.threedmol }}
-    <script src="https://3Dmol.org/build/3Dmol-min.js"></script>
-  {{ end }}
+  {{ partial "hooks/body-end/threedmol.html" . }}
 
 </head>
 <body>
@@ -70,11 +66,6 @@
   {{/* Load third-party Reveal plugins. */}}
   {{ if $.Param "slides.reveal_options.menu_enabled" }}
     <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.js" integrity="sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA=" crossorigin="anonymous"></script>
-  {{ end }}
-
-   {{/* Load Mermaid. */}}
-  {{ if $.Param "slides.diagram" | default false}}
-    {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" title=\"mermaid\"></script>" (printf "https://cdn.jsdelivr.net/npm/mermaid@%s/dist/mermaid.min.js" $mermaid_version) $mermaid_sri | safeHTML }}
   {{ end }}
 
   {{/* Initialize slides. */}}

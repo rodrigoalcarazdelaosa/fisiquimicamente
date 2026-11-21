@@ -1,4 +1,4 @@
-import {searchEnabled, i18n, footnotesURL, zoomURL} from '@params';
+import {searchEnabled, i18n, footnotesURL, zoomURL, playersURL} from '@params';
 import {scrollParentToChild} from './wowchemy-utils';
 import {initNavigation} from './wowchemy-navigation';
 import {initCarousels} from './wowchemy-carousel';
@@ -128,7 +128,7 @@ function initPage() {
   document.querySelectorAll('.projects-container.js-layout-row').forEach(initPortfolio);
 
   const {isDarkTheme, themeMode} = initThemeVariation();
-  renderThemeVariation(isDarkTheme, themeMode, true);
+  renderThemeVariation(isDarkTheme, themeMode);
   ['light', 'dark', 'auto'].forEach((mode, index) => {
     document.querySelector('.js-set-theme-' + mode)?.addEventListener('click', event => {
       event.preventDefault();
@@ -136,6 +136,10 @@ function initPage() {
     });
   });
   matchMedia('(prefers-color-scheme: dark)').addEventListener('change', onMediaQueryListEvent);
+
+  if (document.querySelector('tgs-player, lottie-player')) {
+    import(playersURL).catch(error => console.error('Could not load animation players', error));
+  }
 
   if (document.querySelector('[data-zoomable]')) {
     import(zoomURL).then(({default: mediumZoom}) => {

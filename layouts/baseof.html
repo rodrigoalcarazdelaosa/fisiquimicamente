@@ -28,10 +28,6 @@
 
   {{ partial "search" . }}
 
-  {{ if .Params.announcement.text -}}
-    {{ partial "components/announcement_bar" . }}
-  {{ end -}}
-
   <div class="page-header header--fixed"{{ if and $show_navbar $hide_header }} data-hide-on-scroll{{ end }}>
   {{/* Load header block */}}
   {{ $block_name := .Params.header.navbar.block | default site.Params.header.navbar.block | default "navbar" }}

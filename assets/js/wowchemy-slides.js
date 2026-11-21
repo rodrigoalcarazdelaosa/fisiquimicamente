@@ -15,19 +15,3 @@ const {menuEnabled, ...options} = revealOptions(slides?.reveal_options || {});
 const plugins = [RevealMarkdown, RevealSearch, RevealNotes, RevealMath.MathJax3, RevealZoom];
 if (menuEnabled) plugins.push(RevealMenu);
 Reveal.initialize({...options, plugins});
-
-if (slides?.diagram) {
-  mermaid.initialize({...slides.diagram_options, startOnLoad: false});
-  function renderDiagrams({currentSlide}) {
-    const {h, v} = Reveal.getIndices();
-    currentSlide.querySelectorAll('.mermaid:not(.done)').forEach((diagram, i) => {
-      mermaid.mermaidAPI.render(`mermaid${h}-${v}-${i}`, diagram.textContent, svg => {
-        diagram.innerHTML = svg;
-        diagram.classList.add('done');
-      });
-    });
-    Reveal.layout();
-  }
-  Reveal.on('ready', renderDiagrams);
-  Reveal.on('slidechanged', renderDiagrams);
-}

@@ -21,7 +21,7 @@ export function initThemeVariation() {
   return {isDarkTheme, themeMode};
 }
 
-export function renderThemeVariation(dark, mode, initial = false) {
+export function renderThemeVariation(dark, mode) {
   modes.forEach((name, index) => {
     document.querySelector('.js-set-theme-' + name)?.classList.toggle('dropdown-item-active', mode === index);
   });
@@ -35,10 +35,6 @@ export function renderThemeVariation(dark, mode, initial = false) {
   document.dispatchEvent(new CustomEvent('wcThemeChange', {bubbles: true, detail: {isDarkTheme: () => dark}}));
   if (changed && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
     document.body.animate([{opacity: 0}, {opacity: 1}], {duration: 600});
-  }
-  if (window.mermaid && document.querySelector('script[title="mermaid"]')) {
-    if (initial) mermaid.initialize({startOnLoad: true, theme: dark ? 'dark' : 'default', securityLevel: 'loose'});
-    else if (changed) location.reload();
   }
 }
 

@@ -18,20 +18,6 @@
   <script data-cfasync="false" defer src="{{ (resources.Get "js/gallery.js" | minify | fingerprint).RelPermalink }}" data-gallery-styles="{{ $gallery_styles.RelPermalink }}"></script>
 {{ end }}
 
-{{ if .Page.Store.Get "has_mermaid" }}
-  {{/* Title attribute is used by wowchemy-theming.js to detect Mermaid */}}
-  <script data-cfasync="false" defer src="{{ printf $js.mermaid.url $js.mermaid.version }}" integrity="{{ $js.mermaid.sri }}" crossorigin="anonymous" title="mermaid"></script>
-{{ end }}
-
-{{/* Maps JS. */}}
-{{ $map_provider := lower site.Params.features.map.provider }}
-{{ if eq $map_provider "google" }}
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.Params.features.map.api_key }}"></script>
-  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.gmaps.url $js.gmaps.version) $js.gmaps.sri | safeHTML }}
-{{ else if in (slice "mapnik" "mapbox") $map_provider }}
-  {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.leaflet.url $js.leaflet.version) $js.leaflet.sri | safeHTML }}
-{{ end }}
-
 {{/* Load hash anchors for documentation pages. */}}
 {{ if in (slice "book" "docs") .Type }}
 {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.anchor.url $js.anchor.version) $js.anchor.sri | safeHTML }}
@@ -40,7 +26,6 @@
 </script>
 {{ end }}
 
-{{ $algoliaConfig := dict }}
 {{ $search_provider := lower site.Params.features.search.provider }}
 {{ if eq $search_provider "wowchemy" }}
   {{/* Hugo Blox built-in search result template (Fuse). */}}
@@ -55,83 +40,24 @@
       </div>
     </div>
   </template>
-{{ else if eq $search_provider "algolia" }}
-  {{/* Algolia search result template. */}}
-  <script id="search-hit-algolia-template" type="text/html">
-    <div class="search-hit">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          {{ printf "<a href=\"%s\">{{#helpers.highlight}}{ \"attribute\": \"title\" }{{/helpers.highlight}}</a>" "{{relpermalink}}" | safeHTML }}
-        </div>
-        <div class="article-metadata search-hit-type">{{"{{type}}"}}</div>
-        <p class="search-hit-description">{{ safeHTML "{{#helpers.highlight}}{ \"attribute\": \"summary\" }{{/helpers.highlight}}" }}</p>
-      </div>
-    </div>
-  </script>
-  {{ printf "<script src=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.instantsearch.url $js.instantsearch.version) | safeHTML }}
-  {{ $algoliaConfig = dict "appId" (site.Params.features.search.algolia.app_id | default "") "apiKey" (site.Params.features.search.algolia.api_key | default "") "indexName" (site.Params.features.search.algolia.index_name | default "") "analytics" (site.Params.features.search.algolia.analytics | default false) "personalization" (site.Params.features.search.algolia.personalization | default false) }}
-{{ else if eq $search_provider "docsearch" }}
-  {{ $docsearch_config := dict "appId" (site.Params.features.search.docsearch.app_id | default "") "apiKey" (site.Params.features.search.docsearch.api_key | default "") "indexName" (site.Params.features.search.docsearch.index_name | default "") "container" (site.Params.features.search.docsearch.container | default "#docsearch") }}
-  {{ if (site.Params.features.search.docsearch.search_parameters.facetFilters) }}
-  {{ $docsearch_config = merge $docsearch_config (dict  (slice "searchParameters" "facetFilters")  (site.Params.features.search.docsearch.search_parameters.facetFilters ))}}
-  {{ end }}
-  <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
-  {{ printf "<script>docsearch(%s);</script>" ($docsearch_config | jsonify) | safeHTML }}
 {{ end }}
 
-{{/* Disqus Comment Count JS. */}}
-{{/* Note: count can appear both in listing previews and on the content page itself. */}}
-{{ $comments_provider := trim (site.Params.features.comment.provider | lower) " " }}
-{{ if eq $comments_provider "disqus" | and (site.Params.features.comment.disqus.show_count | default true) }}
-  <script id="dsq-count-scr" src="https://{{site.Params.features.comment.disqus.shortname}}.disqus.com/count.js" async></script>
-{{end}}
-
 {{ $js_search_params := dict }}
-{{ if in (slice "wowchemy" "algolia") $search_provider }}
+{{ if eq $search_provider "wowchemy" }}
   {{/* Configure search engine. */}}
   {{ $min_length := site.Params.features.search.wowchemy.min_length | default 1 }}
   {{ $threshold := site.Params.features.search.wowchemy.threshold | default 0.3 }}
   {{ $search_config := dict "indexURI" ("index.json" | relLangURL) "threshold" $threshold "minLength" $min_length }}
   {{ $search_i18n := dict "placeholder" (i18n "search_placeholder") "results" (i18n "search_results") "no_results" (i18n "search_no_results") }}
-  {{ $content_types := dict "post" (i18n "posts") "project" (i18n "projects") "apuntes-segundo-tercero-eso" (i18n "apuntes-segundo-tercero-eso") "apuntes-cuarto-eso" (i18n "apuntes-cuarto-eso") "apuntes-primero-bach" (i18n "apuntes-primero-bach") "apuntes-segundo-bach-fisica" (i18n "apuntes-segundo-bach-fisica") "apuntes-segundo-bach-quimica" (i18n "apuntes-segundo-bach-quimica") "apuntes-formulacion" (i18n "apuntes-formulacion") "actividades-segundo-tercero-eso" (i18n "actividades-segundo-tercero-eso") "actividades-cuarto-eso" (i18n "actividades-cuarto-eso") "actividades-primero-bach" (i18n "actividades-primero-bach") "actividades-segundo-bach-fisica" (i18n "actividades-segundo-bach-fisica") "actividades-segundo-bach-quimica" (i18n "actividades-segundo-bach-quimica") "actividades-formulacion" (i18n "actividades-formulacion") "juegos-segundo-tercero-eso" (i18n "juegos-segundo-tercero-eso") "juegos-cuarto-eso" (i18n "juegos-cuarto-eso") "juegos-primero-bach" (i18n "juegos-primero-bach") "juegos-segundo-bach-fisica" (i18n "juegos-segundo-bach-fisica") "juegos-segundo-bach-quimica" (i18n "juegos-segundo-bach-quimica") "juegos-formulacion" (i18n "juegos-formulacion") "practicas-segundo-tercero-eso" (i18n "practicas-segundo-tercero-eso") "practicas-cuarto-eso" (i18n "practicas-cuarto-eso") "practicas-primero-bach" (i18n "practicas-primero-bach") "practicas-segundo-bach-fisica" (i18n "practicas-segundo-bach-fisica") "practicas-segundo-bach-quimica" (i18n "practicas-segundo-bach-quimica") "practicas-formulacion" (i18n "practicas-formulacion") "biografias-cientificas" ("📖 Biografías científicas") "EBAU-fisica-examenes" ("🎓 EBAU Exámenes Completos Física") "PAU-fisica-examenes" ("🎓 PAU Exámenes Completos Física") "PBAU-fisica-examenes" ("🎓 PBAU Exámenes Completos Física") "EBAU-quimica-examenes" ("🎓 EBAU Exámenes Completos Química") "PAU-quimica-examenes" ("🎓 PAU Exámenes Completos Química") "EBAU-fisica-preguntas" ("🎓 EBAU Preguntas Temas Física") "EBAU-quimica-preguntas" ("🎓 EBAU Preguntas Temas Química") "oposiciones-fisica-ejercicios" ("📝 Oposiciones Ejercicios Resueltos Física") "oposiciones-quimica-ejercicios" ("📝 Oposiciones Ejercicios Resueltos Química") "operador-IIRR-preguntas-examen" ("🧑‍🔧 Operador IIRR Preguntas Examen") "publication" (i18n "publications") "event" (i18n "talks") "slides" (i18n "slides") "authors" (i18n "authors") "tutoriales" (i18n "tutoriales") "enlaces-recursos-online" (i18n "recursos-online") }}
-  {{ $js_search_params = dict "search_config" $search_config "algoliaConfig" $algoliaConfig "i18n" $search_i18n "content_type" $content_types }}
+  {{ $content_types := dict "post" (i18n "posts") "apuntes-segundo-tercero-eso" (i18n "apuntes-segundo-tercero-eso") "apuntes-cuarto-eso" (i18n "apuntes-cuarto-eso") "apuntes-primero-bach" (i18n "apuntes-primero-bach") "apuntes-segundo-bach-fisica" (i18n "apuntes-segundo-bach-fisica") "apuntes-segundo-bach-quimica" (i18n "apuntes-segundo-bach-quimica") "apuntes-formulacion" (i18n "apuntes-formulacion") "actividades-segundo-tercero-eso" (i18n "actividades-segundo-tercero-eso") "actividades-cuarto-eso" (i18n "actividades-cuarto-eso") "actividades-primero-bach" (i18n "actividades-primero-bach") "actividades-segundo-bach-fisica" (i18n "actividades-segundo-bach-fisica") "actividades-segundo-bach-quimica" (i18n "actividades-segundo-bach-quimica") "actividades-formulacion" (i18n "actividades-formulacion") "juegos-segundo-tercero-eso" (i18n "juegos-segundo-tercero-eso") "juegos-cuarto-eso" (i18n "juegos-cuarto-eso") "juegos-primero-bach" (i18n "juegos-primero-bach") "juegos-segundo-bach-fisica" (i18n "juegos-segundo-bach-fisica") "juegos-segundo-bach-quimica" (i18n "juegos-segundo-bach-quimica") "juegos-formulacion" (i18n "juegos-formulacion") "practicas-segundo-tercero-eso" (i18n "practicas-segundo-tercero-eso") "practicas-cuarto-eso" (i18n "practicas-cuarto-eso") "practicas-primero-bach" (i18n "practicas-primero-bach") "practicas-segundo-bach-fisica" (i18n "practicas-segundo-bach-fisica") "practicas-segundo-bach-quimica" (i18n "practicas-segundo-bach-quimica") "practicas-formulacion" (i18n "practicas-formulacion") "biografias-cientificas" ("📖 Biografías científicas") "EBAU-fisica-examenes" ("🎓 EBAU Exámenes Completos Física") "PAU-fisica-examenes" ("🎓 PAU Exámenes Completos Física") "PBAU-fisica-examenes" ("🎓 PBAU Exámenes Completos Física") "EBAU-quimica-examenes" ("🎓 EBAU Exámenes Completos Química") "PAU-quimica-examenes" ("🎓 PAU Exámenes Completos Química") "EBAU-fisica-preguntas" ("🎓 EBAU Preguntas Temas Física") "EBAU-quimica-preguntas" ("🎓 EBAU Preguntas Temas Química") "oposiciones-fisica-ejercicios" ("📝 Oposiciones Ejercicios Resueltos Física") "oposiciones-quimica-ejercicios" ("📝 Oposiciones Ejercicios Resueltos Química") "operador-IIRR-preguntas-examen" ("🧑‍🔧 Operador IIRR Preguntas Examen") "slides" (i18n "slides") "authors" (i18n "authors") "tutoriales" (i18n "tutoriales") "enlaces-recursos-online" (i18n "recursos-online") }}
+  {{ $js_search_params = dict "search_config" $search_config "i18n" $search_i18n "content_type" $content_types }}
 {{ end }}
-
-{{ if eq $search_provider "algolia" }}
-{{ $js_algolia_search := resources.Get "js/algolia-search.js" | js.Build (dict "format" "esm" "targetPath" (printf "%s/js/algolia-search-built.js" .Lang) "params" $js_search_params) }}
-{{- if hugo.IsProduction -}}
-  {{- $js_algolia_search = $js_algolia_search | minify | fingerprint "md5" -}}
-{{- end -}}
-<script src="{{ $js_algolia_search.RelPermalink }}" type="module"></script>
-{{ end }}
-
-{{/* Mindmaps */}}
-{{ if .Page.Store.Get "has_markmap" -}}
-  <style>
-    .markmap > svg {
-      width: 100%;
-      height: 100%;
-    }
-  </style>
-  <script>
-    window.markmap = {
-      autoLoader: {
-        manual: false,
-        onReady() {
-          const { autoLoader, builtInPlugins } = window.markmap;
-          // Disable Prism highlighting plugin as it conflicts and attempts to re-render code blocks outside of Markmap.
-          autoLoader.transformPlugins = builtInPlugins.filter(plugin => plugin.name !== 'prism');
-        },
-      },
-    };
-  </script>
-  <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
-{{ end -}}
 
 {{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied") }}
 {{ $footnotes := resources.Get "js/footnotes.js" | minify | fingerprint }}
 {{ $zoom := resources.Get "js/vendor/medium-zoom.esm.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
-{{ $js_params := dict "searchEnabled" (in (slice "wowchemy" "algolia") $search_provider) "i18n" $i18n "footnotesURL" $footnotes.RelPermalink "zoomURL" $zoom.RelPermalink }}
+{{ $players := resources.Get "js/tgs-players.js" | minify | fingerprint }}
+{{ $js_params := dict "searchEnabled" (eq $search_provider "wowchemy") "i18n" $i18n "footnotesURL" $footnotes.RelPermalink "zoomURL" $zoom.RelPermalink "playersURL" $players.RelPermalink }}
 {{ $main := resources.Get "js/wowchemy.js" | js.Build (dict "params" $js_params "minify" hugo.IsProduction) }}
 {{ $bundle := slice $main }}
 {{ if eq $search_provider "wowchemy" }}
@@ -146,37 +72,6 @@
 {{ end }}
 {{ $script := $bundle | resources.Concat (printf "js/site-%s.js" .Lang) | fingerprint }}
 <script data-cfasync="false" defer src="{{ $script.RelPermalink }}"></script>
-
-{{/* Maps */}}
-{{ if site.Params.features.map.provider }}
-  {{ $js := resources.Get "js/wowchemy-map.js" | js.Build (dict "format" "esm" "minify" true) }}
-  {{- if hugo.IsProduction -}}
-    {{- $js = $js | fingerprint "md5" -}}
-  {{- end -}}
-  <script src="{{ $js.RelPermalink }}" type="module"></script>
-{{- end -}}
-
-{{/* Publications */}}
-{{ $hasPublications := where site.Pages "Type" "publication" }}
-{{ if $hasPublications }}
-  {{ partial "citation" . }}
-
-  {{ $js := resources.Get "js/wowchemy-publication.js" | js.Build (dict "format" "esm" "minify" true) }}
-  {{- if hugo.IsProduction -}}
-    {{- $js = $js | fingerprint "md5" -}}
-  {{- end -}}
-  <script src="{{ $js.RelPermalink }}" type="module"></script>
-{{- end -}}
-
-{{/* Announcement Bar */}}
-{{ $hasAnnouncement := .Params.announcement.text }}
-{{ if $hasAnnouncement }}
-  {{ $js := resources.Get "js/wowchemy-announcement.js" | js.Build (dict "format" "esm" "minify" true) }}
-  {{- if hugo.IsProduction -}}
-    {{- $js = $js | fingerprint "md5" -}}
-  {{- end -}}
-  <script src="{{ $js.RelPermalink }}" type="module"></script>
-{{- end -}}
 
 {{/* EXTENSIBILITY HOOK: BODY-END */}}
 {{/* Deprecated custom_js hook */}}

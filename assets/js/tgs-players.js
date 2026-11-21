@@ -61,7 +61,7 @@
   function loadPlayerScript() {
     if (playerScript) return;
     playerScript = document.createElement('script');
-    playerScript.src = 'https://unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js';
+    playerScript.src = 'https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/tgs-player.js';
     playerScript.onload = updateVisible;
     playerScript.onerror = () => {
       playerScript.remove();
