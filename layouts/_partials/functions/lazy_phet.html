@@ -1,0 +1,11 @@
+{{- $content := . -}}
+{{- if in $content "https://phet.colorado.edu/sims/" -}}
+  {{- range findRE `(?i)<iframe\s+[^>]*>` $content -}}
+    {{- $has_phet_src := findRE `(?i)\s+src\s*=\s*["']https://phet\.colorado\.edu/sims/` . -}}
+    {{- $has_loading := findRE `(?i)\s+loading(?:\s|=|>)` . -}}
+    {{- if and $has_phet_src (not $has_loading) -}}
+      {{- $content = replace $content . (printf `%s loading="lazy"%s` (substr . 0 7) (substr . 7)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return ($content | safeHTML) -}}
