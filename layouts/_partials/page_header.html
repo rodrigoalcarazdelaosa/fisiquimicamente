@@ -261,7 +261,7 @@
 <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-4"
      style="{{ if $is_svg }}max-width: {{ $max_width }}px;{{ else }}max-width: {{ $image.Width }}px; max-height: {{ $image.Height }}px;{{ end }}">
   <div style="position: relative">
-    <img id="featured-image" src="{{ $image.RelPermalink }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image"
+    <img id="featured-image" src="{{ $image.RelPermalink }}" fetchpriority="high" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image"
       {{ if $is_svg }}
         style="border: 5px solid currentColor"
       {{ else }}

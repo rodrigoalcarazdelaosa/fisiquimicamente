@@ -1,17 +1,64 @@
 // Keep links to the original images usable even when the gallery CDN is unavailable.
 (() => {
-  if (!window.PhotoSwipe) return;
+  const galleryStyles = document.currentScript.dataset.galleryStyles;
   const albums = new Map();
   for (const link of document.querySelectorAll('a[data-fancybox]')) {
     const key = link.dataset.fancybox;
     if (!albums.has(key)) albums.set(key, []);
     albums.get(key).push(link);
   }
+  if (!albums.size) return;
+
+  const requests = new Map();
+  function loadAsset(url, element) {
+    if (!requests.has(url)) {
+      requests.set(url, new Promise((resolve, reject) => {
+        element.onload = resolve;
+        element.onerror = () => {
+          element.remove();
+          requests.delete(url);
+          reject(new Error('Gallery asset unavailable: ' + url));
+        };
+        document.head.append(element);
+      }));
+    }
+    return requests.get(url);
+  }
+
+  function loadStyles(url, integrity) {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = url;
+    if (integrity) {
+      link.integrity = integrity;
+      link.crossOrigin = 'anonymous';
+    }
+    return loadAsset(url, link);
+  }
 
   let viewer;
-  function openAlbum(key, index, fromHash) {
+  async function openAlbum(key, index, fromHash) {
     const links = albums.get(key);
     if (viewer || !links?.[index]) return;
+    const hash = location.hash;
+    const scriptUrl = 'https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/umd/photoswipe.umd.min.js';
+    const script = document.createElement('script');
+    script.src = scriptUrl;
+    script.integrity = 'sha384-k8EKyYcONphQ7zH4cQ0888JapXwrLTXQl/Ue1/jYgjVYahln1NWpnt2S4IC56LNh';
+    script.crossOrigin = 'anonymous';
+    try {
+      await Promise.all([
+        loadAsset(scriptUrl, script),
+        loadStyles('https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.min.css',
+          'sha384-CKeYI6jsYBV4DV34zRfxht32qlPolZvokUknVb7SnE4PCoiTTqCN47Tr+hQAKkXY'),
+        loadStyles(galleryStyles),
+      ]);
+      if (typeof window.PhotoSwipe !== 'function') throw new Error('PhotoSwipe unavailable');
+    } catch {
+      if (!viewer && !fromHash && hash === location.hash) location.assign(links[index].href);
+      return;
+    }
+    if (viewer || hash !== location.hash) return;
     const items = links.map(link => {
       const thumb = link.querySelector('img');
       return {
