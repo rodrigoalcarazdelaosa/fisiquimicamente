@@ -43,12 +43,21 @@ body.dark {
   background-image: var(--logo-dark);
 }
 
-.navbar-wordmark {
-  width: 112px;
-  height: 44px;
-}
-
 @include media-breakpoint-down(md) {
+  .navbar-toggler {
+    flex: 1;
+    max-width: 440px;
+    min-width: 0;
+    margin-inline-end: 0.75rem;
+    padding: 0;
+  }
+
+  .navbar-wordmark {
+    width: 100%;
+    height: 44px;
+    background-position: left center;
+  }
+
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {
     position: relative;
