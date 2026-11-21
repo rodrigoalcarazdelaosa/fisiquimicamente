@@ -4,18 +4,18 @@
 {{- $theme_day_index := (site.Params.appearance.theme_day | lower | replaceRE "\\s" "_") | default "minimal" -}}
 {{- $theme_night_index := (site.Params.appearance.theme_night | lower | replaceRE "\\s" "_") | default "minimal" -}}
 
-{{- if not (index (index site.Data.themes $theme_day_index) "light") -}}
+{{- if not (index (index hugo.Data.themes $theme_day_index) "light") -}}
   {{- warnf "In `params.yaml`, you requested `theme_day: %s` but there is not a `light` style in `data/themes/%s.toml`. Falling back to default light style." site.Params.appearance.theme_day $theme_day_index -}}
   {{- $theme_day_index = "minimal" -}}
 {{ end }}
 
-{{- if not (index (index site.Data.themes $theme_night_index) "dark") -}}
+{{- if not (index (index hugo.Data.themes $theme_night_index) "dark") -}}
   {{- warnf "In `params.yaml`, you requested `theme_night: %s` but there is not a `dark` style in `data/themes/%s.toml`. Falling back to default dark style." site.Params.appearance.theme_night $theme_night_index -}}
   {{- $theme_night_index = "minimal" -}}
 {{ end }}
 
-{{ $theme_day := index (index site.Data.themes $theme_day_index) "light" }}
-{{ $theme_night := index (index site.Data.themes $theme_night_index) "dark" }}
+{{ $theme_day := index (index hugo.Data.themes $theme_day_index) "light" }}
+{{ $theme_night := index (index hugo.Data.themes $theme_night_index) "dark" }}
 
 {{/* Legacy support for `light` as boolean rather than map. */}}
 {{ $light_is_map := reflect.IsMap $theme_day }}
@@ -31,8 +31,8 @@
 {{ end }}
 
 {{/* Get name of site's Font Set. Precedence: Params.yaml > Inherit from Color Theme > Default (Minimal) */}}
-{{- $font_index := (site.Params.appearance.font | lower | replaceRE "\\s" "_") | default ((index site.Data.themes $theme_day_index).font | lower | replaceRE "\\s" "_") | default $theme_day_index -}}
-{{- $font_index := cond (isset site.Data.fonts $font_index) $font_index "minimal" -}}
+{{- $font_index := (site.Params.appearance.font | lower | replaceRE "\\s" "_") | default ((index hugo.Data.themes $theme_day_index).font | lower | replaceRE "\\s" "_") | default $theme_day_index -}}
+{{- $font_index := cond (isset hugo.Data.fonts $font_index) $font_index "minimal" -}}
 
 {{/* Get Font Size. */}}
 
@@ -44,7 +44,7 @@
 
 {{/* Load Font Set. */}}
 
-{{- $font := index site.Data.fonts $font_index -}}
+{{- $font := index hugo.Data.fonts $font_index -}}
 {{- $scr.Set "google_fonts" $font.google_fonts -}}
 {{- $scr.Set "body_font" $font.body_font -}}
 {{- $scr.Set "heading_font" $font.heading_font -}}
