@@ -100,14 +100,17 @@
 
 .dark .page-link {
   color: nord.$nord6;
-  background-color: nord.$nord0 !important;
-  border: 1px solid nord.$nord6 !important;
 }
 
-.page-link:hover,
-.dark .page-link:hover {
-  color: nord.$nord0 !important;
+.dark .pagination .page-link {
+  background-color: nord.$nord0;
+  border: 1px solid nord.$nord6;
+}
+
+.pagination .page-link:hover,
+.dark .pagination .page-link:hover {
+  color: nord.$nord0;
   text-decoration: none;
-  background-color: nord.$nord8 !important;
-  border-color: nord.$nord8 !important;
+  background-color: nord.$nord8;
+  border-color: nord.$nord8;
 }

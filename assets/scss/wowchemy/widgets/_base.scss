@@ -62,8 +62,8 @@
 .home-section.dark .alert a,
 .home-section.dark .article-style aside a,
 .article-style .home-section.dark aside a {
-  color: inherit !important;
-  text-decoration: inherit !important;
+  color: inherit;
+  text-decoration: inherit;
 }
 
 /* Big underline style for links in dark sections */
@@ -249,11 +249,11 @@
   color: nord.$nord6;
 }
 
-.home-section.light a {
+.home-section.light a:not(:where(.btn-primary, .summary-link, .article-metadata a)) {
   color: theme.$primary;
 }
 
-.dark .home-section.light a {
+.dark .home-section.light a:not(:where(.btn-primary, .summary-link, .article-metadata a)) {
   color: nord.$nord6;
 }
 

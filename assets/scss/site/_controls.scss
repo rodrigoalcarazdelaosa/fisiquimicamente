@@ -115,7 +115,7 @@ textarea.form-control { height: auto; }
     margin-bottom: 0;
   }
 
-  .form-inline .form-control {
+  .form-inline :where(.form-control) {
     display: inline-block;
     width: auto;
     vertical-align: middle;

@@ -42,48 +42,39 @@
   box-shadow: 0 0 0 0.2rem theme.$primary-light;
 }
 
-.btn-primary {
-  color: nord.$nord0 !important;
-  background-color: nord.$nord8;
-  border-color: nord.$nord8;
+.btn-primary,
+.dark .btn-primary,
+.btn.btn-primary,
+.dark .btn.btn-primary,
+.btn-primary:is(:disabled, .disabled),
+.dark .btn-primary:is(:disabled, .disabled) {
+  color: nord.$nord0;
 }
 
+.btn-primary,
 .dark .btn-primary {
-  color: nord.$nord0 !important;
   background-color: nord.$nord8;
   border-color: nord.$nord8;
 }
 
-.btn-toolbar .btn.btn-primary:hover,
-.dark .btn-toolbar .btn.btn-primary:hover,
-.btn-toolbar .btn.btn-primary:focus,
-.btn-toolbar .btn.btn-primary.focus,
-.dark .btn-toolbar .btn.btn-primary:focus,
-.dark .btn-toolbar .btn.btn-primary.focus {
-  color: nord.$nord0 !important;
-  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl) !important;
-  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
-}
-
-.btn.btn-primary:hover,
-.dark .btn.btn-primary:hover,
-.btn.btn-primary:focus,
-.btn.btn-primary.focus,
-.dark .btn.btn-primary:focus,
-.dark .btn.btn-primary.focus {
+.btn-toolbar .btn.btn-primary:is(:hover, :focus, .focus),
+.dark .btn-toolbar .btn.btn-primary:is(:hover, :focus, .focus) {
   color: nord.$nord0;
   background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl) !important;
   border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
-.btn-toolbar .btn.btn-primary:focus,
-.btn-toolbar .btn.btn-primary.focus,
-.dark .btn-toolbar .btn.btn-primary:focus,
-.dark .btn-toolbar .btn.btn-primary.focus,
-.btn.btn-primary:focus,
-.btn.btn-primary.focus,
-.dark .btn.btn-primary:focus,
-.dark .btn.btn-primary.focus {
+.btn.btn-primary:is(:hover, :focus, .focus),
+.dark .btn.btn-primary:is(:hover, :focus, .focus) {
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl) !important;
+  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
+}
+
+.btn-toolbar .btn.btn-primary:is(:focus, .focus),
+.dark .btn-toolbar .btn.btn-primary:is(:focus, .focus),
+.btn.btn-primary:is(:focus, .focus),
+.dark .btn.btn-primary:is(:focus, .focus) {
   box-shadow: 0 0 0 0.2rem color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
@@ -113,13 +104,10 @@
   border-color: nord.$nord6;
 }
 
-.btn-outline-primary:hover,
-.dark .btn-outline-primary:hover,
-.btn-outline-primary:focus,
-.dark .btn-outline-primary:focus,
-.btn-outline-primary.focus,
-.dark .btn-outline-primary.focus {
-  color: nord.$nord0 !important;
+.btn-outline-primary:is(:hover, :focus, .focus),
+.btn.btn-outline-primary:is(:hover, :focus, .focus),
+.dark .btn.btn-outline-primary:is(:hover, :focus, .focus) {
+  color: nord.$nord0;
   background-color: nord.$nord8;
   border-color: nord.$nord8;
 }

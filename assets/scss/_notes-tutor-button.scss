@@ -18,8 +18,7 @@
   color: nord.$nord0;
 
   &:not([hidden]) { display: block; }
-  [hidden] { display: none !important; }
-  button, textarea { font: inherit; }
+  :where(button, textarea) { font: inherit; }
   button, summary { cursor: pointer; }
   button:focus-visible, textarea:focus-visible, summary:focus-visible {
     outline: 3px solid nord.$nord10;
