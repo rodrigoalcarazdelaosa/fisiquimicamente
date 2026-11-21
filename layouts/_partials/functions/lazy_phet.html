@@ -1,10 +1,13 @@
-{{- $content := . -}}
+{{- $page := . -}}
+{{- $content := $page.Content -}}
 {{- if in $content "https://phet.colorado.edu/sims/" -}}
-  {{- range findRE `(?i)<iframe\s+[^>]*>` $content -}}
-    {{- $has_phet_src := findRE `(?i)\s+src\s*=\s*["']https://phet\.colorado\.edu/sims/` . -}}
-    {{- $has_loading := findRE `(?i)\s+loading(?:\s|=|>)` . -}}
-    {{- if and $has_phet_src (not $has_loading) -}}
-      {{- $content = replace $content . (printf `%s loading="lazy"%s` (substr . 0 7) (substr . 7)) -}}
+  {{- $src := `(?i)(\s)src(\s*=\s*["']https://phet\.colorado\.edu/sims/)` -}}
+  {{- range uniq (findRE `(?is)<iframe\s+[^>]*>\s*</iframe\s*>` $content) -}}
+    {{- if and (findRE $src .) (not (findRE `(?i)\s+loading(?:\s|=|>)` .)) -}}
+      {{- $frame := replaceRE $src `${1}data-phet-src${2}` . -}}
+      {{- $fallback := printf `<noscript>%s loading="lazy"%s</noscript>` (substr . 0 7) (substr . 7) -}}
+      {{- $content = replace $content . (print $frame $fallback) -}}
+      {{- $page.Store.Set "has_deferred_phet" true -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}

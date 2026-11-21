@@ -1816,4 +1816,10 @@ details p {
   color: $nord0;
 }
 
+@media (scripting: none) {
+  iframe[data-phet-src] {
+    display: none;
+  }
+}
+
 @import "theme-images";
