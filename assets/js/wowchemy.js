@@ -99,19 +99,61 @@ function initPortfolio(container) {
     itemSelector: '.isotope-item', masonry: {gutter: 20}, filter: initialFilter,
   }) : null;
   const items = container.querySelectorAll('.isotope-item');
+  const filters = [...section.querySelectorAll('.project-filters a')];
+
   function applyFilter(selector) {
     if (isotope) isotope.arrange({filter: selector});
     else for (const item of items) item.classList.toggle('d-none', !item.matches(selector));
   }
+
+  function selectFilter(filter) {
+    applyFilter(filter?.dataset.filter ?? initialFilter);
+    for (const button of filters) {
+      const active = button === filter;
+      button.classList.toggle('active', active);
+      if (!active) button.classList.remove('all');
+      if (button.hasAttribute('data-category')) {
+        if (active) button.setAttribute('aria-current', 'true');
+        else button.removeAttribute('aria-current');
+      }
+    }
+  }
+
+  if (filters[0]?.hasAttribute('data-category')) {
+    const defaultFilter = filters.find(filter => filter.dataset.category === '');
+
+    function categoryURL(category) {
+      const url = new URL(location.href);
+      if (category) url.searchParams.set('categoria', category);
+      else url.searchParams.delete('categoria');
+      return url;
+    }
+
+    function restoreCategory() {
+      const category = new URLSearchParams(location.search).get('categoria');
+      selectFilter(filters.find(filter => filter.dataset.category === category) ?? defaultFilter);
+      for (const filter of filters) filter.href = categoryURL(filter.dataset.category).href;
+    }
+
+    restoreCategory();
+    window.addEventListener('popstate', restoreCategory);
+    for (const filter of filters) {
+      filter.addEventListener('click', event => {
+        if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+        event.preventDefault();
+        const url = categoryURL(filter.dataset.category);
+        if (url.href !== location.href) history.pushState(history.state, '', url);
+        restoreCategory();
+      });
+    }
+    return;
+  }
+
   if (!isotope) applyFilter(initialFilter);
-  for (const filter of section.querySelectorAll('.project-filters a')) {
+  for (const filter of filters) {
     filter.addEventListener('click', event => {
       event.preventDefault();
-      applyFilter(filter.dataset.filter);
-      for (const sibling of filter.parentElement.children) {
-        sibling.classList.toggle('active', sibling === filter);
-        if (sibling !== filter) sibling.classList.remove('all');
-      }
+      selectFilter(filter);
     });
   }
 }
