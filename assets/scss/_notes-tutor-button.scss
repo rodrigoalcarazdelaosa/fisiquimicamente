@@ -22,6 +22,11 @@
   }
 }
 
+// Keep the open navigation (z-index: 10) above the tutor on desktop and mobile.
+.page-wrapper:has(#navbar-main :is(.dropdown.show, .navbar-toggler[aria-expanded="true"])) .notes-tutor {
+  z-index: 9;
+}
+
 .notes-tutor-toggle {
   display: flex;
   align-items: center;
