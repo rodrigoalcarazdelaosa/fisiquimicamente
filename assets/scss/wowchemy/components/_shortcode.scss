@@ -1,3 +1,6 @@
+@use "../../nord";
+@use "../../theme";
+
 // CTA Shortcode
 
 .cta-group {
@@ -62,4 +65,33 @@ details p {
     left: 0;
     top: 0;
   }
+}
+
+summary {
+  color: theme.$primary;
+}
+
+.dark summary {
+  color: nord.$nord6;
+}
+
+details p {
+  margin-left: 0;
+  padding-left: 0;
+  border-left: none;
+}
+.dark details p {
+  border-left: none;
+}
+
+.spoiler {
+  background-color: nord.$nord4;
+  border: 1px solid nord.$nord0;
+  border-radius: 8px;
+  padding: 16px 16px 8px;
+}
+
+.dark .spoiler {
+  background-color: nord.$nord3;
+  border-color: nord.$nord6;
 }

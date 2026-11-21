@@ -1,3 +1,6 @@
+@use "../../nord";
+@use "../../theme";
+
 /*************************************************
  *  Tables
  **************************************************/
@@ -14,4 +17,61 @@ table {
 
 .dark .table {
   color: white;
+}
+
+.dark table table {
+  background-color: rgb(40, 42, 54);
+}
+
+/* Table Striped */
+.dark table > tbody > tr:nth-child(odd) > td,
+.dark table > tbody > tr:nth-child(odd) > th {
+  background-color: rgb(50, 52, 64);
+}
+
+/* Table Hover */
+.dark table > tbody > tr:hover > td,
+.dark table > tbody > tr:hover > th {
+  background-color: rgb(60, 62, 74);
+}
+
+// Bordes estilo booktabs
+@mixin table-colors($rule, $stripe, $hover-text) {
+  > thead { border-top: 2px solid $rule; }
+  > thead > tr > th {
+    color: $rule;
+    border-bottom: 1px solid $rule;
+  }
+  > tbody { border-bottom: 2px solid $rule; }
+  > tbody + tbody { border-top: 2px solid $rule; }
+  > :is(thead, tbody, tfoot) > tr > :is(th, td) { border-top: 0 solid $rule; }
+  > tbody > tr:nth-child(odd) > :is(td, th) { background-color: $stripe; }
+  > tbody > tr:hover > :is(td, th) {
+    color: $hover-text;
+    background-color: $rule;
+  }
+}
+
+table { @include table-colors(theme.$primary, nord.$nord4, theme.$background); }
+.dark table { @include table-colors(nord.$nord6, nord.$nord3, nord.$nord0); }
+
+table#colores-resistencias > tbody > tr:nth-child(odd) > :is(td, th) {
+  background-color: initial;
+}
+
+table#colores-resistencias > tbody > tr:hover > :is(td, th) {
+  color: theme.$background;
+  background-color: theme.$primary;
+}
+
+td[colspan]:not([colspan="1"]) {
+  text-align: center;
+}
+
+caption {
+  color: nord.$nord0;
+}
+
+.dark caption {
+  color: nord.$nord6;
 }

@@ -1,3 +1,5 @@
+@use "../../nord";
+
 @use "../../theme";
 
 /**************************************************
@@ -50,4 +52,31 @@ a.badge:hover {
 .dark .tag-cloud a:focus,
 .dark .tag-cloud a:hover {
   color: theme.$primary-light;
+}
+
+.dark a.badge:focus,
+.dark a.badge:hover {
+  color: rgba(255, 255, 255, 0.68);
+}
+
+.badge-light {
+  color: nord.$nord0;
+  background: nord.$nord4;
+}
+
+.dark .badge-light {
+  color: nord.$nord6;
+  background: nord.$nord3;
+}
+
+.badge-light[href]:focus,
+.badge-light[href]:hover {
+  color: nord.$nord6;
+  background: nord.$nord0;
+}
+
+.dark .badge-light[href]:focus,
+.dark .badge-light[href]:hover {
+  color: nord.$nord0;
+  background: nord.$nord6;
 }

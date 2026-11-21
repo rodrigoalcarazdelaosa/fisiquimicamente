@@ -1,3 +1,5 @@
+@use "../../nord";
+
 @use "../../theme";
 
 /*************************************************
@@ -84,4 +86,75 @@ a.hero-cta-alt:hover {
   justify-content: center;
   height: 100%;
   text-align: center;
+}
+
+.hero-media-caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 15px 0 auto;
+  padding: 2px 5px;
+  color: nord.$nord6;
+  font-size: 0.7em;
+  background: nord.$nord0;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.65;
+  border-radius: 5px 0 0 0;
+}
+@media (min-width: 64em) {
+  .hero-media-caption {
+    padding: 5px 10px;
+  }
+}
+
+.dark .hero-media-caption {
+  color: nord.$nord0;
+  background: nord.$nord6;
+}
+
+.hero-media-caption a {
+  color: nord.$nord13;
+  text-decoration: none;
+}
+
+.dark .hero-media-caption a {
+  color: nord.$nord11;
+}
+
+.hero-title {
+  font-size: 2.25rem;
+}
+
+.hero-lead {
+  color: nord.$nord0;
+  font-family: theme.$font-heading, sans-serif;
+
+}
+
+.dark .hero-lead {
+  color: nord.$nord6;
+
+}
+
+.hero-cta-alt {
+  color: nord.$nord0;
+}
+
+.dark .hero-cta-alt {
+  color: nord.$nord6;
+}
+
+.hero-note {
+  color: nord.$nord0;
+}
+
+.dark .hero-note {
+  color: nord.$nord6;
+}
+
+.wg-hero.dark .hero-title,
+.wg-hero.dark .hero-lead,
+.wg-hero.dark .btn {
+  color: nord.$nord0;
 }

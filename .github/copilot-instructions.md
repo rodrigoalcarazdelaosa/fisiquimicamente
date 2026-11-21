@@ -23,7 +23,7 @@
   - Command: `pages deploy <directory> --project-name=<name> --commit-dirty=true` via `cloudflare/wrangler-action@v3`.
 
 ## Project conventions & patterns
-- Theme & design: Nord color palette customized in `assets/scss/custom.scss`.
+- Theme & design: the Nord palette lives in `assets/scss/_nord.scss`. Theme settings enter through `assets/scss/main.scss`, and component styles carry their light and dark variants.
 - Header/Nav: Overridden at `layouts/_partials/components/headers/navbar.html` (custom emoji icons, theme switcher, i18n dropdown, Lottie `.tgs` logo via `tgs-player`).
 - i18n:
   - `config/_default/languages.yaml` sets per‑lang `baseURL`, titles, permalinks, and params.
@@ -36,7 +36,7 @@
 ## How to make common changes
 - Add a new blog post (Spanish): create `content/es/blog/YYYY/MM/DD/slug/index.md` with front matter. Hugo builds it into `public/es/blog/...`.
 - Customize navbar: edit `layouts/_partials/components/headers/navbar.html`. Keep i18n and theme toggles intact.
-- Adjust theme/colors/typography: edit `assets/scss/custom.scss` (respect Nord palette and dark/light variants already defined).
+- Adjust a component's styles in its Sass partial under `assets/scss/`. Use the existing Nord palette and light and dark variants.
 - Add page‑level slides: set `slides:` params in the page front matter; `wowchemy-slides.js` picks them up.
 
 ## Integration points
@@ -52,6 +52,6 @@
 
 ## Key files
 - `config/_default/hugo.yaml`, `languages.yaml`, `params.yaml`, `menus.*.yaml`
-- `assets/scss/custom.scss`, `assets/js/wowchemy-slides.js`
+- `assets/scss/main.scss`, `assets/scss/_theme.scss`, `assets/js/wowchemy-slides.js`
 - `layouts/_partials/components/headers/navbar.html`
 - `.github/workflows/publish-CFP.yml`, `view.sh`, `view_mobile.sh`, `get_last_commit_hash.sh`

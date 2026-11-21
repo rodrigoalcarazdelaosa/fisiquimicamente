@@ -1,3 +1,5 @@
+@use "../../nord";
+
 .breadcrumb {
   font-size: 14px;
   padding: 0;
@@ -12,4 +14,26 @@
 
 .dark .breadcrumb-item.active {
   color: rgba(255, 255, 255, 0.54);
+}
+
+.breadcrumb {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+
+.breadcrumb.breadcrumb-widget {
+  margin-top: -35px;
+  margin-bottom: 15px;
+}
+
+.dark .breadcrumb-item a {
+  color: nord.$nord6;
+}
+
+.breadcrumb-item.active {
+  color: nord.$nord3;
+}
+
+.dark .breadcrumb-item.active {
+  color: nord.$nord4;
 }

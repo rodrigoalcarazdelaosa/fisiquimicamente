@@ -1,3 +1,5 @@
+@use "../nord";
+
 // Utilities
 
 .border { border: 1px solid #dee2e6 !important; }
@@ -222,8 +224,6 @@
 
 .font-weight-bold { font-weight: 700 !important; }
 
-.text-muted { color: rgba(0, 0, 0, 0.54) !important; }
-
 .visible { visibility: visible !important; }
 
 // Print styles
@@ -295,4 +295,12 @@
 
 .fa-2x {
   font-size: 2em;
+}
+
+.text-muted {
+  color: nord.$nord3 !important;
+}
+
+.dark .text-muted {
+  color: nord.$nord4 !important;
 }

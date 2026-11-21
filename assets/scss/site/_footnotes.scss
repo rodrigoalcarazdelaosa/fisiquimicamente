@@ -1,0 +1,115 @@
+@use "sass:color";
+@use "../nord";
+
+#popup-content code {
+  color: nord.$nord0;
+  background: nord.$nord6;
+}
+
+.dark #popup-content code {
+  color: nord.$nord6;
+  background: nord.$nord0;
+}
+
+.bottom-panel {
+  position: fixed;
+  font-size: 0.9rem;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: nord.$nord0;
+  color: nord.$nord6;
+  z-index: 9999999999999999999;
+}
+
+.dark .bottom-panel {
+  color: nord.$nord0;
+  background-color: nord.$nord6;
+}
+
+.popup-wrapper {
+  display: none;
+  max-width: 720px;
+  margin: 0 auto;
+
+
+
+}
+
+#popup-content {
+  max-width: 720px;
+  text-align: left;
+  padding: 1rem;
+  line-height: 1.4rem;
+  margin: 0 auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+#popup-content a,
+#popup-content a:link,
+#popup-content a:visited {
+  color: nord.$nord8;
+}
+
+.dark #popup-content a,
+.dark #popup-content a:link,
+.dark #popup-content a:visited {
+  color: nord.$nord10;
+}
+
+a.footnote-ref,
+.dark a.footnote-ref {
+  position: relative;
+  top: 0;
+  left: 0;
+  font-weight: bold;
+  color: nord.$nord0;
+  background-color: nord.$nord8;
+  border-radius: 50%;
+  padding: 0.2em 0.5em 0.2em;
+}
+
+a.footnote-ref:hover,
+.dark a.footnote-ref:hover {
+  border: none;
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
+  text-decoration: none;
+  transition: none;
+}
+
+a.footnote-backref,
+.dark a.footnote-backref {
+  position: relative;
+  top: -0.2em;
+  font-weight: bold;
+  color: nord.$nord0;
+  background-color: nord.$nord8;
+  font-size: 0.8em;
+  border-radius: 0.4em;
+  padding: 0.2em 0.4em 0;
+  border: none;
+}
+
+a.footnote-backref:hover,
+.dark a.footnote-backref:hover {
+  border: none;
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
+  text-decoration: none;
+  transition: none;
+}
+
+#popup-content a.footnote-backref,
+.dark #popup-content a.footnote-backref {
+  color: nord.$nord0 !important;
+  background-color: nord.$nord8;
+}
+
+#popup-content a.footnote-backref:hover,
+.dark #popup-content a.footnote-backref:hover {
+  color: nord.$nord0;
+  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
+}

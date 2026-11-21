@@ -1,3 +1,6 @@
+@use "../../nord";
+@use "../../theme";
+
 /*************************************************
  *  Pager.
  **************************************************/
@@ -29,4 +32,30 @@
 
 .dark .post-nav-item a {
   color: #ddd;
+}
+
+.dark .pagination li > a,
+.pagination li > span {
+  background-color: rgb(40, 42, 54);
+  border: 1px solid #ddd;
+}
+
+.page-link {
+  color: theme.$primary;
+  background-color: theme.$background;
+  border: 1px solid theme.$primary;
+}
+
+.dark .page-link {
+  color: nord.$nord6;
+  background-color: nord.$nord0 !important;
+  border: 1px solid nord.$nord6 !important;
+}
+
+.page-link:hover,
+.dark .page-link:hover {
+  color: nord.$nord0 !important;
+  text-decoration: none;
+  background-color: nord.$nord8 !important;
+  border-color: nord.$nord8 !important;
 }

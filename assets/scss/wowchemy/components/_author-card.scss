@@ -1,3 +1,5 @@
+@use "../../nord";
+
 /*************************************************
  *  Author profile card
  **************************************************/
@@ -46,4 +48,28 @@
 
 .dark .author-card .card-text {
   color: rgba(255, 255, 255, 0.76);
+}
+
+.author-card .card-title a {
+  color: nord.$nord0;
+}
+
+.dark .author-card .card-title a {
+  color: nord.$nord6;
+}
+
+.author-card .card-subtitle {
+  color: nord.$nord3;
+}
+
+.dark .author-card .card-subtitle {
+  color: nord.$nord4;
+}
+
+.author-card .card-text {
+  color: nord.$nord3;
+}
+
+.dark .author-card .card-text {
+  color: nord.$nord4;
 }

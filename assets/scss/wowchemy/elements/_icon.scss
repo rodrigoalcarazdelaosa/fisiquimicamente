@@ -30,3 +30,32 @@
 .task-list input[type='checkbox']:checked::after {
   content: '✅';
 }
+
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+  display: inline-flex;
+}
+
+img.icon {
+  height: 1em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+  display: inline-flex;
+}
+
+.svg-icon {
+  height: 1em;
+  width: 1em;
+}
+
+p svg {
+  display: inline-flex;
+  align-self: center;
+  height: 1em;
+  width: 1em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+}
