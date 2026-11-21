@@ -296,6 +296,9 @@ ul.nav-icons li.nav-item a.nav-link {
 
 @include breakpoints.down(md) {
   .navbar-toggler {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
     flex: 1;
     max-width: 440px;
     min-width: 0;
@@ -303,8 +306,16 @@ ul.nav-icons li.nav-item a.nav-link {
     padding: 0;
   }
 
+  .navbar-menu-icon {
+    flex: none;
+    font-family: system-ui, sans-serif;
+    font-size: 1.25rem;
+    line-height: 1;
+  }
+
   .navbar-wordmark {
-    width: 100%;
+    flex: 1;
+    min-width: 0;
     height: 44px;
     background-position: left center;
   }
