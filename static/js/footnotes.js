@@ -2,13 +2,14 @@
   const references = document.querySelectorAll('a.footnote-ref');
   if (!references.length) return;
 
-  const panel = document.createElement('div');
-  panel.id = 'bottom-panel';
-  panel.className = 'bottom-panel';
-  panel.innerHTML = '<div class="popup-wrapper" id="popup-wrapper"><div id="popup-content"></div></div>';
-  document.body.append(panel);
-  const popup = panel.firstElementChild;
-  const content = popup.firstElementChild;
+  if (!document.getElementById('bottom-panel')) {
+    document.body.insertAdjacentHTML('beforeend', `
+      <div class="bottom-panel" id="bottom-panel">
+        <div class="popup-wrapper" id="popup-wrapper"><div id="popup-content"></div></div>
+      </div>`);
+  }
+  const popup = document.getElementById('popup-wrapper');
+  const content = document.getElementById('popup-content');
   document.querySelectorAll('a.footnote-return').forEach(link => link.remove());
 
   for (const link of references) {
