@@ -14,11 +14,11 @@
 /* Documentation: article footer. */
 
 .docs .body-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid nord.$nord3;
   margin-top: 30px;
   padding-top: 10px;
   font-size: 14px;
-  color: #707070;
+  color: nord.$nord3;
 }
 
 /* Docs content. */
@@ -123,11 +123,11 @@
   display: block;
   padding: 0.25rem 1.5rem;
   font-size: 0.8rem;
-  color: rgba(0, 0, 0, 0.65);
+  color: nord.$nord3;
 }
 
 .docs-sidebar .nav > li > a:hover {
-  color: rgba(0, 0, 0, 0.85);
+  color: nord.$nord0;
   text-decoration: none;
   background-color: transparent;
 }
@@ -200,11 +200,6 @@
   color: rgba(0, 0, 0, 0.65);
 }
 
-.docs-toc-link:hover {
-  color: rgba(0, 0, 0, 0.85);
-  text-decoration: none;
-}
-
 .docs-toc-item.active {
   margin-bottom: 1rem;
 }
@@ -236,7 +231,7 @@
 
 #TableOfContents {
   padding-left: 0;
-  border-left: 1px solid #eee;
+  border-left: 1px solid nord.$nord3;
 }
 
 #TableOfContents ul,
@@ -258,14 +253,9 @@ ul.toc-top {
 .toc-top li a {
   display: block;
   padding: 0 1.5rem; // Override default padding
-  color: rgba(0, 0, 0, 0.65);
+  color: nord.$nord3;
   line-height: 1.75; // Lighthouse: min tap target size
   font-size: 16px; // Lighthouse: min tap target size
-}
-
-.dark #TableOfContents li a,
-.dark .toc-top li a {
-  color: rgba(255, 255, 255, 0.65);
 }
 
 #TableOfContents li a:hover,
@@ -298,6 +288,11 @@ ul.toc-top {
   background: theme.$dark-background;
 }
 
+.docs-toc-link:hover {
+  color: nord.$nord8;
+  text-decoration: none;
+}
+
 .dark .docs-sidebar .nav > li:not(.active) > a {
   color: rgb(248, 248, 242);
   background: theme.$dark-background;
@@ -305,32 +300,15 @@ ul.toc-top {
 
 /* Documentation: article footer. */
 
-.docs .body-footer {
-  border-top: 1px solid nord.$nord3;
-  color: nord.$nord3;
-}
-
 .dark .docs .body-footer {
   border-top: 1px solid nord.$nord4;
-  color: nord.$nord4;
+  color: rgba(255, 255, 255, 0.54);
 }
 
 /* Docs sidebar li>a. */
 
-.docs-toc-link:hover {
-  color: nord.$nord8;
-}
-
-.docs-sidebar .nav > li > a {
-  color: nord.$nord3;
-}
-
 .dark .docs-sidebar .nav > .dark li > .dark a {
   color: nord.$nord4;
-}
-
-.docs-sidebar .nav > li > a:hover {
-  color: nord.$nord0;
 }
 
 .dark .docs-sidebar .nav > .dark li > .dark a:hover {
@@ -357,17 +335,8 @@ ul.toc-top {
   color: nord.$nord6;
 }
 
-#TableOfContents {
-  border-left: 1px solid nord.$nord3;
-}
-
 .dark #TableOfContents {
   border-left: 1px solid nord.$nord4;
-}
-
-#TableOfContents li a,
-.toc-top li a {
-  color: nord.$nord3;
 }
 
 .dark #TableOfContents li a,

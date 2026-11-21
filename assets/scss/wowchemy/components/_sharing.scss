@@ -40,7 +40,7 @@ ul.share li i {
 
 ul.share li a {
   text-decoration: none !important;
-  color: rgba(0, 0, 0, 0.84);
+  color: nord.$nord0;
 }
 
 .dark ul.share li a {
@@ -53,10 +53,6 @@ ul.share li:hover i {
 
 h3#comments {
   padding-top: 0rem;
-}
-
-ul.share li a {
-  color: nord.$nord0;
 }
 
 .comments-box h3 {

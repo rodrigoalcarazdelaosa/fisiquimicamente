@@ -5,6 +5,71 @@
  *  Navigation bar
  **************************************************/
 
+// Dropdown
+
+.dropdown { position: relative; }
+
+.dropdown-toggle { white-space: nowrap; }
+
+.dropdown-toggle::after {
+  display: inline-block;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  border-top: 0.3em solid;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0;
+  border-left: 0.3em solid transparent;
+}
+
+.dropdown-toggle:empty::after { margin-left: 0; }
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  display: none;
+  float: left;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0.125rem 0 0;
+  font-size: 1rem;
+  text-align: left;
+  list-style: none;
+  background-color: theme.$menu-primary !important;
+  color: theme.$menu-text !important;
+  z-index: 1032; // I18n dropdown over mobile expanded menu.
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+}
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  background-color: theme.$menu-primary !important;
+  color: theme.$menu-text !important;
+  text-align: inherit;
+  white-space: nowrap;
+  border: 0;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus,
+.dropdown-item.active,
+.dropdown-item:active {
+  text-decoration: none;
+}
+
+.dropdown-item.disabled, .dropdown-item:disabled {
+  pointer-events: none;
+}
+
+.dropdown-menu.show { display: block; }
+
 html {
   --navbar-height: 70px;
 
@@ -36,30 +101,134 @@ html:has(.page-header #navbar-main) {
   top: 0;
 }
 
-.dropdown-menu {
-  background-color: theme.$menu-primary !important;
-  color: theme.$menu-text !important;
-  z-index: 1032; // I18n dropdown over mobile expanded menu.
-}
-
 .navbar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
   height: var(--navbar-height);
   background: theme.$menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
   font-size: #{theme.$font-size-small}px;
 
-  // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
-  // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
+  // The logo supplies its own vertical padding within the fixed navbar height.
   padding: 0 1rem;
+}
 
+@media print {
+  .navbar { display: none; }
+}
+
+.navbar .container, .navbar .container-fluid, .navbar .container-xl {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-brand:hover, .navbar-brand:focus {
+  text-decoration: none;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.navbar-nav .dropdown-menu {
+  position: static;
+  float: none;
+}
+
+.navbar-collapse {
+  flex-basis: 100%;
+  flex-grow: 1;
+  align-items: center;
+}
+
+.navbar-toggler:hover, .navbar-toggler:focus {
+  text-decoration: none;
+}
+
+@media (max-width: 991.98px) {
+  .navbar-expand-lg > .container,
+  .navbar-expand-lg > .container-fluid,
+  .navbar-expand-lg > .container-xl {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg {
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+  }
+
+  .navbar-expand-lg .navbar-nav { flex-direction: row; }
+
+  .navbar-expand-lg .navbar-nav .dropdown-menu { position: absolute; }
+
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+
+  .navbar-expand-lg > .container,
+  .navbar-expand-lg > .container-fluid,
+  .navbar-expand-lg > .container-xl {
+    flex-wrap: nowrap;
+  }
+
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+  }
+
+  .navbar-expand-lg .navbar-toggler { display: none; }
+}
+
+.navbar-light .navbar-brand { color: theme.$menu-title; }
+
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+  color: theme.$menu-text-active;
+}
+
+.navbar-light .navbar-nav .nav-link { color: theme.$menu-text; }
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-light .navbar-nav .nav-link.disabled { color: rgba(0, 0, 0, 0.3); }
+
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+  color: theme.$menu-text-active;
+}
+
+.navbar-light .navbar-toggler {
+  color: theme.$menu-text;
+}
+
+.navbar {
   .nav-item {
     // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.
     position: relative;
   }
 
   .navbar-nav {
-    display: flex;
-
     .nav-link {
       color: rgba(theme.$menu-text, 0.85);
 
@@ -115,8 +284,12 @@ html:has(.page-header #navbar-main) {
   }
 }
 
-// Remove Bootstrap's border from Toggle button.
 .navbar-toggler {
+  padding: 0.25rem 0;
+  font-size: 1.125rem;
+  line-height: 1;
+  background-color: transparent;
+  border-radius: 0.25rem;
   border: 0 !important;
   position: relative; // For z-index clickable mobile logo.
   z-index: 1030;
@@ -161,6 +334,11 @@ html:has(.page-header #navbar-main) {
 */
 
 .navbar-brand {
+  display: inline-block;
+  margin-right: 1rem;
+  font-size: 1.2rem;
+  line-height: inherit;
+  white-space: nowrap;
   // Set v-padding to 5px to align with 50/70px responsive max navbar heights.
   padding-top: 5px;
   padding-bottom: 5px;
@@ -195,26 +373,6 @@ html:has(.page-header #navbar-main) {
 }
 
 @include breakpoints.down(md) {
-  // Used in conjunction with mobile .navbar-brand to center logo on mobile.
-  .navbar-brand-mobile-wrapper {
-    position: absolute;
-    left: 0;
-    right: 0;
-  }
-
-  .navbar-brand {
-    // Center logo in mobile navbar.
-    margin: 0 auto;
-  }
-
-  .navbar-brand img {
-    max-height: 40px; // 40px height + 10px v-padding = 50px.
-  }
-
-  .navbar-toggler {
-    border-color: transparent; // Remove Bootstrap's border from Toggle button.
-  }
-
   #navbar-main .main-menu-item {
     text-align: left !important;
     padding-left: 0;
@@ -268,11 +426,6 @@ ul.nav-icons li.nav-item a.nav-link {
   color: theme.$dark-menu-text !important;
 }
 
-.dropdown-item {
-  background-color: theme.$menu-primary !important;
-  color: theme.$menu-text !important;
-}
-
 .dark .dropdown-item {
   background-color: theme.$dark-menu-primary !important;
   color: theme.$dark-menu-text !important;
@@ -281,6 +434,9 @@ ul.nav-icons li.nav-item a.nav-link {
 /* Navigation bar text */
 .navbar-light {
   font-family: theme.$font-nav, serif;
+  font-weight: 400;
+  line-height: 1.25;
+  text-rendering: optimizelegibility;
 }
 
 .navbar-logo {
@@ -323,6 +479,7 @@ ul.nav-icons li.nav-item a.nav-link {
   // Used in conjunction with mobile .navbar-brand to center logo on mobile.
   .navbar-brand-mobile-wrapper {
     position: relative;
+    inset-inline: 0;
   }
   .navbar-brand {
     // Center logo in mobile navbar.

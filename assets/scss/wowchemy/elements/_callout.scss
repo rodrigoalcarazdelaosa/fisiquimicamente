@@ -36,13 +36,13 @@ div.alert > div:first-child::before {
 }
 
 div.alert-warning > div:first-child::before {
-  color: #ff3860;
+  color: nord.$nord0;
   content: "⚠️";
 }
 
 .article-style aside a,
 div.alert a {
-  color: currentcolor;
+  color: currentColor !important;
   text-decoration: none;
   border-bottom: solid 1px currentcolor;
 }
@@ -52,12 +52,6 @@ div.alert a {
   color: #12537e;
   background-color: #f6fbfe;
   border-color: #1976d2;
-}
-
-.alert-warning {
-  color: #cd0930;
-  background-color: #fff5f7;
-  border-color: #ff3860;
 }
 
 .alert-example hr {
@@ -79,15 +73,6 @@ div.alert a {
 .dark .alert-example blockquote {
   color: nord.$nord3;
   border-left: 0.25rem solid nord.$nord3;
-}
-
-div.alert-warning > div:first-child::before {
-  color: nord.$nord0;
-}
-
-.article-style aside a,
-div.alert a {
-  color: currentColor !important;
 }
 
 div.alert > div:first-child::before {

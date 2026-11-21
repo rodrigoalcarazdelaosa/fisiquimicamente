@@ -69,6 +69,9 @@ td[colspan]:not([colspan="1"]) {
 }
 
 caption {
+  padding: 0.75rem 0;
+  text-align: center;
+  caption-side: bottom;
   color: nord.$nord0;
 }
 

@@ -1,25 +1,29 @@
 @use "../../nord";
 
-.breadcrumb {
-  font-size: 14px;
-  padding: 0;
-  background-color: transparent;
-  border-radius: 0;
-  margin-bottom: 0;
-}
-
-.breadcrumb-item.active {
-  color: rgba(0, 0, 0, 0.54);
-}
-
-.dark .breadcrumb-item.active {
-  color: rgba(255, 255, 255, 0.54);
-}
+// Breadcrumb
 
 .breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
   margin-top: -0.5rem;
   margin-bottom: -0.5rem;
+  padding: 0;
+  list-style: none;
+  font-size: 14px;
+  background-color: transparent;
+  border-radius: 0;
 }
+
+.breadcrumb-item + .breadcrumb-item { padding-left: 0.5rem; }
+
+.breadcrumb-item + .breadcrumb-item::before {
+  float: left;
+  padding-right: 0.5rem;
+  color: #6c757d;
+  content: "/";
+}
+
+.breadcrumb-item + .breadcrumb-item:hover::before { text-decoration: none; }
 
 .breadcrumb.breadcrumb-widget {
   margin-top: -35px;
