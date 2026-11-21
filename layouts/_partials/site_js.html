@@ -1,5 +1,10 @@
 {{ $js := site.Data.assets.js }}
 
+{{ if .Page.Store.Get "has_deferred_phet" }}
+  {{ $phet := resources.Get "js/lazy-phet.js" | minify | fingerprint }}
+  <script type="module" src="{{ $phet.RelPermalink }}"></script>
+{{ end }}
+
 {{ if .Page.Store.Get "has_isotope" }}
   {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.imagesLoaded.url $js.imagesLoaded.version) $js.imagesLoaded.sri | safeHTML }}
   {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.isotope.url $js.isotope.version) $js.isotope.sri | safeHTML }}
