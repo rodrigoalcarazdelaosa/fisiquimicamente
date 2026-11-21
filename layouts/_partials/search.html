@@ -21,10 +21,10 @@
       </div>
 
       {{ $search_queries := false }}
-      {{ if isset site.Data (printf "search_queries.%s" .Site.Language.Lang) }}
-        {{ $search_queries = index site.Data (printf "search_queries.%s" .Site.Language.Lang) }}
-      {{ else if isset site.Data "search_queries" }}
-        {{ $search_queries = site.Data.search_queries }}
+      {{ if isset hugo.Data (printf "search_queries.%s" .Site.Language.Lang) }}
+        {{ $search_queries = index hugo.Data (printf "search_queries.%s" .Site.Language.Lang) }}
+      {{ else if isset hugo.Data "search_queries" }}
+        {{ $search_queries = hugo.Data.search_queries }}
       {{end}}
 
       {{ if $search_queries }}

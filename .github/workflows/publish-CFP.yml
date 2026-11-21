@@ -51,7 +51,7 @@ jobs:
         uses: actions/cache@v6
         with:
           path: resources
-          key: ${{ matrix.projectName }}-hugo-resources-${{ hashFiles('.hvm', '.github/scripts/install-hugo.sh') }}
+          key: ${{ matrix.projectName }}-hugo-resources-${{ hashFiles('.hvm', '.github/scripts/install-hugo.sh', 'config/_default/hugo.yaml') }}
 
       - name: Build site with Hugo
         run: source get_last_commit_hash.sh && hugo --gc --minify

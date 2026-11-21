@@ -10,8 +10,8 @@
 
 {{/* Get summary. */}}
 {{ $summary := "" }}
-{{ if $item.Params.summary }}
-  {{ $summary = $item.Params.summary | markdownify | emojify }}
+{{ if $item.RawSummary }}
+  {{ $summary = $item.RawSummary | markdownify | emojify }}
 {{ else if $item.Params.abstract }}
   {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 135) }}
 {{ else if $item.Summary }}

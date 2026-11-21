@@ -15,7 +15,7 @@
   {{ if (in (slice "post") $page.Type) | and (ne $page.Params.show_date false) }}
   <span class="article-date">
     {{ $date := $page.Date | time.Format site.Params.locale.date_format }}
-    {{ if ne $page.Params.Lastmod $page.Params.Date }}{{ i18n "last_updated" }}{{ end }}
+    {{ if ne $page.Lastmod $page.Date }}{{ i18n "last_updated" }}{{ end }}
     {{ $date }}
   </span>
   <span class="middot-divider"></span>

@@ -12,8 +12,8 @@
 
     {{- /* Generate page description. */ -}}
     {{- $desc := "" -}}
-    {{- if .Params.summary -}}
-      {{- $desc = .Params.summary -}}
+    {{- if .RawSummary -}}
+      {{- $desc = .RawSummary -}}
     {{- else if .Params.abstract -}}
       {{- $desc = .Params.abstract -}}
     {{- else -}}
