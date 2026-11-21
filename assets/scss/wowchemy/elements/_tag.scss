@@ -8,8 +8,8 @@
 
 .badge-light {
   border: none;
-  color: rgba(0, 0, 0, 0.68);
-  background: rgba(0, 0, 0, 0.05);
+  color: nord.$nord0;
+  background: nord.$nord4;
   font-weight: normal;
   border-radius: 3px;
   padding: 5px 10px;
@@ -19,11 +19,6 @@
 
 .article-tags > .badge-light:last-child {
   margin-right: 0;
-}
-
-.badge-light[href]:focus,
-.badge-light[href]:hover {
-  background: rgba(0, 0, 0, 0.1);
 }
 
 a.badge:focus,
@@ -57,11 +52,6 @@ a.badge:hover {
 .dark a.badge:focus,
 .dark a.badge:hover {
   color: rgba(255, 255, 255, 0.68);
-}
-
-.badge-light {
-  color: nord.$nord0;
-  background: nord.$nord4;
 }
 
 .dark .badge-light {

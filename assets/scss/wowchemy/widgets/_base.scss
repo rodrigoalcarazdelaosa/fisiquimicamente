@@ -160,16 +160,14 @@
   font-weight: bold;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
+  color: theme.$primary;
 }
 
 .section-heading p {
   font-weight: 400;
   font-size: 1.1rem;
-  color: rgba(0, 0, 0, 0.54); // Accessible contrast, matching footer text color.
-}
-
-.dark .section-heading p {
-  color: rgb(158, 158, 158);
+  font-family: theme.$font-heading, sans-serif;
+  color: nord.$nord0;
 }
 
 /*************************************************
@@ -243,11 +241,6 @@
   text-decoration: none;
 }
 
-.dark .card .section-subheading a {
-  color: theme.$primary;
-  border-bottom: solid 1px transparent;
-}
-
 .home-section.light h1 {
   color: theme.$primary;
 }
@@ -264,23 +257,9 @@
   color: nord.$nord6;
 }
 
-.section-subheading {
-  color: theme.$primary;
-
-}
-
 .dark .section-subheading {
   color: nord.$nord6;
 
-}
-
-.dark .card .section-subheading a {
-  color: nord.$nord6;
-}
-
-.section-heading p {
-  font-family: theme.$font-heading, sans-serif;
-  color: nord.$nord0;
 }
 
 .dark .section-heading p {
@@ -291,16 +270,4 @@
   color: currentColor;
   text-decoration: none;
   border-bottom: solid 1px currentColor;
-}
-
-.card .section-subheading a:hover {
-  color: nord.$nord0;
-  border-bottom: solid 1px nord.$nord0;
-  text-decoration: none;
-}
-
-.dark .card .section-subheading a:hover {
-  color: nord.$nord6;
-  border-bottom: solid 1px nord.$nord6;
-  text-decoration: none;
 }
