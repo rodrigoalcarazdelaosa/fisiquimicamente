@@ -1,3 +1,5 @@
+@use "../theme";
+
 /*************************************************
  *  Dark themed components
  **************************************************/
@@ -17,7 +19,7 @@ body.dark,
 .dark .modal button.close,
 .dark input {
   color: rgb(248, 248, 242);
-  background: $sta-dark-background;
+  background: theme.$dark-background;
 }
 
 .dark .form-control {
@@ -31,8 +33,8 @@ body.dark,
 
   &:focus {
     background-color: rgb(68, 71, 90);
-    border-color: $sta-primary;
-    box-shadow: 0 0 0 0.2rem $sta-primary-dark;
+    border-color: theme.$primary;
+    box-shadow: 0 0 0 0.2rem theme.$primary-dark;
   }
 }
 
@@ -101,7 +103,7 @@ body.dark,
 }
 
 .dark .card .section-subheading a {
-  color: $sta-primary;
+  color: theme.$primary;
   border-bottom: solid 1px transparent;
 }
 
@@ -140,5 +142,5 @@ body.dark,
 
 .dark .docs-sidebar .nav > li:not(.active) > a {
   color: rgb(248, 248, 242);
-  background: $sta-dark-background;
+  background: theme.$dark-background;
 }

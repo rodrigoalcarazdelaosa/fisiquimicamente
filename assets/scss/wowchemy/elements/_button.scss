@@ -1,3 +1,5 @@
+@use "../../theme";
+
 /*************************************************
  *  Button size override
  *************************************************/
@@ -45,16 +47,16 @@
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: $sta-primary-light !important;
+  background-color: theme.$primary-light !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: $sta-primary-dark !important;
+  background-color: theme.$primary-dark !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem $sta-primary-light;
+  box-shadow: 0 0 0 0.2rem theme.$primary-light;
 }

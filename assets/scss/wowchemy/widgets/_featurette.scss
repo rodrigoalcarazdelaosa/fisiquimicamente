@@ -1,3 +1,5 @@
+@use "../../theme";
+
 /*************************************************
  *  Featurette Widget
  **************************************************/
@@ -24,7 +26,7 @@
 .featurette-icon {
   display: block;
   width: 100%;
-  color: $sta-primary;
+  color: theme.$primary;
   font-size: 3rem;
   text-align: center;
 }

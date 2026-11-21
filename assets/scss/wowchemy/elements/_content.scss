@@ -1,3 +1,7 @@
+@use "../../theme";
+@use "../../breakpoints";
+@use "../helpers/all" as helpers;
+
 /*************************************************
  *  Page content
  **************************************************/
@@ -28,7 +32,7 @@
   height: 260px;
   object-fit: cover;
 
-  @include media-breakpoint-up(lg) {
+  @include breakpoints.up(lg) {
     height: 310px; /* Increased height on desktop */
   }
 }
@@ -91,11 +95,11 @@
   overflow: hidden;
 
   // Word wrap text content.
-  @include word-wrap;
+  @include helpers.word-wrap;
 
   // Underline links if they are a similar color to the body text.
   a {
-    text-decoration: $sta-link-decoration;
+    text-decoration: theme.$link-decoration;
   }
 
   img,
@@ -127,7 +131,7 @@
 .dark .article-style {
   // Underline links if they are a similar color to the body text.
   a {
-    text-decoration: $sta-dark-link-decoration;
+    text-decoration: theme.$dark-link-decoration;
   }
 }
 
@@ -143,7 +147,7 @@
   }
 
   a:hover {
-    color: $sta-primary;
+    color: theme.$primary;
   }
 
   .author-notes {

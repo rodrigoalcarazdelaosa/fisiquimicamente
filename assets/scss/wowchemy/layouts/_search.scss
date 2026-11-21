@@ -1,3 +1,6 @@
+@use "../../theme";
+@use "../../breakpoints";
+
 /*************************************************
  *  Search
  **************************************************/
@@ -7,7 +10,7 @@
 .search-modal {
   transform: scale(0);
   -webkit-transform: scale(0);
-  background-color: $sta-background;
+  background-color: theme.$background;
   bottom: 0;
   left: 0;
   right: 0;
@@ -19,7 +22,7 @@
 }
 
 .dark .search-modal {
-  background-color: $sta-dark-background;
+  background-color: theme.$dark-background;
 }
 
 .search-modal > .container {
@@ -37,18 +40,18 @@
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color: $sta-background;
+  background-color: theme.$background;
   padding-top: 2rem;
   padding-bottom: 1rem;
 
   // Reduce top padding on mobile
-  @include media-breakpoint-down(md) {
+  @include breakpoints.down(md) {
     padding-top: 0;
   }
 }
 
 .dark .search-header {
-  background-color: $sta-dark-background;
+  background-color: theme.$dark-background;
 }
 
 .search-header h1 {
@@ -94,7 +97,7 @@
 }
 
 .dark #search-query {
-  background-color: $sta-dark-background;
+  background-color: theme.$dark-background;
 }
 
 #search-box #search-query {
@@ -108,8 +111,8 @@
 }
 
 .form-control:focus {
-  border-color: $sta-primary;
-  box-shadow: 0 0 0 0.2rem $sta-primary-light;
+  border-color: theme.$primary;
+  box-shadow: 0 0 0 0.2rem theme.$primary-light;
 }
 
 // Search result items
@@ -202,7 +205,7 @@
 // Algolia dark-themed search input
 
 .dark .ais-search-box--input {
-  background-color: $sta-dark-background;
+  background-color: theme.$dark-background;
 }
 
 // Hide body scrollbars whilst searching in modal

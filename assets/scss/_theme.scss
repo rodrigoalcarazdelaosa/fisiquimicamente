@@ -1,0 +1,32 @@
+@use "sass:color";
+
+$font-size: null !default;
+$font-size-small: null !default;
+$font-body: null !default;
+$font-heading: null !default;
+$font-nav: null !default;
+$font-mono: null !default;
+$primary: null !default;
+$link: null !default;
+$link-hover: null !default;
+$link-decoration: null !default;
+$dark-link: null !default;
+$dark-link-hover: null !default;
+$dark-link-decoration: null !default;
+$menu-primary: null !default;
+$menu-text: null !default;
+$menu-text-active: null !default;
+$menu-title: null !default;
+$dark-menu-primary: null !default;
+$dark-menu-text: null !default;
+$dark-menu-text-active: null !default;
+$dark-menu-title: null !default;
+$background: null !default;
+$dark-background: null !default;
+$home-section-odd: null !default;
+$home-section-even: null !default;
+$dark-home-section-odd: null !default;
+$dark-home-section-even: null !default;
+
+$primary-light: color.adjust($primary, $lightness: 10%, $space: hsl);
+$primary-dark: color.adjust($primary, $lightness: -10%, $space: hsl);

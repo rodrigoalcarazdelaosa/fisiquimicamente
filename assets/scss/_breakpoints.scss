@@ -1,0 +1,11 @@
+@use "sass:map";
+
+@mixin down($size) {
+  $upper: map.get((sm: 767.98px, md: 991.98px, lg: 1199.98px), $size);
+  @media (max-width: $upper) { @content; }
+}
+
+@mixin up($size) {
+  $lower: map.get((lg: 992px, xl: 1200px), $size);
+  @media (min-width: $lower) { @content; }
+}

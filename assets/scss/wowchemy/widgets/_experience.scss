@@ -1,3 +1,5 @@
+@use "../../theme";
+
 /*************************************************
  * Experience
  **************************************************/
@@ -38,9 +40,9 @@
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: $sta-primary !important;
+  border-color: theme.$primary !important;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: $sta-primary !important;
+  background-color: theme.$primary !important;
 }

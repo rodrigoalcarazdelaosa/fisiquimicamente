@@ -1,3 +1,5 @@
+@use "../../theme";
+
 /*************************************************
  *  Hero Widget
  **************************************************/
@@ -50,7 +52,7 @@
 }
 
 .wg-hero.dark .btn {
-  color: $sta-primary-dark;
+  color: theme.$primary-dark;
 }
 
 a.hero-cta-alt {
