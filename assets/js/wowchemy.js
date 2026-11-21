@@ -1,4 +1,3 @@
-import './vendor/instantpage';
 import {searchEnabled, i18n, footnotesURL, zoomURL} from '@params';
 import {scrollParentToChild} from './wowchemy-utils';
 import {initNavigation} from './wowchemy-navigation';

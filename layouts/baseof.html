@@ -18,21 +18,13 @@
   {{ $js_license := printf "/*! Hugo Blox Builder v%s | https://hugoblox.com/ */\n" site.Data.hugoblox.version }}
   {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
   {{ $js_license := $js_license | printf "%s/*! License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */\n" }}
-  {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
   {{ $wcDarkLightEnabled := (and site.Params.appearance.theme_day site.Params.appearance.theme_night) }}
   {{ $wcIsSiteThemeDark := not (.Scratch.Get "light") | default false }}
   {{ $js_params := dict "wcDarkLightEnabled" $wcDarkLightEnabled "wcIsSiteThemeDark" $wcIsSiteThemeDark }}
-  {{ $js_bundle := resources.Get "js/wowchemy-init.js" | js.Build (dict "params" $js_params) }}
-  {{- if hugo.IsProduction -}}
-    {{- $js_bundle = $js_bundle | js.Build (dict "format" "iife") | minify -}}
-  {{- else -}}
-    {{- $js_bundle = $js_bundle | js.Build (dict "format" "iife" "sourceMap" "inline") -}}
-  {{ end }}
-  {{ $js_bundle := slice $js_bundle_head $js_bundle | resources.Concat "js/wowchemy-init.min.js" }}
-  {{- if hugo.IsProduction -}}
-    {{ $js_bundle = $js_bundle | fingerprint "md5" }}
-  {{- end -}}
-  <script src="{{ $js_bundle.RelPermalink }}"></script>
+  {{ $options := dict "params" $js_params "format" "iife" "minify" hugo.IsProduction }}
+  {{ if not hugo.IsProduction }}{{ $options = merge $options (dict "sourceMap" "inline") }}{{ end }}
+  {{ $js_bundle := resources.Get "js/wowchemy-init.js" | js.Build $options }}
+  <script data-cfasync="false">{{ $js_license | safeJS }}{{ $js_bundle.Content | safeJS }}</script>
 
   {{ partial "search" . }}
 
