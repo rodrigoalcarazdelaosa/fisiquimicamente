@@ -2,16 +2,26 @@
  *  Navigation bar
  **************************************************/
 
-.headroom {
-  will-change: transform;
-  transition: transform 200ms linear;
+html {
+  --navbar-height: 70px;
+
+  @include media-breakpoint-down(md) {
+    --navbar-height: 50px;
+  }
 }
 
-.headroom--pinned {
-  transform: translateY(0%);
+html:has(.page-header #navbar-main) {
+  --navbar-scroll-offset: var(--navbar-height);
+  scroll-padding-top: var(--navbar-scroll-offset);
 }
 
-.headroom--unpinned {
+.header--fixed[data-hide-on-scroll] {
+  @media (prefers-reduced-motion: no-preference) {
+    transition: transform 150ms ease-out;
+  }
+}
+
+.header--hidden {
   transform: translateY(-100%);
 }
 
@@ -30,7 +40,7 @@
 }
 
 .navbar {
-  height: 70px;
+  height: var(--navbar-height);
   background: $sta-menu-primary;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
   font-size: #{$sta-font-size-small}px;
@@ -44,8 +54,6 @@
     position: relative;
   }
   @include media-breakpoint-down(md) {
-    height: 50px;
-
     .navbar-nav-scroll {
       width: 100%;
       overflow: hidden;
@@ -226,7 +234,7 @@
     z-index: 1031 !important; // Appear just over navbar.
     position: absolute;
     left: 0;
-    top: 50px;
+    top: var(--navbar-height);
     width: 100%;
     background-color: $sta-menu-primary;
     text-align: center !important;

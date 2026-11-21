@@ -1,8 +1,7 @@
-import mediumZoom from './vendor/medium-zoom.esm';
 import './vendor/instantpage';
-import {searchEnabled, i18n} from '@params';
+import {searchEnabled, i18n, footnotesURL, zoomURL} from '@params';
 import {scrollParentToChild} from './wowchemy-utils';
-import {initNavigation, scrollToAnchor} from './wowchemy-navigation';
+import {initNavigation} from './wowchemy-navigation';
 import {initCarousels} from './wowchemy-carousel';
 import {initTooltips} from './tooltips';
 import {changeThemeModeClick, initThemeVariation, renderThemeVariation, onMediaQueryListEvent} from './wowchemy-theming';
@@ -55,7 +54,14 @@ function prepareContent() {
   document.querySelectorAll('#TableOfContents li').forEach(item => item.classList.add('nav-item'));
   document.querySelectorAll('#TableOfContents li a').forEach(link => link.classList.add('nav-link'));
   document.querySelectorAll('input[type="checkbox"][disabled]').forEach(input => input.closest('ul')?.classList.add('task-list'));
-  document.querySelectorAll('table').forEach(table => table.classList.add('table'));
+  for (const table of document.querySelectorAll('table')) {
+    table.classList.add('table');
+    if (!table.closest('.article-style') || table.parentElement.classList.contains('table-responsive')) continue;
+    const wrapper = document.createElement('div');
+    wrapper.className = 'table-responsive';
+    table.before(wrapper);
+    wrapper.append(table);
+  }
 
   for (const code of document.querySelectorAll('pre > code')) {
     const button = document.createElement('button');
@@ -108,6 +114,9 @@ function initPortfolio(container) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+  if (document.querySelector('a.footnote-ref')) {
+    import(footnotesURL).catch(error => console.error('Could not load footnotes', error));
+  }
   prepareContent();
   initNavigation();
   initTooltips();
@@ -124,18 +133,21 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   matchMedia('(prefers-color-scheme: dark)').addEventListener('change', onMediaQueryListEvent);
 
+  if (document.querySelector('[data-zoomable]')) {
+    import(zoomURL).then(({default: mediumZoom}) => {
+      const zoom = mediumZoom('[data-zoomable]');
+      const setBackground = dark => zoom.update({background: dark ? 'rgba(0,0,0,0.9)' : 'rgba(255,255,255,0.9)'});
+      setBackground(document.body.classList.contains('dark'));
+      document.addEventListener('wcThemeChange', event => setBackground(event.detail.isDarkTheme()));
+    }).catch(error => console.error('Could not load image zoom', error));
+  }
+
   const sidebar = document.querySelector('.docs-links');
   const current = sidebar?.querySelector('.active');
   if (current) scrollParentToChild(sidebar, current);
 });
 
 window.addEventListener('load', () => {
-  const zoom = mediumZoom('[data-zoomable]');
-  function setZoomBackground(dark) {
-    zoom.update({background: dark ? 'rgba(0,0,0,0.9)' : 'rgba(255,255,255,0.9)'});
-  }
-  setZoomBackground(document.body.classList.contains('dark'));
-  document.addEventListener('wcThemeChange', event => setZoomBackground(event.detail.isDarkTheme()));
   const portfolios = [...document.querySelectorAll('.projects-container')];
   const loaded = portfolios.map(container => new Promise(resolve => {
     if (!window.Isotope) return resolve();
@@ -143,7 +155,6 @@ window.addEventListener('load', () => {
     else { initPortfolio(container); resolve(); }
   }));
   Promise.all(loaded).then(() => {
-    scrollToAnchor();
     const toc = document.querySelector('.docs-toc');
     const current = toc?.querySelector('.nav-link.active');
     if (current) scrollParentToChild(toc, current);

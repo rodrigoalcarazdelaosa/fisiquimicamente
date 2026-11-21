@@ -74,9 +74,8 @@
 }
 
 #search-box::before {
-  font-family: 'Font Awesome 5 Free';
   font-weight: 900;
-  content: '\f002';
+  content: "🔍";
   font-size: 1rem;
   opacity: 0.5;
   line-height: 1rem;
@@ -92,23 +91,6 @@
   background: unset;
   box-shadow: unset;
   padding: unset;
-}
-
-// Override Algolia search box icon style
-.ais-SearchBox-form::before {
-  all: unset; // clear Algolia style
-  height: 1rem;
-  left: 1rem;
-  margin-top: -0.5rem;
-  position: absolute;
-  top: 50%;
-  width: 1rem;
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 900;
-  content: '\f002';
-  font-size: 100%;
-  opacity: 0.7;
-  line-height: 1;
 }
 
 .dark #search-query {

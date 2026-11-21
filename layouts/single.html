@@ -33,16 +33,6 @@
         {{ replaceRE `TableOfContents` `TableOfContentsMobile` $toc | safeHTML }}
       </div>
     </details>
-    <script>
-      document.addEventListener('click', function (event) {
-        const link = event.target.closest('.article-mobile-toc-panel a');
-        if (!link) return;
-
-        const toc = link.closest('.article-mobile-toc');
-        if (toc) toc.open = false;
-      });
-    </script>
-
     <div class="article-container">
 
       <div class="article-style">
