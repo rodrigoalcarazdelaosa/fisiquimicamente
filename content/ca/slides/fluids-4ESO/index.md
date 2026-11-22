@@ -381,7 +381,7 @@ Un **anticicló** és una zona atmosfèrica d'**alta pressió**, en la qual la p
 
 ---
 
-{{< figure library="true" src="fluidos-4ESO/borrasca-anticiclon.jpg" title="[https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html](https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html)" lightbox="false" >}}
+{{< figure library="true" src="fluidos-4ESO/borrasca-anticiclon.jpg" lightbox="false" >}}
 
 {{% /section %}}
 

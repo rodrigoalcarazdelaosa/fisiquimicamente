@@ -18,7 +18,7 @@ weight: 2
 external_link: ""
 
 image:
-  caption: Photo by [**timJ**](https://unsplash.com/@the_roaming_platypus) on [Unsplash](https://unsplash.com)
+  caption: Photo by **timJ** on [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 # links:
@@ -26,7 +26,7 @@ image:
 #  icon:
 #  name: Póster
 #  url: materia-poster.pdf
-  
+
 # slides: materia-2ESO-3ESO
 ---
 
