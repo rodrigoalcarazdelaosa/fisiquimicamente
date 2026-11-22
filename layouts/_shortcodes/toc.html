@@ -14,7 +14,7 @@
     {{ $classes = $classes | append "d-none" (printf "d-%s-block" .) }}
   {{ end }}
 
-  {{ $toc := partial "functions/clean_toc.html" $.Page.TableOfContents }}
+  {{ $toc := partial "functions/clean_toc.html" .Page }}
   {{ $toc = replace $toc `id="TableOfContents"` `id="TableOfContentsInPage"` }}
 
   <details class="{{ delimit $classes " " }}" open>

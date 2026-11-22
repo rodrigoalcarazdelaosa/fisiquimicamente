@@ -1,0 +1,21 @@
+{{- $identifiers := .Fragments.Identifiers -}}
+{{- $anchors := dict -}}
+{{- $used := slice -}}
+{{- /* Keep existing heading IDs reserved when allocating replacements. */ -}}
+{{- range $identifiers -}}
+  {{- $original := . -}}
+  {{- $base := replaceRE `(?i)-?HAHAHUGOSHORTCODE[0-9]+s[0-9]+HBHB` "" $original -}}
+  {{- if and (ne $base $original) (not (isset $anchors $original)) -}}
+    {{- $base = strings.Trim $base "-" | default "section" -}}
+    {{- $anchor := $base -}}
+    {{- range seq (len $identifiers) -}}
+      {{- if and (not (in $identifiers $anchor)) (not (in $used $anchor)) -}}
+        {{- break -}}
+      {{- end -}}
+      {{- $anchor = printf "%s-%d" $base . -}}
+    {{- end -}}
+    {{- $used = $used | append $anchor -}}
+    {{- $anchors = merge $anchors (dict $original $anchor) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $anchors -}}
