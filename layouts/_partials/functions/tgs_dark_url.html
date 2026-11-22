@@ -1,0 +1,20 @@
+{{- $animation := .animation -}}
+{{- $name := printf "%s-dark.tgs" (strings.TrimSuffix ".tgs" $animation.Name) -}}
+{{- $variant := resources.Get $name -}}
+{{- with .page -}}
+  {{- with .Resources.Get $name -}}
+    {{- $variant = . -}}
+  {{- end -}}
+{{- end -}}
+{{- $url := "" -}}
+{{- with $variant -}}
+  {{- $url = .RelPermalink -}}
+{{- else -}}
+  {{- /* Existing dark variants also live in static beside the published animation. */ -}}
+  {{- $candidate := printf "%s-dark.tgs" (strings.TrimSuffix ".tgs" $animation.RelPermalink) -}}
+  {{- $path := strings.TrimPrefix (urls.Parse site.BaseURL).Path (urls.Parse $candidate).Path -}}
+  {{- if fileExists (path.Join "static" $path) -}}
+    {{- $url = $candidate -}}
+  {{- end -}}
+{{- end -}}
+{{- return $url -}}
