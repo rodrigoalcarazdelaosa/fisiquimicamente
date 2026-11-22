@@ -25,12 +25,12 @@ links:
 # icon: download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
-  
+
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
   url: energia-poster.pdf
- 
+
 slides: energia-2ESO-3ESO
 
 math: true
@@ -93,7 +93,7 @@ Aprende más sobre las **formas** y **cambios** de **energía** con esta **simul
 ## Calor y temperatura
 
 ### Temperatura 🌡️
-De acuerdo al **modelo cinético-molecular**, la materia está formada por partículas que están en continuo movimiento. La **temperatura** es una **medida** de la **agitación** ([energía cinética]({{< relref "/apuntes-cuarto-eso/energia-trabajo-calor/index.md#energ%C3%ADa-cinética-e_mathrm-c" >}})) **media** de las **partículas** que forman un sistema.
+De acuerdo al **modelo cinético-molecular**, la materia está formada por partículas que están en continuo movimiento. La **temperatura** es una **medida** de la **agitación** ([energía cinética]({{< relref "/apuntes-cuarto-eso/energia-trabajo-calor/index.md#energía-cinética" >}})) **media** de las **partículas** que forman un sistema.
 
 La **temperatura absoluta** es el valor de la temperatura medida con respecto a una escala que comienza en el **cero absoluto**, un hipotético estado en el que todas las **partículas** que forman el sistema estarían completamente ***quietas***.
 

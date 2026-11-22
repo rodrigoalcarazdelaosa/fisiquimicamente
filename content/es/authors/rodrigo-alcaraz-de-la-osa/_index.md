@@ -27,7 +27,7 @@ bio: Soy Doctor en Física y Profesor de Física y Química en el [IES Peñacast
 
 interests:
 - ✈️ Viajar
-- 🎸 [Música](#guitarra)[<img draggable="false" alt="DT" src="/icon/DT.svg">](https://dreamtheater.net) <iframe src="https://open.spotify.com/embed/artist/2aaLAng2L2aWD2FClzwiep" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+- 🎸 [Música](/equipo/rodrigo-alcaraz-de-la-osa/intereses-formacion/#guitarra)[<img draggable="false" alt="DT" src="/icon/DT.svg">](https://dreamtheater.net) <iframe src="https://open.spotify.com/embed/artist/2aaLAng2L2aWD2FClzwiep" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 - 🎮 Videojuegos [<img draggable="false" alt="AC" src="/icon/AC.svg">](https://www.ubisoft.com/es-es/game/assassins-creed)
 - ⚛️ *Fotones*
 
