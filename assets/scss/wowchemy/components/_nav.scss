@@ -36,8 +36,8 @@
   font-size: 1rem;
   text-align: left;
   list-style: none;
-  background-color: theme.$menu-primary;
-  color: theme.$menu-text;
+  background-color: var(--menu-background);
+  color: var(--menu-color);
   z-index: 1032; // I18n dropdown over mobile expanded menu.
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.15);
@@ -50,18 +50,14 @@
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: 400;
-  background-color: theme.$menu-primary;
+  background-color: var(--menu-background);
   text-align: inherit;
   white-space: nowrap;
   border: 0;
 }
 
 .navbar .dropdown-menu .dropdown-item {
-  color: theme.$menu-text;
-}
-
-.dark .navbar .dropdown-menu .dropdown-item {
-  color: theme.$dark-menu-text;
+  color: var(--menu-color);
 }
 
 .dropdown-item:hover,
@@ -115,8 +111,8 @@ html:has(.page-header #navbar-main) {
   align-items: center;
   justify-content: space-between;
   height: var(--navbar-height);
-  background: theme.$menu-primary;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
+  background: var(--menu-background);
+  box-shadow: 0 0.125rem 0.25rem 0 var(--menu-shadow);
   font-size: #{theme.$font-size-small}px;
 
   // The logo supplies its own vertical padding within the fixed navbar height.
@@ -204,7 +200,7 @@ html:has(.page-header #navbar-main) {
   .navbar-expand-lg .navbar-toggler { display: none; }
 }
 
-.navbar-light .navbar-brand { color: theme.$menu-title; }
+.navbar-light .navbar-brand { color: var(--menu-brand); }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
   color: theme.$menu-text-active;
@@ -226,7 +222,7 @@ html:has(.page-header #navbar-main) {
 }
 
 .navbar-light .navbar-toggler {
-  color: theme.$menu-text;
+  color: var(--menu-color);
 }
 
 .navbar {
@@ -237,17 +233,17 @@ html:has(.page-header #navbar-main) {
 
   .navbar-nav {
     .nav-link {
-      color: rgba(theme.$menu-text, 0.85);
+      color: var(--menu-link);
 
       &.active,
       &:hover,
       &:focus {
-        color: theme.$menu-text;
+        color: var(--menu-link-hover);
       }
 
       &.active {
         font-weight: bold;
-        color: theme.$menu-text-active;
+        color: var(--menu-active);
       }
     }
   }
@@ -260,34 +256,7 @@ html:has(.page-header #navbar-main) {
   .dropdown-item.active,
   .dropdown-item.dropdown-item-active {
     font-weight: bold;
-    color: theme.$menu-text-active;
-  }
-}
-
-.dark .navbar {
-  background: theme.$dark-menu-primary;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, 0.11);
-
-  .navbar-nav {
-    .nav-link {
-      color: rgba(theme.$dark-menu-text, 0.85);
-
-      &.active,
-      &:hover,
-      &:focus {
-        color: theme.$dark-menu-text-active;
-      }
-
-      &.active {
-        font-weight: bold;
-        color: theme.$dark-menu-text-active;
-      }
-    }
-  }
-
-  .dropdown-item.active,
-  .dropdown-item.dropdown-item-active {
-    color: theme.$dark-menu-text-active;
+    color: var(--menu-active);
   }
 }
 
@@ -300,10 +269,6 @@ html:has(.page-header #navbar-main) {
   border: 0;
   position: relative; // For z-index clickable mobile logo.
   z-index: 1030;
-}
-
-.dark .navbar-toggler {
-  color: theme.$dark-menu-text;
 }
 
 .navbar-toggler:focus,
@@ -320,9 +285,8 @@ html:has(.page-header #navbar-main) {
   }
 }
 
-// Prevent language and theme selectors rendering off page.
-.i18n-dropdown .dropdown-menu,
-.theme-dropdown .dropdown-menu {
+// Keep the language selector inside the viewport.
+.i18n-dropdown .dropdown-menu {
   /* Use style from uncollapsable dropdowns to prevent dropdown going off page. */
   position: absolute;
 
@@ -354,10 +318,6 @@ html:has(.page-header #navbar-main) {
   z-index: 1030; // For z-index clickable mobile logo.
 }
 
-.dark .navbar-brand {
-  color: theme.$dark-menu-title;
-}
-
 // Dynamically fit logo image to space available.
 // No need to explicitly set a size for each breakpoint.
 // See https://caniuse.com/#feat=mdn-css_properties_width_stretch .
@@ -372,11 +332,7 @@ html:has(.page-header #navbar-main) {
 }
 
 #navbar-main .main-menu-item ul li .nav-link:not(.active) {
-  color: theme.$menu-text;
-}
-
-.dark #navbar-main .main-menu-item ul li .nav-link:not(.active) {
-  color: theme.$dark-menu-text;
+  color: var(--menu-color);
 }
 
 @include breakpoints.down(md) {
@@ -391,12 +347,8 @@ html:has(.page-header #navbar-main) {
     left: 0;
     top: var(--navbar-height);
     width: 100%;
-    background-color: theme.$menu-primary;
+    background-color: var(--menu-background);
     text-align: center;
-  }
-
-  .dark .navbar-collapse {
-    background-color: theme.$dark-menu-primary;
   }
 
   #navbar-main .main-menu-item .nav-item {
@@ -424,17 +376,21 @@ ul.nav-icons li:last-of-type {
   padding-right: 0;
 }
 
-ul.nav-icons li.nav-item a.nav-link {
+ul.nav-icons li.nav-item .nav-link {
   padding: 0;
 }
 
-.dark .dropdown-menu {
-  background-color: theme.$dark-menu-primary;
-  color: theme.$dark-menu-text;
+.theme-cycle {
+  min-inline-size: 24px;
+  min-block-size: 24px;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
 }
 
-.dark .dropdown-item {
-  background-color: theme.$dark-menu-primary;
+.theme-cycle:focus-visible {
+  outline: 2px solid var(--menu-active);
+  outline-offset: 3px;
 }
 
 /* Navigation bar text */
@@ -452,8 +408,14 @@ ul.nav-icons li.nav-item a.nav-link {
   background: var(--logo-light) center / contain no-repeat;
 }
 
-.dark .navbar-logo {
+:root[data-theme="dark"] .navbar-logo {
   background-image: var(--logo-dark);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) .navbar-logo {
+    background-image: var(--logo-dark);
+  }
 }
 
 @include breakpoints.down(md) {

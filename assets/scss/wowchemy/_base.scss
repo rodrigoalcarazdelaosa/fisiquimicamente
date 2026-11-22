@@ -28,8 +28,8 @@ body {
   font-weight: 400;
   line-height: inherit;
   text-align: left;
-  color: nord.$nord0;
-  background-color: theme.$background;
+  color: var(--page-text);
+  background: var(--page-background);
   padding-top: 0;
   counter-reset: captions;
 
@@ -122,7 +122,7 @@ h6 {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   line-height: 1.25;
-  color: nord.$nord0;
+  color: var(--page-text);
   text-rendering: optimizelegibility;
 
   /* Ensure long words do not overflow into content. */
@@ -170,23 +170,14 @@ h6 {
 
 a,
 h3.article-title a:hover {
-  color: theme.$link;
+  color: var(--page-link);
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: theme.$link-hover;
-}
-
-.dark a {
-  color: theme.$dark-link;
-}
-
-.dark a:not(.btn):hover,
-.dark a:not(.btn):focus {
-  color: theme.$dark-link-hover;
+  color: var(--page-link-hover);
 }
 
 pre,
@@ -314,11 +305,6 @@ small,
   max-width: 100%;
 }
 
-body.dark {
-  color: nord.$nord6;
-  background: theme.$dark-background;
-}
-
 .dark pre {
   /* Match `pre` bg color. */
   border-color: rgb(68, 71, 90);
@@ -330,30 +316,15 @@ body.dark {
   background: rgba(233, 231, 245, 0.2);
 }
 
-/* Headings */
-.dark h1,
-.dark h2,
-.dark h3,
-.dark h4,
-.dark h5,
-.dark h6 {
-  color: nord.$nord6;
-}
-
 code {
   font-size: 87.5%;
   word-wrap: break-word;
-  background: nord.$nord4;
-  color: nord.$nord0;
+  background: var(--code-background);
+  color: var(--code-text);
   border-radius: 0.5em;
 
   overflow-x: auto;
   padding: 0.2em 0.4em;
-}
-
-.dark code {
-  background: nord.$nord3;
-  color: nord.$nord6;
 }
 
 .dark hr {

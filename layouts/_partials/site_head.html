@@ -2,6 +2,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  {{ $theme_init := resources.Get "js/theme-init.js" | js.Build (dict "minify" hugo.IsProduction) }}
+  <script data-cfasync="false">{{ $theme_init.Content | safeJS }}</script>
   {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
   {{ $hide_generator := site.Params.power_ups.hide_generator | default false }}
   {{ if not (and $is_sponsor $hide_generator) }}
@@ -57,6 +59,11 @@
   {{ $use_cms := templates.Exists "decap_cms/single.decap_cms_config.yml" | default (site.Params.extensions.decap_cms.enable | default false) }}
   {{ if .IsHome | and $use_cms }}
     <script data-cfasync="false" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script data-cfasync="false">
+      window.netlifyIdentity?.on('init', user => {
+        if (!user) window.netlifyIdentity.on('login', () => { location.href = '/admin/'; });
+      });
+    </script>
   {{ end }}
 
   {{/* RSS Feed */}}
