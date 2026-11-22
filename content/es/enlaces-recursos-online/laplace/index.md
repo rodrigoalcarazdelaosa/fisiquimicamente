@@ -10,9 +10,9 @@ build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://laplace.us.es/wiki/index.php/Portada
+external_link: http://laplace.us.es/wiki/index.php/Página_principal
 
 image:
-  caption: http://laplace.us.es/wiki/index.php/Portada
+  caption: http://laplace.us.es/wiki/index.php/Página_principal
   focal_point: Smart
 ---

@@ -32,7 +32,7 @@ Descarga estas diapositivas en formato PDF [📥](#/PDF)
 
 ---
 
-> Si quieres **ampliar** esta **información**, te recomendamos la [excelente **guía didáctica** del **CSN**](https://www.csn.es/documents/10182/914813/OFC-04-06%20Radiación%20y%20protección%20radiológica%20%28Guía%20didáctica%20para%20Educación%20Secundaria%29) sobre **radiación** y **protección radiológica**.
+> Si quieres **ampliar** esta **información**, te recomendamos la [excelente **guía didáctica** del **CSN**](https://www.csn.es/documents/10182/914813/OFC-04-06%20Radiación%20y%20protección%20radiológica.%20Guía%20didáctica%20para%20centros%20de%20enseñanza%20secundaria.%20Actualización%202025/ee54bdcd-a0c6-4df9-8b9b-5b60f030557b) sobre **radiación** y **protección radiológica**.
 
 ---
 
