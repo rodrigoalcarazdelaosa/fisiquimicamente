@@ -61,6 +61,8 @@ summary:focus-visible {
 }
 
 summary {
+  display: list-item;
+  cursor: pointer;
   color: theme.$primary;
 }
 
