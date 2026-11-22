@@ -101,6 +101,24 @@ function initPortfolio(container) {
   const items = container.querySelectorAll('.isotope-item');
   const filters = [...section.querySelectorAll('.project-filters a')];
 
+  if (isotope) {
+    let frame;
+    const scheduleLayout = () => {
+      if (frame) return;
+      frame = requestAnimationFrame(() => {
+        frame = null;
+        isotope.layout();
+      });
+    };
+    if ('ResizeObserver' in window) {
+      const observer = new ResizeObserver(scheduleLayout);
+      items.forEach(item => observer.observe(item));
+    } else {
+      container.addEventListener('load', scheduleLayout, true);
+      document.fonts?.ready.then(scheduleLayout);
+    }
+  }
+
   function applyFilter(selector) {
     if (isotope) isotope.arrange({filter: selector});
     else for (const item of items) item.classList.toggle('d-none', !item.matches(selector));
@@ -170,7 +188,7 @@ function initPage() {
     initSearchDialog();
     initSearch(search);
   }
-  document.querySelectorAll('.projects-container.js-layout-row').forEach(initPortfolio);
+  document.querySelectorAll('.projects-container:is(.js-layout-row, .js-layout-masonry)').forEach(initPortfolio);
 
   initThemeControl();
 
@@ -196,14 +214,7 @@ function initPage() {
 initPage();
 
 window.addEventListener('load', () => {
-  const portfolios = [...document.querySelectorAll('.projects-container.js-layout-masonry')];
-  const loaded = portfolios.map(container => new Promise(resolve => {
-    if (window.imagesLoaded) imagesLoaded(container, () => { initPortfolio(container); resolve(); });
-    else { initPortfolio(container); resolve(); }
-  }));
-  Promise.all(loaded).then(() => {
-    const toc = document.querySelector('.docs-toc');
-    const current = toc?.querySelector('.nav-link.active');
-    if (current) scrollParentToChild(toc, current);
-  });
+  const toc = document.querySelector('.docs-toc');
+  const current = toc?.querySelector('.nav-link.active');
+  if (current) scrollParentToChild(toc, current);
 });

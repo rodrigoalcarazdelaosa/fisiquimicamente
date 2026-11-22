@@ -1,0 +1,11 @@
+{{ with .font.local_css }}
+  {{ $css := resources.Get . | minify }}
+  <style>{{ $css.Content | safeCSS }}</style>
+{{ end }}
+{{ with .font.google_fonts }}
+  {{ if hasPrefix . "family=" }}
+    <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }}{{ if $.async }} media="print" onload="this.media='all'"{{ end }}>
+  {{ else }}
+    {{ errorf "The Google Fonts setting must use the CSS2 API and begin with family=." }}
+  {{ end }}
+{{ end }}

@@ -16,10 +16,6 @@
   version = "3.0.6"
   sri = "sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew=="
   url = "https://cdn.jsdelivr.net/gh/metafizzy/isotope@v%s/dist/isotope.pkgd.min.js"
-[js.imagesLoaded]
-  version = "5.0.0"
-  sri = "sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc="
-  url = "https://cdn.jsdelivr.net/npm/imagesloaded@%s/imagesloaded.pkgd.min.js"
 [js.fuse]
   version = "7.5.0"
   sri = "sha256-WrUk0SSSuyM1aOlgAEbhqqliPTbr5olYkUT33Jsdpvc="
