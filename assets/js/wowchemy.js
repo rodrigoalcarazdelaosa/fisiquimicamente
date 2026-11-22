@@ -168,6 +168,7 @@ function initPortfolio(container) {
   }
 
   if (!isotope) applyFilter(initialFilter);
+  container.classList.remove('masonry-initial-filter');
   for (const filter of filters) {
     filter.addEventListener('click', event => {
       event.preventDefault();
