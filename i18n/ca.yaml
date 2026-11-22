@@ -25,7 +25,7 @@
 - id: edit_page
   translation: Edita aquesta pàgina
 - id: theme_selector
-  translation: Display preferences
+  translation: Canvia el tema
 - id: theme_light
   translation: Clar
 - id: theme_dark

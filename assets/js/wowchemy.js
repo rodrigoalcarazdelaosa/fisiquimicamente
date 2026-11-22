@@ -3,7 +3,7 @@ import {scrollParentToChild} from './wowchemy-utils';
 import {initNavigation} from './wowchemy-navigation';
 import {initCarousels} from './wowchemy-carousel';
 import {initTooltips} from './tooltips';
-import {changeThemeModeClick, initThemeVariation, renderThemeVariation, onMediaQueryListEvent} from './wowchemy-theming';
+import {initThemeControl, isDarkTheme} from './wowchemy-theming';
 
 function initSearchDialog() {
   if (!searchEnabled) return;
@@ -169,15 +169,7 @@ function initPage() {
   initSearchDialog();
   document.querySelectorAll('.projects-container.js-layout-row').forEach(initPortfolio);
 
-  const {isDarkTheme, themeMode} = initThemeVariation();
-  renderThemeVariation(isDarkTheme, themeMode);
-  ['light', 'dark', 'auto'].forEach((mode, index) => {
-    document.querySelector('.js-set-theme-' + mode)?.addEventListener('click', event => {
-      event.preventDefault();
-      changeThemeModeClick(index);
-    });
-  });
-  matchMedia('(prefers-color-scheme: dark)').addEventListener('change', onMediaQueryListEvent);
+  initThemeControl();
 
   if (document.querySelector('tgs-player, lottie-player')) {
     import(playersURL).catch(error => console.error('Could not load animation players', error));
@@ -187,7 +179,7 @@ function initPage() {
     import(zoomURL).then(({default: mediumZoom}) => {
       const zoom = mediumZoom('[data-zoomable]');
       const setBackground = dark => zoom.update({background: dark ? 'rgba(0,0,0,0.9)' : 'rgba(255,255,255,0.9)'});
-      setBackground(document.body.classList.contains('dark'));
+      setBackground(isDarkTheme());
       document.addEventListener('wcThemeChange', event => setBackground(event.detail.isDarkTheme()));
     }).catch(error => console.error('Could not load image zoom', error));
   }

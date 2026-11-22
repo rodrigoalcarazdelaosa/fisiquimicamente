@@ -1,0 +1,58 @@
+@use "nord";
+@use "theme";
+
+@mixin dark-palette {
+  --page-background: #{theme.$dark-background};
+  --page-text: #{nord.$nord6};
+  --page-link: #{theme.$dark-link};
+  --page-link-hover: #{theme.$dark-link-hover};
+  --section-odd: #{theme.$dark-home-section-odd};
+  --section-even: #{theme.$dark-home-section-even};
+  --divider-default: url('/media/divider-dark.svg');
+  --divider-en: url('/media/divider-en-dark.svg');
+  --menu-background: #{theme.$dark-menu-primary};
+  --menu-color: #{theme.$dark-menu-text};
+  --menu-link: #{rgba(theme.$dark-menu-text, 0.85)};
+  --menu-link-hover: #{theme.$dark-menu-text-active};
+  --menu-active: #{theme.$dark-menu-text-active};
+  --menu-brand: #{theme.$dark-menu-title};
+  --menu-shadow: rgba(255, 255, 255, 0.11);
+  --code-background: #{nord.$nord3};
+  --code-text: #{nord.$nord6};
+}
+
+:root {
+  color-scheme: light dark;
+  --page-background: #{theme.$background};
+  --page-text: #{nord.$nord0};
+  --page-link: #{theme.$link};
+  --page-link-hover: #{theme.$link-hover};
+  --section-odd: #{theme.$home-section-odd};
+  --section-even: #{theme.$home-section-even};
+  --divider-default: url('/media/divider.svg');
+  --divider-en: url('/media/divider-en.svg');
+  --menu-background: #{theme.$menu-primary};
+  --menu-color: #{theme.$menu-text};
+  --menu-link: #{rgba(theme.$menu-text, 0.85)};
+  --menu-link-hover: #{theme.$menu-text};
+  --menu-active: #{theme.$menu-text-active};
+  --menu-brand: #{theme.$menu-title};
+  --menu-shadow: rgba(0, 0, 0, 0.11);
+  --code-background: #{nord.$nord4};
+  --code-text: #{nord.$nord0};
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  @include dark-palette;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    @include dark-palette;
+  }
+}

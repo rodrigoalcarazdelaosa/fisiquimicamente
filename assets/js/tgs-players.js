@@ -34,7 +34,7 @@
     }
     if (player.localName !== 'tgs-player') return;
     if (loading.has(player)) return;
-    const dark = document.documentElement.classList.contains('dark') || document.body.classList.contains('dark');
+    const dark = document.documentElement.classList.contains('dark');
     const src = (dark && player.dataset.srcDark) || player.dataset.src;
     if (!src) return;
     if (player.dataset.tgsLoaded === src) {
