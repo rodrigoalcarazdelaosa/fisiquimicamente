@@ -1,82 +1,74 @@
+@use "../nord";
+
 // Utilities
 
-.border { border: 1px solid #dee2e6 !important; }
+.border { border: 1px solid #dee2e6; }
 
-.border-top { border-top: 1px solid #dee2e6 !important; }
+.border-right { border-right: 1px solid #dee2e6; }
 
-.border-right { border-right: 1px solid #dee2e6 !important; }
+.d-none { display: none; }
 
-.border-bottom { border-bottom: 1px solid #dee2e6 !important; }
-
-.border-left { border-left: 1px solid #dee2e6 !important; }
-
-.d-none { display: none !important; }
-
-.d-flex { display: flex !important; }
-
-.d-inline-flex { display: inline-flex !important; }
+.d-flex { display: flex; }
 
 @media (min-width: 576px) {
-  .d-sm-flex { display: flex !important; }
+  .d-sm-flex { display: flex; }
 }
 
 @media (min-width: 768px) {
-  .d-md-none { display: none !important; }
+  .d-md-none { display: none; }
 
-  .d-md-flex { display: flex !important; }
+  .d-md-flex { display: flex; }
 
-  .d-md-inline-flex { display: inline-flex !important; }
+  .d-md-inline-flex { display: inline-flex; }
 }
 
 @media (min-width: 992px) {
-  .d-lg-none { display: none !important; }
+  .d-lg-inline { display: inline; }
 
-  .d-lg-inline { display: inline !important; }
-
-  .d-lg-inline-flex { display: inline-flex !important; }
+  .d-lg-inline-flex { display: inline-flex; }
 }
 
 @media (min-width: 1200px) {
-  .d-xl-none { display: none !important; }
+  .d-xl-none { display: none; }
 
-  .d-xl-block { display: block !important; }
+  .d-xl-block { display: block; }
 }
 
 @media print {
   .d-print-none { display: none !important; }
 }
 
-.flex-row { flex-direction: row !important; }
+.flex-row { flex-direction: row; }
 
-.flex-column { flex-direction: column !important; }
+.flex-column { flex-direction: column; }
 
-.flex-wrap { flex-wrap: wrap !important; }
+.flex-wrap { flex-wrap: wrap; }
 
-.flex-grow-1 { flex-grow: 1 !important; }
+.flex-grow-1 { flex-grow: 1; }
 
-.justify-content-start { justify-content: flex-start !important; }
+.justify-content-start { justify-content: flex-start; }
 
-.justify-content-end { justify-content: flex-end !important; }
+.justify-content-end { justify-content: flex-end; }
 
-.justify-content-center { justify-content: center !important; }
+.justify-content-center { justify-content: center; }
 
-.justify-content-between { justify-content: space-between !important; }
+.justify-content-between { justify-content: space-between; }
 
-.align-items-center { align-items: center !important; }
+.align-items-center { align-items: center; }
 
-.align-content-start { align-content: flex-start !important; }
+.align-content-start { align-content: flex-start; }
 
 @media (min-width: 992px) {
-  .align-items-lg-start { align-items: flex-start !important; }
+  .align-items-lg-start { align-items: flex-start; }
 }
 
 @media (min-width: 1200px) {
-  .flex-xl-nowrap { flex-wrap: nowrap !important; }
+  .flex-xl-nowrap { flex-wrap: nowrap; }
 }
 
-.overflow-hidden { overflow: hidden !important; }
+.overflow-hidden { overflow: hidden; }
 
-.position-absolute { position: absolute !important; }
+.position-absolute { position: absolute; }
 
 .sr-only {
   position: absolute;
@@ -90,190 +82,125 @@
   border: 0;
 }
 
-.w-100 { width: 100% !important; }
+.w-100 { width: 100%; }
 
-.h-50 { height: 50% !important; }
+.h-50 { height: 50%; }
 
-.h-100 { height: 100% !important; }
+.h-100 { height: 100%; }
 
 .mt-0, .my-0 {
-  margin-top: 0 !important;
+  margin-top: 0;
 }
 
+// Vertical spacing on headings and hero content overrides component margins.
 .mb-0, .my-0 {
   margin-bottom: 0 !important;
 }
 
 .mt-1, .my-1 {
-  margin-top: 0.25rem !important;
+  margin-top: 0.25rem;
 }
 
-.mr-1 { margin-right: 0.25rem !important; }
+.mr-1 { margin-right: 0.25rem; }
 
 .mb-1, .my-1 {
-  margin-bottom: 0.25rem !important;
+  margin-bottom: 0.25rem;
 }
 
-.m-2 { margin: 0.5rem !important; }
+.m-2 { margin: 0.5rem; }
 
-.mr-2 { margin-right: 0.5rem !important; }
+.mr-2 { margin-right: 0.5rem; }
 
-.mb-2 { margin-bottom: 0.5rem !important; }
+.mb-2 { margin-bottom: 0.5rem; }
 
-.mt-3 { margin-top: 1rem !important; }
+.mt-3 { margin-top: 1rem; }
 
-.mr-3 { margin-right: 1rem !important; }
+.mr-3 { margin-right: 1rem; }
 
 .mb-3 { margin-bottom: 1rem !important; }
 
-.ml-3 { margin-left: 1rem !important; }
+.ml-3 { margin-left: 1rem; }
 
-.mt-4 { margin-top: 1.5rem !important; }
+.mt-4 { margin-top: 1.5rem; }
 
-.mb-4 { margin-bottom: 1.5rem !important; }
+.mb-4 { margin-bottom: 1.5rem; }
 
-.mb-5 { margin-bottom: 3rem !important; }
+.p-0 { padding: 0; }
 
-.p-0 { padding: 0 !important; }
-
-.py-0 { padding-top: 0 !important; }
-
-.py-0 { padding-bottom: 0 !important; }
-
-.pt-1, .py-1 {
-  padding-top: 0.25rem !important;
+.py-1 {
+  padding-top: 0.25rem;
 }
 
-.pr-1 { padding-right: 0.25rem !important; }
+.pr-1 { padding-right: 0.25rem; }
 
-.py-1 { padding-bottom: 0.25rem !important; }
+.py-1 { padding-bottom: 0.25rem; }
 
-.pl-1 { padding-left: 0.25rem !important; }
+.pl-1 { padding-left: 0.25rem; }
 
-.p-2 { padding: 0.5rem !important; }
+.p-2 { padding: 0.5rem; }
 
-.pt-2, .py-2 {
-  padding-top: 0.5rem !important;
+.py-2 {
+  padding-top: 0.5rem;
 }
-
-.pr-2 { padding-right: 0.5rem !important; }
 
 .pb-2, .py-2 {
-  padding-bottom: 0.5rem !important;
+  padding-bottom: 0.5rem;
 }
 
 .pt-3, .py-3 {
-  padding-top: 1rem !important;
+  padding-top: 1rem;
 }
 
-.px-3 { padding-right: 1rem !important; }
+.px-3 { padding-right: 1rem; }
 
 .pb-3, .py-3 {
-  padding-bottom: 1rem !important;
+  padding-bottom: 1rem;
 }
 
-.px-3 { padding-left: 1rem !important; }
+.px-3 { padding-left: 1rem; }
 
-.pt-5 { padding-top: 3rem !important; }
-
-.mx-auto { margin-right: auto !important; }
+.mx-auto { margin-right: auto; }
 
 .ml-auto, .mx-auto {
-  margin-left: auto !important;
+  margin-left: auto;
 }
 
 @media (min-width: 768px) {
   .mb-md-1 { margin-bottom: 0.25rem !important; }
 
-  .mr-md-3 { margin-right: 1rem !important; }
+  .mr-md-3 { margin-right: 1rem; }
 
-  .px-md-0 { padding-right: 0 !important; }
+  .px-md-0 { padding-right: 0; }
 
-  .px-md-0 { padding-left: 0 !important; }
+  .px-md-0 { padding-left: 0; }
 
-  .pl-md-2 { padding-left: 0.5rem !important; }
+  .pl-md-2 { padding-left: 0.5rem; }
 
-  .py-md-3 { padding-top: 1rem !important; }
+  .py-md-3 { padding-top: 1rem; }
 
-  .py-md-3 { padding-bottom: 1rem !important; }
+  .py-md-3 { padding-bottom: 1rem; }
 
-  .pl-md-4 { padding-left: 1.5rem !important; }
+  .pl-md-4 { padding-left: 1.5rem; }
 
-  .pl-md-5 { padding-left: 3rem !important; }
+  .pl-md-5 { padding-left: 3rem; }
 
-  .ml-md-auto { margin-left: auto !important; }
+  .ml-md-auto { margin-left: auto; }
 }
 
 @media (min-width: 992px) {
-  .mb-lg-0 { margin-bottom: 0 !important; }
+  .mb-lg-0 { margin-bottom: 0; }
 }
 
-.text-left { text-align: left !important; }
+.text-left { text-align: left; }
 
-.text-center { text-align: center !important; }
+.text-center { text-align: center; }
 
 @media (min-width: 768px) {
-  .text-md-left { text-align: left !important; }
+  .text-md-left { text-align: left; }
 }
 
-@media (min-width: 992px) {
-  .text-lg-center { text-align: center !important; }
-}
+.font-weight-bold { font-weight: 700; }
 
-.font-weight-bold { font-weight: 700 !important; }
-
-.text-muted { color: rgba(0, 0, 0, 0.54) !important; }
-
-.visible { visibility: visible !important; }
-
-// Print styles
-
-@media print {
-  *, *::before, *::after {
-    text-shadow: none !important;
-    box-shadow: none !important;
-  }
-
-  a:not(.btn) { text-decoration: underline; }
-
-  abbr[title]::after { content: " (" attr(title) ")"; }
-
-  pre { white-space: pre-wrap !important; }
-
-  pre, blockquote {
-    border: 1px solid #adb5bd;
-    page-break-inside: avoid;
-  }
-
-  tr, img {
-    page-break-inside: avoid;
-  }
-
-  p, h2, h3 {
-    orphans: 3;
-    widows: 3;
-  }
-
-  h2, h3 {
-    page-break-after: avoid;
-  }
-
-  @page { size: a3; }
-
-  body { min-width: 992px !important; }
-
-  .container { min-width: 992px !important; }
-
-  .navbar { display: none; }
-
-  .badge { border: 1px solid #000; }
-
-  .table { border-collapse: collapse !important; }
-
-  .table td, .table th {
-    background-color: #fff !important;
-  }
-}
 // Layout classes used by SVGs and emojis in existing templates and Markdown.
 .fa-ul {
   list-style: none;
@@ -295,4 +222,12 @@
 
 .fa-2x {
   font-size: 2em;
+}
+
+.text-muted {
+  color: nord.$nord3;
+}
+
+.dark .text-muted {
+  color: nord.$nord4;
 }

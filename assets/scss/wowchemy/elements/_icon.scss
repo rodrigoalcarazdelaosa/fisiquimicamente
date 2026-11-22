@@ -1,8 +1,8 @@
 .svg-icon {
   display: inline-flex;
   align-self: center;
-  height: 0.9em;
-  width: 0.9em;
+  height: 1em;
+  width: 1em;
 }
 
 .svg-icon.svg-baseline {
@@ -29,4 +29,28 @@
 
 .task-list input[type='checkbox']:checked::after {
   content: '✅';
+}
+
+img.emoji {
+  height: 1em;
+  width: 1em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+  display: inline-flex;
+}
+
+img.icon {
+  height: 1em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
+  display: inline-flex;
+}
+
+p svg {
+  display: inline-flex;
+  align-self: center;
+  height: 1em;
+  width: 1em;
+  margin: 0 0.05em 0 0.1em;
+  vertical-align: -0.1em;
 }

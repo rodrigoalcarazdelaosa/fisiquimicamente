@@ -1,3 +1,9 @@
+@use "../../nord";
+
+@use "../../theme";
+@use "../../breakpoints";
+@use "../helpers/all" as helpers;
+
 /*************************************************
  *  Page content
  **************************************************/
@@ -9,13 +15,14 @@
 }
 
 .page-subtitle {
+  font-family: theme.$font-heading, sans-serif;
   font-size: 1.15rem;
-  color: rgba(0, 0, 0, 0.54);
+  color: nord.$nord0;
   margin-bottom: 1rem;
 }
 
 .dark .page-subtitle {
-  color: rgba(255, 255, 255, 0.54);
+  color: nord.$nord6;
 }
 
 .article-header {
@@ -28,7 +35,7 @@
   height: 260px;
   object-fit: cover;
 
-  @include media-breakpoint-up(lg) {
+  @include breakpoints.up(lg) {
     height: 310px; /* Increased height on desktop */
   }
 }
@@ -52,9 +59,9 @@
   right: 0;
   margin: 0 auto;
   padding: 2px 5px;
-  color: #fff;
+  color: nord.$nord6;
   font-size: 0.7em;
-  background: #000;
+  background: nord.$nord0;
   text-align: right;
   z-index: 5;
   opacity: 0.65;
@@ -66,36 +73,20 @@
   }
 }
 
-.article-header-caption a {
-  color: #fff;
-  text-decoration: none;
-}
-
 .article-title {
   font-size: 1.75rem;
 }
 
-.article-title a {
-  color: #151515;
-  transition: color 0.6s ease;
-}
-
-.dark .text-muted {
-  color: rgba(255, 255, 255, 0.54) !important;
-}
-
 .article-style {
-  // Any unresponsive embeds, e.g. Plotly, should be wrapped to handle on a case-by-case basis.
-  // If any unresponsive embeds still remain in the article, prevent article overflow and DIV scrolling.
-  // Note that lazy-loaded images, e.g. Gallery, may cause scrollable Y-overflow if only X-overflow is hidden pre-load.
-  overflow: hidden;
+  overflow: visible;
+  color: nord.$nord0;
 
   // Word wrap text content.
-  @include word-wrap;
+  @include helpers.word-wrap;
 
   // Underline links if they are a similar color to the body text.
   a {
-    text-decoration: $sta-link-decoration;
+    text-decoration: theme.$link-decoration;
   }
 
   img,
@@ -127,7 +118,7 @@
 .dark .article-style {
   // Underline links if they are a similar color to the body text.
   a {
-    text-decoration: $sta-dark-link-decoration;
+    text-decoration: theme.$dark-link-decoration;
   }
 }
 
@@ -136,15 +127,7 @@
   overflow: hidden;
   font-size: 14px;
   letter-spacing: 0.03em;
-  color: rgba(0, 0, 0, 0.54);
-
-  a {
-    color: rgba(0, 0, 0, 0.54);
-  }
-
-  a:hover {
-    color: $sta-primary;
-  }
+  color: nord.$nord3;
 
   .author-notes {
     cursor: help;
@@ -162,7 +145,7 @@ article .article-metadata {
 }
 
 .dark .article-metadata {
-  color: rgba(255, 255, 255, 0.54);
+  color: nord.$nord4;
 }
 
 .stream-meta.article-metadata {
@@ -170,7 +153,7 @@ article .article-metadata {
 }
 
 .article-categories {
-  white-space: nowrap; /* Keep category icon on same line as category links, otherwise context lost. */
+  white-space: normal;
 }
 
 .middot-divider {
@@ -181,16 +164,6 @@ article .article-metadata {
 
 .middot-divider::after {
   content: '\00B7';
-}
-
-caption {
-  // Override Bootstrap alignment
-  text-align: center;
-}
-
-// Note default light caption inherited from Bootstrap
-.dark caption {
-  color: rgba(255, 255, 255, 0.8);
 }
 
 /*************************************************
@@ -239,6 +212,257 @@ caption {
  *  Dark theme
  **************************************************/
 
-.dark .article-metadata a {
-  color: rgba(255, 255, 255, 0.54);
+.article-with-toc {
+  position: relative;
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.article-with-toc > .article-container {
+  margin: 0 auto;
+}
+
+.article-toc {
+  position: absolute;
+  top: 0;
+  left: calc(100% + 2rem);
+  width: 240px;
+  height: 100%;
+  font-size: 0.875rem;
+}
+
+.article-toc-inner {
+  padding-top: 0.35rem;
+  padding-bottom: 1.5rem;
+}
+
+@supports ((position: -webkit-sticky) or (position: sticky)) {
+  .article-toc-inner {
+    position: -webkit-sticky;
+    position: sticky;
+    top: calc(var(--navbar-scroll-offset, 0px) + 1rem);
+    max-height: calc(100vh - var(--navbar-scroll-offset, 0px) - 1rem);
+    overflow-y: auto;
+  }
+}
+
+@include breakpoints.down(lg) {
+  .article-with-toc {
+    max-width: 760px;
+  }
+}
+
+.article-mobile-toc {
+  position: fixed;
+  margin: 0;
+  right: 1rem;
+  bottom: calc(1rem + env(safe-area-inset-bottom));
+  z-index: 1040;
+}
+
+.article-mobile-toc summary {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 3rem;
+  height: 3rem;
+  padding: 0;
+  margin: 0 0 0 auto;
+  color: nord.$nord6;
+  background: nord.$nord0;
+  border: 0;
+  border-radius: 50%;
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+  appearance: none;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.dark .article-mobile-toc summary {
+  color: nord.$nord0;
+  background: nord.$nord6;
+}
+
+.article-mobile-toc summary::-webkit-details-marker {
+  display: none;
+}
+
+.article-mobile-toc-icon,
+.article-mobile-toc-icon::before,
+.article-mobile-toc-icon::after {
+  display: block;
+  width: 1.15rem;
+  height: 2px;
+  background: currentColor;
+  border-radius: 999px;
+}
+
+.article-mobile-toc-icon {
+  position: relative;
+}
+
+.article-mobile-toc-icon::before,
+.article-mobile-toc-icon::after {
+  position: absolute;
+  left: 0;
+  content: "";
+}
+
+.article-mobile-toc-icon::before {
+  top: -0.36rem;
+}
+
+.article-mobile-toc-icon::after {
+  top: 0.36rem;
+}
+
+.article-mobile-toc-panel {
+  position: absolute;
+  right: 0;
+  bottom: 3.75rem;
+  width: calc(100vw - 2rem);
+  max-width: 20rem;
+  max-height: 70vh;
+  padding: 1rem 0;
+  overflow-y: auto;
+  background: theme.$background;
+  border: 1px solid nord.$nord4;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.22);
+}
+
+.dark .article-mobile-toc-panel {
+  background: nord.$nord0;
+  border-color: nord.$nord3;
+}
+
+.article-mobile-toc-title {
+  padding: 0 1rem 0.5rem;
+  font-family: theme.$font-heading, sans-serif;
+  font-weight: 700;
+  color: nord.$nord0;
+}
+
+.dark .article-mobile-toc-title {
+  color: nord.$nord6;
+}
+
+.article-mobile-toc #TableOfContentsMobile {
+  padding-left: 0;
+  border-left: 0;
+}
+
+.article-mobile-toc #TableOfContentsMobile ul {
+  padding-left: 0;
+}
+
+.article-mobile-toc #TableOfContentsMobile ul ul {
+  padding-left: 0.8rem;
+}
+
+.article-mobile-toc #TableOfContentsMobile li {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.article-mobile-toc #TableOfContentsMobile li a {
+  display: block;
+  padding: 0.25rem 1rem;
+  color: nord.$nord3;
+  line-height: 1.5;
+}
+
+.dark .article-mobile-toc #TableOfContentsMobile li a {
+  color: nord.$nord4;
+}
+
+.article-mobile-toc #TableOfContentsMobile li a:hover {
+  color: theme.$primary;
+  text-decoration: none;
+}
+
+#TableOfContentsInPage {
+  padding-left: 0;
+  border-left: 1px solid #eee;
+}
+
+#TableOfContentsInPage ul {
+  padding-left: 0;
+}
+
+#TableOfContentsInPage ul ul {
+  padding-left: 0.8rem;
+}
+
+#TableOfContentsInPage li {
+  display: block;
+  margin-bottom: 8px;
+}
+
+#TableOfContentsInPage li a {
+  display: block;
+  padding: 0 1.5rem;
+  color: rgba(0, 0, 0, 0.65);
+  line-height: 1.75;
+  font-size: 16px;
+}
+
+.dark #TableOfContentsInPage li a {
+  color: rgba(255, 255, 255, 0.65);
+}
+
+#TableOfContentsInPage li a:hover {
+  color: theme.$primary;
+  text-decoration: none;
+}
+
+.article-style mjx-container[display="true"] {
+  overflow-x: auto;
+}
+
+.dark .article-style {
+  color: nord.$nord6;
+}
+
+.article-header-caption a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.article-title a {
+  color: theme.$primary;
+  transition: color 0.6s ease;
+}
+
+.article-style a {
+  color: nord.$nord10;
+}
+
+.dark .article-style a {
+  color: nord.$nord8;
+}
+
+.article-style a:hover {
+  color: nord.$nord11;
+}
+
+.dark .article-style a:hover {
+  color: nord.$nord13;
+}
+
+.dark .article-title a,
+.dark .article-title a:is(:hover, :focus) {
+  color: nord.$nord6;
+}
+
+.article-metadata a,
+.article-metadata a:is(:hover, :focus) {
+  color: nord.$nord3;
+}
+
+.dark .article-metadata a,
+.dark .article-metadata a:is(:hover, :focus) {
+  color: nord.$nord4;
 }

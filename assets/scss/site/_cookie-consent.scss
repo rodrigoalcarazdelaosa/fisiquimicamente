@@ -1,0 +1,35 @@
+@use "../nord";
+@use "../theme";
+
+.cc-window {
+  z-index: 9999999999999999999 !important;
+}
+
+.dark .cc-window {
+  color: nord.$nord0 !important;
+  background-color: nord.$nord6 !important;
+}
+
+.cc-message {
+  font-family: theme.$font-nav, serif;
+}
+
+a.cc-btn.cc-dismiss {
+  font-family: theme.$font-nav, serif;
+}
+
+.dark a.cc-btn.cc-dismiss {
+  color: nord.$nord6;
+  background-color: nord.$nord0;
+}
+
+a.cc-btn.cc-dismiss:hover {
+  background-color: nord.$nord8;
+  color: nord.$nord0;
+}
+
+a.cc-link:active,
+a.cc-link:hover,
+a.cc-link:visited {
+  color: nord.$nord8 !important;
+}

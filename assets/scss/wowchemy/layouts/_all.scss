@@ -1,6 +1,5 @@
-@import 'book';
-@import 'footer';
-@import 'listing';
-@import 'publication';
-@import 'rtl';
-@import 'search';
+@use 'toc';
+@use 'footer';
+@use 'listing';
+@use 'rtl';
+@use 'search';

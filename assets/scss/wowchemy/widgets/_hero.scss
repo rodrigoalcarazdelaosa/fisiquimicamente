@@ -1,3 +1,6 @@
+@use "../../nord";
+@use "../../theme";
+
 /*************************************************
  *  Hero Widget
  **************************************************/
@@ -7,7 +10,7 @@
 }
 
 .hero-title {
-  font-size: 2.7rem;
+  font-size: 2.25rem;
   margin-top: 0;
   line-height: 1;
 }
@@ -15,17 +18,13 @@
 .hero-lead {
   max-width: 768px;
   font-size: 1.35rem;
+  color: nord.$nord0;
+  font-family: theme.$font-heading, sans-serif;
 }
 
-.wg-hero.dark .hero-title,
-.wg-hero.dark .hero-lead,
 .wg-hero.dark .hero-cta-alt,
 .wg-hero.dark .hero-note > * {
   color: #fff;
-
-  /* text-shadow: 1px 1px 4px rgba(0,0,0,0.5); */
-
-  /* Uncomment to standout on complicated backgrounds. */
 }
 
 // Prevent `.home-section.light a` setting text to same color as button bg (the primary color)
@@ -47,10 +46,6 @@
 
 .wg-hero .btn {
   padding: 0.6em 2.1em;
-}
-
-.wg-hero.dark .btn {
-  color: $sta-primary-dark;
 }
 
 a.hero-cta-alt {
@@ -76,10 +71,62 @@ a.hero-cta-alt:hover {
   font-size: 0.8rem;
 }
 
-.hero-media {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-  text-align: center;
+.hero-media-caption {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0 15px 0 auto;
+  padding: 2px 5px;
+  color: nord.$nord6;
+  font-size: 0.7em;
+  background: nord.$nord0;
+  text-align: right;
+  z-index: 5;
+  opacity: 0.65;
+  border-radius: 5px 0 0 0;
+}
+@media (min-width: 64em) {
+  .hero-media-caption {
+    padding: 5px 10px;
+  }
+}
+
+.dark .hero-media-caption {
+  color: nord.$nord0;
+  background: nord.$nord6;
+}
+
+.hero-media-caption a {
+  color: nord.$nord13;
+  text-decoration: none;
+}
+
+.dark .hero-media-caption a {
+  color: nord.$nord11;
+}
+
+.dark .hero-lead {
+  color: nord.$nord6;
+}
+
+.hero-cta-alt {
+  color: nord.$nord0;
+}
+
+.dark .hero-cta-alt {
+  color: nord.$nord6;
+}
+
+.hero-note:where(:not(.text-muted)) {
+  color: nord.$nord0;
+}
+
+.dark .hero-note:where(:not(.text-muted)) {
+  color: nord.$nord6;
+}
+
+.wg-hero.dark .hero-title,
+.wg-hero.dark .hero-lead,
+.wg-hero.dark .btn {
+  color: nord.$nord0;
 }
