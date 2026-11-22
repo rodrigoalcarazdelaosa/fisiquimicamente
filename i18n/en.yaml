@@ -44,7 +44,7 @@
 # Themes
 
 - id: theme_selector
-  translation: Display preferences
+  translation: Change theme
 
 - id: theme_light
   translation: Light

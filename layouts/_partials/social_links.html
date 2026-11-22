@@ -1,9 +1,9 @@
 {{ $large := .large | default false }}
-{{ $image_class := cond $large "svg-icon svg-baseline big-icon" "svg-icon svg-baseline" }}
 {{ $emoji_class := cond $large "svg-icon svg-baseline big-icon" "" }}
 {{ $legacy_emoji := dict "envelope" "✉️" "google-scholar" "🎓" "cv" "📄" }}
 <ul class="network-icon">
   {{ range .page.Params.social }}
+    {{ $image_class := cond $large "svg-icon svg-baseline big-icon" "svg-icon svg-baseline" }}
     {{ $link := partial "functions/get_social_link" . }}
     {{ $pack := $link.icon_pack }}
     {{ $icon := $link.icon | default "" }}
@@ -18,6 +18,7 @@
     {{ if eq $pack "svg" }}
       {{ if eq $icon "github" }}
         {{ $src = "icon/github.svg" | relURL }}
+        {{ $image_class = print $image_class " img-light" }}
       {{ else }}
         {{ with (resources.Get (printf "media/icons/%s.png" $icon) | default (resources.Get (printf "media/icons/%s.svg" $icon))) }}
           {{ $src = .RelPermalink }}

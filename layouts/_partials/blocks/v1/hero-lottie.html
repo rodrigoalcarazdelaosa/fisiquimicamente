@@ -87,7 +87,7 @@
           });
         </script>
       {{ else if eq $animation_type "tgs" }}                
-        <tgs-player autoplay loop mode="normal" data-src="{{ $image.RelPermalink }}" data-src-dark="{{ strings.TrimSuffix ".tgs" $image.RelPermalink }}-dark.tgs" style="width: 100%; height:auto"></tgs-player>
+        <tgs-player autoplay loop mode="normal" data-src="{{ $image.RelPermalink }}" {{ partial "functions/tgs_dark_attr.html" (dict "animation" $image "page" $block.Parent) }} style="width: 100%; height:auto"></tgs-player>
       {{ else if $isSVG -}}
 
         <img src="{{ $image.RelPermalink }}" alt="{{ $block.Title }}">

@@ -156,24 +156,16 @@
       </li>
       {{ end }}
 
-      {{ $show_day_night := site.Params.header.navbar.show_day_night | default true }}
+      {{ $show_day_night := ne site.Params.header.navbar.show_day_night false }}
       {{ $has_day_night_themes := (and site.Params.appearance.theme_day site.Params.appearance.theme_night) }}
       {{ if and $has_day_night_themes $show_day_night }}
-      <li class="nav-item dropdown theme-dropdown">
-		<a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="{{ i18n "theme_selector" | default "Display preferences" }}">
-      🌙
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>{{ i18n "theme_light" | default "Light" }}</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>{{ i18n "theme_dark" | default "Dark" }}</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>{{ i18n "theme_auto" | default "Automatic" }}</span>
-          </a>
-        </div>
+      <li class="nav-item">
+        <button type="button" id="theme-cycle" class="nav-link theme-cycle" hidden
+                data-label="{{ i18n "theme_selector" }}"
+                data-modes="{{ slice (i18n "theme_light") (i18n "theme_dark") (i18n "theme_auto") | jsonify }}">
+          <span aria-hidden="true"></span>
+        </button>
+        <span id="theme-status" class="sr-only" role="status"></span>
       </li>
       {{ end }}
 

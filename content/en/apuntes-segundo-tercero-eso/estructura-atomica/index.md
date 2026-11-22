@@ -25,9 +25,9 @@ links:
 - icon_pack: fas
   icon:
   name: 🔗 CERN Learning Unit
-  url: https://per.web.cern.ch/sites/default/files/units/JW_ElementaryParticles_LearningUnit.pdf
-  
-# slides: estructura-atomica-2ESO-3ESO  
+  url: https://educational-resources.web.cern.ch/wp-content/uploads/2025/12/JW_ElementaryParticles_LearningUnit-2.pdf
+
+# slides: estructura-atomica-2ESO-3ESO
 ---
 
 {{% callout soon %}}

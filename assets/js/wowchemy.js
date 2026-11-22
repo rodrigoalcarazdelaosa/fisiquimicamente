@@ -1,12 +1,12 @@
-import {searchEnabled, i18n, footnotesURL, zoomURL, playersURL} from '@params';
+import {search, i18n, footnotesURL, zoomURL, playersURL} from '@params';
 import {scrollParentToChild} from './wowchemy-utils';
 import {initNavigation} from './wowchemy-navigation';
 import {initCarousels} from './wowchemy-carousel';
 import {initTooltips} from './tooltips';
-import {changeThemeModeClick, initThemeVariation, renderThemeVariation, onMediaQueryListEvent} from './wowchemy-theming';
+import {initThemeControl, isDarkTheme} from './wowchemy-theming';
+import {initSearch} from './wowchemy-search';
 
 function initSearchDialog() {
-  if (!searchEnabled) return;
   let opener;
   const input = () => document.querySelector('#search-query, .ais-SearchBox-input');
   function toggle() {
@@ -101,6 +101,24 @@ function initPortfolio(container) {
   const items = container.querySelectorAll('.isotope-item');
   const filters = [...section.querySelectorAll('.project-filters a')];
 
+  if (isotope) {
+    let frame;
+    const scheduleLayout = () => {
+      if (frame) return;
+      frame = requestAnimationFrame(() => {
+        frame = null;
+        isotope.layout();
+      });
+    };
+    if ('ResizeObserver' in window) {
+      const observer = new ResizeObserver(scheduleLayout);
+      items.forEach(item => observer.observe(item));
+    } else {
+      container.addEventListener('load', scheduleLayout, true);
+      document.fonts?.ready.then(scheduleLayout);
+    }
+  }
+
   function applyFilter(selector) {
     if (isotope) isotope.arrange({filter: selector});
     else for (const item of items) item.classList.toggle('d-none', !item.matches(selector));
@@ -166,18 +184,13 @@ function initPage() {
   initNavigation();
   initTooltips();
   initCarousels();
-  initSearchDialog();
-  document.querySelectorAll('.projects-container.js-layout-row').forEach(initPortfolio);
+  if (search.search_config) {
+    initSearchDialog();
+    initSearch(search);
+  }
+  document.querySelectorAll('.projects-container:is(.js-layout-row, .js-layout-masonry)').forEach(initPortfolio);
 
-  const {isDarkTheme, themeMode} = initThemeVariation();
-  renderThemeVariation(isDarkTheme, themeMode);
-  ['light', 'dark', 'auto'].forEach((mode, index) => {
-    document.querySelector('.js-set-theme-' + mode)?.addEventListener('click', event => {
-      event.preventDefault();
-      changeThemeModeClick(index);
-    });
-  });
-  matchMedia('(prefers-color-scheme: dark)').addEventListener('change', onMediaQueryListEvent);
+  initThemeControl();
 
   if (document.querySelector('tgs-player, lottie-player')) {
     import(playersURL).catch(error => console.error('Could not load animation players', error));
@@ -187,7 +200,7 @@ function initPage() {
     import(zoomURL).then(({default: mediumZoom}) => {
       const zoom = mediumZoom('[data-zoomable]');
       const setBackground = dark => zoom.update({background: dark ? 'rgba(0,0,0,0.9)' : 'rgba(255,255,255,0.9)'});
-      setBackground(document.body.classList.contains('dark'));
+      setBackground(isDarkTheme());
       document.addEventListener('wcThemeChange', event => setBackground(event.detail.isDarkTheme()));
     }).catch(error => console.error('Could not load image zoom', error));
   }
@@ -201,14 +214,7 @@ function initPage() {
 initPage();
 
 window.addEventListener('load', () => {
-  const portfolios = [...document.querySelectorAll('.projects-container.js-layout-masonry')];
-  const loaded = portfolios.map(container => new Promise(resolve => {
-    if (window.imagesLoaded) imagesLoaded(container, () => { initPortfolio(container); resolve(); });
-    else { initPortfolio(container); resolve(); }
-  }));
-  Promise.all(loaded).then(() => {
-    const toc = document.querySelector('.docs-toc');
-    const current = toc?.querySelector('.nav-link.active');
-    if (current) scrollParentToChild(toc, current);
-  });
+  const toc = document.querySelector('.docs-toc');
+  const current = toc?.querySelector('.nav-link.active');
+  if (current) scrollParentToChild(toc, current);
 });

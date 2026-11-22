@@ -2,7 +2,7 @@
 {{ "<!-- This site was created with Hugo Blox. https://hugoblox.com -->" | safeHTML }}
 {{ printf "<!-- Last Published: %s -->" (now | time.Format ":date_long") | safeHTML }}
 {{- $language_code := site.Language.Locale | default "en-us" -}}
-<html lang="{{$language_code}}" {{ if in hugo.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}>
+<html lang="{{$language_code}}" {{ if in hugo.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{end}}{{ if not (and site.Params.appearance.theme_day site.Params.appearance.theme_night) }} data-theme="{{ if site.Params.appearance.theme_day }}light{{ else }}dark{{ end }}"{{ end }}>
 
 {{ partial "site_head" . }}
 
@@ -12,19 +12,7 @@
 {{- with (.Params.header.on_scroll | default site.Params.header.on_scroll) -}}
   {{- $hide_header = eq . "disappear" -}}
 {{- end -}}
-<body id="top" data-target="{{ if or .IsHome (eq .Type "widget_page") | and $highlight_active_link }}#navbar-main{{else}}#TableOfContents{{end}}" class="page-wrapper {{with .Params.design.css_class}}{{.}}{{end}} {{ if not (.Scratch.Get "light") }}dark{{end}} {{ if not $show_navbar }}no-navbar{{end}}" {{with .File}}data-wc-page-id="{{.UniqueID}}"{{end}} {{with .Params.design.css_style}}style="{{. | safeCSS}}"{{end}}>
-
-  {{/* Initialise Hugo Blox. */}}
-  {{ $js_license := printf "/*! Hugo Blox Builder v%s | https://hugoblox.com/ */\n" hugo.Data.hugoblox.version }}
-  {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
-  {{ $js_license := $js_license | printf "%s/*! License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */\n" }}
-  {{ $wcDarkLightEnabled := (and site.Params.appearance.theme_day site.Params.appearance.theme_night) }}
-  {{ $wcIsSiteThemeDark := not (.Scratch.Get "light") | default false }}
-  {{ $js_params := dict "wcDarkLightEnabled" $wcDarkLightEnabled "wcIsSiteThemeDark" $wcIsSiteThemeDark }}
-  {{ $options := dict "params" $js_params "format" "iife" "minify" hugo.IsProduction }}
-  {{ if not hugo.IsProduction }}{{ $options = merge $options (dict "sourceMap" "inline") }}{{ end }}
-  {{ $js_bundle := resources.Get "js/wowchemy-init.js" | js.Build $options }}
-  <script data-cfasync="false">{{ $js_license | safeJS }}{{ $js_bundle.Content | safeJS }}</script>
+<body id="top" data-target="{{ if or .IsHome (eq .Type "widget_page") | and $highlight_active_link }}#navbar-main{{else}}#TableOfContents{{end}}" class="page-wrapper {{with .Params.design.css_class}}{{.}}{{end}} {{ if not $show_navbar }}no-navbar{{end}}" {{with .File}}data-wc-page-id="{{.UniqueID}}"{{end}} {{with .Params.design.css_style}}style="{{. | safeCSS}}"{{end}}>
 
   {{ partial "search" . }}
 

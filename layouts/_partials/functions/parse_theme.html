@@ -45,7 +45,7 @@
 {{/* Load Font Set. */}}
 
 {{- $font := index hugo.Data.fonts $font_index -}}
-{{- $scr.Set "google_fonts" $font.google_fonts -}}
+{{- $scr.Set "font_pack" $font -}}
 {{- $scr.Set "body_font" $font.body_font -}}
 {{- $scr.Set "heading_font" $font.heading_font -}}
 {{- $scr.Set "nav_font" $font.nav_font -}}

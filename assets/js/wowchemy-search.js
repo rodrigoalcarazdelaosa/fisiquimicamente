@@ -1,131 +1,131 @@
-import {search_config, i18n, content_type, libraries} from '@params';
+export function initSearch({search_config, i18n, content_type, libraries}) {
+  const input = document.querySelector('#search-query');
+  const hits = document.querySelector('#search-hits');
+  const suggestions = document.querySelector('#search-common-queries');
+  const template = document.querySelector('#search-hit-fuse-template');
+  if (!input || !hits || !template) return;
 
-const input = document.querySelector('#search-query');
-const hits = document.querySelector('#search-hits');
-const suggestions = document.querySelector('#search-common-queries');
-const template = document.querySelector('#search-hit-fuse-template');
-const scriptLoads = new Map();
-let engine;
-let timer;
-let generation = 0;
+  const scriptLoads = new Map();
+  let engine;
+  let timer;
+  let generation = 0;
 
-function loadScript({url, integrity}) {
-  if (scriptLoads.has(url)) return scriptLoads.get(url);
-  const loading = new Promise((resolve, reject) => {
-    const script = document.createElement('script');
-    script.src = url;
-    script.integrity = integrity;
-    script.crossOrigin = 'anonymous';
-    script.onload = resolve;
-    script.onerror = () => {
-      script.remove();
-      scriptLoads.delete(url);
-      reject(new Error('Could not load ' + url));
-    };
-    document.head.append(script);
-  });
-  scriptLoads.set(url, loading);
-  return loading;
-}
-
-async function loadIndex() {
-  const response = await fetch(search_config.indexURI);
-  if (!response.ok) throw new Error('Search index: ' + response.status);
-  return response.json();
-}
-
-async function loadFuse() {
-  const {url, integrity} = libraries.fuse;
-  const link = document.createElement('link');
-  if (link.relList.supports('modulepreload')) {
-    link.rel = 'modulepreload';
-    link.href = url;
-    link.integrity = integrity;
-    link.crossOrigin = 'anonymous';
-    await new Promise((resolve, reject) => {
-      link.onload = resolve;
-      link.onerror = () => {
-        link.remove();
-        reject(new Error('Could not load Fuse'));
+  function loadScript({url, integrity}) {
+    if (scriptLoads.has(url)) return scriptLoads.get(url);
+    const loading = new Promise((resolve, reject) => {
+      const script = document.createElement('script');
+      script.src = url;
+      script.integrity = integrity;
+      script.crossOrigin = 'anonymous';
+      script.onload = resolve;
+      script.onerror = () => {
+        script.remove();
+        scriptLoads.delete(url);
+        reject(new Error('Could not load ' + url));
       };
-      document.head.append(link);
+      document.head.append(script);
     });
+    scriptLoads.set(url, loading);
+    return loading;
   }
-  return (await import(url)).default;
-}
 
-function loadEngine() {
-  if (!engine) {
-    engine = Promise.all([loadIndex(), loadFuse()]).then(([index, Fuse]) => {
-      const options = {
-        ignoreDiacritics: true,
-        threshold: search_config.threshold,
-        minMatchCharLength: search_config.minLength,
-        keys: [
-          {name: 'title', weight: 0.99}, {name: 'summary', weight: 0.6},
-          {name: 'authors', weight: 0.5}, {name: 'content', weight: 0.2},
-          {name: 'tags', weight: 0.5}, {name: 'categories', weight: 0.5},
-        ],
-      };
-      const phrases = new Fuse(index, options);
-      let words;
-      return query => {
-        const matches = phrases.search(query);
-        if (matches.length || !/\s/.test(query)) return matches;
-        words ??= new Fuse(index, {...options, useTokenSearch: true});
-        return words.search(query);
-      };
-    }).catch(error => { engine = null; throw error; });
+  async function loadIndex() {
+    const response = await fetch(search_config.indexURI);
+    if (!response.ok) throw new Error('Search index: ' + response.status);
+    return response.json();
   }
-  return engine;
-}
 
-function loadHighlighter() {
-  return loadScript(libraries.mark).then(() => window.Mark).catch(console.warn);
-}
-
-async function search(force = false) {
-  const current = ++generation;
-  const query = input.value.trim();
-  const url = new URL(location.href);
-  if (query) url.searchParams.set('q', query);
-  else url.searchParams.delete('q');
-  history.replaceState(history.state, '', url);
-  hits.replaceChildren();
-  if (suggestions) suggestions.hidden = !!query;
-  if (!query || (!force && query.length < search_config.minLength)) return;
-  try {
-    const find = await loadEngine();
-    const isCurrent = () => current === generation && document.body.classList.contains('searching');
-    if (!isCurrent()) return;
-    const results = find(query);
-    const header = document.createElement(results.length ? 'h3' : 'div');
-    header.className = results.length ? 'mt-0' : 'search-no-results';
-    header.textContent = results.length ? results.length + ' ' + i18n.results : i18n.no_results;
-    const fragment = document.createDocumentFragment();
-    fragment.append(header);
-    results.forEach(({item}, index) => {
-      const hit = template.content.firstElementChild.cloneNode(true);
-      hit.id = 'summary-' + index;
-      const link = hit.querySelector('a');
-      link.href = item.relpermalink;
-      link.textContent = item.title;
-      hit.querySelector('.search-hit-type').textContent = content_type[item.section] ?? item.section;
-      hit.querySelector('.search-hit-description').textContent = item.summary;
-      fragment.append(hit);
-    });
-    const entries = fragment.querySelectorAll('.search-hit');
-    hits.replaceChildren(fragment);
-    if (entries.length) {
-      const Mark = await loadHighlighter();
-      if (Mark && isCurrent()) new Mark(entries).mark(query);
+  async function loadFuse() {
+    const {url, integrity} = libraries.fuse;
+    const link = document.createElement('link');
+    if (link.relList.supports('modulepreload')) {
+      link.rel = 'modulepreload';
+      link.href = url;
+      link.integrity = integrity;
+      link.crossOrigin = 'anonymous';
+      await new Promise((resolve, reject) => {
+        link.onload = resolve;
+        link.onerror = () => {
+          link.remove();
+          reject(new Error('Could not load Fuse'));
+        };
+        document.head.append(link);
+      });
     }
-  } catch (error) {
-    console.error('Search unavailable', error);
+    return (await import(url)).default;
   }
-}
 
-if (input) {
+  function loadEngine() {
+    if (!engine) {
+      engine = Promise.all([loadIndex(), loadFuse()]).then(([index, Fuse]) => {
+        const options = {
+          ignoreDiacritics: true,
+          threshold: search_config.threshold,
+          minMatchCharLength: search_config.minLength,
+          keys: [
+            {name: 'title', weight: 0.99}, {name: 'summary', weight: 0.6},
+            {name: 'authors', weight: 0.5}, {name: 'content', weight: 0.2},
+            {name: 'tags', weight: 0.5}, {name: 'categories', weight: 0.5},
+          ],
+        };
+        const phrases = new Fuse(index, options);
+        let words;
+        return query => {
+          const matches = phrases.search(query);
+          if (matches.length || !/\s/.test(query)) return matches;
+          words ??= new Fuse(index, {...options, useTokenSearch: true});
+          return words.search(query);
+        };
+      }).catch(error => { engine = null; throw error; });
+    }
+    return engine;
+  }
+
+  function loadHighlighter() {
+    return loadScript(libraries.mark).then(() => window.Mark).catch(console.warn);
+  }
+
+  async function search(force = false) {
+    const current = ++generation;
+    const query = input.value.trim();
+    const url = new URL(location.href);
+    if (query) url.searchParams.set('q', query);
+    else url.searchParams.delete('q');
+    history.replaceState(history.state, '', url);
+    hits.replaceChildren();
+    if (suggestions) suggestions.hidden = !!query;
+    if (!query || (!force && query.length < search_config.minLength)) return;
+    try {
+      const find = await loadEngine();
+      const isCurrent = () => current === generation && document.body.classList.contains('searching');
+      if (!isCurrent()) return;
+      const results = find(query);
+      const header = document.createElement(results.length ? 'h3' : 'div');
+      header.className = results.length ? 'mt-0' : 'search-no-results';
+      header.textContent = results.length ? results.length + ' ' + i18n.results : i18n.no_results;
+      const fragment = document.createDocumentFragment();
+      fragment.append(header);
+      results.forEach(({item}, index) => {
+        const hit = template.content.firstElementChild.cloneNode(true);
+        hit.id = 'summary-' + index;
+        const link = hit.querySelector('a');
+        link.href = item.relpermalink;
+        link.textContent = item.title;
+        hit.querySelector('.search-hit-type').textContent = content_type[item.section] ?? item.section;
+        hit.querySelector('.search-hit-description').textContent = item.summary;
+        fragment.append(hit);
+      });
+      const entries = fragment.querySelectorAll('.search-hit');
+      hits.replaceChildren(fragment);
+      if (entries.length) {
+        const Mark = await loadHighlighter();
+        if (Mark && isCurrent()) new Mark(entries).mark(query);
+      }
+    } catch (error) {
+      console.error('Search unavailable', error);
+    }
+  }
+
   input.addEventListener('focus', () => {
     loadEngine().catch(console.error);
     loadHighlighter();

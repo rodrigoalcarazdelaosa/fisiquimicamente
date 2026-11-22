@@ -9,7 +9,7 @@
 
 .home-section {
   // Use `background` rather than `background-color` so it can support gradients in theme packs.
-  background: theme.$home-section-odd;
+  background: var(--section-odd);
   position: relative; // Required for component positioning within section.
   padding: 110px 0;
   z-index: 0; // Explicit z-order otherwise `.home-section-bg` can be hidden by any `.home-section` background.
@@ -44,7 +44,7 @@
   color: theme.$dark-link;
 }
 
-/* Override dark colors that may be inherited from body.dark */
+/* Override the site colors for explicitly dark sections. */
 .home-section.dark,
 .home-section.dark h1,
 .home-section.dark h2,
@@ -129,15 +129,7 @@
 }
 
 .home-section:nth-of-type(even) {
-  background: theme.$home-section-even;
-}
-
-.dark .home-section {
-  background: theme.$dark-home-section-odd;
-}
-
-.dark .home-section:nth-of-type(even) {
-  background: theme.$dark-home-section-even;
+  background: var(--section-even);
 }
 
 @media screen and (max-width: 768px) {
