@@ -54,7 +54,7 @@
         {{- end -}}
       {{- else if eq $pack "tgs" -}}
         {{- $tgs_sticker := resources.Get (printf "media/lottie/%s.tgs" .) -}}
-        {{- if $tgs_sticker -}}<span><a {{if $link}}href="{{$link}}"{{end}}><tgs-player autoplay loop mode="normal" data-src="{{ $tgs_sticker.RelPermalink }}" data-src-dark="{{ strings.TrimSuffix ".tgs" $tgs_sticker.RelPermalink }}-dark.tgs" class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></tgs-player></a></span>{{- end -}}
+        {{- if $tgs_sticker -}}<span><a {{if $link}}href="{{$link}}"{{end}}><tgs-player autoplay loop mode="normal" data-src="{{ $tgs_sticker.RelPermalink }}"{{ with partial "functions/tgs_dark_url.html" (dict "animation" $tgs_sticker) }} data-src-dark="{{ . }}"{{ end }} class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></tgs-player></a></span>{{- end -}}
       {{- else -}}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
       {{- end -}}
