@@ -1,0 +1,7 @@
+{{- $anchor := .Anchor -}}
+{{- if in (lower $anchor) "hahahugoshortcode" -}}
+  {{- with index (partial "functions/stable_heading_anchors.html" .Page) $anchor -}}
+    {{- $anchor = . -}}
+  {{- end -}}
+{{- end -}}
+<h{{ .Level }}{{ with $anchor }} id="{{ . }}"{{ end }}{{ range $name, $value := .Attributes }}{{ if ne $name "id" }} {{ $name | safeHTMLAttr }}="{{ $value }}"{{ end }}{{ end }}>{{ .Text }}</h{{ .Level }}>
