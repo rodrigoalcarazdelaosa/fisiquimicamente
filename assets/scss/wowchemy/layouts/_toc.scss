@@ -1,0 +1,61 @@
+@use "../../nord";
+@use "../../theme";
+
+/* Table of contents shared by articles and books. */
+
+.docs-toc-title {
+  color: #b5b5b5;
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding-left: calc(1.5rem + 1px);
+}
+
+#TableOfContents {
+  padding-left: 0;
+  border-left: 1px solid nord.$nord3;
+}
+
+#TableOfContents ul,
+ul.toc-top {
+  padding-left: 0;
+}
+
+// TOC indentation for each level.
+#TableOfContents ul ul {
+  padding-left: 0.8rem;
+}
+
+#TableOfContents li {
+  display: block;
+  margin-bottom: 8px; // Lighthouse: tap targets must be at least 8px apart
+}
+
+#TableOfContents li a,
+.toc-top li a {
+  display: block;
+  padding: 0 1.5rem; // Override default padding
+  color: nord.$nord3;
+  line-height: 1.75; // Lighthouse: min tap target size
+  font-size: 16px; // Lighthouse: min tap target size
+}
+
+#TableOfContents li a:hover,
+.toc-top li a:hover {
+  color: theme.$primary;
+  text-decoration: none;
+}
+
+/* ScrollSpy active link style. */
+#TableOfContents li a.active {
+  color: theme.$primary;
+  font-weight: 700;
+}
+
+.dark #TableOfContents {
+  border-left: 1px solid nord.$nord4;
+}
+
+.dark #TableOfContents li a,
+.dark .toc-top li a {
+  color: nord.$nord4;
+}

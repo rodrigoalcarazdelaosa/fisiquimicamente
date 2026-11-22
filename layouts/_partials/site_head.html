@@ -42,42 +42,13 @@
     <link rel="stylesheet" href="{{ printf $css.academicons.url $css.academicons.version }}" integrity="{{ $css.academicons.sri }}" crossorigin="anonymous" media="print" onload="this.media='all'">
   {{ end }}
 
-  {{ $has_gallery := or (.HasShortcode "gallery") (.Page.Store.Get "has_gallery") }}
-  {{ if or (eq .Type "widget_page") .IsHome }}
-    {{ with (cond .IsHome (site.GetPage "/home/index.md") .) }}
-      {{ range .Resources.ByType "page" }}
-        {{ if .HasShortcode "gallery" }}{{ $has_gallery = true }}{{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  {{ if or $has_gallery site.Params.require_fancybox }}
-    {{ .Page.Store.Set "has_gallery" true }}
-  {{ end }}
-
   {{ range $name, $asset := $js }}
     {{ if and $asset.async (or (ne (lower $name) "mathjax") $.Params.math site.Params.features.math.enable) }}
       <script {{ if eq (lower $name) "mathjax" }}data-cfasync="false"{{ end }} src="{{ printf $asset.url $asset.version }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>
     {{ end }}
   {{ end }}
 
-  {{ $sass := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "main_parsed.scss" . }}
-  {{ $style := $sass | toCSS (dict "targetPath" "css/site.css") }}
-  <link rel="stylesheet" href="{{ partial "functions/stylesheet.html" $style }}">
-  {{ with resources.Match "scss/blocks/**.scss" }}
-    {{ $blocks := . | resources.Concat "css/blocks.scss" | toCSS }}
-    <link rel="stylesheet" href="{{ partial "functions/stylesheet.html" $blocks }}">
-  {{ end }}
-
-  {{ $light := site.Params.features.syntax_highlighter.theme_light | default "github-light" }}
-  {{ $dark := site.Params.features.syntax_highlighter.theme_dark | default "dracula" }}
-  {{ $lightCSS := resources.Get (printf "css/libs/chroma/%s.css" $light) | minify }}
-  {{ if eq $light $dark }}
-    <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}" media="print" onload="this.media='all'">
-  {{ else }}
-    {{ $darkCSS := resources.Get (printf "css/libs/chroma/%s.css" $dark) | minify }}
-    <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}" title="hl-light" media="print" onload="this.media='all'" {{ if not ($scr.Get "light") }}disabled{{ end }}>
-    <link rel="stylesheet" href="{{ $darkCSS.RelPermalink }}" title="hl-dark" media="print" onload="this.media='all'" {{ if $scr.Get "light" }}disabled{{ end }}>
-  {{ end }}
+  {{ partial "site_styles.html" . }}
 
   {{/* Load SEO module */}}
   {{ partial "blox_seo" . }}

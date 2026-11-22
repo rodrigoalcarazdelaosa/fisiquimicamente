@@ -20,7 +20,7 @@
   {{ partial "book_layout.html" . }}
 {{ else }}
   {{/* If no homepage file is present, fallback to legacy widget page */}}
-  {{ partial "widget_page.html" . }}
+  {{ .Page.Store.Get "widget_markup" }}
 {{ end }}
 
 {{- end -}}

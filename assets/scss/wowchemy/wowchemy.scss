@@ -9,5 +9,6 @@
 @use 'elements/all' as elements;
 @use 'components/all' as components;
 @use 'layouts/all' as layouts;
-@use 'widgets/all' as widgets;
+@use 'widgets/base' as widget-base;
+@use 'widgets/about';
 @use 'integrations';

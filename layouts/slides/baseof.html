@@ -26,15 +26,22 @@
   {{- $theme := $.Param "slides.theme" | default "black" -}}
   <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/theme/{{ $theme }}.min.css">
 
-  {{/* Hugo Chroma Syntax Highlighter Initialization */}}
-  {{ $hl_theme := $.Param "slides.highlight_style" | default "dracula" }}
-  {{ $hl_theme_path := printf "css/libs/chroma/%s.css" $hl_theme }}
-   {{ if not (fileExists (printf "assets/%s" $hl_theme_path)) }}
-     {{ errorf "Hugo Chroma themes %s.css not found in `css/libs/chroma/`. See https://gohugo.io/commands/hugo_gen_chromastyles/" $hl_theme }}
-   {{ else }}
-     {{ $hl_theme_css := resources.Get $hl_theme_path | minify }}
-     <link rel="stylesheet" href="{{ $hl_theme_css.RelPermalink }}">
-   {{ end }}
+  {{ $hasHighlighting := false }}
+  {{ range union (slice .Page) .Pages }}
+    {{ if in (partial "functions/html_classes.html" .Content) "chroma" }}
+      {{ $hasHighlighting = true }}
+      {{ break }}
+    {{ end }}
+  {{ end }}
+  {{ if $hasHighlighting }}
+    {{ $theme := .Param "slides.highlight_style" | default "dracula" }}
+    {{ $themePath := printf "css/libs/chroma/%s.css" $theme }}
+    {{ with resources.Get $themePath }}
+      <link rel="stylesheet" href="{{ (. | minify).RelPermalink }}">
+    {{ else }}
+      {{ errorf "The Chroma theme %q does not exist in assets/css/libs/chroma/." $theme }}
+    {{ end }}
+  {{ end }}
 
    {{/* Load any Reveal CSS customizations */}}
    {{ $custom_reveal_css := printf "css/reveal_custom.css" }}

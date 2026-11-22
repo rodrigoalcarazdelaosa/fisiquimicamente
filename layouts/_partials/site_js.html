@@ -12,8 +12,7 @@
   <script data-cfasync="false" defer src="{{ printf $js.isotope.url $js.isotope.version }}" integrity="{{ $js.isotope.sri }}" crossorigin="anonymous"></script>
 {{ end }}
 
-{{/* Workaround `.HasShortcode "gallery"` detection issue on `home/` WidgetPage v1 */}}
-{{ if (.Page.Store.Get "has_gallery") | or site.Params.require_fancybox }}
+{{ if .Page.Store.Get "has_gallery" }}
   {{ $gallery_styles := resources.Get "css/gallery.css" | minify | fingerprint }}
   <script data-cfasync="false" defer src="{{ (resources.Get "js/gallery.js" | minify | fingerprint).RelPermalink }}" data-gallery-styles="{{ $gallery_styles.RelPermalink }}"></script>
 {{ end }}
