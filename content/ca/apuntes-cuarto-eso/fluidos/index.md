@@ -298,7 +298,7 @@ Les **borrasques** o zones de **baixa pressió** són regions de l'atmosfera en 
 #### Anticiclons
 Un **anticicló** és una zona atmosfèrica d'**alta pressió**, en la qual la pressió atmosfèrica és superior a la de l'aire circumdant, provocant que l'aire de les capes més altes descendeixi, originant **temps estable**.
 
-{{< figure library="true" src="fluidos-4ESO/borrasca-anticiclon.jpg" title="[https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html](https://clasesdesocialesarcas.blogspot.com/2013/11/presion-atmosferica-y-vientos.html)" lightbox="true" >}}
+{{< figure library="true" src="fluidos-4ESO/borrasca-anticiclon.jpg" lightbox="true" >}}
 
 ## Curtmetratge-documental
 A aquest curtmetratge-documental del [Departament de Física i Química de l'IES Valle del Saja](http://www.fqsaja.com) "se sotmet a diverses revisions el controvertit experiment conegut com a bota de Pascal", ideat pel mateix Pascal per a demostrar de manera definitiva el principi que porta el seu nom:

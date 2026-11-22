@@ -2,6 +2,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  {{ $theme_init := resources.Get "js/theme-init.js" | js.Build (dict "minify" hugo.IsProduction) }}
+  <script data-cfasync="false">{{ $theme_init.Content | safeJS }}</script>
   {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
   {{ $hide_generator := site.Params.power_ups.hide_generator | default false }}
   {{ if not (and $is_sponsor $hide_generator) }}
@@ -14,13 +16,7 @@
   {{/* Parse theme and font */}}
   {{ partial "functions/parse_theme" . }}
 
-  {{ with ($scr.Get "google_fonts") }}
-    {{ if hasPrefix . "family=" }}
-      <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }} media="print" onload="this.media='all'">
-    {{ else }}
-      {{ errorf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://docs.hugoblox.com/customization/#custom-font" }}
-    {{ end }}
-  {{ end }}
+  {{ partial "font_styles.html" (dict "font" ($scr.Get "font_pack") "async" true) }}
 
   {{ if site.Params.marketing.analytics.google_optimize | and hugo.IsProduction }}
     <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
@@ -57,6 +53,11 @@
   {{ $use_cms := templates.Exists "decap_cms/single.decap_cms_config.yml" | default (site.Params.extensions.decap_cms.enable | default false) }}
   {{ if .IsHome | and $use_cms }}
     <script data-cfasync="false" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script data-cfasync="false">
+      window.netlifyIdentity?.on('init', user => {
+        if (!user) window.netlifyIdentity.on('login', () => { location.href = '/admin/'; });
+      });
+    </script>
   {{ end }}
 
   {{/* RSS Feed */}}

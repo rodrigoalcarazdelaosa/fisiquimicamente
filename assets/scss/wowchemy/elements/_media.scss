@@ -83,13 +83,8 @@ figure {
 
 // Dynamically theme `img`
 .dark .img-light,
-body:not(.dark) .img-dark {
+:root:not(.dark) .img-dark {
   filter: invert(1);
-}
-
-// Dynamically theme inline `svg`
-svg {
-  fill: currentColor;
 }
 
 /*************************************************

@@ -21,7 +21,7 @@ weight: 2
 external_link: ""
 
 image:
-  caption: Foto de [**timJ**](https://unsplash.com/@the_roaming_platypus) en [Unsplash](https://unsplash.com)
+  caption: Foto de **timJ** en [Unsplash](https://unsplash.com)
   focal_point: Smart
 
 links:
@@ -29,7 +29,7 @@ links:
   icon:
   name: 📜 Pòster
   url: materia-poster.pdf
-  
+
 slides:
 ---
 
