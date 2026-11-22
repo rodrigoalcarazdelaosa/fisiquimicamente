@@ -58,12 +58,7 @@
 }
 
 .btn-toolbar .btn.btn-primary:is(:hover, :focus, .focus),
-.dark .btn-toolbar .btn.btn-primary:is(:hover, :focus, .focus) {
-  color: nord.$nord0;
-  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl) !important;
-  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
-}
-
+.dark .btn-toolbar .btn.btn-primary:is(:hover, :focus, .focus),
 .btn.btn-primary:is(:hover, :focus, .focus),
 .dark .btn.btn-primary:is(:hover, :focus, .focus) {
   color: nord.$nord0;

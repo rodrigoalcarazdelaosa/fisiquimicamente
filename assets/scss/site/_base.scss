@@ -54,7 +54,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 [tabindex="-1"]:focus:not(:focus-visible) { outline: 0; }
 
 abbr[title], abbr[data-original-title] {
-  text-decoration: underline;
   text-decoration: underline dotted;
   cursor: help;
   border-bottom: 0;
@@ -132,11 +131,10 @@ img {
 }
 
 svg {
+  fill: currentColor;
   overflow: hidden;
   vertical-align: middle;
 }
-
-table { border-collapse: collapse; }
 
 th {
   text-align: inherit;
@@ -239,11 +237,6 @@ progress { vertical-align: baseline; }
 
 output { display: inline-block; }
 
-summary {
-  display: list-item;
-  cursor: pointer;
-}
-
 template { display: none; }
 
 [hidden] { display: none !important; }
@@ -278,11 +271,6 @@ template { display: none; }
 
 .h6 {
   font-size: 1rem;
-}
-
-mark, .mark {
-  padding: 0.2em;
-  background-color: #fcf8e3;
 }
 
 .list-unstyled {

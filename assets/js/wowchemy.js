@@ -1,12 +1,12 @@
-import {searchEnabled, i18n, footnotesURL, zoomURL, playersURL} from '@params';
+import {search, i18n, footnotesURL, zoomURL, playersURL} from '@params';
 import {scrollParentToChild} from './wowchemy-utils';
 import {initNavigation} from './wowchemy-navigation';
 import {initCarousels} from './wowchemy-carousel';
 import {initTooltips} from './tooltips';
 import {initThemeControl, isDarkTheme} from './wowchemy-theming';
+import {initSearch} from './wowchemy-search';
 
 function initSearchDialog() {
-  if (!searchEnabled) return;
   let opener;
   const input = () => document.querySelector('#search-query, .ais-SearchBox-input');
   function toggle() {
@@ -166,7 +166,10 @@ function initPage() {
   initNavigation();
   initTooltips();
   initCarousels();
-  initSearchDialog();
+  if (search.search_config) {
+    initSearchDialog();
+    initSearch(search);
+  }
   document.querySelectorAll('.projects-container.js-layout-row').forEach(initPortfolio);
 
   initThemeControl();
