@@ -1,0 +1,3 @@
+{{- $classes := delimit (findRE `\bclass\s*=\s*(?:"[^"]*"|'[^']*'|[\w-]+)` .) " " -}}
+{{- $classes = replaceRE `class\s*=\s*|["']` " " $classes -}}
+{{- return (findRE `\S+` $classes | uniq) -}}

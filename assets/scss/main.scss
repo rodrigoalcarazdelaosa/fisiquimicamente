@@ -1,42 +1,7 @@
-{{- $scr := .Scratch -}}
-
-@use "theme" with (
-  $font-size: {{ $scr.Get "font_size" }},
-  $font-size-small: {{ $scr.Get "font_size_small" }},
-  $font-body: "{{ $scr.Get "body_font" }}",
-  $font-heading: "{{ $scr.Get "heading_font" }}",
-  $font-nav: "{{ $scr.Get "nav_font" }}",
-  $font-mono: "{{ $scr.Get "mono_font" }}",
-  $primary: {{ $scr.Get "primary" }},
-  $link: {{ $scr.Get "link" }},
-  $link-hover: {{ $scr.Get "link_hover" }},
-  $link-decoration: {{ $scr.Get "link_decoration" }},
-  $dark-link: {{ $scr.Get "dark_link" }},
-  $dark-link-hover: {{ $scr.Get "dark_link_hover" }},
-  $dark-link-decoration: {{ $scr.Get "dark_link_decoration" }},
-  $menu-primary: {{ $scr.Get "menu_primary" }},
-  $menu-text: {{ $scr.Get "menu_text" }},
-  $menu-text-active: {{ $scr.Get "menu_text_active" }},
-  $menu-title: {{ $scr.Get "menu_title" }},
-  $dark-menu-primary: {{ $scr.Get "dark_menu_primary" }},
-  $dark-menu-text: {{ $scr.Get "dark_menu_text" }},
-  $dark-menu-text-active: {{ $scr.Get "dark_menu_text_active" }},
-  $dark-menu-title: {{ $scr.Get "dark_menu_title" }},
-  $background: {{ $scr.Get "background" }},
-  $dark-background: {{ $scr.Get "dark_background" }},
-  $home-section-odd: {{ $scr.Get "home_section_odd" }},
-  $home-section-even: {{ $scr.Get "home_section_even" }},
-  $dark-home-section-odd: {{ $scr.Get "dark_home_section_odd" }},
-  $dark-home-section-even: {{ $scr.Get "dark_home_section_even" }},
-);
-
 @use "site/base";
 @use "site/layout";
 @use "site/controls";
 @use "site/print";
 @use "wowchemy/wowchemy";
-@use "notes-tutor-button";
-@use "site/footnotes";
-@use "site/cookie-consent";
 @use "theme-images";
 @use "site/utilities";

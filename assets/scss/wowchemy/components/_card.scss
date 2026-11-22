@@ -63,6 +63,11 @@ a.summary-link:is(:hover, :focus) {
 
 .card-text:last-child { margin-bottom: 0; }
 
+.card .card-text p + ul {
+  margin-top: -1rem;
+  margin-bottom: 0;
+}
+
 .card .card-image {
   display: block;
   position: relative;

@@ -1,0 +1,4 @@
+{{- $page := .page -}}
+{{- $source := resources.Get "scss/theme-bundle.scss" | resources.ExecuteAsTemplate (printf "scss/%s-%s.scss" .name $page.Lang) . -}}
+{{- $css := $source | toCSS (dict "targetPath" (printf "css/%s.css" .name)) -}}
+{{- return (partial "functions/stylesheet.html" $css) -}}

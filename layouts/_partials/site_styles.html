@@ -1,0 +1,52 @@
+{{- $isBook := eq .Type "book" -}}
+{{- $isWidgetPage := and (not $isBook) (or .IsHome (and .IsPage (eq .Type "widget_page"))) -}}
+{{- $content := "" -}}
+{{- if $isWidgetPage -}}
+  {{/* Render the widgets once so styles can be chosen from their actual markup. */}}
+  {{- $content = partial "widget_page.html" . -}}
+  {{- .Page.Store.Set "widget_markup" $content -}}
+{{- else -}}
+  {{- $content = .Content -}}
+{{- end -}}
+
+{{- $classes := partial "functions/html_classes.html" $content -}}
+
+{{- $hasGallery := or (in $classes "gallery-grid") (.Page.Store.Get "has_gallery") site.Params.require_fancybox -}}
+{{- if $hasGallery -}}
+  {{- .Page.Store.Set "has_gallery" true -}}
+{{- end -}}
+
+{{- $bundles := slice
+  (dict "name" "site" "module" "main" "enabled" true)
+  (dict "name" "book" "module" "wowchemy/layouts/book" "enabled" $isBook)
+  (dict "name" "widgets" "module" "wowchemy/widgets/all" "enabled" $isWidgetPage)
+  (dict "name" "carousel" "module" "site/carousel" "enabled" (in $classes "carousel"))
+  (dict "name" "gallery-grid" "module" "site/gallery" "enabled" $hasGallery)
+  (dict "name" "footnotes" "module" "site/footnotes" "enabled" (in $classes "footnote-ref"))
+  (dict "name" "progress" "module" "site/progress" "enabled" (in $classes "progress"))
+  (dict "name" "notes-tutor-button" "module" "notes-tutor-button" "enabled" (partial "functions/has_notes_tutor.html" .))
+  (dict "name" "cookie-consent" "module" "site/cookie-consent" "enabled" site.Params.features.privacy_pack.enable)
+-}}
+{{ range $bundles }}
+  {{ if .enabled }}
+    <link rel="stylesheet" href="{{ partial "functions/theme_stylesheet.html" (dict "name" .name "module" .module "page" $) }}">
+  {{ end }}
+{{ end }}
+
+{{ with resources.Match "scss/blocks/**.scss" }}
+  {{ $blocks := . | resources.Concat "css/blocks.scss" | toCSS }}
+  <link rel="stylesheet" href="{{ partial "functions/stylesheet.html" $blocks }}">
+{{ end }}
+
+{{ if in $classes "chroma" }}
+  {{ $light := site.Params.features.syntax_highlighter.theme_light | default "github-light" }}
+  {{ $dark := site.Params.features.syntax_highlighter.theme_dark | default "dracula" }}
+  {{ $lightCSS := resources.Get (printf "css/libs/chroma/%s.css" $light) | minify }}
+  {{ if eq $light $dark }}
+    <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}">
+  {{ else }}
+    {{ $darkCSS := resources.Get (printf "css/libs/chroma/%s.css" $dark) | minify }}
+    <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}" title="hl-light" media="print" onload="this.media='all'" {{ if not ($.Scratch.Get "light") }}disabled{{ end }}>
+    <link rel="stylesheet" href="{{ $darkCSS.RelPermalink }}" title="hl-dark" media="print" onload="this.media='all'" {{ if $.Scratch.Get "light" }}disabled{{ end }}>
+  {{ end }}
+{{ end }}

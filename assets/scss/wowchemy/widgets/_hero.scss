@@ -71,14 +71,6 @@ a.hero-cta-alt:hover {
   font-size: 0.8rem;
 }
 
-.hero-media {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-  text-align: center;
-}
-
 .hero-media-caption {
   position: absolute;
   bottom: 0;
@@ -125,11 +117,11 @@ a.hero-cta-alt:hover {
   color: nord.$nord6;
 }
 
-.hero-note {
+.hero-note:where(:not(.text-muted)) {
   color: nord.$nord0;
 }
 
-.dark .hero-note {
+.dark .hero-note:where(:not(.text-muted)) {
   color: nord.$nord6;
 }
 
