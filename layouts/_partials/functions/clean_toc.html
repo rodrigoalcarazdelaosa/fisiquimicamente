@@ -1,3 +1,13 @@
-{{ $toc := printf "%s" . }}
-{{ $toc = replaceRE `(>[^<]*)HAHAHUGOSHORTCODE[0-9A-Za-z]+([^<]*<)` `${1}${2}` $toc }}
-{{ return $toc }}
+{{- $toc := printf "%s" .TableOfContents -}}
+{{- if in (lower $toc) "hahahugoshortcode" -}}
+  {{- range $original, $anchor := partial "functions/stable_heading_anchors.html" . -}}
+    {{- $toc = replace $toc (printf `href="#%s"` $original) (printf `href="#%s"` $anchor) -}}
+  {{- end -}}
+  {{- range findRE `>[^<]+<` $toc -}}
+    {{- $label := replaceRE `(?i)HAHAHUGOSHORTCODE[0-9]+s[0-9]+HBHB` "" . -}}
+    {{- if ne . $label -}}
+      {{- $toc = replace $toc . $label -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $toc -}}
