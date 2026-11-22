@@ -1,5 +1,5 @@
 {{- $content := replace .Content `<nav id="TableOfContents">` `<nav id="TableOfContentsInPage">` -}}
-{{- $toc := .TableOfContents -}}
+{{- $toc := partial "functions/clean_toc.html" . -}}
 {{- if in $toc `href="#"` -}}
   {{- /* Goldmark can omit the anchor for headings that consist of a raw HTML image. */ -}}
   {{- $anchors := dict -}}

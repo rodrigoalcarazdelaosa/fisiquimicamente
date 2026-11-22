@@ -25,12 +25,12 @@ links:
 # icon: download
 #  name: PDF Texto
 #  url: movimientos_texto.pdf
-  
+
 - icon_pack: fas
-  icon: 
+  icon:
   name: 📜 Póster
-  url: electricidad-electronica-poster.pdf  
-  
+  url: electricidad-electronica-poster.pdf
+
 slides: electricidad-electronica-2ESO-3ESO
 
 math: true
@@ -60,7 +60,7 @@ La resistencia es una medida de la **oposición** que ofrece un material al **pa
 
 ## Ley de Ohm
 
-La **ley** de **Ohm** establece que la **diferencia** de **potencial** $V$ que aplicamos en los extremos de un conductor es **proporcional** a la **intensidad** de corriente $I$ que circula por él, siendo la constante de proporcionalidad la resistencia $R$ del conductor:		
+La **ley** de **Ohm** establece que la **diferencia** de **potencial** $V$ que aplicamos en los extremos de un conductor es **proporcional** a la **intensidad** de corriente $I$ que circula por él, siendo la constante de proporcionalidad la resistencia $R$ del conductor:
 $$
 V = R\cdot I
 $$
@@ -274,7 +274,7 @@ $$
 
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/resistencias-serie.svg" title="Circuito eléctrico con dos **resistencias** conectadas en **serie**. La **resistencia equivalente** viene dada por $R_\text{eq} = R_1 + R_2$." lightbox="false" width="100%" >}}
 
-### En paralelo				
+### En paralelo
 En los **circuitos** conectados en **paralelo**, la diferencia de potencial $V$ es el mismo, mientras que la intensidad $I$ es la suma.
 
 Los **generadores** han de conectarse entre polos del **mismo signo**. La resistencia equivalente $R_\text{eq}$ es menor que la menor de todas las resistencias:
@@ -312,7 +312,7 @@ También conocidos como **microchips**, son conjuntos de **circuitos electrónic
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/red-electrica.svg" title="Sistema de **suministro eléctrico** que comprende el conjunto de medios y elementos útiles para la **generación**, el **transporte** y la **distribución** de la **energía eléctrica**.<br> Traducida y adaptada de https://commons.wikimedia.org/wiki/File:Electricity_grid_simple-_North_America.svg." lightbox="false" width="100%" >}}
 
 ### Generación
-{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/alternador.svg" title="La energía eléctrica se genera en las centrales eléctricas, utilizando una [fuente de energía](https://fisiquimicamente.com/apuntes-2eso-3eso/energia/#fuentes-de-energ%C3%ADa) primaria para hacer **girar** una **turbina** que, a su vez, hace girar un **alternador**.<br> Adaptada de https://commons.wikimedia.org/wiki/File:Alternador.svg." lightbox="false" width="100%" >}}
+{{< figure library="true" src="electricidad-electronica-2ESO-3ESO/alternador.svg" title="La energía eléctrica se genera en las centrales eléctricas, utilizando una [fuente de energía](/recursos-fisica-quimica/apuntes/2eso-3eso/energia/#fuentes-de-energía) primaria para hacer **girar** una **turbina** que, a su vez, hace girar un **alternador**.<br>Adaptada de https://commons.wikimedia.org/wiki/File:Alternador.svg." lightbox="false" width="100%" >}}
 
 ### Transporte
 {{< figure library="true" src="electricidad-electronica-2ESO-3ESO/transporte.jpg" title="La red de **transporte** es la encargada de **enlazar** las **centrales** con los **puntos** de **utilización** de la **energía**." lightbox="true" >}}

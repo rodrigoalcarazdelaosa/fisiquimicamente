@@ -1,6 +1,6 @@
 {{- define "main" -}}
 
-{{ $toc := partial "functions/clean_toc.html" .TableOfContents }}
+{{ $toc := partial "functions/clean_toc.html" . }}
 {{ $has_toc := and (ne .Params.toc false) (in $toc "<li") }}
 
 <article class="article">

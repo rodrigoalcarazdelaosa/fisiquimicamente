@@ -15,5 +15,5 @@ build:
   render: never
 
 # Optional external URL for project (replaces project detail page).
-external_link: "ensenando-ciencia-con-ciencia.pdf"
+external_link: "/recursos-fisica-quimica/formacion-profesorado/master/aprendizaje/ensenando-ciencia-con-ciencia.pdf"
 ---

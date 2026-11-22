@@ -33,11 +33,11 @@ Descarrega aquestes diapositives en format PDF [📥](#/PDF)
 {{% section %}}
 
 ## Configuració electrònica
-- [Orbitals atòmics](#/1/3)
-- [Diagrama de Möller](#/1/8)
-- [Estat fonamental](#/1/10)
-- [Estats excitats](#/1/11)
-- [Estats prohibits](#/1/12)
+- [Orbitals atòmics](#/1/2)
+- [Diagrama de Möller](#/1/7)
+- [Estat fonamental](#/1/9)
+- [Estats excitats](#/1/10)
+- [Estats prohibits](#/1/11)
 
 (continua cap avall)
 

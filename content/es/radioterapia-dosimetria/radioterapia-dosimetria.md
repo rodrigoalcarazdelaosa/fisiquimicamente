@@ -36,9 +36,8 @@ subtitle = "⚡️ Radioterapia y Dosimetría"
 
 [[feature]]
   icon = "digitalizacion"
-  icon_link = "digitalizacion-aplicada-sectores-productivos/"
   icon_pack = "tgs"
-  name = "[Digitalización Aplicada a los Sectores Productivos](digitalizacion-aplicada-sectores-productivos/)"
+  name = "Digitalización Aplicada a los Sectores Productivos"
   description = ""
 
 [design]
