@@ -1,26 +1,35 @@
+@use "../nord";
+
+@use "../theme";
+
 /*************************************************
  *  Hugo Blox Builder's Core Style
  **************************************************/
 
 html {
-  font-family: $sta-font-body, sans-serif;
-  font-size: #{$sta-font-size-small}px;
+  font-family: theme.$font-body, serif;
+  font-size: #{theme.$font-size-small}px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   overflow-x: clip;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: #{$sta-font-size}px;
+    font-size: #{theme.$font-size}px;
   }
 }
 
 body {
+  margin: 0;
   font-family: inherit;
   font-size: 1rem;
+  font-weight: 400;
   line-height: inherit;
-  color: inherit;
-  background-color: $sta-background;
+  text-align: left;
+  color: nord.$nord0;
+  background-color: theme.$background;
   padding-top: 0;
   counter-reset: captions;
 
@@ -29,7 +38,7 @@ body {
 }
 
 body.no-navbar {
-  margin-top: 0 !important;
+  margin-top: 0;
 }
 
 // PAGE LAYOUT
@@ -101,14 +110,6 @@ ul.task-list li input[type='checkbox'] {
   list-style-type: none;
 }
 
-/* Navigation bar text */
-.navbar-light {
-  font-family: $sta-font-nav, sans-serif;
-  font-weight: 400;
-  line-height: 1.25;
-  text-rendering: optimizelegibility;
-}
-
 /* Headings */
 h1,
 h2,
@@ -116,12 +117,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $sta-font-heading, sans-serif;
+  font-family: theme.$font-heading, sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   line-height: 1.25;
-  color: #313131;
+  color: nord.$nord0;
   text-rendering: optimizelegibility;
 
   /* Ensure long words do not overflow into content. */
@@ -140,62 +141,77 @@ h1 {
 }
 
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 
 h3 {
   font-weight: 700;
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 h4,
 h5,
 h6 {
   font-weight: 700;
-  margin-top: 1rem;
+}
+
+h4 {
+  font-size: 1.3rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+h6 {
   font-size: 1rem;
 }
 
 a,
 h3.article-title a:hover {
-  color: $sta-link;
+  color: theme.$link;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: $sta-link-hover;
+  color: theme.$link-hover;
 }
 
-.dark a,
-.dark h3.article-title a:hover {
-  color: $sta-dark-link;
+.dark a {
+  color: theme.$dark-link;
 }
 
 .dark a:not(.btn):hover,
 .dark a:not(.btn):focus {
-  color: $sta-dark-link-hover;
+  color: theme.$dark-link-hover;
 }
 
 pre,
 code {
-  font-family: $sta-font-mono, monospace;
+  font-family: theme.$font-mono, monospace;
 }
 
 pre {
+  display: block;
+  overflow: auto;
+  -ms-overflow-style: scrollbar;
   margin: 0 0 1rem;
+  color: #212529;
 
   /* Match bg of default highlight theme. */
   border-color: rgb(248, 248, 248);
-  font-size: 0.7rem;
+  font-size: 0.875rem;
   border-radius: 4px;
   padding: 5px;
 }
 
 pre code {
+  font-size: inherit;
+  color: inherit;
+  word-break: normal;
   white-space: pre; /* Override Bootstrap to preserve line breaks in code. */
   overflow-x: auto;
 }
@@ -220,18 +236,33 @@ pre:hover .btn-copy-code {
 }
 
 hr {
+  box-sizing: content-box;
+  overflow: visible;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   border: 0;
   height: 1px;
-  background: #333;
-  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  background: nord.$nord0;
+  background-image: linear-gradient(
+    to right,
+    nord.$nord6,
+    nord.$nord3,
+    nord.$nord2,
+    nord.$nord1,
+    nord.$nord0,
+    nord.$nord1,
+    nord.$nord2,
+    nord.$nord3,
+    nord.$nord6
+  );
 }
 
 /* Quotes */
 blockquote {
   padding: 0.5rem 1rem;
   margin: 0.8rem 0;
-  color: #7a7a7a;
-  border-left: 0.25rem solid #e5e5e5;
+  color: nord.$nord3;
+  border-left: 0.25rem solid nord.$nord3;
 }
 
 blockquote p:last-child {
@@ -276,8 +307,83 @@ mark,
 small,
 .small {
   font-size: 0.75em;
+  font-weight: 400;
 }
 
 .responsive-wrap iframe {
   max-width: 100%;
+}
+
+body.dark {
+  color: nord.$nord6;
+  background: theme.$dark-background;
+}
+
+.dark pre {
+  /* Match `pre` bg color. */
+  border-color: rgb(68, 71, 90);
+  color: #fff;  // Override Bootstrap default (light mode only)
+}
+
+.dark mark,
+.dark .mark {
+  background: rgba(233, 231, 245, 0.2);
+}
+
+/* Headings */
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+  color: nord.$nord6;
+}
+
+code {
+  font-size: 87.5%;
+  word-wrap: break-word;
+  background: nord.$nord4;
+  color: nord.$nord0;
+  border-radius: 0.5em;
+
+  overflow-x: auto;
+  padding: 0.2em 0.4em;
+}
+
+.dark code {
+  background: nord.$nord3;
+  color: nord.$nord6;
+}
+
+.dark hr {
+  background: nord.$nord6;
+  background-image: linear-gradient(
+    to right,
+    nord.$nord0,
+    nord.$nord4,
+    nord.$nord5,
+    nord.$nord6,
+    nord.$nord5,
+    nord.$nord4,
+    nord.$nord0
+  );
+}
+
+/* Quotes */
+.dark blockquote {
+  color: nord.$nord4;
+  border-left: 0.25rem solid nord.$nord4;
+}
+
+mark,
+.dark mark,
+.mark,
+.dark .mark {
+  background-color: nord.$nord8;
+  color: nord.$nord0;
+  border-radius: 0.5em;
+
+  overflow-x: auto;
+  padding: 0.2em 0.4em;
 }

@@ -1,3 +1,5 @@
+@use "../../nord";
+
 /*************************************************
  *  Card component
  **************************************************/
@@ -6,7 +8,7 @@
   background: #fff;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
   border: 1px solid rgba(0, 0, 0, 0.09);
-  border-radius: 3px;
+  border-radius: 8px;
   margin-top: 20px;
   padding: 15px 20px;
 }
@@ -20,24 +22,50 @@
 }
 
 .dark .card-simple {
-  background: rgb(40, 42, 54);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
   border: 1px solid rgb(68, 71, 90);
 }
 
 /* In page listings, display the linked summaries as normal text except for the hover cursor. */
-a.summary-link {
-  color: unset;
+a.summary-link,
+a.summary-link:is(:hover, :focus) {
+  color: nord.$nord3;
   text-decoration: none;
 }
 
 .card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
   margin-bottom: 1.5rem;
   overflow: hidden;
   text-overflow: ellipsis;
   background: #fff;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   transition: all 0.2s ease-out;
+}
+
+.card > hr {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.card-title { margin-bottom: 0.75rem; }
+
+.card-subtitle {
+  margin-top: -0.375rem;
+  margin-bottom: 0;
+}
+
+.card-text:last-child { margin-bottom: 0; }
+
+.card .card-text p + ul {
+  margin-top: -1rem;
+  margin-bottom: 0;
 }
 
 .card .card-image {
@@ -58,9 +86,20 @@ a.summary-link {
   border-bottom: solid 1px transparent;
 }
 
+.dark .card .section-subheading a {
+  color: nord.$nord6;
+  border-bottom: solid 1px transparent;
+}
+
 .card .section-subheading a:hover {
-  color: #000;
-  border-bottom: solid 1px #000;
+  color: nord.$nord0;
+  border-bottom: solid 1px nord.$nord0;
+  text-decoration: none;
+}
+
+.dark .card .section-subheading a:hover {
+  color: nord.$nord6;
+  border-bottom: solid 1px nord.$nord6;
   text-decoration: none;
 }
 
@@ -69,7 +108,7 @@ a.summary-link {
 }
 
 .card .card-text p {
-  color: rgba(0, 0, 0, 0.54);
+  color: nord.$nord3;
   font-size: 0.75rem;
 }
 
@@ -107,7 +146,7 @@ a.summary-link {
   content: "🔗";
   text-align: center;
   font-size: 3rem;
-  color: #666;
+  color: nord.$nord3;
 }
 
 .card:hover {
@@ -120,4 +159,44 @@ a.summary-link {
 
 .card:hover .card-image.hover-overlay::after {
   opacity: 0.6;
+}
+
+.dark .card .card-image.hover-overlay::before {
+  background: #666;
+}
+
+.dark .card .card-image.hover-overlay::after {
+  color: #fff;
+}
+
+.dark a.summary-link,
+.dark a.summary-link:is(:hover, :focus) {
+  color: nord.$nord4;
+}
+
+.dark .card,
+.dark .card-simple {
+  background: nord.$nord3;
+}
+
+.dark .card .card-text p {
+  color: nord.$nord4;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1.25rem;
+  color: nord.$nord0;
+  background: #fff;
+}
+
+.dark .card-body {
+  color: nord.$nord6;
+  background: nord.$nord3;
+}
+
+div.card-text p a,
+.dark div.card-text p a {
+  text-decoration: underline;
 }

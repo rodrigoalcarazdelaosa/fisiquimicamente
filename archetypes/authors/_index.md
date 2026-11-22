@@ -35,26 +35,29 @@ education:
     year: 2012
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# Use an emoji or a local SVG icon. Give each link a label.
 social:
-- icon: envelope
-  icon_pack: fas
+- icon: ✉️
+  icon_pack: emoji
+  label: Email
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
-  icon_pack: fab
+  icon_pack: svg
+  label: X / Twitter
   link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
+- icon: 🎓
+  icon_pack: emoji
+  label: Google Scholar
   link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
-  icon_pack: fab
+  icon_pack: svg
+  label: GitHub
   link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
+# - icon: 📄
+#   icon_pack: emoji
+#   label: CV
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

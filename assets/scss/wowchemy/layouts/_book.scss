@@ -1,3 +1,8 @@
+@use "../../nord";
+
+@use "../../theme";
+@use "../../breakpoints";
+
 /*************************************************
  *  Documentation layout
  **************************************************/
@@ -9,11 +14,11 @@
 /* Documentation: article footer. */
 
 .docs .body-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid nord.$nord3;
   margin-top: 30px;
   padding-top: 10px;
   font-size: 14px;
-  color: #707070;
+  color: nord.$nord3;
 }
 
 /* Docs content. */
@@ -43,14 +48,14 @@
   margin-left: -15px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 
-  @include media-breakpoint-down(sm) {
+  @include breakpoints.down(sm) {
     padding: 0.8rem 15px;
   }
 }
 
 .docs-search .form-control:focus {
-  border-color: $sta-primary;
-  box-shadow: 0 0 0 3px $sta-primary-light;
+  border-color: theme.$primary;
+  box-shadow: 0 0 0 3px theme.$primary-light;
 }
 
 /* Docs sidebar. */
@@ -118,11 +123,11 @@
   display: block;
   padding: 0.25rem 1.5rem;
   font-size: 0.8rem;
-  color: rgba(0, 0, 0, 0.65);
+  color: nord.$nord3;
 }
 
 .docs-sidebar .nav > li > a:hover {
-  color: rgba(0, 0, 0, 0.85);
+  color: nord.$nord0;
   text-decoration: none;
   background-color: transparent;
 }
@@ -132,7 +137,7 @@
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: $sta-primary;
+  color: theme.$primary;
   background-color: transparent;
 }
 
@@ -141,7 +146,7 @@
 .docs-toggle {
   line-height: 1.5;
   font-size: 1.2rem;
-  color: $sta-primary;
+  color: theme.$primary;
   background-color: transparent;
 }
 
@@ -162,8 +167,8 @@
 }
 
 @media (min-width: 768px) {
-  .docs-links {
-    display: block !important;
+  .docs-links.collapse {
+    display: block;
   }
 }
 
@@ -195,11 +200,6 @@
   color: rgba(0, 0, 0, 0.65);
 }
 
-.docs-toc-link:hover {
-  color: rgba(0, 0, 0, 0.85);
-  text-decoration: none;
-}
-
 .docs-toc-item.active {
   margin-bottom: 1rem;
 }
@@ -220,70 +220,65 @@
   display: block;
 }
 
-/* Docs TOC nav. */
-
-.docs-toc-title {
-  color: #b5b5b5;
-  font-size: 0.875rem;
-  font-weight: 600;
-  padding-left: calc(1.5rem + 1px);
-}
-
-#TableOfContents {
-  padding-left: 0;
-  border-left: 1px solid #eee;
-}
-
-#TableOfContents ul,
-ul.toc-top {
-  padding-left: 0;
-}
-
-// TOC indentation for each level.
-#TableOfContents ul ul {
-  padding-left: 0.8rem;
-}
-
-#TableOfContents li {
-  display: block;
-  margin-bottom: 8px; // Lighthouse: tap targets must be at least 8px apart
-}
-
-#TableOfContents li a,
-.toc-top li a {
-  display: block;
-  padding: 0 1.5rem; // Override default padding
-  color: rgba(0, 0, 0, 0.65);
-  line-height: 1.75; // Lighthouse: min tap target size
-  font-size: 16px; // Lighthouse: min tap target size
-}
-
-.dark #TableOfContents li a,
-.dark .toc-top li a {
-  color: rgba(255, 255, 255, 0.65);
-}
-
-#TableOfContents li a:hover,
-.toc-top li a:hover {
-  color: $sta-primary;
-  text-decoration: none;
-}
-
-/* ScrollSpy active link style. */
-#TableOfContents li a.active {
-  color: $sta-primary;
-  font-weight: 700;
-}
-
 /* Docs achnorjs links. */
 
 .anchorjs-link {
   font-weight: 400;
-  color: $sta-primary-dark;
+  color: theme.$primary-dark;
   transition: color 0.16s linear;
 }
 
 .anchorjs-link:hover {
-  color: $sta-primary;
+  color: theme.$primary;
   text-decoration: none;
+}
+
+.dark .docs-toc-link {
+  color: rgb(248, 248, 242);
+  background: theme.$dark-background;
+}
+
+.docs-toc-link:hover {
+  color: nord.$nord8;
+  text-decoration: none;
+}
+
+.dark .docs-sidebar .nav > li:not(.active) > a {
+  color: rgb(248, 248, 242);
+  background: theme.$dark-background;
+}
+
+/* Documentation: article footer. */
+
+.dark .docs .body-footer {
+  border-top: 1px solid nord.$nord4;
+  color: rgba(255, 255, 255, 0.54);
+}
+
+/* Docs sidebar li>a. */
+
+.dark .docs-sidebar .nav > .dark li > .dark a {
+  color: nord.$nord4;
+}
+
+.dark .docs-sidebar .nav > .dark li > .dark a:hover {
+  color: nord.$nord6;
+}
+
+.docs-sidebar .docs-toc-item a.active {
+  color: nord.$nord0;
+}
+
+.dark .docs-sidebar .docs-toc-item a.active {
+  color: nord.$nord6;
+}
+
+.docs-sidebar .nav > .active > a,
+.docs-sidebar .nav > .active > a:hover {
+  color: nord.$nord8;
+}
+
+/* Docs links. */
+.dark .docs-toggle {
+  color: nord.$nord6;
 }

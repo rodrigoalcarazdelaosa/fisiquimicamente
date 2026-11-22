@@ -1,3 +1,7 @@
+@use "../../nord";
+
+@use "../../breakpoints";
+
 /*************************************************
  *  About widget
  **************************************************/
@@ -16,7 +20,7 @@
 }
 
 // Use smaller avatar size in About widget on small devices.
-@include media-breakpoint-down(sm) {
+@include breakpoints.down(sm) {
   .wg-about .avatar {
     width: 200px;
     height: 200px;
@@ -41,7 +45,7 @@
 .portrait-title h3 {
   font-size: 1rem;
   font-weight: 300;
-  color: rgba(0, 0, 0, 0.54);
+  color: nord.$nord3;
   margin: 0 0 10px;
 }
 
@@ -98,7 +102,7 @@ ul.ul-edu li .description p.course {
 
 ul.ul-edu li .description p.institution {
   font-size: 0.75rem;
-  color: rgba(0, 0, 0, 0.6);
+  color: nord.$nord3;
 }
 
 // For about.avatar widget
@@ -149,7 +153,7 @@ ul.ul-edu li .description p.institution {
   }
 
   .network-icon li {
-    @include media-breakpoint-down(sm) {
+    @include breakpoints.down(sm) {
       /* Min 48px Lighthouse tap targets on mobile */
       margin-right: 12px;
     }
@@ -168,4 +172,46 @@ ul.ul-edu li .description p.institution {
   .bio-text {
     max-width: 680px;
   }
+}
+
+.dark .portrait-title h2 {
+  color: #fff;
+}
+
+.dark .portrait-title h3 {
+  color: nord.$nord4;
+}
+
+.network-icon.network-icon-footer li {
+  margin-right: 14px;
+}
+
+.network-icon.network-icon-footer li:last-of-type {
+  margin-right: 0;
+}
+
+.network-icon a {
+  color: nord.$nord0;
+}
+
+.dark .network-icon a {
+  color: nord.$nord6;
+}
+
+.network-icon a:hover {
+  color: nord.$nord11;
+}
+
+.dark .network-icon a:hover {
+  color: nord.$nord13;
+}
+
+ul.ul-interests {
+  list-style-type: none; /* Remove bullets */
+  padding-left: 0; /* Adjust padding */
+  margin-left: 1em; /* Adjust margins */
+}
+
+.dark ul.ul-edu li .description p.institution {
+  color: nord.$nord4;
 }

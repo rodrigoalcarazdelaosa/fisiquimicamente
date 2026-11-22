@@ -1,3 +1,6 @@
+@use "../../nord";
+@use "../../theme";
+
 /*************************************************
  *  Pager.
  **************************************************/
@@ -29,4 +32,85 @@
 
 .dark .post-nav-item a {
   color: #ddd;
+}
+
+.dark .post-nav-item .meta-nav {
+  color: nord.$nord4;
+}
+
+// Pagination
+
+.pagination {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  border-radius: 0.25rem;
+}
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: theme.$primary;
+  background-color: theme.$background;
+  border: 1px solid theme.$primary;
+}
+
+.page-link:hover { z-index: 2; }
+
+.page-link:focus {
+  z-index: 3;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(theme.$primary, 0.25);
+}
+
+.page-item:first-child .page-link {
+  margin-left: 0;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+.page-item:last-child .page-link {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: theme.$primary;
+  border-color: theme.$primary;
+}
+
+.page-item.disabled .page-link {
+  color: #6c757d;
+  pointer-events: none;
+  cursor: auto;
+  background-color: #fff;
+  border-color: #dee2e6;
+}
+
+.dark .pagination li > a,
+.pagination li > span {
+  background-color: rgb(40, 42, 54);
+  border: 1px solid #ddd;
+}
+
+.dark .page-link {
+  color: nord.$nord6;
+}
+
+.dark .pagination .page-link {
+  background-color: nord.$nord0;
+  border: 1px solid nord.$nord6;
+}
+
+.pagination .page-link:hover,
+.dark .pagination .page-link:hover {
+  color: nord.$nord0;
+  text-decoration: none;
+  background-color: nord.$nord8;
+  border-color: nord.$nord8;
 }

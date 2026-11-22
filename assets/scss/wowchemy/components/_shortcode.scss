@@ -1,3 +1,6 @@
+@use "../../nord";
+@use "../../theme";
+
 // CTA Shortcode
 
 .cta-group {
@@ -29,20 +32,13 @@ details {
   margin-bottom: 1rem;
 }
 
-summary:focus {
-  // Override Webkit setting an outline.
-  outline: none;
+summary:focus-visible {
+  outline: 3px solid nord.$nord10;
+  outline-offset: 3px;
 }
 
-// Make it obvious that toggled text is toggled and not body text.
-details p {
-  margin-left: 0.3rem;
-  padding-left: 0.5rem;
-  border-left: 1px solid rgba(0, 0, 0, 0.8);
-}
-
-.dark details p {
-  border-left: 1px solid rgba(255, 255, 255, 0.8);
+.dark summary:focus-visible {
+  outline-color: nord.$nord8;
 }
 
 // Bilibili Video
@@ -62,4 +58,33 @@ details p {
     left: 0;
     top: 0;
   }
+}
+
+summary {
+  color: theme.$primary;
+}
+
+.dark summary {
+  color: nord.$nord6;
+}
+
+details p {
+  margin-left: 0;
+  padding-left: 0;
+  border-left: none;
+}
+.dark details p {
+  border-left: none;
+}
+
+.spoiler {
+  background-color: nord.$nord4;
+  border: 1px solid nord.$nord0;
+  border-radius: 8px;
+  padding: 16px 16px 8px;
+}
+
+.dark .spoiler {
+  background-color: nord.$nord3;
+  border-color: nord.$nord6;
 }

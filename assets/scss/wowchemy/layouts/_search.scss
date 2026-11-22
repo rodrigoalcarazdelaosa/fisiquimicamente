@@ -1,3 +1,8 @@
+@use "../../nord";
+
+@use "../../theme";
+@use "../../breakpoints";
+
 /*************************************************
  *  Search
  **************************************************/
@@ -7,7 +12,7 @@
 .search-modal {
   transform: scale(0);
   -webkit-transform: scale(0);
-  background-color: $sta-background;
+  background-color: theme.$background;
   bottom: 0;
   left: 0;
   right: 0;
@@ -19,7 +24,7 @@
 }
 
 .dark .search-modal {
-  background-color: $sta-dark-background;
+  background-color: theme.$dark-background;
 }
 
 .search-modal > .container {
@@ -37,18 +42,18 @@
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color: $sta-background;
+  background-color: theme.$background;
   padding-top: 2rem;
   padding-bottom: 1rem;
 
   // Reduce top padding on mobile
-  @include media-breakpoint-down(md) {
+  @include breakpoints.down(md) {
     padding-top: 0;
   }
 }
 
 .dark .search-header {
-  background-color: $sta-dark-background;
+  background-color: theme.$dark-background;
 }
 
 .search-header h1 {
@@ -94,22 +99,17 @@
 }
 
 .dark #search-query {
-  background-color: $sta-dark-background;
+  background-color: theme.$dark-background;
 }
 
 #search-box #search-query {
-  border: 1px solid #dedede;
+  border: 1px solid theme.$primary;
   border-radius: 1rem;
   padding: 1rem 1rem 1rem 2rem; /* Wider left padding for search icon to fit in. */
   width: 250px;
   line-height: 1rem;
   height: 1rem;
   font-size: 0.8rem;
-}
-
-.form-control:focus {
-  border-color: $sta-primary;
-  box-shadow: 0 0 0 0.2rem $sta-primary-light;
 }
 
 // Search result items
@@ -122,7 +122,7 @@
 }
 
 .search-hit-type {
-  margin-bottom: 0 !important; /* Override .article-metadata margin. */
+  margin-bottom: 0; /* Override .article-metadata margin. */
   text-transform: capitalize;
 }
 
@@ -202,7 +202,7 @@
 // Algolia dark-themed search input
 
 .dark .ais-search-box--input {
-  background-color: $sta-dark-background;
+  background-color: theme.$dark-background;
 }
 
 // Hide body scrollbars whilst searching in modal
@@ -219,4 +219,31 @@
 
 .searching #search-box #search-query {
   width: 100%;
+}
+
+.search-header {
+  background-color: theme.$background;
+}
+
+.search-modal {
+  background-color: theme.$background;
+}
+
+.dark #search-box #search-query {
+  border: 1px solid nord.$nord6;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  color: nord.$nord3;
+}
+
+.dark input[type="search"]::-webkit-search-cancel-button {
+  color: nord.$nord4;
+}
+
+.search-hit em,
+.dark .search-hit em {
+  background-color: nord.$nord8;
+  color: nord.$nord0;
+  border-bottom: 1px solid nord.$nord8;
 }

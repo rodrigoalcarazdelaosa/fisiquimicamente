@@ -1,14 +1,18 @@
+@use "../../nord";
+
+@use "../../theme";
+
 /*************************************************
  * Experience
  **************************************************/
 
-.exp-title {
-  text-transform: none !important;
+.experience .exp-title {
+  text-transform: none;
 }
 
-.exp-company {
-  font-weight: normal !important;
-  text-transform: none !important;
+.experience .exp-company {
+  font-weight: normal;
+  text-transform: none;
 }
 
 .exp-meta {
@@ -17,30 +21,33 @@
 
 .experience .card-text,
 .experience .card-text p {
-  color: #000 !important;
-  font-size: 0.75rem !important;
+  color: #000;
+  font-size: 0.75rem;
 }
 
 .dark .experience .text-muted {
-  color: rgba(255, 255, 255, 0.8) !important;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .dark .experience .card-text,
 .dark .experience .card-text p {
-  color: rgb(248, 248, 242) !important;
-}
-
-// For a UL after P, remove the spacing between (P margin-bottom) without affecting any nested lists.
-.card .card-text p + ul {
-  margin-top: -1rem;
-  margin-bottom: 0;
+  color: rgb(248, 248, 242);
 }
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: $sta-primary !important;
+  border-color: theme.$primary;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: $sta-primary !important;
+  background-color: theme.$primary;
+}
+
+.dark .experience .m-2 .border,
+.dark .experience .col.border-right {
+  border-color: nord.$nord6;
+}
+
+.dark .experience .m-2 .border.exp-fill {
+  background-color: nord.$nord6;
 }

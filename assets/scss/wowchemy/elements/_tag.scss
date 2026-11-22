@@ -1,11 +1,15 @@
+@use "../../nord";
+
+@use "../../theme";
+
 /**************************************************
  *  Tags/Labels
  **************************************************/
 
 .badge-light {
   border: none;
-  color: rgba(0, 0, 0, 0.68);
-  background: rgba(0, 0, 0, 0.05);
+  color: nord.$nord0;
+  background: nord.$nord4;
   font-weight: normal;
   border-radius: 3px;
   padding: 5px 10px;
@@ -15,11 +19,6 @@
 
 .article-tags > .badge-light:last-child {
   margin-right: 0;
-}
-
-.badge-light[href]:focus,
-.badge-light[href]:hover {
-  background: rgba(0, 0, 0, 0.1);
 }
 
 a.badge:focus,
@@ -40,12 +39,34 @@ a.badge:hover {
 .tag-cloud a:active,
 .tag-cloud a:focus,
 .tag-cloud a:hover {
-  color: $sta-primary-dark;
+  color: theme.$primary-dark;
   transform: scale(1.2);
 }
 
 .dark .tag-cloud a:active,
 .dark .tag-cloud a:focus,
 .dark .tag-cloud a:hover {
-  color: $sta-primary-light;
+  color: theme.$primary-light;
+}
+
+.dark a.badge:focus,
+.dark a.badge:hover {
+  color: rgba(255, 255, 255, 0.68);
+}
+
+.dark .badge-light {
+  color: nord.$nord6;
+  background: nord.$nord3;
+}
+
+.badge-light[href]:focus,
+.badge-light[href]:hover {
+  color: nord.$nord6;
+  background: nord.$nord0;
+}
+
+.dark .badge-light[href]:focus,
+.dark .badge-light[href]:hover {
+  color: nord.$nord0;
+  background: nord.$nord6;
 }
