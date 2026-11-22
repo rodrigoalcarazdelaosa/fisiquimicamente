@@ -10,6 +10,7 @@
 
 {{ $masonry := in (slice "masonry" "community/masonry-historia-ciencia" "community/masonry-lottie" 3) $view }}
 {{ if $masonry }}{{ $page.Page.Store.Set "has_isotope" true }}{{ end }}
+{{ $default_data_filter := "" }}
 
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
 
@@ -21,7 +22,6 @@
 
     {{/* Parse default filter tag from front matter in the form of either tag name or CSS class name. */}}
     {{ $default_filter_item := (index $block.Params.content.filter_button ($filter_default)) }}
-    {{ $default_data_filter := "" }}
     {{ with $default_filter_item.filter }}
       {{ $default_data_filter = . }}
     {{ else }}
@@ -72,7 +72,12 @@
     {{ end }}
   {{ end }}
 
-  <div class="{{ if or $block.Params.content.filter_button $masonry }}isotope projects-container{{end}} {{ if $masonry }}js-layout-masonry{{ else }}row js-layout-row{{ end }} {{ if eq $view "showcase" }}project-showcase{{end}}">
+  {{/* A single tag selector can be applied before the browser starts loading images. */}}
+  {{ $initial_tag := "" }}
+  {{ if and $masonry (findRE `^\.js-id-[\p{L}\p{N}_-]+$` $default_data_filter) }}
+    {{ $initial_tag = strings.TrimPrefix "." $default_data_filter }}
+  {{ end }}
+  <div class="{{ if or $block.Params.content.filter_button $masonry }}isotope projects-container{{end}} {{ if $masonry }}js-layout-masonry{{ else }}row js-layout-row{{ end }}{{ if $initial_tag }} masonry-initial-filter{{ end }}{{ if eq $view "showcase" }} project-showcase{{end}}">
 
     {{/* Query */}}
     {{ $query := site.Pages }}
@@ -103,9 +108,10 @@
     {{ $query = sort $query $sort_by $sort_order }}
 
     {{ range $index, $item := $query }}
-      {{ $js_tag_classes := delimit (apply (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") "lower" ".") " " }}
+      {{ $tag_classes := apply (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") "lower" "." }}
+      {{ $js_tag_classes := delimit $tag_classes " " }}
         {{ if $masonry }}
-          <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+          <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}{{ if and $initial_tag (not (in $tag_classes $initial_tag)) }} masonry-initially-hidden{{ end }}">
         {{else}}
           <div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
         {{end}}

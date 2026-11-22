@@ -77,3 +77,9 @@
 .isotope-item:hover {
   z-index: 3;
 }
+
+@media (scripting: enabled) {
+  .masonry-initial-filter > .masonry-initially-hidden {
+    display: none;
+  }
+}
