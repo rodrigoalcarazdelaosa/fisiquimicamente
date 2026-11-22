@@ -16,13 +16,7 @@
   {{/* Parse theme and font */}}
   {{ partial "functions/parse_theme" . }}
 
-  {{ with ($scr.Get "google_fonts") }}
-    {{ if hasPrefix . "family=" }}
-      <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }} media="print" onload="this.media='all'">
-    {{ else }}
-      {{ errorf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://docs.hugoblox.com/customization/#custom-font" }}
-    {{ end }}
-  {{ end }}
+  {{ partial "font_styles.html" (dict "font" ($scr.Get "font_pack") "async" true) }}
 
   {{ if site.Params.marketing.analytics.google_optimize | and hugo.IsProduction }}
     <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
