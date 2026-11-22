@@ -33,7 +33,7 @@ Esta entrada es una **traducción/adaptación** de este magnífico **vídeo** de
 
 {{% toc %}}
 
-Para ilustrar el concepto de [**aceleración centrípeta**]({{< relref "/apuntes-primero-bach/movimiento-circular/index.md#aceleración-centrípeta-a_mathrm-c" >}}), los ejercicios de los libros de texto suelen representar ***loops*** perfectamente **circulares** para simplificar los cálculos. Pero la realidad es que los loops de las montañas rusas no son circulares en absoluto:
+Para ilustrar el concepto de [**aceleración centrípeta**]({{< relref "/apuntes-primero-bach/movimiento-circular/index.md#aceleración-centrípeta" >}}), los ejercicios de los libros de texto suelen representar ***loops*** perfectamente **circulares** para simplificar los cálculos. Pero la realidad es que los loops de las montañas rusas no son circulares en absoluto:
 
 ![loop](loop.jpg "[Big Loop, Heide Park](https://www.heide-park.de/en/). Imagen de [Thorsten Dahl](https://pixabay.com/users/tdahl-6043092/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2686892) en [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2686892).")
 
