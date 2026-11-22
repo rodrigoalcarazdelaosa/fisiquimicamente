@@ -79,7 +79,7 @@
       {{ if eq $animation_type "json" }}
         <lottie-player autoplay loop mode="normal" src="{{ $image.RelPermalink }}" style="width: 100%; height:auto"></lottie-player>
       {{ else if eq $animation_type "tgs" }}
-        <tgs-player autoplay loop mode="normal" data-src="{{ $image.RelPermalink }}"{{ with partial "functions/tgs_dark_url.html" (dict "animation" $image "page" $block.Parent) }} data-src-dark="{{ . }}"{{ end }} style="width: 70%; height:auto" id="tgs-home"></tgs-player>
+        <tgs-player autoplay loop mode="normal" data-src="{{ $image.RelPermalink }}" {{ partial "functions/tgs_dark_attr.html" (dict "animation" $image "page" $block.Parent) }} style="width: 70%; height:auto" id="tgs-home"></tgs-player>
       {{ else if $isSVG -}}
         <img src="{{ $image.RelPermalink }}" alt="{{ $block.Title }}">
 

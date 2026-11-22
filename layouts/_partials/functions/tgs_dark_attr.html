@@ -17,4 +17,8 @@
     {{- $url = $candidate -}}
   {{- end -}}
 {{- end -}}
-{{- return $url -}}
+{{- $attribute := "" -}}
+{{- with $url -}}
+  {{- $attribute = printf "data-src-dark=\"%s\"" (. | htmlEscape) -}}
+{{- end -}}
+{{- return ($attribute | safeHTMLAttr) -}}
