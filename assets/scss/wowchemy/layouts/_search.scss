@@ -60,14 +60,14 @@
   line-height: 1;
 }
 
-.col-search-close {
-  text-align: right;
+.search-heading {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-block-end: 1rem;
 }
 
-// Large icon for closing search dialog.
-.search-header .col-search-close i {
-  font-size: 2rem;
-  line-height: 1;
+.search-close {
+  text-align: end;
 }
 
 // Search box in modal
