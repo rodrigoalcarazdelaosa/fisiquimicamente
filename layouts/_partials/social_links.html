@@ -7,7 +7,7 @@
     {{ $link := partial "functions/get_social_link" . }}
     {{ $pack := $link.icon_pack }}
     {{ $icon := $link.icon | default "" }}
-    {{ if or (in (slice "fas" "fab" "far" "fal") $pack) (and (eq $pack "ai") (not site.Params.extensions.academicons.enable)) }}
+    {{ if in (slice "fas" "fab" "far" "fal" "ai") $pack }}
       {{ $pack = "svg" }}
       {{ with index $legacy_emoji $icon }}
         {{ $pack = "emoji" }}
@@ -29,8 +29,6 @@
       <a href="{{ $link.link | safeURL }}" {{ $link.target | safeHTMLAttr }} aria-label="{{ $link.aria_label | default $link.link }}">
         {{ if $src }}
           <img data-toggle="tooltip" data-placement="bottom" title="{{ $link.tooltip }}" src="{{ $src }}" alt="" class="{{ $image_class }}" loading="lazy">
-        {{ else if and (eq $pack "ai") site.Params.extensions.academicons.enable }}
-          <i data-toggle="tooltip" data-placement="bottom" title="{{ $link.tooltip }}" class="ai ai-{{ $icon }}{{ if $large }} big-icon{{ end }}" aria-hidden="true"></i>
         {{ else }}
           <span data-toggle="tooltip" data-placement="bottom" title="{{ $link.tooltip }}"{{ with $emoji_class }} class="{{ . }}"{{ end }} aria-hidden="true">{{ if eq $pack "emoji" }}{{ $icon | markdownify | emojify }}{{ else }}🔗{{ end }}</span>
         {{ end }}

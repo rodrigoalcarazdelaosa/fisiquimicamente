@@ -35,10 +35,6 @@
 
 # CSS
 
-[css.academicons]
-  version = "1.9.4"
-  sri = "sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw=="
-  url = "https://cdn.jsdelivr.net/gh/jpswalsh/academicons@%s/css/academicons.min.css"
 [css.cookieconsent]
   version = "3.1.1"
   sri = "sha512-LQ97camar/lOliT/MqjcQs5kWgy6Qz/cCRzzRzUCfv0fotsCTC9ZHXaPQmJV8Xu/PVALfJZ7BDezl5lW3/qBxg=="
