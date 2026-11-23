@@ -452,6 +452,37 @@ article .article-metadata {
   color: nord.$nord13;
 }
 
+.heading-permalink {
+  display: inline-grid;
+  place-items: center;
+  inline-size: max(1.175em, 24px);
+  block-size: max(1em, 24px);
+  margin-inline-start: 0.1875em;
+  vertical-align: -0.11em;
+
+  &::before {
+    content: "⚓️";
+    font-size: 0.85em;
+    line-height: 1;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--page-text);
+    outline-offset: 2px;
+  }
+}
+
+@media (hover: hover) {
+  .heading-permalink {
+    opacity: 0;
+  }
+
+  :hover > .heading-permalink,
+  .heading-permalink:focus-visible {
+    opacity: 1;
+  }
+}
+
 .dark .article-title a,
 .dark .article-title a:is(:hover, :focus) {
   color: nord.$nord6;

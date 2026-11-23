@@ -1,0 +1,26 @@
+{{- $source := . -}}
+{{- /* Shortcodes such as spoilers can also render headings inside notes. */ -}}
+{{- $headings := findRESubmatch `(?is)(.*?)(?:(<h[2-6]\b[^>]*?\sid=")([^"]+)("[^>]*>.*?)(</h[2-6]\s*>)|(<!--.*?-->)|$)` $source -}}
+{{- $parts := slice -}}
+{{- $used := dict -}}
+{{- range $headings -}}
+  {{- $parts = $parts | append (index . 1) -}}
+  {{- if index . 2 -}}
+    {{- $id := index . 3 | htmlUnescape -}}
+    {{- if isset $used $id -}}
+      {{- $base := $id -}}
+      {{- range seq (len $headings) -}}
+        {{- $id = printf "%s-%d" $base . -}}
+        {{- if and (not (isset $used $id)) (not (in $source (printf `id="%s"` ($id | htmlEscape)))) -}}
+          {{- break -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $used = merge $used (dict $id true) -}}
+    {{- $link := partial "components/heading_permalink.html" $id -}}
+    {{- $parts = $parts | append (printf "%s%s%s%s%s" (index . 2) ($id | htmlEscape) (index . 4) $link (index . 5)) -}}
+  {{- else -}}
+    {{- $parts = $parts | append (index . 6) -}}
+  {{- end -}}
+{{- end -}}
+{{- return (delimit $parts "" | safeHTML) -}}
