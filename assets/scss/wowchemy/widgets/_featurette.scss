@@ -1,3 +1,5 @@
+@use "../../nord";
+
 @use "../../theme";
 
 /*************************************************
@@ -7,7 +9,7 @@
 .featurette {
   font-size: 0.8rem;
   line-height: 1.5;
-  color: #555;
+  color: nord.$nord3;
   text-align: center;
 }
 
@@ -15,12 +17,12 @@
   margin-top: 0;
   margin-bottom: 5px;
   font-weight: 400;
-  color: #333;
+  color: nord.$nord0;
 }
 
 .dark .featurette,
 .dark .featurette .section-subheading {
-  color: #fff;
+  color: nord.$nord6;
 }
 
 .featurette-icon {

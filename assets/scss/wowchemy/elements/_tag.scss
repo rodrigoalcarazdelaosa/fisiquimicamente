@@ -23,7 +23,7 @@
 
 a.badge:focus,
 a.badge:hover {
-  color: rgba(0, 0, 0, 0.68);
+  color: rgba(nord.$nord0, 0.68);
 }
 
 .tag-cloud a {
@@ -51,7 +51,7 @@ a.badge:hover {
 
 .dark a.badge:focus,
 .dark a.badge:hover {
-  color: rgba(255, 255, 255, 0.68);
+  color: rgba(nord.$nord6, 0.68);
 }
 
 .dark .badge-light {

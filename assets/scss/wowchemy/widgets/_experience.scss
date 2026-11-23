@@ -21,17 +21,17 @@
 
 .experience .card-text,
 .experience .card-text p {
-  color: #000;
+  color: nord.$nord0;
   font-size: 0.75rem;
 }
 
 .dark .experience .text-muted {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(nord.$nord6, 0.8);
 }
 
 .dark .experience .card-text,
 .dark .experience .card-text p {
-  color: rgb(248, 248, 242);
+  color: nord.$nord6;
 }
 
 .experience .m-2 .border,

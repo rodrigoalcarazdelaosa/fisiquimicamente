@@ -34,7 +34,7 @@
     {{ end }}
   {{ end }}
   {{ if $hasHighlighting }}
-    {{ $theme := .Param "slides.highlight_style" | default "dracula" }}
+    {{ $theme := .Param "slides.highlight_style" | default "nord" }}
     {{ $themePath := printf "css/libs/chroma/%s.css" $theme }}
     {{ with resources.Get $themePath }}
       <link rel="stylesheet" href="{{ (. | minify).RelPermalink }}">

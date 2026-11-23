@@ -46,7 +46,7 @@
   padding: 1rem 15px;
   margin-right: -15px;
   margin-left: -15px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(nord.$nord0, 0.05);
 
   @include breakpoints.down(sm) {
     padding: 0.8rem 15px;
@@ -62,12 +62,12 @@
 
 .docs-sidebar {
   order: 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(nord.$nord0, 0.1);
 }
 
 @media (min-width: 768px) {
   .docs-sidebar {
-    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-right: 1px solid rgba(nord.$nord0, 0.1);
   }
   @supports ((position: -webkit-sticky) or (position: sticky)) {
     .docs-sidebar {
@@ -86,7 +86,7 @@
 
 @media (min-width: 1200px) {
   .docs-sidebar {
-    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-right: 1px solid rgba(nord.$nord0, 0.1);
   }
   @supports ((position: -webkit-sticky) or (position: sticky)) {
     .docs-sidebar {
@@ -197,7 +197,7 @@
   display: block;
   padding: 0.25rem 1.5rem;
   font-weight: bold;
-  color: rgba(0, 0, 0, 0.65);
+  color: rgba(nord.$nord0, 0.65);
 }
 
 .docs-toc-item.active {
@@ -209,7 +209,7 @@
 }
 
 .docs-toc-item.active > .docs-toc-link {
-  color: rgba(0, 0, 0, 0.85);
+  color: rgba(nord.$nord0, 0.85);
 }
 
 .docs-toc-item.active > .docs-toc-link:hover {
@@ -234,7 +234,7 @@
 }
 
 .dark .docs-toc-link {
-  color: rgb(248, 248, 242);
+  color: nord.$nord6;
   background: theme.$dark-background;
 }
 
@@ -244,7 +244,7 @@
 }
 
 .dark .docs-sidebar .nav > li:not(.active) > a {
-  color: rgb(248, 248, 242);
+  color: nord.$nord6;
   background: theme.$dark-background;
 }
 
@@ -252,7 +252,7 @@
 
 .dark .docs .body-footer {
   border-top: 1px solid nord.$nord4;
-  color: rgba(255, 255, 255, 0.54);
+  color: rgba(nord.$nord6, 0.54);
 }
 
 /* Docs sidebar li>a. */

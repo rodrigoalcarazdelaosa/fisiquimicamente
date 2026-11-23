@@ -61,7 +61,7 @@
     <link rel="icon" type="image/png" href="{{ $icon.RelPermalink }}" />
     <link rel="apple-touch-icon" type="image/png" href="{{ $icon_at.RelPermalink }}" />
 {{ end }}
-{{ $theme_color := ($scr.Get "primary") | default site.Params.appearance.primary_color | default "#fff" }}
+{{ $theme_color := ($scr.Get "primary") | default site.Params.appearance.primary_color | default hugo.Data.themes.nord.light.background }}
 <meta name="theme-color" content="{{ $theme_color }}" />
 
 {{/* Get the page image for social sharing. Pages with SVGs use the site's sharing image. */}}
