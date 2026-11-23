@@ -8,8 +8,8 @@
 {{ $bg := $block.Params.design.background }}
 
 {{ if $block.Params.hero_media }}
-<div class="row">
-  <div class="col-12 col-md-6 text-center text-md-left">
+<div class="hero-layout">
+  <div class="text-center text-md-left">
 {{ end }}
 
     {{ with $block.Title }}
@@ -63,7 +63,7 @@
   {{/* Hero image */}}
   {{ if $block.Params.hero_media }}
   </div>
-  <div class="col-12 mx-auto col-md-6 {{if $block.Params.design.flip}}order-md-first{{end}} hero-media">
+  <div class="mx-auto hero-media{{ if $block.Params.design.flip }} hero-media-first{{ end }}">
     {{- $image := ($block.Parent.Resources.ByType "image").GetMatch $block.Params.hero_media -}}
     {{- if not $image -}}
       {{- $image = resources.Get (path.Join "media" $block.Params.hero_media) -}}

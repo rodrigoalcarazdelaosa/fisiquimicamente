@@ -113,7 +113,7 @@
 {{end}}
 
 {{ $columns := $block.Params.design.columns | default "2" }}
-{{ $use_cols := in (slice "collection" "experience-estancias" "experience-trayectoria" "contact" "markdown" "portfolio") $block_type }}
+{{ $use_layout := in (slice "collection" "experience-estancias" "experience-trayectoria" "contact" "markdown" "portfolio") $block_type }}
 
 {{/* Dedicated child div for bg prevents parallax 100% height issue within new CSS grid page wrapper. */}}
 <section id="{{$hash_id}}" class="home-section {{$widget_class}} {{if $bg.text_color_light}}dark{{else if (eq $bg.text_color_light false)}}light{{end}} {{with $css_classes}}{{.}}{{end}}" {{with $style}}style="{{. | safeCSS}}"{{end}} {{print $extra_attributes | safeHTMLAttr}}>
@@ -893,28 +893,29 @@
 	    </nav>
     {{end}}
 
-  {{if $use_cols}}
-    <div class="row  {{if not $block.Title | or (eq $columns "1") }}justify-content-center{{end}}">
-    {{ if $block.Title }}
-      {{ if eq $columns "1" }}
-        <div class="section-heading col-12 mb-3 text-center">
-          {{ with $block.Title }}<h1 class="mb-0">{{ . | markdownify | emojify }}</h1>{{ end }}
-          {{ with $block.Params.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
-        </div>
-      {{else}}
-        <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-          {{ with $block.Title }}<h1 class="mb-0">{{ . | markdownify | emojify }}</h1>{{ end }}
-          {{ with $block.Params.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
-        </div>
-      {{end}}
-    {{end}}
-  {{end}}
-
-    {{ partial $widget_path $widget_args }}
-
-  {{if $use_cols}}
+  {{ if $use_layout }}
+    <div class="widget-layout{{ if or (not $block.Title) (eq $columns "1") }} justify-content-center{{ end }}">
+      {{ if $block.Title }}
+        {{ if eq $columns "1" }}
+          <div class="section-heading widget-heading mb-3 text-center">
+            {{ with $block.Title }}<h1 class="mb-0">{{ . | markdownify | emojify }}</h1>{{ end }}
+            {{ with $block.Params.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
+          </div>
+        {{ else }}
+          <div class="section-heading widget-heading widget-heading-narrow mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            {{ with $block.Title }}<h1 class="mb-0">{{ . | markdownify | emojify }}</h1>{{ end }}
+            {{ with $block.Params.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
+          </div>
+        {{ end }}
+      {{ end }}
+      {{ $narrow := or (eq $columns "2") (and (eq $block_type "markdown") (ne $columns "1")) }}
+      <div class="widget-content{{ if $narrow }} widget-content-narrow{{ end }}">
+        {{ partial $widget_path $widget_args }}
+      </div>
     </div>
-  {{end}}
+  {{ else }}
+    {{ partial $widget_path $widget_args }}
+  {{ end }}
 
   {{if $use_container}}</div>{{end}}
 </section>

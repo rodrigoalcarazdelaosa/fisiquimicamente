@@ -7,8 +7,39 @@
  *  Documentation layout
  **************************************************/
 
-.docs-article-container {
-  max-width: 760px;
+.docs-layout {
+  --docs-content-width: 100%;
+  display: grid;
+  grid-template-areas: "sidebar" "content";
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.docs-layout > :is(.docs-sidebar, .docs-content, .docs-toc) {
+  min-inline-size: 0;
+  padding-inline: 15px;
+}
+
+@media (min-width: 768px) {
+  .docs-layout {
+    --docs-content-width: 75%;
+    grid-template-areas: "sidebar content";
+    grid-template-columns: minmax(0, 25%) minmax(0, var(--docs-content-width));
+  }
+
+  .docs-layout > .docs-content {
+    padding-block: 1rem;
+    padding-inline-start: 3rem;
+  }
+}
+
+@include breakpoints.up(xl) {
+  .docs-layout {
+    --docs-content-width: 66.66666667%;
+    grid-template-areas: "sidebar content toc";
+    grid-template-columns: min(16.66666667%, 320px) minmax(0, var(--docs-content-width)) 16.66666667%;
+  }
+
+  .docs-layout > .docs-toc { display: block; }
 }
 
 /* Documentation: article footer. */
@@ -24,7 +55,7 @@
 /* Docs content. */
 
 .docs-content {
-  order: 1;
+  grid-area: content;
   position: relative;
 }
 
@@ -61,7 +92,7 @@
 /* Docs sidebar. */
 
 .docs-sidebar {
-  order: 0;
+  grid-area: sidebar;
   border-bottom: 1px solid rgba(nord.$nord0, 0.1);
 }
 
@@ -100,20 +131,6 @@
       top: 0;
       height: 100vh;
     }
-  }
-}
-
-@media (min-width: 1200px) {
-  .docs-sidebar {
-    flex: 0 1 320px;
-  }
-}
-
-/* Hide sidebar in printouts. */
-
-@media print {
-  .docs-sidebar {
-    display: none;
   }
 }
 
@@ -175,10 +192,30 @@
 /* Docs TOC. */
 
 .docs-toc {
-  order: 2;
+  grid-area: toc;
+  display: none;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   font-size: 0.875rem;
+}
+
+@media print {
+  .docs-layout {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .docs-sidebar { display: none; }
+
+  .docs-content {
+    order: 1;
+    flex: 0 0 var(--docs-content-width);
+  }
+
+  .docs-toc {
+    order: 2;
+    flex: 0 0 16.66666667%;
+  }
 }
 
 @supports ((position: -webkit-sticky) or (position: sticky)) {

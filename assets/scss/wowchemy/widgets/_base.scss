@@ -15,6 +15,30 @@
   z-index: 0; // Explicit z-order otherwise `.home-section-bg` can be hidden by any `.home-section` background.
 }
 
+.widget-layout {
+  --widget-gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--widget-gap);
+}
+
+.widget-layout > :is(.widget-heading, .widget-content) {
+  position: relative;
+  flex: 0 0 100%;
+  min-inline-size: 0;
+}
+
+@include breakpoints.up(lg) {
+  // Keep the widths of the original one-third and two-thirds columns.
+  .widget-layout > .widget-heading-narrow {
+    flex-basis: calc((100% + var(--widget-gap)) / 3 - var(--widget-gap));
+  }
+
+  .widget-layout > .widget-content-narrow {
+    flex-basis: calc((100% + var(--widget-gap)) * 2 / 3 - var(--widget-gap));
+  }
+}
+
 // Responsive fullscreen option for widgets
 // Allow section or elements (such as Slider slides) within it to be fullscreen
 .home-section.fullscreen,

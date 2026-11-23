@@ -99,6 +99,10 @@
   }
 }
 
+@media (hover: hover) {
+  .notes-tutor .notes-tutor-toggle:hover { color: nord.$nord0; background: nord.$nord8; }
+}
+
 .notes-tutor-load-status {
   display: block;
   width: 260px;

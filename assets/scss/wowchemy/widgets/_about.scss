@@ -6,6 +6,40 @@
  *  About widget
  **************************************************/
 
+.about-layout {
+  --about-gap: 30px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  column-gap: var(--about-gap);
+}
+
+@include breakpoints.up(lg) {
+  .about-layout {
+    grid-template-columns: calc((100% + var(--about-gap)) / 3 - var(--about-gap)) minmax(0, 1fr);
+  }
+}
+
+.about-details {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--about-gap);
+}
+
+.about-details > div {
+  flex: 0 0 100%;
+  min-inline-size: 0;
+}
+
+@media (min-width: 768px) {
+  .about-details > .about-interests {
+    flex-basis: calc((100% + var(--about-gap)) * 5 / 12 - var(--about-gap));
+  }
+
+  .about-details > .about-education {
+    flex-basis: calc((100% + var(--about-gap)) * 7 / 12 - var(--about-gap));
+  }
+}
+
 #profile {
   text-align: center;
   padding: 30px 10px;

@@ -4,15 +4,15 @@
 {{/* Check whether to show breadcrumb navigation. */}}
 {{ $show_breadcrumb := .Params.show_breadcrumb }}
 
-<div class="container-fluid docs">
-  <div class="row flex-xl-nowrap">
-    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+<div class="docs">
+  <div class="docs-layout">
+    <div class="docs-sidebar">
       {{ partial "book_sidebar" . }}
     </div>
 
     {{/* Show ToC by default. */}}
     {{ if ne .Params.toc false }}
-    <div class="d-none d-xl-block col-xl-2 docs-toc">
+    <div class="docs-toc">
       {{ partial "blox-core/functions/get_hook" (dict "hook" "toc-start" "context" .) }}
 
       <ul class="nav toc-top">
@@ -25,13 +25,11 @@
     </div>
     {{ end }}
 
-    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+    <main class="docs-content" role="main">
 
-      <div class="docs-article-container">
-        {{ if $show_breadcrumb }}
-          {{ partial "components/breadcrumb" $current_page }}
-        {{ end }}
-      </div>
+      {{ if $show_breadcrumb }}
+        {{ partial "components/breadcrumb" $current_page }}
+      {{ end }}
 
       {{/* Cover image */}}
       {{ $cover_image := partial "blox-core/functions/get_featured_image.html" . }}
@@ -48,30 +46,28 @@
       </div>
       {{end}}
 
-      <div class="docs-article-container">
-        {{/* Fallback to filename as title (useful for default Obsidian note structure) */}}
-        <h1>{{ cond (ne .File nil) (.Title | default (title .File.ContentBaseName)) .Title }}</h1>
+      {{/* Fallback to filename as title (useful for default Obsidian note structure) */}}
+      <h1>{{ cond (ne .File nil) (.Title | default (title .File.ContentBaseName)) .Title }}</h1>
 
-        <article class="article-style">
+      <article class="article-style">
 
-          {{/* Only auto-list page children if _index has no content (or if it isn't a .File?) */}}
-          {{ if not $article.content }}
-            {{ partial "book_children.html" (dict "page" . "show_summary" true) }}
-          {{ end }}
-
-          {{ $article.content }}
-
-        </article>
-
-        {{ partial "tags.html" . }}
-
-        {{/* Show next/previous pages by default. */}}
-        {{ if ne .Params.pager false }}
-        <div class="article-widget">
-          {{ partial "components/pager" . }}
-        </div>
+        {{/* Only auto-list page children if _index has no content (or if it isn't a .File?) */}}
+        {{ if not $article.content }}
+          {{ partial "book_children.html" (dict "page" . "show_summary" true) }}
         {{ end }}
+
+        {{ $article.content }}
+
+      </article>
+
+      {{ partial "tags.html" . }}
+
+      {{/* Show next/previous pages by default. */}}
+      {{ if ne .Params.pager false }}
+      <div class="article-widget">
+        {{ partial "components/pager" . }}
       </div>
+      {{ end }}
 
       <div class="body-footer">
         <p>{{ i18n "last_updated" }} {{ $.Lastmod | time.Format site.Params.locale.date_format }}</p>

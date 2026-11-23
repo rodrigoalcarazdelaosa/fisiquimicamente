@@ -8,16 +8,16 @@
 {{ $bg := $block.Params.design.background }}
 
 {{ if $block.Params.hero_media }}
-<div class="row justify-content-center">
+<div class="hero-layout justify-content-center">
   {{ with $block.Title }}
-  <div class="col-12 px-md-0">
+  <div class="hero-brand">
   {{ $brand := urlize $block.Title }}
   {{ with resources.Get (printf "media/logo-%s.svg" $brand) }}
     <img draggable="false" class="brand-{{ $brand }}" alt="{{ $brand }}" src="{{ .RelPermalink }}" width="100%" id="{{ $brand }}">
   {{ end }}
   </div>
     {{ end }}
-  <div class="col-12 col-md-6 text-center text-md-left">
+  <div class="text-center text-md-left">
 {{ end }}
 
     {{ with $block.Content }}
@@ -67,7 +67,7 @@
   {{/* Hero image */}}
   {{ if $block.Params.hero_media }}
   </div>
-  <div class="col-12 mx-auto col-md-6 {{if $block.Params.design.flip}}order-md-first{{end}} hero-media">
+  <div class="mx-auto hero-media{{ if $block.Params.design.flip }} hero-media-first{{ end }}">
     {{- $image := ($block.Parent.Resources.ByType "image").GetMatch $block.Params.hero_media -}}
     {{- if not $image -}}
       {{- $image = resources.Get (path.Join "media" $block.Params.hero_media) -}}

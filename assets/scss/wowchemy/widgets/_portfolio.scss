@@ -2,6 +2,8 @@
  *  Projects
  **************************************************/
 
+.js-layout-row > .isotope-item { position: relative; }
+
 .project-widget-simple li {
   margin-bottom: 1rem;
 }
@@ -20,10 +22,10 @@
 }
 
 .projects-container {
-  display: block;
   position: relative;
+}
 
-  /* margin-top: 5rem; */
+.projects-container.js-layout-masonry {
   overflow: hidden;
 }
 
