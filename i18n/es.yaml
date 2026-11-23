@@ -244,15 +244,6 @@
 - id: 404_recommendations
   translation: ¿Buscabas una de estas?
 
-# Cookie consent
-
-- id: cookie_message
-  translation: Este sitio web utiliza 🍪 cookies para garantizar una mejor experiencia.
-- id: cookie_dismiss
-  translation: ¡Entendido!
-- id: cookie_learn
-  translation: Más información
-
 # Published with
 
 - id: published_with

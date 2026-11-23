@@ -1,4 +1,4 @@
-# Versioning and Subresource Integrity (SRI) for Academic's JavaScript and CSS dependencies
+# Versioning and Subresource Integrity (SRI) for JavaScript dependencies
 
 # When updating the version of an asset below, please also update the corresponding SRI.
 # How to update the SRI for an entry:
@@ -28,14 +28,3 @@
   version = "5.0.0"
   sri = "sha256-aQmOEF2ZD4NM/xt4hthzREIo/2PFkOX/g01WjxEV7Ys="
   url = "https://cdn.jsdelivr.net/npm/anchor-js@%s/anchor.min.js"
-[js.cookieconsent]
-  version = "3.1.1"
-  sri = "sha512-yXXqOFjdjHNH1GND+1EO0jbvvebABpzGKD66djnUfiKlYME5HGMUJHoCaeE4D5PTG2YsSJf6dwqyUUvQvS0vaA=="
-  url = "https://cdn.jsdelivr.net/gh/osano/cookieconsent@%s/build/cookieconsent.min.js"
-
-# CSS
-
-[css.cookieconsent]
-  version = "3.1.1"
-  sri = "sha512-LQ97camar/lOliT/MqjcQs5kWgy6Qz/cCRzzRzUCfv0fotsCTC9ZHXaPQmJV8Xu/PVALfJZ7BDezl5lW3/qBxg=="
-  url = "https://cdn.jsdelivr.net/gh/osano/cookieconsent@%s/build/cookieconsent.min.css"

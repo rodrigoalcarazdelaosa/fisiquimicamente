@@ -64,7 +64,7 @@ features:
     theme_dark: nord
   math:
     enable: false
-  privacy_pack:
+  privacy_pack: # IP anonymization for the optional Google Analytics integration.
     enable: false
   repository:
     url: "https://github.com/rodrigoalcarazdelaosa/fisiquimicamente"

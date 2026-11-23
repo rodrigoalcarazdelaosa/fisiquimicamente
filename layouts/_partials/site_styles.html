@@ -25,7 +25,6 @@
   (dict "name" "footnotes" "module" "site/footnotes" "enabled" (in $classes "footnote-ref"))
   (dict "name" "progress" "module" "site/progress" "enabled" (in $classes "progress"))
   (dict "name" "notes-tutor-button" "module" "notes-tutor-button" "enabled" (partial "functions/has_notes_tutor.html" .))
-  (dict "name" "cookie-consent" "module" "site/cookie-consent" "enabled" site.Params.features.privacy_pack.enable)
 -}}
 {{ range $bundles }}
   {{ if .enabled }}

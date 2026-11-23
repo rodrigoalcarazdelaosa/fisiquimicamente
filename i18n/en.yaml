@@ -332,17 +332,6 @@
 - id: 404_recommendations
   translation: Perhaps you were looking for one of these?
 
-# Cookie consent
-
-- id: cookie_message
-  translation: This website uses 🍪 cookies to ensure you get the best experience.
-
-- id: cookie_dismiss
-  translation: Got it!
-
-- id: cookie_learn
-  translation: Learn more
-
 # Published with
 
 - id: published_with
