@@ -102,13 +102,3 @@
   url = "https://www.google.com/recaptcha/api.js"
 [js.netlifyIdentity]
   url = "https://identity.netlify.com/v1/netlify-identity-widget.js"
-[js.googleAnalytics]
-  url = "https://www.googletagmanager.com/gtag/js"
-[js.googleTagManager]
-  url = "https://www.googletagmanager.com/gtm.js"
-[js.googleOptimize]
-  url = "https://www.googleoptimize.com/optimize.js"
-[js.microsoftClarity]
-  url = "https://www.clarity.ms/tag/"
-[js.baiduTongji]
-  url = "https://hm.baidu.com/hm.js"

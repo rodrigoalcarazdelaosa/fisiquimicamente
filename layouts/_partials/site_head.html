@@ -19,9 +19,6 @@
   {{ partial "font_styles.html" (dict "font" ($scr.Get "font_pack") "async" true) }}
 
   {{ $js := hugo.Data.assets.js }}
-  {{ if site.Params.marketing.analytics.google_optimize | and hugo.IsProduction }}
-    <script src="{{ $js.googleOptimize.url }}?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
-  {{- end -}}
 
   {{ $has_notes_tutor := partial "functions/has_notes_tutor.html" . }}
   {{ if or .Params.math site.Params.features.math.enable }}
