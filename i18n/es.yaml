@@ -6,6 +6,8 @@
   translation: Índice
 - id: on_this_page
   translation: En esta página
+- id: section_permalink
+  translation: Enlace a esta sección
 - id: back_to_top
   translation: Regreso al inicio
 - id: home

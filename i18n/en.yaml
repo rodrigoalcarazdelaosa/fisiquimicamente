@@ -9,6 +9,9 @@
 - id: on_this_page
   translation: Contents
 
+- id: section_permalink
+  translation: Link to this section
+
 - id: back_to_top
   translation: Back to top
 

@@ -220,15 +220,26 @@
   display: block;
 }
 
-/* Docs achnorjs links. */
-
-.anchorjs-link {
-  font-weight: 400;
+.heading-permalink {
+  margin-inline-start: 0.1875em;
+  padding-inline: 0.1875em;
+  opacity: 0;
   color: theme.$primary-dark;
   transition: color 0.16s linear;
+
+  svg {
+    width: 0.8em;
+    height: 0.8em;
+    vertical-align: -0.06em;
+  }
 }
 
-.anchorjs-link:hover {
+:hover > .heading-permalink,
+.heading-permalink:focus {
+  opacity: 1;
+}
+
+.heading-permalink:hover {
   color: theme.$primary;
   text-decoration: none;
 }

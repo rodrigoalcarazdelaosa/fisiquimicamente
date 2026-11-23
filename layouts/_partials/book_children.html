@@ -1,0 +1,25 @@
+{{- $add_permalinks := in (slice "book" "docs") .page.Type -}}
+{{- $show_summary := .show_summary -}}
+{{- $heading_ids := slice -}}
+
+{{- with .page.Pages }}
+  <ul class="list-unstyled">
+    {{ range . }}
+      {{ $title := .LinkTitle | default (title .File.TranslationBaseName) }}
+      {{ $id := "" }}
+      {{ if $add_permalinks }}
+        {{ $base_id := $title | plainify | anchorize | replaceRE "-+" "-" | default (path.Base .RelPermalink) }}
+        {{ $id = $base_id }}
+        {{ range seq (len $heading_ids) }}
+          {{ if not (in $heading_ids $id) }}{{ break }}{{ end }}
+          {{ $id = printf "%s-%d" $base_id . }}
+        {{ end }}
+        {{ $heading_ids = $heading_ids | append $id }}
+      {{ end }}
+      <li>
+        <h5{{ with $id }} id="{{ . }}"{{ end }}><a href="{{ .RelPermalink }}">{{ $title }}</a>{{ with $id }}{{ partial "components/heading_permalink.html" . }}{{ end }}</h5>
+        {{ if and $show_summary .Summary }}<p>{{ .Summary | plainify | emojify }}</p>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end -}}

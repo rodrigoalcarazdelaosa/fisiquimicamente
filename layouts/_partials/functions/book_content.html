@@ -8,7 +8,11 @@
     {{- $anchor := anchorize $alt -}}
     {{- $id := printf `id="%s"` $anchor -}}
     {{- if and $anchor (not (in $content $id)) -}}
-      {{- $content = replace $content (index . 0) (printf `%s %s>%s%s` (index . 1) $id (index . 2) (index . 4)) 1 -}}
+      {{- $permalink := "" -}}
+      {{- if and (ne (index . 1) "<h1") (in (slice "book" "docs") $.Type) -}}
+        {{- $permalink = partial "components/heading_permalink.html" $anchor -}}
+      {{- end -}}
+      {{- $content = replace $content (index . 0) (printf `%s %s>%s%s%s` (index . 1) $id (index . 2) $permalink (index . 4)) 1 -}}
       {{- $anchors = merge $anchors (dict $alt $anchor) -}}
     {{- end -}}
   {{- end -}}
