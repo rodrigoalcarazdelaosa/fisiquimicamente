@@ -202,12 +202,6 @@
   translation: No s'ha trobat la pàgina
 - id: 404_recommendations
   translation: Buscaves alguna d'aquestes?
-- id: cookie_message
-  translation: Aquest lloc web utilitza 🍪 cookies per garantir una millor experiència.
-- id: cookie_dismiss
-  translation: D'acord
-- id: cookie_learn
-  translation: Més informació
 - id: published_with
   translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
 # Paypal

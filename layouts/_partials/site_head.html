@@ -60,8 +60,6 @@
     <link rel="alternate" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ site.Title }}" />
   {{ end }}
 
-  {{ partial "cookie_consent" . }}
-
   {{ $title := partial "blox-core/functions/get_page_title" . }}
   <title>{{$title}}</title>
 
