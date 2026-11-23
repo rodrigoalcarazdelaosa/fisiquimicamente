@@ -1,0 +1,236 @@
+@use "sass:color";
+@use "../nord";
+@use "../theme";
+
+$button-fill: nord.$nord8;
+$button-hover: color.adjust($button-fill, $lightness: 10%, $space: hsl);
+$button-active: color.adjust($button-fill, $lightness: -10%, $space: hsl);
+
+.btn-lg {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: 0.3rem;
+}
+
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  border-radius: 0.2rem;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: nord.$nord0;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: 0.5rem;
+  font-size: 0.8rem;
+  line-height: 0.9; // Keep enough height for multiline buttons.
+  border-radius: 0.3rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+  &:hover {
+    color: nord.$nord0;
+    text-decoration: none;
+  }
+
+  &:is(:focus, .focus) {
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(theme.$primary, 0.25);
+  }
+
+  &:is(:disabled, .disabled) { opacity: 0.65; }
+  &:not(:disabled, .disabled) { cursor: pointer; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .btn { transition: none; }
+}
+
+a.btn.disabled, fieldset:disabled a.btn {
+  pointer-events: none;
+}
+
+// Button groups and toolbar layout
+
+.btn-group {
+  position: relative;
+  display: inline-flex;
+  vertical-align: middle;
+}
+
+.btn-group > .btn {
+  position: relative;
+  flex: 1 1 auto;
+}
+
+.btn-group > .btn:is(:hover, :focus, :active, .active) { z-index: 1; }
+
+.btn-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.btn-group > .btn:not(:first-child), .btn-group > .btn-group:not(:first-child) {
+  margin-left: -1px;
+}
+
+.btn-group > .btn:not(:last-child):not(.dropdown-toggle),
+.btn-group > .btn-group:not(:last-child) > .btn {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.btn-group > .btn:not(:first-child), .btn-group > .btn-group:not(:first-child) > .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.btn-group-toggle > .btn, .btn-group-toggle > .btn-group > .btn {
+  margin-bottom: 0;
+}
+
+.btn-links .btn {
+  padding: 5px 0.5rem;
+  line-height: 1;
+}
+
+.btn.btn-sm {
+  padding: 5px 0.4rem;
+  font-size: 14px;
+  border-radius: 0.2rem;
+}
+
+.btn-page-header {
+  margin: 8px 8px 8px 0;
+}
+
+.btn-toolbar .btn {
+  font-size: 0.9rem;
+  padding: 10px 14px 9px;
+  border-width: 0;
+  border-style: none;
+
+  &:first-child { border-radius: 6px 0 0 6px; }
+  &:last-child { border-radius: 0 6px 6px 0; }
+}
+
+// Button variants
+
+.btn-primary {
+  --btn-fill: #{$button-fill};
+  background-color: var(--btn-fill);
+  border-color: var(--btn-border, var(--btn-fill));
+  color: nord.$nord0;
+
+  &:is(:disabled, .disabled) { --btn-fill: #{theme.$primary}; }
+
+  &:where(:not(:disabled, .disabled)):is(:active, .active),
+  .show > &.dropdown-toggle {
+    --btn-fill: #{$button-active};
+    --btn-border: #{$button-active};
+  }
+}
+
+.btn.btn-primary,
+.dark .btn.btn-primary {
+  color: nord.$nord0;
+
+  &:is(:hover, :focus, .focus) {
+    --btn-fill: #{$button-hover};
+    color: nord.$nord0;
+  }
+}
+
+.dark .btn-primary:is(:disabled, .disabled) { --btn-fill: #{$button-fill}; }
+
+.btn-toolbar .btn.btn-primary:is(:active, .active) {
+  --btn-fill: #{$button-active};
+  --btn-border: #{$button-active};
+}
+
+// Dark toolbars keep the hover fill and the selected border at the same time.
+.dark .btn-toolbar .btn.btn-primary:is(:hover, :focus, .focus) {
+  --btn-fill: #{$button-hover};
+}
+
+.btn.btn-primary:is(:focus, .focus) { box-shadow: 0 0 0 0.2rem $button-hover; }
+
+.btn-primary:where(:not(:disabled, .disabled)):is(:active, .active):focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem theme.$primary-light;
+}
+
+.dark .btn-toolbar .btn-primary:is(:focus, .focus) {
+  box-shadow: 0 0 0 0.2rem $button-hover;
+}
+
+.btn-outline-primary {
+  color: nord.$nord0;
+  border-color: nord.$nord0;
+
+  &:is(:disabled, .disabled) {
+    color: theme.$primary;
+    background-color: transparent;
+  }
+
+  &:is(:focus, .focus) { box-shadow: 0 0 0 0.2rem $button-fill; }
+}
+
+.dark .btn-outline-primary {
+  color: nord.$nord6;
+  border-color: nord.$nord6;
+}
+
+.btn-outline-primary:is(:hover, :focus, .focus),
+.btn.btn-outline-primary:is(:hover, :focus, .focus),
+.dark .btn.btn-outline-primary:is(:hover, :focus, .focus),
+.btn-outline-primary:not(:disabled, .disabled):is(:active, .active),
+.show > .btn-outline-primary.dropdown-toggle {
+  color: nord.$nord0;
+  background-color: $button-fill;
+  border-color: $button-fill;
+}
+
+.btn-outline-primary:not(:disabled, .disabled):is(:active, .active):focus,
+.show > .btn-outline-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(theme.$primary, 0.5);
+}
+
+.btn-light {
+  color: nord.$nord0;
+  background-color: $button-fill;
+  border-color: $button-fill;
+
+  &:is(:disabled, .disabled) {
+    background-color: nord.$surface-light;
+    border-color: nord.$surface-light;
+  }
+
+  &:is(:hover, :focus, .focus) {
+    color: nord.$nord0;
+    background-color: $button-hover;
+    border-color: $button-hover;
+  }
+
+  &:is(:focus, .focus) { box-shadow: 0 0 0 0.2rem $button-hover; }
+
+  &:not(:disabled):not(.disabled):is(:active, .active),
+  .show > &.dropdown-toggle {
+    color: nord.$nord0;
+    background-color: $button-active;
+    border-color: $button-active;
+  }
+
+  &:not(:disabled, .disabled):is(:active, .active):focus,
+  .show > &.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(nord.$nord4, 0.5);
+  }
+}

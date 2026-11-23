@@ -1,6 +1,5 @@
 @use "../nord";
 
-@use "sass:color";
 @use "../theme";
 
 // Tables
@@ -122,118 +121,6 @@ textarea.form-control { height: auto; }
   }
 }
 
-// Buttons
-
-.btn-lg {
-  padding: 0.5rem 1rem;
-  font-size: 1.25rem;
-  line-height: 1.5;
-  border-radius: 0.3rem;
-}
-
-.btn-sm {
-  padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
-  line-height: 1.5;
-  border-radius: 0.2rem;
-}
-
-.btn {
-  display: inline-block;
-  font-weight: 400;
-  color: nord.$nord0;
-  text-align: center;
-  vertical-align: middle;
-  user-select: none;
-  background-color: transparent;
-  border: 1px solid transparent;
-  padding: 0.5rem;
-  font-size: 0.8rem;
-  line-height: 0.9; // Keep enough height for multiline buttons.
-  border-radius: 0.3rem;
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .btn { transition: none; }
-}
-
-.btn:hover {
-  color: nord.$nord0;
-  text-decoration: none;
-}
-
-.btn:focus, .btn.focus {
-  outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(theme.$primary, 0.25);
-}
-
-.btn.disabled, .btn:disabled {
-  opacity: 0.65;
-}
-
-.btn:not(:disabled):not(.disabled) { cursor: pointer; }
-
-a.btn.disabled, fieldset:disabled a.btn {
-  pointer-events: none;
-}
-
-.btn-primary:hover {
-  color: nord.$nord6;
-  background-color: color.adjust(theme.$primary, $lightness: -7.5%, $space: hsl);
-  border-color: color.adjust(theme.$primary, $lightness: -10%, $space: hsl);
-}
-
-.btn-primary:focus, .btn-primary.focus {
-  color: nord.$nord6;
-  background-color: color.adjust(theme.$primary, $lightness: -7.5%, $space: hsl);
-  border-color: color.adjust(theme.$primary, $lightness: -10%, $space: hsl);
-  box-shadow: 0 0 0 0.2rem rgba(color.mix(nord.$nord6, theme.$primary, 15%), 0.5);
-}
-
-.btn-primary.disabled, .btn-primary:disabled {
-  color: nord.$nord6;
-  background-color: theme.$primary;
-  border-color: theme.$primary;
-}
-
-.btn-primary:not(:disabled):not(.disabled):active,
-.btn-primary:not(:disabled):not(.disabled).active,
-.show > .btn-primary.dropdown-toggle {
-  color: nord.$nord6;
-  background-color: color.adjust(theme.$primary, $lightness: -10%, $space: hsl);
-  border-color: color.adjust(theme.$primary, $lightness: -12.5%, $space: hsl);
-}
-
-.btn-light.disabled, .btn-light:disabled {
-  color: nord.$nord0;
-  background-color: nord.$surface-light;
-  border-color: nord.$surface-light;
-}
-
-.btn-light:not(:disabled):not(.disabled):active:focus,
-.btn-light:not(:disabled):not(.disabled).active:focus,
-.show > .btn-light.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(nord.$nord4, 0.5);
-}
-
-.btn-outline-primary:hover {
-  color: nord.$nord6;
-  background-color: theme.$primary;
-  border-color: theme.$primary;
-}
-
-.btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: theme.$primary;
-  background-color: transparent;
-}
-
-.btn-outline-primary:not(:disabled):not(.disabled):active:focus,
-.btn-outline-primary:not(:disabled):not(.disabled).active:focus,
-.show > .btn-outline-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(theme.$primary, 0.5);
-}
-
 // Transitions
 
 .collapse:not(.show) { display: none; }
@@ -247,50 +134,6 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 @media (prefers-reduced-motion: reduce) {
   .collapsing { transition: none; }
-}
-
-// Button group
-
-.btn-group {
-  position: relative;
-  display: inline-flex;
-  vertical-align: middle;
-}
-
-.btn-group > .btn {
-  position: relative;
-  flex: 1 1 auto;
-}
-
-.btn-group > .btn:hover { z-index: 1; }
-
-.btn-group > .btn:focus, .btn-group > .btn:active, .btn-group > .btn.active {
-  z-index: 1;
-}
-
-.btn-toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
-
-.btn-group > .btn:not(:first-child), .btn-group > .btn-group:not(:first-child) {
-  margin-left: -1px;
-}
-
-.btn-group > .btn:not(:last-child):not(.dropdown-toggle),
-.btn-group > .btn-group:not(:last-child) > .btn {
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 0;
-}
-
-.btn-group > .btn:not(:first-child), .btn-group > .btn-group:not(:first-child) > .btn {
-  border-top-left-radius: 0;
-  border-bottom-left-radius: 0;
-}
-
-.btn-group-toggle > .btn, .btn-group-toggle > .btn-group > .btn {
-  margin-bottom: 0;
 }
 
 // Nav
@@ -505,39 +348,6 @@ a.badge-light:focus, a.badge-light.focus {
 .dark select {
   background: nord.$nord0;
   color: nord.$nord6;
-}
-
-.dark .btn-primary,
-.dark .btn.btn-primary.active {
-  color: initial;
-}
-
-.btn-light {
-  color: nord.$nord0;
-  background-color: nord.$nord8;
-  border-color: nord.$nord8;
-}
-
-.btn-light:hover {
-  color: nord.$nord0;
-  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
-  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
-}
-
-.btn-light:focus,
-.btn-light.focus {
-  color: nord.$nord0;
-  background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
-  border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
-  box-shadow: 0 0 0 0.2rem color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
-}
-
-.btn-light:not(:disabled):not(.disabled):active,
-.btn-light:not(:disabled):not(.disabled).active,
-.show > .btn-light.dropdown-toggle {
-  color: nord.$nord0;
-  background-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
-  border-color: color.adjust(nord.$nord8, $lightness: -10%, $space: hsl);
 }
 
 .dark .form-control {
