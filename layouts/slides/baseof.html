@@ -87,11 +87,6 @@
   {{ end }}
    <script src="{{ $cdn_url_reveal }}/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
 
-  {{/* Load third-party Reveal plugins. */}}
-  {{ if $.Param "slides.reveal_options.menu_enabled" }}
-    <script src="{{ partial "functions/script_url.html" $js.revealMenu }}" integrity="{{ $js.revealMenu.sri }}" crossorigin="anonymous"></script>
-  {{ end }}
-
   {{/* Initialize slides. */}}
   {{ $params := dict "slides" $.Params.slides "hasMarkdown" $hasMarkdown "mathjaxURL" $mathjaxURL }}
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" $params "minify" hugo.IsProduction) | fingerprint }}
