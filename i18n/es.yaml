@@ -253,20 +253,6 @@
 - id: paypal
   translation: Invítanos a un café
 
-# Feedback widget
-
-- id: feedback_widget_title
-  translation: Feedback
-
-- id: feedback_widget_question
-  translation: ¿Te ha resultado útil esta página?
-
-- id: feedback_widget_answer_positive
-  translation: 😍 Sí
-
-- id: feedback_widget_answer_negative
-  translation: 😡 No
-
 # Notes tutor
 
 - id: notes_tutor_title
