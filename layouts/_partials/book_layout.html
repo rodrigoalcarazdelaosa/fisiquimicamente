@@ -55,16 +55,9 @@
         <article class="article-style">
 
           {{/* Only auto-list page children if _index has no content (or if it isn't a .File?) */}}
-          {{ if and (not $article.content) (gt (len $.Page.Pages) 0) }}
-          <ul class="list-unstyled">
-            {{ range $.Page.Pages }}
-            <li>
-              <h5><a href="{{.RelPermalink}}">{{.LinkTitle | default (title .File.TranslationBaseName) }}</a></h5>
-              {{if .Summary}}<p>{{.Summary | plainify | emojify}}</p>{{end}}
-            </li>
-            {{end}}
-          </ul>
-          {{end}}
+          {{ if not $article.content }}
+            {{ partial "book_children.html" (dict "page" . "show_summary" true) }}
+          {{ end }}
 
           {{ $article.content }}
 

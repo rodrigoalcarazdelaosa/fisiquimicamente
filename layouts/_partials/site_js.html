@@ -22,14 +22,6 @@
   <script data-cfasync="false" defer src="{{ $gallery.RelPermalink }}" data-gallery-styles="{{ $gallery_styles.RelPermalink }}"></script>
 {{ end }}
 
-{{/* Load hash anchors for documentation pages. */}}
-{{ if in (slice "book" "docs") .Type }}
-<script src="{{ partial "functions/script_url.html" $js.anchor }}" integrity="{{ $js.anchor.sri }}" crossorigin="anonymous"></script>
-<script>
-  anchors.add();
-</script>
-{{ end }}
-
 {{ $search_provider := lower site.Params.features.search.provider }}
 {{ if eq $search_provider "wowchemy" }}
   {{/* Hugo Blox built-in search result template (Fuse). */}}

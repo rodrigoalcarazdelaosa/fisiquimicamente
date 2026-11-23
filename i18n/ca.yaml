@@ -4,6 +4,8 @@
   translation: Índex
 - id: on_this_page
   translation: En aquesta pàgina
+- id: section_permalink
+  translation: Enllaç a aquesta secció
 - id: back_to_top
   translation: Back to top
 - id: home

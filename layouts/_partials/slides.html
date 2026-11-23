@@ -9,6 +9,7 @@
     {{/* TODO: reintroduce a similar workaround if Goldmark requires it. */}}
     {{/* $content := replace .Content "<div class=\"footnotes\">\n\n<hr />" "<div class=\"footnotes\">" */}}
     {{ $content := partial "functions/content_scripts.html" .Content }}{{/* For Goldmark. */}}
+    {{ $content = replaceRE `(?i)(<iframe\b[^>]*?\s)src(\s*=\s*["']https://(?:phet\.colorado\.edu/sims/|player\.vimeo\.com/video/))` `${1}data-slide-embed data-src${2}` $content }}
 
     {{/* Let `---` delimit slides. In Goldmark, that is `<hr>`. Alternatively, for Blackfriday, use `<hr />`. */}}
     {{ range (split $content "<hr>") }}
