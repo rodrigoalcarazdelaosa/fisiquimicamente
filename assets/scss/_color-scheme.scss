@@ -16,7 +16,7 @@
   --menu-link-hover: #{theme.$dark-menu-text-active};
   --menu-active: #{theme.$dark-menu-text-active};
   --menu-brand: #{theme.$dark-menu-title};
-  --menu-shadow: rgba(255, 255, 255, 0.11);
+  --menu-shadow: #{rgba(nord.$nord6, 0.11)};
   --code-background: #{nord.$nord3};
   --code-text: #{nord.$nord6};
 }
@@ -37,7 +37,7 @@
   --menu-link-hover: #{theme.$menu-text};
   --menu-active: #{theme.$menu-text-active};
   --menu-brand: #{theme.$menu-title};
-  --menu-shadow: rgba(0, 0, 0, 0.11);
+  --menu-shadow: #{rgba(nord.$nord0, 0.11)};
   --code-background: #{nord.$nord4};
   --code-text: #{nord.$nord0};
 }

@@ -28,7 +28,7 @@ div.alert > div:first-child::before {
   top: -0.5rem;
   left: -2rem;
   font-size: 1.5rem;
-  color: #1976d2;
+  color: nord.$nord10;
   font-weight: 900;
   content: "ℹ️";
   width: 1.5rem;
@@ -49,9 +49,9 @@ div.alert a {
 
 .article-style aside,
 .alert-note {
-  color: #12537e;
-  background-color: #f6fbfe;
-  border-color: #1976d2;
+  color: nord.$nord0;
+  background-color: nord.$nord5;
+  border-color: nord.$nord10;
 }
 
 .alert-example hr {

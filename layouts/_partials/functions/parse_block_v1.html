@@ -23,7 +23,11 @@
 {{ $style_bg := "" }}
 
 {{ if $bg.color }}
-  {{ $style_bg = printf "background-color: %s;" ($bg.color | default "transparent") }}
+  {{ $color := $bg.color }}
+  {{ if eq (strings.TrimPrefix "#" (lower $color)) "fffff8" }}
+    {{ $color = "var(--page-background)" }}
+  {{ end }}
+  {{ $style_bg = printf "background-color: %s;" $color }}
 {{ end }}
 
 {{ if and $bg.gradient_start $bg.gradient_end }}

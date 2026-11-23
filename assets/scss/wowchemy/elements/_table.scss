@@ -17,23 +17,23 @@ table {
 }
 
 .dark .table {
-  color: white;
+  color: nord.$nord6;
 }
 
 .dark table table {
-  background-color: rgb(40, 42, 54);
+  background-color: nord.$nord0;
 }
 
 /* Table Striped */
 .dark table > tbody > tr:nth-child(odd) > td,
 .dark table > tbody > tr:nth-child(odd) > th {
-  background-color: rgb(50, 52, 64);
+  background-color: nord.$nord1;
 }
 
 /* Table Hover */
 .dark table > tbody > tr:hover > td,
 .dark table > tbody > tr:hover > th {
-  background-color: rgb(60, 62, 74);
+  background-color: nord.$nord2;
 }
 
 // Bordes estilo booktabs

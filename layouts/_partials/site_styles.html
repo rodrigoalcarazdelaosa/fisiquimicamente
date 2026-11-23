@@ -39,8 +39,8 @@
 {{ end }}
 
 {{ if in $classes "chroma" }}
-  {{ $light := site.Params.features.syntax_highlighter.theme_light | default "github-light" }}
-  {{ $dark := site.Params.features.syntax_highlighter.theme_dark | default "dracula" }}
+  {{ $light := site.Params.features.syntax_highlighter.theme_light | default "nord" }}
+  {{ $dark := site.Params.features.syntax_highlighter.theme_dark | default "nord" }}
   {{ $lightCSS := resources.Get (printf "css/libs/chroma/%s.css" $light) | minify }}
   {{ if eq $light $dark }}
     <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}">

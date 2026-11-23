@@ -1,6 +1,19 @@
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
+:root {
+  --r-background-color: #eceff4;
+  --r-main-color: #2e3440;
+  --r-heading-color: #2e3440;
+  --r-link-color: #5e81ac;
+  --r-link-color-dark: #4c566a;
+  --r-link-color-hover: #bf616a;
+  --r-selection-background-color: #2e3440;
+  --r-selection-color: #eceff4;
+  --r-overlay-element-bg-color: 46, 52, 64;
+  --r-overlay-element-fg-color: 236, 239, 244;
+}
+
 body {
   background: #eceff4;
   background-color: #eceff4;

@@ -7,17 +7,17 @@
 <style>
 :root {
   color-scheme: light;
-  --ink: #142c3c;
-  --muted: #506572;
-  --paper: #f2f6f7;
-  --card: #fff;
-  --field: #f7fafb;
-  --border: #d6e1e5;
-  --teal: #076d64;
-  --teal-hover: #05564f;
-  --soft-teal: #eaf5f1;
-  --mint: #a1ecd6;
-  --navy: #102d3e;
+  --ink: #2e3440;
+  --muted: #4c566a;
+  --paper: #eceff4;
+  --card: #eceff4;
+  --field: #e5e9f0;
+  --border: #d8dee9;
+  --teal: color-mix(in srgb, #2e3440 65%, #8fbcbb);
+  --teal-hover: color-mix(in srgb, #2e3440 80%, #8fbcbb);
+  --soft-teal: color-mix(in srgb, #eceff4 80%, #8fbcbb);
+  --mint: #8fbcbb;
+  --navy: #2e3440;
   --radius: 16px;
   --gap: clamp(12px, 1.45vw, 22px);
   --gutter: clamp(12px, 3vw, 42px);
@@ -33,21 +33,21 @@ button, input, select { font: inherit; color: inherit; }
 button, summary { cursor: pointer; }
 button:disabled { cursor: default; opacity: .54; }
 a { color: var(--teal); text-underline-offset: .17em; }
-:focus-visible { outline: 3px solid #247f75; outline-offset: 3px; }
+:focus-visible { outline: 3px solid #5e81ac; outline-offset: 3px; }
 [hidden] { display: none !important; }
 
 .wrap { width: min(100%, 1490px); margin-inline: auto; padding-inline: max(var(--gutter), env(safe-area-inset-left)) max(var(--gutter), env(safe-area-inset-right)); }
-.site-head { background: var(--navy); color: white; }
+.site-head { background: var(--navy); color: #eceff4; }
 .mast { padding-block: clamp(19px, 2.6vw, 33px) clamp(13px, 1.7vw, 23px); }
 .mast h1 { margin: 0; font-size: clamp(32px, 4.7vw, 56px); font-weight: 670; line-height: 1; letter-spacing: -.065em; }
-.mast p { margin-top: 9px; max-width: 54ch; color: #c9dce4; font-size: clamp(13px, 1.45vw, 17px); }
+.mast p { margin-top: 9px; max-width: 54ch; color: #d8dee9; font-size: clamp(13px, 1.45vw, 17px); }
 .nav-shell { background: var(--card); border-bottom: 1px solid var(--border); }
 .tabs { display: flex; flex-wrap: wrap; gap: 4px; padding-block: 6px; }
 .tabs button {
   min-height: 44px; padding: 8px 13px; border: 0; border-radius: 8px;
   background: transparent; color: var(--muted); font-size: 14px; font-weight: 650;
 }
-.tabs button[aria-selected=true] { background: var(--soft-teal); color: #07554d; }
+.tabs button[aria-selected=true] { background: var(--soft-teal); color: #2e3440; }
 .tabs button:not([aria-selected=true]):hover { background: var(--field); color: var(--ink); }
 
 main { padding-block: var(--gap) 42px; }
@@ -73,7 +73,7 @@ label { display: grid; align-content: start; gap: 4px; min-width: 0; font-size: 
 label span { min-width: 0; }
 input[type=number], select {
   width: 100%; min-width: 0; min-height: 40px; padding: 6px 8px;
-  color: var(--ink); background: var(--field); border: 1px solid #bdcdd4; border-radius: 8px;
+  color: var(--ink); background: var(--field); border: 1px solid #d8dee9; border-radius: 8px;
   font-size: 15px; font-weight: 500; font-variant-numeric: tabular-nums;
 }
 input[type=number]:focus, select:focus { background: var(--card); }
@@ -104,16 +104,16 @@ details[open] > summary::after { transform: rotate(225deg); margin-bottom: -3px;
 .layer + .layer { margin-top: 8px; }
 .layer input { background: var(--card); }
 .btn {
-  min-height: 38px; padding: 7px 12px; border: 1px solid #bdcdd4; border-radius: 8px;
+  min-height: 38px; padding: 7px 12px; border: 1px solid #d8dee9; border-radius: 8px;
   background: var(--card); font-size: 13px; font-weight: 680;
 }
 .btn:hover:not(:disabled) { background: var(--field); }
-.btn.primary { color: white; background: var(--teal); border-color: var(--teal); }
+.btn.primary { color: #eceff4; background: var(--teal); border-color: var(--teal); }
 .btn.primary:hover:not(:disabled) { background: var(--teal-hover); }
 .layer .btn { min-height: 32px; background: transparent; }
 .runbox {
   position: sticky; top: 8px; z-index: 2; padding: 10px; gap: 5px;
-  box-shadow: 0 5px 24px #14334719;
+  box-shadow: 0 5px 24px #2e344019;
 }
 .run { display: grid; grid-template-columns: 1fr auto; gap: 7px; }
 .run .btn { min-height: 44px; }
@@ -126,7 +126,7 @@ details[open] > summary::after { transform: rotate(225deg); margin-bottom: -3px;
 .status { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
 #balance-panel { scroll-margin-top: 12px; }
 #balance-panel:focus { outline: none; }
-#balance-panel:focus-visible { outline: 3px solid #247f75; }
+#balance-panel:focus-visible { outline: 3px solid #5e81ac; }
 #run-progress { width: 100%; height: 5px; border: 0; border-radius: 9px; accent-color: var(--teal); }
 .metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 123px), 1fr)); gap: 8px; }
 .metric {
@@ -148,11 +148,11 @@ canvas { display: block; width: 100%; height: 244px; touch-action: pan-y; }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12px; color: var(--muted); }
 .key { display: inline-flex; align-items: center; gap: 5px; }
 .key svg { flex: none; }
-.scale { height: 8px; border-radius: 5px; background: linear-gradient(90deg,#00224e,#123570,#3b496c,#575d6d,#707173,#8a8678,#a59c74,#c3b369,#e1cc55,#fee838); }
+.scale { height: 8px; border-radius: 5px; background: linear-gradient(90deg,#2e3440,#4c566a,#5e81ac,#88c0d0,#ebcb8b); }
 .scalelabel { display: flex; justify-content: space-between; margin-top: 3px; }
 .readout { min-height: 1.5em; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
 #map { cursor: crosshair; }
-.notice { color: #803e18; font-size: 13px; }
+.notice { color: color-mix(in srgb, #2e3440 55%, #d08770); font-size: 13px; }
 .comparison { max-width: 1100px; }
 .comparison section + section { margin-top: 24px; }
 .context { max-width: 85ch; overflow-wrap: anywhere; }
@@ -163,8 +163,8 @@ table { width: 100%; border-collapse: collapse; font-size: 13px; }
 td, th { padding: 8px 9px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; }
 th { background: var(--field); color: var(--muted); font-weight: 670; }
 td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
-.pass { color: #146348; }
-.fail { color: #a22c28; }
+.pass { color: var(--teal); }
+.fail { color: color-mix(in srgb, #2e3440 35%, #bf616a); }
 .check-status:empty { display: none; }
 .table-hint { display: none; }
 .model-controls { align-content: start; }
@@ -214,7 +214,7 @@ td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
 .map-frame { position: relative; }
 #map-marker {
   position: absolute; min-width: 3px; min-height: 3px; pointer-events: none;
-  outline: 1px solid white; box-shadow: 0 0 0 2px #102d3e; z-index: 1;
+  outline: 1px solid #eceff4; box-shadow: 0 0 0 2px #2e3440; z-index: 1;
 }
 /* A shared numerical scale, with separate symbols for clipped and empty cells. */
 .plot-controls { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
@@ -222,16 +222,16 @@ td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
 .time-extent output { display: block; color: var(--ink); font-weight: 670; }
 .plot-controls .check { font-size: 12px; }
 .band-key { display: inline-flex; gap: 6px; align-items: center; }
-.band-key::before { content: ""; background: #16685829; width: 18px; height: 9px; border: 1px solid #769b91; }
+.band-key::before { content: ""; background: #8fbcbb29; width: 18px; height: 9px; border: 1px solid #5e81ac; }
 .scalelabel { font-size: 12px; font-variant-numeric: tabular-nums; }
 .map-scale .scale { margin-top: 4px; }
 .map-state { display: inline-flex; align-items: center; gap: 5px; }
-.map-state i { width: 13px; height: 13px; border: 1px solid #8293a0; position: relative; }
-.map-state i { display: grid; place-items: center; line-height: 1; font-style: normal; color: #34445d; }
+.map-state i { width: 13px; height: 13px; border: 1px solid #81a1c1; position: relative; }
+.map-state i { display: grid; place-items: center; line-height: 1; font-style: normal; color: #3b4252; }
 .absorption-bars { display: grid; gap: 10px; padding-block: 0 10px; }
 .abs-row { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: baseline; gap: 4px; font-size: 13px; }
 .abs-track { grid-column: 1/-1; height: 11px; position: relative; background: var(--field); border-radius: 2px; }
-.abs-track i { display: block; height: 100%; background: #a35121; border-radius: 2px; }
+.abs-track i { display: block; height: 100%; background: #d08770; border-radius: 2px; }
 .abs-track b { position: absolute; top: 4px; border-top: 2px solid var(--ink); min-width: 1px; }
 .abs-track b::before, .abs-track b::after { content: ""; position: absolute; top: -4px; height: 6px; border-left: 1px solid var(--ink); }
 .abs-track b::before { left: 0; }
@@ -994,7 +994,7 @@ const fmt = (v, digits = 3) => v.toLocaleString('es-ES',{maximumFractionDigits:d
 const sci = v => v === 0 ? '0' : Math.abs(v) < 0.001 || Math.abs(v) >= 10000 ? v.toExponential(2).replace('.',',') : fmt(v,4);
 const pct = v => fmt(100*v,2)+' %';
 const densityPct = v => sci(100*v)+' %';
-const colors = {R:'#126551',T:'#245fa7',A:'#a35121',L:'#794081',U:'#525b67'};
+const colors = {R:'#4c566a',T:'#5e81ac',A:'#d08770',L:'#b48ead',U:'#434c5e'};
 const names = {R:'Reflectancia',T:'Transmitancia inferior',A:'Absorción',L:'Escape lateral',U:'Residual',B:'Transmisión sin dispersión'};
 const presets = {
   layered:defaults,
@@ -1013,8 +1013,8 @@ let worker = null, data = null, approximation = null, analytic = null, lastMap =
 let verification = false;
 let mapSelection = null;
 let simulationPending = false;
-const componentColors = ['#263748','#9a3b83'];
-const modelColor = '#176656';
+const componentColors = ['#2e3440','#b48ead'];
+const modelColor = '#5e81ac';
 
 function geometryControls() {
   const box = get('geo').value === 'box';
@@ -1312,7 +1312,7 @@ function canvas(id) {
 }
 
 function textAt(ctx,text,x,y,align='center') {
-  ctx.fillStyle = '#516671';
+  ctx.fillStyle = '#4c566a';
   ctx.textAlign = align;
   ctx.fillText(text,x,y);
 }
@@ -1329,7 +1329,7 @@ function grid(plot,xmax,ymax,xlabel,yformat = sci,xformat = v => fmt(v,2),yTicks
   ctx.lineWidth = 1;
   yTicks.forEach((value,i) => {
     const y = Y(value);
-    ctx.strokeStyle = '#dde7eb';
+    ctx.strokeStyle = '#d8dee9';
     ctx.beginPath();
     ctx.moveTo(left,y);
     ctx.lineTo(right,y);
@@ -1374,8 +1374,8 @@ function profilePlot() {
   const split = get('profile-split').checked, log = get('profile-log').checked;
   const band = get('profile-band').checked;
   const series = [[data.profile,modelColor,false,'Monte Carlo']];
-  if (approximation) series.push([approximation.profile,'#7c4286',[7,4],'P1 + haz directo']);
-  if (analytic) series.push([analytic,'#3c5265',[2,4],'Beer–Lambert']);
+  if (approximation) series.push([approximation.profile,'#b48ead',[7,4],'P1 + haz directo']);
+  if (analytic) series.push([analytic,'#3b4252',[2,4],'Beer–Lambert']);
   if (split) {
     series.push([data.direct,componentColors[0],[9,3,2,3],'Directa']);
     series.push([data.profile.map((v,i) => Math.max(0,v-data.direct[i])),componentColors[1],[4,4],'Difusa']);
@@ -1396,9 +1396,9 @@ function profilePlot() {
   if (decades && decades.at(-1)!==high-low) decades.push(high-low);
   const {X,Y: y,top,bottom} = grid(plot,data.depth,high-low,'Profundidad z (cm)',format,sci,decades);
   const Y = v => logScale ? (v>0 ? y(Math.log10(Math.max(10**low,v))-low) : NaN) : y(v);
-  for (const z of data.z.slice(1,-1)) line(ctx,[[X(z),top],[X(z),bottom]],'#a9bdc7',true);
+  for (const z of data.z.slice(1,-1)) line(ctx,[[X(z),top],[X(z),bottom]],'#81a1c1',true);
   if (band) {
-    ctx.fillStyle = '#16685829';
+    ctx.fillStyle = '#8fbcbb29';
     for (let i=0;i<upper.length;i++) {
       if (!data.profile[i] && logScale) continue;
       const topEdge = Y(upper[i]);
@@ -1460,7 +1460,7 @@ function drawDistributions(ctx, series, edges, X, Y) {
 
 function dot(ctx,x,y,color,radius=3) {
   ctx.fillStyle = color;
-  ctx.strokeStyle = '#fff';
+  ctx.strokeStyle = '#eceff4';
   ctx.lineWidth = 1;
   ctx.beginPath();
   ctx.arc(x,y,radius,0,2*Math.PI);
@@ -1498,14 +1498,14 @@ function timePlot() {
     (data.p.substrate && face===1 ? ' El sustrato efectivo aporta retardo cero.' : '');
 }
 
-// Cividis samples as distributed by Plotly. See doi:10.1371/journal.pone.0199239.
-const palette = ['00224e','123570','3b496c','575d6d','707173','8a8678','a59c74','c3b369','e1cc55','fee838']
+// Nord stops in increasing luminance, shared with the scale above.
+const palette = ['2e3440','4c566a','5e81ac','88c0d0','ebcb8b']
   .map(hex => hex.match(/../g).map(channel => parseInt(channel,16)));
 const lockedRanges = new Map();
 const mapStates = {
-  zero:{color:'#eef1f3',label:'Cero estimado',mark:'×'},
-  low:{color:'#d4ddeb',label:'Por debajo del rango',mark:'·'},
-  high:{color:'#f3c79d',label:'Por encima del rango',mark:'+'}
+  zero:{color:'#eceff4',label:'Cero estimado',mark:'×'},
+  low:{color:'#d8dee9',label:'Por debajo del rango',mark:'·'},
+  high:{color:'#ebcb8b',label:'Por encima del rango',mark:'+'}
 };
 
 function mapColor(logFraction) {
@@ -1553,11 +1553,11 @@ function mapPlot() {
       if (state || (uncertain && errors[index] > 0.3*value)) {
         const cx=(x+end)/2, cy=(y1+y2)/2;
         const size=Math.min(1.25,(end-x)/3,(y2-y1)/3);
-        ctx.fillStyle = state ? '#34445d' : '#fff';
+        ctx.fillStyle = state ? '#3b4252' : '#eceff4';
         if (!state || state===mapStates.low) ctx.fillRect(cx-size/2,cy-size/2,size,size);
         else {
           const diagonal = state===mapStates.zero;
-          ctx.strokeStyle = '#34445d';
+          ctx.strokeStyle = '#3b4252';
           ctx.lineWidth = 0.8;
           ctx.beginPath();
           ctx.moveTo(cx-size,cy-(diagonal ? size : 0));
@@ -1569,7 +1569,7 @@ function mapPlot() {
       }
     }
   }
-  for (const z of data.z.slice(1,-1)) line(ctx,[[left,Y(z)],[right,Y(z)]],'#cdd8e2',true);
+  for (const z of data.z.slice(1,-1)) line(ctx,[[left,Y(z)],[right,Y(z)]],'#d8dee9',true);
   const nTicks = w<300 ? 2 : 4;
   for (let i=0;i<=nTicks;i++) {
     const t = i/nTicks;
@@ -1807,7 +1807,7 @@ function drawFlux() {
   get('flux-parts').innerHTML = useFour ? ['Rc','Rd','Tc','Td'].map(k => '<span>'+k[0]+'<sub>'+k[1]+'</sub> '+pct(v[k])+'</span>').join('') : '';
   charts.forEach(({ctx,w,h},k) => {
     const {X,Y,top,bottom} = grid({ctx,w,h},xmax,1,xLabel,pct,xFormat);
-    line(ctx,[[X(x),top],[X(x),bottom]],'#9bafb5',true);
+    line(ctx,[[X(x),top],[X(x),bottom]],'#81a1c1',true);
     const start = panels ? 2*k : 0;
     const shown = panels ? series.slice(start,start+2) : series;
     shown.forEach(({points,color,dash}) => line(ctx,points.map(([a,b]) => [X(a),Y(b)]),color,dash));
@@ -1871,7 +1871,7 @@ function drawSpectral() {
   const series = [['Reflectancia',colors.R],['Transmitancia',colors.T],['Absorción',colors.A]];
   const {ctx} = plot;
   const {X,Y,top,bottom} = grid(plot,400,1,'Longitud de onda (nm)',pct,v => v+380);
-  line(ctx,[[X(lambda-380),top],[X(lambda-380),bottom]],'#9bafb5',true);
+  line(ctx,[[X(lambda-380),top],[X(lambda-380),bottom]],'#81a1c1',true);
   series.forEach(([,color],i) => line(ctx,rows.map(row => [X(row[0]-380),Y(row[i+1])]),color,i===1));
   series.forEach(([,color],i) => dot(ctx,X(lambda-380),Y(rows[selected][i+1]),color));
   get('spectral-legend').innerHTML = series.map(([label,color],i) => key(label,color,i===1)).join('');

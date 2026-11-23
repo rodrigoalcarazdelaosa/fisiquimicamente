@@ -1,3 +1,5 @@
+@use "../nord";
+
 // Print styles
 
 @media print {
@@ -13,7 +15,7 @@
   pre { white-space: pre-wrap !important; }
 
   pre, blockquote {
-    border: 1px solid #adb5bd;
+    border: 1px solid nord.$nord9;
     page-break-inside: avoid;
   }
 
@@ -36,9 +38,9 @@
 
   .container { min-width: 992px; }
 
-  .badge { border: 1px solid #000; }
+  .badge { border: 1px solid nord.$nord0; }
 
   .table td, .table th {
-    background-color: #fff !important;
+    background-color: nord.$surface-light !important;
   }
 }

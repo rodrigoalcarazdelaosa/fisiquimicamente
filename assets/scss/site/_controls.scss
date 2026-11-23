@@ -8,21 +8,21 @@
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #212529;
+  color: nord.$nord0;
 }
 
 .table th, .table td {
   padding: 0.75rem;
   vertical-align: top;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid nord.$nord4;
 }
 
 .table thead th {
   vertical-align: bottom;
-  border-bottom: 2px solid #dee2e6;
+  border-bottom: 2px solid nord.$nord4;
 }
 
-.table tbody + tbody { border-top: 2px solid #dee2e6; }
+.table tbody + tbody { border-top: 2px solid nord.$nord4; }
 
 .table-responsive {
   display: block;
@@ -64,7 +64,7 @@
 }
 
 .form-control:disabled, .form-control[readonly] {
-  background-color: #e9ecef;
+  background-color: nord.$nord5;
   opacity: 1;
 }
 
@@ -77,12 +77,12 @@ input[type="month"].form-control {
 
 select.form-control:-moz-focusring {
   color: transparent;
-  text-shadow: 0 0 0 #495057;
+  text-shadow: 0 0 0 nord.$nord3;
 }
 
 select.form-control:focus::-ms-value {
   color: theme.$primary;
-  background-color: #fff;
+  background-color: nord.$surface-light;
 }
 
 select.form-control[size], select.form-control[multiple] {
@@ -141,7 +141,7 @@ textarea.form-control { height: auto; }
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #212529;
+  color: nord.$nord0;
   text-align: center;
   vertical-align: middle;
   user-select: none;
@@ -159,7 +159,7 @@ textarea.form-control { height: auto; }
 }
 
 .btn:hover {
-  color: #212529;
+  color: nord.$nord0;
   text-decoration: none;
 }
 
@@ -179,20 +179,20 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-primary:hover {
-  color: #fff;
+  color: nord.$nord6;
   background-color: color.adjust(theme.$primary, $lightness: -7.5%, $space: hsl);
   border-color: color.adjust(theme.$primary, $lightness: -10%, $space: hsl);
 }
 
 .btn-primary:focus, .btn-primary.focus {
-  color: #fff;
+  color: nord.$nord6;
   background-color: color.adjust(theme.$primary, $lightness: -7.5%, $space: hsl);
   border-color: color.adjust(theme.$primary, $lightness: -10%, $space: hsl);
-  box-shadow: 0 0 0 0.2rem rgba(color.mix(white, theme.$primary, 15%), 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(color.mix(nord.$nord6, theme.$primary, 15%), 0.5);
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  color: #fff;
+  color: nord.$nord6;
   background-color: theme.$primary;
   border-color: theme.$primary;
 }
@@ -200,25 +200,25 @@ a.btn.disabled, fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active,
 .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
-  color: #fff;
+  color: nord.$nord6;
   background-color: color.adjust(theme.$primary, $lightness: -10%, $space: hsl);
   border-color: color.adjust(theme.$primary, $lightness: -12.5%, $space: hsl);
 }
 
 .btn-light.disabled, .btn-light:disabled {
-  color: #212529;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
+  color: nord.$nord0;
+  background-color: nord.$surface-light;
+  border-color: nord.$surface-light;
 }
 
 .btn-light:not(:disabled):not(.disabled):active:focus,
 .btn-light:not(:disabled):not(.disabled).active:focus,
 .show > .btn-light.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(216, 217, 219, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(nord.$nord4, 0.5);
 }
 
 .btn-outline-primary:hover {
-  color: #fff;
+  color: nord.$nord6;
   background-color: theme.$primary;
   border-color: theme.$primary;
 }
@@ -313,7 +313,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .nav-link.disabled {
-  color: #6c757d;
+  color: nord.$nord3;
   pointer-events: none;
   cursor: default;
 }
@@ -355,13 +355,13 @@ a.badge:hover, a.badge:focus {
 }
 
 a.badge-light:hover, a.badge-light:focus {
-  color: #212529;
-  background-color: #dae0e5;
+  color: nord.$nord0;
+  background-color: nord.$nord4;
 }
 
 a.badge-light:focus, a.badge-light.focus {
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(248, 249, 250, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(nord.$nord6, 0.5);
 }
 
 // Alert
@@ -375,7 +375,7 @@ a.badge-light:focus, a.badge-light.focus {
   border-radius: 0.25rem;
 }
 
-.alert-warning hr { border-top-color: #ffe8a1; }
+.alert-warning hr { border-top-color: nord.$nord13; }
 
 // Media
 
@@ -438,7 +438,7 @@ a.badge-light:focus, a.badge-light.focus {
 .bs-tooltip-top .arrow::before {
   top: 0;
   border-width: 0.4rem 0.4rem 0;
-  border-top-color: #000;
+  border-top-color: nord.$nord0;
 }
 
 .bs-tooltip-right {
@@ -454,7 +454,7 @@ a.badge-light:focus, a.badge-light.focus {
 .bs-tooltip-right .arrow::before {
   right: 0;
   border-width: 0.4rem 0.4rem 0.4rem 0;
-  border-right-color: #000;
+  border-right-color: nord.$nord0;
 }
 
 .bs-tooltip-bottom {
@@ -468,7 +468,7 @@ a.badge-light:focus, a.badge-light.focus {
 .bs-tooltip-bottom .arrow::before {
   bottom: 0;
   border-width: 0 0.4rem 0.4rem;
-  border-bottom-color: #000;
+  border-bottom-color: nord.$nord0;
 }
 
 .bs-tooltip-left {
@@ -484,27 +484,27 @@ a.badge-light:focus, a.badge-light.focus {
 .bs-tooltip-left .arrow::before {
   left: 0;
   border-width: 0.4rem 0 0.4rem 0.4rem;
-  border-left-color: #000;
+  border-left-color: nord.$nord0;
 }
 
 .tooltip-inner {
   max-width: 200px;
   padding: 0.25rem 0.5rem;
   font-family: theme.$font-nav, serif;
-  color: #fff;
+  color: nord.$nord6;
   text-align: center;
-  background-color: #000;
+  background-color: nord.$nord0;
   border-radius: 0.25rem;
 }
 
 .dark input {
-  color: rgb(248, 248, 242);
+  color: nord.$nord6;
   background: theme.$dark-background;
 }
 
 .dark select {
-  background: rgb(40, 42, 54);
-  color: rgb(248, 248, 242);
+  background: nord.$nord0;
+  color: nord.$nord6;
 }
 
 .dark .btn-primary,
@@ -513,20 +513,20 @@ a.badge-light:focus, a.badge-light.focus {
 }
 
 .btn-light {
-  color: #212529;
+  color: nord.$nord0;
   background-color: nord.$nord8;
   border-color: nord.$nord8;
 }
 
 .btn-light:hover {
-  color: #212529;
+  color: nord.$nord0;
   background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
   border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
 }
 
 .btn-light:focus,
 .btn-light.focus {
-  color: #212529;
+  color: nord.$nord0;
   background-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
   border-color: color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);
   box-shadow: 0 0 0 0.2rem color.adjust(nord.$nord8, $lightness: 10%, $space: hsl);

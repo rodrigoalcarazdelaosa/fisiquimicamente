@@ -4,7 +4,7 @@
 /* Table of contents shared by articles and books. */
 
 .docs-toc-title {
-  color: #b5b5b5;
+  color: var(--page-text);
   font-size: 0.875rem;
   font-weight: 600;
   padding-left: calc(1.5rem + 1px);

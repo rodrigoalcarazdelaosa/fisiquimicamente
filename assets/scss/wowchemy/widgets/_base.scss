@@ -37,7 +37,7 @@
 
 .home-section.light,
 .home-section.light h1 {
-  color: #000;
+  color: nord.$nord0;
 }
 
 .home-section.dark a {
@@ -50,7 +50,7 @@
 .home-section.dark h2,
 .home-section.dark h3,
 .home-section.dark a:not(.btn) {
-  color: #fff;
+  color: nord.$nord6;
 }
 
 /* Underline links in dark sections to separate them from text */
@@ -76,7 +76,7 @@
   position: relative;
 }
 .home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a):after {
-  background: #fff;
+  background: nord.$surface-light;
   content: "";
   height: 2px;
   left: 0;
@@ -208,7 +208,7 @@
  **************************************************/
 
 .talk-metadata {
-  color: #4b4f56;
+  color: nord.$nord3;
   font-size: 0.8rem;
 }
 
