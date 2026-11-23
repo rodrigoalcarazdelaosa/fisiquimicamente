@@ -83,8 +83,6 @@ extensions:
   cms:
     branch: main
     local_backend: false
-  academicons:
-    enable: false
 
 sharing_image: sharing.png
 sharing_image_en: sharing-en.png

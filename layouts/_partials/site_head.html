@@ -22,7 +22,6 @@
     <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
   {{- end -}}
 
-  {{ $css := hugo.Data.assets.css }}
   {{ $js := hugo.Data.assets.js }}
 
   {{ $has_notes_tutor := partial "functions/has_notes_tutor.html" . }}
@@ -32,10 +31,6 @@
       {{ $mathjax_config.Content | safeJS }}
       {{ if $has_notes_tutor }}window.MathJax.loader.load.push('ui/safe');{{ end }}
     </script>
-  {{ end }}
-
-  {{ if site.Params.extensions.academicons.enable }}
-    <link rel="stylesheet" href="{{ printf $css.academicons.url $css.academicons.version }}" integrity="{{ $css.academicons.sri }}" crossorigin="anonymous" media="print" onload="this.media='all'">
   {{ end }}
 
   {{ range $name, $asset := $js }}
