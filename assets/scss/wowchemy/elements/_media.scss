@@ -23,6 +23,37 @@ video {
   margin: 0 auto;
 }
 
+.hero-layout {
+  --hero-gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--hero-gap);
+
+  > div {
+    flex: 0 0 100%;
+    min-inline-size: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .hero-layout > div:not(.hero-brand) {
+    flex-basis: calc((100% - var(--hero-gap)) / 2);
+  }
+
+  .hero-media-first { order: -1; }
+
+  .hero-brand {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    justify-items: center;
+  }
+
+  .hero-brand > img {
+    inline-size: calc(100% + var(--hero-gap));
+    max-inline-size: none;
+  }
+}
+
 .hero-media {
   display: flex;
   align-items: center;
