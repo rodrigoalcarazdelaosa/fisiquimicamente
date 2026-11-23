@@ -26,10 +26,6 @@
 [js.reveal]
   version = "5.2.1"
   url = "https://cdn.jsdelivr.net/npm/reveal.js@%s"
-[js.revealMenu]
-  version = "2.1.0"
-  url = "https://cdn.jsdelivr.net/npm/reveal.js-menu@%s/menu.js"
-  sri = "sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA="
 [js.liteYouTube]
   version = "1.9.0"
   url = "https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@%s/lite-youtube.min.js"

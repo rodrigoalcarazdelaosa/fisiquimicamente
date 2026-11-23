@@ -11,7 +11,7 @@ function revealOptions(value) {
   ]));
 }
 
-const {menuEnabled, ...options} = revealOptions(slides?.reveal_options || {});
+const options = revealOptions(slides?.reveal_options || {});
 const plugins = [
   ...(hasMarkdown ? [RevealMarkdown] : []),
   RevealSearch, RevealNotes,
@@ -19,7 +19,6 @@ const plugins = [
   RevealZoom,
 ];
 if (mathjaxURL) options.mathjax3 = {...options.mathjax3, mathjax: mathjaxURL};
-if (menuEnabled) plugins.push(RevealMenu);
 
 const printView = new URLSearchParams(location.search).has('print-pdf');
 for (const frame of document.querySelectorAll('iframe[data-slide-embed]')) {
