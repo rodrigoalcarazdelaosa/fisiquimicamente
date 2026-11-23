@@ -3,7 +3,8 @@
 <head>
 
   {{/* Asset versions */}}
-  {{ $cdn_url_reveal := "https://cdn.jsdelivr.net/npm/reveal.js@5.2.1" }}
+  {{ $js := hugo.Data.assets.js }}
+  {{ $cdn_url_reveal := partial "functions/script_url.html" $js.reveal }}
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -72,11 +73,12 @@
 
   {{/* Load third-party Reveal plugins. */}}
   {{ if $.Param "slides.reveal_options.menu_enabled" }}
-    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.js" integrity="sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA=" crossorigin="anonymous"></script>
+    <script src="{{ partial "functions/script_url.html" $js.revealMenu }}" integrity="{{ $js.revealMenu.sri }}" crossorigin="anonymous"></script>
   {{ end }}
 
   {{/* Initialize slides. */}}
-  {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" (dict "slides" $.Params.slides) "minify" hugo.IsProduction) | fingerprint }}
+  {{ $params := dict "slides" $.Params.slides "mathjaxURL" (replace $js.mathJax.slides_url "%s" $js.mathJax.version) }}
+  {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" $params "minify" hugo.IsProduction) | fingerprint }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
   {{ partial "embed_scripts.html" . }}
 

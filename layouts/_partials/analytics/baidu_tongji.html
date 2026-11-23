@@ -5,7 +5,7 @@
     var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?{{ $baidu_tongji }}";
+      hm.src = {{ printf "%s?%s" hugo.Data.assets.js.baiduTongji.url $baidu_tongji }};
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();

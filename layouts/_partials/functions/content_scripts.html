@@ -1,0 +1,19 @@
+{{- $html := . -}}
+{{- if in $html "<script" -}}
+  {{- range $match := findRESubmatch `(?i)(<script\b[^>]*?\ssrc\s*=\s*["'])([^"']+)(["'])` $html -}}
+    {{- $source := strings.TrimPrefix "https:" (index $match 2) -}}
+    {{- range hugo.Data.assets.js -}}
+      {{- if eq .content_source $source -}}
+        {{- $url := partial "functions/script_url.html" . | htmlEscape -}}
+        {{- $html = replace $html (index $match 0) (printf "%s%s%s" (index $match 1) $url (index $match 3)) -}}
+        {{- break -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $charts := hugo.Data.assets.js.googleCharts -}}
+  {{- if and (ne $charts.channel "current") (in $html $charts.url) -}}
+    {{- $channel := $charts.channel | jsonify -}}
+    {{- $html = replaceRE `google\.charts\.load\(['"]current['"]` (printf "google.charts.load(%s" $channel) $html -}}
+  {{- end -}}
+{{- end -}}
+{{- return ($html | safeHTML) -}}

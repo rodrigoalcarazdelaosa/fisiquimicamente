@@ -36,7 +36,7 @@
     <div class="article-container">
 
       <div class="article-style">
-        {{ partial "functions/lazy_phet.html" . }}
+        {{ partial "functions/content_scripts.html" (partial "functions/lazy_phet.html" .) }}
       </div>
 
     </div>
@@ -49,7 +49,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      {{ partial "functions/lazy_phet.html" . }}
+      {{ partial "functions/content_scripts.html" (partial "functions/lazy_phet.html" .) }}
     </div>
 
     {{ partial "page_footer" . }}

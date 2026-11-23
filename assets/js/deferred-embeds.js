@@ -1,3 +1,5 @@
+import {adobeURL, widgetsURL} from '@params';
+
 function loadScript(src) {
   return new Promise((resolve, reject) => {
     const script = document.createElement('script');
@@ -31,7 +33,7 @@ function loadAdobe() {
     };
     const timeout = setTimeout(() => fail(new Error('PDF viewer did not initialize')), 20000);
     document.addEventListener(readyEvent, ready, {once: true});
-    loadScript('https://documentcloud.adobe.com/view-sdk/viewer.js').catch(fail);
+    loadScript(adobeURL).catch(fail);
   }).catch(error => {
     adobe = undefined;
     throw error;
@@ -60,7 +62,7 @@ async function renderPdf(target) {
 let widgets;
 function loadWidgets() {
   if (window.twttr?.widgets) return Promise.resolve(window.twttr.widgets);
-  return widgets ??= loadScript('https://platform.twitter.com/widgets.js').then(() => {
+  return widgets ??= loadScript(widgetsURL).then(() => {
     if (window.twttr?.widgets) return window.twttr.widgets;
     return new Promise((resolve, reject) => {
       if (!window.twttr?.ready) return reject(new Error('X widgets did not initialize'));

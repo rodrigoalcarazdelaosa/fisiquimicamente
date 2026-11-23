@@ -1,3 +1,5 @@
+import {photoSwipe} from '@params';
+
 // Keep links to the original images usable even when the gallery CDN is unavailable.
 (() => {
   const galleryStyles = document.currentScript.dataset.galleryStyles;
@@ -41,16 +43,14 @@
     const links = albums.get(key);
     if (viewer || !links?.[index]) return;
     const hash = location.hash;
-    const scriptUrl = 'https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/umd/photoswipe.umd.min.js';
     const script = document.createElement('script');
-    script.src = scriptUrl;
-    script.integrity = 'sha384-k8EKyYcONphQ7zH4cQ0888JapXwrLTXQl/Ue1/jYgjVYahln1NWpnt2S4IC56LNh';
+    script.src = photoSwipe.url;
+    script.integrity = photoSwipe.integrity;
     script.crossOrigin = 'anonymous';
     try {
       await Promise.all([
-        loadAsset(scriptUrl, script),
-        loadStyles('https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.min.css',
-          'sha384-CKeYI6jsYBV4DV34zRfxht32qlPolZvokUknVb7SnE4PCoiTTqCN47Tr+hQAKkXY'),
+        loadAsset(photoSwipe.url, script),
+        loadStyles(photoSwipe.styles, photoSwipe.stylesIntegrity),
         loadStyles(galleryStyles),
       ]);
       if (typeof window.PhotoSwipe !== 'function') throw new Error('PhotoSwipe unavailable');

@@ -1,30 +1,114 @@
-# Versioning and Subresource Integrity (SRI) for JavaScript dependencies
-
-# When updating the version of an asset below, please also update the corresponding SRI.
-# How to update the SRI for an entry:
-#   echo -n "sha512-" && curl --silent "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML" | openssl dgst -sha512 -binary | openssl enc -base64 -A
-# Or, the SRI for the appropriate asset can be copied from https://cdnjs.com/ .
-
-# JavaScript
+# Browser JavaScript dependencies. Update the matching SRI when changing a pinned URL.
+# version replaces %s in CDN URLs. Local paths refer to the vendored copy in assets/.
+# content_source identifies script URLs in existing content for replacement during rendering.
+# Provider-managed URLs have no fixed version. First-party code is versioned with Git.
 
 [js.mathJax]
   version = "3.2.2"
-  sri = ""  # No SRI as dynamically generated.
   url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-chtml.js"
+  slides_url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-mml-chtml.js"
   async = true
 [js.isotope]
   version = "3.0.6"
   sri = "sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew=="
   url = "https://cdn.jsdelivr.net/gh/metafizzy/isotope@v%s/dist/isotope.pkgd.min.js"
-[js.fuse]
-  version = "7.5.0"
-  sri = "sha256-WrUk0SSSuyM1aOlgAEbhqqliPTbr5olYkUT33Jsdpvc="
-  url = "https://cdn.jsdelivr.net/npm/fuse.js@%s/dist/fuse.min.mjs"
-[js.mark]
-  version = "8.11.1"
-  sri = "sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww=="
-  url = "https://cdn.jsdelivr.net/npm/mark.js@%s/dist/mark.min.js"
 [js.anchor]
   version = "5.0.0"
   sri = "sha256-aQmOEF2ZD4NM/xt4hthzREIo/2PFkOX/g01WjxEV7Ys="
   url = "https://cdn.jsdelivr.net/npm/anchor-js@%s/anchor.min.js"
+
+[js.lottiePlayer]
+  version = "2.0.12"
+  url = "https://unpkg.com/@lottiefiles/lottie-player@%s/dist/tgs-player.js"
+  content_source = "//unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"
+[js.photoSwipe]
+  version = "5.4.4"
+  url = "https://cdn.jsdelivr.net/npm/photoswipe@%s/dist/umd/photoswipe.umd.min.js"
+  sri = "sha384-k8EKyYcONphQ7zH4cQ0888JapXwrLTXQl/Ue1/jYgjVYahln1NWpnt2S4IC56LNh"
+  css_url = "https://cdn.jsdelivr.net/npm/photoswipe@%s/dist/photoswipe.min.css"
+  css_sri = "sha384-CKeYI6jsYBV4DV34zRfxht32qlPolZvokUknVb7SnE4PCoiTTqCN47Tr+hQAKkXY"
+[js.reveal]
+  version = "5.2.1"
+  url = "https://cdn.jsdelivr.net/npm/reveal.js@%s"
+[js.revealMenu]
+  version = "2.1.0"
+  url = "https://cdn.jsdelivr.net/npm/reveal.js-menu@%s/menu.js"
+  sri = "sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA="
+[js.liteYouTube]
+  version = "1.9.0"
+  url = "https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@%s/lite-youtube.min.js"
+  sri = "sha256-tvIhTU3/TUD+qe+JjzSJ0BhcvZI0IMRkdNSHM1Udvzk="
+[js.threeDmol]
+  version = "2.5.5"
+  url = "https://cdn.jsdelivr.net/npm/3dmol@%s/build/3Dmol-min.js"
+  sri = "sha256-98x4khrnLnYj6JzdERQ09Ywu/d0v/aHNISZEtAb7gBY="
+[js.quizdown]
+  version = "0.6.0"
+  url = "https://cdn.jsdelivr.net/npm/quizdown@%s/public/build/quizdown.js"
+  sri = "sha256-5ImU45PrvZOeb2xQ6x0OEw0aQ+mwjIOGvPTkL0sMuow="
+[js.chartJs]
+  version = "2.9.3"
+  url = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/%s/Chart.min.js"
+  content_source = "//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"
+[js.chartAnnotation]
+  version = "0.5.7"
+  url = "https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/%s/chartjs-plugin-annotation.min.js"
+  content_source = "//cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"
+[js.modelViewer]
+  version = "4.4.0"
+  url = "https://unpkg.com/@google/model-viewer@%s/dist/model-viewer.min.js"
+  content_source = "//unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
+
+# Local copies of third-party scripts.
+
+[js.fuse]
+  version = "7.5.0"
+  path = "js/vendor/fuse.min.mjs"
+[js.mark]
+  version = "8.11.1"
+  path = "js/vendor/mark.min.js"
+[js.mediumZoom]
+  version = "1.1.2"
+  path = "js/vendor/medium-zoom.esm.js"
+[js.jsBat]
+  version = "1.2"
+  path = "js/jsbat.js"
+
+# Scripts served and updated by the provider.
+
+[js.counterscale]
+  url = "https://counterscale.fisiquimicamente.workers.dev/tracker.js"
+[js.adobePdf]
+  url = "https://documentcloud.adobe.com/view-sdk/viewer.js"
+[js.xWidgets]
+  url = "https://platform.twitter.com/widgets.js"
+[js.googleCharts]
+  url = "https://www.gstatic.com/charts/loader.js"
+  channel = "current"
+  content_source = "//www.gstatic.com/charts/loader.js"
+[js.codePen]
+  url = "https://static.codepen.io/assets/embed/ei.js"
+  content_source = "//static.codepen.io/assets/embed/ei.js"
+[js.tenor]
+  url = "https://tenor.com/embed.js"
+  content_source = "//tenor.com/embed.js"
+[js.imgur]
+  url = "https://s.imgur.com/min/embed.js"
+  content_source = "//s.imgur.com/min/embed.js"
+[js.h5pResizer]
+  url = "https://cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js"
+  content_source = "//cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js"
+[js.recaptcha]
+  url = "https://www.google.com/recaptcha/api.js"
+[js.netlifyIdentity]
+  url = "https://identity.netlify.com/v1/netlify-identity-widget.js"
+[js.googleAnalytics]
+  url = "https://www.googletagmanager.com/gtag/js"
+[js.googleTagManager]
+  url = "https://www.googletagmanager.com/gtm.js"
+[js.googleOptimize]
+  url = "https://www.googleoptimize.com/optimize.js"
+[js.microsoftClarity]
+  url = "https://www.clarity.ms/tag/"
+[js.baiduTongji]
+  url = "https://hm.baidu.com/hm.js"

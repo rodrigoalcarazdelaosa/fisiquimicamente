@@ -3,7 +3,7 @@
 {{ if hugo.IsProduction | and $ga }}
 
 {{ $gtag_config := cond site.Params.features.privacy_pack.enable "{ 'anonymize_ip': true }" "{}" }}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{$ga}}"></script>
+<script async src="{{ hugo.Data.assets.js.googleAnalytics.url }}?id={{$ga}}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
 
