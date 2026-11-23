@@ -1,4 +1,4 @@
-{{- $content := replace .Content `<nav id="TableOfContents">` `<nav id="TableOfContentsInPage">` -}}
+{{- $content := replace (partial "functions/content_scripts.html" .Content) `<nav id="TableOfContents">` `<nav id="TableOfContentsInPage">` -}}
 {{- $toc := partial "functions/clean_toc.html" . -}}
 {{- if in $toc `href="#"` -}}
   {{- /* Goldmark can omit the anchor for headings that consist of a raw HTML image. */ -}}

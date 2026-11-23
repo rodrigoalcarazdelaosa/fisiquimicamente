@@ -8,17 +8,23 @@
 {{ end }}
 
 {{ if .Page.Store.Get "has_isotope" }}
-  <script data-cfasync="false" defer src="{{ printf $js.isotope.url $js.isotope.version }}" integrity="{{ $js.isotope.sri }}" crossorigin="anonymous"></script>
+  <script data-cfasync="false" defer src="{{ partial "functions/script_url.html" $js.isotope }}" integrity="{{ $js.isotope.sri }}" crossorigin="anonymous"></script>
 {{ end }}
 
 {{ if .Page.Store.Get "has_gallery" }}
   {{ $gallery_styles := resources.Get "css/gallery.css" | minify | fingerprint }}
-  <script data-cfasync="false" defer src="{{ (resources.Get "js/gallery.js" | minify | fingerprint).RelPermalink }}" data-gallery-styles="{{ $gallery_styles.RelPermalink }}"></script>
+  {{ $gallery_params := dict
+    "url" (partial "functions/script_url.html" $js.photoSwipe)
+    "integrity" $js.photoSwipe.sri
+    "styles" (replace $js.photoSwipe.css_url "%s" $js.photoSwipe.version)
+    "stylesIntegrity" $js.photoSwipe.css_sri }}
+  {{ $gallery := resources.Get "js/gallery.js" | js.Build (dict "params" (dict "photoSwipe" $gallery_params) "minify" true) | fingerprint }}
+  <script data-cfasync="false" defer src="{{ $gallery.RelPermalink }}" data-gallery-styles="{{ $gallery_styles.RelPermalink }}"></script>
 {{ end }}
 
 {{/* Load hash anchors for documentation pages. */}}
 {{ if in (slice "book" "docs") .Type }}
-{{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.anchor.url $js.anchor.version) $js.anchor.sri | safeHTML }}
+<script src="{{ partial "functions/script_url.html" $js.anchor }}" integrity="{{ $js.anchor.sri }}" crossorigin="anonymous"></script>
 <script>
   anchors.add();
 </script>
@@ -48,16 +54,19 @@
   {{ $search_config := dict "indexURI" ("index.json" | relLangURL) "threshold" $threshold "minLength" $min_length }}
   {{ $search_i18n := dict "placeholder" (i18n "search_placeholder") "results" (i18n "search_results") "no_results" (i18n "search_no_results") }}
   {{ $content_types := dict "post" (i18n "posts") "apuntes-segundo-tercero-eso" (i18n "apuntes-segundo-tercero-eso") "apuntes-cuarto-eso" (i18n "apuntes-cuarto-eso") "apuntes-primero-bach" (i18n "apuntes-primero-bach") "apuntes-segundo-bach-fisica" (i18n "apuntes-segundo-bach-fisica") "apuntes-segundo-bach-quimica" (i18n "apuntes-segundo-bach-quimica") "apuntes-formulacion" (i18n "apuntes-formulacion") "actividades-segundo-tercero-eso" (i18n "actividades-segundo-tercero-eso") "actividades-cuarto-eso" (i18n "actividades-cuarto-eso") "actividades-primero-bach" (i18n "actividades-primero-bach") "actividades-segundo-bach-fisica" (i18n "actividades-segundo-bach-fisica") "actividades-segundo-bach-quimica" (i18n "actividades-segundo-bach-quimica") "actividades-formulacion" (i18n "actividades-formulacion") "juegos-segundo-tercero-eso" (i18n "juegos-segundo-tercero-eso") "juegos-cuarto-eso" (i18n "juegos-cuarto-eso") "juegos-primero-bach" (i18n "juegos-primero-bach") "juegos-segundo-bach-fisica" (i18n "juegos-segundo-bach-fisica") "juegos-segundo-bach-quimica" (i18n "juegos-segundo-bach-quimica") "juegos-formulacion" (i18n "juegos-formulacion") "practicas-segundo-tercero-eso" (i18n "practicas-segundo-tercero-eso") "practicas-cuarto-eso" (i18n "practicas-cuarto-eso") "practicas-primero-bach" (i18n "practicas-primero-bach") "practicas-segundo-bach-fisica" (i18n "practicas-segundo-bach-fisica") "practicas-segundo-bach-quimica" (i18n "practicas-segundo-bach-quimica") "practicas-formulacion" (i18n "practicas-formulacion") "biografias-cientificas" ("📖 Biografías científicas") "EBAU-fisica-examenes" ("🎓 EBAU Exámenes Completos Física") "PAU-fisica-examenes" ("🎓 PAU Exámenes Completos Física") "PBAU-fisica-examenes" ("🎓 PBAU Exámenes Completos Física") "EBAU-quimica-examenes" ("🎓 EBAU Exámenes Completos Química") "PAU-quimica-examenes" ("🎓 PAU Exámenes Completos Química") "EBAU-fisica-preguntas" ("🎓 EBAU Preguntas Temas Física") "EBAU-quimica-preguntas" ("🎓 EBAU Preguntas Temas Química") "oposiciones-fisica-ejercicios" ("📝 Oposiciones Ejercicios Resueltos Física") "oposiciones-quimica-ejercicios" ("📝 Oposiciones Ejercicios Resueltos Química") "operador-IIRR-preguntas-examen" ("🧑‍🔧 Operador IIRR Preguntas Examen") "slides" (i18n "slides") "authors" (i18n "authors") "tutoriales" (i18n "tutoriales") "enlaces-recursos-online" (i18n "recursos-online") }}
+  {{ $fuse := resources.Get $js.fuse.path | fingerprint }}
+  {{ $mark := resources.Get $js.mark.path | fingerprint }}
   {{ $libraries := dict
-    "fuse" (dict "url" (printf $js.fuse.url $js.fuse.version) "integrity" $js.fuse.sri)
-    "mark" (dict "url" (printf $js.mark.url $js.mark.version) "integrity" $js.mark.sri) }}
+    "fuse" (dict "url" $fuse.RelPermalink "integrity" $fuse.Data.Integrity)
+    "mark" (dict "url" $mark.RelPermalink "integrity" $mark.Data.Integrity) }}
   {{ $search_params = dict "search_config" $search_config "i18n" $search_i18n "content_type" $content_types "libraries" $libraries }}
 {{ end }}
 
 {{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied") }}
 {{ $footnotes := resources.Get "js/footnotes.js" | minify | fingerprint }}
-{{ $zoom := resources.Get "js/vendor/medium-zoom.esm.js" | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
-{{ $players := resources.Get "js/tgs-players.js" | minify | fingerprint }}
+{{ $zoom := resources.Get $js.mediumZoom.path | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
+{{ $player_params := dict "playerURL" (partial "functions/script_url.html" $js.lottiePlayer) }}
+{{ $players := resources.Get "js/tgs-players.js" | js.Build (dict "params" $player_params "minify" true) | fingerprint }}
 {{ $js_params := dict "search" $search_params "i18n" $i18n "footnotesURL" $footnotes.RelPermalink "zoomURL" $zoom.RelPermalink "playersURL" $players.RelPermalink }}
 {{ $target := printf "js/site-%s.js" .Lang }}
 {{ $options := dict "targetPath" $target "params" $js_params "minify" hugo.IsProduction }}

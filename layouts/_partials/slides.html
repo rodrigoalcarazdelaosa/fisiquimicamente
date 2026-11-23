@@ -8,7 +8,7 @@
     {{/* Commented out workaround as Blackfriday has been superseded by Goldmark in Hugo 0.60. */}}
     {{/* TODO: reintroduce a similar workaround if Goldmark requires it. */}}
     {{/* $content := replace .Content "<div class=\"footnotes\">\n\n<hr />" "<div class=\"footnotes\">" */}}
-    {{ $content := .Content }}{{/* For Goldmark. */}}
+    {{ $content := partial "functions/content_scripts.html" .Content }}{{/* For Goldmark. */}}
 
     {{/* Let `---` delimit slides. In Goldmark, that is `<hr>`. Alternatively, for Blackfriday, use `<hr />`. */}}
     {{ range (split $content "<hr>") }}

@@ -1,5 +1,5 @@
 /* Reveal.js integration, adapted from Hugo Blox Builder (MIT). */
-import {slides} from '@params';
+import {mathjaxURL, slides} from '@params';
 
 // Reveal and its plugins expect camelCase, including in nested option objects.
 function revealOptions(value) {
@@ -14,4 +14,4 @@ function revealOptions(value) {
 const {menuEnabled, ...options} = revealOptions(slides?.reveal_options || {});
 const plugins = [RevealMarkdown, RevealSearch, RevealNotes, RevealMath.MathJax3, RevealZoom];
 if (menuEnabled) plugins.push(RevealMenu);
-Reveal.initialize({...options, plugins});
+Reveal.initialize({...options, mathjax3: {...options.mathjax3, mathjax: mathjaxURL}, plugins});
