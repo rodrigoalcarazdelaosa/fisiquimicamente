@@ -50,13 +50,7 @@ En este **vídeo** puedes ver la **transmisión oficial** de la **NASA** del **l
 
 [^2]: Fuente de la imagen de fondo: https://www.artstation.com/marketplace/p/zp8o/nanopack-nebula-hdri.
 
-<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-
-<model-viewer bounds="tight" id="lazy-load" reveal="interaction" camera-controls shadow-intensity="1" skybox-image="webb-modelo-3D-hdr.jpg" alt="Modelo 3D del Telescopio Espacial James Webb" src="webb-modelo-3D.glb" style="width: 100%; height: 500px" camera-orbit="30.00deg 75.00deg auto" exposure="5" data-js-focus-visible>
-
-<div id="lazy-load-poster" slot="poster"></div>
-<div id="button-load" slot="poster">Cargar modelo 3D</div>
-</model-viewer>
+{{< model_viewer src="webb-modelo-3D.glb" poster="webb-modelo-3D-poster.webp" skybox="webb-modelo-3D-hdr.jpg" alt="Modelo 3D del Telescopio Espacial James Webb" label="Cargar modelo 3D" loading="Cargando modelo 3D…" retry="Reintentar la carga del modelo 3D" orbit="30.00deg 75.00deg auto" exposure="5" >}}
 
 ## Colaboración internacional
 
@@ -139,7 +133,7 @@ Todavía no hemos observado la **época** de la historia de nuestro **universo**
 
 Al observar el universo en longitudes de onda infrarrojas, Webb nos mostrará cosas nunca antes vistas por ningún otro telescopio. Sólo en longitudes de onda infrarrojas podemos ver las primeras estrellas y galaxias que se formaron después del Big Bang. Y es con la luz infrarroja que podemos ver estrellas y sistemas planetarios formándose dentro de nubes de polvo que son opacas a la luz visible.
 
-{{< figure src="https://cdn.spacetelescope.org/archives/images/screen/heic1007b.jpg" title="Comparación de la [**Nebulosa de la Quilla**](https://es.wikipedia.org/wiki/Nebulosa_de_la_Quilla) en luz visible (izquierda) y en infrarrojo (derecha), ambas imágenes del Hubble. En la imagen infrarroja, podemos ver más estrellas que antes no eran visibles.<br>Fuente: https://esahubble.org/images/heic1007b/." lightbox="true" width="100%" >}}
+{{< figure src="https://cdn.esahubble.org/archives/images/large/heic1007b.jpg" title="Comparación de la [**Nebulosa de la Quilla**](https://es.wikipedia.org/wiki/Nebulosa_de_la_Quilla) en luz visible (izquierda) y en infrarrojo (derecha), ambas imágenes del Hubble. En la imagen infrarroja, podemos ver más estrellas que antes no eran visibles.<br>Fuente: https://esahubble.org/images/heic1007b/." lightbox="true" width="100%" >}}
 
 **Los objetivos principales de Webb** son estudiar la formación de galaxias, estrellas y planetas en el universo. Para ver las primeras estrellas y galaxias que se formaron en el universo primitivo, tenemos que mirar en lo más profundo del espacio para mirar hacia atrás en el tiempo (como la luz tarda tiempo en viajar desde allí hasta aquí, cuanto más lejos miremos, más atrás estaremos en el tiempo).
 
@@ -403,7 +397,7 @@ Es por esto que el telescopio estará en el segundo punto de Lagrange.
 
 [Joseph-Louis **Lagrange**](https://es.wikipedia.org/wiki/Joseph-Louis_Lagrange) fue un matemático del siglo XVIII que encontró la solución a lo que se llama el "[**problema** de los **tres cuerpos**](https://es.wikipedia.org/wiki/Problema_de_los_tres_cuerpos)". Esto es, ¿existe alguna configuración estable en la que tres cuerpos puedan orbitar entre sí y, sin embargo, permanecer en la misma posición entre ellos? Resulta que hay cinco soluciones a este problema, y se llaman los cinco puntos de Lagrange, en honor a su descubridor. En los puntos de Lagrange, la atracción gravitatoria de dos grandes masas es exactamente igual a la fuerza centrípeta necesaria para que un objeto pequeño se mueva con ellas. Los puntos L1, L2 y L3 están alineados entre sí, y L4 y L5 están en los puntos de los triángulos equiláteros.
 
-{{< figure src="https://www.nasa.gov/images/content/463480main_lagrange_point_lg_1.jpg" title="Los cinco puntos lagrangianos del sistema Sol-Tierra. Un objeto colocado en cualquiera de estos cinco puntos se mantendrá en su lugar con respecto a los otros dos.<br>Fuente: https://www.nasa.gov/topics/universe/features/webb-l2.html" lightbox="true" width="100%" >}}
+{{< figure src="https://assets.science.nasa.gov/content/dam/science/missions/webb/outreach/migrated/2021/STScI-01HV71YQ7BT2YQRCZ3B383AHCJ.png/jcr:content/renditions/Half%20Res.jpg" title="Los cinco puntos lagrangianos del sistema Sol-Tierra. Un objeto colocado en cualquiera de estos cinco puntos se mantendrá en su lugar con respecto a los otros dos.<br>Fuente: https://science.nasa.gov/asset/webb/webbs-orbit-at-sun-earth-lagrange-point-2-l2/" lightbox="true" width="100%" >}}
 
 Te recomiendo echar un 🧐 a este fantástico 🧵 **hilo** de [**Rayleigh Lord**](https://twitter.com/RayleighLord):
 

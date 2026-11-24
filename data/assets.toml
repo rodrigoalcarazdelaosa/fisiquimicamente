@@ -48,7 +48,6 @@
 [js.modelViewer]
   version = "4.4.0"
   url = "https://unpkg.com/@google/model-viewer@%s/dist/model-viewer.min.js"
-  content_source = "//unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
 
 # Local copies of third-party scripts.
 
