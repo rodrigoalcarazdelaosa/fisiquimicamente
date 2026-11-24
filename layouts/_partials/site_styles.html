@@ -16,35 +16,57 @@
   {{- .Page.Store.Set "has_gallery" true -}}
 {{- end -}}
 
-{{- $bundles := slice
-  (dict "name" "site" "module" "main" "enabled" true)
+{{- $shareClasses := slice "share-box" "subscribe-box" "comments-box" -}}
+{{- $hasSharing := or (intersect $classes $shareClasses) (and .IsPage (not $isBook) (not $isWidgetPage)) (and $isBook .Params.commentable site.Params.features.comment.provider) -}}
+{{- $hasPagination := or (in $classes "pagination") (and .IsBranch (not .IsHome) (not $isBook)) -}}
+{{- $hasPager := or (in $classes "post-nav") (and $isBook (ne .Params.pager false)) (and .IsPage .Params.pager) -}}
+{{- $pageComponents := slice
+  (dict "name" "pager" "module" "wowchemy/components/pager" "enabled" $hasPager)
+  (dict "name" "pagination" "module" "wowchemy/components/pagination" "enabled" $hasPagination)
+  (dict "name" "sharing" "module" "wowchemy/components/sharing" "enabled" $hasSharing)
   (dict "name" "book" "module" "wowchemy/layouts/book" "enabled" $isBook)
-  (dict "name" "widgets" "module" "wowchemy/widgets/all" "enabled" $isWidgetPage)
+  (dict "name" "contact" "module" "wowchemy/widgets/contact" "enabled" (in $classes "wg-contact"))
+  (dict "name" "experience" "module" "wowchemy/widgets/experience" "enabled" (in $classes "experience"))
+  (dict "name" "featurette" "module" "wowchemy/widgets/featurette" "enabled" (in $classes "featurette"))
+  (dict "name" "hero" "module" "wowchemy/widgets/hero" "enabled" (intersect $classes (slice "wg-hero" "hero-media" "hero-title")))
+  (dict "name" "people" "module" "wowchemy/widgets/people" "enabled" (in $classes "people-widget"))
+  (dict "name" "portfolio" "module" "wowchemy/widgets/portfolio" "enabled" (intersect $classes (slice "wg-portfolio" "projects-container")))
+  (dict "name" "tutor" "module" "notes-tutor-button" "enabled" (partial "functions/has_notes_tutor.html" .))
+-}}
+{{- $componentNames := slice -}}
+{{- $componentModules := slice -}}
+{{- range $pageComponents -}}
+  {{- if .enabled -}}
+    {{- $componentNames = $componentNames | append .name -}}
+    {{- $componentModules = $componentModules | append .module -}}
+  {{- end -}}
+{{- end -}}
+
+<link rel="stylesheet" href="{{ partial "functions/theme_stylesheet.html" (dict "name" "site" "page" .) }}">
+{{ if $componentModules }}
+  <link rel="stylesheet" href="{{ partial "functions/theme_stylesheet.html" (dict "name" (printf "page-%s" (delimit $componentNames "-")) "modules" $componentModules "page" .) }}">
+{{ end }}
+
+{{- $bundles := slice
   (dict "name" "carousel" "module" "site/carousel" "enabled" (in $classes "carousel"))
   (dict "name" "gallery-grid" "module" "site/gallery" "enabled" $hasGallery)
   (dict "name" "footnotes" "module" "site/footnotes" "enabled" (in $classes "footnote-ref"))
   (dict "name" "progress" "module" "site/progress" "enabled" (in $classes "progress"))
-  (dict "name" "notes-tutor-button" "module" "notes-tutor-button" "enabled" (partial "functions/has_notes_tutor.html" .))
 -}}
 {{ range $bundles }}
   {{ if .enabled }}
-    <link rel="stylesheet" href="{{ partial "functions/theme_stylesheet.html" (dict "name" .name "module" .module "page" $) }}">
+    <link rel="stylesheet" href="{{ partial "functions/theme_stylesheet.html" (dict "name" .name "modules" (slice .module) "page" $) }}">
   {{ end }}
-{{ end }}
-
-{{ with resources.Match "scss/blocks/**.scss" }}
-  {{ $blocks := . | resources.Concat "css/blocks.scss" | toCSS }}
-  <link rel="stylesheet" href="{{ partial "functions/stylesheet.html" $blocks }}">
 {{ end }}
 
 {{ if in $classes "chroma" }}
   {{ $light := site.Params.features.syntax_highlighter.theme_light | default "nord" }}
   {{ $dark := site.Params.features.syntax_highlighter.theme_dark | default "nord" }}
-  {{ $lightCSS := resources.Get (printf "css/libs/chroma/%s.css" $light) | minify }}
+  {{ $lightCSS := partial "functions/chroma_stylesheet.html" $light }}
   {{ if eq $light $dark }}
     <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}">
   {{ else }}
-    {{ $darkCSS := resources.Get (printf "css/libs/chroma/%s.css" $dark) | minify }}
+    {{ $darkCSS := partial "functions/chroma_stylesheet.html" $dark }}
     <link rel="stylesheet" href="{{ $lightCSS.RelPermalink }}" title="hl-light" media="print" onload="this.media='all'" {{ if not ($.Scratch.Get "light") }}disabled{{ end }}>
     <link rel="stylesheet" href="{{ $darkCSS.RelPermalink }}" title="hl-dark" media="print" onload="this.media='all'" {{ if $.Scratch.Get "light" }}disabled{{ end }}>
   {{ end }}

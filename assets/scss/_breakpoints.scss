@@ -6,6 +6,6 @@
 }
 
 @mixin up($size) {
-  $lower: map.get((lg: 992px, xl: 1200px), $size);
+  $lower: map.get((sm: 576px, md: 768px, lg: 992px, xl: 1200px), $size);
   @media (min-width: $lower) { @content; }
 }

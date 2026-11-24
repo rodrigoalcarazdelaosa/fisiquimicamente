@@ -1,3 +1,5 @@
+@use "../breakpoints";
+
 // Containers
 
 .container, .container-fluid, .container-xl {
@@ -8,19 +10,19 @@
   margin-left: auto;
 }
 
-@media (min-width: 576px) {
+@include breakpoints.up(sm) {
   .container { max-width: 540px; }
 }
 
-@media (min-width: 768px) {
+@include breakpoints.up(md) {
   .container { max-width: 720px; }
 }
 
-@media (min-width: 992px) {
+@include breakpoints.up(lg) {
   .container { max-width: 960px; }
 }
 
-@media (min-width: 1200px) {
+@include breakpoints.up(xl) {
   .container-xl, .container {
     max-width: 1290px;
   }

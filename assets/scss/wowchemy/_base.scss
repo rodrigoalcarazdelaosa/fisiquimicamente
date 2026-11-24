@@ -212,19 +212,6 @@ pre {
   position: relative;
 }
 
-.btn-copy-code {
-  display: none;
-  position: absolute;
-  top: 4px;
-  right: 4px;
-  user-select: none;
-}
-
-div.highlight:hover .btn-copy-code,
-pre:hover .btn-copy-code {
-  display: block;
-}
-
 hr {
   box-sizing: content-box;
   overflow: visible;

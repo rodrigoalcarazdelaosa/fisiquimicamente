@@ -1,5 +1,7 @@
 {{- $scr := .page.Scratch -}}
 
+@use "sass:meta";
+
 @use "theme" with (
   $font-size: {{ $scr.Get "font_size" }},
   $font-size-small: {{ $scr.Get "font_size_small" }},
@@ -30,4 +32,12 @@
   $dark-home-section-even: {{ $scr.Get "dark_home_section_even" }},
 );
 
-@use "{{ .module }}";
+{{ if .modules }}
+@layer components {
+  {{ range .modules }}
+  @include meta.load-css("{{ . }}");
+  {{ end }}
+}
+{{ else }}
+@use "main";
+{{ end }}

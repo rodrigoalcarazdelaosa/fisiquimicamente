@@ -1,0 +1,9 @@
+@use "../breakpoints";
+
+.mb-0, .my-0 { margin-bottom: 0; }
+
+.mb-3 { margin-bottom: 1rem; }
+
+@include breakpoints.up(md) {
+  .mb-md-1 { margin-bottom: 0.25rem; }
+}

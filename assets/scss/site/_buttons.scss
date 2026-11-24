@@ -234,3 +234,15 @@ a.btn.disabled, fieldset:disabled a.btn {
     box-shadow: 0 0 0 0.2rem rgba(nord.$nord4, 0.5);
   }
 }
+.btn-copy-code {
+  display: none;
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  user-select: none;
+}
+
+div.highlight:hover .btn-copy-code,
+pre:hover .btn-copy-code {
+  display: block;
+}

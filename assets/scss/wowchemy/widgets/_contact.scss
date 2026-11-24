@@ -22,15 +22,3 @@
 .wg-contact li:last-of-type {
   margin-bottom: 0;
 }
-
-#map {
-  height: 350px;
-  width: 100%;
-}
-
-// Prevent OpenStreetMap inheriting link color from section of a different theme variation.
-// E.g. Light colored OpenStreetMap UI inheriting dark themed link (`.home-section.dark a`)
-// from a dark widget page section.
-#map a {
-  color: initial;
-}

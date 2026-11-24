@@ -59,8 +59,7 @@
 
 // Section theming
 
-.home-section.light,
-.home-section.light h1 {
+.home-section.light {
   color: nord.$nord0;
 }
 
@@ -89,25 +88,6 @@
   color: inherit;
   text-decoration: inherit;
 }
-
-/* Big underline style for links in dark sections */
-
-/* Disabled as it's an experimental style that requires CSS NOT Selector Level 4 (only in Safari) */
-
-/*
-.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a) {
-  text-decoration: none;
-  position: relative;
-}
-.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a):after {
-  background: nord.$surface-light;
-  content: "";
-  height: 2px;
-  left: 0;
-  right: 0;
-  position: absolute;
-  top: 100%;
-} */
 
 // Fill padding of `.home-section` parent
 .home-section-bg {
@@ -225,36 +205,6 @@
 .carousel-inner .wg-hero {
   animation: none;
   clear: none;
-}
-
-/*************************************************
- * Talks
- **************************************************/
-
-.talk-metadata {
-  color: nord.$nord3;
-  font-size: 0.8rem;
-}
-
-/*************************************************
- *  Accomplishments
- **************************************************/
-
-.card.course {
-  margin-bottom: 1rem; /* More compact spacing than Experience widget as typically more items here. */
-}
-
-.card.course:last-of-type {
-  margin-bottom: 0;
-}
-
-.course .card-subtitle a {
-  border-bottom: solid 1px transparent;
-}
-
-.course .card-subtitle a:hover {
-  border-bottom: solid 1px;
-  text-decoration: none;
 }
 
 .home-section.light h1 {

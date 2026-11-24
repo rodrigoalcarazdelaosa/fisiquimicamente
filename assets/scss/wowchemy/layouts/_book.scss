@@ -19,7 +19,7 @@
   padding-inline: 15px;
 }
 
-@media (min-width: 768px) {
+@include breakpoints.up(md) {
   .docs-layout {
     --docs-content-width: 75%;
     grid-template-areas: "sidebar content";
@@ -96,42 +96,25 @@
   border-bottom: 1px solid rgba(nord.$nord0, 0.1);
 }
 
-@media (min-width: 768px) {
+@include breakpoints.up(md) {
   .docs-sidebar {
+    --docs-sidebar-offset: 50px;
     border-right: 1px solid rgba(nord.$nord0, 0.1);
   }
   @supports ((position: -webkit-sticky) or (position: sticky)) {
     .docs-sidebar {
       position: -webkit-sticky;
       position: sticky;
-      top: 50px;
+      top: var(--docs-sidebar-offset);
       z-index: 10;
-      height: calc(100vh - 50px);
+      height: calc(100vh - var(--docs-sidebar-offset));
     }
-    .no-navbar .docs-sidebar {
-      top: 0;
-      height: 100vh;
-    }
+    .no-navbar .docs-sidebar { --docs-sidebar-offset: 0px; }
   }
 }
 
-@media (min-width: 1200px) {
-  .docs-sidebar {
-    border-right: 1px solid rgba(nord.$nord0, 0.1);
-  }
-  @supports ((position: -webkit-sticky) or (position: sticky)) {
-    .docs-sidebar {
-      position: -webkit-sticky;
-      position: sticky;
-      top: 70px;
-      z-index: 10;
-      height: calc(100vh - 70px);
-    }
-    .no-navbar .docs-sidebar {
-      top: 0;
-      height: 100vh;
-    }
-  }
+@include breakpoints.up(xl) {
+  .docs-sidebar { --docs-sidebar-offset: 70px; }
 }
 
 /* Docs sidebar li>a. */
@@ -174,16 +157,13 @@
   margin-left: -15px;
 }
 
-@media (min-width: 768px) {
+@include breakpoints.up(md) {
   @supports ((position: -webkit-sticky) or (position: sticky)) {
     .docs-links {
       max-height: calc(100vh - 5rem - 70px);
       overflow-y: auto;
     }
   }
-}
-
-@media (min-width: 768px) {
   .docs-links.collapse {
     display: block;
   }
