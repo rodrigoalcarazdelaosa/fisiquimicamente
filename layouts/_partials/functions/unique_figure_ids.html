@@ -1,0 +1,17 @@
+{{- $content := . -}}
+{{- if in $content `id="figure-` -}}
+  {{- $seen := newScratch -}}
+  {{- $parts := slice -}}
+  {{- range findRESubmatch `(?is)(.*?)(<figure\b[^>]*?\sid="(figure-[^"]+)"[^>]*>|$)` $content -}}
+    {{- $figure := index . 2 -}}
+    {{- with index . 3 -}}
+      {{- if $seen.Get . -}}
+        {{- $figure = replace $figure (printf ` id="%s"` .) "" 1 -}}
+      {{- end -}}
+      {{- $seen.Set . true -}}
+    {{- end -}}
+    {{- $parts = $parts | append (print (index . 1) $figure) -}}
+  {{- end -}}
+  {{- $content = delimit $parts "" -}}
+{{- end -}}
+{{- return ($content | safeHTML) -}}

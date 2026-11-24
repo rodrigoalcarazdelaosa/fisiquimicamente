@@ -3,6 +3,7 @@
 {{ $toc := partial "functions/clean_toc.html" . }}
 {{ $has_toc := and (ne .Params.toc false) (in $toc "<li") }}
 {{ $content := partial "functions/content_scripts.html" (partial "functions/lazy_phet.html" .) }}
+{{ $content = partial "functions/unique_figure_ids.html" $content }}
 {{ if hasPrefix .Section "apuntes-" }}
   {{ $content = partial "functions/notes_heading_permalinks.html" $content }}
 {{ end }}
@@ -34,7 +35,7 @@
       </summary>
       <div class="article-mobile-toc-panel">
         <div class="article-mobile-toc-title">{{ i18n "on_this_page" }}</div>
-        {{ replaceRE `TableOfContents` `TableOfContentsMobile` $toc | safeHTML }}
+        <noscript>{{ replace $toc `id="TableOfContents"` `id="TableOfContentsMobile"` | safeHTML }}</noscript>
       </div>
     </details>
     <div class="article-container">
