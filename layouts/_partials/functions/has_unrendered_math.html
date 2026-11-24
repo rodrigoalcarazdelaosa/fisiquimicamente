@@ -1,5 +1,0 @@
-{{- /* Ignore code examples, generated MathML, and attributes such as image alt text. */ -}}
-{{- $body := replaceRE `(?is)<!--.*?-->|<(?:pre|code|script|style|math)\b[^>]*>.*?</(?:pre|code|script|style|math)\s*>` "" . -}}
-{{- $text := replaceRE `(?is)<[a-z!/](?:[^>"']|"[^"]*"|'[^']*')*>` "" $body -}}
-{{- $tex := `(?s)\\\(.*?\\\)|\\\[.*?\\\]|\$\$.+?\$\$|(?:^|[^\\$])\$[^$\r\n]+\$|\\begin\{[^}]+\}.*?\\end\{[^}]+\}` -}}
-{{- return (ne (len (findRE $tex $text 1)) 0) -}}

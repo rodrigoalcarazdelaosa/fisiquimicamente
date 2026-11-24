@@ -418,15 +418,17 @@ article .article-metadata {
   text-decoration: none;
 }
 
-.article-style mjx-container[display="true"] {
-  overflow-x: auto;
-}
-
 .article-style .katex:has(> math[display="block"]) {
   display: block;
   overflow-x: auto;
 
   > math { min-width: max-content; }
+}
+
+// Native MathML may ignore columnalign on mtable.
+.article-style .katex mtable[columnalign="right left"] > mtr {
+  > mtd:nth-child(1 of mtd:not(.mtr-glue, .mml-eqn-num)) { text-align: right; }
+  > mtd:nth-child(2 of mtd:not(.mtr-glue, .mml-eqn-num)) { text-align: left; }
 }
 
 .dark .article-style {

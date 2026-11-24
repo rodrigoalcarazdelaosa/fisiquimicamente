@@ -138,97 +138,97 @@ Tomado de [aquí](https://en.wikipedia.org/wiki/Electronic_color_code#Color_band
 <td align="center">–</td>
 <td align="center">–</td>
 <td align="center">–</td>
-<td align="center">$\pm 20\thinspace\%$</td>
+<td align="center">±20&thinsp;%</td>
 </tr>
 <tr style="color: black; background-color:#E1A6AD">
 <td>Rosa</td>
 <td align="center">–</td>
 <td align="center">–</td>
-<td align="center">$10^{-3}$</td>
+<td align="center">10<sup>−3</sup></td>
 <td align="center">–</td>
 </tr>
 <tr style="color: black; background-color:#C0C0C0">
 <td>Plateado</td>
 <td align="center">–</td>
 <td align="center">–</td>
-<td align="center">$10^{-2}$</td>
-<td align="center">$\pm 10\thinspace\%$</td>
+<td align="center">10<sup>−2</sup></td>
+<td align="center">±10&thinsp;%</td>
 </tr>
 <tr style="color: black; background-color:#FFD700">
 <td>Dorado</td>
 <td align="center">–</td>
 <td align="center">–</td>
-<td align="center">$10^{-1}$</td>
-<td align="center">$\pm 5\thinspace\%$</td>
+<td align="center">10<sup>−1</sup></td>
+<td align="center">±5&thinsp;%</td>
 </tr>
 <tr style="color: white;background-color:#0A0A0A">
 <td>Negro</td>
-<td align="center">$0$</td>
-<td align="center">$0$</td>
-<td align="center">$10^0$</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">10<sup>0</sup></td>
 <td align="center">–</td>
 </tr>
 <tr style="color: white;background-color:#80542F">
 <td>Marrón</td>
-<td align="center">$1$</td>
-<td align="center">$1$</td>
-<td align="center">$10^1$</td>
-<td align="center">$\pm 1\thinspace\%$</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">10<sup>1</sup></td>
+<td align="center">±1&thinsp;%</td>
 </tr>
 <tr style="color: white;background-color:#AB2524">
 <td>Rojo</td>
-<td align="center">$2$</td>
-<td align="center">$2$</td>
-<td align="center">$10^2$</td>
-<td align="center">$\pm 2\thinspace\%$</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">10<sup>2</sup></td>
+<td align="center">±2&thinsp;%</td>
 </tr>
 <tr style="color: black; background-color:#FA842B">
 <td>Naranja</td>
-<td align="center">$3$</td>
-<td align="center">$3$</td>
-<td align="center">$10^3$</td>
-<td align="center">$\pm 0.05\thinspace\%$</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">10<sup>3</sup></td>
+<td align="center">±0.05&thinsp;%</td>
 </tr>
 <tr style="color: black; background-color:#EEC900">
 <td>Amarillo</td>
-<td align="center">$4$</td>
-<td align="center">$4$</td>
-<td align="center">$10^4$</td>
-<td align="center">$\pm 0.02\thinspace\%$</td>
+<td align="center">4</td>
+<td align="center">4</td>
+<td align="center">10<sup>4</sup></td>
+<td align="center">±0.02&thinsp;%</td>
 </tr>
 <tr style="color: black; background-color:#48A43F">
 <td>Verde</td>
-<td align="center">$5$</td>
-<td align="center">$5$</td>
-<td align="center">$10^5$</td>
-<td align="center">$\pm 0.5\thinspace\%$</td>
+<td align="center">5</td>
+<td align="center">5</td>
+<td align="center">10<sup>5</sup></td>
+<td align="center">±0.5&thinsp;%</td>
 </tr>
 <tr style="color: white;background-color:#2874B2">
 <td>Azul</td>
-<td align="center">$6$</td>
-<td align="center">$6$</td>
-<td align="center">$10^6$</td>
-<td align="center">$\pm 0.25\thinspace\%$</td>
+<td align="center">6</td>
+<td align="center">6</td>
+<td align="center">10<sup>6</sup></td>
+<td align="center">±0.25&thinsp;%</td>
 </tr>
 <tr style="color: white;background-color:#83639D">
 <td>Violeta</td>
-<td align="center">$7$</td>
-<td align="center">$7$</td>
-<td align="center">$10^7$</td>
-<td align="center">$\pm 0.1\thinspace\%$</td>
+<td align="center">7</td>
+<td align="center">7</td>
+<td align="center">10<sup>7</sup></td>
+<td align="center">±0.1&thinsp;%</td>
 </tr>
 <tr style="color: black; background-color:#7E8B92">
 <td>Gris</td>
-<td align="center">$8$</td>
-<td align="center">$8$</td>
-<td align="center">$10^8$</td>
-<td align="center">$\pm 0.01\thinspace\%$</td>
+<td align="center">8</td>
+<td align="center">8</td>
+<td align="center">10<sup>8</sup></td>
+<td align="center">±0.01&thinsp;%</td>
 </tr>
 <tr style="color: black; background-color:#E9E5CE">
 <td>Blanco</td>
-<td align="center">$9$</td>
-<td align="center">$9$</td>
-<td align="center">$10^9$</td>
+<td align="center">9</td>
+<td align="center">9</td>
+<td align="center">10<sup>9</sup></td>
 <td align="center">–</td>
 </tr>
 </tbody>
@@ -239,7 +239,7 @@ En la resistencia de la figura:
 - La primera cifra será un 2 por ser <span style="color:#AB2524">roja</span>.
 - La segunda cifra será un 7 por ser <span style="color:#83639D">violeta</span>.
 - El multiplicador será un 5 por ser <span style="color:#48A43F">verde</span>.
-- La toleancia será del 10$\thinspace$% por ser <span style="color:#C0C0C0">plateada</span>.
+- La tolerancia será del 10&thinsp;% por ser <span style="color:#C0C0C0">plateada</span>.
 
 El valor de la resistencia será por tanto[^1]:
 

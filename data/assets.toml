@@ -3,11 +3,6 @@
 # content_source identifies script URLs in existing content for replacement during rendering.
 # Provider-managed URLs have no fixed version. First-party code is versioned with Git.
 
-[js.mathJax]
-  version = "3.2.2"
-  url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-chtml.js"
-  slides_url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-mml-chtml.js"
-  async = true
 [js.kaTeX]
   version = "0.19.1"
   url = "https://cdn.jsdelivr.net/npm/katex@%s/dist/katex.mjs"

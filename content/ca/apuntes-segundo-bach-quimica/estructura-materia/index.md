@@ -363,8 +363,13 @@ Després dels descobriments de **Thomson**, **Rutherford** i **Chadwick** a prin
 | Protó | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutró | $1.675\times 10^{-27}$ | $0$ |
 | Electró | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protó}\simeq m_\text{neutró}\sim 2000m_\text{electró}$<br>
-<td colspan=3>$q_\text{protó}=-q_\text{electró}$
+
+$$
+\begin{gather}
+m_\text{protó}\simeq m_\text{neutró}\sim 2000m_\text{electró} \\
+q_\text{protó}=-q_\text{electró}
+\end{gather}
+$$
 
 ### Model estàndard
 És la teoria que **descriu tres de les quatre interaccions fonamentals** de la naturalesa conegudes (electromagnètica, nuclear forta i nuclear dèbil), a més a més de **classificar** totes les **partícules elementals** conegudes.

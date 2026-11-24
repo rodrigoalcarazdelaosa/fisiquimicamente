@@ -15,6 +15,13 @@
     {{- $markup := string .Value -}}
     {{- /* A standalone arrow avoids the combining accent's extra ascent in WebKit. */ -}}
     {{- $markup = replace $markup `<mo>⃗</mo></mover>` `<mo stretchy="false" lspace="0" rspace="0" style="font-size:.68em">→</mo></mover>` -}}
+    {{- if in $markup "<mo>ˊ</mo>" -}}
+      {{- /* Keep acute accents in text attached to their vowels in native MathML. */ -}}
+      {{- range $vowel, $accented := dict "a" "á" "e" "é" "i" "í" "o" "ó" "u" "ú" "A" "Á" "E" "É" "I" "Í" "O" "Ó" "U" "Ú" -}}
+        {{- $accent := printf `<mover accent="true"><mtext>%s</mtext><mo>ˊ</mo></mover>` $vowel -}}
+        {{- $markup = replace $markup $accent (printf "<mtext>%s</mtext>" $accented) -}}
+      {{- end -}}
+    {{- end -}}
     {{- if in $markup "<menclose" -}}
       {{- /* Chromium does not render menclose. Draw KaTeX's boxes and cancellation strokes on mrow. */ -}}
       {{- $stroke := "transparent calc(50% - .03em),currentColor 0,currentColor calc(50% + .03em),transparent 0" -}}

@@ -102,6 +102,14 @@ body {
   text-align: center;
 }
 
+.reveal .kinetics-table {
+  font-size: 0.76em;
+}
+
+.reveal .kinetics-table :is(th, td) {
+  padding-block: 0.15em;
+}
+
 .reveal mark {
   padding: 0.2em;
   background-color: #88c0d0;
