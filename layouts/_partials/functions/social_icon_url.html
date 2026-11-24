@@ -1,0 +1,11 @@
+{{- $url := "" -}}
+{{- if in (slice "telegram" "discord" "whatsapp" "RSS" "twitter" "pinterest" "instagram") . -}}
+  {{- $name := printf "%s.svg" . -}}
+  {{- $icon := resources.Get (path.Join "media/icons" $name) -}}
+  {{- $url = partial "functions/fingerprinted_image_url" (dict "path" (path.Join "icons" $name) "resource" $icon) -}}
+{{- else -}}
+  {{- with (resources.Get (printf "media/icons/%s.png" .) | default (resources.Get (printf "media/icons/%s.svg" .))) -}}
+    {{- $url = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+{{- return $url -}}

@@ -164,11 +164,13 @@ El **análisis dimensional** nos permite **relacionar** las **dimensiones** (uni
 
 ### Ecuación de dimensiones
 Las **ecuaciones** de **dimensiones** son expresiones algebraicas en las que sustituimos las magnitudes físicas por sus dimensiones (unidades). Para denotar las dimensiones de una magnitud utilizamos la notación de **corchetes** $[\ ]$. **Destacamos**:
+$$
 \begin{align*}
-[\text{Masa}] &= \mathsf M \\\\
-[\text{Longitud}] &= \mathsf L \\\\
+[\text{Masa}] &= \mathsf M \\
+[\text{Longitud}] &= \mathsf L \\
 [\text{Tiempo}] &= \mathsf T
 \end{align*}
+$$
 Siempre que trabajemos con ecuaciones de dimensiones trataremos de expresar las dimensiones de las magnitudes físicas que nos encontremos en función de $\mathsf M$, $\mathsf L$ y $\mathsf T$.
 
 #### Ejemplos
@@ -290,10 +292,12 @@ Tiene las **mismas dimensiones** que la **magnitud medida**.
 #### Error relativo
 Es el **cociente** entre el **error absoluto** y el **valor real**:
 
+$$
 \begin{align*}
-\text{error relativo} &= \frac{\text{error absoluto}}{\text{valor real}} \\\\
+\text{error relativo} &= \frac{\text{error absoluto}}{\text{valor real}} \\
 &= \frac{\lvert\text{valor medido} - \text{valor real}\rvert}{\text{valor real}}
 \end{align*}
+$$
 
 Es **adimensional** (suele expresarse en % multiplicándolo por 100).
 

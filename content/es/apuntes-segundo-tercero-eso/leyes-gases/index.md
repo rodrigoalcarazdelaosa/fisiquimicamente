@@ -42,11 +42,13 @@ math: true
 
 **Matemáticamente**:
 
+$$
 \begin{align*}
-	pV &= \text{constante} \\\\
-	& \text{o} \\\\
+	pV &= \text{constante} \\
+	& \text{o} \\
 	p_1 V_1 &= p_2 V_2,
 \end{align*}
+$$
 
 donde:
 
@@ -83,11 +85,13 @@ $$
 > A **presión constante**, el volumen ocupado por una masa de gas es directamente proporcional a la temperatura absoluta.
 
 **Matemáticamente**:
+$$
 \begin{align*}
-	\frac{V}{T} &= \text{constante} \\\\
-	& \text{o} \\\\
+	\frac{V}{T} &= \text{constante} \\
+	& \text{o} \\
 	\frac{V_1}{T_1} &= \frac{V_2}{T_2},
 \end{align*}
+$$
 
 donde:		
 
@@ -125,11 +129,13 @@ $$
 > A **volumen constante**, la presión ejercida por una masa de gas es directamente proporcional a la temperatura absoluta.
 
 **Matemáticamente**:
+$$
 \begin{align*}
-	\frac{p}{T} &= \text{constante} \\\\
-	& \text{o} \\\\
+	\frac{p}{T} &= \text{constante} \\
+	& \text{o} \\
 	\frac{p_1}{T_1} &= \frac{p_2}{T_2},
 \end{align*}
+$$
 
 donde:		
 

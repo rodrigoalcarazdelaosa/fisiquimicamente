@@ -280,11 +280,13 @@ $$
 ---
 
 A continuación **calculamos** las **masas molares** de todos los compuestos químicos involucrados:
+$$
 \begin{align*}
-M(\ce{NH3}) &= M(\ce{N}) + 3\cdot M(\ce{H}) = 14&thinsp;\mathrm{g/mol} + 3\cdot 1&thinsp;\mathrm{g/mol} = 17&thinsp;\mathrm{g/mol} \\\\
-M(\ce{O2}) &= 2\cdot M(\ce{O}) = 2\cdot 16&thinsp;\mathrm{g/mol} = 32&thinsp;\mathrm{g/mol} \\\\
+M(\ce{NH3}) &= M(\ce{N}) + 3\cdot M(\ce{H}) = 14&thinsp;\mathrm{g/mol} + 3\cdot 1&thinsp;\mathrm{g/mol} = 17&thinsp;\mathrm{g/mol} \\
+M(\ce{O2}) &= 2\cdot M(\ce{O}) = 2\cdot 16&thinsp;\mathrm{g/mol} = 32&thinsp;\mathrm{g/mol} \\
 M(\ce{NO}) &= M(\ce{N}) + M(\ce{O}) = 14&thinsp;\mathrm{g/mol} + 16&thinsp;\mathrm{g/mol} = 30&thinsp;\mathrm{g/mol}
 \end{align*}
+$$
 
 ---
 
@@ -314,10 +316,12 @@ Calculamos el **rendimiento real** aplicando la definición de **rendimiento**:
 $$
 \eta = \frac{\text{rendimiento real}}{\text{rendimiento teórico}}\times 100
 $$
+$$
 \begin{align*}
-\text{rendimiento real} &= \frac{\eta}{100}\cdot \text{rendimiento teórico} \\\\
+\text{rendimiento real} &= \frac{\eta}{100}\cdot \text{rendimiento teórico} \\
 &= \frac{70}{100}\cdot 5\thinspace\mathrm{mol_{\ce{NO}}} = 3.5\thinspace\mathrm{mol_{\ce{NO}}\ reales}
 \end{align*}
+$$
 
 ---
 

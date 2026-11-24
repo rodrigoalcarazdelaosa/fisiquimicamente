@@ -165,10 +165,12 @@ $$
 
 Como conocemos la masa de los reactivos (carbono y oxígeno) podemos calcular la masa del único producto de la reacción:
 
+$$
 \begin{align*}
-12 + 32 &= m_\mathrm{CO_2} \\\\
+12 + 32 &= m_\mathrm{CO_2} \\
 m_\mathrm{CO_2} &= 44\thinspace\mathrm g
 \end{align*}
+$$
 
 ---
 
@@ -190,12 +192,14 @@ La razón es porque hay dos productos en la reacción, uno es el agua y otro el 
 
 La masa de este producto la podemos calcular aplicando la ley de Lavoisier:
 
+$$
 \begin{align*}
-m_\text{reactivos} &= m_\text{productos} \\\\
-340 &= 180 + m_\mathrm{O_2} \\\\
-340-180 &= m_\mathrm{O_2} \\\\
+m_\text{reactivos} &= m_\text{productos} \\
+340 &= 180 + m_\mathrm{O_2} \\
+340-180 &= m_\mathrm{O_2} \\
 m_\mathrm{O_2} &= 160\thinspace\mathrm g
 \end{align*}
+$$
 
 ---
 

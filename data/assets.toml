@@ -3,11 +3,10 @@
 # content_source identifies script URLs in existing content for replacement during rendering.
 # Provider-managed URLs have no fixed version. First-party code is versioned with Git.
 
-[js.mathJax]
-  version = "3.2.2"
-  url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-chtml.js"
-  slides_url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-mml-chtml.js"
-  async = true
+[js.kaTeX]
+  version = "0.19.1"
+  url = "https://cdn.jsdelivr.net/npm/katex@%s/dist/katex.mjs"
+  mhchem_url = "https://cdn.jsdelivr.net/npm/katex@%s/dist/contrib/mhchem.mjs"
 [js.isotope]
   version = "3.0.6"
   sri = "sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew=="
@@ -31,9 +30,9 @@
   url = "https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@%s/lite-youtube.min.js"
   sri = "sha256-tvIhTU3/TUD+qe+JjzSJ0BhcvZI0IMRkdNSHM1Udvzk="
 [js.threeDmol]
-  version = "2.5.5"
+  version = "3.0.0"
   url = "https://cdn.jsdelivr.net/npm/3dmol@%s/build/3Dmol-min.js"
-  sri = "sha256-98x4khrnLnYj6JzdERQ09Ywu/d0v/aHNISZEtAb7gBY="
+  sri = "sha256-qIbiSUQxDOqBEZFSCe+ywSRuMnhYqJitVqyQ/MwxQFM="
 [js.quizdown]
   version = "0.6.0"
   url = "https://cdn.jsdelivr.net/npm/quizdown@%s/public/build/quizdown.js"
@@ -90,7 +89,3 @@
 [js.h5pResizer]
   url = "https://cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js"
   content_source = "//cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js"
-[js.recaptcha]
-  url = "https://www.google.com/recaptcha/api.js"
-[js.netlifyIdentity]
-  url = "https://identity.netlify.com/v1/netlify-identity-widget.js"

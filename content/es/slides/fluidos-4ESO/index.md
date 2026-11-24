@@ -95,10 +95,12 @@ $$
 
 La fuerza que debemos superar es el peso del coche:
 
+$$
 \begin{align*}
-F_2 = m\cdot g &= 1500\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} \\\\
+F_2 = m\cdot g &= 1500\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} \\
 &= 14700\thinspace\mathrm{N}
 \end{align*}
+$$
 
 ---
 
@@ -118,10 +120,12 @@ donde $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thins
 
 Despejando $r_2$:
 
+$$
 \begin{align*}
-r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{N}}{500\thinspace\mathrm{N}}} \\\\
+r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{N}}{500\thinspace\mathrm{N}}} \\
 &= 0.434\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
 \end{align*}
+$$
 
 ---
 
@@ -173,19 +177,23 @@ donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la pres
 ---
 
 Convertimos todo al SI:
+$$
 \begin{align*}
-10\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 1013250\thinspace\mathrm{Pa} \\\\
+10\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 1013250\thinspace\mathrm{Pa} \\
 1\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 101325\thinspace\mathrm{Pa}
 \end{align*}
+$$
 
 ---
 
 Despejando $h$:
 
+$$
 \begin{align*}
-h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\\\
+h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\
 &= 90.8\thinspace\mathrm{m}
 \end{align*}
+$$
 
 Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente.
 
@@ -220,12 +228,14 @@ En recipientes comunicados entre sí (**vasos comunicantes**), el fluido se dist
 
 ---
 
+$$
 \begin{align*}
-E &= P_\text{fluido desalojado} \\\\
-&= m_\text{fluido desalojado}\cdot g \\\\
-&= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\\\
+E &= P_\text{fluido desalojado} \\
+&= m_\text{fluido desalojado}\cdot g \\
+&= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\
 &= d_\text{fluido}\cdot V_\text{sumergido}\cdot g
 \end{align*}
+$$
 
 ---
 
@@ -254,10 +264,12 @@ $$
 
 Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene que ser cero, o lo que es lo mismo, el empuje ha de igualar al peso. Aplicando el **principio de Arquímedes**:
 
+$$
 \begin{align*}
-E &= P_\text{barco} \\\\
+E &= P_\text{barco} \\
 d_\text{fluido}\cdot V_\text{sumergido}\cdot g &= m_\text{barco}\cdot g
 \end{align*}
+$$
 
 ---
 
@@ -326,11 +338,13 @@ Gracias al **experimento de Torricelli** se midió por primera vez la presión a
 
 {{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" width="40%" >}}
 
+$$
 \begin{align*}
-p_\text{atm} &= d_\text{Hg}\cdot g\cdot h \\\\
-&= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\\\
+p_\text{atm} &= d_\text{Hg}\cdot g\cdot h \\
+&= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\
 &= 101\thinspace325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
 \end{align*}
+$$
 
 ---
 

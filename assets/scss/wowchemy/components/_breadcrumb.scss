@@ -41,3 +41,30 @@
 .dark .breadcrumb-item.active {
   color: nord.$nord4;
 }
+
+.header-breadcrumb {
+  position: absolute;
+  inset: 100% 0 auto;
+  z-index: -1;
+  padding-block: 0.35rem;
+  background: var(--page-background);
+  box-shadow: 0 0.125rem 0.25rem var(--menu-shadow);
+  visibility: hidden;
+
+  &.header-breadcrumb--visible { visibility: visible; }
+
+  .breadcrumb {
+    max-width: 760px;
+    margin: 0 auto;
+    padding-inline: 20px;
+    overflow-wrap: anywhere;
+  }
+
+  &.header-breadcrumb--aligned .breadcrumb {
+    max-width: var(--breadcrumb-width);
+    margin-left: var(--breadcrumb-left);
+    padding-inline: 0;
+  }
+
+  @media print { display: none; }
+}

@@ -311,18 +311,22 @@ donde $n = 4\thinspace\mathrm{mol}$ y $\alpha = 0.3$.
 
 Calculamos las concentraciones de cada gas:
 
+$$
 \begin{align*}
-[\mathrm{SO_3}] & = \frac{4\thinspace\mathrm{mol}\cdot (1-0.3)}{20\thinspace\mathrm L} = 0.14\thinspace\mathrm{M} \\\\
-[\mathrm{SO_2}] & = \frac{4\thinspace\mathrm{mol}\cdot 0.3}{20\thinspace\mathrm L} = 0.06\thinspace\mathrm{M} \\\\
+[\mathrm{SO_3}] & = \frac{4\thinspace\mathrm{mol}\cdot (1-0.3)}{20\thinspace\mathrm L} = 0.14\thinspace\mathrm{M} \\
+[\mathrm{SO_2}] & = \frac{4\thinspace\mathrm{mol}\cdot 0.3}{20\thinspace\mathrm L} = 0.06\thinspace\mathrm{M} \\
 [\mathrm{O_2}] & = \frac{1/2\cdot 4\thinspace\mathrm{mol}\cdot 0.3}{20\thinspace\mathrm L} = 0.03\thinspace\mathrm{M}
 \end{align*}
+$$
 
 b) A partir de la **ecuación de los gases ideales**, $p = cRT$:
+$$
 \begin{align*}
-p_{\mathrm{SO_3}} &= 0.14\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{atm\thinspace L\thinspace mol^{-1}\thinspace K^{-1}}\cdot 400.15\thinspace \mathrm{K} = 4.6\thinspace\mathrm{atm} \\\\
-p_{\mathrm{SO_2}} &= 0.06\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{atm\thinspace L\thinspace mol^{-1}\thinspace K^{-1}}\cdot 400.15\thinspace \mathrm{K} = 2\thinspace\mathrm{atm} \\\\
+p_{\mathrm{SO_3}} &= 0.14\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{atm\thinspace L\thinspace mol^{-1}\thinspace K^{-1}}\cdot 400.15\thinspace \mathrm{K} = 4.6\thinspace\mathrm{atm} \\
+p_{\mathrm{SO_2}} &= 0.06\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{atm\thinspace L\thinspace mol^{-1}\thinspace K^{-1}}\cdot 400.15\thinspace \mathrm{K} = 2\thinspace\mathrm{atm} \\
 p_{\mathrm{O_2}} &= 0.03\thinspace\mathrm{mol/L}\cdot 0.082\thinspace\mathrm{atm\thinspace L\thinspace mol^{-1}\thinspace K^{-1}}\cdot 400.15\thinspace \mathrm{K} = 1\thinspace\mathrm{atm}
 \end{align*}
+$$
 
 De acuerdo a la **ley de las presiones parciales de Dalton**, la **presión total** es:
 

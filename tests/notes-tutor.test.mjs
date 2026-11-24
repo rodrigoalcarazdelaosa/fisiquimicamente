@@ -33,6 +33,7 @@ function setup(options = {}) {
       this.parentNode = null; this.connected = false;
     }
     setAttribute(name, value) { this.attributes[name] = value; }
+    querySelectorAll() { return []; }
     focus() { activeElement = this; }
     blur() { activeElement = null; }
   }
@@ -54,11 +55,12 @@ function setup(options = {}) {
   const frames = [];
   const calls = [];
   const typeset = [];
-  const mathScripts = [];
+  const mathImports = [];
   const mobile = { matches: Boolean(options.mobile) };
   const headings = [['Introducción', 200, 'H2'], ['Ondas armónicas', 800, 'H2'], ['Frecuencia', 900, 'H3'], ['El sonido', 1600, 'H2']];
   article.querySelectorAll = () => headings.map(([title, top, tagName], index) => ({
     textContent: title, tagName, getBoundingClientRect: () => ({ top: top - scroll }),
+    querySelector: () => null,
     contains: (node) => node?.sectionIndex === index,
     compareDocumentPosition: (node) => node?.sectionIndex > index ? 4 : 0,
   }));
@@ -84,24 +86,11 @@ function setup(options = {}) {
   window.requestAnimationFrame = (callback) => frames.push(callback);
   window.innerHeight = 800;
   window.visualViewport = Object.assign(new EventTarget(), { height: 800, offsetTop: 0 });
-  if (options.lazyMath || options.pageMath) {
-    root.dataset = { pageMath: String(Boolean(options.pageMath)), mathConfigUrl: '/math-config.js', mathjaxUrl: '/mathjax.js' };
-    document.head = { append: (script) => {
-      mathScripts.push(script.src);
-      queueMicrotask(() => {
-        if (script.src === '/math-config.js') window.MathJax = { loader: { load: [] } };
-        else {
-          window.MathJax.startup = { promise: Promise.resolve() };
-          window.MathJax.typesetPromise = async (nodes) => typeset.push(...nodes);
-        }
-        script.onload();
-      });
-    } };
-  }
-  if (options.math) window.MathJax = {
-    startup: { promise: Promise.resolve() },
-    typesetPromise: async (nodes) => { typeset.push(...nodes); },
-    typesetClear: () => {},
+  root.dataset = { katexUrl: '/katex.mjs', mhchemUrl: '/mhchem.mjs' };
+  const importMath = async (url) => {
+    mathImports.push(url);
+    if (options.failMath) throw new Error('Module unavailable');
+    return { default: { render: (tex, node, config) => typeset.push({ tex, node, config }) } };
   };
   elements['.notes-tutor-panel'].hidden = true;
   const fetch = async (url, request) => {
@@ -110,9 +99,9 @@ function setup(options = {}) {
     return { ok: options.status ? options.status === 200 : true, status: options.status || 200,
       json: async () => ({ answer: options.answer || 'Explicación de prueba.', truncated: options.truncated }) };
   };
-  const api = initNotesTutor(root, data, { window, document, fetch, AbortController, setTimeout, clearTimeout });
+  const api = initNotesTutor(root, data, { window, document, fetch, AbortController, setTimeout, clearTimeout }, importMath);
   return {
-    elements, frames, suggestions, calls, toc, window, root, typeset, mathScripts,
+    elements, frames, suggestions, calls, toc, window, root, typeset, mathImports,
     open: () => api.toggle(),
     move: (value, event = 'scroll') => { scroll = value; window.dispatchEvent(new Event(event)); },
     flush: () => { while (frames.length) frames.shift()(); },
@@ -223,7 +212,7 @@ test('submitting uses the pinned section and keeps the assistant response', asyn
 
 test('paragraphs, emphasis, lists and TeX render without interpreting HTML', async () => {
   const answer = '**Fuerza**\n\n- Primer punto\n- Fórmula: \\(F = m * a\\)\n\n3. Tercer paso\n\n<img src=x onerror=alert(1)>';
-  const ui = setup({ endpoint: '/api/tutor', answer, math: true });
+  const ui = setup({ endpoint: '/api/tutor', answer });
   await ui.submit('Explícalo');
   const walk = (node) => [node, ...node.childNodes.flatMap(walk)];
   const log = ui.elements['.notes-tutor-messages'];
@@ -266,23 +255,38 @@ test('multiline display math remains in one paragraph before the following list'
   assert.equal(content.childNodes[2].tagName, 'UL');
 });
 
-test('a page without math loads the configuration and safe engine when the chat initializes', async () => {
-  const ui = setup({ lazyMath: true, endpoint: '/api/tutor', answer: '\\(F = ma\\)' });
+test('opens the tutor without importing KaTeX and imports it once for the first equation', async () => {
+  const ui = setup({ endpoint: '/api/tutor', answer: 'The equation is $F=ma$.' });
+  ui.open();
+  assert.deepEqual(ui.mathImports, []);
   await ui.submit('Explica la ecuación');
-  assert.deepEqual(ui.mathScripts, ['/math-config.js', '/mathjax.js']);
-  assert.ok(ui.window.MathJax.loader.load.includes('ui/safe'));
-  assert.equal(ui.typeset.length, 1);
+  assert.deepEqual(ui.mathImports, ['/katex.mjs']);
+  assert.equal(ui.typeset[0].tex, 'F=ma');
+  assert.equal(ui.typeset[0].config.trust, false);
+  assert.equal(ui.typeset[0].config.output, 'mathml');
+  assert.equal(ui.typeset[0].config.displayMode, false);
   await ui.submit('Ponme otro ejemplo');
-  assert.equal(ui.mathScripts.length, 2);
+  assert.deepEqual(ui.mathImports, ['/katex.mjs']);
 });
 
-test('a page that already loads math does not request another engine', () => {
-  const ui = setup({ pageMath: true });
-  assert.deepEqual(ui.mathScripts, []);
+test('renders display math with mhchem and leaves code untouched', async () => {
+  const ui = setup({ endpoint: '/api/tutor', answer: '$$\\ce{H2 + Cl2 -> 2 HCl}$$\n\n`$code$`' });
+  await ui.submit('Explica la reacción');
+  assert.deepEqual(ui.mathImports, ['/katex.mjs', '/mhchem.mjs']);
+  assert.equal(ui.typeset.length, 1);
+  assert.equal(ui.typeset[0].tex, '\\ce{H2 + Cl2 -> 2 HCl}');
+  assert.equal(ui.typeset[0].config.displayMode, true);
+});
+
+test('keeps the TeX when KaTeX fails to load', async () => {
+  const ui = setup({ endpoint: '/api/tutor', answer: '\\(F = ma\\)', failMath: true });
+  await ui.submit('Explica la ecuación');
+  assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('\\(F = ma\\)'));
+  assert.equal(ui.typeset.length, 0);
 });
 
 test('clearing the conversation removes messages and does not send a new request', async () => {
-  const ui = setup({ endpoint: '/api/tutor', math: true });
+  const ui = setup({ endpoint: '/api/tutor' });
   await ui.submit('¿Qué es una onda?');
   ui.elements['.notes-tutor-reset'].dispatchEvent(new Event('click'));
   assert.equal(ui.elements['.notes-tutor-messages'].childElementCount, 0);
@@ -314,7 +318,7 @@ const settle = () => new Promise((resolve) => setImmediate(resolve));
 
 test('streaming displays text before completion and typesets math only at the end', async () => {
   const stream = streamingResponse();
-  const ui = setup({ endpoint: '/api/tutor', math: true, fetch: async (_url, request) => {
+  const ui = setup({ endpoint: '/api/tutor', fetch: async (_url, request) => {
     assert.match(request.headers.Accept, /application\/x-ndjson/);
     return stream.response;
   } });
@@ -324,6 +328,7 @@ test('streaming displays text before completion and typesets math only at the en
   assert.ok(ui.elements['.notes-tutor-messages'].textContent.includes('Fuerza'));
   assert.equal(ui.elements.textarea.disabled, true);
   assert.equal(ui.typeset.length, 0);
+  assert.deepEqual(ui.mathImports, []);
   stream.send({ type: 'delta', text: '\\(F = ma\\)' });
   stream.send({ type: 'done', truncated: false });
   stream.close();

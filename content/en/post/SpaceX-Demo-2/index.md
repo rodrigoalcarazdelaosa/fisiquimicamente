@@ -510,10 +510,12 @@ v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}},
 $$
 where $G = 6.67\times 10^{-11}\thinspace\mathrm{m^3\thinspace kg^{-1}\thinspace s^{-2}}$, $M_\mathrm T = 5.97\times 10^{24}\thinspace\mathrm{kg}$ is the mass of the Earth y $r = R_\mathrm T + h$ is the distance the ship is measured from the center of the Earth, with $R_\mathrm T = 6371\thinspace\mathrm{km}$. For an altitude $h = 200\thinspace$km, we have:
 
+$$
 \begin{align*}
-v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}} &= \sqrt{\frac{6.67\times 10^{-11}\cdot 5.97\times 10^{24}}{(6371+200)\times 10^3}} \\\\
+v_\text{orbital} = \sqrt{\frac{GM_\mathrm T}{r}} &= \sqrt{\frac{6.67\times 10^{-11}\cdot 5.97\times 10^{24}}{(6371+200)\times 10^3}} \\
 &= 7784.6\thinspace\mathrm{m/s} \approx 28000\thinspace\mathrm{km/h}
 \end{align*}
+$$
 
 which is a relative error of about 3.7$\thinspace$%.
 

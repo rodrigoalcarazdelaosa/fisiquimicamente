@@ -1,2 +1,8 @@
 {{- .Page.Store.Set "has_lite_youtube" true -}}
-<lite-youtube videoid="{{ .Get 0 }}" videoStartAt="{{ .Get 1 | default 0 }}"></lite-youtube>
+{{- $id := .Get 0 -}}
+<lite-youtube videoid="{{ $id }}" videoStartAt="{{ .Get 1 | default 0 }}">
+  {{- if eq $id "LNsSS6Id6bM" -}}
+    {{- /* YouTube provides the JPEG poster for this video, but not its WebP equivalent. */ -}}
+    <img slot="image" src="https://i.ytimg.com/vi/LNsSS6Id6bM/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">
+  {{- end -}}
+</lite-youtube>

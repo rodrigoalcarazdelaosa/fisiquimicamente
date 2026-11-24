@@ -95,10 +95,12 @@ $$
 
 La força que hem de superar és el pes del cotxe:
 
+$$
 \begin{align*}
-F_2 = m\cdot g &= 1500\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} \\\\
+F_2 = m\cdot g &= 1500\thinspace\mathrm{kg}\cdot 9.8\thinspace\mathrm{N/kg} \\
 &= 14700\thinspace\mathrm{N}
 \end{align*}
+$$
 
 ---
 
@@ -118,10 +120,12 @@ on $F_1 = 500\thinspace\mathrm N$, $r_1 = 8\thinspace\mathrm{cm} = 0.08\thinspac
 
 Aïllant $r_2$:
 
+$$
 \begin{align*}
-r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{N}}{500\thinspace\mathrm{N}}} \\\\
+r_2 = r_1 \sqrt{\frac{F_2}{F_1}} &= 0.08\thinspace\mathrm{m}\sqrt{\frac{14700\thinspace\mathrm{N}}{500\thinspace\mathrm{N}}} \\
 &= 0.434\thinspace\mathrm m = 43.4\thinspace\mathrm{cm}
 \end{align*}
+$$
 
 ---
 
@@ -173,19 +177,23 @@ on $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ és la pressi
 ---
 
 Convertim totes les unitats al SI:
+$$
 \begin{align*}
-10\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 1013250\thinspace\mathrm{Pa} \\\\
+10\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 1013250\thinspace\mathrm{Pa} \\
 1\thinspace\mathrm{atm}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{atm}} = 101325\thinspace\mathrm{Pa}
 \end{align*}
+$$
 
 ---
 
 Aïllant $h$:
 
+$$
 \begin{align*}
-h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\\\
+h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\
 &= 90.8\thinspace\mathrm{m}
 \end{align*}
+$$
 
 El que confirma la *regla d'or* que ens diu que cada 10 m de profunditat la pressió augmenta en 1 atm aproximadament.
 
@@ -216,12 +224,14 @@ En recipients comunicats entre si (**vasos comunicants**), el fluid es distribue
 
 ---
 
+$$
 \begin{align*}
-E &= P_\text{fluid desallotjat} \\\\
-&= m_\text{fluid desallotjat}\cdot g \\\\
-&= d_\text{fluid}\cdot V_\text{desallotjat}\cdot g \\\\
+E &= P_\text{fluid desallotjat} \\
+&= m_\text{fluid desallotjat}\cdot g \\
+&= d_\text{fluid}\cdot V_\text{desallotjat}\cdot g \\
 &= d_\text{fluid}\cdot V_\text{submergit}\cdot g
 \end{align*}
+$$
 
 ---
 
@@ -250,10 +260,12 @@ $$
 
 Si el vaixell sura ha de complir-se que la força resultant neta sobre ell ha de ser zero, o el que és el mateix, l'empenyment ha d'igualar al pes. Aplicant el **principi d'Arquimedes**:
 
+$$
 \begin{align*}
-E &= P_\text{vaixell} \\\\
+E &= P_\text{vaixell} \\
 d_\text{fluid}\cdot V_\text{submergit}\cdot g &= m_\text{vaixell}\cdot g
 \end{align*}
+$$
 
 ---
 
@@ -316,11 +328,13 @@ Gràcies a l'**experiment de Torricelli** es va mesurar per primera vegada la pr
 
 {{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" lightbox="false" width="40%" >}}
 
+$$
 \begin{align*}
-p_\text{atm} &= d_\text{Hg}\cdot g\cdot h \\\\
-&= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\\\
+p_\text{atm} &= d_\text{Hg}\cdot g\cdot h \\
+&= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\
 &= 101\thinspace325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
 \end{align*}
+$$
 
 ---
 

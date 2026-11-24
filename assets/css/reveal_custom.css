@@ -102,6 +102,14 @@ body {
   text-align: center;
 }
 
+.reveal .kinetics-table {
+  font-size: 0.76em;
+}
+
+.reveal .kinetics-table :is(th, td) {
+  padding-block: 0.15em;
+}
+
 .reveal mark {
   padding: 0.2em;
   background-color: #88c0d0;
@@ -161,4 +169,35 @@ body {
 
 .reveal i {
   font-style: normal;
+}
+.molecule-print-renderer {
+  position: fixed;
+  top: 0;
+  left: -10000px;
+  visibility: hidden;
+}
+
+.reveal [data-molecule-viewer] > .molecule-print-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  object-fit: contain;
+}
+
+.molecule-print-status {
+  position: fixed;
+  z-index: 100;
+  inset: auto 1rem 1rem;
+  width: fit-content;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+  background: #2e3440;
+  color: #eceff4;
+}
+
+@media print {
+  .molecule-print-status { display: none; }
 }

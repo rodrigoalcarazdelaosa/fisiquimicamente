@@ -13,7 +13,8 @@
   <div class="hero-brand">
   {{ $brand := urlize $block.Title }}
   {{ with resources.Get (printf "media/logo-%s.svg" $brand) }}
-    <img draggable="false" class="brand-{{ $brand }}" alt="{{ $brand }}" src="{{ .RelPermalink }}" width="100%" id="{{ $brand }}">
+    {{ $src := partial "functions/fingerprinted_image_url" (dict "path" (path.Base .Name) "resource" .) }}
+    <img draggable="false" class="brand-{{ $brand }}" alt="{{ $brand }}" src="{{ $src }}" width="100%" id="{{ $brand }}">
   {{ end }}
   </div>
     {{ end }}
@@ -59,8 +60,16 @@
 
     {{/* Call-to-action note */}}
     {{ with $block.Params.cta_note }}
+    {{ $label := .label | markdownify | emojify }}
+    {{ range slice "telegram" "whatsapp" "discord" "RSS" }}
+      {{ $original := printf `src="/icon/%s.svg"` . }}
+      {{ if strings.Contains $label $original }}
+        {{ $src := partial "functions/social_icon_url" . }}
+        {{ $label = replace $label $original (printf `src="%s"` $src) }}
+      {{ end }}
+    {{ end }}
     <p class="hero-note text-muted mb-3 mb-md-1">
-      {{ .label | markdownify | emojify | safeHTML }}
+      {{ $label | safeHTML }}
     </p>
     {{ end }}
 

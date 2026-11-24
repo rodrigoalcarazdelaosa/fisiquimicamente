@@ -42,12 +42,14 @@ $$
 
 ## 2. Ecuaciones de Maxwell
 
+$$
 \begin{align*}
-\nabla \cdot \mathbf E &= \frac{\rho}{\epsilon_0} \\\\
-\nabla \cdot \mathbf B &= 0 \\\\
-\nabla \times \mathbf E &= -\frac{\partial{\mathbf B}}{\partial t} \\\\
+\nabla \cdot \mathbf E &= \frac{\rho}{\epsilon_0} \\
+\nabla \cdot \mathbf B &= 0 \\
+\nabla \times \mathbf E &= -\frac{\partial{\mathbf B}}{\partial t} \\
 \nabla \times \mathbf B &= \mu_0\left(\mathbf J+\epsilon_0\frac{\partial{\mathbf E}}{\partial t}\right)
 \end{align*}
+$$
 
 > Si estás viendo esto en un teléfono u ordenador, puedes agradecer a las [**ecuaciones de Maxwell**](https://es.wikipedia.org/wiki/Ecuaciones_de_Maxwell) por hacerlo posible. Juntas, describen la relación entre la [electricidad](https://es.wikipedia.org/wiki/Electricidad) y el [magnetismo](https://es.wikipedia.org/wiki/Magnetismo) &mdash;y la [radiación electromagnética](https://es.wikipedia.org/wiki/Radiación_electromagnética). ¡Que se haga la [luz](https://es.wikipedia.org/wiki/Luz)!
 
@@ -125,10 +127,12 @@ $$
 
 ## 11. Ecuaciones de Friedmann
 
+$$
 \begin{align*}
-\left(\frac{\dot a}{a}\right)^2 &= \frac{8\pi G}{3}\rho - \frac{k}{a^2} + \frac{\Lambda}{3} \\\\
+\left(\frac{\dot a}{a}\right)^2 &= \frac{8\pi G}{3}\rho - \frac{k}{a^2} + \frac{\Lambda}{3} \\
 \frac{\ddot a}{a} &= -\frac{4\pi G}{3}(\rho+3p)+\frac{\Lambda}{3}
 \end{align*}
+$$
 
 > ¿Quieres saber el destino del universo? No busques más que [estas **ecuaciones**](https://es.wikipedia.org/wiki/Ecuaciones_de_Friedmann), que describen cómo evolucionará el [universo](https://es.wikipedia.org/wiki/Universo) en función de la cantidad de [materia](https://es.wikipedia.org/wiki/Materia) y [energía](https://es.wikipedia.org/wiki/Energ%C3%ADa) y la [tasa de expansión actual](https://es.wikipedia.org/wiki/Expansión_métrica_del_espacio).
 
@@ -158,10 +162,12 @@ $$
 
 ## 15. Ecuaciones de Hamilton
 
+$$
 \begin{align*}
-\frac{\mathrm d \mathbf p}{\mathrm d t} &= -\frac{\partial \mathcal H}{\partial \mathbf q} \\\\
+\frac{\mathrm d \mathbf p}{\mathrm d t} &= -\frac{\partial \mathcal H}{\partial \mathbf q} \\
 \frac{\mathrm d \mathbf q}{\mathrm d t} &= \frac{\partial \mathcal H}{\partial \mathbf p}
 \end{align*}
+$$
 
 > Las [**ecuaciones de Hamilton**](https://es.wikipedia.org/wiki/Ecuación_de_Hamilton-Jacobi) pueden utilizarse para describir el [movimiento](https://es.wikipedia.org/wiki/Movimiento_(f%C3%ADsica)) de una pelota que rebota o predecir su [trayectoria](https://es.wikipedia.org/wiki/Trayectoria) hacia la canasta. Siempre que la pelota no sea demasiado pequeña o se mueva demasiado rápido, esta formulación de la [mecánica clásica](https://es.wikipedia.org/wiki/Mecánica_clásica) es suficiente.
 

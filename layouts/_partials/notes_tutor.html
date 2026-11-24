@@ -3,14 +3,13 @@
   {{ $strings = merge $strings (dict . (i18n (printf "notes_tutor_%s" .))) }}
 {{ end }}
 {{ $endpoint := site.Params.notes_tutor.endpoint | default "" }}
-{{ $data := dict "endpoint" $endpoint "title" .Title "url" .Permalink "language" .Lang "tags" (.Params.tags | default slice) "content" (.Plain | htmlUnescape) "strings" $strings }}
+{{ $data := dict "endpoint" $endpoint "title" .Title "url" .Permalink "language" .Lang "tags" (.Params.tags | default slice) "content" (partial "functions/plain_content.html" .) "strings" $strings }}
 {{ $context := resources.FromString (printf "tutor/%s/%s.json" .Lang (md5 .RelPermalink)) ($data | jsonify) | fingerprint }}
 {{ $script := resources.Get "js/notes-tutor.mjs" | minify | fingerprint }}
 {{ $panelCSS := resources.Get "scss/_notes-tutor.scss" | toCSS (dict "targetPath" "css/notes-tutor.css" "outputStyle" "compressed") }}
 {{ $styles := resources.FromString "css/notes-tutor.css" (printf "@layer components { %s }" $panelCSS.Content) | minify | fingerprint }}
-{{ $mathConfig := resources.Get "js/mathjax-config.js" }}
-{{ $math := hugo.Data.assets.js.mathJax }}
-<aside class="notes-tutor d-print-none" aria-label="{{ $strings.title }}" data-script-url="{{ $script.RelPermalink }}" data-context-url="{{ $context.RelPermalink }}" data-styles-url="{{ $styles.RelPermalink }}" data-math-config-url="{{ $mathConfig.RelPermalink }}" data-mathjax-url="{{ printf $math.url $math.version }}" data-page-math="{{ or .Params.math site.Params.features.math.enable }}" data-loading-label="{{ i18n "notes_tutor_loading" }}" data-error-label="{{ i18n "notes_tutor_load_error" }}" hidden>
+{{ $math := hugo.Data.assets.js.kaTeX }}
+<aside class="notes-tutor d-print-none" aria-label="{{ $strings.title }}" data-script-url="{{ $script.RelPermalink }}" data-context-url="{{ $context.RelPermalink }}" data-styles-url="{{ $styles.RelPermalink }}" data-katex-url="{{ partial "functions/script_url.html" $math }}" data-mhchem-url="{{ printf $math.mhchem_url $math.version }}" data-loading-label="{{ i18n "notes_tutor_loading" }}" data-error-label="{{ i18n "notes_tutor_load_error" }}" hidden>
   <button class="notes-tutor-toggle" type="button" aria-label="{{ $strings.title }}" aria-expanded="false" aria-controls="notes-tutor-panel">
     <span class="notes-tutor-icon" aria-hidden="true">🤖</span>
     <span class="notes-tutor-toggle-label">{{ $strings.title }}</span>

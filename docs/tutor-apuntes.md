@@ -40,10 +40,8 @@ Los recursos se reutilizan al cerrar y volver a abrir el panel; también se cons
 la conversación. Si una descarga falla, se muestra un mensaje y se puede reintentar.
 El texto seleccionado antes del primer clic se conserva mientras se carga el tutor.
 
-En páginas con fórmulas, MathJax sigue cargándose al entrar para mostrar los
-apuntes. En las demás páginas solo se descarga al abrir el tutor. Los estilos del
-panel se compilan por separado; los colores compartidos están en
-`assets/scss/_nord.scss`.
+El tutor descarga KaTeX al recibir su primera fórmula. Los estilos del panel se
+compilan por separado y los colores compartidos están en `assets/scss/_nord.scss`.
 
 ## Configuración actual
 
@@ -152,7 +150,7 @@ hayan actualizado. El navegador también acepta JSON si el Worker sigue en su
 versión anterior; se pueden desplegar ambos componentes por separado.
 
 La explicación aparece mientras se genera, con el formato actualizado como
-máximo una vez por fotograma. MathJax renderiza las fórmulas al terminar para
+máximo una vez por fotograma. KaTeX renderiza las fórmulas al terminar para
 evitar procesar expresiones incompletas. La espera se cancela después de 45
 segundos sin recibir texto nuevo. Si la conexión se interrumpe, se conserva la
 respuesta parcial y la pregunta, y aparece un aviso traducido. La respuesta
@@ -204,9 +202,8 @@ en el navegador no garantiza que una inferencia iniciada se detenga en el servid
 
 Las respuestas admiten párrafos, listas numeradas y con viñetas, negrita, cursiva
 y código. Ese formato se construye con nodos del DOM sin interpretar HTML del
-modelo. Las fórmulas LaTeX se renderizan con MathJax y su extensión `ui/safe`,
-manteniendo el texto si no se puede cargar o renderizar una expresión. Las
-páginas sin `math: true` lo cargan al abrir el tutor.
+modelo. KaTeX renderiza las fórmulas LaTeX en MathML con `trust: false` y límites
+de expansión. El tutor conserva el TeX si falla la descarga o el renderizado.
 Si la cuota se agota o falla el proveedor, el panel muestra que el servicio no
 está disponible y conserva la pregunta para volver a intentarlo.
 
