@@ -72,22 +72,10 @@
       {{ $isSVG := eq $image.MediaType.SubType "svg" }}
       {{ $animation_type := strings.TrimPrefix "." (path.Ext $image.RelPermalink) | lower }}
 
-      {{ if eq $animation_type "json" }}                
-        <lottie-player autoplay loop mode="normal" style="width: 100%; height:auto"></lottie-player>
-        <script>
-          document.addEventListener('wcThemeChange', (e) => {
-            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-            if (e.detail.isDarkTheme()) {
-              const player = document.querySelector("lottie-player");
-              player.load({{ $image.RelPermalink }}.slice(0, -5).concat("-dark.json"));
-            } else {
-              const player = document.querySelector("lottie-player");
-              player.load("{{ $image.RelPermalink }}");
-            }
-          });
-        </script>
-      {{ else if eq $animation_type "tgs" }}                
-        <tgs-player autoplay loop mode="normal" data-src="{{ $image.RelPermalink }}" {{ partial "functions/tgs_dark_attr.html" (dict "animation" $image "page" $block.Parent) }} style="width: 100%; height:auto"></tgs-player>
+      {{ if eq $animation_type "json" }}
+        <lottie-player autoplay loop mode="normal" data-src="{{ $image.RelPermalink }}" {{ partial "functions/animation_dark_attr.html" (dict "animation" $image "page" $block.Parent) }} style="width: 100%; height:auto"></lottie-player>
+      {{ else if eq $animation_type "tgs" }}
+        <tgs-player autoplay loop mode="normal" data-src="{{ $image.RelPermalink }}" {{ partial "functions/animation_dark_attr.html" (dict "animation" $image "page" $block.Parent) }} style="width: 100%; height:auto"></tgs-player>
       {{ else if $isSVG -}}
 
         <img src="{{ $image.RelPermalink }}" alt="{{ $block.Title }}">

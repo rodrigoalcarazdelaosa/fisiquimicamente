@@ -33,7 +33,6 @@
   {{ end }}
 
   {{ $hasHighlighting := false }}
-  {{ $hasMarkdown := false }}
   {{ $hasPlayers := false }}
   {{ range union (slice .Page) .Pages }}
     {{ $content := .Content }}
@@ -44,9 +43,6 @@
       {{ $hasHighlighting = true }}
     {{ end }}
     {{ $body := replaceRE `(?is)<!--.*?-->|<(?:pre|code|script|style)\b[^>]*>.*?</(?:pre|code|script|style)\s*>` "" $content }}
-    {{ if and (not $hasMarkdown) (findRE `(?i)<[a-z][^>]*\sdata-markdown(?:\s|=|>)` $body 1) }}
-      {{ $hasMarkdown = true }}
-    {{ end }}
     {{ if and (not $hasPlayers) (findRE `(?i)<(?:tgs|lottie)-player\b` $body 1) }}
       {{ $hasPlayers = true }}
     {{ end }}
@@ -62,11 +58,8 @@
   {{ end }}
 
    {{/* Load any Reveal CSS customizations */}}
-   {{ $custom_reveal_css := printf "css/reveal_custom.css" }}
-   {{ if (fileExists (printf "assets/%s" $custom_reveal_css)) }}
-     {{ $css_custom := resources.Get "css/reveal_custom.css" }}
-     {{ $style := slice $css_custom | resources.Concat "css/reveal_custom.css" | resources.Minify }}
-     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+   {{ with resources.Get "css/reveal_custom.css" }}
+     <link rel="stylesheet" href="{{ (. | minify | fingerprint).RelPermalink }}">
    {{ end }}
 
   <meta name="format-detection" content="telephone=no">
@@ -78,19 +71,17 @@
 
   {{ block "main" . }}{{ end }}
 
-  {{/* Load Reveal and built-in plugins. */}}
+  {{/* Load Reveal. */}}
   <script src="{{ $cdn_url_reveal }}/dist/reveal.js" crossorigin="anonymous"></script>
-  {{ if $hasMarkdown }}
-    <script src="{{ $cdn_url_reveal }}/dist/plugin/markdown.js" crossorigin="anonymous"></script>
-  {{ end }}
-  <script src="{{ $cdn_url_reveal }}/dist/plugin/notes.js" crossorigin="anonymous"></script>
-  <script src="{{ $cdn_url_reveal }}/dist/plugin/search.js" crossorigin="anonymous"></script>
-  <script src="{{ $cdn_url_reveal }}/dist/plugin/zoom.js" crossorigin="anonymous"></script>
 
   {{/* Initialize slides. */}}
-  {{ $params := dict "slides" $.Params.slides "hasMarkdown" $hasMarkdown "hasPlayers" $hasPlayers }}
+  {{ $params := dict "slides" $.Params.slides }}
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" $params "minify" hugo.IsProduction) | fingerprint }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
+  {{ if $hasPlayers }}
+    {{ $players := partial "functions/animation_script.html" . }}
+    <script data-cfasync="false" defer src="{{ $players.RelPermalink }}"></script>
+  {{ end }}
   {{ partial "embed_scripts.html" . }}
   {{ partial "hooks/body-end/threedmol.html" . }}
 
