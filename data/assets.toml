@@ -23,7 +23,7 @@
   css_url = "https://cdn.jsdelivr.net/npm/photoswipe@%s/dist/photoswipe.min.css"
   css_sri = "sha384-CKeYI6jsYBV4DV34zRfxht32qlPolZvokUknVb7SnE4PCoiTTqCN47Tr+hQAKkXY"
 [js.reveal]
-  version = "5.2.1"
+  version = "6.0.2"
   url = "https://cdn.jsdelivr.net/npm/reveal.js@%s"
 [js.liteYouTube]
   version = "1.9.0"
