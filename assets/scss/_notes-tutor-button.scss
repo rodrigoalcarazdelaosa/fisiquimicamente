@@ -1,4 +1,3 @@
-@use "sass:string";
 @use "theme";
 @use "nord";
 @use "breakpoints";
@@ -61,11 +60,23 @@
     --notes-tutor-width: clamp(360px, calc(50vw - 420px), 560px);
     // Keep controls outside the article when the minimum-width panel would overlap it.
     --notes-tutor-control-inset: max(0px, calc(780px - 50vw));
+    --notes-tutor-left: max(16px, calc(50vw - 380px - var(--notes-tutor-width) - 24px));
     top: 7rem;
     bottom: auto;
-    left: string.unquote("max(16px, calc(50vw - 380px - var(--notes-tutor-width) - 24px))");
+    left: var(--notes-tutor-left);
     width: var(--notes-tutor-width);
   }
+
+  .article-sidebars-sticky > .notes-tutor {
+    position: absolute;
+    top: var(--article-sidebars-padding);
+    left: calc(var(--notes-tutor-left) - (50vw - 380px));
+
+    > :is(.notes-tutor-toggle, .notes-tutor-load-status, .notes-tutor-panel) {
+      pointer-events: auto;
+    }
+  }
+
   .notes-tutor-toggle {
     display: flex;
     width: fit-content;

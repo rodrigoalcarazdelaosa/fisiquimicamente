@@ -2,6 +2,7 @@
 
 {{ $toc := partial "functions/clean_toc.html" . }}
 {{ $has_toc := and (ne .Params.toc false) (in $toc "<li") }}
+{{ $has_tutor := partial "functions/has_notes_tutor.html" . }}
 {{ $content := partial "functions/content_scripts.html" (partial "functions/lazy_phet.html" .) }}
 {{ $content = partial "functions/unique_figure_ids.html" $content }}
 {{ if hasPrefix .Section "apuntes-" }}
@@ -12,22 +13,25 @@
 
   {{ partial "page_header" . }}
 
-  {{ if partial "functions/has_notes_tutor.html" . }}
-    {{ partial "notes_tutor.html" . }}
-  {{ end }}
-
   {{ if $has_toc }}
-  <div class="{{ if $has_toc }}article-with-toc{{ end }}">
-    <aside class="article-toc d-none d-xl-block" aria-labelledby="article-toc-title">
-      <div class="article-toc-inner">
-        {{ partial "blox-core/functions/get_hook" (dict "hook" "toc-start" "context" .) }}
-        <ul class="nav toc-top">
-          <li><a href="#" id="article-toc-title" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
-        </ul>
-        {{ $toc | safeHTML }}
-        {{ partial "blox-core/functions/get_hook" (dict "hook" "toc-end" "context" .) }}
+  <div class="article-with-toc">
+    <div class="article-sidebars">
+      <div class="article-sidebars-sticky">
+        {{ if $has_tutor }}
+          {{ partial "notes_tutor.html" . }}
+        {{ end }}
+        <aside class="article-toc d-none d-xl-block" aria-labelledby="article-toc-title">
+          <div class="article-toc-inner">
+            {{ partial "blox-core/functions/get_hook" (dict "hook" "toc-start" "context" .) }}
+            <ul class="nav toc-top">
+              <li><a href="#" id="article-toc-title" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
+            </ul>
+            {{ $toc | safeHTML }}
+            {{ partial "blox-core/functions/get_hook" (dict "hook" "toc-end" "context" .) }}
+          </div>
+        </aside>
       </div>
-    </aside>
+    </div>
 
     <details class="article-mobile-toc d-xl-none d-print-none">
       <summary aria-label="{{ i18n "table_of_contents" }}">
@@ -51,6 +55,9 @@
     {{ partial "page_footer" . }}
   </div>
   {{ else }}
+  {{ if $has_tutor }}
+    {{ partial "notes_tutor.html" . }}
+  {{ end }}
   <div class="article-container">
 
     <div class="article-style">
