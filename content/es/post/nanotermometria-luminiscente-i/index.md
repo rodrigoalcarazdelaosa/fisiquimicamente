@@ -78,7 +78,9 @@ En un gas ideal hay una relación directa entre la energía cinética de traslac
 
 Cuando en realidad los átomos en un sólido están oscilando en torno a su posición de equilibrio. Cada átomo está unido a sus vecinos por enlaces; podemos visualizarlos como masas conectadas por muelles. Sin entrar en detalles, para esta entrada quedémonos con la siguiente imagen:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="5BuKSFY"  ><a href="//imgur.com/5BuKSFY">Atomic vibration in aluminum crystal</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+{{< deferred_widget provider="imgur" >}}
+<blockquote class="imgur-embed-pub" lang="en" data-id="5BuKSFY"  ><a href="//imgur.com/5BuKSFY">Atomic vibration in aluminum crystal</a></blockquote>
+{{< /deferred_widget >}}
 
 En ciertos materiales y/o para cierto rango de temperatura, podemos también entender la temperatura como el movimiento promedio de las partículas que lo forman. Cuando se pierde esa definición intuitiva hay que recurrir a conceptos más abstractos como la [**entropía**]({{< relref "/post/entropia" >}}).
 

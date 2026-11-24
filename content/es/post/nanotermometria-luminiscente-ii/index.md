@@ -81,4 +81,6 @@ Con esta técnica hemos medido temperaturas desde mucho más frías que en el á
 
 Este pequeño termómetro luminiscente es un ejemplo de muchos nanotermómetros en proceso de investigación. Con ellos vemos que, mediante el desarrollo de distintos nanomateriales y la aplicación de conceptos de física básica, estamos en camino de medir y controlar la temperatura de los elementos básicos de nuestro mundo, desde las células de los seres vivos hasta los chips electrónicos.
 
-<div class="tenor-gif-embed" data-postid="19286031" data-share-method="host" data-aspect-ratio="1.83908" data-width="100%"><a href="https://tenor.com/view/semi-semiconductor-microfluidics-etch-gif-19286031">Semi Semiconductor GIF</a>from <a href="https://tenor.com/search/semi-gifs">Semi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="19286031" ratio="1.83908" title="Semi Semiconductor GIF" >}}
+<a href="https://tenor.com/view/semi-semiconductor-microfluidics-etch-gif-19286031">Semi Semiconductor GIF</a>from <a href="https://tenor.com/search/semi-gifs">Semi GIFs</a>
+{{< /tenor >}}

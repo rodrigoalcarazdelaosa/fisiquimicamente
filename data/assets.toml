@@ -40,11 +40,9 @@
 [js.chartJs]
   version = "2.9.3"
   url = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/%s/Chart.min.js"
-  content_source = "//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"
 [js.chartAnnotation]
   version = "0.5.7"
   url = "https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/%s/chartjs-plugin-annotation.min.js"
-  content_source = "//cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"
 [js.modelViewer]
   version = "4.4.0"
   url = "https://unpkg.com/@google/model-viewer@%s/dist/model-viewer.min.js"
@@ -75,16 +73,9 @@
 [js.googleCharts]
   url = "https://www.gstatic.com/charts/loader.js"
   channel = "current"
-  content_source = "//www.gstatic.com/charts/loader.js"
 [js.codePen]
   url = "https://static.codepen.io/assets/embed/ei.js"
-  content_source = "//static.codepen.io/assets/embed/ei.js"
-[js.tenor]
-  url = "https://tenor.com/embed.js"
-  content_source = "//tenor.com/embed.js"
 [js.imgur]
   url = "https://s.imgur.com/min/embed.js"
-  content_source = "//s.imgur.com/min/embed.js"
 [js.h5pResizer]
   url = "https://cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js"
-  content_source = "//cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js"

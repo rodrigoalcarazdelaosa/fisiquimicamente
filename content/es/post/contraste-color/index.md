@@ -106,12 +106,13 @@ Por lo que $0.175\leq L\leq 0.18\overline{3}$.
 
 [^4]: En el [espacio de color **RGB**](https://es.wikipedia.org/wiki/RGB), los valores de cada canal (rojo, verde y azul) varían desde 0 hasta 255. Incrementos de 17 permiten iterar a través de los colores que pueden ser descritos con una [notación hexadecimal](https://es.wikipedia.org/wiki/Colores_web) de 3 dígitos.
 
+{{< deferred_widget provider="codePen" >}}
 <p class="codepen" data-height="600" data-theme-id="light" data-default-tab="result" data-user="finnhvman" data-slug-hash="bZQLgR" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Colors With 4.5:1 Contrast on Black and White">
   <span>See the Pen <a href="https://codepen.io/finnhvman/pen/bZQLgR">
   Colors With 4.5:1 Contrast on Black and White</a> by Ben Szabo (<a href="https://codepen.io/finnhvman">@finnhvman</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+{{< /deferred_widget >}}
 
 ## ¿Cuál es el máximo contraste que podemos conseguir sobre blanco y negro *a la vez*?
 Para poder tener suficiente contraste sobre blanco y negro *a la vez*, la luminosidad relativa del color tiene que estar entre dos valores[^5], como se puede ver con las inecuaciones (1) y (2). El **contraste máximo teórico** de un color **sobre blanco** y **negro *a la vez***, $C_\text{b\&n}^\text{máx}$, se puede obtener imponiendo que esos dos valores de luminosidad relativa se igualen:
@@ -169,12 +170,8 @@ En su [*Pen*](https://codepen.io/finnhvman/full/bZQLgR), [Ben Szabo](https://dev
 
 La siguiente figura muestra cuántos colores hay disponibles en función del contraste deseado:
 
-<canvas id="C-colores"></canvas>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-
-<script>
-	const c = document.getElementById('C-colores').getContext('2d');
+{{< deferred_chart id="C-colores" >}}
+const c = target.getContext('2d');
 
 	const contraste = [
 [  1.00000000, 16777216.00000000],
@@ -399,7 +396,7 @@ La siguiente figura muestra cuántos colores hay disponibles en función del con
 	    },
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 	
 Se puede ver cómo para $C=1$ (el mínimo contraste posible), todos los colores del espacio RGB están disponibles, exactamente:
 
