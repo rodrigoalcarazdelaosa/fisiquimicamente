@@ -52,9 +52,9 @@ Instala Hugo estándar (la versión indicada en `.hvm`) y Dart Sass 1.98.0 para 
 
 Si usas otra versión de Hugo en otros proyectos, puedes guardar el ejecutable de este sitio en `.local/bin/hugo` y ejecutar `PATH="$PWD/.local/bin:$PATH" bash view.sh` desde la raíz.
 
-Las plantillas y los *shortcodes* derivados de Hugo Blox se mantienen en `layouts/`, y sus estilos y scripts en `assets/`. Hugo puede compilar las tres ediciones desde un clon limpio. Las bibliotecas especializadas, entre ellas MathJax y Reveal.js, se cargan desde sus CDN.
+Las plantillas y los *shortcodes* derivados de Hugo Blox se mantienen en `layouts/`, y sus estilos y scripts en `assets/`. Hugo puede compilar las tres ediciones desde un clon limpio. Las bibliotecas especializadas, como Reveal.js, se cargan desde sus CDN.
 
-KaTeX es el motor matemático predeterminado. Goldmark reconoce las fórmulas delimitadas y el hook de Hugo las compila a MathML con `transform.ToMath`. Si una expresión es incompatible, Hugo indica su ubicación. MathJax queda como respaldo para fórmulas antiguas fuera de esos delimitadores o dentro de bloques HTML. El Tutor IA usa KaTeX en el navegador al recibir fórmulas.
+Goldmark reconoce las fórmulas delimitadas y Hugo las convierte a MathML durante la compilación con KaTeX y `transform.ToMath`. Si una expresión es incompatible, Hugo indica su ubicación. El Tutor IA usa KaTeX en el navegador al recibir fórmulas.
 
 ```sh
 bash view.sh                # Vista previa

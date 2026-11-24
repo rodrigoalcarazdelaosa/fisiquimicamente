@@ -1,17 +1,4 @@
 {{- $html := . -}}
-{{- if and (in $html "<math") (in $html `\begin{`) -}}
-  {{- /* Keep complete legacy TeX environments available to MathJax, including math in \text. */ -}}
-  {{- $tokens := slice -}}
-  {{- $pattern := `(?s)<!--.*?-->|<(?:math|pre|code|script|style)\b[^>]*>.*?</(?:math|pre|code|script|style)>|<[a-z!/](?:[^>"']|"[^"]*"|'[^']*')*>|\\begin\{align\}.*?\\end\{align\}|\\begin\{align\*\}.*?\\end\{align\*\}|[^<\\]+|.` -}}
-  {{- range findRE $pattern $html -}}
-    {{- $token := . -}}
-    {{- if strings.HasPrefix $token `\begin{align` -}}
-      {{- $token = partial "functions/restore_tex.html" $token -}}
-    {{- end -}}
-    {{- $tokens = $tokens | append $token -}}
-  {{- end -}}
-  {{- $html = delimit $tokens "" -}}
-{{- end -}}
 {{- if in $html "<script" -}}
   {{- range $match := findRESubmatch `(?i)(<script\b[^>]*?\ssrc\s*=\s*["'])([^"']+)(["'])` $html -}}
     {{- $source := strings.TrimPrefix "https:" (index $match 2) -}}

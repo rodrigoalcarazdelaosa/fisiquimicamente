@@ -20,20 +20,6 @@
 
   {{ $js := hugo.Data.assets.js }}
 
-  {{ $loadMathJax := partial "functions/load_mathjax.html" . }}
-  {{ if $loadMathJax }}
-    {{ $mathjax_config := resources.Get "js/mathjax-config.js" }}
-    <script data-cfasync="false">
-      {{ $mathjax_config.Content | safeJS }}
-    </script>
-  {{ end }}
-
-  {{ range $name, $asset := $js }}
-    {{ if and $asset.async (or (ne (lower $name) "mathjax") $loadMathJax) }}
-      <script {{ if eq (lower $name) "mathjax" }}data-cfasync="false"{{ end }} src="{{ partial "functions/script_url.html" $asset }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>
-    {{ end }}
-  {{ end }}
-
   {{ partial "site_styles.html" . }}
 
   {{/* Load SEO module */}}

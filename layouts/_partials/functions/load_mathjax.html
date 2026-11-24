@@ -1,1 +1,0 @@
-{{- return (and (or .Params.math site.Params.features.math.enable) (or (ne (.Param "math_renderer") "katex") (partial "functions/has_unrendered_math.html" .Content))) -}}

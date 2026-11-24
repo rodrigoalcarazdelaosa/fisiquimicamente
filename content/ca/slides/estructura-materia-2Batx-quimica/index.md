@@ -446,8 +446,13 @@ Després dels descobriments de **Thomson**, **Rutherford** i **Chadwick** a prin
 | Protó | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutró | $1.675\times 10^{-27}$ | $0$ |
 | Electró | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>
-<td colspan=3>$q_\text{protón}=-q_\text{electrón}$
+
+$$
+\begin{gather}
+m_\text{protó}\simeq m_\text{neutró}\sim 2000m_\text{electró} \\
+q_\text{protó}=-q_\text{electró}
+\end{gather}
+$$
 
 ---
 

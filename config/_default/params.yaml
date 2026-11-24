@@ -52,8 +52,6 @@ locale:
 
 # Site features
 
-math_renderer: katex
-
 seasonal:
   bats: false
 
@@ -61,8 +59,6 @@ features:
   syntax_highlighter:
     theme_light: nord
     theme_dark: nord
-  math:
-    enable: false
   repository:
     url: "https://github.com/rodrigoalcarazdelaosa/fisiquimicamente"
     content_dir: content/es

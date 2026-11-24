@@ -1,5 +1,5 @@
 {{- /*
-Renders LaTeX math using the page's configured renderer.
+Renders LaTeX math as MathML using KaTeX.
 
 @param {string} [Params.class] A class name to add to the wrapper.
 @param {string} [Params.color] The foreground CSS color for the expression.
@@ -10,9 +10,8 @@ Renders LaTeX math using the page's configured renderer.
 {{- $inner := .Inner | strings.TrimSpace -}}
 {{- $name := .Name -}}
 {{- $ordinal := .Ordinal -}}
-{{- $usesKaTeX := eq (.Page.Param "math_renderer") "katex" -}}
 {{- /* Markdown shortcodes may receive MathML already rendered by the passthrough hook. */ -}}
-{{- $rendered := and $usesKaTeX (in $inner `<annotation encoding="application/x-tex">`) -}}
+{{- $rendered := in $inner `<annotation encoding="application/x-tex">` -}}
 
 {{- $displayMode := true -}}
 {{- if $rendered -}}
@@ -49,12 +48,8 @@ Renders LaTeX math using the page's configured renderer.
 {{- $formula := "" -}}
 {{- if $rendered -}}
   {{- $formula = $inner | strings.TrimPrefix "<p>" | strings.TrimSuffix "</p>" | safeHTML -}}
-{{- else if $usesKaTeX -}}
-  {{- $formula = partial "functions/render_math.html" (dict "tex" $inner "display" $displayMode "context" .) -}}
-{{- else if $displayMode -}}
-  {{- $formula = printf "$$\n%s\n$$" $inner | safeHTML -}}
 {{- else -}}
-  {{- $formula = printf `\(%s\)` $inner | safeHTML -}}
+  {{- $formula = partial "functions/render_math.html" (dict "tex" $inner "display" $displayMode "context" .) -}}
 {{- end -}}
 
 {{- if $displayMode -}}
