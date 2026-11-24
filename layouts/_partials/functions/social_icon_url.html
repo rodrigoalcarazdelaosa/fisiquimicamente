@@ -1,0 +1,9 @@
+{{- $url := "" -}}
+{{- if in (slice "telegram" "discord" "whatsapp") . -}}
+  {{- $url = printf "icon/%s.svg" . | relURL -}}
+{{- else -}}
+  {{- with (resources.Get (printf "media/icons/%s.png" .) | default (resources.Get (printf "media/icons/%s.svg" .))) -}}
+    {{- $url = .RelPermalink -}}
+  {{- end -}}
+{{- end -}}
+{{- return $url -}}

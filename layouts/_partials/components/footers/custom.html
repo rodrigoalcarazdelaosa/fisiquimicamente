@@ -44,8 +44,7 @@
         {{ if eq $social_link.icon_pack "emoji" }}
             <span {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }}>{{- $social_link.icon | markdownify | emojify -}}</span>
         {{ else if eq $social_link.icon_pack "svg" }}
-            {{- $svg_icon := resources.Get (printf "media/icons/%s.png" .icon) | default (resources.Get (printf "media/icons/%s.svg" .icon)) -}}
-            <img {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} src="{{ $svg_icon.RelPermalink }}" alt="{{ $social_link.icon }}" class="svg-icon svg-baseline" loading="lazy">
+            <img {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} src="{{ partial "functions/social_icon_url" .icon }}" alt="{{ $social_link.icon }}" class="svg-icon svg-baseline" loading="lazy">
          {{ else }}
             <i {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
          {{ end }}

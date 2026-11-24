@@ -1,4 +1,5 @@
 @use "../nord";
+@use "../breakpoints";
 
 @use "../theme";
 
@@ -25,10 +26,21 @@
   width: 100%;
   margin-right: -100%;
   backface-visibility: hidden;
+  background-image: var(--carousel-background, none);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   transition: transform 0.6s ease-in-out;
+}
+
+@include breakpoints.down(sm) {
+  .carousel-item {
+    background-image: var(--carousel-background-compact, var(--carousel-background, none));
+  }
+}
+
+@media (scripting: enabled) {
+  .carousel:not(.carousel-background-ready) .carousel-item { background-image: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {
