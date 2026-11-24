@@ -18,7 +18,8 @@ const plugins = [
   RevealZoom,
 ];
 
-const printView = new URLSearchParams(location.search).has('print-pdf');
+const query = new URLSearchParams(location.search);
+const printView = query.get('view') === 'print' || query.has('print-pdf');
 for (const frame of document.querySelectorAll('iframe[data-slide-embed]')) {
   if (printView) {
     frame.loading = 'eager';
