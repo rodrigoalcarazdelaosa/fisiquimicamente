@@ -39,8 +39,6 @@ links:
   url: perfil-salida-LOMLOE-Quimica.pdf      
 ---
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
 A continuación se presentan [**diagramas** de **Sankey**](https://es.wikipedia.org/wiki/Diagrama_de_Sankey) interactivos mostrando las **conexiones** entre las **competencias específicas** de la materia de **Física y Química**[^1] y los **descriptores operativos** de las **competencias clave** en la enseñanza básica y bachillerato, tal y como se recoge en el [R.D. 217/2022, de 29 de marzo (ESO)](https://www.boe.es/eli/es/rd/2022/03/29/217/con) y el [R.D. 243/2022, de 5 de abril (Bach)](https://www.boe.es/eli/es/rd/2022/04/05/243/con), respectivamente.
 
 [^1]: Por separado, en caso de 2.º Bach.
@@ -51,11 +49,9 @@ En los **diagramas** de **Sankey** que puedes encontrar más abajo (o descargar 
 
 ## ESO
 
-<script type="text/javascript">
-google.charts.load('current', {'packages':['sankey']});
-google.charts.setOnLoadCallback(drawChart);
-
-function drawChart() {
+<figure>
+<style>div.google-visualization-tooltip { font-size: 16px; color: #2E3440 !important; background-color: #ECEFF4 !important }</style>
+{{< deferred_chart id="perfil_salida_eso" kind="sankey" >}}
 var data = new google.visualization.DataTable();
 data.addColumn('string', 'Competencia específica');
 data.addColumn('string', 'Competencia clave');
@@ -130,14 +126,9 @@ var options = {
 };
 
 // Instantiates and draws our chart, passing in some options.
-var chart = new google.visualization.Sankey(document.getElementById('perfil_salida_eso'));
+var chart = new google.visualization.Sankey(target);
 chart.draw(data, options);
-}
-</script>
-
-<figure>
-<style>div.google-visualization-tooltip { font-size: 16px; color: #2E3440 !important; background-color: #ECEFF4 !important }</style>
-<div id="perfil_salida_eso" style="width: 100%; height: 600px;"></div>
+{{< /deferred_chart >}}
 <figcaption>Diagrama de Sankey que muestra las conexiones entre las competencias específicas de la materia de Física y Química y los descriptores operativos de las competencias clave en la enseñanza básica, tal y como se recoge en el <a href="https://www.boe.es/eli/es/rd/2022/03/29/217/con" target="_blank" rel="noopener">R.D. 217/2022, de 29 de marzo</a>. Pasando el ratón por encima de cada línea aparece la descripción de cada competencia específica y los descriptores operativos de las competencias clave con los que se asocia.</figcaption>
 </figure>
 
@@ -145,11 +136,8 @@ chart.draw(data, options);
 
 ### Física y Química
 
-<script type="text/javascript">
-google.charts.load('current', {'packages':['sankey']});
-google.charts.setOnLoadCallback(drawChart);
-
-function drawChart() {
+<figure>
+{{< deferred_chart id="perfil_salida_bach" kind="sankey" >}}
 var data = new google.visualization.DataTable();
 data.addColumn('string', 'Competencia específica');
 data.addColumn('string', 'Competencia clave');
@@ -210,23 +198,16 @@ var options = {
 };
 
 // Instantiates and draws our chart, passing in some options.
-var chart = new google.visualization.Sankey(document.getElementById('perfil_salida_bach'));
+var chart = new google.visualization.Sankey(target);
 chart.draw(data, options);
-}
-</script>
-
-<figure>
-<div id="perfil_salida_bach" style="width: 100%; height: 600px;"></div>
+{{< /deferred_chart >}}
 <figcaption>Diagrama de Sankey que muestra las conexiones entre las competencias específicas de la materia de Física y Química y los descriptores operativos de las competencias clave para Bachillerato, tal y como se recoge en el <a href="https://www.boe.es/eli/es/rd/2022/04/05/243/con" target="_blank" rel="noopener">R.D. 243/2022, de 5 de abril</a>. Pasando el ratón por encima de cada línea aparece la descripción de cada competencia específica y los descriptores operativos de las competencias clave con los que se asocia.</figcaption>
 </figure>
 
 ### Física
 
-<script type="text/javascript">
-google.charts.load('current', {'packages':['sankey']});
-google.charts.setOnLoadCallback(drawChart);
-
-function drawChart() {
+<figure>
+{{< deferred_chart id="perfil_salida_fisica" kind="sankey" >}}
 var data = new google.visualization.DataTable();
 data.addColumn('string', 'Competencia específica');
 data.addColumn('string', 'Competencia clave');
@@ -288,23 +269,16 @@ var options = {
 };
 
 // Instantiates and draws our chart, passing in some options.
-var chart = new google.visualization.Sankey(document.getElementById('perfil_salida_fisica'));
+var chart = new google.visualization.Sankey(target);
 chart.draw(data, options);
-}
-</script>
-
-<figure>
-<div id="perfil_salida_fisica" style="width: 100%; height: 600px;"></div>
+{{< /deferred_chart >}}
 <figcaption>Diagrama de Sankey que muestra las conexiones entre las competencias específicas de la materia de Física y los descriptores operativos de las competencias clave para Bachillerato, tal y como se recoge en el <a href="https://www.boe.es/eli/es/rd/2022/04/05/243/con" target="_blank" rel="noopener">R.D. 243/2022, de 5 de abril</a>. Pasando el ratón por encima de cada línea aparece la descripción de cada competencia específica y los descriptores operativos de las competencias clave con los que se asocia.</figcaption>
 </figure>
 
 ### Química
 
-<script type="text/javascript">
-google.charts.load('current', {'packages':['sankey']});
-google.charts.setOnLoadCallback(drawChart);
-
-function drawChart() {
+<figure>
+{{< deferred_chart id="perfil_salida_quimica" kind="sankey" >}}
 var data = new google.visualization.DataTable();
 data.addColumn('string', 'Competencia específica');
 data.addColumn('string', 'Competencia clave');
@@ -366,12 +340,8 @@ var options = {
 };
 
 // Instantiates and draws our chart, passing in some options.
-var chart = new google.visualization.Sankey(document.getElementById('perfil_salida_quimica'));
+var chart = new google.visualization.Sankey(target);
 chart.draw(data, options);
-}
-</script>
-
-<figure>
-<div id="perfil_salida_quimica" style="width: 100%; height: 600px;"></div>
+{{< /deferred_chart >}}
 <figcaption>Diagrama de Sankey que muestra las conexiones entre las competencias específicas de la materia de Química y los descriptores operativos de las competencias clave para Bachillerato, tal y como se recoge en el <a href="https://www.boe.es/eli/es/rd/2022/04/05/243/con" target="_blank" rel="noopener">R.D. 243/2022, de 5 de abril</a>. Pasando el ratón por encima de cada línea aparece la descripción de cada competencia específica y los descriptores operativos de las competencias clave con los que se asocia.</figcaption>
 </figure>

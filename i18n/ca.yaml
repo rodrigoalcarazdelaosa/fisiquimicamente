@@ -12,6 +12,8 @@
   translation: Home
 - id: close
   translation: Tancar
+- id: footnote
+  translation: Nota al peu
 - id: languages
   translation: Idiomes
 - id: related

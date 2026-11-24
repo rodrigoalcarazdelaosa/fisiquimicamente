@@ -54,11 +54,11 @@
   {{ $search_params = dict "search_config" $search_config "i18n" $search_i18n "content_type" $content_types "libraries" $libraries }}
 {{ end }}
 
-{{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied") }}
+{{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied")
+  "footnote" (i18n "footnote") "close" (i18n "close") }}
 {{ $footnotes := resources.Get "js/footnotes.js" | minify | fingerprint }}
 {{ $zoom := resources.Get $js.mediumZoom.path | js.Build (dict "format" "esm" "minify" true) | fingerprint }}
-{{ $player_params := dict "playerURL" (partial "functions/script_url.html" $js.lottiePlayer) }}
-{{ $players := resources.Get "js/tgs-players.js" | js.Build (dict "params" $player_params "minify" true) | fingerprint }}
+{{ $players := partial "functions/animation_script.html" . }}
 {{ $js_params := dict "search" $search_params "i18n" $i18n "footnotesURL" $footnotes.RelPermalink "zoomURL" $zoom.RelPermalink "playersURL" $players.RelPermalink }}
 {{ $target := printf "js/site-%s.js" .Lang }}
 {{ $options := dict "targetPath" $target "params" $js_params "minify" hugo.IsProduction }}

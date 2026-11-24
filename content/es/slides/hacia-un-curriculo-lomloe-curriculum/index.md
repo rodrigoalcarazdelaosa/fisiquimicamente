@@ -270,8 +270,6 @@ En cuanto a su dimensión aplicada, el Perfil de Salida se concreta en la formul
 
 ### Conexiones entre las competencias específicas de Física y Química y los descriptores del Perfil de Salida LOMLOE
 
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
 - [ESO](#/3/11)
 - [Bach](#/3/12)
 
@@ -283,11 +281,9 @@ En cuanto a su dimensión aplicada, el Perfil de Salida se concreta en la formul
 
 #### ESO
 
-<script type="text/javascript">
-google.charts.load('current', {'packages':['sankey']});
-google.charts.setOnLoadCallback(drawChart);
-
-function drawChart() {
+<figure>
+<style>div.google-visualization-tooltip { font-size: 16px; color: #2E3440 !important; background-color: #ECEFF4 !important }</style>
+{{< deferred_chart id="perfil_salida_eso" kind="sankey" >}}
 var data = new google.visualization.DataTable();
 data.addColumn('string', 'Competencia específica');
 data.addColumn('string', 'Competencia clave');
@@ -362,14 +358,9 @@ var options = {
 };
 
 // Instantiates and draws our chart, passing in some options.
-var chart = new google.visualization.Sankey(document.getElementById('perfil_salida_eso'));
+var chart = new google.visualization.Sankey(target);
 chart.draw(data, options);
-}
-</script>
-
-<figure>
-<style>div.google-visualization-tooltip { font-size: 16px; color: #2E3440 !important; background-color: #ECEFF4 !important }</style>
-<div id="perfil_salida_eso" style="width: 100%; height: 600px;"></div>
+{{< /deferred_chart >}}
 </figure>
 
 ---
@@ -388,11 +379,8 @@ chart.draw(data, options);
 
 ##### Física y Química
 
-<script type="text/javascript">
-google.charts.load('current', {'packages':['sankey']});
-google.charts.setOnLoadCallback(drawChart);
-
-function drawChart() {
+<figure>
+{{< deferred_chart id="perfil_salida_bach" kind="sankey" >}}
 var data = new google.visualization.DataTable();
 data.addColumn('string', 'Competencia específica');
 data.addColumn('string', 'Competencia clave');
@@ -453,24 +441,17 @@ var options = {
 };
 
 // Instantiates and draws our chart, passing in some options.
-var chart = new google.visualization.Sankey(document.getElementById('perfil_salida_bach'));
+var chart = new google.visualization.Sankey(target);
 chart.draw(data, options);
-}
-</script>
-
-<figure>
-<div id="perfil_salida_bach" style="width: 100%; height: 600px;"></div>
+{{< /deferred_chart >}}
 </figure>
 
 ---
 
 ##### Física
 
-<script type="text/javascript">
-google.charts.load('current', {'packages':['sankey']});
-google.charts.setOnLoadCallback(drawChart);
-
-function drawChart() {
+<figure>
+{{< deferred_chart id="perfil_salida_fisica" kind="sankey" >}}
 var data = new google.visualization.DataTable();
 data.addColumn('string', 'Competencia específica');
 data.addColumn('string', 'Competencia clave');
@@ -532,24 +513,17 @@ var options = {
 };
 
 // Instantiates and draws our chart, passing in some options.
-var chart = new google.visualization.Sankey(document.getElementById('perfil_salida_fisica'));
+var chart = new google.visualization.Sankey(target);
 chart.draw(data, options);
-}
-</script>
-
-<figure>
-<div id="perfil_salida_fisica" style="width: 100%; height: 600px;"></div>
+{{< /deferred_chart >}}
 </figure>
 
 ---
 
 ##### Química
 
-<script type="text/javascript">
-google.charts.load('current', {'packages':['sankey']});
-google.charts.setOnLoadCallback(drawChart);
-
-function drawChart() {
+<figure>
+{{< deferred_chart id="perfil_salida_quimica" kind="sankey" >}}
 var data = new google.visualization.DataTable();
 data.addColumn('string', 'Competencia específica');
 data.addColumn('string', 'Competencia clave');
@@ -611,13 +585,9 @@ var options = {
 };
 
 // Instantiates and draws our chart, passing in some options.
-var chart = new google.visualization.Sankey(document.getElementById('perfil_salida_quimica'));
+var chart = new google.visualization.Sankey(target);
 chart.draw(data, options);
-}
-</script>
-
-<figure>
-<div id="perfil_salida_quimica" style="width: 100%; height: 600px;"></div>
+{{< /deferred_chart >}}
 </figure>
 
 {{% /section %}}
