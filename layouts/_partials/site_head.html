@@ -4,11 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {{ $theme_init := resources.Get "js/theme-init.js" | js.Build (dict "minify" hugo.IsProduction) }}
   <script data-cfasync="false">{{ $theme_init.Content | safeJS }}</script>
-  {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
-  {{ $hide_generator := site.Params.power_ups.hide_generator | default false }}
-  {{ if not (and $is_sponsor $hide_generator) }}
-    <meta name="generator" content="Hugo Blox Builder {{ hugo.Data.hugoblox.version }}" />
-  {{ end }}
+  {{ hugo.Generator }}
 
   {{/* EXTENSIBILITY HOOK: HEAD-START */}}
   {{ partial "blox-core/functions/get_hook" (dict "hook" "head-start" "context" .) }}

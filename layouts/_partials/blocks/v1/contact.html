@@ -93,15 +93,6 @@
   </li>
   {{ end }}
 
-  {{ $addr_formatted := "" }}{{/* Scoping for maps. */}}
-  {{ if $data.address.street | or $data.address.city | or $data.address.region | or $data.address.postcode | or $data.address.country }}
-    {{ $addr_formatted = partial "functions/get_address" (dict "root" . "address" $data.address) }}
-    <li>
-      <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-      <span id="person-address">{{$addr_formatted}}</span>
-    </li>
-  {{ end }}
-
   {{ with $data.directions }}
   <li>
     <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
