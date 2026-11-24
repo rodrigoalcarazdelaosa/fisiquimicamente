@@ -51,7 +51,10 @@ El alumnado, siguiendo la metodología [***flipped classroom***](https://es.wiki
 
 A continuación puedes consultar el **itinerario** de aprendizaje del proyecto:
 
-<iframe src="https://cedec.intef.es/wp-admin/admin-ajax.php?action=h5p_embed&id=13" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+{{< deferred_widget provider="h5pResizer" >}}
+<iframe title="Itinerario de tiro parabólico" data-widget-src="https://cedec.intef.es/wp-admin/admin-ajax.php?action=h5p_embed&id=13" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<noscript><iframe title="Itinerario de tiro parabólico" loading="lazy" src="https://cedec.intef.es/wp-admin/admin-ajax.php?action=h5p_embed&id=13" width="100%" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></noscript>
+{{< /deferred_widget >}}
 
 El recurso se halla enriquecido con multitud de [**ejemplos** realizados en **Geogebra**](https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/herramienta_geogebra.html) por el profesor y por su alumnado, así como se ofrecen [**instrucciones**](https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/dnde_aprender_a_usar_geogebra.html), [**prácticas** de **aula**](https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/practicamos.html) y enlaces para aprender a utilizar esta aplicación. En [este **ejemplo** de **aula**](https://descargas.intef.es/cedec/proyectoedia/matematicas/contenidos/tiro_parabolico/ejemplo_en_un_aula.html) se desglosa la secuencia didáctica concreta que el propio Juan Francisco aplica en su aula.
 

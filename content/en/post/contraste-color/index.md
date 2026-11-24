@@ -110,12 +110,13 @@ So that $0.175\leq L\leq 0.18\overline{3}$.
 
 [^4]: In the [**RGB** color model](https://en.wikipedia.org/wiki/RGB), values for each channel (red, green and blue) vary from 0 to 255. Increments of 17 allow for iterating through the colors that can be described with 3-digit [hexa notation](https://en.wikipedia.org/wiki/Web_colors).
 
+{{< deferred_widget provider="codePen" >}}
 <p class="codepen" data-height="600" data-theme-id="light" data-default-tab="result" data-user="finnhvman" data-slug-hash="bZQLgR" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Colors With 4.5:1 Contrast on Black and White">
   <span>See the Pen <a href="https://codepen.io/finnhvman/pen/bZQLgR">
   Colors With 4.5:1 Contrast on Black and White</a> by Ben Szabo (<a href="https://codepen.io/finnhvman">@finnhvman</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+{{< /deferred_widget >}}
 
 ## What is the maximum contrast we can achieve on both black and white?
 In order to have enough contrast on both black and white, the relative luminance of the color has to be between two values[^5], as you can see with the inequalities (1) and (2). The **theoretical maximum contrast** of a color **on both black and white**, $C_\text{b\&w}^\text{max}$, can be obtained by imposing that those two values of relative luminance be equal:
@@ -173,12 +174,8 @@ In his [*Pen*](https://codepen.io/finnhvman/full/bZQLgR), [Ben Szabo](https://de
 
 The following figure shows how many colors are available depending on the desired contrast:
 
-<canvas id="C-colores"></canvas>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-
-<script>
-	const c = document.getElementById('C-colores').getContext('2d');
+{{< deferred_chart id="C-colores" >}}
+const c = target.getContext('2d');
 
 	const contraste = [
 [  1.00000000, 16777216.00000000],
@@ -403,7 +400,7 @@ The following figure shows how many colors are available depending on the desire
 	    },
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 	
 We can see how for $C=1$ (the minimum possible contrast), all the colors in the RGB space are available, namely:
 

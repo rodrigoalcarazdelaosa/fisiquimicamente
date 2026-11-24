@@ -31,7 +31,9 @@ Entrada basada en el siguiente hilo de Twitter:
 
 Pongamos a prueba nuestros [oídos](https://es.wikipedia.org/wiki/O%C3%ADdo) y veamos para qué seres tan inteligentes como los [delfines](https://es.wikipedia.org/wiki/Delphinidae) o dispositivos hechos por el hombre aprovechan ondas de frecuencias más allá de nuestro rango auditivo. En esta entrada hablamos de los [**ultrasonidos**](https://es.wikipedia.org/wiki/Ultrasonido). Tanto el sonido como el ultrasonido son [**ondas mecánicas**](https://es.wikipedia.org/wiki/Onda_mecánica). Éstas se propagan por un medio a partir de las vibraciones de las partículas que lo componen.
 
-<div class="tenor-gif-embed" data-postid="25371774" data-share-method="host" data-aspect-ratio="2.14765" data-width="100%"><a href="https://tenor.com/view/sound-wave-gif-25371774">Sound Wave GIF</a>from <a href="https://tenor.com/search/sound+wave-gifs">Sound Wave GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="25371774" ratio="2.14765" title="Sound Wave GIF" >}}
+<a href="https://tenor.com/view/sound-wave-gif-25371774">Sound Wave GIF</a>from <a href="https://tenor.com/search/sound+wave-gifs">Sound Wave GIFs</a>
+{{< /tenor >}}
 
 Lo que distingue al sonido del ultrasonido no es más que el valor de la [**frecuencia**](https://es.wikipedia.org/wiki/Frecuencia) de vibración de la onda. Ésta se mide en [**hercios** (Hz)](https://es.wikipedia.org/wiki/Hercio), unidad llamada así por el físico [H. R. **Hertz**](https://es.wikipedia.org/wiki/Heinrich_Rudolf_Hertz). 1&thinsp;Hz = 1 oscilación por segundo. Los humanos podemos oír ondas sonoras con frecuencias desde unos 20 a 20000&thinsp;Hz; a partir de ahí entramos en el terreno de los ultrasonidos. En realidad, cada uno tenemos nuestra frontera particular respecto a lo que, para nosotros, es ultrasonido. Por ejemplo: ¿oyes esto?
 
@@ -47,7 +49,9 @@ La mayoría de vosotros habréis oído un pitido agudo; algún oyente más veter
 
 Para mí y muchos de vosotros, el sonido de 4, de 18000&thinsp;Hz, ya no forma parte de la gama de sonidos que podemos escuchar. El sonido de 3, inaudible para los más veteranos, era de 14000&thinsp;Hz. Con la edad, pero también por otros motivos, perdemos rango auditivo. ¿Por qué?
 
-<div class="tenor-gif-embed" data-postid="19943041" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/what-ruben-riz-ahmed-sound-of-metal-huh-gif-19943041">What Ruben GIF</a>from <a href="https://tenor.com/search/what-gifs">What GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="19943041" ratio="1.77778" title="What Ruben GIF" >}}
+<a href="https://tenor.com/view/what-ruben-riz-ahmed-sound-of-metal-huh-gif-19943041">What Ruben GIF</a>from <a href="https://tenor.com/search/what-gifs">What GIFs</a>
+{{< /tenor >}}
 
 El motivo parece ser la ubicación de nuestros sensores. En la [cóclea](https://es.wikipedia.org/wiki/Cóclea), situada en el oído interno, tenemos las [células ciliadas](https://es.wikipedia.org/wiki/Células_ciliadas), que transforman la energía mecánica de las ondas en señales eléctricas. Aquellas que detectan las frecuencias más altas se encuentran solo en su base.
 
@@ -73,7 +77,9 @@ En cambio, para comunicarse entre ellos, suelen usar frecuencias audibles para n
 
 También los seres humanos usamos las ondas sonoras en la navegación, inspirados en la ecolocalización animal. La técnica se conoce como [***sonar***](https://es.wikipedia.org/wiki/Sonar), y se usa para detectar distintas cosas en el mar: animales de pesca, submarinos enemigos, tesoros hundidos...
 
-<div class="tenor-gif-embed" data-postid="19020772" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/radar-sonar-doppler-53135-gif-19020772">Radar Sonar GIF</a>from <a href="https://tenor.com/search/radar-gifs">Radar GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="19020772" ratio="1.77778" title="Radar Sonar GIF" >}}
+<a href="https://tenor.com/view/radar-sonar-doppler-53135-gif-19020772">Radar Sonar GIF</a>from <a href="https://tenor.com/search/radar-gifs">Radar GIFs</a>
+{{< /tenor >}}
 
 Permitidme un apunte más sobre delfines. Fijaos en [esta noticia](https://www.bbc.com/news/science-environment-23410137). Según investigaciones recientes, en los delfines [*nariz de botella*](https://es.wikipedia.org/wiki/Tursiops_truncatus) cada individuo tiene su silbido particular, como un nombre, que emite y ante el que responde entusiasmado.
 

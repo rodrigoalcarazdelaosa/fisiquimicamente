@@ -35,7 +35,9 @@ También te recomiendo echar un vistazo a este otro hilo, que profundiza en algu
 
 Nuestra especie es única por las preguntas que nos hacemos desde la niñez. Seguro que antes que [**Rayleigh**](https://es.wikipedia.org/wiki/Lord_Rayleigh), mucha gente se preguntó por qué veían el cielo de color azul. Sin embargo, hasta el siglo XIX y más allá, no tuvimos una respuesta convincente a esa pregunta.
 
-<div class="tenor-gif-embed" data-postid="21042271" data-share-method="host" data-aspect-ratio="1.82857" data-width="100%"><a href="https://tenor.com/view/animal-crossing-acnh-night-sky-sky-stars-gif-21042271">Animal Crossing Acnh GIF</a>from <a href="https://tenor.com/search/animal+crossing-gifs">Animal Crossing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="21042271" ratio="1.82857" title="Animal Crossing Acnh GIF" >}}
+<a href="https://tenor.com/view/animal-crossing-acnh-night-sky-sky-stars-gif-21042271">Animal Crossing Acnh GIF</a>from <a href="https://tenor.com/search/animal+crossing-gifs">Animal Crossing GIFs</a>
+{{< /tenor >}}
 
 Antes de Rayleigh, en el siglo XVII, [**Newton**](https://es.wikipedia.org/wiki/Isaac_Newton) mostró que la luz blanca que viene del Sol está compuesta por los siete colores principales del [**arcoíris**]({{< relref "/post/arcoiris" >}}), que se pueden clasificar según sus longitudes de onda: desde los 750&thinsp;nm (rojo) hasta los 380&thinsp;nm (violeta).
 

@@ -1,0 +1,5 @@
+{{- $base := printf "https://tenor.com/embed/%s" (.Get "id") -}}
+{{- $src := printf "%s?canonicalurl=%s" $base (urlquery .Page.Permalink) -}}
+<iframe src="{{ $src | safeURL }}" title="{{ .Get "title" }}" loading="lazy" allowfullscreen
+  style="display: block; width: 100%; height: auto; aspect-ratio: {{ .Get "ratio" }}; border: 0;"></iframe>
+<noscript>{{ .Inner | safeHTML }}</noscript>

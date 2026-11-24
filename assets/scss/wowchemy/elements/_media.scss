@@ -161,7 +161,8 @@ figure {
 }
 
 @media (scripting: none) {
-  iframe[data-phet-src] {
+  iframe[data-phet-src],
+  iframe[data-widget-src] {
     display: none;
   }
 }

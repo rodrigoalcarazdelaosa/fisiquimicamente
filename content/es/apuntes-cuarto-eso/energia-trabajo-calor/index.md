@@ -275,12 +275,8 @@ donde $c$ es el **calor específico** de la sustancia[^2], que representa la can
 {{< spoiler text="¿Sabes que el calor específico depende de la temperatura?" >}}
 La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor específico del oro (Au), hierro (Fe) y carbono (C) con la temperatura, según el [modelo de Debye](https://es.wikipedia.org/wiki/Modelo_de_Debye):
 
-<canvas id="c-t"></canvas>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-
-<script>
-	const c = document.getElementById('c-t').getContext('2d');
+{{< deferred_chart id="c-t" >}}
+const c = target.getContext('2d');
 
 	const cHierro = [
 [  0.00000000,   0.00000000],
@@ -3399,7 +3395,7 @@ La siguiente gráfica muestra, a modo de ejemplo, la dependencia del calor espec
         },
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 
 Se observa que, a altas temperaturas, el calor específico se acerca al valor $c = 25\thinspace\mathrm{J/(mol\cdot K)}$, resultado que se conoce como la [ley de Dulong y Petit](https://es.wikipedia.org/wiki/Ley_de_Dulong-Petit).
 {{< /spoiler >}}

@@ -47,7 +47,9 @@ Cuando tocamos una cuerda sujeta por ambos extremos, su longitud de onda es dos 
 ¿Cómo llega el sonido a nuestro oído? A través de las moléculas de aire que hay entre el instrumento y nosotros; el instrumento las hace vibrar a la frecuencia a la que está siendo tocado y esa vibración (no las moléculas en sí) se propaga hacia nosotros longitudinalmente.
 
 <figure>
-<div class="tenor-gif-embed" data-postid="25371774" data-share-method="host" data-aspect-ratio="2.14765" data-width="100%"><a href="https://tenor.com/view/sound-wave-gif-25371774">Sound Wave GIF</a>from <a href="https://tenor.com/search/sound+wave-gifs">Sound Wave GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="25371774" ratio="2.14765" title="Sound Wave GIF" >}}
+<a href="https://tenor.com/view/sound-wave-gif-25371774">Sound Wave GIF</a>from <a href="https://tenor.com/search/sound+wave-gifs">Sound Wave GIFs</a>
+{{< /tenor >}}
 <figcaption>Vibración de las moléculas de gas cuando se genera sonido en un <a href="https://es.wikipedia.org/wiki/Diapasón" rel="noopener"><strong>diapasón</strong></a>. Ojo, aunque pueda parecer, las moléculas no se mueven hacia nosotros (eso sería viento), sino que se transmite su vibración a través de ellas, creando patrones de <a href="https://es.wikipedia.org/wiki/Compresión_(f%C3%ADsica)" rel="noopener"><strong>compresión</strong></a> y <a href="https://es.wikipedia.org/wiki/Rarefacción" rel="noopener"><strong>rarefacción</strong></a>. Es decir, lo que se mueve es la onda, no las partículas.</figcaption>
 </figure>
 
