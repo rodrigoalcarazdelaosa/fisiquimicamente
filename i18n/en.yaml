@@ -406,3 +406,5 @@
   translation: "The tutor could not be opened. Press again to retry."
 - id: molecule_unavailable
   translation: "The 3D molecule could not be displayed."
+- id: molecule_print_loading
+  translation: "Preparing molecule images. Please wait before printing."

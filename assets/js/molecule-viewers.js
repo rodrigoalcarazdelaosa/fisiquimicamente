@@ -1,7 +1,8 @@
-import {integrity, libraryURL, unavailable} from '@params';
+import {integrity, libraryURL, preparingPrint, unavailable} from '@params';
 
 const selector = '[data-molecule-viewer]';
 const deck = window.Reveal;
+const printView = deck?.isPrintView();
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
 const models = new Map();
 const states = new Map([...document.querySelectorAll(selector)].map(target => [target, {}]));
@@ -89,6 +90,24 @@ function fitViewer(target, state) {
   return true;
 }
 
+function renderMolecule(api, target, state, data, format) {
+  const {viewer} = state;
+  const style = api.specStringToObject(target.dataset.style);
+  const spin = api.specStringToObject(target.dataset.spin);
+  const model = viewer.addModel(data, format);
+  if (!model.selectedAtoms({}).length) throw new Error('Molecule has no atoms');
+  viewer.setStyle({}, style);
+  viewer.zoomTo();
+  state.center = viewer.getView();
+  state.radius = Number(style.sphere?.radius) || 2;
+  state.rotatesAroundY = spin && ['y', 'vy'].includes(spin.axis);
+  state.width = state.height = 0;
+  if (state.view) viewer.setView(state.view);
+  fitViewer(target, state);
+  viewer.render();
+  return spin;
+}
+
 const resizing = new ResizeObserver(entries => {
   for (const {target} of entries) {
     const state = states.get(target);
@@ -98,7 +117,7 @@ const resizing = new ResizeObserver(entries => {
 
 function isVisible(target, state) {
   return state.intersects && !target.closest('details:not([open])')
-    && (!deck || (deck.isReady() && (deck.isScrollView() || deck.isPrintView() || deck.getCurrentSlide()?.contains(target))))
+    && (!deck || (deck.isReady() && (deck.isScrollView() || deck.getCurrentSlide()?.contains(target))))
     && target.checkVisibility?.({checkVisibilityCSS: true, checkOpacity: true}) !== false;
 }
 
@@ -112,24 +131,12 @@ async function showViewer(target, state) {
     const data = await loadModel(api, url, format);
     if (!isVisible(target, state)) return;
 
-    const style = api.specStringToObject(target.dataset.style);
-    const spin = api.specStringToObject(target.dataset.spin);
     target.replaceChildren();
     const viewer = state.viewer = api.createViewer(target, {
       backgroundAlpha: Number(target.dataset.backgroundalpha),
     });
     viewer.setCameraParameters({fov: fieldOfView});
-    const model = viewer.addModel(data, format);
-    if (!model.selectedAtoms({}).length) throw new Error('Molecule has no atoms');
-    viewer.setStyle({}, style);
-    viewer.zoomTo();
-    state.center = viewer.getView();
-    state.radius = Number(style.sphere?.radius) || 2;
-    state.rotatesAroundY = spin && ['y', 'vy'].includes(spin.axis);
-    state.width = state.height = 0;
-    if (state.view) viewer.setView(state.view);
-    fitViewer(target, state);
-    viewer.render();
+    const spin = renderMolecule(api, target, state, data, format);
     if (spin && !reducedMotion.matches) viewer.spin(spin.axis, spin.speed);
     resizing.observe(target);
   } catch (error) {
@@ -162,14 +169,80 @@ const visibility = new IntersectionObserver(entries => {
   }
 }, {threshold: 0.01});
 
-states.forEach((_, target) => visibility.observe(target));
+async function preparePrintMolecules(status) {
+  // Reveal can clone slides with fragments. Use the final print layout to find every copy.
+  const targets = [...document.querySelectorAll('.pdf-page ' + selector)]
+    .filter(target => target.offsetWidth && target.offsetHeight);
+  const host = document.createElement('div');
+  host.className = 'molecule-print-renderer';
+  document.body.append(host);
+  let viewer;
 
-document.addEventListener('toggle', event => {
-  if (event.target instanceof HTMLDetailsElement) {
-    for (const target of event.target.querySelectorAll(selector)) update(target, states.get(target));
+  function showError(target, error) {
+    target.textContent = unavailable;
+    console.warn('3D molecule unavailable for printing', error);
   }
-}, true);
 
-for (const event of ['ready', 'slidechanged', 'slidetransitionend']) {
-  deck?.on(event, () => states.forEach((state, target) => update(target, state)));
+  try {
+    if (!targets.length) return;
+    const api = await loadLibrary();
+    const files = await Promise.allSettled(targets.map(async target => {
+      const [url, format] = modelSource(target.dataset);
+      return [format, await loadModel(api, url, format)];
+    }));
+
+    for (const [index, target] of targets.entries()) {
+      try {
+        const file = files[index];
+        if (file.status === 'rejected') throw file.reason;
+        const [format, data] = file.value;
+        host.style.width = target.offsetWidth + 'px';
+        host.style.height = target.offsetHeight + 'px';
+        if (!viewer) {
+          viewer = api.createViewer(host);
+          viewer.setCameraParameters({fov: fieldOfView});
+        }
+        viewer.removeAllModels();
+        viewer.resize();
+        viewer.setBackgroundColor('#ffffff', Number(target.dataset.backgroundalpha));
+        renderMolecule(api, target, {viewer}, data, format);
+
+        const image = new Image();
+        image.className = 'molecule-print-image';
+        image.alt = '';
+        image.src = viewer.pngURI();
+        await image.decode();
+        target.replaceChildren(image);
+      } catch (error) {
+        showError(target, error);
+      }
+    }
+  } catch (error) {
+    targets.forEach(target => showError(target, error));
+  } finally {
+    viewer?.destroy();
+    host.remove();
+    status.remove();
+  }
+}
+
+if (printView) {
+  const status = document.createElement('p');
+  status.className = 'molecule-print-status';
+  status.setAttribute('role', 'status');
+  status.textContent = preparingPrint;
+  document.body.append(status);
+  deck.on('pdf-ready', () => preparePrintMolecules(status));
+} else {
+  states.forEach((_, target) => visibility.observe(target));
+
+  document.addEventListener('toggle', event => {
+    if (event.target instanceof HTMLDetailsElement) {
+      for (const target of event.target.querySelectorAll(selector)) update(target, states.get(target));
+    }
+  }, true);
+
+  for (const event of ['ready', 'slidechanged', 'slidetransitionend']) {
+    deck?.on(event, () => states.forEach((state, target) => update(target, state)));
+  }
 }

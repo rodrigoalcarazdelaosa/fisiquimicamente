@@ -272,3 +272,5 @@
   translation: "No s’ha pogut obrir el tutor. Prem de nou per tornar-ho a provar."
 - id: molecule_unavailable
   translation: "No s’ha pogut mostrar la molècula en 3D."
+- id: molecule_print_loading
+  translation: "S’estan preparant les imatges de les molècules. Espera abans d’imprimir."

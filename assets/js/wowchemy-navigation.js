@@ -15,6 +15,7 @@ function initScrollHeader() {
   if (!header) return;
 
   const original = document.querySelector('.page-body nav[aria-label="breadcrumb"]');
+  const originalList = original?.querySelector('.breadcrumb');
   const fallback = header.querySelector('template[data-header-breadcrumb]')?.content.firstElementChild;
   const breadcrumb = (original || fallback)?.cloneNode(true);
   const scrollPosition = () => {
@@ -30,11 +31,19 @@ function initScrollHeader() {
   if (breadcrumb) {
     breadcrumb.className = 'header-breadcrumb';
     header.append(breadcrumb);
-    new ResizeObserver(() => {
+    const observer = new ResizeObserver(() => {
+      const bounds = originalList?.getBoundingClientRect();
+      breadcrumb.classList.toggle('header-breadcrumb--aligned', Boolean(bounds?.width));
+      if (bounds?.width) {
+        breadcrumb.style.setProperty('--breadcrumb-left', `${bounds.left - header.getBoundingClientRect().left}px`);
+        breadcrumb.style.setProperty('--breadcrumb-width', `${bounds.width}px`);
+      }
       breadcrumbHeight = Math.ceil(breadcrumb.getBoundingClientRect().height);
       document.documentElement.style.setProperty('--header-breadcrumb-height', `${breadcrumbHeight}px`);
       updateBreadcrumb(scrollPosition(), navbar.offsetHeight);
-    }).observe(breadcrumb);
+    });
+    observer.observe(breadcrumb);
+    if (originalList) observer.observe(originalList);
   }
 
   let previousY = scrollPosition();
