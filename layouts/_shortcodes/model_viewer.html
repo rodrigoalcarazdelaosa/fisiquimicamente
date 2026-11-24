@@ -1,0 +1,27 @@
+{{- $model := .Page.Resources.Get (.Get "src") -}}
+{{- $poster := .Page.Resources.Get (.Get "poster") -}}
+{{- $skybox := "" -}}
+{{- with .Get "skybox" -}}
+  {{- with $.Page.Resources.Get . -}}
+    {{- $skybox = .RelPermalink -}}
+  {{- else -}}
+    {{- errorf "Model viewer skybox %q not found at %s" . $.Position -}}
+  {{- end -}}
+{{- end -}}
+{{- if and $model $poster -}}
+  <model-viewer class="model-preview" data-src="{{ $model.RelPermalink }}" alt="{{ .Get "alt" }}"
+    reveal="manual" bounds="tight" camera-controls shadow-intensity="1"
+    {{ with $skybox }}skybox-image="{{ . }}"{{ end }}
+    {{ with .Get "orbit" }}camera-orbit="{{ . }}"{{ end }}
+    {{ with .Get "exposure" }}exposure="{{ . }}"{{ end }}>
+    <img class="model-preview-poster" slot="poster" src="{{ $poster.RelPermalink }}" alt="" loading="lazy">
+    <button class="model-preview-load" type="button" slot="poster" data-model-load disabled
+      data-loading="{{ .Get "loading" }}" data-retry="{{ .Get "retry" }}">{{ .Get "label" }}</button>
+  </model-viewer>
+
+  {{- $libraryURL := partial "functions/script_url.html" hugo.Data.assets.js.modelViewer -}}
+  {{- $script := resources.Get "js/model-viewer.js" | js.Build (dict "params" (dict "libraryURL" $libraryURL) "minify" true) | fingerprint -}}
+  <script type="module" src="{{ $script.RelPermalink }}"></script>
+{{- else -}}
+  {{- errorf "Model viewer source or poster not found at %s" .Position -}}
+{{- end -}}
