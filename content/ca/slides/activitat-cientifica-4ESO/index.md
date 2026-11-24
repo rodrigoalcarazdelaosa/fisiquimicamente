@@ -243,11 +243,13 @@ Les **equacions** de **dimensions** són expressions algebraiques en les quals s
 ---
 
 **Destaquem**:
+$$
 \begin{align*}
-[\text{Massa}] &= \mathsf M \\\\
-[\text{Longitud}] &= \mathsf L \\\\
+[\text{Massa}] &= \mathsf M \\
+[\text{Longitud}] &= \mathsf L \\
 [\text{Temps}] &= \mathsf T
 \end{align*}
+$$
 Sempre que treballem amb equacions de dimensions tractarem d'expressar les dimensions de les magnituds físiques que ens trobem en funció de $\mathsf M$, $\mathsf L$ i $\mathsf T$.
 
 ---

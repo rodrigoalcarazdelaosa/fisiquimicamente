@@ -10,8 +10,9 @@ title: FisiQuímicamente # Website name
 ############################
 
 cascade:
-  share: true
-  reading_time: true
+  params:
+    share: true
+    reading_time: true
 
 ############################
 ## LANGUAGE

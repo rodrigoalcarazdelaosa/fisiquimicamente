@@ -79,10 +79,12 @@ $$
 
 Este valor lo tenemos en función del ángulo incidente y del ángulo refractado. Para simplificarlo, pondremos el ángulo refractado, *r&#770;*, en función del ángulo incidente, *i&#770;*. Para ello volvemos a valernos de la ley de Snell. La suma de las desviaciones será:
 
+$$
 \begin{align*}
-\hat d_\mathrm t &= 2\left(\hat\imath-\hat r\right)+\pi-2\hat r \\\\
+\hat d_\mathrm t &= 2\left(\hat\imath-\hat r\right)+\pi-2\hat r \\
 \hat d_\mathrm t &= \pi+2\hat \imath-4\hat r
 \end{align*}
+$$
 
 Utilizando la ley de Snell y suponiendo que el medio desde donde incide la luz es aire ($n_1=1$):
 

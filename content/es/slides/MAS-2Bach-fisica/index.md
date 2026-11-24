@@ -178,11 +178,13 @@ sin&thinsp;α = cos&thinsp;(α – π/2)<br>cos&thinsp;α = sin&thinsp;(α + π/
 ### Ley de Hooke
 
 Aplicando la **2ª ley de Newton** a una masa $m$ unida a un extremo de un muelle (resorte) de constante elástica $k$:
+		$$
 		\begin{align*}
-		F &= ma	\\\\
-		-kx &= ma \\\\
+		F &= ma	\\
+		-kx &= ma \\
 		-kx &= -m\omega^2x
 		\end{align*}
+		$$
 		de donde
 		$$
 		k = m\omega^2

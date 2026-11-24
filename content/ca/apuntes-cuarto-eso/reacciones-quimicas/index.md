@@ -277,10 +277,12 @@ pV = nRT
 $$
 
 S'ha d'anar amb cura perquè la temperatura $T$ l'hem de passar a K:
+$$
 \begin{align*}
-T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\\\
+T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\
 &= 25\thinspace ^\circ\mathrm C + 273 = 298\thinspace\mathrm K
 \end{align*}
+$$
 
 Aïllem el volum $V$:
 {{% math %}}

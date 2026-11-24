@@ -223,10 +223,12 @@ L’**efecte fotoelèctric** consisteix en l’**emissió** de **(foto)electrons
 
 ---
 
+$$
 \begin{align*}
-	E &= \phi + E_\mathrm c \\\\
+	E &= \phi + E_\mathrm c \\
 	h\nu &= h\nu_0 + E_\mathrm c \Rightarrow E_\mathrm c = h\left(\nu-\nu_0\right),
 \end{align*}
+$$
 
 on $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ és la constant de Planck, $\nu$ és la freqüència de la radiació incident, $\nu_0$ és la freqüència llindar (l'energia associada del qual, $\phi = h \nu_0$ es denomina **funció** de **treball** o treball d'extracció) i $E_\mathrm c = h\left(\nu-\nu_0\right)$ és l'energia cinètica màxima dels fotoelectrons, emesos sempre que es compleixi $\nu \geq \nu_0$.
 
@@ -279,10 +281,12 @@ En el següent **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/e
 
 **Exemples** de tals magnituds són:
 
+$$
 \begin{align*}
-	\text{Posició $x$ i moment linial $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
+	\text{Posició $x$ i moment linial $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\
 	\text{Energia $E$ i temps $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
 \end{align*}
+$$
 
 on $\Delta$ denota la incertesa associada i $\hbar = h/(2\pi)$.
 

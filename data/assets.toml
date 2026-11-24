@@ -8,6 +8,10 @@
   url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-chtml.js"
   slides_url = "https://cdn.jsdelivr.net/npm/mathjax@%s/es5/tex-mml-chtml.js"
   async = true
+[js.kaTeX]
+  version = "0.19.1"
+  url = "https://cdn.jsdelivr.net/npm/katex@%s/dist/katex.mjs"
+  mhchem_url = "https://cdn.jsdelivr.net/npm/katex@%s/dist/contrib/mhchem.mjs"
 [js.isotope]
   version = "3.0.6"
   sri = "sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew=="

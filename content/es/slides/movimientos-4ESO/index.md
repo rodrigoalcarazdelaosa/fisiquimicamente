@@ -353,10 +353,12 @@ c) La rapidez del coche en el instante que alcanza al tren.</q>
 
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
 
+$$
 \begin{align*}
-	\text{Coche (MRUA): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
+	\text{Coche (MRUA): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\
 	\text{Tren (MRU): } x_\mathrm t &= x_{0_\mathrm t} + v_\mathrm t(t-t_{0_\mathrm t})
 \end{align*}
+$$
 
 ---
 
@@ -490,10 +492,12 @@ $$
 ---
 
 Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
+$$
 \begin{align*}
-	e &= \varphi R \\\\
+	e &= \varphi R \\
 	v &= \omega R
 \end{align*}
+$$
 
 ---
 

@@ -422,6 +422,13 @@ article .article-metadata {
   overflow-x: auto;
 }
 
+.article-style .katex:has(> math[display="block"]) {
+  display: block;
+  overflow-x: auto;
+
+  > math { min-width: max-content; }
+}
+
 .dark .article-style {
   color: nord.$nord6;
 }

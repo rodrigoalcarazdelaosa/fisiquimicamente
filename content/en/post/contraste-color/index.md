@@ -85,10 +85,12 @@ $$
 
 If we want to choose a color that looks good on both black and white, we must impose that both contrasts, $C_\text{black}$ and $C_\text{white}$, are at least equal to 4.5. That gives us these two <strong>inequalities</strong>:
 
+$$
 \begin{align*}
-C_\text{black} &= \frac{L+0.05}{0.05} \geq 4.5 \tag{1} \\\\
-C_\text{white} &= \frac{1.05}{L+0.05} \geq 4.5 \tag{2}
+C_\text{black} &= \frac{L+0.05}{0.05} \geq 4.5 && \text{(1)} \\
+C_\text{white} &= \frac{1.05}{L+0.05} \geq 4.5 && \text{(2)}
 \end{align*}
+$$
 
 From the first one (**black**) we get:
 

@@ -65,12 +65,14 @@ Si sumergimos un objeto menos denso que el fluido, $E>mg$, una parte de él emer
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Iceberg.svg" title="https://commons.wikimedia.org/wiki/File:Iceberg.svg" lightbox="false" width="100%" >}}
 
+$$
 \begin{align*}
-\mathrm{Empuje} &= \mathrm{Peso} \\\\
-V_\mathrm s \rho_\mathrm a g &= V_\mathrm t \rho_\mathrm h g \\\\
-V_\mathrm s &= \frac{\rho_\mathrm h}{\rho_\mathrm a}V_\mathrm t \\\\
+\mathrm{Empuje} &= \mathrm{Peso} \\
+V_\mathrm s \rho_\mathrm a g &= V_\mathrm t \rho_\mathrm h g \\
+V_\mathrm s &= \frac{\rho_\mathrm h}{\rho_\mathrm a}V_\mathrm t \\
 V_\mathrm s &= 0.92V_\mathrm t
 \end{align*}
+$$
 
 Ojo, tengo que decir que para este cálculo hemos usado la densidad del agua dulce, luego veréis por qué y lo modificaremos para el agua salada. Siguiendo con la dulce (ej. hielo en un vaso de agua), veamos qué volumen ocupa ese hielo y el agua que se forma después. Por conservación de la masa, al derretirse el hielo la masa de agua debe ser igual a la del hielo original. Expresándolas en función del volumen, obtenemos que el volumen del agua líquida que produce la fusión del bloque de hielo es un 92&thinsp;% del volumen del hielo[^1]:
 
@@ -78,11 +80,13 @@ Ojo, tengo que decir que para este cálculo hemos usado la densidad del agua dul
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/66/Glace_verre.svg" title="https://commons.wikimedia.org/wiki/File:Glace_verre.svg" lightbox="false" width="100%" >}}
 
+$$
 \begin{align*}
-m_\mathrm a &= m_\mathrm h \\\\
-V_\mathrm a &= \frac{\rho_\mathrm h}{\rho_\mathrm a} V_\mathrm h \\\\
+m_\mathrm a &= m_\mathrm h \\
+V_\mathrm a &= \frac{\rho_\mathrm h}{\rho_\mathrm a} V_\mathrm h \\
 V_\mathrm a &= 0.92 V_\mathrm h
 \end{align*}
+$$
 
 ¡El volumen del agua aumenta justo el que ocupaba el hielo que había sumergido, dejando el volumen total intacto! Lo podéis comprobar en casa. Echad unos hielos a un vaso con agua y esperad a que se fundan. ¿A que no aumenta el volumen?
 

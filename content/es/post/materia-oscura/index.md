@@ -55,10 +55,12 @@ Esta cuestión fue objeto de debate durante las siguientes décadas sin llegar a
 
 En la gráfica anterior tenemos un ejemplo de lo que se obtiene al medir la velocidad de rotación de los cuerpos de una galaxia al aumentar su distancia al centro de esta. Como puede verse, en lugar de caer con la distancia, se mantiene constante. La curva es prácticamente plana. Para ilustrar esto podemos suponer que las órbitas en las galaxias son circulares, y para ello debe cumplirse que su fuerza centrípeta sea igual a la fuerza gravitatoria que le impone la galaxia, llegando fácilmente a una fórmula para la [velocidad que debe llevar un objeto para tener una órbita circular](https://es.wikipedia.org/wiki/Velocidad_orbital):
 
+$$
 \begin{align*}
-F_\mathrm{gravitatoria} &= F_\mathrm{centrípeta} \\\\
+F_\mathrm{gravitatoria} &= F_\mathrm{centrípeta} \\
 G\frac{M\cancel m}{r^{\cancel 2}} &= \frac{\cancel mv^2}{\cancel r} \Rightarrow v = \sqrt{\frac{GM}{r}},
 \end{align*}
+$$
 
 donde $G=6.67430(15)\times 10^{-11}\thinspace \mathrm{N\thinspace m^2\thinspace kg^{-2}}$ es la [constante de gravitación universal](https://es.wikipedia.org/wiki/Constante_de_gravitación_universal), $M$ es la masa de la galaxia, $m$ es la masa del objeto en órbita, $r$ es la distancia al centro galáctico y $v$ la velocidad del objeto. La conclusión a la que podemos llegar es relativamente simple, si el radio aumenta sin que cambie demasiado la velocidad debe haber más masa.
 

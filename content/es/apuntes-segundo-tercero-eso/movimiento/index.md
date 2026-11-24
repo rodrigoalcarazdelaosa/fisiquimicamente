@@ -137,10 +137,12 @@ $$
 
 con $v_0 = 0$, $a = 7.86\thinspace\mathrm{m/s^2}$ y $\Delta t = 5\thinspace\mathrm s$. Sustituyendo:
 
+$$
 \begin{align*}
-v = 0 + 7.86\thinspace\mathrm{m/s^\cancel{2}}\cdot 5\thinspace\cancel{\mathrm s} &= 39.3\thinspace\mathrm{m/s} \\\\
+v = 0 + 7.86\thinspace\mathrm{m/s^{\cancel{2}}}\cdot 5\thinspace\cancel{\mathrm s} &= 39.3\thinspace\mathrm{m/s} \\
 &= 141.5\thinspace\mathrm{km/h}
 \end{align*}
+$$
 
 {{% /callout %}}
 
@@ -187,28 +189,36 @@ El siguiente esquema representa la situación que tenemos:
 {{< figure library="true" src="movimiento-2ESO/encuentro-planteamiento.svg" lightbox="false" width="100%" >}}
 
 a) Lo primero que hacemos es escribir las **ecuaciones del movimiento** de cada móvil:
+$$
 \begin{align*}
-\text{Coche (MRU): } x_\mathrm c &= x_{0_\mathrm c} + v_\mathrm c\cdot t \\\\
+\text{Coche (MRU): } x_\mathrm c &= x_{0_\mathrm c} + v_\mathrm c\cdot t \\
 \text{Moto (MRU): } x_\mathrm m &= x_{0_\mathrm m} + v_\mathrm m\cdot t
 \end{align*}
+$$
 
 **Particularizamos** para nuestro caso, tomando el origen donde empieza el coche y sentido positivo hacia la derecha:
+$$
 \begin{gather*}
-x_{0_\mathrm c}=0;\quad x_{0_\mathrm m}=200\thinspace\mathrm{km} \\\\
+x_{0_\mathrm c}=0;\quad x_{0_\mathrm m}=200\thinspace\mathrm{km} \\
 v_\mathrm c=70\thinspace\mathrm{km/h};\quad v_\mathrm m = -90\thinspace\mathrm{km/h}
 \end{gather*}
+$$
 
+$$
 \begin{align*}
-\text{Coche (MRU): } x_\mathrm c &= 0 + 70 t = 70t \\\\
+\text{Coche (MRU): } x_\mathrm c &= 0 + 70 t = 70t \\
 \text{Moto (MRU): } x_\mathrm m &= 200 - 90t
 \end{align*}
+$$
 
 A continuación imponemos la **condición de encuentro**:
+$$
 \begin{align*}
-x_\mathrm c &= x_\mathrm m \\\\
-70t &= 200-90t \\\\
+x_\mathrm c &= x_\mathrm m \\
+70t &= 200-90t \\
 160 t &= 200
 \end{align*}
+$$
 
 Despejamos el **tiempo de encuentro** $t^*$:
 
@@ -226,12 +236,14 @@ donde se ve claramente cómo el coche y la moto se encuentran para $t^* = 1.25\t
 
 b) Para calcular la **distancia recorrida** por cada uno de ellos, sustituimos el tiempo de encuentro, $t^*=1.25\thinspace\mathrm{h}$, en las ecuaciones de posición del coche y de la moto, teniendo en cuenta las posiciones iniciales de cada uno de ellos:
 
+$$
 \begin{align*}
-\Delta x_\mathrm c (t^\*) &= x_\mathrm c (t^\*) - x_{0_\mathrm c} \\\\
-&= 70\cdot 1.25 = 87.5\thinspace\mathrm{km} \\\\
-\Delta x_\mathrm m (t^\*) &= x_\mathrm m (t^\*) - x_{0_\mathrm m} \\\\
+\Delta x_\mathrm c (t^*) &= x_\mathrm c (t^*) - x_{0_\mathrm c} \\
+&= 70\cdot 1.25 = 87.5\thinspace\mathrm{km} \\
+\Delta x_\mathrm m (t^*) &= x_\mathrm m (t^*) - x_{0_\mathrm m} \\
  &= 200-90\cdot 1.25 - 200 = -112.5\thinspace\mathrm{km}
 \end{align*}
+$$
 
 donde el signo – indica que la moto ha recorrido esa distancia hacia la izquierda.
 

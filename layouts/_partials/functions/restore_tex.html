@@ -1,0 +1,10 @@
+{{- $html := string . -}}
+{{- range findRE `(?s)<span class="katex"><math\b[^>]*>.*?</math></span>` $html -}}
+  {{- $math := . -}}
+  {{- range findRESubmatch `<annotation encoding="application/x-tex">([^<]*)</annotation>` $math 1 -}}
+    {{- $display := findRE `^<span class="katex"><math\b[^>]* display="block"` $math 1 -}}
+    {{- $delimiter := cond (ne (len $display) 0) "$$" "$" -}}
+    {{- $html = replace $html $math (printf "%s%s%s" $delimiter (index . 1) $delimiter) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $html -}}

@@ -29,7 +29,8 @@
 
   {{ $hasHighlighting := false }}
   {{ $hasMarkdown := false }}
-  {{ $hasMath := false }}
+  {{ $needsMathJax := false }}
+  {{ $hasLegacyMathML := false }}
   {{ $tex := `(?is)<math\b|\\\(.*?\\\)|\\\[.*?\\\]|\$\$.+?\$\$|(?:^|[^\\$])\$[^$\r\n]+\$|\\begin\{[^}]+\}.*?\\end\{[^}]+\}` }}
   {{ range union (slice .Page) .Pages }}
     {{ $content := .Content }}
@@ -37,11 +38,18 @@
       {{ $hasHighlighting = true }}
     {{ end }}
     {{ $body := replaceRE `(?is)<!--.*?-->|<(?:pre|code|script|style)\b[^>]*>.*?</(?:pre|code|script|style)\s*>` "" $content }}
+    {{ if in $body "<mjx-assistive-mml" }}
+      {{ $hasLegacyMathML = true }}
+    {{ end }}
     {{ if and (not $hasMarkdown) (findRE `(?i)<[a-z][^>]*\sdata-markdown(?:\s|=|>)` $body 1) }}
       {{ $hasMarkdown = true }}
     {{ end }}
-    {{ if and (not $hasMath) (or .Params.math (.Param "slides.reveal_options.mathjax3") (findRE $tex $body 1)) }}
-      {{ $hasMath = true }}
+    {{ if not $needsMathJax }}
+      {{ if eq (.Param "math_renderer") "katex" }}
+        {{ $needsMathJax = partial "functions/has_unrendered_math.html" $content }}
+      {{ else if or .Params.math (.Param "slides.reveal_options.mathjax3") (findRE $tex $body 1) }}
+        {{ $needsMathJax = true }}
+      {{ end }}
     {{ end }}
   {{ end }}
   {{ if $hasHighlighting }}
@@ -81,9 +89,12 @@
    <script src="{{ $cdn_url_reveal }}/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
    <script src="{{ $cdn_url_reveal }}/plugin/search/search.min.js" crossorigin="anonymous"></script>
   {{ $mathjaxURL := "" }}
-  {{ if $hasMath }}
+  {{ if or $needsMathJax $hasLegacyMathML }}
     <script src="{{ $cdn_url_reveal }}/plugin/math/math.min.js" crossorigin="anonymous"></script>
-    {{ $mathjaxURL = replace $js.mathJax.slides_url "%s" $js.mathJax.version }}
+    {{ $mathjaxURL = partial "functions/script_url.html" $js.mathJax }}
+    {{ if $hasLegacyMathML }}
+      {{ $mathjaxURL = printf $js.mathJax.slides_url $js.mathJax.version }}
+    {{ end }}
   {{ end }}
    <script src="{{ $cdn_url_reveal }}/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
 

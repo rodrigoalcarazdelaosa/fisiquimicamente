@@ -149,11 +149,13 @@ L'**anàlisi dimensional** ens permet **relacionar** les **dimensions** (unitats
 
 ### Equació de dimensions
 Les **equacions** de **dimensions** són expressions algebraiques en les quals substituïm les magnituds físiques per les seves dimensions (unitats). Per a denotar les dimensions d'una magnitud utilitzem la notació de **claudàtors** $[\ ]$. **Destaquem**:
+$$
 \begin{align*}
-[\text{Massa}] &= \mathsf M \\\\
-[\text{Longitud}] &= \mathsf L \\\\
+[\text{Massa}] &= \mathsf M \\
+[\text{Longitud}] &= \mathsf L \\
 [\text{Temps}] &= \mathsf T
 \end{align*}
+$$
 Sempre que treballem amb equacions de dimensions tractarem d'expressar les dimensions de les magnituds físiques que ens trobem en funció de $\mathsf M$, $\mathsf L$ i $\mathsf T$.
 
 #### Exemples
@@ -275,10 +277,12 @@ Té les **mateixes dimensions** que la **magnitud mesurada**.
 #### Error relatiu
 És el **quocient** entre l'**error absolut** i el **valor real**:
 
+$$
 \begin{align*}
-\text{error relatiu} &= \frac{\text{error absolut}}{\text{valor real}} \\\\
+\text{error relatiu} &= \frac{\text{error absolut}}{\text{valor real}} \\
 &= \frac{\lvert\text{valor mesurat} - \text{valor real}\rvert}{\text{valor real}}
 \end{align*}
+$$
 
 És **adimensional** (sol expressar-se en % multiplicant-ho per 100).
 

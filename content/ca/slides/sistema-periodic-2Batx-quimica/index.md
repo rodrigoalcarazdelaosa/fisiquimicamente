@@ -85,10 +85,12 @@ on $Z$ és el nombre atòmic de l'element i $a$ l'apantallament patit per l'elec
 
 ---
 
+$$
 \begin{align*}
-\text{electrons de core (interns)} &\rightarrow a = 1 \\\\
+\text{electrons de core (interns)} &\rightarrow a = 1 \\
 \text{electrons de valència (mateix nivell)} &\rightarrow a < 1
 \end{align*}
+$$
 
 ---
 

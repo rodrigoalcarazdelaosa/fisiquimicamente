@@ -141,10 +141,12 @@ $$
 
 pel que (suposant $T = 25\thinspace^\circ\mathrm C$):
 
+$$
 \begin{align*}
-K_\mathrm a\cdot K_\mathrm b &= K_\mathrm w = 10^{-14} \\\\
+K_\mathrm a\cdot K_\mathrm b &= K_\mathrm w = 10^{-14} \\
 \mathrm p K_\mathrm a + \mathrm p K_\mathrm b &= \mathrm p K_\mathrm w = 14
 \end{align*}
+$$
 
 ## Concepte de pH
 
@@ -162,12 +164,14 @@ $$
 
 A partir de l'expressió del **producte iònic de l'aigua**, $K_\mathrm w$, prenent <strong>logaritmes</strong>:
 
+$$
 \begin{align*}
-[\mathrm{H_3O^+}][\mathrm{OH^-}] &= K_\mathrm w \\\\
-\log [\mathrm{H_3O^+}] + \log [\mathrm{OH^-}] &= \log K_\mathrm w \\\\
--\mathrm{pH} - \mathrm{pOH} &= -14 \\\\
+[\mathrm{H_3O^+}][\mathrm{OH^-}] &= K_\mathrm w \\
+\log [\mathrm{H_3O^+}] + \log [\mathrm{OH^-}] &= \log K_\mathrm w \\
+-\mathrm{pH} - \mathrm{pOH} &= -14 \\
 \mathrm{pH} + \mathrm{pOH} &= 14
 \end{align*}
+$$
 
 ### Escala de pH
 
@@ -297,11 +301,13 @@ $$
 \mathrm{[H_3O^+]} = K_\mathrm a\cdot \frac{\mathrm{[HA]}}{\mathrm{[A^-]}}
 $$
 Prenent logaritmes i canviant de signe:
+$$
 \begin{align*}
--\log\mathrm{[H_3O^+]} &= -\log K_\mathrm a - \log\frac{\mathrm{[HA]}}{\mathrm{[A^-]}}	\\\\
-\mathrm{pH} &= \mathrm p K_\mathrm a - \log\frac{\mathrm{[HA]}}{\mathrm{[A^-]}} \\\\
+-\log\mathrm{[H_3O^+]} &= -\log K_\mathrm a - \log\frac{\mathrm{[HA]}}{\mathrm{[A^-]}}	\\
+\mathrm{pH} &= \mathrm p K_\mathrm a - \log\frac{\mathrm{[HA]}}{\mathrm{[A^-]}} \\
 \mathrm{pH} &= \mathrm p K_\mathrm a + \log\frac{[\text{base conjugada}]}{[\text{àcid}]}
 \end{align*}
+$$
 
 expressió que es coneix com a **equació de Henderson-Hasselbalch**.
 
@@ -348,10 +354,12 @@ $$
 
 El compost químic més produït del món, obtingut a base d'hidratar SO<sub>3</sub> concentrat prèviament del SO<sub>2</sub>. El seu principal ús és per crear àcid fosfòric que alhora s'empra en **fertilitzants**.
 
+$$
 \begin{align*}
-\mathrm{H_2SO_4} + \mathrm{H_2O} &\longrightarrow \mathrm{HSO_4^-} + \mathrm{H_3O^+}\quad\text{(àcid FORT)} \\\\
+\mathrm{H_2SO_4} + \mathrm{H_2O} &\longrightarrow \mathrm{HSO_4^-} + \mathrm{H_3O^+}\quad\text{(àcid FORT)} \\
 \mathrm{HSO_4^-} + \mathrm{H_2O} & &#8652; \mathrm{SO_4^{2-}} + \mathrm{H_3O^+}\quad\text{(àcid FEBLE)}
 \end{align*}
+$$
 
 #### Àcid nítric (HNO<sub>3</sub>)
 

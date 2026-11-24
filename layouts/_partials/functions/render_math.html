@@ -1,0 +1,34 @@
+{{- $tex := .tex | htmlUnescape -}}
+{{- $tex = replace $tex "^⦵" "^{⦵}" -}}
+{{- $macros := dict "\\symup" "\\mathrm{#1}" "\\symbf" "\\boldsymbol{#1}" -}}
+{{- range $macro, $value := dict "\\ihat" "\\hat{\\imath}" "\\jhat" "\\hat{\\jmath}" -}}
+  {{- if not (in $tex (printf "\\newcommand{%s}" $macro)) -}}
+    {{- $macros = merge $macros (dict $macro $value) -}}
+  {{- end -}}
+{{- end -}}
+{{- /* Allow the accented text and typographic spaces already used in math mode. */ -}}
+{{- $options := dict "output" "mathml" "displayMode" .display "macros" $macros "strict" "ignore" -}}
+{{- with try (transform.ToMath $tex $options) -}}
+  {{- with .Err -}}
+    {{- errorf "KaTeX could not render the equation at %s: %s" $.context.Position . -}}
+  {{- else -}}
+    {{- $markup := string .Value -}}
+    {{- /* A standalone arrow avoids the combining accent's extra ascent in WebKit. */ -}}
+    {{- $markup = replace $markup `<mo>⃗</mo></mover>` `<mo stretchy="false" lspace="0" rspace="0" style="font-size:.68em">→</mo></mover>` -}}
+    {{- if in $markup "<menclose" -}}
+      {{- /* Chromium does not render menclose. Draw KaTeX's boxes and cancellation strokes on mrow. */ -}}
+      {{- $stroke := "transparent calc(50% - .03em),currentColor 0,currentColor calc(50% + .03em),transparent 0" -}}
+      {{- $up := printf "linear-gradient(to bottom right,%s)" $stroke -}}
+      {{- $down := printf "linear-gradient(to top right,%s)" $stroke -}}
+      {{- $styles := dict "box" "border:.06em solid currentColor;padding:.1em" "updiagonalstrike" (printf "background:%s" $up) "downdiagonalstrike" (printf "background:%s" $down) "updiagonalstrike downdiagonalstrike" (printf "background:%s,%s" $up $down) -}}
+      {{- $compatible := $markup -}}
+      {{- range $notation, $style := $styles -}}
+        {{- $compatible = replace $compatible (printf `<menclose notation="%s">` $notation) (printf `<mrow style="%s">` $style) -}}
+      {{- end -}}
+      {{- if not (in $compatible "<menclose") -}}
+        {{- $markup = replace $compatible "</menclose>" "</mrow>" -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $markup | safeHTML -}}
+  {{- end -}}
+{{- end -}}
