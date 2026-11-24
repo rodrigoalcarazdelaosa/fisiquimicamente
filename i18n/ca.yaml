@@ -270,3 +270,5 @@
   translation: "Carregant el tutor…"
 - id: notes_tutor_load_error
   translation: "No s’ha pogut obrir el tutor. Prem de nou per tornar-ho a provar."
+- id: molecule_unavailable
+  translation: "No s’ha pogut mostrar la molècula en 3D."
