@@ -1,8 +1,10 @@
 import {playerURL} from '@params';
+import {respectReducedMotion} from './player-motion';
 
 (() => {
   const players = document.querySelectorAll('tgs-player, lottie-player');
   if (!players.length) return;
+  const reducedMotion = respectReducedMotion(players);
   const visible = new Set();
   const loading = new Set();
   let playerScript;
@@ -40,7 +42,7 @@ import {playerURL} from '@params';
     const src = (dark && player.dataset.srcDark) || player.dataset.src;
     if (!src) return;
     if (player.dataset.tgsLoaded === src) {
-      if (player.currentState === 'paused' || player.currentState === 'frozen') player.play();
+      if (!reducedMotion.matches && (player.currentState === 'paused' || player.currentState === 'frozen')) player.play();
       return;
     }
 
