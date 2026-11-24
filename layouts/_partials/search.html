@@ -1,22 +1,22 @@
 {{/* Local search dialog. */}}
 {{ $search_provider := lower site.Params.features.search.provider }}
 {{ if eq $search_provider "wowchemy" }}
-<aside class="search-modal" id="search">
+<dialog class="search-modal" id="search" aria-labelledby="search-title">
   <div class="container">
     <section class="search-header">
 
       <div class="search-heading">
         <div>
-          <h1>{{ i18n "search" }}</h1>
+          <h1 id="search-title">{{ i18n "search" }}</h1>
         </div>
         <div class="search-close">
-          <a class="js-search" href="#" aria-label="{{i18n "close" | default "Close"}}"><span class="fa-2x" aria-hidden="true">❎</span></a>
+          <button type="button" class="search-dismiss" aria-label="{{i18n "close" | default "Close"}}"><span class="fa-2x" aria-hidden="true">❎</span></button>
         </div>
       </div>
 
       <div id="search-box">
         <input name="q" id="search-query" placeholder="{{i18n "search_placeholder"}}" autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control" autofocus
         aria-label="{{i18n "search_placeholder"}}">
       </div>
 
@@ -49,5 +49,5 @@
 
     </section>
   </div>
-</aside>
+</dialog>
 {{end}}

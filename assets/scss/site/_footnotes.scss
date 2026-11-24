@@ -13,13 +13,16 @@
 
 .bottom-panel {
   position: fixed;
+  inset: auto 0 0;
+  width: 100%;
+  max-height: 50dvh;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: auto;
   font-size: 0.9rem;
-  bottom: 0;
-  left: 0;
-  right: 0;
   background-color: nord.$nord0;
   color: nord.$nord6;
-  z-index: 9999999999999999999;
 }
 
 .dark .bottom-panel {
@@ -28,12 +31,18 @@
 }
 
 .popup-wrapper {
-  display: none;
+  display: flex;
+  align-items: flex-start;
   max-width: 720px;
   margin: 0 auto;
+}
 
-
-
+.popup-close {
+  color: inherit;
+  background: transparent;
+  border: 0;
+  padding: 0.5rem 0.75rem;
+  font-size: 1.25rem;
 }
 
 #popup-content {

@@ -97,7 +97,7 @@ export function initSearch({search_config, i18n, content_type, libraries}) {
     if (!query || (!force && query.length < search_config.minLength)) return;
     try {
       const find = await loadEngine();
-      const isCurrent = () => current === generation && document.body.classList.contains('searching');
+      const isCurrent = () => current === generation && input.closest('dialog').open;
       if (!isCurrent()) return;
       const results = find(query);
       const header = document.createElement(results.length ? 'h3' : 'div');

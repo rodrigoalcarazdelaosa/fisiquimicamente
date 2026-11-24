@@ -1,3 +1,4 @@
+{{ $playerURL := partial "functions/script_url.html" hugo.Data.assets.js.lottiePlayer }}
 <div class="reveal">
   <div class="slides">
     {{/* Loop over each page. */}}
@@ -9,6 +10,8 @@
     {{/* TODO: reintroduce a similar workaround if Goldmark requires it. */}}
     {{/* $content := replace .Content "<div class=\"footnotes\">\n\n<hr />" "<div class=\"footnotes\">" */}}
     {{ $content := partial "functions/content_scripts.html" .Content }}{{/* For Goldmark. */}}
+    {{/* Apply the motion preference before the player upgrades its elements. */}}
+    {{ $content = replace $content (printf `<script src="%s">` $playerURL) (printf `<script defer src="%s">` $playerURL) }}
     {{ $content = replaceRE `(?i)(<iframe\b[^>]*?\s)src(\s*=\s*["']https://(?:phet\.colorado\.edu/sims/|player\.vimeo\.com/video/))` `${1}data-slide-embed data-src${2}` $content }}
 
     {{/* Let `---` delimit slides. In Goldmark, that is `<hr>`. Alternatively, for Blackfriday, use `<hr />`. */}}

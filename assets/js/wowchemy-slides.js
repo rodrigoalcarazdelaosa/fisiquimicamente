@@ -1,5 +1,8 @@
 /* Reveal.js integration, adapted from Hugo Blox Builder (MIT). */
-import {hasMarkdown, slides} from '@params';
+import {hasMarkdown, hasPlayers, slides} from '@params';
+import {respectReducedMotion} from './player-motion';
+
+if (hasPlayers) respectReducedMotion(document.querySelectorAll('tgs-player, lottie-player'));
 
 // Reveal and its plugins expect camelCase, including in nested option objects.
 function revealOptions(value) {

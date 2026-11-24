@@ -7,39 +7,38 @@ import {initThemeControl, isDarkTheme} from './wowchemy-theming';
 import {initSearch} from './wowchemy-search';
 
 function initSearchDialog() {
+  const dialog = document.querySelector('#search');
+  if (!dialog) return;
   let opener;
-  const input = () => document.querySelector('#search-query, .ais-SearchBox-input');
-  function toggle() {
-    const opening = !document.body.classList.contains('searching');
-    if (opening) {
-      opener = document.activeElement;
-      const gutter = window.innerWidth - document.documentElement.clientWidth;
-      if (gutter) {
-        const style = document.createElement('style');
-        style.id = 'search-scrollbar';
-        style.textContent = `.compensate-for-scrollbar{margin-right:${gutter}px}`;
-        document.head.append(style);
-        document.body.classList.add('compensate-for-scrollbar');
-      }
-      document.body.classList.add('searching');
-      input()?.focus();
-    } else {
-      input()?.blur();
-      document.body.classList.remove('searching', 'compensate-for-scrollbar');
-      document.getElementById('search-scrollbar')?.remove();
-      const url = new URL(location.href);
-      url.searchParams.delete('q');
-      history.replaceState(history.state, '', url);
-      opener?.focus();
+
+  function toggle(trigger = document.activeElement) {
+    if (dialog.open) {
+      dialog.close();
+      return;
     }
+    opener = trigger;
+    const gutter = window.innerWidth - document.documentElement.clientWidth;
+    document.body.style.setProperty('--search-scrollbar-width', `${gutter}px`);
+    document.body.classList.add('searching');
+    dialog.showModal();
   }
+
+  dialog.querySelector('.search-dismiss').addEventListener('click', () => dialog.close());
+  dialog.addEventListener('close', () => {
+    if (dialog.open) return;
+    document.body.classList.remove('searching');
+    document.body.style.removeProperty('--search-scrollbar-width');
+    const url = new URL(location.href);
+    url.searchParams.delete('q');
+    history.replaceState(history.state, '', url);
+    opener?.focus({preventScroll: true});
+  });
   document.querySelectorAll('.js-search').forEach(link => link.addEventListener('click', event => {
     event.preventDefault();
-    toggle();
+    toggle(link);
   }));
   document.addEventListener('keydown', event => {
-    if (event.key === 'Escape' && document.body.classList.contains('searching')) toggle();
-    if (event.key === '/' && !event.ctrlKey && !event.metaKey && !event.altKey
+    if (event.key === '/' && !event.defaultPrevented && !event.ctrlKey && !event.metaKey && !event.altKey
       && !event.target.closest('input, textarea, [contenteditable="true"]')) {
       event.preventDefault();
       toggle();
@@ -179,7 +178,8 @@ function initPortfolio(container) {
 
 function initPage() {
   if (document.querySelector('a.footnote-ref')) {
-    import(footnotesURL).catch(error => console.error('Could not load footnotes', error));
+    import(footnotesURL).then(({initFootnotes}) => initFootnotes(i18n))
+      .catch(error => console.error('Could not load footnotes', error));
   }
   prepareContent();
   initNavigation();
