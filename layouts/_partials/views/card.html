@@ -33,9 +33,16 @@
       {{ $image = $image.Fill (printf "808x455 %s" $anchor) }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
     {{ end }}
+    {{ $src := "" }}
+    {{ if eq $image.MediaType.SubType "webp" }}
+      {{ $path := path.Join "cards" (strings.TrimPrefix "/" $item.RelPermalink) "featured.webp" }}
+      {{ $src = partial "functions/fingerprinted_image_url" (dict "path" $path "resource" $image) }}
+    {{ else }}
+      {{ $src = $image.RelPermalink }}
+    {{ end }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
       <div class="img-hover-zoom">
-        <img src="{{ $image.RelPermalink }}" {{ if $is_svg }}style="object-fit: contain;"{{ else }}height="{{ $image.Height }}" width="{{ $image.Width }}"{{ end }}
+        <img src="{{ $src }}" {{ if $is_svg }}style="object-fit: contain;"{{ else }}height="{{ $image.Height }}" width="{{ $image.Width }}"{{ end }}
             class="article-banner" alt="{{ $item.Title }}" loading="lazy">
       </div>
     </a>

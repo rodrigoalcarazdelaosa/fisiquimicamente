@@ -20,7 +20,7 @@
   Content-Type: application/rss+xml
 {{ if hugo.IsProduction }}
 # These bundles include a content fingerprint in the published URL.
-{{ range slice "/css/site.min.*" "/css/page-*.css" "/css/carousel.min.*" "/js/site-*.js" "/js/tgs-players.*.js" }}
+{{ range slice "/css/site.min.*" "/css/page-*.css" "/css/carousel.min.*" "/js/site-*.js" "/js/tgs-players.*.js" "/media/immutable/*" }}
 {{ . }}
   Cache-Control: public, max-age=31536000, immutable
 {{ end }}
