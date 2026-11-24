@@ -115,7 +115,12 @@
   ul, ol { margin: 0.4rem 0; padding-left: 1.25em; }
   li { margin-bottom: 0.3rem; }
   pre { max-width: 100%; padding: 0.5rem; overflow-x: auto; }
-  mjx-container[display="true"] { max-width: 100%; overflow-x: auto; overflow-y: hidden; }
+  .notes-tutor-display-math {
+    display: block;
+    overflow-x: auto;
+
+    math { min-width: max-content; }
+  }
 }
 .notes-tutor-message-user {
   background: rgba(nord.$nord8, 0.18);
@@ -183,6 +188,17 @@
     max-width: none;
     height: string.unquote("min(680px, calc(100dvh - 12rem))");
     margin-top: 0.6rem;
+  }
+
+  .article-sidebars-sticky .notes-tutor-panel {
+    // Anchor the open panel to the viewport so it fits even when the button is near the fold.
+    --notes-tutor-panel-top: calc(var(--article-sidebars-top) + 3.25rem);
+    position: fixed;
+    top: var(--notes-tutor-panel-top);
+    left: var(--notes-tutor-left);
+    width: var(--notes-tutor-width);
+    height: min(680px, calc(100dvh - var(--notes-tutor-panel-top) - 1rem));
+    margin-top: 0;
   }
 }
 

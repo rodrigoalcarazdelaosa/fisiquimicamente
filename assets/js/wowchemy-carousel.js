@@ -1,17 +1,18 @@
 export function initCarousels() {
   for (const carousel of document.querySelectorAll('[data-ride="carousel"]')) {
     const slides = [...carousel.querySelectorAll('.carousel-item')];
-    if (slides.length < 2) continue;
+    if (!slides.length) continue;
     const indicators = [...carousel.querySelectorAll('[data-slide-to]')];
     const interval = Number(carousel.dataset.interval || 5000);
     let index = Math.max(0, slides.findIndex(slide => slide.classList.contains('active')));
     let moving = false;
     let timer;
     let startX;
+    let nearby = !('IntersectionObserver' in window);
 
     function schedule() {
       clearTimeout(timer);
-      if (interval > 0 && !document.hidden && !carousel.matches(':hover')) {
+      if (slides.length > 1 && nearby && interval > 0 && !document.hidden && !carousel.matches(':hover')) {
         timer = setTimeout(() => go(index + 1), interval);
       }
     }
@@ -64,6 +65,16 @@ export function initCarousels() {
     carousel.addEventListener('mouseenter', () => clearTimeout(timer));
     carousel.addEventListener('mouseleave', schedule);
     document.addEventListener('visibilitychange', schedule);
+    if (nearby) {
+      carousel.classList.add('carousel-background-ready');
+    } else {
+      const observer = new IntersectionObserver(([entry]) => {
+        nearby = entry.isIntersecting;
+        if (nearby) carousel.classList.add('carousel-background-ready');
+        schedule();
+      }, {rootMargin: '200px 0px'});
+      observer.observe(carousel);
+    }
     schedule();
   }
 }

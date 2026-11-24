@@ -248,10 +248,12 @@ Utilitzant l'equació (3)
 	$$
 	v^2-v_0^2 = 2a\Delta x \tag{3}
 	$$
+	$$
 	\begin{align*}
 	v = - \sqrt{v_0^2 + 2a\Delta x} &= - \sqrt{(-5)^2 + 2\cdot (-9.8)\cdot (0-120)} \\\\
 	  &= -48.8\thinspace\mathrm{m/s}
 	\end{align*}
+	$$
 
 {{< figure library="true" src="movimientos-4ESO/lanzamiento-vertical.svg" title="Representació gràfica del llançament vertical, on s'observa com en els primers intervals de temps la distància recorreguda és menor que en els intervals finals, a causa de l'increment de la velocitat." lightbox="false" width="100%" >}}
 
@@ -293,10 +295,12 @@ c) La rapidesa del cotxe a l'instant que arriba al tren.
 
 a) El primer que fem és escriure les **equacions del moviment** de cada mòbil:
 
+$$
 \begin{align*}
-	\text{Cotxe (MRUA): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\\\
+	\text{Cotxe (MRUA): } x_\mathrm c &= x_{0_\mathrm c} + v_{0_\mathrm c}(t-t_{0_\mathrm c})+\frac{1}{2}a_\mathrm c(t-t_{0_\mathrm c})^2 \\
 	\text{Tren (MRU): } x_\mathrm t &= x_{0_\mathrm t} + v_\mathrm t(t-t_{0_\mathrm t})
 \end{align*}
+$$
 
 **Particularitzem** per al nostre cas:
 
@@ -394,10 +398,12 @@ $$
 $$
 
 Les magnituds lineals i les angulars es relacionen a través del radi $R$:
+$$
 \begin{align*}
-	e &= \varphi R \\\\
+	e &= \varphi R \\
 	v &= \omega R
 \end{align*}
+$$
 
 ### Acceleració centrípeta $a_\mathrm c$
 També anomenada **acceleració normal**, és una acceleració que sorgeix del canvi de direcció de la velocitat. El seu mòdul és igual a:

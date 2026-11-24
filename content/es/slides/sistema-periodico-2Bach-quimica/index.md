@@ -95,10 +95,12 @@ donde $Z$ es el número atómico del elemento y $a$ el apantallamiento sufrido p
 
 ---
 
+$$
 \begin{align*}
-\text{electrones de core (internos)} &\rightarrow a = 1 \\\\
+\text{electrones de core (internos)} &\rightarrow a = 1 \\
 \text{electrones de valencia (mismo nivel)} &\rightarrow a < 1
 \end{align*}
+$$
 
 ---
 

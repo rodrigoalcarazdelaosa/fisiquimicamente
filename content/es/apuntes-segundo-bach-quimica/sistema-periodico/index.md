@@ -95,10 +95,12 @@ $$
 
 donde $Z$ es el número atómico del elemento y $a$ el apantallamiento sufrido por el electrón, teniendo en cuenta que los electrones *de core* (internos) producen un mayor apantallamiento que los que se encuentran en su mismo nivel energético:
 
+$$
 \begin{align*}
-\text{electrones de core (internos)} &\rightarrow a = 1 \\\\
+\text{electrones de core (internos)} &\rightarrow a = 1 \\
 \text{electrones de valencia (mismo nivel)} &\rightarrow a < 1
 \end{align*}
+$$
 
 #### Ejemplo
 Átomo de berilio (<sub>4</sub>Be) $\rightarrow \mathrm{1s^2 2s^2}$

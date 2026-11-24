@@ -226,20 +226,24 @@ El primer que fem és un dibuix representant la situació:
 Les **forces** que actuen són:
 
 - Pes $\vec P = -P_x\ihat - P_y\jhat$, on:
+  $$
   \begin{align*}
-  P_x &= mg\sin\alpha = 9.8m\sin30^\circ = 4.9m\thinspace\mathrm{N} \\\\
+  P_x &= mg\sin\alpha = 9.8m\sin30^\circ = 4.9m\thinspace\mathrm{N} \\
   P_y &= mg\cos\alpha = 9.8m\cos30^\circ = 4.9\sqrt{3}m\thinspace\mathrm{N}
   \end{align*}
+  $$
 - Normal $\vec N = N\jhat$
 - Força de fregament $\vec f_\mathrm r=\mu N\ihat = 0.2N\ihat\thinspace\mathrm{N}$
 
 ---
 
 Escrivim la **2a llei de Newton** per a cada **component**:
+$$
 \begin{align}
-\text{Component $x$}&\rightarrow f_\mathrm r - P_x = ma \tag{1} \\\\
-\text{Component $y$}&\rightarrow N-P_y = 0 \tag{2}
+\text{Component $x$}&\rightarrow f_\mathrm r - P_x = ma && \text{(1)} \\
+\text{Component $y$}&\rightarrow N-P_y = 0 && \text{(2)}
 \end{align}
+$$
 
 ---
 
@@ -254,10 +258,12 @@ $$
 ---
 
 La **velocitat** que portarà als $5\thinspace\mathrm s$ la calculem amb l'**equació de la velocitat**
+$$
 \begin{gather*}
-v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\\\
+v = v_0 + at = 0 - 3.2\cdot 5 = -16.0\thinspace\mathrm{m/s}\\
 \vec v = -16.0\ihat\thinspace\mathrm{m/s}
 \end{gather*}
+$$
 
 ---
 

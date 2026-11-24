@@ -48,7 +48,6 @@ footer:
 locale:
   date_format: "2006-01-02"
   time_format: "15:04"
-  address_format: es
 
 # Site features
 
@@ -59,8 +58,6 @@ features:
   syntax_highlighter:
     theme_light: nord
     theme_dark: nord
-  math:
-    enable: false
   repository:
     url: "https://github.com/rodrigoalcarazdelaosa/fisiquimicamente"
     content_dir: content/es

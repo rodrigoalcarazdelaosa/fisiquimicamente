@@ -4,11 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {{ $theme_init := resources.Get "js/theme-init.js" | js.Build (dict "minify" hugo.IsProduction) }}
   <script data-cfasync="false">{{ $theme_init.Content | safeJS }}</script>
-  {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
-  {{ $hide_generator := site.Params.power_ups.hide_generator | default false }}
-  {{ if not (and $is_sponsor $hide_generator) }}
-    <meta name="generator" content="Hugo Blox Builder {{ hugo.Data.hugoblox.version }}" />
-  {{ end }}
+  {{ hugo.Generator }}
 
   {{/* EXTENSIBILITY HOOK: HEAD-START */}}
   {{ partial "blox-core/functions/get_hook" (dict "hook" "head-start" "context" .) }}
@@ -18,38 +14,10 @@
 
   {{ partial "font_styles.html" (dict "font" ($scr.Get "font_pack") "async" true) }}
 
-  {{ $js := hugo.Data.assets.js }}
-
-  {{ $has_notes_tutor := partial "functions/has_notes_tutor.html" . }}
-  {{ if or .Params.math site.Params.features.math.enable }}
-    {{ $mathjax_config := resources.Get "js/mathjax-config.js" }}
-    <script data-cfasync="false">
-      {{ $mathjax_config.Content | safeJS }}
-      {{ if $has_notes_tutor }}window.MathJax.loader.load.push('ui/safe');{{ end }}
-    </script>
-  {{ end }}
-
-  {{ range $name, $asset := $js }}
-    {{ if and $asset.async (or (ne (lower $name) "mathjax") $.Params.math site.Params.features.math.enable) }}
-      <script {{ if eq (lower $name) "mathjax" }}data-cfasync="false"{{ end }} src="{{ partial "functions/script_url.html" $asset }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>
-    {{ end }}
-  {{ end }}
-
   {{ partial "site_styles.html" . }}
 
   {{/* Load SEO module */}}
   {{ partial "blox_seo" . }}
-
-  {{/* Netlify Identity integration. */}}
-  {{ $use_cms := templates.Exists "decap_cms/single.decap_cms_config.yml" | default (site.Params.extensions.decap_cms.enable | default false) }}
-  {{ if .IsHome | and $use_cms }}
-    <script data-cfasync="false" src="{{ $js.netlifyIdentity.url }}"></script>
-    <script data-cfasync="false">
-      window.netlifyIdentity?.on('init', user => {
-        if (!user) window.netlifyIdentity.on('login', () => { location.href = '/admin/'; });
-      });
-    </script>
-  {{ end }}
 
   {{/* RSS Feed */}}
   {{ with .OutputFormats.Get "RSS" }}

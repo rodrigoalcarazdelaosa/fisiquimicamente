@@ -329,10 +329,11 @@ Un [**solenoide**](https://es.wikipedia.org/wiki/Solenoide) o bobina está forma
 {{< math >}}
 
 $$
-\begin{multline*}
-						\oint \vec B\cdot \mathrm d \vec \ell  = \oint_1 \vec B\cdot \mathrm d \vec \ell + \cancelto{0\ \left(\vec B\perp\mathrm d \vec \ell\right)}{\oint_2 \vec B\cdot \mathrm d \vec \ell} \\
-						+ \cancelto{0\ \left(\vec B_\mathrm{ext}=0\right)}{\oint_3 \vec B\cdot \mathrm d \vec \ell} + \cancelto{0\ \left(\vec B\perp\mathrm d \vec \ell\right)}{\oint_4 \vec B\cdot \mathrm d \vec \ell} = \oint_1 B\mathrm d \ell = BL
-\end{multline*}
+\begin{aligned}
+\oint \vec B\cdot \mathrm d \vec \ell &= \oint_1 \vec B\cdot \mathrm d \vec \ell + \underbrace{\oint_2 \vec B\cdot \mathrm d \vec \ell}_{0\;(\vec B\perp\mathrm d \vec \ell)} \\
+&\quad + \underbrace{\oint_3 \vec B\cdot \mathrm d \vec \ell}_{0\;(\vec B_\mathrm{ext}=0)} + \underbrace{\oint_4 \vec B\cdot \mathrm d \vec \ell}_{0\;(\vec B\perp\mathrm d \vec \ell)} \\
+&= \oint_1 B\,\mathrm d \ell = BL
+\end{aligned}
 $$
 
 {{< /math >}}
@@ -462,7 +463,6 @@ $$
 \begin{aligned}
 						F_\mathrm m & = ma \notag                                    \\
 						F_\mathrm m & = ma_\mathrm c = \frac{mv^2}{r} \notag         \\
-						\label{eq:v2}
 						qvB         & = \frac{mv^2}{r} \rightarrow v = \frac{qBr}{m}\qquad (4)
 \end{aligned}
 $$

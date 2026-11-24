@@ -157,17 +157,21 @@ $$
 donde $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ es la presión atmosférica a nivel del mar, $d = 1025\thinspace\mathrm{kg/m^3}$ es la densidad media del [agua del mar](https://es.wikipedia.org/wiki/Agua_de_mar), $g = 9.8\thinspace\mathrm{N/kg}$ es la aceleración de la gravedad y $h$ es lo que nos piden.
 
 Convertimos todo al SI:
+$$
 \begin{align*}
-10\thinspace\mathrm{\cancel{atm}}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 1013250\thinspace\mathrm{Pa} \\\\
+10\thinspace\mathrm{\cancel{atm}}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 1013250\thinspace\mathrm{Pa} \\
 1\thinspace\mathrm{\cancel{atm}}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 101325\thinspace\mathrm{Pa}
 \end{align*}
+$$
 
 Despejando $h$:
 
+$$
 \begin{align*}
-h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\\\
+h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\
 &= 90.8\thinspace\mathrm{m}
 \end{align*}
+$$
 
 Lo que confirma la *regla de oro* que nos dice que cada 10 m de profundidad la presión aumenta en 1 atm aproximadamente.
 
@@ -190,12 +194,14 @@ Echa un vistazo a [esta estupenda **entrada** del **blog**]({{< relref "post/hie
 {{% /callout %}}
 
 > Todo cuerpo sumergido total o parcialmente en un fluido experimenta una fuerza de empuje ($E$) vertical hacia arriba que es igual al peso del fluido desalojado:
+$$
 \begin{align*}
-E &= P_\text{fluido desalojado} \\\\
-&= m_\text{fluido desalojado}\cdot g \\\\
-&= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\\\
+E &= P_\text{fluido desalojado} \\
+&= m_\text{fluido desalojado}\cdot g \\
+&= d_\text{fluido}\cdot V_\text{desalojado}\cdot g \\
 &= d_\text{fluido}\cdot V_\text{sumergido}\cdot g
 \end{align*}
+$$
 
 {{< figure library="true" src="fluidos-4ESO/flotacion.svg" title="Traducida y adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="false" width="100%" >}}
 
@@ -221,10 +227,12 @@ $$
 
 Si el barco flota ha de cumplirse que la fuerza resultante neta sobre él tiene que ser cero, o lo que es lo mismo, el empuje ha de igualar al peso. Aplicando el **principio de Arquímedes**:
 
+$$
 \begin{align*}
-E &= P_\text{barco} \\\\
+E &= P_\text{barco} \\
 d_\text{fluido}\cdot V_\text{sumergido}\cdot \cancel{g} &= m_\text{barco}\cdot \cancel{g}
 \end{align*}
+$$
 
 Pasamos la masa del barco a kg:
 
@@ -267,10 +275,12 @@ Gracias al **experimento de Torricelli** se midió por primera vez la presión a
 
 {{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" title="Al poner un tubo de 100 cm de altura lleno de mercurio (Hg) boca abajo en una cubeta también llena de mercurio, se observa que el Hg desciende a aproximadamente 76 cm, creándose un vacío en los 24 cm restantes. Crédito: [ClipArt ETC](https://etc.usf.edu/clipart/53700/53703/53703_torricellian.htm)." lightbox="true" >}}
 
+$$
 \begin{align*}
-p_\text{atm} = d_\text{Hg}\cdot g\cdot h &= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\\\
+p_\text{atm} = d_\text{Hg}\cdot g\cdot h &= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\
 &= 101\thinspace325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
 \end{align*}
+$$
 
 El [Departamento de Física y Química del IES Valle del Saja](http://www.fqsaja.com) nos muestra esta célebre experiencia en el siguiente vídeo:
 

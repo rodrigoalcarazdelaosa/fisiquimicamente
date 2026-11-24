@@ -1,5 +1,5 @@
 {{- /*
-Renders LaTeX math for MathJax without fetching remote SVGs during the Hugo build.
+Renders LaTeX math as MathML using KaTeX.
 
 @param {string} [Params.class] A class name to add to the wrapper.
 @param {string} [Params.color] The foreground CSS color for the expression.
@@ -10,12 +10,14 @@ Renders LaTeX math for MathJax without fetching remote SVGs during the Hugo buil
 {{- $inner := .Inner | strings.TrimSpace -}}
 {{- $name := .Name -}}
 {{- $ordinal := .Ordinal -}}
+{{- /* Markdown shortcodes may receive MathML already rendered by the passthrough hook. */ -}}
+{{- $rendered := in $inner `<annotation encoding="application/x-tex">` -}}
 
 {{- $displayMode := true -}}
-{{- if or (strings.HasPrefix $inner `$$`) (strings.HasPrefix $inner `\[`) -}}
-  {{- $displayMode = true -}}
+{{- if $rendered -}}
+  {{- $displayMode = in $inner ` display="block">` -}}
 {{- else if or (strings.HasPrefix $inner `$`) (strings.HasPrefix $inner `\(`) -}}
-  {{- $displayMode = false -}}
+  {{- $displayMode = strings.HasPrefix $inner `$$` -}}
 {{- end -}}
 
 {{- $inner = trim $inner `$` -}}
@@ -43,10 +45,17 @@ Renders LaTeX math for MathJax without fetching remote SVGs during the Hugo buil
   {{- $style = printf "%s width: %s;" $style . -}}
 {{- end -}}
 
+{{- $formula := "" -}}
+{{- if $rendered -}}
+  {{- $formula = $inner | strings.TrimPrefix "<p>" | strings.TrimSuffix "</p>" | safeHTML -}}
+{{- else -}}
+  {{- $formula = partial "functions/render_math.html" (dict "tex" $inner "display" $displayMode "context" .) -}}
+{{- end -}}
+
 {{- if $displayMode -}}
 <div class="{{ $class }}" id="{{ $id }}"{{ with $style }} style="{{ strings.TrimSpace . | safeCSS }}"{{ end }}>
-{{ printf "$$\n%s\n$$" $inner | safeHTML }}
+{{ $formula }}
 </div>
 {{- else -}}
-<span class="{{ $class }}" id="{{ $id }}"{{ with $style }} style="{{ strings.TrimSpace . | safeCSS }}"{{ end }}>{{ printf `\(%s\)` $inner | safeHTML }}</span>
+<span class="{{ $class }}" id="{{ $id }}"{{ with $style }} style="{{ strings.TrimSpace . | safeCSS }}"{{ end }}>{{ $formula }}</span>
 {{- end -}}

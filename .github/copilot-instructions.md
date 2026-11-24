@@ -11,7 +11,7 @@
   - `view.sh` (desktop): exports last git hash and runs `hugo server --renderStaticToDisk --disableFastRender --printI18nWarnings --buildFuture`.
   - `view_mobile.sh` (LAN/mobile): binds to local IP and sets `--baseURL`.
   - Both source `get_last_commit_hash.sh` to set `HUGOxPARAMSxGITxLAST_COMMIT*` env vars for templates.
-- Build (CI parity): `hugo --gc --minify`. CI installs the Hugo version in `.hvm` and the Dart Sass version in `.github/scripts/install-hugo.sh`.
+- Build (CI parity): `hugo --gc --minify`. CI reads the Hugo and Dart Sass versions from `build-versions.env`.
 
 ## Deployment
 - GitHub Actions: `.github/workflows/publish-CFP.yml` runs on `push` to `main`.

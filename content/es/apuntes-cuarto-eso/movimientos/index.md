@@ -440,10 +440,12 @@ $$
 $$
 
 Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
+$$
 \begin{align*}
-	e &= \varphi R \\\\
+	e &= \varphi R \\
 	v &= \omega R
 \end{align*}
+$$
 
 ### Aceleración centrípeta $a_\mathrm c$
 También llamada **aceleración normal**, es una aceleración que surge del cambio de dirección de la velocidad. Su módulo es igual a:

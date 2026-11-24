@@ -138,17 +138,21 @@ $$
 
 Escribimos las **semirreacciones** de oxidación (&#8593; nº ox.) y reducción (&#8595; nº ox.):
 
+$$
 \begin{align*}
-\text{oxidación (Cu: $0\rightarrow +2$): } \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
+\text{oxidación (Cu: $0\rightarrow +2$): } \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\
 \text{reducción (N: $+5 \rightarrow +2$): } \mathrm{NO_3^-} &\longrightarrow \mathrm{NO}
 \end{align*}
+$$
 
 Ajustamos los oxígenos añadiendo moléculas de agua:
 
+$$
 \begin{align*}
-\mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
+\mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\
 \mathrm{NO_3^-} &\longrightarrow \mathrm{NO} + 2\thinspace\mathrm{H_2O}
 \end{align*}
+$$
 
 Ajustamos los H añadiendo H<sup>+</sup>:
 

@@ -1,5 +1,6 @@
 const navbar = document.getElementById('navbar-main');
-const navbarHeight = () => navbar?.getBoundingClientRect().height || 0;
+let breadcrumbHeight = 0;
+const headerHeight = () => (navbar?.getBoundingClientRect().height || 0) + breadcrumbHeight;
 
 function anchorTarget(hash) {
   try {
@@ -13,16 +14,46 @@ function initScrollHeader() {
   const header = navbar?.closest('[data-hide-on-scroll]');
   if (!header) return;
 
+  const original = document.querySelector('.page-body nav[aria-label="breadcrumb"]');
+  const originalList = original?.querySelector('.breadcrumb');
+  const fallback = header.querySelector('template[data-header-breadcrumb]')?.content.firstElementChild;
+  const breadcrumb = (original || fallback)?.cloneNode(true);
   const scrollPosition = () => {
     const root = document.scrollingElement;
     return Math.max(0, Math.min(window.scrollY, root.scrollHeight - root.clientHeight));
   };
+
+  function updateBreadcrumb(y, navbarHeight) {
+    breadcrumb?.classList.toggle('header-breadcrumb--visible',
+      y > navbarHeight && (original?.getBoundingClientRect().bottom ?? 0) <= navbarHeight);
+  }
+
+  if (breadcrumb) {
+    breadcrumb.className = 'header-breadcrumb';
+    header.append(breadcrumb);
+    const observer = new ResizeObserver(() => {
+      const bounds = originalList?.getBoundingClientRect();
+      breadcrumb.classList.toggle('header-breadcrumb--aligned', Boolean(bounds?.width));
+      if (bounds?.width) {
+        breadcrumb.style.setProperty('--breadcrumb-left', `${bounds.left - header.getBoundingClientRect().left}px`);
+        breadcrumb.style.setProperty('--breadcrumb-width', `${bounds.width}px`);
+      }
+      breadcrumbHeight = Math.ceil(breadcrumb.getBoundingClientRect().height);
+      document.documentElement.style.setProperty('--header-breadcrumb-height', `${breadcrumbHeight}px`);
+      updateBreadcrumb(scrollPosition(), navbar.offsetHeight);
+    });
+    observer.observe(breadcrumb);
+    if (originalList) observer.observe(originalList);
+  }
+
   let previousY = scrollPosition();
   let downFrom = previousY;
 
   window.addEventListener('scroll', () => {
     const y = scrollPosition();
-    if (y < previousY || y <= navbar.offsetHeight || navbar.querySelector('[aria-expanded="true"], :focus-visible')) {
+    const navbarHeight = navbar.offsetHeight;
+    updateBreadcrumb(y, navbarHeight);
+    if (y < previousY || y <= navbarHeight || navbar.querySelector('[aria-expanded="true"]') || header.querySelector(':focus-visible')) {
       header.classList.remove('header--hidden');
       downFrom = y;
     } else if (y - downFrom >= 12) {
@@ -49,9 +80,13 @@ function trackSections() {
   let offsets = [];
   let active;
   function highlight() {
-    const y = scrollY + navbarHeight() + 1;
+    const y = scrollY + headerHeight() + 1;
     const atBottom = scrollY > 0 && scrollY + innerHeight >= document.documentElement.scrollHeight - 1;
-    const next = atBottom ? offsets.at(-1)?.link : offsets.findLast(section => section.top <= y)?.link;
+    let index = offsets.length - 1;
+    if (!atBottom) {
+      while (index >= 0 && offsets[index].top > y) index--;
+    }
+    const next = offsets[index]?.link;
     if (next === active) return;
     active?.classList.remove('active');
     next?.classList.add('active');
@@ -66,6 +101,27 @@ function trackSections() {
   new ResizeObserver(measure).observe(document.querySelector('.page-body'));
   window.addEventListener('scroll', highlight, {passive: true});
   window.addEventListener('load', measure);
+}
+
+function placeArticleContents() {
+  const toc = document.querySelector('.article-toc-inner #TableOfContents');
+  const mobilePanel = document.querySelector('.article-mobile-toc-panel');
+  if (!toc || !mobilePanel) return;
+
+  const desktopPanel = toc.parentElement;
+  const nextSibling = toc.nextSibling;
+  const desktop = matchMedia('(min-width: 1200px)');
+  function place() {
+    if (desktop.matches) {
+      toc.id = 'TableOfContents';
+      desktopPanel.insertBefore(toc, nextSibling);
+    } else {
+      toc.id = 'TableOfContentsMobile';
+      mobilePanel.append(toc);
+    }
+  }
+  place();
+  desktop.addEventListener('change', place);
 }
 
 function setCollapse(button, open) {
@@ -144,6 +200,7 @@ function initDropdowns() {
 
 export function initNavigation() {
   trackSections();
+  placeArticleContents();
   initDropdowns();
   initScrollHeader();
   document.addEventListener('click', event => {

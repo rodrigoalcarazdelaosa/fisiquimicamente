@@ -1,0 +1,2 @@
+{{- $image := resources.Copy (path.Join "media/immutable" .path) .resource | fingerprint -}}
+{{- return $image.RelPermalink -}}

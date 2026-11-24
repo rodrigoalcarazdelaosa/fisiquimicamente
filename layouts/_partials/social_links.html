@@ -20,9 +20,7 @@
         {{ $src = "icon/github.svg" | relURL }}
         {{ $image_class = print $image_class " img-light" }}
       {{ else }}
-        {{ with (resources.Get (printf "media/icons/%s.png" $icon) | default (resources.Get (printf "media/icons/%s.svg" $icon))) }}
-          {{ $src = .RelPermalink }}
-        {{ end }}
+        {{ $src = partial "functions/social_icon_url" $icon }}
       {{ end }}
     {{ end }}
     <li>

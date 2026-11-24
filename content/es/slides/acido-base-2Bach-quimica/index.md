@@ -209,10 +209,12 @@ $$
 
 por lo que (suponiendo $T = 25\thinspace^\circ\mathrm C$):
 
+$$
 \begin{align*}
-K_\mathrm a\cdot K_\mathrm b &= K_\mathrm w = 10^{-14} \\\\
+K_\mathrm a\cdot K_\mathrm b &= K_\mathrm w = 10^{-14} \\
 \mathrm p K_\mathrm a + \mathrm p K_\mathrm b &= \mathrm p K_\mathrm w = 14
 \end{align*}
+$$
 
 {{% /section %}}
 

@@ -352,7 +352,7 @@ Una magnitud se conserva cuando permanece constante, es decir, no cambia con el 
 
 {{< math width="100%" >}}
 $$
-\frac{\mathrm d \vec L}{\mathrm d t} = \frac{\mathrm d}{\mathrm d t}\left(\vec r\times m\vec v\right) = \frac{\mathrm d \vec r}{\mathrm d t}\times m\vec v + \vec r\times m\frac{\mathrm d \vec v}{\mathrm d t} = \cancelto{0}{\vec v \times m \vec v} + \vec r\times m\vec a = \vec r\times \vec F
+\frac{\mathrm d \vec L}{\mathrm d t} = \frac{\mathrm d}{\mathrm d t}\left(\vec r\times m\vec v\right) = \frac{\mathrm d \vec r}{\mathrm d t}\times m\vec v + \vec r\times m\frac{\mathrm d \vec v}{\mathrm d t} = \underbrace{\vec v \times m \vec v}_{0} + \vec r\times m\vec a = \vec r\times \vec F
 $$
 {{< /math >}}
 

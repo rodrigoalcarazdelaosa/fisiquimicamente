@@ -1,5 +1,5 @@
 /* Reveal.js integration, adapted from Hugo Blox Builder (MIT). */
-import {hasMarkdown, mathjaxURL, slides} from '@params';
+import {hasMarkdown, slides} from '@params';
 
 // Reveal and its plugins expect camelCase, including in nested option objects.
 function revealOptions(value) {
@@ -15,10 +15,8 @@ const options = revealOptions(slides?.reveal_options || {});
 const plugins = [
   ...(hasMarkdown ? [RevealMarkdown] : []),
   RevealSearch, RevealNotes,
-  ...(mathjaxURL ? [RevealMath.MathJax3] : []),
   RevealZoom,
 ];
-if (mathjaxURL) options.mathjax3 = {...options.mathjax3, mathjax: mathjaxURL};
 
 const printView = new URLSearchParams(location.search).has('print-pdf');
 for (const frame of document.querySelectorAll('iframe[data-slide-embed]')) {

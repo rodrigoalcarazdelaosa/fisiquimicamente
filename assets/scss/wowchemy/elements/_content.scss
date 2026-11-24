@@ -222,26 +222,32 @@ article .article-metadata {
   margin: 0 auto;
 }
 
-.article-toc {
-  position: absolute;
-  top: 0;
-  left: calc(100% + 2rem);
-  width: 240px;
-  height: 100%;
-  font-size: 0.875rem;
-}
+@include breakpoints.up(xl) {
+  .article-sidebars {
+    --article-sidebars-top: calc(var(--navbar-scroll-offset, 0px) + 1rem);
+    --article-sidebars-padding: 0.35rem;
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
 
-.article-toc-inner {
-  padding-top: 0.35rem;
-  padding-bottom: 1.5rem;
-}
-
-@supports ((position: -webkit-sticky) or (position: sticky)) {
-  .article-toc-inner {
-    position: -webkit-sticky;
+  .article-sidebars-sticky {
     position: sticky;
-    top: calc(var(--navbar-scroll-offset, 0px) + 1rem);
-    max-height: calc(100vh - var(--navbar-scroll-offset, 0px) - 1rem);
+    top: var(--article-sidebars-top);
+    z-index: 9;
+  }
+
+  .article-toc {
+    margin-inline-start: calc(100% + 2rem);
+    width: 240px;
+    font-size: 0.875rem;
+    pointer-events: auto;
+  }
+
+  .article-toc-inner {
+    padding-top: var(--article-sidebars-padding);
+    padding-bottom: 1.5rem;
+    max-height: calc(100vh - var(--article-sidebars-top));
     overflow-y: auto;
   }
 }
@@ -418,8 +424,17 @@ article .article-metadata {
   text-decoration: none;
 }
 
-.article-style mjx-container[display="true"] {
+.article-style .katex:has(> math[display="block"]) {
+  display: block;
   overflow-x: auto;
+
+  > math { min-width: max-content; }
+}
+
+// Native MathML may ignore columnalign on mtable.
+.article-style .katex mtable[columnalign="right left"] > mtr {
+  > mtd:nth-child(1 of mtd:not(.mtr-glue, .mml-eqn-num)) { text-align: right; }
+  > mtd:nth-child(2 of mtd:not(.mtr-glue, .mml-eqn-num)) { text-align: left; }
 }
 
 .dark .article-style {

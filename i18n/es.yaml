@@ -315,3 +315,7 @@
   translation: "Cargando tutor…"
 - id: notes_tutor_load_error
   translation: "No se ha podido abrir el tutor. Pulsa de nuevo para reintentarlo."
+- id: molecule_unavailable
+  translation: "No se ha podido mostrar la molécula en 3D."
+- id: molecule_print_loading
+  translation: "Preparando las imágenes de las moléculas. Espera antes de imprimir."

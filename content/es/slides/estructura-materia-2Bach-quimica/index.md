@@ -323,10 +323,12 @@ En 1905, [**Einstein**](https://es.wikipedia.org/wiki/Albert_Einstein) aplica la
 
 ---
 
+$$
 \begin{align*}
-	E &= \phi + E_\mathrm c \\\\
+	E &= \phi + E_\mathrm c \\
 	h\nu &= h\nu_0 + E_\mathrm c \Rightarrow E_\mathrm c = h\left(\nu-\nu_0\right),
 \end{align*}
+$$
 
 donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck, $\nu$ es la frecuencia de la radiación incidente, $\nu_0$ es la frecuencia umbral (cuya energía asociada, $\phi = h \nu_0$ se denomina **función** de **trabajo** o trabajo de extracción) y $E_\mathrm c = h\left(\nu-\nu_0\right)$ es la energía cinética máxima de los fotoelectrones, emitidos siempre que se cumpla $\nu \geq \nu_0$.
 
@@ -388,10 +390,12 @@ En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/
 
 **Ejemplos** de tales magnitudes son:
 
+$$
 \begin{align*}
-	\text{Posición $x$ y momento lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
+	\text{Posición $x$ y momento lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\
 	\text{Energía $E$ y tiempo $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
 \end{align*}
+$$
 
 donde $\Delta$ denota la  incertidumbre asociada y $\hbar = h/(2\pi)$.
 
@@ -565,8 +569,13 @@ Tras los descubrimientos de **Thomson**, **Rutherford** y **Chadwick** a princip
 | Protón | $1.673\times 10^{-27}$ | $1.602\times 10^{-19}$ |
 | Neutrón | $1.675\times 10^{-27}$ | $0$ |
 | Electrón | $9.109\times 10^{-31}$ | $-1.602\times 10^{-19}$ |
-<td colspan=3>$m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón}$<br>
-<td colspan=3>$q_\text{protón}=-q_\text{electrón}$
+
+$$
+\begin{gather}
+m_\text{protón}\simeq m_\text{neutrón}\sim 2000m_\text{electrón} \\
+q_\text{protón}=-q_\text{electrón}
+\end{gather}
+$$
 
 ---
 

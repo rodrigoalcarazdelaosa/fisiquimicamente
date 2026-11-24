@@ -24,6 +24,9 @@
     {{ errorf "Check your `header` config in `params.yaml` and/or front matter. Cannot find header block at `layouts/_partials/%s`" $block_path }}
   {{ end }}
   {{ partial $block_path . }}
+  {{ if and $show_navbar $hide_header }}
+    <template data-header-breadcrumb>{{ partial "components/breadcrumb" . }}</template>
+  {{ end }}
   </div>
 
   <div class="page-body">

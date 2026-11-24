@@ -87,10 +87,12 @@ $$
 
 Las magnitudes lineales y las angulares se relacionan a través del radio $R$:
 
+$$
 \begin{align*}
-	e &= \varphi R \\\\
+	e &= \varphi R \\
 	v &= \omega R = \frac{2\pi R}{T}
 \end{align*}
+$$
 
 ---
 
@@ -132,10 +134,12 @@ $$
 
 con
 
+$$
 \begin{align*}
-a_\mathrm n &= \frac{v^2}{r} \\\\
+a_\mathrm n &= \frac{v^2}{r} \\
 a_\mathrm t &= \frac{\mathrm d\thinspace v}{\mathrm d\thinspace t}
 \end{align*}
+$$
 
 donde $v$ representa el módulo de la velocidad instantánea y $r$ es el radio de curvatura.
 

@@ -89,11 +89,13 @@ En el SI se expresa en mol/kg, en cuyo caso se dice *molal* (m).
 ---
 
 ### Fracción molar
+$$
 \begin{gather*}
-\chi_\mathrm s = \frac{\text{cantidad de soluto (moles)}}{\text{cantidad total (moles)}} = \frac{n_\mathrm s}{n_\mathrm s + n_\mathrm d} \\\\
-\chi_\mathrm d = \frac{n_\mathrm d}{n_\mathrm s + n_\mathrm d} \\\\
+\chi_\mathrm s = \frac{\text{cantidad de soluto (moles)}}{\text{cantidad total (moles)}} = \frac{n_\mathrm s}{n_\mathrm s + n_\mathrm d} \\
+\chi_\mathrm d = \frac{n_\mathrm d}{n_\mathrm s + n_\mathrm d} \\
 \chi_\mathrm s + \chi_\mathrm d = 1
 \end{gather*}
+$$
 
 Es una magnitud adimensional (mol/mol).
 

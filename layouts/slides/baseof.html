@@ -9,7 +9,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Hugo Blox Builder {{with hugo.Data.hugoblox.version}}{{.}}{{end}}">
+  {{ hugo.Generator }}
 
   {{ with site.Home.OutputFormats.Get "WebAppManifest" }}
      <link rel="manifest" href="{{ .RelPermalink }}">
@@ -29,19 +29,17 @@
 
   {{ $hasHighlighting := false }}
   {{ $hasMarkdown := false }}
-  {{ $hasMath := false }}
-  {{ $tex := `(?is)<math\b|\\\(.*?\\\)|\\\[.*?\\\]|\$\$.+?\$\$|(?:^|[^\\$])\$[^$\r\n]+\$|\\begin\{[^}]+\}.*?\\end\{[^}]+\}` }}
   {{ range union (slice .Page) .Pages }}
     {{ $content := .Content }}
+    {{ if .Page.Store.Get "has_3dmol" }}
+      {{ $.Page.Store.Set "has_3dmol" true }}
+    {{ end }}
     {{ if and (not $hasHighlighting) (in (partial "functions/html_classes.html" $content) "chroma") }}
       {{ $hasHighlighting = true }}
     {{ end }}
     {{ $body := replaceRE `(?is)<!--.*?-->|<(?:pre|code|script|style)\b[^>]*>.*?</(?:pre|code|script|style)\s*>` "" $content }}
     {{ if and (not $hasMarkdown) (findRE `(?i)<[a-z][^>]*\sdata-markdown(?:\s|=|>)` $body 1) }}
       {{ $hasMarkdown = true }}
-    {{ end }}
-    {{ if and (not $hasMath) (or .Params.math (.Param "slides.reveal_options.mathjax3") (findRE $tex $body 1)) }}
-      {{ $hasMath = true }}
     {{ end }}
   {{ end }}
   {{ if $hasHighlighting }}
@@ -66,8 +64,6 @@
 
   {{ partial "font_styles.html" (dict "font" hugo.Data.fonts.garamond) }}
 
-  {{ partial "hooks/body-end/threedmol.html" . }}
-
 </head>
 <body>
 
@@ -80,18 +76,14 @@
   {{ end }}
    <script src="{{ $cdn_url_reveal }}/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
    <script src="{{ $cdn_url_reveal }}/plugin/search/search.min.js" crossorigin="anonymous"></script>
-  {{ $mathjaxURL := "" }}
-  {{ if $hasMath }}
-    <script src="{{ $cdn_url_reveal }}/plugin/math/math.min.js" crossorigin="anonymous"></script>
-    {{ $mathjaxURL = replace $js.mathJax.slides_url "%s" $js.mathJax.version }}
-  {{ end }}
    <script src="{{ $cdn_url_reveal }}/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
 
   {{/* Initialize slides. */}}
-  {{ $params := dict "slides" $.Params.slides "hasMarkdown" $hasMarkdown "mathjaxURL" $mathjaxURL }}
+  {{ $params := dict "slides" $.Params.slides "hasMarkdown" $hasMarkdown }}
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" $params "minify" hugo.IsProduction) | fingerprint }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
   {{ partial "embed_scripts.html" . }}
+  {{ partial "hooks/body-end/threedmol.html" . }}
 
 </body>
 </html>
