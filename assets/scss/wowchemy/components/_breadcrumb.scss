@@ -60,5 +60,11 @@
     overflow-wrap: anywhere;
   }
 
+  &.header-breadcrumb--aligned .breadcrumb {
+    max-width: var(--breadcrumb-width);
+    margin-left: var(--breadcrumb-left);
+    padding-inline: 0;
+  }
+
   @media print { display: none; }
 }
