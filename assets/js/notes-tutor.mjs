@@ -1,4 +1,4 @@
-export default function initNotesTutor(root, data, environment = globalThis) {
+export default function initNotesTutor(root, data, environment = globalThis, importMath = (url) => import(url)) {
   const { window, document, fetch, AbortController, setTimeout, clearTimeout } = environment;
   const article = document.querySelector('.article-style');
   if (!root || !article) throw new Error('Missing tutor markup');
@@ -30,14 +30,24 @@ export default function initNotesTutor(root, data, environment = globalThis) {
   let contextFrame = null;
   let pinnedSection = null;
   let selectedSection = null;
-  let mathQueue = Promise.resolve();
-  const pendingMath = new Set();
+  let katexModule;
+  let mhchemModule;
 
-  // Hugo's plain content retains the original TeX, independently of MathJax's DOM.
+  function headingSource(heading) {
+    const selector = 'math annotation[encoding="application/x-tex"]';
+    if (!heading.querySelector(selector)) return heading.textContent.trim();
+    const copy = heading.cloneNode(true);
+    for (const tex of copy.querySelectorAll(selector)) {
+      tex.closest('math').replaceWith(`$${tex.textContent}$`);
+    }
+    return copy.textContent.trim();
+  }
+
+  // Match headings against the TeX retained in the Hugo-generated context.
   let offset = 0;
   const ancestors = [];
   const sections = Array.from(article.querySelectorAll('h2, h3, h4, h5, h6')).map((heading) => {
-    const title = heading.textContent.trim();
+    const title = headingSource(heading);
     const level = Number(heading.tagName.slice(1));
     const start = data.content.indexOf(title, offset);
     if (start >= 0) offset = start + title.length;
@@ -110,8 +120,43 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     }
   }
 
+  async function renderFormula(node, token, displayMode) {
+    if (!root.dataset.katexUrl) return;
+    const delimiterLength = token.startsWith('\\') || displayMode ? 2 : 1;
+    const source = token.slice(delimiterLength, -delimiterLength).trim();
+    const needsChemistry = /\\(?:ce|pu)\b/.test(source);
+    try {
+      katexModule ??= importMath(root.dataset.katexUrl).catch((error) => {
+        katexModule = null;
+        throw error;
+      });
+      if (needsChemistry && root.dataset.mhchemUrl) {
+        mhchemModule ??= importMath(root.dataset.mhchemUrl).catch((error) => {
+          mhchemModule = null;
+          throw error;
+        });
+      }
+      const [{ default: katex }] = await Promise.all([katexModule, needsChemistry ? mhchemModule : null]);
+      if (!node.isConnected) return;
+      katex.render(source, node, {
+        displayMode, output: 'mathml', trust: false, strict: 'ignore',
+        maxSize: 20, maxExpand: 500,
+      });
+      for (const accent of node.querySelectorAll('mover[accent="true"] > mo:last-child')) {
+        if (accent.textContent !== '\u20d7') continue;
+        accent.textContent = '→';
+        accent.setAttribute('stretchy', 'false');
+        accent.setAttribute('lspace', '0');
+        accent.setAttribute('rspace', '0');
+        accent.style.fontSize = '.68em';
+      }
+    } catch {
+      node.textContent = token;
+    }
+  }
+
   // Build a small Markdown subset with DOM nodes; model output is never HTML.
-  function appendInline(parent, text) {
+  function appendInline(parent, text, renderMath) {
     const tokens = /(\$\$[\s\S]*?\$\$|\\\[[\s\S]*?\\\]|\$[^\n$]+?\$|\\\([\s\S]*?\\\)|`[^`\n]+`|\*\*[^*\n]+\*\*|\*[^*\n]+\*)/g;
     let start = 0;
     for (const match of text.matchAll(tokens)) {
@@ -120,15 +165,19 @@ export default function initNotesTutor(root, data, environment = globalThis) {
       let node;
       if (token.startsWith('**')) {
         node = document.createElement('strong');
-        node.textContent = token.slice(2, -2);
+        appendInline(node, token.slice(2, -2), renderMath);
       } else if (token.startsWith('*')) {
         node = document.createElement('em');
-        node.textContent = token.slice(1, -1);
+        appendInline(node, token.slice(1, -1), renderMath);
       } else if (token.startsWith('`')) {
         node = document.createElement('code');
         node.textContent = token.slice(1, -1);
       } else {
-        node = document.createTextNode(token);
+        node = document.createElement('span');
+        node.textContent = token;
+        const displayMode = token.startsWith('$$') || token.startsWith('\\[');
+        if (displayMode) node.className = 'notes-tutor-display-math';
+        if (renderMath) renderFormula(node, token, displayMode);
       }
       parent.append(node);
       start = match.index + token.length;
@@ -136,7 +185,7 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     parent.append(document.createTextNode(text.slice(start)));
   }
 
-  function formatReply(parent, text) {
+  function formatReply(parent, text, renderMath) {
     let paragraph = [];
     let list = null;
     let mathEnd = null;
@@ -145,7 +194,7 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     const flush = () => {
       if (!paragraph.length) return;
       const p = document.createElement('p');
-      appendInline(p, paragraph.join('\n'));
+      appendInline(p, paragraph.join('\n'), renderMath);
       parent.append(p);
       paragraph = [];
     };
@@ -186,13 +235,13 @@ export default function initNotesTutor(root, data, environment = globalThis) {
           parent.append(list);
         }
         const item = document.createElement('li');
-        appendInline(item, bullet[2]);
+        appendInline(item, bullet[2], renderMath);
         list.append(item);
       } else if (/^#{1,6}\s/.test(line)) {
         flush(); list = null;
         const p = document.createElement('p');
         const strong = document.createElement('strong');
-        appendInline(strong, line.replace(/^#{1,6}\s+/, ''));
+        appendInline(strong, line.replace(/^#{1,6}\s+/, ''), renderMath);
         p.append(strong);
         parent.append(p);
       } else {
@@ -204,42 +253,7 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     if (inCode) flushCode();
   }
 
-  function flushMath() {
-    if (typeof window.MathJax?.typesetPromise !== 'function') return;
-    for (const node of pendingMath) {
-      pendingMath.delete(node);
-      mathQueue = mathQueue.then(() => window.MathJax.startup?.promise)
-        .then(() => node.isConnected ? window.MathJax.typesetPromise([node]) : null)
-        .catch(() => {}); // Keep readable TeX if MathJax cannot render it.
-    }
-  }
-  window.addEventListener('load', flushMath);
-
-  // Notes with their own mathematics already load MathJax in the page head.
-  // Otherwise download its configuration and engine only after opening the tutor.
-  async function prepareMath() {
-    if (typeof window.MathJax?.typesetPromise === 'function') {
-      await window.MathJax.startup?.promise;
-      flushMath();
-      return;
-    }
-    if (root.dataset.pageMath === 'true' || !root.dataset.mathjaxUrl) return;
-    const loadScript = (url) => new Promise((resolve, reject) => {
-      const script = document.createElement('script');
-      script.src = url;
-      script.onload = resolve;
-      script.onerror = () => { script.remove(); reject(new Error('MathJax unavailable')); };
-      document.head.append(script);
-    });
-    if (!window.MathJax) await loadScript(root.dataset.mathConfigUrl);
-    if (!window.MathJax.loader.load.includes('ui/safe')) window.MathJax.loader.load.push('ui/safe');
-    await loadScript(root.dataset.mathjaxUrl);
-    await window.MathJax.startup?.promise;
-    flushMath();
-  }
-  prepareMath().catch(() => {}); // Preserve readable TeX when the engine is unavailable.
-
-  function addMessage(role, text, streaming = false) {
+  function addMessage(role, text) {
     const message = document.createElement('div');
     message.className = `notes-tutor-message notes-tutor-message-${role}`;
     const label = document.createElement('strong');
@@ -248,14 +262,12 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     body.className = 'notes-tutor-message-content';
     if (role === 'assistant') {
       formatReply(body, text);
-      if (!streaming) pendingMath.add(body);
     } else {
       body.textContent = text;
     }
     message.append(label, body);
     log.append(message);
     scrollBody.scrollTop = scrollBody.scrollHeight;
-    flushMath();
     reset.hidden = false;
     return message;
   }
@@ -324,8 +336,6 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     controller?.abort();
     controller = null;
     history = [];
-    window.MathJax?.typesetClear?.([log]);
-    pendingMath.clear();
     log.replaceChildren();
     reset.hidden = true;
     status.textContent = endpoint ? '' : strings.pending;
@@ -355,11 +365,10 @@ export default function initNotesTutor(root, data, environment = globalThis) {
     let renderQueued = false;
     const renderAnswer = (complete = false) => {
       const follow = !assistantMessage || scrollBody.scrollHeight - scrollBody.scrollTop - scrollBody.clientHeight < 64;
-      if (!assistantMessage) assistantMessage = addMessage('assistant', '', true);
+      if (!assistantMessage) assistantMessage = addMessage('assistant', '');
       const body = assistantMessage.childNodes[1];
       body.replaceChildren();
-      formatReply(body, answer);
-      if (complete) { pendingMath.add(body); flushMath(); }
+      formatReply(body, answer, complete);
       if (follow) scrollBody.scrollTop = scrollBody.scrollHeight;
     };
     const rememberAnswer = () => {

@@ -1,0 +1,7 @@
+{{- $display := eq .Type "block" -}}
+{{- if eq (.Page.Param "math_renderer") "katex" -}}
+  {{- partial "functions/render_math.html" (dict "tex" .Inner "display" $display "context" .) -}}
+{{- else -}}
+  {{- $delimiter := cond $display "$$" "$" -}}
+  {{- printf "%s%s%s" $delimiter .Inner $delimiter | safeHTML -}}
+{{- end -}}

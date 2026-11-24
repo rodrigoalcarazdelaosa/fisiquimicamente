@@ -188,10 +188,12 @@ $$
 ---
 
 Escrivim les **semireaccions** d'oxidació (&#8593; núm. ox.) i reducció (&#8595; núm. ox.):
+$$
 \begin{align*}
-\text{oxidació (Cu: $0\rightarrow +2$): } \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\\\
+\text{oxidació (Cu: $0\rightarrow +2$): } \mathrm{Cu} &\longrightarrow \mathrm{Cu^{2+}} \\
 \text{reducció (N: $+5 \rightarrow +2$): } \mathrm{NO_3^-} &\longrightarrow \mathrm{NO}
 \end{align*}
+$$
 
 ---
 

@@ -79,10 +79,12 @@ $$
 ---
 
 En cualquier momento, las **componentes** de la **velocidad** $\vec v$ son:
+$$
 \begin{align*}
-	\vec v_x &= (v\cos\alpha)\ihat \\\\
+	\vec v_x &= (v\cos\alpha)\ihat \\
 	\vec v_y &= (v\sin\alpha)\jhat
 \end{align*}
+$$
 
 Según el **teorema de Pitágoras**:
 $$
@@ -183,10 +185,12 @@ El **alcance** es la distancia horizontal que recorre el móvil, siendo máximo 
 ### ¿Y si lanzamos el proyectil desde el suelo?
 Utilizando la expresión del tiempo de vuelo para el caso $h=0$, tenemos
 
+$$
 \begin{align*}
-x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo} &= v_0\cos\alpha_0\cdot \frac{2v_0\sin\alpha_0}{g} \\\\
+x(t_\text{vuelo}) = v_0\cos\alpha_0\cdot t_\text{vuelo} &= v_0\cos\alpha_0\cdot \frac{2v_0\sin\alpha_0}{g} \\
 & = \frac{v_0^2\sin(2\alpha_0)}{g}
 \end{align*}
+$$
 
 {{% /section %}}
 

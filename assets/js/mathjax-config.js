@@ -1,5 +1,8 @@
 // MathJax Configuration
 window.MathJax = {
+  options: {
+    ignoreHtmlClass: 'tex2jax_ignore|notes-tutor',
+  },
   tex: {
     inlineMath: [
       ['$', '$'],

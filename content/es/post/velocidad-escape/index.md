@@ -41,10 +41,12 @@ Como en [mi entrada del hielo y la rotación de la Tierra]({{< relref "/post/con
 
 [^1]: Dependiendo de la velocidad de lanzamiento del proyectil, la energía total del sistema que forman la Tierra y el proyectil puede ser positiva o negativa. Si es negativa el sistema estará ligado, en el sentido de que el proyectil no podrá escapar del campo gravitatorio de la Tierra, y si es positiva el proyectil escapará de dicho campo gravitatorio terrestre. El caso frontera, en el que la energía total del sistema Tierra-proyectil es igual a cero, corresponde a que éste inicie su movimiento a la velocidad de escape. Nota: El lanzamiento se produce desde la superficie de la Tierra (*r* = *R*<sub>T</sub>).
 
+$$
 \begin{gather*}
-\overbrace{E_\mathrm c = \frac{1}{2}mv^2}^{\text{Energía cinética}}; \qquad \overbrace{E_\mathrm p = -\frac{GmM_\mathrm T}{R_\mathrm T}}^{\text{Energía potencial gravitatoria}} \\\\
+\overbrace{E_\mathrm c = \frac{1}{2}mv^2}^{\text{Energía cinética}}; \qquad \overbrace{E_\mathrm p = -\frac{GmM_\mathrm T}{R_\mathrm T}}^{\text{Energía potencial gravitatoria}} \\
 E_\mathrm{sist} = 0 \Rightarrow v_\mathrm{escape} = \sqrt{\frac{2GM_\mathrm T}{R_\mathrm T}}
 \end{gather*}
+$$
 
 Un tema relacionado con esto es el rango de velocidades para poner un objeto en órbita en torno a su planeta. En este hilo, [Antonio J. Cuesta](https://twitter.com/aj_cuesta) lo explica de forma intuitiva:
 

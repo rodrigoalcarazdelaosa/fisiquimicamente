@@ -54,6 +54,8 @@ Si usas otra versión de Hugo en otros proyectos, puedes guardar el ejecutable d
 
 Las plantillas y los *shortcodes* derivados de Hugo Blox se mantienen en `layouts/`, y sus estilos y scripts en `assets/`. Hugo puede compilar las tres ediciones desde un clon limpio. Las bibliotecas especializadas, entre ellas MathJax y Reveal.js, se cargan desde sus CDN.
 
+KaTeX es el motor matemático predeterminado. Goldmark reconoce las fórmulas delimitadas y el hook de Hugo las compila a MathML con `transform.ToMath`. Si una expresión es incompatible, Hugo indica su ubicación. MathJax queda como respaldo para fórmulas antiguas fuera de esos delimitadores o dentro de bloques HTML. El Tutor IA usa KaTeX en el navegador al recibir fórmulas.
+
 ```sh
 bash view.sh                # Vista previa
 source get_last_commit_hash.sh && hugo --minify

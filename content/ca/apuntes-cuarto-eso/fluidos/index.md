@@ -155,17 +155,21 @@ $$
 on $p = 10\thinspace\mathrm{atm}$, $p_0 = 1\thinspace\mathrm{atm}$ és la pressió atmosfèrica a nivell de la mar, $d = 1025\thinspace\mathrm{kg/m^3}$ és la densitat mitjana de l'[aigua de la mar](https://ca.wikipedia.org/wiki/Aigua_de_mar), $g = 9.8\thinspace\mathrm{N/kg}$ és l'acceleració de la gravetat i $h$ és el que ens demanen.
 
 Convertim totes les unitats al SI:
+$$
 \begin{align*}
-10\thinspace\mathrm{\cancel{atm}}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 1013250\thinspace\mathrm{Pa} \\\\
+10\thinspace\mathrm{\cancel{atm}}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 1013250\thinspace\mathrm{Pa} \\
 1\thinspace\mathrm{\cancel{atm}}& \cdot \frac{101325\thinspace\mathrm{Pa}}{1\thinspace\mathrm{\cancel{atm}}} = 101325\thinspace\mathrm{Pa}
 \end{align*}
+$$
 
 Aïllant $h$:
 
+$$
 \begin{align*}
-h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\\\
+h = \frac{p-p_0}{dg} &= \frac{1013250\thinspace\mathrm{Pa}-101325\thinspace\mathrm{Pa}}{1025\thinspace\mathrm{kg/m^3}\cdot 9.8\thinspace\mathrm{N/kg}} \\
 &= 90.8\thinspace\mathrm{m}
 \end{align*}
+$$
 
 El que confirma la *regla d'or* que ens diu que cada 10 m de profunditat la pressió augmenta en 1 atm aproximadament.
 
@@ -184,12 +188,14 @@ Pots explorar amb més detall la **relació** entre la **pressió**, la **densit
 ### Principi d'Arquimedes
 
 > Tot cos submergit totalment o parcialment en un fluid experimenta una força d'empenta ($E$) vertical cap amunt que és igual al pes del fluid desallotjat:
+$$
 \begin{align*}
-E &= P_\text{fluid desallotjat} \\\\
-&= m_\text{fluid desallotjat}\cdot g \\\\
-&= d_\text{fluid}\cdot V_\text{desallotjat}\cdot g \\\\
+E &= P_\text{fluid desallotjat} \\
+&= m_\text{fluid desallotjat}\cdot g \\
+&= d_\text{fluid}\cdot V_\text{desallotjat}\cdot g \\
 &= d_\text{fluid}\cdot V_\text{submergit}\cdot g
 \end{align*}
+$$
 
 {{< figure library="true" src="fluidos-4ESO/flotacion-cat.svg" title="Traduïda i adaptada de [https://commons.wikimedia.org/wiki/File:Buoyancy.svg](https://commons.wikimedia.org/wiki/File:Buoyancy.svg)." lightbox="false" width="100%" >}}
 
@@ -215,10 +221,12 @@ $$
 
 Si el vaixell sura ha de complir-se que la força resultant neta sobre ell ha de ser zero, o el que és el mateix, l'empenyment ha d'igualar al pes. Aplicant el **principi d'Arquimedes**:
 
+$$
 \begin{align*}
-E &= P_\text{vaixell} \\\\
+E &= P_\text{vaixell} \\
 d_\text{fluid}\cdot V_\text{submergit}\cdot \cancel{g} &= m_\text{vaixell}\cdot \cancel{g}
 \end{align*}
+$$
 
 Passem la massa del vaixell a kg:
 $$
@@ -254,10 +262,12 @@ Gràcies a l'**experiment de Torricelli** es va mesurar per primera vegada la pr
 
 {{< figure library="true" src="fluidos-4ESO/experimento-Torricelli.png" title="En posar un tub de 100 cm d'altura ple de mercuri (Hg) boca avall en una cubeta també plena de mercuri, s'observa que el Hg descendeix a aproximadament 76 cm, creant-se un buit en els 24 cm restants. Crèdits: [ClipArt ETC](https://etc.usf.edu/clipart/53700/53703/53703_torricellian.htm)." lightbox="true" >}}
 
+$$
 \begin{align*}
-p_\text{atm} = d_\text{Hg}\cdot g\cdot h &= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\\\
+p_\text{atm} = d_\text{Hg}\cdot g\cdot h &= 13\thinspace595.1\thinspace\mathrm{kg/m^3}\cdot 9.806\thinspace65\thinspace\mathrm{N/kg}\cdot 0.76\thinspace\mathrm{m} \\
 &= 101\thinspace325\thinspace\mathrm{Pa} = 1\thinspace\mathrm{atm}
 \end{align*}
+$$
 
 El [Departament de Física i Química de l'IES Valle del Saja](http://www.fqsaja.com) ens mostra aquesta cèlebre experiència al següent vídeo:
 

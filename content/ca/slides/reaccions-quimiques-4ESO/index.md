@@ -201,10 +201,12 @@ $$
 
 ---
 
+$$
 \begin{align*}
-50\thinspace\mathrm{mL_{\mathrm{Ca(OH)2}}} & \cdot \frac{1\thinspace\mathrm{L_{\mathrm{Ca(OH)2}}}}{1000\thinspace\mathrm{mL_{\mathrm{Ca(OH)2}}}} \cdot \frac{0.5\thinspace\mathrm{mol_{\mathrm{Ca(OH)2}}}}{1\thinspace\mathrm{L_{\mathrm{Ca(OH)2}}}} \\\\
+50\thinspace\mathrm{mL_{\mathrm{Ca(OH)2}}} & \cdot \frac{1\thinspace\mathrm{L_{\mathrm{Ca(OH)2}}}}{1000\thinspace\mathrm{mL_{\mathrm{Ca(OH)2}}}} \cdot \frac{0.5\thinspace\mathrm{mol_{\mathrm{Ca(OH)2}}}}{1\thinspace\mathrm{L_{\mathrm{Ca(OH)2}}}} \\
 & \cdot \frac{2\thinspace\mathrm{mol_{\mathrm{HCl}}}}{1\thinspace\mathrm{mol_{\mathrm{Ca(OH)2}}}}\cdot \frac{1\thinspace\mathrm{L_{\mathrm{HCl}}}}{0.25\thinspace\mathrm{mol_{\mathrm{HCl}}}} = 0.2\thinspace\mathrm{L_{\mathrm{HCl}}}
 \end{align*}
+$$
 
 {{% /section %}}
 
@@ -266,10 +268,12 @@ L'equació ens la donen ja **escrita** i **ajustada**. Fixeu-vos en les lletres 
 ---
 
 Calculem primer les **masses molars** dels compostos involucrats:
+$$
 \begin{align*}
-  M(\mathrm{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (m'ho donaven com a dada)} \\\\
+  M(\mathrm{Na}) &= 23\thinspace\mathrm{g/mol}\text{ (m'ho donaven com a dada)} \\
   M(\mathrm{H_2}) &= 2\cdot M(\mathrm{H}) = 2\cdot 1\thinspace\mathrm{g/mol} = 2\thinspace\mathrm{g/mol}
 \end{align*}
+$$
 
 ---
 
@@ -289,10 +293,12 @@ $$
 ---
 
 S'ha d'anar amb cura perquè la temperatura $T$ l'hem de passar a K:
+$$
 \begin{align*}
-T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\\\
+T(\mathrm K) &= T(^\circ\mathrm C) + 273 \\
 &= 25\thinspace ^\circ\mathrm C + 273 = 298\thinspace\mathrm K
 \end{align*}
+$$
 
 ---
 

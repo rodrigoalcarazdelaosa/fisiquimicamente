@@ -71,10 +71,12 @@ $$
 
 on $Z$ és el nombre atòmic de l'element i $a$ l'apantallament patit per l'electró, tenint en compte que els electrons *de core* (interns) produeixen un major apantallament que els que es troben en el seu mateix nivell energètic:
 
+$$
 \begin{align*}
-\text{electrons de core (interns)} &\rightarrow a = 1 \\\\
+\text{electrons de core (interns)} &\rightarrow a = 1 \\
 \text{electrons de valència (mateix nivell)} &\rightarrow a < 1
 \end{align*}
+$$
 
 #### Exemple
 Àtom de beril·li (<sub>4</sub>Be) $\rightarrow \mathrm{1s^2 2s^2}$

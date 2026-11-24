@@ -10,4 +10,16 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+{{- if eq (.Param "math_renderer") "katex" -}}
+  {{- /* Goldmark puts unrendered passthrough text in the TOC. Leave tags and code intact. */ -}}
+  {{- $parts := slice -}}
+  {{- range findRE `(?is)<code\b[^>]*>.*?</code>|<[^>]+>|\\\([^<\r\n]*?\\\)|\$[^$<\r\n]+\$|[^<$\\]+|.` $toc -}}
+    {{- $part := . -}}
+    {{- if or (strings.HasPrefix $part `\(`) (and (strings.HasPrefix $part "$") (gt (len $part) 1)) -}}
+      {{- $part = $.RenderString $part -}}
+    {{- end -}}
+    {{- $parts = $parts | append $part -}}
+  {{- end -}}
+  {{- $toc = delimit $parts "" -}}
+{{- end -}}
 {{- return $toc -}}

@@ -323,10 +323,12 @@ En 1905, [**Einstein**](https://es.wikipedia.org/wiki/Albert_Einstein) aplica la
 
 ---
 
+$$
 \begin{align*}
-	E &= \phi + E_\mathrm c \\\\
+	E &= \phi + E_\mathrm c \\
 	h\nu &= h\nu_0 + E_\mathrm c \Rightarrow E_\mathrm c = h\left(\nu-\nu_0\right),
 \end{align*}
+$$
 
 donde $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ es la constante de Planck, $\nu$ es la frecuencia de la radiación incidente, $\nu_0$ es la frecuencia umbral (cuya energía asociada, $\phi = h \nu_0$ se denomina **función** de **trabajo** o trabajo de extracción) y $E_\mathrm c = h\left(\nu-\nu_0\right)$ es la energía cinética máxima de los fotoelectrones, emitidos siempre que se cumpla $\nu \geq \nu_0$.
 
@@ -388,10 +390,12 @@ En el siguiente **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/
 
 **Ejemplos** de tales magnitudes son:
 
+$$
 \begin{align*}
-	\text{Posición $x$ y momento lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
+	\text{Posición $x$ y momento lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\
 	\text{Energía $E$ y tiempo $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
 \end{align*}
+$$
 
 donde $\Delta$ denota la  incertidumbre asociada y $\hbar = h/(2\pi)$.
 

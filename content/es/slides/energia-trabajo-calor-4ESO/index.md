@@ -167,10 +167,12 @@ $$
 ---
 
 b) La energía perdida por rozamiento (en forma de calor) es igual a la diferencia entre la energía inicial (A) y la final (B):
+$$
 \begin{align*}
-E\_\text{disipada} & = E\_{\mathrm{m}\_\mathrm A} - E\_{\mathrm{m}\_\mathrm B} \\\\
+E\_\text{disipada} & = E\_{\mathrm{m}\_\mathrm A} - E\_{\mathrm{m}\_\mathrm B} \\
 & = 15325 - 10056 = 5269\thinspace\mathrm J
 \end{align*}
+$$
 
 
 ---
@@ -274,13 +276,15 @@ donde $W$ es el trabajo que ha de realizar el motor y $t$ es el tiempo.
 ---
 
 La fuerza que debe vencer el ascensor es el peso del propio ascensor (supondremos unos 300$\thinspace$kg) más el peso de las personas que vayan dentro, suponiendo que sube lleno.
+$$
 \begin{align*}
-F &= P_\text{ascensor} + P_\text{personas} \\\\
-&= m_\text{ascensor}\cdot g + m_\text{personas}\cdot g \\\\
-&= (m_\text{ascensor} + m_\text{personas})\cdot g \\\\
-&= (300\thinspace\mathrm{kg} + 400\thinspace\mathrm{kg})\cdot 9.8\thinspace\mathrm{N/kg} \\\\
+F &= P_\text{ascensor} + P_\text{personas} \\
+&= m_\text{ascensor}\cdot g + m_\text{personas}\cdot g \\
+&= (m_\text{ascensor} + m_\text{personas})\cdot g \\
+&= (300\thinspace\mathrm{kg} + 400\thinspace\mathrm{kg})\cdot 9.8\thinspace\mathrm{N/kg} \\
 &= 6860\thinspace\mathrm N
 \end{align*}
+$$
 
 ---
 
@@ -3523,19 +3527,23 @@ $$
 \Delta l = \alpha\cdot l_0\cdot \Delta T
 $$
 la podemos escribir como ($\Delta l = l-l_0$):
+$$
 \begin{align}
-l-l_0 &= \alpha\cdot l_0\cdot \Delta T \\\\
-l &= l_0 + \alpha\cdot l_0\cdot \Delta T \\\\
+l-l_0 &= \alpha\cdot l_0\cdot \Delta T \\
+l &= l_0 + \alpha\cdot l_0\cdot \Delta T \\
 l &= l_0\cdot(1+\alpha\cdot \Delta T)
 \end{align}
+$$
 
 ---
 
 Sustituyendo valores tenemos:
+$$
 \begin{align}
-l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\\\
+l &= 1\cdot [1+1.2\times 10^{-5}\cdot (900-20)] \\
 &= 1.01\thinspace\mathrm m,
 \end{align}
+$$
 
 es decir, se ha alargado 1$\thinspace$cm aproximadamente.
 
@@ -3603,10 +3611,12 @@ $$
 ---
 
 Imponiendo la **conservación de la energía**:
+$$
 \begin{align*}
-Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
+Q_\text{cedido} + Q_\text{ganado} &= 0 \\
 0.144T_\mathrm e - 129.6 + 7.9T_\mathrm e - 157.1 &= 0
 \end{align*}
+$$
 
 de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
 

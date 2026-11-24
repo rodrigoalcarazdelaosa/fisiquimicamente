@@ -122,17 +122,21 @@ $$
 E = E_\mathrm c + E_\mathrm p,
 $$
 on $E_\mathrm c$ és l'energia cinètica i $E_\mathrm p$ l'energia potencial elèctrica de l'electró:
+$$
 \begin{align*}
-E_\mathrm c &= \frac{1}{2}mv^2 \\\\
+E_\mathrm c &= \frac{1}{2}mv^2 \\
 E_\mathrm p &= -\frac{ke^2}{r}
 \end{align*}
+$$
 
 L'única força a la que està sotmesa l'electró és la **força** d'**atracció elèctrica** per part del nucli. Aquesta força, per tant, actuarà com una **força centrípeta**:
 
+$$
 \begin{align}
-\lvert F_\mathrm e\rvert &= \lvert f_\mathrm c\rvert \\\\
+\lvert F_\mathrm e\rvert &= \lvert f_\mathrm c\rvert \\
 \frac{ke^2}{r^2} &= \frac{mv^2}{r} \rightarrow mv^2 = \frac{ke^2}{r}
 \end{align}
+$$
 
 I per tant podem escriure l'energia total com:
 
@@ -141,17 +145,21 @@ E = \frac{1}{2}\frac{ke^2}{r}-\frac{ke^2}{r} = -\frac{1}{2}\frac{ke^2}{r}
 $$
 
 El **segon postulat** del **model** de **Bohr** imposa una condició per les **òrbites permeses**, cosa que significa que el **radi** de l'**òrbita**, $r$, està **quantitzat**:
+$$
 \begin{align*}
-mvr &= n\hbar \\\\
+mvr &= n\hbar \\
 v &= \frac{n\hbar}{mr} \rightarrow v^2 = \frac{n^2\hbar^2}{m^2r^2}
 \end{align*}
+$$
 
 Substituint en l'anterior relació obtinguda a partir de la força centrípeta:
 
+$$
 \begin{align*}
-mv^2 &= \frac{ke^2}{r} \\\\
+mv^2 &= \frac{ke^2}{r} \\
 \frac{n^2\hbar^2}{mr^2} &= \frac{ke^2}{r} \rightarrow r = \frac{n^2\hbar^2}{ke^2m}
 \end{align*}
+$$
 
 Pel que podem escriure l'energia total com:
 $$
@@ -207,10 +215,12 @@ L'**efecte fotoelèctric** consisteix en l'**emissió** de **(foto)electrons** q
 
 {{< figure library="true" src="estructura-materia-2Bach-quimica/efecto-fotoelectrico.svg" title="Font: https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg" lightbox="false" width="100%" >}}
 
+$$
 \begin{align*}
-	E &= \phi + E_\mathrm c \\\\
+	E &= \phi + E_\mathrm c \\
 	h\nu &= h\nu_0 + E_\mathrm c \Rightarrow E_\mathrm c = h\left(\nu-\nu_0\right),
 \end{align*}
+$$
 
 on $h = 6.626\times 10^{-34}\thinspace\mathrm{J\thinspace s}$ és la constant de Planck, $\nu$ és la freqüència de la radiació incident, $\nu_0$ és la freqüència umbral (l'energia associada de la qual, $\phi = h \nu_0$ es denomina **funció** de **treball** o treball d'extracció) i $E_\mathrm c = h\left(\nu-\nu_0\right)$ és l'energia cinètica màxima dels fotoelectrons, emessos sempre que es compleixi $\nu \geq \nu_0$.
 
@@ -243,10 +253,12 @@ En el següent **vídeo** de [Quantum Made Simple](https://toutestquantique.fr/e
 
 **Exemples** de tals magnituds són:
 
+$$
 \begin{align*}
-	\text{Posició $x$ i moment lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\\\
+	\text{Posició $x$ i moment lineal $p$: } & \Delta x \cdot \Delta p \geq \frac{\hbar}{2} \\
 	\text{Energia $E$ i temps $t$: } & \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
 \end{align*}
+$$
 
 on $\Delta$ denota la incertesa associada i $\hbar = h/(2\pi)$.
 

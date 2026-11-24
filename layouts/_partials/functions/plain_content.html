@@ -1,0 +1,7 @@
+{{- $content := "" -}}
+{{- if eq (.Param "math_renderer") "katex" -}}
+  {{- $content = partial "functions/restore_tex.html" .Content | plainify -}}
+{{- else -}}
+  {{- $content = .Plain -}}
+{{- end -}}
+{{- return ($content | htmlUnescape) -}}

@@ -143,10 +143,12 @@ $$
 ---
 
 b) La energía perdida por rozamiento (en forma de calor) es igual a la diferencia entre la energía inicial (A) y la final (B):
+$$
 \begin{align*}
-E\_\text{disipada} & = E\_{\mathrm{m}\_\mathrm A} - E\_{\mathrm{m}\_\mathrm B} \\\\
+E\_\text{disipada} & = E\_{\mathrm{m}\_\mathrm A} - E\_{\mathrm{m}\_\mathrm B} \\
 & = 15325 - 10056 = 5269\thinspace\mathrm J
 \end{align*}
+$$
 
 {{% /callout %}}
 
@@ -222,13 +224,15 @@ $$
 donde $W$ es el trabajo que ha de realizar el motor y $t$ es el tiempo.
 
 La fuerza que debe vencer el ascensor es el peso del propio ascensor (supondremos unos 300$\thinspace$kg) más el peso de las personas que vayan dentro, suponiendo que sube lleno.
+$$
 \begin{align*}
-F &= P_\text{ascensor} + P_\text{personas} \\\\
-&= m_\text{ascensor}\cdot g + m_\text{personas}\cdot g \\\\
-&= (m_\text{ascensor} + m_\text{personas})\cdot g \\\\
-&= (300\thinspace\mathrm{kg} + 400\thinspace\mathrm{kg})\cdot 9.8\thinspace\mathrm{N/kg} \\\\
+F &= P_\text{ascensor} + P_\text{personas} \\
+&= m_\text{ascensor}\cdot g + m_\text{personas}\cdot g \\
+&= (m_\text{ascensor} + m_\text{personas})\cdot g \\
+&= (300\thinspace\mathrm{kg} + 400\thinspace\mathrm{kg})\cdot 9.8\thinspace\mathrm{N/kg} \\
 &= 6860\thinspace\mathrm N
 \end{align*}
+$$
 
 El trabajo $W$ que deberá realizar el motor será:
 
@@ -3540,10 +3544,12 @@ Q_\text{ganado} = 7.9T_\mathrm e - 157.1\thinspace[\mathrm{kcal}]
 $$
 
 Imponiendo la **conservación de la energía**:
+$$
 \begin{align*}
-Q_\text{cedido} + Q_\text{ganado} &= 0 \\\\
+Q_\text{cedido} + Q_\text{ganado} &= 0 \\
 0.144T_\mathrm e - 129.6 + 7.9T_\mathrm e - 157.1 &= 0
 \end{align*}
+$$
 
 de donde despejamos $T_\mathrm e = 35.8\thinspace ^\circ\mathrm C$.
 

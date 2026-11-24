@@ -82,23 +82,25 @@ donde $\hbar = h/(2\pi)$ es la [**constante de Planck reducida**](https://es.wik
 
 ¿Qué sabemos de las otras dos? Nada. Lo que sí que sabemos es que las [**matrices de rotación**](https://es.wikipedia.org/wiki/Matriz_de_rotación) en nuestro espacio clásico de toda la vida son las generadoras del momento angular, con lo cual vamos a postular que los operadores de espín están relacionados con ellas:
 
+$$
 \begin{align*}
 R_x &= \begin{pmatrix}
-1 & 0 & 0 \\\\
-0 & \cos\phi & -\sin\phi \\\\
+1 & 0 & 0 \\
+0 & \cos\phi & -\sin\phi \\
 0 & \sin\phi & \cos\phi
-\end{pmatrix} \\\\
+\end{pmatrix} \\
 R_y &= \begin{pmatrix}
-\cos\phi & 0 & \sin\phi \\\\
-0 & 1 & 0 \\\\
+\cos\phi & 0 & \sin\phi \\
+0 & 1 & 0 \\
 -\sin\phi & 0 & \cos\phi
-\end{pmatrix} \\\\
+\end{pmatrix} \\
 R_z &= \begin{pmatrix}
-\cos\phi & -\sin\phi & 0 \\\\
-\sin\phi & \cos\phi & 0 \\\\
+\cos\phi & -\sin\phi & 0 \\
+\sin\phi & \cos\phi & 0 \\
 0 & 0 & 1
 \end{pmatrix}
 \end{align*}
+$$
 
 donde $\sin\phi$ y  $\cos\phi$ son el seno y el coseno del ángulo $\phi$ de rotación.
 
@@ -127,20 +129,26 @@ Como ya hemos dicho, aquí ya no sirve nuestra intuición física. Debemos recur
 A modo de ejemplo, el **conjunto** de los **números enteros**, $\mathbb Z$, con la suma (+) como operación, forma un grupo:
 
 - **Asociativo**: puedes coger tres números enteros y sumarlos en el orden que quieras sin cambiar el resultado:
+  $$
   \begin{align*}
-  x+(y+z) &= (x+y)+z \\\\
+  x+(y+z) &= (x+y)+z \\
   5+(7-2) &= (5+7)-2
   \end{align*}
+  $$
 - **Elemento neutro**: cualquier entero más el cero (0) es el mismo número:
+  $$
   \begin{align*}
-  x+0 &= 0+x = x \\\\
+  x+0 &= 0+x = x \\
   5+0 &= 0+5 = 5
   \end{align*}
+  $$
 - **Elemento simétrico**: cualquier entero más su negativo da cero:
+  $$
   \begin{align*}
-  x+(-x) &= -x+x = 0 \\\\
+  x+(-x) &= -x+x = 0 \\
   5+(-5) &= -5+5 = 0
   \end{align*}
+  $$
 
 En cambio, el conjunto de los números naturales, $\mathbb N$, con la suma (+), no sería un grupo puesto que no está claro si el 0 es un número natural y además no tiene elementos simétricos que son los números negativos.
 
@@ -162,12 +170,14 @@ $$
 \left[J_i,J_j\right] = i\hbar\epsilon_{ijk}J_k,
 $$
 donde $\epsilon_{ijk}$ es el [**símbolo de Levi-Civita**](https://es.wikipedia.org/wiki/S%C3%ADmbolo_de_Levi-Civita) que puede tener como valores –1, 0 o +1. En el caso del espín:
+$$
 \begin{align*}
-\left[S_x,S_y\right] &= i\hbar S_z \\\\
-\left[S_x,S_z\right] &= -i\hbar S_y \\\\
-\left[S_y,S_z\right] &= i\hbar S_x \\\\
+\left[S_x,S_y\right] &= i\hbar S_z \\
+\left[S_x,S_z\right] &= -i\hbar S_y \\
+\left[S_y,S_z\right] &= i\hbar S_x \\
 \vdots
 \end{align*}
+$$
 lo que nos permite determinar $S_x$ y $S_y$. Por tanto, solo necesitamos encontrar las matrices dos por dos que cumplan estas relaciones. Las tres matrices son estas. Y son lo que necesitamos para poder hacer cálculos con el espín ½:
 
 $$
