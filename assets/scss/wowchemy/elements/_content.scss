@@ -173,11 +173,11 @@ article .article-metadata {
 .content-widget-hr {
   margin-top: 1.2rem;
   padding-top: 1.2rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.05);
+  border-top: 1px solid rgba(nord.$nord0, 0.05);
 }
 
 .dark .content-widget-hr {
-  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  border-top: 1px solid rgba(nord.$nord6, 0.05);
 }
 
 /*************************************************
@@ -273,7 +273,7 @@ article .article-metadata {
   background: nord.$nord0;
   border: 0;
   border-radius: 50%;
-  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0.5rem 1.5rem rgba(nord.$nord0, 0.25);
   appearance: none;
   cursor: pointer;
   list-style: none;
@@ -330,7 +330,7 @@ article .article-metadata {
   background: theme.$background;
   border: 1px solid nord.$nord4;
   border-radius: 0.5rem;
-  box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.22);
+  box-shadow: 0 0.75rem 2rem rgba(nord.$nord0, 0.22);
 }
 
 .dark .article-mobile-toc-panel {
@@ -385,7 +385,7 @@ article .article-metadata {
 
 #TableOfContentsInPage {
   padding-left: 0;
-  border-left: 1px solid #eee;
+  border-left: 1px solid nord.$nord5;
 }
 
 #TableOfContentsInPage ul {
@@ -404,13 +404,13 @@ article .article-metadata {
 #TableOfContentsInPage li a {
   display: block;
   padding: 0 1.5rem;
-  color: rgba(0, 0, 0, 0.65);
+  color: rgba(nord.$nord0, 0.65);
   line-height: 1.75;
   font-size: 16px;
 }
 
 .dark #TableOfContentsInPage li a {
-  color: rgba(255, 255, 255, 0.65);
+  color: rgba(nord.$nord6, 0.65);
 }
 
 #TableOfContentsInPage li a:hover {
@@ -427,7 +427,7 @@ article .article-metadata {
 }
 
 .article-header-caption a {
-  color: #fff;
+  color: nord.$nord6;
   text-decoration: underline;
 }
 
@@ -450,6 +450,37 @@ article .article-metadata {
 
 .dark .article-style a:hover {
   color: nord.$nord13;
+}
+
+.heading-permalink {
+  display: inline-grid;
+  place-items: center;
+  inline-size: max(1.175em, 24px);
+  block-size: max(1em, 24px);
+  margin-inline-start: 0.1875em;
+  vertical-align: -0.11em;
+
+  &::before {
+    content: "⚓️";
+    font-size: 0.85em;
+    line-height: 1;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--page-text);
+    outline-offset: 2px;
+  }
+}
+
+@media (hover: hover) {
+  .heading-permalink {
+    opacity: 0;
+  }
+
+  :hover > .heading-permalink,
+  .heading-permalink:focus-visible {
+    opacity: 1;
+  }
 }
 
 .dark .article-title a,

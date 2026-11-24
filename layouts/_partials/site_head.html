@@ -18,11 +18,6 @@
 
   {{ partial "font_styles.html" (dict "font" ($scr.Get "font_pack") "async" true) }}
 
-  {{ if site.Params.marketing.analytics.google_optimize | and hugo.IsProduction }}
-    <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
-  {{- end -}}
-
-  {{ $css := hugo.Data.assets.css }}
   {{ $js := hugo.Data.assets.js }}
 
   {{ $has_notes_tutor := partial "functions/has_notes_tutor.html" . }}
@@ -34,13 +29,9 @@
     </script>
   {{ end }}
 
-  {{ if site.Params.extensions.academicons.enable }}
-    <link rel="stylesheet" href="{{ printf $css.academicons.url $css.academicons.version }}" integrity="{{ $css.academicons.sri }}" crossorigin="anonymous" media="print" onload="this.media='all'">
-  {{ end }}
-
   {{ range $name, $asset := $js }}
     {{ if and $asset.async (or (ne (lower $name) "mathjax") $.Params.math site.Params.features.math.enable) }}
-      <script {{ if eq (lower $name) "mathjax" }}data-cfasync="false"{{ end }} src="{{ printf $asset.url $asset.version }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>
+      <script {{ if eq (lower $name) "mathjax" }}data-cfasync="false"{{ end }} src="{{ partial "functions/script_url.html" $asset }}" {{ with $asset.sri }}integrity="{{ . }}"{{ end }} crossorigin="anonymous" async></script>
     {{ end }}
   {{ end }}
 
@@ -52,7 +43,7 @@
   {{/* Netlify Identity integration. */}}
   {{ $use_cms := templates.Exists "decap_cms/single.decap_cms_config.yml" | default (site.Params.extensions.decap_cms.enable | default false) }}
   {{ if .IsHome | and $use_cms }}
-    <script data-cfasync="false" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script data-cfasync="false" src="{{ $js.netlifyIdentity.url }}"></script>
     <script data-cfasync="false">
       window.netlifyIdentity?.on('init', user => {
         if (!user) window.netlifyIdentity.on('login', () => { location.href = '/admin/'; });
@@ -64,8 +55,6 @@
   {{ with .OutputFormats.Get "RSS" }}
     <link rel="alternate" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ site.Title }}" />
   {{ end }}
-
-  {{ partial "cookie_consent" . }}
 
   {{ $title := partial "blox-core/functions/get_page_title" . }}
   <title>{{$title}}</title>

@@ -4,11 +4,12 @@
  *  Sharing
  **************************************************/
 
-.share-box {
+.share-box,
+.subscribe-box {
   margin-top: 0.7rem;
 }
 
-ul.share {
+ul:is(.share, .subscribe) {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,35 +20,38 @@ ul.share {
   padding: 0;
 }
 
-ul.share li {
+ul:is(.share, .subscribe) li {
   display: inline-flex;
   margin-right: 8px;
 }
 
-ul.share li:last-of-type {
+ul:is(.share, .subscribe) li:last-of-type {
   margin-right: 0;
 }
 
-ul.share li i {
+ul:is(.share, .subscribe) li i {
   display: block;
+  text-align: center;
+  transition: transform 150ms ease-in-out;
+}
+
+ul.share li i {
   width: 30px;
   height: 30px;
   line-height: 30px;
   font-size: 22px;
-  text-align: center;
-  transition: all 150ms ease-in-out;
 }
 
-ul.share li a {
+ul:is(.share, .subscribe) li a {
   text-decoration: none;
   color: nord.$nord0;
 }
 
 .dark ul.share li a {
-  color: rgba(255, 255, 255, 0.84);
+  color: rgba(nord.$nord6, 0.84);
 }
 
-ul.share li:hover i {
+ul:is(.share, .subscribe) li:hover i {
   transform: scale(1.2);
 }
 
@@ -55,74 +59,22 @@ h3#comments {
   padding-top: 0rem;
 }
 
-.comments-box h3 {
-  color: nord.$nord3;
-}
-
-.dark .comments-box h3 {
-  color: nord.$nord4;
-}
-
-.subscribe-box {
-  margin-top: 0.7rem;
-}
-
-ul.subscribe {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-ul.subscribe li {
-  display: inline-flex;
-  margin-right: 8px;
-}
-
-ul.subscribe li:last-of-type {
-  margin-right: 0;
-}
-
 ul.subscribe li i {
-  display: block;
   width: 38px;
   height: 38px;
   line-height: 38px;
   font-size: 28px;
-  text-align: center;
-  transition: all 150ms ease-in-out;
-}
-
-ul.subscribe li a {
-  text-decoration: none;
-  color: nord.$nord0;
 }
 
 .dark ul.subscribe li a {
   color: nord.$nord6;
 }
 
-ul.subscribe li:hover i {
-  transform: scale(1.2);
-}
-
-.subscribe-box h3 {
+:is(.comments-box, .subscribe-box, .share-box) h3 {
   color: nord.$nord3;
 }
 
-.dark .subscribe-box h3 {
-  color: nord.$nord4;
-}
-
-.share-box h3 {
-  color: nord.$nord3;
-}
-
-.dark .share-box h3 {
+.dark :is(.comments-box, .subscribe-box, .share-box) h3 {
   color: nord.$nord4;
 }
 

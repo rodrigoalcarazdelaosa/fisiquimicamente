@@ -1,3 +1,5 @@
+@use "../nord";
+
 .dark #MathJax_Zoom {
-  background-color: rgb(68, 71, 90) !important;
+  background-color: nord.$nord2 !important;
 }

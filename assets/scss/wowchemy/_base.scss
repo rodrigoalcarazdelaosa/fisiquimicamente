@@ -9,10 +9,10 @@
 html {
   font-family: theme.$font-body, serif;
   font-size: #{theme.$font-size-small}px;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(nord.$nord0, 0.8);
   line-height: 1.65;
   -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
   overflow-x: clip;
 }
 @media screen and (min-width: 58em) {
@@ -189,10 +189,10 @@ pre {
   overflow: auto;
   -ms-overflow-style: scrollbar;
   margin: 0 0 1rem;
-  color: #212529;
+  color: nord.$nord0;
 
   /* Match bg of default highlight theme. */
-  border-color: rgb(248, 248, 248);
+  border-color: nord.$nord6;
   font-size: 0.875rem;
   border-radius: 4px;
   padding: 5px;
@@ -210,19 +210,6 @@ div.highlight,
 pre {
   // Required to position Copy button
   position: relative;
-}
-
-.btn-copy-code {
-  display: none;
-  position: absolute;
-  top: 4px;
-  right: 4px;
-  user-select: none;
-}
-
-div.highlight:hover .btn-copy-code,
-pre:hover .btn-copy-code {
-  display: block;
 }
 
 hr {
@@ -300,8 +287,8 @@ small,
 
 .dark pre {
   /* Match `pre` bg color. */
-  border-color: rgb(68, 71, 90);
-  color: #fff;  // Override Bootstrap default (light mode only)
+  border-color: nord.$nord2;
+  color: nord.$nord6;  // Override Bootstrap default (light mode only)
 }
 
 code {

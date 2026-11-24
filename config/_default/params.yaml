@@ -20,9 +20,6 @@ marketing:
     org_name: "FisiQuímicamente"
     description: "Recursos de Física y Química, tutoriales y ciencia de actualidad."
     twitter: "fqmente"
-  analytics:
-    google_analytics: ""
-    baidu_tongji: ""
   verification:
     google: ""
     baidu: ""
@@ -64,8 +61,6 @@ features:
     theme_dark: nord
   math:
     enable: false
-  privacy_pack:
-    enable: false
   repository:
     url: "https://github.com/rodrigoalcarazdelaosa/fisiquimicamente"
     content_dir: content/es
@@ -83,8 +78,6 @@ extensions:
   cms:
     branch: main
     local_backend: false
-  academicons:
-    enable: false
 
 sharing_image: sharing.png
 sharing_image_en: sharing-en.png

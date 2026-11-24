@@ -1,7 +1,9 @@
+{{ $js := hugo.Data.assets.js }}
 {{ if .Page.Store.Get "has_lite_youtube" }}
-  <script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.9.0/lite-youtube.min.js" integrity="sha256-tvIhTU3/TUD+qe+JjzSJ0BhcvZI0IMRkdNSHM1Udvzk=" crossorigin="anonymous"></script>
+  <script type="module" src="{{ partial "functions/script_url.html" $js.liteYouTube }}" integrity="{{ $js.liteYouTube.sri }}" crossorigin="anonymous"></script>
 {{ end }}
 {{ if .Page.Store.Get "has_deferred_embeds" }}
-  {{ $embeds := resources.Get "js/deferred-embeds.js" | minify | fingerprint }}
+  {{ $params := dict "adobeURL" $js.adobePdf.url "widgetsURL" $js.xWidgets.url }}
+  {{ $embeds := resources.Get "js/deferred-embeds.js" | js.Build (dict "params" $params "minify" true) | fingerprint }}
   <script type="module" src="{{ $embeds.RelPermalink }}"></script>
 {{ end }}

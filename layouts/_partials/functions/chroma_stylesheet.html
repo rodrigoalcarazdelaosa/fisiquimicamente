@@ -1,0 +1,3 @@
+{{- $css := resources.Get (printf "css/libs/chroma/%s.css" .) -}}
+{{- $layered := resources.FromString (printf "css/chroma/%s.css" .) (printf "@layer base { %s }" $css.Content) -}}
+{{- return ($layered | minify | fingerprint) -}}

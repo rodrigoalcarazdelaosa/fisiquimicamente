@@ -200,7 +200,7 @@ function initPage() {
   if (document.querySelector('[data-zoomable]')) {
     import(zoomURL).then(({default: mediumZoom}) => {
       const zoom = mediumZoom('[data-zoomable]');
-      const setBackground = dark => zoom.update({background: dark ? 'rgba(0,0,0,0.9)' : 'rgba(255,255,255,0.9)'});
+      const setBackground = dark => zoom.update({background: dark ? 'rgba(46, 52, 64, 0.9)' : 'rgba(236, 239, 244, 0.9)'});
       setBackground(isDarkTheme());
       document.addEventListener('wcThemeChange', event => setBackground(event.detail.isDarkTheme()));
     }).catch(error => console.error('Could not load image zoom', error));

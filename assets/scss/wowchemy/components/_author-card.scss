@@ -13,7 +13,7 @@
   margin-top: 0;
   margin-bottom: 15px;
   font-weight: 600;
-  color: rgba(0, 0, 0, 0.84);
+  color: rgba(nord.$nord0, 0.84);
 }
 
 .author-card .card-title a {
@@ -21,7 +21,7 @@
 }
 
 .dark .author-card .card-title {
-  color: rgba(255, 255, 255, 0.84);
+  color: rgba(nord.$nord6, 0.84);
 }
 
 .dark .author-card .card-title a {

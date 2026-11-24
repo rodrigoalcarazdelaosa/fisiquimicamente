@@ -2,6 +2,10 @@
 
 {{ $toc := partial "functions/clean_toc.html" . }}
 {{ $has_toc := and (ne .Params.toc false) (in $toc "<li") }}
+{{ $content := partial "functions/content_scripts.html" (partial "functions/lazy_phet.html" .) }}
+{{ if hasPrefix .Section "apuntes-" }}
+  {{ $content = partial "functions/notes_heading_permalinks.html" $content }}
+{{ end }}
 
 <article class="article">
 
@@ -36,7 +40,7 @@
     <div class="article-container">
 
       <div class="article-style">
-        {{ partial "functions/lazy_phet.html" . }}
+        {{ $content }}
       </div>
 
     </div>
@@ -49,7 +53,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      {{ partial "functions/lazy_phet.html" . }}
+      {{ $content }}
     </div>
 
     {{ partial "page_footer" . }}

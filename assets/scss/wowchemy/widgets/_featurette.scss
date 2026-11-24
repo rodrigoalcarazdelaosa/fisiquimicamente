@@ -1,3 +1,5 @@
+@use "../../nord";
+
 @use "../../theme";
 
 /*************************************************
@@ -5,22 +7,37 @@
  **************************************************/
 
 .featurette {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  column-gap: 30px;
   font-size: 0.8rem;
   line-height: 1.5;
-  color: #555;
+  color: nord.$nord3;
   text-align: center;
+}
+
+.featurette-wide { grid-column: 1 / -1; }
+
+@media (min-width: 576px) {
+  .featurette {
+    grid-template-columns: repeat(var(--featurette-columns, 1), minmax(0, 1fr));
+  }
+
+  .featurette-columns-2 { --featurette-columns: 2; }
+  .featurette-columns-3 { --featurette-columns: 3; }
+  .featurette-columns-4 { --featurette-columns: 4; }
 }
 
 .featurette .section-subheading {
   margin-top: 0;
   margin-bottom: 5px;
   font-weight: 400;
-  color: #333;
+  color: nord.$nord0;
 }
 
 .dark .featurette,
 .dark .featurette .section-subheading {
-  color: #fff;
+  color: nord.$nord6;
 }
 
 .featurette-icon {

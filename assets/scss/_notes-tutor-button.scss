@@ -43,7 +43,7 @@
   background: nord.$nord0;
   border: 0;
   border-radius: 50%;
-  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0.5rem 1.5rem rgba(nord.$nord0, 0.25);
 
   .notes-tutor-icon {
     flex-shrink: 0;
@@ -97,6 +97,10 @@
   @include breakpoints.down(lg) {
     .notes-tutor-toggle, .notes-tutor-toggle[aria-expanded="true"] { color: nord.$nord0; background: nord.$nord6; }
   }
+}
+
+@media (hover: hover) {
+  .notes-tutor .notes-tutor-toggle:hover { color: nord.$nord0; background: nord.$nord8; }
 }
 
 .notes-tutor-load-status {

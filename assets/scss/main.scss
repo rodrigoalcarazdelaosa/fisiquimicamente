@@ -1,8 +1,24 @@
-@use "color-scheme";
-@use "site/base";
-@use "site/layout";
-@use "site/controls";
-@use "site/print";
-@use "wowchemy/wowchemy";
-@use "theme-images";
-@use "site/utilities";
+@use "sass:meta";
+
+@layer base, components, utilities;
+
+@layer base {
+  @include meta.load-css("color-scheme");
+  @include meta.load-css("site/base");
+  @include meta.load-css("site/layout");
+  @include meta.load-css("wowchemy/base");
+}
+
+@layer components {
+  @include meta.load-css("site/controls");
+  @include meta.load-css("site/buttons");
+  @include meta.load-css("site/print");
+  @include meta.load-css("wowchemy/wowchemy");
+  @include meta.load-css("theme-images");
+  // Keep the original specificity of helpers that components can refine.
+  @include meta.load-css("site/utilities");
+}
+
+@layer utilities {
+  @include meta.load-css("site/spacing-overrides");
+}

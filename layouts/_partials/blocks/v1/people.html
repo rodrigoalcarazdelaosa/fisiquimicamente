@@ -10,16 +10,16 @@
 {{ $show_organizations := $block.Params.design.show_organizations | default false }}
 {{ $show_role := $block.Params.design.show_role | default true }}
 
-<div class="row justify-content-center people-widget">
+<div class="people-widget">
   {{ with $block.Title }}
-  <div class="col-md-12 section-heading">
+  <div class="people-heading section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
     {{ if $block.Params.subtitle }}<p>{{ $block.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
 
   {{ with $block.Content }}
-  <div class="col-md-12">
+  <div class="people-heading">
     {{ . }}
   </div>
   {{ end }}
@@ -28,7 +28,7 @@
   {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
 
   {{if $query | and (gt (len $block.Params.content.user_groups) 1) }}
-  <div class="col-md-12">
+  <div class="people-heading">
     {{ if eq . "FisiQuímicamente" }}
       {{- $logo := resources.Get ("media/logo-fisiquimicamente.svg") -}}
       <h2 class="mb-4"><img draggable="false" class="icon" alt="fisiquimicamente" src="{{ $logo.RelPermalink }}"></h2>
@@ -59,7 +59,7 @@
 	    {{ $link = .RelPermalink }}
 	  {{- end -}}
   {{ end }}
-  <div class="col-12 col-sm-auto people-person">
+  <div class="people-person">
     {{ $src := "" }}
     {{ if site.Params.features.avatar.gravatar }}
       {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}

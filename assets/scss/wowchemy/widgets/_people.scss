@@ -3,8 +3,19 @@
  **************************************************/
 
 .people-widget {
+  --people-gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: var(--people-gap);
   font-size: 0.8rem;
   text-align: center;
+}
+
+.people-heading,
+.people-person {
+  flex: 0 0 100%;
+  min-inline-size: 0;
 }
 
 .people-widget .portrait-title h2 {
@@ -22,12 +33,12 @@
 }
 
 @media (min-width: 576px) {
-  .people-widget .col-sm-auto {
-    width: 30%;
+  .people-person {
+    flex-basis: calc((100% + var(--people-gap)) * 0.3 - var(--people-gap));
   }
 }
 @media (min-width: 992px) {
-  .people-widget .col-sm-auto {
-    width: 20%;
+  .people-person {
+    flex-basis: calc((100% + var(--people-gap)) / 5 - var(--people-gap));
   }
 }
