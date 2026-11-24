@@ -170,6 +170,12 @@ body {
 .reveal i {
   font-style: normal;
 }
+
+/* Reserve each square sticker's height before Reveal lays out the slides and PDF pages. */
+.reveal tgs-player {
+  aspect-ratio: 1;
+}
+
 .molecule-print-renderer {
   position: fixed;
   top: 0;

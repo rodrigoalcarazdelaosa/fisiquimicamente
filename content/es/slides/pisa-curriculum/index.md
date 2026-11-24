@@ -262,10 +262,12 @@ Situaciones y áreas en las que el alumnado tiene que aplicar sus conocimientos 
 {{< figure src="pisa-for-schools.png" width="100%" >}}
 </div>
 
-<div class="col" data-markdown>
-- [Web oficial de la OCDE](https://www.oecd.org/pisa/aboutpisa/pisa-para-centros-educativos.htm)
-- [Web del Ministerio](https://www.educacionyfp.gob.es/inee/evaluaciones-internacionales/pisa-school.html)
-- [Web PISA para Centros Educativos en español](http://pisaparacentroseducativos.es)
+<div class="col">
+<ul>
+  <li><a href="https://www.oecd.org/pisa/aboutpisa/pisa-para-centros-educativos.htm">Web oficial de la OCDE</a></li>
+  <li><a href="https://www.educacionyfp.gob.es/inee/evaluaciones-internacionales/pisa-school.html">Web del Ministerio</a></li>
+  <li><a href="http://pisaparacentroseducativos.es">Web PISA para Centros Educativos en español</a></li>
+</ul>
 </div>
 
 </div>
