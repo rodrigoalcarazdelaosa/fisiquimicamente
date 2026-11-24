@@ -1,3 +1,4 @@
+{{ .Page.Store.Set "has_3dmol" true }}
 {{ $style := .Get "style" | default "height: 300px; width: 100%; position: relative;" | safeCSS }}
 {{ $data_pdb := .Get "data_pdb" }}
 {{ $data_cid := .Get "data_cid" }}
@@ -6,4 +7,4 @@
 {{ $data_style := .Get "data_style" | default "stick;sphere:radius~0.5" | safeCSS }}
 {{ $data_spin := .Get "data_spin" | default "axis:y" | safeCSS }}
 
-<div style="{{ $style }}" class="viewer_3Dmoljs" {{ if $data_pdb }} data-pdb='{{ $data_pdb }}' {{ end }} {{ if $data_cid }} data-cid='{{ $data_cid }}' {{ end }} {{ if $data_href }} data-href='{{ $data_href }}' {{ end }} data-backgroundalpha='{{ $data_backgroundalpha }}' data-style='{{ $data_style }}' data-spin='{{ $data_spin }}'></div>
+<div style="{{ $style }}" data-molecule-viewer {{ if $data_pdb }} data-pdb='{{ $data_pdb }}' {{ end }} {{ if $data_cid }} data-cid='{{ $data_cid }}' {{ end }} {{ if $data_href }} data-href='{{ $data_href }}' {{ end }} data-backgroundalpha='{{ $data_backgroundalpha }}' data-style='{{ $data_style }}' data-spin='{{ $data_spin }}'></div>

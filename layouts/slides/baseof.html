@@ -31,6 +31,9 @@
   {{ $hasMarkdown := false }}
   {{ range union (slice .Page) .Pages }}
     {{ $content := .Content }}
+    {{ if .Page.Store.Get "has_3dmol" }}
+      {{ $.Page.Store.Set "has_3dmol" true }}
+    {{ end }}
     {{ if and (not $hasHighlighting) (in (partial "functions/html_classes.html" $content) "chroma") }}
       {{ $hasHighlighting = true }}
     {{ end }}
@@ -61,8 +64,6 @@
 
   {{ partial "font_styles.html" (dict "font" hugo.Data.fonts.garamond) }}
 
-  {{ partial "hooks/body-end/threedmol.html" . }}
-
 </head>
 <body>
 
@@ -82,6 +83,7 @@
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" $params "minify" hugo.IsProduction) | fingerprint }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
   {{ partial "embed_scripts.html" . }}
+  {{ partial "hooks/body-end/threedmol.html" . }}
 
 </body>
 </html>

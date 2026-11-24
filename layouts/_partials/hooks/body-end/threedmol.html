@@ -1,4 +1,6 @@
-{{ if .Params.threedmol }}
+{{ if .Page.Store.Get "has_3dmol" }}
   {{ $asset := hugo.Data.assets.js.threeDmol }}
-  <script src="{{ partial "functions/script_url.html" $asset }}" integrity="{{ $asset.sri }}" crossorigin="anonymous"></script>
+  {{ $params := dict "libraryURL" (partial "functions/script_url.html" $asset) "integrity" $asset.sri "unavailable" (i18n "molecule_unavailable") }}
+  {{ $loader := resources.Get "js/molecule-viewers.js" | js.Build (dict "params" $params "format" "esm" "minify" hugo.IsProduction) | fingerprint }}
+  <script data-cfasync="false" type="module" src="{{ $loader.RelPermalink }}"></script>
 {{ end }}

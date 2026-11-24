@@ -30,9 +30,9 @@
   url = "https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@%s/lite-youtube.min.js"
   sri = "sha256-tvIhTU3/TUD+qe+JjzSJ0BhcvZI0IMRkdNSHM1Udvzk="
 [js.threeDmol]
-  version = "2.5.5"
+  version = "3.0.0"
   url = "https://cdn.jsdelivr.net/npm/3dmol@%s/build/3Dmol-min.js"
-  sri = "sha256-98x4khrnLnYj6JzdERQ09Ywu/d0v/aHNISZEtAb7gBY="
+  sri = "sha256-qIbiSUQxDOqBEZFSCe+ywSRuMnhYqJitVqyQ/MwxQFM="
 [js.quizdown]
   version = "0.6.0"
   url = "https://cdn.jsdelivr.net/npm/quizdown@%s/public/build/quizdown.js"
