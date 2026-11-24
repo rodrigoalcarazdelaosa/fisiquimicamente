@@ -68,15 +68,21 @@ Habréis oído también que nuestra piel se oscurece cuando tomamos el sol debid
 
 Así, ligeras diferencias en la estructura química y en la cantidad de melanina determinan los colores de la piel del ser humano. Y como nosotros, muchos mamíferos producen en su organismo este pigmento que, al absorber [luz ultravioleta](https://es.wikipedia.org/wiki/Radiación_ultravioleta) (UV), les sirve de protector solar natural.
 
-<div class="tenor-gif-embed" data-postid="8591664" data-share-method="host" data-aspect-ratio="2.13675" data-width="100%"><a href="https://tenor.com/view/simba-lick-nala-lion-king-kiss-gif-8591664">Simba Lick GIF</a>from <a href="https://tenor.com/search/simba-gifs">Simba GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="8591664" ratio="2.13675" title="Simba Lick GIF" >}}
+<a href="https://tenor.com/view/simba-lick-nala-lion-king-kiss-gif-8591664">Simba Lick GIF</a>from <a href="https://tenor.com/search/simba-gifs">Simba GIFs</a>
+{{< /tenor >}}
 
 ¿Habéis leído [Charlie y la fábrica de chocolate](https://es.wikipedia.org/wiki/Charlie_y_la_fábrica_de_chocolate)? Ahí, un personaje, Violeta, se vuelve azul después de tomar un chicle experimental en la fábrica de Willy Wonka.
 
-<div class="tenor-gif-embed" data-postid="24948738" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/violet-beauregarde-blueberry-violet-willy-wonka-blueberries-willy-wonka-gif-24948738">Violet Beauregarde Blueberry GIF</a>from <a href="https://tenor.com/search/violet+beauregarde-gifs">Violet Beauregarde GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="24948738" ratio="1.77778" title="Violet Beauregarde Blueberry GIF" >}}
+<a href="https://tenor.com/view/violet-beauregarde-blueberry-violet-willy-wonka-blueberries-willy-wonka-gif-24948738">Violet Beauregarde Blueberry GIF</a>from <a href="https://tenor.com/search/violet+beauregarde-gifs">Violet Beauregarde GIFs</a>
+{{< /tenor >}}
 
 Esto no se aleja mucho del origen del color en algunos animales. Por ejemplo, ¿de qué color son los [flamencos](https://es.wikipedia.org/wiki/Phoenicopterus)? Las crías de flamenco nacen de color blanco, y son los padres los que las alimentan de [*leche*](https://es.wikipedia.org/wiki/Leche_de_buche) roja producida por ellos mismos. El pigmento que les da su característico color es el [**caroteno**](https://es.wikipedia.org/wiki/Caroteno), y en esa etapa los adultos se destiñen en pro de sus hijos.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="gslbWRj"  ><a href="//imgur.com/gslbWRj">Parent flamingos feeding their young crop milk, which is red in colour, by regurgitating</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+{{< deferred_widget provider="imgur" >}}
+<blockquote class="imgur-embed-pub" lang="en" data-id="gslbWRj"  ><a href="//imgur.com/gslbWRj">Parent flamingos feeding their young crop milk, which is red in colour, by regurgitating</a></blockquote>
+{{< /deferred_widget >}}
 
 El caroteno que mantiene el color rosáceo del flamenco adulto proviene de su dieta: crustáceos y algas. Este color no solo nos gusta a los humanos; los flamencos con color más intenso son los considerados de mejor salud y tienen la mejor posición social en su grupo.
 
@@ -161,7 +167,9 @@ Empecemos por los del primer tipo. [En una entrada anterior]({{< relref "/post/n
 
 Pasemos a los animales que emiten luz mediante reacciones bioquímicas. Las [**luciérnagas**](https://es.wikipedia.org/wiki/Lampyridae) tienen órganos lumínicos especiales, situados debajo de su abdomen. Al absorber oxígeno, éste reacciona con una molécula, la [**luciferina**](https://es.wikipedia.org/wiki/Luciferina_(molécula)), mediante la enzima mencionada anteriormente, la luciferasa, dando como resultado su conocida luz intermitente.
 
-<div class="tenor-gif-embed" data-postid="10662715" data-share-method="host" data-aspect-ratio="1.57778" data-width="100%"><a href="https://tenor.com/view/firefly-insect-gif-10662715">Firefly Insect GIF</a>from <a href="https://tenor.com/search/firefly-gifs">Firefly GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="10662715" ratio="1.57778" title="Firefly Insect GIF" >}}
+<a href="https://tenor.com/view/firefly-insect-gif-10662715">Firefly Insect GIF</a>from <a href="https://tenor.com/search/firefly-gifs">Firefly GIFs</a>
+{{< /tenor >}}
 
 {{< figure src="luciferina.png" title="Fuente: https://departamentofisicaequimica.wordpress.com/2015/01/06/francisco-chapela/." lightbox="true" >}}
 

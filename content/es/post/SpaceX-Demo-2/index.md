@@ -55,94 +55,14 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 
 [^4]: Por poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su altitud de crucero, que son unos 10$\thinspace$km. Es decir, en la mitad de tiempo, el Falcon 9 es capaz de alcanzar una altitud unas 20 veces superior a la de crucero de un avión comercial.
 
-<canvas id="h-t"></canvas>
+{{< deferred_chart id="h-t" annotation="true" series="js/charts/spacex-series.js" >}}
+const h = target.getContext('2d');
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js"></script>
-
-<script>
-	const h = document.getElementById('h-t').getContext('2d');
-
-	const hSeries = [
-[  0.00000000,   0.00000000],
-[  0.26666667,   0.40000000],
-[  0.43333333,   1.20000000],
-[  0.60000000,   2.50000000],
-[  0.76666667,   4.40000000],
-[  0.93333333,   6.80000000],
-[  1.10000000,   9.60000000],
-[  1.26666667,  12.80000000],
-[  1.43333333,  16.90000000],
-[  1.60000000,  22.00000000],
-[  1.76666667,  28.30000000],
-[  1.93333333,  35.70000000],
-[  2.10000000,  44.20000000],
-[  2.26666667,  53.90000000],
-[  2.43333333,  64.70000000],
-[  2.60000000,  76.40000000],
-[  2.76666667,  88.30000000],
-[  2.93333333, 100.00000000],
-[  3.10000000, 110.00000000],
-[  3.26666667, 121.00000000],
-[  3.43333333, 130.00000000],
-[  3.60000000, 139.00000000],
-[  3.76666667, 148.00000000],
-[  3.93333333, 156.00000000],
-[  4.10000000, 163.00000000],
-[  4.26666667, 169.00000000],
-[  4.43333333, 175.00000000],
-[  4.60000000, 180.00000000],
-[  4.76666667, 184.00000000],
-[  4.93333333, 188.00000000],
-[  5.10000000, 191.00000000],
-[  5.26666667, 194.00000000],
-[  5.43333333, 196.00000000],
-[  5.60000000, 198.00000000],
-[  5.76666667, 200.00000000],
-[  5.93333333, 200.00000000],
-[  6.10000000, 201.00000000],
-[  6.26666667, 201.00000000],
-[  6.43333333, 202.00000000],
-[  6.60000000, 201.00000000],
-[  6.76666667, 201.00000000],
-[  6.93333333, 201.00000000],
-[  7.10000000, 200.00000000],
-[  7.26666667, 200.00000000],
-[  7.43333333, 199.00000000],
-[  7.60000000, 199.00000000],
-[  7.76666667, 198.00000000],
-[  7.93333333, 198.00000000],
-[  8.10000000, 198.00000000],
-[  8.26666667, 198.00000000],
-[  8.43333333, 198.00000000],
-[  8.60000000, 197.00000000],
-[  8.76666667, 197.00000000],
-[  8.93333333, 198.00000000],
-[  9.10000000, 198.00000000],
-[  9.26666667, 198.00000000],
-[  9.43333333, 198.00000000],
-[  9.60000000, 198.00000000],
-[  9.76666667, 198.00000000],
-[  9.93333333, 199.00000000],
-[ 10.10000000, 199.00000000],
-[ 10.26666667, 199.00000000],
-[ 10.43333333, 199.00000000],
-[ 10.60000000, 199.00000000],
-[ 10.76666667, 199.00000000],
-[ 10.93333333, 200.00000000],
-[ 11.10000000, 200.00000000],
-[ 11.26666667, 200.00000000],
-[ 11.43333333, 200.00000000],
-[ 11.60000000, 200.00000000],
-[ 11.76666667, 200.00000000],
-[ 11.93333333, 201.00000000],
-[ 12.10000000, 201.00000000],
-	];
 	new Chart(h, {
 	  type: 'line',
 	  data: {
 	    datasets: [{
-	      data: hSeries.map(datum => ({
+	      data: series.hSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -268,7 +188,7 @@ La siguiente gráfica muestra la **altitud** del Falcon 9, en km, en función de
 	  }
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 
 La altitud asciende rápidamente durante los dos primeros minutos aproximadamente (hasta el minuto 2.6), superando los 75$\thinspace$km de altura, cuando los nueve motores [Merlin](https://es.wikipedia.org/wiki/Merl%C3%ADn_(motor_cohete)) del Falcon 9 se apagan, instante que se conoce como **MECO** (Main Engine Cutoff)[^5].
 
@@ -285,91 +205,14 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 
 [^6]: De nuevo para poner estos datos en perspectiva, un avión comercial tarda unos 10 minutos en alcanzar su velocidad de crucero, que son unos 900$\thinspace$km/h. Es decir, en el mismo tiempo, el Falcon 9 es capaz de alcanzar una velocidad unas 30 veces superior a la de crucero de un avión comercial.
 
-<canvas id="v-t"></canvas>
+{{< deferred_chart id="v-t" annotation="true" series="js/charts/spacex-series.js" >}}
+const v = target.getContext('2d');
 
-<script>
-	const v = document.getElementById('v-t').getContext('2d');
-
-	const vSeries = [
-[  0.00000000,   0.00000000],
-[  0.26666667, 195.00000000],
-[  0.43333333, 376.00000000],
-[  0.60000000, 587.00000000],
-[  0.76666667, 804.00000000],
-[  0.93333333, 932.00000000],
-[  1.10000000, 1093.00000000],
-[  1.26666667, 1353.00000000],
-[  1.43333333, 1751.00000000],
-[  1.60000000, 2216.00000000],
-[  1.76666667, 2755.00000000],
-[  1.93333333, 3381.00000000],
-[  2.10000000, 4113.00000000],
-[  2.26666667, 4962.00000000],
-[  2.43333333, 5803.00000000],
-[  2.60000000, 6724.00000000],
-[  2.76666667, 6634.00000000],
-[  2.93333333, 6655.00000000],
-[  3.10000000, 6752.00000000],
-[  3.26666667, 6868.00000000],
-[  3.43333333, 7003.00000000],
-[  3.60000000, 7159.00000000],
-[  3.76666667, 7335.00000000],
-[  3.93333333, 7538.00000000],
-[  4.10000000, 7768.00000000],
-[  4.26666667, 8024.00000000],
-[  4.43333333, 8303.00000000],
-[  4.60000000, 8609.00000000],
-[  4.76666667, 8936.00000000],
-[  4.93333333, 9285.00000000],
-[  5.10000000, 9657.00000000],
-[  5.26666667, 10049.00000000],
-[  5.43333333, 10464.00000000],
-[  5.60000000, 10896.00000000],
-[  5.76666667, 11351.00000000],
-[  5.93333333, 11824.00000000],
-[  6.10000000, 12323.00000000],
-[  6.26666667, 12839.00000000],
-[  6.43333333, 13389.00000000],
-[  6.60000000, 13960.00000000],
-[  6.76666667, 14565.00000000],
-[  6.93333333, 15199.00000000],
-[  7.10000000, 15872.00000000],
-[  7.26666667, 16588.00000000],
-[  7.43333333, 17349.00000000],
-[  7.60000000, 18166.00000000],
-[  7.76666667, 19053.00000000],
-[  7.93333333, 19995.00000000],
-[  8.10000000, 21025.00000000],
-[  8.26666667, 22115.00000000],
-[  8.43333333, 23296.00000000],
-[  8.60000000, 24591.00000000],
-[  8.76666667, 25988.00000000],
-[  8.93333333, 27011.00000000],
-[  9.10000000, 27012.00000000],
-[  9.26666667, 27011.00000000],
-[  9.43333333, 27010.00000000],
-[  9.60000000, 27010.00000000],
-[  9.76666667, 27009.00000000],
-[  9.93333333, 27008.00000000],
-[ 10.10000000, 27007.00000000],
-[ 10.26666667, 27007.00000000],
-[ 10.43333333, 27006.00000000],
-[ 10.60000000, 27005.00000000],
-[ 10.76666667, 27004.00000000],
-[ 10.93333333, 27003.00000000],
-[ 11.10000000, 27002.00000000],
-[ 11.26666667, 27002.00000000],
-[ 11.43333333, 27001.00000000],
-[ 11.60000000, 27000.00000000],
-[ 11.76666667, 26999.00000000],
-[ 11.93333333, 26998.00000000],
-[ 12.10000000, 26997.00000000],
-	];
 	new Chart(v, {
 	  type: 'line',
 	  data: {
 	    datasets: [{
-	      data: vSeries.map(datum => ({
+	      data: series.vSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -495,7 +338,7 @@ La siguiente gráfica muestra la **velocidad** del Falcon 9, en km/h, en funció
 	  }
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 	
 La **velocidad aumenta** de forma **no lineal**, alcanzando los 6724$\thinspace$km/h, más de 5 veces la velocidad del sonido en el aire[^7], en el **MECO**. Se observa que en ese momento la velocidad se ve incluso reducida, hasta que el motor Merlin Vacuum de la segunda etapa se enciende y acelera a la Dragon con una tendencia similar a como lo había hecho durante la primera etapa.
 
@@ -529,90 +372,14 @@ A partir de los valores del módulo de la velocidad es posible obtener la **acel
 
 La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</sup>, en función del tiempo transcurrido, en minutos:
 
-<canvas id="a-t"></canvas>
+{{< deferred_chart id="a-t" annotation="true" series="js/charts/spacex-series.js" >}}
+const a = target.getContext('2d');
 
-<script>
-	const a = document.getElementById('a-t').getContext('2d');
-
-	const aSeries = [
-[  0.13333333,   3.38541667],
-[  0.35000000,   5.02777778],
-[  0.51666667,   5.86111111],
-[  0.68333333,   6.02777778],
-[  0.85000000,   3.55555556],
-[  1.01666667,   4.47222222],
-[  1.18333333,   7.22222222],
-[  1.35000000,  11.05555556],
-[  1.51666667,  12.91666667],
-[  1.68333333,  14.97222222],
-[  1.85000000,  17.38888889],
-[  2.01666667,  20.33333333],
-[  2.18333333,  23.58333333],
-[  2.35000000,  23.36111111],
-[  2.51666667,  25.58333333],
-[  2.68333333,  -2.50000000],
-[  2.85000000,   0.58333333],
-[  3.01666667,   2.69444444],
-[  3.18333333,   3.22222222],
-[  3.35000000,   3.75000000],
-[  3.51666667,   4.33333333],
-[  3.68333333,   4.88888889],
-[  3.85000000,   5.63888889],
-[  4.01666667,   6.38888889],
-[  4.18333333,   7.11111111],
-[  4.35000000,   7.75000000],
-[  4.51666667,   8.50000000],
-[  4.68333333,   9.08333333],
-[  4.85000000,   9.69444444],
-[  5.01666667,  10.33333333],
-[  5.18333333,  10.88888889],
-[  5.35000000,  11.52777778],
-[  5.51666667,  12.00000000],
-[  5.68333333,  12.63888889],
-[  5.85000000,  13.13888889],
-[  6.01666667,  13.86111111],
-[  6.18333333,  14.33333333],
-[  6.35000000,  15.27777778],
-[  6.51666667,  15.86111111],
-[  6.68333333,  16.80555556],
-[  6.85000000,  17.61111111],
-[  7.01666667,  18.69444444],
-[  7.18333333,  19.88888889],
-[  7.35000000,  21.13888889],
-[  7.51666667,  22.69444444],
-[  7.68333333,  24.63888889],
-[  7.85000000,  26.16666667],
-[  8.01666667,  28.61111111],
-[  8.18333333,  30.27777778],
-[  8.35000000,  32.80555556],
-[  8.51666667,  35.97222222],
-[  8.68333333,  38.80555556],
-[  8.85000000,  28.41666667],
-[  9.01666667,   0.02777778],
-[  9.18333333,  -0.02777778],
-[  9.35000000,  -0.02777778],
-[  9.51666667,   0.00000000],
-[  9.68333333,  -0.02777778],
-[  9.85000000,  -0.02777778],
-[ 10.01666667,  -0.02777778],
-[ 10.18333333,   0.00000000],
-[ 10.35000000,  -0.02777778],
-[ 10.51666667,  -0.02777778],
-[ 10.68333333,  -0.02777778],
-[ 10.85000000,  -0.02777778],
-[ 11.01666667,  -0.02777778],
-[ 11.18333333,   0.00000000],
-[ 11.35000000,  -0.02777778],
-[ 11.51666667,  -0.02777778],
-[ 11.68333333,  -0.02777778],
-[ 11.85000000,  -0.02777778],
-[ 12.01666667,  -0.02777778],
-	];
 	new Chart(a, {
 	  type: 'line',
 	  data: {
 	    datasets: [{
-	      data: aSeries.map(datum => ({
+	      data: series.aSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -738,7 +505,7 @@ La siguiente gráfica muestra la **aceleración** del Falcon 9, en m/s<sup>2</su
 	  }
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 	
 Se observa claramente que la **aceleración no** es **constante**, aumentando hasta el **MECO**, momento en el que toma incluso valores negativos (recordemos que [la velocidad se ve reducida](#velocidad)). Después vuelve a aumentar hasta valores por encima de los 30$\thinspace$m/s<sup>2</sup> (más de tres veces la aceleración de la gravedad en la superficie de la Tierra), hasta el **SECO**, instante en el que la aceleración tangencial desaparece al no haber ya ningún motor que impulse la nave.
 
@@ -749,10 +516,8 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 
 [^9]: En realidad se han tomado dos medias distintas, antes y después del **SECO**, debido a la importancia e influencia que tiene ese momento en el movimiento de la nave.
 
-<canvas id="a-t-MRUV"></canvas>
-
-<script>
-	const aMRUV = document.getElementById('a-t-MRUV').getContext('2d');
+{{< deferred_chart id="a-t-MRUV" annotation="true" series="js/charts/spacex-series.js" >}}
+const aMRUV = target.getContext('2d');
 
 	const aMRUVSeries = [
 [  0.13333333,  14.11838312],
@@ -833,7 +598,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 	  data: {
 	    datasets: [
 			{
-	      data: aSeries.map(datum => ({
+	      data: series.aSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -980,7 +745,7 @@ La siguiente gráfica muestra de nuevo la **aceleración** *empírica* del cohet
 	  }
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 	
 El valor promedio resultante de la aceleración antes del **SECO** es de 14.1$\thinspace$m/s<sup>2</sup>, $\approx 1.4$ veces superior (en módulo) a la aceleración de la gravedad en la superficie de la Tierra (9.8$\thinspace$m/s<sup>2</sup>). Esto se puede interpretar como que, en promedio, los astronautas se han pasado casi 9 minutos experimentando algo peor a una caída libre, encima *hacia arriba* 🙃[^10].
 
@@ -999,10 +764,8 @@ donde $h_0 = 0$, $v_0 = 0$ y $a = 14.1\thinspace$m/s<sup>2</sup>.
 
 En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calculada suponiendo un MRUA, durante los cuatro primeros minutos del ascenso del Falcon 9:
 
-<canvas id="h-t-MRUV"></canvas>
-
-<script>
-	const hMRUV = document.getElementById('h-t-MRUV').getContext('2d');
+{{< deferred_chart id="h-t-MRUV" annotation="true" series="js/charts/spacex-series.js" >}}
+const hMRUV = target.getContext('2d');
 
 	const hMRUVSeries = [
 [  0.00000000,   0.00000000],
@@ -1084,7 +847,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 	  data: {
 	    datasets: [
 			{
-	      data: hSeries.map(datum => ({
+	      data: series.hSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -1231,7 +994,7 @@ En la siguiente gráfica se dibujan tanto la **altitud** empírica como la calcu
 	  }
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 	
 La expresión teórica solo es capaz de modelar el movimiento del cohete durante los primeros instantes de tiempo (ya en el primer minuto del ascenso la expresión teórica tiene un error relativo de casi el 130$\thinspace$%).
 
@@ -1251,10 +1014,8 @@ donde $v_0 = 0$ y $a = 14.1\thinspace$m/s<sup>2</sup>.
 
 En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la calculada suponiendo un MRUA y posterior MRU:
 	
-<canvas id="v-t-MRUV"></canvas>
-
-<script>
-	const vMRUV = document.getElementById('v-t-MRUV').getContext('2d');
+{{< deferred_chart id="v-t-MRUV" annotation="true" series="js/charts/spacex-series.js" >}}
+const vMRUV = target.getContext('2d');
 
 	const vMRUVSeries = [
 [  0.00000000,   0.00000000],
@@ -1336,7 +1097,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	  data: {
 	    datasets: [
 			{
-	      data: vSeries.map(datum => ({
+	      data: series.vSeries.map(datum => ({
 	        x: datum[0],
 	        y: datum[1]
 	      })),
@@ -1483,7 +1244,7 @@ En la siguiente gráfica se dibujan tanto la **velocidad** empírica como la cal
 	  }
 	  }
 	});
-</script>
+{{< /deferred_chart >}}
 	
 Se observa que la expresión teórica sobreestima la velocidad de la nave antes del **SECO** (con un error relativo máximo de más del 300$\thinspace$%, para $t = 0.2\overline{6}\thinspace$min), y la subestima ligeramente después.
 	

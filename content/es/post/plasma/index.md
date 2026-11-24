@@ -99,7 +99,9 @@ También nos pueden pillar cerca de casa las [**lámparas de plasma**](https://e
 
 Para terminar la entrada, una curiosidad y un comentario friki. Como curiosidad, la primera patente de las lámparas de plasma pertenece al gran inventor serbo-croata [**Nikola Tesla**](https://es.wikipedia.org/wiki/Nikola_Tesla).
 
-<div class="tenor-gif-embed" data-postid="15285335" data-share-method="host" data-aspect-ratio="1.72043" data-width="100%"><a href="https://tenor.com/view/nikola-tesla-electricity-conduct-gif-15285335">Nikola Tesla Electricity GIF</a>from <a href="https://tenor.com/search/nikola+tesla-gifs">Nikola Tesla GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="15285335" ratio="1.72043" title="Nikola Tesla Electricity GIF" >}}
+<a href="https://tenor.com/view/nikola-tesla-electricity-conduct-gif-15285335">Nikola Tesla Electricity GIF</a>from <a href="https://tenor.com/search/nikola+tesla-gifs">Nikola Tesla GIFs</a>
+{{< /tenor >}}
 
 Como comentario friki, creo que deberíamos llamar a los [**sables láser**](https://es.wikipedia.org/wiki/Sable_de_luz) de [Star Wars](https://es.wikipedia.org/wiki/Star_Wars) **sables de plasma**. Hemos visto que con un plasma es posible, mientras que con luz láser hay muchos problemas. Entre otros, ¡la luz láser saldría del sable y dañaría los ojos de los [*jedis*](https://es.wikipedia.org/wiki/Jedi)!
 

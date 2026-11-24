@@ -40,7 +40,9 @@ Groenlandia se encuentra prácticamente en el [eje de rotación de la Tierra](ht
 
 Aunque no hayas estudiado [Física](https://es.wikipedia.org/wiki/F%C3%ADsica), lo vas a entender con el [patinaje](https://es.wikipedia.org/wiki/Patinaje). Fijaos en este gif. Al saltar, el patinador pega sus brazos al cuerpo para lograr una mayor velocidad y los separa para frenarse. En esta analogía, los brazos pegados es el hielo cerca del eje de rotación y el frenazo al separar los brazos es el agua distribuida por la Tierra.
 
-<div class="tenor-gif-embed" data-postid="24657836" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/ice-skating-winter-olympics2022-pirouette-gracious-air-flip-gif-24657836">Ice Skating Winter Olympics2022 GIF</a>from <a href="https://tenor.com/search/ice+skating-gifs">Ice Skating GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="24657836" ratio="1.77778" title="Ice Skating Winter Olympics2022 GIF" >}}
+<a href="https://tenor.com/view/ice-skating-winter-olympics2022-pirouette-gracious-air-flip-gif-24657836">Ice Skating Winter Olympics2022 GIF</a>from <a href="https://tenor.com/search/ice+skating-gifs">Ice Skating GIFs</a>
+{{< /tenor >}}
 
 Como veremos, el origen físico de esto es la [**conservación del momento angular**](https://es.wikipedia.org/wiki/Momento_angular#Conservación_del_momento_angular_clásico). Hagamos números para ver si tenemos que añadir este tema como quebradero de cabeza relacionado con el [**cambio climático**](https://es.wikipedia.org/wiki/Cambio_climático) o si el efecto es demasiado pequeño para darnos cuenta. En rotación, el [**momento de inercia**](https://es.wikipedia.org/wiki/Momento_de_inercia) representa algo análogo a la masa en el movimiento rectilíneo. Es mayor cuanto mayor es la masa que rota, pero sobre todo aumenta cuanto más lejos se encuentra ésta del eje de rotación. Asumamos momento de inercia nulo para Groenlandia helada[^1].
 
@@ -96,7 +98,9 @@ De hecho, el día en la Tierra se ha estado lentamente alargando por la [interac
 
 [^2]: Como curiosidad, el pasado 29 de junio batimos el [récord del día más corto registrado](https://es.noticias.yahoo.com/tierra-gira-rapido-record-dia-corto-registrado-105540358.html) y, como puede comprobarse en [este registro](https://www.timeanddate.com/time/earth-rotation.html), desde 2020 la tendencia se ha invertido y los días en promedio también se están acortando. Por ahora, no se sabe el motivo.
 
-<div class="tenor-gif-embed" data-postid="14320437" data-share-method="host" data-aspect-ratio="0.884956" data-width="100%"><a href="https://tenor.com/view/landscape-full-moon-nature-goodnight-gif-14320437">Landscape Full Moon GIF</a>from <a href="https://tenor.com/search/landscape-gifs">Landscape GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+{{< tenor id="14320437" ratio="0.884956" title="Landscape Full Moon GIF" >}}
+<a href="https://tenor.com/view/landscape-full-moon-nature-goodnight-gif-14320437">Landscape Full Moon GIF</a>from <a href="https://tenor.com/search/landscape-gifs">Landscape GIFs</a>
+{{< /tenor >}}
 
 Lamentablemente, hay otros factores que sí nos deben preocupar respecto a la progresiva reducción del hielo en Groenlandia que estamos viviendo en nuestro planeta: desde el aumento del nivel del mar hasta cómo afecta a la fauna de ese ecosistema.
 

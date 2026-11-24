@@ -1,0 +1,6 @@
+{{- $provider := .Get "provider" -}}
+{{- if not (in (slice "codePen" "imgur" "h5pResizer") $provider) -}}
+  {{- errorf "Unknown widget provider %q at %s" $provider .Position -}}
+{{- end -}}
+{{- .Page.Store.Set "has_deferred_content" true -}}
+<div data-deferred-widget="{{ $provider }}">{{ .Inner | safeHTML }}</div>

@@ -21,6 +21,9 @@
 - id: close
   translation: Close
 
+- id: footnote
+  translation: Footnote
+
 - id: languages
   translation: Languages
 

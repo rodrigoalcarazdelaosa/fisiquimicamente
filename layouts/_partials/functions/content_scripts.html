@@ -10,10 +10,5 @@
       {{- end -}}
     {{- end -}}
   {{- end -}}
-  {{- $charts := hugo.Data.assets.js.googleCharts -}}
-  {{- if and (ne $charts.channel "current") (in $html $charts.url) -}}
-    {{- $channel := $charts.channel | jsonify -}}
-    {{- $html = replaceRE `google\.charts\.load\(['"]current['"]` (printf "google.charts.load(%s" $channel) $html -}}
-  {{- end -}}
 {{- end -}}
 {{- return ($html | safeHTML) -}}

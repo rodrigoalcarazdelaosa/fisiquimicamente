@@ -1,0 +1,108 @@
+import {chartURL, annotationURL, googleURL, googleChannel, widgets} from '@params';
+
+const scripts = new Map();
+function loadScript(url) {
+  if (!scripts.has(url)) {
+    const request = new Promise((resolve, reject) => {
+      const script = document.createElement('script');
+      script.src = url;
+      script.onload = resolve;
+      script.onerror = () => {
+        script.remove();
+        reject(new Error(`Unable to load ${url}`));
+      };
+      document.head.append(script);
+    }).catch(error => {
+      scripts.delete(url);
+      throw error;
+    });
+    scripts.set(url, request);
+  }
+  return scripts.get(url);
+}
+
+let sankey;
+async function loadChartLibrary(target) {
+  if (target.dataset.chartKind === 'sankey') {
+    return sankey ??= loadScript(googleURL).then(async () => {
+      const google = window.google;
+      await google.charts.load(googleChannel, {packages: ['sankey']});
+      return google;
+    }).catch(error => {
+      sankey = undefined;
+      throw error;
+    });
+  }
+  await loadScript(chartURL);
+  if (target.hasAttribute('data-chart-annotation')) await loadScript(annotationURL);
+  return window.Chart;
+}
+
+const selector = '[data-chart-src], [data-deferred-widget]';
+const deck = window.Reveal;
+const printView = deck?.isPrintView();
+
+function initContent() {
+  const nearby = new Set();
+  const pending = new WeakSet();
+  const finished = new WeakSet();
+  const canRender = target => printView || (nearby.has(target)
+    && !target.closest('details:not([open])')
+    && (!deck || (deck.isReady() && (deck.isScrollView() || deck.getCurrentSlide()?.contains(target)))));
+
+  async function render(target) {
+    if (pending.has(target) || finished.has(target) || !canRender(target)) return;
+    pending.add(target);
+    try {
+      if (target.dataset.chartSrc) {
+        const [{default: draw}, library] = await Promise.all([
+          import(target.dataset.chartSrc), loadChartLibrary(target),
+        ]);
+        if (!canRender(target)) return;
+        draw(target, library);
+      } else {
+        const frame = target.querySelector('iframe[data-widget-src]');
+        await loadScript(widgets[target.dataset.deferredWidget]).finally(() => {
+          if (frame && !frame.hasAttribute('src')) frame.src = frame.dataset.widgetSrc;
+        });
+      }
+      finished.add(target);
+      observer?.unobserve(target);
+      nearby.delete(target);
+    } catch (error) {
+      console.warn('Embedded content unavailable', error);
+    } finally {
+      pending.delete(target);
+    }
+  }
+
+  const observer = !printView && 'IntersectionObserver' in window
+    ? new IntersectionObserver(entries => {
+        for (const {target, isIntersecting} of entries) {
+          if (isIntersecting) {
+            nearby.add(target);
+            render(target);
+          } else {
+            nearby.delete(target);
+          }
+        }
+      }, {rootMargin: '300px 0px'})
+    : null;
+
+  for (const target of document.querySelectorAll(selector)) {
+    if (observer) observer.observe(target);
+    else {
+      nearby.add(target);
+      render(target);
+    }
+  }
+  for (const event of ['ready', 'slidechanged', 'slidetransitionend']) {
+    deck?.on(event, () => nearby.forEach(render));
+  }
+  document.addEventListener('toggle', event => {
+    if (event.target instanceof HTMLDetailsElement && event.target.open) nearby.forEach(render);
+  }, true);
+}
+
+if (printView) deck.on('pdf-ready', initContent);
+else initContent();

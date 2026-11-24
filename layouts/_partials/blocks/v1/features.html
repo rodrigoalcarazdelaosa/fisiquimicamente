@@ -38,23 +38,11 @@
         {{- if $svg_icon -}}<span><a href="{{$link}}"><img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline" loading="lazy"></a></span>{{- end -}}
       {{- else if eq $pack "lottie" -}}
         {{- $lottie_animation := resources.Get (printf "media/lottie/%s.json" .) -}}
-        {{- if $lottie_animation -}}<span><a {{if $link}}href="{{$link}}"{{end}}><lottie-player autoplay loop mode="normal" src="{{ $lottie_animation.RelPermalink }}" class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></lottie-player></a></span>
-        <script>
-          document.addEventListener('wcThemeChange', (e) => {
-            // console.log('isDarkTheme? ' + e.detail.isDarkTheme());
-            if (e.detail.isDarkTheme()) {
-              const player = document.querySelector("#{{ printf "%s" . }}");              
-              player.load({{ $lottie_animation.RelPermalink }}.slice(0, -5).concat("-dark.json"));
-            } else {
-              const player = document.querySelector("#{{ printf "%s" . }}");
-              player.load("{{ $lottie_animation.RelPermalink }}");
-            }
-          });
-        </script>
+        {{- if $lottie_animation -}}<span><a {{if $link}}href="{{$link}}"{{end}}><lottie-player autoplay loop mode="normal" data-src="{{ $lottie_animation.RelPermalink }}" {{ partial "functions/animation_dark_attr.html" (dict "animation" $lottie_animation) }} class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></lottie-player></a></span>
         {{- end -}}
       {{- else if eq $pack "tgs" -}}
         {{- $tgs_sticker := resources.Get (printf "media/lottie/%s.tgs" .) -}}
-        {{- if $tgs_sticker -}}<span><a {{if $link}}href="{{$link}}"{{end}}><tgs-player autoplay loop mode="normal" data-src="{{ $tgs_sticker.RelPermalink }}" {{ partial "functions/tgs_dark_attr.html" (dict "animation" $tgs_sticker) }} class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></tgs-player></a></span>{{- end -}}
+        {{- if $tgs_sticker -}}<span><a {{if $link}}href="{{$link}}"{{end}}><tgs-player autoplay loop mode="normal" data-src="{{ $tgs_sticker.RelPermalink }}" {{ partial "functions/animation_dark_attr.html" (dict "animation" $tgs_sticker) }} class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></tgs-player></a></span>{{- end -}}
       {{- else -}}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
       {{- end -}}
