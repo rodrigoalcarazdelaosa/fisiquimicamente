@@ -48,7 +48,7 @@ Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" 
 
 ## Desarrollo local
 
-Instala Hugo estándar (la versión indicada en `.hvm`) y Dart Sass 1.98.0 para compilar los estilos. Los ejecutables `hugo` y `sass` deben estar en el `PATH`. Puedes comprobar las versiones con `hugo version` y `sass --embedded --version`.
+Las versiones de Hugo y Dart Sass se fijan en [`build-versions.env`](build-versions.env), que también leen los workflows de publicación. Actualiza ambas en ese archivo. Para compilar en local, instala esas versiones y añade `hugo` y `sass` al `PATH`. Puedes comprobar tu instalación con `hugo version` y `sass --embedded --version`.
 
 Si usas otra versión de Hugo en otros proyectos, puedes guardar el ejecutable de este sitio en `.local/bin/hugo` y ejecutar `PATH="$PWD/.local/bin:$PATH" bash view.sh` desde la raíz.
 

@@ -14,23 +14,10 @@
 
   {{ partial "font_styles.html" (dict "font" ($scr.Get "font_pack") "async" true) }}
 
-  {{ $js := hugo.Data.assets.js }}
-
   {{ partial "site_styles.html" . }}
 
   {{/* Load SEO module */}}
   {{ partial "blox_seo" . }}
-
-  {{/* Netlify Identity integration. */}}
-  {{ $use_cms := templates.Exists "decap_cms/single.decap_cms_config.yml" | default (site.Params.extensions.decap_cms.enable | default false) }}
-  {{ if .IsHome | and $use_cms }}
-    <script data-cfasync="false" src="{{ $js.netlifyIdentity.url }}"></script>
-    <script data-cfasync="false">
-      window.netlifyIdentity?.on('init', user => {
-        if (!user) window.netlifyIdentity.on('login', () => { location.href = '/admin/'; });
-      });
-    </script>
-  {{ end }}
 
   {{/* RSS Feed */}}
   {{ with .OutputFormats.Get "RSS" }}
