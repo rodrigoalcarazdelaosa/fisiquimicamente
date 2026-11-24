@@ -53,10 +53,8 @@ Cuando tocamos una cuerda sujeta por ambos extremos, su longitud de onda es dos 
 
 Con la ecuación de debajo vemos que cuanto más larga es la cuerda, más grave sonará (menor *f*). En una guitarra, todas las cuerdas tienen la misma longitud, pero su grosor (es decir, su diámetro) es distinto. Cuerdas con mayor diámetro dan lugar a una nota de base más grave.
 
-<figure>
 $$f = \frac{1}{2L}\sqrt{\frac{T}{\mu}};\quad \mu = \frac{\rho \pi d^2}{4}$$
-<figcaption>La frecuencia de vibración de la cuerda depende de su longitud (<em>L</em>), la tensión a la que está sometida (<em>T</em>) y su densidad lineal (<em>µ</em>), esta última proporcional a la densidad y al cuadrado del diámetro de la cuerda (<em>d</em>). Es decir, la frecuencia es inversamente proporcional al diámetro de la cuerda, lo cual se aprovecha en las guitarras y en otros instrumentos de cuerda para que cuerdas del mismo material y de la misma longitud den lugar a notas distintas.</figcaption>
-</figure>
+La frecuencia de vibración de la cuerda depende de su longitud (<em>L</em>), la tensión a la que está sometida (<em>T</em>) y su densidad lineal (<em>µ</em>), esta última proporcional a la densidad y al cuadrado del diámetro de la cuerda (<em>d</em>). Es decir, la frecuencia es inversamente proporcional al diámetro de la cuerda, lo cual se aprovecha en las guitarras y en otros instrumentos de cuerda para que cuerdas del mismo material y de la misma longitud den lugar a notas distintas.
 
 Otro parámetro importante de la ecuación para la música es la tensión. Cuando afinas una guitarra o un bajo ajustando sus clavijas, modificas ligeramente su tensión (*T*). Por la ecuación anterior, eso se traduce en un ligero cambio en la frecuencia a la que suena. Con ello, logramos que las notas que queremos tocar estén en su frecuencia precisa.
 

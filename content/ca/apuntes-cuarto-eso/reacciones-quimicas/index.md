@@ -236,6 +236,7 @@ $$
 \ce{2Na(s) + 2H2O(l) -> 2NaOH(aq) + H2(g)}
 $$
 {{% /math %}}
+
 $M(\ce{Na}) = 23\thinspace\mathrm{g/mol}$; $M(\ce{H}) = 1\thinspace\mathrm{g/mol}$; $M(\ce{O}) = 16\thinspace\mathrm{g/mol}$.
 
 ---
