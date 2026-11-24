@@ -84,7 +84,7 @@ html {
 }
 
 html:has(.page-header #navbar-main) {
-  --navbar-scroll-offset: var(--navbar-height);
+  --navbar-scroll-offset: calc(var(--navbar-height) + var(--header-breadcrumb-height, 0px));
   scroll-padding-top: var(--navbar-scroll-offset);
 }
 
@@ -95,7 +95,7 @@ html:has(.page-header #navbar-main) {
 }
 
 .header--hidden {
-  transform: translateY(-100%);
+  transform: translateY(calc(-100% - var(--header-breadcrumb-height, 0px)));
 }
 
 .header--fixed {

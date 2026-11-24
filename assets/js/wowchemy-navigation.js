@@ -1,5 +1,6 @@
 const navbar = document.getElementById('navbar-main');
-const navbarHeight = () => navbar?.getBoundingClientRect().height || 0;
+let breadcrumbHeight = 0;
+const headerHeight = () => (navbar?.getBoundingClientRect().height || 0) + breadcrumbHeight;
 
 function anchorTarget(hash) {
   try {
@@ -13,16 +14,37 @@ function initScrollHeader() {
   const header = navbar?.closest('[data-hide-on-scroll]');
   if (!header) return;
 
+  const original = document.querySelector('.page-body nav[aria-label="breadcrumb"]');
+  const fallback = header.querySelector('template[data-header-breadcrumb]')?.content.firstElementChild;
+  const breadcrumb = (original || fallback)?.cloneNode(true);
   const scrollPosition = () => {
     const root = document.scrollingElement;
     return Math.max(0, Math.min(window.scrollY, root.scrollHeight - root.clientHeight));
   };
+
+  function updateBreadcrumb(y, navbarHeight) {
+    breadcrumb?.classList.toggle('header-breadcrumb--visible',
+      y > navbarHeight && (original?.getBoundingClientRect().bottom ?? 0) <= navbarHeight);
+  }
+
+  if (breadcrumb) {
+    breadcrumb.className = 'header-breadcrumb';
+    header.append(breadcrumb);
+    new ResizeObserver(() => {
+      breadcrumbHeight = Math.ceil(breadcrumb.getBoundingClientRect().height);
+      document.documentElement.style.setProperty('--header-breadcrumb-height', `${breadcrumbHeight}px`);
+      updateBreadcrumb(scrollPosition(), navbar.offsetHeight);
+    }).observe(breadcrumb);
+  }
+
   let previousY = scrollPosition();
   let downFrom = previousY;
 
   window.addEventListener('scroll', () => {
     const y = scrollPosition();
-    if (y < previousY || y <= navbar.offsetHeight || navbar.querySelector('[aria-expanded="true"], :focus-visible')) {
+    const navbarHeight = navbar.offsetHeight;
+    updateBreadcrumb(y, navbarHeight);
+    if (y < previousY || y <= navbarHeight || navbar.querySelector('[aria-expanded="true"]') || header.querySelector(':focus-visible')) {
       header.classList.remove('header--hidden');
       downFrom = y;
     } else if (y - downFrom >= 12) {
@@ -49,7 +71,7 @@ function trackSections() {
   let offsets = [];
   let active;
   function highlight() {
-    const y = scrollY + navbarHeight() + 1;
+    const y = scrollY + headerHeight() + 1;
     const atBottom = scrollY > 0 && scrollY + innerHeight >= document.documentElement.scrollHeight - 1;
     let index = offsets.length - 1;
     if (!atBottom) {
