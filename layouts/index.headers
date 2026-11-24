@@ -18,3 +18,10 @@
   Content-Type: application/manifest+json
 /index.xml
   Content-Type: application/rss+xml
+{{ if hugo.IsProduction }}
+# These bundles include a content fingerprint in the published URL.
+{{ range slice "/css/site.min.*" "/css/page-*.css" "/css/carousel.min.*" "/js/site-*.js" "/js/tgs-players.*.js" }}
+{{ . }}
+  Cache-Control: public, max-age=31536000, immutable
+{{ end }}
+{{ end }}

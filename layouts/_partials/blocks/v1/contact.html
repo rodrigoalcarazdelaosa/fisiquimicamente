@@ -148,8 +148,7 @@
       {{ if eq $pack "emoji" }}
           <span class="fa-li fa-2x">{{- .icon | markdownify | emojify -}}</span>
         {{ else if eq $pack "svg" }}
-          {{- $svg_icon := resources.Get (printf "media/icons/%s.png" .icon) | default (resources.Get (printf "media/icons/%s.svg" .icon)) -}}
-          <img src="{{ $svg_icon.RelPermalink }}" alt="{{ .icon }}" class="fa-li svg-icon svg-baseline fa-2x" loading="lazy">
+          <img src="{{ partial "functions/social_icon_url" .icon }}" alt="{{ .icon }}" class="fa-li svg-icon svg-baseline fa-2x" loading="lazy">
         {{ else }}
           <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
         {{ end }}
