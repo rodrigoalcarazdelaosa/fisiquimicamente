@@ -1,3 +1,5 @@
+@use "sass:color";
+
 // Nord palette: https://www.nordtheme.com/
 $nord0: #2e3440;
 $nord1: #3b4252;
@@ -15,3 +17,6 @@ $nord12: #d08770;
 $nord13: #ebcb8b;
 $nord14: #a3be8c;
 $nord15: #b48ead;
+
+// Keep raised light surfaces distinct from the page background.
+$surface-light: color.scale($nord6, $lightness: 60%, $space: hsl);

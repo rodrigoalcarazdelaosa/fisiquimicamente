@@ -52,21 +52,21 @@
 {{- $scr.Set "mono_font" $font.mono_font -}}
 
 {{/* Load Theme. */}}
-
+{{ $nord := hugo.Data.themes.nord }}
 
 {{ if site.Params.appearance.theme_day }}
-  {{- $scr.Set "primary" ($theme_day.primary | default "#1565c0") -}}
+  {{- $scr.Set "primary" ($theme_day.primary | default $nord.light.primary) -}}
 {{ else }}
-  {{- $scr.Set "primary" ($theme_night.primary | default "#1565c0") -}}
+  {{- $scr.Set "primary" ($theme_night.primary | default $nord.dark.primary) -}}
 {{ end }}
 
-{{- $scr.Set "background" ($theme_day.background | default "rgb(255, 255, 255)") -}}
-{{- $scr.Set "home_section_odd" ($theme_day.home_section_odd | default "rgb(255, 255, 255)") -}}
-{{- $scr.Set "home_section_even" ($theme_day.home_section_even | default "rgb(247, 247, 247)") -}}
+{{- $scr.Set "background" ($theme_day.background | default $nord.light.background) -}}
+{{- $scr.Set "home_section_odd" ($theme_day.home_section_odd | default $nord.light.home_section_odd) -}}
+{{- $scr.Set "home_section_even" ($theme_day.home_section_even | default $nord.light.home_section_even) -}}
 
-{{- $scr.Set "dark_background" ($theme_night.background | default "hsla(231, 15%, 16%, 1)") -}}
-{{- $scr.Set "dark_home_section_odd" ($theme_night.home_section_odd | default "hsla(231, 15%, 18%, 1)") -}}
-{{- $scr.Set "dark_home_section_even" ($theme_night.home_section_even | default "hsla(231, 15%, 16%, 1)") -}}
+{{- $scr.Set "dark_background" ($theme_night.background | default $nord.dark.background) -}}
+{{- $scr.Set "dark_home_section_odd" ($theme_night.home_section_odd | default $nord.dark.home_section_odd) -}}
+{{- $scr.Set "dark_home_section_even" ($theme_night.home_section_even | default $nord.dark.home_section_even) -}}
 
 {{- $scr.Set "link" ($theme_day.link | default $theme_day.primary | default ($scr.Get "primary")) -}}
 {{- $scr.Set "link_hover" ($theme_day.link_hover | default $theme_day.primary | default ($scr.Get "primary")) -}}
@@ -81,7 +81,7 @@
 {{- $scr.Set "menu_text_active" $theme_day.menu_text_active -}}
 {{- $scr.Set "menu_title" $theme_day.menu_title -}}
 
-{{- $scr.Set "dark_menu_primary" ($theme_night.menu_primary | default "rgb(40, 42, 54)") -}}
-{{- $scr.Set "dark_menu_text" ($theme_night.menu_text | default "white") -}}
-{{- $scr.Set "dark_menu_text_active" ($theme_night.menu_text_active | default "rgba(255, 255, 255, 0.8)") -}}
-{{- $scr.Set "dark_menu_title" ($theme_night.menu_title | default "white") -}}
+{{- $scr.Set "dark_menu_primary" ($theme_night.menu_primary | default $nord.dark.menu_primary) -}}
+{{- $scr.Set "dark_menu_text" ($theme_night.menu_text | default $nord.dark.menu_text) -}}
+{{- $scr.Set "dark_menu_text_active" ($theme_night.menu_text_active | default $nord.dark.menu_text_active) -}}
+{{- $scr.Set "dark_menu_title" ($theme_night.menu_title | default $nord.dark.menu_title) -}}

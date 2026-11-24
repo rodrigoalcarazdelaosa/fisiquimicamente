@@ -1,5 +1,6 @@
 {{ if .Params.quizdown }}
-  <script src="https://cdn.jsdelivr.net/npm/quizdown@0.6.0/public/build/quizdown.js" integrity="sha256-5ImU45PrvZOeb2xQ6x0OEw0aQ+mwjIOGvPTkL0sMuow=" crossorigin="anonymous"></script>
+  {{ $asset := hugo.Data.assets.js.quizdown }}
+  <script src="{{ partial "functions/script_url.html" $asset }}" integrity="{{ $asset.sri }}" crossorigin="anonymous"></script>
   <script>
     let config = {
 	    startOnLoad: true,		 // detect and convert all divs with class quizdown
@@ -8,7 +9,7 @@
       nQuestions: 20,
       primaryColor: '#88C0D0',  // primary CSS color
       secondaryColor: '#EBCB8B',  // secondary CSS color
-      textColor: 'black',         // text color of some elements
+      textColor: '#2E3440',      // text color of some elements
       locale: null                 // language of the user interface (auto-detect per default)
     };
     quizdown.init(config);

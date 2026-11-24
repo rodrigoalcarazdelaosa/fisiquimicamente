@@ -15,6 +15,30 @@
   z-index: 0; // Explicit z-order otherwise `.home-section-bg` can be hidden by any `.home-section` background.
 }
 
+.widget-layout {
+  --widget-gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: var(--widget-gap);
+}
+
+.widget-layout > :is(.widget-heading, .widget-content) {
+  position: relative;
+  flex: 0 0 100%;
+  min-inline-size: 0;
+}
+
+@include breakpoints.up(lg) {
+  // Keep the widths of the original one-third and two-thirds columns.
+  .widget-layout > .widget-heading-narrow {
+    flex-basis: calc((100% + var(--widget-gap)) / 3 - var(--widget-gap));
+  }
+
+  .widget-layout > .widget-content-narrow {
+    flex-basis: calc((100% + var(--widget-gap)) * 2 / 3 - var(--widget-gap));
+  }
+}
+
 // Responsive fullscreen option for widgets
 // Allow section or elements (such as Slider slides) within it to be fullscreen
 .home-section.fullscreen,
@@ -35,9 +59,8 @@
 
 // Section theming
 
-.home-section.light,
-.home-section.light h1 {
-  color: #000;
+.home-section.light {
+  color: nord.$nord0;
 }
 
 .home-section.dark a {
@@ -50,7 +73,7 @@
 .home-section.dark h2,
 .home-section.dark h3,
 .home-section.dark a:not(.btn) {
-  color: #fff;
+  color: nord.$nord6;
 }
 
 /* Underline links in dark sections to separate them from text */
@@ -65,25 +88,6 @@
   color: inherit;
   text-decoration: inherit;
 }
-
-/* Big underline style for links in dark sections */
-
-/* Disabled as it's an experimental style that requires CSS NOT Selector Level 4 (only in Safari) */
-
-/*
-.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a) {
-  text-decoration: none;
-  position: relative;
-}
-.home-section.dark.big-underline a:not(.btn):not(.hero-cta-alt):not(.alert a):after {
-  background: #fff;
-  content: "";
-  height: 2px;
-  left: 0;
-  right: 0;
-  position: absolute;
-  top: 100%;
-} */
 
 // Fill padding of `.home-section` parent
 .home-section-bg {
@@ -201,36 +205,6 @@
 .carousel-inner .wg-hero {
   animation: none;
   clear: none;
-}
-
-/*************************************************
- * Talks
- **************************************************/
-
-.talk-metadata {
-  color: #4b4f56;
-  font-size: 0.8rem;
-}
-
-/*************************************************
- *  Accomplishments
- **************************************************/
-
-.card.course {
-  margin-bottom: 1rem; /* More compact spacing than Experience widget as typically more items here. */
-}
-
-.card.course:last-of-type {
-  margin-bottom: 0;
-}
-
-.course .card-subtitle a {
-  border-bottom: solid 1px transparent;
-}
-
-.course .card-subtitle a:hover {
-  border-bottom: solid 1px;
-  text-decoration: none;
 }
 
 .home-section.light h1 {

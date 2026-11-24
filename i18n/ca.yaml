@@ -4,6 +4,8 @@
   translation: Índex
 - id: on_this_page
   translation: En aquesta pàgina
+- id: section_permalink
+  translation: Enllaç a aquesta secció
 - id: back_to_top
   translation: Back to top
 - id: home
@@ -202,31 +204,11 @@
   translation: No s'ha trobat la pàgina
 - id: 404_recommendations
   translation: Buscaves alguna d'aquestes?
-- id: cookie_message
-  translation: Aquest lloc web utilitza 🍪 cookies per garantir una millor experiència.
-- id: cookie_dismiss
-  translation: D'acord
-- id: cookie_learn
-  translation: Més informació
 - id: published_with
   translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
 # Paypal
 - id: paypal
   translation: Invítanos a un cafè
-
-# Feedback widget
-
-- id: feedback_widget_title
-  translation: Feedback
-
-- id: feedback_widget_question
-  translation: T'ha resultat útil aquesta pàgina?
-
-- id: feedback_widget_answer_positive
-  translation: 😍 Sí
-
-- id: feedback_widget_answer_negative
-  translation: 😡 No
 
 # Notes tutor
 

@@ -4,4 +4,9 @@
     {{- $anchor = . -}}
   {{- end -}}
 {{- end -}}
-<h{{ .Level }}{{ with $anchor }} id="{{ . }}"{{ end }}{{ range $name, $value := .Attributes }}{{ if ne $name "id" }} {{ $name | safeHTMLAttr }}="{{ $value }}"{{ end }}{{ end }}>{{ .Text }}</h{{ .Level }}>
+<h{{ .Level }}{{ with $anchor }} id="{{ . }}"{{ end }}{{ range $name, $value := .Attributes }}{{ if ne $name "id" }} {{ $name | safeHTMLAttr }}="{{ $value }}"{{ end }}{{ end }}>
+  {{- .Text -}}
+  {{- if and $anchor (gt .Level 1) (in (slice "book" "docs") .Page.Type) -}}
+    {{- partial "components/heading_permalink.html" $anchor -}}
+  {{- end -}}
+</h{{ .Level }}>

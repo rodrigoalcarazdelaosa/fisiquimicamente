@@ -1,45 +1,6 @@
 @use "../../nord";
 @use "../../theme";
 
-/*************************************************
- *  Pager.
- **************************************************/
-
-.post-nav {
-  margin-top: 1rem;
-  font-size: 0.8rem;
-}
-
-.post-nav-item {
-  hyphens: auto;
-  word-wrap: break-word;
-  padding: 11px 0 12px;
-  width: 100%;
-}
-
-.post-nav-item a {
-  color: #2b2b2b;
-  line-height: 1.7;
-  text-transform: none;
-}
-
-.post-nav-item .meta-nav {
-  color: #767676;
-  font-weight: 900;
-  line-height: 2;
-  text-transform: uppercase;
-}
-
-.dark .post-nav-item a {
-  color: #ddd;
-}
-
-.dark .post-nav-item .meta-nav {
-  color: nord.$nord4;
-}
-
-// Pagination
-
 .pagination {
   display: flex;
   padding-left: 0;
@@ -79,23 +40,23 @@
 
 .page-item.active .page-link {
   z-index: 3;
-  color: #fff;
+  color: nord.$nord6;
   background-color: theme.$primary;
   border-color: theme.$primary;
 }
 
 .page-item.disabled .page-link {
-  color: #6c757d;
+  color: nord.$nord3;
   pointer-events: none;
   cursor: auto;
-  background-color: #fff;
-  border-color: #dee2e6;
+  background-color: nord.$surface-light;
+  border-color: nord.$nord4;
 }
 
 .dark .pagination li > a,
 .pagination li > span {
-  background-color: rgb(40, 42, 54);
-  border: 1px solid #ddd;
+  background-color: nord.$nord0;
+  border: 1px solid nord.$nord4;
 }
 
 .dark .page-link {

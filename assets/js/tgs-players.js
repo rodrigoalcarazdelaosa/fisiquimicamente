@@ -1,3 +1,5 @@
+import {playerURL} from '@params';
+
 (() => {
   const players = document.querySelectorAll('tgs-player, lottie-player');
   if (!players.length) return;
@@ -61,7 +63,7 @@
   function loadPlayerScript() {
     if (playerScript) return;
     playerScript = document.createElement('script');
-    playerScript.src = 'https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/tgs-player.js';
+    playerScript.src = playerURL;
     playerScript.onload = updateVisible;
     playerScript.onerror = () => {
       playerScript.remove();

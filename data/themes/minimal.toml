@@ -3,21 +3,21 @@ name = "Minimal"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "#2e3440"
 
   # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  menu_primary = "#eceff4"
+  menu_text = "#2e3440"
+  menu_text_active = "#5e81ac"
+  menu_title = "#2e3440"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "#eceff4"
+  home_section_even = "#e5e9f0"
 
 [dark]
   # Primary
-  primary = "#bbdefb"
+  primary = "#88c0d0"
 
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  link = "#88c0d0"
+  link_hover = "#ebcb8b"

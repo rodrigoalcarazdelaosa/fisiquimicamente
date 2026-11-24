@@ -1,0 +1,5 @@
+{{- $url := .url -}}
+{{- with .version -}}
+  {{- $url = replace $url "%s" . -}}
+{{- end -}}
+{{- return $url -}}

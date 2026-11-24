@@ -1,3 +1,4 @@
 {{ if .Params.threedmol }}
-  <script src="https://cdn.jsdelivr.net/npm/3dmol@2.5.5/build/3Dmol-min.js" integrity="sha256-98x4khrnLnYj6JzdERQ09Ywu/d0v/aHNISZEtAb7gBY=" crossorigin="anonymous"></script>
+  {{ $asset := hugo.Data.assets.js.threeDmol }}
+  <script src="{{ partial "functions/script_url.html" $asset }}" integrity="{{ $asset.sri }}" crossorigin="anonymous"></script>
 {{ end }}

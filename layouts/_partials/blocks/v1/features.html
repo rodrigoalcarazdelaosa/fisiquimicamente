@@ -5,18 +5,18 @@
 {{/* Initialise */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
-{{ $columns := $block.Params.design.columns | default "3" }}
+{{ $columns := $block.Params.design.columns | default "3" | string }}
 
-<div class="row featurette">
+<div class="featurette{{ if in (slice "2" "3" "4") $columns }} featurette-columns-{{ $columns }}{{ end }}">
   {{ with $block.Title }}
-  <div class="col-md-12 section-heading">
+  <div class="featurette-wide section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
     {{ if $block.Params.subtitle }}<p>{{ $block.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
 
   {{ with $block.Content }}
-  <div class="col-md-12">
+  <div class="featurette-wide">
     {{ . }}
   </div>
   {{ end }}
@@ -28,7 +28,7 @@
     {{ $pack_prefix = "fa" }}
   {{ end }}
   {{ $link := .icon_link }}
-  <div class="col-12 {{ if eq $columns "2" }}col-sm-6{{ else if eq $columns "3" }}col-sm-4{{ else if eq $columns "4" }}col-sm-3{{ end }}">
+  <div>
     {{ with .icon }}
     <div class="featurette-icon">
       {{- if eq $pack "emoji" -}}
