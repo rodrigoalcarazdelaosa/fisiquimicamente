@@ -89,7 +89,3 @@
 [js.h5pResizer]
   url = "https://cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js"
   content_source = "//cedec.intef.es/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js"
-[js.recaptcha]
-  url = "https://www.google.com/recaptcha/api.js"
-[js.netlifyIdentity]
-  url = "https://identity.netlify.com/v1/netlify-identity-widget.js"
