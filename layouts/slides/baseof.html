@@ -23,9 +23,14 @@
   <title>{{ .Title }} | {{ site.Title }}</title>
 
   {{/* Load Reveal CSS */}}
-  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/reveal.min.css">
+  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/reveal.css">
   {{- $theme := $.Param "slides.theme" | default "black" -}}
-  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/theme/{{ $theme }}.min.css">
+  {{ if eq $theme "white" }}
+    {{ $white := resources.Get "css/libs/reveal/white.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $white.RelPermalink }}">
+  {{ else }}
+    <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/theme/{{ $theme }}.css">
+  {{ end }}
 
   {{ $hasHighlighting := false }}
   {{ $hasMarkdown := false }}
@@ -70,13 +75,13 @@
   {{ block "main" . }}{{ end }}
 
   {{/* Load Reveal and built-in plugins. */}}
-  <script src="{{ $cdn_url_reveal }}/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="{{ $cdn_url_reveal }}/dist/reveal.js" crossorigin="anonymous"></script>
   {{ if $hasMarkdown }}
-    <script src="{{ $cdn_url_reveal }}/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+    <script src="{{ $cdn_url_reveal }}/dist/plugin/markdown.js" crossorigin="anonymous"></script>
   {{ end }}
-   <script src="{{ $cdn_url_reveal }}/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
-   <script src="{{ $cdn_url_reveal }}/plugin/search/search.min.js" crossorigin="anonymous"></script>
-   <script src="{{ $cdn_url_reveal }}/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+  <script src="{{ $cdn_url_reveal }}/dist/plugin/notes.js" crossorigin="anonymous"></script>
+  <script src="{{ $cdn_url_reveal }}/dist/plugin/search.js" crossorigin="anonymous"></script>
+  <script src="{{ $cdn_url_reveal }}/dist/plugin/zoom.js" crossorigin="anonymous"></script>
 
   {{/* Initialize slides. */}}
   {{ $params := dict "slides" $.Params.slides "hasMarkdown" $hasMarkdown }}
