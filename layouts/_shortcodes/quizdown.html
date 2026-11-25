@@ -1,4 +1,12 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
+{{ if .Page.Params.quizdown_loading }}
+<div class="quizdown" data-quizdown-pending>
+  <div class="quizdown-source">
+  {{ .Inner }}
+  </div>
+</div>
+{{ else }}
 <div class='quizdown'>
   {{ .Inner }}
 </div>
+{{ end }}
