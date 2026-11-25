@@ -14,7 +14,7 @@
   ],
   "vars": {
     "ENABLED": "true",
-    "AI_MODEL": "@cf/google/gemma-4-26b-a4b-it",
+    "AI_MODEL": "@cf/openai/gpt-oss-120b",
     "PERFORMANCE_LOGS": "true",
     "ALLOWED_ORIGINS": "https://fisiquimicamente.com,https://physichemically.com,https://fisiquimicament.com"
   },
