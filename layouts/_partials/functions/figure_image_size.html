@@ -1,0 +1,44 @@
+{{- $image := .image -}}
+{{- $width := .width -}}
+{{- $height := .height -}}
+{{- $style := "" -}}
+{{- if eq $image.MediaType.SubType "svg" -}}
+  {{- /* SVG resources do not expose Width or Height in Hugo. Reserve their space before loading. */ -}}
+  {{- range findRE `<(?:[\w.-]+:)?svg\s[^>]*>` $image.Content 1 -}}
+    {{- $tag := . -}}
+    {{- $number := `(?:[0-9]*\.)?[0-9]+(?:[eE][-+]?[0-9]+)?` -}}
+    {{- $units := dict "" 1 "px" 1 "pt" (div 96.0 72) "pc" 16 "in" 96 "cm" (div 96.0 2.54) "mm" (div 96.0 25.4) "Q" (div 96.0 101.6) -}}
+    {{- $dimensions := slice -}}
+    {{- range slice "width" "height" -}}
+      {{- $pixels := 0.0 -}}
+      {{- range findRESubmatch (printf `\s%s\s*=\s*["'](%s)(px|pt|pc|in|cm|mm|Q)?["']` . $number) $tag 1 -}}
+        {{- $pixels = mul (float (index . 1)) (index $units (index . 2)) -}}
+      {{- end -}}
+      {{- $dimensions = $dimensions | append $pixels -}}
+    {{- end -}}
+    {{- $naturalWidth := index $dimensions 0 -}}
+    {{- $naturalHeight := index $dimensions 1 -}}
+    {{- $ratio := "" -}}
+    {{- if and (gt $naturalWidth 0) (gt $naturalHeight 0) -}}
+      {{- $ratio = printf "%.10g / %.10g" $naturalWidth $naturalHeight -}}
+    {{- else -}}
+      {{- $separator := `[\s,]+` -}}
+      {{- $viewBox := printf `\sviewBox\s*=\s*["']\s*[-+]?%s%s[-+]?%s%s(%s)%s(%s)\s*["']` $number $separator $number $separator $number $separator $number -}}
+      {{- range findRESubmatch $viewBox $tag 1 -}}
+        {{- if and (gt (float (index . 1)) 0) (gt (float (index . 2)) 0) -}}
+          {{- $ratio = printf "%s / %s" (index . 1) (index . 2) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $ratio -}}
+      {{- $style = printf "aspect-ratio: auto %s;" $ratio -}}
+      {{- if and (not $width) (gt $naturalWidth 0) -}}
+        {{- $width = printf "%.10f" $naturalWidth -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if not $height -}}
+  {{- $style = printf "aspect-ratio: auto %d / %d;" $image.Width $image.Height -}}
+  {{- $width = $width | default $image.Width -}}
+{{- end -}}
+{{- return dict "width" $width "height" $height "style" $style -}}
