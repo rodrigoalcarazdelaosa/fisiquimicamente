@@ -392,6 +392,30 @@ test('renders Markdown tables with maths, escaped separators and plain HTML text
   assert.deepEqual(ui.typeset.map(({ tex }) => tex), ['|F|=ma']);
 });
 
+test('renders tables with typographic, incomplete or escaped dividers', async () => {
+  const header = '| Molécula | Dador | Aceptor | Enlace |';
+  const row = String.raw`| \(\ce{NH4+}\) | N | H⁺ | \(\ce{NH3 -> H+}\) |`;
+  const divider = '|---|---|---|---|';
+  const variants = [
+    [header, '|\u202f–––|:\u00a0———:|−−−|‐‐‐|', row],
+    [header, '|---|---|---|', row, '| H₃O⁺ | O | H⁺ | Agua | dato adicional |'],
+    [header, divider, row].map((line) => line.replaceAll('|', '\\|')),
+  ];
+  for (const lines of variants) {
+    const ui = setup({ endpoint: '/api/tutor', answer: lines.join('\n') });
+    await ui.submit('Pon un ejemplo de enlace dativo');
+    const content = ui.elements['.notes-tutor-messages'].childNodes[1].childNodes[1];
+    const [table] = content.childNodes[0].childNodes;
+    const [head, body] = table.childNodes;
+    assert.equal(table.tagName, 'TABLE');
+    assert.equal(head.childNodes[0].childElementCount, 4);
+    assert.equal(body.childNodes[0].childElementCount, 4);
+    assert.equal(body.childElementCount, lines.length - 2);
+    if (lines.length === 4) assert.equal(body.childNodes[1].childNodes[3].textContent, 'Agua | dato adicional');
+    assert.deepEqual(ui.typeset.map(({ tex }) => tex), [String.raw`\ce{NH4+}`, String.raw`\ce{NH3 -> H+}`]);
+  }
+});
+
 test('keeps the TeX when KaTeX fails to load', async () => {
   const ui = setup({ endpoint: '/api/tutor', answer: '\\(F = ma\\)', failMath: true });
   await ui.submit('Explica la ecuación');
