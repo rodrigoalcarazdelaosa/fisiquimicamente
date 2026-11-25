@@ -1,23 +1,31 @@
 {{- $id := .Get "id" -}}
-{{- $kind := .Get "kind" | default "chartjs" -}}
-{{- if not (in (slice "chartjs" "sankey") $kind) -}}
+{{- $kind := .Get "kind" | default "line" -}}
+{{- if not (in (slice "line" "sankey") $kind) -}}
   {{- errorf "Unknown chart kind %q at %s" $kind .Position -}}
 {{- end -}}
-{{- $library := cond (eq $kind "sankey") "google" "Chart" -}}
+{{- $sankey := eq $kind "sankey" -}}
+{{- $renderer := resources.Get (printf "js/charts/%s.js" $kind) | minify | fingerprint -}}
 {{- $path := printf "js/charts/%s-%d.js" .Page.File.UniqueID .Ordinal -}}
-{{- $source := printf "export default function draw(target, %s) {\n%s\n}\n" $library .Inner -}}
+{{- $imports := printf "import {drawChart} from %q;\n" $renderer.RelPermalink -}}
 {{- with .Get "series" -}}
   {{- with resources.Get . -}}
     {{- $series := . | minify | fingerprint -}}
-    {{- $source = printf "import * as series from %q;\n%s" $series.RelPermalink $source -}}
+    {{- $imports = printf "%simport * as series from %q;\n" $imports $series.RelPermalink -}}
   {{- else -}}
     {{- errorf "Chart series %q not found at %s" . $.Position -}}
   {{- end -}}
+{{- else -}}
+  {{- if $sankey -}}
+    {{- errorf "Sankey data is required at %s" .Position -}}
+  {{- end -}}
 {{- end -}}
+{{- $config := cond $sankey "return series.default;" .Inner -}}
+{{- $source := printf "%sfunction getConfig() {\n%s\n}\nexport default function draw(target, Chart, printView) {\n return drawChart(target, Chart, getConfig(), printView);\n}\n" $imports $config -}}
 {{- $script := resources.FromString $path $source | minify | fingerprint -}}
 {{- .Page.Store.Set "has_deferred_content" true -}}
-{{- if eq $kind "sankey" -}}
-<div id="{{ $id }}" data-chart-src="{{ $script.RelPermalink }}" data-chart-kind="{{ $kind }}" style="width: 100%; height: 600px;"></div>
+{{- if $sankey -}}
+{{- .Page.Store.Set "has_sankey" true -}}
+<div id="{{ $id }}" data-chart-src="{{ $script.RelPermalink }}" data-chart-kind="{{ $kind }}" style="position: relative; width: 100%; height: 600px;"><canvas role="img" aria-label="Conexiones entre competencias específicas y competencias clave" style="position: absolute; inset: 0;"></canvas></div>
 {{- else -}}
-<canvas id="{{ $id }}" width="300" height="150" data-chart-src="{{ $script.RelPermalink }}" data-chart-kind="{{ $kind }}"{{ if eq (.Get "annotation") "true" }} data-chart-annotation{{ end }} style="display: block; width: 100%; height: auto;"></canvas>
+<div style="position: relative; width: 100%; aspect-ratio: 2;"><canvas id="{{ $id }}" role="img" data-chart-src="{{ $script.RelPermalink }}" data-chart-kind="{{ $kind }}"{{ if eq (.Get "annotation") "true" }} data-chart-annotation{{ end }} style="position: absolute; inset: 0; width: 100%; height: 100%;"></canvas></div>
 {{- end -}}
