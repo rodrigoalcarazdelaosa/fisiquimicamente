@@ -1,1 +1,2 @@
-{{- return (partial "functions/restore_tex.html" .Content | plainify | htmlUnescape) -}}
+{{- $restored := partial "functions/restore_tex.html" (dict "html" .Content) -}}
+{{- return ($restored.html | plainify | htmlUnescape) -}}
