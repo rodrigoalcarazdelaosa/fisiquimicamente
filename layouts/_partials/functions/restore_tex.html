@@ -1,10 +1,21 @@
-{{- $html := string . -}}
-{{- range findRE `(?s)<span class="katex"><math\b[^>]*>.*?</math></span>` $html -}}
-  {{- $math := . -}}
-  {{- range findRESubmatch `<annotation encoding="application/x-tex">([^<]*)</annotation>` $math 1 -}}
+{{- $html := string .html -}}
+{{- $replacements := dict -}}
+{{- $annotation := `<annotation encoding="application/x-tex">([^<]*)</annotation>` -}}
+{{- if .placeholder -}}
+  {{/* Goldmark can turn paired carets in a shortcode's annotation into <sup>. */}}
+  {{- $annotation = `<annotation encoding="application/x-tex">((?:[^<]|</?sup>)*)</annotation>` -}}
+{{- end -}}
+{{- range $index, $math := uniq (findRE `(?s)<span class="katex"><math\b[^>]*>.*?</math></span>` $html) -}}
+  {{- range findRESubmatch $annotation $math 1 -}}
     {{- $display := findRE `^<span class="katex"><math\b[^>]* display="block"` $math 1 -}}
     {{- $delimiter := cond (ne (len $display) 0) "$$" "$" -}}
-    {{- $html = replace $html $math (printf "%s%s%s" $delimiter (index . 1) $delimiter) -}}
+    {{- $tex := printf "%s%s%s" $delimiter (index . 1) $delimiter -}}
+    {{- with $.placeholder -}}
+      {{- $token := printf "%s%dZ" . $index -}}
+      {{- $replacements = merge $replacements (dict $token ($tex | replaceRE `</?sup>` "^" | htmlUnescape)) -}}
+      {{- $tex = $token -}}
+    {{- end -}}
+    {{- $html = replace $html $math $tex -}}
   {{- end -}}
 {{- end -}}
-{{- return $html -}}
+{{- return (dict "html" $html "replacements" $replacements) -}}

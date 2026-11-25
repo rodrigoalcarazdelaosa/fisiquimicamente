@@ -115,6 +115,24 @@
   ul, ol { margin: 0.4rem 0; padding-left: 1.25em; }
   li { margin-bottom: 0.3rem; }
   pre { max-width: 100%; padding: 0.5rem; overflow-x: auto; }
+  .notes-tutor-table {
+    margin: 0.4rem 0 0.6rem;
+    overflow-x: auto;
+
+    table { width: 100%; border-collapse: collapse; }
+    th, td {
+      padding: 0.3rem 0.45rem;
+      border: 1px solid var(--tutor-table-border, #{nord.$nord4});
+      text-align: start;
+      vertical-align: top;
+    }
+    th {
+      color: inherit;
+      background: var(--tutor-table-heading, #{nord.$nord5});
+    }
+    [data-align="center"] { text-align: center; }
+    [data-align="right"] { text-align: right; }
+  }
   .notes-tutor-display-math {
     display: block;
     overflow-x: auto;
@@ -203,6 +221,8 @@
 }
 
 .dark .notes-tutor {
+  --tutor-table-border: #{nord.$nord3};
+  --tutor-table-heading: #{nord.$nord2};
   color: nord.$nord6;
 
   .notes-tutor-panel { background: nord.$nord0; border-color: nord.$nord3; }

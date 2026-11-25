@@ -57,9 +57,15 @@ function setup(options = {}) {
   const typeset = [];
   const mathImports = [];
   const mobile = { matches: Boolean(options.mobile) };
-  const headings = [['Introducción', 200, 'H2'], ['Ondas armónicas', 800, 'H2'], ['Frecuencia', 900, 'H3'], ['El sonido', 1600, 'H2']];
-  article.querySelectorAll = () => headings.map(([title, top, tagName], index) => ({
-    textContent: title, tagName, getBoundingClientRect: () => ({ top: top - scroll }),
+  const headings = options.headings ?? [
+    ['introduccion', 'Introducción', 200, true],
+    ['ondas-armonicas', 'Ondas armónicas', 800, true],
+    ['frecuencia', 'Frecuencia', 900, true],
+    ['el-sonido', 'El sonido', 1600, true],
+  ];
+  article.querySelectorAll = () => headings.map(([id, title, top, visible], index) => ({
+    id, textContent: title, getBoundingClientRect: () => ({ top: top - scroll }),
+    getClientRects: () => visible ? [{}] : [],
     querySelector: () => null,
     contains: (node) => node?.sectionIndex === index,
     compareDocumentPosition: (node) => node?.sectionIndex > index ? 4 : 0,
@@ -73,8 +79,15 @@ function setup(options = {}) {
   document.querySelector = (selector) => ({ '.notes-tutor': root, '.article-style': article, '.article-mobile-toc': toc })[selector];
   document.createElement = (tag) => new Element(tag);
   document.createTextNode = (text) => { const node = new Element('#text'); node.textContent = text; return node; };
+  const sections = options.sections ?? [
+    { id: '', level: 1, markdown: '' },
+    { id: 'introduccion', level: 2, markdown: '## Introducción\n\nTexto.' },
+    { id: 'ondas-armonicas', level: 2, markdown: '## Ondas armónicas\n\nTexto.' },
+    { id: 'frecuencia', level: 3, markdown: '### Frecuencia\n\nFórmula.' },
+    { id: 'el-sonido', level: 2, markdown: '## El sonido\n\nTexto.' },
+  ];
   const data = {
-    title: 'Ondas', content: 'Introducción Texto. Ondas armónicas Texto. Frecuencia Fórmula. El sonido Texto.',
+    title: 'Ondas', sections,
     endpoint: options.endpoint || '', language: 'es', url: 'https://fisiquimicamente.com/recursos-fisica-quimica/apuntes/ondas/', tags: ['2º Bach'],
     strings: { selected: 'Fragmento seleccionado', pending: 'Próximamente', pin: 'Fijar apartado', unpin: 'Seguir lectura',
       suggest_simple: 'Explícalo más fácil', suggest_example: 'Ponme un ejemplo', you: 'Tú', assistant: 'Tutor',
@@ -205,9 +218,48 @@ test('submitting uses the pinned section and keeps the assistant response', asyn
   ui.move(1500); ui.flush();
   await ui.submit('¿Qué se propaga?');
   assert.equal(ui.calls[0].section, 'Introducción');
-  assert.equal(ui.calls[0].context, 'Introducción Texto. ');
+  assert.equal(ui.calls[0].context, '## Introducción\n\nTexto.');
   assert.equal(ui.elements['.notes-tutor-messages'].childElementCount, 2);
   assert.equal(ui.elements.textarea.value, '');
+});
+
+test('sends the Markdown of the active anchor and its children even when titles repeat', async () => {
+  const headings = [
+    ['magnitudes', 'Magnitudes', 210, true],
+    ['ejemplo', 'Ejemplo', 400, true],
+    ['prefijos', 'Prefijos', 700, true],
+    ['ejemplo-1', 'Ejemplo', 800, true],
+    ['solucion', 'Solución', 0, false],
+    ['ejercicios', 'Ejercicios', 2000, true],
+  ];
+  const table = '### Ejemplo\n\n| Prefijo | Factor |\n| --- | --- |\n| nano | $10^{-9}$ |';
+  const sections = [
+    { id: '', level: 1, markdown: 'Presentación del apunte.' },
+    { id: 'magnitudes', level: 2, markdown: '## Magnitudes' },
+    { id: 'ejemplo', level: 3, markdown: '### Ejemplo\n\nPrimer ejemplo.' },
+    { id: 'prefijos', level: 2, markdown: '## Prefijos' },
+    { id: 'ejemplo-1', level: 3, markdown: table },
+    { id: 'solucion', level: 4, markdown: '#### Solución\n\n1. Aplica el factor.\n2. Comprueba la unidad.' },
+    { id: 'ejercicios', level: 2, markdown: '## Ejercicios' },
+  ];
+  const ui = setup({ endpoint: '/api/tutor', headings, sections });
+  ui.open();
+  assert.equal(ui.label(), 'Ondas');
+  ui.move(720); ui.flush();
+  assert.equal(ui.label(), 'Ondas → Prefijos → Ejemplo');
+  await ui.submit('¿Cuál es el factor de nano?');
+  assert.equal(ui.calls[0].context, table + '\n\n' + sections[5].markdown);
+});
+
+test('limits the context without cutting into a multiline equation', async () => {
+  const paragraph = '## Introducción\n\n' + 'a'.repeat(11500);
+  const sections = [
+    { id: '', level: 1, markdown: '' },
+    { id: 'introduccion', level: 2, markdown: paragraph + '\n\n$$\n' + 'x\n'.repeat(400) + '$$' },
+  ];
+  const ui = setup({ endpoint: '/api/tutor', sections });
+  await ui.submit('Explica el apartado');
+  assert.equal(ui.calls[0].context, paragraph);
 });
 
 test('paragraphs, emphasis, lists and TeX render without interpreting HTML', async () => {
@@ -278,6 +330,68 @@ test('renders display math with mhchem and leaves code untouched', async () => {
   assert.equal(ui.typeset[0].config.displayMode, true);
 });
 
+test('renders multiline list equations, bare environments and double-escaped delimiters', async () => {
+  const answer = [
+    '1. Calculamos la fuerza $$',
+    String.raw`\begin{aligned} F &= m a \\`,
+    '',
+    String.raw`&= 12\,\mathrm{N} \end{aligned}`,
+    '$$',
+    '2. Comprobamos el resultado.',
+    '',
+    String.raw`\begin{align*} F &= 12\,\mathrm{N} \end{align*}`,
+    '',
+    String.raw`También \\(F=ma\\) y \\[ F = 12\,\mathrm{N} \\].`,
+  ].join('\n');
+  const ui = setup({ endpoint: '/api/tutor', answer });
+  await ui.submit('Calcula la fuerza');
+  const content = ui.elements['.notes-tutor-messages'].childNodes[1].childNodes[1];
+  assert.equal(content.childNodes[0].tagName, 'OL');
+  assert.equal(content.childNodes[0].childElementCount, 2);
+  assert.deepEqual(ui.typeset.map(({ tex, config }) => [tex, config.displayMode]), [
+    [answer.split('$$')[1].trim(), true],
+    [String.raw`\begin{align*} F &= 12\,\mathrm{N} \end{align*}`, true],
+    ['F=ma', false],
+    [String.raw`F = 12\,\mathrm{N}`, true],
+  ]);
+});
+
+test('renders Markdown tables with maths, escaped separators and plain HTML text', async () => {
+  const answer = [
+    'Comparamos magnitudes',
+    'Magnitud | Expresión | Nota',
+    ':--- | :---: | ---:',
+    String.raw`| Fuerza \| peso | $|F|=ma$ | **N** |`,
+    '| Distancia | `a|b` | <img src=x onerror=alert(1)> |',
+    '- El resultado usa unidades del SI.',
+    '',
+    '````markdown',
+    '| A | B |',
+    '| --- | --- |',
+    '| $x$ | $y$ |',
+    '`````',
+  ].join('\r\n');
+  const ui = setup({ endpoint: '/api/tutor', answer });
+  await ui.submit('Compara las magnitudes');
+  const content = ui.elements['.notes-tutor-messages'].childNodes[1].childNodes[1];
+  const wrapper = content.childNodes[1];
+  assert.equal(wrapper.className, 'notes-tutor-table');
+  const [head, body] = wrapper.childNodes[0].childNodes;
+  assert.equal(head.tagName, 'THEAD');
+  const headings = head.childNodes[0].childNodes;
+  assert.deepEqual(headings.map((cell) => cell.attributes.scope), ['col', 'col', 'col']);
+  assert.deepEqual(headings.map((cell) => cell.attributes['data-align']), ['left', 'center', 'right']);
+  const [first, second] = body.childNodes.map((row) => row.childNodes);
+  assert.equal(first[0].textContent, 'Fuerza | peso');
+  assert.equal(second[1].childNodes[1].tagName, 'CODE');
+  assert.equal(second[1].textContent, 'a|b');
+  assert.equal(second[2].childElementCount, 0);
+  assert.equal(second[2].textContent, '<img src=x onerror=alert(1)>');
+  assert.equal(content.childNodes[2].tagName, 'UL');
+  assert.equal(content.childNodes[3].tagName, 'PRE');
+  assert.deepEqual(ui.typeset.map(({ tex }) => tex), ['|F|=ma']);
+});
+
 test('keeps the TeX when KaTeX fails to load', async () => {
   const ui = setup({ endpoint: '/api/tutor', answer: '\\(F = ma\\)', failMath: true });
   await ui.submit('Explica la ecuación');
@@ -337,6 +451,25 @@ test('streaming displays text before completion and typesets math only at the en
   assert.equal(ui.elements.textarea.disabled, false);
   assert.equal(ui.elements.textarea.value, '');
   assert.equal(ui.typeset.length, 1);
+});
+
+test('a Markdown table can arrive in fragments during streaming', async () => {
+  const stream = streamingResponse();
+  const ui = setup({ endpoint: '/api/tutor', fetch: async () => stream.response });
+  await ui.submit('Compara las magnitudes');
+  stream.send({ type: 'delta', text: '| Magnitud | Fórmula |\n| ---' });
+  await settle();
+  const content = ui.elements['.notes-tutor-messages'].childNodes[1].childNodes[1];
+  assert.equal(content.childNodes[0].tagName, 'P');
+  stream.send({ type: 'delta', text: ' | --- |\n| Fuerza | $F=' });
+  stream.send({ type: 'delta', text: 'ma$ |' });
+  await settle(); ui.flush();
+  assert.equal(content.childNodes[0].className, 'notes-tutor-table');
+  assert.deepEqual(ui.mathImports, []);
+  stream.send({ type: 'done', truncated: false }); stream.close();
+  await settle(); ui.flush();
+  assert.equal(content.childNodes[0].className, 'notes-tutor-table');
+  assert.deepEqual(ui.typeset.map(({ tex }) => tex), ['F=ma']);
 });
 
 test('stream truncation preserves the response and shows the length notice', async () => {

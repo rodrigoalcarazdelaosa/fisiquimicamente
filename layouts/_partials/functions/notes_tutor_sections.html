@@ -1,0 +1,31 @@
+{{- $key := substr (md5 .page.RelPermalink) 0 8 -}}
+{{- $boundary := printf "TutorHeading%sZ" $key -}}
+{{- $texPrefix := printf "TutorTex%sX" $key -}}
+{{/* Keep TeX out of the HTML-to-Markdown converter so it cannot escape its syntax. */}}
+{{- $restored := partial "functions/restore_tex.html" (dict "html" .content "placeholder" $texPrefix) -}}
+{{- $html := $restored.html | replaceRE `<a class="heading-permalink"[^>]*></a>` "" -}}
+{{- $heading := `(?i)<h([2-6])\b[^>]*[[:space:]]id="([^"]+)"[^>]*>` -}}
+{{- $headings := findRESubmatch $heading $html -}}
+{{- $marked := replaceRE $heading (printf "<p>%s</p>${0}" $boundary) $html -}}
+{{- $markdown := transform.HTMLToMarkdown $marked -}}
+{{- $chunks := split $markdown $boundary -}}
+{{- if ne (len $chunks) (add 1 (len $headings)) -}}
+  {{/* Fall back to the full note if the HTML converter drops a section marker. */}}
+  {{- $chunks = slice (replace $markdown $boundary "") -}}
+{{- end -}}
+
+{{- $sections := slice -}}
+{{- range $index, $chunk := $chunks -}}
+  {{- $id := "" -}}
+  {{- $level := 1 -}}
+  {{- if gt $index 0 -}}
+    {{- $match := index $headings (sub $index 1) -}}
+    {{- $id = htmlUnescape (index $match 2) -}}
+    {{- $level = int (index $match 1) -}}
+  {{- end -}}
+  {{- range $token := uniq (findRE (printf `%s\d+Z` $texPrefix) $chunk) -}}
+    {{- $chunk = replace $chunk $token (index $restored.replacements $token) -}}
+  {{- end -}}
+  {{- $sections = $sections | append (dict "id" $id "level" $level "markdown" (strings.TrimSpace $chunk)) -}}
+{{- end -}}
+{{- return $sections -}}
