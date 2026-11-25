@@ -1,6 +1,13 @@
-{{- $csp_policy := site.Params.security.csp.policy | default "" -}}
-{{- $csp_report_only := site.Params.security.csp.report_only | default false -}}
-{{- $csp_candidate := site.Params.security.csp.report_policy | default "" -}}
+{{- $csp := site.Params.security.csp -}}
+{{- $csp_policy := $csp.policy | default "" -}}
+{{- $csp_candidate := $csp.report_policy | default "" -}}
+{{- $scripts := partial "functions/csp_script_policy.html" (dict "page" . "enforce" $csp.enforce_scripts) -}}
+{{- if $csp.enforce_scripts -}}
+  {{/* An explicit worker policy keeps blob workers from falling back to script-src. */}}
+  {{- $csp_policy = printf "%s; %s worker-src 'self' blob:;" ($csp_policy | strings.TrimSuffix ";") $scripts -}}
+{{- else if $csp_candidate -}}
+  {{- $csp_candidate = printf "default-src 'self'; %s %s" $scripts $csp_candidate -}}
+{{- end -}}
 {{- $allow_frame := site.Params.security.allow_frame | default false -}}
 {{- $default_perms := "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()" -}}
 {{- $permissions_policy := site.Params.security.permissions.policy | default $default_perms -}}
@@ -12,14 +19,15 @@
   X-Content-Type-Options: nosniff
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Referrer-Policy: strict-origin-when-cross-origin
-  {{with $csp_policy}}Content-Security-Policy{{if $csp_report_only}}-Report-Only{{end}}: {{replaceRE "(\\s\\s+)" " " (trim . " ")}}{{end}}
-  {{ with $csp_candidate }}
-    {{- $themeScript := resources.Get "js/theme-init.js" | js.Build (dict "minify" hugo.IsProduction) | fingerprint "sha256" }}
-    {{- $importMap := resources.FromString "js/tutor-math-importmap.json" (partial "functions/tutor_math_importmap.html" $) | fingerprint "sha256" }}
-    {{- $quizInit := resources.FromString "js/quizdown-inline-init.js" (partial "functions/quizdown_inline_init.html" $) | fingerprint "sha256" }}
-    {{- $hashes := printf "'%s' '%s' '%s'" $themeScript.Data.Integrity $importMap.Data.Integrity $quizInit.Data.Integrity }}
-  Content-Security-Policy-Report-Only: {{ replace . "{inline_hashes}" $hashes | replaceRE "\\s+" " " | strings.TrimSpace }}
-  {{ end }}
+{{ range slice (dict "name" "Content-Security-Policy" "value" $csp_policy) (dict "name" "Content-Security-Policy-Report-Only" "value" $csp_candidate) -}}
+  {{- if .value -}}
+    {{- $line := printf "  %s: %s" .name (.value | replaceRE "\\s+" " " | strings.TrimSpace) -}}
+    {{- if gt (len $line) 2000 -}}
+      {{- errorf "%s exceeds Cloudflare Pages' 2000-character limit" .name -}}
+    {{- end -}}
+    {{- printf "%s\n" $line -}}
+  {{- end -}}
+{{- end }}
   {{with $permissions_policy}}Permissions-Policy: {{replaceRE "(\\s\\s+)" " " (trim . " ")}}{{end}}
 /index.webmanifest
   Content-Type: application/manifest+json

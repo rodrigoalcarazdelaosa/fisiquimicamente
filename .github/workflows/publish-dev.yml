@@ -33,6 +33,7 @@ jobs:
           HUGOxLANGUAGESxESxBASEURL: https://dev.fisiquimicamente.com/
           HUGOxPARAMSxNOTES_TUTORxENABLED: "false"
           HUGOxPARAMSxSECURITYxNOINDEX: "true"
+          HUGOxPARAMSxSECURITYxCSPxENFORCE_SCRIPTS: "true"
           HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets.PDF_EMBED_API_KEY_ES }}
         run: |
           source get_last_commit_hash.sh
