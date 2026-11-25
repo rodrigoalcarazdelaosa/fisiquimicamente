@@ -52,6 +52,7 @@
   (dict "name" "gallery-grid" "module" "site/gallery" "enabled" $hasGallery)
   (dict "name" "footnotes" "module" "site/footnotes" "enabled" (in $classes "footnote-ref"))
   (dict "name" "progress" "module" "site/progress" "enabled" (in $classes "progress"))
+  (dict "name" "quizdown" "module" "site/quizdown" "enabled" .Params.quizdown_loading)
 -}}
 {{ range $bundles }}
   {{ if .enabled }}

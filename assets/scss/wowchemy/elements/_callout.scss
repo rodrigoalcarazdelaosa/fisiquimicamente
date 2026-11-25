@@ -1,3 +1,4 @@
+@use "sass:color";
 @use "../../nord";
 @use "../../theme";
 
@@ -87,7 +88,7 @@ div.alert > div:first-child::before {
 
 .alert-warning {
   color: nord.$nord0;
-  background-color: nord.$nord12;
+  background-color: color.mix(nord.$nord6, nord.$nord12, 8%);
   border-color: nord.$nord12;
 }
 

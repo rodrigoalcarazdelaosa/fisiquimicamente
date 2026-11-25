@@ -1,18 +1,33 @@
-{{- $csp_policy := site.Params.security.csp.policy | default "" -}}
-{{- $csp_report_only := site.Params.security.csp.report_only | default false -}}
+{{- $csp := site.Params.security.csp -}}
+{{- $csp_policy := $csp.policy | default "" -}}
+{{- $csp_candidate := $csp.report_policy | default "" -}}
+{{- $scripts := partial "functions/csp_script_policy.html" (dict "page" . "enforce" $csp.enforce_scripts) -}}
+{{- if $csp.enforce_scripts -}}
+  {{/* An explicit worker policy keeps blob workers from falling back to script-src. */}}
+  {{- $csp_policy = printf "%s; %s worker-src 'self' blob:;" ($csp_policy | strings.TrimSuffix ";") $scripts -}}
+{{- else if $csp_candidate -}}
+  {{- $csp_candidate = printf "default-src 'self'; %s %s" $scripts $csp_candidate -}}
+{{- end -}}
 {{- $allow_frame := site.Params.security.allow_frame | default false -}}
 {{- $default_perms := "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()" -}}
 {{- $permissions_policy := site.Params.security.permissions.policy | default $default_perms -}}
-# Netlify headers
-# Automatically generated
-# Documentation: https://docs.hugoblox.com/hugo-tutorials/security/
+# Cloudflare Pages headers
 /*
+  {{if site.Params.security.noindex}}X-Robots-Tag: noindex{{end}}
   {{if not $allow_frame}}X-Frame-Options: DENY{{end}}
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Referrer-Policy: strict-origin-when-cross-origin
-  {{with $csp_policy}}Content-Security-Policy{{if $csp_report_only}}-Report-Only{{end}}: {{replaceRE "(\\s\\s+)" " " (trim . " ")}}{{end}}
+{{ range slice (dict "name" "Content-Security-Policy" "value" $csp_policy) (dict "name" "Content-Security-Policy-Report-Only" "value" $csp_candidate) -}}
+  {{- if .value -}}
+    {{- $line := printf "  %s: %s" .name (.value | replaceRE "\\s+" " " | strings.TrimSpace) -}}
+    {{- if gt (len $line) 2000 -}}
+      {{- errorf "%s exceeds Cloudflare Pages' 2000-character limit" .name -}}
+    {{- end -}}
+    {{- printf "%s\n" $line -}}
+  {{- end -}}
+{{- end }}
   {{with $permissions_policy}}Permissions-Policy: {{replaceRE "(\\s\\s+)" " " (trim . " ")}}{{end}}
 /index.webmanifest
   Content-Type: application/manifest+json
@@ -30,6 +45,7 @@
   "/js/vendor/chartjs-plugin-annotation.min.*.js" "/js/vendor/chartjs-chart-sankey.min.*.js"
   "/css/chart-sankey.min.*.css"
   "/js/gallery.*.js" "/js/jsbat.min.*.js" "/js/lazy-phet.min.*.js" "/js/model-viewer.*.js" "/js/molecule-viewers.*.js"
+  "/css/quizdown.min.*.css" "/js/lazy-quizdown.*.js"
   "/js/notes-tutor.min.*.mjs" "/js/notes-tutor-loader.min.*.mjs" "/js/wowchemy-slides.*.js"
   "/js/vendor/fuse.min.*.mjs" "/js/vendor/mark.min.*.js" "/js/vendor/medium-zoom.esm.*.js"
   "/tutor/*.json" "/media/immutable/*"

@@ -1,0 +1,9 @@
+@media (scripting: enabled) {
+  [data-quizdown-pending] {
+    min-block-size: 24rem;
+  }
+
+  [data-quizdown-pending] > .quizdown-source {
+    display: none;
+  }
+}

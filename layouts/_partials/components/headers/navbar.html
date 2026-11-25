@@ -9,8 +9,7 @@
 {{ $square_logo := cond (eq .Lang "en") "logo-original-en" "logo-original" }}
 {{ $wordmark := printf "icon/logo-%s" (urlize site.Title) }}
 
-<header>
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main" aria-label="{{ i18n "main_navigation" }}">
   <div class="container-xl">
 
     {{if $show_logo}}
@@ -207,5 +206,4 @@
   </div><!-- /.container -->
 </nav>
 
-</header>
 {{end}}{{/* End show navbar. */}}

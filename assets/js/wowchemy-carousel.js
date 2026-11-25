@@ -37,6 +37,8 @@ export function initCarousels() {
       current.classList.remove('active', movement);
       incoming.classList.remove(order, movement);
       incoming.classList.add('active');
+      indicators[index]?.removeAttribute('aria-current');
+      indicators[next]?.setAttribute('aria-current', 'true');
       index = next;
       moving = false;
       schedule();

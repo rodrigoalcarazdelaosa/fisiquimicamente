@@ -6,11 +6,20 @@
   {{- range findRESubmatch `(?is)(.*?)(<!--.*?-->|<iframe\s+[^>]*>\s*</iframe\s*>|$)` $content -}}
     {{- $html := index . 1 -}}
     {{- $element := index . 2 -}}
-    {{- if and (strings.HasPrefix (lower $element) "<iframe") (findRE $src $element) (not (findRE `(?i)\s+loading(?:\s|=|>)` $element)) -}}
-      {{- $frame := replaceRE $src `${1}data-phet-src${2}` $element -}}
-      {{- $fallback := printf `<noscript>%s loading="lazy"%s</noscript>` (substr $element 0 7) (substr $element 7) -}}
-      {{- $element = print $frame $fallback -}}
-      {{- $page.Store.Set "has_deferred_phet" true -}}
+    {{- if and (strings.HasPrefix (lower $element) "<iframe") (findRE $src $element) -}}
+      {{- if not (findRE `(?i)\s(?:title|aria-label|aria-labelledby)\s*=` $element) -}}
+        {{- $title := i18n "phet_simulation" -}}
+        {{- with findRESubmatch `https://phet\.colorado\.edu/sims/(?:html/|cheerpj/)?([^/"']+)` $element 1 -}}
+          {{- $title = printf "%s · %s" $title (humanize (index (index . 0) 1)) -}}
+        {{- end -}}
+        {{- $element = printf `%s title="%s"%s` (substr $element 0 7) ($title | htmlEscape) (substr $element 7) -}}
+      {{- end -}}
+      {{- if not (findRE `(?i)\s+loading(?:\s|=|>)` $element) -}}
+        {{- $frame := replaceRE $src `${1}data-phet-src${2}` $element -}}
+        {{- $fallback := printf `<noscript>%s loading="lazy"%s</noscript>` (substr $element 0 7) (substr $element 7) -}}
+        {{- $element = print $frame $fallback -}}
+        {{- $page.Store.Set "has_deferred_phet" true -}}
+      {{- end -}}
     {{- end -}}
     {{- $parts = $parts | append (print $html $element) -}}
   {{- end -}}

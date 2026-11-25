@@ -1,5 +1,5 @@
 {{ if ne .Params.share false }}
-<div class="subscribe-box" aria-hidden="true">
+<div class="subscribe-box">
 	<div align="center">
 		<h3>
 			{{ if eq .Site.Language.Lang "es" }}
@@ -16,22 +16,22 @@
 		{{- $coffee_tgs := resources.Get ("media/lottie/coffee.tgs") -}}
 		{{ if eq .Site.Language.Lang "es" }}
 		<div align="center">
-		<a href="https://fisiquimicamente.com/donativos" target="_blank" rel="noopener">			
-		<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un café">
+		<a href="https://fisiquimicamente.com/donativos" target="_blank" rel="noopener" aria-label="Invítanos a un café">
+		<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-hidden="true" data-original-title="Invítanos a un café">
 		</tgs-player>
 		</a>
 		</div>
 		{{ else if eq .Site.Language.Lang "en" }}
 		<div align="center">
-        <a href="https://physichemically.com/donations" target="_blank" rel="noopener">
-			<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Buy us a coffee">
+        <a href="https://physichemically.com/donations" target="_blank" rel="noopener" aria-label="Buy us a coffee">
+			<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-hidden="true" data-original-title="Buy us a coffee">
 			</tgs-player>			
 		</a>
 		</div>
 		{{ else if eq .Site.Language.Lang "ca" }}
 		<div align="center">
-        <a href="https://fisiquimicament.com/donatius" target="_blank" rel="noopener">
-			<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-label="PayPal" data-original-title="Invítanos a un cafè">
+        <a href="https://fisiquimicament.com/donatius" target="_blank" rel="noopener" aria-label="Convida’ns a un cafè">
+			<tgs-player autoplay loop mode="normal" style="width:50%;height:auto" src="{{ $coffee_tgs.RelPermalink }}" data-toggle="tooltip" data-placement="right" title aria-hidden="true" data-original-title="Invítanos a un cafè">
 			</tgs-player>
 		</a>
 		</div>

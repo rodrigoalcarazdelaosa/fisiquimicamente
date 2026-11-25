@@ -35,16 +35,16 @@
   {{ range where .Params.social ".display.footer" true }}
     {{ if not $display_icons }}
       <div class="d-flex justify-content-center">
-        <ul class="network-icon network-icon-footer" aria-hidden="true">
+        <ul class="network-icon network-icon-footer">
     {{ end }}
     {{ $display_icons = true }}
     {{ $social_link := partial "functions/get_social_link" . }}
     <li>
-      <a href="{{ $social_link.link | safeURL }}" {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.icon }}">
+      <a href="{{ $social_link.link | safeURL }}" {{ $social_link.target | safeHTMLAttr }} aria-label="{{ $social_link.aria_label }}">
         {{ if eq $social_link.icon_pack "emoji" }}
             <span {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }}>{{- $social_link.icon | markdownify | emojify -}}</span>
         {{ else if eq $social_link.icon_pack "svg" }}
-            <img {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} src="{{ partial "functions/social_icon_url" .icon }}" alt="{{ $social_link.icon }}" class="svg-icon svg-baseline" loading="lazy">
+            <img {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} src="{{ partial "functions/social_icon_url" .icon }}" alt="" class="svg-icon svg-baseline" loading="lazy">
          {{ else }}
             <i {{ with $social_link.tooltip }} data-toggle="tooltip" data-placement="top" data-original-title="{{$social_link.tooltip}}"{{ end }} class="{{ $social_link.icon_pack }} {{ $social_link.pack_prefix }}-{{ $social_link.icon }}"></i>
          {{ end }}
@@ -78,27 +78,27 @@
     Publicado con
 	<a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a> —
 	    el constructor de sitios web gratuito y <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
-	    de <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg" loading="lazy"> código abierto</a> para <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg" loading="lazy"></a><br><a href="https://hugoblox.com/sponsor/?aff=K4VGj">Únete a <strong><em>All Access</em></strong> para desbloquear blox y plantillas exclusivas</a>
+	    de <img draggable="false" class="icon" alt="" src="/icon/opensource.svg" loading="lazy"> código abierto</a> para <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg" loading="lazy"></a><br><a href="https://hugoblox.com/sponsor/?aff=K4VGj">Únete a <strong><em>All Access</em></strong> para desbloquear blox y plantillas exclusivas</a>
 {{ else if eq .Site.Language.Lang "en" }}
     Published with
 	<a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a>  —
 	    the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
-        <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg" loading="lazy"> open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg" loading="lazy"></a><br><a href="https://hugoblox.com/sponsor/?aff=K4VGj">Join <strong><em>All Access</em></strong> to unlock exclusive blox and templates</a>
+        <img draggable="false" class="icon" alt="" src="/icon/opensource.svg" loading="lazy"> open source</a> website builder for <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg" loading="lazy"></a><br><a href="https://hugoblox.com/sponsor/?aff=K4VGj">Join <strong><em>All Access</em></strong> to unlock exclusive blox and templates</a>
   {{ else if eq .Site.Language.Lang "ca" }}
   Publicat amb
 	<a href="https://hugoblox.com?aff=K4VGj" target="_blank" rel="noopener"><strong>Hugo Blox</strong></a> —
   el constructor de llocs web gratuït i <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">
-	    de <img draggable="false" class="icon" alt="opensource" src="/icon/opensource.svg" loading="lazy"> codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg" loading="lazy"></a><br><a href="https://hugoblox.com/sponsor/?aff=K4VGj">Uneix-te a <strong><em>All Access</em></strong> per desbloquejar blox i plantilles exclusives</a>
+	    de <img draggable="false" class="icon" alt="" src="/icon/opensource.svg" loading="lazy"> codi obert</a> per <a href="https://gohugo.io" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="hugo" src="/icon/hugo.svg" loading="lazy"></a><br><a href="https://hugoblox.com/sponsor/?aff=K4VGj">Uneix-te a <strong><em>All Access</em></strong> per desbloquejar blox i plantilles exclusives</a>
 {{ end }}
   </p>
 
   <p class="powered-by">
     {{ if eq .Site.Language.Lang "es" }}
-    Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.svg" loading="lazy"> GitHub</a><span class="middot-divider"></span>Servido por <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg" loading="lazy"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmación:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
+    Alojado en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="" src="/icon/github.svg" loading="lazy"> GitHub</a><span class="middot-divider"></span>Servido por <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="" src="/icon/cloudflare-pages.svg" loading="lazy"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmación:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
 {{ else if eq .Site.Language.Lang "en" }}
-    Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.svg" loading="lazy"> GitHub</a><span class="middot-divider"></span>Served by <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg" loading="lazy"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Latest&nbsp;commit:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
+    Hosted on <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="" src="/icon/github.svg" loading="lazy"> GitHub</a><span class="middot-divider"></span>Served by <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="" src="/icon/cloudflare-pages.svg" loading="lazy"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Latest&nbsp;commit:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
 {{ else if eq .Site.Language.Lang "ca" }}
-Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="github" src="/icon/github.svg" loading="lazy"> GitHub</a><span class="middot-divider"></span>Servit per <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="/icon/cloudflare-pages.svg" loading="lazy"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmació:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
+Allotjat en <a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="" src="/icon/github.svg" loading="lazy"> GitHub</a><span class="middot-divider"></span>Servit per <a href="https://pages.cloudflare.com" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="" src="/icon/cloudflare-pages.svg" loading="lazy"> Cloudflare Pages</a><br>{{ with site.Params.git.last_commit }}Última&nbsp;confirmació:&nbsp;<a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/commit/{{ .hash }}" target="_blank" rel="noopener">{{ .abbrev_hash }}</a>{{ end }}
 {{ end }}
 
 <br><a href="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml" target="_blank" rel="noopener"><img draggable="false" class="icon" alt="cloudflare-pages" src="https://github.com/rodrigoalcarazdelaosa/fisiquimicamente/actions/workflows/publish-CFP.yml/badge.svg" loading="lazy"></a>
