@@ -27,6 +27,8 @@
   "/css/notes-tutor.min.*.css" "/css/progress.min.*.css"
   "/js/site-*.js" "/js/tgs-players.*.js" "/js/deferred-embeds.*.js" "/js/footnotes.min.*.js"
   "/js/deferred-content.*.js" "/js/charts/*"
+  "/js/vendor/chartjs-plugin-annotation.min.*.js" "/js/vendor/chartjs-chart-sankey.min.*.js"
+  "/css/chart-sankey.min.*.css"
   "/js/gallery.*.js" "/js/jsbat.min.*.js" "/js/lazy-phet.min.*.js" "/js/model-viewer.*.js" "/js/molecule-viewers.*.js"
   "/js/notes-tutor.min.*.mjs" "/js/notes-tutor-loader.min.*.mjs" "/js/wowchemy-slides.*.js"
   "/js/vendor/fuse.min.*.mjs" "/js/vendor/mark.min.*.js" "/js/vendor/medium-zoom.esm.*.js"

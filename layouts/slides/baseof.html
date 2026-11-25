@@ -42,6 +42,9 @@
     {{ if .Page.Store.Get "has_deferred_content" }}
       {{ $.Page.Store.Set "has_deferred_content" true }}
     {{ end }}
+    {{ if .Page.Store.Get "has_sankey" }}
+      {{ $.Page.Store.Set "has_sankey" true }}
+    {{ end }}
     {{ if and (not $hasHighlighting) (in (partial "functions/html_classes.html" $content) "chroma") }}
       {{ $hasHighlighting = true }}
     {{ end }}
