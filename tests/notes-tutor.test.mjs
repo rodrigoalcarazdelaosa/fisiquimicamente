@@ -278,6 +278,68 @@ test('renders display math with mhchem and leaves code untouched', async () => {
   assert.equal(ui.typeset[0].config.displayMode, true);
 });
 
+test('renders multiline list equations, bare environments and double-escaped delimiters', async () => {
+  const answer = [
+    '1. Calculamos la fuerza $$',
+    String.raw`\begin{aligned} F &= m a \\`,
+    '',
+    String.raw`&= 12\,\mathrm{N} \end{aligned}`,
+    '$$',
+    '2. Comprobamos el resultado.',
+    '',
+    String.raw`\begin{align*} F &= 12\,\mathrm{N} \end{align*}`,
+    '',
+    String.raw`También \\(F=ma\\) y \\[ F = 12\,\mathrm{N} \\].`,
+  ].join('\n');
+  const ui = setup({ endpoint: '/api/tutor', answer });
+  await ui.submit('Calcula la fuerza');
+  const content = ui.elements['.notes-tutor-messages'].childNodes[1].childNodes[1];
+  assert.equal(content.childNodes[0].tagName, 'OL');
+  assert.equal(content.childNodes[0].childElementCount, 2);
+  assert.deepEqual(ui.typeset.map(({ tex, config }) => [tex, config.displayMode]), [
+    [answer.split('$$')[1].trim(), true],
+    [String.raw`\begin{align*} F &= 12\,\mathrm{N} \end{align*}`, true],
+    ['F=ma', false],
+    [String.raw`F = 12\,\mathrm{N}`, true],
+  ]);
+});
+
+test('renders Markdown tables with maths, escaped separators and plain HTML text', async () => {
+  const answer = [
+    'Comparamos magnitudes',
+    'Magnitud | Expresión | Nota',
+    ':--- | :---: | ---:',
+    String.raw`| Fuerza \| peso | $|F|=ma$ | **N** |`,
+    '| Distancia | `a|b` | <img src=x onerror=alert(1)> |',
+    '- El resultado usa unidades del SI.',
+    '',
+    '````markdown',
+    '| A | B |',
+    '| --- | --- |',
+    '| $x$ | $y$ |',
+    '`````',
+  ].join('\r\n');
+  const ui = setup({ endpoint: '/api/tutor', answer });
+  await ui.submit('Compara las magnitudes');
+  const content = ui.elements['.notes-tutor-messages'].childNodes[1].childNodes[1];
+  const wrapper = content.childNodes[1];
+  assert.equal(wrapper.className, 'notes-tutor-table');
+  const [head, body] = wrapper.childNodes[0].childNodes;
+  assert.equal(head.tagName, 'THEAD');
+  const headings = head.childNodes[0].childNodes;
+  assert.deepEqual(headings.map((cell) => cell.attributes.scope), ['col', 'col', 'col']);
+  assert.deepEqual(headings.map((cell) => cell.attributes['data-align']), ['left', 'center', 'right']);
+  const [first, second] = body.childNodes.map((row) => row.childNodes);
+  assert.equal(first[0].textContent, 'Fuerza | peso');
+  assert.equal(second[1].childNodes[1].tagName, 'CODE');
+  assert.equal(second[1].textContent, 'a|b');
+  assert.equal(second[2].childElementCount, 0);
+  assert.equal(second[2].textContent, '<img src=x onerror=alert(1)>');
+  assert.equal(content.childNodes[2].tagName, 'UL');
+  assert.equal(content.childNodes[3].tagName, 'PRE');
+  assert.deepEqual(ui.typeset.map(({ tex }) => tex), ['|F|=ma']);
+});
+
 test('keeps the TeX when KaTeX fails to load', async () => {
   const ui = setup({ endpoint: '/api/tutor', answer: '\\(F = ma\\)', failMath: true });
   await ui.submit('Explica la ecuación');
@@ -337,6 +399,25 @@ test('streaming displays text before completion and typesets math only at the en
   assert.equal(ui.elements.textarea.disabled, false);
   assert.equal(ui.elements.textarea.value, '');
   assert.equal(ui.typeset.length, 1);
+});
+
+test('a Markdown table can arrive in fragments during streaming', async () => {
+  const stream = streamingResponse();
+  const ui = setup({ endpoint: '/api/tutor', fetch: async () => stream.response });
+  await ui.submit('Compara las magnitudes');
+  stream.send({ type: 'delta', text: '| Magnitud | Fórmula |\n| ---' });
+  await settle();
+  const content = ui.elements['.notes-tutor-messages'].childNodes[1].childNodes[1];
+  assert.equal(content.childNodes[0].tagName, 'P');
+  stream.send({ type: 'delta', text: ' | --- |\n| Fuerza | $F=' });
+  stream.send({ type: 'delta', text: 'ma$ |' });
+  await settle(); ui.flush();
+  assert.equal(content.childNodes[0].className, 'notes-tutor-table');
+  assert.deepEqual(ui.mathImports, []);
+  stream.send({ type: 'done', truncated: false }); stream.close();
+  await settle(); ui.flush();
+  assert.equal(content.childNodes[0].className, 'notes-tutor-table');
+  assert.deepEqual(ui.typeset.map(({ tex }) => tex), ['F=ma']);
 });
 
 test('stream truncation preserves the response and shows the length notice', async () => {
