@@ -18,7 +18,7 @@
     <div class="article-sidebars">
       <div class="article-sidebars-sticky">
         {{ if $has_tutor }}
-          {{ partial "notes_tutor.html" . }}
+          {{ partial "notes_tutor.html" (dict "page" . "content" $content) }}
         {{ end }}
         <aside class="article-toc d-none d-xl-block" aria-labelledby="article-toc-title">
           <div class="article-toc-inner">
@@ -56,7 +56,7 @@
   </div>
   {{ else }}
   {{ if $has_tutor }}
-    {{ partial "notes_tutor.html" . }}
+    {{ partial "notes_tutor.html" (dict "page" . "content" $content) }}
   {{ end }}
   <div class="article-container">
 

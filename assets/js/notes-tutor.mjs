@@ -30,6 +30,18 @@ function* replyLines(text) {
   if (start < text.length) yield { line: text.slice(start) };
 }
 
+function limitContext(markdown) {
+  const limit = 12000;
+  if (markdown.length <= limit) return markdown;
+  let lastLine = 0;
+  for (const token of markdown.matchAll(blockTokens)) {
+    if (token.index > limit) break;
+    if (token[0] === '\n') lastLine = token.index;
+  }
+  // Use a complete Markdown line when possible, including a complete table row.
+  return markdown.slice(0, lastLine || limit).trimEnd();
+}
+
 function tableCells(line) {
   if (!line?.includes('|') || bulletMarker.test(line) || headingMarker.test(line) || /^\s*>/.test(line)) return null;
   const cells = [];
@@ -91,26 +103,27 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     return copy.textContent.trim();
   }
 
-  // Match headings against the TeX retained in the Hugo-generated context.
-  let offset = 0;
+  const introduction = { title: data.title, index: 0, level: 1, path: [data.title] };
+  const headings = new Map(Array.from(article.querySelectorAll('h2[id], h3[id], h4[id], h5[id], h6[id]'),
+    (heading) => [heading.id, heading]));
   const ancestors = [];
-  const sections = Array.from(article.querySelectorAll('h2, h3, h4, h5, h6')).map((heading) => {
+  const sections = data.sections.flatMap(({ id, level }, index) => {
+    const heading = headings.get(id);
+    if (!heading) return [];
     const title = headingSource(heading);
-    const level = Number(heading.tagName.slice(1));
-    const start = data.content.indexOf(title, offset);
-    if (start >= 0) offset = start + title.length;
     while (ancestors.length && ancestors[ancestors.length - 1].level >= level) ancestors.pop();
     const path = [data.title, ...ancestors.map((item) => item.title), title].filter((item, index, items) => item !== items[index - 1]);
     ancestors.push({ title, level });
-    return { heading, title, start, level, path };
-  }).filter((item) => item.start >= 0);
+    return [{ heading, title, index, level, path }];
+  });
+  const firstSection = data.sections[0].markdown ? introduction : sections[0] || introduction;
 
   function currentSection() {
-    let current = sections[0];
+    let current = firstSection;
     for (const item of sections) {
-      if (item.heading.getBoundingClientRect().top <= 180) current = item;
+      if (item.heading.getClientRects().length && item.heading.getBoundingClientRect().top <= 180) current = item;
     }
-    return current || { title: data.title, start: 0, level: 2, path: [data.title] };
+    return current;
   }
 
   function updateContext() {
@@ -128,7 +141,7 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     text = text.trim().slice(0, 4000);
     if (!text || text === selectedText) return;
     selectedText = text;
-    selectedSection = currentSection();
+    selectedSection = firstSection;
     for (const item of sections) {
       if (item.heading.contains(range.startContainer) || (item.heading.compareDocumentPosition(range.startContainer) & 4)) selectedSection = item;
     }
@@ -424,8 +437,10 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     const text = question.value.trim();
     if (!endpoint || controller || !text) return;
     updateContext();
-    const next = sections.find((item) => item.start > section.start && item.level <= section.level);
-    const context = data.content.slice(section.start, next?.start).slice(0, 12000);
+    const end = data.sections.findIndex((item, index) => index > section.index && item.level <= section.level);
+    const markdown = data.sections.slice(section.index, end < 0 ? undefined : end)
+      .map((item) => item.markdown).filter(Boolean).join('\n\n');
+    const context = limitContext(markdown) || data.title;
     const message = addMessage('user', text);
     const requestGeneration = generation;
     const requestController = new AbortController();

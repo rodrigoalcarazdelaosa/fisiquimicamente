@@ -96,11 +96,12 @@ de bots. Para un lanzamiento con mucho tráfico puede añadirse Turnstile.
 
 Cada pregunta envía título, URL, idioma, etiquetas, apartado, hasta 12 000 caracteres
 de contexto, hasta 4000 caracteres seleccionados y los últimos seis mensajes.
-El contexto es texto extraído por Hugo con `.Plain | htmlUnescape`, no el Markdown
-original. Conserva las fórmulas TeX y el texto visible, pero no el marcado original
-ni los archivos de imagen. La URL de la página se envía como metadato: el Worker
-no visita esa URL ni descarga sus imágenes. El modelo recibe instrucciones para
-pedir una descripción si una pregunta depende de una figura que no puede ver.
+Hugo convierte el apunte renderizado en Markdown durante la compilación. El JSON
+identifica cada apartado por su ancla y conserva los encabezados, las listas, las
+tablas, las fórmulas TeX y el texto generado por los shortcodes. El navegador descarga
+el JSON al abrir el tutor y envía el Markdown del apartado activo y sus subapartados.
+La URL de la página se envía como metadato. El modelo recibe texto y pide una
+descripción si la respuesta depende de una figura que no puede ver.
 
 La pregunta admite 1200 caracteres y la generación está limitada a 3072 tokens.
 Se piden explicaciones de unas 150–250 palabras por defecto, con margen para
