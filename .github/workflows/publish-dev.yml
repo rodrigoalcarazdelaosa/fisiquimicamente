@@ -32,11 +32,11 @@ jobs:
         env:
           HUGOxLANGUAGESxESxBASEURL: https://dev.fisiquimicamente.com/
           HUGOxPARAMSxNOTES_TUTORxENABLED: "false"
+          HUGOxPARAMSxSECURITYxNOINDEX: "true"
           HUGOxPARAMSxPDF_EMBED_API_KEY: ${{ secrets.PDF_EMBED_API_KEY_ES }}
         run: |
           source get_last_commit_hash.sh
           hugo --gc --minify
-          printf '\n/*\n  X-Robots-Tag: noindex\n' >> public/es/_headers
 
       - name: Publicar la edición española de dev
         uses: cloudflare/wrangler-action@v4

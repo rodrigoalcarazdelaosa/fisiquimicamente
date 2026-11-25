@@ -90,6 +90,7 @@ notes_tutor:
   endpoint: "https://fisiquimicamente-notes-tutor.fisiquimicamente.workers.dev/api/tutor"
 
 security:
+  noindex: false
   csp:
     policy: >-
       base-uri 'self'; object-src 'none'; frame-ancestors 'none';
