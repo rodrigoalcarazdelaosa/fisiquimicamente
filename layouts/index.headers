@@ -6,6 +6,7 @@
 {{- $permissions_policy := site.Params.security.permissions.policy | default $default_perms -}}
 # Cloudflare Pages headers
 /*
+  {{if site.Params.security.noindex}}X-Robots-Tag: noindex{{end}}
   {{if not $allow_frame}}X-Frame-Options: DENY{{end}}
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
