@@ -30,12 +30,14 @@
         {{- $isSVG := eq $img.MediaType.SubType "svg" -}}
         {{- $isGIF := eq $img.MediaType.SubType "gif" -}}
         {{- if $isSVG | or $isGIF -}}
+          {{- $size := partial "functions/figure_image_size.html" (dict "image" $img "width" $width "height" $height) -}}
           <img alt="{{ $alt }}"
            src="{{ $img.RelPermalink }}"
            loading="lazy"
            {{- if $zoom }} data-zoomable{{end}}
-           {{- with $width }} width="{{.}}"{{end}}
-           {{- with $height }} height="{{.}}"{{end}}
+           {{- with $size.width }} width="{{ . }}"{{ end }}
+           {{- with $size.height }} height="{{ . }}"{{ end }}
+           {{- with $size.style }} style="{{ . | safeCSS }}"{{ end }}
            {{- with $img_class }} class="{{.}}"{{end}} />
         {{- else }}
           {{- $img_lg := $img.Fit "1200x1200 webp" -}}
