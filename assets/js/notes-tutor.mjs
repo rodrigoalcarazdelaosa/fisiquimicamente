@@ -1,3 +1,63 @@
+const mathTokens = [
+  String.raw`(?<![\\$])\$\$(?<dollarBlock>[\s\S]*?)\$\$`,
+  String.raw`(?<!\\)(?<bracketSlashes>\\{1,2})\[(?<bracketBlock>[\s\S]*?)(?<!\\)\k<bracketSlashes>\]`,
+  String.raw`(?<!\\)(?<parenSlashes>\\{1,2})\((?<parenMath>[\s\S]*?)(?<!\\)\k<parenSlashes>\)`,
+  String.raw`(?<![\\$])\$(?!\$)(?<dollarMath>(?:\\[^\n]|[^\\$\n])+?)\$(?![\d$])`,
+  String.raw`(?<!\\)(?<environment>\\begin\{(?<name>(?:align|alignat|equation|gather)\*?|aligned|alignedat|gathered|split|cases|CD)\}[\s\S]*?\\end\{\k<name>\})`,
+];
+const codeToken = String.raw`(?<!\x60)(?<ticks>\x60+)(?!\x60)(?<inlineCode>[^\n]+?)(?<!\x60)\k<ticks>(?!\x60)`;
+const opaqueTokens = [...mathTokens, codeToken, String.raw`(?<escapedPipe>\\\|)`].join('|');
+const inlineTokens = new RegExp(opaqueTokens + String.raw`|\*\*[^*\n]+\*\*|\*[^*\n]+\*`, 'g');
+const rowTokens = new RegExp(opaqueTokens + String.raw`|\|`, 'g');
+const blockTokens = new RegExp(String.raw`^[ \t]*(?<fence>(?<fenceChar>\x60|~)\k<fenceChar>{2,})(?!\k<fenceChar>)[^\n]*(?:\n|$)(?<code>[\s\S]*?)(?:^[ \t]*\k<fence>\k<fenceChar>*[ \t]*(?=\n|$)|(?![\s\S]))|`
+  + opaqueTokens + '|\n', 'gm');
+const bulletMarker = /^\s*([-*+]|\d+[.)])\s+/;
+const headingMarker = /^#{1,6}\s+/;
+
+// Keep newlines inside TeX and code out of Markdown block detection.
+function* replyLines(text) {
+  let start = 0;
+  for (const match of text.matchAll(blockTokens)) {
+    if (match.groups.fence) {
+      yield { code: match.groups.code.replace(/\n$/, '') };
+    } else if (match[0] === '\n') {
+      yield { line: text.slice(start, match.index) };
+    } else {
+      continue;
+    }
+    start = match.index + match[0].length;
+  }
+  if (start < text.length) yield { line: text.slice(start) };
+}
+
+function limitContext(markdown) {
+  const limit = 12000;
+  if (markdown.length <= limit) return markdown;
+  let lastLine = 0;
+  for (const token of markdown.matchAll(blockTokens)) {
+    if (token.index > limit) break;
+    if (token[0] === '\n') lastLine = token.index;
+  }
+  // Use a complete Markdown line when possible, including a complete table row.
+  return markdown.slice(0, lastLine || limit).trimEnd();
+}
+
+function tableCells(line) {
+  if (!line?.includes('|') || bulletMarker.test(line) || headingMarker.test(line) || /^\s*>/.test(line)) return null;
+  const cells = [];
+  let start = 0;
+  for (const match of line.matchAll(rowTokens)) {
+    if (match[0] !== '|') continue;
+    cells.push(line.slice(start, match.index).trim());
+    start = match.index + 1;
+  }
+  if (!cells.length) return null;
+  cells.push(line.slice(start).trim());
+  if (cells[0] === '') cells.shift();
+  if (cells.at(-1) === '') cells.pop();
+  return cells.length ? cells : null;
+}
+
 export default function initNotesTutor(root, data, environment = globalThis, importMath = (url) => import(url)) {
   const { window, document, fetch, AbortController, setTimeout, clearTimeout } = environment;
   const article = document.querySelector('.article-style');
@@ -43,26 +103,27 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     return copy.textContent.trim();
   }
 
-  // Match headings against the TeX retained in the Hugo-generated context.
-  let offset = 0;
+  const introduction = { title: data.title, index: 0, level: 1, path: [data.title] };
+  const headings = new Map(Array.from(article.querySelectorAll('h2[id], h3[id], h4[id], h5[id], h6[id]'),
+    (heading) => [heading.id, heading]));
   const ancestors = [];
-  const sections = Array.from(article.querySelectorAll('h2, h3, h4, h5, h6')).map((heading) => {
+  const sections = data.sections.flatMap(({ id, level }, index) => {
+    const heading = headings.get(id);
+    if (!heading) return [];
     const title = headingSource(heading);
-    const level = Number(heading.tagName.slice(1));
-    const start = data.content.indexOf(title, offset);
-    if (start >= 0) offset = start + title.length;
     while (ancestors.length && ancestors[ancestors.length - 1].level >= level) ancestors.pop();
     const path = [data.title, ...ancestors.map((item) => item.title), title].filter((item, index, items) => item !== items[index - 1]);
     ancestors.push({ title, level });
-    return { heading, title, start, level, path };
-  }).filter((item) => item.start >= 0);
+    return [{ heading, title, index, level, path }];
+  });
+  const firstSection = data.sections[0].markdown ? introduction : sections[0] || introduction;
 
   function currentSection() {
-    let current = sections[0];
+    let current = firstSection;
     for (const item of sections) {
-      if (item.heading.getBoundingClientRect().top <= 180) current = item;
+      if (item.heading.getClientRects().length && item.heading.getBoundingClientRect().top <= 180) current = item;
     }
-    return current || { title: data.title, start: 0, level: 2, path: [data.title] };
+    return current;
   }
 
   function updateContext() {
@@ -80,7 +141,7 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     text = text.trim().slice(0, 4000);
     if (!text || text === selectedText) return;
     selectedText = text;
-    selectedSection = currentSection();
+    selectedSection = firstSection;
     for (const item of sections) {
       if (item.heading.contains(range.startContainer) || (item.heading.compareDocumentPosition(range.startContainer) & 4)) selectedSection = item;
     }
@@ -120,10 +181,9 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     }
   }
 
-  async function renderFormula(node, token, displayMode) {
+  async function renderFormula(node, source, displayMode) {
     if (!root.dataset.katexUrl) return;
-    const delimiterLength = token.startsWith('\\') || displayMode ? 2 : 1;
-    const source = token.slice(delimiterLength, -delimiterLength).trim();
+    const fallback = node.textContent;
     const needsChemistry = /\\(?:ce|pu)\b/.test(source);
     try {
       katexModule ??= importMath(root.dataset.katexUrl).catch((error) => {
@@ -151,17 +211,18 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
         accent.style.fontSize = '.68em';
       }
     } catch {
-      node.textContent = token;
+      node.textContent = fallback;
     }
   }
 
   // Build a small Markdown subset with DOM nodes; model output is never HTML.
   function appendInline(parent, text, renderMath) {
-    const tokens = /(\$\$[\s\S]*?\$\$|\\\[[\s\S]*?\\\]|\$[^\n$]+?\$|\\\([\s\S]*?\\\)|`[^`\n]+`|\*\*[^*\n]+\*\*|\*[^*\n]+\*)/g;
     let start = 0;
-    for (const match of text.matchAll(tokens)) {
+    for (const match of text.matchAll(inlineTokens)) {
       parent.append(document.createTextNode(text.slice(start, match.index)));
       const token = match[0];
+      const { inlineCode, escapedPipe, dollarBlock, bracketBlock, environment, parenMath, dollarMath } = match.groups;
+      const display = dollarBlock ?? bracketBlock ?? environment;
       let node;
       if (token.startsWith('**')) {
         node = document.createElement('strong');
@@ -169,15 +230,18 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
       } else if (token.startsWith('*')) {
         node = document.createElement('em');
         appendInline(node, token.slice(1, -1), renderMath);
-      } else if (token.startsWith('`')) {
+      } else if (inlineCode !== undefined) {
         node = document.createElement('code');
-        node.textContent = token.slice(1, -1);
+        node.textContent = inlineCode;
+      } else if (escapedPipe) {
+        node = document.createTextNode('|');
       } else {
         node = document.createElement('span');
         node.textContent = token;
-        const displayMode = token.startsWith('$$') || token.startsWith('\\[');
+        const displayMode = display !== undefined;
         if (displayMode) node.className = 'notes-tutor-display-math';
-        if (renderMath) renderFormula(node, token, displayMode);
+        const source = (display ?? parenMath ?? dollarMath).trim();
+        if (renderMath && source) renderFormula(node, source, displayMode);
       }
       parent.append(node);
       start = match.index + token.length;
@@ -185,12 +249,38 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     parent.append(document.createTextNode(text.slice(start)));
   }
 
+  function appendTable(parent, header, separators, rows, renderMath) {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'notes-tutor-table';
+    wrapper.setAttribute('tabindex', '0');
+    const table = document.createElement('table');
+    const head = document.createElement('thead');
+    const body = document.createElement('tbody');
+    const alignments = separators.map((separator) => {
+      if (separator.endsWith(':')) return separator.startsWith(':') ? 'center' : 'right';
+      return 'left';
+    });
+    const appendRow = (section, values, tag) => {
+      const row = document.createElement('tr');
+      for (let column = 0; column < header.length; column += 1) {
+        const cell = document.createElement(tag);
+        if (tag === 'th') cell.setAttribute('scope', 'col');
+        cell.setAttribute('data-align', alignments[column]);
+        appendInline(cell, values[column] ?? '', renderMath);
+        row.append(cell);
+      }
+      section.append(row);
+    };
+    appendRow(head, header, 'th');
+    for (const row of rows) appendRow(body, row, 'td');
+    table.append(head, body);
+    wrapper.append(table);
+    parent.append(wrapper);
+  }
+
   function formatReply(parent, text, renderMath) {
     let paragraph = [];
     let list = null;
-    let mathEnd = null;
-    let inCode = false;
-    let code = [];
     const flush = () => {
       if (!paragraph.length) return;
       const p = document.createElement('p');
@@ -198,35 +288,36 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
       parent.append(p);
       paragraph = [];
     };
-    const flushCode = () => {
-      const pre = document.createElement('pre');
-      const content = document.createElement('code');
-      content.textContent = code.join('\n');
-      pre.append(content);
-      parent.append(pre);
-      code = [];
-    };
-    for (const line of text.replace(/\r\n/g, '\n').split('\n')) {
-      if (line.trim().startsWith('```') && !mathEnd) {
+    const lines = [...replyLines(text.replace(/\r\n?/g, '\n'))];
+    for (let index = 0; index < lines.length; index += 1) {
+      const { line, code } = lines[index];
+      if (code !== undefined) {
         flush(); list = null;
-        if (inCode) flushCode();
-        inCode = !inCode;
+        const pre = document.createElement('pre');
+        const content = document.createElement('code');
+        content.textContent = code;
+        pre.append(content);
+        parent.append(pre);
         continue;
-      }
-      if (inCode) { code.push(line); continue; }
-      if (mathEnd) {
-        paragraph.push(line);
-        if (line.includes(mathEnd)) mathEnd = null;
-        continue;
-      }
-      if (line.includes('$$') || line.includes('\\[')) {
-        const delimiter = line.includes('$$') ? '$$' : '\\[';
-        const end = delimiter === '$$' ? '$$' : '\\]';
-        if (!line.slice(line.indexOf(delimiter) + delimiter.length).includes(end)) mathEnd = end;
       }
       if (!line.trim()) { flush(); list = null; continue; }
-      const bullet = line.match(/^\s*([-*+]|\d+[.)])\s+(.+)$/);
-      if (bullet) {
+      const nextLine = lines[index + 1]?.line;
+      const separators = /^[|:\- \t]+$/.test(nextLine) ? tableCells(nextLine) : null;
+      const header = separators && tableCells(line);
+      if (header && header.length === separators.length && separators.every((cell) => /^:?-+:?$/.test(cell))) {
+        flush(); list = null;
+        index += 1;
+        const rows = [];
+        let cells;
+        while ((cells = tableCells(lines[index + 1]?.line))) {
+          rows.push(cells);
+          index += 1;
+        }
+        appendTable(parent, header, separators, rows, renderMath);
+        continue;
+      }
+      const bullet = line.match(bulletMarker);
+      if (bullet && line.length > bullet[0].length) {
         flush();
         const tag = /^\d/.test(bullet[1]) ? 'ol' : 'ul';
         if (!list || list.tagName.toLowerCase() !== tag) {
@@ -235,13 +326,13 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
           parent.append(list);
         }
         const item = document.createElement('li');
-        appendInline(item, bullet[2], renderMath);
+        appendInline(item, line.slice(bullet[0].length), renderMath);
         list.append(item);
-      } else if (/^#{1,6}\s/.test(line)) {
+      } else if (headingMarker.test(line)) {
         flush(); list = null;
         const p = document.createElement('p');
         const strong = document.createElement('strong');
-        appendInline(strong, line.replace(/^#{1,6}\s+/, ''), renderMath);
+        appendInline(strong, line.replace(headingMarker, ''), renderMath);
         p.append(strong);
         parent.append(p);
       } else {
@@ -250,7 +341,6 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
       }
     }
     flush();
-    if (inCode) flushCode();
   }
 
   function addMessage(role, text) {
@@ -347,8 +437,10 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     const text = question.value.trim();
     if (!endpoint || controller || !text) return;
     updateContext();
-    const next = sections.find((item) => item.start > section.start && item.level <= section.level);
-    const context = data.content.slice(section.start, next?.start).slice(0, 12000);
+    const end = data.sections.findIndex((item, index) => index > section.index && item.level <= section.level);
+    const markdown = data.sections.slice(section.index, end < 0 ? undefined : end)
+      .map((item) => item.markdown).filter(Boolean).join('\n\n');
+    const context = limitContext(markdown) || data.title;
     const message = addMessage('user', text);
     const requestGeneration = generation;
     const requestController = new AbortController();

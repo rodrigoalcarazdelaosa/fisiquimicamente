@@ -1,10 +1,11 @@
+{{ $page := .page }}
 {{ $strings := dict }}
 {{ range slice "title" "close" "intro" "reading" "selected" "clear_selection" "conversation" "question" "placeholder" "send" "privacy" "reset" "pending" "thinking" "error" "unavailable" "rate_limit" "timeout" "truncated" "interrupted" "you" "assistant" "pin" "unpin" "suggest_simple" "suggest_example" "privacy_title" }}
   {{ $strings = merge $strings (dict . (i18n (printf "notes_tutor_%s" .))) }}
 {{ end }}
 {{ $endpoint := site.Params.notes_tutor.endpoint | default "" }}
-{{ $data := dict "endpoint" $endpoint "title" .Title "url" .Permalink "language" .Lang "tags" (.Params.tags | default slice) "content" (partial "functions/plain_content.html" .) "strings" $strings }}
-{{ $context := resources.FromString (printf "tutor/%s/%s.json" .Lang (md5 .RelPermalink)) ($data | jsonify) | fingerprint }}
+{{ $data := dict "endpoint" $endpoint "title" $page.Title "url" $page.Permalink "language" $page.Lang "tags" ($page.Params.tags | default slice) "sections" (partial "functions/notes_tutor_sections.html" .) "strings" $strings }}
+{{ $context := resources.FromString (printf "tutor/%s/%s.json" $page.Lang (md5 $page.RelPermalink)) ($data | jsonify) | fingerprint }}
 {{ $script := resources.Get "js/notes-tutor.mjs" | minify | fingerprint }}
 {{ $panelCSS := resources.Get "scss/_notes-tutor.scss" | toCSS (dict "targetPath" "css/notes-tutor.css" "outputStyle" "compressed") }}
 {{ $styles := resources.FromString "css/notes-tutor.css" (printf "@layer components { %s }" $panelCSS.Content) | minify | fingerprint }}
@@ -24,7 +25,7 @@
       <p class="notes-tutor-intro">{{ $strings.intro }}</p>
       <div class="notes-tutor-context">
         <span class="notes-tutor-context-label">{{ $strings.reading }}</span>
-        <strong class="notes-tutor-section">{{ .Title }}</strong>
+      <strong class="notes-tutor-section">{{ $page.Title }}</strong>
         <button class="notes-tutor-pin" type="button" aria-pressed="false">{{ $strings.pin }}</button>
         <details class="notes-tutor-selection-details" hidden>
           <summary>{{ $strings.selected }}</summary>
