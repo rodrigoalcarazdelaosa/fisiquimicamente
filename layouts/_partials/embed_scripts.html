@@ -3,13 +3,19 @@
   <script type="module" src="{{ partial "functions/script_url.html" $js.liteYouTube }}" integrity="{{ $js.liteYouTube.sri }}" crossorigin="anonymous"></script>
 {{ end }}
 {{ if .Page.Store.Get "has_deferred_content" }}
+  {{ $annotation := resources.Get $js.chartAnnotation.path | fingerprint }}
+  {{ $sankey := resources.Get $js.chartSankey.path | fingerprint }}
   {{ $params := dict
-    "chartURL" (partial "functions/script_url.html" $js.chartJs)
-    "annotationURL" (partial "functions/script_url.html" $js.chartAnnotation)
-    "googleURL" $js.googleCharts.url "googleChannel" $js.googleCharts.channel
+    "chart" (dict "url" (partial "functions/script_url.html" $js.chartJs) "integrity" $js.chartJs.sri)
+    "chartAnnotation" (dict "url" $annotation.RelPermalink "integrity" $annotation.Data.Integrity)
+    "chartSankey" (dict "url" $sankey.RelPermalink "integrity" $sankey.Data.Integrity)
     "widgets" (dict "codePen" $js.codePen.url "imgur" $js.imgur.url "h5pResizer" $js.h5pResizer.url) }}
   {{ $content := resources.Get "js/deferred-content.js" | js.Build (dict "params" $params "minify" true) | fingerprint }}
   <script type="module" src="{{ $content.RelPermalink }}"></script>
+{{ end }}
+{{ if .Page.Store.Get "has_sankey" }}
+  {{ $styles := resources.Get "css/chart-sankey.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 {{ end }}
 {{ if .Page.Store.Get "has_deferred_embeds" }}
   {{ $params := dict "adobeURL" $js.adobePdf.url "widgetsURL" $js.xWidgets.url }}

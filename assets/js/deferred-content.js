@@ -1,11 +1,15 @@
-import {chartURL, annotationURL, googleURL, googleChannel, widgets} from '@params';
+import {chart, chartAnnotation, chartSankey, widgets} from '@params';
 
 const scripts = new Map();
-function loadScript(url) {
+function loadScript({url, integrity}) {
   if (!scripts.has(url)) {
     const request = new Promise((resolve, reject) => {
       const script = document.createElement('script');
       script.src = url;
+      if (integrity) {
+        script.integrity = integrity;
+        script.crossOrigin = 'anonymous';
+      }
       script.onload = resolve;
       script.onerror = () => {
         script.remove();
@@ -21,21 +25,26 @@ function loadScript(url) {
   return scripts.get(url);
 }
 
-let sankey;
 async function loadChartLibrary(target) {
+  await loadScript(chart);
   if (target.dataset.chartKind === 'sankey') {
-    return sankey ??= loadScript(googleURL).then(async () => {
-      const google = window.google;
-      await google.charts.load(googleChannel, {packages: ['sankey']});
-      return google;
-    }).catch(error => {
-      sankey = undefined;
-      throw error;
-    });
+    await loadScript(chartSankey);
   }
-  await loadScript(chartURL);
-  if (target.hasAttribute('data-chart-annotation')) await loadScript(annotationURL);
+  if (target.hasAttribute('data-chart-annotation')) await loadScript(chartAnnotation);
   return window.Chart;
+}
+
+function fitChart(chart, printView) {
+  const container = chart.canvas.parentElement;
+  const resize = () => {
+    const {clientWidth: width, clientHeight: height} = container;
+    if (width && height && (chart.width !== width || chart.height !== height)) {
+      chart.resize(width, height);
+    }
+  };
+  // Reveal scales the slide with a transform. Chart.js needs its unscaled dimensions.
+  resize();
+  if (!printView && 'ResizeObserver' in window) new ResizeObserver(resize).observe(container);
 }
 
 const selector = '[data-chart-src], [data-deferred-widget]';
@@ -59,10 +68,10 @@ function initContent() {
           import(target.dataset.chartSrc), loadChartLibrary(target),
         ]);
         if (!canRender(target)) return;
-        draw(target, library);
+        fitChart(draw(target, library, printView), printView);
       } else {
         const frame = target.querySelector('iframe[data-widget-src]');
-        await loadScript(widgets[target.dataset.deferredWidget]).finally(() => {
+        await loadScript({url: widgets[target.dataset.deferredWidget]}).finally(() => {
           if (frame && !frame.hasAttribute('src')) frame.src = frame.dataset.widgetSrc;
         });
       }

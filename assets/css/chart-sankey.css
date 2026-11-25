@@ -1,0 +1,27 @@
+.sankey-tooltip {
+  position: absolute;
+  z-index: 1;
+  box-sizing: border-box;
+  max-inline-size: min(100%, 34rem);
+  padding: .5rem .75rem;
+  border: 1px solid #d8dee9;
+  border-radius: .25rem;
+  color: #2e3440;
+  background: #eceff4;
+  box-shadow: 0 .15rem .5rem #2e344026;
+  font: 16px/1.25 "EB Garamond", Georgia, serif;
+  text-align: start;
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+  pointer-events: none;
+}
+
+.sankey-tooltip[hidden] {
+  display: none;
+}
+
+@media print {
+  .sankey-tooltip {
+    display: none;
+  }
+}
