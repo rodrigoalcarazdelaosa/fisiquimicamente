@@ -13,6 +13,8 @@ const blockTokens = new RegExp(String.raw`^[ \t]*(?<fence>(?<fenceChar>\x60|~)\k
   + opaqueTokens + '|\n', 'gm');
 const bulletMarker = /^\s*([-*+]|\d+[.)])\s+/;
 const headingMarker = /^#{1,6}\s+/;
+const tableDivider = /^(?:[|:\s\p{Pd}−]|\\\|)+$/u;
+const tableRule = /^:?\s*[\p{Pd}−]+\s*:?$/u;
 
 // Keep newlines inside TeX and code out of Markdown block detection.
 function* replyLines(text) {
@@ -42,14 +44,14 @@ function limitContext(markdown) {
   return markdown.slice(0, lastLine || limit).trimEnd();
 }
 
-function tableCells(line) {
+function tableCells(line, escapedDelimiters = false) {
   if (!line?.includes('|') || bulletMarker.test(line) || headingMarker.test(line) || /^\s*>/.test(line)) return null;
   const cells = [];
   let start = 0;
   for (const match of line.matchAll(rowTokens)) {
-    if (match[0] !== '|') continue;
+    if (match[0] !== '|' && !(escapedDelimiters && match.groups.escapedPipe)) continue;
     cells.push(line.slice(start, match.index).trim());
-    start = match.index + 1;
+    start = match.index + match[0].length;
   }
   if (!cells.length) return null;
   cells.push(line.slice(start).trim());
@@ -256,7 +258,8 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
     const table = document.createElement('table');
     const head = document.createElement('thead');
     const body = document.createElement('tbody');
-    const alignments = separators.map((separator) => {
+    const alignments = header.map((_, column) => {
+      const separator = separators[column] || '';
       if (separator.endsWith(':')) return separator.startsWith(':') ? 'center' : 'right';
       return 'left';
     });
@@ -266,7 +269,9 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
         const cell = document.createElement(tag);
         if (tag === 'th') cell.setAttribute('scope', 'col');
         cell.setAttribute('data-align', alignments[column]);
-        appendInline(cell, values[column] ?? '', renderMath);
+        const value = column === header.length - 1 && values.length > header.length
+          ? values.slice(column).join(' | ') : values[column] ?? '';
+        appendInline(cell, value, renderMath);
         row.append(cell);
       }
       section.append(row);
@@ -302,14 +307,17 @@ export default function initNotesTutor(root, data, environment = globalThis, imp
       }
       if (!line.trim()) { flush(); list = null; continue; }
       const nextLine = lines[index + 1]?.line;
-      const separators = /^[|:\- \t]+$/.test(nextLine) ? tableCells(nextLine) : null;
-      const header = separators && tableCells(line);
-      if (header && header.length === separators.length && separators.every((cell) => /^:?-+:?$/.test(cell))) {
+      const escapedDelimiters = nextLine?.includes('\\|');
+      const separators = tableDivider.test(nextLine) ? tableCells(nextLine, escapedDelimiters) : null;
+      const header = separators?.every((cell) => tableRule.test(cell)) && tableCells(line, escapedDelimiters);
+      // A complete data row can confirm the column count when the model writes a short divider.
+      if (header && (header.length === separators.length
+        || header.length === tableCells(lines[index + 2]?.line, escapedDelimiters)?.length)) {
         flush(); list = null;
         index += 1;
         const rows = [];
         let cells;
-        while ((cells = tableCells(lines[index + 1]?.line))) {
+        while ((cells = tableCells(lines[index + 1]?.line, escapedDelimiters))) {
           rows.push(cells);
           index += 1;
         }
