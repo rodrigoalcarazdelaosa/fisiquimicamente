@@ -200,9 +200,9 @@ las conversaciones ni las escribe en registros; sí las envía a Cloudflare para
 responder. La interfaz lo indica antes de enviar la consulta. Cancelar la espera
 en el navegador no garantiza que una inferencia iniciada se detenga en el servidor.
 
-Las respuestas admiten párrafos, listas numeradas y con viñetas, negrita, cursiva
-y código. Ese formato se construye con nodos del DOM sin interpretar HTML del
-modelo. KaTeX renderiza las fórmulas LaTeX en MathML con `trust: false` y límites
+Las respuestas admiten párrafos, listas numeradas y con viñetas, negrita, cursiva,
+código y tablas Markdown. El tutor construye ese formato con nodos del DOM.
+KaTeX renderiza las fórmulas LaTeX en MathML con `trust: false` y límites
 de expansión. El tutor conserva el TeX si falla la descarga o el renderizado.
 Si la cuota se agota o falla el proveedor, el panel muestra que el servicio no
 está disponible y conserva la pregunta para volver a intentarlo.
