@@ -7,6 +7,8 @@
   version = "0.19.1"
   url = "https://cdn.jsdelivr.net/npm/katex@%s/dist/katex.mjs"
   mhchem_url = "https://cdn.jsdelivr.net/npm/katex@%s/dist/contrib/mhchem.mjs"
+  sri = "sha384-GvCRcStQrfyc+34IuG1fjioExIQybgNb2LE8MN8smGRkbJ+oEzxvGlUBA309Nj9I"
+  mhchem_sri = "sha384-hUJkSJCKmim3g1SZ9xRW7KUNgExE7tNIxsiFuql+TwNPMeXw4kN4HSu6LeLqPnc0"
 [js.isotope]
   version = "3.0.6"
   sri = "sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew=="
@@ -15,6 +17,7 @@
 [js.lottiePlayer]
   version = "2.0.12"
   url = "https://unpkg.com/@lottiefiles/lottie-player@%s/dist/tgs-player.js"
+  sri = "sha384-G01Tu4fd6JvBzfNjfevcacmjeMCThD61GPpaObjN+0xWikTx/A/XQXzEEk9i31tY"
   content_source = "//unpkg.com/@lottiefiles/lottie-player@latest/dist/tgs-player.js"
 [js.photoSwipe]
   version = "5.4.4"
@@ -25,6 +28,8 @@
 [js.reveal]
   version = "6.0.2"
   url = "https://cdn.jsdelivr.net/npm/reveal.js@%s"
+  sri = "sha384-UilXW7W77EPIY5TmQGBrjhBPcfX40NqGwuIC8DGs6OeGTCxKy36B+DiOXtfqgk9S"
+  css_sri = "sha384-rKClnwfQQ2b7LYSOAhRvm5m4LS7QKciQTAXBpVvr30y6oGB+ZBBXlpDnvFqlv5Eu"
 [js.liteYouTube]
   version = "1.9.0"
   url = "https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@%s/lite-youtube.min.js"
@@ -50,6 +55,7 @@
 [js.modelViewer]
   version = "4.4.0"
   url = "https://unpkg.com/@google/model-viewer@%s/dist/model-viewer.min.js"
+  sri = "sha384-wjsPzEO+lXOf7d9csIDfAQpPt2OKuUU3m0K9qsdKIuzX4N8czSF6hdh23eAbZa3p"
 
 # Local copies of third-party scripts.
 

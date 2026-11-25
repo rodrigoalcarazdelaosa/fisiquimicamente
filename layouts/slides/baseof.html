@@ -23,7 +23,7 @@
   <title>{{ .Title }} | {{ site.Title }}</title>
 
   {{/* Load Reveal CSS */}}
-  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/reveal.css">
+  <link rel="stylesheet" href="{{ $cdn_url_reveal }}/dist/reveal.css" integrity="{{ $js.reveal.css_sri }}" crossorigin="anonymous">
   {{- $theme := $.Param "slides.theme" | default "black" -}}
   {{ if eq $theme "white" }}
     {{ $white := resources.Get "css/libs/reveal/white.css" | minify | fingerprint }}
@@ -78,7 +78,7 @@
   {{ block "main" . }}{{ end }}
 
   {{/* Load Reveal. */}}
-  <script src="{{ $cdn_url_reveal }}/dist/reveal.js" crossorigin="anonymous"></script>
+  <script src="{{ $cdn_url_reveal }}/dist/reveal.js" integrity="{{ $js.reveal.sri }}" crossorigin="anonymous"></script>
 
   {{/* Initialize slides. */}}
   {{ $params := dict "slides" $.Params.slides }}

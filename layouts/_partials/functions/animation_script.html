@@ -1,2 +1,3 @@
-{{- $params := dict "playerURL" (partial "functions/script_url.html" hugo.Data.assets.js.lottiePlayer) -}}
+{{- $asset := hugo.Data.assets.js.lottiePlayer -}}
+{{- $params := dict "playerURL" (partial "functions/script_url.html" $asset) "integrity" $asset.sri -}}
 {{- return (resources.Get "js/tgs-players.js" | js.Build (dict "params" $params "minify" true) | fingerprint) -}}

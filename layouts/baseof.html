@@ -16,7 +16,7 @@
 
   {{ partial "search" . }}
 
-  <div class="page-header header--fixed"{{ if and $show_navbar $hide_header }} data-hide-on-scroll{{ end }}>
+  <header class="page-header header--fixed"{{ if and $show_navbar $hide_header }} data-hide-on-scroll{{ end }}>
   {{/* Load header block */}}
   {{ $block_name := .Params.header.navbar.block | default site.Params.header.navbar.block | default "navbar" }}
   {{ $block_path := printf "components/headers/%s.html" $block_name }}
@@ -27,9 +27,9 @@
   {{ if and $show_navbar $hide_header }}
     <template data-header-breadcrumb>{{ partial "components/breadcrumb" . }}</template>
   {{ end }}
-  </div>
+  </header>
 
-  <div class="page-body">
+  <div class="page-body"{{ if ne .Type "book" }} role="main"{{ end }}>
     {{/* Breadcrumb */}}
     {{/* Don't apply to Book layout as that has different breadcrumb placement. */}}
     {{ if .Params.show_breadcrumb | and (ne .Type "book") }}

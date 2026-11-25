@@ -10,13 +10,13 @@
 {{ if $block.Params.hero_media }}
 <div class="hero-layout justify-content-center">
   {{ with $block.Title }}
-  <div class="hero-brand">
+  <h1 class="hero-brand">
   {{ $brand := urlize $block.Title }}
   {{ with resources.Get (printf "media/logo-%s.svg" $brand) }}
     {{ $src := partial "functions/fingerprinted_image_url" (dict "path" (path.Base .Name) "resource" .) }}
-    <img draggable="false" class="brand-{{ $brand }}" alt="{{ $brand }}" src="{{ $src }}" width="100%" id="{{ $brand }}">
+    <img draggable="false" class="brand-{{ $brand }}" alt="{{ $block.Title }}" src="{{ $src }}" width="100%" id="{{ $brand }}">
   {{ end }}
-  </div>
+  </h1>
     {{ end }}
   <div class="text-center text-md-left">
 {{ end }}
@@ -66,6 +66,7 @@
       {{ if strings.Contains $label $original }}
         {{ $src := partial "functions/social_icon_url" . }}
         {{ $label = replace $label $original (printf `src="%s"` $src) }}
+        {{ $label = replace $label (printf `alt="%s"` .) `alt=""` }}
       {{ end }}
     {{ end }}
     <p class="hero-note text-muted mb-3 mb-md-1">

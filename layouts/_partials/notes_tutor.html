@@ -54,4 +54,5 @@
   </section>
 </aside>
 {{ $bootstrap := resources.Get "js/notes-tutor-loader.mjs" | minify | fingerprint }}
+{{ printf "<script type=\"importmap\">%s</script>" (partial "functions/tutor_math_importmap.html" .) | safeHTML }}
 <script src="{{ $bootstrap.RelPermalink }}" type="module"></script>
