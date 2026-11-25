@@ -17,6 +17,7 @@ image:
   caption: "https://commons.wikimedia.org/wiki/File:Graphen.jpg"
 
 quizdown: true
+quizdown_loading: eager-first
 ---
 
 {{% callout thread %}}
