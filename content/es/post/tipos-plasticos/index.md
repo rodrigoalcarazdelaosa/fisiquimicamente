@@ -33,6 +33,7 @@ links:
   url: tipos-plasticos-poster.pdf  
 
 quizdown: true
+quizdown_loading: lazy
 ---
 
 {{% callout note %}}

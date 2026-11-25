@@ -1,4 +1,5 @@
 @use "../../nord";
+@use "../../theme";
 
 /*************************************************
  *  Author profile card
@@ -13,6 +14,7 @@
   margin-top: 0;
   margin-bottom: 15px;
   font-weight: 600;
+  font-size: 1.15rem;
   color: rgba(nord.$nord0, 0.84);
 }
 
@@ -37,6 +39,15 @@
   font-size: 0.8rem;
   color: nord.$nord3;
   margin-bottom: 7px;
+}
+
+.author-card :is(.card-title, .card-subtitle) {
+  font-family: theme.$font-heading, sans-serif;
+  line-height: 1.25;
+}
+
+.author-card .card-text a {
+  text-decoration: underline;
 }
 
 .dark .author-card .card-subtitle {

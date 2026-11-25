@@ -88,3 +88,33 @@ pdf_embed_api_key:
 notes_tutor:
   enabled: true
   endpoint: "https://fisiquimicamente-notes-tutor.fisiquimicamente.workers.dev/api/tutor"
+
+security:
+  noindex: false
+  csp:
+    enforce_scripts: false
+    policy: >-
+      base-uri 'self'; object-src 'none'; frame-ancestors 'none';
+      form-action 'self' https://formspree.io
+    # Secondary scripts loaded by the providers, including CodePen's redirect.
+    script_sources:
+      - https://platform.x.com/widgets.js
+      - https://documentcloud.adobe.com/view-sdk/
+      - https://public.codepenassets.com/embed/
+      - https://imgur.com/min/embed-controller.js
+    report_policy: >-
+      manifest-src 'self';
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net;
+      font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net data:;
+      img-src 'self' https: data: blob:;
+      media-src 'self' https: blob: data:;
+      connect-src 'self' https://counterscale.fisiquimicamente.workers.dev
+      https://fisiquimicamente-notes-tutor.fisiquimicamente.workers.dev https://cdn.jsdelivr.net
+      https://www.gstatic.com https://documentcloud.adobe.com https://*.adobe.io;
+      frame-src 'self' https://phet.colorado.edu https://player.vimeo.com https://giphy.com
+      https://tenor.com https://view.genial.ly https://www.ivoox.com https://open.spotify.com
+      https://www.youtube.com https://www.youtube-nocookie.com https://cedec.intef.es
+      https://tabla-periodica-colabora-8dea0.web.app https://*.twitter.com https://*.x.com
+      https://codepen.io https://imgur.com https://www.imgur.com https://documentcloud.adobe.com
+      https://*.adobe.com blob:;
+      worker-src 'self' blob:;

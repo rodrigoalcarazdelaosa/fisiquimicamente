@@ -24,6 +24,10 @@
   translation: Anterior
 - id: next
   translation: Següent
+- id: main_navigation
+  translation: Navegació principal
+- id: phet_simulation
+  translation: Simulació PhET
 - id: figure
   translation: "Figura %d:"
 - id: edit_page

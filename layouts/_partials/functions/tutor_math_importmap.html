@@ -1,0 +1,4 @@
+{{- $asset := hugo.Data.assets.js.kaTeX -}}
+{{- $katex := partial "functions/script_url.html" $asset -}}
+{{- $mhchem := printf $asset.mhchem_url $asset.version -}}
+{{- return (dict "integrity" (dict $katex $asset.sri $mhchem $asset.mhchem_sri) | jsonify) -}}

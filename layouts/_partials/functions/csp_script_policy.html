@@ -1,0 +1,39 @@
+{{- $theme := resources.Get "js/theme-init.js" | js.Build (dict "minify" hugo.IsProduction) | fingerprint "sha256" -}}
+{{- $tutor := resources.FromString "js/tutor-math-importmap.json" (partial "functions/tutor_math_importmap.html" .page) | fingerprint "sha256" -}}
+{{- $quiz := resources.FromString "js/quizdown-inline-init.js" (partial "functions/quizdown_inline_init.html" .page) | fingerprint "sha256" -}}
+{{- $sources := slice "'self'" "'wasm-unsafe-eval'" -}}
+{{- range slice $theme $tutor $quiz -}}
+  {{- $sources = $sources | append (printf "'%s'" .Data.Integrity) -}}
+{{- end -}}
+
+{{/* The optics simulator is also usable as a single downloaded HTML file. */}}
+{{- $simulator := os.ReadFile "static/recursos-fisica-quimica/apuntes/2bach/fisica/optica/transporte-de-luz.html" | replaceRE "\\r\\n?" "\n" -}}
+{{- range $index, $script := findRESubmatch `(?s)<script\b[^>]*>(.*?)</script>` $simulator -}}
+  {{- $resource := resources.FromString (printf "csp/optics-%d.js" $index) (index $script 1) | fingerprint "sha256" -}}
+  {{- $sources = $sources | append (printf "'%s'" $resource.Data.Integrity) -}}
+{{- end -}}
+
+{{- $js := hugo.Data.assets.js -}}
+{{- $urls := site.Params.security.csp.script_sources | default slice -}}
+{{- range $name, $dependency := $js -}}
+  {{- if $dependency.url -}}
+    {{- $url := partial "functions/script_url.html" $dependency -}}
+    {{- if eq $name "reveal" -}}
+      {{- $url = printf "%s/dist/reveal.js" $url -}}
+    {{- end -}}
+    {{- $urls = $urls | append $url -}}
+  {{- end -}}
+{{- end -}}
+{{- $urls = $urls | append (printf $js.kaTeX.mhchem_url $js.kaTeX.version) -}}
+{{- if not .enforce -}}
+  {{/* In the baseline report, use origins to fit Cloudflare's per-line limit. */}}
+  {{- $origins := slice -}}
+  {{- range $urls -}}
+    {{- $url := urls.Parse . -}}
+    {{- $origins = $origins | append (printf "%s://%s" $url.Scheme $url.Host) -}}
+  {{- end -}}
+  {{- $urls = $origins -}}
+{{- end -}}
+{{- $sources = $sources | append (sort (uniq $urls)) -}}
+{{- $handler := resources.FromString "csp/deferred-stylesheet.js" "this.media='all'" | fingerprint "sha256" -}}
+{{- return (printf "script-src %s; script-src-attr 'unsafe-hashes' '%s';" (delimit $sources " ") $handler.Data.Integrity) -}}

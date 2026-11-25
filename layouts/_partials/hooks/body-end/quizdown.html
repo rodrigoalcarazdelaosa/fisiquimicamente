@@ -1,17 +1,12 @@
 {{ if .Params.quizdown }}
   {{ $asset := hugo.Data.assets.js.quizdown }}
-  <script src="{{ partial "functions/script_url.html" $asset }}" integrity="{{ $asset.sri }}" crossorigin="anonymous"></script>
-  <script>
-    let config = {
-	    startOnLoad: true,		 // detect and convert all divs with class quizdown
-      shuffleAnswers: true,		 // shuffle answers for each question
-      shuffleQuestions: false,    // shuffle questions for each quiz
-      nQuestions: 20,
-      primaryColor: '#88C0D0',  // primary CSS color
-      secondaryColor: '#EBCB8B',  // secondary CSS color
-      textColor: '#2E3440',      // text color of some elements
-      locale: null                 // language of the user interface (auto-detect per default)
-    };
-    quizdown.init(config);
-  </script>
+  {{ $url := partial "functions/script_url.html" $asset }}
+  {{ if .Params.quizdown_loading }}
+    {{ $params := dict "url" $url "integrity" $asset.sri "options" (partial "functions/quizdown_options.html" .) "eagerFirst" (eq .Params.quizdown_loading "eager-first") }}
+    {{ $quizdown := resources.Get "js/lazy-quizdown.js" | js.Build (dict "params" $params "minify" true) | fingerprint }}
+    <script type="module" src="{{ $quizdown.RelPermalink }}"></script>
+  {{ else }}
+    <script src="{{ $url }}" integrity="{{ $asset.sri }}" crossorigin="anonymous"></script>
+    <script>{{ partial "functions/quizdown_inline_init.html" . | safeJS }}</script>
+  {{ end }}
 {{ end }}
