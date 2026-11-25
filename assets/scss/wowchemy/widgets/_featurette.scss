@@ -56,6 +56,15 @@
   transform: scale(1.2);
 }
 
-.featurette-icon span a:hover {
+.featurette-link {
+  display: block;
+}
+
+.featurette-link:hover,
+.featurette-icon a:hover {
   text-decoration: none;
+}
+
+.featurette-link:hover .section-subheading {
+  text-decoration: underline;
 }

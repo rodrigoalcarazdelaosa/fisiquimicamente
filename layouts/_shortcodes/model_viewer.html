@@ -19,8 +19,9 @@
       data-loading="{{ .Get "loading" }}" data-retry="{{ .Get "retry" }}">{{ .Get "label" }}</button>
   </model-viewer>
 
-  {{- $libraryURL := partial "functions/script_url.html" hugo.Data.assets.js.modelViewer -}}
-  {{- $script := resources.Get "js/model-viewer.js" | js.Build (dict "params" (dict "libraryURL" $libraryURL) "minify" true) | fingerprint -}}
+  {{- $asset := hugo.Data.assets.js.modelViewer -}}
+  {{- $params := dict "libraryURL" (partial "functions/script_url.html" $asset) "integrity" $asset.sri -}}
+  {{- $script := resources.Get "js/model-viewer.js" | js.Build (dict "params" $params "minify" true) | fingerprint -}}
   <script type="module" src="{{ $script.RelPermalink }}"></script>
 {{- else -}}
   {{- errorf "Model viewer source or poster not found at %s" .Position -}}

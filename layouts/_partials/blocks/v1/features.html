@@ -27,28 +27,37 @@
   {{ if in (slice "fab" "fas" "far" "fal") $pack }}
     {{ $pack_prefix = "fa" }}
   {{ end }}
-  {{ $link := .icon_link }}
+  {{ $link := .icon_link | default "" }}
+  {{ $title := .name | markdownify | emojify }}
+  {{ $opening := printf `<a href="%s">` (htmlEscape $link) }}
+  {{ $sharedLink := and $link (hasPrefix $title $opening) (hasSuffix $title "</a>") (eq (len (findRE "</a>" $title)) 1) }}
   <div>
+    {{ if $sharedLink }}<a class="featurette-link" href="{{ $link }}">{{ end }}
     {{ with .icon }}
     <div class="featurette-icon">
+      {{ if and $link (not $sharedLink) }}<a href="{{ $link }}" aria-label="{{ $title | plainify | htmlUnescape }}">{{ end }}
+      <span aria-hidden="true">
       {{- if eq $pack "emoji" -}}
-        <span>{{- . | markdownify | emojify -}}</span>
+        {{- . | markdownify | emojify -}}
       {{- else if eq $pack "custom" -}}
         {{- $svg_icon := resources.Get (printf "media/icons/%s.svg" .) -}}
-        {{- if $svg_icon -}}<span><a href="{{$link}}"><img src="{{ $svg_icon.RelPermalink }}" alt="{{.}}" class="svg-icon svg-baseline" loading="lazy"></a></span>{{- end -}}
+        {{- if $svg_icon -}}<img src="{{ $svg_icon.RelPermalink }}" alt="" class="svg-icon svg-baseline" loading="lazy">{{- end -}}
       {{- else if eq $pack "lottie" -}}
         {{- $lottie_animation := resources.Get (printf "media/lottie/%s.json" .) -}}
-        {{- if $lottie_animation -}}<span><a {{if $link}}href="{{$link}}"{{end}}><lottie-player autoplay loop mode="normal" data-src="{{ $lottie_animation.RelPermalink }}" {{ partial "functions/animation_dark_attr.html" (dict "animation" $lottie_animation) }} class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></lottie-player></a></span>
+        {{- if $lottie_animation -}}<lottie-player autoplay loop mode="normal" data-src="{{ $lottie_animation.RelPermalink }}" {{ partial "functions/animation_dark_attr.html" (dict "animation" $lottie_animation) }} class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></lottie-player>
         {{- end -}}
       {{- else if eq $pack "tgs" -}}
         {{- $tgs_sticker := resources.Get (printf "media/lottie/%s.tgs" .) -}}
-        {{- if $tgs_sticker -}}<span><a {{if $link}}href="{{$link}}"{{end}}><tgs-player autoplay loop mode="normal" data-src="{{ $tgs_sticker.RelPermalink }}" {{ partial "functions/animation_dark_attr.html" (dict "animation" $tgs_sticker) }} class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></tgs-player></a></span>{{- end -}}
+        {{- if $tgs_sticker -}}<tgs-player autoplay loop mode="normal" data-src="{{ $tgs_sticker.RelPermalink }}" {{ partial "functions/animation_dark_attr.html" (dict "animation" $tgs_sticker) }} class="svg-icon svg-baseline" style="max-width: 100%; vertical-align: middle;" id="{{ printf "%s" . }}"></tgs-player>{{- end -}}
       {{- else -}}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>
       {{- end -}}
+      </span>
+      {{ if and $link (not $sharedLink) }}</a>{{ end }}
     </div>
     {{ end }}
-    <div class="section-subheading">{{ .name | markdownify | emojify }}</div>
+    <div class="section-subheading">{{ if $sharedLink }}{{ $title | strings.TrimPrefix $opening | strings.TrimSuffix "</a>" | safeHTML }}{{ else }}{{ $title }}{{ end }}</div>
+    {{ if $sharedLink }}</a>{{ end }}
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}

@@ -27,8 +27,8 @@
     {{ end }}
 
     <div class="media-body">
-      <h5 class="card-title">{{if $profile_url}}<a href="{{$profile_url}}">{{end}}{{$author_page.Title}}{{if $profile_url}}</a>{{end}}</h5>
-      {{ with $author_page.Params.role }}<h6 class="card-subtitle">{{. | markdownify | emojify}}</h6>{{end}}
+      <div class="card-title">{{if $profile_url}}<a href="{{$profile_url}}">{{end}}{{$author_page.Title}}{{if $profile_url}}</a>{{end}}</div>
+      {{ with $author_page.Params.role }}<div class="card-subtitle">{{. | markdownify | emojify}}</div>{{end}}
       {{ with $author_page.Params.bio }}<p class="card-text">{{. | markdownify | emojify}}</p>{{end}}
       {{ partial "social_links" (dict "page" $author_page) }}
     </div>

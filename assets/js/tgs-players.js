@@ -1,4 +1,4 @@
-import {playerURL} from '@params';
+import {playerURL, integrity} from '@params';
 import {respectReducedMotion} from './player-motion';
 
 const deck = window.Reveal;
@@ -75,6 +75,8 @@ function initPlayers() {
     if (playerScript) return;
     playerScript = document.createElement('script');
     playerScript.src = playerURL;
+    playerScript.integrity = integrity;
+    playerScript.crossOrigin = 'anonymous';
     playerScript.onload = updateVisible;
     playerScript.onerror = () => {
       playerScript.remove();

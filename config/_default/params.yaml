@@ -88,3 +88,30 @@ pdf_embed_api_key:
 notes_tutor:
   enabled: true
   endpoint: "https://fisiquimicamente-notes-tutor.fisiquimicamente.workers.dev/api/tutor"
+
+security:
+  csp:
+    policy: >-
+      base-uri 'self'; object-src 'none'; frame-ancestors 'none';
+      form-action 'self' https://formspree.io
+    report_policy: >-
+      default-src 'self';
+      script-src 'self' {inline_hashes} 'wasm-unsafe-eval' https://cdn.jsdelivr.net https://unpkg.com
+      https://counterscale.fisiquimicamente.workers.dev https://platform.twitter.com https://platform.x.com
+      https://documentcloud.adobe.com https://static.codepen.io https://s.imgur.com https://www.imgur.com
+      https://cedec.intef.es;
+      script-src-attr 'unsafe-hashes' 'sha256-MhtPZXr7+LpJUY5qtMutB+qWfQtMaPccfe7QXtCcEYc=';
+      style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net;
+      font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net data:;
+      img-src 'self' https: data: blob:;
+      media-src 'self' https: blob: data:;
+      connect-src 'self' https://counterscale.fisiquimicamente.workers.dev
+      https://fisiquimicamente-notes-tutor.fisiquimicamente.workers.dev https://cdn.jsdelivr.net
+      https://www.gstatic.com https://documentcloud.adobe.com https://*.adobe.io;
+      frame-src 'self' https://phet.colorado.edu https://player.vimeo.com https://giphy.com
+      https://tenor.com https://view.genial.ly https://www.ivoox.com https://open.spotify.com
+      https://www.youtube.com https://www.youtube-nocookie.com https://cedec.intef.es
+      https://tabla-periodica-colabora-8dea0.web.app https://*.twitter.com https://*.x.com
+      https://codepen.io https://imgur.com https://www.imgur.com https://documentcloud.adobe.com
+      https://*.adobe.com blob:;
+      worker-src 'self' blob:;

@@ -89,8 +89,17 @@
 .carousel-control-next:focus {
   color: nord.$nord6;
   text-decoration: none;
-  outline: 0;
   opacity: 0.9;
+}
+
+.carousel :is(.carousel-control-prev, .carousel-control-next, [data-slide-to]):focus-visible {
+  outline: 3px solid nord.$nord0;
+  outline-offset: -3px;
+  box-shadow: inset 0 0 0 5px nord.$nord6;
+}
+
+.carousel .hero-lead {
+  line-height: inherit;
 }
 
 .carousel-control-prev { left: 0; }
@@ -127,13 +136,18 @@
 }
 
 .carousel-indicators li {
-  box-sizing: content-box;
   flex: 0 1 auto;
   width: 90px;
+  margin-inline: 3px;
+}
+
+.carousel-indicators button {
+  box-sizing: content-box;
+  display: block;
+  width: 100%;
   height: 9px;
-  margin-right: 3px;
-  margin-left: 3px;
-  text-indent: -999px;
+  padding: 0;
+  border: 0;
   cursor: pointer;
   background-color: theme.$primary;
   background-clip: padding-box;
@@ -144,7 +158,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .carousel-indicators li { transition: none; }
+  .carousel-indicators button { transition: none; }
 }
 
 .carousel-indicators .active { opacity: 1; }

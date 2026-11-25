@@ -41,6 +41,12 @@
 - id: next
   translation: Next
 
+- id: main_navigation
+  translation: Main navigation
+
+- id: phet_simulation
+  translation: PhET simulation
+
 - id: figure
   translation: "Figure %d:"
 
