@@ -54,138 +54,20 @@ The following plot shows the **altitude** of the Falcon 9, in km, as a function 
 [^4]: To put this data into perspective, it takes a commercial plane about 10 minutes to reach its cruising altitude, which is about 10$\thinspace$km. In other words, in half the time, the Falcon 9 is capable of reaching an altitude about 20 times higher than the cruising altitude of a commercial plane.
 
 {{< deferred_chart id="h-t" annotation="true" series="js/charts/spacex-series.js" >}}
-const h = target.getContext('2d');
-
-	new Chart(h, {
-	  type: 'line',
-	  data: {
-	    datasets: [{
-	      data: series.hSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-	      backgroundColor: '#2a54a9',
-	      borderColor: '#2a54a9',
-	      fill: false,
-	      //              pointRadius: 10,
-	      //              pointHoverRadius: 15,
-	      showLine: false // no line shown
-	    }]
-	  },
-	  options: {
-	    scales: {
-	      xAxes: [{
-	        type: "linear",
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        afterFit: function(scale) {
-	          scale.height = 80 //<-- set value as you wish 
-	        },
-	        scaleLabel: {
-	          display: true,
-	          labelString: 'Time (min)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          fontSize: 16,
-	          fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          max: 12,
-	          min: 0,
-	          stepSize: 1.0,
-	          padding: 10
-	        }
-	      }],
-	      yAxes: [{
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        scaleLabel: {
-	          display: true,
-	          labelString: 'Altitude (km)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          beginAtZero: true,
-	          fontSize: 16,
-			  fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          padding: 10,
-	          stepSize: 50,
-	          suggestedMax: 250,
-	          suggestedMin: 0
-	        }
-	      }]
-
-	    },
-	    legend: {
-	      display: false
-	    },
-	  annotation: {
-		  annotations: [
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "2.6",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",						  
-	                content: "MECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          },
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "8.93333333333333",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",
-	                content: "SECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          }					  
-	      ]
-	  }
-	  }
-	});
+return {
+  datasets: [
+    {
+      data: series.hSeries.map(([x, y]) => ({x, y})),
+      backgroundColor: "#2a54a9",
+      borderColor: "#2a54a9",
+      fill: false,
+      showLine: false,
+    },
+  ],
+  x: {title: "Time (min)", height: 80, max: 12, min: 0, ticks: {stepSize: 1}},
+  y: {title: "Altitude (km)", beginAtZero: true, suggestedMax: 250, suggestedMin: 0, ticks: {stepSize: 50}},
+  annotations: [[2.6,"MECO"],[8.93333333333333,"SECO"]],
+};
 {{< /deferred_chart >}}
 	
 The altitude rises rapidly during the first two minutes approximately (until minute 2.6), surpassing the 75$\thinspace$km of altitude, when the nine [Merlin](https://en.wikipedia.org/wiki/SpaceX_Merlin) engines of the Falcon 9 shut down, instant that is known as **MECO** (Main Engine Cutoff) [^5].
@@ -204,138 +86,20 @@ The following plot shows the **speed** of the Falcon 9, in km/h, as a function o
 [^6]: Again to put this data into perspective, it takes a commercial plane about 10 minutes to reach its cruising speed, which is about 900$\thinspace$km/h. In other words, in the same time, the Falcon 9 is capable of reaching a speed about 30 times higher than the cruising speed of a commercial plane.
 
 {{< deferred_chart id="v-t" annotation="true" series="js/charts/spacex-series.js" >}}
-const v = target.getContext('2d');
-
-	new Chart(v, {
-	  type: 'line',
-	  data: {
-	    datasets: [{
-	      data: series.vSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-	      backgroundColor: '#2a54a9',
-	      borderColor: '#2a54a9',
-	      fill: false,
-	      //              pointRadius: 10,
-	      //              pointHoverRadius: 15,
-	      showLine: false // no line shown
-	    }]
-	  },
-	  options: {
-	    scales: {
-	      xAxes: [{
-	        type: "linear",
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        afterFit: function(scale) {
-	          scale.height = 80 //<-- set value as you wish 
-	        },
-	        scaleLabel: {
-	          display: true,
-	          labelString: 'Time (min)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          fontSize: 16,
-	          fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          max: 12,
-	          min: 0,
-	          stepSize: 1.0,
-	          padding: 10
-	        }
-	      }],
-	      yAxes: [{
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        scaleLabel: {
-	          display: true,
-			  labelString: 'Speed (km/h)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          beginAtZero: true,
-	          fontSize: 16,
-			  fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          padding: 10,
-			  stepSize: 5000,
-			  suggestedMax: 30000,
-			  suggestedMin: 0,
-	        }
-	      }]
-
-	    },
-	    legend: {
-	      display: false
-	    },
-	  annotation: {
-		  annotations: [
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "2.6",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",						  
-	                content: "MECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          },
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "8.93333333333333",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",
-	                content: "SECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          }					  
-	      ]
-	  }
-	  }
-	});
+return {
+  datasets: [
+    {
+      data: series.vSeries.map(([x, y]) => ({x, y})),
+      backgroundColor: "#2a54a9",
+      borderColor: "#2a54a9",
+      fill: false,
+      showLine: false,
+    },
+  ],
+  x: {title: "Time (min)", height: 80, max: 12, min: 0, ticks: {stepSize: 1}},
+  y: {title: "Speed (km/h)", beginAtZero: true, suggestedMax: 30000, suggestedMin: 0, ticks: {stepSize: 5000}},
+  annotations: [[2.6,"MECO"],[8.93333333333333,"SECO"]],
+};
 {{< /deferred_chart >}}
 	
 The **speed increases** in a **non-linear** way, reaching 6724$\thinspace$km/h, more than 5 times the speed of sound in air [^7], in the **MECO**. It is observed that at that moment the speed is even reduced, until the Merlin Vacuum engine of the second stage is started and accelerates the Dragon with a similar tendency as it had done during the first stage.
@@ -371,138 +135,20 @@ From the speed values it is possible to obtain the **tangential acceleration** o
 The following plot shows the **acceleration** of the Falcon 9, in m/s<sup>2</sup>, as a function of the elapsed time, in minutes:
 
 {{< deferred_chart id="a-t" annotation="true" series="js/charts/spacex-series.js" >}}
-const a = target.getContext('2d');
-
-	new Chart(a, {
-	  type: 'line',
-	  data: {
-	    datasets: [{
-	      data: series.aSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-	      backgroundColor: '#2a54a9',
-	      borderColor: '#2a54a9',
-	      fill: false,
-	      //              pointRadius: 10,
-	      //              pointHoverRadius: 15,
-	      showLine: false // no line shown
-	    }]
-	  },
-	  options: {
-	    scales: {
-	      xAxes: [{
-	        type: "linear",
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        afterFit: function(scale) {
-	          scale.height = 80 //<-- set value as you wish 
-	        },
-	        scaleLabel: {
-	          display: true,
-	          labelString: 'Time (min)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          fontSize: 16,
-	          fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          max: 12,
-	          min: 0,
-	          stepSize: 1.0,
-	          padding: 10
-	        }
-	      }],
-	      yAxes: [{
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        scaleLabel: {
-	          display: true,
-			  labelString: 'Acceleration (m/s²)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          beginAtZero: true,
-	          fontSize: 16,
-			  fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          padding: 10,
-			  stepSize: 5.0,						  
-			  suggestedMax: 40,
-			  suggestedMin: -10
-	        }
-	      }]
-
-	    },
-	    legend: {
-	      display: false
-	    },
-	  annotation: {
-		  annotations: [
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "2.6",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",						  
-	                content: "MECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          },
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "8.93333333333333",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",
-	                content: "SECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          }					  
-	      ]
-	  }
-	  }
-	});
+return {
+  datasets: [
+    {
+      data: series.aSeries.map(([x, y]) => ({x, y})),
+      backgroundColor: "#2a54a9",
+      borderColor: "#2a54a9",
+      fill: false,
+      showLine: false,
+    },
+  ],
+  x: {title: "Time (min)", height: 80, max: 12, min: 0, ticks: {stepSize: 1}},
+  y: {title: "Acceleration (m/s²)", beginAtZero: true, suggestedMax: 40, suggestedMin: -10, ticks: {stepSize: 5}},
+  annotations: [[2.6,"MECO"],[8.93333333333333,"SECO"]],
+};
 {{< /deferred_chart >}}
 	
 It is clear that the **acceleration** is **not constant**, increasing until **MECO**, when it even takes negative values (remember that [speed is reduced](#speed)). Then it increases again to values above 30$\thinspace$m/s<sup>2</sup> (more than three times the acceleration of gravity on the surface of the Earth), until **SECO**, when the tangential acceleration vanishes because there is no longer any engine powering the ship.
@@ -515,9 +161,7 @@ The following plot shows again the *empirical* **acceleration** of the rocket, o
 [^9]: Actually, two different averages have been taken, before and after the **SECO**, due to the importance and influence that moment has on the ship's movement.
 
 {{< deferred_chart id="a-t-MRUV" annotation="true" series="js/charts/spacex-series.js" >}}
-const aMRUV = target.getContext('2d');
-
-	const aMRUVSeries = [
+const aMRUVSeries = [
 [  0.13333333,  14.11838312],
 [  0.35000000,  14.11838312],
 [  0.51666667,  14.11838312],
@@ -590,159 +234,33 @@ const aMRUV = target.getContext('2d');
 [ 11.68333333,   0.00000000],
 [ 11.85000000,   0.00000000],
 [ 12.01666667,   0.00000000],
-	];
-	new Chart(aMRUV, {
-	  type: 'line',
-	  data: {
-	    datasets: [
-			{
-	      data: series.aSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-		    label: '"Empiric"',				  
-		    backgroundColor: '#2a54a9',
-			borderColor: '#2a54a9',
-			fill: false,
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
-			showLine: false // no line shown
-	    },
-			{
-	      data: aMRUVSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-		    label: 'UVLM', 				  
-		    backgroundColor: '#b50000',
-			borderColor: '#b50000',
-			fill: false,
-			pointRadius: 0,
-		    pointStyle: 'line'
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
-	    }]
-	  },
-	  options: {
-	    scales: {
-	      xAxes: [{
-	        type: "linear",
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        afterFit: function(scale) {
-	          scale.height = 80 //<-- set value as you wish 
-	        },
-	        scaleLabel: {
-	          display: true,
-	          labelString: 'Time (min)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          fontSize: 16,
-	          fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          max: 12,
-	          min: 0,
-	          stepSize: 1.0,
-	          padding: 10
-	        }
-	      }],
-	      yAxes: [{
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        scaleLabel: {
-	          display: true,
-			  labelString: 'Acceleration (m/s²)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          beginAtZero: true,
-	          fontSize: 16,
-			  fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          padding: 10,
-			  stepSize: 5.0,						  
-			  suggestedMax: 40,
-			  suggestedMin: -10
-	        }
-	      }]
+];
 
-	    },
-      legend: {
-		  labels: {
-			  boxWidth: 10,
-			  usePointStyle: true,
-			  fontSize: 18,
-			  fontFamily: 'Cabin Sketch',
-			  fontColor: '#111111'
-		  }				  
-      },	
-	  annotation: {
-		  annotations: [
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "2.6",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",						  
-	                content: "MECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          },
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "8.93333333333333",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",
-	                content: "SECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          }					  
-	      ]
-	  }
-	  }
-	});
+return {
+  datasets: [
+    {
+      data: series.aSeries.map(([x, y]) => ({x, y})),
+      label: "\"Empiric\"",
+      backgroundColor: "#2a54a9",
+      borderColor: "#2a54a9",
+      fill: false,
+      showLine: false,
+    },
+    {
+      data: aMRUVSeries.map(([x, y]) => ({x, y})),
+      label: "UVLM",
+      backgroundColor: "#b50000",
+      borderColor: "#b50000",
+      fill: false,
+      pointRadius: 0,
+      pointStyle: "line",
+    },
+  ],
+  x: {title: "Time (min)", height: 80, max: 12, min: 0, ticks: {stepSize: 1}},
+  y: {title: "Acceleration (m/s²)", beginAtZero: true, suggestedMax: 40, suggestedMin: -10, ticks: {stepSize: 5}},
+  legend: {usePointStyle: true},
+  annotations: [[2.6,"MECO"],[8.93333333333333,"SECO"]],
+};
 {{< /deferred_chart >}}
 	
 The resulting average value of the acceleration before **SECO** is 14.1$\thinspace$m/s<sup>2</sup>, $\approx 1.4$ times higher (in module) than the acceleration of gravity on the Earth's surface (9.8$\thinspace$m/s<sup>2</sup>). This can be interpreted as that, on average, astronauts have spent almost 9 minutes experiencing something worse than a free fall, and on top of that, *upwards* 🙃 [^10].
@@ -764,9 +282,7 @@ where $h_0 = 0$, $v_0 = 0$ and $a = 14.1\thinspace$m/s<sup>2</sup>.
 In the following plot both the empirical **altitude** and the one calculated assuming an UVLM, during the first four minutes of the Falcon 9's ascent, are shown:
 
 {{< deferred_chart id="h-t-MRUV" annotation="true" series="js/charts/spacex-series.js" >}}
-const hMRUV = target.getContext('2d');
-
-	const hMRUVSeries = [
+const hMRUVSeries = [
 [  0.00000000,   0.00000000],
 [  0.26666667,   1.80715304],
 [  0.43333333,   4.77201350],
@@ -840,159 +356,33 @@ const hMRUV = target.getContext('2d');
 [ 11.76666667, 7196.05516785],
 [ 11.93333333, 7270.31786308],
 [ 12.10000000, 7344.58055831],
-	];
-	new Chart(hMRUV, {
-	  type: 'line',
-	  data: {
-	    datasets: [
-			{
-	      data: series.hSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-		    label: '"Empiric"',				  
-		    backgroundColor: '#2a54a9',
-			borderColor: '#2a54a9',
-			fill: false,
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
-			showLine: false // no line shown
-	    },
-			{
-	      data: hMRUVSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-		    label: 'UVLM', 				  
-		    backgroundColor: '#b50000',
-			borderColor: '#b50000',
-			fill: false,
-			pointRadius: 0,
-		    pointStyle: 'line'
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
-	    }]
-	  },
-	  options: {
-	    scales: {
-	      xAxes: [{
-	        type: "linear",
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        afterFit: function(scale) {
-	          scale.height = 80 //<-- set value as you wish 
-	        },
-	        scaleLabel: {
-	          display: true,
-	          labelString: 'Time (min)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          fontSize: 16,
-	          fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          max: 4,
-	          min: 0,
-	          stepSize: 0.5,
-	          padding: 10
-	        }
-	      }],
-	      yAxes: [{
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        scaleLabel: {
-	          display: true,
-	          labelString: 'Altitude (km)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          beginAtZero: true,
-	          fontSize: 16,
-			  fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          padding: 10,
-			  stepSize: 100,
-			  max: 400,
- 			  suggestedMin: 0
-	        }
-	      }]
+];
 
-	    },
-      legend: {
-		  labels: {
-			  boxWidth: 10,
-			  usePointStyle: true,
-			  fontSize: 18,
-			  fontFamily: 'Cabin Sketch',
-			  fontColor: '#111111'
-		  }				  
-      },	
-	  annotation: {
-		  annotations: [
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "2.6",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",						  
-	                content: "MECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          },
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "8.93333333333333",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",
-	                content: "SECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          }					  
-	      ]
-	  }
-	  }
-	});
+return {
+  datasets: [
+    {
+      data: series.hSeries.map(([x, y]) => ({x, y})),
+      label: "\"Empiric\"",
+      backgroundColor: "#2a54a9",
+      borderColor: "#2a54a9",
+      fill: false,
+      showLine: false,
+    },
+    {
+      data: hMRUVSeries.map(([x, y]) => ({x, y})),
+      label: "UVLM",
+      backgroundColor: "#b50000",
+      borderColor: "#b50000",
+      fill: false,
+      pointRadius: 0,
+      pointStyle: "line",
+    },
+  ],
+  x: {title: "Time (min)", height: 80, max: 4, min: 0, ticks: {stepSize: 0.5}},
+  y: {title: "Altitude (km)", beginAtZero: true, max: 400, suggestedMin: 0, ticks: {stepSize: 100}},
+  legend: {usePointStyle: true},
+  annotations: [[2.6,"MECO"],[8.93333333333333,"SECO"]],
+};
 {{< /deferred_chart >}}
 	
 The theoretical expression is only able to model the movement of the rocket during the first instants of time (already in the first minute of the ascent the theoretical expression has a relative error of almost 130$\thinspace$%).
@@ -1014,9 +404,7 @@ where $v_0 = 0$ and $a = 14.1\thinspace$m/s<sup>2</sup>.
 The following plot shows both the empirical and calculated **speed** assuming an UVLM and subsequent ULM:
 
 {{< deferred_chart id="v-t-MRUV" annotation="true" series="js/charts/spacex-series.js" >}}
-const vMRUV = target.getContext('2d');
-
-	const vMRUVSeries = [
+const vMRUVSeries = [
 [  0.00000000,   0.00000000],
 [  0.26666667, 813.21886792],
 [  0.43333333, 1321.48066038],
@@ -1090,159 +478,33 @@ const vMRUV = target.getContext('2d');
 [ 11.76666667, 26734.57028302],
 [ 11.93333333, 26734.57028302],
 [ 12.10000000, 26734.57028302],
-	];
-	new Chart(vMRUV, {
-	  type: 'line',
-	  data: {
-	    datasets: [
-			{
-	      data: series.vSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-		    label: '"Empiric"',				  
-		    backgroundColor: '#2a54a9',
-			borderColor: '#2a54a9',
-			fill: false,
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
-			showLine: false // no line shown
-	    },
-			{
-	      data: vMRUVSeries.map(datum => ({
-	        x: datum[0],
-	        y: datum[1]
-	      })),
-		    label: 'UVLM', 				  
-		    backgroundColor: '#b50000',
-			borderColor: '#b50000',
-			fill: false,
-			pointRadius: 0,
-		    pointStyle: 'line'
-// 				pointRadius: 10,
-// 				pointHoverRadius: 15,
-	    }]
-	  },
-	  options: {
-	    scales: {
-	      xAxes: [{
-	        type: "linear",
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        afterFit: function(scale) {
-	          scale.height = 80 //<-- set value as you wish 
-	        },
-	        scaleLabel: {
-	          display: true,
-	          labelString: 'Time (min)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          fontSize: 16,
-	          fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          max: 12,
-	          min: 0,
-	          stepSize: 1.0,
-	          padding: 10
-	        }
-	      }],
-	      yAxes: [{
-	        gridLines: {
-	          drawOnChartArea: false,
-	          color: "#111111"
-	        },
-	        scaleLabel: {
-	          display: true,
-			  labelString: 'Speed (km/h)',
-	          fontSize: 18,
-	          fontFamily: 'Cabin Sketch',
-	          fontColor: '#111111'
-	        },
-	        ticks: {
-	          beginAtZero: true,
-	          fontSize: 16,
-			  fontFamily: 'EB Garamond',
-	          fontColor: '#111111',
-	          padding: 10,
-			  stepSize: 5000,						  
-			  suggestedMax: 30000,
-			  suggestedMin: 0,
-	        }
-	      }]
+];
 
-	    },
-      legend: {
-		  labels: {
-			  boxWidth: 10,
-			  usePointStyle: true,
-			  fontSize: 18,
-			  fontFamily: 'Cabin Sketch',
-			  fontColor: '#111111'
-		  }				  
-      },	
-	  annotation: {
-		  annotations: [
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "2.6",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",						  
-	                content: "MECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          },
-			  {
-	              type: "line",
-	              mode: "vertical",
-	              scaleID: "x-axis-0",
-	              value: "8.93333333333333",
-	              borderColor: "#2a54a9",
-	              label: {
-					// Background color of label, default below
-					backgroundColor: '#BBCCEE',
-
-					// Font family of text, inherits from global
-					fontFamily: "Cabin Sketch",
-
-					// Font size of text, inherits from global
-					fontSize: 18,
-
-					// Font style of text, default below
-					fontStyle: "bold",
-
-					// Font color of text, default below
-					fontColor: "#111111",
-	                content: "SECO",
-	                enabled: true,
-	                position: "top"
-	              }
-	          }					  
-	      ]
-	  }
-	  }
-	});
+return {
+  datasets: [
+    {
+      data: series.vSeries.map(([x, y]) => ({x, y})),
+      label: "\"Empiric\"",
+      backgroundColor: "#2a54a9",
+      borderColor: "#2a54a9",
+      fill: false,
+      showLine: false,
+    },
+    {
+      data: vMRUVSeries.map(([x, y]) => ({x, y})),
+      label: "UVLM",
+      backgroundColor: "#b50000",
+      borderColor: "#b50000",
+      fill: false,
+      pointRadius: 0,
+      pointStyle: "line",
+    },
+  ],
+  x: {title: "Time (min)", height: 80, max: 12, min: 0, ticks: {stepSize: 1}},
+  y: {title: "Speed (km/h)", beginAtZero: true, suggestedMax: 30000, suggestedMin: 0, ticks: {stepSize: 5000}},
+  legend: {usePointStyle: true},
+  annotations: [[2.6,"MECO"],[8.93333333333333,"SECO"]],
+};
 {{< /deferred_chart >}}
 	
 It is observed that the theoretical expression overestimates the speed of the ship before **SECO** (with a maximum relative error of more than 300$\thinspace$%, for $t = 0.2\overline{6}\thinspace$min), and underestimates it slightly afterwards.
