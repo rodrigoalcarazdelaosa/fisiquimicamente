@@ -1,4 +1,5 @@
 const navbar = document.getElementById('navbar-main');
+const desktop = matchMedia('(min-width: 1200px)');
 let breadcrumbHeight = 0;
 const headerHeight = () => (navbar?.getBoundingClientRect().height || 0) + breadcrumbHeight;
 
@@ -31,7 +32,7 @@ function initScrollHeader() {
   if (breadcrumb) {
     breadcrumb.className = 'header-breadcrumb';
     header.append(breadcrumb);
-    const observer = new ResizeObserver(() => {
+    function alignBreadcrumb() {
       const bounds = originalList?.getBoundingClientRect();
       breadcrumb.classList.toggle('header-breadcrumb--aligned', Boolean(bounds?.width));
       if (bounds?.width) {
@@ -41,6 +42,14 @@ function initScrollHeader() {
       breadcrumbHeight = Math.ceil(breadcrumb.getBoundingClientRect().height);
       document.documentElement.style.setProperty('--header-breadcrumb-height', `${breadcrumbHeight}px`);
       updateBreadcrumb(scrollPosition(), navbar.offsetHeight);
+    }
+    alignBreadcrumb();
+
+    let frame = 0;
+    const observer = new ResizeObserver(() => {
+      // Changing the clone's width can resize it again. Wait until the next frame.
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(alignBreadcrumb);
     });
     observer.observe(breadcrumb);
     if (originalList) observer.observe(originalList);
@@ -53,7 +62,10 @@ function initScrollHeader() {
     const y = scrollPosition();
     const navbarHeight = navbar.offsetHeight;
     updateBreadcrumb(y, navbarHeight);
-    if (y < previousY || y <= navbarHeight || navbar.querySelector('[aria-expanded="true"]') || header.querySelector(':focus-visible')) {
+    const expanded = navbar.querySelector(desktop.matches
+      ? '[data-toggle="dropdown"][aria-expanded="true"]'
+      : '[aria-expanded="true"]');
+    if (y < previousY || y <= navbarHeight || expanded || header.querySelector(':focus-visible')) {
       header.classList.remove('header--hidden');
       downFrom = y;
     } else if (y - downFrom >= 12) {
@@ -110,7 +122,6 @@ function placeArticleContents() {
 
   const desktopPanel = toc.parentElement;
   const nextSibling = toc.nextSibling;
-  const desktop = matchMedia('(min-width: 1200px)');
   function place() {
     if (desktop.matches) {
       toc.id = 'TableOfContents';
@@ -145,6 +156,7 @@ function setCollapse(button, open) {
 }
 
 function initDropdowns() {
+  const hover = matchMedia('(hover: hover)');
   let active;
   let closeTimer;
   function close() {
@@ -167,27 +179,31 @@ function initDropdowns() {
     if (!trigger) return;
     trigger.setAttribute('aria-expanded', 'false');
     dropdown.addEventListener('pointerenter', event => {
-      if (event.pointerType === 'mouse' && matchMedia('(hover: hover)').matches) open(dropdown);
+      if (event.pointerType !== 'mouse' || !hover.matches) return;
+      if (active === dropdown) clearTimeout(closeTimer);
+      else if (!active?.querySelector('.dropdown-menu :focus-visible')) open(dropdown);
     });
     dropdown.addEventListener('pointerleave', event => {
-      if (event.pointerType === 'mouse' && active === dropdown) closeTimer = setTimeout(close, 300);
+      if (event.pointerType !== 'mouse' || active !== dropdown) return;
+      closeTimer = setTimeout(() => {
+        if (!dropdown.querySelector(':focus-visible')) close();
+      }, 300);
     });
     trigger.addEventListener('click', event => {
       event.preventDefault();
       active === dropdown ? close() : open(dropdown);
     });
     dropdown.addEventListener('keydown', event => {
+      if (event.key !== 'ArrowDown' && event.key !== 'ArrowUp') return;
+      event.preventDefault();
+      if (active !== dropdown) open(dropdown);
       const items = [...dropdown.querySelectorAll('.dropdown-item:not(.disabled)')];
-      if (event.key === 'Escape') {
-        close();
-        trigger.focus();
-      } else if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
-        event.preventDefault();
-        if (active !== dropdown) open(dropdown);
-        const index = items.indexOf(document.activeElement);
-        const direction = event.key === 'ArrowUp' ? -1 : 1;
-        items[Math.min(items.length - 1, Math.max(0, index + direction))]?.focus();
-      }
+      const index = items.indexOf(document.activeElement);
+      const direction = event.key === 'ArrowUp' ? -1 : 1;
+      const grid = desktop.matches && dropdown.classList.contains('nav-mega');
+      const step = grid && !items[index]?.classList.contains('mega-menu-overview') ? 2 : 1;
+      const next = index < 0 ? 0 : index + step * direction;
+      if (next >= 0) items[Math.min(items.length - 1, next)]?.focus();
     });
   });
   document.addEventListener('click', event => {
@@ -195,6 +211,14 @@ function initDropdowns() {
   });
   document.addEventListener('focusin', event => {
     if (!active?.contains(event.target)) close();
+  });
+  desktop.addEventListener('change', close);
+  document.addEventListener('keydown', event => {
+    if (event.key !== 'Escape' || event.defaultPrevented || !active) return;
+    const trigger = active.querySelector('[data-toggle="dropdown"]');
+    event.preventDefault();
+    close();
+    trigger.focus({preventScroll: true});
   });
 }
 

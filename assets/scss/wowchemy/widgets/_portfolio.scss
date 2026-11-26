@@ -2,7 +2,7 @@
  *  Projects
  **************************************************/
 
-.js-layout-row > .isotope-item { position: relative; }
+.js-layout-row > .portfolio-item { position: relative; }
 
 .project-widget-simple li {
   margin-bottom: 1rem;
@@ -26,7 +26,51 @@
 }
 
 .projects-container.js-layout-masonry {
+  --masonry-columns: 1;
+  --masonry-gap: 20px;
+  --masonry-card-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  column-gap: var(--masonry-gap);
   overflow: hidden;
+
+  @media screen and (width > 768px) {
+    --masonry-columns: 2;
+    --masonry-card-width: calc(50% - 10px);
+
+    &[data-masonry-ready] {
+      height: var(--masonry-height);
+
+      > .project-card {
+        position: absolute;
+        top: 0;
+        left: 0;
+        transform: translate(var(--masonry-x), var(--masonry-y));
+      }
+    }
+
+  }
+
+  @media screen and (width > 1199px) {
+    --masonry-columns: 3;
+    --masonry-card-width: calc(33.3% - 13.3px);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    &[data-masonry-animate] > .project-card {
+      transition: transform 0.4s, opacity 0.4s, display 0.4s allow-discrete;
+
+      &.d-none {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      @starting-style {
+        opacity: 0;
+      }
+    }
+  }
 }
 
 .project-toolbar {
@@ -35,21 +79,7 @@
 
 .project-card {
   position: relative;
-  width: calc(
-    33.3% - 13.3px
-  ); /* Fluid 3 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
-}
-@media screen and (max-width: 1199px) {
-  .project-card {
-    width: calc(
-      50% - 10px
-    ); /* Fluid 2 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
-  }
-}
-@media screen and (max-width: 768px) {
-  .project-card {
-    width: 100%; /* 1 column */
-  }
+  width: var(--masonry-card-width);
 }
 
 .project-item {
@@ -57,11 +87,11 @@
 }
 
 .project-card.project-item {
-  margin: 0 0 20px; /* Set to Isotope's gutter size */
+  margin: 0 0 var(--masonry-gap);
 }
 
 .project-card .card {
-  margin: 0; /* Remove default card margin and use Isotope gutter */
+  margin: 0;
 }
 
 .project-showcase .project-item {
@@ -72,11 +102,11 @@
   margin-bottom: 0;
 }
 
-.isotope-item {
+.portfolio-item {
   z-index: 2;
 }
 
-.isotope-item:hover {
+.portfolio-item:hover {
   z-index: 3;
 }
 

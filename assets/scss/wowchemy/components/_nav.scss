@@ -75,10 +75,111 @@
 
 .dropdown-menu.show { display: block; }
 
+.navbar-submenu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.navbar button.dropdown-toggle {
+  border: 0;
+  border-radius: 0.25rem;
+  background: transparent;
+  text-align: start;
+  font: inherit;
+}
+
+.navbar button.dropdown-toggle:focus-visible {
+  outline: 2px solid var(--menu-color);
+  outline-offset: 2px;
+}
+
+.mega-menu .navbar-submenu a { white-space: normal; }
+
+@include breakpoints.up(xl) {
+  .navbar .nav-item.nav-mega { position: static; }
+
+  .nav-mega > button { position: relative; }
+
+  // Keep the pointer inside the menu as it crosses the gap under the button.
+  .nav-mega > [aria-expanded="true"]::before {
+    content: "";
+    position: absolute;
+    inset: 100% 0 auto;
+    block-size: calc(var(--navbar-height) / 2);
+  }
+
+  .navbar .mega-menu {
+    --mega-inset: max(1rem, (100% - 54rem) / 2);
+    inset-block-start: 100%;
+    inset-inline: var(--mega-inset);
+    inline-size: max-content;
+    max-inline-size: calc(100% - 2 * var(--mega-inset));
+    max-block-size: calc(100dvh - var(--navbar-height) - 1rem);
+    margin: 0;
+    margin-inline-end: auto;
+    padding: 1rem;
+    overflow: auto;
+    border-block-start: 0;
+    border-start-start-radius: 0;
+    border-start-end-radius: 0;
+  }
+
+  .mega-menu .navbar-submenu {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 0.15rem 0.9rem;
+  }
+
+  .navbar .mega-menu .navbar-submenu a {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+    inline-size: fit-content;
+    max-inline-size: 100%;
+    min-height: 100%;
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+    text-align: start;
+  }
+
+  .navbar .mega-menu .dropdown-item:is(:hover, :focus-visible, .active) {
+    background: color-mix(in srgb, var(--menu-background) 86%, #{nord.$nord8});
+  }
+
+  .mega-menu .dropdown-item:focus-visible {
+    outline: 2px solid var(--menu-color);
+    outline-offset: -3px;
+  }
+
+  .mega-menu .navbar-menu-emoji {
+    display: grid;
+    flex: none;
+    place-items: center;
+    inline-size: 2.35rem;
+    aspect-ratio: 1;
+    border-radius: 0.45rem;
+    background: color-mix(in srgb, var(--menu-background) 91%, var(--menu-color));
+    font-size: 1.6rem;
+    line-height: 1;
+  }
+
+  .mega-menu .mega-menu-overview {
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+    width: fit-content;
+    min-block-size: 44px;
+    margin: 0.45rem 0 0 auto;
+    padding-inline: 0.45rem;
+    border-radius: 0.5rem;
+  }
+}
+
 html {
   --navbar-height: 70px;
 
-  @include breakpoints.down(md) {
+  @include breakpoints.down(lg) {
     --navbar-height: 50px;
   }
 }
@@ -164,42 +265,42 @@ html:has(.page-header #navbar-main) {
   text-decoration: none;
 }
 
-@media (max-width: 991.98px) {
-  .navbar-expand-lg > .container,
-  .navbar-expand-lg > .container-fluid,
-  .navbar-expand-lg > .container-xl {
+@include breakpoints.down(lg) {
+  .navbar-expand-xl > .container,
+  .navbar-expand-xl > .container-fluid,
+  .navbar-expand-xl > .container-xl {
     padding-right: 0;
     padding-left: 0;
   }
 }
 
-@media (min-width: 992px) {
-  .navbar-expand-lg {
+@include breakpoints.up(xl) {
+  .navbar-expand-xl {
     flex-flow: row nowrap;
     justify-content: flex-start;
   }
 
-  .navbar-expand-lg .navbar-nav { flex-direction: row; }
+  .navbar-expand-xl .navbar-nav { flex-direction: row; }
 
-  .navbar-expand-lg .navbar-nav .dropdown-menu { position: absolute; }
+  .navbar-expand-xl .navbar-nav .dropdown-menu { position: absolute; }
 
-  .navbar-expand-lg .navbar-nav .nav-link {
+  .navbar-expand-xl .navbar-nav .nav-link {
     padding-right: 0.5rem;
     padding-left: 0.5rem;
   }
 
-  .navbar-expand-lg > .container,
-  .navbar-expand-lg > .container-fluid,
-  .navbar-expand-lg > .container-xl {
+  .navbar-expand-xl > .container,
+  .navbar-expand-xl > .container-fluid,
+  .navbar-expand-xl > .container-xl {
     flex-wrap: nowrap;
   }
 
-  .navbar-expand-lg .navbar-collapse {
+  .navbar-expand-xl .navbar-collapse {
     display: flex;
     flex-basis: auto;
   }
 
-  .navbar-expand-lg .navbar-toggler { display: none; }
+  .navbar-expand-xl .navbar-toggler { display: none; }
 }
 
 .navbar-light .navbar-brand { color: var(--menu-brand); }
@@ -279,7 +380,7 @@ html:has(.page-header #navbar-main) {
   box-shadow: none;
 }
 
-@include breakpoints.down(md) {
+@include breakpoints.down(lg) {
   /* Match breakpoint for i18n dropdown in navbar.html. */
   .i18n-dropdown .nav-link::after {
     // Remove dropdown arrow on small devices (when language name isn't displayed).
@@ -337,7 +438,7 @@ html:has(.page-header #navbar-main) {
   color: var(--menu-color);
 }
 
-@include breakpoints.down(md) {
+@include breakpoints.down(lg) {
   #navbar-main .main-menu-item {
     text-align: left;
     padding-left: 0;
@@ -349,9 +450,12 @@ html:has(.page-header #navbar-main) {
     left: 0;
     top: var(--navbar-height);
     width: 100%;
+    max-block-size: calc(100dvh - var(--navbar-height));
     background-color: var(--menu-background);
     text-align: center;
   }
+
+  .navbar-collapse.show { overflow-y: auto; }
 
   #navbar-main .main-menu-item .nav-item {
     padding: 10px 15px;
@@ -420,7 +524,7 @@ ul.nav-icons li.nav-item .nav-link {
   }
 }
 
-@include breakpoints.down(md) {
+@include breakpoints.down(lg) {
   .navbar-toggler {
     display: flex;
     align-items: center;

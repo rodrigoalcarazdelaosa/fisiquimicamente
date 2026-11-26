@@ -93,38 +93,16 @@ function prepareContent() {
 function initPortfolio(container) {
   const section = container.closest('section');
   const initialFilter = section.querySelector('.default-project-filter')?.textContent || '*';
-  const masonry = container.classList.contains('js-layout-masonry') && window.Isotope;
-  const isotope = masonry ? new Isotope(container, {
-    itemSelector: '.isotope-item', masonry: {gutter: 20}, filter: initialFilter,
-  }) : null;
-  const items = container.querySelectorAll('.isotope-item');
+  const items = container.children;
   const filters = [...section.querySelectorAll('.project-filters a')];
 
-  if (isotope) {
-    let frame;
-    const scheduleLayout = () => {
-      if (frame) return;
-      frame = requestAnimationFrame(() => {
-        frame = null;
-        isotope.layout();
-      });
-    };
-    if ('ResizeObserver' in window) {
-      const observer = new ResizeObserver(scheduleLayout);
-      items.forEach(item => observer.observe(item));
-    } else {
-      container.addEventListener('load', scheduleLayout, true);
-      document.fonts?.ready.then(scheduleLayout);
-    }
-  }
-
   function applyFilter(selector) {
-    if (isotope) isotope.arrange({filter: selector});
-    else for (const item of items) item.classList.toggle('d-none', !item.matches(selector));
+    for (const item of items) item.classList.toggle('d-none', !item.matches(selector));
   }
 
   function selectFilter(filter) {
     applyFilter(filter?.dataset.filter ?? initialFilter);
+    container.dispatchEvent(new Event('portfoliofilter'));
     for (const button of filters) {
       const active = button === filter;
       button.classList.toggle('active', active);
@@ -166,7 +144,7 @@ function initPortfolio(container) {
     return;
   }
 
-  if (!isotope) applyFilter(initialFilter);
+  applyFilter(initialFilter);
   container.classList.remove('masonry-initial-filter');
   for (const filter of filters) {
     filter.addEventListener('click', event => {

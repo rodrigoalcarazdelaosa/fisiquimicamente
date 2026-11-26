@@ -1,73 +1,91 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+# Use pageRef for internal pages and url for external links.
+# The weight determines the order within each group.
 
 main:
-  - name: 💼 Recursos FyQ
-    url: recursos-fisica-quimica/
+  - name: Recursos FyQ
+    pageRef: /recursos-fisica-quimica
     identifier: recursos-fyq
     weight: 1
-  - name: 📚 Apuntes
-    url: recursos-fisica-quimica/apuntes
+    params:
+      mega: true
+      overview: 💼 Todos los recursos
+      emoji: 💼
+  - name: Apuntes
+    pageRef: /apuntes
     parent: recursos-fyq
     weight: 1
-  - name: 🗒️ Actividades
-    url: recursos-fisica-quimica/actividades
+    params:
+      emoji: 📚
+  - name: Actividades
+    pageRef: /actividades
     parent: recursos-fyq
     weight: 2
-  - name: 🧩 Juegos
-    url: recursos-fisica-quimica/juegos
+    params:
+      emoji: 🗒️
+  - name: Juegos
+    pageRef: /juegos
     parent: recursos-fyq
     weight: 3
-  - name: 🧪 Prácticas de laboratorio
-    url: recursos-fisica-quimica/practicas-laboratorio
+    params:
+      emoji: 🧩
+  - name: Prácticas de laboratorio
+    pageRef: /practicas-laboratorio
     parent: recursos-fyq
     weight: 4
-  - name: 📖 Historia de la Ciencia
-    url: recursos-fisica-quimica/historia-ciencia
+    params:
+      emoji: 🧪
+  - name: Historia de la Ciencia
+    pageRef: /historia-ciencia
     parent: recursos-fyq
     weight: 5
-  - name: 🎓 EBAU
-    url: recursos-fisica-quimica/ebau
+    params:
+      emoji: 📖
+  - name: EBAU
+    pageRef: /ebau
     parent: recursos-fyq
     weight: 6
-  - name: 🧑‍🏫 Formación del profesorado
-    url: recursos-fisica-quimica/formacion-profesorado
+    params:
+      emoji: 🎓
+  - name: Formación del profesorado
+    pageRef: /formacion-profesorado
     parent: recursos-fyq
     weight: 7
-  - name: ☢️ Radiofísica
-    url: recursos-fisica-quimica/radiofisica
+    params:
+      emoji: 🧑‍🏫
+  - name: Radiofísica
+    pageRef: /radiofisica
     parent: recursos-fyq
     weight: 8
+    params:
+      emoji: ☢️
   - name: 🤝 Tutoriales
-    url: tutoriales/
+    pageRef: /tutoriales
     identifier: tutoriales
     weight: 2
   - name: LaTeX
     parent: tutoriales
-    url: tutoriales/latex
+    pageRef: /tutoriales/latex
     weight: 1
   - name: Presentación de información
     parent: tutoriales
-    url: tutoriales/presentacion-informacion
+    pageRef: /tutoriales/presentacion-informacion
     weight: 2
   - name: 🔗 Enlaces de interés
-    url: enlaces-interes/
+    pageRef: /enlaces-interes
     identifier: enlaces-interes
     weight: 3
   - name: 💻 Recursos online
-    url: enlaces-interes/recursos-online
+    pageRef: /recursos-online
     parent: enlaces-interes
     weight: 1
   - name: 🤗 Páginas amigas
-    url: enlaces-interes/paginas-amigas
+    pageRef: /paginas-amigas
     parent: enlaces-interes
     weight: 2
   - name: ✍️ Blog
-    url: /blog
+    pageRef: /post
     weight: 4
   - name: 👥 Equipo
-    url: equipo/
+    pageRef: /equipo
     identifier: equipo
     weight: 5

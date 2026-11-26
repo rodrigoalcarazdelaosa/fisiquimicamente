@@ -12,20 +12,16 @@
   .d-md-none { display: none; }
 
   .d-md-flex { display: flex; }
-
-  .d-md-inline-flex { display: inline-flex; }
-}
-
-@media (min-width: 992px) {
-  .d-lg-inline { display: inline; }
-
-  .d-lg-inline-flex { display: inline-flex; }
 }
 
 @media (min-width: 1200px) {
   .d-xl-none { display: none; }
 
   .d-xl-block { display: block; }
+
+  .d-xl-inline { display: inline; }
+
+  .d-xl-inline-flex { display: inline-flex; }
 }
 
 @media print {
