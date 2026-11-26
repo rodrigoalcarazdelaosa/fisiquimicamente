@@ -40,7 +40,7 @@
   "/css/chroma/*" "/css/gallery-grid.min.*.css" "/css/gallery.min.*.css"
   "/css/libs/reveal/white.min.*.css" "/css/reveal_custom.min.*.css"
   "/css/notes-tutor.min.*.css" "/css/progress.min.*.css"
-  "/js/site-*.js" "/js/tgs-players.*.js" "/js/deferred-embeds.*.js" "/js/footnotes.min.*.js"
+  "/js/site-*.js" "/js/masonry.*.js" "/js/tgs-players.*.js" "/js/deferred-embeds.*.js" "/js/footnotes.min.*.js"
   "/js/deferred-content.*.js" "/js/charts/*"
   "/js/vendor/chartjs-plugin-annotation.min.*.js" "/js/vendor/chartjs-chart-sankey.min.*.js"
   "/css/chart-sankey.min.*.css"

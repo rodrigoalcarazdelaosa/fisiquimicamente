@@ -7,10 +7,6 @@
   <script type="module" src="{{ $phet.RelPermalink }}"></script>
 {{ end }}
 
-{{ if .Page.Store.Get "has_isotope" }}
-  <script data-cfasync="false" defer src="{{ partial "functions/script_url.html" $js.isotope }}" integrity="{{ $js.isotope.sri }}" crossorigin="anonymous"></script>
-{{ end }}
-
 {{ if .Page.Store.Get "has_gallery" }}
   {{ $gallery_styles := resources.Get "css/gallery.css" | minify | fingerprint }}
   {{ $gallery_params := dict
@@ -73,6 +69,10 @@
 {{ end }}
 {{ $script = $script | fingerprint }}
 <script data-cfasync="false" defer src="{{ $script.RelPermalink }}"></script>
+{{ if .Page.Store.Get "has_masonry" }}
+  {{ $masonry := resources.Get "js/masonry.js" | js.Build (dict "format" "esm" "minify" hugo.IsProduction) | fingerprint }}
+  <script data-cfasync="false" type="module" src="{{ $masonry.RelPermalink }}"></script>
+{{ end }}
 
 {{/* EXTENSIBILITY HOOK: BODY-END */}}
 {{/* Deprecated custom_js hook */}}

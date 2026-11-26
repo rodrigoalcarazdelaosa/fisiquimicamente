@@ -9,11 +9,6 @@
   mhchem_url = "https://cdn.jsdelivr.net/npm/katex@%s/dist/contrib/mhchem.mjs"
   sri = "sha384-GvCRcStQrfyc+34IuG1fjioExIQybgNb2LE8MN8smGRkbJ+oEzxvGlUBA309Nj9I"
   mhchem_sri = "sha384-hUJkSJCKmim3g1SZ9xRW7KUNgExE7tNIxsiFuql+TwNPMeXw4kN4HSu6LeLqPnc0"
-[js.isotope]
-  version = "3.0.6"
-  sri = "sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew=="
-  url = "https://cdn.jsdelivr.net/gh/metafizzy/isotope@v%s/dist/isotope.pkgd.min.js"
-
 [js.lottiePlayer]
   version = "2.0.12"
   url = "https://unpkg.com/@lottiefiles/lottie-player@%s/dist/tgs-player.js"
