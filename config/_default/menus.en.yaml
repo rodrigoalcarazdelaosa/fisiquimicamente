@@ -1,57 +1,71 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+# Use pageRef for internal pages and url for external links.
+# The weight determines the order within each group.
 
 main:
-  - name: 📚 Notes
-    url: physics-chemistry-notes/
+  - name: Notes
+    pageRef: /apuntes
     identifier: apuntes
     weight: 1
-  - name: 📗 13-14 year-olds
-    url: physics-chemistry-notes/13-14-year-olds
+    params:
+      mega: true
+      overview: 📚 All notes
+      emoji: 📚
+  - name: 13-14 year-olds
+    pageRef: /apuntes-2eso
     parent: apuntes
     weight: 1
-  - name: 📘 14-15 year-olds
-    url: physics-chemistry-notes/14-15-year-olds
+    params:
+      emoji: 📗
+  - name: 14-15 year-olds
+    pageRef: /apuntes-3eso
     parent: apuntes
     weight: 2
-  - name: 📙 15-16 year-olds
-    url: physics-chemistry-notes/15-16-year-olds
+    params:
+      emoji: 📘
+  - name: 15-16 year-olds
+    pageRef: /apuntes-4eso
     parent: apuntes
     weight: 3
-  - name: 📕 16-17 year-olds
-    url: physics-chemistry-notes/16-17-year-olds
+    params:
+      emoji: 📙
+  - name: 16-17 year-olds
+    pageRef: /apuntes-1bach
     parent: apuntes
     weight: 4
-  - name: 📓 17-18 year-olds
-    url: physics-chemistry-notes/17-18-year-olds
+    params:
+      emoji: 📕
+  - name: 17-18 year-olds
+    pageRef: /apuntes-2bach
     parent: apuntes
     weight: 5
-  - name: 📔 Nomenclature of Chemistry
-    url: physics-chemistry-notes/nomenclature-chemistry
+    params:
+      emoji: 📓
+  - name: Nomenclature of Chemistry
+    pageRef: /apuntes-formulacion-nomenclatura-quimica
     parent: apuntes
     weight: 6
+    params:
+      emoji: 📔
   - name: 🤝 Tutorials
-    url: tutorials/
+    pageRef: /tutoriales
     identifier: tutoriales
     weight: 3
   - name: LaTeX
     parent: tutoriales
-    url: tutorials/latex
+    pageRef: /tutoriales/latex
     weight: 1
   - name: Presentation of Information
     parent: tutoriales
-    url: tutorials/presentation-information
+    pageRef: /tutoriales/presentacion-informacion
     weight: 2
   - name: 🔗 Online Resources
-    url: online-resources/
+    pageRef: /recursos-online
     identifier: enlaces-interes
     weight: 4
   - name: ✍️ Blog
-    url: /blog
+    pageRef: /post
     weight: 5
   - name: 👥 Team
-    url: team/
+    pageRef: /equipo
     identifier: team
     weight: 6

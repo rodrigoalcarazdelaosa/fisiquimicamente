@@ -1,0 +1,39 @@
+{{- $entry := .entry -}}
+{{- $page := .page -}}
+{{- $url := $entry.URL -}}
+{{- $subitem := .subitem | default false -}}
+{{- $mega := and $entry.HasChildren $entry.Params.mega -}}
+{{- $panel := printf "navbar-%s-%s" $entry.Menu ($entry.KeyName | anchorize) -}}
+{{- $class := cond $subitem "dropdown-item" "nav-link" -}}
+{{- $current := $page.IsMenuCurrent $entry.Menu $entry -}}
+{{- /* Some widget pages sit above content by permalink, not by Hugo section. */ -}}
+{{- $nested := and $entry.Page (not $entry.Page.IsHome) (hasPrefix $page.RelPermalink $url) -}}
+{{- $active := and (ne site.Params.header.navbar.highlight_active_link false) (or $current ($page.HasMenuCurrent $entry.Menu $entry) $nested) -}}
+<li{{ if not $subitem }} class="nav-item{{ if $entry.HasChildren }} dropdown{{ end }}{{ if $mega }} nav-mega{{ end }}"{{ end }}>
+  {{- if $entry.HasChildren }}
+  <button type="button" class="{{ $class }} dropdown-toggle{{ if $active }} active{{ end }}"
+          data-toggle="dropdown" aria-expanded="false" aria-controls="{{ $panel }}">
+  {{- else }}
+  <a class="{{ $class }}{{ if $active }} active{{ end }}" href="{{ $url }}"
+     {{- if $current }} aria-current="page"{{ end }}
+     {{- if and (not $entry.Page) (in (slice "http" "https") (urls.Parse $url).Scheme) }} target="_blank" rel="noopener"{{ end }}>
+  {{- end }}
+    {{- $entry.Pre -}}
+    {{- with $entry.Params.emoji }}<span class="navbar-menu-emoji" aria-hidden="true">{{ . }}</span>{{ " " }}{{ end -}}
+    <span>{{ $entry.Name | safeHTML }}</span>
+    {{- $entry.Post -}}
+  {{- if $entry.HasChildren }}</button>
+    <div class="dropdown-menu{{ if $mega }} mega-menu{{ end }}" id="{{ $panel }}">
+      <ul class="navbar-submenu">
+        {{- range $entry.Children }}
+          {{ partial "components/headers/menu-item.html" (dict "entry" . "page" $page "subitem" true) }}
+        {{- end }}
+      </ul>
+      {{- if $mega }}
+        {{- with $entry.Params.overview }}
+        <a class="dropdown-item mega-menu-overview" href="{{ $url }}"{{ if $current }} aria-current="page"{{ end }}>{{ . }} <span aria-hidden="true">→</span></a>
+        {{- end }}
+      {{- end }}
+    </div>
+  {{- else }}</a>{{ end }}
+</li>
