@@ -1,6 +1,11 @@
 {{- $csp := site.Params.security.csp -}}
 {{- $csp_policy := $csp.policy | default "" -}}
-{{- $csp_candidate := $csp.report_policy | default "" -}}
+{{- $csp_candidate := "" -}}
+{{- $reporting_endpoints := "" -}}
+{{- if and $csp.report_policy $csp.report_endpoint -}}
+  {{- $csp_candidate = printf "%s; report-to csp;" ($csp.report_policy | strings.TrimSpace | strings.TrimSuffix ";") -}}
+  {{- $reporting_endpoints = printf "csp=%q" $csp.report_endpoint -}}
+{{- end -}}
 {{- $scripts := partial "functions/csp_script_policy.html" (dict "page" . "enforce" $csp.enforce_scripts) -}}
 {{- if $csp.enforce_scripts -}}
   {{/* An explicit worker policy keeps blob workers from falling back to script-src. */}}
@@ -19,7 +24,10 @@
   X-Content-Type-Options: nosniff
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Referrer-Policy: strict-origin-when-cross-origin
-{{ range slice (dict "name" "Content-Security-Policy" "value" $csp_policy) (dict "name" "Content-Security-Policy-Report-Only" "value" $csp_candidate) -}}
+{{ range slice
+  (dict "name" "Content-Security-Policy" "value" $csp_policy)
+  (dict "name" "Content-Security-Policy-Report-Only" "value" $csp_candidate)
+  (dict "name" "Reporting-Endpoints" "value" $reporting_endpoints) -}}
   {{- if .value -}}
     {{- $line := printf "  %s: %s" .name (.value | replaceRE "\\s+" " " | strings.TrimSpace) -}}
     {{- if gt (len $line) 2000 -}}

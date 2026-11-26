@@ -32,7 +32,7 @@ function initScrollHeader() {
   if (breadcrumb) {
     breadcrumb.className = 'header-breadcrumb';
     header.append(breadcrumb);
-    const observer = new ResizeObserver(() => {
+    function alignBreadcrumb() {
       const bounds = originalList?.getBoundingClientRect();
       breadcrumb.classList.toggle('header-breadcrumb--aligned', Boolean(bounds?.width));
       if (bounds?.width) {
@@ -42,6 +42,14 @@ function initScrollHeader() {
       breadcrumbHeight = Math.ceil(breadcrumb.getBoundingClientRect().height);
       document.documentElement.style.setProperty('--header-breadcrumb-height', `${breadcrumbHeight}px`);
       updateBreadcrumb(scrollPosition(), navbar.offsetHeight);
+    }
+    alignBreadcrumb();
+
+    let frame = 0;
+    const observer = new ResizeObserver(() => {
+      // Changing the clone's width can resize it again. Wait until the next frame.
+      cancelAnimationFrame(frame);
+      frame = requestAnimationFrame(alignBreadcrumb);
     });
     observer.observe(breadcrumb);
     if (originalList) observer.observe(originalList);

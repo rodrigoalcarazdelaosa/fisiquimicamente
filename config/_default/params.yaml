@@ -102,6 +102,8 @@ security:
       - https://documentcloud.adobe.com/view-sdk/
       - https://public.codepenassets.com/embed/
       - https://imgur.com/min/embed-controller.js
+    # Set an HTTPS collector URL to enable the report-only policy below.
+    report_endpoint: ""
     report_policy: >-
       manifest-src 'self';
       style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdn.jsdelivr.net;
